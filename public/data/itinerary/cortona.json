@@ -1,0 +1,1125 @@
+{
+  "city_id": "cortona",
+  "anchor": {
+    "name": "Cortona",
+    "coords": [
+      11.9854,
+      43.2752
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza della Repubblica",
+            "hu": "Piazza della Repubblica",
+            "ro": "Piazza della Repubblica",
+            "en": "Piazza della Repubblica"
+          },
+          "coords": [
+            11.985,
+            43.275
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der lebendige Mittelpunkt der Stadt.",
+            "hu": "A város nyüzsgő központja.",
+            "ro": "Centrul vibrant al orașului.",
+            "en": "The lively center of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Comunale",
+            "hu": "Városháza",
+            "ro": "Palazzo Comunale",
+            "en": "Communal Palace"
+          },
+          "coords": [
+            11.9852,
+            43.2752
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Bekannt für seine markante Treppe.",
+            "hu": "A jellegzetes lépcsőjéről ismert.",
+            "ro": "Cunoscut pentru scara sa distinctivă.",
+            "en": "Known for its distinctive staircase."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Cortona",
+            "hu": "Cortonai dóm",
+            "ro": "Domul din Cortona",
+            "en": "Cortona Cathedral"
+          },
+          "coords": [
+            11.984,
+            43.2765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine elegante Renaissance-Kathedrale.",
+            "hu": "Egy elegáns reneszánsz katedrális.",
+            "ro": "O catedrală renascentistă elegantă.",
+            "en": "An elegant Renaissance cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Diocesano",
+            "hu": "Egyházmegyei Múzeum",
+            "ro": "Museo Diocesano",
+            "en": "Diocesan Museum"
+          },
+          "coords": [
+            11.9845,
+            43.276
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beherbergt Fra Angelicos Verkündigung.",
+            "hu": "Itt található Fra Angelico Angyali üdvözlete.",
+            "ro": "Găzduiește Buna Vestire a lui Fra Angelico.",
+            "en": "Houses Fra Angelico's Annunciation."
+          }
+        },
+        {
+          "name": {
+            "de": "MAEC - Museo dell'Accademia Etrusca",
+            "hu": "MAEC - Etruszk Akadémia Múzeuma",
+            "ro": "MAEC",
+            "en": "MAEC - Museum of the Etruscan Academy"
+          },
+          "coords": [
+            11.9855,
+            43.2755
+          ],
+          "category": "museums",
+          "arrive_at": "13:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die etruskische Vergangenheit.",
+            "hu": "Fedezd fel az etruszk múltat.",
+            "ro": "Descoperiți trecutul etrusc.",
+            "en": "Discover the Etruscan past."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Francesco",
+            "hu": "Szent Ferenc templom",
+            "ro": "Biserica San Francesco",
+            "en": "Church of San Francesco"
+          },
+          "coords": [
+            11.987,
+            43.276
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Hier wird eine Reliquie des Heiligen Franziskus aufbewahrt.",
+            "hu": "Itt őriznek egy Szent Ferenc-ereklyét.",
+            "ro": "Aici este păstrată o relicvă a Sfântului Francisc.",
+            "en": "A relic of Saint Francis is kept here."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di Santa Margherita",
+            "hu": "Szent Margit bazilika",
+            "ro": "Bazilica Sfânta Margareta",
+            "en": "Basilica of Santa Margherita"
+          },
+          "coords": [
+            11.99,
+            43.278
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den spirituellen Ort.",
+            "hu": "Megéri a kapaszkodás ezért a szakrális helyért.",
+            "ro": "Urcușul merită pentru acest loc spiritual.",
+            "en": "The climb is worth it for the spiritual site."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortezza di Girifalco",
+            "hu": "Girifalco erőd",
+            "ro": "Fortăreața Girifalco",
+            "en": "Girifalco Fortress"
+          },
+          "coords": [
+            11.991,
+            43.28
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der höchste Punkt mit Panoramablick.",
+            "hu": "A legmagasabb pont panorámás kilátással.",
+            "ro": "Cel mai înalt punct cu vedere panoramică.",
+            "en": "The highest point with panoramic views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie auf der belebten Piazza della Repubblica im Herzen Cortonas. Besuchen Sie den Dom und das angrenzende Diözesanmuseum.\n\nTauchen Sie mittags im MAEC tief in die etruskische Geschichte ein, die diese Region geprägt hat.\n\nAm Nachmittag führt Sie ein stetiger Aufstieg vorbei an der Kirche San Francesco zur Basilika der Heiligen Margareta.\n\nBeenden Sie Ihre Wanderung an der Festung Girifalco, um den Sonnenuntergang über dem Trasimenischen See zu erleben.",
+        "hu": "Kezdd a nyüzsgő Piazza della Republicán, Cortona szívében. Látogasd meg a dómot és a szomszédos Egyházmegyei Múzeumot.\n\nDélben merülj el az etruszk történelemben a MAEC múzeumban, amely meghatározta ezt a régiót.\n\nDélután egy folyamatos emelkedő vezet a Szent Ferenc templom mellett a Szent Margit bazilikához.\n\nZárd a sétát a Girifalco erődnél, hogy megcsodáld a naplementét a Trasimeno-tó felett.",
+        "ro": "Începeți în animata Piazza della Repubblica, în inima Cortonei. Vizitați domul și Muzeul Diecezan adiacent.\n\nLa prânz, aprofundați istoria etruscă la MAEC, care a modelat această regiune.\n\nDupă-amiaza, o urcare constantă vă poartă pe lângă biserica San Francesco către Bazilica Sfintei Margareta.\n\nÎncheiați drumeția la fortăreața Girifalco pentru a experimenta apusul peste lacul Trasimeno.",
+        "en": "Start at the bustling Piazza della Repubblica in the heart of Cortona. Visit the Duomo and the adjacent Diocesan Museum.\n\nAt midday, delve deep into Etruscan history at MAEC, which shaped this region.\n\nIn the afternoon, a steady climb leads you past the Church of San Francesco to the Basilica of Santa Margherita.\n\nFinish your walk at the Girifalco Fortress to witness the sunset over Lake Trasimeno."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chianina-Rind",
+            "tip": "Probieren Sie das Fleisch der weißen Rinder."
+          },
+          {
+            "name": "Ribollita",
+            "tip": "Deftiger toskanischer Brot- und Gemüseeintopf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chianina marha",
+            "tip": "Próbáld ki a fehér marhák húsát."
+          },
+          {
+            "name": "Ribollita",
+            "tip": "Kiadós toszkán kenyér- és zöldségleves."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vită Chianina",
+            "tip": "Încercați carnea vacilor albe."
+          },
+          {
+            "name": "Ribollita",
+            "tip": "Supă consistentă toscană de pâine și legume."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chianina Beef",
+            "tip": "Try the meat of the white cattle."
+          },
+          {
+            "name": "Ribollita",
+            "tip": "Hearty Tuscan bread and vegetable soup."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belvedere di Cortona",
+            "tip": "Wunderschöner Panoramablick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvedere di Cortona",
+            "tip": "Csodálatos panoráma.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere di Cortona",
+            "tip": "Panoramă minunată.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belvedere di Cortona",
+            "tip": "Beautiful panoramic view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Terracotta-Keramik",
+            "tip": "Traditionelle Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Terracotta kerámia",
+            "tip": "Hagyományos kézművesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică de teracotă",
+            "tip": "Meșteșug tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Terracotta pottery",
+            "tip": "Traditional craftsmanship."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Cortona ist sehr steil, planen Sie Pausen ein.",
+          "Besuchen Sie die Drehorte von 'Under the Tuscan Sun'."
+        ],
+        "hu": [
+          "Cortona nagyon meredek, tervezz pihenőket.",
+          "Keresd fel a 'Napsütötte Toszkána' forgatási helyszíneit."
+        ],
+        "ro": [
+          "Cortona este foarte abruptă, planificați pauze.",
+          "Vizitați locațiile de filmare ale filmului 'Sub soarele Toscanei'."
+        ],
+        "en": [
+          "Cortona is very steep, plan for breaks.",
+          "Visit the filming locations of 'Under the Tuscan Sun'."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Belvedere di Cortona",
+            "hu": "Belvedere di Cortona",
+            "ro": "Belvedere di Cortona",
+            "en": "Belvedere di Cortona"
+          },
+          "coords": [
+            11.988,
+            43.274
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt für die Aussicht.",
+            "hu": "Tökéletes kiindulópont a kilátáshoz.",
+            "ro": "Punct de plecare perfect pentru vedere.",
+            "en": "Perfect starting point for the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Francesco",
+            "hu": "Szent Ferenc templom",
+            "ro": "Biserica San Francesco",
+            "en": "Church of San Francesco"
+          },
+          "coords": [
+            11.987,
+            43.276
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für eine Pause.",
+            "hu": "Csendes hely egy pihenőhöz.",
+            "ro": "Un loc liniștit pentru o pauză.",
+            "en": "A quiet place for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza della Repubblica",
+            "hu": "Piazza della Repubblica",
+            "ro": "Piazza della Repubblica",
+            "en": "Piazza della Repubblica"
+          },
+          "coords": [
+            11.985,
+            43.275
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Zentrum ist gut erreichbar.",
+            "hu": "A központ könnyen elérhető.",
+            "ro": "Centrul este ușor accesibil.",
+            "en": "The center is easily accessible."
+          }
+        },
+        {
+          "name": {
+            "de": "MAEC - Museo dell'Accademia Etrusca",
+            "hu": "MAEC - Etruszk Akadémia Múzeuma",
+            "ro": "MAEC",
+            "en": "MAEC - Museum of the Etruscan Academy"
+          },
+          "coords": [
+            11.9855,
+            43.2755
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Parken Sie das Rad sicher vor dem Eingang.",
+            "hu": "Parkold a biciklit biztonságosan a bejárat előtt.",
+            "ro": "Parcați bicicleta în siguranță în fața intrării.",
+            "en": "Park the bike safely in front of the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Cortona",
+            "hu": "Cortonai dóm",
+            "ro": "Domul din Cortona",
+            "en": "Cortona Cathedral"
+          },
+          "coords": [
+            11.984,
+            43.2765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schöne Aussicht auf das Tal von der Seite.",
+            "hu": "Szép kilátás a völgyre az oldalától.",
+            "ro": "O vedere frumoasă asupra văii din lateral.",
+            "en": "Nice view of the valley from the side."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di Santa Margherita",
+            "hu": "Szent Margit bazilika",
+            "ro": "Bazilica Sfânta Margareta",
+            "en": "Basilica of Santa Margherita"
+          },
+          "coords": [
+            11.99,
+            43.278
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die letzte Anstrengung bergauf.",
+            "hu": "Az utolsó erőfeszítés felfelé.",
+            "ro": "Ultimul efort în urcare.",
+            "en": "The final uphill effort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Aussichtspunkt Belvedere und radeln Sie zu den historischen Kirchen.\n\nEin Stopp am Hauptplatz ist Pflicht, bevor Sie sich der Kultur im MAEC widmen.\n\nBesuchen Sie den Dom und genießen Sie die kühle Brise in den Gassen.\n\nDer Abschluss bei Santa Margherita bietet die beste Belohnung nach dem Anstieg.",
+        "hu": "Kezdd a Belvedere kilátónál, és kerekezz el a történelmi templomokhoz.\n\nA főtéren egy megálló kötelező, mielőtt a MAEC kultúrájának szentelnéd magad.\n\nLátogasd meg a dómot, és élvezd a hűs szellőt az utcákon.\n\nA Szent Margit bazilikánál való befejezés kínálja a legjobb jutalmat az emelkedő után.",
+        "ro": "Începeți la punctul de belvedere Belvedere și pedalați spre bisericile istorice.\n\nO oprire în piața principală este obligatorie înainte de a vă dedica culturii la MAEC.\n\nVizitați domul și bucurați-vă de briza răcoroasă de pe străzi.\n\nFinalul la Santa Margherita oferă cea mai bună recompensă după urcare.",
+        "en": "Start at the Belvedere viewpoint and cycle to the historic churches.\n\nA stop at the main square is a must before dedicating yourself to culture at MAEC.\n\nVisit the Duomo and enjoy the cool breeze in the streets.\n\nThe finish at Santa Margherita offers the best reward after the climb."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bruschetta Cortonese",
+            "tip": "Mit frischem toskanischem Öl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bruschetta Cortonese",
+            "tip": "Friss toszkán olajjal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bruschetta Cortonese",
+            "tip": "Cu ulei toscan proaspăt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bruschetta Cortonese",
+            "tip": "With fresh Tuscan oil."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco Regionale del Trasimeno",
+            "tip": "In der Nähe für Radtouren.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco Regionale del Trasimeno",
+            "tip": "A közelben kerékpártúrákhoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco Regionale del Trasimeno",
+            "tip": "În apropiere pentru tururi cu bicicleta.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco Regionale del Trasimeno",
+            "tip": "Nearby for bike tours.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Örtlicher Weinhandel",
+            "tip": "Cortona DOC Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borkereskedés",
+            "tip": "Cortona DOC borok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinotecă locală",
+            "tip": "Vinuri Cortona DOC."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local wine shop",
+            "tip": "Cortona DOC wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mountainbikes oder E-Bikes sind für Cortona am besten geeignet.",
+          "Meiden Sie die Mittagszeit im Sommer."
+        ],
+        "hu": [
+          "A hegyi kerékpárok vagy e-bike-ok a legalkalmasabbak Cortonához.",
+          "Kerüld a déli időszakot nyáron."
+        ],
+        "ro": [
+          "Bicicletele montane sau electrice sunt cele mai potrivite pentru Cortona.",
+          "Evitați orele amiezii în timpul verii."
+        ],
+        "en": [
+          "Mountain bikes or e-bikes are best suited for Cortona.",
+          "Avoid the midday period in summer."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18.0,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Eremo Le Celle",
+            "hu": "Le Celle remeteség",
+            "ro": "Eremo Le Celle",
+            "en": "Eremo Le Celle"
+          },
+          "coords": [
+            12.0,
+            43.285
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein sehr friedlicher Ort im Wald, von St. Franziskus gegründet.",
+            "hu": "Nagyon békés hely az erdőben, Szent Ferenc alapította.",
+            "ro": "Un loc foarte liniștit în pădure, fondat de Sf. Francisc.",
+            "en": "A very peaceful spot in the woods, founded by St. Francis."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortezza di Girifalco",
+            "hu": "Girifalco erőd",
+            "ro": "Fortăreața Girifalco",
+            "en": "Girifalco Fortress"
+          },
+          "coords": [
+            11.991,
+            43.28
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parken Sie hier oben für den Zugang zur Oberstadt.",
+            "hu": "Parkolj le itt fent a felsővároshoz.",
+            "ro": "Parcați aici sus pentru acces în orașul de sus.",
+            "en": "Park up here for access to the upper town."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di Santa Margherita",
+            "hu": "Szent Margit bazilika",
+            "ro": "Bazilica Sfânta Margareta",
+            "en": "Basilica of Santa Margherita"
+          },
+          "coords": [
+            11.99,
+            43.278
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Direkt neben der Festung gelegen.",
+            "hu": "Közvetlenül az erőd mellett található.",
+            "ro": "Situată chiar lângă fortăreață.",
+            "en": "Located right next to the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "MAEC - Museo dell'Accademia Etrusca",
+            "hu": "MAEC - Etruszk Akadémia Múzeuma",
+            "ro": "MAEC",
+            "en": "MAEC - Museum of the Etruscan Academy"
+          },
+          "coords": [
+            11.9855,
+            43.2755
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsfreunde.",
+            "hu": "Történelemkedvelőknek kötelező.",
+            "ro": "O necesitate pentru iubitorii de istorie.",
+            "en": "A must for history buffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza della Repubblica",
+            "hu": "Piazza della Repubblica",
+            "ro": "Piazza della Repubblica",
+            "en": "Piazza della Repubblica"
+          },
+          "coords": [
+            11.985,
+            43.275
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ideal für ein Gelato am Nachmittag.",
+            "hu": "Ideális egy délutáni fagyizáshoz.",
+            "ro": "Ideal pentru un gelato după-amiaza.",
+            "en": "Ideal for an afternoon gelato."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere di Cortona",
+            "hu": "Belvedere di Cortona",
+            "ro": "Belvedere di Cortona",
+            "en": "Belvedere di Cortona"
+          },
+          "coords": [
+            11.988,
+            43.274
+          ],
+          "category": "natural features",
+          "arrive_at": "15:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Abfahrt.",
+            "hu": "Utolsó megálló távozás előtt.",
+            "ro": "Ultima oprire înainte de plecare.",
+            "en": "Last stop before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst zum abgelegenen Eremo Le Celle, um die Ruhe zu genießen. Danach geht es hinauf zur Festung Girifalco.\n\nBesuchen Sie die Basilika Santa Margherita, bevor Sie zum MAEC in die Stadt hinunterfahren.\n\nGenießen Sie die Atmosphäre auf dem Hauptplatz und einen Kaffee.\n\nVerabschieden Sie sich von Cortona mit dem weiten Blick vom Belvedere.",
+        "hu": "Hajts először a félreeső Le Celle remeteséghez a nyugalomért. Utána irány fel a Girifalco erőd.\n\nLátogasd meg a Szent Margit bazilikát, mielőtt lehajtanál a MAEC-hez a városba.\n\nÉlvezd a főtér hangulatát és egy kávét.\n\nBúcsúzz Cortonától a Belvedere kilátó tágas látványával.",
+        "ro": "Conduceți mai întâi la retrasa Eremo Le Celle pentru a vă bucura de liniște. Apoi mergeți sus la fortăreața Girifalco.\n\nVizitați Bazilica Sfânta Margareta înainte de a coborî la MAEC în oraș.\n\nBucurați-vă de atmosfera din piața principală și de o cafea.\n\nLuați-vă la revedere de la Cortona cu vederea largă de la Belvedere.",
+        "en": "Drive first to the secluded Eremo Le Celle to enjoy the peace. Afterward, head up to the Girifalco Fortress.\n\nVisit the Basilica of Santa Margherita before driving down to MAEC in the town.\n\nEnjoy the atmosphere of the main square and a coffee.\n\nSay goodbye to Cortona with the wide view from the Belvedere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trattoria La Grotta",
+            "tip": "Rustikale Atmosphäre und gute lokale Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trattoria La Grotta",
+            "tip": "Rusztikus hangulat és jó helyi konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trattoria La Grotta",
+            "tip": "Atmosferă rustică și bucătărie locală bună."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trattoria La Grotta",
+            "tip": "Rustic atmosphere and good local cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardini del Parterre",
+            "tip": "Ein ruhiger öffentlicher Garten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardini del Parterre",
+            "tip": "Egy csendes közpark.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardini del Parterre",
+            "tip": "O grădină publică liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardini del Parterre",
+            "tip": "A quiet public garden.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antiquitäten",
+            "tip": "Cortona ist berühmt für seine Antiquitätenläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antikvitások",
+            "tip": "Cortona híres antikváriumairól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Antichități",
+            "tip": "Cortona este faimoasă pentru magazinele de antichități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antiques",
+            "tip": "Cortona is famous for its antique shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplätze außerhalb der Mauern sind oft kostenpflichtig.",
+          "Innerhalb der Mauern ist das Fahren fast unmöglich."
+        ],
+        "hu": [
+          "A falakon kívüli parkolók gyakran fizetősek.",
+          "A falakon belül szinte lehetetlen a vezetés."
+        ],
+        "ro": [
+          "Parcările din afara zidurilor sunt adesea cu plată.",
+          "În interiorul zidurilor, condusul este aproape imposibil."
+        ],
+        "en": [
+          "Parking lots outside the walls are often paid.",
+          "Driving inside the walls is almost impossible."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza della Repubblica",
+            "hu": "Piazza della Repubblica",
+            "ro": "Piazza della Repubblica",
+            "en": "Piazza della Repubblica"
+          },
+          "coords": [
+            11.985,
+            43.275
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentrale Bushaltestelle in der Nähe.",
+            "hu": "Központi buszmegálló a közelben.",
+            "ro": "Stație centrală de autobuz în apropiere.",
+            "en": "Central bus stop nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Comunale",
+            "hu": "Városháza",
+            "ro": "Palazzo Comunale",
+            "en": "Communal Palace"
+          },
+          "coords": [
+            11.9852,
+            43.2752
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Perfekt für Fotos.",
+            "hu": "Tökéletes fotókhoz.",
+            "ro": "Perfect pentru fotografii.",
+            "en": "Perfect for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Cortona",
+            "hu": "Cortonai dóm",
+            "ro": "Domul din Cortona",
+            "en": "Cortona Cathedral"
+          },
+          "coords": [
+            11.984,
+            43.2765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nahe dem Stadtmuseum.",
+            "hu": "A városi múzeum közelében.",
+            "ro": "Lângă muzeul orașului.",
+            "en": "Near the city museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Diocesano",
+            "hu": "Egyházmegyei Múzeum",
+            "ro": "Museo Diocesano",
+            "en": "Diocesan Museum"
+          },
+          "coords": [
+            11.9845,
+            43.276
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Klein, aber oho.",
+            "hu": "Kicsi, de nagyszerű.",
+            "ro": "Mic, dar grozav.",
+            "en": "Small but great."
+          }
+        },
+        {
+          "name": {
+            "de": "MAEC - Museo dell'Accademia Etrusca",
+            "hu": "MAEC - Etruszk Akadémia Múzeuma",
+            "ro": "MAEC",
+            "en": "MAEC - Museum of the Etruscan Academy"
+          },
+          "coords": [
+            11.9855,
+            43.2755
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Weltberühmte etruskische Funde.",
+            "hu": "Világhírű etruszk leletek.",
+            "ro": "Descoperiri etrusce de renume mondial.",
+            "en": "World-famous Etruscan finds."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Francesco",
+            "hu": "Szent Ferenc templom",
+            "ro": "Biserica San Francesco",
+            "en": "Church of San Francesco"
+          },
+          "coords": [
+            11.987,
+            43.276
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ausklang des Tages.",
+            "hu": "A nap csendes lezárása.",
+            "ro": "O încheiere liniștită a zilei.",
+            "en": "A quiet end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nehmen Sie den Bus vom Bahnhof Camucia direkt nach Cortona. Beginnen Sie im Zentrum.\n\nBesuchen Sie den Dom und die hervorragenden Museen der Stadt bequem zu Fuß.\n\nNach den Museen haben Sie Zeit, die Atmosphäre in den Gassen zu genießen.\n\nBeenden Sie Ihre Tour an der Kirche San Francesco, bevor Sie den Bus zurück nehmen.",
+        "hu": "Szállj fel a buszra Camucia állomásánál közvetlenül Cortonába. Kezdd a központban.\n\nLátogasd meg a dómot és a város kiváló múzeumait kényelmesen gyalog.\n\nA múzeumok után lesz időd élvezni az utcák hangulatát.\n\nZárd a túrát a Szent Ferenc templomnál, mielőtt visszabuszoznál.",
+        "ro": "Luați autobuzul de la gara Camucia direct la Cortona. Începeți în centru.\n\nVizitați domul și muzeele excelente ale orașului confortabil pe jos.\n\nDupă muzee, aveți timp să vă bucurați de atmosfera de pe străzi.\n\nÎncheiați turul la biserica San Francesco înainte de a lua autobuzul înapoi.",
+        "en": "Take the bus from Camucia station directly to Cortona. Start in the center.\n\nVisit the Duomo and the town's excellent museums comfortably on foot.\n\nAfter the museums, you'll have time to enjoy the atmosphere in the streets.\n\nFinish your tour at the Church of San Francesco before taking the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Panna Cotta",
+            "tip": "In einem der Cafés am Platz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panna Cotta",
+            "tip": "A tér egyik kávézójában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panna Cotta",
+            "tip": "Într-una dintre cafenelele din piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Panna Cotta",
+            "tip": "In one of the cafés in the square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piazza Signorelli",
+            "tip": "Etwas ruhiger als die Piazza della Repubblica.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza Signorelli",
+            "tip": "Kicsit nyugodtabb, mint a Piazza della Repubblica.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazza Signorelli",
+            "tip": "Puțin mai liniștită decât Piazza della Repubblica.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza Signorelli",
+            "tip": "A bit quieter than Piazza della Repubblica.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunstgalerien",
+            "tip": "Cortona zieht viele Künstler an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi művészeti galériák",
+            "tip": "Cortona sok művészt vonz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galerii de artă locale",
+            "tip": "Cortona atrage mulți artiști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local art galleries",
+            "tip": "Cortona attracts many artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets am Kiosk im Bahnhof Camucia.",
+          "Die Busfahrt bietet tolle Ausblicke."
+        ],
+        "hu": [
+          "Vegyél buszjegyet a camuciai állomás újságosánál.",
+          "A buszozás remek kilátást kínál."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz de la chioșcul din gara Camucia.",
+          "Călătoria cu autobuzul oferă vederi minunate."
+        ],
+        "en": [
+          "Buy bus tickets at the kiosk in Camucia station.",
+          "The bus ride offers great views."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "_coords": [
+      11.9856,
+      43.2747
+    ],
+    "_region": "IT-52 Toscana",
+    "transit_official": "https://www.tiemmespa.it/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Cortona",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.comune.cortona.ar.it/vivere-il-comune/eventi",
+    "tourism_office": "https://www.comune.cortona.ar.it/turismo",
+    "webcam": null,
+    "restaurants_booking": "https://www.thefork.it/ristoranti/cortona-c561515",
+    "museum_tickets": "https://cortonamaec.org/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch dominiert; durch 'Unter der Sonne der Toskana' viele englischsprachige Touristen, Englisch in Restaurants und Hotels gut.",
+      "hu": "Olasz dominál; a 'Toszkán nap alatt' miatt sok angol turista, angol éttermekben és szállodákban jó.",
+      "ro": "Italiana domină; mulți turiști anglofoni datorită 'Sub soarele Toscanei', engleza bună în restaurante și hoteluri.",
+      "en": "Italian dominates; many English-speaking tourists due to 'Under the Tuscan Sun', English good in restaurants and hotels."
+    },
+    "best_time": {
+      "de": "Mai–Juni und September für mildes Wetter; Cortona On The Move Fotofestival im Juli.",
+      "hu": "Május–június és szeptember kellemes idő; Cortona On The Move fotófesztivál júliusban.",
+      "ro": "Mai–iunie și septembrie pentru vreme blândă; festivalul foto Cortona On The Move în iulie.",
+      "en": "May–June and September for mild weather; Cortona On The Move photo festival in July."
+    },
+    "warnings": {
+      "de": "Hügelige Lage mit steilen Anstiegen; ZTL aktiv. Bahnhof Camucia-Cortona liegt 5 km unten im Tal.",
+      "hu": "Dombos fekvés, meredek emelkedők; ZTL aktív. Camucia-Cortona vasútállomás 5 km-re lent a völgyben.",
+      "ro": "Poziție deluroasă cu urcușuri abrupte; ZTL activ. Gara Camucia-Cortona la 5 km, în vale.",
+      "en": "Hilltop setting with steep climbs; ZTL active. Camucia-Cortona station 5 km down in the valley."
+    }
+  }
+}

@@ -1,0 +1,1102 @@
+{
+  "city_id": "viareggio",
+  "anchor": {
+    "name": "Piazza Mazzini",
+    "coords": [
+      10.2511,
+      43.8669
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 5.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre Matilde",
+            "hu": "Torre Matilde",
+            "ro": "Torre Matilde",
+            "en": "Torre Matilde"
+          },
+          "coords": [
+            10.2465,
+            43.8635
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das älteste Gebäude der Stadt, ein Muss für Geschichtsfans.",
+            "hu": "A város legrégebbi épülete, kötelező a történelem kedvelőinek.",
+            "ro": "Cea mai veche clădire din oraș, un must pentru fanii istoriei.",
+            "en": "The oldest building in town, a must for history fans."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Paolina",
+            "hu": "Villa Paolina",
+            "ro": "Villa Paolina",
+            "en": "Villa Paolina"
+          },
+          "coords": [
+            10.2455,
+            43.8655
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Residenz der Schwester von Napoleon, heute ein Museum.",
+            "hu": "Napóleon húgának rezidenciája, ma múzeum.",
+            "ro": "Reședința surorii lui Napoleon, astăzi muzeu.",
+            "en": "Residence of Napoleon's sister, now a museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Mazzini",
+            "hu": "Piazza Mazzini",
+            "ro": "Piazza Mazzini",
+            "en": "Piazza Mazzini"
+          },
+          "coords": [
+            10.2511,
+            43.8669
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Das Herz von Viareggio mit Blick auf das Meer.",
+            "hu": "Viareggio szíve, kilátással a tengerre.",
+            "ro": "Inima orașului Viareggio cu vedere la mare.",
+            "en": "The heart of Viareggio with views of the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Burlamacco-Denkmal",
+            "hu": "Burlamacco-emlékmű",
+            "ro": "Monumentul Burlamacco",
+            "en": "Burlamacco Monument"
+          },
+          "coords": [
+            10.2505,
+            43.8675
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Foto mit der Maske des Karnevals ist Pflicht.",
+            "hu": "A karneváli maszkkal való fotó kötelező.",
+            "ro": "O fotografie cu masca carnavalului este obligatorie.",
+            "en": "A photo with the carnival mask is a must."
+          }
+        },
+        {
+          "name": {
+            "de": "La Passeggiata",
+            "hu": "La Passeggiata sétány",
+            "ro": "La Passeggiata",
+            "en": "La Passeggiata"
+          },
+          "coords": [
+            10.2425,
+            43.8755
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Jugendstil-Fassaden entlang der Meile.",
+            "hu": "Csodáld meg a szecessziós homlokzatokat a sétány mentén.",
+            "ro": "Admirați fațadele Art Nouveau de-a lungul promenadei.",
+            "en": "Admire the Art Nouveau facades along the mile."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Argentina",
+            "hu": "Villa Argentina",
+            "ro": "Villa Argentina",
+            "en": "Villa Argentina"
+          },
+          "coords": [
+            10.2405,
+            43.8775
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Prachtvolle Keramikdekorationen an der Fassade.",
+            "hu": "Pompás kerámiadíszítések a homlokzaton.",
+            "ro": "Decorațiuni ceramice magnifice pe fațadă.",
+            "en": "Magnificent ceramic decorations on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Pineta di Ponente",
+            "hu": "Pineta di Ponente",
+            "ro": "Pineta di Ponente",
+            "en": "Pineta di Ponente"
+          },
+          "coords": [
+            10.2455,
+            43.8725
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Spaziergang im Schatten.",
+            "hu": "Tökéletes egy pihentető sétához az árnyékban.",
+            "ro": "Perfect pentru o plimbare relaxantă la umbră.",
+            "en": "Perfect for a relaxing walk in the shade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie den Charme Viareggios zu Fuß. Beginnen Sie bei der historischen Torre Matilde und tauchen Sie in die Geschichte in der Villa Paolina ein. Über die Piazza Mazzini gelangen Sie zur berühmten 'Passeggiata', wo die Architektur des Liberty-Stils (Jugendstil) dominiert. Besuchen Sie die prachtvolle Villa Argentina und beenden Sie den Tag im kühlen Pinienwald der Pineta di Ponente.",
+        "hu": "Fedezd fel Viareggio báját gyalogosan. Kezdj a történelmi Torre Matildénál, majd merülj el a múltban a Villa Paolinában. A Piazza Mazzinin keresztül jutsz el a híres 'Passeggiata' sétányra, ahol a szecessziós építészet dominál. Látogasd meg a pompás Villa Argentinát, és zárd a napot a Pineta di Ponente hűvös fenyvesében.",
+        "ro": "Descoperiți farmecul orașului Viareggio la pas. Începeți de la istoricul Torre Matilde și pătrundeți în istorie la Villa Paolina. Prin Piazza Mazzini ajungeți la celebra 'Passeggiata', unde domină arhitectura Art Nouveau. Vizitați splendida Villa Argentina și încheiați ziua în răcoarea pădurii de pini Pineta di Ponente.",
+        "en": "Discover the charm of Viareggio on foot. Start at the historical Torre Matilde and immerse yourself in history at Villa Paolina. Via Piazza Mazzini, you reach the famous 'Passeggiata', where Art Nouveau architecture dominates. Visit the magnificent Villa Argentina and end the day in the cool pine forest of Pineta di Ponente."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cacciucco alla Viareggina",
+            "tip": "Eine würzige Fischsuppe, die Spezialität der Stadt."
+          },
+          {
+            "name": "Scarpaccia",
+            "tip": "Ein herzhafter Zucchini-Kuchen, typisch für die Versilia."
+          },
+          {
+            "name": "Spaghetti allo Scoglio",
+            "tip": "Frische Meeresfrüchte direkt von den Kuttern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cacciucco alla Viareggina",
+            "tip": "Fűszeres halleves, a város specialitása."
+          },
+          {
+            "name": "Scarpaccia",
+            "tip": "Kiadós cukkinis sütemény, a Versilia vidékére jellemző."
+          },
+          {
+            "name": "Spaghetti allo Scoglio",
+            "tip": "Friss tenger gyümölcsei közvetlenül a halászhajókról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cacciucco alla Viareggina",
+            "tip": "O supă de pește picantă, specialitatea orașului."
+          },
+          {
+            "name": "Scarpaccia",
+            "tip": "O prăjitură sărată cu dovlecei, tipică pentru Versilia."
+          },
+          {
+            "name": "Spaghetti allo Scoglio",
+            "tip": "Fructe de mare proaspete direct de pe bărci."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cacciucco alla Viareggina",
+            "tip": "A spicy fish soup, the city's signature dish."
+          },
+          {
+            "name": "Scarpaccia",
+            "tip": "A savory zucchini cake, typical of the Versilia area."
+          },
+          {
+            "name": "Spaghetti allo Scoglio",
+            "tip": "Fresh seafood directly from the fishing boats."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Darsena di Viareggio",
+            "tip": "Ruhiges Hafenviertel mit Blick auf die Werften.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pineta di Ponente",
+            "tip": "Sinnliche Ruhe unter Pinien.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Molo della Lecciona",
+            "tip": "Langer Steg ins Meer für den Sonnenuntergang.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Darsena di Viareggio",
+            "tip": "Csendes kikötőnegyed kilátással a hajógyárakra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pineta di Ponente",
+            "tip": "Nyugalom a fenyők alatt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Molo della Lecciona",
+            "tip": "Hosszú móló a tengerbe a naplementéhez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Darsena di Viareggio",
+            "tip": "Cartier portuar liniștit cu vedere la șantierele navale.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pineta di Ponente",
+            "tip": "Liniște sub pini.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Molo della Lecciona",
+            "tip": "Dig lung în mare pentru apus.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Darsena di Viareggio",
+            "tip": "Quiet dock area with views of the shipyards.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pineta di Ponente",
+            "tip": "Serene quiet under the pine trees.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Molo della Lecciona",
+            "tip": "Long pier into the sea for sunset.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato del Centro",
+            "tip": "Traditioneller Markt für lokale Produkte."
+          },
+          {
+            "name": "Boutiquen an der Passeggiata",
+            "tip": "Designer-Mode und Luxusmarken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi piac",
+            "tip": "Hagyományos piac helyi termékekkel."
+          },
+          {
+            "name": "Passeggiata butikok",
+            "tip": "Dizájner ruhák és luxusmárkák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercato del Centro",
+            "tip": "Piață tradițională pentru produse locale."
+          },
+          {
+            "name": "Boutique-urile de pe Passeggiata",
+            "tip": "Modă de designer și mărci de lux."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercato del Centro",
+            "tip": "Traditional market for local products."
+          },
+          {
+            "name": "Passeggiata Boutiques",
+            "tip": "Designer fashion and luxury brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Passeggiata ist am Wochenende sehr belebt.",
+          "Probieren Sie das Eis in der Gelateria Veneta.",
+          "Achten Sie auf die ZTL in der Innenstadt.",
+          "Buchen Sie Museumsbesuche im Voraus."
+        ],
+        "hu": [
+          "A sétány hétvégén nagyon zsúfolt lehet.",
+          "Kóstold meg a fagyit a Gelateria Venetában.",
+          "Figyelj a belvárosi ZTL zónákra.",
+          "Foglalj előre a múzeumlátogatásokhoz."
+        ],
+        "ro": [
+          "Promenada este foarte animată în weekend.",
+          "Încercați înghețata de la Gelateria Veneta.",
+          "Atenție la zonele ZTL din centru.",
+          "Rezervați vizitele la muzee în avans."
+        ],
+        "en": [
+          "The Passeggiata is very busy on weekends.",
+          "Try the ice cream at Gelateria Veneta.",
+          "Be aware of the ZTL zones in the city center.",
+          "Book museum visits in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pineta di Ponente",
+            "hu": "Pineta di Ponente",
+            "ro": "Pineta di Ponente",
+            "en": "Pineta di Ponente"
+          },
+          "coords": [
+            10.2455,
+            43.8725
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Idealer Ort, um die Tour im Schatten zu beginnen.",
+            "hu": "Ideális hely a túra árnyékban való megkezdéséhez.",
+            "ro": "Loc ideal pentru a începe turul la umbră.",
+            "en": "Ideal place to start the tour in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "La Passeggiata",
+            "hu": "La Passeggiata",
+            "ro": "La Passeggiata",
+            "en": "La Passeggiata"
+          },
+          "coords": [
+            10.2425,
+            43.8755
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig auf dem Radweg direkt am Strand.",
+            "hu": "Vigyázva tekerj a közvetlenül a strandon lévő kerékpárúton.",
+            "ro": "Mergeți cu atenție pe pista de biciclete de lângă plajă.",
+            "en": "Ride carefully on the bike path right by the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Karnevalsmuseum",
+            "hu": "Karneváli Múzeum",
+            "ro": "Muzeul Carnavalului",
+            "en": "Carnival Museum"
+          },
+          "coords": [
+            10.2525,
+            43.8915
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die gigantischen Festwagen.",
+            "hu": "Tudj meg mindent a hatalmas ünnepi kocsikról.",
+            "ro": "Aflați totul despre carele alegorice gigantice.",
+            "en": "Learn everything about the gigantic carnival floats."
+          }
+        },
+        {
+          "name": {
+            "de": "GAMC Kunstgalerie",
+            "hu": "GAMC Művészeti Galéria",
+            "ro": "Galeria de Artă GAMC",
+            "en": "GAMC Art Gallery"
+          },
+          "coords": [
+            10.2515,
+            43.8685
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Moderne Kunst in einem historischen Palast.",
+            "hu": "Modern művészet egy történelmi palotában.",
+            "ro": "Artă modernă într-un palat istoric.",
+            "en": "Modern art in a historical palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Matilde",
+            "hu": "Torre Matilde",
+            "ro": "Torre Matilde",
+            "en": "Torre Matilde"
+          },
+          "coords": [
+            10.2465,
+            43.8635
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Letzter Halt am Wahrzeichen der Stadt.",
+            "hu": "Utolsó megálló a város jelképénél.",
+            "ro": "Ultima oprire la simbolul orașului.",
+            "en": "Last stop at the city landmark."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erfahren Sie Viareggio entspannt mit dem Fahrrad. Genießen Sie die Pinienwälder, die berühmte Promenade und fahren Sie zur Cittadella del Carnevale, um das Karnevalsmuseum zu besuchen. Entlang des Kanals kehren Sie zur modernen Kunstgalerie GAMC und zum historischen Matilde-Turm zurück.",
+        "hu": "Fedezd fel Viareggiót kényelmesen, kerékpárral. Élvezd a fenyveseket, a híres sétányt, és tekerj el a Cittadella del Carnevaléhoz, a Karneváli Múzeumhoz. A csatorna mentén térj vissza a GAMC modern művészeti galériához és a történelmi Matilde-toronyhoz.",
+        "ro": "Explorați Viareggio relaxat cu bicicleta. Bucurați-vă de pădurile de pini, de celebra promenadă și pedalați până la Cittadella del Carnevale pentru a vizita muzeul carnavalului. De-a lungul canalului, reveniți la galeria de artă modernă GAMC și la turnul istoric Matilde.",
+        "en": "Experience Viareggio in a relaxed way by bike. Enjoy the pine forests, the famous promenade, and ride to the Cittadella del Carnevale to visit the Carnival Museum. Return along the canal to the GAMC modern art gallery and the historical Matilde Tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischbrötchen",
+            "tip": "Snack am Hafen, frisch vom Boot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halas szendvics",
+            "tip": "Hajóról kínált friss falatok a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș cu pește",
+            "tip": "Gustare în port, proaspăt de pe barcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Sandwich",
+            "tip": "Snack at the harbor, fresh from the boat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Südstrand-Dünen",
+            "tip": "Naturbelassener Bereich südlich vom Kanal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Déli parti dűnék",
+            "tip": "Természetes partszakasz a csatornától délre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dunele de pe plaja de sud",
+            "tip": "Zonă naturală la sud de canal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "South Beach Dunes",
+            "tip": "Natural area south of the canal.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Karnevals-Souvenirs",
+            "tip": "Kleine Burlamacco-Figuren als Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karneváli szuvenírek",
+            "tip": "Kis Burlamacco figurák emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de carnaval",
+            "tip": "Mici figurine Burlamacco ca amintire."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carnival Souvenirs",
+            "tip": "Small Burlamacco figures as keepsakes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Viareggio ist sehr fahrradfreundlich und flach.",
+          "Nutzen Sie den langen Radweg nach Lido di Camaiore.",
+          "Schließen Sie Ihr Rad immer gut ab.",
+          "Vermeiden Sie das Fahren direkt auf der Fußgänger-Passeggiata."
+        ],
+        "hu": [
+          "Viareggio nagyon kerékpárosbarát és sík.",
+          "Használd a Lido di Camaiore felé tartó hosszú kerékpárutat.",
+          "Mindig zárd le jól a biciklidet.",
+          "Kerüld a tekerést közvetlenül a gyalogos sétányon."
+        ],
+        "ro": [
+          "Viareggio este foarte prietenos cu bicicletele și plat.",
+          "Folosiți pista lungă spre Lido di Camaiore.",
+          "Încuiați întotdeauna bine bicicleta.",
+          "Evitați să pedalați direct pe zona pietonală a promenadei."
+        ],
+        "en": [
+          "Viareggio is very bike-friendly and flat.",
+          "Use the long bike path to Lido di Camaiore.",
+          "Always lock your bike securely.",
+          "Avoid riding directly on the pedestrian promenade."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 20.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Karnevalsmuseum",
+            "hu": "Karneváli Múzeum",
+            "ro": "Muzeul Carnavalului",
+            "en": "Carnival Museum"
+          },
+          "coords": [
+            10.2525,
+            43.8915
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Großer kostenloser Parkplatz an der Cittadella.",
+            "hu": "Nagy ingyenes parkoló a Cittadellánál.",
+            "ro": "Parcare mare gratuită la Cittadella.",
+            "en": "Large free parking lot at the Cittadella."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Lago (Puccini)",
+            "hu": "Torre del Lago (Puccini)",
+            "ro": "Torre del Lago (Puccini)",
+            "en": "Torre del Lago (Puccini)"
+          },
+          "coords": [
+            10.2625,
+            43.8325
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Villa von Giacomo Puccini.",
+            "hu": "Látogasd meg Giacomo Puccini villáját.",
+            "ro": "Vizitați vila lui Giacomo Puccini.",
+            "en": "Visit Giacomo Puccini's villa."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Mazzini",
+            "hu": "Piazza Mazzini",
+            "ro": "Piazza Mazzini",
+            "en": "Piazza Mazzini"
+          },
+          "coords": [
+            10.2511,
+            43.8669
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Zentraler Platz, Parken in den Seitenstraßen (blau markiert).",
+            "hu": "Központi tér, parkolás az oldalsó utcákban (kék jelzés).",
+            "ro": "Piața centrală, parcare pe străzile laterale (marcate cu albastru).",
+            "en": "Central square, parking in side streets (blue zones)."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Argentina",
+            "hu": "Villa Argentina",
+            "ro": "Villa Argentina",
+            "en": "Villa Argentina"
+          },
+          "coords": [
+            10.2405,
+            43.8775
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein Juwel des italienischen Modernismus.",
+            "hu": "Az olasz modernizmus egyik ékköve.",
+            "ro": "O bijuterie a modernismului italian.",
+            "en": "A gem of Italian Modernism."
+          }
+        },
+        {
+          "name": {
+            "de": "La Passeggiata",
+            "hu": "La Passeggiata",
+            "ro": "La Passeggiata",
+            "en": "La Passeggiata"
+          },
+          "coords": [
+            10.2425,
+            43.8755
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang am Wasser.",
+            "hu": "Élvezd a naplementét a víznél.",
+            "ro": "Bucurați-vă de apus la malul apei.",
+            "en": "Enjoy the sunset by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto erlaubt Ihnen einen Ausflug zum nahegelegenen Torre del Lago, der Heimat von Puccini. Starten Sie im Karnevalsmuseum, bevor Sie zum See fahren. Zurück in Viareggio erkunden Sie den Liberty-Stil bei der Villa Argentina und beenden den Tag entspannt an der Passeggiata.",
+        "hu": "Az autó lehetővé teszi a kirándulást a közeli Torre del Lagóba, Puccini otthonához. Kezdj a Karneváli Múzeumban, mielőtt a tóhoz utaznál. Visszatérve Viareggióba, fedezd fel a szecessziós stílust a Villa Argentinánál, és zárd a napot pihenéssel a sétányon.",
+        "ro": "Mașina vă permite o excursie la Torre del Lago din apropiere, casa lui Puccini. Începeți la Muzeul Carnavalului înainte de a merge la lac. Revenind în Viareggio, explorați stilul Art Nouveau la Villa Argentina și încheiați ziua relaxat pe promenadă.",
+        "en": "The car allows you a trip to nearby Torre del Lago, the home of Puccini. Start at the Carnival Museum before driving to the lake. Back in Viareggio, explore the Art Nouveau style at Villa Argentina and end the day relaxing on the Passeggiata."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meeresfrüchte-Risotto",
+            "tip": "Klassiker in den Restaurants am Kanal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei rizottó",
+            "tip": "Klasszikus fogás a csatorna menti éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Risotto cu fructe de mare",
+            "tip": "Clasic în restaurantele de pe canal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood Risotto",
+            "tip": "A classic in the restaurants along the canal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lago di Massaciuccoli",
+            "tip": "Ruhiger See in Torre del Lago.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Massaciuccoli-tó",
+            "tip": "Csendes tó Torre del Lagóban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Massaciuccoli",
+            "tip": "Lac liniștit în Torre del Lago.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Massaciuccoli",
+            "tip": "Quiet lake in Torre del Lago.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Spezialitäten aus der Versilia",
+            "tip": "Öl und Wein aus dem Hinterland."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Versilia specialitások",
+            "tip": "Olaj és bor a hátországból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Specialități din Versilia",
+            "tip": "Ulei și vin din interiorul regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Versilia Specialties",
+            "tip": "Oil and wine from the hinterland."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze an der Passeggiata sind teuer und oft belegt.",
+          "In Torre del Lago gibt es gute Parkmöglichkeiten am Theater.",
+          "Vermeiden Sie die Rushhour auf der Via Aurelia.",
+          "Die Parkuhren akzeptieren meist Karten."
+        ],
+        "hu": [
+          "A sétányon drága és gyakran foglalt a parkolás.",
+          "Torre del Lagóban jó parkolási lehetőség van a színháznál.",
+          "Kerüld el a csúcsforgalmat a Via Aurelián.",
+          "A parkolóórák többnyire elfogadnak kártyát."
+        ],
+        "ro": [
+          "Parcarea pe promenadă este scumpă și adesea ocupată.",
+          "În Torre del Lago există parcări bune la teatru.",
+          "Evitați ora de vârf pe Via Aurelia.",
+          "Parcometrele acceptă de obicei carduri."
+        ],
+        "en": [
+          "Parking at the Passeggiata is expensive and often full.",
+          "In Torre del Lago there are good parking options at the theater.",
+          "Avoid rush hour on Via Aurelia.",
+          "Parking meters usually accept cards."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Viareggio",
+            "hu": "Viareggiói vasútállomás",
+            "ro": "Gara din Viareggio",
+            "en": "Viareggio Train Station"
+          },
+          "coords": [
+            10.2555,
+            43.8685
+          ],
+          "category": "transit-hub",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Knotenpunkt für die Region Toskana.",
+            "hu": "Toszkána régiójának közlekedési csomópontja.",
+            "ro": "Nod feroviar pentru regiunea Toscana.",
+            "en": "Transport hub for the Tuscany region."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Mazzini",
+            "hu": "Piazza Mazzini",
+            "ro": "Piazza Mazzini",
+            "en": "Piazza Mazzini"
+          },
+          "coords": [
+            10.2511,
+            43.8669
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Vom Bahnhof mit dem Bus in wenigen Minuten erreichbar.",
+            "hu": "Az állomástól busszal pár perc alatt elérhető.",
+            "ro": "Ajungeți în câteva minute cu autobuzul de la gară.",
+            "en": "Accessible from the station by bus in a few minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Paolina",
+            "hu": "Villa Paolina",
+            "ro": "Villa Paolina",
+            "en": "Villa Paolina"
+          },
+          "coords": [
+            10.2455,
+            43.8655
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bushaltestellen befinden sich direkt in der Nähe.",
+            "hu": "A buszmegállók közvetlenül a közelben vannak.",
+            "ro": "Stațiile de autobuz sunt chiar în apropiere.",
+            "en": "Bus stops are located right nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "La Passeggiata",
+            "hu": "La Passeggiata",
+            "ro": "La Passeggiata",
+            "en": "La Passeggiata"
+          },
+          "coords": [
+            10.2425,
+            43.8755
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Die Hauptader für Touristen, gut mit Bussen vernetzt.",
+            "hu": "A turisták főútvonala, jó buszközlekedéssel.",
+            "ro": "Principala arteră turistică, bine conectată prin autobuze.",
+            "en": "The main artery for tourists, well connected by buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Pineta di Ponente",
+            "hu": "Pineta di Ponente",
+            "ro": "Pineta di Ponente",
+            "en": "Pineta di Ponente"
+          },
+          "coords": [
+            10.2455,
+            43.8725
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Entspannter Ort vor der Rückreise zum Bahnhof.",
+            "hu": "Pihentető hely a vasútállomásra való visszatérés előtt.",
+            "ro": "Loc relaxant înainte de întoarcerea la gară.",
+            "en": "Relaxing spot before returning to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Viareggio lässt sich hervorragend mit Bus und Bahn erkunden. Vom Bahnhof gelangen Sie schnell zur Piazza Mazzini und zur Villa Paolina. Den Nachmittag verbringen Sie auf der Passeggiata und im kühlen Schatten der Pineta, bevor Sie Ihre Heimreise antreten.",
+        "hu": "Viareggio kiválóan felfedezhető busszal és vonattal. Az állomástól gyorsan elérheted a Piazza Mazzinit és a Villa Paolinát. A délutánt a sétányon és a Pineta hűvös árnyékában töltheted a hazaút előtt.",
+        "ro": "Viareggio poate fi explorat excelent cu autobuzul și trenul. De la gară ajungeți rapid în Piazza Mazzini și la Villa Paolina. Petreceți după-amiaza pe promenadă și în răcoarea pădurii de pini înainte de plecare.",
+        "en": "Viareggio is easy to explore by bus and train. From the station, you quickly reach Piazza Mazzini and Villa Paolina. Spend the afternoon on the Passeggiata and in the cool shade of the Pineta before starting your journey home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Panzanella",
+            "tip": "Erfrischender Brotsalat, ideal für zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panzanella",
+            "tip": "Frissítő kenyérsaláta, ideális tízórai vagy uzsonna."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panzanella",
+            "tip": "Salată de pâine răcoritoare, ideală pentru o gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Panzanella",
+            "tip": "Refreshing bread salad, ideal for a quick bite."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtgarten unweit vom GAMC",
+            "tip": "Kleine Oase für eine kurze Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi kert a GAMC közelében",
+            "tip": "Kis oázis egy rövid pihenőhöz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina orașului lângă GAMC",
+            "tip": "Mică oază pentru o pauză scurtă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Garden near GAMC",
+            "tip": "Small oasis for a short break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tabakläden im Zentrum",
+            "tip": "Lokale Postkarten und Zeitschriften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvárosi dohányboltok",
+            "tip": "Helyi képeslapok és újságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri în centru",
+            "tip": "Vederi locale și reviste."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Tobacco Shops",
+            "tip": "Local postcards and magazines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bus-Tickets am Kiosk oder über die App.",
+          "Die Buslinie 1 fährt entlang der Küste.",
+          "Züge nach Lucca und Pisa fahren sehr regelmäßig.",
+          "Im Sommer sind die Busse oft voll."
+        ],
+        "hu": [
+          "Vegyél buszjegyet újságosnál vagy applikációban.",
+          "Az 1-es busz a part mentén közlekedik.",
+          "Lucca és Pisa felé nagyon gyakran járnak vonatok.",
+          "Nyáron a buszok gyakran tömve vannak."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz de la chioșcuri sau prin aplicație.",
+          "Linia de autobuz 1 circulă de-a lungul coastei.",
+          "Trenurile spre Lucca și Pisa sunt foarte regulate.",
+          "Vara, autobuzele sunt adesea pline."
+        ],
+        "en": [
+          "Buy bus tickets at kiosks or via the app.",
+          "Bus line 1 runs along the coast.",
+          "Trains to Lucca and Pisa run very regularly.",
+          "In summer, buses are often crowded."
+        ]
+      }
+    }
+  }
+}

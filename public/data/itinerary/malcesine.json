@@ -1,0 +1,1026 @@
+{
+  "city_id": "malcesine",
+  "anchor": {
+    "name": "Malcesine",
+    "coords": [
+      10.8125,
+      45.7639
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Malcesine",
+            "hu": "Malcesine óvárosa",
+            "ro": "Centrul vechi din Malcesine",
+            "en": "Malcesine Old Town"
+          },
+          "coords": [
+            10.8105,
+            45.7655
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Früh morgens sind die Gassen noch ruhig.",
+            "hu": "Kora reggel még csendesek a szűk sikátorok.",
+            "ro": "Străduțele sunt liniștite dimineața devreme.",
+            "en": "The alleys are peaceful early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo dei Capitani",
+            "hu": "Palazzo dei Capitani",
+            "ro": "Palazzo dei Capitani",
+            "en": "Palazzo dei Capitani"
+          },
+          "coords": [
+            10.8095,
+            45.7645
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Garten direkt am Seeufer.",
+            "hu": "Nézze meg a közvetlen tóparti kertet.",
+            "ro": "Vizitați grădina aflată chiar pe malul lacului.",
+            "en": "Visit the garden located right on the lakefront."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Scaligero",
+            "hu": "Scaligero vár",
+            "ro": "Castelul Scaligero",
+            "en": "Scaligero Castle"
+          },
+          "coords": [
+            10.8115,
+            45.7665
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Blick vom Turm auf den Gardasee ist unübertroffen.",
+            "hu": "A toronyból nyíló kilátás a Garda-tóra verhetetlen.",
+            "ro": "Priveliștea de în turn asupra lacului este de neegalat.",
+            "en": "The view from the tower over Lake Garda is unbeatable."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Vecchio",
+            "hu": "Régi kikötő",
+            "ro": "Portul Vechi",
+            "en": "Old Port"
+          },
+          "coords": [
+            10.8085,
+            45.7635
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Mittagessen mit Seeblick.",
+            "hu": "Tökéletes hely egy tóparti ebédhez.",
+            "ro": "Locul perfect pentru un prânz cu vedere la lac.",
+            "en": "Perfect spot for a lunch with a lake view."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santo Stefano",
+            "hu": "Santo Stefano templom",
+            "ro": "Biserica Santo Stefano",
+            "en": "Santo Stefano Church"
+          },
+          "coords": [
+            10.8135,
+            45.7645
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die barocken Fresken im Inneren.",
+            "hu": "Figyelje meg a belső barokk freskókat.",
+            "ro": "Admirați frescele baroce din interior.",
+            "en": "Note the Baroque frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Paina",
+            "hu": "Paina strand",
+            "ro": "Plaja Paina",
+            "en": "Paina Beach"
+          },
+          "coords": [
+            10.8145,
+            45.7685
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang direkt am Wasser.",
+            "hu": "Élvezze a naplementét közvetlenül a víznél.",
+            "ro": "Bucurați-vă de apus chiar lângă apă.",
+            "en": "Enjoy the sunset right by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt in den kopfsteingepflasterten Gassen der Altstadt, wo man den venezianischen Einfluss spürt. Mittags erkunden Sie den prächtigen Palazzo dei Capitani und die mächtige Scaliger-Burg. Der Nachmittag gehört dem Hafenflair und der barocken Ruhe von Santo Stefano. Zum Abschluss entspannen Sie am Kieselstrand von Paina, während die Sonne hinter den Bergen versinkt.",
+        "hu": "A nap a macskaköves óvárosban indul, ahol érezhető a velencei hatás. Délben felfedezzük a pompás Palazzo dei Capitanit és a hatalmas Scaligero-várat. A délután a kikötői hangulaté és Santo Stefano barokk nyugalmáé. Zárásként a Paina kavicsos strandján pihenhetünk, miközben a nap a hegyek mögé bukik.",
+        "ro": "Ziua începe pe străzile pavate ale centrului vechi, unde influența venețiană este evidentă. La prânz explorăm somptuosul Palazzo dei Capitani și impunătorul castel Scaligero. După-amiaza este dedicată atmosferei din port și liniștii baroce de la Santo Stefano. La final, relaxați-vă pe plaja cu pietriș Paina, în timp ce soarele apune după munți.",
+        "en": "The day starts in the cobblestone alleys of the old town, where Venetian influence is felt. At noon, explore the magnificent Palazzo dei Capitani and the mighty Scaliger Castle. The afternoon belongs to the harbor atmosphere and the Baroque peace of Santo Stefano. To finish, relax at Paina beach as the sun sinks behind the mountains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lavarello (Felchen)",
+            "tip": "Probieren Sie diesen lokalen Fisch im Ristorante Al Capitano."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lavarello (maréna)",
+            "tip": "Kóstolja meg ezt a helyi halat az Al Capitano étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lavarello",
+            "tip": "Gustați acest pește local la Ristorante Al Capitano."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavarello (Whitefish)",
+            "tip": "Try this local fish at Ristorante Al Capitano."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten des Palazzo dei Capitani",
+            "tip": "Ein ruhiger Rückzugsort direkt am Seeufer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palazzo dei Capitani kertje",
+            "tip": "Csendes menedék közvetlenül a tóparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Palazzo dei Capitani",
+            "tip": "Un refugiu liniștit chiar pe malul lacului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Garden of Palazzo dei Capitani",
+            "tip": "A quiet retreat right on the lakefront.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl vom Gardasee",
+            "tip": "Kaufen Sie lokales Öl in den Geschäften der Via Capitanato."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Garda-tavi olívaolaj",
+            "tip": "Vásároljon helyi olajat a Via Capitanato boltjaiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline de Garda",
+            "tip": "Cumpărați ulei local din magazinele de pe Via Capitanato."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Garda Olive Oil",
+            "tip": "Buy local oil in the shops along Via Capitanato."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Besuchen Sie die Burg früh, um Menschenmassen zu vermeiden.",
+          "Reservieren Sie im Sommer einen Tisch im Restaurant.",
+          "Nutzen Sie den Kieselstrand für eine Abkühlung."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskakövek miatt.",
+          "Látogassa meg a várat korán, hogy elkerülje a tömeget.",
+          "Nyáron foglaljon asztalt az éttermekben.",
+          "Használja a kavicsos strandot egy kis hűsölésre."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru pavajul cu piatră.",
+          "Vizitați castelul devreme pentru a evita aglomerația.",
+          "Rezervați o masă la restaurant în timpul verii.",
+          "Folosiți plaja cu pietriș pentru o răcorire."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestones.",
+          "Visit the castle early to avoid crowds.",
+          "Book a table at restaurants during summer.",
+          "Use the pebble beach for a quick cool-down."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Seilbahn Malcesine-Monte Baldo",
+            "hu": "Malcesine-Monte Baldo felvonó",
+            "ro": "Telecabina Malcesine-Monte Baldo",
+            "en": "Malcesine-Monte Baldo Cable Car"
+          },
+          "coords": [
+            10.8155,
+            45.7655
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Man kann das Fahrrad mit der Seilbahn nach oben nehmen.",
+            "hu": "A kerékpárt felviheti a felvonóval a hegyre.",
+            "ro": "Puteți lua bicicleta sus cu telecabina.",
+            "en": "You can take your bike up with the cable car."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Baldo Botanischer Garten",
+            "hu": "Monte Baldo Botanikus Kert",
+            "ro": "Grădina Botanică Monte Baldo",
+            "en": "Monte Baldo Botanical Garden"
+          },
+          "coords": [
+            10.8655,
+            45.7455
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie seltene alpine Pflanzenarten.",
+            "hu": "Fedezze fel a ritka alpesi növényfajokat.",
+            "ro": "Descoperiți specii de plante alpine rare.",
+            "en": "Discover rare alpine plant species."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Naturgeschichte",
+            "hu": "Természettudományi Múzeum",
+            "ro": "Muzeul de Istorie Naturală",
+            "en": "Natural History Museum"
+          },
+          "coords": [
+            10.8115,
+            45.7665
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Interessante Ausstellungen zur Flora und Fauna.",
+            "hu": "Érdekes kiállítások a flóráról és faunáról.",
+            "ro": "Expoziții interesante despre floră și faună.",
+            "en": "Interesting exhibits on local flora and fauna."
+          }
+        },
+        {
+          "name": {
+            "de": "Statua della Madonna",
+            "hu": "Madonna szobor",
+            "ro": "Statuia Madonei",
+            "en": "Statue of the Madonna"
+          },
+          "coords": [
+            10.8185,
+            45.7725
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein schöner Aussichtspunkt für Radfahrer.",
+            "hu": "Szép kilátópont kerékpárosoknak.",
+            "ro": "Un punct de belvedere frumos pentru bicicliști.",
+            "en": "A nice viewpoint for cyclists."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Paina",
+            "hu": "Paina strand",
+            "ro": "Plaja Paina",
+            "en": "Paina Beach"
+          },
+          "coords": [
+            10.8145,
+            45.7685
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 115,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannung nach der Radtour am Berg.",
+            "hu": "Pihenés a hegyi kerékpártúra után.",
+            "ro": "Relaxare după tura cu bicicleta pe munte.",
+            "en": "Relaxation after the mountain bike ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit der Seilbahn zum Monte Baldo, wo Sie alpine Trails und den Botanischen Garten erkunden. Mittags geht es zurück ins Tal zum Naturkundemuseum in der Burg. Eine kurze Fahrt zur Madonna-Statue bietet tolle Panoramen, bevor der Tag entspannt am Paina-Strand ausklingt.",
+        "hu": "Induljon a felvonóval a Monte Baldóra, ahol alpesi ösvényeket és a botanikus kertet fedezheti fel. Délben vissza a völgybe a vár természettudományi múzeumához. Egy rövid tekerés a Madonna-szoborhoz remek panorámát kínál, mielőtt a nap a Paina strandon véget érne.",
+        "ro": "Începeți cu telecabina spre Monte Baldo, unde explorați trasee alpine și grădina botanică. La prânz reveniți în vale la muzeul de istorie naturală din castel. O scurtă plimbare la statuia Madonei oferă panorame grozave, înainte ca ziua să se încheie relaxat pe plaja Paina.",
+        "en": "Start with the cable car to Monte Baldo, where you explore alpine trails and the botanical garden. At noon, return to the valley for the natural history museum in the castle. A short ride to the Madonna statue offers great panoramas before the day ends relaxedly at Paina beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Alpkäse (Formaggio del Monte Baldo)",
+            "tip": "Probieren Sie ihn in einer der Berghütten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alpesi sajt (Monte Baldo sajt)",
+            "tip": "Kóstolja meg az egyik hegyi menedékházban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de munte",
+            "tip": "Gustați-o la una dintre cabanele montane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alpine Cheese",
+            "tip": "Try it at one of the mountain huts."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Monte Baldo Gipfel",
+            "tip": "Finden Sie einen ruhigen Platz abseits der Seilbahnstation.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monte Baldo csúcs",
+            "tip": "Keressen egy csendes helyet a felvonóállomástól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Monte Baldo",
+            "tip": "Găsiți un loc liniștit departe de stația de telecabină.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monte Baldo Summit",
+            "tip": "Find a quiet spot away from the cable car station.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Berghonig",
+            "tip": "Direkt bei den lokalen Erzeugern am Monte Baldo erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hegyi méz",
+            "tip": "Közvetlenül a helyi termelőktől a Monte Baldón."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de munte",
+            "tip": "Disponibilă direct de la producătorii locali de pe Monte Baldo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mountain Honey",
+            "tip": "Available directly from local producers on Monte Baldo."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Bremsen vor der Abfahrt vom Monte Baldo.",
+          "Nehmen Sie eine warme Jacke für die Höhe mit.",
+          "Achten Sie auf Wanderer auf den Wegen.",
+          "Buchen Sie das Seilbahnticket online."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a Monte Baldóról való leereszkedés előtt.",
+          "Vigyen meleg kabátot a magasság miatt.",
+          "Figyeljen a túrázókra az ösvényeken.",
+          "Foglalja le online a felvonójegyet."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborârea de pe Monte Baldo.",
+          "Luați o jachetă groasă pentru altitudine.",
+          "Atenție la drumeții de pe poteci.",
+          "Rezervați biletul de telecabină online."
+        ],
+        "en": [
+          "Check your brakes before descending from Monte Baldo.",
+          "Take a warm jacket for the altitude.",
+          "Watch out for hikers on the trails.",
+          "Book your cable car ticket online."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello Scaligero",
+            "hu": "Scaligero vár",
+            "ro": "Castelul Scaligero",
+            "en": "Scaligero Castle"
+          },
+          "coords": [
+            10.8115,
+            45.7665
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen Parkplatz am Nordeingang.",
+            "hu": "Parkoljon az északi bejáratnál lévő nagy parkolóban.",
+            "ro": "Parcați în parcarea mare de la intrarea de nord.",
+            "en": "Park in the large parking lot at the north entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Seilbahn Malcesine-Monte Baldo",
+            "hu": "Malcesine-Monte Baldo felvonó",
+            "ro": "Telecabina Malcesine-Monte Baldo",
+            "en": "Malcesine-Monte Baldo Cable Car"
+          },
+          "coords": [
+            10.8155,
+            45.7655
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "10:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Seilbahnkabine dreht sich während der Fahrt.",
+            "hu": "A felvonó kabinja menet közben körbefordul.",
+            "ro": "Cabina telecabinei se rotește în timpul călătoriei.",
+            "en": "The cable car cabin rotates during the ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Cassone di Malcesine (Aril Fluss)",
+            "hu": "Cassone di Malcesine (Aril folyó)",
+            "ro": "Cassone di Malcesine (Râul Aril)",
+            "en": "Cassone di Malcesine (Aril River)"
+          },
+          "coords": [
+            10.7935,
+            45.7385
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "13:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Sehen Sie den kürzesten Fluss der Welt (175m).",
+            "hu": "Nézze meg a világ legrövidebb folyóját (175m).",
+            "ro": "Vedeți cel mai scurt râu din lume (175m).",
+            "en": "See the world's shortest river (175m)."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Val di Sogno",
+            "hu": "Val di Sogno strand",
+            "ro": "Plaja Val di Sogno",
+            "en": "Val di Sogno Beach"
+          },
+          "coords": [
+            10.7985,
+            45.7505
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beliebte Bucht für Segler und Windsurfer.",
+            "hu": "Népszerű öböl vitorlázóknak és szörfösöknek.",
+            "ro": "Golf popular pentru veliști și windsurferi.",
+            "en": "Popular bay for sailors and windsurfers."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt von Malcesine",
+            "hu": "Malcesine óvárosa",
+            "ro": "Centrul vechi din Malcesine",
+            "en": "Malcesine Old Town"
+          },
+          "coords": [
+            10.8105,
+            45.7655
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Perfekt für einen Aperitif zum Abschluss.",
+            "hu": "Tökéletes egy záró aperitifhez.",
+            "ro": "Perfect pentru un aperitiv la final.",
+            "en": "Perfect for a closing aperitif."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie sowohl die Highlights von Malcesine als auch die nähere Umgebung. Nach der Burg und dem Monte Baldo fahren Sie zum malerischen Cassone, um den kürzesten Fluss der Welt zu bestaunen. Den Nachmittag verbringen Sie in der traumhaften Bucht Val di Sogno, bevor Sie für den Abend in die Altstadt zurückkehren.",
+        "hu": "Autóval felfedezzük Malcesine legfontosabb látnivalóit és a környéket is. A vár és a Monte Baldo után a festői Cassonéba hajtunk, hogy megcsodáljuk a világ legrövidebb folyóját. A délutánt a csodás Val di Sogno öbölben töltjük, majd estére visszatérünk az óvárosba.",
+        "ro": "Cu mașina explorați atât atracțiile din Malcesine, cât și împrejurimile. După castel și Monte Baldo, conduceți spre pitorescul Cassone pentru a vedea cel mai scurt râu din lume. După-amiaza o petreceți în golful superb Val di Sogno, înainte de a reveni în centrul vechi pentru seară.",
+        "en": "By car, explore both the highlights of Malcesine and the nearby surroundings. After the castle and Monte Baldo, drive to picturesque Cassone to admire the world's shortest river. Spend the afternoon in the stunning Val di Sogno bay before returning to the old town for the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasta mit Gardasee-Sardinen",
+            "tip": "Eine Spezialität in Cassone."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tészta Garda-tavi szardíniával",
+            "tip": "Egy specialitás Cassonéban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paste cu sardine de Garda",
+            "tip": "O specialitate în Cassone."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasta with Lake Garda Sardines",
+            "tip": "A specialty in Cassone."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Insel Olivo (Val di Sogno)",
+            "tip": "Ein ruhiger Blickfang gegenüber der Bucht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olivo-sziget (Val di Sogno)",
+            "tip": "Csendes látvány az öböllel szemben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Olivo",
+            "tip": "O priveliște liniștită vizavi de golf.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Olivo Island",
+            "tip": "A quiet sight across from the bay.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lederwaren",
+            "tip": "In den Boutiquen von Malcesine finden Sie hochwertige Taschen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bőráruk",
+            "tip": "Malcesine butikjaiban kiváló minőségű táskákat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Articole din piele",
+            "tip": "În buticurile din Malcesine găsiți genți de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leather Goods",
+            "tip": "Find high-quality bags in Malcesine's boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Parkhaus 'Parcheggio Paina'.",
+          "Fahren Sie vorsichtig auf der engen Gardesana-Straße.",
+          "Parkgebühren können per App bezahlt werden.",
+          "Besuchen Sie Cassone für authentisches Flair."
+        ],
+        "hu": [
+          "Használja a 'Parcheggio Paina' parkolóházat.",
+          "Vezessen óvatosan a szűk Gardesana úton.",
+          "A parkolási díj applikációval is fizethető.",
+          "Látogassa meg Cassonét az autentikus hangulatért."
+        ],
+        "ro": [
+          "Folosiți parcarea 'Parcheggio Paina'.",
+          "Conduceți cu atenție pe drumul îngust Gardesana.",
+          "Taxele de parcare pot fi plătite prin aplicație.",
+          "Vizitați Cassone pentru o atmosferă autentică."
+        ],
+        "en": [
+          "Use the 'Parcheggio Paina' parking garage.",
+          "Drive carefully on the narrow Gardesana road.",
+          "Parking fees can be paid via app.",
+          "Visit Cassone for authentic flair."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Porto di Malcesine (Fähre)",
+            "hu": "Malcesinei kikötő (komp)",
+            "ro": "Portul Malcesine (feribot)",
+            "en": "Malcesine Port (Ferry)"
+          },
+          "coords": [
+            10.8085,
+            45.7635
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kaufen Sie ein Tagesticket für die Fähren.",
+            "hu": "Vásároljon napijegyet a kompokra.",
+            "ro": "Cumpărați un bilet de o zi pentru feribot.",
+            "en": "Buy a day ticket for the ferries."
+          }
+        },
+        {
+          "name": {
+            "de": "Seilbahn Malcesine-Monte Baldo",
+            "hu": "Malcesine-Monte Baldo felvonó",
+            "ro": "Telecabina Malcesine-Monte Baldo",
+            "en": "Malcesine-Monte Baldo Cable Car"
+          },
+          "coords": [
+            10.8155,
+            45.7655
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "10:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die Talstation ist gut zu Fuß vom Hafen erreichbar.",
+            "hu": "Az alsó állomás gyalog könnyen elérhető a kikötőtől.",
+            "ro": "Stația de bază este ușor accesibilă pe jos din port.",
+            "en": "The base station is easily reachable on foot from the port."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Scaligero",
+            "hu": "Scaligero vár",
+            "ro": "Castelul Scaligero",
+            "en": "Scaligero Castle"
+          },
+          "coords": [
+            10.8115,
+            45.7665
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Bus hält oft direkt an der Hauptstraße.",
+            "hu": "A busz gyakran közvetlenül a főúton áll meg.",
+            "ro": "Autobuzul oprește adesea chiar pe drumul principal.",
+            "en": "The bus often stops right on the main road."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt von Malcesine",
+            "hu": "Malcesine óvárosa",
+            "ro": "Centrul vechi din Malcesine",
+            "en": "Malcesine Old Town"
+          },
+          "coords": [
+            10.8105,
+            45.7655
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die versteckten Souvenirläden.",
+            "hu": "Fedezze fel a rejtett szuvenírboltokat.",
+            "ro": "Descoperiți magazinele de suveniruri ascunse.",
+            "en": "Discover the hidden souvenir shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Vecchio",
+            "hu": "Régi kikötő",
+            "ro": "Portul Vechi",
+            "en": "Old Port"
+          },
+          "coords": [
+            10.8085,
+            45.7635
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Eis vor der Rückfahrt.",
+            "hu": "Élvezzen egy fagyit a visszaindulás előtt.",
+            "ro": "Savurați o înghețată înainte de plecare.",
+            "en": "Enjoy an ice cream before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Fähre und die Seilbahn, um Malcesine stressfrei zu erleben. Nach der Ankunft am Hafen führt der Weg zum Monte Baldo für atemberaubende Aussichten. Den Nachmittag verbringen Sie in der historischen Burg und beim Bummel durch die Altstadt, bevor Sie am alten Hafen den Tag ausklingen lassen.",
+        "hu": "Használja a kompot és a felvonót, hogy stresszmentesen élje át Malcesinét. A kikötőbe érkezés után az út a Monte Baldóra vezet a lélegzetelállító kilátásért. A délutánt a történelmi várban és az óvárosi barangolással töltjük, majd a régi kikötőben zárjuk a napot.",
+        "ro": "Folosiți feribotul și telecabina pentru a experimenta Malcesine fără stres. După sosirea în port, drumul duce la Monte Baldo pentru vederi uluitoare. După-amiaza o petreceți în castelul istoric și plimbându-vă prin centrul vechi, înainte de a încheia ziua în portul vechi.",
+        "en": "Use the ferry and cable car to experience Malcesine stress-free. After arriving at the port, the path leads to Monte Baldo for breathtaking views. Spend the afternoon in the historic castle and strolling through the old town before ending the day at the old port."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gelato Artigianale",
+            "tip": "Holen Sie sich ein Eis in der Gelateria Cento per Cento."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gelato Artigianale",
+            "tip": "Vegyen egy fagyit a Gelateria Cento per Cento-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gelato Artigianale",
+            "tip": "Luați o înghețată la Gelateria Cento per Cento."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artisanal Gelato",
+            "tip": "Get an ice cream at Gelateria Cento per Cento."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fährfahrt auf dem See",
+            "tip": "Entspannung pur auf dem Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kompút a tavon",
+            "tip": "Tiszta relaxáció a vízen.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu feribotul",
+            "tip": "Relaxare pură pe apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ferry ride on the lake",
+            "tip": "Pure relaxation on the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zitronenlikör (Limoncello)",
+            "tip": "Überall in den Gassen erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citromlikőr (Limoncello)",
+            "tip": "Bárhol kapható a sikátorokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lichior de lămâie",
+            "tip": "Disponibil peste tot pe străduțe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lemon Liqueur (Limoncello)",
+            "tip": "Available everywhere in the alleys."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die 'Moovit' App für Busverbindungen.",
+          "Achten Sie auf die Abfahrtszeiten der letzten Fähre.",
+          "Kaufen Sie Tickets am Kiosk oder Hafen.",
+          "Die Linie 484 verbindet die Orte am Ostufer."
+        ],
+        "hu": [
+          "Töltse le a 'Moovit' alkalmazást a buszjáratokhoz.",
+          "Figyeljen az utolsó komp indulási idejére.",
+          "Vegyen jegyet a trafikban vagy a kikötőben.",
+          "A 484-es járat összeköti a keleti part településeit."
+        ],
+        "ro": [
+          "Descărcați aplicația 'Moovit' pentru autobuze.",
+          "Fiți atenți la ora de plecare a ultimului feribot.",
+          "Cumpărați bilete de la chioșcuri sau din port.",
+          "Linia 484 leagă localitățile de pe malul estic."
+        ],
+        "en": [
+          "Download the 'Moovit' app for bus schedules.",
+          "Watch out for the last ferry's departure time.",
+          "Buy tickets at kiosks or the port.",
+          "Line 484 connects the towns on the eastern shore."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "_coords": [
+      10.8108,
+      45.7656
+    ],
+    "_region": "IT-34 Veneto (Lago di Garda)",
+    "transit_official": "https://www.funiviedelbaldo.it/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Malcesine",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.visitmalcesine.com/en/events",
+    "tourism_office": "https://www.visitmalcesine.com/en",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/veneto/verona/lago-di-garda-malcesine.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/malcesine-c561893",
+    "museum_tickets": "https://www.funiviedelbaldo.it/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch Hauptsprache; Deutsch in Hotels und Restaurants sehr verbreitet (viele deutsche Gäste). Englisch gut.",
+      "hu": "Olasz a fő nyelv; szállodákban és éttermekben a német nagyon elterjedt (sok német turista). Angol jó.",
+      "ro": "Italiana este principala; germana foarte răspândită în hoteluri și restaurante (mulți turiști germani). Engleza bună.",
+      "en": "Italian is primary; German very common in hotels and restaurants (many German visitors). English good."
+    },
+    "best_time": {
+      "de": "Mai–Juni und September für See, Wandern und Monte Baldo; Juli–August überfüllt.",
+      "hu": "Május–június és szeptember a tóhoz, túrázáshoz és Monte Baldóhoz; július–augusztus zsúfolt.",
+      "ro": "Mai–iunie și septembrie pentru lac, drumeții și Monte Baldo; iulie–august aglomerat.",
+      "en": "May–June and September best for lake, hiking and Monte Baldo; July–August overcrowded."
+    },
+    "warnings": {
+      "de": "Ora-Wind nachmittags stark (Surfer-Hotspot); Seilbahn-Schlangen früh meiden. ZTL in der Altstadt.",
+      "hu": "Délutáni Ora szél erős (szörfös paradicsom); drótkötélpálya-sorok reggel kisebbek. ZTL óvárosban.",
+      "ro": "Vântul Ora puternic după-amiaza (paradis al surferilor); cozi mari la funicular, mergeți dimineața. ZTL în centru.",
+      "en": "Afternoon Ora wind strong (windsurf hotspot); cable car queues long, go early. ZTL in old town."
+    }
+  }
+}

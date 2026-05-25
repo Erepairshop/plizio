@@ -1,0 +1,1203 @@
+{
+  "city_id": "orvieto",
+  "anchor": {
+    "name": "Orvieto",
+    "coords": [
+      12.1095,
+      42.7173
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:46",
+      "total_km": 2.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Pozzo di San Patrizio",
+            "hu": "Szent Patrik kútja",
+            "ro": "Puțul Sfântului Patriciu",
+            "en": "St. Patrick's Well"
+          },
+          "coords": [
+            12.1211,
+            42.7183
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie die 248 Stufen hinab; die Doppelhelix verhindert Staus.",
+            "hu": "Ereszkedjen le a 248 lépcsőn; a dupla spirál megelőzi a szembejövő forgalmat.",
+            "ro": "Coborâți cele 248 de trepte; spirala dublă evită aglomerația.",
+            "en": "Descend the 248 steps; the double helix design prevents traffic jams."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortezza Albornoz",
+            "hu": "Albornoz-erőd",
+            "ro": "Fortăreața Albornoz",
+            "en": "Albornoz Fortress"
+          },
+          "coords": [
+            12.1205,
+            42.7175
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf das Tal von den alten Mauern aus.",
+            "hu": "Élvezze a panorámát a völgyre a régi várfalakról.",
+            "ro": "Bucurați-vă de panorama văii de pe zidurile vechi.",
+            "en": "Enjoy the panoramic view of the valley from the old walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Moro",
+            "hu": "Mór-torony",
+            "ro": "Torre del Moro",
+            "en": "Moro Tower"
+          },
+          "coords": [
+            12.1105,
+            42.7185
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der höchste Punkt der Stadt bietet eine 360-Grad-Aussicht.",
+            "hu": "A város legmagasabb pontja, 360 fokos kilátást nyújt.",
+            "ro": "Cel mai înalt punct al orașului oferă o vedere de 360 de grade.",
+            "en": "The highest point in town offers a 360-degree view."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Orvieto",
+            "hu": "Orvietói dóm",
+            "ro": "Domul din Orvieto",
+            "en": "Orvieto Cathedral"
+          },
+          "coords": [
+            12.1132,
+            42.7171
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Kapelle San Brizio mit Signorellis Fresken.",
+            "hu": "Ne hagyja ki a San Brizio-kápolnát Signorelli freskóival.",
+            "ro": "Nu ratați Capela San Brizio cu frescele lui Signorelli.",
+            "en": "Don't miss the San Brizio Chapel with Signorelli's frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Orvieto Underground",
+            "hu": "Föld alatti Orvieto",
+            "ro": "Orvieto Underground",
+            "en": "Orvieto Underground"
+          },
+          "coords": [
+            12.113,
+            42.717
+          ],
+          "category": "natural features",
+          "arrive_at": "13:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Buchen Sie die Tour im Voraus, um das Labyrinth der Höhlen zu erkunden.",
+            "hu": "Foglaljon előre túrát a barlanglabirintus felfedezéséhez.",
+            "ro": "Rezervați turul în avans pentru a explora labirintul de peșteri.",
+            "en": "Book the tour in advance to explore the labyrinth of caves."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Claudio Faina",
+            "hu": "Museo Claudio Faina",
+            "ro": "Museo Claudio Faina",
+            "en": "Claudio Faina Museum"
+          },
+          "coords": [
+            12.1128,
+            42.7173
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Hervorragende etruskische Sammlung direkt gegenüber dem Dom.",
+            "hu": "Kiváló etruszk gyűjtemény közvetlenül a dóm mellett.",
+            "ro": "Colecție etruscă excelentă chiar vizavi de catedrală.",
+            "en": "Excellent Etruscan collection right across from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Andrea",
+            "hu": "Szent András-templom",
+            "ro": "Biserica Sfântul Andrei",
+            "en": "Church of Sant'Andrea"
+          },
+          "coords": [
+            12.1095,
+            42.7184
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:28",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie den einzigartigen zwölfeckigen Glockenturm.",
+            "hu": "Csodálja meg az egyedülálló tizenszögletű harangtornyot.",
+            "ro": "Admirați clopotnița dodecagonală unică.",
+            "en": "Admire the unique dodecagonal bell tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Pozzo della Cava",
+            "hu": "Pozzo della Cava",
+            "ro": "Pozzo della Cava",
+            "en": "Pozzo della Cava"
+          },
+          "coords": [
+            12.1055,
+            42.7182
+          ],
+          "category": "natural features",
+          "arrive_at": "17:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein faszinierender, von Hand in den Tuffstein gehauener Brunnen.",
+            "hu": "Lenyűgöző, kézzel vájt kút a tufaszikla gyomrában.",
+            "ro": "Un puț fascinant săpat manual în tuf.",
+            "en": "A fascinating well hand-dug into the tuff rock."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt am Rande der Klippe mit dem beeindruckenden Brunnen des Heiligen Patrik und der Festung. Zum Mittagessen steigen Sie zum Domplatz auf, um die goldene Fassade der Kathedrale zu bestaunen. Am Nachmittag erkunden Sie die geheimnisvolle Unterwelt und die etruskischen Museen. Den Abend lassen Sie in den verwinkelten Gassen des mittelalterlichen Viertels bei einem Glas Orvieto Classico ausklingen.",
+        "hu": "A reggel a szikla szélén indul a lenyűgöző Szent Patrik kúttal és az erőddel. Délben a dóm térre érkezünk, hogy megcsodáljuk a székesegyház aranyló homlokzatát. Délután titokzatos föld alatti járatok és etruszk múzeumok várják. Az estét a középkori negyed kanyargós utcáin zárjuk, egy pohár hűvös Orvieto Classico bor társaságában, miközben a város lassan elcsendesedik.",
+        "ro": "Dimineața începe la marginea stâncii cu impresionantul Puț al Sfântului Patriciu și fortăreața. La prânz, urcați spre piața domului pentru a admira fațada aurie a catedralei. După-amiaza este dedicată explorării labirintului subteran și a muzeelor etrusce. Seara se încheie în cartierul medieval, savurând un pahar de vin local în timp ce soarele apune peste dealurile umbriene.",
+        "en": "Your morning begins at the edge of the cliff with the impressive St. Patrick's Well and the fortress. At midday, ascend to the cathedral square to marvel at the golden facade of the Duomo. The afternoon is dedicated to exploring the mysterious underground tunnels and the Etruscan museums. End your evening in the winding streets of the medieval quarter with a glass of Orvieto Classico wine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Orvieto Classico",
+            "tip": "Der berühmte Weißwein der Region."
+          },
+          {
+            "name": "Cinghiale",
+            "tip": "Wildschweingerichte sind eine lokale Spezialität."
+          },
+          {
+            "name": "Umbericchelli",
+            "tip": "Dicke, handgemachte Pasta, oft mit Trüffeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orvieto Classico",
+            "tip": "A régió híres fehérbora."
+          },
+          {
+            "name": "Cinghiale",
+            "tip": "A vaddisznóhús helyi specialitás."
+          },
+          {
+            "name": "Umbericchelli",
+            "tip": "Vastag, kézzel készített tészta, gyakran szarvasgombával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Orvieto Classico",
+            "tip": "Faimosul vin alb al regiunii."
+          },
+          {
+            "name": "Cinghiale",
+            "tip": "Mâncărurile din mistreț sunt o specialitate locală."
+          },
+          {
+            "name": "Umbericchelli",
+            "tip": "Paste groase făcute manual, adesea cu trufe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Orvieto Classico",
+            "tip": "The famous white wine of the region."
+          },
+          {
+            "name": "Cinghiale",
+            "tip": "Wild boar dishes are a local specialty."
+          },
+          {
+            "name": "Umbericchelli",
+            "tip": "Thick handmade pasta, often served with truffles."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fortezza Albornoz",
+            "tip": "Ruhige Gärten mit Blick auf das Tal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "San Giovenale",
+            "tip": "Die älteste Kirche am westlichen Rand.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fortezza Albornoz",
+            "tip": "Csendes kertek kilátással a völgyre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "San Giovenale",
+            "tip": "A város legősibb temploma a nyugati szélen.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fortezza Albornoz",
+            "tip": "Grădini liniștite cu vedere spre vale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "San Giovenale",
+            "tip": "Cea mai veche biserică de la marginea vestică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fortezza Albornoz",
+            "tip": "Quiet gardens with valley views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "San Giovenale",
+            "tip": "The oldest church at the western edge.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik aus Orvieto",
+            "tip": "Handbemalte Maiolica-Stücke."
+          },
+          {
+            "name": "Merletto",
+            "tip": "Traditionelle Orvieto-Spitze."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orvietói kerámia",
+            "tip": "Kézzel festett majolika tárgyak."
+          },
+          {
+            "name": "Merletto",
+            "tip": "Hagyományos orvietói csipke."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică de Orvieto",
+            "tip": "Piese de majolică pictate manual."
+          },
+          {
+            "name": "Merletto",
+            "tip": "Dantelă tradițională de Orvieto."
+          }
+        ],
+        "en": [
+          {
+            "name": "Orvieto Ceramics",
+            "tip": "Hand-painted majolica pieces."
+          },
+          {
+            "name": "Merletto",
+            "tip": "Traditional Orvieto lace."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das historische Zentrum ist größtenteils Fußgängerzone.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Die Funicolare ist die beste Art, vom Bahnhof in die Stadt zu gelangen.",
+          "Reservieren Sie Untergrund-Touren direkt nach Ihrer Ankunft."
+        ],
+        "hu": [
+          "A történelmi központ nagy része gyalogos zóna.",
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "A sikló a legjobb módja a város elérésének a vasútállomás felől.",
+          "A föld alatti túrákra érdemes rögtön érkezés után helyet foglalni."
+        ],
+        "ro": [
+          "Centrul istoric este în mare parte zonă pietonală.",
+          "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+          "Funicularul este cea mai bună cale de a ajunge în oraș de la gară.",
+          "Rezervați tururile subterane imediat după sosire."
+        ],
+        "en": [
+          "The historic center is mostly a pedestrian zone.",
+          "Wear comfortable shoes for the cobblestone streets.",
+          "The funicular is the best way to reach the city from the train station.",
+          "Book underground tours immediately upon arrival."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:22",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Necropoli del Crocifisso",
+            "hu": "Crocifisso-nekropolisz",
+            "ro": "Necropoli del Crocifisso",
+            "en": "Crocifisso Necropolis"
+          },
+          "coords": [
+            12.111,
+            42.723
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Etruskische Gräber am Fuße der Tuffsteinklippe.",
+            "hu": "Etruszka sírok a tufaszikla tövében.",
+            "ro": "Morminte etrusce la baza stâncii de tuf.",
+            "en": "Etruscan tombs at the base of the tuff cliff."
+          }
+        },
+        {
+          "name": {
+            "de": "Pozzo di San Patrizio",
+            "hu": "Szent Patrik kútja",
+            "ro": "Puțul Sfântului Patriciu",
+            "en": "St. Patrick's Well"
+          },
+          "coords": [
+            12.1211,
+            42.7183
+          ],
+          "category": "natural features",
+          "arrive_at": "10:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein steiler Anstieg zur Spitze, aber die Aussicht lohnt sich.",
+            "hu": "Meredek emelkedő a tetőre, de a kilátás megéri.",
+            "ro": "O urcare abruptă spre vârf, dar vederea merită.",
+            "en": "A steep climb to the top, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Moro",
+            "hu": "Mór-torony",
+            "ro": "Torre del Moro",
+            "en": "Moro Tower"
+          },
+          "coords": [
+            12.1105,
+            42.7185
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:54",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Corso Cavour ab.",
+            "hu": "Hagyja a biciklit a Corso Cavour mentén.",
+            "ro": "Lăsați bicicleta pe Corso Cavour.",
+            "en": "Park your bike along Corso Cavour."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Orvieto",
+            "hu": "Orvietói dóm",
+            "ro": "Domul din Orvieto",
+            "en": "Orvieto Cathedral"
+          },
+          "coords": [
+            12.1132,
+            42.7171
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die Piazza ist ideal für eine Pause mit dem Fahrrad.",
+            "hu": "A tér ideális egy kerékpáros pihenőhöz.",
+            "ro": "Piața este ideală pentru o pauză cu bicicleta.",
+            "en": "The square is ideal for a bike break."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo del Capitano del Popolo",
+            "hu": "Palazzo del Capitano del Popolo",
+            "ro": "Palazzo del Capitano del Popolo",
+            "en": "Palazzo del Capitano del Popolo"
+          },
+          "coords": [
+            12.112,
+            42.72
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein majestätischer Palast aus dem 13. Jahrhundert.",
+            "hu": "Fenséges 13. századi palota.",
+            "ro": "Un palat maiestuos din secolul al XIII-lea.",
+            "en": "A majestic 13th-century palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Pozzo della Cava",
+            "hu": "Pozzo della Cava",
+            "ro": "Pozzo della Cava",
+            "en": "Pozzo della Cava"
+          },
+          "coords": [
+            12.1055,
+            42.7182
+          ],
+          "category": "natural features",
+          "arrive_at": "14:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das mittelalterliche Viertel mit dem Rad.",
+            "hu": "Fedezze fel a középkori negyedet két keréken.",
+            "ro": "Explorați cartierul medieval pe două roți.",
+            "en": "Explore the medieval quarter on two wheels."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie von der etruskischen Nekropole am Fuße des Berges hinauf in die Stadt. Nach einem anspruchsvollen Anstieg belohnen Sie sich mit Besuchen des Doms und der historischen Paläste. Die Route kombiniert archäologische Stätten mit dem Charme der hochgelegenen Stadt.",
+        "hu": "Ez a kerékpáros túra a hegy lábánál lévő etruszk nekropolisztól vezet fel a városba. A kihívást jelentő emelkedő után a dóm és a történelmi paloták látványa a jutalom. Az útvonal remekül ötvözi a régészeti lelőhelyeket a fennsíkon elterülő város bájával.",
+        "ro": "Acest tur cu bicicleta vă conduce de la necropola etruscă de la baza muntelui până în oraș. După o urcare provocatoare, veți fi răsplătiți cu vizite la dom și la palatele istorice. Traseul combină siturile arheologice cu farmecul orașului situat pe platou.",
+        "en": "This bike tour takes you from the Etruscan necropolis at the foot of the hill up into the city. After a challenging climb, you'll be rewarded with visits to the cathedral and historic palaces. The route combines archaeological sites with the charm of the hilltop town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Panini mit Porchetta",
+            "tip": "Schneller Snack für Radfahrer."
+          },
+          {
+            "name": "Gelato",
+            "tip": "In der Nähe des Doms gibt es fantastisches Eis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Porchettás szendvics",
+            "tip": "Gyors és laktató snack bicikliseknek."
+          },
+          {
+            "name": "Gelato",
+            "tip": "A dóm környékén fantasztikus fagylaltozók vannak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș cu porchetta",
+            "tip": "Gustare rapidă pentru bicicliști."
+          },
+          {
+            "name": "Gelato",
+            "tip": "Există înghețată fantastică lângă catedrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Porchetta sandwich",
+            "tip": "Quick and filling snack for cyclists."
+          },
+          {
+            "name": "Gelato",
+            "tip": "Fantastic ice cream spots near the cathedral."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ringstraße",
+            "tip": "Weg um die Stadtmauer mit wenig Verkehr.",
+            "emoji": "🚴"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyűrűs út",
+            "tip": "Városfal menti út kevés forgalommal.",
+            "emoji": "🚴"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul de centură",
+            "tip": "Cale de-a lungul zidurilor cu trafic redus.",
+            "emoji": "🚴"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ring road",
+            "tip": "Path along the city walls with little traffic.",
+            "emoji": "🚴"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Leicht in der Tasche zu transportieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Könnyen szállítható ajándék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Ușor de transportat în rucsac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local olive oil",
+            "tip": "Easy to carry in a bike bag."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen im Zentrum sind schmal; Vorsicht bei Fußgängern.",
+          "Ein Elektrofahrrad ist wegen der Höhenunterschiede ideal.",
+          "Parken Sie Ihr Rad immer an markierten Stellen.",
+          "Nehmen Sie ausreichend Wasser für den Anstieg mit."
+        ],
+        "hu": [
+          "A központi utcák szűkek, figyeljen a gyalogosokra.",
+          "Az elektromos kerékpár ideális a szintkülönbségek miatt.",
+          "Mindig kijelölt helyen parkoljon a biciklivel.",
+          "Vigyen magával elég vizet az emelkedőkhöz."
+        ],
+        "ro": [
+          "Străzile din centru sunt înguste; atenție la pietoni.",
+          "O bicicletă electrică este ideală din cauza diferențelor de nivel.",
+          "Parcați întotdeauna bicicleta în locurile marcate.",
+          "Luați suficientă apă pentru urcări."
+        ],
+        "en": [
+          "Central streets are narrow; watch out for pedestrians.",
+          "An e-bike is ideal due to the elevation changes.",
+          "Always park your bike in designated spots.",
+          "Bring enough water for the climbs."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:38",
+      "total_km": 42.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Necropoli del Crocifisso",
+            "hu": "Crocifisso-nekropolisz",
+            "ro": "Necropoli del Crocifisso",
+            "en": "Crocifisso Necropolis"
+          },
+          "coords": [
+            12.111,
+            42.723
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parkplatz direkt am Eingang der Ausgrabungsstätte.",
+            "hu": "Parkoló közvetlenül a régészeti terület bejáratánál.",
+            "ro": "Parcare chiar la intrarea în situl arheologic.",
+            "en": "Parking available right at the entrance to the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Pozzo di San Patrizio",
+            "hu": "Szent Patrik kútja",
+            "ro": "Puțul Sfântului Patriciu",
+            "en": "St. Patrick's Well"
+          },
+          "coords": [
+            12.1211,
+            42.7183
+          ],
+          "category": "natural features",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus am Campo della Fiera.",
+            "hu": "Használja a Campo della Fiera melletti parkolóházat.",
+            "ro": "Utilizați parcarea de la Campo della Fiera.",
+            "en": "Use the parking garage at Campo della Fiera."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Orvieto",
+            "hu": "Orvietói dóm",
+            "ro": "Domul din Orvieto",
+            "en": "Orvieto Cathedral"
+          },
+          "coords": [
+            12.1132,
+            42.7171
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "In der ZTL-Zone sind Autos im Zentrum verboten.",
+            "hu": "A központban autók számára tiltott ZTL zóna van.",
+            "ro": "Mașinile sunt interzise în zona ZTL din centru.",
+            "en": "Cars are prohibited in the central ZTL zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Pozzo della Cava",
+            "hu": "Pozzo della Cava",
+            "ro": "Pozzo della Cava",
+            "en": "Pozzo della Cava"
+          },
+          "coords": [
+            12.1055,
+            42.7182
+          ],
+          "category": "natural features",
+          "arrive_at": "13:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Parkplatz am Stadtrand.",
+            "hu": "Rövid séta a város szélén lévő parkolótól.",
+            "ro": "O scurtă plimbare de la parcarea de la marginea orașului.",
+            "en": "A short walk from the parking at the edge of town."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Moro",
+            "hu": "Mór-torony",
+            "ro": "Torre del Moro",
+            "en": "Moro Tower"
+          },
+          "coords": [
+            12.1105,
+            42.7185
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:16",
+          "stay_min": 45,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Blick über die gesamte Region Umbrien.",
+            "hu": "Kilátás az egész umbriai régióra.",
+            "ro": "Vedere peste întreaga regiune Umbria.",
+            "en": "View over the entire Umbria region."
+          }
+        },
+        {
+          "name": {
+            "de": "Civita di Bagnoregio",
+            "hu": "Civita di Bagnoregio",
+            "ro": "Civita di Bagnoregio",
+            "en": "Civita di Bagnoregio"
+          },
+          "coords": [
+            12.1137,
+            42.6273
+          ],
+          "category": "historical",
+          "arrive_at": "16:08",
+          "stay_min": 120,
+          "hop_from_prev_min": 67,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Die sterbende Stadt, nur über eine Brücke erreichbar.",
+            "hu": "A haldokló város, csak egy hídon érhető el.",
+            "ro": "Orașul care moare, accesibil doar printr-un pod.",
+            "en": "The dying city, accessible only via a bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie zunächst die Schätze von Orvieto, bevor Sie am späten Nachmittag einen Ausflug in das spektakuläre Civita di Bagnoregio machen. Diese Route bietet die perfekte Mischung aus umbrischer Stadtkultur und der dramatischen Landschaft der Tuscia.",
+        "hu": "Autóval először Orvieto kincseit fedezzük fel, majd késő délután kirándulást teszünk a látványos Civita di Bagnoregiba. Ez az útvonal tökéletes keveréke az umbriai városi kultúrának és a Tuscia régió drámai tájainak.",
+        "ro": "Cu mașina, explorați mai întâi comorile din Orvieto, înainte de a face o excursie la sfârșitul după-amiezii în spectaculosul Civita di Bagnoregio. Acest traseu oferă amestecul perfect de cultură urbană umbriană și peisajele dramatice din Tuscia.",
+        "en": "By car, explore Orvieto's treasures first before taking a late afternoon trip to the spectacular Civita di Bagnoregio. This route offers the perfect blend of Umbrian urban culture and the dramatic landscapes of the Tuscia region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trüffel-Pasta",
+            "tip": "In den Bergdörfern besonders aromatisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szarvasgombás tészta",
+            "tip": "A hegyi falvakban különösen aromás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paste cu trufe",
+            "tip": "Deosebit de aromate în satele de munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Truffle pasta",
+            "tip": "Especially aromatic in the mountain villages."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Belvedere",
+            "tip": "Blick auf Orvieto aus der Ferne.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvedere kilátópont",
+            "tip": "Kilátás Orvietóra a távolból.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere",
+            "tip": "Vedere spre Orvieto de la distanță.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belvedere viewpoint",
+            "tip": "View of Orvieto from a distance.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weine",
+            "tip": "Direkt bei den Winzern kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "Vásároljon közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri locale",
+            "tip": "Cumpărați direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local wines",
+            "tip": "Buy directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie nicht in das historische Zentrum (ZTL-Zone).",
+          "Parken Sie im großen Parkhaus Campo della Fiera.",
+          "Die Straßen nach Bagnoregio sind kurvenreich und eng.",
+          "Zahlen Sie die Parkgebühren im Voraus, um Bußgelder zu vermeiden."
+        ],
+        "hu": [
+          "Ne hajtson be a történelmi központba (ZTL zóna).",
+          "Parkoljon a nagy Campo della Fiera parkolóházban.",
+          "A Bagnoregio felé vezető utak kanyargósak és szűkek.",
+          "Fizesse ki előre a parkolást a büntetések elkerülése érdekében."
+        ],
+        "ro": [
+          "Nu intrați în centrul istoric (zona ZTL).",
+          "Parcați în parcarea mare Campo della Fiera.",
+          "Drumurile spre Bagnoregio sunt sinuoase și înguste.",
+          "Plătiți taxele de parcare în avans pentru a evita amenzile."
+        ],
+        "en": [
+          "Do not drive into the historic center (ZTL zone).",
+          "Park in the large Campo della Fiera parking garage.",
+          "The roads to Bagnoregio are winding and narrow.",
+          "Pay parking fees in advance to avoid fines."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:26",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pozzo di San Patrizio",
+            "hu": "Szent Patrik kútja",
+            "ro": "Puțul Sfântului Patriciu",
+            "en": "St. Patrick's Well"
+          },
+          "coords": [
+            12.1211,
+            42.7183
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Direkt neben der Bergstation der Funicolare.",
+            "hu": "Közvetlenül a sikló felső állomása mellett.",
+            "ro": "Chiar lângă stația superioară a funicularului.",
+            "en": "Right next to the upper funicular station."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Orvieto",
+            "hu": "Orvietói dóm",
+            "ro": "Domul din Orvieto",
+            "en": "Orvieto Cathedral"
+          },
+          "coords": [
+            12.1132,
+            42.7171
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Shuttlebus 'A' vom Piazza Cahen.",
+            "hu": "Szálljon fel az 'A' jelzésű buszra a Piazza Cahenről.",
+            "ro": "Luați autobuzul 'A' din Piazza Cahen.",
+            "en": "Take shuttle bus 'A' from Piazza Cahen."
+          }
+        },
+        {
+          "name": {
+            "de": "Orvieto Underground",
+            "hu": "Föld alatti Orvieto",
+            "ro": "Orvieto Underground",
+            "en": "Orvieto Underground"
+          },
+          "coords": [
+            12.113,
+            42.717
+          ],
+          "category": "natural features",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der Treffpunkt ist gegenüber dem Dom.",
+            "hu": "A találkozási pont a dómmal szemben van.",
+            "ro": "Punctul de întâlnire este vizavi de catedrală.",
+            "en": "The meeting point is across from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Moro",
+            "hu": "Mór-torony",
+            "ro": "Torre del Moro",
+            "en": "Moro Tower"
+          },
+          "coords": [
+            12.1105,
+            42.7185
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:03",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die Busse halten in der Nähe des Corso Cavour.",
+            "hu": "A buszok a Corso Cavour közelében állnak meg.",
+            "ro": "Autobuzele opresc aproape de Corso Cavour.",
+            "en": "Buses stop near Corso Cavour."
+          }
+        },
+        {
+          "name": {
+            "de": "Pozzo della Cava",
+            "hu": "Pozzo della Cava",
+            "ro": "Pozzo della Cava",
+            "en": "Pozzo della Cava"
+          },
+          "coords": [
+            12.1055,
+            42.7182
+          ],
+          "category": "natural features",
+          "arrive_at": "13:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das mittelalterliche Viertel ist gut mit kleinen Bussen erreichbar.",
+            "hu": "A középkori negyed jól megközelíthető kisbuszokkal.",
+            "ro": "Cartierul medieval este ușor accesibil cu microbuze.",
+            "en": "The medieval quarter is easily accessible by minibuses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das bequeme Transit-System von Orvieto, beginnend mit der historischen Funicolare vom Bahnhof. Kleine Elektrobusse bringen Sie mühelos zu den wichtigsten Sehenswürdigkeiten auf dem Tuffstein-Plateau, vom glitzernden Dom bis zu den tiefen Brunnen und Türmen.",
+        "hu": "Használja Orvieto kényelmes közlekedési rendszerét, kezdve a történelmi siklóval a vasútállomástól. Kis elektromos buszok könnyedén repítik a tufafennsík legfontosabb látnivalóihoz, a ragyogó dómtól a mély kutakig és tornyokig.",
+        "ro": "Utilizați sistemul de transport convenabil din Orvieto, începând cu funicularul istoric de la gară. Microbuzele electrice vă duc fără efort la principalele atracții de pe platoul de tuf, de la catedrala strălucitoare până la puțurile adânci și turnuri.",
+        "en": "Use Orvieto's convenient transit system, starting with the historic funicular from the station. Small electric buses whisk you effortlessly to the key sights on the tuff plateau, from the glittering cathedral to the deep wells and towers."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Biscotti",
+            "tip": "Traditionelles Gebäck zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biscotti",
+            "tip": "Hagyományos kekszek elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biscotti",
+            "tip": "Biscuiți tradiționali de luat la pachet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biscotti",
+            "tip": "Traditional biscuits to take away."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piazza Cahen",
+            "tip": "Ruhiger Platz bei der Seilbahnstation.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza Cahen",
+            "tip": "Csendes tér a sikló állomásánál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazza Cahen",
+            "tip": "Piață liniștită lângă stația funicularului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza Cahen",
+            "tip": "Quiet square by the funicular station.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten",
+            "tip": "Schöne Motive in den Läden beim Dom."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapok",
+            "tip": "Szép motívumok a dóm melletti boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederi",
+            "tip": "Motive frumoase în magazinele de lângă dom."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcards",
+            "tip": "Beautiful motifs in shops near the Duomo."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Fahrkarte für die Funicolare gilt auch für den Bus.",
+          "Die Busse verkehren in regelmäßigen Abständen.",
+          "Achten Sie auf die Fahrpläne an den Haltestellen.",
+          "Der Bus 'A' ist am nützlichsten für Touristen."
+        ],
+        "hu": [
+          "A siklóra váltott jegy a buszokra is érvényes.",
+          "A buszok rendszeres időközönként járnak.",
+          "Figyelje a menetrendet a megállókban.",
+          "Az 'A' jelzésű busz a leghasznosabb a turisták számára."
+        ],
+        "ro": [
+          "Biletul pentru funicular este valabil și pentru autobuz.",
+          "Autobuzele circulă la intervale regulate.",
+          "Verificați orarul în stații.",
+          "Autobuzul 'A' este cel mai util pentru turiști."
+        ],
+        "en": [
+          "The funicular ticket is also valid for the bus.",
+          "Buses run at regular intervals.",
+          "Check the timetables at the stops.",
+          "Bus 'A' is the most useful for tourists."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "city": "Orvieto",
+    "region": "IT-55",
+    "coords": [
+      12.1095,
+      42.7173
+    ],
+    "transit_official": "https://www.busitalia.it/",
+    "transit_app": null,
+    "bike_share": null,
+    "city_card": "https://www.orvietoviva.com/en/orvieto-card/",
+    "events": "https://www.orvietoviva.com/en/events/",
+    "tourism_office": "https://www.orvietoviva.com/en/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/umbria/terni/orvieto.html",
+    "restaurants_booking": "https://www.thefork.com/restaurants/orvieto-c573470",
+    "museum_tickets": "https://www.duomodiorvieto.it/biglietteria/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Englisch in Hotels und am Dom ok, abseits weniger.",
+      "hu": "A szallodakban es a Domnal megy az angol, mashol kevesbe.",
+      "ro": "Engleza la hoteluri si la Dom merge, in rest mai putin.",
+      "en": "English fine at hotels and the Duomo, less so elsewhere."
+    },
+    "best_time": {
+      "de": "April-Juni und September-Oktober; Hochsommer heiss auf dem Tuff-Felsen.",
+      "hu": "Aprilis-junius es szeptember-oktober; a nyar forro a tufa-szikla tetejen.",
+      "ro": "Aprilie-iunie si septembrie-octombrie; vara fierbinte pe stanca de tuf.",
+      "en": "April-June and September-October; summer hot atop the tufa cliff."
+    },
+    "warnings": {
+      "de": "Funicular zum Stadtkern nutzen, Anstieg ist steil. Hoehlentouren brauchen feste Schuhe.",
+      "hu": "A varoskozpontba a funicularral menj, az emelkedo meredek. Barlangturahoz zart cipo kell.",
+      "ro": "Foloseste funicularul spre centru, urcusul e abrupt. Tururile in pesteri necesita incaltari solide.",
+      "en": "Take the funicular up; ascent is steep. Cave tours need sturdy shoes."
+    }
+  }
+}

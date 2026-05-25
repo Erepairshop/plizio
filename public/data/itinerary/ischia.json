@@ -1,0 +1,987 @@
+{
+  "city_id": "ischia",
+  "anchor": {
+    "name": "Ischia",
+    "coords": [
+      13.9444,
+      40.7333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello Aragonese",
+            "hu": "Aragóniai-kastély",
+            "ro": "Castelul Aragonez",
+            "en": "Aragonese Castle"
+          },
+          "coords": [
+            13.965,
+            40.7315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Aufzug, wenn Sie nicht zu Fuß gehen wollen.",
+            "hu": "Használja a liftet, ha nem akar gyalog felmenni.",
+            "ro": "Folosiți liftul dacă nu vreți să urcați pe jos.",
+            "en": "Use the elevator if you do not want to walk up."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di Santa Maria Assunta",
+            "hu": "Santa Maria Assunta katedrális",
+            "ro": "Catedrala Santa Maria Assunta",
+            "en": "Cathedral of Santa Maria Assunta"
+          },
+          "coords": [
+            13.961,
+            40.7305
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Krypta mit den Fresken.",
+            "hu": "Látogassa meg a freskókkal díszített kriptát.",
+            "ro": "Vizitați cripta cu fresce.",
+            "en": "Visit the crypt with frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Borgo di Sant'Angelo",
+            "hu": "Sant'Angelo falu",
+            "ro": "Satul Sant'Angelo",
+            "en": "Village of Sant'Angelo"
+          },
+          "coords": [
+            13.896,
+            40.697
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein autofreies Juwel.",
+            "hu": "Autómentes ékszerdoboz.",
+            "ro": "O bijuterie fără mașini.",
+            "en": "A car-free gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa del Soccorso",
+            "hu": "Soccorso-templom",
+            "ro": "Biserica Soccorso",
+            "en": "Church of Soccorso"
+          },
+          "coords": [
+            13.8505,
+            40.739
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die weiße Kirche direkt am Meer.",
+            "hu": "A fehér templom közvetlenül a tengerparton.",
+            "ro": "Biserica albă chiar lângă mare.",
+            "en": "The white church right by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia dei Maronti",
+            "hu": "Maronti strand",
+            "ro": "Plaja Maronti",
+            "en": "Maronti Beach"
+          },
+          "coords": [
+            13.91,
+            40.698
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im warmen Sand.",
+            "hu": "Lazítson a meleg homokban.",
+            "ro": "Relaxați-vă pe nisipul cald.",
+            "en": "Relax in the warm sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ischia zu Fuß zu erkunden bedeutet, die Seele der Insel zu spüren. Wir beginnen am beeindruckenden Castello Aragonese.\n\nNach der Kathedrale und einem Mittagessen in Ischia Ponte schlendern wir durch die charmanten Gassen.\n\nDer Nachmittag führt uns zur malerischen Chiesa del Soccorso in Forio, einem Symbol der Insel.\n\nWir beenden den Tag am Maronti-Strand, wo die vulkanische Wärme der Insel noch lange nachhallt.",
+        "hu": "Ischia gyalogos felfedezése azt jelenti, hogy érezzük a sziget lelkét. A lenyűgöző Aragóniai-kastélynál kezdünk.\n\nA katedrális és egy Ischia Pontében elköltött ebéd után a bájos szűk utcákon sétálunk.\n\nA délután a foriói, festői Soccorso-templomhoz vezet, amely a sziget jelképe.\n\nA napot a Maronti strandon fejezzük be, ahol a sziget vulkanikus ereje még sokáig érezhető.",
+        "ro": "Explorarea insulei Ischia pe jos înseamnă a simți sufletul insulei. Începem la impresionantul Castel Aragonez.\n\nDupă catedrală și un prânz în Ischia Ponte, ne plimbăm pe străduțele fermecătoare.\n\nDupă-amiaza ne duce la pitoreasca biserică Soccorso din Forio, un simbol al insulei.\n\nÎncheiem ziua pe plaja Maronti, unde căldura vulcanică a insulei persistă mult timp.",
+        "en": "Exploring Ischia on foot means feeling the soul of the island. We start at the impressive Aragonese Castle.\n\nAfter the Cathedral and a lunch in Ischia Ponte, we stroll through the charming alleys.\n\nThe afternoon leads us to the picturesque Soccorso Church in Forio, a symbol of the island.\n\nWe end the day at Maronti Beach, where the volcanic warmth of the island resonates long after."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Coniglio all'Ischitana",
+            "tip": "Traditionelles Kaninchengericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coniglio all'Ischitana",
+            "tip": "Hagyományos nyúlhúsétel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coniglio all'Ischitana",
+            "tip": "Mâncare tradițională de iepure."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coniglio all'Ischitana",
+            "tip": "Traditional rabbit dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pineta Mirtina",
+            "tip": "Ruhiger Pinienwald im Zentrum.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pineta Mirtina",
+            "tip": "Csendes fenyőerdő a központban.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pineta Mirtina",
+            "tip": "Pădure de pini liniștită în centru.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pineta Mirtina",
+            "tip": "Quiet pine forest in the center.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ischia Thermalkosmetik",
+            "tip": "Produkte aus lokalem Thermalwasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ischia termálkozmetikumok",
+            "tip": "Helyi termálvízből készült termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cosmetice termale Ischia",
+            "tip": "Produse realizate din apă termală locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ischia Thermal Cosmetics",
+            "tip": "Products made from local thermal water."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequeme Schuhe sind für das Kopfsteinpflaster wichtig.",
+          "Hut und Sonnenschutz nicht vergessen.",
+          "Die Entfernungen zwischen den Orten sind groß."
+        ],
+        "hu": [
+          "Kényelmes cipő fontos a macskaköves utcákon.",
+          "Ne felejtse el a kalapot és a naptejet.",
+          "A települések közötti távolságok nagyok."
+        ],
+        "ro": [
+          "Pantofii confortabili sunt importanți pentru piatra cubică.",
+          "Nu uitați pălăria și protecția solară.",
+          "Distanțele între localități sunt mari."
+        ],
+        "en": [
+          "Comfortable shoes are important for the cobblestones.",
+          "Don't forget a hat and sunscreen.",
+          "Distances between towns are large."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 22.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Giardini La Mortella",
+            "hu": "La Mortella kertek",
+            "ro": "Grădinile La Mortella",
+            "en": "La Mortella Gardens"
+          },
+          "coords": [
+            13.864,
+            40.751
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein botanisches Paradies von William Walton.",
+            "hu": "William Walton botanikai paradicsoma.",
+            "ro": "Un paradis botanic creat de William Walton.",
+            "en": "A botanical paradise by William Walton."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico di Pithecusae",
+            "hu": "Pithecusae Régészeti Múzeum",
+            "ro": "Muzeul Arheologic Pithecusae",
+            "en": "Archaeological Museum of Pithecusae"
+          },
+          "coords": [
+            13.885,
+            40.753
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Sehen Sie den berühmten Becher des Nestor.",
+            "hu": "Nézze meg a híres Nesztór-serleget.",
+            "ro": "Vedeți faimoasa Cupă a lui Nestor.",
+            "en": "See the famous Nestor's Cup."
+          }
+        },
+        {
+          "name": {
+            "de": "Baia di Sorgeto",
+            "hu": "Sorgeto-öböl",
+            "ro": "Baia di Sorgeto",
+            "en": "Baia di Sorgeto"
+          },
+          "coords": [
+            13.887,
+            40.693
+          ],
+          "category": "natural features",
+          "arrive_at": "14:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Heiße Thermalquellen im Meer.",
+            "hu": "Forró termálforrások a tengerben.",
+            "ro": "Izvoare termale fierbinți în mare.",
+            "en": "Hot thermal springs in the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Epomeo",
+            "hu": "Monte Epomeo",
+            "ro": "Monte Epomeo",
+            "en": "Monte Epomeo"
+          },
+          "coords": [
+            13.894,
+            40.73
+          ],
+          "category": "natural features",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Der höchste Punkt der Insel.",
+            "hu": "A sziget legmagasabb pontja.",
+            "ro": "Cel mai înalt punct al insulei.",
+            "en": "The highest point of the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Poseidon-Gärten",
+            "hu": "Poszeidón kertek",
+            "ro": "Grădinile Poseidon",
+            "en": "Poseidon Gardens"
+          },
+          "coords": [
+            13.865,
+            40.718
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "18:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Blick auf den größten Thermalpark.",
+            "hu": "Kilátás a legnagyobb termálparkra.",
+            "ro": "Vedere asupra celui mai mare parc termal.",
+            "en": "View of the largest thermal park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour zeigt die grüne und vulkanische Seite Ischias. Wir starten in den botanischen Gärten La Mortella.\n\nNach Kultur im Archäologischen Múzeum geht es zu den heißen Quellen von Sorgeto – ein Muss für jeden Besucher.\n\nDer späte Nachmittag führt uns zum Fuße des Monte Epomeo, bevor wir an den berühmten Poseidon-Gärten vorbeifahren.\n\nDie Tour ist anspruchsvoll, belohnt aber mit spektakulären Ausblicken über den Golf von Neapel.",
+        "hu": "Ez a kerékpártúra Ischia zöld és vulkanikus oldalát mutatja be. A La Mortella botanikus kertben kezdünk.\n\nA Régészeti Múzeum után Sorgeto forró forrásaihoz tekerünk – ez minden látogató számára kötelező.\n\nA késő délután a Monte Epomeo lábához vezet, majd a híres Poszeidón kertek mellett haladunk el.\n\nA túra kihívást jelent, de a Nápolyi-öbölre nyíló látvány kárpótol mindenért.",
+        "ro": "Acest tur cu bicicleta arată partea verde și vulcanică a insulei Ischia. Începem în grădinile botanice La Mortella.\n\nDupă cultura de la Muzeul Arheologic, mergem la izvoarele fierbinți din Sorgeto – un must-see pentru orice vizitator.\n\nDupă-amiaza târzie ne duce la poalele Muntelui Epomeo, înainte de a trece pe lângă faimoasele Grădini Poseidon.\n\nTurul este solicitant, dar răsplătește cu vederi spectaculoase asupra Golfului Napoli.",
+        "en": "This bike tour shows the green and volcanic side of Ischia. We start in the La Mortella botanical gardens.\n\nAfter culture at the Archaeological Museum, we cycle to the hot springs of Sorgeto – a must for every visitor.\n\nThe late afternoon leads us to the foot of Monte Epomeo before we pass by the famous Poseidon Gardens.\n\nThe tour is demanding but rewards with spectacular views over the Gulf of Naples."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasta e Patate",
+            "tip": "Herzhaftes lokales Gericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasta e Patate",
+            "tip": "Kiadós helyi étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasta e Patate",
+            "tip": "Mâncare locală consistentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasta e Patate",
+            "tip": "Hearty local dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belvedere di Serrara",
+            "tip": "Panorama pur.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvedere di Serrara",
+            "tip": "Tiszta panoráma.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere di Serrara",
+            "tip": "Panoramă pură.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belvedere di Serrara",
+            "tip": "Pure panorama.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokalhonig",
+            "tip": "Frisch vom Monte Epomeo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Frissen a Monte Epomeóról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Proaspătă de pe Monte Epomeo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Fresh from Monte Epomeo."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike wegen der Steigungen.",
+          "Die Hauptstraße kann verkehrsreich sein.",
+          "Beleuchtung für Tunnel einplanen."
+        ],
+        "hu": [
+          "Béreljen e-bike-ot az emelkedők miatt.",
+          "A főút forgalmas lehet.",
+          "Tervezzen világítást az alagutakhoz."
+        ],
+        "ro": [
+          "Închiriați un e-bike din cauza pantelor.",
+          "Șoseaua principală poate fi aglomerată.",
+          "Luați lumini pentru tuneluri."
+        ],
+        "en": [
+          "Rent an e-bike because of the inclines.",
+          "The main road can be busy.",
+          "Plan lighting for tunnels."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello Aragonese",
+            "hu": "Aragóniai-kastély",
+            "ro": "Castelul Aragonez",
+            "en": "Aragonese Castle"
+          },
+          "coords": [
+            13.965,
+            40.7315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Früh ankommen, um Parkplatz zu finden.",
+            "hu": "Érkezzen korán, hogy találjon parkolót.",
+            "ro": "Veniți devreme pentru a găsi parcare.",
+            "en": "Arrive early to find parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Poseidon-Gärten",
+            "hu": "Poszeidón kertek",
+            "ro": "Grădinile Poseidon",
+            "en": "Poseidon Gardens"
+          },
+          "coords": [
+            13.865,
+            40.718
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Bringen Sie eine Badekappe mit.",
+            "hu": "Vigyen magával úszósapkát.",
+            "ro": "Luați o cască de înot.",
+            "en": "Bring a swimming cap."
+          }
+        },
+        {
+          "name": {
+            "de": "Borgo di Sant'Angelo",
+            "hu": "Sant'Angelo falu",
+            "ro": "Satul Sant'Angelo",
+            "en": "Village of Sant'Angelo"
+          },
+          "coords": [
+            13.896,
+            40.697
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Parken Sie vor dem Dorf (ZTL).",
+            "hu": "Parkoljon a falun kívül (ZTL).",
+            "ro": "Parcați înainte de sat (ZTL).",
+            "en": "Park before the village (ZTL)."
+          }
+        },
+        {
+          "name": {
+            "de": "Baia di Sorgeto",
+            "hu": "Sorgeto-öböl",
+            "ro": "Baia di Sorgeto",
+            "en": "Baia di Sorgeto"
+          },
+          "coords": [
+            13.887,
+            40.693
+          ],
+          "category": "natural features",
+          "arrive_at": "17:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Vorsicht vor den heißen Steinen.",
+            "hu": "Vigyázzon a forró kövekre.",
+            "ro": "Atenție la pietrele fierbinți.",
+            "en": "Watch out for hot stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa del Soccorso",
+            "hu": "Soccorso-templom",
+            "ro": "Biserica Soccorso",
+            "en": "Church of Soccorso"
+          },
+          "coords": [
+            13.8505,
+            40.739
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "18:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Bester Sonnenuntergangsort.",
+            "hu": "Legjobb hely naplementéhez.",
+            "ro": "Cel mai bun loc pentru apus.",
+            "en": "Best sunset spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto umrunden Sie die gesamte Insel Ischia. Wir beginnen historisch am Castello Aragonese.\n\nMittags entspannen wir in den berühmten Poseidon-Gärten, dem größten Thermalpark der Insel.\n\nAm Nachmittag besuchen wir das exklusive Sant'Angelo und wagen einen Abstecher in die heißen Wasser von Sorgeto.\n\nWir beenden die Rundfahrt an der Soccorso-Kirche in Forio, pünktlich zum farbenprächtigen Sonnenuntergang über dem Meer.",
+        "hu": "Autóval megkerülheti az egész Ischia szigetet. Történelmi kezdéssel indulunk az Aragóniai-kastélynál.\n\nDélben a híres Poszeidón kertekben pihenünk, amely a sziget legnagyobb termálparkja.\n\nDélután ellátogatunk az exkluzív Sant'Angelóba, és teszünk egy kitérőt Sorgeto forró vizeihez.\n\nA körutazást a foriói Soccorso-templomnál fejezzük be, pontosan a tenger feletti színes naplemente idején.",
+        "ro": "Cu mașina puteți înconjura întreaga insulă Ischia. Începem istoric la Castelul Aragonez.\n\nLa prânz ne relaxăm în faimoasele Grădini Poseidon, cel mai mare parc termal de pe insulă.\n\nDupă-amiaza vizităm exclusivistul Sant'Angelo și facem o scurtă oprire la apele fierbinți din Sorgeto.\n\nÎncheiem turul la biserica Soccorso din Forio, exact la timp pentru apusul colorat peste mare.",
+        "en": "By car, you can circle the entire island of Ischia. We start historically at the Aragonese Castle.\n\nAt midday, we relax in the famous Poseidon Gardens, the largest thermal park on the island.\n\nIn the afternoon, we visit the exclusive Sant'Angelo and take a detour to the hot waters of Sorgeto.\n\nWe end the tour at the Soccorso Church in Forio, just in time for the colorful sunset over the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zingara Ischitana",
+            "tip": "Spezielle gegrillte Sandwiches."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zingara Ischitana",
+            "tip": "Speciális grillezett szendvics."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zingara Ischitana",
+            "tip": "Sandvișuri speciale la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zingara Ischitana",
+            "tip": "Special grilled sandwiches."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Baia di San Montano",
+            "tip": "Ruhige, geschützte Bucht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baia di San Montano",
+            "tip": "Csendes, védett öböl.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baia di San Montano",
+            "tip": "Golf liniștit și protejat.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Baia di San Montano",
+            "tip": "Quiet, protected bay.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Limoncello di Ischia",
+            "tip": "Genauso gut wie das Original von Amalfi."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ischia Limoncello",
+            "tip": "Ugyanolyan jó, mint az amalfi eredeti."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Limoncello de Ischia",
+            "tip": "La fel de bun ca originalul din Amalfi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ischia Limoncello",
+            "tip": "Just as good as the Amalfi original."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Sant'Angelo ist limitiert.",
+          "Achten Sie auf Motorroller.",
+          "Die Straßen sind eng und kurvig."
+        ],
+        "hu": [
+          "Sant'Angelóban korlátozott a parkolás.",
+          "Figyeljen a robogókra.",
+          "Az utak szűkek és kanyargósak."
+        ],
+        "ro": [
+          "Parcarea în Sant'Angelo este limitată.",
+          "Atenție la scutere.",
+          "Drumurile sunt înguste și șerpuite."
+        ],
+        "en": [
+          "Parking in Sant'Angelo is limited.",
+          "Watch out for scooters.",
+          "The roads are narrow and winding."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ischia Porto",
+            "hu": "Ischia Porto",
+            "ro": "Ischia Porto",
+            "en": "Ischia Porto"
+          },
+          "coords": [
+            13.945,
+            40.745
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für alle Buslinien.",
+            "hu": "Minden buszjárat központi csomópontja.",
+            "ro": "Nod central pentru toate liniile de autobuz.",
+            "en": "Central hub for all bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Aragonese",
+            "hu": "Aragóniai-kastély",
+            "ro": "Castelul Aragonez",
+            "en": "Aragonese Castle"
+          },
+          "coords": [
+            13.965,
+            40.7315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Buslinie CD oder CS nutzen.",
+            "hu": "Használja a CD vagy CS buszvonalat.",
+            "ro": "Folosiți linia de autobuz CD sau CS.",
+            "en": "Use bus line CD or CS."
+          }
+        },
+        {
+          "name": {
+            "de": "Giardini La Mortella",
+            "hu": "La Mortella kertek",
+            "ro": "Grădinile La Mortella",
+            "en": "La Mortella Gardens"
+          },
+          "coords": [
+            13.864,
+            40.751
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Bushaltestelle direkt am Eingang.",
+            "hu": "Buszmegálló közvetlenül a bejáratnál.",
+            "ro": "Stație de autobuz chiar la intrare.",
+            "en": "Bus stop right at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Borgo di Sant'Angelo",
+            "hu": "Sant'Angelo falu",
+            "ro": "Satul Sant'Angelo",
+            "en": "Village of Sant'Angelo"
+          },
+          "coords": [
+            13.896,
+            40.697
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Endstation der Linie 1.",
+            "hu": "Az 1-es járat végállomása.",
+            "ro": "Capăt de linie pentru linia 1.",
+            "en": "Last stop of line 1."
+          }
+        },
+        {
+          "name": {
+            "de": "Ischia Porto",
+            "hu": "Ischia Porto",
+            "ro": "Ischia Porto",
+            "en": "Ischia Porto"
+          },
+          "coords": [
+            13.945,
+            40.745
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Bummeln vor der Fähre.",
+            "hu": "Séta a komp előtt.",
+            "ro": "Plimbare înainte de feribot.",
+            "en": "Stroll before the ferry."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Bussystem auf Ischia ist effizient und deckt die ganze Insel ab. Wir starten am Hafen und fahren zum Schloss.\n\nMittags besuchen wir die traumhaften Gärten La Mortella im Norden der Insel.\n\nDer Nachmittag führt uns nach Sant'Angelo, wo wir den Charme des autofreien Dorfes genießen.\n\nWir kehren zurück zum Hafen von Ischia, wo wir den Tag bei einem Aperitif ausklingen lassen, bevor es zurück aufs Festland geht.",
+        "hu": "Ischia buszrendszere hatékony és az egész szigetet lefedi. A kikötőből indulunk és a kastélyhoz utazunk.\n\nDélben meglátogatjuk a csodálatos La Mortella kerteket a sziget északi részén.\n\nA délután Sant'Angelóba vezet, ahol élvezzük az autómentes falu báját.\n\nVisszatérünk Ischia Porto kikötőjébe, ahol egy aperitiffel zárjuk a napot, mielőtt visszatérnénk a szárazföldre.",
+        "ro": "Sistemul de autobuze din Ischia este eficient și acoperă întreaga insulă. Începem din port și mergem la castel.\n\nLa prânz vizităm grădinile de vis La Mortella din nordul insulei.\n\nDupă-amiaza ne conduce la Sant'Angelo, unde ne bucurăm de farmecul satului fără mașini.\n\nRevenim în Ischia Porto, unde încheiem ziua cu un aperitiv înainte de a ne întoarce pe continent.",
+        "en": "The bus system on Ischia is efficient and covers the entire island. We start at the port and travel to the castle.\n\nAt midday, we visit the dreamlike La Mortella gardens in the north of the island.\n\nThe afternoon leads us to Sant'Angelo, where we enjoy the charm of the car-free village.\n\nWe return to Ischia Porto, where we end the day with an aperitif before heading back to the mainland."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cornetto con Crema",
+            "tip": "Das beste Frühstück am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cornetto con Crema",
+            "tip": "A legjobb reggeli a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cornetto con Crema",
+            "tip": "Cel mai bun mic dejun în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cornetto con Crema",
+            "tip": "The best breakfast at the port."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche San Ciro",
+            "tip": "Versteckte kleine Kapelle.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Ciro templom",
+            "tip": "Rejtett kis kápolna.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica San Ciro",
+            "tip": "Mică capelă ascunsă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church of San Ciro",
+            "tip": "Hidden small chapel.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik",
+            "tip": "Bunte Teller aus Lacco Ameno."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámia",
+            "tip": "Színes tányérok Lacco Amenóból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică",
+            "tip": "Farfurii colorate din Lacco Ameno."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramics",
+            "tip": "Colorful plates from Lacco Ameno."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus.",
+          "Die Linien CD und CS umkreisen die Insel.",
+          "Busse können im Sommer sehr heiß sein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra.",
+          "A CD és CS járatok megkerülik a szigetet.",
+          "Nyáron a buszok nagyon melegek lehetnek."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuz.",
+          "Liniile CD și CS înconjoară insula.",
+          "Autobuzele pot fi foarte calde vara."
+        ],
+        "en": [
+          "Buy a day pass for the bus.",
+          "Lines CD and CS circle the island.",
+          "Buses can be very hot in summer."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-72",
+    "coords": [
+      13.9444,
+      40.7333
+    ],
+    "transit_official": "https://www.eavsrl.it",
+    "transit_app": "https://www.infoischiaprocida.it",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.infoischia.com",
+    "tourism_office": "https://www.infoischia.com",
+    "webcam": "https://www.skylinewebcams.com/webcam/italia/campania/napoli/ischia.html",
+    "restaurants_booking": "https://www.thefork.it",
+    "museum_tickets": "https://www.castelloaragoneseischia.com",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch; Deutsch im Tourismus weit verbreitet.",
+      "hu": "Olasz; turizmusban gyakori a német és angol.",
+      "ro": "Italiană; germană și engleză frecvente în turism.",
+      "en": "Italian; German and English widely spoken in tourism."
+    },
+    "best_time": {
+      "de": "Mai-Juni, September-Oktober: Thermen ideal, weniger Massen.",
+      "hu": "Május-június, szeptember-október: termálok ideálisak, kevesebb turista.",
+      "ro": "Mai-iunie, septembrie-octombrie: termale ideale, mai puțini turiști.",
+      "en": "May-June, September-October: thermal baths ideal, fewer crowds."
+    },
+    "warnings": {
+      "de": "Fähren Caremar/SNAV/Alilauro ab Neapel/Pozzuoli, im Sommer früh buchen.",
+      "hu": "Caremar/SNAV/Alilauro kompok Nápoly/Pozzuoliból, nyáron előre foglalj.",
+      "ro": "Feriboturi Caremar/SNAV/Alilauro din Napoli/Pozzuoli, rezervă din timp vara.",
+      "en": "Caremar/SNAV/Alilauro ferries from Naples/Pozzuoli, book early in summer."
+    }
+  }
+}

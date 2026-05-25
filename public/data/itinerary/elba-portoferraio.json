@@ -1,0 +1,952 @@
+{
+  "city_id": "elba-portoferraio",
+  "anchor": {
+    "name": "Portoferraio",
+    "coords": [
+      10.3308,
+      42.8167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Darsena Medicea",
+            "hu": "Darsena Medicea",
+            "ro": "Darsena Medicea",
+            "en": "Darsena Medicea"
+          },
+          "coords": [
+            10.3295,
+            42.8128
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Frühstück am Kai genießen.",
+            "hu": "Reggelizz a kikötőben.",
+            "ro": "Mic dejun în port.",
+            "en": "Breakfast by the quay."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Martello",
+            "hu": "Torre del Martello",
+            "ro": "Torre del Martello",
+            "en": "Torre del Martello"
+          },
+          "coords": [
+            10.3315,
+            42.8125
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Blick auf den Hafen.",
+            "hu": "Kilátás a kikötőre.",
+            "ro": "Vedere spre port.",
+            "en": "View of the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche della Misericordia",
+            "hu": "Misericordia templom",
+            "ro": "Biserica della Misericordia",
+            "en": "Misericordia Church"
+          },
+          "coords": [
+            10.333,
+            42.816
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Napoleonische Reliquien.",
+            "hu": "Napóleoni ereklyék.",
+            "ro": "Relicve napoleoniene.",
+            "en": "Napoleonic relics."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Stella",
+            "hu": "Forte Stella",
+            "ro": "Forte Stella",
+            "en": "Forte Stella"
+          },
+          "coords": [
+            10.3345,
+            42.8175
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Panorama-Festung.",
+            "hu": "Panoráma erőd.",
+            "ro": "Fortăreață panoramică.",
+            "en": "Panoramic fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzina dei Mulini",
+            "hu": "Palazzina dei Mulini",
+            "ro": "Palazzina dei Mulini",
+            "en": "Palazzina dei Mulini"
+          },
+          "coords": [
+            10.3335,
+            42.8185
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Napoleons Exilresidenz.",
+            "hu": "Napóleon rezidenciája.",
+            "ro": "Reședința lui Napoleon.",
+            "en": "Napoleons residence."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Falcone",
+            "hu": "Forte Falcone",
+            "ro": "Forte Falcone",
+            "en": "Forte Falcone"
+          },
+          "coords": [
+            10.331,
+            42.819
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Höchster Punkt der Stadt.",
+            "hu": "A város legmagasabb pontja.",
+            "ro": "Cel mai înalt punct.",
+            "en": "Highest point in town."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia delle Ghiaie",
+            "hu": "Spiaggia delle Ghiaie",
+            "ro": "Spiaggia delle Ghiaie",
+            "en": "Spiaggia delle Ghiaie"
+          },
+          "coords": [
+            10.325,
+            42.818
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Weiße Kieselsteine.",
+            "hu": "Fehér kavicsos strand.",
+            "ro": "Plajă cu pietre albe.",
+            "en": "White pebble beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in der hufeisenförmigen Darsena Medicea, dem historischen Hafenbecken von Portoferraio. Steigen Sie hinauf zu den gewaltigen Medici-Festungen Forte Stella und Forte Falcone, die das Stadtbild dominieren. Entdecken Sie den kaiserlichen Glanz in Napoleons Palazzina dei Mulini und beenden Sie den Nachmittag am kristallklaren Wasser des berühmten Ghiaie-Strandes.",
+        "hu": "Kezdje a napot a patkó alakú Darsena Mediceában, Portoferraio történelmi kikötőjében. Másszon fel a várost uraló hatalmas Medici-erődökbe, a Forte Stellába és a Forte Falconéba. Fedezze fel a császári pompát Napóleon egykori lakóhelyén, a Palazzina dei Mulini villában, majd zárja a délutánt a híres Ghiaie strand kristálytiszta vizénél.",
+        "ro": "Începeți ziua în Darsena Medicea, portul istoric în formă de potcoavă din Portoferraio. Urcați la fortărețele impresionante Forte Stella și Forte Falcone, care domină orașul. Descoperiți splendoarea imperială în Palazzina dei Mulini, reședința de exil a lui Napoleon, și încheiați după-amiaza pe plaja Ghiaie, celebră pentru apele sale cristaline.",
+        "en": "Start your day in the horseshoe-shaped Darsena Medicea, the historic harbor of Portoferraio. Climb up to the massive Medici fortresses, Forte Stella and Forte Falcone, which dominate the skyline. Discover imperial glory at Napoleon's Palazzina dei Mulini residence, and finish the afternoon by the crystal-clear waters of the famous Ghiaie beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gurguglione",
+            "tip": "Traditioneller Gemüseeintopf aus Elba."
+          },
+          {
+            "name": "Stoccafisso alla riese",
+            "tip": "Stockfisch nach lokaler Art in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gurguglione",
+            "tip": "Tradicionális elbai zöldségragu."
+          },
+          {
+            "name": "Stoccafisso alla riese",
+            "tip": "Helyi tőkehalas specialitás az óvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gurguglione",
+            "tip": "Tocană tradițională de legume din Elba."
+          },
+          {
+            "name": "Stoccafisso alla riese",
+            "tip": "Specialitate locală de cod în centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gurguglione",
+            "tip": "Traditional vegetable stew from Elba."
+          },
+          {
+            "name": "Stoccafisso alla riese",
+            "tip": "Local stockfish specialty in the old town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Le Viste",
+            "tip": "Ruhige Bucht hinter der Festung.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Viste",
+            "tip": "Csendes öböl az erőd mögött.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Viste",
+            "tip": "Golf liniștit în spatele cetății.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Viste",
+            "tip": "Quiet cove behind the fortress.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Acqua dell Elba",
+            "tip": "Parfüm mit dem Duft der Insel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Acqua dell Elba",
+            "tip": "A sziget illatát idéző parfüm."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Acqua dell Elba",
+            "tip": "Parfum cu aroma insulei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Acqua dell Elba",
+            "tip": "Perfume inspired by the island scent."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequeme Schuhe sind für die steilen Gassen der Festungen unerlässlich.",
+          "Die Kombitickets für Museen sparen Geld."
+        ],
+        "hu": [
+          "Kényelmes cipő kötelező az erődök meredek utcáihoz.",
+          "A múzeumi kombinált jegyekkel spórolhatsz."
+        ],
+        "ro": [
+          "Pantofii comozi sunt esențiali pentru străzile abrupte spre cetăți.",
+          "Biletele combinate pentru muzee economisesc bani."
+        ],
+        "en": [
+          "Comfortable shoes are essential for the steep fortress streets.",
+          "Combined museum tickets save money."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Darsena Medicea",
+            "hu": "Darsena Medicea",
+            "ro": "Darsena Medicea",
+            "en": "Darsena Medicea"
+          },
+          "coords": [
+            10.3295,
+            42.8128
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Radmiete am Hafen.",
+            "hu": "Kerékpárbérlés a kikötőben.",
+            "ro": "Închiriere biciclete în port.",
+            "en": "Bike rental at the port."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa San Martino",
+            "hu": "Villa San Martino",
+            "ro": "Villa San Martino",
+            "en": "Villa San Martino"
+          },
+          "coords": [
+            10.285,
+            42.799
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Napoleons Sommerresidenz.",
+            "hu": "Napóleon nyári rezidenciája.",
+            "ro": "Vila de vară a lui Napoleon.",
+            "en": "Napoleons summer villa."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            10.3325,
+            42.813
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Antike Seekarten.",
+            "hu": "Antik tengeri térképek.",
+            "ro": "Hărți maritime antice.",
+            "en": "Ancient sea charts."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Portoferraio",
+            "hu": "Portoferraio világítótorony",
+            "ro": "Farul Portoferraio",
+            "en": "Portoferraio Lighthouse"
+          },
+          "coords": [
+            10.3355,
+            42.818
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Windiger Aussichtspunkt.",
+            "hu": "Szeles kilátóhely.",
+            "ro": "Punct panoramic cu vânt.",
+            "en": "Windy viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia delle Ghiaie",
+            "hu": "Spiaggia delle Ghiaie",
+            "ro": "Spiaggia delle Ghiaie",
+            "en": "Spiaggia delle Ghiaie"
+          },
+          "coords": [
+            10.325,
+            42.818
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schnorcheln im Schutzgebiet.",
+            "hu": "Búvárkodás a védett övezetben.",
+            "ro": "Snorkeling în rezervație.",
+            "en": "Snorkeling in the reserve."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom Hafen landeinwärts zur Villa San Martino, Napoleons prächtiger Sommerresidenz inmitten von Pinienwäldern. Kehren Sie in die Stadt zurück, um das archäologische Museum zu besuchen, und fahren Sie zum Leuchtturm für einen weiten Blick über das Meer. Ein Badestopp am Ghiaie-Strand rundet die sportliche Tour ab.",
+        "hu": "Tekerjen a kikötőből a szárazföld belseje felé a Villa San Martinóhoz, Napóleon fenyőerdőkkel övezett nyári rezidenciájához. Térjen vissza a városba a régészeti múzeumhoz, majd tekerjen fel a világítótoronyhoz a tengeri panorámáért. A sportos túrát egy fürdőzés zárja a Ghiaie strandon.",
+        "ro": "Pedalați din port spre interiorul insulei până la Villa San Martino, reședința de vară a lui Napoleon, situată în mijlocul pădurilor de pini. Reveniți în oraș pentru o vizită la muzeul de arheologie și urcați la far pentru o vedere largă asupra mării. O oprire pentru baie la plaja Ghiaie completează turul sportiv.",
+        "en": "Cycle from the harbor inland to Villa San Martino, Napoleon's grand summer residence set among pine forests. Return to town for the archaeological museum and ride up to the lighthouse for sweeping sea views. A swim stop at Ghiaie beach completes this active tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schiaccia Briaca",
+            "tip": "Insel-Kuchen mit Aleatico-Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schiaccia Briaca",
+            "tip": "Elbai sütemény Aleatico borral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schiaccia Briaca",
+            "tip": "Prăjitură cu vin Aleatico."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schiaccia Briaca",
+            "tip": "Island cake made with Aleatico wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Martino Pineta",
+            "tip": "Schattige Wälder bei der Villa.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Martino Pineta",
+            "tip": "Árnyas erdők a villánál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "San Martino Pineta",
+            "tip": "Păduri umbrite lângă vilă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Martino Pineta",
+            "tip": "Shady forests by the villa.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Elba Wein",
+            "tip": "Kaufen Sie eine Flasche Aleatico."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elba bor",
+            "tip": "Vegyél egy üveg Aleatico bort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Elba",
+            "tip": "Cumpărați o sticlă de Aleatico."
+          }
+        ],
+        "en": [
+          {
+            "name": "Elba Wine",
+            "tip": "Buy a bottle of local Aleatico."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "E-Bikes werden für die Fahrt zur Villa San Martino empfohlen.",
+          "Vorsicht im Stadtverkehr am Hafen."
+        ],
+        "hu": [
+          "E-bike ajánlott a Villa San Martino felé vezető úthoz.",
+          "Vigyázz a kikötői forgalomban."
+        ],
+        "ro": [
+          "E-bike-urile sunt recomandate pentru drumul spre Villa San Martino.",
+          "Atenție la traficul din zona portului."
+        ],
+        "en": [
+          "E-bikes are recommended for the ride to Villa San Martino.",
+          "Be careful with traffic around the harbor."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Palazzina dei Mulini",
+            "hu": "Palazzina dei Mulini",
+            "ro": "Palazzina dei Mulini",
+            "en": "Palazzina dei Mulini"
+          },
+          "coords": [
+            10.3335,
+            42.8185
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken nahe der Festung.",
+            "hu": "Parkolás az erőd közelében.",
+            "ro": "Parcare lângă cetate.",
+            "en": "Parking near the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Stella",
+            "hu": "Forte Stella",
+            "ro": "Forte Stella",
+            "en": "Forte Stella"
+          },
+          "coords": [
+            10.3345,
+            42.8175
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bester Fotospot.",
+            "hu": "Legjobb fotóhelyszín.",
+            "ro": "Cel mai bun loc de poze.",
+            "en": "Best photo spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa San Martino",
+            "hu": "Villa San Martino",
+            "ro": "Villa San Martino",
+            "en": "Villa San Martino"
+          },
+          "coords": [
+            10.285,
+            42.799
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz vorhanden.",
+            "hu": "Nagy parkoló áll rendelkezésre.",
+            "ro": "Parcare mare disponibilă.",
+            "en": "Large parking lot available."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia delle Ghiaie",
+            "hu": "Spiaggia delle Ghiaie",
+            "ro": "Spiaggia delle Ghiaie",
+            "en": "Spiaggia delle Ghiaie"
+          },
+          "coords": [
+            10.325,
+            42.818
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Blaues Wasser genießen.",
+            "hu": "Élvezd a kék vizet.",
+            "ro": "Bucurați-vă de apa albastră.",
+            "en": "Enjoy the blue water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die historischen Highlights von Portoferraio und Umgebung. Besuchen Sie Napoleons Stadtpalast und die Festungen, bevor Sie zur ländlichen Villa San Martino fahren. Die Tour endet entspannt am Ghiaie-Strand, wo Sie die beeindruckenden Klippen und das Meer bewundern können.",
+        "hu": "Autóval kényelmesen elérheti Portoferraio és környéke történelmi nevezetességeit. Látogassa meg Napóleon városi palotáját és az erődöket, mielőtt a vidéki Villa San Martinóhoz hajtana. A túra a Ghiaie strandon zárul, ahol megcsodálhatja a lenyűgöző sziklákat és a tengert.",
+        "ro": "Cu mașina puteți ajunge confortabil la atracțiile istorice din Portoferraio și împrejurimi. Vizitați palatul urban al lui Napoleon și fortărețele înainte de a merge la Villa San Martino. Turul se încheie relaxat pe plaja Ghiaie, unde puteți admira stâncile impunătoare și marea.",
+        "en": "By car, you can easily reach the historical highlights of Portoferraio and its surroundings. Visit Napoleon's town palace and the fortresses before driving to the rural Villa San Martino. The tour ends relaxedly at Ghiaie beach, where you can admire the impressive cliffs and the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Elba-Honig",
+            "tip": "Besuchen Sie einen lokalen Produzenten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elbai méz",
+            "tip": "Látogass el egy helyi termelőhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de Elba",
+            "tip": "Vizitați un producător local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Elba Honey",
+            "tip": "Visit a local producer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Enfola-Klippen",
+            "tip": "Kurze Fahrt zu den Klippen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Enfola-sziklák",
+            "tip": "Rövid autóút a sziklákhoz.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile Enfola",
+            "tip": "Scurt drum cu mașina.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Enfola Cliffs",
+            "tip": "Short drive to the cliffs.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgefertigte Keramik",
+            "tip": "Läden in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves kerámia",
+            "tip": "Üzletek az óvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică artizanală",
+            "tip": "Magazine în centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade Ceramics",
+            "tip": "Shops in the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze in Portoferraio sind im Sommer knapp.",
+          "Fahren Sie vorsichtig auf den kurvigen Straßen."
+        ],
+        "hu": [
+          "Nyáron kevés a parkolóhely Portoferraióban.",
+          "Vezess óvatosan a kanyargós utakon."
+        ],
+        "ro": [
+          "Locurile de parcare sunt puține vara în Portoferraio.",
+          "Conduceți cu atenție pe drumurile cu serpentine."
+        ],
+        "en": [
+          "Parking spaces are scarce in Portoferraio during summer.",
+          "Drive carefully on the winding roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Darsena Medicea",
+            "hu": "Darsena Medicea",
+            "ro": "Darsena Medicea",
+            "en": "Darsena Medicea"
+          },
+          "coords": [
+            10.3295,
+            42.8128
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Busbahnhof in der Nähe.",
+            "hu": "Buszpályaudvar a közelben.",
+            "ro": "Autogara este aproape.",
+            "en": "Bus station nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzina dei Mulini",
+            "hu": "Palazzina dei Mulini",
+            "ro": "Palazzina dei Mulini",
+            "en": "Palazzina dei Mulini"
+          },
+          "coords": [
+            10.3335,
+            42.8185
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Bus.",
+            "hu": "Rövid séta a busztól.",
+            "ro": "Scurtă plimbare de la bus.",
+            "en": "Short walk from bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa San Martino",
+            "hu": "Villa San Martino",
+            "ro": "Villa San Martino",
+            "en": "Villa San Martino"
+          },
+          "coords": [
+            10.285,
+            42.799
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Linie 1 hält direkt vor dem Park.",
+            "hu": "Az 1-es busz a parknál áll meg.",
+            "ro": "Linia 1 oprește la parc.",
+            "en": "Line 1 stops at the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia delle Ghiaie",
+            "hu": "Spiaggia delle Ghiaie",
+            "ro": "Spiaggia delle Ghiaie",
+            "en": "Spiaggia delle Ghiaie"
+          },
+          "coords": [
+            10.325,
+            42.818
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:30",
+          "stay_min": 130,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Vom Hafen aus zu Fuß erreichbar.",
+            "hu": "Gyalog elérhető a kikötőtől.",
+            "ro": "Accesibil pe jos din port.",
+            "en": "Walkable from the port."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus-Service, um zwischen dem Hafen und Napoleons Landsitz San Martino zu pendeln. Die historischen Festungen und der Stadtpalast sind vom Hafenterminal aus leicht zu Fuß erreichbar. Ein entspannter Tag ohne Parkplatzsorgen, der am Stadtstrand Ghiaie seinen Ausklang findet.",
+        "hu": "Használja a helyi buszjáratokat a kikötő és Napóleon vidéki birtoka, San Martino közötti közlekedéshez. A történelmi erődök és a városi palota könnyen elérhetők gyalog a kikötői termináltól. Pihentető nap parkolási gondok nélkül, amely a városi Ghiaie strandon ér véget.",
+        "ro": "Folosiți serviciul local de autobuz pentru a naviga între port și domeniul rural al lui Napoleon, San Martino. Fortărețele istorice și palatul urban sunt ușor accesibile pe jos de la terminalul portuar. O zi relaxantă fără grija parcării, care se încheie pe plaja orașului, Ghiaie.",
+        "en": "Use the local bus service to shuttle between the harbor and Napoleon's country estate, San Martino. The historic fortresses and the town palace are easily walkable from the ferry terminal. A relaxed day without parking worries, ending at the city beach, Ghiaie."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Palamita",
+            "tip": "Eingelegter Fisch, lokale Delikatesse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palamita",
+            "tip": "Pácolt hal, helyi ínyencség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Palamita",
+            "tip": "Pește marinat, delicatesă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palamita",
+            "tip": "Marinated fish, a local delicacy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafenpromenade",
+            "tip": "Beobachten Sie die Fähren.",
+            "emoji": "🚢"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői sétány",
+            "tip": "Figyeld a kompokat.",
+            "emoji": "🚢"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada portului",
+            "tip": "Priviți feriboturile.",
+            "emoji": "🚢"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Promenade",
+            "tip": "Watch the ferries come in.",
+            "emoji": "🚢"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Freitagmorgen am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Péntek reggel a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Vineri dimineața în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Friday morning at the port."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets vorab im Tabakladen.",
+          "Achten Sie auf die Fahrpläne der Linie 1."
+        ],
+        "hu": [
+          "Vegyél buszjegyet előre a dohányboltban.",
+          "Figyeld az 1-es busz menetrendjét."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz de la tutungerie.",
+          "Atenție la orarul liniei 1."
+        ],
+        "en": [
+          "Buy bus tickets in advance at a 'Tabacchi'.",
+          "Check the schedule for line 1 carefully."
+        ]
+      }
+    }
+  }
+}

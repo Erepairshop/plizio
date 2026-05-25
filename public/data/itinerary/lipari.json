@@ -1,0 +1,1049 @@
+{
+  "city_id": "lipari",
+  "anchor": {
+    "name": "Lipari Centro",
+    "coords": [
+      14.9544,
+      38.4675
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:10",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marina Corta",
+            "hu": "Marina Corta",
+            "ro": "Marina Corta",
+            "en": "Marina Corta"
+          },
+          "coords": [
+            14.9541,
+            38.4655
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischer beim Entladen ihrer Boote am frühen Morgen.",
+            "hu": "Figyeld meg a halászokat, ahogy kora reggel kipakolják a bárkákat.",
+            "ro": "Urmăriți pescarii care își descarcă bărcile la prima oră a dimineții.",
+            "en": "Watch the fishermen unloading their boats early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di San Bartolomeo",
+            "hu": "Szent Bertalan-székesegyház",
+            "ro": "Catedrala San Bartolomeo",
+            "en": "Cathedral of Saint Bartholomew"
+          },
+          "coords": [
+            14.9545,
+            38.4668
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht den normannischen Kreuzgang direkt nebenan.",
+            "hu": "Ne hagyd ki a közvetlenül mellette található normann kolostort.",
+            "ro": "Nu ratați mănăstirea normandă situată chiar alături.",
+            "en": "Do not miss the Norman cloister located right next door."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico Eoliano",
+            "hu": "Eoli Régészeti Múzeum",
+            "ro": "Muzeul Arheologic Eolian",
+            "en": "Aeolian Archaeological Museum"
+          },
+          "coords": [
+            14.9538,
+            38.4671
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Maskensammlung aus dem antiken Theater ist weltberühmt.",
+            "hu": "Az antik színházból származó maszkgyűjtemény világhírű.",
+            "ro": "Colecția de măști din teatrul antic este faimoasă în întreaga lume.",
+            "en": "The collection of masks from the ancient theater is world-famous."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Lipari",
+            "hu": "Lipari vára",
+            "ro": "Castelul din Lipari",
+            "en": "Lipari Castle"
+          },
+          "coords": [
+            14.9542,
+            38.4665
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Küste von den Mauern aus.",
+            "hu": "Élvezd a panorámás kilátást a tengerpartra a várfalakról.",
+            "ro": "Bucurați-vă de vederea panoramică asupra coastei de pe ziduri.",
+            "en": "Enjoy the panoramic view of the coast from the castle walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Archeologico Contrada Diana",
+            "hu": "Contrada Diana Régészeti Park",
+            "ro": "Parcul Arheologic Contrada Diana",
+            "en": "Contrada Diana Archaeological Park"
+          },
+          "coords": [
+            14.9515,
+            38.4682
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Sehen Sie die antiken griechischen und römischen Ruinen im Stadtzentrum.",
+            "hu": "Nézd meg az ókori görög és római romokat a városközpontban.",
+            "ro": "Vedeți ruinele antice grecești și romane chiar în centrul orașului.",
+            "en": "See the ancient Greek and Roman ruins right in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa delle Anime del Purgatorio",
+            "hu": "Purgatóriumi Lelkek temploma",
+            "ro": "Biserica Anime del Purgatorio",
+            "en": "Church of the Souls in Purgatory"
+          },
+          "coords": [
+            14.954,
+            38.4652
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine kleine Barockkirche direkt am Hafen Marina Corta.",
+            "hu": "Egy apró barokk templom közvetlenül a Marina Corta kikötőben.",
+            "ro": "O mică biserică barocă situată chiar în portul Marina Corta.",
+            "en": "A small Baroque church located right in the Marina Corta harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Gastro-Finale Marina Corta",
+            "hu": "Gasztro-zárás Marina Corta",
+            "ro": "Final gastronomic Marina Corta",
+            "en": "Gastro Finale Marina Corta"
+          },
+          "coords": [
+            14.9543,
+            38.4658
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie eine Granita mit Brioche in einer der Bars.",
+            "hu": "Kóstolj meg egy granitát brióssal az egyik bárban.",
+            "ro": "Încercați o granita cu brioche la unul dintre barurile locale.",
+            "en": "Try a granita with brioche at one of the local bars."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen den Tag an der malerischen Marina Corta, dem Herzen von Lipari, wo Fischerboote sanft schaukeln. Am Vormittag steigen wir zur Zitadelle hinauf, um die majestätische Kathedrale und das erstklassige archäologische Museum zu erkunden, die in den antiken Mauern verborgen sind. Der Nachmittag ist dem ruhigen archäologischen Park Contrada Diana gewidmet, wo die Geschichte inmitten der modernen Stadt lebendig wird. Zum Abschluss kehren wir für einen stimmungsvollen Abend und lokale Köstlichkeiten an den Hafen zurück.",
+        "hu": "A napot a festői Marina Corta kikötőben kezdjük, Lipari szívében, ahol a halászcsónakok ringatóznak. Délelőtt felkapaszkodunk a fellegvárba, hogy felfedezzük a fenséges katedrálist és a világszínvonalú régészeti múzeumot az ősi falak között. A délutánt a csendes Contrada Diana régészeti parknak szenteljük, ahol a történelem megelevenedik a modern város közepén. Zárásként visszatérünk a kikötőbe egy hangulatos estére és helyi finomságokra.",
+        "ro": "Începem ziua în pitorescul port Marina Corta, inima Lipariului, unde bărcile de pescuit plutesc liniștite. Dimineața urcăm la cetate pentru a explora catedrala maiestuoasă și muzeul arheologic de talie mondială, ascunse între zidurile antice. După-amiaza este dedicată liniștitului parc arheologic Contrada Diana, unde istoria prinde viață în mijlocul orașului modern. La final, revenim în port pentru o seară plină de atmosferă și delicii locale.",
+        "en": "We begin the day at the picturesque Marina Corta, the heart of Lipari, where fishing boats sway gently. In the morning, we climb to the citadel to explore the majestic cathedral and the world-class archaeological museum tucked within ancient walls. The afternoon is dedicated to the quiet Contrada Diana archaeological park, where history comes alive in the middle of the modern city. To finish, we return to the harbor for an atmospheric evening and local treats."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pane Cunzato",
+            "tip": "Sizilianisches Brot mit Kapern, Tomaten und Oliven."
+          },
+          {
+            "name": "Eolische Malvasia",
+            "tip": "Ein süßer Dessertwein direkt von den Inseln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pane Cunzato",
+            "tip": "Szicíliai kenyér kapribogyóval, paradicsommal és olívabogyóval."
+          },
+          {
+            "name": "Eoli Malvasia",
+            "tip": "Édes desszertbor közvetlenül a szigetekről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pane Cunzato",
+            "tip": "Pâine siciliană cu capere, roșii și măsline."
+          },
+          {
+            "name": "Malvasia Eoliana",
+            "tip": "Un vin de desert dulce produs direct pe insule."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pane Cunzato",
+            "tip": "Sicilian bread with capers, tomatoes, and olives."
+          },
+          {
+            "name": "Aeolian Malvasia",
+            "tip": "A sweet dessert wine produced directly on the islands."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Castello Gärten",
+            "tip": "Ein ruhiger Ort mit Schatten und Meerblick.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várkertek",
+            "tip": "Csendes hely árnyékkal és tengeri kilátással.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Castelului",
+            "tip": "Un loc liniștit cu umbră și vedere la mare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Gardens",
+            "tip": "A quiet spot with shade and sea views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Vittorio Emanuele",
+            "tip": "Die Haupteinkaufsstraße für Kunsthandwerk und Mode."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Vittorio Emanuele",
+            "tip": "A fő bevásárlóutca kézműves termékekkel és divattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Vittorio Emanuele",
+            "tip": "Principala stradă comercială pentru artizanat și modă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Vittorio Emanuele",
+            "tip": "The main shopping street for crafts and fashion."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen im Schlossviertel.",
+          "Die meisten Museen schließen während der Siesta (13:30-16:00).",
+          "Flaschenwasser ist auf den Inseln teuer, füllen Sie es in der Stadt auf."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a várnegyed macskaköves utcáihoz.",
+          "A legtöbb múzeum zárva tart a szieszta alatt (13:30-16:00).",
+          "A palackozott víz drága a szigeteken, töltsd fel a készleteidet a városban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile pietruite din zona castelului.",
+          "Majoritatea muzeelor sunt închise în timpul siestei (13:30-16:00).",
+          "Apa îmbuteliată este scumpă pe insule, faceți plinul în oraș."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets in the castle area.",
+          "Most museums close during siesta (13:30-16:00).",
+          "Bottled water is expensive on the islands, refill in town."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Marina Corta",
+            "hu": "Marina Corta",
+            "ro": "Marina Corta",
+            "en": "Marina Corta"
+          },
+          "coords": [
+            14.9541,
+            38.4655
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Holen Sie Ihr Mietrad frühzeitig ab.",
+            "hu": "Vedd át a bérelt biciklit időben.",
+            "ro": "Ridicați bicicleta închiriată devreme.",
+            "en": "Pick up your rental bike early."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere Quattrocchi",
+            "hu": "Quattrocchi kilátó",
+            "ro": "Belvedere Quattrocchi",
+            "en": "Quattrocchi Belvedere"
+          },
+          "coords": [
+            14.9355,
+            38.4552
+          ],
+          "category": "natural features",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Der beste Fotopunkt für den Blick auf Vulcano.",
+            "hu": "A legjobb fotópont a Vulcano szigetére nyíló kilátáshoz.",
+            "ro": "Cel mai bun punct foto pentru vederea spre insula Vulcano.",
+            "en": "The best photo spot for the view of Vulcano island."
+          }
+        },
+        {
+          "name": {
+            "de": "Canneto Promenade",
+            "hu": "Canneto sétány",
+            "ro": "Promenada Canneto",
+            "en": "Canneto Promenade"
+          },
+          "coords": [
+            14.9585,
+            38.4812
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine Kaffeepause am Meer.",
+            "hu": "Tökéletes egy kávészünethez a tengerparton.",
+            "ro": "Perfect pentru o pauză de cafea la malul mării.",
+            "en": "Perfect for a coffee break by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Bianca",
+            "hu": "Spiaggia Bianca (Fehér strand)",
+            "ro": "Spiaggia Bianca",
+            "en": "White Beach"
+          },
+          "coords": [
+            14.962,
+            38.4895
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das Wasser ist hier durch den Bimssteinboden türkis.",
+            "hu": "A víz itt türkizkék a habkő aljzat miatt.",
+            "ro": "Apa este turcoaz aici datorită fundului de piatră ponce.",
+            "en": "The water here is turquoise due to the pumice stone seabed."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Lunga",
+            "hu": "Marina Lunga",
+            "ro": "Marina Lunga",
+            "en": "Marina Lunga"
+          },
+          "coords": [
+            14.9565,
+            38.4725
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Yachten vor der Rückgabe des Rades.",
+            "hu": "Nézd a jachtokat a bicikli leadása előtt.",
+            "ro": "Urmăriți iahturile înainte de a returna bicicleta.",
+            "en": "Watch the yachts before returning the bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden wir die Küstenwege Liparis. Zuerst radeln wir zum Belvedere Quattrocchi für einen atemberaubenden Blick. Danach geht es hinunter nach Canneto und weiter zum berühmten weißen Strand, wo wir das kristallklare Wasser genießen. Ein sportlicher Tag mit viel frischer Meeresbrise.",
+        "hu": "Biciklivel fedezzük fel Lipari partmenti útjait. Először a Quattrocchi kilátóhoz tekerünk a lenyűgöző panorámáért. Ezután legurulunk Cannetóba és tovább a híres fehér strandhoz, ahol élvezzük a kristálytiszta vizet. Sportos nap, sok friss tengeri széllel.",
+        "ro": "Explorăm traseele de coastă ale Lipariului cu bicicleta. Mai întâi pedalăm spre Belvedere Quattrocchi pentru o panoramă uluitoare. Apoi coborâm spre Canneto și continuăm spre faimoasa plajă albă, unde ne bucurăm de apa de cristal. O zi sportivă cu multă briză marină.",
+        "en": "We explore Lipari's coastal paths by bike. First, we pedal to Belvedere Quattrocchi for a breathtaking panorama. Then we glide down to Canneto and continue to the famous white beach, where we enjoy the crystal-clear water. A sporty day with plenty of fresh sea breeze."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arancini am Strand",
+            "tip": "Gefüllte Reisbällchen, ideal für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arancini a strandon",
+            "tip": "Töltött rizsgolyók, ideális piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arancini pe plajă",
+            "tip": "Gogoși de orez umplute, ideale pentru picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arancini on the beach",
+            "tip": "Stuffed rice balls, ideal for a picnic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstenstraße nach Norden",
+            "tip": "Weniger Verkehr und weite Sicht auf das Meer.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Északi partmenti út",
+            "tip": "Kisebb forgalom és tágas kilátás a tengerre.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul de coastă spre nord",
+            "tip": "Mai puțin trafic și vedere largă spre mare.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Northern coastal road",
+            "tip": "Less traffic and wide views of the sea.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Canneto Souvenirs",
+            "tip": "Kleine Läden mit lokalem Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Canneto ajándékboltok",
+            "tip": "Kis üzletek helyi kézműves termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri în Canneto",
+            "tip": "Mici magazine cu artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Canneto Souvenirs",
+            "tip": "Small shops with local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike, wenn Sie die steilen Hügel zum Belvedere scheuen.",
+          "Tragen Sie immer einen Helm und nehmen Sie ausreichend Wasser mit.",
+          "Achten Sie auf den Verkehr auf den engen Küstenstraßen."
+        ],
+        "hu": [
+          "Bérelj e-bike-ot, ha el akarod kerülni a meredek emelkedőket a kilátó felé.",
+          "Mindig viselj sisakot és vigyél magaddal elég vizet.",
+          "Figyelj a forgalomra a szűk partmenti utakon."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică dacă doriți să evitați dealurile abrupte spre Belvedere.",
+          "Purtați întotdeauna cască și luați suficientă apă cu voi.",
+          "Fiți atenți la trafic pe drumurile de coastă înguste."
+        ],
+        "en": [
+          "Rent an e-bike if you want to avoid the steep hills to the Belvedere.",
+          "Always wear a helmet and take enough water with you.",
+          "Be careful with traffic on the narrow coastal roads."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 28.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Belvedere Quattrocchi",
+            "hu": "Quattrocchi kilátó",
+            "ro": "Belvedere Quattrocchi",
+            "en": "Quattrocchi Belvedere"
+          },
+          "coords": [
+            14.9355,
+            38.4552
+          ],
+          "category": "natural features",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Es gibt einen kleinen Parkplatz direkt am Aussichtspunkt.",
+            "hu": "Közvetlenül a kilátónál van egy kis parkoló.",
+            "ro": "Există o mică parcare chiar la punctul de observație.",
+            "en": "There is a small parking lot right at the viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Piano Conte",
+            "hu": "Piano Conte",
+            "ro": "Piano Conte",
+            "en": "Piano Conte"
+          },
+          "coords": [
+            14.922,
+            38.471
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein authentisches Dorf im Landesinneren mit tollen Weinbergen.",
+            "hu": "Eredeti falu a sziget belsejében, remek szőlőültetvényekkel.",
+            "ro": "Un sat autentic în interiorul insulei, cu podgorii minunate.",
+            "en": "An authentic inland village with great vineyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Acquacalda",
+            "hu": "Acquacalda",
+            "ro": "Acquacalda",
+            "en": "Acquacalda"
+          },
+          "coords": [
+            14.945,
+            38.4985
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die alten Bimssteinbrüche am Meer.",
+            "hu": "Látogasd meg a régi habkőbányákat a tengerparton.",
+            "ro": "Vizitați vechile cariere de piatră ponce de la malul mării.",
+            "en": "Visit the old pumice quarries by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Bianca",
+            "hu": "Fehér strand",
+            "ro": "Spiaggia Bianca",
+            "en": "White Beach"
+          },
+          "coords": [
+            14.962,
+            38.4895
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Parken Sie an der Straße und gehen Sie den Pfad hinunter.",
+            "hu": "Parkolj az úton, és sétálj le az ösvényen.",
+            "ro": "Parcați pe drum și coborâți pe potecă.",
+            "en": "Park on the road and walk down the path."
+          }
+        },
+        {
+          "name": {
+            "de": "Lipari Castello",
+            "hu": "Lipari vár",
+            "ro": "Castelul Lipari",
+            "en": "Lipari Castle"
+          },
+          "coords": [
+            14.9542,
+            38.4665
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Marina Lunga.",
+            "hu": "Parkolj a Marina Lunga közelében.",
+            "ro": "Parcați în apropiere de Marina Lunga.",
+            "en": "Park near Marina Lunga."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto umrunden wir die ganze Insel Lipari. Wir beginnen am Quattrocchi-Aussichtspunkt und fahren durch die ländlichen Dörfer Piano Conte und Acquacalda im Norden. Nach einem langen Badestopp am berühmten weißen Strand kehren wir für eine letzte Erkundung der Zitadelle in die Stadt zurück. Eine bequeme Art, auch die abgelegenen Ecken der Insel zu sehen.",
+        "hu": "Autóval körbeutazzuk Lipari egész szigetét. A Quattrocchi kilátónál kezdünk, majd észak felé vesszük az irányt Piano Conte és Acquacalda falvakon keresztül. A híres fehér strandon tett hosszú fürdőzés után visszatérünk a városba, hogy utoljára felfedezzük a fellegvárat. Kényelmes módja a sziget eldugott sarkainak megismerésének.",
+        "ro": "Cu mașina facem turul întregii insule Lipari. Începem la punctul de observație Quattrocchi și conducem spre nord prin satele rurale Piano Conte și Acquacalda. După o oprire lungă pentru baie la faimoasa plajă albă, revenim în oraș pentru o ultimă explorare a cetății. O modalitate confortabilă de a vedea și colțurile retrase ale insulei.",
+        "en": "By car, we circle the entire island of Lipari. We start at the Quattrocchi viewpoint and head north through the rural villages of Piano Conte and Acquacalda. After a long swim stop at the famous white beach, we return to the city for a final exploration of the citadel. A comfortable way to see even the remote corners of the island."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Käse in Piano Conte",
+            "tip": "Probieren Sie frischen Pecorino in einem der Dorfläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajt Piano Contéban",
+            "tip": "Kóstolj friss juhsajtot az egyik falusi boltban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză locală în Piano Conte",
+            "tip": "Încercați pecorino proaspăt într-unul dintre magazinele satului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local cheese in Piano Conte",
+            "tip": "Try fresh pecorino in one of the village shops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche von Quattropani",
+            "tip": "Ein sehr ruhiger Aussichtspunkt ganz im Norden.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quattropani temploma",
+            "tip": "Nagyon csendes kilátópont a sziget északi csücskén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica din Quattropani",
+            "tip": "Un punct de observație foarte liniștit în nordul extrem.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Quattropani Church",
+            "tip": "A very quiet viewpoint at the northern tip.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eolische Kapern",
+            "tip": "Kaufen Sie sie gesalzen bei den Bauern in Acquacalda."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eoli kapribogyó",
+            "tip": "Vegyél sózott kapribogyót az Acquacalda-i gazdáktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capere eoliene",
+            "tip": "Cumpărați-le sărate de la fermierii din Acquacalda."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aeolian Capers",
+            "tip": "Buy them salted from the farmers in Acquacalda."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind eng und kurvig, fahren Sie vorsichtig.",
+          "Parkplätze in der Stadt Lipari sind im Sommer sehr begrenzt.",
+          "Tanken Sie voll, bevor Sie die Stadt verlassen."
+        ],
+        "hu": [
+          "Az utak szűkek és kanyargósak, vezess óvatosan.",
+          "Lipari városában a parkolás nyáron nagyon korlátozott.",
+          "Tankolj fel, mielőtt elhagyod a várost."
+        ],
+        "ro": [
+          "Drumurile sunt înguste și șerpuite, conduceți cu atenție.",
+          "Parcarea în orașul Lipari este foarte limitată vara.",
+          "Faceți plinul înainte de a părăsi orașul."
+        ],
+        "en": [
+          "Roads are narrow and winding, drive carefully.",
+          "Parking in Lipari town is very limited in summer.",
+          "Refuel before leaving the town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Marina Lunga (Busbahnhof)",
+            "hu": "Marina Lunga (Buszpályaudvar)",
+            "ro": "Marina Lunga (Stație autobuz)",
+            "en": "Marina Lunga (Bus Station)"
+          },
+          "coords": [
+            14.9565,
+            38.4725
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie Ihre Fahrkarten am Kiosk vor dem Einsteigen.",
+            "hu": "Vedd meg a jegyet a kioszkban felszállás előtt.",
+            "ro": "Cumpărați biletele de la chioșc înainte de îmbarcare.",
+            "en": "Buy your tickets at the kiosk before boarding."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere Quattrocchi",
+            "hu": "Quattrocchi kilátó",
+            "ro": "Belvedere Quattrocchi",
+            "en": "Quattrocchi Belvedere"
+          },
+          "coords": [
+            14.9355,
+            38.4552
+          ],
+          "category": "natural features",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Der Bus hält direkt an der Straße beim Aussichtspunkt.",
+            "hu": "A busz közvetlenül az út mentén áll meg a kilátónál.",
+            "ro": "Autobuzul oprește chiar pe drum, lângă punctul de observație.",
+            "en": "The bus stops right on the road near the viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Canneto",
+            "hu": "Canneto",
+            "ro": "Canneto",
+            "en": "Canneto"
+          },
+          "coords": [
+            14.9585,
+            38.4812
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Das Zentrum für Badeurlauber mit vielen Cafés.",
+            "hu": "A strandolók központja sok kávézóval.",
+            "ro": "Centrul pentru turiștii care vin la plajă, cu multe cafenele.",
+            "en": "The hub for beachgoers with many cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Lipari",
+            "hu": "Lipari vára",
+            "ro": "Castelul Lipari",
+            "en": "Lipari Castle"
+          },
+          "coords": [
+            14.9542,
+            38.4665
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Vom Hafen aus ist es ein kurzer Spaziergang bergauf.",
+            "hu": "A kikötőtől rövid séta felfelé.",
+            "ro": "De la port este o scurtă plimbare la deal.",
+            "en": "It is a short walk uphill from the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di San Bartolomeo",
+            "hu": "Szent Bertalan-székesegyház",
+            "ro": "Catedrala San Bartolomeo",
+            "en": "Cathedral of Saint Bartholomew"
+          },
+          "coords": [
+            14.9545,
+            38.4668
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie das Innere vor der Schließung am Abend.",
+            "hu": "Nézd meg a belsőt az esti zárás előtt.",
+            "ro": "Vizitați interiorul înainte de închiderea de seară.",
+            "en": "Visit the interior before the evening closing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir nutzen das lokale Bussystem (Urso), um Lipari stressfrei zu erkunden. Zuerst besuchen wir den berühmten Quattrocchi-Aussichtspunkt und fahren dann zum beliebten Badeort Canneto. Den Nachmittag verbringen wir in der historischen Oberstadt bei der Kathedrale und dem Schloss. Eine preiswerte und unkomplizierte Art, sich fortzubewegen.",
+        "hu": "A helyi buszhálózatot (Urso) használjuk Lipari stresszmentes felfedezéséhez. Először a híres Quattrocchi kilátót keressük fel, majd a népszerű Canneto üdülőhelyre utazunk. A délutánt a történelmi felsővárosban töltjük a katedrálisnál és a várnál. Olcsó és egyszerű módja a közlekedésnek.",
+        "ro": "Folosim sistemul local de autobuze (Urso) pentru a explora Lipari fără stres. Mai întâi vizităm faimosul punct de observație Quattrocchi, apoi mergem în populara stațiune Canneto. După-amiaza o petrecem în centrul istoric de sus, la catedrală și castel. O modalitate ieftină și simplă de a vă deplasa.",
+        "en": "We use the local bus system (Urso) to explore Lipari stress-free. First, we visit the famous Quattrocchi viewpoint, then travel to the popular beach resort of Canneto. We spend the afternoon in the historical upper town at the cathedral and the castle. An inexpensive and straightforward way to get around."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Granita in Canneto",
+            "tip": "Perfekt zur Abkühlung nach dem Busfahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Granita Cannetóban",
+            "tip": "Tökéletes hűsítő a buszozás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Granita în Canneto",
+            "tip": "Perfectă pentru răcorire după călătoria cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Granita in Canneto",
+            "tip": "Perfect for cooling off after the bus ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Canneto Strand (Norden)",
+            "tip": "Am nördlichen Ende ist es ruhiger als im Zentrum.",
+            "emoji": "🏖️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Canneto strand (északi rész)",
+            "tip": "Az északi végén csendesebb, mint a központban.",
+            "emoji": "🏖️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Canneto (nord)",
+            "tip": "La capătul nordic este mai liniște decât în centru.",
+            "emoji": "🏖️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canneto Beach (North)",
+            "tip": "The northern end is quieter than the center.",
+            "emoji": "🏖️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bimssouvenirs",
+            "tip": "Kleine Steine und Schmuck aus lokalem Bimsstein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Habkő szuvenírek",
+            "tip": "Kis kövek és ékszerek helyi habkőből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri din piatră ponce",
+            "tip": "Mici pietre și bijuterii din piatră ponce locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pumice Souvenirs",
+            "tip": "Small stones and jewelry made from local pumice stone."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Fahrplan genau, besonders für die Rückfahrt am Abend.",
+          "Die Busse können in der Hochsaison sehr voll sein.",
+          "Heben Sie die Fahrkarte für Kontrollen auf."
+        ],
+        "hu": [
+          "Pontosan ellenőrizd a menetrendet, különösen az esti visszautat.",
+          "A buszok főszezonban nagyon zsúfoltak lehetnek.",
+          "Őrizd meg a jegyet az ellenőrzésig."
+        ],
+        "ro": [
+          "Verificați cu atenție orarul, mai ales pentru drumul de întoarcere seara.",
+          "Autobuzele pot fi foarte aglomerate în plin sezon.",
+          "Păstrați biletul pentru control."
+        ],
+        "en": [
+          "Check the schedule carefully, especially for the return trip in the evening.",
+          "Buses can be very crowded in high season.",
+          "Keep your ticket for inspection."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "_coords": [
+      14.9536,
+      38.4675
+    ],
+    "_region": "IT-82 Sicilia (Aeolian)",
+    "transit_official": "https://www.libertylines.it/",
+    "transit_app": "https://www.carontetourist.it/",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.comune.lipari.me.it/",
+    "tourism_office": "https://www.comune.lipari.me.it/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/sicilia/messina/lipari.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/lipari",
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch und äolischer Dialekt; Englisch und Deutsch in Touristenrestaurants gut.",
+      "hu": "Olasz és eoli nyelvjárás; angol és német turistaéttermekben jó.",
+      "ro": "Italiana și dialect eolian; engleza și germana bune în restaurantele turistice.",
+      "en": "Italian and Aeolian dialect; English and German good in tourist restaurants."
+    },
+    "best_time": {
+      "de": "Mai–Juni und September–Oktober; Juli–August Fähren ausgebucht, Hotelpreise hoch.",
+      "hu": "Május–június és szeptember–október; július–augusztusban kompok megteltek, drága hotel.",
+      "ro": "Mai–iunie și septembrie–octombrie; iulie–august feriboturi pline, hoteluri scumpe.",
+      "en": "May–June and September–October; July–August ferries booked out, hotels pricey."
+    },
+    "warnings": {
+      "de": "Fähren Liberty Lines/Siremar bei Wind ausfallen können; Bargeld für kleine Inseln mitnehmen.",
+      "hu": "Liberty Lines/Siremar kompok szélben kimaradhatnak; készpénz kis szigetekre.",
+      "ro": "Feriboturile Liberty Lines/Siremar pot fi anulate de vânt; numerar pe insule mici.",
+      "en": "Liberty Lines/Siremar ferries cancel in high wind; bring cash for smaller isles."
+    }
+  }
+}

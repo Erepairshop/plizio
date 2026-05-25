@@ -1,0 +1,1119 @@
+{
+  "city_id": "volterra",
+  "anchor": {
+    "name": "Volterra",
+    "coords": [
+      10.8631,
+      43.4017
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:15",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza dei Priori",
+            "hu": "Piazza dei Priori",
+            "ro": "Piazza dei Priori",
+            "en": "Piazza dei Priori"
+          },
+          "coords": [
+            10.8617,
+            43.4022
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Bewundern Sie das älteste Rathaus der Toskana.",
+            "hu": "Csodáld meg Toszkána legrégebbi városházáját.",
+            "ro": "Admirați cea mai veche primărie din Toscana.",
+            "en": "Admire the oldest town hall in Tuscany."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di Santa Maria Assunta",
+            "hu": "Mária Mennybemenetele székesegyház",
+            "ro": "Catedrala Santa Maria Assunta",
+            "en": "Cathedral of Santa Maria Assunta"
+          },
+          "coords": [
+            10.8608,
+            43.4018
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Die vergoldete Kassettendecke ist ein Meisterwerk der Renaissance.",
+            "hu": "Az aranyozott kazettás mennyezet a reneszánsz remekműve.",
+            "ro": "Tavanul cu casetoane aurite este o capodoperă a Renașterii.",
+            "en": "The gilded coffered ceiling is a Renaissance masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Etrusco Guarnacci",
+            "hu": "Guarnacci Etruszk Múzeum",
+            "ro": "Muzeul Etrusc Guarnacci",
+            "en": "Guarnacci Etruscan Museum"
+          },
+          "coords": [
+            10.861,
+            43.3995
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Suchen Sie die berühmte 'Ombra della Sera' Statue.",
+            "hu": "Keresd meg a híres 'Esti árnyék' szobrot.",
+            "ro": "Căutați faimoasa statuie 'Ombra della Sera'.",
+            "en": "Look for the famous 'Ombra della Sera' statue."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta all'Arco",
+            "hu": "Porta all'Arco",
+            "ro": "Porta all'Arco",
+            "en": "Porta all'Arco"
+          },
+          "coords": [
+            10.8595,
+            43.4005
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Beachten Sie die drei verwitterten etruskischen Köpfe am Tor.",
+            "hu": "Figyeld meg a kapun lévő három kopott etruszk fejet.",
+            "ro": "Observați cele trei capete etrusce erodate de pe poartă.",
+            "en": "Note the three weathered Etruscan heads on the gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Romano",
+            "hu": "Római Színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            10.8615,
+            43.4045
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Der Blick von oben bietet die beste Perspektive auf die Ruinen.",
+            "hu": "A fenti kilátás nyújtja a legjobb rálátást a romokra.",
+            "ro": "Vederea de sus oferă cea mai bună perspectivă asupra ruinelor.",
+            "en": "The view from above offers the best perspective of the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinacoteca Civica",
+            "hu": "Városi Képtár",
+            "ro": "Pinacoteca Civica",
+            "en": "Civic Picture Gallery"
+          },
+          "coords": [
+            10.8598,
+            43.403
+          ],
+          "category": "museums",
+          "arrive_at": "16:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Rosso Fiorentinos 'Kreuzabnahme' ist das Highlight der Sammlung.",
+            "hu": "Rosso Fiorentino 'Levétel a keresztről' műve a gyűjtemény fénypontja.",
+            "ro": "Capodopera lui Rosso Fiorentino, 'Coborârea de pe cruce', este piesa centrală.",
+            "en": "Rosso Fiorentino's 'Deposition' is the highlight of the collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortezza Medicea",
+            "hu": "Medici-erőd",
+            "ro": "Fortăreața Medicea",
+            "en": "Medici Fortress"
+          },
+          "coords": [
+            10.8645,
+            43.3995
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Heute ein Gefängnis, aber von außen sehr beeindruckend.",
+            "hu": "Ma börtönként működik, de kívülről lenyűgöző látvány.",
+            "ro": "Astăzi este o închisoare, dar foarte impresionantă la exterior.",
+            "en": "Today a prison, but very impressive from the outside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen auf der mittelalterlichen Piazza dei Priori und erkunden Sie den Dom mit seinem prächtigen Taufbecken. Tauchen Sie mittags im Guarnacci-Museum tief in die etruskische Geschichte ein und schlendern Sie durch die engen Gassen zur etruskischen Porta all'Arco. Am Nachmittag erwarten Sie die beeindruckenden Ruinen des römischen Theaters und die Kunstschätze der Pinakothek. Den Tag lassen Sie mit einem Spaziergang entlang der gewaltigen Mauern der Medici-Festung ausklingen.",
+        "hu": "Kezdje a reggelt a középkori Piazza dei Priorin, majd fedezze fel a dómot a pompás keresztelőkápolnával. Délben merüljön el az etruszk történelemben a Guarnacci Múzeumban, és sétáljon a szűk utcákon az etruszk Porta all'Arcóig. Délután a római színház lenyűgöző romjai és a Pinakothek kincsei várják. A napot a Medici-erőd hatalmas falai mentén tett sétával zárhatja.",
+        "ro": "Începeți dimineața în medievala Piazza dei Priori și explorați catedrala cu baptisteriul său magnific. La prânz, scufundați-vă în istoria etruscă la Muzeul Guarnacci și plimbați-vă pe străzile înguste până la poarta etruscă Porta all'Arco. După-amiaza vă așteaptă ruinele impresionante ale teatrului roman și comorile de artă de la Pinacotecă. Încheiați ziua cu o plimbare de-a lungul zidurilor masive ale Fortăreței Medici.",
+        "en": "Start your morning at the medieval Piazza dei Priori and explore the cathedral with its magnificent baptistery. At midday, dive deep into Etruscan history at the Guarnacci Museum and stroll through the narrow streets to the Etruscan Porta all'Arco. In the afternoon, the impressive ruins of the Roman theater and the art treasures of the Pinacoteca await. End the day with a walk along the massive walls of the Medici Fortress."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pappardelle al Cinghiale",
+            "tip": "Hausgemachte Nudeln mit Wildschweinragout bei 'Don Beta'."
+          },
+          {
+            "name": "Zuppa di Volterra",
+            "tip": "Eine herzhafte Gemüsesuppe mit Brot und lokalen Bohnen."
+          },
+          {
+            "name": "Alabaster-Käse",
+            "tip": "Pecorino-Käse, der in der Region gereift ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pappardelle al Cinghiale",
+            "tip": "Házi tészta vaddisznóraguval a 'Don Beta' étteremben."
+          },
+          {
+            "name": "Zuppa di Volterra",
+            "tip": "Kiadós zöldségleves kenyérrel és helyi babbal."
+          },
+          {
+            "name": "Alabástrom sajt",
+            "tip": "Helyi érlelésű pecorino sajt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pappardelle al Cinghiale",
+            "tip": "Paste de casă cu sos de mistreț la 'Don Beta'."
+          },
+          {
+            "name": "Zuppa di Volterra",
+            "tip": "O supă de legume consistentă cu pâine și fasole locală."
+          },
+          {
+            "name": "Brânză Alabastru",
+            "tip": "Brânză pecorino maturată în regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pappardelle al Cinghiale",
+            "tip": "Homemade pasta with wild boar ragout at 'Don Beta'."
+          },
+          {
+            "name": "Zuppa di Volterra",
+            "tip": "A hearty vegetable soup with bread and local beans."
+          },
+          {
+            "name": "Alabaster Cheese",
+            "tip": "Pecorino cheese matured in the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco Enrico Fiumi",
+            "tip": "Ein ruhiger Park innerhalb der Mauern.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viale dei Ponti",
+            "tip": "Panoramablick über das Tal bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco Enrico Fiumi",
+            "tip": "Csendes park a városfalakon belül.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viale dei Ponti",
+            "tip": "Panorámás kilátás a völgyre naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco Enrico Fiumi",
+            "tip": "Un parc liniștit în interiorul zidurilor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viale dei Ponti",
+            "tip": "Vedere panoramică asupra văii la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco Enrico Fiumi",
+            "tip": "A quiet park inside the city walls.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viale dei Ponti",
+            "tip": "Panoramic view over the valley at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Alabaster-Werkstätten",
+            "tip": "Handgefertigte Skulpturen direkt vom Künstler."
+          },
+          {
+            "name": "L'Isola di Gauguin",
+            "tip": "Einzigartige Keramik und lokale Kunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alabástrom műhelyek",
+            "tip": "Kézzel készített szobrok közvetlenül a művészektől."
+          },
+          {
+            "name": "L'Isola di Gauguin",
+            "tip": "Egyedi kerámiák és helyi művészet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ateliere de Alabastru",
+            "tip": "Sculpturi lucrate manual direct de la artist."
+          },
+          {
+            "name": "L'Isola di Gauguin",
+            "tip": "Ceramică unică și artă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alabaster Workshops",
+            "tip": "Handcrafted sculptures directly from the artist."
+          },
+          {
+            "name": "L'Isola di Gauguin",
+            "tip": "Unique ceramics and local art."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die steilen, kopfsteingepflasterten Gassen.",
+          "Kaufen Sie die Volterra Card für den kombinierten Eintritt in Museen.",
+          "Die Stadt ist abends besonders magisch beleuchtet.",
+          "Trinken Sie Wasser aus den historischen Brunnen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a meredek, macskaköves utcákhoz.",
+          "Vásárolj Volterra Cardot a múzeumi belépők kedvezményes áráért.",
+          "A város este, kivilágítva különösen varázslatos.",
+          "Igyál vizet a történelmi kutakból."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile abrupte cu piatră cubică.",
+          "Cumpărați Volterra Card pentru acces combinat la muzee.",
+          "Orașul este deosebit de magic seara, când este iluminat.",
+          "Beți apă de la fântânile istorice."
+        ],
+        "en": [
+          "Wear comfortable shoes for the steep, cobbled streets.",
+          "Purchase the Volterra Card for combined museum entry.",
+          "The city is especially magical in the evening when lit up.",
+          "Drink water from the historical fountains."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Porta all'Arco",
+            "hu": "Porta all'Arco",
+            "ro": "Porta all'Arco",
+            "en": "Porta all'Arco"
+          },
+          "coords": [
+            10.8595,
+            43.4005
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Perfekter Startpunkt für eine Tour um die Mauern.",
+            "hu": "Tökéletes kiindulópont a városfal körüli túrához.",
+            "ro": "Punct de plecare perfect pentru un tur al zidurilor.",
+            "en": "Perfect starting point for a tour around the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Romano",
+            "hu": "Római Színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            10.8615,
+            43.4045
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Fahrrad abstellen und den Blick von der Straße genießen.",
+            "hu": "Tedd le a biciklit és élvezd a kilátást az útról.",
+            "ro": "Lăsați bicicleta și bucurați-vă de vedere de la drum.",
+            "en": "Park your bike and enjoy the view from the road."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Balze",
+            "hu": "Le Balze",
+            "ro": "Le Balze",
+            "en": "Le Balze"
+          },
+          "coords": [
+            10.845,
+            43.41
+          ],
+          "category": "natural features",
+          "arrive_at": "11:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.5,
+          "tip_4lang": {
+            "de": "Spektakuläre Erosionsklippen westlich der Stadt.",
+            "hu": "Látványos eróziós sziklák a várostól nyugatra.",
+            "ro": "Faleze spectaculoase de eroziune la vest de oraș.",
+            "en": "Spectacular erosion cliffs west of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "San Giusto",
+            "hu": "San Giusto",
+            "ro": "San Giusto",
+            "en": "San Giusto"
+          },
+          "coords": [
+            10.848,
+            43.411
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Einsame Kirche in der Nähe der Abgründe.",
+            "hu": "Magányos templom a szakadékok közelében.",
+            "ro": "Biserică singuratică lângă abisuri.",
+            "en": "Lonely church near the abysses."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortezza Medicea",
+            "hu": "Medici-erőd",
+            "ro": "Fortăreața Medicea",
+            "en": "Medici Fortress"
+          },
+          "coords": [
+            10.8645,
+            43.3995
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "tip_4lang": {
+            "de": "Radeln Sie durch den angrenzenden Park.",
+            "hu": "Biciklizz át a szomszédos parkon.",
+            "ro": "Mergeți cu bicicleta prin parcul adiacent.",
+            "en": "Cycle through the adjacent park."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza dei Priori",
+            "hu": "Piazza dei Priori",
+            "ro": "Piazza dei Priori",
+            "en": "Piazza dei Priori"
+          },
+          "coords": [
+            10.8617,
+            43.4022
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Belohnung mit einem Eis auf dem Hauptplatz.",
+            "hu": "Jutalmazd meg magad egy fagyival a főtéren.",
+            "ro": "Recompensați-vă cu o înghețată în piața principală.",
+            "en": "Reward yourself with an ice cream in the main square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie zunächst um die antiken Stadtmauern und zum römischen Theater. Der Höhepunkt ist die Fahrt nach Westen zu den Balze-Klippen, wo Sie die dramatische Erosion der Landschaft bestaunen können. Auf dem Rückweg radeln Sie an der Medici-Festung vorbei und beenden den Tag entspannt im historischen Zentrum. Die Strecke bietet ständig wechselnde Panoramablicke auf die toskanischen Hügel.",
+        "hu": "Ez a kerékpártúra először az ősi városfalak körül és a római színházhoz vezet. A csúcspont a nyugati irányba tett út a Balze-sziklákhoz, ahol megcsodálhatja a táj drámai erózióját. Visszafelé a Medici-erőd mellett biciklizik el, és a napot a történelmi központban zárja. Az útvonal folyamatosan változó panorámát kínál a toszkán dombokra.",
+        "ro": "Acest tur cu bicicleta vă poartă mai întâi în jurul zidurilor antice ale orașului și la teatrul roman. Punctul culminant este drumul spre vest către stâncile Balze, unde puteți admira eroziunea dramatică a peisajului. La întoarcere, pedalați pe lângă Fortăreața Medici și încheiați ziua relaxat în centrul istoric. Traseul oferă vederi panoramice în continuă schimbare asupra dealurilor toscane.",
+        "en": "This bike tour first takes you around the ancient city walls and to the Roman theater. The highlight is the ride west to the Balze cliffs, where you can marvel at the dramatic erosion of the landscape. On the way back, cycle past the Medici Fortress and end the day relaxed in the historical center. The route offers constantly changing panoramic views of the Tuscan hills."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Panino con Prosciutto di Volterra",
+            "tip": "Perfekter Snack für unterwegs bei 'L'Incontro'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panino con Prosciutto di Volterra",
+            "tip": "Tökéletes útközbeni snack a 'L'Incontro' bárban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panino con Prosciutto di Volterra",
+            "tip": "Gustare perfectă de luat la pachet de la 'L'Incontro'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Panino con Prosciutto di Volterra",
+            "tip": "Perfect snack for the road at 'L'Incontro'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Le Balze Aussichtspunkt",
+            "tip": "Völlige Stille vor den gewaltigen Abgründen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Balze kilátópont",
+            "tip": "Teljes csend a hatalmas szakadékok előtt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Le Balze",
+            "tip": "Liniște deplină în fața abisurilor uriașe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Balze Lookout",
+            "tip": "Total silence in front of the massive abysses.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Frisch von den umliegenden Bauernhöfen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Frissen a környező gazdaságokból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Proaspăt de la fermele din jur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Fresh from the surrounding farms."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike, da Volterra auf einem sehr hohen Hügel liegt.",
+          "Achten Sie auf die starken Winde bei den Balze-Klippen.",
+          "Nehmen Sie ausreichend Wasser mit, die Steigungen sind anstrengend."
+        ],
+        "hu": [
+          "Bérelj e-bike-ot, mert Volterra egy nagyon magas dombon fekszik.",
+          "Vigyázz az erős szélre a Balze-szikláknál.",
+          "Vigyél magaddal elég vizet, az emelkedők fárasztóak."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică, deoarece Volterra se află pe un deal foarte înalt.",
+          "Atenție la vânturile puternice de la stâncile Balze.",
+          "Luați suficientă apă, pantele sunt solicitante."
+        ],
+        "en": [
+          "Rent an e-bike, as Volterra sits on a very high hill.",
+          "Watch out for strong winds at the Balze cliffs.",
+          "Take enough water with you, the climbs are tiring."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro Romano",
+            "hu": "Római Színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            10.8615,
+            43.4045
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Parken Sie auf dem Parkplatz 'Porta Fiorentina'.",
+            "hu": "Parkolj a 'Porta Fiorentina' parkolóban.",
+            "ro": "Parcați în parcarea 'Porta Fiorentina'.",
+            "en": "Park at the 'Porta Fiorentina' parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo dei Priori",
+            "hu": "Palazzo dei Priori",
+            "ro": "Palazzo dei Priori",
+            "en": "Palazzo dei Priori"
+          },
+          "coords": [
+            10.8617,
+            43.4022
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Besuchen Sie den Glockenturm für den besten Stadtblick.",
+            "hu": "Menj fel a harangtoronyba a legjobb városi kilátásért.",
+            "ro": "Vizitați turnul cu clopotniță pentru cea mai bună vedere asupra orașului.",
+            "en": "Visit the bell tower for the best city view."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Etrusco Guarnacci",
+            "hu": "Guarnacci Etruszk Múzeum",
+            "ro": "Muzeul Etrusc Guarnacci",
+            "en": "Guarnacci Etruscan Museum"
+          },
+          "coords": [
+            10.861,
+            43.3995
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Eines der ältesten öffentlichen Museen Europas.",
+            "hu": "Európa egyik legrégebbi nyilvános múzeuma.",
+            "ro": "Unul dintre cele mai vechi muzee publice din Europa.",
+            "en": "One of the oldest public museums in Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Balze",
+            "hu": "Le Balze",
+            "ro": "Le Balze",
+            "en": "Le Balze"
+          },
+          "coords": [
+            10.845,
+            43.41
+          ],
+          "category": "natural features",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_4lang": {
+            "de": "Bequem mit dem Auto erreichbar, toller Fotostopp.",
+            "hu": "Autóval kényelmesen elérhető, remek fotóhelyszín.",
+            "ro": "Accesibil convenabil cu mașina, un loc minunat pentru fotografii.",
+            "en": "Conveniently accessible by car, great photo stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Viti",
+            "hu": "Palazzo Viti",
+            "ro": "Palazzo Viti",
+            "en": "Palazzo Viti"
+          },
+          "coords": [
+            10.8615,
+            43.4035
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_4lang": {
+            "de": "Ein prächtiges Adelshaus mit originaler Einrichtung.",
+            "hu": "Pompás nemesi ház eredeti berendezéssel.",
+            "ro": "O casă nobiliară magnifică cu mobilier original.",
+            "en": "A magnificent noble house with original furnishings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Ebenen Volterras. Starten Sie am römischen Theater, erkunden Sie den Palazzo dei Priori im Zentrum und das faszinierende Etruskermuseum. Eine kurze Fahrt bringt Sie zu den Balze-Klippen, bevor Sie den Tag mit einem Besuch im luxuriösen Palazzo Viti abschließen. Das Auto ermöglicht es Ihnen, auch die etwas abgelegeneren landschaftlichen Highlights mühelos zu integrieren.",
+        "hu": "Autóval kényelmesen elérheti Volterra különböző szintjeit. Kezdje a római színháznál, fedezze fel a központban a Palazzo dei Priorit és a lenyűgöző etruszk múzeumot. Egy rövid autóút elviszi a Balze-sziklákhoz, mielőtt a napot a fényűző Palazzo Viti meglátogatásával zárná. Az autó lehetővé teszi, hogy a távolabbi táji látnivalókat is könnyedén beépítse a programba.",
+        "ro": "Cu mașina puteți ajunge convenabil la diferitele niveluri ale Volterrei. Începeți la teatrul roman, explorați Palazzo dei Priori din centru și fascinantul muzeu etrusc. O scurtă plimbare cu mașina vă duce la stâncile Balze, înainte de a încheia ziua cu o vizită la luxosul Palazzo Viti. Mașina vă permite să integrați fără efort și punctele de atracție peisagistice mai îndepărtate.",
+        "en": "By car, you can conveniently reach the different levels of Volterra. Start at the Roman theater, explore Palazzo dei Priori in the center and the fascinating Etruscan museum. A short drive takes you to the Balze cliffs before ending the day with a visit to the luxurious Palazzo Viti. The car allows you to effortlessly integrate the more remote scenic highlights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trattoria Albana",
+            "tip": "Traditionelle Küche etwas abseits der Hauptwege."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trattoria Albana",
+            "tip": "Hagyományos konyha kicsit távolabb a főútvonalaktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trattoria Albana",
+            "tip": "Bucătărie tradițională puțin în afara traseelor principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trattoria Albana",
+            "tip": "Traditional cuisine slightly off the main paths."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abtei San Giusto",
+            "tip": "Ruhe am Rande des Abgrunds.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Giusto apátság",
+            "tip": "Csend a szakadék szélén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Abația San Giusto",
+            "tip": "Liniște pe marginea prăpastiei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Giusto Abbey",
+            "tip": "Peace on the edge of the abyss.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cooperativa Artieri Alabastro",
+            "tip": "Große Auswahl an Alabaster-Kunstwerken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cooperativa Artieri Alabastro",
+            "tip": "Alabástrom műalkotások széles választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cooperativa Artieri Alabastro",
+            "tip": "O selecție largă de opere de artă din alabastru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cooperativa Artieri Alabastro",
+            "tip": "Large selection of alabaster artworks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die ZTL-Zonen (eingeschränkter Verkehr) im historischen Zentrum.",
+          "Parken Sie auf dem großen Parkplatz am Busbahnhof ('Il Salotto').",
+          "Die Straßen nach Volterra sind sehr kurvenreich."
+        ],
+        "hu": [
+          "Ügyelj a ZTL zónákra (korlátozott forgalom) a történelmi központban.",
+          "Parkolj a buszpályaudvarnál lévő nagy parkolóban ('Il Salotto').",
+          "A Volterrába vezető utak nagyon kanyargósak."
+        ],
+        "ro": [
+          "Atenție la zonele ZTL (trafic restricționat) din centrul istoric.",
+          "Parcați în parcarea mare de lângă autogară ('Il Salotto').",
+          "Drumurile spre Volterra sunt foarte sinuoase."
+        ],
+        "en": [
+          "Watch out for ZTL zones (restricted traffic) in the historical center.",
+          "Park in the large parking lot at the bus station ('Il Salotto').",
+          "The roads to Volterra are very winding."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof (Piazza Martiri)",
+            "hu": "Buszpályaudvar (Piazza Martiri)",
+            "ro": "Autogara (Piazza Martiri)",
+            "en": "Bus Station (Piazza Martiri)"
+          },
+          "coords": [
+            10.8631,
+            43.4017
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Zentraler Ankunftspunkt für Busse aus Pisa oder Florenz.",
+            "hu": "Központi érkezési pont a Pisából vagy Firenzéből érkező buszoknak.",
+            "ro": "Punct central de sosire pentru autobuzele din Pisa sau Florența.",
+            "en": "Central arrival point for buses from Pisa or Florence."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza dei Priori",
+            "hu": "Piazza dei Priori",
+            "ro": "Piazza dei Priori",
+            "en": "Piazza dei Priori"
+          },
+          "coords": [
+            10.8617,
+            43.4022
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Nur wenige Gehminuten von der Haltestelle entfernt.",
+            "hu": "Csak pár perc séta a megállótól.",
+            "ro": "La doar câteva minute de mers pe jos de stație.",
+            "en": "Just a few minutes walk from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Etrusco Guarnacci",
+            "hu": "Guarnacci Etruszk Múzeum",
+            "ro": "Muzeul Etrusc Guarnacci",
+            "en": "Guarnacci Etruscan Museum"
+          },
+          "coords": [
+            10.861,
+            43.3995
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Nutzen Sie den Stadtbus 'Volterralinea' für den Hügel.",
+            "hu": "Használd a 'Volterralinea' helyi buszt a dombra való feljutáshoz.",
+            "ro": "Folosiți autobuzul local 'Volterralinea' pentru deal.",
+            "en": "Use the 'Volterralinea' local bus for the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Battistero di San Giovanni",
+            "hu": "Keresztelőkápolna",
+            "ro": "Baptisteriul San Giovanni",
+            "en": "Baptistery of San Giovanni"
+          },
+          "coords": [
+            10.8605,
+            43.4015
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Gegenüber dem Dom gelegen, achteckige Form.",
+            "hu": "A dómmal szemben található, nyolcszögletű épület.",
+            "ro": "Situat vis-a-vis de catedrală, formă octogonală.",
+            "en": "Located opposite the cathedral, octagonal shape."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortezza Medicea",
+            "hu": "Medici-erőd",
+            "ro": "Fortăreața Medicea",
+            "en": "Medici Fortress"
+          },
+          "coords": [
+            10.8645,
+            43.3995
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Endstation der Stadtbuslinie in der Nähe.",
+            "hu": "A helyi buszjárat végállomása a közelben van.",
+            "ro": "Capătul liniei de autobuz local este în apropiere.",
+            "en": "End of the local bus line nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem öffentlichen Nahverkehr und dem Stadtbus 'Volterralinea' erkunden Sie Volterra entspannt ohne Parkplatzsuche. Vom zentralen Busbahnhof erreichen Sie schnell die Piazza dei Priori und das Etruskermuseum. Der Nachmittag ist dem Dombezirk und der Festung gewidmet, die alle gut mit den kleinen Pendelbussen vernetzt sind. So bleibt mehr Zeit für die Geschichte und die Atmosphäre der Stadt.",
+        "hu": "A tömegközlekedéssel és a 'Volterralinea' helyi busszal kényelmesen, parkolási gondok nélkül fedezheti fel Volterrát. A központi buszpályaudvarról gyorsan elérheti a Piazza dei Priorit és az etruszk múzeumot. A délutánt a dóm környékének és az erődnek szentelheti, amelyeket a kis ingajáratok jól összekötnek. Így több idő marad a város történelmére és hangulatára.",
+        "ro": "Cu transportul public și autobuzul local 'Volterralinea', explorați Volterra relaxat, fără grija parcării. De la autogara centrală ajungeți rapid la Piazza dei Priori și la muzeul etrusc. După-amiaza este dedicată zonei catedralei și fortăreței, toate fiind bine conectate prin micile autobuze navetă. Astfel, rămâne mai mult timp pentru istoria și atmosfera orașului.",
+        "en": "With public transport and the 'Volterralinea' local bus, you can explore Volterra relaxed without searching for parking. From the central bus station, you can quickly reach Piazza dei Priori and the Etruscan museum. The afternoon is dedicated to the cathedral district and the fortress, all well-connected by small shuttle buses. This leaves more time for the history and atmosphere of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar L'Incontro",
+            "tip": "Guter Kaffee und Gebäck direkt an der Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar L'Incontro",
+            "tip": "Jó kávé és sütemények közvetlenül a buszmegállónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar L'Incontro",
+            "tip": "Cafea bună și produse de patiserie direct la stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar L'Incontro",
+            "tip": "Good coffee and pastries right by the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piazza Martiri de la Libertà",
+            "tip": "Bänke mit Blick auf das Tal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza Martiri de la Libertà",
+            "tip": "Padok kilátással a völgyre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazza Martiri de la Libertà",
+            "tip": "Bănci cu vedere la vale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza Martiri de la Libertà",
+            "tip": "Benches with a view of the valley.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden Via Ricciarelli",
+            "tip": "Klassische Mitbringsel in der Nähe des Zentrums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírboltok Via Ricciarelli",
+            "tip": "Klasszikus emléktárgyak a központ közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri Via Ricciarelli",
+            "tip": "Suveniruri clasice lângă centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Shops Via Ricciarelli",
+            "tip": "Classic souvenirs near the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan für die Rückfahrt nach Saline oder Cecina.",
+          "Tickets für den Stadtbus können im Tabakladen gekauft werden.",
+          "Der Stadtbus ist klein und kommt durch die engsten Gassen."
+        ],
+        "hu": [
+          "Ellenőrizd a buszmenetrendet a Saline vagy Cecina felé tartó visszaúthoz.",
+          "A helyi buszra jegyet a dohányboltokban (tabacchi) vehetsz.",
+          "A városi busz kicsi, és átfér a legszűkebb utcákon is."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor pentru întoarcerea spre Saline sau Cecina.",
+          "Biletele pentru autobuzul local pot fi cumpărate de la tutungerie.",
+          "Autobuzul local este mic și trece prin cele mai înguste străzi."
+        ],
+        "en": [
+          "Check the bus schedule for the return trip to Saline or Cecina.",
+          "Tickets for the local bus can be bought at tobacco shops.",
+          "The city bus is small and gets through the narrowest streets."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Volterra",
+    "iso": "IT-52",
+    "tourism_site": "https://www.volterratur.it/",
+    "wikipedia": {
+      "de": "https://de.wikipedia.org/wiki/Volterra",
+      "hu": "https://hu.wikipedia.org/wiki/Volterra",
+      "ro": "https://ro.wikipedia.org/wiki/Volterra",
+      "en": "https://en.wikipedia.org/wiki/Volterra"
+    },
+    "wikivoyage": {
+      "de": "https://de.wikivoyage.org/wiki/Volterra",
+      "hu": "https://hu.wikivoyage.org/wiki/Volterra",
+      "ro": "https://ro.wikivoyage.org/wiki/Volterra",
+      "en": "https://en.wikivoyage.org/wiki/Volterra"
+    },
+    "unesco": null,
+    "osm": "https://www.openstreetmap.org/relation/42045",
+    "wikidata": "https://www.wikidata.org/wiki/Q13560",
+    "geonames": "https://www.geonames.org/3164071/volterra.html",
+    "google_maps": "https://www.google.com/maps/place/Volterra,+PI,+Italy",
+    "weather": "https://www.ilmeteo.it/meteo/Volterra",
+    "tourism_office": "https://www.comune.volterra.pi.it/",
+    "transit_official": "https://www.autolineetoscane.it/",
+    "events": "https://www.comune.volterra.pi.it/feed/"
+  }
+}

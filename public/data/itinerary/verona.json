@@ -1,0 +1,1183 @@
+{
+  "city_id": "verona",
+  "anchor": {
+    "name": "Verona",
+    "coords": [
+      45.4384,
+      10.9916
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piazza Bra",
+          "coords": [
+            45.4382,
+            10.9925
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Trinken Sie einen Espresso in einer der Bars am Liston.",
+            "hu": "Igyon egy eszpresszót a Liston menti kávézók egyikében.",
+            "ro": "Savurați un espresso la una dintre cafenelele de pe Liston.",
+            "en": "Enjoy an espresso at one of the cafes along the Liston."
+          }
+        },
+        {
+          "name": "Arena di Verona",
+          "coords": [
+            45.4391,
+            10.9944
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Buchen Sie Tickets im Voraus, um lange Schlangen zu vermeiden.",
+            "hu": "Foglaljon jegyet előre a hosszú sorok elkerülése érdekében.",
+            "ro": "Rezervați bilete în avans pentru a evita cozile lungi.",
+            "en": "Book tickets in advance to avoid long queues."
+          }
+        },
+        {
+          "name": "Piazza delle Erbe",
+          "coords": [
+            45.4421,
+            10.9972
+          ],
+          "category": "square",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie frisches Obst vom Marktstand.",
+            "hu": "Kóstoljon friss gyümölcsöt a piaci standoknál.",
+            "ro": "Gustați fructe proaspete de la tarabele din piață.",
+            "en": "Try some fresh fruit from the market stalls."
+          }
+        },
+        {
+          "name": "Torre dei Lamberti",
+          "coords": [
+            45.4428,
+            10.9978
+          ],
+          "category": "historical",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Aufzug, wenn Sie nicht 368 Stufen steigen wollen.",
+            "hu": "Használja a liftet, ha nem akar 368 lépcsőt megmászni.",
+            "ro": "Folosiți liftul dacă nu doriți să urcați 368 de trepte.",
+            "en": "Use the lift if you don't want to climb 368 steps."
+          }
+        },
+        {
+          "name": "Casa di Giulietta",
+          "coords": [
+            45.4419,
+            10.9995
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Innenhof ist oft sehr überfüllt, gehen Sie früh hin.",
+            "hu": "A belső udvar gyakran zsúfolt, érdemes korán érkezni.",
+            "ro": "Curtea interioară este adesea aglomerată, mergeți devreme.",
+            "en": "The courtyard is often crowded; try to visit early."
+          }
+        },
+        {
+          "name": "Arche Scaligere",
+          "coords": [
+            45.4435,
+            10.9992
+          ],
+          "category": "historical",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die filigranen gotischen Schmiedearbeiten.",
+            "hu": "Csodálja meg a finom gótikus kovácsoltvas munkákat.",
+            "ro": "Admirați detaliile fine ale fierului forjat gotic.",
+            "en": "Admire the intricate Gothic wrought-iron work."
+          }
+        },
+        {
+          "name": "Castelvecchio & Ponte Scaligero",
+          "coords": [
+            45.4402,
+            10.9877
+          ],
+          "category": "historical",
+          "arrive_at": "15:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie über die Brücke für tolle Fotos von der Etsch.",
+            "hu": "Sétáljon át a hídon az Adige folyóról készült remek fotókért.",
+            "ro": "Traversați podul pentru fotografii superbe cu râul Adige.",
+            "en": "Walk across the bridge for great photos of the Adige river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der Piazza Bra, dem pulsierenden Herzen Veronas, direkt vor der majestätischen Arena. Nach der Besichtigung des römischen Amphitheaters schlendern Sie durch die mittelalterlichen Gassen.\n\nMittags tauchen Sie in das Marktgetümmel der Piazza delle Erbe ein und genießen den Blick vom Lamberti-Turm über die roten Dächer der Stadt. Ein kurzer Stopp bei Julias Haus darf natürlich nicht fehlen.\n\nAm Nachmittag erkunden Sie die prächtigen Grabmäler der Scaliger, bevor Sie am Flussufer entlang zum Castelvecchio spazieren.\n\nLassen Sie den Tag auf der zinnenbewehrten Scaliger-Brücke ausklingen, während die Sonne langsam hinter den sanften Hügeln Veronas versinkt.",
+        "hu": "Kezdje a napot a Piazza Bra téren, Verona lüktető szívében, közvetlenül a fenséges Aréna előtt. A római amfiteátrum megtekintése után sétáljon végig a középkori utcákon.\n\nDélben merüljön el a Piazza delle Erbe piaci forgatagában, és élvezze a kilátást a Lamberti-toronyból a város vörös tetőire. Júlia háza természetesen nem maradhat ki a programból.\n\nDélután fedezze fel a Scaliger-síremlékek pompáját, majd sétáljon a folyóparton a Castelvecchio felé.\n\nZárja a napot a csipkézett Scaliger-hídon, miközben a nap lassan lebukik Verona szelíd dombjai mögött.",
+        "ro": "Începeți ziua în Piazza Bra, inima vibrantă a Veronei, chiar în fața maiestuoasei Arene. După vizitarea amfiteatrului roman, plimbați-vă pe străzile medievale.\n\nLa prânz, scufundați-vă în agitația pieței din Piazza delle Erbe și bucurați-vă de vederea de pe Turnul Lamberti peste acoperișurile roșii ale orașului. O scurtă oprire la Casa Julietei este obligatorie.\n\nDupă-amiaza, explorați mormintele magnifice ale familiei Scaliger, apoi plimbați-vă de-a lungul râului spre Castelvecchio.\n\nÎncheiați ziua pe podul fortificat Scaliger, în timp ce soarele apune încet în spatele dealurilor blânde ale Veronei.",
+        "en": "Start your day in Piazza Bra, the pulsing heart of Verona, right in front of the majestic Arena. After touring the Roman amphitheatre, stroll through the medieval alleys.\n\nAt midday, immerse yourself in the market bustle of Piazza delle Erbe and enjoy the view from the Lamberti Tower over the city's red roofs. A stop at Juliet's House is a must.\n\nIn the afternoon, explore the magnificent Scaliger Tombs before walking along the riverbank towards Castelvecchio.\n\nEnd your day on the crenellated Scaliger Bridge as the sun slowly sets behind the gentle hills of Verona."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastissada de Caval",
+            "tip": "Traditionelles Pferdefleischschmorgericht bei Osteria del Bugiardo."
+          },
+          {
+            "name": "Risotto all'Amarone",
+            "tip": "Cremiger Reis mit dem berühmten Rotwein der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastissada de Caval",
+            "tip": "Hagyományos lópörkölt az Osteria del Bugiardo kínálatában."
+          },
+          {
+            "name": "Risotto all'Amarone",
+            "tip": "Krémes rizottó a régió híres vörösborával készítve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastissada de Caval",
+            "tip": "Tocăniță tradițională de cal la Osteria del Bugiardo."
+          },
+          {
+            "name": "Risotto all'Amarone",
+            "tip": "Orez cremos preparat cu faimosul vin roșu local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastissada de Caval",
+            "tip": "Traditional horse meat stew at Osteria del Bugiardo."
+          },
+          {
+            "name": "Risotto all'Amarone",
+            "tip": "Creamy rice prepared with the region's famous red wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Castel San Pietro",
+            "tip": "Bester Panoramablick bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Giardino Giusti",
+            "tip": "Ruhiger Renaissancegarten abseits der Massen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Castel San Pietro",
+            "tip": "A legjobb panoráma naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Giardino Giusti",
+            "tip": "Csendes reneszánsz kert a tömegtől távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Castel San Pietro",
+            "tip": "Cea mai bună vedere panoramică la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Giardino Giusti",
+            "tip": "Grădină renascentistă liniștită, departe de mulțime.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castel San Pietro",
+            "tip": "Best panoramic view at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Giardino Giusti",
+            "tip": "Quiet Renaissance garden away from the crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Mazzini",
+            "tip": "Luxuriöse Modeboutiquen und große Marken."
+          },
+          {
+            "name": "Corso Porta Borsari",
+            "tip": "Elegante Geschäfte in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Mazzini",
+            "tip": "Luxus divatboltok és nagy világmárkák."
+          },
+          {
+            "name": "Corso Porta Borsari",
+            "tip": "Elegáns üzletek történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Mazzini",
+            "tip": "Boutique-uri de modă de lux și mărci mari."
+          },
+          {
+            "name": "Corso Porta Borsari",
+            "tip": "Magazine elegante într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Mazzini",
+            "tip": "Luxury fashion boutiques and major brands."
+          },
+          {
+            "name": "Corso Porta Borsari",
+            "tip": "Elegant shops in a historical setting."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Verona ist sehr fußgängerfreundlich, bequeme Schuhe sind Pflicht.",
+          "Die Verona Card lohnt sich, wenn Sie mehr als drei Museen besuchen.",
+          "Trinken Sie Wasser an den historischen Brunnen, es ist trinkbar.",
+          "Vermeiden Sie die Touristenmenüs direkt an der Arena."
+        ],
+        "hu": [
+          "Verona nagyon gyalogosbarát, a kényelmes cipő kötelező.",
+          "A Verona Card megéri, ha háromnál több múzeumot látogat meg.",
+          "Igyon vizet a történelmi kutakból, a víz iható.",
+          "Kerülje a közvetlenül az Aréna melletti turista menüket."
+        ],
+        "ro": [
+          "Verona este foarte prietenoasă cu pietonii, pantofii comozi sunt obligatorii.",
+          "Verona Card merită dacă vizitați mai mult de trei muzee.",
+          "Beți apă de la fântânile istorice, este potabilă.",
+          "Evitați meniurile turistice direct lângă Arenă."
+        ],
+        "en": [
+          "Verona is very pedestrian-friendly; comfortable shoes are a must.",
+          "The Verona Card is worth it if you visit more than three museums.",
+          "Drink water from the historical fountains; it is safe and potable.",
+          "Avoid the tourist menus directly next to the Arena."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piazza Bra",
+          "coords": [
+            45.4382,
+            10.9925
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad direkt in der Nähe des Piazza Bra.",
+            "hu": "Béreljen kerékpárt közvetlenül a Piazza Bra közelében.",
+            "ro": "Închiriați o bicicletă chiar lângă Piazza Bra.",
+            "en": "Rent a bike right near Piazza Bra."
+          }
+        },
+        {
+          "name": "Castelvecchio",
+          "coords": [
+            45.4402,
+            10.9877
+          ],
+          "category": "historical",
+          "arrive_at": "09:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad über die Brücke.",
+            "hu": "Tolja át a kerékpárt a hídon.",
+            "ro": "Împingeți bicicleta peste pod.",
+            "en": "Walk your bike across the bridge."
+          }
+        },
+        {
+          "name": "Lungadige Cangrande",
+          "coords": [
+            45.4435,
+            10.985
+          ],
+          "category": "park",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Radfahrt entlang der Etsch.",
+            "hu": "Élvezze a biciklizést az Adige folyó mentén.",
+            "ro": "Bucurați-vă de plimbarea cu bicicleta pe malul râului Adige.",
+            "en": "Enjoy the ride along the Adige river banks."
+          }
+        },
+        {
+          "name": "Basilica di San Zeno",
+          "coords": [
+            45.4421,
+            10.9785
+          ],
+          "category": "religious",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der Romanik, etwas außerhalb des Zentrums.",
+            "hu": "A román stílus remekműve, kissé kívül a központon.",
+            "ro": "O capodoperă a stilului romanic, puțin în afara centrului.",
+            "en": "A masterpiece of Romanesque style, slightly outside the center."
+          }
+        },
+        {
+          "name": "Piazza delle Erbe",
+          "coords": [
+            45.4421,
+            10.9972
+          ],
+          "category": "square",
+          "arrive_at": "13:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie das Rad sicher, bevor Sie den Markt erkunden.",
+            "hu": "Zárja le biztonságosan a biciklit a piac felfedezése előtt.",
+            "ro": "Parcați bicicleta în siguranță înainte de a explora piața.",
+            "en": "Park your bike securely before exploring the market."
+          }
+        },
+        {
+          "name": "Giardino Giusti",
+          "coords": [
+            45.4425,
+            11.0065
+          ],
+          "category": "park",
+          "arrive_at": "14:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der Aufstieg im Garten belohnt mit einem tollen Blick.",
+            "hu": "A kert felső részéből nyíló kilátás kárpótol a mászásért.",
+            "ro": "Urcarea în grădină vă răsplătește cu o vedere superbă.",
+            "en": "The climb within the garden rewards you with a great view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Verona dynamisch. Nach dem Start an der Piazza Bra fahren Sie zum mächtigen Castelvecchio.\n\nDie Route führt Sie am glitzernden Fluss Etsch entlang zur prächtigen Basilika San Zeno, einem Juwel der Romanik, das zu Fuß schwerer erreichbar ist.\n\nMittags radeln Sie zurück ins Zentrum zur Piazza delle Erbe für einen schnellen Snack und etwas Marktatmosphäre.\n\nDer Nachmittag gehört dem Giardino Giusti auf der anderen Flussseite, bevor Sie entspannt am Ufer zurückkehren.",
+        "hu": "Kerékpárral dinamikusan fedezheti fel Veronát. A Piazza Bra-tól indulva tekerjen a hatalmas Castelvecchio felé.\n\nAz útvonal a csillogó Adige folyó mentén vezet a pompás San Zeno bazilikához, amely a román stílus gyöngyszeme, és gyalog nehezebben elérhető.\n\nDélben tekerjen vissza a központba, a Piazza delle Erbe térre egy gyors harapnivalóra és egy kis piaci hangulatra.\n\nA délután a folyó túloldalán található Giardino Giusti kerté, mielőtt nyugodtan visszakerekezne a part mentén.",
+        "ro": "Cu bicicleta veți explora Verona în mod dinamic. După plecarea din Piazza Bra, pedalați spre impunătorul Castelvecchio.\n\nTraseul vă poartă pe malul sclipitor al râului Adige până la superba Basilică San Zeno, o bijuterie a stilului romanic, mai greu accesibilă pe jos.\n\nLa prânz, pedalați înapoi spre centru, în Piazza delle Erbe, pentru o gustare rapidă și atmosfera pieței.\n\nDupă-amiaza este dedicată Grădinii Giusti de pe cealaltă parte a râului, înainte de a vă întoarce relaxat pe malul apei.",
+        "en": "Explore Verona dynamically by bike. Starting from Piazza Bra, pedal towards the mighty Castelvecchio.\n\nThe route takes you along the sparkling Adige river to the magnificent Basilica of San Zeno, a Romanesque gem that is harder to reach on foot.\n\nAt midday, bike back to the center to Piazza delle Erbe for a quick snack and some market atmosphere.\n\nThe afternoon is dedicated to the Giardino Giusti on the other side of the river before a relaxed ride back along the banks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Baci di Giulietta",
+            "tip": "Süße Gebäckstücke, ideal als Energieschub beim Radeln."
+          },
+          {
+            "name": "Pandoro di Verona",
+            "tip": "Der berühmte Hefekuchen, der hier seinen Ursprung hat."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baci di Giulietta",
+            "tip": "Édes sütemények, ideális energiapótlás bringázás közben."
+          },
+          {
+            "name": "Pandoro di Verona",
+            "tip": "A híres ünnepi kalács, amely innen származik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baci di Giulietta",
+            "tip": "Produse de patiserie dulci, ideale pentru energie în timpul pedalatului."
+          },
+          {
+            "name": "Pandoro di Verona",
+            "tip": "Faimosul cozonac care își are originile aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baci di Giulietta",
+            "tip": "Sweet pastries, perfect for an energy boost while cycling."
+          },
+          {
+            "name": "Pandoro di Verona",
+            "tip": "The famous yeast cake that originated here."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco dell'Adige",
+            "tip": "Grüne Oase am Flussufer für eine Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "San Giovanni in Valle",
+            "tip": "Stille romanische Kirche am Hügel.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco dell'Adige",
+            "tip": "Zöld oázis a folyóparton egy kis pihenőhöz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "San Giovanni in Valle",
+            "tip": "Csendes román stílusú templom a dombon.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco dell'Adige",
+            "tip": "Oază verde pe malul râului pentru o pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "San Giovanni in Valle",
+            "tip": "Biserică romanică liniștită pe deal.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco dell'Adige",
+            "tip": "Green oasis on the riverbank for a break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "San Giovanni in Valle",
+            "tip": "Quiet Romanesque church on the hill.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Verona Bike Rental",
+            "tip": "Gute Auswahl an City- und E-Bikes."
+          },
+          {
+            "name": "Eataly Verona",
+            "tip": "Großer Markt für italienische Delikatessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Verona Bike Rental",
+            "tip": "Jó választék városi és elektromos kerékpárokból."
+          },
+          {
+            "name": "Eataly Verona",
+            "tip": "Hatalmas olasz gasztropiac és szaküzlet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Verona Bike Rental",
+            "tip": "O selecție bună de biciclete de oraș și electrice."
+          },
+          {
+            "name": "Eataly Verona",
+            "tip": "Piață mare pentru delicatese italiene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Verona Bike Rental",
+            "tip": "Good selection of city and e-bikes."
+          },
+          {
+            "name": "Eataly Verona",
+            "tip": "Huge market for Italian delicacies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Altstadt ist das Radfahren erlaubt, aber nehmen Sie Rücksicht auf Fußgänger.",
+          "Nutzen Sie die Radwege entlang der Etsch für längere Strecken.",
+          "Ein Schloss ist unbedingt erforderlich, wenn Sie das Rad abstellen.",
+          "Achten Sie auf das Kopfsteinpflaster in einigen Gassen."
+        ],
+        "hu": [
+          "Az óvárosban megengedett a kerékpározás, de figyeljen a gyalogosokra.",
+          "Használja az Adige menti kerékpárutakat a hosszabb szakaszokon.",
+          "A lakat elengedhetetlen, ha leállítja a biciklit.",
+          "Ügyeljen a macskaköves burkolatra néhány szűk utcában."
+        ],
+        "ro": [
+          "Ciclismul este permis în centrul vechi, dar aveți grijă la pietoni.",
+          "Folosiți pistele de biciclete de-a lungul râului Adige pentru distanțe mai mari.",
+          "Un antifurt este absolut necesar când lăsați bicicleta.",
+          "Atenție la pavajul cu piatră cubică de pe unele străduțe."
+        ],
+        "en": [
+          "Cycling is allowed in the old town, but be mindful of pedestrians.",
+          "Use the bike paths along the Adige for longer stretches.",
+          "A lock is essential whenever you leave your bike unattended.",
+          "Watch out for the cobblestones in some of the narrow alleys."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 85.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Arena di Verona",
+          "coords": [
+            45.4391,
+            10.9944
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Arena für direkten Zugang.",
+            "hu": "Parkoljon az Arena parkolóházban a közvetlen kijárathoz.",
+            "ro": "Parcați în parcarea Arena pentru acces direct.",
+            "en": "Park in the Arena parking garage for direct access."
+          }
+        },
+        {
+          "name": "Sirmione (Gardasee)",
+          "coords": [
+            45.4925,
+            10.6081
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 38.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Grotte di Catullo am Ende der Halbinsel.",
+            "hu": "Látogassa meg a Grotte di Catullót a félsziget végén.",
+            "ro": "Vizitați Grotte di Catullo la capătul peninsulei.",
+            "en": "Visit the Grotte di Catullo at the end of the peninsula."
+          }
+        },
+        {
+          "name": "Peschiera del Garda",
+          "coords": [
+            45.4385,
+            10.6942
+          ],
+          "category": "historical",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die venezianischen Festungsmauern (UNESCO).",
+            "hu": "Csodálja meg a velencei erődrendszert (UNESCO világörökség).",
+            "ro": "Admirați zidurile cetății venețiene (UNESCO).",
+            "en": "Admire the Venetian fortress walls (UNESCO heritage)."
+          }
+        },
+        {
+          "name": "Borghetto sul Mincio",
+          "coords": [
+            45.3585,
+            10.7225
+          ],
+          "category": "historical",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Eines der schönsten Dörfer Italiens mit Wassermühlen.",
+            "hu": "Olaszország egyik legszebb faluja vízimalmokkal.",
+            "ro": "Unul dintre cele mai frumoase sate din Italia, cu mori de apă.",
+            "en": "One of Italy's most beautiful villages with water mills."
+          }
+        },
+        {
+          "name": "Verona (Piazza Bra)",
+          "coords": [
+            45.4382,
+            10.9925
+          ],
+          "category": "square",
+          "arrive_at": "17:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 28.0,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Abschiedsgetränk im Abendlicht.",
+            "hu": "Igyon egy búcsúitalt az esti fényekben.",
+            "ro": "Savurați o băutură de adio în lumina serii.",
+            "en": "Enjoy a farewell drink in the evening light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto kombinieren Sie Verona mit den Wundern des Gardasees. Nach einem morgendlichen Besuch der Arena verlassen Sie die Stadt Richtung Westen.\n\nSirmione erwartet Sie mit seiner charmanten Altstadt und den römischen Ruinen direkt am blauen Wasser des Sees. Genießen Sie hier ein ausgiebiges Mittagessen.\n\nAuf dem Rückweg halten Sie in Peschiera, um die UNESCO-Festung zu sehen, und besuchen das malerische Mühlendorf Borghetto.\n\nDer Tag endet wieder im Herzen von Verona, wo Sie die Erlebnisse bei einem Glas Wein Revue passieren lassen.",
+        "hu": "Autóval kombinálhatja Veronát a Garda-tó csodáival. Az Aréna reggeli meglátogatása után hagyja el a várost nyugat felé.\n\nSirmione várja önt bájos óvárosával és római romjaival közvetlenül a tó kék vize mellett. Itt élvezzen ki egy bőséges ebédet.\n\nVisszafelé álljon meg Peschierában, hogy megnézze az UNESCO erődöt, és látogassa meg a festői Borghetto malomfalut.\n\nA nap ismét Verona szívében ér véget, ahol egy pohár bor mellett idézheti fel az élményeket.",
+        "ro": "Cu mașina puteți combina Verona cu minunile Lacului Garda. După o vizită matinală la Arenă, părăsiți orașul spre vest.\n\nSirmione vă așteaptă cu centrul său vechi fermecător și ruinele romane chiar lângă apa albastră a lacului. Savurați aici un prânz prelungit.\n\nLa întoarcere, opriți-vă în Peschiera pentru a vedea cetatea UNESCO și vizitați satul pitoresc Borghetto.\n\nZiua se încheie din nou în inima Veronei, unde puteți rememora experiențele la un pahar de vin.",
+        "en": "By car, you can combine Verona with the wonders of Lake Garda. After a morning visit to the Arena, leave the city heading west.\n\nSirmione awaits you with its charming old town and Roman ruins right by the blue waters of the lake. Enjoy a long lunch here.\n\nOn the way back, stop in Peschiera to see the UNESCO fortress and visit the picturesque mill village of Borghetto.\n\nThe day ends back in the heart of Verona, where you can review the day's highlights over a glass of wine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tortellini di Valeggio",
+            "tip": "Hauchdünne Teigtaschen, auch 'Liebesknoten' genannt."
+          },
+          {
+            "name": "Lavarello",
+            "tip": "Frisch gefangener Felchen aus dem Gardasee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tortellini di Valeggio",
+            "tip": "Hajszálvékony tésztabatyuk, más néven 'szerelemcsomók'."
+          },
+          {
+            "name": "Lavarello",
+            "tip": "Frissen fogott maréna a Garda-tóból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tortellini di Valeggio",
+            "tip": "Paste foarte subțiri, numite și 'noduri de dragoste'."
+          },
+          {
+            "name": "Lavarello",
+            "tip": "Pește proaspăt pescuit din Lacul Garda."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tortellini di Valeggio",
+            "tip": "Paper-thin pasta parcels, also known as 'love knots'."
+          },
+          {
+            "name": "Lavarello",
+            "tip": "Freshly caught whitefish from Lake Garda."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Grotte di Catullo",
+            "tip": "Ruhige Olivenhaine am Seeufer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Borghetto Mincio",
+            "tip": "Sanftes Rauschen des Wassers an den Mühlen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grotte di Catullo",
+            "tip": "Csendes olajfaligetek a tóparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Borghetto Mincio",
+            "tip": "A víz lágy csobogása a malmoknál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grotte di Catullo",
+            "tip": "Livezi de măslini liniștite pe malul lacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Borghetto Mincio",
+            "tip": "Susurul apei lângă morile vechi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grotte di Catullo",
+            "tip": "Quiet olive groves on the lakeshore.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Borghetto Mincio",
+            "tip": "Gentle sound of rushing water at the mills.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl vom Gardasee",
+            "tip": "Sehr mildes und hochwertiges DOP Öl."
+          },
+          {
+            "name": "Lugana Wein",
+            "tip": "Frischer Weißwein direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Garda-tavi olívaolaj",
+            "tip": "Nagyon lágy és kiváló minőségű DOP olaj."
+          },
+          {
+            "name": "Lugana bor",
+            "tip": "Friss fehérbor közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline de Garda",
+            "tip": "Ulei DOP foarte fin și de înaltă calitate."
+          },
+          {
+            "name": "Vin Lugana",
+            "tip": "Vin alb proaspăt direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Garda Olive Oil",
+            "tip": "Very mild and high-quality DOP oil."
+          },
+          {
+            "name": "Lugana Wine",
+            "tip": "Fresh white wine directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die ZTL (begrenzte Verkehrszonen) in Verona und Sirmione.",
+          "Parkplätze in Sirmione sind im Sommer knapp, kommen Sie früh.",
+          "Die Autobahn A4 ist oft stauanfällig, planen Sie Zeit ein.",
+          "Tanken Sie abseits der Haupttouristenorte für bessere Preise."
+        ],
+        "hu": [
+          "Ügyeljen a ZTL-re (korlátozott forgalmi övezetek) Veronában és Sirmionéban.",
+          "Sirmionéban nyáron kevés a parkolóhely, érkezzen korán.",
+          "Az A4-es autópályán gyakoriak a dugók, tervezzen extra időt.",
+          "A főbb turistaközpontoktól távolabb tankoljon a jobb árakért."
+        ],
+        "ro": [
+          "Atenție la zonele ZTL (trafic limitat) în Verona și Sirmione.",
+          "Locurile de parcare în Sirmione sunt puține vara, veniți devreme.",
+          "Autostrada A4 este adesea aglomerată, rezervați-vă timp.",
+          "Alimentați departe de principalele zone turistice pentru prețuri mai bune."
+        ],
+        "en": [
+          "Watch out for ZTL (Limited Traffic Zones) in Verona and Sirmione.",
+          "Parking in Sirmione is scarce in summer; arrive early.",
+          "The A4 motorway is often congested; plan extra time.",
+          "Refuel away from main tourist hubs for better prices."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Stazione Verona Porta Nuova",
+          "coords": [
+            45.4285,
+            10.9825
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Hauptknotenpunkt für alle Buslinien.",
+            "hu": "A városi buszjáratok központi csomópontja.",
+            "ro": "Principalul nod pentru toate liniile de autobuz.",
+            "en": "The main hub for all local bus lines."
+          }
+        },
+        {
+          "name": "Piazza Bra (Arena)",
+          "coords": [
+            45.4382,
+            10.9925
+          ],
+          "category": "square",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fast alle Stadtbusse halten hier.",
+            "hu": "Szinte minden városi busz megáll itt.",
+            "ro": "Aproape toate autobuzele urbane opresc aici.",
+            "en": "Almost all city buses stop here."
+          }
+        },
+        {
+          "name": "Castel San Pietro (Funicolare)",
+          "coords": [
+            45.4485,
+            11.0015
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Seilbahn für den Aufstieg.",
+            "hu": "Használja a siklót a feljutáshoz.",
+            "ro": "Luați funicularul pentru a urca.",
+            "en": "Take the funicular for the ascent."
+          }
+        },
+        {
+          "name": "Duomo di Verona",
+          "coords": [
+            45.4475,
+            10.9995
+          ],
+          "category": "religious",
+          "arrive_at": "12:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtigen Fresken im Inneren.",
+            "hu": "Csodálja meg a belső tér pompás freskóit.",
+            "ro": "Admirați frescele superbe din interior.",
+            "en": "Admire the magnificent frescoes inside."
+          }
+        },
+        {
+          "name": "Piazza delle Erbe",
+          "coords": [
+            45.4421,
+            10.9972
+          ],
+          "category": "square",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler Ort für einen späten Lunch.",
+            "hu": "Központi helyszín egy késői ebédhez.",
+            "ro": "Locație centrală pentru un prânz târziu.",
+            "en": "Central spot for a late lunch."
+          }
+        },
+        {
+          "name": "Castelvecchio",
+          "coords": [
+            45.4402,
+            10.9877
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurze Busfahrt zurück Richtung Bahnhof.",
+            "hu": "Rövid buszozás vissza a vasútállomás irányába.",
+            "ro": "Scurtă călătorie cu autobuzul înapoi spre gară.",
+            "en": "Short bus ride back towards the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erreichen Sie auch die höher gelegenen Punkte Veronas mühelos. Starten Sie am Bahnhof und fahren Sie direkt zur Arena.\n\nEin Highlight ist die Fahrt mit der Funicolare zum Castel San Pietro, von wo aus Sie den spektakulärsten Blick auf die Stadt und die Etschschleife haben.\n\nNach dem Besuch des Doms bringt Sie der Bus zurück ins Herz der Altstadt zur Piazza delle Erbe.\n\nDen Nachmittag verbringen Sie in der Festung Castelvecchio, bevor Sie bequem mit dem Stadtbus wieder zum Ausgangspunkt zurückkehren.",
+        "hu": "A tömegközlekedéssel Verona magasabban fekvő pontjait is könnyedén elérheti. Induljon a pályaudvarról, és utazzon közvetlenül az Arénához.\n\nKiemelt élmény a siklóval való feljutás a Castel San Pietro-hoz, ahonnan a leglátványosabb kilátás nyílik a városra és az Adige kanyarulatára.\n\nA Dóm meglátogatása után a busz visszaviszi az óváros szívébe, a Piazza delle Erbe térre.\n\nA délutánt a Castelvecchio erődben töltheti, mielőtt kényelmesen visszabuszozna a kiindulópontra.",
+        "ro": "Cu transportul public puteți ajunge fără efort chiar și în punctele mai înalte ale Veronei. Porniți de la gară și mergeți direct spre Arenă.\n\nUn punct culminant este călătoria cu funicularul spre Castel San Pietro, de unde aveți cea mai spectaculoasă vedere asupra orașului și a râului Adige.\n\nDupă vizitarea Domului, autobuzul vă duce înapoi în inima centrului vechi, în Piazza delle Erbe.\n\nPetreceți după-amiaza în cetatea Castelvecchio, înainte de a vă întoarce confortabil cu autobuzul urban la punctul de plecare.",
+        "en": "By public transport, you can effortlessly reach Verona's higher viewpoints. Start at the station and take a bus directly to the Arena.\n\nA highlight is the funicular ride up to Castel San Pietro, offering the most spectacular view of the city and the Adige river bend.\n\nAfter visiting the Cathedral, the bus brings you back to the heart of the old town at Piazza delle Erbe.\n\nSpend the afternoon at the Castelvecchio fortress before taking a convenient city bus back to your starting point."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bigoli con l'Anatra",
+            "tip": "Dicke Nudeln mit Entenragout, sehr sättigend."
+          },
+          {
+            "name": "Gnocchi di Patate",
+            "tip": "Traditionell am Karnevalsfreitag gegessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bigoli con l'Anatra",
+            "tip": "Vastag tészta kacsahússal, nagyon laktató étel."
+          },
+          {
+            "name": "Gnocchi di Patate",
+            "tip": "Hagyományosan karnevál péntekén fogyasztják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bigoli con l'Anatra",
+            "tip": "Paste groase cu ragu de rață, foarte consistente."
+          },
+          {
+            "name": "Gnocchi di Patate",
+            "tip": "Consumați tradițional în vinerea Carnavalului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bigoli con l'Anatra",
+            "tip": "Thick pasta with duck ragu, very filling."
+          },
+          {
+            "name": "Gnocchi di Patate",
+            "tip": "Traditionally eaten on the Friday of Carnival."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Krypta der Kathedrale",
+            "tip": "Stille und spirituelle Atmosphäre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Uferpromenade San Biagio",
+            "tip": "Ruhiger Weg entlang der Etsch.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A székesegyház kriptája",
+            "tip": "Csendes és spirituális légkör.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "San Biagio rakpart",
+            "tip": "Nyugodt sétány az Adige mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cripta Catedralei",
+            "tip": "Atmosferă liniștită și spirituală.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Promenada San Biagio",
+            "tip": "Traseu liniștit pe malul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Crypt",
+            "tip": "Quiet and spiritual atmosphere.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "San Biagio Riverwalk",
+            "tip": "Quiet path along the Adige river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "ATV Point",
+            "tip": "Hier erhalten Sie alle Tickets und Infos zum Nahverkehr."
+          },
+          {
+            "name": "Stradone Porta Palio",
+            "tip": "Weniger touristische Läden und Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "ATV Point",
+            "tip": "Itt beszerezhet minden jegyet és infót a közlekedéshez."
+          },
+          {
+            "name": "Stradone Porta Palio",
+            "tip": "Kevésbé turisztikai boltok és kávézók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "ATV Point",
+            "tip": "Aici găsiți toate biletele și informațiile despre transport."
+          },
+          {
+            "name": "Stradone Porta Palio",
+            "tip": "Magazine și cafenele mai puțin turistice."
+          }
+        ],
+        "en": [
+          {
+            "name": "ATV Point",
+            "tip": "Get all your tickets and transit info here."
+          },
+          {
+            "name": "Stradone Porta Palio",
+            "tip": "Less touristy shops and local cafes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets vorab am Kiosk oder über die App.",
+          "Die Linien 11, 12 und 13 verbinden den Bahnhof mit dem Zentrum.",
+          "Achten Sie auf die Anzeigen in den Bussen für die nächste Haltestelle.",
+          "Am Sonntag fahren die Busse seltener, prüfen Sie den Fahrplan."
+        ],
+        "hu": [
+          "Vásároljon buszjegyet előre az újságosnál vagy az applikációban.",
+          "A 11-es, 12-es és 13-as járatok kötik össze a várost a pályaudvarral.",
+          "Figyelje a kijelzőt a buszon a következő megállóhoz.",
+          "Vasárnap ritkábban járnak a buszok, ellenőrizze a menetrendet."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz în avans de la chioșcuri sau prin aplicație.",
+          "Liniile 11, 12 și 13 leagă gara de centru.",
+          "Urmăriți afișajele din autobuz pentru următoarea stație.",
+          "Duminica autobuzele circulă mai rar, verificați orarul."
+        ],
+        "en": [
+          "Buy bus tickets in advance at newsstands or via the app.",
+          "Lines 11, 12, and 13 connect the station with the center.",
+          "Watch the displays inside the buses for the next stop.",
+          "Buses run less frequently on Sundays; check the timetable."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-34",
+    "coords": [
+      10.9916,
+      45.4384
+    ],
+    "transit_official": "https://www.atv.verona.it/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Verona-2615",
+    "bike_share": null,
+    "city_card": "https://www.veronacard.it/",
+    "events": "https://www.arena.it/calendario",
+    "tourism_office": "https://www.visitverona.it/",
+    "webcam": "https://www.skylinewebcams.com/it/webcam/italia/veneto/verona/piazza-bra.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/verona-c103877",
+    "museum_tickets": "https://www.arena.it/",
+    "parking_real_time": "https://www.amt.it/parcheggi/",
+    "language_tips": {
+      "de": "Venetischer Dialekt im Alltag; Hochitalienisch ueberall verstaendlich.",
+      "hu": "A helyiek velencei dialektusban beszelnek, de az olasz mindenutt ert.",
+      "ro": "Localnicii folosesc dialectul venet, dar italiana standard e inteleasa peste tot.",
+      "en": "Venetian dialect in daily life but standard Italian understood everywhere."
+    },
+    "best_time_to_visit": {
+      "de": "April-Juni und September-Oktober; Opernsaison Juni-September in der Arena.",
+      "hu": "Aprilis-junius es szeptember-oktober; opera-szezon junius-szeptember az Arenaban.",
+      "ro": "Aprilie-iunie si septembrie-octombrie; stagiunea de opera iunie-septembrie la Arena.",
+      "en": "April-June and September-October; opera season runs June-September at the Arena."
+    },
+    "neighborhood_warnings": {
+      "de": "Bahnhof Porta Nuova nachts meiden; Etsch-Hochwasser im Fruehjahr moeglich.",
+      "hu": "Porta Nuova palyaudvar ejszaka kerulendo; tavasszal Adige aradas lehetseges.",
+      "ro": "Evitati gara Porta Nuova noaptea; primavara posibile inundatii pe raul Adige.",
+      "en": "Avoid Porta Nuova station at night; Adige river flooding possible in spring."
+    }
+  }
+}

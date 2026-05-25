@@ -1,0 +1,1129 @@
+{
+  "city_id": "modena",
+  "anchor": {
+    "name": "Modena City Center",
+    "coords": [
+      10.9252,
+      44.6471
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Grande",
+            "hu": "Piazza Grande",
+            "ro": "Piazza Grande",
+            "en": "Piazza Grande"
+          },
+          "coords": [
+            10.9258,
+            44.6469
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe im Herzen der Stadt.",
+            "hu": "UNESCO Világörökségi helyszín a város szívében.",
+            "ro": "Sit din patrimoniul mondial UNESCO în inima orașului.",
+            "en": "UNESCO World Heritage site in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di Santa Maria Assunta (Duomo)",
+            "hu": "Modenai dóm",
+            "ro": "Catedrala din Modena",
+            "en": "Modena Cathedral"
+          },
+          "coords": [
+            10.9255,
+            44.6467
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der Romanik.",
+            "hu": "A román stílusú építészet mesterműve.",
+            "ro": "O capodoperă a stilului romanic.",
+            "en": "A masterpiece of Romanesque architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Ghirlandina",
+            "hu": "Ghirlandina-torony",
+            "ro": "Turnul Ghirlandina",
+            "en": "Ghirlandina Tower"
+          },
+          "coords": [
+            10.9261,
+            44.6472
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Wahrzeichen mit fantastischer Aussicht.",
+            "hu": "A város jelképe fantasztikus kilátással.",
+            "ro": "Simbolul orașului cu o vedere fantastică.",
+            "en": "The symbol of the city with a fantastic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercato Albinelli",
+            "hu": "Albinelli piac",
+            "ro": "Piața Albinelli",
+            "en": "Albinelli Market"
+          },
+          "coords": [
+            10.9242,
+            44.6455
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Halle im Jugendstil für Feinschmecker.",
+            "hu": "Szecessziós csarnok az ínyenceknek.",
+            "ro": "Hală în stil Art Nouveau pentru gurmanzi.",
+            "en": "Art Nouveau hall for foodies."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Ducale di Modena",
+            "hu": "Modenai hercegi palota",
+            "ro": "Palatul Ducal din Modena",
+            "en": "Ducal Palace of Modena"
+          },
+          "coords": [
+            10.9295,
+            44.6482
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Sitz der Militärakademie.",
+            "hu": "A Katonai Akadémia székhelye.",
+            "ro": "Sediul Academiei Militare.",
+            "en": "Home of the Military Academy."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Giardino Ducale Estense",
+            "hu": "Hercegi kert",
+            "ro": "Parcul Ducal Estense",
+            "en": "Ducal Estense Garden"
+          },
+          "coords": [
+            10.9325,
+            44.6505
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Elegante Parkanlage im englischen Stil.",
+            "hu": "Elegáns angolkert stílusú park.",
+            "ro": "Parc elegant în stil englezesc.",
+            "en": "Elegant English-style park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Modena besticht durch seine kompakte Altstadt. Beginnen Sie auf der Piazza Grande, dem UNESCO-geschützten Kern. Bestaunen Sie den romanischen Dom und besteigen Sie die Ghirlandina. Mittags tauchen Sie in die Aromen des Mercato Albinelli ein. Nach dem Besuch des prächtigen Palazzo Ducale genießen Sie die Ruhe im Estense-Garten, bevor Sie den Tag in einer traditionellen Osteria beenden.",
+        "hu": "Modena lenyűgözi látogatóit kompakt óvárosával. Kezdjen a Piazza Grande-n, az UNESCO védelme alatt álló magban. Csodálja meg a román stílusú Dómot, és másszon fel a Ghirlandina-toronyba. Délben merüljön el az Albinelli piac illataiban. A pompás hercegi palota megtekintése után élvezze a nyugalmat az Estense-kertben, majd zárja a napot egy tradicionális ostériában.",
+        "ro": "Modena impresionează prin centrul său istoric compact. Începeți în Piazza Grande, nucleul protejat de UNESCO. Admirați Domul romanic și urcați în Turnul Ghirlandina. La prânz, lăsați-vă purtați de aromele Pieței Albinelli. După vizitarea magnificului Palat Ducal, bucurați-vă de liniște în Grădina Estense, înainte de a încheia ziua într-o osteria tradițională.",
+        "en": "Modena charms with its compact old town. Start in Piazza Grande, the UNESCO-protected core. Marvel at the Romanesque Cathedral and climb the Ghirlandina tower. At midday, immerse yourself in the aromas of the Albinelli Market. After visiting the grand Ducal Palace, enjoy the peace of the Estense Garden before ending the day in a traditional osteria."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Aceto Balsamico Tradizionale",
+            "tip": "Das schwarze Gold von Modena."
+          },
+          {
+            "name": "Tortellini in Brodo",
+            "tip": "Die Wiege der Tortellini."
+          },
+          {
+            "name": "Gnocco Fritto e Tigelle",
+            "tip": "Typische Begleiter zu Wurst und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aceto Balsamico Tradizionale",
+            "tip": "Modena fekete aranya."
+          },
+          {
+            "name": "Tortellini in Brodo",
+            "tip": "A tortellini bölcsője."
+          },
+          {
+            "name": "Gnocco Fritto és Tigelle",
+            "tip": "Tipikus kísérők felvágottakhoz és sajtokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aceto Balsamico Tradizionale",
+            "tip": "Aurul negru din Modena."
+          },
+          {
+            "name": "Tortellini in Brodo",
+            "tip": "Leagănul tortellini-ului."
+          },
+          {
+            "name": "Gnocco Fritto și Tigelle",
+            "tip": "Acompaniamente tipice pentru mezeluri și brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aceto Balsamico Tradizionale",
+            "tip": "The black gold of Modena."
+          },
+          {
+            "name": "Tortellini in Brodo",
+            "tip": "The cradle of tortellini."
+          },
+          {
+            "name": "Gnocco Fritto and Tigelle",
+            "tip": "Typical accompaniments for cold cuts and cheeses."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Palazzina Vigarani",
+            "tip": "Ruhiger Blick im herzoglichen Garten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Abbazia di San Pietro",
+            "tip": "Stille Kontemplation in der Kirche.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palazzina Vigarani",
+            "tip": "Csendes kilátás a hercegi kertben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Szt. Péter apátság",
+            "tip": "Csendes elmélyülés a templomban.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Palazzina Vigarani",
+            "tip": "Vedere liniștită în grădina ducală.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Abbazia di San Pietro",
+            "tip": "Contemplare liniștită în biserică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Palazzina Vigarani",
+            "tip": "Quiet view in the ducal garden.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Abbazia di San Pietro",
+            "tip": "Silent contemplation in the church.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Emilia Centro",
+            "tip": "Elegante Geschäfte unter Arkaden."
+          },
+          {
+            "name": "Balsamico-Essigläden",
+            "tip": "Verkostung und Kauf von lokalem Balsamico."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Emilia Centro",
+            "tip": "Elegáns üzletek az árkádok alatt."
+          },
+          {
+            "name": "Balsamecet szaküzletek",
+            "tip": "Kóstolás és vásárlás helyi termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Emilia Centro",
+            "tip": "Magazine elegante sub arcade."
+          },
+          {
+            "name": "Magazine de oțet balsamic",
+            "tip": "Degustare și cumpărare de balsamico local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Emilia Centro",
+            "tip": "Elegant shops under the arcades."
+          },
+          {
+            "name": "Balsamic vinegar shops",
+            "tip": "Tasting and buying local balsamic vinegar."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist klein und lässt sich wunderbar zu Fuß erkunden.",
+          "Der Mercato Albinelli schließt meist gegen 14 Uhr.",
+          "Kleiden Sie sich angemessen für den Besuch des Doms.",
+          "Nutzen Sie die Arkaden als Sonnenschutz im Sommer.",
+          "Probieren Sie Lambrusco – den typischen Rotwein der Region."
+        ],
+        "hu": [
+          "Az óváros kicsi, kiválóan bejárható gyalog.",
+          "Az Albinelli piac általában délután 2 óra körül bezár.",
+          "A Dóm látogatásához öltözzön illendően.",
+          "Használja az árkádokat árnyékként a nyári melegben.",
+          "Kóstolja meg a Lambruscót, a régió tipikus vörösborát."
+        ],
+        "ro": [
+          "Centrul istoric este mic și se poate explora minunat la pas.",
+          "Piața Albinelli se închide de obicei în jurul orei 14:00.",
+          "Îmbrăcați-vă adecvat pentru vizitarea Domului.",
+          "Folosiți arcadele ca protecție solară în timpul verii.",
+          "Gustați Lambrusco – vinul roșu tipic al regiunii."
+        ],
+        "en": [
+          "The old town is small and can be explored wonderfully on foot.",
+          "Albinelli Market usually closes around 2 PM.",
+          "Dress appropriately for visiting the Cathedral.",
+          "Use the arcades for shade during the summer.",
+          "Try Lambrusco – the region's typical red wine."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Enzo Ferrari",
+            "hu": "Enzo Ferrari múzeum",
+            "ro": "Muzeul Enzo Ferrari",
+            "en": "Enzo Ferrari Museum"
+          },
+          "coords": [
+            10.9365,
+            44.6521
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein Muss für Fans der gelben Marke.",
+            "hu": "Kihagyhatatlan a sárga márka rajongóinak.",
+            "ro": "Obligatoriu pentru fanii mărcii galbene.",
+            "en": "A must-see for fans of the yellow brand."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Ghirlandina",
+            "hu": "Ghirlandina-torony",
+            "ro": "Turnul Ghirlandina",
+            "en": "Ghirlandina Tower"
+          },
+          "coords": [
+            10.9261,
+            44.6472
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bequemes Radeln in der Fußgängerzone.",
+            "hu": "Kényelmes kerekezés a sétálóövezetben.",
+            "ro": "Pedalat confortabil în zona pietonală.",
+            "en": "Comfortable cycling in the pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Grande",
+            "hu": "Piazza Grande",
+            "ro": "Piazza Grande",
+            "en": "Piazza Grande"
+          },
+          "coords": [
+            10.9258,
+            44.6469
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Sicherer Fahrradständer vorhanden.",
+            "hu": "Biztonságos biciklitárolók a közelben.",
+            "ro": "Rastel de biciclete sigur disponibil.",
+            "en": "Safe bike racks available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Galleria Estense",
+            "hu": "Galleria Estense",
+            "ro": "Galleria Estense",
+            "en": "Galleria Estense"
+          },
+          "coords": [
+            10.9225,
+            44.6485
+          ],
+          "category": "museums",
+          "arrive_at": "13:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bedeutende Kunstsammlung der Herzöge.",
+            "hu": "A hercegek jelentős művészeti gyűjteménye.",
+            "ro": "Colecție importantă de artă a ducilor.",
+            "en": "Important art collection of the dukes."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Giardino Ducale Estense",
+            "hu": "Hercegi kert",
+            "ro": "Parcul Ducal Estense",
+            "en": "Ducal Estense Garden"
+          },
+          "coords": [
+            10.9325,
+            44.6505
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schöne Radwege durch das Grüne.",
+            "hu": "Szép kerékpárutak a zöldben.",
+            "ro": "Piste frumoase de biciclete prin verdeață.",
+            "en": "Beautiful cycling paths through the greenery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Modena dynamisch mit dem Rad. Beginnen Sie beim hochmodernen Enzo Ferrari Museum und radeln Sie dann gemütlich ins historische Zentrum zur Ghirlandina. Mit dem Fahrrad erreichen Sie problemlos die Galleria Estense und können den Nachmittag entspannt im weitläufigen herzoglichen Garten verbringen, wo Radfahrer willkommen sind.",
+        "hu": "Fedezze fel Modenát dinamikusan: kerékpárral. Kezdjen a ultramodern Enzo Ferrari múzeumnál, majd kerekezzen be kényelmesen a történelmi központba, a Ghirlandina-toronyhoz. Biciklivel könnyedén elérheti a Galleria Estense-t, a délutánt pedig töltse pihenéssel a tágas hercegi kertben, ahol a kerékpárosokat is szívesen látják.",
+        "ro": "Explorați Modena în mod dinamic: cu bicicleta. Începeți la ultramodernul Muzeu Enzo Ferrari, apoi pedalați relaxat spre centrul istoric, la Turnul Ghirlandina. Cu bicicleta puteți ajunge ușor la Galleria Estense, iar după-amiaza o puteți petrece relaxându-vă în spațioasa grădină ducală, unde bicicliștii sunt bineveniți.",
+        "en": "Explore Modena dynamically: by bike. Start at the ultra-modern Enzo Ferrari Museum, then cycle comfortably into the historic center to the Ghirlandina tower. With a bike, you can easily reach the Galleria Estense and spend the afternoon relaxing in the spacious Ducal Garden, where cyclists are welcome."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cotechino di Modena",
+            "tip": "Herzhafte Wurstspezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cotechino di Modena",
+            "tip": "Kiadós helyi kolbászkülönlegesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cotechino di Modena",
+            "tip": "Specialitate de cârnat consistentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cotechino di Modena",
+            "tip": "Hearty local sausage specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco Novi Sad",
+            "tip": "Großes Areal für entspanntes Radeln.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco Novi Sad",
+            "tip": "Nagy terület a nyugodt kerekezéshez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco Novi Sad",
+            "tip": "Zonă mare pentru pedalat relaxat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco Novi Sad",
+            "tip": "Large area for relaxed cycling.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Modena Shop",
+            "tip": "Lokale Produkte und Ferrari-Merchandising."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Modena Shop",
+            "tip": "Helyi termékek és Ferrari relikviák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Modena Shop",
+            "tip": "Produse locale și suveniruri Ferrari."
+          }
+        ],
+        "en": [
+          {
+            "name": "Modena Shop",
+            "tip": "Local products and Ferrari merchandising."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den Fahrradverleih 'C'entro in bici'.",
+          "Radfahren ist in der gesamten Innenstadt erlaubt.",
+          "Die Stadt ist flach und sehr radfahrerfreundlich.",
+          "Achten Sie auf Fußgänger in den engen Gassen.",
+          "Parken Sie Ihr Rad nur an dafür vorgesehenen Plätzen."
+        ],
+        "hu": [
+          "Használja a 'C'entro in bici' kerékpárkölcsönzőt.",
+          "A kerékpározás az egész belvárosban megengedett.",
+          "A város sík és nagyon biciklisbarát.",
+          "Figyeljen a gyalogosokra a szűk utcákban.",
+          "Csak a kijelölt helyeken parkolja le a kerékpárt."
+        ],
+        "ro": [
+          "Folosiți serviciul de închiriere de biciclete 'C'entro in bici'.",
+          "Mersul pe bicicletă este permis în tot centrul orașului.",
+          "Orașul este plat și foarte prietenos cu bicicliștii.",
+          "Fiți atenți la pietoni pe străzile înguste.",
+          "Parcați bicicleta doar în locurile special amenajate."
+        ],
+        "en": [
+          "Use the 'C'entro in bici' bike rental service.",
+          "Cycling is permitted throughout the entire city center.",
+          "The city is flat and very bike-friendly.",
+          "Watch out for pedestrians in the narrow streets.",
+          "Only park your bike in designated areas."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 28.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Maranello - Museo Ferrari",
+            "hu": "Maranello - Ferrari múzeum",
+            "ro": "Maranello - Muzeul Ferrari",
+            "en": "Maranello - Ferrari Museum"
+          },
+          "coords": [
+            10.8655,
+            44.5295
+          ],
+          "category": "museums",
+          "arrive_at": "09:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Die Heimat der Scuderia Ferrari.",
+            "hu": "A Scuderia Ferrari otthona.",
+            "ro": "Casa echipei Scuderia Ferrari.",
+            "en": "The home of Scuderia Ferrari."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Grande",
+            "hu": "Piazza Grande",
+            "ro": "Piazza Grande",
+            "en": "Piazza Grande"
+          },
+          "coords": [
+            10.9258,
+            44.6469
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Parkhaus 'Parcheggio del Centro' nutzen.",
+            "hu": "Használja a 'Parcheggio del Centro' parkolót.",
+            "ro": "Folosiți parcarea 'Parcheggio del Centro'.",
+            "en": "Use the 'Parcheggio del Centro' parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di Modena",
+            "hu": "Modenai dóm",
+            "ro": "Catedrala din Modena",
+            "en": "Modena Cathedral"
+          },
+          "coords": [
+            10.9255,
+            44.6467
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": " UNESCO-Kulturdenkmal.",
+            "hu": "UNESCO kulturális emlékhely.",
+            "ro": "Monument cultural UNESCO.",
+            "en": "UNESCO cultural monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Enzo Ferrari",
+            "hu": "Enzo Ferrari múzeum",
+            "ro": "Muzeul Enzo Ferrari",
+            "en": "Enzo Ferrari Museum"
+          },
+          "coords": [
+            10.9365,
+            44.6521
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuch des Geburtshauses von Enzo.",
+            "hu": "Enzo szülőházának meglátogatása.",
+            "ro": "Vizitați casa natală a lui Enzo.",
+            "en": "Visit Enzo's birthplace."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Giardino Ducale Estense",
+            "hu": "Hercegi kert",
+            "ro": "Parcul Ducal Estense",
+            "en": "Ducal Estense Garden"
+          },
+          "coords": [
+            10.9325,
+            44.6505
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurze Pause vor der Abfahrt.",
+            "hu": "Rövid szünet az elindulás előtt.",
+            "ro": "Scurtă pauză înainte de plecare.",
+            "en": "Short break before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto erlaubt Ihnen einen Ausflug nach Maranello, dem Herz von Ferrari. Danach kehren Sie nach Modena zurück und parken im Zentrum. Erkunden Sie die Piazza Grande und den beeindruckenden Dom. Ein Besuch des Enzo Ferrari Museums in Modena rundet das automobile Thema ab, bevor Sie den Tag entspannt im herzoglichen Garten ausklingen lassen.",
+        "hu": "Az autó lehetővé teszi a kirándulást Maranellóba, a Ferrari szívébe. Ezután térjen vissza Modenába, és parkoljon a belvárosban. Fedezze fel a Piazza Grandét és a lenyűgöző Dómot. A modenai Enzo Ferrari múzeum meglátogatása teljessé teszi az autós témát, majd a napot töltse pihenéssel a hercegi kertben.",
+        "ro": "Mașina vă permite o excursie la Maranello, inima Ferrari. Apoi reveniți la Modena și parcați în centru. Explorați Piazza Grande și impresionantul Dom. O vizită la Muzeul Enzo Ferrari din Modena completează tema automobilistică, înainte de a încheia ziua relaxându-vă în grădina ducală.",
+        "en": "A car allows you to take a trip to Maranello, the heart of Ferrari. Then return to Modena and park in the center. Explore Piazza Grande and the impressive Cathedral. A visit to the Enzo Ferrari Museum in Modena rounds out the automotive theme before ending the day relaxing in the Ducal Garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zampone di Modena",
+            "tip": "Gefüllter Schweinefuß (Spezialität)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zampone di Modena",
+            "tip": "Töltött sertésköröm (különlegesség)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zampone di Modena",
+            "tip": "Picior de porc umplut (specialitate)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zampone di Modena",
+            "tip": "Stuffed pig's trotter (specialty)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinberge um Maranello",
+            "tip": "Schöne Aussichten während der Fahrt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maranello környéki szőlők",
+            "tip": "Szép kilátás útközben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podgoriile din jurul Maranello",
+            "tip": "Vederi frumoase în timpul drumului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vineyards around Maranello",
+            "tip": "Beautiful views during the drive.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ferrari Store Maranello",
+            "tip": "Alles rund um den Rennstall."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ferrari Store Maranello",
+            "tip": "Minden, ami az istállóval kapcsolatos."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ferrari Store Maranello",
+            "tip": "Totul despre echipa de curse."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ferrari Store Maranello",
+            "tip": "Everything related to the racing team."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achtung: Modena Zentrum ist ZTL (begrenzter Verkehr).",
+          "Nutzen Sie die Tiefgarage 'Novi Park'.",
+          "Maranello ist etwa 20-30 Minuten entfernt.",
+          "Blaue Linien bedeuten gebührenpflichtiges Parken.",
+          "Ein Auto ist perfekt, um Balsamico-Produzenten (Acetaia) zu besuchen."
+        ],
+        "hu": [
+          "Figyelem: Modena belvárosa ZTL (korlátozott forgalmú).",
+          "Használja a 'Novi Park' mélygarázst.",
+          "Maranello kb. 20-30 percre van.",
+          "A kék vonalak fizetős parkolást jelentenek.",
+          "Az autó tökéletes a környékbeli balzsamecet-termelők (Acetaia) felkereséséhez."
+        ],
+        "ro": [
+          "Atenție: Centrul Modenei este ZTL (trafic restricționat).",
+          "Folosiți parcarea subterană 'Novi Park'.",
+          "Maranello se află la aproximativ 20-30 de minute distanță.",
+          "Liniile albastre indică parcare cu plată.",
+          "Mașina este perfectă pentru a vizita producătorii de balsamico (Acetaia)."
+        ],
+        "en": [
+          "Attention: Modena center is a ZTL (restricted traffic zone).",
+          "Use the 'Novi Park' underground garage.",
+          "Maranello is about 20-30 minutes away.",
+          "Blue lines mean paid parking.",
+          "A car is perfect for visiting balsamic vinegar producers (Acetaia)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Modena",
+            "hu": "Modena vasútállomás",
+            "ro": "Gara Modena",
+            "en": "Modena Railway Station"
+          },
+          "coords": [
+            10.9328,
+            44.6548
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ankunft mit dem Zug.",
+            "hu": "Érkezés vonattal.",
+            "ro": "Sosirea cu trenul.",
+            "en": "Arrival by train."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Enzo Ferrari",
+            "hu": "Enzo Ferrari múzeum",
+            "ro": "Muzeul Enzo Ferrari",
+            "en": "Enzo Ferrari Museum"
+          },
+          "coords": [
+            10.9365,
+            44.6521
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur 5 Minuten zu Fuß vom Bahnhof.",
+            "hu": "Csak 5 perc séta az állomástól.",
+            "ro": "La doar 5 minute de mers pe jos de gară.",
+            "en": "Only a 5-minute walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Grande",
+            "hu": "Piazza Grande",
+            "ro": "Piazza Grande",
+            "en": "Piazza Grande"
+          },
+          "coords": [
+            10.9258,
+            44.6469
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Buslinien 7, 11 führen ins Zentrum.",
+            "hu": "A 7, 11-es buszok a központba visznek.",
+            "ro": "Liniile de autobuz 7, 11 duc spre centru.",
+            "en": "Bus lines 7, 11 take you to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di Modena",
+            "hu": "Modenai dóm",
+            "ro": "Catedrala din Modena",
+            "en": "Modena Cathedral"
+          },
+          "coords": [
+            10.9255,
+            44.6467
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zentraler Anlaufpunkt.",
+            "hu": "Központi találkozóhely.",
+            "ro": "Punct central de vizită.",
+            "en": "Central meeting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Comunale Luciano Pavarotti",
+            "hu": "Luciano Pavarotti színház",
+            "ro": "Teatrul Comunal Luciano Pavarotti",
+            "en": "Luciano Pavarotti Municipal Theatre"
+          },
+          "coords": [
+            10.9298,
+            44.6488
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Benannt nach dem berühmten Tenor.",
+            "hu": "A híres tenorról nevezték el.",
+            "ro": "Numit după faimosul tenor.",
+            "en": "Named after the famous tenor."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbazia di San Pietro",
+            "hu": "Szt. Péter apátság",
+            "ro": "Abbazia di San Pietro",
+            "en": "Abbey of San Pietro"
+          },
+          "coords": [
+            10.9325,
+            44.6455
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kurze Busfahrt zurück zum Bahnhof.",
+            "hu": "Rövid buszút vissza az állomásra.",
+            "ro": "Scurtă călătorie cu autobuzul înapoi la gară.",
+            "en": "Short bus ride back to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die bequemen Busverbindungen in Modena. Vom Bahnhof erreichen Sie schnell das Enzo Ferrari Museum. Die Linien ins Zentrum bringen Sie direkt zur Piazza Grande und dem Dom. Besuchen Sie das nach Pavarotti benannte Theater und die Abtei San Pietro. Der öffentliche Verkehr ist eine stressfreie Möglichkeit, die kulturellen Höhepunkte der Stadt zu erleben.",
+        "hu": "Használja ki Modena kényelmes buszjáratatait. A vasútállomástól gyorsan elérheti az Enzo Ferrari múzeumot. A belvárosi járatok közvetlenül a Piazza Grandéhoz és a Dómhoz viszik. Látogassa meg a Pavarottiról elnevezett színházat és a Szt. Péter apátságot. A tömegközlekedés stresszmentes módja a város kulturális fénypontjainak megismeréséhez.",
+        "ro": "Profită de conexiunile confortabile de autobuz din Modena. De la gară poți ajunge rapid la Muzeul Enzo Ferrari. Liniile spre centru te duc direct la Piazza Grande și la Dom. Vizitează teatrul numit după Pavarotti și mănăstirea San Pietro. Transportul public este o modalitate fără stres de a experimenta punctele culturale forte ale orașului.",
+        "en": "Take advantage of Modena's convenient bus connections. From the station, you can quickly reach the Enzo Ferrari Museum. Lines to the center take you directly to Piazza Grande and the Cathedral. Visit the theatre named after Pavarotti and the Abbey of San Pietro. Public transport is a stress-free way to experience the city's cultural highlights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Borlengo",
+            "tip": "Dünner, knuspriger Fladen mit Schmalz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borlengo",
+            "tip": "Vékony, ropogós lepény fűszeres zsírral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Borlengo",
+            "tip": "Lipie subțire și crocantă cu untură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Borlengo",
+            "tip": "Thin, crispy flatbread with lard."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten San Pietro",
+            "tip": "Oase der Ruhe im Stadtzentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szt. Péter kolostorkert",
+            "tip": "A nyugalom szigete a belvárosban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina mănăstirii San Pietro",
+            "tip": "Oază de liniște în centrul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Pietro cloister garden",
+            "tip": "Oasis of peace in the city center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Taglio",
+            "tip": "Charmante Gasse mit lokalen Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Taglio",
+            "tip": "Bájos utca helyi üzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Taglio",
+            "tip": "Stradă fermecătoare cu magazine locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Taglio",
+            "tip": "Charming street with local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrkarten sind an Kiosken oder via App erhältlich.",
+          "Die Busse sind pünktlich und sauber.",
+          "Die Linien 7 und 11 sind die wichtigsten für Besucher.",
+          "Vermeiden Sie die Stoßzeiten am Morgen.",
+          "Der Bahnhof ist ein guter Orientierungspunkt."
+        ],
+        "hu": [
+          "Jegyeket újságosnál vagy alkalmazáson keresztül vehet.",
+          "A buszok pontosak és tiszták.",
+          "A 7-es és 11-es vonal a legfontosabb a látogatóknak.",
+          "Kerülje a reggeli csúcsidőszakot.",
+          "A vasútállomás jó tájékozódási pont."
+        ],
+        "ro": [
+          "Biletele sunt disponibile la chioșcuri sau prin aplicație.",
+          "Autobuzele sunt punctuale și curate.",
+          "Liniile 7 și 11 sunt cele mai importante pentru vizitatori.",
+          "Evitați orele de vârf de dimineață.",
+          "Gara este un punct bun de orientare."
+        ],
+        "en": [
+          "Tickets are available at kiosks or via app.",
+          "Buses are punctual and clean.",
+          "Lines 7 and 11 are the most important for visitors.",
+          "Avoid the morning rush hours.",
+          "The railway station is a good landmark for orientation."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "region_code": "IT-45",
+    "transit_official": "https://www.setaweb.it/",
+    "transit_app": "https://www.setaweb.it/mo/muoversi/app",
+    "bike_share": "https://www.visitmodena.it/en/plan-the-trip/getting-around-modena",
+    "city_card": "https://www.visitmodena.it/en/modena-welcome-card",
+    "events": "https://www.visitmodena.it/en/events",
+    "tourism_office": "https://www.visitmodena.it/en",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/emilia-romagna/modena/piazza-grande.html",
+    "restaurants_booking": "https://www.thefork.com/restaurants/modena-c188551",
+    "museum_tickets": "https://www.visitmodena.it/en/discover-modena/unesco-site",
+    "parking_real_time": "https://www.comune.modena.it/argomenti/mobilita-e-trasporti/parcheggi",
+    "language_tips": {
+      "de": "Englisch im Tourismusbereich gut, ausserhalb begrenzt; Dialekt im Hinterland verbreitet.",
+      "hu": "Az angol a turistakornyezetben mukodik, azon kivul korlatozott; videken dialektus is gyakori.",
+      "ro": "Engleza functioneaza in zona turistica, in afara este limitata; dialect frecvent in zona rurala.",
+      "en": "English fine in tourist venues, limited outside; local dialect common in the countryside."
+    },
+    "best_time": {
+      "de": "April bis Juni und September bis Oktober; Motor Valley Fest im Mai, Festival Filosofia im September.",
+      "hu": "Aprilis-junius es szeptember-oktober; Motor Valley Fest majusban, Festival Filosofia szeptemberben.",
+      "ro": "Aprilie-iunie si septembrie-octombrie; Motor Valley Fest in mai, Festival Filosofia in septembrie.",
+      "en": "April-June and September-October; Motor Valley Fest in May, Festival Filosofia in September."
+    },
+    "warnings": {
+      "de": "Sommer sehr heiss und feucht; ZTL im Zentrum aktiv, Parken am Stadtrand empfohlen.",
+      "hu": "A nyar nagyon meleg es paras; ZTL ervenyes a kozpontban, kulteruleti parkolas ajanlott.",
+      "ro": "Vara foarte calda si umeda; ZTL activ in centru, parcare la marginea orasului recomandata.",
+      "en": "Summers hot and humid on the plain; central ZTL active, park at edge of centre."
+    }
+  }
+}

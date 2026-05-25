@@ -1,0 +1,887 @@
+{
+  "city_id": "alghero",
+  "anchor": {
+    "name": "Alghero Old Town",
+    "coords": [
+      8.3194,
+      40.5594
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Torre di Sulis",
+          "coords": [
+            8.3182,
+            40.5578
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf den Hafen am Morgen.",
+            "hu": "Élvezze a kikötőre nyíló kilátást a reggeli fényekben.",
+            "ro": "Bucurați-vă de vederea spre port în lumina dimineții.",
+            "en": "Enjoy the harbor view in the morning light."
+          }
+        },
+        {
+          "name": "Bastioni di Alghero",
+          "coords": [
+            8.3125,
+            40.5585
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein Spaziergang entlang der mittelalterlichen Mauern.",
+            "hu": "Séta a középkori várfalak mentén a tenger felett.",
+            "ro": "O plimbare de-a lungul zidurilor medievale deasupra mării.",
+            "en": "A walk along the medieval walls above the sea."
+          }
+        },
+        {
+          "name": "Cattedrale di Santa Maria",
+          "coords": [
+            8.3135,
+            40.5602
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die katalanisch-gotische Architektur.",
+            "hu": "Csodálja meg a katalán gótikus építészetet.",
+            "ro": "Admirați arhitectura gotică catalană.",
+            "en": "Admire the Catalan-Gothic architecture."
+          }
+        },
+        {
+          "name": "Museo del Corallo",
+          "coords": [
+            8.3195,
+            40.5582
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte der roten Koralle.",
+            "hu": "Ismerje meg a vörös korall halászatának történetét.",
+            "ro": "Descoperiți istoria pescuitului de corali roșii.",
+            "en": "Discover the history of red coral fishing."
+          }
+        },
+        {
+          "name": "Spiaggia del Lido di Alghero",
+          "coords": [
+            8.3245,
+            40.5685
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Perfekt für ein erfrischendes Bad am Nachmittag.",
+            "hu": "Tökéletes hely egy frissítő délutáni csobbanáshoz.",
+            "ro": "Locul perfect pentru o baie răcoritoare după-amiaza.",
+            "en": "The perfect place for a refreshing afternoon dip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der Torre di Sulis und schlendern Sie entlang der beeindruckenden Bastionen. Mittags besuchen Sie die Kathedrale im Herzen der Altstadt. Am Nachmittag tauchen Sie im Korallenmuseum in die lokale Handwerkskunst ein. Beenden Sie den Tag entspannt am Lido-Strand.",
+        "hu": "Kezdje a napot a Torre di Sulis toronynál, majd sétáljon végig a lenyűgöző bástyákon. Délben látogassa meg az óváros szívében álló katedrálist. Délután merüljön el a helyi kézművesség titkaiban a Korallmúzeumban. A napot pihenéssel zárja a Lido homokos strandján.",
+        "ro": "Începeți ziua la Torre di Sulis și plimbați-vă de-a lungul bastioanelor impresionante. La prânz, vizitați catedrala din inima orașului vechi. După-amiaza, descoperiți secretele meșteșugului local la Muzeul Coralului. Încheiați ziua relaxându-vă pe plaja de nisip Lido.",
+        "en": "Start your day at the Torre di Sulis and stroll along the impressive bastions. At noon, visit the cathedral in the heart of the old town. In the afternoon, dive into the secrets of local craftsmanship at the Coral Museum. End the day relaxing on the sandy Lido beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Aragosta alla Catalana",
+            "tip": "Frischer Hummer mit Zwiebeln und Tomaten."
+          },
+          {
+            "name": "Trattoria Marco Polo",
+            "tip": "Direkt an den Bastionen mit Meerblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aragosta alla Catalana",
+            "tip": "Friss homár hagymával és paradicsommal."
+          },
+          {
+            "name": "Trattoria Marco Polo",
+            "tip": "Közvetlenül a bástyákon, tengeri kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aragosta alla Catalana",
+            "tip": "Homar proaspăt cu ceapă și roșii."
+          },
+          {
+            "name": "Trattoria Marco Polo",
+            "tip": "Chiar pe bastioane, cu vedere la mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aragosta alla Catalana",
+            "tip": "Fresh lobster with onions and tomatoes."
+          },
+          {
+            "name": "Trattoria Marco Polo",
+            "tip": "Right on the bastions with a sea view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bastioni Marco Polo",
+            "tip": "Bester Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bastioni Marco Polo",
+            "tip": "A legjobb hely a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bastioni Marco Polo",
+            "tip": "Cel mai bun loc pentru apusul soarelui.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bastioni Marco Polo",
+            "tip": "Best spot for watching the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Gilbert Ferret",
+            "tip": "Viele kleine Läden mit handgefertigtem Korallenschmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Gilbert Ferret",
+            "tip": "Számos kis bolt kézzel készített korall ékszerekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Gilbert Ferret",
+            "tip": "Multe magazine mici cu bijuterii din corali lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Gilbert Ferret",
+            "tip": "Many small shops with handmade coral jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Reservieren Sie Restaurants an den Bastionen im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Foglaljon előre asztalt a bástya menti éttermekbe."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+          "Rezervați din timp masa la restaurantele de pe bastioane."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Book restaurants on the bastions in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Bastioni di Alghero",
+          "coords": [
+            8.3125,
+            40.5585
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Morgendliche Fahrt mit frischer Meeresbrise.",
+            "hu": "Reggeli tekerés a friss tengeri szellőben.",
+            "ro": "O plimbare de dimineață în briza proaspătă a mării.",
+            "en": "Morning ride in the fresh sea breeze."
+          }
+        },
+        {
+          "name": "Spiaggia del Lido di Alghero",
+          "coords": [
+            8.3245,
+            40.5685
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Flacher Radweg entlang der Küste.",
+            "hu": "Lapos kerékpárút a part mentén.",
+            "ro": "Pistă de biciclete plană de-a lungul coastei.",
+            "en": "Flat bike path along the coast."
+          }
+        },
+        {
+          "name": "Complesso Nuragico di Palmavera",
+          "coords": [
+            8.2435,
+            40.5982
+          ],
+          "category": "historical",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Beeindruckende prähistorische Nuraghen-Siedlung.",
+            "hu": "Lenyűgöző őskori nurághe település.",
+            "ro": "Așezare nuragică preistorică impresionantă.",
+            "en": "Impressive prehistoric Nuragic settlement."
+          }
+        },
+        {
+          "name": "Torre di Sulis",
+          "coords": [
+            8.3182,
+            40.5578
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Wichtiger Treffpunkt in der Stadt.",
+            "hu": "Fontos találkozópont a városban.",
+            "ro": "Punct important de întâlnire în oraș.",
+            "en": "Important meeting point in the city."
+          }
+        },
+        {
+          "name": "Chiesa di San Michele",
+          "coords": [
+            8.3155,
+            40.5588
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Berühmt für seine farbenfrohe Majolika-Kuppel.",
+            "hu": "Híres a színes majolika kupolájáról.",
+            "ro": "Faimoasă pentru cupola sa colorată din majolică.",
+            "en": "Famous for its colorful majolica dome."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Alghero auf zwei Rädern! Fahren Sie entlang der Küste zum Lido und weiter zur archäologischen Stätte Palmavera. Am Nachmittag kehren Sie in die Stadt zurück, um die markante San-Michele-Kirche zu bewundern.",
+        "hu": "Fedezze fel Algherót két keréken! Tekerjen a part mentén a Lidóhoz, majd tovább a Palmavera régészeti lelőhelyhez. Délután térjen vissza a városba, hogy megcsodálja a San Michele templom különleges kupoláját.",
+        "ro": "Explorați Alghero pe două roți! Mergeți de-a lungul coastei spre Lido, apoi mai departe spre situl arheologic Palmavera. După-amiaza reveniți în oraș pentru a admira cupola deosebită a bisericii San Michele.",
+        "en": "Explore Alghero on two wheels! Ride along the coast to Lido and further to the Palmavera archaeological site. In the afternoon, return to the city to admire the unique dome of the San Michele church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Seadas",
+            "tip": "Sardisches Gebäck mit Käse und Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Seadas",
+            "tip": "Szardíniai sütemény sajttal és mézzel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Seadas",
+            "tip": "Desert sardinian cu brânză și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seadas",
+            "tip": "Sardinian pastry with cheese and honey."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco di Porto Conte",
+            "tip": "Natur pur außerhalb der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco di Porto Conte",
+            "tip": "Tiszta természet a városon kívül.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco di Porto Conte",
+            "tip": "Natură pură în afara orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco di Porto Conte",
+            "tip": "Pure nature outside the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato Civico",
+            "tip": "Lokaler Markt für frische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercato Civico",
+            "tip": "Helyi piac friss termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercato Civico",
+            "tip": "Piață locală pentru produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercato Civico",
+            "tip": "Local market for fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit Schloss.",
+          "Nehmen Sie ausreichend Wasser für die Fahrt nach Palmavera mit."
+        ],
+        "hu": [
+          "Béreljen lakattal ellátott kerékpárt.",
+          "Vigyen magával elég vizet a Palmavera felé vezető útra."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu lacăt.",
+          "Luați suficientă apă pentru drumul spre Palmavera."
+        ],
+        "en": [
+          "Rent a bike with a lock.",
+          "Take enough water for the ride to Palmavera."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 55.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Complesso Nuragico di Palmavera",
+          "coords": [
+            8.2435,
+            40.5982
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.5,
+          "tip_5lang": {
+            "de": "Früh am Morgen ist es weniger heiß.",
+            "hu": "Kora reggel még nincs olyan meleg.",
+            "ro": "Dimineața devreme nu este atât de cald.",
+            "en": "It's less hot early in the morning."
+          }
+        },
+        {
+          "name": "Grotta di Nettuno",
+          "coords": [
+            8.1612,
+            40.5562
+          ],
+          "category": "natural features",
+          "arrive_at": "11:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Über 600 Stufen führen hinunter zur Grotte.",
+            "hu": "Több mint 600 lépcső vezet le a barlanghoz.",
+            "ro": "Peste 600 de trepte duc jos la peșteră.",
+            "en": "Over 600 steps lead down to the cave."
+          }
+        },
+        {
+          "name": "Palazzo d'Albis",
+          "coords": [
+            8.3138,
+            40.5595
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 24.0,
+          "tip_5lang": {
+            "de": "Historischer Palast im Stadtzentrum.",
+            "hu": "Történelmi palota a városközpontban.",
+            "ro": "Palat istoric în centrul orașului.",
+            "en": "Historic palace in the city center."
+          }
+        },
+        {
+          "name": "Chiesa di San Francesco",
+          "coords": [
+            8.3142,
+            40.5598
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie den wunderschönen Kreuzgang.",
+            "hu": "Látogassa meg a gyönyörű kolostorkertet.",
+            "ro": "Vizitați frumoasa grădină a mănăstirii.",
+            "en": "Visit the beautiful cloister."
+          }
+        },
+        {
+          "name": "Bastioni di Alghero",
+          "coords": [
+            8.3125,
+            40.5585
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie außerhalb der ZTL-Zone.",
+            "hu": "Parkoljon a ZTL-zónán kívül.",
+            "ro": "Parcați în afara zonei ZTL.",
+            "en": "Park outside the ZTL zone."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die spektakuläre Neptungrotte am Capo Caccia. Nach der Besichtigung der antiken Palmavera-Nuraghen kehren Sie nach Alghero zurück, um den Palazzo d'Albis und die Bastionen zu erkunden.",
+        "hu": "Autóval könnyen elérheti a látványos Neptun-barlangot a Capo Cacciánál. A Palmavera nurághe megtekintése után térjen vissza Algheróba, hogy felfedezze a Palazzo d'Albist és a várfalakat.",
+        "ro": "Cu mașina puteți ajunge ușor la spectaculoasa Grotă a lui Neptun de la Capo Caccia. După vizitarea nuragilor din Palmavera, reveniți în Alghero pentru a explora Palazzo d'Albis și bastioanele.",
+        "en": "By car, you can easily reach the spectacular Neptune's Grotto at Capo Caccia. After visiting the ancient Palmavera Nuraghe, return to Alghero to explore Palazzo d'Albis and the bastions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pane Carasau",
+            "tip": "Traditionelles dünnes Fladenbrot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pane Carasau",
+            "tip": "Hagyományos vékony lepénykenyér."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pane Carasau",
+            "tip": "Lipie tradițională subțire."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pane Carasau",
+            "tip": "Traditional thin flatbread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Capo Caccia",
+            "tip": "Atemberaubender Blick auf die Klippen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Capo Caccia",
+            "tip": "Lélegzetelállító kilátás a sziklákról.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capo Caccia",
+            "tip": "Vedere uluitoare de pe stânci.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Capo Caccia",
+            "tip": "Breathtaking view from the cliffs.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sella & Mosca",
+            "tip": "Besuchen Sie das Weingut für lokale Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sella & Mosca",
+            "tip": "Látogasson el a borászatba helyi borokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sella & Mosca",
+            "tip": "Vizitați crama pentru vinuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sella & Mosca",
+            "tip": "Visit the winery for local wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie das Fahren in die Altstadt (ZTL).",
+          "Buchen Sie die Grotte im Voraus."
+        ],
+        "hu": [
+          "Kerülje az autóval való behajtást az óvárosba (ZTL).",
+          "Foglaljon előre jegyet a barlangba."
+        ],
+        "ro": [
+          "Evitați intrarea cu mașina în orașul vechi (ZTL).",
+          "Rezervați biletul pentru peșteră în avans."
+        ],
+        "en": [
+          "Avoid driving into the old town (ZTL).",
+          "Book the grotto in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Torre di Sulis",
+          "coords": [
+            8.3182,
+            40.5578
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bushaltestelle in der Nähe von Piazza Sulis.",
+            "hu": "Buszmegálló a Piazza Sulis közelében.",
+            "ro": "Stație de autobuz lângă Piazza Sulis.",
+            "en": "Bus stop near Piazza Sulis."
+          }
+        },
+        {
+          "name": "Cattedrale di Santa Maria",
+          "coords": [
+            8.3135,
+            40.5602
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Haltestelle.",
+            "hu": "Rövid séta a megállótól.",
+            "ro": "O scurtă plimbare de la stație.",
+            "en": "A short walk from the stop."
+          }
+        },
+        {
+          "name": "Museo del Corallo",
+          "coords": [
+            8.3195,
+            40.5582
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Gut erreichbar mit den Linienbussen.",
+            "hu": "Jól elérhető helyi buszokkal.",
+            "ro": "Ușor accesibil cu autobuzele locale.",
+            "en": "Easily accessible by local buses."
+          }
+        },
+        {
+          "name": "Spiaggia del Lido di Alghero",
+          "coords": [
+            8.3245,
+            40.5685
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bus AF fährt direkt zum Strand.",
+            "hu": "Az AF busz közvetlenül a strandra visz.",
+            "ro": "Autobuzul AF merge direct la plajă.",
+            "en": "Bus AF goes directly to the beach."
+          }
+        },
+        {
+          "name": "Chiesa di San Michele",
+          "coords": [
+            8.3155,
+            40.5588
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Rückfahrt ins Stadtzentrum am Abend.",
+            "hu": "Esti visszatérés a városközpontba.",
+            "ro": "Întoarcerea în centrul orașului seara.",
+            "en": "Evening return to the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das lokale Busnetz, um zwischen der historischen Altstadt und den Stränden zu pendeln. Vormittags erkunden Sie die Kathedrale und das Korallenmuseum, den Nachmittag verbringen Sie am weitläufigen Lido-Strand.",
+        "hu": "Használja a helyi buszhálózatot a történelmi óváros és a strandok közötti közlekedéshez. Délelőtt fedezze fel a katedrálist és a Korallmúzeumot, a délutánt pedig töltse a tágas Lido strandon.",
+        "ro": "Folosiți rețeaua locală de autobuze pentru a circula între orașul vechi istoric și plaje. Dimineața explorați catedrala și Muzeul Coralului, iar după-amiaza petreceți-o pe plaja spațioasă Lido.",
+        "en": "Use the local bus network to travel between the historic old town and the beaches. In the morning explore the cathedral and the Coral Museum, and spend the afternoon at the spacious Lido beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Culurgiones",
+            "tip": "Gefüllte Teigtaschen aus Sardinien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Culurgiones",
+            "tip": "Szardíniai töltött tészta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Culurgiones",
+            "tip": "Paste sardiniene umplute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Culurgiones",
+            "tip": "Sardinian stuffed pasta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lido di Alghero",
+            "tip": "Lange Spaziergänge im Sand.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lido di Alghero",
+            "tip": "Hosszú séták a homokban.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lido di Alghero",
+            "tip": "Plimbări lungi pe nisip.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lido di Alghero",
+            "tip": "Long walks in the sand.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piazza Civica",
+            "tip": "Zentraler Platz mit exklusiven Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza Civica",
+            "tip": "Központi tér exkluzív butikokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazza Civica",
+            "tip": "Piață centrală cu buticuri exclusive."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza Civica",
+            "tip": "Central square with exclusive boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Busfahrkarten im Tabacchi-Laden.",
+          "Der 'Beach Bus' ist im Sommer ideal."
+        ],
+        "hu": [
+          "Vásároljon buszjegyet a 'Tabacchi' üzletekben.",
+          "A 'Beach Bus' nyáron ideális választás."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz de la 'Tabacchi'.",
+          "Autobuzul 'Beach Bus' este ideal vara."
+        ],
+        "en": [
+          "Buy bus tickets at a 'Tabacchi' shop.",
+          "The 'Beach Bus' is ideal in summer."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "_coords": [
+      8.3194,
+      40.5594
+    ],
+    "_region": "IT-88 Sardegna",
+    "transit_official": "https://www.arst.sardegna.it/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Alghero",
+    "bike_share": null,
+    "city_card": "https://algheroexperience.it/",
+    "events": "https://algheroturismo.eu/it/eventi/",
+    "tourism_office": "https://algheroturismo.eu/",
+    "webcam": "https://www.skylinewebcams.com/it/webcam/italia/sardegna/sassari/alghero.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/alghero-c562782",
+    "museum_tickets": "https://algheroexperience.it/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch, Sardisch und katalanischer Alguerés-Dialekt; Englisch in Tourismus akzeptabel.",
+      "hu": "Olasz, szárd és katalán alguerés nyelvjárás; angol turizmusban elfogadható.",
+      "ro": "Italiana, sarda și dialectul catalan alguerés; engleza acceptabilă în turism.",
+      "en": "Italian, Sardinian, and Catalan Alguerés dialect; English acceptable in tourism."
+    },
+    "best_time": {
+      "de": "Mai–Juni und September für Strände und Wandern; Juli–August heiß und mit Italienern überfüllt.",
+      "hu": "Május–június és szeptember strandra és túrázásra; július–augusztus forró és olasz turistákkal zsúfolt.",
+      "ro": "Mai–iunie și septembrie pentru plaje și drumeții; iulie–august cald și aglomerat cu italieni.",
+      "en": "May–June and September for beaches and hiking; July–August hot and packed with Italian holidaymakers."
+    },
+    "warnings": {
+      "de": "Mietwagen empfohlen für Strände; Maestrale-Wind stark. ZTL in Altstadt beachten.",
+      "hu": "Autóbérlés ajánlott strandokhoz; Maestrale szél erős. ZTL zóna az óvárosban.",
+      "ro": "Mașină de închiriat recomandată pentru plaje; vântul maestrale e puternic. ZTL în centrul vechi.",
+      "en": "Rental car advised for beaches; Maestrale wind strong. Mind ZTL in old town."
+    }
+  }
+}

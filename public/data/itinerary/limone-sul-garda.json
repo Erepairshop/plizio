@@ -1,0 +1,1026 @@
+{
+  "city_id": "limone-sul-garda",
+  "anchor": {
+    "name": "Limone sul Garda",
+    "coords": [
+      10.7864,
+      45.8147
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Porto Vecchio",
+            "hu": "Régi kikötő",
+            "ro": "Portul Vechi",
+            "en": "Old Port"
+          },
+          "coords": [
+            10.7885,
+            45.8135
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der fotogenste Ort in Limone am frühen Morgen.",
+            "hu": "Limone legfotogénebb helye kora reggel.",
+            "ro": "Cel mai fotogenic loc din Limone dimineața devreme.",
+            "en": "The most photogenic spot in Limone early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Garibaldi",
+            "hu": "Piazza Garibaldi",
+            "ro": "Piazza Garibaldi",
+            "en": "Piazza Garibaldi"
+          },
+          "coords": [
+            10.7895,
+            45.8145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zentrum des lokalen Lebens mit vielen Cafés.",
+            "hu": "A helyi élet központja számos kávézóval.",
+            "ro": "Centrul vieții locale cu multe cafenele.",
+            "en": "Center of local life with many cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "La Limonaia del Castèl",
+            "hu": "La Limonaia del Castèl",
+            "ro": "La Limonaia del Castèl",
+            "en": "La Limonaia del Castèl"
+          },
+          "coords": [
+            10.7905,
+            45.8155
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die Geschichte des Zitronenanbaus.",
+            "hu": "Ismerje meg a citromtermesztés történetét.",
+            "ro": "Aflați totul despre istoria cultivării lămâilor.",
+            "en": "Learn all about the history of lemon cultivation."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Rocco",
+            "hu": "San Rocco templom",
+            "ro": "Biserica San Rocco",
+            "en": "San Rocco Church"
+          },
+          "coords": [
+            10.7915,
+            45.8165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wunderschöne Aussicht von der Terrasse vor der Kirche.",
+            "hu": "Csodálatos kilátás a templom előtti teraszról.",
+            "ro": "Vedere superbă de pe terasa din fața bisericii.",
+            "en": "Beautiful view from the terrace in front of the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Seeufer-Promenade",
+            "hu": "Tóparti sétány",
+            "ro": "Promenada de pe malul lacului",
+            "en": "Lakefront Promenade"
+          },
+          "coords": [
+            10.7875,
+            45.8125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für einen ausgiebigen Spaziergang am Wasser.",
+            "hu": "Ideális egy hosszú sétához a vízparton.",
+            "ro": "Ideală pentru o plimbare lungă pe malul apei.",
+            "en": "Ideal for a long walk along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Pescatore",
+            "hu": "Halászati Múzeum",
+            "ro": "Muzeul Pescarului",
+            "en": "Fisherman's Museum"
+          },
+          "coords": [
+            10.7865,
+            45.8115
+          ],
+          "category": "museums",
+          "arrive_at": "16:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kleines Museum in einem ehemaligen Zitronengewächshaus.",
+            "hu": "Kis múzeum egy egykori citromházban.",
+            "ro": "Un mic muzeu într-o fostă seră de lămâi.",
+            "en": "Small museum in a former lemon greenhouse."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Limone zu Fuß zu erkunden ist ein Erlebnis für alle Sinne. Von den historischen Häfen spazieren Sie zu den berühmten Zitronengärten. Nach einem spirituellen Stopp bei San Rocco genießen Sie die weite Promenade. Der Tag endet im Fischermuseum, das tief in die Traditionen des Ortes blicken lässt.",
+        "hu": "Limone gyalogos felfedezése minden érzékszervnek élmény. A történelmi kikötőktől a híres citromkertekig sétálunk. Egy spirituális megálló után San Rocconál, a tágas sétányt élvezzük. A nap a Halászati Múzeumban ér véget, amely mély betekintést nyújt a település hagyományaiba.",
+        "ro": "Explorarea orașului Limone pe jos este o experiență pentru toate simțurile. De la porturile istorice vă plimbați spre faimoasele grădini de lămâi. După o oprire spirituală la San Rocco, vă bucurați de promenada largă. Ziua se încheie la Muzeul Pescarului, care oferă o privire în tradițiile locului.",
+        "en": "Exploring Limone on foot is an experience for all senses. From the historic ports, stroll to the famous lemon gardens. After a spiritual stop at San Rocco, enjoy the wide promenade. The day ends at the Fisherman's Museum, which offers a deep look into the town's traditions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasta mit Zitronenpesto",
+            "tip": "Probieren Sie diese frische Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tészta citromos pesztóval",
+            "tip": "Kóstolja meg ezt a friss különlegességet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paste cu pesto de lămâie",
+            "tip": "Încercați această specialitate proaspătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasta with Lemon Pesto",
+            "tip": "Try this fresh specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Rocco Terrasse",
+            "tip": "Ein stiller Ort mit Panoramablick.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Rocco terasz",
+            "tip": "Csendes hely panorámás kilátással.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terasa San Rocco",
+            "tip": "Un loc liniștit cu vedere panoramică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Rocco Terrace",
+            "tip": "A quiet spot with panoramic views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zitronenseife und Essenzen",
+            "tip": "Hervorragende Souvenirs aus lokaler Produktion."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citromos szappan és esszenciák",
+            "tip": "Kiváló helyi készítésű szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Săpun de lămâie și esențe",
+            "tip": "Suveniruri excelente din producția locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lemon Soap and Essences",
+            "tip": "Excellent souvenirs from local production."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Viele Wege sind steil und haben Stufen.",
+          "Trinken Sie Wasser an den öffentlichen Brunnen.",
+          "Die Limonaia ist bis zum späten Abend beleuchtet.",
+          "Kameras bereithalten für die blumengeschmückten Balkone."
+        ],
+        "hu": [
+          "Sok út meredek és lépcsős.",
+          "Igyon vizet a nyilvános kutakból.",
+          "A Limonaia késő estig ki van világítva.",
+          "Készítse elő a kamerát a virágos erkélyekhez."
+        ],
+        "ro": [
+          "Multe drumuri sunt abrupte și au trepte.",
+          "Beți apă de la cișmelele publice.",
+          "Limonaia este iluminată până târziu în seară.",
+          "Pregătiți aparatele foto pentru balcoanele pline de flori."
+        ],
+        "en": [
+          "Many paths are steep and have steps.",
+          "Drink water from the public fountains.",
+          "The Limonaia is illuminated until late evening.",
+          "Keep your camera ready for the flower-decorated balconies."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ciclopedonale del Garda",
+            "hu": "Ciclopedonale del Garda",
+            "ro": "Ciclopedonale del Garda",
+            "en": "Ciclopedonale del Garda"
+          },
+          "coords": [
+            10.7965,
+            45.8345
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "09:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der spektakulärste Radweg Europas, direkt über dem See.",
+            "hu": "Európa leglátványosabb kerékpárútja, közvetlenül a tó felett.",
+            "ro": "Cea mai spectaculoasă pistă de biciclete din Europa, chiar deasupra lacului.",
+            "en": "Europe's most spectacular bike path, directly over the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Sopino Wasserfall",
+            "hu": "Sopino vízesés",
+            "ro": "Cascada Sopino",
+            "en": "Sopino Waterfall"
+          },
+          "coords": [
+            10.7815,
+            45.8215
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein kühler Rückzugsort im Wald oberhalb des Ortes.",
+            "hu": "Hűvös menedék az erdőben a település felett.",
+            "ro": "Un refugiu răcoros în pădurea de deasupra localității.",
+            "en": "A cool retreat in the woods above the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Benedetto",
+            "hu": "San Benedetto templom",
+            "ro": "Biserica San Benedetto",
+            "en": "San Benedetto Church"
+          },
+          "coords": [
+            10.7875,
+            45.8145
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die barocke Hauptkirche des Ortes.",
+            "hu": "A település barokk főtemploma.",
+            "ro": "Principala biserică barocă a orașului.",
+            "en": "The main Baroque church of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Tourismusmuseum",
+            "hu": "Idegenforgalmi Múzeum",
+            "ro": "Muzeul Turismului",
+            "en": "Tourism Museum"
+          },
+          "coords": [
+            10.7855,
+            45.8125
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Geschichte der Entwicklung zum Ferienort.",
+            "hu": "Az üdülőhellyé válás története.",
+            "ro": "Istoria transformării într-o stațiune turistică.",
+            "en": "History of the transformation into a resort."
+          }
+        },
+        {
+          "name": {
+            "de": "Seeufer-Promenade",
+            "hu": "Tóparti sétány",
+            "ro": "Promenada de pe malul lacului",
+            "en": "Lakefront Promenade"
+          },
+          "coords": [
+            10.7875,
+            45.8125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Langsames Ausrollen am Seeufer.",
+            "hu": "Lassú kigurulás a tóparton.",
+            "ro": "Plimbare lentă pe malul lacului.",
+            "en": "Slow ride along the lakefront."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit dem schwebenden Radweg, einem architektonischen Wunderwerk. Danach führt der Weg zum erfrischenden Sopino-Wasserfall. Den Mittag verbringen Sie im kulturellen Herzen bei San Benedetto und dem Tourismusmuseum, bevor Sie den Tag entspannt auf der Promenade ausklingen lassen.",
+        "hu": "Kezdje a 'lebegő' kerékpárúton, amely építészeti csoda. Ezután az út a frissítő Sopino-vízeséshez vezet. A delet a kulturális központban, San Benedettónál és az Idegenforgalmi Múzeumban töltjük, majd pihentető tekeréssel a sétányon zárjuk a napot.",
+        "ro": "Începeți pe pista de biciclete suspendată, o minune arhitecturală. Apoi, drumul duce la răcoroasa cascadă Sopino. Prânzul îl petreceți în inima culturală, la San Benedetto și Muzeul Turismului, înainte de a încheia ziua relaxat pe promenadă.",
+        "en": "Start with the floating bike path, an architectural marvel. Then the path leads to the refreshing Sopino Waterfall. Spend midday in the cultural heart at San Benedetto and the Tourism Museum before ending the day with a relaxed ride on the promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Forelle 'alla Gardesana'",
+            "tip": "Frischer Fisch aus dem See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pisztráng 'alla Gardesana'",
+            "tip": "Friss hal a tóból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Păstrăv 'alla Gardesana'",
+            "tip": "Pește proaspăt din lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trout 'alla Gardesana'",
+            "tip": "Fresh fish from the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sopino Wasserfall",
+            "tip": "Natur pur abseits der Touristenströme.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sopino vízesés",
+            "tip": "Tiszta természet a turistaáradattól távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cascada Sopino",
+            "tip": "Natură pură departe de mulțimea de turiști.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sopino Waterfall",
+            "tip": "Pure nature away from the tourist crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Besuchen Sie die Ölmühle am Ortseingang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Látogasson el a település szélén lévő olajütőbe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Vizitați moara de ulei de la intrarea în oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Visit the oil mill at the town entrance."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für den Weg zum Wasserfall.",
+          "Fahren Sie auf dem schwebenden Weg vorsichtig.",
+          "Befestigen Sie Ihr Rad nur an markierten Stellen.",
+          "Nehmen Sie ausreichend Wasser mit."
+        ],
+        "hu": [
+          "Béreljen e-bike-ot a vízeséshez vezető úthoz.",
+          "Vezessen óvatosan a lebegő úton.",
+          "Csak a kijelölt helyeken rögzítse a biciklit.",
+          "Vigyen magával elegendő vizet."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru drumul spre cascadă.",
+          "Conduceți cu atenție pe porțiunea suspendată.",
+          "Legați bicicleta doar în locurile marcate.",
+          "Luați suficientă apă cu voi."
+        ],
+        "en": [
+          "Rent an e-bike for the path to the waterfall.",
+          "Drive carefully on the floating path.",
+          "Lock your bike only in designated spots.",
+          "Take plenty of water with you."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18.0,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "La Limonaia del Castèl",
+            "hu": "La Limonaia del Castèl",
+            "ro": "La Limonaia del Castèl",
+            "en": "La Limonaia del Castèl"
+          },
+          "coords": [
+            10.7905,
+            45.8155
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus am Seeufer (Lungolago).",
+            "hu": "Használja a tóparti (Lungolago) parkolóházat.",
+            "ro": "Folosiți parcarea de pe malul lacului (Lungolago).",
+            "en": "Use the parking garage at the lakefront (Lungolago)."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Vecchio",
+            "hu": "Régi kikötő",
+            "ro": "Portul Vechi",
+            "en": "Old Port"
+          },
+          "coords": [
+            10.7885,
+            45.8135
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "In der Nähe gibt es gute Fischrestaurants.",
+            "hu": "A közelben remek haléttermek találhatók.",
+            "ro": "În apropiere sunt restaurante bune cu specific de pește.",
+            "en": "There are good fish restaurants nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Tremosine sul Garda (Blickpunkt)",
+            "hu": "Tremosine sul Garda (kilátópont)",
+            "ro": "Tremosine sul Garda (belvedere)",
+            "en": "Tremosine sul Garda (Viewpoint)"
+          },
+          "coords": [
+            10.7655,
+            45.7725
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Fahren Sie über die berühmte Strada della Forra.",
+            "hu": "Hajtson át a híres Strada della Forra úton.",
+            "ro": "Conduceți pe faimoasa Strada della Forra.",
+            "en": "Drive through the famous Strada della Forra."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Rocco",
+            "hu": "San Rocco templom",
+            "ro": "Biserica San Rocco",
+            "en": "San Rocco Church"
+          },
+          "coords": [
+            10.7915,
+            45.8165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Parkplätze oberhalb des Ortes sind oft belegt.",
+            "hu": "A település feletti parkolók gyakran telítettek.",
+            "ro": "Parcările de deasupra localității sunt adesea pline.",
+            "en": "Parking spots above the town are often full."
+          }
+        },
+        {
+          "name": {
+            "de": "Seeufer-Promenade",
+            "hu": "Tóparti sétány",
+            "ro": "Promenada de pe malul lacului",
+            "en": "Lakefront Promenade"
+          },
+          "coords": [
+            10.7875,
+            45.8125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 115,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannung am Wasser vor der Abreise.",
+            "hu": "Pihenés a víznél az elutazás előtt.",
+            "ro": "Relaxare lângă apă înainte de plecare.",
+            "en": "Relaxation by the water before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto kombinieren Sie Limone mit der spektakulären Strada della Forra nach Tremosine. Nach dem Besuch der Zitronengärten im Ort führt ein Ausflug in die Höhe zu schwindelerregenden Aussichten. Den Nachmittag verbringen Sie wieder unten am See, bei San Rocco und auf der Promenade.",
+        "hu": "Autóval kombinálhatjuk Limonét a látványos Strada della Forra úttal Tremosine felé. A citromkertek meglátogatása után a kirándulás a magasba vezet, szédítő kilátásokhoz. A délutánt ismét lenn a tónál töltjük, San Rocconál és a sétányon.",
+        "ro": "Cu mașina combinați Limone cu spectaculoasa Strada della Forra spre Tremosine. După vizitarea grădinilor de lămâi din oraș, o excursie la înălțime vă duce spre vederi amețitoare. După-amiaza o petreceți din nou jos la lac, la San Rocco și pe promenadă.",
+        "en": "By car, combine Limone with the spectacular Strada della Forra to Tremosine. After visiting the lemon gardens in town, a trip to the heights leads to dizzying views. Spend the afternoon back down by the lake at San Rocco and on the promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Spiedo Bresciano",
+            "tip": "Fleischspezialität, oft in Tremosine serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spiedo Bresciano",
+            "tip": "Hússpecialitás, gyakran Tremosinében szervírozzák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Spiedo Bresciano",
+            "tip": "Specialitate de carne, adesea servită în Tremosine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spiedo Bresciano",
+            "tip": "Meat specialty, often served in Tremosine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schauderterrasse (Terrazza del Brivido)",
+            "tip": "Einzigartiger Ausblick hoch über dem See.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borsózató terasz (Terrazza del Brivido)",
+            "tip": "Egyedülálló kilátás magasan a tó felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terrazza del Brivido",
+            "tip": "O priveliște unică sus deasupra lacului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Terrazza del Brivido",
+            "tip": "Unique view high above the lake.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tremosine Käse",
+            "tip": "Kaufen Sie ihn in der Käserei Alpe del Garda."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tremosine sajt",
+            "tip": "Vásárolja meg az Alpe del Garda sajtüzemben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de Tremosine",
+            "tip": "Cumpărați-o de la lăptăria Alpe del Garda."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tremosine Cheese",
+            "tip": "Buy it at the Alpe del Garda dairy."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strada della Forra ist sehr eng und einspurig.",
+          "Das Licht in den Tunneln ist oft schwach.",
+          "Parken Sie im Parkhaus 'Multi-Storey' in Limone.",
+          "Besuchen Sie die Schauderterrasse für das perfekte Foto."
+        ],
+        "hu": [
+          "A Strada della Forra nagyon szűk és egysávos.",
+          "Az alagutakban gyakran gyenge a világítás.",
+          "Parkoljon a limonei 'Multi-Storey' parkolóházban.",
+          "Látogassa meg a Borsózató teraszt a tökéletes fotóért."
+        ],
+        "ro": [
+          "Strada della Forra este foarte îngustă și cu o singură bandă.",
+          "Lumina în tuneluri este adesea slabă.",
+          "Parcați în parcarea supraetajată din Limone.",
+          "Vizitați Terrazza del Brivido pentru fotografia perfectă."
+        ],
+        "en": [
+          "Strada della Forra is very narrow and single-lane.",
+          "Lighting in the tunnels is often weak.",
+          "Park in the 'Multi-Storey' parking garage in Limone.",
+          "Visit the Terrazza del Brivido for the perfect photo."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Porto di Limone (Fähre)",
+            "hu": "Limonei kikötő (komp)",
+            "ro": "Portul Limone (feribot)",
+            "en": "Limone Port (Ferry)"
+          },
+          "coords": [
+            10.7885,
+            45.8135
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Ankunft mit der Fähre bietet den besten Blick auf den Ort.",
+            "hu": "A komppal való érkezés kínálja a legjobb kilátást a falura.",
+            "ro": "Sosirea cu feribotul oferă cea mai bună priveliște asupra orașului.",
+            "en": "Arriving by ferry offers the best view of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "La Limonaia del Castèl",
+            "hu": "La Limonaia del Castèl",
+            "ro": "La Limonaia del Castèl",
+            "en": "La Limonaia del Castèl"
+          },
+          "coords": [
+            10.7905,
+            45.8155
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gut zu Fuß vom Fähranleger erreichbar.",
+            "hu": "Gyalog jól elérhető a kompállomástól.",
+            "ro": "Ușor accesibilă pe jos de la debarcader.",
+            "en": "Easily reachable on foot from the ferry pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Pescatore",
+            "hu": "Halászati Múzeum",
+            "ro": "Muzeul Pescarului",
+            "en": "Fisherman's Museum"
+          },
+          "coords": [
+            10.7865,
+            45.8115
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "In der Nähe der Bushaltestelle an der Hauptstraße.",
+            "hu": "A főúton lévő buszmegálló közelében.",
+            "ro": "Aproape de stația de autobuz de pe drumul principal.",
+            "en": "Near the bus stop on the main road."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Rocco",
+            "hu": "San Rocco templom",
+            "ro": "Biserica San Rocco",
+            "en": "San Rocco Church"
+          },
+          "coords": [
+            10.7915,
+            45.8165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Steiler Aufstieg, aber die Mühe lohnt sich.",
+            "hu": "Meredek emelkedő, de megéri a fáradtságot.",
+            "ro": "Urcare abruptă, dar merită efortul.",
+            "en": "Steep climb, but worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Garibaldi",
+            "hu": "Piazza Garibaldi",
+            "ro": "Piazza Garibaldi",
+            "en": "Piazza Garibaldi"
+          },
+          "coords": [
+            10.7895,
+            45.8145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:50",
+          "stay_min": 115,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Warten Sie auf die Fähre bei einem Espresso.",
+            "hu": "Várja a kompot egy eszpresszó mellett.",
+            "ro": "Așteptați feribotul cu un espresso.",
+            "en": "Wait for the ferry with an espresso."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie Limone stressfrei mit Fähre und Bus. Nach der malerischen Einfahrt in den Hafen besuchen Sie die Limonaia und das Fischermuseum, um die Geschichte des Ortes zu verstehen. Ein Aufstieg zu San Rocco bietet den Panoramablick, bevor Sie auf der Piazza Garibaldi das italienische Leben genießen.",
+        "hu": "Élje át Limonét stresszmentesen komppal és busszal. A festői kikötői beérkezés után látogassa meg a Limonaiát és a Halászati Múzeumot, hogy megértse a település múltját. Egy felkapaszkodás San Roccóhoz panorámás kilátást nyújt, mielőtt a Piazza Garibaldin élvezné az olasz életet.",
+        "ro": "Experimentați Limone fără stres cu feribotul și autobuzul. După intrarea pitorească în port, vizitați Limonaia și Muzeul Pescarului pentru a înțelege istoria locului. O urcare la San Rocco oferă vederea panoramică, înainte de a vă bucura de viața italiană în Piazza Garibaldi.",
+        "en": "Experience Limone stress-free with ferry and bus. After the scenic entry into the port, visit the Limonaia and the Fisherman's Museum to understand the town's history. A climb to San Rocco offers panoramic views before enjoying Italian life at Piazza Garibaldi."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zitronensorbet",
+            "tip": "Die erfrischendste Nachspeise des Ortes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citromszorbé",
+            "tip": "A település legfrissítőbb édessége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sorbet de lămâie",
+            "tip": "Cel mai răcoritor desert din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lemon Sorbet",
+            "tip": "The most refreshing dessert in town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberer Teil der Altstadt",
+            "tip": "Weniger Trubel in den verwinkelten Gassen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az óváros felső része",
+            "tip": "Kevesebb nyüzsgés a kanyargós sikátorokban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Partea de sus a centrului vechi",
+            "tip": "Mai puțină agitație pe străduțele întortocheate.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper part of the old town",
+            "tip": "Less hustle in the winding alleys.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik mit Zitronenmotiven",
+            "tip": "Handbemalte Teller und Schalen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citrommintás kerámiák",
+            "tip": "Kézzel festett tányérok és tálak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică cu motive de lămâi",
+            "tip": "Farfurii și boluri pictate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramics with lemon motifs",
+            "tip": "Hand-painted plates and bowls."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Fähren nach Malcesine verkehren regelmäßig.",
+          "Busse halten an der Via IV Novembre.",
+          "Kombinieren Sie das Ticket mit der Seilbahn Malcesine.",
+          "Prüfen Sie den Fahrplan für die Rückfahrt nach Riva."
+        ],
+        "hu": [
+          "A kompok Malcesinébe rendszeresen járnak.",
+          "A buszok a Via IV Novembre utcában állnak meg.",
+          "Kombinálja a jegyet a malcesinei felvonóval.",
+          "Ellenőrizze a menetrendet a Riva felé való visszautazáshoz."
+        ],
+        "ro": [
+          "Feriboturile spre Malcesine circulă regulat.",
+          "Autobuzele opresc pe Via IV Novembre.",
+          "Combinați biletul cu telecabina din Malcesine.",
+          "Verificați mersul feriboturilor pentru întoarcerea spre Riva."
+        ],
+        "en": [
+          "Ferries to Malcesine run regularly.",
+          "Buses stop at Via IV Novembre.",
+          "Combine your ticket with the Malcesine cable car.",
+          "Check the schedule for the return trip to Riva."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "_coords": [
+      10.7872,
+      45.8136
+    ],
+    "_region": "IT-25 Lombardia (Lago di Garda)",
+    "transit_official": "https://www.trasportibrescia.it/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Limone_sul_Garda",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.visitlimonesulgarda.com/en/events-limone-garda.htm",
+    "tourism_office": "https://www.visitlimonesulgarda.com/en",
+    "webcam": "https://www.visitlimonesulgarda.com/en/webcam-limone-garda.htm",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/limone-sul-garda-c561873",
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch Hauptsprache; Deutsch fast überall verstanden (deutscher Massentourismus). Englisch gut.",
+      "hu": "Olasz a fő nyelv; német szinte mindenhol értik (német tömegturizmus). Angol jó.",
+      "ro": "Italiana principală; germana înțeleasă aproape peste tot (turism de masă german). Engleza bună.",
+      "en": "Italian primary; German understood almost everywhere (German mass tourism). English good."
+    },
+    "best_time": {
+      "de": "Mai–Juni und September für See und Radweg Ciclopedonale; Hochsommer überfüllt und heiß.",
+      "hu": "Május–június és szeptember a tóhoz és a Ciclopedonale kerékpárúthoz; nyár közepén zsúfolt és forró.",
+      "ro": "Mai–iunie și septembrie pentru lac și pista Ciclopedonale; miez de vară aglomerat și cald.",
+      "en": "May–June and September for lake and Ciclopedonale cycle path; midsummer crowded and hot."
+    },
+    "warnings": {
+      "de": "Gardesana-Straße SS45bis eng mit Tunneln; ZTL in der Altstadt streng. Parkplätze knapp.",
+      "hu": "Gardesana SS45bis út szűk alagutakkal; ZTL óvárosban szigorú. Parkolóhely kevés.",
+      "ro": "Drumul Gardesana SS45bis e îngust cu tuneluri; ZTL strict în centru. Parcări puține.",
+      "en": "Gardesana SS45bis road narrow with tunnels; strict ZTL in old town. Parking scarce."
+    }
+  }
+}

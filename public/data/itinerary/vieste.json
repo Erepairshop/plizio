@@ -1,0 +1,795 @@
+{
+  "city_id": "vieste",
+  "anchor": {
+    "name": "Vieste",
+    "coords": [
+      16.1747,
+      41.8819
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 2.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pizzomunno",
+            "hu": "Pizzomunno szikla",
+            "ro": "Stânca Pizzomunno",
+            "en": "Pizzomunno"
+          },
+          "coords": [
+            16.177,
+            41.8765
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen von Vieste am Strand.",
+            "hu": "Vieste jelképe a tengerparton.",
+            "ro": "Simbolul orașului Vieste pe plajă.",
+            "en": "The iconic limestone monolith on the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Svevo Schloss",
+            "hu": "Svevo vár",
+            "ro": "Castelul Svevo",
+            "en": "Castello Svevo"
+          },
+          "coords": [
+            16.1795,
+            41.8805
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Militärfestung mit Panoramablick.",
+            "hu": "Katonai erőd panorámás kilátással.",
+            "ro": "Fortăreață militară cu vedere panoramică.",
+            "en": "Military fortress offering panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Santa Maria Assunta",
+            "hu": "Szűz Mária Mennybevétele székesegyház",
+            "ro": "Catedrala Sfânta Maria",
+            "en": "Cattedrale di Santa Maria Assunta"
+          },
+          "coords": [
+            16.1805,
+            41.8815
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine der ältesten romanischen Kirchen Apuliens.",
+            "hu": "Puglia egyik legrégebbi román stílusú temploma.",
+            "ro": "Una dintre cele mai vechi biserici romanice din Puglia.",
+            "en": "One of the oldest Romanesque churches in Puglia."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Zentrum",
+            "hu": "Óváros (Centro Storico)",
+            "ro": "Centrul Istoric",
+            "en": "Old Town (Centro Storico)"
+          },
+          "coords": [
+            16.182,
+            41.8825
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Weiße Häuser und enge Treppen zum Meer.",
+            "hu": "Fehér házak és szűk lépcsők a tenger felé.",
+            "ro": "Case albe și scări înguste spre mare.",
+            "en": "White houses and narrow stairs leading to the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Malakologisches Museum",
+            "hu": "Kagylómúzeum",
+            "ro": "Muzeul Malacologic",
+            "en": "Malacological Museum"
+          },
+          "coords": [
+            16.181,
+            41.8835
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beeindruckende Sammlung von Muscheln aus aller Welt.",
+            "hu": "Lenyűgöző kagylógyűjtemény a világ minden tájáról.",
+            "ro": "Colecție impresionantă de scoici din toată lumea.",
+            "en": "Impressive collection of shells from all over the world."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Francesco",
+            "hu": "Szent Ferenc-templom",
+            "ro": "Biserica Sfântul Francisc",
+            "en": "Church of San Francesco"
+          },
+          "coords": [
+            16.1845,
+            41.8838
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein altes Kloster auf einem Felsvorsprung.",
+            "hu": "Régi kolostor egy sziklás kiszögellésen.",
+            "ro": "O mănăstire veche pe o proeminență stâncoasă.",
+            "en": "An ancient monastery perched on a rocky point."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Vieste",
+            "hu": "Viestei világítótorony",
+            "ro": "Farul din Vieste",
+            "en": "Vieste Lighthouse"
+          },
+          "coords": [
+            16.188,
+            41.885
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schöner Blick auf den Leuchtturm von der Landzunge.",
+            "hu": "Gyönyörű kilátás a világítótoronyra a földnyelvről.",
+            "ro": "Vedere frumoasă spre far de pe promontoriu.",
+            "en": "Beautiful view of the lighthouse from the headland."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am legendären Pizzomunno-Felsen. Der Vormittag führt Sie hinauf zum Svevo-Schloss und in die romanische Kathedrale.\n\nMittags schlendern Sie durch die kalkweißen Gassen der Altstadt und besuchen das faszinierende Muschelmuseum. Kosten Sie lokale Olivenöl-Spezialitäten.\n\nDer Nachmittag bringt Sie zur Kirche San Francesco, die dramatisch über der Adria thront.\n\nBeenden Sie Ihre Wanderung mit einem Blick auf den Leuchtturm bei Sonnenuntergang, während die Lichter der Stadt zu funkeln beginnen.",
+        "hu": "Kezdje a napot a legendás Pizzomunno sziklánál. A délelőtt a Svevo várhoz és a román stílusú székesegyházhoz vezet.\n\nDélben sétáljon az óváros hófehér házai között, és látogassa meg a különleges kagylómúzeumot. Kóstolja meg a helyi olívaolajat.\n\nA délután a Szent Ferenc-templomhoz kalauzolja, amely drámaian magasodik az Adriai-tenger fölé.\n\nZárja a túrát a világítótorony látványával a naplementében, ahogy a város fényei lassan kigyúlnak.",
+        "ro": "Începeți ziua la legendara stâncă Pizzomunno. Dimineața vă poartă spre Castelul Svevo și catedrala romanică.\n\nLa prânz, plimbați-vă pe străduțele albe ca varul ale centrului vechi și vizitați fascinantul muzeu de scoici. Gustați specialitățile locale cu ulei de măsline.\n\nDupă-amiaza vă aduce la biserica San Francesco, cocoțată dramatic deasupra Mării Adriatice.\n\nÎncheiați plimbarea cu o vedere spre far la apus, în timp ce luminile orașului încep să sclipească.",
+        "en": "Start your day at the legendary Pizzomunno rock. Spend your morning climbing up to the Svevo Castle and visiting the Romanesque Cathedral.\n\nAt midday, stroll through the lime-white alleys of the old town and visit the fascinating shell museum. Taste local olive oil specialties.\n\nIn the afternoon, head to the Church of San Francesco, dramatically perched over the Adriatic Sea.\n\nEnd your walk with a view of the lighthouse at sunset, as the city lights begin to twinkle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Orecchiette al ragù di seppia",
+            "tip": "Nudeln mit Tintenfischragout."
+          },
+          {
+            "name": "Bruschetta Garganica",
+            "tip": "Mit lokalem Olivenöl und Tomaten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orecchiette al ragù di seppia",
+            "tip": "Tészta tintahalraguval, helyi kedvenc."
+          },
+          {
+            "name": "Bruschetta Garganica",
+            "tip": "Helyi olívaolajjal és paradicsommal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Orecchiette al ragù di seppia",
+            "tip": "Paste cu ragu de sepie, deliciu local."
+          },
+          {
+            "name": "Bruschetta Garganica",
+            "tip": "Cu ulei de măsline local și roșii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Orecchiette al ragù di seppia",
+            "tip": "Pasta with cuttlefish ragu, a local favorite."
+          },
+          {
+            "name": "Bruschetta Garganica",
+            "tip": "Topped with local olive oil and tomatoes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Punta San Francesco",
+            "tip": "Ruhiger Ort mit Meeresbrise.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Punta San Francesco",
+            "tip": "Csendes hely friss tengeri szellővel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punta San Francesco",
+            "tip": "Loc liniștit cu briză marină.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Punta San Francesco",
+            "tip": "Quiet spot with a refreshing sea breeze.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenholz-Werkstatt",
+            "tip": "Handgeschnitzte Küchenutensilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívafa műhely",
+            "tip": "Kézzel faragott konyhai eszközök."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Atelier de lemn de măslin",
+            "tip": "Ustensile de bucătărie sculptate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Wood Workshop",
+            "tip": "Hand-carved kitchen utensils and decor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vieste ist sehr hügelig, stellen Sie sich auf Treppen ein.",
+          "Die Nachmittagsruhe (Siesta) wird hier strikt eingehalten.",
+          "Die Sonnenuntergänge am Pizzomunno sind magisch."
+        ],
+        "hu": [
+          "Vieste nagyon dombos, készüljön sok lépcsőre.",
+          "A délutáni pihenőt (szieszta) itt szigorúan betartják.",
+          "A naplementék a Pizzomunnónál varázslatosak."
+        ],
+        "ro": [
+          "Vieste este foarte deluros, pregătiți-vă pentru multe scări.",
+          "Siesta de după-amiază este respectată cu strictețe aici.",
+          "Apusurile la Pizzomunno sunt magice."
+        ],
+        "en": [
+          "Vieste is very hilly, expect many stairs.",
+          "The afternoon siesta is strictly observed here.",
+          "Sunsets at Pizzomunno are truly magical."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Lungomare Enrico Mattei",
+            "hu": "Enrico Mattei sétány",
+            "ro": "Faleza Enrico Mattei",
+            "en": "Lungomare Enrico Mattei"
+          },
+          "coords": [
+            16.173,
+            41.874
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Flache Strecke entlang des goldenen Sandstrandes.",
+            "hu": "Lapos útvonal az aranyszínű homokos strand mentén.",
+            "ro": "Traseu plan de-a lungul plajei cu nisip auriu.",
+            "en": "Flat route along the golden sandy beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco di San Felice",
+            "hu": "San Felice sziklakapu",
+            "ro": "Arcul San Felice",
+            "en": "Arco di San Felice"
+          },
+          "coords": [
+            16.185,
+            41.832
+          ],
+          "category": "natural features",
+          "arrive_at": "11:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Ein natürlicher Felsbogen im Meer.",
+            "hu": "Természetes sziklakapu a tengerben.",
+            "ro": "Un arc natural de stâncă în mare.",
+            "en": "A natural rock arch carved by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Trabucchi del Gargano",
+            "hu": "Garganói halászépítmények (Trabucchi)",
+            "ro": "Trabucchi din Gargano",
+            "en": "Trabucchi of Gargano"
+          },
+          "coords": [
+            16.185,
+            41.888
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 100,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Traditionelle hölzerne Angelmaschinen.",
+            "hu": "Hagyományos fa halászati szerkezetek.",
+            "ro": "Instalații tradiționale de pescuit din lemn.",
+            "en": "Traditional wooden fishing structures."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Küste des Gargano mit dem Fahrrad.",
+        "hu": "Fedezze fel a Gargano-partvidéket kerékpárral.",
+        "ro": "Explorați coasta Gargano cu bicicleta.",
+        "en": "Explore the Gargano coastline by bike."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caciocavallo Podolico",
+            "tip": "Hiesiger Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caciocavallo Podolico",
+            "tip": "Helyi érlelt sajt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caciocavallo Podolico",
+            "tip": "Brânză locală maturată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caciocavallo Podolico",
+            "tip": "Local aged cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Baia di San Felice",
+            "tip": "Ruhige Bucht.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baia di San Felice",
+            "tip": "Csendes öböl.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baia di San Felice",
+            "tip": "Golf liniștit.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Baia di San Felice",
+            "tip": "Quiet bay.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vieste Wein",
+            "tip": "Primitivo und Negroamaro."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Viestei bor",
+            "tip": "Helyi vörösborok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Vieste",
+            "tip": "Vinuri locale roșii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vieste Wine",
+            "tip": "Local red wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenstraße kann windig sein."
+        ],
+        "hu": [
+          "A parti út szeles lehet."
+        ],
+        "ro": [
+          "Drumul de coastă poate fi vântos."
+        ],
+        "en": [
+          "The coastal road can be windy."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 40.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Foresta Umbra",
+            "hu": "Umbra erdő",
+            "ro": "Pădurea Umbra",
+            "en": "Foresta Umbra"
+          },
+          "coords": [
+            16.0,
+            41.8
+          ],
+          "category": "forest",
+          "arrive_at": "10:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 25.0,
+          "tip_5lang": {
+            "de": "Schattiger Buchenwald im Herzen des Gargano.",
+            "hu": "Árnyas bükkerdő a Gargano szívében.",
+            "ro": "Pădure de fagi umbroasă în inima Gargano.",
+            "en": "Shady beech forest in the heart of Gargano."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Ausflug in die wilde Natur des Gargano-Nationalparks.",
+        "hu": "Kirándulás a Gargano Nemzeti Park vadregényes tájaira.",
+        "ro": "O excursie în natura sălbatică a Parcului Național Gargano.",
+        "en": "An excursion into the wild nature of the Gargano National Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Agriturismo",
+            "tip": "Hofküche im Wald."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agriturismo",
+            "tip": "Helyi háztáji konyha az erdőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Agriturismo",
+            "tip": "Bucătărie tradițională în pădure."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agriturismo",
+            "tip": "Farm-to-table dining in the forest."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lago d'Umbra",
+            "tip": "Kleiner See im Wald.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lago d'Umbra",
+            "tip": "Kis tó az erdő mélyén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lago d'Umbra",
+            "tip": "Lac mic în pădure.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lago d'Umbra",
+            "tip": "Small lake deep in the forest.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gargano Honig",
+            "tip": "Waldhonig-Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Garganói méz",
+            "tip": "Erdei mézkülönlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de Gargano",
+            "tip": "Miere de pădure locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gargano Honey",
+            "tip": "Local forest honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind eng und kurvenreich."
+        ],
+        "hu": [
+          "Az utak szűkek és kanyargósak."
+        ],
+        "ro": [
+          "Drumurile sunt înguste și șerpuite."
+        ],
+        "en": [
+          "The roads are narrow and winding."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 10.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof Vieste",
+            "hu": "Viestei buszpályaudvar",
+            "ro": "Autogara Vieste",
+            "en": "Vieste Bus Station"
+          },
+          "coords": [
+            16.17,
+            41.885
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Punkt für Überlandbusse.",
+            "hu": "Központi csomópont a távolsági buszokhoz.",
+            "ro": "Punct central pentru autobuzele interurbane.",
+            "en": "Central hub for intercity buses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Shuttle zu den Stränden.",
+        "hu": "Használja a strandjáratokat a távolabbi öblökhöz.",
+        "ro": "Folosiți naveta către plaje.",
+        "en": "Use the local shuttles to reach nearby bays."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Paposcia",
+            "tip": "Gargano-Sandwich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paposcia",
+            "tip": "Helyi töltött lepény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paposcia",
+            "tip": "Sandviș tradițional din Gargano."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paposcia",
+            "tip": "Traditional Gargano flatbread sandwich."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand-Shuttle-Weg",
+            "tip": "Blick aus dem Fenster.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszos út",
+            "tip": "Kilátás az ablakból.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Traseul autobuzului",
+            "tip": "Vedere pe fereastră.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shuttle Route",
+            "tip": "Window views of the coast.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Frisches Obst und Gemüse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss gyümölcs és zöldség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Fructe și legume proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Fresh fruit and vegetables."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Busse können unregelmäßig fahren."
+        ],
+        "hu": [
+          "A buszok rendszertelenek lehetnek."
+        ],
+        "ro": [
+          "Autobuzele pot avea întârzieri."
+        ],
+        "en": [
+          "Buses can be irregular."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "_coords": [
+      16.1747,
+      41.8819
+    ],
+    "_region": "IT-75 Puglia",
+    "transit_official": "https://www.comune.vieste.fg.it/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Vieste",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.comune.vieste.fg.it/",
+    "tourism_office": "https://www.comune.vieste.fg.it/",
+    "webcam": "https://www.skylinewebcams.com/it/webcam/italia/puglia/foggia/vieste-porto.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/vieste-c562247",
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch dominant; im Gargano lokaler Dialekt. Deutsch und Englisch in Hotels meist verfügbar.",
+      "hu": "Az olasz dominál; Gargano nyelvjárás helyi. Német és angol szállodákban általában elérhető.",
+      "ro": "Italiana e dominantă; dialect local în Gargano. Germana și engleza în hoteluri de obicei.",
+      "en": "Italian dominant; Gargano dialect heard locally. German and English usually fine in hotels."
+    },
+    "best_time": {
+      "de": "Juni und September optimal; Juli–August Hochsaison mit deutschen Touristen.",
+      "hu": "Június és szeptember ideális; július–augusztus főszezon német turistákkal.",
+      "ro": "Iunie și septembrie optime; iulie–august sezon de vârf cu turiști germani.",
+      "en": "June and September optimal; July–August peak with German tour crowds."
+    },
+    "warnings": {
+      "de": "Küstenstraße SS89 im Sommer staut; Felsenstrände schwer zugänglich. Tramontana-Wind möglich.",
+      "hu": "SS89 parti út nyáron bedugul; sziklás strandok nehezen elérhetők. Tramontana szél lehet.",
+      "ro": "SS89 aglomerată vara; plajele stâncoase greu accesibile. Posibil vânt tramontana.",
+      "en": "SS89 coast road jams in summer; rocky beaches hard to reach. Tramontana wind possible."
+    }
+  }
+}

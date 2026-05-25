@@ -1,0 +1,921 @@
+{
+  "city_id": "pizzo",
+  "anchor": {
+    "name": "Pizzo",
+    "coords": [
+      16.1567,
+      38.7344
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piazza della Repubblica",
+          "coords": [
+            16.1575,
+            38.735
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Herz von Pizzo, ideal für ein Frühstück.",
+            "hu": "Pizzo szíve, ideális egy reggelihez.",
+            "ro": "Inima orașului Pizzo, ideală pentru micul dejun.",
+            "en": "The heart of Pizzo, ideal for breakfast."
+          }
+        },
+        {
+          "name": "Castello Murat",
+          "coords": [
+            16.1585,
+            38.7355
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das Schicksal von Joachim Murat.",
+            "hu": "Ismerje meg Joachim Murat sorsát.",
+            "ro": "Aflați despre soarta lui Joachim Murat.",
+            "en": "Learn about the fate of Joachim Murat."
+          }
+        },
+        {
+          "name": "Duomo di San Giorgio",
+          "coords": [
+            16.159,
+            38.736
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Prächtige Barockkirche im Zentrum.",
+            "hu": "Pompás barokk templom a központban.",
+            "ro": "Biserică barocă splendidă în centru.",
+            "en": "Splendid Baroque church in the center."
+          }
+        },
+        {
+          "name": "Vicolo del Bacio",
+          "coords": [
+            16.158,
+            38.7352
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein romantischer Fotostopp.",
+            "hu": "Egy romantikus fotómegálló.",
+            "ro": "O oprire romantică pentru fotografii.",
+            "en": "A romantic photo stop."
+          }
+        },
+        {
+          "name": "Marina di Pizzo",
+          "coords": [
+            16.16,
+            38.732
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen am Hafen.",
+            "hu": "Élvezze az ebédet a kikötőben.",
+            "ro": "Bucurați-vă de prânz în port.",
+            "en": "Enjoy lunch at the marina."
+          }
+        },
+        {
+          "name": "Chiesetta di Piedigrotta",
+          "coords": [
+            16.175,
+            38.745
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Die faszinierende Höhlenkirche am Meer.",
+            "hu": "A lenyűgöző barlangtemplom a tengerparton.",
+            "ro": "Fascinanta biserică în peșteră de la malul mării.",
+            "en": "The fascinating cave church by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der lebhaften Piazza della Repubblica mit einem berühmten Tartufo-Eis. Besuchen Sie anschließend das historische Castello Murat, wo Geschichte lebendig wird.\n\nMittags schlendern Sie durch die barocken Gassen zum Duomo di San Giorgio und machen einen kurzen Halt im romantischen Vicolo del Bacio.\n\nNachmittags steigen Sie zur Marina di Pizzo hinab, um das maritime Flair zu genießen und sich am Strand zu entspannen.\n\nDer krönende Abschluss ist die Chiesetta di Piedigrotta, eine einzigartige Kirche, die direkt in den Tuffstein gehauen wurde und bei Ebbe besonders magisch wirkt.",
+        "hu": "Kezdje a napot a nyüzsgő Piazza della Republicán egy híres Tartufo fagylalttal. Ezután látogasson el a történelmi Castello Murathoz, ahol életre kel a történelem.\n\nDélben sétáljon át a barokk utcákon a Duomo di San Giorgio-hoz, és tegyen egy rövid megállót a romantikus Vicolo del Bacióban.\n\nDélután ereszkedjen le a Marina di Pizzóhoz, hogy élvezze a tengerparti hangulatot és lazítson a strandon.\n\nA nap fénypontja a Chiesetta di Piedigrotta, egy egyedülálló templom, amelyet közvetlenül a tufa sziklába vájtak, és apálykor különösen varázslatos.",
+        "ro": "Începeți ziua în vibranta Piazza della Repubblica cu o faimoasă înghețată Tartufo. Apoi vizitați istoricul Castello Murat, unde istoria prinde viață.\n\nLa prânz, plimbați-vă pe străzile baroce până la Duomo di San Giorgio și faceți o scurtă oprire în romanticul Vicolo del Bacio.\n\nDupă-amiaza, coborâți spre Marina di Pizzo pentru a vă bucura de atmosfera maritimă și pentru a vă relaxa pe plajă.\n\nPunctul culminant este Chiesetta di Piedigrotta, o biserică unică săpată direct în tuf, care pare deosebit de magică la reflux.",
+        "en": "Start your day in the lively Piazza della Repubblica with a famous Tartufo gelato. Then visit the historic Castello Murat, where history comes to life.\n\nAt midday, stroll through the Baroque alleys to the Duomo di San Giorgio and make a short stop at the romantic Vicolo del Bacio.\n\nThe afternoon, descend to Marina di Pizzo to enjoy the maritime flair and relax on the beach.\n\nThe crowning finale is the Chiesetta di Piedigrotta, a unique church carved directly into the tuff stone, which feels especially magical at low tide."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tartufo di Pizzo",
+            "tip": "Das originale Schokoladen-Haselnuss-Eis."
+          },
+          {
+            "name": "Spada alla Pizzitana",
+            "tip": "Schwertfisch nach lokaler Art."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tartufo di Pizzo",
+            "tip": "Az eredeti csokoládé-mogyoró fagylalt."
+          },
+          {
+            "name": "Spada alla Pizzitana",
+            "tip": "Kardhal helyi módon készítve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tartufo di Pizzo",
+            "tip": "Originala înghețată de ciocolată și alune."
+          },
+          {
+            "name": "Spada alla Pizzitana",
+            "tip": "Pește spadă în stil local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tartufo di Pizzo",
+            "tip": "The original chocolate-hazelnut gelato."
+          },
+          {
+            "name": "Spada alla Pizzitana",
+            "tip": "Swordfish prepared in the local style."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belvedere di Pizzo",
+            "tip": "Panoramablick auf die Küste.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lungomare",
+            "tip": "Ruhiger Spaziergang am Abend.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvedere di Pizzo",
+            "tip": "Panorámás kilátás a partvidékre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lungomare",
+            "tip": "Csendes esti séta.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere di Pizzo",
+            "tip": "Vedere panoramică asupra coastei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lungomare",
+            "tip": "Plimbare liniștită seara.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belvedere di Pizzo",
+            "tip": "Panoramic view of the coast.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lungomare",
+            "tip": "Quiet evening walk.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Garibaldi",
+            "tip": "Lokale Feinkost und Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Garibaldi",
+            "tip": "Helyi finomságok és kerámiák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Garibaldi",
+            "tip": "Delicii locale și ceramică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Garibaldi",
+            "tip": "Local delicacies and ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Pizzo ist sehr hügelig, bequeme Schuhe sind Pflicht.",
+          "Das beste Tartufo gibt es in den Bars an der Piazza.",
+          "Besuchen Sie Piedigrotta am späten Nachmittag für das beste Licht.",
+          "Achten Sie auf die Siesta-Zeiten der Geschäfte."
+        ],
+        "hu": [
+          "Pizzo nagyon dombos, a kényelmes cipő kötelező.",
+          "A legjobb Tartufót a főtéri bárokban találja.",
+          "Piedigrottát késő délután látogassa a legjobb fényekért.",
+          "Ügyeljen az üzletek szieszta idejére."
+        ],
+        "ro": [
+          "Pizzo este foarte deluros, pantofii confortabili sunt obligatorii.",
+          "Cea mai bună Tartufo se găsește la barurile din piață.",
+          "Vizitați Piedigrotta după-amiaza târziu pentru cea mai bună lumină.",
+          "Atenție la orele de siestă ale magazinelor."
+        ],
+        "en": [
+          "Pizzo is very hilly, comfortable shoes are a must.",
+          "The best Tartufo is found in the bars on the square.",
+          "Visit Piedigrotta in the late afternoon for the best light.",
+          "Be mindful of the shops' siesta times."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Belvedere di Pizzo",
+          "coords": [
+            16.155,
+            38.734
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bester Parkplatz für den Stadtrundgang.",
+            "hu": "Legjobb parkoló a városi sétához.",
+            "ro": "Cea mai bună parcare pentru turul orașului.",
+            "en": "Best parking spot for the city tour."
+          }
+        },
+        {
+          "name": "Chiesetta di Piedigrotta",
+          "coords": [
+            16.175,
+            38.745
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Eigener Parkplatz direkt an der Treppe.",
+            "hu": "Saját parkoló közvetlenül a lépcsőnél.",
+            "ro": "Parcare proprie chiar lângă scări.",
+            "en": "Dedicated parking right by the stairs."
+          }
+        },
+        {
+          "name": "Castello Murat",
+          "coords": [
+            16.1585,
+            38.7355
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Zentraler Stopp in der Oberstadt.",
+            "hu": "Központi megálló a felsővárosban.",
+            "ro": "Oprire centrală în orașul de sus.",
+            "en": "Central stop in the upper town."
+          }
+        },
+        {
+          "name": "Marina di Pizzo",
+          "coords": [
+            16.16,
+            38.732
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hafen für Fischspezialitäten.",
+            "hu": "Hajtson le a kikötőbe a halspecialitásokért.",
+            "ro": "Mergeți în port pentru specialități de pește.",
+            "en": "Drive to the marina for fish specialties."
+          }
+        },
+        {
+          "name": "Chiesa dell'Immacolata",
+          "coords": [
+            16.161,
+            38.7335
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein ruhiges Juwel abseits der Massen.",
+            "hu": "Egy csendes ékszerdoboz távol a tömegtől.",
+            "ro": "O bijuterie liniștită departe de mulțime.",
+            "en": "A quiet jewel away from the crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Pizzo bequem mit dem Auto. Beginnen Sie am Belvedere für einen Überblick, bevor Sie zur einzigartigen Piedigrotta-Kirche fahren.\n\nNach der Besichtigung der Höhlenkirche führt Sie der Weg zurück ins Zentrum zum Castello Murat.\n\nZum Mittagessen parken Sie am Hafen (Marina), wo Sie die frische Meeresbrise und exzellente Küche genießen können.\n\nDer Nachmittag bietet Zeit für die weniger bekannten Kirchen der Oberstadt, bevor Sie die Panoramafahrt entlang der Costa degli Dei fortsetzen.",
+        "hu": "Fedezze fel Pizzót kényelmesen autóval. Kezdjen a Belvederénél egy áttekintésért, majd hajtson az egyedülálló Piedigrotta templomhoz.\n\nA barlangtemplom után az út visszavezet a központba, a Murat-kastélyhoz.\n\nEbédhez parkoljon a kikötőben (Marina), ahol élvezheti a friss tengeri szellőt és a kiváló konyhát.\n\nA délután lehetőséget ad a felsőváros kevésbé ismert templomaira, mielőtt folytatná a panorámautat az Istenek partja mentén.",
+        "ro": "Explorați Pizzo confortabil cu mașina. Începeți la Belvedere pentru o privire de ansamblu, înainte de a conduce spre biserica unică Piedigrotta.\n\nDupă vizitarea bisericii din peșteră, drumul vă duce înapoi în centru, la Castelul Murat.\n\nPentru prânz, parcați în port (Marina), unde puteți savura briza mării și bucătăria excelentă.\n\nDupă-amiaza oferă timp pentru bisericile mai puțin cunoscöt din orașul de sus, înainte de a continua drumul panoramic de-a lungul Costa degli Dei.",
+        "en": "Explore Pizzo comfortably by car. Start at the Belvedere for an overview before driving to the unique Piedigrotta church.\n\nAfter visiting the cave church, the route takes you back to the center to Castello Murat.\n\nFor lunch, park at the marina, where you can enjoy the fresh sea breeze and excellent cuisine.\n\nThe afternoon offers time for the lesser-known churches of the upper town before continuing the scenic drive along the Costa degli Dei."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Nduja di Spilinga",
+            "tip": "Scharfe Streichwurst aus der Nachbarschaft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nduja di Spilinga",
+            "tip": "Csípős kenhető kolbász a szomszédból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Nduja di Spilinga",
+            "tip": "Salam picant tartinabil din vecinătate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nduja di Spilinga",
+            "tip": "Spicy spreadable sausage from the neighborhood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strada Costiera",
+            "tip": "Halten Sie an den kleinen Buchten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Partmenti út",
+            "tip": "Álljon meg a kis öblöknél.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul de coastă",
+            "tip": "Opriți la micile golfuri.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal Road",
+            "tip": "Stop at the small coves.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tartufo-Boxen",
+            "tip": "Spezielle Kühlboxen für den Transport."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tartufo-boxok",
+            "tip": "Speciális hűtődobozok a szállításhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cutii pentru Tartufo",
+            "tip": "Cutii frigorifice speciale pentru transport."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tartufo Boxes",
+            "tip": "Special cooler boxes for transport."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Marina ist im Sommer schwierig.",
+          "Achten Sie auf ZTL-Schilder im historischen Zentrum.",
+          "Die Straße zur Piedigrotta ist eng.",
+          "Nutzen Sie bewachte Parkplätze."
+        ],
+        "hu": [
+          "A kikötői parkolás nyáron nehéz.",
+          "Figyelje a ZTL táblákat a történelmi központban.",
+          "A Piedigrottához vezető út keskeny.",
+          "Használjon őrzött parkolókat."
+        ],
+        "ro": [
+          "Parcarea în Marina este dificilă vara.",
+          "Atenție la indicatoarele ZTL din centrul istoric.",
+          "Drumul spre Piedigrotta este îngust.",
+          "Folosiți parcări păzite."
+        ],
+        "en": [
+          "Parking at the marina is difficult in summer.",
+          "Watch for ZTL signs in the historic center.",
+          "The road to Piedigrotta is narrow.",
+          "Use guarded parking lots."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.5,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Marina di Pizzo",
+          "coords": [
+            16.16,
+            38.732
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Flache Strecke entlang der Küste.",
+            "hu": "Lapos szakasz a part mentén.",
+            "ro": "Traseu plan de-a lungul coastei.",
+            "en": "Flat stretch along the coast."
+          }
+        },
+        {
+          "name": "Chiesetta di Piedigrotta",
+          "coords": [
+            16.175,
+            38.745
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad oben am Eingang ab.",
+            "hu": "Hagyja a biciklit fent a bejáratnál.",
+            "ro": "Lăsați bicicleta sus, la intrare.",
+            "en": "Park your bike at the top entrance."
+          }
+        },
+        {
+          "name": "Piazza della Repubblica",
+          "coords": [
+            16.1575,
+            38.735
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Anstrengender Anstieg, Belohnung: Tartufo!",
+            "hu": "Fárasztó emelkedő, jutalom: Tartufo!",
+            "ro": "Urcare obositoare, recompensă: Tartufo!",
+            "en": "Strenuous climb, reward: Tartufo!"
+          }
+        },
+        {
+          "name": "Belvedere di Pizzo",
+          "coords": [
+            16.155,
+            38.734
+          ],
+          "category": "natural features",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannter Ausklang mit Aussicht.",
+            "hu": "Pihentető befejezés kilátással.",
+            "ro": "Final relaxant cu vedere.",
+            "en": "Relaxed ending with a view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour entspannt am Hafen von Pizzo. Die Strecke zur Piedigrotta-Kirche ist flach und bietet eine herrliche Meeresbrise.\n\nNach der Besichtigung der Höhlenkirche folgt der sportliche Teil: der Aufstieg in die Oberstadt. Die Steigung wird durch den Ausblick auf den Golf von Sant'Eufemia belohnt.\n\nOben angekommen, ist eine Pause auf der Piazza bei einem Eis obligatorisch.\n\nBeenden Sie die Tour am Belvedere, bevor Sie gemütlich zurück zum Ausgangspunkt rollen.",
+        "hu": "Kezdje a biciklitúrát kényelmesen Pizzo kikötőjében. A Piedigrotta templomhoz vezető út lapos, és kellemes tengeri szellőt kínál.\n\nA barlangtemplom látogatása után következik a sportos rész: az emelkedő a felsővárosba. A kaptatót a Sant'Eufemia-öbölre nyíló kilátás aranyozza be.\n\nA csúcsra érve kötelező egy pihenő a főtéren egy fagylalt mellett.\n\nZárja a túrát a Belvederénél, mielőtt kényelmesen visszagurulna a kiindulópontra.",
+        "ro": "Începeți turul cu bicicleta relaxat în portul Pizzo. Traseul către biserica Piedigrotta este plan și oferă o briză marină plăcută.\n\nDupă vizitarea bisericii din peșteră urmează partea sportivă: urcarea în orașul de sus. Efortul este răsplătit de vederea asupra golfului Sant'Eufemia.\n\nAjunși sus, o pauză în piață cu o înghețată este obligatorie.\n\nÎncheiați turul la Belvedere înainte de a coborî lejer înapoi la punctul de plecare.",
+        "en": "Start your bike tour relaxed at the port of Pizzo. The route to the Piedigrotta church is flat and offers a wonderful sea breeze.\n\nAfter visiting the cave church comes the sporting part: the climb to the upper town. The ascent is rewarded by the view of the Gulf of Sant'Eufemia.\n\nOnce at the top, a break in the square with a gelato is mandatory.\n\nEnd the tour at the Belvedere before rolling leisurely back to the starting point."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Granita al Limone",
+            "tip": "Schnelle Erfrischung für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citromos granita",
+            "tip": "Gyors frissítő bicikliseknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Granita de lămâie",
+            "tip": "Răcorire rapidă pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lemon Granita",
+            "tip": "Quick refreshment for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spiaggia libera",
+            "tip": "Ruhiger Strandabschnitt nahe Piedigrotta.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szabadstrand",
+            "tip": "Csendes partszakasz Piedigrotta közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plajă liberă",
+            "tip": "Secțiune de plajă liniștită lângă Piedigrotta.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Free Beach",
+            "tip": "Quiet beach section near Piedigrotta.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bici-Shop Pizzo",
+            "tip": "Lokale Radkarten und Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biciklisbolt Pizzo",
+            "tip": "Helyi biciklis térképek és kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete Pizzo",
+            "tip": "Hărți locale pentru ciclism și accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop Pizzo",
+            "tip": "Local bike maps and accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Mountainbike oder E-Bike ist ideal.",
+          "Die Küstenstraße kann windig sein.",
+          "Schließen Sie Ihr Rad immer gut ab.",
+          "Tragen Sie einen Helm."
+        ],
+        "hu": [
+          "Egy mountain bike vagy e-bike ideális.",
+          "A partmenti út szeles lehet.",
+          "Mindig zárja le jól a biciklit.",
+          "Viseljen sisakot."
+        ],
+        "ro": [
+          "O bicicletă montană sau electrică este ideală.",
+          "Drumul de coastă poate fi vântos.",
+          "Încuiați întotdeauna bine bicicleta.",
+          "Purtați cască."
+        ],
+        "en": [
+          "A mountain bike or e-bike is ideal.",
+          "The coastal road can be windy.",
+          "Always lock your bike securely.",
+          "Wear a helmet."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 7.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Piazza della Repubblica",
+          "coords": [
+            16.1575,
+            38.735
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentraler Busstopp in der Oberstadt.",
+            "hu": "Központi buszmegálló a felsővárosban.",
+            "ro": "Stație centrală de autobuz în orașul de sus.",
+            "en": "Central bus stop in the upper town."
+          }
+        },
+        {
+          "name": "Marina di Pizzo",
+          "coords": [
+            16.16,
+            38.732
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Busshuttle zwischen Stadt und Hafen.",
+            "hu": "Buszjárat a város és a kikötő között.",
+            "ro": "Transfer cu autobuzul între oraș și port.",
+            "en": "Bus shuttle between town and harbor."
+          }
+        },
+        {
+          "name": "Chiesetta di Piedigrotta",
+          "coords": [
+            16.175,
+            38.745
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Haltestelle an der Hauptstraße, dann 5 Min. Fußweg.",
+            "hu": "Megálló a főúton, majd 5 perc séta.",
+            "ro": "Stație la drumul principal, apoi 5 min. pe jos.",
+            "en": "Stop on the main road, then a 5-min walk."
+          }
+        },
+        {
+          "name": "Castello Murat",
+          "coords": [
+            16.1585,
+            38.7355
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Letzter Stopp in der Nähe der Piazza.",
+            "hu": "Utolsó megálló a főtér közelében.",
+            "ro": "Ultima oprire lângă piață.",
+            "en": "Last stop near the main square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus-Shuttle, um Pizzo stressfrei zu erkunden. Beginnen Sie auf der Piazza mit einem Frühstück.\n\nDer Shuttle bringt Sie bequem hinunter zum Hafen, wo Sie am Strand entspannen oder frischen Fisch essen können.\n\nNachmittags führt die Fahrt zur Piedigrotta-Kirche. Der Bus hält direkt oberhalb der Treppen zum Strand.\n\nBeenden Sie Ihre Tour beim Castello Murat, das nur wenige Gehminuten von der zentralen Bushaltestelle entfernt liegt.",
+        "hu": "Használja a helyi buszjáratot Pizzo stresszmentes felfedezéséhez. Kezdjen a főtéren egy reggelivel.\n\nA járat kényelmesen leviszi a kikötőbe, ahol lazíthat a strandon vagy friss halat ehet.\n\nDélután az út a Piedigrotta templomhoz vezet. A busz közvetlenül a strandhoz vezető lépcsők felett áll meg.\n\nZárja a túrát a Murat-kastélynál, amely csak pár perc séta a központi buszmegállótól.",
+        "ro": "Folosiți microbuzul local pentru a explora Pizzo fără stres. Începeți în piață cu micul dejun.\n\nMicrobuzul vă duce confortabil în port, unde vă puteți relaxa pe plajă sau puteți mânca pește proaspăt.\n\nDupă-amiaza, drumul duce la biserica Piedigrotta. Autobuzul oprește chiar deasupra scărilor spre plajă.\n\nÎncheiați turul la Castelul Murat, situat la doar câteva minute de mers pe jos de stația centrală.",
+        "en": "Use the local bus shuttle to explore Pizzo stress-free. Start in the main square with breakfast.\n\nThe shuttle takes you comfortably down to the marina, where you can relax on the beach or eat fresh fish.\n\nIn the afternoon, the journey takes you to the Piedigrotta church. The bus stops right above the stairs to the beach.\n\nEnd your tour at Castello Murat, just a few minutes' walk from the central bus stop."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Limoncello locale",
+            "tip": "Nach dem Essen probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi Limoncello",
+            "tip": "Kóstolja meg étkezés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Limoncello local",
+            "tip": "Gustați după masă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Limoncello",
+            "tip": "Try it after your meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piazza Bänke",
+            "tip": "Beobachten Sie das Treiben.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza padok",
+            "tip": "Figyelje a nyüzsgést.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci în piață",
+            "tip": "Observați agitația.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza benches",
+            "tip": "Watch the world go by.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tabacchi",
+            "tip": "Postkarten und Tickets."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tabacchi",
+            "tip": "Képeslapok és jegyek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tabacchi",
+            "tip": "Vederi și bilete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tabacchi",
+            "tip": "Postcards and tickets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Ticketkauf im Bus ist teurer.",
+          "Der Stadtbus ist klein und wendig.",
+          "Achten Sie auf die gelben Haltestellenschilder.",
+          "Sonntags gibt es eingeschränkten Verkehr."
+        ],
+        "hu": [
+          "A buszon vett jegy drágább.",
+          "A városi busz kicsi és fordulékony.",
+          "Figyelje a sárga megállótáblákat.",
+          "Vasárnap korlátozott a forgalom."
+        ],
+        "ro": [
+          "Cumpărarea biletului în autobuz este mai scumpă.",
+          "Autobuzul urban este mic și agil.",
+          "Atenție la indicatoarele galbene de stație.",
+          "Duminica transportul este limitat."
+        ],
+        "en": [
+          "Buying tickets on the bus is more expensive.",
+          "The city bus is small and nimble.",
+          "Watch for the yellow bus stop signs.",
+          "Limited service on Sundays."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "_coords": [
+      16.1583,
+      38.7333
+    ],
+    "_region": "IT-78 Calabria",
+    "transit_official": "https://www.trenitalia.com/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Pizzo",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://comune.pizzo.vv.it/",
+    "tourism_office": "https://comune.pizzo.vv.it/",
+    "webcam": null,
+    "restaurants_booking": "https://www.thefork.it/ristoranti/pizzo",
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch und kalabrischer Dialekt; Englisch in Gelaterien und Strandbars mäßig.",
+      "hu": "Olasz és kalábriai nyelvjárás; angol fagyizókban és strandbárokban közepes.",
+      "ro": "Italiana și dialect calabrez; engleza moderată în gelaterii și beach bar-uri.",
+      "en": "Italian and Calabrian dialect; English moderate in gelaterias and beach bars."
+    },
+    "best_time": {
+      "de": "Juni und September für Tartufo-Gelato auf der Piazza ohne Hochsommer-Schlange.",
+      "hu": "Június és szeptember a Tartufo fagyihoz a főtéren, főszezoni sor nélkül.",
+      "ro": "Iunie și septembrie pentru gelato Tartufo în piață fără cozi de vârf.",
+      "en": "June and September best for Tartufo gelato on the piazza without peak queues."
+    },
+    "warnings": {
+      "de": "Sommer überfüllt durch Costa-degli-Dei-Touristen; Aragonese-Burg Stufen rutschig.",
+      "hu": "Nyáron Costa degli Dei turisták zsúfolják; az Aragóniai vár lépcsői csúszósak.",
+      "ro": "Vara aglomerat de turiști Costa degli Dei; treptele castelului Aragonez alunecoase.",
+      "en": "Summers crammed by Costa degli Dei tourists; Aragonese castle stairs slippery."
+    }
+  }
+}

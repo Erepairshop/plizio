@@ -1,0 +1,313 @@
+{
+  "city_id": "ascoli-piceno",
+  "anchor": {
+    "name": "Piazza del Popolo",
+    "coords": [
+      13.575,
+      42.8536
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piazza del Popolo",
+          "coords": [
+            13.5752,
+            42.8538
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Trinken Sie einen Kaffee im historischen Meletti.",
+            "hu": "Igyál egy kávét a történelmi Caffè Meletti-ben.",
+            "ro": "Beți o cafea la istorica Cafenea Meletti.",
+            "en": "Have a coffee at the historic Caffè Meletti."
+          }
+        },
+        {
+          "name": "Palazzo dei Capitani",
+          "coords": [
+            13.5748,
+            42.854
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die archäologische Zone im Keller.",
+            "hu": "Nézd meg a pincerészben található régészeti ásatásokat.",
+            "ro": "Vizitați zona arheologică de la subsol.",
+            "en": "Visit the archaeological area in the basement."
+          }
+        },
+        {
+          "name": "Chiesa di San Francesco",
+          "coords": [
+            13.5758,
+            42.8545
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Kreuzgang daneben ist eine Oase der Ruhe.",
+            "hu": "A mellette lévő kerengő a nyugalom szigete.",
+            "ro": "Cloastrul de alături este o oază de liniște.",
+            "en": "The adjacent cloister is an oasis of peace."
+          }
+        },
+        {
+          "name": "Cattedrale di Sant'Emidio",
+          "coords": [
+            13.5775,
+            42.8525
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Polyptychon von Crivelli.",
+            "hu": "Csodáld meg Crivelli híres szárnyasoltárát.",
+            "ro": "Admirați polipticul lui Crivelli.",
+            "en": "Admire the polyptych by Crivelli."
+          }
+        },
+        {
+          "name": "Battistero di San Giovanni",
+          "coords": [
+            13.5772,
+            42.8523
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Juwel romanischer Architektur.",
+            "hu": "A román stílusú építészet egyik gyöngyszeme.",
+            "ro": "O bijuterie a arhitecturii romanice.",
+            "en": "A gem of Romanesque architecture."
+          }
+        },
+        {
+          "name": "Forte Malatesta",
+          "coords": [
+            13.5825,
+            42.8528
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick von der Festung auf die Stadt.",
+            "hu": "Élvezd a kilátást az erődből a városra.",
+            "ro": "Bucurați-vă de vederea asupra orașului din fortăreață.",
+            "en": "Enjoy the view over the city from the fortress."
+          }
+        },
+        {
+          "name": "Ponte di Cecco",
+          "coords": [
+            13.5845,
+            42.852
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eine antike Brücke voller Legenden.",
+            "hu": "Egy ókori híd, amelyhez sok legenda fűződik.",
+            "ro": "Un pod antic plin de legende.",
+            "en": "An ancient bridge full of legends."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der Piazza del Popolo, einem der schönsten Plätze Italiens, der ganz aus Travertin gebaut ist. Ein Espresso im historischen Caffè Meletti gehört zum Pflichtprogramm.\nMittags erkunden Sie den Palazzo dei Capitani und die angrenzende Kirche San Francesco, bevor Sie zur Piazza Arringo schlendern.\nAm Nachmittag widmen Sie sich der Kathedrale Sant'Emidio und dem Battistero, zwei Meisterwerken der sakralen Kunst.\nZum Abschluss besuchen Sie die beeindruckende Festung Forte Malatesta und spazieren über die antike Brücke Ponte di Cecco, um den Tag entspannt ausklingen zu lassen.",
+        "hu": "Kezdd a napot a Piazza del Popolo-n, amelyet Olaszország egyik legszebb tereként tartanak számon travertin mészkő burkolata miatt. Egy kávé a Caffè Meletti-ben kötelező program.\nDélidőben fedezd fel a Palazzo dei Capitani épületét és a gótikus San Francesco templomot, majd sétálj át a Piazza Arringo-ra.\nDélután látogass el a Sant'Emidio székesegyházhoz és a keresztelőkápolnához, ahol értékes műalkotásokat láthatsz.\nA napot a monumentális Forte Malatesta erődnél és a legendás Ponte di Cecco hídnál fejezd be, élvezve a város esti fényeit.",
+        "ro": "Începeți ziua în Piazza del Popolo, una dintre cele mai frumoase piețe din Italia, construită integral din travertin. O cafea la Caffè Meletti este obligatorie.\nLa prânz, explorați Palazzo dei Capitani și biserica San Francesco, înainte de a merge spre Piazza Arringo.\nDupă-amiaza este dedicată Catedralei Sant'Emidio și Botezătorului, două capodopere ale artei sacre.\nÎncheiați ziua la impresionanta fortăreață Forte Malatesta și treceți peste anticul Ponte di Cecco pentru a încheia ziua într-o notă istorică.",
+        "en": "Start your day in Piazza del Popolo, widely considered one of Italy's most beautiful squares, built entirely from travertine. A coffee at the historic Caffè Meletti is a must.\nAt midday, explore the Palazzo dei Capitani and the Gothic San Francesco church before strolling to Piazza Arringo.\nIn the afternoon, visit the Cathedral of Sant'Emidio and the Baptistery, home to precious works of art.\nEnd your day at the monumental Forte Malatesta and the legendary Ponte di Cecco bridge, enjoying the city's historic atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Olive all'ascolana",
+            "tip": "Frittierte, gefüllte Oliven bei Migliori."
+          },
+          {
+            "name": "Anisetta Meletti",
+            "tip": "Lokaler Anislikör im Caffè Meletti."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olive all'ascolana",
+            "tip": "Húsos töltött rántott olajbogyó a Migliori-nál."
+          },
+          {
+            "name": "Anisetta Meletti",
+            "tip": "Híres helyi ánizslikőr a Caffè Meletti-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Măsline ascolane",
+            "tip": "Măsline umplute și prăjite la Migliori."
+          },
+          {
+            "name": "Anisetta Meletti",
+            "tip": "Lichior de anason local la Cafeneaua Meletti."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive all'ascolana",
+            "tip": "Stuffed fried olives, a local specialty at Migliori."
+          },
+          {
+            "name": "Anisetta Meletti",
+            "tip": "Famous local anise liqueur at Caffè Meletti."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chiostro di San Francesco",
+            "tip": "Ein friedlicher Kreuzgang mitten im Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Francesco kerengő",
+            "tip": "Békés belső udvar a város szívében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cloastrul San Francesco",
+            "tip": "O curte interioară liniștită în inima orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Francesco Cloister",
+            "tip": "A peaceful courtyard in the heart of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Travertin-Handwerk",
+            "tip": "Kleine Skulpturen aus dem Stein der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Travertin kézműves tárgyak",
+            "tip": "Vásárolj helyi mészkőből készült emléktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat din travertin",
+            "tip": "Mici sculpturi din piatra specifică orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Travertine Crafts",
+            "tip": "Small sculptures made from the city's signature stone."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kommen Sie am späten Nachmittag, wenn der Travertin golden leuchtet.",
+          "Probieren Sie die Oliven direkt auf der Straße.",
+          "Ascoli ist die Stadt der hundert Türme.",
+          "Besuchen Sie den Antiquitätenmarkt am dritten Sonntag im Monat."
+        ],
+        "hu": [
+          "Késő délután látogass el a főtérre, amikor a mészkő arany színben ragyog.",
+          "Kóstold meg a töltött olajbogyót egy papírtasakból az utcán sétálva.",
+          "Ascoli a 'száz torony városa', nézz fel gyakran.",
+          "Minden hónap harmadik vasárnapján hatalmas antik piac van."
+        ],
+        "ro": [
+          "Vizitați piața principală după-amiaza târziu, când travertinul strălucește auriu.",
+          "Gustați măslinele direct de pe stradă.",
+          "Ascoli este orașul celor o sută de turnuri.",
+          "Vizitați piața de antichități în a treia duminică a lunii."
+        ],
+        "en": [
+          "Visit the main square in the late afternoon when the travertine glows golden.",
+          "Try the olives from a paper cone while walking.",
+          "Ascoli is known as the 'City of a Hundred Towers'.",
+          "Check out the antique market on the third Sunday of the month."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "_coords": [
+      13.5747,
+      42.8536
+    ],
+    "_region": "IT-57 Marche",
+    "transit_official": "https://www.trenitalia.com/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Ascoli_Piceno",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.comune.ap.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/151",
+    "tourism_office": "https://visitascoli.it/en/",
+    "webcam": "https://www.ascoliwebcam.it/",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/ascoli-piceno-c561193",
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch Hauptsprache; marchigianischer Dialekt lokal. Englisch in Bars um Piazza del Popolo akzeptabel.",
+      "hu": "Olasz az elsődleges; marchigiano nyelvjárás. Angol a Piazza del Popolo bárjaiban elfogadható.",
+      "ro": "Italiana e principala; dialect marchigian local. Engleza acceptabilă în barurile din Piazza del Popolo.",
+      "en": "Italian primary; Marchigiano dialect locally. English acceptable in bars around Piazza del Popolo."
+    },
+    "best_time": {
+      "de": "Mai–Juni und September; August Quintana-Turnier sehenswert. Winter mild aber regnerisch.",
+      "hu": "Május–június és szeptember; augusztusban Quintana lovagi torna. Tél enyhe de esős.",
+      "ro": "Mai–iunie și septembrie; august turneul Quintana. Iarna blândă dar ploioasă.",
+      "en": "May–June and September; August Quintana medieval tournament. Winter mild but rainy."
+    },
+    "warnings": {
+      "de": "Travertin-Altstadt schön aber rutschig bei Regen. Erdbebenspuren 2016 noch sichtbar in Umgebung.",
+      "hu": "Travertin óváros gyönyörű, de esőben csúszós. 2016-os földrengés nyomai környéken láthatók.",
+      "ro": "Centrul vechi de travertin frumos dar alunecos pe ploaie. Urme cutremur 2016 vizibile în jur.",
+      "en": "Travertine old town beautiful but slippery in rain. 2016 earthquake damage still visible nearby."
+    }
+  }
+}

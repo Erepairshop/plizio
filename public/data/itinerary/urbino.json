@@ -1,0 +1,1050 @@
+{
+  "city_id": "urbino",
+  "anchor": {
+    "name": "Urbino",
+    "coords": [
+      12.6364,
+      43.7261
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza della Repubblica",
+            "hu": "Piazza della Repubblica",
+            "ro": "Piazza della Repubblica",
+            "en": "Piazza della Repubblica"
+          },
+          "coords": [
+            12.6363,
+            43.7262
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der ideale Treffpunkt für einen Kaffee am Morgen.",
+            "hu": "A tökéletes találkozóhely egy reggeli kávéhoz.",
+            "ro": "Locul ideal de întâlnire pentru o cafea de dimineață.",
+            "en": "The perfect meeting spot for a morning coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Ducale",
+            "hu": "Ducale palota",
+            "ro": "Palatul Ducal",
+            "en": "Ducal Palace"
+          },
+          "coords": [
+            12.6372,
+            43.7241
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Innenhof für großartige Fotos.",
+            "hu": "Látogasson el a belső udvarra a remek fotókért.",
+            "ro": "Vizitați curtea interioară pentru fotografii superbe.",
+            "en": "Visit the inner courtyard for great photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Urbino",
+            "hu": "Urbinoi dóm",
+            "ro": "Domul din Urbino",
+            "en": "Urbino Cathedral"
+          },
+          "coords": [
+            12.6365,
+            43.7243
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die neoklassizistische Fassade.",
+            "hu": "Figyelje meg a neoklasszicista homlokzatot.",
+            "ro": "Observați fațada neoclasică.",
+            "en": "Notice the neoclassical facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Natale di Raffaello",
+            "hu": "Raffaello szülőháza",
+            "ro": "Casa natală a lui Rafael",
+            "en": "Raphael's Birthplace"
+          },
+          "coords": [
+            12.6351,
+            43.7271
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Sehen Sie das Zimmer, in dem der Maler geboren wurde.",
+            "hu": "Nézze meg a szobát, ahol a festő született.",
+            "ro": "Vedeți camera în care s-a născut pictorul.",
+            "en": "See the room where the painter was born."
+          }
+        },
+        {
+          "name": {
+            "de": "Oratorio di San Giovanni Battista",
+            "hu": "Keresztelő Szent János oratórium",
+            "ro": "Oratoriul San Giovanni Battista",
+            "en": "Oratory of St John the Baptist"
+          },
+          "coords": [
+            12.6332,
+            43.7281
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtigen Fresken der Gebrüder Salimbeni.",
+            "hu": "Csodálja meg a Salimbeni fivérek pompás freskóit.",
+            "ro": "Admirați frescele superbe ale fraților Salimbeni.",
+            "en": "Admire the magnificent frescoes by the Salimbeni brothers."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortezza Albornoz",
+            "hu": "Albornoz erőd",
+            "ro": "Fortăreața Albornoz",
+            "en": "Albornoz Fortress"
+          },
+          "coords": [
+            12.6318,
+            43.7291
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Der beste Ort für einen Panoramablick auf die Stadt.",
+            "hu": "A legjobb hely a városi panorámához.",
+            "ro": "Cel mai bun loc pentru o vedere panoramică a orașului.",
+            "en": "The best spot for a panoramic view of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Urbino auf der Piazza della Repubblica, bevor Sie den prächtigen Palazzo Ducale besichtigen. Mittags erkunden Sie den Dom und tauchen in die Welt der Renaissance ein. Am Nachmittag besuchen Sie das Geburtshaus von Raffael und die beeindruckenden Fresken im Oratorium San Giovanni. Beenden Sie den Tag mit einem Spaziergang zur Albornoz-Festung, um den Sonnenuntergang über der Stadt zu genießen.",
+        "hu": "Kezdje a napot Urbino szívében, a Piazza della Repubblica téren, majd látogasson el a lenyűgöző Ducale palotába. Délben fedezze fel a dómot, és merüljön el a reneszánsz világában. Délután keresse fel Raffaello szülőházát és a Szent János oratórium lenyűgöző freskóit. A napot zárja egy sétával az Albornoz-erődhöz, ahonnan megcsodálhatja a város feletti naplementét.",
+        "ro": "Începeți ziua în inima Urbinoului, în Piazza della Repubblica, înainte de a vizita magnificul Palazzo Ducale. La prânz, explorați Domul și scufundați-vă în lumea Renașterii. După-amiaza, vizitați casa natală a lui Rafael și frescele impresionante din Oratoriul San Giovanni. Încheiați ziua cu o plimbare la Fortăreața Albornoz pentru a admira apusul de soare deasupra orașului.",
+        "en": "Start your day in the heart of Urbino at Piazza della Repubblica before visiting the magnificent Ducal Palace. At midday, explore the Cathedral and immerse yourself in the world of the Renaissance. In the afternoon, visit Raphael's birthplace and the impressive frescoes in the Oratory of San Giovanni. End the day with a walk to the Albornoz Fortress to enjoy the sunset over the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crescia Sfogliata",
+            "tip": "Ein lokales Fladenbrot, oft mit Wurst oder Käse gefüllt."
+          },
+          {
+            "name": "Casciotta d'Urbino",
+            "tip": "Ein milder Schafskäse, der schon von Michelangelo geschätzt wurde."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crescia Sfogliata",
+            "tip": "Helyi lepénykenyér, gyakran felvágottal vagy sajttal töltve."
+          },
+          {
+            "name": "Casciotta d'Urbino",
+            "tip": "Enyhe juhsajt, amelyet már Michelangelo is nagyra értékelt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crescia Sfogliata",
+            "tip": "O lipie locală, adesea umplută cu mezeluri sau brânză."
+          },
+          {
+            "name": "Casciotta d'Urbino",
+            "tip": "O brânză ușoară de oaie, apreciată chiar și de Michelangelo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crescia Sfogliata",
+            "tip": "A local flatbread, often filled with cold cuts or cheese."
+          },
+          {
+            "name": "Casciotta d'Urbino",
+            "tip": "A mild sheep's cheese, appreciated even by Michelangelo."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco della Resistenza",
+            "tip": "Ruhiger Park unterhalb der Festung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Orto Botanico",
+            "tip": "Ein friedlicher Garten der Universität.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco della Resistenza",
+            "tip": "Csendes park az erőd alatt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Orto Botanico",
+            "tip": "Az egyetem békés füvészkertje.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco della Resistenza",
+            "tip": "Parc liniștit sub fortăreață.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Orto Botanico",
+            "tip": "O grădină liniștită a universității.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco della Resistenza",
+            "tip": "Quiet park below the fortress.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Orto Botanico",
+            "tip": "A peaceful university botanical garden.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik-Ateliers",
+            "tip": "Urbino ist berühmt für seine Majolika-Keramik."
+          },
+          {
+            "name": "L'Artigianato",
+            "tip": "Lokales Kunsthandwerk in der Via Raffaello."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámia műhelyek",
+            "tip": "Urbino híres a majolika kerámiáiról."
+          },
+          {
+            "name": "L'Artigianato",
+            "tip": "Helyi kézműves termékek a Via Raffaello-n."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ateliere de ceramică",
+            "tip": "Urbino este faimos pentru ceramica Majolica."
+          },
+          {
+            "name": "L'Artigianato",
+            "tip": "Artizanat local pe Via Raffaello."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramic Workshops",
+            "tip": "Urbino is famous for its Majolica ceramics."
+          },
+          {
+            "name": "L'Artigianato",
+            "tip": "Local handicrafts in Via Raffaello."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Stadt sehr steil ist.",
+          "Die Palazzo Ducale Karte beinhaltet oft auch andere Museen.",
+          "Versuchen Sie, früh am Morgen zu kommen, um die Massen zu vermeiden.",
+          "Urbino ist eine Universitätsstadt, abends ist viel los."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert a város nagyon meredek.",
+          "A Palazzo Ducale jegy gyakran más múzeumokba is érvényes.",
+          "Próbáljon korán reggel érkezni, hogy elkerülje a tömeget.",
+          "Urbino egyetemi város, este nagy az élet."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece orașul este foarte abrupt.",
+          "Biletul pentru Palazzo Ducale include adesea și alte muzee.",
+          "Încercați să veniți devreme dimineața pentru a evita aglomerația.",
+          "Urbino este un oraș universitar, seara este multă animație."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city is very steep.",
+          "The Palazzo Ducale ticket often includes other museums.",
+          "Try to arrive early in the morning to avoid the crowds.",
+          "Urbino is a university town, it is very lively in the evening."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Viale delle Mura",
+            "hu": "Városfal menti sétány",
+            "ro": "Viale delle Mura",
+            "en": "Viale delle Mura"
+          },
+          "coords": [
+            12.6381,
+            43.7231
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt entlang der alten Stadtmauern.",
+            "hu": "Élvezze a tekerést a régi városfalak mentén.",
+            "ro": "Bucurați-vă de plimbarea de-a lungul vechilor ziduri ale orașului.",
+            "en": "Enjoy the ride along the ancient city walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Ducale",
+            "hu": "Ducale palota",
+            "ro": "Palatul Ducal",
+            "en": "Ducal Palace"
+          },
+          "coords": [
+            12.6372,
+            43.7241
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher in der Nähe des Eingangs.",
+            "hu": "Parkolja le biztonságosan a biciklit a bejárat közelében.",
+            "ro": "Parcați bicicleta în siguranță lângă intrare.",
+            "en": "Park your bike safely near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Urbino",
+            "hu": "Urbinoi dóm",
+            "ro": "Domul din Urbino",
+            "en": "Urbino Cathedral"
+          },
+          "coords": [
+            12.6365,
+            43.7243
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kühler Ort für eine Pause während der Fahrt.",
+            "hu": "Hűvös hely egy kis szünethez tekerés közben.",
+            "ro": "Un loc răcoros pentru o pauză în timpul plimbării.",
+            "en": "A cool spot for a break during the ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortezza Albornoz",
+            "hu": "Albornoz erőd",
+            "ro": "Fortăreața Albornoz",
+            "en": "Albornoz Fortress"
+          },
+          "coords": [
+            12.6318,
+            43.7291
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der Anstieg ist steil, aber die Aussicht lohnt sich.",
+            "hu": "Meredek az emelkedő, de a kilátás megéri.",
+            "ro": "Urcarea este abruptă, dar vederea merită.",
+            "en": "The climb is steep, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco della Resistenza",
+            "hu": "Ellenállás parkja",
+            "ro": "Parco della Resistenza",
+            "en": "Resistance Park"
+          },
+          "coords": [
+            12.6311,
+            43.7301
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für ein entspanntes Picknick am Ende der Tour.",
+            "hu": "Ideális egy nyugodt piknikhez a túra végén.",
+            "ro": "Ideal pentru un picnic relaxat la sfârșitul turului.",
+            "en": "Ideal for a relaxed picnic at the end of the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Urbino sportlich mit dem Fahrrad, beginnend an den Stadtmauern. Nach einer kulturellen Pause im Palazzo Ducale und im Dom fordern Sie sich mit dem Aufstieg zur Fortezza Albornoz heraus. Genießen Sie die frische Luft und die grünen Parks am Stadtrand.",
+        "hu": "Fedezze fel Urbinót sportosan, kerékpárral, a városfalaktól indulva. A Palazzo Ducale és a dóm megtekintése után tegye próbára magát az Albornoz-erődhöz vezető emelkedővel. Élvezze a friss levegőt és a város széli zöld parkokat.",
+        "ro": "Explorați Urbinoul într-un mod sportiv cu bicicleta, începând de la zidurile orașului. După o pauză culturală la Palazzo Ducale și Dom, provocați-vă cu urcarea spre Fortăreața Albornoz. Bucurați-vă de aerul curat și de parcurile verzi de la marginea orașului.",
+        "en": "Explore Urbino in a sporty way by bike, starting from the city walls. After a cultural break at the Ducal Palace and the Cathedral, challenge yourself with the climb to the Albornoz Fortress. Enjoy the fresh air and the green parks on the outskirts of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasta alla Carbonara di Urbino",
+            "tip": "Eine lokale Variation mit Trüffeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasta alla Carbonara di Urbino",
+            "tip": "Helyi változat szarvasgombával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasta alla Carbonara di Urbino",
+            "tip": "O variantă locală cu trufe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasta alla Carbonara di Urbino",
+            "tip": "A local variation with truffles."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Colle delle Vigne",
+            "tip": "Ruhiger Hügel mit Blick auf die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Colle delle Vigne",
+            "tip": "Csendes domb kilátással a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colle delle Vigne",
+            "tip": "Deal liniștit cu vedere spre oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Colle delle Vigne",
+            "tip": "Quiet hill with city views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Urbino Bike",
+            "tip": "Fahrradverleih und Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Urbino Bike",
+            "tip": "Kerékpárkölcsönző és kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Urbino Bike",
+            "tip": "Închirieri biciclete și accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Urbino Bike",
+            "tip": "Bike rentals and accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie E-Bikes wegen der starken Steigungen.",
+          "Achten Sie auf Fußgänger in den engen Gassen."
+        ],
+        "hu": [
+          "Használjon elektromos kerékpárt a meredek emelkedők miatt.",
+          "Figyeljen a gyalogosokra a szűk utcákban."
+        ],
+        "ro": [
+          "Folosiți biciclete electrice din cauza pantelor abrupte.",
+          "Atenție la pietoni în străzile înguste."
+        ],
+        "en": [
+          "Use e-bikes because of the steep slopes.",
+          "Watch out for pedestrians in the narrow streets."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 35.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Palazzo Ducale di Urbino",
+            "hu": "Urbinoi Ducale palota",
+            "ro": "Palazzo Ducale din Urbino",
+            "en": "Ducal Palace of Urbino"
+          },
+          "coords": [
+            12.6372,
+            43.7241
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Borgo Mercatale Parkhaus.",
+            "hu": "Parkoljon a Borgo Mercatale parkolóházban.",
+            "ro": "Parcați în parcarea Borgo Mercatale.",
+            "en": "Park in the Borgo Mercatale parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Natale di Raffaello",
+            "hu": "Raffaello szülőháza",
+            "ro": "Casa natală a lui Rafael",
+            "en": "Raphael's Birthplace"
+          },
+          "coords": [
+            12.6351,
+            43.7271
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkhaus.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortezza Albornoz",
+            "hu": "Albornoz erőd",
+            "ro": "Fortăreața Albornoz",
+            "en": "Albornoz Fortress"
+          },
+          "coords": [
+            12.6318,
+            43.7291
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bester Fotostopp vor der Weiterfahrt.",
+            "hu": "A legjobb fotómegálló az utazás folytatása előtt.",
+            "ro": "Cea mai bună oprire pentru fotografii înainte de a continua.",
+            "en": "Best photo stop before continuing the journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Ducale di Urbania",
+            "hu": "Urbaniai Ducale palota",
+            "ro": "Palatul Ducal din Urbania",
+            "en": "Ducal Palace of Urbania"
+          },
+          "coords": [
+            12.5221,
+            43.6671
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Mumiengruft in der Nähe.",
+            "hu": "Látogassa meg a közeli múmiák kriptáját.",
+            "ro": "Vizitați cripta mumiilor din apropiere.",
+            "en": "Visit the nearby mummy crypt."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dei Morti (Urbania)",
+            "hu": "Holtak temploma (Urbania)",
+            "ro": "Chiesa dei Morti (Urbania)",
+            "en": "Church of the Dead (Urbania)"
+          },
+          "coords": [
+            12.5215,
+            43.6675
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein faszinierender und etwas schauriger Ort.",
+            "hu": "Lenyűgöző és egyben borzongató hely.",
+            "ro": "Un loc fascinant și puțin înfricoșător.",
+            "en": "A fascinating and slightly eerie place."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert die Highlights von Urbino mit einem Ausflug in das nahe gelegene Urbania. Nach der Besichtigung des Palazzo Ducale und des Geburtshauses von Raffael fahren Sie durch die malerische Hügellandschaft nach Urbania, um dort das zweite herzogliche Schloss und die berühmte Chiesa dei Morti zu entdecken.",
+        "hu": "Ez az autós túra Urbino legfontosabb látnivalóit ötvözi a közeli Urbania meglátogatásával. A Palazzo Ducale és Raffaello szülőháza után a festői dombokon át Urbania felé veszi az irányt, ahol felfedezheti a második hercegi kastélyt és a híres Holtak templomát.",
+        "ro": "Acest tur auto combină punctele de atracție din Urbino cu o excursie în apropiatul Urbania. După vizitarea Palazzo Ducale și a casei natale a lui Rafael, conduceți prin dealurile pitorești spre Urbania pentru a descoperi al doilea castel ducal și celebra Chiesa dei Morti.",
+        "en": "This car tour combines Urbino's highlights with a trip to nearby Urbania. After visiting the Ducal Palace and Raphael's birthplace, drive through the picturesque hills to Urbania to discover the second ducal castle and the famous Church of the Dead."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trüffelgerichte",
+            "tip": "Die Region ist berühmt für weißen und schwarzen Trüffel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szarvasgombás ételek",
+            "tip": "A régió híres a fehér és fekete szarvasgombáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Preparate cu trufe",
+            "tip": "Regiunea este faimoasă pentru trufele albe și negre."
+          }
+        ],
+        "en": [
+          {
+            "name": "Truffle Dishes",
+            "tip": "The region is famous for white and black truffles."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Furlo-Schlucht",
+            "tip": "Spektakuläre Natur in der Nähe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Furlo-szurdok",
+            "tip": "Látványos természet a közelben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cheile Furlo",
+            "tip": "Natură spectaculoasă în apropiere.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Furlo Gorge",
+            "tip": "Spectacular nature nearby.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Outlets",
+            "tip": "In der Umgebung gibt es viele Schuh-Outlets."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Outlet üzletek",
+            "tip": "A környéken sok cipő-outlet található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Outlet-uri",
+            "tip": "În zonă există multe outlet-uri de încălțăminte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Outlets",
+            "tip": "There are many shoe outlets in the surrounding area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Zufahrt in das Zentrum von Urbino ist nur für Anwohner (ZTL).",
+          "Nutzen Sie die großen Parkplätze am Stadtrand."
+        ],
+        "hu": [
+          "Urbino belvárosába csak a helyiek hajthatnak be (ZTL).",
+          "Használja a város szélén lévő nagy parkolókat."
+        ],
+        "ro": [
+          "Accesul în centrul Urbinoului este doar pentru rezidenți (ZTL).",
+          "Folosiți parcările mari de la marginea orașului."
+        ],
+        "en": [
+          "Access to Urbino center is for residents only (ZTL).",
+          "Use the large parking lots on the outskirts."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Porta Santa Lucia",
+            "hu": "Szent Lúcia kapu",
+            "ro": "Porta Santa Lucia",
+            "en": "Porta Santa Lucia"
+          },
+          "coords": [
+            12.6311,
+            43.7311
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Wichtiger Busknotenpunkt am Stadtrand.",
+            "hu": "Fontos buszcsomópont a város szélén.",
+            "ro": "Nod de transport important la marginea orașului.",
+            "en": "Important bus hub on the outskirts."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza della Repubblica",
+            "hu": "Piazza della Repubblica",
+            "ro": "Piazza della Repubblica",
+            "en": "Piazza della Repubblica"
+          },
+          "coords": [
+            12.6363,
+            43.7262
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das Zentrum ist gut mit dem Minibus erreichbar.",
+            "hu": "A belváros jól elérhető kisbusszal.",
+            "ro": "Centrul este ușor accesibil cu microbuzul.",
+            "en": "The center is easily accessible by minibus."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Ducale",
+            "hu": "Ducale palota",
+            "ro": "Palatul Ducal",
+            "en": "Ducal Palace"
+          },
+          "coords": [
+            12.6372,
+            43.7241
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang von der Bushaltestelle.",
+            "hu": "Csak rövid séta a buszmegállótól.",
+            "ro": "Doar o scurtă plimbare de la stația de autobuz.",
+            "en": "Only a short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Monastero di Santa Chiara",
+            "hu": "Szent Klára kolostor",
+            "ro": "Mănăstirea Santa Chiara",
+            "en": "Monastery of Santa Chiara"
+          },
+          "coords": [
+            12.6385,
+            43.7235
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fragen Sie den Fahrer nach der nächsten Haltestelle.",
+            "hu": "Kérdezze a sofőrt a legközelebbi megállóról.",
+            "ro": "Întrebați șoferul despre cea mai apropiată stație.",
+            "en": "Ask the driver for the nearest stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortezza Albornoz",
+            "hu": "Albornoz erőd",
+            "ro": "Fortăreața Albornoz",
+            "en": "Albornoz Fortress"
+          },
+          "coords": [
+            12.6318,
+            43.7291
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus bergauf, um Kraft zu sparen.",
+            "hu": "Menjen busszal felfelé, hogy erőt spóroljon.",
+            "ro": "Luați autobuzul la urcare pentru a economisi energie.",
+            "en": "Take the bus uphill to save energy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das lokale Busnetz, um sich bequem in Urbino zu bewegen. Starten Sie an der Porta Santa Lucia und fahren Sie ins Zentrum zur Piazza della Repubblica. Nach dem Besuch des Palazzo Ducale und des Klosters Santa Chiara bringt Sie der Bus hinauf zur Festung, von wo aus Sie den Abstieg zu Fuß genießen können.",
+        "hu": "Használja a helyi buszhálózatot Urbino kényelmes felfedezéséhez. Kezdjen a Porta Santa Lucia-nál, és menjen be a központba, a Piazza della Repubblica térre. A Palazzo Ducale és a Szent Klára kolostor után a busz felviszi az erődhöz, ahonnan gyalogosan ereszkedhet vissza.",
+        "ro": "Folosiți rețeaua locală de autobuze pentru a vă deplasa confortabil în Urbino. Începeți de la Porta Santa Lucia și mergeți în centru, la Piazza della Repubblica. După vizitarea Palazzo Ducale și a mănăstirii Santa Chiara, autobuzul vă va duce sus la fortăreață, de unde vă puteți bucura de coborârea pe jos.",
+        "en": "Use the local bus network to get around Urbino comfortably. Start at Porta Santa Lucia and go to the center at Piazza della Repubblica. After visiting the Ducal Palace and the Monastery of Santa Chiara, the bus will take you up to the fortress, from where you can enjoy the walk back down."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Biscotti di Urbino",
+            "tip": "Hervorragendes lokales Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Urbinoi kekszek",
+            "tip": "Kiváló helyi aprósütemények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biscuiți de Urbino",
+            "tip": "Produse de patiserie locale excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Urbino Biscuits",
+            "tip": "Excellent local pastries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergärten",
+            "tip": "Stille Oasen in der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostorkertek",
+            "tip": "Csendes oázisok a városban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile mănăstirii",
+            "tip": "Oaze de liniște în oraș.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Gardens",
+            "tip": "Quiet oases in the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tabacchi",
+            "tip": "Hier können Sie Busfahrkarten kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tabacchi",
+            "tip": "Itt vásárolhat buszjegyeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tabacchi",
+            "tip": "Aici puteți cumpăra bilete de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tabacchi",
+            "tip": "You can buy bus tickets here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Fahrkarten im Voraus in Bars oder Tabakläden.",
+          "Die Busse verkehren seltener an Sonntagen."
+        ],
+        "hu": [
+          "Vásároljon jegyet előre bárokban vagy trafikokban.",
+          "A buszok ritkábban járnak vasárnap."
+        ],
+        "ro": [
+          "Cumpărați bilete în avans de la baruri sau tutungerii.",
+          "Autobuzele circulă mai rar duminica."
+        ],
+        "en": [
+          "Buy tickets in advance at bars or tobacco shops.",
+          "Buses run less frequently on Sundays."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "region_code": "IT-57",
+    "transit_official": "https://www.adriabus.eu/en/",
+    "transit_app": "https://www.amibus.it/en/",
+    "bike_share": "https://www.vieniaurbino.it/?lang=en",
+    "city_card": "https://www.vieniaurbino.it/?lang=en",
+    "events": "https://www.vieniaurbino.it/events-urbino/?lang=en",
+    "tourism_office": "https://www.vieniaurbino.it/?lang=en",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/marche/pesaro-urbino.html",
+    "restaurants_booking": "https://www.thefork.com/restaurants/urbino-c562174",
+    "museum_tickets": "https://gallerianazionalemarche.it/",
+    "parking_real_time": "https://www.comune.urbino.pu.it/vivere-il-comune/servizi/parcheggi",
+    "language_tips": {
+      "de": "Grundlegende italienische Begruessungen werden geschaetzt; Englisch wird in Hotels gesprochen, weniger in kleinen Lokalen.",
+      "hu": "Az alapveto olasz udvariassagi kifejezesek jol jonnek; angol foleg a szallodakban mukodik.",
+      "ro": "Salutarile italiene de baza sunt apreciate; engleza functioneaza in hoteluri, mai putin in trattorii mici.",
+      "en": "Basic Italian greetings appreciated; English spoken in hotels but limited in small trattorias."
+    },
+    "best_time": {
+      "de": "April bis Juni und September bis Oktober; mildes Klima, weniger Studenten in der Stadt.",
+      "hu": "Aprilis-junius es szeptember-oktober a legjobb; enyhe ido, kevesebb diak a varosban.",
+      "ro": "Aprilie-iunie si septembrie-octombrie; clima blanda, mai putini studenti in oras.",
+      "en": "April-June and September-October; mild weather, fewer students crowding the hilltop centre."
+    },
+    "warnings": {
+      "de": "Steile Gassen und Kopfsteinpflaster, festes Schuhwerk noetig; Auto-Zentrum ist ZTL.",
+      "hu": "Meredek utcak es macskakovek, kenyelmes cipo kell; a kozpontba autoval tilos behajtani (ZTL).",
+      "ro": "Strazi abrupte si pavaj, incaltaminte comoda; centrul este zona restrictionata auto (ZTL).",
+      "en": "Steep cobbled lanes need sturdy shoes; historic centre is a restricted traffic ZTL zone."
+    }
+  }
+}

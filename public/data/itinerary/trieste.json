@@ -1,0 +1,927 @@
+{
+  "city_id": "trieste",
+  "anchor": {
+    "name": "Piazza Unità d'Italia",
+    "coords": [
+      13.7768,
+      45.6495
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Unità d'Italia",
+            "hu": "Piazza Unità d'Italia",
+            "ro": "Piazza Unità d'Italia",
+            "en": "Piazza Unità d'Italia"
+          },
+          "coords": [
+            13.7675,
+            45.6505
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Europas größter Platz am Meer.",
+            "hu": "Európa legnagyobb tengerparti tere.",
+            "ro": "Cea mai mare piață la mare din Europa.",
+            "en": "Europe's largest square by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Molo Audace",
+            "hu": "Molo Audace",
+            "ro": "Molo Audace",
+            "en": "Molo Audace"
+          },
+          "coords": [
+            13.7655,
+            45.6515
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spaziergang 200 Meter ins Meer hinein.",
+            "hu": "Séta 200 méterre a tengerbe.",
+            "ro": "Plimbare de 200 de metri în mare.",
+            "en": "Walk 200 meters into the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal Grande",
+            "hu": "Canal Grande",
+            "ro": "Canal Grande",
+            "en": "Canal Grande"
+          },
+          "coords": [
+            13.7705,
+            45.6535
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Statue von James Joyce.",
+            "hu": "Keresd meg James Joyce szobrát.",
+            "ro": "Vizitați statuia lui James Joyce.",
+            "en": "Visit the statue of James Joyce."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Romano",
+            "hu": "Római színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            13.7725,
+            45.6495
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Mitten im Stadtzentrum gelegen.",
+            "hu": "Közvetlenül a városközpontban található.",
+            "ro": "Situat chiar în centrul orașului.",
+            "en": "Located right in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaffee-Mittagspause",
+            "hu": "Kávés ebédszünet",
+            "ro": "Pauză de prânz și cafea",
+            "en": "Coffee lunch break"
+          },
+          "coords": [
+            13.7715,
+            45.6505
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Triest ist die Hauptstadt des Kaffees.",
+            "hu": "Trieszt a kávé fővárosa.",
+            "ro": "Trieste este capitala cafelei.",
+            "en": "Trieste is the capital of coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di San Giusto",
+            "hu": "San Giusto-székesegyház",
+            "ro": "Catedrala San Giusto",
+            "en": "San Giusto Cathedral"
+          },
+          "coords": [
+            13.7725,
+            45.6465
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Wunderbare byzantinische Mosaike.",
+            "hu": "Gyönyörű bizánci mozaikok.",
+            "ro": "Mozaicuri bizantine minunate.",
+            "en": "Wonderful Byzantine mosaics."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Revoltella",
+            "hu": "Revoltella Múzeum",
+            "ro": "Muzeul Revoltella",
+            "en": "Revoltella Museum"
+          },
+          "coords": [
+            13.7635,
+            45.6465
+          ],
+          "category": "museums",
+          "arrive_at": "15:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Moderne Kunst in einem Adelspalast.",
+            "hu": "Modern művészet egy nemesi palotában.",
+            "ro": "Artă modernă într-un palat nobiliar.",
+            "en": "Modern art in a noble palace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie den habsburgischen Charme von Triest zu Fuß. Starten Sie auf der Piazza Unità, atmen Sie die Meeresbrise am Molo Audace ein und spazieren Sie am Canal Grande entlang. Nach der Besichtigung des antiken römischen Theaters und der Kathedrale auf dem Hügel beenden Sie den Tag im Revoltella Museum.",
+        "hu": "Fedezze fel Trieszt hapsburgos báját gyalogosan. Kezdjen a Piazza Unità téren, lélegezze be a tengeri szellőt a Molo Audace-n, majd sétáljon a Canal Grande mentén. Az antik római színház és a dombtetőn lévő katedrális megtekintése után a Revoltella Múzeumban fejezze be a napot.",
+        "ro": "Descoperiți farmecul habsburgic al orașului Trieste pe jos. Începeți în Piazza Unità, respirați briza mării pe Molo Audace și plimbați-vă pe malul Canal Grande. După vizitarea anticului teatru roman și a catedralei de pe deal, încheiați ziua la Muzeul Revoltella.",
+        "en": "Discover Trieste's Habsburg charm on foot. Start at Piazza Unità, breathe in the sea breeze at Molo Audace, and stroll along the Canal Grande. After visiting the ancient Roman theatre and the cathedral on the hill, end your day at the Revoltella Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caffè San Marco",
+            "tip": "Historisches Literatencafé."
+          },
+          {
+            "name": "Jota",
+            "tip": "Traditioneller Eintopf mit Sauerkraut und Bohnen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caffè San Marco",
+            "tip": "Történelmi irodalmi kávéház."
+          },
+          {
+            "name": "Jota",
+            "tip": "Hagyományos egytálétel savanyú káposztával és babbal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caffè San Marco",
+            "tip": "Cafenea literară istorică."
+          },
+          {
+            "name": "Jota",
+            "tip": "Tocăniță tradițională cu varză murată și fasole."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caffè San Marco",
+            "tip": "Historic literary café."
+          },
+          {
+            "name": "Jota",
+            "tip": "Traditional stew with sauerkraut and beans."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardino Pubblico",
+            "tip": "Ruhiger Stadtpark abseits der Touristenströme.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardino Pubblico",
+            "tip": "Csendes városi park a turistaáradattól távol.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardino Pubblico",
+            "tip": "Parc public liniștit departe de mulțime.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardino Pubblico",
+            "tip": "Quiet public garden away from the crowds.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cavana Viertel",
+            "tip": "Kleine Handwerksläden und Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cavana negyed",
+            "tip": "Kis kézműves boltok és butikok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartierul Cavana",
+            "tip": "Mici magazine de artizanat și buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cavana District",
+            "tip": "Small craft shops and boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Triest ist oft windig (Bora), halten Sie Ihren Hut fest.",
+          "Das Gelände zur Kathedrale ist steil.",
+          "Bestellen Sie einen 'Capo in B' für den lokalen Espresso mit Milch.",
+          "Die Stadt ist sehr fußgängerfreundlich."
+        ],
+        "hu": [
+          "Triesztben gyakran fúj a szél (Bora), fogd a kalapod.",
+          "A katedrálishoz vezető út meredek.",
+          "Rendelj 'Capo in B'-t a helyi tejes eszpresszóhoz.",
+          "A város nagyon gyalogosbarát."
+        ],
+        "ro": [
+          "Trieste este adesea vântos (Bora), aveți grijă la pălărie.",
+          "Urcușul spre catedrală este abrupt.",
+          "Comandați un 'Capo in B' pentru un espresso local cu lapte.",
+          "Orașul este foarte prietenos cu pietonii."
+        ],
+        "en": [
+          "Trieste is often windy (Bora), hold onto your hat.",
+          "The terrain up to the cathedral is steep.",
+          "Order a 'Capo in B' for a local espresso with milk in a glass.",
+          "The city is very pedestrian-friendly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Barcola Promenade",
+            "hu": "Barcola sétány",
+            "ro": "Faleza Barcola",
+            "en": "Barcola Promenade"
+          },
+          "coords": [
+            13.7545,
+            45.6725
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Beliebte Badestelle der Einheimischen.",
+            "hu": "A helyiek kedvenc fürdőhelye.",
+            "ro": "Locul de scăldat preferat al localnicilor.",
+            "en": "Favorite swimming spot for locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Miramare",
+            "hu": "Miramare-kastély",
+            "ro": "Castelul Miramare",
+            "en": "Miramare Castle"
+          },
+          "coords": [
+            13.7125,
+            45.7045
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Das Märchenschloss von Maximilian von Habsburg.",
+            "hu": "Habsburg Miksa mesebeli kastélya.",
+            "ro": "Castelul de basm al lui Maximilian de Habsburg.",
+            "en": "The fairytale castle of Maximilian of Habsburg."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro della Vittoria",
+            "hu": "Győzelmi világítótorony",
+            "ro": "Farul Victoriei",
+            "en": "Victory Lighthouse"
+          },
+          "coords": [
+            13.7555,
+            45.6775
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Einer der höchsten Leuchttürme der Welt.",
+            "hu": "A világ egyik legmagasabb világítótornya.",
+            "ro": "Unul dintre cele mai înalte faruri din lume.",
+            "en": "One of the tallest lighthouses in the world."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie entlang der Küste von Triest. Von der Stadtmitte führt der Weg über die belebte Barcola-Promenade bis zum prächtigen Schloss Miramare. Genießen Sie die Aussicht vom Siegesleuchtturm, bevor Sie zurück in die Stadt fahren.",
+        "hu": "Tekerjen végig Trieszt tengerpartján. A városközpontból a nyüzsgő Barcola sétányon keresztül vezet az út a pazar Miramare-kastélyig. Élvezze a kilátást a Győzelmi világítótoronytól, mielőtt visszatérne a városba.",
+        "ro": "Pedalați de-a lungul coastei din Trieste. Din centrul orașului, drumul duce pe faleza animată Barcola până la magnificul Castel Miramare. Admirați priveliștea de la Farul Victoriei înainte de a vă întoarce în oraș.",
+        "en": "Cycle along the coast of Trieste. From the city center, the path leads along the lively Barcola promenade to the magnificent Miramare Castle. Enjoy the views from the Victory Lighthouse before heading back to the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Scampi alla Busara",
+            "tip": "In Tomatensauce gegarte Garnelen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Scampi alla Busara",
+            "tip": "Paradicsommártásban főtt garnélarák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scampi alla Busara",
+            "tip": "Creveți gătiți în sos de roșii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Scampi alla Busara",
+            "tip": "Shrimp cooked in tomato sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Miramare Park",
+            "tip": "Exotische Pflanzen direkt am Meer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Miramare park",
+            "tip": "Egzotikus növények közvetlenül a tengerparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Miramare",
+            "tip": "Plante exotice chiar lângă mare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Miramare Park",
+            "tip": "Exotic plants right by the sea.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Illy Shop",
+            "tip": "Kaufen Sie den berühmten Kaffee der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Illy Bolt",
+            "tip": "Vásárolj a város híres kávéjából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin Illy",
+            "tip": "Cumpărați faimoasa cafea a orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Illy Shop",
+            "tip": "Buy the city's famous coffee."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Barcola-Promenade ist im Sommer sehr belebt.",
+          "Fahrräder können am Bahnhof gemietet werden.",
+          "Achten Sie auf Fußgänger auf der Promenade.",
+          "Der Wind kann das Radfahren erschweren."
+        ],
+        "hu": [
+          "A Barcola sétány nyáron nagyon zsúfolt.",
+          "Biciklik a pályaudvarnál bérelhetők.",
+          "Ügyelj a gyalogosokra a sétányon.",
+          "A szél megnehezítheti a biciklizést."
+        ],
+        "ro": [
+          "Faleza Barcola este foarte animată vara.",
+          "Bicicletele pot fi închiriate de la gară.",
+          "Atenție la pietonii de pe faleză.",
+          "Vântul poate îngreuna mersul cu bicicleta."
+        ],
+        "en": [
+          "The Barcola promenade is very busy in summer.",
+          "Bikes can be rented at the station.",
+          "Watch out for pedestrians on the promenade.",
+          "The wind can make cycling challenging."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 42.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello di Miramare",
+            "hu": "Miramare-kastély",
+            "ro": "Castelul Miramare",
+            "en": "Miramare Castle"
+          },
+          "coords": [
+            13.7125,
+            45.7045
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen Parkplatz am Eingang.",
+            "hu": "Parkolj a bejáratnál lévő nagy parkolóban.",
+            "ro": "Parcați în parcarea mare de la intrare.",
+            "en": "Park in the large parking lot at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta Gigante",
+            "hu": "Óriásbarlang",
+            "ro": "Grotta Gigante",
+            "en": "Giant Cave"
+          },
+          "coords": [
+            13.7645,
+            45.7095
+          ],
+          "category": "natural features",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Eine der größten Schauhöhlen der Welt.",
+            "hu": "A világ egyik legnagyobb látogatható barlangja.",
+            "ro": "Una dintre cele mai mari peșteri vizitabile din lume.",
+            "en": "One of the largest show caves in the world."
+          }
+        },
+        {
+          "name": {
+            "de": "Risiera di San Sabba",
+            "hu": "Risiera di San Sabba",
+            "ro": "Risiera di San Sabba",
+            "en": "Risiera di San Sabba"
+          },
+          "coords": [
+            13.7885,
+            45.6205
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Ehemaliges Konzentrationslager, heute Gedenkstätte.",
+            "hu": "Egykori koncentrációs tábor, ma emlékhely.",
+            "ro": "Fost lagăr de concentrare, astăzi memorial.",
+            "en": "Former concentration camp, now a memorial."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Umgebung von Triest mit dem Auto. Besuchen Sie das Schloss Miramare, steigen Sie in die beeindruckende Grotta Gigante hinab und gedenken Sie der Opfer in der Risiera di San Sabba. Ein Tag voller Kontraste zwischen Natur, Geschichte und Architektur.",
+        "hu": "Fedezze fel Trieszt környékét autóval. Látogassa meg a Miramare-kastélyt, ereszkedjen le a lenyűgöző Óriásbarlangba, és emlékezzen az áldozatokra a Risiera di San Sabba emlékhelyen. A természet, a történelem és az építészet kontrasztjainak napja.",
+        "ro": "Explorați împrejurimile orașului Trieste cu mașina. Vizitați Castelul Miramare, coborâți în impresionanta Grotta Gigante și comemorați victimele la Risiera di San Sabba. O zi plină de contraste între natură, istorie și arhitectură.",
+        "en": "Explore the surroundings of Trieste by car. Visit Miramare Castle, descend into the impressive Giant Cave, and remember the victims at the Risiera di San Sabba memorial. A day of contrasts between nature, history, and architecture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Osmiza",
+            "tip": "Traditioneller Bauernhof-Ausschank im Karst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Osmiza",
+            "tip": "Hagyományos karszti gazdasági borkimérés."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Osmiza",
+            "tip": "Han tradițional la ferme în zona Carst."
+          }
+        ],
+        "en": [
+          {
+            "name": "Osmiza",
+            "tip": "Traditional farmhouse tavern in the Karst."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Val Rosandra",
+            "tip": "Naturreservat zum Wandern und Entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Val Rosandra",
+            "tip": "Természetvédelmi terület túrázáshoz és pihenéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Val Rosandra",
+            "tip": "Rezervație naturală pentru drumeții și relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Val Rosandra",
+            "tip": "Nature reserve for hiking and relaxation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Torri d'Europa",
+            "tip": "Großes Einkaufszentrum am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torri d'Europa",
+            "tip": "Nagy bevásárlóközpont a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torri d'Europa",
+            "tip": "Centru comercial mare la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Torri d'Europa",
+            "tip": "Large shopping center on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Stadtzentrum ist schwierig, nutzen Sie Parkhäuser.",
+          "Die Straßen im Karst können eng sein.",
+          "In der Höhle herrscht eine konstante Temperatur von 11°C.",
+          "Achten Sie auf die ZTL-Zonen in der Stadt."
+        ],
+        "hu": [
+          "A városközpontban nehéz parkolni, használd a parkolóházakat.",
+          "A karszti utak keskenyek lehetnek.",
+          "A barlangban állandó 11°C van.",
+          "Ügyelj a városi ZTL zónákra."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este dificilă, folosiți parcările etajate.",
+          "Drumurile din zona Carst pot fi înguste.",
+          "În peșteră este o temperatură constantă de 11°C.",
+          "Atenție la zonele ZTL din oraș."
+        ],
+        "en": [
+          "Parking in the city center is difficult, use parking garages.",
+          "The roads in the Karst area can be narrow.",
+          "The cave has a constant temperature of 11°C.",
+          "Be aware of ZTL zones in the city."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello di Miramare (Bus 6)",
+            "hu": "Miramare-kastély (6-os busz)",
+            "ro": "Castelul Miramare (Autobuz 6)",
+            "en": "Miramare Castle (Bus 6)"
+          },
+          "coords": [
+            13.7125,
+            45.7045
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Bus Nr. 6 fährt ab dem Hauptbahnhof.",
+            "hu": "A 6-os busz a főpályaudvartól indul.",
+            "ro": "Autobuzul nr. 6 pleacă de la gara centrală.",
+            "en": "Bus No. 6 leaves from the main station."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Unità d'Italia",
+            "hu": "Piazza Unità d'Italia",
+            "ro": "Piazza Unità d'Italia",
+            "en": "Piazza Unità d'Italia"
+          },
+          "coords": [
+            13.7675,
+            45.6505
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Herzstück des öffentlichen Lebens.",
+            "hu": "A közösségi élet szíve.",
+            "ro": "Inima vieții publice.",
+            "en": "The heart of public life."
+          }
+        },
+        {
+          "name": {
+            "de": "San Giusto (Bus 24)",
+            "hu": "San Giusto (24-es busz)",
+            "ro": "San Giusto (Autobuz 24)",
+            "en": "San Giusto (Bus 24)"
+          },
+          "coords": [
+            13.7725,
+            45.6465
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bequemer Transport auf den Schlosshügel.",
+            "hu": "Kényelmes feljutás a várhegyre.",
+            "ro": "Transport convenabil pe dealul castelului.",
+            "en": "Convenient transport up the castle hill."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Busse und historische Verkehrsmittel. Besuchen Sie das Schloss Miramare mit dem Bus 6 und fahren Sie mit der Linie 24 zum San Giusto Hügel, um den steilen Aufstieg zu vermeiden. Entdecken Sie Triest stressfrei ohne Auto.",
+        "hu": "Használja a buszokat és a történelmi közlekedési eszközöket. Látogassa meg a Miramare-kastélyt a 6-os busszal, és menjen fel a 24-es járattal a San Giusto-dombra, elkerülve a meredek kapaszkodót. Fedezze fel Triesztet stresszmentesen, autó nélkül.",
+        "ro": "Folosiți autobuzele și mijloacele de transport istorice. Vizitați Castelul Miramare cu autobuzul 6 și mergeți cu linia 24 pe dealul San Giusto pentru a evita urcușul abrupt. Descoperiți Trieste fără stres, fără mașină.",
+        "en": "Use buses and historic means of transport. Visit Miramare Castle with Bus 6 and take Line 24 to the San Giusto hill to avoid the steep climb. Discover Trieste stress-free without a car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buffet da Pepi",
+            "tip": "Legendäres Buffet für gekochtes Fleisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buffet da Pepi",
+            "tip": "Legendás büfé főtt húsokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buffet da Pepi",
+            "tip": "Bufet legendar pentru carne fiartă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buffet da Pepi",
+            "tip": "Legendary buffet for boiled meats."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Molo IV",
+            "tip": "Ruhigerer Teil des Hafens.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Molo IV",
+            "tip": "A kikötő csendesebb része.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Molo IV",
+            "tip": "O parte mai liniștită a portului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Molo IV",
+            "tip": "Quieter part of the harbor.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eataly Trieste",
+            "tip": "Hochwertige italienische Lebensmittel im Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eataly Trieste",
+            "tip": "Kiváló minőségű olasz élelmiszerek a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eataly Trieste",
+            "tip": "Produse alimentare italiene de calitate în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eataly Trieste",
+            "tip": "High-quality Italian food products in the harbor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets an Zeitungsständen oder Automaten.",
+          "Die Tram de Opicina ist leider oft wegen Wartung außer Betrieb.",
+          "Laden Sie die App 'TPL FVG' herunter.",
+          "Fahrkarten müssen im Fahrzeug entwertet werden."
+        ],
+        "hu": [
+          "Vegyél jegyet újságárusoknál vagy automatáknál.",
+          "Az Opicina villamos sajnos gyakran üzemen kívül van karbantartás miatt.",
+          "Töltsd le a 'TPL FVG' alkalmazást.",
+          "A jegyeket a járművön érvényesíteni kell."
+        ],
+        "ro": [
+          "Cumpărați bilete de la chioșcurile de ziare sau automate.",
+          "Tramvaiul de Opicina este, din păcate, adesea oprit pentru întreținere.",
+          "Descărcați aplicația 'TPL FVG'.",
+          "Biletele trebuie validate în interiorul vehiculului."
+        ],
+        "en": [
+          "Buy tickets at newsstands or vending machines.",
+          "The Opicina tram is unfortunately often out of service for maintenance.",
+          "Download the 'TPL FVG' app.",
+          "Tickets must be validated on board."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "_coords": [
+      13.7768,
+      45.6495
+    ],
+    "_region": "IT-36 Friuli-Venezia Giulia",
+    "transit_official": "https://www.triestetrasporti.it/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Trieste",
+    "bike_share": null,
+    "city_card": "https://www.discover-trieste.it/it/fvgcard",
+    "events": "https://www.discover-trieste.it/it/eventi",
+    "tourism_office": "https://www.discover-trieste.it/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/friuli-venezia-giulia/trieste.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/trieste-c200305",
+    "museum_tickets": "https://www.castello-miramare.it/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch dominiert; Slowenisch offiziell anerkannt, Deutsch wegen Habsburger Vergangenheit oft verstanden.",
+      "hu": "Olasz dominál; szlovén hivatalosan elismert, német a Habsburg múlt miatt sokszor érthető.",
+      "ro": "Italiana domină; slovena este recunoscută oficial, germana adesea înțeleasă datorită trecutului habsburgic.",
+      "en": "Italian dominates; Slovenian officially recognized, German often understood due to Habsburg past."
+    },
+    "best_time": {
+      "de": "Mai–Juni und September angenehm; im Winter Bora-Wind möglich, im Sommer schwül.",
+      "hu": "Május–június és szeptember kellemes; télen bóra-szél, nyáron párás meleg.",
+      "ro": "Mai–iunie și septembrie plăcute; iarna vânt bora, vara umiditate ridicată.",
+      "en": "May–June and September pleasant; Bora wind in winter, humid in summer."
+    },
+    "warnings": {
+      "de": "Bora-Wind kann über 150 km/h erreichen; ZTL in der Altstadt beachten. Grenznähe zu Slowenien.",
+      "hu": "Bóra-szél 150 km/h fölé erősödhet; ZTL zóna az óvárosban. Szlovén határ közel.",
+      "ro": "Vântul bora poate depăși 150 km/h; atenție la ZTL în centrul vechi. Aproape de granița slovenă.",
+      "en": "Bora wind can exceed 150 km/h; mind ZTL in old town. Slovenian border very close."
+    }
+  }
+}

@@ -1,0 +1,1103 @@
+{
+  "city_id": "arezzo",
+  "anchor": {
+    "name": "Arezzo",
+    "coords": [
+      11.88,
+      43.4633
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "20:00",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilica di San Francesco",
+            "hu": "Szent Ferenc-bazilika",
+            "ro": "Bazilica San Francesco",
+            "en": "Basilica of San Francesco"
+          },
+          "coords": [
+            11.8815,
+            43.4645
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Buchen Sie Tickets für Piero della Francescas Fresken im Voraus.",
+            "hu": "Foglalj előre jegyet Piero della Francesca freskóihoz.",
+            "ro": "Rezervați bilete în avans pentru frescele lui Piero della Francesca.",
+            "en": "Book tickets for Piero della Francesca's frescoes in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Grande",
+            "hu": "Piazza Grande",
+            "ro": "Piazza Grande",
+            "en": "Piazza Grande"
+          },
+          "coords": [
+            11.8845,
+            43.465
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Der Drehort von 'Das Leben ist schön'.",
+            "hu": "Az 'Az élet szép' című film forgatási helyszíne.",
+            "ro": "Locul unde s-a filmat 'La vita è bella'.",
+            "en": "The filming location of 'Life is Beautiful'."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria della Pieve",
+            "hu": "Santa Maria della Pieve",
+            "ro": "Santa Maria della Pieve",
+            "en": "Santa Maria della Pieve"
+          },
+          "coords": [
+            11.884,
+            43.4655
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Die Fassade mit den vielen Säulen ist einzigartig.",
+            "hu": "A sokoszlopos homlokzat egyedülálló látvány.",
+            "ro": "Fațada cu multe coloane este unică.",
+            "en": "The facade with many columns is unique."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di San Donato",
+            "hu": "Szent Donát-székesegyház",
+            "ro": "Catedrala San Donato",
+            "en": "Cathedral of San Donato"
+          },
+          "coords": [
+            11.8835,
+            43.4675
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Bewundern Sie die Buntglasfenster von Marcillat.",
+            "hu": "Csodáld meg Marcillat ólombarnított üvegablakait.",
+            "ro": "Admirați vitraliile lui Marcillat.",
+            "en": "Admire the stained glass windows by Marcillat."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortezza Medicea",
+            "hu": "Medici-erőd",
+            "ro": "Fortăreața Medicea",
+            "en": "Medici Fortress"
+          },
+          "coords": [
+            11.886,
+            43.4685
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Bester Aussichtspunkt über Arezzo und das Tal.",
+            "hu": "A legjobb kilátópont Arezzóra és a völgyre.",
+            "ro": "Cel mai bun punct de belvedere asupra Arezzo și a văii.",
+            "en": "Best viewpoint over Arezzo and the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa di Vasari",
+            "hu": "Vasari háza",
+            "ro": "Casa lui Vasari",
+            "en": "Vasari's House"
+          },
+          "coords": [
+            11.8805,
+            43.468
+          ],
+          "category": "famous residences",
+          "arrive_at": "17:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Ein prächtiges Haus, das vom Künstler selbst dekoriert wurde.",
+            "hu": "Pompás ház, amelyet maga a művész dekorált.",
+            "ro": "O casă magnifică decorată chiar de artist.",
+            "en": "A magnificent house decorated by the artist himself."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro Romano",
+            "hu": "Római amfiteátrum",
+            "ro": "Amfiteatrul Roman",
+            "en": "Roman Amphitheatre"
+          },
+          "coords": [
+            11.881,
+            43.461
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "19:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "In der Nähe befindet sich auch das Archäologische Museum.",
+            "hu": "A közelben található a Régészeti Múzeum is.",
+            "ro": "În apropiere se află și Muzeul de Arheologie.",
+            "en": "The Archaeological Museum is also nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Arezzo ist eine Stadt der Kunst und Geschichte. Beginnen Sie Ihren Rundgang in der Basilika San Francesco, um Piero della Francescas Meisterwerk zu sehen. Über die schräge Piazza Grande gelangen Sie zur Pieve und weiter zum Dom auf dem Hügel. Nach einer Pause in der weitläufigen Medici-Festung besuchen Sie das Wohnhaus des berühmten Biographen Vasari. Der Tag endet im Süden der Altstadt bei den antiken Überresten des römischen Amphitheaters.",
+        "hu": "Arezzo a művészet és a történelem városa. Kezdje a körutat a Szent Ferenc-bazilikában, hogy megtekinthesse Piero della Francesca remekművét. A lejtős Piazza Grandén keresztül jut el a Pieve-templomhoz, majd tovább a dombtetőn lévő dómhoz. A tágas Medici-erődben tartott pihenő után látogassa meg a híres életrajzíró, Vasari lakóházát. A nap az óváros déli részén, a római amfiteátrum ókori maradványainál ér véget.",
+        "ro": "Arezzo este un oraș al artei și istoriei. Începeți turul la Bazilica San Francesco pentru a vedea capodopera lui Piero della Francesca. Prin Piazza Grande înclinată ajungeți la Pieve și apoi la catedrala de pe deal. După o pauză în vasta Fortăreață Medici, vizitați casa faimosului biograf Vasari. Ziua se încheie în sudul centrului vechi, la vestigiile antice ale amfiteatrului roman.",
+        "en": "Arezzo is a city of art and history. Start your tour at the Basilica of San Francesco to see Piero della Francesca's masterpiece. Through the sloping Piazza Grande, you reach the Pieve and continue to the cathedral on the hill. After a break in the expansive Medici Fortress, visit the residence of the famous biographer Vasari. The day ends in the south of the old town at the ancient remains of the Roman amphitheater."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistecca alla Fiorentina",
+            "tip": "In Arezzo wird das Steak ebenso perfekt zubereitet wie in Florenz."
+          },
+          {
+            "name": "Gnocchi al sugo di nana",
+            "tip": "Gnocchi mit Entenragout, eine lokale Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistecca alla Fiorentina",
+            "tip": "Arezzóban a steaket ugyanolyan tökéletesen készítik, mint Firenzében."
+          },
+          {
+            "name": "Gnocchi al sugo di nana",
+            "tip": "Gnocchi kacsahúsos raguval, helyi specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistecca alla Fiorentina",
+            "tip": "În Arezzo friptura este pregătită la fel de perfect ca în Florența."
+          },
+          {
+            "name": "Gnocchi al sugo di nana",
+            "tip": "Gnocchi cu sos de rață, o specialitate locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistecca alla Fiorentina",
+            "tip": "In Arezzo, the steak is prepared just as perfectly as in Florence."
+          },
+          {
+            "name": "Gnocchi al sugo di nana",
+            "tip": "Gnocchi with duck ragout, a local specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Prato Park",
+            "tip": "Die große Grünfläche zwischen Dom und Festung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fortezza Gärten",
+            "tip": "Ruhige Ecken mit Blick auf die toskanische Landschaft.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prato park",
+            "tip": "A dóm és az erőd közötti nagy zöld terület.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fortezza kertjei",
+            "tip": "Csendes sarkok kilátással a toszkán tájra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Prato",
+            "tip": "Marea zonă verde dintre catedrală și fortăreață.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Fortezza",
+            "tip": "Colțuri liniștite cu vedere la peisajul toscan.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prato Park",
+            "tip": "The large green space between the cathedral and the fortress.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fortezza Gardens",
+            "tip": "Quiet corners with views of the Tuscan landscape.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antiquitätenmarkt",
+            "tip": "Jeden ersten Sonntag im Monat auf der Piazza Grande."
+          },
+          {
+            "name": "Corso Italia",
+            "tip": "Die Haupteinkaufsstraße mit Mode und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régiségvásár",
+            "tip": "Minden hónap első vasárnapján a Piazza Grandén."
+          },
+          {
+            "name": "Corso Italia",
+            "tip": "A fő bevásárlóutca divattal és kézműves termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Târgul de Antichități",
+            "tip": "În fiecare primă duminică a lunii în Piazza Grande."
+          },
+          {
+            "name": "Corso Italia",
+            "tip": "Principala stradă comercială cu modă și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antiques Market",
+            "tip": "Every first Sunday of the month in Piazza Grande."
+          },
+          {
+            "name": "Corso Italia",
+            "tip": "The main shopping street with fashion and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Piazza Grande ist stark geneigt, tragen Sie festes Schuhwerk.",
+          "Arezzo ist weniger touristisch als Siena, genießen Sie die authentische Ruhe.",
+          "Viele Museen sind montags geschlossen.",
+          "Trinken Sie einen Aperitif an der Piazza Grande."
+        ],
+        "hu": [
+          "A Piazza Grande erősen lejt, viselj stabil cipőt.",
+          "Arezzo kevésbé turistás, mint Siena, élvezd a valódi nyugalmat.",
+          "Sok múzeum hétfőn zárva tart.",
+          "Igyál egy aperitifet a Piazza Grandén."
+        ],
+        "ro": [
+          "Piazza Grande este foarte înclinată, purtați încălțăminte stabilă.",
+          "Arezzo este mai puțin turistic decât Siena, bucurați-vă de liniștea autentică.",
+          "Multe muzee sunt închise lunea.",
+          "Beți un aperitiv în Piazza Grande."
+        ],
+        "en": [
+          "Piazza Grande is very steep, wear stable shoes.",
+          "Arezzo is less touristic than Siena, enjoy the authentic peace.",
+          "Many museums are closed on Mondays.",
+          "Have an aperitif in Piazza Grande."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Anfiteatro Romano",
+            "hu": "Római amfiteátrum",
+            "ro": "Amfiteatrul Roman",
+            "en": "Roman Amphitheatre"
+          },
+          "coords": [
+            11.881,
+            43.461
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Guter Startpunkt in der Unterstadt.",
+            "hu": "Jó kiindulópont az alsóvárosban.",
+            "ro": "Punct de plecare bun în orașul de jos.",
+            "en": "Good starting point in the lower town."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Grande",
+            "hu": "Piazza Grande",
+            "ro": "Piazza Grande",
+            "en": "Piazza Grande"
+          },
+          "coords": [
+            11.8845,
+            43.465
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Schieben Sie das Fahrrad über den steilen Platz.",
+            "hu": "Told a biciklit a meredek téren.",
+            "ro": "Împingeți bicicleta prin piața abruptă.",
+            "en": "Push your bike across the steep square."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di San Donato",
+            "hu": "Szent Donát-székesegyház",
+            "ro": "Catedrala San Donato",
+            "en": "Cathedral of San Donato"
+          },
+          "coords": [
+            11.8835,
+            43.4675
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Der höchste Punkt der Stadt.",
+            "hu": "A város legmagasabb pontja.",
+            "ro": "Cel mai înalt punct al orașului.",
+            "en": "The highest point of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortezza Medicea",
+            "hu": "Medici-erőd",
+            "ro": "Fortăreața Medicea",
+            "en": "Medici Fortress"
+          },
+          "coords": [
+            11.886,
+            43.4685
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Radeln Sie durch den weitläufigen Prato-Park.",
+            "hu": "Biciklizz át a tágas Prato parkon.",
+            "ro": "Mergeți cu bicicleta prin parcul Prato.",
+            "en": "Cycle through the expansive Prato park."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Domenico",
+            "hu": "Szent Domonkos-templom",
+            "ro": "Biserica San Domenico",
+            "en": "Church of San Domenico"
+          },
+          "coords": [
+            11.88,
+            43.4685
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Hier befindet sich das Kruzifix von Cimabue.",
+            "hu": "Itt található Cimabue feszülete.",
+            "ro": "Aici se află crucifixul lui Cimabue.",
+            "en": "Cimabue's crucifix is located here."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo delle Logge",
+            "hu": "Loggiák palotája",
+            "ro": "Palazzo delle Logge",
+            "en": "Palazzo delle Logge"
+          },
+          "coords": [
+            11.8848,
+            43.4655
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_4lang": {
+            "de": "Von Vasari entworfen, schöner Schattenplatz.",
+            "hu": "Vasari tervezte, kellemes árnyékos hely.",
+            "ro": "Proiectat de Vasari, un loc frumos cu umbră.",
+            "en": "Designed by Vasari, a beautiful shaded spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die Unterstadt mit den Höhepunkten auf dem Hügel. Starten Sie beim Amphitheater und kämpfen Sie sich hoch zur Piazza Grande und zum Dom. Der Weg durch den Prato-Park bietet Entspannung pur, bevor Sie zur Kirche San Domenico hinunterrollen. Die Tour erfordert etwas Kondition, belohnt aber mit fantastischen Ausblicken und schnellen Wechseln zwischen den historischen Monumenten.",
+        "hu": "Ez a kerékpártúra összeköti az alsóvárost a dombtetőn lévő látnivalókkal. Kezdje az amfiteátrumnál, majd küzdje fel magát a Piazza Grandéhoz és a dómhoz. A Prato parkon átvezető út teljes kikapcsolódást nyújt, mielőtt legurulna a Szent Domonkos-templomhoz. A túra némi kondíciót igényel, de fantasztikus kilátással és a történelmi emlékművek gyors elérésével jutalmaz.",
+        "ro": "Acest tur cu bicicleta conectează orașul de jos cu punctele de atracție de pe deal. Începeți la amfiteatru și urcați spre Piazza Grande și catedrală. Drumul prin parcul Prato oferă relaxare pură înainte de a coborî spre biserica San Domenico. Turul necesită puțină condiție fizică, dar recompensează cu vederi fantastice și treceri rapide între monumentele istorice.",
+        "en": "This bike tour connects the lower town with the highlights on the hill. Start at the amphitheater and make your way up to Piazza Grande and the cathedral. The path through Prato park offers pure relaxation before rolling down to the church of San Domenico. The tour requires some fitness but rewards with fantastic views and quick transitions between historical monuments."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gatò aretino",
+            "tip": "Eine köstliche Biskuitrolle mit Schokolade und Alchermes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gatò aretino",
+            "tip": "Finom piskótatekercs csokoládéval és alchermesszel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gatò aretino",
+            "tip": "O ruladă delicioasă cu ciocolată și alchermes."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gatò aretino",
+            "tip": "A delicious sponge roll with chocolate and alchermes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hinterhof von San Domenico",
+            "tip": "Stille abseits des Trubels.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Domenico belső udvara",
+            "tip": "Csend a tömegtől távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea interioară San Domenico",
+            "tip": "Liniște departe de agitație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Domenico courtyard",
+            "tip": "Silence away from the hustle and bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Goldschmiedewerkstätten",
+            "tip": "Arezzo ist weltberühmt für seinen Goldschmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ötvösműhelyek",
+            "tip": "Arezzo világhírű az aranyékszereiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ateliere de aurărie",
+            "tip": "Arezzo este faimos în întreaga lume pentru bijuteriile din aur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goldsmith Workshops",
+            "tip": "Arezzo is world-famous for its gold jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Arezzo hat viele Einbahnstraßen, achten Sie genau auf die Schilder.",
+          "Die Hügel sind steil, ein E-Bike wird empfohlen.",
+          "Schließen Sie Ihr Fahrrad immer gut ab."
+        ],
+        "hu": [
+          "Arezzóban sok az egyirányú utca, figyelj a táblákra.",
+          "A dombok meredekek, e-bike ajánlott.",
+          "Mindig zárd le jól a biciklidet."
+        ],
+        "ro": [
+          "Arezzo are multe străzi cu sens unic, atenție la semne.",
+          "Dealurile sunt abrupte, se recomandă o bicicletă electrică.",
+          "Încuiați întotdeauna bine bicicleta."
+        ],
+        "en": [
+          "Arezzo has many one-way streets, pay close attention to the signs.",
+          "The hills are steep, an e-bike is recommended.",
+          "Always lock your bike well."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cattedrale di San Donato",
+            "hu": "Szent Donát-székesegyház",
+            "ro": "Catedrala San Donato",
+            "en": "Cathedral of San Donato"
+          },
+          "coords": [
+            11.8835,
+            43.4675
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Parken Sie auf dem Parkplatz 'Pietri' und nutzen Sie die Rolltreppen.",
+            "hu": "Parkolj a 'Pietri' parkolóban és használd a mozgólépcsőket.",
+            "ro": "Parcați în parcarea 'Pietri' și folosiți scările rulante.",
+            "en": "Park at 'Pietri' parking and use the escalators."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortezza Medicea",
+            "hu": "Medici-erőd",
+            "ro": "Fortăreața Medicea",
+            "en": "Medici Fortress"
+          },
+          "coords": [
+            11.886,
+            43.4685
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Direkt neben dem Prato-Park gelegen.",
+            "hu": "Közvetlenül a Prato park mellett található.",
+            "ro": "Situat chiar lângă parcul Prato.",
+            "en": "Located right next to Prato park."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            11.881,
+            43.461
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Es ist im ehemaligen Kloster San Bernardo untergebracht.",
+            "hu": "Az egykori Szent Bernát-kolostorban kapott helyet.",
+            "ro": "Este găzduit în fosta mănăstire San Bernardo.",
+            "en": "It is housed in the former monastery of San Bernardo."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Francesco",
+            "hu": "Szent Ferenc-bazilika",
+            "ro": "Bazilica San Francesco",
+            "en": "Basilica of San Francesco"
+          },
+          "coords": [
+            11.8815,
+            43.4645
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Das Zentrum ist für Autos eingeschränkt, parken Sie außerhalb.",
+            "hu": "A központ autók elől elzárt, parkolj kívül.",
+            "ro": "Centrul este restricționat pentru mașini, parcați în exterior.",
+            "en": "The center is restricted for cars, park outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Grande",
+            "hu": "Piazza Grande",
+            "ro": "Piazza Grande",
+            "en": "Piazza Grande"
+          },
+          "coords": [
+            11.8845,
+            43.465
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Genießen Sie einen Kaffee unter den Loggien.",
+            "hu": "Élvezz egy kávét a loggiák alatt.",
+            "ro": "Bucurați-vă de o cafea sub loggii.",
+            "en": "Enjoy a coffee under the loggias."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie Arezzo bequem über die Autobahn. Parken Sie am besten im Norden der Stadt am Parkplatz Pietri und nutzen Sie die Rolltreppen zum Dom und zur Festung. Nach dem Besuch des Archäologischen Museums im Süden können Sie den Tag entspannt im Herzen der Altstadt ausklingen lassen. Das Auto ermöglicht es Ihnen, auch schwere Einkäufe (wie Antiquitäten) problemlos zu transportieren.",
+        "hu": "Autóval kényelmesen elérheti Arezzót az autópályán keresztül. A legjobb, ha a város északi részén, a Pietri parkolóban hagyja az autót, és a mozgólépcsőkkel megy fel a dómhoz és az erődhöz. A déli részen található Régészeti Múzeum megtekintése után a napot az óváros szívében zárhatja. Az autó lehetővé teszi a nehezebb vásárolt tárgyak (például régiségek) könnyű szállítását is.",
+        "ro": "Cu mașina puteți ajunge convenabil la Arezzo prin autostradă. Cel mai bine este să parcați în nordul orașului în parcarea Pietri și să folosiți scările rulante către catedrală și fortăreață. După vizitarea Muzeului de Arheologie din sud, puteți încheia ziua relaxat în inima centrului vechi. Mașina vă permite să transportați cu ușurință și cumpărăturile mai grele (cum ar fi antichitățile).",
+        "en": "By car, you can reach Arezzo conveniently via the motorway. It's best to park in the north of the city at the Pietri parking lot and use the escalators to the cathedral and fortress. After visiting the Archaeological Museum in the south, you can end the day relaxed in the heart of the old town. The car allows you to transport even heavy purchases (like antiques) without problems."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Aretino",
+            "tip": "Sehr gute lokale Weine und Käseplatten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Aretino",
+            "tip": "Nagyon jó helyi borok és sajttálak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Aretino",
+            "tip": "Vinuri locale și platouri de brânzeturi foarte bune."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Aretino",
+            "tip": "Very good local wines and cheese platters."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Prato Park",
+            "tip": "Ideal für ein Picknick im Grünen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prato park",
+            "tip": "Ideális egy piknikhez a zöldben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Prato",
+            "tip": "Ideal pentru un picnic în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prato Park",
+            "tip": "Ideal for a picnic in the green.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antiquitätenläden",
+            "tip": "Rund um die Piazza Grande finden Sie viele Fachgeschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régiségboltok",
+            "tip": "A Piazza Grande környékén számos szaküzletet találsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de antichități",
+            "tip": "În jurul Piazza Grande veți găsi multe magazine specializate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antique Shops",
+            "tip": "Around Piazza Grande you will find many specialized shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplätze sind oft schnell belegt, kommen Sie früh.",
+          "Die ZTL ist in Arezzo streng kontrolliert (Kameras!).",
+          "Nutzen Sie die Rolltreppen von Pietri, um sich den Aufstieg zu ersparen."
+        ],
+        "hu": [
+          "A parkolóhelyek gyakran gyorsan betelnek, érkezz korán.",
+          "A ZTL-t Arezzóban szigorúan ellenőrzik (kamerák!).",
+          "Használd a Pietri mozgólépcsőit, hogy megspórold a hegymászást."
+        ],
+        "ro": [
+          "Locurile de parcare se ocupă adesea rapid, veniți devreme.",
+          "ZTL este strict controlată în Arezzo (camere!).",
+          "Folosiți scările rulante de la Pietri pentru a evita urcușul."
+        ],
+        "en": [
+          "Parking spaces often fill up quickly, arrive early.",
+          "The ZTL is strictly controlled in Arezzo (cameras!).",
+          "Use the Pietri escalators to save yourself the climb."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Arezzo",
+            "hu": "Arezzo vasútállomás",
+            "ro": "Gara Arezzo",
+            "en": "Arezzo Train Station"
+          },
+          "coords": [
+            11.8735,
+            43.4605
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Direkte Verbindungen nach Florenz und Rom.",
+            "hu": "Közvetlen járatok Firenzébe és Rómába.",
+            "ro": "Legături directe către Florența și Roma.",
+            "en": "Direct connections to Florence and Rome."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Francesco",
+            "hu": "Szent Ferenc-bazilika",
+            "ro": "Bazilica San Francesco",
+            "en": "Basilica of San Francesco"
+          },
+          "coords": [
+            11.8815,
+            43.4645
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Vom Bahnhof aus leicht zu Fuß oder mit dem Bus erreichbar.",
+            "hu": "Az állomástól könnyen elérhető gyalog vagy busszal.",
+            "ro": "Ușor accesibil pe jos sau cu autobuzul de la gară.",
+            "en": "Easily accessible by foot or bus from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Grande",
+            "hu": "Piazza Grande",
+            "ro": "Piazza Grande",
+            "en": "Piazza Grande"
+          },
+          "coords": [
+            11.8845,
+            43.465
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Das Herz der Stadt, nur ein kurzer Busstopp entfernt.",
+            "hu": "A város szíve, csak egy rövid buszozásra.",
+            "ro": "Inima orașului, la doar o scurtă călătorie cu autobuzul.",
+            "en": "The heart of the city, just a short bus stop away."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di San Donato",
+            "hu": "Szent Donát-székesegyház",
+            "ro": "Catedrala San Donato",
+            "en": "Cathedral of San Donato"
+          },
+          "coords": [
+            11.8835,
+            43.4675
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 65,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Nutzen Sie den Hügelbus für den letzten Aufstieg.",
+            "hu": "Használd a dombi buszt az utolsó emelkedőhöz.",
+            "ro": "Folosiți autobuzul de deal pentru ultima urcare.",
+            "en": "Use the hill bus for the final climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortezza Medicea",
+            "hu": "Medici-erőd",
+            "ro": "Fortăreața Medicea",
+            "en": "Medici Fortress"
+          },
+          "coords": [
+            11.886,
+            43.4685
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Entspannen Sie vor der Rückfahrt im Prato-Park.",
+            "hu": "Pihenj a Prato parkban a visszautazás előtt.",
+            "ro": "Relaxați-vă în parcul Prato înainte de întoarcere.",
+            "en": "Relax in Prato park before the return trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der hervorragenden Zugverbindungen ist Arezzo ein ideales Ziel für Bahnfahrende. Vom Bahnhof aus führt der Weg stetig bergauf zu den wichtigsten Sehenswürdigkeiten. Kleine Stadtbusse erleichtern den Aufstieg zum Dom und zur Festung. Die Tour ist kompakt und stressfrei, da alle Hauptmonumente in der Nähe der Busrouten liegen, die die Unterstadt mit der Oberstadt verbinden.",
+        "hu": "A kiváló vonatösszeköttetéseknek köszönhetően Arezzo ideális úti cél a vonattal érkezőknek. Az állomástól az út folyamatosan felfelé vezet a legfontosabb látnivalókhoz. Kis városi buszok segítik a feljutást a dómhoz és az erődhöz. A túra kompakt és stresszmentes, mivel minden főbb emlékmű a buszjáratok közelében található, amelyek összekötik az alsóvárost a felsővel.",
+        "ro": "Datorită conexiunilor feroviare excelente, Arezzo este o destinație ideală pentru călătorii cu trenul. De la gară, drumul urcă constant spre principalele obiective turistice. Autobuzele mici de oraș facilitează urcarea spre catedrală și fortăreață. Turul este compact și fără stres, deoarece toate monumentele principale sunt aproape de rutele autobuzelor care leagă orașul de jos de cel de sus.",
+        "en": "Thanks to excellent train connections, Arezzo is an ideal destination for train travelers. From the station, the path leads steadily uphill to the most important sights. Small city buses facilitate the climb to the cathedral and the fortress. The tour is compact and stress-free, as all main monuments are close to the bus routes connecting the lower town with the upper town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caffe Costanti",
+            "tip": "Historisches Café in Bahnhofsnähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caffe Costanti",
+            "tip": "Történelmi kávézó az állomás közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caffe Costanti",
+            "tip": "Cafenea istorică lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caffe Costanti",
+            "tip": "Historical cafe near the station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park San Francesco",
+            "tip": "Kleiner Platz vor der Kirche zum Verweilen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Ferenc park",
+            "tip": "Kis tér a templom előtt a megpihenéshez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul San Francesco",
+            "tip": "Mică piață în fața bisericii pentru relaxare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Francesco Park",
+            "tip": "Small square in front of the church to linger.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofsgeschäfte",
+            "tip": "Lokale Produkte für die Rückfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási üzletek",
+            "tip": "Helyi termékek a visszaúthoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele din gară",
+            "tip": "Produse locale pentru drumul de întoarcere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Shops",
+            "tip": "Local products for the return trip."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die 'AT Bus' App für Fahrpläne und Tickets herunter.",
+          "Die Fahrkarten müssen vor der Fahrt entwertet werden.",
+          "Am Bahnhof gibt es eine Gepäckaufbewahrung."
+        ],
+        "hu": [
+          "Töltsd le az 'AT Bus' alkalmazást a menetrendekhez és jegyekhez.",
+          "A jegyeket utazás előtt érvényesíteni kell.",
+          "Az állomáson van csomagmegőrző."
+        ],
+        "ro": [
+          "Descărcați aplicația 'AT Bus' pentru orare și bilete.",
+          "Biletele trebuie validate înainte de călătorie.",
+          "La gară există un spațiu pentru depozitarea bagajelor."
+        ],
+        "en": [
+          "Download the 'AT Bus' app for schedules and tickets.",
+          "Tickets must be validated before the ride.",
+          "There is a luggage storage at the station."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Arezzo",
+    "iso": "IT-52",
+    "tourism_site": "https://www.discoverarezzo.com/",
+    "wikipedia": {
+      "de": "https://de.wikipedia.org/wiki/Arezzo",
+      "hu": "https://hu.wikipedia.org/wiki/Arezzo",
+      "ro": "https://ro.wikipedia.org/wiki/Arezzo",
+      "en": "https://en.wikipedia.org/wiki/Arezzo"
+    },
+    "wikivoyage": {
+      "de": "https://de.wikivoyage.org/wiki/Arezzo",
+      "hu": "https://hu.wikivoyage.org/wiki/Arezzo",
+      "ro": "https://ro.wikivoyage.org/wiki/Arezzo",
+      "en": "https://en.wikivoyage.org/wiki/Arezzo"
+    },
+    "unesco": null,
+    "osm": "https://www.openstreetmap.org/relation/42193",
+    "wikidata": "https://www.wikidata.org/wiki/Q13415",
+    "geonames": "https://www.geonames.org/3182997/arezzo.html",
+    "google_maps": "https://www.google.com/maps/place/Arezzo,+AR,+Italy",
+    "weather": "https://www.ilmeteo.it/meteo/Arezzo",
+    "tourism_office": "https://www.comune.arezzo.it/",
+    "transit_official": "https://www.autolineetoscane.it/",
+    "events": "https://www.comune.arezzo.it/feed/"
+  }
+}

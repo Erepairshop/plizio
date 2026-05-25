@@ -1,0 +1,1059 @@
+{
+  "city_id": "polignano-a-mare",
+  "anchor": {
+    "name": "Polignano a Mare",
+    "coords": [
+      17.2189,
+      40.9961
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piazza Vittorio Emanuele II",
+          "coords": [
+            17.2195,
+            40.9965
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Trinken Sie den berühmten Caffè Speciale in einer der Bars am Platz.",
+            "hu": "Kóstolja meg a híres Caffè Speciale-t a tér egyik bárjában.",
+            "ro": "Savurați celebra Caffè Speciale la una dintre cafenelele din piață.",
+            "en": "Try the famous Caffè Speciale at one of the bars in the square."
+          }
+        },
+        {
+          "name": "Chiesa Matrice di Santa Maria Assunta",
+          "coords": [
+            17.2201,
+            40.9968
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Polyptychon von Vivarini im Inneren der Kirche.",
+            "hu": "Csodálja meg a templom belsejében található Vivarini-poliptichont.",
+            "ro": "Admirați polipticul lui Vivarini din interiorul bisericii.",
+            "en": "Admire the Vivarini polyptych inside the church."
+          }
+        },
+        {
+          "name": "Ponte Borbonico",
+          "coords": [
+            17.2188,
+            40.9969
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der beste Ort für das klassische Panoramafoto von Lama Monachile.",
+            "hu": "A legjobb hely a klasszikus panorámakép elkészítéséhez Lama Monachile-ról.",
+            "ro": "Cel mai bun loc pentru fotografia panoramică clasică a plajei Lama Monachile.",
+            "en": "The best spot for the classic panoramic photo of Lama Monachile."
+          }
+        },
+        {
+          "name": "Grotta Palazzese",
+          "coords": [
+            17.2215,
+            40.9975
+          ],
+          "category": "natural features",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schauen Sie von der Aussichtsplattform auf das weltberühmte Höhlenrestaurant.",
+            "hu": "Nézzen le a kilátóról a világhírű barlangétteremre.",
+            "ro": "Priviți de pe platforma panoramică spre celebrul restaurant din peșteră.",
+            "en": "Look down from the viewpoint at the world-famous cave restaurant."
+          }
+        },
+        {
+          "name": "Lama Monachile",
+          "coords": [
+            17.2192,
+            40.9972
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bringen Sie Badeschuhe mit, da der Strand aus Kieselsteinen besteht.",
+            "hu": "Vigyen magával úszócipőt, mert a strand kavicsos.",
+            "ro": "Luați încălțăminte de apă, deoarece plaja este cu pietriș.",
+            "en": "Bring water shoes as the beach is pebbly."
+          }
+        },
+        {
+          "name": "Monumento a Domenico Modugno",
+          "coords": [
+            17.2175,
+            40.9982
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Breiten Sie die Arme aus wie Modugno und singen Sie Volare.",
+            "hu": "Tárja szét a karját, mint Modugno, és énekelje a Volare-t.",
+            "ro": "Deschideți brațele ca Modugno și fredonați melodia Volare.",
+            "en": "Spread your arms like Modugno and sing Volare."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie den Tag in der Altstadt auf der Piazza Vittorio Emanuele II, wo das Leben pulsiert. Besuchen Sie die Chiesa Matrice und spazieren Sie dann zur berühmten Bourbonen-Brücke. Mittags genießen Sie den Blick auf die Grotta Palazzese, bevor Sie den Nachmittag am ikonischen Strand Lama Monachile verbringen. Den Abend lassen Sie am Denkmal von Domenico Modugno ausklingen, während Sie den Sonnenuntergang über der Adria bewundern.",
+        "hu": "Kezdje a napot az óváros szívében, a Piazza Vittorio Emanuele II téren, majd látogasson el a Chiesa Matrice templomba. Sétáljon át a Bourbon-hídon, ahonnan lélegzetelállító kilátás nyílik a sziklákra. Délben csodálja meg a Grotta Palazzese barlangéttermet, majd töltse a délutánt a festői Lama Monachile strandon. Az estét a Domenico Modugno emlékműnél zárja, ahol a tenger feletti naplemente és a Volare dallama kíséri az utazót.",
+        "ro": "Începeți ziua în centrul vechi, în Piazza Vittorio Emanuele II, apoi vizitați Chiesa Matrice. Traversați Podul Bourbon pentru o vedere panoramică asupra falezei. La prânz, admirați celebra Grotta Palazzese, iar după-amiaza relaxați-vă pe plaja iconică Lama Monachile. Încheiați seara la monumentul lui Domenico Modugno, fredonând Volare în timp ce soarele apune peste Marea Adriatică, oferind un spectacol de neuitat.",
+        "en": "Start your day in the heart of the old town at Piazza Vittorio Emanuele II, followed by a visit to the Chiesa Matrice. Walk across the Bourbon Bridge for stunning cliff views. At midday, marvel at the Grotta Palazzese sea cave before spending a relaxing afternoon at the iconic Lama Monachile beach. End your evening at the Domenico Modugno monument, humming Volare as the sun sets over the Adriatic Sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caffè Speciale",
+            "tip": "Kaffee mit Zitronenschale und Amaretto im Super Mago del Gelo."
+          },
+          {
+            "name": "Panino con Polpo",
+            "tip": "Legendäres Oktopus-Sandwich bei Pescaria."
+          },
+          {
+            "name": "Focaccia Barese",
+            "tip": "Frisch gebacken aus der lokalen Bäckerei im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caffè Speciale",
+            "tip": "Citromhéjas, amaretto ízű kávé a Super Mago del Gelo-ban."
+          },
+          {
+            "name": "Panino con Polpo",
+            "tip": "Legendás polipos szendvics a Pescaria-ban."
+          },
+          {
+            "name": "Focaccia Barese",
+            "tip": "Frissen sült focaccia a belvárosi pékségekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caffè Speciale",
+            "tip": "Cafea cu coajă de lămâie și amaretto la Super Mago del Gelo."
+          },
+          {
+            "name": "Panino con Polpo",
+            "tip": "Sandviș legendar cu caracatiță la Pescaria."
+          },
+          {
+            "name": "Focaccia Barese",
+            "tip": "Focaccia proaspătă de la brutăriile locale din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caffè Speciale",
+            "tip": "Coffee with lemon zest and amaretto at Super Mago del Gelo."
+          },
+          {
+            "name": "Panino con Polpo",
+            "tip": "Legendary octopus sandwich at Pescaria."
+          },
+          {
+            "name": "Focaccia Barese",
+            "tip": "Freshly baked focaccia from local bakeries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Scoglio dell'Eremita",
+            "tip": "Beobachten Sie den Felsen im Meer bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lungomare Grotta Ardito",
+            "tip": "Ein ruhiger Spaziergang entlang der Klippen abseits der Massen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abbazia di San Vito",
+            "tip": "Ein friedlicher Ort am kleinen Hafen nördlich der Stadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Scoglio dell'Eremita",
+            "tip": "Figyelje a tengerből kiemelkedő sziklát naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lungomare Grotta Ardito",
+            "tip": "Csendes séta a sziklák mentén, távol a tömegtől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abbazia di San Vito",
+            "tip": "Békés hely a kis kikötőnél, a várostól északra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scoglio dell'Eremita",
+            "tip": "Priviți stânca din mijlocul mării la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lungomare Grotta Ardito",
+            "tip": "O plimbare liniștită pe faleză, departe de aglomerație.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abbazia di San Vito",
+            "tip": "Un loc liniștit lângă micul port la nord de oraș.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Scoglio dell'Eremita",
+            "tip": "Watch the rock islet at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lungomare Grotta Ardito",
+            "tip": "A quiet walk along the cliffs away from the crowds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abbazia di San Vito",
+            "tip": "A peaceful spot by the small harbor north of town.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Handbemalte apulische Keramik in der Altstadt."
+          },
+          {
+            "name": "Olivenöl & Taralli",
+            "tip": "Typische Spezialitäten der Region als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámiák",
+            "tip": "Kézzel festett apuliai kerámiák az óvárosban."
+          },
+          {
+            "name": "Olívaolaj és Taralli",
+            "tip": "Tipikus regionális finomságok szuvenírnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Ceramică apuliană pictată manual în centrul vechi."
+          },
+          {
+            "name": "Ulei de măsline și Taralli",
+            "tip": "Specialități tipice regionale pentru suveniruri."
+          },
+          {
+            "name": "Artesanato",
+            "tip": "Obiecte artizanale din lemn de măslin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Ceramics",
+            "tip": "Hand-painted Apulian ceramics in the old town."
+          },
+          {
+            "name": "Olive Oil & Taralli",
+            "tip": "Typical regional specialties as souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster der Altstadt.",
+          "Besuchen Sie Lama Monachile früh am Morgen, um die Massen zu vermeiden.",
+          "Die Aussichtspunkte (Balconi) bieten die besten Fotomotive.",
+          "Reservieren Sie Restaurants im Voraus, besonders am Wochenende."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az óváros macskaköves utcáihoz.",
+          "Látogasson el a Lama Monachile strandra korán reggel a tömeg elkerülése végett.",
+          "A sziklafalon található kilátóteraszok (balconi) kínálják a legjobb fotótémákat.",
+          "Foglaljon asztalt előre az éttermekbe, különösen hétvégén."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite din centrul vechi.",
+          "Vizitați plaja Lama Monachile dimineața devreme pentru a evita aglomerația.",
+          "Terasele panoramice (balconi) oferă cele mai bune unghiuri pentru fotografii.",
+          "Rezervați masa la restaurant în avans, mai ales în weekend."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets of the old town.",
+          "Visit Lama Monachile early in the morning to avoid the crowds.",
+          "The panoramic viewpoints (balconi) offer the best photo opportunities.",
+          "Book restaurants in advance, especially on weekends."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piazza Vittorio Emanuele II",
+          "coords": [
+            17.2195,
+            40.9965
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie das Rad sicher, bevor Sie die Fußgängerzone betreten.",
+            "hu": "Zárja le biztonságosan a biciklit, mielőtt belép a sétálóövezetbe.",
+            "ro": "Parcați bicicleta în siguranță înainte de a intra în zona pietonală.",
+            "en": "Park your bike securely before entering the pedestrian zone."
+          }
+        },
+        {
+          "name": "Chiesa Matrice",
+          "coords": [
+            17.2201,
+            40.9968
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kühler Rückzugsort am Vormittag.",
+            "hu": "Hűvös menedék délelőtt.",
+            "ro": "Un refugiu răcoros în timpul dimineții.",
+            "en": "A cool retreat in the morning."
+          }
+        },
+        {
+          "name": "Ponte Borbonico",
+          "coords": [
+            17.2188,
+            40.9969
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Blick auf die Klippenspringer im Sommer.",
+            "hu": "Nézze a sziklaugrókat nyáron.",
+            "ro": "Priviți săritorii de pe stânci în timpul verii.",
+            "en": "Watch the cliff divers during summer."
+          }
+        },
+        {
+          "name": "Lama Monachile",
+          "coords": [
+            17.2192,
+            40.9972
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurze Erfrischung im Meer.",
+            "hu": "Gyors felfrissülés a tengerben.",
+            "ro": "O scurtă revigorare în mare.",
+            "en": "A quick refresh in the sea."
+          }
+        },
+        {
+          "name": "Monumento a Domenico Modugno",
+          "coords": [
+            17.2175,
+            40.9982
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Startpunkt für die Küstenfahrt nach Norden.",
+            "hu": "Kiindulópont az északi parti úthoz.",
+            "ro": "Punct de plecare pentru traseul de coastă spre nord.",
+            "en": "Starting point for the coastal ride north."
+          }
+        },
+        {
+          "name": "Abbazia di San Vito",
+          "coords": [
+            17.1895,
+            41.0185
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe am kleinen Hafen vor der Abtei.",
+            "hu": "Élvezze a nyugalmat az apátság előtti kis kikötőben.",
+            "ro": "Bucurați-vă de liniște în micul port din fața abației.",
+            "en": "Enjoy the peace at the small harbor in front of the abbey."
+          }
+        },
+        {
+          "name": "Scoglio dell'Eremita",
+          "coords": [
+            17.2345,
+            40.9885
+          ],
+          "category": "natural features",
+          "arrive_at": "14:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein einsamer Felsen mit spiritueller Geschichte.",
+            "hu": "Egy magányos szikla spirituális múlttal.",
+            "ro": "O stâncă solitară cu o istorie spirituală.",
+            "en": "A lonely rock with a spiritual history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Polignano auf zwei Rädern. Nach der Besichtigung des Zentrums führt Sie eine malerische Küstenfahrt zur Abtei von San Vito. Genießen Sie die frische Meeresbrise, während Sie zu den abgelegeneren Felsformationen wie dem Scoglio dell'Eremita radeln.",
+        "hu": "Fedezze fel Polignanót két keréken. A központ megtekintése után egy festői parti út vezet a San Vito apátsághoz. Élvezze a friss tengeri szellőt, miközben a távolabbi sziklaalakzatokhoz, például a Scoglio dell'Eremitához teker.",
+        "ro": "Explorați Polignano pe două roți. După vizitarea centrului, un traseu de coastă pitoresc vă conduce la Abația San Vito. Bucurați-vă de briza mării în timp ce pedalați spre formațiunile stâncoase mai retrase, precum Scoglio dell'Eremita.",
+        "en": "Explore Polignano on two wheels. After visiting the center, a scenic coastal ride leads you to the Abbey of San Vito. Enjoy the fresh sea breeze as you cycle to the more secluded rock formations like the Scoglio dell'Eremita."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fisch-Streetfood",
+            "tip": "Holen Sie sich eine Tüte frittierte Meeresfrüchte."
+          },
+          {
+            "name": "Taralli",
+            "tip": "Der perfekte Snack für die Radpause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halas street food",
+            "tip": "Vegyél egy tölcsér rántott tengeri gyümölcsöt."
+          },
+          {
+            "name": "Taralli",
+            "tip": "Tökéletes rágcsálnivaló a bringás pihenőhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Street food cu pește",
+            "tip": "Luați un cornet cu fructe de mare prăjite."
+          },
+          {
+            "name": "Taralli",
+            "tip": "Gustarea perfectă pentru pauza de bicicletă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Street Food",
+            "tip": "Get a cone of fried seafood."
+          },
+          {
+            "name": "Taralli",
+            "tip": "The perfect snack for a cycling break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cala San Giovanni",
+            "tip": "Ruhiger Strandabschnitt nördlich vom Zentrum.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cala San Giovanni",
+            "tip": "Csendes partszakasz a központtól északra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cala San Giovanni",
+            "tip": "O porțiune de plajă liniștită la nord de centru.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cala San Giovanni",
+            "tip": "Quiet beach area north of the center.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Ein Fläschchen Primitivo für den Abend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "Egy üveg Primitivo az estére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "O sticlă de Primitivo pentru seară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine",
+            "tip": "A bottle of Primitivo for the evening."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für die Steigungen an der Küste.",
+          "Achten Sie auf Autos in den engen Gassen."
+        ],
+        "hu": [
+          "Béreljen elektromos kerékpárt a parti emelkedőkhöz.",
+          "Ügyeljen az autókra a szűk utcákban."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru pantele de pe coastă.",
+          "Atenție la mașini pe străzile înguste."
+        ],
+        "en": [
+          "Rent an e-bike for the coastal slopes.",
+          "Watch out for cars in the narrow streets."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Abbazia di San Vito",
+          "coords": [
+            17.1895,
+            41.0185
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz in der Nähe der Abtei.",
+            "hu": "Nagy parkoló az apátság közelében.",
+            "ro": "Parcare mare în apropierea abației.",
+            "en": "Large parking lot near the abbey."
+          }
+        },
+        {
+          "name": "Monumento a Domenico Modugno",
+          "coords": [
+            17.2175,
+            40.9982
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parken Sie am Stadtrand und gehen Sie zu Fuß weiter.",
+            "hu": "Parkoljon a város szélén, és menjen gyalog tovább.",
+            "ro": "Parcați la marginea orașului și continuați pe jos.",
+            "en": "Park on the outskirts and continue on foot."
+          }
+        },
+        {
+          "name": "Lama Monachile",
+          "coords": [
+            17.2192,
+            40.9972
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Aussicht von der Brücke ist ein Muss.",
+            "hu": "A hídról nyíló kilátás kihagyhatatlan.",
+            "ro": "Vederea de pe pod este obligatorie.",
+            "en": "The view from the bridge is a must."
+          }
+        },
+        {
+          "name": "Piazza Vittorio Emanuele II",
+          "coords": [
+            17.2195,
+            40.9965
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ideal für ein schnelles Mittagessen.",
+            "hu": "Ideális egy gyors ebédhez.",
+            "ro": "Ideal pentru un prânz rapid.",
+            "en": "Ideal for a quick lunch."
+          }
+        },
+        {
+          "name": "Chiesa Matrice",
+          "coords": [
+            17.2201,
+            40.9968
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Kirche liegt mitten im Labyrinth der Altstadt.",
+            "hu": "A templom az óváros labirintusának közepén található.",
+            "ro": "Biserica se află în mijlocul labirintului din centrul vechi.",
+            "en": "The church is in the middle of the old town labyrinth."
+          }
+        },
+        {
+          "name": "Scoglio dell'Eremita",
+          "coords": [
+            17.2345,
+            40.9885
+          ],
+          "category": "natural features",
+          "arrive_at": "15:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein schöner Stop auf dem Weg Richtung Monopoli.",
+            "hu": "Szép megálló Monopoli irányába.",
+            "ro": "O oprire frumoasă în drum spre Monopoli.",
+            "en": "A nice stop on the way towards Monopoli."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die nördliche Abtei von San Vito und die südlichen Küstenausläufer. Das historische Zentrum von Polignano ist jedoch autofrei, also planen Sie Zeit für den Fußweg vom Parkplatz ein.",
+        "hu": "Autóval kényelmesen elérheti a San Vito apátságot és a déli parti szakaszokat. Polignano történelmi központja azonban autómentes, így számoljon a parkolótól való gyalogúttal.",
+        "ro": "Cu mașina puteți ajunge ușor la Abația San Vito și la zonele de coastă din sud. Centrul istoric din Polignano este însă pietonal, așa că planificați timp pentru mersul pe jos de la parcare.",
+        "en": "By car, you can easily reach the northern Abbey of San Vito and the southern coastal stretches. However, Polignano's historical center is car-free, so plan time for the walk from the parking lot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Fisch",
+            "tip": "In den Restaurants direkt am Hafen von San Vito."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss hal",
+            "tip": "A San Vito kikötőjében található éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt",
+            "tip": "La restaurantele direct din portul San Vito."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Fish",
+            "tip": "At the restaurants directly in the harbor of San Vito."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Porto Contessa",
+            "tip": "Kleiner Sandstrand in der Nähe von San Vito.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Porto Contessa",
+            "tip": "Kis homokos strand San Vito közelében.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Porto Contessa",
+            "tip": "O mică plajă cu nisip lângă San Vito.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Porto Contessa",
+            "tip": "Small sandy beach near San Vito.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Feinkost",
+            "tip": "Kaufen Sie lokales Olivenöl direkt beim Erzeuger in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csemege",
+            "tip": "Vásároljon helyi olívaolajat közvetlenül a közeli termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Delicatese",
+            "tip": "Cumpărați ulei de măsline local direct de la producătorii din apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Delicatessen",
+            "tip": "Buy local olive oil directly from nearby producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die bewachten Parkplätze am Stadtrand.",
+          "Vermeiden Sie die Fahrt ins absolute Zentrum."
+        ],
+        "hu": [
+          "Használja az őrzött parkolókat a város szélén.",
+          "Kerülje az autóval való behajtást a közvetlen központba."
+        ],
+        "ro": [
+          "Folosiți parcările păzite de la marginea orașului.",
+          "Evitați să conduceți în centrul propriu-zis."
+        ],
+        "en": [
+          "Use the guarded parking lots on the outskirts.",
+          "Avoid driving into the very center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Bahnhof Polignano a Mare",
+          "coords": [
+            17.2145,
+            40.9942
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der perfekte Ankunftspunkt mit dem Zug aus Bari.",
+            "hu": "Tökéletes érkezési pont a Bariból induló vonattal.",
+            "ro": "Punctul perfect de sosire cu trenul din Bari.",
+            "en": "The perfect arrival point by train from Bari."
+          }
+        },
+        {
+          "name": "Piazza Vittorio Emanuele II",
+          "coords": [
+            17.2195,
+            40.9965
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof ins Zentrum.",
+            "hu": "Rövid séta a vasútállomástól a központig.",
+            "ro": "O scurtă plimbare de la gară spre centru.",
+            "en": "A short walk from the station to the center."
+          }
+        },
+        {
+          "name": "Lama Monachile",
+          "coords": [
+            17.2192,
+            40.9972
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Direkt unter der großen Brücke erreichbar.",
+            "hu": "Közvetlenül a nagy híd alatt érhető el.",
+            "ro": "Accesibil direct de sub podul mare.",
+            "en": "Accessible directly under the big bridge."
+          }
+        },
+        {
+          "name": "Monumento a Domenico Modugno",
+          "coords": [
+            17.2175,
+            40.9982
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie das Panorama vor der Rückfahrt.",
+            "hu": "Élvezze a panorámát a visszaindulás előtt.",
+            "ro": "Bucurați-vă de panoramă înainte de plecare.",
+            "en": "Enjoy the panorama before heading back."
+          }
+        },
+        {
+          "name": "Abbazia di San Vito (Bus)",
+          "coords": [
+            17.1895,
+            41.0185
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Shuttlebus 'Polignano Easy'.",
+            "hu": "Használja a helyi 'Polignano Easy' buszjáratot.",
+            "ro": "Folosiți autobuzul local 'Polignano Easy'.",
+            "en": "Use the local 'Polignano Easy' shuttle bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Polignano ist hervorragend per Zug vernetzt. Vom Bahnhof erreichen Sie alle wichtigen Sehenswürdigkeiten bequem zu Fuß. Für weiter entfernte Ziele wie San Vito gibt es im Sommer praktische Shuttlebusse.",
+        "hu": "Polignano kiváló vasúti összeköttetéssel rendelkezik. Az állomástól minden fontos látnivaló kényelmesen elérhető gyalog. A távolabbi célpontokhoz, mint San Vito, nyáron praktikus transzferbuszok közlekednek.",
+        "ro": "Polignano este excelent conectat prin rețeaua feroviară. De la gară, toate atracțiile importante sunt ușor accesibile pe jos. Pentru destinații mai îndepărtate, cum ar fi San Vito, există autobuze tip shuttle pe timp de vară.",
+        "en": "Polignano is excellently connected by train. From the station, all major sights are easily accessible on foot. For further destinations like San Vito, there are practical shuttle buses in summer."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gelato",
+            "tip": "Ein Eisbecher am Bahnhof vor der Abfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fagylalt",
+            "tip": "Egy pohár fagylalt az állomásnál indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gelato",
+            "tip": "O cupă de înghețată la gară înainte de plecare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gelato",
+            "tip": "An ice cream at the station before departure."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piazza Aldo Moro",
+            "tip": "Ein ruhigerer Platz in Bahnhofsnähe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza Aldo Moro",
+            "tip": "Egy csendesebb tér az állomás közelében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazza Aldo Moro",
+            "tip": "O piață mai liniștită aproape de gară.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza Aldo Moro",
+            "tip": "A quieter square near the station.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten",
+            "tip": "In den Kiosken rund um den Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapok",
+            "tip": "A vasútállomás körüli újságárusoknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărți poștale",
+            "tip": "La chioșcurile din jurul gării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcards",
+            "tip": "At the kiosks around the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Zugfahrpläne von Trenitalia vorab.",
+          "Kaufen Sie Tickets online, um Schlangen zu vermeiden."
+        ],
+        "hu": [
+          "Ellenőrizze előre a Trenitalia menetrendjét.",
+          "Vásárolja meg a jegyeket online a sorban állás elkerülése végett."
+        ],
+        "ro": [
+          "Verificați mersul trenurilor Trenitalia în avans.",
+          "Cumpărați biletele online pentru a evita cozile."
+        ],
+        "en": [
+          "Check the Trenitalia train schedules in advance.",
+          "Buy tickets online to avoid queues."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-75",
+    "coords": [
+      17.2189,
+      40.9961
+    ],
+    "transit_official": "https://www.stpspa.it/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Bari-1707",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.polignanoamare.com/eventi/",
+    "tourism_office": "https://www.viaggiareinpuglia.it/",
+    "webcam": "https://www.skylinewebcams.com/it/webcam/italia/puglia/bari/polignano-a-mare.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/polignano-a-mare-c561746",
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "In Apulien wird Standarditalienisch gesprochen; einfache Begruessung 'Buongiorno' oeffnet Tueren.",
+      "hu": "Pugliaban olaszul beszelnek, a 'Buongiorno' es 'Grazie' alapszavak elegendoek.",
+      "ro": "In Puglia se vorbeste italiana standard; 'Buongiorno' si 'Grazie' sunt suficiente.",
+      "en": "Standard Italian is spoken; locals appreciate a simple 'Buongiorno' and 'Grazie'."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September sind ideal; Juli/August sehr heiss und ueberlaufen.",
+      "hu": "Majus-junius es szeptember a legjobb; julius-augusztus forro es zsufolt.",
+      "ro": "Mai-iunie si septembrie sunt ideale; iulie-august sunt calde si aglomerate.",
+      "en": "May-June and September are best; July-August are hot and crowded."
+    },
+    "neighborhood_warnings": {
+      "de": "Steile Klippenwege rutschig nach Regen; Centro Storico mit engen Gassen.",
+      "hu": "A meredek sziklautak eso utan csuszosak; az ohvaros utcai keskenyek.",
+      "ro": "Potecile abrupte sunt alunecoase dupa ploaie; centrul vechi are stradute inguste.",
+      "en": "Cliff paths slippery after rain; old town has narrow stepped alleys."
+    }
+  }
+}

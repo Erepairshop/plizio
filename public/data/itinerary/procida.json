@@ -1,0 +1,1179 @@
+{
+  "city_id": "procida",
+  "anchor": {
+    "name": "Procida",
+    "coords": [
+      14.0188,
+      40.7588
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marina Grande",
+            "hu": "Marina Grande",
+            "ro": "Marina Grande",
+            "en": "Marina Grande"
+          },
+          "coords": [
+            14.0195,
+            40.7655
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Holen Sie sich eine 'Lingua di Procida' beim Bäcker.",
+            "hu": "Vegyél egy 'Lingua di Procida' süteményt a pékségben.",
+            "ro": "Luați o prăjitură 'Lingua di Procida' de la patiserie.",
+            "en": "Grab a 'Lingua di Procida' pastry at the bakery."
+          }
+        },
+        {
+          "name": {
+            "de": "Casale Vascello",
+            "hu": "Casale Vascello",
+            "ro": "Casale Vascello",
+            "en": "Casale Vascello"
+          },
+          "coords": [
+            14.0255,
+            40.7625
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein versteckter Innenhof aus dem 16. Jahrhundert.",
+            "hu": "Egy rejtett 16. századi udvar a házak között.",
+            "ro": "O curte interioară ascunsă din secolul al XVI-lea.",
+            "en": "A hidden 16th-century fortified courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Terra Murata",
+            "hu": "Terra Murata",
+            "ro": "Terra Murata",
+            "en": "Terra Murata"
+          },
+          "coords": [
+            14.0295,
+            40.7635
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der höchste Punkt der Insel mit tollem Ausblick.",
+            "hu": "A sziget legmagasabb pontja pazar kilátással.",
+            "ro": "Cel mai înalt punct al insulei, cu vederi superbe.",
+            "en": "The highest point of the island with great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbazia di San Michele",
+            "hu": "Szent Mihály apátság",
+            "ro": "Abbazia di San Michele",
+            "en": "Abbey of San Michele"
+          },
+          "coords": [
+            14.0305,
+            40.7638
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Katakomben unter der Kirche.",
+            "hu": "Látogasd meg a templom alatti katakombákat.",
+            "ro": "Vizitați catacombele de sub biserică.",
+            "en": "Visit the catacombs beneath the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Corricella",
+            "hu": "Marina Corricella",
+            "ro": "Marina Corricella",
+            "en": "Marina Corricella"
+          },
+          "coords": [
+            14.0275,
+            40.7605
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Perfekt für ein Mittagessen am Hafenbecken.",
+            "hu": "Tökéletes hely egy ebédre a kikötőben.",
+            "ro": "Locul perfect pentru un prânz în port.",
+            "en": "Perfect spot for a harbor-side lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia del Postino",
+            "hu": "Spiaggia del Postino",
+            "ro": "Spiaggia del Postino",
+            "en": "Spiaggia del Postino"
+          },
+          "coords": [
+            14.0115,
+            40.7585
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bekannt aus dem Film 'Il Postino'.",
+            "hu": "A 'Neruda postása' című film forgatási helyszíne.",
+            "ro": "Locul unde s-a filmat 'Il Postino'.",
+            "en": "Famous filming location for 'The Postman'."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere Elsa Morante",
+            "hu": "Elsa Morante kilátó",
+            "ro": "Belvedere Elsa Morante",
+            "en": "Elsa Morante Viewpoint"
+          },
+          "coords": [
+            14.0185,
+            40.7582
+          ],
+          "category": "natural features",
+          "arrive_at": "18:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für den Sonnenuntergang.",
+            "hu": "Csendes hely a naplemente megcsodálásához.",
+            "ro": "Un loc liniștit pentru apusul soarelui.",
+            "en": "A peaceful spot for sunset watching."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im farbenfrohen Marina Grande und schlendern Sie durch die engen Gassen zum Casale Vascello. Erklimmen Sie die historische Terra Murata, um das spirituelle Herz der Insel in der Abbazia di San Michele zu spüren. Der Mittag gehört dem malerischen Corricella mit seinen pastellfarbenen Fischerhäusern. Den Nachmittag verbringen Sie entspannt am berühmten Postino-Strand, bevor der Tag am Belvedere Elsa Morante friedlich ausklingt.",
+        "hu": "Kezdje a napot a színes Marina Grandéban, majd sétáljon át a Casale Vascello rejtett udvarán. Másszon fel a történelmi Terra Muratára, és fedezze fel a Szent Mihály apátság titkait. A délutánt töltse a festői Corricella pasztellszínű házai között, élvezve a friss tengeri ételeket. Pihenjen a híres 'Postás' strandon, végül csodálja meg a panorámát az Elsa Morante kilátóról a lemenő nap fényében.",
+        "ro": "Începeți ziua în colorata Marina Grande și plimbați-vă spre curtea istorică Casale Vascello. Urcați la Terra Murata pentru a vizita spirituala Abbazia di San Michele. Prânzul este rezervat pentru Corricella, cel mai vechi sat de pescari, cu casele sale pastelate. Petreceți după-amiaza pe plaja Spiaggia del Postino, iar spre seară bucurați-vă de liniștea oferită de Belvedere Elsa Morante.",
+        "en": "Start your day in colorful Marina Grande and wander through the narrow streets to Casale Vascello. Climb up to the historical Terra Murata to experience the spiritual heart of the island at the Abbey of San Michele. Spend your midday in picturesque Corricella among pastel-colored fisherman houses. Relax at the famous Postino beach in the afternoon before ending the day peacefully at the Elsa Morante viewpoint."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lingua di Suocera",
+            "tip": "Blätterteig mit Zitronencreme"
+          },
+          {
+            "name": "Ristorante La Lampara",
+            "tip": "Frischer Fisch mit Blick auf Corricella"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lingua di Suocera",
+            "tip": "Citromkrémes leveles tészta"
+          },
+          {
+            "name": "Ristorante La Lampara",
+            "tip": "Friss halak kilátással Corricellára"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lingua di Suocera",
+            "tip": "Foietaj cu cremă de lămâie"
+          },
+          {
+            "name": "Ristorante La Lampara",
+            "tip": "Pește proaspăt cu vedere la Corricella"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lingua di Suocera",
+            "tip": "Puff pastry filled with lemon cream"
+          },
+          {
+            "name": "Ristorante La Lampara",
+            "tip": "Fresh fish with a view of Corricella"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Isola di Vivara",
+            "tip": "Naturschutzgebiet (nur mit Führung)",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Belvedere Elsa Morante",
+            "tip": "Panoramablick",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vivara-sziget",
+            "tip": "Természetvédelmi terület (vezetéssel)",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Belvedere Elsa Morante",
+            "tip": "Panorámás kilátóhely",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Vivara",
+            "tip": "Rezervație naturală (doar cu ghid)",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Belvedere Elsa Morante",
+            "tip": "Vedere panoramică",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vivara Island",
+            "tip": "Nature reserve (guided only)",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Belvedere Elsa Morante",
+            "tip": "Panoramic viewpoint",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Roma",
+            "tip": "Boutiquen und Kunsthandwerk"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Roma",
+            "tip": "Butikok és helyi kézműves termékek"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Roma",
+            "tip": "Boutique-uri și artizanat local"
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Roma",
+            "tip": "Boutiques and local crafts"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Procida ist klein genug, um sie komplett zu Fuß zu erkunden.",
+          "Tragen Sie bequeme Schuhe für die steilen Gassen zur Terra Murata.",
+          "Buchen Sie Vivara-Touren im Voraus online.",
+          "Die Insel ist weniger überlaufen als Capri."
+        ],
+        "hu": [
+          "Procida elég kicsi ahhoz, hogy teljesen gyalog bejárjuk.",
+          "Viselj kényelmes cipőt a Terra Muratára vezető meredek utcákhoz.",
+          "A Vivara-szigeti túrákat érdemes előre lefoglalni.",
+          "A sziget sokkal nyugodtabb, mint Capri."
+        ],
+        "ro": [
+          "Procida este suficient de mică pentru a fi explorată pe jos.",
+          "Purtați încălțăminte comodă pentru străzile abrupte spre Terra Murata.",
+          "Rezervați tururile pentru Vivara în avans.",
+          "Insula este mult mai puțin aglomerată decât Capri."
+        ],
+        "en": [
+          "Procida is small enough to explore entirely on foot.",
+          "Wear comfortable shoes for the steep streets up to Terra Murata.",
+          "Book Vivara tours in advance online.",
+          "The island is much less crowded than Capri."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marina Grande",
+            "hu": "Marina Grande",
+            "ro": "Marina Grande",
+            "en": "Marina Grande"
+          },
+          "coords": [
+            14.0195,
+            40.7655
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie hier Ihr E-Bike.",
+            "hu": "Itt bérelheted ki az e-biciklidet.",
+            "ro": "Închiriați bicicleta electrică aici.",
+            "en": "Rent your e-bike here."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo d'Avalos",
+            "hu": "Palazzo d'Avalos",
+            "ro": "Palazzo d'Avalos",
+            "en": "Palazzo d'Avalos"
+          },
+          "coords": [
+            14.029,
+            40.764
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ehemaliges Gefängnis mit beeindruckender Architektur.",
+            "hu": "Egykori börtön lenyűgöző építészettel.",
+            "ro": "Fostă închisoare cu o arhitectură impresionantă.",
+            "en": "Former prison with impressive architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria delle Grazie",
+            "hu": "Santa Maria delle Grazie templom",
+            "ro": "Chiesa di Santa Maria delle Grazie",
+            "en": "Church of Santa Maria delle Grazie"
+          },
+          "coords": [
+            14.027,
+            40.7615
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die gelbe Kirche über Corricella.",
+            "hu": "A sárga templom Corricella felett.",
+            "ro": "Biserica galbenă de deasupra portului Corricella.",
+            "en": "The yellow church overlooking Corricella."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Corricella",
+            "hu": "Marina Corricella",
+            "ro": "Marina Corricella",
+            "en": "Marina Corricella"
+          },
+          "coords": [
+            14.0275,
+            40.7605
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fahrrad oben stehen lassen, Treppen nehmen.",
+            "hu": "Hagyd fent a biciklit, menj le gyalog.",
+            "ro": "Lăsați bicicleta sus și coborâți pe scări.",
+            "en": "Leave the bike above and take the stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Isola di Vivara (Eingang)",
+            "hu": "Vivara-sziget bejárat",
+            "ro": "Isola di Vivara (intrare)",
+            "en": "Vivara Island Entrance"
+          },
+          "coords": [
+            13.9965,
+            40.7455
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Über die Fußgängerbrücke erreichbar.",
+            "hu": "A gyalogoshídon keresztül érhető el.",
+            "ro": "Accesibil prin podul pietonal.",
+            "en": "Accessible via the pedestrian bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia del Postino",
+            "hu": "Spiaggia del Postino",
+            "ro": "Spiaggia del Postino",
+            "en": "Spiaggia del Postino"
+          },
+          "coords": [
+            14.0115,
+            40.7585
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Abkühlung vor der Rückgabe des Rades.",
+            "hu": "Mártózz meg a tengerben a bicikli leadása előtt.",
+            "ro": "Răcoriți-vă în mare înainte de a returna bicicleta.",
+            "en": "Cool down before returning the bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem E-Bike erkunden Sie Procida mühelos. Starten Sie im Norden, besichtigen Sie das gewaltige Palazzo d'Avalos und genießen Sie den Blick von der gelben Kirche Santa Maria delle Grazie. Nach einem Mittagessen im autofreien Corricella radeln Sie in den tiefen Süden zur Brücke nach Vivara. Den Tag lassen Sie mit einem kurzen Sprung ins Meer am Postino-Strand ausklingen, bevor Sie das Rad am Hafen zurückgeben.",
+        "hu": "Az e-bicikli a legjobb módja a sziget dombos utcáinak felfedezésére. Kezdje északon a Palazzo d'Avalos börtönmúzeumnál, majd csodálja meg Corricella látképét a Santa Maria delle Grazie templomtól. Ebédeljen a kikötőben, majd tekerjen el egészen a sziget déli csücskéig, a Vivara-szigetet összekötő hídig. Végül álljon meg a Postino strandnál egy frissítő fürdőre.",
+        "ro": "Cu o bicicletă electrică puteți explora Procida fără efort. Începeți în nord cu masivul Palazzo d'Avalos, apoi bucurați-vă de panorama de la biserica Santa Maria delle Grazie. După un prânz în portul Corricella, pedalați spre extremitatea sudică până la podul Vivara. Încheiați ziua cu o scurtă baie pe plaja Postino înainte de a returna bicicleta în port.",
+        "en": "With an e-bike, exploring Procida's hills is effortless. Start in the north at the imposing Palazzo d'Avalos and enjoy the view from Santa Maria delle Grazie church. After lunch in Corricella, cycle all the way south to the bridge connecting to Vivara Island. Finish your day with a quick dip at Postino beach before returning your bike at the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Gemischte frittierte Meeresfrüchte"
+          },
+          {
+            "name": "Caracalè",
+            "tip": "Romantisches Restaurant in Corricella"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Vegyes sült tengeri herkenyűk"
+          },
+          {
+            "name": "Caracalè",
+            "tip": "Romantikus étterem Corricellában"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Fructe de mare prăjite"
+          },
+          {
+            "name": "Caracalè",
+            "tip": "Restaurant romantic în Corricella"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Mixed fried seafood"
+          },
+          {
+            "name": "Caracalè",
+            "tip": "Romantic restaurant in Corricella"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chiaiolella",
+            "tip": "Dorf am südlichen Ende",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chiaiolella",
+            "tip": "Halászfalu a déli végen",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chiaiolella",
+            "tip": "Sat în extremitatea sudică",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chiaiolella",
+            "tip": "Village at the southern end",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Limoncello di Procida",
+            "tip": "Lokale Zitronenprodukte"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Procida-i Limoncello",
+            "tip": "Helyi citromos termékek"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Limoncello de Procida",
+            "tip": "Produse locale pe bază de lămâie"
+          }
+        ],
+        "en": [
+          {
+            "name": "Procida Limoncello",
+            "tip": "Local lemon products"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie unbedingt ein E-Bike, die Insel hat viele Anstiege.",
+          "Achten Sie auf die engen Straßen und den Busverkehr.",
+          "In Corricella herrscht Fahrverbot, parken Sie oberhalb.",
+          "Die Küstenstraße nach Chiaiolella ist sehr schön."
+        ],
+        "hu": [
+          "Mindenképpen e-biciklit bérelj, mert sok az emelkedő.",
+          "Figyelj a szűk utcákra és a helyi buszokra.",
+          "Corricellába tilos behajtani, parkolj le feljebb.",
+          "A Chiaiolella felé vezető parti út gyönyörű."
+        ],
+        "ro": [
+          "Închiriați neapărat o bicicletă electrică, insula are multe pante.",
+          "Atenție la străzile înguste și la autobuzele locale.",
+          "Accesul cu bicicleta este interzis în Corricella, parcați sus.",
+          "Drumul de coastă spre Chiaiolella este superb."
+        ],
+        "en": [
+          "Definitely rent an e-bike, the island has many inclines.",
+          "Watch out for narrow streets and local bus traffic.",
+          "Bikes are not allowed in Corricella, park them above.",
+          "The coastal road to Chiaiolella is very scenic."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marina Grande",
+            "hu": "Marina Grande",
+            "ro": "Marina Grande",
+            "en": "Marina Grande"
+          },
+          "coords": [
+            14.0195,
+            40.7655
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den öffentlichen Parkplatz am Hafen.",
+            "hu": "Használd a kikötői nagy parkolót.",
+            "ro": "Folosiți parcarea publică din port.",
+            "en": "Use the public parking lot at the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Terra Murata",
+            "hu": "Terra Murata",
+            "ro": "Terra Murata",
+            "en": "Terra Murata"
+          },
+          "coords": [
+            14.0295,
+            40.7635
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die Zufahrt ist sehr eng, vorsichtig fahren.",
+            "hu": "Az út nagyon szűk, óvatosan vezess.",
+            "ro": "Accesul este foarte îngust, conduceți cu prudență.",
+            "en": "The access road is very narrow, drive carefully."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Corricella",
+            "hu": "Marina Corricella",
+            "ro": "Marina Corricella",
+            "en": "Marina Corricella"
+          },
+          "coords": [
+            14.0275,
+            40.7605
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Piazza dei Martiri.",
+            "hu": "Parkolj a Piazza dei Martiri téren.",
+            "ro": "Parcați la Piazza dei Martiri.",
+            "en": "Park at Piazza dei Martiri."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia del Postino",
+            "hu": "Spiaggia del Postino",
+            "ro": "Spiaggia del Postino",
+            "en": "Spiaggia del Postino"
+          },
+          "coords": [
+            14.0115,
+            40.7585
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parkplätze in der Nähe sind begrenzt.",
+            "hu": "A közeli parkolóhelyek száma korlátozott.",
+            "ro": "Locurile de parcare din apropiere sunt limitate.",
+            "en": "Parking spots nearby are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina di Chiaiolella",
+            "hu": "Marina di Chiaiolella",
+            "ro": "Marina di Chiaiolella",
+            "en": "Marina di Chiaiolella"
+          },
+          "coords": [
+            13.9995,
+            40.7485
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schöner Yachthafen im Süden.",
+            "hu": "Szép jachtkikötő a sziget déli felén.",
+            "ro": "Un port de iahturi frumos în sud.",
+            "en": "Beautiful marina in the southern part."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere Elsa Morante",
+            "hu": "Elsa Morante kilátó",
+            "ro": "Belvedere Elsa Morante",
+            "en": "Elsa Morante Viewpoint"
+          },
+          "coords": [
+            14.0185,
+            40.7582
+          ],
+          "category": "natural features",
+          "arrive_at": "16:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Perfekter Abschluss der Tour.",
+            "hu": "A túra tökéletes lezárása.",
+            "ro": "Finalul perfect al turului.",
+            "en": "The perfect end to your tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Procida mit dem Auto zu erkunden ist ein Abenteuer wegen der extrem engen Straßen. Besuchen Sie die befestigte Stadt Terra Murata und den malerischen Hafen Corricella (Parken oberhalb). Am Nachmittag fahren Sie zum Postino-Strand für eine Badepause und weiter nach Chiaiolella im Süden. Beenden Sie den Tag am Belvedere Elsa Morante, bevor Sie den Mietwagen oder Roller am Hafen zurückgeben.",
+        "hu": "Autóval (vagy inkább robogóval) bejárni Procidát igazi kaland a szűk utcák miatt. Kezdje északon a fallal körülvett Terra Muratánál, majd parkoljon le Corricella felett egy ebédre. Délután strandoljon a Postino parton, majd látogasson el a sziget déli végébe, Chiaiobellába. A napot az Elsa Morante kilátónál fejezze be, ahonnan belátni az egész szigetet.",
+        "ro": "Explorarea insulei Procida cu mașina este o aventură din cauza străzilor extrem de înguste. Vizitați orașul fortificat Terra Murata și portul pitoresc Corricella (parcați deasupra). După-amiaza, mergeți la plaja Postino pentru o baie, apoi spre Chiaiolella în sud. Încheiați ziua la Belvedere Elsa Morante înainte de a returna vehiculul în port.",
+        "en": "Exploring Procida by car (or scooter) is an adventure due to the extremely narrow streets. Visit the fortified Terra Murata and the picturesque Corricella harbor (park above). In the afternoon, head to Postino beach for a swim, then drive south to Chiaiolella. End your day at the Elsa Morante viewpoint before returning your vehicle to the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasta alla Pescatora",
+            "tip": "Nudeln mit Meeresfrüchten"
+          },
+          {
+            "name": "Da Mariano",
+            "tip": "Traditionelle Küche im Inselinneren"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasta alla Pescatora",
+            "tip": "Tenger gyümölcsei tészta"
+          },
+          {
+            "name": "Da Mariano",
+            "tip": "Hagyományos konyha a sziget belsejében"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasta alla Pescatora",
+            "tip": "Paste cu fructe de mare"
+          },
+          {
+            "name": "Da Mariano",
+            "tip": "Bucătărie tradițională în interiorul insulei"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasta alla Pescatora",
+            "tip": "Seafood pasta"
+          },
+          {
+            "name": "Da Mariano",
+            "tip": "Traditional cuisine in the island interior"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spiaggia di Ciraccio",
+            "tip": "Langer Sandstrand",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spiaggia di Ciraccio",
+            "tip": "Hosszú homokos strand",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Spiaggia di Ciraccio",
+            "tip": "Plajă lungă cu nisip",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spiaggia di Ciraccio",
+            "tip": "Long sandy beach",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Vittorio Emanuele",
+            "tip": "Lokale Geschäfte"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Vittorio Emanuele",
+            "tip": "Helyi üzletek"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Vittorio Emanuele",
+            "tip": "Magazine locale"
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Vittorio Emanuele",
+            "tip": "Local shops"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie lieber einen Roller als ein Auto, es ist viel praktischer.",
+          "Nicht-Anwohner dürfen im Sommer oft nicht mit dem Auto auf die Insel.",
+          "Die Straßen sind oft nur so breit wie ein kleiner Wagen.",
+          "Hupen Sie vor unübersichtlichen Kurven."
+        ],
+        "hu": [
+          "Inkább robogót bérelj, mint autót, sokkal praktikusabb.",
+          "A turistáknak nyáron gyakran tilos autóval behajtani a szigetre.",
+          "Az utcák sokszor csak egy kisautó szélességűek.",
+          "Dudálj a beláthatatlan kanyarok előtt."
+        ],
+        "ro": [
+          "Închiriați un scuter în loc de mașină, este mult mai practic.",
+          "Nerezidenții nu au voie cu mașina pe insulă în timpul verii.",
+          "Străzile sunt adesea doar cât o mașină mică de late.",
+          "Claxonați înainte de curbele fără vizibilitate."
+        ],
+        "en": [
+          "Rent a scooter instead of a car, it's much more practical.",
+          "Non-residents are often prohibited from bringing cars in summer.",
+          "Streets are often only as wide as a small car.",
+          "Honk before blind corners."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Marina Grande",
+            "hu": "Marina Grande",
+            "ro": "Marina Grande",
+            "en": "Marina Grande"
+          },
+          "coords": [
+            14.0195,
+            40.7655
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Hauptknotenpunkt der kleinen bunten Busse.",
+            "hu": "A kis színes buszok fő csomópontja.",
+            "ro": "Nodul principal pentru autobuzele locale mici.",
+            "en": "Main hub for the small colorful buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Terra Murata (Bus L1)",
+            "hu": "Terra Murata (L1 busz)",
+            "ro": "Terra Murata (Autobuz L1)",
+            "en": "Terra Murata (Bus L1)"
+          },
+          "coords": [
+            14.0295,
+            40.7635
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der Bus fährt bis ganz nach oben.",
+            "hu": "A busz egészen a hegytetőig felvisz.",
+            "ro": "Autobuzul merge până în cel mai înalt punct.",
+            "en": "The bus goes all the way to the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Corricella",
+            "hu": "Marina Corricella",
+            "ro": "Marina Corricella",
+            "en": "Marina Corricella"
+          },
+          "coords": [
+            14.0275,
+            40.7605
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Abstieg zu Fuß ab Piazza dei Martiri.",
+            "hu": "Gyalogos ereszkedés a Piazza dei Martiri-től.",
+            "ro": "Coborâre pe jos de la Piazza dei Martiri.",
+            "en": "Descent on foot from Piazza dei Martiri."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Chiaiolella (Bus L1/L2)",
+            "hu": "Chiaiolella strand (L1/L2 busz)",
+            "ro": "Plaja Chiaiolella (Autobuz L1/L2)",
+            "en": "Chiaiolella Beach (Bus L1/L2)"
+          },
+          "coords": [
+            13.9985,
+            40.7475
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Endstation der meisten Linien.",
+            "hu": "A legtöbb járat végállomása.",
+            "ro": "Capăt de linie pentru majoritatea rutelor.",
+            "en": "Terminus for most bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Grande",
+            "hu": "Marina Grande",
+            "ro": "Marina Grande",
+            "en": "Marina Grande"
+          },
+          "coords": [
+            14.0195,
+            40.7655
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Zeit für Souvenirs vor der Fähre.",
+            "hu": "Vásárolj ajándékokat a kompindulás előtt.",
+            "ro": "Timp pentru suveniruri înainte de feribot.",
+            "en": "Time for souvenirs before the ferry."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die kleinen Busse auf Procida sind eine Attraktion für sich. Nehmen Sie die Linie L1 zur Terra Murata und genießen Sie die Aussicht. Wandern Sie hinunter zum Hafen Corricella für ein Mittagessen am Wasser. Am Nachmittag bringt Sie der Bus in den Süden nach Chiaiolella zum Entspannen am Strand. Den Tag beenden Sie wieder am Haupthafen Marina Grande, wo Sie die letzten Eindrücke sammeln können.",
+        "hu": "A procidai kisbuszok önmagukban is élményt jelentenek. Használja az L1-es járatot a Terra Muratára való feljutáshoz, majd sétáljon le Corricella kikötőjébe ebédelni. Délután a busz elviszi a sziget túlsó végébe, Chiaiobellába, ahol a legjobb strandokat találja. A nap végén térjen vissza Marina Grandéba, és böngésszen a helyi boltok kínálatában.",
+        "ro": "Autobuzele mici din Procida sunt o atracție în sine. Luați linia L1 până la Terra Murata și bucurați-vă de priveliște. Coborâți pe jos în portul Corricella pentru un prânz lângă apă. După-amiaza, autobuzul vă duce în sud, la Chiaiolella, pentru relaxare pe plajă. Încheiați ziua în portul principal Marina Grande, explorând magazinele locale.",
+        "en": "The small buses in Procida are an attraction in themselves. Take line L1 to Terra Murata and enjoy the view. Walk down to Corricella harbor for lunch by the water. In the afternoon, the bus takes you south to Chiaiolella for some beach time. End your day back at the main harbor of Marina Grande, browsing the local shops."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Calamari ripieni",
+            "tip": "Gefüllte Tintenfische"
+          },
+          {
+            "name": "Bar Roma",
+            "tip": "Berühmt für Süßspeisen"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calamari ripieni",
+            "tip": "Töltött tintahal"
+          },
+          {
+            "name": "Bar Roma",
+            "tip": "Híres az édességeiről"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calamari ripieni",
+            "tip": "Calamari umpluți"
+          },
+          {
+            "name": "Bar Roma",
+            "tip": "Faimos pentru dulciuri"
+          }
+        ],
+        "en": [
+          {
+            "name": "Calamari ripieni",
+            "tip": "Stuffed squids"
+          },
+          {
+            "name": "Bar Roma",
+            "tip": "Famous for pastries"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belvedere di Santa Margherita",
+            "tip": "Blick auf Vivara",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Santa Margherita kilátó",
+            "tip": "Kilátás Vivarára",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere di Santa Margherita",
+            "tip": "Vedere spre Vivara",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Santa Margherita Viewpoint",
+            "tip": "View of Vivara",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handbemalte Keramik",
+            "tip": "In den Gassen von Marina Grande"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel festett kerámia",
+            "tip": "Marina Grande utcáiban"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică pictată manual",
+            "tip": "Pe străzile din Marina Grande"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hand-painted ceramics",
+            "tip": "In the streets of Marina Grande"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets im Voraus am Kiosk oder im Tabakladen.",
+          "Die Busse sind sehr klein und können im Sommer voll sein.",
+          "Es gibt vier Hauptlinien (L1, L2, C1, C2).",
+          "Der Fahrplan ist eher ein Richtwert."
+        ],
+        "hu": [
+          "Vegyél buszjegyet előre az újságosnál vagy dohányboltban.",
+          "A buszok nagyon kicsik és nyáron hamar megtelnek.",
+          "Négy fő vonal van (L1, L2, C1, C2).",
+          "A menetrend inkább csak tájékoztató jellegű."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz în avans de la chioșcuri sau tutungerii.",
+          "Autobuzele sunt foarte mici și pot fi aglomerate vara.",
+          "Există patru linii principale (L1, L2, C1, C2).",
+          "Orarele sunt mai degrabă orientative."
+        ],
+        "en": [
+          "Buy bus tickets in advance at kiosks or tobacco shops.",
+          "The buses are very small and can be crowded in summer.",
+          "There are four main lines (L1, L2, C1, C2).",
+          "The timetable is more of a suggestion."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-72",
+    "coords": [
+      14.0188,
+      40.7588
+    ],
+    "transit_official": "https://www.caremar.it",
+    "transit_app": "https://www.infoischiaprocida.it",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.procida.eu",
+    "tourism_office": "https://www.procida.eu",
+    "webcam": "https://www.skylinewebcams.com/webcam/italia/campania/napoli/procida.html",
+    "restaurants_booking": "https://www.thefork.it",
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch; etwas Englisch in Hotels, weniger Deutsch.",
+      "hu": "Olasz; szállodákban kevés angol, alig német.",
+      "ro": "Italiană; puțină engleză în hoteluri, rar germană.",
+      "en": "Italian; limited English in hotels, little German."
+    },
+    "best_time": {
+      "de": "April-Juni, September: ruhig, farbenfrohe Marina Corricella.",
+      "hu": "Április-június, szeptember: csendes, színes Marina Corricella.",
+      "ro": "Aprilie-iunie, septembrie: liniștit, Marina Corricella colorată.",
+      "en": "April-June, September: quiet, colorful Marina Corricella."
+    },
+    "warnings": {
+      "de": "Autos auf Insel beschränkt, Mikrotaxi nutzen, Caremar/SNAV ab Neapel/Pozzuoli.",
+      "hu": "Autóforgalom korlátozott, mikrotaxi ajánlott, Caremar/SNAV Nápolyból/Pozzuoliból.",
+      "ro": "Trafic auto restricționat, microtaxi recomandat, Caremar/SNAV din Napoli/Pozzuoli.",
+      "en": "Car traffic restricted, use microtaxi, Caremar/SNAV from Naples/Pozzuoli."
+    }
+  }
+}

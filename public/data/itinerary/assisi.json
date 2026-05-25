@@ -1,0 +1,1078 @@
+{
+  "city_id": "assisi",
+  "anchor": {
+    "name": "Piazza del Comune",
+    "coords": [
+      12.617,
+      43.0708
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza del Comune",
+            "hu": "Piazza del Comune",
+            "ro": "Piazza del Comune",
+            "en": "Piazza del Comune"
+          },
+          "coords": [
+            12.617,
+            43.0708
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Trinken Sie einen Espresso in den historischen Cafés am Platz.",
+            "hu": "Igyon egy eszpresszót a tér történelmi kávézóiban.",
+            "ro": "Beți un espresso la cafenelele istorice din piață.",
+            "en": "Have an espresso at the historic cafes in the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempio di Minerva",
+            "hu": "Minerva-templom",
+            "ro": "Templul Minervei",
+            "en": "Tempio di Minerva"
+          },
+          "coords": [
+            12.6168,
+            43.0708
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die römische Fassade, die heute eine Kirche ist.",
+            "hu": "Csodálja meg a római homlokzatot, amely ma templomként funkcionál.",
+            "ro": "Admirați fațada romană, care acum este o biserică.",
+            "en": "Admire the Roman facade, which is now a church."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika San Francesco",
+            "hu": "Szent Ferenc-bazilika",
+            "ro": "Bazilica Sfântul Francisc",
+            "en": "Basilica di San Francesco"
+          },
+          "coords": [
+            12.6055,
+            43.0748
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Ober- und Unterkirche für die Giotto-Fresken.",
+            "hu": "Nézze meg az alsó és felső templomot Giotto freskóiért.",
+            "ro": "Vizitați biserica superioară și inferioară pentru frescele lui Giotto.",
+            "en": "Visit both upper and lower basilicas for Giotto's frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Foro Romano",
+            "hu": "Foro Romano",
+            "ro": "Forul Roman",
+            "en": "Foro Romano"
+          },
+          "coords": [
+            12.616,
+            43.0705
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die archäologischen Ausgrabungen unter der Stadt.",
+            "hu": "Fedezze fel a város alatti régészeti feltárásokat.",
+            "ro": "Descoperiți excavațiile arheologice de sub oraș.",
+            "en": "Discover the archaeological excavations under the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Santa Chiara",
+            "hu": "Szent Klára-bazilika",
+            "ro": "Bazilica Sfânta Clara",
+            "en": "Basilica di Santa Chiara"
+          },
+          "coords": [
+            12.62,
+            43.0685
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besichtigen Sie das Kreuz von San Damiano im Inneren.",
+            "hu": "Tekintse meg belül a San Damiano-keresztet.",
+            "ro": "Vedeți crucea de la San Damiano în interior.",
+            "en": "See the cross of San Damiano inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale San Rufino",
+            "hu": "San Rufino-székesegyház",
+            "ro": "Catedrala San Rufino",
+            "en": "Cattedrale di San Rufino"
+          },
+          "coords": [
+            12.6215,
+            43.0715
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die romanische Fassade gehört zu den schönsten der Region.",
+            "hu": "A román stílusú homlokzat a régió egyik legszebbje.",
+            "ro": "Fațada romanică este una dintre cele mai frumoase din regiune.",
+            "en": "The Romanesque facade is one of the region's finest."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocca Maggiore",
+            "hu": "Rocca Maggiore",
+            "ro": "Rocca Maggiore",
+            "en": "Rocca Maggiore"
+          },
+          "coords": [
+            12.618,
+            43.0755
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über das umbrische Tal.",
+            "hu": "Élvezze a panorámát az umbriai völgyre.",
+            "ro": "Bucurați-vă de panorama asupra văii umbriene.",
+            "en": "Enjoy the panoramic view over the Umbrian valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Assisi auf der Piazza del Comune, bevor Sie die spirituelle Pracht der Basilika San Francesco erkunden. Mittags tauchen Sie in die römische Geschichte unter der Stadt ein. Am Nachmittag pilgern Sie zur Basilika Santa Chiara und beenden den Tag bei Sonnenuntergang auf der majestätischen Festung Rocca Maggiore mit Blick über Umbrien.",
+        "hu": "Kezdje a napot Assisi szívében, a Piazza del Comunén, majd fedezze fel a Szent Ferenc-bazilika spirituális pompáját. Délben merüljön el a város alatti római történelemben. Délután zarándokoljon el a Szent Klára-bazilikához, a napot pedig a fenséges Rocca Maggiore erődben zárja, ahonnan csodás kilátás nyílik Umbriára naplementekor.",
+        "ro": "Începeți ziua în inima orașului Assisi, în Piazza del Comune, înainte de a explora splendoarea spirituală a Bazilicii Sfântul Francisc. La prânz, scufundați-vă în istoria romană de sub oraș. După-amiaza, mergeți în pelerinaj la Bazilica Sfânta Clara și încheiați ziua la apus pe maiestuoasa fortăreață Rocca Maggiore, cu vedere peste Umbria.",
+        "en": "Start your day in the heart of Assisi at Piazza del Comune before exploring the spiritual grandeur of the Basilica of San Francesco. At midday, dive into the Roman history beneath the city. In the afternoon, make a pilgrimage to the Basilica of Santa Chiara and end the day at sunset at the majestic Rocca Maggiore fortress overlooking Umbria."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Umbricelli al Tartufo",
+            "tip": "Dicke handgemachte Pasta mit lokalem schwarzen Trüffel."
+          },
+          {
+            "name": "Trattoria Pallotta",
+            "tip": "Authentische umbrische Küche direkt an der Piazza del Comune."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Umbricelli al Tartufo",
+            "tip": "Vastag, kézzel készített tészta helyi fekete szarvasgombával."
+          },
+          {
+            "name": "Trattoria Pallotta",
+            "tip": "Autentikus umbriai konyha közvetlenül a Piazza del Comune mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Umbricelli al Tartufo",
+            "tip": "Paste groase făcute de mână cu trufe negre locale."
+          },
+          {
+            "name": "Trattoria Pallotta",
+            "tip": "Bucătărie umbriană autentică chiar lângă Piazza del Comune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Umbricelli al Tartufo",
+            "tip": "Thick handmade pasta with local black truffles."
+          },
+          {
+            "name": "Trattoria Pallotta",
+            "tip": "Authentic Umbrian cuisine right off Piazza del Comune."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vicoli Silenziosi",
+            "tip": "Spazieren Sie durch die ruhigen Gassen hinter San Rufino.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rocca Maggiore",
+            "tip": "Bester Aussichtspunkt für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vicoli Silenziosi",
+            "tip": "Sétáljon a San Rufino mögötti csendes sikátorokban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rocca Maggiore",
+            "tip": "A legjobb kilátópont a naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vicoli Silenziosi",
+            "tip": "Plimbați-vă pe străduțele liniștite din spatele San Rufino.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rocca Maggiore",
+            "tip": "Cel mai bun punct de observație pentru apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vicoli Silenziosi",
+            "tip": "Walk through the quiet alleys behind San Rufino.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rocca Maggiore",
+            "tip": "Best viewpoint for sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Punto Assisi",
+            "tip": "Traditionelle Handstickerei aus der Region."
+          },
+          {
+            "name": "Ceramiche di Assisi",
+            "tip": "Handbemalte Keramik mit umbrischen Motiven."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Punto Assisi",
+            "tip": "Hagyományos helyi kézi hímzés."
+          },
+          {
+            "name": "Ceramiche di Assisi",
+            "tip": "Kézzel festett kerámia umbriai motívumokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punto Assisi",
+            "tip": "Broderie tradițională de mână din regiune."
+          },
+          {
+            "name": "Ceramiche di Assisi",
+            "tip": "Ceramică pictată manual cu motive umbriene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Punto Assisi",
+            "tip": "Traditional handmade embroidery from the region."
+          },
+          {
+            "name": "Ceramiche di Assisi",
+            "tip": "Hand-painted ceramics with Umbrian motifs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe für die steilen Gassen.",
+          "Decken Sie Ihre Schultern und Knie für den Kirchenbesuch ab.",
+          "Kaufen Sie ein Tagesticket für den kleinen orangefarbenen Bus, um Hügel zu sparen.",
+          "Füllen Sie Ihre Wasserflasche an den öffentlichen Brunnen (Nasoni)."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a meredek, köves utcák miatt.",
+          "A templomok látogatásához takarja el vállait és térdeit.",
+          "Vásároljon napijegyet a kis narancssárga buszra a hegymenethez.",
+          "Töltse meg kulacsát a nyilvános kutakból (Nasoni)."
+        ],
+        "ro": [
+          "Purtați pantofi comozi pentru străzile abrupte și pietruite.",
+          "Acoperiți umerii și genunchii pentru vizitarea bisericilor.",
+          "Cumpărați un bilet de o zi pentru micul autobuz portocaliu.",
+          "Umpleți sticla de apă de la fântânile publice (Nasoni)."
+        ],
+        "en": [
+          "Wear comfortable walking shoes for the steep, stone streets.",
+          "Cover your shoulders and knees for church visits.",
+          "Buy a day ticket for the small orange bus to save your legs on hills.",
+          "Refill your water bottle at the public fountains (Nasoni)."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza del Comune",
+            "hu": "Piazza del Comune",
+            "ro": "Piazza del Comune",
+            "en": "Piazza del Comune"
+          },
+          "coords": [
+            12.617,
+            43.0708
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "Központi kiindulópont.",
+            "ro": "Punct de plecare central.",
+            "en": "Central starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "San Damiano",
+            "hu": "San Damiano",
+            "ro": "San Damiano",
+            "en": "Chiesa di San Damiano"
+          },
+          "coords": [
+            12.6235,
+            43.062
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort außerhalb der Mauern.",
+            "hu": "Békés hely a falakon kívül.",
+            "ro": "Un loc liniștit în afara zidurilor.",
+            "en": "A peaceful spot outside the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria degli Angeli",
+            "hu": "Angyalos Boldogasszony-bazilika",
+            "ro": "Sfânta Maria a Îngerilor",
+            "en": "Santa Maria degli Angeli"
+          },
+          "coords": [
+            12.5805,
+            43.0585
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Portiuncula-Kapelle im Inneren.",
+            "hu": "Tekintse meg a Porciunkula-kápolnát belül.",
+            "ro": "Vizitați capela Porțiuncula din interior.",
+            "en": "See the Porziuncola chapel inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Rivotorto",
+            "hu": "Rivotorto",
+            "ro": "Rivotorto",
+            "en": "Rivotorto"
+          },
+          "coords": [
+            12.6105,
+            43.0455
+          ],
+          "category": "historical",
+          "arrive_at": "13:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ort der ersten franziskanischen Gemeinschaft.",
+            "hu": "Az első ferences közösség helyszíne.",
+            "ro": "Locul primei comunități franciscane.",
+            "en": "Site of the first Franciscan community."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika San Francesco",
+            "hu": "Szent Ferenc-bazilika",
+            "ro": "Bazilica Sfântul Francisc",
+            "en": "Basilica di San Francesco"
+          },
+          "coords": [
+            12.6055,
+            43.0748
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahrrad abstellen und die Fresken genießen.",
+            "hu": "Tegye le a biciklit és élvezze a freskókat.",
+            "ro": "Parcați bicicleta și bucurați-vă de fresce.",
+            "en": "Park your bike and enjoy the frescoes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die Bergstadt mit der Ebene. Nach dem Start im Zentrum führt die Route bergab zum friedlichen San Damiano und weiter zur monumentalen Basilika in Santa Maria degli Angeli. Genießen Sie die Fahrt durch Olivenhaine, bevor Sie am Nachmittag zur großen Franziskus-Basilika zurückkehren.",
+        "hu": "Ez a kerékpártúra összeköti a hegyi várost a síksággal. A központból indulva guruljon le a békés San Damiano-hoz, majd tovább a monumentális bazilikához Santa Maria degli Angeli-be. Élvezze az olajfaligeteken át vezető utat, mielőtt délután visszatérne a Szent Ferenc-bazilikához.",
+        "ro": "Acest tur cu bicicleta leagă orașul de munte cu câmpia. După plecarea din centru, coborâți spre liniștitul San Damiano și continuați spre bazilica monumentală din Santa Maria degli Angeli. Bucurați-vă de plimbarea prin livezile de măslini înainte de a reveni după-amiaza la marea Bazilică a Sfântului Francisc.",
+        "en": "This bike tour connects the hill town with the plain. After starting in the center, glide down to peaceful San Damiano and continue to the monumental basilica in Santa Maria degli Angeli. Enjoy the ride through olive groves before returning to the grand Basilica of St. Francis in the afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Torta al Testo",
+            "tip": "Umbrisches Fladenbrot, ideal als Snack während der Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torta al Testo",
+            "tip": "Umbriai lepénykenyér, ideális tízórai a túra alatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torta al Testo",
+            "tip": "Lipie umbriană, ideală ca gustare în timpul turului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Torta al Testo",
+            "tip": "Umbrian flatbread, ideal as a snack during the tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oliveto",
+            "tip": "Pause unter Olivenbäumen am Fuße des Hügels.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oliveto",
+            "tip": "Pihenő az olajfák alatt a domb lábánál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Oliveto",
+            "tip": "Pauză sub măslini la poalele dealului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Oliveto",
+            "tip": "Break under olive trees at the foot of the hill.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olio d'Oliva",
+            "tip": "Frisches Olivenöl direkt vom Erzeuger im Tal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olio d'Oliva",
+            "tip": "Friss olívaolaj közvetlenül a völgy termelőitől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Olio d'Oliva",
+            "tip": "Ulei de măsline proaspăt direct de la producătorii din vale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olio d'Oliva",
+            "tip": "Fresh olive oil directly from valley producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike, da der Rückweg in die Stadt steil ist.",
+          "Achten Sie auf die kleinen Landstraßen mit wenig Verkehr."
+        ],
+        "hu": [
+          "Béreljen elektromos kerékpárt, mert a városba visszavezető út meredek.",
+          "Keresse a kis forgalmú mellékutakat a völgyben."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică, deoarece drumul de întoarcere în oraș este abrupt.",
+          "Căutați drumurile secundare cu trafic redus din vale."
+        ],
+        "en": [
+          "Rent an e-bike, as the return trip to the town is steep.",
+          "Look for small country roads with low traffic in the valley."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 18.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilika San Francesco",
+            "hu": "Szent Ferenc-bazilika",
+            "ro": "Bazilica Sfântul Francisc",
+            "en": "Basilica di San Francesco"
+          },
+          "coords": [
+            12.6055,
+            43.0748
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Fuße der Basilika.",
+            "hu": "Parkoljon a bazilika lábánál lévő parkolóházban.",
+            "ro": "Parcați în garajul de la baza bazilicii.",
+            "en": "Park in the garage at the base of the basilica."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria degli Angeli",
+            "hu": "Angyalos Boldogasszony-bazilika",
+            "ro": "Sfânta Maria a Îngerilor",
+            "en": "Santa Maria degli Angeli"
+          },
+          "coords": [
+            12.5805,
+            43.0585
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Große Basilika in der Ebene.",
+            "hu": "Hatalmas bazilika a síkságon.",
+            "ro": "Bazilică mare la câmpie.",
+            "en": "Grand basilica on the plain."
+          }
+        },
+        {
+          "name": {
+            "de": "Eremo delle Carceri",
+            "hu": "Eremo delle Carceri",
+            "ro": "Eremo delle Carceri",
+            "en": "Eremo delle Carceri"
+          },
+          "coords": [
+            12.6515,
+            43.0645
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Einsiedelei hoch am Monte Subasio.",
+            "hu": "Remetelak magasan a Monte Subasión.",
+            "ro": "Schit sus pe muntele Subasio.",
+            "en": "Hermitage high on Mount Subasio."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocca Maggiore",
+            "hu": "Rocca Maggiore",
+            "ro": "Rocca Maggiore",
+            "en": "Rocca Maggiore"
+          },
+          "coords": [
+            12.618,
+            43.0755
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Die Festung ist mit dem Auto leicht erreichbar.",
+            "hu": "Az erőd autóval könnyen megközelíthető.",
+            "ro": "Fortăreața este ușor accesibilă cu mașina.",
+            "en": "The fortress is easily accessible by car."
+          }
+        },
+        {
+          "name": {
+            "de": "San Damiano",
+            "hu": "San Damiano",
+            "ro": "San Damiano",
+            "en": "Chiesa di San Damiano"
+          },
+          "coords": [
+            12.6235,
+            43.062
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Kleiner Parkplatz vor dem Tor.",
+            "hu": "Kis parkoló a kapu előtt.",
+            "ro": "Parcare mică în fața porții.",
+            "en": "Small parking lot in front of the gate."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie mühelos die entlegeneren spirituellen Orte Assisis. Vormittags besuchen Sie die beiden großen Basiliken, bevor Sie zur Einsiedelei Eremo delle Carceri in die Berge fahren. Genießen Sie die Ruhe am Monte Subasio und beenden Sie die Tour an der Festung Rocca Maggiore.",
+        "hu": "Autóval könnyedén elérheti Assisi távolabb eső spirituális helyszíneit. Délelőtt látogassa meg a két nagy bazilikát, majd menjen fel a hegyekbe az Eremo delle Carceri remetelakhoz. Élvezze a csendet a Monte Subasio oldalában, és fejezze be a túrát a Rocca Maggiore erődnél.",
+        "ro": "Cu mașina, puteți ajunge fără efort la locurile spirituale mai îndepărtate din Assisi. Dimineața vizitați cele două mari bazilici, apoi urcați în munți la schitul Eremo delle Carceri. Bucurați-vă de liniștea de pe muntele Subasio și încheiați turul la fortăreața Rocca Maggiore.",
+        "en": "By car, you can effortlessly reach Assisi's more remote spiritual sites. In the morning, visit the two grand basilicas before driving up into the mountains to the Eremo delle Carceri hermitage. Enjoy the silence on the slopes of Mount Subasio and end the tour at the Rocca Maggiore fortress."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bruschetta Umbra",
+            "tip": "Mit lokalem Olivenöl und Knoblauch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bruschetta Umbra",
+            "tip": "Helyi olívaolajjal és fokhagymával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bruschetta Umbra",
+            "tip": "Cu ulei de măsline local și usturoi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bruschetta Umbra",
+            "tip": "With local olive oil and garlic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eremo delle Carceri",
+            "tip": "Ort der Meditation im Wald.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eremo delle Carceri",
+            "tip": "Meditációs hely az erdőben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eremo delle Carceri",
+            "tip": "Loc de meditație în pădure.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Eremo delle Carceri",
+            "tip": "A place for meditation in the forest.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vini Umbri",
+            "tip": "Besuchen Sie ein Weingut im Tal für Sagrantino."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vini Umbri",
+            "tip": "Látogasson el egy borászathoz a völgyben Sagrantinoért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vini Umbri",
+            "tip": "Vizitați o cramă din vale pentru Sagrantino."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vini Umbri",
+            "tip": "Visit a winery in the valley for Sagrantino."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkgebühren in Assisi sind hoch; nutzen Sie Park-and-Ride.",
+          "Die Straße zum Eremo delle Carceri ist eng und kurvig."
+        ],
+        "hu": [
+          "A parkolási díjak Assisiben magasak; használja a P+R parkolókat.",
+          "Az Eremo delle Carceri-be vezető út keskeny és kanyargós."
+        ],
+        "ro": [
+          "Taxele de parcare în Assisi sunt mari; folosiți parcările P+R.",
+          "Drumul către Eremo delle Carceri este îngust și șerpuitor."
+        ],
+        "en": [
+          "Parking fees in Assisi are high; use park-and-ride options.",
+          "The road to Eremo delle Carceri is narrow and winding."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Assisi / Santa Maria",
+            "hu": "Assisi vasútállomás",
+            "ro": "Gara Assisi",
+            "en": "Assisi Train Station"
+          },
+          "coords": [
+            12.5805,
+            43.0585
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Basilika direkt neben dem Bahnhof.",
+            "hu": "Látogassa meg a bazilikát közvetlenül az állomás mellett.",
+            "ro": "Vizitați bazilica chiar lângă gară.",
+            "en": "Visit the basilica right next to the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Matteotti / San Rufino",
+            "hu": "Piazza Matteotti",
+            "ro": "Piazza Matteotti",
+            "en": "Piazza Matteotti"
+          },
+          "coords": [
+            12.6215,
+            43.0715
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Buslinie C bringt Sie zur Spitze der Stadt.",
+            "hu": "A C jelű busz a város legmagasabb pontjára viszi.",
+            "ro": "Linia de autobuz C vă duce în vârful orașului.",
+            "en": "Bus line C takes you to the top of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza del Comune",
+            "hu": "Piazza del Comune",
+            "ro": "Piazza del Comune",
+            "en": "Piazza del Comune"
+          },
+          "coords": [
+            12.617,
+            43.0708
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Knotenpunkt für lokale Busse.",
+            "hu": "Helyi buszjáratok csomópontja.",
+            "ro": "Nod central pentru autobuzele locale.",
+            "en": "Central hub for local buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Santa Chiara",
+            "hu": "Szent Klára-bazilika",
+            "ro": "Bazilica Sfânta Clara",
+            "en": "Basilica di Santa Chiara"
+          },
+          "coords": [
+            12.62,
+            43.0685
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 110,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Hauptplatz.",
+            "hu": "Rövid séta a főtértől.",
+            "ro": "Scurtă plimbare din piața principală.",
+            "en": "Short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika San Francesco",
+            "hu": "Szent Ferenc-bazilika",
+            "ro": "Bazilica Sfântul Francisc",
+            "en": "Basilica di San Francesco"
+          },
+          "coords": [
+            12.6055,
+            43.0748
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die Endstation vor der Rückfahrt zum Bahnhof.",
+            "hu": "Az utolsó állomás az állomásra való visszatérés előtt.",
+            "ro": "Ultima oprire înainte de întoarcerea la gară.",
+            "en": "Last stop before returning to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den bequemen Shuttle-Bus, um Assisi vom Bahnhof aus zu erkunden. Starten Sie im Tal, fahren Sie dann hinauf zum höchsten Punkt der Stadt am San Rufino und spazieren Sie bequem bergab über die Piazza del Comune bis zur großen Franziskus-Basilika.",
+        "hu": "Használja a kényelmes ingajáratot Assisi felfedezéséhez az állomástól. Kezdje a völgyben, majd utazzon fel a város legmagasabb pontjára, a San Rufino-hoz, és kényelmesen sétáljon lefelé a Piazza del Comunén át egészen a Szent Ferenc-bazilikáig.",
+        "ro": "Folosiți autobuzul convenabil pentru a explora Assisi de la gară. Începeți în vale, apoi urcați la cel mai înalt punct al orașului, la San Rufino, și plimbați-vă comod la vale prin Piazza del Comune până la marea Bazilică a Sfântului Francisc.",
+        "en": "Use the convenient shuttle bus to explore Assisi from the station. Start in the valley, then ride up to the highest point of the town at San Rufino and walk comfortably downhill through Piazza del Comune to the grand Basilica of St. Francis."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Porchetta-Sandwich",
+            "tip": "Beliebtes Streetfood, perfekt für Transitreisende."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Porchetta szendvics",
+            "tip": "Népszerű utcai étel, tökéletes az útközbeni étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș cu Porchetta",
+            "tip": "Mâncare de stradă populară, perfectă pentru călători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Porchetta sandwich",
+            "tip": "Popular street food, perfect for travelers on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chiostro di San Francesco",
+            "tip": "Ein ruhiger Kreuzgang abseits der Massen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chiostro di San Francesco",
+            "tip": "Csendes kolostorudvar a tömegektől távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chiostro di San Francesco",
+            "tip": "O mănăstire liniștită departe de mulțime.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chiostro di San Francesco",
+            "tip": "A quiet cloister away from the crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs francescani",
+            "tip": "Kleine Kreuze und Medaillen in den Klosterläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ferences szuvenírek",
+            "tip": "Kis keresztek és érmék a kolostori boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri franciscane",
+            "tip": "Cruci mici și medalii în magazinele mănăstirii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Franciscan souvenirs",
+            "tip": "Small crosses and medals in the monastery shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tickets für den Bus 'Linea C' erhalten Sie in Tabakläden (Tabacchi).",
+          "Der Bus verkehrt alle 30 Minuten zwischen Bahnhof und Altstadt."
+        ],
+        "hu": [
+          "A 'Linea C' buszra jegyeket a trafikokban (Tabacchi) vehet.",
+          "A busz 30 percenként jár az állomás és az óváros között."
+        ],
+        "ro": [
+          "Biletele pentru autobuzul 'Linea C' se cumpără de la tutungerii (Tabacchi).",
+          "Autobuzul circulă la fiecare 30 de minute între gară și centrul vechi."
+        ],
+        "en": [
+          "Tickets for the 'Linea C' bus can be bought at tobacco shops (Tabacchi).",
+          "The bus runs every 30 minutes between the station and the old town."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "city": "Assisi",
+    "region": "IT-55",
+    "coords": [
+      12.6196,
+      43.0707
+    ],
+    "transit_official": "https://www.busitalia.it/",
+    "transit_app": null,
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.visit-assisi.it/en/events/",
+    "tourism_office": "https://www.visit-assisi.it/en/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/umbria/perugia/assisi.html",
+    "restaurants_booking": "https://www.thefork.com/restaurants/assisi-c573442",
+    "museum_tickets": "https://www.sanfrancescoassisi.org/",
+    "parking_real_time": "https://www.sabait.it/parcheggio/assisi/",
+    "language_tips": {
+      "de": "Pilgerstadt, Englisch verbreitet, in Klosterstaetten ruhig sein.",
+      "hu": "Zarandokvaros, az angol elterjedt, a kolostorokban legyel csendes.",
+      "ro": "Oras de pelerinaj, engleza raspandita, in manastiri vorbeste in soapta.",
+      "en": "Pilgrimage town; English common; keep quiet inside religious sites."
+    },
+    "best_time": {
+      "de": "April-Juni, September-Oktober; Calendimaggio Anfang Mai sehr lebendig.",
+      "hu": "Aprilis-junius, szeptember-oktober; a Calendimaggio majus elejen kulonleges.",
+      "ro": "Aprilie-iunie, septembrie-octombrie; Calendimaggio la inceput de mai e spectaculos.",
+      "en": "April-June and September-October; Calendimaggio in early May is spectacular."
+    },
+    "warnings": {
+      "de": "Bedeckte Schultern und Knie in der Basilika. Steile Gassen, gutes Schuhwerk.",
+      "hu": "A bazilikaban fedett vall es terd kotelezo. Meredek utcak, jo cipo kell.",
+      "ro": "In bazilica umerii si genunchii acoperiti. Stradute abrupte, incaltari bune.",
+      "en": "Covered shoulders and knees required in the basilica. Steep lanes; wear good shoes."
+    }
+  }
+}

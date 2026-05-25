@@ -1,0 +1,1142 @@
+{
+  "city_id": "sorrento",
+  "anchor": {
+    "name": "Sorrento",
+    "coords": [
+      14.3756,
+      40.6263
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Tasso",
+            "hu": "Piazza Tasso",
+            "ro": "Piazza Tasso",
+            "en": "Piazza Tasso"
+          },
+          "coords": [
+            14.3768,
+            40.6263
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Espresso in der Bar Fauno.",
+            "hu": "Igyon meg egy eszpresszót a Bar Fauno teraszán.",
+            "ro": "Savurați un espresso la Bar Fauno.",
+            "en": "Enjoy an espresso at the iconic Bar Fauno."
+          }
+        },
+        {
+          "name": {
+            "de": "Vallone dei Mulini",
+            "hu": "Vallone dei Mulini",
+            "ro": "Vallone dei Mulini",
+            "en": "Deep Valley of the Mills"
+          },
+          "coords": [
+            14.376,
+            40.6247
+          ],
+          "category": "natural features",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Blick von der Brücke in die begrünte Schlucht.",
+            "hu": "Nézzen le a hídról a buja, zöld szakadékba.",
+            "ro": "Priviți de pe pod în valea adâncă și verde.",
+            "en": "Look down from the bridge into the lush green chasm."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Sorrent",
+            "hu": "Sorrentói székesegyház",
+            "ro": "Catedrala din Sorrento",
+            "en": "Sorrento Cathedral"
+          },
+          "coords": [
+            14.3746,
+            40.626
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Intarsienarbeiten am Chorgestühl.",
+            "hu": "Csodálja meg a kórusülés intarziás díszítését.",
+            "ro": "Admirați lucrările de intarsie de pe scaunele corului.",
+            "en": "Admire the detailed marquetry work on the choir stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiostro di San Francesco",
+            "hu": "Szent Ferenc kolostor",
+            "ro": "Chiostro di San Francesco",
+            "en": "Cloister of San Francesco"
+          },
+          "coords": [
+            14.3725,
+            40.6272
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Oase der Ruhe mit wunderschönen Arkaden.",
+            "hu": "A nyugalom oázisa gyönyörű boltívekkel.",
+            "ro": "O oază de liniște cu arcade superbe.",
+            "en": "An oasis of peace with beautiful medieval arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Comunale",
+            "hu": "Villa Comunale park",
+            "ro": "Parcul Villa Comunale",
+            "en": "Villa Comunale"
+          },
+          "coords": [
+            14.3723,
+            40.6278
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der beste Fotospot für den Blick auf den Vesuv.",
+            "hu": "A legjobb fotóhely a Vezúvra nyíló kilátáshoz.",
+            "ro": "Cel mai bun loc pentru fotografii cu Vezuviul.",
+            "en": "The best photo spot for views of Mount Vesuvius."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Grande",
+            "hu": "Marina Grande",
+            "ro": "Marina Grande",
+            "en": "Marina Grande"
+          },
+          "coords": [
+            14.3688,
+            40.6262
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch direkt am Hafen.",
+            "hu": "Kóstoljon friss halat közvetlenül a kikötőben.",
+            "ro": "Gustați pește proaspăt chiar în port.",
+            "en": "Try fresh fish directly at the fishing harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di Sant'Antonino",
+            "hu": "Szent Antonino-bazilika",
+            "ro": "Basilica di Sant'Antonino",
+            "en": "Basilica di Sant'Antonino"
+          },
+          "coords": [
+            14.3752,
+            40.627
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Krypta des Schutzpatrons.",
+            "hu": "Látogassa meg a védőszent kriptáját.",
+            "ro": "Vizitați cripta sfântului patron al orașului.",
+            "en": "Visit the crypt of the city's patron saint."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt auf der belebten Piazza Tasso, dem Herzen von Sorrent. Nach einem schnellen Espresso spazieren Sie zum Vallone dei Mulini, einer faszinierenden, von Pflanzen überwucherten Schlucht mitten in der Stadt. Danach erkunden Sie die historische Kathedrale mit ihren kunstvollen Holzarbeiten.\n\nMittags tauchen Sie in die Stille des Kreuzgangs von San Francesco ein. Von der angrenzenden Villa Comunale genießen Sie den spektakulären Panoramablick über den Golf von Neapel bis hin zum Vesuv, bevor Sie langsam Richtung Meer hinabsteigen.\n\nDer Nachmittag gehört dem malerischen Fischerdorf Marina Grande. Hier scheint die Zeit stehen geblieben zu sein. Genießen Sie ein ausgiebiges Mittagessen mit Meeresfrüchten direkt am Wasser und lassen Sie die Seele bei einem Spaziergang am Strand baumeln.\n\nZum Ausklang des Tages kehren Sie ins Zentrum zurück und besuchen die Basilica di Sant'Antonino. Schlendern Sie durch die engen Gassen der Altstadt, die nun im warmen Abendlicht erstrahlen, und suchen Sie sich ein Souvenir aus handgefertigter Keramik oder Intarsienkunst.",
+        "hu": "A reggel a nyüzsgő Piazza Tasso-n, Sorrento szívében indul. Egy gyors eszpresszó után sétáljon el a Vallone dei Mulini-hoz, amely egy buja növényzettel benőtt, misztikus szurdok a város közepén. Ezután fedezze fel a történelmi katedrálist és annak fafaragványait.\n\nDélben merüljön el a Szent Ferenc kolostor csendjében. A szomszédos Villa Comunale parkból lélegzetelállító panoráma nyílik a Nápolyi-öbölre és a Vezúvra. Innen lassú sétával ereszkedjen le a tengerpart felé.\n\nA délutánt a festői Marina Grande halászfaluban töltjük. Itt megállt az idő: élvezze a friss tengeri ételekből álló ebédet közvetlenül a vízparton, majd pihenjen a strandon a színes csónakok között.\n\nA nap végén térjen vissza a központba, és látogassa meg a Szent Antonino-bazilikát. Sétáljon végig az óváros szűk utcáin, amelyek az esti fényekben kelnek igazán életre, és válogasson a helyi kézműves kerámiák vagy intarziás dobozok között.",
+        "ro": "Dimineața începe în efervescenta Piazza Tasso, inima orașului Sorrento. După un espresso rapid, mergeți spre Vallone dei Mulini, o vale fascinantă acoperită de vegetație luxuriantă chiar în centrul orașului. Apoi, explorați catedrala istorică cu detaliile sale sculptate în lemn.\n\nLa prânz, relaxați-vă în liniștea mănăstirii San Francesco. Din parcul adiacent Villa Comunale, vă puteți bucura de o panoramă spectaculoasă asupra Golfului Napoli și a Vezuviului, înainte de a coborî ușor spre malul mării.\n\nDupă-amiaza este dedicată pitorescului sat de pescari Marina Grande. Aici timpul pare că a stat în loc; savurați un prânz cu fructe de mare proaspete chiar lângă apă și relaxați-vă pe plajă printre bărcile colorate.\n\nSpre seară, reveniți în centru pentru a vizita Basilica di Sant'Antonino. Plimbați-vă pe străduțele înguste ale centrului vechi, care strălucesc în lumina caldă a apusului, și căutați un suvenir local din ceramică sau marchetărie.",
+        "en": "Your morning starts at the bustling Piazza Tasso, the heart of Sorrento. After a quick espresso, walk to the Vallone dei Mulini, a fascinating plant-covered gorge in the middle of town. Then, explore the historic Cathedral with its intricate woodwork.\n\nAt midday, immerse yourself in the tranquility of the Cloister of San Francesco. From the adjacent Villa Comunale park, enjoy spectacular panoramic views over the Gulf of Naples to Mount Vesuvius before descending towards the sea.\n\nThe afternoon belongs to the picturesque fishing village of Marina Grande. Time seems to stand still here; enjoy a long seafood lunch right by the water and relax on the beach among the colorful wooden boats.\n\nTo end the day, return to the center and visit the Basilica di Sant'Antonino. Stroll through the narrow alleys of the old town, now glowing in the warm evening light, and pick out a handmade ceramic or marquetry souvenir."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gnocchi alla Sorrentina",
+            "tip": "Probieren Sie den Klassiker bei 'O Parrucchiano La Favorita'."
+          },
+          {
+            "name": "Limoncello di Sorrento",
+            "tip": "Ein Muss nach dem Essen, hergestellt aus lokalen Zitronen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gnocchi alla Sorrentina",
+            "tip": "Kóstolja meg az eredetit az 'O Parrucchiano La Favorita' étteremben."
+          },
+          {
+            "name": "Sorrentói Limoncello",
+            "tip": "Kötelező digestif a helyi citromból készült likőr."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gnocchi alla Sorrentina",
+            "tip": "Încercați rețeta originală la 'O Parrucchiano La Favorita'."
+          },
+          {
+            "name": "Limoncello de Sorrento",
+            "tip": "Un digestiv obligatoriu, făcut din lămâile locale uriașe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gnocchi alla Sorrentina",
+            "tip": "Try the classic dish at the historic 'O Parrucchiano La Favorita'."
+          },
+          {
+            "name": "Sorrento Limoncello",
+            "tip": "A must-try after-dinner liqueur made from local lemons."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Villa Comunale",
+            "tip": "Panoramablick auf den Vesuv.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Chiostro di San Francesco",
+            "tip": "Stiller mittelalterlicher Kreuzgang.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Comunale",
+            "tip": "Panorámás kilátás a Vezúvra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Szent Ferenc kolostor",
+            "tip": "Csendes középkori kerengő.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Villa Comunale",
+            "tip": "Vedere panoramică spre Vezuviu.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Chiostro di San Francesco",
+            "tip": "Mănăstire medievală liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Comunale",
+            "tip": "Panoramic sunset views over Vesuvius.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "San Francesco Cloister",
+            "tip": "Quiet medieval courtyard.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Italia",
+            "tip": "Die Haupteinkaufsstraße für Mode und lokale Produkte."
+          },
+          {
+            "name": "Via San Cesareo",
+            "tip": "Enge Gasse mit Kunsthandwerk und Zitronenspezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Italia",
+            "tip": "A fő bevásárlóutca divatárukkal és helyi termékekkel."
+          },
+          {
+            "name": "Via San Cesareo",
+            "tip": "Szűk utca kézműves termékekkel és citromos finomságokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Italia",
+            "tip": "Strada principală pentru cumpărături și produse locale."
+          },
+          {
+            "name": "Via San Cesareo",
+            "tip": "Uliță îngustă cu artizanat și produse din lămâie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Italia",
+            "tip": "The main shopping street for fashion and local goods."
+          },
+          {
+            "name": "Via San Cesareo",
+            "tip": "Narrow alley full of crafts and lemon specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Treppen nach Marina Grande.",
+          "Nutzen Sie den Aufzug bei der Villa Comunale zum Hafen.",
+          "Buchen Sie Restauranttische in Marina Grande vorab.",
+          "Besuchen Sie den Vallone dei Mulini morgens für das beste Licht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a Marina Grande felé vezető lépcsőkhöz.",
+          "Használja a Villa Comunale melletti liftet a kikötőbe jutáshoz.",
+          "Érdemes előre asztalt foglalni a Marina Grande éttermeiben.",
+          "A Vallone dei Mulini-t reggel érdemes fotózni a fények miatt."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru treptele spre Marina Grande.",
+          "Folosiți liftul de lângă Villa Comunale pentru a ajunge în port.",
+          "Rezervați din timp o masă la restaurantele din Marina Grande.",
+          "Vizitați Vallone dei Mulini dimineața pentru cea mai bună lumină."
+        ],
+        "en": [
+          "Wear comfortable shoes for the stairs down to Marina Grande.",
+          "Use the elevator at Villa Comunale to get to the port level.",
+          "Book restaurant tables in Marina Grande in advance.",
+          "Visit Vallone dei Mulini in the morning for the best photo light."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Tasso",
+            "hu": "Piazza Tasso",
+            "ro": "Piazza Tasso",
+            "en": "Piazza Tasso"
+          },
+          "coords": [
+            14.3768,
+            40.6263
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt für Radtouren.",
+            "hu": "Ideális kiindulópont.",
+            "ro": "Punct de plecare ideal.",
+            "en": "Perfect starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Correale",
+            "hu": "Museo Correale",
+            "ro": "Museo Correale",
+            "en": "Museo Correale"
+          },
+          "coords": [
+            14.382,
+            40.628
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Gärten.",
+            "hu": "Nézze meg a kerteket is.",
+            "ro": "Vizitați și grădinile.",
+            "en": "Visit the gardens too."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Comunale",
+            "hu": "Villa Comunale",
+            "ro": "Villa Comunale",
+            "en": "Villa Comunale"
+          },
+          "coords": [
+            14.3723,
+            40.6278
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurze Pause mit Aussicht.",
+            "hu": "Rövid pihenő kilátással.",
+            "ro": "Scurtă pauză cu vedere.",
+            "en": "Short break with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Grande",
+            "hu": "Marina Grande",
+            "ro": "Marina Grande",
+            "en": "Marina Grande"
+          },
+          "coords": [
+            14.3688,
+            40.6262
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fischspezialitäten genießen.",
+            "hu": "Halételek ebédre.",
+            "ro": "Pește proaspăt la prânz.",
+            "en": "Fresh fish for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni della Regina Giovanna",
+            "hu": "Bagni della Regina Giovanna",
+            "ro": "Bagni della Regina Giovanna",
+            "en": "Queen Giovanna's Baths"
+          },
+          "coords": [
+            14.354,
+            40.63
+          ],
+          "category": "natural features",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Einzigartige Naturbucht.",
+            "hu": "Egyedülálló természetes öböl.",
+            "ro": "O lagună naturală unică.",
+            "en": "A unique natural lagoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Piccola",
+            "hu": "Marina Piccola",
+            "ro": "Marina Piccola",
+            "en": "Marina Piccola"
+          },
+          "coords": [
+            14.375,
+            40.6285
+          ],
+          "category": "port",
+          "arrive_at": "15:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Hafentreiben beobachten.",
+            "hu": "Kikötői nyüzsgés.",
+            "ro": "Forfota din port.",
+            "en": "Port atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens radeln Sie von der Piazza Tasso zum Museo Correale, um Kunst und Gärten zu genießen. Danach geht es entlang der Küstenstraße zur Villa Comunale.\n\nMittags führt die Tour hinunter zum malerischen Marina Grande für ein authentisches Fischer-Mittagessen.\n\nNachmittags steht das Highlight an: Eine Fahrt zu den Bagni della Regina Giovanna, einer versteckten Naturbucht mit römischen Ruinen.\n\nAbends endet die Tour am Hafen von Marina Piccola, wo Sie den Tag bei einer Brise Meerluft ausklingen lassen.",
+        "hu": "Reggel a Piazza Tassótól a Museo Correale-hoz tekerünk, ahol művészet és kertek várnak. Ezután a part mentén haladunk a Villa Comunale felé.\n\nDélben a túra levezet a festői Marina Grande-ba egy autentikus halászebédre.\n\nDélután jön a csúcspont: tekerés a Bagni della Regina Giovanna-hoz, egy rejtett természetes öbölhöz római romokkal.\n\nEste a túra a Marina Piccola kikötőjében ér véget, ahol élvezheti a tengeri szellőt.",
+        "ro": "Dimineața pedalați de la Piazza Tasso la Museo Correale pentru artă și grădini. Apoi mergeți pe drumul de coastă spre Villa Comunale.\n\nLa prânz, turul coboară spre pitoreasca Marina Grande pentru un prânz autentic pescăresc.\n\nDupă-amiaza urmează punctul culminant: o cursă până la Bagni della Regina Giovanna, o lagună naturală ascunsă cu ruine romane.\n\nSeara turul se încheie în portul Marina Piccola, unde vă puteți bucura de briza mării.",
+        "en": "Morning ride from Piazza Tasso to Museo Correale to enjoy art and gardens. Then cycle along the coast to Villa Comunale.\n\nAt midday, the tour leads down to the picturesque Marina Grande for an authentic fisherman's lunch.\n\nIn the afternoon, the highlight: a ride to Bagni della Regina Giovanna, a hidden natural lagoon with Roman ruins.\n\nIn the evening, the tour ends at Marina Piccola port, where you can enjoy the sea breeze."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasta allo Scoglio",
+            "tip": "Frische Meeresfrüchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasta allo Scoglio",
+            "tip": "Friss tenger gyümölcsei tészta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasta allo Scoglio",
+            "tip": "Paste cu fructe de mare proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasta allo Scoglio",
+            "tip": "Fresh seafood pasta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Regina Giovanna",
+            "tip": "Naturbucht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Regina Giovanna",
+            "tip": "Természetes öböl.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Regina Giovanna",
+            "tip": "Lagună naturală.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Regina Giovanna",
+            "tip": "Natural lagoon.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Limoncello Factory",
+            "tip": "Direktkauf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Limoncello gyár",
+            "tip": "Vásárlás a forrásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fabrica de Limoncello",
+            "tip": "Cumpărați direct."
+          }
+        ],
+        "en": [
+          {
+            "name": "Limoncello Factory",
+            "tip": "Buy directly from the source."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vorsicht im Stadtverkehr.",
+          "Die Straße zu Regina Giovanna ist teils steil.",
+          "Fahrradschloss ist Pflicht.",
+          "Genügend Wasser mitnehmen."
+        ],
+        "hu": [
+          "Vigyázzon a városi forgalomban.",
+          "A Regina Giovanna felé vezető út helyenként meredek.",
+          "A kerékpárzár kötelező.",
+          "Vigyen magával elég vizet."
+        ],
+        "ro": [
+          "Atenție la traficul urban.",
+          "Drumul spre Regina Giovanna este parțial abrupt.",
+          "Antifurtul este obligatoriu.",
+          "Luați destulă apă cu voi."
+        ],
+        "en": [
+          "Be careful in city traffic.",
+          "The road to Regina Giovanna is partly steep.",
+          "A bike lock is mandatory.",
+          "Take plenty of water with you."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Correale",
+            "hu": "Museo Correale",
+            "ro": "Museo Correale",
+            "en": "Museo Correale"
+          },
+          "coords": [
+            14.382,
+            40.628
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eigener Parkplatz vorhanden.",
+            "hu": "Saját parkolója van.",
+            "ro": "Are parcare proprie.",
+            "en": "Has its own parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Tasso",
+            "hu": "Piazza Tasso",
+            "ro": "Piazza Tasso",
+            "en": "Piazza Tasso"
+          },
+          "coords": [
+            14.3768,
+            40.6263
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Parkhaus 'Achille Lauro' nutzen.",
+            "hu": "Használja az 'Achille Lauro' parkolóházat.",
+            "ro": "Folosiți parcarea 'Achille Lauro'.",
+            "en": "Use the 'Achille Lauro' parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Grande",
+            "hu": "Marina Grande",
+            "ro": "Marina Grande",
+            "en": "Marina Grande"
+          },
+          "coords": [
+            14.3688,
+            40.6262
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Begrenzter Zugang, Parken schwierig.",
+            "hu": "Korlátozott behajtás, nehéz parkolás.",
+            "ro": "Acces limitat, parcare dificilă.",
+            "en": "Limited access, parking is difficult."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni della Regina Giovanna",
+            "hu": "Bagni della Regina Giovanna",
+            "ro": "Bagni della Regina Giovanna",
+            "en": "Queen Giovanna's Baths"
+          },
+          "coords": [
+            14.354,
+            40.63
+          ],
+          "category": "natural features",
+          "arrive_at": "14:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parken an der Hauptstraße.",
+            "hu": "Parkolás a főúton.",
+            "ro": "Parcați la strada principală.",
+            "en": "Park on the main road."
+          }
+        },
+        {
+          "name": {
+            "de": "Massa Lubrense (Kirándulás)",
+            "hu": "Massa Lubrense (Kirándulás)",
+            "ro": "Massa Lubrense (Excursie)",
+            "en": "Massa Lubrense (Nearby Trip)"
+          },
+          "coords": [
+            14.34,
+            40.61
+          ],
+          "category": "region",
+          "arrive_at": "16:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Panoramablick auf Capri.",
+            "hu": "Panorámás kilátás Caprira.",
+            "ro": "Vedere panoramică spre Capri.",
+            "en": "Panoramic view of Capri."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens besuchen Sie das prachtvolle Museo Correale am Stadtrand von Sorrent, bevor Sie für einen kurzen Spaziergang ins Zentrum zur Piazza Tasso fahren.\n\nMittags steuern Sie Marina Grande an, um die maritime Atmosphäre und ein Meeresfrüchte-Mittagessen zu genießen.\n\nNachmittags geht es weiter zu den römischen Ruinen und der Naturbucht der Regina Giovanna, gefolgt von einer Panoramafahrt nach Massa Lubrense.\n\nAbends genießen Sie den Sonnenuntergang über der Bucht von Neapel, während Sie entlang der Küstenstraße zurückfahren.",
+        "hu": "Reggel látogasson el a pompás Museo Correale-ba Sorrento szélén, mielőtt a központba, a Piazza Tassóra hajtana egy rövid sétára.\n\nDélben Marina Grande felé vesszük az irányt, hogy élvezzük a tengeri hangulatot és a halászebédet.\n\nDélután a Regina Giovanna római romjaihoz és természetes öbléhez utazunk, majd egy panorámás autózás következik Massa Lubrense felé.\n\nEste élvezze a Nápolyi-öböl feletti naplementét, miközben a part menti úton visszatér.",
+        "ro": "Dimineața vizitați splendidul Museo Correale de la marginea orașului, înainte de a merge în centru la Piazza Tasso pentru o scurtă plimbare.\n\nLa prânz vă îndreptați spre Marina Grande pentru a vă bucura de atmosfera maritimă și de un prânz cu fructe de mare.\n\nDupă-amiaza mergeți spre ruinele romane și laguna naturală Regina Giovanna, urmată de o plimbare panoramică spre Massa Lubrense.\n\nSeara bucurați-vă de apusul peste Golful Napoli în timp ce conduceți pe drumul de coastă spre întoarcere.",
+        "en": "Morning visit to the magnificent Museo Correale on the outskirts of Sorrento before driving to the center, Piazza Tasso, for a short walk.\n\nAt midday, head towards Marina Grande to enjoy the maritime atmosphere and a seafood lunch.\n\nIn the afternoon, travel to the Roman ruins and natural lagoon of Regina Giovanna, followed by a panoramic drive to Massa Lubrense.\n\nIn the evening, enjoy the sunset over the Bay of Naples as you drive back along the coastal road."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Spaghetti alle Vongole",
+            "tip": "Frisch aus der Bucht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spagetti kagylóval",
+            "tip": "Frissen az öbölből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Spaghetti alle Vongole",
+            "tip": "Proaspete din golf."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spaghetti alle Vongole",
+            "tip": "Fresh from the bay."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Massa Lubrense",
+            "tip": "Blick auf Capri.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Massa Lubrense",
+            "tip": "Kilátás Caprira.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Massa Lubrense",
+            "tip": "Vedere spre Capri.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Massa Lubrense",
+            "tip": "View of Capri.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Inlaid Wood Shop",
+            "tip": "Hochwertige Intarsien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Intarzia bolt",
+            "tip": "Minőségi fafaragványok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de marchetărie",
+            "tip": "Obiecte din lemn încrustat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Inlaid Wood Shop",
+            "tip": "High-quality marquetry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Zentrum ist ZTL (verkehrsberuhigt).",
+          "Parkgebühren sind hoch.",
+          "Straßen sind eng und kurvig.",
+          "Morgens parken."
+        ],
+        "hu": [
+          "A központ ZTL (forgalomcsillapított övezet).",
+          "A parkolási díjak magasak.",
+          "Az utak szűkek és kanyargósak.",
+          "Érdemes reggel parkolóhelyet keresni."
+        ],
+        "ro": [
+          "Centrul este zonă ZTL (trafic limitat).",
+          "Taxele de parcare sunt mari.",
+          "Drumurile sunt înguste și sinuoase.",
+          "Căutați parcare dimineața devreme."
+        ],
+        "en": [
+          "The center is a ZTL (Restricted Traffic Zone).",
+          "Parking fees are high.",
+          "Roads are narrow and winding.",
+          "Find parking early in the morning."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Tasso",
+            "hu": "Piazza Tasso",
+            "ro": "Piazza Tasso",
+            "en": "Piazza Tasso"
+          },
+          "coords": [
+            14.3768,
+            40.6263
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bus-Drehkreuz.",
+            "hu": "Buszközpont.",
+            "ro": "Nod de autobuz.",
+            "en": "Bus hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiostro di San Francesco",
+            "hu": "Szent Ferenc kolostor",
+            "ro": "Chiostro di San Francesco",
+            "en": "San Francesco Cloister"
+          },
+          "coords": [
+            14.3725,
+            40.6272
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Bus.",
+            "hu": "Rövid séta a busztól.",
+            "ro": "Scurtă plimbare de la bus.",
+            "en": "Short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Comunale",
+            "hu": "Villa Comunale",
+            "ro": "Villa Comunale",
+            "en": "Villa Comunale"
+          },
+          "coords": [
+            14.3723,
+            40.6278
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lift zum Hafen nutzen.",
+            "hu": "Használja a liftet a kikötőhöz.",
+            "ro": "Folosiți liftul spre port.",
+            "en": "Use the lift to reach the port."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Piccola",
+            "hu": "Marina Piccola",
+            "ro": "Marina Piccola",
+            "en": "Marina Piccola"
+          },
+          "coords": [
+            14.375,
+            40.6285
+          ],
+          "category": "port",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fähren nach Capri legen hier ab.",
+            "hu": "Innen indulnak a hajók Caprira.",
+            "ro": "Feriboturile spre Capri pleacă de aici.",
+            "en": "Ferries to Capri depart from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Grande",
+            "hu": "Marina Grande",
+            "ro": "Marina Grande",
+            "en": "Marina Grande"
+          },
+          "coords": [
+            14.3688,
+            40.6262
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Lokaler Linienbus hält oben.",
+            "hu": "A helyi busz felül áll meg.",
+            "ro": "Autobuzul local oprește sus.",
+            "en": "Local bus stops at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Sorrent",
+            "hu": "Sorrentói székesegyház",
+            "ro": "Catedrala din Sorrento",
+            "en": "Sorrento Cathedral"
+          },
+          "coords": [
+            14.3746,
+            40.626
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Mitten im historischen Zentrum.",
+            "hu": "A történelmi központ közepén.",
+            "ro": "În centrul istoric.",
+            "en": "In the heart of the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens starten Sie an der Piazza Tasso und erkunden den Kreuzgang von San Francesco mit dem öffentlichen Bus.\n\nMittags genießen Sie den Blick von der Villa Comunale und fahren mit dem Aufzug hinunter zum Hafen von Marina Piccola.\n\nNachmittags bringt Sie ein kleiner Bus nach Marina Grande für ein ausgiebiges Fischessen und Entspannung am Strand.\n\nAbends kehren Sie mit dem Transit ins Zentrum zurück, um die Kathedrale zu besichtigen und durch die belebten Einkaufsstraßen zu schlendern.",
+        "hu": "Reggel a Piazza Tassótól indulva, tömegközlekedéssel fedezzük fel a Szent Ferenc kolostort.\n\nDélben élvezze a kilátást a Villa Comunale-ból, majd lifttel menjen le a Marina Piccola kikötőjébe.\n\nDélután egy kisbusz viszi el Marina Grande-ba egy bőséges halvacsorára és tengerparti pihenésre.\n\nEste busszal térjen vissza a központba, hogy megtekintse a katedrálist és végigsétáljon a nyüzsgő utcákon.",
+        "ro": "Dimineața plecați din Piazza Tasso și explorați mănăstirea San Francesco folosind autobuzul public.\n\nLa prânz bucurați-vă de vederea din Villa Comunale și coborâți cu liftul în portul Marina Piccola.\n\nDupă-amiaza un autobuz mic vă duce la Marina Grande pentru un prânz cu pește și relaxare pe plajă.\n\nSeara reveniți cu transportul public în centru pentru a vizita catedrala și a vă plimba prin zonele comerciale.",
+        "en": "Morning start at Piazza Tasso and explore the San Francesco Cloister using public transit.\n\nAt midday, enjoy the views from Villa Comunale and take the elevator down to the Marina Piccola port.\n\nIn the afternoon, a small bus takes you to Marina Grande for a generous seafood lunch and relaxation on the beach.\n\nIn the evening, return by transit to the center to visit the Cathedral and stroll through the lively shopping streets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Delizia al Limone",
+            "tip": "Zitronen-Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Delizia al Limone",
+            "tip": "Citromos desszert különlegesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Delizia al Limone",
+            "tip": "Desert cu lămâie specific."
+          }
+        ],
+        "en": [
+          {
+            "name": "Delizia al Limone",
+            "tip": "Local lemon dessert specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Villa Comunale",
+            "tip": "Aussichtspunkt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Comunale",
+            "tip": "Kilátóhely.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Villa Comunale",
+            "tip": "Punct de belvedere.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Comunale",
+            "tip": "Viewpoint.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piazza Lauro",
+            "tip": "Markttag beachten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza Lauro",
+            "tip": "Érdemes megnézni a piacot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazza Lauro",
+            "tip": "Verificați zilele de piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza Lauro",
+            "tip": "Check for local market days."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "UnicoCampania-Ticket kaufen.",
+          "Kleine Busse nutzen ('EAV').",
+          "Fahrpläne sind Richtwerte.",
+          "Fahrkarten im Tabacchi kaufen."
+        ],
+        "hu": [
+          "Vásároljon UnicoCampania jegyet.",
+          "Használja a kis 'EAV' buszokat.",
+          "A menetrendek csak tájékoztató jellegűek.",
+          "Jegyet trafikban (Tabacchi) vehet."
+        ],
+        "ro": [
+          "Cumpărați bilet UnicoCampania.",
+          "Folosiți autobuzele mici 'EAV'.",
+          "Orarele sunt orientative.",
+          "Cumpărați bilete de la Tabacchi."
+        ],
+        "en": [
+          "Buy an UnicoCampania ticket.",
+          "Use the small 'EAV' buses.",
+          "Schedules are approximate.",
+          "Buy tickets at 'Tabacchi' shops."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "transit_official": "https://www.sitasudtrasporti.it/",
+    "transit_app": "https://citymapper.com/naples",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.napolitoday.it/eventi/",
+    "tourism_office": "https://www.visitsorrento.com/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/campania/napoli/sorrento.html",
+    "restaurants_booking": "https://www.thefork.com/restaurants/sorrento-c386943",
+    "museum_tickets": "https://www.getyourguide.com/sorrento-l467/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Buonasera (bwo-na-SE-ra, Guten Abend), Il conto (il KON-to, Die Rechnung), Limoncello (li-mon-TSCHEL-lo, lokaler Likör)",
+      "hu": "Buonasera (bwonaszera, Jó estét), Il conto (il konto, A számlát), Limoncello (limoncsello, helyi citromlikőr)",
+      "ro": "Buonasera (bwo-na-se-ra, Bună seara), Il conto (il kon-to, Nota de plată), Limoncello (li-mon-cel-lo, lichior local)",
+      "en": "Buonasera (bwoh-nah-SEH-rah, Good evening), Il conto (eel KOHN-toh, The bill), Limoncello (lee-mohn-CHEH-loh, local lemon liqueur)"
+    },
+    "best_time_to_visit": {
+      "de": "April bis Juni und September-Oktober: mildes Klima, ideal für Tagesausflüge nach Capri, Pompeji und an die Amalfiküste.",
+      "hu": "Április-június és szeptember-október: enyhe időjárás, ideális Capri, Pompeji és Amalfi kirándulásokhoz.",
+      "ro": "Aprilie-iunie şi septembrie-octombrie: climă blândă, ideal pentru excursii la Capri, Pompei şi Coasta Amalfi.",
+      "en": "April-June and September-October: mild climate, ideal for day trips to Capri, Pompeii and the Amalfi Coast."
+    },
+    "neighborhood_warnings": {
+      "de": "Bahnhofsumgebung (Circumvesuviana) ist überfüllt, achte auf Taschendiebe; Zug nach Neapel oft verspätet.",
+      "hu": "A pályaudvar környéke (Circumvesuviana) zsúfolt, vigyázz a zsebtolvajokra; a nápolyi vonat gyakran késik.",
+      "ro": "Zona gării (Circumvesuviana) e aglomerată, atenţie la hoţii de buzunare; trenul spre Napoli are întârzieri frecvente.",
+      "en": "The Circumvesuviana station area is crowded, watch for pickpockets; the Naples train is often delayed."
+    }
+  }
+}

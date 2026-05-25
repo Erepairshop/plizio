@@ -1,0 +1,1053 @@
+{
+  "city_id": "capri",
+  "anchor": {
+    "name": "Capri",
+    "coords": [
+      14.24,
+      40.55
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazzetta di Capri",
+            "hu": "Piazzetta",
+            "ro": "Piazzetta di Capri",
+            "en": "Piazzetta"
+          },
+          "coords": [
+            14.242,
+            40.551
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kaffee trinken und Leute beobachten.",
+            "hu": "Igyon egy kávét és figyelje a tömeget.",
+            "ro": "Beți o cafea și observați mulțimea.",
+            "en": "Grab a coffee and enjoy people-watching."
+          }
+        },
+        {
+          "name": {
+            "de": "Certosa di San Giacomo",
+            "hu": "Szent Jakab-kolostor",
+            "ro": "Certosa di San Giacomo",
+            "en": "Certosa di San Giacomo"
+          },
+          "coords": [
+            14.246,
+            40.548
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Bibliothek der Kartause.",
+            "hu": "Látogasson el a kolostor könyvtárába.",
+            "ro": "Vizitați biblioteca mănăstirii.",
+            "en": "Visit the monastery's library."
+          }
+        },
+        {
+          "name": {
+            "de": "Gärten des Augustus",
+            "hu": "Augusztus kertjei",
+            "ro": "Grădinile lui Augustus",
+            "en": "Gardens of Augustus"
+          },
+          "coords": [
+            14.245,
+            40.547
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bester Blick auf die Faraglioni-Felsen.",
+            "hu": "A legjobb kilátás a Faraglioni-sziklákra.",
+            "ro": "Cea mai bună vedere spre stâncile Faraglioni.",
+            "en": "Best viewpoint for the Faraglioni rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Via Krupp",
+            "hu": "Via Krupp",
+            "ro": "Via Krupp",
+            "en": "Via Krupp"
+          },
+          "coords": [
+            14.244,
+            40.546
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Serpentinen von oben.",
+            "hu": "Csodálja meg a szerpentineket felülről.",
+            "ro": "Admirați serpentinele de sus.",
+            "en": "Admire the hairpins from above."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco Naturale",
+            "hu": "Természetes ív",
+            "ro": "Arco Naturale",
+            "en": "Natural Arch"
+          },
+          "coords": [
+            14.258,
+            40.552
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein spektakuläres Fotomotiv am Meer.",
+            "hu": "Látványos fotótéma a tengerparton.",
+            "ro": "O locație spectaculoasă pentru fotografii.",
+            "en": "A spectacular photo spot by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Piccola",
+            "hu": "Marina Piccola",
+            "ro": "Marina Piccola",
+            "en": "Marina Piccola"
+          },
+          "coords": [
+            14.234,
+            40.543
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 150,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Perfekt für ein spätes Bad im Meer.",
+            "hu": "Tökéletes egy késői fürdőzéshez a tengerben.",
+            "ro": "Perfect pentru o baie târzie în mare.",
+            "en": "Perfect for a late swim in the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Capri auf der legendären Piazzetta. Nach einem Espresso wandern Sie zur historischen Certosa di San Giacomo und den Gärten des Augustus, von denen Sie einen atemberaubenden Blick auf die Via Krupp haben. Am Nachmittag führt Sie ein Küstenweg zum Arco Naturale, bevor Sie den Tag entspannt am Strand von Marina Piccola ausklingen lassen.",
+        "hu": "Kezdje a napot Capri szívében, a legendás Piazzettán. Egy eszpresszó után sétáljon el a történelmi Szent Jakab-kolostorhoz és az Augusztus-kertekhez, ahonnan lélegzetelállító kilátás nyílik a Via Kruppra. Délután egy tengerparti ösvény vezet a Természetes ívhez, mielőtt a napot a Marina Piccola strandján pihenve zárná.",
+        "ro": "Începeți ziua în inima insulei Capri, în legendara Piazzetta. După un espresso, mergeți la istorica Certosa di San Giacomo și la Grădinile lui Augustus, de unde aveți o vedere uluitoare asupra Via Krupp. După-amiaza, o potecă de coastă vă duce la Arco Naturale, înainte de a încheia ziua relaxându-vă pe plaja din Marina Piccola.",
+        "en": "Start your day in the heart of Capri at the legendary Piazzetta. After an espresso, walk to the historic Certosa di San Giacomo and the Gardens of Augustus, which offer breathtaking views of Via Krupp. In the afternoon, a coastal path leads you to the Natural Arch before ending the day relaxing on the beach at Marina Piccola."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ravioli Capresi",
+            "tip": "Gefüllte Pasta mit Majoran und Caciotta-Käse."
+          },
+          {
+            "name": "Villa Verde",
+            "tip": "Frischer Fisch im Herzen von Capri."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ravioli Capresi",
+            "tip": "Majoránnával és caciotta sajttal töltött tészta."
+          },
+          {
+            "name": "Villa Verde",
+            "tip": "Friss halételek Capri központjában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ravioli Capresi",
+            "tip": "Paste umplute cu măghiran și brânză caciotta."
+          },
+          {
+            "name": "Villa Verde",
+            "tip": "Pește proaspăt în inima orașului Capri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ravioli Capresi",
+            "tip": "Pasta filled with marjoram and caciotta cheese."
+          },
+          {
+            "name": "Villa Verde",
+            "tip": "Fresh fish in the heart of Capri town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardini di Augusto",
+            "tip": "Stille am Morgen mit Panoramablick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Augusztus kertjei",
+            "tip": "Reggeli csend panorámával.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile lui Augustus",
+            "tip": "Liniște dimineața cu vedere panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of Augustus",
+            "tip": "Morning quiet with panoramic views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Carthusia",
+            "tip": "Lokale Parfüms aus Inselblüten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carthusia",
+            "tip": "Helyi parfümök szigeti virágokból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carthusia",
+            "tip": "Parfumuri locale din flori de pe insulă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carthusia",
+            "tip": "Local perfumes made from island flowers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die steilen Wege.",
+          "Buchen Sie Restauranttische im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a meredek utakhoz.",
+          "Foglaljon asztalt az éttermekben előre."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru drumurile abrupte.",
+          "Rezervați mese la restaurant în avans."
+        ],
+        "en": [
+          "Wear comfortable shoes for the steep paths.",
+          "Book restaurant tables in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 8,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Anacapri Zentrum",
+            "hu": "Anacapri központ",
+            "ro": "Centrul Anacapri",
+            "en": "Anacapri Center"
+          },
+          "coords": [
+            14.218,
+            40.555
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ruhigeren Gassen.",
+            "hu": "Fedezze fel a csendesebb utcákat.",
+            "ro": "Explorați străzile mai liniștite.",
+            "en": "Explore the quieter side alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa San Michele",
+            "hu": "Villa San Michele",
+            "ro": "Villa San Michele",
+            "en": "Villa San Michele"
+          },
+          "coords": [
+            14.223,
+            40.556
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Garten von Axel Munthe.",
+            "hu": "Látogasson el Axel Munthe kertjébe.",
+            "ro": "Vizitați grădina lui Axel Munthe.",
+            "en": "Visit Axel Munthe's beautiful garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Solaro Lift",
+            "hu": "Monte Solaro felvonó",
+            "ro": "Telescaun Monte Solaro",
+            "en": "Monte Solaro Chairlift"
+          },
+          "coords": [
+            14.219,
+            40.554
+          ],
+          "category": "natural features",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Panoramablick über die ganze Insel.",
+            "hu": "Panoráma az egész szigetre.",
+            "ro": "Vedere panoramică asupra întregii insule.",
+            "en": "Panoramic views over the entire island."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Punta Carena",
+            "hu": "Punta Carena világítótorony",
+            "ro": "Farul Punta Carena",
+            "en": "Punta Carena Lighthouse"
+          },
+          "coords": [
+            14.202,
+            40.536
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein beliebter Badeplatz der Einheimischen.",
+            "hu": "A helyiek kedvenc fürdőhelye.",
+            "ro": "Un loc de scăldat preferat de localnici.",
+            "en": "A favorite swimming spot for locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Anacapri Belvedere",
+            "hu": "Anacapri kilátó",
+            "ro": "Belvedere Anacapri",
+            "en": "Anacapri Belvedere"
+          },
+          "coords": [
+            14.215,
+            40.553
+          ],
+          "category": "natural features",
+          "arrive_at": "17:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang.",
+            "hu": "Élvezze a naplementét.",
+            "ro": "Bucurați-vă de apusul soarelui.",
+            "en": "Enjoy the sunset from here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie den Bergort Anacapri. Nach dem Besuch der Villa San Michele schweben Sie mit dem Sessellift auf den Monte Solaro. Den Nachmittag verbringen Sie am Leuchtturm von Punta Carena, wo Sie in das tiefblaue Meer eintauchen können, bevor Sie zum Sonnenuntergang nach Anacapri zurückkehren.",
+        "hu": "Fedezze fel Anacapri hegyi faluját. A Villa San Michele meglátogatása után libegőzzön fel a Monte Solaro csúcsára. A délutánt a Punta Carena világítótoronynál töltse, ahol megmártózhat a mélykék tengerben, mielőtt naplementére visszatérne Anacapriba.",
+        "ro": "Descoperiți satul montan Anacapri. După ce vizitați Villa San Michele, urcați cu telescaunul pe Monte Solaro. Petreceți după-amiaza la farul Punta Carena, unde puteți înota în marea albastru închis, înainte de a vă întoarce în Anacapri pentru apus.",
+        "en": "Discover the mountain village of Anacapri. After visiting Villa San Michele, take the chairlift up to Monte Solaro. Spend the afternoon at the Punta Carena lighthouse, where you can dive into the deep blue sea before returning to Anacapri for the sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Torta Caprese",
+            "tip": "Klassischer Schokoladen-Mandel-Kuchen."
+          },
+          {
+            "name": "La Tablita",
+            "tip": "Gutes Essen in Anacapri."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torta Caprese",
+            "tip": "Klasszikus csokoládés mandulatorta."
+          },
+          {
+            "name": "La Tablita",
+            "tip": "Kiváló konyha Anacapriban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torta Caprese",
+            "tip": "Tort clasic cu ciocolată și migdale."
+          },
+          {
+            "name": "La Tablita",
+            "tip": "Mâncare bună în Anacapri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Torta Caprese",
+            "tip": "Classic chocolate and almond cake."
+          },
+          {
+            "name": "La Tablita",
+            "tip": "Great food in Anacapri."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Monte Solaro",
+            "tip": "Über den Wolken und dem Trubel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monte Solaro",
+            "tip": "A felhők és a nyüzsgés felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Monte Solaro",
+            "tip": "Deasupra norilor și a agitației.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monte Solaro",
+            "tip": "Above the clouds and the hustle.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sandali Tipici",
+            "tip": "Handgefertigte Ledersandalen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sandali Tipici",
+            "tip": "Kézzel készített bőrszandálok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandali Tipici",
+            "tip": "Sandale din piele lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sandali Tipici",
+            "tip": "Handmade leather sandals."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike wegen der Steigungen.",
+          "Achten Sie auf den Busverkehr auf den engen Straßen."
+        ],
+        "hu": [
+          "Béreljen elektromos biciklit az emelkedők miatt.",
+          "Figyeljen a buszforgalomra a szűk utakon."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică din cauza pantelor.",
+          "Atenție la traficul de autobuze pe străzile înguste."
+        ],
+        "en": [
+          "Rent an e-bike due to the steep inclines.",
+          "Watch out for bus traffic on narrow roads."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Blaue Grotte",
+            "hu": "Kék barlang",
+            "ro": "Grota Albastră",
+            "en": "Blue Grotto"
+          },
+          "coords": [
+            14.204,
+            40.56
+          ],
+          "category": "natural features",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Früh kommen, um Warteschlangen zu vermeiden.",
+            "hu": "Érkezzen korán a sorban állás elkerüléséhez.",
+            "ro": "Veniți devreme pentru a evita cozile.",
+            "en": "Arrive early to avoid long queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Anacapri",
+            "hu": "Anacapri",
+            "ro": "Anacapri",
+            "en": "Anacapri"
+          },
+          "coords": [
+            14.217,
+            40.555
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die historische Altstadt.",
+            "hu": "Sétáljon át a történelmi óvároson.",
+            "ro": "Plimbați-vă prin centrul istoric.",
+            "en": "Walk through the historic old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa San Michele",
+            "hu": "Villa San Michele",
+            "ro": "Villa San Michele",
+            "en": "Villa San Michele"
+          },
+          "coords": [
+            14.223,
+            40.556
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie antike Artefakte.",
+            "hu": "Fedezzen fel ókori műtárgyakat.",
+            "ro": "Descoperiți artefacte antice.",
+            "en": "Discover ancient artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Jovis",
+            "hu": "Villa Jovis",
+            "ro": "Villa Jovis",
+            "en": "Villa Jovis"
+          },
+          "coords": [
+            14.262,
+            40.558
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Die Ruinen des Palastes von Tiberius.",
+            "hu": "Tiberius császár palotájának romjai.",
+            "ro": "Ruinele palatului împăratului Tiberiu.",
+            "en": "The ruins of Emperor Tiberius's palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazzetta",
+            "hu": "Piazzetta",
+            "ro": "Piazzetta",
+            "en": "Piazzetta"
+          },
+          "coords": [
+            14.242,
+            40.551
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein Aperitif zum Abschluss des Tages.",
+            "hu": "Egy aperitif a nap zárásaként.",
+            "ro": "Un aperitiv la sfârșitul zilei.",
+            "en": "An aperitif to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie ein Taxi oder einen Mietwagen, um die gesamte Insel zu erkunden. Starten Sie bei der berühmten Blauen Grotte, besuchen Sie dann das elegante Anacapri und die Villa San Michele. Am Nachmittag erkunden Sie die abgelegenen Ruinen der Villa Jovis, bevor Sie den Tag in Capri-Stadt auf der Piazzetta ausklingen lassen.",
+        "hu": "Használjon taxit vagy bérelt autót a sziget teljes felfedezéséhez. Kezdjen a híres Kék barlangnál, majd látogasson el az elegáns Anacapriba és a Villa San Michele-be. Délután fedezze fel a Villa Jovis eldugott romjait, mielőtt a napot Capri városában, a Piazzettán zárná.",
+        "ro": "Folosiți un taxi sau o mașină închiriată pentru a explora întreaga insulă. Începeți la celebra Grotă Albastră, apoi vizitați eleganta localitate Anacapri și Villa San Michele. După-amiaza, explorați ruinele izolate de la Villa Jovis, înainte de a încheia ziua în orașul Capri, în Piazzetta.",
+        "en": "Use a taxi or rental car to explore the entire island. Start at the famous Blue Grotto, then visit elegant Anacapri and Villa San Michele. In the afternoon, explore the secluded ruins of Villa Jovis before ending the day in Capri town at the Piazzetta."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Limoncello",
+            "tip": "Zitronenlikör direkt aus Capri-Zitronen."
+          },
+          {
+            "name": "Ristorante Da Paolino",
+            "tip": "Essen unter Zitronenbäumen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Limoncello",
+            "tip": "Citromlikőr közvetlenül capri citromból."
+          },
+          {
+            "name": "Ristorante Da Paolino",
+            "tip": "Vacsora a citromfák alatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Limoncello",
+            "tip": "Lichior de lămâie direct din lămâi de Capri."
+          },
+          {
+            "name": "Ristorante Da Paolino",
+            "tip": "Cina sub lămâi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Limoncello",
+            "tip": "Lemon liqueur made from Capri lemons."
+          },
+          {
+            "name": "Ristorante Da Paolino",
+            "tip": "Dining under the lemon trees."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Villa Jovis",
+            "tip": "Einsame Ruinen mit Meerblick.",
+            "emoji": "🏛️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Jovis",
+            "tip": "Magányos romok tengeri kilátással.",
+            "emoji": "🏛️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Villa Jovis",
+            "tip": "Ruine solitare cu vedere la mare.",
+            "emoji": "🏛️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Jovis",
+            "tip": "Lonely ruins with sea views.",
+            "emoji": "🏛️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mariorita",
+            "tip": "Exklusive Mode und Accessoires."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mariorita",
+            "tip": "Exkluzív divat és kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mariorita",
+            "tip": "Modă și accesorii exclusive."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mariorita",
+            "tip": "Exclusive fashion and accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Taxis sind teuer, aber die Fahrt in den Cabrios ist ein Erlebnis.",
+          "Parkplätze sind auf der Insel extrem begrenzt."
+        ],
+        "hu": [
+          "A taxi drága, de a nyitott tetejű autózás élmény.",
+          "A parkolóhelyek száma nagyon korlátozott a szigeten."
+        ],
+        "ro": [
+          "Taxiurile sunt scumpe, dar călătoria în cabriolet este o experiență.",
+          "Locurile de parcare sunt extrem de limitate pe insulă."
+        ],
+        "en": [
+          "Taxis are expensive, but the open-top ride is an experience.",
+          "Parking spaces are extremely limited on the island."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Marina Grande",
+            "hu": "Marina Grande",
+            "ro": "Marina Grande",
+            "en": "Marina Grande"
+          },
+          "coords": [
+            14.241,
+            40.558
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Funicolare nach oben.",
+            "hu": "Menjen fel siklóval a központba.",
+            "ro": "Luați funicularul spre centru.",
+            "en": "Take the funicular up to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazzetta",
+            "hu": "Piazzetta",
+            "ro": "Piazzetta",
+            "en": "Piazzetta"
+          },
+          "coords": [
+            14.242,
+            40.551
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentrum des gesellschaftlichen Lebens.",
+            "hu": "A társasági élet központja.",
+            "ro": "Centrul vieții sociale.",
+            "en": "Center of social life on the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Anacapri Bus Terminal",
+            "hu": "Anacapri buszvégállomás",
+            "ro": "Terminal autobuz Anacapri",
+            "en": "Anacapri Bus Terminal"
+          },
+          "coords": [
+            14.217,
+            40.554
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Die Busfahrt bietet tolle Ausblicke.",
+            "hu": "A buszozás alatt remek a kilátás.",
+            "ro": "Călătoria cu autobuzul oferă priveliști superbe.",
+            "en": "The bus ride offers great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa San Michele",
+            "hu": "Villa San Michele",
+            "ro": "Villa San Michele",
+            "en": "Villa San Michele"
+          },
+          "coords": [
+            14.223,
+            40.556
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein muss in Anacapri.",
+            "hu": "Kihagyhatatlan látnivaló Anacapriban.",
+            "ro": "O vizită obligatorie în Anacapri.",
+            "en": "A must-see in Anacapri."
+          }
+        },
+        {
+          "name": {
+            "de": "Faraglioni Aussichtspunkt",
+            "hu": "Faraglioni kilátóhely",
+            "ro": "Belvedere Faraglioni",
+            "en": "Faraglioni Viewpoint"
+          },
+          "coords": [
+            14.248,
+            40.545
+          ],
+          "category": "natural features",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Wandern Sie zu den berühmten Felsen.",
+            "hu": "Sétáljon el a híres sziklákhoz.",
+            "ro": "Mergeți pe jos până la faimoasele stânci.",
+            "en": "Walk to the famous rock formations."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel der Insel: Die Funicolare bringt Sie von Marina Grande zur Piazzetta. Ein Minibus führt Sie auf den Serpentinen nach Anacapri zur Villa San Michele. Den Nachmittag verbringen Sie mit einem Spaziergang zu den spektakulären Faraglioni-Felsen, bevor Sie mit dem Bus zurückkehren.",
+        "hu": "Használja a sziget tömegközlekedését: a sikló felviszi Marina Grande-ból a Piazzettára. Egy kisbusszal utazzon fel a szerpentineken Anacapriba a Villa San Michele-hez. A délutánt töltse egy sétával a látványos Faraglioni-sziklákhoz, mielőtt busszal visszatérne.",
+        "ro": "Folosiți transportul public de pe insulă: funicularul vă duce de la Marina Grande la Piazzetta. Un microbuz vă va purta pe serpentine până la Anacapri, la Villa San Michele. Petreceți după-amiaza cu o plimbare spre spectaculoasele stânci Faraglioni, înainte de a reveni cu autobuzul.",
+        "en": "Use the island's public transport: the funicular takes you from Marina Grande to the Piazzetta. A minibus will carry you up the hairpins to Anacapri and Villa San Michele. Spend the afternoon with a walk to the spectacular Faraglioni rocks before returning by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Insalata Caprese",
+            "tip": "Büffelmozzarella mit Tomaten und Basilikum."
+          },
+          {
+            "name": "Bar Tiberio",
+            "tip": "Traditioneller Treffpunkt an der Piazzetta."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Insalata Caprese",
+            "tip": "Bivalymozzarella paradicsommal és bazsalikommal."
+          },
+          {
+            "name": "Bar Tiberio",
+            "tip": "Hagyományos találkozóhely a Piazzettán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insalata Caprese",
+            "tip": "Mozzarella de bivoliță cu roșii și busuioc."
+          },
+          {
+            "name": "Bar Tiberio",
+            "tip": "Loc de întâlnire tradițional în Piazzetta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Insalata Caprese",
+            "tip": "Buffalo mozzarella with tomatoes and basil."
+          },
+          {
+            "name": "Bar Tiberio",
+            "tip": "Traditional meeting spot at the Piazzetta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Punta Tragara",
+            "tip": "Panoramaweg mit Blick auf die Faraglioni.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Punta Tragara",
+            "tip": "Panorámaút kilátással a Faraglionira.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punta Tragara",
+            "tip": "Drum panoramic cu vedere spre Faraglioni.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Punta Tragara",
+            "tip": "Panoramic path with views of the Faraglioni.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Isola dei Sapori",
+            "tip": "Feinkost und lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Isola dei Sapori",
+            "tip": "Csemege és helyi specialitások."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Isola dei Sapori",
+            "tip": "Delicatese și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Isola dei Sapori",
+            "tip": "Delicatessen and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets vorab am Kiosk.",
+          "Die Busse sind klein, es kann zu Wartezeiten kommen."
+        ],
+        "hu": [
+          "Vásárolja meg jegyeit előre a jegyautomatáknál.",
+          "A buszok kicsik, előfordulhat várakozási idő."
+        ],
+        "ro": [
+          "Cumpărați bilete în avans de la chioșcuri.",
+          "Autobuzele sunt mici, pot exista timpi de așteptare."
+        ],
+        "en": [
+          "Buy tickets in advance at the kiosks.",
+          "Buses are small, so there may be waiting times."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "transit_official": "https://www.unicocampania.it/",
+    "transit_app": "https://citymapper.com/naples",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.napolitoday.it/eventi/",
+    "tourism_office": "https://www.capritourism.com/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/campania/napoli.html",
+    "restaurants_booking": "https://www.thefork.com/restaurants/capri-c386913",
+    "museum_tickets": "https://www.getyourguide.com/capri-l465/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Traghetto (tra-GET-to, Fähre), Funicolare (fu-ni-ko-LA-re, Standseilbahn), Grotta Azzurra (GROT-ta ad-DSU-rra, Blaue Grotte)",
+      "hu": "Traghetto (tragetto, komp), Funicolare (funikoláre, sikló), Grotta Azzurra (grotta adzurra, Kék-barlang)",
+      "ro": "Traghetto (tra-get-to, feribot), Funicolare (fu-ni-co-la-re, funicular), Grotta Azzurra (grot-ta a-dzur-ra, Grota Albastră)",
+      "en": "Traghetto (trah-GEHT-toh, ferry), Funicolare (foo-nee-koh-LAH-reh, funicular), Grotta Azzurra (GROHT-tah aht-SOOR-rah, Blue Grotto)"
+    },
+    "best_time_to_visit": {
+      "de": "Mai und September-Anfang Oktober: warmes Meer, geöffnete Blaue Grotte, ohne extreme Juli/August-Tagestouristenmassen.",
+      "hu": "Május és szeptember-október eleje: meleg tenger, nyitott Kék-barlang, a júliusi-augusztusi tömeg nélkül.",
+      "ro": "Mai şi septembrie-începutul lui octombrie: mare caldă, Grota Albastră deschisă, fără aglomeraţia extremă din iulie-august.",
+      "en": "May and September-early October: warm sea, open Blue Grotto, without the extreme July-August day-tripper crowds."
+    },
+    "neighborhood_warnings": {
+      "de": "Blaue Grotte kann bei Wellengang plötzlich geschlossen werden; Preise auf Capri sind doppelt so hoch wie auf dem Festland.",
+      "hu": "A Kék-barlang hullámzáskor hirtelen bezárhat; Caprin az árak a szárazföldi árak kétszeresei.",
+      "ro": "Grota Albastră se poate închide brusc la valuri mari; preţurile pe Capri sunt duble faţă de continent.",
+      "en": "The Blue Grotto can close suddenly in choppy seas; prices on Capri are roughly double mainland levels."
+    }
+  }
+}

@@ -1,0 +1,1005 @@
+{
+  "city_id": "bergamo",
+  "anchor": {
+    "name": "Bergamo Alta",
+    "coords": [
+      9.6673,
+      45.7043
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Piazza Vecchia",
+          "coords": [
+            9.6641,
+            45.7041
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Herz der Oberstadt.",
+            "hu": "A felsőváros szíve.",
+            "ro": "Inima orașului de sus.",
+            "en": "The heart of the Upper Town."
+          }
+        },
+        {
+          "name": "Campanone (Torre Civica)",
+          "coords": [
+            9.6643,
+            45.7042
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Hören Sie die 100 Glockenschläge um 22 Uhr.",
+            "hu": "Hallgassa meg a 100 harangszót este 10-kor.",
+            "ro": "Ascultați cele 100 de bătăi de clopot la ora 22.",
+            "en": "Hear the 100 bell tolls at 10 PM."
+          }
+        },
+        {
+          "name": "Basilica di Santa Maria Maggiore",
+          "coords": [
+            9.6635,
+            45.7032
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtigen Wandteppiche.",
+            "hu": "Csodálja meg a pazar faliszőnyegeket.",
+            "ro": "Admirați tapiseriile magnifice.",
+            "en": "Admire the magnificent tapestries."
+          }
+        },
+        {
+          "name": "Cappella Colleoni",
+          "coords": [
+            9.6631,
+            45.7035
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Meisterwerk der Renaissance-Fassade.",
+            "hu": "A reneszánsz homlokzat mesterműve.",
+            "ro": "Capodoperă a fațadei renascentiste.",
+            "en": "Masterpiece of Renaissance facade."
+          }
+        },
+        {
+          "name": "Rocca di Bergamo",
+          "coords": [
+            9.6698,
+            45.7051
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bester Panoramablick auf die Stadt.",
+            "hu": "A legjobb panoráma a városra.",
+            "ro": "Cea mai bună vedere panoramică asupra orașului.",
+            "en": "Best panoramic view of the city."
+          }
+        },
+        {
+          "name": "Mura Veneziane",
+          "coords": [
+            9.6612,
+            45.7055
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe.",
+            "hu": "Az UNESCO Világörökség része.",
+            "ro": "Patrimoniu Mondial UNESCO.",
+            "en": "UNESCO World Heritage site."
+          }
+        },
+        {
+          "name": "Porta San Giacomo",
+          "coords": [
+            9.6645,
+            45.6985
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das weiße Tor zur Unterstadt.",
+            "hu": "A fehér kapu az alsóváros felé.",
+            "ro": "Poarta albă spre orașul de jos.",
+            "en": "The white gate to the Lower Town."
+          }
+        },
+        {
+          "name": "San Vigilio",
+          "coords": [
+            9.6542,
+            45.7112
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "17:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Seilbahn für den Sonnenuntergang.",
+            "hu": "Mennyen fel siklóval a naplementéhez.",
+            "ro": "Luați funicularul pentru apus.",
+            "en": "Take the funicular for the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang in der charmanten Città Alta auf der Piazza Vecchia. Besuchen Sie die prächtige Basilika Santa Maria Maggiore und die angrenzende Cappella Colleoni. Mittags genießen Sie den Ausblick von der Rocca, bevor Sie entlang der venezianischen Mauern schlendern. Beenden Sie den Tag auf dem Hügel San Vigilio für einen unvergesslichen Sonnenuntergang.",
+        "hu": "Kezdje sétáját a bájos Città Alta negyedben, a Piazza Vecchia téren. Látogasson el a lenyűgöző Santa Maria Maggiore bazilikához és a mellette lévő Cappella Colleonihoz. Délben élvezze a kilátást a Rocca erődből, majd tegyen egy kört a velencei falakon. A napot a San Vigilio dombon zárja egy felejthetetlen naplementével.",
+        "ro": "Începeți plimbarea în fermecătorul Città Alta, în Piazza Vecchia. Vizitați splendida Basilică Santa Maria Maggiore și Cappella Colleoni adiacentă. La prânz, bucurați-vă de priveliștea de la Rocca, înainte de a vă plimba de-a lungul zidurilor venețiene. Încheiați ziua pe dealul San Vigilio pentru un apus de neuitat.",
+        "en": "Start your walk in the charming Città Alta at Piazza Vecchia. Visit the magnificent Basilica di Santa Maria Maggiore and the adjacent Cappella Colleoni. At midday, enjoy the view from the Rocca before strolling along the Venetian Walls. End the day on San Vigilio hill for an unforgettable sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Casoncelli alla bergamasca",
+            "tip": "Gefüllte Nudeln mit Speck und Salbei bei La Colombina."
+          },
+          {
+            "name": "Polenta e Osei",
+            "tip": "Süße Spezialität in der Pasticceria Cavour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Casoncelli alla bergamasca",
+            "tip": "Szalonnás-zsályás töltött tészta a La Colombina étteremben."
+          },
+          {
+            "name": "Polenta e Osei",
+            "tip": "Helyi édesség a Pasticceria Cavour cukrászdában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Casoncelli alla bergamasca",
+            "tip": "Paste umplute cu bacon și salvie la La Colombina."
+          },
+          {
+            "name": "Polenta e Osei",
+            "tip": "Specialitate dulce la Pasticceria Cavour."
+          }
+        ],
+        "en": [
+          {
+            "name": "Casoncelli alla bergamasca",
+            "tip": "Stuffed pasta with bacon and sage at La Colombina."
+          },
+          {
+            "name": "Polenta e Osei",
+            "tip": "Sweet local specialty at Pasticceria Cavour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Vigilio",
+            "tip": "Panoramablick über die Alpen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Vigilio",
+            "tip": "Panoráma az Alpokra és a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "San Vigilio",
+            "tip": "Vedere panoramică spre Alpi.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Vigilio",
+            "tip": "Panoramic view over the Alps.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Colleoni",
+            "tip": "Boutiquen und lokale Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Colleoni",
+            "tip": "Butikok és helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Colleoni",
+            "tip": "Buticuri și meșteșuguri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Colleoni",
+            "tip": "Boutiques and local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie die Seilbahn von der Unterstadt.",
+          "Die Oberstadt ist fast komplett Fußgängerzone.",
+          "Tragen Sie bequeme Schuhe für die steilen Wege.",
+          "Besuchen Sie das Carrara-Museum am Vormittag."
+        ],
+        "hu": [
+          "Használja a siklót az alsóvárosból.",
+          "A felsőváros szinte teljesen gyalogosövezet.",
+          "Viseljen kényelmes cipőt a meredek utcákhoz.",
+          "Látogassa meg a Carrara múzeumot délelőtt."
+        ],
+        "ro": [
+          "Luați funicularul din orașul de jos.",
+          "Orașul de sus este aproape în întregime pietonal.",
+          "Purtați încălțăminte comodă pentru drumurile abrupte.",
+          "Vizitați Muzeul Carrara dimineața."
+        ],
+        "en": [
+          "Take the funicular from the Lower Town.",
+          "The Upper Town is almost entirely pedestrian.",
+          "Wear comfortable shoes for the steep paths.",
+          "Visit the Carrara Museum in the morning."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Porta San Giacomo",
+          "coords": [
+            9.6645,
+            45.6985
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Einstiegspunkt für die Mauertour.",
+            "hu": "A városfal-túra kezdőpontja.",
+            "ro": "Punct de plecare pentru turul zidurilor.",
+            "en": "Starting point for the wall tour."
+          }
+        },
+        {
+          "name": "Mura Veneziane",
+          "coords": [
+            9.6612,
+            45.7055
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Breite Wege ideal zum Radfahren.",
+            "hu": "Széles utak, ideálisak a kerékpározáshoz.",
+            "ro": "Căi largi, ideale pentru ciclism.",
+            "en": "Wide paths ideal for cycling."
+          }
+        },
+        {
+          "name": "Donizetti-Theater",
+          "coords": [
+            9.6732,
+            45.6945
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Im Herzen der modernen Unterstadt.",
+            "hu": "A modern alsóváros szívében.",
+            "ro": "În inima orașului de jos modern.",
+            "en": "In the heart of the modern Lower Town."
+          }
+        },
+        {
+          "name": "Accademia Carrara",
+          "coords": [
+            9.6755,
+            45.7032
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine der wichtigsten Kunstgalerien Italiens.",
+            "hu": "Olaszország egyik legfontosabb képtára.",
+            "ro": "Una dintre cele mai importante galerii de artă din Italia.",
+            "en": "One of the most important art galleries in Italy."
+          }
+        },
+        {
+          "name": "Piazza Vecchia",
+          "coords": [
+            9.6641,
+            45.7041
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad in den engen Gassen.",
+            "hu": "A szűk utcákban tolja a kerékpárt.",
+            "ro": "Împingeți bicicleta pe străzile înguste.",
+            "en": "Push your bike in the narrow alleys."
+          }
+        },
+        {
+          "name": "San Vigilio",
+          "coords": [
+            9.6542,
+            45.7112
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Herausfordernde Steigung, aber lohnenswert.",
+            "hu": "Kihívást jelentő emelkedő, de megéri.",
+            "ro": "Urcare provocatoare, dar merită.",
+            "en": "Challenging incline, but worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie sowohl die Unter- als auch die Oberstadt mit dem Fahrrad. Starten Sie an der Porta San Giacomo und genießen Sie die Fahrt entlang der venezianischen Mauern. Besuchen Sie die Accademia Carrara und radeln Sie dann hinauf nach San Vigilio. Eine sportliche Art, die Vielfalt Bergamos zu erleben.",
+        "hu": "Fedezze fel az alsó- és felsővárost kerékpárral. Kezdje a Porta San Giacomo kapunál, és élvezze a tekerést a velencei falak mentén. Látogasson el az Accademia Carrara képtárba, majd tekerjen fel a San Vigilio dombra. Sportos módja Bergamo sokszínűségének megismerésének.",
+        "ro": "Explorați atât orașul de jos, cât și cel de sus cu bicicleta. Începeți de la Porta San Giacomo și bucurați-vă de plimbarea de-a lungul zidurilor venețiene. Vizitați Accademia Carrara și apoi pedalați până la San Vigilio. Un mod sportiv de a experimenta diversitatea Bergamoului.",
+        "en": "Explore both the Lower and Upper Town by bike. Start at Porta San Giacomo and enjoy the ride along the Venetian Walls. Visit the Accademia Carrara and then cycle up to San Vigilio. A sporty way to experience Bergamo's diversity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stracciatella Eis",
+            "tip": "In der Gelateria La Marianna erfunden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stracciatella fagylalt",
+            "tip": "A La Marianna fagyizóban találták fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Înghețată Stracciatella",
+            "tip": "Inventată la Gelateria La Marianna."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stracciatella Ice Cream",
+            "tip": "Invented at Gelateria La Marianna."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco dei Colli",
+            "tip": "Ruhige Radwege im Grünen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco dei Colli",
+            "tip": "Csendes kerékpárutak a zöldben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco dei Colli",
+            "tip": "Piste de biciclete liniștite în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco dei Colli",
+            "tip": "Quiet bike paths in nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sentierone",
+            "tip": "Einkaufen in der Unterstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sentierone",
+            "tip": "Vásárlási lehetőség az alsóvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sentierone",
+            "tip": "Cumpărături în orașul de jos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sentierone",
+            "tip": "Shopping in the Lower Town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein E-Bike ist wegen der Hügel ratsam.",
+          "Nutzen Sie den Aufzug, wenn möglich.",
+          "Prüfen Sie die Bremsen vor der Abfahrt.",
+          "Es gibt Leihstationen in der Unterstadt."
+        ],
+        "hu": [
+          "Az e-bike javasolt a dombok miatt.",
+          "Használja a liftet, ha lehetséges.",
+          "Ellenőrizze a fékeket lejtmenet előtt.",
+          "Vannak bérlőállomások az alsóvárosban."
+        ],
+        "ro": [
+          "O bicicletă electrică este recomandată din cauza dealurilor.",
+          "Folosiți liftul dacă este posibil.",
+          "Verificați frânele înainte de coborâre.",
+          "Există stații de închiriat în orașul de jos."
+        ],
+        "en": [
+          "An e-bike is recommended because of the hills.",
+          "Use the elevator if possible.",
+          "Check your brakes before descending.",
+          "There are rental stations in the Lower Town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Accademia Carrara",
+          "coords": [
+            9.6755,
+            45.7032
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parkplätze in der Nähe vorhanden.",
+            "hu": "Parkolóhelyek a közelben elérhetők.",
+            "ro": "Locuri de parcare disponibile în apropiere.",
+            "en": "Parking spaces available nearby."
+          }
+        },
+        {
+          "name": "Porta San Giacomo",
+          "coords": [
+            9.6645,
+            45.6985
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bester Zugang zur Oberstadt für Autos.",
+            "hu": "A legjobb autóút a felsővárosba.",
+            "ro": "Cel mai bun acces cu mașina spre orașul de sus.",
+            "en": "Best car access to the Upper Town."
+          }
+        },
+        {
+          "name": "Piazza Vecchia",
+          "coords": [
+            9.6641,
+            45.7041
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Rande der ZTL.",
+            "hu": "Parkoljon a ZTL szélén lévő parkolóházban.",
+            "ro": "Parcați în parcarea de la marginea zonei ZTL.",
+            "en": "Park in the garage at the edge of the ZTL."
+          }
+        },
+        {
+          "name": "San Vigilio",
+          "coords": [
+            9.6542,
+            45.7112
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Panoramastraße nach oben.",
+            "hu": "Panorámaút vezet fel a csúcsra.",
+            "ro": "Drum panoramic spre vârf.",
+            "en": "Panoramic road to the top."
+          }
+        },
+        {
+          "name": "San Pellegrino Terme",
+          "coords": [
+            9.6661,
+            45.8335
+          ],
+          "category": "landmark",
+          "arrive_at": "15:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Ein schöner Ausflug ins Brembana-Tal.",
+            "hu": "Szép kirándulás a Brembana-völgybe.",
+            "ro": "O excursie frumoasă în Valea Brembana.",
+            "en": "A beautiful trip to the Brembana Valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto erlaubt Ihnen einen Abstecher in die Umgebung, wie zum berühmten Kurort San Pellegrino Terme. Erkunden Sie morgens die Kunst der Accademia Carrara und genießen Sie mittags die Aussicht von San Vigilio. Beachten Sie die strikten Fahrverbote in der historischen Oberstadt.",
+        "hu": "Az autó lehetővé teszi a környék felfedezését is, mint például a híres San Pellegrino Terme fürdőhelyet. Reggel látogasson el az Accademia Carrara képtárba, délben pedig élvezze a kilátást San Vigilio-ból. Ügyeljen a szigorú behajtási tilalmakra a történelmi felsővárosban.",
+        "ro": "Mașina vă permite o excursie în împrejurimi, cum ar fi faimoasa stațiune San Pellegrino Terme. Dimineața, explorați arta de la Accademia Carrara și la prânz bucurați-vă de priveliștea de la San Vigilio. Atenție la interdicțiile stricte de circulație în orașul de sus istoric.",
+        "en": "A car allows you to take a detour to the surroundings, such as the famous spa town of San Pellegrino Terme. Explore the art of Accademia Carrara in the morning and enjoy the view from San Vigilio at midday. Note the strict driving bans in the historical Upper Town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Scarpinocc de Par",
+            "tip": "Typische Teigtaschen aus dem Tal bei Da Mimmo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Scarpinocc de Par",
+            "tip": "Helyi töltött tészta a Da Mimmo étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scarpinocc de Par",
+            "tip": "Paste umplute tipice din vale la Da Mimmo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Scarpinocc de Par",
+            "tip": "Typical stuffed pasta from the valley at Da Mimmo."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Valle Brembana",
+            "tip": "Ruhige Fahrt durch die Berge.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Valle Brembana",
+            "tip": "Csendes autózás a hegyek között.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valle Brembana",
+            "tip": "Plimbare liniștită prin munți.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Valle Brembana",
+            "tip": "Quiet drive through the mountains.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Orio Center",
+            "tip": "Riesiges Einkaufszentrum am Flughafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orio Center",
+            "tip": "Hatalmas bevásárlóközpont a repülőtérnél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Orio Center",
+            "tip": "Centru comercial uriaș lângă aeroport."
+          }
+        ],
+        "en": [
+          {
+            "name": "Orio Center",
+            "tip": "Huge shopping center near the airport."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie bevorzugt in der Unterstadt.",
+          "ZTL in der Oberstadt wird streng überwacht.",
+          "Navigieren Sie zum Parkplatz Piazza Libertà.",
+          "Ein Kleinwagen ist für die Gassen besser."
+        ],
+        "hu": [
+          "Lehetőleg az alsóvárosban parkoljon.",
+          "A felsővárosi ZTL-t szigorúan figyelik.",
+          "Navigáljon a Piazza Libertà parkolóhoz.",
+          "A szűk utcákhoz jobb egy kisautó."
+        ],
+        "ro": [
+          "Parcați de preferință în orașul de jos.",
+          "ZTL din orașul de sus este monitorizată strict.",
+          "Navigați spre parcarea Piazza Libertà.",
+          "O mașină mică este mai bună pentru străduțe."
+        ],
+        "en": [
+          "Preferably park in the Lower Town.",
+          "ZTL in the Upper Town is strictly monitored.",
+          "Navigate to the Piazza Libertà parking lot.",
+          "A small car is better for the alleys."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Bahnhof Bergamo",
+          "coords": [
+            9.6762,
+            45.6912
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Drehkreuz für Busse und Züge.",
+            "hu": "Buszok és vonatok csomópontja.",
+            "ro": "Hub pentru autobuze și trenuri.",
+            "en": "Hub for buses and trains."
+          }
+        },
+        {
+          "name": "Donizetti-Theater",
+          "coords": [
+            9.6732,
+            45.6945
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler Stopp in der Unterstadt.",
+            "hu": "Központi megálló az alsóvárosban.",
+            "ro": "Stație centrală în orașul de jos.",
+            "en": "Central stop in the Lower Town."
+          }
+        },
+        {
+          "name": "Funicolare Bassa",
+          "coords": [
+            9.6685,
+            45.6982
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Historische Seilbahn zur Oberstadt.",
+            "hu": "Történelmi sikló a felsővárosba.",
+            "ro": "Funicular istoric spre orașul de sus.",
+            "en": "Historical funicular to the Upper Town."
+          }
+        },
+        {
+          "name": "Piazza Vecchia",
+          "coords": [
+            9.6641,
+            45.7041
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Bergstation.",
+            "hu": "Rövid séta a felső állomástól.",
+            "ro": "Scurtă plimbare de la stația de sus.",
+            "en": "Short walk from the upper station."
+          }
+        },
+        {
+          "name": "Mura Veneziane",
+          "coords": [
+            9.6612,
+            45.7055
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Buslinie 1 verbindet Flughafen, Bahnhof und Oberstadt.",
+            "hu": "Az 1-es busz köti össze a repteret, a vasutat és a felsővárost.",
+            "ro": "Linia de autobuz 1 leagă aeroportul, gara și orașul de sus.",
+            "en": "Bus line 1 connects airport, station, and Upper Town."
+          }
+        },
+        {
+          "name": "San Vigilio",
+          "coords": [
+            9.6542,
+            45.7112
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Zweite Seilbahn von der Città Alta aus.",
+            "hu": "A második sikló a Città Altából indul.",
+            "ro": "Al doilea funicular pornind din Città Alta.",
+            "en": "Second funicular starting from Città Alta."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die legendären Seilbahnen von Bergamo, um die Città Alta und San Vigilio zu erreichen. Der ÖPNV verbindet den Bahnhof perfekt mit allen wichtigen Punkten. Eine Fahrt mit der Funicolare ist ein Muss für jeden Besucher und bietet tolle Ausblicke.",
+        "hu": "Használja Bergamo legendás siklóit a Città Alta és San Vigilio eléréséhez. A tömegközlekedés tökéletesen összeköti a vasútállomást minden fontos ponttal. A siklóval való utazás kötelező program minden látogatónak a nagyszerű kilátás miatt.",
+        "ro": "Folosiți funicularele legendare din Bergamo pentru a ajunge la Città Alta și San Vigilio. Transportul public leagă perfect gara de toate punctele importante. O călătorie cu funicularul este obligatorie pentru orice vizitator și oferă priveliști grozave.",
+        "en": "Use Bergamo's legendary funiculars to reach Città Alta and San Vigilio. Public transit perfectly connects the station with all major points. A ride on the funicular is a must for every visitor and offers great views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Salami bergamasca",
+            "tip": "Lokal produziert, in Delikatessläden erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Salami bergamasca",
+            "tip": "Helyi szalámi a csemegeüzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salam bergamasca",
+            "tip": "Produs local, disponibil în delicaterii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salami bergamasca",
+            "tip": "Locally produced, available in delis."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Ruhiger Rückzugsort in der Oberstadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus kert",
+            "tip": "Csendes menedék a felsővárosban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Refugiu liniștit în orașul de sus.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "Quiet retreat in the Upper Town.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via XX Settembre",
+            "tip": "Haupteinkaufsstraße in der Unterstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via XX Settembre",
+            "tip": "Fő bevásárlóutca az alsóvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via XX Settembre",
+            "tip": "Principala stradă comercială din orașul de jos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via XX Settembre",
+            "tip": "Main shopping street in the Lower Town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 24-Stunden-Karte.",
+          "Die Seilbahnen sind im Tagesticket enthalten.",
+          "Bus 1 ist ideal für Flughafen-Reisende.",
+          "Die Fahrpläne sind sehr verlässlich."
+        ],
+        "hu": [
+          "Vásároljon 24 órás jegyet.",
+          "A siklók benne vannak a napijegy árában.",
+          "Az 1-es busz ideális a repülőtéri utasoknak.",
+          "A menetrendek nagyon megbízhatóak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de 24 de ore.",
+          "Funicularele sunt incluse în biletul de o zi.",
+          "Autobuzul 1 este ideal pentru călătorii de la aeroport.",
+          "Orarele sunt foarte de încredere."
+        ],
+        "en": [
+          "Buy a 24-hour ticket.",
+          "Funiculars are included in the day ticket.",
+          "Bus 1 is ideal for airport travelers.",
+          "The schedules are very reliable."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-25",
+    "transit_official": "https://www.atb.bergamo.it/",
+    "transit_app": "https://www.atb.bergamo.it/it/atb-mobile",
+    "bike_share": "https://www.labianchina.it/",
+    "city_card": "https://www.visitbergamo.net/it/bergamo-card/",
+    "events": "https://www.visitbergamo.net/it/eventi/",
+    "tourism_office": "https://www.visitbergamo.net/",
+    "webcam": "https://www.skylinewebcams.com/it/webcam/italia/lombardia/bergamo.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/bergamo-c561956",
+    "museum_tickets": "https://www.fondazioneaccademiacarrara.it/",
+    "parking_real_time": "https://www.atb.bergamo.it/it/parcheggi",
+    "language_tips": {
+      "de": "Italienisch ueblich; Englisch in Citta Alta und am Flughafen (Orio al Serio) sehr gut verbreitet.",
+      "hu": "Olaszul beszelnek; az angol a Citta Alta-ban es a repuloteren (Orio al Serio) nagyon elterjedt.",
+      "ro": "Italiana este uzuala; engleza este foarte raspandita in Citta Alta si la aeroportul Orio al Serio.",
+      "en": "Italian is the norm; English is widely spoken in Citta Alta and at Orio al Serio airport."
+    },
+    "best_time_to_visit": {
+      "de": "April-Juni und September-Oktober; Citta Alta im Winter neblig-romantisch, im Sommer angenehm kuehl.",
+      "hu": "Aprilis-junius es szeptember-oktober; a Citta Alta telen kodos-romantikus, nyaron kellemesen huvos.",
+      "ro": "Aprilie-iunie si septembrie-octombrie; Citta Alta este cetos-romantica iarna, racoroasa vara.",
+      "en": "April-June and September-October; Citta Alta is foggy-romantic in winter, pleasantly cool in summer."
+    },
+    "neighborhood_warnings": {
+      "de": "Stadt sehr sicher; am Bahnhof Citta Bassa abends uebliche Vorsicht, Citta Alta unbedenklich.",
+      "hu": "A varos nagyon biztonsagos; a Citta Bassa allomasnal este szokasos ovatossag, a Citta Alta gondtalan.",
+      "ro": "Orasul este foarte sigur; precautie obisnuita seara la gara Citta Bassa, Citta Alta este fara griji.",
+      "en": "City is very safe; usual caution near Citta Bassa station at night, Citta Alta is trouble-free."
+    }
+  }
+}

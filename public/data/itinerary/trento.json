@@ -1,0 +1,889 @@
+{
+  "city_id": "trento",
+  "anchor": {
+    "name": "Piazza Duomo",
+    "coords": [
+      11.1218,
+      46.0664
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piazza Duomo",
+          "coords": [
+            11.1218,
+            46.0664
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Neptunbrunnen.",
+            "hu": "Csodálja meg a Neptun-kutat.",
+            "ro": "Admirați Fântâna lui Neptun.",
+            "en": "Admire the Neptune Fountain."
+          }
+        },
+        {
+          "name": "Kathedrale San Vigilio",
+          "coords": [
+            11.1214,
+            46.0662
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Krypta.",
+            "hu": "Látogasson el a kriptába.",
+            "ro": "Vizitați cripta.",
+            "en": "Visit the crypt."
+          }
+        },
+        {
+          "name": "Torre Civica",
+          "coords": [
+            11.1221,
+            46.0665
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick von oben.",
+            "hu": "Élvezze a kilátást fentről.",
+            "ro": "Bucurați-vă de priveliștea de sus.",
+            "en": "Enjoy the view from the top."
+          }
+        },
+        {
+          "name": "Case Cazuffi-Rella",
+          "coords": [
+            11.1223,
+            46.0667
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Fresken.",
+            "hu": "Figyelje meg a freskókat.",
+            "ro": "Observați frescele.",
+            "en": "Look at the frescoes."
+          }
+        },
+        {
+          "name": "Castello del Buonconsiglio",
+          "coords": [
+            11.1271,
+            46.0712
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Der Adlerturm ist ein Muss.",
+            "hu": "A Sas-torony kötelező látnivaló.",
+            "ro": "Turnul Vulturului este obligatoriu.",
+            "en": "The Eagle Tower is a must-see."
+          }
+        },
+        {
+          "name": "Abtei San Lorenzo",
+          "coords": [
+            11.1195,
+            46.0685
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe.",
+            "hu": "A nyugalom szigete.",
+            "ro": "Un loc de liniște.",
+            "en": "A place of peace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie das Herz von Trient auf dem Piazza Duomo und in der Kathedrale. Mittags bestaunen Sie die prächtigen bemalten Fassaden der Renaissance-Häuser. Nachmittags tauchen Sie in die Geschichte im Schloss Buonconsiglio ein. Abends lassen Sie den Tag in der stillen Abtei San Lorenzo ausklingen.",
+        "hu": "Reggel Trento szívét fedezi fel a Piazza Duomón és a katedrálisban. Délben a reneszánsz házak pompás festett homlokzatait csodálhatja meg. Délután elmerül a történelemben a Buonconsiglio kastélyban. Este a napot a csendes San Lorenzo apátságban zárja.",
+        "ro": "Dimineața explorați inima orașului Trento în Piazza Duomo și în catedrală. La prânz admirați fațadele pictate splendide ale caselor renascentiste. După-amiaza vă scufundați în istorie la Castelul Buonconsiglio. Seara încheiați ziua în liniștita abație San Lorenzo.",
+        "en": "In the morning, explore the heart of Trento at Piazza Duomo and the cathedral. At midday, admire the magnificent painted facades of the Renaissance houses. In the afternoon, immerse yourself in history at Buonconsiglio Castle. In the evening, end the day at the peaceful San Lorenzo Abbey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Canederli",
+            "tip": "Probieren Sie diese Knödel bei 'Scrigno del Duomo'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Canederli",
+            "tip": "Kóstolja meg ezeket a gombócokat a 'Scrigno del Duomo' étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canederli",
+            "tip": "Încercați aceste găluște la 'Scrigno del Duomo'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Canederli",
+            "tip": "Try these dumplings at 'Scrigno del Duomo'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abtei San Lorenzo",
+            "tip": "Ein ruhiger Rückzugsort im Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Lorenzo apátság",
+            "tip": "Csendes menedék a központban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Abația San Lorenzo",
+            "tip": "Un refugiu liniștit în centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Lorenzo Abbey",
+            "tip": "A quiet retreat in the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piazza Erbe",
+            "tip": "Lokaler Markt für frische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza Erbe",
+            "tip": "Helyi piac friss termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazza Erbe",
+            "tip": "Piață locală pentru produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza Erbe",
+            "tip": "Local market for fresh products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist fast vollständig Fußgängerzone.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster."
+        ],
+        "hu": [
+          "Az óváros szinte teljesen sétálóövezet.",
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz."
+        ],
+        "ro": [
+          "Centrul vechi este aproape în întregime pietonal.",
+          "Purtați pantofi confortabili pentru pavajul cu piatră cubică."
+        ],
+        "en": [
+          "The old town is almost entirely pedestrianized.",
+          "Wear comfortable shoes for the cobblestone streets."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Piazza Duomo",
+          "coords": [
+            11.1218,
+            46.0664
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "Kiindulópont a központban.",
+            "ro": "Punct de plecare în centru.",
+            "en": "Starting point in the center."
+          }
+        },
+        {
+          "name": "MUSE - Wissenschaftsmuseum",
+          "coords": [
+            11.1135,
+            46.0632
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Von Renzo Piano entworfen.",
+            "hu": "Renzo Piano tervezte.",
+            "ro": "Proiectat de Renzo Piano.",
+            "en": "Designed by Renzo Piano."
+          }
+        },
+        {
+          "name": "Palazzo delle Albere",
+          "coords": [
+            11.1128,
+            46.0628
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben dem MUSE.",
+            "hu": "Közvetlenül a MUSE mellett.",
+            "ro": "Chiar lângă MUSE.",
+            "en": "Right next to MUSE."
+          }
+        },
+        {
+          "name": "Seilbahn Trient-Sardagna",
+          "coords": [
+            11.1155,
+            46.0715
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Fahrradmitnahme möglich.",
+            "hu": "Kerékpár szállítható.",
+            "ro": "Se pot transporta biciclete.",
+            "en": "Bicycles can be taken on board."
+          }
+        },
+        {
+          "name": "Mausoleum von Cesare Battisti",
+          "coords": [
+            11.1158,
+            46.0768
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bester Panoramablick.",
+            "hu": "A legjobb panoráma.",
+            "ro": "Cea mai bună panoramă.",
+            "en": "Best panoramic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Domplatz und radeln Sie zum modernen Stadtviertel 'Le Albere' zum MUSE. Nach einer ausgiebigen Entdeckungstour geht es am Fluss Etsch entlang zur Seilbahn. Schweben Sie hinauf nach Sardagna für einen Ausblick über das Tal. Zum Abschluss besuchen Sie das Mausoleum auf dem Doss Trento.",
+        "hu": "Induljon a Dóm térről, és tekerjen a modern 'Le Albere' negyedbe a MUSE múzeumhoz. Egy alapos felfedezés után az Adige folyó mentén haladjon a felvonóig. Repüljön fel Sardagnába a völgyre nyíló kilátásért. Végül látogasson el a Doss Trentón található mauzóleumhoz.",
+        "ro": "Porniți din Piața Domului și pedalați spre cartierul modern „Le Albere” la muzeul MUSE. După o explorare amănunțită, mergeți de-a lungul râului Adige până la telecabină. Urcați la Sardagna pentru o vedere asupra văii. La final, vizitați mausoleul de pe Doss Trento.",
+        "en": "Start at Cathedral Square and cycle to the modern 'Le Albere' district to the MUSE museum. After a thorough exploration, ride along the Adige River to the cable car. Soar up to Sardagna for a view over the valley. Finally, visit the mausoleum on Doss Trento."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Strudel",
+            "tip": "Perfekt für eine Pause im 'Caffè de la Paix'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rétes",
+            "tip": "Tökéletes pihenő a 'Caffè de la Paix'-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strudel",
+            "tip": "Perfect pentru o pauză la 'Caffè de la Paix'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Strudel",
+            "tip": "Perfect for a break at 'Caffè de la Paix'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sardagna Aussichtspunkt",
+            "tip": "Über der Stadt schweben.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sardagna kilátó",
+            "tip": "A város felett lebegve.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Sardagna",
+            "tip": "Plutind deasupra orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sardagna viewpoint",
+            "tip": "Floating above the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Palazzo Roccabruna",
+            "tip": "Enothek mit lokalen Weinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palazzo Roccabruna",
+            "tip": "Enotéka helyi borokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Palazzo Roccabruna",
+            "tip": "Enotecă cu vinuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palazzo Roccabruna",
+            "tip": "Enoteca with local wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den Etschradweg für flache Strecken.",
+          "Schließen Sie Ihr Fahrrad immer gut ab."
+        ],
+        "hu": [
+          "Használja az Adige kerékpárutat a sík terepért.",
+          "Mindig zárja le jól a kerékpárját."
+        ],
+        "ro": [
+          "Folosiți pista de biciclete Adige pentru trasee plane.",
+          "Încuiați întotdeauna bine bicicleta."
+        ],
+        "en": [
+          "Use the Adige cycle path for flat routes.",
+          "Always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Castello del Buonconsiglio",
+          "coords": [
+            11.1271,
+            46.0712
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Autosilo Buonconsiglio'.",
+            "hu": "Parkoljon az 'Autosilo Buonconsiglio' parkolóházban.",
+            "ro": "Parcați în parcarea 'Autosilo Buonconsiglio'.",
+            "en": "Park in the 'Autosilo Buonconsiglio' parking garage."
+          }
+        },
+        {
+          "name": "Piazza Duomo",
+          "coords": [
+            11.1218,
+            46.0664
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Das historische Zentrum ist ZTL.",
+            "hu": "A történelmi központ behajtási tilalom alatt áll.",
+            "ro": "Centrul istoric este ZTL.",
+            "en": "The historical center is a ZTL (restricted zone)."
+          }
+        },
+        {
+          "name": "MUSE",
+          "coords": [
+            11.1135,
+            46.0632
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz vorhanden.",
+            "hu": "Nagy parkoló áll rendelkezésre.",
+            "ro": "Parcare mare disponibilă.",
+            "en": "Large parking lot available."
+          }
+        },
+        {
+          "name": "Mausoleum von Cesare Battisti",
+          "coords": [
+            11.1158,
+            46.0768
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Zufahrt zum Doss Trento möglich.",
+            "hu": "Behajtás a Doss Trentóra lehetséges.",
+            "ro": "Accesul auto la Doss Trento este permis.",
+            "en": "Car access to Doss Trento is possible."
+          }
+        },
+        {
+          "name": "Belvedere di Ravina",
+          "coords": [
+            11.1025,
+            46.035
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "16:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Panoramablick auf die Stadt.",
+            "hu": "Panoráma kilátás a városra.",
+            "ro": "Vedere panoramică asupra orașului.",
+            "en": "Panoramic view of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittags erkunden Sie die prächtige Residenz der Fürstbischöfe im Schloss. Danach geht es zum Domplatz für einen Espresso. Mittags tauchen Sie in die moderne Wissenschaft im MUSE ein. Den Nachmittag verbringen Sie auf dem geschichtsträchtigen Doss Trento und beenden den Tag mit einem Weitblick von Ravina aus.",
+        "hu": "Délelőtt a hercegérsekek pompás rezidenciáját fedezi fel a kastélyban. Ezután irány a Dóm tér egy eszpresszóra. Délben elmerül a modern tudományban a MUSE-ban. A délutánt a történelmi Doss Trentón tölti, a napot pedig Ravina távoli kilátásával zárja.",
+        "ro": "Dimineața explorați reședința splendidă a prinților-episcopi la castel. Apoi mergeți în Piața Domului pentru un espresso. La prânz vă scufundați în știința modernă la MUSE. Petreceți după-amiaza pe istoricul Doss Trento și încheiați ziua cu o priveliște largă de la Ravina.",
+        "en": "In the morning, explore the magnificent residence of the prince-bishops at the castle. Then head to Cathedral Square for an espresso. At midday, immerse yourself in modern science at MUSE. Spend the afternoon on the historic Doss Trento and end the day with a sweeping view from Ravina."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Carne Salada",
+            "tip": "Spezialität im 'Ristorante Forst'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carne Salada",
+            "tip": "Specialitás a 'Ristorante Forst'-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carne Salada",
+            "tip": "Specialitate la 'Ristorante Forst'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carne Salada",
+            "tip": "Specialty at 'Ristorante Forst'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belvedere di Ravina",
+            "tip": "Ruhiger Blick auf das Etschtal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ravina kilátó",
+            "tip": "Csendes kilátás az Adige-völgyre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere di Ravina",
+            "tip": "Vedere liniștită asupra văii Adige.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belvedere di Ravina",
+            "tip": "Quiet view of the Adige Valley.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Manci",
+            "tip": "Elegante Boutiquen in Renaissance-Palästen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Manci",
+            "tip": "Elegáns butikok reneszánsz palotákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Manci",
+            "tip": "Boutique-uri elegante în palate renascentiste."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Manci",
+            "tip": "Elegant boutiques in Renaissance palaces."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die blauen Parkmarkierungen (gebührenpflichtig).",
+          "Vermeiden Sie die Rushhour am Nachmittag."
+        ],
+        "hu": [
+          "Figyeljen a kék parkolójelzésekre (fizetős).",
+          "Kerülje a délutáni csúcsforgalmat."
+        ],
+        "ro": [
+          "Atenție la marcajele albastre de parcare (cu plată).",
+          "Evitați orele de vârf de după-amiază."
+        ],
+        "en": [
+          "Look out for blue parking markings (paid).",
+          "Avoid the afternoon rush hour."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 10.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Piazza Duomo",
+          "coords": [
+            11.1218,
+            46.0664
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt.",
+            "hu": "Központi csomópont.",
+            "ro": "Nod central.",
+            "en": "Central hub."
+          }
+        },
+        {
+          "name": "Castello del Buonconsiglio",
+          "coords": [
+            11.1271,
+            46.0712
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Linie A oder 7 halten in der Nähe.",
+            "hu": "Az A vagy 7-es járat a közelben áll meg.",
+            "ro": "Liniile A sau 7 opresc în apropiere.",
+            "en": "Line A or 7 stops nearby."
+          }
+        },
+        {
+          "name": "MUSE",
+          "coords": [
+            11.1135,
+            46.0632
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Shuttle NP.",
+            "hu": "Használja az NP ingajáratot.",
+            "ro": "Folosiți naveta NP.",
+            "en": "Use the NP shuttle."
+          }
+        },
+        {
+          "name": "Seilbahn Trient-Sardagna",
+          "coords": [
+            11.1155,
+            46.0715
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Gilt als Teil des ÖPNV.",
+            "hu": "A tömegközlekedés része.",
+            "ro": "Face parte din transportul public.",
+            "en": "Included in public transport."
+          }
+        },
+        {
+          "name": "Abtei San Lorenzo",
+          "coords": [
+            11.1195,
+            46.0685
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Nahe dem Bahnhof.",
+            "hu": "A vasútállomás közelében.",
+            "ro": "Lângă gară.",
+            "en": "Near the train station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Domplatz und fahren Sie mit dem Bus zum Schloss. Nach der Besichtigung bringt Sie der Shuttle zum MUSE. Am Nachmittag nutzen Sie die Seilbahn für einen Höhenflug nach Sardagna. Den Abschluss bildet die historische Abtei San Lorenzo in Bahnhofsnähe.",
+        "hu": "Kezdje a Dóm téren, majd busszal menjen a kastélyhoz. A látogatás után az ingajárat elviszi a MUSE-hoz. Délután használja a felvonót egy sardagnai repüléshez. Végül látogasson el a vasútállomás közelében található történelmi San Lorenzo apátsághoz.",
+        "ro": "Începeți în Piața Domului și mergeți cu autobuzul la castel. După vizită, naveta vă duce la MUSE. După-amiaza folosiți telecabina pentru un zbor spre Sardagna. Încheiați cu abația istorică San Lorenzo de lângă gară.",
+        "en": "Start at Cathedral Square and take the bus to the castle. After the visit, the shuttle takes you to MUSE. In the afternoon, use the cable car for a flight to Sardagna. End with the historic San Lorenzo Abbey near the train station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trentodoc",
+            "tip": "Sekt-Aperitif in der 'Casa del Vino'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trentodoc",
+            "tip": "Pezsgő-aperitif a 'Casa del Vino'-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trentodoc",
+            "tip": "Aperitiv cu vin spumant la 'Casa del Vino'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trentodoc",
+            "tip": "Sparkling wine aperitif at 'Casa del Vino'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sardagna Terrasse",
+            "tip": "Ruhe über dem Tal genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sardagna terasz",
+            "tip": "Élvezze a csendet a völgy felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terasa Sardagna",
+            "tip": "Bucurați-vă de liniște deasupra văii.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sardagna terrace",
+            "tip": "Enjoy peace above the valley.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via San Pietro",
+            "tip": "Handwerksläden und Delikatessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via San Pietro",
+            "tip": "Kézműves boltok és csemegék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via San Pietro",
+            "tip": "Magazine de artizanat și delicatese."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via San Pietro",
+            "tip": "Craft shops and delicacies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die 'OpenMove' App für Tickets.",
+          "Die Busse sind sehr pünktlich."
+        ],
+        "hu": [
+          "Töltse le az 'OpenMove' alkalmazást a jegyekhez.",
+          "A buszok nagyon pontosak."
+        ],
+        "ro": [
+          "Descărcați aplicația 'OpenMove' pentru bilete.",
+          "Autobuzele sunt foarte punctuale."
+        ],
+        "en": [
+          "Download the 'OpenMove' app for tickets.",
+          "The buses are very punctual."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "_coords": [
+      11.1217,
+      46.0667
+    ],
+    "_region": "IT-32 Trentino-Alto Adige",
+    "transit_official": "https://www.trentinotrasporti.it/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Trento",
+    "bike_share": "https://www.trentinotrasporti.it/viaggia-con-noi/bici",
+    "city_card": "https://www.visittrentino.info/en/trentino-guest-card",
+    "events": "https://www.visittrento.it/en/events",
+    "tourism_office": "https://www.visittrento.it/en",
+    "webcam": "https://www.visittrento.it/en/useful-information/webcam",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/trento-c561784",
+    "museum_tickets": "https://www.muse.it/en/",
+    "parking_real_time": "https://www.trentoparcheggi.it/",
+    "language_tips": {
+      "de": "Italienisch Hauptsprache; Deutsch verbreitet (Nähe Südtirol), Englisch in Tourismus gut.",
+      "hu": "Olasz a fő nyelv; német elterjedt (Dél-Tirol közelsége), angol jó a turizmusban.",
+      "ro": "Italiana principală; germana răspândită (vecinătate Tirolul de Sud), engleza bună în turism.",
+      "en": "Italian primary; German common (proximity to South Tyrol), English good in tourism."
+    },
+    "best_time": {
+      "de": "Mai–Juni und September–Oktober für Stadt und Wandern; Dezember für Weihnachtsmärkte.",
+      "hu": "Május–június és szeptember–október városra és túrázásra; december karácsonyi vásárokra.",
+      "ro": "Mai–iunie și septembrie–octombrie pentru oraș și drumeții; decembrie pentru târgurile de Crăciun.",
+      "en": "May–June and September–October for city and hiking; December for Christmas markets."
+    },
+    "warnings": {
+      "de": "ZTL im Zentrum streng überwacht; Parkhäuser nutzen. Sommernachmittage heiß im Etschtal.",
+      "hu": "ZTL a központban szigorúan ellenőrzött; parkolóházakat használj. Nyári délutánok forrók az Adige völgyben.",
+      "ro": "ZTL strict supravegheat în centru; folosiți parcările acoperite. După-amiezi de vară fierbinți în valea Adige.",
+      "en": "ZTL strictly enforced in centre; use parking garages. Summer afternoons hot in Adige valley."
+    }
+  }
+}

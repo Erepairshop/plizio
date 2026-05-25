@@ -1,0 +1,1169 @@
+{
+  "city_id": "riva-del-garda",
+  "anchor": {
+    "name": "Riva del Garda",
+    "coords": [
+      10.8401,
+      45.8869
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "id": "piazza-iii-novembre",
+          "name": {
+            "de": "Piazza III Novembre",
+            "hu": "Piazza III Novembre",
+            "ro": "Piazza III Novembre",
+            "en": "Piazza III Novembre"
+          },
+          "coords": [
+            10.8414,
+            45.8841
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den ersten Espresso mit Blick auf den See.",
+            "hu": "Igya meg az első eszpresszóját a tóra néző teraszok egyikén.",
+            "ro": "Savurați primul espresso pe una dintre terasele cu vedere la lac.",
+            "en": "Enjoy your first espresso on one of the lake-view terraces."
+          }
+        },
+        {
+          "id": "torre-apponale",
+          "name": {
+            "de": "Torre Apponale",
+            "hu": "Torre Apponale",
+            "ro": "Torre Apponale",
+            "en": "Torre Apponale"
+          },
+          "coords": [
+            10.8418,
+            45.8842
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie die 165 Stufen hinauf für das beste Panorama.",
+            "hu": "Mássza meg a 165 lépcsőfokot a legjobb panorámáért.",
+            "ro": "Urcați cele 165 de trepte pentru cea mai bună panoramă.",
+            "en": "Climb the 165 steps for the best panorama of the harbor."
+          }
+        },
+        {
+          "id": "rocca-di-riva",
+          "name": {
+            "de": "Rocca di Riva",
+            "hu": "Rocca di Riva (Vár)",
+            "ro": "Rocca di Riva",
+            "en": "Rocca di Riva"
+          },
+          "coords": [
+            10.8432,
+            45.8837
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie das MAG Museum im Inneren der Wasserburg.",
+            "hu": "Látogasson el a vízi várban található MAG múzeumba.",
+            "ro": "Vizitați Muzeul MAG din interiorul castelului pe apă.",
+            "en": "Visit the MAG Museum inside the lakeside fortress."
+          }
+        },
+        {
+          "id": "promenade-am-see",
+          "name": {
+            "de": "Promenade am See",
+            "hu": "Tóparti sétány",
+            "ro": "Promenada de pe malul lacului",
+            "en": "Lakeside Promenade"
+          },
+          "coords": [
+            10.8465,
+            45.8825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für ein entspanntes Mittagessen am Wasser.",
+            "hu": "Ideális hely egy pihentető tóparti ebédhez.",
+            "ro": "Locul ideal pentru un prânz relaxant pe malul apei.",
+            "en": "Perfect spot for a relaxed lunch by the water."
+          }
+        },
+        {
+          "id": "bastione-von-riva",
+          "name": {
+            "de": "Bastione von Riva",
+            "hu": "Bastione (Bástya)",
+            "ro": "Bastione von Riva",
+            "en": "Bastione of Riva"
+          },
+          "coords": [
+            10.8361,
+            45.8858
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Glasaufzug für eine bequeme Auffahrt.",
+            "hu": "Használja az üvegliftet a kényelmes feljutáshoz.",
+            "ro": "Folosiți liftul de sticlă pentru o urcare confortabilă.",
+            "en": "Take the glass funicular for an effortless ascent."
+          }
+        },
+        {
+          "id": "kirche-santa-maria-inviolata",
+          "name": {
+            "de": "Kirche Santa Maria Inviolata",
+            "hu": "Santa Maria Inviolata templom",
+            "ro": "Biserica Santa Maria Inviolata",
+            "en": "Church of Santa Maria Inviolata"
+          },
+          "coords": [
+            10.8405,
+            45.8888
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein Barockjuwel mit prachtvoller Innenausstattung.",
+            "hu": "Barokk ékszerdoboz pompás belső díszítéssel.",
+            "ro": "O bijuterie barocă cu un interior spectaculos.",
+            "en": "A Baroque gem with magnificent interior decorations."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am lebhaften Piazza III Novembre, dem Herzen von Riva, wo der historische Torre Apponale über den Hafen wacht. Ein kurzer Aufstieg auf den Turm belohnt Sie mit einem weiten Blick über das glitzernde Wasser.\n\nAm späten Vormittag erkunden Sie die Rocca di Riva, eine mittelalterliche Wasserburg, die heute wertvolle Kunstschätze beherbergt. Danach spazieren Sie entlang der eleganten Uferpromenade, genießen die Seebrise und suchen sich ein schönes Plätzchen für das Mittagessen.\n\nDer Nachmittag wird aussichtsreich: Mit dem modernen Schrägaufzug gelangen Sie hinauf zum Bastione, einer grauen Kalksteinruine, die majestätisch über der Stadt thront. Hier oben schmeckt der Aperitivo bei fantastischer Aussicht am besten.\n\nZum Abschluss des Tages besuchen Sie die Kirche Santa Maria Inviolata, das bedeutendste Barockbauwerk des Trentino. Ihre schlichte Fassade verbirgt ein Inneres voller Gold und Stuck, ein perfekter Ort für einen Moment der Stille.",
+        "hu": "A napot a nyüzsgő Piazza III Novembre téren indítjuk, Riva szívében, ahol a történelmi Torre Apponale őrzi a kikötőt. Egy rövid mászás a toronyba, és máris a csillogó víz látványában gyönyörködhetünk.\n\nKéső délelőtt felfedezzük a Rocca di Riva várát, ezt a középkori vízi erődöt, amely ma értékes műkincseket őriz. Ezután a tóparti sétányon korzózunk, élvezve a friss szellőt, és keresünk egy hangulatos helyet az ebédhez.\n\nDélután a látványé a főszerep: a modern üveglifttel feljutunk a Bastione bástyához, amely fenségesen magasodik a város fölé. Itt a legjobb egy Aperol Spritz a panorámában gyönyörködve.\n\nA nap zárásaként meglátogatjuk a Santa Maria Inviolata templomot, Trentino legfontosabb barokk építményét. Letisztult homlokzata arannyal és stukkókkal teli belsőt rejt, ideális hely az elcsendesedéshez.",
+        "ro": "Ziua începe în vibranta Piazza III Novembre, inima orașului Riva, unde istoricul Torre Apponale veghează asupra portului. O scurtă urcare în turn vă va răsplăti cu o vedere panoramică asupra apelor scânteietoare.\n\nSpre sfârșitul dimineții, explorați Rocca di Riva, un castel medieval pe apă care găzduiește astăzi comori artistice valoroase. Apoi, plimbați-vă pe eleganta promenadă de pe malul lacului, bucurându-vă de briză și căutând un loc drăguț pentru prânz.\n\nDupă-amiaza este dedicată priveliștilor: cu funicularul modern din sticlă ajungeți la Bastione, o ruină de calcar care tronează maiestuos deasupra orașului. Aici, un aperitivo are cel mai bun gust acompaniat de o panoramă fantastică.\n\nLa finalul zilei, vizitați Biserica Santa Maria Inviolata, cel mai important monument baroc din Trentino. Fațada sa simplă ascunde un interior plin de aur și stucaturi, un loc perfect pentru un moment de liniște.",
+        "en": "Your day begins at the lively Piazza III Novembre, the heart of Riva, where the historic Torre Apponale stands guard over the harbor. A quick climb up the tower rewards you with a wide view over the sparkling water.\n\nIn the late morning, explore the Rocca di Riva, a medieval lakeside fortress that now houses valuable art treasures. Afterward, stroll along the elegant promenade, enjoy the lake breeze, and find a nice spot for lunch.\n\nIn the afternoon, head for the views: take the modern glass funicular up to the Bastione, a limestone ruin perched majestically above the town. An aperitivo here tastes best with the fantastic panorama unfolding below.\n\nTo wrap up the day, visit the Church of Santa Maria Inviolata, the most significant Baroque building in Trentino. Its simple exterior hides an interior filled with gold and stucco, a perfect place for a moment of quiet reflection."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Carne Salada",
+            "tip": "Hauchdünn geschnittenes, gewürztes Rindfleisch, typisch für das Garda Trentino."
+          },
+          {
+            "name": "Lavarello vom Grill",
+            "tip": "Frischer Felchen direkt aus dem Gardasee, serviert mit lokalem Olivenöl."
+          },
+          {
+            "name": "Ristorante Leon d'Oro",
+            "tip": "Traditionelle Küche im historischen Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carne Salada",
+            "tip": "Hajszálvékonyra szeletelt, fűszeres marhahús, a környék specialitása."
+          },
+          {
+            "name": "Grillezett Lavarello",
+            "tip": "Friss maréna a Gardából, helyi olívaolajjal tálalva."
+          },
+          {
+            "name": "Ristorante Leon d'Oro",
+            "tip": "Hagyományos konyha a történelmi belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carne Salada",
+            "tip": "Carne de vită condimentată, tăiată foarte subțire, specifică zonei Garda Trentino."
+          },
+          {
+            "name": "Lavarello la grătar",
+            "tip": "Pește proaspăt din Lacul Garda, servit cu ulei de măsline local."
+          },
+          {
+            "name": "Ristorante Leon d'Oro",
+            "tip": "Bucătărie tradițională în centrul istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carne Salada",
+            "tip": "Thinly sliced, seasoned beef, a quintessential specialty of Garda Trentino."
+          },
+          {
+            "name": "Grilled Lavarello",
+            "tip": "Fresh whitefish from the lake, drizzled with local olive oil."
+          },
+          {
+            "name": "Ristorante Leon d'Oro",
+            "tip": "Classic regional dishes in the heart of the old town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bastione Lounge",
+            "tip": "Panorama-Blick bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spiaggia degli Olivi",
+            "tip": "Ruhiger Park am Wasser für eine Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bastione Lounge",
+            "tip": "Panorámás kilátás naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spiaggia degli Olivi",
+            "tip": "Csendes tóparti park egy kis pihenőhöz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bastione Lounge",
+            "tip": "Vedere panoramică la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spiaggia degli Olivi",
+            "tip": "Parc liniștit pe malul apei pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bastione Lounge",
+            "tip": "Panoramic views during sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spiaggia degli Olivi",
+            "tip": "Quiet lakeside park for a quick break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Agraria Riva del Garda",
+            "tip": "Bestes lokales Olivenöl und Weine direkt vom Erzeuger."
+          },
+          {
+            "name": "Altstadt-Boutiquen",
+            "tip": "Italienische Mode und Lederwaren in der Via Roma."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agraria Riva del Garda",
+            "tip": "A legjobb helyi olívaolajok és borok közvetlenül a termelőtől."
+          },
+          {
+            "name": "Belvárosi butikok",
+            "tip": "Olasz divat és bőráruk a Via Roma környékén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Agraria Riva del Garda",
+            "tip": "Cel mai bun ulei de măsline local și vinuri direct de la producători."
+          },
+          {
+            "name": "Boutique-urile din centrul vechi",
+            "tip": "Modă italiană și articole din piele pe Via Roma."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agraria Riva del Garda",
+            "tip": "Excellent local olive oil and wines directly from the cooperative."
+          },
+          {
+            "name": "Old Town Boutiques",
+            "tip": "Italian fashion and leather goods along Via Roma."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Riva ist oft windig, eine leichte Jacke ist auch im Sommer ratsam.",
+          "Die meisten Sehenswürdigkeiten sind fußläufig nah beieinander.",
+          "Für den Bastione-Aufzug gibt es Kombitickets mit dem MAG Museum.",
+          "Mittwochmorgens ist Markttag (alle 14 Tage), ideal für Souvenirs."
+        ],
+        "hu": [
+          "Riva gyakran szeles, egy könnyű kabát nyáron is jól jöhet.",
+          "A legtöbb látnivaló gyalogosan is kényelmesen elérhető egymástól.",
+          "A Bastione lifthez érdemes kombinált jegyet venni a MAG múzeummal.",
+          "Szerda reggelente (kéthetente) piacnap van, remek hely szuveníreknek."
+        ],
+        "ro": [
+          "Riva este adesea vântos, o jachetă ușoară este recomandată chiar și vara.",
+          "Majoritatea obiectivelor turistice sunt aproape unele de altele, putând fi parcurse pe jos.",
+          "Pentru liftul Bastione există bilete combinate cu Muzeul MAG.",
+          "Miercuri dimineața (la fiecare 14 zile) este zi de piață, ideal pentru suveniruri."
+        ],
+        "en": [
+          "Riva is often windy, so a light jacket is advisable even in summer.",
+          "Most sights are within easy walking distance in the historic center.",
+          "Check for combined tickets for the Bastione funicular and MAG Museum.",
+          "Every other Wednesday morning is market day, perfect for local crafts."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "id": "promenade-am-see-bike",
+          "name": {
+            "de": "Promenade am See",
+            "hu": "Tóparti sétány",
+            "ro": "Promenada de pe malul lacului",
+            "en": "Lakeside Promenade"
+          },
+          "coords": [
+            10.8495,
+            45.8812
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Flacher Radweg direkt am Wasser Richtung Torbole.",
+            "hu": "Sík kerékpárút közvetlenül a vízparton Torbole felé.",
+            "ro": "Pistă de biciclete plană chiar pe malul apei spre Torbole.",
+            "en": "Flat bike path right by the water towards Torbole."
+          }
+        },
+        {
+          "id": "monte-brione",
+          "name": {
+            "de": "Monte Brione",
+            "hu": "Monte Brione",
+            "ro": "Monte Brione",
+            "en": "Monte Brione"
+          },
+          "coords": [
+            10.8652,
+            45.8775
+          ],
+          "category": "natural features",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Anspruchsvoller Anstieg, aber spektakuläre Aussichtspunkte.",
+            "hu": "Kihívást jelentő emelkedő, de látványos kilátópontok.",
+            "ro": "Urcare solicitantă, dar puncte de belvedere spectaculoase.",
+            "en": "Challenging climb but rewards you with spectacular vistas."
+          }
+        },
+        {
+          "id": "wasserkraftwerk-riva",
+          "name": {
+            "de": "Wasserkraftwerk Riva",
+            "hu": "Riva vízerőmű",
+            "ro": "Centrala hidroelectrică Riva",
+            "en": "Riva Hydroelectric Power Plant"
+          },
+          "coords": [
+            10.8385,
+            45.8828
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der Architektur von Giancarlo Maroni.",
+            "hu": "Giancarlo Maroni építészeti remekműve.",
+            "ro": "O capodoperă arhitecturală de Giancarlo Maroni.",
+            "en": "An architectural masterpiece by Giancarlo Maroni."
+          }
+        },
+        {
+          "id": "piazza-iii-novembre-bike",
+          "name": {
+            "de": "Piazza III Novembre",
+            "hu": "Piazza III Novembre",
+            "ro": "Piazza III Novembre",
+            "en": "Piazza III Novembre"
+          },
+          "coords": [
+            10.8414,
+            45.8841
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause im Schatten der Paläste.",
+            "hu": "Tökéletes hely egy ebédre a paloták árnyékában.",
+            "ro": "Perfect pentru o pauză de prânz la umbra palatelor.",
+            "en": "Perfect for a lunch break in the shadow of the palaces."
+          }
+        },
+        {
+          "id": "varone-wasserfall",
+          "name": {
+            "de": "Varone Wasserfall",
+            "hu": "Varone vízesés",
+            "ro": "Cascada Varone",
+            "en": "Varone Waterfall"
+          },
+          "coords": [
+            10.8345,
+            45.9112
+          ],
+          "category": "natural features",
+          "arrive_at": "15:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bringen Sie eine Regenjacke mit, es wird feucht!",
+            "hu": "Vigyen magával esőkabátot, vizes lesz!",
+            "ro": "Aduceți o pelerină de ploaie, va fi multă umezeală!",
+            "en": "Bring a raincoat, it gets very misty inside the cave!"
+          }
+        },
+        {
+          "id": "porta-san-marco",
+          "name": {
+            "de": "Porta San Marco",
+            "hu": "Porta San Marco",
+            "ro": "Porta San Marco",
+            "en": "Porta San Marco"
+          },
+          "coords": [
+            10.8405,
+            45.8865
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Das Tor zur Altstadt, ideal für ein Eis zum Abschluss.",
+            "hu": "A belváros kapuja, ideális egy záró fagyira.",
+            "ro": "Poarta către centrul vechi, ideală pentru o înghețată la final.",
+            "en": "The gateway to the old town, perfect for a final gelato."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour auf der malerischen Uferpromenade Richtung Osten. Der Weg ist flach und bietet ständig neue Ausblicke auf den See.\n\nDer erste Höhepunkt ist die Auffahrt auf den Monte Brione. Die kurvige Straße führt durch Olivenhaine hinauf zu alten Festungen und bietet das wohl ikonischste Panorama von Riva und Torbole.\n\nZurück im Tal radeln Sie zum beeindruckenden Wasserkraftwerk am Seeufer. Danach geht es ins Zentrum zum Piazza III Novembre für eine wohlverdiente Stärkung.\n\nAm Nachmittag führt die Route leicht bergauf zum Varone Wasserfall. In der kühlen Grotte stürzt das Wasser spektakulär in die Tiefe. Auf dem Rückweg passieren Sie die Porta San Marco und rollen entspannt zurück in die Altstadt.",
+        "hu": "Indítsa kerékpártúráját a festői tóparti sétányon kelet felé. Az út sík, és folyamatosan új kilátást nyújt a tóra.\n\nAz első csúcspont a Monte Brione megmászása. A kanyargós út olajfaligeteken keresztül vezet fel a régi erődökhöz, és Riva és Torbole legikonikusabb panorámáját nyújtja.\n\nVisszatérve a völgybe, a lenyűgöző tóparti vízerőműhöz tekerünk. Ezután a központba, a Piazza III Novembre térre megyünk egy megérdemelt ebédre.\n\nDélután az út enyhén emelkedik a Varone-vízesés felé. A hűvös barlangban a víz látványosan zúdul a mélybe. Visszafelé áthaladunk a Porta San Marco kapun, és kényelmesen begurulunk az óvárosba.",
+        "ro": "Începeți turul cu bicicleta pe promenada pitorească de pe malul lacului, spre est. Drumul este plan și oferă constant noi perspective asupra lacului.\n\nPrimul punct culminant este urcarea pe Monte Brione. Drumul sinuos trece prin livezi de măslini până la vechi fortificații și oferă probabil cea mai iconică panoramă asupra orașelor Riva și Torbole.\n\nReveniți în vale și pedalați spre impresionanta centrală hidroelectrică de pe malul lacului. Apoi, mergeți în centru, în Piazza III Novembre, pentru o masă binemeritată.\n\nDupă-amiaza, traseul urcă ușor spre Cascada Varone. În grota răcoroasă, apa cade spectaculos în adâncuri. La întoarcere, treceți prin Porta San Marco și reveniți relaxat în centrul vechi.",
+        "en": "Start your bike tour on the scenic lakeside promenade heading east. The path is flat and offers constant views of the shimmering water.\n\nThe first highlight is the ascent of Monte Brione. The winding road leads through olive groves up to old fortifications and offers arguably the most iconic panorama of Riva and Torbole.\n\nBack in the valley, cycle to the impressive hydroelectric plant by the lake. Then, head to Piazza III Novembre for a well-deserved lunch break.\n\nIn the afternoon, the route climbs gently towards the Varone Waterfall. Inside the cool cave, the water plunges spectacularly into the depths. On the way back, pass through Porta San Marco and enjoy a relaxed ride back into the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Strada dell'Olio",
+            "tip": "Besuchen Sie einen Olivenbauern am Hang des Monte Brione."
+          },
+          {
+            "name": "Gelateria Flora",
+            "tip": "Riesige Auswahl an hausgemachtem Eis direkt im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strada dell'Olio",
+            "tip": "Látogasson el egy olajfatermesztőhöz a Monte Brione lejtőjén."
+          },
+          {
+            "name": "Gelateria Flora",
+            "tip": "Hatalmas választék házi készítésű fagyikból közvetlenül a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada dell'Olio",
+            "tip": "Vizitați un producător de măsline pe pantele Monte Brione."
+          },
+          {
+            "name": "Gelateria Flora",
+            "tip": "O selecție uriașă de înghețată artizanală chiar în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Strada dell'Olio",
+            "tip": "Visit an olive oil producer on the slopes of Monte Brione."
+          },
+          {
+            "name": "Gelateria Flora",
+            "tip": "Famous for its huge selection of artisanal gelato in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bunker am Monte Brione",
+            "tip": "Stille Geschichte und weiter Blick.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monte Brione bunkerek",
+            "tip": "Csendes történelem és tágas kilátás.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buncărele de pe Monte Brione",
+            "tip": "Istorie tăcută și vedere largă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monte Brione Bunkers",
+            "tip": "Silent history and expansive views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cicli Pederzolli",
+            "tip": "Alles für den Radfahrer und Bike-Verleih."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cicli Pederzolli",
+            "tip": "Minden, ami kerékpár: felszerelés és bérlés."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cicli Pederzolli",
+            "tip": "Totul pentru bicicliști și închirieri de biciclete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cicli Pederzolli",
+            "tip": "One-stop shop for cycling gear and bike rentals."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für den Monte Brione, wenn Sie nicht trainiert sind.",
+          "Die Radwege sind sehr gut ausgeschildert (Garda Trentino Bike).",
+          "Achten Sie auf Fußgänger auf der Uferpromenade.",
+          "Schließen Sie Ihr Rad am Varone Wasserfall gut ab."
+        ],
+        "hu": [
+          "Béreljen e-bike-ot a Monte Brione megmászásához, ha nem edzett.",
+          "A kerékpárutak kiválóan ki vannak táblázva (Garda Trentino Bike).",
+          "Figyeljen a gyalogosokra a tóparti sétányon.",
+          "Zárja le jól a biciklijét a Varone-vízesésnél."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru Monte Brione dacă nu sunteți antrenat.",
+          "Pistele de biciclete sunt foarte bine semnalizate (Garda Trentino Bike).",
+          "Atenție la pietonii de pe promenadă.",
+          "Asigurați-vă bine bicicleta la Cascada Varone."
+        ],
+        "en": [
+          "Rent an e-bike for Monte Brione if you want a more relaxed climb.",
+          "The bike paths are excellently signposted (Garda Trentino Bike).",
+          "Be mindful of pedestrians on the lakeside promenade.",
+          "Lock your bike securely when visiting the Varone Waterfall."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "id": "varone-wasserfall-car",
+          "name": {
+            "de": "Varone Wasserfall",
+            "hu": "Varone vízesés",
+            "ro": "Cascada Varone",
+            "en": "Varone Waterfall"
+          },
+          "coords": [
+            10.8345,
+            45.9112
+          ],
+          "category": "natural features",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Früh morgens ist es hier am ruhigsten.",
+            "hu": "Kora reggel a legnyugodtabb itt.",
+            "ro": "Dimineața devreme este cel mai liniște aici.",
+            "en": "Arrive early to beat the crowds in the caves."
+          }
+        },
+        {
+          "id": "kirche-santa-maria-inviolata-car",
+          "name": {
+            "de": "Kirche Santa Maria Inviolata",
+            "hu": "Santa Maria Inviolata templom",
+            "ro": "Biserica Santa Maria Inviolata",
+            "en": "Church of Santa Maria Inviolata"
+          },
+          "coords": [
+            10.8405,
+            45.8888
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Terme Romane' direkt daneben.",
+            "hu": "Parkoljon a közvetlen mellette lévő 'Terme Romane' parkolóházban.",
+            "ro": "Parcați în parcarea 'Terme Romane' chiar alături.",
+            "en": "Park at the 'Terme Romane' garage right next door."
+          }
+        },
+        {
+          "id": "rocca-di-riva-car",
+          "name": {
+            "de": "Rocca di Riva",
+            "hu": "Rocca di Riva (Vár)",
+            "ro": "Rocca di Riva",
+            "en": "Rocca di Riva"
+          },
+          "coords": [
+            10.8432,
+            45.8837
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentraler Ausgangspunkt für den Stadtspaziergang.",
+            "hu": "Központi kiindulópont a városi sétához.",
+            "ro": "Punct de plecare central pentru plimbarea prin oraș.",
+            "en": "A central starting point for exploring the old town."
+          }
+        },
+        {
+          "id": "piazza-iii-novembre-car",
+          "name": {
+            "de": "Piazza III Novembre",
+            "hu": "Piazza III Novembre",
+            "ro": "Piazza III Novembre",
+            "en": "Piazza III Novembre"
+          },
+          "coords": [
+            10.8414,
+            45.8841
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie das Mittagessen in den historischen Arkaden.",
+            "hu": "Ebédeljen a történelmi árkádok alatt.",
+            "ro": "Bucurați-vă de prânz sub arcadele istorice.",
+            "en": "Enjoy lunch under the historic lakeside arcades."
+          }
+        },
+        {
+          "id": "bastione-von-riva-car",
+          "name": {
+            "de": "Bastione von Riva",
+            "hu": "Bastione (Bástya)",
+            "ro": "Bastione von Riva",
+            "en": "Bastione of Riva"
+          },
+          "coords": [
+            10.8361,
+            45.8858
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:35",
+          "stay_min": 85,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Parkplatz 'Monte Oro' ist der nächste zum Lift.",
+            "hu": "A 'Monte Oro' parkoló van legközelebb a lifthez.",
+            "ro": "Parcarea 'Monte Oro' este cea mai apropiată de lift.",
+            "en": "The 'Monte Oro' parking lot is closest to the funicular."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem den Varone Wasserfall als ersten Stopp des Tages. Die kühle Luft in der Grotte ist besonders am Morgen erfrischend.\n\nFahren Sie dann zurück Richtung Stadtzentrum zur prächtigen Barockkirche Santa Maria Inviolata. Von hier aus ist es nur ein kurzer Sprung zur Rocca di Riva am Seeufer, wo Sie das Auto abstellen und in die Geschichte der Stadt eintauchen können.\n\nNach dem Museumsbesuch schlendern Sie zum Piazza III Novembre. In den lebhaften Gassen der Altstadt finden Sie zahlreiche Restaurants für ein typisch italienisches Mittagessen.\n\nDen Nachmittag krönen Sie mit einer Fahrt (per Schrägaufzug) hinauf zum Bastione. Genießen Sie den Panoramablick über das gesamte Nordufer des Gardasees, bevor Sie entspannt die Heimreise antreten.",
+        "hu": "Autóval kényelmesen elérhetjük a Varone-vízesést, a nap első állomását. A barlang hűvös levegője különösen reggel felfrissítő.\n\nEzután hajtson vissza a városközpont felé a pompás barokk Santa Maria Inviolata templomhoz. Innen csak egy ugrás a tóparti Rocca di Riva vár, ahol leparkolva elmerülhet a város történelmében.\n\nA múzeumlátogatás után sétáljon át a Piazza III Novembre térre. Az óváros nyüzsgő utcáin számos éttermet talál egy tipikus olasz ebédhez.\n\nA délutánt a Bastione bástyához való feljutással koronázhatja meg (üveglifttel). Élvezze a panorámát a Garda-tó egész északi partjára, mielőtt kényelmesen elindulna hazafelé.",
+        "ro": "Cu mașina puteți ajunge confortabil la Cascada Varone, prima oprire a zilei. Aerul răcoros din grotă este deosebit de revigorant dimineața.\n\nConduceți apoi înapoi spre centrul orașului la superba biserică barocă Santa Maria Inviolata. De aici, sunteți foarte aproape de Rocca di Riva de pe malul lacului, unde puteți lăsa mașina pentru a descoperi istoria orașului.\n\nDupă vizitarea muzeului, plimbați-vă spre Piazza III Novembre. Pe străzile animate ale centrului vechi veți găsi numeroase restaurante pentru un prânz tipic italian.\n\nÎncheiați după-amiaza cu o urcare la Bastione (cu liftul panoramic). Bucurați-vă de vederea panoramică asupra întregului mal nordic al Lacului Garda înainte de a porni relaxat spre casă.",
+        "en": "By car, you can easily reach the Varone Waterfall as your first stop of the day. The cool cave air is especially refreshing in the morning.\n\nHead back towards the town center to the magnificent Baroque Church of Santa Maria Inviolata. From here, it's just a short drive to the Rocca di Riva by the lake, where you can park and dive into the town's history.\n\nAfter the museum visit, stroll to Piazza III Novembre. In the lively streets of the old town, you'll find plenty of restaurants for a classic Italian lunch.\n\nCrown your afternoon with a trip up to the Bastione via the panoramic funicular. Enjoy the sweeping views over the entire northern shore of Lake Garda before heading back home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Capanna Grassi",
+            "tip": "Nur 15 Min. Fahrt bergauf für authentische Bergküche."
+          },
+          {
+            "name": "Ristorante Al Volt",
+            "tip": "Gehobene Küche in einem historischen Gewölbe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Capanna Grassi",
+            "tip": "Csak 15 perc autóút felfelé az autentikus hegyi konyháért."
+          },
+          {
+            "name": "Ristorante Al Volt",
+            "tip": "Elegáns étterem egy történelmi boltozat alatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capanna Grassi",
+            "tip": "La doar 15 minute de condus la munte pentru bucătărie autentică."
+          },
+          {
+            "name": "Ristorante Al Volt",
+            "tip": "Bucătărie rafinată într-o locație istorică cu boltă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Capanna Grassi",
+            "tip": "A short 15-min drive uphill for authentic mountain cuisine."
+          },
+          {
+            "name": "Ristorante Al Volt",
+            "tip": "Fine dining in a historic vaulted cellar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lago di Tenno",
+            "tip": "Türkisfarbener Bergsee, 15 Min. Fahrt von Riva.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenno-tó",
+            "tip": "Türkizkék hegyi tó, 15 perc autóval Rivától.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Tenno",
+            "tip": "Lac montan turcoaz, la 15 minute de condus de Riva.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Tenno",
+            "tip": "Turquoise mountain lake, just 15 min drive from Riva.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Blue Garden",
+            "tip": "Modernes Einkaufszentrum mit vielen Parkplätzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Blue Garden",
+            "tip": "Modern bevásárlóközpont tágas parkolóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Blue Garden",
+            "tip": "Centru comercial modern cu multe locuri de parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Blue Garden",
+            "tip": "Modern shopping mall with ample parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplätze im Zentrum sind teuer, nutzen Sie die P+R Plätze am Stadtrand.",
+          "Die ZTL (verkehrsberuhigte Zone) in der Altstadt wird streng überwacht.",
+          "Fahren Sie nach Tenno weiter, wenn Sie noch Zeit haben.",
+          "Im Sommer ist die Parkplatzsuche am Nachmittag schwierig."
+        ],
+        "hu": [
+          "A központi parkolók drágák, használja a város szélén lévő P+R parkolókat.",
+          "Az óvárosi ZTL (korlátozott forgalmú zóna) szigorúan ellenőrzött.",
+          "Hajtson tovább Tenno felé, ha maradt még ideje.",
+          "Nyáron délutánonként nehéz parkolóhelyet találni."
+        ],
+        "ro": [
+          "Parcările din centru sunt scumpe, folosiți parcările P+R de la marginea orașului.",
+          "Zona ZTL (trafic limitat) din centrul vechi este strict monitorizată.",
+          "Continuați drumul spre Tenno dacă mai aveți timp.",
+          "Vara, găsirea unui loc de parcare după-amiaza este dificilă."
+        ],
+        "en": [
+          "Central parking is expensive; try the P+R lots on the outskirts.",
+          "Watch out for ZTL (restricted traffic zones) in the old town center.",
+          "Drive up to the village of Tenno if you have extra time.",
+          "Parking can be very limited on summer afternoons."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "id": "piazza-iii-novembre-transit",
+          "name": {
+            "de": "Piazza III Novembre",
+            "hu": "Piazza III Novembre",
+            "ro": "Piazza III Novembre",
+            "en": "Piazza III Novembre"
+          },
+          "coords": [
+            10.8414,
+            45.8841
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentrale Bushaltestelle 'Viale Dante' ist 5 Min. entfernt.",
+            "hu": "A központi 'Viale Dante' buszmegálló 5 percre van.",
+            "ro": "Stația centrală de autobuz 'Viale Dante' este la 5 minute.",
+            "en": "The central bus stop 'Viale Dante' is a 5-min walk away."
+          }
+        },
+        {
+          "id": "torre-apponale-transit",
+          "name": {
+            "de": "Torre Apponale",
+            "hu": "Torre Apponale",
+            "ro": "Torre Apponale",
+            "en": "Torre Apponale"
+          },
+          "coords": [
+            10.8418,
+            45.8842
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen direkt am Hafen.",
+            "hu": "A város jelképe közvetlenül a kikötőben.",
+            "ro": "Simbolul orașului, situat chiar în port.",
+            "en": "The iconic landmark right by the harbor."
+          }
+        },
+        {
+          "id": "varone-wasserfall-transit",
+          "name": {
+            "de": "Varone Wasserfall",
+            "hu": "Varone vízesés",
+            "ro": "Cascada Varone",
+            "en": "Varone Waterfall"
+          },
+          "coords": [
+            10.8345,
+            45.9112
+          ],
+          "category": "natural features",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Bus Linie 1 oder 2 ab Riva Zentrum.",
+            "hu": "1-es vagy 2-es busz Riva központjából.",
+            "ro": "Autobuzul linia 1 sau 2 din centrul orașului Riva.",
+            "en": "Take bus line 1 or 2 from Riva center."
+          }
+        },
+        {
+          "id": "promenade-am-see-transit",
+          "name": {
+            "de": "Promenade am See",
+            "hu": "Tóparti sétány",
+            "ro": "Promenada de pe malul lacului",
+            "en": "Lakeside Promenade"
+          },
+          "coords": [
+            10.8465,
+            45.8825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Viele Restaurants in der Nähe der Haltestelle 'Porto'.",
+            "hu": "Számos étterem a 'Porto' megálló közelében.",
+            "ro": "Multe restaurante în apropierea stației 'Porto'.",
+            "en": "Plenty of dining options near the 'Porto' bus stop."
+          }
+        },
+        {
+          "id": "bastione-von-riva-transit",
+          "name": {
+            "de": "Bastione von Riva",
+            "hu": "Bastione (Bástya)",
+            "ro": "Bastione von Riva",
+            "en": "Bastione of Riva"
+          },
+          "coords": [
+            10.8361,
+            45.8858
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der Lift ist nur wenige Minuten von der Viale Rovereto entfernt.",
+            "hu": "A lift csak pár percre van a Viale Rovereto-tól.",
+            "ro": "Liftul este la doar câteva minute de Viale Rovereto.",
+            "en": "The funicular is just a few minutes' walk from Viale Rovereto."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Riva entspannt mit den öffentlichen Verkehrsmitteln. Ihr Tag startet am Piazza III Novembre, wo Sie den Torre Apponale besteigen können. Danach nehmen Sie den Lokalbus zum spektakulären Varone Wasserfall etwas außerhalb des Zentrums.\n\nNach der Besichtigung der Grotten bringt Sie der Bus zurück zum Seeufer. Verbringen Sie eine ausgiebige Mittagspause an der Promenade und genießen Sie das mediterrane Flair.\n\nAm späten Nachmittag steuern Sie den Bastione an. Der gläserne Lift ist ein Erlebnis für sich und bietet schon während der Fahrt tolle Ausblicke. Den Tag lassen Sie bei einem Drink über den Dächern von Riva ausklingen, bevor Sie bequem mit dem Bus oder Schiff die Rückreise antreten.",
+        "hu": "Fedezze fel Rivát kényelmesen tömegközlekedéssel. A nap a Piazza III Novembre téren indul, ahol megmászhatja a Torre Apponale tornyot. Ezután helyi busszal utazunk a központon kívül található látványos Varone-vízeséshez.\n\nA barlangok megtekintése után a busz visszavisz a tópartra. Töltsön el egy hosszú ebédszünetet a sétányon, és élvezze a mediterrán hangulatot.\n\nKéső délután a Bastione felé vesszük az irányt. Az üveglift már önmagában is élmény, és menet közben is remek kilátást nyújt. A napot egy itallal zárjuk Riva háztetői felett, mielőtt kényelmesen busszal vagy hajóval indulnánk vissza.",
+        "ro": "Descoperiți Riva relaxat, folosind transportul public. Ziua începe în Piazza III Novembre, unde puteți urca în Torre Apponale. Apoi, luați autobuzul local către spectaculoasa Cascadă Varone, situată puțin în afara centrului.\n\nDupă vizitarea grotelor, autobuzul vă aduce înapoi pe malul lacului. Savurați o pauză lungă de prânz pe promenadă și bucurați-vă de atmosfera mediteraneană.\n\nSpre seară, îndreptați-vă către Bastione. Liftul de sticlă este o experiență în sine și oferă priveliști superbe încă din timpul urcării. Încheiați ziua cu o băutură deasupra acoperișurilor din Riva, înainte de a pleca confortabil cu autobuzul sau cu barca.",
+        "en": "Explore Riva stress-free using public transportation. Your day starts at Piazza III Novembre, where you can climb the Torre Apponale. Then, catch a local bus to the spectacular Varone Waterfall, located just outside the center.\n\nAfter visiting the caves, the bus takes you back to the lakefront. Enjoy a long lunch break on the promenade and soak in the Mediterranean atmosphere.\n\nIn the late afternoon, head to the Bastione. The glass funicular is an experience in itself, offering great views even during the ascent. End your day with a drink overlooking the rooftops of Riva before heading back by bus or boat."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Baita dei Forti",
+            "tip": "Traditionelle Gerichte direkt am Bastione."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baita dei Forti",
+            "tip": "Hagyományos ételek közvetlenül a Bastione-nál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baita dei Forti",
+            "tip": "Preparate tradiționale chiar lângă Bastione."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baita dei Forti",
+            "tip": "Traditional dishes served right next to the Bastione."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schifffahrt nach Limone",
+            "tip": "Entspannung auf dem Wasser.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hajókázás Limonéba",
+            "tip": "Pihenés a vízen.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu barca spre Limone",
+            "tip": "Relaxare pe apă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Boat trip to Limone",
+            "tip": "Pure relaxation on the water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tabaccheria im Zentrum",
+            "tip": "Verkauf von Busfahrkarten und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvárosi dohánybolt",
+            "tip": "Buszjegyek és szuvenírek árusítása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tabaccheria din centru",
+            "tip": "Bilete de autobuz și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Tabaccheria",
+            "tip": "Where to buy bus tickets and local souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Busfahrkarten vorab am Kiosk oder per App (OpenMove).",
+          "Die Schiffe sind eine tolle Alternative zum Bus nach Torbole oder Limone.",
+          "Die Busse sind im Sommer oft voll, planen Sie Pufferzeit ein.",
+          "Sonntags fahren die Busse seltener."
+        ],
+        "hu": [
+          "Vegye meg a buszjegyet előre az újságosnál vagy appon (OpenMove).",
+          "A hajó remek alternatíva a busz helyett Torbole vagy Limone felé.",
+          "A buszok nyáron gyakran telítettek, számoljon rá több időt.",
+          "Vasárnap ritkábban járnak a buszok."
+        ],
+        "ro": [
+          "Cumpărați biletele de autobuz în avans de la chioșcuri sau prin aplicație (OpenMove).",
+          "Vapoarele sunt o alternativă excelentă la autobuz pentru Torbole sau Limone.",
+          "Autobuzele sunt adesea pline vara, deci planificați timp suplimentar.",
+          "Duminica, autobuzele circulă mai rar."
+        ],
+        "en": [
+          "Buy your bus tickets in advance at a kiosk or via the OpenMove app.",
+          "Ferries are a scenic alternative to buses for reaching Torbole or Limone.",
+          "Buses can be crowded in summer; allow for some extra travel time.",
+          "Be aware that bus services are less frequent on Sundays."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-32",
+    "lon": 10.8401,
+    "lat": 45.8869,
+    "transit_official": "https://www.trentinotrasporti.it/en",
+    "transit_app": "https://www.trentinotrasporti.it/en",
+    "bike_share": null,
+    "city_card": "https://www.gardatrentino.it/en/guest-card/",
+    "events": "https://www.gardatrentino.it/en/events/",
+    "tourism_office": "https://www.gardatrentino.it/en/",
+    "webcam": "https://www.gardatrentino.it/en/webcam/",
+    "restaurants_booking": null,
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Sehr deutsch-freundlich, viele Schilder zweisprachig.",
+      "hu": "Nemet turistakedvenc, sok hely beszel nemetul.",
+      "ro": "Foarte prietenos cu turistii germani si austrieci.",
+      "en": "German widely spoken due to Austrian/German tourism."
+    },
+    "best_time": {
+      "de": "April-Juni fur Windsurfen, Juli-August voll.",
+      "hu": "Aprilis-junius szelvitorlazasra ideal, nyaron zsufolt.",
+      "ro": "Aprilie-iunie pentru windsurf, vara aglomerat.",
+      "en": "April-June best for windsurfing, summer crowded."
+    },
+    "warnings": {
+      "de": "Ora-Wind nachmittags stark, Vorsicht am See.",
+      "hu": "Delutani Ora szel eros, ovatosan a tonal.",
+      "ro": "Vantul Ora puternic dupa-amiaza pe lac.",
+      "en": "Strong Ora wind afternoons, caution on lake."
+    }
+  }
+}

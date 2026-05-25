@@ -1,0 +1,1085 @@
+{
+  "city_id": "agrigento",
+  "anchor": {
+    "name": "Agrigento",
+    "coords": [
+      13.5765,
+      37.311
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale von San Gerlando",
+            "hu": "San Gerlando-székesegyház",
+            "ro": "Catedrala San Gerlando",
+            "en": "Cattedrale di San Gerlando"
+          },
+          "coords": [
+            13.5761,
+            37.3132
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf das akustische Phänomen im Kirchenschiff.",
+            "hu": "Figyelje meg az akusztikai jelenséget a főhajóban.",
+            "ro": "Observați fenomenul acustic din nava centrală.",
+            "en": "Look out for the acoustic phenomenon in the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria dei Greci",
+            "hu": "Santa Maria dei Greci templom",
+            "ro": "Biserica Santa Maria dei Greci",
+            "en": "Santa Maria dei Greci"
+          },
+          "coords": [
+            13.5785,
+            37.3125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Sehen Sie die antiken Tempelfundamente unter dem Glasboden.",
+            "hu": "Nézze meg az antik templomalapokat az üvegpadló alatt.",
+            "ro": "Vedeți fundațiile templului antic sub podeaua de sticlă.",
+            "en": "See the ancient temple foundations under the glass floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Santo Spirito",
+            "hu": "Santo Spirito kolostor",
+            "ro": "Mănăstirea Santo Spirito",
+            "en": "Monastero del Santo Spirito"
+          },
+          "coords": [
+            13.5822,
+            37.3118
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kaufen Sie das berühmte Mandelgebäck der Nonnen.",
+            "hu": "Vásároljon a nácák híres mandulás süteményéből.",
+            "ro": "Cumpărați faimoasele prăjituri cu migdale ale călugărițelor.",
+            "en": "Buy the famous almond pastries made by the nuns."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Museo Archeologico"
+          },
+          "coords": [
+            13.5895,
+            37.2975
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Der Telamon ist das absolute Highlight der Sammlung.",
+            "hu": "A Telamon a gyűjtemény abszolút fénypontja.",
+            "ro": "Telamonul este piesa centrală a colecției.",
+            "en": "The Telamon is the absolute highlight of the collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Hellenistisch-Römisches Viertel",
+            "hu": "Hellénisztikus-római negyed",
+            "ro": "Cartierul Elenistic-Roman",
+            "en": "Quartiere Ellenistico-Romano"
+          },
+          "coords": [
+            13.5905,
+            37.2985
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gut erhaltenen Mosaike in den Häusern.",
+            "hu": "Csodálja meg a házak jól megőrzött mozaikjait.",
+            "ro": "Admirați mozaicurile bine conservate din case.",
+            "en": "Admire the well-preserved mosaics in the houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempel der Concordia",
+            "hu": "Concordia-templom",
+            "ro": "Templul Concordiei",
+            "en": "Tempio della Concordia"
+          },
+          "coords": [
+            13.5921,
+            37.2897
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang vor der perfekten Silhouette.",
+            "hu": "Élvezze a naplementét a tökéletes sziluett előtt.",
+            "ro": "Bucurați-vă de apus în fața siluetei perfecte.",
+            "en": "Enjoy the sunset in front of the perfect silhouette."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt in der verwinkelten Altstadt auf dem Hügel, wo normannische Pracht auf antike Fundamente trifft. Nach dem Besuch der Kathedrale und des Klosters spazieren Sie hinunter zur archäologischen Zone. Der Nachmittag gehört den beeindruckenden Funden im Museum und dem römischen Stadtviertel. Den krönenden Abschluss bildet der Concordia-Tempel im warmen Abendlicht.",
+        "hu": "A nap az óváros kanyargós utcáin kezdődik, ahol a normann pompa találkozik az antik alapokkal. A székesegyház és a kolostor megtekintése után lesétálunk a régészeti zónához. A délután a múzeum lenyűgöző leleteié és a római negyedé. A napot a Concordia-templom koronázza meg az esti súrolófényben.",
+        "ro": "Ziua începe în centrul vechi sinuos, unde splendoarea normandă întâlnește fundațiile antice. După vizitarea catedralei și a mănăstirii, coborâți spre zona arheologică. După-amiaza este dedicată descoperirilor impresionante din muzeu și cartierului roman. Finalul perfect este Templul Concordiei în lumina caldă a serii.",
+        "en": "Your day begins in the winding old town on the hill, where Norman splendor meets ancient foundations. After visiting the cathedral and the monastery, walk down to the archaeological zone. The afternoon belongs to the impressive finds in the museum and the Roman quarter. The grand finale is the Temple of Concord in the warm evening light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cavatelli all'agrigentina",
+            "tip": "Hausgemachte Pasta mit Tomaten, Auberginen und gesalzenem Ricotta."
+          },
+          {
+            "name": "La Passeggiata",
+            "tip": "Perfekter Ort für ein traditionelles Abendessen in der Via Atenea."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cavatelli all'agrigentina",
+            "tip": "Házias tészta paradicsommal, padlizsánnal és sós ricottával."
+          },
+          {
+            "name": "La Passeggiata",
+            "tip": "Tökéletes hely egy hagyományos vacsorához a Via Ateneán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cavatelli all'agrigentina",
+            "tip": "Paste de casă cu roșii, vinete și ricotta sărată."
+          },
+          {
+            "name": "La Passeggiata",
+            "tip": "Locul perfect pentru o cină tradițională pe Via Atenea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cavatelli all'agrigentina",
+            "tip": "Homemade pasta with tomatoes, eggplant, and salted ricotta."
+          },
+          {
+            "name": "La Passeggiata",
+            "tip": "Perfect spot for a traditional dinner in Via Atenea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rupe Atenea",
+            "tip": "Ein ruhiger Aussichtspunkt hoch über dem Meer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Klostergarten",
+            "tip": "Stille Oase inmitten des historischen Zentrums.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rupe Atenea",
+            "tip": "Csendes kilátópont magasan a tenger felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kolostorkert",
+            "tip": "Csendes oázis a történelmi központ közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rupe Atenea",
+            "tip": "Un punct de observație liniștit deasupra mării.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Oază de liniște în mijlocul centrului istoric.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rupe Atenea",
+            "tip": "A quiet viewpoint high above the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Monastery Garden",
+            "tip": "Quiet oasis in the heart of the historic center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Atenea",
+            "tip": "Die Haupteinkaufsstraße mit Mode und Kunsthandwerk."
+          },
+          {
+            "name": "Mandeltorte",
+            "tip": "Spezialität aus dem Kloster Santo Spirito."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Atenea",
+            "tip": "A fő bevásárlóutca divattal és kézműves termékekkel."
+          },
+          {
+            "name": "Mandulatorta",
+            "tip": "A Santo Spirito kolostor specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Atenea",
+            "tip": "Principala stradă comercială cu modă și artizanat."
+          },
+          {
+            "name": "Tort de migdale",
+            "tip": "Specialitate de la mănăstirea Santo Spirito."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Atenea",
+            "tip": "The main shopping street with fashion and crafts."
+          },
+          {
+            "name": "Almond cake",
+            "tip": "Specialty from the Monastero del Santo Spirito."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt steile Gassen hat.",
+          "Besuchen Sie das Tal der Tempel am späten Nachmittag für besseres Licht.",
+          "Die Via Atenea ist die Lebensader für den abendlichen Spaziergang.",
+          "Wasserflaschen können an öffentlichen Brunnen aufgefüllt werden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert az óvárosban meredek utcák vannak.",
+          "A Templomok völgyét késő délután látogassa a szebb fények miatt.",
+          "A Via Atenea az esti korzózás fő helyszíne.",
+          "A vizespalackokat közkutaknál újra lehet tölteni."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece centrul vechi are străzi abrupte.",
+          "Vizitați Valea Templatelor după-amiaza târziu pentru lumină mai bună.",
+          "Via Atenea este artera principală pentru plimbarea de seară.",
+          "Sticlele de apă pot fi umplute la cișmelele publice."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old town has steep alleys.",
+          "Visit the Valley of the Temples in the late afternoon for better light.",
+          "Via Atenea is the lifeline for the evening stroll.",
+          "Water bottles can be refilled at public fountains."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Juno-Tempel",
+            "hu": "Héra-templom (Giunone)",
+            "ro": "Templul Iunonei",
+            "en": "Tempio di Giunone"
+          },
+          "coords": [
+            13.6001,
+            37.2905
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Startpunkt der Tempelstraße mit Panoramablick.",
+            "hu": "A templomok útjának kezdőpontja panorámás kilátással.",
+            "ro": "Punctul de plecare al drumului templelor cu vedere panoramică.",
+            "en": "Starting point of the temple road with panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempel der Concordia",
+            "hu": "Concordia-templom",
+            "ro": "Templul Concordiei",
+            "en": "Tempio della Concordia"
+          },
+          "coords": [
+            13.5921,
+            37.2897
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Einer der am besten erhaltenen griechischen Tempel weltweit.",
+            "hu": "A világ egyik legjobb állapotban fennmaradt görög temploma.",
+            "ro": "Unul dintre cele mai bine conservate temple grecești din lume.",
+            "en": "One of the best-preserved Greek temples in the world."
+          }
+        },
+        {
+          "name": {
+            "de": "Kolymbethra-Garten",
+            "hu": "Kolymbethra-kert",
+            "ro": "Grădina Kolymbethra",
+            "en": "Giardino della Kolymbethra"
+          },
+          "coords": [
+            13.5855,
+            37.2895
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein schattiges Paradies mit Orangen- und Zitronenhainen.",
+            "hu": "Árnyas paradicsom narancs- és citromligetekkel.",
+            "ro": "Un paradis umbros cu livezi de portocali și lămâi.",
+            "en": "A shaded paradise with orange and lemon groves."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Museo Archeologico"
+          },
+          "coords": [
+            13.5895,
+            37.2975
+          ],
+          "category": "museums",
+          "arrive_at": "14:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher am Museumseingang.",
+            "hu": "Parkolja le biciklijét biztonságosan a múzeum bejáratánál.",
+            "ro": "Parcați bicicleta în siguranță la intrarea muzeului.",
+            "en": "Park your bike safely at the museum entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrradtour verbindet die antiken Wunder in einem entspannten Tempo. Sie beginnen am Juno-Tempel und fahren entlang der Tempelroute bis zum Kolymbethra-Garten, wo Sie die Mittagshitze unter Zitrusbäumen verbringen können. Danach führt die Route leicht bergauf zum archäologischen Museum, um die Schätze der Stadt im Detail zu erkunden.",
+        "hu": "A biciklitúra nyugodt tempóban köti össze az antik csodákat. A Héra-templomnál kezdünk, majd a templomok útján haladunk a Kolymbethra-kertig, ahol a déli hőséget a citrusfák alatt tölthetjük. Ezután az út enyhén emelkedik a régészeti múzeumig, hogy részletesen is megismerjük a város kincseit.",
+        "ro": "Turul cu bicicleta conectează minunile antice într-un ritm relaxat. Începeți la Templul Iunonei și pedalați de-a lungul rutei templelor până la Grădina Kolymbethra, unde puteți petrece canicula de la prânz sub citri. Ulterior, ruta urcă ușor spre muzeul arheologic pentru a explora în detaliu comorile orașului.",
+        "en": "The bike tour connects the ancient wonders at a relaxed pace. You start at the Temple of Juno and ride along the temple route to the Kolymbethra Garden, where you can spend the midday heat under citrus trees. Then, the route leads slightly uphill to the archaeological museum to explore the city's treasures in detail."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Granita al limone",
+            "tip": "Erfrischende Pause während der Radtour."
+          },
+          {
+            "name": "Arancine siciliane",
+            "tip": "Perfekter Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citromos granita",
+            "tip": "Frissítő szünet a biciklizés közben."
+          },
+          {
+            "name": "Arancine",
+            "tip": "Tökéletes snack útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Granita de lămâie",
+            "tip": "Pauză răcoritoare în timpul plimbării."
+          },
+          {
+            "name": "Arancine siciliene",
+            "tip": "Gustarea perfectă pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lemon granita",
+            "tip": "Refreshing break during the bike ride."
+          },
+          {
+            "name": "Sicilian Arancine",
+            "tip": "Perfect snack for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tempel von Äskulap",
+            "tip": "Ein etwas abseits gelegener, ruhiger Ort.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aszklépiosz-templom",
+            "tip": "Egy kissé félreeső, csendes hely.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Templul lui Esculap",
+            "tip": "Un loc liniștit, puțin mai retras.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Temple of Asclepius",
+            "tip": "A slightly secluded, quiet spot.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Aus der Region des Tals der Tempel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A Templomok völgyének környékéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Din regiunea Văii Templatelor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local honey",
+            "tip": "From the Valley of the Temples region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike, da es zurück zur Stadt bergauf geht.",
+          "Die Tempelroute ist tagsüber sehr sonnig, nutzen Sie Sonnenschutz.",
+          "Fahrräder müssen in den archäologischen Bereichen geschoben werden.",
+          "Ausreichend Wasser ist für diese Tour unerlässlich."
+        ],
+        "hu": [
+          "Béreljen elektromos kerékpárt, mert visszafelé a városba emelkedő várja.",
+          "A templomok útja napközben nagyon napos, használjon fényvédőt.",
+          "A régészeti területeken belül tolni kell a kerékpárt.",
+          "A bőséges vízkészlet elengedhetetlen ehhez a túrához."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică, deoarece drumul înapoi spre oraș este în pantă.",
+          "Ruta templelor este foarte însorită în timpul zilei, folosiți protecție solară.",
+          "Bicicletele trebuie împinse în interiorul zonelor arheologice.",
+          "Apa din abundență este esențială pentru acest tur."
+        ],
+        "en": [
+          "Rent an e-bike as it's uphill going back to the city.",
+          "The temple route is very sunny during the day, use sunscreen.",
+          "Bicycles must be pushed inside the archaeological areas.",
+          "Sufficient water is essential for this tour."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Juno-Tempel",
+            "hu": "Héra-templom (Giunone)",
+            "ro": "Templul Iunonei",
+            "en": "Tempio di Giunone"
+          },
+          "coords": [
+            13.6001,
+            37.2905
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Osteingang für den besten Zugang.",
+            "hu": "Parkoljon a keleti bejáratnál a legjobb megközelítéshez.",
+            "ro": "Parcați la intrarea de est pentru cel mai bun acces.",
+            "en": "Park at the east entrance for the best access."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempel der Concordia",
+            "hu": "Concordia-templom",
+            "ro": "Templul Concordiei",
+            "en": "Tempio della Concordia"
+          },
+          "coords": [
+            13.5921,
+            37.2897
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen von Agrigento, perfekt erhalten.",
+            "hu": "Agrigento jelképe, tökéletesen megőrizve.",
+            "ro": "Simbolul Agrigento, conservat perfect.",
+            "en": "The symbol of Agrigento, perfectly preserved."
+          }
+        },
+        {
+          "name": {
+            "de": "Kolymbethra-Garten",
+            "hu": "Kolymbethra-kert",
+            "ro": "Grădina Kolymbethra",
+            "en": "Giardino della Kolymbethra"
+          },
+          "coords": [
+            13.5855,
+            37.2895
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein Picknickplatz unter jahrhundertealten Bäumen.",
+            "hu": "Piknikezőhely évszázados fák alatt.",
+            "ro": "Loc de picnic sub arbori seculari.",
+            "en": "A picnic spot under century-old trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Geburtshaus von Luigi Pirandello",
+            "hu": "Luigi Pirandello szülőháza",
+            "ro": "Casa natală a lui Luigi Pirandello",
+            "en": "Casa Natale di Luigi Pirandello"
+          },
+          "coords": [
+            13.5585,
+            37.2845
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Grab des Autors unter der Kiefer.",
+            "hu": "Látogassa meg az író sírját a fenyőfa alatt.",
+            "ro": "Vizitați mormântul autorului sub pin.",
+            "en": "Visit the author's grave under the pine tree."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von San Gerlando",
+            "hu": "San Gerlando-székesegyház",
+            "ro": "Catedrala San Gerlando",
+            "en": "Cattedrale di San Gerlando"
+          },
+          "coords": [
+            13.5761,
+            37.3132
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Duomo für den Altstadtbummel.",
+            "hu": "Parkoljon a dóm közelében az óvárosi sétához.",
+            "ro": "Parcați lângă Dom pentru plimbarea în centrul vechi.",
+            "en": "Park near the Duomo for the old town stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die weiter entfernten Highlights. Der Vormittag ist dem Tal der Tempel gewidmet, beginnend am höchsten Punkt. Nach einer erholsamen Pause im Kolymbethra-Garten fahren Sie zur Villa des Nobelpreisträgers Pirandello in Kaos. Den Tag beenden Sie oben in der historischen Stadt bei der imposanten Kathedrale.",
+        "hu": "Autóval kényelmesen elérhetjük a távolabb eső látnivalókat is. A délelőttöt a Templomok völgyének szenteljük, a legmagasabb ponttól indulva. A Kolymbethra-kertben tartott pihenő után a Nobel-díjas Pirandello szülőházához hajtunk Kaosba. A napot a történelmi város felső részén, az impozáns székesegyháznál zárjuk.",
+        "ro": "Cu mașina ajungeți confortabil la obiectivele mai îndepărtate. Dimineața este dedicată Văii Templatelor, începând din cel mai înalt punct. După o pauză relaxantă în Grădina Kolymbethra, mergeți la vila premiatului Nobel, Pirandello, în Kaos. Încheiați ziua în orașul istoric, la catedrala impunătoare.",
+        "en": "By car, you can easily reach the more distant highlights. The morning is dedicated to the Valley of the Temples, starting at the highest point. After a restful break in the Kolymbethra Garden, drive to the villa of Nobel laureate Pirandello in Kaos. End the day up in the historical city at the imposing cathedral."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasta con le sarde",
+            "tip": "Sizilianischer Klassiker mit Sardinen und Fenchel."
+          },
+          {
+            "name": "Trattoria dei Templi",
+            "tip": "Hervorragende Küche direkt bei den archäologischen Stätten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasta con le sarde",
+            "tip": "Szicíliai klasszikus szardíniával és édesköménnyel."
+          },
+          {
+            "name": "Trattoria dei Templi",
+            "tip": "Kiváló konyha közvetlenül a régészeti lelőhelyeknél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasta con le sarde",
+            "tip": "Clasic sicilian cu sardine și fenicul."
+          },
+          {
+            "name": "Trattoria dei Templi",
+            "tip": "Bucătărie excelentă chiar lângă siturile arheologice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasta con le sarde",
+            "tip": "Sicilian classic with sardines and fennel."
+          },
+          {
+            "name": "Trattoria dei Templi",
+            "tip": "Excellent cuisine right by the archaeological sites."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Leone Beach",
+            "tip": "Nur 10 Min. mit dem Auto, ideal für eine Pause am Meer.",
+            "emoji": "🏖️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Leone strand",
+            "tip": "Csak 10 perc autóval, ideális egy tengerparti pihenőhöz.",
+            "emoji": "🏖️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja San Leone",
+            "tip": "La doar 10 min. cu mașina, ideală pentru o pauză la mare.",
+            "emoji": "🏖️"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Leone Beach",
+            "tip": "Only 10 min by car, ideal for a seaside break.",
+            "emoji": "🏖️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pistazienprodukte",
+            "tip": "Siziliens grünes Gold in Gläsern oder Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pisztácia termékek",
+            "tip": "Szicília zöld aranya üvegben vagy süteményben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse cu fistic",
+            "tip": "Aurul verde al Siciliei în borcane sau prăjituri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pistachio products",
+            "tip": "Sicily's green gold in jars or pastries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die bewachten Parkplätze an den Eingängen zum Tal der Tempel.",
+          "Ein Mietwagen ermöglicht einen Abstecher zur Scala dei Turchi (15 km).",
+          "In der Altstadt ist das Fahren schwierig, parken Sie außerhalb der ZTL.",
+          "Kaufen Sie das Kombiticket für Tal und Museum im Voraus."
+        ],
+        "hu": [
+          "Használja az őrzött parkolókat a Templomok völgye bejáratainál.",
+          "A bérautó lehetővé teszi a közeli Scala dei Turchi felkeresését (15 km).",
+          "Az óvárosban nehéz a vezetés, parkoljon a ZTL zónán kívül.",
+          "Vegye meg előre a kombinált jegyet a völgybe és a múzeumba."
+        ],
+        "ro": [
+          "Folosiți parcările păzite de la intrările în Valea Templatelor.",
+          "O mașină închiriată permite o excursie la Scala dei Turchi (15 km).",
+          "Condusul în centrul vechi este dificil, parcați în afara zonei ZTL.",
+          "Cumpărați biletul combinat pentru Vale și Muzeu în avans."
+        ],
+        "en": [
+          "Use the guarded parking lots at the entrances to the Valley of the Temples.",
+          "A rental car allows a detour to Scala dei Turchi (15 km away).",
+          "Driving in the old town is difficult; park outside the ZTL zone.",
+          "Buy the combined ticket for the Valley and Museum in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale von San Gerlando",
+            "hu": "San Gerlando-székesegyház",
+            "ro": "Catedrala San Gerlando",
+            "en": "Cattedrale di San Gerlando"
+          },
+          "coords": [
+            13.5761,
+            37.3132
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Vom Bahnhof nehmen Sie den Bus Linie 1 nach oben.",
+            "hu": "A vasútállomástól menjen az 1-es busszal felfelé.",
+            "ro": "De la gară, luați autobuzul linia 1 spre partea de sus.",
+            "en": "Take bus line 1 from the station up to the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Santo Spirito",
+            "hu": "Santo Spirito kolostor",
+            "ro": "Mănăstirea Santo Spirito",
+            "en": "Monastero del Santo Spirito"
+          },
+          "coords": [
+            13.5822,
+            37.3118
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang von der Bushaltestelle in der Altstadt.",
+            "hu": "Csak rövid séta az óvárosi buszmegállótól.",
+            "ro": "O scurtă plimbare de la stația de autobuz din centrul vechi.",
+            "en": "Just a short walk from the bus stop in the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Museo Archeologico"
+          },
+          "coords": [
+            13.5895,
+            37.2975
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die Linien 1, 2 und 3 halten direkt am Museum.",
+            "hu": "Az 1-es, 2-es és 3-as buszok közvetlenül a múzeumnál állnak meg.",
+            "ro": "Liniile 1, 2 și 3 opresc chiar la muzeu.",
+            "en": "Lines 1, 2, and 3 stop right at the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempel der Concordia",
+            "hu": "Concordia-templom",
+            "ro": "Templul Concordiei",
+            "en": "Tempio della Concordia"
+          },
+          "coords": [
+            13.5921,
+            37.2897
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Vom Museumseingang ist es ein kurzer Spaziergang ins Tal.",
+            "hu": "A múzeum bejáratától rövid séta a völgybe.",
+            "ro": "De la intrarea muzeului este o scurtă plimbare în Vale.",
+            "en": "It's a short walk into the valley from the museum entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Juno-Tempel",
+            "hu": "Héra-templom (Giunone)",
+            "ro": "Templul Iunonei",
+            "en": "Tempio di Giunone"
+          },
+          "coords": [
+            13.6001,
+            37.2905
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Bus fährt regelmäßig vom Osteingang zurück zum Bahnhof.",
+            "hu": "A busz rendszeresen jár vissza a keleti bejárattól az állomásra.",
+            "ro": "Autobuzul circulă regulat de la intrarea de est înapoi la gară.",
+            "en": "The bus runs regularly from the east entrance back to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das städtische Bussystem verbindet den oberen Teil der Stadt mit der archäologischen Zone. Nach der Besichtigung der religiösen Schätze in der Altstadt bringt Sie der Bus hinunter zum Museum. Von dort aus erkunden Sie das Tal der Tempel zu Fuß bis zum Juno-Tempel, von wo aus Sie bequem wieder ins Zentrum zurückkehren können.",
+        "hu": "A városi buszhálózat összeköti a felső várost a régészeti zónával. Az óváros vallási kincseinek megtekintése után busszal megyünk le a múzeumhoz. Onnan gyalog fedezzük fel a Templomok völgyét egészen a Héra-templomig, ahonnan kényelmesen visszatérhetünk a központba.",
+        "ro": "Sistemul municipal de autobuze conectează partea de sus a orașului cu zona arheologică. După vizitarea comorilor religioase din centrul vechi, autobuzul vă duce jos la muzeu. De acolo, explorați Valea Templatelor la pas până la Templul Iunonei, de unde vă puteți întoarce confortabil în centru.",
+        "en": "The municipal bus system connects the upper part of the city with the archaeological zone. After seeing the religious treasures in the old town, the bus takes you down to the museum. From there, you explore the Valley of the Temples on foot as far as the Temple of Juno, from where you can easily return to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cannoli siciliani",
+            "tip": "Süße Belohnung in einer Konditorei am Piazzale Roma."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cannoli",
+            "tip": "Édes jutalom egy cukrászdában a Piazzale Románál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cannoli sicilieni",
+            "tip": "Răsfăț dulce la o patiserie din Piazzale Roma."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sicilian Cannoli",
+            "tip": "Sweet reward at a pastry shop near Piazzale Roma."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardino botanico",
+            "tip": "Nahe der Bushaltestelle im Zentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus kert",
+            "tip": "A központi buszmegálló közelében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina botanică",
+            "tip": "Aproape de stația de autobuz din centru.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "Near the central bus stop.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik",
+            "tip": "Handbemalte Stücke in den Läden der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámia",
+            "tip": "Kézzel festett darabok az óvárosi boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică",
+            "tip": "Piese pictate manual în magazinele din centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramics",
+            "tip": "Hand-painted pieces in the shops of the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets vorab in Tabakläden (Tabacchi) oder Kiosken.",
+          "Die Linien 1, 2 und 3 sind am nützlichsten für Touristen.",
+          "Sonntags verkehren die Busse seltener, prüfen Sie den Fahrplan.",
+          "Die Hauptbushaltestelle ist am Piazzale Rosselli."
+        ],
+        "hu": [
+          "Vásároljon buszjegyet előre trafikokban (Tabacchi) vagy újságárusoknál.",
+          "Az 1-es, 2-es és 3-as vonalak a leghasznosabbak a turisták számára.",
+          "Vasárnap ritkábban járnak a buszok, ellenőrizze a menetrendet.",
+          "A fő buszmegálló a Piazzale Rosselli téren található."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz în avans de la chioșcurile de ziare sau Tabacchi.",
+          "Liniile 1, 2 și 3 sunt cele mai utile pentru turiști.",
+          "Duminica autobuzele circulă mai rar, verificați orarul.",
+          "Stația principală de autobuz este în Piazzale Rosselli."
+        ],
+        "en": [
+          "Buy bus tickets in advance at tobacco shops (Tabacchi) or kiosks.",
+          "Lines 1, 2, and 3 are the most useful for tourists.",
+          "Buses run less frequently on Sundays, so check the timetable.",
+          "The main bus hub is at Piazzale Rosselli."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-82",
+    "lon": 13.5765,
+    "lat": 37.311,
+    "transit_official": "https://www.trasportiurbaniagrigento.it/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Agrigento",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.agrigentoturismo.it/eventi/",
+    "tourism_office": "https://www.agrigentoturismo.it/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/sicilia/agrigento.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/agrigento-c247054",
+    "museum_tickets": "https://www.parcovalledeitempli.it/biglietti/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch; im Parco Valle dei Templi gibt es mehrsprachige Audioguides.",
+      "hu": "Olaszul beszelnek; a Templomok volgyeben tobbnyelvu audio guide elerheto.",
+      "ro": "Italiana; in Valea Templelor exista audioghiduri multilingve.",
+      "en": "Italian is local; the Valley of the Temples offers multilingual audio guides."
+    },
+    "best_time": {
+      "de": "Maerz bis Mai (Mandelbluete im Februar) und Oktober fuer angenehme Tempelbesuche.",
+      "hu": "Marcius-majus (februari mandulavirag fesztival) es oktober ideje a templomokhoz.",
+      "ro": "Martie-mai (festivalul florii de migdal in februarie) si octombrie pentru temple.",
+      "en": "March-May (almond blossom festival in February) and October suit the temple visit."
+    },
+    "warnings": {
+      "de": "Im Sommer extreme Hitze im Tal; Besuch frueh morgens oder abends, Wasser mitbringen.",
+      "hu": "Nyaron extrem hoseg a volgyben; latogass kora reggel vagy estefele, vigy vizet.",
+      "ro": "Vara este caniculara in vale; viziteaza dimineata devreme sau seara, ia apa.",
+      "en": "Summer heat in the valley is extreme; visit early morning or late afternoon with water."
+    }
+  }
+}

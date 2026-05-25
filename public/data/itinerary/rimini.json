@@ -1,0 +1,1083 @@
+{
+  "city_id": "rimini",
+  "anchor": {
+    "name": "Piazza Cavour",
+    "coords": [
+      12.5683,
+      44.0594
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tiberiusbrücke",
+            "hu": "Tiberius-híd",
+            "ro": "Podul lui Tiberiu",
+            "en": "Tiberius Bridge"
+          },
+          "coords": [
+            12.5645,
+            44.0628
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gehen Sie ins Borgo San Giuliano.",
+            "hu": "Sétálj át a Borgo San Giuliano negyedbe.",
+            "ro": "Mergeți în cartierul Borgo San Giuliano.",
+            "en": "Walk into the Borgo San Giuliano district."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Cavour",
+            "hu": "Piazza Cavour",
+            "ro": "Piazza Cavour",
+            "en": "Piazza Cavour"
+          },
+          "coords": [
+            12.5683,
+            44.0594
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den alten Fischmarkt.",
+            "hu": "Nézd meg a régi halpiacot.",
+            "ro": "Vizitați vechea piață de pește.",
+            "en": "Visit the old fish market."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempio Malatestiano",
+            "hu": "Malatesta-szentély",
+            "ro": "Tempio Malatestiano",
+            "en": "Tempio Malatestiano"
+          },
+          "coords": [
+            12.5714,
+            44.0592
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Kruzifix von Giotto.",
+            "hu": "Csodáld meg Giotto feszületét.",
+            "ro": "Admirați crucifixul lui Giotto.",
+            "en": "Admire the crucifix by Giotto."
+          }
+        },
+        {
+          "name": {
+            "de": "Augustusbogen",
+            "hu": "Augustus diadalíve",
+            "ro": "Arcul lui Augustus",
+            "en": "Arch of Augustus"
+          },
+          "coords": [
+            12.5719,
+            44.0569
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Das älteste römische Tor Italiens.",
+            "hu": "Olaszország legrégebbi római kapuja.",
+            "ro": "Cea mai veche poartă romană din Italia.",
+            "en": "The oldest Roman gate in Italy."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            12.5695,
+            44.0585
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Probieren Sie eine echte Piadina.",
+            "hu": "Kóstolj meg egy igazi piadinát.",
+            "ro": "Încercați o piadina autentică.",
+            "en": "Try an authentic piadina."
+          }
+        },
+        {
+          "name": {
+            "de": "Federico Fellini Park",
+            "hu": "Federico Fellini park",
+            "ro": "Parcul Federico Fellini",
+            "en": "Federico Fellini Park"
+          },
+          "coords": [
+            12.5805,
+            44.0685
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Perfekt für ein Picknick im Schatten.",
+            "hu": "Tökéletes egy árnyékos piknikhez.",
+            "ro": "Perfect pentru un picnic la umbră.",
+            "en": "Perfect for a picnic in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Centro",
+            "hu": "Marina Centro",
+            "ro": "Marina Centro",
+            "en": "Marina Centro"
+          },
+          "coords": [
+            12.5845,
+            44.0725
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spaziergang am Wasser zum Sonnenuntergang.",
+            "hu": "Séta a parton naplementekor.",
+            "ro": "Plimbare pe malul mării la apus.",
+            "en": "Stroll along the waterfront at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der historischen Tiberiusbrücke und erkunden Sie die Wurzeln Riminis. Der Vormittag ist der beeindruckenden Renaissance-Architektur des Tempio Malatestiano gewidmet. Genießen Sie mittags die lokale Gastronomie rund um die Piazza Cavour. Den Nachmittag verbringen Sie entspannt im Grünen des Fellini-Parks, bevor Sie den Tag an der lebhaften Marina Centro am Meer ausklingen lassen.",
+        "hu": "Kezdje a napot a történelmi Tiberius-hídnál, felfedezve Rimini gyökereit. A délelőtt a Malatesta-szentély lenyűgöző reneszánsz építészetének szentelt. Ebédre élvezze a helyi gasztronómiát a Piazza Cavour környékén. A délutánt töltse pihenéssel a Fellini park zöldjében, mielőtt a napot a tengerparti Marina Centro nyüzsgő sétányán fejezné be.",
+        "ro": "Începeți ziua la istoricul Pod al lui Tiberiu, explorând rădăcinile orașului Rimini. Dimineața este dedicată arhitecturii renascentiste impresionante a Templului Malatestiano. La prânz, savurați gastronomia locală în jurul Pieței Cavour. Petreceți după-amiaza relaxându-vă în verdeața Parcului Fellini, înainte de a încheia ziua pe faleza animată din Marina Centro.",
+        "en": "Start your day at the historic Tiberius Bridge, exploring Rimini's roots. The morning is dedicated to the impressive Renaissance architecture of the Tempio Malatestiano. At lunch, enjoy local gastronomy around Piazza Cavour. Spend the afternoon relaxing in the greenery of Fellini Park before ending the day on the lively waterfront of Marina Centro."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Piadina Romagnola",
+            "tip": "Dünnes Fladenbrot mit Schinken und Squacquerone-Käse."
+          },
+          {
+            "name": "Cappelletti in Brodo",
+            "tip": "Hausgemachte Teigtaschen in Fleischbrühe."
+          },
+          {
+            "name": "Osteria de Borg",
+            "tip": "Traditionelle Küche im malerischen Borgo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piadina Romagnola",
+            "tip": "Vékony lepénykenyér sonkával és lágysajttal."
+          },
+          {
+            "name": "Cappelletti in Brodo",
+            "tip": "Házias töltött tészta húslevesben."
+          },
+          {
+            "name": "Osteria de Borg",
+            "tip": "Hagyományos konyha a festői Borgo negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piadina Romagnola",
+            "tip": "Lipie subțire cu șuncă și brânză Squacquerone."
+          },
+          {
+            "name": "Cappelletti in Brodo",
+            "tip": "Paste umplute artizanale în supă de carne."
+          },
+          {
+            "name": "Osteria de Borg",
+            "tip": "Bucătărie tradițională în cartierul pitoresc Borgo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piadina Romagnola",
+            "tip": "Thin flatbread with ham and Squacquerone cheese."
+          },
+          {
+            "name": "Cappelletti in Brodo",
+            "tip": "Handmade stuffed pasta in meat broth."
+          },
+          {
+            "name": "Osteria de Borg",
+            "tip": "Traditional cuisine in the picturesque Borgo district."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Borgo San Giuliano",
+            "tip": "Ruhige Gassen mit Fellini-Wandmalereien.",
+            "emoji": "🎨"
+          },
+          {
+            "name": "Darsena di Rimini",
+            "tip": "Yachthafen für einen stillen Spaziergang.",
+            "emoji": "⛵"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borgo San Giuliano",
+            "tip": "Csendes utcák Fellini-falfestményekkel.",
+            "emoji": "🎨"
+          },
+          {
+            "name": "Darsena di Rimini",
+            "tip": "Kikötő egy nyugodt sétához.",
+            "emoji": "⛵"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Borgo San Giuliano",
+            "tip": "Străzi liniștite cu picturi murale Fellini.",
+            "emoji": "🎨"
+          },
+          {
+            "name": "Darsena di Rimini",
+            "tip": "Port de iahturi pentru o plimbare liniștită.",
+            "emoji": "⛵"
+          }
+        ],
+        "en": [
+          {
+            "name": "Borgo San Giuliano",
+            "tip": "Quiet streets with Fellini murals.",
+            "emoji": "🎨"
+          },
+          {
+            "name": "Darsena di Rimini",
+            "tip": "Yacht harbor for a quiet stroll.",
+            "emoji": "⛵"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso d'Augusto",
+            "tip": "Die Haupteinkaufsstraße im Zentrum."
+          },
+          {
+            "name": "Mercato Coperto",
+            "tip": "Überdachter Markt für lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso d'Augusto",
+            "tip": "A belváros fő bevásárlóutcája."
+          },
+          {
+            "name": "Mercato Coperto",
+            "tip": "Fedett piac helyi specialitásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso d'Augusto",
+            "tip": "Principala stradă comercială din centru."
+          },
+          {
+            "name": "Mercato Coperto",
+            "tip": "Piață acoperită pentru specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso d'Augusto",
+            "tip": "The main shopping street in the center."
+          },
+          {
+            "name": "Mercato Coperto",
+            "tip": "Indoor market for local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Rimini lässt sich hervorragend zu Fuß erkunden, da das Zentrum flach ist.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in der Altstadt.",
+          "Die meisten Museen sind montags geschlossen.",
+          "Nutzen Sie die Trinkwasserbrunnen in der Stadt."
+        ],
+        "hu": [
+          "Rimini központja sík, így gyalogosan is könnyen bejárható.",
+          "Viselj kényelmes cipőt az óvárosi macskakövek miatt.",
+          "A legtöbb múzeum hétfőn zárva tart.",
+          "Használd a városi ivókutakat a felfrissüléshez."
+        ],
+        "ro": [
+          "Centrul orașului Rimini este plat, fiind ideal pentru explorarea pe jos.",
+          "Purtați încălțăminte comodă pentru pavajul din centrul vechi.",
+          "Majoritatea muzeelor sunt închise lunea.",
+          "Folosiți cișmelele cu apă potabilă din oraș."
+        ],
+        "en": [
+          "Rimini's center is flat, making it very walkable.",
+          "Wear comfortable shoes for the cobblestones in the old town.",
+          "Most museums are closed on Mondays.",
+          "Use the public drinking fountains to stay hydrated."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castel Sismondo",
+            "hu": "Castel Sismondo",
+            "ro": "Castel Sismondo",
+            "en": "Castel Sismondo"
+          },
+          "coords": [
+            12.5655,
+            44.0598
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das neue Fellini Museum hier.",
+            "hu": "Látogasd meg az új Fellini Múzeumot itt.",
+            "ro": "Vizitați noul Muzeu Fellini situat aici.",
+            "en": "Visit the new Fellini Museum located here."
+          }
+        },
+        {
+          "name": {
+            "de": "Domus del Chirurgo",
+            "hu": "A sebész háza",
+            "ro": "Domus del Chirurgo",
+            "en": "Surgeon's House"
+          },
+          "coords": [
+            12.5675,
+            44.0605
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Einzigartige antike chirurgische Instrumente.",
+            "hu": "Egyedülálló ókori sebészeti eszközök.",
+            "ro": "Instrumente chirurgicale antice unice.",
+            "en": "Unique ancient surgical instruments."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Tre Martiri",
+            "hu": "Piazza Tre Martiri",
+            "ro": "Piazza Tre Martiri",
+            "en": "Piazza Tre Martiri"
+          },
+          "coords": [
+            12.5695,
+            44.0585
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Markiert den Ort des alten Forums.",
+            "hu": "Az egykori római fórum helyszíne.",
+            "ro": "Marchează locul vechiului forum.",
+            "en": "Marks the site of the ancient forum."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Hotel Rimini",
+            "hu": "Grand Hotel Rimini",
+            "ro": "Grand Hotel Rimini",
+            "en": "Grand Hotel Rimini"
+          },
+          "coords": [
+            12.5825,
+            44.0715
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein nationales Denkmal der Belle Époque.",
+            "hu": "A Belle Époque nemzeti műemléke.",
+            "ro": "Un monument național al stilului Belle Époque.",
+            "en": "A national monument of the Belle Époque."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare Radtour",
+            "hu": "Lungomare kerékpártúra",
+            "ro": "Tur cu bicicleta pe faleză",
+            "en": "Lungomare bike ride"
+          },
+          "coords": [
+            12.6005,
+            44.0505
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Radweg entlang der gesamten Küste.",
+            "hu": "Kerékpárút a teljes part mentén.",
+            "ro": "Pistă de biciclete de-a lungul întregului țărm.",
+            "en": "Bike path along the entire coastline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Rimini auf zwei Rädern. Starten Sie an der imposanten Festung Castel Sismondo und tauchen Sie in die römische Geschichte in der Domus del Chirurgo ein. Nach einem Stopp auf der Piazza Tre Martiri radeln Sie zum legendären Grand Hotel. Den Nachmittag genießen Sie auf dem modernen Radweg entlang der Adriaküste.",
+        "hu": "Fedezze fel Riminit két keréken. Kezdje az impozáns Castel Sismondo erődjénél, majd merüljön el a római történelemben a Sebész házában. A Piazza Tre Martiri érintése után tekerjen el a legendás Grand Hotelhez. A délutánt töltse az Adriai-tenger partján futó modern kerékpárúton.",
+        "ro": "Explorați Rimini pe două roți. Începeți la impunătoarea fortăreață Castel Sismondo și scufundați-vă în istoria romană la Domus del Chirurgo. După o oprire în Piazza Tre Martiri, pedalați spre legendarul Grand Hotel. Savurați după-amiaza pe pista modernă de biciclete de-a lungul coastei Adriatice.",
+        "en": "Explore Rimini on two wheels. Start at the imposing Castel Sismondo fortress and dive into Roman history at the Surgeon's House. After a stop in Piazza Tre Martiri, cycle to the legendary Grand Hotel. Enjoy the afternoon on the modern bike path along the Adriatic coast."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Frittierte Meeresfrüchte direkt am Hafen."
+          },
+          {
+            "name": "Sangiovese di Romagna",
+            "tip": "Der lokale Rotwein der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Rántott tenger gyümölcsei a kikötőben."
+          },
+          {
+            "name": "Sangiovese di Romagna",
+            "tip": "A régió jellegzetes vörösbora."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Fructe de mare prăjite chiar în port."
+          },
+          {
+            "name": "Sangiovese di Romagna",
+            "tip": "Vinul roșu local al regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Fried seafood right at the harbor."
+          },
+          {
+            "name": "Sangiovese di Romagna",
+            "tip": "The local red wine of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco XXV Aprile",
+            "tip": "Großer Stadtpark ideal für Radfahrer.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco XXV Aprile",
+            "tip": "Nagy városi park, ideális bringásoknak.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco XXV Aprile",
+            "tip": "Parc mare ideal pentru bicicliști.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco XXV Aprile",
+            "tip": "Large city park ideal for cyclists.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bicipanem",
+            "tip": "Fahrradverleih mit integriertem Café."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bicipanem",
+            "tip": "Kerékpárkölcsönző és kávézó egyben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bicipanem",
+            "tip": "Închiriere biciclete cu cafenea integrată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bicipanem",
+            "tip": "Bike rental with an integrated café."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Mi Muovo-System zum Ausleihen von Fahrrädern.",
+          "Rimini ist eine der fahrradfreundlichsten Städte Italiens.",
+          "Vermeiden Sie das Radfahren in den Fußgängerzonen am späten Abend.",
+          "Sichern Sie Ihr Fahrrad immer gut ab."
+        ],
+        "hu": [
+          "Használd a Mi Muovo kerékpármegosztó rendszert.",
+          "Rimini Olaszország egyik leginkább kerékpárosbarát városa.",
+          "Kerüld a biciklizést a gyalogos zónákban késő este.",
+          "Mindig alaposan zárd le a kerékpárodat."
+        ],
+        "ro": [
+          "Utilizați sistemul Mi Muovo pentru închirierea de biciclete.",
+          "Rimini este unul dintre cele mai prietenoase orașe pentru biciclete din Italia.",
+          "Evitați mersul cu bicicleta în zonele pietonale seara târziu.",
+          "Asigurați-vă întotdeauna bicicleta cu un sistem antifurt bun."
+        ],
+        "en": [
+          "Use the Mi Muovo bike-sharing system.",
+          "Rimini is one of the most bike-friendly cities in Italy.",
+          "Avoid cycling in pedestrian areas late in the evening.",
+          "Always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castel Sismondo",
+            "hu": "Castel Sismondo",
+            "ro": "Castel Sismondo",
+            "en": "Castel Sismondo"
+          },
+          "coords": [
+            12.5655,
+            44.0598
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt vor der Burg.",
+            "hu": "Nagy parkoló közvetlenül a vár előtt.",
+            "ro": "Parcare mare situată chiar în fața castelului.",
+            "en": "Large parking lot right in front of the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt Rimini",
+            "hu": "Rimini óváros",
+            "ro": "Centrul vechi Rimini",
+            "en": "Rimini Old Town"
+          },
+          "coords": [
+            12.5695,
+            44.0585
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parkhaus Italo Flori ist in der Nähe.",
+            "hu": "Az Italo Flori parkolóház a közelben van.",
+            "ro": "Parcarea Italo Flori este în apropiere.",
+            "en": "Italo Flori parking garage is nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "San Leo (Ausflug)",
+            "hu": "San Leo (kirándulás)",
+            "ro": "San Leo (excursie)",
+            "en": "San Leo (excursion)"
+          },
+          "coords": [
+            12.3455,
+            43.8985
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 25.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die uneinnehmbare Festung.",
+            "hu": "Látogasd meg a bevehetetlen erődöt.",
+            "ro": "Vizitați fortăreața inexpugnabilă.",
+            "en": "Visit the impregnable fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Centro",
+            "hu": "Marina Centro",
+            "ro": "Marina Centro",
+            "en": "Marina Centro"
+          },
+          "coords": [
+            12.5845,
+            44.0725
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 28.0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem Lungomare-Streifen.",
+            "hu": "Parkolj a tengerparti Lungomare sávban.",
+            "ro": "Parcați pe banda Lungomare de lângă plajă.",
+            "en": "Park on the Lungomare strip near the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour kombiniert die Highlights von Rimini mit einem Ausflug ins Hinterland. Nach der Erkundung des Schlosses und der Altstadt fahren Sie zur spektakulären Festung San Leo auf einem Felsen. Den späten Nachmittag genießen Sie zurück an der Küste von Rimini.",
+        "hu": "Ez a túra ötvözi Rimini legfontosabb látnivalóit egy hátországi kirándulással. A vár és az óváros felfedezése után hajtson el a látványos San Leo sziklavárához. A késő délutánt töltse ismét Rimini tengerpartján.",
+        "ro": "Acest tur combină atracțiile principale din Rimini cu o excursie în interiorul regiunii. După explorarea castelului și a centrului vechi, conduceți spre spectaculoasa fortăreață San Leo, situată pe o stâncă. Savurați după-amiaza târzie înapoi pe coasta din Rimini.",
+        "en": "This tour combines Rimini's highlights with an excursion into the hinterland. After exploring the castle and old town, drive to the spectacular fortress of San Leo perched on a rock. Enjoy the late afternoon back on Rimini's coast."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Formaggio di Fossa",
+            "tip": "In Gruben gereifter Käse aus San Leo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Formaggio di Fossa",
+            "tip": "Gödörben érlelt sajt San Leo környékéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Formaggio di Fossa",
+            "tip": "Brânză maturată în gropi din zona San Leo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Formaggio di Fossa",
+            "tip": "Pit-aged cheese from the San Leo area."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt San Leo",
+            "tip": "Panoramablick über das Marecchia-Tal.",
+            "emoji": "🌄"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Leo kilátópont",
+            "tip": "Panorámás kilátás a Marecchia-völgyre.",
+            "emoji": "🌄"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere San Leo",
+            "tip": "Vedere panoramică asupra văii Marecchia.",
+            "emoji": "🌄"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Leo viewpoint",
+            "tip": "Panoramic view over the Marecchia valley.",
+            "emoji": "🌄"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Le Befane Shopping Centre",
+            "tip": "Das größte Einkaufszentrum der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Befane Shopping Centre",
+            "tip": "A régió legnagyobb bevásárlóközpontja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Befane Shopping Centre",
+            "tip": "Cel mai mare centru comercial din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Befane Shopping Centre",
+            "tip": "The largest shopping center in the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die ZTL-Zonen (verkehrsberuhigt) im Zentrum beachten.",
+          "Parken im Zentrum ist oft gebührenpflichtig.",
+          "Die Straße nach San Leo ist kurvenreich.",
+          "Buchen Sie Parkplätze im Voraus in der Hochsaison."
+        ],
+        "hu": [
+          "Ügyelj a központban lévő korlátozott forgalmú (ZTL) zónákra.",
+          "A parkolás a központban gyakran díjköteles.",
+          "A San Leóba vezető út kanyargós.",
+          "Főszezonban foglalj parkolót előre."
+        ],
+        "ro": [
+          "Atenție la zonele ZTL (trafic limitat) din centrul orașului.",
+          "Parcarea în centru este adesea contra cost.",
+          "Drumul spre San Leo este plin de curbe.",
+          "Rezervați locuri de parcare în avans în plin sezon."
+        ],
+        "en": [
+          "Be aware of the ZTL (limited traffic) zones in the center.",
+          "Parking in the center is often paid.",
+          "The road to San Leo is winding.",
+          "Book parking in advance during high season."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Rimini",
+            "hu": "Rimini pályaudvar",
+            "ro": "Gara Rimini",
+            "en": "Rimini Station"
+          },
+          "coords": [
+            12.5745,
+            44.0645
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Knotenpunkt für alle Buslinien.",
+            "hu": "Minden buszjárat csomópontja.",
+            "ro": "Nod central pentru toate liniile de autobuz.",
+            "en": "Hub for all bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Cavour",
+            "hu": "Piazza Cavour",
+            "ro": "Piazza Cavour",
+            "en": "Piazza Cavour"
+          },
+          "coords": [
+            12.5683,
+            44.0594
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Zentraler Platz der Altstadt.",
+            "hu": "Az óváros központi tere.",
+            "ro": "Piața centrală a centrului vechi.",
+            "en": "Central square of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempio Malatestiano",
+            "hu": "Malatesta-szentély",
+            "ro": "Tempio Malatestiano",
+            "en": "Tempio Malatestiano"
+          },
+          "coords": [
+            12.5714,
+            44.0592
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von der Piazza.",
+            "hu": "Rövid séta a térről.",
+            "ro": "O scurtă plimbare din piață.",
+            "en": "Short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Centro (Bus 11)",
+            "hu": "Marina Centro (11-es busz)",
+            "ro": "Marina Centro (Autobuz 11)",
+            "en": "Marina Centro (Bus 11)"
+          },
+          "coords": [
+            12.5845,
+            44.0725
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die berühmteste Buslinie von Rimini.",
+            "hu": "Rimini leghíresebb buszvonala.",
+            "ro": "Cea mai faimoasă linie de autobuz din Rimini.",
+            "en": "The most famous bus line in Rimini."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Busnetz von Rimini. Starten Sie im historischen Zentrum und besichtigen Sie die Kathedrale. Nehmen Sie dann den legendären Bus 11, der Sie direkt zu den Stränden der Marina Centro bringt, wo Sie den Nachmittag verbringen können.",
+        "hu": "Használja ki Rimini hatékony buszhálózatát. Kezdjen a történelmi központban a katedrális megtekintésével. Ezután pattanjon fel a legendás 11-es buszra, amely közvetlenül a Marina Centro strandjaihoz viszi, ahol a délutánt töltheti.",
+        "ro": "Folosiți rețeaua eficientă de autobuze din Rimini. Începeți în centrul istoric cu vizitarea catedralei. Apoi luați legendarul autobuz 11, care vă duce direct la plajele din Marina Centro, unde vă puteți petrece după-amiaza.",
+        "en": "Use Rimini's efficient bus network. Start in the historic center by visiting the cathedral. Then hop on the legendary Bus 11, which takes you directly to the beaches of Marina Centro, where you can spend the afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gelato",
+            "tip": "In einer der vielen Eisdielen an der Marina."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gelato",
+            "tip": "A Marina számos fagylaltozójának egyikében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gelato",
+            "tip": "La una dintre numeroasele gelaterii de pe faleză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gelato",
+            "tip": "At one of the many ice cream parlors at the Marina."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafenmole",
+            "tip": "Spaziergang bis zum Ende der Mole.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötőmóló",
+            "tip": "Séta a móló legvégéig.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Digul portului",
+            "tip": "Plimbare până în capătul digului.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Pier",
+            "tip": "Walk to the very end of the pier.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tabaccheria",
+            "tip": "Hier kaufen Sie Busfahrkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tabaccheria",
+            "tip": "Itt vásárolhatsz buszjegyeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tabaccheria",
+            "tip": "De aici puteți cumpăra bilete de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tabaccheria",
+            "tip": "This is where you buy bus tickets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Fahrkarten vor dem Einsteigen in Tabakläden.",
+          "Der Bus 11 fährt im Sommer alle paar Minuten.",
+          "Nutzen Sie die App 'Start Romagna'.",
+          "Validieren Sie Ihr Ticket sofort im Bus."
+        ],
+        "hu": [
+          "Vásárolj jegyet felszállás előtt a trafikokban.",
+          "A 11-es busz nyáron pár percenként jár.",
+          "Használd a 'Start Romagna' alkalmazást.",
+          "Érvényesítsd a jegyedet azonnal a buszon."
+        ],
+        "ro": [
+          "Cumpărați bilete înainte de îmbarcare de la chioșcurile de ziare.",
+          "Autobuzul 11 circulă la câteva minute în timpul verii.",
+          "Folosiți aplicația 'Start Romagna'.",
+          "Validați biletul imediat ce urcați în autobuz."
+        ],
+        "en": [
+          "Buy tickets before boarding at tobacco shops.",
+          "Bus 11 runs every few minutes in summer.",
+          "Use the 'Start Romagna' app.",
+          "Validate your ticket immediately on the bus."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "region_code": "IT-45",
+    "transit_official": "https://www.startromagna.it/en/",
+    "transit_app": "https://www.startromagna.it/en/services/roger-app/",
+    "bike_share": "https://www.riviera.rimini.it/en/travel/getting-around",
+    "city_card": "https://www.riminiturismo.it/en/rimini-card",
+    "events": "https://www.riminiturismo.it/en/events",
+    "tourism_office": "https://www.riminiturismo.it/en",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/emilia-romagna/rimini.html",
+    "restaurants_booking": "https://www.thefork.com/restaurants/rimini-c188575",
+    "museum_tickets": "https://www.fellinimuseum.it/en",
+    "parking_real_time": "https://www.comune.rimini.it/servizi/parcheggi",
+    "language_tips": {
+      "de": "Stark touristisch, Englisch und Deutsch in Hotels weit verbreitet; Russisch und Polnisch in Saisonbetrieben.",
+      "hu": "Eros turisztikai varos, angol es nemet a szallodakban szeles korben elerheto; orosz/lengyel is szezonalisan.",
+      "ro": "Oras turistic puternic, engleza si germana raspandite in hoteluri; rusa si poloneza sezonier.",
+      "en": "Heavily touristic; English and German widely spoken in hotels, Russian/Polish seasonal."
+    },
+    "best_time": {
+      "de": "Mai bis Juni und September fuer Strand mit weniger Andrang; Juli-August Hochsaison und voll.",
+      "hu": "Majus-junius es szeptember a strandolasra zsufoltsag nelkul; julius-augusztus zsufolt fosezon.",
+      "ro": "Mai-iunie si septembrie pentru plaja fara aglomeratie; iulie-august sezon de varf foarte aglomerat.",
+      "en": "May-June and September for beach without crowds; July-August peak season and packed."
+    },
+    "warnings": {
+      "de": "Strandklubs (bagni) sind kostenpflichtig; Taschendiebe in Bahnhof und Marina-Bereich.",
+      "hu": "A strandklubok (bagni) fizetosek; zsebmetszok az allomas es a Marina kornyeken elofordulnak.",
+      "ro": "Cluburile de plaja (bagni) sunt cu plata; hoti de buzunare in zona garii si Marina.",
+      "en": "Beach clubs (bagni) are paid; pickpockets reported near station and Marina area."
+    }
+  }
+}

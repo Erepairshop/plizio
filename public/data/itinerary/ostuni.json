@@ -1,0 +1,1015 @@
+{
+  "city_id": "ostuni",
+  "anchor": {
+    "name": "Ostuni",
+    "coords": [
+      17.5806,
+      40.7297
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 1.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza della Libertà",
+            "hu": "Piazza della Libertà",
+            "ro": "Piazza della Libertà",
+            "en": "Piazza della Libertà"
+          },
+          "coords": [
+            17.5785,
+            40.7288
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Frühstücken Sie hier mit einem Caffè Leccese.",
+            "hu": "Igyon meg itt egy Caffè Leccese-t reggelire.",
+            "ro": "Savurați un Caffè Leccese aici la micul dejun.",
+            "en": "Enjoy a Caffè Leccese here for breakfast."
+          }
+        },
+        {
+          "name": {
+            "de": "Säule des Heiligen Oronzo",
+            "hu": "Szent Oronzo-oszlop",
+            "ro": "Coloana Sfântului Oronzo",
+            "en": "Saint Oronzo Column"
+          },
+          "coords": [
+            17.5783,
+            40.7287
+          ],
+          "category": "monuments",
+          "arrive_at": "09:42",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Barockdetails der Statue.",
+            "hu": "Figyelje meg a szobor barokk részleteit.",
+            "ro": "Observați detaliile baroce ale statuii.",
+            "en": "Notice the Baroque details of the statue."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Municipale",
+            "hu": "Városháza",
+            "ro": "Palatul Municipal",
+            "en": "Municipal Palace"
+          },
+          "coords": [
+            17.5787,
+            40.7289
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Kreuzgang des ehemaligen Klosters.",
+            "hu": "Látogassa meg az egykori kolostor udvarát.",
+            "ro": "Vizitați claustrul fostei mănăstiri.",
+            "en": "Visit the cloister of the former monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Francesco",
+            "hu": "Szent Ferenc-templom",
+            "ro": "Biserica Sfântul Francisc",
+            "en": "Church of Saint Francis"
+          },
+          "coords": [
+            17.579,
+            40.7286
+          ],
+          "category": "churches",
+          "arrive_at": "11:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das kunstvolle Portal der Kirche.",
+            "hu": "Csodálja meg a templom díszes portálját.",
+            "ro": "Admirați portalul bogat ornat al bisericii.",
+            "en": "Admire the ornate portal of the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der vorklassischen Zivilisationen",
+            "hu": "Preklasszikus Civilizációk Múzeuma",
+            "ro": "Muzeul Civilizațiilor Preclasice",
+            "en": "Museum of Preclassical Civilizations"
+          },
+          "coords": [
+            17.5798,
+            40.7305
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Sehen Sie 'Delia', das Skelett aus dem Paläolithikum.",
+            "hu": "Nézze meg Deliát, a paleolitikumi csontvázat.",
+            "ro": "Vedeți pe 'Delia', scheletul din paleolitic.",
+            "en": "See 'Delia', the paleolithic skeleton."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Ostuni",
+            "hu": "Ostuni katedrális",
+            "ro": "Catedrala din Ostuni",
+            "en": "Ostuni Cathedral"
+          },
+          "coords": [
+            17.5815,
+            40.7308
+          ],
+          "category": "cathedrals",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Rosette ist eine der größten in Europa.",
+            "hu": "A rózsaablak az egyik legnagyobb Európában.",
+            "ro": "Rozeta este una dintre cele mai mari din Europa.",
+            "en": "The rose window is one of the largest in Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Viale Oronzo Quaranta",
+            "hu": "Viale Oronzo Quaranta",
+            "ro": "Viale Oronzo Quaranta",
+            "en": "Viale Oronzo Quaranta"
+          },
+          "coords": [
+            17.5825,
+            40.7295
+          ],
+          "category": "promenades",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für Panoramafotos der Stadtmauern.",
+            "hu": "Tökéletes hely a városfalak fotózásához.",
+            "ro": "Perfect pentru fotografii panoramice ale zidurilor.",
+            "en": "Perfect for panoramic photos of the city walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der 'Weißen Stadt' auf der Piazza della Libertà. Bewundern Sie die prächtige Barocksäule und tauchen Sie ein in die Geschichte des Palazzo Municipale. Mittags erkunden Sie die faszinierenden archäologischen Funde im Museum, bevor Sie die majestätische Kathedrale besuchen. Am Nachmittag spazieren Sie entlang der Viale Oronzo Quaranta und genießen den Blick auf die Olivenhaine und das nahe Meer.",
+        "hu": "Kezdje a napot a 'Fehér Város' szívében, a Piazza della Libertà téren. Csodálja meg a barokk oszlopot, majd merüljön el a városháza történelmében. Délben fedezze fel a múzeum különleges régészeti leleteit, mielőtt felkeresné a fenséges katedrálist. Délután sétáljon végig a Viale Oronzo Quaranta mentén, élvezve az olajfaligetekre és a közeli tengerre nyíló kilátást.",
+        "ro": "Începeți ziua în inima 'Orașului Alb', în Piazza della Libertà. Admirați coloana barocă și descoperiți istoria Palatului Municipal. La prânz, explorați descoperirile arheologice fascinante de la muzeu, înainte de a vizita catedrala maiestuoasă. După-amiaza, plimbați-vă de-a lungul Viale Oronzo Quaranta, bucurându-vă de priveliștea livezilor de măslini și a mării din apropiere.",
+        "en": "Start your day in the heart of the 'White City' at Piazza della Libertà. Admire the Baroque column and dive into the history of the Municipal Palace. At midday, explore the fascinating archaeological finds at the museum before visiting the majestic cathedral. In the afternoon, stroll along Viale Oronzo Quaranta, enjoying the views of the olive groves and the nearby Adriatic Sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Orecchiette con cime di rapa",
+            "tip": "Probieren Sie diese typische apulische Pasta."
+          },
+          {
+            "name": "Ostuni DOP Olivenöl",
+            "tip": "Direkt bei lokalen Erzeugern kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orecchiette con cime di rapa",
+            "tip": "Kóstolja meg ezt a jellegzetes pugliai tésztát."
+          },
+          {
+            "name": "Ostuni DOP olívaolaj",
+            "tip": "Vásároljon közvetlenül a helyi termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Orecchiette con cime di rapa",
+            "tip": "Gustați aceste paste tipice din Puglia."
+          },
+          {
+            "name": "Ulei de măsline Ostuni DOP",
+            "tip": "Cumpărați direct de la producătorii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Orecchiette con cime di rapa",
+            "tip": "Taste this typical Puglian pasta dish."
+          },
+          {
+            "name": "Ostuni DOP Olive Oil",
+            "tip": "Buy directly from local producers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Casale Viertel",
+            "tip": "Ruhige Gassen abseits der Touristenströme.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Belvedere Blick",
+            "tip": "Panoramablick über das Itria-Tal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Casale negyed",
+            "tip": "Csendes utcák a turistaáradattól távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Belvedere kilátó",
+            "tip": "Panoráma az Itria-völgyre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartierul Casale",
+            "tip": "Străzi liniștite departe de fluxul turistic.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Belvedere",
+            "tip": "Vedere panoramică asupra Văii Itria.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Casale District",
+            "tip": "Quiet alleys away from the tourist crowds.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Belvedere Viewpoint",
+            "tip": "Panoramic view over the Itria Valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik aus Grottaglie",
+            "tip": "Wunderschönes handgefertigtes Geschirr."
+          },
+          {
+            "name": "L'Ulivo",
+            "tip": "Laden für Holzprodukte aus Olivenbäumen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grottaglie kerámia",
+            "tip": "Gyönyörű kézműves edények."
+          },
+          {
+            "name": "L'Ulivo",
+            "tip": "Olajfából készült fatárgyak boltja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică de Grottaglie",
+            "tip": "Vase artizanale superbe."
+          },
+          {
+            "name": "L'Ulivo",
+            "tip": "Magazin cu obiecte din lemn de măslin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grottaglie Ceramics",
+            "tip": "Beautiful handmade tableware."
+          },
+          {
+            "name": "L'Ulivo",
+            "tip": "Shop for olive wood products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, die Steine in der Altstadt sind rutschig.",
+          "Die Kathedrale ist über die Mittagszeit oft geschlossen.",
+          "Trinken Sie Wasser an den öffentlichen Brunnen (Nasone).",
+          "Buchen Sie Restaurants in der Hochsaison vorab."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, az óváros kövei csúszósak lehetnek.",
+          "A katedrális gyakran zárva tart a déli órákban.",
+          "Igyon vizet a nyilvános kutakból (Nasone).",
+          "Főszezonban foglaljon asztalt az éttermekbe előre."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă, pietrele din centrul vechi sunt alunecoase.",
+          "Catedrala este adesea închisă în timpul prânzului.",
+          "Beți apă de la cișmelele publice (Nasone).",
+          "Rezervați mese la restaurante în avans în sezonul de vârf."
+        ],
+        "en": [
+          "Wear comfortable shoes as the stones in the old town are slippery.",
+          "The cathedral is often closed during the midday break.",
+          "Drink water from the public fountains (Nasone).",
+          "Book restaurants in advance during the high season."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza della Libertà",
+            "hu": "Piazza della Libertà",
+            "ro": "Piazza della Libertà",
+            "en": "Piazza della Libertà"
+          },
+          "coords": [
+            17.5785,
+            40.7288
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Startpunkt für Touren ins Umland.",
+            "hu": "Kezdőpont a környékbeli túrákhoz.",
+            "ro": "Punct de plecare pentru tururi în împrejurimi.",
+            "en": "Starting point for tours in the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Viale Oronzo Quaranta",
+            "hu": "Viale Oronzo Quaranta",
+            "ro": "Viale Oronzo Quaranta",
+            "en": "Viale Oronzo Quaranta"
+          },
+          "coords": [
+            17.5825,
+            40.7295
+          ],
+          "category": "promenades",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Fahrtwind an der Stadtmauer.",
+            "hu": "Élvezze a menetszelet a városfalnál.",
+            "ro": "Bucurați-vă de briză pe lângă zidul orașului.",
+            "en": "Enjoy the breeze along the city walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco delle Dune Costiere",
+            "hu": "Dűne-parti Park",
+            "ro": "Parcul Dune Costiere",
+            "en": "Dune Costiere Park"
+          },
+          "coords": [
+            17.55,
+            40.78
+          ],
+          "category": "nature",
+          "arrive_at": "11:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Radfahren zwischen jahrhundertealten Olivenbäumen.",
+            "hu": "Kerékpározás évszázados olajfák között.",
+            "ro": "Ciclism printre măslini seculari.",
+            "en": "Cycling among centuries-old olive trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Ostuni",
+            "hu": "Ostuni katedrális",
+            "ro": "Catedrala din Ostuni",
+            "en": "Ostuni Cathedral"
+          },
+          "coords": [
+            17.5815,
+            40.7308
+          ],
+          "category": "cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad in der engen Gasse.",
+            "hu": "Tolja a biciklit a szűk utcában.",
+            "ro": "Împingeți bicicleta pe strada îngustă.",
+            "en": "Push your bike in the narrow alley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Ostuni und seine Umgebung auf zwei Rädern. Nach einer kurzen Runde an der Stadtmauer verlassen wir die Stadt Richtung Küste. Die Tour führt durch den Regionalpark mit seinen antiken Olivenhainen. Mittags genießen wir die Natur, bevor es zurück bergauf ins weiße Zentrum zur Kathedrale geht.",
+        "hu": "Fedezze fel Ostunit és környékét két keréken. A városfal menti rövid kör után a tengerpart felé vesszük az irányt. A túra az antik olajfaligetekkel teli regionális parkon keresztül vezet. Délben élvezzük a természetet, majd visszakerekezünk a dombra, a fehér központba a katedrálishoz.",
+        "ro": "Descoperiți Ostuni și împrejurimile sale pe două roți. După o scurtă tură pe lângă ziduri, pornim spre coastă. Turul traversează parcul regional cu livezile sale antice de măslini. La prânz ne bucurăm de natură, apoi urcăm înapoi în centrul alb către catedrală.",
+        "en": "Discover Ostuni and its surroundings on two wheels. After a short loop along the city walls, we head towards the coast. The tour passes through the regional park with its ancient olive groves. At midday, enjoy nature before cycling back uphill to the white center and the cathedral."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taralli Pugliesi",
+            "tip": "Perfekter Snack für die Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taralli Pugliesi",
+            "tip": "Tökéletes rágcsálnivaló a túrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taralli Pugliesi",
+            "tip": "Snack perfect pentru tura cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taralli Pugliesi",
+            "tip": "Perfect snack for the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Olivenhaine",
+            "tip": "Stille zwischen uralten Bäumen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olajfaligetek",
+            "tip": "Csend az ősi fák között.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Livezi de măslini",
+            "tip": "Liniște printre arbori antici.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Groves",
+            "tip": "Silence among ancient trees.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Masseria-Produkte",
+            "tip": "Direktverkauf von Öl und Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Masseria termékek",
+            "tip": "Olaj és bor közvetlen eladás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de Masseria",
+            "tip": "Vânzare directă de ulei și vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Masseria Products",
+            "tip": "Direct sale of oil and wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege sind oft staubig und steinig.",
+          "Achten Sie auf die Hitze in den Mittagsstunden.",
+          "In der Altstadt ist Radfahren teils verboten."
+        ],
+        "hu": [
+          "Az utak gyakran porosak és kövesek.",
+          "Vigyázzon a déli hőséggel.",
+          "Az óvárosban a biciklizés néhol tilos."
+        ],
+        "ro": [
+          "Drumurile sunt adesea prăfuite și pietroase.",
+          "Atenție la căldura din timpul prânzului.",
+          "Ciclismul este parțial interzis în centrul vechi."
+        ],
+        "en": [
+          "Paths are often dusty and stony.",
+          "Be careful of the midday heat.",
+          "Cycling is partially restricted in the old town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18.0,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 25.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza della Libertà",
+            "hu": "Piazza della Libertà",
+            "ro": "Piazza della Libertà",
+            "en": "Piazza della Libertà"
+          },
+          "coords": [
+            17.5785,
+            40.7288
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie außerhalb der ZTL.",
+            "hu": "Parkoljon a ZTL zónán kívül.",
+            "ro": "Parcați în afara zonei ZTL.",
+            "en": "Park outside the ZTL zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Ostuni",
+            "hu": "Ostuni katedrális",
+            "ro": "Catedrala din Ostuni",
+            "en": "Ostuni Cathedral"
+          },
+          "coords": [
+            17.5815,
+            40.7308
+          ],
+          "category": "cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz bergauf.",
+            "hu": "Rövid séta a parkolótól felfelé.",
+            "ro": "Scurtă plimbare în urcare de la parcare.",
+            "en": "Short walk uphill from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Villanova (Hafen)",
+            "hu": "Villanova (kikötő)",
+            "ro": "Villanova (Port)",
+            "en": "Villanova (Port)"
+          },
+          "coords": [
+            17.589,
+            40.793
+          ],
+          "category": "port",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Genießen Sie frischen Fisch direkt am Hafen.",
+            "hu": "Élvezze a friss halat közvetlenül a kikötőben.",
+            "ro": "Savurați pește proaspăt direct în port.",
+            "en": "Enjoy fresh fish directly at the port."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Torre Pozzelle",
+            "hu": "Torre Pozzelle strand",
+            "ro": "Plaja Torre Pozzelle",
+            "en": "Torre Pozzelle Beach"
+          },
+          "coords": [
+            17.658,
+            40.778
+          ],
+          "category": "beach",
+          "arrive_at": "13:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Kristallklares Wasser und wilde Natur.",
+            "hu": "Kristálytiszta víz és vad természet.",
+            "ro": "Apă de cristal și natură sălbatică.",
+            "en": "Crystal clear water and wild nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden wir das historische Ostuni mit der wunderschönen Küste. Nach dem Besuch der Kathedrale fahren wir zum Hafen von Villanova. Den Nachmittag verbringen wir an den wilden Buchten von Torre Pozzelle, wo wir das blaue Meer Apuliens in vollen Zügen genießen können.",
+        "hu": "Autóval összekötjük a történelmi Ostunit a gyönyörű tengerparttal. A katedrális meglátogatása után Villanova kikötőjébe hajtunk. A délutánt Torre Pozzelle vadöbleiben töltjük, ahol teljes mértékben élvezhetjük Puglia kék tengerét.",
+        "ro": "Cu mașina conectăm Ostuni istoric cu coasta superbă. După vizitarea catedralei, conducem spre portul Villanova. După-amiaza o petrecem în golful sălbatic de la Torre Pozzelle, unde ne putem bucura din plin de marea albastră a Pugliei.",
+        "en": "By car, we combine historical Ostuni with the beautiful coast. After visiting the cathedral, we drive to the port of Villanova. We spend the afternoon at the wild coves of Torre Pozzelle, where we can fully enjoy the blue sea of Puglia."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crudo di Mare",
+            "tip": "Roher Fisch in Villanova."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crudo di Mare",
+            "tip": "Nyers hal Villanovábában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crudo di Mare",
+            "tip": "Pește crud în Villanova."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crudo di Mare",
+            "tip": "Raw fish in Villanova."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Torre Pozzelle Bucht",
+            "tip": "Einsame Plätze zwischen Felsen.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torre Pozzelle öböl",
+            "tip": "Magányos helyek a sziklák között.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Torre Pozzelle",
+            "tip": "Locuri izolate între stânci.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Torre Pozzelle Bay",
+            "tip": "Secluded spots between rocks.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokalmärkte",
+            "tip": "Frisches Obst und Gemüse der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Friss gyümölcs és zöldség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Fructe și legume proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Fresh local fruits and vegetables."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "ZTL in Ostuni unbedingt beachten (Strafgefahr).",
+          "Parkplätze am Meer sind oft kostenpflichtig.",
+          "Die Küstenstraße bietet tolle Ausblicke."
+        ],
+        "hu": [
+          "Szigorúan vegye figyelembe a ZTL zónát (bírságveszély).",
+          "A tengerparti parkolás gyakran fizetős.",
+          "A parti út nagyszerű kilátást nyújt."
+        ],
+        "ro": [
+          "Respectați zona ZTL în Ostuni (risc de amendă).",
+          "Parcarea la mare este adesea cu plată.",
+          "Drumul de coastă oferă priveliști superbe."
+        ],
+        "en": [
+          "Pay attention to the ZTL in Ostuni (fine risk).",
+          "Parking by the sea is often paid.",
+          "The coastal road offers great views."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ostuni Bahnhof",
+            "hu": "Ostuni vasútállomás",
+            "ro": "Gara Ostuni",
+            "en": "Ostuni Station"
+          },
+          "coords": [
+            17.585,
+            40.758
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bus in die Stadt fährt direkt vor der Tür.",
+            "hu": "A busz a városba az ajtó előtt áll meg.",
+            "ro": "Autobuzul spre oraș pleacă de la ușă.",
+            "en": "The bus to town leaves right in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza della Libertà",
+            "hu": "Piazza della Libertà",
+            "ro": "Piazza della Libertà",
+            "en": "Piazza della Libertà"
+          },
+          "coords": [
+            17.5785,
+            40.7288
+          ],
+          "category": "squares",
+          "arrive_at": "09:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftsort der Busse.",
+            "hu": "A buszok központi érkezési helye.",
+            "ro": "Locul central de sosire a autobuzelor.",
+            "en": "Central arrival point for buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Ostuni",
+            "hu": "Ostuni katedrális",
+            "ro": "Catedrala din Ostuni",
+            "en": "Ostuni Cathedral"
+          },
+          "coords": [
+            17.5815,
+            40.7308
+          ],
+          "category": "cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bester Fotospot auf dem Weg nach oben.",
+            "hu": "A legjobb fotópont felfelé menet.",
+            "ro": "Cel mai bun loc de poze în drum spre vârf.",
+            "en": "Best photo spot on the way up."
+          }
+        },
+        {
+          "name": {
+            "de": "Viale Oronzo Quaranta",
+            "hu": "Viale Oronzo Quaranta",
+            "ro": "Viale Oronzo Quaranta",
+            "en": "Viale Oronzo Quaranta"
+          },
+          "coords": [
+            17.5825,
+            40.7295
+          ],
+          "category": "promenades",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Hier halten oft die kleinen Touristenbahnen.",
+            "hu": "Itt gyakran megállnak a kis turistavonatok.",
+            "ro": "Aici opresc adesea trenulețele turistice.",
+            "en": "Small tourist trains often stop here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den bequemen Bus-Shuttle vom Bahnhof ins weiße Zentrum. Wir starten an der Piazza della Libertà und erklimmen die Hügelstadt bis zur Kathedrale. Mittags spazieren wir entlang der Panoramamauer, bevor wir mit dem lokalen Bus zurück zum Bahnhof oder ans Meer fahren.",
+        "hu": "Használja a kényelmes buszjáratot az állomástól a fehér központba. A Piazza della Libertà téren kezdünk, és felkapaszkodunk a katedrálishoz. Délben a panorámafal mentén sétálunk, majd helyi busszal térünk vissza az állomásra vagy a tengerpartra.",
+        "ro": "Folosiți autobuzul convenabil de la gară spre centrul alb. Începem în Piazza della Libertà și urcăm dealul până la catedrală. La prânz ne plimbăm pe lângă zidul panoramic, apoi luăm autobuzul local înapoi spre gară sau spre mare.",
+        "en": "Use the convenient bus shuttle from the station to the white center. We start at Piazza della Libertà and climb the hilltop city to the cathedral. At midday, we stroll along the panoramic wall before taking the local bus back to the station or to the coast."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Focaccia Barese",
+            "tip": "Schneller Snack an der Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Focaccia Barese",
+            "tip": "Gyors snack a buszmegállóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Focaccia Barese",
+            "tip": "Snack rapid la stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Focaccia Barese",
+            "tip": "Quick snack near the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Grüne Oase unterhalb der Mauern.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi park",
+            "tip": "Zöld oázis a falak alatt.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului",
+            "tip": "Oază verde sub ziduri.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "Green oasis below the walls.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bottega d'Arte",
+            "tip": "Lokale Kunstwerke im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bottega d'Arte",
+            "tip": "Helyi műalkotások a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bottega d'Arte",
+            "tip": "Lucrări de artă locale în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bottega d'Arte",
+            "tip": "Local artworks in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets vorab im Tabacchi.",
+          "Der Busfahrplan ist sonntags stark eingeschränkt.",
+          "Die Fahrt zum Bahnhof dauert etwa 10-15 Minuten."
+        ],
+        "hu": [
+          "Vegye meg a buszjegyet előre a Tabacchi-ban.",
+          "Vasárnap a buszmenetrend erősen korlátozott.",
+          "Az út az állomásra kb. 10-15 perc."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz în avans de la Tabacchi.",
+          "Programul autobuzelor este redus duminica.",
+          "Călătoria spre gară durează cam 10-15 minute."
+        ],
+        "en": [
+          "Buy bus tickets in advance at a Tabacchi shop.",
+          "Bus schedules are very limited on Sundays.",
+          "The trip to the station takes about 10-15 minutes."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "transit_official": "https://www.stpbrindisi.it",
+    "transit_app": "https://www.moovitapp.com",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.comune.ostuni.br.it",
+    "tourism_office": "https://www.comune.ostuni.br.it",
+    "webcam": null,
+    "restaurants_booking": "https://www.thefork.it",
+    "museum_tickets": "https://www.comune.ostuni.br.it",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch ist offiziell, apulischer Dialekt verbreitet. In Touristenbetrieben wird Englisch gesprochen, außerhalb weniger.",
+      "hu": "Az olasz a hivatalos, az apuliai dialektus elterjedt. A turisztikai helyeken beszélnek angolul, máshol kevésbé.",
+      "ro": "Italiana este oficială, dialectul pugliez e răspândit. Engleza se vorbește în zonele turistice, mai puțin în rest.",
+      "en": "Italian is official with Apulian dialect common. English is spoken in tourist venues, less so elsewhere."
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni und September: angenehm warm, das Meer ist badetauglich. Juli/August sind heiß und sehr touristisch.",
+      "hu": "Május, június és szeptember: kellemesen meleg, a tenger fürdőzhető. Július-augusztus forró és tömött.",
+      "ro": "Mai, iunie și septembrie: cald plăcut, marea bună de scăldat. Iulie/august sunt fierbinți și aglomerate.",
+      "en": "May, June and September: pleasantly warm with swimmable sea. July and August are hot and very touristy."
+    },
+    "neighborhood_warnings": {
+      "de": "Die Altstadt hat enge, steile Gassen, Auto-Verkehr ist ZTL-beschränkt. Park außerhalb der Mauern und zu Fuß weiter.",
+      "hu": "Az óváros szűk, meredek utcái ZTL-korlátozottak. Hagyd a kocsit a falakon kívül és gyalog menj tovább.",
+      "ro": "Orașul vechi are străduțe înguste și abrupte, ZTL pentru mașini. Parchează în afara zidurilor și mergi pe jos.",
+      "en": "The old town has narrow steep alleys with ZTL vehicle restrictions. Park outside the walls and continue on foot."
+    }
+  }
+}

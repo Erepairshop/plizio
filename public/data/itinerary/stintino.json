@@ -1,0 +1,922 @@
+{
+  "city_id": "stintino",
+  "anchor": {
+    "name": "Porto Vecchio",
+    "coords": [
+      8.2333,
+      40.9333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 5.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Porto Vecchio",
+            "hu": "Porto Vecchio",
+            "ro": "Porto Vecchio",
+            "en": "Porto Vecchio"
+          },
+          "coords": [
+            8.2333,
+            40.9333
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischer beim Einlaufen.",
+            "hu": "Figyelje meg a befutó halászhajókat.",
+            "ro": "Urmăriți pescarii care revin în port.",
+            "en": "Watch the fishermen returning to the old harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "MuT - Museo della Tonnara",
+            "hu": "MuT - Tonhalmúzeum",
+            "ro": "MuT - Muzeul Tonnara",
+            "en": "MuT - Tuna Fishing Museum"
+          },
+          "coords": [
+            8.237,
+            40.935
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lernen Sie die Geschichte des Thunfischfangs kennen.",
+            "hu": "Ismerje meg a tonhalhalászat helyi történetét.",
+            "ro": "Învățați despre istoria pescuitului de ton.",
+            "en": "Learn about the fascinating local tuna fishing history."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dell'Immacolata Concezione",
+            "hu": "Szeplőtelen Fogantatás templom",
+            "ro": "Biserica Immacolata Concezione",
+            "en": "Church of the Immaculate Conception"
+          },
+          "coords": [
+            8.2315,
+            40.9325
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe im Zentrum des Dorfes.",
+            "hu": "A nyugalom szigete a falu központjában.",
+            "ro": "Un loc liniștit în centrul satului.",
+            "en": "A place of peace right in the center of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia delle Saline",
+            "hu": "Spiaggia delle Saline",
+            "ro": "Spiaggia delle Saline",
+            "en": "Spiaggia delle Saline"
+          },
+          "coords": [
+            8.245,
+            40.91
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Berühmt für die weißen Kieselsteine.",
+            "hu": "Híres a vakítóan fehér kavicsairól.",
+            "ro": "Faimoasă pentru pietricelele sale albe.",
+            "en": "Famous for its stunning white quartz pebbles."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie das charmante Fischerdorf Stintino zu Fuß. Beginnen Sie am Porto Vecchio, wo die Zeit stehen geblieben scheint, und besuchen Sie das MuT-Museum, um mehr über die lokale Kultur zu erfahren.\n\nNach einem Besuch der Dorfkirche führt ein längerer Spaziergang entlang der Küste zur Spiaggia delle Saline. Dieser Strand besticht durch seine weißen Kiesel und das tiefblaue Wasser.\n\nGenießen Sie die frische Meeresbrise und die entspannte Atmosphäre eines authentischen sardischen Dorfes abseits der großen Touristenströme.",
+        "hu": "Fedezze fel Stintino bájos halászfaluját gyalogosan. Kezdjen a Porto Vecchio-nál, ahol megállt az idő, majd látogasson el a MuT múzeumba, hogy megismerje a helyi kultúrát.\n\nA falusi templom megtekintése után egy hosszabb tengerparti séta vezet a Spiaggia delle Saline strandhoz. Ez a part a fehér kavicsairól és mélykék vizéről ismert.\n\nÉlvezze a friss tengeri szellőt és egy autentikus szardíniai falu nyugodt hangulatát, távol a tömegturizmustól.",
+        "ro": "Descoperiți fermecătorul sat de pescari Stintino la pas. Începeți la Porto Vecchio, unde timpul pare să fi stat în loc, apoi vizitați muzeul MuT pentru a înțelege cultura locală.\n\nDupă o vizită la biserica din sat, o plimbare mai lungă pe coastă vă duce la plaja Spiaggia delle Saline. Această plajă este celebră pentru pietricelele sale albe și apa de un albastru profund.\n\nBucurați-vă de briza mării și de atmosfera relaxată a unui sat sardinian autentic, departe de agitația turistică.",
+        "en": "Discover the charming fishing village of Stintino on foot. Start at Porto Vecchio, where time seems to have stood still, and visit the MuT museum to learn about the local culture.\n\nAfter a visit to the village church, a longer coastal walk leads you to Spiaggia delle Saline. This beach is famous for its white pebbles and deep blue water.\n\nEnjoy the fresh sea breeze and the relaxed atmosphere of an authentic Sardinian village away from the large tourist crowds."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante Lu Furru",
+            "tip": "Hervorragende Meeresfrüchte direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante Lu Furru",
+            "tip": "Kiváló tenger gyümölcsei közvetlenül a kikötőnél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante Lu Furru",
+            "tip": "Fructe de mare excelente chiar în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante Lu Furru",
+            "tip": "Excellent seafood located right by the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Porto Vecchio",
+            "tip": "Ruhiger Blick auf die Fischerboote.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Porto Vecchio",
+            "tip": "Csendes kilátás a halászhajókra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Porto Vecchio",
+            "tip": "Vedere liniștită spre bărcile de pescuit.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Porto Vecchio",
+            "tip": "Peaceful view of the traditional fishing boats.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Artigianato Sardo",
+            "tip": "Traditionelle Keramik und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Artigianato Sardo",
+            "tip": "Hagyományos kerámia és textíliák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artigianato Sardo",
+            "tip": "Ceramică și textile tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artigianato Sardo",
+            "tip": "Traditional Sardinian ceramics and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie Sonnenschutz für den Weg zum Strand mit.",
+          "Die Gehwege zum Strand sind teilweise uneben.",
+          "Besuchen Sie das Museum am Vormittag.",
+          "Wasserflaschen im Dorf auffüllen."
+        ],
+        "hu": [
+          "Vigyen fényvédőt a strandra vezető útra.",
+          "A strand felé vezető gyalogutak néhol egyenetlenek.",
+          "A múzeumot érdemes délelőtt meglátogatni.",
+          "Töltse meg a vizespalackokat a faluban."
+        ],
+        "ro": [
+          "Luați protecție solară pentru drumul spre plajă.",
+          "Ploile pot face potecile spre plajă noroioase.",
+          "Vizitați muzeul în timpul dimineții.",
+          "Umpleți sticlele cu apă în sat."
+        ],
+        "en": [
+          "Take sun protection for the walk to the beach.",
+          "The footpaths to the beach are sometimes uneven.",
+          "Visit the museum in the morning for fewer crowds.",
+          "Refill your water bottles in the village before leaving."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Porto Vecchio",
+            "hu": "Porto Vecchio",
+            "ro": "Porto Vecchio",
+            "en": "Porto Vecchio"
+          },
+          "coords": [
+            8.2333,
+            40.9333
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt für die Küstentour.",
+            "hu": "A tengerparti túra kezdőpontja.",
+            "ro": "Punctul de plecare pentru turul coastei.",
+            "en": "Starting point for the coastal bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia La Pelosa",
+            "hu": "La Pelosa strand",
+            "ro": "Plaja La Pelosa",
+            "en": "La Pelosa Beach"
+          },
+          "coords": [
+            8.209,
+            40.962
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:05",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Früh ankommen, Zugang ist begrenzt.",
+            "hu": "Érkezzen korán, a belépés korlátozott.",
+            "ro": "Sosiți devreme, accesul este restricționat.",
+            "en": "Arrive early as beach access is strictly limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre della Pelosa",
+            "hu": "Pelosa-torony",
+            "ro": "Turnul Pelosa",
+            "en": "Pelosa Tower"
+          },
+          "coords": [
+            8.206,
+            40.965
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wahrzeichen auf der kleinen Insel.",
+            "hu": "A kis szigeten álló ikonikus torony.",
+            "ro": "Turn emblematic situat pe mica insulă.",
+            "en": "Iconic landmark located on the small island."
+          }
+        },
+        {
+          "name": {
+            "de": "Capo Falcone",
+            "hu": "Capo Falcone",
+            "ro": "Capo Falcone",
+            "en": "Capo Falcone"
+          },
+          "coords": [
+            8.2,
+            40.97
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Höchster Punkt mit Blick auf Asinara.",
+            "hu": "Legmagasabb pont kilátással Asinarára.",
+            "ro": "Cel mai înalt punct cu vedere spre Asinara.",
+            "en": "Highest point with a great view of Asinara island."
+          }
+        },
+        {
+          "name": {
+            "de": "MuT - Museo della Tonnara",
+            "hu": "MuT - Tonhalmúzeum",
+            "ro": "MuT - Muzeul Tonnara",
+            "en": "MuT - Tuna Fishing Museum"
+          },
+          "coords": [
+            8.237,
+            40.935
+          ],
+          "category": "museums",
+          "arrive_at": "15:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Interessanter Stopp vor der Rückgabe.",
+            "hu": "Érdekes megálló a bringa leadása előtt.",
+            "ro": "Oprire interesantă înainte de a returna bicicleta.",
+            "en": "Interesting stop before returning your bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie die spektakuläre Nordspitze Sardiniens mit dem Fahrrad. Von Stintino aus radeln Sie zur weltberühmten Spiaggia La Pelosa, deren türkisfarbenes Wasser an die Karibik erinnert.\n\nBesichtigen Sie den historischen Wachturm und erklimmen Sie das Capo Falcone für ein unvergleichliches Panorama über die Insel Asinara. Der Rückweg führt Sie am modernen Fischereimuseum vorbei.\n\nDie Strecke bietet eine Mischung aus flachen Küstenwegen und kurzen Steigungen, belohnt jedoch mit den schönsten Ausblicken der Region.",
+        "hu": "Élje át Szardínia északi csücskének látványát kerékpárral. Stintinóból tekerjen el a világhírű La Pelosa strandra, melynek türkizkék vize a Karib-tengert idézi.\n\nTekintse meg a történelmi őrtornyot, és másszon fel a Capo Falcone szikláihoz az Asinara-szigetre nyíló páratlan panorámáért. A visszaút a modern halászati múzeum mellett vezet el.\n\nAz útvonal lapos tengerparti utak és rövid emelkedők keveréke, de a régió legszebb kilátásaival jutalmazza meg.",
+        "ro": "Experimentați spectaculoasa extremitate nordică a Sardiniei cu bicicleta. Din Stintino, pedalați spre faimoasa plajă La Pelosa, ale cărei ape turcoaz amintesc de Caraibe.\n\nVizitați turnul istoric de pază și urcați la Capo Falcone pentru o panoramă inegalabilă asupra insulei Asinara. Drumul de întoarcere vă poartă pe lângă modernul muzeu al pescuitului.\n\nTraseul oferă un amestec de drumuri de coastă plate și scurte urcări, dar răsplătește efortul cu cele mai frumoase vederi din regiune.",
+        "en": "Experience the spectacular northern tip of Sardinia by bike. From Stintino, cycle to the world-famous La Pelosa beach, whose turquoise waters resemble the Caribbean.\n\nVisit the historic watchtower and climb up to Capo Falcone for an unparalleled panorama over Asinara island. The return journey takes you past the modern tuna fishing museum.\n\nThe route offers a mix of flat coastal paths and short climbs, but rewards you with the most beautiful views in the region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ittiturismo Antares",
+            "tip": "Frischer Fisch von lokalen Fischern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ittiturismo Antares",
+            "tip": "Friss halételek a helyi halászoktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ittiturismo Antares",
+            "tip": "Pește proaspăt de la pescarii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ittiturismo Antares",
+            "tip": "Fresh fish directly from the local fishermen."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Capo Falcone",
+            "tip": "Wilder Aussichtspunkt über den Klippen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Capo Falcone",
+            "tip": "Vad kilátópont a sziklák felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capo Falcone",
+            "tip": "Punct de observație sălbatic deasupra stâncilor.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Capo Falcone",
+            "tip": "Wild lookout point above the steep cliffs.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stintino Souvenir Shop",
+            "tip": "Lokale Korallenprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stintino Ajándékbolt",
+            "tip": "Helyi korall ékszerek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri Stintino",
+            "tip": "Produse locale din corali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stintino Souvenir Shop",
+            "tip": "Local coral products and jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie den Strandzugang online im Voraus.",
+          "Nutzen Sie ein Schloss, wenn Sie am Strand parken.",
+          "Wind kann das Radfahren erschweren.",
+          "Helmpflicht beachten."
+        ],
+        "hu": [
+          "Foglalja le a strandbelépőt online előre.",
+          "Használjon lakatot, ha a strandnál parkol.",
+          "Az erős szél megnehezítheti a tekerést.",
+          "Viseljen bukósisakot."
+        ],
+        "ro": [
+          "Rezervați accesul la plajă online, în avans.",
+          "Folosiți un lacăt când parcați la plajă.",
+          "Vântul poate face pedalarea dificilă.",
+          "Respectați purtarea căștii de protecție."
+        ],
+        "en": [
+          "Book your beach access online well in advance.",
+          "Always use a bike lock when parking near the beach.",
+          "Strong winds can make cycling quite challenging.",
+          "We recommend wearing a helmet at all times."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 35.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia delle Saline",
+            "hu": "Spiaggia delle Saline",
+            "ro": "Spiaggia delle Saline",
+            "en": "Spiaggia delle Saline"
+          },
+          "coords": [
+            8.245,
+            40.91
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Strand.",
+            "hu": "Nagy parkoló közvetlenül a strandnál.",
+            "ro": "Parcare mare chiar lângă plajă.",
+            "en": "Large parking area right by the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "MuT - Museo della Tonnara",
+            "hu": "MuT - Tonhalmúzeum",
+            "ro": "MuT - Muzeul Tonnara",
+            "en": "MuT - Tuna Fishing Museum"
+          },
+          "coords": [
+            8.237,
+            40.935
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parken am Hafen von Stintino.",
+            "hu": "Parkoljon a stintinói kikötőben.",
+            "ro": "Parcați în portul din Stintino.",
+            "en": "Park at the Stintino harbor area."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia La Pelosa",
+            "hu": "La Pelosa strand",
+            "ro": "Plaja La Pelosa",
+            "en": "La Pelosa Beach"
+          },
+          "coords": [
+            8.209,
+            40.962
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parkgebühren sind hoch, Kleingeld bereithalten.",
+            "hu": "A parkolás drága, legyen aprópénze.",
+            "ro": "Taxele de parcare sunt mari, aveți mărunțiș.",
+            "en": "Parking fees are high; have some change ready."
+          }
+        },
+        {
+          "name": {
+            "de": "Capo Falcone",
+            "hu": "Capo Falcone",
+            "ro": "Capo Falcone",
+            "en": "Capo Falcone"
+          },
+          "coords": [
+            8.2,
+            40.97
+          ],
+          "category": "natural features",
+          "arrive_at": "16:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schmale Straße zum Aussichtspunkt.",
+            "hu": "Keskeny út vezet a kilátóhoz.",
+            "ro": "Drum îngust spre punctul de observație.",
+            "en": "Narrow road leading up to the lookout point."
+          }
+        },
+        {
+          "name": {
+            "de": "Isola dell'Asinara (Anlegestelle)",
+            "hu": "Asinara-sziget (kikötő)",
+            "ro": "Insula Asinara (debarcader)",
+            "en": "Asinara Island (pier)"
+          },
+          "coords": [
+            8.235,
+            40.938
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Bootsausflüge müssen vorab gebucht werden.",
+            "hu": "A hajókirándulásokat előre le kell foglalni.",
+            "ro": "Excursiile cu barca trebuie rezervate în avans.",
+            "en": "Boat trips must be booked in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie die Schönheit von Stintino und seiner Umgebung mit dem Auto. Beginnen Sie an den Saline-Stränden und arbeiten Sie sich zur berühmten La Pelosa vor.\n\nEin Auto ermöglicht es Ihnen, auch entlegene Aussichtspunkte wie das Capo Falcone bequem zu erreichen und die Geschichte des Ortes im Tonnara-Museum zu erkunden.\n\nDer Tag bietet eine perfekte Kombination aus Entspannung am Meer, Kultur und spektakulären Naturpanoramen an der Nordwestküste Sardiniens.",
+        "hu": "Fedezze fel Stintino és környéke szépségeit autóval. Kezdjen a Saline strandokon, majd haladjon tovább a híres La Pelosa felé.\n\nAz autó lehetővé teszi, hogy kényelmesen elérje a távolabbi kilátópontokat, mint a Capo Falcone, és felfedezze a település történelmét a Tonnara múzeumban.\n\nA nap a tengerparti pihenés, a kultúra és a látványos természeti panorámák tökéletes kombinációját nyújtja Szardínia északnyugati partján.",
+        "ro": "Descoperiți frumusețea orașului Stintino și a împrejurimilor sale cu mașina. Începeți la plajele Saline și înaintați spre faimoasa plajă La Pelosa.\n\nMașina vă permite să ajungeți confortabil la puncte de observație îndepărtate, cum ar fi Capo Falcone, și să explorați istoria locului la muzeul Tonnara.\n\nZiua oferă o combinație perfectă de relaxare la mare, cultură și panorame naturale spectaculoase pe coasta de nord-vest a Sardiniei.",
+        "en": "Discover the beauty of Stintino and its surroundings by car. Start at the Saline beaches and work your way up to the world-renowned La Pelosa.\n\nA car allows you to easily reach remote lookout points like Capo Falcone and explore the local history at the Tuna Fishing Museum.\n\nThe day offers a perfect combination of seaside relaxation, culture, and spectacular natural panoramas on the northwest coast of Sardinia."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Agriturismo Il Mirto",
+            "tip": "Authentisches sardisches Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agriturismo Il Mirto",
+            "tip": "Autentikus szardíniai vacsora."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Agriturismo Il Mirto",
+            "tip": "Cină sardiniană autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agriturismo Il Mirto",
+            "tip": "Authentic Sardinian dinner experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spiaggia delle Saline",
+            "tip": "Weniger überlaufen als La Pelosa.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spiaggia delle Saline",
+            "tip": "Kevésbé zsúfolt, mint La Pelosa.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Spiaggia delle Saline",
+            "tip": "Mai puțin aglomerată decât La Pelosa.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spiaggia delle Saline",
+            "tip": "Less crowded than La Pelosa beach.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato di Stintino",
+            "tip": "Wochenmarkt mit lokalen Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stintinoi Piac",
+            "tip": "Heti piac helyi különlegességekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Stintino",
+            "tip": "Piață săptămânală cu specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stintino Market",
+            "tip": "Weekly market with local food specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze an der Pelosa sind sehr begrenzt.",
+          "Die Straßen können im Sommer sehr voll sein.",
+          "Nutzen Sie Park-Apps für die Bezahlung.",
+          "Halten Sie sich an die Geschwindigkeitsbegrenzungen."
+        ],
+        "hu": [
+          "A Pelosa-nál a parkolóhelyek száma igen korlátozott.",
+          "Az utak nyáron nagyon zsúfoltak lehetnek.",
+          "Használjon parkolási applikációt a fizetéshez.",
+          "Tartsa be a sebességkorlátozásokat."
+        ],
+        "ro": [
+          "Locurile de parcare la Pelosa sunt foarte limitate.",
+          "Drumurile pot fi foarte aglomerate vara.",
+          "Utilizați aplicații de parcare pentru plată.",
+          "Respectați limitele de viteză."
+        ],
+        "en": [
+          "Parking at La Pelosa is extremely limited.",
+          "Roads can be very crowded during the summer.",
+          "Use mobile parking apps for easy payment.",
+          "Always adhere to local speed limits."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 10.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Stintino Centro",
+            "hu": "Stintino központ",
+            "ro": "Centrul Stintino",
+            "en": "Stintino Center"
+          },
+          "coords": [
+            8.2333,
+            40.9333
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentrale Bushaltestelle.",
+            "hu": "Központi buszmegálló.",
+            "ro": "Stația centrală de autobuz.",
+            "en": "The main central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "MuT - Museo della Tonnara",
+            "hu": "MuT - Tonhalmúzeum",
+            "ro": "MuT - Muzeul Tonnara",
+            "en": "MuT - Tuna Fishing Museum"
+          },
+          "coords": [
+            8.237,
+            40.935
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fußläufig vom Dorfzentrum erreichbar.",
+            "hu": "Gyalogosan elérhető a falu központjából.",
+            "ro": "Accesibil pe jos din centrul satului.",
+            "en": "Accessible on foot from the village center."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia La Pelosa",
+            "hu": "La Pelosa strand",
+            "ro": "Plaja La Pelosa",
+            "en": "La Pelosa Beach"
+          },
+          "coords": [
+            8.209,
+            40.962
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Pelosa-Shuttle-Bus.",
+            "hu": "Használja a Pelosa-shuttle buszt.",
+            "ro": "Folosiți autobuzul de transfer Pelosa.",
+            "en": "Utilize the specific Pelosa shuttle bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Stintino Porto Nuovo",
+            "hu": "Stintino Porto Nuovo",
+            "ro": "Stintino Porto Nuovo",
+            "en": "Stintino Porto Nuovo"
+          },
+          "coords": [
+            8.238,
+            40.94
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Moderner Hafen mit Café-Bars.",
+            "hu": "Modern kikötő kávézókkal.",
+            "ro": "Port modern cu cafenele și baruri.",
+            "en": "Modern harbor with several café bars."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Stintino lässt sich bequem mit dem Shuttle-Bus erkunden, besonders die Verbindung zum Pelosa-Strand ist im Sommer sehr praktisch.\n\nBesuchen Sie das Fischereimuseum und spazieren Sie durch das Dorf, bevor Sie den Bus zum berühmten Pelosa-Strand nehmen. So vermeiden Sie die schwierige Parkplatzsuche.\n\nGenießen Sie einen entspannten Tag am Wasser und kehren Sie am späten Nachmittag in den Hafen von Stintino zurück.",
+        "hu": "Stintino kényelmesen felfedezhető a shuttle buszokkal, különösen a Pelosa strandra vezető járat hasznos nyáron.\n\nLátogasson el a halászati múzeumba és sétáljon a faluban, mielőtt busszal a híres Pelosa strandra indulna. Így elkerülheti a nehézkes parkolást.\n\nÉlvezze a pihentető napot a víznél, majd késő délután térjen vissza Stintino kikötőjébe.",
+        "ro": "Stintino poate fi explorat confortabil cu autobuzele de transfer, în special conexiunea către plaja Pelosa fiind foarte utilă vara.\n\nVizitați muzeul pescuitului și plimbați-vă prin sat înainte de a lua autobuzul spre celebra plajă Pelosa. Astfel evitați căutarea dificilă a unui loc de parcare.\n\nBucurați-vă de o zi relaxantă la apă și reveniți în portul Stintino spre sfârșitul după-amiezii.",
+        "en": "Stintino can be easily explored using local shuttle buses, especially the connection to La Pelosa beach which is very convenient in summer.\n\nVisit the fishing museum and stroll through the village before taking the bus to the famous La Pelosa beach. This way you avoid the parking hassle.\n\nEnjoy a relaxing day by the water and return to the Stintino harbor area in the late afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Ancora",
+            "tip": "Gute Snacks in Strandnähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Ancora",
+            "tip": "Kiváló harapnivalók a strand közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Ancora",
+            "tip": "Gustări bune în apropierea plajei."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Ancora",
+            "tip": "Great snacks and light lunch near the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Porto Nuovo",
+            "tip": "Weniger touristisch als der alte Hafen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Porto Nuovo",
+            "tip": "Kevésbé turisztikai, mint a régi kikötő.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Porto Nuovo",
+            "tip": "Mai puțin turistic decât portul vechi.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Porto Nuovo",
+            "tip": "Less touristy than the old harbor area.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Edicola Stintino",
+            "tip": "Karten und Reiseführer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stintinoi Újságos",
+            "tip": "Térképek és útikönyvek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Edicola Stintino",
+            "tip": "Hărți și ghiduri turistice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stintino Newsstand",
+            "tip": "Maps and local travel guides."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tickets gibt es beim Busfahrer oder in Bars.",
+          "Der Pelosa-Shuttle fährt im 15-Minuten-Takt.",
+          "Achten Sie auf die letzte Rückfahrt.",
+          "Busse können im Sommer voll sein."
+        ],
+        "hu": [
+          "Jegyet a buszvezetőnél vagy a bárokban vehet.",
+          "A Pelosa-shuttle 15 percenként jár.",
+          "Figyeljen az utolsó visszajárat időpontjára.",
+          "A buszok nyáron zsúfoltak lehetnek."
+        ],
+        "ro": [
+          "Biletele se găsesc la șofer sau în baruri.",
+          "Naveta Pelosa circulă la fiecare 15 minute.",
+          "Atenție la ora ultimului transport de întoarcere.",
+          "Autobuzele pot fi aglomerate vara."
+        ],
+        "en": [
+          "Tickets are available from the driver or at local bars.",
+          "The Pelosa shuttle runs every 15 minutes in summer.",
+          "Check the time for the last return service.",
+          "Buses can be quite crowded during peak hours."
+        ]
+      }
+    }
+  }
+}

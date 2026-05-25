@@ -1,0 +1,732 @@
+{
+  "city_id": "olbia",
+  "anchor": {
+    "name": "Olbia",
+    "coords": [
+      40.9233,
+      9.5
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "id": "basilica-san-simplicio",
+          "name": {
+            "de": "Basilica di San Simplicio",
+            "hu": "Szent Simplicius bazilika",
+            "ro": "Bazilica San Simplicio",
+            "en": "Basilica di San Simplicio"
+          },
+          "coords": [
+            40.9255,
+            9.4955
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wichtigstes romanisches Bauwerk Galluras.",
+            "hu": "Gallura legfontosabb román stílusú épülete.",
+            "ro": "Cea mai importantă clădire romanică din Gallura.",
+            "en": "The most important Romanesque building in Gallura."
+          }
+        },
+        {
+          "id": "chiesa-san-paolo",
+          "name": {
+            "de": "Chiesa di San Paolo",
+            "hu": "Szent Pál templom",
+            "ro": "Biserica San Paolo",
+            "en": "Chiesa di San Paolo"
+          },
+          "coords": [
+            40.9228,
+            9.4995
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bunte Keramikkuppel.",
+            "hu": "Csodáld meg a színes kerámiakupolát.",
+            "ro": "Admirați cupola de ceramică colorată.",
+            "en": "Admire the colorful ceramic-tiled dome."
+          }
+        },
+        {
+          "id": "corso-umberto",
+          "name": {
+            "de": "Corso Umberto I",
+            "hu": "Corso Umberto I",
+            "ro": "Corso Umberto I",
+            "en": "Corso Umberto I"
+          },
+          "coords": [
+            40.9231,
+            9.5015
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ideal für einen italienischen Espresso.",
+            "hu": "Ideális hely egy olasz eszpresszóhoz.",
+            "ro": "Locul ideal pentru un espresso italian.",
+            "en": "The perfect place for a quick Italian espresso."
+          }
+        },
+        {
+          "id": "museo-archeologico",
+          "name": {
+            "de": "Museo Archeologico Nazionale",
+            "hu": "Nemzeti Régészeti Múzeum",
+            "ro": "Muzeul Național de Arheologie",
+            "en": "National Archaeological Museum"
+          },
+          "coords": [
+            40.9242,
+            9.5075
+          ],
+          "category": "museums",
+          "arrive_at": "13:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Sehen Sie die römischen Schiffswracks.",
+            "hu": "Nézd meg a római hajóroncsokat.",
+            "ro": "Vedeți epavele navelor romane.",
+            "en": "See the fascinating Roman shipwreck remains."
+          }
+        },
+        {
+          "id": "porto-vecchio",
+          "name": {
+            "de": "Porto Vecchio",
+            "hu": "Régi Kikötő",
+            "ro": "Portul Vechi",
+            "en": "Porto Vecchio"
+          },
+          "coords": [
+            40.9225,
+            9.5105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spaziergang bei Sonnenuntergang.",
+            "hu": "Kellemes séta naplementekor.",
+            "ro": "O plimbare plăcută la apus.",
+            "en": "A lovely place for a sunset promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Olbia ist mehr als nur ein Tor zur Costa Smeralda. Beginnen Sie bei der Basilica di San Simplicio und spazieren Sie dann zum Herzen der Stadt, der Corso Umberto.\n\nMittags erkunden Sie die bunte San-Paolo-Kirche und tauchen im Archäologischen Museum in die punische und römische Vergangenheit ein.\n\nDer Nachmittag lädt zum Schlendern am Wasser im alten Hafen ein, wo die Boote sanft im Wind schaukeln.\n\nBeenden Sie den Tag in einer der vielen Trattorien mit frischen Miesmuscheln, für die Olbia berühmt ist.",
+        "hu": "Olbia jóval több, mint a Costa Smeralda kapuja. Kezdje a Szent Simplicius bazilikánál, majd sétáljon a város szívébe, a Corso Umberto sugárútra.\n\nDélben fedezze fel a színes kupolájú Szent Pál templomot és merüljön el a pun és római múltban a Régészeti Múzeumban.\n\nA délután hívogató sétára csábít a régi kikötő mentén, ahol a hajók lágyan ringatóznak a vízen.\n\nZárja a napot a város híres feketekagylóival az egyik hangulatos trattoriában.",
+        "ro": "Olbia este mult mai mult decât o poartă către Costa Smeralda. Începeți la Bazilica San Simplicio, apoi mergeți spre inima orașului, Corso Umberto.\n\nLa prânz, explorați biserica colorată San Paolo și scufundați-vă în trecutul punic și roman la Muzeul de Arheologie.\n\nDupă-amiaza vă invită la o plimbare de-a lungul portului vechi, unde bărcile se leagănă ușor pe apă.\n\nÎncheiați ziua cu celebrele midii din Olbia la una dintre trattoriile primitoare.",
+        "en": "Olbia is more than just a gateway to the Costa Smeralda. Start at the Basilica of San Simplicio, then walk to the heart of the city, Corso Umberto I.\n\nAt midday, explore the colorful dome of San Paolo Church and dive into the Punic and Roman past at the Archaeological Museum.\n\nThe afternoon invites you for a stroll along the old port, where boats gently sway in the breeze.\n\nEnd your day in one of the local trattorias with fresh mussels, for which Olbia is justly famous."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cozze di Olbia",
+            "tip": "Frische Miesmuscheln aus dem Golf."
+          },
+          {
+            "name": "Zuppa Gallurese",
+            "tip": "Herzhaftes Brotgericht mit Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cozze di Olbia",
+            "tip": "Friss feketekagyló az öbölből."
+          },
+          {
+            "name": "Zuppa Gallurese",
+            "tip": "Kiadós kenyér alapú tál sajttal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cozze di Olbia",
+            "tip": "Midii proaspete din golf."
+          },
+          {
+            "name": "Zuppa Gallurese",
+            "tip": "Mâncare consistentă cu pâine și brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cozze di Olbia",
+            "tip": "Fresh local mussels from the gulf."
+          },
+          {
+            "name": "Zuppa Gallurese",
+            "tip": "Hearty bread-based dish with cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco Fausto Noce",
+            "tip": "Grüne Lunge der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fausto Noce park",
+            "tip": "A város zöld szíve.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Fausto Noce",
+            "tip": "Plămânul verde al orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fausto Noce Park",
+            "tip": "The green lung of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Umberto",
+            "tip": "Boutiquen und lokale Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Umberto",
+            "tip": "Butikok és helyi üzletek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Umberto",
+            "tip": "Boutique-uri și magazine locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Umberto",
+            "tip": "Boutiques and local craft shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Olbia ist sehr fußgängerfreundlich im Zentrum.",
+          "Probieren Sie den Vermentino di Gallura Wein."
+        ],
+        "hu": [
+          "Olbia központja gyalogosan könnyen bejárható.",
+          "Kóstold meg a helyi Vermentino di Gallura bort."
+        ],
+        "ro": [
+          "Centrul orașului Olbia este foarte prietenos cu pietonii.",
+          "Gustați vinul local Vermentino di Gallura."
+        ],
+        "en": [
+          "Olbia's center is very pedestrian-friendly.",
+          "Don't miss a glass of local Vermentino di Gallura wine."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "id": "pozzo-sacro-sa-testa",
+          "name": {
+            "de": "Pozzo Sacro Sa Testa",
+            "hu": "Sa Testa szent kút",
+            "ro": "Puțul Sfânt Sa Testa",
+            "en": "Pozzo Sacro Sa Testa"
+          },
+          "coords": [
+            40.9385,
+            9.5355
+          ],
+          "category": "natural features",
+          "arrive_at": "09:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Einzigartiges Zeugnis der Nuraghen-Kultur.",
+            "hu": "A nurág-kultúra egyedülálló emléke.",
+            "ro": "Mărturie unică a culturii nuragice.",
+            "en": "A unique monument of the Nuragic civilization."
+          }
+        },
+        {
+          "id": "spiaggia-pittulongu",
+          "name": {
+            "de": "Spiaggia di Pittulongu",
+            "hu": "Pittulongu strand",
+            "ro": "Plaja Pittulongu",
+            "en": "Pittulongu Beach"
+          },
+          "coords": [
+            40.9455,
+            9.5555
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Feiner Sand und Blick auf Tavolara.",
+            "hu": "Finom homok és kilátás Tavolara szigetére.",
+            "ro": "Nisip fin și vedere spre insula Tavolara.",
+            "en": "Fine sand and great views of Tavolara island."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie aus der Stadt hinaus zu den antiken Stätten und den türkisfarbenen Stränden der Umgebung.",
+        "hu": "Tekerjen ki a városból az ókori emlékekhez és a környék türkizkék strandjaihoz.",
+        "ro": "Pedalați în afara orașului către siturile antice și plajele turcoaz din împrejurimi.",
+        "en": "Cycle out of the city towards ancient ruins and the turquoise waters of nearby beaches."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Seadas",
+            "tip": "Süßes Gebäck mit Käse und Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Seadas",
+            "tip": "Sajttal töltött, mézes édesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Seadas",
+            "tip": "Desert cu brânză și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seadas",
+            "tip": "Sweet pastry filled with cheese and honey."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Capo Ceraso",
+            "tip": "Abgelegene Buchten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Capo Ceraso",
+            "tip": "Elszigetelt öblök.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capo Ceraso",
+            "tip": "Golfuri izolate.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Capo Ceraso",
+            "tip": "Secluded coves for quiet contemplation.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercatini",
+            "tip": "Lokale Sommermärkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercatini",
+            "tip": "Helyi nyári piacok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercatini",
+            "tip": "Piețe locale de vară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercatini",
+            "tip": "Local summer evening markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ausreichend Wasser für die Fahrt mit.",
+          "Vermeiden Sie die Hauptstraßen."
+        ],
+        "hu": [
+          "Vigyél magaddal elég vizet.",
+          "Kerüld a forgalmas főutakat."
+        ],
+        "ro": [
+          "Luați destulă apă cu voi.",
+          "Evitați drumurile principale aglomerate."
+        ],
+        "en": [
+          "Bring plenty of water for the ride.",
+          "Stick to secondary roads whenever possible."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 20.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "id": "tomba-giganti",
+          "name": {
+            "de": "Tomba dei Giganti Su Mont'e s'Abe",
+            "hu": "Óriások sírja (Su Mont'e s'Abe)",
+            "ro": "Mormântul Giganților",
+            "en": "Tomba dei Giganti Su Mont'e s'Abe"
+          },
+          "coords": [
+            40.8755,
+            9.4755
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Mystische prähistorische Grabstätte.",
+            "hu": "Misztikus történelem előtti temetkezőhely.",
+            "ro": "Situl funerar preistoric mistic.",
+            "en": "A mystical prehistoric megalithic gallery grave."
+          }
+        },
+        {
+          "id": "castello-pedres",
+          "name": {
+            "de": "Castello di Pedres",
+            "hu": "Pedres vára",
+            "ro": "Castelul Pedres",
+            "en": "Castello di Pedres"
+          },
+          "coords": [
+            40.8785,
+            9.4785
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Aufstieg mit toller Aussicht.",
+            "hu": "Rövid kaptató pazar kilátással.",
+            "ro": "Urcuș scurt cu o vedere superbă.",
+            "en": "A short climb rewarded with great views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die geheimnisvollen Zeugnisse der Nuraghen-Zeit im Hinterland und die traumhafte Küste.",
+        "hu": "Autóval elérheti a hátország titokzatos nurág-kori emlékeit és a lenyűgöző partvidéket.",
+        "ro": "Cu mașina puteți ajunge la vestigiile misterioase din epoca nuragică și la coasta uimitoare.",
+        "en": "A car lets you explore the mysterious Nuragic ruins in the hinterland and the stunning coastline."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Porceddu",
+            "tip": "Sardisches Spanferkel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Porceddu",
+            "tip": "Szárd sült malac."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Porceddu",
+            "tip": "Purcel de lapte la proțap."
+          }
+        ],
+        "en": [
+          {
+            "name": "Porceddu",
+            "tip": "Traditional Sardinian roasted suckling pig."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Monte Pino",
+            "tip": "Waldspaziergang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monte Pino",
+            "tip": "Erdei séta a hegyen.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Monte Pino",
+            "tip": "Plimbare în pădure.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monte Pino",
+            "tip": "Quiet forest walks on the mountain.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gallura Center",
+            "tip": "Großes Einkaufszentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gallura Center",
+            "tip": "Nagy bevásárlóközpont."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gallura Center",
+            "tip": "Centru comercial mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gallura Center",
+            "tip": "Large shopping complex outside the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Olbia ist am Hafen meist einfach.",
+          "Vorsicht vor engen Straßen im Hinterland."
+        ],
+        "hu": [
+          "A kikötőben általában könnyű parkolni.",
+          "Vigyázz a szűk utakra a dombok között."
+        ],
+        "ro": [
+          "Parcarea este de obicei ușoară în port.",
+          "Atenție la drumurile înguste din interiorul insulei."
+        ],
+        "en": [
+          "Parking is usually easy near the port area.",
+          "Be careful on the narrow roads in the hinterland."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 10.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "id": "basilica-san-simplicio",
+          "name": {
+            "de": "Basilica di San Simplicio",
+            "hu": "Szent Simplicius bazilika",
+            "ro": "Bazilica San Simplicio",
+            "en": "Basilica di San Simplicio"
+          },
+          "coords": [
+            40.9255,
+            9.4955
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ganz in der Nähe des Bahnhofs.",
+            "hu": "Nagyon közel van a vasútállomáshoz.",
+            "ro": "Foarte aproape de gară.",
+            "en": "Located very close to the main train station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die ASPO-Busse verbinden das Zentrum mit den wichtigsten Vororten und Stränden wie Pittulongu.",
+        "hu": "Az ASPO buszok összekötik a központot a fontosabb elővárosokkal és strandokkal, mint Pittulongu.",
+        "ro": "Autobuzele ASPO conectează centrul cu suburbiile și plajele importante precum Pittulongu.",
+        "en": "ASPO buses connect the city center with main suburbs and popular beaches like Pittulongu."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pane Carasau",
+            "tip": "Hauchdünnes sardisches Brot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pane Carasau",
+            "tip": "Hajszálvékony szárd kenyér."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pane Carasau",
+            "tip": "Pâine sardiniană foarte subțire."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pane Carasau",
+            "tip": "Paper-thin traditional Sardinian flatbread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Molo Brin",
+            "tip": "Ruhe am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Molo Brin",
+            "tip": "Nyugalom a vízparton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Molo Brin",
+            "tip": "Liniște pe malul mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Molo Brin",
+            "tip": "A quiet spot by the waterfront.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Viale Aldo Moro",
+            "tip": "Lange Geschäftsstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Viale Aldo Moro",
+            "tip": "Hosszú bevásárlóutca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Viale Aldo Moro",
+            "tip": "Stradă lungă cu magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Viale Aldo Moro",
+            "tip": "Long commercial street with many shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bus-Tickets beim Fahrer oder am Kiosk.",
+          "Linie 4 fährt zum Strand."
+        ],
+        "hu": [
+          "Vegyél jegyet a buszon vagy az újságosnál.",
+          "A 4-es járat visz ki a strandra."
+        ],
+        "ro": [
+          "Cumpărați bilete de la șofer sau chioșc.",
+          "Linia 4 merge spre plajă."
+        ],
+        "en": [
+          "Buy tickets from the driver or at newsstands.",
+          "Line 4 is the most popular route to the beach."
+        ]
+      }
+    }
+  }
+}

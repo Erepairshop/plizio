@@ -1,0 +1,1022 @@
+{
+  "city_id": "vicenza",
+  "anchor": {
+    "name": "Vicenza",
+    "coords": [
+      11.5354,
+      45.5455
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro Olimpico",
+            "hu": "Teatro Olimpico",
+            "ro": "Teatro Olimpico",
+            "en": "Teatro Olimpico"
+          },
+          "coords": [
+            11.5495,
+            45.5485
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das älteste überdachte Theater der Welt.",
+            "hu": "A világ legrégebbi fedett színháza.",
+            "ro": "Cel mai vechi teatru acoperit din lume.",
+            "en": "The world's oldest indoor theater."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Chiericati",
+            "hu": "Palazzo Chiericati",
+            "ro": "Palazzo Chiericati",
+            "en": "Palazzo Chiericati"
+          },
+          "coords": [
+            11.5491,
+            45.5481
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk von Palladio.",
+            "hu": "Palladio egyik mesterműve.",
+            "ro": "O capodoperă de Palladio.",
+            "en": "A masterpiece designed by Palladio."
+          }
+        },
+        {
+          "name": {
+            "de": "Corso Andrea Palladio",
+            "hu": "Corso Andrea Palladio",
+            "ro": "Corso Andrea Palladio",
+            "en": "Corso Andrea Palladio"
+          },
+          "coords": [
+            11.5455,
+            45.5475
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für einen Spaziergang und Shopping.",
+            "hu": "Tökéletes sétához és vásárláshoz.",
+            "ro": "Perfect pentru o plimbare și cumpărături.",
+            "en": "Perfect for a stroll and some shopping."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza dei Signori",
+            "hu": "Piazza dei Signori",
+            "ro": "Piazza dei Signori",
+            "en": "Piazza dei Signori"
+          },
+          "coords": [
+            11.5465,
+            45.5465
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt mit der Basilica Palladiana.",
+            "hu": "A város szíve a Basilica Palladianával.",
+            "ro": "Inima orașului cu Basilica Palladiana.",
+            "en": "The city heart featuring the Basilica Palladiana."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica Palladiana",
+            "hu": "Basilica Palladiana",
+            "ro": "Basilica Palladiana",
+            "en": "Basilica Palladiana"
+          },
+          "coords": [
+            11.5468,
+            45.5462
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Dachterrasse für den Blick.",
+            "hu": "Menj fel a tetőteraszra a kilátásért.",
+            "ro": "Vizitați terasa de pe acoperiș pentru vedere.",
+            "en": "Visit the rooftop terrace for the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Querini",
+            "hu": "Parco Querini",
+            "ro": "Parco Querini",
+            "en": "Parco Querini"
+          },
+          "coords": [
+            11.5475,
+            45.5525
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Kaninchen im Park.",
+            "hu": "Nézd meg a nyulakat a parkban.",
+            "ro": "Observați iepurii din parc.",
+            "en": "Watch the rabbits in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vicenza ist die Stadt des Palladio. Beginnen Sie Ihren Rundgang am faszinierenden Teatro Olimpico und dem gegenüberliegenden Palazzo Chiericati. Schlendern Sie entlang des Corso Palladio.\nMittags erreichen Sie die prächtige Piazza dei Signori und besichtigen die Basilica Palladiana, das Wahrzeichen der Stadt.\nAm späten Nachmittag lädt der Parco Querini mit seinen Statuen und Grünflächen zu einem entspannten Abschluss im Freien ein.",
+        "hu": "Vicenza Palladio városa. Kezdd a sétát a lenyűgöző Teatro Olimpicónál és a szemközti Palazzo Chiericatinál. Sétálj végig a Corso Palladio mentén.\nDélben érkezz meg a pompás Piazza dei Signori térre, és látogasd meg a Basilica Palladianát, a város jelképét.\nKéső délután a Parco Querini szobraival és zöld területeivel hívogat egy pihentető szabadtéri zárásra.",
+        "ro": "Vicenza este orașul lui Palladio. Începeți turul la fascinantul Teatro Olimpico și Palazzo Chiericati aflat vizavi. Plimbați-vă de-a lungul Corso Palladio.\nLa prânz, ajungeți în splendida Piazza dei Signori și vizitați Basilica Palladiana, simbolul orașului.\nTârziu după-amiaza, Parco Querini, cu statuile și spațiile sale verzi, vă invită la o încheiere relaxantă în aer liber.",
+        "en": "Vicenza is the city of Palladio. Start your walk at the fascinating Teatro Olimpico and the opposite Palazzo Chiericati. Stroll along the Corso Palladio.\nBy midday, reach the magnificent Piazza dei Signori and visit the Basilica Palladiana, the city's iconic landmark.\nIn the late afternoon, Parco Querini with its statues and green spaces invites you for a relaxing outdoor finish."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Baccalà alla Vicentina",
+            "tip": "Getrockneter Kabeljau mit Polenta."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baccalà alla Vicentina",
+            "tip": "Szárított tőkehal polentával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baccalà alla Vicentina",
+            "tip": "Cod uscat cu polenta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baccalà alla Vicentina",
+            "tip": "Dried cod served with polenta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardino Salvi",
+            "tip": "Kleiner Park mit Loggia.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardino Salvi",
+            "tip": "Kicsi park loggiával.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardino Salvi",
+            "tip": "Parc mic cu loggia.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardino Salvi",
+            "tip": "Small park with a loggia.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Palladio",
+            "tip": "Hauptstraße für Mode und Schmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Palladio",
+            "tip": "Főutca divatnak és ékszereknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Palladio",
+            "tip": "Stradă principală pentru modă și bijuterii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Palladio",
+            "tip": "Main street for fashion and jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vicenza ist kompakt und gut begehbar.",
+          "Viele Denkmäler gehören zum UNESCO-Welterbe.",
+          "Besuchen Sie die Basilica Palladiana am Abend.",
+          "Trinken Sie einen 'Spritz' auf dem Hauptplatz."
+        ],
+        "hu": [
+          "Vicenza kompakt és jól bejárható.",
+          "Sok műemlék az UNESCO Világörökség része.",
+          "Látogasd meg a Basilica Palladianát este.",
+          "Igyál egy 'Spritz'-et a főtéren."
+        ],
+        "ro": [
+          "Vicenza este compactă și ușor de parcurs pe jos.",
+          "Multe monumente fac parte din patrimoniul UNESCO.",
+          "Vizitați Basilica Palladiana seara.",
+          "Beți un 'Spritz' în piața principală."
+        ],
+        "en": [
+          "Vicenza is compact and easy to walk.",
+          "Many monuments are UNESCO World Heritage sites.",
+          "Visit the Basilica Palladiana in the evening.",
+          "Enjoy a 'Spritz' in the main square."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa La Rotonda",
+            "hu": "Villa La Rotonda",
+            "ro": "Villa La Rotonda",
+            "en": "Villa La Rotonda"
+          },
+          "coords": [
+            11.5615,
+            45.5315
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Palladios berühmteste Villa auf dem Hügel.",
+            "hu": "Palladio leghíresebb villája a dombon.",
+            "ro": "Cea mai faimoasă vilă a lui Palladio pe deal.",
+            "en": "Palladio's most famous villa located on the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Valmarana ai Nani",
+            "hu": "Villa Valmarana ai Nani",
+            "ro": "Villa Valmarana ai Nani",
+            "en": "Villa Valmarana ai Nani"
+          },
+          "coords": [
+            11.5565,
+            45.5355
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Berühmt für die Tiepolo-Fresken.",
+            "hu": "Híres a Tiepolo-freskókról.",
+            "ro": "Faimoasă pentru frescele lui Tiepolo.",
+            "en": "Famous for the frescoes by Tiepolo."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario di Monte Berico",
+            "hu": "Monte Berico kegyhely",
+            "ro": "Santuariul Monte Berico",
+            "en": "Sanctuary of Monte Berico"
+          },
+          "coords": [
+            11.5455,
+            45.5345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Steiler Aufstieg, aber tolle Aussicht.",
+            "hu": "Meredek emelkedő, de pazar kilátás.",
+            "ro": "Urcare abruptă, dar vedere superbă.",
+            "en": "Steep climb, but offers a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza dei Signori",
+            "hu": "Piazza dei Signori",
+            "ro": "Piazza dei Signori",
+            "en": "Piazza dei Signori"
+          },
+          "coords": [
+            11.5465,
+            45.5465
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad in der Fußgängerzone.",
+            "hu": "A sétálóövezetben told a biciklit.",
+            "ro": "Împingeți bicicleta în zona pietonală.",
+            "en": "Walk your bike in the pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Olimpico",
+            "hu": "Teatro Olimpico",
+            "ro": "Teatro Olimpico",
+            "en": "Teatro Olimpico"
+          },
+          "coords": [
+            11.5495,
+            45.5485
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahrradparkplätze am Eingang vorhanden.",
+            "hu": "Kerékpártárolók a bejáratnál.",
+            "ro": "Parcări de biciclete la intrare.",
+            "en": "Bike parking available at the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zu den prachtvollen Villen vor den Toren Vicenzas. Starten Sie bei der berühmten Villa La Rotonda und fahren Sie weiter zur Villa Valmarana.\nMittags erklimmen Sie den Monte Berico für einen Panoramablick über die Stadt. Mit dem Fahrrad sind die Hügel sportlich, aber lohnenswert.\nBeenden Sie Ihre Tour im Stadtzentrum bei Palladios Architektur-Highlights wie dem Teatro Olimpico.",
+        "hu": "Tekerj el a pompás villákhoz Vicenza kapuinál. Kezdj a híres Villa La Rotondánál, majd folytasd a Villa Valmaranával.\nDélben mássz fel a Monte Bericóra a városi panorámáért. Biciklivel a dombok sportosak, de megérik a fáradtságot.\nZárd a túrát a belvárosban, Palladio építészeti remekműveinél, mint a Teatro Olimpico.",
+        "ro": "Pedalați către vilele splendide de la marginea orașului Vicenza. Începeți la faimoasa Villa La Rotonda și continuați spre Villa Valmarana.\nLa prânz, urcați pe Monte Berico pentru o vedere panoramică asupra orașului. Dealurile sunt provocatoare cu bicicleta, dar merită.\nÎncheiați turul în centrul orașului, la punctele culminante ale arhitecturii lui Palladio, cum ar fi Teatro Olimpico.",
+        "en": "Cycle to the magnificent villas on the outskirts of Vicenza. Start at the famous Villa La Rotonda and continue to Villa Valmarana.\nAt midday, climb Monte Berico for a panoramic view over the city. The hills are a workout by bike, but definitely worth it.\nEnd your tour in the city center at Palladio's architectural highlights, including the Teatro Olimpico."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasta e Fagioli",
+            "tip": "Herzhafte Nudeln mit Bohnen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasta e Fagioli",
+            "tip": "Kiadós tészta babbal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasta e Fagioli",
+            "tip": "Paste consistente cu fasole."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasta e Fagioli",
+            "tip": "Hearty pasta with beans."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Viale X Giugno",
+            "tip": "Schattige Straße zum Hügel.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Viale X Giugno",
+            "tip": "Árnyas út a dombra.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Viale X Giugno",
+            "tip": "Drum umbrit spre deal.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viale X Giugno",
+            "tip": "Shaded road leading to the hill.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato settimanale",
+            "tip": "Wochenmarkt (Dienstag)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercato settimanale",
+            "tip": "Heti piac (kedd)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercato settimanale",
+            "tip": "Piață săptămânală (marți)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercato settimanale",
+            "tip": "Weekly market (Tuesday)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen für die Abfahrt vom Monte Berico.",
+          "Nutzen Sie den Radweg 'Ciclabile della Riviera Berica'.",
+          "In der Altstadt ist Kopfsteinpflaster häufig.",
+          "Vermeiden Sie die Hauptverkehrsstraßen."
+        ],
+        "hu": [
+          "Ellenőrizd a fékeidet a Monte Bericóról lefelé.",
+          "Használd a 'Ciclabile della Riviera Berica' kerékpárutat.",
+          "A belvárosban gyakori a macskakő.",
+          "Kerüld a fő közlekedési utakat."
+        ],
+        "ro": [
+          "Verificați frânele pentru coborârea de pe Monte Berico.",
+          "Folosiți pista de biciclete 'Ciclabile della Riviera Berica'.",
+          "În centrul vechi este mult pavaj cu piatră cubică.",
+          "Evitați drumurile principale de trafic."
+        ],
+        "en": [
+          "Check your brakes for the descent from Monte Berico.",
+          "Use the 'Ciclabile della Riviera Berica' bike path.",
+          "Cobblestones are common in the old town.",
+          "Avoid the main high-traffic roads."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Santuario di Monte Berico",
+            "hu": "Monte Berico kegyhely",
+            "ro": "Santuariul Monte Berico",
+            "en": "Sanctuary of Monte Berico"
+          },
+          "coords": [
+            11.5455,
+            45.5345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Großer kostenloser Parkplatz vorhanden.",
+            "hu": "Nagy ingyenes parkoló áll rendelkezésre.",
+            "ro": "Parcare mare gratuită disponibilă.",
+            "en": "Large free parking lot available."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa La Rotonda",
+            "hu": "Villa La Rotonda",
+            "ro": "Villa La Rotonda",
+            "en": "Villa La Rotonda"
+          },
+          "coords": [
+            11.5615,
+            45.5315
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken Sie an der Straße entlang der Villa.",
+            "hu": "Parkolj a villa menti úton.",
+            "ro": "Parcați pe drumul de lângă vilă.",
+            "en": "Park on the road alongside the villa."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza dei Signori",
+            "hu": "Piazza dei Signori",
+            "ro": "Piazza dei Signori",
+            "en": "Piazza dei Signori"
+          },
+          "coords": [
+            11.5465,
+            45.5465
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parkhaus 'Matteotti' ist am nächsten.",
+            "hu": "A 'Matteotti' parkolóház van a legközelebb.",
+            "ro": "Parcarea 'Matteotti' este cea mai apropiată.",
+            "en": "Parking garage 'Matteotti' is the nearest."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Olimpico",
+            "hu": "Teatro Olimpico",
+            "ro": "Teatro Olimpico",
+            "en": "Teatro Olimpico"
+          },
+          "coords": [
+            11.5495,
+            45.5485
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Planen Sie Zeit für die Multimedia-Show ein.",
+            "hu": "Tervezz időt a multimédiás bemutatóra.",
+            "ro": "Rezervați timp pentru spectacolul multimedia.",
+            "en": "Plan time for the multimedia show."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Bissara",
+            "hu": "Torre Bissara",
+            "ro": "Torre Bissara",
+            "en": "Torre Bissara"
+          },
+          "coords": [
+            11.5471,
+            45.5468
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der markante Turm neben der Basilika.",
+            "hu": "A bazilika melletti jellegzetes torony.",
+            "ro": "Turnul distinctiv de lângă bazilică.",
+            "en": "The prominent tower next to the basilica."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto ermöglicht einen entspannten Besuch der Sehenswürdigkeiten auf dem Hügel und in der Stadt. Beginnen Sie mit dem Monte Berico für den besten Überblick.\nAnschließend besuchen Sie Palladios Meisterwerk, die Villa La Rotonda, bevor Sie ins Stadtzentrum zurückkehren.\nIm Zentrum können Sie bequem parken und das Teatro Olimpico sowie die Basilica Palladiana zu Fuß erkunden.",
+        "hu": "Az autó lehetővé teszi a dombtetőn és a városban lévő látnivalók kényelmes meglátogatását. Kezdj a Monte Bericónál a legjobb rálátásért.\nEzután látogasd meg Palladio mesterművét, a Villa La Rotondát, mielőtt visszatérnél a belvárosba.\nA központban kényelmesen parkolhatsz, majd gyalog fedezheted fel a Teatro Olimpicót és a Basilica Palladianát.",
+        "ro": "Mașina permite o vizitare relaxată a atracțiilor de pe deal și din oraș. Începeți cu Monte Berico pentru cea mai bună perspectivă.\nUlterior, vizitați capodopera lui Palladio, Villa La Rotonda, înainte de a reveni în centrul orașului.\nÎn centru puteți parca confortabil și puteți explora pe jos Teatro Olimpico și Basilica Palladiana.",
+        "en": "The car allows for a relaxed visit to both the hilltop and city attractions. Start with Monte Berico for the best overall view.\nFollow this with a visit to Palladio's masterpiece, Villa La Rotonda, before heading back into the city center.\nIn the center, you can park conveniently and explore Teatro Olimpico and Basilica Palladiana on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante 7 Santi",
+            "tip": "Gutes Essen mit Blick vom Hügel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante 7 Santi",
+            "tip": "Jó étel kilátással a dombról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante 7 Santi",
+            "tip": "Mâncare bună cu vedere de pe deal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante 7 Santi",
+            "tip": "Good food with a view from the hill."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piazzale della Vittoria",
+            "tip": "Bester Aussichtspunkt für Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazzale della Vittoria",
+            "tip": "A legjobb kilátópont naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazzale della Vittoria",
+            "tip": "Cel mai bun punct de observație pentru apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazzale della Vittoria",
+            "tip": "Best viewpoint for sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Palladio Shopping Center",
+            "tip": "Großes Einkaufszentrum an der Autobahn."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palladio Shopping Center",
+            "tip": "Nagy bevásárlóközpont az autópálya mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Palladio Shopping Center",
+            "tip": "Centru comercial mare lângă autostradă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palladio Shopping Center",
+            "tip": "Large shopping center near the highway."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "ZTL Zonen im Zentrum strikt meiden.",
+          "Parkhaus 'Park Fogazzaro' ist oft frei.",
+          "Fahren Sie vorsichtig auf den schmalen Hügelstraßen.",
+          "Navigationsgeräte führen manchmal in Sackgassen."
+        ],
+        "hu": [
+          "Szigorúan kerüld a belvárosi ZTL zónákat.",
+          "A 'Park Fogazzaro' parkolóházban gyakran van hely.",
+          "Vezess óvatosan a szűk dombi utakon.",
+          "A navigáció néha zsákutcába vihet."
+        ],
+        "ro": [
+          "Evitați strict zonele ZTL din centru.",
+          "Parcarea 'Park Fogazzaro' are adesea locuri libere.",
+          "Conduceți cu atenție pe străzile înguste de pe deal.",
+          "GPS-ul vă poate duce uneori în fundături."
+        ],
+        "en": [
+          "Strictly avoid ZTL zones in the center.",
+          "Parking 'Park Fogazzaro' often has availability.",
+          "Drive carefully on narrow hill roads.",
+          "Navigation systems sometimes lead to dead ends."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Vicenza",
+            "hu": "Vicenzai pályaudvar",
+            "ro": "Gara din Vicenza",
+            "en": "Vicenza Railway Station"
+          },
+          "coords": [
+            11.5435,
+            45.5415
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Busbahnhof direkt nebenan.",
+            "hu": "Buszpályaudvar közvetlenül mellette.",
+            "ro": "Autogara este chiar alături.",
+            "en": "Bus station is located right next door."
+          }
+        },
+        {
+          "name": {
+            "de": "Corso Andrea Palladio",
+            "hu": "Corso Andrea Palladio",
+            "ro": "Corso Andrea Palladio",
+            "en": "Corso Andrea Palladio"
+          },
+          "coords": [
+            11.5455,
+            45.5475
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Viele Buslinien halten hier.",
+            "hu": "Sok buszvonal megáll itt.",
+            "ro": "Multe linii de autobuz opresc aici.",
+            "en": "Many bus lines stop here."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Olimpico",
+            "hu": "Teatro Olimpico",
+            "ro": "Teatro Olimpico",
+            "en": "Teatro Olimpico"
+          },
+          "coords": [
+            11.5495,
+            45.5485
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nur 5 Minuten Fußweg von der Bushaltestelle.",
+            "hu": "Csak 5 perc séta a buszmegállótól.",
+            "ro": "La doar 5 minute de mers de la stație.",
+            "en": "Only a 5-minute walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario di Monte Berico",
+            "hu": "Monte Berico kegyhely",
+            "ro": "Santuariul Monte Berico",
+            "en": "Sanctuary of Monte Berico"
+          },
+          "coords": [
+            11.5455,
+            45.5345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Bus Linie 18 zum Hügel.",
+            "hu": "Használd a 18-as buszt a dombra.",
+            "ro": "Folosiți autobuzul linia 18 spre deal.",
+            "en": "Use bus line 18 to reach the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza dei Signori",
+            "hu": "Piazza dei Signori",
+            "ro": "Piazza dei Signori",
+            "en": "Piazza dei Signori"
+          },
+          "coords": [
+            11.5465,
+            45.5465
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Zentraler Platz im Herzen der Stadt.",
+            "hu": "Központi tér a város szívében.",
+            "ro": "Piață centrală în inima orașului.",
+            "en": "Central square in the heart of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vicenza lässt sich gut mit dem Busnetz erkunden. Starten Sie am Bahnhof und fahren Sie ins Herz der Stadt zum Corso Palladio und zum Teatro Olimpico.\nMittags bringt Sie die Linie 18 bequem hinauf zum Monte Berico, ohne dass Sie zu Fuß gehen müssen.\nBeenden Sie Ihren Tag auf der Piazza dei Signori und genießen Sie die Palladio-Architektur, bevor Sie mit dem Bus zurück zum Bahnhof fahren.",
+        "hu": "Vicenza jól felfedezhető a buszhálózattal. Kezdj a pályaudvaron, és utazz a város szívébe, a Corso Palladióhoz és a Teatro Olimpicóhoz.\nDélben a 18-as vonal kényelmesen felvisz a Monte Bericóra, így nem kell gyalogolnod.\nZárd a napot a Piazza dei Signori téren, élvezd Palladio építészetét, mielőtt busszal visszamennél a pályaudvarra.",
+        "ro": "Vicenza poate fi explorată ușor cu rețeaua de autobuze. Începeți de la gară și mergeți spre inima orașului la Corso Palladio și Teatro Olimpico.\nLa prânz, linia 18 vă duce confortabil sus pe Monte Berico, fără a fi nevoie să mergeți pe jos.\nÎncheiați ziua în Piazza dei Signori și bucurați-vă de arhitectura lui Palladio înainte de a lua autobuzul înapoi spre gară.",
+        "en": "Vicenza is easy to explore using the bus network. Start at the railway station and travel to the heart of the city at Corso Palladio and Teatro Olimpico.\nAt midday, line 18 takes you comfortably up to Monte Berico, saving you the walk up the hill.\nEnd your day at Piazza dei Signori to admire Palladio's architecture before taking a bus back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasticceria Bolzani",
+            "tip": "Hervorragendes Gebäck nahe der Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasticceria Bolzani",
+            "tip": "Kiváló sütemények a buszmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasticceria Bolzani",
+            "tip": "Patiserie excelentă lângă stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasticceria Bolzani",
+            "tip": "Excellent pastries near the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Campo Marzo",
+            "tip": "Großer Park vor dem Bahnhof.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Campo Marzo",
+            "tip": "Nagy park a pályaudvar előtt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Campo Marzo",
+            "tip": "Parc mare în fața gării.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Campo Marzo",
+            "tip": "Large park located in front of the station.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Libreria Galla",
+            "tip": "Historische Buchhandlung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Libreria Galla",
+            "tip": "Történelmi könyvesbolt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Libreria Galla",
+            "tip": "Librărie istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Libreria Galla",
+            "tip": "Historic bookstore."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets in 'Tabacchi'-Läden.",
+          "Die Linie 1 ist die wichtigste Stadtlinie.",
+          "Busse fahren am Wochenende seltener.",
+          "Validieren Sie Ihr Ticket beim Einsteigen."
+        ],
+        "hu": [
+          "Vegyél jegyet a 'Tabacchi' üzletekben.",
+          "Az 1-es vonal a legfontosabb városi járat.",
+          "Hétvégén ritkábban járnak a buszok.",
+          "Érvényesítsd a jegyedet felszálláskor."
+        ],
+        "ro": [
+          "Cumpărați bilete de la magazinele 'Tabacchi'.",
+          "Linia 1 este cea mai importantă linie urbană.",
+          "Autobuzele circulă mai rar în weekend.",
+          "Validați biletul la urcare."
+        ],
+        "en": [
+          "Buy tickets at 'Tabacchi' shops.",
+          "Line 1 is the primary city route.",
+          "Buses run less frequently on weekends.",
+          "Always validate your ticket upon boarding."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-34",
+    "transit_official": "https://www.svt.vi.it/",
+    "transit_app": "https://www.svt.vi.it/it/biglietti/app-svt",
+    "bike_share": null,
+    "city_card": "https://www.museicivicivicenza.it/it/mcc/card.php",
+    "events": "https://www.vicenzae.org/eventi/",
+    "tourism_office": "https://www.vicenzae.org/",
+    "webcam": "https://www.skylinewebcams.com/it/webcam/italia/veneto/vicenza.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/vicenza-c561939",
+    "museum_tickets": "https://www.museicivicivicenza.it/",
+    "parking_real_time": "https://www.aimmobilita.it/",
+    "language_tips": {
+      "de": "Italienisch ist Standard; Englisch in Palladio-Sites und Tourismusbueros gut verfuegbar.",
+      "hu": "Olasz a standard; a Palladio-helyszineken es turistairodakban jol boldogulsz angolul.",
+      "ro": "Italiana este standard; engleza este disponibila bine la siturile Palladio si la birourile turistice.",
+      "en": "Italian is standard; English is well covered at Palladio sites and tourist offices."
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni und September fuer Palladio-Touren; Sommer schwuel, Winter neblig.",
+      "hu": "Majus, junius es szeptember a legjobb a Palladio-turakhoz; nyaron paras, telen kodos.",
+      "ro": "Mai, iunie si septembrie pentru tururile Palladio; vara umeda, iarna cetoasa.",
+      "en": "May, June and September are best for Palladio tours; summer is humid, winter foggy."
+    },
+    "neighborhood_warnings": {
+      "de": "Stadt ist insgesamt sehr sicher; uebliche Vorsicht am Bahnhof und nachts.",
+      "hu": "A varos osszessegeben nagyon biztonsagos; szokasos ovatossag az allomason es ejjel.",
+      "ro": "Orasul este in general foarte sigur; precautie obisnuita la gara si noaptea.",
+      "en": "City is overall very safe; usual caution near the station at night."
+    }
+  }
+}

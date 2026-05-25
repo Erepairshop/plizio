@@ -1,0 +1,890 @@
+{
+  "city_id": "merano",
+  "anchor": {
+    "name": "Die Lauben",
+    "coords": [
+      11.1606,
+      46.6712
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Die Lauben (Portici)",
+          "coords": [
+            11.1606,
+            46.6712
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mittelalterliche Einkaufsgassen.",
+            "hu": "Középkori bevásárlóutcák.",
+            "ro": "Străzi medievale comerciale.",
+            "en": "Medieval shopping alleys."
+          }
+        },
+        {
+          "name": "Pfarrkirche St. Nikolaus",
+          "coords": [
+            11.1635,
+            46.6715
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gotische Fresken entdecken.",
+            "hu": "Fedezze fel a gótikus freskókat.",
+            "ro": "Descoperiți frescele gotice.",
+            "en": "Discover the Gothic frescoes."
+          }
+        },
+        {
+          "name": "Kurhaus Meran",
+          "coords": [
+            11.162,
+            46.6702
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Prachtbau des Jugendstils.",
+            "hu": "Szecessziós díszépület.",
+            "ro": "Clădire splendidă Art Nouveau.",
+            "en": "Magnificent Art Nouveau building."
+          }
+        },
+        {
+          "name": "Passer-Promenade",
+          "coords": [
+            11.163,
+            46.6695
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Flanieren wie Sisi.",
+            "hu": "Sétáljon, mint Sisi hercegnő.",
+            "ro": "Plimbați-vă ca Sisi.",
+            "en": "Stroll like Empress Sisi."
+          }
+        },
+        {
+          "name": "Therme Meran",
+          "coords": [
+            11.161,
+            46.6685
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannung pur im Park.",
+            "hu": "Tiszta ellazulás a parkban.",
+            "ro": "Relaxare pură în parc.",
+            "en": "Pure relaxation in the park."
+          }
+        },
+        {
+          "name": "Landesfürstliche Burg",
+          "coords": [
+            11.1595,
+            46.6725
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Residenz der Tiroler Fürsten.",
+            "hu": "A tiroli hercegek rezidenciája.",
+            "ro": "Reședința prinților tirolezi.",
+            "en": "Residence of the Tyrolean princes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in den historischen Laubengassen und besuchen Sie die Nikolauskirche. Mittags bewundern Sie das Kurhaus und flanieren entlang der Passer-Promenade. Der Nachmittag gehört der Entspannung in der Therme, bevor Sie die landesfürstliche Burg im Herzen der Stadt erkunden.",
+        "hu": "Kezdje a napot a történelmi árkádos utcákban, és látogassa meg a Szent Miklós-templomot. Délben csodálja meg a Kurhaust, és sétáljon a Passer-sétányon. A délután a pihenésé a termálfürdőben, mielőtt felfedezné a város szívében található fejedelmi várat.",
+        "ro": "Începeți ziua pe străzile istorice sub arcade și vizitați biserica Sf. Nicolae. La prânz admirați Kurhaus și plimbați-vă pe promenada Passer. După-amiaza este dedicată relaxării la terme, înainte de a explora castelul princiar din inima orașului.",
+        "en": "Start the day in the historic arcade alleys and visit St. Nicholas Church. At midday, admire the Kurhaus and stroll along the Passer Promenade. The afternoon is for relaxation in the thermal baths before exploring the princely castle in the heart of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Speckknödel",
+            "tip": "Echt alpenländisch im 'Forst Biergarten'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szalonnás gombóc",
+            "tip": "Igazi alpesi íz a 'Forst Biergarten'-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Găluște cu bacon",
+            "tip": "Autentic alpin la 'Forst Biergarten'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bacon dumplings",
+            "tip": "Truly Alpine at 'Forst Biergarten'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sommerpromenade",
+            "tip": "Schatten und Ruhe am Fluss.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nyári sétány",
+            "tip": "Árnyék és nyugalom a folyónál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de vară",
+            "tip": "Umbră și liniște lângă râu.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summer Promenade",
+            "tip": "Shade and peace by the river.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Meraner Markt",
+            "tip": "Samstags regionale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Meranói piac",
+            "tip": "Szombatonként regionális termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Merano",
+            "tip": "Sâmbăta produse regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Merano Market",
+            "tip": "Regional products on Saturdays."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist sehr kompakt und gut zu Fuß zu erkunden.",
+          "Trinken Sie Wasser aus den Brunnen."
+        ],
+        "hu": [
+          "A város nagyon kompakt, gyalogosan jól felfedezhető.",
+          "Igyon a kutak vizéből."
+        ],
+        "ro": [
+          "Orașul este foarte compact și ușor de explorat pe jos.",
+          "Beți apă de la fântâni."
+        ],
+        "en": [
+          "The city is very compact and easy to explore on foot.",
+          "Drink water from the fountains."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Passer-Promenade",
+          "coords": [
+            11.163,
+            46.6695
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ebener Radweg am Fluss.",
+            "hu": "Sík kerékpárút a folyó mentén.",
+            "ro": "Pistă de biciclete plană lângă râu.",
+            "en": "Flat cycle path along the river."
+          }
+        },
+        {
+          "name": "Gärten von Schloss Trauttmansdorff",
+          "coords": [
+            11.1855,
+            46.6605
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "E-Bike empfohlen für die Steigung.",
+            "hu": "E-bike ajánlott az emelkedőhöz.",
+            "ro": "Se recomandă e-bike pentru pantă.",
+            "en": "E-bike recommended for the incline."
+          }
+        },
+        {
+          "name": "Schloss Rametz",
+          "coords": [
+            11.1885,
+            46.6655
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Weinbaumuseum besuchen.",
+            "hu": "Látogassa meg a bormúzeumot.",
+            "ro": "Vizitați muzeul viticulturii.",
+            "en": "Visit the wine museum."
+          }
+        },
+        {
+          "name": "Tappeinerweg",
+          "coords": [
+            11.1655,
+            46.6785
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Aussicht über das Meraner Land.",
+            "hu": "Kilátás a meranói vidékre.",
+            "ro": "Vedere asupra regiunii Merano.",
+            "en": "View over the Merano countryside."
+          }
+        },
+        {
+          "name": "Die Lauben",
+          "coords": [
+            11.1606,
+            46.6712
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bikes in der Fußgängerzone schieben.",
+            "hu": "A sétálóövezetben tolja a kerékpárt.",
+            "ro": "Împingeți bicicleta în zona pietonală.",
+            "en": "Push your bike in the pedestrian zone."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens entspannt am Fluss entlang und nehmen Sie den Anstieg zu den Trauttmansdorff-Gärten in Angriff. Belohnen Sie sich mit einem Besuch auf Schloss Rametz. Am Nachmittag genießen Sie die Fahrt auf dem sonnigen Tappeinerweg, bevor Sie zurück in die Altstadt kehren.",
+        "hu": "Reggel tekerjen lazán a folyó mentén, majd vágjon neki a Trauttmansdorff-kertekhez vezető emelkedőnek. Jutalmazza meg magát a Rametz-kastély meglátogatásával. Délután élvezze a tekerést a napos Tappeinerweg-en, mielőtt visszatérne az óvárosba.",
+        "ro": "Pedalați relaxat dimineața pe lângă râu și abordați urcarea spre Grădinile Trauttmansdorff. Recompensați-vă cu o vizită la Castelul Rametz. După-amiaza bucurați-vă de plimbarea pe însoritul Tappeinerweg, înainte de a reveni în centrul vechi.",
+        "en": "Cycle relaxedly along the river in the morning and tackle the climb to the Trauttmansdorff Gardens. Reward yourself with a visit to Rametz Castle. In the afternoon, enjoy the ride on the sunny Tappeinerweg before returning to the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Marende",
+            "tip": "Südtiroler Brettljause bei 'Rametz'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marende",
+            "tip": "Dél-tiroli hidegtál a 'Rametz'-nél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marende",
+            "tip": "Platou rece sud-tirolez la 'Rametz'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marende",
+            "tip": "South Tyrolean cold platter at 'Rametz'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tappeinerweg",
+            "tip": "Sonnige Panoramabank suchen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tappeinerweg",
+            "tip": "Keressen egy napos panorámapadot.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tappeinerweg",
+            "tip": "Căutați o bancă panoramică însorită.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tappeinerweg",
+            "tip": "Find a sunny panoramic bench.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pur Südtirol",
+            "tip": "Beste lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pur Südtirol",
+            "tip": "A legjobb helyi különlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pur Südtirol",
+            "tip": "Cele mai bune specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pur Südtirol",
+            "tip": "Best local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Meran ist an das überregionale Radnetz angebunden.",
+          "In der Stadt gibt es viele Leihstationen."
+        ],
+        "hu": [
+          "Merano csatlakozik a régiók feletti kerékpárúthálózathoz.",
+          "A városban sok kölcsönző állomás található."
+        ],
+        "ro": [
+          "Merano este conectat la rețeaua regională de biciclete.",
+          "Există multe stații de închiriere în oraș."
+        ],
+        "en": [
+          "Merano is connected to the regional cycle network.",
+          "There are many rental stations in the city."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18.0,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 18.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Gärten von Schloss Trauttmansdorff",
+          "coords": [
+            11.1855,
+            46.6605
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz vor Ort.",
+            "hu": "Nagy parkoló a helyszínen.",
+            "ro": "Parcare mare la fața locului.",
+            "en": "Large parking lot on site."
+          }
+        },
+        {
+          "name": "Schloss Tirol",
+          "coords": [
+            11.1455,
+            46.6945
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Fahrt bis zum Dorf Tirol, dann Fußweg.",
+            "hu": "Utazás Tirol faluig, majd gyalogút.",
+            "ro": "Mergeți până în satul Tirol, apoi pe jos.",
+            "en": "Drive to Dorf Tirol, then walk."
+          }
+        },
+        {
+          "name": "Schloss Rametz",
+          "coords": [
+            11.1885,
+            46.6655
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.2,
+          "tip_5lang": {
+            "de": "Perfekt für Weinkäufe.",
+            "hu": "Tökéletes borvásárláshoz.",
+            "ro": "Perfect pentru cumpărături de vin.",
+            "en": "Perfect for buying wine."
+          }
+        },
+        {
+          "name": "Kurhaus Meran",
+          "coords": [
+            11.162,
+            46.6702
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parkhaus 'Therme' nutzen.",
+            "hu": "Használja a 'Therme' parkolóházat.",
+            "ro": "Folosiți parcarea 'Therme'.",
+            "en": "Use the 'Therme' parking garage."
+          }
+        },
+        {
+          "name": "Passer-Promenade",
+          "coords": [
+            11.163,
+            46.6695
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Abendspaziergang am Wasser.",
+            "hu": "Esti séta a vízparton.",
+            "ro": "Plimbare de seară pe malul apei.",
+            "en": "Evening stroll by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittags genießen Sie die botanische Vielfalt bei Trauttmansdorff. Danach fahren Sie hinauf zum Schloss Tirol, dem historischen Stammsitz. Nach einer Weinpause auf Schloss Rametz kehren Sie ins Zentrum zurück, um das Kurhaus und die Promenade bei Sonnenuntergang zu erleben.",
+        "hu": "Délelőtt a botanikai sokszínűséget élvezheti Trauttmansdorffban. Ezután hajtson fel a Tiroli várba, a történelmi ősi székhelyre. Egy kis borozás után a Rametz-kastélyban, térjen vissza a központba, hogy naplementekor élje át a Kurhaust és a sétányt.",
+        "ro": "Dimineața bucurați-vă de diversitatea botanică la Trauttmansdorff. Apoi conduceți până la Castelul Tirol, reședința istorică a conților. După o pauză la Castelul Rametz, reveniți în centru pentru a experimenta Kurhaus și promenada la apus.",
+        "en": "In the morning, enjoy the botanical diversity at Trauttmansdorff. Then drive up to Tyrol Castle, the historic ancestral seat. After a wine break at Rametz Castle, return to the center to experience the Kurhaus and the promenade at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schlutzkrapfen",
+            "tip": "Hausgemacht im 'Restaurant Schloss Tirol'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schlutzkrapfen",
+            "tip": "Házias tészta a 'Restaurant Schloss Tirol'-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schlutzkrapfen",
+            "tip": "Paste făcute în casă la 'Restaurant Schloss Tirol'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schlutzkrapfen",
+            "tip": "Homemade pasta at 'Restaurant Schloss Tirol'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dorf Tirol",
+            "tip": "Blick über das ganze Etschtal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tirol falu",
+            "tip": "Kilátás az egész Adige-völgyre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Satul Tirol",
+            "tip": "Vedere asupra întregii văi Adige.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dorf Tirol",
+            "tip": "View over the entire Adige Valley.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schlosskellerei Rametz",
+            "tip": "Exzellente lokale Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rametz kastélypince",
+            "tip": "Kiváló helyi borok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crama Castelului Rametz",
+            "tip": "Vinuri locale excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rametz Castle Winery",
+            "tip": "Excellent local wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Viele Schlösser haben enge Zufahrtsstraßen.",
+          "Parken ist im Zentrum teuer, nutzen Sie Sammelparkplätze."
+        ],
+        "hu": [
+          "Sok kastélyhoz szűk bekötőutak vezetnek.",
+          "A parkolás a központban drága, használja a gyűjtőparkolókat."
+        ],
+        "ro": [
+          "Multe castele au drumuri de acces înguste.",
+          "Parcarea în centru este scumpă, folosiți parcările publice."
+        ],
+        "en": [
+          "Many castles have narrow access roads.",
+          "Parking is expensive in the center, use public parking lots."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Die Lauben",
+          "coords": [
+            11.1606,
+            46.6712
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Start im Zentrum.",
+            "hu": "Kezdés a központban.",
+            "ro": "Start în centru.",
+            "en": "Start in the center."
+          }
+        },
+        {
+          "name": "Gärten von Schloss Trauttmansdorff",
+          "coords": [
+            11.1855,
+            46.6605
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Linie 4 oder 1B nutzen.",
+            "hu": "Használja a 4-es vagy 1B járatot.",
+            "ro": "Folosiți linia 4 sau 1B.",
+            "en": "Use line 4 or 1B."
+          }
+        },
+        {
+          "name": "Schloss Tirol",
+          "coords": [
+            11.1455,
+            46.6945
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Bus nach Dorf Tirol nehmen.",
+            "hu": "Menjen busszal Tirol faluig.",
+            "ro": "Luați autobuzul spre satul Tirol.",
+            "en": "Take the bus to Dorf Tirol."
+          }
+        },
+        {
+          "name": "Kurhaus Meran",
+          "coords": [
+            11.162,
+            46.6702
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Zentraler Ausstieg.",
+            "hu": "Központi leszállás.",
+            "ro": "Coborâre centrală.",
+            "en": "Central stop."
+          }
+        },
+        {
+          "name": "Passer-Promenade",
+          "coords": [
+            11.163,
+            46.6695
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannt flanieren.",
+            "hu": "Kényelmes séta.",
+            "ro": "Plimbare relaxată.",
+            "en": "Relaxed stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittags erkunden Sie die Laubengassen und fahren dann mit dem Bus zu den berühmten Gärten. Nachmittags bringt Sie der ÖPNV hinauf nach Dorf Tirol für einen Burgbesuch. Zum Abschluss kehren Sie ins Stadtzentrum zurück für einen Spaziergang entlang der Kurpromenade.",
+        "hu": "Délelőtt felfedezi az árkádos utcákat, majd busszal megy a híres kertekhez. Délután a tömegközlekedés felviszi Tirol faluba egy várlátogatásra. Végül térjen vissza a városközpontba egy sétára a Kurpromenade mentén.",
+        "ro": "Dimineața explorați arcadele și apoi mergeți cu autobuzul la faimoasele grădini. După-amiaza transportul public vă duce în satul Tirol pentru o vizită la castel. În final, reveniți în centrul orașului pentru o plimbare pe promenada Kur.",
+        "en": "In the morning, explore the arcade alleys and then take the bus to the famous gardens. In the afternoon, public transport takes you up to Dorf Tirol for a castle visit. Finally, return to the city center for a stroll along the Kur Promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Apfelstrudel",
+            "tip": "Ein Muss im 'Café König'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Almás rétes",
+            "tip": "Kötelező a 'Café König'-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strudel cu mere",
+            "tip": "Obligatoriu la 'Café König'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Apple strudel",
+            "tip": "A must at 'Café König'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sissi-Park",
+            "tip": "Oase der Ruhe im Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sissi-park",
+            "tip": "A nyugalom oázisa a központban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Sissi",
+            "tip": "Oază de liniște în centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sissi Park",
+            "tip": "Oasis of peace in the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Obermais",
+            "tip": "Schicke Läden abseits des Trubels."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Obermais",
+            "tip": "Sikk üzletek a tömegtől távol.",
+            "emoji": ""
+          }
+        ],
+        "ro": [
+          {
+            "name": "Obermais",
+            "tip": "Magazine șic departe de aglomerație."
+          }
+        ],
+        "en": [
+          {
+            "name": "Obermais",
+            "tip": "Chic shops away from the bustle."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die 'Mobilcard' Südtirol.",
+          "Die Busse verkehren in dichtem Takt."
+        ],
+        "hu": [
+          "Használja a dél-tiroli 'Mobilcard'-ot.",
+          "A buszok sűrűn közlekednek."
+        ],
+        "ro": [
+          "Folosiți 'Mobilcard' Tirolul de Sud.",
+          "Autobuzele circulă la intervale scurte."
+        ],
+        "en": [
+          "Use the South Tyrol 'Mobilcard'.",
+          "Buses run at frequent intervals."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "_coords": [
+      11.1606,
+      46.6711
+    ],
+    "_region": "IT-32 Trentino-Alto Adige (Südtirol)",
+    "transit_official": "https://www.sasabz.it/en/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Merano",
+    "bike_share": null,
+    "city_card": "https://www.merano-suedtirol.it/en/lana-and-environs/info-service/information/advantage-cards/merancard.html",
+    "events": "https://www.merano-suedtirol.it/en/events.html",
+    "tourism_office": "https://www.merano-suedtirol.it/en/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/bolzano/merano-passeggiata-lungo-passirio.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/merano-c561776",
+    "museum_tickets": "https://www.trauttmansdorff.it/en/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Deutsch und Italienisch beide Amtssprachen (Südtirol); Deutsch dominiert. Englisch in Tourismus gut.",
+      "hu": "Német és olasz egyaránt hivatalos (Dél-Tirol); a német dominál. Angol jó a turizmusban.",
+      "ro": "Germana și italiana ambele oficiale (Tirolul de Sud); germana domină. Engleza bună în turism.",
+      "en": "German and Italian both official (South Tyrol); German dominant. English good in tourism."
+    },
+    "best_time": {
+      "de": "April–Juni für Blütezeit und Trauttmansdorff; September–Oktober für Törggelen; Dezember Christkindlmarkt.",
+      "hu": "Április–június virágzásra és Trauttmansdorffra; szeptember–október Törggelenre; december karácsonyi vásár.",
+      "ro": "Aprilie–iunie pentru înflorire și Trauttmansdorff; septembrie–octombrie pentru Törggelen; decembrie târg de Crăciun.",
+      "en": "April–June for blossom season and Trauttmansdorff; September–October for Törggelen; December Christmas market."
+    },
+    "warnings": {
+      "de": "Verkehrsbeschränkungen in Altstadt; Therme an Wochenenden voll. Föhn-Wetterwechsel möglich.",
+      "hu": "Forgalmi korlátozások az óvárosban; termálfürdő hétvégén tele. Főn hirtelen időjárásváltozás.",
+      "ro": "Restricții de trafic în centrul vechi; termele aglomerate în weekend. Schimbări bruște de vreme cu Föhn.",
+      "en": "Traffic restrictions in old town; thermal baths packed on weekends. Föhn wind brings sudden weather shifts."
+    }
+  }
+}

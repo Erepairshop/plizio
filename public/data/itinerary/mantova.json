@@ -1,0 +1,987 @@
+{
+  "city_id": "mantova",
+  "anchor": {
+    "name": "Mantova Centro",
+    "coords": [
+      10.7914,
+      45.1564
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piazza Sordello",
+          "coords": [
+            10.7942,
+            45.1601
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade des Palazzo Ducale.",
+            "hu": "Csodálja meg a Palazzo Ducale homlokzatát.",
+            "ro": "Admirați fațada Palazzo Ducale.",
+            "en": "Admire the facade of the Palazzo Ducale."
+          }
+        },
+        {
+          "name": "Duomo di Mantova",
+          "coords": [
+            10.7958,
+            45.1608
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die prächtige Innenausstattung von Giulio Romano.",
+            "hu": "Figyelje meg Giulio Romano pazar belső tereit.",
+            "ro": "Observați interioarele somptuoase ale lui Giulio Romano.",
+            "en": "Observe the sumptuous interiors by Giulio Romano."
+          }
+        },
+        {
+          "name": "Palazzo Ducale",
+          "coords": [
+            10.7985,
+            45.1612
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie unbedingt die Camera degli Sposi von Mantegna.",
+            "hu": "Mindenképpen nézze meg Mantegna Camera degli Sposi-ját.",
+            "ro": "Vizitați neapărat Camera degli Sposi de Mantegna.",
+            "en": "Be sure to visit Mantegna's Camera degli Sposi."
+          }
+        },
+        {
+          "name": "Castello di San Giorgio",
+          "coords": [
+            10.8011,
+            45.1621
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf den Lago Inferiore.",
+            "hu": "Élvezze a kilátást a Lago Inferiore tóra.",
+            "ro": "Bucurați-vă de priveliștea spre Lago Inferiore.",
+            "en": "Enjoy the view of Lago Inferiore."
+          }
+        },
+        {
+          "name": "Basilica di Sant'Andrea",
+          "coords": [
+            10.7943,
+            45.1585
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Reliquie des Heiligen Blutes.",
+            "hu": "Tekintse meg a Szent Vér ereklyét.",
+            "ro": "Vizitați relicva Sângelui Sfânt.",
+            "en": "Visit the relic of the Holy Blood."
+          }
+        },
+        {
+          "name": "Piazza delle Erbe",
+          "coords": [
+            10.7941,
+            45.1572
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Sehen Sie die astronomische Uhr am Palazzo della Ragione.",
+            "hu": "Nézze meg az asztrológiai órát a Palazzo della Ragione-n.",
+            "ro": "Vedeți ceasul astronomic de pe Palazzo della Ragione.",
+            "en": "See the astronomical clock on Palazzo della Ragione."
+          }
+        },
+        {
+          "name": "Palazzo Te",
+          "coords": [
+            10.7865,
+            45.1481
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht den spektakulären Saal der Giganten.",
+            "hu": "Ne hagyja ki az óriások lenyűgöző termét.",
+            "ro": "Nu ratați spectaculoasa Sală a Giganților.",
+            "en": "Don't miss the spectacular Room of the Giants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Mantua auf der Piazza Sordello, umgeben von mittelalterlicher Pracht. Besuchen Sie den riesigen Palazzo Ducale und erkunden Sie die prächtigen Säle der Gonzaga-Familie. Nachmittags spazieren Sie zur Basilika Sant'Andrea, einem Meisterwerk der Renaissance, und genießen die Atmosphäre auf der Piazza delle Erbe. Den Abschluss bildet der beeindruckende Palazzo Te mit seinen faszinierenden Fresken.",
+        "hu": "Kezdje a napot Mantova történelmi szívében, a Piazza Sordello téren, középkori paloták gyűrűjében. Fedezze fel a monumentális Palazzo Ducale termeit, ahol a Gonzaga-család öröksége elevenedik meg. Délután látogasson el a Sant'Andrea bazilikához, a reneszánsz építészet remekművéhez, majd pihenjen a Piazza delle Erbe hangulatos kávézói mellett. A napot a Palazzo Te lélegzetelállító freskói koronázzák meg.",
+        "ro": "Începeți ziua în inima istorică a Mantovei, în Piazza Sordello, înconjurată de splendoare medievală. Explorați imensul Palazzo Ducale și sălile magnifice ale familiei Gonzaga. După-amiază, plimbați-vă spre Basilica Sant'Andrea, o capodoperă a Renașterii, și bucurați-vă de atmosfera din Piazza delle Erbe. Finalul zilei este marcat de impresionantul Palazzo Te, cu frescele sale fascinante.",
+        "en": "Start your day in the historical heart of Mantua at Piazza Sordello, surrounded by medieval grandeur. Visit the vast Palazzo Ducale and explore the magnificent halls of the Gonzaga family. In the afternoon, walk to the Basilica di Sant'Andrea, a masterpiece of the Renaissance, and enjoy the atmosphere in Piazza delle Erbe. The day concludes at the impressive Palazzo Te with its fascinating frescoes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tortelli di zucca",
+            "tip": "Kürbisfüllung mit Amaretti bei Ristorante Il Cigno."
+          },
+          {
+            "name": "Sbrisolona",
+            "tip": "Harter Mandelkuchen in der Pasticceria La Tur dal Sucar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tortelli di zucca",
+            "tip": "Sütőtökös tészta amaretto keksszel az Il Cigno étteremben."
+          },
+          {
+            "name": "Sbrisolona",
+            "tip": "Hagyományos mandulás sütemény a La Tur dal Sucar cukrászdában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tortelli di zucca",
+            "tip": "Paste umplute cu dovleac și amaretti la Ristorante Il Cigno."
+          },
+          {
+            "name": "Sbrisolona",
+            "tip": "Prăjitură crocantă cu migdale la Pasticceria La Tur dal Sucar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tortelli di zucca",
+            "tip": "Pumpkin filling with amaretti at Ristorante Il Cigno."
+          },
+          {
+            "name": "Sbrisolona",
+            "tip": "Hard almond cake at Pasticceria La Tur dal Sucar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lago Inferiore",
+            "tip": "Ruhiger Spaziergang am Seeufer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lago Inferiore",
+            "tip": "Csendes séta a tóparton a naplementében.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lago Inferiore",
+            "tip": "O plimbare liniștită pe malul lacului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lago Inferiore",
+            "tip": "Quiet walk along the lakeshore.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piazza delle Erbe Markt",
+            "tip": "Lokale Delikatessen und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza delle Erbe piac",
+            "tip": "Helyi finomságok és sajtok válogatása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Piazza delle Erbe",
+            "tip": "Delicatese locale și brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza delle Erbe Market",
+            "tip": "Local delicacies and cheeses."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mantua lässt sich hervorragend zu Fuß erkunden.",
+          "Reservieren Sie Tickets für den Palazzo Ducale im Voraus.",
+          "Das Stadtzentrum ist verkehrsberuhigt.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster."
+        ],
+        "hu": [
+          "Mantova gyalogosan fedezhető fel a legjobban.",
+          "Foglaljon jegyet előre a Palazzo Ducale látogatásához.",
+          "A városközpont korlátozott forgalmú övezet.",
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz."
+        ],
+        "ro": [
+          "Mantova este excelentă pentru explorarea pe jos.",
+          "Rezervați bilete pentru Palazzo Ducale în avans.",
+          "Centrul orașului este zonă cu trafic limitat.",
+          "Purtați încălțăminte comodă pentru pavajul cu piatră cubică."
+        ],
+        "en": [
+          "Mantua is excellent for exploring on foot.",
+          "Book tickets for Palazzo Ducale in advance.",
+          "The city center is a restricted traffic zone.",
+          "Wear comfortable shoes for the cobblestone streets."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piazza Sordello",
+          "coords": [
+            10.7942,
+            45.1601
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt für Radfahrer.",
+            "hu": "Központi találkozóhely kerékpárosoknak.",
+            "ro": "Punct central de întâlnire pentru bicicliști.",
+            "en": "Central meeting point for cyclists."
+          }
+        },
+        {
+          "name": "Castello di San Giorgio",
+          "coords": [
+            10.8011,
+            45.1621
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie das Rad sicher am Eingang ab.",
+            "hu": "Hagyja a biciklit a bejárat melletti tárolóban.",
+            "ro": "Lăsați bicicleta la rastelul de lângă intrare.",
+            "en": "Park your bike at the rack near the entrance."
+          }
+        },
+        {
+          "name": "Lago Superiore",
+          "coords": [
+            10.7812,
+            45.1685
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Radeln Sie den Uferweg entlang.",
+            "hu": "Tekerjen végig a parti kerékpárúton.",
+            "ro": "Mergeți cu bicicleta pe poteca de pe malul lacului.",
+            "en": "Cycle along the lakeside path."
+          }
+        },
+        {
+          "name": "Teatro Scientifico Bibiena",
+          "coords": [
+            10.7961,
+            45.1582
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein akustisches Juwel der Aufklärung.",
+            "hu": "A felvilágosodás korának akusztikai ékszere.",
+            "ro": "O bijuterie acustică a Epocii Luminilor.",
+            "en": "An acoustic gem of the Enlightenment."
+          }
+        },
+        {
+          "name": "Rotonda di San Lorenzo",
+          "coords": [
+            10.7941,
+            45.1575
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Älteste Kirche der Stadt, im romanischen Stil.",
+            "hu": "A város legrégebbi, román stílusú temploma.",
+            "ro": "Cea mai veche biserică din oraș, în stil romanic.",
+            "en": "The oldest church in the city, in Romanesque style."
+          }
+        },
+        {
+          "name": "Palazzo Te",
+          "coords": [
+            10.7865,
+            45.1481
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ideal für eine entspannte Fahrt am Stadtrand.",
+            "hu": "Ideális egy pihentető tekeréshez a város szélén.",
+            "ro": "Ideal pentru o plimbare relaxată la marginea orașului.",
+            "en": "Ideal for a relaxed ride on the outskirts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Mantua auf zwei Rädern. Von der Piazza Sordello aus radeln Sie zum Seeufer des Lago Superiore, um die Natur zu genießen. Kehren Sie ins Zentrum zurück, um das Bibiena-Theater zu besichtigen, und beenden Sie Ihre Tour am majestätischen Palazzo Te. Die flache Landschaft ist perfekt für Radfahrer.",
+        "hu": "Fedezze fel Mantovát két keréken. A Piazza Sordello-tól tekerjen ki a Lago Superiore tópartjára, hogy élvezze a természetet. Térjen vissza a belvárosba a Bibiena színház megtekintéséhez, majd fejezze be túráját a fenséges Palazzo Te épületénél. A sík vidék tökéletes a kerékpározáshoz.",
+        "ro": "Descoperiți Mantova pe două roți. De la Piazza Sordello, pedalați spre malul lacului Lago Superiore pentru a vă bucura de natură. Reveniți în centru pentru a vizita Teatrul Bibiena și încheiați turul la maiestuosul Palazzo Te. Relieful plat este perfect pentru bicicliști.",
+        "en": "Discover Mantua on two wheels. From Piazza Sordello, cycle to the lakeshore of Lago Superiore to enjoy nature. Return to the center to visit the Bibiena Theatre and end your tour at the majestic Palazzo Te. The flat terrain is perfect for cyclists."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Luccio in salsa",
+            "tip": "Hecht in Soße mit Polenta bei Hostaria del Plat."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Luccio in salsa",
+            "tip": "Csuka szószban, polentával a Hostaria del Plat étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Luccio in salsa",
+            "tip": "Știucă în sos cu polenta la Hostaria del Plat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Luccio in salsa",
+            "tip": "Pike in sauce with polenta at Hostaria del Plat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lago Superiore Park",
+            "tip": "Grüne Oase am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lago Superiore Park",
+            "tip": "Zöld oázis a vízparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Lago Superiore",
+            "tip": "Oază verde pe malul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lago Superiore Park",
+            "tip": "Green oasis by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cicli Mantovani",
+            "tip": "Fahrradzubehör und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cicli Mantovani",
+            "tip": "Kerékpáros kiegészítők és ajándékok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cicli Mantovani",
+            "tip": "Accesorii pentru biciclete și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cicli Mantovani",
+            "tip": "Bicycle accessories and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mantua hat viele Radwege.",
+          "Seien Sie vorsichtig in den engen Gassen.",
+          "Nutzen Sie den Weg um die drei Seen.",
+          "Mieten Sie ein Rad direkt am Bahnhof."
+        ],
+        "hu": [
+          "Mantova számos kerékpárúttal rendelkezik.",
+          "Legyen óvatos a szűk sikátorokban.",
+          "Használja a három tó körüli útvonalat.",
+          "Béreljen kerékpárt közvetlenül a pályaudvaron."
+        ],
+        "ro": [
+          "Mantova are multe piste pentru biciclete.",
+          "Fiți atenți pe străzile înguste.",
+          "Folosiți traseul din jurul celor trei lacuri.",
+          "Închiriați o bicicletă direct de la gară."
+        ],
+        "en": [
+          "Mantua has many bike paths.",
+          "Be careful in the narrow alleys.",
+          "Use the path around the three lakes.",
+          "Rent a bike directly at the station."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Palazzo Te",
+          "coords": [
+            10.7865,
+            45.1481
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz vor dem Palast vorhanden.",
+            "hu": "Nagy parkoló áll rendelkezésre a palota előtt.",
+            "ro": "Parcare mare disponibilă în fața palatului.",
+            "en": "Large parking lot available in front of the palace."
+          }
+        },
+        {
+          "name": "Piazza delle Erbe",
+          "coords": [
+            10.7941,
+            45.1572
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Mazzini.",
+            "hu": "Parkoljon a Mazzini mélygarázsban.",
+            "ro": "Parcați în parcarea Mazzini.",
+            "en": "Park in the Mazzini parking garage."
+          }
+        },
+        {
+          "name": "Palazzo Ducale",
+          "coords": [
+            10.7985,
+            45.1612
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:05",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsliebhaber.",
+            "hu": "A történelem kedvelőinek kötelező látnivaló.",
+            "ro": "O vizită obligatorie pentru iubitorii de istorie.",
+            "en": "A must-visit for history lovers."
+          }
+        },
+        {
+          "name": "Castello di San Giorgio",
+          "coords": [
+            10.8011,
+            45.1621
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Teil des Palazzo Ducale-Komplexes.",
+            "hu": "A Palazzo Ducale komplexum része.",
+            "ro": "Parte a complexului Palazzo Ducale.",
+            "en": "Part of the Palazzo Ducale complex."
+          }
+        },
+        {
+          "name": "Santuario delle Grazie",
+          "coords": [
+            10.6942,
+            45.1541
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zu dieser einzigartigen Wallfahrtskirche.",
+            "hu": "Rövid autózás ehhez az egyedülálló zarándoktemplomhoz.",
+            "ro": "O scurtă plimbare cu mașina până la această biserică de pelerinaj unică.",
+            "en": "A short drive to this unique pilgrimage church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die äußeren Sehenswürdigkeiten wie den Palazzo Te und können einen Ausflug zum Santuario delle Grazie in Curtatone unternehmen. Dazwischen erkunden Sie die prächtigen Paläste im Zentrum. Achten Sie auf die ZTL-Zonen in der Innenstadt.",
+        "hu": "Autóval kényelmesen elérheti a külső látnivalókat, mint a Palazzo Te, és tehet egy kitérőt a curtatonei Santuario delle Grazie templomhoz. Közben fedezze fel a belváros pompás palotáit. Ügyeljen a behajtási korlátozásokra (ZTL) a központban.",
+        "ro": "Cu mașina, puteți ajunge ușor la obiectivele periferice, cum ar fi Palazzo Te, și puteți face o excursie la Santuario delle Grazie din Curtatone. Între timp, explorați palatele magnifice din centru. Atenție la zonele ZTL din interiorul orașului.",
+        "en": "By car, you can easily reach outlying sights like Palazzo Te and take a trip to the Santuario delle Grazie in Curtatone. In between, explore the magnificent palaces in the center. Watch out for the ZTL zones in the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stracotto di asino",
+            "tip": "Eselsschmorbraten in der Trattoria Due Cavallini."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stracotto di asino",
+            "tip": "Szamárpörkölt a Trattoria Due Cavallini-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stracotto di asino",
+            "tip": "Tocăniță de măgar la Trattoria Due Cavallini."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stracotto di asino",
+            "tip": "Donkey stew at Trattoria Due Cavallini."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Santuario Parkplatz",
+            "tip": "Ruhiger Blick auf das Schilf des Mincio.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Santuario parkoló",
+            "tip": "Csendes kilátás a Mincio nádasaira.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcare Santuario",
+            "tip": "Vedere liniștită spre stuful râului Mincio.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Santuario parking",
+            "tip": "Quiet view of the Mincio reeds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mantova Outlet Village",
+            "tip": "Markenartikel außerhalb der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mantova Outlet Village",
+            "tip": "Márkás ruházat a városon kívül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mantova Outlet Village",
+            "tip": "Articole de marcă în afara orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mantova Outlet Village",
+            "tip": "Brand name items outside the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie außerhalb der ZTL.",
+          "Das Parkhaus Pradella ist gut gelegen.",
+          "Navigieren Sie vorsichtig in Einbahnstraßen.",
+          "Kombinieren Sie Auto und kurze Spaziergänge."
+        ],
+        "hu": [
+          "Parkoljon a ZTL zónán kívül.",
+          "A Pradella parkolóház jó elhelyezkedésű.",
+          "Navigáljon óvatosan az egyirányú utcákban.",
+          "Kombinálja az autózást rövid sétákkal."
+        ],
+        "ro": [
+          "Parcați în afara zonei ZTL.",
+          "Parcarea Pradella este bine situată.",
+          "Navigați cu atenție pe străzile cu sens unic.",
+          "Combinați mașina cu scurte plimbări."
+        ],
+        "en": [
+          "Park outside the ZTL.",
+          "Pradella parking garage is well located.",
+          "Navigate carefully in one-way streets.",
+          "Combine car travel with short walks."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Bahnhof Mantova",
+          "coords": [
+            10.7825,
+            45.1585
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt.",
+            "hu": "Központi érkezési pont.",
+            "ro": "Punct central de sosire.",
+            "en": "Central arrival point."
+          }
+        },
+        {
+          "name": "Palazzo Ducale",
+          "coords": [
+            10.7985,
+            45.1612
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Shuttle-Bus ins Zentrum.",
+            "hu": "Használja a belvárosi transzferbuszt.",
+            "ro": "Folosiți autobuzul navetă spre centru.",
+            "en": "Use the shuttle bus to the center."
+          }
+        },
+        {
+          "name": "Piazza Sordello",
+          "coords": [
+            10.7942,
+            45.1601
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Herz der Altstadt.",
+            "hu": "Az óváros szíve.",
+            "ro": "Inima orașului vechi.",
+            "en": "Heart of the old town."
+          }
+        },
+        {
+          "name": "Basilica di Sant'Andrea",
+          "coords": [
+            10.7943,
+            45.1585
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bushaltestelle in der Nähe am Corso Vittorio Emanuele.",
+            "hu": "Buszmegálló a közelben a Corso Vittorio Emanuele-n.",
+            "ro": "Stație de autobuz în apropiere pe Corso Vittorio Emanuele.",
+            "en": "Bus stop nearby on Corso Vittorio Emanuele."
+          }
+        },
+        {
+          "name": "Palazzo Te",
+          "coords": [
+            10.7865,
+            45.1481
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Linie 8 verbindet das Zentrum mit dem Palast.",
+            "hu": "A 8-as vonal köti össze a központot a palotával.",
+            "ro": "Linia 8 leagă centrul de palat.",
+            "en": "Line 8 connects the center with the palace."
+          }
+        },
+        {
+          "name": "Lago Superiore",
+          "coords": [
+            10.7812,
+            45.1685
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bootsanlegestelle für Seerundfahrten.",
+            "hu": "Hajóállomás a tavi kirándulásokhoz.",
+            "ro": "Debarcader pentru croaziere pe lac.",
+            "en": "Boat pier for lake cruises."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Bussystem von Mantua, um zwischen dem Bahnhof, dem Zentrum und dem Palazzo Te zu pendeln. Eine Bootsfahrt auf den Seen bietet eine einzigartige Perspektive auf die Stadtsilhouette. Entdecken Sie die kulturellen Schätze bequem mit dem ÖPNV.",
+        "hu": "Használja Mantova hatékony buszhálózatát a vasútállomás, a központ és a Palazzo Te közötti közlekedéshez. Egy hajókirándulás a tavakon egyedülálló kilátást nyújt a város sziluettjére. Fedezze fel kényelmesen a kulturális kincseket tömegközlekedéssel.",
+        "ro": "Folosiți sistemul eficient de autobuze din Mantova pentru a face naveta între gară, centru și Palazzo Te. O plimbare cu barca pe lacuri oferă o perspectivă unică asupra siluetei orașului. Descoperiți comorile culturale confortabil cu transportul public.",
+        "en": "Use Mantua's efficient bus system to commute between the station, the center, and Palazzo Te. A boat trip on the lakes offers a unique perspective on the city skyline. Discover cultural treasures comfortably by public transit."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Torta Greca",
+            "tip": "Mandel-Walnuss-Kuchen bei Pasticceria Bosi."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torta Greca",
+            "tip": "Mandulás-diós sütemény a Pasticceria Bosi-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torta Greca",
+            "tip": "Prăjitură cu migdale și nuci la Pasticceria Bosi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Torta Greca",
+            "tip": "Almond and walnut cake at Pasticceria Bosi."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Seeufer-Promenade",
+            "tip": "Entspannter Blick vom Wasser.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tóparti sétány",
+            "tip": "Pihentető kilátás a víz mellől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faleza lacului",
+            "tip": "Vedere relaxantă de pe malul apei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside promenade",
+            "tip": "Relaxing view from the water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Umberto I",
+            "tip": "Einkaufsstraße mit vielen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Umberto I",
+            "tip": "Bevásárlóutca számos butikkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Umberto I",
+            "tip": "Stradă comercială cu multe buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Umberto I",
+            "tip": "Shopping street with many boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Fahrkarten im Tabakladen.",
+          "Achten Sie auf die Abfahrtszeiten der Boote.",
+          "Der Shuttlebus ins Zentrum ist oft kostenlos.",
+          "Apps wie Moovit helfen bei der Planung."
+        ],
+        "hu": [
+          "Vásároljon jegyet a dohányboltokban.",
+          "Ügyeljen a hajók indulási idejére.",
+          "A belvárosi buszjárat gyakran ingyenes.",
+          "Használjon alkalmazásokat (pl. Moovit) a tervezéshez."
+        ],
+        "ro": [
+          "Cumpărați bilete de la chioșcurile de ziare/tutungerii.",
+          "Fiți atenți la orele de plecare ale bărcilor.",
+          "Autobuzul navetă spre centru este adesea gratuit.",
+          "Aplicații precum Moovit ajută la planificare."
+        ],
+        "en": [
+          "Buy tickets at tobacco shops.",
+          "Pay attention to boat departure times.",
+          "The shuttle bus to the center is often free.",
+          "Use apps like Moovit to help with planning."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-25",
+    "transit_official": "https://www.apam.it/",
+    "transit_app": "https://www.apam.it/it/apam-mobile",
+    "bike_share": "https://www.mantovabike.it/",
+    "city_card": "https://www.mantovasabbionetacard.it/",
+    "events": "https://www.turismo.mantova.it/index.php/it/eventi",
+    "tourism_office": "https://www.turismo.mantova.it/",
+    "webcam": "https://www.skylinewebcams.com/it/webcam/italia/lombardia/mantova.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/mantova-c561958",
+    "museum_tickets": "https://mantovaducale.cultura.gov.it/",
+    "parking_real_time": "https://www.apcoa.it/parcheggi/mantova/",
+    "language_tips": {
+      "de": "Italienisch dominiert klar; Englisch in Hauptmuseen (Palazzo Ducale, Palazzo Te) und groesseren Hotels OK.",
+      "hu": "Olasz a domino nyelv; angolul a fobb muzeumokban (Palazzo Ducale, Palazzo Te) es nagyobb hotelekben elmegy.",
+      "ro": "Italiana este clar dominanta; engleza este acceptabila la muzeele mari (Palazzo Ducale, Palazzo Te) si hoteluri.",
+      "en": "Italian clearly dominates; English is OK at major museums (Palazzo Ducale, Palazzo Te) and bigger hotels."
+    },
+    "best_time_to_visit": {
+      "de": "April-Juni und September-Oktober; Festivaletteratura im September; Sommer sehr heiss, Winter kalt-feucht.",
+      "hu": "Aprilis-junius es szeptember-oktober; Festivaletteratura szeptemberben; nyar nagyon forro, tel hideg-paras.",
+      "ro": "Aprilie-iunie si septembrie-octombrie; Festivaletteratura in septembrie; vara torida, iarna rece-umeda.",
+      "en": "April-June and September-October; Festivaletteratura in September; summers very hot, winters cold-damp."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sichere Kleinstadt; uebliche Vorsicht am Bahnhof, ansonsten unproblematisch.",
+      "hu": "Nagyon biztonsagos kisvaros; szokasos ovatossag a vasutallomason, egyebkent problemamentes.",
+      "ro": "Oras mic foarte sigur; precautie obisnuita la gara, in rest fara probleme.",
+      "en": "Very safe small city; usual caution at the train station, otherwise trouble-free."
+    }
+  }
+}

@@ -1,0 +1,1210 @@
+{
+  "city_id": "vernazza",
+  "anchor": {
+    "name": "Vernazza",
+    "coords": [
+      44.1352,
+      9.6839
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 1.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Marconi",
+            "hu": "Piazza Marconi",
+            "ro": "Piazza Marconi",
+            "en": "Piazza Marconi"
+          },
+          "coords": [
+            9.6839,
+            44.1352
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Espresso mit Blick auf das Meer.",
+            "hu": "Igyon egy eszpresszót a tengerre néző teraszok egyikén.",
+            "ro": "Savurați un espresso cu vedere directă la mare.",
+            "en": "Enjoy an espresso with a direct view of the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Margherita d'Antiochia",
+            "hu": "Antiochiai Szent Margit-templom",
+            "ro": "Biserica Santa Margherita d'Antiochia",
+            "en": "Church of Santa Margherita d'Antiochia"
+          },
+          "coords": [
+            9.6841,
+            44.1353
+          ],
+          "category": "churches",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beachten Sie den achteckigen Turm direkt am Wasser.",
+            "hu": "Figyelje meg a közvetlenül a vízparton álló nyolcszögletű tornyot.",
+            "ro": "Observați turnul octogonal situat chiar pe malul apei.",
+            "en": "Note the octagonal tower situated right on the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Vernazza",
+            "hu": "Vernazza kikötője",
+            "ro": "Portul din Vernazza",
+            "en": "Vernazza Harbor"
+          },
+          "coords": [
+            9.6835,
+            44.1355
+          ],
+          "category": "promenades",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Perfekter Ort für Fotos der bunten Häuserzeilen.",
+            "hu": "Tökéletes hely a színes házsorok fotózásához.",
+            "ro": "Locul perfect pentru fotografii cu casele colorate.",
+            "en": "Perfect spot for photos of the colorful house rows."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Doria",
+            "hu": "Doria-vár",
+            "ro": "Castelul Doria",
+            "en": "Doria Castle"
+          },
+          "coords": [
+            9.6832,
+            44.135
+          ],
+          "category": "castles",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den 360-Grad-Panorama-Blick.",
+            "hu": "A feljutás megéri a 360 fokos panoráma kilátásért.",
+            "ro": "Urcarea merită pentru vederea panoramică de 360 de grade.",
+            "en": "The climb is worth it for the 360-degree panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Trattoria",
+            "hu": "Ebéd egy helyi trattoriában",
+            "ro": "Prânz la o trattoria locală",
+            "en": "Lunch at a local Trattoria"
+          },
+          "coords": [
+            9.6845,
+            44.1348
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Probieren Sie Pasta mit echtem Pesto Genovese.",
+            "hu": "Kóstolja meg a tésztát valódi Pesto Genovesével.",
+            "ro": "Încercați pastele cu adevăratul Pesto Genovese.",
+            "en": "Try the pasta with authentic Pesto Genovese."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Vernazza",
+            "hu": "Vernazza strandja",
+            "ro": "Plaja din Vernazza",
+            "en": "Vernazza Beach"
+          },
+          "coords": [
+            9.683,
+            44.1354
+          ],
+          "category": "beaches",
+          "arrive_at": "14:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kleine Kieselsteine, klares Wasser, ideal zum Abkühlen.",
+            "hu": "Apró kavicsos part, tiszta víz, ideális hűsölésre.",
+            "ro": "Plajă cu pietricele, apă limpede, ideală pentru răcorire.",
+            "en": "Small pebbles, clear water, ideal for cooling off."
+          }
+        },
+        {
+          "name": {
+            "de": "Belforte-Turm",
+            "hu": "Belforte-torony",
+            "ro": "Turnul Belforte",
+            "en": "Belforte Tower"
+          },
+          "coords": [
+            9.6833,
+            44.1349
+          ],
+          "category": "towers",
+          "arrive_at": "17:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen am Ende des Hafens besichtigen.",
+            "hu": "A kikötő végén álló jellegzetes bástya megtekintése.",
+            "ro": "Vizitați bastionul emblematic de la capătul portului.",
+            "en": "Visit the iconic bastion at the end of the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erwacht Vernazza an der Piazza Marconi, wo der Duft von Espresso und Meer die Luft erfüllt. Nach der Besichtigung der am Wasser thronenden Kirche Santa Margherita schlendern wir am Hafen entlang zum Castello Doria. Mittags genießen wir lokale Spezialitäten in den verwinkelten Gassen. Der Nachmittag gehört dem Strand und der Entspannung, bevor der Tag am Belforte-Turm mit Blick auf die untergehende Sonne über dem Ligurischen Meer endet.",
+        "hu": "Reggel Vernazza a Piazza Marconin ébredezve fogad, ahol az eszpresszó és a tenger illata tölti be a levegőt. A vízparti Szent Margit-templom után a kikötőn át a Doria-várhoz sétálunk. Délben helyi specialitásokat kóstolunk a szűk utcákban. A délutánt a strandon töltjük pihenéssel, majd a napot a Belforte-toronynál zárjuk, csodálva a Ligur-tenger felett lemenő napot.",
+        "ro": "Dimineața, Vernazza se trezește în Piazza Marconi, unde mirosul de espresso și mare umple aerul. După vizitarea bisericii Santa Margherita de pe malul apei, ne plimbăm prin port către Castelul Doria. La prânz, savurăm specialități locale pe străduțele înguste. După-amiaza este dedicată plajei și relaxării, înainte de a încheia ziua la Turnul Belforte, admirând apusul peste Marea Ligurică.",
+        "en": "In the morning, Vernazza wakes up at Piazza Marconi, where the scent of espresso and the sea fills the air. After visiting the waterside Church of Santa Margherita, we stroll through the harbor to Doria Castle. At noon, we enjoy local specialties in the winding alleys. The afternoon is dedicated to the beach and relaxation, before ending the day at the Belforte Tower, watching the sun set over the Ligurian Sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trofie al Pesto",
+            "tip": "Handgemachte Pasta mit frischem Basilikum-Pesto."
+          },
+          {
+            "name": "Tegame di Vernazza",
+            "tip": "Spezialität aus Sardinen, Kartoffeln und Tomaten."
+          },
+          {
+            "name": "Sciacchetrà",
+            "tip": "Edelsüßer Wein der Cinque Terre zum Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trofie al Pesto",
+            "tip": "Kézzel készített tészta friss bazsalikomos pestóval."
+          },
+          {
+            "name": "Tegame di Vernazza",
+            "tip": "Szardínia, burgonya és paradicsom rétegezve."
+          },
+          {
+            "name": "Sciacchetrà",
+            "tip": "A Cinque Terre híres édes desszertbora."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trofie al Pesto",
+            "tip": "Paste lucrate manual cu pesto proaspăt de busuioc."
+          },
+          {
+            "name": "Tegame di Vernazza",
+            "tip": "Specialitate din sardine, cartofi și roșii."
+          },
+          {
+            "name": "Sciacchetrà",
+            "tip": "Vin dulce nobil din Cinque Terre pentru desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trofie al Pesto",
+            "tip": "Handmade pasta with fresh basil pesto."
+          },
+          {
+            "name": "Tegame di Vernazza",
+            "tip": "Specialty with sardines, potatoes, and tomatoes."
+          },
+          {
+            "name": "Sciacchetrà",
+            "tip": "Famous sweet dessert wine of Cinque Terre."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Castello Doria Terrasse",
+            "tip": "Ruhiger Blick über die gesamte Bucht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kapelle Santa Marta",
+            "tip": "Stiller Ort für kurze Einkehr.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sentiero Azzurro Richtung Corniglia",
+            "tip": "Weg mit fantastischem Panorama.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Castello Doria terasz",
+            "tip": "Nyugodt kilátás az egész öbölre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Szent Márta kápolna",
+            "tip": "Csendes hely az elmélyüléshez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sentiero Azzurro Corniglia felé",
+            "tip": "Út fantasztikus panorámával.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terasa Castelului Doria",
+            "tip": "Vedere liniștită peste întregul golf.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Capela Santa Marta",
+            "tip": "Loc liniștit pentru scurtă reculegere.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sentiero Azzurro spre Corniglia",
+            "tip": "Drum cu panoramă fantastică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Doria Castle Terrace",
+            "tip": "Quiet view over the entire bay.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Santa Marta Chapel",
+            "tip": "Quiet place for a short retreat.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sentiero Azzurro towards Corniglia",
+            "tip": "Path with fantastic panoramic views.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bottega d'Arte",
+            "tip": "Lokale Keramik und Kunsthandwerk."
+          },
+          {
+            "name": "Cinque Terre Weinladen",
+            "tip": "Regionale Weine und Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bottega d'Arte",
+            "tip": "Helyi kerámiák és kézműves termékek."
+          },
+          {
+            "name": "Cinque Terre borkereskedés",
+            "tip": "Regionális borok és olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bottega d'Arte",
+            "tip": "Ceramică locală și artizanat."
+          },
+          {
+            "name": "Vinoteca Cinque Terre",
+            "tip": "Vinuri regionale și ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bottega d'Arte",
+            "tip": "Local ceramics and handicrafts."
+          },
+          {
+            "name": "Cinque Terre Wine Shop",
+            "tip": "Regional wines and olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die steilen Gassen.",
+          "Buchen Sie Restauranttische in der Hochsaison vor.",
+          "Die Treppen zum Schloss sind eng, gehen Sie vorsichtig.",
+          "Nutzen Sie die Trinkwasserbrunnen im Dorf.",
+          "Besuchen Sie den Hafen früh am Morgen für Stille."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a meredek sikátorokhoz.",
+          "Főszezonban érdemes előre asztalt foglalni.",
+          "A várhoz vezető lépcsők szűkek, óvatosan haladjon.",
+          "Használja ki a faluban található ivókutakat.",
+          "Látogassa meg a kikötőt kora reggel a nyugalomért."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străduțele abrupte.",
+          "Rezervați mese la restaurant în plin sezon.",
+          "Scările spre castel sunt înguste, urcați cu grijă.",
+          "Folosiți fântânile cu apă potabilă din sat.",
+          "Vizitați portul dimineața devreme pentru liniște."
+        ],
+        "en": [
+          "Wear comfortable shoes for the steep alleys.",
+          "Book restaurant tables in advance during peak season.",
+          "The stairs to the castle are narrow, walk carefully.",
+          "Make use of the drinking water fountains in the village.",
+          "Visit the harbor early in the morning for peace."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 8,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Vernazza",
+            "hu": "Vernazza kikötője",
+            "ro": "Portul din Vernazza",
+            "en": "Vernazza Harbor"
+          },
+          "coords": [
+            9.6835,
+            44.1355
+          ],
+          "category": "promenades",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Startpunkt mit Blick auf die Fischerboote.",
+            "hu": "Kiindulópont kilátással a halászhajókra.",
+            "ro": "Punct de plecare cu vedere la bărcile de pescuit.",
+            "en": "Starting point with a view of the fishing boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Marconi",
+            "hu": "Piazza Marconi",
+            "ro": "Piazza Marconi",
+            "en": "Piazza Marconi"
+          },
+          "coords": [
+            9.6839,
+            44.1352
+          ],
+          "category": "squares",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Fahrräder hier abstellen und kurz verweilen.",
+            "hu": "Itt tegye le a kerékpárt egy rövid pihenőre.",
+            "ro": "Lăsați bicicletele aici pentru un scurt popas.",
+            "en": "Park your bikes here for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario di Nostra Signora di Reggio",
+            "hu": "Reggiói Miasszonyunk-szentély",
+            "ro": "Sanctuarul Nostra Signora di Reggio",
+            "en": "Sanctuary of Nostra Signora di Reggio"
+          },
+          "coords": [
+            9.697,
+            44.139
+          ],
+          "category": "churches",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Steiler Anstieg, aber fantastische Aussicht von oben.",
+            "hu": "Meredek emelkedő, de fantasztikus kilátás felülről.",
+            "ro": "Urcare abruptă, dar vedere fantastică de sus.",
+            "en": "Steep climb, but fantastic views from the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen oben am Berg",
+            "hu": "Ebéd fent a hegyen",
+            "ro": "Prânz sus pe munte",
+            "en": "Lunch up on the hill"
+          },
+          "coords": [
+            9.696,
+            44.1385
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Frische Focaccia in der Brise genießen.",
+            "hu": "Élvezze a friss focacciát a szellőben.",
+            "ro": "Savurați focaccia proaspătă în adierea vântului.",
+            "en": "Enjoy fresh focaccia in the breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Santa Marta",
+            "hu": "Szent Márta kápolna",
+            "ro": "Capela Santa Marta",
+            "en": "Santa Marta Chapel"
+          },
+          "coords": [
+            9.6843,
+            44.1351
+          ],
+          "category": "churches",
+          "arrive_at": "14:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Kleine, beschauliche Kapelle im unteren Ortsteil.",
+            "hu": "Kicsi, meghitt kápolna a falu alsó részén.",
+            "ro": "Capelă mică și liniștită în partea de jos a satului.",
+            "en": "Small, peaceful chapel in the lower part of town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour in Vernazza erfordert Kondition, da es steil bergauf zum Santuario di Nostra Signora di Reggio geht. Wir starten am lebhaften Hafen und überqueren die Piazza Marconi, bevor der Anstieg beginnt. Oben angekommen, belohnt uns die Stille und der weite Blick über die ligurische Küste. Nach einem rustikalen Mittagessen in der Höhe führt die Abfahrt zurück ins Dorf zur kleinen Kapelle Santa Marta, wo wir die Tour entspannt ausklingen lassen.",
+        "hu": "Egy kerékpártúra Vernazzában állóképességet igényel, mivel meredeken vezet fel az út a Reggiói Miasszonyunk-szentélyhez. A nyüzsgő kikötőből indulunk, érintve a Piazza Marconit, mielőtt megkezdjük az emelkedőt. Felérve a csend és a ligur partvidék tágas látványa a jutalmunk. Egy rusztikus fenti ebéd után az út visszavezet a faluba a Szent Márta kápolnához, ahol kényelmesen zárjuk a túrát.",
+        "ro": "O tură cu bicicleta în Vernazza necesită condiție fizică, drumul urcând abrupt către Sanctuarul Nostra Signora di Reggio. Pornim din portul plin de viață și traversăm Piazza Marconi înainte de a începe urcarea. Ajunși sus, suntem răsplătiți de liniște și de vederea largă asupra coastei ligurice. După un prânz rustic la înălțime, coborârea ne duce înapoi în sat la capela Santa Marta, unde încheiem turul relaxați.",
+        "en": "A bike tour in Vernazza requires stamina, as the path climbs steeply to the Sanctuary of Nostra Signora di Reggio. We start at the lively harbor and cross Piazza Marconi before beginning the ascent. Once at the top, we are rewarded with silence and a wide view over the Ligurian coast. After a rustic lunch at height, the descent leads back into the village to the small Santa Marta chapel, ending the tour on a relaxed note."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Focaccia al Formaggio",
+            "tip": "Dünnes Brot mit geschmolzenem Käse."
+          },
+          {
+            "name": "Acciughe di Monterosso",
+            "tip": "Frisch marinierte Sardellen aus der Nachbarschaft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Focaccia al Formaggio",
+            "tip": "Vékony tészta olvasztott sajttal."
+          },
+          {
+            "name": "Acciughe di Monterosso",
+            "tip": "Frissen pácolt szardella a szomszédból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Focaccia al Formaggio",
+            "tip": "Pâine subțire cu brânză topită."
+          },
+          {
+            "name": "Acciughe di Monterosso",
+            "tip": "Anșoa proaspăt marinate din vecinătate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Focaccia al Formaggio",
+            "tip": "Thin bread filled with melted cheese."
+          },
+          {
+            "name": "Acciughe di Monterosso",
+            "tip": "Freshly marinated anchovies from the neighborhood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Santuario Kirchplatz",
+            "tip": "Uralte Bäume und absolute Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Picknickplatz am Höhenweg",
+            "tip": "Vogelgezwitscher und Meeresrauschen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szentély előtti tér",
+            "tip": "Ősi fák és teljes nyugalom.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piknikezőhely a hegyi úton",
+            "tip": "Madárcsicsergés és tengerzúgás.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața bisericii Sanctuarului",
+            "tip": "Copaci seculari și liniște absolută.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Loc de picnic pe drumul de culme",
+            "tip": "Cântecul păsărilor și susurul mării.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sanctuary Church Square",
+            "tip": "Ancient trees and absolute tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Picnic spot on the high trail",
+            "tip": "Birdsong and the sound of the sea.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Azienda Agricola Shop",
+            "tip": "Honig und Zitronenprodukte direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Azienda Agricola Shop",
+            "tip": "Méz és citromtermékek közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin Azienda Agricola",
+            "tip": "Miere și produse din lămâie direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Azienda Agricola Shop",
+            "tip": "Honey and lemon products direct from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor der steilen Abfahrt.",
+          "Nehmen Sie ausreichend Wasser mit für den Anstieg.",
+          "E-Bikes sind für diese Strecke sehr zu empfehlen.",
+          "Achten Sie auf Wanderer auf den gemeinsamen Wegen.",
+          "Vermeiden Sie die Mittagshitze beim Aufstieg."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a meredek lejtő előtt.",
+          "Vigyen magával elég vizet az emelkedőhöz.",
+          "Az e-bike kifejezetten ajánlott ehhez az útvonalhoz.",
+          "Ügyeljen a túrázókra a közös ösvényeken.",
+          "Kerülje a déli hőséget az emelkedő során."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborârea abruptă.",
+          "Luați suficientă apă pentru urcare.",
+          "E-bike-urile sunt foarte recomandate pentru acest traseu.",
+          "Atenție la drumeți pe potecile comune.",
+          "Evitați căldura amiezii în timpul urcării."
+        ],
+        "en": [
+          "Check your brakes before the steep descent.",
+          "Take enough water with you for the climb.",
+          "E-bikes are highly recommended for this route.",
+          "Watch out for hikers on shared paths.",
+          "Avoid the midday heat during the climb."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Santuario di Nostra Signora di Reggio",
+            "hu": "Reggiói Miasszonyunk-szentély",
+            "ro": "Sanctuarul Nostra Signora di Reggio",
+            "en": "Sanctuary of Nostra Signora di Reggio"
+          },
+          "coords": [
+            9.697,
+            44.139
+          ],
+          "category": "churches",
+          "arrive_at": "09:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bequeme Anfahrt über die Panoramastraße oberhalb des Ortes.",
+            "hu": "Kényelmes megközelítés a falu feletti panorámaúton.",
+            "ro": "Acces facil pe drumul panoramic de deasupra satului.",
+            "en": "Easy access via the panoramic road above the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Marconi (Vernazza Zentrum)",
+            "hu": "Piazza Marconi (Vernazza központ)",
+            "ro": "Piazza Marconi (Centrul Vernazza)",
+            "en": "Piazza Marconi (Vernazza Center)"
+          },
+          "coords": [
+            9.6839,
+            44.1352
+          ],
+          "category": "squares",
+          "arrive_at": "10:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Ortseingang und nutzen Sie den Shuttle.",
+            "hu": "Parkoljon a falu szélén és használja az ingajáratot.",
+            "ro": "Parcați la intrarea în sat și folosiți microbuzul.",
+            "en": "Park at the village entrance and use the shuttle."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Doria",
+            "hu": "Doria-vár",
+            "ro": "Castelul Doria",
+            "en": "Doria Castle"
+          },
+          "coords": [
+            9.6832,
+            44.135
+          ],
+          "category": "castles",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Historische Festung mit Blick auf die Küstenstraße.",
+            "hu": "Történelmi erőd kilátással a parti útra.",
+            "ro": "Fortăreață istorică cu vedere spre drumul de coastă.",
+            "en": "Historical fortress with a view of the coastal road."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Vernazza",
+            "hu": "Vernazza strandja",
+            "ro": "Plaja din Vernazza",
+            "en": "Vernazza Beach"
+          },
+          "coords": [
+            9.683,
+            44.1354
+          ],
+          "category": "beaches",
+          "arrive_at": "13:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannung am Meer nach der kurvigen Fahrt.",
+            "hu": "Pihenés a tengerparton a kanyargós út után.",
+            "ro": "Relaxare la malul mării după drumul sinuos.",
+            "en": "Relaxation by the sea after the winding drive."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden wir zunächst die Anhöhen von Vernazza und besuchen das abgeschiedene Santuario di Reggio. Die kurvenreiche Panoramastraße bietet spektakuläre Ausblicke auf die Cinque Terre. Nachdem wir das Auto sicher am bewachten Parkplatz oberhalb des Dorfes abgestellt haben, tauchen wir in das bunte Treiben der Piazza Marconi ein. Ein Besuch im Castello Doria und ein ausgiebiger Nachmittag am Strand runden das Erlebnis ab, bevor wir die malerische Küstenfahrt fortsetzen.",
+        "hu": "Autóval először Vernazza magaslatait fedezzük fel, meglátogatva az elszigetelt Reggiói szentélyt. A kanyargós panorámaút látványos kilátást nyújt a Cinque Terrére. Miután leparkoltunk a falu feletti őrzött parkolóban, elmerülünk a Piazza Marconi színes forgatagában. A Doria-vár megtekintése és egy hosszú délután a strandon teszi teljessé az élményt, mielőtt folytatnánk utunkat a festői tengerparti úton.",
+        "ro": "Cu mașina, explorăm mai întâi înălțimile din Vernazza și vizităm sanctuarul retras de la Reggio. Drumul panoramic sinuos oferă vederi spectaculoase asupra Cinque Terre. După ce parcăm în siguranță deasupra satului, ne scufundăm în agitația colorată din Piazza Marconi. O vizită la Castelul Doria și o după-amiază lungă la plajă completează experiența, înainte de a continua drumul pitoresc de-a lungul coastei.",
+        "en": "By car, we first explore the heights of Vernazza and visit the secluded Sanctuary of Reggio. The winding panoramic road offers spectacular views of the Cinque Terre. After parking safely above the village, we dive into the colorful hustle and bustle of Piazza Marconi. A visit to Doria Castle and a long afternoon at the beach round off the experience before we continue our scenic coastal drive."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Frittierte Meeresfrüchte in der Papiertüte."
+          },
+          {
+            "name": "Gelato Artigianale",
+            "tip": "Hausgemachtes Eis mit Zitronen aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Sült tenger gyümölcsei papírtölcsérben."
+          },
+          {
+            "name": "Gelato Artigianale",
+            "tip": "Kézműves fagylalt helyi citromból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Fructe de mare prăjite la cornet de hârtie."
+          },
+          {
+            "name": "Gelato Artigianale",
+            "tip": "Înghețată artizanală cu lămâi regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Fried seafood in a paper cone."
+          },
+          {
+            "name": "Gelato Artigianale",
+            "tip": "Artisan gelato made with local lemons."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkplatz Aussichtspunkt",
+            "tip": "Erster Blick auf das Dorf von oben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Uferpromenade",
+            "tip": "Meeresbrise und ruhiges Wellenrauschen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parkoló melletti kilátópont",
+            "tip": "Első pillantás a falura fentről.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parti sétány",
+            "tip": "Tengeri szellő és hullámzás.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere de la parcare",
+            "tip": "Prima vedere asupra satului de sus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Faleza portului",
+            "tip": "Adiere marină și sunetul valurilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parking Viewpoint",
+            "tip": "First look at the village from above.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waterfront Promenade",
+            "tip": "Sea breeze and calm sound of waves.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ölmühle Shop",
+            "tip": "Frisches Olivenöl extra vergine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olajütő bolt",
+            "tip": "Friss extra szűz olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin Moară de Ulei",
+            "tip": "Ulei de măsline extra virgin proaspăt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Oil Mill Shop",
+            "tip": "Fresh extra virgin olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie niemals in den Ortskern hinein (ZTL-Zone).",
+          "Parkplätze sind rar, kommen Sie vor 10 Uhr an.",
+          "Die Straßen sind sehr schmal, fahren Sie vorausschauend.",
+          "Nutzen Sie den grünen Shuttlebus vom Parkplatz.",
+          "Beachten Sie die Parkgebühren (ca. 15-20 Euro pro Tag)."
+        ],
+        "hu": [
+          "Soha ne hajtson be a falu központjába (ZTL zóna).",
+          "A parkolóhely kevés, érkezzen délelőtt 10 előtt.",
+          "Az utak nagyon szűkek, vezessen előrelátóan.",
+          "Használja a zöld ingabuszt a parkolóból.",
+          "Számoljon a parkolási díjjal (kb. 15-20 euró/nap)."
+        ],
+        "ro": [
+          "Nu intrați niciodată cu mașina în centrul satului (ZTL).",
+          "Locurile de parcare sunt puține, sosiți înainte de ora 10.",
+          "Drumurile sunt foarte înguste, conduceți cu prudență.",
+          "Folosiți microbuzul verde de la parcare.",
+          "Țineți cont de taxele de parcare (aprox. 15-20 euro/zi)."
+        ],
+        "en": [
+          "Never drive into the village center (ZTL zone).",
+          "Parking spaces are scarce, arrive before 10 AM.",
+          "The roads are very narrow, drive defensively.",
+          "Use the green shuttle bus from the parking lot.",
+          "Be aware of parking fees (approx. 15-20 Euros per day)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 1.5,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Marconi",
+            "hu": "Piazza Marconi",
+            "ro": "Piazza Marconi",
+            "en": "Piazza Marconi"
+          },
+          "coords": [
+            9.6839,
+            44.1352
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Direkt vom Bahnhof durch die Hauptstraße zum Meer.",
+            "hu": "A vasútállomástól közvetlenül a főutcán át a tengerig.",
+            "ro": "De la gară direct pe strada principală spre mare.",
+            "en": "Directly from the station through the main street to the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Margherita d'Antiochia",
+            "hu": "Antiochiai Szent Margit-templom",
+            "ro": "Biserica Santa Margherita d'Antiochia",
+            "en": "Church of Santa Margherita d'Antiochia"
+          },
+          "coords": [
+            9.6841,
+            44.1353
+          ],
+          "category": "churches",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die spirituelle Mitte Vernazzas am Hafen.",
+            "hu": "Vernazza spirituális központja a kikötőben.",
+            "ro": "Centrul spiritual al satului Vernazza în port.",
+            "en": "The spiritual center of Vernazza in the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Doria",
+            "hu": "Doria-vár",
+            "ro": "Castelul Doria",
+            "en": "Doria Castle"
+          },
+          "coords": [
+            9.6832,
+            44.135
+          ],
+          "category": "castles",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bester Überblick über die Zugstrecke am Meer.",
+            "hu": "A legjobb rálátás a tengerparti vasútvonalra.",
+            "ro": "Cea mai bună vedere asupra liniei ferate de pe malul mării.",
+            "en": "Best view of the coastal railway line."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Vernazza",
+            "hu": "Vernazza strandja",
+            "ro": "Plaja din Vernazza",
+            "en": "Vernazza Beach"
+          },
+          "coords": [
+            9.683,
+            44.1354
+          ],
+          "category": "beaches",
+          "arrive_at": "13:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Piazza entfernt.",
+            "hu": "Csak pár lépésre a Piazza Marconitól.",
+            "ro": "La doar câțiva pași de Piazza Marconi.",
+            "en": "Just a few steps away from Piazza Marconi."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit der Cinque Terre Card erreichen wir Vernazza bequem per Bahn. Vom Tunnelbahnhof führt der Weg direkt zur Piazza Marconi, dem pulsierenden Herz des Ortes. Wir besuchen die beeindruckende Kirche am Meer und erklimmen das Castello Doria für die perfekte Aussicht. Den Mittag verbringen wir bei Pasta und Wein, bevor der Nachmittag entspannt am Strand ausklingt. Dank der häufigen Zugverbindungen bleibt genug Zeit, um das Flair des Ortes ohne Zeitdruck zu genießen.",
+        "hu": "A Cinque Terre kártyával kényelmesen, vonattal érkezünk Vernazzába. Az alagútban lévő állomásról az út egyenesen a Piazza Marconira, a falu lüktető szívébe vezet. Meglátogatjuk a lenyűgöző tengerparti templomot, és felmegyünk a Doria-várba a tökéletes kilátásért. A delet tésztával és borral töltjük, majd a délutánt a strandon pihenjük ki. A gyakori vonatjáratoknak köszönhetően bőven marad időnk élvezni a falu hangulatát sietség nélkül.",
+        "ro": "Cu cardul Cinque Terre, ajungem confortabil cu trenul în Vernazza. De la gara situată în tunel, drumul duce direct spre Piazza Marconi, inima vibrantă a satului. Vizităm biserica impresionantă de pe malul mării și urcăm la Castelul Doria pentru vederea perfectă. Petrecem amiaza cu paste și vin, înainte ca după-amiaza să se încheie relaxat pe plajă. Datorită trenurilor frecvente, rămâne destul timp pentru a savura atmosfera satului fără presiune.",
+        "en": "With the Cinque Terre Card, we reach Vernazza comfortably by train. From the station in the tunnel, the path leads directly to Piazza Marconi, the pulsating heart of the village. We visit the impressive seaside church and climb Doria Castle for the perfect view. We spend midday with pasta and wine before the afternoon winds down at the beach. Thanks to frequent train connections, there is plenty of time to enjoy the flair of the village without any rush."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Focaccia farcita",
+            "tip": "Gefüllte Focaccia als schneller Snack am Bahnhof."
+          },
+          {
+            "name": "Limoncino",
+            "tip": "Hauseigener Zitronenlikör als Digestif."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Focaccia farcita",
+            "tip": "Töltött focaccia gyors snacknek az állomásnál."
+          },
+          {
+            "name": "Limoncino",
+            "tip": "Helyi citromlikőr emésztést segítőnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Focaccia farcita",
+            "tip": "Focaccia umplută pentru o gustare rapidă la gară."
+          },
+          {
+            "name": "Limoncino",
+            "tip": "Lichior de lămâie local ca digestiv."
+          }
+        ],
+        "en": [
+          {
+            "name": "Focaccia farcita",
+            "tip": "Stuffed focaccia as a quick snack near the station."
+          },
+          {
+            "name": "Limoncino",
+            "tip": "Local lemon liqueur as a digestive."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bahnhofstunnel-Eingang",
+            "tip": "Kühler Ort an heißen Sommertagen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hintergassen von Vernazza",
+            "tip": "Stille abseits der Touristenströme.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vasúti alagút bejárata",
+            "tip": "Hűvös hely a forró nyári napokon.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vernazza hátsó utcái",
+            "tip": "Csend a turistáktól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Intrarea în tunelul gării",
+            "tip": "Loc răcoros în zilele toride de vară.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Străduțele din spate",
+            "tip": "Liniște departe de fluxul turistic.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Tunnel Entrance",
+            "tip": "Cool spot on hot summer days.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Back Alleys of Vernazza",
+            "tip": "Silence away from the tourist crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cinque Terre Card Point",
+            "tip": "Tickets und Souvenirs am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cinque Terre Card Point",
+            "tip": "Jegyek és szuvenírek az állomáson."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cinque Terre Card Point",
+            "tip": "Bilete și suveniruri la gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cinque Terre Card Point",
+            "tip": "Tickets and souvenirs at the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Validieren Sie Ihre Cinque Terre Card am Automaten.",
+          "Die Züge können in der Hochsaison sehr voll sein.",
+          "Achten Sie auf die Ansagen am Bahnsteig.",
+          "Der Bahnhof liegt direkt im Berg, kühle Jacke parat halten.",
+          "Nutzen Sie die App 'Trenitalia' für Echtzeit-Infos."
+        ],
+        "hu": [
+          "Érvényesítse a Cinque Terre kártyát az automatánál.",
+          "Főszezonban a vonatok nagyon zsúfoltak lehetnek.",
+          "Figyelje a peronon elhangzó bemondásokat.",
+          "Az állomás a hegy gyomrában van, legyen nála vékony kabát.",
+          "Használja a 'Trenitalia' appot a valós idejű infókért."
+        ],
+        "ro": [
+          "Validați cardul Cinque Terre la automat.",
+          "Trenurile pot fi foarte aglomerate în plin sezon.",
+          "Atenție la anunțurile de pe peron.",
+          "Gara este situată în munte, aveți o jachetă la îndemână.",
+          "Folosiți aplicația 'Trenitalia' pentru informații în timp real."
+        ],
+        "en": [
+          "Validate your Cinque Terre Card at the machine.",
+          "Trains can be very crowded during peak season.",
+          "Pay attention to the announcements on the platform.",
+          "The station is inside the mountain, have a jacket ready.",
+          "Use the 'Trenitalia' app for real-time information."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "transit_official": "https://www.trenitalia.com",
+    "transit_app": "https://www.moovitapp.com",
+    "bike_share": null,
+    "city_card": "https://card.parconazionale5terre.it",
+    "events": "https://www.parconazionale5terre.it",
+    "tourism_office": "https://www.parconazionale5terre.it",
+    "webcam": null,
+    "restaurants_booking": "https://www.thefork.it",
+    "museum_tickets": "https://www.parconazionale5terre.it",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch; in den Cinque Terre wird Englisch in Restaurants und Pensionen weitgehend verstanden. 'Grazie' und 'Buongiorno' werden geschätzt.",
+      "hu": "Olasz a hivatalos nyelv; az éttermekben és panziókban széles körben beszélnek angolul. A 'grazie' és 'buongiorno' jól jön.",
+      "ro": "Italiana este limba oficială; engleza este înțeleasă în restaurante și pensiuni. 'Grazie' și 'buongiorno' sunt apreciate.",
+      "en": "Italian is official; English is widely understood in restaurants and guesthouses. 'Grazie' and 'buongiorno' go a long way."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Anfang Juni und September bis Mitte Oktober: mildes Wetter, weniger Andrang. Juli/August sind sehr überfüllt.",
+      "hu": "Május - június eleje és szeptember - október közepe: kellemes idő, kevesebb tömeg. Július-augusztus zsúfolt.",
+      "ro": "Mai - început de iunie și septembrie - mijlocul lui octombrie: vreme blândă, mai puțini turiști. Iulie/august sunt aglomerate.",
+      "en": "May to early June and September to mid-October: mild weather, fewer crowds. July and August are very busy."
+    },
+    "neighborhood_warnings": {
+      "de": "Wanderwege können bei Regen wegen Erdrutschgefahr gesperrt werden. Trail-Status vor dem Aufbruch beim Park prüfen.",
+      "hu": "Eső után földcsuszamlás miatt zárhatják az ösvényeket. Indulás előtt nézd meg a park honlapján a trail-státuszt.",
+      "ro": "Potecile pot fi închise după ploi din cauza alunecărilor. Verifică starea traseelor pe site-ul parcului înainte de plecare.",
+      "en": "Trails may close after rain due to landslide risk. Check trail status on the park site before setting out."
+    }
+  }
+}

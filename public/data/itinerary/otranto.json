@@ -1,0 +1,1087 @@
+{
+  "city_id": "otranto",
+  "anchor": {
+    "name": "Otranto Historic Center",
+    "coords": [
+      18.4814,
+      40.1456
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 1.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Porta Alfonsina",
+            "hu": "Porta Alfonsina",
+            "ro": "Porta Alfonsina",
+            "en": "Porta Alfonsina"
+          },
+          "coords": [
+            18.4905,
+            40.1465
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Haupteingang zur Altstadt.",
+            "hu": "Az óváros főbejárata.",
+            "ro": "Intrarea principală în centrul vechi.",
+            "en": "Main entrance to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Otranto",
+            "hu": "Otrantói székesegyház",
+            "ro": "Catedrala din Otranto",
+            "en": "Otranto Cathedral"
+          },
+          "coords": [
+            18.4915,
+            40.1448
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das riesige Bodenmosaik.",
+            "hu": "Csodálja meg a hatalmas padlómozaikot.",
+            "ro": "Admirați imensul mozaic de pe podea.",
+            "en": "Marvel at the giant floor mosaic."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pietro",
+            "hu": "San Pietro templom",
+            "ro": "Biserica San Pietro",
+            "en": "Church of San Pietro"
+          },
+          "coords": [
+            18.4925,
+            40.1455
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Byzantinisches Juwel mit Fresken.",
+            "hu": "Bizánci ékszerdoboz freskókkal.",
+            "ro": "Bijuterie bizantină cu fresce.",
+            "en": "Byzantine jewel with frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Aragonese",
+            "hu": "Aragóniai vár",
+            "ro": "Castelul Aragonez",
+            "en": "Aragonese Castle"
+          },
+          "coords": [
+            18.4925,
+            40.146
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Massive Festung am Meer.",
+            "hu": "Hatalmas tengerparti erőd.",
+            "ro": "Fortăreață masivă la malul mării.",
+            "en": "Massive fortress by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Otranto",
+            "hu": "Otrantói kikötő",
+            "ro": "Portul din Otranto",
+            "en": "Port of Otranto"
+          },
+          "coords": [
+            18.494,
+            40.1475
+          ],
+          "category": "port",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spaziergang am glasklaren Wasser.",
+            "hu": "Séta a kristálytiszta víz mentén.",
+            "ro": "Plimbare pe lângă apa cristalină.",
+            "en": "Stroll along the crystal clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare degli Eroi",
+            "hu": "Lungomare degli Eroi",
+            "ro": "Lungomare degli Eroi",
+            "en": "Lungomare degli Eroi"
+          },
+          "coords": [
+            18.495,
+            40.1485
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Denkmal für die Märtyrer.",
+            "hu": "Mártírok emlékműve a sétányon.",
+            "ro": "Monumentul martirilor pe faleză.",
+            "en": "Martyrs monument on the promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der Porta Alfonsina und treten Sie ein in die weiße Stadt Otranto. Der Vormittag ist dem Bodenmosaik der Kathedrale und der byzantinischen San Pietro Kirche gewidmet. Nach einem Mittagessen in den Gassen erkunden Sie das mächtige Castello Aragonese. Den Nachmittag verbringen Sie entspannt am Hafen und spazieren auf dem Lungomare degli Eroi mit Blick auf die Adria.",
+        "hu": "Kezdje a napot a Porta Alfonsinánál, és lépjen be Otranto fehér városába. A délelőttöt a katedrális világhírű mozaikjának és a bizánci San Pietro templomnak szenteljük. Egy hangulatos ebéd után felfedezzük a hatalmas Aragóniai várat. A délutánt a kikötőben és a Lungomare degli Eroi sétányon töltjük, gyönyörködve az Adriai-tenger látványában.",
+        "ro": "Începeți ziua la Porta Alfonsina, poarta de intrare în orașul alb Otranto. Dimineața este dedicată mozaicului celebru din catedrală și bisericii bizantine San Pietro. După un prânz în centrul vechi, explorați impunătorul Castel Aragonez. După-amiaza vă puteți plimba prin port și pe faleza Lungomare degli Eroi, admirând marea.",
+        "en": "Start your day at Porta Alfonsina and enter the white city of Otranto. Devote your morning to the Cathedral's famous mosaic and the Byzantine San Pietro church. After lunch in the narrow streets, explore the mighty Aragonese Castle. Spend your afternoon at the harbor and strolling along the Lungomare degli Eroi with Adriatic views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasticciotto Leccese",
+            "tip": "Mürbeteiggebäck mit Creme."
+          },
+          {
+            "name": "Orecchiette",
+            "tip": "Hausgemachte Öhrchennudeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasticciotto Leccese",
+            "tip": "Krémmel töltött omlós sütemény."
+          },
+          {
+            "name": "Orecchiette",
+            "tip": "Helyi fülcske tészta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasticciotto Leccese",
+            "tip": "Patiserie cu cremă de vanilie."
+          },
+          {
+            "name": "Orecchiette",
+            "tip": "Paste tradiționale în formă de urechiușe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasticciotto Leccese",
+            "tip": "Shortcrust pastry with cream."
+          },
+          {
+            "name": "Orecchiette",
+            "tip": "Local ear-shaped pasta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtmauer-Blick",
+            "tip": "Panorama über den Hafen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várfal kilátás",
+            "tip": "Panoráma a kikötőre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile cetății",
+            "tip": "Panoramă asupra portului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sea Wall View",
+            "tip": "Panorama over the harbor.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik-Ateliers",
+            "tip": "Bunte apulische Teller."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámia műhelyek",
+            "tip": "Színes apuliai tányérok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ateliere de ceramică",
+            "tip": "Farfurii colorate apuliene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramic Workshops",
+            "tip": "Colorful Apulian plates."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Kathedrale schließt über Mittag.",
+          "Das Mosaik zeigt den Lebensbaum.",
+          "Die Altstadt ist autofrei.",
+          "Buchen Sie im Sommer vorab."
+        ],
+        "hu": [
+          "A katedrális délben zárva tart.",
+          "A mozaik az életfát ábrázolja.",
+          "Az óváros autómentes övezet.",
+          "Nyáron foglaljon asztalt előre."
+        ],
+        "ro": [
+          "Catedrala se închide la prânz.",
+          "Mozaicul reprezintă arborele vieții.",
+          "Centrul vechi este zonă pietonală.",
+          "Rezervați masa din timp vara."
+        ],
+        "en": [
+          "The Cathedral closes at midday.",
+          "The mosaic depicts the tree of life.",
+          "The old town is a pedestrian zone.",
+          "Book tables in advance during summer."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale von Otranto",
+            "hu": "Otrantói székesegyház",
+            "ro": "Catedrala din Otranto",
+            "en": "Otranto Cathedral"
+          },
+          "coords": [
+            18.4915,
+            40.1448
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Frühmorgens weniger Besucher.",
+            "hu": "Kora reggel kevesebb a látogató.",
+            "ro": "Mai puțini turiști dimineața.",
+            "en": "Fewer visitors early morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Aragonese",
+            "hu": "Aragóniai vár",
+            "ro": "Castelul Aragonez",
+            "en": "Aragonese Castle"
+          },
+          "coords": [
+            18.4925,
+            40.146
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Rad draußen anschließen.",
+            "hu": "Zárja le a biciklit kint.",
+            "ro": "Încuiați bicicleta afară.",
+            "en": "Lock your bike outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Bauxit-See (Cava di Bauxite)",
+            "hu": "Bauxit-tó (Cava di Bauxite)",
+            "ro": "Lacul de bauxită (Cava di Bauxite)",
+            "en": "Bauxite Lake (Cava di Bauxite)"
+          },
+          "coords": [
+            18.5015,
+            40.132
+          ],
+          "category": "natural features",
+          "arrive_at": "11:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Rote Erde und smaragdgrüner See.",
+            "hu": "Vörös föld és smaragdzöld tó.",
+            "ro": "Pământ roșu și lac de smarald.",
+            "en": "Red earth and emerald lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm am Capo d'Otranto",
+            "hu": "Capo d'Otranto világítótorony",
+            "ro": "Farul de la Capo d'Otranto",
+            "en": "Lighthouse at Cape Otranto"
+          },
+          "coords": [
+            18.5195,
+            40.1085
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Östlichster Punkt Italiens.",
+            "hu": "Olaszország legkeletibb pontja.",
+            "ro": "Cel mai estic punct al Italiei.",
+            "en": "Italy's easternmost point."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Otranto",
+            "hu": "Otrantói kikötő",
+            "ro": "Portul din Otranto",
+            "en": "Port of Otranto"
+          },
+          "coords": [
+            18.494,
+            40.1475
+          ],
+          "category": "port",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Mittagspause am Wasser.",
+            "hu": "Ebédszünet a vízparton.",
+            "ro": "Pauză de prânz lângă apă.",
+            "en": "Lunch break by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare degli Eroi",
+            "hu": "Lungomare degli Eroi",
+            "ro": "Lungomare degli Eroi",
+            "en": "Lungomare degli Eroi"
+          },
+          "coords": [
+            18.495,
+            40.1485
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Abkühlung am Strand.",
+            "hu": "Hűsítő pihenő a strandon.",
+            "ro": "Răcorire la plajă.",
+            "en": "Cool down at the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie zu den Naturschätzen südlich von Otranto. Nach der Besichtigung der Kathedrale und des Schlosses radeln Sie zum spektakulären Bauxit-See mit seinen kontrastreichen Farben. Weiter südlich erreichen Sie den Leuchtturm von Capo d'Otranto, den östlichsten Punkt Italiens. Kehren Sie für ein spätes Mittagessen zum Hafen zurück und genießen Sie den Rest des Tages am Strand entlang des Lungomare.",
+        "hu": "Ez a kerékpártúra Otranto déli természeti kincseihez vezet. A katedrális és a vár után a látványos színekben pompázó Bauxit-tóhoz tekerünk. Tovább haladva délre elérjük a Capo d'Otranto világítótornyot, Olaszország legkeletibb pontját. A kikötőbe egy késői ebédre térünk vissza, majd a nap hátralévő részét a Lungomare sétány strandján töltjük.",
+        "ro": "Acest tur cu bicicleta vă poartă spre comorile naturale de la sud de Otranto. După catedrală și castel, pedalați spre spectaculosul lac de bauxită. Continuați spre sud până la farul Capo d'Otranto, cel mai estic punct al Italiei. Reveniți în port pentru un prânz târziu și bucurați-vă de plaja de-a lungul falezei Lungomare.",
+        "en": "This bike tour takes you to the natural treasures south of Otranto. After visiting the Cathedral and Castle, cycle to the spectacular Bauxite Lake with its vibrant colors. Continue south to the Cape Otranto lighthouse, Italy's easternmost point. Return to the harbor for a late lunch and enjoy the rest of the day at the beach along the Lungomare."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rustico Leccese",
+            "tip": "Blätterteig mit Tomaten und Béchamel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rustico Leccese",
+            "tip": "Paradicsomos-besameles leveles tészta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rustico Leccese",
+            "tip": "Produse de patiserie cu roșii și bechamel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rustico Leccese",
+            "tip": "Puff pastry with tomato and béchamel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Capo d'Otranto Klippen",
+            "tip": "Blick auf das Ionische und Adriatische Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Capo d'Otranto sziklák",
+            "tip": "Kilátás a két tenger találkozására.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile Capo d'Otranto",
+            "tip": "Vedere asupra celor două mări.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cape Otranto Cliffs",
+            "tip": "View of the meeting of two seas.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lecce-Stein-Souvenirs",
+            "tip": "Schnitzereien aus Kalkstein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lecce-kő ajándékok",
+            "tip": "Faragványok helyi mészkőből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri din piatră de Lecce",
+            "tip": "Obiecte sculptate în calcar local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lecce Stone Gifts",
+            "tip": "Carvings from local limestone."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenstraße ist teilweise hügelig.",
+          "Tragen Sie Sonnenschutz, es gibt wenig Schatten.",
+          "Achten Sie auf Wanderer am Bauxit-See.",
+          "Prüfen Sie den Wind am Kap."
+        ],
+        "hu": [
+          "A part menti út helyenként dombos.",
+          "Használjon naptejet, kevés az árnyék.",
+          "Vigyázzon a gyalogosokra a Bauxit-tónál.",
+          "Ellenőrizze a szelet a foknál."
+        ],
+        "ro": [
+          "Drumul de coastă este parțial deluros.",
+          "Folosiți protecție solară, e puțină umbră.",
+          "Atenție la drumeți lângă lacul de bauxită.",
+          "Verificați intensitatea vântului la cap."
+        ],
+        "en": [
+          "The coastal road is partly hilly.",
+          "Wear sunscreen, there is little shade.",
+          "Watch out for hikers near the Bauxite lake.",
+          "Check the wind at the cape."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "19:50",
+      "total_km": 25.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale von Otranto",
+            "hu": "Otrantói székesegyház",
+            "ro": "Catedrala din Otranto",
+            "en": "Otranto Cathedral"
+          },
+          "coords": [
+            18.4915,
+            40.1448
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken am Hafen empfohlen.",
+            "hu": "Parkolás a kikötőnél ajánlott.",
+            "ro": "Parcarea recomandată la port.",
+            "en": "Parking recommended at the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Bauxit-See (Cava di Bauxite)",
+            "hu": "Bauxit-tó (Cava di Bauxite)",
+            "ro": "Lacul de bauxită (Cava di Bauxite)",
+            "en": "Bauxite Lake (Cava di Bauxite)"
+          },
+          "coords": [
+            18.5015,
+            40.132
+          ],
+          "category": "natural features",
+          "arrive_at": "10:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Einzigartiges Fotomotiv.",
+            "hu": "Egyedülálló fotótéma.",
+            "ro": "Subiect foto unic.",
+            "en": "Unique photo subject."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm am Capo d'Otranto",
+            "hu": "Capo d'Otranto világítótorony",
+            "ro": "Farul de la Capo d'Otranto",
+            "en": "Lighthouse at Cape Otranto"
+          },
+          "coords": [
+            18.5195,
+            40.1085
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Faszinierende Meereslandschaft.",
+            "hu": "Lenyűgöző tengeri táj.",
+            "ro": "Peisaj marin fascinant.",
+            "en": "Fascinating seascape."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Aragonese",
+            "hu": "Aragóniai vár",
+            "ro": "Castelul Aragonez",
+            "en": "Aragonese Castle"
+          },
+          "coords": [
+            18.4925,
+            40.146
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Ausstellungen.",
+            "hu": "Tekintse meg a kiállításokat.",
+            "ro": "Vizitați expozițiile.",
+            "en": "Visit the exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Baia dei Turchi",
+            "hu": "Baia dei Turchi",
+            "ro": "Baia dei Turchi",
+            "en": "Baia dei Turchi"
+          },
+          "coords": [
+            18.485,
+            40.188
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Paradiesischer Strand im Pinienwald.",
+            "hu": "Paradicsomi strand fenyőerdőben.",
+            "ro": "Plajă paradisiacă într-o pădure de pini.",
+            "en": "Paradise beach in a pine forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Otranto",
+            "hu": "Otrantói kikötő",
+            "ro": "Portul din Otranto",
+            "en": "Port of Otranto"
+          },
+          "coords": [
+            18.494,
+            40.1475
+          ],
+          "category": "port",
+          "arrive_at": "18:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Abendlicher Spaziergang.",
+            "hu": "Esti séta a kikötőben.",
+            "ro": "Plimbare de seară în port.",
+            "en": "Evening stroll at the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie die Highlights von Otranto und die malerische Küste des Salento. Nach der Kathedrale führt die Fahrt zum farbenfrohen Bauxit-See und weiter zum Leuchtturm von Capo d'Otranto. Mittags kehren Sie zum Schloss in die Stadt zurück. Den Nachmittag verbringen Sie am paradiesischen Strand Baia dei Turchi, nördlich der Stadt, bevor Sie den Tag am Hafen von Otranto ausklingen lassen.",
+        "hu": "Autóval Otranto nevezetességeit és a Salento festői partvidékét fedezhetjük fel. A katedrális után a színes Bauxit-tóhoz, majd a Capo d'Otranto világítótoronyhoz autózunk. Ebédidőben visszatérünk a városba a várhoz. A délutánt a várostól északra fekvő paradicsomi Baia dei Turchi strandon töltjük, majd az otrantói kikötőben zárjuk a napot.",
+        "ro": "Cu mașina puteți descoperi atracțiile din Otranto și coasta pitorească a Salentoului. După catedrală, drumul continuă spre lacul de bauxită și farul de la Capo d'Otranto. La prânz reveniți la castelul din oraș. După-amiaza este dedicată plajei paradisiace Baia dei Turchi, aflată la nord, urmată de o seară relaxantă în portul Otranto.",
+        "en": "By car, explore Otranto's highlights and the scenic Salento coast. After the Cathedral, drive to the colorful Bauxite Lake and on to the Cape Otranto lighthouse. Return to the city for lunch and visit the Castle. Spend your afternoon at the paradise beach of Baia dei Turchi north of the city, before ending your day at Otranto harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pesce Spada",
+            "tip": "Gegrillter Schwertfisch mit Kräutern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pesce Spada",
+            "tip": "Grillezett kardhal fűszerekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pesce Spada",
+            "tip": "Pește spadă la grătar cu ierburi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pesce Spada",
+            "tip": "Grilled swordfish with herbs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Baia dei Turchi",
+            "tip": "Weiße Sandstrände und Pinien.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baia dei Turchi",
+            "tip": "Fehér homok és fenyőillat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baia dei Turchi",
+            "tip": "Plaje albe și pini.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Baia dei Turchi",
+            "tip": "White sands and pine forest.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Salento-Webwaren",
+            "tip": "Handgewebte Tischdecken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Salento szőttesek",
+            "tip": "Kézzel szőtt asztalterítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Țesături din Salento",
+            "tip": "Fețe de masă țesute manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salento Textiles",
+            "tip": "Handwoven tablecloths."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze bei Baia dei Turchi sind kostenpflichtig.",
+          "Die ZTL in Otranto ist streng.",
+          "Nutzen Sie den Shuttle-Service zum Strand.",
+          "Fahren Sie vorsichtig auf der Küstenstraße."
+        ],
+        "hu": [
+          "A Baia dei Turchi parkolói fizetősek.",
+          "Az otrantói ZTL zónát szigorúan veszik.",
+          "Használja a transzferbuszt a strandhoz.",
+          "Vezessen óvatosan a part menti úton."
+        ],
+        "ro": [
+          "Parcările la Baia dei Turchi sunt cu plată.",
+          "Zona ZTL în Otranto este strictă.",
+          "Folosiți serviciul de transfer spre plajă.",
+          "Conduceți cu prudență pe drumul de coastă."
+        ],
+        "en": [
+          "Parking at Baia dei Turchi is paid.",
+          "The ZTL zone in Otranto is strictly enforced.",
+          "Use the shuttle service to the beach.",
+          "Drive carefully on the coastal road."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Otranto",
+            "hu": "Otranto vasútállomás",
+            "ro": "Gara Otranto",
+            "en": "Otranto Train Station"
+          },
+          "coords": [
+            18.4835,
+            40.1425
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Endstation der Bahn aus Lecce.",
+            "hu": "A Lecce felőli vonat végállomása.",
+            "ro": "Capăt de linie pentru trenul din Lecce.",
+            "en": "Terminus for the train from Lecce."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Alfonsina",
+            "hu": "Porta Alfonsina",
+            "ro": "Porta Alfonsina",
+            "en": "Porta Alfonsina"
+          },
+          "coords": [
+            18.4905,
+            40.1465
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Zehn Minuten Fußweg ins Zentrum.",
+            "hu": "Tíz perc séta a központig.",
+            "ro": "Zece minute pe jos până în centru.",
+            "en": "Ten minute walk to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Otranto",
+            "hu": "Otrantói székesegyház",
+            "ro": "Catedrala din Otranto",
+            "en": "Otranto Cathedral"
+          },
+          "coords": [
+            18.4915,
+            40.1448
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beste Zeit für die Besichtigung.",
+            "hu": "A legjobb időpont a látogatásra.",
+            "ro": "Cel mai bun moment pentru vizitare.",
+            "en": "Best time for visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Aragonese",
+            "hu": "Aragóniai vár",
+            "ro": "Castelul Aragonez",
+            "en": "Aragonese Castle"
+          },
+          "coords": [
+            18.4925,
+            40.146
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eindrucksvolle Architektur.",
+            "hu": "Lenyűgöző építészet.",
+            "ro": "Arhitectură impresionantă.",
+            "en": "Impressive architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Otranto",
+            "hu": "Otrantói kikötő",
+            "ro": "Portul din Otranto",
+            "en": "Port of Otranto"
+          },
+          "coords": [
+            18.494,
+            40.1475
+          ],
+          "category": "port",
+          "arrive_at": "13:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lange Pause am Wasser.",
+            "hu": "Hosszú pihenő a vízparton.",
+            "ro": "Pauză lungă lângă apă.",
+            "en": "Long break by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bequem mit dem Zug erreichbar. Vom Bahnhof Otranto laufen Sie zur Porta Alfonsina. Besichtigen Sie die Kathedrale mit ihrem Mosaik und das Castello Aragonese. Den Nachmittag verbringen Sie am Hafen oder an den angrenzenden kleinen Stränden der Stadt, bevor Sie entspannt mit der Regionalbahn zurückfahren.",
+        "hu": "Vonattal kényelmesen elérhető. A vasútállomástól sétáljon a Porta Alfonsinához. Nézze meg a katedrálist a híres mozaikkal és az Aragóniai várat. A délutánt a kikötőben vagy a közeli városi strandokon töltheti, majd regionális vonattal térhet vissza.",
+        "ro": "Accesibil ușor cu trenul. De la gară mergeți pe jos până la Porta Alfonsina. Vizitați catedrala cu mozaicul său și Castelul Aragonez. După-amiaza o puteți petrece în port sau pe micile plaje ale orașului, înainte de întoarcerea cu trenul regional.",
+        "en": "Easily accessible by train. From Otranto station, walk to Porta Alfonsina. Visit the Cathedral with its mosaic and the Aragonese Castle. Spend the afternoon at the harbor or the adjacent small city beaches before taking the regional train back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Friselle",
+            "tip": "Harte Teigringe mit Tomaten eingeweicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friselle",
+            "tip": "Szárított tészta paradicsommal áztatva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friselle",
+            "tip": "Pâine uscată înmuiată, cu roșii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Friselle",
+            "tip": "Hard bread rings soaked with tomatoes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafenmole",
+            "tip": "Meeresbrise und Schiffsbeobachtung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői móló",
+            "tip": "Tengeri szél és hajók látványa.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Digul portului",
+            "tip": "Briză marină și vederi spre port.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Pier",
+            "tip": "Sea breeze and boat watching.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Liköre",
+            "tip": "Limoncello oder Kräuterliköre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi likőrök",
+            "tip": "Limoncello vagy gyógynövénylikőr."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lichioruri locale",
+            "tip": "Limoncello sau lichior de plante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Liqueurs",
+            "tip": "Limoncello or herbal liqueurs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Züge sind oft kleine Triebwagen.",
+          "Fahrpläne vorab online prüfen.",
+          "Vom Bahnhof zum Meer geht es leicht bergab.",
+          "Tickets im Tabakladen kaufen."
+        ],
+        "hu": [
+          "A vonatok gyakran kis motorkocsik.",
+          "Ellenőrizze a menetrendet online.",
+          "Az állomástól a tengerig enyhe lejtő vezet.",
+          "Vegyen jegyet a trafikban."
+        ],
+        "ro": [
+          "Trenurile sunt adesea automotoare mici.",
+          "Verificați orarul online în prealabil.",
+          "De la gară spre mare drumul coboară ușor.",
+          "Cumpărați bilete de la chioșcurile de ziare."
+        ],
+        "en": [
+          "Trains are often small railcars.",
+          "Check schedules online in advance.",
+          "It's a slight downhill walk to the sea.",
+          "Buy tickets at tobacco shops."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Otranto",
+    "region": "IT-75",
+    "lon": 18.4814,
+    "lat": 40.1456,
+    "transit_official": "https://www.trenitalia.com/",
+    "transit_app": "https://moovitapp.com/",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.eventbrite.it/d/italy--otranto/events/",
+    "tourism_office": "https://discoverotranto.com/en/home/",
+    "webcam": "https://www.skylinewebcams.com/webcam/italia/puglia/lecce/otranto.html",
+    "restaurants_booking": "https://www.thefork.com/",
+    "museum_tickets": "https://www.viaggiareinpuglia.it/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch; lokaler Salento-Dialekt; Englisch in Touristenzonen.",
+      "hu": "Olasz; helyi salentoi tajszolas; angolul a turistazonakban beszelnek.",
+      "ro": "Italiana; dialect local salentin; engleza in zonele turistice.",
+      "en": "Italian; local Salento dialect; English in tourist areas."
+    },
+    "best_time": {
+      "de": "Mai-Juni und September; im August sehr heiss und ueberfuellt.",
+      "hu": "Majus-junius es szeptember; augusztusban nagyon meleg es zsufolt.",
+      "ro": "Mai-iunie si septembrie; in august este foarte cald si aglomerat.",
+      "en": "May-June and September; August is very hot and crowded."
+    },
+    "warnings": {
+      "de": "Starker Nordwind (Tramontana) im Winter; ZTL im historischen Zentrum.",
+      "hu": "Eros eszaki szel (tramontana) telen; ZTL a tortenelmi kozpontban.",
+      "ro": "Vant puternic de nord (tramontana) iarna; ZTL in centrul istoric.",
+      "en": "Strong northerly Tramontana wind in winter; ZTL in historic centre."
+    }
+  }
+}

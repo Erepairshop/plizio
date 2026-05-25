@@ -1,0 +1,1079 @@
+{
+  "city_id": "montepulciano",
+  "anchor": {
+    "name": "Montepulciano",
+    "coords": [
+      11.7811,
+      43.0942
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre di Pulcinella",
+            "hu": "Pulcinella-torony",
+            "ro": "Torre di Pulcinella",
+            "en": "Pulcinella Tower"
+          },
+          "coords": [
+            11.7825,
+            43.095
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Figur oben, die die Stunden schlägt.",
+            "hu": "Figyeld a figurát a tetején, ami az órákat üti.",
+            "ro": "Observați figura de deasupra care bate orele.",
+            "en": "Watch the figure on top that strikes the hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Agostino",
+            "hu": "Sant'Agostino templom",
+            "ro": "Biserica Sant'Agostino",
+            "en": "Church of Sant'Agostino"
+          },
+          "coords": [
+            11.7828,
+            43.0952
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade aus dem 15. Jahrhundert.",
+            "hu": "Csodáld meg a 15. századi homlokzatot.",
+            "ro": "Admirați fațada din secolul al XV-lea.",
+            "en": "Admire the 15th-century facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Grande",
+            "hu": "Piazza Grande",
+            "ro": "Piazza Grande",
+            "en": "Piazza Grande"
+          },
+          "coords": [
+            11.7812,
+            43.0927
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt und Drehort für viele Filme.",
+            "hu": "A város szíve és számos film forgatási helyszíne.",
+            "ro": "Inima orașului și locația multor filme.",
+            "en": "The heart of the town and filming location for many movies."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Comunale",
+            "hu": "Városháza",
+            "ro": "Palazzo Comunale",
+            "en": "Communal Palace"
+          },
+          "coords": [
+            11.7814,
+            43.0928
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm für eine unglaubliche Aussicht.",
+            "hu": "Mássz fel a toronyba a hihetetlen kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște incredibilă.",
+            "en": "Climb the tower for an incredible view."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Santa Maria Assunta",
+            "hu": "Santa Maria Assunta dóm",
+            "ro": "Domul Santa Maria Assunta",
+            "en": "Duomo di Santa Maria Assunta"
+          },
+          "coords": [
+            11.781,
+            43.0925
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Die unvollendete Fassade birgt wertvolle Kunstwerke im Inneren.",
+            "hu": "A befejezetlen homlokzat értékes műkincseket rejt belül.",
+            "ro": "Fațada neterminată ascunde opere de artă valoroase în interior.",
+            "en": "The unfinished facade hides valuable artworks inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Cantina del Redi",
+            "hu": "Cantina del Redi",
+            "ro": "Cantina del Redi",
+            "en": "Cantina del Redi"
+          },
+          "coords": [
+            11.782,
+            43.093
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die historischen Weinkeller unter der Stadt.",
+            "hu": "Látogass el a város alatti történelmi borospincékbe.",
+            "ro": "Vizitați cramele istorice de sub oraș.",
+            "en": "Visit the historic wine cellars beneath the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortezza di Montepulciano",
+            "hu": "Montepulcianói erőd",
+            "ro": "Fortăreața din Montepulciano",
+            "en": "Fortress of Montepulciano"
+          },
+          "coords": [
+            11.7805,
+            43.0915
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Oft finden hier Kunstausstellungen und Weinverkostungen statt.",
+            "hu": "Gyakran ad otthont művészeti kiállításoknak és borkóstolóknak.",
+            "ro": "Găzduiește adesea expoziții de artă și degustări de vin.",
+            "en": "Often hosts art exhibitions and wine tastings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im nördlichen Teil der Altstadt beim Pulcinella-Turm und der Kirche Sant'Agostino. Schlendern Sie dann bergauf zum beeindruckenden Piazza Grande.\n\nMittags erkunden Sie den Palazzo Comunale und den Dom, die beide den Hauptplatz dominieren. Genießen Sie die Architektur der Renaissance.\n\nAm Nachmittag tauchen Sie in die Unterwelt der Stadt in der Cantina del Redi ein, um den berühmten Vino Nobile zu entdecken.\n\nBeenden Sie den Tag entspannt an der Festung, wo Sie die Aussicht über das Val d'Orcia genießen können.",
+        "hu": "Kezdd a napot az óváros északi részén a Pulcinella-toronynál és a Sant'Agostino templomnál. Sétálj felfelé a lenyűgöző Piazza Grandéra.\n\nDélben fedezd fel a Városházát és a dómot, amelyek a főteret uralják. Élvezd a reneszánsz építészetet.\n\nDélután merülj el a város földalatti világában a Cantina del Rediben, hogy felfedezd a híres Vino Nobile bort.\n\nZárd a napot pihentetően az erődnél, ahonnan csodás kilátás nyílik a Val d'Orcia vidékére.",
+        "ro": "Începeți ziua în partea de nord a centrului vechi, lângă Turnul Pulcinella și biserica Sant'Agostino. Urcați apoi spre impresionanta Piazza Grande.\n\nLa prânz, explorați Palazzo Comunale și Domul, ambele dominând piața principală. Bucurați-vă de arhitectura renascentistă.\n\nDupă-amiaza, scufundați-vă în lumea subterană a orașului la Cantina del Redi pentru a descoperi celebrul Vino Nobile.\n\nÎncheiați ziua relaxându-vă la fortăreață, de unde puteți admira vederea peste Val d'Orcia.",
+        "en": "Start your day in the northern part of the old town near the Pulcinella Tower and the Church of Sant'Agostino. Stroll uphill to the impressive Piazza Grande.\n\nAt midday, explore the Palazzo Comunale and the Duomo, both dominating the main square. Enjoy the Renaissance architecture.\n\nIn the afternoon, dive into the underground world of the city at Cantina del Redi to discover the famous Vino Nobile wine.\n\nEnd the day relaxing at the fortress, where you can enjoy the views over the Val d'Orcia."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vino Nobile di Montepulciano",
+            "tip": "Der berühmte Rotwein der Region."
+          },
+          {
+            "name": "Pici all'Aglione",
+            "tip": "Handgemachte dicke Pasta mit Knoblauchsauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vino Nobile di Montepulciano",
+            "tip": "A régió híres vörösbora."
+          },
+          {
+            "name": "Pici all'Aglione",
+            "tip": "Kézzel készített vastag tészta fokhagymás szósszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vino Nobile di Montepulciano",
+            "tip": "Celebrul vin roșu al regiunii."
+          },
+          {
+            "name": "Pici all'Aglione",
+            "tip": "Paste groase făcute manual cu sos de usturoi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vino Nobile di Montepulciano",
+            "tip": "The famous red wine of the region."
+          },
+          {
+            "name": "Pici all'Aglione",
+            "tip": "Handmade thick pasta with garlic sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Biagio Wiese",
+            "tip": "Ruhiger Platz vor der Kirche.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Biagio rét",
+            "tip": "Nyugodt hely a templom előtt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pajiștea San Biagio",
+            "tip": "Loc liniștit în fața bisericii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Biagio Meadow",
+            "tip": "Quiet spot in front of the church.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Bottega del Nobile",
+            "tip": "Wein und lokale Delikatessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Bottega del Nobile",
+            "tip": "Borok és helyi finomságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Bottega del Nobile",
+            "tip": "Vin și delicatese locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Bottega del Nobile",
+            "tip": "Wine and local delicacies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen steil sind.",
+          "Reservieren Sie Weinkeller-Touren im Voraus."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mert az utcák meredekek.",
+          "Foglald le előre a pincelátogatásokat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile sunt abrupte.",
+          "Rezervați tururile la crame în avans."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets are steep.",
+          "Book wine cellar tours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fortezza di Montepulciano",
+            "hu": "Montepulcianói erőd",
+            "ro": "Fortăreața din Montepulciano",
+            "en": "Fortress of Montepulciano"
+          },
+          "coords": [
+            11.7805,
+            43.0915
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt oben in der Stadt.",
+            "hu": "Kiindulópont a város tetején.",
+            "ro": "Punct de plecare din partea de sus a orașului.",
+            "en": "Starting point at the top of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Grande",
+            "hu": "Piazza Grande",
+            "ro": "Piazza Grande",
+            "en": "Piazza Grande"
+          },
+          "coords": [
+            11.7812,
+            43.0927
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Stopp am Hauptplatz.",
+            "hu": "Rövid megálló a főtéren.",
+            "ro": "Scurtă oprire în piața principală.",
+            "en": "Short stop at the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Pozzo dei Grifi e dei Leoni",
+            "hu": "Grifek és Oroszlánok kútja",
+            "ro": "Pozzo dei Grifi e dei Leoni",
+            "en": "Well of the Grifi and the Leoni"
+          },
+          "coords": [
+            11.7815,
+            43.0929
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein schöner Renaissance-Brunnen.",
+            "hu": "Egy gyönyörű reneszánsz kút.",
+            "ro": "O fântână renascentistă frumoasă.",
+            "en": "A beautiful Renaissance well."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Civico Pinacoteca Crociani",
+            "hu": "Városi Múzeum",
+            "ro": "Museo Civico",
+            "en": "Civic Museum"
+          },
+          "coords": [
+            11.7818,
+            43.0935
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wichtige Kunstsammlung.",
+            "hu": "Fontos művészeti gyűjtemény.",
+            "ro": "Colecție importantă de artă.",
+            "en": "Important art collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempio di San Biagio",
+            "hu": "San Biagio templom",
+            "ro": "Templul San Biagio",
+            "en": "Temple of San Biagio"
+          },
+          "coords": [
+            11.7745,
+            43.0885
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine epische Abfahrt zu diesem Renaissance-Meisterwerk.",
+            "hu": "Egy epikus legurulás ehhez a reneszánsz mesterműhöz.",
+            "ro": "O cobâre epică spre această capodoperă renascentistă.",
+            "en": "An epic descent to this Renaissance masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Cantina del Redi",
+            "hu": "Cantina del Redi",
+            "ro": "Cantina del Redi",
+            "en": "Cantina del Redi"
+          },
+          "coords": [
+            11.782,
+            43.093
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Der Rückweg ist steil, belohnen Sie sich mit Wein.",
+            "hu": "Visszafelé meredek az út, jutalmazd magad borral.",
+            "ro": "Drumul de întoarcere este abrupt, recompensați-vă cu vin.",
+            "en": "The way back is steep, reward yourself with wine."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie an der Festung und rollen Sie durch die engen Gassen zum Hauptplatz.\n\nBesuchen Sie das Stadtmuseum, bevor Sie die Stadtmauern verlassen.\n\nDie Abfahrt zum Tempio di San Biagio ist spektakulär und bietet tolle Fotomotive.\n\nDer Rückweg in die Oberstadt erfordert etwas Kraft, aber die Weinkeller erwarten Sie.",
+        "hu": "Kezdd az erődnél, és gurulj végig a szűk utcákon a főtérig.\n\nLátogasd meg a Városi Múzeumot, mielőtt elhagynád a városfalakat.\n\nA San Biagio templomhoz vezető lejtő látványos és remek fotótémákat kínál.\n\nA felsővárosba vezető út némi erőt igényel, de a borospincék várnak.",
+        "ro": "Începeți la fortăreață și rulați pe străzile înguste până la piața principală.\n\nVizitați muzeul orașului înainte de a părăsi zidurile cetății.\n\nCoborârea spre Templul San Biagio este spectaculoasă și oferă oportunități foto grozave.\n\nDrumul de întoarcere în orașul de sus necesită puțin efort, dar cramele vă așteaptă.",
+        "en": "Start at the fortress and roll through the narrow streets to the main square.\n\nVisit the Civic Museum before leaving the city walls.\n\nThe descent to the Temple of San Biagio is spectacular and offers great photo opportunities.\n\nThe way back to the upper town requires some effort, but the wine cellars await."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cantina De' Ricci",
+            "tip": "Einer der beeindruckendsten Keller."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cantina De' Ricci",
+            "tip": "Az egyik leglenyűgözőbb pince."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cantina De' Ricci",
+            "tip": "Una dintre cele mai impresionante crame."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cantina De' Ricci",
+            "tip": "One of the most impressive cellars."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Biagio Zypresen",
+            "tip": "Typisch toskanische Idylle.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Biagio ciprusok",
+            "tip": "Tipikus toszkán idill.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chiparoșii San Biagio",
+            "tip": "Idilă tipic toscană.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Biagio Cypresses",
+            "tip": "Typical Tuscan idyll.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Consorzio del Vino Nobile",
+            "tip": "Alles über lokalen Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Consorzio del Vino Nobile",
+            "tip": "Minden a helyi borról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Consorzio del Vino Nobile",
+            "tip": "Totul despre vinul local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Consorzio del Vino Nobile",
+            "tip": "Everything about local wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "E-Bikes werden für die steilen Hügel dringend empfohlen.",
+          "Achten Sie auf Fußgänger in der ZTL-Zone."
+        ],
+        "hu": [
+          "Az e-bike kifejezetten ajánlott a meredek dombokhoz.",
+          "Figyelj a gyalogosokra a ZTL zónában."
+        ],
+        "ro": [
+          "Bicicletele electrice sunt recomandate pentru dealurile abrupte.",
+          "Atenție la pietoni în zona ZTL."
+        ],
+        "en": [
+          "E-bikes are highly recommended for the steep hills.",
+          "Watch out for pedestrians in the ZTL zone."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18.0,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tempio di San Biagio",
+            "hu": "San Biagio templom",
+            "ro": "Templul San Biagio",
+            "en": "Temple of San Biagio"
+          },
+          "coords": [
+            11.7745,
+            43.0885
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie direkt davor, um den Massen zu entgehen.",
+            "hu": "Parkolj közvetlenül előtte, hogy elkerüld a tömeget.",
+            "ro": "Parcați direct în față pentru a evita mulțimea.",
+            "en": "Park directly in front to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortezza di Montepulciano",
+            "hu": "Montepulcianói erőd",
+            "ro": "Fortăreața din Montepulciano",
+            "en": "Fortress of Montepulciano"
+          },
+          "coords": [
+            11.7805,
+            43.0915
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Parkplatz P1 direkt an der Festung.",
+            "hu": "Használd a P1 parkolót közvetlenül az erődnél.",
+            "ro": "Utilizați parcarea P1 chiar lângă fortăreață.",
+            "en": "Use the P1 parking lot right by the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Grande",
+            "hu": "Piazza Grande",
+            "ro": "Piazza Grande",
+            "en": "Piazza Grande"
+          },
+          "coords": [
+            11.7812,
+            43.0927
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Santa Maria Assunta",
+            "hu": "Santa Maria Assunta dóm",
+            "ro": "Domul Santa Maria Assunta",
+            "en": "Duomo di Santa Maria Assunta"
+          },
+          "coords": [
+            11.781,
+            43.0925
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Triptychon von Taddeo di Bartolo.",
+            "hu": "Csodáld meg Taddeo di Bartolo triptichonját.",
+            "ro": "Admirați tripticul lui Taddeo di Bartolo.",
+            "en": "Admire the triptych by Taddeo di Bartolo."
+          }
+        },
+        {
+          "name": {
+            "de": "Cantina del Redi",
+            "hu": "Cantina del Redi",
+            "ro": "Cantina del Redi",
+            "en": "Cantina del Redi"
+          },
+          "coords": [
+            11.782,
+            43.093
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für den Weinkauf vor der Abfahrt.",
+            "hu": "Tökéletes borvásárláshoz távozás előtt.",
+            "ro": "Perfect pentru cumpărarea vinului înainte de plecare.",
+            "en": "Perfect for buying wine before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie beim San Biagio Tempel im Tal, bevor Sie zur Festung hinauffahren.\n\nParken Sie oben und erkunden Sie den Hauptplatz und den Dom bequem zu Fuß.\n\nBesuchen Sie die Weinkeller für eine Verkostung oder zum Einkaufen.\n\nGenießen Sie die toskanische Landschaft bei der An- und Abreise.",
+        "hu": "Kezdd a völgyben lévő San Biagio templomnál, mielőtt felhajtanál az erődhöz.\n\nParkolj le fent, és fedezd fel a főteret és a dómot kényelmesen gyalog.\n\nLátogasd meg a borospincéket kóstolóra vagy vásárlásra.\n\nÉlvezd a toszkán tájat az érkezés és távozás során.",
+        "ro": "Începeți la Templul San Biagio din vale, înainte de a urca la fortăreață.\n\nParcați sus și explorați piața principală și domul confortabil pe jos.\n\nVizitați cramele pentru o degustare sau pentru cumpărături.\n\nBucurați-vă de peisajul toscan în timpul sosirii și plecării.",
+        "en": "Start at the San Biagio Temple in the valley before driving up to the fortress.\n\nPark at the top and explore the main square and the Duomo comfortably on foot.\n\nVisit the wine cellars for a tasting or shopping.\n\nEnjoy the Tuscan landscape during arrival and departure."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Osteria Acquacheta",
+            "tip": "Bekannt für das Florentiner Steak."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Osteria Acquacheta",
+            "tip": "Híres a firenzei steakről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Osteria Acquacheta",
+            "tip": "Cunoscută pentru friptura florentină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Osteria Acquacheta",
+            "tip": "Known for the Florentine steak."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piazza Grande Stufen",
+            "tip": "Ideal zum Beobachten der Leute.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza Grande lépcsői",
+            "tip": "Ideális az emberek megfigyelésére.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Treptele Piazza Grande",
+            "tip": "Ideal pentru a observa oamenii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza Grande steps",
+            "tip": "Ideal for people-watching.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgefertigte Kupferwaren",
+            "tip": "Traditionelles Handwerk in Montepulciano."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves rézáruk",
+            "tip": "Hagyományos mesterség Montepulcianóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Obiecte din cupru lucrate manual",
+            "tip": "Meșteșug tradițional în Montepulciano."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade copperware",
+            "tip": "Traditional craft in Montepulciano."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist eine ZTL-Zone (begrenzter Verkehr).",
+          "Parkplätze sind am Wochenende schnell voll."
+        ],
+        "hu": [
+          "Az óváros ZTL zóna (korlátozott forgalom).",
+          "A parkolók hétvégén gyorsan megtelnek."
+        ],
+        "ro": [
+          "Centrul vechi este zonă ZTL (trafic limitat).",
+          "Parcările se umplu repede în weekend."
+        ],
+        "en": [
+          "The old town is a ZTL zone (limited traffic).",
+          "Parking lots fill up quickly on weekends."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre di Pulcinella",
+            "hu": "Pulcinella-torony",
+            "ro": "Torre di Pulcinella",
+            "en": "Pulcinella Tower"
+          },
+          "coords": [
+            11.7825,
+            43.095
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nahe der Bushaltestelle Porta al Prato.",
+            "hu": "A Porta al Prato buszmegálló közelében.",
+            "ro": "Lângă stația de autobuz Porta al Prato.",
+            "en": "Near the Porta al Prato bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Agostino",
+            "hu": "Sant'Agostino templom",
+            "ro": "Biserica Sant'Agostino",
+            "en": "Church of Sant'Agostino"
+          },
+          "coords": [
+            11.7828,
+            43.0952
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schöne gotische Details.",
+            "hu": "Szép gótikus részletek.",
+            "ro": "Frumoase detalii gotice.",
+            "en": "Beautiful Gothic details."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Grande",
+            "hu": "Piazza Grande",
+            "ro": "Piazza Grande",
+            "en": "Piazza Grande"
+          },
+          "coords": [
+            11.7812,
+            43.0927
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Zentraler Punkt für alle Stadtbesichtigungen.",
+            "hu": "Minden városnézés központi pontja.",
+            "ro": "Punct central pentru toate vizitele în oraș.",
+            "en": "Central point for all town visits."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Comunale",
+            "hu": "Városháza",
+            "ro": "Palazzo Comunale",
+            "en": "Communal Palace"
+          },
+          "coords": [
+            11.7814,
+            43.0928
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Ein Symbol der bürgerlichen Macht.",
+            "hu": "A polgári hatalom szimbóluma.",
+            "ro": "Un simbol al puterii civice.",
+            "en": "A symbol of civic power."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Santa Maria Assunta",
+            "hu": "Santa Maria Assunta dóm",
+            "ro": "Domul Santa Maria Assunta",
+            "en": "Duomo di Santa Maria Assunta"
+          },
+          "coords": [
+            11.781,
+            43.0925
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Beeindruckende Innenausstattung.",
+            "hu": "Lenyűgöző belső kialakítás.",
+            "ro": "Interior impresionant.",
+            "en": "Impressive interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortezza di Montepulciano",
+            "hu": "Montepulcianói erőd",
+            "ro": "Fortăreața din Montepulciano",
+            "en": "Fortress of Montepulciano"
+          },
+          "coords": [
+            11.7805,
+            43.0915
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Guter Ort, um auf den nächsten Bus zu warten.",
+            "hu": "Jó hely a következő busz megvárására.",
+            "ro": "Loc bun pentru a aștepta următorul autobuz.",
+            "en": "Good place to wait for the next bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus zur Porta al Prato und beginnen Sie Ihre Tour.\n\nBesuchen Sie die architektonischen Highlights rund um den Piazza Grande.\n\nNach dem Besuch des Doms schlendern Sie zur Festung hinüber.\n\nDer lokale Shuttlebus verbindet die verschiedenen Ebenen der Stadt bequem.",
+        "hu": "Használd a helyi buszt a Porta al Prato kapuig, és kezdd el a túrát.\n\nLátogasd meg az építészeti fénypontokat a Piazza Grande körül.\n\nA dóm megtekintése után sétálj át az erődhöz.\n\nA helyi transzferbusz kényelmesen összeköti a város különböző szintjeit.",
+        "ro": "Utilizați autobuzul local până la Porta al Prato și începeți turul.\n\nVizitați punctele de interes arhitectural din jurul Piazza Grande.\n\nDupă vizitarea domului, plimbați-vă până la fortăreață.\n\nAutobuzul local de transfer conectează convenabil diferitele niveluri ale orașului.",
+        "en": "Use the local bus to Porta al Prato and start your tour.\n\nVisit the architectural highlights around Piazza Grande.\n\nAfter visiting the Duomo, stroll over to the fortress.\n\nThe local shuttle bus conveniently connects the different levels of the town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caffè Poliziano",
+            "tip": "Historisches Café mit schöner Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caffè Poliziano",
+            "tip": "Történelmi kávézó gyönyörű kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caffè Poliziano",
+            "tip": "Cafenea istorică cu o vedere frumoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caffè Poliziano",
+            "tip": "Historic café with a beautiful view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardino di Poggiofanti",
+            "tip": "Kleiner Park am Stadteingang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardino di Poggiofanti",
+            "tip": "Kis park a város bejáratánál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardino di Poggiofanti",
+            "tip": "Mic parc la intrarea în oraș.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardino di Poggiofanti",
+            "tip": "Small park at the town entrance.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lederwaren",
+            "tip": "Hochwertige toskanische Lederprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bőráruk",
+            "tip": "Kiváló minőségű toszkán bőrtermékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse din piele",
+            "tip": "Produse din piele toscană de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leather goods",
+            "tip": "High-quality Tuscan leather products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Fahrpläne der LFI-Busse.",
+          "Der Bahnhof Montepulciano liegt weit außerhalb der Stadt."
+        ],
+        "hu": [
+          "Ellenőrizd az LFI buszok menetrendjét.",
+          "Montepulciano vasútállomása messze van a várostól."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor LFI.",
+          "Gara Montepulciano se află departe de oraș."
+        ],
+        "en": [
+          "Check the LFI bus schedules.",
+          "Montepulciano train station is far outside the town."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "_coords": [
+      11.7831,
+      43.0928
+    ],
+    "_region": "IT-52 Toscana",
+    "transit_official": "https://www.tiemmespa.it/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Montepulciano",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.prolocomontepulciano.it/associazione/proloco/eventi",
+    "tourism_office": "https://www.prolocomontepulciano.it/",
+    "webcam": null,
+    "restaurants_booking": "https://www.thefork.it/ristoranti/montepulciano-c561937",
+    "museum_tickets": "https://www.prolocomontepulciano.it/cosa-fare",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch ist Hauptsprache; Englisch in Weinkellern und Hotels meist verfügbar.",
+      "hu": "Olasz a fő nyelv; angol a borászatokban és szállodákban általában elérhető.",
+      "ro": "Italiana este principala; engleza disponibilă în crame și hoteluri.",
+      "en": "Italian primary; English usually fine in wineries and hotels."
+    },
+    "best_time": {
+      "de": "Mai, Juni und September ideal; Bravìo delle Botti Ende August; Weinlese im Oktober.",
+      "hu": "Május, június és szeptember ideális; Bravìo delle Botti augusztus végén; szüret októberben.",
+      "ro": "Mai, iunie și septembrie ideale; Bravìo delle Botti la sfârșitul lui august; recoltă în octombrie.",
+      "en": "May, June and September ideal; Bravìo delle Botti late August; grape harvest in October."
+    },
+    "warnings": {
+      "de": "Steile Gassen, festes Schuhwerk nötig; ZTL streng kontrolliert. Parkplätze außerhalb der Mauern.",
+      "hu": "Meredek utcák, stabil cipő kell; ZTL szigorúan ellenőrzött. Parkolás csak a falakon kívül.",
+      "ro": "Străzi abrupte, încălțăminte solidă necesară; ZTL controlat strict. Parcare doar în afara zidurilor.",
+      "en": "Steep streets, sturdy shoes needed; ZTL strictly enforced. Parking outside the walls only."
+    }
+  }
+}

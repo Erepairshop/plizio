@@ -1,0 +1,978 @@
+{
+  "city_id": "asiago",
+  "anchor": {
+    "name": "Asiago",
+    "coords": [
+      11.5097,
+      45.8773
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:47",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Piazza Carli",
+          "coords": [
+            11.51,
+            45.876
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Trinken Sie einen Kaffee in den historischen Cafés am Platz.",
+            "hu": "Igyon meg egy kávét a tér történelmi kávézóiban.",
+            "ro": "Beți o cafea la cafenelele istorice din piață.",
+            "en": "Enjoy a coffee in the historic cafes on the square."
+          }
+        },
+        {
+          "name": "Dom San Matteo",
+          "coords": [
+            11.5115,
+            45.8755
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade aus rosa Marmor von Asiago.",
+            "hu": "Csodálja meg a dóm rózsaszín márvány homlokzatát.",
+            "ro": "Admirați fațada din marmură roz de Asiago.",
+            "en": "Admire the facade made of Asiago's pink marble."
+          }
+        },
+        {
+          "name": "Parco Millepini",
+          "coords": [
+            11.5055,
+            45.8745
+          ],
+          "category": "park",
+          "arrive_at": "11:07",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für einen ruhigen Spaziergang im Schatten der Pinien.",
+            "hu": "Ideális egy nyugodt sétához a fenyők árnyékában.",
+            "ro": "Ideal pentru o plimbare liniștită la umbra pinilor.",
+            "en": "Ideal for a quiet stroll in the shade of the pines."
+          }
+        },
+        {
+          "name": "Museum der ländlichen Tradition",
+          "coords": [
+            11.4895,
+            45.8785
+          ],
+          "category": "museum",
+          "arrive_at": "13:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das antike Leben auf dem Sette Comuni Plateau.",
+            "hu": "Fedezze fel a Sette Comuni fennsík ősi életmódját.",
+            "ro": "Descoperiți viața antică de pe platoul Sette Comuni.",
+            "en": "Discover the ancient life on the Sette Comuni plateau."
+          }
+        },
+        {
+          "name": "Militär-Gedenkstätte Leiten",
+          "coords": [
+            11.5195,
+            45.8795
+          ],
+          "category": "historical",
+          "arrive_at": "15:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der Blick über die Berge ist besonders am Nachmittag schön.",
+            "hu": "A hegyekre nyíló kilátás délután a legszebb.",
+            "ro": "Vederea spre munți este deosebit de frumoasă după-amiaza.",
+            "en": "The view over the mountains is especially beautiful in the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag beginnt im Herzen von Asiago auf der Piazza Carli, gefolgt von der Besichtigung des imposanten Doms San Matteo.\n\nZum Mittagessen bietet sich ein entspannter Aufenthalt im Parco Millepini an, wo die frische Bergluft neue Energie spendet.\n\nAm Nachmittag erkunden Sie die ländliche Geschichte im Museum und beenden die Tour an der beeindruckenden Militär-Gedenkstätte Leiten.\n\nDer Abend bietet die perfekte Gelegenheit, die Ruhe der Alpen und lokale Spezialitäten in den Gassen des Ortes zu genießen.",
+        "hu": "A délelőtt Asiago szívében, a Piazza Carli téren indul, majd a San Matteo dóm lenyűgöző belső terének megtekintésével folytatódik.\n\nDélben a Millepini park fenyőfái között pihenhet meg, élvezve a fennsík kristálytiszta hegyi levegőjét.\n\nDélután a vidéki hagyományok múzeuma várja, a napot pedig a monumentális Leiten katonai emlékműnél zárjuk.\n\nAz este tökéletes alkalom a helyi sajtok megkóstolására és egy csendes sétára a kivilágított főutcán.",
+        "ro": "Dimineața începe în inima orașului Asiago, în Piazza Carli, urmată de vizitarea impunătorului Dom San Matteo.\n\nLa prânz, bucurați-vă de o relaxare în Parcul Millepini, unde aerul proaspăt de munte vă va reîncărca bateriile.\n\nDupă-amiaza este dedicată istoriei rurale la muzeul local și se încheie la impresionantul Monument Militar Leiten.\n\nSeara oferă ocazia perfectă pentru a savura liniștea alpină și specialitățile locale pe străzile pitorești.",
+        "en": "The morning starts in the heart of Asiago at Piazza Carli, followed by a visit to the imposing San Matteo Cathedral.\n\nFor midday, enjoy a relaxing stay in Millepini Park, where the fresh mountain air provides a refreshing boost.\n\nIn the afternoon, explore rural history at the museum and conclude the tour at the impressive Leiten Military Memorial.\n\nThe evening is the perfect time to enjoy the Alpine tranquility and local delicacies in the town's charming streets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Asiago DOP Käse",
+            "tip": "Probieren Sie den 'Mezzano' für einen würzigen Geschmack."
+          },
+          {
+            "name": "Ortigara Kuchen",
+            "tip": "Ein typisches lokales Dessert mit Mandeln."
+          },
+          {
+            "name": "Canederli",
+            "tip": "Knödel mit Speck, serviert in einer heißen Brühe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Asiago DOP sajt",
+            "tip": "Próbálja ki a 'Mezzano' típust az intenzívebb ízért."
+          },
+          {
+            "name": "Ortigara torta",
+            "tip": "Mandulás helyi édesség, tökéletes kávé mellé."
+          },
+          {
+            "name": "Canederli",
+            "tip": "Szalonnás gombóc, forró húslevesben tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Asiago DOP",
+            "tip": "Încercați varianta 'Mezzano' pentru un gust intens."
+          },
+          {
+            "name": "Tort Ortigara",
+            "tip": "Un desert local tipic cu migdale."
+          },
+          {
+            "name": "Canederli",
+            "tip": "Găluște cu speck, servite într-o supă fierbinte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Asiago DOP Cheese",
+            "tip": "Try the 'Mezzano' variety for a savory flavor."
+          },
+          {
+            "name": "Ortigara Cake",
+            "tip": "A typical local dessert made with almonds."
+          },
+          {
+            "name": "Canederli",
+            "tip": "Dumplings with speck, served in a hot broth."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leiten Denkmal",
+            "tip": "Stille und Panorama bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parco Millepini",
+            "tip": "Ein ruhiger Ort für Meditation unter Bäumen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Domvorplatz",
+            "tip": "Genießen Sie die Ruhe am frühen Morgen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leiten emlékmű",
+            "tip": "Csend és panoráma naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Millepini park",
+            "tip": "Nyugodt hely meditációhoz a fák alatt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dóm előtti tér",
+            "tip": "Élvezze a reggeli csendet a városban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Monumentul Leiten",
+            "tip": "Liniște și panoramă la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Millepini",
+            "tip": "Un loc liniștit pentru meditație sub copaci.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Piața Domului",
+            "tip": "Bucurați-vă de liniștea dimineții devreme.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Leiten Memorial",
+            "tip": "Silence and panorama at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Millepini Park",
+            "tip": "A quiet spot for meditation under the trees.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cathedral Square",
+            "tip": "Enjoy the early morning peace.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Caseificio Pennar",
+            "tip": "Bester Ort für authentischen Asiago Käse."
+          },
+          {
+            "name": "Corso IV Novembre",
+            "tip": "Elegante Boutiquen und Souvenirläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caseificio Pennar",
+            "tip": "A legjobb hely az eredeti Asiago sajt megvásárlásához."
+          },
+          {
+            "name": "Corso IV Novembre",
+            "tip": "Elegáns butikok és ajándékboltok sora."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caseificio Pennar",
+            "tip": "Cel mai bun loc pentru brânză Asiago autentică."
+          },
+          {
+            "name": "Corso IV Novembre",
+            "tip": "Boutique-uri elegante și magazine de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caseificio Pennar",
+            "tip": "Best place for authentic Asiago cheese."
+          },
+          {
+            "name": "Corso IV Novembre",
+            "tip": "Elegant boutiques and souvenir shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster im Zentrum uneben sein kann.",
+          "Die Bergbrise kann auch im Sommer kühl sein, nehmen Sie eine leichte Jacke mit.",
+          "Probieren Sie den Käse in verschiedenen Reifegraden direkt in den Sennereien.",
+          "Viele Museen schließen zur Mittagszeit, planen Sie Ihre Besuche entsprechend."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert a központ macskakövei egyenetlenek lehetnek.",
+          "A hegyi szél nyáron is hűvös lehet, vigyen magával egy könnyű kabátot.",
+          "Kóstolja meg a különböző érlelési idejű sajtokat közvetlenül a sajtüzemekben.",
+          "Sok múzeum bezár ebédidőben, tervezze meg előre a látogatást."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centru poate fi neregulat.",
+          "Briza muntelui poate fi răcoroasă chiar și vara, luați o jachetă ușoară.",
+          "Gustați brânza în diferite stadii de maturare direct la lăptării.",
+          "Multe muzee se închid la prânz, planificați vizitele corespunzător."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the center can be uneven.",
+          "The mountain breeze can be cool even in summer, bring a light jacket.",
+          "Try the cheese at different stages of aging directly at the dairies.",
+          "Many museums close for lunch, plan your visits accordingly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Piazza Carli",
+          "coords": [
+            11.51,
+            45.876
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bereiten Sie Ihre Ausrüstung vor und genießen Sie die Stimmung.",
+            "hu": "Készítse fel a felszerelését és élvezze a hangulatot.",
+            "ro": "Pregătiți-vă echipamentul și bucurați-vă de atmosferă.",
+            "en": "Prep your gear and soak in the morning atmosphere."
+          }
+        },
+        {
+          "name": "Astrophysikalisches Observatorium",
+          "coords": [
+            11.5255,
+            45.8675
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein leichter Anstieg führt zu diesem faszinierenden Ort.",
+            "hu": "Egy enyhe emelkedő vezet ehhez a lenyűgöző helyhez.",
+            "ro": "O urcare ușoară vă duce la acest loc fascinant.",
+            "en": "A slight climb leads to this fascinating site."
+          }
+        },
+        {
+          "name": "Museum des Großen Krieges",
+          "coords": [
+            11.4855,
+            45.8645
+          ],
+          "category": "museum",
+          "arrive_at": "11:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Interessante Exponate zur Geschichte des Plateaus.",
+            "hu": "Érdekes kiállítások a fennsík történelméről.",
+            "ro": "Expoziții interesante despre istoria platoului.",
+            "en": "Interesting exhibits on the history of the plateau."
+          }
+        },
+        {
+          "name": "Laghetto di Lumenera",
+          "coords": [
+            11.5395,
+            45.8855
+          ],
+          "category": "park",
+          "arrive_at": "13:43",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Perfekt für ein Picknick am Wasser während der Fahrt.",
+            "hu": "Tökéletes hely egy vízparti piknikhez a túra közben.",
+            "ro": "Perfect pentru un picnic pe malul apei în timpul plimbării.",
+            "en": "Perfect for a lakeside picnic during your ride."
+          }
+        },
+        {
+          "name": "Militär-Gedenkstätte Leiten",
+          "coords": [
+            11.5195,
+            45.8795
+          ],
+          "category": "historical",
+          "arrive_at": "15:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein letzter Halt mit majestätischer Aussicht.",
+            "hu": "Utolsó megálló fenséges kilátással.",
+            "ro": "O ultimă oprire cu o vedere maiestuoasă.",
+            "en": "A final stop with a majestic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour beginnt im Zentrum und führt zuerst zum Observatorium, um einen Blick in die Sterne und über das Land zu werfen.\n\nAm Mittag radeln Sie zum Museum des Großen Krieges, um mehr über die bewegte Vergangenheit der Region zu erfahren.\n\nDer Nachmittag wird entspannt am Laghetto di Lumenera verbracht, bevor es bergauf zur Gedenkstätte Leiten geht.\n\nDen Tag beenden Sie mit einer rasanten Abfahrt zurück in den Ort, wo ein herzhaftes Abendessen wartet.",
+        "hu": "A kerékpártúra a központból indul, és először az obszervatóriumhoz vezet, ahonnan remek kilátás nyílik a vidékre.\n\nDélben az első világháborús múzeum felé tekerünk, megismerve a régió viharos múltját.\n\nA délutánt a Lumenera-tó partján tölthetjük pihenéssel, majd az emlékmű felé vesszük az irányt.\n\nA napot egy kellemes gurulással zárjuk vissza a városba, ahol egy bőséges vacsora várja a túrázókat.",
+        "ro": "Turul cu bicicleta începe în centru și duce mai întâi la observator pentru o privire asupra stelelor și a regiunii.\n\nLa prânz, pedalați spre Muzeul Marelui Război pentru a afla mai multe despre trecutul zbuciumat al zonei.\n\nDupă-amiaza este petrecută relaxat la Lacul Lumenera, înainte de a urca spre Monumentul Leiten.\n\nÎncheiați ziua cu o coborâre rapidă înapoi în oraș, unde vă așteaptă o cină copioasă.",
+        "en": "The bike tour starts in the center and leads first to the observatory for a view of the stars and the surrounding landscape.\n\nAt midday, cycle to the Great War Museum to learn more about the region's turbulent past.\n\nThe afternoon is spent relaxing by Lumenera Lake before heading up to the Leiten Memorial.\n\nEnd your day with a brisk descent back into town, where a hearty dinner awaits."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bresaola vom Rind",
+            "tip": "Leicht und nahrhaft für Radfahrer."
+          },
+          {
+            "name": "Honig von Rigoni",
+            "tip": "Probieren Sie den berühmten Akazienhonig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marha bresaola",
+            "tip": "Könnyű és tápláló étel kerékpárosoknak."
+          },
+          {
+            "name": "Rigoni méz",
+            "tip": "Kóstolja meg a híres helyi akácmézet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bresaola de vită",
+            "tip": "Ușoară și hrănitoare pentru bicicliști."
+          },
+          {
+            "name": "Miere Rigoni",
+            "tip": "Gustați faimoasa miere de salcâm locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beef Bresaola",
+            "tip": "Light and nutritious for cyclists."
+          },
+          {
+            "name": "Rigoni Honey",
+            "tip": "Try the famous local acacia honey."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Laghetto di Lumenera",
+            "tip": "Vogelgezwitscher und sanftes Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lumenera-tó",
+            "tip": "Madárcsicsergés és nyugodt vízpart.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Lumenera",
+            "tip": "Cântec de păsări și apă liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lumenera Lake",
+            "tip": "Birdsong and gentle waters.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte am Corso",
+            "tip": "Ausrüstung für Bergwanderungen und Radtouren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok a Corso-n",
+            "tip": "Felszerelés hegyi túrákhoz és bringázáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport pe Corso",
+            "tip": "Echipament pentru drumeții și ciclism."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sport shops on the Corso",
+            "tip": "Gear for mountain hikes and bike tours."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike, um die Steigungen auf dem Plateau mühelos zu bewältigen.",
+          "Die Radwege sind oft Schotterstraßen, prüfen Sie Ihr Profil.",
+          "Nehmen Sie ausreichend Wasser mit, Trinkbrunnen sind außerhalb des Ortes seltener."
+        ],
+        "hu": [
+          "Béreljen e-bike-ot, hogy könnyebben leküzdje a fennsík emelkedőit.",
+          "A kerékpárutak gyakran murvásak, ellenőrizze a gumik állapotát.",
+          "Vigyen magával elég vizet, a városon kívül ritkábbak az ivókutak."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru a urca pantele platoului fără efort.",
+          "Pistele de biciclete sunt adesea drumuri pietruite, verificați profilul cauciucurilor.",
+          "Luați suficientă apă, fântânile sunt mai rare în afara localității."
+        ],
+        "en": [
+          "Rent an e-bike to easily tackle the climbs on the plateau.",
+          "Bike paths are often gravel roads, check your tire tread.",
+          "Carry enough water, drinking fountains are rarer outside of town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:01",
+      "total_km": 16.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piazza Carli",
+          "coords": [
+            11.51,
+            45.876
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Eisstadion, nur wenige Gehminuten entfernt.",
+            "hu": "Parkoljon a jégcsarnoknál, csak pár perc séta a tér.",
+            "ro": "Parcați la stadionul de gheață, la doar câteva minute de mers pe jos.",
+            "en": "Park at the ice stadium, just a few minutes' walk away."
+          }
+        },
+        {
+          "name": "Dom San Matteo",
+          "coords": [
+            11.5115,
+            45.8755
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zentraler Anlaufpunkt für Kunst und Glaube.",
+            "hu": "A művészet és a hit központi helyszíne.",
+            "ro": "Punct central pentru artă și credință.",
+            "en": "Central hub for art and faith."
+          }
+        },
+        {
+          "name": "Forte Interrotto",
+          "coords": [
+            11.5045,
+            45.9115
+          ],
+          "category": "historical",
+          "arrive_at": "11:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Eine Festung aus Stein mit Blick auf das ganze Plateau.",
+            "hu": "Kőből épült erőd, kilátással az egész fennsíkra.",
+            "ro": "O fortăreață de piatră cu vedere peste tot platoul.",
+            "en": "A stone fortress overlooking the entire plateau."
+          }
+        },
+        {
+          "name": "Museum des Großen Krieges",
+          "coords": [
+            11.4855,
+            45.8645
+          ],
+          "category": "museum",
+          "arrive_at": "12:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Große Parkplätze direkt vor dem Museum verfügbar.",
+            "hu": "Tágas parkoló közvetlenül a múzeum előtt.",
+            "ro": "Parcare mare disponibilă chiar în fața muzeului.",
+            "en": "Ample parking available right in front of the museum."
+          }
+        },
+        {
+          "name": "Militär-Gedenkstätte Leiten",
+          "coords": [
+            11.5195,
+            45.8795
+          ],
+          "category": "historical",
+          "arrive_at": "14:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein monumentales Bauwerk von hoher Symbolkraft.",
+            "hu": "Monumentális építmény nagy szimbolikus erővel.",
+            "ro": "O structură monumentală cu o mare putere simbolică.",
+            "en": "A monumental structure of great symbolic power."
+          }
+        },
+        {
+          "name": "Astrophysikalisches Observatorium",
+          "coords": [
+            11.5255,
+            45.8675
+          ],
+          "category": "museum",
+          "arrive_at": "16:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein toller Abschluss mit Blick auf die Sterne.",
+            "hu": "Remek zárás a csillagokra nyíló kilátással.",
+            "ro": "Un final minunat cu vedere spre stele.",
+            "en": "A great finish with a view of the stars."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie die Highlights von Asiago bequem, beginnend im Stadtzentrum und beim Dom.\n\nAm Mittag führt die Fahrt hinauf zum Forte Interrotto, einer geschichtsträchtigen Festung mit grandioser Aussicht.\n\nNachmittags besuchen Sie das Museum des Großen Krieges und die Gedenkstätte Leiten, bevor es zum Observatorium geht.\n\nDer Abend endet entspannt bei einer Fahrt durch die sanfte Hügellandschaft des Plateaus.",
+        "hu": "Autóval kényelmesen felfedezheti Asiago legfontosabb látnivalóit, kezdve a városközponttal és a dóm megtekintésével.\n\nDélben az út a Forte Interrotto erődhöz vezet, amely történelmi hangulatával és pazar kilátásával bűvöl el.\n\nDélután az első világháborús múzeum és a Leiten emlékmű következik, végül az obszervatóriumot keressük fel.\n\nA nap a fennsík lankás dombjai közötti autózással és a panoráma élvezetével zárul.",
+        "ro": "Cu mașina puteți explora punctele de atracție din Asiago confortabil, începând cu centrul orașului și domul.\n\nLa prânz, drumul urcă spre Forte Interrotto, o fortăreață plină de istorie cu vederi grandioase.\n\nDupă-amiaza vizitați Muzeul Marelui Război și Monumentul Leiten, înainte de a merge la observator.\n\nSeara se încheie relaxat cu o plimbare prin peisajul deluros al platoului.",
+        "en": "By car, you can comfortably explore the highlights of Asiago, starting with the town center and the cathedral.\n\nAt midday, the drive leads up to Forte Interrotto, a historic fortress with grandiose views.\n\nIn the afternoon, visit the Great War Museum and the Leiten Memorial before heading to the observatory.\n\nThe evening ends with a relaxed drive through the gentle hills of the plateau."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hirschragout",
+            "tip": "Herzhaftes Gericht aus der alpinen Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szarvasragu",
+            "tip": "Kiadós fogás az alpesi konyhából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ragu de cerb",
+            "tip": "Un fel de mâncare consistent din bucătăria alpină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Venison Ragout",
+            "tip": "A hearty dish from Alpine cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Forte Interrotto",
+            "tip": "Einsamkeit und Geschichte hoch oben.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Forte Interrotto",
+            "tip": "Magány és történelem a magasban.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Forte Interrotto",
+            "tip": "Singurătate și istorie la înălțime.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forte Interrotto",
+            "tip": "Solitude and history high above.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmärkte",
+            "tip": "Kaufen Sie Käse und Honig direkt beim Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piacok",
+            "tip": "Vásároljon sajtot és mézet közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe de producători",
+            "tip": "Cumpărați brânză și miere direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmers' markets",
+            "tip": "Buy cheese and honey directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die ZTL (verkehrsberuhigte Zone) im historischen Zentrum.",
+          "Die Straßen auf dem Plateau sind gut ausgebaut, aber kurvenreich.",
+          "In der Hochsaison sind Parkplätze im Zentrum schnell belegt."
+        ],
+        "hu": [
+          "Ügyeljen a történelmi központban lévő ZTL (korlátozott forgalmú) zónákra.",
+          "A fennsík útjai jó minőségűek, de kanyargósak.",
+          "Főszezonban a központi parkolók gyorsan megtelnek."
+        ],
+        "ro": [
+          "Atenție la zonele ZTL (trafic limitat) din centrul istoric.",
+          "Drumurile de pe platou sunt bine întreținute, dar sinuoase.",
+          "În plin sezon, parcările din centru se ocupă rapid."
+        ],
+        "en": [
+          "Watch out for ZTL (limited traffic zones) in the historic center.",
+          "The roads on the plateau are well-maintained but winding.",
+          "In high season, central parking spots fill up quickly."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Piazza Carli",
+          "coords": [
+            11.51,
+            45.876
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Busknotenpunkt für das ganze Plateau.",
+            "hu": "Központi buszcsomópont az egész fennsíkhoz.",
+            "ro": "Nod central de autobuz pentru tot platoul.",
+            "en": "Central bus hub for the entire plateau."
+          }
+        },
+        {
+          "name": "Dom San Matteo",
+          "coords": [
+            11.5115,
+            45.8755
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Vom Busbahnhof nur ein kurzer Fußweg.",
+            "hu": "A buszmegállótól csak egy rövid séta.",
+            "ro": "La mică distanță de mers pe jos de la stația de autobuz.",
+            "en": "Just a short walk from the bus stop."
+          }
+        },
+        {
+          "name": "Parco Millepini",
+          "coords": [
+            11.5055,
+            45.8745
+          ],
+          "category": "park",
+          "arrive_at": "11:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Haltestelle direkt am Eingang des Parks.",
+            "hu": "Buszmegálló közvetlenül a park bejáratánál.",
+            "ro": "Stație de autobuz chiar la intrarea în parc.",
+            "en": "Bus stop right at the park entrance."
+          }
+        },
+        {
+          "name": "Museum der ländlichen Tradition",
+          "coords": [
+            11.4895,
+            45.8785
+          ],
+          "category": "museum",
+          "arrive_at": "13:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Lokalbusse Richtung Canove.",
+            "hu": "Használja a Canove felé tartó helyi buszokat.",
+            "ro": "Folosiți autobuzele locale spre Canove.",
+            "en": "Use the local buses heading towards Canove."
+          }
+        },
+        {
+          "name": "Militär-Gedenkstätte Leiten",
+          "coords": [
+            11.5195,
+            45.8795
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein kleiner Fußweg von der Haltestelle ist nötig.",
+            "hu": "A buszmegállótól egy rövid sétára van szükség.",
+            "ro": "Este necesară o scurtă plimbare de la stație.",
+            "en": "A short walk from the stop is required."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem öffentlichen Nahverkehr erreichen Sie bequem die wichtigsten Punkte von Asiago, beginnend im Zentrum.\n\nDer Mittag wird im erholsamen Parco Millepini verbracht, der gut an das Busnetz angebunden ist.\n\nNachmittags geht es weiter zum Museum und schließlich zur Gedenkstätte Leiten, um die Geschichte des Plateaus zu erleben.\n\nDer Abend schließt mit einer Rückfahrt ins Zentrum, wo Sie den Tag gemütlich ausklingen lassen können.",
+        "hu": "Tömegközlekedéssel kényelmesen elérheti Asiago főbb pontjait, kezdve a központi Piazza Carli térrel.\n\nA déli órákat a Millepini parkban tölthetjük, amely kiváló összeköttetéssel rendelkezik a buszhálózattal.\n\nDélután a vidéki múzeum és a Leiten emlékmű következik, megismerve a fennsík gazdag múltját.\n\nA nap végén busszal térhetünk vissza a városközpontba, egy hangulatos vacsorára.",
+        "ro": "Cu transportul public puteți ajunge cu ușurință în principalele puncte din Asiago, începând din centru.\n\nPrânzul este petrecut în relaxantul Parc Millepini, bine conectat la rețeaua de autobuze.\n\nDupă-amiaza continuă spre muzeu și în final la Monumentul Leiten pentru a experimenta istoria platoului.\n\nSeara se încheie cu o întoarcere în centru, unde vă puteți relaxa la finalul zilei.",
+        "en": "Using public transport, you can easily reach the main points of Asiago, starting from the center.\n\nMidday is spent in the relaxing Millepini Park, which is well-connected to the bus network.\n\nIn the afternoon, head to the museum and finally to the Leiten Memorial to experience the plateau's history.\n\nThe evening concludes with a return to the center, where you can unwind and enjoy the local atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasta mit Pilzen",
+            "tip": "Probieren Sie die Steinpilze aus den Wäldern des Plateaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gombás tészta",
+            "tip": "Kóstolja meg a fennsík erdeiből származó vargányát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paste cu ciuperci",
+            "tip": "Încercați hribii din pădurile platoului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasta with Mushrooms",
+            "tip": "Try the porcini mushrooms from the plateau's forests."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bänke am Millepini",
+            "tip": "Ruhiger Schattenplatz nahe der Haltestelle.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Padok a Millepini parkban",
+            "tip": "Nyugodt, árnyékos hely a buszmegálló közelében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci la Millepini",
+            "tip": "Loc umbros și liniștit lângă stație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Benches at Millepini",
+            "tip": "Quiet shaded spot near the bus stop.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ladenzeilen am Hauptplatz",
+            "tip": "Lokale Produkte sind leicht erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletsorok a főtéren",
+            "tip": "A helyi termékek könnyen elérhetőek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în piața principală",
+            "tip": "Produsele locale sunt ușor accesibile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops at the main square",
+            "tip": "Local products are easily accessible."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Fahrpläne der SVT-Busse im Voraus, da die Frequenz variieren kann.",
+          "Kaufen Sie Fahrkarten am Automaten oder in Tabakläden.",
+          "Die Busse verbinden auch die umliegenden 'Sette Comuni' Gemeinden."
+        ],
+        "hu": [
+          "Ellenőrizze előre az SVT buszok menetrendjét, mert a járatsűrűség változó lehet.",
+          "Vásároljon jegyet automatából vagy trafikokban (Tabaccheria).",
+          "A buszok összekötik a környező 'Sette Comuni' településeket is."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor SVT în avans, deoarece frecvența poate varia.",
+          "Cumpărați bilete de la automate sau din tutungerii.",
+          "Autobuzele conectează și comunitățile din jur 'Sette Comuni'."
+        ],
+        "en": [
+          "Check the SVT bus schedules in advance as frequency can vary.",
+          "Buy tickets at machines or tobacco shops (Tabaccheria).",
+          "Buses also connect the surrounding 'Sette Comuni' municipalities."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1104 @@
+{
+  "city_id": "padova",
+  "anchor": {
+    "name": "Padova",
+    "coords": [
+      11.8768,
+      45.4064
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Prato della Valle",
+            "hu": "Prato della Valle",
+            "ro": "Prato della Valle",
+            "en": "Prato della Valle"
+          },
+          "coords": [
+            11.8765,
+            45.3985
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kommen Sie früh, um die Statuen im Morgenlicht zu sehen.",
+            "hu": "Érkezz korán, hogy lásd a szobrokat a reggeli fényben.",
+            "ro": "Veniți devreme pentru a vedea statuile în lumina dimineții.",
+            "en": "Arrive early to see the statues in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di Sant'Antonio",
+            "hu": "Szent Antal-bazilika",
+            "ro": "Bazilica Sfântul Anton",
+            "en": "Basilica of Saint Anthony"
+          },
+          "coords": [
+            11.8811,
+            45.4014
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Angemessene Kleidung ist für den Eintritt erforderlich.",
+            "hu": "A belépéshez alkalomhoz illő öltözet szükséges.",
+            "ro": "Ținuta decentă este obligatorie pentru acces.",
+            "en": "Modest clothing is required for entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Orto Botanico di Padova",
+            "hu": "Padovai botanikus kert",
+            "ro": "Grădina Botanică din Padova",
+            "en": "Botanical Garden of Padua"
+          },
+          "coords": [
+            11.8801,
+            45.3995
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das moderne Biodiversitäts-Gewächshaus.",
+            "hu": "Nézd meg a modern biodiverzitás-üvegházat is.",
+            "ro": "Vizitați seră modernă de biodiversitate.",
+            "en": "Visit the modern biodiversity greenhouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza delle Erbe",
+            "hu": "Piazza delle Erbe",
+            "ro": "Piazza delle Erbe",
+            "en": "Piazza delle Erbe"
+          },
+          "coords": [
+            11.8755,
+            45.4072
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Mittagspause im Freien.",
+            "hu": "Ideális hely egy szabadtéri ebédre.",
+            "ro": "Un loc ideal pentru o pauză de prânz în aer liber.",
+            "en": "An ideal spot for an outdoor lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo della Ragione",
+            "hu": "Palazzo della Ragione",
+            "ro": "Palazzo della Ragione",
+            "en": "Palazzo della Ragione"
+          },
+          "coords": [
+            11.8758,
+            45.4075
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die riesige mittelalterliche Halle oben.",
+            "hu": "Csodáld meg a hatalmas középkori csarnokot az emeleten.",
+            "ro": "Admirați imensa sală medievală de la etaj.",
+            "en": "Admire the huge medieval hall upstairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Caffè Pedrocchi",
+            "hu": "Caffè Pedrocchi",
+            "ro": "Caffè Pedrocchi",
+            "en": "Caffè Pedrocchi"
+          },
+          "coords": [
+            11.8778,
+            45.4085
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie den berühmten Minz-Kaffee.",
+            "hu": "Kóstold meg a híres mentás kávét.",
+            "ro": "Încercați celebra cafea cu mentă.",
+            "en": "Try the famous mint coffee specialty."
+          }
+        },
+        {
+          "name": {
+            "de": "Cappella degli Scrovegni",
+            "hu": "Scrovegni-kápolna",
+            "ro": "Capela Scrovegni",
+            "en": "Scrovegni Chapel"
+          },
+          "coords": [
+            11.8795,
+            45.4117
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Reservierung ist Wochen im Voraus erforderlich.",
+            "hu": "Foglalás hetekkel előre kötelező.",
+            "ro": "Rezervarea este obligatorie cu săptămâni înainte.",
+            "en": "Reservation is mandatory weeks in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am monumentalen Prato della Valle, einem der größten Plätze Europas, bevor Sie die spirituelle Atmosphäre der Basilika des Heiligen Antonius erleben. Mittags erkunden Sie den ältesten botanischen Garten der Welt, eine Oase der Ruhe.\nNachmittags tauchen Sie in das lebhafte Markttreiben auf der Piazza delle Erbe ein und besuchen den beeindruckenden Palazzo della Ragione. Gönnen Sie sich eine Pause im historischen Caffè Pedrocchi, einem Treffpunkt von Intellektuellen.\nBeenden Sie den Tag mit den atemberaubenden Fresken von Giotto in der Scrovegni-Kapelle, einem Meisterwerk der Kunstgeschichte.",
+        "hu": "Kezdd a reggelt a monumentális Prato della Valle téren, Európa egyik legnagyobb terén, majd merülj el a Szent Antal-bazilika spirituális légkörében. Délben fedezd fel a világ legrégebbi botanikus kertjét.\nDélután kapcsolódj be a Piazza delle Erbe nyüzsgő piaci életébe, és nézd meg a lenyűgöző Palazzo della Ragionét. Tarts egy szünetet a történelmi Caffè Pedrocchiban, az értelmiségiek egykori törzshelyén.\nA napot Giotto lélegzetelállító freskóival zárd a Scrovegni-kápolnában, amely a művészettörténet egyik legnagyobb remekműve.",
+        "ro": "Începeți dimineața în monumentala Prato della Valle, una dintre cele mai mari piețe din Europa, înainte de a experimenta atmosfera spirituală a Bazilicii Sfântul Anton. La prânz, explorați cea mai veche grădină botanică din lume.\nDupă-amiaza, scufundați-vă în forfota pieței din Piazza delle Erbe și vizitați impresionantul Palazzo della Ragione. Savurați o pauză la istorica Caffè Pedrocchi, un loc de întâlnire al intelectualilor.\nÎncheiați ziua cu frescele uluitoare ale lui Giotto din Capela Scrovegni, o capodoperă a istoriei artei.",
+        "en": "Start your morning at the monumental Prato della Valle, one of Europe's largest squares, before experiencing the spiritual atmosphere of the Basilica of Saint Anthony. At midday, explore the world's oldest botanical garden.\nIn the afternoon, dive into the lively market scene at Piazza delle Erbe and visit the impressive Palazzo della Ragione. Treat yourself to a break at the historic Caffè Pedrocchi, a former meeting point for intellectuals.\nEnd the day with Giotto's breathtaking frescoes in the Scrovegni Chapel, a true masterpiece of art history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bollito Misto",
+            "tip": "Traditionelles gekochtes Fleisch bei La Folperia."
+          },
+          {
+            "name": "Bigoli in Salsa",
+            "tip": "Dicke Pasta mit Sardellensauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bollito Misto",
+            "tip": "Hagyományos főtt hús tál a La Folperiában."
+          },
+          {
+            "name": "Bigoli in Salsa",
+            "tip": "Vastag tészta szardellamártással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bollito Misto",
+            "tip": "Carne fiartă tradițională la La Folperia."
+          },
+          {
+            "name": "Bigoli in Salsa",
+            "tip": "Paste groase cu sos de sardine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bollito Misto",
+            "tip": "Traditional boiled meat platter at La Folperia."
+          },
+          {
+            "name": "Bigoli in Salsa",
+            "tip": "Thick pasta with anchovy sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardini dell'Arena",
+            "tip": "Ruhiger Park um die Kapelle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Specola Turm",
+            "tip": "Blick über die Kanäle.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardini dell'Arena",
+            "tip": "Csendes park a kápolna körül.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Specola torony",
+            "tip": "Kilátás a csatornákra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardini dell'Arena",
+            "tip": "Parc liniștit în jurul capelei.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Turnul Specola",
+            "tip": "Vedere peste canale.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardini dell'Arena",
+            "tip": "Quiet park surrounding the chapel.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Specola Tower",
+            "tip": "View over the canals.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sotto il Salone",
+            "tip": "Ältester Lebensmittelmarkt unter dem Palazzo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sotto il Salone",
+            "tip": "A legrégebbi élelmiszerpiac a Palazzo alatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sotto il Salone",
+            "tip": "Cea mai veche piață alimentară sub Palazzo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sotto il Salone",
+            "tip": "Oldest food market located under the Palazzo."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Padova ist sehr flach und perfekt zu Fuß erkundbar.",
+          "Die meisten Museen sind montags geschlossen.",
+          "Kaufen Sie die Padova Card für freien Eintritt.",
+          "Reservieren Sie die Scrovegni-Kapelle im Voraus."
+        ],
+        "hu": [
+          "Padova nagyon sík, tökéletesen bejárható gyalog.",
+          "A legtöbb múzeum hétfőn zárva tart.",
+          "Vegyél Padova Card-ot az ingyenes belépéshez.",
+          "A Scrovegni-kápolnába foglalj előre helyet."
+        ],
+        "ro": [
+          "Padova este foarte plată și perfectă de explorat pe jos.",
+          "Majoritatea muzeelor sunt închise lunea.",
+          "Cumpărați Padova Card pentru intrare gratuită.",
+          "Rezervați Capela Scrovegni în avans."
+        ],
+        "en": [
+          "Padua is very flat and perfectly explorable on foot.",
+          "Most museums are closed on Mondays.",
+          "Buy the Padova Card for free entries.",
+          "Reserve the Scrovegni Chapel well in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Specola di Padova",
+            "hu": "Specola di Padova",
+            "ro": "Specola di Padova",
+            "en": "Padua Observatory"
+          },
+          "coords": [
+            11.8685,
+            45.4015
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht vom alten astronomischen Turm.",
+            "hu": "Élvezd a kilátást a régi csillagászati toronyból.",
+            "ro": "Bucurați-vă de vedere din vechiul turn astronomic.",
+            "en": "Enjoy the view from the old astronomical tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Padova",
+            "hu": "Padovai dóm",
+            "ro": "Domul din Padova",
+            "en": "Padua Cathedral"
+          },
+          "coords": [
+            11.8725,
+            45.4065
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Baptisterium mit seinen Fresken.",
+            "hu": "Látogasd meg a keresztelőkápolnát a freskókkal.",
+            "ro": "Vizitați baptisteriul cu frescele sale.",
+            "en": "Visit the baptistery with its stunning frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Loggia und Odeo Cornaro",
+            "hu": "Loggia és Odeo Cornaro",
+            "ro": "Loggia și Odeo Cornaro",
+            "en": "Loggia and Odeo Cornaro"
+          },
+          "coords": [
+            11.8825,
+            45.4025
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel der Renaissance-Architektur.",
+            "hu": "A reneszánsz építészet eldugott gyöngyszeme.",
+            "ro": "O bijuterie ascunsă a arhitecturii renascentiste.",
+            "en": "A hidden gem of Renaissance architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di Sant'Antonio",
+            "hu": "Szent Antal-bazilika",
+            "ro": "Bazilica Sfântul Anton",
+            "en": "Basilica of Saint Anthony"
+          },
+          "coords": [
+            11.8811,
+            45.4014
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrradparkplätze befinden sich in der Nähe des Platzes.",
+            "hu": "Bicikli tárolók a tér közelében találhatók.",
+            "ro": "Parcările pentru biciclete sunt lângă piață.",
+            "en": "Bike parking is available near the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Orto Botanico",
+            "hu": "Botanikus kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            11.8801,
+            45.3995
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fahrräder müssen draußen geparkt werden.",
+            "hu": "A kerékpárokat kívül kell hagyni.",
+            "ro": "Bicicletele trebuie parcate afară.",
+            "en": "Bicycles must be parked outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Prato della Valle",
+            "hu": "Prato della Valle",
+            "ro": "Prato della Valle",
+            "en": "Prato della Valle"
+          },
+          "coords": [
+            11.8765,
+            45.3985
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ideal zum Umrunden der Insel Memmia.",
+            "hu": "Ideális az Isola Memmia körbetekeréséhez.",
+            "ro": "Ideal pentru a înconjura Isola Memmia.",
+            "en": "Ideal for cycling around Isola Memmia."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Padova mit dem Fahrrad und starten Sie an der Specola, dem historischen Observatorium am Fluss. Radeln Sie durch die charmanten Gassen zum Dom und entdecken Sie die Loggia Cornaro.\nMittags erreichen Sie die Basilika des Heiligen Antonius. Dank des Fahrrads können Sie die Distanzen zwischen den Sehenswürdigkeiten schnell überbrücken.\nNach einem Besuch im Botanischen Garten beenden Sie Ihre Tour am Prato della Valle, wo Sie die Weite des Platzes auf zwei Rädern genießen können.",
+        "hu": "Fedezd fel Padovát biciklivel, kezdve a Specolánál, a folyóparti történelmi csillagvizsgálónál. Tekerj át a hangulatos utcákon a Dómhoz, és fedezd fel a Loggia Cornarót.\nDélben érkezz meg a Szent Antal-bazilikához. A biciklinek köszönhetően gyorsan megteheted a távolságokat a látnivalók között.\nA botanikus kerti látogatás után zárd a túrát a Prato della Vallén, ahol két keréken élvezheted a tér tágasságát.",
+        "ro": "Explorați Padova cu bicicleta, începând de la Specola, istoricul observator de pe malul râului. Pedalați prin străduțele fermecătoare către Dom și descoperiți Loggia Cornaro.\nLa prânz, ajungeți la Bazilica Sfântul Anton. Datorită bicicletei, puteți parcurge rapid distanțele dintre atracții.\nDupă o vizită la Grădina Botanică, încheiați turul la Prato della Valle, unde vă puteți bucura de vastitatea pieței pe două roți.",
+        "en": "Explore Padua by bike, starting at the Specola, the historic riverside observatory. Cycle through charming alleys to the Cathedral and discover the Loggia Cornaro.\nBy midday, reach the Basilica of Saint Anthony. Thanks to the bike, you can quickly cover the distances between sights.\nAfter visiting the Botanical Garden, end your tour at Prato della Valle, where you can enjoy the square's vastness on two wheels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Folpo",
+            "tip": "Gekochter Oktopus am Marktstand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folpo",
+            "tip": "Főtt polip piaci standnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Folpo",
+            "tip": "Caracatiță fiartă la tarabă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Folpo",
+            "tip": "Boiled octopus at a market stall."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Riviera Paleocapa",
+            "tip": "Ruhiger Weg am Kanal.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Riviera Paleocapa",
+            "tip": "Csendes út a csatorna mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Riviera Paleocapa",
+            "tip": "Drum liniștit de-a lungul canalului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riviera Paleocapa",
+            "tip": "Quiet path along the canal.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Roma",
+            "tip": "Einkaufsstraße mit vielen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Roma",
+            "tip": "Bevásárlóutca számos butikkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Roma",
+            "tip": "Stradă comercială cu multe buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Roma",
+            "tip": "Shopping street with many boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Verleihsystem 'Goodbike'.",
+          "Achten Sie auf Fußgänger in den Arkaden.",
+          "Die Stadt ist fast komplett eben.",
+          "Schließen Sie Ihr Rad immer gut ab."
+        ],
+        "hu": [
+          "Használd a 'Goodbike' kölcsönző rendszert.",
+          "Figyelj a gyalogosokra az árkádok alatt.",
+          "A város szinte teljesen sík.",
+          "Mindig zárd le jól a biciklidet."
+        ],
+        "ro": [
+          "Folosiți sistemul de închirieri 'Goodbike'.",
+          "Atenție la pietoni sub arcade.",
+          "Orașul este aproape complet plat.",
+          "Încuiați întotdeauna bine bicicleta."
+        ],
+        "en": [
+          "Use the 'Goodbike' sharing system.",
+          "Watch out for pedestrians under the arcades.",
+          "The city is almost entirely flat.",
+          "Always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cappella degli Scrovegni",
+            "hu": "Scrovegni-kápolna",
+            "ro": "Capela Scrovegni",
+            "en": "Scrovegni Chapel"
+          },
+          "coords": [
+            11.8795,
+            45.4117
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Piazza Insurrezione'.",
+            "hu": "Parkolj a 'Piazza Insurrezione' parkolóházban.",
+            "ro": "Parcați în parcarea 'Piazza Insurrezione'.",
+            "en": "Park at the 'Piazza Insurrezione' parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Prato della Valle",
+            "hu": "Prato della Valle",
+            "ro": "Prato della Valle",
+            "en": "Prato della Valle"
+          },
+          "coords": [
+            11.8765,
+            45.3985
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Platz verfügbar.",
+            "hu": "Nagy parkoló közvetlenül a téren.",
+            "ro": "Parcare mare disponibilă direct în piață.",
+            "en": "Large parking lot available directly at the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di Sant'Antonio",
+            "hu": "Szent Antal-bazilika",
+            "ro": "Bazilica Sfântul Anton",
+            "en": "Basilica of Saint Anthony"
+          },
+          "coords": [
+            11.8811,
+            45.4014
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zufahrt zum direkten Kirchenvorplatz ist beschränkt.",
+            "hu": "A közvetlen templomkertbe való behajtás korlátozott.",
+            "ro": "Accesul auto în fața bazilicii este restricționat.",
+            "en": "Car access to the immediate basilica front is restricted."
+          }
+        },
+        {
+          "name": {
+            "de": "Orto Botanico",
+            "hu": "Botanikus kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            11.8801,
+            45.3995
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die neuen Gewächshäuser.",
+            "hu": "Látogasd meg az új üvegházakat.",
+            "ro": "Vizitați noile sere.",
+            "en": "Visit the new greenhouses."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Pisani (Stra)",
+            "hu": "Villa Pisani (Stra)",
+            "ro": "Villa Pisani (Stra)",
+            "en": "Villa Pisani (Stra)"
+          },
+          "coords": [
+            12.0125,
+            45.4355
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Ein herrlicher Ausflug vor die Tore der Stadt.",
+            "hu": "Pompás kirándulás a város kapuin kívül.",
+            "ro": "O excursie splendidă la marginea orașului.",
+            "en": "A magnificent excursion just outside the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die kulturellen Höhepunkte Padovas und können sogar die prachtvolle Villa Pisani in Stra besuchen. Starten Sie bei Giottos Fresken und dem Prato della Valle.\nMittags besuchen Sie die Basilika und den Botanischen Garten, bevor Sie die kurze Fahrt entlang des Brenta-Kanals antreten.\nDie Villa Pisani bietet mit ihrem berühmten Labyrinth und dem weitläufigen Park einen perfekten Abschluss für Ihren Tag.",
+        "hu": "Autóval kényelmesen elérheted Padova kulturális csúcspontjait, sőt, ellátogathatsz a közeli Strában található pompás Villa Pisaniba is. Kezdj Giotto freskóinál és a Prato della Vallénál.\nDélben látogasd meg a bazilikát és a botanikus kertet, majd indulj el egy rövid útra a Brenta-csatorna mentén.\nA Villa Pisani híres labirintusával és hatalmas parkjával tökéletes zárása lesz a napodnak.",
+        "ro": "Cu mașina puteți ajunge confortabil la punctele culminante culturale ale Padovei și puteți vizita chiar și splendida Villa Pisani din Stra. Începeți cu frescele lui Giotto și Prato della Valle.\nLa prânz vizitați bazilica și grădina botanică, înainte de a porni într-o scurtă călătorie de-a lungul canalului Brenta.\nVilla Pisani oferă, cu faimosul său labirint și parcul vast, o încheiere perfectă pentru ziua dumneavoastră.",
+        "en": "By car, you can comfortably reach Padua's cultural highlights and even visit the magnificent Villa Pisani in nearby Stra. Start with Giotto's frescoes and Prato della Valle.\nAt midday, visit the basilica and the botanical garden before taking the short drive along the Brenta Canal.\nVilla Pisani, with its famous labyrinth and extensive park, provides a perfect conclusion to your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Antica Trattoria Zaramella",
+            "tip": "Klassische venezianische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antica Trattoria Zaramella",
+            "tip": "Klasszikus velencei konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Antica Trattoria Zaramella",
+            "tip": "Bucătărie venețiană clasică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antica Trattoria Zaramella",
+            "tip": "Classic Venetian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Brenta Ufer",
+            "tip": "Ruhige Fahrt entlang der Villen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brenta-part",
+            "tip": "Csendes autózás a villák mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Brenta",
+            "tip": "Drum liniștit de-a lungul vilelor.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Brenta Banks",
+            "tip": "Quiet drive along the villas.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "IKEA Padova",
+            "tip": "Großes Einkaufszentrum im Gewerbegebiet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "IKEA Padova",
+            "tip": "Nagy bevásárlóközpont az ipari zónában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "IKEA Padova",
+            "tip": "Centru comercial mare în zona industrială."
+          }
+        ],
+        "en": [
+          {
+            "name": "IKEA Padua",
+            "tip": "Large shopping center in the commercial area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achtung vor ZTL-Zonen in der Altstadt.",
+          "Nutzen Sie Park-and-Ride Plätze.",
+          "Die Parkgebühren im Zentrum sind hoch.",
+          "Am Wochenende ist viel Verkehr."
+        ],
+        "hu": [
+          "Vigyázz a ZTL zónákkal a belvárosban.",
+          "Használd a P+R parkolókat.",
+          "A belvárosi parkolási díjak magasak.",
+          "Hétvégén nagy a forgalom."
+        ],
+        "ro": [
+          "Atenție la zonele ZTL din centrul vechi.",
+          "Folosiți parcările Park-and-Ride.",
+          "Taxele de parcare în centru sunt mari.",
+          "Traficul este intens în weekend."
+        ],
+        "en": [
+          "Beware of ZTL zones in the historic center.",
+          "Use Park-and-Ride lots.",
+          "Parking fees in the center are high.",
+          "Expect heavy traffic on weekends."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Padova",
+            "hu": "Padovai pályaudvar",
+            "ro": "Gara din Padova",
+            "en": "Padua Railway Station"
+          },
+          "coords": [
+            11.8805,
+            45.4175
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie hier Ihr Tagesticket.",
+            "hu": "Itt vedd meg a napijegyedet.",
+            "ro": "Cumpărați biletul de o zi de aici.",
+            "en": "Buy your day ticket here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cappella degli Scrovegni",
+            "hu": "Scrovegni-kápolna",
+            "ro": "Capela Scrovegni",
+            "en": "Scrovegni Chapel"
+          },
+          "coords": [
+            11.8795,
+            45.4117
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Straßenbahnlinie SIR1.",
+            "hu": "Használd a SIR1 villamosvonalat.",
+            "ro": "Folosiți linia de tramvai SIR1.",
+            "en": "Use the SIR1 tram line."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza delle Erbe",
+            "hu": "Piazza delle Erbe",
+            "ro": "Piazza delle Erbe",
+            "en": "Piazza delle Erbe"
+          },
+          "coords": [
+            11.8755,
+            45.4072
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentraler Umsteigepunkt für viele Busse.",
+            "hu": "Központi átszállópont számos buszhoz.",
+            "ro": "Punct central de transfer pentru multe autobuze.",
+            "en": "Central transfer point for many buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di Sant'Antonio",
+            "hu": "Szent Antal-bazilika",
+            "ro": "Bazilica Sfântul Anton",
+            "en": "Basilica of Saint Anthony"
+          },
+          "coords": [
+            11.8811,
+            45.4014
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Haltestelle 'Santo' direkt vor der Basilika.",
+            "hu": "'Santo' megálló közvetlenül a bazilika előtt.",
+            "ro": "Stația 'Santo' este chiar în fața bazilicii.",
+            "en": "Stop 'Santo' is right in front of the basilica."
+          }
+        },
+        {
+          "name": {
+            "de": "Prato della Valle",
+            "hu": "Prato della Valle",
+            "ro": "Prato della Valle",
+            "en": "Prato della Valle"
+          },
+          "coords": [
+            11.8765,
+            45.3985
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die Straßenbahn hält direkt am Platz.",
+            "hu": "A villamos közvetlenül a téren áll meg.",
+            "ro": "Tramvaiul oprește direct în piață.",
+            "en": "The tram stops directly at the square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das moderne Straßenbahnsystem von Padova verbindet den Bahnhof schnell mit dem historischen Zentrum. Besuchen Sie die Scrovegni-Kapelle und fahren Sie weiter zum Herz der Stadt, der Piazza delle Erbe.\nMittags bringt Sie der Nahverkehr bequem zur Basilika des Heiligen Antonius und zum Prato della Valle.\nGenießen Sie die Fahrt in den gläsernen Bahnen, die Ihnen einen tollen Ausblick auf die Arkadenstraßen bieten.",
+        "hu": "Padova modern villamosrendszere gyorsan összeköti a pályaudvart a történelmi központtal. Látogasd meg a Scrovegni-kápolnát, majd utazz tovább a város szívébe, a Piazza delle Erbe térre.\nDélben a tömegközlekedés kényelmesen elvisz a Szent Antal-bazilikához és a Prato della Valléhoz.\nÉlvezd az utazást az üvegfalú villamosokon, amelyek remek kilátást nyújtanak az árkádos utcákra.",
+        "ro": "Sistemul modern de tramvai din Padova conectează rapid gara cu centrul istoric. Vizitați Capela Scrovegni și mergeți mai departe spre inima orașului, Piazza delle Erbe.\nLa prânz, transportul local vă duce confortabil la Bazilica Sfântul Anton și la Prato della Valle.\nBucurați-vă de călătoria în tramvaiele moderne, care vă oferă o vedere excelentă asupra străzilor cu arcade.",
+        "en": "Padua's modern tram system quickly connects the station with the historic center. Visit the Scrovegni Chapel and continue to the city's heart, Piazza delle Erbe.\nAt midday, public transit takes you comfortably to the Basilica of Saint Anthony and Prato della Valle.\nEnjoy the ride in the glass-walled trams, which offer great views of the arcaded streets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trattoria al Prato",
+            "tip": "Gute Pasta direkt an der Tram-Haltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trattoria al Prato",
+            "tip": "Jó tészta közvetlenül a villamosmegállónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trattoria al Prato",
+            "tip": "Paste bune chiar lângă stația de tramvai."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trattoria al Prato",
+            "tip": "Good pasta right by the tram stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardini Treves",
+            "tip": "Kleiner, ruhiger Park.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardini Treves",
+            "tip": "Kicsi, csendes park.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardini Treves",
+            "tip": "Parc mic și liniștit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardini Treves",
+            "tip": "Small, quiet park.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galleria Borromeo",
+            "tip": "Überdachtes Einkaufszentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galleria Borromeo",
+            "tip": "Fedett bevásárlóközpont."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galleria Borromeo",
+            "tip": "Centru comercial acoperit."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galleria Borromeo",
+            "tip": "Indoor shopping gallery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tickets müssen vor der Fahrt gekauft werden.",
+          "Die Straßenbahn SIR1 ist sehr zuverlässig.",
+          "Nutzen Sie die App 'DropTicket'.",
+          "Validieren Sie Ihr Ticket beim Einsteigen."
+        ],
+        "hu": [
+          "A jegyeket utazás előtt kell megvenni.",
+          "A SIR1 villamos nagyon megbízható.",
+          "Használd a 'DropTicket' alkalmazást.",
+          "Érvényesítsd a jegyedet felszálláskor."
+        ],
+        "ro": [
+          "Biletele trebuie cumpărate înainte de călătorie.",
+          "Tramvaiul SIR1 este foarte de încredere.",
+          "Folosiți aplicația 'DropTicket'.",
+          "Validați biletul la urcare."
+        ],
+        "en": [
+          "Tickets must be purchased before boarding.",
+          "The SIR1 tram is very reliable.",
+          "Use the 'DropTicket' app for easy buying.",
+          "Validate your ticket upon boarding."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-34",
+    "transit_official": "https://www.businfo.it/",
+    "transit_app": "https://www.businfo.it/it/app-businfo",
+    "bike_share": "https://www.goodbike.it/",
+    "city_card": "https://www.padovacard.it/",
+    "events": "https://www.turismopadova.it/it/eventi/",
+    "tourism_office": "https://www.turismopadova.it/",
+    "webcam": "https://www.skylinewebcams.com/it/webcam/italia/veneto/padova.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/padova-c561934",
+    "museum_tickets": "https://www.cappelladegliscrovegni.it/",
+    "parking_real_time": "https://www.apsholding.it/",
+    "language_tips": {
+      "de": "Italienisch dominiert; in der Universitaetsstadt sprechen viele Studierende und junges Personal sehr gut Englisch.",
+      "hu": "Olasz a domino nyelv; az egyetemi varosban sok diak es fiatal pincer kivaloan beszel angolul.",
+      "ro": "Italiana este dominanta; in orasul universitar multi studenti si tineri vorbesc engleza foarte bine.",
+      "en": "Italian dominates; as a university city, students and younger staff speak excellent English."
+    },
+    "best_time_to_visit": {
+      "de": "April-Juni und September-Oktober; Sommer ist heiss und schwuel in der Po-Ebene.",
+      "hu": "Aprilis-junius es szeptember-oktober; nyaron forro es paras a Po-sikon.",
+      "ro": "Aprilie-iunie si septembrie-octombrie; vara este calda si umeda in campia Padului.",
+      "en": "April-June and September-October are ideal; summers are hot and humid in the Po plain."
+    },
+    "neighborhood_warnings": {
+      "de": "Bahnhofsumgebung abends meiden; historisches Zentrum und Universitaetsviertel sind sehr sicher.",
+      "hu": "A vasutallomas kornyeket este kerulni ajanlott; a tortenelmi kozpont es az egyetemi negyed nagyon biztonsagos.",
+      "ro": "Evita zona garii seara; centrul istoric si cartierul universitar sunt foarte sigure.",
+      "en": "Avoid the station area at night; the historic centre and university quarter are very safe."
+    }
+  }
+}

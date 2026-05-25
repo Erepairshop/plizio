@@ -1,0 +1,883 @@
+{
+  "city_id": "forte-dei-marmi",
+  "anchor": {
+    "name": "Forte dei Marmi Centro",
+    "coords": [
+      10.1672,
+      43.9594
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Piazza Garibaldi",
+          "coords": [
+            10.1712,
+            43.9585
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt mit Luxus-Boutiquen.",
+            "hu": "A város szíve luxus butikokkal.",
+            "ro": "Inima orașului cu buticuri de lux.",
+            "en": "The heart of the city with luxury boutiques."
+          }
+        },
+        {
+          "name": "Il Fortino",
+          "coords": [
+            10.1705,
+            43.9592
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Historische Festung, heute ein Museum.",
+            "hu": "Történelmi erődítmény, ma múzeumként működik.",
+            "ro": "Fortăreață istorică, astăzi muzeu.",
+            "en": "Historic fortress, now a museum."
+          }
+        },
+        {
+          "name": "Museo della Satira e della Caricatura",
+          "coords": [
+            10.1702,
+            43.9595
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Einzigartiges Museum im Fortino.",
+            "hu": "Egyedülálló múzeum a Fortino falai között.",
+            "ro": "Muzeu unic între zidurile Fortino.",
+            "en": "Unique museum within the walls of the Fortino."
+          }
+        },
+        {
+          "name": "Pontile di Forte dei Marmi",
+          "coords": [
+            10.1652,
+            43.9605
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Iconischer Steg weit ins Meer hinein.",
+            "hu": "Ikonikus móló mélyen a tengerbe nyúlva.",
+            "ro": "Ponton iconic care se întinde mult în mare.",
+            "en": "Iconic pier stretching far into the sea."
+          }
+        },
+        {
+          "name": "Bagno Annetta",
+          "coords": [
+            10.1685,
+            43.9615
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Einer der exklusivsten Strandclubs.",
+            "hu": "Az egyik legexkluzívabb strandklub.",
+            "ro": "Unul dintre cele mai exclusive cluburi de plajă.",
+            "en": "One of the most exclusive beach clubs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie den Glamour von Forte dei Marmi zu Fuß. Beginnen Sie auf der Piazza Garibaldi, besuchen Sie die historische Festung und das kuriose Satiremuseum. Am Nachmittag schlendern Sie über den Pontile und entspannen an den luxuriösen Stränden.",
+        "hu": "Fedezze fel Forte dei Marmi csillogását gyalogosan. Kezdjen a Piazza Garibaldin, látogasson el a történelmi erődbe és a különleges Szatíramúzeumba. Délután sétáljon végig a mólón, és lazítson a luxus strandokon.",
+        "ro": "Descoperiți strălucirea din Forte dei Marmi pe jos. Începeți în Piazza Garibaldi, vizitați fortăreața istorică și curiosul Muzeu al Satirei. După-amiaza, plimbați-vă pe ponton și relaxați-vă pe plajele luxoase.",
+        "en": "Discover the glamour of Forte dei Marmi on foot. Start at Piazza Garibaldi, visit the historic fortress and the unique Satire Museum. In the afternoon, stroll along the pier and relax at the luxurious beaches."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Focaccia di Recco",
+            "tip": "Hauchdünne Focaccia mit Käsefüllung."
+          },
+          {
+            "name": "Bistrot",
+            "tip": "Michelin-Sterne-Restaurant direkt am Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Focaccia di Recco",
+            "tip": "Hajszálvékony focaccia sajttal töltve."
+          },
+          {
+            "name": "Bistrot",
+            "tip": "Michelin-csillagos étterem a tengerparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Focaccia di Recco",
+            "tip": "Focaccia foarte subțire umplută cu brânză."
+          },
+          {
+            "name": "Bistrot",
+            "tip": "Restaurant cu stele Michelin la malul mării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Focaccia di Recco",
+            "tip": "Wafer-thin focaccia filled with cheese."
+          },
+          {
+            "name": "Bistrot",
+            "tip": "Michelin-starred restaurant by the sea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pontile",
+            "tip": "Abends herrlich ruhig mit Meeresrauschen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pontile",
+            "tip": "Este csodásan csendes a hullámok zajával.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pontile",
+            "tip": "Seara este minunat de liniște cu sunetul valurilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pontile",
+            "tip": "Wonderfully quiet in the evening with the sound of waves.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Carducci",
+            "tip": "Die Straße der großen Designerlabels."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Carducci",
+            "tip": "A nagy designer márkák utcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Carducci",
+            "tip": "Strada marilor branduri de designeri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Carducci",
+            "tip": "The street of major designer labels."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie Kleingeld für die Parkuhren mit.",
+          "Die Preise in den Cafés auf der Piazza sind gehoben."
+        ],
+        "hu": [
+          "Vigyen magával aprópénzt a parkolóautomatákhoz.",
+          "A főtéri kávézók árai magasabbak az átlagnál."
+        ],
+        "ro": [
+          "Luați mărunt pentru automatele de parcare.",
+          "Prețurile la cafenelele din piață sunt ridicate."
+        ],
+        "en": [
+          "Bring small change for the parking meters.",
+          "Prices in the cafes on the square are premium."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Pontile di Forte dei Marmi",
+          "coords": [
+            10.1652,
+            43.9605
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Starten Sie mit einer Brise am Meer.",
+            "hu": "Kezdje a napot a tengeri szellővel.",
+            "ro": "Începeți ziua cu briza mării.",
+            "en": "Start with a sea breeze."
+          }
+        },
+        {
+          "name": "Vittoria Apuana",
+          "coords": [
+            10.1825,
+            43.9725
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ruhigerer Teil der Stadt zum Radfahren.",
+            "hu": "A város csendesebb része a tekeréshez.",
+            "ro": "O parte mai liniștită a orașului pentru ciclism.",
+            "en": "Quieter part of the city for cycling."
+          }
+        },
+        {
+          "name": "Villa Bertelli",
+          "coords": [
+            10.1765,
+            43.9655
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kulturzentrum in einer prächtigen Villa.",
+            "hu": "Kulturális központ egy pompás villában.",
+            "ro": "Centru cultural într-o vilă splendidă.",
+            "en": "Cultural center in a magnificent villa."
+          }
+        },
+        {
+          "name": "Parco della Versiliana",
+          "coords": [
+            10.1855,
+            43.9455
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Schattiger Pinienwald ideal zum Radeln.",
+            "hu": "Árnyas fenyőerdő, ideális kerékpározáshoz.",
+            "ro": "Pădure de pini umbroasă, ideală pentru bicicletă.",
+            "en": "Shady pine forest ideal for cycling."
+          }
+        },
+        {
+          "name": "Piazza Garibaldi",
+          "coords": [
+            10.1712,
+            43.9585
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Rückkehr ins Zentrum am späten Nachmittag.",
+            "hu": "Visszatérés a központba késő délután.",
+            "ro": "Revenirea în centru după-amiaza târziu.",
+            "en": "Return to the center in the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Fahrrad ist das Symbol von Forte dei Marmi. Radeln Sie entlang der Strandpromenade zur Villa Bertelli und genießen Sie die Kühle im Versiliana-Park. Beenden Sie die Tour mit einem Aperitif im mondänen Stadtzentrum.",
+        "hu": "A kerékpár Forte dei Marmi jelképe. Tekerjen végig a tengerparti sétányon a Villa Bertelliig, és élvezze a hűvöst a Versiliana parkban. Zárja a túrát egy aperitiffel a divatos városközpontban.",
+        "ro": "Bicicleta este simbolul din Forte dei Marmi. Mergeți de-a lungul promenadei spre Villa Bertelli și bucurați-vă de răcoare în parcul Versiliana. Încheiați turul cu un aperitiv în centrul monden.",
+        "en": "The bicycle is the symbol of Forte dei Marmi. Ride along the beach promenade to Villa Bertelli and enjoy the cool in the Versiliana Park. End the tour with an aperitif in the trendy city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Spaghetti allo Scoglio",
+            "tip": "Pasta mit frischen Meeresfrüchten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spaghetti allo Scoglio",
+            "tip": "Tészta friss tenger gyümölcseivel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Spaghetti allo Scoglio",
+            "tip": "Paste cu fructe de mare proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spaghetti allo Scoglio",
+            "tip": "Pasta with fresh seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco della Versiliana",
+            "tip": "Ruhiger Rückzugsort unter Pinien.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco della Versiliana",
+            "tip": "Csendes menedék a fenyőfák alatt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco della Versiliana",
+            "tip": "Refugiu liniștit sub pini.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco della Versiliana",
+            "tip": "Quiet retreat under the pine trees.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Mittwochs auf der Piazza Marconi."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Szerdánként a Piazza Marconin."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Miercurea în Piazza Marconi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Wednesdays at Piazza Marconi."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie vorsichtig auf den Promenaden.",
+          "Viele Hotels bieten kostenlose Leihräder an."
+        ],
+        "hu": [
+          "Vezessen óvatosan a sétányokon.",
+          "Sok szálloda ingyenes bérbiciklit kínál."
+        ],
+        "ro": [
+          "Conduceți cu atenție pe promenade.",
+          "Multe hoteluri oferă biciclete gratuite."
+        ],
+        "en": [
+          "Ride carefully on the promenades.",
+          "Many hotels offer free rental bikes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Mercato del Forte",
+          "coords": [
+            10.1732,
+            43.9575
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Berühmter Markt für hochwertige Kleidung.",
+            "hu": "Híres piac kiváló minőségű ruházattal.",
+            "ro": "Piață faimoasă pentru haine de înaltă calitate.",
+            "en": "Famous market for high-quality clothing."
+          }
+        },
+        {
+          "name": "Villa Bertelli",
+          "coords": [
+            10.1765,
+            43.9655
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Einfaches Parken in der Nähe der Villa.",
+            "hu": "Könnyű parkolás a villa közelében.",
+            "ro": "Parcare ușoară în apropierea vilei.",
+            "en": "Easy parking near the villa."
+          }
+        },
+        {
+          "name": "Chiesa di Sant'Ermete",
+          "coords": [
+            10.1742,
+            43.9592
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Die Schutzpatron-Kirche der Stadt.",
+            "hu": "A város védőszentjének temploma.",
+            "ro": "Biserica patronului spiritual al orașului.",
+            "en": "The patron saint church of the city."
+          }
+        },
+        {
+          "name": "Parco della Versiliana",
+          "coords": [
+            10.1855,
+            43.9455
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie im Sommer das Freilufttheater.",
+            "hu": "Nyáron látogassa meg a szabadtéri színházat.",
+            "ro": "Vara vizitați teatrul în aer liber.",
+            "en": "Visit the open-air theater in summer."
+          }
+        },
+        {
+          "name": "Pontile di Forte dei Marmi",
+          "coords": [
+            10.1652,
+            43.9605
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp am Meer zum Abschluss.",
+            "hu": "Rövid tengerparti megálló befejezésként.",
+            "ro": "O scurtă oprire la malul mării pentru final.",
+            "en": "Short stop by the sea to finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto für einen bequemen Besuch des berühmten Mittwochsmarktes und der Villa Bertelli. Nach einer Besichtigung der Sant'Ermete-Kirche führt der Weg in den kühlen Versiliana-Park und schließlich zum Wahrzeichen der Stadt am Meer.",
+        "hu": "Használja az autót a híres szerdai piac és a Villa Bertelli kényelmes meglátogatásához. A Sant'Ermete templom után az út a hűvös Versiliana parkba, végül pedig a város tengerparti jelképéhez vezet.",
+        "ro": "Folosiți mașina pentru o vizită confortabilă la piața faimoasă de miercuri și la Villa Bertelli. După biserica Sant'Ermete, drumul duce spre răcoarea parcului Versiliana și, în final, la simbolul orașului de la malul mării.",
+        "en": "Use the car for a comfortable visit to the famous Wednesday market and Villa Bertelli. After Sant'Ermete church, the path leads to the cool Versiliana Park and finally to the city's coastal landmark."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tordelli Lucchesi",
+            "tip": "Gefüllte Nudeln aus der Region Lucca."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tordelli Lucchesi",
+            "tip": "Töltött tészta Lucca környékéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tordelli Lucchesi",
+            "tip": "Paste umplute din regiunea Lucca."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tordelli Lucchesi",
+            "tip": "Stuffed pasta from the Lucca region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vittoria Apuana Beach",
+            "tip": "Weniger Trubel als im Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vittoria Apuana Beach",
+            "tip": "Kisebb nyüzsgés, mint a központban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vittoria Apuana Beach",
+            "tip": "Mai puțină agitație decât în centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vittoria Apuana Beach",
+            "tip": "Less hustle and bustle than in the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Forte dei Marmi Market",
+            "tip": "Der exklusivste Straßenmarkt Italiens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Forte dei Marmi piac",
+            "tip": "Olaszország legexkluzívabb utcai piaca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Forte dei Marmi",
+            "tip": "Cea mai exclusivistă piață stradală din Italia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Forte dei Marmi Market",
+            "tip": "The most exclusive street market in Italy."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze sind in der Hochsaison knapp.",
+          "Die ZTL im Zentrum ist streng überwacht."
+        ],
+        "hu": [
+          "Főszezonban kevés a parkolóhely.",
+          "A központi ZTL-zónát szigorúan figyelik."
+        ],
+        "ro": [
+          "Locurile de parcare sunt puține în plin sezon.",
+          "Zona ZTL din centru este strict supravegheată."
+        ],
+        "en": [
+          "Parking spaces are scarce in high season.",
+          "The ZTL in the center is strictly monitored."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Piazza Garibaldi",
+          "coords": [
+            10.1712,
+            43.9585
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentrale Bushaltestelle für alle Linien.",
+            "hu": "Központi buszmegálló minden járathoz.",
+            "ro": "Stație centrală de autobuz pentru toate liniile.",
+            "en": "Central bus stop for all lines."
+          }
+        },
+        {
+          "name": "Chiesa di Sant'Ermete",
+          "coords": [
+            10.1742,
+            43.9592
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Stadtzentrum erreichbar.",
+            "hu": "Gyalogosan elérhető a városközpontból.",
+            "ro": "Accesibil pe jos din centrul orașului.",
+            "en": "Accessible on foot from the city center."
+          }
+        },
+        {
+          "name": "Pontile di Forte dei Marmi",
+          "coords": [
+            10.1652,
+            43.9605
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein Muss für jeden Erstbesucher.",
+            "hu": "Kötelező látnivaló minden első látogatónak.",
+            "ro": "O atracție obligatorie pentru orice vizitator.",
+            "en": "A must-see for every first-time visitor."
+          }
+        },
+        {
+          "name": "Bagno Annetta",
+          "coords": [
+            10.1685,
+            43.9615
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den erstklassigen Service.",
+            "hu": "Élvezze az első osztályú kiszolgálást.",
+            "ro": "Bucurați-vă de servicii de primă clasă.",
+            "en": "Enjoy the first-class service."
+          }
+        },
+        {
+          "name": "Vittoria Apuana",
+          "coords": [
+            10.1825,
+            43.9725
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Buslinie führt entlang der Viale Italico.",
+            "hu": "A buszjárat a Viale Italico mentén halad.",
+            "ro": "Linia de autobuz trece pe lângă Viale Italico.",
+            "en": "The bus line runs along Viale Italico."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das öffentliche Verkehrsnetz verbindet die verschiedenen Ortsteile ideal. Starten Sie im Zentrum, besuchen Sie die Kirche Sant'Ermete und den Pontile. Den Nachmittag verbringen Sie am exklusiven Bagno Annetta, bevor Sie nach Vittoria Apuana weiterfahren.",
+        "hu": "A tömegközlekedés ideálisan összeköti a különböző városrészeket. Kezdjen a központban, látogassa meg a Sant'Ermete templomot és a mólót. A délutánt töltse az exkluzív Bagno Annettánál, mielőtt továbbutazna Vittoria Apuanába.",
+        "ro": "Transportul public conectează ideal diferitele părți ale orașului. Începeți în centru, vizitați biserica Sant'Ermete și pontonul. Petreceți după-amiaza la exclusivistul Bagno Annetta, înainte de a pleca spre Vittoria Apuana.",
+        "en": "Public transport ideally connects the different parts of the city. Start in the center, visit Sant'Ermete church and the pier. Spend the afternoon at the exclusive Bagno Annetta before continuing to Vittoria Apuana."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cecina",
+            "tip": "Herzhafter Pfannkuchen aus Kichererbsenmehl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cecina",
+            "tip": "Ízletes palacsinta csicseriborsólisztből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cecina",
+            "tip": "Clătită sărată din făină de năut."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cecina",
+            "tip": "Savory pancake made from chickpea flour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Viale Italico",
+            "tip": "Schöne Allee zum Spazierengehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Viale Italico",
+            "tip": "Gyönyörű fasor egy kellemes sétához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Viale Italico",
+            "tip": "Bulevard frumos pentru plimbare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viale Italico",
+            "tip": "Beautiful avenue for a stroll.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piazza Marconi",
+            "tip": "Zentraler Treffpunkt für Shoppingbegeisterte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza Marconi",
+            "tip": "Központi találkozóhely a vásárlás kedvelőinek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazza Marconi",
+            "tip": "Punct central de întâlnire pentru iubitorii de shopping."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza Marconi",
+            "tip": "Central meeting point for shopping enthusiasts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die 'Moovit' App für Buszeiten herunter.",
+          "Fahrkarten können per SMS gekauft werden."
+        ],
+        "hu": [
+          "Töltse le a 'Moovit' alkalmazást a menetrendekhez.",
+          "A jegyek SMS-ben is megvásárolhatók."
+        ],
+        "ro": [
+          "Descărcați aplicația 'Moovit' pentru orare.",
+          "Biletele pot fi cumpărate prin SMS."
+        ],
+        "en": [
+          "Download the 'Moovit' app for bus schedules.",
+          "Tickets can be purchased via SMS."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-52",
+    "transit_official": "https://www.at-bus.it/",
+    "transit_app": "https://www.at-bus.it/app-at-bus",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.visitforte.com/it/eventi/",
+    "tourism_office": "https://www.visitforte.com/",
+    "webcam": "https://www.skylinewebcams.com/it/webcam/italia/toscana/lucca/forte-dei-marmi.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/forte-dei-marmi-c561912",
+    "museum_tickets": "https://www.villabertelli.it/",
+    "parking_real_time": "https://www.comune.fortedeimarmi.lu.it/",
+    "language_tips": {
+      "de": "Italienisch ist Pflicht in der Versilia; in Strandbädern und Luxushotels wird oft Deutsch und Englisch gesprochen.",
+      "hu": "Olaszul beszelnek; a luxus strandfurdokben es hotelekben gyakran tudnak angolul es nemetul is.",
+      "ro": "Limba italiana este obligatorie; in stabilimentele balneare de lux si hoteluri se vorbeste deseori engleza si germana.",
+      "en": "Italian is the local language; staff at beach clubs (bagni) and luxury hotels usually speak English and often German."
+    },
+    "best_time_to_visit": {
+      "de": "Juni und September fuer Strand ohne Hochsommer-Massen; Juli-August ist VIP-Saison mit hohen Preisen.",
+      "hu": "Junius es szeptember a legjobb strandolasra tomeg nelkul; julius-augusztus VIP-szezon, magas arak.",
+      "ro": "Iunie si septembrie pentru plaja fara aglomeratie; iulie-august este sezonul VIP cu preturi ridicate.",
+      "en": "June and September for the beach without peak crowds; July-August is VIP season with the highest prices."
+    },
+    "neighborhood_warnings": {
+      "de": "Zentrum und Strandpromenade sind sicher; Vorsicht vor unlizenzierten Strassenverkaeufern am Wochenmarkt.",
+      "hu": "A kozpont es a tengerparti seta biztonsagos; figyelj az engedely nelkuli arusokra a heti piacon.",
+      "ro": "Centrul si promenada sunt sigure; atentie la vanzatorii ambulanti neautorizati la piata saptamanala.",
+      "en": "Centre and seafront are safe; watch for unlicensed street vendors at the famous Wednesday market."
+    }
+  }
+}

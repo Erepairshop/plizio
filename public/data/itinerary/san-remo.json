@@ -1,0 +1,1089 @@
+{
+  "city_id": "san-remo",
+  "anchor": {
+    "name": "San Remo",
+    "coords": [
+      7.7758,
+      43.8158
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 3.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro Ariston",
+            "hu": "Teatro Ariston",
+            "ro": "Teatro Ariston",
+            "en": "Teatro Ariston"
+          },
+          "coords": [
+            7.7772,
+            43.8162
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Zentrum des italienischen Songfestivals.",
+            "hu": "Az olasz dalfesztivál központja.",
+            "ro": "Centrul festivalului de cântec italian.",
+            "en": "The center of the Italian song festival."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale San Siro",
+            "hu": "San Siro székesegyház",
+            "ro": "Catedrala San Siro",
+            "en": "San Siro Cathedral"
+          },
+          "coords": [
+            7.7745,
+            43.8165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die älteste Kirche der Stadt im romanisch-gotischen Stil.",
+            "hu": "A város legrégebbi temploma román-gótikus stílusban.",
+            "ro": "Cea mai veche biserică din oraș, în stil romanic-gotic.",
+            "en": "The oldest church in the city in Romanesque-Gothic style."
+          }
+        },
+        {
+          "name": {
+            "de": "La Pigna",
+            "hu": "La Pigna",
+            "ro": "La Pigna",
+            "en": "La Pigna"
+          },
+          "coords": [
+            7.7735,
+            43.8185
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Labyrinth der mittelalterlichen Gassen.",
+            "hu": "A középkori utcák útvesztője.",
+            "ro": "Labirintul străzilor medievale.",
+            "en": "The labyrinth of medieval alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario della Madonna della Costa",
+            "hu": "Madonna della Costa szentély",
+            "ro": "Sanctuarul Madonna della Costa",
+            "en": "Sanctuary of Madonna della Costa"
+          },
+          "coords": [
+            7.7712,
+            43.8212
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Panoramablick über Sanremo.",
+            "hu": "Panorámás kilátás Sanremóra.",
+            "ro": "Vedere panoramică asupra orașului Sanremo.",
+            "en": "Panoramic view over Sanremo."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino di Sanremo",
+            "hu": "Sanremói Kaszinó",
+            "ro": "Cazinoul din Sanremo",
+            "en": "Casino of Sanremo"
+          },
+          "coords": [
+            7.7725,
+            43.8135
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein prächtiges Gebäude im Jugendstil.",
+            "hu": "Lenyűgöző szecessziós épület.",
+            "ro": "O clădire magnifică în stil Art Nouveau.",
+            "en": "A magnificent Art Nouveau building."
+          }
+        },
+        {
+          "name": {
+            "de": "Russisch-Orthodoxe Kirche",
+            "hu": "Orosz ortodox templom",
+            "ro": "Biserica Ortodoxă Rusă",
+            "en": "Russian Orthodox Church"
+          },
+          "coords": [
+            7.7705,
+            43.8132
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Farbenfrohe Kuppeln wie in St. Petersburg.",
+            "hu": "Színes kupolák, mint Szentpéterváron.",
+            "ro": "Cupole colorate ca în Sankt Petersburg.",
+            "en": "Colorful domes like in St. Petersburg."
+          }
+        },
+        {
+          "name": {
+            "de": "Corso dell'Imperatrice",
+            "hu": "Császárnő sétány",
+            "ro": "Corso dell'Imperatrice",
+            "en": "Corso dell'Imperatrice"
+          },
+          "coords": [
+            7.7685,
+            43.8122
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Flanieren Sie im Schatten der Palmen.",
+            "hu": "Sétáljon a pálmafák árnyékában.",
+            "ro": "Plimbați-vă la umbra palmierilor.",
+            "en": "Stroll in the shade of the palms."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie die Stadt der Blumen zu Fuß. Beginnen Sie am berühmten Teatro Ariston und besuchen Sie die Kathedrale San Siro. Steigen Sie hinauf in die mittelalterliche Altstadt La Pigna und genießen Sie den Blick vom Santuario della Madonna della Costa. Am Nachmittag bewundern Sie das glanzvolle Casino und die exotische Russisch-Orthodoxe Kirche. Beenden Sie den Tag stilvoll auf dem Corso dell'Imperatrice unter Palmen, während die Meeresbrise für Abkühlung sorgt.",
+        "hu": "Fedezze fel a virágok városát gyalogosan. Kezdjen a híres Teatro Ariston-nál, majd látogasson el a San Siro székesegyházba. Másszon fel a középkori óvárosba, La Pignába, és élvezze a kilátást a Madonna della Costa szentélytől. Délután csodálja meg a csillogó kaszinót és az egzotikus orosz ortodox templomot. Zárja a napot stílusosan a Császárnő sétányon a pálmafák alatt, miközben a tengeri szellő hűsíti.",
+        "ro": "Descoperiți orașul florilor la pas. Începeți la faimosul Teatro Ariston și vizitați Catedrala San Siro. Urcați în orașul vechi medieval La Pigna și bucurați-vă de priveliștea de la Sanctuarul Madonna della Costa. După-amiaza, admirați strălucitorul Cazinou și biserica ortodoxă rusă exotică. Încheiați ziua cu stil pe Corso dell'Imperatrice, sub palmieri, în timp ce briza mării vă răcorește.",
+        "en": "Discover the city of flowers on foot. Start at the famous Teatro Ariston and visit the San Siro Cathedral. Climb up to the medieval old town, La Pigna, and enjoy the view from the Sanctuary of Madonna della Costa. In the afternoon, admire the glamorous Casino and the exotic Russian Orthodox Church. End the day in style on the Corso dell'Imperatrice under the palms while the sea breeze cools you down."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sardenaira",
+            "tip": "Lokale Pizza mit Sardinen und Oliven in der Panetteria Drago."
+          },
+          {
+            "name": "Baci di Sanremo",
+            "tip": "Süße Schokoladenkekse, perfekt als Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sardenaira",
+            "tip": "Helyi pizza szardíniával és olívabogyóval a Panetteria Dragóban."
+          },
+          {
+            "name": "Baci di Sanremo",
+            "tip": "Édes csokoládés keksz, tökéletes desszertnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sardenaira",
+            "tip": "Pizza locală cu sardine și măsline la Panetteria Drago."
+          },
+          {
+            "name": "Baci di Sanremo",
+            "tip": "Biscuiți dulci cu ciocolată, perfecți ca desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sardenaira",
+            "tip": "Local pizza with sardines and olives at Panetteria Drago."
+          },
+          {
+            "name": "Baci di Sanremo",
+            "tip": "Sweet chocolate cookies, perfect as a dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Madonna della Costa",
+            "tip": "Ein friedlicher Ort hoch über der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Regina Elena Gärten",
+            "tip": "Schöne Aussichtspunkte im oberen Teil von La Pigna.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Madonna della Costa",
+            "tip": "Békés hely magasan a város felett.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Regina Elena kertek",
+            "tip": "Gyönyörű kilátópontok La Pigna felső részén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Madonna della Costa",
+            "tip": "Un loc liniștit sus deasupra orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile Regina Elena",
+            "tip": "Puncte de observație frumoase în partea de sus a La Pigna.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Madonna della Costa",
+            "tip": "A peaceful place high above the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Regina Elena Gardens",
+            "tip": "Beautiful viewpoints in the upper part of La Pigna.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Matteotti",
+            "tip": "Die Haupteinkaufsstraße mit Luxusmarken."
+          },
+          {
+            "name": "Mercato Annonario",
+            "tip": "Frische Produkte und lokale Delikatessen jeden Vormittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Matteotti",
+            "tip": "A fő bevásárlóutca luxusmárkákkal."
+          },
+          {
+            "name": "Mercato Annonario",
+            "tip": "Friss termékek és helyi finomságok minden délelőtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Matteotti",
+            "tip": "Principala stradă comercială cu mărci de lux."
+          },
+          {
+            "name": "Mercato Annonario",
+            "tip": "Produse proaspete și delicatese locale în fiecare dimineață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Matteotti",
+            "tip": "The main shopping street with luxury brands."
+          },
+          {
+            "name": "Mercato Annonario",
+            "tip": "Fresh produce and local delicacies every morning."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequeme Schuhe sind für die steilen Gassen von La Pigna unerlässlich.",
+          "Im Casino gilt eine Kleiderordnung für die Spielsäle.",
+          "Der Wochenmarkt am Dienstag und Samstag ist sehr groß und belebt.",
+          "Trinken Sie Wasser an den historischen Brunnen der Stadt."
+        ],
+        "hu": [
+          "Kényelmes cipő elengedhetetlen La Pigna meredek utcáihoz.",
+          "A kaszinó játéktermeiben öltözködési előírás van érvényben.",
+          "A keddi és szombati heti piac nagyon nagy és forgalmas.",
+          "Igyon vizet a város történelmi kútjaiból."
+        ],
+        "ro": [
+          "Pantofii confortabili sunt esențiali pentru străzile abrupte din La Pigna.",
+          "În cazinou există un cod vestimentar pentru sălile de joc.",
+          "Piața săptămânală de marți și sâmbătă este foarte mare și animată.",
+          "Beți apă de la fântânile istorice ale orașului."
+        ],
+        "en": [
+          "Comfortable shoes are essential for the steep alleys of La Pigna.",
+          "There is a dress code for the gaming rooms in the Casino.",
+          "The weekly market on Tuesday and Saturday is very large and busy.",
+          "Drink water from the historic fountains of the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Corso dell'Imperatrice",
+            "hu": "Császárnő sétány",
+            "ro": "Corso dell'Imperatrice",
+            "en": "Corso dell'Imperatrice"
+          },
+          "coords": [
+            7.7685,
+            43.8122
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Startpunkt des Radwegs an der Küste.",
+            "hu": "A tengerparti kerékpárút kiindulópontja.",
+            "ro": "Punctul de plecare al pistei de biciclete de pe coastă.",
+            "en": "Starting point of the coastal bike path."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino di Sanremo",
+            "hu": "Sanremói Kaszinó",
+            "ro": "Cazinoul din Sanremo",
+            "en": "Casino of Sanremo"
+          },
+          "coords": [
+            7.7725,
+            43.8135
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahrradständer vor dem Seiteneingang.",
+            "hu": "Kerékpártároló az oldalsó bejáratnál.",
+            "ro": "Suport de biciclete la intrarea laterală.",
+            "en": "Bike racks at the side entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Ormond",
+            "hu": "Villa Ormond",
+            "ro": "Villa Ormond",
+            "en": "Villa Ormond"
+          },
+          "coords": [
+            7.7915,
+            43.8215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 85,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Botanischer Garten mit exotischen Pflanzen.",
+            "hu": "Botanikus kert egzotikus növényekkel.",
+            "ro": "Grădină botanică cu plante exotice.",
+            "en": "Botanical garden with exotic plants."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Nobel",
+            "hu": "Villa Nobel",
+            "ro": "Villa Nobel",
+            "en": "Villa Nobel"
+          },
+          "coords": [
+            7.7895,
+            43.8202
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wohnsitz von Alfred Nobel.",
+            "hu": "Alfred Nobel lakóhelye.",
+            "ro": "Reședința lui Alfred Nobel.",
+            "en": "Residence of Alfred Nobel."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte di Santa Tecla",
+            "hu": "Santa Tecla erőd",
+            "ro": "Fortul Santa Tecla",
+            "en": "Santa Tecla Fort"
+          },
+          "coords": [
+            7.7795,
+            43.8145
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Historische Festung am Hafen.",
+            "hu": "Történelmi erőd a kikötőben.",
+            "ro": "Fortăreață istorică în port.",
+            "en": "Historic fortress at the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Ariston",
+            "hu": "Teatro Ariston",
+            "ro": "Teatro Ariston",
+            "en": "Teatro Ariston"
+          },
+          "coords": [
+            7.7772,
+            43.8162
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Abschluss im Zentrum.",
+            "hu": "Zárás a központban.",
+            "ro": "Final în centru.",
+            "en": "Ending in the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den preisgekrönten Radweg 'Pista Ciclabile', der auf einer alten Bahnstrecke verläuft. Starten Sie am Corso dell'Imperatrice und radeln Sie am Casino vorbei zu den prächtigen Gärten der Villa Ormond. Besuchen Sie die Villa Nobel, bevor Sie am Hafen das Forte di Santa Tecla erkunden. Eine flache und entspannte Tour mit ständigem Meerblick, die am Teatro Ariston im lebhaften Stadtzentrum endet.",
+        "hu": "Használja a díjnyertes 'Pista Ciclabile' kerékpárutat, amely egy régi vasútvonalon halad. Kezdjen a Császárnő sétányon, tekerjen el a kaszinó mellett a Villa Ormond pompás kertjeihez. Látogasson el a Villa Nobelbe, mielőtt a kikötőnél felfedezné a Santa Tecla erődöt. Sík és pihentető túra folyamatos tengeri kilátással, amely a Teatro Aristonnál ér véget a nyüzsgő városközpontban.",
+        "ro": "Folosiți pista de biciclete premiată 'Pista Ciclabile', care rulează pe o fostă cale ferată. Începeți pe Corso dell'Imperatrice și pedalați pe lângă Cazinou către grădinile superbe ale Vilei Ormond. Vizitați Vila Nobel înainte de a explora Fortul Santa Tecla în port. Un tur plat și relaxant, cu vedere constantă la mare, care se termină la Teatro Ariston, în centrul plin de viață al orașului.",
+        "en": "Use the award-winning 'Pista Ciclabile' bike path, which runs on a former railway line. Start at Corso dell'Imperatrice and cycle past the Casino to the magnificent gardens of Villa Ormond. Visit Villa Nobel before exploring the Santa Tecla Fort at the harbor. A flat and relaxed tour with constant sea views, ending at the Teatro Ariston in the lively city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Focaccia Ligure",
+            "tip": "Frisch gebacken in der Bäckerei am Radweg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Focaccia Ligure",
+            "tip": "Frissen sütve a kerékpárút melletti pékségben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Focaccia Ligure",
+            "tip": "Proaspăt coaptă la brutăria de pe pista de biciclete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Focaccia Ligure",
+            "tip": "Freshly baked at the bakery along the bike path."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Villa Ormond Park",
+            "tip": "Ruhige Ecken inmitten exotischer Blumen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Ormond parkja",
+            "tip": "Csendes sarkok egzotikus virágok között.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Villa Ormond",
+            "tip": "Colțuri liniștite printre flori exotice.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Ormond Park",
+            "tip": "Quiet corners amidst exotic flowers.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Nolimits Bike",
+            "tip": "Zubehör und Souvenirs für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nolimits Bike",
+            "tip": "Kiegészítők és szuvenírek kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Nolimits Bike",
+            "tip": "Accesorii și suveniruri pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nolimits Bike",
+            "tip": "Accessories and souvenirs for cyclists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Radweg ist fast 24 km lang und führt bis nach Ospedaletti.",
+          "Mieten Sie Fahrräder direkt am alten Bahnhof.",
+          "Achten Sie auf Fußgänger auf dem Radweg.",
+          "Nehmen Sie Licht mit für die Tunnelabschnitte."
+        ],
+        "hu": [
+          "A kerékpárút majdnem 24 km hosszú, egészen Ospedalettiig tart.",
+          "Béreljen biciklit közvetlenül a régi vasútállomásnál.",
+          "Ügyeljen a gyalogosokra a kerékpárúton.",
+          "Vigyen magával világítást az alagutas szakaszokhoz."
+        ],
+        "ro": [
+          "Pista de biciclete are aproape 24 km și ajunge până la Ospedaletti.",
+          "Închiriați biciclete direct de la vechea gară.",
+          "Atenție la pietonii de pe pista de biciclete.",
+          "Luați lumini pentru secțiunile cu tuneluri."
+        ],
+        "en": [
+          "The bike path is almost 24 km long and goes all the way to Ospedaletti.",
+          "Rent bikes directly at the old train station.",
+          "Watch out for pedestrians on the bike path.",
+          "Take lights with you for the tunnel sections."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 22.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Santuario della Madonna della Costa",
+            "hu": "Madonna della Costa szentély",
+            "ro": "Sanctuarul Madonna della Costa",
+            "en": "Sanctuary of Madonna della Costa"
+          },
+          "coords": [
+            7.7712,
+            43.8212
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bequeme Anfahrt den Hügel hinauf.",
+            "hu": "Kényelmes feljutás a dombra autóval.",
+            "ro": "Acces ușor cu mașina pe deal.",
+            "en": "Easy access up the hill by car."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Nobel",
+            "hu": "Villa Nobel",
+            "ro": "Villa Nobel",
+            "en": "Villa Nobel"
+          },
+          "coords": [
+            7.7895,
+            43.8202
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 95,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parkplatz an der Uferstraße suchen.",
+            "hu": "Keressen parkolót a parti úton.",
+            "ro": "Căutați parcare pe drumul de coastă.",
+            "en": "Look for parking on the coastal road."
+          }
+        },
+        {
+          "name": {
+            "de": "Bussana Vecchia (Kirándulás)",
+            "hu": "Bussana Vecchia (Kirándulás)",
+            "ro": "Bussana Vecchia (Excursie)",
+            "en": "Bussana Vecchia (Trip)"
+          },
+          "coords": [
+            7.8285,
+            43.8375
+          ],
+          "category": "region",
+          "arrive_at": "13:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Künstlerdorf in einer Erdbebenruine.",
+            "hu": "Művészfalu egy földrengés sújtotta romvárosban.",
+            "ro": "Satul artiștilor într-o ruină afectată de cutremur.",
+            "en": "Artist village in an earthquake ruin."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino di Sanremo",
+            "hu": "Sanremói Kaszinó",
+            "ro": "Cazinoul din Sanremo",
+            "en": "Casino of Sanremo"
+          },
+          "coords": [
+            7.7725,
+            43.8135
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Parkhaus direkt am Kasino nutzen.",
+            "hu": "Használja a kaszinó melletti parkolóházat.",
+            "ro": "Folosiți parcarea etajată de lângă cazinou.",
+            "en": "Use the parking garage right by the casino."
+          }
+        },
+        {
+          "name": {
+            "de": "Corso dell'Imperatrice",
+            "hu": "Császárnő sétány",
+            "ro": "Corso dell'Imperatrice",
+            "en": "Corso dell'Imperatrice"
+          },
+          "coords": [
+            7.7685,
+            43.8122
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Abschlussspaziergang am Meer.",
+            "hu": "Záró séta a tengerparton.",
+            "ro": "Plimbare finală la malul mării.",
+            "en": "Final walk by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto erlaubt Ihnen, auch die höher gelegenen und entfernteren Schätze zu entdecken. Starten Sie beim Santuario della Madonna della Costa mit bestem Blick. Besuchen Sie die Villa Nobel und fahren Sie dann zum faszinierenden Künstlerdorf Bussana Vecchia, das in den Ruinen eines Erdbebens neu entstanden ist. Am späten Nachmittag kehren Sie ins Zentrum zurück, um das Casino zu besuchen und den Tag am Corso dell'Imperatrice ausklingen zu lassen.",
+        "hu": "Az autó lehetővé teszi a magasabban fekvő és távolabbi kincsek felfedezését is. Kezdjen a Madonna della Costa szentélynél a legjobb kilátással. Látogasson el a Villa Nobelbe, majd hajtson tovább a lenyűgöző Bussana Vecchia művészfaluba, amely egy földrengés romjain született újjá. Késő délután térjen vissza a központba a kaszinóhoz, és zárja a napot a Császárnő sétányon.",
+        "ro": "Mașina vă permite să descoperiți și comorile situate mai sus sau mai departe. Începeți la Sanctuarul Madonna della Costa pentru cea mai bună priveliște. Vizitați Vila Nobel și apoi mergeți spre fascinantul sat al artiștilor Bussana Vecchia, renăscut în ruinele unui cutremur. După-amiaza târziu, întoarceți-vă în centru pentru a vizita Cazinoul și încheiați ziua pe Corso dell'Imperatrice.",
+        "en": "The car allows you to discover the higher and more distant treasures. Start at the Sanctuary of Madonna della Costa with the best view. Visit Villa Nobel and then drive to the fascinating artist village of Bussana Vecchia, reborn in the ruins of an earthquake. In the late afternoon, return to the center to visit the Casino and end the day on the Corso dell'Imperatrice."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasta al Pesto",
+            "tip": "Probieren Sie echtes ligurisches Pesto in Bussana Vecchia."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasta al Pesto",
+            "tip": "Kóstolja meg az igazi ligur pestót Bussana Vecchiában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasta al Pesto",
+            "tip": "Încercați pesto ligurian autentic în Bussana Vecchia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasta al Pesto",
+            "tip": "Try real Ligurian pesto in Bussana Vecchia."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bussana Vecchia Gassen",
+            "tip": "Ruhige, verzauberte Atmosphäre zwischen den Ruinen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bussana Vecchia utcái",
+            "tip": "Csendes, varázslatos hangulat a romok között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Străzile din Bussana Vecchia",
+            "tip": "Atmosferă liniștită și fermecătoare printre ruine.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bussana Vecchia Alleys",
+            "tip": "Quiet, enchanted atmosphere among the ruins.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerkskunst in Bussana",
+            "tip": "Einzigartige Keramik und Gemälde von lokalen Künstlern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves termékek Bussanában",
+            "tip": "Egyedi kerámiák és festmények helyi művészektől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat în Bussana",
+            "tip": "Ceramică și picturi unice de la artiști locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handicrafts in Bussana",
+            "tip": "Unique ceramics and paintings by local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Fahrt nach Bussana Vecchia ist steil und eng.",
+          "In Sanremo sind Parkplätze knapp und teuer.",
+          "Meiden Sie die Hauptverkehrszeiten auf der Aurelia.",
+          "Nutzen Sie Park-and-Ride-Plätze am Stadtrand."
+        ],
+        "hu": [
+          "Az út Bussana Vecchiába meredek és szűk.",
+          "Sanremóban a parkolóhelyek szűkösek és drágák.",
+          "Kerülje a csúcsforgalmat az Aurelia úton.",
+          "Használja a város szélén található P+R parkolókat."
+        ],
+        "ro": [
+          "Drumul spre Bussana Vecchia este abrupt și îngust.",
+          "În Sanremo locurile de parcare sunt puține și scumpe.",
+          "Evitați orele de vârf pe strada Aurelia.",
+          "Folosiți parcările de tip P+R de la marginea orașului."
+        ],
+        "en": [
+          "The drive to Bussana Vecchia is steep and narrow.",
+          "Parking spaces in Sanremo are scarce and expensive.",
+          "Avoid peak traffic times on the Aurelia road.",
+          "Use Park-and-Ride lots on the outskirts of the city."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro Ariston",
+            "hu": "Teatro Ariston",
+            "ro": "Teatro Ariston",
+            "en": "Teatro Ariston"
+          },
+          "coords": [
+            7.7772,
+            43.8162
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für lokale Busse.",
+            "hu": "Helyi buszok központi csomópontja.",
+            "ro": "Nod central pentru autobuzele locale.",
+            "en": "Central hub for local buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Nobel",
+            "hu": "Villa Nobel",
+            "ro": "Villa Nobel",
+            "en": "Villa Nobel"
+          },
+          "coords": [
+            7.7895,
+            43.8202
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bushaltestelle direkt vor dem Park.",
+            "hu": "Buszmegálló közvetlenül a park előtt.",
+            "ro": "Stație de autobuz chiar în fața parcului.",
+            "en": "Bus stop right in front of the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale San Siro",
+            "hu": "San Siro székesegyház",
+            "ro": "Catedrala San Siro",
+            "en": "San Siro Cathedral"
+          },
+          "coords": [
+            7.7745,
+            43.8165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Marktplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a piactértől.",
+            "ro": "Accesibil pe jos din piață.",
+            "en": "Accessible on foot from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino di Sanremo",
+            "hu": "Sanremói Kaszinó",
+            "ro": "Cazinoul din Sanremo",
+            "en": "Casino of Sanremo"
+          },
+          "coords": [
+            7.7725,
+            43.8135
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bushaltestelle in der Nähe der Via Matteotti.",
+            "hu": "Buszmegálló a Via Matteotti közelében.",
+            "ro": "Stație de autobuz lângă Via Matteotti.",
+            "en": "Bus stop near Via Matteotti."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte di Santa Tecla",
+            "hu": "Santa Tecla erőd",
+            "ro": "Fortul Santa Tecla",
+            "en": "Santa Tecla Fort"
+          },
+          "coords": [
+            7.7795,
+            43.8145
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:10",
+          "stay_min": 65,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang zum Hafen.",
+            "hu": "Rövid séta a kikötőig.",
+            "ro": "Scurtă plimbare până în port.",
+            "en": "Short walk to the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sanremo lässt sich gut mit dem Busnetz 'Riviera Trasporti' erkunden. Starten Sie im Zentrum beim Teatro Ariston und fahren Sie nach Osten zur Villa Nobel. Kehren Sie zurück in die Altstadt für einen Besuch der Kathedrale San Siro. Nachmittags führt Sie der Weg zum glitzernden Casino und schließlich zum Hafen zum Forte di Santa Tecla, von wo aus Sie bequem zum Bahnhof oder zu Ihrer Unterkunft zurückkehren können.",
+        "hu": "Sanremo jól felfedezhető a 'Riviera Trasporti' buszhálózattal. Kezdjen a központban a Teatro Aristonnál, majd utazzon keletre a Villa Nobelhez. Térjen vissza az óvárosba a San Siro székesegyházhoz. Délután az útja a csillogó kaszinóhoz vezet, végül pedig a kikötőbe a Santa Tecla erődhöz, ahonnan kényelmesen visszatérhet a vasútállomásra vagy a szállására.",
+        "ro": "Sanremo poate fi explorat ușor cu rețeaua de autobuze 'Riviera Trasporti'. Începeți în centru la Teatro Ariston și mergeți spre est la Vila Nobel. Întoarceți-vă în orașul vechi pentru o vizită la Catedrala San Siro. După-amiaza, drumul vă duce la strălucitorul cazinou și, în cele din urmă, în port la Fortul Santa Tecla, de unde vă puteți întoarce confortabil la gară sau la cazare.",
+        "en": "Sanremo can be easily explored with the 'Riviera Trasporti' bus network. Start in the center at Teatro Ariston and travel east to Villa Nobel. Return to the old town for a visit to the San Siro Cathedral. In the afternoon, your path leads you to the glittering Casino and finally to the harbor to the Santa Tecla Fort, from where you can comfortably return to the train station or your accommodation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Farinata",
+            "tip": "Kichererbsenfladen, ein Muss in Ligurien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farinata",
+            "tip": "Csicseriborsó lepény, elmaradhatatlan Liguriában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Farinata",
+            "tip": "Turtă din făină de năut, un must în Liguria."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farinata",
+            "tip": "Chickpea flatbread, a must in Liguria."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafenpromenade",
+            "tip": "Ruhiger Spaziergang bei den Fischerbooten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői sétány",
+            "tip": "Csendes séta a halászhajók mentén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada portului",
+            "tip": "Plimbare liniștită pe lângă bărcile de pescuit.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Promenade",
+            "tip": "Quiet stroll by the fishing boats.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markthalle",
+            "tip": "Lokaler Käse und Olivenölprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vásárcsarnok",
+            "tip": "Helyi sajtok és olívaolaj-termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hala pieței",
+            "tip": "Brânzeturi locale și produse din ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Hall",
+            "tip": "Local cheese and olive oil products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie den 'Biglietto Giornaliero' (Tageskarte) beim Fahrer oder am Kiosk.",
+          "Die Busse sind im Sommer oft überfüllt, planen Sie Pufferzeit ein.",
+          "Der Bahnhof von Sanremo liegt unterirdisch im Berg.",
+          "Nutzen Sie den Trolleybus entlang der Küste."
+        ],
+        "hu": [
+          "Vásároljon 'Biglietto Giornaliero' (napijegy) jegyet a sofőrnél vagy az újságosnál.",
+          "A buszok nyáron gyakran zsúfoltak, tervezzen be ráhagyást.",
+          "Sanremo vasútállomása a hegy alatt, a föld alatt található.",
+          "Használja a tengerpart menti trolibuszt."
+        ],
+        "ro": [
+          "Cumpărați 'Biglietto Giornaliero' (bilet de o zi) de la șofer sau de la chioșc.",
+          "Autobuzele sunt adesea aglomerate vara, planificați timp suplimentar.",
+          "Gara din Sanremo se află sub pământ, în munte.",
+          "Folosiți troleibuzul de-a lungul coastei."
+        ],
+        "en": [
+          "Buy the 'Biglietto Giornaliero' (day ticket) from the driver or at a kiosk.",
+          "Buses are often crowded in summer; plan for extra time.",
+          "Sanremo train station is located underground in the mountain.",
+          "Use the trolleybus along the coast."
+        ]
+      }
+    }
+  }
+}

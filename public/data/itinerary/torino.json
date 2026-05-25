@@ -1,0 +1,1027 @@
+{
+  "city_id": "torino",
+  "anchor": {
+    "name": "Piazza Castello",
+    "coords": [
+      45.0703,
+      7.6869
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Castello",
+            "hu": "Piazza Castello",
+            "ro": "Piazza Castello",
+            "en": "Piazza Castello"
+          },
+          "coords": [
+            7.6869,
+            45.0708
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Palazzo Madama im Zentrum.",
+            "hu": "Csodálja meg a Palazzo Madama épületét a tér közepén.",
+            "ro": "Admirați Palazzo Madama în centrul pieței.",
+            "en": "Admire Palazzo Madama in the center of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Reale",
+            "hu": "Királyi Palota",
+            "ro": "Palatul Regal",
+            "en": "Royal Palace"
+          },
+          "coords": [
+            7.6861,
+            45.0722
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die königliche Waffenkammer.",
+            "hu": "Látogasson el a királyi fegyvertárba.",
+            "ro": "Vizitați armurăria regală.",
+            "en": "Visit the royal armory inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Torino",
+            "hu": "Torinói Dóm",
+            "ro": "Catedrala din Torino",
+            "en": "Turin Cathedral"
+          },
+          "coords": [
+            7.6854,
+            45.0731
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Hier wird das Grabtuch von Turin aufbewahrt.",
+            "hu": "Itt őrzik a torinói leplet.",
+            "ro": "Aici este păstrat Giulgiul din Torino.",
+            "en": "The Shroud of Turin is kept here."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza San Carlo",
+            "hu": "Piazza San Carlo",
+            "ro": "Piazza San Carlo",
+            "en": "Piazza San Carlo"
+          },
+          "coords": [
+            7.6828,
+            45.0677
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Probieren Sie einen Bicerin in einem der historischen Cafés.",
+            "hu": "Kóstoljon meg egy Bicerint a történelmi kávézók egyikében.",
+            "ro": "Gustați un Bicerin la una dintre cafenelele istorice.",
+            "en": "Try a Bicerin at one of the historic cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Egizio",
+            "hu": "Egyiptomi Múzeum",
+            "ro": "Muzeul Egiptean",
+            "en": "Egyptian Museum"
+          },
+          "coords": [
+            7.6844,
+            45.0684
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zweitgrößte ägyptische Sammlung der Welt.",
+            "hu": "A világ második legnagyobb egyiptomi gyűjteménye.",
+            "ro": "A doua cea mai mare colecție egipteană din lume.",
+            "en": "Second largest Egyptian collection in the world."
+          }
+        },
+        {
+          "name": {
+            "de": "Mole Antonelliana",
+            "hu": "Mole Antonelliana",
+            "ro": "Mole Antonelliana",
+            "en": "Mole Antonelliana"
+          },
+          "coords": [
+            7.6931,
+            45.0689
+          ],
+          "category": "museums",
+          "arrive_at": "17:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Glasaufzug für eine 360-Grad-Aussicht.",
+            "hu": "Használja az üvegliftet a 360 fokos panorámáért.",
+            "ro": "Luați liftul de sticlă pentru o vedere de 360 de grade.",
+            "en": "Take the glass elevator for a 360-degree view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Turin auf der Piazza Castello, umgeben von königlicher Pracht. Besuchen Sie den Palazzo Reale und den Dom, bevor Sie mittags die elegante Piazza San Carlo für eine Kaffeepause ansteuern. Der Nachmittag gehört den Schätzen des Ägyptischen Museums. Den krönenden Abschluss bildet die Mole Antonelliana mit ihrem atemberaubenden Blick über die Stadt und die Alpen.",
+        "hu": "Kezdje a reggelt Torino szívében, a Piazza Castellón, királyi pompával körülvéve. Látogassa meg a Királyi Palotát és a Dómot, majd délben irány az elegáns Piazza San Carlo egy kávészünetre. A délután az Egyiptomi Múzeum kincseié. A napot a Mole Antonelliana koronázza meg, ahonnan lélegzetelállító kilátás nyílik a városra és az Alpokra.",
+        "ro": "Începeți dimineața în inima Torinoului, în Piazza Castello, înconjurați de splendoarea regală. Vizitați Palatul Regal și Catedrala, apoi la prânz mergeți spre eleganta Piazza San Carlo pentru o pauză de cafea. După-amiaza este dedicată comorilor Muzeului Egiptean. Ziua se încheie la Mole Antonelliana, cu o vedere uluitoare asupra orașului și Alpilor.",
+        "en": "Start your morning in the heart of Turin at Piazza Castello, surrounded by royal splendor. Visit the Royal Palace and the Cathedral, then head to the elegant Piazza San Carlo for a coffee break at midday. The afternoon is dedicated to the treasures of the Egyptian Museum. The day concludes at the Mole Antonelliana, offering a breathtaking view over the city and the Alps."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bicerin",
+            "tip": "Traditionelles Getränk aus Espresso, Schokolade und Sahne."
+          },
+          {
+            "name": "Caffè Torino",
+            "tip": "Historisches Café an der Piazza San Carlo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bicerin",
+            "tip": "Hagyományos ital eszpresszóból, csokoládéból és tejszínből."
+          },
+          {
+            "name": "Caffè Torino",
+            "tip": "Történelmi kávéház a Piazza San Carlo téren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bicerin",
+            "tip": "Băutură tradițională din espresso, ciocolată și frișcă."
+          },
+          {
+            "name": "Caffè Torino",
+            "tip": "Cafenea istorică în Piazza San Carlo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bicerin",
+            "tip": "Traditional drink made of espresso, chocolate, and cream."
+          },
+          {
+            "name": "Caffè Torino",
+            "tip": "Historic cafe located in Piazza San Carlo."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Monte dei Cappuccini",
+            "tip": "Bester Aussichtspunkt für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monte dei Cappuccini",
+            "tip": "A legjobb kilátópont naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Monte dei Cappuccini",
+            "tip": "Cel mai bun punct de observație pentru apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monte dei Cappuccini",
+            "tip": "Best viewpoint for sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Roma",
+            "tip": "Luxusmarken und elegante Arkaden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Roma",
+            "tip": "Luxusmárkák és elegáns árkádok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Roma",
+            "tip": "Branduri de lux și arcade elegante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Roma",
+            "tip": "Luxury brands and elegant arcades."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt ist flach und ideal zum Spazierengehen.",
+          "Nutzen Sie die Arkaden bei Regen oder starker Sonne.",
+          "Viele Museen sind montags geschlossen."
+        ],
+        "hu": [
+          "A belváros sík és ideális a sétáláshoz.",
+          "Használja az árkádokat esőben vagy erős napsütésben.",
+          "Sok múzeum hétfőn zárva tart."
+        ],
+        "ro": [
+          "Centrul orașului este plat și ideal pentru plimbări.",
+          "Folosiți arcadele în caz de ploaie sau soare puternic.",
+          "Multe muzee sunt închise lunea."
+        ],
+        "en": [
+          "The city center is flat and ideal for walking.",
+          "Use the arcades during rain or strong sun.",
+          "Many museums are closed on Mondays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parco del Valentino",
+            "hu": "Parco del Valentino",
+            "ro": "Parco del Valentino",
+            "en": "Parco del Valentino"
+          },
+          "coords": [
+            7.6845,
+            45.0552
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang des Po-Ufers.",
+            "hu": "Kerékpározzon a Pó-part mentén.",
+            "ro": "Mergeți cu bicicleta pe malul râului Po.",
+            "en": "Cycle along the banks of the Po river."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Castello",
+            "hu": "Piazza Castello",
+            "ro": "Piazza Castello",
+            "en": "Piazza Castello"
+          },
+          "coords": [
+            7.6869,
+            45.0708
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad sicher ab, um den Platz zu erkunden.",
+            "hu": "Zárja le biztonságosan a biciklit a tér felfedezéséhez.",
+            "ro": "Parcați bicicleta în siguranță pentru a explora piața.",
+            "en": "Park your bike securely to explore the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Mole Antonelliana",
+            "hu": "Mole Antonelliana",
+            "ro": "Mole Antonelliana",
+            "en": "Mole Antonelliana"
+          },
+          "coords": [
+            7.6931,
+            45.0689
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen Turins ist ein Muss.",
+            "hu": "Torino jelképe kötelező látnivaló.",
+            "ro": "Simbolul Torinoului este o destinație obligatorie.",
+            "en": "The landmark of Turin is a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Gran Madre di Dio",
+            "hu": "Gran Madre di Dio",
+            "ro": "Gran Madre di Dio",
+            "en": "Gran Madre di Dio"
+          },
+          "coords": [
+            7.6944,
+            45.0619
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Brücke Vittorio Emanuele I.",
+            "hu": "Keljen át a Vittorio Emanuele I hídon.",
+            "ro": "Traversați podul Vittorio Emanuele I.",
+            "en": "Cross the Vittorio Emanuele I bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte dei Cappuccini",
+            "hu": "Monte dei Cappuccini",
+            "ro": "Monte dei Cappuccini",
+            "en": "Monte dei Cappuccini"
+          },
+          "coords": [
+            7.6974,
+            45.0602
+          ],
+          "category": "landmark",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein steiler Anstieg, aber die Aussicht lohnt sich.",
+            "hu": "Meredek emelkedő, de a kilátás megéri.",
+            "ro": "O urcare abruptă, dar priveliștea merită.",
+            "en": "A steep climb, but the view is worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Turin auf zwei Rädern, beginnend im grünen Parco del Valentino. Radeln Sie am Po entlang zum historischen Zentrum. Nach einem Besuch der Mole Antonelliana überqueren Sie den Fluss zur Kirche Gran Madre und fordern sich mit dem Aufstieg zum Monte dei Cappuccini für das beste Panorama der Stadt heraus.",
+        "hu": "Fedezze fel Torinót két keréken, a zöldellő Parco del Valentinótól indulva. Kerekezzen a Pó partján a történelmi központig. A Mole Antonelliana megtekintése után keljen át a folyón a Gran Madre templomhoz, majd hívja ki magát a Monte dei Cappuccini emelkedőjével a város legjobb panorámájáért.",
+        "ro": "Explorați Torinoul pe două roți, începând din Parcul Valentino. Mergeți cu bicicleta pe malul râului Po până în centrul istoric. După o vizită la Mole Antonelliana, traversați râul spre biserica Gran Madre și provocați-vă cu urcarea la Monte dei Cappuccini pentru cea mai bună panoramă a orașului.",
+        "en": "Explore Turin on two wheels, starting in the lush Parco del Valentino. Cycle along the Po river to the historic center. After visiting the Mole Antonelliana, cross the river to the Gran Madre church and challenge yourself with the climb to Monte dei Cappuccini for the city's best panorama."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tramezzini",
+            "tip": "In Turin erfunden, perfekt für einen schnellen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tramezzini",
+            "tip": "Torinóban találták fel, tökéletes gyors snack."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tramezzini",
+            "tip": "Inventat în Torino, perfect pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tramezzini",
+            "tip": "Invented in Turin, perfect for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco del Valentino",
+            "tip": "Ruhige Wege am Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco del Valentino",
+            "tip": "Csendes utak a folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco del Valentino",
+            "tip": "Trasee liniștite pe malul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco del Valentino",
+            "tip": "Quiet paths along the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Garibaldi",
+            "tip": "Lange Fußgängerzone mit vielen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Garibaldi",
+            "tip": "Hosszú sétálóutca sok üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Garibaldi",
+            "tip": "Zonă pietonală lungă cu multe magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Garibaldi",
+            "tip": "Long pedestrian street with many shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die [TO]Bike-Stationen in der ganzen Stadt.",
+          "Vorsicht auf den Straßenbahnschienen.",
+          "Der Parco del Valentino ist der fahrradfreundlichste Ort."
+        ],
+        "hu": [
+          "Használja a [TO]Bike állomásokat városszerte.",
+          "Vigyázzon a villamossínekre.",
+          "A Parco del Valentino a legbiciklibarátabb hely."
+        ],
+        "ro": [
+          "Folosiți stațiile [TO]Bike din tot orașul.",
+          "Atenție la șinele de tramvai.",
+          "Parcul Valentino este cel mai prietenos loc pentru biciclete."
+        ],
+        "en": [
+          "Use the [TO]Bike sharing stations across the city.",
+          "Be careful with the tram tracks.",
+          "Parco del Valentino is the most bike-friendly spot."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 28.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilica di Superga",
+            "hu": "Superga-bazilika",
+            "ro": "Basilica di Superga",
+            "en": "Basilica di Superga"
+          },
+          "coords": [
+            7.7677,
+            45.0808
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Atemberaubender Blick auf Turin und die Alpen.",
+            "hu": "Lélegzetelállító kilátás Torinóra és az Alpokra.",
+            "ro": "Vedere uluitoare asupra Torinoului și Alpilor.",
+            "en": "Stunning view of Turin and the Alps."
+          }
+        },
+        {
+          "name": {
+            "de": "Mole Antonelliana",
+            "hu": "Mole Antonelliana",
+            "ro": "Mole Antonelliana",
+            "en": "Mole Antonelliana"
+          },
+          "coords": [
+            7.6931,
+            45.0689
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Tiefgarage Piazza Vittorio.",
+            "hu": "Parkoljon a Piazza Vittorio mélygarázsában.",
+            "ro": "Parcați în garajul subteran din Piazza Vittorio.",
+            "en": "Park in the Piazza Vittorio underground garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Egizio",
+            "hu": "Egyiptomi Múzeum",
+            "ro": "Muzeul Egiptean",
+            "en": "Egyptian Museum"
+          },
+          "coords": [
+            7.6844,
+            45.0684
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein kulturelles Muss im Zentrum.",
+            "hu": "Kulturális alapvetés a központban.",
+            "ro": "Un punct cultural esențial în centru.",
+            "en": "A cultural essential in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Nazionale dell'Automobile",
+            "hu": "Autómúzeum",
+            "ro": "Muzeul Național al Automobilului",
+            "en": "National Automobile Museum"
+          },
+          "coords": [
+            7.6744,
+            45.0319
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein Paradies für Autoliebhaber.",
+            "hu": "Az autórajongók paradicsoma.",
+            "ro": "Un paradis pentru iubitorii de mașini.",
+            "en": "A paradise for car lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzina di Stupinigi",
+            "hu": "Stupinigi vadászkastély",
+            "ro": "Palazzina di Stupinigi",
+            "en": "Stupinigi Hunting Palace"
+          },
+          "coords": [
+            7.6054,
+            44.9897
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Ein prächtiges Jagdschloss der Savoyer.",
+            "hu": "A Savoyai-ház pompás vadászkastélya.",
+            "ro": "Un palat de vânătoare magnific al Casei de Savoia.",
+            "en": "A magnificent hunting lodge of the Savoy family."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die Basilika Superga auf dem Hügel für einen Panoramastart. Nach dem Besuch der zentralen Museen fahren Sie nach Süden zum weltberühmten Automobilmuseum. Beenden Sie den Tag etwas außerhalb beim majestätischen Jagdschloss Stupinigi, einem architektonischen Meisterwerk der Region.",
+        "hu": "Autóval elérheti a dombtetőn álló Superga-bazilikát a panorámás kezdéshez. A központi múzeumok látogatása után vezessen délre a világhírű Autómúzeumhoz. A napot a városon kívül fejezze be a fenséges Stupinigi vadászkastélynál, amely a régió építészeti remekműve.",
+        "ro": "Cu mașina, puteți ajunge la Basilica Superga de pe deal pentru un început panoramic. După vizitarea muzeelor centrale, conduceți spre sud către faimosul Muzeu al Automobilului. Încheiați ziua în afara orașului, la majestuosul palat Stupinigi, o capodoperă arhitecturală a regiunii.",
+        "en": "By car, reach the Superga Basilica on the hill for a panoramic start. After visiting the central museums, drive south to the world-famous Automobile Museum. End the day just outside the city at the majestic Stupinigi Hunting Palace, an architectural masterpiece of the region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Agnolotti del Plin",
+            "tip": "Gefüllte Teigtaschen aus dem Piemont."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agnolotti del Plin",
+            "tip": "Töltött tészta Piemontból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Agnolotti del Plin",
+            "tip": "Paste umplute din Piemont."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agnolotti del Plin",
+            "tip": "Stuffed pasta from Piedmont."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Basilica di Superga",
+            "tip": "Ruhe über der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Basilica di Superga",
+            "tip": "Nyugalom a város felett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Basilica di Superga",
+            "tip": "Liniște deasupra orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Basilica di Superga",
+            "tip": "Peace above the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eataly Lingotto",
+            "tip": "Das erste Eataly der Welt, perfekt für Gourmet-Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eataly Lingotto",
+            "tip": "A világ első Eataly-ja, tökéletes gourmet ajándékokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eataly Lingotto",
+            "tip": "Primul Eataly din lume, perfect pentru suveniruri gourmet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eataly Lingotto",
+            "tip": "The world's first Eataly, perfect for gourmet souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie die ZTL-Zonen (verkehrsberuhigt) im Zentrum.",
+          "Parkhäuser im Zentrum sind teuer, aber sicher.",
+          "Die Fahrt nach Superga bietet tolle Ausblicke."
+        ],
+        "hu": [
+          "Kerülje el a belvárosi ZTL zónákat.",
+          "A központi parkolóházak drágák, de biztonságosak.",
+          "A Supergába vezető út nagyszerű kilátást nyújt."
+        ],
+        "ro": [
+          "Evitați zonele ZTL (trafic limitat) din centru.",
+          "Parcările din centru sunt scumpe, dar sigure.",
+          "Drumul spre Superga oferă vederi minunate."
+        ],
+        "en": [
+          "Avoid ZTL (limited traffic) zones in the city center.",
+          "Parking garages in the center are expensive but safe.",
+          "The drive to Superga offers great views."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Egizio",
+            "hu": "Egyiptomi Múzeum",
+            "ro": "Muzeul Egiptean",
+            "en": "Egyptian Museum"
+          },
+          "coords": [
+            7.6844,
+            45.0684
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "In der Nähe der Haltestelle Porta Nuova.",
+            "hu": "A Porta Nuova megálló közelében.",
+            "ro": "Aproape de stația Porta Nuova.",
+            "en": "Near the Porta Nuova stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Castello",
+            "hu": "Piazza Castello",
+            "ro": "Piazza Castello",
+            "en": "Piazza Castello"
+          },
+          "coords": [
+            7.6869,
+            45.0708
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Herzstück des Turiner Verkehrsnetzes.",
+            "hu": "A torinói közlekedési hálózat szíve.",
+            "ro": "Inima rețelei de transport din Torino.",
+            "en": "Heart of the Turin transport network."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco del Valentino",
+            "hu": "Parco del Valentino",
+            "ro": "Parco del Valentino",
+            "en": "Parco del Valentino"
+          },
+          "coords": [
+            7.6845,
+            45.0552
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erreichbar mit der U-Bahn-Linie M1.",
+            "hu": "Az M1-es metróvonallal érhető el.",
+            "ro": "Accesibil cu linia de metrou M1.",
+            "en": "Accessible via the M1 metro line."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Nazionale dell'Automobile",
+            "hu": "Autómúzeum",
+            "ro": "Muzeul Național al Automobilului",
+            "en": "National Automobile Museum"
+          },
+          "coords": [
+            7.6744,
+            45.0319
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Haltestelle Lingotto an der M1.",
+            "hu": "Lingotto megálló az M1-es metrón.",
+            "ro": "Stația Lingotto pe linia M1.",
+            "en": "Lingotto stop on the M1 metro."
+          }
+        },
+        {
+          "name": {
+            "de": "Mole Antonelliana",
+            "hu": "Mole Antonelliana",
+            "ro": "Mole Antonelliana",
+            "en": "Mole Antonelliana"
+          },
+          "coords": [
+            7.6931,
+            45.0689
+          ],
+          "category": "museums",
+          "arrive_at": "16:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Straßenbahnlinien 13 oder 15.",
+            "hu": "Használja a 13-as vagy 15-ös villamost.",
+            "ro": "Folosiți liniile de tramvai 13 sau 15.",
+            "en": "Use tram lines 13 or 15."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Netz aus Bussen, Straßenbahnen und der modernen Metro. Beginnen Sie im Ägyptischen Museum und fahren Sie dann zur Piazza Castello. Am Nachmittag bringt Sie die Metro zum Valentino-Park und weiter nach Lingotto zum Automobilmuseum. Den Abend lassen Sie an der ikonischen Mole Antonelliana ausklingen.",
+        "hu": "Használja a buszok, villamosok és a modern metró hatékony hálózatát. Kezdjen az Egyiptomi Múzeumban, majd utazzon a Piazza Castellóhoz. Délután a metró elviszi a Valentino parkba és tovább Lingottóba az Autómúzeumhoz. Az estét az ikonikus Mole Antonellianánál zárja.",
+        "ro": "Folosiți rețeaua eficientă de autobuze, tramvaie și metroul modern. Începeți la Muzeul Egiptean, apoi mergeți spre Piazza Castello. După-amiaza, metroul vă va duce în parcul Valentino și mai departe la Lingotto pentru Muzeul Automobilului. Încheiați seara la iconica Mole Antonelliana.",
+        "en": "Utilize the efficient network of buses, trams, and the modern metro. Start at the Egyptian Museum and then travel to Piazza Castello. In the afternoon, the metro takes you to Valentino Park and further to Lingotto for the Automobile Museum. End your evening at the iconic Mole Antonelliana."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gianduiotto",
+            "tip": "Haselnussschokolade, die in Turin erfunden wurde."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gianduiotto",
+            "tip": "Mogyorós csokoládé, amelyet Torinóban találtak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gianduiotto",
+            "tip": "Ciocolată cu alune, inventată în Torino."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gianduiotto",
+            "tip": "Hazelnut chocolate invented in Turin."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardino d'Inverno",
+            "tip": "Ruhige Ecke im Valentino-Park.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardino d'Inverno",
+            "tip": "Csendes sarok a Valentino parkban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardino d'Inverno",
+            "tip": "Colț liniștit în parcul Valentino.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardino d'Inverno",
+            "tip": "Quiet corner in Valentino Park.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato di Porta Palazzo",
+            "tip": "Größter Freiluftmarkt Europas."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercato di Porta Palazzo",
+            "tip": "Európa legnagyobb szabadtéri piaca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercato di Porta Palazzo",
+            "tip": "Cea mai mare piață în aer liber din Europa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercato di Porta Palazzo",
+            "tip": "Europe's largest open-air market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket (GTT) für unbegrenzte Fahrten.",
+          "Die M1 ist vollautomatisch und sehr schnell.",
+          "Laden Sie die GTT-App für Echtzeit-Infos herunter."
+        ],
+        "hu": [
+          "Vásároljon napijegyet (GTT) a korlátlan utazáshoz.",
+          "Az M1-es metró teljesen automata és nagyon gyors.",
+          "Töltse le a GTT alkalmazást a valós idejű infókért."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi (GTT) pentru călătorii nelimitate.",
+          "Metroul M1 este complet automatizat și foarte rapid.",
+          "Descărcați aplicația GTT pentru informații în timp real."
+        ],
+        "en": [
+          "Buy a daily ticket (GTT) for unlimited travel.",
+          "The M1 metro is fully automated and very fast.",
+          "Download the GTT app for real-time information."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "city": "Torino",
+    "region": "IT-21",
+    "coords": [
+      7.6869,
+      45.0703
+    ],
+    "transit_official": "https://www.gtt.to.it/",
+    "transit_app": "https://www.muoversiatorino.it/",
+    "bike_share": null,
+    "city_card": "https://abbonamentomusei.it/",
+    "events": "https://www.turismotorino.org/",
+    "tourism_office": "https://www.turismotorino.org/",
+    "webcam": "https://www.skylinewebcams.com/",
+    "restaurants_booking": "https://www.thefork.it/",
+    "museum_tickets": "https://www.museoegizio.it/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Grundlegendes Italienisch reicht, im Zentrum oft Englisch und Französisch verstanden.",
+      "hu": "Alap olasz hasznos, a központban gyakran beszélnek angolul, néha franciául.",
+      "ro": "Italiana de bază e utilă, în centru se vorbește des engleză, uneori franceză.",
+      "en": "Basic Italian helps; English widely understood downtown, French common too."
+    },
+    "best_time": {
+      "de": "April bis Juni und September bis Oktober; im August viele Schließungen.",
+      "hu": "Április-június és szeptember-október ideális, augusztusban sok zárva.",
+      "ro": "Aprilie-iunie și septembrie-octombrie sunt ideale, în august multe închise.",
+      "en": "April-June and September-October are best; many places close in August."
+    },
+    "warnings": {
+      "de": "Taschendiebe an Porta Nuova und in Tram 4, ZTL-Zonen im Zentrum beachten.",
+      "hu": "Zsebtolvajok Porta Nuovánál és a 4-es villamoson, ZTL behajtási zónák.",
+      "ro": "Hoți de buzunare la Porta Nuova și în tramvaiul 4, atenție la zonele ZTL.",
+      "en": "Pickpockets at Porta Nuova and on tram 4; mind ZTL restricted traffic zones."
+    }
+  }
+}

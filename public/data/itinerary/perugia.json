@@ -1,0 +1,1012 @@
+{
+  "city_id": "perugia",
+  "anchor": {
+    "name": "Piazza IV Novembre",
+    "coords": [
+      12.3888,
+      43.1122
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Fontana Maggiore",
+          "coords": [
+            12.3892,
+            43.1124
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die feinen Reliefs der Pisano-Brüder.",
+            "hu": "Nézze meg alaposan a Pisano testvérek finom domborműveit.",
+            "ro": "Observați reliefurile fine ale fraților Pisano.",
+            "en": "Examine the fine reliefs by the Pisano brothers."
+          }
+        },
+        {
+          "name": "Cattedrale di San Lorenzo",
+          "coords": [
+            12.3895,
+            43.1126
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die unvollendete Fassade gibt der Kirche ihren Charakter.",
+            "hu": "A befejezetlen homlokzat adja a templom karakterét.",
+            "ro": "Fațada neterminată conferă bisericii caracterul său.",
+            "en": "The unfinished facade gives the church its character."
+          }
+        },
+        {
+          "name": "Pozzo Etrusco",
+          "coords": [
+            12.3905,
+            43.1128
+          ],
+          "category": "natural features",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein 37 Meter tiefer etruskischer Brunnen.",
+            "hu": "37 méter mély etruszk kút.",
+            "ro": "O fântână etruscă de 37 de metri adâncime.",
+            "en": "A 37-meter deep Etruscan well."
+          }
+        },
+        {
+          "name": "Arco Etrusco",
+          "coords": [
+            12.3895,
+            43.1145
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das beeindruckendste Tor der antiken Stadtmauer.",
+            "hu": "Az ókori városfal legimpozánsabb kapuja.",
+            "ro": "Cea mai impresionantă poartă a zidurilor antice.",
+            "en": "The most impressive gate of the ancient city walls."
+          }
+        },
+        {
+          "name": "Galleria Nazionale dell'Umbria",
+          "coords": [
+            12.389,
+            43.112
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bedeutende Sammlung umbrischer Kunst.",
+            "hu": "Az umbriai művészet legfontosabb gyűjteménye.",
+            "ro": "Cea mai importantă colecție de artă umbriană.",
+            "en": "Significant collection of Umbrian art."
+          }
+        },
+        {
+          "name": "Corso Vannucci",
+          "coords": [
+            12.3885,
+            43.111
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Flaniermeile von Perugia, ideal für einen Aperitif.",
+            "hu": "Perugia korzója, ideális egy aperitifhez.",
+            "ro": "Bulevardul principal din Perugia, ideal pentru un aperitiv.",
+            "en": "Perugia's main promenade, ideal for an aperitif."
+          }
+        },
+        {
+          "name": "Rocca Paolina",
+          "coords": [
+            12.3885,
+            43.1105
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine unterirdische Festungsstadt unter den Straßen.",
+            "hu": "Föld alatti erődváros az utcák alatt.",
+            "ro": "O fortăreață subterană sub străzile orașului.",
+            "en": "An underground fortress city beneath the streets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie das monumentale Zentrum von Perugia zu Fuß. Beginnen Sie am Piazza IV Novembre mit dem berühmten Brunnen und der Kathedrale. Tauchen Sie in die etruskische Vergangenheit am Pozzo und dem monumentalen Bogen ein. Nach dem Besuch der Nationalgalerie flanieren Sie über den Corso Vannucci, bevor Sie in das faszinierende Labyrinth der Rocca Paolina eintauchen, einer unterirdischen Welt aus dem 16. Jahrhundert.",
+        "hu": "Fedezze fel Perugia monumentális központját gyalogosan. Kezdje a Piazza IV Novembre téren a híres kúttal és a katedrálissal. Merüljön el az etruszk múltban a Pozzónál és a monumentális ívnél. A Nemzeti Galéria megtekintése után korzózzon a Corso Vannuccin, majd fedezze fel a Rocca Paolina lenyűgöző labirintusát, amely egy 16. századi föld alatti világ az utcaszint alatt.",
+        "ro": "Explorați centrul monumental al Perugiei la pas. Începeți în Piazza IV Novembre cu fântâna celebră și Catedrala. Descoperiți trecutul etrusc la Pozzo și la arcul monumental. După vizitarea Galeriei Naționale, plimbați-vă pe Corso Vannucci înainte de a intra în labirintul fascinant de la Rocca Paolina, o lume subterană din secolul al XVI-lea.",
+        "en": "Explore the monumental center of Perugia on foot. Start at Piazza IV Novembre with the famous fountain and the Cathedral. Dive into the Etruscan past at the Pozzo and the monumental Arch. After visiting the National Gallery, stroll down Corso Vannucci before entering the fascinating labyrinth of Rocca Paolina, an underground world from the 16th century."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Baci Perugina",
+            "tip": "Die weltberühmten Schokoladenküsse."
+          },
+          {
+            "name": "Torta al Testo",
+            "tip": "Traditionelles Fladenbrot, gefüllt mit Wurst oder Gemüse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baci Perugina",
+            "tip": "A világhírű csokoládés mogyorós csók."
+          },
+          {
+            "name": "Torta al Testo",
+            "tip": "Hagyományos lepénykenyér, kolbásszal vagy zöldséggel töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baci Perugina",
+            "tip": "Faimoasele bomboane de ciocolată cu alune."
+          },
+          {
+            "name": "Torta al Testo",
+            "tip": "Lipie tradițională umplută cu cârnați sau legume."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baci Perugina",
+            "tip": "The world-famous hazelnut chocolates."
+          },
+          {
+            "name": "Torta al Testo",
+            "tip": "Traditional flatbread filled with sausage or vegetables."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardini Carducci",
+            "tip": "Panoramablick über das umbrische Tal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "San Bernardino",
+            "tip": "Wunderschönes Oratorium mit polychromer Fassade.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardini Carducci",
+            "tip": "Panorámás kilátás az umbriai völgyre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "San Bernardino",
+            "tip": "Gyönyörű oratórium színes homlokzattal.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardini Carducci",
+            "tip": "Vedere panoramică asupra văii umbriene.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "San Bernardino",
+            "tip": "Oratoriu superb cu fațadă policromă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardini Carducci",
+            "tip": "Panoramic view over the Umbrian valley.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "San Bernardino",
+            "tip": "Beautiful oratory with a polychrome facade.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sandri dal 1860",
+            "tip": "Historische Konditorei mit herrlicher Auslage."
+          },
+          {
+            "name": "Perugina Schokoladenladen",
+            "tip": "Ideal für Souvenirs in der Nähe des Corso."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sandri dal 1860",
+            "tip": "Történelmi cukrászda lenyűgöző kirakattal."
+          },
+          {
+            "name": "Perugina csokoládébolt",
+            "tip": "Ideális szuvenírekhez a Corso közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandri dal 1860",
+            "tip": "Cofetărie istorică cu o vitrină superbă."
+          },
+          {
+            "name": "Magazinul de ciocolată Perugina",
+            "tip": "Ideal pentru suveniruri lângă Corso."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sandri dal 1860",
+            "tip": "Historic pastry shop with a magnificent display."
+          },
+          {
+            "name": "Perugina Chocolate Shop",
+            "tip": "Ideal for souvenirs near the Corso."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Minimetrò, um vom Parkplatz ins Zentrum zu gelangen.",
+          "Besuchen Sie Perugia im Oktober während der 'Eurochocolate'.",
+          "Der Corso Vannucci ist am späten Nachmittag am lebhaftesten.",
+          "Die Rocca Paolina ist mit Rolltreppen durchzogen und dient als Abkürzung."
+        ],
+        "hu": [
+          "Használja a Minimetròt a parkolóból a központba jutáshoz.",
+          "Látogasson el Perugiába októberben az 'Eurochocolate' idején.",
+          "A Corso Vannucci késő délután a legélénkebb.",
+          "A Rocca Paolina mozgólépcsőkkel van átszőve, és lerövidíti az utat."
+        ],
+        "ro": [
+          "Folosiți Minimetrò pentru a ajunge din parcare în centru.",
+          "Vizitați Perugia în octombrie în timpul festivalului 'Eurochocolate'.",
+          "Corso Vannucci este cel mai animat după-amiaza târziu.",
+          "Rocca Paolina este străbătută de scări rulante și servește ca scurtătură."
+        ],
+        "en": [
+          "Use the Minimetrò to get from the parking lot to the center.",
+          "Visit Perugia in October during 'Eurochocolate'.",
+          "Corso Vannucci is liveliest in the late afternoon.",
+          "Rocca Paolina is crisscrossed with escalators and serves as a shortcut."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Fontana Maggiore",
+          "coords": [
+            12.3892,
+            43.1124
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "Központi kiindulópont.",
+            "ro": "Punct de plecare în centru.",
+            "en": "Starting point in the center."
+          }
+        },
+        {
+          "name": "Oratorio di San Bernardino",
+          "coords": [
+            12.383,
+            43.111
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Meisterwerk der Renaissance-Fassade.",
+            "hu": "Reneszánsz homlokzati mestermű.",
+            "ro": "Capodoperă a fațadei renascentiste.",
+            "en": "Masterpiece of Renaissance facade art."
+          }
+        },
+        {
+          "name": "Arco Etrusco",
+          "coords": [
+            12.3895,
+            43.1145
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tor zur etruskischen Stadt.",
+            "hu": "Kapu az etruszk városba.",
+            "ro": "Poartă către orașul etrusc.",
+            "en": "Gate to the Etruscan city."
+          }
+        },
+        {
+          "name": "Basilica di San Domenico",
+          "coords": [
+            12.391,
+            43.106
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Grab von Papst Benedikt XI.",
+            "hu": "Látogassa meg XI. Benedek pápa sírját.",
+            "ro": "Vizitați mormântul Papei Benedict al XI-lea.",
+            "en": "Visit the tomb of Pope Benedict XI."
+          }
+        },
+        {
+          "name": "Corso Vannucci",
+          "coords": [
+            12.3885,
+            43.111
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Pause für ein Mittagessen.",
+            "hu": "Ebédszünet.",
+            "ro": "Pauză de prânz.",
+            "en": "Break for lunch."
+          }
+        },
+        {
+          "name": "Galleria Nazionale",
+          "coords": [
+            12.389,
+            43.112
+          ],
+          "category": "museums",
+          "arrive_at": "14:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schneller Blick auf die Highlights.",
+            "hu": "Gyors betekintés a legfontosabb művekbe.",
+            "ro": "Vedere rapidă a punctelor de interes.",
+            "en": "Quick look at the highlights."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Perugia mit dem Rad zu erkunden erfordert Kondition, bietet aber weite Perspektiven. Vom Zentrum aus fahren Sie zum kunstvollen Oratorium und dann hinunter zur Basilika San Domenico. Eine Tour, die das spirituelle und künstlerische Erbe der Stadt verbindet.",
+        "hu": "Perugia felfedezése kerékpárral edzettséget igényel, de tágas távlatokat nyit. A központból indulva tekerjen a művészi oratóriumhoz, majd le a San Domenico bazilikához. Egy túra, amely ötvözi a város spirituális és művészeti örökségét.",
+        "ro": "Explorarea Perugiei cu bicicleta necesită condiție fizică, dar oferă perspective largi. Din centru, pedalați spre oratoriul artistic și apoi spre Bazilica San Domenico. Un tur care îmbină moștenirea spirituală și artistică a orașului.",
+        "en": "Exploring Perugia by bike requires stamina but offers broad perspectives. From the center, cycle to the artistic oratory and then down to the Basilica of San Domenico. A tour that combines the city's spiritual and artistic heritage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Porchetta",
+            "tip": "Würziges Spanferkel im Brötchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Porchetta",
+            "tip": "Fűszeres sült malachús zsemlében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Porchetta",
+            "tip": "Purcel de lapte fript cu ierburi în chiflă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Porchetta",
+            "tip": "Spiced roasted pork in a bun."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tempio di Sant'Angelo",
+            "tip": "Runde frühchristliche Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sant'Angelo templom",
+            "tip": "Kerek kora keresztény templom.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Templul Sant'Angelo",
+            "tip": "Biserică circulară paleocreștină.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Temple of Sant'Angelo",
+            "tip": "Round early Christian church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Deruta Keramik",
+            "tip": "In den Läden der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Deruta kerámia",
+            "tip": "Az óvárosi boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică de Deruta",
+            "tip": "În magazinele din centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Deruta Ceramics",
+            "tip": "In the shops of the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "E-Bikes sind aufgrund der Höhenunterschiede ein Muss.",
+          "Nutzen Sie die Nebenstraßen, um dem Verkehr zu entgehen."
+        ],
+        "hu": [
+          "Az e-bike elengedhetetlen a szintkülönbségek miatt.",
+          "Használja a mellékutcákat a forgalom elkerülése érdekében."
+        ],
+        "ro": [
+          "E-bike-urile sunt esențiale din cauza diferențelor de nivel.",
+          "Folosiți străzile secundare pentru a evita traficul."
+        ],
+        "en": [
+          "E-bikes are a must due to the altitude differences.",
+          "Use side streets to avoid traffic."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Pozzo Etrusco",
+          "coords": [
+            12.3905,
+            43.1128
+          ],
+          "category": "natural features",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Piazza Partigiani.",
+            "hu": "Parkoljon a Piazza Partigiani téren.",
+            "ro": "Parcați în Piazza Partigiani.",
+            "en": "Park at Piazza Partigiani."
+          }
+        },
+        {
+          "name": "Arco Etrusco",
+          "coords": [
+            12.3895,
+            43.1145
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Gut sichtbar von der Straße.",
+            "hu": "Jól látható az útról.",
+            "ro": "Bine vizibil de pe stradă.",
+            "en": "Well visible from the road."
+          }
+        },
+        {
+          "name": "Palazzo dei Priori",
+          "coords": [
+            12.389,
+            43.112
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Einer der schönsten Kommunalpaläste Italiens.",
+            "hu": "Olaszország egyik legszebb középkori városházája.",
+            "ro": "Unul dintre cele mai frumoase palate comunale din Italia.",
+            "en": "One of Italy's finest communal palaces."
+          }
+        },
+        {
+          "name": "Basilica di San Domenico",
+          "coords": [
+            12.391,
+            43.106
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beeindruckende Glasfenster.",
+            "hu": "Lenyűgöző üvegablakok.",
+            "ro": "Vitralii impresionante.",
+            "en": "Impressive stained glass windows."
+          }
+        },
+        {
+          "name": "Ipogeo dei Volumni",
+          "coords": [
+            12.42,
+            43.09
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Etruskische Grabanlage am Stadtrand.",
+            "hu": "Etruszk síremlék a város szélén.",
+            "ro": "Mormânt etrusc la marginea orașului.",
+            "en": "Etruscan tomb on the outskirts."
+          }
+        },
+        {
+          "name": "Corso Vannucci",
+          "coords": [
+            12.3885,
+            43.111
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Abendspaziergang zum Abschluss.",
+            "hu": "Záró esti séta.",
+            "ro": "Plimbare de seară la final.",
+            "en": "Closing evening stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die Schätze in und um Perugia. Nach den Highlights der Altstadt fahren Sie zum Ipogeo dei Volumni, einer faszinierenden etruskischen Grabanlage. Beachten Sie die Parkmöglichkeiten am Rande der ZTL-Zone für einen stressfreien Besuch.",
+        "hu": "Autóval kényelmesen elérheti Perugia belvárosi és környékbeli kincseit. Az óváros fénypontjai után hajtson az Ipogeo dei Volumnihoz, egy lenyűgöző etruszk síremlékhez. A stresszmentes látogatás érdekében parkoljon a ZTL zóna határán.",
+        "ro": "Cu mașina puteți ajunge ușor la comorile din Perugia și din împrejurimi. După punctele de interes din centru, mergeți la Ipogeo dei Volumni, un mormânt etrusc fascinant. Parcați la marginea zonei ZTL pentru o vizită fără stres.",
+        "en": "By car, you can easily reach the treasures in and around Perugia. After the highlights of the old town, drive to the Ipogeo dei Volumni, a fascinating Etruscan tomb. Park at the edge of the ZTL zone for a stress-free visit."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wildschwein-Ragout",
+            "tip": "Herzhafte Pasta-Sauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vaddisznó ragu",
+            "tip": "Kiadós tésztaszósz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ragù de mistreț",
+            "tip": "Sos consistent pentru paste."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wild Boar Ragù",
+            "tip": "Hearty pasta sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Monte Tezio",
+            "tip": "Wandern mit Blick auf den Trasimener See.",
+            "emoji": "⛰️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monte Tezio",
+            "tip": "Túrázás kilátással a Trasimeno-tóra.",
+            "emoji": "⛰️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Monte Tezio",
+            "tip": "Drumeție cu vedere la Lacul Trasimeno.",
+            "emoji": "⛰️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monte Tezio",
+            "tip": "Hiking with views of Lake Trasimeno.",
+            "emoji": "⛰️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cashmere",
+            "tip": "Umbrien ist berühmt für hochwertige Strickwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kasmír",
+            "tip": "Umbria híres a kiváló minőségű kötöttáruiról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cașmir",
+            "tip": "Umbria este faimoasă pentru tricotajele de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cashmere",
+            "tip": "Umbria is famous for high-quality knitwear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkhäuser Mercato Coperto oder Piazza Partigiani.",
+          "Das Zentrum ist für Nicht-Anwohner gesperrt (ZTL)."
+        ],
+        "hu": [
+          "Használja a Mercato Coperto vagy a Piazza Partigiani parkolóházakat.",
+          "A központ zárva van a nem helyi lakosok előtt (ZTL)."
+        ],
+        "ro": [
+          "Folosiți parcările Mercato Coperto sau Piazza Partigiani.",
+          "Centrul este închis pentru ne-rezidenți (ZTL)."
+        ],
+        "en": [
+          "Use the Mercato Coperto or Piazza Partigiani parking garages.",
+          "The center is closed to non-residents (ZTL)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Corso Vannucci",
+          "coords": [
+            12.3885,
+            43.111
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Endstation der Minimetrò (Pincetto).",
+            "hu": "A Minimetrò végállomása (Pincetto).",
+            "ro": "Capătul liniei de Minimetrò (Pincetto).",
+            "en": "End station of the Minimetrò (Pincetto)."
+          }
+        },
+        {
+          "name": "Palazzo dei Priori",
+          "coords": [
+            12.389,
+            43.112
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die gotischen Säle.",
+            "hu": "Látogassa meg a gótikus termeket.",
+            "ro": "Vizitați sălile gotice.",
+            "en": "Visit the Gothic halls."
+          }
+        },
+        {
+          "name": "Galleria Nazionale dell'Umbria",
+          "coords": [
+            12.389,
+            43.112
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Im obersten Stock des Palazzo Priori.",
+            "hu": "A Palazzo Priori felső emeletén.",
+            "ro": "La ultimul etaj al Palazzo Priori.",
+            "en": "On the top floor of Palazzo Priori."
+          }
+        },
+        {
+          "name": "Fontana Maggiore",
+          "coords": [
+            12.3892,
+            43.1124
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Symbol der Stadt.",
+            "hu": "A város jelképe.",
+            "ro": "Simbolul orașului.",
+            "en": "Symbol of the city."
+          }
+        },
+        {
+          "name": "Rocca Paolina",
+          "coords": [
+            12.3885,
+            43.1105
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verbindet das Stadtzentrum mit der Minimetrò.",
+            "hu": "Összeköti a belvárost a Minimetròval.",
+            "ro": "Face legătura între centru și Minimetrò.",
+            "en": "Connects the city center with the Minimetrò."
+          }
+        },
+        {
+          "name": "San Bernardino",
+          "coords": [
+            12.383,
+            43.111
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ruhiger Abschluss im Westen.",
+            "hu": "Csendes zárás nyugaton.",
+            "ro": "Final liniștit în partea de vest.",
+            "en": "Quiet end on the west side."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Highlight des Transports in Perugia ist die Minimetrò, eine fahrerlose Kabinenbahn. Sie bringt Sie mühelos vom Tal ins historische Pincetto. Nutzen Sie die Rolltreppen durch die Rocca Paolina, um die verschiedenen Ebenen der Stadt zu erkunden, ohne steile Treppen steigen zu müssen.",
+        "hu": "Perugia közlekedésének fénypontja a Minimetrò, egy vezető nélküli kabinos vasút. Ez könnyedén viszi fel a völgyből a történelmi Pincettóba. Használja a Rocca Paolina mozgólépcsőit a város különböző szintjeinek felfedezéséhez, meredek lépcsőzés nélkül.",
+        "ro": "Punctul forte al transportului în Perugia este Minimetrò, un trenuleț fără conductor. Acesta vă duce fără efort din vale până în Pincetto-ul istoric. Folosiți scările rulante prin Rocca Paolina pentru a explora diversele niveluri ale orașului fără a urca trepte abrupte.",
+        "en": "The highlight of transport in Perugia is the Minimetrò, a driverless cabin railway. It effortlessly takes you from the valley to the historical Pincetto. Use the escalators through Rocca Paolina to explore the different levels of the city without climbing steep stairs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chocolate Martini",
+            "tip": "Ein moderner Klassiker in Perugia."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csokoládé Martini",
+            "tip": "Modern klasszikus Perugiában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chocolate Martini",
+            "tip": "Un clasic modern în Perugia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chocolate Martini",
+            "tip": "A modern classic in Perugia."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Pietro",
+            "tip": "Abteikirche mit wunderschönem Garten.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Pietro",
+            "tip": "Apátsági templom gyönyörű kerttel.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "San Pietro",
+            "tip": "Biserică abațială cu grădină superbă.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Pietro",
+            "tip": "Abbey church with a beautiful garden.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Umbria Jazz Souvenirs",
+            "tip": "Wenn Sie während des Festivals dort sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Umbria Jazz szuvenírek",
+            "tip": "Ha a fesztivál idején látogat el."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri Umbria Jazz",
+            "tip": "Dacă sunteți acolo în timpul festivalului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Umbria Jazz Souvenirs",
+            "tip": "If you are there during the festival."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Einzelticket gilt für 70 Minuten im gesamten Verkehrsnetz.",
+          "Die Minimetrò fährt alle paar Minuten."
+        ],
+        "hu": [
+          "Egy vonaljegy 70 percig érvényes a teljes hálózaton.",
+          "A Minimetrò néhány percenként közlekedik."
+        ],
+        "ro": [
+          "Un bilet simplu este valabil 70 de minute în întreaga rețea.",
+          "Minimetrò circulă la intervale de câteva minute."
+        ],
+        "en": [
+          "A single ticket is valid for 70 minutes across the network.",
+          "The Minimetrò runs every few minutes."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Perugia",
+    "iso": "IT-55",
+    "tourism_site": "https://www.bellaumbria.net/en/perugia/",
+    "wikipedia": {
+      "de": "https://de.wikipedia.org/wiki/Perugia",
+      "hu": "https://hu.wikipedia.org/wiki/Perugia",
+      "ro": "https://ro.wikipedia.org/wiki/Perugia",
+      "en": "https://en.wikipedia.org/wiki/Perugia"
+    },
+    "wikivoyage": {
+      "de": "https://de.wikivoyage.org/wiki/Perugia",
+      "hu": "https://hu.wikivoyage.org/wiki/Perugia",
+      "ro": "https://ro.wikivoyage.org/wiki/Perugia",
+      "en": "https://en.wikivoyage.org/wiki/Perugia"
+    },
+    "unesco": null,
+    "osm": "https://www.openstreetmap.org/relation/40897",
+    "wikidata": "https://www.wikidata.org/wiki/Q13114",
+    "geonames": "https://www.geonames.org/3171457/perugia.html",
+    "google_maps": "https://www.google.com/maps/place/Perugia,+PG,+Italy",
+    "weather": "https://www.ilmeteo.it/meteo/Perugia",
+    "tourism_office": "https://www.comune.perugia.it/",
+    "transit_official": "https://www.buseitalia.it/",
+    "events": "https://www.comune.perugia.it/feed/"
+  }
+}

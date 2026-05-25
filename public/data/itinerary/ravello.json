@@ -1,0 +1,1050 @@
+{
+  "city_id": "ravello",
+  "anchor": {
+    "name": "Ravello",
+    "coords": [
+      14.6122,
+      40.6494
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Centrale",
+            "hu": "Piazza Centrale",
+            "ro": "Piazza Centrale",
+            "en": "Piazza Centrale"
+          },
+          "coords": [
+            14.6115,
+            40.6488
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Espresso in der Bar Klingsor.",
+            "hu": "Igyon egy eszpresszót a Bar Klingsor teraszán.",
+            "ro": "Savurați un espresso la Bar Klingsor.",
+            "en": "Enjoy an espresso at Bar Klingsor."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Ravello",
+            "hu": "Ravellói Dóm",
+            "ro": "Domul din Ravello",
+            "en": "Duomo di Ravello"
+          },
+          "coords": [
+            14.6118,
+            40.6491
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die berühmte Kanzel mit den sechs Löwen.",
+            "hu": "Csodálja meg a híres, hat oroszlán által tartott szószéket.",
+            "ro": "Admirați amvonul susținut de cei șase lei.",
+            "en": "Admire the famous pulpit supported by six lions."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Rufolo",
+            "hu": "Villa Rufolo",
+            "ro": "Villa Rufolo",
+            "en": "Villa Rufolo"
+          },
+          "coords": [
+            14.6122,
+            40.6485
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dies ist der Garten, der Wagner zu Parsifal inspirierte.",
+            "hu": "Ez a kert ihlette Wagnert a Parsifal megírásakor.",
+            "ro": "Aceasta este grădina care l-a inspirat pe Wagner pentru Parsifal.",
+            "en": "This is the garden that inspired Wagner for Parsifal."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Corallo",
+            "hu": "Korallmúzeum",
+            "ro": "Muzeul Coraliului",
+            "en": "Coral Museum"
+          },
+          "coords": [
+            14.6105,
+            40.6482
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die filigrane Handwerkskunst der Amalfiküste.",
+            "hu": "Fedezze fel az Amalfi-part finom kézműves remekeit.",
+            "ro": "Descoperiți măiestria artizanatului de pe Coasta Amalfi.",
+            "en": "Discover the delicate craftsmanship of the Amalfi Coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Cimbrone",
+            "hu": "Villa Cimbrone",
+            "ro": "Villa Cimbrone",
+            "en": "Villa Cimbrone"
+          },
+          "coords": [
+            14.611,
+            40.6435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die Terrasse der Unendlichkeit bietet den besten Blick Italiens.",
+            "hu": "A Végtelenség terasza kínálja Olaszország legszebb kilátását.",
+            "ro": "Terasa Infinitului oferă cea mai frumoasă priveliște din Italia.",
+            "en": "The Terrace of Infinity offers Italy's most beautiful view."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorium Oscar Niemeyer",
+            "hu": "Oscar Niemeyer Auditórium",
+            "ro": "Auditoriul Oscar Niemeyer",
+            "en": "Auditorium Oscar Niemeyer"
+          },
+          "coords": [
+            14.6085,
+            40.648
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein modernes Meisterwerk im Kontrast zum historischen Kern.",
+            "hu": "Modern remekmű, amely kontrasztban áll a történelmi városmaggal.",
+            "ro": "O capodoperă modernă în contrast cu centrul istoric.",
+            "en": "A modern masterpiece contrasting with the historic core."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag beginnt auf der Piazza Centrale, wo das Leben Ravellos sanft erwacht. Besuchen Sie den Dom und tauchen Sie in die üppigen Gärten der Villa Rufolo ein.\n\nMittags schlendern Sie durch die Gassen zum Korallenmuseum und probieren lokale Köstlichkeiten mit Blick auf das Blau.\n\nDer Nachmittag gehört dem Garten der Villa Cimbrone. Der Spaziergang dorthin führt durch ruhige, blumengesäumte Wege bis zur spektakulären Terrasse.\n\nZum Ausklang bewundern Sie das futuristische Auditorium von Oscar Niemeyer, bevor Sie den Abend bei einem Limoncello auf dem Hauptplatz beenden.",
+        "hu": "A délelőtt a Piazza Centrale-n indul, ahol Ravello élete lassan ébredezni kezd. Látogasson el a dómba, majd merüljön el a Villa Rufolo buja kertjeiben.\n\nDélben sétáljon végig a szűk utcákon a Korallmúzeumig, és kóstoljon helyi finomságokat a tengerparti panoráma mellett.\n\nA délutánt a Villa Cimbrone kertjének szenteljük. A séta csendes, virágos ösvényeken vezet a látványos Végtelenség teraszáig.\n\nZárásként csodálja meg Oscar Niemeyer futurisztikus auditóriumát, majd fejezze be az estét egy pohár limoncello-val a főtéren.",
+        "ro": "Dimineața începe în Piazza Centrale, unde viața din Ravello se trezește lent. Vizitați Domul și apoi explorați grădinile luxuriante de la Villa Rufolo.\n\nLa prânz, plimbați-vă pe străduțele înguste până la Muzeul Coraliului și gustați delicatese locale cu vedere la albastrul mării.\n\nDupă-amiaza este dedicată grădinilor Villa Cimbrone. Plimbarea până acolo trece prin poteci liniștite și înflorite până la spectaculoasa Terasă a Infinitului.\n\nÎn final, admirați auditoriul futurist al lui Oscar Niemeyer, înainte de a încheia seara cu un limoncello în piața principală.",
+        "en": "The morning begins in Piazza Centrale, where Ravello's life gently awakens. Visit the Cathedral and then immerse yourself in the lush gardens of Villa Rufolo.\n\nAt midday, stroll through the narrow streets to the Coral Museum and taste local delicacies overlooking the blue sea.\n\nThe afternoon belongs to the gardens of Villa Cimbrone. The walk there leads through quiet, flower-lined paths to the spectacular Terrace of Infinity.\n\nTo conclude, admire Oscar Niemeyer's futuristic auditorium before ending the evening with a limoncello in the main square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ravioli alla Ravellese",
+            "tip": "Probieren Sie diese im Restaurant Vittoria."
+          },
+          {
+            "name": "Limoncello di Ravello",
+            "tip": "Frisch zubereitet aus lokalen Amalfi-Zitronen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ravioli alla Ravellese",
+            "tip": "Kóstolja meg a Vittoria étteremben."
+          },
+          {
+            "name": "Ravellói Limoncello",
+            "tip": "Helyi Amalfi citromból készítve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ravioli alla Ravellese",
+            "tip": "Încercați-le la restaurantul Vittoria."
+          },
+          {
+            "name": "Limoncello de Ravello",
+            "tip": "Preparat proaspăt din lămâi locale de Amalfi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ravioli alla Ravellese",
+            "tip": "Try them at Restaurant Vittoria."
+          },
+          {
+            "name": "Ravello Limoncello",
+            "tip": "Freshly made from local Amalfi lemons."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardini della Principessa di Piemonte",
+            "tip": "Ein kleiner, ruhiger Park mit tollem Ausblick.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Terrazza dell'Infinito",
+            "tip": "Besonders am späten Nachmittag magisch.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardini della Principessa di Piemonte",
+            "tip": "Kicsi, csendes park lenyűgöző kilátással.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Végtelenség terasza",
+            "tip": "Késő délután különösen varázslatos.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardini della Principessa di Piemonte",
+            "tip": "Un parc mic și liniștit cu o priveliște superbă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Terrazza dell'Infinito",
+            "tip": "Magic mai ales la lăsarea serii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardini della Principessa di Piemonte",
+            "tip": "A small, quiet park with great views.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Terrace of Infinity",
+            "tip": "Magical especially in the late afternoon.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ceramiche d'Arte",
+            "tip": "Handbemalte Keramik aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ceramiche d'Arte",
+            "tip": "Kézzel festett helyi kerámiák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramiche d'Arte",
+            "tip": "Ceramică pictată manual din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramiche d'Arte",
+            "tip": "Hand-painted local ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ravello ist eine Stadt der Treppen, tragen Sie bequeme Schuhe.",
+          "Die Gärten schließen oft bei Sonnenuntergang, prüfen Sie die Zeiten.",
+          "Reservieren Sie im Voraus für das Abendessen.",
+          "Nutzen Sie den SITA-Bus für die Anreise aus Amalfi."
+        ],
+        "hu": [
+          "Ravello a lépcsők városa, viseljen kényelmes cipőt.",
+          "A kertek gyakran naplementekor zárnak, ellenőrizze az időpontokat.",
+          "Foglaljon asztalt előre a vacsorához.",
+          "Használja a SITA buszt Amalfi felől."
+        ],
+        "ro": [
+          "Ravello este un oraș al scărilor, purtați pantofi confortabili.",
+          "Grădinile se închid adesea la apus, verificați programul.",
+          "Rezervați din timp masa pentru cină.",
+          "Folosiți autobuzul SITA pentru a veni din Amalfi."
+        ],
+        "en": [
+          "Ravello is a city of stairs, wear comfortable shoes.",
+          "Gardens often close at sunset, check the times.",
+          "Book your dinner table in advance.",
+          "Use the SITA bus for travel from Amalfi."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre dello Ziro",
+            "hu": "Torre dello Ziro",
+            "ro": "Torre dello Ziro",
+            "en": "Torre dello Ziro"
+          },
+          "coords": [
+            14.605,
+            40.64
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein steiler Anstieg, aber die Aussicht auf Amalfi ist unschlagbar.",
+            "hu": "Meredek emelkedő, de az Amalfira nyíló kilátás verhetetlen.",
+            "ro": "Urcuș abrupt, dar vederea spre Amalfi este imbatabilă.",
+            "en": "Steep climb, but the view of Amalfi is unbeatable."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Confalone",
+            "hu": "Palazzo Confalone",
+            "ro": "Palazzo Confalone",
+            "en": "Palazzo Confalone"
+          },
+          "coords": [
+            14.613,
+            40.6495
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur.",
+            "hu": "Csodálja meg a középkori építészetet.",
+            "ro": "Admirați arhitectura medievală.",
+            "en": "Admire the medieval architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giovanni del Toro",
+            "hu": "San Giovanni del Toro templom",
+            "ro": "Biserica San Giovanni del Toro",
+            "en": "Chiesa di San Giovanni del Toro"
+          },
+          "coords": [
+            14.611,
+            40.6505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Berühmt für sein Kanzelmosaik.",
+            "hu": "Híres a szószék mozaikjáról.",
+            "ro": "Faimoasă pentru mozaicul de pe amvon.",
+            "en": "Famous for its pulpit mosaic."
+          }
+        },
+        {
+          "name": {
+            "de": "Monastero di Santa Chiara",
+            "hu": "Santa Chiara kolostor",
+            "ro": "Mănăstirea Santa Chiara",
+            "en": "Monastery of Santa Chiara"
+          },
+          "coords": [
+            14.6125,
+            40.6445
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein Ort der Stille und Reflexion.",
+            "hu": "A csend és az elmélyülés helye.",
+            "ro": "Un loc de liniște și reflexie.",
+            "en": "A place of silence and reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Centrale",
+            "hu": "Piazza Centrale",
+            "ro": "Piazza Centrale",
+            "en": "Piazza Centrale"
+          },
+          "coords": [
+            14.6115,
+            40.6488
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich ein Eis nach der Fahrt.",
+            "hu": "Egyen egy fagyit a tekerés után.",
+            "ro": "Savurați o înghețată după plimbare.",
+            "en": "Enjoy a gelato after the ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour ist herausfordernd, führt Sie aber zu den verborgenen Schätzen Ravellos. Wir beginnen mit dem Aufstieg zum Torre dello Ziro.\n\nZurück im Ort besuchen wir den geschichtsträchtigen Palazzo Confalone und die Kirche San Giovanni.\n\nDer Nachmittag führt uns zum ruhigen Kloster Santa Chiara, weit weg vom Trubel der Tagestouristen.\n\nWir beenden den Tag entspannt auf dem Hauptplatz, während das goldene Licht die Felsen der Küste bestrahlt.",
+        "hu": "Ez a kerékpártúra kihívást jelent, de elvezeti Ravello rejtett kincseihez. A Torre dello Ziro toronyhoz való felkapaszkodással kezdünk.\n\nVisszatérve a városba meglátogatjuk a történelmi Palazzo Confalone-t és a San Giovanni templomot.\n\nA délután a csendes Santa Chiara kolostorhoz vezet, távol a napi turisták tömegétől.\n\nA napot pihentetően a főtéren fejezzük be, miközben az aranyfény megvilágítja a part menti sziklákat.",
+        "ro": "Acest tur cu bicicleta este provocator, dar vă duce la comorile ascunse ale Ravello. Începem cu urcarea la Torre dello Ziro.\n\nReveniți în oraș, vizităm Palazzo Confalone, plin de istorie, și biserica San Giovanni.\n\nDupă-amiaza ne conduce la liniștita mănăstire Santa Chiara, departe de agitația turiștilor de zi.\n\nÎncheiem ziua relaxați în piața principală, în timp ce lumina aurie luminează stâncile coastei.",
+        "en": "This bike tour is challenging but leads you to Ravello's hidden gems. We start with the climb to Torre dello Ziro tower.\n\nBack in town, we visit the historic Palazzo Confalone and the church of San Giovanni.\n\nThe afternoon leads us to the quiet Monastery of Santa Chiara, far from the crowds of day tourists.\n\nWe end the day relaxed in the main square as the golden light illuminates the coastal rocks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lemon Sorbet",
+            "tip": "Serviert in einer echten Zitrone."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citromszorbé",
+            "tip": "Igazi citromban tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sorbet de lămâie",
+            "tip": "Servit într-o lămâie adevărată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lemon Sorbet",
+            "tip": "Served inside a real lemon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Scala Weg",
+            "tip": "Ruhiger Weg zwischen den Dörfern.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Scala út",
+            "tip": "Csendes út a falvak között.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteca spre Scala",
+            "tip": "Drum liniștit între sate.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Scala path",
+            "tip": "Quiet path between the villages.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ravello Wines",
+            "tip": "Lokale Weine der Amalfi-Küste."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ravellói borok",
+            "tip": "Az Amalfi-part helyi borai."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri de Ravello",
+            "tip": "Vinuri locale de pe Coasta Amalfi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ravello Wines",
+            "tip": "Local wines of the Amalfi Coast."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "E-Bikes werden dringend empfohlen.",
+          "Vorsicht vor den engen Bussen auf den Straßen.",
+          "Nehmen Sie viel Wasser mit."
+        ],
+        "hu": [
+          "Az e-bike használata erősen ajánlott.",
+          "Vigyázzon a szűk utakon közlekedő buszokra.",
+          "Vigyen magával sok vizet."
+        ],
+        "ro": [
+          "E-bike-urile sunt recomandate călduros.",
+          "Atenție la autobuzele înguste de pe șosele.",
+          "Luați multă apă cu voi."
+        ],
+        "en": [
+          "E-bikes are highly recommended.",
+          "Watch out for narrow buses on the roads.",
+          "Take plenty of water with you."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Auditorium Oscar Niemeyer",
+            "hu": "Oscar Niemeyer Auditórium",
+            "ro": "Auditoriul Oscar Niemeyer",
+            "en": "Auditorium Oscar Niemeyer"
+          },
+          "coords": [
+            14.6085,
+            40.648
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier im Parkhaus.",
+            "hu": "Parkoljon itt a parkolóházban.",
+            "ro": "Parcați aici în parcare.",
+            "en": "Park here in the parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Rufolo",
+            "hu": "Villa Rufolo",
+            "ro": "Villa Rufolo",
+            "en": "Villa Rufolo"
+          },
+          "coords": [
+            14.6122,
+            40.6485
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Wachturm.",
+            "hu": "Látogasson el az őrtoronyba.",
+            "ro": "Vizitați turnul de veghe.",
+            "en": "Visit the watchtower."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Cimbrone",
+            "hu": "Villa Cimbrone",
+            "ro": "Villa Cimbrone",
+            "en": "Villa Cimbrone"
+          },
+          "coords": [
+            14.611,
+            40.6435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Perfekt für Fotos.",
+            "hu": "Tökéletes hely fotózáshoz.",
+            "ro": "Perfect pentru fotografii.",
+            "en": "Perfect for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Scala (Nachbardorf)",
+            "hu": "Scala (szomszéd falu)",
+            "ro": "Scala (sat vecin)",
+            "en": "Scala (neighboring village)"
+          },
+          "coords": [
+            14.607,
+            40.654
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Das älteste Dorf der Küste.",
+            "hu": "A part legősibb faluja.",
+            "ro": "Cel mai vechi sat de pe coastă.",
+            "en": "The oldest village on the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Centrale",
+            "hu": "Piazza Centrale",
+            "ro": "Piazza Centrale",
+            "en": "Piazza Centrale"
+          },
+          "coords": [
+            14.6115,
+            40.6488
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Abendessen vor der Abreise.",
+            "hu": "Vacsora elutazás előtt.",
+            "ro": "Cină înainte de plecare.",
+            "en": "Dinner before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie Ravello bequem. Wir beginnen am modernen Auditorium und spazieren zur Villa Rufolo.\n\nNach dem Mittagessen fahren wir ein kurzes Stück zum Nachbarort Scala, um die authentische Atmosphäre zu genießen.\n\nDer späte Nachmittag gehört der Villa Cimbrone, bevor wir zum Hauptplatz zurückkehren.\n\nRavello bei Sonnenuntergang bietet einen magischen Blick auf Minori und Maiori tief unter uns.",
+        "hu": "Autóval kényelmesen elérheti Ravellót. A modern Auditóriumnál kezdünk, majd átsétálunk a Villa Rufolóhoz.\n\nEbéd után egy rövid autózással átmegyünk a szomszédos Scalába, hogy élvezzük az autentikus hangulatot.\n\nA késő délután a Villa Cimbrone-é, mielőtt visszatérnénk a főtérre.\n\nA naplemente Ravellóban varázslatos kilátást nyújt a mélyben fekvő Minorira és Maiorira.",
+        "ro": "Cu mașina puteți ajunge confortabil în Ravello. Începem la Auditoriul modern și mergem pe jos la Villa Rufolo.\n\nDupă prânz, conducem puțin până în satul vecin Scala, pentru a ne bucura de atmosfera autentică.\n\nDupă-amiaza târzie este dedicată Villa Cimbrone, înainte de a reveni în piața principală.\n\nRavello la apus oferă o vedere magică asupra orașelor Minori și Maiori de sub noi.",
+        "en": "You can reach Ravello comfortably by car. We start at the modern Auditorium and walk to Villa Rufolo.\n\nAfter lunch, we take a short drive to the neighboring village of Scala to enjoy its authentic atmosphere.\n\nThe late afternoon belongs to Villa Cimbrone before we return to the main square.\n\nRavello at sunset offers a magical view of Minori and Maiori deep below us."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Spaghetti alle Vongole",
+            "tip": "In Scala oft günstiger und authentischer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spaghetti alle Vongole",
+            "tip": "Scalában gyakran olcsóbb és autentikusabb."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Spaghetti alle Vongole",
+            "tip": "În Scala sunt adesea mai ieftine și mai autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spaghetti alle Vongole",
+            "tip": "Often cheaper and more authentic in Scala."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Scala",
+            "tip": "Panoramablick auf Ravello.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Scala kilátó",
+            "tip": "Panorámás kilátás Ravellóra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Scala",
+            "tip": "Vedere panoramică spre Ravello.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Scala viewpoint",
+            "tip": "Panoramic view of Ravello.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokalöl",
+            "tip": "Kaufen Sie Olivenöl direkt beim Erzeuger in Scala."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Vásároljon olívaolajat közvetlenül a termelőtől Scalában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei local",
+            "tip": "Cumpărați ulei de măsline direct de la producător din Scala."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Buy olive oil directly from producers in Scala."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken ist teuer (ca. 5 Euro/Stunde).",
+          "Die Straße von Amalfi ist sehr eng.",
+          "Meiden Sie das Wochenende."
+        ],
+        "hu": [
+          "A parkolás drága (kb. 5 euró/óra).",
+          "Az Amalfi felőli út nagyon szűk.",
+          "Kerülje a hétvégéket."
+        ],
+        "ro": [
+          "Parcarea este scumpă (aprox. 5 euro/oră).",
+          "Drumul dinspre Amalfi este foarte îngust.",
+          "Evitați weekend-ul."
+        ],
+        "en": [
+          "Parking is expensive (approx. 5 Euro/hour).",
+          "The road from Amalfi is very narrow.",
+          "Avoid weekends."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Ravello",
+            "hu": "Ravello buszmegálló",
+            "ro": "Stația de autobuz Ravello",
+            "en": "Ravello Bus Stop"
+          },
+          "coords": [
+            14.6095,
+            40.6485
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Hier halten die SITA-Busse.",
+            "hu": "Itt állnak meg a SITA buszok.",
+            "ro": "Aici opresc autobuzele SITA.",
+            "en": "SITA buses stop here."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Rufolo",
+            "hu": "Villa Rufolo",
+            "ro": "Villa Rufolo",
+            "en": "Villa Rufolo"
+          },
+          "coords": [
+            14.6122,
+            40.6485
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gleich um die Ecke vom Platz.",
+            "hu": "Csak egy sarokra a tértől.",
+            "ro": "Chiar după colț de piață.",
+            "en": "Just around the corner from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Ravello",
+            "hu": "Ravellói Dóm",
+            "ro": "Domul din Ravello",
+            "en": "Duomo di Ravello"
+          },
+          "coords": [
+            14.6118,
+            40.6491
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kühl und friedlich am Mittag.",
+            "hu": "Hűvös és békés délidőben.",
+            "ro": "Răcoros și liniștit la prânz.",
+            "en": "Cool and peaceful at midday."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Cimbrone",
+            "hu": "Villa Cimbrone",
+            "ro": "Villa Cimbrone",
+            "en": "Villa Cimbrone"
+          },
+          "coords": [
+            14.611,
+            40.6435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der schönste Ort der Welt (laut Gore Vidal).",
+            "hu": "A világ legszebb helye (Gore Vidal szerint).",
+            "ro": "Cel mai frumos loc din lume (conform lui Gore Vidal).",
+            "en": "The most beautiful place in the world (according to Gore Vidal)."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Centrale",
+            "hu": "Piazza Centrale",
+            "ro": "Piazza Centrale",
+            "en": "Piazza Centrale"
+          },
+          "coords": [
+            14.6115,
+            40.6488
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Letzter Kaffee vor dem Bus.",
+            "hu": "Utolsó kávé a busz előtt.",
+            "ro": "Ultima cafea înainte de autobuz.",
+            "en": "Last coffee before the bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Transit ist der klügste Weg nach Ravello. Der Bus bringt Sie direkt zum Eingang des historischen Kerns.\n\nWir besuchen zuerst die Villa Rufolo und den Dom, bevor wir gemütlich zu Mittag essen.\n\nEin langer Spaziergang führt uns zur Villa Cimbrone, dem Höhepunkt jeder Ravello-Reise.\n\nWir kehren zum Platz zurück, um die Atmosphäre zu genießen, bevor wir den Bus zurück zur Küste nehmen.",
+        "hu": "A tömegközlekedés a legokosabb módja Ravello elérésének. A busz közvetlenül a történelmi központ bejáratához viszi.\n\nElőször a Villa Rufolót és a dómot látogatjuk meg, mielőtt kényelmesen megmártóznánk a gasztronómiában.\n\nEgy hosszabb séta vezet el a Villa Cimbrone-hoz, ami minden ravellói utazás csúcspontja.\n\nVisszatérünk a főtérre, hogy magunkba szívjuk a hangulatot, mielőtt felszállnánk a partra tartó buszra.",
+        "ro": "Transportul public este cea mai inteligentă cale de a ajunge în Ravello. Autobuzul vă aduce direct la intrarea în centrul istoric.\n\nVizităm mai întâi Villa Rufolo și Domul, înainte de a lua un prânz relaxat.\n\nO plimbare lungă ne duce la Villa Cimbrone, punctul culminant al oricărei călătorii în Ravello.\n\nRevenim în piață pentru a ne bucura de atmosferă înainte de a lua autobuzul înapoi spre coastă.",
+        "en": "Transit is the smartest way to Ravello. The bus brings you directly to the entrance of the historic core.\n\nWe visit Villa Rufolo and the Cathedral first, before having a leisurely lunch.\n\nA long stroll leads us to Villa Cimbrone, the highlight of every Ravello trip.\n\nWe return to the square to enjoy the atmosphere before taking the bus back down to the coast."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sfogliatella",
+            "tip": "Süßgebäck, perfekt zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sfogliatella",
+            "tip": "Édes sütemény, tökéletes útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sfogliatella",
+            "tip": "Patiserie dulce, perfectă de luat la pachet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sfogliatella",
+            "tip": "Sweet pastry, perfect for on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche San Francesco",
+            "tip": "Nahe der Cimbrone, sehr ruhig.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Francesco templom",
+            "tip": "A Cimbrone közelében, nagyon csendes.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica San Francesco",
+            "tip": "Lângă Cimbrone, foarte liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church of San Francesco",
+            "tip": "Near Cimbrone, very quiet.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sandali su misura",
+            "tip": "Handgefertigte Ledersandalen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sandali su misura",
+            "tip": "Kézzel készített bőrszandálok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandali su misura",
+            "tip": "Sandale din piele lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sandali su misura",
+            "tip": "Handmade leather sandals."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Ihr Busticket im Voraus im Tabacchi.",
+          "Die Busse können in der Hochsaison sehr voll sein.",
+          "Die Fahrt dauert ca. 25 Minuten."
+        ],
+        "hu": [
+          "Vegye meg a buszjegyet előre a Tabacchiban.",
+          "Főszezonban a buszok nagyon zsúfoltak lehetnek.",
+          "Az út kb. 25 percet vesz igénybe."
+        ],
+        "ro": [
+          "Cumpărați biletul de autobuz în avans de la Tabacchi.",
+          "Autobuzele pot fi foarte pline în sezon.",
+          "Călătoria durează aproximativ 25 de minute."
+        ],
+        "en": [
+          "Buy your bus ticket in advance at a Tabacchi shop.",
+          "Buses can be very crowded in high season.",
+          "The journey takes about 25 minutes."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-72",
+    "coords": [
+      14.6122,
+      40.6494
+    ],
+    "transit_official": "https://www.sitabus.it",
+    "transit_app": "https://www.trenitalia.com",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://ravellofestival.info",
+    "tourism_office": "https://www.ravellotime.it",
+    "webcam": "https://www.skylinewebcams.com/webcam/italia/campania/salerno/ravello.html",
+    "restaurants_booking": "https://www.thefork.it",
+    "museum_tickets": "https://www.villarufolo.com",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch; in Hotels Englisch, manchmal Deutsch.",
+      "hu": "Olasz; szállodákban angol, néha német.",
+      "ro": "Italiană; în hoteluri engleză, uneori germană.",
+      "en": "Italian; English common in hotels, some German."
+    },
+    "best_time": {
+      "de": "Mai-Juni und September: mildes Klima, Festival ab Juli.",
+      "hu": "Május-június és szeptember: enyhe, fesztivál júliustól.",
+      "ro": "Mai-iunie și septembrie: blând, festival din iulie.",
+      "en": "May-June and September: mild, festival from July."
+    },
+    "warnings": {
+      "de": "Steile Treppen, SITA-Bus oft überfüllt, im August Stau auf SS163.",
+      "hu": "Meredek lépcsők, SITA busz zsúfolt, augusztusban dugó az SS163-on.",
+      "ro": "Scări abrupte, autobuz SITA aglomerat, ambuteiaje pe SS163 în august.",
+      "en": "Steep stairs, SITA bus crowded, SS163 traffic in August."
+    }
+  }
+}

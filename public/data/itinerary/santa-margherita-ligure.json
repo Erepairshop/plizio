@@ -1,0 +1,1168 @@
+{
+  "city_id": "santa-margherita-ligure",
+  "anchor": {
+    "name": "Santa Margherita Ligure",
+    "coords": [
+      9.2106,
+      44.3358
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 3.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Martiri della Libertà",
+            "hu": "Mártírok tere",
+            "ro": "Piața Martiri della Libertà",
+            "en": "Piazza Martiri della Libertà"
+          },
+          "coords": [
+            9.2125,
+            44.3355
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt mit Blick auf das Meer.",
+            "hu": "A város szíve, kilátással a tengerre.",
+            "ro": "Inima orașului cu vedere la mare.",
+            "en": "The heart of the town with sea views."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Santa Margherita d'Antiochia",
+            "hu": "Antiochiai Szent Margit-bazilika",
+            "ro": "Bazilica Santa Margherita d'Antiochia",
+            "en": "Basilica of Santa Margherita d'Antiochia"
+          },
+          "coords": [
+            9.2115,
+            44.335
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die vergoldeten Stuckarbeiten.",
+            "hu": "Csodáld meg az aranyozott stukkókat.",
+            "ro": "Admirați decorațiunile din stuc aurit.",
+            "en": "Admire the gilded stucco work."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Durazzo",
+            "hu": "Villa Durazzo",
+            "ro": "Villa Durazzo",
+            "en": "Villa Durazzo"
+          },
+          "coords": [
+            9.2135,
+            44.334
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den italienischen Garten.",
+            "hu": "Sétáljon végig az olaszkerteken.",
+            "ro": "Plimbați-vă prin grădina italiană.",
+            "en": "Stroll through the Italian gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Giacomo di Corte",
+            "hu": "San Giacomo di Corte templom",
+            "ro": "Biserica San Giacomo di Corte",
+            "en": "Church of San Giacomo di Corte"
+          },
+          "coords": [
+            9.214,
+            44.3345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel oberhalb des Hafens.",
+            "hu": "Rejtett ékszerdoboz a kikötő felett.",
+            "ro": "O bijuterie ascunsă deasupra portului.",
+            "en": "A hidden gem above the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Santa Margherita Ligure",
+            "hu": "Santa Margherita Ligure vára",
+            "ro": "Castelul Santa Margherita Ligure",
+            "en": "Santa Margherita Ligure Castle"
+          },
+          "coords": [
+            9.2145,
+            44.3335
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die kleine Festung diente einst zur Piratenabwehr.",
+            "hu": "A kis erőd egykor a kalózok ellen védett.",
+            "ro": "Mica fortăreață servea odinioară la apărarea împotriva piraților.",
+            "en": "The small fortress once served as pirate defense."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Santa Margherita",
+            "hu": "Santa Margherita kikötője",
+            "ro": "Portul Santa Margherita",
+            "en": "Santa Margherita Port"
+          },
+          "coords": [
+            9.2155,
+            44.3325
+          ],
+          "category": "port",
+          "arrive_at": "15:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Hier liegen Luxusyachten neben Fischerbooten.",
+            "hu": "Itt luxusjachtok horgonyoznak halászhajók mellett.",
+            "ro": "Aici iahturile de lux stau lângă bărcile de pescuit.",
+            "en": "Luxury yachts lie next to fishing boats here."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco del Flauto Magico",
+            "hu": "Varázsfuvola park",
+            "ro": "Parcul Flautul Fermecat",
+            "en": "Magic Flute Park"
+          },
+          "coords": [
+            9.2085,
+            44.3375
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein bunter Park, inspiriert von Mozart.",
+            "hu": "Színes park, Mozart ihletésével.",
+            "ro": "Un parc colorat inspirat de Mozart.",
+            "en": "A colorful park inspired by Mozart."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei La Cervara",
+            "hu": "La Cervara-apátság",
+            "ro": "Abatia La Cervara",
+            "en": "La Cervara Abbey"
+          },
+          "coords": [
+            9.2205,
+            44.3185
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Wunderbare Sicht auf den Golf zum Abschluss.",
+            "hu": "Csodás kilátás az öbölre a nap végén.",
+            "ro": "Vedere minunată asupra golfului la final.",
+            "en": "Wonderful view of the gulf to finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Santa Margherita Ligure ist der Inbegriff ligurischer Eleganz. Beginnen Sie Ihren Spaziergang am zentralen Platz und lassen Sie sich von der goldenen Basilika verzaubern.\n\nDer Mittag gehört der prachtvollen Villa Durazzo und ihren Gärten, gefolgt von der kleinen Kirche San Giacomo, die einen tollen Hafenblick bietet.\n\nNachdem Sie die alte Festung besichtigt haben, schlendern Sie am Hafen entlang zum verspielten Zauberflötenpark.\n\nEin Ausflug zur Cervara-Abtei am späten Nachmittag rundet den Tag mit einem Hauch von Exklusivität ab.",
+        "hu": "Santa Margherita Ligure a ligur elegancia megtestesítője. Kezdje a sétát a központi téren, és hagyja, hogy lenyűgözze az aranyozott bazilika.\n\nA délidő a pompás Villa Durazzóé és kertjeié, majd látogasson el a San Giacomo templomhoz a kikötői panorámáért.\n\nAz erőd megtekintése után sétáljon a kikötő mentén a játékos Varázsfuvola parkig.\n\nEgy késő délutáni kirándulás a Cervara-apátsághoz egy csipetnyi exkluzivitással teszi teljessé a napot.",
+        "ro": "Santa Margherita Ligure este întruchiparea eleganței ligurice. Începeți plimbarea în piața centrală și lăsați-vă fermecați de bazilica aurită.\n\nAmiaza aparține splendidei Villa Durazzo și grădinilor sale, urmată de mica biserică San Giacomo, care oferă o vedere excelentă spre port.\n\nDupă vizitarea vechii fortărețe, plimbați-vă de-a lungul portului spre parcul ludic Flautul Fermecat.\n\nO excursie la abația Cervara spre seară completează ziua cu o notă de exclusivitate.",
+        "en": "Santa Margherita Ligure is the epitome of Ligurian elegance. Start your walk at the central square and be enchanted by the golden Basilica.\n\nMidday belongs to the magnificent Villa Durazzo and its gardens, followed by the small Church of San Giacomo offering great harbor views.\n\nAfter visiting the old fortress, stroll along the port to the playful Magic Flute Park.\n\nA late afternoon trip to the Cervara Abbey completes the day with a touch of exclusivity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gamberi Rossi",
+            "tip": "Rote Riesengarnelen, frisch aus dem Hafen."
+          },
+          {
+            "name": "Focaccia al formaggio",
+            "tip": "Probieren Sie diese Spezialität bei Fiordiponti."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gamberi Rossi",
+            "tip": "Vörös óriásgarnéla, frissen a kikötőből."
+          },
+          {
+            "name": "Focaccia al formaggio",
+            "tip": "Kóstolja meg ezt a különlegességet a Fiordiponti-nál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gamberi Rossi",
+            "tip": "Creveți roșii uriași, proaspeți din port."
+          },
+          {
+            "name": "Focaccia al formaggio",
+            "tip": "Încercați această specialitate la Fiordiponti."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gamberi Rossi",
+            "tip": "Red giant prawns, fresh from the harbor."
+          },
+          {
+            "name": "Focaccia al formaggio",
+            "tip": "Try this specialty at Fiordiponti."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardino all'italiana",
+            "tip": "In der Villa Durazzo.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spiaggia di Paraggi",
+            "tip": "Ein kleiner Strand in der Nähe, ideal zum Ausruhen.",
+            "emoji": "🏖️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olaszkert",
+            "tip": "A Villa Durazzo területén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Paraggi strand",
+            "tip": "Egy közeli kis strand, ideális pihenésre.",
+            "emoji": "🏖️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina italiană",
+            "tip": "În cadrul Villa Durazzo.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaja Paraggi",
+            "tip": "O mică plajă în apropiere, ideală pentru odihnă.",
+            "emoji": "🏖️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Italian Garden",
+            "tip": "Within Villa Durazzo.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Paraggi Beach",
+            "tip": "A small beach nearby, ideal for resting.",
+            "emoji": "🏖️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Modeboutiquen",
+            "tip": "Entlang der Promenade für italienische Eleganz."
+          },
+          {
+            "name": "Spitzenklöppelei",
+            "tip": "Traditionelles Kunsthandwerk der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Divatbutikok",
+            "tip": "A sétány mentén az olasz eleganciáért."
+          },
+          {
+            "name": "Csipkeverés",
+            "tip": "A régió hagyományos kézműves terméke."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique-uri de modă",
+            "tip": "De-a lungul promenadei pentru eleganță italiană."
+          },
+          {
+            "name": "Dantelărie",
+            "tip": "Meșteșug tradițional al regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fashion Boutiques",
+            "tip": "Along the promenade for Italian elegance."
+          },
+          {
+            "name": "Lacemaking",
+            "tip": "Traditional handicraft of the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt einen flachen Küstenweg nach Portofino, der sehr schön ist.",
+          "Die Fähren nach Portofino fahren regelmäßig vom Hauptkai.",
+          "Besuchen Sie die Fischmarkthalle am späten Nachmittag.",
+          "Santa Margherita ist flacher als Camogli und leichter zu erlaufen."
+        ],
+        "hu": [
+          "Van egy gyönyörű, sík parti út Portofino felé.",
+          "A kompok Portofinóba rendszeresen indulnak a főmólótól.",
+          "Látogassa meg a halpiacot késő délután.",
+          "Santa Margherita síkabb, mint Camogli, így könnyebb bejárni."
+        ],
+        "ro": [
+          "Există un drum de coastă plat spre Portofino, care este foarte frumos.",
+          "Feriboturile spre Portofino pleacă regulat de la cheiul principal.",
+          "Vizitați piața de pește spre seară.",
+          "Santa Margherita este mai plat decât Camogli și mai ușor de parcurs pe jos."
+        ],
+        "en": [
+          "There is a flat coastal path to Portofino which is very beautiful.",
+          "Ferries to Portofino run regularly from the main pier.",
+          "Visit the fish market hall in the late afternoon.",
+          "Santa Margherita is flatter than Camogli and easier to walk."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Santa Margherita",
+            "hu": "Santa Margherita kikötője",
+            "ro": "Portul Santa Margherita",
+            "en": "Santa Margherita Port"
+          },
+          "coords": [
+            9.2155,
+            44.3325
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schöner Startpunkt für die Radtour.",
+            "hu": "Szép kezdőpont a bringatúrához.",
+            "ro": "Punct de plecare frumos pentru turul cu bicicleta.",
+            "en": "Nice starting point for the bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Durazzo",
+            "hu": "Villa Durazzo",
+            "ro": "Villa Durazzo",
+            "en": "Villa Durazzo"
+          },
+          "coords": [
+            9.2135,
+            44.334
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fahrräder müssen draußen bleiben.",
+            "hu": "A bringákat kint kell hagyni.",
+            "ro": "Bicicletele trebuie lăsate afară.",
+            "en": "Bikes must stay outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Santa Margherita d'Antiochia",
+            "hu": "Antiochiai Szent Margit-bazilika",
+            "ro": "Bazilica Santa Margherita d'Antiochia",
+            "en": "Basilica of Santa Margherita d'Antiochia"
+          },
+          "coords": [
+            9.2115,
+            44.335
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Mitten im Zentrum.",
+            "hu": "Közvetlenül a központban.",
+            "ro": "Chiar în centru.",
+            "en": "Right in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco del Flauto Magico",
+            "hu": "Varázsfuvola park",
+            "ro": "Parcul Flautul Fermecat",
+            "en": "Magic Flute Park"
+          },
+          "coords": [
+            9.2085,
+            44.3375
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannung im Schatten.",
+            "hu": "Pihenés az árnyékban.",
+            "ro": "Relaxare la umbră.",
+            "en": "Relaxation in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei La Cervara",
+            "hu": "La Cervara-apátság",
+            "ro": "Abatia La Cervara",
+            "en": "La Cervara Abbey"
+          },
+          "coords": [
+            9.2205,
+            44.3185
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schöner Weg entlang der Küstenstraße.",
+            "hu": "Szép út a parti úton.",
+            "ro": "Drum frumos pe șoseaua de coastă.",
+            "en": "Nice path along the coastal road."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Martiri della Libertà",
+            "hu": "Mártírok tere",
+            "ro": "Piața Martiri della Libertà",
+            "en": "Piazza Martiri della Libertà"
+          },
+          "coords": [
+            9.2125,
+            44.3355
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Rückgabe.",
+            "hu": "Utolsó megálló leadás előtt.",
+            "ro": "Ultima oprire înainte de returnare.",
+            "en": "Final stop before return."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad lässt sich Santa Margherita wunderbar erkunden. Die flache Küste lädt zu entspannten Fahrten ein. Beginnen Sie am Hafen und besuchen Sie die Villa Durazzo.\n\nNach der Basilika radeln Sie zum Zauberflötenpark und genießen die Meeresbrise auf dem Weg zur Cervara-Abtei.\n\nDer Tag endet entspannt auf dem Hauptplatz bei einem kühlen Getränk.",
+        "hu": "Biciklivel Santa Margherita csodásan felfedezhető. A sík partvidék hívogató a laza tekeréshez. Kezdjen a kikötőben, majd látogasson el a Villa Durazzóhoz.\n\nA bazilika után tekerjen a Varázsfuvola parkhoz, és élvezze a tengeri szellőt a Cervara-apátság felé vezető úton.\n\nA nap nyugodtan zárul a főtéren egy hűsítő ital mellett.",
+        "ro": "Cu bicicleta, Santa Margherita poate fi explorată minunat. Coasta plată invită la plimbări relaxante. Începeți din port și vizitați Villa Durazzo.\n\nDupă bazilică, pedalați spre parcul Flautul Fermecat și bucurați-vă de briza mării pe drumul spre abația Cervara.\n\nZiua se încheie relaxat în piața principală cu o băutură rece.",
+        "en": "By bike, Santa Margherita can be explored wonderfully. The flat coast invites relaxed rides. Start at the harbor and visit Villa Durazzo.\n\nAfter the Basilica, cycle to the Magic Flute Park and enjoy the sea breeze on the way to the Cervara Abbey.\n\nThe day ends relaxed in the main square with a cool drink."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frittierter Fisch",
+            "tip": "Holen Sie sich eine Tüte 'Fritto misto' am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült hal",
+            "tip": "Vegyél egy zacskó 'Fritto misto'-t a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește prăjit",
+            "tip": "Luați un cornet de 'Fritto misto' din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fried Fish",
+            "tip": "Grab a cone of 'Fritto misto' at the port."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco del Flauto Magico",
+            "tip": "Ideal für eine Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Varázsfuvola park",
+            "tip": "Ideális egy pihenőhöz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Flautul Fermecat",
+            "tip": "Ideal pentru o pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Magic Flute Park",
+            "tip": "Ideal for a break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ligurisches Pesto",
+            "tip": "Frisch zubereitet in den lokalen Feinkostläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ligur pesto",
+            "tip": "Frissen készítve a helyi csemegeboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pesto liguric",
+            "tip": "Proaspăt preparat în delicateriile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ligurian Pesto",
+            "tip": "Freshly made in local delicatessens."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Fußgänger auf der Uferpromenade.",
+          "Die Straße nach Portofino ist am Wochenende sehr belebt."
+        ],
+        "hu": [
+          "Figyeljen a gyalogosokra a tengerparti sétányon.",
+          "A Portofino felé vezető út hétvégén nagyon zsúfolt."
+        ],
+        "ro": [
+          "Atenție la pietonii de pe faleza.",
+          "Drumul spre Portofino este foarte aglomerat în weekend."
+        ],
+        "en": [
+          "Watch out for pedestrians on the waterfront promenade.",
+          "The road to Portofino is very busy on weekends."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Durazzo",
+            "hu": "Villa Durazzo",
+            "ro": "Villa Durazzo",
+            "en": "Villa Durazzo"
+          },
+          "coords": [
+            9.2135,
+            44.334
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parkplatz direkt unterhalb der Villa.",
+            "hu": "Parkoló közvetlenül a villa alatt.",
+            "ro": "Parcare chiar sub vilă.",
+            "en": "Parking right below the villa."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Santa Margherita d'Antiochia",
+            "hu": "Antiochiai Szent Margit-bazilika",
+            "ro": "Bazilica Santa Margherita d'Antiochia",
+            "en": "Basilica of Santa Margherita d'Antiochia"
+          },
+          "coords": [
+            9.2115,
+            44.335
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Prunkvolle Barockkirche.",
+            "hu": "Pompás barokk templom.",
+            "ro": "Biserică barocă splendidă.",
+            "en": "Magnificent baroque church."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Santa Margherita",
+            "hu": "Santa Margherita kikötője",
+            "ro": "Portul Santa Margherita",
+            "en": "Santa Margherita Port"
+          },
+          "coords": [
+            9.2155,
+            44.3325
+          ],
+          "category": "port",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spaziergang entlang der Kaianlagen.",
+            "hu": "Séta a rakpart mentén.",
+            "ro": "Plimbare de-a lungul cheiului.",
+            "en": "Walk along the quays."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Santa Margherita Ligure",
+            "hu": "Santa Margherita Ligure vára",
+            "ro": "Castelul Santa Margherita Ligure",
+            "en": "Santa Margherita Ligure Castle"
+          },
+          "coords": [
+            9.2145,
+            44.3335
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fotogener Ort direkt am Meer.",
+            "hu": "Fotogén hely közvetlenül a tengernél.",
+            "ro": "Loc fotogenic chiar lângă mare.",
+            "en": "Photogenic spot right by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei La Cervara",
+            "hu": "La Cervara-apátság",
+            "ro": "Abatia La Cervara",
+            "en": "La Cervara Abbey"
+          },
+          "coords": [
+            9.2205,
+            44.3185
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besichtigung oft nur mit Führung möglich.",
+            "hu": "A látogatás gyakran csak vezetéssel lehetséges.",
+            "ro": "Vizitarea este adesea posibilă doar cu ghid.",
+            "en": "Visits often possible only with a guide."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Giacomo di Corte",
+            "hu": "San Giacomo di Corte templom",
+            "ro": "Biserica San Giacomo di Corte",
+            "en": "Church of San Giacomo di Corte"
+          },
+          "coords": [
+            9.214,
+            44.3345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Blick über die ganze Bucht.",
+            "hu": "Kilátás az egész öbölre.",
+            "ro": "Vedere peste întregul golf.",
+            "en": "View over the entire bay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Santa Margherita ist ein idealer Ausgangspunkt für Touren entlang der Küste. Besuchen Sie die prächtige Villa Durazzo am Morgen und die barocke Basilika.\n\nNach einem Bummel am Hafen und der Festung führt Sie die Fahrt zur exklusiven Cervara-Abtei.\n\nDen Tag beschließen Sie bei der Kirche San Giacomo, die einen der besten Ausblicke auf die Stadt und das Meer bietet.",
+        "hu": "Santa Margherita ideális kiindulópont a part menti túrákhoz. Reggel látogasson el a pompás Villa Durazzóhoz és a barokk bazilikához.\n\nA kikötői és erőd látogatás után az út az exkluzív Cervara-apátsághoz vezet.\n\nA napot a San Giacomo templomnál zárja, ahonnan az egyik legjobb kilátás nyílik a városra és a tengerre.",
+        "ro": "Santa Margherita este un punct de plecare ideal pentru tururi de-a lungul coastei. Vizitați splendida Villa Durazzo dimineața și bazilica barocă.\n\nDupă o plimbare prin port și fortăreață, drumul vă duce la abația exclusivistă Cervara.\n\nÎncheiați ziua la biserica San Giacomo, care oferă una dintre cele mai bune priveliști asupra orașului și a mării.",
+        "en": "Santa Margherita is an ideal starting point for tours along the coast. Visit the magnificent Villa Durazzo in the morning and the baroque Basilica.\n\nAfter a stroll through the port and fortress, the drive leads you to the exclusive Cervara Abbey.\n\nConclude the day at the Church of San Giacomo, which offers one of the best views of the town and the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meeresfrüchte-Risotto",
+            "tip": "Frisch zubereitet in den Restaurants am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei rizottó",
+            "tip": "Frissen készítve a vízparti éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Risotto cu fructe de mare",
+            "tip": "Proaspăt preparat în restaurantele de pe faleză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood Risotto",
+            "tip": "Freshly prepared in the waterfront restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paraggi Bucht",
+            "tip": "Kurze Fahrt von Santa Margherita entfernt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paraggi öböl",
+            "tip": "Rövid autóútra Santa Margheritától.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Paraggi",
+            "tip": "La scurtă distanță de mers cu mașina de Santa Margherita.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paraggi Bay",
+            "tip": "A short drive from Santa Margherita.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Italienische Lederschuhe",
+            "tip": "Exklusive Geschäfte in der Innenstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olasz bőrcipők",
+            "tip": "Exkluzív üzletek a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pantofi din piele italienească",
+            "tip": "Magazine exclusive în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Italian Leather Shoes",
+            "tip": "Exclusive shops in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze sind rar und teuer, nutzen Sie Parkhäuser.",
+          "Die Küstenstraße ist eng, Vorsicht bei Gegenverkehr."
+        ],
+        "hu": [
+          "A parkolóhelyek ritkák és drágák, használjon parkolóházakat.",
+          "A parti út szűk, vigyázzon a szembejövő forgalommal."
+        ],
+        "ro": [
+          "Locurile de parcare sunt rare și scumpe, folosiți parcările etajate.",
+          "Șoseaua de coastă este îngustă, atenție la traficul din sens opus."
+        ],
+        "en": [
+          "Parking spaces are rare and expensive, use parking garages.",
+          "The coastal road is narrow, watch out for oncoming traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Martiri della Libertà",
+            "hu": "Mártírok tere",
+            "ro": "Piața Martiri della Libertà",
+            "en": "Piazza Martiri della Libertà"
+          },
+          "coords": [
+            9.2125,
+            44.3355
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gut mit dem Bus erreichbar.",
+            "hu": "Busszal jól megközelíthető.",
+            "ro": "Ușor accesibil cu autobuzul.",
+            "en": "Easy to reach by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Santa Margherita d'Antiochia",
+            "hu": "Antiochiai Szent Margit-bazilika",
+            "ro": "Bazilica Santa Margherita d'Antiochia",
+            "en": "Basilica of Santa Margherita d'Antiochia"
+          },
+          "coords": [
+            9.2115,
+            44.335
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Busstopp.",
+            "hu": "Rövid gyalogút a buszmegállótól.",
+            "ro": "Scurtă plimbare de la stația de autobuz.",
+            "en": "Short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Durazzo",
+            "hu": "Villa Durazzo",
+            "ro": "Villa Durazzo",
+            "en": "Villa Durazzo"
+          },
+          "coords": [
+            9.2135,
+            44.334
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Prachtvolle Anlage.",
+            "hu": "Pompás épületegyüttes.",
+            "ro": "Complex splendid.",
+            "en": "Magnificent complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Santa Margherita",
+            "hu": "Santa Margherita kikötője",
+            "ro": "Portul Santa Margherita",
+            "en": "Santa Margherita Port"
+          },
+          "coords": [
+            9.2155,
+            44.3325
+          ],
+          "category": "port",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für Schiffe.",
+            "hu": "A hajók központi csomópontja.",
+            "ro": "Nod central pentru ambarcațiuni.",
+            "en": "Central hub for boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco del Flauto Magico",
+            "hu": "Varázsfuvola park",
+            "ro": "Parcul Flautul Fermecat",
+            "en": "Magic Flute Park"
+          },
+          "coords": [
+            9.2085,
+            44.3375
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Sehr kinderfreundlich.",
+            "hu": "Nagyon gyerekbarát.",
+            "ro": "Foarte prietenos cu copiii.",
+            "en": "Very kid-friendly."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Giacomo di Corte",
+            "hu": "San Giacomo di Corte templom",
+            "ro": "Biserica San Giacomo di Corte",
+            "en": "Church of San Giacomo di Corte"
+          },
+          "coords": [
+            9.214,
+            44.3345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Oberhalb des Hafens gelegen.",
+            "hu": "A kikötő felett található.",
+            "ro": "Situată deasupra portului.",
+            "en": "Located above the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Santa Margherita ist hervorragend an das Bus- und Bahnnetz angebunden. Beginnen Sie im Zentrum und besuchen Sie die goldene Basilika und die Villa Durazzo.\n\nNach einem Bummel am Hafen führt Sie der Weg zum Zauberflötenpark. Dank der guten Taktung der Busse erreichen Sie mühelos alle Sehenswürdigkeiten.\n\nDer Tag endet entspannt bei der Kirche San Giacomo, bevor Sie den Rückweg zum Bahnhof antreten.",
+        "hu": "Santa Margherita kiválóan kapcsolódik a busz- és vasúthálózathoz. Kezdjen a központban, látogassa meg az aranyozott bazilikát és a Villa Durazzót.\n\nA kikötői séta után az út a Varázsfuvola parkhoz vezet. A buszok jó ütemezésének köszönhetően minden látnivalót könnyen elér.\n\nA nap a San Giacomo templomnál zárul, mielőtt visszaindulna az állomásra.",
+        "ro": "Santa Margherita este excelent conectată la rețeaua de autobuze și trenuri. Începeți în centru și vizitați bazilica aurită și Villa Durazzo.\n\nDupă o plimbare prin port, drumul vă duce la parcul Flautul Fermecat. Datorită frecvenței bune a autobuzelor, ajungeți cu ușurință la toate obiectivele.\n\nZiua se încheie la biserica San Giacomo, înainte de a porni înapoi spre gară.",
+        "en": "Santa Margherita is excellently connected to the bus and train network. Start in the center and visit the golden Basilica and Villa Durazzo.\n\nAfter a stroll through the port, the path leads you to the Magic Flute Park. Thanks to the good bus frequency, you can easily reach all sights.\n\nThe day ends at the Church of San Giacomo before you head back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasta mit Walnusssauce",
+            "tip": "Probieren Sie 'Pansoti con salsa di noci'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Diószószos tészta",
+            "tip": "Kóstolja meg a 'Pansoti con salsa di noci'-t."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paste cu sos de noci",
+            "tip": "Încercați 'Pansoti con salsa di noci'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasta with Walnut Sauce",
+            "tip": "Try 'Pansoti con salsa di noci'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Villa Durazzo Park",
+            "tip": "Abseits des Hafentrubels.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Durazzo parkja",
+            "tip": "Távol a kikötői nyüzsgéstől.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Villa Durazzo",
+            "tip": "Departe de agitația din port.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Durazzo Park",
+            "tip": "Away from the harbor bustle.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kandierte Früchte",
+            "tip": "Eine lokale Spezialität in den Konditoreien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kandírozott gyümölcsök",
+            "tip": "Helyi különlegesség a cukrászdákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fructe confiate",
+            "tip": "O specialitate locală în cofetării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Candied Fruits",
+            "tip": "A local specialty in the pastry shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Buslinie 82 fährt direkt nach Portofino.",
+          "Zugtickets müssen vor Fahrtantritt entwertet werden."
+        ],
+        "hu": [
+          "A 82-es buszjárat közvetlenül Portofinóba közlekedik.",
+          "A vonatjegyeket utazás előtt érvényesíteni kell."
+        ],
+        "ro": [
+          "Linia de autobuz 82 merge direct spre Portofino.",
+          "Biletele de tren trebuie validate înainte de călătorie."
+        ],
+        "en": [
+          "Bus line 82 runs directly to Portofino.",
+          "Train tickets must be validated before boarding."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Santa Margherita Ligure",
+    "region": "IT-42",
+    "lon": 9.2106,
+    "lat": 44.3358,
+    "transit_official": "https://www.amt.genova.it/",
+    "transit_app": "https://moovitapp.com/",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.eventbrite.it/d/italy--santa-margherita-ligure/events/",
+    "tourism_office": "https://livesanta.it/",
+    "webcam": "https://www.skylinewebcams.com/webcam/italia/liguria/genova/camogli.html",
+    "restaurants_booking": "https://www.thefork.com/",
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch; in Hotels und Lokalen meist Englisch, oft auch Deutsch.",
+      "hu": "Olasz; a szallodakban es ettermekben gyakran angol, neha nemet is.",
+      "ro": "Italiana; in hoteluri si restaurante se vorbeste engleza, uneori germana.",
+      "en": "Italian; English and often German spoken in hotels and restaurants."
+    },
+    "best_time": {
+      "de": "April bis Juni und September fuer angenehme Temperaturen.",
+      "hu": "Aprilistol juniusig es szeptemberben kellemes a homerseklet.",
+      "ro": "Aprilie-iunie si septembrie pentru temperaturi placute.",
+      "en": "April-June and September for pleasant temperatures."
+    },
+    "warnings": {
+      "de": "Hohe Preise im Hochsommer; Portofino-Strasse oft staugefaehrdet.",
+      "hu": "Magas arak nyaron; a Portofino fele vezeto ut gyakran torlodik.",
+      "ro": "Preturi mari vara; drumul spre Portofino are adesea ambuteiaje.",
+      "en": "High prices in summer; the road to Portofino is often congested."
+    }
+  }
+}

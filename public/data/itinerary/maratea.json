@@ -1,0 +1,903 @@
+{
+  "city_id": "maratea",
+  "anchor": {
+    "name": "Maratea",
+    "coords": [
+      15.7197,
+      39.9978
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Centro Storico",
+          "coords": [
+            15.7195,
+            39.9985
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen.",
+            "hu": "Vesszen el a szűk sikátorok labirintusában.",
+            "ro": "Pierdeți-vă pe străduțele înguste.",
+            "en": "Get lost in the labyrinth of narrow alleys."
+          }
+        },
+        {
+          "name": "Chiesa di Santa Maria Maggiore",
+          "coords": [
+            15.7202,
+            39.9975
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterlichen Fresken.",
+            "hu": "Csodálja meg a középkori freskókat.",
+            "ro": "Admirați frescele medievale.",
+            "en": "Admire the medieval frescoes."
+          }
+        },
+        {
+          "name": "Porto di Maratea",
+          "coords": [
+            15.712,
+            39.991
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Mittagessen am Meer.",
+            "hu": "Tökéletes hely egy tengerparti ebédhez.",
+            "ro": "Locul perfect pentru un prânz la malul mării.",
+            "en": "Perfect spot for a seaside lunch."
+          }
+        },
+        {
+          "name": "Spiaggia Nera",
+          "coords": [
+            15.705,
+            39.985
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den einzigartigen vulkanischen Sand.",
+            "hu": "Élvezze az egyedülálló vulkáni homokot.",
+            "ro": "Bucurați-vă de nisipul vulcanic unic.",
+            "en": "Enjoy the unique volcanic black sand."
+          }
+        },
+        {
+          "name": "Grotta delle Meraviglie",
+          "coords": [
+            15.708,
+            39.988
+          ],
+          "category": "natural features",
+          "arrive_at": "17:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die kleinste Schauhöhle Italiens.",
+            "hu": "Olaszország legkisebb látogatható barlangja.",
+            "ro": "Cea mai mică peșteră turistică din Italia.",
+            "en": "The smallest show cave in Italy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im bezaubernden Centro Storico von Maratea, wo jede Ecke eine neue Geschichte erzählt. Schlendern Sie durch die mittelalterlichen Gassen und besuchen Sie die Kirche Santa Maria Maggiore.\n\nMittags steigen Sie zum malerischen Hafen hinab. Hier können Sie frischen Fisch genießen, während Sie die Luxusyachten im türkisfarbenen Wasser beobachten.\n\nDer Nachmittag gehört der Entspannung am berühmten Spiaggia Nera. Der schwarze Vulkansand bietet einen faszinierenden Kontrast zu den Klippen und dem kristallklaren Meer.\n\nBeenden Sie den Tag mit einem Besuch der Grotta delle Meraviglie, einem unterirdischen Juwel voller Stalaktiten, bevor Sie den Sonnenuntergang über dem Tyrrhenischen Meer genießen.",
+        "hu": "Kezdje a reggelt Maratea bájos óvárosában, ahol minden sarok egy új történetet mesél. Sétáljon a középkori utcákon és látogasson el a Santa Maria Maggiore templomba.\n\nDélben ereszkedjen le a festői kikötőbe. Itt friss halat kóstolhat, miközben a türkizkék vízben ringatózó luxusjachtokat figyeli.\n\nA délután a kikapcsolódásé a híres Spiaggia Nerán. A fekete vulkáni homok lenyűgöző kontrasztot alkot a sziklákkal és a kristálytiszta tengerrel.\n\nA napot a Grotta delle Meraviglie meglátogatásával zárja, amely egy sztalaktitokkal teli földalatti ékszerdoboz, mielőtt megcsodálná a naplementét a Tirrén-tenger felett.",
+        "ro": "Începeți dimineața în fermecătorul Centro Storico din Maratea, unde fiecare colț spune o nouă poveste. Plimbați-vă pe străzile medievale și vizitați Biserica Santa Maria Maggiore.\n\nLa prânz, coborâți spre portul pitoresc. Aici puteți savura pește proaspăt în timp ce admirați iahturile de lux din apele turcoaz.\n\nDupă-amiaza este dedicată relaxării pe faimoasa Spiaggia Nera. Nisipul negru vulcanic oferă un contrast fascinant cu stâncile și marea cristalină.\n\nÎncheiați ziua cu o vizită la Grotta delle Meraviglie, o bijuterie subterană plină de stalactite, înainte de a admira apusul peste Marea Tireniană.",
+        "en": "Start your morning in Maratea's charming Centro Storico, where every corner tells a new story. Wander through the medieval alleys and visit the Church of Santa Maria Maggiore.\n\nAt midday, descend to the picturesque harbor. Here you can enjoy fresh fish while watching the luxury yachts in the turquoise water.\n\nThe afternoon belongs to relaxation at the famous Spiaggia Nera. The black volcanic sand offers a fascinating contrast to the cliffs and the crystal-clear sea.\n\nEnd the day with a visit to the Grotta delle Meraviglie, an underground jewel full of stalactites, before enjoying the sunset over the Tyrrhenian Sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Alici alla Marateota",
+            "tip": "Sardellen mariniert mit lokalem Chili."
+          },
+          {
+            "name": "Taverna del Porto",
+            "tip": "Frische Meeresfrüchte direkt am Kai."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alici alla Marateota",
+            "tip": "Helyi chilivel pácolt szardella."
+          },
+          {
+            "name": "Taverna del Porto",
+            "tip": "Friss tengeri gyümölcsök közvetlenül a mólónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alici alla Marateota",
+            "tip": "Anșoa marinată cu chili local."
+          },
+          {
+            "name": "Taverna del Porto",
+            "tip": "Fructe de mare proaspete chiar pe chei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alici alla Marateota",
+            "tip": "Anchovies marinated with local chili."
+          },
+          {
+            "name": "Taverna del Porto",
+            "tip": "Fresh seafood right by the quay."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piazza Buraglia",
+            "tip": "Ruhiger Platz für einen Espresso am Morgen.",
+            "emoji": "☕"
+          },
+          {
+            "name": "Belvedere Spiaggia Nera",
+            "tip": "Panoramablick auf die Bucht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza Buraglia",
+            "tip": "Csendes tér egy reggeli eszpresszóhoz.",
+            "emoji": "☕"
+          },
+          {
+            "name": "Belvedere Spiaggia Nera",
+            "tip": "Panorámás kilátás az öbölre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazza Buraglia",
+            "tip": "Piață liniștită pentru un espresso dimineața.",
+            "emoji": "☕"
+          },
+          {
+            "name": "Belvedere Spiaggia Nera",
+            "tip": "Vedere panoramică asupra golfului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza Buraglia",
+            "tip": "Quiet square for a morning espresso.",
+            "emoji": "☕"
+          },
+          {
+            "name": "Belvedere Spiaggia Nera",
+            "tip": "Panoramic view of the bay.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bottega d'Arte",
+            "tip": "Handgefertigte Keramik und Webwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bottega d'Arte",
+            "tip": "Kézműves kerámiák és szőtt áruk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bottega d'Arte",
+            "tip": "Ceramică artizanală și țesături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bottega d'Arte",
+            "tip": "Handmade ceramics and woven goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die steilen Treppen.",
+          "Die Treppen zwischen Altstadt und Hafen sind anstrengend, aber lohnend.",
+          "Trinken Sie viel Wasser, es gibt viele öffentliche Brunnen.",
+          "Reservieren Sie den Höhlenbesuch im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a meredek lépcsőkhöz.",
+          "Az óváros és a kikötő közötti lépcsők fárasztóak, de megérik.",
+          "Igyon sok vizet, sok a nyilvános kút.",
+          "Foglalja le előre a barlanglátogatást."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru scările abrupte.",
+          "Scările dintre centrul vechi și port sunt obositoare, dar merită.",
+          "Beți multă apă, există multe cișmele publice.",
+          "Rezervați vizita la peșteră în avans."
+        ],
+        "en": [
+          "Wear comfortable shoes for the steep stairs.",
+          "The stairs between the old town and the port are tiring but rewarding.",
+          "Drink plenty of water, there are many public fountains.",
+          "Book the cave visit in advance."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Cristo Redentore",
+          "coords": [
+            15.722,
+            40.002
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Atemberaubender 360-Grad-Blick.",
+            "hu": "Lélegzetelállító 360 fokos kilátás.",
+            "ro": "Vedere panoramică de 360 de grade uimitoare.",
+            "en": "Breathtaking 360-degree view."
+          }
+        },
+        {
+          "name": "Basilica di San Biagio",
+          "coords": [
+            15.7225,
+            40.0015
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Grab des Schutzpatrons.",
+            "hu": "Látogassa meg a védőszent sírját.",
+            "ro": "Vizitați mormântul sfântului patron.",
+            "en": "Visit the tomb of the patron saint."
+          }
+        },
+        {
+          "name": "Castello di Castrocucco",
+          "coords": [
+            15.755,
+            39.935
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Ruinen einer alten Festung auf dem Hügel.",
+            "hu": "Egy ősi erőd romjai a dombtetőn.",
+            "ro": "Ruinele unei vechi cetăți pe deal.",
+            "en": "Ruins of an ancient fortress on the hill."
+          }
+        },
+        {
+          "name": "Porto di Maratea",
+          "coords": [
+            15.712,
+            39.991
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Gastro-Stopp im Yachthafen.",
+            "hu": "Gasztro megálló a jachtkikötőben.",
+            "ro": "Oprire gastronomică în portul de iahturi.",
+            "en": "Gastro stop in the marina."
+          }
+        },
+        {
+          "name": "Grotta delle Meraviglie",
+          "coords": [
+            15.708,
+            39.988
+          ],
+          "category": "natural features",
+          "arrive_at": "15:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kühler Rückzugsort am Nachmittag.",
+            "hu": "Hűvös menedék délután.",
+            "ro": "Refugiu răcoros după-amiaza.",
+            "en": "Cool retreat in the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens hinauf zum Monte San Biagio zur majestätischen Christusstatue. Von hier oben scheint die Welt stillzustehen, während Sie auf die Küste blicken.\n\nNach dem Besuch der benachbarten Basilika führt Sie die Fahrt in den Süden zu den imposanten Ruinen des Castello di Castrocucco, das über dem Golf thront.\n\nZum Mittagessen kehren Sie zum Hafen von Maratea zurück, wo Sie bequem parken und die maritime Atmosphäre genießen können.\n\nAm Nachmittag bietet die Grotta delle Meraviglie eine magische Abkühlung unter der Erde, bevor Sie die Panorama-Küstenstraße SS18 befahren.",
+        "hu": "Reggel hajtson fel a Monte San Biagio-ra a fenséges Krisztus-szoborhoz. Innen fentről megállni látszik az idő, miközben a partvidéket szemléli.\n\nA szomszédos bazilika meglátogatása után délnek tartson Castrocucco várának impozáns romjaihoz, amely az öböl felett trónol.\n\nEbédre térjen vissza Maratea kikötőjébe, ahol kényelmesen parkolhat és élvezheti a tengerparti hangulatot.\n\nDélután a Grotta delle Meraviglie varázslatos hűvöst kínál a föld alatt, mielőtt végighajtana az SS18-as panorámaúton.",
+        "ro": "Dimineața, conduceți până pe Muntele San Biagio la maiestuoasa statuie a lui Hristos. De aici, lumea pare să stea în loc în timp ce priviți coasta.\n\nDupă vizitarea basilicii vecine, drumul vă duce spre sud la ruinele impunătoare ale Castelului Castrocucco, care domină golful.\n\nPentru prânz, reveniți în portul Maratea, unde puteți parca confortabil și vă puteți bucura de atmosfera maritimă.\n\nDupă-amiaza, Grotta delle Meraviglie oferă o răcoare magică sub pământ, înainte de a parcurge drumul panoramic de coastă SS18.",
+        "en": "In the morning, drive up to Monte San Biagio to the majestic statue of Christ. From up here, the world seems to stand still as you look out over the coastline.\n\nAfter visiting the neighboring basilica, the drive takes you south to the imposing ruins of the Castello di Castrocucco, perched over the gulf.\n\nFor lunch, return to the port of Maratea, where you can park comfortably and enjoy the maritime atmosphere.\n\nThe afternoon offers a magical cooling underground at the Grotta delle Meraviglie, before driving along the panoramic coastal road SS18."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caciocavallo Podolico",
+            "tip": "Edler Käse aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caciocavallo Podolico",
+            "tip": "Nemes sajt a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caciocavallo Podolico",
+            "tip": "Brânză nobilă din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caciocavallo Podolico",
+            "tip": "Noble cheese from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Statua del Cristo",
+            "tip": "Stille und Weite am frühen Morgen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Statua del Cristo",
+            "tip": "Csend és tágasság kora reggel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Statua del Cristo",
+            "tip": "Liniște și vastitate dimineața devreme.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Statua del Cristo",
+            "tip": "Silence and vastness in the early morning.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Caseificio locale",
+            "tip": "Kaufen Sie frischen Mozzarella für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caseificio locale",
+            "tip": "Vásároljon friss mozzarellát egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caseificio locale",
+            "tip": "Cumpărați mozzarella proaspătă pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caseificio locale",
+            "tip": "Buy fresh mozzarella for a picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zum Cristo ist sehr kurvenreich.",
+          "Parken am Hafen ist kostenpflichtig.",
+          "Vermeiden Sie Fahrten in das ZTL der Altstadt.",
+          "Die SS18 bietet die besten Fotostopps."
+        ],
+        "hu": [
+          "A Krisztushoz vezető út nagyon kanyargós.",
+          "A kikötői parkolás fizetős.",
+          "Kerülje az autóval való behajtást az óvárosi ZTL-be.",
+          "Az SS18-as út kínálja a legjobb fotómegállókat."
+        ],
+        "ro": [
+          "Drumul spre Hristos este foarte sinuos.",
+          "Parcarea în port este cu plată.",
+          "Evitați conducerea în ZTL-ul centrului vechi.",
+          "Drumul SS18 oferă cele mai bune opriri pentru fotografii."
+        ],
+        "en": [
+          "The road to Christ is very winding.",
+          "Parking at the port is paid.",
+          "Avoid driving into the ZTL of the old town.",
+          "The SS18 road offers the best photo stops."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 12.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Porto di Maratea",
+          "coords": [
+            15.712,
+            39.991
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Starten Sie im flacheren Hafengebiet.",
+            "hu": "Kezdjen a laposabb kikötői részen.",
+            "ro": "Începeți în zona mai plană a portului.",
+            "en": "Start in the flatter harbor area."
+          }
+        },
+        {
+          "name": "Spiaggia Nera",
+          "coords": [
+            15.705,
+            39.985
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Küstentour mit Meerblick.",
+            "hu": "Partmenti túra tengeri kilátással.",
+            "ro": "Tur de coastă cu vedere la mare.",
+            "en": "Coastal tour with sea views."
+          }
+        },
+        {
+          "name": "Centro Storico",
+          "coords": [
+            15.7195,
+            39.9985
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Anspruchsvoller Anstieg zur Altstadt.",
+            "hu": "Kihívást jelentő emelkedő az óvárosba.",
+            "ro": "Urcare solicitantă spre centrul vechi.",
+            "en": "Challenging climb to the old town."
+          }
+        },
+        {
+          "name": "Chiesa di Santa Maria Maggiore",
+          "coords": [
+            15.7202,
+            39.9975
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Abfahrt.",
+            "hu": "Utolsó megálló a legurulás előtt.",
+            "ro": "Ultima oprire înainte de coborâre.",
+            "en": "Last stop before the descent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Genießen Sie eine aktive Tour entlang der Küste von Maratea. Beginnen Sie am Hafen und radeln Sie gemütlich zum Spiaggia Nera.\n\nNach einem erfrischenden Bad im Meer wartet die sportliche Herausforderung: der Anstieg zur historischen Altstadt.\n\nOben angekommen, belohnen Sie sich mit einem kühlen Getränk auf der Piazza Buraglia und erkunden die verwinkelten Gassen zu Fuß.\n\nDie Abfahrt zurück zur Küste bietet spektakuläre Ausblicke auf das Tyrrhenische Meer.",
+        "hu": "Élvezze az aktív túrát Maratea partjai mentén. Kezdjen a kikötőben, és tekerjen kényelmesen a Spiaggia Nerához.\n\nA tengeri frissítő után vár a sportos kihívás: az emelkedő a történelmi óvárosba.\n\nA csúcsra érve jutalmazza meg magát egy hűsítővel a Piazza Buraglián, és fedezze fel gyalogosan a kanyargós utcákat.\n\nA visszatérés a partra látványos kilátást nyújt a Tirrén-tengerre.",
+        "ro": "Bucurați-vă de un tur activ de-a lungul coastei din Maratea. Începeți în port și pedalați lejer spre Spiaggia Nera.\n\nDupă o baie răcoritoare în mare, vă așteaptă provocarea sportivă: urcarea spre centrul istoric.\n\nAjunși sus, recompensați-vă cu o băutură rece în Piazza Buraglia și explorați străduțele întortocheate la pas.\n\nCoborârea înapoi spre coastă oferă priveliști spectaculoase asupra Mării Tireniene.",
+        "en": "Enjoy an active tour along the coast of Maratea. Start at the port and cycle leisurely to Spiaggia Nera.\n\nAfter a refreshing dip in the sea, the sporting challenge awaits: the climb to the historic old town.\n\nOnce at the top, reward yourself with a cool drink in Piazza Buraglia and explore the winding alleys on foot.\n\nThe descent back to the coast offers spectacular views of the Tyrrhenian Sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gelato artigianale",
+            "tip": "Erfrischung nach dem Anstieg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves fagylalt",
+            "tip": "Felfrissülés az emelkedő után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Înghețată artizanală",
+            "tip": "Răcorire după urcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artisanal gelato",
+            "tip": "Refreshment after the climb."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sentiero del Mediterraneo",
+            "tip": "Ruhiger Küstenweg.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sentiero del Mediterraneo",
+            "tip": "Csendes partmenti ösvény.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sentiero del Mediterraneo",
+            "tip": "Potecă de coastă liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sentiero del Mediterraneo",
+            "tip": "Quiet coastal path.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Direkt beim Erzeuger kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Vásároljon közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local olive oil",
+            "tip": "Buy directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein E-Bike wird für die Steigungen empfohlen.",
+          "Vermeiden Sie die Mittagshitze.",
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt.",
+          "Es gibt wenig Schatten an der Küstenstraße."
+        ],
+        "hu": [
+          "E-bike ajánlott az emelkedőkhöz.",
+          "Kerülje a déli hőséget.",
+          "Ellenőrizze a fékeket a lejtő előtt.",
+          "Kevés az árnyék a partmenti úton."
+        ],
+        "ro": [
+          "Se recomandă o bicicletă electrică pentru pante.",
+          "Evitați canicula de la prânz.",
+          "Verificați frânele înainte de coborâre.",
+          "Există puțină umbră pe drumul de coastă."
+        ],
+        "en": [
+          "An e-bike is recommended for the climbs.",
+          "Avoid the midday heat.",
+          "Check your brakes before the descent.",
+          "There is little shade on the coastal road."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 10.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Cristo Redentore",
+          "coords": [
+            15.722,
+            40.002
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Shuttle-Bus zum Gipfel.",
+            "hu": "Használja az ingajáratot a csúcsra.",
+            "ro": "Folosiți autobuzul de transfer spre vârf.",
+            "en": "Use the shuttle bus to the summit."
+          }
+        },
+        {
+          "name": "Centro Storico",
+          "coords": [
+            15.7195,
+            39.9985
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Zentraler Umsteigepunkt.",
+            "hu": "Központi átszállási pont.",
+            "ro": "Punct central de transfer.",
+            "en": "Central transfer point."
+          }
+        },
+        {
+          "name": "Porto di Maratea",
+          "coords": [
+            15.712,
+            39.991
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Buslinie verbindet Altstadt und Hafen.",
+            "hu": "Buszjárat köti össze az óvárost és a kikötőt.",
+            "ro": "Linia de autobuz face legătura între centrul vechi și port.",
+            "en": "Bus line connects the old town and the port."
+          }
+        },
+        {
+          "name": "Spiaggia Nera",
+          "coords": [
+            15.705,
+            39.985
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Bushaltestelle.",
+            "hu": "Rövid séta a buszmegállótól.",
+            "ro": "Scurtă plimbare de la stația de autobuz.",
+            "en": "Short walk from the bus stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Maratea ganz entspannt mit den lokalen Bussen. Beginnen Sie mit dem Shuttle zum majestätischen Cristo Redentore.\n\nNachdem Sie die Aussicht genossen haben, bringt Sie der Bus zurück in das historische Zentrum für einen gemütlichen Bummel.\n\nAm Mittag fahren Sie hinunter zum Hafen, wo Sie das maritime Treiben bei einem Mittagessen beobachten können.\n\nBeenden Sie Ihren Tag an der Spiaggia Nera, bevor Sie mit dem letzten Bus zurück zu Ihrer Unterkunft fahren.",
+        "hu": "Fedezze fel Marateát kényelmesen a helyi buszokkal. Kezdje az ingajárattal a fenséges Krisztus-szobornál.\n\nA kilátás után a busz visszaviszi a történelmi központba egy kellemes sétára.\n\nDélben utazzon le a kikötőbe, ahol ebéd közben figyelheti a tengerparti nyüzsgést.\n\nZárja a napot a Spiaggia Nerán, mielőtt az utolsó busszal visszatérne szállására.",
+        "ro": "Descoperiți Maratea relaxat cu autobuzele locale. Începeți cu transferul către maiestuosul Cristo Redentore.\n\nDupă ce ați admirat priveliștea, autobuzul vă aduce înapoi în centrul istoric pentru o plimbare lejeră.\n\nLa prânz, mergeți în port, unde puteți observa agitația maritimă în timpul mesei.\n\nÎncheiați ziua pe Spiaggia Nera înainte de a lua ultimul autobuz înapoi spre cazare.",
+        "en": "Discover Maratea in a relaxed way with local buses. Start with the shuttle to the majestic Cristo Redentore.\n\nAfter enjoying the view, the bus takes you back to the historic center for a leisurely stroll.\n\nAt midday, take the bus down to the port, where you can watch the maritime activity over lunch.\n\nEnd your day at Spiaggia Nera before taking the last bus back to your accommodation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasticceria del Centro",
+            "tip": "Lokale Süßigkeiten probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasticceria del Centro",
+            "tip": "Kóstolja meg a helyi édességeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasticceria del Centro",
+            "tip": "Gustați dulciurile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasticceria del Centro",
+            "tip": "Try local sweets."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Porto Bänke",
+            "tip": "Blick auf die Fischerboote.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Porto padok",
+            "tip": "Kilátás a halászhajókra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci în port",
+            "tip": "Vedere la bărcile de pescuit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Port benches",
+            "tip": "View of the fishing boats.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen am Cristo",
+            "tip": "Miniatur-Statuen und Postkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírbolt a Krisztusnál",
+            "tip": "Miniatűr szobrok és képeslapok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri la Hristos",
+            "tip": "Miniaturi ale statuii și vederi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shop at Christ",
+            "tip": "Miniature statues and postcards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Fahrkarten im Tabacchi oder beim Fahrer.",
+          "Die Fahrpläne ändern sich saisonal.",
+          "Der Shuttle zum Cristo fährt alle 20-30 Minuten.",
+          "Planen Sie Pufferzeit ein."
+        ],
+        "hu": [
+          "Vásároljon jegyet a Tabacchi-ban vagy a sofőrnél.",
+          "A menetrendek szezonálisan változnak.",
+          "Az ingajárat a Krisztushoz 20-30 percenként jár.",
+          "Számoljon ráhagyással."
+        ],
+        "ro": [
+          "Cumpărați bilete de la Tabacchi sau de la șofer.",
+          "Orarele se schimbă sezonier.",
+          "Transferul către Hristos circulă la fiecare 20-30 minute.",
+          "Planificați timp suplimentar."
+        ],
+        "en": [
+          "Buy tickets at a Tabacchi or from the driver.",
+          "Schedules change seasonally.",
+          "The shuttle to Christ runs every 20-30 minutes.",
+          "Allow for buffer time."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "_coords": [
+      15.7194,
+      39.9994
+    ],
+    "_region": "IT-77 Basilicata",
+    "transit_official": "https://www.trenitalia.com/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Maratea",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.comune.maratea.pz.it/",
+    "tourism_office": "https://www.comune.maratea.pz.it/",
+    "webcam": "https://www.skylinewebcams.com/it/webcam/italia/basilicata/potenza/maratea.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/maratea",
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch dominant; lukanischer Dialekt lokal. Englisch in Hotels und Strandanlagen meist verfügbar.",
+      "hu": "Olasz dominál; lukán nyelvjárás helyi. Angol szállodákban és strandnál általában elérhető.",
+      "ro": "Italiana dominantă; dialect lucan local. Engleza ok în hoteluri și plaje cu stabilimenti.",
+      "en": "Italian dominant; Lucanian dialect heard locally. English usually fine in hotels and beach lidos."
+    },
+    "best_time": {
+      "de": "Mai–Juni und September für Strände und Christo-Wanderung; August heiß und überfüllt.",
+      "hu": "Május–június és szeptember a strandolásra és Krisztus-szobor túrára; augusztus forró és tömött.",
+      "ro": "Mai–iunie și septembrie pentru plaje și drumeție Cristo; august cald și aglomerat.",
+      "en": "May–June and September best for beaches and Christ statue hike; August hot and crowded."
+    },
+    "warnings": {
+      "de": "SS18 Küstenstraße kurvig; Parken im Borgo schwierig. Höhlenstrände nur per Boot.",
+      "hu": "SS18 parti út kanyargós; parkolás a Borgóban nehéz. Barlangstrandok csak hajóval.",
+      "ro": "SS18 sinuoasă; parcare dificilă în Borgo. Plajele-peșteră accesibile doar cu barca.",
+      "en": "SS18 coast road winding; parking tight in Borgo. Cave beaches reachable only by boat."
+    }
+  }
+}

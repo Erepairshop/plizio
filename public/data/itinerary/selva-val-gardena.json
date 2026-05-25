@@ -1,0 +1,984 @@
+{
+  "city_id": "selva-val-gardena",
+  "anchor": {
+    "name": "Selva di Val Gardena",
+    "coords": [
+      11.7619,
+      46.5589
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pfarrkirche Maria Hilf",
+            "hu": "Segítő Szűz Mária-templom",
+            "ro": "Biserica Maria Ajutătoare",
+            "en": "Parish Church Maria Hilf"
+          },
+          "coords": [
+            11.7595,
+            46.5552
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ladinischen Schnitzereien.",
+            "hu": "Csodálja meg a ladin fafaragásokat.",
+            "ro": "Admirați sculpturile ladine.",
+            "en": "Admire the Ladin wood carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Wolkenstein",
+            "hu": "Wolkenstein várrom",
+            "ro": "Ruinele Castelului Wolkenstein",
+            "en": "Wolkenstein Castle Ruins"
+          },
+          "coords": [
+            11.7765,
+            46.5615
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Festes Schuhwerk für den Aufstieg nötig.",
+            "hu": "A feljutáshoz túrabakancs ajánlott.",
+            "ro": "Încălțăminte adecvată pentru urcare.",
+            "en": "Sturdy shoes needed for the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Langental",
+            "hu": "Langental-völgy",
+            "ro": "Valea Langental",
+            "en": "Langental Valley"
+          },
+          "coords": [
+            11.785,
+            46.568
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ideal für ein Picknick in der Natur.",
+            "hu": "Ideális egy erdei piknikhez.",
+            "ro": "Ideal pentru un picnic în natură.",
+            "en": "Ideal for a nature picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Saslong Aussichtspunkt",
+            "hu": "Saslong kilátópont",
+            "ro": "Punct de belvedere Saslong",
+            "en": "Saslong Viewpoint"
+          },
+          "coords": [
+            11.755,
+            46.552
+          ],
+          "category": "natural features",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bester Blick auf die Weltcup-Abfahrt.",
+            "hu": "Legjobb kilátás a világkupa-pályára.",
+            "ro": "Cea mai bună vedere spre pârtia de Cupă Mondială.",
+            "en": "Best view of the World Cup run."
+          }
+        },
+        {
+          "name": {
+            "de": "Ciampinoi",
+            "hu": "Ciampinoi felvonó",
+            "ro": "Telecabina Ciampinoi",
+            "en": "Ciampinoi Cable Car"
+          },
+          "coords": [
+            11.758,
+            46.554
+          ],
+          "category": "natural features",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang am Langkofel.",
+            "hu": "Élvezze a naplementét a Langkofel felett.",
+            "ro": "Bucurați-vă de apusul peste Langkofel.",
+            "en": "Enjoy the sunset over the Langkofel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im malerischen Zentrum von Wolkenstein bei der Maria Hilf Kirche. Wandern Sie anschließend hinauf zur geschichtsträchtigen Burgruine Wolkenstein, die direkt im Fels thront. Der Nachmittag gehört der Ruhe im Langental, einem der schönsten Täler der Dolomiten. Zum Abschluss bietet der Ciampinoi ein spektakuläres Panorama auf den imposanten Langkofel bei Abendlicht.",
+        "hu": "Kezdje a napot Wolkenstein festői központjában, a Segítő Szűz Mária-templomnál. Ezután túrázzon fel a történelmi Wolkenstein-várromhoz, amely közvetlenül a sziklába épült. A délutánt töltse a Langental-völgy békéjében, amely a Dolomitok egyik legszebb völgye. Végezetül a Ciampinoi csúcsáról csodálja meg a hatalmas Langkofel-hegyre nyíló panorámát az esti fényekben.",
+        "ro": "Începeți ziua în centrul pitoresc din Selva la Biserica Maria Ajutătoare. Apoi, urcați spre ruinele istorice ale Castelului Wolkenstein, cocoțate direct în stâncă. După-amiaza este dedicată liniștii din Valea Langental, una dintre cele mai frumoase văi din Dolomiți. La final, Ciampinoi oferă o panoramă spectaculoasă asupra masivului Langkofel în lumina serii.",
+        "en": "Start your day in the picturesque center of Selva at the Maria Hilf Church. Then hike up to the historic Wolkenstein castle ruins, perched directly in the rock. Spend the afternoon in the peace of Langental Valley, one of the most beautiful valleys in the Dolomites. Finally, Ciampinoi offers a spectacular panorama of the imposing Langkofel mountain in the evening light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Speckknödel",
+            "tip": "Probieren Sie diese im Ristorante La Bula."
+          },
+          {
+            "name": "Schlipfkrapfen",
+            "tip": "Gefüllte Teigtaschen im Restaurant Armin."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szalonnás gombóc",
+            "tip": "Kóstolja meg a La Bula étteremben."
+          },
+          {
+            "name": "Schlipfkrapfen",
+            "tip": "Töltött tészta az Armin étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Găluște cu slănină",
+            "tip": "Încercați-le la Ristorante La Bula."
+          },
+          {
+            "name": "Schlipfkrapfen",
+            "tip": "Paste umplute la Restaurant Armin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Speck Knödel",
+            "tip": "Try these at Ristorante La Bula."
+          },
+          {
+            "name": "Schlipfkrapfen",
+            "tip": "Filled pasta pockets at Restaurant Armin."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St. Silvester Kapelle",
+            "tip": "Ein Ort der Stille im Langental.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Szilveszter kápolna",
+            "tip": "A csend szigete a Langental-völgyben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela Sf. Silvestru",
+            "tip": "Un loc de liniște în Valea Langental.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Sylvester Chapel",
+            "tip": "A place of silence in Langental Valley.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ladinische Holzschnitzerei",
+            "tip": "Handgefertigte Figuren im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ladin fafaragás",
+            "tip": "Kézzel készült szobrok a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sculptură în lemn ladină",
+            "tip": "Figurine lucrate manual în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ladin Woodcarving",
+            "tip": "Handcrafted figures in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe.",
+          "Nutzen Sie den Val Gardena Bus für kurze Wege.",
+          "Buchen Sie Lifttickets online.",
+          "Wetterumschwünge sind in den Bergen häufig."
+        ],
+        "hu": [
+          "Viseljen kényelmes túrabakancsot.",
+          "Használja a Val Gardena buszt a távok áthidalására.",
+          "Foglalja le a felvonójegyeket online.",
+          "A hegyekben gyakori a hirtelen időjárás-változás."
+        ],
+        "ro": [
+          "Purtați bocanci de drumeție confortabili.",
+          "Folosiți autobuzul Val Gardena pentru distanțe scurte.",
+          "Rezervați biletele pentru telecabină online.",
+          "Schimbările de vreme sunt frecvente la munte."
+        ],
+        "en": [
+          "Wear comfortable hiking boots.",
+          "Use the Val Gardena bus for short transfers.",
+          "Book lift tickets online to save time.",
+          "Weather changes are frequent in the mountains."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 18.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Langental Radweg",
+            "hu": "Langental kerékpárút",
+            "ro": "Pista de biciclete Langental",
+            "en": "Langental Bike Path"
+          },
+          "coords": [
+            11.785,
+            46.568
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Leichte Strecke für den Start.",
+            "hu": "Könnyű terep a kezdéshez.",
+            "ro": "Traseu ușor pentru început.",
+            "en": "Easy route for the start."
+          }
+        },
+        {
+          "name": {
+            "de": "Dantercepies Bergstation",
+            "hu": "Dantercepies hegyállomás",
+            "ro": "Stația de sus Dantercepies",
+            "en": "Dantercepies Top Station"
+          },
+          "coords": [
+            11.788,
+            46.554
+          ],
+          "category": "natural features",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Biketransport der Seilbahn.",
+            "hu": "Használja a felvonó kerékpárszállítóját.",
+            "ro": "Folosiți transportul de biciclete al telecabinei.",
+            "en": "Use the cable car bike transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Grödner Joch",
+            "hu": "Grödner-hágó",
+            "ro": "Pasul Gardena",
+            "en": "Gardena Pass"
+          },
+          "coords": [
+            11.808,
+            46.549
+          ],
+          "category": "natural features",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Atemberaubender Blick auf die Sella-Gruppe.",
+            "hu": "Lélegzetelállító kilátás a Sella-csoportra.",
+            "ro": "Vedere uluitoare spre Grupul Sella.",
+            "en": "Breathtaking view of the Sella Group."
+          }
+        },
+        {
+          "name": {
+            "de": "Sellajoch",
+            "hu": "Sella-hágó",
+            "ro": "Pasul Sella",
+            "en": "Sella Pass"
+          },
+          "coords": [
+            11.757,
+            46.508
+          ],
+          "category": "natural features",
+          "arrive_at": "14:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Die Steinstadt am Fuße des Langkofels erkunden.",
+            "hu": "Fedezze fel a 'Kővárost' a Langkofel lábánál.",
+            "ro": "Explorați 'Orașul de Piatră' de la baza masivului Langkofel.",
+            "en": "Explore the 'Stone City' at the foot of Langkofel."
+          }
+        },
+        {
+          "name": {
+            "de": "Plan de Gralba",
+            "hu": "Plan de Gralba",
+            "ro": "Plan de Gralba",
+            "en": "Plan de Gralba"
+          },
+          "coords": [
+            11.775,
+            46.535
+          ],
+          "category": "natural features",
+          "arrive_at": "15:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Schöner Rastplatz vor der Abfahrt ins Dorf.",
+            "hu": "Szép pihenőhely a faluba való leereszkedés előtt.",
+            "ro": "Loc de odihnă frumos înainte de coborârea în sat.",
+            "en": "Nice rest area before descending to the village."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Dolomitenpässe auf zwei Rädern! Starten Sie gemütlich im Langental, bevor Sie die Auffahrt zum Dantercepies wagen. Vom Grödner Joch aus genießen Sie eine rasante Fahrt zum Sellajoch, dem Herzstück der Sellaronda. Der Tag endet mit einer Panoramabfahrt über Plan de Gralba zurück nach Wolkenstein.",
+        "hu": "Fedezze fel a Dolomitok hágóit két keréken! Kezdjen kényelmesen a Langental-völgyben, mielőtt belevágna a Dantercepies emelkedőjébe. A Grödner-hágótól élvezze a gyors gurulást a Sella-hágó felé, amely a Sellaronda szíve. A nap egy panorámás leereszkedéssel zárul Plan de Gralba érintésével vissza Wolkensteinbe.",
+        "ro": "Explorați pasurile Dolomiților pe două roți! Începeți relaxat în Valea Langental, înainte de a urca spre Dantercepies. De la Pasul Gardena, bucurați-vă de o cursă rapidă spre Pasul Sella, inima circuitului Sellaronda. Ziua se încheie cu o coborâre panoramică prin Plan de Gralba înapoi în Selva.",
+        "en": "Explore the Dolomite passes on two wheels! Start comfortably in Langental Valley before tackling the ascent to Dantercepies. From Gardena Pass, enjoy a scenic ride to Sella Pass, the heart of the Sellaronda. The day ends with a panoramic descent via Plan de Gralba back to Selva."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "Beste Stärkung auf der Jimmy Hütte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "A legjobb energiaforrás a Jimmy hüttében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "Cea mai bună gustare la Cabana Jimmy."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "Best refuel at Jimmy Hütte."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Puez-Geisler Ausblick",
+            "tip": "Ruhiger Moment am Grödner Joch.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Puez-Geisler kilátás",
+            "tip": "Csendes pillanat a Grödner-hágón.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederea Puez-Geisler",
+            "tip": "Moment de liniște la Pasul Gardena.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Puez-Geisler View",
+            "tip": "Quiet moment at Gardena Pass.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bike-Zubehör",
+            "tip": "Lokale Shops in Wolkenstein bieten Top-Ausrüstung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpáros kiegészítők",
+            "tip": "A helyi boltok kiváló felszerelést kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii de bicicletă",
+            "tip": "Magazinele locale oferă echipament de top."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Gear",
+            "tip": "Local shops offer top-quality equipment."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "E-Bikes werden für die Pässe empfohlen.",
+          "Helm ist Pflicht.",
+          "Achten Sie auf Wanderer auf geteilten Wegen.",
+          "Nehmen Sie ausreichend Wasser mit."
+        ],
+        "hu": [
+          "Az E-bike ajánlott a hágók leküzdéséhez.",
+          "A bukósisak kötelező.",
+          "Ügyeljen a túrázókra a közös utakon.",
+          "Vigyen magával elegendő vizet."
+        ],
+        "ro": [
+          "E-bike-urile sunt recomandate pentru pasuri.",
+          "Casca este obligatorie.",
+          "Atenție la drumeți pe traseele comune.",
+          "Luați suficientă apă cu voi."
+        ],
+        "en": [
+          "E-bikes are highly recommended for the passes.",
+          "Helmets are mandatory.",
+          "Watch out for hikers on shared trails.",
+          "Carry plenty of water."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Grödner Joch",
+            "hu": "Grödner-hágó",
+            "ro": "Pasul Gardena",
+            "en": "Gardena Pass"
+          },
+          "coords": [
+            11.808,
+            46.549
+          ],
+          "category": "natural features",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Pass.",
+            "hu": "Nagy parkoló közvetlenül a hágónál.",
+            "ro": "Parcare mare direct la pas.",
+            "en": "Large parking lot directly at the pass."
+          }
+        },
+        {
+          "name": {
+            "de": "Pass Pordoi (Abstecher)",
+            "hu": "Pordoi-hágó",
+            "ro": "Pasul Pordoi",
+            "en": "Pordoi Pass"
+          },
+          "coords": [
+            11.81,
+            46.488
+          ],
+          "category": "natural features",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Fahrt mit der Seilbahn zum Sass Pordoi lohnt sich.",
+            "hu": "Érdemes felmenni a Sass Pordoi felvonóval.",
+            "ro": "Merită să urcați cu telecabina la Sass Pordoi.",
+            "en": "The cable car to Sass Pordoi is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Sellajoch",
+            "hu": "Sella-hágó",
+            "ro": "Pasul Sella",
+            "en": "Sella Pass"
+          },
+          "coords": [
+            11.757,
+            46.508
+          ],
+          "category": "natural features",
+          "arrive_at": "12:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Blick auf den Marmolata-Gletscher.",
+            "hu": "Kilátás a Marmolata-gleccserre.",
+            "ro": "Vedere spre ghețarul Marmolada.",
+            "en": "View of the Marmolada glacier."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Pana",
+            "hu": "Monte Pana",
+            "ro": "Monte Pana",
+            "en": "Monte Pana"
+          },
+          "coords": [
+            11.722,
+            46.545
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Sonniges Hochplateau über St. Christina.",
+            "hu": "Napsütötte fennsík St. Christina felett.",
+            "ro": "Platou însorit deasupra localității S. Cristina.",
+            "en": "Sunny high plateau above S. Cristina."
+          }
+        },
+        {
+          "name": {
+            "de": "Saslong Classic",
+            "hu": "Saslong Classic",
+            "ro": "Saslong Classic",
+            "en": "Saslong Classic"
+          },
+          "coords": [
+            11.755,
+            46.552
+          ],
+          "category": "natural features",
+          "arrive_at": "16:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Talstation der berühmten Piste.",
+            "hu": "Látogasson el a híres pálya völgyállomásához.",
+            "ro": "Vizitați stația de jos a faimoasei pârtii.",
+            "en": "Visit the base station of the famous run."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour führt Sie über die spektakulärsten Dolomitenpässe. Beginnen Sie am Grödner Joch mit Blick auf das Gadertal, fahren Sie weiter zum geschichtsträchtigen Pordoi-Pass und kehren Sie über das Sellajoch zurück. Am Nachmittag entspannen Sie auf dem Monte Pana, bevor Sie den Tag am Fuße der Saslong in Wolkenstein ausklingen lassen.",
+        "hu": "Ez az autós túra a leglátványosabb dolomiti hágókon vezet keresztül. Kezdjen a Grödner-hágónál, ahonnan kilátás nyílik a Gader-völgyre, folytassa az utat a történelmi Pordoi-hágó felé, majd térjen vissza a Sella-hágón át. Délután pihenjen a Monte Pana fennsíkján, mielőtt a Saslong lábánál zárná a napot.",
+        "ro": "Acest tur auto vă poartă peste cele mai spectaculoase pasuri ale Dolomiților. Începeți la Pasul Gardena cu vedere spre Val Badia, continuați spre istoricul Pas Pordoi și reveniți prin Pasul Sella. După-amiaza relaxați-vă pe Monte Pana, înainte de a încheia ziua la baza pârtiei Saslong.",
+        "en": "This car tour takes you over the most spectacular Dolomite passes. Start at Gardena Pass with views of Val Badia, continue to the historic Pordoi Pass, and return via Sella Pass. In the afternoon, relax on Monte Pana before ending the day at the foot of the Saslong in Selva."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hirschragout",
+            "tip": "In den Almhütten am Sellajoch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szarvaspörkölt",
+            "tip": "A Sella-hágó alpesi hüttéiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tocăniță de cerb",
+            "tip": "La cabanele de la Pasul Sella."
+          }
+        ],
+        "en": [
+          {
+            "name": "Venison Ragout",
+            "tip": "Available in mountain huts at Sella Pass."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piz Boé Blick",
+            "tip": "Ruhepause am Pordoi Pass.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piz Boé kilátás",
+            "tip": "Csendes pihenő a Pordoi-hágón.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere spre Piz Boé",
+            "tip": "Pauză de liniște la Pasul Pordoi.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piz Boé View",
+            "tip": "Rest at Pordoi Pass.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bergkäse",
+            "tip": "Direktverkauf in den Sennereien der Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hegyi sajt",
+            "tip": "Közvetlen vásárlás a környékbeli sajtüzemekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de munte",
+            "tip": "Vânzare directă la lăptăriile din zonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mountain Cheese",
+            "tip": "Buy directly from local dairies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Motorradfahrer.",
+          "Parkgebühren an den Pässen einplanen.",
+          "Tanken Sie im Tal.",
+          "Nutzen Sie die Motorbremse bergab."
+        ],
+        "hu": [
+          "Ügyeljen a motorkerékpárosokra.",
+          "Számoljon a hágók parkolási díjaival.",
+          "Tankoljon még a völgyben.",
+          "Használja a motorféket lejtmenetben."
+        ],
+        "ro": [
+          "Atenție la motocicliști.",
+          "Planificați taxele de parcare în pasuri.",
+          "Alimentați cu combustibil în vale.",
+          "Folosiți frâna de motor la coborâre."
+        ],
+        "en": [
+          "Watch out for motorcyclists.",
+          "Plan for parking fees at the passes.",
+          "Refuel in the valley.",
+          "Use engine braking on downhill sections."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Seilbahn Ciampinoi",
+            "hu": "Ciampinoi felvonó",
+            "ro": "Telecabina Ciampinoi",
+            "en": "Ciampinoi Cable Car"
+          },
+          "coords": [
+            11.758,
+            46.554
+          ],
+          "category": "natural features",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentrale Station in Wolkenstein.",
+            "hu": "Wolkenstein központi állomása.",
+            "ro": "Stație centrală în Selva.",
+            "en": "Central station in Selva."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus nach Plan de Gralba",
+            "hu": "Busz Plan de Gralba felé",
+            "ro": "Autobuz spre Plan de Gralba",
+            "en": "Bus to Plan de Gralba"
+          },
+          "coords": [
+            11.775,
+            46.535
+          ],
+          "category": "natural features",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Linie 471 verbindet die Pässe.",
+            "hu": "A 471-es vonal köti össze a hágókat.",
+            "ro": "Linia 471 face legătura între pasuri.",
+            "en": "Line 471 connects the passes."
+          }
+        },
+        {
+          "name": {
+            "de": "Sellajoch (Busstation)",
+            "hu": "Sella-hágó (buszmegálló)",
+            "ro": "Pasul Sella (stație autocar)",
+            "en": "Sella Pass (Bus stop)"
+          },
+          "coords": [
+            11.757,
+            46.508
+          ],
+          "category": "natural features",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Tolle Aussicht direkt an der Haltestelle.",
+            "hu": "Nagyszerű kilátás közvetlenül a megállónál.",
+            "ro": "Vedere excelentă direct din stație.",
+            "en": "Great views directly from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Dantercepies Gondel",
+            "hu": "Dantercepies kabinos felvonó",
+            "ro": "Telecabina Dantercepies",
+            "en": "Dantercepies Gondola"
+          },
+          "coords": [
+            11.768,
+            46.558
+          ],
+          "category": "natural features",
+          "arrive_at": "13:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Direkter Zugang von Wolkenstein-Ost.",
+            "hu": "Közvetlen elérhetőség Wolkenstein keleti részéről.",
+            "ro": "Acces direct din partea de est a localității.",
+            "en": "Direct access from Selva East."
+          }
+        },
+        {
+          "name": {
+            "de": "Rezia-Straße (Ortisei Ausflug)",
+            "hu": "Rezia-utca (Ortisei kirándulás)",
+            "ro": "Strada Rezia (excursie Ortisei)",
+            "en": "Rezia Street (Ortisei trip)"
+          },
+          "coords": [
+            11.673,
+            46.574
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Bequem mit dem Bus 350 erreichbar.",
+            "hu": "Kényelmesen elérhető a 350-es busszal.",
+            "ro": "Accesibil ușor cu autobuzul 350.",
+            "en": "Easily reached with bus 350."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des exzellenten Bussystems benötigen Sie in Wolkenstein kein Auto. Starten Sie mit der Ciampinoi-Seilbahn und nutzen Sie dann die Buslinie 471 zum Sellajoch. Nachmittags bringt Sie die Dantercepies-Gondel in luftige Höhen. Zum Abschluss lohnt ein kurzer Abstecher mit dem Regionalbus ins benachbarte Ortisei.",
+        "hu": "A kiváló buszhálózatnak köszönhetően Wolkensteinben nincs szüksége autóra. Kezdjen a Ciampinoi felvonóval, majd használja a 471-es járatot a Sella-hágóhoz. Délután a Dantercepies kabinjai repítik a magasba. Végezetül érdemes egy rövid kirándulást tenni a szomszédos Ortisei-be a regionális busszal.",
+        "ro": "Datorită sistemului excelent de transport, nu aveți nevoie de mașină în Selva. Începeți cu telecabina Ciampinoi și folosiți linia 471 spre Pasul Sella. După-amiaza, telecabina Dantercepies vă poartă la înălțime. La final, merită o scurtă excursie cu autobuzul regional în localitatea vecină Ortisei.",
+        "en": "Thanks to the excellent bus system, you don't need a car in Selva. Start with the Ciampinoi cable car, then use bus line 471 to Sella Pass. In the afternoon, the Dantercepies gondola takes you to the heights. Finally, a short trip to neighboring Ortisei by regional bus is well worth it."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Apfelstrudel",
+            "tip": "Überall in den Cafés an den Busstationen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Almás rétes",
+            "tip": "Minden kávézóban a buszmegállók környékén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ștrudel cu mere",
+            "tip": "Peste tot în cafenelele de lângă stații."
+          }
+        ],
+        "en": [
+          {
+            "name": "Apple Strudel",
+            "tip": "Available in all cafes near bus stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt-Panorama",
+            "tip": "Blick aus dem Fenster genießen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszos panoráma",
+            "tip": "Élvezze a kilátást az ablakból.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panoramă din autobuz",
+            "tip": "Bucurați-vă de vedere de la geam.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus Panorama",
+            "tip": "Enjoy the view from the window.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten",
+            "tip": "In den Kiosken am Sellajoch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapok",
+            "tip": "A Sella-hágó melletti újságosoknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederi",
+            "tip": "La chioșcurile de la Pasul Sella."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcards",
+            "tip": "At the kiosks at Sella Pass."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie die Mobilcard.",
+          "Fahrpläne in der Südtirol2go App prüfen.",
+          "Busse können im Sommer voll sein.",
+          "Pünktlichkeit ist hier Standard."
+        ],
+        "hu": [
+          "Vásárolja meg a Mobilcardot.",
+          "Ellenőrizze a menetrendet a Südtirol2go appban.",
+          "Nyáron a buszok zsúfoltak lehetnek.",
+          "A pontosság itt alapkövetelmény."
+        ],
+        "ro": [
+          "Cumpărați cardul Mobilcard.",
+          "Verificați orarele în aplicația Südtirol2go.",
+          "Autobuzele pot fi aglomerate vara.",
+          "Punctualitatea este o regulă aici."
+        ],
+        "en": [
+          "Get the Mobilcard for unlimited travel.",
+          "Check schedules in the Südtirol2go app.",
+          "Buses can be crowded in summer.",
+          "Punctuality is the standard here."
+        ]
+      }
+    }
+  }
+}

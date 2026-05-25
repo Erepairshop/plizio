@@ -1,0 +1,1094 @@
+{
+  "city_id": "genova",
+  "anchor": {
+    "name": "Genova",
+    "coords": [
+      8.9463,
+      44.4056
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 2.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza De Ferrari",
+            "hu": "Piazza De Ferrari",
+            "ro": "Piazza De Ferrari",
+            "en": "Piazza De Ferrari"
+          },
+          "coords": [
+            8.9338,
+            44.4072
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Bewundern Sie die Jugendstil-Architektur rund um den monumentalen Brunnen.",
+            "hu": "Csodáld meg a szecessziós építészetet a monumentális szökőkút körül.",
+            "ro": "Admirați arhitectura Art Nouveau din jurul fântânii monumentale.",
+            "en": "Admire the Art Nouveau architecture around the monumental fountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale San Lorenzo",
+            "hu": "San Lorenzo-székesegyház",
+            "ro": "Catedrala San Lorenzo",
+            "en": "San Lorenzo Cathedral"
+          },
+          "coords": [
+            8.9315,
+            44.4077
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Suchen Sie die kleine Hundeskulptur an der Fassade.",
+            "hu": "Keresd meg a kis kutyaszobrot a homlokzaton.",
+            "ro": "Căutați mica sculptură de câine de pe fațadă.",
+            "en": "Look for the small dog sculpture on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Dogenpalast",
+            "hu": "Dózse-palota",
+            "ro": "Palatul Ducal",
+            "en": "Palazzo Ducale"
+          },
+          "coords": [
+            8.933,
+            44.407
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Besuchen Sie die Ausstellungen in den prunkvollen Sälen.",
+            "hu": "Látogasd meg a kiállításokat a pompás termekben.",
+            "ro": "Vizitați expozițiile din sălile fastuoase.",
+            "en": "Visit the exhibitions in the magnificent halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Via Garibaldi",
+            "hu": "Via Garibaldi",
+            "ro": "Via Garibaldi",
+            "en": "Via Garibaldi"
+          },
+          "coords": [
+            8.932,
+            44.4111
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Die Straße der Palazzi dei Rolli gehört zum UNESCO-Welterbe.",
+            "hu": "A Palazzi dei Rolli utca az UNESCO Világörökség része.",
+            "ro": "Strada Palazzi dei Rolli face parte din patrimoniul mondial UNESCO.",
+            "en": "The street of Palazzi dei Rolli is a UNESCO World Heritage site."
+          }
+        },
+        {
+          "name": {
+            "de": "Spianata Castelletto",
+            "hu": "Spianata Castelletto",
+            "ro": "Spianata Castelletto",
+            "en": "Spianata Castelletto"
+          },
+          "coords": [
+            8.93,
+            44.4125
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Nutzen Sie den historischen Aufzug für den Aufstieg.",
+            "hu": "Használd a történelmi liftet a feljutáshoz.",
+            "ro": "Folosiți liftul istoric pentru a urca.",
+            "en": "Use the historical elevator to get up."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Antico",
+            "hu": "Porto Antico",
+            "ro": "Porto Antico",
+            "en": "Porto Antico"
+          },
+          "coords": [
+            8.927,
+            44.409
+          ],
+          "category": "port",
+          "arrive_at": "15:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Probieren Sie das Bigo-Panorama-Karussell.",
+            "hu": "Próbáld ki a Bigo panoráma-körhintát.",
+            "ro": "Încercați caruselul panoramic Bigo.",
+            "en": "Try the Bigo panoramic carousel."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium von Genua",
+            "hu": "Genovai Akvárium",
+            "ro": "Acvariul din Genova",
+            "en": "Genoa Aquarium"
+          },
+          "coords": [
+            8.926,
+            44.41
+          ],
+          "category": "museums",
+          "arrive_at": "16:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Buchen Sie Tickets im Voraus, um Warteschlangen zu vermeiden.",
+            "hu": "Foglalj jegyet előre a sorban állás elkerülése érdekében.",
+            "ro": "Rezervați bilete în avans pentru a evita cozile.",
+            "en": "Book tickets in advance to avoid long queues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Genua auf der Piazza De Ferrari, umgeben von herrlicher Architektur. Nach dem Besuch der beeindruckenden Kathedrale San Lorenzo tauchen Sie in den prunkvollen Dogenpalast ein. Der Mittag führt Sie zur Via Garibaldi, wo Sie die prächtigen Renaissance-Residenzen bewundern können. Genießen Sie am Nachmittag den weiten Blick von Spianata Castelletto, bevor Sie zum Porto Antico hinuntersteigen, um den Tag im faszinierenden Aquarium ausklingen zu lassen.",
+        "hu": "Kezdje a napot Genova szívében, a Piazza De Ferrari téren, pompás épületek gyűrűjében. A lenyűgöző San Lorenzo-székesegyház megtekintése után merüljön el a Dózse-palota gazdagságában. A délidő a Via Garibaldira kalauzolja, ahol reneszánsz rezidenciák sorát csodálhatja meg. Délután élvezze a panorámát a Spianata Castelletto kilátóból, majd ereszkedjen le a Porto Antico kikötőbe, hogy a napot a látványos Akváriumban zárja.",
+        "ro": "Începeți ziua în inima Genovei, în Piazza De Ferrari, înconjurat de o arhitectură splendidă. După ce vizitați impresionanta Catedrală San Lorenzo, scufundați-vă în fastul Palatului Ducal. Amiaza vă poartă pe Via Garibaldi, unde puteți admira reședințele renascentiste somptuoase. După-amiaza, bucurați-vă de panorama de la Spianata Castelletto, înainte de a coborî spre Porto Antico pentru a încheia ziua la fascinantul Acvariu.",
+        "en": "Start your day in the heart of Genoa at Piazza De Ferrari, surrounded by grand architecture. After visiting the striking San Lorenzo Cathedral, immerse yourself in the opulence of the Palazzo Ducale. Midday takes you to Via Garibaldi to admire a series of magnificent Renaissance residences. In the afternoon, enjoy the sweeping views from Spianata Castelletto before descending to Porto Antico to finish your day at the world-class Aquarium."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trofie al Pesto",
+            "tip": "Probieren Sie hausgemachte Pasta mit echtem genuesischem Pesto bei Trattoria Rosmarino."
+          },
+          {
+            "name": "Focaccia Genovese",
+            "tip": "Ein Muss in jeder lokalen Bäckerei, ideal als Snack zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trofie al Pesto",
+            "tip": "Kóstolja meg a házi tésztát valódi genovai pestóval a Trattoria Rosmarino-ban."
+          },
+          {
+            "name": "Focaccia Genovese",
+            "tip": "Bármelyik pékségben beszerezhető, tökéletes tízórai vagy uzsonna."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trofie al Pesto",
+            "tip": "Gustați pastele de casă cu pesto genovez autentic la Trattoria Rosmarino."
+          },
+          {
+            "name": "Focaccia Genovese",
+            "tip": "Indispensabilă în orice brutărie locală, ideală ca gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trofie al Pesto",
+            "tip": "Try homemade pasta with authentic Genovese pesto at Trattoria Rosmarino."
+          },
+          {
+            "name": "Focaccia Genovese",
+            "tip": "A must-try in any local bakery, perfect for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spianata Castelletto",
+            "tip": "Ein ruhiger Ort für einen Panoramablick über die Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Porto Antico",
+            "tip": "Suchen Sie sich eine Bank am Wasser für eine Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spianata Castelletto",
+            "tip": "Csendes hely a város feletti panoráma élvezetéhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Porto Antico",
+            "tip": "Keressen egy padot a vízparton egy kis pihenéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Spianata Castelletto",
+            "tip": "Un loc liniștit pentru a admira panorama orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Porto Antico",
+            "tip": "Găsiți o bancă pe malul apei pentru o pauză relaxantă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spianata Castelletto",
+            "tip": "A quiet spot to enjoy the panoramic view over the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Porto Antico",
+            "tip": "Find a bench by the water for a peaceful break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato Orientale",
+            "tip": "Der beste Ort für frische Lebensmittel und Gewürze."
+          },
+          {
+            "name": "Via Roma",
+            "tip": "Für Luxusmarken und elegante Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercato Orientale",
+            "tip": "A legjobb hely friss élelmiszerekért és fűszerekért."
+          },
+          {
+            "name": "Via Roma",
+            "tip": "Luxusmárkák és elegáns butikok kedvelőinek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercato Orientale",
+            "tip": "Cel mai bun loc pentru produse proaspete și condimente."
+          },
+          {
+            "name": "Via Roma",
+            "tip": "Pentru mărci de lux și boutique-uri elegante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercato Orientale",
+            "tip": "The best place for fresh food and spices."
+          },
+          {
+            "name": "Via Roma",
+            "tip": "For luxury brands and elegant boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die kopfsteingepflasterten Gassen.",
+          "Nutzen Sie die öffentlichen Aufzüge und Seilbahnen, um Höhenunterschiede zu bewältigen.",
+          "Viele Museen sind montags geschlossen.",
+          "Probieren Sie Farinata als schnellen Streetfood-Snack.",
+          "Passen Sie in den engen Gassen (Caruggi) auf Ihre Wertsachen auf."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves sikátorokhoz.",
+          "Használja a nyilvános lifteket és siklókat a szintkülönbségek leküzdésére.",
+          "Sok múzeum hétfőn zárva tart.",
+          "Kóstolja meg a Farinatát mint gyors utcai ételt.",
+          "Ügyeljen értékeire a szűk Caruggi negyedben."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite.",
+          "Folosiți lifturile și funicularele publice pentru a urca dealurile.",
+          "Multe muzee sunt închise lunea.",
+          "Gustați Farinata ca o gustare rapidă de tip street-food.",
+          "Aveți grijă de obiectele de valoare în străzile înguste (Caruggi)."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone alleys.",
+          "Use public elevators and funiculars to manage elevation changes.",
+          "Many museums are closed on Mondays.",
+          "Try Farinata as a quick street food snack.",
+          "Watch your belongings in the narrow alleys (Caruggi)."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.5,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Porto Antico",
+            "hu": "Porto Antico",
+            "ro": "Porto Antico",
+            "en": "Porto Antico"
+          },
+          "coords": [
+            8.927,
+            44.409
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Starten Sie hier mit einem Fahrradverleih.",
+            "hu": "Itt bérelhetsz kerékpárt a túrához.",
+            "ro": "Începeți aici cu închirierea unei biciclete.",
+            "en": "Start here by renting a bike for the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Lanterna di Genova",
+            "hu": "Genovai világítótorony",
+            "ro": "Lanterna din Genova",
+            "en": "Lighthouse of Genoa"
+          },
+          "coords": [
+            8.904,
+            44.4045
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Der Radweg führt direkt zum Fuß des historischen Leuchtturms.",
+            "hu": "A kerékpárút közvetlenül a történelmi torony lábához vezet.",
+            "ro": "Pista de biciclete duce direct la baza farului istoric.",
+            "en": "The bike path leads directly to the foot of the historic lighthouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Galata Museo del Mare",
+            "hu": "Galata Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim Galata",
+            "en": "Galata Maritime Museum"
+          },
+          "coords": [
+            8.923,
+            44.413
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Verpassen Sie nicht das U-Boot Nazario Sauro im Hafen.",
+            "hu": "Ne hagyd ki a Nazario Sauro tengeralattjárót a kikötőben.",
+            "ro": "Nu ratați submarinul Nazario Sauro din port.",
+            "en": "Don't miss the Nazario Sauro submarine in the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Boccadasse",
+            "hu": "Boccadasse",
+            "ro": "Boccadasse",
+            "en": "Boccadasse"
+          },
+          "coords": [
+            8.974,
+            44.391
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_4lang": {
+            "de": "Radeln Sie entlang des Corso Italia zum malerischen Fischerdorf.",
+            "hu": "Tekerj végig a Corso Italián a festői halászfaluig.",
+            "ro": "Pedalați pe Corso Italia până la pitorescul sat pescăresc.",
+            "en": "Ride along Corso Italia to the picturesque fishing village."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Küstenlinie Genuas auf zwei Rädern. Vom Porto Antico geht es zum Wahrzeichen der Stadt, der Lanterna. Nach einer Zeitreise im Galata Meeresmuseum radeln Sie entspannt am Meer entlang auf dem Corso Italia bis zum charmanten Boccadasse, wo Sie die Atmosphäre bei einem Eis genießen können.",
+        "hu": "Fedezze fel Genova partvonalát két keréken. A Porto Anticótól indulva tekerjen a város jelképéhez, a Lanternához. A Galata Tengerészeti Múzeumban tett időutazás után kényelmesen biciklizzen a tengerparti Corso Italián a bájos Boccadasse negyedig, ahol élvezheti a hangulatot egy fagylalt mellett.",
+        "ro": "Explorați linia de coastă a Genovei pe două roți. De la Porto Antico, mergeți spre simbolul orașului, Lanterna. După o călătorie în timp la Muzeul Maritim Galata, pedalați relaxat pe malul mării pe Corso Italia până în fermecătorul Boccadasse, unde puteți savura atmosfera cu o înghețată.",
+        "en": "Explore Genoa's coastline on two wheels. Starting from Porto Antico, head to the city's icon, the Lanterna lighthouse. After a journey through time at the Galata Maritime Museum, enjoy a relaxed ride along the seafront on Corso Italia to the charming Boccadasse, where you can soak up the atmosphere with a gelato."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Frittierte Meeresfrüchte in einer Papiertüte in Boccadasse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Sült tenger gyümölcsei papírtölcsérben Boccadasse strandján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Fructe de mare prăjite într-un cornet de hârtie în Boccadasse."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Fried seafood in a paper cone in Boccadasse."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Boccadasse Strand",
+            "tip": "Perfekt für den Sonnenuntergang am Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boccadasse strand",
+            "tip": "Tökéletes hely a tengerparti naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Boccadasse",
+            "tip": "Perfectă pentru apusul pe malul mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Boccadasse Beach",
+            "tip": "Perfect for a seaside sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Italia",
+            "tip": "Sportgeschäfte und Strandartikel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Italia",
+            "tip": "Sportboltok és strandfelszerelések."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Italia",
+            "tip": "Magazine de sport și articole de plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Italia",
+            "tip": "Sports shops and beach gear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Corso Italia ist flach und ideal zum Radfahren.",
+          "Achten Sie auf Fußgänger in den gemischten Zonen.",
+          "Sichern Sie Ihr Fahrrad gut beim Museumsbesuch."
+        ],
+        "hu": [
+          "A Corso Italia lapos és ideális kerékpározáshoz.",
+          "Ügyeljen a gyalogosokra a vegyes zónákban.",
+          "Zárja le jól a kerékpárt a múzeumlátogatás alatt."
+        ],
+        "ro": [
+          "Corso Italia este plat și ideal pentru ciclism.",
+          "Atenție la pietoni în zonele mixte.",
+          "Asigurați bine bicicleta în timpul vizitei la muzeu."
+        ],
+        "en": [
+          "Corso Italia is flat and ideal for cycling.",
+          "Watch out for pedestrians in mixed zones.",
+          "Lock your bike securely when visiting the museum."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:55",
+      "total_km": 21.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lanterna",
+            "hu": "Lanterna",
+            "ro": "Lanterna",
+            "en": "Lanterna"
+          },
+          "coords": [
+            8.904,
+            44.4045
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Es gibt Parkplätze in der Nähe des Einkaufszentrums Ferry Terminal.",
+            "hu": "Parkolás a kompkikötő melletti bevásárlóközpontnál.",
+            "ro": "Parcare lângă centrul comercial de la terminalul de feribot.",
+            "en": "Parking is available near the Ferry Terminal shopping center."
+          }
+        },
+        {
+          "name": {
+            "de": "Galata Museo",
+            "hu": "Galata Múzeum",
+            "ro": "Muzeul Galata",
+            "en": "Galata Museum"
+          },
+          "coords": [
+            8.923,
+            44.413
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Nutzen Sie das Parkhaus am Porto Antico.",
+            "hu": "Használja a Porto Antico parkolóházat.",
+            "ro": "Utilizați parcarea supraetajată de la Porto Antico.",
+            "en": "Use the multi-story parking at Porto Antico."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza De Ferrari",
+            "hu": "Piazza De Ferrari",
+            "ro": "Piazza De Ferrari",
+            "en": "Piazza De Ferrari"
+          },
+          "coords": [
+            8.9338,
+            44.4072
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_4lang": {
+            "de": "Parken Sie im Stadtzentrum (Blaue Zone).",
+            "hu": "Parkoljon a városközpontban (kék zóna).",
+            "ro": "Parcați în centrul orașului (zona albastră).",
+            "en": "Park in the city center (Blue Zone)."
+          }
+        },
+        {
+          "name": {
+            "de": "Spianata Castelletto",
+            "hu": "Spianata Castelletto",
+            "ro": "Spianata Castelletto",
+            "en": "Spianata Castelletto"
+          },
+          "coords": [
+            8.93,
+            44.4125
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_4lang": {
+            "de": "Der Blick auf den Hafen ist spektakulär.",
+            "hu": "A kilátás a kikötőre lenyűgöző.",
+            "ro": "Vederea asupra portului este spectaculoasă.",
+            "en": "The view over the port is spectacular."
+          }
+        },
+        {
+          "name": {
+            "de": "Boccadasse",
+            "hu": "Boccadasse",
+            "ro": "Boccadasse",
+            "en": "Boccadasse"
+          },
+          "coords": [
+            8.974,
+            44.391
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_4lang": {
+            "de": "Parken ist schwierig, suchen Sie frühzeitig einen Platz.",
+            "hu": "A parkolás nehéz, időben keressen helyet.",
+            "ro": "Parcarea este dificilă, căutați un loc din timp.",
+            "en": "Parking is difficult, look for a spot early."
+          }
+        },
+        {
+          "name": {
+            "de": "Nervi Parks",
+            "hu": "Nervi parkok",
+            "ro": "Parcurile Nervi",
+            "en": "Nervi Parks"
+          },
+          "coords": [
+            9.038,
+            44.381
+          ],
+          "category": "nature",
+          "arrive_at": "16:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "tip_4lang": {
+            "de": "Spaziergang auf der Anita Garibaldi Klippenpromenade.",
+            "hu": "Séta az Anita Garibaldi sziklaparti sétányon.",
+            "ro": "Plimbare pe faleza Anita Garibaldi.",
+            "en": "Walk on the Anita Garibaldi cliffside promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die Lanterna und das Galata Museum. Nach einem Kurzstopp im Zentrum fahren Sie hinauf nach Castelletto für das Panorama. Der Nachmittag gehört dem malerischen Boccadasse, gefolgt von einem Ausflug nach Nervi, um die berühmten Parks und die Klippenpromenade zu genießen.",
+        "hu": "Autóval kényelmesen elérheti a Lanternát és a Galata Múzeumot. A központi rövid megálló után hajtson fel Castellettóba a panorámáért. A délutánt a festői Boccadasse-ban töltse, majd tegyen egy kirándulást Nervibe, hogy élvezze a híres parkokat és a sziklaparti sétányt.",
+        "ro": "Cu mașina puteți ajunge ușor la Lanterna și Muzeul Galata. După o scurtă oprire în centru, urcați la Castelletto pentru panoramă. După-amiaza aparține pitorescului Boccadasse, urmată de o excursie la Nervi pentru a vă bucura de faimoasele parcuri și faleza de pe stânci.",
+        "en": "By car, you can easily reach the Lanterna and the Galata Museum. After a brief stop in the center, drive up to Castelletto for the panorama. The afternoon belongs to picturesque Boccadasse, followed by a trip to Nervi to enjoy the famous parks and cliffside promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cappon Magro",
+            "tip": "Ein prächtiger genuesischer Salat aus Meeresfrüchten und Gemüse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cappon Magro",
+            "tip": "Pompás genovai saláta tenger gyümölcseiből és zöldségekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cappon Magro",
+            "tip": "O salată genoveză bogată cu fructe de mare și legume."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cappon Magro",
+            "tip": "A grand Genovese salad made with seafood and vegetables."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parchi di Nervi",
+            "tip": "Weitläufige Gärten direkt am Meer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nervi parkok",
+            "tip": "Hatalmas kertek közvetlenül a tengerparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcurile Nervi",
+            "tip": "Grădini vaste chiar pe malul mării.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nervi Parks",
+            "tip": "Vast gardens right by the sea.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fiumara",
+            "tip": "Großes Einkaufszentrum in der Nähe der Lanterna."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiumara",
+            "tip": "Nagy bevásárlóközpont a Lanterna közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiumara",
+            "tip": "Centru comercial mare lângă Lanterna."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiumara",
+            "tip": "Large shopping mall near the Lanterna."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie die ZTL-Zonen im historischen Zentrum.",
+          "Parken Sie in Parkhäusern, um Stress zu vermeiden.",
+          "Die Küstenstraße nach Nervi bietet tolle Ausblicke."
+        ],
+        "hu": [
+          "Kerülje el a ZTL zónákat a történelmi központban.",
+          "A stressz elkerülése érdekében használjon parkolóházakat.",
+          "A Nervibe vezető parti út nagyszerű kilátást nyújt."
+        ],
+        "ro": [
+          "Evitați zonele ZTL din centrul istoric.",
+          "Parcați în garaje pentru a evita stresul.",
+          "Drumul de coastă spre Nervi oferă priveliști superbe."
+        ],
+        "en": [
+          "Avoid ZTL (restricted traffic) zones in the historic center.",
+          "Park in parking garages to avoid stress.",
+          "The coastal road to Nervi offers great views."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:50",
+      "total_km": 14.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza De Ferrari",
+            "hu": "Piazza De Ferrari",
+            "ro": "Piazza De Ferrari",
+            "en": "Piazza De Ferrari"
+          },
+          "coords": [
+            8.9338,
+            44.4072
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Zentraler Knotenpunkt der Metro.",
+            "hu": "A metró központi csomópontja.",
+            "ro": "Nod central al metroului.",
+            "en": "Central hub of the metro system."
+          }
+        },
+        {
+          "name": {
+            "de": "Via Garibaldi",
+            "hu": "Via Garibaldi",
+            "ro": "Via Garibaldi",
+            "en": "Via Garibaldi"
+          },
+          "coords": [
+            8.932,
+            44.4111
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang von der Metrostation San Giorgio.",
+            "hu": "Rövid séta a San Giorgio metróállomástól.",
+            "ro": "O scurtă plimbare de la stația de metrou San Giorgio.",
+            "en": "A short walk from the San Giorgio metro station."
+          }
+        },
+        {
+          "name": {
+            "de": "Boccadasse",
+            "hu": "Boccadasse",
+            "ro": "Boccadasse",
+            "en": "Boccadasse"
+          },
+          "coords": [
+            8.974,
+            44.391
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:55",
+          "stay_min": 180,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_4lang": {
+            "de": "Nehmen Sie den Bus 31 vom Zentrum.",
+            "hu": "Utazzon a 31-es busszal a központból.",
+            "ro": "Luați autobuzul 31 din centru.",
+            "en": "Take bus 31 from the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Antico",
+            "hu": "Porto Antico",
+            "ro": "Porto Antico",
+            "en": "Porto Antico"
+          },
+          "coords": [
+            8.927,
+            44.409
+          ],
+          "category": "port",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_4lang": {
+            "de": "Gut erreichbar mit der Metro.",
+            "hu": "Könnyen elérhető metróval.",
+            "ro": "Ușor accesibil cu metroul.",
+            "en": "Easily accessible by metro."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium von Genua",
+            "hu": "Genovai Akvárium",
+            "ro": "Acvariul din Genova",
+            "en": "Genoa Aquarium"
+          },
+          "coords": [
+            8.926,
+            44.41
+          ],
+          "category": "museums",
+          "arrive_at": "16:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Direkt neben der Metrostation San Giorgio.",
+            "hu": "Közvetlenül a San Giorgio metróállomás mellett.",
+            "ro": "Chiar lângă stația de metrou San Giorgio.",
+            "en": "Right next to the San Giorgio metro station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Metronetz und die Busse Genuas. Starten Sie im Zentrum und besuchen Sie die Via Garibaldi. Ein Bus bringt Sie zum malerischen Boccadasse für eine ausgedehnte Pause am Meer. Am späten Nachmittag kehren Sie zum Hafen zurück, um das Porto Antico und das Aquarium zu erleben.",
+        "hu": "Használja Genova hatékony metróhálózatát és buszait. Kezdje a központban, és látogasson el a Via Garibaldira. Egy busz elviszi a festői Boccadasse-ba egy hosszú tengerparti pihenőre. Késő délután térjen vissza a kikötőbe, hogy felfedezze a Porto Anticót és az Akváriumot.",
+        "ro": "Utilizați rețeaua eficientă de metrou și autobuzele din Genova. Începeți în centru și vizitați Via Garibaldi. Un autobuz vă va duce în pitorescul Boccadasse pentru o pauză lungă la malul mării. După-amiaza târziu, reveniți în port pentru a experimenta Porto Antico și Acvariul.",
+        "en": "Utilize Genoa's efficient metro network and buses. Start in the center and visit Via Garibaldi. A bus will take you to picturesque Boccadasse for an extended seaside break. In the late afternoon, return to the harbor to experience Porto Antico and the Aquarium."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Panissa",
+            "tip": "Ein traditioneller Snack aus Kichererbsenmehl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panissa",
+            "tip": "Hagyományos csicseriborsólisztből készült falatkák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panissa",
+            "tip": "O gustare tradițională din făină de năut."
+          }
+        ],
+        "en": [
+          {
+            "name": "Panissa",
+            "tip": "A traditional snack made from chickpea flour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Villa Croce Park",
+            "tip": "Ein ruhiger Park in der Nähe der Küste.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Croce park",
+            "tip": "Csendes park a part közelében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Villa Croce",
+            "tip": "Un parc liniștit lângă coastă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Croce Park",
+            "tip": "A peaceful park near the coast.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Sestri",
+            "tip": "Beliebte Einkaufsstraße, erreichbar mit dem Zug."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Sestri",
+            "tip": "Népszerű bevásárlóutca, vonattal elérhető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Sestri",
+            "tip": "Stradă comercială populară, accesibilă cu trenul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Sestri",
+            "tip": "Popular shopping street accessible by train."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für Busse und Metro.",
+          "Nutzen Sie den Navebus für eine Fahrt über das Meer.",
+          "Achten Sie auf die Fahrpläne am Abend."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszokra és a metróra.",
+          "Használja a Navebus-t egy tengeri utazáshoz.",
+          "Figyelje a menetrendeket az esti órákban."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuze și metrou.",
+          "Folosiți Navebus pentru o călătorie pe mare.",
+          "Atenție la orarele de seară."
+        ],
+        "en": [
+          "Buy a day ticket for buses and the metro.",
+          "Use the Navebus for a scenic ride across the water.",
+          "Check the schedules for evening returns."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "city": "Genova",
+    "region": "IT-42",
+    "coords": [
+      8.9463,
+      44.4056
+    ],
+    "transit_official": "https://www.amt.genova.it/",
+    "transit_app": "https://www.mobit.it/",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.visitgenoa.it/",
+    "tourism_office": "https://www.visitgenoa.it/",
+    "webcam": "https://www.skylinewebcams.com/",
+    "restaurants_booking": "https://www.thefork.it/",
+    "museum_tickets": "https://www.acquariodigenova.it/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "In Hafen- und Touristenzonen Englisch gut, in Altstadtgassen nur Italienisch.",
+      "hu": "A kikötőnél és turistanegyedben jó az angol, az óvárosban csak olasz.",
+      "ro": "În zona portului și turistică engleza merge, în vechi caruggi doar italiană.",
+      "en": "English fine around port and tourist areas; old caruggi alleys Italian only."
+    },
+    "best_time": {
+      "de": "Mai, Juni und September ideal; Juli und August schwül und voll.",
+      "hu": "Május, június, szeptember a legjobb, júliusban-augusztusban párás és zsúfolt.",
+      "ro": "Mai, iunie și septembrie sunt ideale, iulie-august umed și aglomerat.",
+      "en": "May, June and September are best; July-August humid and crowded."
+    },
+    "warnings": {
+      "de": "Vorsicht in Gassen rund um Via Prè und Via della Maddalena nach Einbruch der Dunkelheit.",
+      "hu": "Via Prè és Via della Maddalena környékén sötétedés után óvatosság.",
+      "ro": "Atenție pe străduțele din jurul Via Prè și Via della Maddalena după lăsarea serii.",
+      "en": "Be cautious in alleys around Via Prè and Via della Maddalena after dark."
+    }
+  }
+}

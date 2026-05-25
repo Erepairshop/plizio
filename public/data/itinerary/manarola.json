@@ -1,0 +1,1060 @@
+{
+  "city_id": "manarola",
+  "anchor": {
+    "name": "Manarola",
+    "coords": [
+      9.7261,
+      44.1064
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche San Lorenzo",
+            "hu": "Szent Lőrinc-templom",
+            "ro": "Biserica San Lorenzo",
+            "en": "Church of San Lorenzo"
+          },
+          "coords": [
+            9.7271,
+            44.1072
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das gotische Rosettenfenster aus dem Jahr 1375.",
+            "hu": "Csodálja meg az 1375-ből származó gótikus rózsaablakot.",
+            "ro": "Admirați fereastra gotică în formă de rozetă din 1375.",
+            "en": "Admire the Gothic rose window dating back to 1375."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Papa Innocenzo IV",
+            "hu": "IV. Ince pápa tér",
+            "ro": "Piața Papa Innocenzo IV",
+            "en": "Piazza Papa Innocenzo IV"
+          },
+          "coords": [
+            9.7272,
+            44.1071
+          ],
+          "category": "squares",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das religiöse Herz des Dorfes mit tollem Glockenturm.",
+            "hu": "A falu vallási szíve egy különálló harangtoronnyal.",
+            "ro": "Inima religioasă a satului, cu o clopotniță separată.",
+            "en": "The religious heart of the village with a separate bell tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Manarola",
+            "hu": "Manarola kikötője",
+            "ro": "Portul din Manarola",
+            "en": "Manarola Harbor"
+          },
+          "coords": [
+            9.7248,
+            44.1061
+          ],
+          "category": "promenades",
+          "arrive_at": "10:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie, wie Boote mit Kränen aus dem Wasser gehoben werden.",
+            "hu": "Nézze meg, ahogy a csónakokat darukkal emelik ki a vízből.",
+            "ro": "Urmăriți cum bărcile sunt ridicate din apă cu macarale.",
+            "en": "Watch boats being lifted out of the water by cranes."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Punta Bonfiglio",
+            "hu": "Punta Bonfiglio kilátó",
+            "ro": "Punctul de belvedere Punta Bonfiglio",
+            "en": "Punta Bonfiglio Viewpoint"
+          },
+          "coords": [
+            9.7242,
+            44.1072
+          ],
+          "category": "viewpoints",
+          "arrive_at": "12:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der klassische Ort für das perfekte Postkartenfoto von Manarola.",
+            "hu": "A klasszikus helyszín a tökéletes Manarola-képeslapfotóhoz.",
+            "ro": "Locul clasic pentru fotografia perfectă de carte poștală din Manarola.",
+            "en": "The classic spot for the perfect Manarola postcard photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Via dell'Amore (Anfang)",
+            "hu": "Szerelem útja (kezdet)",
+            "ro": "Via dell'Amore (început)",
+            "en": "Via dell'Amore (start)"
+          },
+          "coords": [
+            9.7265,
+            44.1058
+          ],
+          "category": "promenades",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein romantischer Pfad direkt über den Klippen zum Meer.",
+            "hu": "Romantikus ösvény közvetlenül a sziklák felett a tenger mentén.",
+            "ro": "O potecă romantică chiar deasupra stâncilor de lângă mare.",
+            "en": "A romantic path right above the cliffs along the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastion der Burg",
+            "hu": "A vár bástyája",
+            "ro": "Bastionul castelului",
+            "en": "Bastion of the Castle"
+          },
+          "coords": [
+            9.7255,
+            44.1068
+          ],
+          "category": "fortresses",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Überreste der alten Verteidigungsanlagen gegen Piraten.",
+            "hu": "A kalózok elleni régi védelmi rendszer maradványai.",
+            "ro": "Rămășițele vechilor fortificații de apărare împotriva piraților.",
+            "en": "Remnants of the old defensive fortifications against pirates."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag oben im Dorf bei der Kirche San Lorenzo und dem ruhigen Platz, bevor Sie durch die engen Gassen bergab schlendern. Mittags erreichen Sie den belebten Hafen, wo die bunten Häuser wie an die Felsen geklebt wirken. Der Nachmittag führt Sie zum berühmten Aussichtspunkt Punta Bonfiglio für unvergessliche Panoramablicke. Zum Abschluss genießen Sie die Meeresbrise an der Bastion und der Via dell'Amore.",
+        "hu": "Kezdje a napot a falu felső részén a Szent Lőrinc-templomnál és a csendes téren, majd sétáljon lefelé a szűk utcákon. Délben érje el a nyüzsgő kikötőt, ahol a színes házak szinte a sziklákhoz tapadnak. A délután a híres Punta Bonfiglio kilátóhoz vezet a felejthetetlen panorámáért. Végezetül élvezze a tengeri szellőt a bástyánál és a Szerelem útjának kezdeténél.",
+        "ro": "Începeți ziua în partea de sus a satului, la biserica San Lorenzo și piața liniștită, înainte de a coborî pe străzile înguste. La prânz ajungeți în portul plin de viață, unde casele colorate par lipite de stânci. După-amiaza vă conduce la faimosul punct de belvedere Punta Bonfiglio pentru vederi panoramice de neuitat. În final, bucurați-vă de briza mării la bastion și la începutul drumului Via dell'Amore.",
+        "en": "Start your day in the upper village at San Lorenzo Church and its quiet square before strolling down the narrow alleys. By midday, reach the bustling harbor where colorful houses seem glued to the cliffs. The afternoon leads you to the famous Punta Bonfiglio viewpoint for unforgettable panoramas. Finally, enjoy the sea breeze at the bastion and the start of the Via dell'Amore."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Focaccia ligure",
+            "tip": "Probieren Sie sie warm bei La Cambusa."
+          },
+          {
+            "name": "Sciacchetrà",
+            "tip": "Der berühmte Dessertwein aus lokalen Weinbergen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Liguriai focaccia",
+            "tip": "Kóstolja meg melegen a La Cambusa-ban."
+          },
+          {
+            "name": "Sciacchetrà",
+            "tip": "A híres helyi desszertbor a környékbeli szőlőkből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Focaccia liguriana",
+            "tip": "Gustați-o caldă la La Cambusa."
+          },
+          {
+            "name": "Sciacchetrà",
+            "tip": "Celebrul vin de desert din podgoriile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ligurian Focaccia",
+            "tip": "Try it warm at La Cambusa."
+          },
+          {
+            "name": "Sciacchetrà",
+            "tip": "The famous dessert wine from local vineyards."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof von Manarola",
+            "tip": "Unglaublich friedlicher Ort über dem Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Manarolai temető",
+            "tip": "Hihetetlenül békés hely a tenger felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul din Manarola",
+            "tip": "Un loc incredibil de liniștit deasupra mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Manarola Cemetery",
+            "tip": "Incredibly peaceful spot overlooking the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Pesto",
+            "tip": "Frisch zubereitet in den kleinen Feinkostläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pesto",
+            "tip": "Frissen készítve a kis csemegeboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pesto local",
+            "tip": "Proaspăt preparat în micile magazine de delicatese."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pesto",
+            "tip": "Freshly made in the small deli shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da es viele Stufen gibt.",
+          "Buchen Sie den Cinque Terre Trekking Card im Voraus.",
+          "Frühmorgens ist das Licht für Fotos am besten.",
+          "Vermeiden Sie die Mittagszeit im Sommer wegen der Hitze."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a sok lépcső miatt.",
+          "Foglalja le előre a Cinque Terre Trekking kártyát.",
+          "Kora reggel a legjobbak a fények a fotózáshoz.",
+          "Nyáron kerülje a déli órákat a hőség miatt."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă din cauza numeroaselor trepte.",
+          "Rezervați cardul de trekking Cinque Terre în avans.",
+          "Dimineața devreme lumina este cea mai bună pentru fotografii.",
+          "Evitați orele prânzului vara din cauza căldurii."
+        ],
+        "en": [
+          "Wear comfortable shoes as there are many steps.",
+          "Book the Cinque Terre Trekking Card in advance.",
+          "Early morning light is best for photography.",
+          "Avoid midday in summer due to the heat."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Papa Innocenzo IV",
+            "hu": "IV. Ince pápa tér",
+            "ro": "Piața Papa Innocenzo IV",
+            "en": "Piazza Papa Innocenzo IV"
+          },
+          "coords": [
+            9.7272,
+            44.1071
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der perfekte Startpunkt oberhalb des Verkehrs.",
+            "hu": "Tökéletes kiindulópont a forgalom felett.",
+            "ro": "Punctul de plecare perfect deasupra traficului.",
+            "en": "Perfect starting point above the traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Groppo",
+            "hu": "Groppo",
+            "ro": "Groppo",
+            "en": "Groppo"
+          },
+          "coords": [
+            9.7351,
+            44.1132
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Winzergenossenschaft der Cinque Terre.",
+            "hu": "Látogassa meg a Cinque Terre borászati szövetkezetét.",
+            "ro": "Vizitați cooperativa vinicolă din Cinque Terre.",
+            "en": "Visit the Cinque Terre wine cooperative."
+          }
+        },
+        {
+          "name": {
+            "de": "Presepe di Manarola",
+            "hu": "Manarolai betlehem",
+            "ro": "Ieslea din Manarola",
+            "en": "Manarola Nativity Scene"
+          },
+          "coords": [
+            9.7285,
+            44.1085
+          ],
+          "category": "cultural centres",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Blick auf den Hügel der weltweit größten Krippe.",
+            "hu": "Kilátás a világ legnagyobb betlehemének dombjára.",
+            "ro": "Vedere spre dealul celei mai mari iesle din lume.",
+            "en": "View of the hill of the world's largest nativity scene."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Manarola",
+            "hu": "Manarola kikötője",
+            "ro": "Portul din Manarola",
+            "en": "Manarola Harbor"
+          },
+          "coords": [
+            9.7248,
+            44.1061
+          ],
+          "category": "promenades",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad oben ab und gehen Sie zum Wasser.",
+            "hu": "Zárja le a biciklit fent, és sétáljon le a vízhez.",
+            "ro": "Încuiați bicicleta sus și coborâți la apă.",
+            "en": "Lock your bike above and walk down to the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Punta Bonfiglio",
+            "hu": "Punta Bonfiglio kilátó",
+            "ro": "Punctul de belvedere Punta Bonfiglio",
+            "en": "Punta Bonfiglio Viewpoint"
+          },
+          "coords": [
+            9.7242,
+            44.1072
+          ],
+          "category": "viewpoints",
+          "arrive_at": "13:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hafen entfernt.",
+            "hu": "Rövid séta a kikötőtől.",
+            "ro": "O scurtă plimbare de la port.",
+            "en": "A short walk from the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Umgebung von Manarola mit dem E-Bike, um die steilen Hänge zu bezwingen. Beginnen Sie am oberen Dorfplatz und fahren Sie hinauf zum Weiler Groppo, dem Zentrum der Weinproduktion. Bewundern Sie den Blick auf den Presepe-Hügel, bevor Sie vorsichtig zum Hafen hinunterrollen. Ein abschließender Besuch am Aussichtspunkt Punta Bonfiglio belohnt Sie mit der besten Sicht auf das Dorf.",
+        "hu": "Fedezze fel Manarola környékét elektromos kerékpárral a meredek emelkedők miatt. Kezdje a felső falutéren, majd tekerjen fel Groppo falucskába, a bortermelés központjába. Csodálja meg a betlehem-domb látványát, mielőtt óvatosan legurulna a kikötőbe. A záró látogatás a Punta Bonfiglio kilátónál a legjobb rálátást nyújtja a falura.",
+        "ro": "Explorați împrejurimile orașului Manarola cu o bicicletă electrică pentru a cuceri pantele abrupte. Începeți în piața de sus a satului și pedalați până în cătunul Groppo, centrul producției de vin. Admirați vederea spre dealul Presepe înainte de a coborî cu grijă spre port. O vizită finală la punctul de belvedere Punta Bonfiglio vă recompensează cu cea mai bună vedere asupra satului.",
+        "en": "Explore Manarola's surroundings by e-bike to conquer the steep slopes. Start at the upper village square and ride up to the hamlet of Groppo, the center of wine production. Admire the view of the Presepe hill before rolling down carefully to the harbor. A final visit to the Punta Bonfiglio viewpoint rewards you with the best view of the village."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Anchovis aus Monterosso",
+            "tip": "Gesalzen oder in Zitrone mariniert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monterosso-i szardella",
+            "tip": "Sózva vagy citromban pácolva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Anșoa din Monterosso",
+            "tip": "Sărat sau marinat în lămâie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Monterosso Anchovies",
+            "tip": "Salted or marinated in lemon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinberge über Groppo",
+            "tip": "Ruhe inmitten der Terrassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szőlőültetvények Groppo felett",
+            "tip": "Csend a teraszok között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podgoriile de deasupra Groppo",
+            "tip": "Liniște în mijlocul teraselor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vineyards above Groppo",
+            "tip": "Quietness amidst the terraces.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cantina Sociale",
+            "tip": "Kaufen Sie Wein direkt beim Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cantina Sociale",
+            "tip": "Vásároljon bort közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cantina Sociale",
+            "tip": "Cumpărați vin direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cantina Sociale",
+            "tip": "Buy wine directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "E-Bikes sind aufgrund der Steigung dringend empfohlen.",
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Die Straßen sind schmal, achten Sie auf Busse.",
+          "Parken Sie Ihr Rad nur an ausgewiesenen Stellen."
+        ],
+        "hu": [
+          "Az e-bike-ok használata erősen ajánlott az emelkedők miatt.",
+          "Vigyen magával elegendő vizet.",
+          "Az utak szűkek, figyeljen a buszokra.",
+          "Csak a kijelölt helyeken parkolja le a kerékpárt."
+        ],
+        "ro": [
+          "Bicicletele electrice sunt recomandate din cauza pantei.",
+          "Luați suficientă apă cu voi.",
+          "Drumurile sunt înguste, atenție la autobuze.",
+          "Parcați bicicleta doar în locurile special amenajate."
+        ],
+        "en": [
+          "E-bikes are highly recommended due to the incline.",
+          "Carry enough water with you.",
+          "The roads are narrow, watch out for buses.",
+          "Park your bike only in designated areas."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Manarola Parkplatz",
+            "hu": "Manarola parkoló",
+            "ro": "Parcare Manarola",
+            "en": "Manarola Parking"
+          },
+          "coords": [
+            9.7312,
+            44.1085
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kommen Sie früh, die Parkplätze sind sehr begrenzt.",
+            "hu": "Érkezzen korán, a parkolóhelyek száma nagyon korlátozott.",
+            "ro": "Veniți devreme, locurile de parcare sunt foarte limitate.",
+            "en": "Arrive early, parking spaces are very limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Lorenzo",
+            "hu": "Szent Lőrinc-templom",
+            "ro": "Biserica San Lorenzo",
+            "en": "Church of San Lorenzo"
+          },
+          "coords": [
+            9.7271,
+            44.1072
+          ],
+          "category": "churches",
+          "arrive_at": "09:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vom Parkplatz aus ein kurzer Spaziergang bergab.",
+            "hu": "A parkolótól rövid séta lefelé.",
+            "ro": "O scurtă plimbare la vale de la parcare.",
+            "en": "A short walk downhill from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Manarola",
+            "hu": "Manarola kikötője",
+            "ro": "Portul din Manarola",
+            "en": "Manarola Harbor"
+          },
+          "coords": [
+            9.7248,
+            44.1061
+          ],
+          "category": "promenades",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Eis am Wasser.",
+            "hu": "Élvezzen egy fagyit a vízparton.",
+            "ro": "Bucurați-vă de o înghețată lângă apă.",
+            "en": "Enjoy an ice cream by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Groppo",
+            "hu": "Groppo",
+            "ro": "Groppo",
+            "en": "Groppo"
+          },
+          "coords": [
+            9.7351,
+            44.1132
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Leicht erreichbar mit dem Auto oberhalb des Dorfes.",
+            "hu": "Autóval könnyen elérhető a falu felett.",
+            "ro": "Ușor accesibil cu mașina deasupra satului.",
+            "en": "Easily accessible by car above the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Volastra",
+            "hu": "Volastra",
+            "ro": "Volastra",
+            "en": "Volastra"
+          },
+          "coords": [
+            9.7392,
+            44.1165
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die antike Kirche Nostra Signora della Salute.",
+            "hu": "Látogassa meg a Nostra Signora della Salute ősi templomot.",
+            "ro": "Vizitați biserica antică Nostra Signora della Salute.",
+            "en": "Visit the ancient Church of Nostra Signora della Salute."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt SP51",
+            "hu": "SP51 kilátóhely",
+            "ro": "Punct de belvedere SP51",
+            "en": "SP51 Viewpoint"
+          },
+          "coords": [
+            9.7365,
+            44.1098
+          ],
+          "category": "viewpoints",
+          "arrive_at": "15:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Toller Blick auf die Küste von der Hauptstraße.",
+            "hu": "Nagyszerű kilátás a partvidékre a főútról.",
+            "ro": "O vedere excelentă asupra coastei de la drumul principal.",
+            "en": "Great view of the coastline from the main road."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie nicht nur Manarola, sondern auch die höher gelegenen Weiler. Nach dem Parken am Dorfeingang erkunden Sie den Hafen und die Kirche. Danach fahren Sie hinauf nach Groppo und weiter in das antike Volastra, um die Olivenhaine und spektakuläre Ausblicke abseits der Massen zu genießen. Ein Stopp an der Panoramastraße SP51 rundet den Tag ab.",
+        "hu": "Autóval nemcsak Manarolát, hanem a magasabban fekvő falvakat is felfedezheti. A falu bejáratánál történő parkolás után nézze meg a kikötőt és a templomot. Ezután hajtson fel Groppóba, majd a patinás Volastrába, hogy élvezze az olajfaligeteket és a tömegtől távol eső látványt. Az SP51 panorámaúton tett megálló teljessé teszi a napot.",
+        "ro": "Cu mașina, explorați nu doar Manarola, ci și cătunele situate mai sus. După parcarea la intrarea în sat, explorați portul și biserica. Apoi conduceți până la Groppo și mai departe spre anticul Volastra pentru a vă bucura de livezile de măslini și de priveliștile spectaculoase departe de mulțime. O oprire pe drumul panoramic SP51 completează ziua.",
+        "en": "By car, you explore not only Manarola but also the higher hamlets. After parking at the village entrance, explore the harbor and the church. Then drive up to Groppo and further to ancient Volastra to enjoy the olive groves and spectacular views away from the crowds. A stop on the SP51 panoramic road rounds off the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasta mit Pesto",
+            "tip": "Probieren Sie sie in einer Trattoria in Volastra."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pesztós tészta",
+            "tip": "Kóstolja meg egy Volastra-i trattoriában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paste cu pesto",
+            "tip": "Încercați-le într-o trattoria din Volastra."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasta with Pesto",
+            "tip": "Try it in a trattoria in Volastra."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Olivenhaine in Volastra",
+            "tip": "Sehr ruhig und authentisch.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olajfaligetek Volastrában",
+            "tip": "Nagyon csendes és autentikus.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Livezile de măslini din Volastra",
+            "tip": "Foarte liniștit și autentic.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive groves in Volastra",
+            "tip": "Very quiet and authentic.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl",
+            "tip": "Frisch gepresst in den Hügeln über Manarola."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj",
+            "tip": "Frissen préselve a Manarola feletti dombokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline",
+            "tip": "Proaspăt presat în dealurile de deasupra Manarolei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil",
+            "tip": "Freshly pressed in the hills above Manarola."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Autofahren in Cinque Terre ist schwierig; nutzen Sie Parkplätze außerhalb.",
+          "Die Straßen sind extrem kurvenreich.",
+          "Parkgebühren sind hoch (ca. 25€/Tag).",
+          "Navigieren Sie zum 'Parcheggio Manarola'."
+        ],
+        "hu": [
+          "A Cinque Terrében az autózás nehézkes; használja a külső parkolókat.",
+          "Az utak rendkívül kanyargósak.",
+          "A parkolási díjak magasak (kb. 25€/nap).",
+          "Navigáljon a 'Parcheggio Manarola' felé."
+        ],
+        "ro": [
+          "Condusul în Cinque Terre este dificil; folosiți parcările exterioare.",
+          "Drumurile sunt extrem de virajate.",
+          "Taxele de parcare sunt mari (aprox. 25€/zi).",
+          "Navigați către 'Parcheggio Manarola'."
+        ],
+        "en": [
+          "Driving in Cinque Terre is difficult; use outside parking lots.",
+          "The roads are extremely winding.",
+          "Parking fees are high (approx. 25€/day).",
+          "Navigate to 'Parcheggio Manarola'."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Manarola",
+            "hu": "Manarola vasútállomás",
+            "ro": "Gara Manarola",
+            "en": "Manarola Railway Station"
+          },
+          "coords": [
+            9.7251,
+            44.1068
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Durchqueren Sie den Tunnel vom Bahnhof zum Dorf.",
+            "hu": "Menjen át az alagúton az állomástól a faluig.",
+            "ro": "Traversați tunelul de la gară spre sat.",
+            "en": "Go through the tunnel from the station to the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Manarola",
+            "hu": "Manarola kikötője",
+            "ro": "Portul din Manarola",
+            "en": "Manarola Harbor"
+          },
+          "coords": [
+            9.7248,
+            44.1061
+          ],
+          "category": "promenades",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Hafen aus fahren im Sommer auch Boote.",
+            "hu": "A kikötőből nyáron hajók is indulnak.",
+            "ro": "Din port pleacă și bărci pe timpul verii.",
+            "en": "Boats also depart from the harbor in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Punta Bonfiglio",
+            "hu": "Punta Bonfiglio kilátó",
+            "ro": "Punctul de belvedere Punta Bonfiglio",
+            "en": "Punta Bonfiglio Viewpoint"
+          },
+          "coords": [
+            9.7242,
+            44.1072
+          ],
+          "category": "viewpoints",
+          "arrive_at": "11:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Perfekt für eine Pause nach der Zugfahrt.",
+            "hu": "Tökéletes egy pihenőhöz a vonatút után.",
+            "ro": "Perfect pentru o pauză după călătoria cu trenul.",
+            "en": "Perfect for a break after the train journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Lorenzo",
+            "hu": "Szent Lőrinc-templom",
+            "ro": "Biserica San Lorenzo",
+            "en": "Church of San Lorenzo"
+          },
+          "coords": [
+            9.7271,
+            44.1072
+          ],
+          "category": "churches",
+          "arrive_at": "12:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein steiler aber kurzer Weg bergauf.",
+            "hu": "Meredek, de rövid út felfelé.",
+            "ro": "Un drum abrupt dar scurt la deal.",
+            "en": "A steep but short walk uphill."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Papa Innocenzo IV",
+            "hu": "IV. Ince pápa tér",
+            "ro": "Piața Papa Innocenzo IV",
+            "en": "Piazza Papa Innocenzo IV"
+          },
+          "coords": [
+            9.7272,
+            44.1071
+          ],
+          "category": "squares",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre am Dorfplatz.",
+            "hu": "Élvezze a hangulatot a falu főterén.",
+            "ro": "Bucurați-vă de atmosfera din piața satului.",
+            "en": "Enjoy the atmosphere at the village square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Reisen Sie mit dem Cinque Terre Express entspannt an. Vom Bahnhof gelangen Sie durch einen malerischen Tunnel direkt ins Herz des Dorfes. Erkunden Sie den Hafen und wandern Sie zum Aussichtspunkt Punta Bonfiglio. Der Tag endet im oberen Teil des Dorfes an der Piazza und der San Lorenzo Kirche, bevor Sie bequem mit dem Zug zum nächsten Dorf weiterreisen.",
+        "hu": "Érkezzen kényelmesen a Cinque Terre Expresszel. Az állomástól egy festői alagúton keresztül juthat el közvetlenül a falu szívébe. Fedezze fel a kikötőt, és sétáljon el a Punta Bonfiglio kilátóhoz. A nap a falu felső részén, a főtéren és a Szent Lőrinc-templomnál ér véget, mielőtt vonattal továbbutazna a következő faluba.",
+        "ro": "Sosiți relaxat cu Cinque Terre Express. De la gară ajungeți printr-un tunel pitoresc direct în inima satului. Explorați portul și mergeți până la punctul de belvedere Punta Bonfiglio. Ziua se termină în partea de sus a satului, în piață și la biserica San Lorenzo, înainte de a continua călătoria cu trenul spre următorul sat.",
+        "en": "Arrive relaxed with the Cinque Terre Express. From the station, you reach the heart of the village through a scenic tunnel. Explore the harbor and walk to the Punta Bonfiglio viewpoint. The day ends in the upper part of the village at the piazza and San Lorenzo Church, before you comfortably travel on by train to the next village."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fisch-Frittüre",
+            "tip": "In der Tüte zum Mitnehmen am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült hal",
+            "tip": "Papírtölcsérben a kikötőnél elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fritto Misto",
+            "tip": "La cornet, de luat la pachet în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fried Fish",
+            "tip": "In a paper cone to go at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Felsen am Hafen",
+            "tip": "Sich auf die Felsen setzen und dem Meer lauschen.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői sziklák",
+            "tip": "Üljön le a sziklákra és hallgassa a tengert.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile din port",
+            "tip": "Așezați-vă pe stânci și ascultați marea.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Rocks",
+            "tip": "Sit on the rocks and listen to the sea.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cinque Terre Postkarten",
+            "tip": "In den kleinen Läden im Haupttunnel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cinque Terre képeslapok",
+            "tip": "A fő alagút menti kis boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederi Cinque Terre",
+            "tip": "În micile magazine de pe tunelul principal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cinque Terre Postcards",
+            "tip": "In the small shops along the main tunnel."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Cinque Terre Express fährt alle 20-30 Minuten.",
+          "Validieren Sie Ihr Ticket vor dem Einsteigen.",
+          "Der Tunnel ist kühl, gut bei Hitze.",
+          "Achten Sie auf die Ansagen am Bahnhof."
+        ],
+        "hu": [
+          "A Cinque Terre Express 20-30 percenként közlekedik.",
+          "Felszállás előtt érvényesítse a jegyét.",
+          "Az alagút hűvös, jól esik a hőségben.",
+          "Figyelje az állomási bemondásokat."
+        ],
+        "ro": [
+          "Cinque Terre Express circulă la fiecare 20-30 de minute.",
+          "Validați biletul înainte de îmbarcare.",
+          "Tunelul este răcoros, prinde bine pe căldură.",
+          "Fiți atenți la anunțurile din gară."
+        ],
+        "en": [
+          "The Cinque Terre Express runs every 20-30 minutes.",
+          "Validate your ticket before boarding.",
+          "The tunnel is cool, great during heat.",
+          "Watch out for station announcements."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "transit_official": "https://www.trenitalia.com",
+    "transit_app": "https://www.moovitapp.com",
+    "bike_share": null,
+    "city_card": "https://card.parconazionale5terre.it",
+    "events": "https://www.parconazionale5terre.it",
+    "tourism_office": "https://www.parconazionale5terre.it",
+    "webcam": null,
+    "restaurants_booking": "https://www.thefork.it",
+    "museum_tickets": "https://www.parconazionale5terre.it",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch ist offiziell; in den Cinque Terre wird im Tourismus überall Englisch gesprochen. Etwas Italienisch ('grazie', 'per favore') öffnet Türen.",
+      "hu": "Az olasz a hivatalos nyelv; az idegenforgalomban angolul mindenhol beszélnek. Néhány olasz szó ('grazie', 'per favore') sokat jelent.",
+      "ro": "Italiana este oficială; engleza se vorbește în turism. Câteva cuvinte în italiană ('grazie', 'per favore') sunt binevenite.",
+      "en": "Italian is official; English is widely spoken in tourism. A few Italian words ('grazie', 'per favore') are appreciated."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Juni und September bis Oktober für angenehme Temperaturen und ruhigere Dörfer. Hochsommer ist überfüllt.",
+      "hu": "Április-június és szeptember-október a legjobb: kellemes idő, kevésbé tömött falvak. A főszezon zsúfolt.",
+      "ro": "Aprilie-iunie și septembrie-octombrie pentru vreme plăcută și sate mai liniștite. Vârful verii e aglomerat.",
+      "en": "April to June and September to October offer pleasant weather and quieter villages. Peak summer is crowded."
+    },
+    "neighborhood_warnings": {
+      "de": "Steile Treppen und schmale Gassen, festes Schuhwerk nötig. Sentiero Azzurro kann teilweise gesperrt sein - Park-Website prüfen.",
+      "hu": "Meredek lépcsők és szűk utcák, masszív cipő ajánlott. A Sentiero Azzurro szakaszai lezárhatók - nézd meg a park oldalát.",
+      "ro": "Scări abrupte și străduțe înguste, încălțăminte solidă. Sentiero Azzurro poate fi închis pe porțiuni - verifică site-ul parcului.",
+      "en": "Steep stairs and narrow alleys; sturdy footwear needed. Sentiero Azzurro sections may be closed - check the park website."
+    }
+  }
+}

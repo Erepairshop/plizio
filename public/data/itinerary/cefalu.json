@@ -1,0 +1,1049 @@
+{
+  "city_id": "cefalu",
+  "anchor": {
+    "name": "Cefalù",
+    "coords": [
+      14.0228,
+      38.0394
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:50",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Porta Pescara",
+            "hu": "Porta Pescara",
+            "ro": "Porta Pescara",
+            "en": "Porta Pescara"
+          },
+          "coords": [
+            14.0225,
+            38.0398
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der perfekte Rahmen für ein Foto vom Meer.",
+            "hu": "A legtökéletesebb keret egy tengerparti fotóhoz.",
+            "ro": "Cadrul perfect pentru o fotografie cu marea.",
+            "en": "The perfect frame for a photo of the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Cefalù",
+            "hu": "Cefalù-i dóm",
+            "ro": "Catedrala din Cefalù",
+            "en": "Cefalù Cathedral"
+          },
+          "coords": [
+            14.0232,
+            38.0397
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Christus Pantokrator an der Decke.",
+            "hu": "Csodálja meg a Pantokrátor Krisztust a mennyezeten.",
+            "ro": "Admirați-l pe Hristos Pantocrator de pe tavan.",
+            "en": "Admire the Christ Pantocrator on the ceiling."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Mandralisca",
+            "hu": "Mandralisca Múzeum",
+            "ro": "Muzeul Mandralisca",
+            "en": "Mandralisca Museum"
+          },
+          "coords": [
+            14.0227,
+            38.0391
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Suchen Sie das Porträt eines Unbekannten von Antonello da Messina.",
+            "hu": "Keresse Antonello da Messina Ismeretlen férfi portréját.",
+            "ro": "Căutați Portretul unui necunoscut de Antonello da Messina.",
+            "en": "Look for the Portrait of an Unknown Man by Antonello da Messina."
+          }
+        },
+        {
+          "name": {
+            "de": "Osteria Magno",
+            "hu": "Osteria Magno",
+            "ro": "Osteria Magno",
+            "en": "Osteria Magno"
+          },
+          "coords": [
+            14.0218,
+            38.0388
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Probieren Sie Pasta a Taianu, das lokale Gericht.",
+            "hu": "Kóstolja meg a helyi ételt, a Pasta a Taianut.",
+            "ro": "Încercați Pasta a Taianu, preparatul local.",
+            "en": "Try Pasta a Taianu, the local signature dish."
+          }
+        },
+        {
+          "name": {
+            "de": "Lavatoio Medievale",
+            "hu": "Középkori mosoda",
+            "ro": "Spălătoria medievală",
+            "en": "Medieval Laundry"
+          },
+          "coords": [
+            14.0215,
+            38.0392
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie die Lavatreppe hinunter zum kühlen Quellwasser.",
+            "hu": "Ereszkedjen le a lépcsőn a hűvös forrásvízhez.",
+            "ro": "Coborâți treptele de lavă spre apa rece de izvor.",
+            "en": "Go down the lava steps to the cool spring water."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare Giuseppe Giardina",
+            "hu": "Lungomare Giuseppe Giardina",
+            "ro": "Lungomare Giuseppe Giardina",
+            "en": "Lungomare Giuseppe Giardina"
+          },
+          "coords": [
+            14.018,
+            38.037
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Sprung ins kristallklare Wasser ist ein Muss.",
+            "hu": "Egy csobbanás a kristálytiszta vízben kötelező.",
+            "ro": "O baie în apa cristalină este obligatorie.",
+            "en": "A dip in the crystal clear water is a must."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocca di Cefalù",
+            "hu": "Cefalù sziklája",
+            "ro": "Rocca di Cefalù",
+            "en": "Rocca of Cefalù"
+          },
+          "coords": [
+            14.025,
+            38.037
+          ],
+          "category": "natural features",
+          "arrive_at": "18:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Der Sonnenuntergang von hier oben ist unübertroffen.",
+            "hu": "A naplemente innen fentről felülmúlhatatlan.",
+            "ro": "Apusul de aici de sus este de neegalat.",
+            "en": "The sunset from up here is unsurpassed."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am goldenen Strand und betreten Sie die Stadt durch das historische Pescara-Tor. Bewundern Sie die monumentale Kathedrale und die normannischen Mosaike im Mittagslicht. Am Nachmittag erkunden Sie das mittelalterliche Waschhaus und das Mandralisca-Museum. Beenden Sie den Tag mit einer Wanderung auf die Rocca, um den Sonnenuntergang über dem Tyrrhenischen Meer zu genießen.",
+        "hu": "Kezdje a napot az aranyparton, majd lépjen be a városba a történelmi Pescara-kapun keresztül. Csodálja meg a monumentális dómot és a normann mozaikokat a déli fényben. Délután fedezze fel a középkori mosodát és a Mandralisca Múzeumot. A napot zárja egy túrával a sziklára (Rocca), hogy élvezze a Tirrén-tenger feletti naplementét.",
+        "ro": "Începeți ziua pe plaja aurie și intrați în oraș prin poarta istorică Pescara. Admirați catedrala monumentală și mozaicurile normande în lumina amiezii. După-amiaza, explorați spălătoria medievală și Muzeul Mandralisca. Încheiați ziua cu o drumeție pe Rocca pentru a vă bucura de apusul peste Marea Tireniană.",
+        "en": "Start your day on the golden beach and enter the town through the historic Pescara Gate. Admire the monumental cathedral and its Norman mosaics in the midday light. In the afternoon, explore the medieval laundry and the Mandralisca Museum. End the day with a hike up the Rocca to enjoy the sunset over the Tyrrhenian Sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasta a Taianu",
+            "tip": "Pasta mit Fleisch, Auberginen und Pecorino im Tontopf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasta a Taianu",
+            "tip": "Húsos, padlizsános, pecorinós tészta agyagedényben sütve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasta a Taianu",
+            "tip": "Paste cu carne, vinete și pecorino, gătite în vas de lut."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasta a Taianu",
+            "tip": "Pasta with meat, eggplant, and pecorino baked in a clay pot."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rocca di Cefalù",
+            "tip": "Ruhiger Blick auf die Küste.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rocca di Cefalù",
+            "tip": "Csendes kilátás a partvidékre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rocca di Cefalù",
+            "tip": "Vedere liniștită asupra coastei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rocca of Cefalù",
+            "tip": "Quiet view over the coastline.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Vittorio Emanuele",
+            "tip": "Lokale Keramik und handgefertigte Spitze."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Vittorio Emanuele",
+            "tip": "Helyi kerámiák és kézzel készített csipke."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Vittorio Emanuele",
+            "tip": "Ceramică locală și dantelă lucrată manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Vittorio Emanuele",
+            "tip": "Local ceramics and handmade lace."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Aufstieg auf die Rocca.",
+          "Reservieren Sie in der Hochsaison einen Tisch in der Osteria.",
+          "Besuchen Sie die Kathedrale am frühen Vormittag.",
+          "Nutzen Sie die Strandabschnitte am westlichen Ende für mehr Ruhe."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a Rocca megmászásához.",
+          "Főszezonban foglaljon asztalt az osteriákban.",
+          "A dómot kora délelőtt látogassa meg.",
+          "A nyugatabbi strandrészeken kevesebben vannak."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru urcarea pe Rocca.",
+          "Rezervați o masă la osterie în plin sezon.",
+          "Vizitați catedrala dimineața devreme.",
+          "Folosiți secțiunile de plajă din capătul de vest pentru liniște."
+        ],
+        "en": [
+          "Wear comfortable shoes for the climb up the Rocca.",
+          "Book a table at osterias during high season.",
+          "Visit the cathedral in the early morning.",
+          "Use the beach sections at the western end for more peace."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Lungomare Giuseppe Giardina",
+            "hu": "Lungomare Giuseppe Giardina",
+            "ro": "Lungomare Giuseppe Giardina",
+            "en": "Lungomare Giuseppe Giardina"
+          },
+          "coords": [
+            14.018,
+            38.037
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine flache Fahrt entlang des Meeres.",
+            "hu": "Lapos tekerés a tengerpart mentén.",
+            "ro": "O plimbare plană de-a lungul mării.",
+            "en": "A flat ride along the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Pescara",
+            "hu": "Porta Pescara",
+            "ro": "Porta Pescara",
+            "en": "Porta Pescara"
+          },
+          "coords": [
+            14.0225,
+            38.0398
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad hier ab und gehen Sie zu Fuß weiter.",
+            "hu": "Itt tegye le a biciklit, és gyalog menjen tovább.",
+            "ro": "Lăsați bicicleta aici și continuați pe jos.",
+            "en": "Leave your bike here and continue on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastione di Capo Marchiafava",
+            "hu": "Capo Marchiafava bástya",
+            "ro": "Bastionul Capo Marchiafava",
+            "en": "Bastion of Capo Marchiafava"
+          },
+          "coords": [
+            14.0235,
+            38.0405
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Panoramablick auf den Leuchtturm.",
+            "hu": "Panorámás kilátás a világítótoronyra.",
+            "ro": "Vedere panoramică spre far.",
+            "en": "Panoramic view towards the lighthouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempio di Diana",
+            "hu": "Diana temploma",
+            "ro": "Templul Dianei",
+            "en": "Temple of Diana"
+          },
+          "coords": [
+            14.0245,
+            38.0375
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein steiler Anstieg, aber die Archäologie lohnt sich.",
+            "hu": "Meredek emelkedő, de a régészeti lelet megéri.",
+            "ro": "O urcare abruptă, dar arheologia merită.",
+            "en": "A steep climb, but the archaeology is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Mazzaforno Beach",
+            "hu": "Mazzaforno strand",
+            "ro": "Plaja Mazzaforno",
+            "en": "Mazzaforno Beach"
+          },
+          "coords": [
+            13.985,
+            38.032
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.6,
+          "tip_5lang": {
+            "de": "Radeln Sie nach Westen zu diesem versteckten Juwel.",
+            "hu": "Tekerjen nyugatra ehhez a rejtett ékszerdobozhoz.",
+            "ro": "Pedalați spre vest spre această bijuterie ascunsă.",
+            "en": "Cycle west to this hidden gem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie entlang der Promenade und spüren Sie die Meeresbrise. Nach einem kurzen Stopp in der Altstadt erklimmen Sie die niedrigeren Hänge der Rocca zum Diana-Tempel. Der Höhepunkt ist die Fahrt nach Mazzaforno, einem ruhigeren Strand außerhalb des Stadtzentrums, ideal für einen entspannten Nachmittag.",
+        "hu": "Tekerjen végig a korzón, érezve a tengeri szellőt. Az óvárosi rövid megálló után másszon fel a szikla alsóbb lejtőire a Diana-templomhoz. A csúcspont a Mazzaforno strandhoz vezető út, amely a központon kívül eső, nyugodtabb partszakasz.",
+        "ro": "Pedalați de-a lungul falezei, simțind briza mării. După o scurtă oprire în orașul vechi, urcați pantele inferioare ale Roccăi spre Templul Dianei. Punctul culminant este drumul spre plaja Mazzaforno, o zonă mai liniștită în afara centrului.",
+        "en": "Cycle along the promenade feeling the sea breeze. After a short stop in the old town, climb the lower slopes of the Rocca to the Temple of Diana. The highlight is the ride to Mazzaforno beach, a quieter spot outside the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arancina alla carne",
+            "tip": "Frittierte Reisbällchen mit Fleischfüllung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arancina alla carne",
+            "tip": "Sült rizsgolyók húsos töltelékkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arancina alla carne",
+            "tip": "Găluște de orez prăjite cu umplutură de carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arancina alla carne",
+            "tip": "Fried rice balls with meat filling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mazzaforno",
+            "tip": "Ruhigerer Strand als das Zentrum.",
+            "emoji": "🏖️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mazzaforno",
+            "tip": "Nyugodtabb strand, mint a központban.",
+            "emoji": "🏖️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mazzaforno",
+            "tip": "Plajă mai liniștită decât cea din centru.",
+            "emoji": "🏖️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mazzaforno",
+            "tip": "Quieter beach than the town center.",
+            "emoji": "🏖️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Ruggero",
+            "tip": "Modische Boutiquen und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Ruggero",
+            "tip": "Divatboltok és szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Ruggero",
+            "tip": "Boutique-uri de modă și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Ruggero",
+            "tip": "Fashion boutiques and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit Gangschaltung für die Hügel.",
+          "Fahren Sie in der Fußgängerzone vorsichtig.",
+          "Bringen Sie ausreichend Wasser mit.",
+          "Schließen Sie Ihr Rad immer sicher ab."
+        ],
+        "hu": [
+          "Béreljen sebességváltós kerékpárt a dombok miatt.",
+          "A sétálóövezetben óvatosan közlekedjen.",
+          "Vigyen magával bőséges vizet.",
+          "Mindig zárja le a biciklit."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze pentru dealuri.",
+          "Circulați cu atenție în zona pietonală.",
+          "Aduceți apă din abundență.",
+          "Încuiați întotdeauna bicicleta."
+        ],
+        "en": [
+          "Rent a bike with gears for the hills.",
+          "Ride carefully in the pedestrian zone.",
+          "Bring plenty of water.",
+          "Always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 32,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Duomo di Cefalù",
+            "hu": "Cefalù-i dóm",
+            "ro": "Catedrala din Cefalù",
+            "en": "Cefalù Cathedral"
+          },
+          "coords": [
+            14.0232,
+            38.0397
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen Platz am Lungomare.",
+            "hu": "Parkoljon a Lungomare nagy parkolójában.",
+            "ro": "Parcați în parcarea mare de pe Lungomare.",
+            "en": "Park in the large lot on Lungomare."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario di Gibilmanna",
+            "hu": "Gibilmannai szentély",
+            "ro": "Sanctuarul din Gibilmanna",
+            "en": "Sanctuary of Gibilmanna"
+          },
+          "coords": [
+            14.02,
+            37.985
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 10.5,
+          "tip_5lang": {
+            "de": "Ein heiliger Ort in den Madonie-Bergen.",
+            "hu": "Szent hely a Madonie-hegységben.",
+            "ro": "Un loc sfânt în munții Madonie.",
+            "en": "A holy site in the Madonie mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelbuono Centro",
+            "hu": "Castelbuono központja",
+            "ro": "Castelbuono Centru",
+            "en": "Castelbuono Center"
+          },
+          "coords": [
+            14.088,
+            37.931
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Schloss der Ventimiglia.",
+            "hu": "Látogassa meg a Ventimiglia-kastélyt.",
+            "ro": "Vizitați castelul Ventimiglia.",
+            "en": "Visit the Ventimiglia castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasticceria Fiasconaro",
+            "hu": "Fiasconaro cukrászda",
+            "ro": "Cofetăria Fiasconaro",
+            "en": "Fiasconaro Pastry Shop"
+          },
+          "coords": [
+            14.0885,
+            37.9305
+          ],
+          "category": "gastro",
+          "arrive_at": "14:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Berühmt für Panettone mit Manna.",
+            "hu": "Híres a mannás panettonéról.",
+            "ro": "Faimos pentru panettone cu mană.",
+            "en": "Famous for panettone with manna."
+          }
+        },
+        {
+          "name": {
+            "de": "S. Ambrogio Beach",
+            "hu": "S. Ambrogio strand",
+            "ro": "Plaja S. Ambrogio",
+            "en": "S. Ambrogio Beach"
+          },
+          "coords": [
+            14.078,
+            38.025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Ruhiger Kieselstrand östlich der Stadt.",
+            "hu": "Nyugodt kavicsos strand a várostól keletre.",
+            "ro": "Plajă liniștită cu pietriș la est de oraș.",
+            "en": "Quiet pebble beach east of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um über Cefalù hinaus die Madonie-Berge zu erkunden. Besuchen Sie das nebelverhangene Heiligtum von Gibilmanna und das charmante Dorf Castelbuono. Genießen Sie eine Kostprobe des berühmten Panettone, bevor Sie für ein erfrischendes Bad am ruhigen Strand von Sant'Ambrogio an die Küste zurückkehren.",
+        "hu": "Használja az autót, hogy Cefalùn túl felfedezze a Madonie-hegységet. Látogassa meg a ködös Gibilmanna-szentélyt és a bájos Castelbuono falut. Kóstolja meg a híres panettonét, mielőtt visszatérne a partra egy frissítő csobbanásra a nyugodt Sant'Ambrogio strandon.",
+        "ro": "Folosiți mașina pentru a explora munții Madonie dincolo de Cefalù. Vizitați sanctuarul învăluit în ceață din Gibilmanna și fermecătorul sat Castelbuono. Savurați celebrul panettone înainte de a reveni la coastă pentru o baie răcoritoare pe plaja liniștită Sant'Ambrogio.",
+        "en": "Use the car to explore the Madonie mountains beyond Cefalù. Visit the misty Gibilmanna sanctuary and the charming village of Castelbuono. Enjoy a taste of the famous panettone before returning to the coast for a refreshing dip at the quiet Sant'Ambrogio beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Panettone di Castelbuono",
+            "tip": "Süßes Brot mit lokalem Manna (Eschensaft)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Castelbuonói Panettone",
+            "tip": "Édes kenyér helyi mannával (kőrisfa nedve)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panettone de Castelbuono",
+            "tip": "Cozonac dulce cu mană locală (suc de frasin)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Castelbuono Panettone",
+            "tip": "Sweet bread with local manna (ash tree sap)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gibilmanna Wald",
+            "tip": "Kühle Bergluft und Stille.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gibilmannai erdő",
+            "tip": "Hűvös hegyi levegő és csend.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Gibilmanna",
+            "tip": "Aer răcoros de munte și liniște.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gibilmanna Forest",
+            "tip": "Cool mountain air and silence.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Manna-Produkte",
+            "tip": "Natürlicher Süßstoff aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Manna termékek",
+            "tip": "Természetes édesítőszer a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse cu mană",
+            "tip": "Îndulcitor natural din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Manna products",
+            "tip": "Natural sweetener from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen in den Madonie sind kurvig, fahren Sie vorsichtig.",
+          "Parkplätze im Zentrum von Cefalù sind teuer und rar.",
+          "In Castelbuono gibt es gute Parkmöglichkeiten am Eingang.",
+          "Bringen Sie eine leichte Jacke für die Berge mit."
+        ],
+        "hu": [
+          "A Madonie útjai kanyargósak, vezessen óvatosan.",
+          "Cefalù központjában a parkolás drága és nehéz.",
+          "Castelbuonóban a bejáratnál jó parkolók vannak.",
+          "Vigyen könnyű dzsekit a hegyekbe."
+        ],
+        "ro": [
+          "Drumurile din Madonie sunt virajate, conduceți cu atenție.",
+          "Parcarea în centrul Cefalù este scumpă și rară.",
+          "În Castelbuono există parcări bune la intrare.",
+          "Aduceți o jachetă ușoară pentru munte."
+        ],
+        "en": [
+          "The roads in Madonie are winding, drive carefully.",
+          "Parking in central Cefalù is expensive and scarce.",
+          "In Castelbuono, there are good parking lots at the entrance.",
+          "Bring a light jacket for the mountains."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cefalù Bahnhof",
+            "hu": "Cefalù vasútállomás",
+            "ro": "Gara Cefalù",
+            "en": "Cefalù Train Station"
+          },
+          "coords": [
+            14.0185,
+            38.0335
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ankunft von Palermo oder Messina.",
+            "hu": "Érkezés Palermóból vagy Messinából.",
+            "ro": "Sosire din Palermo sau Messina.",
+            "en": "Arrival from Palermo or Messina."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa del Purgatorio",
+            "hu": "Purgatórium-templom",
+            "ro": "Biserica Purgatoriului",
+            "en": "Church of the Purgatory"
+          },
+          "coords": [
+            14.022,
+            38.0385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das barocke Portal.",
+            "hu": "Csodálja meg a barokk portált.",
+            "ro": "Admirați portalul baroc.",
+            "en": "Admire the baroque portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Cefalù",
+            "hu": "Cefalù-i dóm",
+            "ro": "Catedrala din Cefalù",
+            "en": "Cefalù Cathedral"
+          },
+          "coords": [
+            14.0232,
+            38.0397
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "UNESCO Weltkulturerbe.",
+            "hu": "UNESCO Világörökség része.",
+            "ro": "Patrimoniul Mondial UNESCO.",
+            "en": "UNESCO World Heritage site."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare Giuseppe Giardina",
+            "hu": "Lungomare Giuseppe Giardina",
+            "ro": "Lungomare Giuseppe Giardina",
+            "en": "Lungomare Giuseppe Giardina"
+          },
+          "coords": [
+            14.018,
+            38.037
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:20",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bester Platz für das Mittagessen am Meer.",
+            "hu": "A legjobb hely egy tengerparti ebédhez.",
+            "ro": "Cel mai bun loc pentru prânzul la malul mării.",
+            "en": "Best place for lunch by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Lavatoio Medievale",
+            "hu": "Középkori mosoda",
+            "ro": "Spălătoria medievală",
+            "en": "Medieval Laundry"
+          },
+          "coords": [
+            14.0215,
+            38.0392
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Versteckter Eingang an der Hauptstraße.",
+            "hu": "Rejtett bejárat a főutcáról.",
+            "ro": "Intrare ascunsă de pe strada principală.",
+            "en": "Hidden entrance from the main street."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vom Bahnhof aus ist die Altstadt von Cefalù leicht zu Fuß oder mit dem lokalen Shuttle zu erreichen. Besuchen Sie die wichtigsten Kirchen und den Dom, bevor Sie den Nachmittag am weitläufigen Strand verbringen. Bevor Ihr Zug abfährt, tauchen Sie in das kühle Ambiente des mittelalterlichen Waschhauses ein.",
+        "hu": "A vasútállomástól Cefalù óvárosa könnyen elérhető gyalog vagy helyi kisbusszal. Látogassa meg a legfontosabb templomokat és a dómot, mielőtt a délutánt a tágas strandon töltené. Mielőtt indulna a vonata, merüljön el a középkori mosoda hűvös környezetében.",
+        "ro": "De la gară, orașul vechi din Cefalù este ușor accesibil pe jos sau cu microbuzul local. Vizitați principalele biserici și catedrala înainte de a petrece după-amiaza pe plaja întinsă. Înainte de plecarea trenului, scufundați-vă în atmosfera răcoroasă a spălătoriei medievale.",
+        "en": "From the train station, Cefalù's old town is easily reached on foot or by local shuttle. Visit the key churches and the cathedral before spending the afternoon on the wide beach. Before your train departs, immerse yourself in the cool ambiance of the medieval laundry."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Fisch",
+            "tip": "Sardinen oder Schwertfisch in den Restaurants am Lungomare."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss halak",
+            "tip": "Szardínia vagy kardhal a Lungomare éttermeiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt",
+            "tip": "Sardine sau pește spadă la restaurantele de pe Lungomare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Fish",
+            "tip": "Sardines or swordfish at the Lungomare restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piazza del Duomo",
+            "tip": "Morgens vor den Touristenmassen.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza del Duomo",
+            "tip": "Reggel, még a tömeg előtt.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazza del Duomo",
+            "tip": "Dimineața înaintea mulțimii de turiști.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza del Duomo",
+            "tip": "Morning before the tourist crowds.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktstand am Bahnhof",
+            "tip": "Lokale Früchte und Snacks für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piaci stand az állomásnál",
+            "tip": "Helyi gyümölcsök és rágcsálnivalók az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stand la gară",
+            "tip": "Fructe locale și gustări pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market stall at the station",
+            "tip": "Local fruits and snacks for the trip."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Zugzeiten nach Palermo (ca. 1 Stunde).",
+          "Der Bahnhof ist ca. 10-15 Min. Fußweg vom Zentrum entfernt.",
+          "Kaufen Sie Tickets im Voraus online.",
+          "Es gibt Gepäckschließfächer am Bahnhof."
+        ],
+        "hu": [
+          "Ellenőrizze a palermói vonatidőket (kb. 1 óra).",
+          "Az állomás 10-15 perc sétára van a központtól.",
+          "Vegye meg a jegyeket előre online.",
+          "Vannak csomagmegőrzők az állomáson."
+        ],
+        "ro": [
+          "Verificați orele trenurilor spre Palermo (aprox. 1 oră).",
+          "Gara este la 10-15 min. de mers pe jos de centru.",
+          "Cumpărați bilete în avans online.",
+          "Există dulapuri de bagaje în gară."
+        ],
+        "en": [
+          "Check train times to Palermo (approx. 1 hour).",
+          "The station is about 10-15 mins walk from the center.",
+          "Buy tickets in advance online.",
+          "There are luggage lockers at the station."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "_coords": [
+      14.0228,
+      38.0394
+    ],
+    "_region": "IT-82 Sicilia",
+    "transit_official": "https://www.trenitalia.com/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Cefal%C3%B9",
+    "bike_share": null,
+    "city_card": null,
+    "events": null,
+    "tourism_office": null,
+    "webcam": "https://www.skylinewebcams.com/it/webcam/italia/sicilia/palermo/duomo-di-cefalu.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/cefalu-c562512",
+    "museum_tickets": "https://www.coopculture.it/it/luogo/duomo-di-cefalu/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch und sizilianisch; Englisch in Touristenrestaurants gut. Deutsch teilweise verfügbar.",
+      "hu": "Olasz és szicíliai nyelvjárás; angol turistaéttermekben jó. Német részben elérhető.",
+      "ro": "Italiana și siciliana; engleza bună în restaurantele turistice. Germana parțial.",
+      "en": "Italian and Sicilian dialect; English good in tourist restaurants. German partly available."
+    },
+    "best_time": {
+      "de": "April–Juni und September–Oktober mildes Wetter; August heiß und überlaufen.",
+      "hu": "Április–június és szeptember–október enyhe időjárás; augusztus forró és zsúfolt.",
+      "ro": "Aprilie–iunie și septembrie–octombrie vreme blândă; august cald și aglomerat.",
+      "en": "April–June and September–October mild weather; August hot and overcrowded."
+    },
+    "warnings": {
+      "de": "Altstadt nur zu Fuß; Parkplätze außerhalb. Dom-Aufstieg La Rocca anstrengend, früh starten.",
+      "hu": "Óváros csak gyalog; parkolók a városon kívül. La Rocca felmászás fárasztó, korán indulj.",
+      "ro": "Centrul vechi doar pe jos; parcări la margine. Urcușul La Rocca obositor, pleacă devreme.",
+      "en": "Old town pedestrian only; park outside. La Rocca climb tiring, start early."
+    }
+  }
+}

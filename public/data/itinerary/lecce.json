@@ -1,0 +1,1127 @@
+{
+  "city_id": "lecce",
+  "anchor": {
+    "name": "Piazza Sant'Oronzo",
+    "coords": [
+      18.1719,
+      40.3528
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Porta Napoli",
+          "coords": [
+            18.1673,
+            40.3562
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Triumphbogen, der zu Ehren von Karl V. errichtet wurde.",
+            "hu": "Csodálja meg a V. Károly tiszteletére emelt diadalívet.",
+            "ro": "Admirați arcul de triumf ridicat în cinstea lui Carol al V-lea.",
+            "en": "Admire the triumphal arch built in honor of Charles V."
+          }
+        },
+        {
+          "name": "Basilica di Santa Croce",
+          "coords": [
+            18.1728,
+            40.3548
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den detaillierten Tierfiguren an der Barockfassade.",
+            "hu": "Keresse meg a részletgazdag állatfigurákat a barokk homlokzaton.",
+            "ro": "Căutați figurile de animale detaliate de pe fațada barocă.",
+            "en": "Look for the detailed animal figures on the Baroque facade."
+          }
+        },
+        {
+          "name": "Piazza del Duomo",
+          "coords": [
+            18.1691,
+            40.3524
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe dieses geschlossenen Platzes, eines der schönsten Italiens.",
+            "hu": "Élvezze Olaszország egyik legszebb zárt terének nyugalmát.",
+            "ro": "Bucurați-vă de liniștea acestei piețe închise, una dintre cele mai frumoase din Italia.",
+            "en": "Enjoy the tranquility of this enclosed square, one of Italy's most beautiful."
+          }
+        },
+        {
+          "name": "Anfiteatro Romano",
+          "coords": [
+            18.172,
+            40.3533
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Sehen Sie sich die Überreste der römischen Gladiatorenarena unter dem Platz an.",
+            "hu": "Tekintse meg a római gladiátoraréna maradványait a tér szintje alatt.",
+            "ro": "Vedeți rămășițele arenei romane de gladiatori de sub nivelul pieței.",
+            "en": "View the remains of the Roman gladiator arena below square level."
+          }
+        },
+        {
+          "name": "Teatro Romano",
+          "coords": [
+            18.1712,
+            40.3512
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel in den Gassen, das oft weniger überlaufen ist.",
+            "hu": "Rejtett gyöngyszem a sikátorok között, amely gyakran kevésbé zsúfolt.",
+            "ro": "O bijuterie ascunsă printre alei, adesea mai puțin aglomerată.",
+            "en": "A hidden gem among the alleys, often less crowded than the amphitheater."
+          }
+        },
+        {
+          "name": "MUST - Museo Storico",
+          "coords": [
+            18.1768,
+            40.3508
+          ],
+          "category": "museums",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die moderne Kunst und Stadtgeschichte in einem alten Kloster.",
+            "hu": "Fedezze fel a modern művészetet és a város történelmét egy régi kolostorban.",
+            "ro": "Descoperiți arta modernă și istoria orașului într-o veche mănăstire.",
+            "en": "Discover modern art and city history housed in an old monastery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der Porta Napoli und tauchen Sie ein in das barocke Herz von Lecce. Am Vormittag bestaunen Sie die Basilika Santa Croce, bevor Sie mittags die Harmonie der Piazza del Duomo genießen. Der Nachmittag steht im Zeichen der römischen Antike mit dem Amphitheater und dem versteckten Theater. Beenden Sie den Tag kulturell im MUST-Museum in einem historischen Ambiente.",
+        "hu": "Kezdje a napot a Porta Napoli kapujánál, majd merüljön el Lecce barokk szívében. Délelőtt csodálja meg a Santa Croce bazilikát, délben pedig élvezze a Piazza del Duomo harmóniáját. A délután a római antikvitás jegyében telik az amfiteátrum és a rejtett színház felfedezésével. Zárja a napot kulturális élményekkel a MUST múzeumban, egy történelmi épület falai között.",
+        "ro": "Începeți ziua la Porta Napoli și scufundați-vă în inima barocă a orașului Lecce. Dimineața admirați Basilica Santa Croce, iar la prânz bucurați-vă de armonia din Piazza del Duomo. După-amiaza este dedicată antichității romane, cu amfiteatrul și teatrul ascuns. Încheiați ziua cultural la muzeul MUST, găzduit într-un cadru istoric deosebit.",
+        "en": "Start your day at Porta Napoli and dive into the Baroque heart of Lecce. In the morning, marvel at the Basilica of Santa Croce before enjoying the harmony of Piazza del Duomo at noon. The afternoon is dedicated to Roman antiquity with the amphitheater and the hidden theater. Conclude your day with a cultural visit to the MUST museum set in a historic environment."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasticciotto Leccese",
+            "tip": "Probieren Sie das warme Mürbeteiggebäck mit Puddingfüllung bei Caffè Alvino."
+          },
+          {
+            "name": "Rustico Leccese",
+            "tip": "Ein herzhaftes Blätterteiggebäck mit Mozzarella und Tomate, ideal für den kleinen Hunger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasticciotto Leccese",
+            "tip": "Kóstolja meg a meleg, krémmel töltött omlós tésztát a Caffè Alvino-ban."
+          },
+          {
+            "name": "Rustico Leccese",
+            "tip": "Sós leveles tészta mozzarellával és paradicsommal, tökéletes tízórai."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasticciotto Leccese",
+            "tip": "Gustați produsul de patiserie cald umplut cu cremă la Caffè Alvino."
+          },
+          {
+            "name": "Rustico Leccese",
+            "tip": "Un foietaj sărat cu mozzarella și roșii, ideal pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasticciotto Leccese",
+            "tip": "Try the warm shortcrust pastry filled with custard at Caffè Alvino."
+          },
+          {
+            "name": "Rustico Leccese",
+            "tip": "A savory puff pastry with mozzarella and tomato, perfect for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Villa Comunale",
+            "tip": "Ein ruhiger Stadtgarten für eine Pause im Schatten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jüdisches Viertel",
+            "tip": "Stille Gassen abseits der Haupttouristenströme.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Comunale",
+            "tip": "Csendes városi kert egy árnyékos pihenőhöz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Zsidó negyed",
+            "tip": "Csendes sikátorok a fő turistaútvonalaktól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Villa Comunale",
+            "tip": "O grădină publică liniștită pentru o pauză la umbră.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cartierul Evreiesc",
+            "tip": "Alei silențioase departe de fluxurile principale de turiști.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Comunale",
+            "tip": "A quiet city garden for a break in the shade.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jewish Quarter",
+            "tip": "Silent alleys away from the main tourist crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cartapesta-Werkstätten",
+            "tip": "Traditionelle Pappmaché-Kunstwerke in der Via Palmieri."
+          },
+          {
+            "name": "Pietra Leccese",
+            "tip": "Kleine Skulpturen aus dem weichen, lokalen Kalkstein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Papírmasé műhelyek",
+            "tip": "Hagyományos papírmasé művészeti alkotások a Via Palmieri-n."
+          },
+          {
+            "name": "Pietra Leccese",
+            "tip": "Kisebb szobrok a puha, helyi mészkőből faragva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ateliere de Cartapesta",
+            "tip": "Opere de artă tradiționale din papier-mâché pe Via Palmieri."
+          },
+          {
+            "name": "Pietra Leccese",
+            "tip": "Mici sculpturi realizate din piatra calcaroasă locală moale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cartapesta Workshops",
+            "tip": "Traditional paper-mâché artworks found in Via Palmieri."
+          },
+          {
+            "name": "Pietra Leccese",
+            "tip": "Small sculptures carved from the soft, local limestone."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die unebenen Steinplatten (Chianche) der Altstadt.",
+          "Die meisten Kirchen verlangen eine angemessene Kleidung (Schultern bedeckt).",
+          "Viele Geschäfte schließen zwischen 13:30 und 16:30 Uhr für die Mittagspause.",
+          "Lecce ist abends wunderschön beleuchtet, ein Spaziergang nach dem Abendessen ist Pflicht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az óváros egyenetlen kőlapjai (chianche) miatt.",
+          "A legtöbb templom megköveteli a megfelelő öltözetet (fedett vállak).",
+          "Sok üzlet bezár 13:30 és 16:30 között a délutáni szieszta idejére.",
+          "Lecce este gyönyörűen ki van világítva, a vacsora utáni séta kötelező program."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru dalele de piatră neregulate (chianche) din centrul vechi.",
+          "Majoritatea bisericilor necesită o îmbrăcăminte adecvată (umerii acoperiți).",
+          "Multe magazine se închid între 13:30 și 16:30 pentru pauza de prânz.",
+          "Lecce este luminat superb seara; o plimbare după cină este obligatorie."
+        ],
+        "en": [
+          "Wear comfortable shoes for the uneven stone slabs (chianche) of the old town.",
+          "Most churches require appropriate clothing (shoulders covered).",
+          "Many shops close between 1:30 PM and 4:30 PM for the afternoon siesta.",
+          "Lecce is beautifully lit at night; a post-dinner stroll is a must."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 18.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Castello di Carlo V",
+          "coords": [
+            18.175,
+            40.3525
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die massiven Verteidigungsanlagen und das Papier-mâché-Museum im Inneren.",
+            "hu": "Fedezze fel a masszív védműveket és a belső papírmasé múzeumot.",
+            "ro": "Explorați fortificațiile masive și muzeul papier-mâché din interior.",
+            "en": "Explore the massive defensive walls and the paper-mâché museum inside."
+          }
+        },
+        {
+          "name": "Piazza del Duomo",
+          "coords": [
+            18.1691,
+            40.3524
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Rand ab, um den Platz in Ruhe zu Fuß zu besichtigen.",
+            "hu": "Hagyja a kerékpárt a szélén, és fedezze fel a teret gyalogosan.",
+            "ro": "Lăsați bicicleta la margine pentru a vizita piața pe jos în liniște.",
+            "en": "Park your bike at the edge to explore the square on foot calmly."
+          }
+        },
+        {
+          "name": "Porta Napoli",
+          "coords": [
+            18.1673,
+            40.3562
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der ideale Ausgangspunkt für eine Fahrt entlang der alten Stadtmauer.",
+            "hu": "Ideális kiindulópont egy tekeréshez a régi városfal mentén.",
+            "ro": "Punctul de plecare ideal pentru o plimbare de-a lungul zidurilor vechi.",
+            "en": "The ideal starting point for a ride along the old city walls."
+          }
+        },
+        {
+          "name": "Abbazia di Santa Maria di Cerrate",
+          "coords": [
+            18.1485,
+            40.4578
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 85,
+          "hop_from_prev_km": 14.0,
+          "tip_5lang": {
+            "de": "Eine lohnende Fahrt durch Olivenhaine zu dieser byzantinischen Perle.",
+            "hu": "Megéri a tekerés az olajfaligeteken át ehhez a bizánci gyöngyszemhez.",
+            "ro": "O plimbare care merită prin livezi de măslini până la această perlă bizantină.",
+            "en": "A rewarding ride through olive groves to this Byzantine gem."
+          }
+        },
+        {
+          "name": "Chiesa di San Matteo",
+          "coords": [
+            18.173,
+            40.3505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 14.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ungewöhnliche konvexe und konkave Barockfassade.",
+            "hu": "Csodálja meg a szokatlan konvex és konkáv barokk homlokzatot.",
+            "ro": "Admirați fațada barocă neobișnuită, convexă și concavă.",
+            "en": "Admire the unusual convex and concave Baroque facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie erst die Festung Karl V. und das Herz der Altstadt. Nach einer kurzen Pause am Piazza del Duomo führt Sie die Route aus der Stadt hinaus durch weite Olivenhaine zur byzantinischen Abtei Cerrate. Diese Tour verbindet barocke Pracht mit der typisch apulischen Landschaft. Am späten Nachmittag kehren Sie zurück, um die Kirche San Matteo zu bewundern.",
+        "hu": "Kerékpárral először az V. Károly várat és az óváros szívét fedezheti fel. Rövid pihenő után a Piazza del Duomo-nál az út kivezeti a városból, hatalmas olajfaligeteken át a bizánci Cerrate apátsághoz. Ez a túra ötvözi a barokk pompát a jellegzetes pugliai tájjal. Késő délután érkezik vissza a városba, hogy megcsodálja a San Matteo templomot.",
+        "ro": "Cu bicicleta veți explora mai întâi Castelul Carol al V-lea și inima centrului vechi. După o scurtă pauză în Piazza del Duomo, ruta vă scoate din oraș prin livezi întinse de măslini spre abbația bizantină Cerrate. Acest tur îmbină splendoarea barocă cu peisajul tipic apulian. După-amiaza târziu reveniți pentru a admira biserica San Matteo.",
+        "en": "By bike, you first explore the Charles V Castle and the heart of the old town. After a short break at Piazza del Duomo, the route takes you out of the city through vast olive groves to the Byzantine Abbey of Cerrate. This tour combines Baroque splendor with the typical Apulian landscape. In the late afternoon, return to admire the Church of San Matteo."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caffè in ghiaccio con latte di mandorla",
+            "tip": "Eiskaffee mit Mandelsirup, das typische Sommergetränk aus Lecce."
+          },
+          {
+            "name": "Friselle",
+            "tip": "Zwieback-ähnliches Brot mit Tomaten und Olivenöl, perfekt für ein leichtes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caffè in ghiaccio con latte di mandorla",
+            "tip": "Jegeskávé mandulatejjel, Lecce jellegzetes nyári hűsítője."
+          },
+          {
+            "name": "Friselle",
+            "tip": "Kétszersült kenyér paradicsommal és olívaolajjal, tökéletes könnyű ebéd."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caffè in ghiaccio con latte di mandorla",
+            "tip": "Cafea cu gheață și lapte de migdale, băutura de vară tipică din Lecce."
+          },
+          {
+            "name": "Friselle",
+            "tip": "Pâine crocantă cu roșii și ulei de măsline, perfectă pentru un prânz ușor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caffè in ghiaccio con latte di mandorla",
+            "tip": "Iced coffee with almond milk, the typical summer drink of Lecce."
+          },
+          {
+            "name": "Friselle",
+            "tip": "Twice-baked bread with tomatoes and olive oil, perfect for a light lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Olivenhaine bei Cerrate",
+            "tip": "Genießen Sie die Ruhe der Landschaft außerhalb der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viale dell'Università",
+            "tip": "Ein breiter Boulevard mit Radwegen und Schatten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cerrate környéki olajfaligetek",
+            "tip": "Élvezze a vidéki táj nyugalmát a városon kívül.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viale dell'Università",
+            "tip": "Széles körút kerékpárúttal és árnyas fákkal.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Livezile de măslini de lângă Cerrate",
+            "tip": "Bucurați-vă de liniștea peisajului din afara orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viale dell'Università",
+            "tip": "Un bulevard larg cu piste de biciclete și umbră.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive groves near Cerrate",
+            "tip": "Enjoy the tranquility of the countryside outside the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viale dell'Università",
+            "tip": "A wide boulevard with bike paths and shade.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Kaufen Sie direkt bei den Erzeugern in der Umgebung."
+          },
+          {
+            "name": "Keramik aus Grottaglie",
+            "tip": "Oft in kleinen Läden am Stadtrand zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Vásároljon közvetlenül a környékbeli termelőktől."
+          },
+          {
+            "name": "Grottaglie-i kerámia",
+            "tip": "Gyakran megtalálható a város szélén lévő kis üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați direct de la producătorii din împrejurimi."
+          },
+          {
+            "name": "Ceramică de Grottaglie",
+            "tip": "Adesea găsită în mici magazine de la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Purchase directly from producers in the surrounding countryside."
+          },
+          {
+            "name": "Grottaglie Ceramics",
+            "tip": "Often found in small shops on the outskirts of the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist eine verkehrsberuhigte Zone (ZTL), ideal zum Radfahren.",
+          "Nehmen Sie genügend Wasser mit, wenn Sie die Stadt verlassen, es gibt wenig Schatten.",
+          "Achten Sie auf die weißen Steinplatten, die bei Regen sehr rutschig sein können.",
+          "Es gibt mehrere Fahrradverleihe in der Nähe des Bahnhofs."
+        ],
+        "hu": [
+          "Az óváros korlátozott forgalmi övezet (ZTL), ideális a kerékpározáshoz.",
+          "Vigyen magával elég vizet, ha elhagyja a várost, kevés az árnyék.",
+          "Vigyázzon a fehér kőlapokra, mert esőben nagyon csúszósak lehetnek.",
+          "Több kerékpárkölcsönző is található a vasútállomás közelében."
+        ],
+        "ro": [
+          "Centrul vechi este zonă cu trafic limitat (ZTL), ideală pentru bicicletă.",
+          "Luați suficientă apă când părăsiți orașul, există puțină umbră.",
+          "Atenție la dalele de piatră albă, pot fi foarte alunecoase când plouă.",
+          "Există mai multe centre de închirieri biciclete lângă gară."
+        ],
+        "en": [
+          "The old town is a limited traffic zone (ZTL), ideal for cycling.",
+          "Take enough water when leaving the city, as there is little shade.",
+          "Be careful with the white stone slabs; they can be very slippery when it rains.",
+          "There are several bike rental shops near the train station."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Abbazia di Santa Maria di Cerrate",
+          "coords": [
+            18.1485,
+            40.4578
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses FAI-Anwesen mit seinen wunderschönen Fresken.",
+            "hu": "Látogassa meg ezt a gyönyörű freskókkal díszített FAI birtokot.",
+            "ro": "Vizitați această proprietate FAI cu frescele sale superbe.",
+            "en": "Visit this FAI property with its beautiful frescoes and history."
+          }
+        },
+        {
+          "name": "Basilica di Santa Croce",
+          "coords": [
+            18.1728,
+            40.3548
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 15.5,
+          "tip_5lang": {
+            "de": "Parken Sie außerhalb der Mauern und spazieren Sie ins Barockzentrum.",
+            "hu": "Parkoljon a falakon kívül, és sétáljon be a barokk központba.",
+            "ro": "Parcați în afara zidurilor și mergeți pe jos în centrul baroc.",
+            "en": "Park outside the walls and walk into the Baroque center."
+          }
+        },
+        {
+          "name": "Castello di Carlo V",
+          "coords": [
+            18.175,
+            40.3525
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Direkt neben dem großen Parkplatz 'Oberdan' gelegen.",
+            "hu": "Közvetlenül a nagy 'Oberdan' parkoló mellett található.",
+            "ro": "Situat chiar lângă marea parcare 'Oberdan'.",
+            "en": "Located right next to the large 'Oberdan' parking area."
+          }
+        },
+        {
+          "name": "MUST - Museo Storico",
+          "coords": [
+            18.1768,
+            40.3508
+          ],
+          "category": "museums",
+          "arrive_at": "14:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den kurzen Fußweg von der Piazza Sant'Oronzo.",
+            "hu": "Használja ki a rövid sétát a Piazza Sant'Oronzo felől.",
+            "ro": "Profități de scurta plimbare dinspre Piazza Sant'Oronzo.",
+            "en": "Take advantage of the short walk from Piazza Sant'Oronzo."
+          }
+        },
+        {
+          "name": "Piazza del Duomo",
+          "coords": [
+            18.1691,
+            40.3524
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein letzter Blick auf den Glockenturm, bevor Sie die Stadt verlassen.",
+            "hu": "Egy utolsó pillantás a harangtoronyra, mielőtt elhagyná a várost.",
+            "ro": "O ultimă privire spre clopotniță înainte de a părăsi orașul.",
+            "en": "One last look at the bell tower before leaving the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto starten Sie außerhalb bei der Abtei Cerrate, um den Vormittag entspannt im Grünen zu beginnen. Zurück in Lecce widmen Sie sich der Santa Croce Basilika und dem Schloss Karl V., die beide am Rand der Altstadt gut erreichbar sind. Nach einem Besuch im MUST-Museum lassen Sie den Tag auf dem prachtvollen Piazza del Duomo ausklingen, während die Stadt langsam zum Leben erwacht.",
+        "hu": "Autóval a városon kívüli Cerrate apátságnál kezd, hogy a délelőttöt nyugodtan, zöld környezetben indítsa. Lecce-be visszatérve a Santa Croce bazilikának és az V. Károly várnak szentelheti az időt, melyek az óváros szélén könnyen megközelíthetők. A MUST múzeumi látogatás után a napot a pompás Piazza del Duomo-n zárja, miközben a város lassan éledezni kezd.",
+        "ro": "Cu mașina începeți în afara orașului la Abbația Cerrate, pentru o dimineață relaxată în natură. Revenind în Lecce, vizitați Basilica Santa Croce și Castelul Carol al V-lea, ambele accesibile la marginea centrului vechi. După o vizită la muzeul MUST, încheiați ziua în splendida Piazza del Duomo, în timp ce orașul începe să prindă viață.",
+        "en": "By car, you start outside at the Abbey of Cerrate for a relaxed morning in the countryside. Returning to Lecce, dedicate your time to the Santa Croce Basilica and Charles V Castle, both easily accessible on the edge of the old town. After visiting the MUST museum, end your day at the magnificent Piazza del Duomo as the city slowly comes alive."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Orecchiette con cime di rapa",
+            "tip": "Hausgemachte Pasta mit Stängelkohl, das Nationalgericht Apuliens."
+          },
+          {
+            "name": "Salice Salentino",
+            "tip": "Ein kräftiger Rotwein aus der Region, ideal zum Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orecchiette con cime di rapa",
+            "tip": "Házias tészta tarlórépa levéllel, Puglia nemzeti étele."
+          },
+          {
+            "name": "Salice Salentino",
+            "tip": "Erős helyi vörösbor, amely tökéletes kísérője a vacsorának."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Orecchiette con cime di rapa",
+            "tip": "Paste făcute în casă cu frunze de napi, felul național al Pugliei."
+          },
+          {
+            "name": "Salice Salentino",
+            "tip": "Un vin roșu corpolent din regiune, ideal pentru cină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Orecchiette con cime di rapa",
+            "tip": "Homemade pasta with turnip tops, the signature dish of Puglia."
+          },
+          {
+            "name": "Salice Salentino",
+            "tip": "A bold local red wine from the region, perfect for dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Cataldo Strand",
+            "tip": "Nur 15 Minuten Fahrt zum Meer für einen Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Klostergarten Cerrate",
+            "tip": "Ein Ort tiefer Stille inmitten alter Steine.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Cataldo tengerpart",
+            "tip": "Mindössze 15 perc autóút a tengerhez egy naplementéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cerrate kolostorkert",
+            "tip": "A mély csend helyszíne az ódon falak között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja San Cataldo",
+            "tip": "La doar 15 minute de condus până la mare pentru un apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina mănăstirii Cerrate",
+            "tip": "Un loc de liniște profundă printre pietre vechi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Cataldo Beach",
+            "tip": "Just a 15-minute drive to the sea for a sunset stroll.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cerrate Monastery Garden",
+            "tip": "A place of deep silence amidst ancient stones.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "M.A.I.D.A. Lecce",
+            "tip": "Hochwertiges Kunsthandwerk und Designobjekte."
+          },
+          {
+            "name": "Enoteca Leccese",
+            "tip": "Große Auswahl an lokalen Weinen und Olivenölen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "M.A.I.D.A. Lecce",
+            "tip": "Kiváló minőségű kézműves termékek és dizájn tárgyak."
+          },
+          {
+            "name": "Enoteca Leccese",
+            "tip": "Helyi borok és olívaolajok széles választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "M.A.I.D.A. Lecce",
+            "tip": "Produse de artizanat de înaltă calitate și obiecte de design."
+          },
+          {
+            "name": "Enoteca Leccese",
+            "tip": "O selecție largă de vinuri și uleiuri de măsline locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "M.A.I.D.A. Lecce",
+            "tip": "High-quality handicrafts and local design objects."
+          },
+          {
+            "name": "Enoteca Leccese",
+            "tip": "A wide selection of local wines and olive oils."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Befahren Sie niemals die Altstadt (ZTL), die Kameras sind überall.",
+          "Parken Sie am besten im 'Parcheggio Oberdan' oder am Bahnhof.",
+          "Die Straßen zum Cerrate-Aptei sind schmal, fahren Sie vorsichtig.",
+          "In der Hochsaison ist ein Mietwagen mit kleineren Maßen von Vorteil."
+        ],
+        "hu": [
+          "Soha ne hajtson be az óvárosba (ZTL), a kamerák mindenhol ott vannak.",
+          "A legjobb a 'Parcheggio Oberdan' vagy a vasútállomás melletti parkolás.",
+          "A Cerrate apátsághoz vezető utak keskenyek, vezessen óvatosan.",
+          "Főszezonban előnyösebb egy kisebb méretű bérautó a szűk utcák miatt."
+        ],
+        "ro": [
+          "Nu intrați niciodată cu mașina în centrul vechi (ZTL), camerele sunt peste tot.",
+          "Cel mai bine parcați în 'Parcheggio Oberdan' sau la gară.",
+          "Drumurile către Abbația Cerrate sunt înguste, conduceți cu atenție.",
+          "În plin sezon, o mașină de închiriat de dimensiuni mici este un avantaj."
+        ],
+        "en": [
+          "Never drive into the old town (ZTL); cameras are everywhere.",
+          "Best places to park are 'Parcheggio Oberdan' or near the train station.",
+          "The roads to the Cerrate Abbey are narrow; drive carefully.",
+          "In peak season, a smaller rental car is an advantage for parking."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Piazza del Duomo",
+          "coords": [
+            18.1691,
+            40.3524
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus in 10 Minuten mit dem Stadtbus erreichbar.",
+            "hu": "A vasútállomástól 10 perc alatt elérhető helyi busszal.",
+            "ro": "Accesibil în 10 minute cu autobuzul local de la gară.",
+            "en": "Accessible in 10 minutes by local bus from the train station."
+          }
+        },
+        {
+          "name": "Anfiteatro Romano",
+          "coords": [
+            18.172,
+            40.3533
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der zentrale Knotenpunkt für fast alle Buslinien der Stadt.",
+            "hu": "A város szinte összes buszvonalának központi csomópontja.",
+            "ro": "Nodul central pentru aproape toate liniile de autobuz din oraș.",
+            "en": "The central hub for almost all city bus lines."
+          }
+        },
+        {
+          "name": "Castello di Carlo V",
+          "coords": [
+            18.175,
+            40.3525
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Befindet sich direkt gegenüber der Bushaltestelle 'Costa'.",
+            "hu": "Közvetlenül a 'Costa' buszmegállóval szemben található.",
+            "ro": "Situat direct vizavi de stația de autobuz 'Costa'.",
+            "en": "Located directly across from the 'Costa' bus stop."
+          }
+        },
+        {
+          "name": "Basilica di Santa Croce",
+          "coords": [
+            18.1728,
+            40.3548
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Schloss durch die malerischen Gassen.",
+            "hu": "Rövid séta a vártól a festői sikátorokon keresztül.",
+            "ro": "O scurtă plimbare de la castel prin aleile pitorești.",
+            "en": "A short walk from the castle through picturesque alleys."
+          }
+        },
+        {
+          "name": "Palazzo dei Celestini",
+          "coords": [
+            18.1732,
+            40.3551
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben der Basilika, heute Sitz der Präfektur.",
+            "hu": "Közvetlenül a bazilika mellett, ma a prefektúra székhelye.",
+            "ro": "Chiar lângă bazilică, astăzi sediul prefecturii.",
+            "en": "Right next to the Basilica, now the seat of the Prefecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das dichte Busnetz, um Lecce bequem zu erkunden. Starten Sie am Piazza del Duomo und fahren Sie weiter zum Amphitheater im Zentrum. Das Schloss Karl V. ist ein Muss und dank der nahen Haltestellen leicht erreichbar. Den Nachmittag verbringen Sie im barocken Viertel um die Santa Croce Basilika und den Palazzo dei Celestini, bevor Sie entspannt mit dem Bus zum Ausgangspunkt zurückkehren.",
+        "hu": "Használja a sűrű buszhálózatot Lecce kényelmes felfedezéséhez. Kezdjen a Piazza del Duomo-nál, majd utazzon tovább a központi amfiteátrumhoz. Az V. Károly vár kötelező látnivaló, és a közeli megállóknak köszönhetően könnyen elérhető. A délutánt a Santa Croce bazilika és a Palazzo dei Celestini körüli barokk negyedben tölti, mielőtt busszal visszatérne kiindulópontjához.",
+        "ro": "Folosiți rețeaua densă de autobuze pentru a explora Lecce confortabil. Începeți în Piazza del Duomo și continuați spre amfiteatrul din centru. Castelul Carol al V-lea este obligatoriu și ușor de accesat datorită stațiilor din apropiere. După-amiaza o petreceți în cartierul baroc din jurul Basilicii Santa Croce și Palazzo dei Celestini, înainte de a reveni cu autobuzul.",
+        "en": "Use the dense bus network to explore Lecce comfortably. Start at Piazza del Duomo and ride to the central amphitheater. Charles V Castle is a must-see and easily reachable thanks to nearby stops. Spend the afternoon in the Baroque quarter around Santa Croce Basilica and Palazzo dei Celestini before returning by bus to your starting point."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciceri e Tria",
+            "tip": "Traditionelle Pasta mit Kichererbsen, teils frittiert für den besonderen Crunch."
+          },
+          {
+            "name": "Pezzetti di cavallo",
+            "tip": "In Tomatensauce geschmortes Pferdefleisch, eine lokale Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ciceri e Tria",
+            "tip": "Hagyományos tészta csicseriborsóval, részben sült tésztával a ropogós élményért."
+          },
+          {
+            "name": "Pezzetti di cavallo",
+            "tip": "Paradicsomszószban párolt lófúszeletek, helyi különlegesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciceri e Tria",
+            "tip": "Paste tradiționale cu năut, parțial prăjite pentru o textură crocantă."
+          },
+          {
+            "name": "Pezzetti di cavallo",
+            "tip": "Carne de cal înăbușită în sos de roșii, o specialitate locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciceri e Tria",
+            "tip": "Traditional pasta with chickpeas, partially fried for a unique crunch."
+          },
+          {
+            "name": "Pezzetti di cavallo",
+            "tip": "Horse meat stewed in tomato sauce, a robust local specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piazzetta Carducci",
+            "tip": "Ein kleiner Platz vor dem MUST-Museum, ideal zum Beobachten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Biblioteca Bernardini",
+            "tip": "Ein kühler und ruhiger Ort in einem historischen Gebäude.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazzetta Carducci",
+            "tip": "Kis tér a MUST múzeum előtt, ideális az emberek megfigyelésére.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Biblioteca Bernardini",
+            "tip": "Hűvös és csendes hely egy történelmi épületben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazzetta Carducci",
+            "tip": "O mică piață în fața muzeului MUST, ideală pentru relaxare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Biblioteca Bernardini",
+            "tip": "Un loc răcoros și liniștit într-o clădire istorică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazzetta Carducci",
+            "tip": "A small square in front of the MUST museum, ideal for people watching.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Biblioteca Bernardini",
+            "tip": "A cool and quiet place inside a historic building.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Liberrima",
+            "tip": "Eine wunderschöne Buchhandlung mit lokalen Spezialitäten und Café."
+          },
+          {
+            "name": "Via Palmieri",
+            "tip": "Zahlreiche kleine Läden mit lokalem Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Liberrima",
+            "tip": "Gyönyörű könyvesbolt helyi különlegességekkel és kávézóval."
+          },
+          {
+            "name": "Via Palmieri",
+            "tip": "Számos kis üzlet helyi kézműves termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Liberrima",
+            "tip": "O librărie superbă cu specialități locale și cafenea."
+          },
+          {
+            "name": "Via Palmieri",
+            "tip": "Numeroase magazine mici cu artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Liberrima",
+            "tip": "A beautiful bookstore featuring local specialties and a cafe."
+          },
+          {
+            "name": "Via Palmieri",
+            "tip": "Numerous small shops showcasing local craftsmanship."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets vorab in Tabakläden (Tabacchi).",
+          "Die SGM-App ist hilfreich für Fahrpläne und Echtzeit-Infos.",
+          "Die Linien 101 bis 106 decken das Stadtzentrum gut ab.",
+          "Sonntags verkehren die Busse deutlich seltener."
+        ],
+        "hu": [
+          "Vásárolja meg a buszjegyeket előre a dohányboltokban (Tabacchi).",
+          "Az SGM alkalmazás hasznos a menetrendekhez és valós idejű infókhoz.",
+          "A 101-estől 106-osig terjedő vonalak jól lefedik a városközpontot.",
+          "Vasárnap a buszok lényegesen ritkábban közlekednek."
+        ],
+        "ro": [
+          "Cumpărați biletele de autobuz în avans de la tutungerii (Tabacchi).",
+          "Aplicația SGM este utilă pentru orare și informații în timp real.",
+          "Liniile de la 101 la 106 acoperă bine centrul orașului.",
+          "Duminica autobuzele circulă mult mai rar."
+        ],
+        "en": [
+          "Buy bus tickets in advance at tobacco shops (Tabacchi).",
+          "The SGM app is useful for schedules and real-time information.",
+          "Lines 101 to 106 cover the city center quite well.",
+          "Buses run significantly less frequently on Sundays."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-75",
+    "lon": 18.1719,
+    "lat": 40.3528,
+    "transit_official": "https://www.sgmlecce.it/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Lecce",
+    "bike_share": null,
+    "city_card": "https://www.leccecard.it/",
+    "events": "https://www.comune.lecce.it/aree-tematiche/cultura",
+    "tourism_office": "https://www.viaggiareinpuglia.it/dest/lecce",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/puglia/lecce.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/lecce-c180385",
+    "museum_tickets": "https://www.comune.lecce.it/aree-tematiche/cultura/musei",
+    "parking_real_time": "https://www.sgmlecce.it/parcheggi/",
+    "language_tips": {
+      "de": "Italienisch dominiert; im historischen Zentrum versteht Personal oft Englisch.",
+      "hu": "Olaszul beszelnek; a torteneti kozpontban az alkalmazottak gyakran tudnak angolul.",
+      "ro": "Se vorbeste italiana; in centrul istoric personalul intelege adesea engleza.",
+      "en": "Italian is standard; staff in the historic centre often understand English."
+    },
+    "best_time": {
+      "de": "Mai, Juni und September fuer Barockspaziergaenge ohne extreme Hitze.",
+      "hu": "Majus, junius es szeptember a legjobb a barokk varos felfedezesere hoseg nelkul.",
+      "ro": "Mai, iunie si septembrie sunt ideale pentru plimbari prin orasul baroc.",
+      "en": "May, June and September are ideal for baroque walks without scorching heat."
+    },
+    "warnings": {
+      "de": "Sommernachmittage sind sehr heiss; Sonnenschutz und Wasser im Pietra-Leccese-Zentrum mitnehmen.",
+      "hu": "Nyari delutanok forrok, vigy magaddal vizet es naptejet a Pietra-Leccese kozpontban.",
+      "ro": "Dupa-amiezile de vara sunt foarte caniculare; protectie solara si apa in centrul istoric.",
+      "en": "Summer afternoons get scorching; carry sun protection and water in the stone-paved centre."
+    }
+  }
+}

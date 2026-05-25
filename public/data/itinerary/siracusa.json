@@ -1,0 +1,1328 @@
+{
+  "city_id": "siracusa",
+  "anchor": {
+    "name": "Siracusa",
+    "coords": [
+      15.2942,
+      37.0612
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Isola di Ortigia",
+            "hu": "Ortigia-sziget",
+            "ro": "Insula Ortigia",
+            "en": "Isola di Ortigia"
+          },
+          "coords": [
+            15.2925,
+            37.0605
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beginnen Sie früh, um die kühlen Gassen zu genießen.",
+            "hu": "Kezdje korán a sétát, hogy élvezze a hűvös sikátorokat.",
+            "ro": "Începeți devreme pentru a vă bucura de străzile răcoroase.",
+            "en": "Start early to enjoy the cool, narrow alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempio di Apollo",
+            "hu": "Apollón-templom",
+            "ro": "Templul lui Apollo",
+            "en": "Tempio di Apollo"
+          },
+          "coords": [
+            15.2931,
+            37.0635
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der älteste dorische Tempel Siziliens.",
+            "hu": "Szicília legrégebbi dór temploma.",
+            "ro": "Cel mai vechi templu doric din Sicilia.",
+            "en": "The oldest Doric temple in Sicily."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Siracusa",
+            "hu": "Siracusai dóm",
+            "ro": "Domul din Siracuza",
+            "en": "Duomo di Siracusa"
+          },
+          "coords": [
+            15.2932,
+            37.0592
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beachten Sie die antiken Säulen in den Wänden.",
+            "hu": "Figyelje meg a falakba épített ókori oszlopokat.",
+            "ro": "Observați coloanele antice integrate în pereți.",
+            "en": "Look for the ancient columns built into the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Fonte Aretusa",
+            "hu": "Aretusza-forrás",
+            "ro": "Fântâna Arethusa",
+            "en": "Fonte Aretusa"
+          },
+          "coords": [
+            15.2922,
+            37.0575
+          ],
+          "category": "natural features",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den wilden Papyrusstauden.",
+            "hu": "Keresse a vízben növő vad papirusznádat.",
+            "ro": "Căutați plantele de papirus care cresc în apă.",
+            "en": "Look for the wild papyrus plants in the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Ortigia Markt",
+            "hu": "Ortigia piac",
+            "ro": "Piața Ortigia",
+            "en": "Ortigia Market"
+          },
+          "coords": [
+            15.2945,
+            37.0645
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Käse bei Caseificio Borderi.",
+            "hu": "Kóstoljon friss sajtot a Caseificio Borderinél.",
+            "ro": "Gustați brânză proaspătă la Caseificio Borderi.",
+            "en": "Try fresh cheese at Caseificio Borderi."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Maniace",
+            "hu": "Maniace-kastély",
+            "ro": "Castelul Maniace",
+            "en": "Castello Maniace"
+          },
+          "coords": [
+            15.2952,
+            37.0535
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf das offene Meer.",
+            "hu": "Élvezze a kilátást a nyílt tengerre.",
+            "ro": "Bucurați-vă de vederea spre marea liberă.",
+            "en": "Enjoy the view of the open sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Lucia al Sepolcro",
+            "hu": "Szent Lúcia-bazilika",
+            "ro": "Santa Lucia al Sepolcro",
+            "en": "Santa Lucia al Sepolcro"
+          },
+          "coords": [
+            15.2885,
+            37.0722
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Sehen Sie Caravaggios Begräbnis der Hl. Lucia.",
+            "hu": "Tekintse meg Caravaggio Szent Lúcia temetése képét.",
+            "ro": "Vedeți tabloul lui Caravaggio cu Înmormântarea Sf. Lucia.",
+            "en": "See Caravaggio's Burial of St. Lucy painting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im Labyrinth von Ortigia, wo Geschichte an jeder Ecke atmet. Bewundern Sie den Apollontempel, bevor Sie den prächtigen Domplatz erreichen. Mittags lockt der Markt mit sizilianischen Aromen und dem Duft von frischen Kräutern. Nach dem Besuch der Festung Maniace an der Südspitze führt ein Spaziergang am Meer entlang zur Basilika der Schutzpatronin. Den Abend lassen Sie bei einer Granita an der Uferpromenade ausklingen.",
+        "hu": "A nap Ortigia labirintusában indul, ahol a történelem minden sarkon megelevenedik. Csodálja meg az Apollón-templomot, mielőtt elérné a pompás Dóm teret. Délben a piac csábít szicíliai aromákkal és friss fűszerek illatával. A déli csücsökben lévő Maniace-erőd meglátogatása után a tengerparti sétány a védőszent bazilikájához vezet. Az estét zárja egy klasszikus szicíliai granitával a parton.",
+        "ro": "Ziua începe în labirintul din Ortigia, unde istoria respiră la fiecare colț. Admirați Templul lui Apollo înainte de a ajunge în superba Piazza Duomo. La prânz, piața vă atrage cu arome siciliene și miros de ierburi proaspete. După vizitarea fortăreței Maniace din vârful sudic, o plimbare pe faleză vă duce la bazilica patroanei orașului. Încheiați seara cu o granita clasică pe malul mării.",
+        "en": "The day begins in the labyrinth of Ortigia, where history breathes at every corner. Admire the Temple of Apollo before reaching the magnificent Piazza Duomo. At noon, the market entices with Sicilian aromas and the scent of fresh herbs. After visiting the Maniace fortress at the southern tip, a stroll along the promenade leads to the patron saint's basilica. End the evening with a classic Sicilian granita by the shore."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arancini di riso",
+            "tip": "Frittierte Reisbällchen, ideal für unterwegs."
+          },
+          {
+            "name": "Pasta alla Norma",
+            "tip": "Typische Pasta mit Auberginen und Ricotta Salata."
+          },
+          {
+            "name": "Caseificio Borderi",
+            "tip": "Legendäre Sandwiches direkt am Ortigia-Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arancini di riso",
+            "tip": "Sült rizsgolyók, tökéletes utcai étel."
+          },
+          {
+            "name": "Pasta alla Norma",
+            "tip": "Hagyományos tészta padlizsánnal és sós ricottával."
+          },
+          {
+            "name": "Caseificio Borderi",
+            "tip": "Legendás szendvicsek az Ortigia piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arancini di riso",
+            "tip": "Gogoși de orez prăjite, gustarea perfectă pe drum."
+          },
+          {
+            "name": "Pasta alla Norma",
+            "tip": "Paste tradiționale cu vinete și ricotta sărată."
+          },
+          {
+            "name": "Caseificio Borderi",
+            "tip": "Sandvișuri legendare direct în piața Ortigia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arancini di riso",
+            "tip": "Fried rice balls, the perfect street food."
+          },
+          {
+            "name": "Pasta alla Norma",
+            "tip": "Traditional pasta with eggplant and salted ricotta."
+          },
+          {
+            "name": "Caseificio Borderi",
+            "tip": "Legendary sandwiches at the Ortigia Market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lungomare Alfeo",
+            "tip": "Perfekter Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spiaggetta di Aretusa",
+            "tip": "Kleiner Stadtstrand zum Entspannen.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Giardino Artemide",
+            "tip": "Ein ruhiger Garten mitten in Ortigia.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lungomare Alfeo",
+            "tip": "Tökéletes helyszín a naplementéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spiaggetta di Aretusa",
+            "tip": "Kicsi városi strand a pihenéshez.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Giardino Artemide",
+            "tip": "Csendes kert Ortigia szívében.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lungomare Alfeo",
+            "tip": "Locul perfect pentru apusul de soare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spiaggetta di Aretusa",
+            "tip": "O mică plajă urbană pentru relaxare.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Giardino Artemide",
+            "tip": "O grădină liniștită în inima Ortigiei.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lungomare Alfeo",
+            "tip": "Perfect spot for the sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spiaggetta di Aretusa",
+            "tip": "Small city beach for relaxation.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Giardino Artemide",
+            "tip": "A quiet garden in the heart of Ortigia.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato di Ortigia",
+            "tip": "Gewürze, Pistazien und lokaler Käse."
+          },
+          {
+            "name": "La Via del Papiro",
+            "tip": "Echter Papyrus aus lokaler Herstellung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercato di Ortigia",
+            "tip": "Fűszerek, pisztácia és helyi sajtok."
+          },
+          {
+            "name": "La Via del Papiro",
+            "tip": "Eredeti, helyben készített papirusz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercato di Ortigia",
+            "tip": "Condimente, fistic și brânzeturi locale."
+          },
+          {
+            "name": "La Via del Papiro",
+            "tip": "Papirus autentic fabricat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercato di Ortigia",
+            "tip": "Spices, pistachios, and local cheeses."
+          },
+          {
+            "name": "La Via del Papiro",
+            "tip": "Authentic local handmade papyrus."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in Ortigia.",
+          "Besuchen Sie den Markt vor 13:00 Uhr, danach wird abgebaut.",
+          "Trinken Sie viel Wasser, besonders im Sommer.",
+          "Die meisten Sehenswürdigkeiten sind fußläufig erreichbar.",
+          "Ein Hut und Sonnencreme sind in Sizilien unverzichtbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt Ortigia macskaköves utcáihoz.",
+          "A piacot déli egy óra előtt látogassa meg, utána elpakolnak.",
+          "Igyon sok vizet, különösen a nyári hónapokban.",
+          "A legtöbb látnivaló sétatávolságra van egymástól.",
+          "A kalap és a naptej elengedhetetlen Szicíliában."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pavate din Ortigia.",
+          "Vizitați piața înainte de ora 13:00, după aceea se închide.",
+          "Beți multă apă, mai ales în lunile de vară.",
+          "Majoritatea obiectivelor sunt accesibile pe jos.",
+          "Pălăria și crema de protecție solară sunt obligatorii în Sicilia."
+        ],
+        "en": [
+          "Wear comfortable shoes for Ortigia's cobblestone streets.",
+          "Visit the market before 1:00 PM; they pack up after that.",
+          "Drink plenty of water, especially during summer months.",
+          "Most attractions are within easy walking distance.",
+          "A hat and sunscreen are essential in Sicily."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tempio di Apollo",
+            "hu": "Apollón-templom",
+            "ro": "Templul lui Apollo",
+            "en": "Tempio di Apollo"
+          },
+          "coords": [
+            15.2931,
+            37.0635
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Guter Startpunkt mit Fahrradständern in der Nähe.",
+            "hu": "Jó kezdőpont, közelben kerékpártárolókkal.",
+            "ro": "Punct bun de plecare, cu rastele de biciclete în apropiere.",
+            "en": "Good starting point with bike racks nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Maniace",
+            "hu": "Maniace-kastély",
+            "ro": "Castelul Maniace",
+            "en": "Castello Maniace"
+          },
+          "coords": [
+            15.2952,
+            37.0535
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang der Küstenmauer von Ortigia.",
+            "hu": "Tekerjen végig Ortigia várfalai mentén.",
+            "ro": "Pedalați de-a lungul zidurilor de coastă din Ortigia.",
+            "en": "Ride along the coastal walls of Ortigia."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Siracusa",
+            "hu": "Siracusai dóm",
+            "ro": "Domul din Siracuza",
+            "en": "Duomo di Siracusa"
+          },
+          "coords": [
+            15.2932,
+            37.0592
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad über den belebten Domplatz.",
+            "hu": "Tolja a biciklit a forgalmas Dóm téren.",
+            "ro": "Mergeți pe lângă bicicletă în Piazza Duomo.",
+            "en": "Walk your bike across the busy Piazza Duomo."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Archeologico della Neapolis",
+            "hu": "Neapolis Régészeti Park",
+            "ro": "Parcul Arheologic Neapolis",
+            "en": "Parco Archeologico della Neapolis"
+          },
+          "coords": [
+            15.2755,
+            37.0755
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Sicherer Parkplatz am Haupteingang vorhanden.",
+            "hu": "Biztonságos parkoló a főbejáratnál.",
+            "ro": "Parcare sigură disponibilă la intrarea principală.",
+            "en": "Secure parking available at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Orecchio di Dionisio",
+            "hu": "Dionüsziosz füle",
+            "ro": "Urechea lui Dionysos",
+            "en": "Orecchio di Dionisio"
+          },
+          "coords": [
+            15.2762,
+            37.0762
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Testen Sie die unglaubliche Akustik im Inneren.",
+            "hu": "Tesztelje a barlang hihetetlen akusztikáját.",
+            "ro": "Testați acustica incredibilă din interior.",
+            "en": "Test the incredible acoustics inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Paolo Orsi",
+            "hu": "Paolo Orsi Múzeum",
+            "ro": "Muzeul Paolo Orsi",
+            "en": "Museo Paolo Orsi"
+          },
+          "coords": [
+            15.2855,
+            37.0765
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Eines der bedeutendsten Museen für Archäologie.",
+            "hu": "Az egyik legfontosabb régészeti múzeum.",
+            "ro": "Unul dintre cele mai importante muzee de arheologie.",
+            "en": "One of the most important archaeological museums."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Siracusa effizient und flexibel. Von den Ruinen des Apollontempels radeln Sie entlang der Küste von Ortigia bis zur Festung Maniace. Nach einem Stopp am Dom geht es Richtung Norden zum Archäologischen Park Neapolis. Hier erwarten Sie das antike griechische Theater und das berühmte Ohr des Dionysos. Den Abschluss bildet das renommierte Museum Paolo Orsi, bevor Sie gemütlich zurückrollen.",
+        "hu": "Kerékpárral hatékonyan és rugalmasan fedezheti fel Siracusát. Az Apollón-templom romjaitól Ortigia partja mentén tekerjen le a Maniace-erődig. A dóm után észak felé vegye az irányt a Neapolis Régészeti Parkba. Itt az ókori görög színház és a híres Dionüsziosz-füle barlang várja. A napot a neves Paolo Orsi Múzeumban zárhatja, mielőtt kényelmesen visszatekerne.",
+        "ro": "Cu bicicleta explorați Siracuza eficient și flexibil. De la ruinele Templului lui Apollo, pedalați pe coasta Ortigiei până la fortăreața Maniace. După o oprire la Dom, mergeți spre nord către Parcul Arheologic Neapolis. Aici vă așteaptă teatrul antic grec și faimoasa peșteră Urechea lui Dionysos. Încheiați la renumitul Muzeu Paolo Orsi înainte de a vă întoarce relaxat.",
+        "en": "Explore Syracuse efficiently and flexibly by bike. From the ruins of the Temple of Apollo, ride along the coast of Ortigia down to the Maniace fortress. After a stop at the Duomo, head north towards the Neapolis Archaeological Park. Here, the ancient Greek theater and the famous Ear of Dionysius await. End the day at the renowned Paolo Orsi Museum before a leisurely ride back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Granita e Brioche",
+            "tip": "Das klassische Frühstück oder Erfrischung."
+          },
+          {
+            "name": "Cannoli Siciliani",
+            "tip": "Frisch gefüllt mit süßem Ricotta."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Granita e Brioche",
+            "tip": "A klasszikus reggeli vagy frissítő."
+          },
+          {
+            "name": "Cannoli Siciliani",
+            "tip": "Frissen töltve édes ricottával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Granita e Brioche",
+            "tip": "Micul dejun clasic sau o gustare răcoritoare."
+          },
+          {
+            "name": "Cannoli Siciliani",
+            "tip": "Umpluți proaspăt cu ricotta dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Granita e Brioche",
+            "tip": "The classic breakfast or refreshment."
+          },
+          {
+            "name": "Cannoli Siciliani",
+            "tip": "Freshly filled with sweet ricotta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Latomia del Paradiso",
+            "tip": "Ein schattiger, antiker Steinbruch.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pista Ciclabile Rossana Maiorca",
+            "tip": "Radweg am Meer entlang der Küste.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Latomia del Paradiso",
+            "tip": "Árnyas, ókori kőfejtő a parkban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pista Ciclabile Rossana Maiorca",
+            "tip": "Kerékpárút a tengerpart mentén.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Latomia del Paradiso",
+            "tip": "O carieră antică de piatră, plină de umbră.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pista Ciclabile Rossana Maiorca",
+            "tip": "Pistă de biciclete pe malul mării.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Latomia del Paradiso",
+            "tip": "A shady, ancient stone quarry.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pista Ciclabile Rossana Maiorca",
+            "tip": "Bike path along the sea cliffs.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Gelone",
+            "tip": "Moderne Geschäfte und Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Gelone",
+            "tip": "Modern üzletek és butikok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Gelone",
+            "tip": "Magazine moderne și buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Gelone",
+            "tip": "Modern shops and boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad nahe dem Bahnhof oder Ortigia-Eingang.",
+          "Achten Sie auf den Verkehr in der Neustadt.",
+          "In Ortigia herrscht teils Fahrverbot in engen Gassen.",
+          "Sichern Sie Ihr Fahrrad immer gut ab.",
+          "Nutzen Sie den Radweg Rossana Maiorca für tolle Ausblicke."
+        ],
+        "hu": [
+          "Béreljen kerékpárt az állomás vagy Ortigia bejárata közelében.",
+          "Figyeljen a forgalomra az újvárosi részen.",
+          "Ortigia szűk utcáin néhol tilos a kerékpározás.",
+          "Mindig zárja le biztonságosan a biciklit.",
+          "Használja a Rossana Maiorca kerékpárutat a szép kilátásért."
+        ],
+        "ro": [
+          "Închiriați o bicicletă lângă gară sau la intrarea în Ortigia.",
+          "Atenție la trafic în zona modernă a orașului.",
+          "În Ortigia, pedalatul este restricționat pe unele străduțe.",
+          "Asigurați întotdeauna bicicleta cu un antivolt.",
+          "Folosiți pista Rossana Maiorca pentru vederi spectaculoase."
+        ],
+        "en": [
+          "Rent a bike near the train station or Ortigia entrance.",
+          "Watch out for traffic in the modern part of town.",
+          "Biking is restricted in some narrow alleys of Ortigia.",
+          "Always lock your bike securely.",
+          "Use the Rossana Maiorca bike path for great views."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 28.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parco Archeologico della Neapolis",
+            "hu": "Neapolis Régészeti Park",
+            "ro": "Parcul Arheologic Neapolis",
+            "en": "Parco Archeologico della Neapolis"
+          },
+          "coords": [
+            15.2755,
+            37.0755
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz 'Von Platen' in der Nähe.",
+            "hu": "Nagy parkoló 'Von Platen' a közelben.",
+            "ro": "Parcare mare 'Von Platen' în apropiere.",
+            "en": "Large 'Von Platen' parking lot nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Paolo Orsi",
+            "hu": "Paolo Orsi Múzeum",
+            "ro": "Muzeul Paolo Orsi",
+            "en": "Museo Paolo Orsi"
+          },
+          "coords": [
+            15.2855,
+            37.0765
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ideal mit dem Auto erreichbar.",
+            "hu": "Autóval könnyen megközelíthető.",
+            "ro": "Ușor de accesat cu mașina.",
+            "en": "Easily accessible by car."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontane Bianche Beach",
+            "hu": "Fontane Bianche strand",
+            "ro": "Plaja Fontane Bianche",
+            "en": "Fontane Bianche Beach"
+          },
+          "coords": [
+            15.2115,
+            36.9635
+          ],
+          "category": "beach",
+          "arrive_at": "12:35",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Weißer Sand und kristallklares Wasser südlich der Stadt.",
+            "hu": "Fehér homok és kristálytiszta víz a várostól délre.",
+            "ro": "Nisip alb și apă cristalină la sud de oraș.",
+            "en": "White sand and crystal clear water south of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Parcheggio Talete (Ortigia)",
+            "hu": "Talete parkoló (Ortigia)",
+            "ro": "Parcarea Talete (Ortigia)",
+            "en": "Talete Parking (Ortigia)"
+          },
+          "coords": [
+            15.2965,
+            37.0655
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 16.0,
+          "tip_5lang": {
+            "de": "Beste Option zum Parken am Rand von Ortigia.",
+            "hu": "Legjobb parkolási lehetőség Ortigia szélén.",
+            "ro": "Cea mai bună opțiune de parcare la marginea Ortigiei.",
+            "en": "Best option for parking at the edge of Ortigia."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Siracusa",
+            "hu": "Siracusai dóm",
+            "ro": "Domul din Siracuza",
+            "en": "Duomo di Siracusa"
+          },
+          "coords": [
+            15.2932,
+            37.0592
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein Muss in der Altstadt.",
+            "hu": "Kihagyhatatlan az óvárosban.",
+            "ro": "De neratat în centrul vechi.",
+            "en": "A must-see in the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Fonte Aretusa",
+            "hu": "Aretusza-forrás",
+            "ro": "Fântâna Arethusa",
+            "en": "Fonte Aretusa"
+          },
+          "coords": [
+            15.2922,
+            37.0575
+          ],
+          "category": "natural features",
+          "arrive_at": "17:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wunderschön im späten Nachmittagslicht.",
+            "hu": "Gyönyörű a késő délutáni fényekben.",
+            "ro": "Superbă în lumina de după-amiază.",
+            "en": "Beautiful in the late afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto kombinieren Sie die antiken Schätze von Siracusa mit einem Abstecher zum berühmten Sandstrand von Fontane Bianche. Beginnen Sie in Neapolis und im Paolo Orsi Museum, bevor Sie für ein paar Stunden die Sonne am Meer genießen. Am Nachmittag kehren Sie in die Stadt zurück, parken bequem am Rande von Ortigia und spazieren zum Dom und zur Aretusa-Quelle, um den Tag entspannt abzuschließen.",
+        "hu": "Autóval kombinálhatja Siracusa ókori kincseit egy kitérővel a híres Fontane Bianche homokos strandjára. Kezdjen a Neapolis parkban és a Paolo Orsi Múzeumban, mielőtt pár órára élvezné a napsütést a tengerparton. Délután térjen vissza a városba, parkoljon le Ortigia szélén, és sétáljon el a dómhoz és az Aretusza-forráshoz a nap levezetéseként.",
+        "ro": "Cu mașina puteți combina comorile antice din Siracuza cu o escapadă la faimoasa plajă cu nisip Fontane Bianche. Începeți la Neapolis și la Muzeul Paolo Orsi înainte de a vă bucura de soare la malul mării pentru câteva ore. După-amiază reveniți în oraș, parcați la marginea Ortigiei și plimbați-vă la Dom și la Fântâna Arethusa pentru un final de zi relaxat.",
+        "en": "By car, combine the ancient treasures of Syracuse with a detour to the famous sandy beach of Fontane Bianche. Start at the Neapolis park and the Paolo Orsi Museum before enjoying a few hours of sun by the sea. In the afternoon, return to the city, park conveniently at the edge of Ortigia, and stroll to the Duomo and the Arethusa spring to unwind."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Spaghetti ai ricci di mare",
+            "tip": "Pasta mit Seeigeln, eine Delikatesse."
+          },
+          {
+            "name": "Insalata di polpo",
+            "tip": "Frischer Oktopussalat am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spaghetti ai ricci di mare",
+            "tip": "Tengeri sünös tészta, igazi különlegesség."
+          },
+          {
+            "name": "Insalata di polpo",
+            "tip": "Friss polipsaláta a tengerparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Spaghetti ai ricci di mare",
+            "tip": "Paste cu arici de mare, o delicatesă."
+          },
+          {
+            "name": "Insalata di polpo",
+            "tip": "Salată proaspătă de caracatiță la plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spaghetti ai ricci di mare",
+            "tip": "Pasta with sea urchins, a local delicacy."
+          },
+          {
+            "name": "Insalata di polpo",
+            "tip": "Fresh octopus salad by the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fontane Bianche",
+            "tip": "Kristallklares Wasser zum Schwimmen.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Riserva di Cavagrande",
+            "tip": "Naturreservat (etwas weiter entfernt).",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fontane Bianche",
+            "tip": "Kristálytiszta víz az úszáshoz.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Riserva di Cavagrande",
+            "tip": "Természetvédelmi terület (távolabb).",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fontane Bianche",
+            "tip": "Apă cristalină pentru înot.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Riserva di Cavagrande",
+            "tip": "Rezervație naturală (puțin mai departe).",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fontane Bianche",
+            "tip": "Crystal clear water for swimming.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Riserva di Cavagrande",
+            "tip": "Nature reserve (slightly further away).",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centro Commerciale Archimede",
+            "tip": "Großes Einkaufszentrum am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centro Commerciale Archimede",
+            "tip": "Nagy bevásárlóközpont a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centro Commerciale Archimede",
+            "tip": "Centru comercial mare la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centro Commerciale Archimede",
+            "tip": "Large shopping center on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie es, mit dem Auto in die ZTL (Verkehrszone) von Ortigia zu fahren.",
+          "Nutzen Sie die großen Parkplätze am Rande der Altstadt.",
+          "Buchen Sie Strandliegen in Fontane Bianche im Voraus (Hochsaison).",
+          "Tanken Sie rechtzeitig, bevor Sie ins Umland fahren.",
+          "Die Straßen können in der Stadt sehr eng sein."
+        ],
+        "hu": [
+          "Kerülje el az autóval való behajtást Ortigia ZTL (korlátozott) zónájába.",
+          "Használja az óváros szélén található nagy parkolókat.",
+          "Főszezonban foglaljon előre napágyat Fontane Bianchében.",
+          "Tankoljon időben, mielőtt a vidéki utakra indulna.",
+          "A városi utcák néhol nagyon szűkek lehetnek."
+        ],
+        "ro": [
+          "Evitați să intrați cu mașina în zona ZTL din Ortigia.",
+          "Folosiți parcările mari de la marginea centrului vechi.",
+          "Rezervați șezlonguri în Fontane Bianche în avans (sezon de vârf).",
+          "Alimentați din timp înainte de a pleca spre zonele rurale.",
+          "Străzile din oraș pot fi foarte înguste."
+        ],
+        "en": [
+          "Avoid driving into the ZTL (restricted zone) of Ortigia.",
+          "Use the large parking lots at the edge of the old town.",
+          "Book beach loungers in Fontane Bianche in advance during peak season.",
+          "Refuel before heading out into the countryside.",
+          "City streets can be very narrow in places."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parco Archeologico della Neapolis",
+            "hu": "Neapolis Régészeti Park",
+            "ro": "Parcul Arheologic Neapolis",
+            "en": "Parco Archeologico della Neapolis"
+          },
+          "coords": [
+            15.2755,
+            37.0755
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Buslinie 21, 22 oder 23 vom Bahnhof.",
+            "hu": "21-es, 22-es vagy 23-as busz az állomástól.",
+            "ro": "Linia de autobuz 21, 22 sau 23 de la gară.",
+            "en": "Bus lines 21, 22, or 23 from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Paolo Orsi",
+            "hu": "Paolo Orsi Múzeum",
+            "ro": "Muzeul Paolo Orsi",
+            "en": "Museo Paolo Orsi"
+          },
+          "coords": [
+            15.2855,
+            37.0765
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt oder 15 Min. Fußweg von Neapolis.",
+            "hu": "Rövid utazás vagy 15 perc séta a Neapolis-tól.",
+            "ro": "O călătorie scurtă sau 15 min. de mers pe jos de la Neapolis.",
+            "en": "Short ride or 15 min walk from Neapolis."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempio di Apollo (Ortigia Terminal)",
+            "hu": "Apollón-templom (Ortigia végállomás)",
+            "ro": "Templul lui Apollo (Capăt Ortigia)",
+            "en": "Tempio di Apollo (Ortigia Terminal)"
+          },
+          "coords": [
+            15.2931,
+            37.0635
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für die Shuttle-Busse.",
+            "hu": "A helyi ingajáratok központi megállója.",
+            "ro": "Nod central pentru autobuzele navetă.",
+            "en": "Central hub for the local shuttle buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Siracusa",
+            "hu": "Siracusai dóm",
+            "ro": "Domul din Siracuza",
+            "en": "Duomo di Siracusa"
+          },
+          "coords": [
+            15.2932,
+            37.0592
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Im Herzen von Ortigia gelegen.",
+            "hu": "Ortigia szívében található.",
+            "ro": "Situat în inima Ortigiei.",
+            "en": "Located in the heart of Ortigia."
+          }
+        },
+        {
+          "name": {
+            "de": "Fonte Aretusa",
+            "hu": "Aretusza-forrás",
+            "ro": "Fântâna Arethusa",
+            "en": "Fonte Aretusa"
+          },
+          "coords": [
+            15.2922,
+            37.0575
+          ],
+          "category": "natural features",
+          "arrive_at": "15:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nahe dem Meer gelegen.",
+            "hu": "Közel fekszik a tengerhez.",
+            "ro": "Situată aproape de mare.",
+            "en": "Located close to the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Maniace",
+            "hu": "Maniace-kastély",
+            "ro": "Castelul Maniace",
+            "en": "Castello Maniace"
+          },
+          "coords": [
+            15.2952,
+            37.0535
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Elektrobuss 'Circolare' zurück zum Terminal.",
+            "hu": "Használja a 'Circolare' elektromos buszt visszafelé.",
+            "ro": "Folosiți autobuzul electric 'Circolare' înapoi la terminal.",
+            "en": "Use the 'Circolare' electric bus back to the terminal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der Stadtbusse und der elektrischen Shuttles in Ortigia ist Siracusa auch ohne Auto leicht zu erkunden. Beginnen Sie im archäologischen Viertel mit dem griechischen Theater und dem Paolo Orsi Museum. Der Bus bringt Sie dann zum Eingang der Altstadtinsel Ortigia. Dort erkunden Sie zu Fuß oder mit dem kleinen Elektrobus den prachtvollen Dom, die Aretusa-Quelle und die massive Maniace-Festung am Ende der Insel.",
+        "hu": "A városi buszoknak és az Ortigiában közlekedő elektromos járatoknak köszönhetően Siracusa autó nélkül is könnyen felfedezhető. Kezdjen a régészeti negyedben a görög színházzal és a Paolo Orsi Múzeummal. A busz ezután elviszi Ortigia bejáratához. Ott gyalog vagy a kis elektromos busszal fedezheti fel a pompás dómot, az Aretusza-forrást és a sziget végén álló masszív Maniace-erődöt.",
+        "ro": "Datorită autobuzelor urbane și a navetelor electrice din Ortigia, Siracuza este ușor de explorat fără mașină. Începeți în cartierul arheologic cu teatrul grec și Muzeul Paolo Orsi. Autobuzul vă va duce apoi la intrarea pe insula Ortigia. Acolo puteți explora pe jos sau cu micul autobuz electric superbul Dom, Fântâna Arethusa și masiva fortăreață Maniace de la capătul insulei.",
+        "en": "Thanks to city buses and the electric shuttles in Ortigia, Syracuse is easy to explore without a car. Start in the archaeological district with the Greek theater and the Paolo Orsi Museum. The bus then takes you to the entrance of the island of Ortigia. There, explore on foot or with the small electric bus the magnificent Duomo, the Arethusa spring, and the massive Maniace fortress at the end of the island."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Scacce Siracusane",
+            "tip": "Gefüllte Teigfladen, idealer Snack."
+          },
+          {
+            "name": "Mandelschleckereien",
+            "tip": "Probieren Sie Pasticcini di Mandorla."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Scacce Siracusane",
+            "tip": "Töltött tészta, kiváló gyors harapnivaló."
+          },
+          {
+            "name": "Mandulás édességek",
+            "tip": "Kóstolja meg a Pasticcini di Mandorlát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scacce Siracusane",
+            "tip": "Plăcinte umplute, o gustare ideală."
+          },
+          {
+            "name": "Dulciuri cu migdale",
+            "tip": "Gustați Pasticcini di Mandorla."
+          }
+        ],
+        "en": [
+          {
+            "name": "Scacce Siracusane",
+            "tip": "Stuffed flatbreads, an ideal snack."
+          },
+          {
+            "name": "Almond treats",
+            "tip": "Try the Pasticcini di Mandorla."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piazza Archimede",
+            "tip": "Hübscher Platz mit dem Diana-Brunnen.",
+            "emoji": "⛲"
+          },
+          {
+            "name": "Lungo Porto",
+            "tip": "Blick auf die Yachten im Hafen.",
+            "emoji": "⚓"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza Archimede",
+            "tip": "Csinos tér a Diána-kúttal.",
+            "emoji": "⛲"
+          },
+          {
+            "name": "Lungo Porto",
+            "tip": "Kilátás a kikötőben horgonyzó jachtokra.",
+            "emoji": "⚓"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazza Archimede",
+            "tip": "O piață drăguță cu Fântâna Dianei.",
+            "emoji": "⛲"
+          },
+          {
+            "name": "Lungo Porto",
+            "tip": "Vedere spre iahturile din port.",
+            "emoji": "⚓"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza Archimede",
+            "tip": "Pretty square with the Diana Fountain.",
+            "emoji": "⛲"
+          },
+          {
+            "name": "Lungo Porto",
+            "tip": "View of the yachts in the harbor.",
+            "emoji": "⚓"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Roma",
+            "tip": "Kleine Handwerksläden und Mode."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Roma",
+            "tip": "Kézműves boltok és divatüzletek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Roma",
+            "tip": "Mici magazine de artizanat și modă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Roma",
+            "tip": "Small craft shops and fashion boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets vorab im Tabakladen (Tabacchi).",
+          "Der 'Siracusa d'Amare' Shuttle ist ideal für Touristen.",
+          "Die Fahrpläne können unzuverlässig sein; planen Sie Pufferzeit ein.",
+          "Die Endstation für die meisten Busse ist nahe dem Apollontempel.",
+          "Nutzen Sie die App für Echtzeit-Infos, falls verfügbar."
+        ],
+        "hu": [
+          "Vegye meg előre a buszjegyet egy dohányboltban (Tabacchi).",
+          "A 'Siracusa d'Amare' ingajárat ideális a turisták számára.",
+          "A menetrendek pontatlanok lehetnek, tervezzen ráhagyással.",
+          "A legtöbb busz végállomása az Apollón-templom közelében van.",
+          "Használja az applikációt a valós idejű infókért, ha elérhető."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz în avans de la tutungerii (Tabacchi).",
+          "Naveta 'Siracusa d'Amare' este ideală pentru turiști.",
+          "Orarele pot fi nesigure; planificați cu timp de rezervă.",
+          "Capătul de linie pentru majoritatea autobuzelor este lângă Templul lui Apollo.",
+          "Folosiți aplicația pentru informații în timp real, dacă este disponibilă."
+        ],
+        "en": [
+          "Buy bus tickets in advance at a tobacco shop (Tabacchi).",
+          "The 'Siracusa d'Amare' shuttle is ideal for tourists.",
+          "Schedules can be unreliable; plan with buffer time.",
+          "The terminal for most buses is near the Temple of Apollo.",
+          "Use the app for real-time info, if available."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-82",
+    "lon": 15.2942,
+    "lat": 37.0612,
+    "transit_official": "https://www.siracusadamare.it/orari-bus-siracusa/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Siracusa",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.siracusaturismo.net/eventi/",
+    "tourism_office": "https://www.siracusaturismo.net/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/sicilia/siracusa.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/siracusa-c247164",
+    "museum_tickets": "https://www.indafondazione.org/biglietti/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch; in Ortigia spricht Tourismuspersonal meist Englisch.",
+      "hu": "Olaszul beszelnek; Ortigiaban a turisztikai dolgozok altalaban tudnak angolul.",
+      "ro": "Italiana; in Ortigia personalul turistic vorbeste de obicei engleza.",
+      "en": "Italian; tourism staff in Ortigia generally speak English."
+    },
+    "best_time": {
+      "de": "Mai, Juni und September - Klassikfestival am Teatro Greco im Mai/Juni.",
+      "hu": "Majus, junius es szeptember; a gorog szinhaz klasszikus fesztivalja maj-jun.",
+      "ro": "Mai, iunie si septembrie; festivalul clasic la Teatrul Grec are loc mai-iunie.",
+      "en": "May, June and September; the Greek Theatre classical festival runs May-June."
+    },
+    "warnings": {
+      "de": "Ortigia-Gassen sind eng und ueberlaufen im August; Hochwasser bei Scirocco moeglich.",
+      "hu": "Ortigia szuk utcai augusztusban zsufoltak; scirocco idejen aramlatok a partnal.",
+      "ro": "Stradutele Ortigiei sunt aglomerate in august; curentii sciroccului pot fi puternici.",
+      "en": "Ortigia lanes are packed in August; scirocco winds can cause rough coastal currents."
+    }
+  }
+}

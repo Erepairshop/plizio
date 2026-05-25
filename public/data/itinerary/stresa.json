@@ -1,0 +1,1017 @@
+{
+  "city_id": "stresa",
+  "anchor": {
+    "name": "Stresa",
+    "coords": [
+      8.5403,
+      45.8842
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Promenade von Stresa",
+            "hu": "Stresai tóparti sétány",
+            "ro": "Promenada din Stresa",
+            "en": "Stresa Promenade"
+          },
+          "coords": [
+            8.542,
+            45.8835
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bester Blick auf die Inseln am Morgen.",
+            "hu": "Reggel a legszebb a kilátás a szigetekre.",
+            "ro": "Cea mai bună vedere spre insule dimineața.",
+            "en": "Best view of the islands in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sant Ambrogio",
+            "hu": "Szent Ambrus-templom",
+            "ro": "Biserica Sant Ambrogio",
+            "en": "Church of Sant Ambrogio"
+          },
+          "coords": [
+            8.5385,
+            45.8845
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Fassade.",
+            "hu": "Csodáld meg a neoklasszicista homlokzatot.",
+            "ro": "Admirați fațada neoclasică.",
+            "en": "Admire the neoclassical facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Collegio Rosmini",
+            "hu": "Rosmini Kollégium",
+            "ro": "Colegiul Rosmini",
+            "en": "Rosmini College"
+          },
+          "coords": [
+            8.535,
+            45.885
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Grab von Antonio Rosmini.",
+            "hu": "Látogass el Antonio Rosmini sírjához.",
+            "ro": "Vizitați mormântul lui Antonio Rosmini.",
+            "en": "Visit the tomb of Antonio Rosmini."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Pallavicino",
+            "hu": "Pallavicino-villa",
+            "ro": "Vila Pallavicino",
+            "en": "Villa Pallavicino"
+          },
+          "coords": [
+            8.552,
+            45.875
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ideal für Familien mit dem Streichelzoo.",
+            "hu": "Ideális családoknak az állatsimogatóval.",
+            "ro": "Ideal pentru familii datorită grădinii zoologice.",
+            "en": "Ideal for families with the petting zoo."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Zentrum",
+            "hu": "Történelmi központ",
+            "ro": "Centrul Istoric",
+            "en": "Old Town Center"
+          },
+          "coords": [
+            8.539,
+            45.884
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Eis auf der Piazza Cadorna.",
+            "hu": "Fagyizz egyet a Piazza Cadorna téren.",
+            "ro": "Savurați o înghețată în Piazza Cadorna.",
+            "en": "Enjoy an ice cream at Piazza Cadorna."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem erfrischenden Spaziergang entlang der prächtigen Seeuferpromenande von Stresa, gesäumt von Palmen und historischen Grand Hotels. Am späten Vormittag erkunden Sie die neoklassizistische Kirche Sant Ambrogio im Herzen der Stadt. Nach einer kurzen Pause führt Sie der Weg zum Collegio Rosmini, einem Ort der Stille und Gelehrsamkeit. Den Nachmittag verbringen Sie inmitten der exotischen Pflanzen und Tiere der Villa Pallavicino. Den Abend lassen Sie gemütlich in den engen Gassen der Altstadt bei einem Glas Wein ausklingen.",
+        "hu": "Kezdje a napot egy frissítő sétával a stresai tóparti sétányon, ahol pálmafák és patinás luxusszállodák kísérik útját. Késő délelőtt fedezze fel a város szívében álló neoklasszicista Szent Ambrus-templomot. Egy rövid pihenő után a Rosmini Kollégium csendes és méltóságteljes épületét látogassa meg. A délutánt a Pallavicino-villa egzotikus növényei és állatkertje között töltse, végül az estét a történelmi központ szűk utcáiban, a Piazza Cadorna környékén zárja egy finom vacsorával.",
+        "ro": "Începeți ziua cu o plimbare revigorantă pe promenada lacului din Stresa, mărginită de palmieri și hoteluri istorice grandioase. Spre sfârșitul dimineții, explorați biserica neoclasică Sant Ambrogio din inima orașului. După o scurtă pauză, drumul vă duce la Colegiul Rosmini, un loc de liniște și erudiție. Petreceți după-amiaza printre plantele exotice și animalele de la Vila Pallavicino. Încheiați seara relaxându-vă pe străzile înguste ale centrului vechi cu un pahar de vin local.",
+        "en": "Start your day with a refreshing stroll along the magnificent Stresa lakefront promenade, lined with palm trees and historic grand hotels. In the late morning, explore the neoclassical Church of Sant Ambrogio in the heart of the town. After a short break, visit the Rosmini College, a place of peace and scholarship. Spend the afternoon amidst the exotic plants and animals of Villa Pallavicino. Finally, end the evening in the narrow streets of the old town center near Piazza Cadorna with a delicious dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Margheritine di Stresa",
+            "tip": "Traditionelles Gebäck, benannt nach Königin Margherita."
+          },
+          {
+            "name": "Ristorante Lo Stornello",
+            "tip": "Hausgemachte Pasta und lokale Fischgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Margheritine di Stresa",
+            "tip": "Hagyományos aprósütemény, Margit királynéról elnevezve."
+          },
+          {
+            "name": "Ristorante Lo Stornello",
+            "tip": "Házias tészták és helyi halkülönlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Margheritine di Stresa",
+            "tip": "Biscuiți tradiționali numiți după Regina Margherita."
+          },
+          {
+            "name": "Ristorante Lo Stornello",
+            "tip": "Paste făcute în casă și preparate din pește local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Margheritine di Stresa",
+            "tip": "Traditional cookies named after Queen Margherita."
+          },
+          {
+            "name": "Ristorante Lo Stornello",
+            "tip": "Homemade pasta and local fish dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten der Villa Pallavicino",
+            "tip": "Ruhige Ecken unter alten Mammutbäumen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Pallavicino kertje",
+            "tip": "Csendes zugok az óriási mamutfenyők alatt.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Vilei Pallavicino",
+            "tip": "Colțuri liniștite sub sequoia gigantici.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Pallavicino Gardens",
+            "tip": "Quiet corners under giant sequoias.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Principe Tomaso",
+            "tip": "Boutiquen und lokale Delikatessengeschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Principe Tomaso",
+            "tip": "Butikok és helyi csemegeüzletek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Principe Tomaso",
+            "tip": "Boutique-uri și magazine cu delicatese locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Principe Tomaso",
+            "tip": "Boutiques and local specialty food shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequeme Schuhe sind für die weitläufigen Gärten der Villa Pallavicino ratsam.",
+          "Die Promenade ist flach und auch für Kinderwagen bestens geeignet.",
+          "In der Altstadt gibt es viele kleine Brunnen mit Trinkwasser.",
+          "Buchen Sie Fährtickets vorab, um Warteschlangen am Hafen zu vermeiden."
+        ],
+        "hu": [
+          "Kényelmes cipő ajánlott a Pallavicino-villa hatalmas kertjéhez.",
+          "A sétány teljesen sík, így babakocsival is könnyen bejárható.",
+          "A történelmi negyedben számos kis ivókút található.",
+          "Érdemes előre megvenni a hajójegyet, hogy elkerülje a sorban állást."
+        ],
+        "ro": [
+          "Pantofii confortabili sunt recomandați pentru grădinile vaste ale Vilei Pallavicino.",
+          "Promenada este plată și ideală pentru cărucioare.",
+          "În centrul vechi există multe fântâni mici cu apă potabilă.",
+          "Cumpărați biletele de feribot în avans pentru a evita cozile din port."
+        ],
+        "en": [
+          "Comfortable shoes are recommended for the extensive gardens of Villa Pallavicino.",
+          "The promenade is flat and perfect for strollers.",
+          "There are many small drinking water fountains in the old town.",
+          "Book ferry tickets in advance to avoid queues at the harbor."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Promenade von Stresa",
+            "hu": "Stresai sétány",
+            "ro": "Promenada Stresa",
+            "en": "Stresa Promenade"
+          },
+          "coords": [
+            8.542,
+            45.8835
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter flacher Weg zum Einradeln.",
+            "hu": "Tökéletes sík terep a bemelegítéshez.",
+            "ro": "Traseu plat perfect pentru încălzire.",
+            "en": "Perfect flat path for warming up."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Pallavicino",
+            "hu": "Pallavicino-villa",
+            "ro": "Vila Pallavicino",
+            "en": "Villa Pallavicino"
+          },
+          "coords": [
+            8.552,
+            45.875
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer am Haupteingang.",
+            "hu": "A főbejáratnál vannak kerékpártárolók.",
+            "ro": "Există suporturi de biciclete la intrarea principală.",
+            "en": "There are bike racks at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Collegio Rosmini",
+            "hu": "Rosmini Kollégium",
+            "ro": "Colegiul Rosmini",
+            "en": "Rosmini College"
+          },
+          "coords": [
+            8.535,
+            45.885
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein kleiner Anstieg, der sich lohnt.",
+            "hu": "Egy kis emelkedő, ami megéri a fáradságot.",
+            "ro": "O mică urcare care merită efortul.",
+            "en": "A small climb that is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sant Ambrogio",
+            "hu": "Szent Ambrus-templom",
+            "ro": "Biserica Sant Ambrogio",
+            "en": "Church of Sant Ambrogio"
+          },
+          "coords": [
+            8.5385,
+            45.8845
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp im Stadtzentrum.",
+            "hu": "Rövid megálló a városközpontban.",
+            "ro": "O scurtă oprire în centrul orașului.",
+            "en": "Short stop in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Nördliche Uferstraße",
+            "hu": "Északi tóparti út",
+            "ro": "Șoseaua de coastă de nord",
+            "en": "North Lakefront Road"
+          },
+          "coords": [
+            8.53,
+            45.895
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Fahrtwind Richtung Baveno.",
+            "hu": "Élvezze a menetszelet Baveno felé.",
+            "ro": "Bucurați-vă de briză spre Baveno.",
+            "en": "Enjoy the breeze heading towards Baveno."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Stresa und seine Umgebung aktiv mit dem Fahrrad. Starten Sie gemütlich an der Promenade und fahren Sie südlich zur Villa Pallavicino. Nach dem Besuch der weitläufigen Gärten führt Sie die Tour leicht bergauf zum Collegio Rosmini. Über das Stadtzentrum und die Kirche Sant Ambrogio radeln Sie schließlich entlang des Sees nach Norden, wo Sie fantastische Ausblicke auf die Borromäischen Inseln genießen können.",
+        "hu": "Fedezze fel Stresát és környékét aktívan, kerékpárral. Kezdjen a sétányon, majd tekerjen dél felé a Pallavicino-villához. A kert megtekintése után a túra enyhén emelkedik a Rosmini Kollégium irányába. A városközponton és a Szent Ambrus-templomon keresztül végül észak felé, a tópart mentén haladjon, ahonnan fantasztikus kilátás nyílik a Borromeo-szigetekre.",
+        "ro": "Explorați Stresa și împrejurimile sale activ, cu bicicleta. Începeți relaxat pe promenadă și pedalați spre sud către Vila Pallavicino. După vizitarea grădinilor vaste, turul vă poartă ușor în pantă spre Colegiul Rosmini. Prin centrul orașului și pe lângă biserica Sant Ambrogio, pedalați în final spre nord pe malul lacului, de unde vă puteți bucura de vederi fantastice spre Insulele Borromee.",
+        "en": "Explore Stresa and its surroundings actively by bike. Start leisurely on the promenade and ride south to Villa Pallavicino. After visiting the extensive gardens, the tour takes you slightly uphill towards Rosmini College. Passing through the town center and the Church of Sant Ambrogio, finally pedal north along the lake, enjoying fantastic views of the Borromean Islands."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Idrovolante",
+            "tip": "Direkt am Wasser, perfekt für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Idrovolante",
+            "tip": "Közvetlenül a víznél, ideális bringásoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Idrovolante",
+            "tip": "Chiar pe apă, perfect pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Idrovolante",
+            "tip": "Right on the water, perfect for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nordufer-Parkplätze",
+            "tip": "Kleine Bänke mit direktem Seezugang.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Északi tóparti padok",
+            "tip": "Közvetlen lejáró a tóhoz és pihenőhely.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci pe malul de nord",
+            "tip": "Bănci mici cu acces direct la lac.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "North Shore Benches",
+            "tip": "Small benches with direct lake access.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Enoteca La Cambusa",
+            "tip": "Lokale Weine zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Enoteca La Cambusa",
+            "tip": "Helyi borok elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Enoteca La Cambusa",
+            "tip": "Vinuri locale de luat acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Enoteca La Cambusa",
+            "tip": "Local wines to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Hauptstraße kann im Sommer verkehrsreich sein, nutzen Sie Nebenwege.",
+          "Ein Schloss ist für Stopps an den Villen unerlässlich.",
+          "Die Strecke nach Baveno ist weitgehend flach.",
+          "Vermeiden Sie die heißesten Stunden zwischen 13 und 15 Uhr."
+        ],
+        "hu": [
+          "A főút nyáron forgalmas lehet, használja a mellékutcákat.",
+          "A villáknál tett megállókhoz elengedhetetlen egy jó lakat.",
+          "A Baveno felé vezető szakasz nagyrészt sík.",
+          "Kerülje a legforróbb órákat 13 és 15 óra között."
+        ],
+        "ro": [
+          "Drumul principal poate fi aglomerat vara, folosiți străzile secundare.",
+          "Un lacăt este esențial pentru opririle la vile.",
+          "Traseul către Baveno este în mare parte plat.",
+          "Evitați orele cele mai fierbinți între 13 și 15."
+        ],
+        "en": [
+          "The main road can be busy in summer, use side streets when possible.",
+          "A bike lock is essential for stops at the villas.",
+          "The route to Baveno is mostly flat.",
+          "Avoid the hottest hours between 1 PM and 3 PM."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Monte Mottarone",
+            "hu": "Monte Mottarone",
+            "ro": "Muntele Mottarone",
+            "en": "Monte Mottarone"
+          },
+          "coords": [
+            8.448,
+            45.879
+          ],
+          "category": "natural features",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Bei klarer Sicht sehen Sie sieben Seen.",
+            "hu": "Tiszta időben hét tavat is látni innen.",
+            "ro": "În zilele senine se pot vedea șapte lacuri.",
+            "en": "On clear days, you can see seven lakes."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten Alpinia",
+            "hu": "Alpinia Botanikus Kert",
+            "ro": "Grădina Botanică Alpinia",
+            "en": "Alpinia Botanical Garden"
+          },
+          "coords": [
+            8.513,
+            45.878
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Wunderbare Terrasse mit Blick auf den See.",
+            "hu": "Csodálatos terasz kilátással a tóra.",
+            "ro": "O terasă minunată cu vedere la lac.",
+            "en": "Wonderful terrace with lake views."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Pallavicino",
+            "hu": "Pallavicino-villa",
+            "ro": "Vila Pallavicino",
+            "en": "Villa Pallavicino"
+          },
+          "coords": [
+            8.552,
+            45.875
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt vor dem Eingang.",
+            "hu": "Nagy parkoló közvetlenül a bejárat előtt.",
+            "ro": "Parcare mare chiar în fața intrării.",
+            "en": "Large parking lot right in front of the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sant Ambrogio",
+            "hu": "Szent Ambrus-templom",
+            "ro": "Biserica Sant Ambrogio",
+            "en": "Church of Sant Ambrogio"
+          },
+          "coords": [
+            8.5385,
+            45.8845
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie im blauen Bereich am Ufer.",
+            "hu": "Parkoljon a kék zónában a tóparton.",
+            "ro": "Parcați în zona albastră de pe mal.",
+            "en": "Park in the blue zone along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade von Stresa",
+            "hu": "Stresai sétány",
+            "ro": "Promenada Stresa",
+            "en": "Stresa Promenade"
+          },
+          "coords": [
+            8.542,
+            45.8835
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Perfekter Ort für den Sonnenuntergang.",
+            "hu": "Tökéletes hely a naplementéhez.",
+            "ro": "Locul perfect pentru apus.",
+            "en": "Perfect spot for sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die spektakulärsten Aussichtspunkte von Stresa. Starten Sie mit der Fahrt auf den Monte Mottarone, von wo aus Sie einen 360-Grad-Blick auf die Alpen und die Seenplatte haben. Auf dem Rückweg halten Sie am Alpinia-Garten, um die alpine Flora zu bewundern. Am Nachmittag besuchen Sie die Villa Pallavicino und kehren schließlich ins Stadtzentrum zurück, um den Tag an der eleganten Uferpromenade ausklingen zu lassen.",
+        "hu": "Autóval Stresa leglátványosabb kilátópontjait érheti el. Kezdjen a Monte Mottarone csúcsán, ahonnan 360 fokos panoráma nyílik az Alpokra és a tóvidékre. Lefelé menet álljon meg az Alpinia kertnél, hogy megcsodálja az alpesi flórát. Délután látogasson el a Pallavicino-villához, majd térjen vissza a városközpontba, hogy az elegáns tóparti sétányon zárja a napot.",
+        "ro": "Cu mașina puteți ajunge la cele mai spectaculoase puncte de belvedere din Stresa. Începeți cu drumul spre Muntele Mottarone, de unde aveți o vedere de 360 de grade asupra Alpilor și a zonei lacurilor. La întoarcere, opriți-vă la grădina Alpinia pentru a admira flora alpină. După-amiaza vizitați Vila Pallavicino și reveniți în final în centrul orașului pentru a încheia ziua pe eleganta promenadă de pe malul lacului.",
+        "en": "By car, you can reach Stresa's most spectacular viewpoints. Start with a drive up Monte Mottarone, where you'll have a 360-degree view of the Alps and the lake district. On the way back, stop at the Alpinia Garden to admire the alpine flora. In the afternoon, visit Villa Pallavicino and finally return to the town center to end the day on the elegant lakefront promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante Rifugio Genziana",
+            "tip": "Herzhafte Bergküche auf dem Mottarone."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante Rifugio Genziana",
+            "tip": "Kiadós hegyi konyha a Mottarone csúcsán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante Rifugio Genziana",
+            "tip": "Bucătărie montană consistentă pe Mottarone."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante Rifugio Genziana",
+            "tip": "Hearty mountain cuisine on top of Mottarone."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mottarone Gipfel",
+            "tip": "Absolute Stille und weite Sicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mottarone csúcs",
+            "tip": "Abszolút csend és végtelen kilátás.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Mottarone",
+            "tip": "Liniște absolută și vedere panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mottarone Summit",
+            "tip": "Absolute silence and wide views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Alberti Panetteria",
+            "tip": "Lokale Backwaren für ein Picknick am Berg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alberti pékség",
+            "tip": "Helyi pékáruk egy hegyi piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alberti Panetteria",
+            "tip": "Produse locale de panificație pentru un picnic pe munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alberti Bakery",
+            "tip": "Local baked goods for a mountain picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zum Mottarone (Borromea) ist mautpflichtig.",
+          "Achten Sie auf die engen Kurven in Richtung Alpinia.",
+          "Parken in Stresa ist im Sommer oft schwierig, nutzen Sie die P+R Plätze.",
+          "Fahren Sie früh los, um die Mittagshitze am Gipfel zu vermeiden."
+        ],
+        "hu": [
+          "A Mottaronéra vezető út (Borromea) útdíjas.",
+          "Vigyázzon a szűk kanyarokra az Alpinia kert felé.",
+          "A parkolás Stresában nyáron nehéz lehet, használja a P+R helyeket.",
+          "Induljon korán, hogy elkerülje a déli hőséget a csúcson."
+        ],
+        "ro": [
+          "Drumul spre Mottarone (Borromea) este cu taxă.",
+          "Atenție la curbele strânse spre grădina Alpinia.",
+          "Parcarea în Stresa este adesea dificilă vara, folosiți locurile P+R.",
+          "Plecați devreme pentru a evita căldura amiezii pe vârf."
+        ],
+        "en": [
+          "The road to Mottarone (Borromea) is a toll road.",
+          "Watch out for the narrow curves towards Alpinia Garden.",
+          "Parking in Stresa is often difficult in summer, use the P+R lots.",
+          "Start early to avoid the midday heat at the summit."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Isola Madre",
+            "hu": "Isola Madre",
+            "ro": "Isola Madre",
+            "en": "Isola Madre"
+          },
+          "coords": [
+            8.538,
+            45.911
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Die friedlichste der drei Inseln.",
+            "hu": "A legnyugodtabb a három sziget közül.",
+            "ro": "Cea mai liniștită dintre cele trei insule.",
+            "en": "The most peaceful of the three islands."
+          }
+        },
+        {
+          "name": {
+            "de": "Isola dei Pescatori",
+            "hu": "Halászok szigete",
+            "ro": "Isola dei Pescatori",
+            "en": "Isola dei Pescatori"
+          },
+          "coords": [
+            8.521,
+            45.899
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagessen mit Seefisch.",
+            "hu": "Ideális egy tavi halas ebédhez.",
+            "ro": "Ideal pentru un prânz cu pește de lac.",
+            "en": "Ideal for a lunch with lake fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Isola Bella",
+            "hu": "Isola Bella",
+            "ro": "Isola Bella",
+            "en": "Isola Bella"
+          },
+          "coords": [
+            8.5265,
+            45.895
+          ],
+          "category": "historical",
+          "arrive_at": "13:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die prächtigen Gärten.",
+            "hu": "Tekintse meg a pompás kerteket.",
+            "ro": "Vizitați grădinile magnifice.",
+            "en": "Visit the magnificent gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Borromeo",
+            "hu": "Borromeo-palota",
+            "ro": "Palatul Borromeo",
+            "en": "Borromeo Palace"
+          },
+          "coords": [
+            8.5265,
+            45.895
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die Muschelgrotten im Untergeschoss sind einzigartig.",
+            "hu": "Az alagsori kagylóbarlangok egyedülállóak.",
+            "ro": "Grotele de scoici de la subsol sunt unice.",
+            "en": "The shell grottos in the basement are unique."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade von Stresa",
+            "hu": "Stresai sétány",
+            "ro": "Promenada Stresa",
+            "en": "Stresa Promenade"
+          },
+          "coords": [
+            8.542,
+            45.8835
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Rückkehr zum Festland per Fähre.",
+            "hu": "Visszatérés a szárazföldre komppal.",
+            "ro": "Întoarcerea pe uscat cu feribotul.",
+            "en": "Return to the mainland by ferry."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das ausgezeichnete Fährsystem, um die Borromäischen Inseln zu erkunden. Beginnen Sie mit der Isola Madre, berühmt für ihren botanischen Garten. Weiter geht es zur Isola dei Pescatori, wo Sie das authentische Dorfleben und frischen Fisch genießen können. Der Höhepunkt ist die Isola Bella mit dem monumentalen Palazzo Borromeo und seinen terrassierten Gärten. Beenden Sie den Tag mit einer entspannten Fährfahrt zurück nach Stresa.",
+        "hu": "Használja ki a kiváló komprendszert a Borromeo-szigetek felfedezéséhez. Kezdje az Isola Madréval, amely botanikus kertjéről híres. Folytassa a Halászok szigetén (Isola dei Pescatori), ahol az autentikus falusi életet és friss halat élvezhet. A csúcspont az Isola Bella a monumentális Borromeo-palotával és teraszos kertjeivel. A napot egy kellemes hajózással zárja vissza Stresa felé.",
+        "ro": "Folosiți sistemul excelent de feribot pentru a explora Insulele Borromee. Începeți cu Isola Madre, celebră pentru grădina sa botanică. Continuați spre Isola dei Pescatori, unde vă puteți bucura de viața autentică a satului și de pește proaspăt. Punctul culminant este Isola Bella, cu monumentalul Palat Borromeo și grădinile sale terasate. Încheiați ziua cu o plimbare relaxantă cu feribotul înapoi spre Stresa.",
+        "en": "Take advantage of the excellent ferry system to explore the Borromean Islands. Start with Isola Madre, famous for its botanical gardens. Continue to Isola dei Pescatori, where you can enjoy authentic village life and fresh fish. The highlight is Isola Bella, with the monumental Borromeo Palace and its terraced gardens. End the day with a relaxing ferry ride back to Stresa."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trattoria Imbarcadero",
+            "tip": "Frischer Fang direkt auf der Isola dei Pescatori."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trattoria Imbarcadero",
+            "tip": "Friss fogás közvetlenül a Halászok szigetén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trattoria Imbarcadero",
+            "tip": "Captură proaspătă chiar pe Isola dei Pescatori."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trattoria Imbarcadero",
+            "tip": "Fresh catch directly on Isola dei Pescatori."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten der Isola Madre",
+            "tip": "Weitläufig und oft weniger besucht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Isola Madre kertjei",
+            "tip": "Tágas és gyakran kevésbé zsúfolt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Isola Madre",
+            "tip": "Vaste și adesea mai puțin vizitate.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Isola Madre Gardens",
+            "tip": "Spacious and often less crowded.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz Isola Bella",
+            "tip": "Handgefertigter Schmuck und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Isola Bella piaca",
+            "tip": "Kézműves ékszerek és szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Isola Bella",
+            "tip": "Bijuterii artizanale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Isola Bella Market",
+            "tip": "Handmade jewelry and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Hop-On-Hop-Off-Tagesticket für die Fähren.",
+          "Die letzte Fähre fährt meist gegen 18 Uhr, prüfen Sie den Fahrplan.",
+          "Tragen Sie Sonnenschutz, da es auf den Booten reflektiert.",
+          "Isola Madre öffnet meist erst ab Ende März."
+        ],
+        "hu": [
+          "Vásároljon Hop-On-Hop-Off napijegyet a kompokra.",
+          "Az utolsó komp általában 18 óra körül indul, ellenőrizze a menetrendet.",
+          "Használjon naptejet, mert a vízről visszaverődik a fény.",
+          "Az Isola Madre általában március végétől látogatható."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi Hop-On-Hop-Off pentru feriboturi.",
+          "Ultimul feribot pleacă de obicei în jurul orei 18:00, verificați orarul.",
+          "Folosiți protecție solară, deoarece lumina se reflectă pe apă.",
+          "Isola Madre se deschide de obicei abia de la sfârșitul lunii martie."
+        ],
+        "en": [
+          "Buy a Hop-On-Hop-Off day ticket for the ferries.",
+          "The last ferry usually departs around 6 PM, check the schedule.",
+          "Wear sunscreen, as the sun reflects off the water on the boats.",
+          "Isola Madre usually opens at the end of March."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-21",
+    "lon": 8.5403,
+    "lat": 45.8842,
+    "transit_official": "https://www.navigazionelaghi.it/en/",
+    "transit_app": null,
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.stresaturismo.it/en/events/",
+    "tourism_office": "https://www.stresaturismo.it/en/",
+    "webcam": null,
+    "restaurants_booking": null,
+    "museum_tickets": "https://www.isoleborromee.it/en/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Touristisch, Englisch und Deutsch in Hotels ublich.",
+      "hu": "Turistavaros, angol es nemet ertheto hotelekben.",
+      "ro": "Turistic, engleza si germana frecvente in hoteluri.",
+      "en": "Tourist town, English and German common in hotels."
+    },
+    "best_time": {
+      "de": "Mai-September fur Bootsfahrten zu Borromeo-Inseln.",
+      "hu": "Majus-szeptember a Borromeo-szigeteket hajoval.",
+      "ro": "Mai-septembrie pentru insulele Borromee cu vaporasul.",
+      "en": "May-September for ferry rides to Borromean Islands."
+    },
+    "warnings": {
+      "de": "Fahrplane der Faehren saisonal pruefen.",
+      "hu": "Komp menetrend szezonalisan valtozik, ellenorizd.",
+      "ro": "Orarul feriboturilor variaza sezonier, verifica.",
+      "en": "Ferry schedules vary by season, check timetables."
+    }
+  }
+}

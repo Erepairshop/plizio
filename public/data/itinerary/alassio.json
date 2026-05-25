@@ -1,0 +1,1095 @@
+{
+  "city_id": "alassio",
+  "anchor": {
+    "name": "Muretto di Alassio",
+    "coords": [
+      8.1731,
+      44.0061
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Budello di Alassio",
+            "hu": "Budello di Alassio",
+            "ro": "Budello di Alassio",
+            "en": "Budello di Alassio"
+          },
+          "coords": [
+            8.1715,
+            44.0055
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Frühmorgens sind die Gassen am ruhigsten für Fotos.",
+            "hu": "Kora reggel a legcsendesebbek a sikátorok a fotózáshoz.",
+            "ro": "Dimineața devreme străduțele sunt cele mai liniștite pentru poze.",
+            "en": "Early morning is the best time for photos in the narrow alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Muretto di Alassio",
+            "hu": "Alassiói fal (Muretto)",
+            "ro": "Muretto di Alassio",
+            "en": "Muretto di Alassio"
+          },
+          "coords": [
+            8.1731,
+            44.0061
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie die Fliese, die von Ernest Hemingway signiert wurde.",
+            "hu": "Keresd meg az Ernest Hemingway által aláírt csempét.",
+            "ro": "Căutați placa semnată de Ernest Hemingway.",
+            "en": "Look for the ceramic tile signed by Ernest Hemingway."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sant'Ambrogio",
+            "hu": "Szent Ambrus-templom",
+            "ro": "Biserica Sant'Ambrogio",
+            "en": "Church of Sant'Ambrogio"
+          },
+          "coords": [
+            8.1738,
+            44.0065
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das prächtige Hochportal aus dem 16. Jahrhundert.",
+            "hu": "Csodáld meg a 16. századi díszes főkaput.",
+            "ro": "Admirați portalul principal magnific din secolul al XVI-lea.",
+            "en": "Admire the magnificent 16th-century high portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Torrione Saraceno",
+            "hu": "Saracén-torony",
+            "ro": "Turnul Sarazin",
+            "en": "Saracen Tower"
+          },
+          "coords": [
+            8.1755,
+            44.0075
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um den Blick über das Meer schweifen zu lassen.",
+            "hu": "Tökéletes hely a tengeri kilátás élvezetéhez.",
+            "ro": "Un loc perfect pentru a privi marea în liniște.",
+            "en": "A perfect spot to let your gaze wander over the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa della Pergola Gärten",
+            "hu": "Villa della Pergola kertjei",
+            "ro": "Grădinile Villa della Pergola",
+            "en": "Villa della Pergola Gardens"
+          },
+          "coords": [
+            8.1655,
+            44.0035
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die Glyzinienblüte im Frühling ist absolut spektakulär.",
+            "hu": "A tavaszi lilaakác-virágzás egészen lenyűgöző.",
+            "ro": "Înflorirea glicinei primăvara este absolut spectaculoasă.",
+            "en": "The wisteria blooming in spring is absolutely spectacular."
+          }
+        },
+        {
+          "name": {
+            "de": "Alassio Strandpromenade",
+            "hu": "Alassiói tengerparti sétány",
+            "ro": "Promenada din Alassio",
+            "en": "Alassio Seafront Promenade"
+          },
+          "coords": [
+            8.172,
+            44.004
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Eis, während die Sonne langsam untergeht.",
+            "hu": "Fogyassz el egy fagyit, miközben a nap lassan lebukik.",
+            "ro": "Savurați o înghețată în timp ce soarele apune încet.",
+            "en": "Enjoy an ice cream as the sun slowly sets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Budello, dem historischen Herzen von Alassio, wo das Leben in den schmalen Gassen erwacht. Nach einem kurzen Spaziergang erreichen Sie das berühmte Muretto, eine Mauer voller bunter Keramikfliesen und Geschichten. Mittags besichtigen Sie die Kirche Sant'Ambrogio und den markanten Sarazenenturm am Meer. Der Nachmittag gehört der prachtvollen Flora der Villa della Pergola, bevor Sie den Tag entspannt an der palmengesäumten Promenade ausklingen lassen.",
+        "hu": "A napod a Budellóban, Alassio történelmi szívében kezdődik, ahol az élet a szűk sikátorokban ébredezni kezd. Rövid séta után eléred a híres Murettót, a színes kerámiacsempékkel és történetekkel teli falat. Délben meglátogatod a Szent Ambrus-templomot és a tengerparti Saracén-tornyot. A délutánt a Villa della Pergola pompás flórája között töltöd, majd a napot a pálmafás sétányon, pihenéssel zárod.",
+        "ro": "Ziua începe în Budello, inima istorică a orașului Alassio, unde viața prinde contur pe străduțele înguste. După o scurtă plimbare, ajungeți la celebrul Muretto, un zid plin de plăci ceramice colorate și povești. La prânz, vizitați Biserica Sant'Ambrogio și turnul sarazin de la malul mării. După-amiaza este dedicată florei magnifice de la Villa della Pergola, înainte de a încheia ziua relaxat pe promenada cu palmieri.",
+        "en": "Your day begins in the Budello, the historical heart of Alassio, where life awakens in the narrow alleys. After a short walk, you reach the famous Muretto, a wall full of colorful ceramic tiles and stories. At noon, you visit the Church of Sant'Ambrogio and the striking Saracen Tower by the sea. The afternoon is dedicated to the magnificent flora of Villa della Pergola, before ending the day relaxing on the palm-lined promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Baci di Alassio",
+            "tip": "Probieren Sie diese Schokoladenkekse in der Pasticceria Balzola."
+          },
+          {
+            "name": "Focaccia Ligure",
+            "tip": "Frisch und ölig, ideal für einen Snack zwischendurch."
+          },
+          {
+            "name": "Pasta con Pesto",
+            "tip": "Das echte ligurische Pesto ist ein Muss in jedem lokalen Bistro."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baci di Alassio",
+            "tip": "Kóstold meg ezeket a csokoládés sütiket a Pasticceria Balzolában."
+          },
+          {
+            "name": "Focaccia Ligure",
+            "tip": "Friss és olajos, ideális tízórai vagy uzsonna."
+          },
+          {
+            "name": "Pasta con Pesto",
+            "tip": "Az igazi liguriai pesto kötelező bármelyik helyi bisztróban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baci di Alassio",
+            "tip": "Încercați acești biscuiți cu ciocolată la Pasticceria Balzola."
+          },
+          {
+            "name": "Focaccia Ligure",
+            "tip": "Proaspătă și uleioasă, ideală pentru o gustare rapidă."
+          },
+          {
+            "name": "Pasta con Pesto",
+            "tip": "Pesto-ul ligurian adevărat este un must în orice bistro local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baci di Alassio",
+            "tip": "Try these chocolate hazelnut cookies at Pasticceria Balzola."
+          },
+          {
+            "name": "Focaccia Ligure",
+            "tip": "Fresh and oily, ideal for a quick snack."
+          },
+          {
+            "name": "Pasta con Pesto",
+            "tip": "Authentic Ligurian pesto is a must in any local bistro."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kapelle Madonna delle Grazie",
+            "tip": "Ein ruhiger Rückzugsort mit Panoramablick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Oststrand von Alassio",
+            "tip": "Weniger Trubel und sanftes Meeresrauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Englische Bibliothek Gärten",
+            "tip": "Ein versteckter grüner Winkel für Leser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Madonna delle Grazie kápolna",
+            "tip": "Csendes menedék panorámás kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alassio keleti strandja",
+            "tip": "Kevesebb tömeg és lágy tengerzúgás.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Angol Könyvtár kertje",
+            "tip": "Rejtett zöld sarok az olvasni vágyóknak.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela Madonna delle Grazie",
+            "tip": "Un refugiu liniștit cu vedere panoramică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plaja de est din Alassio",
+            "tip": "Mai puțină aglomerație și sunetul blând al mării.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Bibliotecii Engleze",
+            "tip": "Un colț verde ascuns pentru cititori.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Madonna delle Grazie Chapel",
+            "tip": "A quiet retreat with panoramic views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Eastern beach of Alassio",
+            "tip": "Less hustle and soft sound of the waves.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "English Library Gardens",
+            "tip": "A hidden green corner for readers.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Budello Boutiques",
+            "tip": "Modische Kleidung und handwerkliche Produkte."
+          },
+          {
+            "name": "Mercato Settimanale",
+            "tip": "Lokale Lebensmittel und Textilien jeden Donnerstag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Budello butikok",
+            "tip": "Divatos ruhák és kézműves termékek."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Helyi élelmiszerek és textilek minden csütörtökön."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique-urile din Budello",
+            "tip": "Haine la modă și produse artizanale."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Alimente locale și textile în fiecare joi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Budello Boutiques",
+            "tip": "Fashionable clothing and artisanal products."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Local food and textiles every Thursday."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen.",
+          "Die Villa della Pergola erfordert eine Vorabreservierung.",
+          "Die beste Aussicht auf die Stadt hat man vom Meer aus.",
+          "Nutzen Sie die kühleren Morgenstunden für den Aufstieg zur Villa."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a macskaköves utcákhoz.",
+          "A Villa della Pergola látogatásához előzetes foglalás szükséges.",
+          "A legjobb kilátás a városra a tenger felől nyílik.",
+          "Használd ki a hűvösebb reggeli órákat a villához való feljutáshoz."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru străzile pietruite.",
+          "Villa della Pergola necesită rezervare prealabilă.",
+          "Cea mai bună vedere asupra orașului este de pe mare.",
+          "Profită de orele mai răcoroase ale dimineții pentru urcarea la vilă."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Villa della Pergola requires advanced reservation.",
+          "The best view of the town is from the sea.",
+          "Take advantage of the cooler morning hours for the climb to the villa."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Torrione Saraceno",
+            "hu": "Saracén-torony",
+            "ro": "Turnul Sarazin",
+            "en": "Saracen Tower"
+          },
+          "coords": [
+            8.1755,
+            44.0075
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Startpunkt für die Fahrt entlang der Küste.",
+            "hu": "Kiindulópont a tengerparti tekeréshez.",
+            "ro": "Punct de plecare pentru plimbarea de-a lungul coastei.",
+            "en": "Starting point for the ride along the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Alassio",
+            "hu": "Alassiói kikötő",
+            "ro": "Portul din Alassio",
+            "en": "Alassio Harbor"
+          },
+          "coords": [
+            8.1815,
+            44.0125
+          ],
+          "category": "port",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Blick auf die Insel Gallinara vom Pier aus.",
+            "hu": "Kilátás a Gallinara-szigetre a mólóról.",
+            "ro": "Vedere spre insula Gallinara de pe dig.",
+            "en": "View of Gallinara Island from the pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel Gallinara (Aussichtspunkt)",
+            "hu": "Gallinara-sziget (kilátóhely)",
+            "ro": "Insula Gallinara (punct de belvedere)",
+            "en": "Gallinara Island (Viewpoint)"
+          },
+          "coords": [
+            8.2165,
+            44.0255
+          ],
+          "category": "natural features",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Die Insel ist ein Naturschutzgebiet und darf nicht betreten werden.",
+            "hu": "A sziget természetvédelmi terület, nem szabad rálépni.",
+            "ro": "Insula este rezervație naturală și nu poate fi vizitată la pas.",
+            "en": "The island is a nature reserve and landing is prohibited."
+          }
+        },
+        {
+          "name": {
+            "de": "Madonna delle Grazie",
+            "hu": "Madonna delle Grazie",
+            "ro": "Madonna delle Grazie",
+            "en": "Madonna delle Grazie"
+          },
+          "coords": [
+            8.1825,
+            44.0225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Der Anstieg lohnt sich für das Panorama.",
+            "hu": "Az emelkedő megéri a panoráma miatt.",
+            "ro": "Urcarea merită pentru panorama oferită.",
+            "en": "The climb is worth it for the panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Englische Bibliothek",
+            "hu": "Angol Könyvtár",
+            "ro": "Biblioteca Engleză",
+            "en": "English Library"
+          },
+          "coords": [
+            8.171,
+            44.0045
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Ein kulturelles Juwel inmitten der Riviera.",
+            "hu": "Kulturális ékszerdoboz a Riviéra közepén.",
+            "ro": "O bijuterie culturală în mijlocul Rivierei.",
+            "en": "A cultural gem in the heart of the Riviera."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Alassio auf zwei Rädern, beginnend am Sarazenenturm. Die Route führt Sie entlang der Küste zum Hafen und weiter zu Aussichtspunkten mit Blick auf die Insel Gallinara. Nach einem sportlichen Abstecher zur Kapelle Madonna delle Grazie kehren Sie ins Zentrum zurück, um die geschichtsträchtige Englische Bibliothek zu besuchen.",
+        "hu": "Fedezd fel Alassiót két keréken, a Saracén-toronytól indulva. Az útvonal a part mentén a kikötőbe, majd a Gallinara-szigetre néző kilátópontokhoz vezet. Egy sportos kitérő után a Madonna delle Grazie kápolnához visszatérsz a központba, hogy meglátogasd a nagy múltú Angol Könyvtárat.",
+        "ro": "Explorați Alassio pe două roți, începând de la Turnul Sarazin. Traseul vă duce de-a lungul coastei spre port și apoi spre puncte de belvedere cu vedere la insula Gallinara. După o abatere sportivă spre capela Madonna delle Grazie, reveniți în centru pentru a vizita Biblioteca Engleză, plină de istorie.",
+        "en": "Explore Alassio on two wheels, starting at the Saracen Tower. The route takes you along the coast to the harbor and further to viewpoints overlooking Gallinara Island. After a sporty detour to the Madonna delle Grazie chapel, return to the center to visit the historic English Library."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ligurischer Wein",
+            "tip": "Ein Glas Pigato nach der Tour ist sehr erfrischend."
+          },
+          {
+            "name": "Trofie al Pesto",
+            "tip": "Die klassische Nudelform der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Liguriai bor",
+            "tip": "Egy pohár Pigato a túra után nagyon frissítő."
+          },
+          {
+            "name": "Trofie al Pesto",
+            "tip": "A régió klasszikus tésztaformája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin ligurian",
+            "tip": "Un pahar de Pigato după tură este foarte revigorant."
+          },
+          {
+            "name": "Trofie al Pesto",
+            "tip": "Forma clasică de paste a regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ligurian Wine",
+            "tip": "A glass of Pigato after the tour is very refreshing."
+          },
+          {
+            "name": "Trofie al Pesto",
+            "tip": "The classic pasta shape of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Capo Santa Croce",
+            "tip": "Wilder Küstenabschnitt nördlich vom Hafen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Capo Santa Croce",
+            "tip": "Vadparti szakasz a kikötőtől északra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capo Santa Croce",
+            "tip": "Secțiune de coastă sălbatică la nord de port.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Capo Santa Croce",
+            "tip": "Wild coastal stretch north of the harbor.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Ölmühlen",
+            "tip": "Kaufen Sie echtes Olivenöl Taggiasca."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olajütők",
+            "tip": "Vásárolj valódi Taggiasca olívaolajat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prese de ulei locale",
+            "tip": "Cumpărați ulei de măsline autentic Taggiasca."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Oil Mills",
+            "tip": "Buy authentic Taggiasca olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Meiden Sie die Hauptstraße Via Aurelia während der Stoßzeiten.",
+          "Nutzen Sie den Radweg Richtung Albenga.",
+          "Achten Sie auf Fußgänger in der Altstadt.",
+          "Genügend Wasser für die Steigungen mitnehmen."
+        ],
+        "hu": [
+          "Kerüld el a Via Aurelia főutat csúcsidőben.",
+          "Használd az Albenga felé tartó kerékpárutat.",
+          "Ügyelj a gyalogosokra az óvárosban.",
+          "Vigyél elég vizet az emelkedőkhöz."
+        ],
+        "ro": [
+          "Evitați drumul principal Via Aurelia în orele de vârf.",
+          "Folosiți pista de biciclete spre Albenga.",
+          "Atenție la pietoni în centrul vechi.",
+          "Luați destulă apă pentru pante."
+        ],
+        "en": [
+          "Avoid the Via Aurelia main road during peak hours.",
+          "Use the bike path towards Albenga.",
+          "Watch out for pedestrians in the old town.",
+          "Take enough water for the climbs."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa della Pergola",
+            "hu": "Villa della Pergola",
+            "ro": "Villa della Pergola",
+            "en": "Villa della Pergola"
+          },
+          "coords": [
+            8.1655,
+            44.0035
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parkplätze sind oberhalb der Villa begrenzt.",
+            "hu": "A parkolóhelyek korlátozottak a villa felett.",
+            "ro": "Locurile de parcare sunt limitate deasupra vilei.",
+            "en": "Parking spaces are limited above the villa."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sant'Ambrogio",
+            "hu": "Szent Ambrus-templom",
+            "ro": "Biserica Sant'Ambrogio",
+            "en": "Church of Sant'Ambrogio"
+          },
+          "coords": [
+            8.1738,
+            44.0065
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Bahnhof.",
+            "hu": "Parkolj a vasútállomás melletti parkolóházban.",
+            "ro": "Parcați în parcarea de la gară.",
+            "en": "Park in the parking garage at the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt von Albenga",
+            "hu": "Albenga óvárosa",
+            "ro": "Centrul vechi din Albenga",
+            "en": "Albenga Old Town"
+          },
+          "coords": [
+            8.2125,
+            44.0485
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die mittelalterlichen Türme.",
+            "hu": "Látogasd meg a középkori tornyokat.",
+            "ro": "Vizitați turnurile medievale.",
+            "en": "Visit the medieval towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Madonna delle Grazie",
+            "hu": "Madonna delle Grazie",
+            "ro": "Madonna delle Grazie",
+            "en": "Madonna delle Grazie"
+          },
+          "coords": [
+            8.1825,
+            44.0225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Atemberaubender Blick auf die Bucht von Alassio.",
+            "hu": "Lélegzetelállító kilátás az alassiói öbölre.",
+            "ro": "Vedere uluitoare asupra golfului Alassio.",
+            "en": "Breathtaking view of the Alassio bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Muretto di Alassio",
+            "hu": "Alassiói fal (Muretto)",
+            "ro": "Muretto di Alassio",
+            "en": "Muretto di Alassio"
+          },
+          "coords": [
+            8.1731,
+            44.0061
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss vor dem Abendessen.",
+            "hu": "Szép lezárás vacsora előtt.",
+            "ro": "Un final frumos înainte de cină.",
+            "en": "A nice finish before dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie die Highlights von Alassio mit einem Ausflug ins benachbarte Albenga. Morgens bewundern Sie die Gärten der Villa della Pergola, bevor Sie Albengas Türme erkunden. Zurück in Alassio genießen Sie das Panorama bei der Madonna delle Grazie und beschließen den Tag am berühmten Muretto.",
+        "hu": "Autóval összekötheted Alassio fénypontjait egy kirándulással a szomszédos Albengába. Reggel a Villa della Pergola kertjeiben gyönyörködhetsz, mielőtt felfedeznéd Albenga tornyait. Visszatérve Alassióba, élvezd a panorámát a Madonna delle Grazie kápolnánál, majd zárd a napot a híres Murettónál.",
+        "ro": "Cu mașina, combinați punctele forte ale orașului Alassio cu o excursie în Albenga vecină. Dimineața admirați grădinile Villa della Pergola, înainte de a explora turnurile din Albenga. Revenind în Alassio, bucurați-vă de panoramă la Madonna delle Grazie și încheiați ziua la celebrul Muretto.",
+        "en": "By car, you combine the highlights of Alassio with a trip to neighboring Albenga. In the morning, admire the gardens of Villa della Pergola before exploring Albenga's towers. Back in Alassio, enjoy the panorama at Madonna delle Grazie and finish the day at the famous Muretto."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Frittierter Fisch direkt am Hafen von Alassio."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Rántott halételek közvetlenül az alassiói kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Pește prăjit direct în portul din Alassio."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Fried mixed seafood directly at the Alassio harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Moglio",
+            "tip": "Ein kleines Bergdorf oberhalb von Alassio.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Moglio kilátópont",
+            "tip": "Egy kis hegyi falu Alassio felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Moglio",
+            "tip": "Un sat mic de munte deasupra orașului Alassio.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Moglio Viewpoint",
+            "tip": "A small mountain village above Alassio.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentrum von Albenga",
+            "tip": "Spezialitätenläden für ligurische Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Albenga központja",
+            "tip": "Liguriai borokat kínáló szaküzletek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul din Albenga",
+            "tip": "Magazine specializate în vinuri liguriene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Albenga Center",
+            "tip": "Specialty shops for Ligurian wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken ist im Sommer in Alassio schwierig, nutzen Sie markierte Zonen.",
+          "Die Straße nach Moglio ist eng und kurvig.",
+          "In Albenga ist die ZTL (verkehrsberuhigte Zone) zu beachten.",
+          "Klimaanlage im Auto ist ein Muss im August."
+        ],
+        "hu": [
+          "Nyáron nehéz parkolni Alassióban, használd a kijelölt zónákat.",
+          "A Moglio felé vezető út szűk és kanyargós.",
+          "Albengában figyelj a ZTL (forgalomcsillapított) zónákra.",
+          "Augusztusban kötelező a légkondicionáló az autóban."
+        ],
+        "ro": [
+          "Parcarea este dificilă vara în Alassio, folosiți zonele marcate.",
+          "Drumul spre Moglio este îngust și virajat.",
+          "În Albenga, atenție la zonele ZTL.",
+          "Aerul condiționat în mașină este obligatoriu în august."
+        ],
+        "en": [
+          "Parking is difficult in Alassio in summer, use marked zones.",
+          "The road to Moglio is narrow and winding.",
+          "In Albenga, be careful of the ZTL (restricted traffic zones).",
+          "Air conditioning in the car is a must in August."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Alassio",
+            "hu": "Alassiói vasútállomás",
+            "ro": "Gara din Alassio",
+            "en": "Alassio Train Station"
+          },
+          "coords": [
+            8.171,
+            44.008
+          ],
+          "category": "transit-hub",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler Ausgangspunkt für Busse und Züge.",
+            "hu": "Központi kiindulópont buszokhoz és vonatokhoz.",
+            "ro": "Punct central de plecare pentru autobuze și trenuri.",
+            "en": "Central starting point for buses and trains."
+          }
+        },
+        {
+          "name": {
+            "de": "Muretto di Alassio",
+            "hu": "Alassiói fal (Muretto)",
+            "ro": "Muretto di Alassio",
+            "en": "Muretto di Alassio"
+          },
+          "coords": [
+            8.1731,
+            44.0061
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus leicht zu Fuß erreichbar.",
+            "hu": "Az állomástól könnyen elérhető gyalog.",
+            "ro": "Ușor de ajuns pe jos de la gară.",
+            "en": "Easily accessible by foot from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel Gallinara (Bootstour)",
+            "hu": "Gallinara-sziget (hajótúra)",
+            "ro": "Insula Gallinara (tur cu barca)",
+            "en": "Gallinara Island (Boat Tour)"
+          },
+          "coords": [
+            8.1815,
+            44.0125
+          ],
+          "category": "natural features",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Boote legen im Hafen ab, nutzen Sie den lokalen Shuttle.",
+            "hu": "A hajók a kikötőből indulnak, használd a helyi járatot.",
+            "ro": "Bărcile pleacă din port, folosiți naveta locală.",
+            "en": "Boats depart from the harbor, use the local shuttle."
+          }
+        },
+        {
+          "name": {
+            "de": "Budello di Alassio",
+            "hu": "Budello di Alassio",
+            "ro": "Budello di Alassio",
+            "en": "Budello di Alassio"
+          },
+          "coords": [
+            8.1715,
+            44.0055
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ideal für die Mittagspause mit öffentlichen Verkehrsmitteln.",
+            "hu": "Ideális ebédszünet közösségi közlekedéssel.",
+            "ro": "Ideal pentru pauza de prânz folosind transportul public.",
+            "en": "Ideal for a lunch break using public transit."
+          }
+        },
+        {
+          "name": {
+            "de": "Torrione Saraceno",
+            "hu": "Saracén-torony",
+            "ro": "Turnul Sarazin",
+            "en": "Saracen Tower"
+          },
+          "coords": [
+            8.1755,
+            44.0075
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle ist nur wenige Meter entfernt.",
+            "hu": "A buszmegálló csak pár méterre van.",
+            "ro": "Stația de autobuz este la doar câțiva metri distanță.",
+            "en": "The bus stop is just a few meters away."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den bequemen Nahverkehr und Shuttles, um Alassio stressfrei zu erleben. Starten Sie am Bahnhof, besuchen Sie das Muretto und machen Sie eine Bootstour zur Insel Gallinara. Den Nachmittag verbringen Sie beim Shoppen im Budello und am historischen Sarazenenturm.",
+        "hu": "Használd a kényelmes helyi közlekedést és buszokat, hogy stresszmentesen éld át Alassiót. Kezdj az állomáson, látogasd meg a Murettót, és vegyél részt egy hajótúrán a Gallinara-szigethez. A délutánt vásárlással töltsd a Budellóban és a történelmi Saracén-toronynál.",
+        "ro": "Folosiți transportul local convenabil și navetele pentru a experimenta Alassio fără stres. Începeți de la gară, vizitați Muretto și faceți un tur cu barca spre insula Gallinara. Petreceți după-amiaza la cumpărături în Budello și la turnul istoric sarazin.",
+        "en": "Use the convenient local transport and shuttles to experience Alassio stress-free. Start at the station, visit the Muretto, and take a boat tour to Gallinara Island. Spend the afternoon shopping in the Budello and at the historic Saracen Tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizza al Taglio",
+            "tip": "Schneller Snack in der Nähe der Bushaltestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizza al Taglio",
+            "tip": "Gyors falat a buszmegállók közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizza al Taglio",
+            "tip": "Gustare rapidă lângă stațiile de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizza al Taglio",
+            "tip": "Quick snack near the bus stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Kleine grüne Oase unweit des Bahnhofs.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi park",
+            "tip": "Kis zöld oázis nem messze az állomástól.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului",
+            "tip": "Mică oază verde nu departe de gară.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "Small green oasis not far from the station.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofs-Kiosk",
+            "tip": "Lokale Zeitschriften und Reiseführer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási újságos",
+            "tip": "Helyi újságok és útikalauzok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul din gară",
+            "tip": "Reviste locale și ghiduri turistice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Kiosk",
+            "tip": "Local magazines and travel guides."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets vorab in Tabakläden (Tabaccheria).",
+          "Die Fahrpläne können im Sommer variieren.",
+          "Nutzen Sie den 'RT' Bus für Fahrten entlang der Küste.",
+          "Züge nach Albenga fahren sehr häufig."
+        ],
+        "hu": [
+          "Vedd meg a jegyet előre dohányboltokban (Tabaccheria).",
+          "A menetrendek nyáron változhatnak.",
+          "Használd az 'RT' buszt a parti közlekedéshez.",
+          "Albenga felé nagyon gyakran járnak a vonatok."
+        ],
+        "ro": [
+          "Cumpărați bilete în avans de la chioșcurile de ziare (Tabaccheria).",
+          "Orarele pot varia în timpul verii.",
+          "Folosiți autobuzul 'RT' pentru deplasări de-a lungul coastei.",
+          "Trenurile spre Albenga circulă foarte des."
+        ],
+        "en": [
+          "Buy tickets in advance at tobacco shops (Tabaccheria).",
+          "Schedules may vary in summer.",
+          "Use the 'RT' bus for travel along the coast.",
+          "Trains to Albenga run very frequently."
+        ]
+      }
+    }
+  }
+}

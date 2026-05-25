@@ -1,0 +1,1033 @@
+{
+  "city_id": "madonna-di-campiglio",
+  "anchor": {
+    "name": "Madonna di Campiglio",
+    "coords": [
+      10.8267,
+      46.23
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Righi",
+            "hu": "Piazza Righi",
+            "ro": "Piazza Righi",
+            "en": "Piazza Righi"
+          },
+          "coords": [
+            10.8265,
+            46.2302
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Trinken Sie Ihren Espresso in einer der Bars am Platz.",
+            "hu": "Igyon meg egy eszpresszót a tér egyik bárjában.",
+            "ro": "Savurați un espresso la una dintre cafenelele din piață.",
+            "en": "Enjoy an espresso at one of the bars in the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria Antica",
+            "hu": "Santa Maria Antica templom",
+            "ro": "Biserica Santa Maria Antica",
+            "en": "Santa Maria Antica Church"
+          },
+          "coords": [
+            10.8258,
+            46.2308
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die hölzernen Altäre aus dem 12. Jahrhundert.",
+            "hu": "Csodálja meg a 12. századi faoltárokat.",
+            "ro": "Admirați altarele de lemn din secolul al XII-lea.",
+            "en": "Admire the 12th-century wooden altars."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Spinale Seilbahn",
+            "hu": "Monte Spinale felvonó",
+            "ro": "Telecabina Monte Spinale",
+            "en": "Monte Spinale Cable Car"
+          },
+          "coords": [
+            10.8285,
+            46.23
+          ],
+          "category": "natural features",
+          "arrive_at": "10:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die Aussichtsterrasse bietet das beste Panorama auf die Brenta-Gruppe.",
+            "hu": "A kilátóteraszról nyílik a legjobb panoráma a Brenta-csoportra.",
+            "ro": "Terasa panoramică oferă cea mai bună vedere asupra Brenta.",
+            "en": "The panoramic terrace offers the best view of the Brenta group."
+          }
+        },
+        {
+          "name": {
+            "de": "Canalone Miramonti",
+            "hu": "Canalone Miramonti",
+            "ro": "Canalone Miramonti",
+            "en": "Canalone Miramonti"
+          },
+          "coords": [
+            10.823,
+            46.229
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Dies ist die legendäre Weltcup-Piste der Stadt.",
+            "hu": "Ez a város legendás világkupa-pályája.",
+            "ro": "Aceasta este legendara pârtie de Cupă Mondială a orașului.",
+            "en": "This is the city's legendary World Cup slope."
+          }
+        },
+        {
+          "name": {
+            "de": "Pradalago Seilbahn",
+            "hu": "Pradalago felvonó",
+            "ro": "Telecabina Pradalago",
+            "en": "Pradalago Cable Car"
+          },
+          "coords": [
+            10.825,
+            46.2325
+          ],
+          "category": "natural features",
+          "arrive_at": "14:25",
+          "stay_min": 140,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang zum See oberhalb der Bergstation.",
+            "hu": "Rövid séta a tónál a felső állomás felett.",
+            "ro": "Scurtă plimbare la lacul de deasupra stației de sus.",
+            "en": "Short walk to the lake above the upper station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im lebhaften Zentrum an der Piazza Righi, dem gesellschaftlichen Herzschlag der Stadt. Nach einem Besuch der historischen Kirche Santa Maria Antica geht es hoch hinaus. Die Spinale-Bahn bringt Sie zu atemberaubenden Ausblicken auf die Dolomiten. Der Nachmittag steht im Zeichen der Sportgeschichte am Miramonti-Hang und endet mit einer Panorama-Fahrt zum Pradalago.",
+        "hu": "A nap a nyüzsgő központban, a Piazza Righin kezdődik, amely a város társasági központja. A történelmi Santa Maria Antica templom megtekintése után irány a magaslat. A Spinale felvonó lélegzetelállító kilátást nyújt a Dolomitokra. A délután a sporthistóriáé a Miramonti-lejtőnél, majd egy panorámás utazással zárul a Pradalago felé.",
+        "ro": "Ziua începe în centrul plin de viață din Piazza Righi, inima socială a orașului. După o vizită la biserica istorică Santa Maria Antica, urcați spre înălțimi. Telecabina Spinale vă duce la vederi uluitoare asupra Munților Dolomiți. După-amiaza este dedicată istoriei sportului pe panta Miramonti și se încheie cu o călătorie panoramică spre Pradalago.",
+        "en": "The day begins in the lively center at Piazza Righi, the social heartbeat of the town. After visiting the historic Santa Maria Antica church, head for the heights. The Spinale lift takes you to breathtaking views of the Dolomites. The afternoon is dedicated to sports history at the Miramonti slope and ends with a panoramic trip to Pradalago."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Canederli",
+            "tip": "Knödel mit Speck in Butter und Salbei serviert."
+          },
+          {
+            "name": "Ristorante Belvedere",
+            "tip": "Probieren Sie die Polenta mit Hirschgulasch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Canederli",
+            "tip": "Szalonnás gombóc barna vajjal és zsályával."
+          },
+          {
+            "name": "Ristorante Belvedere",
+            "tip": "Kóstolja meg a polentát szarvaspörkölttel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canederli",
+            "tip": "Găluște cu speck servite în unt și salvie."
+          },
+          {
+            "name": "Ristorante Belvedere",
+            "tip": "Încercați mămăliga cu gulaș de cerb."
+          }
+        ],
+        "en": [
+          {
+            "name": "Canederli",
+            "tip": "Dumplings with speck served in butter and sage."
+          },
+          {
+            "name": "Ristorante Belvedere",
+            "tip": "Try the polenta with venison goulash."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Monte Spinale Plateau",
+            "tip": "Panorama-Ruheplatz abseits der Lifte.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monte Spinale fennsík",
+            "tip": "Panorámás pihenőhely a liftektől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podișul Monte Spinale",
+            "tip": "Loc de odihnă panoramic departe de teleschiuri.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monte Spinale Plateau",
+            "tip": "Panoramic quiet spot away from the lifts.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lorenzetti",
+            "tip": "Hochwertige Sportbekleidung und Mode."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lorenzetti",
+            "tip": "Kiváló minőségű sportruházat és divat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lorenzetti",
+            "tip": "Îmbrăcăminte sport și modă de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lorenzetti",
+            "tip": "High-quality sportswear and fashion."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie die Liftkarte online, um Warteschlangen zu vermeiden.",
+          "Tragen Sie auch im Sommer feste Wanderschuhe für das Kopfsteinpflaster im Zentrum."
+        ],
+        "hu": [
+          "Vásárolja meg a felvonójegyet online a sorban állás elkerülése érdekében.",
+          "Nyáron is viseljen kényelmes túracipőt a központ macskaköves utcáihoz."
+        ],
+        "ro": [
+          "Cumpărați biletul de teleschi online pentru a evita coada.",
+          "Purtați încălțăminte de drumeție chiar și vara pentru pavajul din centru."
+        ],
+        "en": [
+          "Buy the lift ticket online to avoid queues.",
+          "Wear sturdy hiking shoes even in summer for the cobblestones in the center."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Righi",
+            "hu": "Piazza Righi",
+            "ro": "Piazza Righi",
+            "en": "Piazza Righi"
+          },
+          "coords": [
+            10.8265,
+            46.2302
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Mieten Sie hier Ihr E-MTB für die Tour.",
+            "hu": "Bérelje ki itt az E-MTB-t a túrához.",
+            "ro": "Închiriați un E-MTB aici pentru tur.",
+            "en": "Rent your E-MTB here for the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Vallesinella-Wasserfälle",
+            "hu": "Vallesinella-vízesések",
+            "ro": "Cascadele Vallesinella",
+            "en": "Vallesinella Waterfalls"
+          },
+          "coords": [
+            10.855,
+            46.205
+          ],
+          "category": "natural features",
+          "arrive_at": "10:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Stellen Sie das Rad am Parkplatz ab und wandern Sie zu den Kaskaden.",
+            "hu": "Hagyja a biciklit a parkolóban, és sétáljon el a vízesésekhez.",
+            "ro": "Lăsați bicicleta în parcare și mergeți la cascade.",
+            "en": "Park the bike and walk to the cascades."
+          }
+        },
+        {
+          "name": {
+            "de": "Lago Nambino",
+            "hu": "Nambino-tó",
+            "ro": "Lacul Nambino",
+            "en": "Lago Nambino"
+          },
+          "coords": [
+            10.805,
+            46.245
+          ],
+          "category": "natural features",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Der Weg zum See ist steil, ein E-Bike ist sehr empfehlenswert.",
+            "hu": "A tóhoz vezető út meredek, az e-bike erősen ajánlott.",
+            "ro": "Drumul spre lac este abrupt, un e-bike este recomandat.",
+            "en": "The path to the lake is steep, an e-bike is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Pradalago",
+            "hu": "Pradalago",
+            "ro": "Pradalago",
+            "en": "Pradalago"
+          },
+          "coords": [
+            10.803,
+            46.235
+          ],
+          "category": "natural features",
+          "arrive_at": "14:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Gießen Sie Ihre Beine im kalten Bergsee ab.",
+            "hu": "Mártsa meg a lábát a hideg hegyi tóban.",
+            "ro": "Răcoriți-vă picioarele în lacul rece de munte.",
+            "en": "Cool your legs in the cold mountain lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Canalone Miramonti",
+            "hu": "Canalone Miramonti",
+            "ro": "Canalone Miramonti",
+            "en": "Canalone Miramonti"
+          },
+          "coords": [
+            10.823,
+            46.229
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Letzter Fotostopp vor der Rückkehr ins Zentrum.",
+            "hu": "Utolsó fotómegálló a központba való visszatérés előtt.",
+            "ro": "Ultima oprire foto înainte de întoarcerea în centru.",
+            "en": "Last photo stop before returning to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Bergwelt rund um Madonna di Campiglio auf zwei Rädern. Starten Sie im Zentrum und radeln Sie durch dichte Nadelwälder zu den beeindruckenden Vallesinella-Wasserfällen. Nach einem schweißtreibenden Anstieg zum kristallklaren Lago Nambino genießen Sie eine wohlverdiente Pause. Die Abfahrt führt Sie über Pradalago und die Miramonti-Piste zurück in den Ort.",
+        "hu": "Fedezze fel Madonna di Campiglio környékét két keréken. Induljon a központból, és tekerjen át a sűrű fenyőerdőkön a lenyűgöző Vallesinella-vízesésekhez. A kristálytiszta Nambino-tóhoz vezető izzasztó emelkedő után élvezze a megérdemelt pihenőt. A lejtmenet a Pradalago-n és a Miramonti-pályán keresztül vezet vissza a faluba.",
+        "ro": "Explorați împrejurimile orașului Madonna di Campiglio pe două roți. Porniți din centru și pedalați prin păduri dese de conifere până la impresionantele cascade Vallesinella. După o urcare solicitantă către lacul cristalin Nambino, bucurați-vă de o pauză binemeritată. Coborârea vă poartă prin Pradalago și pârtia Miramonti înapoi în localitate.",
+        "en": "Explore the mountain world around Madonna di Campiglio on two wheels. Start in the center and cycle through dense coniferous forests to the impressive Vallesinella waterfalls. After a sweaty climb to the crystal-clear Lake Nambino, enjoy a well-deserved break. The descent takes you via Pradalago and the Miramonti slope back into town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rifugio Lago Nambino",
+            "tip": "Hausgemachte Pasta mit Pilzen der Saison."
+          },
+          {
+            "name": "Spressa delle Giudicarie",
+            "tip": "Lokaler fettarmer Käse, ideal zum Wandern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rifugio Lago Nambino",
+            "tip": "Házias tészta szezonális gombával."
+          },
+          {
+            "name": "Spressa delle Giudicarie",
+            "tip": "Helyi zsírszegény sajt, ideális túrázáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rifugio Lago Nambino",
+            "tip": "Paste de casă cu ciuperci de sezon."
+          },
+          {
+            "name": "Spressa delle Giudicarie",
+            "tip": "Brânză locală slabă, ideală pentru drumeții."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rifugio Lago Nambino",
+            "tip": "Homemade pasta with seasonal mushrooms."
+          },
+          {
+            "name": "Spressa delle Giudicarie",
+            "tip": "Local low-fat cheese, ideal for hiking."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cascata di Sotto",
+            "tip": "Ruhigerer Teil der Vallesinella-Fälle.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cascata di Sotto",
+            "tip": "A Vallesinella-vízesés csendesebb része.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cascata di Sotto",
+            "tip": "Partea mai liniștită a cascadelor Vallesinella.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cascata di Sotto",
+            "tip": "Quieter part of the Vallesinella falls.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hönig und Bergkräuter",
+            "tip": "In den kleinen Läden an der Piazza."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Méz és hegyi gyógynövények",
+            "tip": "A Piazza körüli kisboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere și ierburi de munte",
+            "tip": "În micile magazine de lângă Piazza."
+          }
+        ],
+        "en": [
+          {
+            "name": "Honey and Alpine Herbs",
+            "tip": "In the small shops around the Piazza."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Akkuladestand Ihres E-Bikes vor dem Anstieg zum Nambino.",
+          "In den Bergen kann das Wetter schnell umschlagen, nehmen Sie eine Regenjacke mit."
+        ],
+        "hu": [
+          "Ellenőrizze az e-bike akkumulátorát a Nambino-tó előtti emelkedőnél.",
+          "A hegyekben az időjárás gyorsan változhat, vigyen magával esőkabátot."
+        ],
+        "ro": [
+          "Verificați nivelul bateriei e-bike-ului înainte de urcarea spre Nambino.",
+          "Vremea se poate schimba rapid în munți, luați o jachetă de ploaie."
+        ],
+        "en": [
+          "Check your e-bike battery level before the climb to Nambino.",
+          "Weather can change quickly in the mountains, bring a rain jacket."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 42.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Val di Genova",
+            "hu": "Val di Genova",
+            "ro": "Val di Genova",
+            "en": "Val di Genova"
+          },
+          "coords": [
+            10.72,
+            46.165
+          ],
+          "category": "natural features",
+          "arrive_at": "09:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Nardis-Wasserfälle am Taleingang.",
+            "hu": "Látogassa meg a Nardis-vízesést a völgy bejáratánál.",
+            "ro": "Vizitați cascadele Nardis la intrarea în vale.",
+            "en": "Visit the Nardis waterfalls at the valley entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Vallesinella",
+            "hu": "Vallesinella",
+            "ro": "Vallesinella",
+            "en": "Vallesinella"
+          },
+          "coords": [
+            10.855,
+            46.205
+          ],
+          "category": "natural features",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Der Parkplatz ist im Sommer oft begrenzt, kommen Sie früh.",
+            "hu": "A parkoló nyáron gyakran telített, érkezzen korán.",
+            "ro": "Parcarea este adesea limitată vara, veniți devreme.",
+            "en": "Parking is often limited in summer, arrive early."
+          }
+        },
+        {
+          "name": {
+            "de": "Grostè Seilbahn",
+            "hu": "Grostè felvonó",
+            "ro": "Telecabina Grostè",
+            "en": "Grostè Cable Car"
+          },
+          "coords": [
+            10.835,
+            46.242
+          ],
+          "category": "natural features",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Die Bergstation liegt auf über 2400 Metern in einer bizarren Mondlandschaft.",
+            "hu": "A felső állomás 2400 méter felett található, bizarr holdbéli tájon.",
+            "ro": "Stația de sus se află la peste 2400 de metri, într-un peisaj selenar.",
+            "en": "The upper station is at over 2400 meters in a bizarre lunar landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Righi",
+            "hu": "Piazza Righi",
+            "ro": "Piazza Righi",
+            "en": "Piazza Righi"
+          },
+          "coords": [
+            10.8265,
+            46.2302
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie im unterirdischen Parkplatz direkt unter dem Zentrum.",
+            "hu": "Parkoljon a közvetlenül a központ alatti mélygarázsban.",
+            "ro": "Parcați în parcarea subterană chiar sub centru.",
+            "en": "Park in the underground parking lot right under the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria Antica",
+            "hu": "Santa Maria Antica templom",
+            "ro": "Biserica Santa Maria Antica",
+            "en": "Santa Maria Antica Church"
+          },
+          "coords": [
+            10.8258,
+            46.2308
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss für den kulturellen Aspekt der Reise.",
+            "hu": "Szép lezárása az utazás kulturális részének.",
+            "ro": "Un final frumos pentru aspectul cultural al călătoriei.",
+            "en": "A nice conclusion to the cultural aspect of the trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour führt Sie in die tiefsten Täler und zu den höchsten Pässen. Beginnen Sie im Val di Genova, dem \"Tal der Wasserfälle\". Danach geht es zurück nach Vallesinella, bevor Sie die Grostè-Bahn besteigen, um die alpine Wüste der Brenta-Dolomiten zu erleben. Der Tag endet gemütlich im Ortskern von Madonna di Campiglio.",
+        "hu": "Ez az autós túra a legmélyebb völgyekbe és a legmagasabb hágókhoz vezet. Kezdje a Val di Genova-ban, a vízesések völgyében. Ezután térjen vissza Vallesinella-ba, mielőtt felszállna a Grostè felvonóra, hogy megtapasztalja a Brenta-Dolomitok alpesi sivatagát. A nap kellemesen zárul Madonna di Campiglio központjában.",
+        "ro": "Acest tur cu mașina vă duce în cele mai adânci văi și pe cele mai înalte trecători. Începeți în Val di Genova, valea cascadelor. Apoi reveniți în Vallesinella înainte de a urca cu telecabina Grostè pentru a experimenta deșertul alpin al Dolomiților Brenta. Ziua se încheie plăcut în centrul localității Madonna di Campiglio.",
+        "en": "This car tour takes you into the deepest valleys and to the highest passes. Begin in Val di Genova, the \"valley of waterfalls\". Then return to Vallesinella before boarding the Grostè lift to experience the alpine desert of the Brenta Dolomites. The day ends pleasantly in the center of Madonna di Campiglio."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chalet Fiat",
+            "tip": "Gourmet-Mittagessen auf dem Grostè-Gipfel."
+          },
+          {
+            "name": "Strudel di mele",
+            "tip": "Probieren Sie den hausgemachten Apfelstrudel der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chalet Fiat",
+            "tip": "Gourmet ebéd a Grostè csúcsán."
+          },
+          {
+            "name": "Strudel di mele",
+            "tip": "Kóstolja meg a régió házi almás rétesét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chalet Fiat",
+            "tip": "Prânz gourmet pe vârful Grostè."
+          },
+          {
+            "name": "Strudel di mele",
+            "tip": "Încercați ștrudelul de mere de casă al regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chalet Fiat",
+            "tip": "Gourmet lunch at the Grostè summit."
+          },
+          {
+            "name": "Strudel di mele",
+            "tip": "Try the region's homemade apple strudel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Val di Genova",
+            "tip": "Abseits der Nardis-Fälle wird es im Tal sehr ruhig.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Val di Genova",
+            "tip": "A Nardis-vízeséstől távolabb a völgy nagyon csendes.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Val di Genova",
+            "tip": "Departe de cascadele Nardis, valea devine foarte liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Val di Genova",
+            "tip": "Away from the Nardis falls, the valley becomes very quiet.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Artigianato",
+            "tip": "Holzschnitzereien und lokale Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Artigianato",
+            "tip": "Fafaragások és helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Artigianato",
+            "tip": "Sculpturi în lemn și meșteșuguri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Artigianato",
+            "tip": "Wood carvings and local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße ins Val di Genova ist im Sommer mautpflichtig.",
+          "Achten Sie auf die engen Kurven auf dem Weg nach Vallesinella."
+        ],
+        "hu": [
+          "A Val di Genova-ba vezető út nyáron útdíjköteles.",
+          "Ügyeljen a szűk kanyarokra a Vallesinella felé vezető úton."
+        ],
+        "ro": [
+          "Drumul spre Val di Genova este cu taxă în timpul verii.",
+          "Atenție la curbele strânse de pe drumul spre Vallesinella."
+        ],
+        "en": [
+          "The road to Val di Genova is a toll road in summer.",
+          "Watch out for the tight curves on the road to Vallesinella."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Grostè Seilbahn",
+            "hu": "Grostè felvonó",
+            "ro": "Telecabina Grostè",
+            "en": "Grostè Cable Car"
+          },
+          "coords": [
+            10.835,
+            46.242
+          ],
+          "category": "natural features",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Shuttle-Bus vom Zentrum zur Talstation.",
+            "hu": "Használja a transzferbuszt a központból az alsó állomásig.",
+            "ro": "Utilizați autobuzul de transfer din centru până la stația de jos.",
+            "en": "Use the shuttle bus from the center to the base station."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Spinale",
+            "hu": "Monte Spinale",
+            "ro": "Monte Spinale",
+            "en": "Monte Spinale"
+          },
+          "coords": [
+            10.851,
+            46.226
+          ],
+          "category": "natural features",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Presanella-Gruppe im Westen.",
+            "hu": "Élvezze a kilátást nyugatra a Presanella-csoportra.",
+            "ro": "Bucurați-vă de vederea spre grupul Presanella la vest.",
+            "en": "Enjoy the view of the Presanella group to the west."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Righi",
+            "hu": "Piazza Righi",
+            "ro": "Piazza Righi",
+            "en": "Piazza Righi"
+          },
+          "coords": [
+            10.8265,
+            46.2302
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentraler Umsteigepunkt für alle Buslinien.",
+            "hu": "Központi átszállási pont minden buszjárat számára.",
+            "ro": "Punct central de transfer pentru toate liniile de autobuz.",
+            "en": "Central transfer point for all bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria Antica",
+            "hu": "Santa Maria Antica templom",
+            "ro": "Biserica Santa Maria Antica",
+            "en": "Santa Maria Antica Church"
+          },
+          "coords": [
+            10.8258,
+            46.2308
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
+            "hu": "Csak egy rövid séta a buszmegállótól.",
+            "ro": "La doar o scurtă plimbare de stația de autobuz.",
+            "en": "Just a short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Vallesinella",
+            "hu": "Vallesinella",
+            "ro": "Vallesinella",
+            "en": "Vallesinella"
+          },
+          "coords": [
+            10.855,
+            46.205
+          ],
+          "category": "natural features",
+          "arrive_at": "15:20",
+          "stay_min": 85,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Der Park-Bus verkehrt regelmäßig zwischen dem Zentrum und Vallesinella.",
+            "hu": "A park-busz rendszeresen közlekedik a központ és Vallesinella között.",
+            "ro": "Autobuzul parcului circulă regulat între centru și Vallesinella.",
+            "en": "The park bus runs regularly between the center and Vallesinella."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem effizienten Shuttle-System und den Bergbahnen erleben Sie Madonna di Campiglio stressfrei. Starten Sie hoch oben am Grostè-Pass, wandern Sie zum Monte Spinale und nutzen Sie die Busse, um zurück ins kulturelle Herz der Stadt zu gelangen. Der Tag gipfelt in einem entspannten Besuch der Vallesinella-Fälle, bequem erreichbar mit dem Park-Shuttle.",
+        "hu": "A hatékony transzferrendszerrel és a felvonókkal stresszmentesen fedezheti fel Madonna di Campiglio-t. Kezdje magasan a Grostè-hágónál, túrázzon a Monte Spinale-hez, majd busszal térjen vissza a város kulturális szívébe. A nap a Vallesinella-vízesések megtekintésével zárul, amely kényelmesen elérhető a parki transzferrel.",
+        "ro": "Cu sistemul eficient de transfer și telecabinele, experimentați Madonna di Campiglio fără stres. Începeți sus în pasul Grostè, mergeți pe jos la Monte Spinale și folosiți autobuzele pentru a reveni în inima culturală a orașului. Ziua culminează cu o vizită relaxată la cascadele Vallesinella, ușor accesibile cu autobuzul parcului.",
+        "en": "With the efficient shuttle system and mountain lifts, you can experience Madonna di Campiglio stress-free. Start high up at the Grostè Pass, hike to Monte Spinale, and use the buses to get back to the cultural heart of the town. The day culminates in a relaxed visit to the Vallesinella falls, easily accessible by the park shuttle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar Suisse",
+            "tip": "Traditionsreiches Café an der Piazza Righi."
+          },
+          {
+            "name": "Grappa al pino mugo",
+            "tip": "Lokaler Grappa mit Latschenkiefer-Aroma."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar Suisse",
+            "tip": "Hagyományőrző kávézó a Piazza Righin."
+          },
+          {
+            "name": "Grappa al pino mugo",
+            "tip": "Helyi grappa törpefenyő aromával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar Suisse",
+            "tip": "Cafenea tradițională în Piazza Righi."
+          },
+          {
+            "name": "Grappa al pino mugo",
+            "tip": "Grappa locală cu aromă de jneapăn."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar Suisse",
+            "tip": "Traditional café in Piazza Righi."
+          },
+          {
+            "name": "Grappa al pino mugo",
+            "tip": "Local grappa with mountain pine aroma."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Terrasse der Bergstation",
+            "tip": "Sonniger Ruheplatz mit Dolomiten-Blick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A hegyi állomás terasza",
+            "tip": "Napsütötte pihenőhely kilátással a Dolomitokra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terasa stației de sus",
+            "tip": "Loc de odihnă însorit cu vedere la Dolomiți.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mountain Station Terrace",
+            "tip": "Sunny quiet spot with a view of the Dolomites.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Frische Produkte aus dem Trentino (saisonal)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss termékek Trentinóból (szezonális)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Produse proaspete din Trentino (sezonier)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Fresh products from Trentino (seasonal)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Holen Sie sich die DoloMeetCard für kostenlose Nutzung der Busse und Lifte.",
+          "Die Fahrpläne der Shuttle-Busse variieren je nach Saison."
+        ],
+        "hu": [
+          "Szerezze be a DoloMeetCard-ot a buszok és felvonók ingyenes használatához.",
+          "A transzferbuszok menetrendje szezontól függően változik."
+        ],
+        "ro": [
+          "Obțineți DoloMeetCard pentru utilizarea gratuită a autobuzelor și telecabinelor.",
+          "Orarele autobuzelor de transfer variază în funcție de sezon."
+        ],
+        "en": [
+          "Get the DoloMeetCard for free use of buses and lifts.",
+          "Shuttle bus schedules vary depending on the season."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-32",
+    "lon": 10.8267,
+    "lat": 46.23,
+    "transit_official": "https://www.trentinotrasporti.it/en",
+    "transit_app": "https://www.trentinotrasporti.it/en",
+    "bike_share": null,
+    "city_card": "https://www.campigliodolomiti.it/en/dolomeet-guest-card",
+    "events": "https://www.campigliodolomiti.it/en/events",
+    "tourism_office": "https://www.campigliodolomiti.it/en",
+    "webcam": "https://www.campigliodolomiti.it/en/webcam",
+    "restaurants_booking": null,
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Skigebiet sehr deutsch-freundlich, Liftpersonal spricht Deutsch.",
+      "hu": "Sipalya nemet turistakedvenc, sokan beszelnek nemetul.",
+      "ro": "Statiune frecventata de germani, personalul vorbeste germana.",
+      "en": "Ski resort popular with Germans, staff speaks German."
+    },
+    "best_time": {
+      "de": "Dezember-April Ski, Juli-September Wandern.",
+      "hu": "December-aprilis sieles, julius-szeptember turazas.",
+      "ro": "Decembrie-aprilie ski, iulie-septembrie drumetii.",
+      "en": "December-April for skiing, July-September hiking."
+    },
+    "warnings": {
+      "de": "Hochsaison Weihnachten/Februar teuer, fruh buchen.",
+      "hu": "Karacsony es februar draga csucsszezon, foglalj korai.",
+      "ro": "Sezon de varf Craciun/februarie scump, rezerva devreme.",
+      "en": "Peak Christmas/February pricey, book early."
+    }
+  }
+}

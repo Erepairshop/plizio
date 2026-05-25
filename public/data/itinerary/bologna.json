@@ -1,0 +1,1108 @@
+{
+  "city_id": "bologna",
+  "anchor": {
+    "name": "Bologna Centro",
+    "coords": [
+      11.3426,
+      44.4949
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Piazza Maggiore",
+          "coords": [
+            11.343,
+            44.4938
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Espresso in einem der historischen Cafés am Platz.",
+            "hu": "Igyál egy eszpresszót a tér egyik történelmi kávézójában.",
+            "ro": "Savurați un espresso la una dintre cafenelele istorice din piață.",
+            "en": "Enjoy an espresso at one of the historic cafes in the square."
+          }
+        },
+        {
+          "name": "Fontana del Nettuno",
+          "coords": [
+            11.343,
+            44.4942
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die optische Täuschung von Giambologna.",
+            "hu": "Figyeld meg a Giambologna-féle optikai csalódást.",
+            "ro": "Observați iluzia optică creată de Giambologna.",
+            "en": "Look for the famous optical illusion by Giambologna."
+          }
+        },
+        {
+          "name": "Basilica di San Petronio",
+          "coords": [
+            11.3431,
+            44.4933
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Suchen Sie die längste Meridianlinie der Welt im Inneren.",
+            "hu": "Keresd meg a világ leghosszabb délvonalát a templomban.",
+            "ro": "Căutați cea mai lungă linie meridiană din lume în interior.",
+            "en": "Find the world's longest meridian line inside the basilica."
+          }
+        },
+        {
+          "name": "Archiginnasio di Bologna",
+          "coords": [
+            11.3435,
+            44.4927
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Anatomische Theater aus dem 17. Jahrhundert.",
+            "hu": "Látogasd meg a 17. századi anatómiai színházat.",
+            "ro": "Vizitați Teatrul Anatomic din secolul al XVII-lea.",
+            "en": "Visit the 17th-century Anatomical Theatre inside."
+          }
+        },
+        {
+          "name": "Basilica di Santo Stefano",
+          "coords": [
+            11.3484,
+            44.4923
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bekannt als Sette Chiese (Sieben Kirchen), ein Labyrinth des Friedens.",
+            "hu": "Hét templom néven is ismert, a nyugalom labirintusa.",
+            "ro": "Cunoscut sub numele de Sette Chiese, un labirint al liniștii.",
+            "en": "Known as the Sette Chiese, a labyrinth of interconnected chapels."
+          }
+        },
+        {
+          "name": "Le Due Torri",
+          "coords": [
+            11.3468,
+            44.4944
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Reservieren Sie Tickets für den Asinelli-Turm im Voraus.",
+            "hu": "Foglald le előre a jegyedet az Asinelli-toronyba.",
+            "ro": "Rezervați biletele pentru Turnul Asinelli în avans.",
+            "en": "Book tickets for the Asinelli Tower well in advance online."
+          }
+        },
+        {
+          "name": "Finestrella di Via Piella",
+          "coords": [
+            11.3444,
+            44.4988
+          ],
+          "category": "natural features",
+          "arrive_at": "15:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das kleine Fenster zeigt das verborgene Venedig von Bologna.",
+            "hu": "A kis ablak Bologna rejtett Velencéjét mutatja meg.",
+            "ro": "Fereastra mică dezvăluie Veneția ascunsă a Bolognei.",
+            "en": "This tiny window reveals the hidden Venice of Bologna."
+          }
+        },
+        {
+          "name": "Pinacoteca Nazionale",
+          "coords": [
+            11.3534,
+            44.4981
+          ],
+          "category": "museums",
+          "arrive_at": "16:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie Meisterwerke von Raffael und Giotto.",
+            "hu": "Csodáld meg Raffaello és Giotto mesterműveit.",
+            "ro": "Admirați capodoperele lui Rafael și Giotto.",
+            "en": "Admire the masterpieces by Raphael and Giotto."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Bologna auf der Piazza Maggiore, umgeben von Renaissance-Palästen. Besuchen Sie das beeindruckende Anatomische Theater im Archiginnasio, bevor Sie in die mittelalterlichen Gassen des Quadrilatero eintauchen. Nachmittags fordern Sie sich mit dem Aufstieg auf die schiefen Türme heraus und entdecken die versteckten Kanäle. Der Abend klingt bei handgemachter Pasta in einer traditionellen Osteria perfekt aus.",
+        "hu": "Kezdje a napot Bologna szívében, a Piazza Maggiore téren, reneszánsz paloták gyűrűjében. Látogassa meg az Archiginnasio lenyűgöző anatómiai színházát, majd merüljön el a Quadrilatero középkori sikátoraiban. Délután hívja ki magát a ferde tornyok megmászásával, és fedezze fel a város rejtett csatornáit. Az estét koronázza meg egy tál friss, kézzel gyúrt tésztával egy hagyományos ostériában.",
+        "ro": "Începeți ziua în inima Bolognei, în Piazza Maggiore, înconjurată de palate renascentiste. Vizitați impresionantul Teatru Anatomic de la Archiginnasio, apoi pierdeți-vă pe străduțele medievale din Quadrilatero. După-amiaza, provocați-vă cu urcarea în turnurile înclinate și descoperiți canalele ascunse ale orașului. Seara se încheie perfect cu o porție de paste proaspete într-o osteria tradițională.",
+        "en": "Start your day in the heart of Bologna at Piazza Maggiore, surrounded by grand Renaissance palaces. Visit the stunning Anatomical Theatre at the Archiginnasio before diving into the medieval alleys of the Quadrilatero. In the afternoon, challenge yourself with a climb up the leaning towers and discover the city's hidden canals. The evening ends perfectly with handmade pasta in a traditional local osteria."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tagliatelle al Ragù",
+            "tip": "Probieren Sie das Original bei Tamburini."
+          },
+          {
+            "name": "Tortellini in Brodo",
+            "tip": "Ein Klassiker der emilianischen Küche."
+          },
+          {
+            "name": "Mortadella di Bologna",
+            "tip": "Hauchdünn aufgeschnitten im Mercato di Mezzo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tagliatelle al Ragù",
+            "tip": "Kóstolja meg az eredetit a Tamburiniben."
+          },
+          {
+            "name": "Tortellini in Brodo",
+            "tip": "Az emíliai konyha egyik legfőbb klasszikusa."
+          },
+          {
+            "name": "Mortadella di Bologna",
+            "tip": "Hajszálvékonyra szeletelve a Mercato di Mezzóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tagliatelle al Ragù",
+            "tip": "Gustați originalul la Tamburini."
+          },
+          {
+            "name": "Tortellini in Brodo",
+            "tip": "Un clasic absolut al bucătăriei emiliene."
+          },
+          {
+            "name": "Mortadella di Bologna",
+            "tip": "Feliată fin în Mercato di Mezzo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tagliatelle al Ragù",
+            "tip": "Try the authentic version at Tamburini."
+          },
+          {
+            "name": "Tortellini in Brodo",
+            "tip": "The ultimate classic of Emilian cuisine."
+          },
+          {
+            "name": "Mortadella di Bologna",
+            "tip": "Sliced paper-thin at Mercato di Mezzo."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Santuario di Santo Stefano",
+            "tip": "Stille Kreuzgänge im Kirchenkomplex.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Giardini Margherita",
+            "tip": "Der größte Stadtpark für eine Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Santuario di Santo Stefano",
+            "tip": "Csendes kerengők a templomkomplexumban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Giardini Margherita",
+            "tip": "A legnagyobb városi park egy kis pihenőhöz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Santuario di Santo Stefano",
+            "tip": "Clasutre liniștite în complexul de biserici.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Giardini Margherita",
+            "tip": "Cel mai mare parc urban pentru o pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Santuario di Santo Stefano",
+            "tip": "Quiet cloisters within the church complex.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Giardini Margherita",
+            "tip": "The largest city park for a peaceful break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Quadrilatero",
+            "tip": "Historisches Viertel mit Delikatessenläden."
+          },
+          {
+            "name": "Via dell'Indipendenza",
+            "tip": "Die Haupteinkaufsstraße unter Arkaden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quadrilatero",
+            "tip": "Történelmi negyed tele delikáteszboltokkal."
+          },
+          {
+            "name": "Via dell'Indipendenza",
+            "tip": "A fő bevásárlóutca az árkádok alatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Quadrilatero",
+            "tip": "Cartier istoric cu magazine de delicatese."
+          },
+          {
+            "name": "Via dell'Indipendenza",
+            "tip": "Principala stradă comercială sub arcade."
+          }
+        ],
+        "en": [
+          {
+            "name": "Quadrilatero",
+            "tip": "Historic district filled with food boutiques."
+          },
+          {
+            "name": "Via dell'Indipendenza",
+            "tip": "The main shopping street under the porticoes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bologna hat fast 40 km Arkaden, ideal bei Regen oder Hitze.",
+          "Die Stadt ist flach und kompakt, perfekt zum Zu-Fuß-Gehen.",
+          "Achten Sie in Kirchen auf angemessene Kleidung.",
+          "Die meisten Museen sind montags geschlossen."
+        ],
+        "hu": [
+          "Bologna közel 40 km-nyi árkáddal rendelkezik, ideális esőben vagy hőségben.",
+          "A város sík és kompakt, tökéletesen bejárható gyalog.",
+          "A templomokban figyeljen a megfelelő öltözékre.",
+          "A legtöbb múzeum hétfőn zárva tart."
+        ],
+        "ro": [
+          "Bologna are aproape 40 km de arcade, ideale pe ploaie sau caniculă.",
+          "Orașul este plat și compact, perfect pentru explorat la pas.",
+          "Respectați codul vestimentar în biserici.",
+          "Majoritatea muzeelor sunt închise lunea."
+        ],
+        "en": [
+          "Bologna has nearly 40km of porticoes, perfect for shade or rain.",
+          "The city center is flat and compact, ideal for walking.",
+          "Ensure respectful attire when visiting churches.",
+          "Most museums are closed on Mondays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piazza Maggiore",
+          "coords": [
+            11.343,
+            44.4938
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "hu": "Parkold le a bringát a kijelölt helyeken.",
+            "de": "Parken Sie das Fahrrad an den markierten Stellen.",
+            "ro": "Parcați bicicleta în locurile special amenajate.",
+            "en": "Park your bike in designated areas only."
+          }
+        },
+        {
+          "name": "MAMbo",
+          "coords": [
+            11.3392,
+            44.502
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "hu": "Modern művészet egy egykori pékségben.",
+            "de": "Moderne Kunst in einer ehemaligen Bäckerei.",
+            "ro": "Artă modernă într-o fostă brutărie.",
+            "en": "Modern art housed in a former bakery."
+          }
+        },
+        {
+          "name": "Finestrella di Via Piella",
+          "coords": [
+            11.3444,
+            44.4988
+          ],
+          "category": "natural features",
+          "arrive_at": "11:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "hu": "Gyors fotómegálló a csatornánál.",
+            "de": "Schneller Fotostopp am Kanal.",
+            "ro": "O scurtă oprire pentru poze la canal.",
+            "en": "A quick photo stop by the canal."
+          }
+        },
+        {
+          "name": "Le Due Torri",
+          "coords": [
+            11.3468,
+            44.4944
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "hu": "A tornyok tövében sok a kerékpár.",
+            "de": "Viele Fahrräder am Fuße der Türme.",
+            "ro": "Multe biciclete la baza turnurilor.",
+            "en": "Many bikes are usually parked here."
+          }
+        },
+        {
+          "name": "Basilica di Santo Stefano",
+          "coords": [
+            11.3484,
+            44.4923
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "hu": "Pihenj meg a hangulatos téren.",
+            "de": "Rasten Sie auf dem gemütlichen Platz.",
+            "ro": "Odihniți-vă în piața primitoare.",
+            "en": "Rest in the welcoming square."
+          }
+        },
+        {
+          "name": "Santuario di San Luca",
+          "coords": [
+            11.2978,
+            44.4791
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "hu": "Kemény hegymenet, de a kilátás megéri.",
+            "de": "Harter Aufstieg, aber die Aussicht lohnt sich.",
+            "ro": "Urcare grea, dar priveliștea merită.",
+            "en": "Tough climb, but the view is rewarding."
+          }
+        },
+        {
+          "name": "Archiginnasio di Bologna",
+          "coords": [
+            11.3435,
+            44.4927
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "hu": "Vissza a belvárosba a zárás előtt.",
+            "de": "Zurück ins Zentrum vor der Schließung.",
+            "ro": "Înapoi în centru înainte de închidere.",
+            "en": "Back to the center before closing time."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "hu": "Fedezze fel Bolognát kerékpáron, érintve a modern művészeteket a MAMbo-ban és a középkori csodákat a belvárosban. A túra csúcspontja a San Luca szentélyhez vezető ikonikus árkádsor alatti tekerés, ahonnan fentről belátható az egész régió. Estére guruljon vissza a nyüzsgő terekre egy frissítő italra.",
+        "de": "Erkunden Sie Bologna mit dem Fahrrad, von der modernen Kunst im MAMbo bis zu den mittelalterlichen Wundern im Zentrum. Der Höhepunkt ist die Fahrt unter den ikonischen Arkaden hinauf zum San Luca Sanktuarium, das einen Panoramablick über die Region bietet. Radeln Sie am Abend zurück zu den belebten Plätzen für ein Erfrischungsgetränk.",
+        "ro": "Explorați Bologna pe bicicletă, de la arta modernă de la MAMbo la minunile medievale din centru. Punctul culminant este pedalarea sub arcadele iconice până la Sanctuarul San Luca, care oferă o panoramă superbă. Seara, reveniți în piețele pline de viață pentru o băutură răcoritoare.",
+        "en": "Explore Bologna by bike, covering everything from modern art at MAMbo to medieval wonders in the center. The highlight is the ride under the iconic porticoes up to the San Luca Sanctuary for a panoramic view. Roll back to the lively squares in the evening for a well-deserved refreshing drink."
+      },
+      "gastro_picks": {
+        "hu": [
+          {
+            "name": "Piadina Romagnola",
+            "tip": "Gyors és finom ebéd útközben."
+          }
+        ],
+        "de": [
+          {
+            "name": "Piadina Romagnola",
+            "tip": "Schnelles und leckeres Mittagessen für unterwegs."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piadina Romagnola",
+            "tip": "Un prânz rapid și delicios pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piadina Romagnola",
+            "tip": "Quick and tasty lunch on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "hu": [
+          {
+            "name": "Certosa di Bologna",
+            "tip": "Monumentális temető, síri csenddel.",
+            "emoji": "🧘"
+          }
+        ],
+        "de": [
+          {
+            "name": "Certosa di Bologna",
+            "tip": "Monumentaler Friedhof, absolute Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Certosa di Bologna",
+            "tip": "Cimitir monumental, liniște deplină.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Certosa di Bologna",
+            "tip": "Monumental cemetery, peaceful and silent.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "hu": [
+          {
+            "name": "Mercato delle Erbe",
+            "tip": "Helyi piac autentikus hangulattal."
+          }
+        ],
+        "de": [
+          {
+            "name": "Mercato delle Erbe",
+            "tip": "Lokaler Markt mit authentischer Atmosphäre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercato delle Erbe",
+            "tip": "Piață locală cu atmosferă autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercato delle Erbe",
+            "tip": "Local market with an authentic vibe."
+          }
+        ]
+      },
+      "tips": {
+        "hu": [
+          "A legtöbb belvárosi utca egyirányú, de biciklivel sokszor megengedett a szembehaladás.",
+          "Használj erős lakatot, a biciklitolvajlás előfordul.",
+          "Az árkádok alatt tilos kerékpározni, told a gépet."
+        ],
+        "de": [
+          "Die meisten Innenstadtstraßen sind Einbahnstraßen, oft für Räder frei.",
+          "Benutzen Sie ein starkes Schloss, Fahrraddiebstahl kommt vor.",
+          "Unter den Arkaden ist Radfahren verboten, bitte schieben."
+        ],
+        "ro": [
+          "Majoritatea străzilor centrale sunt cu sens unic, dar adesea permise bicicletelor.",
+          "Folosiți un lacăt solid, furtul de biciclete este comun.",
+          "Este interzis mersul pe bicicletă sub arcade, vă rugăm să o împingeți."
+        ],
+        "en": [
+          "Most central streets are one-way, but often allow bikes both ways.",
+          "Use a strong lock, bike theft can happen.",
+          "Riding under porticoes is forbidden; please walk your bike."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piazza Maggiore",
+          "coords": [
+            11.343,
+            44.4938
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "hu": "Parkolj a ZTL zónán kívül.",
+            "de": "Parken Sie außerhalb der ZTL-Zone.",
+            "ro": "Parcați în afara zonei ZTL.",
+            "en": "Park outside the ZTL (restricted zone)."
+          }
+        },
+        {
+          "name": "Basilica di San Petronio",
+          "coords": [
+            11.3431,
+            44.4933
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "hu": "A tér közvetlen közelében van.",
+            "de": "Direkt am Platz gelegen.",
+            "ro": "Situată chiar în piață.",
+            "en": "Located right on the square."
+          }
+        },
+        {
+          "name": "Le Due Torri",
+          "coords": [
+            11.3468,
+            44.4944
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "hu": "A toronyból látni a város határait is.",
+            "de": "Vom Turm aus sieht man bis zur Stadtgrenze.",
+            "ro": "Din turn puteți vedea marginile orașului.",
+            "en": "From the tower, you can see the city limits."
+          }
+        },
+        {
+          "name": "Pinacoteca Nazionale",
+          "coords": [
+            11.3534,
+            44.4981
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "hu": "Könnyebb parkolás az egyetemi negyed szélén.",
+            "de": "Leichteres Parken am Rande des Univiertels.",
+            "ro": "Parcare mai ușoară la marginea cartierului universitar.",
+            "en": "Easier parking on the edge of the university district."
+          }
+        },
+        {
+          "name": "Santuario di San Luca",
+          "coords": [
+            11.2978,
+            44.4791
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "hu": "Az autóval felmenni kényelmes és gyors.",
+            "de": "Die Fahrt nach oben ist bequem und schnell.",
+            "ro": "Urcarea cu mașina este confortabilă și rapidă.",
+            "en": "Driving up is comfortable and fast."
+          }
+        },
+        {
+          "name": "MAMbo",
+          "coords": [
+            11.3392,
+            44.502
+          ],
+          "category": "museums",
+          "arrive_at": "15:55",
+          "stay_min": 65,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "hu": "Parkolóház van a közelben.",
+            "de": "Parkhaus in der Nähe vorhanden.",
+            "ro": "Există o parcare etajată în apropiere.",
+            "en": "There is a parking garage nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "hu": "Autóval kényelmesen felfedezheti Bologna távolabbi pontjait is. Kezdjen a belváros szélén, majd látogassa meg a Nemzeti Galériát. A nap fénypontja a San Luca szentélyhez vezető autós út lesz, ahol a város panorámája tárul Ön elé. Délutánt fejezze be egy látogatással a Modern Művészeti Múzeumban, elkerülve a belvárosi tömeget.",
+        "de": "Mit dem Auto erkunden Sie bequem auch die entfernteren Punkte Bolognas. Beginnen Sie am Rande des Zentrums und besuchen Sie die Nationalgalerie. Der Höhepunkt des Tages ist die Fahrt zum San Luca Sanktuarium mit seinem Stadtpanorama. Beenden Sie den Nachmittag mit einem Besuch im Museum für Moderne Kunst und meiden Sie die Massen im Zentrum.",
+        "ro": "Cu mașina puteți explora confortabil și punctele mai îndepărtate ale Bolognei. Începeți la marginea centrului, apoi vizitați Galeria Națională. Punctul culminant al zilei va fi drumul cu mașina până la Sanctuarul San Luca, unde vi se dezvăluie panorama orașului. Încheiați după-amiaza cu o vizită la Muzeul de Artă Modernă.",
+        "en": "By car, you can comfortably explore Bologna's more distant spots. Start on the edge of the center, then visit the National Gallery. The highlight of the day will be the drive up to the San Luca Sanctuary, offering a full city panorama. Finish your afternoon with a visit to the MAMbo, avoiding the dense crowds of the inner core."
+      },
+      "gastro_picks": {
+        "hu": [
+          {
+            "name": "Cotoletta alla Bolognese",
+            "tip": "Húsos szelet sajttal és sonkával."
+          }
+        ],
+        "de": [
+          {
+            "name": "Cotoletta alla Bolognese",
+            "tip": "Fleischschnitzel mit Käse und Schinken."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cotoletta alla Bolognese",
+            "tip": "Șnițel cu brânză și șuncă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cotoletta alla Bolognese",
+            "tip": "Veal cutlet topped with cheese and ham."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "hu": [
+          {
+            "name": "Colli Bolognesi",
+            "tip": "A várost övező dombok nyugalma.",
+            "emoji": "🌅"
+          }
+        ],
+        "de": [
+          {
+            "name": "Colli Bolognesi",
+            "tip": "Ruhe in den Hügeln rund um die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colli Bolognesi",
+            "tip": "Liniștea dealurilor care înconjoară orașul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Colli Bolognesi",
+            "tip": "Peaceful hills surrounding the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "hu": [
+          {
+            "name": "FICO Eataly World",
+            "tip": "Gasztro-park a város szélén."
+          }
+        ],
+        "de": [
+          {
+            "name": "FICO Eataly World",
+            "tip": "Gastro-Park am Stadtrand."
+          }
+        ],
+        "ro": [
+          {
+            "name": "FICO Eataly World",
+            "tip": "Parc gastronomic la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "FICO Eataly World",
+            "tip": "Gastro-theme park on the city outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "hu": [
+          "Soha ne hajts be a ZTL (korlátozott forgalmú) zónába engedély nélkül.",
+          "Használd a nagy parkolóházakat (pl. Parcheggio VIII Agosto).",
+          "A csúcsforgalom reggel 8 és 9 között erős."
+        ],
+        "de": [
+          "Fahren Sie niemals ohne Erlaubnis in die ZTL-Zone.",
+          "Nutzen Sie große Parkhäuser (z.B. Parcheggio VIII Agosto).",
+          "Berufsverkehr ist zwischen 8 und 9 Uhr morgens stark."
+        ],
+        "ro": [
+          "Nu intrați niciodată în zona ZTL fără autorizație.",
+          "Folosiți parcările mari (ex. Parcheggio VIII Agosto).",
+          "Traficul este intens dimineața între orele 8 și 9."
+        ],
+        "en": [
+          "Never enter the ZTL (restricted zone) without a permit.",
+          "Use large parking garages like Parcheggio VIII Agosto.",
+          "Rush hour is heavy between 8 and 9 AM."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piazza Maggiore",
+          "coords": [
+            11.343,
+            44.4938
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "hu": "A vasútállomástól több busz is idehoz.",
+            "de": "Mehrere Busse vom Bahnhof bringen Sie hierher.",
+            "ro": "Mai multe autobuze de la gară vă aduc aici.",
+            "en": "Several buses from the train station stop here."
+          }
+        },
+        {
+          "name": "Fontana del Nettuno",
+          "coords": [
+            11.343,
+            44.4942
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:05",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "hu": "Gyalogos távolság a tértől.",
+            "de": "Fußläufig vom Platz erreichbar.",
+            "ro": "La distanță de mers pe jos de piață.",
+            "en": "Walking distance from the main square."
+          }
+        },
+        {
+          "name": "Archiginnasio di Bologna",
+          "coords": [
+            11.3435,
+            44.4927
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "hu": "Az árkádok alatt kényelmes a séta.",
+            "de": "Bequem unter den Arkaden zu erreichen.",
+            "ro": "Plimbare confortabilă sub arcade.",
+            "en": "Comfortable walk under the porticoes."
+          }
+        },
+        {
+          "name": "Le Due Torri",
+          "coords": [
+            11.3468,
+            44.4944
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "hu": "Fontos buszcsomópont a tornyoknál.",
+            "de": "Wichtiger Busknotenpunkt bei den Türmen.",
+            "ro": "Nod important de autobuz lângă turnuri.",
+            "en": "Major bus hub located right by the towers."
+          }
+        },
+        {
+          "name": "Santuario di San Luca",
+          "coords": [
+            11.2978,
+            44.4791
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "hu": "Használd a San Luca Express kisvonatot.",
+            "de": "Nutzen Sie den San Luca Express Minizug.",
+            "ro": "Folosiți trenulețul San Luca Express.",
+            "en": "Take the San Luca Express tourist train."
+          }
+        },
+        {
+          "name": "Pinacoteca Nazionale",
+          "coords": [
+            11.3534,
+            44.4981
+          ],
+          "category": "museums",
+          "arrive_at": "15:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "hu": "Buszmegálló közvetlenül az egyetemnél.",
+            "de": "Bushaltestelle direkt an der Uni.",
+            "ro": "Stație de autobuz chiar lângă universitate.",
+            "en": "Bus stop right next to the university."
+          }
+        },
+        {
+          "name": "Finestrella di Via Piella",
+          "coords": [
+            11.3444,
+            44.4988
+          ],
+          "category": "natural features",
+          "arrive_at": "17:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "hu": "Rövid séta a főúttól befelé.",
+            "de": "Kurzer Fußweg von der Hauptstraße.",
+            "ro": "Scurtă plimbare de la strada principală.",
+            "en": "Short walk from the main thoroughfare."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "hu": "Tömegközlekedéssel Bologna kényelmesen felfedezhető. A sűrű buszhálózat összeköti a központot a távolabbi nevezetességekkel. Ne hagyja ki a San Luca Express-t, ami felviszi a dombtetőre! A napot a belváros történelmi falai között zárhatja, ahol minden buszvonal összefut, így könnyű lesz visszajutni a szállásra.",
+        "de": "Mit öffentlichen Verkehrsmitteln lässt sich Bologna bequem erkunden. Das dichte Busnetz verbindet das Zentrum mit ferneren Sehenswürdigkeiten. Verpassen Sie nicht den San Luca Express zum Hügel! Beenden Sie den Tag zwischen den historischen Mauern des Zentrums, wo alle Buslinien zusammenlaufen, was die Rückkehr zur Unterkunft erleichtert.",
+        "ro": "Cu transportul public, Bologna poate fi explorată confortabil. Rețeaua densă de autobuze conectează centrul cu atracțiile mai îndepărtate. Nu ratați San Luca Express, care vă duce pe deal! Încheiați ziua între zidurile istorice ale centrului, unde converg toate liniile de autobuz, facilitând întoarcerea la cazare.",
+        "en": "With public transit, Bologna is easy and comfortable to explore. The dense bus network connects the center with more distant landmarks. Don't miss the San Luca Express tourist train for the hill climb! Finish your day among the historic walls of the center, where all lines converge, making it simple to return to your base."
+      },
+      "gastro_picks": {
+        "hu": [
+          {
+            "name": "Lasagna Verde",
+            "tip": "Spenótos tésztával készített rakottas."
+          }
+        ],
+        "de": [
+          {
+            "name": "Lasagna Verde",
+            "tip": "Lasagne mit grünem Spinatteig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lasagna Verde",
+            "tip": "Lasagna făcută cu foi verzi de spanac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lasagna Verde",
+            "tip": "Traditional lasagna made with green spinach pasta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "hu": [
+          {
+            "name": "Parco Montagnola",
+            "tip": "A vasútállomás közeli park dombja.",
+            "emoji": "🏞️"
+          }
+        ],
+        "de": [
+          {
+            "name": "Parco Montagnola",
+            "tip": "Hügel im Park nahe dem Bahnhof.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco Montagnola",
+            "tip": "Dealul parcului de lângă gară.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco Montagnola",
+            "tip": "Park hill located near the central station.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "hu": [
+          {
+            "name": "Mercato di Mezzo",
+            "tip": "Belvárosi fedett piac sok finomsággal."
+          }
+        ],
+        "de": [
+          {
+            "name": "Mercato di Mezzo",
+            "tip": "Überdachter Markt im Zentrum mit Delikatessen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercato di Mezzo",
+            "tip": "Piață acoperită în centru cu multe delicii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercato di Mezzo",
+            "tip": "Indoor food market in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "hu": [
+          "Vegyél napijegyet, ha többször utazol.",
+          "A jegyeket érvényesíteni kell a buszon.",
+          "Töltsd le a Roger appot a menetrendekhez.",
+          "A jegyeket dohányboltokban (Tabaccheria) is megveheted."
+        ],
+        "de": [
+          "Kaufen Sie ein Tagesticket, wenn Sie mehrmals fahren.",
+          "Tickets müssen im Bus entwertet werden.",
+          "Laden Sie die Roger-App für Fahrpläne herunter.",
+          "Tickets gibt es auch in Tabakläden (Tabaccheria)."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi dacă călătoriți de mai multe ori.",
+          "Biletele trebuie validate în autobuz.",
+          "Descărcați aplicația Roger pentru orare.",
+          "Biletele pot fi cumpărate și de la tutungerii (Tabaccheria)."
+        ],
+        "en": [
+          "Buy a day pass if you plan to travel multiple times.",
+          "Remember to validate your ticket on the bus.",
+          "Download the 'Roger' app for schedules.",
+          "Tickets can be purchased at tobacco shops (Tabaccheria)."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "city": "Bologna",
+    "region": "IT-45",
+    "coords": [
+      11.3426,
+      44.4949
+    ],
+    "transit_official": "https://www.tper.it/en",
+    "transit_app": "https://www.tper.it/en/roger-app",
+    "bike_share": null,
+    "city_card": "https://www.bolognawelcome.com/en/bologna-welcome-card",
+    "events": "https://www.bolognawelcome.com/en/events",
+    "tourism_office": "https://www.bolognawelcome.com/en/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/emilia-romagna/bologna.html",
+    "restaurants_booking": "https://www.thefork.com/restaurants/bologna-c561341",
+    "museum_tickets": "https://www.bolognawelcome.com/en/tickets",
+    "parking_real_time": "https://www.tper.it/en/parking",
+    "language_tips": {
+      "de": "Bologna ist sehr studentenfreundlich, Englisch wird in den Arkaden gut verstanden.",
+      "hu": "Bologna diakvaros, az angol jol mukodik az arkadok alatti uzletekben.",
+      "ro": "Bologna este oras universitar, engleza este vorbita bine sub arcade.",
+      "en": "Bologna is student-friendly; English is widely spoken under the porticoes."
+    },
+    "best_time": {
+      "de": "Mai-Juni und September-Oktober; Sommer schwul, Winter neblig.",
+      "hu": "Majus-junius es szeptember-oktober a legjobb; a nyar parai, a tel kodos.",
+      "ro": "Mai-iunie si septembrie-octombrie; vara umeda, iarna cu ceata.",
+      "en": "May-June and September-October are best; summer humid, winter foggy."
+    },
+    "warnings": {
+      "de": "ZTL-Zone im Zentrum, Auto nur mit Genehmigung. Taschendiebe an der Bahnhof.",
+      "hu": "ZTL behajtasi tilalom a kozpontban, csak engedellyel. Zsebtolvajok a palyaudvaron.",
+      "ro": "Zona ZTL in centru, auto doar cu permis. Hoti de buzunare la gara.",
+      "en": "ZTL restricted zone in center, car only with permit. Pickpockets near station."
+    }
+  }
+}

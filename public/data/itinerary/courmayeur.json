@@ -1,0 +1,1061 @@
+{
+  "city_id": "courmayeur",
+  "anchor": {
+    "name": "Courmayeur",
+    "coords": [
+      6.9694,
+      45.7964
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "id": "piazza-abbe-henry",
+          "name": {
+            "de": "Piazza Abbé Henry",
+            "hu": "Piazza Abbé Henry",
+            "ro": "Piazza Abbé Henry",
+            "en": "Piazza Abbé Henry"
+          },
+          "coords": [
+            6.9692,
+            45.7968
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Blick auf die Kirche und das Bergpanorama genießen.",
+            "hu": "Élvezze a templomra és a hegyekre nyíló kilátást.",
+            "ro": "Bucurați-vă de vedere spre biserică și panorama montană.",
+            "en": "Enjoy the view of the church and the mountain panorama."
+          }
+        },
+        {
+          "id": "kirche-san-pantaleone",
+          "name": {
+            "de": "Kirche San Pantaleone",
+            "hu": "San Pantaleone templom",
+            "ro": "Biserica San Pantaleone",
+            "en": "Church of San Pantaleone"
+          },
+          "coords": [
+            6.9698,
+            45.7972
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie den Altar aus dem 18. Jahrhundert.",
+            "hu": "Tekintse meg a 18. századi oltárt.",
+            "ro": "Vizitați altarul din secolul al XVIII-lea.",
+            "en": "Visit the 18th-century altar."
+          }
+        },
+        {
+          "id": "alpines-museum-duca-degli-abruzzi",
+          "name": {
+            "de": "Alpines Museum Duca degli Abruzzi",
+            "hu": "Duca degli Abruzzi Alpin Múzeum",
+            "ro": "Muzeul Alpin Duca degli Abruzzi",
+            "en": "Duca degli Abruzzi Alpine Museum"
+          },
+          "coords": [
+            6.9685,
+            45.796
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Geschichte der Bergführer.",
+            "hu": "Ismerje meg a hegyi vezetők történetét.",
+            "ro": "Aflați mai multe despre istoria ghizilor montani.",
+            "en": "Learn more about the history of mountain guides."
+          }
+        },
+        {
+          "id": "parco-bollino",
+          "name": {
+            "de": "Parco Bollino",
+            "hu": "Bollino park",
+            "ro": "Parcul Bollino",
+            "en": "Bollino Park"
+          },
+          "coords": [
+            6.972,
+            45.794
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Picknick mit Blick auf den Mont Blanc.",
+            "hu": "Tökéletes hely egy piknikhez a Mont Blanc-ra nyíló kilátással.",
+            "ro": "Locul perfect pentru un picnic cu vedere la Mont Blanc.",
+            "en": "Perfect spot for a picnic with a view of Mont Blanc."
+          }
+        },
+        {
+          "id": "via-roma-shopping",
+          "name": {
+            "de": "Einkaufsmeile Via Roma",
+            "hu": "Via Roma bevásárlóutca",
+            "ro": "Strada comercială Via Roma",
+            "en": "Via Roma Shopping Street"
+          },
+          "coords": [
+            6.969,
+            45.7955
+          ],
+          "category": "shopping",
+          "arrive_at": "14:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bummeln Sie durch die eleganten Boutiquen.",
+            "hu": "Sétáljon végig az elegáns butikok között.",
+            "ro": "Plimbați-vă prin buticurile elegante.",
+            "en": "Stroll through the elegant boutiques."
+          }
+        },
+        {
+          "id": "gastro-courmayeur",
+          "name": {
+            "de": "Lokale Gastronomie",
+            "hu": "Helyi gasztronómia",
+            "ro": "Gastronomie locală",
+            "en": "Local Gastronomy"
+          },
+          "coords": [
+            6.9695,
+            45.7965
+          ],
+          "category": "gastro",
+          "arrive_at": "16:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie die Fontina-Käsespezialitäten.",
+            "hu": "Kóstolja meg a Fontina sajt különlegességeket.",
+            "ro": "Gustați specialitățile cu brânză Fontina.",
+            "en": "Taste the Fontina cheese specialties."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Herzen von Courmayeur auf der Piazza Abbé Henry. Nach einem Besuch der San Pantaleone Kirche tauchen Sie im Alpinmuseum in die Welt der Bergsteiger ein. Mittags entspannen Sie im Parco Bollino, bevor Sie den Nachmittag mit Shopping in der Via Roma verbringen. Den Abschluss bildet ein herzhaftes Abendessen mit regionalen Spezialitäten aus dem Aostatal.",
+        "hu": "A napja Courmayeur történelmi szívében, a Piazza Abbé Henry-n kezdődik. A San Pantaleone templom megtekintése után az Alpin Múzeumban merülhet el a hegymászók világában. Délben a Bollino parkban pihenhet, majd a délutánt a Via Roma boltjai között tölti. A napot egy kiadós vacsora zárja, ahol megkóstolhatja az Aosta-völgy helyi specialitásait.",
+        "ro": "Ziua începe în inima istorică a orașului Courmayeur, în Piazza Abbé Henry. După o vizită la Biserica San Pantaleone, explorați lumea alpiniștilor la Muzeul Alpin. La prânz, relaxați-vă în Parcul Bollino, înainte de a petrece după-amiaza la cumpărături pe Via Roma. Seara se încheie cu o cină savuroasă, cu specialități regionale din Valle d'Aosta.",
+        "en": "Your day begins in the historic heart of Courmayeur at Piazza Abbé Henry. After visiting the San Pantaleone Church, immerse yourself in the world of mountaineers at the Alpine Museum. At noon, relax in Bollino Park before spending the afternoon shopping on Via Roma. The day concludes with a hearty dinner featuring regional specialties from the Aosta Valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Terrazza",
+            "tip": "Probieren Sie Polenta mit Fontina-Käse."
+          },
+          {
+            "name": "Caffè Posta",
+            "tip": "Ein klassischer Aperitif in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Terrazza",
+            "tip": "Kóstolja meg a polentát Fontina sajttal."
+          },
+          {
+            "name": "Caffè Posta",
+            "tip": "Klasszikus aperitif történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Terrazza",
+            "tip": "Încercați mămăliga cu brânză Fontina."
+          },
+          {
+            "name": "Caffè Posta",
+            "tip": "Un aperitiv clasic într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Terrazza",
+            "tip": "Try the polenta with Fontina cheese."
+          },
+          {
+            "name": "Caffè Posta",
+            "tip": "A classic aperitif in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco Bollino",
+            "tip": "Ruhiger Park mit freiem Blick auf die Gipfel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bollino park",
+            "tip": "Csendes park közvetlen kilátással a csúcsokra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Bollino",
+            "tip": "Parc liniștit cu vedere directă spre vârfuri.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bollino Park",
+            "tip": "Quiet park with a direct view of the peaks.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Roma",
+            "tip": "Luxusboutiquen und lokale Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Roma",
+            "tip": "Luxus butikok és helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Roma",
+            "tip": "Bouticuri de lux și meșteșuguri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Roma",
+            "tip": "Luxury boutiques and local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster im Zentrum.",
+          "Die Via Roma ist am späten Nachmittag am belebtesten.",
+          "Reservieren Sie für das Abendessen in der Hochsaison vorab.",
+          "Nutzen Sie die Trinkbrunnen in der Stadt für frisches Bergwasser."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a központ macskaköves utcáihoz.",
+          "A Via Roma késő délután a legélénkebb.",
+          "Főszezonban érdemes előre asztalt foglalni vacsorához.",
+          "Használja a városi ivókutakat a friss hegyi vízért."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite din centru.",
+          "Via Roma este cea mai animată la sfârșitul după-amiezii.",
+          "Rezervați masa pentru cină în avans în timpul sezonului de vârf.",
+          "Folosiți cișmelele din oraș pentru apă proaspătă de munte."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets in the center.",
+          "Via Roma is liveliest in the late afternoon.",
+          "Book your dinner table in advance during high season.",
+          "Use the drinking fountains in town for fresh mountain water."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "id": "val-ferret-bike",
+          "name": {
+            "de": "Val Ferret Radweg",
+            "hu": "Val Ferret kerékpárút",
+            "ro": "Traseu biciclete Val Ferret",
+            "en": "Val Ferret Bike Path"
+          },
+          "coords": [
+            7.01,
+            45.83
+          ],
+          "category": "natural features",
+          "arrive_at": "09:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die flache Strecke im Hochtal.",
+            "hu": "Élvezze a sík terepet a magasvölgyben.",
+            "ro": "Bucurați-vă de traseul plat din valea înaltă.",
+            "en": "Enjoy the flat route in the high valley."
+          }
+        },
+        {
+          "id": "botanischer-garten-saussurea",
+          "name": {
+            "de": "Botanischer Garten Saussurea",
+            "hu": "Saussurea botanikus kert",
+            "ro": "Grădina Botanică Saussurea",
+            "en": "Saussurea Botanical Garden"
+          },
+          "coords": [
+            6.935,
+            45.815
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Europas höchstgelegener botanischer Garten.",
+            "hu": "Európa legmagasabban fekvő botanikus kertje.",
+            "ro": "Cea mai înaltă grădină botanică din Europa.",
+            "en": "Europe's highest botanical garden."
+          }
+        },
+        {
+          "id": "skyway-base",
+          "name": {
+            "de": "Skyway Monte Bianco Talstation",
+            "hu": "Skyway Monte Bianco völgyállomás",
+            "ro": "Stația de bază Skyway Monte Bianco",
+            "en": "Skyway Monte Bianco Base Station"
+          },
+          "coords": [
+            6.953,
+            45.813
+          ],
+          "category": "natural features",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schauen Sie sich die moderne Architektur an.",
+            "hu": "Nézze meg a modern építészeti megoldásokat.",
+            "ro": "Admirați arhitectura modernă.",
+            "en": "Take a look at the modern architecture."
+          }
+        },
+        {
+          "id": "piazza-abbe-henry-bike",
+          "name": {
+            "de": "Piazza Abbé Henry",
+            "hu": "Piazza Abbé Henry",
+            "ro": "Piazza Abbé Henry",
+            "en": "Piazza Abbé Henry"
+          },
+          "coords": [
+            6.9692,
+            45.7968
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ideal für eine kurze Pause nach der Fahrt.",
+            "hu": "Ideális egy rövid pihenőre a tekerés után.",
+            "ro": "Ideal pentru o scurtă pauză după plimbare.",
+            "en": "Ideal for a short break after the ride."
+          }
+        },
+        {
+          "id": "gastro-bike",
+          "name": {
+            "de": "Belohnungs-Eis",
+            "hu": "Jutalomszomj",
+            "ro": "Gelaterie locală",
+            "en": "Reward Gelato"
+          },
+          "coords": [
+            6.969,
+            45.796
+          ],
+          "category": "gastro",
+          "arrive_at": "16:05",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich ein echtes italienisches Eis.",
+            "hu": "Kényeztesse magát egy valódi olasz fagyival.",
+            "ro": "Răsfățați-vă cu o înghețată italiană autentică.",
+            "en": "Treat yourself to some authentic Italian gelato."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Umgebung von Courmayeur auf zwei Rädern. Zuerst radeln Sie durch das malerische Val Ferret, ein Paradies für Naturliebhaber. Danach geht es zum Botanischen Garten Saussurea, bevor Sie die beeindruckende Talstation des Skyway besuchen. Zurück im Ort entspannen Sie auf der Piazza und belohnen sich mit einem erstklassigen italienischen Eis.",
+        "hu": "Fedezze fel Courmayeur környékét két keréken. Először a festői Val Ferret völgyben tekerhet, amely a természetkedvelők paradicsoma. Ezután látogasson el a Saussurea botanikus kertbe, majd csodálja meg a Skyway lenyűgöző völgyállomását. Visszatérve a városba, pihenjen meg a Piazza-n, és jutalmazza meg magát egy kiváló olasz fagyival.",
+        "ro": "Explorați împrejurimile orașului Courmayeur pe două roți. Mai întâi, pedalați prin pitoreasca Val Ferret, un paradis pentru iubitorii de natură. Apoi vizitați Grădina Botanică Saussurea, înainte de a vedea impresionanta stație Skyway. Reveniți în oraș pentru o pauză în piață și răsplătiți-vă cu o înghețată italiană de calitate.",
+        "en": "Explore the surroundings of Courmayeur on two wheels. First, cycle through the picturesque Val Ferret, a paradise for nature lovers. Then head to the Saussurea Botanical Garden before visiting the impressive Skyway base station. Back in town, relax in the square and reward yourself with some top-notch Italian gelato."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gelateria Crema Alpina",
+            "tip": "Hausgemachtes Eis mit Bergmilch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gelateria Crema Alpina",
+            "tip": "Házias fagylalt hegyi tejből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gelateria Crema Alpina",
+            "tip": "Înghețată artizanală cu lapte de munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gelateria Crema Alpina",
+            "tip": "Homemade gelato with mountain milk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Val Ferret",
+            "tip": "Sanftes Rauschen des Flusses und Bergstille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Val Ferret",
+            "tip": "A folyó halk csobogása és hegyi csend.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Val Ferret",
+            "tip": "Susurul râului și liniștea muntelui.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Val Ferret",
+            "tip": "Gentle sound of the river and mountain silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "4810 Sports",
+            "tip": "Hochwertige Outdoor- und Fahrradausrüstung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "4810 Sports",
+            "tip": "Minőségi kültéri és kerékpáros felszerelés."
+          }
+        ],
+        "ro": [
+          {
+            "name": "4810 Sports",
+            "tip": "Echipament outdoor și de ciclism de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "4810 Sports",
+            "tip": "High-quality outdoor and cycling gear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie vorab die Wettervorhersage für die Berge.",
+          "Ein E-Bike ist für die Steigungen in der Region empfehlenswert.",
+          "Im Val Ferret gibt es spezielle Radwege abseits der Autos.",
+          "Nehmen Sie ausreichend Wasser für die Tour mit."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a hegyi időjárás-jelentést.",
+          "A környék emelkedői miatt az e-bike ajánlott.",
+          "A Val Ferret völgyben autóktól távoli kerékpárutak is vannak.",
+          "Vigyen magával elegendő vizet a túrához."
+        ],
+        "ro": [
+          "Verificați prognoza meteo montană înainte de plecare.",
+          "O bicicletă electrică este recomandată pentru pantele din regiune.",
+          "În Val Ferret există piste de biciclete separate de trafic.",
+          "Luați suficientă apă pentru întreaga tură."
+        ],
+        "en": [
+          "Check the mountain weather forecast before starting.",
+          "An e-bike is recommended for the climbs in the area.",
+          "Val Ferret has dedicated bike paths away from cars.",
+          "Take enough water for the entire trip."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18.0,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 18.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "id": "skyway-monte-bianco",
+          "name": {
+            "de": "Skyway Monte Bianco",
+            "hu": "Skyway Monte Bianco",
+            "ro": "Skyway Monte Bianco",
+            "en": "Skyway Monte Bianco"
+          },
+          "coords": [
+            6.953,
+            45.813
+          ],
+          "category": "natural features",
+          "arrive_at": "09:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie bis zur Punta Helbronner für 360°-Aussichten.",
+            "hu": "Menjen fel a Punta Helbronner-ig a 360 fokos kilátásért.",
+            "ro": "Mergeți până la Punta Helbronner pentru vederi de 360°.",
+            "en": "Go up to Punta Helbronner for 360° views."
+          }
+        },
+        {
+          "id": "val-veny",
+          "name": {
+            "de": "Val Veny",
+            "hu": "Val Veny",
+            "ro": "Val Veny",
+            "en": "Val Veny"
+          },
+          "coords": [
+            6.92,
+            45.78
+          ],
+          "category": "natural features",
+          "arrive_at": "12:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Miage-Gletscher am Ende des Tals.",
+            "hu": "Látogasson el a Miage-gleccserhez a völgy végén.",
+            "ro": "Vizitați ghețarul Miage din capătul văii.",
+            "en": "Visit the Miage glacier at the end of the valley."
+          }
+        },
+        {
+          "id": "wallfahrtskirche-notre-dame-de-guerison",
+          "name": {
+            "de": "Wallfahrtskirche Notre-Dame de Guérison",
+            "hu": "Notre-Dame de Guérison kegytemplom",
+            "ro": "Sanctuarul Notre-Dame de Guérison",
+            "en": "Notre-Dame de Guérison Sanctuary"
+          },
+          "coords": [
+            6.945,
+            45.798
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Eine kleine Kapelle direkt am Fuße der Gletscher.",
+            "hu": "Egy kis kápolna közvetlenül a gleccserek lábánál.",
+            "ro": "O mică capelă chiar la poalele ghețarilor.",
+            "en": "A small chapel right at the foot of the glaciers."
+          }
+        },
+        {
+          "id": "courmayeur-center",
+          "name": {
+            "de": "Courmayeur Zentrum",
+            "hu": "Courmayeur központ",
+            "ro": "Centrul Courmayeur",
+            "en": "Courmayeur Center"
+          },
+          "coords": [
+            6.969,
+            45.796
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ideal für einen kurzen Bummel vor dem Abendessen.",
+            "hu": "Ideális egy rövid sétához vacsora előtt.",
+            "ro": "Ideal pentru o scurtă plimbare înainte de cină.",
+            "en": "Ideal for a short stroll before dinner."
+          }
+        },
+        {
+          "id": "gastro-car",
+          "name": {
+            "de": "Abendessen im Bergrestaurant",
+            "hu": "Vacsora hegyi étteremben",
+            "ro": "Cină la restaurant montan",
+            "en": "Mountain Restaurant Dinner"
+          },
+          "coords": [
+            6.975,
+            45.795
+          ],
+          "category": "gastro",
+          "arrive_at": "16:50",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie Aostataler Weine.",
+            "hu": "Élvezze az Aosta-völgyi borokat.",
+            "ro": "Bucurați-vă de vinurile din Valle d'Aosta.",
+            "en": "Enjoy some Valle d'Aosta wines."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die spektakulärsten Aussichtspunkte. Der Vormittag gehört dem Skyway Monte Bianco, der Sie in schwindelerregende Höhen bringt. Danach fahren Sie ins wilde Val Veny für einen Spaziergang in der Natur. Ein Halt an der malerischen Wallfahrtskirche Notre-Dame de Guérison bietet Stille, bevor Sie den Tag gemütlich im Zentrum von Courmayeur ausklingen lassen.",
+        "hu": "Autóval a leglátványosabb kilátópontokat érheti el. A délelőtt a Skyway Monte Bianco-é, amely szédítő magasságokba repíti. Ezután a vadregényes Val Veny völgybe látogathat egy természetközeli sétára. A festői Notre-Dame de Guérison kegytemplomnál tett megálló csendet és nyugalmat áraszt, mielőtt a napot Courmayeur központjában zárná.",
+        "ro": "Cu mașina puteți ajunge la cele mai spectaculoase puncte de belvedere. Dimineața aparține Skyway Monte Bianco, care vă duce la înălțimi amețitoare. Apoi conduceți spre sălbatica Val Veny pentru o plimbare în natură. O oprire la pitorescul sanctuar Notre-Dame de Guérison oferă liniște, înainte de a încheia ziua relaxat în centrul orașului Courmayeur.",
+        "en": "By car, you can reach the most spectacular viewpoints. The morning belongs to the Skyway Monte Bianco, which takes you to dizzying heights. Then drive into the wild Val Veny for a nature walk. A stop at the picturesque Notre-Dame de Guérison sanctuary offers peace before ending the day comfortably in the center of Courmayeur."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante Pizzeria Du Parc",
+            "tip": "Gute Auswahl an regionalen Fleischgerichten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante Pizzeria Du Parc",
+            "tip": "Kiváló választék a régió húsételeiből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante Pizzeria Du Parc",
+            "tip": "O selecție bună de mâncăruri regionale din carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante Pizzeria Du Parc",
+            "tip": "Great selection of regional meat dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Notre-Dame de Guérison",
+            "tip": "Andächtige Stille mit Gletscherblick.",
+            "emoji": "🙏"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Notre-Dame de Guérison",
+            "tip": "Áhítatos csend gleccserkilátással.",
+            "emoji": "🙏"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Notre-Dame de Guérison",
+            "tip": "Liniște pioasă cu vedere la ghețar.",
+            "emoji": "🙏"
+          }
+        ],
+        "en": [
+          {
+            "name": "Notre-Dame de Guérison",
+            "tip": "Devotional silence with glacier views.",
+            "emoji": "🙏"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cravatze e Pais",
+            "tip": "Lokale Feinkost und Weine zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cravatze e Pais",
+            "tip": "Helyi csemegék és borok elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cravatze e Pais",
+            "tip": "Delicii locale și vinuri de luat acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cravatze e Pais",
+            "tip": "Local delicacies and wines to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplätze am Skyway sind schnell belegt, kommen Sie früh.",
+          "Einige Straßen in den Tälern sind im Winter gesperrt.",
+          "Nutzen Sie die Parkhäuser im Zentrum von Courmayeur.",
+          "Fahren Sie vorsichtig auf den kurvigen Bergstraßen."
+        ],
+        "hu": [
+          "A Skyway parkolói gyorsan megtelnek, érkezzen korán.",
+          "A völgyekbe vezető utak közül néhány télen zárva tarthat.",
+          "Használja Courmayeur központjának parkolóházait.",
+          "Vezessen óvatosan a kanyargós hegyi utakon."
+        ],
+        "ro": [
+          "Parcările de la Skyway se umplu repede, veniți devreme.",
+          "Unele drumuri din văi pot fi închise pe timp de iarnă.",
+          "Folosiți parcările supraetajate din centrul orașului.",
+          "Conduceți cu atenție pe drumurile montane șerpuite."
+        ],
+        "en": [
+          "Skyway parking lots fill up quickly, arrive early.",
+          "Some valley roads may be closed in winter.",
+          "Use the parking garages in Courmayeur center.",
+          "Drive carefully on the winding mountain roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "id": "val-ferret-transit",
+          "name": {
+            "de": "Val Ferret (Bus-Shuttle)",
+            "hu": "Val Ferret (busz transzfer)",
+            "ro": "Val Ferret (autobuz-navetă)",
+            "en": "Val Ferret (Bus Shuttle)"
+          },
+          "coords": [
+            7.01,
+            45.83
+          ],
+          "category": "natural features",
+          "arrive_at": "09:25",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Bequeme Anreise mit dem lokalen Bus.",
+            "hu": "Kényelmes utazás a helyi autóbusszal.",
+            "ro": "Acces ușor cu autobuzul local.",
+            "en": "Easy access with the local bus."
+          }
+        },
+        {
+          "id": "seilbahn-val-veny",
+          "name": {
+            "de": "Seilbahn Val Veny Talstation",
+            "hu": "Val Veny felvonó völgyállomás",
+            "ro": "Telecabina Val Veny - stația de bază",
+            "en": "Val Veny Cable Car Base"
+          },
+          "coords": [
+            6.955,
+            45.811
+          ],
+          "category": "natural features",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Seilbahn für schnelle Höhenmeter.",
+            "hu": "Használja a felvonót a gyors szintemelkedéshez.",
+            "ro": "Folosiți telecabina pentru a câștiga rapid altitudine.",
+            "en": "Use the cable car for a quick ascent."
+          }
+        },
+        {
+          "id": "piazza-abbe-henry-transit",
+          "name": {
+            "de": "Piazza Abbé Henry",
+            "hu": "Piazza Abbé Henry",
+            "ro": "Piazza Abbé Henry",
+            "en": "Piazza Abbé Henry"
+          },
+          "coords": [
+            6.9692,
+            45.7968
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für alle Buslinien.",
+            "hu": "Minden buszjárat központi csomópontja.",
+            "ro": "Nod central pentru toate liniile de autobuz.",
+            "en": "Central hub for all bus lines."
+          }
+        },
+        {
+          "id": "alpines-museum-transit",
+          "name": {
+            "de": "Alpines Museum Duca degli Abruzzi",
+            "hu": "Duca degli Abruzzi Alpin Múzeum",
+            "ro": "Muzeul Alpin Duca degli Abruzzi",
+            "en": "Duca degli Abruzzi Alpine Museum"
+          },
+          "coords": [
+            6.9685,
+            45.796
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Bushaltestelle entfernt.",
+            "hu": "Csak pár lépésre a buszmegállótól.",
+            "ro": "La doar câțiva pași de stația de autobuz.",
+            "en": "Just a few steps from the bus stop."
+          }
+        },
+        {
+          "id": "shopping-gastro-transit",
+          "name": {
+            "de": "Via Roma & Aperitif",
+            "hu": "Via Roma és aperitif",
+            "ro": "Via Roma și aperitiv",
+            "en": "Via Roma & Aperitivo"
+          },
+          "coords": [
+            6.969,
+            45.7955
+          ],
+          "category": "shopping",
+          "arrive_at": "16:25",
+          "stay_min": 65,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag entspannt ausklingen.",
+            "hu": "Zárja a napot pihentetően.",
+            "ro": "Încheiați ziua într-un mod relaxant.",
+            "en": "End the day in a relaxing way."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Shuttlesystem von Courmayeur. Starten Sie mit dem Bus ins Val Ferret für alpine Natur pur. Mittags geht es zur Seilbahn Val Veny, um den Blick von oben zu genießen. Der Nachmittag gehört dem historischen Zentrum, wo Sie das Alpinmuseum besuchen und über die Piazza Abbé Henry schlendern, bevor Sie in der Via Roma den Tag mit einem Aperitif krönen.",
+        "hu": "Használja Courmayeur hatékony buszhálózatát. Kezdje a napot a Val Ferret völgyben a tiszta alpesi természetért. Délben a Val Veny felvonóval csodálhatja meg a panorámát. A délután a történelmi központé: látogassa meg az Alpin Múzeumot, sétáljon a Piazza Abbé Henry-n, majd zárja a napot egy kellemes aperitiffel a Via Roma-n.",
+        "ro": "Folosiți sistemul eficient de transport din Courmayeur. Începeți cu autobuzul spre Val Ferret pentru natură alpină pură. La prânz, mergeți la telecabina Val Veny pentru a admira priveliștea de sus. După-amiaza aparține centrului istoric, unde vizitați Muzeul Alpin și vă plimbați prin Piazza Abbé Henry, înainte de a savura un aperitiv pe Via Roma.",
+        "en": "Use Courmayeur's efficient shuttle system. Start with a bus ride to Val Ferret for pure alpine nature. At noon, head to the Val Veny cable car to enjoy the view from above. The afternoon belongs to the historic center, where you can visit the Alpine Museum and stroll through Piazza Abbé Henry before topping off the day with an aperitivo on Via Roma."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "American Bar",
+            "tip": "Bekannt für erstklassige Cocktails und Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "American Bar",
+            "tip": "Kiváló koktéljairól és falatkáiról híres."
+          }
+        ],
+        "ro": [
+          {
+            "name": "American Bar",
+            "tip": "Cunoscut pentru cocktailuri și gustări excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "American Bar",
+            "tip": "Famous for excellent cocktails and snacks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Val Ferret",
+            "tip": "Einfach mit dem Bus erreichbare Bergidylle.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Val Ferret",
+            "tip": "Busszal könnyen elérhető hegyi idill.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Val Ferret",
+            "tip": "Idilă montană ușor accesibilă cu autobuzul.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Val Ferret",
+            "tip": "Mountain idyll easily accessible by bus.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Panizzi",
+            "tip": "Traditionelle Käsesorten und Joghurt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panizzi",
+            "tip": "Hagyományos sajtok és joghurtok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panizzi",
+            "tip": "Brânzeturi tradiționale și iaurturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Panizzi",
+            "tip": "Traditional cheeses and yogurt."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie den Bus-Pass für einen ganzen Tag.",
+          "Die Fahrpläne hängen an den Hauptstationen aus.",
+          "In der Hochsaison fahren die Busse sehr regelmäßig.",
+          "Der Shuttle zum Skyway startet ebenfalls im Zentrum."
+        ],
+        "hu": [
+          "Vásároljon egész napos buszjegyet.",
+          "A menetrendek a főbb megállókban ki vannak függesztve.",
+          "Főszezonban a buszok nagyon gyakran közlekednek.",
+          "A Skyway-hez közlekedő transzfer is a központból indul."
+        ],
+        "ro": [
+          "Cumpărați un permis de autobuz pentru întreaga zi.",
+          "Orarele sunt afișate în stațiile principale.",
+          "În sezonul de vârf, autobuzele circulă foarte regulat.",
+          "Naveta către Skyway pleacă tot din centru."
+        ],
+        "en": [
+          "Buy a bus pass for the whole day.",
+          "Schedules are posted at the main stations.",
+          "Buses run very frequently during high season.",
+          "The shuttle to the Skyway also starts in the center."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-23",
+    "lon": 6.9694,
+    "lat": 45.7964,
+    "transit_official": "https://www.svap.it/",
+    "transit_app": null,
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.courmayeurmontblanc.it/en/events",
+    "tourism_office": "https://www.courmayeurmontblanc.it/en/",
+    "webcam": "https://www.courmayeurmontblanc.it/en/webcam",
+    "restaurants_booking": null,
+    "museum_tickets": "https://www.montebianco.com/en/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Franzoesisch und Italienisch offiziell, Englisch verbreitet.",
+      "hu": "Hivatalos francia es olasz, angol szeles korben.",
+      "ro": "Franceza si italiana oficiale, engleza raspandita.",
+      "en": "French and Italian official, English widely used."
+    },
+    "best_time": {
+      "de": "Dezember-April Ski, Juli-August Skyway Monte Bianco.",
+      "hu": "December-aprilis si, julius-augusztus Skyway Mont Blanc.",
+      "ro": "Decembrie-aprilie ski, iulie-august Skyway Mont Blanc.",
+      "en": "December-April skiing, July-August Skyway Mont Blanc."
+    },
+    "warnings": {
+      "de": "Mont-Blanc-Tunnel-Wartung pruefen vor Anreise.",
+      "hu": "Mont Blanc alagut karbantartas ellenorzese ajanlott.",
+      "ro": "Verifica intretinerea tunelului Mont Blanc inainte.",
+      "en": "Check Mont Blanc tunnel maintenance before travel."
+    }
+  }
+}

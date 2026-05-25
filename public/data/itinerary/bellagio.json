@@ -1,0 +1,1109 @@
+{
+  "city_id": "bellagio",
+  "anchor": {
+    "name": "Bellagio",
+    "coords": [
+      9.2641,
+      45.9858
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Lungolago Europa",
+            "hu": "Lungolago Europa",
+            "ro": "Lungolago Europa",
+            "en": "Lungolago Europa"
+          },
+          "coords": [
+            9.2625,
+            45.986
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für den Sonnenaufgang und den ersten Blick auf den Comer See.",
+            "hu": "Tökéletes napfelkeltéhez és az első kilátáshoz a Comói-tóra.",
+            "ro": "Perfect pentru răsărit și prima vedere a lacului Como.",
+            "en": "Perfect for sunrise and the first view of Lake Como."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Melzi d'Eril",
+            "hu": "Villa Melzi d'Eril",
+            "ro": "Villa Melzi d'Eril",
+            "en": "Villa Melzi d'Eril"
+          },
+          "coords": [
+            9.259,
+            45.9785
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Gärten im Frühling, wenn die Azaleen blühen.",
+            "hu": "Látogassa meg a kerteket tavasszal, amikor az azáleák virágoznak.",
+            "ro": "Vizitați grădinile primăvara, când înfloresc azaleele.",
+            "en": "Visit the gardens in spring when the azaleas are in bloom."
+          }
+        },
+        {
+          "name": {
+            "de": "Salita Serbelloni",
+            "hu": "Salita Serbelloni",
+            "ro": "Salita Serbelloni",
+            "en": "Salita Serbelloni"
+          },
+          "coords": [
+            9.2628,
+            45.9868
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die meistfotografierte Gasse mit Blick auf den See.",
+            "hu": "A legtöbbet fotózott sikátor, kilátással a tóra.",
+            "ro": "Cea mai fotografiată alee cu vedere la lac.",
+            "en": "The most photographed alley with a lake view."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Giacomo",
+            "hu": "Basilica di San Giacomo",
+            "ro": "Basilica di San Giacomo",
+            "en": "Basilica di San Giacomo"
+          },
+          "coords": [
+            9.262,
+            45.9875
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur und das Mosaik.",
+            "hu": "Csodálja meg a román építészetet és a mozaikot.",
+            "ro": "Admirați arhitectura romanică și mozaicul.",
+            "en": "Admire the Romanesque architecture and the mosaic."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Serbelloni",
+            "hu": "Villa Serbelloni",
+            "ro": "Villa Serbelloni",
+            "en": "Villa Serbelloni"
+          },
+          "coords": [
+            9.2615,
+            45.989
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Geführte Touren bieten den besten Panoramablick auf beide Seebecken.",
+            "hu": "Vezetett túrák kínálják a legjobb panorámát a tó mindkét ágára.",
+            "ro": "Tururile ghidate oferă cea mai bună vedere panoramică asupra ambelor brațe ale lacului.",
+            "en": "Guided tours offer the best panoramic view of both lake arms."
+          }
+        },
+        {
+          "name": {
+            "de": "Pescallo",
+            "hu": "Pescallo",
+            "ro": "Pescallo",
+            "en": "Pescallo"
+          },
+          "coords": [
+            9.267,
+            45.9815
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein ruhiges Fischerdorf, ideal zum Entspannen abseits der Massen.",
+            "hu": "Csendes halászfalu, ideális a tömegtől való kikapcsolódásra.",
+            "ro": "Un sat de pescari liniștit, ideal pentru relaxare departe de mulțime.",
+            "en": "A quiet fishing village, ideal for relaxing away from the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta Spartivento",
+            "hu": "Punta Spartivento",
+            "ro": "Punta Spartivento",
+            "en": "Punta Spartivento"
+          },
+          "coords": [
+            9.2635,
+            45.992
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "17:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der Ort, an dem sich der See in drei Arme teilt.",
+            "hu": "A pont, ahol a tó három ágra válik szét.",
+            "ro": "Punctul în care lacul se desparte în trei brațe.",
+            "en": "The spot where the lake splits into three arms."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer erfrischenden Brise an der Lungolago Europa, gefolgt von der aristokratischen Pracht der Villa Melzi. Am Mittag tauchen Sie in die verwinkelten Gassen von Bellagio ein, erklimmen die Salita Serbelloni und besuchen die historische Basilika.\n\nDer Nachmittag steht ganz im Zeichen der Aussicht von der Villa Serbelloni und dem charmanten, versteckten Pescallo. Zum Abschluss genießen Sie die magische Atmosphäre an der Punta Spartivento, wo die Alpen den Comer See küssen.",
+        "hu": "A nap egy frissítő szellővel indul a Lungolago Europa mentén, majd a Villa Melzi arisztokratikus pompája következik. Délben elmerül Bellagio kanyargós utcáiban, megmássza a Salita Serbellonit és meglátogatja a történelmi bazilikát.\n\nA délután a Villa Serbelloni panorámájáról és a bájos, rejtett Pescallo felfedezéséről szól. Végezetül élvezze a varázslatos hangulatot a Punta Spartiventónál, ahol az Alpok a Comói-tóval találkozik.",
+        "ro": "Ziua începe cu o briză revigorantă pe Lungolago Europa, urmată de splendoarea aristocratică a Vilei Melzi. La prânz, scufundați-vă pe străzile sinuoase din Bellagio, urcați pe Salita Serbelloni și vizitați bazilica istorică.\n\nDupă-amiaza este dedicată vederilor de la Villa Serbelloni și fermecătorului Pescallo ascuns. La final, bucurați-vă de atmosfera magică de la Punta Spartivento, unde Alpii sărută lacul Como.",
+        "en": "Your day starts with a refreshing breeze along Lungolago Europa, followed by the aristocratic splendor of Villa Melzi. At midday, dive into the winding streets of Bellagio, climb Salita Serbelloni, and visit the historic basilica.\n\nThe afternoon is all about the views from Villa Serbelloni and discovering charming, hidden Pescallo. Finally, enjoy the magical atmosphere at Punta Spartivento, where the Alps kiss Lake Como."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Risotto con pesce persico",
+            "tip": "Lokale Barsch-Spezialität im Ristorante Bilacus."
+          },
+          {
+            "name": "Bar Rossi",
+            "tip": "Ein klassischer Aperitivo direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Risotto con pesce persico",
+            "tip": "Helyi sügér specialitás a Ristorante Bilacusban."
+          },
+          {
+            "name": "Bar Rossi",
+            "tip": "Egy klasszikus aperitivo közvetlenül a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Risotto con pesce persico",
+            "tip": "Specialitate locală de biban la Ristorante Bilacus."
+          },
+          {
+            "name": "Bar Rossi",
+            "tip": "Un aperitiv clasic chiar în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Risotto con pesce persico",
+            "tip": "Local perch specialty at Ristorante Bilacus."
+          },
+          {
+            "name": "Bar Rossi",
+            "tip": "A classic aperitivo right by the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Punta Spartivento",
+            "tip": "Panoramablick auf den See.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten der Villa Melzi",
+            "tip": "Ruhige Spazierwege am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Punta Spartivento",
+            "tip": "Panorámás kilátás a tóra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Villa Melzi kertjei",
+            "tip": "Csendes sétányok a vízparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punta Spartivento",
+            "tip": "Vedere panoramică asupra lacului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Villa Melzi",
+            "tip": "Poteci liniștite pe malul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Punta Spartivento",
+            "tip": "Panoramic view of the lake.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Villa Melzi Gardens",
+            "tip": "Quiet paths by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Azalea Silk",
+            "tip": "Exquisite Seidenschals aus lokaler Produktion."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Azalea Silk",
+            "tip": "Kiváló selyemsálak helyi termelésből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Azalea Silk",
+            "tip": "Eșarfe de mătase rafinate din producția locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Azalea Silk",
+            "tip": "Exquisite silk scarves from local production."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die steilen Treppen.",
+          "Buchen Sie Villa Serbelloni Touren im Voraus.",
+          "Meiden Sie die Mittagszeit im Hochsommer.",
+          "Nutzen Sie die kleinen Gassen zum Erkunden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a meredek lépcsőkhöz.",
+          "Foglalja le előre a Villa Serbelloni túrákat.",
+          "Kerülje a déli órákat a főszezonban.",
+          "Használja a kis sikátorokat a felfedezéshez."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru scările abrupte.",
+          "Rezervați tururile Villa Serbelloni în avans.",
+          "Evitați orele prânzului în plin sezon.",
+          "Folosiți străduțele mici pentru explorare."
+        ],
+        "en": [
+          "Wear comfortable shoes for the steep stairs.",
+          "Book Villa Serbelloni tours in advance.",
+          "Avoid the midday heat in peak summer.",
+          "Use the small alleys for exploration."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lungolago Europa",
+            "hu": "Lungolago Europa",
+            "ro": "Lungolago Europa",
+            "en": "Lungolago Europa"
+          },
+          "coords": [
+            9.2625,
+            45.986
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schieben Sie das Fahrrad hier, um die Aussicht zu genießen.",
+            "hu": "Itt tolja a biciklit, hogy élvezze a kilátást.",
+            "ro": "Împingeți bicicleta aici pentru a vă bucura de priveliște.",
+            "en": "Push your bike here to enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Pescallo",
+            "hu": "Pescallo",
+            "ro": "Pescallo",
+            "en": "Pescallo"
+          },
+          "coords": [
+            9.267,
+            45.9815
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Die Abfahrt nach Pescallo ist steil, aber lohnenswert.",
+            "hu": "A lejtő Pescallóba meredek, de megéri.",
+            "ro": "Coborârea spre Pescallo este abruptă, dar merită.",
+            "en": "The descent to Pescallo is steep but worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giorgio",
+            "hu": "Chiesa di San Giorgio",
+            "ro": "Chiesa di San Giorgio",
+            "en": "Chiesa di San Giorgio"
+          },
+          "coords": [
+            9.262,
+            45.9855
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine kleine Kirche mit intimer Atmosphäre.",
+            "hu": "Kis templom bensőséges hangulattal.",
+            "ro": "O biserică mică cu o atmosferă intimă.",
+            "en": "A small church with an intimate atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Melzi d'Eril",
+            "hu": "Villa Melzi d'Eril",
+            "ro": "Villa Melzi d'Eril",
+            "en": "Villa Melzi d'Eril"
+          },
+          "coords": [
+            9.259,
+            45.9785
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Fahrräder müssen draußen geparkt werden.",
+            "hu": "A kerékpárokat kívül kell hagyni.",
+            "ro": "Bicicletele trebuie parcate afară.",
+            "en": "Bikes must be parked outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Giacomo",
+            "hu": "Basilica di San Giacomo",
+            "ro": "Basilica di San Giacomo",
+            "en": "Basilica di San Giacomo"
+          },
+          "coords": [
+            9.262,
+            45.9875
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Das Zentrum ist sehr belebt, schieben Sie das Rad.",
+            "hu": "A központ nagyon forgalmas, tolja a biciklit.",
+            "ro": "Centrul este foarte aglomerat, împingeți bicicleta.",
+            "en": "The center is very busy, push your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta Spartivento",
+            "hu": "Punta Spartivento",
+            "ro": "Punta Spartivento",
+            "en": "Punta Spartivento"
+          },
+          "coords": [
+            9.2635,
+            45.992
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schöner Ort für eine Pause vor der Rückfahrt.",
+            "hu": "Szép hely a pihenésre a visszaindulás előtt.",
+            "ro": "Loc frumos pentru o pauză înainte de întoarcere.",
+            "en": "Beautiful spot for a break before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Bellagio und seine Umgebung mit dem Fahrrad. Von der Uferpromenade radeln Sie zum malerischen Pescallo und zur charmanten San Giorgio Kirche.\n\nNach einer Besichtigung der Villa Melzi führt Sie der Weg zurück ins Herz der Stadt zur Basilika, bevor Sie Ihre Tour an der windgepeitschten Punta Spartivento abschließen.",
+        "hu": "Fedezze fel Bellagiót és környékét kerékpárral. A tóparti sétányról tekerjen a festői Pescallóba és a bájos San Giorgio templomhoz.\n\nA Villa Melzi megtekintése után az út visszavezet a város szívébe, a bazilikához, mielőtt túráját a szeles Punta Spartiventónál zárná.",
+        "ro": "Explorați Bellagio și împrejurimile sale cu bicicleta. De pe faleza lacului, pedalați spre pitorescul Pescallo și fermecătoarea biserică San Giorgio.\n\nDupă o vizită la Villa Melzi, drumul vă duce înapoi în inima orașului, la bazilică, înainte de a vă încheia turul la Punta Spartivento.",
+        "en": "Explore Bellagio and its surroundings by bike. From the lakeside promenade, cycle to picturesque Pescallo and the charming San Giorgio church.\n\nAfter visiting Villa Melzi, the path leads back to the heart of the city to the basilica, before finishing your tour at the breezy Punta Spartivento."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Panini & Wein",
+            "tip": "Schneller Snack im Baretto."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panini & Bor",
+            "tip": "Gyors falat a Barettóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panini & Vin",
+            "tip": "Gustare rapidă la Baretto."
+          }
+        ],
+        "en": [
+          {
+            "name": "Panini & Wine",
+            "tip": "Quick snack at Baretto."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pescallo Bucht",
+            "tip": "Ideal für eine ruhige Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pescallo-öböl",
+            "tip": "Ideális egy csendes pihenőhöz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Pescallo",
+            "tip": "Ideal pentru o pauză liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pescallo Bay",
+            "tip": "Ideal for a quiet break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Frisches Obst und lokale Käsesorten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss gyümölcsök és helyi sajtok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Fructe proaspete și brânzeturi locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Fresh fruits and local cheeses."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf schmale Straßen und Autos.",
+          "Ein E-Bike ist für die Hügel sehr empfehlenswert.",
+          "Parken Sie Ihr Rad sicher an den vorgesehenen Plätzen.",
+          "Trinken Sie ausreichend Wasser."
+        ],
+        "hu": [
+          "Figyeljen a szűk utakra és az autókra.",
+          "Az elektromos kerékpár erősen ajánlott a dombokhoz.",
+          "Parkolja le biztonságosan a kerékpárt a kijelölt helyeken.",
+          "Igyon elegendő vizet."
+        ],
+        "ro": [
+          "Atenție la străzile înguste și mașini.",
+          "O bicicletă electrică este foarte recomandată pentru dealuri.",
+          "Parcați bicicleta în siguranță în locurile desemnate.",
+          "Beți suficientă apă."
+        ],
+        "en": [
+          "Watch out for narrow roads and cars.",
+          "An e-bike is highly recommended for the hills.",
+          "Park your bike safely in designated areas.",
+          "Drink plenty of water."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 12,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Lungolago Europa",
+            "hu": "Lungolago Europa",
+            "ro": "Lungolago Europa",
+            "en": "Lungolago Europa"
+          },
+          "coords": [
+            9.2625,
+            45.986
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Großer Parkplatz in der Nähe der Fähren.",
+            "hu": "Nagy parkoló a kompok közelében.",
+            "ro": "Parcare mare lângă feriboturi.",
+            "en": "Large parking area near the ferries."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Melzi d'Eril",
+            "hu": "Villa Melzi d'Eril",
+            "ro": "Villa Melzi d'Eril",
+            "en": "Villa Melzi d'Eril"
+          },
+          "coords": [
+            9.259,
+            45.9785
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Nutzen Sie den südlichen Eingang mit Parkplatz.",
+            "hu": "Használja a déli bejáratot parkolóval.",
+            "ro": "Folosiți intrarea sudică cu parcare.",
+            "en": "Use the southern entrance with parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Pescallo",
+            "hu": "Pescallo",
+            "ro": "Pescallo",
+            "en": "Pescallo"
+          },
+          "coords": [
+            9.267,
+            45.9815
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Parkplätze sind hier sehr begrenzt.",
+            "hu": "A parkolás itt nagyon korlátozott.",
+            "ro": "Locurile de parcare sunt foarte limitate aici.",
+            "en": "Parking is very limited here."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Giacomo",
+            "hu": "Basilica di San Giacomo",
+            "ro": "Basilica di San Giacomo",
+            "en": "Basilica di San Giacomo"
+          },
+          "coords": [
+            9.262,
+            45.9875
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Stellen Sie das Auto ab und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkolja le az autót, és fedezze fel a központot gyalog.",
+            "ro": "Parcați mașina și explorați centrul pe jos.",
+            "en": "Park the car and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta Spartivento",
+            "hu": "Punta Spartivento",
+            "ro": "Punta Spartivento",
+            "en": "Punta Spartivento"
+          },
+          "coords": [
+            9.2635,
+            45.992
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Der Parkplatz an der Spitze ist oft voll.",
+            "hu": "A tócsúcsnál lévő parkoló gyakran tele van.",
+            "ro": "Parcarea de la vârf este adesea plină.",
+            "en": "The parking at the tip is often full."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Ecken von Bellagio. Starten Sie an der Promenade, besuchen Sie die Villa Melzi und das Fischerdorf Pescallo.\n\nNach einem Bummel durch das historische Zentrum endet Ihre Fahrt an der Punta Spartivento, mit weitem Blick über den See.",
+        "hu": "Autóval kényelmesen elérheti Bellagio különböző szegleteit. Kezdjen a sétánynál, látogassa meg a Villa Melzit és Pescallo halászfalut.\n\nA történelmi központban tett séta után útja a Punta Spartiventónál ér véget, tágas kilátással a tóra.",
+        "ro": "Cu mașina puteți ajunge confortabil în diferite colțuri ale Bellagio. Începeți pe faleză, vizitați Villa Melzi și satul de pescari Pescallo.\n\nDupă o plimbare prin centrul istoric, călătoria se încheie la Punta Spartivento, cu o vedere largă asupra lacului.",
+        "en": "By car, you can comfortably reach the various corners of Bellagio. Start at the promenade, visit Villa Melzi and the fishing village of Pescallo.\n\nAfter a stroll through the historical center, your trip ends at Punta Spartivento, with wide views over the lake."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trattoria San Giacomo",
+            "tip": "Hausgemachte Pasta im Herzen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trattoria San Giacomo",
+            "tip": "Házias tészta a város szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trattoria San Giacomo",
+            "tip": "Paste de casă în inima orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trattoria San Giacomo",
+            "tip": "Homemade pasta in the heart of the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt bei Pescallo",
+            "tip": "Ruhiger Blick auf den Lecco-Arm.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátóhely Pescallónál",
+            "tip": "Csendes kilátás a Lecco-ágra.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere lângă Pescallo",
+            "tip": "Vedere liniștită spre brațul Lecco.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint near Pescallo",
+            "tip": "Quiet view of the Lecco arm.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pierangelo Masciadri",
+            "tip": "Kreative Krawatten und Seidendesigns."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierangelo Masciadri",
+            "tip": "Kreatív nyakkendők és selyem designok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierangelo Masciadri",
+            "tip": "Cravate creative și modele de mătase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierangelo Masciadri",
+            "tip": "Creative ties and silk designs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die ZTL (verkehrsberuhigte Zone) im Zentrum.",
+          "Parken ist teuer und oft begrenzt.",
+          "Die Straßen zum See sind schmal und kurvig.",
+          "Nutzen Sie die Parkhäuser am Stadtrand."
+        ],
+        "hu": [
+          "Figyeljen a ZTL-re (korlátozott forgalmú zóna) a központban.",
+          "A parkolás drága és gyakran korlátozott.",
+          "A tóhoz vezető utak szűkek és kanyargósak.",
+          "Használja a külvárosi parkolóházakat."
+        ],
+        "ro": [
+          "Atenție la ZTL (zonă cu trafic limitat) în centru.",
+          "Parcarea este scumpă și adesea limitată.",
+          "Drumurile spre lac sunt înguste și șerpuite.",
+          "Folosiți parcările de la marginea orașului."
+        ],
+        "en": [
+          "Watch out for the ZTL (limited traffic zone) in the center.",
+          "Parking is expensive and often limited.",
+          "The roads to the lake are narrow and winding.",
+          "Use the parking garages on the outskirts."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Lungolago Europa",
+            "hu": "Lungolago Europa",
+            "ro": "Lungolago Europa",
+            "en": "Lungolago Europa"
+          },
+          "coords": [
+            9.2625,
+            45.986
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Direkt neben dem Fährterminal.",
+            "hu": "Közvetlenül a kompkikötő mellett.",
+            "ro": "Chiar lângă terminalul de feribot.",
+            "en": "Right next to the ferry terminal."
+          }
+        },
+        {
+          "name": {
+            "de": "Salita Serbelloni",
+            "hu": "Salita Serbelloni",
+            "ro": "Salita Serbelloni",
+            "en": "Salita Serbelloni"
+          },
+          "coords": [
+            9.2628,
+            45.9868
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Muss für jeden Erstbesucher.",
+            "hu": "Kihagyhatatlan minden először idelátogatónak.",
+            "ro": "O necesitate pentru orice vizitator pentru prima dată.",
+            "en": "A must for every first-time visitor."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Giacomo",
+            "hu": "Basilica di San Giacomo",
+            "ro": "Basilica di San Giacomo",
+            "en": "Basilica di San Giacomo"
+          },
+          "coords": [
+            9.262,
+            45.9875
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für Besinnung.",
+            "hu": "Csendes hely az elmélkedésre.",
+            "ro": "Un loc liniștit pentru reflecție.",
+            "en": "A quiet place for reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Melzi d'Eril",
+            "hu": "Villa Melzi d'Eril",
+            "ro": "Villa Melzi d'Eril",
+            "en": "Villa Melzi d'Eril"
+          },
+          "coords": [
+            9.259,
+            45.9785
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hafen.",
+            "hu": "Rövid séta a kikötőtől.",
+            "ro": "O scurtă plimbare de la port.",
+            "en": "A short walk from the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta Spartivento",
+            "hu": "Punta Spartivento",
+            "ro": "Punta Spartivento",
+            "en": "Punta Spartivento"
+          },
+          "coords": [
+            9.2635,
+            45.992
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Der schönste Platz für das Ende Ihrer Reise.",
+            "hu": "A legszebb hely az útja végéhez.",
+            "ro": "Cel mai frumos loc pentru sfârșitul călătoriei tale.",
+            "en": "The most beautiful spot for the end of your trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Fähren und Busse, um Bellagio zu entdecken. Von der Lungolago geht es durch das historische Zentrum zur Basilika und den prachtvollen Villen.\n\nDer Transit-Modus kombiniert kurze Fahrten mit angenehmen Fußwegen zu den wichtigsten Highlights, bis hin zur spektakulären Punta Spartivento.",
+        "hu": "Használja a kompokat és buszokat Bellagio felfedezéséhez. A Lungolagótól a történelmi központon keresztül a bazilikáig és a pompás villákig juthat el.\n\nA tömegközlekedési mód a rövid utazásokat kellemes gyalogutakkal ötvözi a legfontosabb látnivalókig, egészen a látványos Punta Spartiventóig.",
+        "ro": "Folosiți feriboturile și autobuzele pentru a descoperi Bellagio. De la Lungolago, treceți prin centrul istoric până la bazilică și vilele magnifice.\n\nModul de tranzit combină călătoriile scurte cu plimbări plăcute către cele mai importante atracții, până la spectaculoasa Punta Spartivento.",
+        "en": "Use ferries and buses to discover Bellagio. From Lungolago, head through the historical center to the basilica and the magnificent villas.\n\nThe transit mode combines short trips with pleasant walks to the most important highlights, all the way to the spectacular Punta Spartivento."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Local Deli",
+            "tip": "Holen Sie sich ein Sandwich für die Fähre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Local Deli",
+            "tip": "Vegyél egy szendvicset a kompra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Local Deli",
+            "tip": "Luați un sandviș pentru feribot."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Deli",
+            "tip": "Get a sandwich for the ferry."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bänke am Lungolago",
+            "tip": "Beobachten Sie das Treiben der Schiffe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Padok a Lungolagónál",
+            "tip": "Nézze a hajók forgalmát.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci pe Lungolago",
+            "tip": "Urmăriți activitatea navelor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Benches on Lungolago",
+            "tip": "Watch the activity of the ships.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden am Hafen",
+            "tip": "Kleine Geschenke und Postkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékboltok a kikötőben",
+            "tip": "Apró ajándékok és képeslapok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri în port",
+            "tip": "Cadouri mici și cărți poștale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops at the harbor",
+            "tip": "Small gifts and postcards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Fährplan sorgfältig.",
+          "Kaufen Sie Tickets im Voraus online.",
+          "Tragen Sie Ihre Tickets griffbereit.",
+          "Beachten Sie die Stoßzeiten der Touristen."
+        ],
+        "hu": [
+          "Ellenőrizze gondosan a komprendet.",
+          "Vásárolja meg a jegyeket előre online.",
+          "Tartsa kéznél a jegyeit.",
+          "Vegye figyelembe a turista csúcsidőket."
+        ],
+        "ro": [
+          "Verificați cu atenție programul feribotului.",
+          "Cumpărați biletele în avans online.",
+          "Țineți biletele la îndemână.",
+          "Țineți cont de orele de vârf ale turiștilor."
+        ],
+        "en": [
+          "Check the ferry schedule carefully.",
+          "Buy tickets in advance online.",
+          "Keep your tickets handy.",
+          "Consider the tourist peak times."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "city": "Bellagio",
+    "region": "IT-25",
+    "coords": [
+      9.2641,
+      45.9858
+    ],
+    "transit_official": "https://www.navigazionelaghi.it/",
+    "transit_app": "https://www.openmove.com/",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.bellagiolakecomo.com/",
+    "tourism_office": "https://www.bellagiolakecomo.com/",
+    "webcam": "https://www.skylinewebcams.com/",
+    "restaurants_booking": "https://www.thefork.it/",
+    "museum_tickets": "https://www.bellagiolakecomo.com/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Tourismusort, Englisch fast überall, oft auch Deutsch und Französisch.",
+      "hu": "Turistahely, az angol szinte mindenhol megy, gyakran német, francia is.",
+      "ro": "Destinație turistică, engleza merge peste tot, des și germana sau franceza.",
+      "en": "Tourist hotspot; English ubiquitous, German and French often spoken too."
+    },
+    "best_time": {
+      "de": "Mai, Juni und September; Juli und August sehr voll und teuer.",
+      "hu": "Május, június, szeptember; július-augusztus nagyon zsúfolt és drága.",
+      "ro": "Mai, iunie, septembrie; iulie-august foarte aglomerat și scump.",
+      "en": "May, June and September best; July-August very crowded and expensive."
+    },
+    "warnings": {
+      "de": "Schmale Bergstraßen, Fähre nutzen; im Ort kaum öffentliche Parkplätze.",
+      "hu": "Keskeny hegyi utak, használj kompot; a faluban alig van parkoló.",
+      "ro": "Drumuri înguste de munte, folosește feribotul; aproape fără parcări în sat.",
+      "en": "Narrow mountain roads, take the ferry; almost no public parking in town."
+    }
+  }
+}

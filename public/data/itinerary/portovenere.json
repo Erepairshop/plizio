@@ -1,0 +1,1110 @@
+{
+  "city_id": "portovenere",
+  "anchor": {
+    "name": "Portovenere",
+    "coords": [
+      9.8378,
+      44.05
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 3.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Piazza Bastreri",
+          "coords": [
+            9.8365,
+            44.0512
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Das Tor zur Altstadt mit charmanten Cafés.",
+            "hu": "Az óváros kapuja bájos kávézókkal.",
+            "ro": "Poarta către orașul vechi cu cafenele fermecătoare.",
+            "en": "The gateway to the old town with charming cafes."
+          }
+        },
+        {
+          "name": "Die Palazzata",
+          "coords": [
+            9.8372,
+            44.0505
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Die bunten Turmhäuser dienten einst der Verteidigung.",
+            "hu": "A színes toronyházak egykor védelmi célokat szolgáltak.",
+            "ro": "Casele-turn colorate serveau odinioară la apărare.",
+            "en": "The colorful tower houses once served as defense structures."
+          }
+        },
+        {
+          "name": "Kirche San Lorenzo",
+          "coords": [
+            9.8355,
+            44.0502
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Die romanische Kirche beherbergt die Madonna Bianca.",
+            "hu": "A román stílusú templom a Madonna Bianca otthona.",
+            "ro": "Biserica romanică adăpostește pe Madonna Bianca.",
+            "en": "The Romanesque church houses the Madonna Bianca icon."
+          }
+        },
+        {
+          "name": "Castello Doria",
+          "coords": [
+            9.8348,
+            44.0515
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Die Aussicht über den Golf der Poeten ist unübertroffen.",
+            "hu": "A kilátás a Költők Öblére felülmúlhatatlan.",
+            "ro": "Vederea peste Golful Poeților este de neegalat.",
+            "en": "The view over the Gulf of Poets is unsurpassed."
+          }
+        },
+        {
+          "name": "Kirche San Pietro",
+          "coords": [
+            9.8328,
+            44.0485
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Diese ikonische Kirche steht dramatisch auf einem Felsen.",
+            "hu": "Ez az ikonikus templom drámai módon egy sziklán áll.",
+            "ro": "Această biserică iconică stă dramatic pe o stâncă.",
+            "en": "This iconic church stands dramatically on a rocky headland."
+          }
+        },
+        {
+          "name": "Grotta di Byron",
+          "coords": [
+            9.8325,
+            44.0488
+          ],
+          "category": "natural features",
+          "arrive_at": "15:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Benannt nach dem Dichter, der hier geschwommen sein soll.",
+            "hu": "A költőről nevezték el, aki állítólag itt úszott.",
+            "ro": "Numită după poetul care se spune că a înotat aici.",
+            "en": "Named after Lord Byron, who supposedly swam here."
+          }
+        },
+        {
+          "name": "Portovenere Regionalpark",
+          "coords": [
+            9.8385,
+            44.053
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Ein schöner Ort für einen Spaziergang im Grünen.",
+            "hu": "Szép hely egy zöld környezetben való sétához.",
+            "ro": "Un loc frumos pentru o plimbare în natură.",
+            "en": "A beautiful place for a walk in green surroundings."
+          }
+        },
+        {
+          "name": "Torre Capitolare",
+          "coords": [
+            9.8362,
+            44.0508
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Ein wichtiger Teil der alten Stadtbefestigung.",
+            "hu": "A régi városi erődítmény fontos része.",
+            "ro": "O parte importantă a vechii fortificații a orașului.",
+            "en": "An important part of the old city fortifications."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie das Juwel am Golf der Poeten zu Fuß. Starten Sie auf der Piazza Bastreri und bewundern Sie die Palazzata-Häuserfront. Besuchen Sie die historischen Kirchen San Lorenzo und San Pietro, die majestätisch über dem Meer thront. Nach der Erkundung des Castello Doria und der Byron-Grotte beenden Sie den Tag im Regionalpark mit Blick auf die Insel Palmaria.",
+        "hu": "Fedezze fel gyalog a Költők Öblének ékkövét. Kezdjen a Piazza Bastrerin, és csodálja meg a Palazzata házsorát. Látogassa meg a San Lorenzo és a tenger felett magasodó San Pietro templomokat. A Castello Doria és a Byron-barlang felfedezése után zárja a napot a regionális parkban, kilátással a Palmaria-szigetre.",
+        "ro": "Descoperiți perla Golfului Poeților la pas. Începeți în Piazza Bastreri și admirați fațada caselor Palazzata. Vizitați bisericile istorice San Lorenzo și San Pietro, care tronează maiestuos deasupra mării. După explorarea Castelului Doria și a Grotei lui Byron, încheiați ziua în parcul regional cu vedere spre insula Palmaria.",
+        "en": "Explore the jewel of the Gulf of Poets on foot. Start at Piazza Bastreri and admire the iconic Palazzata housefront. Visit the historic San Lorenzo and San Pietro churches, the latter perched dramatically over the sea. After exploring Castello Doria and Byron's Grotto, end your day in the regional park with views of Palmaria Island."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Muscoli alla Portovenerese",
+            "tip": "Gefüllte Miesmuscheln, eine lokale Spezialität."
+          },
+          {
+            "name": "Pesto Genovese",
+            "tip": "Frisch zubereitet, am besten mit Trofie-Nudeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Muscoli alla Portovenerese",
+            "tip": "Töltött fekete kagyló, helyi specialitás."
+          },
+          {
+            "name": "Pesto Genovese",
+            "tip": "Frissen készítve, a legjobb trofie tésztával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Muscoli alla Portovenerese",
+            "tip": "Midi umplute, o specialitate locală."
+          },
+          {
+            "name": "Pesto Genovese",
+            "tip": "Proaspăt preparat, cel mai bine cu paste trofie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Muscoli alla Portovenerese",
+            "tip": "Stuffed mussels, a signature local dish."
+          },
+          {
+            "name": "Pesto Genovese",
+            "tip": "Freshly made, best enjoyed with trofie pasta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Pietro Terrasse",
+            "tip": "Spektakulärer Blick auf die offene See.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Byron-Grotte Felsen",
+            "tip": "Lauschen Sie dem Rauschen der Wellen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Pietro terasz",
+            "tip": "Látványos kilátás a nyílt tengerre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Byron-barlang sziklái",
+            "tip": "Hallgassa a hullámok zúgását.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terasa San Pietro",
+            "tip": "Vedere spectaculoasă spre marea deschisă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stâncile Grotei Byron",
+            "tip": "Ascultați sunetul valurilor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Pietro Terrace",
+            "tip": "Spectacular views of the open sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Byron Grotto rocks",
+            "tip": "Listen to the soothing sound of the waves.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Capellini",
+            "tip": "Die Haupteinkaufsstraße mit lokalem Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Capellini",
+            "tip": "A fő bevásárlóutca helyi kézműves termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Capellini",
+            "tip": "Strada principală de cumpărături cu artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Capellini",
+            "tip": "The main shopping street with local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie rutschfeste Schuhe für die Felsen.",
+          "Der Aufstieg zum Schloss ist steil, aber lohnenswert.",
+          "Buchen Sie die Fähre nach Palmaria im Voraus.",
+          "Besuchen Sie San Pietro zum Sonnenuntergang.",
+          "Meiden Sie die Hauptbesuchszeiten der Kreuzfahrtschiffe."
+        ],
+        "hu": [
+          "Viseljen csúszásmentes cipőt a sziklákhoz.",
+          "A várba vezető út meredek, de megéri.",
+          "Foglalja le előre a kompot Palmariára.",
+          "Látogasson el a San Pietro templomhoz naplementekor.",
+          "Kerülje a tengerjáró hajók fő látogatási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte antiderapantă pentru stânci.",
+          "Urcarea la castel este abruptă, dar merită.",
+          "Rezervați din timp feribotul spre Palmaria.",
+          "Vizitați San Pietro la apus.",
+          "Evitați orele de vârf ale navelor de croazieră."
+        ],
+        "en": [
+          "Wear non-slip shoes for the rocky areas.",
+          "The climb to the castle is steep but rewarding.",
+          "Book the ferry to Palmaria in advance.",
+          "Visit San Pietro at sunset for the best atmosphere.",
+          "Avoid the peak visiting hours of cruise ships."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piazza Bastreri",
+          "coords": [
+            9.8365,
+            44.0512
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Guter Treffpunkt für Radfahrer.",
+            "hu": "Jó találkozópont kerékpárosoknak.",
+            "ro": "Punct bun de întâlnire pentru bicicliști.",
+            "en": "A good meeting point for cyclists."
+          }
+        },
+        {
+          "name": "Le Grazie",
+          "coords": [
+            9.845,
+            44.067
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "tip_4lang": {
+            "de": "Besuchen Sie das charmante Fischerdorf in der Nachbarschaft.",
+            "hu": "Látogassa meg a szomszédos bájos halászfalut.",
+            "ro": "Vizitați satul de pescari fermecător din vecinătate.",
+            "en": "Visit the charming neighboring fishing village."
+          }
+        },
+        {
+          "name": "Panoramastraße nach La Spezia",
+          "coords": [
+            9.825,
+            44.075
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 6.0,
+          "tip_4lang": {
+            "de": "Fantastischer Blick auf das Arsenal und den Golf.",
+            "hu": "Fantasztikus kilátás az arzenálra és az öbölre.",
+            "ro": "Vedere fantastică spre arsenal și golf.",
+            "en": "Fantastic view over the naval arsenal and the gulf."
+          }
+        },
+        {
+          "name": "Portovenere Regionalpark",
+          "coords": [
+            9.8385,
+            44.053
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 6.5,
+          "tip_4lang": {
+            "de": "Ruhige Wege oberhalb der Küste.",
+            "hu": "Csendes utak a part felett.",
+            "ro": "Trasee liniștite deasupra coastei.",
+            "en": "Quiet paths located above the coastline."
+          }
+        },
+        {
+          "name": "Castello Doria",
+          "coords": [
+            9.8348,
+            44.0515
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Hier müssen Sie Ihr Fahrrad schieben.",
+            "hu": "Itt tolnia kell a kerékpárt.",
+            "ro": "Aici va trebui să împingeți bicicleta.",
+            "en": "You will need to push your bike here."
+          }
+        },
+        {
+          "name": "Kirche San Pietro",
+          "coords": [
+            9.8328,
+            44.0485
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Das Ziel Ihrer Tour an der Spitze der Halbinsel.",
+            "hu": "Túrájának célpontja a félsziget csúcsán.",
+            "ro": "Destinația turului tău în vârful peninsulei.",
+            "en": "The destination of your tour at the tip of the peninsula."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Umgebung von Portovenere mit dem Fahrrad. Die Küstenstraße bietet atemberaubende Ausblicke auf das Meer und führt Sie zum Nachbarort Le Grazie. Über Panoramastraßen kehren Sie zurück nach Portovenere, wo Sie den Regionalpark und die historischen Festungsanlagen entdecken, bevor Sie Ihre Tour an der berühmten Kirche San Pietro abschließen.",
+        "hu": "Fedezze fel Portovenere környékét kerékpárral. A parti út lélegzetelállító kilátást nyújt a tengerre, és elvezeti Önt a szomszédos Le Grazie faluba. Panorámautakon tér vissza Portovenerébe, ahol felfedezi a regionális parkot és a történelmi erődítményeket, mielőtt túráját a híres San Pietro templomnál zárná.",
+        "ro": "Explorați împrejurimile orașului Portovenere cu bicicleta. Drumul de coastă oferă vederi uluitoare spre mare și vă duce la satul vecin Le Grazie. Reveniți în Portovenere pe drumuri panoramice, unde descoperiți parcul regional și fortificațiile istorice, înainte de a încheia turul la faimoasa biserică San Pietro.",
+        "en": "Explore the surroundings of Portovenere by bike. The coastal road offers breathtaking sea views and takes you to the neighboring village of Le Grazie. Return to Portovenere via panoramic roads to discover the regional park and historic fortifications, before ending your tour at the famous San Pietro church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Farinata",
+            "tip": "Kichererbsenfladen, idealer Snack."
+          },
+          {
+            "name": "Ligurisches Olivenöl",
+            "tip": "Probieren Sie es in Le Grazie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farinata",
+            "tip": "Csicseriborsó lepény, ideális falat."
+          },
+          {
+            "name": "Liguriai olívaolaj",
+            "tip": "Kóstolja meg Le Graziéban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Farinata",
+            "tip": "Plăcintă de năut, gustarea ideală."
+          },
+          {
+            "name": "Ulei de măsline ligur",
+            "tip": "Degustați-l în Le Grazie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farinata",
+            "tip": "Chickpea flatbread, an ideal snack."
+          },
+          {
+            "name": "Ligurian olive oil",
+            "tip": "Try it in the village of Le Grazie."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Le Grazie Bucht",
+            "tip": "Ruhigerer Hafen als in Portovenere.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Grazie öböl",
+            "tip": "Csendesebb kikötő, mint Portovenerében.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Le Grazie",
+            "tip": "Port mai liniștit decât cel din Portovenere.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Grazie bay",
+            "tip": "A quieter harbor than Portovenere.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kooperativen",
+            "tip": "Verkauf von Pesto und Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi szövetkezetek",
+            "tip": "Pesto és bor árusítása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cooperative locale",
+            "tip": "Vânzare de pesto și vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local cooperatives",
+            "tip": "Selling local pesto and wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf den Verkehr auf der Hauptstraße.",
+          "In der Altstadt herrscht Radfahrverbot.",
+          "Ein E-Bike hilft bei den Steigungen.",
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Nutzen Sie den Fahrradständer am Eingang."
+        ],
+        "hu": [
+          "Figyeljen a forgalomra a főúton.",
+          "Az óvárosban tilos a kerékpározás.",
+          "Az e-bike segít az emelkedőkön.",
+          "Vigyen magával elegendő vizet.",
+          "Használja a biciklitárolót a bejáratnál."
+        ],
+        "ro": [
+          "Atenție la trafic pe drumul principal.",
+          "Ciclismul este interzis în orașul vechi.",
+          "O bicicletă electrică ajută la urcări.",
+          "Luați suficientă apă.",
+          "Folosiți suportul de biciclete de la intrare."
+        ],
+        "en": [
+          "Watch out for traffic on the main road.",
+          "Cycling is prohibited in the old town.",
+          "An e-bike helps with the steep climbs.",
+          "Carry plenty of water with you.",
+          "Use the bike racks at the town entrance."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 20.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Parkplatz Portovenere",
+          "coords": [
+            9.84,
+            44.055
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Parken Sie weit oben, wenn unten alles voll ist.",
+            "hu": "Parkoljon feljebb, ha lent minden tele van.",
+            "ro": "Parcați mai sus dacă jos totul este plin.",
+            "en": "Park higher up if the lower lots are full."
+          }
+        },
+        {
+          "name": "Die Palazzata",
+          "coords": [
+            9.8372,
+            44.0505
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Vom Parkplatz führt ein Shuttle ins Zentrum.",
+            "hu": "A parkolótól transzferbusz visz a központba.",
+            "ro": "Există un shuttle de la parcare spre centru.",
+            "en": "A shuttle bus runs from the parking area to the center."
+          }
+        },
+        {
+          "name": "Castello Doria",
+          "coords": [
+            9.8348,
+            44.0515
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Ideal für den Vormittag, bevor es zu heiß wird.",
+            "hu": "Ideális délelőttre, mielőtt túl meleg lesz.",
+            "ro": "Ideal pentru dimineață, înainte de a se face prea cald.",
+            "en": "Ideal for the morning before it gets too hot."
+          }
+        },
+        {
+          "name": "Campiglia (Aussichtsdorf)",
+          "coords": [
+            9.79,
+            44.08
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_4lang": {
+            "de": "Ein verstecktes Dorf mit Blick auf beide Seiten der Küste.",
+            "hu": "Rejtett falu kilátással a part mindkét oldalára.",
+            "ro": "Un sat ascuns cu vedere spre ambele părți ale coastei.",
+            "en": "A hidden village with views over both sides of the coast."
+          }
+        },
+        {
+          "name": "Kirche San Pietro",
+          "coords": [
+            9.8328,
+            44.0485
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.5,
+          "tip_4lang": {
+            "de": "Nach der Rückkehr nach Portovenere besuchen.",
+            "hu": "Portovenerébe való visszatérés után látogassa meg.",
+            "ro": "Vizitați după revenirea în Portovenere.",
+            "en": "Visit after returning to Portovenere."
+          }
+        },
+        {
+          "name": "Grotta di Byron",
+          "coords": [
+            9.8325,
+            44.0488
+          ],
+          "category": "natural features",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Genießen Sie die Meeresbrise zum Abschluss.",
+            "hu": "Élvezze a tengeri szellőt befejezésként.",
+            "ro": "Bucurați-vă de briza mării la final.",
+            "en": "Enjoy the sea breeze to wrap up your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto ermöglicht Ihnen einen Ausflug in das spektakuläre Bergdorf Campiglia, von dem aus Sie Portovenere und die Cinque Terre gleichzeitig sehen können. Nach der Ankunft in Portovenere erkunden Sie die historische Palazzata und das Castello Doria. Der Tag endet an der markanten Kirche San Pietro und der Byron-Grotte, wo die Wellen an die Felsen schlagen.",
+        "hu": "Az autó lehetővé teszi egy kirándulást a látványos Campiglia hegyi faluba, ahonnan Portovenerét és a Cinque Terrét egyszerre láthatja. Portovenerébe érkezve fedezze fel a történelmi Palazzatát és a Castello Doriát. A nap a jellegzetes San Pietro templomnál és a Byron-barlangnál ér véget, ahol a hullámok a szikláknak csapódnak.",
+        "ro": "Mașina vă permite o excursie în satul de munte spectaculos Campiglia, de unde puteți vedea Portovenere și Cinque Terre în același timp. La sosirea în Portovenere, explorați istorica Palazzata și Castelul Doria. Ziua se încheie la biserica San Pietro și Grota Byron, unde valurile se sparg de stânci.",
+        "en": "Having a car allows for a trip to the spectacular mountain village of Campiglia, offering views of Portovenere and Cinque Terre simultaneously. Upon arriving in Portovenere, explore the historic Palazzata and Castello Doria. The day ends at the iconic San Pietro church and Byron's Grotto, where the waves crash against the rocks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wildschwein-Spezialitäten",
+            "tip": "In Campiglia probieren."
+          },
+          {
+            "name": "Ligurischer Weißwein",
+            "tip": "Besonders gut in der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vaddisznó ételek",
+            "tip": "Próbálja ki Campigliában."
+          },
+          {
+            "name": "Liguriai fehérbor",
+            "tip": "Különösen jó ebben a régióban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Specialități din mistreț",
+            "tip": "Încercați-le în Campiglia."
+          },
+          {
+            "name": "Vin alb ligur",
+            "tip": "Deosebit de bun în regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wild boar specialties",
+            "tip": "Try them in Campiglia village."
+          },
+          {
+            "name": "Ligurian white wine",
+            "tip": "Particularly good in this region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche von Campiglia",
+            "tip": "Ruhiger Platz mit Panoramablick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Campiglia temploma",
+            "tip": "Csendes tér panoráma kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica din Campiglia",
+            "tip": "Loc liniștit cu vedere panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Campiglia church",
+            "tip": "Quiet square with panoramic views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Kleine Läden in Campiglia."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Kis boltok Campigliában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Magazine mici în Campiglia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local crafts",
+            "tip": "Small shops in Campiglia village."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Zentrum ist fast unmöglich.",
+          "Nutzen Sie den Shuttle-Dienst (Girobus).",
+          "Die Straße nach Campiglia ist sehr eng.",
+          "Bringen Sie Kleingeld für Parkgebühren.",
+          "Achten Sie auf ZTL-Zonen (Einfahrtverbot)."
+        ],
+        "hu": [
+          "A központban szinte lehetetlen parkolni.",
+          "Használja a transzferbuszt (Girobus).",
+          "A Campigliába vezető út nagyon szűk.",
+          "Vigyen aprót a parkolási díjhoz.",
+          "Figyeljen a ZTL (behajtási tilalom) zónákra."
+        ],
+        "ro": [
+          "Parcarea în centru este aproape imposibilă.",
+          "Folosiți serviciul de shuttle (Girobus).",
+          "Drumul spre Campiglia este foarte îngust.",
+          "Aduceți mărunțiș pentru taxele de parcare.",
+          "Atenție la zonele ZTL (acces interzis)."
+        ],
+        "en": [
+          "Parking in the center is nearly impossible.",
+          "Use the shuttle service (Girobus).",
+          "The road to Campiglia is very narrow.",
+          "Bring coins for the parking meters.",
+          "Watch out for ZTL (restricted traffic) zones."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Busstation Portovenere",
+          "coords": [
+            9.8375,
+            44.0535
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Der Bus 11/P kommt direkt von La Spezia.",
+            "hu": "A 11/P busz közvetlenül La Speziából érkezik.",
+            "ro": "Autobuzul 11/P vine direct din La Spezia.",
+            "en": "Bus line 11/P arrives here directly from La Spezia."
+          }
+        },
+        {
+          "name": "Die Palazzata",
+          "coords": [
+            9.8372,
+            44.0505
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Nur ein kurzer Fußweg von der Bushaltestelle.",
+            "hu": "Csak rövid séta a buszmegállótól.",
+            "ro": "La doar o scurtă plimbare de stația de autobuz.",
+            "en": "Only a short walk from the bus station."
+          }
+        },
+        {
+          "name": "Insel Palmaria",
+          "coords": [
+            9.84,
+            44.0435
+          ],
+          "category": "natural features",
+          "arrive_at": "10:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Nehmen Sie das Taxiboot vom Hafen aus.",
+            "hu": "Szálljon taxihajóra a kikötőből.",
+            "ro": "Luați barca taxi din port.",
+            "en": "Take a taxi boat from the main harbor area."
+          }
+        },
+        {
+          "name": "Kirche San Pietro",
+          "coords": [
+            9.8328,
+            44.0485
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Nach der Rückkehr von der Insel besuchen.",
+            "hu": "A szigetről való visszatérés után látogassa meg.",
+            "ro": "Vizitați după revenirea de pe insulă.",
+            "en": "Visit after returning from the island."
+          }
+        },
+        {
+          "name": "Castello Doria",
+          "coords": [
+            9.8348,
+            44.0515
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Die Burg ist ein Muss für jeden Besucher.",
+            "hu": "A vár kötelező látnivaló minden látogatónak.",
+            "ro": "Castelul este obligatoriu pentru orice vizitator.",
+            "en": "The castle is a must-see for every visitor."
+          }
+        },
+        {
+          "name": "Grotta di Byron",
+          "coords": [
+            9.8325,
+            44.0488
+          ],
+          "category": "natural_features",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Zum Abschluss vor der Rückfahrt mit dem Bus.",
+            "hu": "Zárásként a buszos visszautazás előtt.",
+            "ro": "La final înainte de întoarcerea cu autobuzul.",
+            "en": "A final stop before heading back by bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Portovenere ist hervorragend mit dem Bus oder der Fähre erreichbar. Starten Sie im historischen Zentrum und setzen Sie mit dem Boot zur Insel Palmaria über, um die Natur zu genießen. Zurück an Land erkunden Sie die San Pietro Kirche und das Castello Doria. Genießen Sie die entspannte Atmosphäre am Wasser, bevor Sie den Abendbus zurück nach La Spezia nehmen.",
+        "hu": "Portovenere kiválóan elérhető busszal vagy komppal. Kezdjen a történelmi központban, majd hajózzon át a Palmaria-szigetre, hogy élvezze a természetet. Visszatérve a szárazföldre fedezze fel a San Pietro templomot és a Castello Doriát. Élvezze a pihentető vízparti hangulatot, mielőtt felszállna az esti buszra La Spezia felé.",
+        "ro": "Portovenere este ușor accesibil cu autobuzul sau feribotul. Începeți în centrul istoric și traversați cu barca spre insula Palmaria pentru a vă bucura de natură. Reveniți pe uscat pentru a explora biserica San Pietro și Castelul Doria. Bucurați-vă de atmosfera relaxantă de pe malul mării înainte de a lua autobuzul de seară spre La Spezia.",
+        "en": "Portovenere is easily accessible by bus or ferry. Start in the historic center and take a boat trip to Palmaria Island to enjoy its natural beauty. Back on the mainland, explore San Pietro Church and Castello Doria. Soak in the relaxed waterfront atmosphere before taking the evening bus back to La Spezia."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schwertfisch-Pasta",
+            "tip": "In den Restaurants am Kai probieren."
+          },
+          {
+            "name": "Schiacciata",
+            "tip": "Gefülltes Fladenbrot, perfekt für die Insel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kardhalas tészta",
+            "tip": "Próbálja ki a rakparti éttermekben."
+          },
+          {
+            "name": "Schiacciata",
+            "tip": "Töltött lepénykenyér, tökéletes a szigetre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paste cu pește-spadă",
+            "tip": "Încercați la restaurantele de pe chei."
+          },
+          {
+            "name": "Schiacciata",
+            "tip": "Lipie umplută, perfectă pentru insulă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Swordfish pasta",
+            "tip": "Try it at the waterfront restaurants."
+          },
+          {
+            "name": "Schiacciata",
+            "tip": "Stuffed flatbread, perfect for the island."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strände von Palmaria",
+            "tip": "Ruhe abseits des Festlandtrubels.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palmaria strandjai",
+            "tip": "Csend a szárazföldi nyüzsgésen túl.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plajele de pe Palmaria",
+            "tip": "Liniște departe de agitația orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Palmaria beaches",
+            "tip": "Peace away from the mainland hustle.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Pesto-Laden",
+            "tip": "Authentische Saucen zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pestóbolt",
+            "tip": "Eredeti szószok elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin local de pesto",
+            "tip": "Sosuri autentice la pachet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local pesto shop",
+            "tip": "Authentic sauces to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets vorab im Tabakladen.",
+          "Die Fähren haben einen festen Fahrplan.",
+          "Prüfen Sie die letzte Busabfahrt am Abend.",
+          "Nutzen Sie den Girobus für interne Wege.",
+          "Validieren Sie Ihr Ticket im Bus."
+        ],
+        "hu": [
+          "Vegyen buszjegyet előre a dohányboltban.",
+          "A kompoknak rögzített menetrendjük van.",
+          "Ellenőrizze az utolsó busz indulását este.",
+          "Használja a Girobuszt a belső közlekedéshez.",
+          "Érvényesítse a jegyét a buszon."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz de la tabacherie.",
+          "Feriboturile au un program fix.",
+          "Verificați ultima plecare a autobuzului.",
+          "Folosiți Girobus pentru transport intern.",
+          "Validați biletul în autobuz."
+        ],
+        "en": [
+          "Buy bus tickets in advance at a 'Tabacchi'.",
+          "Ferries run on a fixed schedule.",
+          "Check the time for the last bus in the evening.",
+          "Use the Girobus for getting around town.",
+          "Validate your ticket on the bus."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Portovenere",
+    "region": "IT-42",
+    "lon": 9.8378,
+    "lat": 44.05,
+    "transit_official": "https://www.atcesercizio.it/en/uncategorized/atc-for-tourism/",
+    "transit_app": "https://moovitapp.com/",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.eventbrite.it/d/italy--portovenere/events/",
+    "tourism_office": "https://www.comune.portovenere.sp.it/",
+    "webcam": "https://www.skylinewebcams.com/webcam/italia/liguria/la-spezia/portovenere.html",
+    "restaurants_booking": "https://www.thefork.com/",
+    "museum_tickets": "https://www.navigazionegolfodeipoeti.it/en/cinque-terre",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch ist Amtssprache; in Touristenlokalen wird oft Englisch gesprochen.",
+      "hu": "Az olasz a hivatalos nyelv; a turisztikai helyeken sokan beszelnek angolul.",
+      "ro": "Italiana este limba oficiala; in zonele turistice se vorbeste adesea engleza.",
+      "en": "Italian is the official language; English is widely spoken in tourist venues."
+    },
+    "best_time": {
+      "de": "Mai-Juni und September fuer mildes Wetter ohne Hochsaison-Massen.",
+      "hu": "Majus-junius es szeptember a legjobb idoszak, kerulve a foszezont.",
+      "ro": "Mai-iunie si septembrie pentru vreme placuta, fara aglomeratie.",
+      "en": "May-June and September for mild weather without peak crowds."
+    },
+    "warnings": {
+      "de": "ZTL-Zonen im Altstadtkern; mit Bus 11/P aus La Spezia anreisen.",
+      "hu": "ZTL korlatozas az obvarosban; ajanlott a 11/P busz La Speziabol.",
+      "ro": "Zona ZTL in centrul vechi; folositi autobuzul 11/P din La Spezia.",
+      "en": "ZTL restricted-traffic zone in old town; use bus 11/P from La Spezia."
+    }
+  }
+}

@@ -1,0 +1,1036 @@
+{
+  "city_id": "positano",
+  "anchor": {
+    "name": "Positano",
+    "coords": [
+      14.4844,
+      40.628
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Via Pasitea",
+          "coords": [
+            14.483,
+            40.629
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Beste Zeit für Fotos, bevor die Tagestouristen kommen.",
+            "hu": "A legjobb időpont fotózásra, mielőtt megérkeznek a turisták.",
+            "ro": "Cel mai bun moment pentru fotografii înainte de sosirea turiștilor.",
+            "en": "Best time for photos before the day-trippers arrive."
+          }
+        },
+        {
+          "name": "MAR - Museo Archeologico Romano",
+          "coords": [
+            14.485,
+            40.628
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Reservieren Sie Tickets im Voraus für die römische Villa.",
+            "hu": "Foglaljon jegyet előre a római villa megtekintéséhez.",
+            "ro": "Rezervați bilete în avans pentru vila romană.",
+            "en": "Book tickets in advance for the Roman villa tour."
+          }
+        },
+        {
+          "name": "Chiesa di Santa Maria Assunta",
+          "coords": [
+            14.486,
+            40.628
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Bewundern Sie die berühmte schwarze Madonna.",
+            "hu": "Csodálja meg a híres fekete Madonnát.",
+            "ro": "Admirați celebra Madonă neagră.",
+            "en": "Admire the famous Black Madonna icon inside."
+          }
+        },
+        {
+          "name": "Spiaggia Grande",
+          "coords": [
+            14.486,
+            14.486
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Genießen Sie ein Mittagessen mit Blick auf das Meer.",
+            "hu": "Élvezze az ebédet közvetlenül a tengerparton.",
+            "ro": "Bucurați-vă de un prânz cu vedere la mare.",
+            "en": "Enjoy a lunch with a direct view of the turquoise water."
+          }
+        },
+        {
+          "name": "Torre Trasita",
+          "coords": [
+            14.483,
+            40.627
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Ein herrlicher Aussichtspunkt entlang des Klippenweges.",
+            "hu": "Gyönyörű kilátópont a sziklák mentén futó ösvényen.",
+            "ro": "Un punct de belvedere superb de-a lungul potecii de pe faleză.",
+            "en": "A beautiful viewpoint along the cliffside path."
+          }
+        },
+        {
+          "name": "Fornillo-Strand",
+          "coords": [
+            14.481,
+            40.627
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Ruhiger als der Hauptstrand, ideal für den späten Nachmittag.",
+            "hu": "Csendesebb, mint a főstrand, ideális késő délutánra.",
+            "ro": "Mai liniștită decât plaja principală, ideală pentru după-amiază.",
+            "en": "Quieter than the main beach, perfect for late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt in der Via Pasitea, wo die Pastellfarben Positanos im sanften Licht erstrahlen. Tauchen Sie im MAR in die antike Geschichte ein, bevor Sie die spirituelle Ruhe der Chiesa di Santa Maria Assunta suchen. Mittags lockt die Spiaggia Grande mit dem Rauschen der Wellen. Den Nachmittag verbringen Sie auf dem malerischen Weg zur Torre Trasita und beenden den Tag entspannt am Fornillo-Strand.",
+        "hu": "A reggel a Via Pasiteán kezdődik, ahol Positano pasztellszínű házai ragyognak a fényben. Merüljön el az ókori történelemben a MAR múzeumban, majd keresse fel a Chiesa di Santa Maria Assunta spirituális nyugalmát. Délben a Spiaggia Grande hívogat a tenger morajlásával. A délutánt a Torre Trasitához vezető festői ösvényen töltjük, a napot pedig a Fornillo-strandon zárjuk pihenéssel.",
+        "ro": "Dimineața începe pe Via Pasitea, unde culorile pastelate ale Positano strălucesc în lumină. Scufundați-vă în istoria antică la muzeul MAR, apoi căutați liniștea spirituală la Chiesa di Santa Maria Assunta. La prânz, Spiaggia Grande vă atrage cu sunetul valurilor. După-amiaza o petrecem pe poteca pitorească spre Torre Trasita, încheind ziua relaxați pe plaja Fornillo.",
+        "en": "Your morning starts on Via Pasitea, where Positano's pastel houses glow in the soft light. Dive into ancient history at the MAR museum before seeking spiritual peace at the Chiesa di Santa Maria Assunta. At noon, Spiaggia Grande beckons with the sound of the waves. Spend the afternoon on the scenic path to Torre Trasita and end the day relaxed at Fornillo Beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Delizia al Limone",
+            "tip": "Probieren Sie dieses Zitronengebäck bei La Zagara."
+          },
+          {
+            "name": "Linguine alle Vongole",
+            "tip": "Frische Pasta mit Muscheln direkt am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Delizia al Limone",
+            "tip": "Kóstolja meg ezt a citromos süteményt a La Zagara cukrászdában."
+          },
+          {
+            "name": "Linguine alle Vongole",
+            "tip": "Friss kagylós tészta közvetlenül a tengerparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Delizia al Limone",
+            "tip": "Încercați acest produs de patiserie cu lămâie la La Zagara."
+          },
+          {
+            "name": "Linguine alle Vongole",
+            "tip": "Paste proaspete cu scoici chiar pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Delizia al Limone",
+            "tip": "Try this iconic lemon pastry at La Zagara bakery."
+          },
+          {
+            "name": "Linguine alle Vongole",
+            "tip": "Fresh pasta with clams served by the sea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fornillo Küstenweg",
+            "tip": "Ein friedlicher Spaziergang abseits der Massen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Torre Trasita",
+            "tip": "Perfekter Ort für das Panorama bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fornillo part menti sétány",
+            "tip": "Békés séta távol a tömegtől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Torre Trasita",
+            "tip": "Tökéletes hely a naplementés panorámához.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteca de coastă Fornillo",
+            "tip": "O plimbare liniștită departe de mulțime.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Torre Trasita",
+            "tip": "Loc perfect pentru panorama la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fornillo Coastal Path",
+            "tip": "A peaceful walk away from the main crowds.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Torre Trasita",
+            "tip": "Perfect spot for sunset panoramic views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Moda Positano",
+            "tip": "Leinenkleider und handgefertigte Sandalen."
+          },
+          {
+            "name": "Limoncello di Positano",
+            "tip": "Lokaler Zitronenlikör als Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Moda Positano",
+            "tip": "Vászonruhák és kézzel készített szandálok."
+          },
+          {
+            "name": "Limoncello di Positano",
+            "tip": "Helyi citromlikőr ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moda Positano",
+            "tip": "Rochii de in și sandale lucrate manual."
+          },
+          {
+            "name": "Limoncello di Positano",
+            "tip": "Lichior local de lămâie pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Moda Positano",
+            "tip": "Linen dresses and handmade leather sandals."
+          },
+          {
+            "name": "Limoncello di Positano",
+            "tip": "Local lemon liqueur for a perfect souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, Positano besteht aus Treppen.",
+          "Starten Sie früh, um die Hitze und Kreuzfahrtgruppen zu vermeiden.",
+          "Trinken Sie Wasser aus den öffentlichen Brunnen (Nasoni).",
+          "Buchen Sie Restaurants für das Abendessen im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, Positano tele van lépcsőkkel.",
+          "Induljon korán, hogy elkerülje a hőséget és a nagy csoportokat.",
+          "Igyon vizet a nyilvános kutakból (Nasoni).",
+          "Foglaljon asztalt vacsorára jó előre."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, Positano este plin de scări.",
+          "Porniți devreme pentru a evita căldura și grupurile mari.",
+          "Beți apă de la fântânile publice (Nasoni).",
+          "Rezervați masa pentru cină cu mult timp înainte."
+        ],
+        "en": [
+          "Wear comfortable shoes; Positano is built on stairs.",
+          "Start early to beat the heat and the ferry crowds.",
+          "Stay hydrated using the public water fountains (Nasoni).",
+          "Book dinner reservations well in advance for sea views."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Via Pasitea",
+          "coords": [
+            14.483,
+            40.629
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Nutzen Sie ein E-Bike für die steilen Straßen.",
+            "hu": "Használjon elektromos kerékpárt a meredek utcákhoz.",
+            "ro": "Folosiți o bicicletă electrică pentru străzile abrupte.",
+            "en": "Use an E-bike to handle the steep coastal roads."
+          }
+        },
+        {
+          "name": "MAR - Museo Archeologico Romano",
+          "coords": [
+            14.485,
+            40.628
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Sicherer Abstellplatz in der Nähe des Hafens.",
+            "hu": "Biztonságos tárolóhely a kikötő közelében.",
+            "ro": "Loc sigur de parcare în apropierea portului.",
+            "en": "Look for secure parking near the harbor area."
+          }
+        },
+        {
+          "name": "Chiesa di Santa Maria Assunta",
+          "coords": [
+            14.486,
+            40.628
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Kurzer Stopp für die Architektur.",
+            "hu": "Rövid megálló az építészet megcsodálására.",
+            "ro": "Scurtă oprire pentru arhitectură.",
+            "en": "A quick stop to admire the iconic architecture."
+          }
+        },
+        {
+          "name": "Spiaggia Grande",
+          "coords": [
+            14.486,
+            40.627
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Erfrischen Sie sich im Meer nach der Fahrt.",
+            "hu": "Frissüljön fel a tengerben a tekerés után.",
+            "ro": "Răcoriți-vă în mare după plimbare.",
+            "en": "Refresh yourself in the sea after your ride."
+          }
+        },
+        {
+          "name": "Marina Grande",
+          "coords": [
+            14.487,
+            40.627
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Genießen Sie ein Gelato mit Blick auf die Boote.",
+            "hu": "Egyen egy fagyit a hajók látványa mellett.",
+            "ro": "Savurați o înghețată cu vedere la bărci.",
+            "en": "Enjoy a gelato with a view of the colorful boats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Positano auf zwei Rädern, beginnend mit der kurvenreichen Via Pasitea. Ein E-Bike macht den Aufstieg zum MAR und der Kirche Assunta mühelos. Nach der Kultur folgt Entspannung an der Spiaggia Grande. Den Abschluss bildet die Marina Grande, wo Sie das geschäftige Treiben am Hafen beobachten können, bevor Sie den Rückweg antreten.",
+        "hu": "Fedezze fel Positanót két keréken, kezdve a kanyargós Via Pasiteával. Az elektromos kerékpár megkönnyíti a feljutást a MAR múzeumhoz és az Assunta templomhoz. A kultúra után jöhet a Spiaggia Grande strandja. A napot a Marina Grandénál zárjuk, figyelve a kikötő nyüzsgését, mielőtt visszaindulnánk.",
+        "ro": "Explorați Positano pe două roți, începând cu Via Pasitea șerpuitoare. O bicicletă electrică face urcarea la MAR și biserica Assunta fără efort. După cultură, relaxați-vă pe Spiaggia Grande. Încheiați la Marina Grande, urmărind forfota portului înainte de a pleca înapoi.",
+        "en": "Explore Positano on two wheels, starting with the winding Via Pasitea. An E-bike makes the ascent to the MAR and Assunta church effortless. After the culture, relax on Spiaggia Grande beach. Finalize at Marina Grande, watching the harbor bustle before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lemon Sorbet",
+            "tip": "Serviert in einer riesigen echten Zitrone."
+          },
+          {
+            "name": "Cuoppo di Pesce",
+            "tip": "Frittierter Fisch in einer Tüte zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citromos sorbet",
+            "tip": "Hatalmas, igazi citromban tálalva."
+          },
+          {
+            "name": "Cuoppo di Pesce",
+            "tip": "Sült hal papírtölcsérben, útközbeni falatozáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sorbet de lămâie",
+            "tip": "Servit într-o lămâie uriașă adevărată."
+          },
+          {
+            "name": "Cuoppo di Pesce",
+            "tip": "Pește prăjit într-un cornet, bun de luat la drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lemon Sorbet",
+            "tip": "Served inside a giant real Amalfi lemon."
+          },
+          {
+            "name": "Cuoppo di Pesce",
+            "tip": "Fried seafood in a paper cone, perfect for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belvedere di Positano",
+            "tip": "Stoppen Sie an der SS163 für das ikonische Foto.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvedere di Positano",
+            "tip": "Álljon meg az SS163 úton az ikonikus fotóért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere di Positano",
+            "tip": "Opriți-vă pe SS163 pentru fotografia iconică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belvedere di Positano",
+            "tip": "Stop along the SS163 road for the iconic photo.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik-Shops",
+            "tip": "Farbenfrohe handbemalte Teller aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámia üzletek",
+            "tip": "Színes, kézzel festett helyi tányérok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de ceramică",
+            "tip": "Farfurii colorate pictate manual din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramic Shops",
+            "tip": "Colorful hand-painted local Amalfi plates."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie vorsichtig, die Straßen sind schmal und kurvenreich.",
+          "Achten Sie auf die SITA-Busse in den Kurven.",
+          "Parken Sie Ihr Rad nur an ausgewiesenen Stellen.",
+          "Ein Helm ist aufgrund des Verkehrs absolut ratsam."
+        ],
+        "hu": [
+          "Vezessen óvatosan, az utak szűkek és kanyargósak.",
+          "Figyeljen a SITA buszokra a kanyarokban.",
+          "Csak a kijelölt helyeken parkolja le a biciklit.",
+          "A forgalom miatt a sisak használata erősen ajánlott."
+        ],
+        "ro": [
+          "Conduceți cu atenție, drumurile sunt înguste și șerpuite.",
+          "Fiți atenți la autobuzele SITA în curbe.",
+          "Parcați bicicleta doar în locurile permise.",
+          "Casca este absolut recomandată din cauza traficului."
+        ],
+        "en": [
+          "Ride cautiously as roads are narrow and winding.",
+          "Watch out for large SITA buses on the hairpins.",
+          "Park your bike only in designated zones.",
+          "A helmet is highly recommended due to busy traffic."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Via Pasitea",
+          "coords": [
+            14.483,
+            40.629
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Nutzen Sie eines der Parkhäuser, Straßenparken ist fast unmöglich.",
+            "hu": "Használja a parkolóházakat, az utcai parkolás szinte lehetetlen.",
+            "ro": "Folosiți parcările etajate, parcarea pe stradă este imposibilă.",
+            "en": "Use a parking garage; street parking is nearly impossible."
+          }
+        },
+        {
+          "name": "Marina Grande",
+          "coords": [
+            14.487,
+            40.627
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Idealer Ort für ein schnelles Foto vom Hafen.",
+            "hu": "Ideális hely egy gyors fotóra a kikötőben.",
+            "ro": "Loc ideal pentru o fotografie rapidă în port.",
+            "en": "Great spot for a quick photo of the harbor activity."
+          }
+        },
+        {
+          "name": "Chiesa di Santa Maria Assunta",
+          "coords": [
+            14.486,
+            40.628
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Ein Muss in jedem Positano-Besuch.",
+            "hu": "Minden positanoi látogatás kötelező eleme.",
+            "ro": "O oprire obligatorie în orice vizită la Positano.",
+            "en": "A must-see part of any Positano itinerary."
+          }
+        },
+        {
+          "name": "Sentiero degli Dei (Nocelle)",
+          "coords": [
+            14.502,
+            40.63
+          ],
+          "category": "natural features",
+          "arrive_at": "12:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_4lang": {
+            "de": "Fahren Sie bis Nocelle für den atemberaubendsten Blick.",
+            "hu": "Hajtson el Nocelle-be a legszebb kilátásért.",
+            "ro": "Conduceți până la Nocelle pentru cea mai uluitoare priveliște.",
+            "en": "Drive up to Nocelle for the most breathtaking views."
+          }
+        },
+        {
+          "name": "Li Galli Inseln (Aussichtspunkt)",
+          "coords": [
+            14.47,
+            40.615
+          ],
+          "category": "natural features",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.8,
+          "tip_4lang": {
+            "de": "Halten Sie an der Küstenstraße für den Blick auf die Sireneninseln.",
+            "hu": "Álljon meg a part menti úton a szirének szigeteire nyíló kilátásért.",
+            "ro": "Opriți pe drumul de coastă pentru vederea spre insulele sirenelor.",
+            "en": "Stop along the coastal road for views of the Siren islands."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Positano und seine Höhenlagen. Nach einem Spaziergang im Zentrum fahren Sie hinauf nach Nocelle, dem Tor zum Pfad der Götter. Hier genießen Sie ein Panorama, das zu den schönsten der Welt zählt. Am Nachmittag führt die Fahrt entlang der Amalfi-Küste mit spektakulären Ausblicken auf die Li Galli Inseln.",
+        "hu": "Autóval Positanót és annak magaslatait fedezhetjük fel. A központban tett séta után hajtson fel Nocelle-be, az Istenek ösvényének kapujába. Itt olyan panorámában lesz része, amely a világ legszebbjei közé tartozik. Délután az Amalfi-part mentén autózunk tovább, lenyűgöző kilátással a Li Galli-szigetekre.",
+        "ro": "Cu mașina explorăm Positano și înălțimile sale. După o plimbare în centru, conduceți până la Nocelle, poarta către Cărarea Zeilor. Aici vă veți bucura de o panoramă printre cele mai frumoase din lume. După-amiaza, drumul continuă de-a lungul coastei Amalfi, cu vederi spectaculoase spre insulele Li Galli.",
+        "en": "By car, you can explore Positano and its higher surroundings. After a stroll in the center, drive up to Nocelle, the gateway to the Path of the Gods. Here, you'll witness a panorama ranked among the world's finest. In the afternoon, the drive along the Amalfi Coast offers spectacular views of the Li Galli Islands."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Scialatielli ai Frutti di Mare",
+            "tip": "Probieren Sie diese frische Pasta in Nocelle."
+          },
+          {
+            "name": "Pesce all'Acqua Pazza",
+            "tip": "Fisch nach lokaler Art zubereitet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Scialatielli ai Frutti di Mare",
+            "tip": "Kóstolja meg ezt a tésztafélét Nocelle-ben."
+          },
+          {
+            "name": "Pesce all'Acqua Pazza",
+            "tip": "Helyi módon készített halétel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scialatielli ai Frutti di Mare",
+            "tip": "Încercați aceste paste proaspete în Nocelle."
+          },
+          {
+            "name": "Pesce all'Acqua Pazza",
+            "tip": "Pește gătit în stil local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Scialatielli ai Frutti di Mare",
+            "tip": "Try this handmade pasta with seafood in Nocelle."
+          },
+          {
+            "name": "Pesce all'Acqua Pazza",
+            "tip": "Fish cooked in 'crazy water' style."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nocelle",
+            "tip": "Ein ruhiges Bergdorf hoch über dem Trubel.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussichtspunkt SS163",
+            "tip": "Panoramablick auf die gesamte Küste.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nocelle",
+            "tip": "Csendes hegyi falu magasan a nyüzsgés felett.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "SS163 kilátópont",
+            "tip": "Panoráma az egész partvidékre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Nocelle",
+            "tip": "Un sat de munte liniștit deasupra agitației.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Belvedere SS163",
+            "tip": "Vedere panoramică asupra întregii coaste.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nocelle",
+            "tip": "A quiet mountain village high above the bustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "SS163 Viewpoint",
+            "tip": "Panoramic view of the entire coastline.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl & Kräuter",
+            "tip": "Kaufen Sie lokale Produkte in den kleinen Läden oben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj és fűszerek",
+            "tip": "Vásároljon helyi termékeket a fenti kisboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline și ierburi",
+            "tip": "Cumpărați produse locale în micile magazine de sus."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil & Herbs",
+            "tip": "Buy locally sourced products in the upper village shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkgebühren in Positano sind sehr hoch (ca. 8-10€/h).",
+          "Mieten Sie ein kleines Auto, die Straßen sind extrem eng.",
+          "Vermeiden Sie das Fahren am Wochenende wegen Staus.",
+          "Die Küstenstraße SS163 erfordert volle Konzentration."
+        ],
+        "hu": [
+          "A parkolási díjak Positanóban nagyon magasak (kb. 8-10€/óra).",
+          "Béreljen kisautót, az utak rendkívül szűkek.",
+          "Hétvégén kerülje az autózást a dugók miatt.",
+          "Az SS163-as út teljes koncentrációt igényel."
+        ],
+        "ro": [
+          "Taxele de parcare în Positano sunt foarte mari (aprox. 8-10€/h).",
+          "Închiriați o mașină mică, drumurile sunt extrem de înguste.",
+          "Evitați condusul în weekend din cauza ambuteiajelor.",
+          "Drumul de coastă SS163 necesită concentrare maximă."
+        ],
+        "en": [
+          "Parking fees in Positano are very high (approx. 8-10€/h).",
+          "Rent a small car; the streets are incredibly narrow.",
+          "Avoid driving on weekends due to heavy traffic jams.",
+          "The SS163 coastal road requires full concentration."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 6.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Via Pasitea",
+          "coords": [
+            14.483,
+            40.629
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Steigen Sie an der Haltestelle 'Sponda' aus für den besten Abstieg.",
+            "hu": "Szálljon le a 'Sponda' megállónál a legszebb sétához.",
+            "ro": "Coborâți la stația 'Sponda' pentru cea mai bună plimbare la vale.",
+            "en": "Get off at the 'Sponda' stop for the best walk downhill."
+          }
+        },
+        {
+          "name": "Chiesa di Santa Maria Assunta",
+          "coords": [
+            14.486,
+            40.628
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Nur wenige Gehminuten vom Strand entfernt.",
+            "hu": "Csak pár perc séta a tengerparttól.",
+            "ro": "La doar câteva minute de mers pe jos de plajă.",
+            "en": "Located just a few minutes' walk from the beach."
+          }
+        },
+        {
+          "name": "MAR - Museo Archeologico Romano",
+          "coords": [
+            14.485,
+            40.628
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Zentral gelegen und leicht erreichbar.",
+            "hu": "Központi elhelyezkedésű és könnyen elérhető.",
+            "ro": "Situat central și ușor accesibil.",
+            "en": "Centrally located and very easy to reach on foot."
+          }
+        },
+        {
+          "name": "Spiaggia Grande",
+          "coords": [
+            14.486,
+            40.627
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Der Knotenpunkt für alle Fähren.",
+            "hu": "Minden komp és hajó központi csomópontja.",
+            "ro": "Nodul central pentru toate feriboturile.",
+            "en": "The central hub for all departing ferries."
+          }
+        },
+        {
+          "name": "Li Galli Inseln (Bootsfahrt)",
+          "coords": [
+            14.475,
+            40.618
+          ],
+          "category": "natural features",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_4lang": {
+            "de": "Nehmen Sie ein Wassertaxi für eine private Tour.",
+            "hu": "Vegyen igénybe vízitaxit egy privát túrához.",
+            "ro": "Luați un taxi pe apă pentru un tur privat.",
+            "en": "Take a water taxi or shuttle boat for a short tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Bus und Boot, um Positano stressfrei zu erleben. Nach dem Besuch der Altstadt und des MAR führt der Weg zum Pier an der Spiaggia Grande. Von dort aus eröffnet eine kurze Bootsfahrt zu den Li Galli Inseln eine völlig neue Perspektive auf die vertikale Stadt vom Wasser aus.",
+        "hu": "Használja a buszt és a hajót Positano stresszmentes felfedezéséhez. Az óváros és a MAR múzeum után az út a Spiaggia Grande mólójához vezet. Onnan egy rövid hajókázás a Li Galli-szigetek felé teljesen új perspektívát nyit a függőleges városra a víz felől.",
+        "ro": "Folosiți autobuzul și barca pentru a experimenta Positano fără stres. După vizitarea centrului vechi și a MAR, drumul duce la debarcaderul de la Spiaggia Grande. De acolo, o scurtă plimbare cu barca spre insulele Li Galli oferă o perspectivă nouă asupra orașului vertical de pe apă.",
+        "en": "Use bus and boat to experience Positano stress-free. After visiting the old town and the MAR museum, head to the pier at Spiaggia Grande. From there, a short boat trip towards the Li Galli Islands offers a completely new perspective of the vertical city from the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasta al Limone",
+            "tip": "Ein Klassiker der Region."
+          },
+          {
+            "name": "Espresso Corretto",
+            "tip": "Nach dem Mittagessen in einer Bar am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasta al Limone",
+            "tip": "A régió egyik klasszikusa."
+          },
+          {
+            "name": "Espresso Corretto",
+            "tip": "Ebéd után egy kikötői bárban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasta al Limone",
+            "tip": "Un clasic al regiunii."
+          },
+          {
+            "name": "Espresso Corretto",
+            "tip": "După prânz într-un bar din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasta al Limone",
+            "tip": "A light and zesty local classic dish."
+          },
+          {
+            "name": "Espresso Corretto",
+            "tip": "Enjoy it after lunch at a harbor-side bar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bootstour",
+            "tip": "Die Ruhe des offenen Meeres genießen.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hajótúra",
+            "tip": "Élvezze a nyílt tenger nyugalmát.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tur cu barca",
+            "tip": "Bucurați-vă de liniștea mării deschise.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Boat Tour",
+            "tip": "Enjoy the serenity of the open sea.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Leder-Sandalen",
+            "tip": "Werden direkt vor Ihren Augen maßgefertigt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bőrszandálok",
+            "tip": "Saját szemével láthatja, ahogy méretre készítik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandale de piele",
+            "tip": "Sunt făcute pe măsură chiar sub ochii tăi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leather Sandals",
+            "tip": "Have them custom-made right before your eyes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie SITA-Bustickets in Tabacchi-Läden (nicht im Bus).",
+          "Die Fähren sind oft pünktlicher als die Busse.",
+          "Laden Sie die 'Unico Campania' App für Fahrpläne herunter.",
+          "Rechnen Sie mit langen Warteschlangen an den Bushaltestellen."
+        ],
+        "hu": [
+          "Vegyen SITA buszjegyet a Tabacchi üzletekben (a buszon nem lehet).",
+          "A kompok gyakran pontosabbak, mint a buszok.",
+          "Töltse le az 'Unico Campania' alkalmazást a menetrendekhez.",
+          "Számítson hosszú sorokra a buszmegállókban."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz SITA de la Tabacchi (nu în autobuz).",
+          "Feriboturile sunt adesea mai punctuale decât autobuzele.",
+          "Descărcați aplicația 'Unico Campania' pentru orare.",
+          "Așteptați-vă la cozi lungi în stațiile de autobuz."
+        ],
+        "en": [
+          "Buy SITA bus tickets at Tabacchi shops (not on board).",
+          "Ferries are often more reliable and punctual than buses.",
+          "Download the 'Unico Campania' app for live schedules.",
+          "Be prepared for long queues at bus stops during peak season."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "transit_official": "https://www.sitasudtrasporti.it/",
+    "transit_app": "https://citymapper.com/naples",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.salernotoday.it/eventi/",
+    "tourism_office": "https://www.positano.com/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/campania/salerno/positano.html",
+    "restaurants_booking": "https://www.thefork.com/restaurants/positano-c386934",
+    "museum_tickets": "https://www.getyourguide.com/positano-l791/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Per favore (per fa-VO-re, Bitte), Scusi (SKU-zi, Entschuldigung), Dov'è la spiaggia? (do-VE la SPJAD-dscha, Wo ist der Strand?)",
+      "hu": "Per favore (per favore, Kérem), Scusi (szkuzi, Elnézést), Dov'è la spiaggia? (dovè la szpiaddzsa, Hol van a strand?)",
+      "ro": "Per favore (per fa-vo-re, Vă rog), Scusi (sku-zi, Scuzaţi), Dov'è la spiaggia? (do-ve la spia-dja, Unde e plaja?)",
+      "en": "Per favore (pehr fah-VOH-reh, Please), Scusi (SKOO-zee, Excuse me), Dov'è la spiaggia? (doh-VEH lah SPYAH-jah, Where is the beach?)"
+    },
+    "best_time_to_visit": {
+      "de": "Mitte Mai bis Mitte Juni oder September-Oktober: angenehme Temperaturen, badetauglich, ohne August-Überfüllung.",
+      "hu": "Május közepétől június közepéig vagy szeptember-október: kellemes hőmérséklet, fürdésre alkalmas, augusztusi tömeg nélkül.",
+      "ro": "Mijlocul lui mai până la mijlocul lui iunie sau septembrie-octombrie: temperaturi plăcute, bun pentru înot, fără aglomeraţia din august.",
+      "en": "Mid-May to mid-June or September-October: pleasant temperatures, swimmable sea, without August overcrowding."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr viele steile Treppen, ungeeignet für Mobilitätseingeschränkte; Parken extrem teuer und knapp.",
+      "hu": "Rengeteg meredek lépcső, mozgáskorlátozottaknak nem ajánlott; a parkolás drága és nagyon korlátozott.",
+      "ro": "Foarte multe trepte abrupte, nepotrivit pentru persoane cu mobilitate redusă; parcarea e scumpă şi rară.",
+      "en": "Many steep staircases, not suited for limited mobility; parking is extremely expensive and scarce."
+    }
+  }
+}

@@ -1,0 +1,1242 @@
+{
+  "city_id": "taormina",
+  "anchor": {
+    "name": "Taormina",
+    "coords": [
+      15.2917,
+      37.8536
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:15",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Palazzo Corvaja",
+            "hu": "Palazzo Corvaja",
+            "ro": "Palazzo Corvaja",
+            "en": "Corvaja Palace"
+          },
+          "coords": [
+            15.2897,
+            37.853
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mischung aus arabischen, normannischen und gotischen Baustilen im Innenhof.",
+            "hu": "Csodáld meg az arab, normann és gótikus építészeti stílusok keveredését a belső udvaron.",
+            "ro": "Admirați amestecul de stiluri arhitecturale arabe, normande și gotice în curtea interioară.",
+            "en": "Admire the mix of Arabic, Norman, and Gothic architectural styles in the inner courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Theater von Taormina",
+            "hu": "Taorminai görög színház",
+            "ro": "Teatrul Antic din Taormina",
+            "en": "Ancient Theatre of Taormina"
+          },
+          "coords": [
+            15.2925,
+            37.8525
+          ],
+          "category": "theatres",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Blick durch die zerbrochenen Säulen auf den Ätna ist das berühmteste Fotomotiv Siziliens.",
+            "hu": "A törött oszlopok közül az Etna felé nyíló kilátás Szicília leghíresebb fotótémája.",
+            "ro": "Vederea prin coloanele rupte spre Muntele Etna este cel mai faimos motiv foto din Sicilia.",
+            "en": "The view through the broken columns towards Mount Etna is Sicily's most famous photo spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Naumachie",
+            "hu": "Naumachie",
+            "ro": "Naumachie",
+            "en": "Naumachie"
+          },
+          "coords": [
+            15.2892,
+            37.8528
+          ],
+          "category": "monuments",
+          "arrive_at": "12:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Diese römische Ziegelmauer diente einst als Stütze für eine riesige Wasserzisterne.",
+            "hu": "Ez a római téglafal egykor egy hatalmas víztározó megtámasztására szolgált.",
+            "ro": "Acest zid de cărămidă romană a servit odinioară ca suport pentru o cisternă uriașă de apă.",
+            "en": "This Roman brick wall once served as a support for a massive water cistern."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Comunale",
+            "hu": "Villa Comunale park",
+            "ro": "Villa Comunale",
+            "en": "Villa Comunale"
+          },
+          "coords": [
+            15.2905,
+            37.8515
+          ],
+          "category": "parks",
+          "arrive_at": "13:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie die viktorianischen 'The Beehives' von Lady Florence Trevelyan im Park.",
+            "hu": "Keresd meg Lady Florence Trevelyan viktoriánus 'méhkasait' a park területén.",
+            "ro": "Căutați 'The Beehives' victoriene ale lui Lady Florence Trevelyan în parcul public.",
+            "en": "Look for Lady Florence Trevelyan's Victorian 'Beehives' structures within the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza IX Aprile",
+            "hu": "Piazza IX Aprile",
+            "ro": "Piazza IX Aprile",
+            "en": "Piazza IX Aprile"
+          },
+          "coords": [
+            15.2875,
+            37.8528
+          ],
+          "category": "squares",
+          "arrive_at": "15:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Granita im Caffè Wunderbar, während Sie die Aussichtsterrasse bewundern.",
+            "hu": "Élvezz egy granitát a Caffè Wunderbarban, miközben a kilátóteraszt csodálod.",
+            "ro": "Savurați o granita la Caffè Wunderbar în timp ce admirați terasa panoramică.",
+            "en": "Enjoy a granita at Caffè Wunderbar while admiring the panoramic lookout terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Corso Umberto",
+            "hu": "Corso Umberto",
+            "ro": "Corso Umberto",
+            "en": "Corso Umberto"
+          },
+          "coords": [
+            15.286,
+            37.8525
+          ],
+          "category": "old-town",
+          "arrive_at": "16:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die handgemalte Keramik in den kleinen Gassen, die vom Corso abzweigen.",
+            "hu": "Figyeld a kézzel festett kerámiákat a Corsóról nyíló kis mellékutcákban.",
+            "ro": "Căutați ceramica pictată manual în micile alei care se ramifică din Corso.",
+            "en": "Look out for hand-painted ceramics in the small alleys branching off the Corso."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Taormina",
+            "hu": "Taorminai dóm",
+            "ro": "Domul din Taormina",
+            "en": "Cathedral of Taormina"
+          },
+          "coords": [
+            15.2845,
+            37.8522
+          ],
+          "category": "cathedrals",
+          "arrive_at": "17:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie den Barockbrunnen mit der berittenen Zentauren-Statue auf dem Vorplatz.",
+            "hu": "Nézd meg a barokk kutat a lovas kentaur szobrával a dóm előtti téren.",
+            "ro": "Admirați fântâna barocă cu statuia centaurului călare din fața catedralei.",
+            "en": "Admire the Baroque fountain with the mounted centaur statue in the square in front."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am Palazzo Corvaja, wo arabische Einflüsse auf sizilianische Gotik treffen. Ein kurzer Spaziergang führt zum Highlight, dem antiken Theater, dessen Kulisse mit dem rauchenden Ätna weltweit einzigartig ist. Die Naumachie-Ruinen zeugen mittags von römischer Ingenieurskunst.\n\nNachmittags bietet die schattige Villa Comunale Ruhe inmitten exotischer Pflanzen, bevor das gesellschaftliche Leben auf der Piazza IX Aprile pulsiert. Der Tag klingt mit einem Bummel durch die elegante Einkaufsmeile Corso Umberto aus, die direkt zum imposanten Dom San Nicola führt, wo die historische Atmosphäre Taorminas am stärksten spürbar ist.",
+        "hu": "A reggel a Palazzo Corvajánál indul, ahol az arab hatások találkoznak a szicíliai gótikával. Egy rövid séta vezet a csúcspontig, a görög színházig, amelynek háttere a füstölgő Etnával világszerte egyedülálló. A Naumachie romjai délidőben a római mérnöki tudásról tanúskodnak.\n\nDélután az árnyas Villa Comunale kínál nyugalmat az egzotikus növények között, mielőtt a társasági élet felpezsdülne a Piazza IX Aprile téren. A nap a Corso Umberto elegáns üzletei közötti sétával zárul, amely egyenesen a lenyűgöző San Nicola dómhoz vezet, ahol Taormina történelmi hangulata a leginkább érezhető.",
+        "ro": "Dimineața începe la Palazzo Corvaja, unde influențele arabe întâlnesc goticul sicilian. O scurtă plimbare duce la punctul culminant, teatrul antic, al cărui decor cu muntele Etna fumegând este unic în lume. Ruinele Naumachie depun mărturie la prânz despre măiestria inginerească romană.\n\nDupă-amiaza, Villa Comunale umbrită oferă liniște printre plantele exotice, înainte ca viața socială să vibreze în Piazza IX Aprile. Ziua se încheie cu o plimbare pe eleganta stradă comercială Corso Umberto, care duce direct la impunătorul Dom San Nicola, unde atmosfera istorică a Taorminei este cel mai puternic resimțită.",
+        "en": "The morning starts at Palazzo Corvaja, where Arabic influences meet Sicilian Gothic style. A short walk leads to the highlight, the ancient theatre, whose backdrop of smoking Mount Etna is unique in the world. The Naumachie ruins testify to Roman engineering skills around midday.\n\nIn the afternoon, the shaded Villa Comunale offers peace amidst exotic plants before social life pulses in Piazza IX Aprile. The day concludes with a stroll through the elegant Corso Umberto shopping street, leading straight to the imposing Cathedral of San Nicola, where Taormina's historic atmosphere is most felt."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cannoli Siciliani",
+            "tip": "Probieren Sie die mit frischem Ricotta gefüllten Waffeln bei I Dolci di Nonna Rosa."
+          },
+          {
+            "name": "Pasta alla Norma",
+            "tip": "Klassische Nudeln mit Auberginen und gesalzenem Ricotta in der Osteria RossoDiVino."
+          },
+          {
+            "name": "Arancini",
+            "tip": "Gefüllte Reisbällchen als perfekter Snack bei Da Cristina."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cannoli Siciliani",
+            "tip": "Kóstold meg a friss ricottával töltött ostyát az I Dolci di Nonna Rosa cukrászdában."
+          },
+          {
+            "name": "Pasta alla Norma",
+            "tip": "Klasszikus tészta padlizsánnal és sós ricottával az Osteria RossoDiVino-ban."
+          },
+          {
+            "name": "Arancini",
+            "tip": "Töltött rizsgolyók, a tökéletes utcai étel a Da Cristina üzletében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cannoli Siciliani",
+            "tip": "Încercați vafele umplute cu ricotta proaspătă la I Dolci di Nonna Rosa."
+          },
+          {
+            "name": "Pasta alla Norma",
+            "tip": "Paste clasice cu vinete și ricotta sărată la Osteria RossoDiVino."
+          },
+          {
+            "name": "Arancini",
+            "tip": "Găluște de orez umplute, gustarea perfectă la Da Cristina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cannoli Siciliani",
+            "tip": "Try the waffles filled with fresh ricotta at I Dolci di Nonna Rosa."
+          },
+          {
+            "name": "Pasta alla Norma",
+            "tip": "Classic pasta with eggplant and salted ricotta at Osteria RossoDiVino."
+          },
+          {
+            "name": "Arancini",
+            "tip": "Stuffed rice balls, the perfect street food snack at Da Cristina."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Villa Comunale Gärten",
+            "tip": "Ein friedlicher Rückzugsort mit Meerblick.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Belvedere di Via Roma",
+            "tip": "Panorama-Balkon fernab der Hauptströme.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Chiesa di San Pancrazio",
+            "tip": "Stiller Innenhof einer alten Barockkirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Comunale kertek",
+            "tip": "Békés menedék tengeri kilátással.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Belvedere di Via Roma",
+            "tip": "Panorámás erkély távol a főbb tömegektől.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Chiesa di San Pancrazio",
+            "tip": "Egy régi barokk templom csendes belső udvara.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Villa Comunale",
+            "tip": "Un refugiu liniștit cu vedere la mare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Belvedere di Via Roma",
+            "tip": "Balcon panoramic departe de fluxurile principale.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Chiesa di San Pancrazio",
+            "tip": "Curtea interioară liniștită a unei vechi biserici baroce.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Comunale Gardens",
+            "tip": "A peaceful retreat with sea views.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Belvedere di Via Roma",
+            "tip": "Panoramic balcony away from the main crowds.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Chiesa di San Pancrazio",
+            "tip": "Quiet inner courtyard of an old Baroque church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik-Studios",
+            "tip": "Suchen Sie nach handgefertigten 'Teste di Moro' (Mohrenköpfen)."
+          },
+          {
+            "name": "Antico Bazar",
+            "tip": "Lokale Weine, Olivenöl und Pistazienprodukte aus Bronte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámia stúdiók",
+            "tip": "Keresd a kézzel készített 'Teste di Moro' (mór fej) díszeket."
+          },
+          {
+            "name": "Antico Bazar",
+            "tip": "Helyi borok, olívaolaj és Bronte-i pisztácia termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Studiouri de ceramică",
+            "tip": "Căutați obiectele 'Teste di Moro' (capete de maur) lucrate manual."
+          },
+          {
+            "name": "Antico Bazar",
+            "tip": "Vinuri locale, ulei de măsline și produse din fistic de Bronte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramic Studios",
+            "tip": "Look for handcrafted 'Teste di Moro' (Moor's heads) ornaments."
+          },
+          {
+            "name": "Antico Bazar",
+            "tip": "Local wines, olive oil, and pistachio products from Bronte."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Pflaster im Zentrum rutschig sein kann.",
+          "Die Hauptstraße Corso Umberto ist zwischen 18:00 und 20:00 Uhr am belebtesten (Passeggiata).",
+          "Besuchen Sie das Theater gleich morgens, um die größten Reisegruppen zu vermeiden.",
+          "Öffentliche Toiletten befinden sich in der Nähe des Parkplatzes Lumbi und am Corso Umberto.",
+          "Trinkwasserbrunnen (Nasoni) sind über die ganze Altstadt verteilt."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mert a központ kövezete csúszós lehet.",
+          "A Corso Umberto főutca 18:00 és 20:00 között a legzsúfoltabb (Passeggiata ideje).",
+          "Látogasd meg a színházat rögtön nyitáskor, hogy elkerüld a nagy turistacsoportokat.",
+          "Nyilvános WC-k a Lumbi parkoló közelében és a Corso Umberto mentén találhatók.",
+          "Ivóvízkutak (Nasoni) az egész óváros területén elszórva megtalálhatóak."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centru poate fi alunecos.",
+          "Strada principală Corso Umberto este cea mai aglomerată între orele 18:00 și 20:00 (Passeggiata).",
+          "Vizitați teatrul chiar de dimineață pentru a evita cele mai mari grupuri de turiști.",
+          "Toaletele publice se află lângă parcarea Lumbi și de-a lungul Corso Umberto.",
+          "Cișmelele cu apă potabilă (Nasoni) sunt răspândite în tot orașul vechi."
+        ],
+        "en": [
+          "Wear comfortable shoes as the paving in the center can be slippery.",
+          "The main street Corso Umberto is busiest between 18:00 and 20:00 (Passeggiata time).",
+          "Visit the theatre first thing in the morning to avoid the largest tour groups.",
+          "Public toilets are located near the Lumbi parking lot and along Corso Umberto.",
+          "Drinking water fountains (Nasoni) are scattered throughout the old town."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza IX Aprile",
+            "hu": "Piazza IX Aprile",
+            "ro": "Piazza IX Aprile",
+            "en": "Piazza IX Aprile"
+          },
+          "coords": [
+            15.2875,
+            37.8528
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt mit flachem Gelände, bevor die Abfahrt zur Küste beginnt.",
+            "hu": "Lapos terepű kiindulópont, mielőtt megkezdődik a leereszkedés a part felé.",
+            "ro": "Punct de plecare cu teren plat înainte de a începe coborârea spre coastă.",
+            "en": "Flat starting point before the descent to the coast begins."
+          }
+        },
+        {
+          "name": {
+            "de": "Isola Bella",
+            "hu": "Isola Bella",
+            "ro": "Isola Bella",
+            "en": "Isola Bella"
+          },
+          "coords": [
+            15.3005,
+            37.8505
+          ],
+          "category": "natural features",
+          "arrive_at": "10:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad oben an der Treppe an; der Strand ist nur zu Fuß erreichbar.",
+            "hu": "Zárd le a kerékpárt a lépcső tetején; a strand csak gyalogosan érhető el.",
+            "ro": "Încuiați bicicleta în vârful scărilor; plaja este accesibilă doar pe jos.",
+            "en": "Lock your bike at the top of the stairs; the beach is only accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Comunale",
+            "hu": "Villa Comunale park",
+            "ro": "Villa Comunale",
+            "en": "Villa Comunale"
+          },
+          "coords": [
+            15.2905,
+            37.8515
+          ],
+          "category": "parks",
+          "arrive_at": "13:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig auf der Via Roma, um diesen Park mit tollen Fotostopps zu erreichen.",
+            "hu": "Óvatosan tekerj a Via Román, hogy elérd ezt a parkot remek fotómegállókkal.",
+            "ro": "Pedalați cu atenție pe Via Roma pentru a ajunge la acest parc cu opriri foto grozave.",
+            "en": "Cycle carefully on Via Roma to reach this park with great photo stops."
+          }
+        },
+        {
+          "name": {
+            "de": "Corso Umberto",
+            "hu": "Corso Umberto",
+            "ro": "Corso Umberto",
+            "en": "Corso Umberto"
+          },
+          "coords": [
+            15.286,
+            37.8525
+          ],
+          "category": "old-town",
+          "arrive_at": "16:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "In der Fußgängerzone müssen Fahrräder geschoben werden.",
+            "hu": "A sétálóövezetben a kerékpárokat tolni kell.",
+            "ro": "În zona pietonală, bicicletele trebuie împinse pe lângă.",
+            "en": "In the pedestrian zone, bikes must be pushed."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Taormina",
+            "hu": "Taorminai dóm",
+            "ro": "Domul din Taormina",
+            "en": "Cathedral of Taormina"
+          },
+          "coords": [
+            15.2845,
+            37.8522
+          ],
+          "category": "cathedrals",
+          "arrive_at": "16:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Ende der Tour am westlichen Stadttor (Porta Catania).",
+            "hu": "A túra vége a nyugati városkapunál (Porta Catania).",
+            "ro": "Sfârșitul turului la poarta de vest a orașului (Porta Catania).",
+            "en": "End of the tour at the western city gate (Porta Catania)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour beginnt auf der Piazza IX Aprile mit einem Panoramablick. Danach folgt die rasante Abfahrt hinunter zur Isola Bella, wo der Vormittag am kristallklaren Wasser verbracht wird. Mittags geht es auf der Küstenstraße weiter, bevor der anstrengendere Anstieg zurück in die Oberstadt erfolgt.\n\nNach der Anstrengung bietet die Villa Comunale schattige Ruhepausen. Am späten Nachmittag wird das Rad durch den Corso Umberto geschoben, um die Boutiquen zu bewundern, bis die Tour schließlich am Domplatz endet. Eine perfekte Kombination aus Küstenbrise und historischem Flair.",
+        "hu": "A kerékpártúra a Piazza IX Aprile téren indul panorámás kilátással. Ezután következik a lendületes ereszkedés az Isola Bella felé, ahol a délelőttöt a kristálytiszta víz mellett töltjük. Délben a parti úton haladunk tovább, mielőtt megkezdődne a fárasztóbb emelkedő vissza a felsővárosba.\n\nA megerőltetés után a Villa Comunale kínál árnyas pihenőket. Késő délután a kerékpárt a Corso Umbertón keresztül toljuk, megcsodálva a butikokat, amíg a túra végül a dóm téren véget nem ér. A tengeri szellő és a történelmi hangulat tökéletes kombinációja.",
+        "ro": "Turul cu bicicleta începe în Piazza IX Aprile cu o vedere panoramică. Urmează coborârea rapidă spre Isola Bella, unde dimineața este petrecută lângă apa cristalină. La prânz continuăm pe drumul de coastă înainte de a începe urcarea mai solicitantă înapoi în orașul de sus.\n\nDupă efort, Villa Comunale oferă pauze de odihnă la umbră. La sfârșitul după-amiezii, bicicleta este împinsă prin Corso Umberto pentru a admira buticurile, până când turul se termină în cele din urmă în piața domului. O combinație perfectă de briză marină și fler istoric.",
+        "en": "The bike tour starts at Piazza IX Aprile with a panoramic view. Then follows the rapid descent down to Isola Bella, where the morning is spent by the crystal-clear water. At noon, we continue on the coastal road before the more strenuous climb back to the upper town begins.\n\nAfter the effort, Villa Comunale offers shaded rest stops. In the late afternoon, the bike is pushed through Corso Umberto to admire the boutiques until the tour finally ends at the Cathedral Square. A perfect combination of coastal breeze and historical flair."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Granita al Limone",
+            "tip": "Erfrischen Sie sich nach der Fahrt im Bam Bar."
+          },
+          {
+            "name": "Frittierter Fisch",
+            "tip": "Genießen Sie frische Meeresfrüchte in Giardini Naxos am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citromos granita",
+            "tip": "Frissülj fel a tekerés után a Bam Bar-ban."
+          },
+          {
+            "name": "Sült hal",
+            "tip": "Élvezd a friss tenger gyümölcseit Giardini Naxos strandján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Granita de lămâie",
+            "tip": "Răcoriți-vă după plimbare la Bam Bar."
+          },
+          {
+            "name": "Pește prăjit",
+            "tip": "Savurați fructe de mare proaspete pe plaja din Giardini Naxos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lemon Granita",
+            "tip": "Refresh yourself after the ride at Bam Bar."
+          },
+          {
+            "name": "Fried Fish",
+            "tip": "Enjoy fresh seafood at the beach in Giardini Naxos."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Isola Bella Bucht",
+            "tip": "Suchen Sie sich einen Platz auf den Felsen am frühen Morgen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Isola Bella öböl",
+            "tip": "Keress egy helyet a sziklákon kora reggel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Isola Bella",
+            "tip": "Găsiți un loc pe stânci dimineața devreme.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Isola Bella Bay",
+            "tip": "Find a spot on the rocks early in the morning.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rad-Souvenirs",
+            "tip": "Kleine lokale Läden in der Nähe von Porta Messina."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpáros szuvenírek",
+            "tip": "Kis helyi boltok a Porta Messina közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri pentru bicicliști",
+            "tip": "Mici magazine locale lângă Porta Messina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycling Souvenirs",
+            "tip": "Small local shops near Porta Messina."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße von Taormina nach Isola Bella ist sehr kurvig; achten Sie auf Busse.",
+          "Ein Elektrofahrrad (E-Bike) wird für den Rückweg dringend empfohlen.",
+          "In der Hochsaison ist Radfahren in der Altstadt fast unmöglich; parken Sie außerhalb.",
+          "Nutzen Sie die Küstenstraße SS114 für längere, flachere Strecken.",
+          "Nehmen Sie ausreichend Wasser für den steilen Anstieg mit."
+        ],
+        "hu": [
+          "A Taormina és Isola Bella közötti út nagyon kanyargós; figyelj a buszokra.",
+          "Az elektromos kerékpár (e-bike) erősen ajánlott a visszaúthoz.",
+          "Főszezonban a biciklizés az óvárosban szinte lehetetlen; parkolj kívül.",
+          "Használd az SS114-es parti utat a hosszabb, laposabb szakaszokhoz.",
+          "Vigyél magaddal elegendő vizet a meredek emelkedőhöz."
+        ],
+        "ro": [
+          "Drumul de la Taormina la Isola Bella este foarte sinuos; atenție la autobuze.",
+          "O bicicletă electrică (e-bike) este recomandată pentru drumul de întoarcere.",
+          "În plin sezon, mersul pe bicicletă în orașul vechi este aproape imposibil; parcați în exterior.",
+          "Folosiți drumul de coastă SS114 pentru trasee mai lungi și mai plate.",
+          "Luați suficientă apă pentru urcarea abruptă."
+        ],
+        "en": [
+          "The road from Taormina to Isola Bella is very winding; watch out for buses.",
+          "An electric bike (e-bike) is highly recommended for the return journey.",
+          "In peak season, cycling in the old town is almost impossible; park outside.",
+          "Use the SS114 coastal road for longer, flatter stretches.",
+          "Take enough water for the steep climb."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "19:30",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello Saraceno",
+            "hu": "Castello Saraceno",
+            "ro": "Castello Saraceno",
+            "en": "Saracen Castle"
+          },
+          "coords": [
+            15.2825,
+            37.855
+          ],
+          "category": "castles",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Von hier oben überblicken Sie ganz Taormina und die Küste bis Messina.",
+            "hu": "Innen fentről belátni egész Taorminát és a partvonalat egészen Messináig.",
+            "ro": "De aici puteți vedea întreaga Taormina și linia de coastă până la Messina.",
+            "en": "From up here, you can see all of Taormina and the coastline all the way to Messina."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Theater von Taormina",
+            "hu": "Taorminai görög színház",
+            "ro": "Teatrul Antic din Taormina",
+            "en": "Ancient Theatre of Taormina"
+          },
+          "coords": [
+            15.2925,
+            37.8525
+          ],
+          "category": "theatres",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Lumbi und nehmen Sie den Shuttle ins Zentrum.",
+            "hu": "Parkolj a Lumbi parkolóházban, és használd az ingajáratot a központba.",
+            "ro": "Parcați în parcarea Lumbi și luați naveta către centru.",
+            "en": "Park in the Lumbi parking garage and take the shuttle to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza IX Aprile",
+            "hu": "Piazza IX Aprile",
+            "ro": "Piazza IX Aprile",
+            "en": "Piazza IX Aprile"
+          },
+          "coords": [
+            15.2875,
+            37.8528
+          ],
+          "category": "squares",
+          "arrive_at": "12:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für ein schnelles Mittagessen mit Aussicht.",
+            "hu": "Tökéletes hely egy gyors ebédre pazar kilátással.",
+            "ro": "Locul perfect pentru un prânz rapid cu vedere.",
+            "en": "The perfect place for a quick lunch with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "Isola Bella",
+            "hu": "Isola Bella",
+            "ro": "Isola Bella",
+            "en": "Isola Bella"
+          },
+          "coords": [
+            15.3005,
+            37.8505
+          ],
+          "category": "natural features",
+          "arrive_at": "13:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Es gibt begrenzte Parkplätze an der Straße; kommen Sie früh oder parken Sie in Mazzarò.",
+            "hu": "Korlátozott parkolóhelyek vannak az út mentén; érkezz korán vagy parkolj Mazzaròban.",
+            "ro": "Există locuri de parcare limitate pe marginea drumului; veniți devreme sau parcați în Mazzarò.",
+            "en": "There are limited parking spots along the road; arrive early or park in Mazzarò."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Taormina",
+            "hu": "Taorminai dóm",
+            "ro": "Domul din Taormina",
+            "en": "Cathedral of Taormina"
+          },
+          "coords": [
+            15.2845,
+            37.8522
+          ],
+          "category": "cathedrals",
+          "arrive_at": "17:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus Porta Catania, das direkt unter dem Domplatz liegt.",
+            "hu": "Használd a Porta Catania parkolóházat, amely közvetlenül a dóm tér alatt található.",
+            "ro": "Folosiți parcarea Porta Catania, situată direct sub piața domului.",
+            "en": "Use the Porta Catania parking garage, located directly below the Cathedral Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelmola (Ausflug)",
+            "hu": "Castelmola (kirándulás)",
+            "ro": "Castelmola (excursie)",
+            "en": "Castelmola (Excursion)"
+          },
+          "coords": [
+            15.277,
+            37.859
+          ],
+          "category": "region",
+          "arrive_at": "18:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den berühmten Mandelwein in der Bar Turrisi.",
+            "hu": "Kóstold meg a híres mandulabort a Bar Turrisiban.",
+            "ro": "Savurați faimosul vin de migdale la Bar Turrisi.",
+            "en": "Enjoy the famous almond wine at Bar Turrisi."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt spektakulär am Castello Saraceno, das über der Stadt thront. Anschließend geht es zum antiken Theater und einem Mittagessen im Zentrum. Mit dem Auto erreichen wir danach die Bucht von Isola Bella für ein ausgiebiges Bad.\n\nDer späte Nachmittag gehört der Altstadt und dem Dom, bevor wir zum Sonnenuntergang die kurvenreiche Straße nach Castelmola hinauffahren. Von dort oben hat man den besten Blick auf den Ätna und Taormina bei Nacht. Ein krönender Abschluss eines erlebnisreichen Tages.",
+        "hu": "A nap látványosan indul a város felett trónoló Castello Saracenónál. Ezt követően a görög színház és egy belvárosi ebéd következik. Autóval könnyen elérjük az Isola Bella öblét egy kiadós fürdőzéshez.\n\nA késő délután az óvárosé és a dómé, mielőtt a naplementére felautóznánk a kanyargós úton Castelmolába. Onnan nyílik a legjobb kilátás az Etnára és az éjszakai Taorminára. Egy élménydús nap méltó lezárása.",
+        "ro": "Ziua începe spectaculos la Castello Saraceno, care domină orașul. Apoi mergem la teatrul antic și luăm prânzul în centru. Cu mașina ajungem ulterior în golful Isola Bella pentru o baie prelungită.\n\nDupă-amiaza târzie aparține orașului vechi și domului, înainte de a urca pe drumul sinuos spre Castelmola pentru apus. De acolo sus aveți cea mai bună vedere asupra Muntelui Etna și a Taorminei pe timp de noapte. O încheiere perfectă a unei zile pline de experiențe.",
+        "en": "The day begins spectacularly at the Saracen Castle, perched above the city. Then it's on to the ancient theatre and lunch in the center. By car, we then reach the bay of Isola Bella for an extensive swim.\n\nThe late afternoon belongs to the old town and the cathedral before we drive up the winding road to Castelmola for sunset. From up there, you have the best view of Etna and Taormina at night. A crowning conclusion to an eventful day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mandelwein (Vino alla Mandorla)",
+            "tip": "Ein Muss in Castelmola."
+          },
+          {
+            "name": "Pesce Spada",
+            "tip": "Schwertfisch in den Restaurants an der Küste von Mazzarò."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mandulabor (Vino alla Mandorla)",
+            "tip": "Kihagyhatatlan Castelmolában."
+          },
+          {
+            "name": "Pesce Spada",
+            "tip": "Kardhal a Mazzarò-parti éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de migdale (Vino alla Mandorla)",
+            "tip": "Obligatoriu în Castelmola."
+          },
+          {
+            "name": "Pesce Spada",
+            "tip": "Pește spadă în restaurantele de pe coasta Mazzarò."
+          }
+        ],
+        "en": [
+          {
+            "name": "Almond Wine (Vino alla Mandorla)",
+            "tip": "A must-try in Castelmola."
+          },
+          {
+            "name": "Pesce Spada",
+            "tip": "Swordfish in the restaurants on the coast of Mazzarò."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Castelmola Aussichtspunkt",
+            "tip": "Besonders ruhig nach den Tagestouristen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Castelmola kilátópont",
+            "tip": "Különösen csendes a napi turistacsoportok után.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Castelmola",
+            "tip": "Deosebit de liniștit după plecarea turiștilor de o zi.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castelmola Lookout",
+            "tip": "Especially quiet after the day tourists leave.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lederwaren",
+            "tip": "In den Geschäften am Corso Umberto."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bőráruk",
+            "tip": "A Corso Umberto üzleteiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Articole din piele",
+            "tip": "În magazinele de pe Corso Umberto."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leather Goods",
+            "tip": "In the shops along Corso Umberto."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie niemals mit dem Auto in die ZTL (verkehrsberuhigte Zone) im Zentrum.",
+          "Nutzen Sie die großen Parkhäuser (Lumbi, Porta Catania, Porta Pasquale).",
+          "Die Straße nach Castelmola ist eng und steil; fahren Sie vorsichtig.",
+          "Parken bei Isola Bella ist im Sommer fast unmöglich, nutzen Sie die Seilbahn.",
+          "In Sizilien ist der Fahrstil dynamisch; bleiben Sie gelassen."
+        ],
+        "hu": [
+          "Soha ne hajts be autóval a központ ZTL (forgalomcsillapított) zónájába.",
+          "Használd a nagy parkolóházakat (Lumbi, Porta Catania, Porta Pasquale).",
+          "A Castelmola felé vezető út szűk és meredek; vezess óvatosan.",
+          "Isola Bella közelében nyáron szinte lehetetlen parkolni, használd a felvonót.",
+          "Szicíliában a vezetési stílus dinamikus; maradj nyugodt."
+        ],
+        "ro": [
+          "Nu intrați niciodată cu mașina în ZTL (zona cu trafic limitat) din centru.",
+          "Folosiți parcările mari (Lumbi, Porta Catania, Porta Pasquale).",
+          "Drumul spre Castelmola este îngust și abrupt; conduceți cu atenție.",
+          "Parcarea la Isola Bella este aproape imposibilă vara, folosiți telecabina.",
+          "În Sicilia stilul de condus este dinamic; rămâneți calmi."
+        ],
+        "en": [
+          "Never drive your car into the ZTL (limited traffic zone) in the center.",
+          "Use the large parking garages (Lumbi, Porta Catania, Porta Pasquale).",
+          "The road to Castelmola is narrow and steep; drive carefully.",
+          "Parking at Isola Bella is almost impossible in summer; use the cable car.",
+          "Driving style in Sicily is dynamic; stay calm."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "19:00",
+      "total_km": 10.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Antikes Theater von Taormina",
+            "hu": "Taorminai görög színház",
+            "ro": "Teatrul Antic din Taormina",
+            "en": "Ancient Theatre of Taormina"
+          },
+          "coords": [
+            15.2925,
+            37.8525
+          ],
+          "category": "theatres",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Busterminal in der Via Pirandello sind es nur wenige Minuten zu Fuß.",
+            "hu": "A Via Pirandello buszpályaudvartól csak pár perc gyalog.",
+            "ro": "De la autogara de pe Via Pirandello sunt doar câteva minute de mers pe jos.",
+            "en": "It's only a few minutes' walk from the bus terminal on Via Pirandello."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Corvaja",
+            "hu": "Palazzo Corvaja",
+            "ro": "Palazzo Corvaja",
+            "en": "Corvaja Palace"
+          },
+          "coords": [
+            15.2897,
+            37.853
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gleich neben der Porta Messina, dem nördlichen Eingang der Stadt.",
+            "hu": "Közvetlenül a Porta Messina, a város északi bejárata mellett.",
+            "ro": "Chiar lângă Porta Messina, intrarea de nord a orașului.",
+            "en": "Right next to Porta Messina, the northern entrance to the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Isola Bella",
+            "hu": "Isola Bella",
+            "ro": "Isola Bella",
+            "en": "Isola Bella"
+          },
+          "coords": [
+            15.3005,
+            37.8505
+          ],
+          "category": "natural features",
+          "arrive_at": "12:50",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Seilbahn (Funivia), die alle 15 Minuten fährt.",
+            "hu": "Használd a felvonót (Funivia), amely 15 percenként közlekedik.",
+            "ro": "Folosiți telecabina (Funivia), care circulă la fiecare 15 minute.",
+            "en": "Use the cable car (Funivia), which runs every 15 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza IX Aprile",
+            "hu": "Piazza IX Aprile",
+            "ro": "Piazza IX Aprile",
+            "en": "Piazza IX Aprile"
+          },
+          "coords": [
+            15.2875,
+            37.8528
+          ],
+          "category": "squares",
+          "arrive_at": "16:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nach der Rückfahrt mit der Seilbahn ein kurzer Spaziergang ins Herz der Stadt.",
+            "hu": "A felvonós visszaút után egy rövid séta a város szívébe.",
+            "ro": "După întoarcerea cu telecabina, o scurtă plimbare până în inima orașului.",
+            "en": "After the return trip by cable car, a short walk into the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Corso Umberto",
+            "hu": "Corso Umberto",
+            "ro": "Corso Umberto",
+            "en": "Corso Umberto"
+          },
+          "coords": [
+            15.286,
+            37.8525
+          ],
+          "category": "old-town",
+          "arrive_at": "17:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Hauptbus von Giardini Naxos hält direkt am Eingang der Fußgängerzone.",
+            "hu": "A Giardini Naxos felől érkező fő buszjárat közvetlenül a sétálóövezet bejáratánál áll meg.",
+            "ro": "Autobuzul principal dinspre Giardini Naxos oprește chiar la intrarea în zona pietonală.",
+            "en": "The main bus from Giardini Naxos stops right at the entrance of the pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Taormina",
+            "hu": "Taorminai dóm",
+            "ro": "Domul din Taormina",
+            "en": "Cathedral of Taormina"
+          },
+          "coords": [
+            15.2845,
+            37.8522
+          ],
+          "category": "cathedrals",
+          "arrive_at": "17:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Endpunkt am Domplatz, von hier aus ist es nicht weit zur Bushaltestelle Porta Catania.",
+            "hu": "Végállomás a dóm téren, innen nincs messze a Porta Catania buszmegálló.",
+            "ro": "Punct final în piața domului, de aici nu este departe până la stația de autobuz Porta Catania.",
+            "en": "End point at the Cathedral Square, from here it's not far to the Porta Catania bus stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem öffentlichen Nahverkehr lässt sich Taormina stressfrei erkunden. Wir starten am antiken Theater und dem Palazzo Corvaja. Mittags schweben wir mit der Seilbahn hinunter zum Strand von Isola Bella.\n\nNachmittags bringt uns die Seilbahn zurück in die Oberstadt für einen Kaffee auf der Piazza IX Aprile. Ein gemütlicher Bummel über den Corso Umberto führt uns zum Dom, bevor wir den Tag entspannt am westlichen Stadttor beenden, von wo aus die Busse zurück zu den Hotels oder zum Bahnhof fahren.",
+        "hu": "Tömegközlekedéssel Taormina stresszmentesen felfedezhető. A görög színháznál és a Palazzo Corvajánál kezdünk. Délben a felvonóval ereszkedünk le az Isola Bella strandjához.\n\nDélután a felvonó visszavisz minket a felsővárosba egy kávéra a Piazza IX Aprile téren. Egy kényelmes séta a Corso Umbertón elvezet a dómig, mielőtt a napot nyugodtan zárnánk a nyugati városkapunál, ahonnan a buszok indulnak vissza a szállodákhoz vagy a vasútállomáshoz.",
+        "ro": "Cu transportul public, Taormina poate fi explorată fără stres. Începem la teatrul antic și la Palazzo Corvaja. La prânz coborâm cu telecabina până la plaja Isola Bella.\n\nDupă-amiaza, telecabina ne aduce înapoi în orașul de sus pentru o cafea în Piazza IX Aprile. O plimbare relaxantă pe Corso Umberto ne duce la dom, înainte de a încheia ziua liniștiți la poarta de vest a orașului, de unde autobuzele pleacă înapoi spre hoteluri sau spre gară.",
+        "en": "Public transport allows for a stress-free exploration of Taormina. We start at the ancient theatre and Palazzo Corvaja. At noon, we glide down to the beach of Isola Bella via the cable car.\n\nIn the afternoon, the cable car brings us back to the upper town for a coffee at Piazza IX Aprile. A leisurely stroll along Corso Umberto leads us to the cathedral before we end the day relaxed at the western city gate, from where buses run back to the hotels or the train station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brioche con Gelato",
+            "tip": "Ein typisch sizilianisches Frühstück, das man überall findet."
+          },
+          {
+            "name": "Arancini alla Carne",
+            "tip": "Ideal für den kleinen Hunger zwischen zwei Busverbindungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Briós fagyival (Brioche con Gelato)",
+            "tip": "Tipikus szicíliai reggeli, amit bárhol megtalálsz."
+          },
+          {
+            "name": "Húsos arancini",
+            "tip": "Ideális egy gyors falatra két buszjárat között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brioche cu înghețată",
+            "tip": "Un mic dejun tipic sicilian pe care îl puteți găsi peste tot."
+          },
+          {
+            "name": "Arancini cu carne",
+            "tip": "Ideal pentru o gustare rapidă între două conexiuni de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brioche with Gelato",
+            "tip": "A typical Sicilian breakfast you can find everywhere."
+          },
+          {
+            "name": "Arancini with Meat",
+            "tip": "Ideal for a quick bite between bus connections."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Seilbahn-Aussicht",
+            "tip": "Genießen Sie den Blick während der 3-minütigen Fahrt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a felvonóból",
+            "tip": "Élvezd a kilátást a 3 perces út alatt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederea din telecabină",
+            "tip": "Bucurați-vă de priveliște în timpul călătoriei de 3 minute.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cable Car View",
+            "tip": "Enjoy the view during the 3-minute ride.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kitsch-Kiosk",
+            "tip": "Klassische Postkarten am Busterminal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenír bódé",
+            "tip": "Klasszikus képeslapok a buszpályaudvaron."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc de suveniruri",
+            "tip": "Cărți poștale clasice la autogară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Kiosk",
+            "tip": "Classic postcards at the bus terminal."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Fahrkarten für die Funivia am Schalter; Einzelfahrt ca. 3 Euro.",
+          "Der 'Taormina Link' Bus verbindet den Bahnhof Taormina-Giardini mit der Altstadt.",
+          "Die Fahrpläne der Überlandbusse (Interbus) können saisonal stark variieren.",
+          "Entwerten Sie Ihr Ticket immer beim Einsteigen in den Bus.",
+          "Die Seilbahn ist bei starkem Wind außer Betrieb; es gibt Ersatzbusse."
+        ],
+        "hu": [
+          "Vásárolj jegyet a felvonóra a pénztárnál; egy út kb. 3 euró.",
+          "A 'Taormina Link' busz összeköti a vasútállomást az óvárossal.",
+          "A távolsági buszok (Interbus) menetrendje szezonálisan nagyot változhat.",
+          "Mindig érvényesítsd a jegyedet, amikor felszállsz a buszra.",
+          "Erős szél esetén a felvonó nem közlekedik; ilyenkor pótlóbuszok vannak."
+        ],
+        "ro": [
+          "Cumpărați bilete pentru Funivia de la ghișeu; o călătorie costă aprox. 3 euro.",
+          "Autobuzul 'Taormina Link' face legătura între gară și orașul vechi.",
+          "Orarele autobuzelor interurbane (Interbus) pot varia mult în funcție de sezon.",
+          "Validați întotdeauna biletul când urcați în autobuz.",
+          "Telecabina nu funcționează pe vânt puternic; există autobuze de înlocuire."
+        ],
+        "en": [
+          "Buy tickets for the cable car at the counter; a single trip is approx. 3 euros.",
+          "The 'Taormina Link' bus connects the train station with the old town.",
+          "Intercity bus (Interbus) schedules can vary significantly by season.",
+          "Always validate your ticket when boarding the bus.",
+          "The cable car is out of operation during strong winds; replacement buses are available."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "transit_official": "https://www.atmmessinaspa.it",
+    "transit_app": "https://www.moovitapp.com",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.comune.taormina.me.it",
+    "tourism_office": "https://www.comune.taormina.me.it",
+    "webcam": "https://www.skylinewebcams.com/webcam/italia/sicilia/messina/taormina.html",
+    "restaurants_booking": "https://www.thefork.it",
+    "museum_tickets": "https://www.coopculture.it",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch ist offiziell, sizilianischer Dialekt im Alltag. In Hotels und Restaurants Taorminas wird fließend Englisch gesprochen.",
+      "hu": "Az olasz a hivatalos, a sziciliai dialektus a hétköznapokban. A taorminai szállodákban és éttermekben folyékony az angol.",
+      "ro": "Italiana este oficială, dialectul sicilian e folosit zilnic. În hotelurile și restaurantele din Taormina se vorbește fluent engleza.",
+      "en": "Italian is official with Sicilian dialect in daily life. Hotels and restaurants in Taormina speak fluent English."
+    },
+    "best_time_to_visit": {
+      "de": "April-Juni und September-Oktober: warmes Wetter ohne extreme Hitze. Juli/August können 35 °C plus erreichen.",
+      "hu": "Április-június és szeptember-október: meleg, de nem tikkasztó. Július-augusztusban 35 °C felett lehet.",
+      "ro": "Aprilie-iunie și septembrie-octombrie: vreme caldă, fără arșiță extremă. În iulie/august pot fi peste 35 °C.",
+      "en": "April to June and September to October: warm without extreme heat. July and August can exceed 35 °C."
+    },
+    "neighborhood_warnings": {
+      "de": "Corso Umberto wird zur Hochsaison sehr voll, Taschendiebstahlgefahr. Parken im Zentrum ist begrenzt - Lumbi-Parkhaus mit Shuttle nutzen.",
+      "hu": "A Corso Umberto a főszezonban nagyon zsúfolt, vigyázz a zsebtolvajokra. A központi parkolás korlátozott - Lumbi parkoló + shuttle.",
+      "ro": "Corso Umberto e foarte aglomerat în sezon, atenție la buzunărași. Parcarea în centru e limitată - folosește Lumbi cu navetă.",
+      "en": "Corso Umberto gets very crowded in season; watch for pickpockets. Central parking is limited - use Lumbi car park with shuttle."
+    }
+  }
+}

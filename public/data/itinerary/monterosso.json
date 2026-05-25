@@ -1,0 +1,1062 @@
+{
+  "city_id": "monterosso",
+  "anchor": {
+    "name": "Monterosso al Mare",
+    "coords": [
+      9.6536,
+      44.1463
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Fegina-Strand",
+          "coords": [
+            9.6541,
+            44.1465
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Frühmorgens ist der Strand am ruhigsten für einen Spaziergang.",
+            "hu": "Kora reggel a legcsendesebb a part egy sétához.",
+            "ro": "Plaja este cea mai liniștită dimineața devreme pentru o plimbare.",
+            "en": "The beach is quietest in the early morning for a stroll."
+          }
+        },
+        {
+          "name": "Statue des Riesen",
+          "coords": [
+            9.6508,
+            44.1481
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die 14 Meter hohe Skulptur des Neptun am Ende des Strandes.",
+            "hu": "Csodáld meg a 14 méteres Neptun-szobrot a strand végén.",
+            "ro": "Admirați sculptura de 14 metri a lui Neptun de la capătul plajei.",
+            "en": "Admire the 14-meter Neptune sculpture at the end of the beach."
+          }
+        },
+        {
+          "name": "Torre Aurora",
+          "coords": [
+            9.6575,
+            44.1458
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Der beste Aussichtspunkt, der den neuen und alten Teil der Stadt trennt.",
+            "hu": "A legjobb kilátópont, amely elválasztja az új és a régi városrészt.",
+            "ro": "Cel mai bun punct de belvedere care separă partea nouă de cea veche.",
+            "en": "The best viewpoint separating the new and old parts of town."
+          }
+        },
+        {
+          "name": "Altstadt von Monterosso",
+          "coords": [
+            9.6592,
+            44.1464
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den schmalen Carruggi der historischen Gassen.",
+            "hu": "Vessz el a történelmi utcák szűk sikátoraiban (carruggi).",
+            "ro": "Pierdeți-vă pe străduțele înguste (carruggi) ale centrului istoric.",
+            "en": "Get lost in the narrow carruggi of the historical alleys."
+          }
+        },
+        {
+          "name": "Kirche San Giovanni Battista",
+          "coords": [
+            9.6603,
+            44.1464
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die markante schwarz-weiß gestreifte Fassade.",
+            "hu": "Figyeld meg a jellegzetes fekete-fehér csíkos homlokzatot.",
+            "ro": "Observați fațada distinctivă cu dungi albe și negre.",
+            "en": "Note the distinctive black and white striped facade."
+          }
+        },
+        {
+          "name": "Kapuzinerkloster",
+          "coords": [
+            9.6571,
+            44.1472
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steigen Sie den Hügel hinauf für eine spirituelle Atmosphäre und Panoramafotos.",
+            "hu": "Mássz fel a dombra a spirituális hangulatért és panorámafotókért.",
+            "ro": "Urcați dealul pentru o atmosferă spirituală și fotografii panoramice.",
+            "en": "Climb the hill for a spiritual atmosphere and panoramic photos."
+          }
+        },
+        {
+          "name": "Fegina-Strand",
+          "coords": [
+            9.655,
+            44.1468
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 140,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Sprung ins kristallklare Wasser.",
+            "hu": "Zárd a napot egy csobbanással a kristálytiszta vízben.",
+            "ro": "Încheiați ziua cu o baie în apa cristalină.",
+            "en": "End the day with a dip in the crystal clear water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am weitläufigen Fegina-Strand und bewundern Sie den imposanten Riesen, bevor Sie die Küstenpromenade entlangschlendern. Mittags erkunden Sie die charmante Altstadt mit ihren engen Gassen und genießen ein Pesto-Gericht. Am Nachmittag steigen Sie zum Kapuzinerkloster hinauf, um die beste Aussicht auf die Cinque Terre zu genießen. Den Abend lassen Sie entspannt bei einem Glas Sciacchetrà direkt am Meer ausklingen, während die Sonne langsam hinter den Felsen versinkt.",
+        "hu": "Kezdje a reggelt a tágas Fegina-strandon, megcsodálva az impozáns Óriás-szobrot, mielőtt végigsétálna a tengerparti sétányon. Délben fedezze fel az óváros bájos szűk utcáit, és kóstoljon meg egy pestós fogást. Délután másszon fel a Kapucinusok kolostorához a Cinque Terre legszebb kilátásáért. Az estét töltse pihenéssel a tengerparton egy pohár Sciacchetrà bor társaságában, miközben a nap lassan eltűnik a sziklák mögött.",
+        "ro": "Începeți dimineața pe plaja spațioasă Fegina, admirând impunătoarea statuie a Gigantului, înainte de a vă plimba pe faleză. La prânz, explorați centrul vechi fermecător cu străduțele sale înguste și savurați un preparat cu pesto. După-amiaza, urcați la Mănăstirea Capucinilor pentru cea mai bună vedere asupra Cinque Terre. Încheiați seara relaxându-vă pe malul mării cu un pahar de vin Sciacchetrà, în timp ce soarele apune încet după stânci.",
+        "en": "Start your morning at the spacious Fegina beach, admiring the imposing Giant statue before strolling along the coastal promenade. At midday, explore the charming old town's narrow streets and enjoy a local pesto dish. In the afternoon, climb up to the Capuchin Monastery for the best panoramic views of the Cinque Terre. End the evening relaxing by the sea with a glass of Sciacchetrà wine as the sun slowly sets behind the cliffs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pesto alla Genovese",
+            "tip": "Probieren Sie es mit Trofie-Pasta bei Da Eraldo."
+          },
+          {
+            "name": "Acciughe di Monterosso",
+            "tip": "Lokale gesalzene Sardellen, eine Spezialität des Dorfes."
+          },
+          {
+            "name": "Focaccia ligure",
+            "tip": "Perfekt als schneller Snack zwischendurch in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pesto alla Genovese",
+            "tip": "Kóstold meg Trofie tésztával a Da Eraldo étteremben."
+          },
+          {
+            "name": "Acciughe di Monterosso",
+            "tip": "Helyi sós szardella, a falu igazi különlegessége."
+          },
+          {
+            "name": "Focaccia ligure",
+            "tip": "Tökéletes gyors snack az óvárosi séta közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pesto alla Genovese",
+            "tip": "Încercați-l cu paste Trofie la Da Eraldo."
+          },
+          {
+            "name": "Acciughe di Monterosso",
+            "tip": "Sardine sărate locale, o specialitate a satului."
+          },
+          {
+            "name": "Focaccia ligure",
+            "tip": "Perfectă ca o gustare rapidă în centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pesto alla Genovese",
+            "tip": "Try it with Trofie pasta at Da Eraldo."
+          },
+          {
+            "name": "Acciughe di Monterosso",
+            "tip": "Local salted anchovies, a true specialty of the village."
+          },
+          {
+            "name": "Focaccia ligure",
+            "tip": "Perfect as a quick snack in the old town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kapuzinerhügel",
+            "tip": "Ruhiger Ort mit Blick auf den Hafen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Statua del Gigante",
+            "tip": "Das Ende des Strandes ist abends friedlicher.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kirchplatz San Giovanni",
+            "tip": "Ein schattiger Platz zum Ausruhen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kapucinusok dombja",
+            "tip": "Csendes hely kilátással a kikötőre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Óriás szobra",
+            "tip": "A strand vége este békésebb.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "San Giovanni tér",
+            "tip": "Árnyas tér a pihenéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Capucinilor",
+            "tip": "Loc liniștit cu vedere spre port.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Statuia Gigantului",
+            "tip": "Capătul plajei este mai liniștit seara.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Piața San Giovanni",
+            "tip": "Un loc umbros pentru odihnă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Capuchin Hill",
+            "tip": "Quiet spot with a view of the harbor.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Statue of the Giant",
+            "tip": "The end of the beach is more peaceful in the evening.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "San Giovanni Square",
+            "tip": "A shady spot for a rest.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Enoteca Internazionale",
+            "tip": "Bester Ort für lokalen Wein und Olivenöl."
+          },
+          {
+            "name": "L'Ancora di Monterosso",
+            "tip": "Kunsthandwerk und Souvenirs aus Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Enoteca Internazionale",
+            "tip": "A legjobb hely helyi borokhoz és olívaolajhoz."
+          },
+          {
+            "name": "L'Ancora di Monterosso",
+            "tip": "Kézműves termékek és kerámia szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Enoteca Internazionale",
+            "tip": "Cel mai bun loc pentru vin local și ulei de măsline."
+          },
+          {
+            "name": "L'Ancora di Monterosso",
+            "tip": "Artizanat și suveniruri din ceramică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Enoteca Internazionale",
+            "tip": "Best place for local wine and olive oil."
+          },
+          {
+            "name": "L'Ancora di Monterosso",
+            "tip": "Handicrafts and ceramic souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Aufstieg zum Kloster.",
+          "Der Tunnel verbindet den neuen Stadtteil Fegina mit der Altstadt.",
+          "Reservieren Sie im Sommer unbedingt einen Tisch zum Abendessen.",
+          "Die Züge zwischen den Dörfern sind oft überfüllt, planen Sie Pufferzeit ein."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a kolostorhoz vezető emelkedőhöz.",
+          "Az alagút köti össze az új Fegina negyedet az óvárossal.",
+          "Nyáron mindenképpen foglalj asztalt a vacsorához.",
+          "A falvak közötti vonatok gyakran zsúfoltak, számolj rá időt."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru urcarea spre mănăstire.",
+          "Tunelul leagă cartierul nou Fegina de centrul vechi.",
+          "Rezervați neapărat o masă pentru cină în timpul verii.",
+          "Trenurile între sate sunt adesea aglomerate, planificați timp suplimentar."
+        ],
+        "en": [
+          "Wear comfortable shoes for the climb to the monastery.",
+          "The tunnel connects the new Fegina district with the old town.",
+          "Be sure to book a table for dinner in the summer.",
+          "Trains between villages are often crowded, allow extra time."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Fegina-Strand",
+          "coords": [
+            9.654,
+            44.1465
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Mieten Sie ein E-Bike für die steilen Anstiege über dem Dorf.",
+            "hu": "Bérelj e-bike-ot a falu feletti meredek emelkedőkhöz.",
+            "ro": "Închiriați o bicicletă electrică pentru urcările abrupte de deasupra satului.",
+            "en": "Rent an e-bike for the steep climbs above the village."
+          }
+        },
+        {
+          "name": "Wallfahrtskirche von Soviore",
+          "coords": [
+            9.6661,
+            44.1611
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Das älteste Heiligtum Liguriens mit unglaublicher Aussicht.",
+            "hu": "Liguria legrégebbi szentélye, hihetetlen kilátással.",
+            "ro": "Cel mai vechi sanctuar din Liguria, cu o vedere incredibilă.",
+            "en": "The oldest sanctuary in Liguria with an incredible view."
+          }
+        },
+        {
+          "name": "Altstadt von Monterosso",
+          "coords": [
+            9.6592,
+            44.1464
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Parken Sie das Rad am Eingang der Fußgängerzone.",
+            "hu": "Parkold le a biciklit a sétálóövezet bejáratánál.",
+            "ro": "Parcați bicicleta la intrarea în zona pietonală.",
+            "en": "Park your bike at the entrance of the pedestrian zone."
+          }
+        },
+        {
+          "name": "Oratorio della Confraternita dei Neri",
+          "coords": [
+            9.6601,
+            44.1462
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein faszinierendes barockes Oratorium mit Totenkopf-Dekor.",
+            "hu": "Lenyűgöző barokk oratórium halálfejes díszítéssel.",
+            "ro": "Un oratoriu baroc fascinant cu decorațiuni cu cranii.",
+            "en": "A fascinating Baroque oratory with skull decorations."
+          }
+        },
+        {
+          "name": "Fegina-Strand",
+          "coords": [
+            9.655,
+            44.1468
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Geben Sie das Rad ab und genießen Sie ein kühles Bad.",
+            "hu": "Add le a biciklit és élvezd a hűsítő fürdőt.",
+            "ro": "Predați bicicleta și bucurați-vă de o baie răcoritoare.",
+            "en": "Return the bike and enjoy a refreshing swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem E-Bike erkunden Sie Monterosso über die Grenzen des Zentrums hinaus. Am Vormittag bewältigen Sie den Anstieg zur Wallfahrtskirche von Soviore, die hoch über dem Meer thront. Nach der rasanten Abfahrt parken Sie in der Altstadt für einen Mittagssnack. Den Nachmittag verbringen Sie in den kühlen Kirchen des Zentrums, bevor Sie den Tag am Fegina-Strand entspannt beenden.",
+        "hu": "E-bike-kal fedezze fel Monterossót a központ határain túl is. Délelőtt küzdje le az emelkedőt a tenger felett magasan trónoló Soviore kegytemplomig. A tempós leereszkedés után parkoljon le az óvárosban egy ebédszünetre. A délutánt töltse a központ hűvös templomaiban, mielőtt a napot a Fegina-strandon pihenéssel zárná.",
+        "ro": "Cu bicicleta electrică explorați Monterosso dincolo de limitele centrului. Dimineața, înfruntați urcarea către Sanctuarul Soviore, situat sus deasupra mării. După coborârea rapidă, parcați în centrul vechi pentru un prânz binemeritat. Petreceți după-amiaza în bisericile răcoroase din centru, înainte de a încheia ziua relaxându-vă pe plaja Fegina.",
+        "en": "Use an e-bike to explore Monterosso beyond the town center. In the morning, tackle the climb to the Sanctuary of Soviore, perched high above the sea. After a swift descent, park in the old town for a lunch break. Spend the afternoon in the cool churches of the center before ending the day relaxing at Fegina beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sciacchetrà Wein",
+            "tip": "Süßer Dessertwein, perfekt nach einer Radtour."
+          },
+          {
+            "name": "Farinata",
+            "tip": "Kichererbsenfladen, ein nahrhafter Snack für Sportler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sciacchetrà bor",
+            "tip": "Édes desszertbor, tökéletes egy biciklitúra után."
+          },
+          {
+            "name": "Farinata",
+            "tip": "Csicseriborsólepény, tápláló snack sportolóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Sciacchetrà",
+            "tip": "Vin dulce de desert, perfect după o tură cu bicicleta."
+          },
+          {
+            "name": "Farinata",
+            "tip": "Plăcintă din năut, o gustare nutritivă pentru sportivi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sciacchetrà Wine",
+            "tip": "Sweet dessert wine, perfect after a bike tour."
+          },
+          {
+            "name": "Farinata",
+            "tip": "Chickpea pancake, a nutritious snack for active travelers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Soviore Kirchplatz",
+            "tip": "Absolute Stille unter alten Pinien.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Soviore templomkert",
+            "tip": "Abszolút csend az öreg fenyők alatt.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea bisericii Soviore",
+            "tip": "Liniște absolută sub pinii bătrâni.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Soviore Churchyard",
+            "tip": "Absolute silence under old pine trees.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Officina del Pesto",
+            "tip": "Frisches Pesto zum Mitnehmen in isolierten Beuteln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Officina del Pesto",
+            "tip": "Friss pesto elvitelre hűtőtáskában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Officina del Pesto",
+            "tip": "Pesto proaspăt de luat la pachet în pungi izolate."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Officina del Pesto",
+            "tip": "Fresh pesto to go in insulated bags."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie innerhalb der Fußgängerzone vorsichtig oder schieben Sie das Rad.",
+          "Ein E-Bike ist aufgrund der Steigungen sehr empfehlenswert.",
+          "Nehmen Sie ausreichend Wasser für die Fahrt nach Soviore mit."
+        ],
+        "hu": [
+          "A sétálóövezetben vezess óvatosan vagy told a biciklit.",
+          "Az emelkedők miatt az e-bike erősen ajánlott.",
+          "Vigyél elég vizet a Soviore felé vezető útra."
+        ],
+        "ro": [
+          "Conduceți cu atenție în zona pietonală sau împingeți bicicleta.",
+          "O bicicletă electrică este foarte recomandată din cauza pantelor.",
+          "Luați suficientă apă pentru drumul spre Soviore."
+        ],
+        "en": [
+          "Ride carefully within the pedestrian zone or walk your bike.",
+          "An e-bike is highly recommended due to the steep inclines.",
+          "Take enough water for the ride up to Soviore."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Fegina Parkplatz",
+          "coords": [
+            9.6545,
+            44.1465
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kommen Sie früh an, um einen Parkplatz am Meer zu finden.",
+            "hu": "Érkezz korán, hogy parkolóhelyet találj a tengerparton.",
+            "ro": "Sosiți devreme pentru a găsi un loc de parcare la malul mării.",
+            "en": "Arrive early to find a parking spot by the sea."
+          }
+        },
+        {
+          "name": "Altstadt von Monterosso",
+          "coords": [
+            9.6592,
+            44.1464
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spaziergang vom Parkplatz durch den Tunnel ins Zentrum.",
+            "hu": "Séta a parkolótól az alagúton át a központba.",
+            "ro": "Plimbare de la parcare prin tunel spre centru.",
+            "en": "Walk from the parking lot through the tunnel to the center."
+          }
+        },
+        {
+          "name": "Kirche San Giovanni Battista",
+          "coords": [
+            9.6603,
+            44.1464
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besichtigen Sie das Hauptheiligtum der Altstadt.",
+            "hu": "Látogasd meg az óváros fő szentélyét.",
+            "ro": "Vizitați principalul lăcaș de cult din centrul vechi.",
+            "en": "Visit the main sanctuary of the old town."
+          }
+        },
+        {
+          "name": "Wallfahrtskirche von Soviore",
+          "coords": [
+            9.6661,
+            44.1611
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Fahren Sie die Serpentinen hinauf für eine großartige Aussicht.",
+            "hu": "Vezess fel a szerpentineken a nagyszerű kilátásért.",
+            "ro": "Conduceți pe serpentine pentru o vedere panoramică excelentă.",
+            "en": "Drive up the serpentines for a great view."
+          }
+        },
+        {
+          "name": "Levanto (Aussichtspunkt)",
+          "coords": [
+            9.62,
+            44.165
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Ein herrlicher Stopp auf dem Weg zurück zur Autobahn.",
+            "hu": "Csodás megálló az autópálya felé vezető úton.",
+            "ro": "O oprire superbă pe drumul de întoarcere spre autostradă.",
+            "en": "A wonderful stop on the way back to the highway."
+          }
+        },
+        {
+          "name": "Fegina-Strand",
+          "coords": [
+            9.654,
+            44.1465
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 125,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Letzte Entspannung am Strand vor der Abreise.",
+            "hu": "Utolsó pihenés a strandon a hazaindulás előtt.",
+            "ro": "Ultima relaxare pe plajă înainte de plecare.",
+            "en": "Final relaxation on the beach before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto ist Monterosso am besten über den Ortsteil Fegina zugänglich. Nach dem Parken erkunden Sie vormittags die Altstadt zu Fuß. Mittags fahren Sie in die Berge zur Wallfahrtskirche Soviore, wo Sie dem Trubel entkommen. Den Nachmittag verbringen Sie mit einer kleinen Panoramafahrt Richtung Levanto, bevor Sie für ein letztes Bad im Meer nach Monterosso zurückkehren.",
+        "hu": "Autóval Monterosso leginkább Fegina városrészen keresztül érhető el. Parkolás után délelőtt gyalog fedezze fel az óvárost. Délben autózzon fel a hegyekbe a Soviore kegytemplomhoz, ahol elmenekülhet a tömeg elől. A délutánt tölse egy kis panorámaautózással Levanto felé, mielőtt visszatérne Monterossóba egy utolsó fürdőzésre.",
+        "ro": "Cu mașina, Monterosso este cel mai accesibil prin cartierul Fegina. După parcare, explorați centrul vechi la pas în timpul dimineții. La prânz, conduceți spre munți la Sanctuarul Soviore, unde puteți scăpa de aglomerație. Petreceți după-amiaza cu o scurtă plimbare panoramică spre Levanto, înainte de a reveni în Monterosso pentru o ultimă baie.",
+        "en": "By car, Monterosso is best accessed through the Fegina district. After parking, explore the old town on foot during the morning. At midday, drive up into the mountains to the Sanctuary of Soviore to escape the crowds. Spend the afternoon with a scenic drive towards Levanto before returning to Monterosso for one last dip in the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meeresfrüchte-Fritto Misto",
+            "tip": "Frisch gefangener Fisch, perfekt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei Fritto Misto",
+            "tip": "Frissen fogott hal, tökéletes a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fritto Misto de fructe de mare",
+            "tip": "Pește proaspăt prins, perfect în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood Fritto Misto",
+            "tip": "Freshly caught fish, perfect by the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Soviore Wald",
+            "tip": "Kühle und schattige Plätze abseits der Küste.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Soviore erdő",
+            "tip": "Hűvös és árnyas helyek távol a parttól.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Soviore",
+            "tip": "Locuri răcoroase și umbroase departe de coastă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Soviore Forest",
+            "tip": "Cool and shady spots away from the coast.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig aus Soviore",
+            "tip": "Direkt bei der Wallfahrtskirche erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz Sovioréból",
+            "tip": "Közvetlenül a kegytemplomnál kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală din Soviore",
+            "tip": "Disponibilă direct la sanctuar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey from Soviore",
+            "tip": "Available directly at the sanctuary."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze sind begrenzt und teuer, planen Sie dies ein.",
+          "Die Straßen in Cinque Terre sind schmal und kurvenreich.",
+          "Lassen Sie keine Wertsachen im Auto."
+        ],
+        "hu": [
+          "A parkolóhelyek korlátozottak és drágák, számolj ezzel.",
+          "A Cinque Terre útjai szűkek és kanyargósak.",
+          "Ne hagyj értéket az autóban."
+        ],
+        "ro": [
+          "Locurile de parcare sunt limitate și scumpe, planificați din timp.",
+          "Drumurile din Cinque Terre sunt înguste și sinuoase.",
+          "Nu lăsați obiecte de valoare în mașină."
+        ],
+        "en": [
+          "Parking spaces are limited and expensive, keep this in mind.",
+          "The roads in Cinque Terre are narrow and winding.",
+          "Do not leave valuables in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Bahnhof Monterosso",
+          "coords": [
+            9.6555,
+            44.1465
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Bahnhof liegt direkt am Fegina-Strand.",
+            "hu": "A vasútállomás közvetlenül a Fegina-strandon van.",
+            "ro": "Gara este situată chiar pe plaja Fegina.",
+            "en": "The train station is located directly on Fegina beach."
+          }
+        },
+        {
+          "name": "Wallfahrtskirche von Soviore",
+          "coords": [
+            9.6661,
+            44.1611
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Bus vom Dorfzentrum hierher.",
+            "hu": "Használd a helyi buszt a falu központjából ide.",
+            "ro": "Folosiți autobuzul local din centrul satului până aici.",
+            "en": "Use the local bus from the village center to get here."
+          }
+        },
+        {
+          "name": "Altstadt von Monterosso",
+          "coords": [
+            9.6592,
+            44.1464
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Der Bus hält in der Nähe des Rathauses.",
+            "hu": "A busz a városháza közelében áll meg.",
+            "ro": "Autobuzul oprește lângă primărie.",
+            "en": "The bus stops near the town hall."
+          }
+        },
+        {
+          "name": "Kirche San Giovanni Battista",
+          "coords": [
+            9.6603,
+            44.1464
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kühler Rückzugsort am Mittag.",
+            "hu": "Hűvös menedék délidőben.",
+            "ro": "Un refugiu răcoros la amiază.",
+            "en": "A cool retreat at midday."
+          }
+        },
+        {
+          "name": "Torre Aurora",
+          "coords": [
+            9.6575,
+            44.1458
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Boote im Hafen.",
+            "hu": "Élvezd a kilátást a kikötőben lévő hajókra.",
+            "ro": "Bucurați-vă de vederea spre bărcile din port.",
+            "en": "Enjoy the view of the boats in the harbor."
+          }
+        },
+        {
+          "name": "Fegina-Strand",
+          "coords": [
+            9.654,
+            44.1465
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 190,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Perfekt zum Entspannen vor der Zugfahrt.",
+            "hu": "Tökéletes pihenés a vonatút előtt.",
+            "ro": "Perfect pentru relaxare înainte de călătoria cu trenul.",
+            "en": "Perfect for relaxing before your train ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach Ihrer Ankunft am Bahnhof nutzen Sie den lokalen Shuttlebus, um zur Wallfahrtskirche Soviore aufzusteigen. Mittags kehren Sie in die Altstadt zurück, um durch die Gassen zu schlendern und lokale Delikatessen zu probieren. Der Nachmittag gehört der Erkundung der historischen Kirchen und des Turms Aurora. Den Tag beenden Sie am Fegina-Strand, bevor Sie bequem mit dem Cinque Terre Express weiterreisen.",
+        "hu": "A vasútállomásra való érkezés után használja a helyi buszjáratot, hogy feljusson a Soviore kegytemplomhoz. Délben térjen vissza az óvárosba, hogy végigsétáljon a sikátorokon és megkóstolja a helyi finomságokat. A délután a történelmi templomok és az Aurora-torony felfedezéséé. A napot a Fegina-strandon zárja, mielőtt kényelmesen továbbutazna a Cinque Terre Expresszel.",
+        "ro": "După sosirea la gară, folosiți autobuzul local pentru a urca la Sanctuarul Soviore. La prânz, reveniți în centrul vechi pentru a vă plimba pe străduțe și a gusta delicatese locale. După-amiaza este dedicată explorării bisericilor istorice și a Turnului Aurora. Încheiați ziua pe plaja Fegina, înainte de a pleca confortabil cu Cinque Terre Express.",
+        "en": "After arriving at the train station, use the local shuttle bus to reach the Sanctuary of Soviore. At midday, return to the old town to stroll through the alleys and taste local delicacies. The afternoon is dedicated to exploring historical churches and the Aurora Tower. End your day at Fegina beach before conveniently traveling on with the Cinque Terre Express."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zitronensorbet",
+            "tip": "Hergestellt aus den berühmten Zitronen von Monterosso."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citromszörbet",
+            "tip": "Monterosso híres citromjaiból készül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sorbet de lămâie",
+            "tip": "Preparat din faimoasele lămâi de Monterosso."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lemon Sorbet",
+            "tip": "Made from the famous lemons of Monterosso."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Molo dei Pescatori",
+            "tip": "Ruhiger Platz im Hafen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Molo dei Pescatori",
+            "tip": "Csendes hely a kikötőben.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Molo dei Pescatori",
+            "tip": "Loc liniștit în port.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Molo dei Pescatori",
+            "tip": "Quiet spot in the harbor.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bottega del Limoncino",
+            "tip": "Alles rund um die Zitrone, ideal für Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bottega del Limoncino",
+            "tip": "Minden, ami citrom, ideális ajándékokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bottega del Limoncino",
+            "tip": "Totul despre lămâie, ideal pentru cadouri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bottega del Limoncino",
+            "tip": "Everything lemon, ideal for gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie die Cinque Terre Card für unbegrenzte Zugfahrten.",
+          "Prüfen Sie den Busfahrplan nach Soviore im Voraus.",
+          "Die Fahrkarten müssen vor der Fahrt entwertet werden."
+        ],
+        "hu": [
+          "Vásárolj Cinque Terre Card-ot a korlátlan vonatozáshoz.",
+          "Előre ellenőrizd a buszmenetrendet Soviore felé.",
+          "A menetjegyeket utazás előtt érvényesíteni kell."
+        ],
+        "ro": [
+          "Cumpărați Cinque Terre Card pentru călătorii nelimitate cu trenul.",
+          "Verificați din timp programul autobuzului spre Soviore.",
+          "Biletele trebuie validate înainte de călătorie."
+        ],
+        "en": [
+          "Buy the Cinque Terre Card for unlimited train travel.",
+          "Check the bus schedule to Soviore in advance.",
+          "Tickets must be validated before the journey."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "transit_official": "https://www.parconazionale5terre.it/",
+    "transit_app": null,
+    "bike_share": null,
+    "city_card": "https://www.parconazionale5terre.it/",
+    "events": "https://www.cinqueterre.eu.com/",
+    "tourism_office": "https://www.prolocomonterosso.it/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/liguria/la-spezia.html",
+    "restaurants_booking": "https://www.thefork.com/restaurants/monterosso-al-mare-c386929",
+    "museum_tickets": "https://www.getyourguide.com/cinque-terre-l819/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Sentiero Azzurro (sen-TJE-ro ad-DSU-rro, Blauer Wanderweg), Treno (TRE-no, Zug), Focaccia (fo-KAT-tscha, ligurisches Fladenbrot)",
+      "hu": "Sentiero Azzurro (szentiero adzurro, kék túraút), Treno (tréno, vonat), Focaccia (fokaccsa, ligur lepénykenyér)",
+      "ro": "Sentiero Azzurro (sen-tie-ro a-dzur-ro, Poteca Albastră), Treno (tre-no, tren), Focaccia (fo-cac-cea, pâine plată liguriană)",
+      "en": "Sentiero Azzurro (sen-TYEH-roh aht-SOOR-roh, Blue Trail), Treno (TREH-noh, train), Focaccia (foh-KAH-chah, Ligurian flatbread)"
+    },
+    "best_time_to_visit": {
+      "de": "Mai-Juni und September: ideales Wanderwetter, badetauglich, weniger überfüllte Cinque-Terre-Wanderwege.",
+      "hu": "Május-június és szeptember: ideális túraidő, fürdésre alkalmas, kevésbé zsúfolt Cinque Terre ösvények.",
+      "ro": "Mai-iunie şi septembrie: vreme ideală pentru drumeţii, bună pentru înot, poteci Cinque Terre mai puţin aglomerate.",
+      "en": "May-June and September: ideal hiking weather, swimmable sea, less crowded Cinque Terre trails."
+    },
+    "neighborhood_warnings": {
+      "de": "Wanderwege werden nach Regen oft geschlossen (Erdrutschgefahr); Cinque Terre Card vor dem Wandern prüfen.",
+      "hu": "A túraútvonalakat eső után gyakran lezárják (földcsuszamlás-veszély); indulás előtt ellenőrizd a Cinque Terre Cardot.",
+      "ro": "Potecile se închid frecvent după ploaie (risc de alunecări); verifică Cinque Terre Card înainte de drumeţie.",
+      "en": "Trails are frequently closed after rain (landslide risk); check Cinque Terre Card status before hiking."
+    }
+  }
+}

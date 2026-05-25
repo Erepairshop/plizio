@@ -1,0 +1,1124 @@
+{
+  "city_id": "lazise",
+  "anchor": {
+    "name": "Lazise",
+    "coords": [
+      10.733,
+      45.5006
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Vittorio Emanuele",
+            "hu": "Piazza Vittorio Emanuele",
+            "ro": "Piazza Vittorio Emanuele",
+            "en": "Piazza Vittorio Emanuele"
+          },
+          "coords": [
+            10.7332,
+            45.5052
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Frühstücken Sie hier mit Blick auf den Hafen.",
+            "hu": "Reggelizzen itt a kikötőre néző teraszok egyikén.",
+            "ro": "Luați micul dejun aici, la una dintre terasele cu vedere la port.",
+            "en": "Have breakfast here at one of the terraces overlooking the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Scaligero",
+            "hu": "Castello Scaligero",
+            "ro": "Castello Scaligero",
+            "en": "Scaliger Castle"
+          },
+          "coords": [
+            10.7315,
+            45.5042
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposanten Mauern von außen.",
+            "hu": "Csodálja meg az impozáns falakat kívülről.",
+            "ro": "Admirați zidurile impunătoare din exterior.",
+            "en": "Admire the imposing walls from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mura di Lazise",
+            "hu": "Lazise városfalai",
+            "ro": "Zidurile din Lazise",
+            "en": "Walls of Lazise"
+          },
+          "coords": [
+            10.7345,
+            45.5061
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gehen Sie entlang der gut erhaltenen Wehranlagen.",
+            "hu": "Sétáljon végig a jól megőrzött védművek mentén.",
+            "ro": "Plimbați-vă de-a lungul fortificațiilor bine conservate.",
+            "en": "Walk along the well-preserved defensive structures."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Nicolò",
+            "hu": "San Nicolò templom",
+            "ro": "Biserica San Nicolò",
+            "en": "Church of San Nicolò"
+          },
+          "coords": [
+            10.7312,
+            45.5068
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie die romanischen Fresken im Inneren.",
+            "hu": "Tekintse meg a belső tér román stílusú freskóit.",
+            "ro": "Vizitați frescele romanice din interior.",
+            "en": "Visit the Romanesque frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Dogana Veneta",
+            "hu": "Dogana Veneta",
+            "ro": "Dogana Veneta",
+            "en": "Dogana Veneta"
+          },
+          "coords": [
+            10.7318,
+            45.5072
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein historisches Gebäude direkt am Wasser.",
+            "hu": "Történelmi épület közvetlenül a vízparton.",
+            "ro": "O clădire istorică situată chiar pe malul apei.",
+            "en": "A historic building located right on the waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Vecchio",
+            "hu": "Régi kikötő",
+            "ro": "Portul Vechi",
+            "en": "Old Port"
+          },
+          "coords": [
+            10.7325,
+            45.5075
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Perfekt für ein Eis am Nachmittag.",
+            "hu": "Tökéletes hely egy délutáni fagylaltozáshoz.",
+            "ro": "Perfect pentru o înghețată după-amiaza.",
+            "en": "Perfect for an afternoon ice cream."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungolago Marconi",
+            "hu": "Lungolago Marconi",
+            "ro": "Lungolago Marconi",
+            "en": "Lungolago Marconi"
+          },
+          "coords": [
+            10.7305,
+            45.5085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang am Seeufer.",
+            "hu": "Élvezze a naplementét a tóparti sétányon.",
+            "ro": "Bucurați-vă de apusul soarelui pe faleză.",
+            "en": "Enjoy the sunset on the lakeside promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Lazise auf der Piazza Vittorio Emanuele, wo Sie das geschäftige Treiben bei einem Kaffee beobachten können. Ein kurzer Spaziergang führt Sie zum Castello Scaligero, dessen Mauern die reiche Geschichte des Gardasees erzählen. Mittags erkunden Sie die alten Stadtmauern und die romanische Kirche San Nicolò, bevor Sie die Dogana Veneta besuchen. Am Nachmittag schlendern Sie durch den alten Hafen und beenden den Tag entspannt auf dem Lungolago Marconi, während die Sonne langsam hinter den Bergen untergeht.",
+        "hu": "Kezdje a napot Lazise szívében, a Piazza Vittorio Emanuele téren, ahol egy kávé mellett figyelheti a nyüzsgést. Egy rövid séta elvezeti a Castello Scaligerohoz, amelynek falai a Garda-tó gazdag történelméről mesélnek. Délben fedezze fel a régi városfalakat és a román stílusú San Nicolò templomot, mielőtt meglátogatná a Dogana Venetát. Délután sétáljon végig a régi kikötőben, és zárja a napot pihentetően a Lungolago Marconin, miközben a nap lassan lenyugszik a hegyek mögött.",
+        "ro": "Începeți ziua în inima localității Lazise, în Piazza Vittorio Emanuele, unde puteți observa agitația la o cafea. O scurtă plimbare vă duce la Castello Scaligero, ale cărui ziduri spun istoria bogată a Lacului Garda. La prânz, explorați vechile ziduri ale orașului și biserica romanică San Nicolò, înainte de a vizita Dogana Veneta. După-amiaza, plimbați-vă prin portul vechi și încheiați ziua relaxându-vă pe Lungolago Marconi, în timp ce soarele apune încet după munți.",
+        "en": "Start your day in the heart of Lazise at Piazza Vittorio Emanuele, where you can watch the hustle and bustle over a coffee. A short walk takes you to the Scaliger Castle, whose walls tell the rich history of Lake Garda. At noon, explore the old city walls and the Romanesque Church of San Nicolò before visiting the Dogana Veneta. In the afternoon, stroll through the old port and end the day relaxingly on Lungolago Marconi as the sun slowly sets behind the mountains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bigoli con le Sarde",
+            "tip": "Probieren Sie diese traditionelle Pasta mit See-Sardinen im Ristorante Classique."
+          },
+          {
+            "name": "Lavarello",
+            "tip": "Frischer Felchen aus dem See, am besten gegrillt in der Trattoria Oreste."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bigoli con le Sarde",
+            "tip": "Kóstolja meg ezt a hagyományos tésztaételt tavi szardíniával a Ristorante Classique-ban."
+          },
+          {
+            "name": "Lavarello",
+            "tip": "Friss tavi maréna, legjobb grillezve a Trattoria Oreste-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bigoli con le Sarde",
+            "tip": "Încercați aceste paste tradiționale cu sardine de lac la Ristorante Classique."
+          },
+          {
+            "name": "Lavarello",
+            "tip": "Coregon proaspăt din lac, cel mai bine preparat la grătar la Trattoria Oreste."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bigoli con le Sarde",
+            "tip": "Try this traditional pasta with lake sardines at Ristorante Classique."
+          },
+          {
+            "name": "Lavarello",
+            "tip": "Fresh whitefish from the lake, best grilled at Trattoria Oreste."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hinterer Lungolago",
+            "tip": "Ein ruhigerer Abschnitt der Uferpromenade Richtung Süden.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mura di Lazise",
+            "tip": "Schatten und Ruhe entlang der alten Befestigungsanlagen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hátsó Lungolago",
+            "tip": "A tóparti sétány csendesebb szakasza déli irányban.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lazise városfalai",
+            "tip": "Árnyék és nyugalom a régi erődítmények mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lungolago posterior",
+            "tip": "O secțiune mai liniștită a falezei, spre sud.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Zidurile din Lazise",
+            "tip": "Umbră și liniște de-a lungul vechilor fortificații.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Back Lungolago",
+            "tip": "A quieter section of the lakeside promenade towards the south.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walls of Lazise",
+            "tip": "Shade and peace along the old fortifications.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Mittwochs vormittags gibt es lokale Spezialitäten und Lederwaren."
+          },
+          {
+            "name": "Boutiquen in der Altstadt",
+            "tip": "Kleine Läden für italienische Mode und Olivenölprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Szerda délelőttönként helyi különlegességek és bőráruk kaphatók."
+          },
+          {
+            "name": "Óvárosi butikok",
+            "tip": "Kis üzletek olasz divattal és olívaolaj-termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Miercuri dimineața găsiți specialități locale și articole din piele."
+          },
+          {
+            "name": "Boutique-uri în orașul vechi",
+            "tip": "Magazine mici cu modă italiană și produse din ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "On Wednesday mornings for local specialties and leather goods."
+          },
+          {
+            "name": "Old Town Boutiques",
+            "tip": "Small shops for Italian fashion and olive oil products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in der Altstadt.",
+          "Besuchen Sie die Stadt am frühen Morgen, um die Massen zu vermeiden.",
+          "Der Sonnenuntergang ist am Porto Vecchio am fotogensten.",
+          "Öffentliche Toiletten befinden sich in der Nähe des Parkplatzes am Castello."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az óváros macskaköves utcáihoz.",
+          "Érkezzen kora reggel, hogy elkerülje a tömeget.",
+          "A naplemente a Porto Vecchionál a legfotogénebb.",
+          "Nyilvános WC-k a Castello melletti parkoló közelében találhatók."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru străzile pietruite din orașul vechi.",
+          "Vizitați orașul dimineața devreme pentru a evita aglomerația.",
+          "Apusul este cel mai fotogenic în Porto Vecchio.",
+          "Toaletele publice se află lângă parcarea de la Castello."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets in the old town.",
+          "Visit the city early in the morning to avoid the crowds.",
+          "The sunset is most photogenic at Porto Vecchio.",
+          "Public toilets are located near the parking lot by the Castle."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello Scaligero",
+            "hu": "Castello Scaligero",
+            "ro": "Castello Scaligero",
+            "en": "Scaliger Castle"
+          },
+          "coords": [
+            10.7315,
+            45.5042
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrräder vor dem Eingang abstellen.",
+            "hu": "Hagyja a kerékpárokat a bejárat előtt.",
+            "ro": "Lăsați bicicletele în fața intrării.",
+            "en": "Leave bikes outside the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mura di Lazise",
+            "hu": "Lazise városfalai",
+            "ro": "Zidurile din Lazise",
+            "en": "Walls of Lazise"
+          },
+          "coords": [
+            10.7345,
+            45.5061
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Radweg entlang der Stadtmauer nutzen.",
+            "hu": "Használja a városfal menti kerékpárutat.",
+            "ro": "Folosiți pista de biciclete de-a lungul zidului.",
+            "en": "Use the bike path along the city wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Pergolana",
+            "hu": "Villa Pergolana",
+            "ro": "Villa Pergolana",
+            "en": "Villa Pergolana"
+          },
+          "coords": [
+            10.741,
+            45.5155
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Schöne Villa im Norden von Lazise.",
+            "hu": "Gyönyörű villa Lazise északi részén.",
+            "ro": "O vilă frumoasă în nordul localității Lazise.",
+            "en": "A beautiful villa in the north of Lazise."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungolago Marconi",
+            "hu": "Lungolago Marconi",
+            "ro": "Lungolago Marconi",
+            "en": "Lungolago Marconi"
+          },
+          "coords": [
+            10.7305,
+            45.5085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Achtung: Im Zentrum Rad schieben!",
+            "hu": "Figyelem: a központban tolja a biciklit!",
+            "ro": "Atenție: în centru mergeți pe lângă bicicletă!",
+            "en": "Note: Walk your bike in the center!"
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Vecchio",
+            "hu": "Régi kikötő",
+            "ro": "Portul Vechi",
+            "en": "Old Port"
+          },
+          "coords": [
+            10.7325,
+            45.5075
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Sichere Abstellplätze in der Nähe.",
+            "hu": "Biztonságos tárolók a közelben.",
+            "ro": "Locuri de parcare sigure în apropiere.",
+            "en": "Safe bike racks nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Vittorio Emanuele",
+            "hu": "Piazza Vittorio Emanuele",
+            "ro": "Piazza Vittorio Emanuele",
+            "en": "Piazza Vittorio Emanuele"
+          },
+          "coords": [
+            10.7332,
+            45.5052
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:05",
+          "stay_min": 55,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Abschlussgetränk am Ende der Tour.",
+            "hu": "Záróital a túra végén.",
+            "ro": "O băutură la finalul turului.",
+            "en": "Final drink at the end of the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Lazise auf zwei Rädern! Beginnen Sie am Castello Scaligero und folgen Sie der Stadtmauer nach Norden. Eine kurze Fahrt bringt Sie zur Villa Pergolana, wo Sie die elegante Architektur bewundern können. Zur Mittagszeit erreichen Sie den Lungolago Marconi für eine ausgiebige Pause am See. Am Nachmittag radeln Sie zurück zum Porto Vecchio und beenden die Tour gemütlich auf der Piazza Vittorio Emanuele, während Sie den Tag Revue passieren lassen.",
+        "hu": "Fedezze fel Lazisét két keréken! Kezdjen a Castello Scaligeronál, és kövesse a városfalat észak felé. Egy rövid út elviszi a Villa Pergolana-hoz, ahol megcsodálhatja az elegáns építészetet. Ebédidőben érje el a Lungolago Marconit egy bőséges tavi pihenőre. Délután tekerjen vissza a Porto Vecchio-hoz, és zárja a túrát kényelmesen a Piazza Vittorio Emanuele-n, miközben felidézi a nap eseményeit.",
+        "ro": "Descoperiți Lazise pe două roți! Începeți la Castello Scaligero și urmați zidul orașului spre nord. O scurtă plimbare vă duce la Villa Pergolana, unde puteți admira arhitectura elegantă. La prânz, ajungeți la Lungolago Marconi pentru o pauză lungă pe malul lacului. După-amiaza, pedalați înapoi spre Porto Vecchio și încheiați turul relaxat în Piazza Vittorio Emanuele, trecând în revistă evenimentele zilei.",
+        "en": "Discover Lazise on two wheels! Start at the Scaliger Castle and follow the city walls north. A short ride takes you to Villa Pergolana, where you can admire the elegant architecture. At lunchtime, reach Lungolago Marconi for an extensive break by the lake. In the afternoon, cycle back to Porto Vecchio and end the tour comfortably at Piazza Vittorio Emanuele while reflecting on the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Aperol Spritz",
+            "tip": "Der Klassiker nach einer Radtour in der Bar Porto."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aperol Spritz",
+            "tip": "Klasszikus ital a biciklitúra után a Bar Portóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aperol Spritz",
+            "tip": "Clasicul de după tura cu bicicleta, la Bar Porto."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aperol Spritz",
+            "tip": "The classic after a bike ride at Bar Porto."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park Villa Pergolana",
+            "tip": "Ruhige Gärten abseits des Trubels.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Pergolana parkja",
+            "tip": "Csendes kertek a tömegtől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Villa Pergolana",
+            "tip": "Grădini liniștite, departe de agitație.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Pergolana Park",
+            "tip": "Quiet gardens away from the crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ölmühle Paolo Bonomelli",
+            "tip": "Exzellentes Olivenöl direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paolo Bonomelli olajmalom",
+            "tip": "Kiváló olívaolaj közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moara de ulei Paolo Bonomelli",
+            "tip": "Ulei de măsline excelent direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paolo Bonomelli Oil Mill",
+            "tip": "Excellent olive oil directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den Radweg 'Ciclabile del Garda'.",
+          "In der Fußgängerzone herrscht strenges Fahrverbot.",
+          "Mieten Sie E-Bikes für längere Ausflüge ins Hinterland.",
+          "Vorsicht bei starkem Wind am Seeufer."
+        ],
+        "hu": [
+          "Használja a 'Ciclabile del Garda' kerékpárutat.",
+          "A sétálóövezetben szigorúan tilos kerékpározni.",
+          "Béreljen elektromos kerékpárt a hátországi kirándulásokhoz.",
+          "Vigyázzon az erős széllel a tóparton."
+        ],
+        "ro": [
+          "Folosiți pista de biciclete 'Ciclabile del Garda'.",
+          "În zona pietonală ciclismul este strict interzis.",
+          "Închiriați biciclete electrice pentru excursii mai lungi în hinterland.",
+          "Atenție la vântul puternic pe malul lacului."
+        ],
+        "en": [
+          "Use the 'Ciclabile del Garda' bike path.",
+          "Bicycles are strictly forbidden in the pedestrian zone.",
+          "Rent e-bikes for longer excursions into the hinterland.",
+          "Watch out for strong winds by the lake."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello Scaligero",
+            "hu": "Castello Scaligero",
+            "ro": "Castello Scaligero",
+            "en": "Scaliger Castle"
+          },
+          "coords": [
+            10.7315,
+            45.5042
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parkplatz 'Marconi' direkt daneben.",
+            "hu": "Marconi parkoló közvetlenül mellette.",
+            "ro": "Parcarea 'Marconi' chiar alături.",
+            "en": "Marconi parking lot right next to it."
+          }
+        },
+        {
+          "name": {
+            "de": "Dogana Veneta",
+            "hu": "Dogana Veneta",
+            "ro": "Dogana Veneta",
+            "en": "Dogana Veneta"
+          },
+          "coords": [
+            10.7318,
+            45.5072
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos din parcare.",
+            "en": "Accessible on foot from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bardolino (Kirándulás)",
+            "hu": "Bardolino (Kirándulás)",
+            "ro": "Bardolino (Excursie)",
+            "en": "Bardolino (Trip)"
+          },
+          "coords": [
+            10.7188,
+            45.5502
+          ],
+          "category": "region",
+          "arrive_at": "12:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie ein Weingut für eine Verkostung.",
+            "hu": "Látogasson el egy borászatba kóstolóra.",
+            "ro": "Vizitați o cramă pentru o degustare.",
+            "en": "Visit a winery for a tasting."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Pergolana",
+            "hu": "Villa Pergolana",
+            "ro": "Villa Pergolana",
+            "en": "Villa Pergolana"
+          },
+          "coords": [
+            10.741,
+            45.5155
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für Fotos.",
+            "hu": "Rövid megálló fotózáshoz.",
+            "ro": "Scurtă oprire pentru fotografii.",
+            "en": "Short stop for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungolago Marconi",
+            "hu": "Lungolago Marconi",
+            "ro": "Lungolago Marconi",
+            "en": "Lungolago Marconi"
+          },
+          "coords": [
+            10.7305,
+            45.5085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Abendessen in Seenähe.",
+            "hu": "Vacsora a tó közelében.",
+            "ro": "Cină lângă lac.",
+            "en": "Dinner near the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto sind Sie flexibel. Starten Sie beim Castello Scaligero und der Dogana Veneta in Lazise. Nutzen Sie die Freiheit für einen Abstecher in das benachbarte Bardolino, bekannt für seinen Wein. Nach einer Verkostung und einem Mittagessen kehren Sie über die Villa Pergolana zurück nach Lazise, um den Tag entspannt an der Uferpromenade Lungolago Marconi ausklingen zu lassen.",
+        "hu": "Autóval rugalmasan mozoghat. Kezdjen a Castello Scaligeronál és a Dogana Venetánál Lazisében. Használja ki a szabadságot egy kitérőre a szomszédos Bardolinóba, amely boráról híres. Egy kóstoló és ebéd után a Villa Pergolana érintésével térjen vissza Lazisébe, hogy a napot pihentetően zárja a Lungolago Marconi sétányon.",
+        "ro": "Cu mașina sunteți flexibili. Începeți la Castello Scaligero și Dogana Veneta în Lazise. Profitați de libertate pentru o excursie în localitatea vecină Bardolino, renumită pentru vinul său. După o degustare și un prânz, întoarceți-vă în Lazise via Villa Pergolana, pentru a încheia ziua relaxat pe faleza Lungolago Marconi.",
+        "en": "You are flexible by car. Start at the Scaliger Castle and the Dogana Veneta in Lazise. Use the freedom for a detour to neighboring Bardolino, famous for its wine. After a tasting and lunch, return to Lazise via Villa Pergolana to end the day relaxingly on the Lungolago Marconi promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bardolino Wein",
+            "tip": "Ein Muss in der Region, direkt beim Winzer kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bardolino bor",
+            "tip": "Kötelező a régióban, vásárolja közvetlenül a borásznál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Bardolino",
+            "tip": "Un must în regiune, cumpărați direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bardolino Wine",
+            "tip": "A must in the region, buy directly from the winemaker."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weingärten",
+            "tip": "Ruhige Spaziergänge zwischen den Reben bei Bardolino.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szőlőültetvények",
+            "tip": "Csendes séták a tőkék között Bardolino közelében.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podgorii",
+            "tip": "Plimbări liniștite printre vii lângă Bardolino.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vineyards",
+            "tip": "Quiet walks among the vines near Bardolino.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinshop Zeni",
+            "tip": "Große Auswahl an lokalen Weinen und ein Weinmuseum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zeni borbolt",
+            "tip": "Helyi borok széles választéka és bormúzeum."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de vinuri Zeni",
+            "tip": "O selecție largă de vinuri locale și un muzeu al vinului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zeni Wine Shop",
+            "tip": "Large selection of local wines and a wine museum."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze sind im Sommer schnell belegt, kommen Sie früh.",
+          "Achten Sie auf ZTL-Zonen (verkehrsberuhigt) im Zentrum.",
+          "Tanken Sie im Hinterland, dort ist es oft günstiger.",
+          "Die Uferstraße 'Gardesana' kann staugefährdet sein."
+        ],
+        "hu": [
+          "A parkolóhelyek nyáron hamar megtelnek, érkezzen korán.",
+          "Figyeljen a ZTL (korlátozott forgalmú) zónákra a központban.",
+          "Tankoljon a hátországban, ott gyakran olcsóbb.",
+          "A 'Gardesana' parti úton gyakoriak a dugók."
+        ],
+        "ro": [
+          "Locurile de parcare se ocupă repede vara, veniți devreme.",
+          "Atenție la zonele ZTL (trafic limitat) din centru.",
+          "Alimentați în hinterland, este adesea mai ieftin.",
+          "Drumul de coastă 'Gardesana' poate fi aglomerat."
+        ],
+        "en": [
+          "Parking spaces fill up quickly in summer, arrive early.",
+          "Watch out for ZTL (limited traffic) zones in the center.",
+          "Refuel in the hinterland, it's often cheaper there.",
+          "The coastal road 'Gardesana' can be prone to traffic jams."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello Scaligero",
+            "hu": "Castello Scaligero",
+            "ro": "Castello Scaligero",
+            "en": "Scaliger Castle"
+          },
+          "coords": [
+            10.7315,
+            45.5042
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bushaltestelle direkt an der Hauptstraße.",
+            "hu": "Buszmegálló közvetlenül a főúton.",
+            "ro": "Stație de autobuz chiar pe strada principală.",
+            "en": "Bus stop right on the main road."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Vittorio Emanuele",
+            "hu": "Piazza Vittorio Emanuele",
+            "ro": "Piazza Vittorio Emanuele",
+            "en": "Piazza Vittorio Emanuele"
+          },
+          "coords": [
+            10.7332,
+            45.5052
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentrum für Erfrischungen.",
+            "hu": "Központ felfrissüléshez.",
+            "ro": "Centru pentru răcoritoare.",
+            "en": "Center for refreshments."
+          }
+        },
+        {
+          "name": {
+            "de": "Dogana Veneta",
+            "hu": "Dogana Veneta",
+            "ro": "Dogana Veneta",
+            "en": "Dogana Veneta"
+          },
+          "coords": [
+            10.7318,
+            45.5072
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "In der Nähe der Fähre.",
+            "hu": "A komp közelében.",
+            "ro": "Lângă feribot.",
+            "en": "Near the ferry."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Vecchio",
+            "hu": "Régi kikötő",
+            "ro": "Portul Vechi",
+            "en": "Old Port"
+          },
+          "coords": [
+            10.7325,
+            45.5075
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ideal zum Beobachten der Boote.",
+            "hu": "Ideális a hajók megfigyeléséhez.",
+            "ro": "Ideal pentru a observa bărcile.",
+            "en": "Ideal for watching the boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungolago Marconi",
+            "hu": "Lungolago Marconi",
+            "ro": "Lungolago Marconi",
+            "en": "Lungolago Marconi"
+          },
+          "coords": [
+            10.7305,
+            45.5085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 95,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Rückreise.",
+            "hu": "Utolsó megálló a hazautazás előtt.",
+            "ro": "Ultima oprire înainte de întoarcere.",
+            "en": "Last stop before the return trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Busse und Fähren, um Lazise stressfrei zu erkunden. Beginnen Sie beim beeindruckenden Castello Scaligero und spazieren Sie zur Piazza Vittorio Emanuele. Nach einem Besuch der Dogana Veneta können Sie das maritime Flair am Porto Vecchio genießen. Beenden Sie Ihren Ausflug mit einem entspannten Spaziergang am Lungolago Marconi, bevor Sie bequem mit dem öffentlichen Nahverkehr zurückfahren.",
+        "hu": "Használja a buszokat és kompokat Lazise stresszmentes felfedezéséhez. Kezdjen a lenyűgöző Castello Scaligeronál, majd sétáljon át a Piazza Vittorio Emanuele térre. A Dogana Veneta meglátogatása után élvezheti a tengerparti hangulatot a Porto Vecchionál. Zárja kirándulását egy pihentető sétával a Lungolago Marconin, mielőtt kényelmesen visszautazna tömegközlekedéssel.",
+        "ro": "Folosiți autobuzele și feriboturile pentru a explora Lazise fără stres. Începeți la impresionantul Castello Scaligero și mergeți spre Piazza Vittorio Emanuele. După o vizită la Dogana Veneta, vă puteți bucura de atmosfera maritimă din Porto Vecchio. Încheiați excursia cu o plimbare relaxantă pe Lungolago Marconi, înainte de a vă întoarce confortabil cu transportul public.",
+        "en": "Use buses and ferries to explore Lazise stress-free. Start at the impressive Scaliger Castle and walk to Piazza Vittorio Emanuele. After visiting Dogana Veneta, you can enjoy the maritime atmosphere at Porto Vecchio. End your trip with a relaxing stroll on Lungolago Marconi before returning comfortably by public transport."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gelato",
+            "tip": "In der Gelateria La Romana gibt es hausgemachtes Eis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gelato",
+            "tip": "A Gelateria La Romana házi készítésű fagyit kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gelato",
+            "tip": "La Gelateria La Romana găsiți înghețată de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gelato",
+            "tip": "Homemade ice cream at Gelateria La Romana."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fährfahrt",
+            "tip": "Eine Bootsfahrt auf dem See ist entspannend.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kompút",
+            "tip": "Egy hajóút a tavon pihentető élmény.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu feribotul",
+            "tip": "O plimbare cu barca pe lac este relaxantă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ferry Ride",
+            "tip": "A boat trip on the lake is relaxing.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ledergeschäfte",
+            "tip": "Qualitätslederwaren in der Nähe des Hafens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bőrüzletek",
+            "tip": "Minőségi bőráruk a kikötő közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de piele",
+            "tip": "Articole din piele de calitate lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leather Shops",
+            "tip": "Quality leather goods near the port."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Fahrkarten im Voraus in einem Tabacchi-Laden.",
+          "Die Fähren ('Navigarda') bieten tolle Ausblicke vom Wasser.",
+          "Prüfen Sie den Fahrplan für die Rückfahrt, Busse fahren abends seltener.",
+          "Laden Sie die 'Moovit' App für Echtzeit-Infos herunter."
+        ],
+        "hu": [
+          "Vásárolja meg jegyeit előre egy Tabacchi üzletben.",
+          "A kompok ('Navigarda') remek kilátást nyújtanak a vízről.",
+          "Ellenőrizze a menetrendet a visszautazáshoz, a buszok este ritkábban járnak.",
+          "Töltse le a 'Moovit' alkalmazást a valós idejű infókért."
+        ],
+        "ro": [
+          "Cumpărați biletele în avans de la un magazin Tabacchi.",
+          "Feriboturile ('Navigarda') oferă priveliști superbe de pe apă.",
+          "Verificați orarul pentru întoarcere, autobuzele circulă mai rar seara.",
+          "Descărcați aplicația 'Moovit' pentru informații în timp real."
+        ],
+        "en": [
+          "Buy tickets in advance at a Tabacchi shop.",
+          "The ferries ('Navigarda') offer great views from the water.",
+          "Check the timetable for the return journey; buses run less frequently in the evening.",
+          "Download the 'Moovit' app for real-time info."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "_coords": [
+      10.7331,
+      45.5067
+    ],
+    "_region": "IT-34 Veneto (Lago di Garda)",
+    "transit_official": "https://www.atv.verona.it/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Lazise",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.tourismlazise.it/en/events/",
+    "tourism_office": "https://www.tourismlazise.it/en/city-of-lazise/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/veneto/verona/lungolago-cisano-bardolino.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/lazise-c561749",
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch offiziell, aber Deutsch fast Zweitsprache. Speisekarten meist viersprachig. Englisch problemlos.",
+      "hu": "Olasz hivatalos, de a német szinte második nyelv. Étlapok általában négynyelvűek. Angol is megy.",
+      "ro": "Italiana oficială, dar germana practic a doua limbă. Meniurile de obicei în patru limbi. Engleza la fel.",
+      "en": "Italian official but German nearly second language. Menus usually four-language. English no problem."
+    },
+    "best_time": {
+      "de": "Mai–Juni und September; Gardaland-Saison März–November. Honey Days Oktober beliebt.",
+      "hu": "Május–június és szeptember; Gardaland március–november nyitva. Honey Days októberben népszerű.",
+      "ro": "Mai–iunie și septembrie; Gardaland deschis martie–noiembrie. Honey Days în octombrie popular.",
+      "en": "May–June and September; Gardaland open March–November. Honey Days October popular."
+    },
+    "warnings": {
+      "de": "Gardaland-Verkehr Wochenenden chaotisch; ZTL in der historischen Burgmauer. Hafenparkplatz schnell voll.",
+      "hu": "Gardaland forgalom hétvégén káotikus; ZTL a történelmi várfalon belül. Kikötői parkoló gyorsan megtelik.",
+      "ro": "Trafic Gardaland haotic în weekend; ZTL în zidul cetății istorice. Parcarea portului se umple repede.",
+      "en": "Gardaland weekend traffic chaotic; ZTL inside historic castle walls. Harbor parking fills fast."
+    }
+  }
+}

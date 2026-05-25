@@ -1,0 +1,1094 @@
+{
+  "city_id": "cortina-d-ampezzo",
+  "anchor": {
+    "name": "Cortina d'Ampezzo Center",
+    "coords": [
+      12.1357,
+      46.5404
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Corso Italia",
+          "coords": [
+            12.1361,
+            46.5375
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Espresso in den historischen Cafés am Morgen.",
+            "hu": "Igyon meg egy eszpresszót a történelmi kávézók egyikében reggel.",
+            "ro": "Savurați un espresso la cafenelele istorice dimineața.",
+            "en": "Enjoy an espresso at the historical cafes in the morning."
+          }
+        },
+        {
+          "name": "Basilica dei Santi Filippo e Giacomo",
+          "coords": [
+            12.1368,
+            46.5379
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten Kirchturm, das Wahrzeichen der Stadt.",
+            "hu": "Csodálja meg a város jelképének számító monumentális harangtornyot.",
+            "ro": "Admirați clopotnița distinctivă, simbolul orașului.",
+            "en": "Admire the distinctive bell tower, the symbol of the town."
+          }
+        },
+        {
+          "name": "Museo d'Arte Moderna Mario Rimoldi",
+          "coords": [
+            12.1352,
+            46.5386
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine der bedeutendsten Sammlungen italienischer Kunst.",
+            "hu": "Fedezze fel az olasz modern művészet egyik legfontosabb gyűjteményét.",
+            "ro": "Descoperiți una dintre cele mai importante colecții de artă italiană.",
+            "en": "Discover one of the most important collections of Italian modern art."
+          }
+        },
+        {
+          "name": "Funivia Faloria (Base)",
+          "coords": [
+            12.1388,
+            46.5372
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die Seilbahn bringt Sie in wenigen Minuten auf über 2100 Meter.",
+            "hu": "A felvonó percek alatt repíti fel 2100 méter feletti magasságba.",
+            "ro": "Telecabina vă duce în câteva minute la peste 2100 de metri.",
+            "en": "The cable car takes you to over 2100 meters in just a few minutes."
+          }
+        },
+        {
+          "name": "Stadio Olimpico del Ghiaccio",
+          "coords": [
+            12.1332,
+            46.5442
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Arena der Olympischen Winterspiele von 1956.",
+            "hu": "Látogasson el az 1956-os téli olimpia legendás helyszínére.",
+            "ro": "Vizitați arena Jocurilor Olimpice de Iarnă din 1956.",
+            "en": "Visit the arena of the 1956 Winter Olympics."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt auf dem Corso Italia, wo der alpine Chic auf Geschichte trifft. Nach dem Besuch der prachtvollen Basilika widmen wir uns der modernen Kunst im Rimoldi Museum. Am Nachmittag schweben wir mit der Faloria-Bahn zu den Gipfeln, um das Dolomiten-Panorama zu genießen. Der Abschluss findet im olympischen Eisstadion statt, einem Ort voller Sportgeschichte und Prestige.",
+        "hu": "A nap a Corso Italián indul, ahol az alpesi elegancia és a történelem találkozik. A bazilika megtekintése után a modern művészeté a főszerep a Rimoldi Múzeumban. Délután a Faloria felvonóval emelkedünk a Dolomitok csúcsai közé a lenyűgöző panorámáért. A túrát az Olimpiai Jégcsarnokban zárjuk, amely ma is őrzi az 1956-os játékok rangos emlékét.",
+        "ro": "Ziua începe pe Corso Italia, unde eleganța alpină întâlnește istoria. După vizitarea bazilicii splendide, ne dedicăm artei moderne la Muzeul Rimoldi. După-amiaza, urcăm cu telecabina Faloria spre creste pentru a admira panorama Dolomiților. Finalul zilei are loc la Stadionul Olimpic de Gheață, un loc plin de istorie sportivă și prestigiu.",
+        "en": "The day begins on Corso Italia, where alpine chic meets history. After visiting the magnificent Basilica, we focus on modern art at the Rimoldi Museum. In the afternoon, we soar to the peaks with the Faloria cable car to enjoy the Dolomite panorama. The tour concludes at the Olympic Ice Stadium, a place full of sporting history and prestige."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante Tivoli",
+            "tip": "Michelin-Sterne-Küche mit Blick auf Cortina."
+          },
+          {
+            "name": "Casunziei all'ampezzana",
+            "tip": "Rote-Bete-Ravioli mit Mohnsamen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baita Fraina",
+            "tip": "Hagyományos hegyi fogadó kiváló vadhúsokkal."
+          },
+          {
+            "name": "Casunziei",
+            "tip": "Helyi céklás ravioli mákkal megszórva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "El Toulà",
+            "tip": "Restaurat faimos situat într-un hambar vechi renovat."
+          },
+          {
+            "name": "Canederli",
+            "tip": "Găluște de pâine tradiționale în supă sau cu unt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante Al Camin",
+            "tip": "Authentic Ampezzo flavors in a cozy setting."
+          },
+          {
+            "name": "Speck Alto Adige",
+            "tip": "Local cured ham, perfect for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lago di Pianozes",
+            "tip": "Ein versteckter kleiner See im Wald.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Col Drusciè",
+            "tip": "Perfekter Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lago di Pianozes",
+            "tip": "Rejtett kis tó az erdő mélyén, csendes pihenő.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pocol panoráma",
+            "tip": "Kilátás a völgyre távol a tömegtől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Alexander Hall",
+            "tip": "Spațiu verde liniștit pentru relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Belvedere Faloria",
+            "tip": "Panoramă spectaculoasă asupra văii.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mietres Area",
+            "tip": "Quiet meadows and walking paths.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset at Tofana",
+            "tip": "Golden hour glow on the rock walls.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Cooperativa di Cortina",
+            "tip": "Das größte Kaufhaus der Alpen für lokale Produkte."
+          },
+          {
+            "name": "Corso Italia Boutiquen",
+            "tip": "Exklusive Mode und Luxusmarken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Cooperativa di Cortina",
+            "tip": "Az Alpok legnagyobb áruháza, helyi kézműves termékekkel."
+          },
+          {
+            "name": "Artigianato Ampezzano",
+            "tip": "Helyi fa- és fémműves remekművek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Italia",
+            "tip": "Boutique-uri de lux și artizanat local."
+          },
+          {
+            "name": "Cooperativa di Cortina",
+            "tip": "Produse tradiționale și suveniruri de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Cooperativa",
+            "tip": "Historic department store for regional crafts."
+          },
+          {
+            "name": "Franz Kraler",
+            "tip": "High-end luxury fashion boutique."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Cortina ist sehr fußgängerfreundlich, das Zentrum ist klein.",
+          "Tragen Sie auch im Sommer eine leichte Jacke für die Seilbahnfahrten.",
+          "Die meisten Museen machen zwischen 12:30 und 15:30 Mittagspause.",
+          "Wasser aus den öffentlichen Brunnen ist trinkbar und eiskalt."
+        ],
+        "hu": [
+          "Cortina központja kompakt és könnyen bejárható gyalog.",
+          "Vigyen magával pulóvert a felvonózáshoz, fönn hűvösebb van.",
+          "A múzeumok délutáni szünetet tartanak, érdemes előre tervezni.",
+          "A nyilvános kutak vize iható és frissítően hideg."
+        ],
+        "ro": [
+          "Centrul stațiunii Cortina este ideal pentru explorarea la pas.",
+          "Luați o jachetă pentru telecabină, temperatura scade la altitudine.",
+          "Muzeele au pauză de prânz între 12:30 și 15:30.",
+          "Apa de la fântânile publice este potabilă și foarte rece."
+        ],
+        "en": [
+          "Cortina center is very pedestrian-friendly and compact.",
+          "Bring a light jacket for cable car trips even in summer.",
+          "Check museum opening hours as they usually close for lunch.",
+          "Public fountains offer fresh, drinkable alpine water."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 35.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Corso Italia",
+          "coords": [
+            12.1361,
+            46.5375
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie am großen Parkplatz in der Nähe des Stadions.",
+            "hu": "Parkoljon a stadion melletti nagy parkolóban.",
+            "ro": "Parcați în parcarea mare de lângă stadion.",
+            "en": "Park at the large parking lot near the stadium."
+          }
+        },
+        {
+          "name": "Tofana di Mezzo (Base)",
+          "coords": [
+            12.1265,
+            46.5422
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "10:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die 'Freccia nel Cielo' Bahn bietet den besten Blick auf Cortina.",
+            "hu": "A 'Freccia nel Cielo' felvonó kínálja a legjobb kilátást a városra.",
+            "ro": "Telecabina 'Freccia nel Cielo' oferă cea mai bună vedere.",
+            "en": "The 'Freccia nel Cielo' cable car offers the best view of the town."
+          }
+        },
+        {
+          "name": "Cinque Torri",
+          "coords": [
+            12.0585,
+            46.5192
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "12:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Freilichtmuseum des Ersten Weltkriegs.",
+            "hu": "Látogasson el az első világháborús szabadtéri múzeumba.",
+            "ro": "Vizitați muzeul în aer liber dedicat Primului Război Mondial.",
+            "en": "Visit the open-air museum of the First World War."
+          }
+        },
+        {
+          "name": "Lago di Misurina",
+          "coords": [
+            12.2542,
+            46.5825
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "15:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 21.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie um den See mit Blick auf die Drei Zinnen.",
+            "hu": "Sétáljon körbe a tó partján, a Tre Cime látványával a háttérben.",
+            "ro": "Plimbați-vă în jurul lacului cu vedere spre Tre Cime.",
+            "en": "Walk around the lake with views of the Tre Cime di Lavaredo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden wir die spektakulärsten Ziele rund um Cortina. Nach einem kurzen Bummel im Zentrum fahren wir zur Tofana, um den höchsten Gipfel der Gegend zu bewundern. Weiter geht es zu den markanten Cinque Torri, einem geschichtsträchtigen Ort. Zum krönenden Abschluss genießen wir die klare Bergluft am Misurinasee, bevor wir nach Cortina zurückkehren.",
+        "hu": "Autóval Cortina környékének leglátványosabb pontjait fedezzük fel. Egy rövid központi séta után a Tofana lábához hajtunk a csúcspanorámáért. Ezután a Cinque Torri sziklatornyaihoz megyünk, ahol a történelem és a természet összeér. A napot a festői Misurina-tónál zárjuk, élvezve a kristálytiszta alpesi levegőt.",
+        "ro": "Cu mașina explorăm cele mai spectaculoase destinații din jurul Cortinei. După o scurtă plimbare în centru, mergem la Tofana pentru a admira panorama de pe vârf. Continuăm spre Cinque Torri, un loc plin de istorie. La final, ne bucurăm de aerul curat de munte la Lacul Misurina, înainte de a ne întoarce în oraș.",
+        "en": "By car, we explore the most spectacular destinations around Cortina. After a short stroll in the center, we drive to Tofana to admire the highest peak area. We then continue to the striking Cinque Torri, a place of historical significance. To finish, we enjoy the crisp mountain air at Lake Misurina before returning to Cortina."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rifugio Averau",
+            "tip": "Berühmte Pasta-Gerichte auf 2413 Metern Höhe."
+          },
+          {
+            "name": "Baita Resch",
+            "tip": "Hausgemachte Knödel direkt an der Skipiste."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rifugio Scoiattoli",
+            "tip": "Ebéd a Cinque Torri lábánál, páratlan panorámával."
+          },
+          {
+            "name": "Strudel",
+            "tip": "Helyi almás rétes vaníliaöntettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante Lago d'Antorno",
+            "tip": "Specialități din pește de munte lângă Misurina."
+          },
+          {
+            "name": "Polenta e funghi",
+            "tip": "Mămăligă cu ciuperci de pădure proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rifugio Col Gallina",
+            "tip": "Traditional mountain fare with easy car access."
+          },
+          {
+            "name": "Grappa di mirtillo",
+            "tip": "Local blueberry grappa, a perfect digestif."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lago d'Antorno",
+            "tip": "Viel ruhiger als der Misurinasee.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Passo Giau",
+            "tip": "Traumhafter Sternenhimmel bei Nacht.",
+            "emoji": "✨"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antorno-tó",
+            "tip": "Sokkal csendesebb és intimebb, mint a Misurina.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Giau-hágó",
+            "tip": "Lenyűgöző csillagos égbolt és nyugalom.",
+            "emoji": "🌌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul d'Antorno",
+            "tip": "Mult mai liniștit decât Misurina.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pocol",
+            "tip": "Pajiști alpine ideale pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Antorno",
+            "tip": "A smaller, quieter alternative to Misurina.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Giau Pass",
+            "tip": "Stunning sunset views away from the village.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Passo Falzarego Souvenirs",
+            "tip": "Alpiner Schmuck und Mineralien."
+          },
+          {
+            "name": "Caseificio Piccolo Brite",
+            "tip": "Exquisiter lokaler Käse direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piccolo Brite",
+            "tip": "Kézműves sajtok és tejtermékek egyenesen a farmról."
+          },
+          {
+            "name": "Misurina Bazár",
+            "tip": "Helyi ajándéktárgyak és túrafelszerelés."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caseificio Piccolo Brite",
+            "tip": "Brânzeturi locale artizanale de excepție."
+          },
+          {
+            "name": "Cortina Style",
+            "tip": "Obiecte de design interior inspirate de Alpi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small Brite Dairy",
+            "tip": "Exceptional local cheese and gourmet dairy products."
+          },
+          {
+            "name": "Falzarego Shop",
+            "tip": "Minerals and WW1 memorabilia."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Bergstraßen sind kurvenreich, fahren Sie vorsichtig.",
+          "Parkplätze an den Seen können im August schnell voll sein.",
+          "Tanken Sie im Tal, oben sind die Preise oft höher.",
+          "Vergewissern Sie sich, dass die Pässe wetterbedingt offen sind."
+        ],
+        "hu": [
+          "A hegyi utak kanyargósak, vezessen óvatosan és lassan.",
+          "A tóparti parkolók augusztusban hamar megtelnek.",
+          "Tankoljon a völgyben, a hágókon ritkábbak a kutak.",
+          "Ellenőrizze a hágók állapotát az időjárás függvényében."
+        ],
+        "ro": [
+          "Drumurile montane sunt sinuoase, conduceți cu prudență.",
+          "Parcările de la lacuri se umplu rapid în sezonul de vârf.",
+          "Alimentați în vale, benzinăriile sunt rare pe pasuri.",
+          "Verificați starea pasurilor montane înainte de a pleca."
+        ],
+        "en": [
+          "Mountain roads are winding; drive carefully and enjoy the view.",
+          "Lake parking areas fill up quickly during peak hours.",
+          "Refuel in the valley as stations are scarce on high passes.",
+          "Check pass status online, especially in early or late season."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Corso Italia",
+          "coords": [
+            12.1361,
+            46.5375
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Zentrum ist eine Fußgängerzone, bitte schieben Sie Ihr Rad.",
+            "hu": "A központ sétálóövezet, kérjük tolja a kerékpárját.",
+            "ro": "Centrul este zonă pietonală, vă rugăm să mergeți pe lângă bicicletă.",
+            "en": "The center is a pedestrian zone; please walk your bike."
+          }
+        },
+        {
+          "name": "Stadio Olimpico del Ghiaccio",
+          "coords": [
+            12.1332,
+            46.5442
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Hier beginnt der Radweg auf der alten Bahntrasse.",
+            "hu": "Itt kezdődik a régi vasútvonal helyén kialakított kerékpárút.",
+            "ro": "Aici începe pista de biciclete pe vechiul traseu feroviar.",
+            "en": "The bike path on the old railway track starts here."
+          }
+        },
+        {
+          "name": "Funivia Faloria",
+          "coords": [
+            12.1388,
+            46.5372
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "10:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die Seilbahn transportiert Fahrräder für Downhill-Strecken.",
+            "hu": "A felvonó szállít kerékpárokat a downhill pályákhoz.",
+            "ro": "Telecabina transportă biciclete pentru traseele de downhill.",
+            "en": "The cable car transports bikes for downhill trails."
+          }
+        },
+        {
+          "name": "Basilica dei Santi Filippo e Giacomo",
+          "coords": [
+            12.1368,
+            46.5379
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Es gibt Radständer direkt hinter der Kirche.",
+            "hu": "A templom mögött közvetlenül vannak kerékpártárolók.",
+            "ro": "Există rastele de biciclete chiar în spatele bisericii.",
+            "en": "There are bike racks located right behind the church."
+          }
+        },
+        {
+          "name": "Museo d'Arte Moderna Mario Rimoldi",
+          "coords": [
+            12.1352,
+            46.5386
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kultureller Stopp zur Erholung nach der Fahrt.",
+            "hu": "Kulturális pihenő a tekerés után a hűvös falak között.",
+            "ro": "O oprire culturală pentru relaxare după plimbare.",
+            "en": "A cultural stop for relaxation after the ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad nutzen wir die berühmte 'Lunga Via delle Dolomiti'. Nach einem Start im Zentrum fahren wir zum Eisstadion und weiter auf dem ebenen Panoramaweg. Später nutzen wir die Faloria-Bahn für einen Höhenausflug. Die Tour endet entspannt mit Kultur und Geschichte im Herzen von Cortina, wobei wir die frische Bergluft auf zwei Rädern genießen.",
+        "hu": "Kerékpárral a híres 'Lunga Via delle Dolomiti' útvonalat követjük. A központból a Jégcsarnok felé indulunk, majd a régi vasúti nyomvonalon haladunk. Később a Faloria felvonóval teszünk egy kitérőt a magasba. A napot kultúrával zárjuk Cortina szívében, kiélvezve a kétkeréken töltött szabadság élményét.",
+        "ro": "Cu bicicleta folosim celebra 'Lunga Via delle Dolomiti'. După startul în centru, mergem spre Stadionul de Gheață și continuăm pe vechiul traseu feroviar. Mai târziu, folosim telecabina Faloria pentru o excursie la înălțime. Turul se încheie relaxat cu cultură în centrul Cortinei, bucurându-ne de aerul proaspăt pe două roți.",
+        "en": "By bike, we take the famous 'Lunga Via delle Dolomiti'. Starting in the center, we ride towards the Ice Stadium and continue along the flat panoramic path. Later, we use the Faloria cable car for a high-altitude excursion. The tour ends with a cultural finish in the heart of Cortina, enjoying the fresh alpine air on two wheels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bicigrill Fiames",
+            "tip": "Der perfekte Stopp direkt am Radweg."
+          },
+          {
+            "name": "Panino con speck",
+            "tip": "Schneller Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bicigrill Fiames",
+            "tip": "Kifejezetten kerékpárosoknak kialakított pihenőhely."
+          },
+          {
+            "name": "Szendvics helyi sajttal",
+            "tip": "Gyors és tápláló uzsonna útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bicigrill Fiames",
+            "tip": "Loc de oprire perfect situat direct pe pistă."
+          },
+          {
+            "name": "Strudel cu mere",
+            "tip": "Ideal pentru energie suplimentară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bicigrill Fiames",
+            "tip": "The perfect stop located directly on the bike path."
+          },
+          {
+            "name": "Energy bar with local honey",
+            "tip": "Healthy energy boost for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bosco di Fiames",
+            "tip": "Ruhiger Waldweg entlang des Flusses.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Vecchia Ferrovia",
+            "tip": "Stille Abschnitte der alten Bahnstrecke.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiames-erdő",
+            "tip": "Csendes erdei szakasz a folyó mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Régi vasútvonal",
+            "tip": "Nyugodt tekerés a völgyben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Fiames",
+            "tip": "Traseu forestier liniștit de-a lungul râului.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Ospitale",
+            "tip": "Zonă liniștită la câțiva kilometri de oraș.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiames Woods",
+            "tip": "Quiet forest path along the river.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Old Railway Trail",
+            "tip": "Peaceful sections away from the road.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Jgor Bike Store",
+            "tip": "Alles für das Rad und technisches Equipment."
+          },
+          {
+            "name": "Cooperativa Sport",
+            "tip": "Große Auswahl an Radbekleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jgor Bike Store",
+            "tip": "Profi kerékpárbolt és szerviz."
+          },
+          {
+            "name": "Sportler Cortina",
+            "tip": "Prémium sportruházat és kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jgor Bike Store",
+            "tip": "Echipamente tehnice și service pentru biciclete."
+          },
+          {
+            "name": "Cooperativa",
+            "tip": "Articole sportive și îmbrăcăminte tehnică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jgor Bike Store",
+            "tip": "Pro bike shop for rentals and gear."
+          },
+          {
+            "name": "Cortina Sport",
+            "tip": "Selection of local and international bike brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für die steileren Abschnitte.",
+          "Die alte Bahnstrecke ist fast eben und sehr familienfreundlich.",
+          "Tragen Sie immer einen Helm, auch auf Radwegen.",
+          "Achten Sie auf Wanderer, die den Weg teilen."
+        ],
+        "hu": [
+          "Béreljen elektromos kerékpárt a meredekebb részekhez.",
+          "A régi vasútvonal szinte teljesen sík, családbarát útvonal.",
+          "Mindig viseljen sisakot, még a kiépített kerékpárúton is.",
+          "Figyeljen a gyalogosokra, akikkel közös az útvonal."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru pantele mai abrupte.",
+          "Vechia cale ferată este aproape plată și ideală pentru familii.",
+          "Purtați întotdeauna cască de protecție.",
+          "Atenție la drumeții care împart același traseu."
+        ],
+        "en": [
+          "Rent an e-bike if you plan to tackle steeper slopes.",
+          "The old railway trail is mostly flat and family-friendly.",
+          "Always wear a helmet, even on designated bike paths.",
+          "Be mindful of hikers who share the panoramic trails."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 28.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Corso Italia",
+          "coords": [
+            12.1361,
+            46.5375
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Busbahnhof (Autostazione) ist nur 5 Minuten entfernt.",
+            "hu": "A buszpályaudvar (Autostazione) mindössze 5 perc sétára van.",
+            "ro": "Autogara (Autostazione) este la doar 5 minute distanță.",
+            "en": "The main bus station (Autostazione) is just a 5-minute walk."
+          }
+        },
+        {
+          "name": "Museo d'Arte Moderna Mario Rimoldi",
+          "coords": [
+            12.1352,
+            46.5386
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nahe der Haltestelle im Stadtzentrum.",
+            "hu": "A belvárosi buszmegálló közelében található.",
+            "ro": "Aproape de stația de autobuz din centrul orașului.",
+            "en": "Located near the city center bus stop."
+          }
+        },
+        {
+          "name": "Funivia Faloria",
+          "coords": [
+            12.1388,
+            46.5372
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "12:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Talstation wird von fast allen Stadtbuslinien angefahren.",
+            "hu": "A völgyállomást szinte minden helyi buszjárat érinti.",
+            "ro": "Stația de bază este deservită de majoritatea liniilor urbane.",
+            "en": "The base station is served by almost all city bus lines."
+          }
+        },
+        {
+          "name": "Lago di Misurina",
+          "coords": [
+            12.2542,
+            46.5825
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "14:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Dolomiti Bus Richtung Tre Cime.",
+            "hu": "Használja a Dolomiti Bus Tre Cime felé tartó járatát.",
+            "ro": "Folosiți Dolomiti Bus în direcția Tre Cime.",
+            "en": "Use the Dolomiti Bus in the direction of Tre Cime."
+          }
+        },
+        {
+          "name": "Basilica dei Santi Filippo e Giacomo",
+          "coords": [
+            12.1368,
+            46.5379
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 11.5,
+          "tip_5lang": {
+            "de": "Vom Busbahnhof zurück zum Platz sind es nur wenige Schritte.",
+            "hu": "A buszpályaudvartól csak pár lépés vissza a főtérre.",
+            "ro": "De la autogară sunt doar câțiva pași până la biserică.",
+            "en": "It's just a few steps from the bus station back to the square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem exzellenten 'Dolomiti Bus' System erreichen wir bequem die Highlights. Wir starten im Zentrum und besuchen das Kunstmuseum, bevor wir mit dem Stadtbus zur Faloria-Bahn fahren. Das Highlight ist der Ausflug zum Misurinasee, den wir ohne Parkplatzsorgen genießen. Der Tag endet an der Basilika, pünktlich zum abendlichen 'Passeggiata' auf dem Corso.",
+        "hu": "A kiváló 'Dolomiti Bus' hálózattal kényelmesen érjük el a főbb pontokat. A központból indulva érintjük a művészeti múzeumot, majd helyi járattal a Faloria felvonóhoz megyünk. A nap fénypontja a misurinai kirándulás, amelyet parkolási gondok nélkül élvezhetünk. A túrát a bazilikánál zárjuk, épp időben az esti korzózáshoz.",
+        "ro": "Cu sistemul excelent 'Dolomiti Bus' ajungem confortabil la atracții. Începem în centru și vizităm muzeul de artă, apoi mergem cu autobuzul local la telecabina Faloria. Punctul culminant este excursia la Lacul Misurina, fără grija parcării. Ziua se încheie la bazilică, la timp pentru tradiționala plimbare de seară pe Corso.",
+        "en": "Using the excellent 'Dolomiti Bus' network, we comfortably reach the main highlights. Starting in the center, we visit the art museum before taking a local bus to the Faloria cable car. The highlight is the trip to Lake Misurina, enjoyed without parking worries. The day ends at the Basilica, just in time for the evening stroll on the Corso."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Hamburgheria di Cortina",
+            "tip": "Gute Burger nahe dem Busbahnhof."
+          },
+          {
+            "name": "Gelateria Embassy",
+            "tip": "Das beste Eis der Stadt im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Hamburgheria",
+            "tip": "Kiváló kézműves hamburgerek a buszállomás mellett."
+          },
+          {
+            "name": "Embassy fagyizó",
+            "tip": "A város legjobb fagylaltja a Corso közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Hamburgheria",
+            "tip": "Burger de calitate lângă autogară."
+          },
+          {
+            "name": "Gelateria Embassy",
+            "tip": "Cea mai bună înghețată din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Hamburgheria",
+            "tip": "Great burgers conveniently located near the bus station."
+          },
+          {
+            "name": "Embassy Gelateria",
+            "tip": "The best ice cream in town, perfect for a break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bus-Stopp Alverà",
+            "tip": "Ein ruhigerer Ortsteil oberhalb des Zentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof von Cortina",
+            "tip": "Ein Ort der Stille und schönen Denkmäler.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alverà negyed",
+            "tip": "Csendesebb városrész gyönyörű kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cortinai temető",
+            "tip": "A csend és a szép emlékművek helyszíne.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona Alverà",
+            "tip": "Un cartier liniștit deasupra centrului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul din Cortina",
+            "tip": "Un loc de liniște și monumente frumoase.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alverà District",
+            "tip": "A quieter neighborhood with great views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cortina Cemetery",
+            "tip": "A place of peace and beautiful monuments.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tabacchi im Busbahnhof",
+            "tip": "Souvenirs und Wanderkarten."
+          },
+          {
+            "name": "Cooperativa Market",
+            "tip": "Regionale Spezialitäten zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszpályaudvar trafik",
+            "tip": "Ajándéktárgyak és turistatérképek."
+          },
+          {
+            "name": "Cooperativa Market",
+            "tip": "Helyi finomságok és sajtok elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tabaccheria din autogară",
+            "tip": "Suveniruri și hărți turistice."
+          },
+          {
+            "name": "Market Cooperativa",
+            "tip": "Specialități regionale de luat acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus Station Shop",
+            "tip": "Convenient for maps and small souvenirs."
+          },
+          {
+            "name": "Cooperativa Food Market",
+            "tip": "Regional food specialties to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets vorab im Tabakladen oder am Bahnhof.",
+          "Die Fahrpläne hängen an jeder Haltestelle aus.",
+          "In der Hochsaison können Busse zum Misurinasee voll sein.",
+          "Nutzen Sie die App des Dolomiti Bus für Echtzeit-Infos."
+        ],
+        "hu": [
+          "Vegye meg a jegyet előre a trafikban vagy a pénztárnál.",
+          "A menetrendek minden megállóban ki vannak függesztve.",
+          "Főszezonban a misurinai járatok zsúfoltak lehetnek.",
+          "Használja a Dolomiti Bus alkalmazást a valós idejű adatokért."
+        ],
+        "ro": [
+          "Cumpărați biletele în avans de la chioșcurile de ziare.",
+          "Orarele sunt afișate în fiecare stație de autobuz.",
+          "În sezonul de vârf, autobuzele spre Misurina pot fi aglomerate.",
+          "Utilizați aplicația Dolomiti Bus pentru informații în timp real."
+        ],
+        "en": [
+          "Buy bus tickets in advance at tobacco shops or the station.",
+          "Timetables are posted at every bus stop.",
+          "During peak season, buses to Misurina can be very busy.",
+          "Download the Dolomiti Bus app for real-time tracking."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "city": "Cortina d'Ampezzo",
+    "region": "IT-34",
+    "coords": [
+      12.1357,
+      46.5404
+    ],
+    "transit_official": "https://www.cortinaexpress.it/",
+    "transit_app": "https://www.suedtirolmobil.info/",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.cortinadampezzo.it/",
+    "tourism_office": "https://www.dolomiti.org/",
+    "webcam": "https://www.skylinewebcams.com/",
+    "restaurants_booking": "https://www.thefork.it/",
+    "museum_tickets": "https://www.skipasscortina.com/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Ladinisch-italienisches Gebiet, Deutsch in Hotels üblich, Englisch im Skigebiet.",
+      "hu": "Ladin-olasz terület, a hotelekben gyakori a német, a sípályán angol.",
+      "ro": "Zonă ladino-italiană, germana e des întâlnită în hoteluri, engleza pe pârtii.",
+      "en": "Ladin-Italian area; German common in hotels, English on the slopes."
+    },
+    "best_time": {
+      "de": "Dezember bis März für Ski, Juli und September für Wandern; 2026 Olympia-Jahr.",
+      "hu": "December-március síelni, július és szeptember túrázni; 2026 olimpiai év.",
+      "ro": "Decembrie-martie pentru schi, iulie și septembrie pentru drumeții; 2026 olimpic.",
+      "en": "December-March for skiing, July and September for hiking; 2026 Olympic year."
+    },
+    "warnings": {
+      "de": "Im Winter Schneeketten Pflicht; Olympia 2026 bringt Baustellen und Engpässe.",
+      "hu": "Télen hólánc kötelező; a 2026-os olimpia miatt építkezések, fennakadások.",
+      "ro": "Iarna lanțuri obligatorii; Olimpiada 2026 aduce șantiere și aglomerație.",
+      "en": "Snow chains mandatory in winter; 2026 Olympics brings roadworks and delays."
+    }
+  }
+}

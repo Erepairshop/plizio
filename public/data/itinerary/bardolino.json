@@ -1,0 +1,550 @@
+{
+  "city_id": "bardolino",
+  "anchor": {
+    "name": "Bardolino",
+    "coords": [
+      10.7197,
+      45.5475
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 3.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Lungolago di Bardolino",
+            "hu": "Bardolinói tóparti sétány",
+            "ro": "Promenada din Bardolino",
+            "en": "Bardolino Lakeside Promenade"
+          },
+          "coords": [
+            10.718,
+            45.548
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Perfekt für den ersten Kaffee mit Blick auf den Gardasee.",
+            "hu": "Tökéletes hely az első kávéhoz a Garda-tóra nézve.",
+            "ro": "Locul perfect pentru prima cafea cu vedere la Lacul Garda.",
+            "en": "Perfect for your first coffee overlooking Lake Garda."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto di Bardolino",
+            "hu": "Bardolinói kikötő",
+            "ro": "Portul din Bardolino",
+            "en": "Port of Bardolino"
+          },
+          "coords": [
+            10.719,
+            45.547
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die bunten Boote beim Ein- und Auslaufen.",
+            "hu": "Nézze a színes csónakok jövés-menését a kikötőben.",
+            "ro": "Urmăriți bărcile colorate care intră și ies din port.",
+            "en": "Watch the colorful boats coming in and out of the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Carrara Bottagisio",
+            "hu": "Villa Carrara Bottagisio",
+            "ro": "Villa Carrara Bottagisio",
+            "en": "Villa Carrara Bottagisio"
+          },
+          "coords": [
+            10.72,
+            45.549
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Park der Villa ist eine grüne Oase direkt am Wasser.",
+            "hu": "A villa parkja egy zöld oázis közvetlenül a vízparton.",
+            "ro": "Parcul vilei este o oază verde chiar pe malul apei.",
+            "en": "The villa's park is a green oasis right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Severo",
+            "hu": "San Severo-templom",
+            "ro": "Biserica San Severo",
+            "en": "Church of San Severo"
+          },
+          "coords": [
+            10.722,
+            45.55
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanischen Fresken im Inneren.",
+            "hu": "Csodálja meg a belső tér román kori freskóit.",
+            "ro": "Admirați frescele romanice din interior.",
+            "en": "Admire the Romanesque frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Zeno",
+            "hu": "San Zeno-templom",
+            "ro": "Biserica San Zeno",
+            "en": "Church of San Zeno"
+          },
+          "coords": [
+            10.723,
+            45.546
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eine der ältesten Kirchen in der Region aus karolingischer Zeit.",
+            "hu": "A régió egyik legrégebbi, Karoling-kori temploma.",
+            "ro": "Una dintre cele mai vechi biserici din regiune, din epoca carolingiană.",
+            "en": "One of the oldest churches in the region from the Carolingian era."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Genießen Sie den Vormittag auf der herrlichen Seepromenade, dem Stolz von Bardolino. Nach einem Besuch im malerischen Hafen erkunden Sie den Park der Villa Carrara. Der Nachmittag steht im Zeichen der Geschichte mit den Besichtigungen der romanischen Kirchen San Severo und San Zeno, die Ruhe und Kühle spenden. Lassen Sie den Tag bei einem Glas Wein mit Blick auf das Wasser ausklingen.",
+        "hu": "Élvezze a délelőttöt a csodálatos tóparti sétányon, amely Bardolino büszkesége. A festői kikötő után fedezze fel a Villa Carrara parkját. A délután a történelemé: a San Severo és San Zeno templomok román kori falai között hűsölhet és töltődhet. Zárja a napot egy pohár helyi borral a vízparti panorámában gyönyörködve.",
+        "ro": "Bucurați-vă de dimineață pe minunata faleză, mândria orașului Bardolino. După o vizită în portul pitoresc, explorați parcul Vilei Carrara. După-amiaza este dedicată istoriei, cu vizitarea bisericilor romanice San Severo și San Zeno, care oferă liniște și răcoare. Încheiați ziua cu un pahar de vin, admirând panorama lacului.",
+        "en": "Enjoy your morning on the magnificent lakeside promenade, the pride of Bardolino. After a visit to the picturesque harbor, explore the park of Villa Carrara. The afternoon is dedicated to history, with visits to the Romanesque churches of San Severo and San Zeno, offering peace and cool air. End your day with a glass of local wine while enjoying the water view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bardolino DOC",
+            "tip": "Der berühmte leichte Rotwein direkt aus den Weinbergen."
+          },
+          {
+            "name": "Garda Olivenöl",
+            "tip": "Besonders mildes und fruchtiges Öl der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bardolino DOC",
+            "tip": "A híres könnyű vörösbor közvetlenül a dűlőkről."
+          },
+          {
+            "name": "Gardai olívaolaj",
+            "tip": "A régió különlegesen lágy és gyümölcsös olaja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bardolino DOC",
+            "tip": "Faimosul vin roșu ușor direct din podgorii."
+          },
+          {
+            "name": "Ulei de măsline Garda",
+            "tip": "Ulei de măsline deosebit de fin și fructat din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bardolino DOC",
+            "tip": "The famous light red wine directly from the vineyards."
+          },
+          {
+            "name": "Garda Olive Oil",
+            "tip": "The region's particularly mild and fruity oil."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eremo di San Giorgio",
+            "tip": "Stille und Weitblick hoch über dem See.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lungolago Nord",
+            "tip": "Ruhigere Abschnitte der Promenade Richtung Garda.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eremo di San Giorgio",
+            "tip": "Csend és panoráma magasan a tó felett.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Északi tópart",
+            "tip": "A sétány csendesebb részei Garda felé.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eremo di San Giorgio",
+            "tip": "Liniște și panoramă sus deasupra lacului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Faleza de Nord",
+            "tip": "Secțiuni mai liniștite ale falezei spre Garda.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Eremo di San Giorgio",
+            "tip": "Quiet and panorama high above the lake.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "North Promenade",
+            "tip": "Quieter sections of the promenade towards Garda.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Donnerstags vormittags lokales Obst und Käse."
+          },
+          {
+            "name": "Weinboutiquen",
+            "tip": "Verkostung und Verkauf in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Csütörtök délelőttönként helyi gyümölcsök és sajtok."
+          },
+          {
+            "name": "Borbutikok",
+            "tip": "Kóstolás és vásárlás az óvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Fructe și brânzeturi locale în diminețile de joi."
+          },
+          {
+            "name": "Boutique-uri de vin",
+            "tip": "Degustare și vânzare în orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Local fruits and cheeses on Thursday mornings."
+          },
+          {
+            "name": "Wine Boutiques",
+            "tip": "Tasting and sales in the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Promenade ist abends wunderschön beleuchtet.",
+          "Parken Sie auf den großen Plätzen etwas außerhalb des Zentrums.",
+          "Nehmen Sie die Fähre für einen kurzen Ausflug nach Sirmione.",
+          "In der Hochsaison ist die Stadt sehr belebt."
+        ],
+        "hu": [
+          "A sétány este gyönyörűen ki van világítva.",
+          "Parkoljon a központon kívüli nagy parkolókban.",
+          "Menjen át komppal egy rövid kirándulásra Sirmionébe.",
+          "Főszezonban a város nagyon forgalmas lehet."
+        ],
+        "ro": [
+          "Faleza este superb luminată seara.",
+          "Parcați în parcările mari de la marginea centrului.",
+          "Luați feribotul pentru o scurtă excursie la Sirmione.",
+          "În plin sezon, orașul este foarte aglomerat."
+        ],
+        "en": [
+          "The promenade is beautifully illuminated in the evening.",
+          "Park in the large lots slightly outside the center.",
+          "Take the ferry for a short trip to Sirmione.",
+          "The town is very busy during high season."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo del Vino",
+            "hu": "Bormúzeum",
+            "ro": "Muzeul Vinului",
+            "en": "Wine Museum"
+          },
+          "coords": [
+            10.725,
+            45.54
+          ],
+          "category": "museums",
+          "arrive_at": "09:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "hu": "Interaktív tárlat a híres bardolinói borokról.",
+            "de": "Interaktive Ausstellung über die berühmten Bardolino-Weine.",
+            "ro": "Expoziție interactivă despre faimoasele vinuri Bardolino.",
+            "en": "Interactive exhibition about the famous Bardolino wines."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo dell'Olio d'Oliva",
+            "hu": "Olívaolaj Múzeum",
+            "ro": "Muzeul Uleiului de Măsline",
+            "en": "Olive Oil Museum"
+          },
+          "coords": [
+            10.73,
+            45.53
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "hu": "Tudjon meg mindent az olajbogyó feldolgozásáról.",
+            "de": "Erfahren Sie alles über die Verarbeitung von Oliven.",
+            "ro": "Aflați totul despre prelucrarea măslinelor.",
+            "en": "Learn everything about olive processing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "hu": "Kerékpárral kényelmesen elérheti a városon kívüli híres bor- és olajmúzeumokat.",
+        "de": "Mit dem Fahrrad erreichen Sie bequem die berühmten Wein- und Ölmuseen außerhalb der Stadt.",
+        "ro": "Cu bicicleta puteți ajunge cu ușurință la faimoasele muzee de vin și ulei din afara orașului.",
+        "en": "By bike, you can easily reach the famous wine and oil museums outside the town."
+      },
+      "gastro_picks": {
+        "hu": [],
+        "de": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "hu": [],
+        "de": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "hu": [],
+        "de": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "hu": [
+          "A tóparti kerékpárút Gardába és Lazisébe is elvezet."
+        ],
+        "de": [
+          "Der Radweg am See führt auch nach Garda und Lazise."
+        ],
+        "ro": [
+          "Pista de biciclete de pe malul lacului duce și spre Garda și Lazise."
+        ],
+        "en": [
+          "The lakeside bike path also leads to Garda and Lazise."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Eremo di San Giorgio",
+            "hu": "Szent György-remeteség",
+            "ro": "Schitul San Giorgio",
+            "en": "Hermitage of San Giorgio"
+          },
+          "coords": [
+            10.735,
+            45.565
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "hu": "Lenyűgöző kilátás a tóra a dombtetőről.",
+            "de": "Atemberaubender Seeblick vom Hügel.",
+            "ro": "Vedere uluitoare spre lac de pe deal.",
+            "en": "Breathtaking lake view from the hill."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "hu": "Az autóval érkezőknek érdemes felkapaszkodni a Szent György-remeteséghez a panorámáért.",
+        "de": "Für Autofahrer lohnt sich die Auffahrt zur Eremo di San Giorgio für das Panorama.",
+        "ro": "Pentru cei cu mașina, merită să urcați la schitul San Giorgio pentru panoramă.",
+        "en": "For car travelers, it's worth driving up to the Hermitage of San Giorgio for the panorama."
+      },
+      "gastro_picks": {
+        "hu": [],
+        "de": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "hu": [],
+        "de": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "hu": [],
+        "de": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "hu": [
+          "A part menti út főszezonban gyakran bedugul."
+        ],
+        "de": [
+          "Die Uferstraße ist in der Hochsaison oft verstopft."
+        ],
+        "ro": [
+          "Drumul de coastă este adesea blocat în plin sezon."
+        ],
+        "en": [
+          "The coastal road is often congested during high season."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [],
+      "narrative_4lang": {
+        "hu": "A buszok és hajók remek összeköttetést biztosítanak a tó többi városával.",
+        "de": "Busse und Schiffe bieten eine großartige Anbindung an andere Städte am See.",
+        "ro": "Autobuzele și vapoarele oferă conexiuni excelente cu celelalte orașe de pe lac.",
+        "en": "Buses and boats provide great connections to other towns on the lake."
+      },
+      "gastro_picks": {
+        "hu": [],
+        "de": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "hu": [],
+        "de": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "hu": [],
+        "de": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "hu": [
+          "A hajóállomás a kikötő közepén található."
+        ],
+        "de": [
+          "Die Bootsanlegestelle befindet sich in der Mitte des Hafens."
+        ],
+        "ro": [
+          "Stația de vapoare se află în mijlocul portului."
+        ],
+        "en": [
+          "The boat pier is located in the middle of the harbor."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "_coords": [
+      10.7144,
+      45.5469
+    ],
+    "_region": "IT-34 Veneto (Lago di Garda)",
+    "transit_official": "https://www.atv.verona.it/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Bardolino",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://bardolinotop.it/en/",
+    "tourism_office": "https://visitbardolino.it/en/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/veneto/verona/panorama-di-bardolino.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/bardolino-c561268",
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch Hauptsprache, aber Deutsch fast überall verfügbar wegen deutscher Touristenmehrheit. Englisch ebenfalls.",
+      "hu": "Olasz az elsődleges, de a német szinte mindenhol elérhető a német turisták miatt. Angol is megy.",
+      "ro": "Italiana e principala, dar germana este disponibilă peste tot datorită turiștilor germani. Engleza la fel.",
+      "en": "Italian primary but German available almost everywhere due to German tourist majority. English also fine."
+    },
+    "best_time": {
+      "de": "Mai–Juni und September; Oktober Festa dell'Uva. August überlaufen und teuer.",
+      "hu": "Május–június és szeptember; októberben Festa dell'Uva szüreti fesztivál. Augusztus zsúfolt és drága.",
+      "ro": "Mai–iunie și septembrie; octombrie Festa dell'Uva. August aglomerat și scump.",
+      "en": "May–June and September; October Festa dell'Uva grape festival. August packed and pricey."
+    },
+    "warnings": {
+      "de": "Gardesana SR249 im Sommer Dauerstau; Parken am See teuer (3–4€/h). Ora-Wind nachmittags stark.",
+      "hu": "Gardesana SR249 nyáron állandó dugó; tóparti parkolás drága (3–4€/óra). Ora szél délután erős.",
+      "ro": "Gardesana SR249 ambuteiată vara; parcare la lac scumpă (3–4€/h). Vântul Ora puternic după-amiaza.",
+      "en": "Gardesana SR249 jammed in summer; lakeside parking pricey (€3–4/h). Ora wind strong afternoons."
+    }
+  }
+}

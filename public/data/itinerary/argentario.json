@@ -1,0 +1,906 @@
+{
+  "city_id": "argentario",
+  "anchor": {
+    "name": "Porto Santo Stefano",
+    "coords": [
+      11.1175,
+      42.4361
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Alter Hafen (Porto Vecchio)",
+            "hu": "Régi kikötő (Porto Vecchio)",
+            "ro": "Portul Vechi (Porto Vecchio)",
+            "en": "Old Harbor (Porto Vecchio)"
+          },
+          "coords": [
+            11.1185,
+            42.4375
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bunter Fischerhafen.",
+            "hu": "Színes halászkikötő.",
+            "ro": "Port pescăresc colorat.",
+            "en": "Colorful fishing harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare dei Navigatori",
+            "hu": "Lungomare dei Navigatori",
+            "ro": "Lungomare dei Navigatori",
+            "en": "Lungomare dei Navigatori"
+          },
+          "coords": [
+            11.1155,
+            42.4365
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Sonniger Spaziergang.",
+            "hu": "Napsütötte sétány.",
+            "ro": "Plimbare însorită.",
+            "en": "Sunny promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittelmeer-Aquarium",
+            "hu": "Földközi-tengeri Akvárium",
+            "ro": "Acvariul Mediteranean",
+            "en": "Mediterranean Aquarium"
+          },
+          "coords": [
+            11.1145,
+            42.436
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lokale Meeresbewohner.",
+            "hu": "Helyi tengeri élővilág.",
+            "ro": "Creaturi marine locale.",
+            "en": "Local sea creatures."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santo Stefano",
+            "hu": "Santo Stefano templom",
+            "ro": "Biserica Santo Stefano",
+            "en": "Santo Stefano Church"
+          },
+          "coords": [
+            11.118,
+            42.4345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Kühle Atmosphäre.",
+            "hu": "Hűvös atmoszféra.",
+            "ro": "Atmosferă răcoroasă.",
+            "en": "Cool atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Spanische Festung",
+            "hu": "Spanyol Erőd",
+            "ro": "Fortăreața Spaniolă",
+            "en": "Spanish Fortress"
+          },
+          "coords": [
+            11.1195,
+            42.435
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gigantische Aussicht.",
+            "hu": "Hatalmas kilátás.",
+            "ro": "Vedere gigantică.",
+            "en": "Gigantic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Gefallenen",
+            "hu": "Hősi emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "Monument to the Fallen"
+          },
+          "coords": [
+            11.1165,
+            42.4368
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Historischer Platz.",
+            "hu": "Történelmi tér.",
+            "ro": "Piață istorică.",
+            "en": "Historical square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie den malerischen Porto Santo Stefano zu Fuß. Starten Sie am lebhaften Porto Vecchio und flanieren Sie entlang des Lungomare dei Navigatori zum modernen Aquarium. Steigen Sie zur imposanten Spanischen Festung hinauf, die über der Stadt thront, und genießen Sie den weiten Blick über den Golf von Talamone.",
+        "hu": "Fedezze fel Porto Santo Stefanót gyalogosan. Kezdje a nyüzsgő Porto Vecchiónál, és sétáljon végig a Lungomare dei Navigatori sétányon a modern Akváriumig. Másszon fel az impozáns Spanyol Erődbe, amely a város felett magasodik, és élvezze a Talamone-öbölre nyíló tágas kilátást.",
+        "ro": "Descoperiți pitorescul Porto Santo Stefano la pas. Începeți în vibrantul Porto Vecchio și flanați pe Lungomare dei Navigatori spre acvariu. Urcați la impunătoarea Fortăreață Spaniolă care veghează asupra orașului și bucurați-vă de vederea largă asupra Golfului Talamone.",
+        "en": "Discover picturesque Porto Santo Stefano on foot. Start at the lively Porto Vecchio and stroll along the Lungomare dei Navigatori to the modern Aquarium. Climb up to the imposing Spanish Fortress overlooking the town and enjoy sweeping views of the Gulf of Talamone."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caldaro",
+            "tip": "Fischsuppe aus dem Argentario."
+          },
+          {
+            "name": "Fritto Misto",
+            "tip": "Frittierte Meeresfrüchte am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caldaro",
+            "tip": "Argentario halleves specialitás."
+          },
+          {
+            "name": "Fritto Misto",
+            "tip": "Sült tenger gyümölcsei a parton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caldaro",
+            "tip": "Supă de pește din Argentario."
+          },
+          {
+            "name": "Fritto Misto",
+            "tip": "Fructe de mare prăjite în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caldaro",
+            "tip": "Argentario fish soup specialty."
+          },
+          {
+            "name": "Fritto Misto",
+            "tip": "Fried seafood by the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fortezza Bastion",
+            "tip": "Ruhige Ecke mit Fernsicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erődbástya",
+            "tip": "Csendes sarok kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bastionul Cetății",
+            "tip": "Colț liniștit cu panoramă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fortress Bastion",
+            "tip": "Quiet spot with great views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Fischmarkt",
+            "tip": "Frischer Fang am Morgen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi halpiac",
+            "tip": "Friss fogás reggelente."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de pește",
+            "tip": "Captură proaspătă dimineața."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Fish Market",
+            "tip": "Fresh catch in the morning."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Festung hat mittags oft Schließzeiten.",
+          "Parken Sie außerhalb des Zentrums."
+        ],
+        "hu": [
+          "Az erőd délben gyakran zárva tart.",
+          "A központon kívül parkolj."
+        ],
+        "ro": [
+          "Cetatea este adesea închisă la prânz.",
+          "Parcați în afara centrului."
+        ],
+        "en": [
+          "The fortress often closes during midday.",
+          "Park outside the town center if possible."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Lungomare dei Navigatori",
+            "hu": "Lungomare dei Navigatori",
+            "ro": "Lungomare dei Navigatori",
+            "en": "Lungomare dei Navigatori"
+          },
+          "coords": [
+            11.1155,
+            42.4365
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahrt am Meer entlang.",
+            "hu": "Bringázás a tengerparton.",
+            "ro": "Pedalat de-a lungul mării.",
+            "en": "Ride along the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Spanische Festung",
+            "hu": "Spanyol Erőd",
+            "ro": "Fortăreața Spaniolă",
+            "en": "Spanish Fortress"
+          },
+          "coords": [
+            11.1195,
+            42.435
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Steile Anfahrt.",
+            "hu": "Meredek felfelé út.",
+            "ro": "Urcare abruptă.",
+            "en": "Steep climb up."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Piccola",
+            "hu": "Cala Piccola",
+            "ro": "Cala Piccola",
+            "en": "Cala Piccola"
+          },
+          "coords": [
+            10.085,
+            42.415
+          ],
+          "category": "natural features",
+          "arrive_at": "12:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 85,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Baden in der Bucht.",
+            "hu": "Fürdés az öbölben.",
+            "ro": "Baie în golf.",
+            "en": "Swim in the cove."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Hafen",
+            "hu": "Régi kikötő",
+            "ro": "Portul Vechi",
+            "en": "Old Harbor"
+          },
+          "coords": [
+            11.1185,
+            42.4375
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 90,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Tour-Ausklang.",
+            "hu": "Túra zárása.",
+            "ro": "Finalul turului.",
+            "en": "Tour finale."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine sportliche Fahrradtour entlang der Panoramastraße des Argentario. Nach dem Besuch der Festung führt der Weg zur versteckten Bucht Cala Piccola, einem der exklusivsten Badestellen der Region. Genießen Sie die wilde Natur und die Meeresbrise, bevor Sie zum Hafen zurückkehren.",
+        "hu": "Sportos biciklitúra az Argentario panorámaútján. Az erőd meglátogatása után az út a rejtett Cala Piccola öbölhöz vezet, amely a régió egyik legexkluzívabb fürdőhelye. Élvezze a vad természetet és a tengeri szellőt, mielőtt visszatérne a kikötőbe.",
+        "ro": "Un tur sportiv cu bicicleta pe drumul panoramic din Argentario. După vizita la cetate, drumul duce spre golful ascuns Cala Piccola, unul dintre cele mai exclusive locuri de baie din regiune. Bucurați-vă de natura sălbatică și briza mării înainte de a reveni în port.",
+        "en": "A sporty bike tour along the panoramic road of Argentario. After visiting the fortress, the path leads to the hidden Cala Piccola cove, one of the region's most exclusive swimming spots. Enjoy the wild nature and sea breeze before returning to the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Panificati locali",
+            "tip": "Hefegebäck für das Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panificati locali",
+            "tip": "Helyi péksütemények piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panificati locali",
+            "tip": "Patiserie locală pentru picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Panificati locali",
+            "tip": "Local pastries for your picnic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstenstraße",
+            "tip": "Wildes Panorama.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti út",
+            "tip": "Vadon élő panoráma.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul de coastă",
+            "tip": "Panoramă sălbatică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal Road",
+            "tip": "Wild panoramic views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bike-Zubehör",
+            "tip": "Läden am Lungomare."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bringás kiegészítők",
+            "tip": "Boltok a sétányon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii biciclete",
+            "tip": "Magazine pe Lungomare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Gear",
+            "tip": "Shops along the Lungomare."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke nach Cala Piccola hat starke Steigungen.",
+          "Viel Wasser mitnehmen."
+        ],
+        "hu": [
+          "A Cala Piccola felé vezető út meredek.",
+          "Vigyél sok vizet."
+        ],
+        "ro": [
+          "Traseul spre Cala Piccola are pante mari.",
+          "Luați multă apă."
+        ],
+        "en": [
+          "The route to Cala Piccola has steep inclines.",
+          "Bring plenty of water."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Spanische Festung",
+            "hu": "Spanyol Erőd",
+            "ro": "Fortăreața Spaniolă",
+            "en": "Spanish Fortress"
+          },
+          "coords": [
+            11.1195,
+            42.435
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parkplatz direkt unterhalb.",
+            "hu": "Parkoló közvetlenül alatta.",
+            "ro": "Parcare chiar dedesubt.",
+            "en": "Parking right below."
+          }
+        },
+        {
+          "name": {
+            "de": "Passonistenkloster",
+            "hu": "Passzionisták kolostora",
+            "ro": "Mănăstirea Passioniștilor",
+            "en": "Passionist Monastery"
+          },
+          "coords": [
+            11.16,
+            42.395
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ruhe am Berg Monte Argentario.",
+            "hu": "Csend a Monte Argentario hegyen.",
+            "ro": "Liniște pe muntele Argentario.",
+            "en": "Peace on Mount Argentario."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Piccola",
+            "hu": "Cala Piccola",
+            "ro": "Cala Piccola",
+            "en": "Cala Piccola"
+          },
+          "coords": [
+            11.085,
+            42.415
+          ],
+          "category": "natural features",
+          "arrive_at": "12:15",
+          "stay_min": 160,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Exklusiver Strandzugang.",
+            "hu": "Exkluzív strandbelépés.",
+            "ro": "Acces exclusiv la plajă.",
+            "en": "Exclusive beach access."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare dei Navigatori",
+            "hu": "Lungomare dei Navigatori",
+            "ro": "Lungomare dei Navigatori",
+            "en": "Lungomare dei Navigatori"
+          },
+          "coords": [
+            11.1155,
+            42.4365
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Abendspaziergang.",
+            "hu": "Esti séta.",
+            "ro": "Plimbare de seară.",
+            "en": "Evening stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie den Monte Argentario mit dem Auto. Von der Festung in Porto Santo Stefano geht es hinauf zum abgelegenen Passionistenkloster mit Blick auf den Orbetello-Tombolo. Danach führt die Panoramastraße zur idyllischen Cala Piccola, perfekt für einen ausgedehnten Badestopp in azurblauem Wasser.",
+        "hu": "Fedezze fel a Monte Argentariót autóval. A Porto Santo Stefanó-i erődtől menjen fel az elszigetelt Passzionista kolostorhoz, ahonnan kilátás nyílik az Orbetello-tombolóra. Ezután a panorámaút az idilli Cala Piccolához vezet, amely tökéletes egy hosszabb fürdőzésre az azúrkék vízben.",
+        "ro": "Explorați Monte Argentario cu mașina. De la fortăreața din Porto Santo Stefano urcați la mănăstirea izolată a Passioniștilor, cu vedere spre limba de pământ Orbetello. Apoi, drumul panoramic duce la idilica Cala Piccola, perfectă pentru o oprire lungă de baie în apa azurie.",
+        "en": "Explore Mount Argentario by car. From the fortress in Porto Santo Stefano, head up to the secluded Passionist Monastery with views over the Orbetello tombolo. Then, the panoramic road leads to the idyllic Cala Piccola, perfect for an extended swim in azure waters."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bostrengo",
+            "tip": "Süße Spezialität aus Reis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bostrengo",
+            "tip": "Édes rizsspecialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bostrengo",
+            "tip": "Specialitate dulce cu orez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bostrengo",
+            "tip": "Sweet rice specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten",
+            "tip": "Spirituelle Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostorkert",
+            "tip": "Spirituális csend.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Liniște spirituală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Garden",
+            "tip": "Spiritual silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Klosterlikör",
+            "tip": "Verkauf im Klosterladen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostori likőr",
+            "tip": "Kapható a kolostori boltban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lichior monahal",
+            "tip": "Vândut la magazinul mănăstirii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Liqueur",
+            "tip": "Available at the monastery shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Panoramastraße ist sehr eng, vorsichtig fahren.",
+          "In Cala Piccola gibt es nur wenig öffentliche Parkplätze."
+        ],
+        "hu": [
+          "A panorámaút nagyon szűk, vezess óvatosan.",
+          "Cala Piccolán kevés a nyilvános parkolóhely."
+        ],
+        "ro": [
+          "Drumul panoramic este foarte îngust, conduceți prudent.",
+          "În Cala Piccola sunt puține locuri de parcare publice."
+        ],
+        "en": [
+          "The panoramic road is very narrow, drive carefully.",
+          "Public parking at Cala Piccola is very limited."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 6.5,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Lungomare dei Navigatori",
+            "hu": "Lungomare dei Navigatori",
+            "ro": "Lungomare dei Navigatori",
+            "en": "Lungomare dei Navigatori"
+          },
+          "coords": [
+            11.1155,
+            42.4365
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentrale Bushaltestelle.",
+            "hu": "Központi buszmegálló.",
+            "ro": "Stație centrală de bus.",
+            "en": "Central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittelmeer-Aquarium",
+            "hu": "Földközi-tengeri Akvárium",
+            "ro": "Acvariul Mediteranean",
+            "en": "Mediterranean Aquarium"
+          },
+          "coords": [
+            11.1145,
+            42.436
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für Familien.",
+            "hu": "Ideális családoknak.",
+            "ro": "Ideal pentru familii.",
+            "en": "Ideal for families."
+          }
+        },
+        {
+          "name": {
+            "de": "Spanische Festung",
+            "hu": "Spanyol Erőd",
+            "ro": "Fortăreața Spaniolă",
+            "en": "Spanish Fortress"
+          },
+          "coords": [
+            11.1195,
+            42.435
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vom Zentrum aus erreichbar.",
+            "hu": "A központból elérhető.",
+            "ro": "Accesibil din centru.",
+            "en": "Accessible from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Hafen",
+            "hu": "Régi kikötő",
+            "ro": "Portul Vechi",
+            "en": "Old Harbor"
+          },
+          "coords": [
+            11.1185,
+            42.4375
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Gelato genießen.",
+            "hu": "Fagyizz a kikötőben.",
+            "ro": "Mănâncă înghețată în port.",
+            "en": "Enjoy some gelato."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Porto Santo Stefano lässt sich gut mit dem lokalen Linienbus und zu Fuß erkunden. Besuchen Sie das Aquarium am Lungomare und steigen Sie dann zur historischen Festung hinauf. Ein entspannter Nachmittag am Porto Vecchio erlaubt es, die Seele baumeln zu lassen, während die Fischer ihren Fang ausladen.",
+        "hu": "Porto Santo Stefano jól felfedezhető helyi buszokkal és gyalog. Látogassa meg az Akváriumot a Lungomarén, majd menjen fel a történelmi erődhöz. Egy pihentető délután a Porto Vecchión lehetővé teszi a kikapcsolódást, miközben a halászok kirakodják fogásukat.",
+        "ro": "Porto Santo Stefano poate fi explorat bine cu autobuzul local și pe jos. Vizitați acvariul de pe Lungomare și urcați apoi la fortăreața istorică. O după-amiază relaxantă în Porto Vecchio vă permite să vă deconectați în timp ce pescarii își descarcă prada.",
+        "en": "Porto Santo Stefano is easy to explore using local buses and on foot. Visit the Aquarium on the Lungomare and then head up to the historic fortress. A relaxed afternoon at Porto Vecchio lets you unwind while watching fishermen unload their daily catch."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Scampi local",
+            "tip": "Frisch zubereitet am Lungomare."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi scampi",
+            "tip": "Frissen készítve a Lungomarén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scampi locali",
+            "tip": "Gătiți proaspăt pe Lungomare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Scampi",
+            "tip": "Freshly prepared on the Lungomare."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Molo Turistico",
+            "tip": "Sicht auf die Yachten.",
+            "emoji": "🚢"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Molo Turistico",
+            "tip": "Kilátás a jachtokra.",
+            "emoji": "🚢"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Molo Turistico",
+            "tip": "Vedere la iahturi.",
+            "emoji": "🚢"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tourist Pier",
+            "tip": "Watch the yachts.",
+            "emoji": "🚢"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Korallenschmuck",
+            "tip": "In den kleinen Gassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Korall ékszerek",
+            "tip": "A kis utcákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii din corali",
+            "tip": "În străduțele mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coral Jewelry",
+            "tip": "In the small alleys."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrkarten gibt es in der Bar am Hafen.",
+          "Der Bus verbindet Porto Santo Stefano mit Orbetello."
+        ],
+        "hu": [
+          "Jegyeket a kikötői bárban vehetsz.",
+          "A busz összeköti Porto Santo Stefanót Orbetellóval."
+        ],
+        "ro": [
+          "Bilete găsiți la barul din port.",
+          "Autobuzul leagă Porto Santo Stefano de Orbetello."
+        ],
+        "en": [
+          "Tickets are available at the harbor bar.",
+          "The bus connects Porto Santo Stefano with Orbetello."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1102 @@
+{
+  "city_id": "pienza",
+  "anchor": {
+    "name": "Pienza Centro",
+    "coords": [
+      11.6789,
+      43.0764
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 1.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Pio II",
+            "hu": "Piazza Pio II",
+            "ro": "Piazza Pio II",
+            "en": "Piazza Pio II"
+          },
+          "coords": [
+            11.6789,
+            43.0764
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Herz der idealen Stadt der Renaissance.",
+            "hu": "A reneszánsz ideális városának szíve.",
+            "ro": "Inima orașului ideal al Renașterii.",
+            "en": "The heart of the ideal Renaissance city."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Comunale",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            11.6789,
+            43.0766
+          ],
+          "category": "castles",
+          "arrive_at": "09:42",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Loggia.",
+            "hu": "Csodálja meg az elegáns loggiát.",
+            "ro": "Admirați loggia elegantă.",
+            "en": "Admire the elegant loggia."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Piccolomini",
+            "hu": "Palazzo Piccolomini",
+            "ro": "Palazzo Piccolomini",
+            "en": "Palazzo Piccolomini"
+          },
+          "coords": [
+            11.6782,
+            43.0763
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der hängende Garten bietet einen Traumblick.",
+            "hu": "A függőkertből álomszép a kilátás.",
+            "ro": "Grădina suspendată oferă o priveliște de vis.",
+            "en": "The hanging garden offers a dream view."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di Santa Maria Assunta",
+            "hu": "Santa Maria Assunta-székesegyház",
+            "ro": "Catedrala Santa Maria Assunta",
+            "en": "Pienza Cathedral"
+          },
+          "coords": [
+            11.6788,
+            43.0759
+          ],
+          "category": "churches",
+          "arrive_at": "11:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lichtdurchflutete Renaissance-Architektur.",
+            "hu": "Fényárban úszó reneszánsz építészet.",
+            "ro": "Arhitectură renascentistă plină de lumină.",
+            "en": "Light-filled Renaissance architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Borgia",
+            "hu": "Palazzo Borgia",
+            "ro": "Palazzo Borgia",
+            "en": "Palazzo Borgia"
+          },
+          "coords": [
+            11.6792,
+            43.0765
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Diözesanmuseum im Palast.",
+            "hu": "Látogassa meg az egyházmegyei múzeumot.",
+            "ro": "Vizitați muzeul diecezan din palat.",
+            "en": "Visit the diocesan museum inside the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Via dell'Amore",
+            "hu": "Szerelmesek utcája",
+            "ro": "Via dell'Amore",
+            "en": "Via dell'Amore"
+          },
+          "coords": [
+            11.6775,
+            43.0756
+          ],
+          "category": "squares",
+          "arrive_at": "16:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die romantischste Gasse der Toskana.",
+            "hu": "Toszkána legromantikusabb utcácskája.",
+            "ro": "Cea mai romantică alee din Toscana.",
+            "en": "The most romantic alley in Tuscany."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere di Pienza",
+            "hu": "Belvedere kilátó",
+            "ro": "Belvedere di Pienza",
+            "en": "Belvedere point"
+          },
+          "coords": [
+            11.6775,
+            43.0754
+          ],
+          "category": "natural features",
+          "arrive_at": "16:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der klassische Blick auf das Val d'Orcia.",
+            "hu": "A klasszikus kilátás a Val d'Orciára.",
+            "ro": "Vedere clasică asupra Val d'Orcia.",
+            "en": "The classic view over Val d'Orcia."
+          }
+        },
+        {
+          "name": {
+            "de": "Pieve di Corsignano",
+            "hu": "Pieve di Corsignano",
+            "ro": "Pieve di Corsignano",
+            "en": "Pieve di Corsignano"
+          },
+          "coords": [
+            11.6685,
+            43.0768
+          ],
+          "category": "churches",
+          "arrive_at": "17:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Hier wurde Papst Pius II. getauft.",
+            "hu": "Itt keresztelték meg II. Piusz pápát.",
+            "ro": "Aici a fost botezat Papa Pius al II-lea.",
+            "en": "This is where Pope Pius II was baptized."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Pienza ist die Verkörperung der idealen Stadt der Renaissance. Beginnen Sie auf der Piazza Pio II und bestaunen Sie den Palazzo Piccolomini. Nach dem Mittagessen mit Pecorino-Käse erkunden Sie die Kathedrale und das Diözesanmuseum. Der Nachmittag endet romantisch an der Via dell'Amore mit einem Blick über das Val d'Orcia und einem Besuch der alten Pieve di Corsignano.",
+        "hu": "Pienza a reneszánsz ideális városának megtestesülése. Kezdje a Piazza Pio II-n, és csodálja meg a Palazzo Piccolomini-t. Egy pecorino sajtos ebéd után fedezze fel a székesegyházat és az egyházmegyei múzeumot. A délután romantikusan zárul a Szerelmesek utcáján, kilátással a Val d'Orciára, majd látogatással az ősi Pieve di Corsignanóhoz.",
+        "ro": "Pienza este întruchiparea orașului ideal al Renașterii. Începeți în Piazza Pio II și admirați Palazzo Piccolomini. După un prânz cu brânză pecorino, explorați Catedrala și muzeul diecezan. După-amiaza se încheie romantic pe Via dell'Amore cu o vedere asupra Val d'Orcia și o vizită la vechea Pieve di Corsignano.",
+        "en": "Pienza is the embodiment of the ideal Renaissance city. Start at Piazza Pio II and admire the Palazzo Piccolomini. After a lunch featuring pecorino cheese, explore the Cathedral and the diocesan museum. The afternoon ends romantically at Via dell'Amore with a view over Val d'Orcia and a visit to the ancient Pieve di Corsignano."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pecorino di Pienza",
+            "tip": "Der berühmteste Schafskäse der Region."
+          },
+          {
+            "name": "Pici all'Aglione",
+            "tip": "Dicke handgemachte Pasta mit Knoblauch-Tomatensauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pecorino di Pienza",
+            "tip": "A régió leghíresebb juhsajtja."
+          },
+          {
+            "name": "Pici all'Aglione",
+            "tip": "Vastag, kézzel készített tészta fokhagymás paradicsomszósszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pecorino di Pienza",
+            "tip": "Cea mai faimoasă brânză de oaie din regiune."
+          },
+          {
+            "name": "Pici all'Aglione",
+            "tip": "Paste groase făcute de mână cu sos de usturoi și roșii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pecorino di Pienza",
+            "tip": "The most famous sheep cheese of the region."
+          },
+          {
+            "name": "Pici all'Aglione",
+            "tip": "Thick handmade pasta with a garlic tomato sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten Piccolomini",
+            "tip": "Ein ruhiger Renaissance-Garten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Belvedere",
+            "tip": "Stille und Weite über dem Tal.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piccolomini kert",
+            "tip": "Egy nyugodt reneszánsz kert.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Belvedere",
+            "tip": "Csend és tágasság a völgy felett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Piccolomini",
+            "tip": "O grădină renascentistă liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Belvedere",
+            "tip": "Liniște și amplitudine peste vale.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piccolomini Garden",
+            "tip": "A quiet Renaissance garden.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Belvedere",
+            "tip": "Silence and vastness over the valley.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso il Rossellino",
+            "tip": "Hier finden Sie die besten Feinkostläden."
+          },
+          {
+            "name": "Lederhandwerk",
+            "tip": "Handgefertigte Taschen und Accessoires."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso il Rossellino",
+            "tip": "Itt találja a legjobb csemegeboltokat."
+          },
+          {
+            "name": "Bőrműves termékek",
+            "tip": "Kézzel készített táskák és kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso il Rossellino",
+            "tip": "Aici găsiți cele mai bune magazine de delicatese."
+          },
+          {
+            "name": "Articole din piele",
+            "tip": "Genți și accesorii lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso il Rossellino",
+            "tip": "Find the best gourmet food shops here."
+          },
+          {
+            "name": "Leather Crafts",
+            "tip": "Handmade bags and accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Pienza ist sehr klein und kann bequem in wenigen Stunden erkundet werden.",
+          "Besuchen Sie die Stadt am frühen Morgen, um die Touristenmassen zu vermeiden.",
+          "Der Pecorino-Käse ist ein Muss – probieren Sie verschiedene Reifegrade.",
+          "Der Weg hinunter zur Pieve di Corsignano ist steil, aber lohnenswert."
+        ],
+        "hu": [
+          "Pienza nagyon kicsi, néhány óra alatt kényelmesen bejárható.",
+          "Látogasson el kora reggel, hogy elkerülje a turistaáradatot.",
+          "A pecorino sajt kötelező – kóstoljon meg különböző érlelési fokozatokat.",
+          "A Pieve di Corsignano-hoz vezető út meredek, de megéri a fáradságot."
+        ],
+        "ro": [
+          "Pienza este foarte mică și poate fi explorată confortabil în câteva ore.",
+          "Vizitați orașul dimineața devreme pentru a evita mulțimile de turiști.",
+          "Brânza pecorino este obligatorie – gustați diferite grade de maturare.",
+          "Drumul până la Pieve di Corsignano este abrupt, dar merită efortul."
+        ],
+        "en": [
+          "Pienza is very small and can be comfortably explored in a few hours.",
+          "Visit early in the morning to avoid the tourist crowds.",
+          "Pecorino cheese is a must – try different aging levels.",
+          "The path down to Pieve di Corsignano is steep but rewarding."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Pio II",
+            "hu": "Piazza Pio II",
+            "ro": "Piazza Pio II",
+            "en": "Piazza Pio II"
+          },
+          "coords": [
+            11.6789,
+            43.0764
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt.",
+            "hu": "Kezdőpont.",
+            "ro": "Punct de plecare.",
+            "en": "Starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale",
+            "hu": "Székesegyház",
+            "ro": "Catedrala",
+            "en": "Cathedral"
+          },
+          "coords": [
+            11.6788,
+            43.0759
+          ],
+          "category": "churches",
+          "arrive_at": "09:43",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurze Pause.",
+            "hu": "Rövid szünet.",
+            "ro": "Scurtă pauză.",
+            "en": "Short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere",
+            "hu": "Belvedere",
+            "ro": "Belvedere",
+            "en": "Belvedere"
+          },
+          "coords": [
+            11.6775,
+            43.0754
+          ],
+          "category": "natural features",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Blick ins Tal.",
+            "hu": "Kilátás a völgybe.",
+            "ro": "Vedere spre vale.",
+            "en": "View of the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Pieve di Corsignano",
+            "hu": "Pieve di Corsignano",
+            "ro": "Pieve di Corsignano",
+            "en": "Pieve di Corsignano"
+          },
+          "coords": [
+            11.6685,
+            43.0768
+          ],
+          "category": "churches",
+          "arrive_at": "11:13",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Abfahrt genießen.",
+            "hu": "Élvezze a lejtőt.",
+            "ro": "Bucurați-vă de coborâre.",
+            "en": "Enjoy the downhill."
+          }
+        },
+        {
+          "name": {
+            "de": "Vitaleta Kapelle",
+            "hu": "Vitaleta kápolna",
+            "ro": "Capela Vitaleta",
+            "en": "Vitaleta Chapel"
+          },
+          "coords": [
+            11.6111,
+            43.0702
+          ],
+          "category": "churches",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 37,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ikonisches Fotomotiv.",
+            "hu": "Ikonikus fotótéma.",
+            "ro": "Subiect foto iconic.",
+            "en": "Iconic photo spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Pienza Altstadt",
+            "hu": "Pienza óváros",
+            "ro": "Pienza centrul vechi",
+            "en": "Pienza Old Town"
+          },
+          "coords": [
+            11.6789,
+            43.0764
+          ],
+          "category": "squares",
+          "arrive_at": "14:40",
+          "stay_min": 140,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Anstrengender Rückweg.",
+            "hu": "Fárasztó visszaút.",
+            "ro": "Întoarcere obositoare.",
+            "en": "Tough ride back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Biken Sie durch das Val d'Orcia. Von Pienza geht es bergab zur Pieve di Corsignano und weiter zur weltberühmten Vitaleta-Kapelle. Der Rückweg bergauf wird mit einem Pecorino-Essen belohnt.",
+        "hu": "Biciklizzen át a Val d'Orcián. Pienzából guruljon le a Pieve di Corsignanóhoz, majd tovább a világhírű Vitaleta-kápolnához. A fárasztó emelkedő után egy pecorino vacsora lesz a jutalma.",
+        "ro": "Pedalați prin Val d'Orcia. Din Pienza coborâți spre Pieve di Corsignano și mai departe spre celebra capelă Vitaleta. Întoarcerea la deal va fi răsplătită cu o cină cu brânză pecorino.",
+        "en": "Cycle through Val d'Orcia. From Pienza, head downhill to Pieve di Corsignano and on to the world-famous Vitaleta Chapel. The uphill ride back will be rewarded with a pecorino feast."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "E-Bike Verleih Picknick",
+            "tip": "Lokale Produkte"
+          }
+        ],
+        "hu": [
+          {
+            "name": "E-bike piknik",
+            "tip": "Helyi termékekkel"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic E-bike",
+            "tip": "Produse locale"
+          }
+        ],
+        "en": [
+          {
+            "name": "E-bike picnic",
+            "tip": "With local products"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vitaleta Zypressen",
+            "tip": "Stille",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vitaleta ciprusok",
+            "tip": "Csend",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chiparoșii Vitaleta",
+            "tip": "Liniște",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vitaleta Cypresses",
+            "tip": "Silence",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bici Grill",
+            "tip": "Souvenirs"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bici Grill",
+            "tip": "Szuvenírek"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bici Grill",
+            "tip": "Suveniruri"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bici Grill",
+            "tip": "Souvenirs"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "E-Bikes sind wegen der Hügel sehr zu empfehlen."
+        ],
+        "hu": [
+          "Az emelkedők miatt az e-bike erősen ajánlott."
+        ],
+        "ro": [
+          "E-bike-urile sunt recomandate din cauza dealurilor."
+        ],
+        "en": [
+          "E-bikes are highly recommended because of the hills."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 20.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Pio II",
+            "hu": "Piazza Pio II",
+            "ro": "Piazza Pio II",
+            "en": "Piazza Pio II"
+          },
+          "coords": [
+            11.6789,
+            43.0764
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentrum.",
+            "hu": "Központ.",
+            "ro": "Centru.",
+            "en": "Center."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Piccolomini",
+            "hu": "Palazzo Piccolomini",
+            "ro": "Palazzo Piccolomini",
+            "en": "Palazzo Piccolomini"
+          },
+          "coords": [
+            11.6782,
+            43.0763
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Gartenbesuch.",
+            "hu": "Kertlátogatás.",
+            "ro": "Vizită la grădină.",
+            "en": "Garden visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Vitaleta Kapelle",
+            "hu": "Vitaleta kápolna",
+            "ro": "Capela Vitaleta",
+            "en": "Vitaleta Chapel"
+          },
+          "coords": [
+            11.6111,
+            43.0702
+          ],
+          "category": "churches",
+          "arrive_at": "11:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Fahrt durch Zypressen.",
+            "hu": "Vezetés ciprusok között.",
+            "ro": "Drum printre chiparoși.",
+            "en": "Drive through cypresses."
+          }
+        },
+        {
+          "name": {
+            "de": "San Quirico d'Orcia",
+            "hu": "San Quirico d'Orcia",
+            "ro": "San Quirico d'Orcia",
+            "en": "San Quirico d'Orcia"
+          },
+          "coords": [
+            11.6052,
+            43.0585
+          ],
+          "category": "squares",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Horti Leonini Gärten.",
+            "hu": "Horti Leonini kertek.",
+            "ro": "Grădinile Horti Leonini.",
+            "en": "Horti Leonini gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere Pienza",
+            "hu": "Pienza kilátó",
+            "ro": "Belvedere Pienza",
+            "en": "Pienza Belvedere"
+          },
+          "coords": [
+            11.6775,
+            43.0754
+          ],
+          "category": "natural features",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Rückkehr zum Abendessen.",
+            "hu": "Visszatérés vacsorára.",
+            "ro": "Întoarcere pentru cină.",
+            "en": "Return for dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto für eine Panoramatour durch das Val d'Orcia. Nach den Highlights in Pienza besuchen Sie die einsame Vitaleta-Kapelle und das mittelalterliche San Quirico. Ein Tag wie aus dem Bilderbuch.",
+        "hu": "Használja autóját egy panoráma túrához a Val d'Orcián keresztül. Pienza látnivalói után keresse fel a magányos Vitaleta-kápolnát és a középkori San Quiricót. Egy nap, mint a mesében.",
+        "ro": "Folosiți mașina pentru un tur panoramic prin Val d'Orcia. După punctele de atracție din Pienza, vizitați capela Vitaleta izolată și San Quirico medieval. O zi ca în povești.",
+        "en": "Use your car for a panoramic tour through Val d'Orcia. After the highlights in Pienza, visit the lonely Vitaleta Chapel and medieval San Quirico. A picture-perfect day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chianina Steak",
+            "tip": "Hiesige Rinderrasse"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chianina steak",
+            "tip": "Helyi marhafajta"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friptură Chianina",
+            "tip": "Rasă locală de vită"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chianina Steak",
+            "tip": "Local cattle breed"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Horti Leonini",
+            "tip": "Symmetrie",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Horti Leonini",
+            "tip": "Szimmetria",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Horti Leonini",
+            "tip": "Simetrie",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Horti Leonini",
+            "tip": "Symmetry",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ölmühle",
+            "tip": "Extra Vergine"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olajsajtoló",
+            "tip": "Extra szűz olívaolaj"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Presă de ulei",
+            "tip": "Ulei de măsline extra virgin"
+          }
+        ],
+        "en": [
+          {
+            "name": "Oil Mill",
+            "tip": "Extra virgin olive oil"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplatz 'Parcheggio Pienza' am Stadtrand nutzen."
+        ],
+        "hu": [
+          "Használja a 'Parcheggio Pienza' parkolót a város szélén."
+        ],
+        "ro": [
+          "Folosiți parcarea 'Parcheggio Pienza' de la marginea orașului."
+        ],
+        "en": [
+          "Use the 'Parcheggio Pienza' parking at the edge of town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Pio II",
+            "hu": "Piazza Pio II",
+            "ro": "Piazza Pio II",
+            "en": "Piazza Pio II"
+          },
+          "coords": [
+            11.6789,
+            43.0764
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bushaltestelle nah.",
+            "hu": "Buszmegálló közel.",
+            "ro": "Stație de autobuz aproape.",
+            "en": "Bus stop nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Piccolomini",
+            "hu": "Palazzo Piccolomini",
+            "ro": "Palazzo Piccolomini",
+            "en": "Palazzo Piccolomini"
+          },
+          "coords": [
+            11.6782,
+            43.0763
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Hängende Gärten.",
+            "hu": "Függőkertek.",
+            "ro": "Grădini suspendate.",
+            "en": "Hanging gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale",
+            "hu": "Székesegyház",
+            "ro": "Catedrala",
+            "en": "Cathedral"
+          },
+          "coords": [
+            11.6788,
+            43.0759
+          ],
+          "category": "churches",
+          "arrive_at": "11:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Renaissance-Kunst.",
+            "hu": "Reneszánsz művészet.",
+            "ro": "Artă renascentistă.",
+            "en": "Renaissance art."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere",
+            "hu": "Belvedere",
+            "ro": "Belvedere",
+            "en": "Belvedere"
+          },
+          "coords": [
+            11.6775,
+            43.0754
+          ],
+          "category": "natural features",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Talblick.",
+            "hu": "Kilátás a völgybe.",
+            "ro": "Vedere spre vale.",
+            "en": "Valley view."
+          }
+        },
+        {
+          "name": {
+            "de": "Pieve di Corsignano",
+            "hu": "Pieve di Corsignano",
+            "ro": "Pieve di Corsignano",
+            "en": "Pieve di Corsignano"
+          },
+          "coords": [
+            11.6685,
+            43.0768
+          ],
+          "category": "churches",
+          "arrive_at": "13:13",
+          "stay_min": 160,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fußweg einplanen.",
+            "hu": "Tervezzen gyaloglást.",
+            "ro": "Planificați mersul pe jos.",
+            "en": "Plan for walking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Pienza ist gut mit Bussen aus Montepulciano oder San Quirico erreichbar. Erkunden Sie das Zentrum zu Fuß und wandern Sie zur Pieve di Corsignano hinunter, bevor Sie den Bus zurück nehmen.",
+        "hu": "Pienza könnyen elérhető buszokkal Montepulcianóból vagy San Quiricóból. Fedezze fel gyalog a központot, és sétáljon le a Pieve di Corsignanóhoz, mielőtt visszabuszolna.",
+        "ro": "Pienza este ușor accesibilă cu autobuzul din Montepulciano sau San Quirico. Explorați centrul la pas și coborâți spre Pieve di Corsignano înainte de a lua autobuzul înapoi.",
+        "en": "Pienza is well-connected by bus from Montepulciano or San Quirico. Explore the center on foot and hike down to Pieve di Corsignano before catching the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vino Nobile",
+            "tip": "Aus der Nachbarstadt"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vino Nobile",
+            "tip": "A szomszéd városból"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vino Nobile",
+            "tip": "Din orașul vecin"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vino Nobile",
+            "tip": "From the neighboring town"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alte Pieve",
+            "tip": "Spiritueller Ort",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régi Pieve",
+            "tip": "Spirituális hely",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vechea Pieve",
+            "tip": "Loc spiritual",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Pieve",
+            "tip": "Spiritual place",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Käserei am Rand",
+            "tip": "Frische Ware"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajtüzem a szélen",
+            "tip": "Friss áru"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lăptărie la margine",
+            "tip": "Produse proaspete"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dairy at the edge",
+            "tip": "Fresh products"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busse verkehren seltener an Feiertagen."
+        ],
+        "hu": [
+          "Ünnepnapokon ritkábban járnak a buszok."
+        ],
+        "ro": [
+          "Autobuzele circulă mai rar în zilele de sărbătoare."
+        ],
+        "en": [
+          "Buses run less frequently on holidays."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Pienza",
+    "iso": "IT-52",
+    "tourism_site": "https://www.visittuscany.com/en/destinations/pienza/",
+    "wikipedia": {
+      "de": "https://de.wikipedia.org/wiki/Pienza",
+      "hu": "https://hu.wikipedia.org/wiki/Pienza",
+      "ro": "https://ro.wikipedia.org/wiki/Pienza",
+      "en": "https://en.wikipedia.org/wiki/Pienza"
+    },
+    "wikivoyage": {
+      "de": "https://de.wikivoyage.org/wiki/Pienza",
+      "hu": "https://hu.wikivoyage.org/wiki/Pienza",
+      "ro": "https://ro.wikivoyage.org/wiki/Pienza",
+      "en": "https://en.wikivoyage.org/wiki/Pienza"
+    },
+    "unesco": "https://whc.unesco.org/en/list/789/",
+    "osm": "https://www.openstreetmap.org/relation/41994",
+    "wikidata": "https://www.wikidata.org/wiki/Q51724",
+    "geonames": "https://www.geonames.org/3170020/pienza.html",
+    "google_maps": "https://www.google.com/maps/place/Pienza,+SI,+Italy",
+    "weather": "https://www.ilmeteo.it/meteo/Pienza",
+    "tourism_office": "https://www.comune.pienza.si.it/",
+    "transit_official": "https://www.tiemmespa.it/",
+    "events": "https://www.comune.pienza.si.it/feed/"
+  }
+}

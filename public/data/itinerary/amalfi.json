@@ -1,0 +1,1067 @@
+{
+  "city_id": "amalfi",
+  "anchor": {
+    "name": "Amalfi",
+    "coords": [
+      14.6027,
+      40.634
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza del Duomo",
+            "hu": "Piazza del Duomo",
+            "ro": "Piazza del Duomo",
+            "en": "Piazza del Duomo"
+          },
+          "coords": [
+            14.6028,
+            40.6335
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Trinken Sie einen Espresso am Fuße der Treppe.",
+            "hu": "Igyon egy eszpresszót a lépcső lábánál.",
+            "ro": "Beți un espresso la baza scărilor.",
+            "en": "Sip an espresso at the foot of the stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Amalfi",
+            "hu": "Amalfi katedrális",
+            "ro": "Catedrala din Amalfi",
+            "en": "Amalfi Cathedral"
+          },
+          "coords": [
+            14.603,
+            40.6337
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Bronzetüren aus Konstantinopel.",
+            "hu": "Csodálja meg a Konstantinápolyból származó bronzkapukat.",
+            "ro": "Admirați ușile de bronz aduse din Constantinopol.",
+            "en": "Admire the bronze doors brought from Constantinople."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiostro del Paradiso",
+            "hu": "Paradicsom-kolostor",
+            "ro": "Chiostro del Paradiso",
+            "en": "Chiostro del Paradiso"
+          },
+          "coords": [
+            14.6029,
+            40.6338
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Die maurischen Bögen sind perfekt für Fotos.",
+            "hu": "A mór stílusú ívek tökéletesek a fotózáshoz.",
+            "ro": "Arcurile maure sunt perfecte pentru fotografii.",
+            "en": "The Moorish arches are perfect for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo della Carta",
+            "hu": "Papírmúzeum",
+            "ro": "Muzeul Hârtiei",
+            "en": "Paper Museum"
+          },
+          "coords": [
+            14.6001,
+            40.6385
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Probieren Sie aus, wie man Papier von Hand schöpft.",
+            "hu": "Próbálja ki a merített papír készítését saját kezűleg.",
+            "ro": "Încercați să faceți hârtie manual.",
+            "en": "Try making handmade paper yourself during the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Arsenale della Repubblica",
+            "hu": "Köztársasági Arzenál",
+            "ro": "Arsenalul Republicii",
+            "en": "Arsenale della Repubblica"
+          },
+          "coords": [
+            14.602,
+            40.633
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte der Seerepublik.",
+            "hu": "Ismerje meg a tengeri köztársaság dicső múltját.",
+            "ro": "Descoperiți istoria republicii maritime.",
+            "en": "Discover the maritime history of the republic."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontana di Sant'Andrea",
+            "hu": "Szent András-kút",
+            "ro": "Fântâna Sfântului Andrei",
+            "en": "Saint Andrew's Fountain"
+          },
+          "coords": [
+            14.6027,
+            40.6334
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein klassischer Treffpunkt für Einheimische.",
+            "hu": "A helyiek kedvelt találkozóhelye a főtéren.",
+            "ro": "Un loc de întâlnire clasic pentru localnici.",
+            "en": "A classic meeting point for locals in the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Grande di Amalfi",
+            "hu": "Amalfi nagy strandja",
+            "ro": "Spiaggia Grande di Amalfi",
+            "en": "Spiaggia Grande di Amalfi"
+          },
+          "coords": [
+            14.6035,
+            40.6325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Stadt vom Meer aus.",
+            "hu": "Élvezze a városra nyíló kilátást a tengerpartról.",
+            "ro": "Bucurați-vă de vederea spre oraș de pe malul mării.",
+            "en": "Enjoy the view of the town climbing the cliffs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der lebhaften Piazza del Duomo, dem pulsierenden Herz von Amalfi. Bewundern Sie die prächtige Fassade der Kathedrale und den friedlichen Kreuzgang des Paradieses. Mittags schlendern Sie das Tal hinauf zum Papiermuseum, um die alte Tradition der Papierherstellung kennenzulernen. Am Nachmittag erkunden Sie das mittelalterliche Arsenal, bevor Sie den Tag entspannt am Hauptstrand Spiaggia Grande mit Blick auf die bunten Häuser ausklingen lassen.",
+        "hu": "Kezdje a napot a nyüzsgő Piazza del Duomo-n, Amalfi szívében. Csodálja meg a katedrális lenyűgöző homlokzatát és a Paradicsom-kolostor békéjét. Délben sétáljon fel a völgybe a Papírmúzeumhoz, ahol megismerheti az ősi papírkészítés titkait. Délután látogasson el a középkori Arzenálba, majd fejezze be a napot a Spiaggia Grande strandján, gyönyörködve a sziklákra épült város látványában.",
+        "ro": "Începeți ziua în vibranta Piazza del Duomo, inima orașului Amalfi. Admirați fațada splendidă a catedralei și liniștea din Chiostro del Paradiso. La prânz, urcați pe vale spre Muzeul Hârtiei pentru a vedea tradiția locală a fabricării hârtiei. După-amiaza, explorați Arsenalul Republicii, iar spre seară relaxați-vă pe Spiaggia Grande, privind casele colorate cocoțate pe stânci.",
+        "en": "Start your day in the lively Piazza del Duomo, the beating heart of Amalfi. Admire the cathedral's magnificent facade and the peaceful Cloister of Paradise. At midday, wander up the valley to the Paper Museum to learn about the ancient local tradition of papermaking. In the afternoon, explore the medieval Arsenal before ending your trip with a relaxing stay at Spiaggia Grande, enjoying the iconic coastal view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Delizia al Limone",
+            "tip": "Probieren Sie dieses Zitronengebäck bei Pasticceria Pansa."
+          },
+          {
+            "name": "Cuoppo d'Amalfi",
+            "tip": "Frittierter Fisch in einer Papiertüte zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Delizia al Limone",
+            "tip": "Kóstolja meg ezt a citromos sütit a Pasticceria Pansa cukrászdában."
+          },
+          {
+            "name": "Scialatielli ai frutti di mare",
+            "tip": "Helyi tészta friss tenger gyümölcseivel a kikötőnél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Delizia al Limone",
+            "tip": "Încercați acest desert cu lămâie la Pasticceria Pansa."
+          },
+          {
+            "name": "Limoncello di Amalfi",
+            "tip": "Digestivul local făcut din lămâi uriașe Sfusato."
+          }
+        ],
+        "en": [
+          {
+            "name": "Delizia al Limone",
+            "tip": "Try this iconic lemon pastry at the historic Pasticceria Pansa."
+          },
+          {
+            "name": "Cuoppo di Pesce",
+            "tip": "A cone filled with fried seafood, perfect for a pier-side snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Valle delle Ferriere",
+            "tip": "Ein kühler Rückzugsort am Fluss mit Wasserfällen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Valle delle Ferriere",
+            "tip": "Hűvös menedék a patak mentén, vízesésekkel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torre dello Ziro",
+            "tip": "Panorama spectaculoasă asupra coastei într-o zonă liniștită.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Valle delle Ferriere",
+            "tip": "A shaded nature trail along the stream with waterfalls.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgeschöpftes Papier",
+            "tip": "Kaufen Sie 'Carta d'Amalfi' im Museumsladen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves papír",
+            "tip": "Vásároljon eredeti 'Carta d'Amalfi'-t a múzeum boltjában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse din lămâie",
+            "tip": "Săpunuri, uleiuri și lichioruri în micile magazine de pe Via Genova."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carta d'Amalfi",
+            "tip": "Purchase high-quality handmade paper at the Museum shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da es viele Treppen gibt.",
+          "Die Kathedrale ist mittags oft für Besichtigungen geschlossen.",
+          "Kaufen Sie Limoncello nur, wenn er aus lokalen Sfusato-Zitronen ist."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sok a lépcső és az emelkedő.",
+          "A katedrális dél körül néha zárva tart a turisták előtt.",
+          "Keressen olyan Limoncellót, ami helyi Sfusato citromból készült."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă, orașul are multe scări.",
+          "Catedrala poate fi închisă vizitatorilor în timpul slujbelor.",
+          "Rezervați masa la restaurant din timp, mai ales în sezon."
+        ],
+        "en": [
+          "Wear comfortable shoes as the town is full of steps and slopes.",
+          "Check cathedral opening hours as they vary for tourist visits.",
+          "Buy lemon products from small shops deeper in the side alleys."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza del Duomo",
+            "hu": "Piazza del Duomo",
+            "ro": "Piazza del Duomo",
+            "en": "Piazza del Duomo"
+          },
+          "coords": [
+            14.6028,
+            40.6335
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum, schieben Sie das Rad hier.",
+            "hu": "Központi indulópont, itt tolja a biciklit.",
+            "ro": "Punct de plecare, mergeți pe lângă bicicletă aici.",
+            "en": "Central starting point, please walk your bike here."
+          }
+        },
+        {
+          "name": {
+            "de": "Arsenale della Repubblica",
+            "hu": "Köztársasági Arzenál",
+            "ro": "Arsenalul Republicii",
+            "en": "Arsenale della Repubblica"
+          },
+          "coords": [
+            14.602,
+            40.633
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Leicht erreichbar in Hafennähe.",
+            "hu": "Könnyen elérhető a kikötő közelében.",
+            "ro": "Ușor accesibil lângă port.",
+            "en": "Easily accessible near the harbor area."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta dello Smeraldo",
+            "hu": "Smaragd-barlang",
+            "ro": "Grotta dello Smeraldo",
+            "en": "Grotta dello Smeraldo"
+          },
+          "coords": [
+            14.565,
+            40.615
+          ],
+          "category": "natural features",
+          "arrive_at": "11:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fahrt entlang der Küstenstraße SS163.",
+            "hu": "Kerékpározás az SS163-as parti úton.",
+            "ro": "Pedalați pe drumul de coastă SS163.",
+            "en": "Ride along the stunning SS163 coastal road."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre dello Ziro",
+            "hu": "Ziro-torony",
+            "ro": "Torre dello Ziro",
+            "en": "Torre dello Ziro"
+          },
+          "coords": [
+            14.608,
+            40.638
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Steile Auffahrt, aber die Aussicht belohnt.",
+            "hu": "Meredek emelkedő, de a kilátás kárpótol.",
+            "ro": "Urcare abruptă, dar vederea merită efortul.",
+            "en": "Steep climb, but the view is worth every pedal."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Grande di Amalfi",
+            "hu": "Amalfi nagy strandja",
+            "ro": "Spiaggia Grande di Amalfi",
+            "en": "Spiaggia Grande di Amalfi"
+          },
+          "coords": [
+            14.6035,
+            40.6325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Parken Sie das Rad und kühlen Sie sich ab.",
+            "hu": "Parkolja le a gépet és hűtse le magát.",
+            "ro": "Parcați bicicleta și răcoriți-vă în mare.",
+            "en": "Park your bike and cool off in the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Amalfi und seine Umgebung sportlich mit dem Fahrrad. Nach einem kurzen Stopp am historischen Arsenal führt Sie die Küstenstraße zur faszinierenden Smaragd-Grotte. Danach fordert eine Auffahrt zum Torre dello Ziro Ihre Waden heraus, bietet aber das beste Panorama der Amalfiküste. Der Tag endet entspannt am Strand, wo Sie sich nach der Tour im azurblauen Wasser erfrischen können.",
+        "hu": "Fedezze fel Amalfiť és környékét sportosan, kerékpárral. Az arzenál megtekintése után a látványos parti úton tekerhet a Smaragd-barlangig. Ezután a Torre dello Ziro felé veheti az irányt, amely meredek, de innen nyílik a legszebb panoráma a partvidékre. A napot a tengerparton zárhatja, ahol egy frissítő csobbanással pihenheti ki a túra fáradalmait.",
+        "ro": "Explorați Amalfi și împrejurimile sale într-un mod sportiv, pe bicicletă. După o oprire la Arsenal, urmați drumul de coastă spre fascinanta Grotta dello Smeraldo. Apoi, urcarea spre Torre dello Ziro vă va pune la încercare, dar oferă cea mai bună panoramă. Ziua se încheie relaxant pe plajă, unde vă puteți răcori în apa azurie după efort.",
+        "en": "Explore Amalfi and its surroundings on two wheels. After visiting the historic Arsenal, ride along the dramatic coastal road to the Emerald Grotto. Follow this with a challenging climb to Torre dello Ziro for the most breathtaking panorama of the coastline. Finish your active day at Spiaggia Grande, perfect for a refreshing swim after your ride."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Panino Napoletano",
+            "tip": "Ein herzhafter Snack für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Focaccia",
+            "tip": "Gyors és laktató falat két tekerés között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gelato artigianale",
+            "tip": "O înghețată răcoritoare după urcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Focaccia with local herbs",
+            "tip": "A quick and filling snack for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstenstraße Ausblick",
+            "tip": "Halten Sie an den Parkbuchten für Fotos.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti út pihenői",
+            "tip": "Álljon meg a tengerparti öblöknél fotózni.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere SS163",
+            "tip": "Opriți în alveolele de pe drum pentru poze.",
+            "emoji": "📷"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal laybys",
+            "tip": "Stop at the scenic overlooks for quick photos.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Lokale Fahrradverleih-Stationen bieten Karten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpáros boltok",
+            "tip": "A kölcsönzőkben kérhet részletes térképet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri artizanale",
+            "tip": "Mici obiecte din ceramică ușor de transportat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramics",
+            "tip": "Small, hand-painted ceramic magnets are easy to carry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vorsicht auf der SS163: Die Straße ist eng und kurvig.",
+          "Tragen Sie eine Warnweste für bessere Sichtbarkeit.",
+          "Meiden Sie die Mittagshitze im Juli und August."
+        ],
+        "hu": [
+          "Vigyázat az SS163-as úton: szűk és sok a kanyar.",
+          "Viseljen láthatósági mellényt a biztonság érdekében.",
+          "Kerülje a déli hőséget a nyári hónapokban."
+        ],
+        "ro": [
+          "Atenție pe SS163: drumul este îngust și aglomerat.",
+          "Purtați vestă reflectorizantă pentru vizibilitate.",
+          "Verificați frânele bicicletei înainte de coborâri."
+        ],
+        "en": [
+          "Be cautious on the SS163: the road is narrow and winding.",
+          "Wear high-visibility gear to stay safe among buses.",
+          "Avoid cycling during peak midday sun in summer."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza del Duomo",
+            "hu": "Piazza del Duomo",
+            "ro": "Piazza del Duomo",
+            "en": "Piazza del Duomo"
+          },
+          "coords": [
+            14.6028,
+            40.6335
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Luna Rossa.",
+            "hu": "Parkoljon a Luna Rossa parkolóházban.",
+            "ro": "Parcați în garajul Luna Rossa.",
+            "en": "Use the Luna Rossa parking garage nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Amalfi",
+            "hu": "Amalfi katedrális",
+            "ro": "Catedrala din Amalfi",
+            "en": "Amalfi Cathedral"
+          },
+          "coords": [
+            14.603,
+            40.6337
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Zentrum ist für Autos meist gesperrt.",
+            "hu": "A központ legtöbbször le van zárva az autók elől.",
+            "ro": "Centrul este de obicei închis traficului auto.",
+            "en": "The center is mostly a pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo della Carta",
+            "hu": "Papírmúzeum",
+            "ro": "Muzeul Hârtiei",
+            "en": "Paper Museum"
+          },
+          "coords": [
+            14.6001,
+            40.6385
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Gibt es wenige Parkplätze direkt davor.",
+            "hu": "Kevés parkolóhely van közvetlenül előtte.",
+            "ro": "Puține locuri de parcare chiar în față.",
+            "en": "Limited parking is available near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta dello Smeraldo",
+            "hu": "Smaragd-barlang",
+            "ro": "Grotta dello Smeraldo",
+            "en": "Grotta dello Smeraldo"
+          },
+          "coords": [
+            14.565,
+            40.615
+          ],
+          "category": "natural features",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Aufzug direkt an der Straße.",
+            "hu": "Használja az út menti liftet a lejutáshoz.",
+            "ro": "Folosiți liftul situat direct pe marginea drumului.",
+            "en": "Take the elevator directly from the roadside."
+          }
+        },
+        {
+          "name": {
+            "de": "Valle delle Ferriere",
+            "hu": "Valle delle Ferriere",
+            "ro": "Valle delle Ferriere",
+            "en": "Valle delle Ferriere"
+          },
+          "coords": [
+            14.595,
+            40.645
+          ],
+          "category": "natural features",
+          "arrive_at": "14:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Fahren Sie bis zum oberen Eingang bei Pontone.",
+            "hu": "Hajtson fel a felső bejárathoz Pontone-nál.",
+            "ro": "Mergeți până la intrarea de sus din Pontone.",
+            "en": "Drive to the upper entrance near Pontone."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Grande di Amalfi",
+            "hu": "Amalfi nagy strandja",
+            "ro": "Spiaggia Grande di Amalfi",
+            "en": "Spiaggia Grande di Amalfi"
+          },
+          "coords": [
+            14.6035,
+            40.6325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Abends sind die Parkgebühren oft niedriger.",
+            "hu": "Este a parkolási díjak gyakran alacsonyabbak.",
+            "ro": "Seara, tarifele de parcare sunt adesea mai mici.",
+            "en": "Parking fees may be lower in the early evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto genießen Sie die Freiheit, auch Ziele außerhalb des Stadtkerns bequem zu erreichen. Nach dem Besuch der Kathedrale und des Papiermuseums im Zentrum führt Sie eine kurze Fahrt zur berühmten Smaragd-Grotte. Danach erkunden Sie das grüne Valle delle Ferriere von Pontone aus, bevor Sie am Abend zum Hafen von Amalfi zurückkehren, um den Sonnenuntergang am Strand zu genießen.",
+        "hu": "Autóval kényelmesen elérheti a központon kívüli látnivalókat is. A katedrális és a Papírmúzeum megtekintése után egy rövid autózással eljuthat a híres Smaragd-barlanghoz. Ezt követően látogasson el a Valle delle Ferriere felső szakaszához Pontone irányából, majd térjen vissza Amalfi kikötőjébe, hogy a naplementét már a tengerparton élvezhesse.",
+        "ro": "Cu mașina aveți libertatea de a ajunge ușor la atracțiile din afara centrului. După vizitarea catedralei și a Muzeului Hârtiei, o scurtă călătorie vă duce la faimoasa Grotta dello Smeraldo. Apoi, explorați zona verde Valle delle Ferriere pornind dinspre Pontone, înainte de a reveni în portul Amalfi pentru a vedea apusul pe plajă.",
+        "en": "By car, you can easily reach attractions outside the immediate center. After exploring the cathedral and the Paper Museum, a short scenic drive takes you to the famous Emerald Grotto. Continue to the lush Valle delle Ferriere by driving up towards Pontone for easier access, before heading back to Amalfi's harbor to catch the sunset by the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Spaghetti alle Vongole",
+            "tip": "Perfekt in einem Restaurant mit Meerblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizza Napoletana",
+            "tip": "Egy igazi fatüzelésű kemencében sült pizza."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Mix de pește și fructe de mare prăjite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Scialatielli Seafood",
+            "tip": "Fresh local pasta with shellfish near the waterfront."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pontone Belvedere",
+            "tip": "Ruhiger Blick über Amalfi von oben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pontone kilátó",
+            "tip": "Csendes panoráma Amalfi városára fentről.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcarea de lângă far",
+            "tip": "Loc liniștit pentru a vedea marea.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pontone Overlook",
+            "tip": "A quiet spot with panoramic views of the valley.",
+            "emoji": "🌄"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik aus Vietri",
+            "tip": "Größere Stücke lassen sich gut im Auto transportieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vietri kerámia",
+            "tip": "A nagyobb tálakat és vázákat könnyebb autóval szállítani."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri locale",
+            "tip": "Căutați vinurile DOC Costa d'Amalfi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wines",
+            "tip": "Pick up a few bottles of Costa d'Amalfi DOC wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken ist in Amalfi extrem teuer (bis zu 5€/Stunde).",
+          "Die Straßen sind sehr eng, mieten Sie ein kleines Auto.",
+          "Achten Sie auf die ZTL (verkehrsberuhigte Zonen)."
+        ],
+        "hu": [
+          "A parkolás rendkívül drága Amalfiban (akár 5€/óra).",
+          "Az utak nagyon szűkek, érdemes kisautót bérelni.",
+          "Figyeljen a ZTL zónákra, ahová tilos a behajtás."
+        ],
+        "ro": [
+          "Parcarea este foarte scumpă (până la 5€/oră).",
+          "Drumurile sunt înguste, închiriați o mașină mică.",
+          "Evitați zonele ZTL pentru a nu primi amenzi."
+        ],
+        "en": [
+          "Parking in Amalfi is very expensive (up to 5€/hour).",
+          "Roads are extremely narrow; rent a small car if possible.",
+          "Watch out for ZTL signs to avoid traffic fines."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza del Duomo",
+            "hu": "Piazza del Duomo",
+            "ro": "Piazza del Duomo",
+            "en": "Piazza del Duomo"
+          },
+          "coords": [
+            14.6028,
+            40.6335
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die zentrale Bushaltestelle ist nur 2 Minuten entfernt.",
+            "hu": "A központi buszmegálló mindössze 2 percre van.",
+            "ro": "Stația centrală de autobuz este la doar 2 minute.",
+            "en": "The main bus terminal is just a 2-minute walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Amalfi",
+            "hu": "Amalfi katedrális",
+            "ro": "Catedrala din Amalfi",
+            "en": "Amalfi Cathedral"
+          },
+          "coords": [
+            14.603,
+            40.6337
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie auch das Diözesanmuseum.",
+            "hu": "Látogasson el az Egyházmegyei Múzeumba is.",
+            "ro": "Vizitați și muzeul diecezan adiacent.",
+            "en": "Visit the adjacent Diocesan Museum as well."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo della Carta",
+            "hu": "Papírmúzeum",
+            "ro": "Muzeul Hârtiei",
+            "en": "Paper Museum"
+          },
+          "coords": [
+            14.6001,
+            40.6385
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein lokaler Shuttlebus fährt das Tal hoch.",
+            "hu": "Helyi kisbusz közlekedik fel a völgybe.",
+            "ro": "Un autobuz local merge pe vale în sus.",
+            "en": "A small local shuttle runs up the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta dello Smeraldo",
+            "hu": "Smaragd-barlang",
+            "ro": "Grotta dello Smeraldo",
+            "en": "Grotta dello Smeraldo"
+          },
+          "coords": [
+            14.565,
+            40.615
+          ],
+          "category": "natural features",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den SITA-Bus Richtung Positano.",
+            "hu": "Szálljon fel a Positano felé tartó SITA buszra.",
+            "ro": "Luați autobuzul SITA spre Positano.",
+            "en": "Take the SITA bus heading toward Positano."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Grande di Amalfi",
+            "hu": "Amalfi nagy strandja",
+            "ro": "Spiaggia Grande di Amalfi",
+            "en": "Spiaggia Grande di Amalfi"
+          },
+          "coords": [
+            14.6035,
+            40.6325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Rückfahrt mit dem Boot ist eine tolle Alternative.",
+            "hu": "A visszajáró hajó remek alternatíva a busz helyett.",
+            "ro": "Întoarcerea cu barca este o alternativă excelentă.",
+            "en": "Returning by boat is a scenic alternative to the bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das dichte Verkehrsnetz von Amalfi, um die Stadt und die Küste zu erkunden. Nach dem kulturellen Start im Zentrum bringt Sie der SITA-Bus bequem zur Smaragd-Grotte, einem Naturwunder unter den Klippen. Zurück in Amalfi können Sie das Papiermuseum besuchen und den Tag entspannt am Meer ausklingen lassen, während Sie das bunte Treiben im Hafen beobachten.",
+        "hu": "Használja ki Amalfi tömegközlekedését a város és a part felfedezéséhez. A központi látnivalók után a SITA busszal kényelmesen eljuthat a Smaragd-barlanghoz, amely a sziklák alatti természeti csoda. Visszatérve Amalfiba, látogasson el a Papírmúzeumba, majd pihenjen a tengerparton, figyelve a kikötő nyüzsgését.",
+        "ro": "Folosiți rețeaua de transport din Amalfi pentru a explora coasta. După vizitarea centrului istoric, autobuzul SITA vă duce confortabil la Grotta dello Smeraldo, o minune naturală sub stânci. Revenind în Amalfi, puteți vizita Muzeul Hârtiei și încheia ziua relaxat pe plajă, admirând forfota din port.",
+        "en": "Make the most of Amalfi's transit network to see the sights. After exploring the historic center, hop on a SITA bus for a quick trip to the Emerald Grotto, a stunning sea cave. Back in town, visit the Paper Museum and then unwind at Spiaggia Grande, watching the vibrant harbor life as the sun begins to set."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arancini di mare",
+            "tip": "Ein schneller Snack an der Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gnocchi alla Sorrentina",
+            "tip": "Klasszikus paradicsomos-mozzarellás fogás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastiera Napoletana",
+            "tip": "Prăjitură tradițională cu brânză și grâu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arancini",
+            "tip": "Fried rice balls, a perfect snack while waiting for the bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafenmole",
+            "tip": "Ein ruhiger Spaziergang weit weg vom Verkehr.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötőmóló",
+            "tip": "Csendes séta a tenger felett, távol a buszoktól.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile hotelurilor",
+            "tip": "Multe au terase publice cu vedere spre mare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pier Promenade",
+            "tip": "Walk to the end of the pier for a quiet view of the town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten",
+            "tip": "Schreiben Sie Grüße auf echtem Amalfi-Papier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapok",
+            "tip": "Írjon üdvözletet valódi amalfi papírra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Magazinele de lângă terminalul de autobuz au prețuri bune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade paper cards",
+            "tip": "Send a postcard made from authentic Amalfi paper."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets vorab im Tabakladen (Tabacchi).",
+          "Busse können in der Hochsaison sehr voll sein.",
+          "Die Fähren (Travelmar) sind oft pünktlicher als Busse."
+        ],
+        "hu": [
+          "Vásárolja meg a buszjegyet előre a dohányboltokban (Tabacchi).",
+          "A buszok főszezonban nagyon zsúfoltak lehetnek.",
+          "A hajók (Travelmar) gyakran pontosabbak a buszoknál."
+        ],
+        "ro": [
+          "Cumpărați biletele de autobuz în avans de la Tabacchi.",
+          "Autobuzele pot fi foarte pline în iulie și august.",
+          "Bărcile sunt o variantă mai rapidă pentru a evita traficul."
+        ],
+        "en": [
+          "Buy your bus tickets in advance at a 'Tabacchi' shop.",
+          "Buses can be very crowded during the peak summer months.",
+          "Ferries (Travelmar) are often more reliable and scenic than buses."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "transit_official": "https://www.sitasudtrasporti.it/",
+    "transit_app": "https://citymapper.com/naples",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.salernotoday.it/eventi/",
+    "tourism_office": "https://www.amalfi.it/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/campania/salerno.html",
+    "restaurants_booking": "https://www.thefork.com/restaurants/amalfi-c386907",
+    "museum_tickets": "https://www.getyourguide.com/amalfi-l466/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Buongiorno (bon-DJOR-no, Guten Tag), Grazie (GRAT-sje, Danke), Quanto costa? (KWAN-to KOS-ta, Was kostet das?)",
+      "hu": "Buongiorno (bon-dzsorno, Jó napot), Grazie (gracie, Köszönöm), Quanto costa? (kvanto koszta, Mennyibe kerül?)",
+      "ro": "Buongiorno (bon-djor-no, Bună ziua), Grazie (gra-ţie, Mulţumesc), Quanto costa? (kvan-to kos-ta, Cât costă?)",
+      "en": "Buongiorno (bwon-JOR-noh, Good morning), Grazie (GRAHT-see-eh, Thank you), Quanto costa? (KWAHN-toh KOH-stah, How much?)"
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Anfang Juni und September sind ideal: warmes Wetter, weniger Menschenmassen als im Juli/August.",
+      "hu": "Május és június eleje, valamint szeptember a legjobb: kellemes idő, kevesebb turista mint júliusban-augusztusban.",
+      "ro": "Mai și începutul lui iunie, plus septembrie sunt ideale: vreme caldă, mai puțini turiști decât în iulie-august.",
+      "en": "May to early June and September are ideal: warm weather, fewer crowds than peak July-August."
+    },
+    "neighborhood_warnings": {
+      "de": "Schmale Küstenstraße SS163 ist im Hochsommer extrem überlastet; vermeide Autofahrten, nutze SITA-Busse oder Fähren.",
+      "hu": "Az SS163 part menti út nyáron rendkívül zsúfolt; kerüld az autót, használj SITA buszt vagy kompot.",
+      "ro": "Drumul de coastă SS163 este extrem de aglomerat vara; evită mașina, folosește autobuzul SITA sau feribotul.",
+      "en": "The narrow SS163 coastal road is heavily congested in summer; avoid driving, use SITA buses or ferries."
+    }
+  }
+}

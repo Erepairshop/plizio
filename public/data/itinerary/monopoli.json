@@ -1,0 +1,1087 @@
+{
+  "city_id": "monopoli",
+  "anchor": {
+    "name": "Monopoli Old Town",
+    "coords": [
+      17.3014,
+      40.9542
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:40",
+      "total_km": 1.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Emanuele II",
+            "hu": "Piazza Emanuele II",
+            "ro": "Piazza Emanuele II",
+            "en": "Piazza Emanuele II"
+          },
+          "coords": [
+            17.2995,
+            40.9535
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ideal für einen ersten Espresso.",
+            "hu": "Kezdje itt a napot egy eszpresszóval.",
+            "ro": "Locul ideal pentru prima cafea.",
+            "en": "Perfect spot for your first espresso."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria Amalfitana",
+            "hu": "Santa Maria Amalfitana templom",
+            "ro": "Biserica Santa Maria Amalfitana",
+            "en": "Church of Santa Maria Amalfitana"
+          },
+          "coords": [
+            17.3012,
+            40.9532
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Krypta aus dem 12. Jh.",
+            "hu": "Nézze meg a 12. századi kriptát.",
+            "ro": "Vizitați cripta din secolul al XII-lea.",
+            "en": "Visit the 12th-century crypt."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Maria Santissima della Madia",
+            "hu": "Maria Santissima della Madia székesegyház",
+            "ro": "Catedrala Maria Santissima della Madia",
+            "en": "Cathedral of Maria Santissima della Madia"
+          },
+          "coords": [
+            17.3031,
+            40.9525
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Prachtvoller apulischer Barock.",
+            "hu": "Pompás apuliai barokk belső.",
+            "ro": "Baroc apulian magnific.",
+            "en": "Magnificent Apulian Baroque interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Hafen (Porto Vecchio)",
+            "hu": "Régi kikötő (Porto Vecchio)",
+            "ro": "Portul Vechi (Porto Vecchio)",
+            "en": "Old Harbor (Porto Vecchio)"
+          },
+          "coords": [
+            17.3045,
+            40.9528
+          ],
+          "category": "port",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die blauen Gozzo-Boote.",
+            "hu": "Fotózza le a kék gozzo csónakokat.",
+            "ro": "Fotografiați bărcile albastre gozzo.",
+            "en": "Take photos of the blue gozzo boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Carlo V",
+            "hu": "V. Károly vára",
+            "ro": "Castelul lui Carol al V-lea",
+            "en": "Castle of Charles V"
+          },
+          "coords": [
+            17.3058,
+            40.9515
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick von der Mauer.",
+            "hu": "Élvezze a kilátást a várfalról.",
+            "ro": "Bucurați-vă de priveliștea de pe zid.",
+            "en": "Enjoy the view from the sea walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastione di Santa Maria",
+            "hu": "Santa Maria bástya",
+            "ro": "Bastionul Santa Maria",
+            "en": "Bastion of Santa Maria"
+          },
+          "coords": [
+            17.3052,
+            40.9505
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Historische Kanonen am Meer.",
+            "hu": "Történelmi ágyúk a tengerparton.",
+            "ro": "Tunuri istorice lângă mare.",
+            "en": "Historic cannons by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Porta Vecchia",
+            "hu": "Cala Porta Vecchia strand",
+            "ro": "Plaja Cala Porta Vecchia",
+            "en": "Cala Porta Vecchia Beach"
+          },
+          "coords": [
+            17.3035,
+            40.9492
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stadtstrand mit glasklarem Wasser.",
+            "hu": "Városi strand kristálytiszta vízzel.",
+            "ro": "Plajă urbană cu apă cristalină.",
+            "en": "City beach with crystal clear water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie das Herz von Monopoli an der Piazza Emanuele II und tauchen in die Geschichte der Santa Maria Amalfitana ein. Der Vormittag gehört der beeindruckenden Barock-Kathedrale mit ihrer Ikone aus dem Meer. Mittags spazieren Sie am malerischen Porto Vecchio entlang und genießen frischen Fisch. Der Nachmittag steht im Zeichen der Verteidigung im Castello di Carlo V und auf den Bastionen. Zum Abschluss entspannen Sie am Stadtstrand Cala Porta Vecchia, bevor Sie den Tag in der Altstadt ausklingen lassen.",
+        "hu": "Reggel Monopoli szívében, a Piazza Emanuele II téren kezdünk, majd felfedezzük a Santa Maria Amalfitana templom titkait. A délelőtt csúcspontja a lenyűgöző barokk székesegyház megtekintése. Ebédidőben a Porto Vecchio kék csónakjai mellett sétálunk. Délután V. Károly várát és a tengerparti bástyákat járjuk be. A napot a Cala Porta Vecchia strandján zárjuk, ahol a városfalak tövében mártózhatunk meg az Adriai-tengerben.",
+        "ro": "Dimineața începe în Piazza Emanuele II, inima orașului, urmată de o vizită la biserica Santa Maria Amalfitana. Continuăm cu magnifica catedrală barocă și icoana sa legendară. La prânz, ne plimbăm prin Porto Vecchio, admirând bărcile albastre tradiționale. După-amiaza explorăm Castelul lui Carol al V-lea și bastioanele de apărare. Încheiem ziua cu o baie relaxantă la Cala Porta Vecchia, plaja aflată chiar la marginea zidurilor vechiului oraș.",
+        "en": "Start your morning at Piazza Emanuele II before diving into history at Santa Maria Amalfitana. The highlight of the forenoon is the stunning Baroque Cathedral. At midday, stroll past the blue boats of Porto Vecchio and enjoy seafood. Spend the afternoon exploring the Castle of Charles V and the historic sea walls. End your day at Cala Porta Vecchia, a charming city beach where you can swim with a view of the ancient fortifications."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caffè Speciale",
+            "tip": "Espresso mit Amaretto-Zeste und Sahne."
+          },
+          {
+            "name": "Focaccia Barese",
+            "tip": "Frisch gebacken mit Kirschtomaten und Oliven."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caffè Speciale",
+            "tip": "Espresszó mandulahéjjal és tejszínnel."
+          },
+          {
+            "name": "Focaccia Barese",
+            "tip": "Friss lepény paradicsommal és olívával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caffè Speciale",
+            "tip": "Espresso cu coajă de migdale și frișcă."
+          },
+          {
+            "name": "Focaccia Barese",
+            "tip": "Pâine plată cu roșii cherry și măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caffè Speciale",
+            "tip": "Espresso with almond zest and cream."
+          },
+          {
+            "name": "Focaccia Barese",
+            "tip": "Fresh flatbread with cherry tomatoes and olives."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Porto Vecchio bei Sonnenuntergang",
+            "tip": "Goldenes Licht auf den blauen Booten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Porto Vecchio naplementekor",
+            "tip": "Arany fények a kék csónakokon.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Porto Vecchio la apus",
+            "tip": "Lumină aurie pe bărcile albastre.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Porto Vecchio at sunset",
+            "tip": "Golden light on the blue boats.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Altstadt-Boutiquen",
+            "tip": "Handgefertigte Keramik und Leinenkleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óvárosi butikok",
+            "tip": "Kézműves kerámia és lenvászon ruhák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique-uri din centrul vechi",
+            "tip": "Ceramică artizanală și haine de in."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Boutiques",
+            "tip": "Handmade ceramics and linen clothing."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Besuchen Sie die Kathedrale am frühen Morgen.",
+          "Buchen Sie Restauranttische in Meeresnähe vorab.",
+          "Der Stadtstrand ist am Wochenende sehr voll."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Látogasson el a székesegyházba kora reggel.",
+          "Foglaljon asztalt a tengerparti éttermekben.",
+          "A városi strand hétvégén nagyon zsúfolt."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite.",
+          "Vizitați catedrala dimineața devreme.",
+          "Rezervați din timp masa la restaurantele de lângă mare.",
+          "Plaja urbană este foarte aglomerată în weekend."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Visit the Cathedral early in the morning.",
+          "Book restaurant tables near the sea in advance.",
+          "The city beach gets very crowded on weekends."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Emanuele II",
+            "hu": "Piazza Emanuele II",
+            "ro": "Piazza Emanuele II",
+            "en": "Piazza Emanuele II"
+          },
+          "coords": [
+            17.2995,
+            40.9535
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Startpunkt für die Küstentour.",
+            "hu": "A tengerparti túra kezdőpontja.",
+            "ro": "Punct de plecare pentru turul coastei.",
+            "en": "Starting point for the coastal tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Hafen (Porto Vecchio)",
+            "hu": "Régi kikötő (Porto Vecchio)",
+            "ro": "Portul Vechi (Porto Vecchio)",
+            "en": "Old Harbor (Porto Vecchio)"
+          },
+          "coords": [
+            17.3045,
+            40.9528
+          ],
+          "category": "port",
+          "arrive_at": "09:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Halt für Fotos.",
+            "hu": "Rövid megálló fotózáshoz.",
+            "ro": "Oprire scurtă pentru fotografii.",
+            "en": "Short stop for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastione di Santa Maria",
+            "hu": "Santa Maria bástya",
+            "ro": "Bastionul Santa Maria",
+            "en": "Bastion of Santa Maria"
+          },
+          "coords": [
+            17.3052,
+            40.9505
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Blick über die Adria.",
+            "hu": "Kilátás az Adriára.",
+            "ro": "Vedere peste Marea Adriatică.",
+            "en": "View over the Adriatic."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Porta Vecchia",
+            "hu": "Cala Porta Vecchia strand",
+            "ro": "Plaja Cala Porta Vecchia",
+            "en": "Cala Porta Vecchia Beach"
+          },
+          "coords": [
+            17.3035,
+            40.9492
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfrischungspause.",
+            "hu": "Frissítő pihenő.",
+            "ro": "Pauză de reîmprospătare.",
+            "en": "Refreshing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Südliche Buchten (Cala Cozze)",
+            "hu": "Déli öblök (Cala Cozze)",
+            "ro": "Golful de sud (Cala Cozze)",
+            "en": "Southern Coves (Cala Cozze)"
+          },
+          "coords": [
+            17.315,
+            40.938
+          ],
+          "category": "natural features",
+          "arrive_at": "12:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ruhigere Buchten außerhalb.",
+            "hu": "Nyugodtabb öblök a városon kívül.",
+            "ro": "Golfuri mai liniștite în afara orașului.",
+            "en": "Quieter coves outside the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Felsenkirche Madonna del Soccorso",
+            "hu": "Madonna del Soccorso sziklatemplom",
+            "ro": "Biserica rupestră Madonna del Soccorso",
+            "en": "Rock Church of Madonna del Soccorso"
+          },
+          "coords": [
+            17.304,
+            40.954
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Einzigartige Höhlenkirche.",
+            "hu": "Egyedülálló sziklatemplom.",
+            "ro": "Biserică rupestră unică.",
+            "en": "Unique rock church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Monopoli und seine Umgebung mit dem Fahrrad. Von der Piazza Emanuele II radeln Sie entlang der Stadtmauer zum Porto Vecchio und den Bastionen. Genießen Sie die Brise an der Cala Porta Vecchia, bevor Sie die Küste weiter nach Süden zu den einsamen Buchten wie Cala Cozze befahren. Nach einer ausgiebigen Badepause kehren Sie zurück und besichtigen die beeindruckende Felsenkirche Madonna del Soccorso.",
+        "hu": "Fedezze fel Monopolit és környékét kerékpárral. A Piazza Emanuele II-től a városfalak mentén tekerünk a Porto Vecchio és a bástyák felé. Cala Porta Vecchia után folytatjuk az utat délre a rejtett öblökig, mint például a Cala Cozze. Egy hosszabb fürdőzés után visszatérünk a városba, hogy megtekintsük a Madonna del Soccorso különleges sziklatemplomát.",
+        "ro": "Explorați Monopoli și împrejurimile sale pe bicicletă. De la Piazza Emanuele II, pedalați de-a lungul zidurilor către Porto Vecchio și bastioane. Savurați briza la Cala Porta Vecchia, apoi continuați spre sud către golfurile mai puțin aglomerate, cum ar fi Cala Cozze. După o pauză lungă de înot, reveniți în oraș pentru a vizita inedita biserică rupestră Madonna del Soccorso.",
+        "en": "Explore Monopoli and its surroundings by bike. From Piazza Emanuele II, cycle along the sea walls to Porto Vecchio and the bastions. Enjoy the breeze at Cala Porta Vecchia before heading further south to secluded coves like Cala Cozze. After a long swimming break, return to the city to visit the unique rock church of Madonna del Soccorso."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crudo di Mare",
+            "tip": "Roher Fischteller im Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crudo di Mare",
+            "tip": "Nyers tengeri tál a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crudo di Mare",
+            "tip": "Platou cu pește crud în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crudo di Mare",
+            "tip": "Raw seafood platter at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cala Cozze",
+            "tip": "Ruhiger Felsstrand.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cala Cozze",
+            "tip": "Csendes sziklás strand.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cala Cozze",
+            "tip": "Plajă stâncoasă liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cala Cozze",
+            "tip": "Quiet rocky beach.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl-Direktverkauf",
+            "tip": "Lokales Öl aus apulischen Hainen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj bolt",
+            "tip": "Helyi olaj apuliai ligetekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de ulei de măsline",
+            "tip": "Ulei local din livezi apuliene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil Shop",
+            "tip": "Local oil from Apulian groves."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit Schloss.",
+          "Achten Sie auf Autos in den engen Gassen.",
+          "Fahren Sie morgens, wenn es kühler ist.",
+          "Nehmen Sie genug Wasser für die Südtour mit."
+        ],
+        "hu": [
+          "Béreljen lakattal ellátott kerékpárt.",
+          "Vigyázzon az autókra a szűk utcákban.",
+          "Tekerjen reggel, amikor még hűvös van.",
+          "Vigyen elég vizet a déli túrához."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu încuietoare.",
+          "Atenție la mașini pe străzile înguste.",
+          "Pedalați dimineața, când este mai răcoare.",
+          "Luați destulă apă pentru traseul spre sud."
+        ],
+        "en": [
+          "Rent a bike with a lock.",
+          "Watch out for cars in narrow streets.",
+          "Cycle in the morning when it's cooler.",
+          "Bring enough water for the southern trip."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale Maria Santissima della Madia",
+            "hu": "Maria Santissima della Madia székesegyház",
+            "ro": "Catedrala Maria Santissima della Madia",
+            "en": "Cathedral of Maria Santissima della Madia"
+          },
+          "coords": [
+            17.3031,
+            40.9525
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie außerhalb der ZTL.",
+            "hu": "Parkoljon a ZTL zónán kívül.",
+            "ro": "Parcați în afara zonei ZTL.",
+            "en": "Park outside the ZTL zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Palmieri",
+            "hu": "Palazzo Palmieri",
+            "ro": "Palazzo Palmieri",
+            "en": "Palazzo Palmieri"
+          },
+          "coords": [
+            17.3025,
+            40.952
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Adelspalast aus dem 18. Jh.",
+            "hu": "18. századi nemesi palota.",
+            "ro": "Palat nobiliar din secolul XVIII.",
+            "en": "18th-century noble palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Carlo V",
+            "hu": "V. Károly vára",
+            "ro": "Castelul lui Carol al V-lea",
+            "en": "Castle of Charles V"
+          },
+          "coords": [
+            17.3058,
+            40.9515
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Blick auf den Hafen.",
+            "hu": "Kilátás a kikötőre.",
+            "ro": "Vedere spre port.",
+            "en": "View of the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbazia di San Vito (Polignano)",
+            "hu": "San Vito apátság (Polignano)",
+            "ro": "Abbazia di San Vito (Polignano)",
+            "en": "San Vito Abbey (Polignano)"
+          },
+          "coords": [
+            17.228,
+            41.006
+          ],
+          "category": "historical",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Spektakuläre Abtei am Meer.",
+            "hu": "Látványos apátság a tengerparton.",
+            "ro": "Abbație spectaculoasă pe malul mării.",
+            "en": "Spectacular abbey by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Porta Vecchia",
+            "hu": "Cala Porta Vecchia strand",
+            "ro": "Plaja Cala Porta Vecchia",
+            "en": "Cala Porta Vecchia Beach"
+          },
+          "coords": [
+            17.3035,
+            40.9492
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Perfekt für den Nachmittag.",
+            "hu": "Tökéletes délutáni kikapcsolódás.",
+            "ro": "Perfect pentru după-amiază.",
+            "en": "Perfect for the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie die Highlights von Monopoli mit der nahen Umgebung. Vormittags besichtigen Sie die Kathedrale und den Palazzo Palmieri. Nach dem Castello di Carlo V fahren Sie ein kurzes Stück nach Norden zur Abbazia di San Vito, einer beeindruckenden Abtei direkt am Wasser. Den späten Nachmittag verbringen Sie entspannt an der Cala Porta Vecchia in Monopoli.",
+        "hu": "Autóval Monopoli legszebb részeit és a környéket is bejárhatjuk. Délelőtt a katedrálist és a Palazzo Palmierit látogatjuk meg. V. Károly vára után észak felé vesszük az irányt a San Vito apátsághoz, amely közvetlenül a tengerparton áll. A késő délutánt a Monopoliban található Cala Porta Vecchia strandján töltjük.",
+        "ro": "Cu mașina puteți explora atât atracțiile din Monopoli, cât și împrejurimile. Dimineața vizitați catedrala și Palazzo Palmieri. După Castelul lui Carol al V-lea, faceți o scurtă deplasare spre nord la Abbazia di San Vito, o mănăstire impresionantă pe malul apei. După-amiaza târziu este dedicată plajei Cala Porta Vecchia.",
+        "en": "By car, you can combine Monopoli's highlights with the nearby coast. Visit the Cathedral and Palazzo Palmieri in the morning. After exploring the Castle, drive north to the Abbey of San Vito, a stunning landmark right on the water. Spend the late afternoon relaxing at Cala Porta Vecchia back in Monopoli."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Panzerotti",
+            "tip": "Frittierte Teigtaschen mit Mozzarella."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panzerotti",
+            "tip": "Sült tésztabatyu mozzarellával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panzerotti",
+            "tip": "Gogoși sărate cu mozzarella și roșii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Panzerotti",
+            "tip": "Fried dough pockets with mozzarella."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Vito Hafen",
+            "tip": "Ruhiger Fischerhafen bei Polignano.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Vito kikötő",
+            "tip": "Csendes halászkikötő Polignano mellett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Portul San Vito",
+            "tip": "Port pescăresc liniștit lângă Polignano.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Vito Harbor",
+            "tip": "Quiet fishing harbor near Polignano.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Primitivo oder Negroamaro."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "Primitivo vagy Negroamaro."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Primitivo sau Negroamaro."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine",
+            "tip": "Primitivo or Negroamaro."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie auf den blauen Linien (gebührenpflichtig).",
+          "Fahren Sie nicht in die Altstadt (ZTL).",
+          "Nutzen Sie den Parkplatz am Hafen.",
+          "Hüten Sie sich vor engen Einbahnstraßen."
+        ],
+        "hu": [
+          "Parkoljon kék vonallal jelzett helyen (fizetős).",
+          "Ne hajtson be az óvárosba (ZTL).",
+          "Használja a kikötői parkolót.",
+          "Vigyázzon a szűk egyirányú utcákkal."
+        ],
+        "ro": [
+          "Parcați pe liniile albastre (cu plată).",
+          "Nu intrați în centrul vechi (ZTL).",
+          "Folosiți parcarea de la port.",
+          "Atenție la străzile înguste cu sens unic."
+        ],
+        "en": [
+          "Park on blue lines (paid).",
+          "Do not drive into the old town (ZTL).",
+          "Use the large harbor parking lot.",
+          "Beware of narrow one-way streets."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Monopoli",
+            "hu": "Monopoli vasútállomás",
+            "ro": "Gara Monopoli",
+            "en": "Monopoli Train Station"
+          },
+          "coords": [
+            17.2915,
+            40.9485
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ankunftspunkt mit dem Regionalzug.",
+            "hu": "Érkezés regionális vonattal.",
+            "ro": "Punctul de sosire cu trenul regional.",
+            "en": "Arrival point by regional train."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Emanuele II",
+            "hu": "Piazza Emanuele II",
+            "ro": "Piazza Emanuele II",
+            "en": "Piazza Emanuele II"
+          },
+          "coords": [
+            17.2995,
+            40.9535
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Zentraler Platz, 10 Min. Busfahrt.",
+            "hu": "Központi tér, 10 perc buszozás.",
+            "ro": "Piața centrală, 10 minute cu autobuzul.",
+            "en": "Central square, 10 min bus ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Maria Santissima della Madia",
+            "hu": "Maria Santissima della Madia székesegyház",
+            "ro": "Catedrala Maria Santissima della Madia",
+            "en": "Cathedral of Maria Santissima della Madia"
+          },
+          "coords": [
+            17.3031,
+            40.9525
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Zentrum.",
+            "hu": "Rövid séta a központból.",
+            "ro": "Scurtă plimbare din centru.",
+            "en": "Short walk from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Vecchio",
+            "hu": "Porto Vecchio",
+            "ro": "Porto Vecchio",
+            "en": "Porto Vecchio"
+          },
+          "coords": [
+            17.3045,
+            40.9528
+          ],
+          "category": "port",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beste Restaurants in der Nähe.",
+            "hu": "A legjobb éttermek a közelben.",
+            "ro": "Cele mai bune restaurante în zonă.",
+            "en": "Best restaurants nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Porta Vecchia",
+            "hu": "Cala Porta Vecchia strand",
+            "ro": "Plaja Cala Porta Vecchia",
+            "en": "Cala Porta Vecchia Beach"
+          },
+          "coords": [
+            17.3035,
+            40.9492
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannung vor der Rückreise.",
+            "hu": "Pihenés a hazautazás előtt.",
+            "ro": "Relaxare înainte de plecare.",
+            "en": "Relaxation before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ideal für Tagesausflügler mit dem Zug. Vom Bahnhof Monopoli erreichen Sie bequem die Piazza Emanuele II. Besuchen Sie die prächtige Barock-Kathedrale und spazieren Sie zum Porto Vecchio. Den Nachmittag verbringen Sie am Stadtstrand Cala Porta Vecchia, bevor Sie zu Fuß oder mit dem Bus zurück zum Bahnhof fahren.",
+        "hu": "Ideális vonattal érkező egynapos látogatóknak. A vasútállomástól könnyen elérhető a Piazza Emanuele II. Nézzék meg a barokk katedrálist és sétáljanak el a Porto Vecchio-hoz. A délutánt a Cala Porta Vecchia strandján tölthetik, majd gyalog vagy busszal térhetnek vissza az állomásra.",
+        "ro": "Ideal pentru cei care vin cu trenul. De la gara Monopoli se ajunge ușor în Piazza Emanuele II. Vizitați catedrala barocă și plimbați-vă prin Porto Vecchio. După-amiaza este rezervată plajei Cala Porta Vecchia, urmată de întoarcerea la gară pe jos sau cu autobuzul.",
+        "en": "Perfect for day-trippers arriving by train. From Monopoli station, you can easily reach Piazza Emanuele II. Visit the grand Baroque Cathedral and stroll around Porto Vecchio. Spend your afternoon at Cala Porta Vecchia beach before heading back to the station on foot or by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gelato Artigianale",
+            "tip": "Hausgemachtes Eis in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gelato Artigianale",
+            "tip": "Kézműves fagylalt az óvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gelato Artigianale",
+            "tip": "Înghețată artizanală în centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gelato Artigianale",
+            "tip": "Artisan gelato in the old town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lungomare",
+            "tip": "Meerespromenade mit Blick auf die Adria.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lungomare",
+            "tip": "Tengerparti sétány kilátással az Adriára.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lungomare",
+            "tip": "Promenadă la malul mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lungomare",
+            "tip": "Seafront promenade with Adriatic views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Taralli",
+            "tip": "Herzhaftes Gebäck in Tüten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taralli",
+            "tip": "Sós sütemény kis csomagokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taralli",
+            "tip": "Covrigei sărați tradiționali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taralli",
+            "tip": "Savory snack rings in bags."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Züge nach Bari fahren stündlich.",
+          "Fahrkarten am Automaten entwerten.",
+          "Die Busse vom Bahnhof ins Zentrum sind klein.",
+          "Zu Fuß dauert es etwa 15 Minuten."
+        ],
+        "hu": [
+          "A Bari felé közlekedő vonatok óránként járnak.",
+          "Érvényesítse a jegyet az automatánál.",
+          "Az állomásról a központba kis buszok járnak.",
+          "Gyalog kb. 15 perc az út."
+        ],
+        "ro": [
+          "Trenurile spre Bari circulă la fiecare oră.",
+          "Compostați biletele la automate.",
+          "Autobuzele de la gară spre centru sunt mici.",
+          "Pe jos durează aproximativ 15 minute."
+        ],
+        "en": [
+          "Trains to Bari run hourly.",
+          "Validate tickets at the machines.",
+          "Buses from the station to center are small.",
+          "The walk takes about 15 minutes."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "name": "Monopoli",
+    "region": "IT-75",
+    "lon": 17.3014,
+    "lat": 40.9542,
+    "transit_official": "https://www.trenitalia.com/",
+    "transit_app": "https://moovitapp.com/",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.eventbrite.it/d/italy--monopoli/events/",
+    "tourism_office": "https://monopolitourism.com/en/",
+    "webcam": null,
+    "restaurants_booking": "https://www.thefork.com/",
+    "museum_tickets": "https://monopolitourism.com/en/info-point/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch; in der Altstadt und an der Kueste oft Englisch.",
+      "hu": "Olasz; az obvarosban es a parton gyakran ertenek angolul.",
+      "ro": "Italiana; in centrul vechi si pe coasta se vorbeste engleza.",
+      "en": "Italian; English commonly spoken in old town and along the coast."
+    },
+    "best_time": {
+      "de": "Mai, Juni und September fuer Strand und Altstadt ohne Hitze.",
+      "hu": "Majus, junius es szeptember a tengerparthoz es obvaroshoz.",
+      "ro": "Mai, iunie si septembrie pentru plaja si centrul vechi fara canicula.",
+      "en": "May, June and September for beach and old town without extreme heat."
+    },
+    "warnings": {
+      "de": "ZTL in der Altstadt; Strand-Lidos im August schnell ausgebucht.",
+      "hu": "ZTL az obvarosban; a strand-lidok augusztusban gyorsan megtelnek.",
+      "ro": "Zona ZTL in centrul vechi; plajele-lido sunt aglomerate in august.",
+      "en": "ZTL in old town; beach lidos book up fast in August."
+    }
+  }
+}

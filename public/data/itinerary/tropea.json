@@ -1,0 +1,1266 @@
+{
+  "city_id": "tropea",
+  "anchor": {
+    "name": "Tropea",
+    "coords": [
+      15.8967,
+      38.6772
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 2.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Corso Vittorio Emanuele",
+            "hu": "Corso Vittorio Emanuele",
+            "ro": "Corso Vittorio Emanuele",
+            "en": "Corso Vittorio Emanuele"
+          },
+          "coords": [
+            15.8975,
+            38.678
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bester Ort für den ersten Espresso.",
+            "hu": "A legjobb hely az első presszókávéhoz.",
+            "ro": "Cel mai bun loc pentru primul espresso.",
+            "en": "Best spot for your first espresso."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di Tropea",
+            "hu": "Tropeai székesegyház",
+            "ro": "Catedrala din Tropea",
+            "en": "Cattedrale di Tropea"
+          },
+          "coords": [
+            15.8985,
+            38.6775
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die unexplodierte Bombe aus dem 2. Weltkrieg.",
+            "hu": "Nézze meg a falban maradt világháborús bombát.",
+            "ro": "Căutați bomba neexplodată din al Doilea Război Mondial.",
+            "en": "Look for the unexploded WWII bomb inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Diocesano",
+            "hu": "Egyházmegyei Múzeum",
+            "ro": "Muzeul Diecezan",
+            "en": "Diocesan Museum"
+          },
+          "coords": [
+            15.8988,
+            38.6773
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Wichtige sakrale Kunst im alten Bischofspalast.",
+            "hu": "Fontos egyházi műkincsek a püspöki palotában.",
+            "ro": "Artă sacră importantă în vechiul palat episcopal.",
+            "en": "Important sacred art in the old bishop's palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Affaccio Raf Vallone",
+            "hu": "Raf Vallone kilátó",
+            "ro": "Belvederea Raf Vallone",
+            "en": "Affaccio Raf Vallone"
+          },
+          "coords": [
+            15.896,
+            38.679
+          ],
+          "category": "natural features",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der ikonischste Blick auf die Isola.",
+            "hu": "A legikonikusabb kilátás az Isola templomra.",
+            "ro": "Cea mai emblematică vedere asupra insulei.",
+            "en": "The most iconic view of the Isola church."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia della Rotonda",
+            "hu": "Rotonda strand",
+            "ro": "Plaja Rotonda",
+            "en": "Spiaggia della Rotonda"
+          },
+          "coords": [
+            15.8965,
+            38.6798
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kristallklares Wasser direkt unter den Klippen.",
+            "hu": "Kristálytiszta víz közvetlenül a sziklák alatt.",
+            "ro": "Apă de cristal direct sub stâncile orașului.",
+            "en": "Crystal clear water right below the city cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria dell'Isola",
+            "hu": "Santa Maria dell'Isola templom",
+            "ro": "Santa Maria dell'Isola",
+            "en": "Santa Maria dell'Isola"
+          },
+          "coords": [
+            15.8955,
+            38.6795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie die Stufen zum Garten hinauf.",
+            "hu": "Másszon fel a lépcsőkön a templom kertjébe.",
+            "ro": "Urcați treptele către grădina mănăstirii.",
+            "en": "Climb the steps to reach the monastery garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta del Palombaro",
+            "hu": "Palombaro-barlang",
+            "ro": "Peștera Palombaro",
+            "en": "Grotta del Palombaro"
+          },
+          "coords": [
+            15.894,
+            38.6795
+          ],
+          "category": "natural features",
+          "arrive_at": "18:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nur bei Ebbe oder vom Boot aus erreichbar.",
+            "hu": "Csak apálykor vagy csónakkal érhető el.",
+            "ro": "Accesibilă doar la reflux sau cu barca.",
+            "en": "Accessible only at low tide or by boat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem lebhaften Corso Vittorio Emanuele, bevor Sie die normannische Kathedrale besuchen. Nach einer Dosis Kultur im Museo Diocesano genießen Sie das Panorama vom Affaccio Raf Vallone. Den Nachmittag verbringen Sie am Fuße der Klippen am Strand, um dann den Tag mit dem Aufstieg zur ikonischen Inselfestung Santa Maria dell'Isola zu krönen, von wo aus Sie den Blick auf den Sonnenuntergang über dem Tyrrhenischen Meer genießen.",
+        "hu": "Kezdje a napot a nyüzsgő Corso Vittorio Emanuele korzón, majd látogasson el a normann kori székesegyházba. Az Egyházmegyei Múzeum kincsei után csodálja meg a panorámát a Raf Vallone kilátóról. A délutánt töltse a sziklák alatti strandon, majd zárja a napot a város jelképének számító Santa Maria dell'Isola templom felkeresésével, ahonnan pazar kilátás nyílik a Tirrén-tengerre a naplementében.",
+        "ro": "Începeți ziua pe Corso Vittorio Emanuele, inima vibrantă a orașului, înainte de a vizita catedrala normandă. După o doză de cultură la Muzeul Diecezan, admirați panorama de la Affaccio Raf Vallone. Petreceți după-amiaza pe plaja de sub stânci, apoi încheiați ziua urcând la emblematica Santa Maria dell'Isola, de unde puteți vedea apusul spectaculos peste Marea Tireniană.",
+        "en": "Start your day on the lively Corso Vittorio Emanuele before visiting the Norman cathedral. After a dose of culture at the Diocesan Museum, enjoy the panorama from Affaccio Raf Vallone. Spend the afternoon at the beach below the cliffs, then crown the day by climbing to the iconic Santa Maria dell'Isola church, offering a perfect sunset view over the Tyrrhenian Sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cipolla Rossa di Tropea",
+            "tip": "Süße rote Zwiebeln, oft als Marmelade serviert."
+          },
+          {
+            "name": "Nduja",
+            "tip": "Scharfe Streichwurst aus der Region bei 'La Munizione'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cipolla Rossa di Tropea",
+            "tip": "Helyi édes vöröshagyma, kóstolja lekvárként is."
+          },
+          {
+            "name": "Nduja",
+            "tip": "Csípős, kenhető kolbász, keresse a 'La Munizione' boltban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cipolla Rossa di Tropea",
+            "tip": "Ceapă roșie dulce, adesea servită ca dulceață."
+          },
+          {
+            "name": "Nduja",
+            "tip": "Cârnat picant tartinabil, încercați la 'La Munizione'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cipolla Rossa di Tropea",
+            "tip": "Sweet red onions, try them as marmalade on crostini."
+          },
+          {
+            "name": "Nduja",
+            "tip": "Spicy spreadable pork sausage, found at 'La Munizione'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Affaccio Raf Vallone",
+            "tip": "Ruhiger Blick auf das Meer am frühen Morgen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Santa Maria Garten",
+            "tip": "Ein friedlicher Rückzugsort auf dem Felsen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Affaccio Raf Vallone",
+            "tip": "Csendes kilátás a tengerre kora reggel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Santa Maria kert",
+            "tip": "Békés menedék a szikla tetején.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Affaccio Raf Vallone",
+            "tip": "Vedere liniștită spre mare dis-de-dimineață.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Santa Maria",
+            "tip": "Un refugiu pașnic pe vârful stâncii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Affaccio Raf Vallone",
+            "tip": "Quiet sea views in the early morning.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Santa Maria Garden",
+            "tip": "A peaceful retreat on top of the rock island.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Vittorio Emanuele",
+            "tip": "Geflochtene Zwiebelzöpfe als Souvenir."
+          },
+          {
+            "name": "Il Faro",
+            "tip": "Handgefertigte kalabrische Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Vittorio Emanuele",
+            "tip": "Hagymafonatok és helyi fűszerek."
+          },
+          {
+            "name": "Il Faro",
+            "tip": "Kézzel készített calabriai kerámiák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Vittorio Emanuele",
+            "tip": "Funii de ceapă și condimente locale."
+          },
+          {
+            "name": "Il Faro",
+            "tip": "Ceramică calabreză lucrată manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Vittorio Emanuele",
+            "tip": "Braided red onions and local spices."
+          },
+          {
+            "name": "Il Faro",
+            "tip": "Handmade Calabrian ceramics and pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die steilen Treppen zum Strand.",
+          "Die Altstadt ist abends fast vollständig autofrei.",
+          "Reservieren Sie für Restaurants mit Meerblick im Voraus.",
+          "Besuchen Sie die Kathedrale während der Mittagshitze zur Abkühlung."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a strandra vezető meredek lépcsőkhöz.",
+          "Az óváros este szinte teljesen autómentes övezet.",
+          "Érdemes előre asztalt foglalni a tengerre néző éttermekben.",
+          "A székesegyház hűvös belső tere jó menedék a déli hőségben."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru treptele abrupte către plajă.",
+          "Centrul vechi este aproape în întregime pietonal seara.",
+          "Rezervați din timp pentru restaurantele cu vedere la mare.",
+          "Vizitați catedrala în timpul amiezii pentru a scăpa de căldură."
+        ],
+        "en": [
+          "Wear comfortable shoes for the steep stairs leading to the beach.",
+          "The old town is almost entirely pedestrian-only in the evenings.",
+          "Book in advance for restaurants with a sea view.",
+          "The cathedral's cool interior is a great escape from the midday sun."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Palazzo Toraldo",
+            "hu": "Toraldo Palota",
+            "ro": "Palatul Toraldo",
+            "en": "Palazzo Toraldo"
+          },
+          "coords": [
+            15.899,
+            38.6778
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein prächtiger Adelspalast im Herzen der Stadt.",
+            "hu": "Pompás nemesi palota a város szívében.",
+            "ro": "Un palat nobiliar splendid în inima orașului.",
+            "en": "A magnificent noble palace in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di Tropea",
+            "hu": "Tropeai székesegyház",
+            "ro": "Catedrala din Tropea",
+            "en": "Cattedrale di Tropea"
+          },
+          "coords": [
+            15.8985,
+            38.6775
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Romanischer Stil mit normannischen Einflüssen.",
+            "hu": "Román stílus normann hatásokkal.",
+            "ro": "Stil romanic cu influențe normande.",
+            "en": "Romanesque style with Norman influences."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria dell'Isola",
+            "hu": "Santa Maria dell'Isola",
+            "ro": "Santa Maria dell'Isola",
+            "en": "Santa Maria dell'Isola"
+          },
+          "coords": [
+            15.8955,
+            38.6795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad unten am Fuß des Felsens.",
+            "hu": "Parkolja le a bringát lent a szikla lábánál.",
+            "ro": "Parcați bicicleta jos, la baza stâncii.",
+            "en": "Park your bike at the base of the rock island."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia della Rotonda",
+            "hu": "Rotonda strand",
+            "ro": "Plaja Rotonda",
+            "en": "Spiaggia della Rotonda"
+          },
+          "coords": [
+            15.8965,
+            38.6798
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für eine Erfrischung nach der Fahrt.",
+            "hu": "Tökéletes felfrissülés a tekerés után.",
+            "ro": "Perfect pentru o răcorire după plimbare.",
+            "en": "Perfect for a refresh after your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Affaccio Raf Vallone",
+            "hu": "Raf Vallone kilátó",
+            "ro": "Belvederea Raf Vallone",
+            "en": "Affaccio Raf Vallone"
+          },
+          "coords": [
+            15.896,
+            38.679
+          ],
+          "category": "natural features",
+          "arrive_at": "14:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erreichen Sie die Aussichtsplattform über den Corso.",
+            "hu": "A kilátó a Corso felől érhető el.",
+            "ro": "Ajungeți la belvedere prin Corso principal.",
+            "en": "Reach the viewpoint via the main Corso."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta del Palombaro",
+            "hu": "Palombaro-barlang",
+            "ro": "Peștera Palombaro",
+            "en": "Grotta del Palombaro"
+          },
+          "coords": [
+            15.894,
+            38.6795
+          ],
+          "category": "natural features",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der Küstenstraße für weite Blicke.",
+            "hu": "Tekerjen a part menti úton a panorámáért.",
+            "ro": "Pedalați pe drumul de coastă pentru vederi largi.",
+            "en": "Ride along the coastal road for wide views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Tropea auf zwei Rädern. Beginnen Sie im historischen Zentrum am Palazzo Toraldo und der Kathedrale. Nach dem Aufstieg zur Santa Maria dell'Isola (zu Fuß, Rad unten lassen) radeln Sie hinunter zum Strand. Die Route führt Sie schließlich entlang der Küstenstraße zu den beeindruckenden Grotten und bietet stets Panoramablicke auf das azurblaue Wasser.",
+        "hu": "Fedezze fel Tropeát két keréken. Kezdje a történelmi központban a Palazzo Toraldo és a székesegyház érintésével. Miután felmászott a Santa Maria dell'Isola templomhoz (a bringát hagyja lent), guruljon le a strandra. Az útvonal végül a part menti úton halad a lenyűgöző barlangok irányába, folyamatos panorámát kínálva az azúrkék tengerre.",
+        "ro": "Descoperiți Tropea pe două roți. Începeți în centrul istoric la Palazzo Toraldo și catedrală. După vizita la Santa Maria dell'Isola (lăsați bicicleta jos), coborâți spre plajă. Traseul continuă pe drumul de coastă către peșterile spectaculoase, oferind mereu panorame asupra apei azurii.",
+        "en": "Discover Tropea on two wheels. Start in the historical center at Palazzo Toraldo and the Cathedral. After climbing to Santa Maria dell'Isola (leave bike at the base), cycle down to the beach. The route finishes along the coastal road towards the impressive caves, offering constant panoramas of the azure water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gelato Tonino",
+            "tip": "Probieren Sie Zwiebel- oder Nduja-Eis für Mutige."
+          },
+          {
+            "name": "Pasticceria Peccati di Gola",
+            "tip": "Traditionelle kalabrische Süßwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gelato Tonino",
+            "tip": "Kóstolja meg a hagyma- vagy nduja-fagyit a bátraknak."
+          },
+          {
+            "name": "Pasticceria Peccati di Gola",
+            "tip": "Hagyományos calabriai édességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gelato Tonino",
+            "tip": "Încercați înghețata de ceapă sau nduja pentru curajoși."
+          },
+          {
+            "name": "Pasticceria Peccati di Gola",
+            "tip": "Produse de patiserie tradiționale calabreze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gelato Tonino",
+            "tip": "Try onion or nduja flavored gelato for the brave."
+          },
+          {
+            "name": "Pasticceria Peccati di Gola",
+            "tip": "Traditional Calabrian sweets and pastries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstenstraße Richtung Süden",
+            "tip": "Ruhige Fahrt mit Blick auf den Stromboli.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Part menti út délre",
+            "tip": "Csendes tekerés kilátással a Strombolira.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul de coastă spre sud",
+            "tip": "Plimbare liniștită cu vedere la Stromboli.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal road heading south",
+            "tip": "Quiet ride with views of the Stromboli volcano.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Libertà",
+            "tip": "Fahrradverleih und lokales Zubehör."
+          },
+          {
+            "name": "La Dispensa",
+            "tip": "Olivenöl und Weine aus Kalabrien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Libertà",
+            "tip": "Kerékpárkölcsönző és helyi kiegészítők."
+          },
+          {
+            "name": "La Dispensa",
+            "tip": "Helyi olívaolaj és borok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Libertà",
+            "tip": "Închirieri biciclete și accesorii locale."
+          },
+          {
+            "name": "La Dispensa",
+            "tip": "Ulei de măsline și vinuri din Calabria."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Libertà",
+            "tip": "Bike rentals and local accessories."
+          },
+          {
+            "name": "La Dispensa",
+            "tip": "Local olive oil and wines from Calabria."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt hat viele Kopfsteinpflastergassen, fahren Sie vorsichtig.",
+          "Ein E-Bike ist aufgrund der Höhenunterschiede empfehlenswert.",
+          "Trinken Sie ausreichend Wasser, die Sonne kann intensiv sein.",
+          "Sichern Sie Ihr Fahrrad immer an festen Objekten."
+        ],
+        "hu": [
+          "Az óváros sok macskaköves utcával rendelkezik, tekerjen óvatosan.",
+          "Az e-bike ajánlott a jelentős szintkülönbségek miatt.",
+          "Igyon sok vizet, a nap nagyon erősen tűzhet.",
+          "Mindig rögzítse a kerékpárt fix tárgyakhoz."
+        ],
+        "ro": [
+          "Centrul vechi are multe străzi cu piatră cubică, pedalați cu atenție.",
+          "Bicicleta electrică este recomandată din cauza diferențelor de nivel.",
+          "Beți suficientă apă, soarele poate fi foarte puternic.",
+          "Asigurați întotdeauna bicicleta de obiecte fixe."
+        ],
+        "en": [
+          "The old town has many cobblestone alleys, ride carefully.",
+          "An e-bike is recommended due to the significant elevation changes.",
+          "Drink plenty of water, the sun can be very intense.",
+          "Always secure your bike to fixed objects."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Capo Vaticano",
+            "hu": "Capo Vaticano",
+            "ro": "Capo Vaticano",
+            "en": "Capo Vaticano"
+          },
+          "coords": [
+            15.8288,
+            38.618
+          ],
+          "category": "natural features",
+          "arrive_at": "09:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Atemberaubende Klippen 15 Min. südlich von Tropea.",
+            "hu": "Lélegzetelállító sziklák 15 percre délre Tropeától.",
+            "ro": "Stânci uluitoare la 15 minute sud de Tropea.",
+            "en": "Breathtaking cliffs 15 mins south of Tropea."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di Tropea",
+            "hu": "Tropeai székesegyház",
+            "ro": "Catedrala din Tropea",
+            "en": "Cattedrale di Tropea"
+          },
+          "coords": [
+            15.8985,
+            38.6775
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem öffentlichen Parkplatz 'Contrada Campo'.",
+            "hu": "Parkoljon a 'Contrada Campo' központi parkolóban.",
+            "ro": "Parcați în parcarea publică 'Contrada Campo'.",
+            "en": "Park at the 'Contrada Campo' public parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Toraldo",
+            "hu": "Toraldo Palota",
+            "ro": "Palatul Toraldo",
+            "en": "Palazzo Toraldo"
+          },
+          "coords": [
+            15.899,
+            38.6778
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Historische Residenz mit Blick auf die Stadt.",
+            "hu": "Történelmi rezidencia kilátással a városra.",
+            "ro": "Reședință istorică cu vedere asupra orașului.",
+            "en": "Historical residence with views over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Diocesano",
+            "hu": "Egyházmegyei Múzeum",
+            "ro": "Muzeul Diecezan",
+            "en": "Diocesan Museum"
+          },
+          "coords": [
+            15.8988,
+            38.6773
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Religiöse Schätze in kühlen Hallen.",
+            "hu": "Vallási kincsek a hűvös csarnokokban.",
+            "ro": "Comori religioase în săli răcoroase.",
+            "en": "Religious treasures in cool historic halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia della Rotonda",
+            "hu": "Rotonda strand",
+            "ro": "Plaja Rotonda",
+            "en": "Spiaggia della Rotonda"
+          },
+          "coords": [
+            15.8965,
+            38.6798
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parkplätze am Hafen sind oft einfacher zu finden.",
+            "hu": "A kikötőnél gyakran könnyebb parkolni.",
+            "ro": "Parcarea în port este adesea mai ușoară.",
+            "en": "Parking near the harbor is often easier."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria dell'Isola",
+            "hu": "Santa Maria dell'Isola",
+            "ro": "Santa Maria dell'Isola",
+            "en": "Santa Maria dell'Isola"
+          },
+          "coords": [
+            15.8955,
+            38.6795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss für Fotos.",
+            "hu": "Tökéletes zárás a fotózáshoz.",
+            "ro": "Finalul perfect pentru fotografii.",
+            "en": "The perfect finale for your photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um morgens das nahegelegene Capo Vaticano mit seinen spektakulären Aussichtspunkten zu erkunden. Kehren Sie dann nach Tropea zurück, parken Sie am Stadtrand und spazieren Sie durch das historische Zentrum zur Kathedrale und zum Palazzo Toraldo. Nach einem Strandbesuch am Nachmittag beenden Sie den Tag bei der berühmten Santa Maria dell'Isola.",
+        "hu": "Használja az autót, hogy reggel felfedezze a közeli Capo Vaticano látványos kilátópontjait. Térjen vissza Tropeába, parkoljon a város szélén, és sétáljon a történelmi központban a székesegyházhoz és a Palazzo Toraldóhoz. Egy délutáni strandolás után zárja a napot a híres Santa Maria dell'Isola templomnál.",
+        "ro": "Folosiți mașina pentru a explora dimineața spectaculosul Capo Vaticano din apropiere. Reveniți în Tropea, parcați la marginea orașului și plimbați-vă prin centrul istoric către catedrală și Palatul Toraldo. După o după-amiază la plajă, încheiați ziua la faimoasa Santa Maria dell'Isola.",
+        "en": "Use your car to explore the nearby Capo Vaticano and its spectacular viewpoints in the morning. Return to Tropea, park on the outskirts, and walk through the historical center to the Cathedral and Palazzo Toraldo. After an afternoon at the beach, finish your day at the famous Santa Maria dell'Isola."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante Pimm's",
+            "tip": "Frischer Fisch mit Blick auf das Meer."
+          },
+          {
+            "name": "La Lamia",
+            "tip": "Hervorragende Pasta mit roten Zwiebeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante Pimm's",
+            "tip": "Friss halételek kilátással a tengerre."
+          },
+          {
+            "name": "La Lamia",
+            "tip": "Kiváló tészta helyi vöröshagymával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante Pimm's",
+            "tip": "Pește proaspăt cu vedere la mare."
+          },
+          {
+            "name": "La Lamia",
+            "tip": "Paste excelente cu ceapă roșie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante Pimm's",
+            "tip": "Fresh seafood with a stunning sea view."
+          },
+          {
+            "name": "La Lamia",
+            "tip": "Excellent pasta with local red onions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leuchtturm Capo Vaticano",
+            "tip": "Weitläufiger Blick abseits der Stadtmassen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Capo Vaticano világítótorony",
+            "tip": "Tágas kilátás a városi tömegtől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Farul Capo Vaticano",
+            "tip": "Vedere amplă departe de aglomerația orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Capo Vaticano Lighthouse",
+            "tip": "Vast views away from the city crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt am Stadtrand",
+            "tip": "Günstiger für größere Mengen Öl/Wein."
+          },
+          {
+            "name": "Souvenirs in Capo Vaticano",
+            "tip": "Lokale Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városszéli szupermarket",
+            "tip": "Olcsóbb nagyobb mennyiségű olajhoz/borhoz."
+          },
+          {
+            "name": "Capo Vaticano szuvenírboltok",
+            "tip": "Helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket la marginea orașului",
+            "tip": "Mai ieftin pentru cantități mari de ulei/vin."
+          },
+          {
+            "name": "Suveniruri în Capo Vaticano",
+            "tip": "Artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Outskirts Supermarkets",
+            "tip": "Better prices for bulk oil and wine."
+          },
+          {
+            "name": "Capo Vaticano Souvenirs",
+            "tip": "Local crafts and pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie nicht in die ZTL-Zone (begrenzter Verkehr) im Zentrum.",
+          "Parkplätze sind im Sommer sehr knapp, kommen Sie früh.",
+          "Die Straßen nach Capo Vaticano sind kurvenreich, aber gut ausgebaut.",
+          "Hinterlassen Sie keine Wertsachen im Auto."
+        ],
+        "hu": [
+          "Ne hajtson be a központi korlátozott forgalmú zónába (ZTL).",
+          "A parkolóhelyek nyáron nagyon fogytán vannak, érkezzen korán.",
+          "A Capo Vaticano felé vezető utak kanyargósak, de jó állapotúak.",
+          "Ne hagyjon értéket az autóban."
+        ],
+        "ro": [
+          "Nu intrați în zona ZTL (trafic limitat) din centru.",
+          "Locurile de parcare sunt limitate vara, veniți devreme.",
+          "Drumurile spre Capo Vaticano sunt sinuoase, dar bine întreținute.",
+          "Nu lăsați obiecte de valoare în mașină."
+        ],
+        "en": [
+          "Do not drive into the ZTL (Limited Traffic Zone) in the center.",
+          "Parking spaces are very scarce in summer, arrive early.",
+          "The roads to Capo Vaticano are winding but in good condition.",
+          "Do not leave valuables inside the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Tropea",
+            "hu": "Tropea vasútállomás",
+            "ro": "Gara Tropea",
+            "en": "Tropea Train Station"
+          },
+          "coords": [
+            15.9035,
+            38.6745
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ankunftspunkt für Züge aus Lamezia oder Reggio.",
+            "hu": "Érkezési pont a Lameziából vagy Reggióból érkező vonatoknak.",
+            "ro": "Punct de sosire pentru trenurile din Lamezia sau Reggio.",
+            "en": "Arrival point for trains from Lamezia or Reggio."
+          }
+        },
+        {
+          "name": {
+            "de": "Corso Vittorio Emanuele",
+            "hu": "Corso Vittorio Emanuele",
+            "ro": "Corso Vittorio Emanuele",
+            "en": "Corso Vittorio Emanuele"
+          },
+          "coords": [
+            15.8975,
+            38.678
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Shuttlebus ins Zentrum.",
+            "hu": "Használja a helyi ingajáratot a központba.",
+            "ro": "Folosiți microbuzul local către centru.",
+            "en": "Take the local shuttle bus to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di Tropea",
+            "hu": "Tropeai székesegyház",
+            "ro": "Catedrala din Tropea",
+            "en": "Cattedrale di Tropea"
+          },
+          "coords": [
+            15.8985,
+            38.6775
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Corso.",
+            "hu": "Rövid séta a Corso felől.",
+            "ro": "O scurtă plimbare de la Corso.",
+            "en": "A short walk from the main Corso."
+          }
+        },
+        {
+          "name": {
+            "de": "Affaccio Raf Vallone",
+            "hu": "Raf Vallone kilátó",
+            "ro": "Belvederea Raf Vallone",
+            "en": "Affaccio Raf Vallone"
+          },
+          "coords": [
+            15.896,
+            38.679
+          ],
+          "category": "natural features",
+          "arrive_at": "11:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt für alle Besucher.",
+            "hu": "Központi találkozóhely minden látogatónak.",
+            "ro": "Punct central de întâlnire pentru vizitatori.",
+            "en": "Central meeting point for all visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia della Rotonda",
+            "hu": "Rotonda strand",
+            "ro": "Plaja Rotonda",
+            "en": "Spiaggia della Rotonda"
+          },
+          "coords": [
+            15.8965,
+            38.6798
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Abstieg über die Treppen vom Zentrum aus.",
+            "hu": "Ereszkedjen le a lépcsőkön a központból.",
+            "ro": "Coborâți treptele din centrul orașului.",
+            "en": "Descend via the stairs from the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria dell'Isola",
+            "hu": "Santa Maria dell'Isola",
+            "ro": "Santa Maria dell'Isola",
+            "en": "Santa Maria dell'Isola"
+          },
+          "coords": [
+            15.8955,
+            38.6795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie die Rückfahrzeiten des Shuttles zum Bahnhof.",
+            "hu": "Ellenőrizze az állomásra menő busz menetrendjét.",
+            "ro": "Verificați orarul microbuzului către gară.",
+            "en": "Check the shuttle bus schedule back to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Kommen Sie entspannt mit dem Zug am Bahnhof Tropea an und nutzen Sie den Shuttlebus zum Corso Vittorio Emanuele. Erkunden Sie die Altstadt zu Fuß, besuchen Sie die Kathedrale und genießen Sie die Aussicht vom Affaccio. Nach einem langen Strandnachmittag bildet die Santa Maria dell'Isola den krönenden Abschluss, bevor Sie den Bus zurück zum Bahnhof nehmen.",
+        "hu": "Érkezzen kényelmesen vonattal a tropeai állomásra, majd használja az ingajáratot a Corso Vittorio Manueléhez. Fedezze fel gyalog az óvárost, látogassa meg a székesegyházat és élvezze a kilátást az Affaccióról. Egy hosszú délutáni strandolás után a Santa Maria dell'Isola lesz a tökéletes zárás, mielőtt busszal visszatérne az állomásra.",
+        "ro": "Sosiți relaxat cu trenul în gara Tropea și folosiți microbuzul către Corso Vittorio Emanuele. Explorați centrul vechi la pas, vizitați catedrala și admirați vederea de la Affaccio. După o după-amiază lungă la plajă, Santa Maria dell'Isola este finalul perfect înainte de a lua autobuzul înapoi la gară.",
+        "en": "Arrive relaxed by train at Tropea station and take the shuttle bus to Corso Vittorio Emanuele. Explore the old town on foot, visit the Cathedral, and enjoy the views from Affaccio. After a long afternoon at the beach, Santa Maria dell'Isola is the perfect finale before taking the bus back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Paninoteca Da Gigi",
+            "tip": "Schnelle und leckere Sandwiches mit lokalen Produkten."
+          },
+          {
+            "name": "Alice Pizza",
+            "tip": "Gute Pizza auf die Hand in der Nähe des Corso."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paninoteca Da Gigi",
+            "tip": "Gyors és finom szendvicsek helyi alapanyagokból."
+          },
+          {
+            "name": "Alice Pizza",
+            "tip": "Jó minőségű szeletelt pizza a Corso közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paninoteca Da Gigi",
+            "tip": "Sandvișuri rapide și gustoase cu produse locale."
+          },
+          {
+            "name": "Alice Pizza",
+            "tip": "Pizza la felie bună lângă Corso."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paninoteca Da Gigi",
+            "tip": "Fast and delicious sandwiches with local products."
+          },
+          {
+            "name": "Alice Pizza",
+            "tip": "Quality pizza by the slice near the main Corso."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bahnhofsterrasse",
+            "tip": "Blick über die Dächer beim Warten auf den Zug.",
+            "emoji": "🚉"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomás terasza",
+            "tip": "Kilátás a háztetőkre a vonatra várva.",
+            "emoji": "🚉"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terasa gării",
+            "tip": "Vedere peste acoperișuri în timp ce așteptați trenul.",
+            "emoji": "🚉"
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Terrace",
+            "tip": "Views over the rooftops while waiting for your train.",
+            "emoji": "🚉"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofskiosk",
+            "tip": "Zeitungen und kleine Snacks."
+          },
+          {
+            "name": "Altstadtgassen",
+            "tip": "Überall kleine Läden mit lokalen Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási újságos",
+            "tip": "Újságok és apró harapnivalók."
+          },
+          {
+            "name": "Óvárosi utcák",
+            "tip": "Mindenhol kis boltok helyi finomságokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul din gară",
+            "tip": "Ziare și gustări mici."
+          },
+          {
+            "name": "Străduțele centrului vechi",
+            "tip": "Peste tot mici magazine cu specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Kiosk",
+            "tip": "Newspapers and quick snacks."
+          },
+          {
+            "name": "Old Town Alleys",
+            "tip": "Small shops everywhere with local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Shuttlebusse verkehren regelmäßig zwischen Bahnhof und Zentrum.",
+          "Kaufen Sie Zugtickets online, um Warteschlangen am Bahnhof zu vermeiden.",
+          "Der Fußweg vom Bahnhof ins Zentrum dauert etwa 15 Minuten bergab.",
+          "Achten Sie auf die Fahrpläne der Regionalzüge 'Trenitalia'."
+        ],
+        "hu": [
+          "Az ingajáratok rendszeresen közlekednek az állomás és a központ között.",
+          "Vegye meg a vonatjegyet online, hogy elkerülje a sorban állást.",
+          "Gyalog az állomástól a központ kb. 15 perc lejtmenetben.",
+          "Figyeljen a 'Trenitalia' regionális vonatainak menetrendjére."
+        ],
+        "ro": [
+          "Microbuzele circulă regulat între gară și centru.",
+          "Cumpărați biletele de tren online pentru a evita cozile la gară.",
+          "Mersul pe jos de la gară în centru durează cam 15 minute la vale.",
+          "Fiți atenți la orarul trenurilor regionale 'Trenitalia'."
+        ],
+        "en": [
+          "Shuttle buses run regularly between the station and the center.",
+          "Buy train tickets online to avoid queues at the station.",
+          "Walking from the station to the center takes about 15 mins downhill.",
+          "Keep an eye on the 'Trenitalia' regional train schedules."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-78",
+    "coords": [
+      15.8967,
+      38.6772
+    ],
+    "transit_official": "https://www.ferroviedellacalabria.it/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Calabria-1843",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.prolocotropea.eu/",
+    "tourism_office": "https://www.turiscalabria.it/",
+    "webcam": "https://www.skylinewebcams.com/it/webcam/italia/calabria/vibo-valentia/tropea.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/tropea-c562056",
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Kalabrischer Dialekt im Alltag, aber Italienisch wird ueberall verstanden.",
+      "hu": "A helyiek kalabriai dialektusban beszelnek, de olaszul mindenki ert.",
+      "ro": "Localnicii vorbesc dialect calabrez, dar toata lumea intelege italiana.",
+      "en": "Locals speak Calabrian dialect but standard Italian is universally understood."
+    },
+    "best_time_to_visit": {
+      "de": "Juni und September fuer Strand ohne Massen; August Hochsaison.",
+      "hu": "Junius es szeptember a strandhoz tomeg nelkul; augusztus a foszezon.",
+      "ro": "Iunie si septembrie pentru plaja fara aglomeratie; august e varful sezonului.",
+      "en": "June and September for beaches without crowds; August is peak season."
+    },
+    "neighborhood_warnings": {
+      "de": "Stadtkern auf Klippe, Strand ueber lange Treppen; Sommer-Parkplaetze knapp.",
+      "hu": "A sziklan ulo varosbol hosszu lepcson juthatsz a partra; nyaron keves parkolo.",
+      "ro": "Centrul e pe stanca, accesul la plaja e prin scari lungi; vara parcari putine.",
+      "en": "Town sits on cliff, beach reached via long stairs; summer parking scarce."
+    }
+  }
+}

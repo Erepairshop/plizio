@@ -1,0 +1,1109 @@
+{
+  "city_id": "riomaggiore",
+  "anchor": {
+    "name": "Riomaggiore",
+    "coords": [
+      9.7374,
+      44.0992
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Marina di Riomaggiore",
+          "coords": [
+            9.7382,
+            44.0987
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Frühmorgens für das beste Licht zum Fotografieren kommen.",
+            "hu": "Kora reggel érdemes jönni a legjobb fotós fények miatt.",
+            "ro": "Veniți dimineața devreme pentru cea mai bună lumină de fotografiat.",
+            "en": "Come early in the morning for the best photography light."
+          }
+        },
+        {
+          "name": "Via Colombo",
+          "coords": [
+            9.7391,
+            44.0995
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Probieren Sie hier eine Tüte mit frittierten Meeresfrüchten.",
+            "hu": "Kóstoljon meg egy tölcsérnyi sült tengeri gyümölcsöt.",
+            "ro": "Încercați un cornet cu fructe de mare prăjite aici.",
+            "en": "Try a cone of fried seafood from one of the local shops."
+          }
+        },
+        {
+          "name": "Chiesa di San Giovanni Battista",
+          "coords": [
+            9.7398,
+            44.1012
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Achten Sie auf die gotischen Fenster der Fassade.",
+            "hu": "Figyelje meg a homlokzat gótikus ablakait.",
+            "ro": "Observați ferestrele gotice de pe fațadă.",
+            "en": "Notice the beautiful Gothic windows on the facade."
+          }
+        },
+        {
+          "name": "Castello di Riomaggiore",
+          "coords": [
+            9.7388,
+            44.1018
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Die Terrasse bietet einen der besten Ausblicke auf das Meer.",
+            "hu": "A teraszról nyílik az egyik legszebb kilátás a tengerre.",
+            "ro": "Terasa oferă una dintre cele mai bune priveliști spre mare.",
+            "en": "The terrace offers one of the best panoramic sea views."
+          }
+        },
+        {
+          "name": "Oratorio dei Disciplinati",
+          "coords": [
+            9.7375,
+            44.1005
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Ein ruhiger Ort, perfekt für eine kurze Besinnung.",
+            "hu": "Csendes hely, tökéletes egy rövid elmélyüléshez.",
+            "ro": "Un loc liniștit, perfect pentru o scurtă reflecție.",
+            "en": "A peaceful spot, perfect for a brief moment of reflection."
+          }
+        },
+        {
+          "name": "Via dell'Amore",
+          "coords": [
+            9.7345,
+            44.1025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Prüfen Sie vorab, ob der Weg wegen Wartungsarbeiten offen ist.",
+            "hu": "Ellenőrizze előre, hogy az út nyitva van-e karbantartás miatt.",
+            "ro": "Verificați din timp dacă drumul este deschis.",
+            "en": "Check in advance if the path is open, as it often has maintenance."
+          }
+        },
+        {
+          "name": "Felsstrand von Riomaggiore",
+          "coords": [
+            9.7395,
+            44.0975
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.9,
+          "tip_4lang": {
+            "de": "Bringen Sie Wasserschuhe mit, da der Strand sehr steinig ist.",
+            "hu": "Vigyen vízi cipőt, mert a part nagyon köves.",
+            "ro": "Aduceți încălțăminte de apă, plaja este foarte pietroasă.",
+            "en": "Bring water shoes as the beach is very rocky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im malerischen Hafen, wo die Farben der Häuser im klaren Wasser leuchten. Schlendern Sie die Via Colombo hinauf, das pulsierende Herz des Dorfes, und besuchen Sie die beeindruckende Johanneskirche. Nach einem Aufstieg zur Burg für spektakuläre Ausblicke führt Sie der Weg zur Via dell'Amore. Beenden Sie den Tag entspannt am kristallblauen Wasser des Felsstrandes.",
+        "hu": "Kezdje a napot a festői kikötőben, ahol a színes házak tükröződnek a tiszta vízben. Sétáljon végig a Via Colombón, a falu lüktető szívén, és látogasson el a Keresztelő Szent János-templomba. A várba való feljutás után élvezze a panorámát, majd induljon el a Szerelem útján. Zárja a napot a sziklás strand kristálykék vizénél pihenve.",
+        "ro": "Începeți ziua în portul pitoresc, unde culorile caselor strălucesc în apa limpede. Plimbați-vă pe Via Colombo, inima satului, și vizitați biserica Sfântul Ioan Botezătorul. După urcarea la castel pentru vederi spectaculoase, drumul vă poartă spre Via dell'Amore. Încheiați ziua relaxându-vă lângă apa de cristal a plajei stâncoase.",
+        "en": "Start your day in the picturesque marina, where the colorful houses reflect in the clear water. Stroll up Via Colombo, the village's vibrant heart, and visit the impressive San Giovanni Battista church. After climbing to the castle for spectacular views, head towards Via dell'Amore. End your day relaxing by the crystal-blue waters of the rocky beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Focaccia ligure",
+            "tip": "Probieren Sie sie mit lokalem Pesto bei Il Pescato Cucinato."
+          },
+          {
+            "name": "Tegame di Vernazza",
+            "tip": "Sardellenauflauf, oft im Da Aristide serviert."
+          },
+          {
+            "name": "Sciacchetrà",
+            "tip": "Der berühmte lokale Dessertwein der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Liguriai focaccia",
+            "tip": "Kóstolja meg helyi pestóval az Il Pescato Cucinatóban."
+          },
+          {
+            "name": "Tegame di Vernazza",
+            "tip": "Szardellás rakottas, gyakran kapható a Da Aristide étteremben."
+          },
+          {
+            "name": "Sciacchetrà",
+            "tip": "A régió híres, helyi édes desszertbora."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Focaccia ligură",
+            "tip": "Încercați-o cu pesto local la Il Pescato Cucinato."
+          },
+          {
+            "name": "Tegame di Vernazza",
+            "tip": "Un fel de mâncare cu anșoa, servit des la Da Aristide."
+          },
+          {
+            "name": "Sciacchetrà",
+            "tip": "Celebrul vin dulce local de desert al regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ligurian Focaccia",
+            "tip": "Try it with local pesto at Il Pescato Cucinato."
+          },
+          {
+            "name": "Tegame di Vernazza",
+            "tip": "Anchoovy casserole, often served at Da Aristide."
+          },
+          {
+            "name": "Sciacchetrà",
+            "tip": "The famous local sweet dessert wine of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Batteria San Francesco",
+            "tip": "Ruhiger Platz hinter der Kirche mit Meerblick.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Strand von Fossola",
+            "tip": "Weniger besucht, ideal zum Abschalten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santuario di Montenero",
+            "tip": "Friedlicher Rückzugsort hoch über dem Dorf.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Batteria San Francesco",
+            "tip": "Csendes tér a templom mögött, kilátással a tengerre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fossola strand",
+            "tip": "Kevésbé látogatott, ideális a kikapcsolódáshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santuario di Montenero",
+            "tip": "Békés menedék magasan a falu felett.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Batteria San Francesco",
+            "tip": "Piațetă liniștită în spatele bisericii cu vedere la mare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaja Fossola",
+            "tip": "Mai puțin frecventată, ideală pentru deconectare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santuario di Montenero",
+            "tip": "Refugiu pașnic sus deasupra satului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Batteria San Francesco",
+            "tip": "Quiet square behind the church with sea views.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fossola Beach",
+            "tip": "Less crowded, ideal for switching off.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santuario di Montenero",
+            "tip": "Peaceful retreat high above the village.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bottega d'Arte",
+            "tip": "Handgefertigte Keramik und lokale Kunstwerke."
+          },
+          {
+            "name": "Cinque Terre Wine Shop",
+            "tip": "Lokale Weine und Olivenöl direkt aus den Weinbergen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bottega d'Arte",
+            "tip": "Kézműves kerámiák és helyi műalkotások."
+          },
+          {
+            "name": "Cinque Terre Wine Shop",
+            "tip": "Helyi borok és olívaolaj közvetlenül a szőlőültetvényekről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bottega d'Arte",
+            "tip": "Ceramică lucrată manual și opere de artă locale."
+          },
+          {
+            "name": "Cinque Terre Wine Shop",
+            "tip": "Vinuri locale și ulei de măsline direct din podgorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bottega d'Arte",
+            "tip": "Handmade ceramics and local artworks."
+          },
+          {
+            "name": "Cinque Terre Wine Shop",
+            "tip": "Local wines and olive oil directly from the vineyards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe für die steilen Gassen.",
+          "Kaufen Sie die Cinque Terre Card für die Wege und Züge.",
+          "Achten Sie auf die Zugfahrzeiten am Abend.",
+          "Trinken Sie viel Wasser bei den Wanderungen im Sommer.",
+          "Besuchen Sie den Hafen zum Sonnenuntergang."
+        ],
+        "hu": [
+          "Viseljen kényelmes túracipőt a meredek utcákhoz.",
+          "Vásároljon Cinque Terre kártyát az utakra és vonatokra.",
+          "Figyeljen az esti vonatmenetrendre.",
+          "Igyon sok vizet a nyári túrák során.",
+          "Látogasson el a kikötőbe naplementekor."
+        ],
+        "ro": [
+          "Purtați încălțăminte de drumeție confortabilă pentru străzile abrupte.",
+          "Cumpărați Cardul Cinque Terre pentru trasee și trenuri.",
+          "Fiți atenți la orarul trenurilor de seară.",
+          "Beți multă apă în timpul drumețiilor de vară.",
+          "Vizitați portul la apus."
+        ],
+        "en": [
+          "Wear comfortable hiking shoes for the steep alleys.",
+          "Buy the Cinque Terre Card for access to paths and trains.",
+          "Pay attention to the train schedule in the evening.",
+          "Drink plenty of water during summer hikes.",
+          "Visit the marina at sunset for the best views."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Via Colombo",
+          "coords": [
+            9.7391,
+            44.0995
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Starten Sie früh, um die Menschenmassen im Dorf zu umgehen.",
+            "hu": "Kezdjen korán, hogy elkerülje a tömeget a faluban.",
+            "ro": "Începeți devreme pentru a evita aglomerația din sat.",
+            "en": "Start early to avoid the crowds in the main village street."
+          }
+        },
+        {
+          "name": "Torre Guardiola",
+          "coords": [
+            9.742,
+            44.0965
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Der Weg hierher ist anstrengend, aber die Aussicht lohnt sich.",
+            "hu": "Az idevezető út fárasztó, de a kilátás megéri.",
+            "ro": "Drumul până aici este obositor, dar vederea merită.",
+            "en": "The path here is strenuous, but the view is worth it."
+          }
+        },
+        {
+          "name": "Santuario di Montenero",
+          "coords": [
+            9.7485,
+            44.1062
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Ein E-Bike ist für diesen steilen Anstieg sehr empfehlenswert.",
+            "hu": "E-bike erősen ajánlott ehhez a meredek emelkedőhöz.",
+            "ro": "O bicicletă electrică este recomandată pentru această urcare abruptă.",
+            "en": "An e-bike is highly recommended for this steep ascent."
+          }
+        },
+        {
+          "name": "Panoramastraße Litoranea",
+          "coords": [
+            9.755,
+            44.11
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_4lang": {
+            "de": "Genießen Sie die Fahrt entlang der Weinterrassen.",
+            "hu": "Élvezze a tekerést a szőlőteraszok mentén.",
+            "ro": "Bucurați-vă de plimbarea de-a lungul teraselor de viță de vie.",
+            "en": "Enjoy the ride along the scenic vineyard terraces."
+          }
+        },
+        {
+          "name": "Marina di Riomaggiore",
+          "coords": [
+            9.7382,
+            44.0987
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.8,
+          "tip_4lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie zum Hafen hinuntergehen.",
+            "hu": "Zárja le biztonságosan a biciklit, mielőtt lemegy a kikötőbe.",
+            "ro": "Parcați bicicleta în siguranță înainte de a coborî în port.",
+            "en": "Secure your bike safely before walking down to the marina."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour führt Sie aus den engen Gassen hinauf auf die Panoramastraßen über Riomaggiore. Starten Sie im Zentrum und fordern Sie sich mit dem Aufstieg zum Santuario di Montenero heraus, von wo aus Sie die gesamte Küste überblicken können. Die Abfahrt entlang der Weinterrassen bietet unvergessliche Fotomotive, bevor Sie zur Entspannung wieder im Hafen ankommen.",
+        "hu": "Ez a túra kivezeti Önt a szűk utcákról a Riomaggiore feletti panorámautakra. Kezdjen a központban, és próbálja ki magát a Montenero kegyhelyhez vezető emelkedőn, ahonnan az egész partvonalat belátni. A szőlőteraszok menti lejtő felejthetetlen fotótémákat kínál, mielőtt visszatérne pihenni a kikötőbe.",
+        "ro": "Acest tur vă scoate de pe străzile înguste pe drumurile panoramice de deasupra satului Riomaggiore. Începeți în centru și provocați-vă cu urcarea la Sanctuarul Montenero, de unde puteți vedea întreaga coastă. Coborârea de-a lungul teraselor de viță de vie oferă oportunități foto de neuitat înainte de a reveni în port.",
+        "en": "This tour takes you out of the narrow alleys onto the panoramic roads above Riomaggiore. Start in the center and challenge yourself with the climb to the Sanctuary of Montenero, overlooking the entire coastline. The descent along the vineyard terraces offers unforgettable photo opportunities before arriving back at the marina for a rest."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pesto-Focaccia",
+            "tip": "Perfekter Snack für unterwegs."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Besuchen Sie eine Cantina an der Litoranea."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pestós focaccia",
+            "tip": "Tökéletes falat útközben."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Látogasson el egy pincészethez a Litoranea úton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Focaccia cu pesto",
+            "tip": "Gustarea perfectă pentru drum."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Vizitați o cramă pe drumul Litoranea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pesto Focaccia",
+            "tip": "Perfect snack for the road."
+          },
+          {
+            "name": "Local wine",
+            "tip": "Visit a winery along the Litoranea road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Montenero",
+            "tip": "Friedliche Stille über dem Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Montenero kilátó",
+            "tip": "Békés csend a tenger felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Montenero",
+            "tip": "Liniște deplină deasupra mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Montenero viewpoint",
+            "tip": "Peaceful silence above the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinbauern-Kooperative",
+            "tip": "Honig und Wein aus eigenem Anbau."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borászati szövetkezet",
+            "tip": "Helyi méz és saját termesztésű bor."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cooperativa agricolă",
+            "tip": "Miere și vin din producție proprie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agricultural Cooperative",
+            "tip": "Local honey and wine from their own fields."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie unbedingt ein E-Bike.",
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt.",
+          "Bleiben Sie auf den markierten Wegen.",
+          "Nehmen Sie eine Karte der Wanderwege mit.",
+          "Vermeiden Sie die Mittagshitze."
+        ],
+        "hu": [
+          "Mindenképpen béreljen e-bike-ot.",
+          "Ellenőrizze a fékeket az indulás előtt.",
+          "Maradjon a kijelölt utakon.",
+          "Vigyen magával térképet az utakról.",
+          "Kerülje a déli hőséget."
+        ],
+        "ro": [
+          "Închiriați neapărat o bicicletă electrică.",
+          "Verificați frânele înainte de plecare.",
+          "Rămâneți pe traseele marcate.",
+          "Luați o hartă a potecilor.",
+          "Evitați căldura de la amiază."
+        ],
+        "en": [
+          "Be sure to rent an e-bike.",
+          "Check your brakes before the descent.",
+          "Stay on the marked paths.",
+          "Take a map of the hiking trails.",
+          "Avoid the midday heat."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Parkhaus Riomaggiore",
+          "coords": [
+            9.7425,
+            44.1022
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Reservieren Sie Ihren Parkplatz im Voraus, wenn möglich.",
+            "hu": "Foglaljon parkolóhelyet előre, ha lehetséges.",
+            "ro": "Rezervați locul de parcare în avans, dacă este posibil.",
+            "en": "Reserve your parking spot in advance if possible."
+          }
+        },
+        {
+          "name": "Castello di Riomaggiore",
+          "coords": [
+            9.7388,
+            44.1018
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Vom Parkplatz aus ist die Burg leicht zu Fuß erreichbar.",
+            "hu": "A parkolótól a vár könnyen elérhető gyalog.",
+            "ro": "De la parcare, castelul este ușor accesibil pe jos.",
+            "en": "The castle is easily reachable on foot from the parking area."
+          }
+        },
+        {
+          "name": "Santuario di Montenero",
+          "coords": [
+            9.7485,
+            44.1062
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_4lang": {
+            "de": "Die schmale Straße erfordert volle Konzentration.",
+            "hu": "A szűk út teljes koncentrációt igényel.",
+            "ro": "Drumul îngust necesită concentrare maximă.",
+            "en": "The narrow road requires full concentration while driving."
+          }
+        },
+        {
+          "name": "Groppo (Weindorf)",
+          "coords": [
+            9.745,
+            44.112
+          ],
+          "category": "agriculture",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_4lang": {
+            "de": "Besuchen Sie die Winzergenossenschaft für Weinproben.",
+            "hu": "Látogasson el a borászati szövetkezethez kóstolóra.",
+            "ro": "Vizitați cooperativa vinicolă pentru degustări.",
+            "en": "Visit the winery cooperative for a tasting session."
+          }
+        },
+        {
+          "name": "Via Colombo & Marina",
+          "coords": [
+            9.7382,
+            44.0987
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_4lang": {
+            "de": "Lassen Sie das Auto stehen und erkunden Sie das Unterdorf.",
+            "hu": "Hagyja az autót, és fedezze fel az alsó falut gyalog.",
+            "ro": "Lăsați mașina și explorați partea de jos a satului.",
+            "en": "Leave the car and explore the lower village on foot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie nicht nur Riomaggiore, sondern auch die umliegenden Weindörfer wie Groppo. Nach dem Parken am Dorfeingang besuchen Sie die Burg und fahren dann hinauf zum Santuario di Montenero für die beste Aussicht. Eine Weinprobe im Hinterland rundet den Tag ab, bevor Sie am Nachmittag die Atmosphäre im Hafen genießen.",
+        "hu": "Autóval nemcsak Riomaggiore-t, hanem a környező bortermelő falvakat is felfedezheti, mint például Groppo. A falu szélén való parkolás után látogassa meg a várat, majd hajtson fel a Montenero kegyhelyhez a legjobb kilátásért. Egy borkóstoló a hátországban teszi teljessé a napot, mielőtt délután élvezné a kikötői hangulatot.",
+        "ro": "Cu mașina explorați nu doar Riomaggiore, ci și satele viticole din jur, cum ar fi Groppo. După parcarea la intrarea în sat, vizitați castelul și apoi urcați la Sanctuarul Montenero pentru cea mai bună priveliște. O degustare de vinuri în hinterland completează ziua înainte de a vă bucura de atmosfera din port.",
+        "en": "By car, you can explore not only Riomaggiore but also the surrounding wine villages like Groppo. After parking at the village entrance, visit the castle and drive up to the Sanctuary of Montenero for the best views. A wine tasting in the hinterland completes the day before enjoying the marina atmosphere in the afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Aperitivo in Groppo",
+            "tip": "Lokaler Wein mit Oliven und Käse."
+          },
+          {
+            "name": "Acciughe salate",
+            "tip": "Eingesalzene Sardellen, eine Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aperitivo Groppóban",
+            "tip": "Helyi bor olajbogyóval és sajttal."
+          },
+          {
+            "name": "Acciughe salate",
+            "tip": "Sózott szardella, helyi különlegesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aperitivo în Groppo",
+            "tip": "Vin local cu măsline și brânză."
+          },
+          {
+            "name": "Acciughe salate",
+            "tip": "Anșoa sărate, o specialitate locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aperitivo in Groppo",
+            "tip": "Local wine with olives and cheese."
+          },
+          {
+            "name": "Acciughe salate",
+            "tip": "Salted anchovies, a local specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinberge von Groppo",
+            "tip": "Spaziergang durch die Reben.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Groppo szőlőültetvényei",
+            "tip": "Séta a tőkék között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podgoriile din Groppo",
+            "tip": "Plimbare printre vii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vineyards of Groppo",
+            "tip": "A stroll through the vines.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cantina Cooperativa",
+            "tip": "Direktverkauf von Wein und Grappa."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cantina Cooperativa",
+            "tip": "Bor és grappa közvetlen árusítása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cantina Cooperativa",
+            "tip": "Vânzare directă de vin și grappa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cantina Cooperativa",
+            "tip": "Direct sale of local wine and grappa."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken ist extrem teuer und begrenzt.",
+          "Die Straßen sind sehr kurvig und schmal.",
+          "Fahren Sie vorsichtig bei Gegenverkehr.",
+          "Nutzen Sie den Shuttle-Bus ins Zentrum.",
+          "Bringen Sie Kleingeld für Parkautomaten mit."
+        ],
+        "hu": [
+          "A parkolás rendkívül drága és korlátozott.",
+          "Az utak nagyon kanyargósak és szűkek.",
+          "Vezessen óvatosan szembejövő forgalom esetén.",
+          "Használja a transzferbuszt a központba.",
+          "Vigyen aprópénzt a parkolóautomatákhoz."
+        ],
+        "ro": [
+          "Parcarea este extrem de scumpă și limitată.",
+          "Drumurile sunt foarte sinuoase și înguste.",
+          "Conduceți cu atenție la traficul din sens opus.",
+          "Folosiți autobuzul shuttle către centru.",
+          "Aduceți mărunțiș pentru aparatele de parcare."
+        ],
+        "en": [
+          "Parking is extremely expensive and limited.",
+          "The roads are very winding and narrow.",
+          "Drive carefully when encountering oncoming traffic.",
+          "Use the shuttle bus to reach the center.",
+          "Bring small change for parking meters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Bahnhof Riomaggiore",
+          "coords": [
+            9.7365,
+            44.1015
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Nutzen Sie den Tunnel, um ins Dorfzentrum zu gelangen.",
+            "hu": "Használja az alagutat a falu központjába jutáshoz.",
+            "ro": "Folosiți tunelul pentru a ajunge în centrul satului.",
+            "en": "Use the tunnel to reach the village center."
+          }
+        },
+        {
+          "name": "Marina di Riomaggiore",
+          "coords": [
+            9.7382,
+            44.0987
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Vom Boot aus ist der Blick auf das Dorf am schönsten.",
+            "hu": "A hajóról a legszebb a kilátás a falura.",
+            "ro": "Vederea spre sat este cea mai frumoasă de pe barcă.",
+            "en": "The view of the village is most beautiful from a boat."
+          }
+        },
+        {
+          "name": "Via Colombo",
+          "coords": [
+            9.7391,
+            44.0995
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Hier halten die lokalen Elektrobusse.",
+            "hu": "Itt állnak meg a helyi elektromos buszok.",
+            "ro": "Aici opresc autobuzele electrice locale.",
+            "en": "The local electric buses stop here."
+          }
+        },
+        {
+          "name": "Santuario di Montenero",
+          "coords": [
+            9.7485,
+            44.1062
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Nehmen Sie den Shuttlebus vom Dorfzentrum hinauf.",
+            "hu": "Szálljon fel a faluközpontból induló transzferbuszra.",
+            "ro": "Luați autobuzul shuttle din centrul satului.",
+            "en": "Take the shuttle bus up from the village center."
+          }
+        },
+        {
+          "name": "Via dell'Amore",
+          "coords": [
+            9.7345,
+            44.1025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_4lang": {
+            "de": "Der Eingang liegt direkt beim Bahnhof.",
+            "hu": "A bejárat közvetlenül a vasútállomásnál van.",
+            "ro": "Intrarea este chiar lângă gară.",
+            "en": "The entrance is located right by the train station."
+          }
+        },
+        {
+          "name": "Felsstrand von Riomaggiore",
+          "coords": [
+            9.7395,
+            44.0975
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Nur einen kurzen Fußweg vom Fähranleger entfernt.",
+            "hu": "Csak rövid sétára a kompkikötőtől.",
+            "ro": "La doar o scurtă plimbare de debarcaderul feribotului.",
+            "en": "Only a short walk from the ferry landing point."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Transit ist der ideale Weg, um Riomaggiore stressfrei zu erleben. Mit dem Zug erreichen Sie das Dorfzentrum durch den berühmten Tunnel. Ein lokaler Shuttlebus bringt Sie hinauf zum Montenero-Heiligtum, während die Fähre spektakuläre Ausblicke vom Meer aus bietet. Entdecken Sie die Via dell'Amore und den Felsstrand, bevor Sie bequem mit dem Zug die Heimreise antreten.",
+        "hu": "A tömegközlekedés a legjobb módja Riomaggiore stresszmentes felfedezésének. Vonattal a híres alagúton keresztül érheti el a központot. Helyi transzferbusz viszi fel a Montenero kegyhelyhez, a komp pedig látványos kilátást nyújt a tengerről. Fedezze fel a Szerelem útját és a sziklás strandot, mielőtt kényelmesen visszavonatozna.",
+        "ro": "Transportul public este calea ideală pentru a experimenta Riomaggiore fără stres. Cu trenul ajungeți în centrul satului prin celebrul tunel. Un autobuz local vă duce sus la Sanctuarul Montenero, în timp ce feribotul oferă vederi spectaculoase de pe mare. Descoperiți Via dell'Amore și plaja stâncoasă înainte de a pleca confortabil cu trenul.",
+        "en": "Transit is the ideal way to experience Riomaggiore stress-free. By train, you reach the center through the famous tunnel. A local shuttle bus takes you up to the Montenero Sanctuary, while the ferry offers spectacular views from the sea. Explore Via dell'Amore and the rocky beach before catching a convenient train back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frittierter Fisch",
+            "tip": "In der Tüte genießen, ideal am Hafen."
+          },
+          {
+            "name": "Limoncino",
+            "tip": "Lokaler Zitronenlikör der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült hal",
+            "tip": "Tölcsérben kérje, ideális a kikötőben."
+          },
+          {
+            "name": "Limoncino",
+            "tip": "A régió helyi citromlikőrje."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește prăjit",
+            "tip": "Savurați-l la cornet, ideal în port."
+          },
+          {
+            "name": "Limoncino",
+            "tip": "Lichior local de lămâie din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fried fish",
+            "tip": "Enjoy it in a cone, perfect for the marina."
+          },
+          {
+            "name": "Limoncino",
+            "tip": "Local lemon liqueur of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Santuario di Montenero",
+            "tip": "Per Bus erreichbare Oase der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Santuario di Montenero",
+            "tip": "Busszal elérhető béke szigete.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Santuario di Montenero",
+            "tip": "Oază de liniște accesibilă cu autobuzul.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Santuario di Montenero",
+            "tip": "A peaceful oasis reachable by bus.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden am Bahnhof",
+            "tip": "Postkarten und kleine Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékboltok az állomásnál",
+            "tip": "Képeslapok és apró emlékgyűjtők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri la gară",
+            "tip": "Vederi și mici amintiri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops at the station",
+            "tip": "Postcards and small keepsakes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Validieren Sie Ihr Zugticket vor der Fahrt.",
+          "Die Fähre fährt nicht bei starkem Wellengang.",
+          "Der Shuttlebus hat einen begrenzten Fahrplan.",
+          "Nutzen Sie die App für Echtzeit-Zugzeiten.",
+          "Kaufen Sie Tickets am Automaten."
+        ],
+        "hu": [
+          "Érvényesítse a vonatjegyet utazás előtt.",
+          "A komp nem közlekedik erős hullámzás esetén.",
+          "A transzferbusznak korlátozott a menetrendje.",
+          "Használja az alkalmazást a valós idejű vonatokhoz.",
+          "Vegyen jegyet az automatából."
+        ],
+        "ro": [
+          "Validați biletul de tren înainte de călătorie.",
+          "Feribotul nu circulă în caz de valuri mari.",
+          "Autobuzul shuttle are un program limitat.",
+          "Folosiți aplicația pentru mersul trenurilor.",
+          "Cumpărați bilete de la automat."
+        ],
+        "en": [
+          "Validate your train ticket before the journey.",
+          "The ferry does not run in rough seas.",
+          "The shuttle bus has a limited schedule.",
+          "Use the app for real-time train updates.",
+          "Buy tickets at the station machines."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-42",
+    "coords": [
+      9.7374,
+      44.0992
+    ],
+    "transit_official": "https://www.trenitalia.com",
+    "transit_app": "https://www.trenitalia.com",
+    "bike_share": null,
+    "city_card": "https://card.parconazionale5terre.it",
+    "events": "https://www.parconazionale5terre.it",
+    "tourism_office": "https://www.cinqueterre.eu.com",
+    "webcam": "https://www.skylinewebcams.com/webcam/italia/liguria/la-spezia/riomaggiore.html",
+    "restaurants_booking": "https://www.thefork.it",
+    "museum_tickets": "https://card.parconazionale5terre.it",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch; Englisch breit verfügbar, Deutsch in vielen Restaurants.",
+      "hu": "Olasz; angol általános, német sok étteremben.",
+      "ro": "Italiană; engleză răspândită, germană în multe restaurante.",
+      "en": "Italian; English widely available, German in many restaurants."
+    },
+    "best_time": {
+      "de": "April-Juni, September-Oktober: Sonnenuntergang, Via dell'Amore.",
+      "hu": "Április-június, szeptember-október: naplemente, Via dell'Amore.",
+      "ro": "Aprilie-iunie, septembrie-octombrie: apus, Via dell'Amore.",
+      "en": "April-June, September-October: sunset, Via dell'Amore."
+    },
+    "warnings": {
+      "de": "Auto im Dorf nicht erlaubt, Parkplatz oben, Wanderwege bei Regen gesperrt.",
+      "hu": "Autó nem mehet a faluba, parkoló fent, túraútvonalak esőben zárva.",
+      "ro": "Mașinile interzise în sat, parcare sus, trasee închise pe ploaie.",
+      "en": "No cars in village, parking above, trails close during rain."
+    }
+  }
+}

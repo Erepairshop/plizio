@@ -1,0 +1,1147 @@
+{
+  "city_id": "pisa",
+  "anchor": {
+    "name": "Piazza dei Miracoli",
+    "coords": [
+      10.3966,
+      43.723
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Murales Tuttomondo",
+            "hu": "Tuttomondo falfestmény",
+            "ro": "Pictura Murală Tuttomondo",
+            "en": "Tuttomondo Mural"
+          },
+          "coords": [
+            10.3995,
+            43.7118
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Keith Harings letztes öffentliches Werk, direkt am Bahnhof.",
+            "hu": "Keith Haring utolsó nyilvános műve, közel a pályaudvarhoz.",
+            "ro": "Ultima lucrare publică a lui Keith Haring, lângă gară.",
+            "en": "Keith Haring's last public work, located near the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza dei Cavalieri",
+            "hu": "Piazza dei Cavalieri",
+            "ro": "Piața Cavalerilor",
+            "en": "Knights' Square"
+          },
+          "coords": [
+            10.4,
+            43.7193
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Palast der Karawane, den Sitz der Elite-Uni.",
+            "hu": "Nézze meg a Karaván-palotát, az elit egyetem székhelyét.",
+            "ro": "Vizitați Palazzo della Carovana, sediul universității de elită.",
+            "en": "Visit the Palazzo della Carovana, the seat of the elite university."
+          }
+        },
+        {
+          "name": {
+            "de": "Battistero di San Giovanni",
+            "hu": "Szent János-keresztelőkápolna",
+            "ro": "Baptisteriul",
+            "en": "Baptistery of St. John"
+          },
+          "coords": [
+            10.3942,
+            43.7233
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Akustik-Vorführungen alle 30 Minuten.",
+            "hu": "Figyelje az akusztikai bemutatót 30 percenként.",
+            "ro": "Ascultați demonstrațiile de acustică la fiecare 30 de minute.",
+            "en": "Watch for the acoustic demonstrations every 30 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di Pisa",
+            "hu": "Pisai dóm",
+            "ro": "Catedrala din Pisa",
+            "en": "Pisa Cathedral"
+          },
+          "coords": [
+            10.3956,
+            43.7233
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Fassade ist ein Meisterwerk der Pisaner Romanik.",
+            "hu": "A homlokzat a pisai román stílus mesterműve.",
+            "ro": "Fațada este o capodoperă a stilului romanic pisan.",
+            "en": "The facade is a masterpiece of Pisan Romanesque style."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Pendente",
+            "hu": "Ferde torony",
+            "ro": "Turnul Înclinat",
+            "en": "Leaning Tower"
+          },
+          "coords": [
+            10.3966,
+            43.723
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tickets unbedingt im Voraus online buchen!",
+            "hu": "A jegyeket mindenképpen foglalja le előre online!",
+            "ro": "Rezervați biletele online în avans neapărat!",
+            "en": "Must book tickets online in advance!"
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Spina",
+            "hu": "Santa Maria della Spina",
+            "ro": "Biserica della Spina",
+            "en": "Church of the Spina"
+          },
+          "coords": [
+            10.3976,
+            43.7153
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kleine gotische Perle direkt am Ufer des Arno.",
+            "hu": "Apró gótikus ékszerdoboz közvetlenül az Arno partján.",
+            "ro": "O mică bijuterie gotică chiar pe malul râului Arno.",
+            "en": "A tiny Gothic gem right on the banks of the Arno."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit Keith Harings buntem Murales am Rande der Altstadt. Danach schlendern Sie zum Piazza dei Cavalieri, dem geistigen Zentrum der Stadt. Mittags erreichen Sie das Feld der Wunder, wo Sie das Baptisterium, den prächtigen Dom und natürlich den weltberühmten Schiefen Turm bestaunen. Den Nachmittag lassen Sie an der malerischen Chiesa della Spina am Arno-Ufer ausklingen.",
+        "hu": "A napot Keith Haring színes falfestményével kezdjük az óváros szélén, majd a lovagok terén át vágunk át a város szívén. Délben érkezünk a Csodák terére, ahol a Keresztelőkápolna, a Dóm és természetesen a világhírű Ferde Torony vár ránk. A délutánt az Arno-parti sétányon, a gótikus Spina templom megtekintésével zárjuk.",
+        "ro": "Ziua începe cu muralul colorat al lui Keith Haring la marginea centrului vechi. Apoi vă plimbați spre Piazza dei Cavalieri, centrul intelectual al orașului. La prânz ajungeți la Câmpul Miracolelor, unde veți admira Baptisteriul, catedrala magnifică și, bineînțeles, faimosul Turn Înclinat. Încheiați după-amiaza pe malul râului Arno, la pitoreasca biserică Chiesa della Spina.",
+        "en": "Your day starts with Keith Haring's colorful mural on the edge of the old town. Then, stroll to Piazza dei Cavalieri, the city's intellectual heart. By midday, reach the Field of Miracles to admire the Baptistery, the magnificent Cathedral, and of course, the world-famous Leaning Tower. End your afternoon by the Arno river at the picturesque Chiesa della Spina."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cecina",
+            "tip": "Kichererbsenfladen, probieren Sie ihn bei Pizzeria Il Montino."
+          },
+          {
+            "name": "Cantuccini",
+            "tip": "Mandelgebäck, perfekt zu einem Espresso."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cecina",
+            "tip": "Csicseriborsó lepény, kóstolja meg a Pizzeria Il Montino-ban."
+          },
+          {
+            "name": "Trippa alla pisana",
+            "tip": "Pisai pacal, egy helyi klasszikus."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cecina",
+            "tip": "Plăcintă de năut, încercați-o la Pizzeria Il Montino."
+          },
+          {
+            "name": "Torta co' bischeri",
+            "tip": "O tartă dulce locală cu orez și ciocolată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cecina",
+            "tip": "Chickpea pancake, try it at Pizzeria Il Montino."
+          },
+          {
+            "name": "Trippa alla pisana",
+            "tip": "Pisa-style tripe, a local traditional dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Orto Botanico",
+            "tip": "Ältester akademischer Garten der Welt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Giardino di Scotto",
+            "tip": "Ruhiger Park in einer alten Festung.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orto Botanico",
+            "tip": "A világ legrégebbi egyetemi füvészkertje.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lungarni",
+            "tip": "Séta az Arno-parton a naplementében.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Orto Botanico",
+            "tip": "Cea mai veche grădină academică din lume.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Giardino di Scotto",
+            "tip": "Parc liniștit într-o fostă fortăreață.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Orto Botanico",
+            "tip": "Oldest academic botanical garden in the world.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lungarni",
+            "tip": "A walk along the Arno river at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Borgo Stretto",
+            "tip": "Elegante Arkaden mit exklusiven Boutiquen."
+          },
+          {
+            "name": "Corso Italia",
+            "tip": "Die Haupteinkaufsstraße der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borgo Stretto",
+            "tip": "Elegáns árkádok exkluzív butikokkal."
+          },
+          {
+            "name": "Mercato delle Vettovaglie",
+            "tip": "Helyi élelmiszerpiac a város szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Borgo Stretto",
+            "tip": "Arcade elegante cu buticuri exclusive."
+          },
+          {
+            "name": "Corso Italia",
+            "tip": "Principala stradă comercială a orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Borgo Stretto",
+            "tip": "Elegant arcades with exclusive boutiques."
+          },
+          {
+            "name": "Mercato delle Vettovaglie",
+            "tip": "Local food market in the heart of the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster tückisch sein kann.",
+          "Meiden Sie die Restaurants direkt am Piazza dei Miracoli; gehen Sie lieber ein paar Gassen weiter.",
+          "Pisa ist sehr flach und perfekt zu Fuß zu erkunden.",
+          "Achten Sie auf Taschendiebe in der Nähe des Turms."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert a macskaköves utcák fárasztóak lehetnek.",
+          "Kerülje el a közvetlenül a Csodák terén lévő éttermeket; keressen helyet pár utcával arrébb.",
+          "Pisa teljesen sík, így gyalogosan is könnyen bejárható.",
+          "Vigyázzon az értékeire a ferde torony körüli tömegben."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă, străzile cu piatră cubică pot fi obositoare.",
+          "Evitați restaurantele direct din Piazza dei Miracoli; mergeți pe străzile lăturalnice.",
+          "Pisa este un oraș plat, ideal pentru a fi explorat la pas.",
+          "Aveți grijă la buzunare în zonele aglomerate de lângă Turn."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestone streets can be tiring.",
+          "Avoid restaurants directly on Piazza dei Miracoli; try the side streets for better food.",
+          "Pisa is flat and very easy to explore on foot.",
+          "Watch out for pickpockets in the crowded area around the Tower."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "14:45",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza dei Cavalieri",
+            "hu": "Piazza dei Cavalieri",
+            "ro": "Piața Cavalerilor",
+            "en": "Knights' Square"
+          },
+          "coords": [
+            10.4,
+            43.7193
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein erstes Foto ohne die Massen vom Turm.",
+            "hu": "Tökéletes hely az első fotókhoz a tömeg nélkül.",
+            "ro": "Locul perfect pentru primele fotografii fără mulțimea de la turn.",
+            "en": "Perfect spot for your first photos without the Tower crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Camposanto Monumentale",
+            "hu": "Camposanto Monumentale",
+            "ro": "Camposanto Monumentale",
+            "en": "Monumental Cemetery"
+          },
+          "coords": [
+            10.3948,
+            43.724
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wunderschöner Kreuzgang mit beeindruckenden Fresken.",
+            "hu": "Gyönyörű kerengő lenyűgöző freskókkal.",
+            "ro": "O mănăstire superbă cu fresce impresionante.",
+            "en": "Beautiful cloister with impressive frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Battistero",
+            "hu": "Keresztelőkápolna",
+            "ro": "Baptisteriul",
+            "en": "Baptistery"
+          },
+          "coords": [
+            10.3942,
+            43.7233
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das größte Baptisterium Italiens.",
+            "hu": "Olaszország legnagyobb keresztelőkápolnája.",
+            "ro": "Cel mai mare baptisteriu din Italia.",
+            "en": "The largest Baptistery in Italy."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di Pisa",
+            "hu": "Pisai dóm",
+            "ro": "Catedrala din Pisa",
+            "en": "Pisa Cathedral"
+          },
+          "coords": [
+            10.3956,
+            43.7233
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Kanzel von Giovanni Pisano.",
+            "hu": "Nézze meg Giovanni Pisano szószékét.",
+            "ro": "Vedeți amvonul lui Giovanni Pisano.",
+            "en": "See the pulpit by Giovanni Pisano."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Pendente",
+            "hu": "Ferde torony",
+            "ro": "Turnul Înclinat",
+            "en": "Leaning Tower"
+          },
+          "coords": [
+            10.3966,
+            43.723
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Vermeiden Sie das Radfahren direkt auf dem Platz.",
+            "hu": "A téren belül ne kerékpározzon, tolja a biciklit.",
+            "ro": "Nu pedalați direct în piață, mergeți pe lângă bicicletă.",
+            "en": "Don't cycle directly in the square; push your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Murales Tuttomondo",
+            "hu": "Tuttomondo falfestmény",
+            "ro": "Pictura Murală Tuttomondo",
+            "en": "Tuttomondo Mural"
+          },
+          "coords": [
+            10.3995,
+            43.7118
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein moderner Kontrast zur romanischen Architektur.",
+            "hu": "Modern kontraszt a román építészettel szemben.",
+            "ro": "Un contrast modern față de arhitectura romanică.",
+            "en": "A modern contrast to the Romanesque architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Orto Botanico",
+            "hu": "Füvészkert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            10.395,
+            43.721
+          ],
+          "category": "park",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad am Eingang.",
+            "hu": "Parkolja le a bringát a bejáratnál.",
+            "ro": "Parcați bicicleta la intrare.",
+            "en": "Park your bike at the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Pisa effizient und wie ein Einheimischer. Starten Sie am Piazza dei Cavalieri und radeln Sie dann zum Camposanto und dem gesamten Ensemble des Piazza dei Miracoli. Nach dem Dombesuch und dem Turmaufstieg führt Sie der Weg durch die gemütlichen Gassen zum farbenfrohen Keith Haring Murales. Zum Abschluss genießen Sie die Ruhe im Botanischen Garten.",
+        "hu": "Kerékpárral igazi helyiként fedezheti fel Pisát. Kezdjen a lovagok terén, majd tekerjen a Csodák terére a Camposanto és a Keresztelőkápolna felé. A dóm és a torony után a hangulatos utcákon át jutunk el a színes Keith Haring falfestményhez. A napot a Füvészkert nyugalmában zárhatja.",
+        "ro": "Explorați Pisa eficient și ca un localnic, pe bicicletă. Începeți în Piazza dei Cavalieri, apoi pedalați spre Camposanto și întregul ansamblu din Piazza dei Miracoli. După vizita la catedrală și urcarea în turn, drumul vă poartă prin străduțele primitoare până la coloratul mural al lui Keith Haring. La final, bucurați-vă de liniștea Grădinii Botanice.",
+        "en": "Explore Pisa efficiently and like a local on a bike. Start at Piazza dei Cavalieri, then cycle to Camposanto and the entire ensemble of Piazza dei Miracoli. After the cathedral visit and tower climb, head through cozy streets to the colorful Keith Haring mural. Finish your day in the peace of the Botanical Garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Lupa Ghiotta",
+            "tip": "Tolles Restaurant für toskanische Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "I Porci Comodi",
+            "tip": "Isteni szendvicsek és tálak, tökéletes bringás ebéd."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Ostellino",
+            "tip": "Sandvișuri artizanale excelente pentru un prânz rapid."
+          }
+        ],
+        "en": [
+          {
+            "name": "I Porci Comodi",
+            "tip": "Amazing sandwiches and platters, perfect for a quick bike lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mura di Pisa",
+            "tip": "Spaziergang auf der alten Stadtmauer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mura di Pisa",
+            "tip": "Séta a régi városfalon, pazar kilátással.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mura di Pisa",
+            "tip": "O plimbare pe vechile ziduri ale orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mura di Pisa",
+            "tip": "Walk on the old city walls with great views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Archivio",
+            "tip": "Besondere Souvenirs und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borgo Stretto",
+            "tip": "Hangulatos sétálóutca elegáns boltokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Italia",
+            "tip": "Magazine populare pentru toate bugetele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Borgo Stretto",
+            "tip": "Atmospheric street with elegant local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt viele Fahrradverleih-Stationen in Bahnhofsnähe.",
+          "In der Fußgängerzone ist das Radfahren oft untersagt, achten Sie auf Schilder.",
+          "Nutzen Sie die Radwege entlang des Arno.",
+          "Ein Schloss ist absolut notwendig."
+        ],
+        "hu": [
+          "Sok kerékpárkölcsönző található az állomás közelében.",
+          "A sétálóövezetekben tilos lehet a bringázás, figyelje a táblákat.",
+          "Használja az Arno-parti kerékpárutakat.",
+          "A lakat használata kötelező, ne hagyja őrizetlenül a biciklit."
+        ],
+        "ro": [
+          "Există multe puncte de închiriere a bicicletelor lângă gară.",
+          "În zonele pietonale ciclismul poate fi interzis, atenție la semne.",
+          "Folosiți pistele de biciclete de-a lungul râului Arno.",
+          "Un antifurt este absolut necesar."
+        ],
+        "en": [
+          "There are many bike rental stations near the train station.",
+          "Cycling is often prohibited in pedestrian areas, watch for signs.",
+          "Use the bike paths along the Arno river.",
+          "A bike lock is absolutely necessary."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 28.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza dei Miracoli (Parkplatz)",
+            "hu": "Piazza dei Miracoli (parkoló)",
+            "ro": "Piazza dei Miracoli (parcare)",
+            "en": "Piazza dei Miracoli (parking)"
+          },
+          "coords": [
+            10.392,
+            43.725
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den bewachten Parkplatz an der Via Pietrasantina.",
+            "hu": "Használja az őrzött parkolót a Via Pietrasantina-nál.",
+            "ro": "Folosiți parcarea păzită de pe Via Pietrasantina.",
+            "en": "Use the guarded parking lot at Via Pietrasantina."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Pendente",
+            "hu": "Ferde torony",
+            "ro": "Turnul Înclinat",
+            "en": "Leaning Tower"
+          },
+          "coords": [
+            10.3966,
+            43.723
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuch am Vormittag spart Zeit.",
+            "hu": "A délelőtti látogatással időt spórolhat.",
+            "ro": "Vizita de dimineață vă scutește de aglomerație.",
+            "en": "A morning visit saves time."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza dei Cavalieri",
+            "hu": "Piazza dei Cavalieri",
+            "ro": "Piața Cavalerilor",
+            "en": "Knights' Square"
+          },
+          "coords": [
+            10.4,
+            43.7193
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp im historischen Zentrum.",
+            "hu": "Rövid megálló a történelmi központban.",
+            "ro": "O scurtă oprire în centrul istoric.",
+            "en": "Short stop in the historical center."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina di Pisa",
+            "hu": "Marina di Pisa",
+            "ro": "Marina di Pisa",
+            "en": "Marina di Pisa"
+          },
+          "coords": [
+            10.27,
+            43.67
+          ],
+          "category": "beach",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Ein schöner Badeort nur 15-20 Minuten entfernt.",
+            "hu": "Kedvelt fürdőhely mindössze 15-20 percre.",
+            "ro": "O stațiune balneară drăguță la doar 15-20 de minute.",
+            "en": "A lovely beach resort just 15-20 minutes away."
+          }
+        },
+        {
+          "name": {
+            "de": "Bocca d'Arno",
+            "hu": "Arno torkolata",
+            "ro": "Gura râului Arno",
+            "en": "Bocca d'Arno"
+          },
+          "coords": [
+            10.265,
+            43.68
+          ],
+          "category": "sunset",
+          "arrive_at": "17:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Blick auf die typischen riesigen Fischernetze.",
+            "hu": "Kilátás a jellegzetes, hatalmas halászhálókra.",
+            "ro": "Vedere spre plasele de pescuit gigantice, tipice zonei.",
+            "en": "View of the typical giant fishing nets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie die Highlights von Pisa mit einem Ausflug ans Meer. Vormittags besuchen Sie den Piazza dei Miracoli und den Schiefen Turm. Nach einem kurzen Abstecher zum Piazza dei Cavalieri fahren Sie zur Marina di Pisa. Genießen Sie den Strand und den Blick auf die Bocca d'Arno mit ihren charakteristischen Fischernetzen zum Sonnenuntergang.",
+        "hu": "Autóval kényelmesen összekötheti Pisa látnivalóit egy tengerparti kirándulással. Délelőtt a Csodák tere és a Ferde Torony a cél. Egy rövid belvárosi kitérő után Marina di Pisa felé vesszük az irányt. Élvezze a tengerpartot és a naplementét az Arno torkolatánál, a különleges halászhálók mellett.",
+        "ro": "Cu mașina puteți combina atracțiile din Pisa cu o excursie la malul mării. Dimineața vizitați Piazza dei Miracoli și Turnul Înclinat. După o scurtă oprire în Piazza dei Cavalieri, conduceți spre Marina di Pisa. Bucurați-vă de plajă și de apusul de la Bocca d'Arno, cu plasele sale de pescuit caracteristice.",
+        "en": "By car, you can combine Pisa's highlights with a trip to the sea. Spend the morning at Piazza dei Miracoli and the Leaning Tower. After a quick detour to Knights' Square, drive to Marina di Pisa. Enjoy the beach and the sunset at Bocca d'Arno with its characteristic fishing nets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Marina di Pisa Fischlokale",
+            "tip": "Frischer Fisch direkt an der Küste."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Osteria del Mare",
+            "tip": "Friss tengeri ételek közvetlenül a parton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Testa e Lische",
+            "tip": "Pește proaspăt și fructe de mare pe coastă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Osteria del Mare",
+            "tip": "Fresh seafood right on the coast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco di San Rossore",
+            "tip": "Großes Naturreservat für lange Spaziergänge.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Rossore Park",
+            "tip": "Hatalmas természetvédelmi terület, fenyőerdőkkel.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco di San Rossore",
+            "tip": "O rezervație naturală vastă pentru plimbări lungi.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Rossore Park",
+            "tip": "Vast natural reserve perfect for long walks in nature.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centro dei Borghi",
+            "tip": "Großes Einkaufszentrum am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "IKEA Pisa",
+            "tip": "Ha valami praktikusat keresne a közelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centro Commerciale Pisanova",
+            "tip": "Centru comercial modern cu multe opțiuni."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centro dei Borghi",
+            "tip": "Large shopping mall on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie niemals in die ZTL (begrenzte Verkehrszone) im Zentrum.",
+          "Parkplätze am Piazza dei Miracoli sind teuer, aber sicher.",
+          "Die Fahrt zur Marina di Pisa dauert nur ca. 20 Minuten.",
+          "Achten Sie auf Parkverbote am Straßenrand in Marina di Pisa."
+        ],
+        "hu": [
+          "Soha ne hajtson be a ZTL (korlátozott forgalmi övezet) területére a központban.",
+          "A Csodák tere melletti parkolók drágák, de biztonságosak.",
+          "Marina di Pisa mindössze 20 perces autóútra van.",
+          "Figyeljen a parkolási tilalmakra Marina di Pisa partján."
+        ],
+        "ro": [
+          "Nu intrați niciodată în ZTL (zona cu trafic limitat) din centru.",
+          "Parcările de lângă Piazza dei Miracoli sunt scumpe, dar sigure.",
+          "Drumul spre Marina di Pisa durează doar 20 de minute.",
+          "Atenție la restricțiile de parcare pe malul mării în Marina di Pisa."
+        ],
+        "en": [
+          "Never drive into the ZTL (limited traffic zone) in the center.",
+          "Parking near Piazza dei Miracoli is expensive but secure.",
+          "The drive to Marina di Pisa takes only about 20 minutes.",
+          "Watch out for parking restrictions along the coast in Marina di Pisa."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Murales Tuttomondo",
+            "hu": "Tuttomondo falfestmény",
+            "ro": "Pictura Murală Tuttomondo",
+            "en": "Tuttomondo Mural"
+          },
+          "coords": [
+            10.3995,
+            43.7118
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gleich beim Bahnhof Pisa Centrale.",
+            "hu": "A Pisa Centrale vasútállomás közvetlen közelében.",
+            "ro": "Chiar lângă gara Pisa Centrale.",
+            "en": "Right by the Pisa Centrale railway station."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza dei Cavalieri",
+            "hu": "Piazza dei Cavalieri",
+            "ro": "Piața Cavalerilor",
+            "en": "Knights' Square"
+          },
+          "coords": [
+            10.4,
+            43.7193
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus LAM Rossa Richtung Park Pietrasantina.",
+            "hu": "Használja a LAM Rossa buszt a Park Pietrasantina felé.",
+            "ro": "Luați autobuzul LAM Rossa spre Park Pietrasantina.",
+            "en": "Take the LAM Rossa bus towards Park Pietrasantina."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Pendente",
+            "hu": "Ferde torony",
+            "ro": "Turnul Înclinat",
+            "en": "Leaning Tower"
+          },
+          "coords": [
+            10.3966,
+            43.723
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Steigen Sie an der Haltestelle 'Torre' aus.",
+            "hu": "Szálljon le a 'Torre' megállónál.",
+            "ro": "Coborâți la stația 'Torre'.",
+            "en": "Get off at the 'Torre' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di Pisa",
+            "hu": "Pisai dóm",
+            "ro": "Catedrala din Pisa",
+            "en": "Pisa Cathedral"
+          },
+          "coords": [
+            10.3956,
+            43.7233
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der Eintritt ist oft zeitgebunden.",
+            "hu": "A belépés gyakran időpontfüggő.",
+            "ro": "Intrarea este adesea condiționată de oră.",
+            "en": "Entry is often time-bound."
+          }
+        },
+        {
+          "name": {
+            "de": "Battistero",
+            "hu": "Keresztelőkápolna",
+            "ro": "Baptisteriul",
+            "en": "Baptistery"
+          },
+          "coords": [
+            10.3942,
+            43.7233
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Prüfen Sie Kombitickets für alle Denkmäler.",
+            "hu": "Érdemes kombinált jegyet venni minden műemlékre.",
+            "ro": "Verificați biletele combinate pentru toate monumentele.",
+            "en": "Check for combo tickets for all monuments."
+          }
+        },
+        {
+          "name": {
+            "de": "Camposanto",
+            "hu": "Camposanto",
+            "ro": "Camposanto",
+            "en": "Camposanto"
+          },
+          "coords": [
+            10.3948,
+            43.724
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ruhepol auf dem sonst sehr belebten Platz.",
+            "hu": "A nyugalom szigete a nyüzsgő téren.",
+            "ro": "O oază de liniște în piața aglomerată.",
+            "en": "A peaceful spot in the busy square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente LAM Rossa Bussystem, um Pisa zu erkunden. Beginnen Sie am Bahnhof mit Harings Murales und fahren Sie dann bequem zum Piazza dei Cavalieri. Der Höhepunkt ist der Piazza dei Miracoli, wo Sie alle Monumente inklusive des Schiefen Turms und des Camposanto besichtigen können. Ein entspannter Tag ohne lange Fußwege.",
+        "hu": "Használja ki a hatékony LAM Rossa buszhálózatot Pisa felfedezéséhez. Kezdjen az állomásnál Haring falfestményével, majd utazzon kényelmesen a lovagok terére. A csúcspont a Csodák tere, ahol minden műemléket megtekinthet a Ferde Toronytól a Camposanto-ig. Pihentető nap, hosszú gyaloglás nélkül.",
+        "ro": "Folosiți sistemul eficient de autobuze LAM Rossa pentru a explora Pisa. Începeți la gară cu muralul lui Haring, apoi mergeți confortabil spre Piazza dei Cavalieri. Punctul culminant este Piazza dei Miracoli, unde puteți vizita toate monumentele, inclusiv Turnul Înclinat și Camposanto. O zi relaxată fără mers pe jos excesiv.",
+        "en": "Use the efficient LAM Rossa bus system to explore Pisa. Start at the station with Haring's mural, then travel comfortably to Knights' Square. The highlight is the Field of Miracles, where you can visit all the monuments including the Leaning Tower and the Camposanto. A relaxed day without long walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria Il Montino",
+            "tip": "Authentische Cecina in einer Seitenstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizzeria Il Montino",
+            "tip": "Autentikus Cecina egy kis mellékutcában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria Il Montino",
+            "tip": "Cecina autentică pe o străduță lăturalnică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizzeria Il Montino",
+            "tip": "Authentic Cecina in a side street."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Arno-Ufer",
+            "tip": "Abseits der Turm-Massen spazieren gehen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arno-part",
+            "tip": "Séta távol a torony körüli tömegtől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Arno",
+            "tip": "O plimbare departe de mulțimea de la turn.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Arno river banks",
+            "tip": "Walk away from the tower crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Italia",
+            "tip": "Bequem per Bus erreichbare Shoppingmeile."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Italia",
+            "tip": "Busszal könnyen elérhető bevásárlóutca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Italia",
+            "tip": "Strada de shopping accesibilă ușor cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Italia",
+            "tip": "Shopping street easily accessible by bus."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tickets für den Bus müssen vor dem Einsteigen gekauft werden.",
+          "Die LAM Rossa Linie ist die wichtigste für Touristen.",
+          "Busse fahren sehr regelmäßig zwischen Bahnhof und Turm.",
+          "Achten Sie auf Entwertungsgeräte im Bus."
+        ],
+        "hu": [
+          "A buszjegyeket a felszállás előtt kell megvásárolni.",
+          "A LAM Rossa vonal a legfontosabb a turisták számára.",
+          "A buszok sűrűn járnak az állomás és a torony között.",
+          "Ne felejtse el érvényesíteni a jegyét a buszon."
+        ],
+        "ro": [
+          "Biletele de autobuz trebuie cumpărate înainte de îmbarcare.",
+          "Linia LAM Rossa este cea mai importantă pentru turiști.",
+          "Autobuzele circulă foarte regulat între gară și turn.",
+          "Nu uitați să compostați biletul în autobuz."
+        ],
+        "en": [
+          "Bus tickets must be purchased before boarding.",
+          "The LAM Rossa line is the most important for tourists.",
+          "Buses run very regularly between the station and the tower.",
+          "Remember to validate your ticket on the bus."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-52",
+    "coords": [
+      10.4017,
+      43.7228
+    ],
+    "transit_official": "https://www.cttnord.it/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Pisa-2589",
+    "bike_share": "https://www.ciclopi.eu/",
+    "city_card": "https://www.opapisa.it/biglietti/",
+    "events": "https://www.turismo.pisa.it/eventi",
+    "tourism_office": "https://www.turismo.pisa.it/",
+    "webcam": "https://www.skylinewebcams.com/it/webcam/italia/toscana/pisa.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/pisa-c103864",
+    "museum_tickets": "https://www.opapisa.it/",
+    "parking_real_time": "https://www.pisamo.it/",
+    "language_tips": {
+      "de": "Toskanisches Italienisch gilt als Standard; Englisch im Tourismus weit verbreitet.",
+      "hu": "A toszkan olasz a sztenderd; a turisztikai helyeken jol mukodik az angol.",
+      "ro": "Italiana toscana e standardul; engleza functioneaza in zonele turistice.",
+      "en": "Tuscan Italian is the standard form; English widely spoken in tourist areas."
+    },
+    "best_time_to_visit": {
+      "de": "April, Mai und Oktober ideal; Sommer heiss mit Massen am Schiefen Turm.",
+      "hu": "Aprilis, majus es oktober ideal; nyaron forro es tomeg a Ferde-toronynal.",
+      "ro": "Aprilie, mai si octombrie sunt ideale; vara e cald si aglomerat la Turn.",
+      "en": "April, May and October are ideal; summer hot and crowded at the Tower."
+    },
+    "neighborhood_warnings": {
+      "de": "Bahnhofsviertel abends meiden; Piazza dei Miracoli Vorsicht Taschendiebe.",
+      "hu": "A palyaudvar kornyeke este kerulendo; a Csodak Teren zsebtolvajok.",
+      "ro": "Evitati zona garii seara; in Piazza dei Miracoli atentie la hoti de buzunare.",
+      "en": "Avoid station area at night; pickpockets active around Piazza dei Miracoli."
+    }
+  }
+}

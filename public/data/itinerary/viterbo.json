@@ -1,0 +1,509 @@
+{
+  "city_id": "viterbo",
+  "anchor": {
+    "name": "Viterbo Centro",
+    "coords": [
+      12.1054,
+      42.417
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Fontana Grande",
+          "coords": [
+            12.1075,
+            42.4158
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Details des ältesten Brunnens.",
+            "hu": "Csodáld meg a város legrégebbi gótikus szökőkútját.",
+            "ro": "Admirați detaliile gotice ale celei mai vechi fântâni.",
+            "en": "Admire the Gothic details of the city's oldest fountain."
+          }
+        },
+        {
+          "name": "Piazza del Plebiscito",
+          "coords": [
+            12.1051,
+            42.4172
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Innenhöfe der Paläste am Platz.",
+            "hu": "Nézz be a téren álló paloták belső udvaraiba.",
+            "ro": "Vizitați curțile interioare ale palatelor din piață.",
+            "en": "Check out the inner courtyards of the palaces on the square."
+          }
+        },
+        {
+          "name": "Quartiere San Pellegrino",
+          "coords": [
+            12.1042,
+            42.4145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den mittelalterlichen Gassen.",
+            "hu": "Vessz el a tökéletesen megőrzött középkori utcácskákban.",
+            "ro": "Pierdeți-vă pe străduțele medievale perfect conservate.",
+            "en": "Get lost in the perfectly preserved medieval alleys."
+          }
+        },
+        {
+          "name": "Palazzo dei Papi",
+          "coords": [
+            12.1005,
+            42.4152
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Loggia ist der perfekte Ort für Fotos.",
+            "hu": "A pápai palota loggiája a legjobb fotóhelyszín.",
+            "ro": "Loggia este locul perfect pentru fotografii.",
+            "en": "The Loggia is the perfect spot for photos."
+          }
+        },
+        {
+          "name": "Cattedrale di San Lorenzo",
+          "coords": [
+            12.1001,
+            42.4155
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf den markanten schwarz-weißen Glockenturm.",
+            "hu": "Figyeld meg a jellegzetes fekete-fehér harangtornyot.",
+            "ro": "Observați clopotnița distinctivă în alb și negru.",
+            "en": "Notice the distinctive black and white bell tower."
+          }
+        },
+        {
+          "name": "Museo Nazionale Etrusco",
+          "coords": [
+            12.1035,
+            42.4205
+          ],
+          "category": "museums",
+          "arrive_at": "16:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende etruskische Geschichte der Region.",
+            "hu": "Fedezd fel a régió lenyűgöző etruszk emlékeit.",
+            "ro": "Descoperiți istoria fascinantă a etruscilor din regiune.",
+            "en": "Discover the fascinating Etruscan history of the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der beeindruckenden Fontana Grande, dem Wahrzeichen der Stadt. Schlendern Sie zum politischen Herzen am Piazza del Plebiscito, wo die Löwen von Viterbo die Paläste bewachen.\nMittags tauchen Sie in das magische Viertel San Pellegrino ein, das am besten erhaltene mittelalterliche Viertel Italiens. Genießen Sie die authentische Atmosphäre zwischen Steinbögen und Außentreppen.\nAm Nachmittag erkunden Sie den monumentalen Papstpalast, in dem einst das erste Konklave stattfand. Die angrenzende Kathedrale beeindruckt mit ihrer romanischen Schlichtheit.\nZum Abschluss besuchen Sie das Etruskermuseum in der Festung Rocca Albornoz, um die tiefen Wurzeln dieser antiken Zivilisation in Latium zu verstehen.",
+        "hu": "Kezdd a napot a Fontana Grande monumentális kútjánál, amely a város egyik legrégebbi szimbóluma. Sétálj el a Piazza del Plebiscito-ra, ahol a városháza udvarán Viterbo kőoroszlánjai fogadnak.\nDélidőben merülj el San Pellegrino negyedének varázsában, amely Olaszország egyik legépebben maradt középkori városrésze. A kőívek és külső lépcsősorok között megállt az idő.\nDélután látogass el a Pápai Palotába, az első konklávé helyszínére, majd csodáld meg a San Lorenzo székesegyház román stílusú eleganciáját.\nA nap végén az Albornoz-erődben található Etruszk Múzeum gazdag leletanyaga kalauzol el a térség ókori történelmébe.",
+        "ro": "Începeți ziua la monumentala Fontana Grande, unul dintre cele mai vechi simboluri ale orașului. Mergeți spre Piazza del Plebiscito, unde leii de piatră ai Viterbo păzesc palatele administrative.\nLa prânz, scufundați-vă în magia cartierului San Pellegrino, unul dintre cele mai bine conservate nuclee medievale din Italia. Atmosfera autentică se simte la fiecare pas printre arcadele de piatră.\nDupă-amiaza, explorați Palatul Papal, locul unde a avut loc primul conclav, și admirați simplitatea romanică a Catedralei San Lorenzo.\nÎncheiați ziua la Muzeul Național Etrusc din incinta fortăreței Rocca Albornoz pentru a înțelege rădăcinile antice ale acestei regiuni.",
+        "en": "Start your day at the monumental Fontana Grande, one of the city's oldest symbols. Stroll to Piazza del Plebiscito, where the stone lions of Viterbo guard the administrative palaces.\nAt midday, immerse yourself in the magic of the San Pellegrino district, one of Italy's best-preserved medieval quarters. The authentic atmosphere is palpable among the stone arches and external staircases.\nIn the afternoon, explore the Papal Palace, the site of the first conclave, and admire the Romanesque elegance of the San Lorenzo Cathedral.\nEnd your day at the National Etruscan Museum inside the Albornoz Fortress to understand the deep ancient roots of this region in Lazio."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lombrichelli alla Viterbese",
+            "tip": "Frische Pasta mit Tomaten und Pecorino im Ristorante Tre Re."
+          },
+          {
+            "name": "Acquacotta",
+            "tip": "Traditionelle Gemüsesuppe bei Il Labirinto."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lombrichelli alla Viterbese",
+            "tip": "Helyi vastag tészta paradicsommal és pecorinóval a Tre Re étteremben."
+          },
+          {
+            "name": "Acquacotta",
+            "tip": "Hagyományos zöldségleves buggyantott tojással az Il Labirinto-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lombrichelli alla Viterbese",
+            "tip": "Paste proaspete cu roșii și brânză pecorino la Ristorante Tre Re."
+          },
+          {
+            "name": "Acquacotta",
+            "tip": "Supă tradițională de legume la Il Labirinto."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lombrichelli alla Viterbese",
+            "tip": "Local thick pasta with tomato and pecorino at Ristorante Tre Re."
+          },
+          {
+            "name": "Acquacotta",
+            "tip": "Traditional vegetable soup with poached egg at Il Labirinto."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco del Colle del Duomo",
+            "tip": "Ruhiger Blick auf die mittelalterlichen Dächer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco del Colle del Duomo",
+            "tip": "Csendes pihenőhely kilátással a középkori tetőkre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco del Colle del Duomo",
+            "tip": "Vedere liniștită asupra acoperișurilor medievale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco del Colle del Duomo",
+            "tip": "Quiet view over the medieval rooftops.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik aus Viterbo",
+            "tip": "Handgefertigte Stücke in den Werkstätten von San Pellegrino."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Viterbói kerámia",
+            "tip": "Kézzel készített tárgyak San Pellegrino műhelyeiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică de Viterbo",
+            "tip": "Obiecte lucrate manual în atelierele din San Pellegrino."
+          }
+        ],
+        "en": [
+          {
+            "name": "Viterbo Ceramics",
+            "tip": "Handcrafted pieces in the workshops of San Pellegrino."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in San Pellegrino.",
+          "Besuchen Sie die Terme dei Papi außerhalb der Stadt für Entspannung.",
+          "Die Museen sind montags oft geschlossen.",
+          "Probieren Sie den lokalen Est! Est!! Est!!! Weißwein."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt San Pellegrino macskaköves utcáihoz.",
+          "Látogass el a városon kívüli Terme dei Papi termálfürdőbe pihenni.",
+          "A múzeumok hétfőnként általában zárva tartanak.",
+          "Kóstold meg a közeli Montefiascone híres Est! Est!! Est!!! borát."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile cu piatră cubică din San Pellegrino.",
+          "Vizitați Terme dei Papi în afara orașului pentru relaxare.",
+          "Muzeele sunt adesea închise lunea.",
+          "Gustați vinul local alb Est! Est!! Est!!!"
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestones in San Pellegrino.",
+          "Visit the Terme dei Papi outside the city for relaxation.",
+          "Museums are often closed on Mondays.",
+          "Try the local Est! Est!! Est!!! white wine."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Santuario di Santa Rosa",
+          "coords": [
+            12.1065,
+            42.4215
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Hier ruht der unverwesliche Körper der Schutzpatronin.",
+            "hu": "Itt őrzik a város védőszentjének épen maradt testét.",
+            "ro": "Aici se odihnește corpul incoruptibil al patroanei orașului.",
+            "en": "Here lies the incorrupt body of the city's patron saint."
+          }
+        },
+        {
+          "name": "Quartiere San Pellegrino",
+          "coords": [
+            12.1042,
+            42.4145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken Sie am Parcheggio Faul.",
+            "hu": "Parkolj a közeli Parcheggio Faul mélygarázsban.",
+            "ro": "Parcați la Parcheggio Faul din apropiere.",
+            "en": "Park at the nearby Parcheggio Faul."
+          }
+        },
+        {
+          "name": "Palazzo dei Papi",
+          "coords": [
+            12.1005,
+            42.4152
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur des Papstpalastes.",
+            "hu": "Csodáld meg a pápai palota egyedi gótikus építészetét.",
+            "ro": "Admirați arhitectura Palatului Papal.",
+            "en": "Admire the architecture of the Papal Palace."
+          }
+        },
+        {
+          "name": "Villa Lante",
+          "coords": [
+            12.1555,
+            42.4252
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Einer der schönsten Renaissance-Gärten Italiens.",
+            "hu": "Olaszország egyik legszebb reneszánsz kertje Bagnaia-ban.",
+            "ro": "Una dintre cele mai frumoase grădini renascentiste din Italia.",
+            "en": "One of the most beautiful Renaissance gardens in Italy."
+          }
+        },
+        {
+          "name": "Terme dei Papi",
+          "coords": [
+            12.0655,
+            42.4252
+          ],
+          "category": "landmark",
+          "arrive_at": "16:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie im monumentalen Thermalbecken.",
+            "hu": "Lazíts a pápák monumentális termálmedencéjében.",
+            "ro": "Relaxați-vă în bazinul termal monumental.",
+            "en": "Relax in the monumental thermal pool."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Santuario di Santa Rosa, gewidmet der Schutzpatronin von Viterbo. Nach einem kurzen Stopp im mittelalterlichen San Pellegrino fahren Sie zum Papstpalast.\nAm Nachmittag verlassen Sie das Zentrum für einen Besuch der Villa Lante in Bagnaia, berühmt für ihre perfekt symmetrischen Wasserspiele und Gärten.\nZum Abschluss gönnen Sie sich ein Bad in den historischen Terme dei Papi, deren heilendes Wasser schon die Päpste schätzten.",
+        "hu": "Kezdd a napot a Szent Róza szentélynél, amely Viterbo védőszentjének nyughelye. Egy rövid középkori séta után San Pellegrino-ban, látogass el a Pápai Palotához.\nDélután autózz ki a közeli Bagnaia-ba, ahol a Villa Lante tökéletes reneszánsz kertjei és szökőkútjai várnak.\nA napot a híres Pápák Termálfürdőjében (Terme dei Papi) zárhatod, ahol a gyógyvíz évszázadok óta vonzza a látogatókat.",
+        "ro": "Începeți ziua la Sanctuarul Sfânta Rosa, dedicat patroanei orașului. După o scurtă oprire în cartierul medieval San Pellegrino, mergeți spre Palatul Papal.\nDupă-amiaza, părăsiți centrul pentru o vizită la Villa Lante din Bagnaia, faimoasă pentru grădinile sale renascentiste și jocurile de apă simetrice.\nÎncheiați ziua cu o baie relaxantă la Terme dei Papi, ale căror ape termale erau apreciate încă de pe vremea papilor.",
+        "en": "Start your day at the Sanctuary of Santa Rosa, dedicated to Viterbo's patron saint. After a short stroll in the medieval San Pellegrino, drive to the Papal Palace.\nIn the afternoon, head outside the center to visit Villa Lante in Bagnaia, famous for its perfectly symmetrical Renaissance gardens and water features.\nEnd your day with a relaxing soak at the Terme dei Papi, whose healing thermal waters have been appreciated since the time of the Popes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Coregone",
+            "tip": "Fisch aus dem nahen Bolsenasee im Hosteria del Grillo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coregone",
+            "tip": "Friss halétel a közeli Bolsenai-tóból a Hosteria del Grillo-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coregone",
+            "tip": "Pește din lacul Bolsena la Hosteria del Grillo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coregone",
+            "tip": "Fresh fish from nearby Lake Bolsena at Hosteria del Grillo."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Villa Lante Gärten",
+            "tip": "Friedliche Renaissance-Atmosphäre.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Lante kertjei",
+            "tip": "Békés reneszánsz hangulat a szökőkutak között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Villa Lante",
+            "tip": "Atmosferă renascentistă liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Lante Gardens",
+            "tip": "Peaceful Renaissance atmosphere.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tuscia Olivenöl",
+            "tip": "Kaufen Sie lokales Olivenöl in Bagnaia."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tuscia olívaolaj",
+            "tip": "Vásárolj helyi extra szűz olívaolajat Bagnaia-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline Tuscia",
+            "tip": "Cumpărați ulei de măsline local din Bagnaia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tuscia Olive Oil",
+            "tip": "Buy local extra virgin olive oil in Bagnaia."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie außerhalb der ZTL (verkehrsberuhigte Zone).",
+          "Für Villa Lante ist eine separate Eintrittskarte erforderlich.",
+          "Die Fahrt nach Bagnaia dauert nur 15 Minuten.",
+          "Reservieren Sie für die Thermen im Voraus."
+        ],
+        "hu": [
+          "Parkolj a ZTL (forgalomcsökkentett övezet) határain kívül.",
+          "A Villa Lante kertjébe külön belépőjegy szükséges.",
+          "Az út Bagnaia-ba mindössze 15 perc autóval.",
+          "Hétvégén érdemes előre foglalni a termálfürdőbe."
+        ],
+        "ro": [
+          "Parcați în afara zonei ZTL (zonă cu trafic limitat).",
+          "Pentru Villa Lante este necesar un bilet de intrare separat.",
+          "Drumul spre Bagnaia durează doar 15 minute.",
+          "Rezervați din timp pentru centrul termal."
+        ],
+        "en": [
+          "Park outside the ZTL (limited traffic zone).",
+          "A separate ticket is required for Villa Lante.",
+          "The drive to Bagnaia takes only 15 minutes.",
+          "Book in advance for the thermal baths."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "_coords": [
+      12.1077,
+      42.4175
+    ],
+    "_region": "IT-62 Lazio",
+    "transit_official": "https://www.trenitalia.com/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Viterbo",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://comune.viterbo.it/vivere-il-comune/eventi/",
+    "tourism_office": "https://comune.viterbo.it/visit/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/lazio.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/viterbo-c562260",
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch ist Hauptsprache; Tuscia-Dialekt lokal. Englisch in der Altstadt grundlegend, in Hotels besser.",
+      "hu": "Olasz az elsődleges; helyi tusciai nyelvjárás. Angol az óvárosban alap szintű, szállodákban jobb.",
+      "ro": "Italiana e principala; dialect local din Tuscia. Engleza modestă în centrul vechi, mai bună în hoteluri.",
+      "en": "Italian primary; local Tuscia dialect heard. English basic in old town, better in hotels."
+    },
+    "best_time": {
+      "de": "April–Juni und September–Oktober ideal; Thermen ganzjährig. Sommer heiß und trocken.",
+      "hu": "Április–június és szeptember–október ideális; termálok egész évben. Nyár forró és száraz.",
+      "ro": "Aprilie–iunie și septembrie–octombrie ideale; termele tot anul. Vara caldă și uscată.",
+      "en": "April–June and September–October ideal; thermal baths year-round. Summer hot and dry."
+    },
+    "warnings": {
+      "de": "ZTL in der mittelalterlichen Altstadt streng; Parken außerhalb. Bagnaccio-Thermen kostenlos, aber wild.",
+      "hu": "ZTL a középkori óvárosban szigorú; parkolás kívül. Bagnaccio termálok ingyenesek, de vadon.",
+      "ro": "ZTL strict în centrul medieval; parcați în afară. Termele Bagnaccio gratuite, dar sălbatice.",
+      "en": "Strict ZTL in medieval old town; park outside walls. Bagnaccio free thermal pools but rustic."
+    }
+  }
+}

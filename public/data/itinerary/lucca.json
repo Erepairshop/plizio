@@ -1,0 +1,1067 @@
+{
+  "city_id": "lucca",
+  "anchor": {
+    "name": "Lucca Centro Storico",
+    "coords": [
+      10.505,
+      43.843
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:45",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mura di Lucca",
+            "hu": "Lucca városfala",
+            "ro": "Zidurile din Lucca",
+            "en": "Mura di Lucca"
+          },
+          "coords": [
+            10.5,
+            43.84
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf der Krone der Renaissance-Mauern unter den alten Platanen.",
+            "hu": "Sétáljon végig a reneszánsz falak tetején az öreg platánsorok alatt.",
+            "ro": "Plimbați-vă pe coroana zidurilor renascentiste printre pinii bătrâni.",
+            "en": "Walk along the top of the Renaissance walls under the ancient plane trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Frediano",
+            "hu": "San Frediano-bazilika",
+            "ro": "Bazilica San Frediano",
+            "en": "Basilica di San Frediano"
+          },
+          "coords": [
+            10.505,
+            43.845
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie das riesige goldene Mosaik an der Fassade aus dem 13. Jahrhundert.",
+            "hu": "Csodálja meg a homlokzaton lévő hatalmas, 13. századi arany mozaikot.",
+            "ro": "Admirați imensul mozaic auriu de pe fațadă, datând din secolul al XIII-lea.",
+            "en": "Admire the huge 13th-century golden mosaic on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza dell'Anfiteatro",
+            "hu": "Piazza dell'Anfiteatro",
+            "ro": "Piazza dell'Anfiteatro",
+            "en": "Piazza dell'Anfiteatro"
+          },
+          "coords": [
+            10.506,
+            43.845
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dieser elliptische Platz wurde auf den Ruinen eines römischen Amphitheaters erbaut.",
+            "hu": "Ez az elliptikus tér egy római amfiteátrum romjaira épült.",
+            "ro": "Această piață eliptică a fost construită pe ruinele unui amfiteatru roman.",
+            "en": "This elliptical square was built on the ruins of a Roman amphitheater."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Guinigi",
+            "hu": "Guinigi-torony",
+            "ro": "Turnul Guinigi",
+            "en": "Torre Guinigi"
+          },
+          "coords": [
+            10.506,
+            43.843
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie hinauf, um die Steineichen zu sehen, die auf der Turmspitze wachsen.",
+            "hu": "Másszon fel a tetejére, ahol évszázados magyaltölgyek nőnek a magasban.",
+            "ro": "Urcați pentru a vedea stejarii seculari care cresc pe vârful turnului.",
+            "en": "Climb to the top to see the ancient holm oaks growing on the summit."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Michele in Foro",
+            "hu": "San Michele in Foro templom",
+            "ro": "Biserica San Michele in Foro",
+            "en": "Chiesa di San Michele in Foro"
+          },
+          "coords": [
+            10.502,
+            43.843
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Achten Sie auf die filigranen Marmorsäulen der Pisaner Romanik-Fassade.",
+            "hu": "Figyelje meg a pisai román stílusú homlokzat finoman faragott márványoszlopait.",
+            "ro": "Observați coloanele de marmură sculptate fin ale fațadei în stil romanic pisan.",
+            "en": "Observe the finely carved marble columns of the Pisan Romanesque facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di San Martino",
+            "hu": "San Martino-székesegyház",
+            "ro": "Domul San Martino",
+            "en": "Duomo di San Martino"
+          },
+          "coords": [
+            10.506,
+            43.84
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Grabmal der Ilaria del Carretto, ein Meisterwerk von Jacopo della Quercia.",
+            "hu": "Nézze meg Ilaria del Carretto síremlékét, Jacopo della Quercia remekművét.",
+            "ro": "Vizitați mormântul Ilariei del Carretto, o capodoperă de Jacopo della Quercia.",
+            "en": "Visit the tomb of Ilaria del Carretto, a masterpiece by Jacopo della Quercia."
+          }
+        },
+        {
+          "name": {
+            "de": "Orto Botanico di Lucca",
+            "hu": "Lucca botanikus kertje",
+            "ro": "Grădina Botanică din Lucca",
+            "en": "Orto Botanico di Lucca"
+          },
+          "coords": [
+            10.511,
+            43.84
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort mit exotischen Pflanzen und einem Teich voller Legenden.",
+            "hu": "Békés hely egzotikus növényekkel és egy legendákkal teli tóval.",
+            "ro": "Un loc liniștit cu plante exotice și un iaz plin de legende.",
+            "en": "A peaceful spot with exotic plants and a pond full of legends."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Spaziergang auf den gewaltigen Stadtmauern, die Lucca wie ein grüner Gürtel umschließen. Der Vormittag führt Sie durch die engen Gassen zur Basilica di San Frediano und dem einzigartigen Piazza dell'Anfiteatro.\n\nMittags erklimmen Sie den Guinigi-Turm, um den Wald in den Wolken zu sehen, bevor Sie ein traditionelles toskanisches Mittagessen in der Nähe von San Michele genießen.\n\nDer Nachmittag ist der Spiritualität und Kunst im Dom San Martino gewidmet, wo Geschichte in weißem Marmor gemeißelt ist.\n\nLassen Sie den Tag im ruhigen Botanischen Garten ausklingen, einem verborgenen Juwel am Rande der Altstadt, perfekt für einen entspannten Abendausklang.",
+        "hu": "Kezdje a napot a várost körülölelő hatalmas falakon, amelyek zöld gyűrűként védik Luccát. A délelőtt a San Frediano-bazilika arany mozaikjaihoz és az egyedülálló, ovális Piazza dell'Anfiteatro térhez vezet.\n\nDélben másszon fel a Guinigi-torony tetejére, hogy láthassa az égben növő tölgyerdőt, majd élvezze a toszkán ízeket a San Michele templom környékén.\n\nA délután a spiritualitásé és a művészeté a San Martino-székesegyházban, ahol a történelem fehér márványba van faragva.\n\nZárja a napot a csendes botanikus kertben, amely egy rejtett ékkő az óváros szélén, tökéletes helyszín a békés esti búcsúhoz.",
+        "ro": "Începeți ziua cu o plimbare pe zidurile masive care înconjoară orașul ca o centură verde. Dimineața vă poartă spre mozaicurile aurii de la San Frediano și spre inedita Piazza dell'Anfiteatro.\n\nLa prânz, urcați în Turnul Guinigi pentru a vedea pădurea din cer, înainte de a savura un prânz toscan tradițional în apropiere de San Michele.\n\nDupă-amiaza este dedicată spiritualității și artei în Domul San Martino, unde istoria este dăltuită în marmură albă.\n\nÎncheiați ziua în liniștea Grădinii Botanice, o bijuterie ascunsă la marginea centrului istoric, perfectă pentru un final de zi relaxant.",
+        "en": "Start your day with a walk on the massive city walls that surround Lucca like a green belt. The morning leads you to the golden mosaics of San Frediano and the unique Piazza dell'Anfiteatro.\n\nAt midday, climb the Guinigi Tower to see the forest in the sky, before enjoying a traditional Tuscan lunch near the church of San Michele.\n\nIn the afternoon, immerse yourself in the art and spirituality of the San Martino Cathedral, where history is carved in white marble.\n\nEnd the day in the peaceful Botanical Garden, a hidden gem on the edge of the historic center, perfect for a quiet evening wind-down."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buca di Sant'Antonio",
+            "tip": "Probieren Sie Tordelli Lucchesi (gefüllte Pasta) in diesem historischen Restaurant."
+          },
+          {
+            "name": "Pasticceria Taddeucci",
+            "tip": "Hier gibt es das beste Buccellato, das traditionelle süße Brot von Lucca."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buca di Sant'Antonio",
+            "tip": "Kóstolja meg a Tordelli Lucchesi-t (töltött tészta) ebben a nagy múltú étteremben."
+          },
+          {
+            "name": "Pasticceria Taddeucci",
+            "tip": "Itt készítik a legjobb Buccellato-t, Lucca hagyományos édes kenyerét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buca di Sant'Antonio",
+            "tip": "Încercați Tordelli Lucchesi (paste umplute) în acest restaurant istoric."
+          },
+          {
+            "name": "Pasticceria Taddeucci",
+            "tip": "Aici găsiți cel mai bun Buccellato, pâinea dulce tradițională din Lucca."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buca di Sant'Antonio",
+            "tip": "Try Tordelli Lucchesi (stuffed pasta) in this historic restaurant."
+          },
+          {
+            "name": "Pasticceria Taddeucci",
+            "tip": "Home of the best Buccellato, Lucca's traditional sweet bread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Baluardo San Colombano",
+            "tip": "Ein ruhiger Aussichtspunkt auf der Mauer für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Chiesina del Crocifisso",
+            "tip": "Ein winziger, oft übersehener Ort der Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baluardo San Colombano",
+            "tip": "Egy csendes kilátópont a falon a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Chiesina del Crocifisso",
+            "tip": "Egy apró, gyakran elkerült csendes hely a városban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baluardo San Colombano",
+            "tip": "Un punct de observație liniștit pe zid pentru apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Chiesina del Crocifisso",
+            "tip": "Un loc minuscul și liniștit, adesea trecut cu vederea.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Baluardo San Colombano",
+            "tip": "A quiet viewpoint on the wall for sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Chiesina del Crocifisso",
+            "tip": "A tiny, often overlooked place of silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Fillungo",
+            "tip": "Die Haupteinkaufsstraße mit eleganten Boutiquen und Jugendstil-Fassaden."
+          },
+          {
+            "name": "Mercato dell'Antiquariato",
+            "tip": "Antiquitätenmarkt am dritten Wochenende des Monats rund um den Dom."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Fillungo",
+            "tip": "A fő bevásárlóutca elegáns butikokkal és szecessziós homlokzatokkal."
+          },
+          {
+            "name": "Mercato dell'Antiquariato",
+            "tip": "Régiségvásár a hónap harmadik hétvégéjén a dóm környékén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Fillungo",
+            "tip": "Principala stradă comercială cu buticuri elegante și fațade Liberty."
+          },
+          {
+            "name": "Mercato dell'Antiquariato",
+            "tip": "Piață de antichități în al treilea weekend al lunii, în jurul Domului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Fillungo",
+            "tip": "The main shopping street with elegant boutiques and Art Nouveau facades."
+          },
+          {
+            "name": "Mercato dell'Antiquariato",
+            "tip": "Antiques market on the third weekend of the month around the Cathedral."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Lucca ist fast vollständig verkehrsberuhigt, tragen Sie bequeme Wanderschuhe.",
+          "Die Mauern sind 4,2 km lang; planen Sie Zeit für den gesamten Rundweg ein.",
+          "Kaufen Sie ein Kombiticket für den Dom und das Museum, um Geld zu sparen.",
+          "Probieren Sie das Wasser aus den öffentlichen Brunnen, es ist frisch und trinkbar."
+        ],
+        "hu": [
+          "Lucca szinte teljesen autómentes, viseljen kényelmes sétálócipőt.",
+          "A városfalak 4,2 km hosszúak; szánjon időt a teljes körre.",
+          "Vásároljon kombinált jegyet a dómhoz és a múzeumhoz, hogy spóroljon.",
+          "Kóstolja meg a vizet a nyilvános kutakból, friss és iható."
+        ],
+        "ro": [
+          "Lucca este aproape în întregime pietonal, purtați pantofi de mers confortabili.",
+          "Zidurile au 4,2 km lungime; rezervați-vă timp pentru întregul circuit.",
+          "Cumpărați un bilet combinat pentru Dom și muzeu pentru a economisi.",
+          "Încercați apa de la fântânile publice, este proaspătă și potabilă."
+        ],
+        "en": [
+          "Lucca is almost entirely pedestrianized, wear comfortable walking shoes.",
+          "The walls are 4.2 km long; plan time if you want to complete the full loop.",
+          "Buy a combined ticket for the Cathedral and the museum to save money.",
+          "Try the water from the public fountains, it is fresh and drinkable."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mura di Lucca (Rundfahrt)",
+            "hu": "Lucca városfala (körbetekerés)",
+            "ro": "Zidurile din Lucca (circuit)",
+            "en": "Mura di Lucca (Full Loop)"
+          },
+          "coords": [
+            10.5,
+            43.84
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Radfahren auf der Stadtmauer ist das ultimative Lucca-Erlebnis.",
+            "hu": "A városfalon való biciklizés a legnépszerűbb helyi élmény.",
+            "ro": "Mersul pe bicicletă pe ziduri este experiența supremă în Lucca.",
+            "en": "Cycling on the city walls is the ultimate Lucca experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Pfanner",
+            "hu": "Palazzo Pfanner",
+            "ro": "Palatul Pfanner",
+            "en": "Palazzo Pfanner"
+          },
+          "coords": [
+            10.502,
+            43.845
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die prächtigen Barockgärten mit ihren antiken Statuen.",
+            "hu": "Látogassa meg a pompás barokk kerteket az antik szobrokkal.",
+            "ro": "Vizitați grădinile baroce superbe cu statui antice.",
+            "en": "Visit the magnificent Baroque gardens with ancient statues."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre delle Ore",
+            "hu": "Óratorony",
+            "ro": "Turnul Orelor",
+            "en": "Torre delle Ore"
+          },
+          "coords": [
+            10.503,
+            43.843
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Sehen Sie den Mechanismus der Uhr aus dem 18. Jahrhundert von innen.",
+            "hu": "Nézze meg belülről a 18. századi óraszerkezet működését.",
+            "ro": "Vedeți mecanismul ceasului din secolul al XVIII-lea din interior.",
+            "en": "See the mechanism of the 18th-century clock from the inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo di Palazzo Mansi",
+            "hu": "Palazzo Mansi Múzeum",
+            "ro": "Muzeul Palazzo Mansi",
+            "en": "Museo Nazionale di Palazzo Mansi"
+          },
+          "coords": [
+            10.5,
+            43.843
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein prächtiger Adelspalast mit einer bedeutenden Pinakothek.",
+            "hu": "Pompás nemesi palota jelentős képtárral.",
+            "ro": "Un palat nobiliar splendid cu o pinacotecă importantă.",
+            "en": "A magnificent noble palace with an important picture gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Orto Botanico",
+            "hu": "Botanikus kert",
+            "ro": "Grădina Botanică",
+            "en": "Orto Botanico"
+          },
+          "coords": [
+            10.511,
+            43.84
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad draußen ab und genießen Sie die Stille.",
+            "hu": "Parkolja le a biciklit kívül, és élvezze a csendet.",
+            "ro": "Parcați bicicleta afară și bucurați-vă de liniște.",
+            "en": "Park your bike outside and enjoy the silence."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Lucca auf zwei Rädern! Beginnen Sie mit einer kompletten Runde auf der 4 km langen Stadtmauer, um sich einen Überblick zu verschaffen. Danach radeln Sie zum Palazzo Pfanner und erkunden seine berühmten Gärten.\n\nNachmittags geht es durch die Gassen zum Uhrturm und dem luxuriösen Palazzo Mansi, bevor Sie die Tour am Rande des Botanischen Gartens beenden.",
+        "hu": "Fedezze fel Luccát két keréken! Kezdje a napot a 4 km-es városfal teljes körbetekerésével. Ezután látogasson el a Palazzo Pfannerbe, és fedezze fel híres kertjeit.\n\nDélután tekerjen át a szűk utcákon az Óratoronyhoz és a fényűző Palazzo Mansi-hoz, majd fejezze be a túrát a Botanikus kertnél.",
+        "ro": "Descoperiți Lucca pe două roți! Începeți cu un circuit complet pe zidurile de 4 km pentru o vedere de ansamblu. Apoi, pedalați spre Palazzo Pfanner și explorați grădinile sale celebre.\n\nDupă-amiaza, treceți prin străduțe spre Turnul Orelor și luxosul Palazzo Mansi, înainte de a încheia turul lângă Grădina Botanică.",
+        "en": "Explore Lucca on two wheels! Start with a full loop on the 4 km long city walls for a grand overview. Then, cycle to Palazzo Pfanner and explore its famous gardens.\n\nIn the afternoon, head through the alleys to the Clock Tower and the luxurious Palazzo Mansi, ending your tour at the edge of the Botanical Garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gigi Trattoria",
+            "tip": "Herzhafte toskanische Küche in der Nähe der Mauer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gigi Trattoria",
+            "tip": "Kiadós toszkán konyha a városfal közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gigi Trattoria",
+            "tip": "Bucătărie toscană consistentă lângă zid."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gigi Trattoria",
+            "tip": "Hearty Tuscan cuisine near the walls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Baluardo San Salvatore",
+            "tip": "Ein schattiger Platz auf der Mauer.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baluardo San Salvatore",
+            "tip": "Árnyas pihenőhely a városfalon.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baluardo San Salvatore",
+            "tip": "Un loc umbros pe zid.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Baluardo San Salvatore",
+            "tip": "A shaded spot on the wall.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cicli Bizzarri",
+            "tip": "Fahrradverleih und lokales Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cicli Bizzarri",
+            "tip": "Biciklikölcsönző és helyi kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cicli Bizzarri",
+            "tip": "Închirieri biciclete și accesorii locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cicli Bizzarri",
+            "tip": "Bike rentals and local accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad direkt an den Mauern (z.B. bei Porta Santa Maria).",
+          "Achten Sie auf Fußgänger auf der Stadtmauer.",
+          "In den engen Gassen der Altstadt herrscht reger Fahrradverkehr, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Béreljen biciklit közvetlenül a falaknál (pl. Porta Santa Maria).",
+          "Figyeljen a gyalogosokra a városfalon.",
+          "Az óváros szűk utcáiban élénk a kerékpáros forgalom, tekerjen óvatosan."
+        ],
+        "ro": [
+          "Închiriați o bicicletă direct de lângă ziduri (ex. Porta Santa Maria).",
+          "Atenție la pietonii de pe ziduri.",
+          "În străduțele înguste din centrul vechi este trafic intens de biciclete, pedalați cu atenție."
+        ],
+        "en": [
+          "Rent a bike directly at the walls (e.g., at Porta Santa Maria).",
+          "Watch out for pedestrians on the city walls.",
+          "Cycling traffic is heavy in the narrow alleys, ride carefully."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parcheggio Carducci (Lucca)",
+            "hu": "Carducci parkoló (Lucca)",
+            "ro": "Parcare Carducci (Lucca)",
+            "en": "Carducci Parking (Lucca)"
+          },
+          "coords": [
+            10.5,
+            43.838
+          ],
+          "category": "old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bester Parkplatz außerhalb der ZTL-Zone.",
+            "hu": "A legjobb parkolóhely a behajtási tilalmon kívül.",
+            "ro": "Cea mai bună parcare în afara zonei ZTL.",
+            "en": "Best parking spot outside the ZTL restricted zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza dell'Anfiteatro",
+            "hu": "Piazza dell'Anfiteatro",
+            "ro": "Piazza dell'Anfiteatro",
+            "en": "Piazza dell'Anfiteatro"
+          },
+          "coords": [
+            10.506,
+            43.845
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Gehen Sie vom Parkplatz zu Fuß in das historische Zentrum.",
+            "hu": "Sétáljon be a parkolóból a történelmi központba.",
+            "ro": "Mergeți pe jos din parcare până în centrul istoric.",
+            "en": "Walk from the parking lot into the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Reale di Marlia",
+            "hu": "Villa Reale di Marlia",
+            "ro": "Villa Reale di Marlia",
+            "en": "Villa Reale di Marlia"
+          },
+          "coords": [
+            10.556,
+            43.899
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Ein prächtiges Anwesen kurz außerhalb von Lucca mit spektakulären Gärten.",
+            "hu": "Pompás birtok Lucca mellett, látványos kertekkel.",
+            "ro": "O proprietate splendidă lângă Lucca, cu grădini spectaculoase.",
+            "en": "A magnificent estate just outside Lucca with spectacular gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Guinigi",
+            "hu": "Guinigi-torony",
+            "ro": "Turnul Guinigi",
+            "en": "Torre Guinigi"
+          },
+          "coords": [
+            10.506,
+            43.843
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Kehren Sie für ein letztes Panorama in die Stadt zurück.",
+            "hu": "Térjen vissza a városba egy utolsó panorámáért.",
+            "ro": "Reveniți în oraș pentru o ultimă panoramă.",
+            "en": "Return to the city for a final panoramic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie sowohl Lucca als auch seine Umgebung. Nach dem Parken am Rande der Altstadt besuchen Sie den Amphitheater-Platz.\n\nMittags fahren Sie zur beeindruckenden Villa Reale di Marlia, bevor Sie für den Sonnenuntergang auf den Guinigi-Turm zurückkehren.",
+        "hu": "Autóval Luccát és környékét is felfedezheti. Az óváros szélén való parkolás után látogasson el az Amfiteátrum térre.\n\nDélben autózzon ki a lenyűgöző Villa Reale di Marlia birtokra, majd térjen vissza Luccába a Guinigi-torony panorámájáért.",
+        "ro": "Cu mașina puteți explora atât Lucca, cât și împrejurimile sale. După parcarea la marginea centrului vechi, vizitați Piața Amfiteatru.\n\nLa prânz, conduceți până la impresionanta Villa Reale di Marlia, apoi reveniți în Lucca pentru panorama din Turnul Guinigi.",
+        "en": "With a car, you can explore both Lucca and its surroundings. After parking on the edge of the old town, visit the Amphitheatre Square.\n\nAt midday, drive to the impressive Villa Reale di Marlia, before returning to Lucca for the views from the Guinigi Tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Antica Locanda di Sesto",
+            "tip": "Hervorragendes Fleischgericht außerhalb der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antica Locanda di Sesto",
+            "tip": "Kiváló húsételek a városon kívül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Antica Locanda di Sesto",
+            "tip": "Preparate din carne excelente în afara orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antica Locanda di Sesto",
+            "tip": "Excellent meat dishes located outside the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Specola di Lucca",
+            "tip": "Ein ruhiger Hügel außerhalb für die Aussicht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Specola di Lucca",
+            "tip": "Csendes domb Lucca felett a kilátásért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Specola di Lucca",
+            "tip": "Un deal liniștit în afara orașului pentru vedere.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Specola di Lucca",
+            "tip": "A quiet hill outside for the views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Esselunga",
+            "tip": "Großer Supermarkt für lokale Delikatessen zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Esselunga",
+            "tip": "Nagy szupermarket helyi finomságok beszerzéséhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Esselunga",
+            "tip": "Supermarket mare pentru delicatese locale la pachet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Esselunga",
+            "tip": "Large supermarket for local delicacies to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie niemals in die ZTL (begrenzte Verkehrszone) innerhalb der Mauern.",
+          "Parken Sie auf den blauen Linien (gebührenpflichtig) oder weißen Linien (kostenlos).",
+          "Die Straßen rund um die Mauern können zur Stoßzeit überlastet sein."
+        ],
+        "hu": [
+          "Soha ne hajtson be a falakon belüli korlátozott övezetbe (ZTL).",
+          "Parkoljon kék vonallal jelzett (fizetős) vagy fehér (ingyenes) helyen.",
+          "A falak körüli utak csúcsidőben zsúfoltak lehetnek."
+        ],
+        "ro": [
+          "Nu intrați niciodată în ZTL (zona cu trafic limitat) din interiorul zidurilor.",
+          "Parcați pe liniile albastre (cu plată) sau albe (gratis).",
+          "Drumurile din jurul zidurilor pot fi aglomerate la orele de vârf."
+        ],
+        "en": [
+          "Never drive into the ZTL (restricted zone) inside the walls.",
+          "Park in blue lines (paid) or white lines (free) spots.",
+          "The ring road around the walls can be busy during rush hour."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Lucca",
+            "hu": "Lucca vasútállomás",
+            "ro": "Gara Lucca",
+            "en": "Lucca Railway Station"
+          },
+          "coords": [
+            10.506,
+            43.837
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der perfekte Startpunkt für Reisende ohne Auto.",
+            "hu": "Tökéletes kiindulópont az autó nélkül érkezőknek.",
+            "ro": "Punctul de plecare perfect pentru cei fără mașină.",
+            "en": "The perfect starting point for travelers without a car."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di San Martino",
+            "hu": "San Martino-székesegyház",
+            "ro": "Domul San Martino",
+            "en": "Duomo di San Martino"
+          },
+          "coords": [
+            10.506,
+            43.84
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten vom Bahnhof entfernt.",
+            "hu": "Csak pár perc séta a vasútállomástól.",
+            "ro": "La doar câteva minute de mers pe jos de gară.",
+            "en": "Just a few minutes' walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Michele in Foro",
+            "hu": "San Michele in Foro templom",
+            "ro": "Biserica San Michele in Foro",
+            "en": "Chiesa di San Michele in Foro"
+          },
+          "coords": [
+            10.502,
+            43.843
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt, erreichbar mit dem kleinen Elektrobus.",
+            "hu": "A város szíve, elérhető a kis elektromos busszal.",
+            "ro": "Inima orașului, accesibilă cu micul autobuz electric.",
+            "en": "The heart of the city, accessible by the small electric bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo di Palazzo Mansi",
+            "hu": "Palazzo Mansi Múzeum",
+            "ro": "Muzeul Palazzo Mansi",
+            "en": "Museo Nazionale di Palazzo Mansi"
+          },
+          "coords": [
+            10.5,
+            43.843
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Shuttle-Bus 'Linea LAM Rossa' für den Transfer.",
+            "hu": "Használja a 'Linea LAM Rossa' buszjáratot a közlekedéshez.",
+            "ro": "Folosiți autobuzul 'Linea LAM Rossa' pentru transfer.",
+            "en": "Use the 'Linea LAM Rossa' shuttle bus for transfer."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Pfanner",
+            "hu": "Palazzo Pfanner",
+            "ro": "Palatul Pfanner",
+            "en": "Palazzo Pfanner"
+          },
+          "coords": [
+            10.502,
+            43.845
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss vor der Rückkehr zum Bahnhof.",
+            "hu": "Szép befejezés a vasútállomásra való visszatérés előtt.",
+            "ro": "Un final frumos înainte de revenirea la gară.",
+            "en": "A beautiful conclusion before returning to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vom Bahnhof Lucca aus erreichen Sie bequem die wichtigsten Sehenswürdigkeiten. Beginnen Sie mit dem Dom und arbeiten Sie sich mit den kleinen Elektrobussen ('Navette') durch die Altstadt.\n\nMittags besuchen Sie San Michele und nachmittags den Palazzo Mansi, bevor Sie den Tag im Palazzo Pfanner krönen.",
+        "hu": "A luccai vasútállomásról indulva kényelmesen elérheti a főbb látnivalókat. Kezdje a dóm látogatásával, majd a kis elektromos buszokkal ('navette') közlekedjen az óvárosban.\n\nDélben keresse fel a San Michele templomot, délután pedig a Palazzo Mansi-t, mielőtt a Palazzo Pfannerben zárná a napot.",
+        "ro": "Pornind de la gara din Lucca, puteți ajunge ușor la principalele atracții. Începeți cu Domul, apoi folosiți micile autobuze electrice ('navette') pentru a traversa centrul vechi.\n\nLa prânz vizitați San Michele, iar după-amiaza Palazzo Mansi, înainte de a încheia ziua la Palazzo Pfanner.",
+        "en": "Starting from Lucca station, you can easily reach the main sights. Begin with the Cathedral, then use the small electric buses ('navette') to navigate the old town.\n\nAt midday visit San Michele, and in the afternoon Palazzo Mansi, before crowning the day at Palazzo Pfanner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trattoria Da Leo",
+            "tip": "Traditionelles Mittagessen in der Nähe von San Michele."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trattoria Da Leo",
+            "tip": "Hagyományos ebéd a San Michele közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trattoria Da Leo",
+            "tip": "Prânz tradițional în apropiere de San Michele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trattoria Da Leo",
+            "tip": "Traditional lunch near San Michele."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chiostro di San Francesco",
+            "tip": "Ein ruhiger Kreuzgang abseits der Massen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chiostro di San Francesco",
+            "tip": "Csendes kolostorkert a tömegtől távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chiostro di San Francesco",
+            "tip": "O mănăstire liniștită departe de mulțime.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chiostro di San Francesco",
+            "tip": "A quiet cloister away from the crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Enoteca Vanni",
+            "tip": "Hervorragende Auswahl an toskanischen Weinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Enoteca Vanni",
+            "tip": "Kiváló válogatás toszkán borokból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Enoteca Vanni",
+            "tip": "O selecție excelentă de vinuri toscane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Enoteca Vanni",
+            "tip": "Excellent selection of Tuscan wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets ('biglietti') in Tabakläden oder am Kiosk.",
+          "Die 'Navette' sind kleine Elektrobusse, die perfekt in die engen Gassen passen.",
+          "Die Züge nach Pisa und Florenz verkehren regelmäßig."
+        ],
+        "hu": [
+          "Vásároljon buszjegyet trafikokban ('tabacchi') vagy újságosnál.",
+          "A 'navette' kis elektromos buszok, amelyek beférnek a szűk utcákba.",
+          "A Pisa és Firenze felé tartó vonatok rendszeresen járnak."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz de la tutungerii ('tabacchi') sau chioșcuri.",
+          "Microbuzele 'navette' sunt electrice și încap perfect pe străduțele înguste.",
+          "Trenurile spre Pisa și Florența circulă regulat."
+        ],
+        "en": [
+          "Buy bus tickets at tobacco shops ('tabacchi') or kiosks.",
+          "The 'navette' are small electric buses that fit perfectly in narrow alleys.",
+          "Trains to Pisa and Florence run frequently."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "city": "Lucca",
+    "region": "IT-52",
+    "coords": [
+      10.505,
+      43.843
+    ],
+    "transit_official": "https://www.atautolinee.it/",
+    "transit_app": null,
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.comune.lucca.it/eventi",
+    "tourism_office": "https://www.visittuscany.com/en/destinations/lucca/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/toscana/lucca/piazza-anfiteatro.html",
+    "restaurants_booking": "https://www.thefork.com/restaurants/lucca-c561362",
+    "museum_tickets": "https://www.luccamuseinazionali.it/",
+    "parking_real_time": "https://www.metrolucca.it/",
+    "language_tips": {
+      "de": "Englisch wird in touristischen Bereichen gut gesprochen, einige Worte Italienisch helfen.",
+      "hu": "A turistakorzetekben jol beszelnek angolul, par olasz szo segit.",
+      "ro": "Engleza este vorbita in zonele turistice, cateva cuvinte in italiana ajuta.",
+      "en": "English spoken well in tourist areas; a few Italian words go a long way."
+    },
+    "best_time": {
+      "de": "April-Juni und September; Stadtmauer am schoensten im Herbst.",
+      "hu": "Aprilis-junius es szeptember; a varosfal osszel a legszebb.",
+      "ro": "Aprilie-iunie si septembrie; zidul orasului cel mai frumos toamna.",
+      "en": "April-June and September; city walls most beautiful in autumn."
+    },
+    "warnings": {
+      "de": "Auto bleibt ausserhalb der Mauern, Innenstadt ZTL. Fahrrad nur auf der Mauer erlaubt.",
+      "hu": "Az autot a falakon kivul kell hagyni, belvaros ZTL. Bicikli csak a falon engedelyezett.",
+      "ro": "Masina ramane in afara zidurilor, centrul este ZTL. Bicicleta doar pe zid.",
+      "en": "Cars stay outside walls, ZTL in old town. Cycling only allowed on the walls."
+    }
+  }
+}

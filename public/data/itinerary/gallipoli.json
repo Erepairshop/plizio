@@ -1,0 +1,903 @@
+{
+  "city_id": "gallipoli",
+  "anchor": {
+    "name": "Gallipoli",
+    "coords": [
+      17.9931,
+      40.0556
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 2.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Griechischer Brunnen",
+            "hu": "Görög kút",
+            "ro": "Fântâna Greacă",
+            "en": "Greek Fountain"
+          },
+          "coords": [
+            17.9962,
+            40.0574
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ältester Brunnen Italiens am Eingang zur Altstadt.",
+            "hu": "Olaszország egyik legrégebbi kútja az óváros kapujában.",
+            "ro": "Cea mai veche fântână din Italia, la intrarea în oraș.",
+            "en": "One of the oldest fountains in Italy at the old town entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Angioino",
+            "hu": "Angioino vár",
+            "ro": "Castelul Angioino",
+            "en": "Castello Angioino"
+          },
+          "coords": [
+            17.9948,
+            40.0562
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die runden Türme für einen Blick auf den Hafen.",
+            "hu": "Látogasson el a kerek tornyokba a kikötői kilátásért.",
+            "ro": "Vizitați turnurile rotunde pentru o vedere asupra portului.",
+            "en": "Visit the round towers for a view over the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Zentrum",
+            "hu": "Óváros (Centro Storico)",
+            "ro": "Centrul Istoric",
+            "en": "Old Town (Centro Storico)"
+          },
+          "coords": [
+            17.9915,
+            40.0565
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den verwinkelten Kalkstein-Gassen.",
+            "hu": "Vesszen el a kanyargós mészkő sikátorokban.",
+            "ro": "Pierdeți-vă pe străduțele întortocheate de calcar.",
+            "en": "Get lost in the winding limestone alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Sant'Agata",
+            "hu": "Szent Ágota-székesegyház",
+            "ro": "Catedrala Sfânta Agata",
+            "en": "Cattedrale di Sant'Agata"
+          },
+          "coords": [
+            17.9926,
+            40.0558
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die reiche Barockfassade aus Lecce-Stein.",
+            "hu": "Csodálja meg a gazdag barokk homlokzatot leccsei kőből.",
+            "ro": "Admirați fațada barocă bogată din piatră de Lecce.",
+            "en": "Admire the rich Baroque facade made of Lecce stone."
+          }
+        },
+        {
+          "name": {
+            "de": "Unterirdische Ölmühle Granafei",
+            "hu": "Granafei földalatti olajmalom",
+            "ro": "Presa de ulei subterană Granafei",
+            "en": "Granafei Underground Oil Mill"
+          },
+          "coords": [
+            17.9912,
+            40.056
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte der Olivenölproduktion.",
+            "hu": "Fedezze fel az olívaolaj-termelés rejtett történetét.",
+            "ro": "Descoperiți istoria producției de ulei de măsline.",
+            "en": "Discover the history of olive oil production underground."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Francesco d'Assisi",
+            "hu": "Assisi Szent Ferenc-templom",
+            "ro": "Biserica Sfântul Francisc",
+            "en": "Church of San Francesco d'Assisi"
+          },
+          "coords": [
+            17.9895,
+            40.0552
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine schlichte Kirche mit Blick auf das Meer.",
+            "hu": "Egyszerű templom közvetlenül a tengerparti sétányon.",
+            "ro": "O biserică simplă cu vedere spre mare.",
+            "en": "A simple church overlooking the sea walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand della Purità",
+            "hu": "Purità strand",
+            "ro": "Plaja della Purità",
+            "en": "Spiaggia della Purità"
+          },
+          "coords": [
+            17.9888,
+            40.0555
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für einen Sprung ins Wasser vor dem Sonnenuntergang.",
+            "hu": "Tökéletes hely egy csobbanáshoz naplemente előtt.",
+            "ro": "Locul perfect pentru o baie înainte de apus.",
+            "en": "The perfect spot for a dip before sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Griechischen Brunnen, bevor Sie die massive Festung Angioino erkunden. Der Vormittag gehört den verwinkelten Gassen der Altstadt-Insel.\n\nMittags tauchen Sie in die barocke Pracht der Kathedrale ein und entdecken die industriellen Wurzeln in der unterirdischen Ölmühle. Genießen Sie frische Meeresfrüchte am Hafen.\n\nDer Nachmittag führt Sie entlang der Stadtmauern zur Kirche San Francesco, wo die Stille des Meeres auf Geschichte trifft.\n\nBeenden Sie den Tag entspannt am Purità-Strand, dem goldenen Herz von Gallipoli, während die Sonne im Ionischen Meer versinkt.",
+        "hu": "Kezdje a napot a Görög kútnál, majd fedezze fel az Angioino vár monumentális falait. A délelőtt az óvárosi sziget kanyargós mészkő sikátoraié.\n\nDélben merüljön el a székesegyház barokk díszítéseiben, és ismerje meg az olajtermelés múltját a földalatti malomban. Kóstolja meg a kikötő friss halait.\n\nDélután a várfalak mentén sétáljon el a Szent Ferenc-templomig, ahol a tenger moraja kíséri a történelmet.\n\nA napot zárja a Purità strand arany homokján, élvezve a naplementét az Ión-tenger felett.",
+        "ro": "Începeți ziua la Fântâna Greacă, apoi explorați masivul Castel Angioino. Dimineața aparține străduțelor întortocheate de pe insula centrului istoric.\n\nLa prânz, admirați splendoarea barocă a catedralei și descoperiți rădăcinile industriale în presa de ulei subterană. Savurați fructe de mare proaspete în port.\n\nDupă-amiaza vă poartă de-a lungul zidurilor cetății către biserica San Francesco, unde liniștea mării se întâlnește cu istoria.\n\nÎncheiați ziua relaxându-vă pe plaja della Purità, inima de aur a Gallipoli, în timp ce soarele apune în Marea Ionică.",
+        "en": "Start your day at the Greek Fountain before exploring the massive Angioino Castle. Spend your morning wandering the winding limestone alleys of the island old town.\n\nAt midday, immerse yourself in the Baroque splendor of the Cathedral and discover industrial roots in the underground oil mill. Enjoy fresh seafood at the harbor.\n\nIn the afternoon, walk along the city walls to the Church of San Francesco, where the silence of the sea meets history.\n\nEnd your day relaxing at Purità Beach, the golden heart of Gallipoli, as the sun sets into the Ionian Sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Scapece Gallipolina",
+            "tip": "Frittierter Fisch mit Safran und Paniermehl."
+          },
+          {
+            "name": "La Puritate",
+            "tip": "Exzellente Meeresfrüchte direkt an der Stadtmauer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Scapece Gallipolina",
+            "tip": "Sáfrányos, ecetes rántott hal, helyi specialitás."
+          },
+          {
+            "name": "Trattoria La Puritate",
+            "tip": "Kiváló tengeri ételek az óváros szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scapece Gallipolina",
+            "tip": "Pește prăjit cu șofran și pesmet, o rețetă veche."
+          },
+          {
+            "name": "La Puritate",
+            "tip": "Fructe de mare excelente chiar lângă zidurile orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Scapece Gallipolina",
+            "tip": "Fried fish with saffron and breadcrumbs, a local classic."
+          },
+          {
+            "name": "La Puritate",
+            "tip": "Excellent seafood restaurant right by the sea walls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Riviera Nazario Sauro",
+            "tip": "Panoramablick auf das Meer beim Gehen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Riviera Nazario Sauro",
+            "tip": "Panorámás sétány az óváros fala mentén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Riviera Nazario Sauro",
+            "tip": "Vedere panoramică asupra mării în timpul plimbării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riviera Nazario Sauro",
+            "tip": "Panoramic sea views while walking the outer walls.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Antonietta de Pace",
+            "tip": "Lokale Kunsthandwerke und Korallenschmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Antonietta de Pace",
+            "tip": "Helyi kézműves termékek és korall ékszerek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Antonietta de Pace",
+            "tip": "Artizanat local și bijuterii din corali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Antonietta de Pace",
+            "tip": "Main shopping street for local crafts and coral jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Besuchen Sie die Fischmarktauktion am frühen Nachmittag.",
+          "Die Altstadt ist eine verkehrsberuhigte Zone."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Nézze meg a halpiacot kora délután a kikötőben.",
+          "Az óváros autómentes övezet."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite.",
+          "Vizitați piața de pește după-amiaza devreme.",
+          "Centrul vechi este zonă cu trafic limitat."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Check out the fish market auction in the early afternoon.",
+          "The old town is a limited traffic zone."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ponte Seicentesco",
+            "hu": "XVII. századi híd",
+            "ro": "Podul din secolul XVII",
+            "en": "17th Century Bridge"
+          },
+          "coords": [
+            17.9955,
+            40.057
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der historische Zugang zur Inselstadt.",
+            "hu": "Az óvárosi sziget történelmi bejárata.",
+            "ro": "Accesul istoric către orașul insulă.",
+            "en": "The historical gateway to the island city."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario Maria del Canneto",
+            "hu": "Maria del Canneto szentély",
+            "ro": "Sanctuarul Maria del Canneto",
+            "en": "Santuario di Santa Maria del Canneto"
+          },
+          "coords": [
+            17.9965,
+            40.0578
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Barockkirche direkt am alten Hafen.",
+            "hu": "Barokk templom közvetlenül a régi kikötőnél.",
+            "ro": "Biserică barocă chiar lângă portul vechi.",
+            "en": "Baroque church located right by the old harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Angioino",
+            "hu": "Angioino vár",
+            "ro": "Castelul Angioino",
+            "en": "Castello Angioino"
+          },
+          "coords": [
+            17.9948,
+            40.0562
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Großartige Aussichtspunkte von den Wällen.",
+            "hu": "Nagyszerű kilátóhelyek a várfalakon.",
+            "ro": "Puncte de observație superbe de pe ziduri.",
+            "en": "Great viewpoints from the ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare Galileo Galilei",
+            "hu": "Galileo Galilei sétány",
+            "ro": "Faleza Galileo Galilei",
+            "en": "Lungomare Galileo Galilei"
+          },
+          "coords": [
+            18.002,
+            40.05
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine flache Küstenstraße, ideal zum Radfahren.",
+            "hu": "Lapos tengerparti út, ideális kerékpározáshoz.",
+            "ro": "O șosea de coastă plană, ideală pentru biciclete.",
+            "en": "A flat coastal road perfect for cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Baia Verde Beach",
+            "hu": "Baia Verde strand",
+            "ro": "Plaja Baia Verde",
+            "en": "Baia Verde Beach"
+          },
+          "coords": [
+            18.015,
+            40.035
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Weißer Sand und kristallklares Wasser südlich der Stadt.",
+            "hu": "Fehér homok és kristálytiszta víz a várostól délre.",
+            "ro": "Nisip alb și ape cristaline la sud de oraș.",
+            "en": "White sand and crystal clear waters south of town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Überqueren Sie die Brücke und starten Sie am Canneto-Heiligtum. Mit dem Fahrrad geht es weiter zum Schloss Angioino, bevor Sie die Altstadt verlassen.\n\nFahren Sie entlang der Lungomare Galileo Galilei nach Süden. Die flache Strecke bietet ständigen Meerblick und frische Brisen.\n\nDer Nachmittag gehört dem Strand von Baia Verde. Hier können Sie die Sonne genießen und im flachen Wasser schwimmen.\n\nKehren Sie bei Sonnenuntergang gemütlich in die Stadt zurück und parken Sie Ihr Rad für ein Abendessen im Hafen.",
+        "hu": "Hajtson át a hídon, és kezdjen a Canneto szentélynél. Kerékpárral folytassa az Angioino várhoz, mielőtt elhagyná a sziget óvárosát.\n\nTekerjen dél felé a Galileo Galilei sétányon. A lapos útvonal folyamatos tengeri kilátást és friss szellőt kínál.\n\nA délután a Baia Verde strandé. Itt élvezheti a napsütést és a sekély, tiszta vizet.\n\nNaplementekor tekerjen vissza a városba, és tegye le a bringát egy kellemes kikötői vacsorához.",
+        "ro": "Traversați podul și începeți la Sanctuarul Canneto. Cu bicicleta, continuați spre Castelul Angioino înainte de a părăsi centrul vechi.\n\nPedalați spre sud pe faleza Galileo Galilei. Traseul plan oferă vedere constantă la mare și o briză răcoroasă.\n\nDupă-amiaza este dedicată plajei Baia Verde. Aici vă puteți bucura de soare și de apele puțin adânci.\n\nReveniți relaxat în oraș la apus și lăsați bicicleta pentru o cină în zona portului.",
+        "en": "Cross the bridge and start at the Canneto Sanctuary. Continue by bike to the Angioino Castle before leaving the island district.\n\nRide south along the Lungomare Galileo Galilei. The flat route offers constant sea views and fresh breezes.\n\nSpend your afternoon at Baia Verde beach. Here you can enjoy the sun and swim in the shallow, clear waters.\n\nReturn leisurely to town at sunset and park your bike for a nice dinner at the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Puccia Salentina",
+            "tip": "Gefülltes Brot mit Oliven und Gemüse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Puccia Salentina",
+            "tip": "Helyi szendvics olívabogyóval és zöldségekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puccia Salentina",
+            "tip": "Pâine umplută cu măsline și legume."
+          }
+        ],
+        "en": [
+          {
+            "name": "Puccia Salentina",
+            "tip": "Local bread stuffed with olives and vegetables."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Torre del Pizzo",
+            "tip": "Ruhiges Naturschutzgebiet im Süden.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torre del Pizzo",
+            "tip": "Csendes természetvédelmi terület délen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torre del Pizzo",
+            "tip": "Rezervație naturală liniștită la sud.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Torre del Pizzo",
+            "tip": "Quiet nature reserve further south.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato Ittico",
+            "tip": "Frischer Fisch direkt vom Kutter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercato Ittico",
+            "tip": "Friss halak közvetlenül a halászoktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercato Ittico",
+            "tip": "Pește proaspăt direct de pe bărci."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercato Ittico",
+            "tip": "Fresh fish market right at the harbor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in der Nähe des Bahnhofs.",
+          "Vermeiden Sie die heißesten Stunden zwischen 13 und 15 Uhr.",
+          "Achten Sie auf den Verkehr auf der Hauptpromenade."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a vasútállomás közelében.",
+          "Kerülje a legforróbb órákat 13 és 15 óra között.",
+          "Figyeljen a forgalomra a fő sétányon."
+        ],
+        "ro": [
+          "Închiriați o bicicletă lângă gară.",
+          "Evitați orele cele mai fierbinți între 13 și 15.",
+          "Atenție la trafic pe faleza principală."
+        ],
+        "en": [
+          "Rent a bike near the train station.",
+          "Avoid the hottest hours between 1 PM and 3 PM.",
+          "Watch out for traffic on the main promenade."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 25.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello Angioino",
+            "hu": "Angioino vár",
+            "ro": "Castelul Angioino",
+            "en": "Castello Angioino"
+          },
+          "coords": [
+            17.9948,
+            40.0562
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Hafenparkplatz.",
+            "hu": "Parkoljon a kikötői parkolóban.",
+            "ro": "Parcați în parcarea din port.",
+            "en": "Park at the harbor parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Sant'Agata",
+            "hu": "Szent Ágota-székesegyház",
+            "ro": "Catedrala Sfânta Agata",
+            "en": "Cattedrale di Sant'Agata"
+          },
+          "coords": [
+            17.9926,
+            40.0558
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Hafen in die Altstadt.",
+            "hu": "Rövid séta a kikötőtől az óvárosba.",
+            "ro": "Scurtă plimbare din port în centrul vechi.",
+            "en": "Short walk from the harbor into the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta della Suina",
+            "hu": "Punta della Suina",
+            "ro": "Punta della Suina",
+            "en": "Punta della Suina"
+          },
+          "coords": [
+            18.016,
+            40.005
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Karibik-Feeling im Salento.",
+            "hu": "Karibi hangulat a Salento-félszigeten.",
+            "ro": "Atmosferă de Caraibe în Salento.",
+            "en": "Caribbean vibes in the Salento region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die Außenbezirke und die besten Strände der Region.",
+        "hu": "Autóval kényelmesen elérheti a környék legjobb strandjait és külső részeit.",
+        "ro": "Cu mașina ajungeți ușor la periferie și la cele mai bune plaje din regiune.",
+        "en": "By car, you can easily reach the outskirts and the best beaches in the region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Angolo del Pesce",
+            "tip": "Frischer Fisch am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Angolo del Pesce",
+            "tip": "Friss halak a kikötőnél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Angolo del Pesce",
+            "tip": "Pește proaspăt în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Angolo del Pesce",
+            "tip": "Fresh fish near the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Porto Selvaggio",
+            "tip": "Naturbelassene Bucht nördlich.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Porto Selvaggio",
+            "tip": "Természetes öböl északra.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Porto Selvaggio",
+            "tip": "Golf natural la nord.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Porto Selvaggio",
+            "tip": "Natural bay to the north.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gallipoli Keramik",
+            "tip": "Traditionelle Tonwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gallipoli kerámia",
+            "tip": "Hagyományos agyagedények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică Gallipoli",
+            "tip": "Obiecte tradiționale din lut."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gallipoli Ceramics",
+            "tip": "Traditional pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Altstadt ist fast unmöglich.",
+          "Nutzen Sie den großen Parkplatz am Parcheggio Porto."
+        ],
+        "hu": [
+          "Az óvárosban szinte lehetetlen parkolni.",
+          "Használja a kikötői nagy parkolót."
+        ],
+        "ro": [
+          "Parcarea în centrul vechi este aproape imposibilă.",
+          "Folosiți parcarea mare din port."
+        ],
+        "en": [
+          "Parking in the old town is almost impossible.",
+          "Use the large parking lot at Parcheggio Porto."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Gallipoli",
+            "hu": "Gallipoli vasútállomás",
+            "ro": "Gara Gallipoli",
+            "en": "Gallipoli Train Station"
+          },
+          "coords": [
+            18.0005,
+            40.0565
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tor zur Stadt für Zugreisende.",
+            "hu": "A város kapuja a vonattal érkezőknek.",
+            "ro": "Poarta de intrare pentru cei care vin cu trenul.",
+            "en": "Gateway to the city for train travelers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Zug 'Ferrovie del Sud Est' für Ausflüge.",
+        "hu": "Használja a helyi érdekű vasutat a kirándulásokhoz.",
+        "ro": "Folosiți trenul local pentru excursii în zonă.",
+        "en": "Use the local train for excursions in the area."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasticceria Martinucci",
+            "tip": "Berühmtes Pasticciotto."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasticceria Martinucci",
+            "tip": "Híres helyi sütemény, a pasticciotto."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasticceria Martinucci",
+            "tip": "Celebrul desert local pasticciotto."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasticceria Martinucci",
+            "tip": "Famous local pastry, the pasticciotto."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bahndamm-Spaziergang",
+            "tip": "Ruhiger Weg entlang der Gleise.",
+            "emoji": "🚶"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vasút menti séta",
+            "tip": "Csendes út a sínek mentén.",
+            "emoji": "🚶"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe calea ferată",
+            "tip": "Drum liniștit pe lângă șine.",
+            "emoji": "🚶"
+          }
+        ],
+        "en": [
+          {
+            "name": "Railside Walk",
+            "tip": "Quiet path along the tracks.",
+            "emoji": "🚶"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Roma",
+            "tip": "Die moderne Einkaufsmeile."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Roma",
+            "tip": "A modern bevásárlóutca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Roma",
+            "tip": "Strada principală de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Roma",
+            "tip": "The modern shopping street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Züge sind im Sommer oft voll.",
+          "Kaufen Sie Fahrkarten im Voraus."
+        ],
+        "hu": [
+          "A vonatok nyáron gyakran zsúfoltak.",
+          "Vásárolja meg a jegyet előre."
+        ],
+        "ro": [
+          "Trenurile sunt adesea aglomerate vara.",
+          "Cumpărați biletele în avans."
+        ],
+        "en": [
+          "Trains are often crowded in summer.",
+          "Buy tickets in advance."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "_coords": [
+      17.9931,
+      40.0556
+    ],
+    "_region": "IT-75 Puglia",
+    "transit_official": null,
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Gallipoli",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.comune.gallipoli.le.it/vivere-il-comune/attivita/eventi-in-evidenza",
+    "tourism_office": "https://www.comune.gallipoli.le.it/vivere-il-comune/turismo/i-a-t-e-pro-loco",
+    "webcam": "https://www.skylinewebcams.com/it/webcam/italia/puglia/lecce/gallipoli.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/gallipoli-c561455",
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch ist Hauptsprache; im Salento auch grico (griechischer Dialekt). Englisch in Touristenzonen mäßig.",
+      "hu": "Olasz az elsődleges nyelv; Salentóban grico nyelvjárás. Angol turistazónákban közepesen elterjedt.",
+      "ro": "Italiana este principala; în Salento se vorbește și grico. Engleza acceptabilă în zonele turistice.",
+      "en": "Italian is primary; Salento dialect and grico (Greek) heard locally. English moderate in tourist areas."
+    },
+    "best_time": {
+      "de": "Mai–Juni und September für Strand ohne Massen; August überfüllt und teuer.",
+      "hu": "Május–június és szeptember a legjobb strandolásra; augusztus zsúfolt és drága.",
+      "ro": "Mai–iunie și septembrie ideale pentru plajă fără aglomerație; august aglomerat și scump.",
+      "en": "May–June and September best for beaches without crowds; August packed and pricey."
+    },
+    "warnings": {
+      "de": "Sommerverkehr in Altstadt chaotisch; ZTL beachten. Strände mit stabilimenti kostenpflichtig.",
+      "hu": "Nyári forgalom a régi városban káotikus; ZTL zóna! Strandok stabilimenti díjasak.",
+      "ro": "Trafic estival haotic în centrul vechi; atenție la ZTL. Plajele cu stabilimenti sunt cu plată.",
+      "en": "Summer traffic chaotic in old town; mind ZTL zone. Stabilimenti beaches charge entry."
+    }
+  }
+}

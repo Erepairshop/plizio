@@ -1,0 +1,1049 @@
+{
+  "city_id": "erice",
+  "anchor": {
+    "name": "Erice",
+    "coords": [
+      12.5847,
+      38.0397
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:50",
+      "total_km": 2.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Porta Trapani",
+            "hu": "Trapani-kapu",
+            "ro": "Poarta Trapani",
+            "en": "Porta Trapani"
+          },
+          "coords": [
+            12.581,
+            38.037
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Haupteingang zur mittelalterlichen Stadt.",
+            "hu": "A középkori város főbejárata.",
+            "ro": "Intrarea principală în orașul medieval.",
+            "en": "The main entrance to the medieval town."
+          }
+        },
+        {
+          "name": {
+            "de": "Real Duomo di Erice",
+            "hu": "Ericei dóm",
+            "ro": "Catedrala din Erice",
+            "en": "Real Duomo of Erice"
+          },
+          "coords": [
+            12.582,
+            38.0375
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Glockenturm für eine erste Aussicht.",
+            "hu": "Másszon fel a harangtoronyba az első kilátásért.",
+            "ro": "Urcați în turnul clopotniță pentru o primă vedere.",
+            "en": "Climb the bell tower for your first view."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Comunale Antonio Cordici",
+            "hu": "Cordici Múzeum",
+            "ro": "Muzeul Cordici",
+            "en": "Cordici Municipal Museum"
+          },
+          "coords": [
+            12.584,
+            38.0385
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Sehen Sie die Annunciazione von Antonello Gagini.",
+            "hu": "Nézze meg Antonello Gagini Angyali üdvözletét.",
+            "ro": "Vedeți Bunavestire de Antonello Gagini.",
+            "en": "See the Annunciation by Antonello Gagini."
+          }
+        },
+        {
+          "name": {
+            "de": "Maria Grammatico Pasticceria",
+            "hu": "Maria Grammatico cukrászda",
+            "ro": "Cofetăria Maria Grammatico",
+            "en": "Maria Grammatico Pastry"
+          },
+          "coords": [
+            12.5845,
+            38.0388
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Probieren Sie die Genovesi, das Gebäck der Stadt.",
+            "hu": "Kóstolja meg a Genovesit, a város híres édességét.",
+            "ro": "Încercați Genovesi, produsul de patiserie al orașului.",
+            "en": "Try the Genovesi, the signature local pastry."
+          }
+        },
+        {
+          "name": {
+            "de": "Quartiere Spagnolo",
+            "hu": "Spanyol negyed",
+            "ro": "Cartierul Spaniol",
+            "en": "Spanish Quarter"
+          },
+          "coords": [
+            12.586,
+            38.042
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Unvollendete Festung mit weitem Blick aufs Meer.",
+            "hu": "Befejezetlen erőd széles tengeri kilátással.",
+            "ro": "Fortăreață neterminată cu vedere largă spre mare.",
+            "en": "Unfinished fortress with wide sea views."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Venere",
+            "hu": "Vénusz-kastély",
+            "ro": "Castelul lui Venus",
+            "en": "Castle of Venus"
+          },
+          "coords": [
+            12.589,
+            38.037
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Auf den Ruinen eines antiken Tempels erbaut.",
+            "hu": "Egy ókori templom romjaira épült.",
+            "ro": "Construit pe ruinele unui templu antic.",
+            "en": "Built on the ruins of an ancient temple."
+          }
+        },
+        {
+          "name": {
+            "de": "Giardini del Balio",
+            "hu": "Balio kertek",
+            "ro": "Grădinile Balio",
+            "en": "Balio Gardens"
+          },
+          "coords": [
+            12.588,
+            38.0375
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie, wie die Sonne über Trapani untergeht.",
+            "hu": "Nézze meg, ahogy a nap lemegy Trapani felett.",
+            "ro": "Priviți cum soarele apune peste Trapani.",
+            "en": "Watch the sun set over Trapani."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Betreten Sie durch das Trapani-Tor eine andere Welt. Die kühlen, nebelverhangenen Gassen führen Sie zum majestätischen Dom und den Schätzen des Cordici-Museums. Nach einer süßen Pause mit Genovesi-Gebäck wandern Sie zum spanischen Viertel und schließlich zum Venus-Schloss, das dramatisch auf einem Felsen thront. Beenden Sie den Tag in den Balio-Gärten mit Blick auf die Ägadischen Inseln.",
+        "hu": "Lépjen be egy másik világba a Trapani-kapun keresztül. A hűvös, gyakran ködös utcák a fenséges dómhoz és a Cordici Múzeum kincseihez vezetnek. Egy édes szünet után – megkóstolva a Genovesi süteményt – sétáljon el a Spanyol negyedhez, majd a sziklán trónoló Vénusz-kastélyhoz. A napot a Balio-kertekben zárja, kilátással az Egadi-szigetekre.",
+        "ro": "Intrați într-o altă lume prin Poarta Trapani. Străzile răcoroase, adesea învăluite în ceață, vă duc spre catedrala maiestuoasă și comorile Muzeului Cordici. După o pauză dulce cu Genovesi, mergeți spre Cartierul Spaniol și, în final, spre Castelul lui Venus, cocoțat dramatic pe o stâncă. Încheiați ziua în Grădinile Balio cu vedere spre Insulele Egade.",
+        "en": "Enter another world through Porta Trapani. The cool, often misty streets lead you to the majestic cathedral and the treasures of the Cordici Museum. After a sweet break with Genovesi pastries, walk to the Spanish Quarter and finally to the Castle of Venus, perched dramatically on a rock. End the day in the Balio Gardens with views over the Aegadian Islands."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Genovesi Ericine",
+            "tip": "Warmes Gebäck gefüllt mit Vanillecreme."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Genovesi Ericine",
+            "tip": "Vaníliakrémmel töltött meleg sütemény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Genovesi Ericine",
+            "tip": "Produse de patiserie calde umplute cu cremă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Genovesi Ericine",
+            "tip": "Warm pastries filled with custard cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardini del Balio",
+            "tip": "Panoramablick und kühle Brise.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Balio kertek",
+            "tip": "Panorámás kilátás és hűvös szellő.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Balio",
+            "tip": "Vedere panoramică și briză răcoroasă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Balio Gardens",
+            "tip": "Panoramic views and cool breeze.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Erice Teppiche",
+            "tip": "Handgewebte, bunte traditionelle Teppiche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ericei szőnyegek",
+            "tip": "Kézzel szőtt, színes hagyományos szőnyegek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covoare de Erice",
+            "tip": "Covoare tradiționale colorate, țesute manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Erice Rugs",
+            "tip": "Hand-woven, colorful traditional rugs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie eine Jacke mit, es ist oft 5-10 Grad kühler als in Trapani.",
+          "Tragen Sie rutschfeste Schuhe für die glatten Steine.",
+          "Probieren Sie den Mandellikör der Region.",
+          "Besuchen Sie die Stadt am frühen Morgen, um den Nebel zu erleben."
+        ],
+        "hu": [
+          "Vigyen kabátot, gyakran 5-10 fokkal hűvösebb van, mint Trapaniban.",
+          "Viseljen csúszásmentes cipőt a simára kopott kövek miatt.",
+          "Kóstolja meg a helyi mandulalikőrt.",
+          "Látogassa meg a várost kora reggel a ködélményért."
+        ],
+        "ro": [
+          "Aduceți o jachetă, adesea sunt cu 5-10 grade mai puțin decât în Trapani.",
+          "Purtați încălțăminte aderentă pentru pietrele lucioase.",
+          "Încercați lichiorul de migdale al regiunii.",
+          "Vizitați orașul dimineața devreme pentru a experimenta ceața."
+        ],
+        "en": [
+          "Bring a jacket, it's often 5-10 degrees cooler than in Trapani.",
+          "Wear non-slip shoes for the smooth cobblestones.",
+          "Try the local almond liqueur.",
+          "Visit the town in the early morning to experience the mist."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mura Elimo-Puniche",
+            "hu": "Elimo-pun falak",
+            "ro": "Zidurile Elimo-Punice",
+            "en": "Elimo-Punic Walls"
+          },
+          "coords": [
+            12.5825,
+            38.039
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der antiken Stadtmauern.",
+            "hu": "Tekerjen végig az ősi városfalak mentén.",
+            "ro": "Pedalați de-a lungul zidurilor antice ale orașului.",
+            "en": "Cycle along the ancient city walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Trapani",
+            "hu": "Trapani-kapu",
+            "ro": "Poarta Trapani",
+            "en": "Porta Trapani"
+          },
+          "coords": [
+            12.581,
+            38.037
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad hier ab, um das Zentrum zu erkunden.",
+            "hu": "Itt tegye le a biciklit a központ felfedezéséhez.",
+            "ro": "Lăsați bicicleta aici pentru a explora centrul.",
+            "en": "Leave your bike here to explore the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Torretta Pepoli",
+            "hu": "Pepoli-torony",
+            "ro": "Torretta Pepoli",
+            "en": "Torretta Pepoli"
+          },
+          "coords": [
+            12.5895,
+            38.0365
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein Jugendstil-Juwel auf den Felsen.",
+            "hu": "Szecessziós ékszerdoboz a sziklákon.",
+            "ro": "O bijuterie Art Nouveau pe stânci.",
+            "en": "An Art Nouveau gem on the cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Venere",
+            "hu": "Vénusz-kastély",
+            "ro": "Castelul lui Venus",
+            "en": "Castle of Venus"
+          },
+          "coords": [
+            12.589,
+            38.037
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die spektakulärste Aussicht von Erice.",
+            "hu": "Erice leglátványosabb kilátása.",
+            "ro": "Cea mai spectaculoasă vedere din Erice.",
+            "en": "The most spectacular view in Erice."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento di San Domenico",
+            "hu": "Szent Domonkos-kolostor",
+            "ro": "Mănăstirea San Domenico",
+            "en": "Convent of San Domenico"
+          },
+          "coords": [
+            12.5865,
+            38.0395
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wissenschaftliches Zentrum Ettore Majorana.",
+            "hu": "Ettore Majorana Tudományos Központ.",
+            "ro": "Centrul științific Ettore Majorana.",
+            "en": "Ettore Majorana Scientific Center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Radfahren in Erice erfordert Kraft, aber der Rundweg entlang der alten Mauern bietet unglaubliche Ausblicke. Besuchen Sie die Torretta Pepoli und das Venus-Schloss, bevor Sie im ehemaligen Dominikanerkloster, das heute ein weltberühmtes Wissenschaftszentrum ist, etwas über die moderne Geschichte der Stadt erfahren.",
+        "hu": "A kerékpározás Ericében erőt igényel, de az ősi falak menti körút hihetetlen kilátást nyújt. Látogassa meg a Pepoli-tornyot és a Vénusz-kastélyt, mielőtt a volt domonkos kolostorban – ma világhírű tudományos központ – megismerné a város modern történelmét.",
+        "ro": "Ciclismul în Erice necesită forță, dar traseul de-a lungul zidurilor antice oferă priveliști incredibile. Vizitați Torretta Pepoli și Castelul lui Venus înainte de a învăța despre istoria modernă a orașului la fosta mănăstire dominicană, acum un centru științific renumit.",
+        "en": "Cycling in Erice requires strength, but the loop along the ancient walls offers incredible views. Visit Torretta Pepoli and the Castle of Venus before learning about the city's modern history at the former Dominican convent, now a world-renowned scientific center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Couscous di Pesce",
+            "tip": "Trapani-Style Fisch-Couscous."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Couscous di Pesce",
+            "tip": "Trapani stílusú halas kuszkusz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Couscous di Pesce",
+            "tip": "Couscous cu pește în stil Trapani."
+          }
+        ],
+        "en": [
+          {
+            "name": "Couscous di Pesce",
+            "tip": "Trapani-style fish couscous."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Torretta Pepoli Pfade",
+            "tip": "Ruhige Wege unterhalb des Turms.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pepoli-torony ösvényei",
+            "tip": "Csendes utak a torony alatt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecile Torretta Pepoli",
+            "tip": "Căi liniștite sub turn.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Torretta Pepoli paths",
+            "tip": "Quiet paths below the tower.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramikgeschäfte",
+            "tip": "Handbemalte sizilianische Muster."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámiaboltok",
+            "tip": "Kézzel festett szicíliai minták."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de ceramică",
+            "tip": "Modele siciliene pictate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramic shops",
+            "tip": "Hand-painted Sicilian patterns."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Pflastersteine können bei Nebel sehr rutschig sein.",
+          "Ein E-Bike ist für Erice sehr zu empfehlen.",
+          "Folgen Sie dem äußeren Mauerring für flachere Abschnitte.",
+          "Achten Sie auf Wanderer in den engen Gassen."
+        ],
+        "hu": [
+          "A kövek ködben nagyon csúszósak lehetnek.",
+          "E-bike erősen ajánlott Ericéhez.",
+          "Kövesse a külső falgyűrűt a laposabb szakaszokért.",
+          "Ügyeljen a gyalogosokra a szűk utcákban."
+        ],
+        "ro": [
+          "Pietrele pot fi foarte alunecoase pe ceață.",
+          "O bicicletă electrică este foarte recomandată pentru Erice.",
+          "Urmați inelul exterior al zidurilor pentru secțiuni mai plane.",
+          "Atenție la pietoni pe străzile înguste."
+        ],
+        "en": [
+          "The stones can be very slippery in the mist.",
+          "An e-bike is highly recommended for Erice.",
+          "Follow the outer wall ring for flatter sections.",
+          "Watch out for hikers in the narrow alleys."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 42,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello di Venere",
+            "hu": "Vénusz-kastély",
+            "ro": "Castelul lui Venus",
+            "en": "Castle of Venus"
+          },
+          "coords": [
+            12.589,
+            38.037
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie am großen Parkplatz vor dem Tor.",
+            "hu": "Parkoljon a kapu előtti nagy parkolóban.",
+            "ro": "Parcați în parcarea mare de dinaintea porții.",
+            "en": "Park at the large lot before the gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Real Duomo di Erice",
+            "hu": "Ericei dóm",
+            "ro": "Catedrala din Erice",
+            "en": "Real Duomo of Erice"
+          },
+          "coords": [
+            12.582,
+            38.0375
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein prächtiges Beispiel gotischer Architektur.",
+            "hu": "A gótikus építészet pompás példája.",
+            "ro": "Un exemplu magnific de arhitectură gotică.",
+            "en": "A magnificent example of Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Saline di Trapani",
+            "hu": "Trapani sólepárlók",
+            "ro": "Salinele din Trapani",
+            "en": "Trapani Salt Pans"
+          },
+          "coords": [
+            12.515,
+            37.985
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Historische Windmühlen und Salzhügel.",
+            "hu": "Történelmi szélmalmok és sóhalmok.",
+            "ro": "Mori de vânt istorice și mormane de sare.",
+            "en": "Historic windmills and salt mounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Sale",
+            "hu": "Sómúzeum",
+            "ro": "Muzeul Sării",
+            "en": "Salt Museum"
+          },
+          "coords": [
+            12.513,
+            37.984
+          ],
+          "category": "museums",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie, wie seit Jahrhunderten Salz gewonnen wird.",
+            "hu": "Tudja meg, hogyan nyerik a sót évszázadok óta.",
+            "ro": "Aflați cum este extrasă sarea de secole.",
+            "en": "Learn how salt has been harvested for centuries."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Trapani",
+            "hu": "Trapani-kapu",
+            "ro": "Poarta Trapani",
+            "en": "Porta Trapani"
+          },
+          "coords": [
+            12.581,
+            38.037
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 20.5,
+          "tip_5lang": {
+            "de": "Letzter Spaziergang durch die Gassen.",
+            "hu": "Utolsó séta a sikátorokban.",
+            "ro": "Ultima plimbare prin străduțe.",
+            "en": "Final stroll through the alleys."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Verbinden Sie den Charme von Erice mit der industriellen Schönheit der Salinen von Trapani. Nach der Erkundung des Schlosses und des Doms fahren Sie hinunter an die Küste, um die Windmühlen und das rosa Licht auf den Salzbecken zu sehen. Ein Besuch im Sómúzeum rundet diesen Tag voller Kontraste zwischen Berg und Meer ab.",
+        "hu": "Kombinálja Erice báját a trapani sólepárlók ipari szépségével. A kastély és a dóm felfedezése után autózzon le a partra, hogy megnézze a szélmalmokat és a sómedencék rózsaszín fényeit. A Sómúzeum meglátogatása teszi teljessé ezt a hegy és tenger közötti kontrasztos napot.",
+        "ro": "Combinați farmecul Ericei cu frumusețea industrială a salinelor din Trapani. După explorarea castelului și a catedralei, coborâți spre coastă pentru a vedea morile de vânt și lumina roz de pe bazinele de sare. O vizită la Muzeul Sării completează această zi plină de contraste între munte și mare.",
+        "en": "Combine Erice's charm with the industrial beauty of the Trapani salt pans. After exploring the castle and cathedral, drive down to the coast to see the windmills and the pink light on the salt ponds. A visit to the Salt Museum completes this day of contrasts between mountain and sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Busiate al Pesto Trapanese",
+            "tip": "Pasta mit Tomaten, Knoblauch und Mandeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Busiate al Pesto Trapanese",
+            "tip": "Tészta paradicsommal, fokhagymával és mandulával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Busiate al Pesto Trapanese",
+            "tip": "Paste cu roșii, usturoi și migdale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Busiate al Pesto Trapanese",
+            "tip": "Pasta with tomatoes, garlic, and almonds."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Salinen bei Sonnenuntergang",
+            "tip": "Rosa Licht auf den Becken.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sólepárlók naplementekor",
+            "tip": "Rózsaszín fény a medencéken.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salinele la apus",
+            "tip": "Lumină roz pe bazine.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Salt pans at sunset",
+            "tip": "Pink light on the ponds.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sale Marino",
+            "tip": "Hochwertiges Meersalz aus Trapani."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sale Marino",
+            "tip": "Kiváló minőségű trapani tengeri só."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sale Marino",
+            "tip": "Sare de mare de înaltă calitate din Trapani."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sale Marino",
+            "tip": "High-quality sea salt from Trapani."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße nach Erice hat viele Serpentinen, fahren Sie langsam.",
+          "Besuchen Sie die Salinen am späten Nachmittag für das beste Licht.",
+          "Parken Sie in Erice auf dem Parkplatz Porta Trapani.",
+          "Mückenschutz ist in der Nähe der Salinen ratsam."
+        ],
+        "hu": [
+          "Az Erice felé vezető út szerpentines, vezessen lassan.",
+          "A sólepárlókat késő délután látogassa a legjobb fényekért.",
+          "Ericében a Porta Trapani parkolóban álljon meg.",
+          "A sólepárlók közelében szúnyogriasztó ajánlott."
+        ],
+        "ro": [
+          "Drumul spre Erice are multe serpentine, conduceți încet.",
+          "Vizitați salinele după-amiaza târziu pentru cea mai bună lumină.",
+          "Parcați în Erice în parcarea Porta Trapani.",
+          "Repelentul de insecte este recomandat lângă saline."
+        ],
+        "en": [
+          "The road to Erice has many serpentines, drive slowly.",
+          "Visit the salt pans in the late afternoon for the best light.",
+          "Park in Erice at the Porta Trapani parking lot.",
+          "Insect repellent is advisable near the salt pans."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_mh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Funivia Trapani-Erice",
+            "hu": "Trapani-Erice felvonó",
+            "ro": "Telecabina Trapani-Erice",
+            "en": "Trapani-Erice Cable Car"
+          },
+          "coords": [
+            12.581,
+            38.036
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die spektakulärste Art, die Stadt zu erreichen.",
+            "hu": "A leglátványosabb módja a város elérésének.",
+            "ro": "Cea mai spectaculoasă cale de a ajunge în oraș.",
+            "en": "The most spectacular way to reach the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Real Duomo di Erice",
+            "hu": "Ericei dóm",
+            "ro": "Catedrala din Erice",
+            "en": "Real Duomo of Erice"
+          },
+          "coords": [
+            12.582,
+            38.0375
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gleich beim Eingang der Stadt.",
+            "hu": "Rögtön a város bejáratánál.",
+            "ro": "Chiar la intrarea în oraș.",
+            "en": "Right at the city entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giovanni Battista",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica San Giovanni Battista",
+            "en": "Church of St. John the Baptist"
+          },
+          "coords": [
+            12.588,
+            38.039
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ruhiger Platz abseits der Hauptwege.",
+            "hu": "Csendes hely távol a főbb útvonalaktól.",
+            "ro": "Loc liniștit departe de traseele principale.",
+            "en": "Quiet spot away from the main routes."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Venere",
+            "hu": "Vénusz-kastély",
+            "ro": "Castelul lui Venus",
+            "en": "Castle of Venus"
+          },
+          "coords": [
+            12.589,
+            38.037
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen von Erice.",
+            "hu": "Erice jelképe.",
+            "ro": "Simbolul Ericei.",
+            "en": "The symbol of Erice."
+          }
+        },
+        {
+          "name": {
+            "de": "Giardini del Balio",
+            "hu": "Balio kertek",
+            "ro": "Grădinile Balio",
+            "en": "Balio Gardens"
+          },
+          "coords": [
+            12.588,
+            38.0375
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Perfekt für ein spätes Mittagspicknick.",
+            "hu": "Tökéletes egy késői ebédhez a szabadban.",
+            "ro": "Perfect pentru un picnic de prânz târziu.",
+            "en": "Perfect for a late lunch picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Seilbahn von Trapani bietet einen unvergesslichen Aufstieg mit Blick auf das Meer. Erkunden Sie Erice zu Fuß von der Endstation der Seilbahn aus. Besuchen Sie den Dom und wandern Sie durch die mittelalterliche Stille zum Venusschloss. Bevor Sie mit der Gondel zurückfahren, genießen Sie die frische Luft in den Balio-Gärten.",
+        "hu": "A trapani felvonó felejthetetlen emelkedést kínál kilátással a tengerre. Fedezze fel Ericét gyalog a felvonó végállomásától. Látogassa meg a dómot, és sétáljon át a középkori csenden a Vénusz-kastélyhoz. Mielőtt visszatérne a gondolával, élvezze a friss levegőt a Balio-kertekben.",
+        "ro": "Telecabina din Trapani oferă o urcare de neuitat cu vedere la mare. Explorați Erice pe jos de la stația de telecabină. Vizitați catedrala și mergeți prin liniștea medievală spre Castelul lui Venus. Înainte de a reveni cu gondola, bucurați-vă de aerul curat în Grădinile Balio.",
+        "en": "The cable car from Trapani offers an unforgettable ascent with sea views. Explore Erice on foot from the cable car terminus. Visit the cathedral and walk through the medieval silence to the Castle of Venus. Before heading back down by gondola, enjoy the fresh air in the Balio Gardens."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cassatella di Erice",
+            "tip": "Frittiertes Gebäck mit Ricottafüllung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cassatella di Erice",
+            "tip": "Sült tészta ricottás töltelékkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cassatella di Erice",
+            "tip": "Produs de patiserie prăjit cu umplutură de ricotta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cassatella di Erice",
+            "tip": "Fried pastry filled with ricotta cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche San Giovanni",
+            "tip": "Viel weniger überlaufen als das Zentrum.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent János-templom",
+            "tip": "Sokkal kevésbé zsúfolt, mint a központ.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica San Giovanni",
+            "tip": "Mult mai puțin aglomerată decât centrul.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church of San Giovanni",
+            "tip": "Much less crowded than the center.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dolci di Mandorla",
+            "tip": "Köstliche Mandel-Süßigkeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mandulás édességek",
+            "tip": "Finom mandulás sütemények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dulciuri cu migdale",
+            "tip": "Dulciuri delicioase cu migdale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Almond sweets",
+            "tip": "Delicious almond-based sweets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Betrieb der Seilbahn bei starkem Wind.",
+          "Kaufen Sie ein Hin- und Rückfahrticket für die Seilbahn.",
+          "Vom Bahnhof Trapani gibt es einen Bus zur Seilbahn.",
+          "Die Fahrt dauert ca. 10 Minuten."
+        ],
+        "hu": [
+          "Erős szél esetén ellenőrizze a felvonó üzemelését.",
+          "Vegyen retúrjegyet a felvonóra.",
+          "Trapani vasútállomástól busz jár a felvonóhoz.",
+          "Az út kb. 10 percig tart."
+        ],
+        "ro": [
+          "Verificați funcționarea telecabinei în caz de vânt puternic.",
+          "Cumpărați bilet dus-întors pentru telecabină.",
+          "De la gara Trapani există autobuz spre telecabină.",
+          "Călătoria durează aproximativ 10 minute."
+        ],
+        "en": [
+          "Check cable car operation during high winds.",
+          "Buy a round-trip ticket for the cable car.",
+          "There is a bus from Trapani station to the cable car.",
+          "The ride takes about 10 minutes."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "_coords": [
+      12.5847,
+      38.0397
+    ],
+    "_region": "IT-82 Sicilia",
+    "transit_official": "https://www.funiviaerice.it/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Erice",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.fondazioneericearte.org/",
+    "tourism_office": "https://www.fondazioneericearte.org/",
+    "webcam": "https://www.skylinewebcams.com/it/webcam/italia/sicilia/trapani/erice.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/erice-c562552",
+    "museum_tickets": "https://www.fondazioneericearte.org/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch Hauptsprache; Englisch in Touristengeschäften. Sizilianischer Dialekt im Alltag.",
+      "hu": "Olasz a fő nyelv; angol turistaboltokban. Szicíliai nyelvjárás a hétköznapokban.",
+      "ro": "Italiana principală; engleza în magazine turistice. Dialect sicilian în viața de zi cu zi.",
+      "en": "Italian primary; English in tourist shops. Sicilian dialect in daily life."
+    },
+    "best_time": {
+      "de": "Mai–Juni und September; Bergstadt oft im Nebel, klare Sicht vormittags. Sommer kühler als Küste.",
+      "hu": "Május–június és szeptember; hegyi város gyakran ködös, tisztább kilátás reggel. Nyáron hűvösebb mint a part.",
+      "ro": "Mai–iunie și septembrie; orașul de munte e des în ceață, vizibilitate mai bună dimineața. Mai răcoros vara decât coasta.",
+      "en": "May–June and September; mountaintop often foggy, clearer in morning. Cooler than coast in summer."
+    },
+    "warnings": {
+      "de": "Seilbahn von Trapani statt Autofahrt; Wind und Temperatursturz oben einplanen. Kopfsteinpflaster.",
+      "hu": "Drótkötélpálya Trapaniból autó helyett; szeles és hűvösebb a tetőn. Macskaköves utcák.",
+      "ro": "Folosiți funicularul din Trapani în loc de mașină; sus e vânt și frig. Pavaj de piatră.",
+      "en": "Use cable car from Trapani instead of driving; expect wind and chill on top. Cobblestones underfoot."
+    }
+  }
+}

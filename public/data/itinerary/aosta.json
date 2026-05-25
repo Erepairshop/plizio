@@ -1,0 +1,1180 @@
+{
+  "city_id": "aosta",
+  "anchor": {
+    "name": "Aosta Centro",
+    "coords": [
+      7.3206,
+      45.7372
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:40",
+      "total_km": 3.2,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Chanoux",
+            "hu": "Piazza Chanoux",
+            "ro": "Piazza Chanoux",
+            "en": "Piazza Chanoux"
+          },
+          "coords": [
+            7.3188,
+            45.7374
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Trinken Sie einen Kaffee in den historischen Arkaden.",
+            "hu": "Igyon egy kávét a történelmi árkádok alatt.",
+            "ro": "Savurați o cafea sub arcadele istorice.",
+            "en": "Enjoy a coffee under the historic arcades."
+          }
+        },
+        {
+          "name": {
+            "de": "Augustusbogen",
+            "hu": "Augustus-ív",
+            "ro": "Arcul lui Augustus",
+            "en": "Arch of Augustus"
+          },
+          "coords": [
+            7.3256,
+            45.7392
+          ],
+          "category": "monuments",
+          "arrive_at": "09:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der römischen Stadtgründung.",
+            "hu": "A római vároosalapítás ikonikus jelképe.",
+            "ro": "Simbolul iconic al fondării romane a orașului.",
+            "en": "The iconic symbol of the city's Roman foundation."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Sant'Orso",
+            "hu": "Sant'Orso-templom",
+            "ro": "Biserica Sant'Orso",
+            "en": "Collegiate Church of Sant'Orso"
+          },
+          "coords": [
+            7.3236,
+            45.7395
+          ],
+          "category": "churches",
+          "arrive_at": "11:12",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie den wunderschönen romanischen Kreuzgang.",
+            "hu": "Látogassa meg a gyönyörű román stílusú kolostort.",
+            "ro": "Vizitați superba mănăstire în stil romanic.",
+            "en": "Visit the beautiful Romanesque cloister."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Pretoria",
+            "hu": "Porta Pretoria",
+            "ro": "Porta Pretoria",
+            "en": "Porta Pretoria"
+          },
+          "coords": [
+            7.3218,
+            45.7385
+          ],
+          "category": "castles",
+          "arrive_at": "12:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das monumentale Haupttor der römischen Stadt.",
+            "hu": "A római város monumentális főkapuja.",
+            "ro": "Poarta principală monumentală a orașului roman.",
+            "en": "The monumental main gate of the Roman city."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római Színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            7.3211,
+            45.7394
+          ],
+          "category": "theatres",
+          "arrive_at": "12:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die 22 Meter hohe Fassade ist beeindruckend.",
+            "hu": "A 22 méter magas homlokzat lenyűgöző látvány.",
+            "ro": "Fațada de 22 de metri înălțime este impresionantă.",
+            "en": "The 22-meter high facade is impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Criptoportico Forense",
+            "hu": "Criptoportico Forense",
+            "ro": "Criptoportico Forense",
+            "en": "Cryptoporticus"
+          },
+          "coords": [
+            7.3175,
+            45.7396
+          ],
+          "category": "natural features",
+          "arrive_at": "14:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein unterirdischer Gang aus der Zeit des Augustus.",
+            "hu": "Föld alatti folyosórendszer Augustus idejéből.",
+            "ro": "Un pasaj subteran din timpul lui Augustus.",
+            "en": "An underground passage from the time of Augustus."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Santa Maria Assunta",
+            "hu": "Santa Maria Assunta-székesegyház",
+            "ro": "Catedrala Santa Maria Assunta",
+            "en": "Aosta Cathedral"
+          },
+          "coords": [
+            7.3178,
+            45.7402
+          ],
+          "category": "churches",
+          "arrive_at": "15:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mosaiken aus dem 12. Jahrhundert.",
+            "hu": "Csodálja meg a 12. századi mozaikokat.",
+            "ro": "Admirați mozaicurile din secolul al XII-lea.",
+            "en": "Admire the 12th-century mosaics."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            7.3168,
+            45.7392
+          ],
+          "category": "museums",
+          "arrive_at": "16:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die prähistorische und römische Geschichte.",
+            "hu": "Fedezze fel az őskori és római történelmet.",
+            "ro": "Descoperiți istoria preistorică și romană.",
+            "en": "Discover prehistoric and Roman history."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Stadtmauer",
+            "hu": "Római városfalak",
+            "ro": "Zidurile orașului roman",
+            "en": "Roman City Walls"
+          },
+          "coords": [
+            7.3142,
+            45.7385
+          ],
+          "category": "castles",
+          "arrive_at": "18:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spaziergang entlang der fast vollständig erhaltenen Mauern.",
+            "hu": "Séta a szinte teljesen épen maradt falak mentén.",
+            "ro": "Plimbare de-a lungul zidurilor aproape intacte.",
+            "en": "Walk along the almost entirely preserved walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Aosta, das Rom der Alpen, begrüßt Sie am Vormittag mit dem Augustusbogen und der Stiftskirche Sant'Orso. Mittags erkunden Sie die monumentale Porta Pretoria und das antike Theater. Der Nachmittag gehört dem geheimnisvollen Criptoportico und der Kathedrale. Den Abend lassen Sie bei einem Spaziergang entlang der römischen Stadtmauer und einem Glas Wein ausklingen.",
+        "hu": "Aosta, az Alpok Rómája délelőtt az ókori diadalívvel és a Sant'Orso-templommal köszönti önt. Délben a Porta Pretoria monumentális kapuja és a római színház romjai varázsolják el. Délután merüljön el a titokzatos Criptoportico folyosóin és a székesegyház csendjében. A napot a városfalak mentén tett sétával és egy pohár helyi fehérborral fejezze be.",
+        "ro": "Aosta, Roma Alpilor, vă întâmpină dimineața cu Arcul lui Augustus și biserica Sant'Orso. La prânz, explorați monumentala Porta Pretoria și teatrul antic. După-amiaza este dedicată misteriosului Criptoportico și Catedralei. Încheiați ziua cu o plimbare de-a lungul zidurilor romane și un pahar de vin local de calitate.",
+        "en": "Aosta, the Rome of the Alps, welcomes you in the morning with the Arch of Augustus and the Sant'Orso church. At midday, explore the monumental Porta Pretoria and the ancient Roman Theatre. The afternoon is dedicated to the mysterious Criptoportico and the Cathedral. End your day with a walk along the Roman city walls and a glass of fine local wine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fontina Käse",
+            "tip": "Probieren Sie den echten DOP-Käse in einer lokalen Fromagerie."
+          },
+          {
+            "name": "Carbonada Valdostana",
+            "tip": "Rindfleischschmorbraten in Rotwein, serviert mit Polenta."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fontina sajt",
+            "tip": "Kóstolja meg az eredetvédett sajtot egy helyi szaküzletben."
+          },
+          {
+            "name": "Carbonada Valdostana",
+            "tip": "Vörösborban párolt marhahús, amelyet puliszkával tálalnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Fontina",
+            "tip": "Gustați brânza autentică DOP într-o fromagerie locală."
+          },
+          {
+            "name": "Carbonada Valdostana",
+            "tip": "Tocăniță de vită în vin roșu, servită cu polenta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fontina Cheese",
+            "tip": "Taste the authentic DOP cheese in a local fromagerie."
+          },
+          {
+            "name": "Carbonada Valdostana",
+            "tip": "Beef stew cooked in red wine, typically served with polenta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kreuzgang von Sant'Orso",
+            "tip": "Ein Ort der Stille mit wunderschönen Kapitellen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stadtmauern bei Sonnenuntergang",
+            "tip": "Panoramablick auf die umliegenden Alpengipfel.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sant'Orso kolostorkert",
+            "tip": "A nyugalom szigete gyönyörű oszlopfőkkel.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Városfalak naplementekor",
+            "tip": "Panorámás kilátás a környező Alpok csúcsaira.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Sant'Orso",
+            "tip": "Un loc de liniște cu capiteluri sculptate superb.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Zidurile cetății la apus",
+            "tip": "Vedere panoramică asupra vârfurilor alpine.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sant'Orso Cloister",
+            "tip": "A place of silence with beautiful carved capitals.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "City Walls at Sunset",
+            "tip": "Panoramic views of the surrounding Alpine peaks.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via de Tillier",
+            "tip": "Die Haupteinkaufsstraße mit Boutiquen und lokalen Produkten."
+          },
+          {
+            "name": "Tegole Valdostane",
+            "tip": "Typische Haselnusskekse, ideal als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via de Tillier",
+            "tip": "A fő bevásárlóutca butikokkal és helyi termékekkel."
+          },
+          {
+            "name": "Tegole Valdostane",
+            "tip": "Tipikus mogyorós keksz, tökéletes ajándéknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via de Tillier",
+            "tip": "Strada principală de cumpărături cu buticuri și produse locale."
+          },
+          {
+            "name": "Tegole Valdostane",
+            "tip": "Biscuiți tipici cu alune, ideali pentru suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via de Tillier",
+            "tip": "The main shopping street with boutiques and local crafts."
+          },
+          {
+            "name": "Tegole Valdostane",
+            "tip": "Typical hazelnut biscuits, perfect as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Stadtzentrum ist fast vollständig verkehrsberuhigt und ideal zu Fuß zu erkunden.",
+          "Tragen Sie bequeme Schuhe für das römische Kopfsteinpflaster.",
+          "Die meisten Sehenswürdigkeiten liegen sehr nah beieinander.",
+          "Vergessen Sie nicht, nach oben zu schauen – die Bergkulisse ist atemberaubend."
+        ],
+        "hu": [
+          "A városközpont szinte teljesen autómentes, így gyalogosan a legkönnyebb felfedezni.",
+          "Viseljen kényelmes cipőt a római kori macskaköves utcákhoz.",
+          "A legtöbb látnivaló sétatávolságra van egymástól.",
+          "Ne felejtsen el felnézni – a hegyi panoráma minden utcából lélegzetelállító."
+        ],
+        "ro": [
+          "Centrul orașului este aproape în întregime pietonal și ideal de explorat la pas.",
+          "Purtați încălțăminte confortabilă pentru pavajul roman original.",
+          "Majoritatea obiectivelor turistice sunt situate foarte aproape una de alta.",
+          "Nu uitați să priviți în sus – decorul montan este absolut spectaculos."
+        ],
+        "en": [
+          "The city center is almost entirely pedestrianized and perfect for walking.",
+          "Wear comfortable shoes for the original Roman cobblestones.",
+          "Most attractions are located within a very short walking distance of each other.",
+          "Don't forget to look up – the mountain scenery is breathtaking from every street."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Augustusbogen",
+            "hu": "Augustus-ív",
+            "ro": "Arcul lui Augustus",
+            "en": "Arch of Augustus"
+          },
+          "coords": [
+            7.3256,
+            45.7392
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt für die römische Tour.",
+            "hu": "A római túra kezdőpontja.",
+            "ro": "Punctul de plecare pentru turul roman.",
+            "en": "Starting point for the Roman tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant'Orso",
+            "hu": "Sant'Orso",
+            "ro": "Sant'Orso",
+            "en": "Sant'Orso"
+          },
+          "coords": [
+            7.3236,
+            45.7395
+          ],
+          "category": "churches",
+          "arrive_at": "09:43",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie den gotischen Chor.",
+            "hu": "Nézze meg a gótikus kórust.",
+            "ro": "Vizitați corul gotic.",
+            "en": "Visit the Gothic choir."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Pretoria",
+            "hu": "Porta Pretoria",
+            "ro": "Porta Pretoria",
+            "en": "Porta Pretoria"
+          },
+          "coords": [
+            7.3218,
+            45.7385
+          ],
+          "category": "castles",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Biken durch das antike Tor.",
+            "hu": "Kerékpározás az antik kapun át.",
+            "ro": "Pedalând prin poarta antică.",
+            "en": "Cycling through the ancient gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római Színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            7.3211,
+            45.7394
+          ],
+          "category": "theatres",
+          "arrive_at": "11:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Fahrrad abstellen und staunen.",
+            "hu": "Tegye le a biciklit és ámuljon el.",
+            "ro": "Lăsați bicicleta și admirați.",
+            "en": "Park the bike and be amazed."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Chanoux",
+            "hu": "Piazza Chanoux",
+            "ro": "Piazza Chanoux",
+            "en": "Piazza Chanoux"
+          },
+          "coords": [
+            7.3188,
+            45.7374
+          ],
+          "category": "squares",
+          "arrive_at": "12:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Herz der Stadt.",
+            "hu": "A város szíve.",
+            "ro": "Inima orașului.",
+            "en": "The heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Stadtmauer",
+            "hu": "Római városfalak",
+            "ro": "Zidurile orașului",
+            "en": "Roman Walls"
+          },
+          "coords": [
+            7.3142,
+            45.7385
+          ],
+          "category": "castles",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Rundfahrt entlang der Mauern.",
+            "hu": "Körút a falak mentén.",
+            "ro": "Circuit de-a lungul zidurilor.",
+            "en": "Loop ride along the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            7.3168,
+            45.7392
+          ],
+          "category": "museums",
+          "arrive_at": "14:27",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Abschluss der Tour.",
+            "hu": "A túra lezárása.",
+            "ro": "Încheierea turului.",
+            "en": "End of the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Aosta auf zwei Rädern. Die Tour führt vom Augustusbogen durch die antiken Tore bis zum Römischen Theater. Mittags genießen Sie die Atmosphäre auf der Piazza Chanoux. Der Nachmittag bietet eine entspannte Fahrt entlang der gut erhaltenen Stadtmauern bis zum Museum.",
+        "hu": "Fedezze fel Aostát két keréken. A túra az Augustus-ívtől indul, át az antik kapukon a római színházig. Délben élvezze a Piazza Chanoux hangulatát. A délután egy kellemes tekerést kínál a jól megőrzött városfalak mentén egészen a múzeumig.",
+        "ro": "Explorați Aosta pe două roți. Turul pornește de la Arcul lui Augustus, trece prin porțile antice până la Teatrul Roman. La prânz, bucurați-vă de atmosfera din Piazza Chanoux. După-amiaza oferă o plimbare relaxantă de-a lungul zidurilor bine conservate până la muzeu.",
+        "en": "Explore Aosta on two wheels. The tour leads from the Arch of Augustus through ancient gates to the Roman Theatre. At midday, enjoy the atmosphere in Piazza Chanoux. The afternoon offers a relaxed ride along the well-preserved city walls to the museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Valle d'Aosta Lard d'Arnad",
+            "tip": "Speckspezialität"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lard d'Arnad",
+            "tip": "Helyi szalonna specialitás"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lard d'Arnad",
+            "tip": "Specialitate locală de slănină"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lard d'Arnad",
+            "tip": "Local bacon specialty"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Grüne Oase",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi park",
+            "tip": "Zöld oázis",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului",
+            "tip": "Oază verde",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "Green oasis",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Artisanà",
+            "tip": "Kunsthandwerk"
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Artisanà",
+            "tip": "Kézműves termékek"
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Artisanà",
+            "tip": "Artizanat local"
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Artisanà",
+            "tip": "Local handicrafts"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist flach und fahrradfreundlich."
+        ],
+        "hu": [
+          "A város sík és biciklibarát."
+        ],
+        "ro": [
+          "Orașul este plat și prietenos cu bicicliștii."
+        ],
+        "en": [
+          "The city is flat and bike-friendly."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Megalithareal",
+            "hu": "Megalitikus terület",
+            "ro": "Aria megalitică",
+            "en": "Megalithic Area"
+          },
+          "coords": [
+            7.2995,
+            45.7365
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Einzigartige prähistorische Stätte.",
+            "hu": "Egyedülálló őskori lelőhely.",
+            "ro": "Sit preistoric unic.",
+            "en": "Unique prehistoric site."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Chanoux",
+            "hu": "Piazza Chanoux",
+            "ro": "Piazza Chanoux",
+            "en": "Piazza Chanoux"
+          },
+          "coords": [
+            7.3188,
+            45.7374
+          ],
+          "category": "squares",
+          "arrive_at": "11:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parkhaus im Zentrum nutzen.",
+            "hu": "Használja a központi parkolóházat.",
+            "ro": "Folosiți parcarea centrală.",
+            "en": "Use the central parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római Színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            7.3211,
+            45.7394
+          ],
+          "category": "theatres",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Muss man gesehen haben.",
+            "hu": "Ezt látni kell.",
+            "ro": "Trebuie vizitat.",
+            "en": "A must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant'Orso",
+            "hu": "Sant'Orso",
+            "ro": "Sant'Orso",
+            "en": "Sant'Orso"
+          },
+          "coords": [
+            7.3236,
+            45.7395
+          ],
+          "category": "churches",
+          "arrive_at": "13:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Historische Stille.",
+            "hu": "Történelmi csend.",
+            "ro": "Liniște istorică.",
+            "en": "Historical silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Augustusbogen",
+            "hu": "Augustus-ív",
+            "ro": "Arcul lui Augustus",
+            "en": "Arch of Augustus"
+          },
+          "coords": [
+            7.3256,
+            45.7392
+          ],
+          "category": "monuments",
+          "arrive_at": "13:52",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fotomotiv.",
+            "hu": "Fotótéma.",
+            "ro": "Subiect foto.",
+            "en": "Photo spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Stadtmauer",
+            "hu": "Városfal",
+            "ro": "Zidurile",
+            "en": "Walls"
+          },
+          "coords": [
+            7.3142,
+            45.7385
+          ],
+          "category": "castles",
+          "arrive_at": "14:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Langer Spaziergang zum Abschluss.",
+            "hu": "Hosszú séta zárásként.",
+            "ro": "Plimbare lungă la final.",
+            "en": "Long walk to finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie auch das Megalithareal am Stadtrand. Danach geht es ins historische Zentrum zu den römischen Monumenten und Kirchen. Der Tag endet mit einem ausgiebigen Spaziergang entlang der antiken Mauern.",
+        "hu": "Autóval elérheti a város szélén található megalitikus területet is. Ezután a történelmi központ római műemlékei és templomai következnek. A napot a falak mentén tett kiadós sétával zárhatja.",
+        "ro": "Cu mașina puteți ajunge și la aria megalitică de la marginea orașului. Apoi mergeți în centrul istoric la monumentele și bisericile romane. Ziua se încheie cu o plimbare lungă de-a lungul zidurilor antice.",
+        "en": "By car, you can also reach the Megalithic Area on the outskirts. Then head to the historical center for Roman monuments and churches. The day ends with an extensive walk along the ancient walls."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Polenta Concia",
+            "tip": "Mit Käse überbacken"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Polenta Concia",
+            "tip": "Sajttal sült puliszka"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Polenta Concia",
+            "tip": "Mămăligă cu brânză"
+          }
+        ],
+        "en": [
+          {
+            "name": "Polenta Concia",
+            "tip": "Polenta with melted cheese"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Megalith-Park",
+            "tip": "Vorgeschichte",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Megalitikus park",
+            "tip": "Őstörténet",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul megalitic",
+            "tip": "Preistorie",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Megalithic Park",
+            "tip": "Prehistory",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gros Cidac",
+            "tip": "Großer Markt"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gros Cidac",
+            "tip": "Nagy piac"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gros Cidac",
+            "tip": "Piață mare"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gros Cidac",
+            "tip": "Large market"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie außerhalb der ZTL-Zone."
+        ],
+        "hu": [
+          "A ZTL zónán kívül parkoljon."
+        ],
+        "ro": [
+          "Parcați în afara zonei ZTL."
+        ],
+        "en": [
+          "Park outside the ZTL zone."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Augustusbogen",
+            "hu": "Augustus-ív",
+            "ro": "Arcul lui Augustus",
+            "en": "Arch of Augustus"
+          },
+          "coords": [
+            7.3256,
+            45.7392
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Buslinie 1.",
+            "hu": "1-es buszvonal.",
+            "ro": "Linia de autobuz 1.",
+            "en": "Bus line 1."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római Színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            7.3211,
+            45.7394
+          ],
+          "category": "theatres",
+          "arrive_at": "09:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Bus.",
+            "hu": "Rövid séta a busztól.",
+            "ro": "Scurtă plimbare de la autobuz.",
+            "en": "Short walk from the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Chanoux",
+            "hu": "Piazza Chanoux",
+            "ro": "Piazza Chanoux",
+            "en": "Piazza Chanoux"
+          },
+          "coords": [
+            7.3188,
+            45.7374
+          ],
+          "category": "squares",
+          "arrive_at": "11:08",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt.",
+            "hu": "Központi csomópont.",
+            "ro": "Nod central.",
+            "en": "Central hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale",
+            "hu": "Katedrális",
+            "ro": "Catedrala",
+            "en": "Cathedral"
+          },
+          "coords": [
+            7.3178,
+            45.7402
+          ],
+          "category": "churches",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stille genießen.",
+            "hu": "Élvezze a csendet.",
+            "ro": "Bucurați-vă de liniște.",
+            "en": "Enjoy the silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            7.3168,
+            45.7392
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 210,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Viel Zeit für die Geschichte.",
+            "hu": "Sok idő a történelemre.",
+            "ro": "Mult timp pentru istorie.",
+            "en": "Plenty of time for history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das lokale Busnetz, um die wichtigsten Punkte schnell zu erreichen. Vom Augustusbogen zum Theater und zur Kathedrale. Der Tag endet im beeindruckenden Museum.",
+        "hu": "Használja a helyi buszhálózatot a legfontosabb pontok gyors eléréséhez. Az Augustus-ívtől a színházig és a katedrálisig. A nap a lenyűgöző múzeumban ér véget.",
+        "ro": "Folosiți rețeaua locală de autobuze pentru a ajunge rapid la punctele principale. De la Arcul lui Augustus la teatru și catedrală. Ziua se încheie la muzeul impresionant.",
+        "en": "Use the local bus network to quickly reach the key points. From the Arch of Augustus to the theatre and the cathedral. The day ends in the impressive museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Génépy",
+            "tip": "Likörspezialität"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Génépy",
+            "tip": "Gyógynövény likőr"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Génépy",
+            "tip": "Lichior de plante"
+          }
+        ],
+        "en": [
+          {
+            "name": "Génépy",
+            "tip": "Herbal liqueur"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Museumsgarten",
+            "tip": "Ruhige Ecke",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumkert",
+            "tip": "Nyugodt sarok",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina muzeului",
+            "tip": "Colț liniștit",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Garden",
+            "tip": "Quiet corner",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz",
+            "tip": "Wochenmarkt"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac tér",
+            "tip": "Heti piac"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața centrală",
+            "tip": "Piață săptămânală"
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Square",
+            "tip": "Weekly market"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einzeltickets im Tabakladen kaufen."
+        ],
+        "hu": [
+          "Vásároljon jegyet a dohányboltokban."
+        ],
+        "ro": [
+          "Cumpărați bilete de la chioșcurile de ziare."
+        ],
+        "en": [
+          "Buy single tickets at tobacco shops."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "_coords": [
+      7.3155,
+      45.7372
+    ],
+    "_region": "IT-23 Valle d'Aosta",
+    "transit_official": "https://www.svap.vda.it/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Aosta",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.lovevda.it/en/things-to-do/events",
+    "tourism_office": "https://www.lovevda.it/en",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/valle-daosta/aosta/panorama-di-aosta.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/aosta-c561673",
+    "museum_tickets": "https://www.lovevda.it/en/culture/museums",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch und Französisch beide Amtssprachen; lokale Patois-Dialekte. Englisch in Tourismus akzeptabel.",
+      "hu": "Olasz és francia egyaránt hivatalos; helyi patois nyelvjárások. Angol elfogadható a turizmusban.",
+      "ro": "Italiana și franceza ambele oficiale; dialecte patois locale. Engleza acceptabilă în turism.",
+      "en": "Italian and French both official; local patois dialects. English acceptable in tourism."
+    },
+    "best_time": {
+      "de": "Juni–September für Wandern und römische Stätten; Dezember–März für Skifahren (Pila, Courmayeur nahe).",
+      "hu": "Június–szeptember túrázáshoz és római emlékekhez; december–március síeléshez (Pila, Courmayeur közel).",
+      "ro": "Iunie–septembrie pentru drumeții și siturile romane; decembrie–martie pentru schi (Pila, Courmayeur aproape).",
+      "en": "June–September for hiking and Roman ruins; December–March for skiing (Pila, Courmayeur nearby)."
+    },
+    "warnings": {
+      "de": "ZTL im historischen Zentrum; Bergstraßen im Winter Schneeketten-Pflicht. Höhe beachten (583m).",
+      "hu": "ZTL a történelmi központban; hegyi utakon télen hólánc kötelező. Magasságra figyelj (583m).",
+      "ro": "ZTL în centrul istoric; lanțuri obligatorii iarna pe drumurile montane. Atenție la altitudine (583m).",
+      "en": "ZTL in historic centre; snow chains mandatory on mountain roads in winter. Mind altitude (583m)."
+    }
+  }
+}

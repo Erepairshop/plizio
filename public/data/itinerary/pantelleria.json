@@ -1,0 +1,968 @@
+{
+  "city_id": "pantelleria",
+  "anchor": {
+    "name": "Pantelleria",
+    "coords": [
+      11.95,
+      36.8333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello Barbacane",
+            "hu": "Barbacane vár",
+            "ro": "Castelul Barbacane",
+            "en": "Barbacane Castle"
+          },
+          "coords": [
+            11.942,
+            36.831
+          ],
+          "category": "castles",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Stadtmuseum im Inneren.",
+            "hu": "Nézd meg a várban található városi múzeumot.",
+            "ro": "Vizitați muzeul civic din interiorul castelului.",
+            "en": "Visit the civic museum located inside the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto di Pantelleria",
+            "hu": "Pantelleria kikötője",
+            "ro": "Portul Pantelleria",
+            "en": "Pantelleria Harbor"
+          },
+          "coords": [
+            11.944,
+            36.833
+          ],
+          "category": "square",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie das bunte Treiben der Fischerboote.",
+            "hu": "Figyeld meg a halászhajók színes forgatagát.",
+            "ro": "Urmăriți activitatea barcilor de pescuit tradiționale.",
+            "en": "Watch the colorful activity of the traditional fishing boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa Matrice",
+            "hu": "Főtemplom",
+            "ro": "Biserica Matrice",
+            "en": "Matrice Church"
+          },
+          "coords": [
+            11.946,
+            36.83
+          ],
+          "category": "religious",
+          "arrive_at": "11:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein Ort der Stille im Herzen der Stadt.",
+            "hu": "Csendes hely a város szívében.",
+            "ro": "Un loc de liniște în inima orașului.",
+            "en": "A peaceful spot in the heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Dammusi di Pantelleria",
+            "hu": "Pantelleriai dammusi házak",
+            "ro": "Dammusi de Pantelleria",
+            "en": "Dammusi of Pantelleria"
+          },
+          "coords": [
+            11.952,
+            36.828
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Typische Lavasteinhäuser der Insel.",
+            "hu": "A sziget jellegzetes lávakőből épült házai.",
+            "ro": "Case tipice din piatră de lavă ale insulei.",
+            "en": "Typical lava stone houses unique to the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare",
+            "hu": "Tengerparti sétány",
+            "ro": "Promenada",
+            "en": "Seafront Promenade"
+          },
+          "coords": [
+            11.945,
+            36.834
+          ],
+          "category": "parks",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Perfekt für ein Eis am Nachmittag.",
+            "hu": "Tökéletes hely egy délutáni fagyizáshoz.",
+            "ro": "Ideal pentru o înghețată după-amiază.",
+            "en": "Perfect for an afternoon gelato by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie die Festung Barbacane, die stolz über dem Hafen wacht. Mittags spazieren Sie entlang der Kais und spüren das maritime Flair der Insel. Am Nachmittag entdecken Sie die einzigartigen Dammusi-Bauten in den Gassen. Zum Abschluss genießen Sie die Meeresbrise auf dem Lungomare bei einem Glas Passito.",
+        "hu": "Reggel a kikötő felett őrködő Barbacane várat fedezzük fel. Délben a kikötői mólók mentén sétálva átélhetjük a sziget tengeri hangulatát. Délután a városi utcákban megbújó különleges dammusi házakat keressük fel. A napot a tengerparti sétányon zárjuk egy pohár helyi Passito bor társaságában.",
+        "ro": "Dimineața explorăm castelul Barbacane, care domină portul. La prânz, o plimbare pe chei ne introduce în atmosfera maritimă a insulei. După-amiaza este dedicată descoperirii caselor tradiționale dammusi din zonele rezidențiale. Încheiem ziua pe faleză, bucurându-ne de briza mării și de liniștea locului.",
+        "en": "Morning begins at the Barbacane Castle, standing guard over the harbor. At midday, stroll along the docks to soak in the island's maritime charm. In the afternoon, discover the unique dammusi structures tucked away in the town's lanes. End your walk on the seafront promenade with a glass of local Passito wine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pesto Pantesco",
+            "tip": "Frische Pasta mit Kapern und Mandeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pesto Pantesco",
+            "tip": "Friss tészta kapribogyóval és mandulával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pesto Pantesco",
+            "tip": "Paste proaspete cu capere și migdale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pesto Pantesco",
+            "tip": "Fresh pasta with local capers and almonds."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Leonardo",
+            "tip": "Ruhiger Blick auf das Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Leonardo",
+            "tip": "Csendes kilátás a nyílt tengerre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "San Leonardo",
+            "tip": "Vedere liniștită spre mare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Leonardo",
+            "tip": "Quiet spot overlooking the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Capperi di Pantelleria",
+            "tip": "Weltberühmte Kapern direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pantelleriai kapribogyó",
+            "tip": "Világhírű kapribogyó közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capere de Pantelleria",
+            "tip": "Celebrele capere cumpărate direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pantelleria Capers",
+            "tip": "World-famous capers bought directly from local farms."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Sonnenschutz ist auf der baumlosen Insel unerlässlich.",
+          "Die Mittagsruhe wird hier streng eingehalten.",
+          "Probieren Sie den lokalen Wein in einer der kleinen Bars."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a macskaköves utcákon.",
+          "A naptej kötelező ezen a fátlan szigeten.",
+          "A szieszta idején a legtöbb üzlet zárva tart.",
+          "Kóstold meg a helyi bort a kikötői bárok egyikében."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+          "Protecția solară este esențială pe această insulă aridă.",
+          "Siesta este respectată cu strictețe la prânz.",
+          "Gustați vinul local în barurile din zona portului."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Sun protection is essential on this treeless island.",
+          "Keep in mind that most shops close for siesta.",
+          "Try the local wine in one of the small waterfront bars."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Specchio di Venere",
+            "hu": "Vénusz tükre",
+            "ro": "Oglinda Venerei",
+            "en": "Venus Mirror Lake"
+          },
+          "coords": [
+            11.98,
+            36.815
+          ],
+          "category": "natural features",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Baden Sie im schwefelhaltigen Thermalwasser.",
+            "hu": "Fürödj meg a kénes termálvízben.",
+            "ro": "Faceți o baie în apele termale sulfuroase.",
+            "en": "Take a dip in the sulfurous thermal waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Gadir",
+            "hu": "Gadir",
+            "ro": "Gadir",
+            "en": "Gadir"
+          },
+          "coords": [
+            12.015,
+            36.81
+          ],
+          "category": "natural features",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Heiße Quellen direkt am Meeresufer.",
+            "hu": "Forró források közvetlenül a tengerparton.",
+            "ro": "Izvoare termale chiar pe malul mării.",
+            "en": "Hot springs located right on the seashore."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Levante",
+            "hu": "Cala Levante",
+            "ro": "Cala Levante",
+            "en": "Cala Levante"
+          },
+          "coords": [
+            12.035,
+            36.785
+          ],
+          "category": "beach",
+          "arrive_at": "13:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Kristallklares Wasser, ideal zum Schnorcheln.",
+            "hu": "Kristálytiszta víz, ideális búvárkodáshoz.",
+            "ro": "Apă de cristal, ideală pentru snorkeling.",
+            "en": "Crystal clear water, ideal for snorkeling."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco dell'Elefante",
+            "hu": "Elefánt-szikla",
+            "ro": "Arcul Elefantului",
+            "en": "Elephant Arch"
+          },
+          "coords": [
+            12.04,
+            36.78
+          ],
+          "category": "natural features",
+          "arrive_at": "15:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Insel für Fotos.",
+            "hu": "A sziget jelképe, tökéletes fotóhelyszín.",
+            "ro": "Simbolul insulei, perfect pentru fotografii.",
+            "en": "The iconic landmark of the island for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Asciutto",
+            "hu": "Bagno Asciutto barlang",
+            "ro": "Bagno Asciutto",
+            "en": "Bagno Asciutto Cave"
+          },
+          "coords": [
+            11.97,
+            36.79
+          ],
+          "category": "natural features",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Eine natürliche Sauna in einer Grotte.",
+            "hu": "Természetes szauna egy barlang mélyén.",
+            "ro": "O saună naturală într-o grotă.",
+            "en": "A natural sauna inside a cave."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zum schimmernden Venus-See für ein Schlammbad. Mittags erreichen Sie das Fischerdorf Gadir mit seinen heißen Quellen. Den Nachmittag verbringen Sie an der Cala Levante und bestaunen den Elefantenfelsen. Die Rückfahrt führt Sie durch die wilde Vulkanlandschaft zurück zum Hafen.",
+        "hu": "Reggel a csillogó Vénusz-tóhoz tekerünk egy frissítő iszappakolásra. Délben elérjük Gadir halászfaluját és annak forró forrásait. A délutánt a Cala Levante partján töltjük, megcsodálva az Elefánt-sziklát. A visszaút a sziget vad vulkanikus tájain keresztül vezet a kikötőbe.",
+        "ro": "Pedalați dimineața spre lacul Oglinda Venerei pentru o baie de nămol. La prânz ajungeți în Gadir, unde izvoarele termale se varsă în mare. După-amiaza este dedicată relaxării la Cala Levante, lângă faimosul Arc al Elefantului. Drumul de întoarcere oferă peisaje vulcanice spectaculoase.",
+        "en": "Cycle to the shimmering Venus Lake in the morning for a mud bath. By midday, reach the fishing village of Gadir with its thermal pools. Spend your afternoon at Cala Levante, marveling at the Elephant Arch. The return ride takes you through the wild volcanic interior back to town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bacio Pantesco",
+            "tip": "Frittiertes Gebäck mit Ricotta-Füllung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bacio Pantesco",
+            "tip": "Sült tészta édes ricotta töltelékkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bacio Pantesco",
+            "tip": "Produs de patiserie prăjit cu umplutură de ricotta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bacio Pantesco",
+            "tip": "Deep-fried pastry filled with sweet ricotta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lago di Venere",
+            "tip": "Stille am Seeufer genießen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vénusz-tó",
+            "tip": "Élvezd a tóparti csendet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Venerei",
+            "tip": "Bucurați-vă de liniștea malului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Venus Lake",
+            "tip": "Enjoy the silence by the lakeshore.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Passito di Pantelleria",
+            "tip": "Edelsüßer Dessertwein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Passito di Pantelleria",
+            "tip": "Különleges édes desszertbor."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Passito di Pantelleria",
+            "tip": "Vin licoros de desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Passito di Pantelleria",
+            "tip": "Renowned sweet dessert wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Wind, bevor Sie die Küste entlangfahren.",
+          "Nehmen Sie ausreichend Wasser mit.",
+          "E-Bikes sind aufgrund der Steigungen sehr zu empfehlen.",
+          "Vorsicht vor scharfen Lavasteinen am Wegesrand."
+        ],
+        "hu": [
+          "Ellenőrizd a szélirányt a parti szakaszok előtt.",
+          "Vigyél magaddal bőséges vízkészletet.",
+          "Az emelkedők miatt az e-bike erősen ajánlott.",
+          "Vigyázz az éles lávakövekre az utak mentén."
+        ],
+        "ro": [
+          "Verificați prognoza de vânt înainte de a pleca.",
+          "Luați cu voi rezerve generoase de apă.",
+          "E-bike-ul este recomandat din cauza pantei.",
+          "Atenție la pietrele vulcanice ascuțite de pe margini."
+        ],
+        "en": [
+          "Check the wind conditions before coastal rides.",
+          "Carry plenty of drinking water with you.",
+          "E-bikes are highly recommended due to the hills.",
+          "Watch out for sharp volcanic rocks along the paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25.0,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 40.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parco Nazionale",
+            "hu": "Nemzeti Park",
+            "ro": "Parcul Național",
+            "en": "National Park"
+          },
+          "coords": [
+            11.96,
+            36.77
+          ],
+          "category": "parks",
+          "arrive_at": "09:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zum Gipfel des Montagna Grande.",
+            "hu": "Túrázz a Montagna Grande csúcsára.",
+            "ro": "Urcați pe vârful Montagna Grande.",
+            "en": "Hike to the summit of Montagna Grande."
+          }
+        },
+        {
+          "name": {
+            "de": "Specchio di Venere",
+            "hu": "Vénusz tükre",
+            "ro": "Oglinda Venerei",
+            "en": "Venus Mirror Lake"
+          },
+          "coords": [
+            11.98,
+            36.815
+          ],
+          "category": "natural features",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Idealer Stopp für ein natürliches Peeling.",
+            "hu": "Ideális hely egy természetes iszappakoláshoz.",
+            "ro": "Oprire ideală pentru un peeling natural.",
+            "en": "Ideal stop for a natural mud scrub."
+          }
+        },
+        {
+          "name": {
+            "de": "Gadir",
+            "hu": "Gadir",
+            "ro": "Gadir",
+            "en": "Gadir"
+          },
+          "coords": [
+            12.015,
+            36.81
+          ],
+          "category": "natural features",
+          "arrive_at": "12:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Probieren Sie die Thermalbecken aus der Römerzeit.",
+            "hu": "Próbáld ki a római kori termálmedencéket.",
+            "ro": "Încercați bazinele termale din epoca romană.",
+            "en": "Try the thermal pools dating back to Roman times."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco dell'Elefante",
+            "hu": "Elefánt-szikla",
+            "ro": "Arcul Elefantului",
+            "en": "Elephant Arch"
+          },
+          "coords": [
+            12.04,
+            36.78
+          ],
+          "category": "natural features",
+          "arrive_at": "13:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Bester Fotopunkt am frühen Nachmittag.",
+            "hu": "A legjobb fotópont kora délután.",
+            "ro": "Cel mai bun punct foto după-amiaza devreme.",
+            "en": "Best photo spot in the early afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Levante",
+            "hu": "Cala Levante",
+            "ro": "Cala Levante",
+            "en": "Cala Levante"
+          },
+          "coords": [
+            12.035,
+            36.785
+          ],
+          "category": "beach",
+          "arrive_at": "14:25",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Langes Sonnenbad in einer geschützten Bucht.",
+            "hu": "Hosszú napozás egy szélvédett öbölben.",
+            "ro": "Plajă prelungită într-un golf adăpostit.",
+            "en": "Long sunbathing session in a sheltered cove."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Asciutto",
+            "hu": "Bagno Asciutto",
+            "ro": "Bagno Asciutto",
+            "en": "Bagno Asciutto"
+          },
+          "coords": [
+            11.97,
+            36.79
+          ],
+          "category": "natural features",
+          "arrive_at": "17:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Entspannung in der Natursauna zum Abschluss.",
+            "hu": "Lazítás a természetes szaunában a nap végén.",
+            "ro": "Relaxare în sauna naturală la finalul zilei.",
+            "en": "Relax in the natural sauna to end your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die entlegensten Winkel der Insel. Starten Sie im Nationalpark mit Panoramablicken. Danach entspannen Sie am Venus-See und in den Thermen von Gadir. Den Nachmittag genießen Sie am Strand von Cala Levante, bevor Sie den Tag in der Natursauna von Bagno Asciutto ausklingen lassen.",
+        "hu": "Autóval a sziget legtávolabbi szegleteit is felfedezhetjük. Kezdjük a napot a Nemzeti Park panorámájával, majd pihenjünk a Vénusz-tónál és Gadir termálvizeiben. A délutánt Cala Levante strandján töltjük, végül a Bagno Asciutto barlangszaunájában frissülünk fel a hazaút előtt.",
+        "ro": "Cu mașina puteți ajunge în cele mai izolate colțuri ale insulei. Începeți cu Parcul Național pentru vederi panoramice. Relaxați-vă apoi la lacul Oglinda Venerei și în termele din Gadir. Petreceți după-amiaza pe plaja Cala Levante, încheind vizita la sauna naturală Bagno Asciutto.",
+        "en": "A car allows you to reach the most remote corners of the island. Start in the National Park for panoramic views. Later, relax at Venus Lake and the Gadir thermal pools. Spend the afternoon at Cala Levante beach before finishing with a session in the natural sauna at Bagno Asciutto."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sciakisciuka",
+            "tip": "Lokale Variante der Caponata."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sciakisciuka",
+            "tip": "A caponata helyi változata."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sciakisciuka",
+            "tip": "Varianta locală a celebrei caponata."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sciakisciuka",
+            "tip": "Local variation of the famous caponata."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Montagna Grande",
+            "tip": "Höchster Punkt mit Blick nach Tunesien.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Montagna Grande",
+            "tip": "A legmagasabb pont, ahonnan Tunéziáig látni.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Montagna Grande",
+            "tip": "Cel mai înalt punct, cu vedere spre Tunisia.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Montagna Grande",
+            "tip": "Highest point with views toward Tunisia.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Azienda Agricola",
+            "tip": "Olivenöl und Kapern direkt ab Hof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi gazdaságok",
+            "tip": "Olívaolaj és kapribogyó a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ferme locale",
+            "tip": "Ulei de măsline și capere direct de la fermă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farms",
+            "tip": "Olive oil and capers directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind eng und kurvenreich, fahren Sie vorsichtig.",
+          "Ein kleiner Geländewagen ist ideal.",
+          "Tanken Sie im Hauptort, es gibt kaum Tankstellen.",
+          "Parken an den Buchten kann im Sommer schwierig sein."
+        ],
+        "hu": [
+          "Az utak szűkek és kanyargósak, vezess óvatosan.",
+          "Egy kisebb terepjáró az ideális választás.",
+          "Tankolj a fővárosban, máshol kevés a benzinkút.",
+          "Nyáron a strandoknál nehéz lehet a parkolás."
+        ],
+        "ro": [
+          "Drumurile sunt înguste și șerpuite, conduceți cu prudență.",
+          "Un SUV de mici dimensiuni este ideal.",
+          "Alimentați în orașul principal, benzinăriile sunt rare.",
+          "Parcarea lângă golfuri poate fi dificilă vara."
+        ],
+        "en": [
+          "The roads are narrow and winding, drive carefully.",
+          "A small 4x4 or SUV is the ideal choice.",
+          "Refuel in the main town, gas stations are rare elsewhere.",
+          "Parking near the coves can be difficult in summer."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 20.0,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 25.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello Barbacane",
+            "hu": "Barbacane vár",
+            "ro": "Castelul Barbacane",
+            "en": "Barbacane Castle"
+          },
+          "coords": [
+            11.942,
+            36.831
+          ],
+          "category": "castles",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Hafen aus leicht zu Fuß erreichbar.",
+            "hu": "A kikötőtől könnyen megközelíthető gyalog.",
+            "ro": "Ușor de accesat pe jos din zona portului.",
+            "en": "Easily accessible on foot from the harbor area."
+          }
+        },
+        {
+          "name": {
+            "de": "Scauri",
+            "hu": "Scauri",
+            "ro": "Scauri",
+            "en": "Scauri"
+          },
+          "coords": [
+            11.945,
+            36.775
+          ],
+          "category": "port",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Zweiter wichtiger Hafen mit tollem Sonnenuntergang.",
+            "hu": "A sziget másik fontos kikötője, híres a naplementéjéről.",
+            "ro": "Al doilea port important, faimos pentru apusuri.",
+            "en": "The island's second port, famous for sunsets."
+          }
+        },
+        {
+          "name": {
+            "de": "Lago di Venere",
+            "hu": "Vénusz-tó",
+            "ro": "Lacul Venerei",
+            "en": "Venus Lake"
+          },
+          "coords": [
+            11.98,
+            36.815
+          ],
+          "category": "natural features",
+          "arrive_at": "13:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Busfahrplan für die Rückfahrt genau.",
+            "hu": "Pontosan ellenőrizd a buszmenetrendet a visszaúthoz.",
+            "ro": "Verificați cu atenție orarul autobuzelor pentru retur.",
+            "en": "Check the bus schedule carefully for your return."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantelleria Centro",
+            "hu": "Pantelleria központ",
+            "ro": "Centrul Pantelleria",
+            "en": "Pantelleria Center"
+          },
+          "coords": [
+            11.944,
+            36.833
+          ],
+          "category": "square",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Ausklang am Hauptplatz der Stadt.",
+            "hu": "A nap zárása a város főterén.",
+            "ro": "Încheierea zilei în piața principală a orașului.",
+            "en": "Ending the day in the town's main square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Inselflughafen-Bus und die Linienbusse. Starten Sie im Zentrum beim Castello. Fahren Sie nach Scauri für ein Mittagessen am Hafen. Am Nachmittag bringt Sie der Bus zum Venus-See für ein entspannendes Bad. Kehren Sie rechtzeitig zum Hauptort zurück, um das abendliche Treiben zu genießen.",
+        "hu": "Használjuk a szigeti buszjáratokat a felfedezéshez. Kezdjünk a központban a várnál, majd utazzunk el Scauri kikötőjébe egy ebédre. Délután a busz elvisz a Vénusz-tóhoz egy frissítő fürdőre. Érjünk vissza időben a fővárosba, hogy bekapcsolódjunk az esti forgatagba.",
+        "ro": "Folosiți autobuzele locale pentru a explora insula. Începeți în centru la castel, apoi luați autobuzul spre portul Scauri pentru prânz. După-amiaza vizitați lacul Oglinda Venerei pentru o baie relaxantă. Reveniți în orașul principal pentru a savura atmosfera serii.",
+        "en": "Use the island's bus network to explore. Start at the Castle in the center, then take a bus to Scauri harbor for lunch. In the afternoon, the transit line takes you to Venus Lake for a relaxing dip. Return to the main town in time to enjoy the evening atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Couscous Pantesco",
+            "tip": "Fisch-Couscous mit frittiertem Gemüse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pantelleriai kuszkusz",
+            "tip": "Halas kuszkusz sült zöldségekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Couscous Pantesco",
+            "tip": "Couscous cu pește și legume prăjite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pantesco Couscous",
+            "tip": "Fish couscous served with fried vegetables."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Scauri Porto",
+            "tip": "Ruhiger Hafenort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Scauri kikötő",
+            "tip": "Csendes kikötői település.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Portul Scauri",
+            "tip": "Localitate portuară liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Scauri Harbor",
+            "tip": "Quiet port village.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Emporio del Gusto",
+            "tip": "Lokale Spezialitäten im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Emporio del Gusto",
+            "tip": "Helyi különlegességek a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Emporio del Gusto",
+            "tip": "Specialități locale în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Emporio del Gusto",
+            "tip": "Local specialties in the town center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Busse fahren unregelmäßig, planen Sie Pufferzeiten ein.",
+          "Fahrkarten gibt es in Tabakläden (Tabacchi).",
+          "Die Linien verbinden die Hauptdörfer (Borghi).",
+          "Am Sonntag ist der Busverkehr stark eingeschränkt."
+        ],
+        "hu": [
+          "A buszok ritkán járnak, hagyj időt a várakozásra.",
+          "Jegyeket a dohányboltokban (Tabacchi) vehetsz.",
+          "A járatok az összes főbb falut (Borghi) összekötik.",
+          "Vasárnap a buszközlekedés korlátozott."
+        ],
+        "ro": [
+          "Autobuzele sunt rare, planificați marje de timp.",
+          "Biletele se cumpără de la tutungerii (Tabacchi).",
+          "Liniile fac legătura între principalele sate (Borghi).",
+          "Duminica serviciul de transport este foarte limitat."
+        ],
+        "en": [
+          "Buses are infrequent, so plan for extra waiting time.",
+          "Buy tickets at tobacco shops (Tabacchi).",
+          "The bus lines connect the main villages (Borghi).",
+          "Bus service is significantly reduced on Sundays."
+        ]
+      }
+    }
+  }
+}

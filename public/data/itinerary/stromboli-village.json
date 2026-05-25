@@ -1,0 +1,980 @@
+{
+  "city_id": "stromboli-village",
+  "anchor": {
+    "name": "Piazza San Vincenzo",
+    "coords": [
+      15.2167,
+      38.7917
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "20:00",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia di Scari",
+            "hu": "Scari strand",
+            "ro": "Plaja Scari",
+            "en": "Scari Beach"
+          },
+          "coords": [
+            15.241,
+            38.801
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spüren Sie den warmen, schwarzen Vulkansand unter den Füßen.",
+            "hu": "Érezd a lábad alatt a meleg, fekete vulkáni homokot.",
+            "ro": "Simțiți nisipul vulcanic negru și cald sub picioare.",
+            "en": "Feel the warm, black volcanic sand under your feet."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza San Vincenzo",
+            "hu": "Szent Vince tér",
+            "ro": "Piața San Vincenzo",
+            "en": "San Vincenzo Square"
+          },
+          "coords": [
+            15.2365,
+            38.8025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Der Treffpunkt der Insel mit Blick auf den Strombolicchio.",
+            "hu": "A sziget találkozóhelye, kilátással a Strombolicchio sziklára.",
+            "ro": "Locul de întâlnire al insulei, cu vedere spre Strombolicchio.",
+            "en": "The meeting point of the island with a view of Strombolicchio rock."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Vincenzo Ferreri",
+            "hu": "Szent Vince Ferrer-templom",
+            "ro": "Biserica San Vincenzo Ferreri",
+            "en": "Church of San Vincenzo Ferreri"
+          },
+          "coords": [
+            15.2368,
+            38.8028
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das weiße Gebäude ist das Wahrzeichen des Dorfes.",
+            "hu": "A fehér épület a falu jelképe.",
+            "ro": "Clădirea albă este simbolul satului.",
+            "en": "The white building is the landmark of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa di Ingrid Bergman",
+            "hu": "Ingrid Bergman háza",
+            "ro": "Casa lui Ingrid Bergman",
+            "en": "Ingrid Bergman's House"
+          },
+          "coords": [
+            15.2355,
+            38.8045
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Hier lebten Bergman und Rossellini während der Dreharbeiten.",
+            "hu": "Itt élt Bergman és Rossellini a filmforgatás alatt.",
+            "ro": "Aici au locuit Bergman și Rossellini în timpul filmărilor.",
+            "en": "Bergman and Rossellini lived here during the filming."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Ficogrande",
+            "hu": "Ficogrande strand",
+            "ro": "Plaja Ficogrande",
+            "en": "Ficogrande Beach"
+          },
+          "coords": [
+            15.2325,
+            38.8065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die am besten ausgestattete Badestelle der Insel.",
+            "hu": "A sziget legjobban felszerelt strandja.",
+            "ro": "Cea mai bine amenajată zonă de scăldat de pe insulă.",
+            "en": "The best-equipped swimming spot on the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Osservatorio Punta Labron",
+            "hu": "Punta Labron Obszervatórium",
+            "ro": "Observatorul Punta Labron",
+            "en": "Punta Labron Observatory"
+          },
+          "coords": [
+            15.228,
+            38.8105
+          ],
+          "category": "natural features",
+          "arrive_at": "18:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um die Eruptionen bei Sonnenuntergang zu sehen.",
+            "hu": "Tökéletes hely a kitörések megfigyeléséhez naplementekor.",
+            "ro": "Locul perfect pentru a vedea erupțiile la apus.",
+            "en": "The perfect place to see the eruptions at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Stromboli ist eine Insel der Kontraste: tiefschwarze Strände und strahlend weiße Häuser. Wir beginnen am Hafen von Scari und steigen zur Piazza auf, dem pulsierenden Herz des Dorfes. Nach einem Besuch des geschichtsträchtigen Bergman-Hauses entspannen wir in Ficogrande. Der Höhepunkt ist die Wanderung zum Observatorium, um aus sicherer Entfernung das 'Feuer des Berges' vor dem Nachthimmel zu bestaunen.",
+        "hu": "Stromboli az ellentétek szigete: mélyfekete strandok és vakítóan fehér házak. A Scari kikötőben kezdünk, majd felmegyünk a főtérre, a falu lüktető szívébe. A történelmi Bergman-ház megtekintése után Ficograndéban pihenünk. A nap fénypontja a séta az obszervatóriumhoz, hogy biztonságos távolságból csodáljuk meg a hegy tüzét az éjszakai égbolton.",
+        "ro": "Stromboli este o insulă a contrastelor: plaje negre și case albe strălucitoare. Începem în portul Scari și urcăm spre piață, inima vibrantă a satului. După o vizită la casa istorică a lui Bergman, ne relaxăm în Ficogrande. Punctul culminant este plimbarea spre observator pentru a admira focul muntelui de la o distanță sigură, pe cerul nopții.",
+        "en": "Stromboli is an island of contrasts: deep black beaches and brilliant white houses. We begin at the Scari port and climb to the piazza, the vibrant heart of the village. After visiting the historic Bergman house, we relax in Ficogrande. The highlight is the walk to the observatory to marvel at the mountain's fire from a safe distance against the night sky."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasta alla Strombolana",
+            "tip": "Mit Kapern, Oliven und lokalen Kräutern."
+          },
+          {
+            "name": "Zitronen-Granita",
+            "tip": "Aus den riesigen Zitronen der Insel hergestellt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasta alla Strombolana",
+            "tip": "Kapribogyóval, olívabogyóval és helyi fűszernövényekkel."
+          },
+          {
+            "name": "Citromos granita",
+            "tip": "A sziget hatalmas citromjaiból készül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasta alla Strombolana",
+            "tip": "Cu capere, măsline și ierburi locale."
+          },
+          {
+            "name": "Granita de lămâie",
+            "tip": "Preparată din lămâile uriașe ale insulei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasta alla Strombolana",
+            "tip": "With capers, olives, and local herbs."
+          },
+          {
+            "name": "Lemon Granita",
+            "tip": "Made from the island's giant lemons."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piscità",
+            "tip": "Ein ruhigerer Ortsteil mit versteckten Buchten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piscità",
+            "tip": "Csendesebb falurész eldugott öblökkel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piscità",
+            "tip": "O zonă mai liniștită a satului, cu golfuri ascunse.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piscità",
+            "tip": "A quieter part of the village with hidden coves.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vulkanstein-Schmuck",
+            "tip": "Einzigartige Stücke aus erstarrter Lava."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vulkánkő ékszerek",
+            "tip": "Egyedi darabok megkövült lávából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii din piatră vulcanică",
+            "tip": "Piese unice realizate din lavă solidificată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Volcanic Stone Jewelry",
+            "tip": "Unique pieces made from solidified lava."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie eine Taschenlampe mit, da es im Dorf keine Straßenbeleuchtung gibt.",
+          "Wanderschuhe sind auch für den Weg zum Observatorium ratsam.",
+          "Respektieren Sie die Sperrzonen des Vulkans."
+        ],
+        "hu": [
+          "Vigyél magaddal zseblámpát, mert a faluban nincs közvilágítás.",
+          "A túracipő ajánlott az obszervatóriumhoz vezető útra is.",
+          "Tartsd tiszteletben a vulkán tiltott zónáit."
+        ],
+        "ro": [
+          "Lăsați o lanternă în rucsac, deoarece nu există iluminat stradal în sat.",
+          "Încălțămintea de drumeție este recomandată și pentru drumul spre observator.",
+          "Respectați zonele de acces interzis ale vulcanului."
+        ],
+        "en": [
+          "Bring a flashlight as there is no street lighting in the village.",
+          "Hiking shoes are recommended even for the path to the observatory.",
+          "Respect the volcano's exclusion zones."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia di Scari",
+            "hu": "Scari strand",
+            "ro": "Plaja Scari",
+            "en": "Scari Beach"
+          },
+          "coords": [
+            15.241,
+            38.801
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ideal für ein morgendliches Bad.",
+            "hu": "Ideális egy reggeli úszáshoz.",
+            "ro": "Ideal pentru o baie de dimineață.",
+            "en": "Ideal for a morning swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza San Vincenzo",
+            "hu": "Szent Vince tér",
+            "ro": "Piața San Vincenzo",
+            "en": "San Vincenzo Square"
+          },
+          "coords": [
+            15.2365,
+            38.8025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Rande des Platzes ab.",
+            "hu": "Tedd le a biciklit a tér szélén.",
+            "ro": "Lăsați bicicleta la marginea pieței.",
+            "en": "Park your bike at the edge of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Ficogrande",
+            "hu": "Ficogrande strand",
+            "ro": "Plaja Ficogrande",
+            "en": "Ficogrande Beach"
+          },
+          "coords": [
+            15.2325,
+            38.8065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf den Strombolicchio.",
+            "hu": "Élvezd a kilátást a Strombolicchio sziklára.",
+            "ro": "Bucurați-vă de vederea spre Strombolicchio.",
+            "en": "Enjoy the view of Strombolicchio."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscità Bucht",
+            "hu": "Piscità-öböl",
+            "ro": "Golful Piscità",
+            "en": "Piscità Cove"
+          },
+          "coords": [
+            15.2285,
+            38.8095
+          ],
+          "category": "natural features",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Eine ruhige Bucht am Ende der befahrbaren Straße.",
+            "hu": "Csendes öböl a járható út végén.",
+            "ro": "Un golf liniștit la capătul drumului practicabil.",
+            "en": "A quiet cove at the end of the traversable road."
+          }
+        },
+        {
+          "name": {
+            "de": "San Vincenzo Bar",
+            "hu": "San Vincenzo bár",
+            "ro": "Bar San Vincenzo",
+            "en": "San Vincenzo Bar"
+          },
+          "coords": [
+            15.236,
+            38.802
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich eine Erfrischung vor der Rückgabe.",
+            "hu": "Frissülj fel a bicikli leadása előtt.",
+            "ro": "Luați o gustare înainte de a returna bicicleta.",
+            "en": "Have a refreshment before returning the bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Da Stromboli fast autofrei ist, ist das Fahrrad (oder E-Bike) ideal. Wir befahren die wenigen befestigten Wege zwischen Scari und Piscità. Es ist eine kurze, aber malerische Tour entlang der weißen Häuser und blühenden Bougainvilleen. Ein entspannter Weg, um die verschiedenen Strände der Insel zu verbinden.",
+        "hu": "Mivel Stromboli szinte autómentes, a bicikli (vagy e-bike) ideális. Bejárjuk a kevés szilárd burkolatú utat Scari és Piscità között. Rövid, de festői túra a fehér házak és virágzó murvafürtök mentén. Pihentető módja a sziget különböző strandjainak összekötésére.",
+        "ro": "Deoarece Stromboli este aproape fără mașini, bicicleta (sau e-bike) este ideală. Parcurgem puținele drumuri pavate dintre Scari și Piscità. Este un tur scurt, dar pitoresc printre casele albe și bougainvillea înflorită. O modalitate relaxantă de a lega diferitele plaje ale insulei.",
+        "en": "Since Stromboli is almost car-free, a bike (or e-bike) is ideal. We travel the few paved paths between Scari and Piscità. It's a short but scenic tour along white houses and blooming bougainvillea. A relaxed way to connect the island's different beaches."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Granita al Limone",
+            "tip": "Ein Muss an heißen Tagen auf dem Rad."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Granita al Limone",
+            "tip": "Kötelező darab a forró napokon a biciklin."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Granita al Limone",
+            "tip": "Obligatorie în zilele toride pe bicicletă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Granita al Limone",
+            "tip": "A must on hot days on the bike."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstenweg nach Piscità",
+            "tip": "Wunderschöne Ausblicke auf das Meer ohne Steigung.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Partmenti út Piscità felé",
+            "tip": "Gyönyörű kilátás a tengerre emelkedők nélkül.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul de coastă spre Piscità",
+            "tip": "Vederi superbe spre mare fără pante.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal path to Piscità",
+            "tip": "Beautiful views of the sea without climbs.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Süße Spezialität aus den Blüten der Insel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Édes különlegesség a sziget virágaiból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Specialitate dulce din florile insulei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Sweet specialty from the island's flowers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die kleinen Elektro-Taxis (Ape), die Vorrang haben.",
+          "Die Straßen sind sehr eng, fahren Sie langsam um Kurven.",
+          "Sichern Sie Ihr Fahrrad immer ab, auch wenn die Insel sicher ist."
+        ],
+        "hu": [
+          "Figyelj a kis elektromos taxikra (Ape), amiknek elsőbbségük van.",
+          "Az utak nagyon szűkek, lassíts a kanyarokban.",
+          "Mindig zárd le a biciklit, még ha a sziget biztonságos is."
+        ],
+        "ro": [
+          "Fiți atenți la micile taxiuri electrice (Ape), care au prioritate.",
+          "Drumurile sunt foarte înguste, încetiniți în curbe.",
+          "Asigurați-vă întotdeauna bicicleta, chiar dacă insula este sigură."
+        ],
+        "en": [
+          "Watch out for the small electric taxis (Ape), which have priority.",
+          "The roads are very narrow, slow down around curves.",
+          "Always lock your bike, even if the island is safe."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 4.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Scari (Hafen)",
+            "hu": "Scari (Kikötő)",
+            "ro": "Scari (Port)",
+            "en": "Scari (Port)"
+          },
+          "coords": [
+            15.241,
+            38.801
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Hier finden Sie die Elektro-Taxis der Insel.",
+            "hu": "Itt találod a sziget elektromos taxijait.",
+            "ro": "Aici găsiți taxiurile electrice ale insulei.",
+            "en": "Here you will find the island's electric taxis."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza San Vincenzo",
+            "hu": "Szent Vince tér",
+            "ro": "Piața San Vincenzo",
+            "en": "San Vincenzo Square"
+          },
+          "coords": [
+            15.2365,
+            38.8025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche und genießen Sie die Aussicht.",
+            "hu": "Látogasd meg a templomot és élvezd a kilátást.",
+            "ro": "Vizitați biserica și bucurați-vă de vedere.",
+            "en": "Visit the church and enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Ficogrande",
+            "hu": "Ficogrande strand",
+            "ro": "Plaja Ficogrande",
+            "en": "Ficogrande Beach"
+          },
+          "coords": [
+            15.2325,
+            38.8065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das Taxi setzt Sie direkt am Strandzugang ab.",
+            "hu": "A taxi közvetlenül a strandbejáratnál tesz le.",
+            "ro": "Taxiul vă lasă chiar la intrarea pe plajă.",
+            "en": "The taxi drops you off right at the beach entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Osservatorio (Restaurant-Bereich)",
+            "hu": "Obszervatórium (Étterem rész)",
+            "ro": "Observator (Zona restaurantului)",
+            "en": "Observatory (Restaurant area)"
+          },
+          "coords": [
+            15.228,
+            38.8105
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Buchen Sie die Fahrt zum Abendessen im Voraus.",
+            "hu": "Foglald le a fuvart a vacsorához előre.",
+            "ro": "Rezervați cursa pentru cină în avans.",
+            "en": "Book your ride for dinner in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "In Stromboli gibt es keine normalen Autos, nur charmante Elektro-Carts (Ape). Wir nutzen diesen Service, um bequem von den Stränden zu den höher gelegenen Aussichtspunkten zu gelangen. Ein Muss für den Weg zum Osservatorio-Restaurant am Nachmittag oder Abend, um die Aussicht ohne die Mühe des Aufstiegs zu genießen.",
+        "hu": "Stromboliban nincsenek hagyományos autók, csak bájos elektromos kocsik (Ape). Ezt a szolgáltatást használjuk, hogy kényelmesen eljussunk a strandoktól a magasabban fekvő kilátópontokig. Kötelező az obszervatórium éttermébe vezető úthoz délután vagy este, hogy élvezhessük a kilátást a hegymászás fáradalmai nélkül.",
+        "ro": "În Stromboli nu există mașini normale, ci doar carturi electrice fermecătoare (Ape). Folosim acest serviciu pentru a ajunge confortabil de la plaje la punctele de observație mai înalte. Este obligatoriu pentru drumul spre restaurantul de la observator după-amiaza sau seara, pentru a savura vederea fără efortul urcușului.",
+        "en": "In Stromboli, there are no normal cars, only charming electric carts (Ape). We use this service to travel comfortably from the beaches to the higher viewpoints. A must for the trip to the Observatory restaurant in the afternoon or evening to enjoy the view without the effort of climbing."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizza am Osservatorio",
+            "tip": "Essen mit Blick auf die Vulkanausbrüche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizza az obszervatóriumnál",
+            "tip": "Vacsora kilátással a vulkánkitörésekre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizza la Observator",
+            "tip": "Cina cu vedere la erupțiile vulcanice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizza at the Observatory",
+            "tip": "Dining with a view of the volcanic eruptions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt durch die Gassen",
+            "tip": "Entdecken Sie versteckte Häuser ohne zu laufen.",
+            "emoji": "🛺"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utazás a szűk utcákon",
+            "tip": "Fedezd fel az eldugott házakat gyaloglás nélkül.",
+            "emoji": "🛺"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria prin străduțe",
+            "tip": "Descoperiți casele ascunse fără a merge pe jos.",
+            "emoji": "🛺"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ride through the alleys",
+            "tip": "Discover hidden houses without walking.",
+            "emoji": "🛺"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stromboli T-Shirts",
+            "tip": "Kultige Souvenirs in den Läden nahe der Piazza."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stromboli pólók",
+            "tip": "Ikonikus szuvenírek a főtér közeli boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tricouri Stromboli",
+            "tip": "Suveniruri iconice în magazinele de lângă piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stromboli T-shirts",
+            "tip": "Iconic souvenirs in the shops near the piazza."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vereinbaren Sie den Fahrpreis immer im Voraus.",
+          "Die Carts sind klein, meist passen nur 2-3 Personen hinein.",
+          "In der Nacht kosten die Fahrten oft einen Aufschlag."
+        ],
+        "hu": [
+          "Mindig előre egyezz meg a fuvardíjban.",
+          "A kocsik kicsik, általában csak 2-3 ember fér el bennük.",
+          "Éjszaka a fuvardíj gyakran magasabb."
+        ],
+        "ro": [
+          "Stabiliți întotdeauna tariful în avans.",
+          "Carturile sunt mici, de obicei încap doar 2-3 persoane.",
+          "Noaptea, cursele au adesea un tarif suplimentar."
+        ],
+        "en": [
+          "Always agree on the fare in advance.",
+          "The carts are small, usually fitting only 2-3 people.",
+          "At night, rides often carry a surcharge."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 2.5,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Scari",
+            "hu": "Scari kikötő",
+            "ro": "Portul Scari",
+            "en": "Scari Port"
+          },
+          "coords": [
+            15.241,
+            38.801
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie das Anlegen der Fähren.",
+            "hu": "Nézd meg a kompok kikötését.",
+            "ro": "Urmăriți acostarea feriboturilor.",
+            "en": "Watch the ferries docking."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza San Vincenzo",
+            "hu": "Szent Vince tér",
+            "ro": "Piața San Vincenzo",
+            "en": "San Vincenzo Square"
+          },
+          "coords": [
+            15.2365,
+            38.8025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie das kleine Vulkanmuseum in der Nähe.",
+            "hu": "Látogasd meg a közeli kis vulkánmúzeumot.",
+            "ro": "Vizitați micul muzeu al vulcanului din apropiere.",
+            "en": "Visit the small volcano museum nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Ficogrande",
+            "hu": "Ficogrande strand",
+            "ro": "Plaja Ficogrande",
+            "en": "Ficogrande Beach"
+          },
+          "coords": [
+            15.2325,
+            38.8065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Leihen Sie sich ein Boot, um den Strombolicchio aus der Nähe zu sehen.",
+            "hu": "Bérelj csónakot, hogy közelről lásd a Strombolicchio-t.",
+            "ro": "Închiriați o barcă pentru a vedea Strombolicchio de aproape.",
+            "en": "Rent a boat to see Strombolicchio up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Bartolomeo",
+            "hu": "Szent Bertalan-templom",
+            "ro": "Biserica San Bartolomeo",
+            "en": "Church of San Bartolomeo"
+          },
+          "coords": [
+            15.231,
+            38.8075
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine ruhige Kirche am Ende des bewohnten Gebiets.",
+            "hu": "Csendes templom a lakott terület végén.",
+            "ro": "O biserică liniștită la capătul zonei locuite.",
+            "en": "A quiet church at the end of the inhabited area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Da es auf Stromboli keinen öffentlichen Nahverkehr gibt, ist 'Transit' hier die Fortbewegung zu Fuß oder mit den Wassertaxis. Wir erkunden die wichtigsten Punkte des Dorfes und verbringen viel Zeit an den markanten schwarzen Stränden. Eine einfache Tour, die sich auf die Schönheit des Dorfes konzentriert.",
+        "hu": "Mivel Strombolin nincs tömegközlekedés, a 'tranzit' itt a gyaloglást vagy a vízi taxikat jelenti. Bejárjuk a falu legfontosabb pontjait, és sok időt töltünk a jellegzetes fekete strandokon. Egyszerű túra, amely a falu szépségére összpontosít.",
+        "ro": "Deoarece pe Stromboli nu există transport public, 'tranzitul' aici înseamnă mersul pe jos sau taxiurile pe apă. Explorăm punctele principale ale satului și petrecem mult timp pe plajele negre distinctive. Un tur simplu care se concentrează pe frumusețea satului.",
+        "en": "Since there is no public transit on Stromboli, 'transit' here means walking or water taxis. We explore the village's main points and spend plenty of time on the striking black beaches. A simple tour focused on the beauty of the village."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stromboli Granita",
+            "tip": "Genießen Sie sie am Hafen während Sie auf die Fähre warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stromboli granita",
+            "tip": "Élvezd a kikötőben, miközben a kompra vársz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Granita Stromboli",
+            "tip": "Savurați-o în port în timp ce așteptați feribotul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stromboli Granita",
+            "tip": "Enjoy it at the harbor while waiting for the ferry."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche San Bartolomeo",
+            "tip": "Weit weg vom Trubel des Hafens.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Bertalan-templom",
+            "tip": "Távol a kikötő nyüzsgésétől.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica San Bartolomeo",
+            "tip": "Departe de agitația portului.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Bartolomeo Church",
+            "tip": "Far from the bustle of the harbor.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten aus Stromboli",
+            "tip": "Mit Bildern der nächtlichen Ausbrüche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stromboli képeslapok",
+            "tip": "Az éjszakai kitörések képeivel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederi din Stromboli",
+            "tip": "Cu imagini ale erupțiilor nocturne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stromboli Postcards",
+            "tip": "With images of the nightly eruptions."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Fortbewegung zu Fuß ist auf Stromboli die authentischste Erfahrung.",
+          "Tragen Sie Sonnencreme auf, auch wenn Sie nur kurz im Dorf spazieren.",
+          "Die Wassertaxis nach Ginostra fahren vom Hafen Scari ab."
+        ],
+        "hu": [
+          "A gyaloglás a legautentikusabb élmény Strombolin.",
+          "Használj naptejet, még ha csak rövid sétát teszel is a faluban.",
+          "A Ginostrába tartó vízi taxik a Scari kikötőből indulnak."
+        ],
+        "ro": [
+          "Mersul pe jos este cea mai autentică experiență în Stromboli.",
+          "Folosiți cremă de protecție solară, chiar dacă faceți doar o scurtă plimbare prin sat.",
+          "Taxiurile pe apă către Ginostra pleacă din portul Scari."
+        ],
+        "en": [
+          "Walking is the most authentic experience on Stromboli.",
+          "Wear sunscreen even if you are only taking a short walk in the village.",
+          "Water taxis to Ginostra depart from Scari harbor."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "_coords": [
+      15.2133,
+      38.7894
+    ],
+    "_region": "IT-82 Sicilia (Aeolian)",
+    "transit_official": "https://www.libertylines.it/",
+    "transit_app": "https://www.carontetourist.it/",
+    "bike_share": null,
+    "city_card": null,
+    "events": null,
+    "tourism_office": "https://www.comune.lipari.me.it/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/sicilia/messina/stromboli.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/stromboli",
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch primär; Englisch und Deutsch bei Vulkanführern üblich. Wenig Auswahl im Dorf.",
+      "hu": "Olasz az alap; angol és német a vulkán-túravezetőknél szokványos. Faluban kevés választás.",
+      "ro": "Italiana de bază; engleza și germana la ghizii vulcanului uzuale. Sat mic, opțiuni puține.",
+      "en": "Italian primary; English and German common among volcano guides. Village offerings limited."
+    },
+    "best_time": {
+      "de": "April–Juni und September–Oktober für geführten Aufstieg (bis 400 m, höher nur mit Guide).",
+      "hu": "Április–június és szeptember–október vezetett mászásra (400 m-ig, feljebb csak guide-dal).",
+      "ro": "Aprilie–iunie și septembrie–octombrie pentru ascensiune ghidată (până la 400 m, mai sus doar cu ghid).",
+      "en": "April–June and September–October best for guided ascent (up to 400 m, higher only with guide)."
+    },
+    "warnings": {
+      "de": "Aktiver Vulkan; Aufstiegszonen ändern sich nach Eruptionen. Nur autorisierte Guides. Fähren wetterabhängig.",
+      "hu": "Aktív vulkán; mászózónák kitörés után változnak. Csak hivatalos guide. Komp időjárásfüggő.",
+      "ro": "Vulcan activ; zonele de urcare se schimbă după erupții. Doar ghizi autorizați. Feribot dependent de vreme.",
+      "en": "Active volcano; ascent zones change after eruptions. Authorised guides only. Ferries weather-dependent."
+    }
+  }
+}

@@ -1,0 +1,1050 @@
+{
+  "city_id": "porto-cervo",
+  "anchor": {
+    "name": "La Piazzetta",
+    "coords": [
+      9.5294,
+      41.1322
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "La Piazzetta",
+            "hu": "La Piazzetta",
+            "ro": "La Piazzetta",
+            "en": "La Piazzetta"
+          },
+          "coords": [
+            9.5294,
+            41.1322
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Frühmorgens Kaffee trinken und VIPs beobachten.",
+            "hu": "Kora reggeli kávé az elegáns butikok között.",
+            "ro": "Savurați o cafea dimineața printre magazinele de lux.",
+            "en": "Early morning coffee while people-watching near luxury boutiques."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade du Port",
+            "hu": "Promenade du Port",
+            "ro": "Promenade du Port",
+            "en": "Promenade du Port"
+          },
+          "coords": [
+            9.5275,
+            41.1335
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie moderne Kunstgalerien am Hafen.",
+            "hu": "Fedezze fel a modern művészeti galériákat a kikötőben.",
+            "ro": "Explorați galeriile de artă modernă de lângă port.",
+            "en": "Explore modern art galleries along the harbor side."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Vecchio",
+            "hu": "Porto Vecchio",
+            "ro": "Porto Vecchio",
+            "en": "Porto Vecchio"
+          },
+          "coords": [
+            9.525,
+            41.136
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die luxuriösesten Yachten der Welt.",
+            "hu": "Csodálja meg a világ legfényűzőbb jachtjait a mólónál.",
+            "ro": "Admirați cele mai luxoase iahturi din lume la chei.",
+            "en": "Admire some of the world's most luxurious yachts at the pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Stella Maris",
+            "hu": "Stella Maris templom",
+            "ro": "Biserica Stella Maris",
+            "en": "Stella Maris Church"
+          },
+          "coords": [
+            9.5242,
+            41.1385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche für die moderne Architektur und Aussicht.",
+            "hu": "Modern építészet és páratlan kilátás az öbölre.",
+            "ro": "Arhitectură modernă și o vedere panoramică asupra golfului.",
+            "en": "Check out the modern architecture and the view over the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Gregoland",
+            "hu": "Gregoland",
+            "ro": "Gregoland",
+            "en": "Gregoland"
+          },
+          "coords": [
+            9.523,
+            41.141
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Perfekter schattiger Ort für eine Pause am Nachmittag.",
+            "hu": "Tökéletes árnyékos pihenőhely a délutáni hőségben.",
+            "ro": "Locul ideal cu umbră pentru o pauză de după-amiază.",
+            "en": "Perfect shaded spot for a break during the afternoon heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia del Giglio",
+            "hu": "Spiaggia del Giglio",
+            "ro": "Spiaggia del Giglio",
+            "en": "Spiaggia del Giglio"
+          },
+          "coords": [
+            9.52,
+            41.144
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kleiner, ruhiger Strandspaziergang zum Abschluss.",
+            "hu": "Egy kis nyugodt tengerparti séta a nap végére.",
+            "ro": "O scurtă plimbare relaxantă pe plajă la finalul zilei.",
+            "en": "A small, quiet beach walk to conclude the day trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Costa Smeralda auf der Piazzetta, wo Luxus auf traditionelle Architektur trifft. Ein kurzer Spaziergang führt Sie zur Promenade du Port mit ihren Boutiquen und Galerien.\n\nAm späten Vormittag erreichen Sie den Porto Vecchio, um die beeindruckenden Superyachten zu sehen. Von dort steigen Sie sanft zur Stella Maris Kirche hinauf, einem Juwel der modernen Sakralarchitektur.\n\nDer Nachmittag gehört der Entspannung. Besuchen Sie den Gregoland Park, der besonders für Familien geeignet ist, und spazieren Sie weiter zur ruhigen Spiaggia del Giglio.\n\nBeenden Sie den Tag mit einem Aperitif am Hafen, während die Sonne hinter den Granitfelsen der Gallura versinkt.",
+        "hu": "Kezdje a napot a Costa Smeralda szívében, a Piazzettán, ahol a luxus és a hagyományos építészet találkozik. Egy rövid séta elvezeti a Promenade du Port elegáns butikjaihoz és galériáihoz.\n\nKéső délelőtt érje el a Porto Vecchio-t, hogy megcsodálja a lenyűgöző szuperjachtokat. Innen egy könnyű emelkedő vezet a Stella Maris templomhoz, amely a modern szakrális építészet gyöngyszeme.\n\nA délután a pihenésé. Látogasson el a Gregoland parkba, amely kiváló kikapcsolódást nyújt, majd sétáljon tovább a nyugodt Spiaggia del Giglio strandig.\n\nZárja a napot egy aperitiffel a kikötőben, miközben a nap lebukik Gallura jellegzetes gránitsziklái mögött.",
+        "ro": "Începeți ziua în inima Costa Smeralda la Piazzetta, unde luxul se îmbină cu arhitectura tradițională. O scurtă plimbare vă duce la Promenade du Port, cu buticurile și galeriile sale rafinate.\n\nSpre sfârșitul dimineții, ajungeți la Porto Vecchio pentru a vedea super-iahturile impresionante. De acolo, urcați ușor spre Biserica Stella Maris, o bijuterie a arhitecturii sacre moderne.\n\nDupă-amiaza este dedicată relaxării. Vizitați parcul Gregoland, ideal pentru o pauză liniștită, apoi continuați plimbarea spre plaja retrasă Spiaggia del Giglio.\n\nÎncheiați ziua cu un aperitiv în port, în timp ce soarele apune peste stâncile de granit specifice regiunii Gallura.",
+        "en": "Start your day in the heart of Costa Smeralda at La Piazzetta, where luxury meets traditional architecture. A short walk leads you to Promenade du Port with its upscale boutiques and galleries.\n\nLate morning, reach Porto Vecchio to see the impressive superyachts. From there, climb gently to Stella Maris Church, a jewel of modern sacred architecture with a stunning view.\n\nAfternoon is for relaxation. Visit Gregoland park, perfect for a shaded break, and continue your walk to the quiet Spiaggia del Giglio.\n\nEnd the day with an aperitif at the harbor as the sun sets behind the characteristic granite rocks of the Gallura region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Il Pomodoro",
+            "tip": "Klassische sardische Pasta und Pizza im Zentrum."
+          },
+          {
+            "name": "Cervo Sardo",
+            "tip": "Frischer Fisch und lokale Spezialitäten in elegantem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Il Pomodoro",
+            "tip": "Hagyományos szardíniai tészta és pizza a központban."
+          },
+          {
+            "name": "Cervo Sardo",
+            "tip": "Friss halak és helyi különlegességek elegáns környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Il Pomodoro",
+            "tip": "Paste sardiniene clasice și pizza în centrul orașului."
+          },
+          {
+            "name": "Cervo Sardo",
+            "tip": "Pește proaspăt și specialități locale într-un cadru elegant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Il Pomodoro",
+            "tip": "Classic Sardinian pasta and pizza in the center."
+          },
+          {
+            "name": "Cervo Sardo",
+            "tip": "Fresh fish and local specialties in an elegant setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stella Maris Vorplatz",
+            "tip": "Panoramablick auf die Bucht von Porto Cervo.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gregoland",
+            "tip": "Ruhiger Park abseits der Luxusgeschäfte.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stella Maris előtere",
+            "tip": "Panorámás kilátás a Porto Cervo-i öbölre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gregoland",
+            "tip": "Csendes park távol a luxusüzletek zajától.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Esplanada Stella Maris",
+            "tip": "Vedere panoramică asupra golfului Porto Cervo.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gregoland",
+            "tip": "Parc liniștit, departe de agitația magazinelor de lux.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stella Maris Terrace",
+            "tip": "Panoramic view over the Porto Cervo bay.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gregoland",
+            "tip": "Quiet park away from the luxury shopping noise.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Esmeralda Bazaar",
+            "tip": "Kuratiertes Kunsthandwerk und Designermode."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Esmeralda Bazaar",
+            "tip": "Válogatott kézműves termékek és dizájner divat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Esmeralda Bazaar",
+            "tip": "Artizanat selecționat și modă de designer."
+          }
+        ],
+        "en": [
+          {
+            "name": "Esmeralda Bazaar",
+            "tip": "Curated handicrafts and designer fashion pieces."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da es einige leichte Steigungen gibt.",
+          "Reservieren Sie Restaurants im Voraus, besonders in der Hochsaison.",
+          "Besuchen Sie die Kirche am Vormittag für das beste Licht.",
+          "Parken ist im Zentrum teuer, nutzen Sie die Randparkplätze."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az emelkedők és a macskakövek miatt.",
+          "Foglaljon asztalt előre, különösen a nyári főszezonban.",
+          "A templomot délelőtt érdemes látogatni a legszebb fényekért.",
+          "A központi parkolás drága, érdemes a külső parkolókat használni."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru porțiunile în pantă.",
+          "Rezervați masa din timp, mai ales în sezonul estival.",
+          "Vizitați biserica dimineața pentru cea mai bună lumină.",
+          "Parcarea centrală este scumpă; folosiți parcările de la periferie."
+        ],
+        "en": [
+          "Wear comfortable shoes as there are some gentle slopes and cobblestones.",
+          "Book restaurants in advance, especially during the peak summer season.",
+          "Visit the church in the morning for the best natural light.",
+          "Central parking is expensive; look for peripheral lots if needed."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Porto Vecchio",
+            "hu": "Porto Vecchio",
+            "ro": "Porto Vecchio",
+            "en": "Porto Vecchio"
+          },
+          "coords": [
+            9.525,
+            41.136
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie am Hafen, um den Verkehr zu vermeiden.",
+            "hu": "Kezdjen a kikötőben, hogy elkerülje a forgalmat.",
+            "ro": "Începeți din port pentru a evita traficul matinal.",
+            "en": "Start at the harbor to avoid the early morning traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Stella Maris",
+            "hu": "Stella Maris templom",
+            "ro": "Biserica Stella Maris",
+            "en": "Stella Maris Church"
+          },
+          "coords": [
+            9.5242,
+            41.1385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Anstieg, aber der Ausblick lohnt sich.",
+            "hu": "Rövid emelkedő, de a kilátás megéri az erőfeszítést.",
+            "ro": "Urcare scurtă, dar panorama merită efortul.",
+            "en": "Short climb, but the view is definitely worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia del Giglio",
+            "hu": "Spiaggia del Giglio",
+            "ro": "Spiaggia del Giglio",
+            "en": "Spiaggia del Giglio"
+          },
+          "coords": [
+            9.52,
+            41.144
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erfrischen Sie sich im klaren Wasser.",
+            "hu": "Frissüljön fel a kristálytiszta vízben.",
+            "ro": "Răcoriți-vă în apa limpede a golfului.",
+            "en": "Take a refreshing dip in the crystal-clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Granu",
+            "hu": "Cala Granu",
+            "ro": "Cala Granu",
+            "en": "Cala Granu"
+          },
+          "coords": [
+            9.524,
+            41.151
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Weiße Sandbucht, ideal zum Sonnenbaden.",
+            "hu": "Fehér homokos öböl, ideális napozáshoz.",
+            "ro": "Golf cu nisip alb, ideal pentru plajă.",
+            "en": "White sandy bay, ideal for a longer sunbathing session."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade du Port",
+            "hu": "Promenade du Port",
+            "ro": "Promenade du Port",
+            "en": "Promenade du Port"
+          },
+          "coords": [
+            9.5275,
+            41.1335
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad durch die Fußgängerzone.",
+            "hu": "A sétálóövezetben tolja a kerékpárt.",
+            "ro": "În zona pietonală, mergeți pe lângă bicicletă.",
+            "en": "Push your bike through the pedestrian shopping area."
+          }
+        },
+        {
+          "name": {
+            "de": "La Piazzetta",
+            "hu": "La Piazzetta",
+            "ro": "La Piazzetta",
+            "en": "La Piazzetta"
+          },
+          "coords": [
+            9.5294,
+            41.1322
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einem italienischen Eis.",
+            "hu": "Jutalmazza meg magát egy olasz fagyival.",
+            "ro": "Răsplătiți-vă cu o înghețată artizanală.",
+            "en": "Reward yourself with a delicious Italian gelato."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Küste von Porto Cervo auf zwei Rädern. Beginnen Sie am Hafen und radeln Sie zur Stella Maris Kirche, bevor Sie die wunderschönen Buchten von Giglio und Cala Granu ansteuern.\n\nDie Route bietet atemberaubende Ausblicke auf das Meer und führt über teils hügelige Straßen. Zur Mittagszeit können Sie an den Stränden entspannen und schwimmen gehen.\n\nAm Nachmittag kehren Sie in das geschäftige Zentrum zurück, schlendern über die Promenade und genießen das lebendige Flair der Piazzetta.",
+        "hu": "Fedezze fel Porto Cervo partvidékét két keréken. Kezdjen a kikötőnél, tekerjen el a Stella Maris templomhoz, majd vegye az irányt Giglio és Cala Granu gyönyörű öblei felé.\n\nAz útvonal lenyűgöző tengeri panorámát kínál dombos szakaszokkal fűszerezve. Napközben élvezze a fürdőzést a kristálytiszta vizű strandokon.\n\nDélután térjen vissza a pezsgő központba, nézelődjön a kikötői sétányon, és élvezze a Piazzetta élettel teli hangulatát.",
+        "ro": "Explorați coasta Porto Cervo pe două roți. Începeți din port, pedalați spre Biserica Stella Maris, apoi îndreptați-vă către golfurile superbe Giglio și Cala Granu.\n\nTraseul oferă panorame marine spectaculoase și include câteva secțiuni deluroase. În timpul zilei, bucurați-vă de o baie în apele cristaline ale plajelor locale.\n\nDupă-amiaza, reveniți în centrul vibrant, plimbați-vă pe promenada portului și savurați atmosfera plină de viață din Piazzetta.",
+        "en": "Explore the coastline of Porto Cervo on two wheels. Start at the harbor, cycle to Stella Maris Church, and then head towards the beautiful bays of Giglio and Cala Granu.\n\nThe route offers breathtaking sea views along some hilly sections. During the day, enjoy swimming and relaxing at the pristine beaches.\n\nIn the afternoon, return to the bustling center, browse the shops at the promenade, and soak up the lively atmosphere of La Piazzetta."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Baretto",
+            "tip": "Schneller Lunch und gute Sandwiches für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baretto",
+            "tip": "Gyors ebéd és kiváló szendvicsek kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baretto",
+            "tip": "Prânz rapid și sandvișuri bune pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baretto",
+            "tip": "Quick lunch and great sandwiches for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cala Granu",
+            "tip": "Ruhiger Strandabschnitt am Vormittag.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cala Granu",
+            "tip": "Csendes partszakasz a délelőtti órákban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cala Granu",
+            "tip": "Secțiune de plajă liniștită în timpul dimineții.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cala Granu",
+            "tip": "Quiet beach section during the morning hours.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Porto Cervo Market",
+            "tip": "Lokale Produkte und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Porto Cervo Piac",
+            "tip": "Helyi termékek és szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Porto Cervo",
+            "tip": "Produse locale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Porto Cervo Market",
+            "tip": "Local products and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike, um die Hügel leichter zu bewältigen.",
+          "Vorsicht vor den schmalen Straßen mit Autoverkehr.",
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Schließen Sie Ihr Rad immer sicher ab."
+        ],
+        "hu": [
+          "Béreljen elektromos kerékpárt a dombok könnyebb leküzdéséhez.",
+          "Vigyázzon a keskeny utakon a gépjárműforgalomra.",
+          "Vigyen magával bőséges ivóvizet.",
+          "Mindig zárja le biztonságosan a kerékpárt."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru a urca mai ușor dealurile.",
+          "Atenție la traficul auto pe străzile înguste.",
+          "Luați cu voi o cantitate suficientă de apă.",
+          "Asigurați întotdeauna bicicleta când o parcați."
+        ],
+        "en": [
+          "Rent an e-bike to tackle the hills more easily.",
+          "Be careful of car traffic on the narrow coastal roads.",
+          "Carry plenty of water with you.",
+          "Always lock your bike securely when stopping."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 28.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Capo Ferro Leuchtturm",
+            "hu": "Capo Ferro világítótorony",
+            "ro": "Farul Capo Ferro",
+            "en": "Capo Ferro Lighthouse"
+          },
+          "coords": [
+            9.523,
+            41.155
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Spektakulärer Blick auf die Straße von Bonifacio.",
+            "hu": "Látványos kilátás a Bonifacio-szorosra.",
+            "ro": "Vedere spectaculoasă spre strâmtoarea Bonifacio.",
+            "en": "Spectacular view towards the Strait of Bonifacio."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Granu",
+            "hu": "Cala Granu",
+            "ro": "Cala Granu",
+            "en": "Cala Granu"
+          },
+          "coords": [
+            9.524,
+            41.151
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Früh ankommen für einen guten Parkplatz.",
+            "hu": "Érkezzen korán a jó parkolóhelyért.",
+            "ro": "Sosiți devreme pentru a găsi un loc de parcare bun.",
+            "en": "Arrive early to secure a good parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Stella Maris",
+            "hu": "Stella Maris templom",
+            "ro": "Biserica Stella Maris",
+            "en": "Stella Maris Church"
+          },
+          "coords": [
+            9.5242,
+            41.1385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parkplatz direkt vor der Kirche vorhanden.",
+            "hu": "Parkoló közvetlenül a templom előtt található.",
+            "ro": "Există parcare chiar în fața bisericii.",
+            "en": "Parking is available directly in front of the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Cervo Marina",
+            "hu": "Porto Cervo Marina",
+            "ro": "Marina Porto Cervo",
+            "en": "Porto Cervo Marina"
+          },
+          "coords": [
+            9.532,
+            41.135
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Yacht Club Costa Smeralda.",
+            "hu": "Látogassa meg a Yacht Club Costa Smeralda-t.",
+            "ro": "Vizitați Yacht Club Costa Smeralda.",
+            "en": "Visit the Yacht Club Costa Smeralda area."
+          }
+        },
+        {
+          "name": {
+            "de": "La Piazzetta",
+            "hu": "La Piazzetta",
+            "ro": "La Piazzetta",
+            "en": "La Piazzetta"
+          },
+          "coords": [
+            9.5294,
+            41.1322
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie das bewachte Parkhaus im Zentrum.",
+            "hu": "Használja a központi őrzött parkolóházat.",
+            "ro": "Utilizați parcarea subterană supravegheată din centru.",
+            "en": "Use the guarded parking garage in the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie die Highlights rund um Porto Cervo ganz entspannt. Starten Sie am Capo Ferro für ein Panorama über das Meer, bevor Sie den Vormittag an der Cala Granu verbringen.\n\nNach der Besichtigung der ikonischen Stella Maris Kirche führt der Weg zur Marina, wo der exklusive Yacht Club beheimatet ist. Hier können Sie das maritime Flair in vollen Zügen genießen.\n\nDer Nachmittag endet im eleganten Ortskern. Flanieren Sie durch die Designerläden und lassen Sie den Tag stilvoll bei einem Drink auf der Piazzetta ausklingen.",
+        "hu": "Autóval kényelmesen felfedezheti Porto Cervo környékének legszebb pontjait. Kezdjen a Capo Ferrónál a lenyűgöző tengeri kilátásért, majd töltse a délelőttöt a Cala Granu strandján.\n\nA Stella Maris templom megtekintése után irány a kikötő (Marina), ahol az exkluzív Yacht Club található. Itt teljesen átadhatja magát a tengerparti luxus életérzésnek.\n\nA délután az elegáns városközpontban zárul. Sétáljon a dizájnerüzletek között, és fejezze be a napot stílusosan egy itallal a Piazzettán.",
+        "ro": "Cu mașina, puteți descoperi relaxat cele mai frumoase locuri din jurul Porto Cervo. Începeți la Capo Ferro pentru o panoramă marină superbă, apoi petreceți dimineața pe plaja Cala Granu.\n\nDupă vizitarea emblematicei Biserici Stella Maris, drumul vă duce spre Marina, unde se află exclusivistul Yacht Club. Aici puteți simți cu adevărat atmosfera de lux a coastei.\n\nDupă-amiaza se încheie în centrul elegant al orașului. Plimbați-vă printre magazinele de lux și savurați o băutură cu stil la Piazzetta.",
+        "en": "By car, you can comfortably discover the best spots around Porto Cervo. Start at Capo Ferro for a panoramic sea view before spending the morning at the beautiful Cala Granu beach.\n\nAfter visiting the iconic Stella Maris Church, head to the Marina, home to the exclusive Yacht Club. Here you can fully enjoy the sophisticated maritime atmosphere.\n\nThe afternoon ends in the elegant town center. Stroll through the designer boutiques and conclude your day in style with a drink at La Piazzetta."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante Hru",
+            "tip": "Gehobene Küche mit Blick auf die Marina."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante Hru",
+            "tip": "Prémium gasztronómia kilátással a kikötőre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante Hru",
+            "tip": "Bucătărie rafinată cu vedere spre Marina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante Hru",
+            "tip": "Fine dining with a view over the Marina area."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Capo Ferro",
+            "tip": "Windiger, aber sehr ruhiger Aussichtspunkt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Capo Ferro",
+            "tip": "Szeles, de rendkívül csendes kilátópont.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capo Ferro",
+            "tip": "Punct de observație vântos, dar foarte liniștit.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Capo Ferro",
+            "tip": "Windy but very peaceful lookout point.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Promenade du Port Boutiquen",
+            "tip": "Exklusive Modemarken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Promenade du Port Butikok",
+            "tip": "Exkluzív divatmárkák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buticurile Promenade du Port",
+            "tip": "Branduri de modă exclusiviste."
+          }
+        ],
+        "en": [
+          {
+            "name": "Promenade du Port Boutiques",
+            "tip": "Exclusive fashion brands and labels."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie offizielle Parkplätze, um Bußgelder zu vermeiden.",
+          "Die Straßen sind eng und kurvig, fahren Sie vorsichtig.",
+          "In der Saison ist mit viel Verkehr zu rechnen.",
+          "Tankstellen sind in der Gegend spärlich gesät."
+        ],
+        "hu": [
+          "A büntetések elkerülése érdekében csak hivatalos parkolót használjon.",
+          "Az utak szűkek és kanyargósak, vezessen óvatosan.",
+          "A főszezonban jelentős forgalomra kell számítani.",
+          "Az üzemanyagtöltő állomások ritkán találhatók a környéken."
+        ],
+        "ro": [
+          "Folosiți parcările oficiale pentru a evita amenzile mari.",
+          "Drumurile sunt înguste și sinuoase, conduceți cu prudență.",
+          "Așteptați-vă la trafic intens în timpul sezonului estival.",
+          "Benzinăriile sunt destul de rare în această zonă."
+        ],
+        "en": [
+          "Use official parking areas to avoid heavy fines.",
+          "The roads are narrow and winding, drive with caution.",
+          "Expect heavy traffic during the peak summer months.",
+          "Gas stations are sparse in the immediate coastal area."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "La Piazzetta",
+            "hu": "La Piazzetta",
+            "ro": "La Piazzetta",
+            "en": "La Piazzetta"
+          },
+          "coords": [
+            9.5294,
+            41.1322
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt für Busse.",
+            "hu": "A buszok központi érkezési pontja.",
+            "ro": "Punctul central de sosire pentru autobuze.",
+            "en": "Main arrival point for local bus services."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade du Port",
+            "hu": "Promenade du Port",
+            "ro": "Promenade du Port",
+            "en": "Promenade du Port"
+          },
+          "coords": [
+            9.5275,
+            41.1335
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Zentrum.",
+            "hu": "Rövid séta a központtól.",
+            "ro": "Distanță scurtă de mers pe jos din centru.",
+            "en": "A very short walk from the main center."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Vecchio",
+            "hu": "Porto Vecchio",
+            "ro": "Porto Vecchio",
+            "en": "Porto Vecchio"
+          },
+          "coords": [
+            9.525,
+            41.136
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Idealer Ort zum Fotografieren der Yachten.",
+            "hu": "Ideális hely a jachtok fotózásához.",
+            "ro": "Locul ideal pentru a fotografia iahturile.",
+            "en": "Perfect spot for photographing the mega-yachts."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Stella Maris",
+            "hu": "Stella Maris templom",
+            "ro": "Biserica Stella Maris",
+            "en": "Stella Maris Church"
+          },
+          "coords": [
+            9.5242,
+            41.1385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Prüfen Sie die Busfahrzeiten für den Rückweg.",
+            "hu": "Ellenőrizze a buszmenetrendet a visszautashoz.",
+            "ro": "Verificați orarul autobuzelor pentru întoarcere.",
+            "en": "Check the bus schedule for your return trip."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Cervo Marina",
+            "hu": "Porto Cervo Marina",
+            "ro": "Marina Porto Cervo",
+            "en": "Porto Cervo Marina"
+          },
+          "coords": [
+            9.532,
+            41.135
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Shuttle-Service zwischen Ort und Marina.",
+            "hu": "Használja a település és a kikötő közötti ingajáratot.",
+            "ro": "Folosiți serviciul de transfer între oraș și Marina.",
+            "en": "Use the shuttle service between the town and the Marina."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Porto Cervo lässt sich auch ohne eigenes Auto gut erkunden. Die Busse bringen Sie ins Zentrum, von wo aus Sie die wichtigsten Sehenswürdigkeiten zu Fuß erreichen.\n\nBesuchen Sie die Piazzetta und den Porto Vecchio, um den Luxus der Costa Smeralda hautnah zu erleben. Ein kleiner Spaziergang führt Sie zur berühmten Stella Maris Kirche.\n\nAm Nachmittag bietet sich ein Besuch der Marina an, die oft durch Shuttle-Verbindungen mit dem Ortskern verknüpft ist. Genießen Sie die entspannte Atmosphäre, bevor Sie die Rückreise antreten.",
+        "hu": "Porto Cervo saját autó nélkül is jól felfedezhető. A buszok a központba viszik, ahonnan a legfontosabb látnivalók gyalogosan is elérhetők.\n\nLátogasson el a Piazzettára és a Porto Vecchio-ba, hogy közelről tapasztalja meg a Costa Smeralda luxusát. Egy rövid séta elvezeti a híres Stella Maris templomhoz.\n\nDélután érdemes ellátogatni a kikötőbe (Marina), amelyet gyakran ingajáratok kötnek össze a központtal. Élvezze a nyugodt környezetet a visszautazás előtt.",
+        "ro": "Porto Cervo poate fi explorat ușor și fără mașină personală. Autobuzele vă lasă în centru, de unde principalele atracții sunt accesibile pe jos.\n\nVizitați Piazzetta și Porto Vecchio pentru a experimenta luxul de pe Costa Smeralda. O scurtă plimbare vă va duce la faimoasa Biserică Stella Maris.\n\nDupă-amiaza, puteți vizita Marina, care este adesea conectată de centru prin servicii de transfer. Bucurați-vă de atmosfera relaxată înainte de plecare.",
+        "en": "Porto Cervo can be easily explored even without a private car. Local buses drop you in the center, from where the main sights are accessible on foot.\n\nVisit La Piazzetta and Porto Vecchio to experience the luxury of Costa Smeralda up close. A short walk will lead you to the famous Stella Maris Church.\n\nIn the afternoon, consider visiting the Marina, which is often linked to the town center by shuttle services. Enjoy the relaxed atmosphere before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Pergola",
+            "tip": "Gute Pasta-Gerichte im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Pergola",
+            "tip": "Kiváló tésztaételek a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Pergola",
+            "tip": "Preparate cu paste foarte bune în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Pergola",
+            "tip": "Excellent pasta dishes right in the town center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Promenade du Port",
+            "tip": "Bänke mit Hafenblick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Promenade du Port",
+            "tip": "Padok kilátással a kikötőre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenade du Port",
+            "tip": "Bănci cu vedere spre port.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Promenade du Port",
+            "tip": "Benches with a relaxing harbor view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Zeitschriftenladen",
+            "tip": "Internationale Presse und Karten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi újságos",
+            "tip": "Nemzetközi sajtó és képeslapok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc de ziare",
+            "tip": "Presă internațională și vederi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Newsstand",
+            "tip": "International press and postcards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets im Voraus in Tabakläden.",
+          "Die Busfrequenz kann außerhalb der Saison gering sein.",
+          "Achten Sie auf die Beschilderung der Haltestellen.",
+          "Seien Sie pünktlich, Busse warten nicht."
+        ],
+        "hu": [
+          "Vegye meg a buszjegyet előre a dohányboltokban.",
+          "Szezonon kívül a buszok ritkábban járhatnak.",
+          "Figyelje a megállók jelzéseit.",
+          "Legyen pontos, a buszok nem várnak."
+        ],
+        "ro": [
+          "Cumpărați biletele de autobuz în avans de la chioșcurile de ziare.",
+          "Frecvența autobuzelor poate fi redusă în afara sezonului.",
+          "Urmăriți semnalizarea stațiilor de autobuz.",
+          "Fiți punctuali, autobuzele nu așteaptă."
+        ],
+        "en": [
+          "Buy bus tickets in advance at tobacco shops (tabacchi).",
+          "Bus frequency can be low outside the peak season.",
+          "Pay close attention to the bus stop signage.",
+          "Be punctual as buses strictly follow their schedule."
+        ]
+      }
+    }
+  }
+}

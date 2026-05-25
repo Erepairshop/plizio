@@ -1,0 +1,1524 @@
+{
+  "city_id": "matera",
+  "anchor": {
+    "name": "Matera",
+    "coords": [
+      16.6043,
+      40.6664
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:15",
+      "total_km": 3.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sassi di Matera",
+            "hu": "Sassi di Matera",
+            "ro": "Sassi di Matera",
+            "en": "Sassi di Matera"
+          },
+          "coords": [
+            16.6112,
+            40.6668
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Frühmorgens ist das Licht für Fotos am besten.",
+            "hu": "Kora reggel a legszebbek a fények a fotózáshoz.",
+            "ro": "Lumina de dimineață este cea mai bună pentru fotografii.",
+            "en": "Early morning light is best for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Palombaro Lungo",
+            "hu": "Palombaro Lungo",
+            "ro": "Palombaro Lungo",
+            "en": "Palombaro Lungo"
+          },
+          "coords": [
+            16.6065,
+            40.6675
+          ],
+          "category": "historical",
+          "arrive_at": "09:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Buchen Sie die Tour zur riesigen Zisterne im Voraus.",
+            "hu": "Foglaljon előre jegyet az óriási víztározóba.",
+            "ro": "Rezervați din timp turul pentru cisterna uriașă.",
+            "en": "Book your tour to the giant cistern in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di Matera",
+            "hu": "Matera székesegyháza",
+            "ro": "Catedrala din Matera",
+            "en": "Matera Cathedral"
+          },
+          "coords": [
+            16.611,
+            40.6663
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die vergoldete Decke und das Panorama.",
+            "hu": "Csodálja meg az aranyozott mennyezetet és a panorámát.",
+            "ro": "Admirați tavanul aurit și panorama orașului.",
+            "en": "Admire the gilded ceiling and the city panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "MUSMA",
+            "hu": "MUSMA Kortárs Szobrászati Múzeum",
+            "ro": "MUSMA",
+            "en": "MUSMA Museum"
+          },
+          "coords": [
+            16.6122,
+            40.666
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Einzigartige Skulpturen in echten Höhlenräumen.",
+            "hu": "Egyedülálló szobrok valódi barlangtermekben.",
+            "ro": "Sculpturi unice în încăperi rupestre reale.",
+            "en": "Unique sculptures located inside real cave rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Grotta di Vico Solitario",
+            "hu": "Vico Solitario barlanglakás",
+            "ro": "Casa Grotta di Vico Solitario",
+            "en": "Casa Grotta di Vico Solitario"
+          },
+          "coords": [
+            16.6135,
+            40.6635
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie, wie die Menschen bis 1950 hier lebten.",
+            "hu": "Ismerje meg, hogyan éltek itt az emberek 1950-ig.",
+            "ro": "Vedeți cum trăiau oamenii aici până în 1950.",
+            "en": "See how people lived here until the 1950s."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria de Idris",
+            "hu": "Santa Maria de Idris sziklatemplom",
+            "ro": "Santa Maria de Idris",
+            "en": "Santa Maria de Idris Church"
+          },
+          "coords": [
+            16.6128,
+            40.6638
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine beeindruckende, direkt in den Fels gehauene Kirche.",
+            "hu": "Lenyűgöző, közvetlenül a sziklába vájt templom.",
+            "ro": "O biserică impresionantă săpată direct în stâncă.",
+            "en": "An impressive church carved directly into the rock."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco della Murgia Materana",
+            "hu": "Murgia Materana Park",
+            "ro": "Parco della Murgia Materana",
+            "en": "Murgia Materana Park"
+          },
+          "coords": [
+            16.618,
+            40.664
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang gegenüber den Sassi.",
+            "hu": "Élvezze a naplementét a Sassi-negyeddel szemben.",
+            "ro": "Bucurați-vă de apusul de soare vizavi de Sassi.",
+            "en": "Enjoy the sunset across from the Sassi district."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Labyrinth der Sassi, wo Geschichte in den Stein gemeißelt ist. Besuchen Sie die monumentale Zisterne und die prächtige Kathedrale auf dem Civita-Hügel. Nach einem Mittagessen in einer Höhle erkunden Sie das faszinierende MUSMA-Museum. Der Nachmittag gehört dem Sasso Caveoso mit seinen Felsenkirchen und traditionellen Wohnungen. Beenden Sie den Tag mit einer Wanderung zur Murgia, um das spektakulärste Panorama Italiens bei Sonnenuntergang zu erleben.",
+        "hu": "Kezdje a napot a Sassi labirintusában, ahol a történelem a kőbe van vésve. Látogasson el a monumentális víztározóhoz és a Civita-dombon álló székesegyházhoz. Egy barlangban elköltött ebéd után fedezze fel a lenyűgöző MUSMA múzeumot. A délután a Sasso Caveoso negyedé, sziklatemplomaival és hagyományos barlanglakásaival. A napot a Murgia-parkba tett túrával zárja, hogy átélje Olaszország egyik leglátványosabb panorámáját naplementekor.",
+        "ro": "Începeți ziua în labirintul din Sassi, unde istoria este sculptată în piatră. Vizitați cisterna monumentală și catedrala magnifică de pe dealul Civita. După un prânz într-o grotă, explorați fascinantul muzeu MUSMA. După-amiaza aparține cartierului Sasso Caveoso, cu bisericile sale rupestre și locuințele tradiționale. Încheiați ziua cu o drumeție în Parcul Murgia pentru a experimenta cea mai spectaculoasă panoramă a Italiei la apus.",
+        "en": "Begin your day in the labyrinth of the Sassi, where history is literally carved into stone. Visit the monumental cistern and the magnificent Cathedral on the Civita hill. After lunch in a cave restaurant, explore the fascinating MUSMA museum. The afternoon is dedicated to Sasso Caveoso, its rock churches, and traditional cave dwellings. Finish your day with a hike to the Murgia Park to experience one of Italy's most spectacular panoramas at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pane di Matera",
+            "tip": "Probieren Sie das berühmte IGP-Brot bei Panificio Paoluccio."
+          },
+          {
+            "name": "Peperoni Cruschi",
+            "tip": "Knusprig frittierte Paprika, eine lokale Delikatesse."
+          },
+          {
+            "name": "Orecchiette",
+            "tip": "Handgemachte Pasta im Restaurant Alle Fornaci."
+          },
+          {
+            "name": "Crapiata",
+            "tip": "Traditionelle Hülsenfruchtsuppe der Sassi."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pane di Matera",
+            "tip": "Kóstolja meg a híres IGP kenyeret a Panificio Paoluccio-ban."
+          },
+          {
+            "name": "Peperoni Cruschi",
+            "tip": "Ropogósra sült paprika, helyi különlegesség."
+          },
+          {
+            "name": "Orecchiette",
+            "tip": "Kézzel készített tészta az Alle Fornaci étteremben."
+          },
+          {
+            "name": "Crapiata",
+            "tip": "A Sassi hagyományos hüvelyes levese."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pane di Matera",
+            "tip": "Gustați faimoasa pâine IGP la Panificio Paoluccio."
+          },
+          {
+            "name": "Peperoni Cruschi",
+            "tip": "Ardei prăjiți crocanți, o delicatesă locală."
+          },
+          {
+            "name": "Orecchiette",
+            "tip": "Paste făcute de mână la restaurantul Alle Fornaci."
+          },
+          {
+            "name": "Crapiata",
+            "tip": "Supă tradițională de leguminoase din Sassi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pane di Matera",
+            "tip": "Try the famous IGP bread at Panificio Paoluccio."
+          },
+          {
+            "name": "Peperoni Cruschi",
+            "tip": "Crunchy fried peppers, a local delicacy."
+          },
+          {
+            "name": "Orecchiette",
+            "tip": "Handmade pasta at Alle Fornaci restaurant."
+          },
+          {
+            "name": "Crapiata",
+            "tip": "Traditional legume soup of the Sassi."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belvedere di Murgia Timone",
+            "tip": "Der ultimative Ausblick auf die Sassi.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Convicinio di Sant'Antonio",
+            "tip": "Ein ruhiger Komplex aus vier Felsenkirchen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sasso Caveoso Gassen",
+            "tip": "Abgelegene Wege abseits der Touristenströme.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Piazza San Francesco",
+            "tip": "Ein friedlicher Platz vor der Barockkirche.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvedere di Murgia Timone",
+            "tip": "A legszebb kilátás a Sassi-negyedre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Convicinio di Sant'Antonio",
+            "tip": "Négy sziklatemplomból álló csendes komplexum.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sasso Caveoso sikátorok",
+            "tip": "Félreeső utak a turistaáradaton kívül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Piazza San Francesco",
+            "tip": "Békés tér a barokk templom előtt.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere di Murgia Timone",
+            "tip": "Cea mai frumoasă vedere asupra Sassi.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Convicinio di Sant'Antonio",
+            "tip": "Un complex liniștit de patru biserici rupestre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aleile din Sasso Caveoso",
+            "tip": "Căi retrase departe de fluxul turistic.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Piazza San Francesco",
+            "tip": "O piață liniștită în fața bisericii baroce.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belvedere di Murgia Timone",
+            "tip": "The ultimate viewpoint over the Sassi.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Convicinio di Sant'Antonio",
+            "tip": "A quiet complex of four rock churches.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sasso Caveoso Alleys",
+            "tip": "Secluded paths away from the tourist crowds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Piazza San Francesco",
+            "tip": "A peaceful square in front of the Baroque church.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cuccù",
+            "tip": "Traditionelle Terrakotta-Pfeifen in Vogelform."
+          },
+          {
+            "name": "Sassi-Miniaturen",
+            "tip": "Handgefertigte Modelle aus lokalem Tuffstein."
+          },
+          {
+            "name": "Lederwaren",
+            "tip": "Handgefertigte Taschen und Accessoires."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cuccù",
+            "tip": "Hagyományos madár alakú terrakotta síp."
+          },
+          {
+            "name": "Sassi miniatúrák",
+            "tip": "Kézzel készített modellek helyi tufából."
+          },
+          {
+            "name": "Bőráruk",
+            "tip": "Kézzel készített táskák és kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cuccù",
+            "tip": "Fluier tradițional din teracotă în formă de pasăre."
+          },
+          {
+            "name": "Miniaturi Sassi",
+            "tip": "Modele realizate manual din tuf local."
+          },
+          {
+            "name": "Articole din piele",
+            "tip": "Genți și accesorii lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cuccù",
+            "tip": "Traditional terracotta bird-shaped whistles."
+          },
+          {
+            "name": "Sassi Miniatures",
+            "tip": "Handmade models crafted from local tuff stone."
+          },
+          {
+            "name": "Leather Goods",
+            "tip": "Handmade bags and accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie unbedingt bequeme Wanderschuhe, da der Boden rutschig sein kann.",
+          "Die Wege sind voller Treppen und steiler Anstiege.",
+          "Buchen Sie Führungen für die Felsenkirchen im Voraus.",
+          "Nehmen Sie ausreichend Wasser mit, besonders im Sommer.",
+          "Verlaufen Sie sich absichtlich in den Gassen, um versteckte Winkel zu finden."
+        ],
+        "hu": [
+          "Mindenképpen viseljen kényelmes túracipőt, mert a kövek csúszósak lehetnek.",
+          "Az utak tele vannak lépcsőkkel és meredek emelkedőkkel.",
+          "Foglaljon előre vezetett túrát a sziklatemplomokba.",
+          "Vigyen magával bőven vizet, különösen nyáron.",
+          "Tévedjen el szándékosan a sikátorokban, hogy rejtett zugokra bukkanjon."
+        ],
+        "ro": [
+          "Purtați neapărat încălțăminte de mers confortabilă, deoarece piatra poate fi alunecoasă.",
+          "Traseele sunt pline de scări și pante abrupte.",
+          "Rezervați din timp tururi ghidate pentru bisericile rupestre.",
+          "Luați suficientă apă cu voi, mai ales vara.",
+          "Rătăciți-vă intenționat pe alei pentru a găsi colțuri ascunse."
+        ],
+        "en": [
+          "Be sure to wear comfortable walking shoes as the stones can be slippery.",
+          "The paths are full of stairs and steep climbs.",
+          "Book guided tours for the rock churches in advance.",
+          "Bring plenty of water, especially during the summer.",
+          "Get intentionally lost in the alleys to find hidden corners."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello Tramontano",
+            "hu": "Tramontano vár",
+            "ro": "Castello Tramontano",
+            "en": "Tramontano Castle"
+          },
+          "coords": [
+            16.606,
+            40.6635
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt mit viel Platz zum Radfahren.",
+            "hu": "Jó kiindulópont, tágas terekkel a biciklizéshez.",
+            "ro": "Un punct de plecare bun, cu mult spațiu pentru biciclete.",
+            "en": "A good starting point with plenty of space for cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Sassi di Matera",
+            "hu": "Sassi di Matera",
+            "ro": "Sassi di Matera",
+            "en": "Sassi di Matera"
+          },
+          "coords": [
+            16.6105,
+            40.6672
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig auf den gepflasterten Wegen.",
+            "hu": "Közlekedjen óvatosan a kövezett utakon.",
+            "ro": "Conduceți cu atenție pe drumurile pavate.",
+            "en": "Ride carefully on the paved paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Lanfranchi",
+            "hu": "Palazzo Lanfranchi",
+            "ro": "Palazzo Lanfranchi",
+            "en": "Palazzo Lanfranchi"
+          },
+          "coords": [
+            16.611,
+            40.662
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Museum für mittelalterliche und moderne Kunst.",
+            "hu": "Látogassa meg a középkori és modern művészeti múzeumot.",
+            "ro": "Vizitați muzeul de artă medievală și modernă.",
+            "en": "Visit the museum of medieval and modern art."
+          }
+        },
+        {
+          "name": {
+            "de": "San Pietro Barisano",
+            "hu": "San Pietro Barisano templom",
+            "ro": "San Pietro Barisano",
+            "en": "San Pietro Barisano Church"
+          },
+          "coords": [
+            16.608,
+            40.669
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die größte Felsenkirche der Stadt.",
+            "hu": "A város legnagyobb sziklatemploma.",
+            "ro": "Cea mai mare biserică rupestră din oraș.",
+            "en": "The largest rock church in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco della Murgia Materana",
+            "hu": "Murgia Materana Park",
+            "ro": "Parco della Murgia Materana",
+            "en": "Murgia Materana Park"
+          },
+          "coords": [
+            16.635,
+            40.665
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Mountainbike-Strecken mit atemberaubender Aussicht.",
+            "hu": "Hegyi kerékpáros útvonalak lélegzetelállító kilátással.",
+            "ro": "Trasee de mountain bike cu vederi uluitoare.",
+            "en": "Mountain bike trails with breathtaking views."
+          }
+        },
+        {
+          "name": {
+            "de": "MUSMA",
+            "hu": "MUSMA",
+            "ro": "MUSMA",
+            "en": "MUSMA"
+          },
+          "coords": [
+            16.612,
+            40.666
+          ],
+          "category": "museums",
+          "arrive_at": "16:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp für moderne Skulpturen.",
+            "hu": "Egy rövid megálló a modern szobrokhoz.",
+            "ro": "O oprire scurtă pentru sculpturi moderne.",
+            "en": "A quick stop for modern sculptures."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Matera auf zwei Rädern, angefangen beim Tramontano-Schloss. Radeln Sie am Rande der Sassi entlang und besuchen Sie das Palazzo Lanfranchi. Nach einer Fahrt durch das Barisano-Viertel führt Sie die Route aus der Stadt heraus in den Murgia-Nationalpark. Genießen Sie die Weite der lukanischen Landschaft und die prähistorischen Höhlen, bevor Sie für einen letzten kulturellen Stopp im MUSMA in das historische Zentrum zurückkehren.",
+        "hu": "Fedezze fel Materát két keréken, a Tramontano-várnál kezdve. Tekerjen a Sassi peremén, és látogasson el a Palazzo Lanfranchi-hoz. A Barisano-negyeden át vezető út után a városból kiérve a Murgia Nemzeti Parkba érkezik. Élvezze a lukaniai táj tágasságát és az őskori barlangokat, mielőtt visszatérne a történelmi központba egy utolsó kulturális megállóra a MUSMA-nál.",
+        "ro": "Explorați Matera pe două roți, începând de la castelul Tramontano. Pedalați pe marginea Sassi și vizitați Palazzo Lanfranchi. După o plimbare prin cartierul Barisano, traseul vă scoate din oraș în Parcul Național Murgia. Bucurați-vă de imensitatea peisajului lucan și de peșterile preistorice înainte de a vă întoarce în centrul istoric pentru o ultimă oprire culturală la MUSMA.",
+        "en": "Explore Matera on two wheels, starting from the Tramontano Castle. Cycle along the edge of the Sassi and visit Palazzo Lanfranchi. After a ride through the Barisano district, the route takes you out of the city into the Murgia National Park. Enjoy the vastness of the Lucanian landscape and prehistoric caves before returning to the historical center for a final cultural stop at MUSMA."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crapiata",
+            "tip": "Herzhafte Hülsenfruchtsuppe, ideal für Radfahrer."
+          },
+          {
+            "name": "Caciocavallo",
+            "tip": "Lokal gereifter Käse, perfekt als Snack."
+          },
+          {
+            "name": "Panino Gourmet",
+            "tip": "Mit lokalen Zutaten im Sasso Barisano."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crapiata",
+            "tip": "Tápláló hüvelyes leves, ideális bicikliseknek."
+          },
+          {
+            "name": "Caciocavallo",
+            "tip": "Helyi érlelt sajt, tökéletes falatka."
+          },
+          {
+            "name": "Panino Gourmet",
+            "tip": "Helyi alapanyagokkal a Sasso Barisano-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crapiata",
+            "tip": "Supă consistentă de leguminoase, ideală pentru bicicliști."
+          },
+          {
+            "name": "Caciocavallo",
+            "tip": "Brânză maturată locală, perfectă ca gustare."
+          },
+          {
+            "name": "Panino Gourmet",
+            "tip": "Cu ingrediente locale în Sasso Barisano."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crapiata",
+            "tip": "Hearty legume soup, ideal for cyclists."
+          },
+          {
+            "name": "Caciocavallo",
+            "tip": "Locally aged cheese, perfect for a snack."
+          },
+          {
+            "name": "Gourmet Panino",
+            "tip": "With local ingredients in Sasso Barisano."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Murgia Timone Pfade",
+            "tip": "Einsame Wege in unberührter Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jazzo Gattini",
+            "tip": "Historischer Schafstall in der Stille der Murgia.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "San Falcione",
+            "tip": "Ruhiger Aussichtspunkt am Rande der Schlucht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Murgia Timone ösvények",
+            "tip": "Magányos utak az érintetlen természetben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jazzo Gattini",
+            "tip": "Történelmi juhakol a Murgia csendjében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "San Falcione",
+            "tip": "Csendes kilátópont a szurdok szélén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecile Murgia Timone",
+            "tip": "Căi solitare în natură virgină.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jazzo Gattini",
+            "tip": "Stână istorică în liniștea Murgiei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "San Falcione",
+            "tip": "Punct de belvedere liniștit pe marginea defileului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Murgia Timone Paths",
+            "tip": "Lonely trails in untouched nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jazzo Gattini",
+            "tip": "Historical sheepfold in the silence of the Murgia.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "San Falcione",
+            "tip": "Quiet viewpoint on the edge of the ravine.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik-Werkstätten",
+            "tip": "Kleine Werkstätten am Rande der Sassi."
+          },
+          {
+            "name": "Olivenöl",
+            "tip": "Extra jungfräuliches Öl aus den umliegenden Hainen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámia műhelyek",
+            "tip": "Kis műhelyek a Sassi szélén."
+          },
+          {
+            "name": "Olívaolaj",
+            "tip": "Extra szűz olaj a környező ligetekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ateliere de ceramică",
+            "tip": "Mici ateliere la marginea Sassi."
+          },
+          {
+            "name": "Ulei de măsline",
+            "tip": "Ulei extravirgin din livezile din jur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramic Workshops",
+            "tip": "Small workshops on the edge of the Sassi."
+          },
+          {
+            "name": "Olive Oil",
+            "tip": "Extra virgin oil from the surrounding groves."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike, um die steilen Hügel mühelos zu bewältigen.",
+          "Vermeiden Sie das Fahren im tiefen Sassi-Zentrum, dort ist es zu eng.",
+          "Tragen Sie immer einen Helm, auch auf Feldwegen.",
+          "Achten Sie auf Wanderer auf den Murgia-Pfaden."
+        ],
+        "hu": [
+          "Béreljen elektromos kerékpárt, hogy könnyedén leküzdje a meredek dombokat.",
+          "Kerülje a Sassi belső részén való tekerést, ott túl szűkek az utak.",
+          "Mindig viseljen sisakot, még a földutakon is.",
+          "Figyeljen a túrázókra a Murgia ösvényein."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru a urca dealurile abrupte fără efort.",
+          "Evitați să pedalați în centrul adânc al Sassi, este prea strâmt.",
+          "Purtați întotdeauna cască, chiar și pe drumurile de pământ.",
+          "Fiți atenți la excursioniști pe potecile din Murgia."
+        ],
+        "en": [
+          "Rent an e-bike to tackle the steep hills effortlessly.",
+          "Avoid riding in the deep center of the Sassi, as it is too narrow.",
+          "Always wear a helmet, even on dirt tracks.",
+          "Watch out for hikers on the Murgia trails."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 24.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cattedrale di Matera",
+            "hu": "Matera székesegyháza",
+            "ro": "Catedrala din Matera",
+            "en": "Matera Cathedral"
+          },
+          "coords": [
+            16.611,
+            40.6663
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie außerhalb des ZTL-Bereichs (eingeschränkte Zone).",
+            "hu": "Parkoljon a ZTL zónán (korlátozott forgalom) kívül.",
+            "ro": "Parcați în afara zonei ZTL (zonă cu trafic limitat).",
+            "en": "Park outside the ZTL (restricted zone) area."
+          }
+        },
+        {
+          "name": {
+            "de": "Palombaro Lungo",
+            "hu": "Palombaro Lungo",
+            "ro": "Palombaro Lungo",
+            "en": "Palombaro Lungo"
+          },
+          "coords": [
+            16.6065,
+            40.6675
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein Muss in der Nähe der zentralen Piazza Vittorio Veneto.",
+            "hu": "Kihagyhatatlan látnivaló a központi Piazza Vittorio Veneto közelében.",
+            "ro": "O vizită obligatorie lângă centrul Piazza Vittorio Veneto.",
+            "en": "A must-visit near the central Piazza Vittorio Veneto."
+          }
+        },
+        {
+          "name": {
+            "de": "Sassi di Matera",
+            "hu": "Sassi di Matera",
+            "ro": "Sassi di Matera",
+            "en": "Sassi di Matera"
+          },
+          "coords": [
+            16.6115,
+            40.667
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Aussichtspunkt an der Via Madonna delle Virtù.",
+            "hu": "Használja a Via Madonna delle Virtù menti kilátópontot.",
+            "ro": "Folosiți punctul de belvedere de pe Via Madonna delle Virtù.",
+            "en": "Use the viewpoint along Via Madonna delle Virtù."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Grotta di Vico Solitario",
+            "hu": "Vico Solitario barlanglakás",
+            "ro": "Casa Grotta di Vico Solitario",
+            "en": "Casa Grotta di Vico Solitario"
+          },
+          "coords": [
+            16.6135,
+            40.6635
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bequem erreichbar von der Sassi-Panoramastraße.",
+            "hu": "Könnyen elérhető a Sassi panorámaút felől.",
+            "ro": "Accesibil ușor de pe drumul panoramic Sassi.",
+            "en": "Easily accessible from the Sassi panoramic road."
+          }
+        },
+        {
+          "name": {
+            "de": "Krypta der Erbsünde",
+            "hu": "Az eredendő bűn kriptája",
+            "ro": "Cripta Păcatului Original",
+            "en": "Crypt of the Original Sin"
+          },
+          "coords": [
+            16.565,
+            40.628
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Die 'Sixtinische Kapelle' der Felsenmalerei (Auto erforderlich).",
+            "hu": "A sziklafestészet 'Szixtus-kápolnája' (autó szükséges).",
+            "ro": "„Capela Sixtină” a picturii rupestre (este nevoie de mașină).",
+            "en": "The 'Sistine Chapel' of rock painting (car required)."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere di Murgia Timone",
+            "hu": "Murgia Timone kilátó",
+            "ro": "Belvedere di Murgia Timone",
+            "en": "Murgia Timone Belvedere"
+          },
+          "coords": [
+            16.635,
+            40.665
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Bester Platz für das Abschlussfoto bei Sonnenuntergang.",
+            "hu": "A legjobb hely a zárófotóhoz naplementekor.",
+            "ro": "Cel mai bun loc pentru fotografia de final la apus.",
+            "en": "Best place for the final sunset photo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem sowohl das Herz der Sassi als auch die versteckten Schätze der Umgebung. Besuchen Sie am Vormittag die Kathedrale und den unterirdischen Palombaro. Nach einer kurzen Fahrt erkunden Sie die 'Krypta der Erbsünde', ein Meisterwerk der frühmittelalterlichen Kunst außerhalb der Stadt. Den Tag krönen Sie mit einer Fahrt zum Belvedere auf der gegenüberliegenden Seite der Schlucht, von wo aus die Sassi wie eine lebendige Krippe wirken.",
+        "hu": "Autóval kényelmesen elérheti a Sassi szívét és a környék rejtett kincseit is. Délelőtt látogassa meg a székesegyházat és a földalatti Palombarót. Egy rövid autózás után fedezze fel az 'eredendő bűn kriptáját', a kora középkori művészet remekművét a városon kívül. A napot a szurdok túloldalán lévő Belvedere-hez való autózással koronázza meg, ahonnan a Sassi egy élő betlehemnek tűnik.",
+        "ro": "Cu mașina puteți ajunge confortabil atât în inima Sassi, cât și la comorile ascunse din împrejurimi. Vizitați dimineața catedrala și subteranul Palombaro. După o scurtă călătorie, explorați „Cripta Păcatului Original”, o capodoperă a artei medievale timpurii din afara orașului. Încheiați ziua cu o plimbare până la Belvedere de pe partea opusă a defileului, de unde Sassi par o iesle vie.",
+        "en": "By car, you can easily reach both the heart of the Sassi and the hidden treasures in the surroundings. Visit the Cathedral and the underground Palombaro in the morning. After a short drive, explore the 'Crypt of the Original Sin', a masterpiece of early medieval art outside the city. Crown the day with a drive to the Belvedere on the opposite side of the ravine, from where the Sassi look like a living nativity scene."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Agriturismo-Küche",
+            "tip": "Probieren Sie authentische Gerichte außerhalb der Stadt."
+          },
+          {
+            "name": "Lucanica Wurst",
+            "tip": "Würzige lokale Wurstsorte."
+          },
+          {
+            "name": "Cardoncelli Pilze",
+            "tip": "Typische Pilze der Murgia-Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agriturismo konyha",
+            "tip": "Kóstoljon autentikus ételeket a városon kívül."
+          },
+          {
+            "name": "Lucanica kolbász",
+            "tip": "Fűszeres helyi kolbászfajta."
+          },
+          {
+            "name": "Cardoncelli gomba",
+            "tip": "A Murgia-vidék jellemző gombája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bucătărie Agriturismo",
+            "tip": "Gustați mâncăruri autentice în afara orașului."
+          },
+          {
+            "name": "Cârnați Lucanica",
+            "tip": "Un soi de cârnați local picant."
+          },
+          {
+            "name": "Ciuperci Cardoncelli",
+            "tip": "Ciuperci tipice din regiunea Murgia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agriturismo Cuisine",
+            "tip": "Try authentic dishes outside the city."
+          },
+          {
+            "name": "Lucanica Sausage",
+            "tip": "Spicy local type of sausage."
+          },
+          {
+            "name": "Cardoncelli Mushrooms",
+            "tip": "Typical mushrooms of the Murgia region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco dei Monaci",
+            "tip": "Stille unter uralten Olivenbäumen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Belvedere Timmari",
+            "tip": "Ruhiger Aussichtspunkt am See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santuario di Picciano",
+            "tip": "Friedlicher Wallfahrtsort auf einem Hügel.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco dei Monaci",
+            "tip": "Csend az ősi olajfák alatt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Belvedere Timmari",
+            "tip": "Csendes kilátópont a tóparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santuario di Picciano",
+            "tip": "Békés zarándokhely egy dombtetőn.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco dei Monaci",
+            "tip": "Liniște sub măslini străvechi.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Belvedere Timmari",
+            "tip": "Punct de belvedere liniștit lângă lac.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santuario di Picciano",
+            "tip": "Loc de pelerinaj liniștit pe un deal.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco dei Monaci",
+            "tip": "Silence among ancient olive trees.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Belvedere Timmari",
+            "tip": "Quiet viewpoint by the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santuario di Picciano",
+            "tip": "Peaceful pilgrimage site on a hill.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wein aus der Basilikata",
+            "tip": "Kaufen Sie Aglianico del Vulture für zu Hause."
+          },
+          {
+            "name": "Handbemalte Keramik",
+            "tip": "Einzigartige Stücke in lokalen Galerien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Basilicata borai",
+            "tip": "Vásároljon Aglianico del Vulture-t otthonra."
+          },
+          {
+            "name": "Kézzel festett kerámia",
+            "tip": "Egyedi darabok helyi galériákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri din Basilicata",
+            "tip": "Cumpărați Aglianico del Vulture pentru acasă."
+          },
+          {
+            "name": "Ceramică pictată manual",
+            "tip": "Piese unice în galeriile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Basilicata Wines",
+            "tip": "Buy some Aglianico del Vulture to take home."
+          },
+          {
+            "name": "Hand-painted Ceramics",
+            "tip": "Unique pieces in local galleries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Parkhäuser wie 'Parcheggio Via Saragat' und nehmen Sie den Shuttle.",
+          "Die ZTL-Zonen werden streng mit Kameras überwacht.",
+          "Die Straßen außerhalb der Stadt können eng und kurvenreich sein.",
+          "Für die Krypta der Erbsünde ist eine Online-Reservierung zwingend erforderlich."
+        ],
+        "hu": [
+          "Használja a 'Parcheggio Via Saragat' parkolóházat, és vegye igénybe a transzfert.",
+          "A ZTL zónákat szigorúan figyelik kamerákkal.",
+          "A városon kívüli utak szűkek és kanyargósak lehetnek.",
+          "Az eredendő bűn kriptájához kötelező az online foglalás."
+        ],
+        "ro": [
+          "Folosiți parcările etajate precum „Parcheggio Via Saragat” și luați transferul.",
+          "Zonele ZTL sunt monitorizate strict cu camere.",
+          "Drumurile din afara orașului pot fi înguste și sinuoase.",
+          "Pentru Cripta Păcatului Original, rezervarea online este obligatorie."
+        ],
+        "en": [
+          "Use parking garages like 'Parcheggio Via Saragat' and take the shuttle.",
+          "ZTL zones are strictly monitored by cameras.",
+          "Roads outside the city can be narrow and winding.",
+          "Online reservation is mandatory for the Crypt of the Original Sin."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Palazzo Lanfranchi",
+            "hu": "Palazzo Lanfranchi",
+            "ro": "Palazzo Lanfranchi",
+            "en": "Palazzo Lanfranchi"
+          },
+          "coords": [
+            16.611,
+            40.662
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Starten Sie an der Haltestelle Via Lucana.",
+            "hu": "Kezdje a Via Lucana megállónál.",
+            "ro": "Începeți la stația Via Lucana.",
+            "en": "Start at the Via Lucana bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria de Idris",
+            "hu": "Santa Maria de Idris",
+            "ro": "Santa Maria de Idris",
+            "en": "Santa Maria de Idris"
+          },
+          "coords": [
+            16.6128,
+            40.6638
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Sasso Caveoso aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen elérhető gyalog a Sasso Caveoso-ból.",
+            "ro": "Ușor accesibil pe jos din Sasso Caveoso.",
+            "en": "Easily reachable on foot from Sasso Caveoso."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Grotta di Vico Solitario",
+            "hu": "Vico Solitario barlanglakás",
+            "ro": "Casa Grotta di Vico Solitario",
+            "en": "Casa Grotta di Vico Solitario"
+          },
+          "coords": [
+            16.6135,
+            40.6635
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Sassi-Shuttle-Bus.",
+            "hu": "Használja a Sassi transzferbuszt.",
+            "ro": "Folosiți autobuzul de transfer Sassi.",
+            "en": "Use the Sassi shuttle bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di Matera",
+            "hu": "Matera székesegyháza",
+            "ro": "Catedrala din Matera",
+            "en": "Matera Cathedral"
+          },
+          "coords": [
+            16.611,
+            40.6663
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die Haltestelle ist nur wenige Gehminuten entfernt.",
+            "hu": "A megálló csak néhány perc sétára van.",
+            "ro": "Stația este la doar câteva minute de mers pe jos.",
+            "en": "The stop is just a few minutes' walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "San Pietro Barisano",
+            "hu": "San Pietro Barisano",
+            "ro": "San Pietro Barisano",
+            "en": "San Pietro Barisano"
+          },
+          "coords": [
+            16.608,
+            40.669
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein ruhigerer Ort im Barisano-Viertel.",
+            "hu": "Egy csendesebb hely a Barisano negyedben.",
+            "ro": "Un loc mai liniștit în cartierul Barisano.",
+            "en": "A quieter spot in the Barisano district."
+          }
+        },
+        {
+          "name": {
+            "de": "Palombaro Lungo",
+            "hu": "Palombaro Lungo",
+            "ro": "Palombaro Lungo",
+            "en": "Palombaro Lungo"
+          },
+          "coords": [
+            16.6065,
+            40.6675
+          ],
+          "category": "historical",
+          "arrive_at": "16:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Rückfahrt von der Piazza Vittorio Veneto.",
+            "hu": "Visszautazás a Piazza Vittorio Veneto-ról.",
+            "ro": "Întoarcerea de la Piazza Vittorio Veneto.",
+            "en": "Return journey from Piazza Vittorio Veneto."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Shuttle-System von Matera, um die Sassi ohne anstrengende Aufstiege zu erleben. Beginnen Sie im Lanfranchi-Palast und lassen Sie sich in den Sasso Caveoso bringen. Nach dem Besuch der Felsenkirchen und der traditionellen Höhlenwohnung bringt Sie der Bus hinauf zum Dom. Beenden Sie Ihre Tour im Barisano-Viertel und bei der riesigen Zisterne unter dem Hauptplatz, bevor Sie bequem mit dem Stadtbus zurückfahren.",
+        "hu": "Használja Matera hatékony transzferrendszerét, hogy fárasztó emelkedők nélkül ismerje meg a Sassi-t. Kezdjen a Lanfranchi-palotánál, majd vitassa magát a Sasso Caveoso-ba. A sziklatemplomok és a hagyományos barlanglakás meglátogatása után a busz felviszi a dómhoz. Zárja a túrát a Barisano-negyedben és a főtér alatti óriási víztározónál, mielőtt kényelmesen visszatérne a városi busszal.",
+        "ro": "Folosiți sistemul eficient de transfer din Matera pentru a experimenta Sassi fără urcușuri obositoare. Începeți la Palatul Lanfranchi și lăsați-vă transportat în Sasso Caveoso. După vizitarea bisericilor rupestre și a locuinței tradiționale, autobuzul vă va duce sus la dom. Încheiați-vă turul în cartierul Barisano și la cisterna uriașă de sub piața principală înainte de a vă întoarce confortabil cu autobuzul local.",
+        "en": "Use Matera's efficient shuttle system to experience the Sassi without strenuous climbs. Start at the Lanfranchi Palace and take the shuttle into Sasso Caveoso. After visiting the rock churches and the traditional cave dwelling, the bus will take you up to the Cathedral. End your tour in the Barisano district and at the giant cistern under the main square before returning comfortably by city bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasta Mollicata",
+            "tip": "Pasta mit Semmelbröseln und Sardellen."
+          },
+          {
+            "name": "Focaccia Materana",
+            "tip": "Mit Tomaten und Olivenöl."
+          },
+          {
+            "name": "Pasticciotto",
+            "tip": "Süßes Gebäck mit Creme-Füllung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasta Mollicata",
+            "tip": "Tészta zsemlemorzsával és szardellával."
+          },
+          {
+            "name": "Focaccia Materana",
+            "tip": "Paradicsommal és olívaolajjal."
+          },
+          {
+            "name": "Pasticciotto",
+            "tip": "Édes tészta krémmel töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasta Mollicata",
+            "tip": "Paste cu pesmet și anșoa."
+          },
+          {
+            "name": "Focaccia Materana",
+            "tip": "Cu roșii și ulei de măsline."
+          },
+          {
+            "name": "Pasticciotto",
+            "tip": "Produs de patiserie dulce umplut cu cremă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasta Mollicata",
+            "tip": "Pasta with breadcrumbs and anchovies."
+          },
+          {
+            "name": "Focaccia Materana",
+            "tip": "With tomatoes and olive oil."
+          },
+          {
+            "name": "Pasticciotto",
+            "tip": "Sweet pastry filled with cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piazza Duomo",
+            "tip": "Am frühen Abend ein ruhiger Ort mit Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Via Ridola",
+            "tip": "Schöne Promenade für einen entspannten Spaziergang.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Sasso Barisano Kirchhof",
+            "tip": "Versteckter, friedlicher Winkel.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza Duomo",
+            "tip": "Kora este csendes hely kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Via Ridola",
+            "tip": "Gyönyörű korzó egy pihentető sétához.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Sasso Barisano templomudvar",
+            "tip": "Rejtett, békés zug.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazza Duomo",
+            "tip": "Seara devreme un loc liniștit cu priveliște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Via Ridola",
+            "tip": "Promenadă frumoasă pentru o plimbare relaxantă.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Curtea bisericii Sasso Barisano",
+            "tip": "Colț ascuns și liniștit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza Duomo",
+            "tip": "A quiet spot with a view in the early evening.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Via Ridola",
+            "tip": "Beautiful promenade for a relaxing stroll.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Sasso Barisano Church Court",
+            "tip": "Hidden, peaceful corner.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Feinkost",
+            "tip": "Getrocknete Tomaten und lukanische Aromen."
+          },
+          {
+            "name": "Souvernir-Magnete",
+            "tip": "Handgefertigte Sassi-Motive."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi csemege",
+            "tip": "Szárított paradicsom és lukaniai aromák."
+          },
+          {
+            "name": "Szuvenír mágnesek",
+            "tip": "Kézzel készített Sassi motívumok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Delicii locale",
+            "tip": "Roșii uscate și arome lucane."
+          },
+          {
+            "name": "Magneți suvenir",
+            "tip": "Motive Sassi realizate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Delicacies",
+            "tip": "Dried tomatoes and Lucanian flavors."
+          },
+          {
+            "name": "Souvenir Magnets",
+            "tip": "Handmade Sassi-themed magnets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie das 'Miccolis'-Ticket direkt beim Fahrer oder am Kiosk.",
+          "Die Linien 'Sassi' verkehren regelmäßig zwischen dem Zentrum und den Schluchten.",
+          "Validieren Sie Ihr Ticket immer beim Einsteigen.",
+          "Achten Sie auf die Fahrpläne an Feiertagen."
+        ],
+        "hu": [
+          "Vásárolja meg a 'Miccolis' jegyet közvetlenül a sofőrnél vagy az újságosnál.",
+          "A 'Sassi' járatok rendszeresen közlekednek a központ és a szurdokok között.",
+          "Felszálláskor mindig érvényesítse a jegyét.",
+          "Ügyeljen a menetrendre ünnepnapokon."
+        ],
+        "ro": [
+          "Cumpărați biletul „Miccolis” direct de la șofer sau de la chioșc.",
+          "Liniile „Sassi” circulă regulat între centru și defilee.",
+          "Validați întotdeauna biletul la urcare.",
+          "Fiți atenți la orare în zilele de sărbătoare."
+        ],
+        "en": [
+          "Buy the 'Miccolis' ticket directly from the driver or at the kiosk.",
+          "The 'Sassi' lines run regularly between the center and the ravines.",
+          "Always validate your ticket when boarding.",
+          "Pay attention to the schedules on public holidays."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-77",
+    "lon": 16.6043,
+    "lat": 40.6664,
+    "transit_official": "https://www.cotrab.it/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Matera",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.materawelcome.it/eventi/",
+    "tourism_office": "https://www.materawelcome.it/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/basilicata/matera/matera.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/matera-c561980",
+    "museum_tickets": "https://www.materawelcome.it/biglietteria/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch; einfache Begruessungen wie 'buongiorno' und 'grazie' werden geschaetzt.",
+      "hu": "Olasz nyelv; az alap udvariassagi formak (buongiorno, grazie) sokat segitenek.",
+      "ro": "Limba italiana; formulele de salut de baza (buongiorno, grazie) sunt apreciate.",
+      "en": "Italian is the local language; basic greetings like 'buongiorno' and 'grazie' go a long way."
+    },
+    "best_time": {
+      "de": "April bis Juni und September bis Oktober mit mildem Klima fuer die Sassi-Wanderungen.",
+      "hu": "Aprilis-junius es szeptember-oktober ideje a legkellemesebb a Sassi bejarasahoz.",
+      "ro": "Aprilie-iunie si septembrie-octombrie sunt cele mai potrivite pentru explorarea Sassi.",
+      "en": "April-June and September-October offer the mildest weather for exploring the Sassi."
+    },
+    "warnings": {
+      "de": "Steile Kopfsteinpflasterwege in den Sassi: festes Schuhwerk noetig, Sommerhitze meiden.",
+      "hu": "A Sassi meredek macskakoves utcai stabil cipot kovetelnek; nyari hosegre figyelj.",
+      "ro": "Stradutele abrupte din Sassi cer incaltaminte solida; atentie la caldura de vara.",
+      "en": "Steep cobbled lanes in the Sassi require sturdy shoes; avoid the midday summer heat."
+    }
+  }
+}

@@ -1,0 +1,1007 @@
+{
+  "city_id": "ortisei",
+  "anchor": {
+    "name": "Ortisei",
+    "coords": [
+      11.6708,
+      46.5739
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rezia-Straße",
+            "hu": "Rezia-utca",
+            "ro": "Strada Rezia",
+            "en": "Rezia Street"
+          },
+          "coords": [
+            11.673,
+            46.574
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Herz von Ortisei mit schönen Brunnen.",
+            "hu": "Ortisei szíve szép szökőkutakkal.",
+            "ro": "Inima localității Ortisei cu fântâni frumoase.",
+            "en": "The heart of Ortisei with beautiful fountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Ulrich",
+            "hu": "Szent Ulrich-plébániatemplom",
+            "ro": "Biserica Sf. Ulrich",
+            "en": "Parish Church St. Ulrich"
+          },
+          "coords": [
+            11.6715,
+            46.5745
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Prachtvoller Barockbau.",
+            "hu": "Pompás barokk épület.",
+            "ro": "Clădire barocă superbă.",
+            "en": "Magnificent Baroque building."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Gherdëina",
+            "hu": "Gherdëina Múzeum",
+            "ro": "Muzeul Gherdëina",
+            "en": "Museum Gherdëina"
+          },
+          "coords": [
+            11.6725,
+            46.5735
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die Grödner Holzschnitzerei.",
+            "hu": "Tudjon meg mindent a grödeni fafaragásról.",
+            "ro": "Aflați totul despre sculptura în lemn din Val Gardena.",
+            "en": "Learn everything about Gardena woodcarving."
+          }
+        },
+        {
+          "name": {
+            "de": "Luis-Trenker-Promenade",
+            "hu": "Luis Trenker sétány",
+            "ro": "Promenada Luis Trenker",
+            "en": "Luis Trenker Promenade"
+          },
+          "coords": [
+            11.668,
+            46.576
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Einfacher Spaziergang auf der alten Bahntrasse.",
+            "hu": "Könnyű séta a régi vasútvonalon.",
+            "ro": "Plimbare ușoară pe vechiul traseu feroviar.",
+            "en": "Easy walk on the old railway track."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Jakobskirche",
+            "hu": "Szent Jakab-templom",
+            "ro": "Biserica Sf. Iacob",
+            "en": "St. Jakob's Church"
+          },
+          "coords": [
+            11.688,
+            46.571
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Älteste Kirche des Tals mit Postkartenblick.",
+            "hu": "A völgy legrégebbi temploma képeslapba illő kilátással.",
+            "ro": "Cea mai veche biserică din vale cu vedere de basm.",
+            "en": "Oldest church in the valley with postcard views."
+          }
+        },
+        {
+          "name": {
+            "de": "Antoniuskirche",
+            "hu": "Antal-templom",
+            "ro": "Biserica Sf. Anton",
+            "en": "St. Anthony's Church"
+          },
+          "coords": [
+            11.6735,
+            46.575
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kleines Juwel am Hauptplatz.",
+            "hu": "Kis ékszerdoboz a főtéren.",
+            "ro": "O mică bijuterie în piața principală.",
+            "en": "A small gem on the main square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ortisei verzaubert durch sein mondänes Zentrum und ladinische Tradition. Beginnen Sie auf der Rezia-Straße und besuchen Sie die barocke Pfarrkirche. Das Museum Gherdëina führt Sie tief in die Geschichte der Schnitzkunst ein. Der Nachmittag bietet Entspannung auf der Luis-Trenker-Promenade, gefolgt von einem Besuch der ikonischen St. Jakobskirche hoch über dem Tal.",
+        "hu": "Ortisei elegáns központjával és ladin hagyományaival bűvöli el a látogatót. Kezdjen a Rezia-utcán, és látogassa meg a barokk plébániatemplomot. A Gherdëina Múzeum mélyebbre vezeti a fafaragás történetében. A délután pihenést kínál a Luis Trenker sétányon, majd zárásként látogassa meg az ikonikus Szent Jakab-templomot a völgy felett.",
+        "ro": "Ortisei farmecă prin centrul său elegant și tradiția ladină. Începeți pe strada Rezia și vizitați biserica parohială barocă. Muzeul Gherdëina vă introduce în istoria sculpturii. După-amiaza oferă relaxare pe promenada Luis Trenker, urmată de o vizită la emblematica biserică Sf. Iacob, situată deasupra văii.",
+        "en": "Ortisei enchants with its sophisticated center and Ladin tradition. Start on Rezia Street and visit the Baroque parish church. The Museum Gherdëina takes you deep into the history of woodcarving. The afternoon offers relaxation on the Luis Trenker Promenade, followed by a visit to the iconic St. Jakob's Church high above the valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Grödner Speck",
+            "tip": "In der Metzgerei Trocker probieren."
+          },
+          {
+            "name": "Polenta mit Käse",
+            "tip": "Herzhaft im Restaurant Mauriz Keller."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grödeni szalonna",
+            "tip": "Kóstolja meg a Trocker hentesnél."
+          },
+          {
+            "name": "Polenta sajttal",
+            "tip": "Laktató étel a Mauriz Keller étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Slănină din Val Gardena",
+            "tip": "Gustați la măcelăria Trocker."
+          },
+          {
+            "name": "Mămăligă cu brânză",
+            "tip": "O masă consistentă la Mauriz Keller."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardena Speck",
+            "tip": "Try it at the Trocker butcher shop."
+          },
+          {
+            "name": "Polenta with Cheese",
+            "tip": "Hearty meal at Mauriz Keller restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St. Jakob Panorama",
+            "tip": "Bester Platz für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Jakab panoráma",
+            "tip": "A legjobb hely a naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panorama Sf. Iacob",
+            "tip": "Cel mai bun loc pentru apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Jakob Panorama",
+            "tip": "Best spot for sunset views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Holzschnitzereien",
+            "tip": "Zahlreiche Werkstätten in der Fußgängerzone."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fafaragványok",
+            "tip": "Számos műhely a sétálóutcában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sculpturi în lemn",
+            "tip": "Numeroase ateliere în zona pietonală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wood Carvings",
+            "tip": "Numerous workshops in the pedestrian zone."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ortisei ist fast komplett verkehrsberuhigt.",
+          "Besuchen Sie die Geschäfte am späten Nachmittag.",
+          "Die Promenade ist kinderwagengerecht.",
+          "Lernen Sie ein paar Worte Ladinisch."
+        ],
+        "hu": [
+          "Ortisei központja szinte teljesen autómentes.",
+          "Látogassa meg a boltokat késő délután.",
+          "A sétány babakocsival is járható.",
+          "Tanuljon meg pár szót ladinul."
+        ],
+        "ro": [
+          "Centrul din Ortisei este aproape în întregime pietonal.",
+          "Vizitați magazinele după-amiaza târziu.",
+          "Promenada este accesibilă cu căruțul.",
+          "Învățați câteva cuvinte în ladină."
+        ],
+        "en": [
+          "Ortisei center is mostly pedestrianized.",
+          "Visit the shops in the late afternoon.",
+          "The promenade is stroller-friendly.",
+          "Learn a few words in Ladin."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 22.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Seiser Alm Gondel",
+            "hu": "Seiser Alm felvonó",
+            "ro": "Telecabina Seiser Alm",
+            "en": "Seiser Alm Cable Car"
+          },
+          "coords": [
+            11.666,
+            46.572
+          ],
+          "category": "natural features",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Transport für Bikes vorhanden.",
+            "hu": "Kerékpárszállítás lehetséges.",
+            "ro": "Transportul bicicletelor este disponibil.",
+            "en": "Bike transport available."
+          }
+        },
+        {
+          "name": {
+            "de": "Compatsch (Seiser Alm)",
+            "hu": "Compatsch (Seiser Alm)",
+            "ro": "Compatsch (Seiser Alm)",
+            "en": "Compatsch (Seiser Alm)"
+          },
+          "coords": [
+            11.618,
+            46.541
+          ],
+          "category": "natural features",
+          "arrive_at": "11:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Größte Hochalm Europas erkunden.",
+            "hu": "Fedezze fel Európa legnagyobb magashegyi legelőjét.",
+            "ro": "Explorați cea mai mare pășune alpină din Europa.",
+            "en": "Explore Europe's largest high-altitude meadow."
+          }
+        },
+        {
+          "name": {
+            "de": "Saltria",
+            "hu": "Saltria",
+            "ro": "Saltria",
+            "en": "Saltria"
+          },
+          "coords": [
+            11.648,
+            46.526
+          ],
+          "category": "natural features",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Malerischer Ort im Herzen der Alm.",
+            "hu": "Festői hely a legelő szívében.",
+            "ro": "Loc pitoresc în inima pășunii.",
+            "en": "Picturesque spot in the heart of the meadow."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Pana (Verbindung)",
+            "hu": "Monte Pana (összeköttetés)",
+            "ro": "Monte Pana (legătură)",
+            "en": "Monte Pana (Connection)"
+          },
+          "coords": [
+            11.722,
+            46.545
+          ],
+          "category": "natural features",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Schöner Waldtrail zurück Richtung Tal.",
+            "hu": "Szép erdei ösvény vissza a völgy felé.",
+            "ro": "Traseu frumos prin pădure spre vale.",
+            "en": "Nice forest trail back towards the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "S. Cristina Zentrum",
+            "hu": "S. Cristina központ",
+            "ro": "S. Cristina centru",
+            "en": "S. Cristina center"
+          },
+          "coords": [
+            11.714,
+            46.558
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp vor der Rückfahrt nach Ortisei.",
+            "hu": "Rövid megálló Ortisei előtt.",
+            "ro": "Scurtă oprire înainte de întoarcerea în Ortisei.",
+            "en": "Short stop before returning to Ortisei."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Bike-Erlebnis auf der Seiser Alm ist unübertroffen. Schweben Sie mit der Gondel empor und radeln Sie über die weiten Wiesen von Compatsch nach Saltria. Genießen Sie das Panorama von Schlern und Langkofel. Die Rückfahrt führt über den Monte Pana und S. Cristina zurück nach Ortisei.",
+        "hu": "A kerékpározás élménye a Seiser Alm-on felülmúlhatatlan. Lebegjen fel a felvonóval, és tekerjen át a tágas mezőkön Compatsch-tól Saltriáig. Élvezze a Schlern és a Langkofel panorámáját. A visszaút a Monte Pana és S. Cristina érintésével vezet vissza Ortisei-be.",
+        "ro": "Experiența cu bicicleta pe Seiser Alm este de neegalat. Urcați cu telecabina și pedalați pe pajiștile întinse de la Compatsch la Saltria. Bucurați-vă de panorama masivelor Schlern și Langkofel. Întoarcerea trece prin Monte Pana și S. Cristina înapoi în Ortisei.",
+        "en": "The biking experience on Seiser Alm is second to none. Float up with the cable car and cycle across the vast meadows from Compatsch to Saltria. Enjoy the panorama of Schlern and Langkofel. The return journey takes you via Monte Pana and S. Cristina back to Ortisei."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frische Buttermilch",
+            "tip": "Auf der Sanon Hütte direkt von der Alm."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss író",
+            "tip": "A Sanon hüttében közvetlenül a legelőről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lapte bătut proaspăt",
+            "tip": "La Cabana Sanon, direct de la stână."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Buttermilk",
+            "tip": "At Sanon Hütte, direct from the meadow."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Seiser Alm Wiesen",
+            "tip": "Ruhe abseits der Hauptwege.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Seiser Alm mezők",
+            "tip": "Csend a főútvonalaktól távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pajiștile Seiser Alm",
+            "tip": "Liniște departe de potecile principale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Seiser Alm Meadows",
+            "tip": "Quiet spots away from main trails.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Almhonig",
+            "tip": "Direkt bei den Bergbauern kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alpesi méz",
+            "tip": "Vásároljon közvetlenül a hegyi gazdáktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de munte",
+            "tip": "Cumpărați direct de la fermierii montani."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alpine Honey",
+            "tip": "Buy directly from mountain farmers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Weidevieh.",
+          "Die Wege sind oft staubig.",
+          "Sonnenschutz ist auf der Alm extrem wichtig.",
+          "E-Bike Verleih direkt an der Talstation."
+        ],
+        "hu": [
+          "Ügyeljen a legelő állatokra.",
+          "Az utak gyakran porosak.",
+          "A fényvédelem a legelőn kiemelten fontos.",
+          "E-bike kölcsönző közvetlenül a völgyállomásnál."
+        ],
+        "ro": [
+          "Atenție la vitele de pe pășune.",
+          "Drumurile sunt adesea prăfuite.",
+          "Protecția solară este extrem de importantă pe platou.",
+          "Închiriere E-bike chiar la stația de jos."
+        ],
+        "en": [
+          "Watch out for grazing livestock.",
+          "Trails can be dusty.",
+          "Sun protection is crucial on the high plateau.",
+          "E-bike rental available at the base station."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 40.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castelrotto (Kastelruth)",
+            "hu": "Kastelruth",
+            "ro": "Castelrotto",
+            "en": "Castelrotto"
+          },
+          "coords": [
+            11.558,
+            46.567
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den markanten Kirchturm.",
+            "hu": "Látogassa meg a jellegzetes harangtornyot.",
+            "ro": "Vizitați turnul bisericii marcat.",
+            "en": "Visit the striking church tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Passo Gardena (Grödner Joch)",
+            "hu": "Grödner-hágó",
+            "ro": "Pasul Gardena",
+            "en": "Gardena Pass"
+          },
+          "coords": [
+            11.808,
+            46.549
+          ],
+          "category": "natural features",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Fahrt durch das gesamte Grödner Tal.",
+            "hu": "Autózás a teljes Grödeni-völgyön át.",
+            "ro": "Cursă prin întreaga vale Val Gardena.",
+            "en": "Drive through the entire Val Gardena."
+          }
+        },
+        {
+          "name": {
+            "de": "Corvara in Badia",
+            "hu": "Corvara",
+            "ro": "Corvara în Badia",
+            "en": "Corvara in Badia"
+          },
+          "coords": [
+            11.874,
+            46.551
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Schicker Ort im Nachbartal.",
+            "hu": "Elegáns település a szomszédos völgyben.",
+            "ro": "Localitate elegantă în valea vecină.",
+            "en": "Chic town in the neighboring valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Passo Campolongo",
+            "hu": "Campolongo-hágó",
+            "ro": "Pasul Campolongo",
+            "en": "Campolongo Pass"
+          },
+          "coords": [
+            11.875,
+            46.52
+          ],
+          "category": "natural features",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Verbindung nach Arabba.",
+            "hu": "Összeköttetés Arabba felé.",
+            "ro": "Legătură spre Arabba.",
+            "en": "Connection to Arabba."
+          }
+        },
+        {
+          "name": {
+            "de": "S. Cristina di Val Gardena",
+            "hu": "S. Cristina",
+            "ro": "S. Cristina di Val Gardena",
+            "en": "S. Cristina di Val Gardena"
+          },
+          "coords": [
+            11.714,
+            46.558
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 14.0,
+          "tip_5lang": {
+            "de": "Blick auf das Schloss Fischburg.",
+            "hu": "Kilátás a Fischburg-kastélyra.",
+            "ro": "Vedere spre Castelul Fischburg.",
+            "en": "View of Fischburg Castle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto für einen Ausflug in die Umgebung von Ortisei. Besuchen Sie zuerst das charmante Kastelruth, Heimat der Kastelruther Spatzen. Fahren Sie dann über das Grödner Joch nach Corvara in das ladinische Gadertal. Die Rückreise führt Sie über den Campolongo-Pass und S. Cristina zurück nach Ortisei.",
+        "hu": "Használja az autót Ortisei környékének felfedezéséhez. Látogassa meg először a bájos Kastelruth-ot, a Kastelruther Spatzen otthonát. Hajtson át a Grödner-hágón Corvarába, a ladin Gader-völgybe. A hazaút a Campolongo-hágón és S. Cristinán keresztül vezet vissza Ortisei-be.",
+        "ro": "Folosiți mașina pentru o excursie în împrejurimile localității Ortisei. Vizitați mai întâi fermecătorul Castelrotto. Apoi conduceți peste Pasul Gardena spre Corvara în Val Badia. Întoarcerea vă poartă prin Pasul Campolongo și S. Cristina înapoi în Ortisei.",
+        "en": "Use your car to explore the surroundings of Ortisei. First, visit charming Castelrotto, home of the famous musicians. Then drive over Gardena Pass to Corvara in the Ladin Val Badia. The return journey takes you via Campolongo Pass and S. Cristina back to Ortisei."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ladinische Gerstensuppe",
+            "tip": "Traditionell in Corvara probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ladin árpaleves",
+            "tip": "Hagyományos recept Corvarában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de orz ladină",
+            "tip": "Gustați rețeta tradițională în Corvara."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ladin Barley Soup",
+            "tip": "Traditional recipe to try in Corvara."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Campolongo Blick",
+            "tip": "Ruhiger Passübergang.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Campolongo kilátás",
+            "tip": "Csendes hágóátkelő.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederea Campolongo",
+            "tip": "Trecere prin pas liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Campolongo View",
+            "tip": "Quiet mountain pass crossing.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ladinische Stoffe",
+            "tip": "Hochwertige Textilien in Corvara."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ladin szövetek",
+            "tip": "Kiváló minőségű textilek Corvarában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Țesături ladine",
+            "tip": "Textile de înaltă calitate în Corvara."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ladin Fabrics",
+            "tip": "High-quality textiles in Corvara."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Ortisei ist teuer, nutzen Sie Hotelparkplätze.",
+          "Blaue Linien bedeuten gebührenpflichtig.",
+          "Vermeiden Sie die Stoßzeiten am Morgen.",
+          "Kurvenreiche Strecken erfordern Konzentration."
+        ],
+        "hu": [
+          "A parkolás Ortisei-ben drága, használja a szállodai parkolót.",
+          "A kék vonal fizetős parkolást jelent.",
+          "Kerülje a reggeli csúcsidőt.",
+          "A kanyargós utak koncentrációt igényelnek."
+        ],
+        "ro": [
+          "Parcarea în Ortisei este scumpă, folosiți parcarea hotelului.",
+          "Liniile albastre indică parcare cu plată.",
+          "Evitați orele de vârf de dimineață.",
+          "Drumurile cu multe curbe necesită concentrare."
+        ],
+        "en": [
+          "Parking in Ortisei is expensive; use hotel parking if possible.",
+          "Blue lines indicate paid parking.",
+          "Avoid morning rush hours on the valley road.",
+          "Winding roads require full concentration."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Resciesa Standseilbahn",
+            "hu": "Resciesa sikló",
+            "ro": "Funicularul Resciesa",
+            "en": "Resciesa Funicular"
+          },
+          "coords": [
+            11.675,
+            46.578
+          ],
+          "category": "natural features",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Historische Fahrt zum Raschötz.",
+            "hu": "Történelmi utazás a Raschötz-hegyre.",
+            "ro": "Călătorie istorică spre Raschötz.",
+            "en": "Historic ride to Raschötz."
+          }
+        },
+        {
+          "name": {
+            "de": "Seceda Seilbahn",
+            "hu": "Seceda felvonó",
+            "ro": "Telecabina Seceda",
+            "en": "Seceda Cable Car"
+          },
+          "coords": [
+            11.676,
+            46.576
+          ],
+          "category": "natural features",
+          "arrive_at": "11:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ikonische Felsnadeln der Geislergruppe.",
+            "hu": "A Geisler-csoport ikonikus sziklatornyai.",
+            "ro": "Acele de stâncă emblematice ale Grupului Geisler.",
+            "en": "Iconic rock needles of the Geisler Group."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus nach S. Cristina",
+            "hu": "Busz S. Cristina felé",
+            "ro": "Autobuz spre S. Cristina",
+            "en": "Bus to S. Cristina"
+          },
+          "coords": [
+            11.714,
+            46.558
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Bus 350 fährt alle 15-30 Minuten.",
+            "hu": "A 350-es busz 15-30 percenként jár.",
+            "ro": "Autobuzul 350 circulă la fiecare 15-30 minute.",
+            "en": "Bus 350 runs every 15-30 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Pana Lift",
+            "hu": "Monte Pana lift",
+            "ro": "Telescaun Monte Pana",
+            "en": "Monte Pana Lift"
+          },
+          "coords": [
+            11.722,
+            46.545
+          ],
+          "category": "natural features",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bequemer Sessellift von S. Cristina.",
+            "hu": "Kényelmes székes felvonó S. Cristinából.",
+            "ro": "Telescaun confortabil din S. Cristina.",
+            "en": "Comfortable chairlift from S. Cristina."
+          }
+        },
+        {
+          "name": {
+            "de": "Ortisei Antoniusplatz",
+            "hu": "Ortisei Antal-tér",
+            "ro": "Ortisei Piața Sf. Anton",
+            "en": "Ortisei Anthony Square"
+          },
+          "coords": [
+            11.6735,
+            46.575
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt für alle Busse.",
+            "hu": "Központi érkezési pont minden buszhoz.",
+            "ro": "Punct central de sosire pentru toate autobuzele.",
+            "en": "Central arrival point for all buses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ortisei ist der perfekte Knotenpunkt für Bergbahnen. Starten Sie mit dem Resciesa-Funicular und wechseln Sie dann zur Seceda-Bahn für das berühmte Dolomiten-Panorama. Mit dem Bus 350 gelangen Sie schnell nach S. Cristina und zum Monte Pana. Ein stressfreier Tag ohne Parkplatzsuche.",
+        "hu": "Ortisei a hegyi felvonók tökéletes csomópontja. Kezdjen a Resciesa siklóval, majd váltson a Seceda felvonóra a híres dolomiti panorámáért. A 350-es busszal gyorsan eljuthat S. Cristinába és a Monte Panához. Stresszmentes nap parkolóhely-keresés nélkül.",
+        "ro": "Ortisei este nodul perfect pentru transportul pe cablu. Începeți cu funicularul Resciesa și schimbați cu telecabina Seceda pentru faimoasa panoramă a Dolomiților. Cu autobuzul 350 ajungeți rapid în S. Cristina și la Monte Pana. O zi fără stres, fără căutarea parcării.",
+        "en": "Ortisei is the perfect hub for mountain lifts. Start with the Resciesa funicular and then switch to the Seceda cable car for the famous Dolomite panorama. Use bus 350 to quickly reach S. Cristina and Monte Pana. A stress-free day without the hassle of parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hausgemachtes Eis",
+            "tip": "In den Gelaterias der Rezia-Straße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi fagylalt",
+            "tip": "A Rezia-utca fagyizóiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Înghețată de casă",
+            "tip": "La gelateriile de pe strada Rezia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade Gelato",
+            "tip": "At the gelaterias on Rezia Street."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Raschötz Gipfelkreuz",
+            "tip": "Ruhe am Berg nach der Funicular-Fahrt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Raschötz kereszt",
+            "tip": "Csend a hegyen a siklózás után.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crucea Raschötz",
+            "tip": "Liniște pe munte după călătoria cu funicularul.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Raschötz Summit Cross",
+            "tip": "Peace on the mountain after the funicular ride.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs",
+            "tip": "Kleine Holzarbeiten in den Shops am Antoniusplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírek",
+            "tip": "Apró fafaragások az Antal-tér boltjaiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri",
+            "tip": "Mici sculpturi în lemn în magazinele din Piața Sf. Anton."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs",
+            "tip": "Small woodcrafts in the shops at Anthony Square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Gardena Card kombiniert alle Lifte.",
+          "Busse fahren bis spät am Abend.",
+          "Die Fahrpläne hängen an jeder Station aus.",
+          "Nutzen Sie die Rolltreppen zum Seceda-Lift."
+        ],
+        "hu": [
+          "A Gardena Card minden felvonót tartalmaz.",
+          "A buszok késő estig közlekednek.",
+          "A menetrendek minden megállóban kint vannak.",
+          "Használja a mozgólépcsőket a Seceda felvonóhoz."
+        ],
+        "ro": [
+          "Cardul Gardena combină toate telecabinele.",
+          "Autobuzele circulă până seara târziu.",
+          "Orarele sunt afișate în fiecare stație.",
+          "Folosiți scările rulante spre telecabina Seceda."
+        ],
+        "en": [
+          "The Gardena Card includes all lifts.",
+          "Buses run until late evening.",
+          "Schedules are posted at every station.",
+          "Use the escalators to reach the Seceda lift easily."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1215 @@
+{
+  "city_id": "palermo",
+  "anchor": {
+    "name": "Palermo",
+    "coords": [
+      13.3613,
+      38.1157
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Quattro Canti",
+          "coords": [
+            13.3615,
+            38.1157
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die vier Barockfassaden bei Sonnenaufgang.",
+            "hu": "Csodáld meg a négy barokk homlokzatot a reggeli fényben.",
+            "ro": "Admirați cele patru fațade baroce în lumina dimineții.",
+            "en": "Admire the four baroque facades in the morning light."
+          }
+        },
+        {
+          "name": "Fontana Pretoria",
+          "coords": [
+            13.3625,
+            38.1155
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Auch bekannt als Brunnen der Schande wegen der nackten Statuen.",
+            "hu": "A szégyen kútjaként is ismert a meztelen szobrok miatt.",
+            "ro": "Cunoscută și sub numele de Fântâna Rușinii din cauza statuilor nud.",
+            "en": "Also known as the Fountain of Shame due to the nude statues."
+          }
+        },
+        {
+          "name": "Chiesa della Martorana",
+          "coords": [
+            13.3627,
+            38.1149
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die byzantinischen Mosaike im Inneren sind weltberühmt.",
+            "hu": "A belső bizánci mozaikok világhírűek és lenyűgözőek.",
+            "ro": "Mozaicurile bizantine din interior sunt faimoase în întreaga lume.",
+            "en": "The Byzantine mosaics inside are world-famous and stunning."
+          }
+        },
+        {
+          "name": "Mercato della Vucciria",
+          "coords": [
+            13.3638,
+            38.1172
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie Arancine und Panelle an den Ständen.",
+            "hu": "Kóstold meg az arancinét és a panellét az árusoknál.",
+            "ro": "Gustați arancine și panelle de la tarabele din piață.",
+            "en": "Try some arancine and panelle from the market stalls."
+          }
+        },
+        {
+          "name": "Cattedrale di Palermo",
+          "coords": [
+            13.3585,
+            38.1145
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Dächer für einen Blick über die Stadt.",
+            "hu": "Menj fel a tetőre a városra nyíló panoráma kilátásért.",
+            "ro": "Vizitați acoperișul pentru o vedere panoramică asupra orașului.",
+            "en": "Visit the roof for a panoramic view over the entire city."
+          }
+        },
+        {
+          "name": "Palazzo dei Normanni",
+          "coords": [
+            13.3535,
+            38.1111
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Die Cappella Palatina ist das Juwel des Palastes.",
+            "hu": "A Cappella Palatina a palota legszebb ékköve.",
+            "ro": "Cappella Palatina este bijuteria acestui palat istoric.",
+            "en": "The Cappella Palatina is the crown jewel of the palace."
+          }
+        },
+        {
+          "name": "Teatro Massimo",
+          "coords": [
+            13.3585,
+            38.12
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Das größte Opernhaus Italiens mit perfekter Akustik.",
+            "hu": "Olaszország legnagyobb operaháza tökéletes akusztikával.",
+            "ro": "Cea mai mare operă din Italia, cu o acustică perfectă.",
+            "en": "The largest opera house in Italy with perfect acoustics."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Altstadt an den Quattro Canti und dem Pretoria-Brunnen. Tauchen Sie in die byzantinische Kunst in der Martorana ein, bevor Sie die lebhafte Atmosphäre und die Gerüche des Vucciria-Marktes genießen. Am Nachmittag erkunden Sie die prächtige Kathedrale und den Normannenpalast, die Geschichte der Könige atmen. Den Abschluss bildet der majestätische Anblick des Teatro Massimo in der Abenddämmerung.",
+        "hu": "Kezdje a napot az óváros szívében, a Quattro Canti kereszteződésnél és a Pretoria-kútnál. Merüljön el a bizánci művészetben a Martorana templomban, majd élvezze a Vucciria piac pezsgő hangulatát és illatait. Délután fedezze fel a pompás Székesegyházat és a Normann Palotát, amelyek királyi múltat idéznek. A napot a fenséges Teatro Massimo látványa zárja az esti szürkületben.",
+        "ro": "Începeți ziua în inima centrului vechi la Quattro Canti și Fântâna Pretoria. Scufundați-vă în arta bizantină de la Martorana înainte de a vă bucura de atmosfera vibrantă și mirosurile pieței Vucciria. După-amiaza, explorați splendida Catedrală și Palatul Normanzilor, care respiră istoria regilor. Încheiați cu vederea maiestuoasă a Teatrului Massimo în lumina serii.",
+        "en": "Start your day in the heart of the old town at Quattro Canti and the Pretoria Fountain. Immerse yourself in Byzantine art at Martorana before enjoying the vibrant atmosphere and scents of the Vucciria market. In the afternoon, explore the magnificent Cathedral and the Norman Palace, which breathe royal history. Finish with the majestic sight of Teatro Massimo in the evening twilight."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arancina Bomba",
+            "tip": "Frittierte Reisbällchen bei Ke Palle probieren."
+          },
+          {
+            "name": "Cannoli Siciliani",
+            "tip": "Frisch gefüllte Waffeln in der I Segreti del Chiostro."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arancina Bomba",
+            "tip": "Próbáld ki a töltött rizsgolyókat a Ke Palle üzletében."
+          },
+          {
+            "name": "Cannoli Siciliani",
+            "tip": "Frissen töltött édesség az I Segreti del Chiostro zárdában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arancina Bomba",
+            "tip": "Încercați bilele de orez prăjite la Ke Palle."
+          },
+          {
+            "name": "Cannoli Siciliani",
+            "tip": "Dulciuri umplute pe loc la I Segreti del Chiostro."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arancina Bomba",
+            "tip": "Try the fried rice balls at Ke Palle shop."
+          },
+          {
+            "name": "Cannoli Siciliani",
+            "tip": "Freshly filled ricotta pastry at I Segreti del Chiostro."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Villa Giulia",
+            "tip": "Ein friedlicher Garten abseits des Trubels.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Mura delle Cattive",
+            "tip": "Panoramaspaziergang über dem Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Giulia",
+            "tip": "Békés kert távol a város zajától.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Mura delle Cattive",
+            "tip": "Panoráma sétány a tenger felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Villa Giulia",
+            "tip": "O grădină liniștită departe de agitație.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Mura delle Cattive",
+            "tip": "Promenadă panoramică deasupra mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Giulia",
+            "tip": "A peaceful garden away from the city bustle.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Mura delle Cattive",
+            "tip": "Panoramic walk overlooking the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato del Capo",
+            "tip": "Authentische Gewürze und lokales Handwerk."
+          },
+          {
+            "name": "Via Maqueda",
+            "tip": "Viele kleine Boutiquen und Souvenirläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercato del Capo",
+            "tip": "Autentikus fűszerek és helyi kézműves termékek."
+          },
+          {
+            "name": "Via Maqueda",
+            "tip": "Számos kis butik és ajándékbolt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercato del Capo",
+            "tip": "Condimente autentice și meșteșuguri locale."
+          },
+          {
+            "name": "Via Maqueda",
+            "tip": "Multe buticuri mici și magazine de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercato del Capo",
+            "tip": "Authentic spices and local handicrafts."
+          },
+          {
+            "name": "Via Maqueda",
+            "tip": "Many small boutiques and souvenir shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Achten Sie in den Märkten auf Ihre Taschen.",
+          "Besuchen Sie Kirchen am Vormittag wegen der Messen.",
+          "Probieren Sie Street Food statt klassischer Restaurants.",
+          "Nutzen Sie die Fußgängerzonen der Via Maqueda."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a macskaköves utcákhoz.",
+          "A piacokon figyelj az értékeidre.",
+          "A templomokat érdemes délelőtt látogatni a misék miatt.",
+          "Próbáld ki az utcai ételeket a klasszikus éttermek helyett.",
+          "Használd ki a Via Maqueda sétálóutcáit."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru străzile cu piatră cubică.",
+          "Aveți grijă la buzunare în zonele aglomerate ale piețelor.",
+          "Vizitați bisericile dimineața înainte de slujbe.",
+          "Încercați mâncarea stradală în loc de restaurantele clasice.",
+          "Profitatți de zonele pietonale de pe Via Maqueda."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Watch your belongings in the crowded market areas.",
+          "Visit churches in the morning to avoid closure during mass.",
+          "Try street food instead of formal restaurants for lunch.",
+          "Take advantage of the pedestrian zones on Via Maqueda."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Teatro Massimo",
+          "coords": [
+            13.3585,
+            38.12
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie das Rad sicher vor dem Haupteingang.",
+            "hu": "Parkold le a bringát biztonságosan a főbejáratnál.",
+            "ro": "Parcați bicicleta în siguranță în fața intrării principale.",
+            "en": "Park your bike safely in front of the main entrance."
+          }
+        },
+        {
+          "name": "Quattro Canti",
+          "coords": [
+            13.3615,
+            38.1157
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein perfekter Orientierungspunkt für Radfahrer.",
+            "hu": "Tökéletes tájékozódási pont a bicikliseknek.",
+            "ro": "Un punct de orientare perfect pentru bicicliști.",
+            "en": "A perfect landmark for orientation while cycling."
+          }
+        },
+        {
+          "name": "Cattedrale di Palermo",
+          "coords": [
+            13.3585,
+            38.1145
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Vorplatz aus hat man einen tollen Blick auf die Fassade.",
+            "hu": "Az előtérből nagyszerű rálátás nyílik a homlokzatra.",
+            "ro": "Din piața din față aveți o vedere excelentă asupra fațadei.",
+            "en": "From the square in front, you get a great view of the facade."
+          }
+        },
+        {
+          "name": "Palazzo dei Normanni",
+          "coords": [
+            13.3535,
+            38.1111
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der älteste Königspalast in Europa.",
+            "hu": "Európa legrégebbi királyi palotája.",
+            "ro": "Cel mai vechi palat regal din Europa.",
+            "en": "The oldest royal palace in Europe."
+          }
+        },
+        {
+          "name": "Castello della Zisa",
+          "coords": [
+            13.3414,
+            38.1165
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der arabisch-normannischen Architektur.",
+            "hu": "Az arab-normann építészet egyik remekműve.",
+            "ro": "O capodoperă a arhitecturii arabo-normande.",
+            "en": "A masterpiece of Arab-Norman architecture."
+          }
+        },
+        {
+          "name": "Orto Botanico",
+          "coords": [
+            13.3735,
+            38.1125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang der Küste zum botanischen Garten.",
+            "hu": "Tekerj végig a tengerpart mentén a botanikus kertig.",
+            "ro": "Pedalați de-a lungul coastei până la grădina botanică.",
+            "en": "Cycle along the coast to reach the botanical garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Palermo flexibel von der Oper bis zum Küstenpark. Nach der Besichtigung des Teatro Massimo und der Kathedrale führt der Weg zum Palazzo dei Normanni. Ein Abstecher zum Castello della Zisa zeigt die maurischen Einflüsse der Stadt. Den Nachmittag genießen Sie im kühlen Schatten des Botanischen Gartens, nachdem Sie entspannt am Meer entlang geradelt sind.",
+        "hu": "Biciklivel rugalmasan fedezheti fel Palermót az operától egészen a tengerparti parkig. A Teatro Massimo és a Székesegyház után az út a Normann Palotához vezet. Egy kis kitérő a Zisa kastélyhoz megmutatja a város mór hatásait. A délutánt a Botanikus Kert hűs árnyékában töltheti, miután kényelmesen végigtekerte a tengerparti szakaszt.",
+        "ro": "Cu bicicleta explorați Palermo flexibil, de la operă până la parcul de pe coastă. După vizitarea Teatrului Massimo și a Catedralei, drumul duce spre Palatul Normanzilor. O scurtă vizită la Castelul Zisa vă arată influențele maure ale orașului. După-amiaza vă bucurați de umbra răcoroasă a Grădinii Botanice, după o plimbare relaxată pe malul mării.",
+        "en": "By bike, you explore Palermo flexibly from the opera house to the coastal park. After visiting Teatro Massimo and the Cathedral, the path leads to the Norman Palace. A detour to Castello della Zisa shows the city's Moorish influences. Spend the afternoon in the cool shade of the Botanical Garden after a relaxed ride along the seaside."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Granita Siciliana",
+            "tip": "Erfrischung pur bei Brioscià."
+          },
+          {
+            "name": "Sfincione",
+            "tip": "Sizilianische Pizza am Straßenrand probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Granita Siciliana",
+            "tip": "Valódi felfrissülés a Brioscià fagyizóban."
+          },
+          {
+            "name": "Sfincione",
+            "tip": "Kóstold meg a szicíliai pizzát az utcai árusoknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Granita Siciliana",
+            "tip": "Răcorire pură la gelateria Brioscià."
+          },
+          {
+            "name": "Sfincione",
+            "tip": "Încercați pizza siciliană de la vânzătorii stradali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Granita Siciliana",
+            "tip": "Pure refreshment at Brioscià gelateria."
+          },
+          {
+            "name": "Sfincione",
+            "tip": "Try the fluffy Sicilian pizza from street vendors."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Foro Italico",
+            "tip": "Große Grünfläche direkt am Meer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Villa Malfitano",
+            "tip": "Ruhiger Park mit einer prächtigen Villa.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Foro Italico",
+            "tip": "Hatalmas zöldterület közvetlenül a tengerparton.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Villa Malfitano",
+            "tip": "Csendes park egy pompás villával.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Foro Italico",
+            "tip": "Zonă verde vastă direct pe malul mării.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Villa Malfitano",
+            "tip": "Parc liniștit cu o vilă superbă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Foro Italico",
+            "tip": "Large green space directly by the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Villa Malfitano",
+            "tip": "Quiet park featuring a magnificent villa.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Libertà",
+            "tip": "Elegante Einkaufsstraße für Markenmode."
+          },
+          {
+            "name": "Ballarò",
+            "tip": "Bunter Markt mit allem, was das Herz begehrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Libertà",
+            "tip": "Elegáns bevásárlóutca márkás ruhákkal."
+          },
+          {
+            "name": "Ballarò",
+            "tip": "Színes piac minden földi jóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Libertà",
+            "tip": "Stradă elegantă de cumpărături pentru haine de firmă."
+          },
+          {
+            "name": "Ballarò",
+            "tip": "Piață colorată cu de toate pentru toți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Libertà",
+            "tip": "Elegant shopping street for designer brands."
+          },
+          {
+            "name": "Ballarò",
+            "tip": "Colorful market with a huge variety of goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Rad nahe dem Hafen.",
+          "Vermeiden Sie die Hauptstraßen während der Stoßzeiten.",
+          "Nutzen Sie die Radwege entlang der Cala.",
+          "Sichern Sie Ihr Fahrrad immer gut ab.",
+          "Trinken Sie viel Wasser bei der Hitze."
+        ],
+        "hu": [
+          "Bérelj biciklit a kikötő közelében.",
+          "Kerüld a főutakat a csúcsforgalom idején.",
+          "Használd a Cala menti kerékpárutakat.",
+          "Mindig alaposan zárd le a biciklidet.",
+          "Igyál sok vizet a nagy hőségben."
+        ],
+        "ro": [
+          "Închiriați o bicicletă lângă port.",
+          "Evitați străzile principale în orele de vârf.",
+          "Folosiți pistele de biciclete de-a lungul Cala.",
+          "Asigurați-vă întotdeauna bine bicicleta.",
+          "Beți multă apă în timpul caniculei."
+        ],
+        "en": [
+          "Rent a bike near the harbor area.",
+          "Avoid main roads during peak traffic hours.",
+          "Use the cycle paths along the Cala waterfront.",
+          "Always lock your bike securely when stopping.",
+          "Stay hydrated and drink plenty of water in the heat."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "20:10",
+      "total_km": 32.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Cattedrale di Palermo",
+          "coords": [
+            13.3585,
+            38.1145
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kostenpflichtige Parkplätze befinden sich in der Nähe.",
+            "hu": "Fizetős parkolók találhatók a közelben.",
+            "ro": "Parcări cu plată se află în apropiere.",
+            "en": "Paid parking lots are available nearby."
+          }
+        },
+        {
+          "name": "Palazzo dei Normanni",
+          "coords": [
+            13.3535,
+            38.1111
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Buchen Sie Tickets im Voraus online.",
+            "hu": "Foglalj jegyet előre online a várakozás elkerülésére.",
+            "ro": "Rezervați biletele online în avans.",
+            "en": "Book tickets online in advance to skip lines."
+          }
+        },
+        {
+          "name": "Catacombe dei Cappuccini",
+          "coords": [
+            13.3392,
+            38.1121
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein etwas makabrer, aber faszinierender Ort.",
+            "hu": "Kissé hátborzongató, de lenyűgöző történelmi helyszín.",
+            "ro": "Un loc puțin macabru, dar fascinant.",
+            "en": "A slightly macabre but fascinating historical site."
+          }
+        },
+        {
+          "name": "Castello della Zisa",
+          "coords": [
+            13.3414,
+            38.1165
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kühles Inneres dank genialer arabischer Architektur.",
+            "hu": "Hűvös belső tér a zseniális arab építészetnek köszönhetően.",
+            "ro": "Interior răcoros datorită arhitecturii arabe geniale.",
+            "en": "Cool interior thanks to ingenious Arab architecture."
+          }
+        },
+        {
+          "name": "Teatro Massimo",
+          "coords": [
+            13.3585,
+            38.12
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Parkhaus am Piazza Orlando nutzen.",
+            "hu": "Használd a Piazza Orlando alatti parkolóházat.",
+            "ro": "Folosiți parcarea supraetajată de la Piazza Orlando.",
+            "en": "Use the parking garage at Piazza Orlando."
+          }
+        },
+        {
+          "name": "Mondello Beach",
+          "coords": [
+            13.3275,
+            38.2
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 22.5,
+          "tip_5lang": {
+            "de": "Perfekt für ein Bad im Meer und Abendessen am Wasser.",
+            "hu": "Tökéletes egy tengeri fürdőzéshez és vízparti vacsorához.",
+            "ro": "Perfect pentru o baie în mare și o cină pe malul apei.",
+            "en": "Perfect for a swim and dinner by the waterfront."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert die monumentalen Schätze Palermos mit einem Ausflug ans Meer. Nach den Highlights wie der Kathedrale und dem Normannenpalast besuchen Sie die beeindruckenden Kapuzinerkatakomben. Das prachtvolle Castello della Zisa führt Sie zurück ins Mittelalter. Zum krönenden Abschluss fahren Sie nach Mondello, wo Sie den Abend am weißen Sandstrand bei einem Sonnenuntergang ausklingen lassen.",
+        "hu": "Ez az autós túra ötvözi Palermo monumentális kincseit egy tengerparti kirándulással. A Székesegyház és a Normann Palota után látogasson el a lenyűgöző Kapucinus Katakombákhoz. A pompás Zisa kastély visszarepíti a középkorba. A nap koronájaként autózzon el Mondellóba, ahol a fehér homokos strandon, naplementével zárhatja az estét.",
+        "ro": "Acest tur auto combină comorile monumentale ale orașului Palermo cu o excursie la malul mării. După punctele forte precum Catedrala și Palatul Normanzilor, vizitați impresionantele Catacombe ale Capucinilor. Splendidul Castel Zisa vă duce înapoi în Evul Mediu. Pentru finalul perfect, conduceți până la Mondello, unde puteți încheia seara pe plaja cu nisip alb la apus.",
+        "en": "This car tour combines Palermo's monumental treasures with a trip to the seaside. After highlights like the Cathedral and Norman Palace, visit the impressive Capuchin Catacombs. The magnificent Castello della Zisa takes you back to the Middle Ages. For the perfect finish, drive to Mondello, where you can end the evening on the white sandy beach at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasta con le sarde",
+            "tip": "Sizilianischer Klassiker mit Sardinen und Fenchel."
+          },
+          {
+            "name": "Pane ca' Meusa",
+            "tip": "Milz-Sandwich für mutige Genießer in Mondello."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasta con le sarde",
+            "tip": "Szicíliai klasszikus szardíniával és édesköménnyel."
+          },
+          {
+            "name": "Pane ca' Meusa",
+            "tip": "Lépszendvics bátor ínyenceknek Mondellóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasta con le sarde",
+            "tip": "Clasic sicilian cu sardine și fenicul."
+          },
+          {
+            "name": "Pane ca' Meusa",
+            "tip": "Sandviș cu splină pentru gurmanzii curajoși în Mondello."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasta con le sarde",
+            "tip": "Sicilian classic pasta with sardines and fennel."
+          },
+          {
+            "name": "Pane ca' Meusa",
+            "tip": "Spleen sandwich for adventurous eaters in Mondello."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Riserva di Capo Gallo",
+            "tip": "Natur pur und Klippen zum Wandern.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monte Pellegrino",
+            "tip": "Beste Aussicht über den gesamten Golf.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Riserva di Capo Gallo",
+            "tip": "Tiszta természet és sziklák túrázáshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monte Pellegrino",
+            "tip": "A legjobb kilátás az egész öbölre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Riserva di Capo Gallo",
+            "tip": "Natură pură și stânci pentru drumeții.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monte Pellegrino",
+            "tip": "Cea mai bună vedere asupra întregului golf.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riserva di Capo Gallo",
+            "tip": "Pure nature and cliffs for hiking.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monte Pellegrino",
+            "tip": "The best view over the entire gulf.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Forum Palermo",
+            "tip": "Großes Einkaufszentrum am Stadtrand."
+          },
+          {
+            "name": "Enoteca Picone",
+            "tip": "Exzellente sizilianische Weine kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Forum Palermo",
+            "tip": "Nagy bevásárlóközpont a város szélén."
+          },
+          {
+            "name": "Enoteca Picone",
+            "tip": "Vásárolj kiváló szicíliai borokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Forum Palermo",
+            "tip": "Centru comercial mare la marginea orașului."
+          },
+          {
+            "name": "Enoteca Picone",
+            "tip": "Cumpărați vinuri siciliene excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Forum Palermo",
+            "tip": "Large shopping mall on the outskirts."
+          },
+          {
+            "name": "Enoteca Picone",
+            "tip": "Buy excellent Sicilian wines here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie vorsichtig, der Verkehr ist chaotisch.",
+          "ZTL-Zonen in der Altstadt beachten.",
+          "Parken Sie nur auf bewachten Plätzen.",
+          "Nutzen Sie Google Maps für aktuelle Staus.",
+          "Tanken Sie rechtzeitig außerhalb des Zentrums."
+        ],
+        "hu": [
+          "Vezess óvatosan, a forgalom kaotikus lehet.",
+          "Ügyelj a behajtási tilalomra (ZTL) az óvárosban.",
+          "Csak őrzött helyen parkolj.",
+          "Használd a Google Maps-et a forgalmi helyzethez.",
+          "Tankolj időben a központon kívül."
+        ],
+        "ro": [
+          "Conduceți cu atenție, traficul poate fi haotic.",
+          "Atenție la zonele ZTL din centrul vechi.",
+          "Parcați doar în locuri păzite.",
+          "Folosiți Google Maps pentru trafic în timp real.",
+          "Alimentați din timp în afara centrului."
+        ],
+        "en": [
+          "Drive carefully as traffic can be chaotic.",
+          "Watch out for ZTL (restricted) zones in the center.",
+          "Only park in guarded parking areas.",
+          "Use Google Maps for real-time traffic updates.",
+          "Refuel your car outside the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "19:00",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Teatro Massimo",
+          "coords": [
+            13.3585,
+            38.12
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für viele Buslinien.",
+            "hu": "Központi csomópont számos buszjárat számára.",
+            "ro": "Nod central pentru multe linii de autobuz.",
+            "en": "Central hub for many local bus lines."
+          }
+        },
+        {
+          "name": "Mercato della Vucciria",
+          "coords": [
+            13.3638,
+            38.1172
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von der Via Roma Bushaltestelle.",
+            "hu": "Rövid séta a Via Roma buszmegállótól.",
+            "ro": "O scurtă plimbare de la stația de autobuz Via Roma.",
+            "en": "A short walk from the Via Roma bus stop."
+          }
+        },
+        {
+          "name": "Cattedrale di Palermo",
+          "coords": [
+            13.3585,
+            38.1145
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Shuttlebus 'Arancione' im Zentrum.",
+            "hu": "Használd az 'Arancione' ingyenes központi buszt.",
+            "ro": "Folosiți autobuzul 'Arancione' din centru.",
+            "en": "Use the 'Arancione' free shuttle bus in the center."
+          }
+        },
+        {
+          "name": "Palazzo dei Normanni",
+          "coords": [
+            13.3535,
+            38.1111
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bushaltestelle direkt an der Piazza Indipendenza.",
+            "hu": "Buszmegálló közvetlenül a Piazza Indipendenza téren.",
+            "ro": "Stație de autobuz chiar în Piazza Indipendenza.",
+            "en": "Bus stop located right at Piazza Indipendenza."
+          }
+        },
+        {
+          "name": "Catacombe dei Cappuccini",
+          "coords": [
+            13.3392,
+            38.1121
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Linie 327 bringt Sie direkt hierher.",
+            "hu": "A 327-es járat közvetlenül ide hoz.",
+            "ro": "Linia 327 vă aduce direct aici.",
+            "en": "Take bus line 327 to reach this location directly."
+          }
+        },
+        {
+          "name": "Orto Botanico",
+          "coords": [
+            13.3735,
+            38.1125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "In der Nähe des Hauptbahnhofs gelegen.",
+            "hu": "A központi pályaudvar (Stazione Centrale) közelében.",
+            "ro": "Situat în apropierea gării centrale.",
+            "en": "Located near the central railway station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Busnetz von Palermo, um die Stadt stressfrei zu erleben. Vom kulturellen Herz am Teatro Massimo geht es zum Vucciria-Markt. Bewundern Sie die Kathedrale und den Normannenpalast, die bequem erreichbar sind. Ein Ausflug zu den Katakomben zeigt eine andere Seite der Stadt. Beenden Sie Ihren Tag entspannt im Botanischen Garten, bevor Sie vom Hauptbahnhof aus zurückkehren.",
+        "hu": "Használja Palermo buszhálózatát a város stresszmentes felfedezéséhez. A Teatro Massimo kulturális szívétől indulva látogasson el a Vucciria piacra. Csodálja meg a Székesegyházat és a Normann Palotát, amelyek könnyen elérhetőek. Egy kirándulás a Katakombákhoz a város egy másik arcát mutatja meg. Zárja a napot pihentetően a Botanikus Kertben, mielőtt visszatérne a főpályaudvarra.",
+        "ro": "Folosiți rețeaua de autobuze din Palermo pentru a experimenta orașul fără stres. De la inima culturală de la Teatro Massimo mergeți la piața Vucciria. Admirați Catedrala și Palatul Normanzilor, ușor accesibile. O excursie la Catacombe vă arată o altă latură a orașului. Încheiați ziua relaxat în Grădina Botanică înainte de a vă întoarce de la gara centrală.",
+        "en": "Utilize Palermo's bus network to experience the city stress-free. From the cultural heart at Teatro Massimo, head to the Vucciria market. Admire the Cathedral and Norman Palace, both easily accessible by bus. A trip to the Catacombs reveals a different side of the city. End your day in the Botanical Garden before returning from the central station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cassata Siciliana",
+            "tip": "Traditioneller Kuchen mit Ricotta und Marzipan."
+          },
+          {
+            "name": "Setteveli",
+            "tip": "Siebenschichtige Schokoladentorte probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cassata Siciliana",
+            "tip": "Hagyományos torta ricottával és marcipánnal."
+          },
+          {
+            "name": "Setteveli",
+            "tip": "Kóstold meg a hétrétegű csokoládétortát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cassata Siciliana",
+            "tip": "Prăjitură tradițională cu ricotta și marțipan."
+          },
+          {
+            "name": "Setteveli",
+            "tip": "Încercați tortul de ciocolată cu șapte straturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cassata Siciliana",
+            "tip": "Traditional cake with ricotta and marzipan."
+          },
+          {
+            "name": "Setteveli",
+            "tip": "Try the famous seven-layer chocolate cake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardino Garibaldi",
+            "tip": "Berühmt für die riesigen Ficus-Bäume.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kalsa-Viertel",
+            "tip": "Ruhige Gassen im ältesten Teil der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardino Garibaldi",
+            "tip": "Híres a hatalmas fikuszfáiról.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kalsa negyed",
+            "tip": "Csendes sikátorok a város legősibb részén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardino Garibaldi",
+            "tip": "Faimoasă pentru arborii Ficus uriași.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Cartierul Kalsa",
+            "tip": "Străduțe liniștite în cea mai veche parte a orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardino Garibaldi",
+            "tip": "Famous for its massive Ficus trees.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kalsa District",
+            "tip": "Quiet alleys in the oldest part of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stazione Centrale",
+            "tip": "Diverse Geschäfte im Bahnhofsgebäude."
+          },
+          {
+            "name": "Corso Vittorio Emanuele",
+            "tip": "Souvenirs und typische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stazione Centrale",
+            "tip": "Különféle üzletek a pályaudvar épületében."
+          },
+          {
+            "name": "Corso Vittorio Emanuele",
+            "tip": "Ajándéktárgyak és tipikus termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stazione Centrale",
+            "tip": "Diverse magazine în clădirea gării."
+          },
+          {
+            "name": "Corso Vittorio Emanuele",
+            "tip": "Suveniruri și produse tipice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stazione Centrale",
+            "tip": "Various shops located inside the station."
+          },
+          {
+            "name": "Corso Vittorio Emanuele",
+            "tip": "Souvenirs and typical local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets am Kiosk vor der Fahrt.",
+          "Validieren Sie Ihr Ticket im Bus.",
+          "Laden Sie die AMAT-App für Fahrpläne herunter.",
+          "Rechnen Sie mit Verspätungen im Verkehr.",
+          "Die gelben Busse sind oft schneller im Zentrum."
+        ],
+        "hu": [
+          "Vásárolj jegyet újságárusnál az utazás előtt.",
+          "Érvényesítsd a jegyedet a buszon.",
+          "Töltsd le az AMAT appot a menetrendekhez.",
+          "Számíts forgalmi késésekre.",
+          "A sárga buszok gyakran gyorsabbak a központban."
+        ],
+        "ro": [
+          "Cumpărați bilete de la chioșcuri înainte de călătorie.",
+          "Validați biletul în autobuz.",
+          "Descărcați aplicația AMAT pentru orare.",
+          "Așteptați-vă la întârzieri din cauza traficului.",
+          "Autobuzele galbene sunt adesea mai rapide în centru."
+        ],
+        "en": [
+          "Buy tickets at kiosks before boarding.",
+          "Validate your ticket as soon as you board.",
+          "Download the AMAT app for schedules and routes.",
+          "Expect some delays due to heavy city traffic.",
+          "Yellow shuttle buses are often faster in the center."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-82",
+    "lon": 13.3613,
+    "lat": 38.1157,
+    "transit_official": "https://www.amat.pa.it/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Palermo",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.comune.palermo.it/eventi.php",
+    "tourism_office": "https://www.comune.palermo.it/turismo/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/sicilia/palermo.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/palermo-c247041",
+    "museum_tickets": "https://www.coopculture.it/it/luoghi/palermo/",
+    "parking_real_time": "https://www.amat.pa.it/sosta/",
+    "language_tips": {
+      "de": "Italienisch mit sizilianischem Einschlag; Englisch in Hotels, kaum auf Maerkten.",
+      "hu": "Olaszul beszelnek sziciliai szinezettel; angolt szallodakban igen, piacon ritkan.",
+      "ro": "Italiana cu accent sicilian; engleza in hoteluri, rar la pietele de strada.",
+      "en": "Italian with Sicilian accent; English in hotels, rarely on street markets."
+    },
+    "best_time": {
+      "de": "April, Mai und Oktober fuer angenehme Temperaturen und volle Streetfood-Maerkte.",
+      "hu": "Aprilis, majus es oktober kellemes hofokkal es nyitva tarto streetfood piacokkal.",
+      "ro": "Aprilie, mai si octombrie ofera temperaturi placute si piete de street food active.",
+      "en": "April, May and October bring pleasant temperatures and lively street-food markets."
+    },
+    "warnings": {
+      "de": "Auf Taschendiebe in Ballaro und Vucciria achten; Verkehr ist chaotisch.",
+      "hu": "Ballaroban es Vucciriaban figyelj a zsebtolvajokra; a forgalom kaotikus.",
+      "ro": "Atentie la hoti de buzunare in Ballaro si Vucciria; traficul e haotic.",
+      "en": "Watch for pickpockets in Ballaro and Vucciria; traffic is chaotic."
+    }
+  }
+}

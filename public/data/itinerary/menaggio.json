@@ -1,0 +1,1042 @@
+{
+  "city_id": "menaggio",
+  "anchor": {
+    "name": "Menaggio",
+    "coords": [
+      9.2419,
+      46.0228
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Garibaldi",
+            "hu": "Piazza Garibaldi",
+            "ro": "Piazza Garibaldi",
+            "en": "Piazza Garibaldi"
+          },
+          "coords": [
+            9.2435,
+            46.0215
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das pulsierende Herz der Stadt.",
+            "hu": "A város lüktető szíve.",
+            "ro": "Inima vibrantă a orașului.",
+            "en": "The vibrant heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade Menaggio",
+            "hu": "Menaggioi tóparti sétány",
+            "ro": "Faleza Menaggio",
+            "en": "Lungolago di Menaggio"
+          },
+          "coords": [
+            9.2452,
+            46.0232
+          ],
+          "category": "park",
+          "arrive_at": "09:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schöne Blumenbeete und Bänke.",
+            "hu": "Gyönyörű virágágyások és padok.",
+            "ro": "Ronduri de flori superbe și bănci.",
+            "en": "Beautiful flower beds and benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santo Stefano",
+            "hu": "Szent István-templom",
+            "ro": "Biserica Sfântul Ștefan",
+            "en": "Church of Santo Stefano"
+          },
+          "coords": [
+            9.2415,
+            46.0225
+          ],
+          "category": "cathedral",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beeindruckende Innenausstattung.",
+            "hu": "Lenyűgöző belső kialakítás.",
+            "ro": "Interior impresionant.",
+            "en": "Impressive interior decor."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento alla Tessitrice",
+            "hu": "Szövőnő emlékműve",
+            "ro": "Monumentul Țesătoarei",
+            "en": "Monumento alla Tessitrice"
+          },
+          "coords": [
+            9.2438,
+            46.0195
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erinnert an die Textilgeschichte.",
+            "hu": "A textiliparnak állít emléket.",
+            "ro": "Amintește de istoria textilă.",
+            "en": "Commemorates the textile history."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido di Menaggio",
+            "hu": "Menaggioi strand",
+            "ro": "Lido di Menaggio",
+            "en": "Lido di Menaggio"
+          },
+          "coords": [
+            9.2475,
+            46.0265
+          ],
+          "category": "beach",
+          "arrive_at": "14:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Pool und Strandzugang.",
+            "hu": "Medence és strand belépővel.",
+            "ro": "Piscină și acces la plajă.",
+            "en": "Pool and beach access."
+          }
+        },
+        {
+          "name": {
+            "de": "Ristorante am Hafen",
+            "hu": "Kikötői étterem",
+            "ro": "Restaurant la port",
+            "en": "Harbor Restaurant"
+          },
+          "coords": [
+            9.2442,
+            46.0212
+          ],
+          "category": "gastro",
+          "arrive_at": "17:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Frischer Fisch am Abend.",
+            "hu": "Friss hal vacsorára.",
+            "ro": "Pește proaspăt seara.",
+            "en": "Fresh fish in the evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Menaggio ist flacher als andere Orte am See und perfekt für Spaziergänge. Starten Sie auf der Piazza Garibaldi und genießen Sie die weitläufige Uferpromenade. Besuchen Sie die beeindruckende Kirche Santo Stefano und spazieren Sie zum Lido für eine Erfrischung im Wasser. Den Tag lassen Sie in einem der gemütlichen Restaurants am Hafen ausklingen.",
+        "hu": "Menaggio laposabb, mint a tó többi városa, így tökéletes a sétákhoz. Kezdjen a Piazza Garibaldi-n, majd élvezze a tágas tóparti sétányt. Látogassa meg a lenyűgöző Szent István-templomot, és sétáljon el a Lidóig egy frissítő csobbanásra. A napot a kikötő egyik hangulatos éttermében zárja.",
+        "ro": "Menaggio este mai plat decât alte orașe de pe lac, fiind perfect pentru plimbări. Începeți în Piazza Garibaldi și bucurați-vă de faleza spațioasă. Vizitați biserica impresionantă Sfântul Ștefan și mergeți la Lido pentru o baie răcoritoare. Încheiați ziua la unul dintre restaurantele primitoare din port.",
+        "en": "Menaggio is flatter than other lake towns, making it perfect for walking. Start in Piazza Garibaldi and enjoy the spacious lakeside promenade. Visit the impressive Church of Santo Stefano and walk to the Lido for a refreshing swim. Conclude the day at one of the cozy harbor restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante di Paolo",
+            "tip": "Klassische italienische Küche."
+          },
+          {
+            "name": "Pizzeria Lugano",
+            "tip": "Hauchdünne Pizza mit Seeblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante di Paolo",
+            "tip": "Klasszikus olasz konyha."
+          },
+          {
+            "name": "Pizzeria Lugano",
+            "tip": "Vékony tészta, kilátás a tóra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante di Paolo",
+            "tip": "Bucătărie italiană clasică."
+          },
+          {
+            "name": "Pizzeria Lugano",
+            "tip": "Pizza cu blat subțire și vedere la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante di Paolo",
+            "tip": "Classic Italian cuisine."
+          },
+          {
+            "name": "Pizzeria Lugano",
+            "tip": "Thin-crust pizza with lake views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park bei der Villa Mylius",
+            "tip": "Ruhiger Park mit alten Bäumen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Mylius parkja",
+            "tip": "Csendes park öreg fákkal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Vilei Mylius",
+            "tip": "Parc liniștit cu arbori bătrâni.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Mylius Park",
+            "tip": "Quiet park with old trees.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Menaggio Local Market",
+            "tip": "Jeden zweiten Freitag Vormittag."
+          },
+          {
+            "name": "Arte & Fiori",
+            "tip": "Lokale Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menaggioi piac",
+            "tip": "Minden második péntek délelőtt."
+          },
+          {
+            "name": "Arte & Fiori",
+            "tip": "Helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală Menaggio",
+            "tip": "La fiecare două vineri dimineața."
+          },
+          {
+            "name": "Arte & Fiori",
+            "tip": "Artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Menaggio Local Market",
+            "tip": "Every second Friday morning."
+          },
+          {
+            "name": "Arte & Fiori",
+            "tip": "Local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Menaggio hat eine Minigolfanlage direkt am See.",
+          "Die Fähren nach Varenna und Bellagio fahren vom Hauptsteg ab.",
+          "Der Lido ist im Sommer sehr beliebt, kommen Sie früh."
+        ],
+        "hu": [
+          "Menaggio-ban van egy minigolf pálya a tóparton.",
+          "A Varennába és Bellagióba tartó kompok a fő mólóról indulnak.",
+          "A Lidó nyáron nagyon népszerű, érkezz korán."
+        ],
+        "ro": [
+          "Menaggio are un teren de minigolf chiar pe malul lacului.",
+          "Feriboturile spre Varenna și Bellagio pleacă de la debarcaderul principal.",
+          "Lido este foarte popular vara, veniți devreme."
+        ],
+        "en": [
+          "Menaggio has a minigolf course right by the lake.",
+          "Ferries to Varenna and Bellagio depart from the main pier.",
+          "The Lido is very popular in summer, arrive early."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello di Menaggio",
+            "hu": "Menaggioi vár",
+            "ro": "Castelul Menaggio",
+            "en": "Menaggio Castle"
+          },
+          "coords": [
+            9.2385,
+            46.0245
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Reste der alten Mauern.",
+            "hu": "A régi falak maradványai.",
+            "ro": "Resturile zidurilor vechi.",
+            "en": "Remains of the old walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Loveno Belvedere",
+            "hu": "Loveno kilátó",
+            "ro": "Belvedere Loveno",
+            "en": "Loveno Belvedere"
+          },
+          "coords": [
+            9.2355,
+            46.0275
+          ],
+          "category": "park",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bester Panoramablick auf den See.",
+            "hu": "A legjobb panoráma a tóra.",
+            "ro": "Cea mai bună panoramă asupra lacului.",
+            "en": "Best panoramic view of the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Val Sanagra",
+            "hu": "Val Sanagra park",
+            "ro": "Parcul Val Sanagra",
+            "en": "Val Sanagra Park"
+          },
+          "coords": [
+            9.2205,
+            46.0355
+          ],
+          "category": "park",
+          "arrive_at": "12:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Natur pur und kühler Bach.",
+            "hu": "Tiszta természet és hűvös patak.",
+            "ro": "Natură pură și un râu răcoros.",
+            "en": "Pure nature and a cool stream."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido di Menaggio",
+            "hu": "Menaggioi strand",
+            "ro": "Lido di Menaggio",
+            "en": "Lido di Menaggio"
+          },
+          "coords": [
+            9.2475,
+            46.0265
+          ],
+          "category": "beach",
+          "arrive_at": "14:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Abkühlung nach der Tour.",
+            "hu": "Felfrissülés a túra után.",
+            "ro": "Răcorire după tur.",
+            "en": "Cool down after the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Garibaldi",
+            "hu": "Piazza Garibaldi",
+            "ro": "Piazza Garibaldi",
+            "en": "Piazza Garibaldi"
+          },
+          "coords": [
+            9.2435,
+            46.0215
+          ],
+          "category": "gastro",
+          "arrive_at": "16:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Gelato zum Abschluss.",
+            "hu": "Egy fagyi a végére.",
+            "ro": "O înghețată la final.",
+            "en": "A gelato to finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie sportlich mit dem Aufstieg zum Castello und weiter nach Loveno. Der Belvedere bietet eine fantastische Aussicht. Tauchen Sie in die Natur des Val Sanagra Tals ein, bevor Sie zurück zum See fahren. Gönnen Sie sich eine Pause im Lido und beenden Sie die Tour im Zentrum.",
+        "hu": "Indítsa sportosan a napot a vár felé, majd tovább Loveno irányába. A Belvedere fantasztikus kilátást nyújt. Merüljön el a Val Sanagra-völgy természetében, mielőtt visszatérne a tóhoz. Tartson egy szünetet a Lidóban, és fejezze be a túrát a központban.",
+        "ro": "Începeți sportiv cu urcarea spre Castel și apoi spre Loveno. Belvedere oferă o vedere fantastică. Afundați-vă în natura văii Val Sanagra înainte de a reveni la lac. Luați o pauză la Lido și terminați turul în centru.",
+        "en": "Start your day actively with a climb to the Castle and on to Loveno. The Belvedere offers a fantastic view. Immerse yourself in the nature of the Val Sanagra valley before heading back to the lake. Treat yourself to a break at the Lido and finish the tour in the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Trattoria Costantin",
+            "tip": "Authentische Hausmannskost."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Trattoria Costantin",
+            "tip": "Autentikus házias konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Trattoria Costantin",
+            "tip": "Mâncare gătită autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Trattoria Costantin",
+            "tip": "Authentic home-style cooking."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche San Carlo",
+            "tip": "Kleine Kapelle in Loveno.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Károly templom",
+            "tip": "Kis kápolna Loveno-ban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica San Carlo",
+            "tip": "Capelă mică în Loveno.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church of San Carlo",
+            "tip": "Small chapel in Loveno.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bici Menaggio",
+            "tip": "Zubehör und lokaler Verleih."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bici Menaggio",
+            "tip": "Kiegészítők és helyi bérlés."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bici Menaggio",
+            "tip": "Accesorii și închirieri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bici Menaggio",
+            "tip": "Accessories and local rental."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Abschnitte im Val Sanagra sind unbefestigt.",
+          "In Loveno gibt es enge Gassen, Vorsicht beim Fahren.",
+          "Nutzen Sie den Radweg Richtung Porlezza."
+        ],
+        "hu": [
+          "Néhány szakasz a Val Sanagra-ban nem aszfaltozott.",
+          "Loveno-ban szűk utcák vannak, vezess óvatosan.",
+          "Használd a Porlezza felé tartó kerékpárutat."
+        ],
+        "ro": [
+          "Unele secțiuni din Val Sanagra nu sunt asfaltate.",
+          "În Loveno sunt străduțe înguste, atenție la condus.",
+          "Folosiți pista de biciclete spre Porlezza."
+        ],
+        "en": [
+          "Some sections in Val Sanagra are unpaved.",
+          "There are narrow alleys in Loveno, be careful.",
+          "Use the bike path towards Porlezza."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Vigoni",
+            "hu": "Villa Vigoni",
+            "ro": "Vila Vigoni",
+            "en": "Villa Vigoni"
+          },
+          "coords": [
+            9.2325,
+            46.0285
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nur mit Führung besuchbar.",
+            "hu": "Csak vezetéssel látogatható.",
+            "ro": "Vizitabilă doar cu ghid.",
+            "en": "Visit only with a guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Menaggio",
+            "hu": "Menaggioi vár",
+            "ro": "Castelul Menaggio",
+            "en": "Menaggio Castle"
+          },
+          "coords": [
+            9.2385,
+            46.0245
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parkplatz an der Via Castellino.",
+            "hu": "Parkoló a Via Castellino-nál.",
+            "ro": "Parcare pe Via Castellino.",
+            "en": "Parking on Via Castellino."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Val Sanagra",
+            "hu": "Val Sanagra park",
+            "ro": "Parcul Val Sanagra",
+            "en": "Val Sanagra Park"
+          },
+          "coords": [
+            9.2205,
+            46.0355
+          ],
+          "category": "park",
+          "arrive_at": "12:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Perfekt für ein Picknick.",
+            "hu": "Tökéletes piknikhely.",
+            "ro": "Loc perfect pentru picnic.",
+            "en": "Perfect picnic spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Garibaldi",
+            "hu": "Piazza Garibaldi",
+            "ro": "Piazza Garibaldi",
+            "en": "Piazza Garibaldi"
+          },
+          "coords": [
+            9.2435,
+            46.0215
+          ],
+          "category": "square",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Parkhaus am Seeufer nutzen.",
+            "hu": "Használd a tóparti parkolót.",
+            "ro": "Folosiți parcarea de pe faleză.",
+            "en": "Use the lakeside parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade",
+            "hu": "Tóparti sétány",
+            "ro": "Faleză",
+            "en": "Lakeside Promenade"
+          },
+          "coords": [
+            9.2452,
+            46.0232
+          ],
+          "category": "sunset",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Goldenes Licht am Abend.",
+            "hu": "Aranyfények este.",
+            "ro": "Lumină aurie seara.",
+            "en": "Golden light in the evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die höher gelegene Villa Vigoni und das Castello bequem. Ein Abstecher in das Val Sanagra Tal zeigt Ihnen die wilde Natur der Region. Kehren Sie zum Zentrum zurück, um das italienische Leben auf der Piazza und an der Promenade zu genießen.",
+        "hu": "Autóval kényelmesen elérheti a magasan fekvő Villa Vigoni-t és a várat. Egy kitérő a Val Sanagra-völgybe megmutatja a régió vad természetét. Térjen vissza a központba, hogy élvezze az olasz életet a Piazza-n és a sétányon.",
+        "ro": "Cu mașina, puteți ajunge confortabil la Villa Vigoni și la Castel. O escapadă în valea Val Sanagra vă arată natura sălbatică a regiunii. Reveniți în centru pentru a vă bucura de viața italiană în Piazza și pe faleză.",
+        "en": "By car, you can comfortably reach the elevated Villa Vigoni and the Castle. A detour to the Val Sanagra valley shows you the wild nature of the region. Return to the center to enjoy Italian life in the Piazza and on the promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante Red Bay",
+            "tip": "Blick auf den Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante Red Bay",
+            "tip": "Kilátás a kikötőre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante Red Bay",
+            "tip": "Vedere la port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante Red Bay",
+            "tip": "View of the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche San Carlo",
+            "tip": "Absolute Stille in Loveno.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Károly templom",
+            "tip": "Abszolút csend Loveno-ban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica San Carlo",
+            "tip": "Liniște absolută în Loveno.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church of San Carlo",
+            "tip": "Absolute silence in Loveno.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Menaggio Leather Shop",
+            "tip": "Gürtel und Geldbörsen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menaggioi bőrbolt",
+            "tip": "Övek és pénztárcák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de piele Menaggio",
+            "tip": "Curele și portofele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Menaggio Leather Shop",
+            "tip": "Belts and wallets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Zentrum ist zeitlich begrenzt (Parkscheibe).",
+          "Die Straße ins Val Sanagra ist sehr schmal.",
+          "Buchen Sie Villa Vigoni Wochen im Voraus."
+        ],
+        "hu": [
+          "A központban a parkolás időkorlátos (tárcsa kell).",
+          "A Val Sanagra felé vezető út nagyon szűk.",
+          "Foglald le a Villa Vigonit hetekkel előre."
+        ],
+        "ro": [
+          "Parcarea în centru este limitată temporal (disc de parcare).",
+          "Drumul spre Val Sanagra este foarte îngust.",
+          "Rezervați Villa Vigoni cu săptămâni înainte."
+        ],
+        "en": [
+          "Parking in the center is time-limited (parking disc).",
+          "The road into Val Sanagra is very narrow.",
+          "Book Villa Vigoni weeks in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Menaggio Schiffsanleger",
+            "hu": "Menaggioi hajóállomás",
+            "ro": "Moll Menaggio",
+            "en": "Menaggio Ferry Terminal"
+          },
+          "coords": [
+            9.2445,
+            46.0205
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Haupthalt für Schnellboote.",
+            "hu": "A gyorshajók fő megállója.",
+            "ro": "Oprire principală pentru nave rapide.",
+            "en": "Main stop for hydrofoils."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Garibaldi",
+            "hu": "Piazza Garibaldi",
+            "ro": "Piazza Garibaldi",
+            "en": "Piazza Garibaldi"
+          },
+          "coords": [
+            9.2435,
+            46.0215
+          ],
+          "category": "square",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur 5 Min zu Fuß vom Steg.",
+            "hu": "Csak 5 perc séta a mólótól.",
+            "ro": "Doar 5 min de mers de la dig.",
+            "en": "Only 5 min walk from the pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santo Stefano",
+            "hu": "Szent István-templom",
+            "ro": "Biserica Sfântul Ștefan",
+            "en": "Church of Santo Stefano"
+          },
+          "coords": [
+            9.2415,
+            46.0225
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Historisches Zentrum erkunden.",
+            "hu": "Fedezze fel a történelmi központot.",
+            "ro": "Explorați centrul istoric.",
+            "en": "Explore the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido di Menaggio",
+            "hu": "Menaggioi strand",
+            "ro": "Lido di Menaggio",
+            "en": "Lido di Menaggio"
+          },
+          "coords": [
+            9.2475,
+            46.0265
+          ],
+          "category": "beach",
+          "arrive_at": "12:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bus C10 hält in der Nähe.",
+            "hu": "A C10-es busz megáll a közelben.",
+            "ro": "Autobuzul C10 oprește aproape.",
+            "en": "Bus C10 stops nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade",
+            "hu": "Tóparti sétány",
+            "ro": "Faleză",
+            "en": "Lakeside Promenade"
+          },
+          "coords": [
+            9.2452,
+            46.0232
+          ],
+          "category": "park",
+          "arrive_at": "14:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Abschiedsblick auf den See.",
+            "hu": "Búcsúpillantás a tóra.",
+            "ro": "Ultima vedere spre lac.",
+            "en": "Farewell look at the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die exzellente Fährverbindung, um nach Menaggio zu gelangen. Vom Hafen ist es ein kurzer Weg zur Piazza Garibaldi und zur Kirche Santo Stefano. Mit dem lokalen Bus oder zu Fuß erreichen Sie den Lido. Beenden Sie den Tag auf der Promenade, bevor die Fähre Sie zurückbringt.",
+        "hu": "Használja a kiváló kompjáratokat Menaggio eléréséhez. A kikötőtől rövid út vezet a Piazza Garibaldi-hoz és a Szent István-templomhoz. Helyi busszal vagy gyalog is elérheti a Lidót. A napot a sétányon zárja, mielőtt visszaindulna a komppal.",
+        "ro": "Folosiți conexiunile excelente de feribot pentru a ajunge în Menaggio. De la port este o distanță scurtă până la Piazza Garibaldi și biserica Sfântul Ștefan. Cu autobuzul local sau pe jos puteți ajunge la Lido. Încheiați ziua pe faleză înainte de plecarea feribotului.",
+        "en": "Use the excellent ferry connections to get to Menaggio. It's a short walk from the harbor to Piazza Garibaldi and the Church of Santo Stefano. You can reach the Lido by local bus or on foot. End the day on the promenade before your ferry departs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gelateria Bassano",
+            "tip": "Traditionelles Eis seit Jahrzehnten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gelateria Bassano",
+            "tip": "Hagyományos fagyi évtizedek óta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gelateria Bassano",
+            "tip": "Înghețată tradițională de zeci de ani."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gelateria Bassano",
+            "tip": "Traditional gelato for decades."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Monument to the Weaver",
+            "tip": "Ruhiger Platz zum Verweilen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A szövőnő emlékműve",
+            "tip": "Csendes hely a pihenésre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Monumentul Țesătoarei",
+            "tip": "Loc liniștit de popas.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monumento alla Tessitrice",
+            "tip": "Quiet spot to linger.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lakeside Souvenirs",
+            "tip": "Postkarten und Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tóparti szuvenírek",
+            "tip": "Képeslapok és kerámia."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de pe faleză",
+            "tip": "Vederi și ceramică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside Souvenirs",
+            "tip": "Postcards and ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die C10 Buslinie verbindet alle Orte am Westufer.",
+          "Tickets für den Bus müssen oft vorher gekauft werden.",
+          "Fahrpläne für Fähren hängen am Hafen aus."
+        ],
+        "hu": [
+          "A C10-es buszvonal összeköti a nyugati part településeit.",
+          "A buszjegyeket gyakran előre meg kell venni.",
+          "A kompmenetrendek ki vannak függesztve a kikötőben."
+        ],
+        "ro": [
+          "Linia de autobuz C10 leagă toate localitățile de pe malul vestic.",
+          "Biletele de autobuz trebuie adesea cumpărate în avans.",
+          "Orarele feriboturilor sunt afișate în port."
+        ],
+        "en": [
+          "The C10 bus line connects all towns on the west bank.",
+          "Bus tickets often must be purchased in advance.",
+          "Ferry schedules are posted at the harbor."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "_coords": [
+      9.2403,
+      46.0225
+    ],
+    "_region": "IT-25 Lombardia (Como)",
+    "transit_official": "https://www.navigazionelaghi.it/",
+    "transit_app": "https://moovitapp.com/index/en/public_transit-Menaggio",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://menaggio.com/en/events/",
+    "tourism_office": "https://menaggio.com/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/lombardia/como/menaggio.html",
+    "restaurants_booking": "https://www.thefork.it/ristoranti/menaggio-c561900",
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch ist Hauptsprache; durch deutschsprachige und britische Urlauber Deutsch und Englisch oft verfügbar.",
+      "hu": "Olasz a fő nyelv; a német és brit nyaralók miatt német és angol gyakran elérhető.",
+      "ro": "Italiana este principala; germana și engleza accesibile datorită turiștilor germani și britanici.",
+      "en": "Italian primary; German and English often available due to German and British holidaymakers."
+    },
+    "best_time": {
+      "de": "Mai–Juni und September optimal; Internationales Gitarrenfestival Ende August.",
+      "hu": "Május–június és szeptember a legjobb; Nemzetközi Gitárfesztivál augusztus végén.",
+      "ro": "Mai–iunie și septembrie optime; Festivalul Internațional de Chitară la sfârșitul lui august.",
+      "en": "May–June and September optimal; International Guitar Festival late August."
+    },
+    "warnings": {
+      "de": "SS340 Regina-Straße eng und im Sommer staut; Fähre nach Bellagio/Varenna in Hochsaison überfüllt.",
+      "hu": "SS340 Regina út szűk és nyáron bedugul; komp Bellagio/Varenna felé főszezonban túlzsúfolt.",
+      "ro": "SS340 Regina îngustă și aglomerată vara; feribotul spre Bellagio/Varenna supraaglomerat în sezon.",
+      "en": "SS340 Regina road narrow and jams in summer; ferry to Bellagio/Varenna overcrowded in peak season."
+    }
+  }
+}

@@ -1,0 +1,1046 @@
+{
+  "city_id": "san-gimignano",
+  "anchor": {
+    "name": "San Gimignano",
+    "coords": [
+      11.0431,
+      43.4675
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Porta San Giovanni",
+          "coords": [
+            11.0441,
+            43.4646
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie das prächtige Stadttor aus dem 13. Jahrhundert.",
+            "hu": "Csodálja meg a 13. századi városkapu masszív bástyáit.",
+            "ro": "Admirați poarta masivă a orașului construită în secolul XIII.",
+            "en": "Admire the massive city gate built in the 13th century."
+          }
+        },
+        {
+          "name": "Piazza della Cisterna",
+          "coords": [
+            11.0431,
+            43.4675
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Holen Sie sich ein Eis bei Dondoli, dem Weltmeister-Eissalon.",
+            "hu": "Vegyen egy fagyit a világbajnok Dondoli fagylaltozóban.",
+            "ro": "Luați o înghețată de la Dondoli, campion mondial în domeniu.",
+            "en": "Get a gelato from Dondoli, a world-champion ice cream shop."
+          }
+        },
+        {
+          "name": "Torre Grossa",
+          "coords": [
+            11.043,
+            43.4678
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den höchsten Turm für einen Panoramablick über die Toskana.",
+            "hu": "Másszon fel a legmagasabb toronyba a toszkán panorámáért.",
+            "ro": "Urcați în cel mai înalt turn pentru o panoramă superbă asupra Toscanei.",
+            "en": "Climb the tallest tower for a panoramic view over Tuscany."
+          }
+        },
+        {
+          "name": "Collegiata di Santa Maria Assunta",
+          "coords": [
+            11.0428,
+            43.4678
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Fresken im Inneren erzählen faszinierende biblische Geschichten.",
+            "hu": "A belső freskók lenyűgöző bibliai történeteket mesélnek el.",
+            "ro": "Frescele din interior spun povești biblice fascinante.",
+            "en": "The frescoes inside tell fascinating biblical stories."
+          }
+        },
+        {
+          "name": "Palazzo Comunale",
+          "coords": [
+            11.0429,
+            43.4677
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Saal von Dante im historischen Rathaus.",
+            "hu": "Látogassa meg a Dante-termet a történelmi városházán.",
+            "ro": "Vizitați Sala lui Dante în primăria istorică.",
+            "en": "Visit the Hall of Dante inside the historic town hall."
+          }
+        },
+        {
+          "name": "Rocca di Montestaffoli",
+          "coords": [
+            11.042,
+            43.4685
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Weinprobe im Vernaccia-Museum in der Festung.",
+            "hu": "Kóstoljon Vernaccia bort az erőd bormúzeumában.",
+            "ro": "Savurați o degustare de vin Vernaccia în muzeul din cetate.",
+            "en": "Enjoy a Vernaccia wine tasting at the fortress museum."
+          }
+        },
+        {
+          "name": "Museo San Gimignano 1300",
+          "coords": [
+            11.0435,
+            43.4692
+          ],
+          "category": "museums",
+          "arrive_at": "16:40",
+          "stay_min": 65,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Sehen Sie die Stadt in Miniaturform, wie sie im Mittelalter aussah.",
+            "hu": "Nézze meg a város makettjét, ahogy a középkorban festett.",
+            "ro": "Vedeți orașul în miniatură, așa cum arăta în epoca medievală.",
+            "en": "See the city in miniature as it looked in the Middle Ages."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am imposanten Porta San Giovanni und tauchen Sie ein in die Atmosphäre des Mittelalters. Die Piazza della Cisterna bildet das lebendige Herz der Stadt, wo Sie den ersten italienischen Espresso genießen können. Mittags erklimmen wir den Torre Grossa für einen unvergesslichen Ausblick.\n\nNach dem Abstieg widmen wir uns der spirituellen Kunst in der Collegiata und besichtigen den prächtigen Palazzo Comunale. Hier spürt man die einstige Macht der toskanischen Adelsfamilien.\n\nDer Nachmittag gehört der Entspannung in der Rocca di Montestaffoli. Zwischen alten Mauern und Olivenbäumen lässt sich die toskanische Sonne am besten genießen, vielleicht bei einem Glas kühlem Weißwein.\n\nZum Abschluss des Tages besuchen wir das Museo 1300, um das historische Stadtbild besser zu verstehen. San Gimignano bei Sonnenuntergang zu erleben, wenn die Tagestouristen abziehen, ist ein magisches Erlebnis.",
+        "hu": "Kezdje a napot az impozáns Porta San Giovanninál, belépve a középkori Manhattan falai közé. A Piazza della Cisterna a város lüktető szíve, ahol érdemes megállni egy kávéra vagy fagyira. Délben másszuk meg a Torre Grossát a felejthetetlen panorámáért.\n\nA torony után a Collegiata művészeti kincsei és a Palazzo Comunale díszes termei várnak. Itt megelevenedik a toszkán nemesi családok egykori hatalma és gazdagsága.\n\nDélután a Rocca di Montestaffoli erődje kínál nyugalmat. Az ódon falak és olajfák között, a toszkán napsütésben élvezhetjük a tájat, akár egy pohár hűvös Vernaccia társaságában.\n\nA napot a Museo 1300 makettjeivel zárjuk, mely segít elképzelni a város régi fényét. Ahogy a turisták elszállingóznak, a városka visszanyeri csendes, misztikus hangulatát.",
+        "ro": "Începeți ziua la impunătoarea Porta San Giovanni și pătrundeți în atmosfera medievală autentică. Piazza della Cisterna este inima orașului, locul perfect pentru un espresso italian. La prânz, urcăm în Torre Grossa pentru o vedere de neuitat asupra dealurilor toscane.\n\nDupă coborâre, ne dedicăm artei spirituale în Collegiata și vizităm spectaculosul Palazzo Comunale. Aici puteți simți puterea de odinioară a familiilor nobiliare toscane.\n\nDupă-amiaza este rezervată relaxării la Rocca di Montestaffoli. Printre zidurile vechi și măslini, soarele Toscanei se savurează cel mai bine cu un pahar de vin alb local.\n\nÎn încheiere, vizităm Museo 1300 pentru a înțelege mai bine evoluția orașului. San Gimignano la apus, când străzile devin mai libere, oferă o experiență cu adevărat magică.",
+        "en": "Start your day at the imposing Porta San Giovanni, entering the walls of the \"Medieval Manhattan\". Piazza della Cisterna is the city's pulse, perfect for an early espresso. At midday, climb Torre Grossa for an unforgettable panoramic view over the Tuscan countryside.\n\nAfter descending, focus on the spiritual art in the Collegiata and visit the magnificent Palazzo Comunale. Here, the former power of Tuscan noble families is palpable in every fresco.\n\nSpend your afternoon relaxing at Rocca di Montestaffoli. Among ancient walls and olive trees, the Tuscan sun is best enjoyed with a glass of chilled local white wine.\n\nFinish the day at Museo 1300 to better understand the historic skyline. Experiencing San Gimignano at sunset, as the day-trippers leave, is a truly magical experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vernaccia di San Gimignano",
+            "tip": "Der berühmte lokale Weißwein, am besten in der Rocca probieren."
+          },
+          {
+            "name": "Gelateria Dondoli",
+            "tip": "Weltberühmtes Eis an der Piazza della Cisterna."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vernaccia di San Gimignano",
+            "tip": "A híres helyi fehérbor, kóstolja meg a Rocca bormúzeumában."
+          },
+          {
+            "name": "Gelateria Dondoli",
+            "tip": "Világhírű fagylaltozó a Piazza della Cisternán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vernaccia di San Gimignano",
+            "tip": "Celebrul vin alb local, de savurat la muzeul din Rocca."
+          },
+          {
+            "name": "Gelateria Dondoli",
+            "tip": "Înghețată faimoasă în toată lumea, în piața centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vernaccia di San Gimignano",
+            "tip": "The famous local white wine, best tried at the Rocca wine museum."
+          },
+          {
+            "name": "Gelateria Dondoli",
+            "tip": "World-famous gelato shop at Piazza della Cisterna."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rocca di Montestaffoli",
+            "tip": "Ruhiger Park mit tollem Ausblick.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fonti Medievali",
+            "tip": "Alte Waschplätze am Fuße des Hügels.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rocca di Montestaffoli",
+            "tip": "Csendes park pazar kilátással.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fonti Medievali",
+            "tip": "Régi középkori mosóhelyek a domb alján.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rocca di Montestaffoli",
+            "tip": "Parc liniștit cu vederi superbe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fonti Medievali",
+            "tip": "Vechi spălătorii medievale la baza dealului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rocca di Montestaffoli",
+            "tip": "Quiet park with great views.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fonti Medievali",
+            "tip": "Ancient medieval washing troughs at the hill base.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zafferano di San Gimignano",
+            "tip": "Hochwertiger lokaler Safran."
+          },
+          {
+            "name": "Lederwaren",
+            "tip": "Handgefertigte toskanische Taschen und Gürtel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zafferano di San Gimignano",
+            "tip": "Kiváló minőségű helyi sáfrány."
+          },
+          {
+            "name": "Bőráruk",
+            "tip": "Kézzel készített toszkán táskák és övek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zafferano di San Gimignano",
+            "tip": "Șofran local de înaltă calitate."
+          },
+          {
+            "name": "Produse din piele",
+            "tip": "Genți și curele toscane lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zafferano di San Gimignano",
+            "tip": "High-quality local saffron."
+          },
+          {
+            "name": "Leather Goods",
+            "tip": "Handcrafted Tuscan bags and belts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Kommen Sie früh am Morgen, um die größten Menschenmassen zu vermeiden.",
+          "Ein Kombiticket für alle Museen lohnt sich finanziell.",
+          "Probieren Sie das Wildschwein-Salami in den kleinen Feinkostläden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Érkezzen korán reggel, hogy elkerülje a legnagyobb tömeget.",
+          "Érdemes kombinált jegyet venni az összes múzeumba.",
+          "Kóstolja meg a vaddisznószalámit a kis csemegeboltokban."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite.",
+          "Veniți devreme dimineața pentru a evita aglomerația maximă.",
+          "Biletul combinat pentru toate muzeele merită investiția.",
+          "Gustați salamul de mistreț în micile magazine de delicatese."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Arrive early in the morning to avoid the biggest crowds.",
+          "A combined ticket for all museums is worth the price.",
+          "Try the wild boar salami in the small delicatessen shops."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Porta San Giovanni",
+          "coords": [
+            11.0441,
+            43.4646
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad sicher am Eingang der Altstadt.",
+            "hu": "Parkolja le biztonságosan a biciklit az óváros bejáratánál.",
+            "ro": "Parcați bicicleta în siguranță la intrarea în centrul vechi.",
+            "en": "Park your bike safely at the old town entrance."
+          }
+        },
+        {
+          "name": "Fonti Medievali",
+          "coords": [
+            11.045,
+            43.47
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie bergab zu den beeindruckenden antiken Waschplätzen.",
+            "hu": "Guruljon le a domboldalon a lenyűgöző középkori mosókhoz.",
+            "ro": "Coborâți panta până la vechile spălătorii impresionante.",
+            "en": "Ride downhill to the impressive ancient washing troughs."
+          }
+        },
+        {
+          "name": "Chiesa di Sant'Agostino",
+          "coords": [
+            11.0415,
+            43.471
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Diese Kirche am Stadtrand ist oft ruhiger und kühler.",
+            "hu": "Ez a város szélén lévő templom gyakran csendesebb.",
+            "ro": "Această biserică de la marginea orașului este mai liniștită.",
+            "en": "This church at the town edge is often quieter."
+          }
+        },
+        {
+          "name": "Rocca di Montestaffoli",
+          "coords": [
+            11.042,
+            43.4685
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für eine Pause mit Blick auf die Weinberge.",
+            "hu": "Tökéletes hely egy pihenőre a szőlőültetvények felett.",
+            "ro": "Locul perfect pentru o pauză cu vedere la vii.",
+            "en": "Perfect spot for a break overlooking the vineyards."
+          }
+        },
+        {
+          "name": "Piazza della Cisterna",
+          "coords": [
+            11.0431,
+            43.4675
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Rad durch die engen Gassen zur Piazza.",
+            "hu": "Tolja a biciklit a szűk sikátorokon át a térig.",
+            "ro": "Împingeți bicicleta pe străduțele înguste până în piață.",
+            "en": "Push your bike through the narrow alleys to the square."
+          }
+        },
+        {
+          "name": "Museo della Tortura",
+          "coords": [
+            11.0435,
+            43.4665
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 65,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein schauriges aber interessantes Museum zur Geschichte.",
+            "hu": "Hátborzongató, de érdekes múzeum a történelemről.",
+            "ro": "Un muzeu înfiorător dar interesant despre istorie.",
+            "en": "A chilling but interesting museum about history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrradtour beginnt am Porta San Giovanni. Von dort aus umrunden wir die Stadtmauer und fahren hinunter zu den Fonti Medievali, wo man die Kühle des Wassers spüren kann. Die Steigungen sind fordernd, aber die Aussicht belohnt jede Mühe.\n\nAm späten Vormittag erreichen wir Sant'Agostino im Norden der Stadt. Die Fahrt dorthin führt durch weniger belebte Viertel, die einen authentischen Einblick in das toskanische Leben bieten.\n\nMittags entspannen wir in der Rocca di Montestaffoli. Die Festung bietet nicht nur Schatten, sondern auch den besten Blick auf die Türme, die wir als Nächstes aus der Nähe betrachten.\n\nDer Nachmittag führt uns in das Zentrum zur Piazza della Cisterna. Nach einer wohlverdienten Erfrischung erkunden wir das Foltermuseum, bevor wir die Tour entspannt ausklingen lassen.",
+        "hu": "A biciklis túra a Porta San Giovanninál indul. Innen megkerüljük a városfalat, és legurulunk a Fonti Medievali középkori mosóihoz. Az emelkedők izzasztóak lehetnek, de a látvány mindenért kárpótol.\n\nKéső délelőtt érjük el az északi részen lévő Sant'Agostino templomot. Az út kevésbé zsúfolt negyedeken át vezet, ahol bepillantást nyerhetünk a helyiek életébe.\n\nDélben a Rocca di Montestaffoli erődje nyújt pihenőt. Az árnyékos parkból remek rálátás nyílik a tornyokra, amiket ezután közelebbről is megnézünk.\n\nDélután a Piazza della Cisterna felé vesszük az irányt. Egy frissítő után meglátogatjuk a Kínzóeszközök Múzeumát, majd kényelmesen fejezzük be a gurulást.",
+        "ro": "Turul cu bicicleta începe la Porta San Giovanni. De acolo, ocolim zidurile orașului și coborâm la Fonti Medievali, unde puteți simți răcoarea apei. Dealurile pot fi solicitante, dar priveliștile merită efortul.\n\nSpre sfârșitul dimineții ajungem la Sant'Agostino, în nordul orașului. Drumul până acolo trece prin cartiere mai puțin aglomerate, oferind o privire autentică asupra vieții locale.\n\nLa prânz ne relaxăm la Rocca di Montestaffoli. Cetatea oferă nu doar umbră, ci și cea mai bună perspectivă asupra turnurilor pe care le vom vedea de aproape ulterior.\n\nDupă-amiaza ne îndreptăm spre centru, la Piazza della Cisterna. După o binemeritată revigorare, explorăm Muzeul Torturii înainte de a încheia turul relaxat.",
+        "en": "The bike tour starts at Porta San Giovanni. From there, we circle the city walls and ride down to the Fonti Medievali, where you can feel the coolness of the water. The climbs can be demanding, but the views reward every effort.\n\nLate morning, we reach Sant'Agostino in the northern part of town. The ride there goes through less crowded neighborhoods, offering an authentic glimpse into Tuscan life.\n\nAt midday, relax at Rocca di Montestaffoli. The fortress offers not only shade but also the best view of the towers, which we will examine up close next.\n\nAfternoon takes us into the center to Piazza della Cisterna. After a well-deserved refreshment, we explore the Torture Museum before finishing the ride leisurely."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pici all'Aglione",
+            "tip": "Dicke Nudeln mit Knoblauchsauce, ideal für hungrige Radler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pici all'Aglione",
+            "tip": "Vastag tészta fokhagymás szósszal, ideális éhes bringásoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pici all'Aglione",
+            "tip": "Paste groase cu sos de usturoi, ideale pentru bicicliști flămânzi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pici all'Aglione",
+            "tip": "Thick pasta with garlic sauce, ideal for hungry cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtrand-Radweg",
+            "tip": "Ruhiger Weg entlang der Olivenhaine.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városmenti kerékpárút",
+            "tip": "Csendes út az olajfák mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de la marginea orașului",
+            "tip": "Drum liniștit printre livezile de măslini.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Perimeter bike path",
+            "tip": "Quiet path along the olive groves.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl",
+            "tip": "Direkt vom Erzeuger am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj",
+            "tip": "Közvetlenül a termelőtől a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline",
+            "tip": "Direct de la producător de la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil",
+            "tip": "Direct from the producer at the edge of town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für die steilen Hügel.",
+          "Achten Sie auf Fußgänger in der Altstadt.",
+          "Nehmen Sie genügend Wasser mit.",
+          "Sichern Sie Ihr Rad immer an markierten Stellen."
+        ],
+        "hu": [
+          "Béreljen e-bike-ot a meredek dombokhoz.",
+          "Figyeljen a gyalogosokra az óvárosban.",
+          "Vigyen magával elegendő vizet.",
+          "Mindig rögzítse a biciklit a kijelölt helyeken."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru dealurile abrupte.",
+          "Atenție la pietoni în centrul vechi.",
+          "Luați destulă apă cu voi.",
+          "Asigurați întotdeauna bicicleta în locurile marcate."
+        ],
+        "en": [
+          "Rent an e-bike for the steep hills.",
+          "Watch out for pedestrians in the old town.",
+          "Take enough water with you.",
+          "Always lock your bike at designated spots."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Parcheggio Giubileo",
+          "coords": [
+            11.0455,
+            43.4635
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und nutzen Sie den Shuttle ins Zentrum.",
+            "hu": "Parkoljon itt, és használja a buszt a központba.",
+            "ro": "Parcați aici și folosiți microbuzul spre centru.",
+            "en": "Park here and use the shuttle to the center."
+          }
+        },
+        {
+          "name": "Piazza della Cisterna",
+          "coords": [
+            11.0431,
+            43.4675
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der perfekte Startpunkt für einen Stadtrundgang.",
+            "hu": "Tökéletes kiindulópont a városnézéshez.",
+            "ro": "Punctul perfect de plecare pentru explorarea orașului.",
+            "en": "The perfect starting point for city exploration."
+          }
+        },
+        {
+          "name": "Torre Grossa",
+          "coords": [
+            11.043,
+            43.4678
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Blick bis zu den Apuanischen Alpen bei klarem Wetter.",
+            "hu": "Tiszta időben az Apuan-Alpokig is ellátni.",
+            "ro": "În zilele senine se pot vedea Alpii Apuani.",
+            "en": "On clear days, you can see as far as the Apuan Alps."
+          }
+        },
+        {
+          "name": "Rocca di Montestaffoli",
+          "coords": [
+            11.042,
+            43.4685
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spaziergang in den Ruinen mit herrlicher Aussicht.",
+            "hu": "Séta a romok között pazar kilátással.",
+            "ro": "Plimbare printre ruine cu vederi superbe.",
+            "en": "A walk through ruins with magnificent views."
+          }
+        },
+        {
+          "name": "Vernaccia Vineyards Viewpoint",
+          "coords": [
+            11.055,
+            43.475
+          ],
+          "category": "agriculture",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie kurz aus der Stadt für das ikonische Panorama.",
+            "hu": "Autózzon ki kicsit a városból az ikonikus panorámáért.",
+            "ro": "Ieșiți puțin din oraș pentru panorama iconică.",
+            "en": "Drive slightly out of town for the iconic panorama."
+          }
+        },
+        {
+          "name": "Fonti Medievali",
+          "coords": [
+            11.045,
+            43.47
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Kostenlose Parkplätze oft in der Nähe dieser Gegend verfügbar.",
+            "hu": "Gyakran van ingyenes parkoló ezen a környéken.",
+            "ro": "Parcare gratuită deseori disponibilă în apropiere.",
+            "en": "Free parking often available near this area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Anreise mit dem Auto führt uns zum Parcheggio Giubileo, von wo aus wir entspannt das Zentrum erreichen. Der Vormittag gehört der Piazza della Cisterna und dem Aufstieg auf den Torre Grossa, um die Architektur aus der Vogelperspektive zu bewundern.\n\nMittags suchen wir die Ruhe der Rocca di Montestaffoli auf. Es ist der ideale Ort, um die Atmosphäre der Toskana ohne den Trubel der Hauptstraßen aufzusaugen.\n\nNachmittags nutzen wir die Flexibilität des Autos und fahren zu einem Aussichtspunkt in den umliegenden Weinbergen. Hier entstehen die besten Fotos der Silhouette von San Gimignano.\n\nZum Abschluss kehren wir zu den Fonti Medievali am Fuße des Berges zurück. Ein ruhiger Ort, der die Geschichte der Stadt abseits der großen Türme erzählt, bevor wir die Heimreise antreten.",
+        "hu": "Autóval a Parcheggio Giubileo parkolóig megyünk, ahonnan kényelmesen elérhető a központ. A délelőttöt a Piazza della Cisterna és a Torre Grossa megmászása tölti ki, hogy madártávlatból is lássuk a várost.\n\nDélben a Rocca di Montestaffoli csendjét keressük fel. Ideális hely a toszkán hangulat átélésére a főutcák zsongása nélkül.\n\nDélután kihasználjuk az autó rugalmasságát, és kimegyünk a közeli szőlőültetvényekhez egy kilátópontra. Itt készülnek a legjobb fotók San Gimignano sziluettjéről.\n\nBefejezésül visszatérünk a domb alján lévő Fonti Medievalihoz. Ez a nyugodt hely a város másfajta történelmét meséli el, mielőtt elindulnánk haza.",
+        "ro": "Sosirea cu mașina ne duce la Parcheggio Giubileo, de unde ajungem ușor în centru. Dimineața este dedicată Pieței Cisterna și urcării în Torre Grossa pentru a admira arhitectura de la înălțime.\n\nLa prânz căutăm liniștea la Rocca di Montestaffoli. Este locul ideal pentru a absorbi atmosfera Toscanei departe de agitația străzilor principale.\n\nDupă-amiaza profităm de flexibilitatea mașinii și mergem la un punct de belvedere din viile învecinate. Aici se fac cele mai bune poze cu silueta orașului San Gimignano.\n\nÎn final, revenim la Fonti Medievali la baza dealului. Un loc liniștit care spune istoria orașului dincolo de turnurile sale mari, înainte de a pleca spre casă.",
+        "en": "Arriving by car takes us to Parcheggio Giubileo, from where we easily reach the center. The morning is spent at Piazza della Cisterna and climbing Torre Grossa to admire the architecture from above.\n\nAt midday, we seek the peace of Rocca di Montestaffoli. It is the ideal place to absorb the Tuscan atmosphere without the bustle of the main streets.\n\nIn the afternoon, we use the car's flexibility to drive to a viewpoint in the surrounding vineyards. This is where you get the best photos of the San Gimignano skyline.\n\nTo finish, we return to the Fonti Medievali at the foot of the hill. A quiet spot that tells the city's history away from the grand towers before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cinghiale (Wildschwein)",
+            "tip": "Probieren Sie Wildschweingerichte in einer lokalen Osteria."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cinghiale (Vaddisznó)",
+            "tip": "Kóstoljon vaddisznóételeket egy helyi ostériában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cinghiale (Mistreț)",
+            "tip": "Gustați preparate din mistreț la o osteria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cinghiale (Wild Boar)",
+            "tip": "Try wild boar dishes at a local osteria."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinberg-Aussichtspunkt",
+            "tip": "Panoramablick auf die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szőlőhegyi kilátópont",
+            "tip": "Panoráma a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere din vii",
+            "tip": "Vedere panoramică asupra orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vineyard Viewpoint",
+            "tip": "Panoramic view of the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vernaccia Weinkisten",
+            "tip": "Direkt vom Weingut mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vernaccia borosládák",
+            "tip": "Vigyen haza egy ládával közvetlenül a borászattól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lăzi de vin Vernaccia",
+            "tip": "Luați direct de la cramă pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vernaccia Wine Cases",
+            "tip": "Take some cases home directly from the winery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie nicht in die ZTL (verkehrsberuhigte Zone).",
+          "Reservieren Sie Parkplätze im Voraus, wenn möglich.",
+          "Die Straßen um die Stadt sind schmal und kurvig.",
+          "Hinterlassen Sie keine Wertsachen im Auto."
+        ],
+        "hu": [
+          "Ne hajtson be a ZTL (korlátozott forgalmú) zónába.",
+          "Foglaljon parkolót előre, ha lehetséges.",
+          "A város körüli utak szűkek és kanyargósak.",
+          "Ne hagyjon értéket az autóban."
+        ],
+        "ro": [
+          "Nu intrați în zona ZTL (trafic limitat).",
+          "Rezervați parcare în avans dacă este posibil.",
+          "Drumurile din jurul orașului sunt înguste și șerpuite.",
+          "Nu lăsați obiecte de valoare în mașină."
+        ],
+        "en": [
+          "Do not drive into the ZTL (limited traffic zone).",
+          "Book parking in advance if possible.",
+          "The roads around town are narrow and winding.",
+          "Do not leave valuables in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piazzale Martiri di Montemaggio",
+          "coords": [
+            11.0445,
+            43.4635
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Hauptbushaltestelle für Verbindungen nach Poggibonsi und Siena.",
+            "hu": "Fő buszmegálló Poggibonsi és Siena felé.",
+            "ro": "Stația principală de autobuz spre Poggibonsi și Siena.",
+            "en": "Main bus stop for connections to Poggibonsi and Siena."
+          }
+        },
+        {
+          "name": "Piazza della Cisterna",
+          "coords": [
+            11.0431,
+            43.4675
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang von der Bushaltestelle entfernt.",
+            "hu": "Csak egy rövid séta a buszmegállótól.",
+            "ro": "La doar o scurtă plimbare de stația de autobuz.",
+            "en": "Just a short walk from the bus stop."
+          }
+        },
+        {
+          "name": "Torre Grossa",
+          "coords": [
+            11.043,
+            43.4678
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der Eintritt ist oft im Kombiticket enthalten.",
+            "hu": "A belépő gyakran benne van a kombinált jegyben.",
+            "ro": "Intrarea este deseori inclusă în biletul combinat.",
+            "en": "Admission is often included in the combined ticket."
+          }
+        },
+        {
+          "name": "Palazzo Comunale",
+          "coords": [
+            11.0429,
+            43.4677
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:45",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Suchen Sie die kleinen Details in den Fresken.",
+            "hu": "Keresse az apró részleteket a freskókon.",
+            "ro": "Căutați micile detalii în fresce.",
+            "en": "Look for the small details in the frescoes."
+          }
+        },
+        {
+          "name": "Rocca di Montestaffoli",
+          "coords": [
+            11.042,
+            43.4685
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Holen Sie sich einen Wein-Gutschein im Informationszentrum.",
+            "hu": "Kérjen borkóstoló kupont az információs központban.",
+            "ro": "Luați un voucher pentru vin de la centrul de informare.",
+            "en": "Get a wine voucher at the information center."
+          }
+        },
+        {
+          "name": "Museo San Gimignano 1300",
+          "coords": [
+            11.0435,
+            43.4692
+          ],
+          "category": "museums",
+          "arrive_at": "15:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Guter Ort, um Zeit vor dem nächsten Bus zu verbringen.",
+            "hu": "Jó hely az időtöltésre a következő buszig.",
+            "ro": "Loc bun pentru a petrece timpul până la următorul autobuz.",
+            "en": "Good place to spend time before the next bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus erreichen wir Piazzale Martiri, das Tor zur Stadt. Nach einem kurzen Aufstieg stehen wir auf der Piazza della Cisterna und tauchen direkt in das geschäftige Treiben ein. Der Vormittag steht im Zeichen der großen Türme.\n\nMittags besichtigen wir den Palazzo Comunale und genießen die historische Atmosphäre. Da wir nicht fahren müssen, können wir uns bei der Weinprobe in der Rocca am Nachmittag ein Glas mehr gönnen.\n\nDer Nachmittag vergeht wie im Flug beim Spaziergang durch die Festungsruinen. Es ist der perfekte Ort, um auf den nächsten Bus zu warten und dabei die toskanische Landschaft zu bewundern.\n\nZum Abschluss besuchen wir das Museo 1300, bevor wir zurück zur Haltestelle gehen. Die öffentlichen Verkehrsmittel bieten eine stressfreie Möglichkeit, diesen magischen Ort zu erkunden.",
+        "hu": "Busszal érkezünk a Piazzale Martirihoz, ami a város kapuja. Rövid séta után a Piazza della Cisternán találjuk magunkat, belecsöppenve a városi forgatagba. A délelőtt a hatalmas tornyok bűvöletében telik.\n\nDélben a Palazzo Comunale termeit járjuk be. Mivel nem kell vezetnünk, a délutáni Rocca-látogatás során bátran kóstolhatunk több helyi bort is.\n\nA délután gyorsan elrepül az erőd romjai között sétálva. Ez a tökéletes hely a várakozásra a következő buszig, miközben a toszkán tájat csodáljuk.\n\nUtolsó állomásunk a Museo 1300, majd visszasétálunk a megállóba. A tömegközlekedés stresszmentes módot kínál e misztikus hely felfedezéséhez.",
+        "ro": "Cu autobuzul ajungem la Piazzale Martiri, poarta de intrare în oraș. După o scurtă urcare suntem în Piazza della Cisterna, direct în inima agitației urbane. Dimineața stă sub semnul turnurilor impunătoare.\n\nLa prânz vizităm Palazzo Comunale și ne bucurăm de atmosfera istorică. Deoarece nu trebuie să conducem, putem savura mai multe pahare la degustarea de vin din Rocca de după-amiază.\n\nDupă-amiaza trece repede plimbându-ne printre ruinele cetății. Este locul perfect pentru a aștepta următorul autobuz în timp ce admirăm peisajul toscan.\n\nÎn final, vizităm Museo 1300 înainte de a ne întoarce la stație. Transportul public oferă o modalitate fără stres de a explora acest loc magic.",
+        "en": "By bus, we reach Piazzale Martiri, the gateway to the city. After a short climb, we are in Piazza della Cisterna, diving straight into the urban bustle. The morning is dedicated to the grand towers.\n\nAt midday, we visit Palazzo Comunale and enjoy the historic atmosphere. Since we don't have to drive, we can indulge in more glasses during the afternoon wine tasting at the Rocca.\n\nAfternoon flies by while strolling through the fortress ruins. It's the perfect place to wait for the next bus while admiring the Tuscan landscape.\n\nTo finish, we visit Museo 1300 before walking back to the stop. Public transport offers a stress-free way to explore this magical place."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cantina Vernaccia",
+            "tip": "Weinbar mit exzellenter Auswahl lokaler Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cantina Vernaccia",
+            "tip": "Borozó kiváló helyi válogatásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cantina Vernaccia",
+            "tip": "Bar de vinuri cu o selecție excelentă de vinuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cantina Vernaccia",
+            "tip": "Wine bar with an excellent selection of local wines."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festungsgarten",
+            "tip": "Schattige Bänke mit Aussicht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erődkert",
+            "tip": "Árnyékos padok kilátással.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina cetății",
+            "tip": "Bănci umbrite cu vedere.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fortress Garden",
+            "tip": "Shaded benches with a view.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten",
+            "tip": "Klassische Ansichten der Skyline."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapok",
+            "tip": "Klasszikus fotók a város sziluettjéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederi",
+            "tip": "Imagini clasice cu silueta orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcards",
+            "tip": "Classic views of the skyline."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan für die Rückfahrt nach Poggibonsi.",
+          "Kaufen Sie Fahrkarten im Tabakladen oder am Bahnhof.",
+          "Sonntags fahren deutlich weniger Busse.",
+          "Die Bushaltestelle liegt etwas unterhalb der Altstadt."
+        ],
+        "hu": [
+          "Ellenőrizze a buszmenetrendet a visszautazáshoz Poggibonsiba.",
+          "Vegyen jegyet dohányboltban vagy a vasútállomáson.",
+          "Vasárnap jóval kevesebb busz közlekedik.",
+          "A buszmegálló kicsivel az óváros alatt található."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor pentru întoarcerea la Poggibonsi.",
+          "Cumpărați bilete de la tutungerie sau din gară.",
+          "Duminica circulă semnificativ mai puține autobuze.",
+          "Stația de autobuz este situată puțin sub centrul vechi."
+        ],
+        "en": [
+          "Check the bus schedule for the return trip to Poggibonsi.",
+          "Buy tickets at a tobacco shop or the train station.",
+          "Significantly fewer buses run on Sundays.",
+          "The bus stop is located slightly below the old town."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "city": "San Gimignano",
+    "region": "IT-52",
+    "coords": [
+      11.0431,
+      43.4675
+    ],
+    "transit_official": "https://www.tiemmespa.it/",
+    "transit_app": null,
+    "bike_share": null,
+    "city_card": "https://www.sangimignano.com/en/easy-card/",
+    "events": "https://www.sangimignano.com/en/events/",
+    "tourism_office": "https://www.sangimignano.com/en/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/italia/toscana/siena/san-gimignano-piazza-della-cisterna.html",
+    "restaurants_booking": "https://www.thefork.com/restaurants/san-gimignano-c573459",
+    "museum_tickets": "https://www.sangimignanomusei.it/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Sehr touristisch, Englisch und Deutsch werden oft verstanden.",
+      "hu": "Nagyon turisztikus, az angolt es a nemetet is ertik.",
+      "ro": "Foarte turistic, engleza si germana sunt intelese frecvent.",
+      "en": "Very touristy; English and German widely understood."
+    },
+    "best_time": {
+      "de": "April-Juni, September-Oktober; im Sommer extrem voll, am fruehen Morgen kommen.",
+      "hu": "Aprilis-junius, szeptember-oktober; nyaron tulzsufolt, korai erkezes ajanlott.",
+      "ro": "Aprilie-iunie, septembrie-octombrie; vara aglomerat, mai bine dimineata devreme.",
+      "en": "April-June, September-October; very crowded in summer, arrive early morning."
+    },
+    "warnings": {
+      "de": "Tagsueber Massen, Auto vor den Toren parken. Vorsicht: rutschige Pflastersteine bei Regen.",
+      "hu": "Napkozben tomeg, az autot a kapuk elott parkold. Eso utan a macskakovek csuszosak.",
+      "ro": "Aglomeratie ziua, parcheaza in afara portilor. Pavajul aluneca dupa ploaie.",
+      "en": "Massive day crowds; park outside the gates. Cobblestones slippery when wet."
+    }
+  }
+}

@@ -1,0 +1,1110 @@
+{
+  "city_id": "corniglia",
+  "anchor": {
+    "name": "Corniglia",
+    "coords": [
+      9.7088,
+      44.119
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lardarina",
+            "hu": "Lardarina",
+            "ro": "Lardarina",
+            "en": "Lardarina"
+          },
+          "coords": [
+            9.7115,
+            44.1185
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "382 Stufen vom Bahnhof hinauf ins Dorf.",
+            "hu": "382 lépcsőfok a vasútállomástól a faluig.",
+            "ro": "382 de trepte de la gară până în sat.",
+            "en": "382 steps from the train station up to the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Pietro",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica San Pietro",
+            "en": "Church of San Pietro"
+          },
+          "coords": [
+            9.71,
+            44.1205
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wunderschöne gotische Fassade aus dem 14. Jahrhundert.",
+            "hu": "Gyönyörű 14. századi gótikus homlokzat.",
+            "ro": "Fațadă gotică superbă din secolul al XIV-lea.",
+            "en": "Beautiful 14th-century Gothic facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Taragio",
+            "hu": "Piazza Taragio",
+            "ro": "Piazza Taragio",
+            "en": "Piazza Taragio"
+          },
+          "coords": [
+            9.7085,
+            44.1195
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das pulsierende Herz von Corniglia.",
+            "hu": "Corniglia lüktető szíve.",
+            "ro": "Inima vibrantă a localității Corniglia.",
+            "en": "The pulsating heart of Corniglia."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere di Santa Maria",
+            "hu": "Santa Maria kilátó",
+            "ro": "Belvedere di Santa Maria",
+            "en": "Santa Maria Viewpoint"
+          },
+          "coords": [
+            9.7075,
+            44.1188
+          ],
+          "category": "natural features",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spektakulärer Blick auf die gesamte Küste.",
+            "hu": "Látványos kilátás az egész partvidékre.",
+            "ro": "Vedere spectaculoasă asupra întregii coaste.",
+            "en": "Spectacular view of the entire coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina di Corniglia",
+            "hu": "Corniglia kikötője",
+            "ro": "Marina di Corniglia",
+            "en": "Marina di Corniglia"
+          },
+          "coords": [
+            9.707,
+            44.118
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kleiner Hafen zum Schwimmen in den Felsen.",
+            "hu": "Kis kikötő, ahol a sziklák között úszhatsz.",
+            "ro": "Port mic pentru înot printre stânci.",
+            "en": "Small harbor for swimming among the rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Sentiero Azzurro (Richtung Vernazza)",
+            "hu": "Kék ösvény (Vernazza felé)",
+            "ro": "Sentiero Azzurro (spre Vernazza)",
+            "en": "Blue Path (towards Vernazza)"
+          },
+          "coords": [
+            9.705,
+            44.122
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Teilwanderung für tolle Fotomotive.",
+            "hu": "Rövid túra a legjobb fotótémákért.",
+            "ro": "O scurtă drumeție pentru fotografii superbe.",
+            "en": "Short hike for great photo opportunities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Corniglia ist das einzige Dorf der Cinque Terre, das nicht direkt am Meer liegt. Beginnen Sie mit dem Aufstieg über die Lardarina-Treppe. Besichtigen Sie die Kirche San Pietro und genießen Sie ein Gelato auf der Piazza Taragio. Der Belvedere di Santa Maria bietet das beste Panorama. Zum Abkühlen steigen Sie zur felsigen Marina hinunter, bevor Sie ein Stück auf dem Sentiero Azzurro wandern, um die Weinberge von oben zu sehen.",
+        "hu": "Corniglia az egyetlen Cinque Terre falu, amely nem közvetlenül a tengerparton fekszik. Kezdje a napot a Lardarina-lépcső megmászásával. Látogassa meg a Szent Péter-templomot, majd egyen egy fagyit a Piazza Taragio téren. A Santa Maria kilátópontról nyílik a legszebb panoráma. Ezután ereszkedjen le a sziklás kikötőbe egy fürdőre, végül tegyen egy rövid sétát a Kék ösvényen a szőlőültetvények között.",
+        "ro": "Corniglia este singurul sat din Cinque Terre care nu este situat direct pe malul mării. Începeți cu urcarea pe scările Lardarina. Vizitați biserica San Pietro și savurați o înghețată în Piazza Taragio. Belvedere di Santa Maria oferă cea mai bună panoramă. Pentru răcorire, coborâți la marina stâncoasă, apoi parcurgeți o porțiune din Sentiero Azzurro pentru a vedea podgoriile de sus.",
+        "en": "Corniglia is the only Cinque Terre village not located directly on the water. Start your day climbing the Lardarina steps. Visit the San Pietro church and enjoy a gelato at Piazza Taragio. The Santa Maria viewpoint offers the best panorama. Then descend to the rocky marina for a swim before walking a stretch of the Blue Path to see the vineyards from above."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Miele di Corniglia",
+            "tip": "Hiesiger Honig"
+          },
+          {
+            "name": "Alberto Gelateria",
+            "tip": "Basilikum-Zitronen-Eis"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corniglia-i méz",
+            "tip": "Helyi termelői méz"
+          },
+          {
+            "name": "Alberto Gelateria",
+            "tip": "Bazsalikomos citromfagylalt"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de Corniglia",
+            "tip": "Miere locală"
+          },
+          {
+            "name": "Alberto Gelateria",
+            "tip": "Înghețată cu busuioc și lămâie"
+          }
+        ],
+        "en": [
+          {
+            "name": "Corniglia Honey",
+            "tip": "Local artisanal honey"
+          },
+          {
+            "name": "Alberto Gelateria",
+            "tip": "Basil and lemon gelato"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Guvano-Strand",
+            "tip": "Versteckter Strand (schwer erreichbar)",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Belvedere di Santa Maria",
+            "tip": "Aussichtspunkt",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Guvano-strand",
+            "tip": "Rejtett strand (nehezen megközelíthető)",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Santa Maria kilátó",
+            "tip": "Kilátópont",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Guvano",
+            "tip": "Plajă ascunsă (acces dificil)",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Belvedere di Santa Maria",
+            "tip": "Punct de observație",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Guvano Beach",
+            "tip": "Hidden beach (difficult access)",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Santa Maria Viewpoint",
+            "tip": "Panoramic lookout",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hiesiger Wein (Vernaccia)",
+            "tip": "In den kleinen Weinläden im Dorf"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor (Vernaccia)",
+            "tip": "A falu kis borüzleteiben"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local (Vernaccia)",
+            "tip": "În micile magazine de vinuri din sat"
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine (Vernaccia)",
+            "tip": "In the small wine shops in the village"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den Shuttlebus vom Bahnhof, wenn Sie die Treppen vermeiden wollen.",
+          "Corniglia ist ruhiger als die anderen vier Dörfer.",
+          "Die Marina hat keinen Sand, man liegt auf Felsen.",
+          "Der Sentiero Azzurro ist oft gebührenpflichtig."
+        ],
+        "hu": [
+          "Használd az állomástól induló buszt, ha el akarod kerülni a lépcsőzést.",
+          "Corniglia sokkal nyugodtabb, mint a másik négy falu.",
+          "A kikötőben nincs homok, a sziklákon lehet pihenni.",
+          "A Kék ösvény használatáért gyakran fizetni kell."
+        ],
+        "ro": [
+          "Folosiți autobuzul de transfer de la gară dacă doriți să evitați treptele.",
+          "Corniglia este mai liniștit decât celelalte patru sate.",
+          "Marina nu are nisip, se stă pe stânci.",
+          "Sentiero Azzurro este adesea cu taxă."
+        ],
+        "en": [
+          "Use the shuttle bus from the station if you want to avoid the stairs.",
+          "Corniglia is quieter than the other four villages.",
+          "The marina has no sand, you lie on the rocks.",
+          "The Blue Path often requires a fee (Cinque Terre Card)."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Corniglia Bahnhof",
+            "hu": "Corniglia vasútállomás",
+            "ro": "Gara Corniglia",
+            "en": "Corniglia Train Station"
+          },
+          "coords": [
+            9.7135,
+            44.1175
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt für E-Bike-Touren.",
+            "hu": "E-biciklis túrák kiindulópontja.",
+            "ro": "Punct de plecare pentru tururi cu e-bike.",
+            "en": "Starting point for e-bike tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Corniglia Dorfzentrum",
+            "hu": "Corniglia faluközpont",
+            "ro": "Centrul satului Corniglia",
+            "en": "Corniglia Village Center"
+          },
+          "coords": [
+            9.7088,
+            44.119
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig durch die Gassen.",
+            "hu": "Vezess óvatosan a szűk utcákon.",
+            "ro": "Conduceți cu atenție prin străduțe.",
+            "en": "Drive carefully through the narrow streets."
+          }
+        },
+        {
+          "name": {
+            "de": "San Bernardino",
+            "hu": "San Bernardino",
+            "ro": "San Bernardino",
+            "en": "San Bernardino"
+          },
+          "coords": [
+            9.712,
+            44.1285
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein kleines Dorf hoch über Corniglia.",
+            "hu": "Kis falu magasan Corniglia felett.",
+            "ro": "Un sat mic situat sus, deasupra localității Corniglia.",
+            "en": "A small village high above Corniglia."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario di Nostra Signora delle Grazie",
+            "hu": "Santuario di Nostra Signora delle Grazie",
+            "ro": "Santuario di Nostra Signora delle Grazie",
+            "en": "Sanctuary of Our Lady of Graces"
+          },
+          "coords": [
+            9.715,
+            44.1305
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Friedlicher Ort mit Panoramablick.",
+            "hu": "Békés hely panorámás kilátással.",
+            "ro": "Loc liniștit cu vedere panoramică.",
+            "en": "Peaceful spot with panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Corniglia Marina",
+            "hu": "Corniglia kikötő",
+            "ro": "Marina Corniglia",
+            "en": "Corniglia Marina"
+          },
+          "coords": [
+            9.707,
+            44.118
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Verdiente Erfrischung nach der Tour.",
+            "hu": "Megérdemelt felfrissülés a túra után.",
+            "ro": "O răcorire binemeritată după tur.",
+            "en": "Well-deserved refreshment after the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem E-Bike erklimmen Sie die Höhenwege über Corniglia. Von der Station aus geht es bergauf ins Dorf und weiter zum Weiler San Bernardino. Genießen Sie die Einsamkeit und die Aussicht auf die Weinterrassen am Santuario delle Grazie. Die Abfahrt zurück nach Corniglia bietet fantastische Fotomotive, bevor Sie den Tag am felsigen Strand der Marina beenden.",
+        "hu": "E-biciklivel könnyen meghódíthatja a Corniglia feletti magaslati utakat. Az állomástól indulva tekerjen fel a faluba, majd tovább San Bernardino felé. Élvezze a csendet és a szőlőültetvényekre nyíló kilátást a Santuario delle Grazie kegyhelytől. A lejtmenet visszafelé fantasztikus fotótémákat kínál, a napot pedig zárja egy csobbanással a kikötőben.",
+        "ro": "Cu o bicicletă electrică puteți urca pe potecile înalte de deasupra localității Corniglia. De la gară, urcați în sat și apoi spre cătunul San Bernardino. Bucurați-vă de liniște și de vederea asupra teraselor cu viță de vie de la Santuario delle Grazie. Coborârea înapoi spre Corniglia oferă ocazii fantastice pentru fotografii, înainte de a încheia ziua la marina stâncoasă.",
+        "en": "With an e-bike, you can conquer the high paths above Corniglia. From the station, cycle up to the village and continue towards the hamlet of San Bernardino. Enjoy the solitude and the views of the vineyards from the Sanctuary of Graces. The descent back to Corniglia offers fantastic photo opportunities before ending your day at the rocky marina."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Focaccia ligure",
+            "tip": "Mit Olivenöl und Meersalz"
+          },
+          {
+            "name": "Sciacchetrà",
+            "tip": "Berühmter Dessertwein"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Liguriai focaccia",
+            "tip": "Olívaolajjal és tengeri sóval"
+          },
+          {
+            "name": "Sciacchetrà",
+            "tip": "Híres helyi desszertbor"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Focaccia ligură",
+            "tip": "Cu ulei de măsline și sare de mare"
+          },
+          {
+            "name": "Sciacchetrà",
+            "tip": "Faimosul vin de desert local"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ligurian Focaccia",
+            "tip": "With olive oil and sea salt"
+          },
+          {
+            "name": "Sciacchetrà",
+            "tip": "Famous local dessert wine"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Bernardino",
+            "tip": "Ruhe abseits der Massen",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Bernardino",
+            "tip": "Csend a tömegtől távol",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "San Bernardino",
+            "tip": "Liniște departe de mulțime",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Bernardino",
+            "tip": "Peace away from the crowds",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Pesto",
+            "tip": "In Gläsern zum Mitnehmen"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pesto",
+            "tip": "Üveges változat hazvitelre"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pesto local",
+            "tip": "La borcan, pentru acasă"
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pesto",
+            "tip": "In jars to take home"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "E-Bikes sind aufgrund der Steigungen sehr zu empfehlen.",
+          "Fahren Sie nicht auf den reinen Wanderwegen (Sentiero Azzurro).",
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Die Straßen sind kurvenreich."
+        ],
+        "hu": [
+          "Az emelkedők miatt az e-bicikli erősen ajánlott.",
+          "Ne hajts rá a gyalogos túraösvényekre.",
+          "Vigyél magaddal elég vizet.",
+          "Az utak nagyon kanyargósak."
+        ],
+        "ro": [
+          "E-bike-urile sunt foarte recomandate din cauza pantelor.",
+          "Nu circulați pe potecile destinate exclusiv drumețiilor.",
+          "Luați suficientă apă cu voi.",
+          "Drumurile sunt pline de curbe."
+        ],
+        "en": [
+          "E-bikes are highly recommended due to the steep inclines.",
+          "Do not cycle on the pedestrian-only hiking paths.",
+          "Take plenty of water with you.",
+          "The roads are very winding."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Corniglia",
+            "hu": "Corniglia parkoló",
+            "ro": "Parcare Corniglia",
+            "en": "Corniglia Parking"
+          },
+          "coords": [
+            9.711,
+            44.121
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Begrenzte Plätze vor dem Dorfeingang.",
+            "hu": "Korlátozott helyek a falu bejárata előtt.",
+            "ro": "Locuri limitate la intrarea în sat.",
+            "en": "Limited spots before the village entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Corniglia Dorf",
+            "hu": "Corniglia falu",
+            "ro": "Satul Corniglia",
+            "en": "Corniglia Village"
+          },
+          "coords": [
+            9.7088,
+            44.119
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Gassen zu Fuß.",
+            "hu": "Fedezd fel a szűk utcákat gyalog.",
+            "ro": "Explorați străduțele la pas.",
+            "en": "Explore the narrow streets on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "San Bernardino",
+            "hu": "San Bernardino",
+            "ro": "San Bernardino",
+            "en": "San Bernardino"
+          },
+          "coords": [
+            9.712,
+            44.1285
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Tolle Aussicht auf Corniglia von oben.",
+            "hu": "Nagyszerű kilátás Cornigliára felülről.",
+            "ro": "Vedere superbă asupra Corniglia de sus.",
+            "en": "Great view of Corniglia from above."
+          }
+        },
+        {
+          "name": {
+            "de": "Vernazza (Panoramastraße)",
+            "hu": "Vernazza (panoráma út)",
+            "ro": "Vernazza (drum panoramic)",
+            "en": "Vernazza (Panoramic Road)"
+          },
+          "coords": [
+            9.6835,
+            44.135
+          ],
+          "category": "natural features",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Blick auf Vernazza vom Straßenniveau.",
+            "hu": "Kilátás Vernazzára az útszéli kilátóhelyről.",
+            "ro": "Vedere spre Vernazza de la nivelul drumului.",
+            "en": "View of Vernazza from the road level."
+          }
+        },
+        {
+          "name": {
+            "de": "Guvano-Tunnel (Eingang)",
+            "hu": "Guvano-alagút bejárat",
+            "ro": "Tunelul Guvano (intrare)",
+            "en": "Guvano Tunnel Entrance"
+          },
+          "coords": [
+            9.705,
+            44.12
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Historischer Eisenbahntunnel zum Strand.",
+            "hu": "Történelmi vasúti alagút a strandhoz.",
+            "ro": "Tunel feroviar istoric spre plajă.",
+            "en": "Historical railway tunnel to the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Corniglia mit dem Auto zu besuchen erfordert Geduld bei der Parkplatzsuche. Starten Sie im Dorfzentrum, fahren Sie dann die spektakuläre Küstenstraße hinauf nach San Bernardino. Weiter geht es in Richtung Vernazza für atemberaubende Ausblicke von der Straße aus. Beenden Sie Ihre Tour in der Nähe des Guvano-Tunnels, bevor Sie die kurvenreiche Rückreise antreten.",
+        "hu": "Autóval érkezni Cornigliába türelmet igényel a parkolás miatt. Kezdje a falu központjában, majd hajtson fel a látványos San Bernardino felé vezető úton. Haladjon tovább Vernazza irányába a legjobb útszéli panorámákért. Zárja a túrát a Guvano-alagút környékén, majd induljon vissza a kanyargós hegyi utakon.",
+        "ro": "Vizitarea localității Corniglia cu mașina necesită răbdare pentru găsirea unui loc de parcare. Începeți în centrul satului, apoi conduceți pe drumul spectaculos spre San Bernardino. Continuați spre Vernazza pentru vederi uluitoare de pe drum. Încheiați turul în apropierea tunelului Guvano înainte de a porni pe drumul sinuos de întoarcere.",
+        "en": "Visiting Corniglia by car requires patience when looking for parking. Start in the village center, then drive up the spectacular road to San Bernardino. Continue towards Vernazza for breathtaking views from the roadside. End your tour near the Guvano tunnel before heading back on the winding mountain roads."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Torta di riso",
+            "tip": "Traditioneller Reiskuchen"
+          },
+          {
+            "name": "Il Pirata",
+            "tip": "Gute Küche am Dorfrand"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torta di riso",
+            "tip": "Hagyományos rizstorta"
+          },
+          {
+            "name": "Il Pirata",
+            "tip": "Jó konyha a falu szélén"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torta di riso",
+            "tip": "Prăjitură tradițională de orez"
+          },
+          {
+            "name": "Il Pirata",
+            "tip": "Bucătărie bună la marginea satului"
+          }
+        ],
+        "en": [
+          {
+            "name": "Torta di riso",
+            "tip": "Traditional rice cake"
+          },
+          {
+            "name": "Il Pirata",
+            "tip": "Good cuisine at the edge of the village"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Bernardino",
+            "tip": "Bergpanorama",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Bernardino",
+            "tip": "Hegyi panoráma",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "San Bernardino",
+            "tip": "Panoramă montană",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Bernardino",
+            "tip": "Mountain panorama",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl",
+            "tip": "Kaltgepresst aus lokalen Hainen"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj",
+            "tip": "Helyi ligetékből származó olaj"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline",
+            "tip": "Presat la rece din livezi locale"
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil",
+            "tip": "Cold-pressed from local groves"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße nach Corniglia ist sehr schmal, Vorsicht bei Gegenverkehr.",
+          "Parken Sie nur auf markierten Flächen.",
+          "Im Sommer ist die Zufahrt für Touristen oft eingeschränkt.",
+          "Ein Kleinwagen ist von Vorteil."
+        ],
+        "hu": [
+          "A Cornigliába vezető út nagyon szűk, vigyázz a szembejövőkre.",
+          "Csak a kijelölt helyeken parkolj.",
+          "Nyáron a turisták behajtását gyakran korlátozzák.",
+          "Egy kisautóval sokkal könnyebb dolgod lesz."
+        ],
+        "ro": [
+          "Drumul spre Corniglia este foarte îngust, atenție la traficul din sens opus.",
+          "Parcați doar în zonele marcate.",
+          "Vara, accesul turiștilor este adesea restricționat.",
+          "O mașină mică este un avantaj."
+        ],
+        "en": [
+          "The road to Corniglia is very narrow, watch out for oncoming traffic.",
+          "Park only in designated areas.",
+          "In summer, tourist access is often restricted.",
+          "A small car is an advantage."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Corniglia",
+            "hu": "Corniglia vasútállomás",
+            "ro": "Gara Corniglia",
+            "en": "Corniglia Train Station"
+          },
+          "coords": [
+            9.7135,
+            44.1175
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ankunft mit dem Cinque Terre Express.",
+            "hu": "Érkezés a Cinque Terre Expressszel.",
+            "ro": "Sosire cu Cinque Terre Express.",
+            "en": "Arrival with the Cinque Terre Express."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorfzentrum (Shuttle)",
+            "hu": "Faluközpont (transzfer busz)",
+            "ro": "Centrul satului (Shuttle)",
+            "en": "Village Center (Shuttle)"
+          },
+          "coords": [
+            9.7088,
+            44.119
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Bus spart Ihnen den Treppenaufstieg.",
+            "hu": "A busz megkímél a lépcsőzéstől.",
+            "ro": "Autobuzul vă scutește de urcatul treptelor.",
+            "en": "The bus saves you from climbing the stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Oratorio dei Disciplinati",
+            "hu": "Oratorio dei Disciplinati",
+            "ro": "Oratorio dei Disciplinati",
+            "en": "Oratorio dei Disciplinati"
+          },
+          "coords": [
+            9.708,
+            44.1195
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kleine Kapelle mit schöner Aussichtsterrasse.",
+            "hu": "Kis kápolna szép kilátóterasszal.",
+            "ro": "Capelă mică cu o terasă panoramică frumoasă.",
+            "en": "Small chapel with a nice panoramic terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere di Santa Maria",
+            "hu": "Santa Maria kilátó",
+            "ro": "Belvedere di Santa Maria",
+            "en": "Santa Maria Viewpoint"
+          },
+          "coords": [
+            9.7075,
+            44.1188
+          ],
+          "category": "natural features",
+          "arrive_at": "12:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Höchster Aussichtspunkt im Dorf.",
+            "hu": "A falu legmagasabb kilátópontja.",
+            "ro": "Cel mai înalt punct de observație din sat.",
+            "en": "Highest viewpoint in the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina di Corniglia",
+            "hu": "Corniglia kikötő",
+            "ro": "Marina Corniglia",
+            "en": "Corniglia Marina"
+          },
+          "coords": [
+            9.707,
+            44.118
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zeit zum Entspannen vor der Zugfahrt.",
+            "hu": "Pihenés a vonat indulása előtt.",
+            "ro": "Timp pentru relaxare înainte de tren.",
+            "en": "Time to relax before the train ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Corniglia ist perfekt mit dem Zug erreichbar. Vom Bahnhof bringt Sie ein kleiner Shuttlebus direkt ins Dorf. Besuchen Sie das Oratorio dei Disciplinati und den Santa Maria Aussichtspunkt. Nach einem ausgiebigen Mittagessen in einer der Trattorien steigen Sie zur Marina hinunter. Am Ende des Tages nehmen Sie entweder den Bus zurück zum Bahnhof oder steigen die Lardarina-Treppe hinab.",
+        "hu": "Corniglia vonattal érhető el a legkönnyebben. Az állomástól egy kis transzferbusz visz fel a faluba. Látogassa meg az Oratorio dei Disciplinati kápolnát és a Santa Maria kilátót. Egy kiadós ebéd után valamelyik trattoriában, ereszkedjen le a kikötőbe. A nap végén busszal vagy a Lardarina-lépcsőn keresztül térhet vissza a vasútállomásra.",
+        "ro": "Corniglia este ușor accesibilă cu trenul. De la gară, un mic autobuz de transfer vă duce direct în sat. Vizitați Oratorio dei Disciplinati și punctul de observație Santa Maria. După un prânz copios la una dintre trattorii, coborâți la marină. La sfârșitul zilei, puteți lua autobuzul înapoi la gară sau puteți coborî pe scările Lardarina.",
+        "en": "Corniglia is easily reached by train. From the station, a small shuttle bus takes you directly into the village. Visit the Oratorio dei Disciplinati and the Santa Maria viewpoint. After a hearty lunch in one of the trattorias, descend to the marina. At the end of the day, either take the bus back to the station or walk down the Lardarina steps."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trofie al Pesto",
+            "tip": "Lokale Nudeln mit Pesto"
+          },
+          {
+            "name": "Cantina de Mananan",
+            "tip": "Rustikale Weinbar"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trofie al Pesto",
+            "tip": "Helyi tészta pestóval"
+          },
+          {
+            "name": "Cantina de Mananan",
+            "tip": "Rusztikus borbár"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trofie al Pesto",
+            "tip": "Paste locale cu pesto"
+          },
+          {
+            "name": "Cantina de Mananan",
+            "tip": "Bar de vinuri rustic"
+          }
+        ],
+        "en": [
+          {
+            "name": "Trofie al Pesto",
+            "tip": "Local pasta with pesto"
+          },
+          {
+            "name": "Cantina de Mananan",
+            "tip": "Rustic wine bar"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oratorio dei Disciplinati",
+            "tip": "Innere Einkehr",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oratorio dei Disciplinati",
+            "tip": "Belső elcsendesedés",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Oratorio dei Disciplinati",
+            "tip": "Liniște interioară",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Oratorio dei Disciplinati",
+            "tip": "Inner peace",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zitronenmarmelade",
+            "tip": "Hausgemacht aus den Gärten"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citromlekvár",
+            "tip": "Házias ízek a helyi kertekből"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dulceață de lămâie",
+            "tip": "De casă, din grădinile locale"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lemon Marmalade",
+            "tip": "Homemade from local gardens"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Shuttlebus ist in der Cinque Terre Card enthalten.",
+          "Züge fahren alle 20-30 Minuten.",
+          "Der Bahnhof liegt tiefer als das Dorf.",
+          "Prüfen Sie die Abfahrtszeiten des letzten Busses."
+        ],
+        "hu": [
+          "A transzferbuszt a Cinque Terre Card tartalmazza.",
+          "A vonatok 20-30 percenként járnak.",
+          "A vasútállomás sokkal lejjebb van, mint a falu.",
+          "Ellenőrizd az utolsó busz indulási idejét."
+        ],
+        "ro": [
+          "Autobuzul de transfer este inclus în Cinque Terre Card.",
+          "Trenurile circulă la fiecare 20-30 de minute.",
+          "Gara este situată mult mai jos decât satul.",
+          "Verificați ora de plecare a ultimului autobuz."
+        ],
+        "en": [
+          "The shuttle bus is included in the Cinque Terre Card.",
+          "Trains run every 20-30 minutes.",
+          "The train station is much lower than the village.",
+          "Check the departure times for the last bus."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "iso": "IT-42",
+    "coords": [
+      9.7088,
+      44.119
+    ],
+    "transit_official": "https://www.trenitalia.com",
+    "transit_app": "https://www.trenitalia.com",
+    "bike_share": null,
+    "city_card": "https://card.parconazionale5terre.it",
+    "events": "https://www.parconazionale5terre.it",
+    "tourism_office": "https://www.cinqueterre.eu.com",
+    "webcam": "https://www.skylinewebcams.com/webcam/italia/liguria/la-spezia/corniglia.html",
+    "restaurants_booking": "https://www.thefork.it",
+    "museum_tickets": "https://card.parconazionale5terre.it",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Italienisch; Englisch im Tourismus üblich, Deutsch teilweise.",
+      "hu": "Olasz; angol gyakori a turizmusban, néhol német.",
+      "ro": "Italiană; engleză frecventă în turism, uneori germană.",
+      "en": "Italian; English common in tourism, some German."
+    },
+    "best_time": {
+      "de": "April-Mai, Oktober: Wandern ideal, im Sommer überfüllt.",
+      "hu": "Április-május, október: túrázni ideális, nyáron zsúfolt.",
+      "ro": "Aprilie-mai, octombrie: ideal pentru drumeții, vara aglomerat.",
+      "en": "April-May, October: hiking ideal, very crowded in summer."
+    },
+    "warnings": {
+      "de": "365 Lardarina-Stufen vom Bahnhof, kein Hafen, Cinque Terre Card empfohlen.",
+      "hu": "365 Lardarina lépcső a vasútállomásról, nincs kikötő, Cinque Terre Card ajánlott.",
+      "ro": "365 trepte Lardarina de la gară, fără port, Cinque Terre Card recomandat.",
+      "en": "365 Lardarina steps from station, no harbor, Cinque Terre Card recommended."
+    }
+  }
+}
