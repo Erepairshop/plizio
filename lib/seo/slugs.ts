@@ -505,7 +505,7 @@ const COUNTRY_ID_ALIASES: Record<string, string> = {
 // but routing them to hungary is correct; the URL becomes /<lang>/ungarn/<city>/<poi>/).
 const HU_CITY_AS_PARENT = new Set([
   "eger", "visegrad", "szigetvar", "sarvar", "miskolc", "esztergom",
-  "szentendre", "tihany", "pannonhalma", "holloko",
+  "szentendre", "tihany", "pannonhalma", "holloko", "debrecen", "monor",
 ]);
 
 // region-* parent prefix → country (Serbian autonomous regions in serbiaPoi.ts)
@@ -514,10 +514,53 @@ const REGION_PREFIX_TO_COUNTRY: Record<string, string> = {
   "region-sumadija": "serbia",
 };
 
+// reg-* parent prefix (data-source-specific) → country
+const REG_PREFIX_TO_COUNTRY: Record<string, string> = {
+  // Italy
+  "reg-lazio": "italy", "reg-lombardia": "italy", "reg-veneto": "italy",
+  "reg-toscana": "italy", "reg-campania": "italy", "reg-puglia": "italy",
+  "reg-sicilia": "italy",
+  // Portugal
+  "reg-algarve": "portugal",
+};
+
+// city-* / cult-* parent prefix → country
+const CITY_CULT_PREFIX_TO_COUNTRY: Record<string, string> = {
+  // Andorra
+  "city-andorra-la-vella": "andorra", "city-canillo": "andorra",
+  "city-la-massana": "andorra", "city-ordino": "andorra", "city-encamp": "andorra",
+  // Ireland
+  "city-cork": "ireland", "city-dublin": "ireland",
+  // Portugal
+  "city-porto": "portugal", "city-viana-do-castelo": "portugal", "city-faro": "portugal",
+  "city-elvas": "portugal", "city-braga": "portugal", "city-viseu": "portugal",
+  "city-evora": "portugal", "city-setubal": "portugal", "city-lisbon": "portugal",
+  "city-lisboa": "portugal", "city-coimbra": "portugal", "city-ponta-delgada": "portugal",
+  "city-leiria": "portugal", "cult-sintra": "portugal",
+};
+
+// Italian iconic city names used directly as parent
+const IT_CITY_AS_PARENT = new Set(["rome", "milan", "venice", "florence", "vatican-city"]);
+
+// Bare country-name slugs used as parent (data error — parent should be ISO2 or state code)
+const COUNTRY_NAME_AS_PARENT: Record<string, string> = {
+  belgium: "belgium", denmark: "denmark", finland: "finland", greece: "greece",
+  hungary: "hungary", ireland: "ireland", norway: "norway", portugal: "portugal",
+  sweden: "sweden",
+};
+
 export function getCountryId(id: string) {
   if (!id) return "germany";
   if (HU_CITY_AS_PARENT.has(id)) return "hungary";
+  if (IT_CITY_AS_PARENT.has(id)) return id === "vatican-city" ? "vatican" : "italy";
   if (REGION_PREFIX_TO_COUNTRY[id]) return REGION_PREFIX_TO_COUNTRY[id];
+  if (REG_PREFIX_TO_COUNTRY[id]) return REG_PREFIX_TO_COUNTRY[id];
+  if (CITY_CULT_PREFIX_TO_COUNTRY[id]) return CITY_CULT_PREFIX_TO_COUNTRY[id];
+  if (COUNTRY_NAME_AS_PARENT[id]) return COUNTRY_NAME_AS_PARENT[id];
+  // Pattern: *-district → Hungary (administrative districts, ~100 of them)
+  if (id.endsWith("-district")) return "hungary";
+  // Pattern: reg-*-fi → Finland
+  if (id.startsWith("reg-") && id.endsWith("-fi")) return "finland";
   // HU regions: legacy slug ("budapest", "fejer") VAGY uj parent="HU-XX" -> hungary
   const huMatch = regions.some(r => r.id === id && (r.parent === "HU" || r.parent?.startsWith("HU-")));
   if (huMatch) return "hungary";
