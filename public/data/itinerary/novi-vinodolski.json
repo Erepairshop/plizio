@@ -977,5 +977,17 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Novi_Vinodolski",
+      "de": "https://de.wikipedia.org/wiki/Novi_Vinodolski",
+      "hu": "https://hu.wikipedia.org/wiki/Novi_Vinodolski",
+      "hr": "https://hr.wikipedia.org/wiki/Novi_Vinodolski"
+    },
+    "regional_tourism": "https://www.tz-novi-vinodolski.hr/",
+    "national_tourism": "https://croatia.hr/",
+    "notes": "TZ Novi Vinodolski official tourist board; Frankopan medieval heritage, Vinodol Valley wine",
+    "tourism_office": "https://www.tz-novi-vinodolski.hr/"
   }
 }

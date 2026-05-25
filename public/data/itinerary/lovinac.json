@@ -918,5 +918,15 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Lovinac",
+      "hr": "https://hr.wikipedia.org/wiki/Lovinac"
+    },
+    "regional_tourism": "https://www.lika-destination.hr/",
+    "national_tourism": "https://croatia.hr/",
+    "notes": "Općina Lovinac municipal site (Lika-Senj County); Kovacevic kula tower, medieval ruins",
+    "tourism_office": "https://www.lovinac.hr/"
   }
 }

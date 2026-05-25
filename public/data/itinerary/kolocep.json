@@ -870,5 +870,16 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "hasc": "HR-19",
+    "lon": 17.9881,
+    "lat": 42.6797,
+    "note": "Elaphite island near Dubrovnik; no live dedicated TZ site — Dubrovnik umbrella",
+    "regional_tourism": "https://www.visitdubrovnik.hr/en",
+    "national_tourism": "https://www.croatia.hr/en-gb",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Kolo%C4%8Dep",
+    "map": "https://www.openstreetmap.org/#map=14/42.6797/17.9881",
+    "transit_official": "https://www.jadrolinija.hr/en"
   }
 }

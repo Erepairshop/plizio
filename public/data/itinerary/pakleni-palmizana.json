@@ -836,5 +836,18 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "hasc": "HR-17",
+    "lon": 16.3897,
+    "lat": 43.1639,
+    "note": "Pakleni archipelago near Hvar; Palmižana = main bay on Sv. Klement",
+    "regional_tourism": "https://www.visithvar.hr/en",
+    "national_tourism": "https://www.croatia.hr/en-gb",
+    "wikipedia_en_islands": "https://en.wikipedia.org/wiki/Pakleni_Islands",
+    "wikipedia_en_palmizana": "https://en.wikipedia.org/wiki/Palmi%C5%BEana",
+    "map": "https://www.openstreetmap.org/#map=14/43.1639/16.3897",
+    "tourism_office": "https://www.palmizana.hr",
+    "transit_official": "https://www.jadrolinija.hr/en"
   }
 }

@@ -862,5 +862,17 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Lopar,_Croatia",
+      "de": "https://de.wikipedia.org/wiki/Lopar",
+      "hu": "https://hu.wikipedia.org/wiki/Lopar",
+      "hr": "https://hr.wikipedia.org/wiki/Lopar"
+    },
+    "regional_tourism": "https://www.rab-visit.com/",
+    "national_tourism": "https://croatia.hr/",
+    "notes": "Lopar Tourist Board official; Paradise Beach (Rajska plaža) sandy beach on Rab island",
+    "tourism_office": "https://www.lopar.com/"
   }
 }

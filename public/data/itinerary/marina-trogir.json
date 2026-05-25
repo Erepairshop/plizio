@@ -1023,5 +1023,88 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "city_id": "marina_trogir",
+    "name": "Marina (Trogir)",
+    "region": "HR-17",
+    "lat": 43.5167,
+    "lon": 16.1056,
+    "tourism_office": {
+      "url": "https://tz-marina.hr/hr",
+      "label": {
+        "hr": "Turistička zajednica Općine Marina",
+        "de": "Tourismusverband Gemeinde Marina",
+        "hu": "Marina község Turisztikai Iroda",
+        "en": "Marina Municipality Tourist Board"
+      }
+    },
+    "municipality": {
+      "url": "https://www.marina.hr/",
+      "label": {
+        "hr": "Općina Marina",
+        "de": "Gemeinde Marina",
+        "hu": "Marina község",
+        "en": "Municipality of Marina"
+      }
+    },
+    "regional_tourism": {
+      "url": "https://www.dalmatia.hr/hr/destinacije/marina",
+      "label": {
+        "hr": "Dalmacija - destinacija Marina",
+        "de": "Dalmatien - Destination Marina",
+        "hu": "Dalmácia - Marina úti cél",
+        "en": "Dalmatia - Marina destination"
+      }
+    },
+    "bus_transport": {
+      "url": "https://www.ak-split.hr/",
+      "label": {
+        "hr": "Autobusni kolodvor Split",
+        "de": "Busbahnhof Split",
+        "hu": "Split buszpályaudvar",
+        "en": "Split Bus Station"
+      }
+    },
+    "roads": {
+      "url": "https://www.hak.hr/",
+      "label": {
+        "hr": "HAK - stanje na cestama",
+        "de": "HAK - Straßenzustand",
+        "hu": "HAK - útállapot",
+        "en": "HAK - road conditions"
+      }
+    },
+    "wikipedia_hr": "https://hr.wikipedia.org/wiki/Marina_(op%C4%87ina)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Marina,_Croatia",
+    "wikipedia_nearby": "https://en.wikipedia.org/wiki/Trogir",
+    "marina": {
+      "url": "https://www.aci-marinas.com/aci-marina/aci-marina-trogir/",
+      "label": {
+        "hr": "ACI marina Trogir",
+        "de": "ACI Marina Trogir",
+        "hu": "ACI Trogir kikötő",
+        "en": "ACI Marina Trogir"
+      }
+    },
+    "secondary_visit": null,
+    "health": {
+      "url": "https://www.hzjz.hr/",
+      "label": {
+        "hr": "Hrvatski zavod za javno zdravstvo",
+        "de": "Kroatisches Institut für öffentliche Gesundheit",
+        "hu": "Horvát Közegészségügyi Intézet",
+        "en": "Croatian Institute of Public Health"
+      }
+    },
+    "transit_official": {
+      "url": "https://www.jadrolinija.hr/",
+      "label": {
+        "hr": "Jadrolinija - polazište Split/Trogir",
+        "de": "Jadrolinija - Abfahrt Split/Trogir",
+        "hu": "Jadrolinija - indulás Split/Trogir",
+        "en": "Jadrolinija - Split/Trogir departures"
+      }
+    }
   }
 }

@@ -964,5 +964,45 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "city_id": "trsteno",
+    "name": "Trsteno",
+    "county": "HR-19",
+    "coords": [
+      17.9425,
+      42.7194
+    ],
+    "tourism_office": {
+      "url": "https://www.visitdubrovnik.hr/",
+      "verified": true,
+      "note": "Regional TZ Dubrovacko-neretvanska zupanija; Trsteno has no own active tourist board site (own site offline at probe)"
+    },
+    "wikipedia": "https://en.wikipedia.org/wiki/Arboretum_Trsteno",
+    "weather": "https://meteo.hr/",
+    "transport": {
+      "url": "https://www.libertasdubrovnik.hr/",
+      "verified": true,
+      "note": "Libertas bus line 12/15 from Dubrovnik to Trsteno"
+    },
+    "language_tips": {
+      "de": "Arboretum-Personal spricht Englisch, im Dorf nur Kroatisch; Eintritt bar oder Karte am Eingang.",
+      "hu": "Az arboretum szemelyzete beszel angolul, a faluban csak horvatul; belepo keszpenzzel vagy kartyaval a bejaratnal.",
+      "ro": "Personalul arboretumului vorbeste engleza, in sat doar croata; intrarea cash sau card la poarta.",
+      "en": "Arboretum staff speak English, in the village Croatian only; entry by cash or card at the gate."
+    },
+    "best_time": {
+      "de": "April bis Juni und September/Oktober: Pflanzen bluehen, weniger Hitze; Mittagshitze im Juli/August meiden.",
+      "hu": "Aprilis-junius es szeptember-oktober: novenyek viragoznak, kisebb hoseg; delibe kerulendo julius-augusztusban.",
+      "ro": "Aprilie-iunie si septembrie-octombrie: plantele inflorite, mai putina caldura; evita amiaza in iulie-august.",
+      "en": "April-June and September-October: plants in bloom, less heat; avoid midday in July-August."
+    },
+    "neighborhood_warnings": {
+      "de": "Steile Pfade im Arboretum, festes Schuhwerk; D8-Strasse durch Ortskern eng, Parkplaetze begrenzt.",
+      "hu": "Az arboretumban meredek osvenyek, zart cipo ajanlott; a D8 ut szuk a kozpontban, parkolo keves.",
+      "ro": "Carari abrupte in arboretum, incaltari inchise; soseaua D8 ingusta in centru, parcari putine.",
+      "en": "Steep paths inside the arboretum, sturdy shoes recommended; D8 road narrow through village, limited parking."
+    },
+    "transit_official": null
   }
 }

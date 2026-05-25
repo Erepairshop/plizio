@@ -984,5 +984,73 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "_id": "medulin",
+    "country": "HR-18",
+    "coords": [
+      13.9239,
+      44.8233
+    ],
+    "events": {
+      "hr": "https://www.medulinriviera.info/events/",
+      "en": "https://www.medulinriviera.info/events/",
+      "de": "https://www.medulinriviera.info/events/",
+      "hu": "https://www.medulinriviera.info/events/"
+    },
+    "webcam": {
+      "hr": "https://www.skylinewebcams.com/en/webcam/hrvatska.html",
+      "en": "https://www.skylinewebcams.com/en/webcam/hrvatska.html",
+      "de": "https://www.skylinewebcams.com/en/webcam/hrvatska.html",
+      "hu": "https://www.skylinewebcams.com/en/webcam/hrvatska.html"
+    },
+    "restaurants": {
+      "hr": "https://www.medulinriviera.info/gastronomy/",
+      "en": "https://www.medulinriviera.info/gastronomy/",
+      "de": "https://www.medulinriviera.info/gastronomy/",
+      "hu": "https://www.medulinriviera.info/gastronomy/"
+    },
+    "tickets": {
+      "hr": "https://kamenjak.hr/hr",
+      "en": "https://kamenjak.hr/hr",
+      "de": "https://kamenjak.hr/hr",
+      "hu": "https://kamenjak.hr/hr"
+    },
+    "parking": {
+      "hr": "https://www.medulinriviera.info/hr/",
+      "en": "https://www.medulinriviera.info/",
+      "de": "https://www.medulinriviera.info/",
+      "hu": "https://www.medulinriviera.info/"
+    },
+    "language_tips": {
+      "hr": "https://en.wikipedia.org/wiki/Croatian_language",
+      "en": "https://en.wikipedia.org/wiki/Croatian_language",
+      "de": "https://de.wikipedia.org/wiki/Kroatische_Sprache",
+      "hu": "https://hu.wikipedia.org/wiki/Horv%C3%A1t_nyelv"
+    },
+    "best_time": {
+      "hr": "https://meteo.hr/",
+      "en": "https://meteo.hr/",
+      "de": "https://www.windy.com/",
+      "hu": "https://www.windy.com/"
+    },
+    "neighborhood_warnings": {
+      "hr": "https://www.hak.hr/",
+      "en": "https://www.hak.hr/",
+      "de": "https://www.hak.hr/",
+      "hu": "https://www.hak.hr/"
+    },
+    "tourism_office": {
+      "hr": "https://www.medulinriviera.info/hr/",
+      "en": "https://www.medulinriviera.info/",
+      "de": "https://www.istra.hr/",
+      "hu": "https://www.medulinriviera.info/"
+    },
+    "transit_official": {
+      "hr": "https://www.arriva.com.hr/",
+      "en": "https://getbybus.com/hr/",
+      "de": "https://www.flixbus.hr/",
+      "hu": "https://getbybus.com/hr/"
+    }
   }
 }

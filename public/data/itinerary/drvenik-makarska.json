@@ -954,5 +954,44 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "city_id": "drvenik-makarska",
+    "name": "Drvenik",
+    "county": "HR-17",
+    "coords": [
+      17.2178,
+      43.175
+    ],
+    "tourism_office": {
+      "url": "http://gradac.hr/",
+      "verified": true,
+      "note": "Drvenik is part of Gradac municipality, shares TZ Gradac"
+    },
+    "wikipedia": "https://en.wikipedia.org/wiki/Drvenik,_Split-Dalmatia_County",
+    "weather": "https://meteo.hr/",
+    "language_tips": {
+      "de": "Faehrhafen-Personal spricht Englisch, Konobas eher Kroatisch; Tickets nur Kuna/Euro bar oder Karte am Schalter.",
+      "hu": "A komp kikoto szemelyzete beszel angolul, a konobakban inkabb csak horvatul; jegy euro keszpenz vagy kartya a penztarnal.",
+      "ro": "Personalul portului de feribot vorbeste engleza, in konoba doar croata; bilete in euro cash sau card la casa.",
+      "en": "Ferry port staff speak English, konobas mostly Croatian; tickets in euro cash or card at the counter."
+    },
+    "best_time": {
+      "de": "Mai bis Oktober; im Juli/August Faehre frueh buchen (Fahrzeugschlange ueber 1 Std moeglich).",
+      "hu": "Majus es oktober kozott; julius-augusztusban a kompra korai foglalas (autosor 1+ ora is lehet).",
+      "ro": "Mai-octombrie; in iulie-august rezerva feribotul devreme (coada de masini peste 1 ora posibila).",
+      "en": "May to October; in July-August book ferry early (vehicle queues over 1 hour possible)."
+    },
+    "neighborhood_warnings": {
+      "de": "Zwei getrennte Buchten (Gornja/Donja vala), nicht verwechseln; Faehre legt in Gornja vala an.",
+      "hu": "Ket kulon obol (Gornja/Donja vala), ne keverd ossze; a komp Gornja valaban kot ki.",
+      "ro": "Doua golfuri separate (Gornja/Donja vala), nu le confunda; feribotul acosteaza in Gornja vala.",
+      "en": "Two separate bays (Gornja/Donja vala), do not confuse; ferry docks at Gornja vala."
+    },
+    "transit_official": {
+      "url": "https://www.jadrolinija.hr/en",
+      "verified": true,
+      "note": "Jadrolinija ferries Drvenik-Sucuraj (Hvar) year-round, multiple daily"
+    }
   }
 }

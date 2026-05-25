@@ -832,5 +832,73 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "_id": "krka_lozovac",
+    "country": "HR-15",
+    "coords": [
+      15.9667,
+      43.7967
+    ],
+    "events": {
+      "hr": "https://npkrka.hr/hr/",
+      "en": "https://npkrka.hr/en_us/",
+      "de": "https://npkrka.hr/en_us/",
+      "hu": "https://npkrka.hr/en_us/"
+    },
+    "webcam": {
+      "hr": "https://www.skylinewebcams.com/en/webcam/hrvatska/sibensko-kninska.html",
+      "en": "https://www.skylinewebcams.com/en/webcam/hrvatska/sibensko-kninska.html",
+      "de": "https://www.skylinewebcams.com/en/webcam/hrvatska/sibensko-kninska.html",
+      "hu": "https://www.skylinewebcams.com/en/webcam/hrvatska/sibensko-kninska.html"
+    },
+    "restaurants": {
+      "hr": "https://npkrka.hr/hr/",
+      "en": "https://npkrka.hr/en_us/",
+      "de": "https://npkrka.hr/en_us/",
+      "hu": "https://npkrka.hr/en_us/"
+    },
+    "tickets": {
+      "hr": "https://shop.np-krka.hr/hr",
+      "en": "https://shop.np-krka.hr/hr",
+      "de": "https://shop.np-krka.hr/hr",
+      "hu": "https://shop.np-krka.hr/hr"
+    },
+    "parking": {
+      "hr": "https://npkrka.hr/hr/",
+      "en": "https://npkrka.hr/en_us/",
+      "de": "https://npkrka.hr/en_us/",
+      "hu": "https://npkrka.hr/en_us/"
+    },
+    "language_tips": {
+      "hr": "https://en.wikipedia.org/wiki/Croatian_language",
+      "en": "https://en.wikipedia.org/wiki/Croatian_language",
+      "de": "https://de.wikipedia.org/wiki/Kroatische_Sprache",
+      "hu": "https://hu.wikipedia.org/wiki/Horv%C3%A1t_nyelv"
+    },
+    "best_time": {
+      "hr": "https://meteo.hr/",
+      "en": "https://meteo.hr/",
+      "de": "https://www.windy.com/",
+      "hu": "https://www.windy.com/"
+    },
+    "neighborhood_warnings": {
+      "hr": "https://www.parkovihrvatske.hr/",
+      "en": "https://www.parkovihrvatske.hr/",
+      "de": "https://www.parkovihrvatske.hr/",
+      "hu": "https://www.parkovihrvatske.hr/"
+    },
+    "tourism_office": {
+      "hr": "https://npkrka.hr/hr/",
+      "en": "https://npkrka.hr/en_us/",
+      "de": "https://npkrka.hr/en_us/",
+      "hu": "https://npkrka.hr/en_us/"
+    },
+    "transit_official": {
+      "hr": "https://www.arriva.com.hr/",
+      "en": "https://getbybus.com/hr/",
+      "de": "https://www.flixbus.hr/",
+      "hu": "https://getbybus.com/hr/"
+    }
   }
 }

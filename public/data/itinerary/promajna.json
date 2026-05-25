@@ -1032,5 +1032,40 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "city_id": "promajna",
+    "name": "Promajna",
+    "county": "HR-17",
+    "coords": [
+      17.0717,
+      43.2581
+    ],
+    "tourism_office": {
+      "url": "https://www.baskavoda.hr/",
+      "verified": true,
+      "note": "Promajna belongs to municipality of Baska Voda; official TZ Baska Voda lists Promajna explicitly"
+    },
+    "wikipedia": "https://en.wikipedia.org/wiki/Promajna",
+    "weather": "https://meteo.hr/",
+    "language_tips": {
+      "de": "Deutsch in Hotels und groesseren Restaurants ueblich, am Strand und in Apartments oft nur Englisch.",
+      "hu": "Nemet a szallodakban es nagyobb ettermekben szokasos, a strandon es apartmanokban gyakran csak angol.",
+      "ro": "Germana in hoteluri si restaurante mari, pe plaja si in apartamente deseori doar engleza.",
+      "en": "German common in hotels and larger restaurants, on the beach and in apartments often English only."
+    },
+    "best_time": {
+      "de": "Mitte Juni bis Mitte September; im Juli/August Parkplaetze knapp, frueh anreisen.",
+      "hu": "Junius kozepetol szeptember kozepeig; julius-augusztusban a parkolas szuk, korai erkezes ajanlott.",
+      "ro": "De la mijlocul lui iunie pana la mijlocul lui septembrie; in iulie-august locuri de parcare putine, soseste devreme.",
+      "en": "Mid-June to mid-September; in July-August parking is tight, arrive early."
+    },
+    "neighborhood_warnings": {
+      "de": "Lange Kiesstrandpromenade ohne viel Schatten, Sonnenschutz wichtig; Biokovo-Fallwinde moeglich.",
+      "hu": "Hosszu kavicsos sztrandsetany kevsi arnyekkal, naptej fontos; a Biokovo felol idoszakos szelek.",
+      "ro": "Promenada lunga cu pietris si putina umbra, protectie solara importanta; vant rafale dinspre Biokovo.",
+      "en": "Long pebble beach promenade with little shade, sun protection essential; gusty winds off Biokovo possible."
+    },
+    "transit_official": null
   }
 }

@@ -1073,5 +1073,305 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "country": "HR",
+    "region": "HR-18",
+    "coords": [
+      13.6017,
+      45.1497
+    ],
+    "events": {
+      "de": [
+        {
+          "label": "Vrsar Veranstaltungen",
+          "url": "https://www.infovrsar.com/en/"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Vrsar események",
+          "url": "https://www.infovrsar.com/en/"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Evenimente Vrsar",
+          "url": "https://www.infovrsar.com/en/"
+        }
+      ],
+      "en": [
+        {
+          "label": "Vrsar events (Casanovafest)",
+          "url": "https://www.infovrsar.com/en/"
+        }
+      ]
+    },
+    "webcam": {
+      "de": [
+        {
+          "label": "DHMZ Wetter",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "hu": [
+        {
+          "label": "DHMZ időjárás",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "ro": [
+        {
+          "label": "DHMZ vreme",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "en": [
+        {
+          "label": "DHMZ weather",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ]
+    },
+    "restaurants": {
+      "de": [
+        {
+          "label": "Vrsar Gastronomie",
+          "url": "https://www.infovrsar.com/en/"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Vrsar éttermek",
+          "url": "https://www.infovrsar.com/en/"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Restaurante Vrsar",
+          "url": "https://www.infovrsar.com/en/"
+        }
+      ],
+      "en": [
+        {
+          "label": "Vrsar restaurants",
+          "url": "https://www.infovrsar.com/en/"
+        }
+      ]
+    },
+    "tickets": {
+      "de": [
+        {
+          "label": "Vrsar TZ Tickets",
+          "url": "https://www.infovrsar.com/en/"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Vrsar TZ jegyek",
+          "url": "https://www.infovrsar.com/en/"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Bilete Vrsar TZ",
+          "url": "https://www.infovrsar.com/en/"
+        }
+      ],
+      "en": [
+        {
+          "label": "Vrsar TB tickets/excursions",
+          "url": "https://www.infovrsar.com/en/"
+        }
+      ]
+    },
+    "parking": {
+      "de": [
+        {
+          "label": "Vrsar Parken Info",
+          "url": "https://www.infovrsar.com/en/"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Vrsar parkolás",
+          "url": "https://www.infovrsar.com/en/"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Parcare Vrsar",
+          "url": "https://www.infovrsar.com/en/"
+        }
+      ],
+      "en": [
+        {
+          "label": "Vrsar parking (TB)",
+          "url": "https://www.infovrsar.com/en/"
+        }
+      ]
+    },
+    "language_tips": {
+      "de": [
+        {
+          "label": "Wikipedia Vrsar (HR/IT)",
+          "url": "https://en.wikipedia.org/wiki/Vrsar"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Wikipédia Vrsar",
+          "url": "https://en.wikipedia.org/wiki/Vrsar"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Wikipedia Vrsar",
+          "url": "https://en.wikipedia.org/wiki/Vrsar"
+        }
+      ],
+      "en": [
+        {
+          "label": "Wikipedia Vrsar (HR/IT bilingual)",
+          "url": "https://en.wikipedia.org/wiki/Vrsar"
+        }
+      ]
+    },
+    "best_time": {
+      "de": [
+        {
+          "label": "DHMZ Klima",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "hu": [
+        {
+          "label": "DHMZ klíma",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "ro": [
+        {
+          "label": "DHMZ climă",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "en": [
+        {
+          "label": "DHMZ climate",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ]
+    },
+    "neighborhood_warnings": {
+      "de": [
+        {
+          "label": "Vrsar Sicherheit",
+          "url": "https://www.infovrsar.com/en/"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Vrsar biztonság",
+          "url": "https://www.infovrsar.com/en/"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Siguranță Vrsar",
+          "url": "https://www.infovrsar.com/en/"
+        }
+      ],
+      "en": [
+        {
+          "label": "Vrsar safety (TB)",
+          "url": "https://www.infovrsar.com/en/"
+        }
+      ]
+    },
+    "tourism_office": {
+      "de": [
+        {
+          "label": "TZ Vrsar offiziell",
+          "url": "https://www.infovrsar.com/en/"
+        },
+        {
+          "label": "Istrien TZ - Vrsar",
+          "url": "https://www.istra.hr/en/destinations/vrsar"
+        },
+        {
+          "label": "Wikipedia Vrsar",
+          "url": "https://en.wikipedia.org/wiki/Vrsar"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Vrsar turisztikai iroda",
+          "url": "https://www.infovrsar.com/en/"
+        },
+        {
+          "label": "Isztria TZ - Vrsar",
+          "url": "https://www.istra.hr/en/destinations/vrsar"
+        },
+        {
+          "label": "Wikipédia Vrsar",
+          "url": "https://en.wikipedia.org/wiki/Vrsar"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Birou turism Vrsar",
+          "url": "https://www.infovrsar.com/en/"
+        },
+        {
+          "label": "Istria TZ - Vrsar",
+          "url": "https://www.istra.hr/en/destinations/vrsar"
+        },
+        {
+          "label": "Wikipedia Vrsar",
+          "url": "https://en.wikipedia.org/wiki/Vrsar"
+        }
+      ],
+      "en": [
+        {
+          "label": "Vrsar Tourist Board",
+          "url": "https://www.infovrsar.com/en/"
+        },
+        {
+          "label": "Istria Tourist Board - Vrsar",
+          "url": "https://www.istra.hr/en/destinations/vrsar"
+        },
+        {
+          "label": "Wikipedia: Vrsar",
+          "url": "https://en.wikipedia.org/wiki/Vrsar"
+        }
+      ]
+    },
+    "transit_official": {
+      "de": [
+        {
+          "label": "Arriva Kroatien Bus",
+          "url": "https://www.arriva.com.hr/en-us/home"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Arriva Horvátország",
+          "url": "https://www.arriva.com.hr/en-us/home"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Arriva Croația",
+          "url": "https://www.arriva.com.hr/en-us/home"
+        }
+      ],
+      "en": [
+        {
+          "label": "Arriva Croatia bus",
+          "url": "https://www.arriva.com.hr/en-us/home"
+        }
+      ]
+    }
   }
 }

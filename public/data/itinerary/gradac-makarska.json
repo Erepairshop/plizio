@@ -322,5 +322,41 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "city_id": "gradac-makarska",
+    "name": "Gradac",
+    "county": "HR-17",
+    "coords": [
+      17.2389,
+      43.1217
+    ],
+    "tourism_office": {
+      "url": "http://gradac.hr/",
+      "verified": true,
+      "note": "Official Tourist Board of Gradac (TZ Gradac); covers Gradac, Brist, Podaca, Zaostrog, Drvenik"
+    },
+    "wikipedia": "https://en.wikipedia.org/wiki/Gradac,_Split-Dalmatia_County",
+    "weather": "https://meteo.hr/",
+    "regional_board": "https://www.visitdubrovnik.hr/",
+    "language_tips": {
+      "de": "Tourist-Info-Buero und Hotels sprechen Deutsch, kleine Konobas oft nur Kroatisch oder einfaches Englisch.",
+      "hu": "Az idegenforgalmi iroda es a szallodak beszelnek nemetul, kis konobakban gyakran csak horvatul vagy alap angolul.",
+      "ro": "Biroul de turism si hotelurile vorbesc germana si engleza, in konobele mici doar croata sau engleza simpla.",
+      "en": "Tourist office and hotels speak German and English, small konobas often Croatian only or basic English."
+    },
+    "best_time": {
+      "de": "Juni und September: warmes Meer (rund 190 Badetage), weniger voll als Juli/August.",
+      "hu": "Junius es szeptember: meleg tenger (kb. 190 furdonap), kevesbe zsufolt mint julius-augusztus.",
+      "ro": "Iunie si septembrie: mare calda (cca. 190 zile de baie), mai putin aglomerat decat iulie-august.",
+      "en": "June and September: warm sea (about 190 swimming days), less crowded than July-August."
+    },
+    "neighborhood_warnings": {
+      "de": "Kieselstrand, Badeschuhe empfohlen; D8-Kuestenstrasse nachts schmal und kurvig.",
+      "hu": "Kavicsos strand, furdocipo ajanlott; a D8 parti ut ejjel keskeny es kanyargos.",
+      "ro": "Plaja cu pietris, papuci de baie recomandati; soseaua D8 ingusta si in serpentine noaptea.",
+      "en": "Pebble beach, water shoes recommended; D8 coastal road narrow and winding at night."
+    },
+    "transit_official": null
   }
 }

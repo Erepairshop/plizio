@@ -994,5 +994,88 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "city_id": "malinska",
+    "name": "Malinska",
+    "region": "HR-08",
+    "lat": 45.1247,
+    "lon": 14.53,
+    "tourism_office": {
+      "url": "https://tz-malinska.hr/",
+      "label": {
+        "hr": "Turistička zajednica Malinska-Dubašnica",
+        "de": "Tourismusverband Malinska-Dubašnica",
+        "hu": "Malinska-Dubašnica Turisztikai Iroda",
+        "en": "Malinska-Dubašnica Tourist Board"
+      }
+    },
+    "municipality": {
+      "url": "https://www.malinska.hr/",
+      "label": {
+        "hr": "Općina Malinska-Dubašnica",
+        "de": "Gemeinde Malinska-Dubašnica",
+        "hu": "Malinska-Dubašnica község",
+        "en": "Municipality of Malinska-Dubašnica"
+      }
+    },
+    "regional_tourism": {
+      "url": "https://www.visitkrk.com/",
+      "label": {
+        "hr": "Visit Krk - otok Krk",
+        "de": "Visit Krk - Insel Krk",
+        "hu": "Visit Krk - Krk sziget",
+        "en": "Visit Krk - Krk Island"
+      }
+    },
+    "bus_transport": {
+      "url": "https://www.arriva.com.hr/hr-hr/naslovna",
+      "label": {
+        "hr": "Arriva Hrvatska (bivši Autotrans)",
+        "de": "Arriva Kroatien (ehem. Autotrans)",
+        "hu": "Arriva Horvátország (volt Autotrans)",
+        "en": "Arriva Croatia (formerly Autotrans)"
+      }
+    },
+    "roads": {
+      "url": "https://www.hak.hr/",
+      "label": {
+        "hr": "HAK - stanje na cestama",
+        "de": "HAK - Straßenzustand",
+        "hu": "HAK - útállapot",
+        "en": "HAK - road conditions"
+      }
+    },
+    "wikipedia_hr": "https://hr.wikipedia.org/wiki/Malinska",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Malinska",
+    "wikipedia_island": "https://en.wikipedia.org/wiki/Krk",
+    "marina": null,
+    "secondary_visit": {
+      "url": "https://visitmalinska.com/",
+      "label": {
+        "hr": "Visit Malinska - vodič",
+        "de": "Visit Malinska - Reiseführer",
+        "hu": "Visit Malinska - útikalauz",
+        "en": "Visit Malinska - guide"
+      }
+    },
+    "health": {
+      "url": "https://www.hzjz.hr/",
+      "label": {
+        "hr": "Hrvatski zavod za javno zdravstvo",
+        "de": "Kroatisches Institut für öffentliche Gesundheit",
+        "hu": "Horvát Közegészségügyi Intézet",
+        "en": "Croatian Institute of Public Health"
+      }
+    },
+    "transit_official": {
+      "url": "https://www.jadrolinija.hr/",
+      "label": {
+        "hr": "Jadrolinija - trajektne linije",
+        "de": "Jadrolinija - Fährverbindungen",
+        "hu": "Jadrolinija - kompjáratok",
+        "en": "Jadrolinija - ferry services"
+      }
+    }
   }
 }

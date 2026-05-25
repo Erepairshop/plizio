@@ -1023,5 +1023,72 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "city_id": "karlobag",
+    "name": "Karlobag",
+    "region": "HR-09",
+    "lat": 44.5267,
+    "lon": 15.0808,
+    "tourism_office": {
+      "url": "https://www.tz-karlobag.hr/",
+      "label": {
+        "hr": "Turistička zajednica Karlobag",
+        "de": "Tourismusverband Karlobag",
+        "hu": "Karlobag Turisztikai Iroda",
+        "en": "Karlobag Tourist Board"
+      }
+    },
+    "municipality": {
+      "url": "https://karlobag.eu/",
+      "label": {
+        "hr": "Općina Karlobag",
+        "de": "Gemeinde Karlobag",
+        "hu": "Karlobag község",
+        "en": "Municipality of Karlobag"
+      }
+    },
+    "regional_tourism": null,
+    "bus_transport": {
+      "url": "https://www.arriva.com.hr/hr-hr/naslovna",
+      "label": {
+        "hr": "Arriva Hrvatska",
+        "de": "Arriva Kroatien",
+        "hu": "Arriva Horvátország",
+        "en": "Arriva Croatia"
+      }
+    },
+    "roads": {
+      "url": "https://www.hak.hr/",
+      "label": {
+        "hr": "HAK - stanje na cestama (Velebit)",
+        "de": "HAK - Straßenzustand (Velebit)",
+        "hu": "HAK - útállapot (Velebit)",
+        "en": "HAK - road conditions (Velebit)"
+      }
+    },
+    "wikipedia_hr": "https://hr.wikipedia.org/wiki/Karlobag",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Karlobag",
+    "wikipedia_mountain": "https://en.wikipedia.org/wiki/Velebit",
+    "marina": null,
+    "secondary_visit": null,
+    "health": {
+      "url": "https://www.hzjz.hr/",
+      "label": {
+        "hr": "Hrvatski zavod za javno zdravstvo",
+        "de": "Kroatisches Institut für öffentliche Gesundheit",
+        "hu": "Horvát Közegészségügyi Intézet",
+        "en": "Croatian Institute of Public Health"
+      }
+    },
+    "transit_official": {
+      "url": "https://www.jadrolinija.hr/",
+      "label": {
+        "hr": "Jadrolinija - linija Karlobag-Pag",
+        "de": "Jadrolinija - Linie Karlobag-Pag",
+        "hu": "Jadrolinija - Karlobag-Pag vonal",
+        "en": "Jadrolinija - Karlobag-Pag line"
+      }
+    }
   }
 }

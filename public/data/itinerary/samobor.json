@@ -1092,5 +1092,73 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "_id": "samobor",
+    "country": "HR-01",
+    "coords": [
+      15.7117,
+      45.8
+    ],
+    "events": {
+      "hr": "https://www.tz-samobor.hr/dogadaji-i-manifestacije-u-samoboru/",
+      "en": "https://www.tz-samobor.hr/dogadaji-i-manifestacije-u-samoboru/",
+      "de": "https://www.tz-samobor.hr/dogadaji-i-manifestacije-u-samoboru/",
+      "hu": "https://www.tz-samobor.hr/dogadaji-i-manifestacije-u-samoboru/"
+    },
+    "webcam": {
+      "hr": "https://www.skylinewebcams.com/en/webcam/hrvatska.html",
+      "en": "https://www.skylinewebcams.com/en/webcam/hrvatska.html",
+      "de": "https://www.skylinewebcams.com/en/webcam/hrvatska.html",
+      "hu": "https://www.skylinewebcams.com/en/webcam/hrvatska.html"
+    },
+    "restaurants": {
+      "hr": "https://www.tz-samobor.hr/gdje-jesti-i-piti-u-samoboru/",
+      "en": "https://www.tz-samobor.hr/gdje-jesti-i-piti-u-samoboru/",
+      "de": "https://www.tz-samobor.hr/gdje-jesti-i-piti-u-samoboru/",
+      "hu": "https://www.tz-samobor.hr/gdje-jesti-i-piti-u-samoboru/"
+    },
+    "tickets": {
+      "hr": "https://www.ulaznice.hr/web/",
+      "en": "https://www.ulaznice.hr/web/",
+      "de": "https://www.ulaznice.hr/web/",
+      "hu": "https://www.ulaznice.hr/web/"
+    },
+    "parking": {
+      "hr": "https://www.samobor.hr/",
+      "en": "https://www.samobor.hr/",
+      "de": "https://www.samobor.hr/",
+      "hu": "https://www.samobor.hr/"
+    },
+    "language_tips": {
+      "hr": "https://en.wikipedia.org/wiki/Croatian_language",
+      "en": "https://en.wikipedia.org/wiki/Croatian_language",
+      "de": "https://de.wikipedia.org/wiki/Kroatische_Sprache",
+      "hu": "https://hu.wikipedia.org/wiki/Horv%C3%A1t_nyelv"
+    },
+    "best_time": {
+      "hr": "https://meteo.hr/",
+      "en": "https://meteo.hr/",
+      "de": "https://www.windy.com/",
+      "hu": "https://www.windy.com/"
+    },
+    "neighborhood_warnings": {
+      "hr": "https://www.hak.hr/",
+      "en": "https://www.hak.hr/",
+      "de": "https://www.hak.hr/",
+      "hu": "https://www.hak.hr/"
+    },
+    "tourism_office": {
+      "hr": "https://www.tz-samobor.hr/",
+      "en": "https://www.tz-samobor.hr/",
+      "de": "https://www.tz-samobor.hr/",
+      "hu": "https://www.tz-samobor.hr/"
+    },
+    "transit_official": {
+      "hr": "https://www.arriva.com.hr/",
+      "en": "https://getbybus.com/hr/",
+      "de": "https://www.flixbus.hr/",
+      "hu": "https://getbybus.com/hr/"
+    }
   }
 }

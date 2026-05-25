@@ -1138,5 +1138,19 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "hasc": "HR-08",
+    "lon": 14.2417,
+    "lat": 44.6406,
+    "note": "Tiny Lošinj-neighbor island, no own TZ — Mali Lošinj umbrella + jadrolinija",
+    "regional_tourism": "https://www.tz-malilosinj.hr/en",
+    "national_tourism": "https://www.croatia.hr/en-gb",
+    "weather": "https://www.croatia.hr/en-gb",
+    "wikipedia_local": "https://hr.wikipedia.org/wiki/Unije",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unije",
+    "map": "https://www.openstreetmap.org/#map=14/44.6406/14.2417",
+    "tourism_office": "https://www.visitlosinj.hr",
+    "transit_official": "https://www.jadrolinija.hr/en"
   }
 }

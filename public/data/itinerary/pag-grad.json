@@ -1245,5 +1245,56 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "_coords": [
+      15.0567,
+      44.4439
+    ],
+    "_region": "HR-09",
+    "specialty": {
+      "paska_sirana_cheese": "https://paskasirana.com/",
+      "gligora_cheese": "https://www.gligora.com/",
+      "paska_cipka_lace": "https://www.paskacipka.hr/"
+    },
+    "webcam": {
+      "windy_croatia": "https://www.windy.com/-Webcams/webcams/1606130018",
+      "skyline_croatia": "https://www.skylinewebcams.com/en/webcam/hrvatska-croatia.html"
+    },
+    "tourism_office": {
+      "official_tz_grad_pag": "https://www.tzgpag.hr/",
+      "visit_pag": "https://visitpag.com/",
+      "city_portal": "https://www.pag.hr/",
+      "croatia_national": "https://www.croatia.hr/"
+    },
+    "transit_official": {
+      "ferry_jadrolinija": "https://www.jadrolinija.hr/",
+      "intercity_bus": "https://www.arriva.com.hr/",
+      "road_status_hak": "https://www.hak.hr/info/stanje-na-cestama/"
+    },
+    "events": {
+      "hrt_national": "https://www.hrt.hr/",
+      "jutarnji": "https://www.jutarnji.hr/",
+      "tportal": "https://www.tportal.hr/"
+    },
+    "restaurants_booking": {
+      "skyscanner_flights": "https://www.skyscanner.hr/",
+      "osm_map": "https://www.openstreetmap.org/"
+    },
+    "parking_real_time": {
+      "weather_dhmz": "https://meteo.hr/",
+      "police": "https://mup.gov.hr/",
+      "gov": "https://www.gov.hr/"
+    },
+    "language_tips": {
+      "de": "Kroatisch",
+      "hu": "Horvát",
+      "ro": "Croată",
+      "en": "Croatian"
+    },
+    "best_time_to_visit": {
+      "tz": "Europe/Zagreb",
+      "utc": "UTC+1 (CET) / UTC+2 (CEST)"
+    }
   }
 }

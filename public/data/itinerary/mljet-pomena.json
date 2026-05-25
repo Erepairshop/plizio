@@ -1004,5 +1004,48 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "name": "Mljet (Pomena)",
+    "country": "HR",
+    "region": "HR-19",
+    "coords": [
+      17.3819,
+      42.7869
+    ],
+    "transit_official": "https://www.jadrolinija.hr/en",
+    "transit_app": "https://www.jadrolinija.hr/en",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://np-mljet.hr/en/news/",
+    "tourism_office": "https://np-mljet.hr/en/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska-croatia/dubrovnik-neretva/mljet.html",
+    "restaurants_booking": "https://www.google.com/maps/search/restaurants+Pomena+Mljet",
+    "museum_tickets": "https://np-mljet.hr/en/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Auf Mljet wird Kroatisch gesprochen; in Pomena/Polace verstehen Hotel- und Restaurantmitarbeiter meist Englisch, oft auch Deutsch und Italienisch. Ein paar Worte wie 'Hvala' (Danke) und 'Dobar dan' (Guten Tag) werden geschaetzt.",
+      "hu": "Mljeten horvatul beszelnek; Pomena es Polace szallodai-vendeglatos dolgozoi tobbnyire ertenek angolul, gyakran nemetul es olaszul is. A 'Hvala' (Koszonom) es 'Dobar dan' (Jo napot) hasznalata jol jon.",
+      "ro": "Pe Mljet se vorbeste croata; in Pomena si Polace personalul hotelier si din restaurante intelege engleza, adesea si germana sau italiana. Cateva cuvinte ca 'Hvala' (Multumesc) si 'Dobar dan' (Buna ziua) sunt apreciate.",
+      "en": "Croatian is spoken on Mljet; staff in Pomena and Polace hotels and restaurants generally speak English, often German or Italian. Basic words like 'Hvala' (thanks) and 'Dobar dan' (hello) are appreciated."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Anfang Oktober. Juli/August sind warm und voll, Juni und September bieten angenehmere Temperaturen, leerere Wanderwege im Nationalpark und gute Bedingungen fuer das Schwimmen in den Salzseen.",
+      "hu": "Majustol oktober elejeig. Julius/augusztus meleg es zsufolt; junius es szeptember kellemesebb, kevesbe zsufolt tura-osvenyek a nemzeti parkban, jo furdes a sos tavakban.",
+      "ro": "Din mai pana la inceputul lui octombrie. Iulie/august sunt calde si aglomerate; iunie si septembrie ofera temperaturi mai placute, poteci mai linistite in parc si conditii bune de scaldat in lacurile sarate.",
+      "en": "May to early October. July/August are hot and crowded; June and September give milder temperatures, quieter park trails, and good swimming in the salt lakes."
+    },
+    "neighborhood_warnings": {
+      "de": "Pomena ist sicher. Im Nationalpark feste Schuhe tragen, Wege nicht verlassen (Steilkueste, Schlangen moeglich). Letzte Faehre nach Sobra/Dubrovnik nicht verpassen, im Sommer auch geringe Quallengefahr.",
+      "hu": "Pomena biztonsagos. A nemzeti parkban kemeny talpu cipo, ne hagyd el az osvenyt (sziklas part, kigyo elofordulhat). Az utolso komp Sobra/Dubrovnik fele ne maradj le, nyaron medusa is elofordulhat.",
+      "ro": "Pomena este sigura. In parc poarta incaltaminte solida, nu parasi potecile (faleze, posibil serpi). Nu pierde ultimul feribot spre Sobra/Dubrovnik, vara pot aparea meduze.",
+      "en": "Pomena is safe. In the park wear sturdy shoes and stay on marked trails (cliffs, occasional snakes). Do not miss the last ferry back to Sobra/Dubrovnik; jellyfish possible in summer."
+    },
+    "_verified": [
+      "https://np-mljet.hr/en/",
+      "https://www.jadrolinija.hr/en",
+      "https://np-mljet.hr/en/news/",
+      "https://www.skylinewebcams.com/en/webcam/hrvatska-croatia/dubrovnik-neretva/mljet.html"
+    ]
   }
 }

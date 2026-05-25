@@ -607,5 +607,96 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "city_id": "rogoznica",
+    "name": "Rogoznica",
+    "region": "HR-15",
+    "lat": 43.5267,
+    "lon": 15.9658,
+    "tourism_office": {
+      "url": "https://www.loverogoznica.eu/",
+      "label": {
+        "hr": "Love Rogoznica - službena turistička stranica",
+        "de": "Love Rogoznica - offizielle Tourismusseite",
+        "hu": "Love Rogoznica - hivatalos turisztikai oldal",
+        "en": "Love Rogoznica - official tourism site"
+      }
+    },
+    "municipality": {
+      "url": "https://rogoznica.hr/",
+      "label": {
+        "hr": "Općina Rogoznica",
+        "de": "Gemeinde Rogoznica",
+        "hu": "Rogoznica község",
+        "en": "Municipality of Rogoznica"
+      }
+    },
+    "regional_tourism": {
+      "url": "https://www.dalmatia.hr/hr/destinacije/rogoznica",
+      "label": {
+        "hr": "Dalmacija - destinacija Rogoznica",
+        "de": "Dalmatien - Destination Rogoznica",
+        "hu": "Dalmácia - Rogoznica úti cél",
+        "en": "Dalmatia - Rogoznica destination"
+      }
+    },
+    "bus_transport": {
+      "url": "https://www.ak-split.hr/",
+      "label": {
+        "hr": "Autobusni kolodvor Split",
+        "de": "Busbahnhof Split",
+        "hu": "Split buszpályaudvar",
+        "en": "Split Bus Station"
+      }
+    },
+    "roads": {
+      "url": "https://www.hak.hr/",
+      "label": {
+        "hr": "HAK - stanje na cestama",
+        "de": "HAK - Straßenzustand",
+        "hu": "HAK - útállapot",
+        "en": "HAK - road conditions"
+      }
+    },
+    "wikipedia_hr": "https://hr.wikipedia.org/wiki/Rogoznica",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Rogoznica",
+    "wikipedia_nearby": "https://www.visitsibenik.hr/",
+    "marina": {
+      "url": "https://www.aci-marinas.com/aci-marina/aci-marina-rogoznica/",
+      "label": {
+        "hr": "ACI marina Frapa Rogoznica",
+        "de": "ACI Marina Frapa Rogoznica",
+        "hu": "ACI Frapa Rogoznica kikötő",
+        "en": "ACI Marina Frapa Rogoznica"
+      }
+    },
+    "secondary_visit": {
+      "url": "https://www.visitsibenik.hr/",
+      "label": {
+        "hr": "Visit Šibenik - regionalni vodič",
+        "de": "Visit Šibenik - Regionalführer",
+        "hu": "Visit Šibenik - regionális kalauz",
+        "en": "Visit Šibenik - regional guide"
+      }
+    },
+    "health": {
+      "url": "https://www.hzjz.hr/",
+      "label": {
+        "hr": "Hrvatski zavod za javno zdravstvo",
+        "de": "Kroatisches Institut für öffentliche Gesundheit",
+        "hu": "Horvát Közegészségügyi Intézet",
+        "en": "Croatian Institute of Public Health"
+      }
+    },
+    "transit_official": {
+      "url": "https://www.jadrolinija.hr/",
+      "label": {
+        "hr": "Jadrolinija - polazište Split/Šibenik",
+        "de": "Jadrolinija - Abfahrt Split/Šibenik",
+        "hu": "Jadrolinija - indulás Split/Šibenik",
+        "en": "Jadrolinija - Split/Šibenik departures"
+      }
+    }
   }
 }

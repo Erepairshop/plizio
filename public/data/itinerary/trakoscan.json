@@ -1046,5 +1046,48 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "name": "Trakoscan",
+    "country": "HR",
+    "region": "HR-02",
+    "coords": [
+      15.9417,
+      46.2667
+    ],
+    "transit_official": "https://www.arriva.com.hr/en-us/home",
+    "transit_app": "https://www.arriva.com.hr/en-us/home",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://trakoscan.hr/en/",
+    "tourism_office": "https://visitzagorje.hr/en/",
+    "webcam": null,
+    "restaurants_booking": "https://www.google.com/maps/search/restaurants+Trakoscan",
+    "museum_tickets": "https://trakoscan.hr/en/visit/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Im Zagorje wird Kroatisch (mit kajkavischem Dialekt) gesprochen. Im Schlossmuseum gibt es englische und meist auch deutsche Beschriftungen; das Personal versteht oft Deutsch und Englisch.",
+      "hu": "Zagorjeban horvatul (kajkav nyelvjarasban) beszelnek. A varmuzeumban angol es legtobbszor nemet feliratok is vannak; a szemelyzet gyakran ert nemetul es angolul.",
+      "ro": "In Zagorje se vorbeste croata (cu dialect kajkavian). La muzeul castelului exista panouri in engleza si de regula in germana; personalul intelege adesea germana si engleza.",
+      "en": "Croatian (kajkavian dialect) is spoken in Zagorje. The castle museum has English and usually German signage; staff often speak German and English."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Oktober. Fruehling und Herbst sind ideal fuer den Spaziergang um den Trakoscan-See; im Sommer kann es im Schloss voll werden, am besten morgens oder spaeter Nachmittag besuchen.",
+      "hu": "Aprilis es oktober kozott. Tavasz es osz a Trakoscan to korulseta legszebb idoszaka; nyaron a var zsufolt lehet, latogasd kora reggel vagy keso delutan.",
+      "ro": "Aprilie-octombrie. Primavara si toamna sunt ideale pentru plimbarea in jurul lacului Trakoscan; vara castelul poate fi aglomerat, viziteaza dimineata sau dupa-amiaza tarziu.",
+      "en": "April to October. Spring and autumn are ideal for the lakeside walk around Trakoscan; in summer the castle gets crowded, so visit early or late afternoon."
+    },
+    "neighborhood_warnings": {
+      "de": "Das Dorf ist klein und sicher. Der Rundweg um den See ist teilweise wurzelig und im Herbst rutschig. Parkplaetze fuellen sich an Wochenenden schnell, frueh ankommen. Bargeld im Restaurant am See empfohlen.",
+      "hu": "A falu kicsi es biztonsagos. A to koruli osveny helyenkent gyokeres, oszre csuszos lehet. A parkolok hetvegen gyorsan megtelnek, jojj korai. A to melletti etteremben keszpenz ajanlott.",
+      "ro": "Satul este mic si sigur. Poteca din jurul lacului este pe alocuri cu radacini si alunecoasa toamna. Parcarea se umple repede in weekend, vino devreme. La restaurantul de la lac, banii cash sunt utili.",
+      "en": "The village is small and safe. The lakeside loop has tree roots and gets slippery in autumn. Parking fills quickly on weekends, arrive early. Cash is handy at the lakeside restaurant."
+    },
+    "_verified": [
+      "https://trakoscan.hr/en/",
+      "https://trakoscan.hr/en/visit/",
+      "https://visitzagorje.hr/en/",
+      "https://www.arriva.com.hr/en-us/home"
+    ]
   }
 }

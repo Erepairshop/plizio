@@ -1034,5 +1034,353 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "country": "HR",
+    "region": "HR-18",
+    "coords": [
+      13.9356,
+      45.2406
+    ],
+    "events": {
+      "de": [
+        {
+          "label": "Pazin Events (Istra TZ)",
+          "url": "https://www.istra.hr/en/destinations/pazin"
+        },
+        {
+          "label": "Donnerstag im Museum",
+          "url": "https://www.muzej-pazin.hr/"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Pazin események",
+          "url": "https://www.istra.hr/en/destinations/pazin"
+        },
+        {
+          "label": "Csütörtök a Múzeumban",
+          "url": "https://www.muzej-pazin.hr/"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Evenimente Pazin",
+          "url": "https://www.istra.hr/en/destinations/pazin"
+        },
+        {
+          "label": "Joia la Muzeu",
+          "url": "https://www.muzej-pazin.hr/"
+        }
+      ],
+      "en": [
+        {
+          "label": "Pazin events (Istria TB)",
+          "url": "https://www.istra.hr/en/destinations/pazin"
+        },
+        {
+          "label": "Thursdays at the Museum",
+          "url": "https://www.muzej-pazin.hr/"
+        }
+      ]
+    },
+    "webcam": {
+      "de": [
+        {
+          "label": "DHMZ Wetter",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "hu": [
+        {
+          "label": "DHMZ időjárás",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "ro": [
+        {
+          "label": "DHMZ vreme",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "en": [
+        {
+          "label": "DHMZ weather",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ]
+    },
+    "restaurants": {
+      "de": [
+        {
+          "label": "Pazin Gastronomie",
+          "url": "https://www.central-istria.com/en/"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Pazin éttermek",
+          "url": "https://www.central-istria.com/en/"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Restaurante Pazin",
+          "url": "https://www.central-istria.com/en/"
+        }
+      ],
+      "en": [
+        {
+          "label": "Pazin restaurants (Central Istria TB)",
+          "url": "https://www.central-istria.com/en/"
+        }
+      ]
+    },
+    "tickets": {
+      "de": [
+        {
+          "label": "Pazin Burgmuseum Tickets",
+          "url": "https://www.muzej-pazin.hr/"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Pazin várjegy",
+          "url": "https://www.muzej-pazin.hr/"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Bilete Cetatea Pazin",
+          "url": "https://www.muzej-pazin.hr/"
+        }
+      ],
+      "en": [
+        {
+          "label": "Pazin Castle museum tickets",
+          "url": "https://www.muzej-pazin.hr/"
+        }
+      ]
+    },
+    "parking": {
+      "de": [
+        {
+          "label": "Pazin Parken (Istra TZ)",
+          "url": "https://www.istra.hr/en/destinations/pazin"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Pazin parkolás",
+          "url": "https://www.istra.hr/en/destinations/pazin"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Parcare Pazin",
+          "url": "https://www.istra.hr/en/destinations/pazin"
+        }
+      ],
+      "en": [
+        {
+          "label": "Pazin parking info",
+          "url": "https://www.istra.hr/en/destinations/pazin"
+        }
+      ]
+    },
+    "language_tips": {
+      "de": [
+        {
+          "label": "Wikipedia Pazin",
+          "url": "https://en.wikipedia.org/wiki/Pazin"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Wikipédia Pazin",
+          "url": "https://en.wikipedia.org/wiki/Pazin"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Wikipedia Pazin",
+          "url": "https://en.wikipedia.org/wiki/Pazin"
+        }
+      ],
+      "en": [
+        {
+          "label": "Wikipedia Pazin",
+          "url": "https://en.wikipedia.org/wiki/Pazin"
+        }
+      ]
+    },
+    "best_time": {
+      "de": [
+        {
+          "label": "DHMZ Klima",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "hu": [
+        {
+          "label": "DHMZ klíma",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "ro": [
+        {
+          "label": "DHMZ climă",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "en": [
+        {
+          "label": "DHMZ climate",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ]
+    },
+    "neighborhood_warnings": {
+      "de": [
+        {
+          "label": "Pazin Sicherheit",
+          "url": "https://www.istra.hr/en/destinations/pazin"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Pazin biztonság",
+          "url": "https://www.istra.hr/en/destinations/pazin"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Siguranță Pazin",
+          "url": "https://www.istra.hr/en/destinations/pazin"
+        }
+      ],
+      "en": [
+        {
+          "label": "Pazin safety (Istria TB)",
+          "url": "https://www.istra.hr/en/destinations/pazin"
+        }
+      ]
+    },
+    "tourism_office": {
+      "de": [
+        {
+          "label": "Zentralistrien TZ (Pazin)",
+          "url": "https://www.central-istria.com/en/"
+        },
+        {
+          "label": "Istra TZ - Pazin",
+          "url": "https://www.istra.hr/en/destinations/pazin"
+        },
+        {
+          "label": "Stadtmuseum Pazin",
+          "url": "https://www.muzej-pazin.hr/"
+        },
+        {
+          "label": "Wikipedia Pazin (Jules Verne)",
+          "url": "https://en.wikipedia.org/wiki/Pazin"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Közép-Isztria TZ",
+          "url": "https://www.central-istria.com/en/"
+        },
+        {
+          "label": "Isztria TZ - Pazin",
+          "url": "https://www.istra.hr/en/destinations/pazin"
+        },
+        {
+          "label": "Pazin Múzeum",
+          "url": "https://www.muzej-pazin.hr/"
+        },
+        {
+          "label": "Wikipédia Pazin (Verne Gyula)",
+          "url": "https://en.wikipedia.org/wiki/Pazin"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Istria Centrală TZ",
+          "url": "https://www.central-istria.com/en/"
+        },
+        {
+          "label": "Istria TZ - Pazin",
+          "url": "https://www.istra.hr/en/destinations/pazin"
+        },
+        {
+          "label": "Muzeul Pazin",
+          "url": "https://www.muzej-pazin.hr/"
+        },
+        {
+          "label": "Wikipedia Pazin (Jules Verne)",
+          "url": "https://en.wikipedia.org/wiki/Pazin"
+        }
+      ],
+      "en": [
+        {
+          "label": "Central Istria Tourist Board",
+          "url": "https://www.central-istria.com/en/"
+        },
+        {
+          "label": "Istria Tourist Board - Pazin",
+          "url": "https://www.istra.hr/en/destinations/pazin"
+        },
+        {
+          "label": "Museum of City of Pazin (Castle)",
+          "url": "https://www.muzej-pazin.hr/"
+        },
+        {
+          "label": "Wikipedia: Pazin (Jules Verne / Mathias Sandorf)",
+          "url": "https://en.wikipedia.org/wiki/Pazin"
+        }
+      ]
+    },
+    "transit_official": {
+      "de": [
+        {
+          "label": "HŽPP Kroatische Bahn",
+          "url": "https://www.hzpp.hr/en"
+        },
+        {
+          "label": "Arriva Bus",
+          "url": "https://www.arriva.com.hr/en-us/home"
+        }
+      ],
+      "hu": [
+        {
+          "label": "HŽPP horvát vasút",
+          "url": "https://www.hzpp.hr/en"
+        },
+        {
+          "label": "Arriva busz",
+          "url": "https://www.arriva.com.hr/en-us/home"
+        }
+      ],
+      "ro": [
+        {
+          "label": "HŽPP căi ferate",
+          "url": "https://www.hzpp.hr/en"
+        },
+        {
+          "label": "Arriva autobuz",
+          "url": "https://www.arriva.com.hr/en-us/home"
+        }
+      ],
+      "en": [
+        {
+          "label": "Croatian Railways HŽPP",
+          "url": "https://www.hzpp.hr/en"
+        },
+        {
+          "label": "Arriva Croatia bus",
+          "url": "https://www.arriva.com.hr/en-us/home"
+        }
+      ]
+    }
   }
 }

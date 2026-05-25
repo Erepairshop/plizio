@@ -1241,5 +1241,56 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "_coords": [
+      17.6939,
+      42.85
+    ],
+    "_region": "HR-19",
+    "specialty_oysters": {
+      "bota_sare_restaurant": "https://www.bota-sare.hr/"
+    },
+    "webcam": {
+      "skyline_dubrovnik_region": "https://www.skylinewebcams.com/en/webcam/hrvatska-croatia/dubrovacko-neretvanska/dubrovnik.html",
+      "windy_croatia": "https://www.windy.com/-Webcams/webcams/1413206408"
+    },
+    "tourism_office": {
+      "ston_municipality": "https://www.ston.hr/",
+      "visit_dubrovnik": "https://www.visitdubrovnik.hr/",
+      "dubrovnik_city": "https://www.dubrovnik.hr/",
+      "croatia_national": "https://www.croatia.hr/"
+    },
+    "transit_official": {
+      "intercity_bus_arriva": "https://www.arriva.com.hr/",
+      "ferry_jadrolinija": "https://www.jadrolinija.hr/",
+      "dubrovnik_local_bus": "https://www.libertasdubrovnik.hr/",
+      "airport_dubrovnik": "https://www.airport-dubrovnik.hr/",
+      "road_status_hak": "https://www.hak.hr/info/stanje-na-cestama/"
+    },
+    "events": {
+      "hrt": "https://www.hrt.hr/",
+      "jutarnji": "https://www.jutarnji.hr/",
+      "tportal": "https://www.tportal.hr/"
+    },
+    "restaurants_booking": {
+      "skyscanner": "https://www.skyscanner.hr/",
+      "osm": "https://www.openstreetmap.org/"
+    },
+    "parking_real_time": {
+      "weather_dhmz": "https://meteo.hr/",
+      "police": "https://mup.gov.hr/",
+      "gov": "https://www.gov.hr/"
+    },
+    "language_tips": {
+      "de": "Kroatisch",
+      "hu": "Horvát",
+      "ro": "Croată",
+      "en": "Croatian"
+    },
+    "best_time_to_visit": {
+      "tz": "Europe/Zagreb",
+      "utc": "UTC+1 (CET) / UTC+2 (CEST)"
+    }
   }
 }

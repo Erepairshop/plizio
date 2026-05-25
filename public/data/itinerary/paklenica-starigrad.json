@@ -814,5 +814,73 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "_id": "paklenica_starigrad",
+    "country": "HR-13",
+    "coords": [
+      15.4658,
+      44.2989
+    ],
+    "events": {
+      "hr": "https://www.rivijera-paklenica.hr/dogadanja",
+      "en": "https://www.rivijera-paklenica.hr/en",
+      "de": "https://www.rivijera-paklenica.hr/en",
+      "hu": "https://www.rivijera-paklenica.hr/en"
+    },
+    "webcam": {
+      "hr": "https://www.skylinewebcams.com/en/webcam/hrvatska.html",
+      "en": "https://www.skylinewebcams.com/en/webcam/hrvatska.html",
+      "de": "https://www.skylinewebcams.com/en/webcam/hrvatska.html",
+      "hu": "https://www.skylinewebcams.com/en/webcam/hrvatska.html"
+    },
+    "restaurants": {
+      "hr": "https://www.rivijera-paklenica.hr/smjestaj",
+      "en": "https://www.rivijera-paklenica.hr/en",
+      "de": "https://www.rivijera-paklenica.hr/en",
+      "hu": "https://www.rivijera-paklenica.hr/en"
+    },
+    "tickets": {
+      "hr": "https://www.parkovihrvatske.hr/ulaznice",
+      "en": "https://www.parkovihrvatske.hr/ulaznice",
+      "de": "https://www.parkovihrvatske.hr/ulaznice",
+      "hu": "https://www.parkovihrvatske.hr/ulaznice"
+    },
+    "parking": {
+      "hr": "https://www.np-paklenica.hr/hr/",
+      "en": "https://np-paklenica.hr/en/",
+      "de": "https://np-paklenica.hr/en/",
+      "hu": "https://np-paklenica.hr/en/"
+    },
+    "language_tips": {
+      "hr": "https://en.wikipedia.org/wiki/Croatian_language",
+      "en": "https://en.wikipedia.org/wiki/Croatian_language",
+      "de": "https://de.wikipedia.org/wiki/Kroatische_Sprache",
+      "hu": "https://hu.wikipedia.org/wiki/Horv%C3%A1t_nyelv"
+    },
+    "best_time": {
+      "hr": "https://meteo.hr/",
+      "en": "https://meteo.hr/",
+      "de": "https://www.windy.com/",
+      "hu": "https://www.windy.com/"
+    },
+    "neighborhood_warnings": {
+      "hr": "https://np-paklenica.hr/en/price-list-en",
+      "en": "https://np-paklenica.hr/en/price-list-en",
+      "de": "https://np-paklenica.hr/en/price-list-en",
+      "hu": "https://np-paklenica.hr/en/price-list-en"
+    },
+    "tourism_office": {
+      "hr": "https://www.np-paklenica.hr/hr/",
+      "en": "https://np-paklenica.hr/en/",
+      "de": "https://np-paklenica.hr/en/",
+      "hu": "https://np-paklenica.hr/en/"
+    },
+    "transit_official": {
+      "hr": "https://www.arriva.com.hr/",
+      "en": "https://getbybus.com/hr/",
+      "de": "https://www.flixbus.hr/",
+      "hu": "https://getbybus.com/hr/"
+    }
   }
 }

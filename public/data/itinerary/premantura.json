@@ -1072,5 +1072,52 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "_coords": [
+      13.9094,
+      44.7967
+    ],
+    "_region": "HR-18",
+    "webcam": {
+      "windy_croatia": "https://www.windy.com/-Webcams/webcams/1606130018",
+      "skyline_croatia": "https://www.skylinewebcams.com/en/webcam/hrvatska-croatia.html"
+    },
+    "tourism_office": {
+      "kamenjak_park": "https://www.kamenjak.hr/",
+      "kamenjak_en": "https://kamenjak.hr/en",
+      "medulin_riviera": "https://www.medulinriviera.info/",
+      "istra_official": "https://www.istra.hr/",
+      "istra_com": "https://www.istra.com/",
+      "croatia_national": "https://www.croatia.hr/"
+    },
+    "transit_official": {
+      "intercity_bus_arriva": "https://www.arriva.com.hr/",
+      "road_status_hak": "https://www.hak.hr/info/stanje-na-cestama/"
+    },
+    "events": {
+      "hrt": "https://www.hrt.hr/",
+      "jutarnji": "https://www.jutarnji.hr/",
+      "tportal": "https://www.tportal.hr/"
+    },
+    "restaurants_booking": {
+      "skyscanner": "https://www.skyscanner.hr/",
+      "osm": "https://www.openstreetmap.org/"
+    },
+    "parking_real_time": {
+      "weather_dhmz": "https://meteo.hr/",
+      "police": "https://mup.gov.hr/",
+      "gov": "https://www.gov.hr/"
+    },
+    "language_tips": {
+      "de": "Kroatisch",
+      "hu": "Horvát",
+      "ro": "Croată",
+      "en": "Croatian"
+    },
+    "best_time_to_visit": {
+      "tz": "Europe/Zagreb",
+      "utc": "UTC+1 (CET) / UTC+2 (CEST)"
+    }
   }
 }

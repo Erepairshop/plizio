@@ -1069,5 +1069,73 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "_id": "vrbnik",
+    "country": "HR-08",
+    "coords": [
+      14.6736,
+      45.0758
+    ],
+    "events": {
+      "hr": "https://vrbnik.hr/hr/novosti/",
+      "en": "https://vrbnik.hr/en/",
+      "de": "https://vrbnik.hr/de/tourismusverband-der-gemeinde-vrbnik/",
+      "hu": "https://vrbnik.hr/en/"
+    },
+    "webcam": {
+      "hr": "https://www.skylinewebcams.com/en/webcam/hrvatska.html",
+      "en": "https://www.skylinewebcams.com/en/webcam/hrvatska.html",
+      "de": "https://www.skylinewebcams.com/en/webcam/hrvatska.html",
+      "hu": "https://www.skylinewebcams.com/en/webcam/hrvatska.html"
+    },
+    "restaurants": {
+      "hr": "https://vrbnik.hr/hr/restorani-konobe-pizzerie-buffeti-fast-food/",
+      "en": "https://vrbnik.hr/en/wine-and-food/",
+      "de": "https://vrbnik.hr/en/wine-and-food/",
+      "hu": "https://vrbnik.hr/en/wine-and-food/"
+    },
+    "tickets": {
+      "hr": "https://vrbnik.hr/hr/vinarije/",
+      "en": "https://vrbnik.hr/en/wine-and-food/",
+      "de": "https://vrbnik.hr/en/wine-and-food/",
+      "hu": "https://vrbnik.hr/en/wine-and-food/"
+    },
+    "parking": {
+      "hr": "https://vrbnik.hr/hr/vrbnik-i-okolica/",
+      "en": "https://vrbnik.hr/en/",
+      "de": "https://vrbnik.hr/en/",
+      "hu": "https://vrbnik.hr/en/"
+    },
+    "language_tips": {
+      "hr": "https://en.wikipedia.org/wiki/Croatian_language",
+      "en": "https://en.wikipedia.org/wiki/Croatian_language",
+      "de": "https://de.wikipedia.org/wiki/Kroatische_Sprache",
+      "hu": "https://hu.wikipedia.org/wiki/Horv%C3%A1t_nyelv"
+    },
+    "best_time": {
+      "hr": "https://meteo.hr/",
+      "en": "https://meteo.hr/",
+      "de": "https://www.windy.com/",
+      "hu": "https://www.windy.com/"
+    },
+    "neighborhood_warnings": {
+      "hr": "https://www.jadrolinija.hr/",
+      "en": "https://www.jadrolinija.hr/",
+      "de": "https://www.jadrolinija.hr/",
+      "hu": "https://www.jadrolinija.hr/"
+    },
+    "tourism_office": {
+      "hr": "https://vrbnik.hr/hr/",
+      "en": "https://vrbnik.hr/en/",
+      "de": "https://vrbnik.hr/de/tourismusverband-der-gemeinde-vrbnik/",
+      "hu": "https://vrbnik.hr/en/"
+    },
+    "transit_official": {
+      "hr": "https://www.arriva.com.hr/",
+      "en": "https://getbybus.com/hr/",
+      "de": "https://www.jadrolinija.hr/",
+      "hu": "https://getbybus.com/hr/"
+    }
   }
 }

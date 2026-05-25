@@ -1098,5 +1098,47 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "name": "Buzet",
+    "country": "HR",
+    "region": "HR-18",
+    "coords": [
+      13.9667,
+      45.408
+    ],
+    "transit_official": "https://www.arriva.com.hr/en-us/home",
+    "transit_app": "https://www.arriva.com.hr/en-us/home",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.tz-buzet.hr/en/",
+    "tourism_office": "https://www.tz-buzet.hr/en/",
+    "webcam": null,
+    "restaurants_booking": "https://www.google.com/maps/search/restaurants+Buzet+truffle",
+    "museum_tickets": "https://www.tz-buzet.hr/en/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Buzet liegt im zweisprachigen Istrien (Kroatisch, Italienisch). In Trueffel-Restaurants und beim Tourismusbuero wird gut Englisch und Italienisch gesprochen, oft auch Deutsch.",
+      "hu": "Buzet a ketnyelvu Isztriaban van (horvat, olasz). A szarvasgomba-eteremben es a turisztikai irodaban jol beszelnek angolul es olaszul, gyakran nemetul is.",
+      "ro": "Buzet se afla in Istria bilingva (croata, italiana). In restaurantele cu trufe si la biroul de turism se vorbeste engleza si italiana, deseori si germana.",
+      "en": "Buzet is in bilingual Istria (Croatian, Italian). Truffle restaurants and the tourist office speak good English and Italian, often German too."
+    },
+    "best_time_to_visit": {
+      "de": "September bis November fuer die weisse Trueffelsaison, mit dem 'Subotina' Trueffelfest im September. Fruehling fuer Wandern und Radfahren im Mirna-Tal, Sommer warm aber ruhiger als die Kueste.",
+      "hu": "Szeptembertol novemberig a feher szarvasgomba szezon, szeptemberben a 'Subotina' szarvasgomba fesztival. Tavasszal turazas, kerekparozas a Mirna volgyben, nyaron meleg de a partnal nyugalmasabb.",
+      "ro": "Septembrie-noiembrie pentru sezonul trufei albe, cu festivalul 'Subotina' in septembrie. Primavara pentru drumetii si bicicleta in valea Mirna, vara este calda dar mai linistita decat coasta.",
+      "en": "September to November for white truffle season, with the 'Subotina' truffle fair in September. Spring is great for hiking and cycling in the Mirna valley; summer is warm but quieter than the coast."
+    },
+    "neighborhood_warnings": {
+      "de": "Altstadt auf einem Huegel mit steilen, glatten Pflastersteinen, festes Schuhwerk noetig. Innerhalb der Mauern kein Verkehr; Parkplaetze nur unten am Berg. Im Sommer Vorsicht vor Trueffel-Touren-Abzocke, nur lizensierte Anbieter buchen.",
+      "hu": "Az ovaros dombon van, mereddek, sikos macskakovekkel, kemeny talpu cipo kell. A falakon belul nincs auto-forgalom; parkolok csak a hegy laban. Nyaron vigyazz a szarvasgomba-tura atveresekkel, csak engedelyezett szolgaltatot foglalj.",
+      "ro": "Orasul vechi pe deal, cu pavaj abrupt si alunecos, e nevoie de incaltaminte solida. In zidurile cetatii nu circula masini, parcari doar la baza dealului. Vara, atentie la 'tururi de trufe' frauduloase, rezerva doar furnizori autorizati.",
+      "en": "Old town sits on a hill with steep, slippery cobbles, wear sturdy shoes. No traffic inside the walls; parking only at the foot of the hill. In summer, beware of unlicensed truffle-tour scams; book only authorised operators."
+    },
+    "_verified": [
+      "https://www.tz-buzet.hr/en/",
+      "https://www.arriva.com.hr/en-us/home",
+      "https://www.istra.hr/en/destinations/buzet"
+    ]
   }
 }

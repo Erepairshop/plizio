@@ -1073,5 +1073,289 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "country": "HR",
+    "region": "HR-19",
+    "coords": [
+      16.895,
+      42.77
+    ],
+    "events": {
+      "de": [
+        {
+          "label": "Lastovo Tourismus Events",
+          "url": "https://www.tz-lastovo.hr/"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Lastovo események",
+          "url": "https://www.tz-lastovo.hr/"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Evenimente Lastovo",
+          "url": "https://www.tz-lastovo.hr/"
+        }
+      ],
+      "en": [
+        {
+          "label": "Lastovo events (Poklad carnival)",
+          "url": "https://www.tz-lastovo.hr/"
+        }
+      ]
+    },
+    "webcam": {
+      "de": [
+        {
+          "label": "DHMZ Wetter Kroatien",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Horvát meteo szolgálat",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Serviciul meteo croat",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "en": [
+        {
+          "label": "Croatian Meteo Service DHMZ",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ]
+    },
+    "restaurants": {
+      "de": [
+        {
+          "label": "Lastovo Gastronomie (TZ)",
+          "url": "https://www.tz-lastovo.hr/"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Lastovo éttermek (TZ)",
+          "url": "https://www.tz-lastovo.hr/"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Restaurante Lastovo (TZ)",
+          "url": "https://www.tz-lastovo.hr/"
+        }
+      ],
+      "en": [
+        {
+          "label": "Lastovo restaurants (TZ)",
+          "url": "https://www.tz-lastovo.hr/"
+        }
+      ]
+    },
+    "tickets": {
+      "de": [
+        {
+          "label": "Jadrolinija Ticket",
+          "url": "https://www.jadrolinija.hr/en/ferry-croatia"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Jadrolinija jegy",
+          "url": "https://www.jadrolinija.hr/en/ferry-croatia"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Bilete Jadrolinija",
+          "url": "https://www.jadrolinija.hr/en/ferry-croatia"
+        }
+      ],
+      "en": [
+        {
+          "label": "Jadrolinija tickets",
+          "url": "https://www.jadrolinija.hr/en/ferry-croatia"
+        }
+      ]
+    },
+    "parking": {
+      "de": [
+        {
+          "label": "Lastovo TZ Hinweise",
+          "url": "https://www.tz-lastovo.hr/"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Lastovo parkolás info",
+          "url": "https://www.tz-lastovo.hr/"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Parcare Lastovo",
+          "url": "https://www.tz-lastovo.hr/"
+        }
+      ],
+      "en": [
+        {
+          "label": "Lastovo parking info (TZ)",
+          "url": "https://www.tz-lastovo.hr/"
+        }
+      ]
+    },
+    "language_tips": {
+      "de": [
+        {
+          "label": "Wikipedia Lastovo",
+          "url": "https://en.wikipedia.org/wiki/Lastovo"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Wikipédia Lastovo",
+          "url": "https://en.wikipedia.org/wiki/Lastovo"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Wikipedia Lastovo",
+          "url": "https://en.wikipedia.org/wiki/Lastovo"
+        }
+      ],
+      "en": [
+        {
+          "label": "Wikipedia Lastovo",
+          "url": "https://en.wikipedia.org/wiki/Lastovo"
+        }
+      ]
+    },
+    "best_time": {
+      "de": [
+        {
+          "label": "DHMZ Klimadaten",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "hu": [
+        {
+          "label": "DHMZ klíma",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "ro": [
+        {
+          "label": "DHMZ climă",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "en": [
+        {
+          "label": "DHMZ climate data",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ]
+    },
+    "neighborhood_warnings": {
+      "de": [
+        {
+          "label": "Lastovo TZ Sicherheit",
+          "url": "https://www.tz-lastovo.hr/"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Lastovo biztonsági infó",
+          "url": "https://www.tz-lastovo.hr/"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Informații siguranță Lastovo",
+          "url": "https://www.tz-lastovo.hr/"
+        }
+      ],
+      "en": [
+        {
+          "label": "Lastovo safety info (TZ)",
+          "url": "https://www.tz-lastovo.hr/"
+        }
+      ]
+    },
+    "tourism_office": {
+      "de": [
+        {
+          "label": "Tourismusverband Lastovo",
+          "url": "https://www.tz-lastovo.hr/"
+        },
+        {
+          "label": "Wikipedia Lastovo",
+          "url": "https://en.wikipedia.org/wiki/Lastovo"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Lastovo turisztikai iroda",
+          "url": "https://www.tz-lastovo.hr/"
+        },
+        {
+          "label": "Wikipédia Lastovo",
+          "url": "https://en.wikipedia.org/wiki/Lastovo"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Biroul de turism Lastovo",
+          "url": "https://www.tz-lastovo.hr/"
+        },
+        {
+          "label": "Wikipedia Lastovo",
+          "url": "https://en.wikipedia.org/wiki/Lastovo"
+        }
+      ],
+      "en": [
+        {
+          "label": "Lastovo Tourist Board",
+          "url": "https://www.tz-lastovo.hr/"
+        },
+        {
+          "label": "Wikipedia: Lastovo",
+          "url": "https://en.wikipedia.org/wiki/Lastovo"
+        }
+      ]
+    },
+    "transit_official": {
+      "de": [
+        {
+          "label": "Jadrolinija Fähre Split-Lastovo",
+          "url": "https://www.jadrolinija.hr/en/ferry-croatia"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Jadrolinija komp menetrend",
+          "url": "https://www.jadrolinija.hr/en/ferry-croatia"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Jadrolinija feribot Split-Lastovo",
+          "url": "https://www.jadrolinija.hr/en/ferry-croatia"
+        }
+      ],
+      "en": [
+        {
+          "label": "Jadrolinija ferry timetable",
+          "url": "https://www.jadrolinija.hr/en/ferry-croatia"
+        }
+      ]
+    }
   }
 }

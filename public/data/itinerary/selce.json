@@ -846,5 +846,15 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Selce,_Croatia",
+      "hr": "https://hr.wikipedia.org/wiki/Selce"
+    },
+    "regional_tourism": "https://www.rivieracrikvenica.com/",
+    "national_tourism": "https://croatia.hr/",
+    "notes": "Selce belongs to Crikvenica municipality; no standalone TZ site (tz-selce.hr ECONNREFUSED); Riviera Crikvenica covers Jadranovo/Dramalj/Crikvenica/Selce",
+    "tourism_office": "https://www.rivieracrikvenica.com/"
   }
 }

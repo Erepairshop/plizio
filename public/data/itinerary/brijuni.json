@@ -1000,5 +1000,49 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "name": "Brijuni National Park",
+    "country": "HR",
+    "region": "HR-18",
+    "coords": [
+      13.7553,
+      44.9133
+    ],
+    "transit_official": "https://www.np-brijuni.hr/en",
+    "transit_app": "https://www.arriva.com.hr/en-us/home",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.np-brijuni.hr/en",
+    "tourism_office": "https://www.istra.hr/en",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska-croatia/istria/brijuni.html",
+    "restaurants_booking": "https://www.google.com/maps/search/restaurants+Fazana+Brijuni",
+    "museum_tickets": "https://www.np-brijuni.hr/en/visit/tickets",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Brijuni gehoert zu Istrien, einer offiziell zweisprachigen Region (Kroatisch und Italienisch). In Fazana und im Park wird haeufig Englisch, Deutsch und Italienisch gesprochen.",
+      "hu": "Brijuni Isztriahoz tartozik, hivatalosan ketnyelvu (horvat es olasz). Fazanaban es a parkban gyakran beszelnek angolul, nemetul es olaszul.",
+      "ro": "Brijuni apartine Istriei, regiune oficial bilingva (croata si italiana). In Fazana si in parc se vorbeste frecvent engleza, germana si italiana.",
+      "en": "Brijuni belongs to Istria, an officially bilingual region (Croatian and Italian). English, German and Italian are commonly spoken in Fazana and in the park."
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni und September. Im Hochsommer sind die gefuehrten Touren oft ausgebucht, am besten Tickets im Voraus online reservieren. Boote ab Fazana fahren ganzjaehrig, eingeschraenkt im Winter.",
+      "hu": "Majus, junius, szeptember a legjobb. Csucsszezonban a vezetett turak gyorsan elfogynak, jegyet erdemes online elore lefoglalni. A hajok Fazanabol egesz evben kozlekednek, telen korlatozottan.",
+      "ro": "Mai, iunie si septembrie sunt cele mai bune. In varful sezonului turele ghidate se vand repede, rezerva biletele online din timp. Vapoarele din Fazana circula tot anul, mai rar iarna.",
+      "en": "May, June and September are best. Guided tours sell out in peak summer, book tickets online in advance. Boats from Fazana run year-round but less frequently in winter."
+    },
+    "neighborhood_warnings": {
+      "de": "Auf den Inseln nur in begleiteten Zonen bewegen, Wildtiere (Hirsche, Pfauen, Safari-Park) nicht fuettern. Verbindungsboot von Fazana ist die einzige legale Zufahrt, private Anlandung verboten.",
+      "hu": "A szigeteken csak a kijelolt zonakban mozogj, a vadallatokat (szarvas, pava, szafari park) ne etesd. A Fazanai komp az egyetlen legalis bejut, magan kikotes tilos.",
+      "ro": "Pe insule deplaseaza-te doar in zonele permise, nu hrani animalele (cerbi, paun, safari). Vaporul din Fazana este unica modalitate legala de acces, debarcarea privata este interzisa.",
+      "en": "On the islands stay in permitted zones; do not feed the wildlife (deer, peacocks, safari park). The Fazana ferry is the only legal access; private landings are forbidden."
+    },
+    "_verified": [
+      "https://www.np-brijuni.hr/en",
+      "https://www.np-brijuni.hr/en/visit/tickets",
+      "https://www.arriva.com.hr/en-us/home",
+      "https://www.istra.hr/en",
+      "https://www.skylinewebcams.com/en/webcam/hrvatska-croatia/istria/brijuni.html"
+    ]
   }
 }

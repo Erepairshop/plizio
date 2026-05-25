@@ -987,5 +987,45 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "city_id": "mlini",
+    "name": "Mlini",
+    "county": "HR-19",
+    "coords": [
+      18.1731,
+      42.6306
+    ],
+    "tourism_office": {
+      "url": "https://www.visitdubrovnik.hr/",
+      "verified": true,
+      "note": "Mlini is in Zupa dubrovacka municipality; local TZ Zupa site offline at probe, regional county TZ covers it"
+    },
+    "wikipedia": "https://en.wikipedia.org/wiki/Mlini",
+    "weather": "https://meteo.hr/",
+    "transport": {
+      "url": "https://www.libertasdubrovnik.hr/",
+      "verified": true,
+      "note": "Libertas city bus line 10 Dubrovnik-Cavtat stops at Mlini; also small boat-taxis from Dubrovnik Old Port in season"
+    },
+    "language_tips": {
+      "de": "Hotels und Restaurants sprechen Deutsch und Englisch, Apartments oft nur Englisch.",
+      "hu": "A szallodak es ettermek beszelnek nemetul es angolul, apartmanokban gyakran csak angolul.",
+      "ro": "Hotelurile si restaurantele vorbesc germana si engleza, in apartamente deseori doar engleza.",
+      "en": "Hotels and restaurants speak German and English, apartments often English only."
+    },
+    "best_time": {
+      "de": "Mai bis Oktober; ruhiger als Dubrovnik-Altstadt, ideal als Basis fuer Tagesausfluege.",
+      "hu": "Majus es oktober kozott; nyugodtabb mint Dubrovnik obvaros, ideal kiindulopontnak.",
+      "ro": "Mai-octombrie; mai linistit decat orasul vechi Dubrovnik, baza ideala pentru excursii.",
+      "en": "May to October; quieter than Dubrovnik Old Town, ideal base for day trips."
+    },
+    "neighborhood_warnings": {
+      "de": "Naehe Flughafen Dubrovnik (Anfluglaerm moeglich); Bus 10 nach Dubrovnik im Sommer oft voll.",
+      "hu": "Kozel a dubrovniki repuloter (leszallasi zaj lehet); a 10-es busz Dubrovnik fele nyaron gyakran zsufolt.",
+      "ro": "Aproape de aeroportul Dubrovnik (zgomot de aterizare posibil); autobuzul 10 spre Dubrovnik vara aglomerat.",
+      "en": "Close to Dubrovnik Airport (landing noise possible); bus 10 to Dubrovnik often packed in summer."
+    },
+    "transit_official": null
   }
 }

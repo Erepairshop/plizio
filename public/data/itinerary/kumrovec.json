@@ -904,5 +904,18 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Kumrovec",
+      "de": "https://de.wikipedia.org/wiki/Kumrovec",
+      "hu": "https://hu.wikipedia.org/wiki/Kumrovec",
+      "hr": "https://hr.wikipedia.org/wiki/Kumrovec"
+    },
+    "museum": "https://www.mss.mhz.hr/",
+    "regional_tourism": "https://www.visitzagorje.hr/",
+    "national_tourism": "https://croatia.hr/",
+    "notes": "Tito's birthplace; Staro Selo open-air ethno museum (mss.mhz.hr = Muzej Staro selo, part of Muzeji Hrvatskog zagorja); largest in-situ ethnographic museum in Croatia",
+    "tourism_office": "https://www.kumrovec.hr/"
   }
 }

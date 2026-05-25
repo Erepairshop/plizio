@@ -1138,5 +1138,71 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "city_hall": {
+      "url": "https://www.mali-losinj.hr/",
+      "label": {
+        "de": "Stadt Mali Lošinj (Verwaltung)",
+        "hu": "Mali Lošinj város (közigazgatás)",
+        "ro": "Primăria Mali Lošinj",
+        "en": "City of Mali Lošinj"
+      }
+    },
+    "national_tourism": {
+      "url": "https://croatia.hr/en-gb",
+      "label": {
+        "de": "Kroatische Zentrale für Tourismus",
+        "hu": "Horvát Idegenforgalmi Hivatal",
+        "ro": "Oficiul Naţional de Turism al Croaţiei",
+        "en": "Croatian National Tourist Board"
+      }
+    },
+    "weather": {
+      "url": "https://meteo.hr/index_en.php",
+      "label": {
+        "de": "DHMZ Wetterdienst Kroatien",
+        "hu": "DHMZ horvát meteorológiai szolgálat",
+        "ro": "Serviciul meteo croat DHMZ",
+        "en": "DHMZ Croatian Meteorological Service"
+      }
+    },
+    "airport": {
+      "url": "https://rijeka-airport.hr/",
+      "label": {
+        "de": "Flughafen Rijeka (RJK, Krk)",
+        "hu": "Rijeka repülőtér (RJK, Krk)",
+        "ro": "Aeroportul Rijeka (RJK, Krk)",
+        "en": "Rijeka Airport (RJK, Krk)"
+      }
+    },
+    "roads": {
+      "url": "https://hak.hr/en/",
+      "label": {
+        "de": "HAK Verkehrsinfo Kroatien",
+        "hu": "HAK horvát közlekedési info",
+        "ro": "HAK info trafic Croaţia",
+        "en": "HAK Croatian road information"
+      }
+    },
+    "_city_name": "Susak",
+    "tourism_office": {
+      "url": "https://www.visitlosinj.hr/en/",
+      "label": {
+        "de": "Visit Lošinj (Tourismusverband Region)",
+        "hu": "Visit Lošinj (regionális turisztikai iroda)",
+        "ro": "Visit Lošinj (consiliul turistic regional)",
+        "en": "Visit Lošinj (regional tourist board)"
+      }
+    },
+    "transit_official": {
+      "url": "https://www.jadrolinija.hr/en",
+      "label": {
+        "de": "Jadrolinija Fähre Mali Lošinj–Susak",
+        "hu": "Jadrolinija komp Mali Lošinj–Susak",
+        "ro": "Feribot Jadrolinija Mali Lošinj–Susak",
+        "en": "Jadrolinija ferry Mali Lošinj–Susak"
+      }
+    }
   }
 }

@@ -1147,5 +1147,51 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "name": "Varazdin",
+    "country": "HR",
+    "region": "HR-02",
+    "coords": [
+      16.3333,
+      46.3
+    ],
+    "transit_official": "https://www.hzpp.hr/en",
+    "transit_app": "https://www.arriva.com.hr/en-us/home",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://visitvarazdin.hr/en/events/",
+    "tourism_office": "https://visitvarazdin.hr/en/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska-croatia/varazdin.html",
+    "restaurants_booking": "https://www.google.com/maps/search/restaurants+Varazdin",
+    "museum_tickets": "https://visitvarazdin.hr/en/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "In Varazdin wird Kroatisch gesprochen; durch die Naehe zu Slowenien, Ungarn und Oesterreich verstehen viele Menschen Deutsch und Englisch. In Hotels und Restaurants ist Englisch fast immer ausreichend.",
+      "hu": "Varazdinban horvatul beszelnek; Szlovenia, Magyarorszag, Ausztria kozelsege miatt sokan ertenek nemetul es angolul. Szallodaban, etteremben az angol szinte mindig elegendo.",
+      "ro": "In Varazdin se vorbeste croata; datorita apropierii de Slovenia, Ungaria si Austria multi inteleg germana si engleza. La hotel si restaurant engleza este aproape intotdeauna suficienta.",
+      "en": "Croatian is spoken in Varazdin; because of proximity to Slovenia, Hungary and Austria many locals also understand German and English. English is almost always enough at hotels and restaurants."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis September; Hoehepunkt ist das 'Spancirfest' (Strassenkunstfest) Ende August / Anfang September und das 'Varazdinske barokne veceri' (Barocknaechte) Ende September.",
+      "hu": "Majus es szeptember kozott a legjobb; csucs a 'Spancirfest' (utcafesztival) augusztus vegen / szeptember elejen es a 'Varazdinske barokne veceri' (barokk estek) szeptember vegen.",
+      "ro": "Mai-septembrie este cel mai bun; varful este 'Spancirfest' (festival stradal) la finalul lui august / inceputul lui septembrie si 'Varazdinske barokne veceri' (Serile baroce) la finalul lui septembrie.",
+      "en": "May to September; highlights are 'Spancirfest' street-arts festival in late August/early September and the 'Varazdin Baroque Evenings' in late September."
+    },
+    "neighborhood_warnings": {
+      "de": "Varazdin gilt als sehr sicher. Die Altstadt ist Fussgaengerzone, Autos nur ueber gebuehrenpflichtige Parkringe. Beim Schloss/Stari Grad auf den feuchten Burggraben-Pfaden im Herbst aufpassen.",
+      "hu": "Varazdin nagyon biztonsagos. Az ovaros sztalo, autoval csak fizetos parkologyuruvel. A var/Stari Grad korul oszi nedves arokparti utak csuszosak lehetnek.",
+      "ro": "Varazdin este foarte sigur. Centrul vechi este pietonal, accesul auto se face prin inele de parcare cu plata. La castel/Stari Grad atentie la potecile umede din santul cetatii toamna.",
+      "en": "Varazdin is very safe. The old town is pedestrian-only; cars must use paid parking rings. Around the castle/Stari Grad, watch for slippery moat-side paths in autumn."
+    },
+    "_verified": [
+      "https://visitvarazdin.hr/en/",
+      "https://visitvarazdin.hr/en/events/",
+      "https://www.spancirfest.com/en/",
+      "https://www.hzpp.hr/en",
+      "https://www.arriva.com.hr/en-us/home",
+      "https://www.skylinewebcams.com/en/webcam/hrvatska-croatia/varazdin.html",
+      "https://www.varazdin.hr"
+    ]
   }
 }

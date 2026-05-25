@@ -1101,5 +1101,305 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "country": "HR",
+    "region": "HR-18",
+    "coords": [
+      14.05,
+      45.3506
+    ],
+    "events": {
+      "de": [
+        {
+          "label": "Hum Veranstaltungen (Istra TZ)",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Hum események",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Evenimente Hum",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        }
+      ],
+      "en": [
+        {
+          "label": "Hum events (biska festival Oct)",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        }
+      ]
+    },
+    "webcam": {
+      "de": [
+        {
+          "label": "DHMZ Wetter",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "hu": [
+        {
+          "label": "DHMZ időjárás",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "ro": [
+        {
+          "label": "DHMZ vreme",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "en": [
+        {
+          "label": "Croatian Meteo DHMZ",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ]
+    },
+    "restaurants": {
+      "de": [
+        {
+          "label": "Hum Gastronomie",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Hum éttermek",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Restaurante Hum",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        }
+      ],
+      "en": [
+        {
+          "label": "Hum restaurants",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        }
+      ]
+    },
+    "tickets": {
+      "de": [
+        {
+          "label": "Istra TZ Hum",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Isztria TZ Hum",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Istria TZ Hum",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        }
+      ],
+      "en": [
+        {
+          "label": "Istria TB Hum info",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        }
+      ]
+    },
+    "parking": {
+      "de": [
+        {
+          "label": "Hum Parkplatz Info",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Hum parkolás",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Parcare Hum",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        }
+      ],
+      "en": [
+        {
+          "label": "Hum parking info",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        }
+      ]
+    },
+    "language_tips": {
+      "de": [
+        {
+          "label": "Wikipedia Hum",
+          "url": "https://en.wikipedia.org/wiki/Hum,_Istria_County"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Wikipédia Hum",
+          "url": "https://en.wikipedia.org/wiki/Hum,_Istria_County"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Wikipedia Hum",
+          "url": "https://en.wikipedia.org/wiki/Hum,_Istria_County"
+        }
+      ],
+      "en": [
+        {
+          "label": "Wikipedia Hum",
+          "url": "https://en.wikipedia.org/wiki/Hum,_Istria_County"
+        }
+      ]
+    },
+    "best_time": {
+      "de": [
+        {
+          "label": "DHMZ Klima",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "hu": [
+        {
+          "label": "DHMZ klíma",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "ro": [
+        {
+          "label": "DHMZ climă",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "en": [
+        {
+          "label": "DHMZ climate",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ]
+    },
+    "neighborhood_warnings": {
+      "de": [
+        {
+          "label": "Hum Sicherheit (Istra TZ)",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Hum biztonság",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Siguranță Hum",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        }
+      ],
+      "en": [
+        {
+          "label": "Hum safety (Istra TB)",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        }
+      ]
+    },
+    "tourism_office": {
+      "de": [
+        {
+          "label": "Istrien TZ - Hum",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        },
+        {
+          "label": "Zentralistrien TZ",
+          "url": "https://www.central-istria.com/en/"
+        },
+        {
+          "label": "Wikipedia Hum",
+          "url": "https://en.wikipedia.org/wiki/Hum,_Istria_County"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Isztria TZ - Hum",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        },
+        {
+          "label": "Közép-Isztria TZ",
+          "url": "https://www.central-istria.com/en/"
+        },
+        {
+          "label": "Wikipédia Hum",
+          "url": "https://en.wikipedia.org/wiki/Hum,_Istria_County"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Istria TZ - Hum",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        },
+        {
+          "label": "Istria Centrală TZ",
+          "url": "https://www.central-istria.com/en/"
+        },
+        {
+          "label": "Wikipedia Hum",
+          "url": "https://en.wikipedia.org/wiki/Hum,_Istria_County"
+        }
+      ],
+      "en": [
+        {
+          "label": "Istria Tourist Board - Hum",
+          "url": "https://www.istra.hr/en/destinations/hum"
+        },
+        {
+          "label": "Central Istria Tourist Board",
+          "url": "https://www.central-istria.com/en/"
+        },
+        {
+          "label": "Wikipedia: Hum",
+          "url": "https://en.wikipedia.org/wiki/Hum,_Istria_County"
+        }
+      ]
+    },
+    "transit_official": {
+      "de": [
+        {
+          "label": "Arriva Kroatien Bus",
+          "url": "https://www.arriva.com.hr/en-us/home"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Arriva Horvátország",
+          "url": "https://www.arriva.com.hr/en-us/home"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Arriva Croația",
+          "url": "https://www.arriva.com.hr/en-us/home"
+        }
+      ],
+      "en": [
+        {
+          "label": "Arriva Croatia bus",
+          "url": "https://www.arriva.com.hr/en-us/home"
+        }
+      ]
+    }
   }
 }

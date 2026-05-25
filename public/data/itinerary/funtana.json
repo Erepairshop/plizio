@@ -984,5 +984,289 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "country": "HR",
+    "region": "HR-18",
+    "coords": [
+      13.6022,
+      45.1789
+    ],
+    "events": {
+      "de": [
+        {
+          "label": "Funtana Veranstaltungen",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Funtana események",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Evenimente Funtana",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        }
+      ],
+      "en": [
+        {
+          "label": "Funtana events",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        }
+      ]
+    },
+    "webcam": {
+      "de": [
+        {
+          "label": "DHMZ Wetter",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "hu": [
+        {
+          "label": "DHMZ időjárás",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "ro": [
+        {
+          "label": "DHMZ vreme",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "en": [
+        {
+          "label": "DHMZ weather",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ]
+    },
+    "restaurants": {
+      "de": [
+        {
+          "label": "Funtana Gastronomie",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Funtana éttermek",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Restaurante Funtana",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        }
+      ],
+      "en": [
+        {
+          "label": "Funtana restaurants",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        }
+      ]
+    },
+    "tickets": {
+      "de": [
+        {
+          "label": "Funtana TZ Tickets",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Funtana TZ jegyek",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Bilete Funtana",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        }
+      ],
+      "en": [
+        {
+          "label": "Funtana TB excursions/tickets",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        }
+      ]
+    },
+    "parking": {
+      "de": [
+        {
+          "label": "Funtana Parken",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Funtana parkolás",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Parcare Funtana",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        }
+      ],
+      "en": [
+        {
+          "label": "Funtana parking info",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        }
+      ]
+    },
+    "language_tips": {
+      "de": [
+        {
+          "label": "Wikipedia Funtana (HR/IT)",
+          "url": "https://en.wikipedia.org/wiki/Funtana"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Wikipédia Funtana",
+          "url": "https://en.wikipedia.org/wiki/Funtana"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Wikipedia Funtana",
+          "url": "https://en.wikipedia.org/wiki/Funtana"
+        }
+      ],
+      "en": [
+        {
+          "label": "Wikipedia Funtana (HR/IT bilingual)",
+          "url": "https://en.wikipedia.org/wiki/Funtana"
+        }
+      ]
+    },
+    "best_time": {
+      "de": [
+        {
+          "label": "DHMZ Klima",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "hu": [
+        {
+          "label": "DHMZ klíma",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "ro": [
+        {
+          "label": "DHMZ climă",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ],
+      "en": [
+        {
+          "label": "DHMZ climate",
+          "url": "https://meteo.hr/index_en.php"
+        }
+      ]
+    },
+    "neighborhood_warnings": {
+      "de": [
+        {
+          "label": "Funtana Sicherheit",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Funtana biztonság",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Siguranță Funtana",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        }
+      ],
+      "en": [
+        {
+          "label": "Funtana safety (Istria TB)",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        }
+      ]
+    },
+    "tourism_office": {
+      "de": [
+        {
+          "label": "Istrien TZ - Funtana",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        },
+        {
+          "label": "Wikipedia Funtana",
+          "url": "https://en.wikipedia.org/wiki/Funtana"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Isztria TZ - Funtana",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        },
+        {
+          "label": "Wikipédia Funtana",
+          "url": "https://en.wikipedia.org/wiki/Funtana"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Istria TZ - Funtana",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        },
+        {
+          "label": "Wikipedia Funtana",
+          "url": "https://en.wikipedia.org/wiki/Funtana"
+        }
+      ],
+      "en": [
+        {
+          "label": "Istria Tourist Board - Funtana",
+          "url": "https://www.istra.hr/en/destinations/funtana"
+        },
+        {
+          "label": "Wikipedia: Funtana",
+          "url": "https://en.wikipedia.org/wiki/Funtana"
+        }
+      ]
+    },
+    "transit_official": {
+      "de": [
+        {
+          "label": "Arriva Kroatien Bus",
+          "url": "https://www.arriva.com.hr/en-us/home"
+        }
+      ],
+      "hu": [
+        {
+          "label": "Arriva Horvátország",
+          "url": "https://www.arriva.com.hr/en-us/home"
+        }
+      ],
+      "ro": [
+        {
+          "label": "Arriva Croația",
+          "url": "https://www.arriva.com.hr/en-us/home"
+        }
+      ],
+      "en": [
+        {
+          "label": "Arriva Croatia bus",
+          "url": "https://www.arriva.com.hr/en-us/home"
+        }
+      ]
+    }
   }
 }
