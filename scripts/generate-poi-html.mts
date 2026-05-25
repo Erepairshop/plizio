@@ -20,7 +20,17 @@ import fs from "node:fs";
 import path from "node:path";
 import * as _slugsNs from "../lib/seo/slugs";
 import type { POI } from "../lib/visualLab/data/poi";
-import { recomputeItineraryTimings } from "../lib/itinerary/timing-config.ts";
+// timing-config loaded dynamically below to avoid Node 24 ESM static-resolver issue
+let recomputeItineraryTimings: (itin: any, tier?: number) => void = () => {};
+try {
+  const tc = await import("../lib/itinerary/timing-config.ts");
+  recomputeItineraryTimings = tc.recomputeItineraryTimings;
+} catch {
+  try {
+    const tc2 = await import("../lib/itinerary/timing-config");
+    recomputeItineraryTimings = tc2.recomputeItineraryTimings;
+  } catch {}
+}
 
 // tsx ESM treats the TS module as CJS-wrapped → real exports on .default
 const slugs: any = (_slugsNs as any).default ?? _slugsNs;
