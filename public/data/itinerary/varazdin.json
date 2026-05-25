@@ -320,6 +320,442 @@
           "Comfortable shoes are essential for the cobblestone streets.",
           "On Saturdays, the city is particularly lively."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ihr Tag beginnt im Herzen des Barock. Am Korzo genießen Sie die Morgensonne, bevor Sie das Rathaus und die prachtvolle Kathedrale besichtigen. Mittags erkunden Sie die schneeweiße Festung Stari Grad, das Wahrzeichen der Stadt. Der Nachmittag gehört der Kunst im Palais Sermage und einem meditativen Spaziergang durch den berühmten, parkähnlichen Friedhof, ein Juwel der Gartenkunst.",
+            "hu": "A napot a barokk szívében kezdi. A Korzón élvezze a reggeli napsütést, mielőtt megtekintené a városházát és a pompás székesegyházat. Délben fedezze fel a város jelképét, a hófehér Stari Grad várkastélyt. A délután a művészeté a Sermage-palotában, majd tegyen egy meditatív sétát a híres, parkszerű temetőben, amely a kertépítészet igazi gyöngyszeme.",
+            "ro": "Ziua începe în inima barocului. Pe Korzo vă bucurați de soarele dimineții înainte de a vizita primăria și catedrala magnifică. La prânz, explorați fortăreața albă Stari Grad, simbolul orașului. După-amiaza este dedicată artei în Palatul Sermage și unei plimbări meditative prin faimosul cimitir-parc, o bijuterie a arhitecturii peisagistice.",
+            "en": "Your day begins in the heart of Baroque. Enjoy the morning sun on Korzo before visiting the Town Hall and the magnificent Cathedral. At noon, explore the snow-white Stari Grad fortress, the city's landmark. The afternoon belongs to art at Palais Sermage and a meditative walk through the famous park-like cemetery, a jewel of garden architecture."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "König-Tomislav-Platz (Korzo)",
+                "hu": "Tomiszláv király tér (Korzo)",
+                "ro": "Piața Regele Tomislav (Korzo)",
+                "en": "King Tomislav Square (Korzo)"
+              },
+              "tip_5lang": {
+                "de": "Trinken Sie einen Kaffee in den ältesten Cafés der Stadt.",
+                "hu": "Igyon egy kávét a város legrégebbi kávéházaiban.",
+                "ro": "Beți o cafea în cele mai vechi cafenele din oraș.",
+                "en": "Have a coffee in the city's oldest coffee houses."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Wachwechsel der Purgari am Samstagvormittag.",
+                "hu": "Szombat délelőtt nézze meg a Purgari őrségváltást.",
+                "ro": "Urmăriți schimbarea gărzii Purgari sâmbătă dimineața.",
+                "en": "Watch the Purgari guard change on Saturday mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Mariä Himmelfahrt",
+                "hu": "Szűz Mária Mennybemenetele Székesegyház",
+                "ro": "Catedrala Adormirea Maicii Domnului",
+                "en": "Cathedral of the Assumption"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das prachtvolle vergoldete Altarbild.",
+                "hu": "Csodálja meg a pompás aranyozott oltárképet.",
+                "ro": "Admirați altarul aurit magnific.",
+                "en": "Admire the magnificent gilded altar piece."
+              }
+            },
+            {
+              "name": {
+                "de": "Stari Grad (Altes Schloss)",
+                "hu": "Stari Grad (Öregvár)",
+                "ro": "Stari Grad (Cetatea Veche)",
+                "en": "Stari Grad (Old Castle)"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie über die Erdwälle für den besten Blick auf die Burg.",
+                "hu": "Sétáljon végig a földsáncokon a legjobb várkilátásért.",
+                "ro": "Plimbați-vă pe valurile de pământ pentru cea mai bună vedere.",
+                "en": "Walk along the earthworks for the best castle view."
+              }
+            },
+            {
+              "name": {
+                "de": "Palais Sermage",
+                "hu": "Sermage-palota",
+                "ro": "Palatul Sermage",
+                "en": "Sermage Palace"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Galerie der alten und neuen Meister im Inneren.",
+                "hu": "Látogassa meg a régi és új mesterek galériáját az épületben.",
+                "ro": "Vizitați galeria vechilor și noilor maeștri din interior.",
+                "en": "Visit the gallery of old and new masters inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Friedhof von Varaždin",
+                "hu": "Varasdi temető",
+                "ro": "Cimitirul din Varaždin",
+                "en": "Varaždin Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Ein Meisterwerk der Gartenarchitektur, perfekt für Ruhe.",
+                "hu": "A kertépítészet remekműve, tökéletes a nyugalomhoz.",
+                "ro": "O capodoperă a arhitecturii peisagistice, perfectă pentru liniște.",
+                "en": "A masterpiece of garden architecture, perfect for peace."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Varaždinski klipići",
+                "tip": "Traditionelle handgemachte Hefeteigstangen."
+              },
+              {
+                "name": "Restoran Verglec",
+                "tip": "Probieren Sie Ente mit Mlinci in authentischer Atmosphäre."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Varaždini klipići",
+                "tip": "Hagyományos kézzel készített sós kifli."
+              },
+              {
+                "name": "Verglec Étterem",
+                "tip": "Kóstolja meg a kacsát mlinci-vel autentikus környezetben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Varaždinski klipići",
+                "tip": "Batoane tradiționale de aluat făcute manual."
+              },
+              {
+                "name": "Restaurant Verglec",
+                "tip": "Încercați rața cu mlinci într-o atmosferă autentică."
+              }
+            ],
+            "en": [
+              {
+                "name": "Varaždinski klipići",
+                "tip": "Traditional handmade savory dough sticks."
+              },
+              {
+                "name": "Verglec Restaurant",
+                "tip": "Try the duck with mlinci in an authentic setting."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Varaždiner Friedhof",
+                "tip": "Stille Alleen zwischen Thuja-Hecken.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Schlossgraben",
+                "tip": "Grüne Wiesen rund um die Festung.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Varasdi temető",
+                "tip": "Csendes sugárutak tuja sövények között.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Várárok",
+                "tip": "Zöld gyepek a várkastély körül.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cimitirul Varaždin",
+                "tip": "Alei liniștite printre garduri vii de tuia.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Șanțul Cetății",
+                "tip": "Pajiști verzi în jurul fortăreței.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Varaždin Cemetery",
+                "tip": "Quiet avenues between thuja hedges.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Castle Moat",
+                "tip": "Green meadows surrounding the fortress.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Varaždiner Marktplatz",
+                "tip": "Frisches Obst und lokaler Käse."
+              },
+              {
+                "name": "Atelier der Engel",
+                "tip": "Handgefertigte Keramikengel als Souvenir."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Varasdi piac",
+                "tip": "Friss gyümölcsök és helyi sajtok."
+              },
+              {
+                "name": "Angyalok műhelye",
+                "tip": "Kézzel készített kerámia angyalok szuvenírnek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața Varaždin",
+                "tip": "Fructe proaspete și brânză locală."
+              },
+              {
+                "name": "Atelierul Îngerilor",
+                "tip": "Îngeri din ceramică lucrați manual ca suvenir."
+              }
+            ],
+            "en": [
+              {
+                "name": "Varaždin Market",
+                "tip": "Fresh fruit and local cheeses."
+              },
+              {
+                "name": "Atelier of Angels",
+                "tip": "Handmade ceramic angels as souvenirs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Das Stadtzentrum ist komplett verkehrsberuhigt.",
+              "Achten Sie auf die 'Engel' an den Hausfassaden.",
+              "Bequemes Schuhwerk für das Kopfsteinpflaster ist wichtig.",
+              "Samstags ist die Stadt besonders lebendig."
+            ],
+            "hu": [
+              "A városközpont teljesen gyalogosövezet.",
+              "Figyeljen a házfalakon megbújó 'angyalokra'.",
+              "Kényelmes cipő ajánlott a macskaköves utcákhoz.",
+              "Szombatonként a város különösen élénk."
+            ],
+            "ro": [
+              "Centrul orașului este complet pietonal.",
+              "Căutați 'îngerii' ascunși pe fațadele caselor.",
+              "Încălțămintea comodă este esențială pentru pavaj.",
+              "Sâmbăta orașul este deosebit de plin de viață."
+            ],
+            "en": [
+              "The city center is entirely pedestrian-friendly.",
+              "Look out for the 'angels' hidden on building facades.",
+              "Comfortable shoes are essential for the cobblestone streets.",
+              "On Saturdays, the city is particularly lively."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Varaždin bei Regen beginnt am Korzo, wo Arkaden Schutz bieten. Vormittags erkunden wir das Rathaus und die Kathedrale. Mittags bietet die Burg Stari Grad trockenen Unterschlupf mit ihrer Geschichte. Nachmittags besuchen wir das Sermage-Palais, ideal für Indoor-Kultur. Der Tag endet im stimmungsvollen Friedhof, der im Regen besonders mystisch wirkt, bevor wir uns in ein Café flüchten.",
+            "hu": "Varaždin esőben a Korzo árkádjai alatt indul. Délelőtt a Városházát és a Székesegyházat nézzük meg, ahol tető van a fejünk felett. Délben az Óvár (Stari Grad) múzeuma nyújt menedéket a zivatar elől. Délután a Sermage-palota galériájában bújunk el az időjárás elől. A napot a temetőben zárjuk, amely esőben különösen misztikus, majd egy hangulatos belvárosi kávézóban melegszünk fel.",
+            "ro": "Varaždin pe ploaie începe în Piața Korzo, unde arcadele oferă adăpost. Dimineața vizităm Primăria și Catedrala, feriți de stropi. La prânz, Castelul Stari Grad oferă un refugiu cultural excelent. După-amiaza explorăm Palatul Sermage, ideal pentru interior. Ziua se încheie cu o plimbare melancolică prin cimitir, care pe ploaie are o atmosferă unică, urmată de o pauză caldă într-o cafenea.",
+            "en": "Varaždin in the rain starts at Korzo, where arcades provide shelter. Spend the morning at the Town Hall and Cathedral. At noon, the Stari Grad castle offers a dry haven with its museum. Afternoon is perfect for the Sermage Palace galleries. The day concludes at the cemetery, which looks mystical in the rain, followed by a cozy evening in a local cafe to dry off."
+          },
+          "stops": [
+            {
+              "name": "King Tomislav Square (Korzo)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Cafés als Regenschutz.",
+                "hu": "Használja a kávézók árkádjait eső elleni menedékként.",
+                "ro": "Folosiți arcadele cafenelelor pentru a vă proteja de ploaie.",
+                "en": "Use the cafe arcades as shelter from the rain."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur unter dem Vordach.",
+                "hu": "Csodálja meg az épületet az eresz alól.",
+                "ro": "Admirați arhitectura de sub streșină.",
+                "en": "Admire the architecture from under the eaves."
+              }
+            },
+            {
+              "name": "Cathedral of the Assumption",
+              "tip_5lang": {
+                "de": "Ideal für eine trockene Pause und stille Besichtigung.",
+                "hu": "Ideális egy száraz szünethez és csendes nézelődéshez.",
+                "ro": "Ideal pentru o pauză uscată și vizitare liniștită.",
+                "en": "Ideal for a dry break and quiet sightseeing."
+              }
+            },
+            {
+              "name": "Stari Grad (Old Castle)",
+              "tip_5lang": {
+                "de": "Das Museum im Inneren ist perfekt bei starkem Regen.",
+                "hu": "A belső múzeum tökéletes választás szakadó esőben.",
+                "ro": "Muzeul interior este perfect în caz de ploaie torențială.",
+                "en": "The indoor museum is perfect during heavy rain."
+              }
+            },
+            {
+              "name": "Sermage Palace",
+              "tip_5lang": {
+                "de": "Genießen Sie die Kunstgalerie ganz ohne nass zu werden.",
+                "hu": "Élvezze a képtárat anélkül, hogy bőrig ázna.",
+                "ro": "Bucurați-vă de galeria de artă fără a vă uda.",
+                "en": "Enjoy the art gallery without getting soaked."
+              }
+            },
+            {
+              "name": "Varaždin Cemetery",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Kieswegen.",
+                "hu": "Vigyázzon a csúszós kavicsos ösvényeken.",
+                "ro": "Atenție la potecile cu pietriș umed.",
+                "en": "Be careful on the wet gravel paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da es in den Gassen windig sein kann.",
+              "Die Arkaden am Korzo sind der beste Ort für eine trockene Pause.",
+              "Tragen Sie wasserfeste Schuhe für den Besuch des Friedhofs.",
+              "Nutzen Sie die Innenräume des Schlosses für die regenreichste Zeit des Tages."
+            ],
+            "hu": [
+              "Vigyen magával stabil esernyőt, mert a szűk utcákban szeles lehet az idő.",
+              "A Korzo árkádjai a legjobb helyek egy száraz pihenőhöz.",
+              "Viseljen vízálló cipőt a temető meglátogatásához.",
+              "A vár belső tereit a nap legesősebb időszakára időzítse."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, deoarece poate fi vânt pe străduțe.",
+              "Arcadele din Korzo sunt cel mai bun loc pentru o pauză uscată.",
+              "Purtați încălțăminte impermeabilă pentru vizita la cimitir.",
+              "Planificați vizita la interiorul castelului pentru perioada cea mai ploioasă."
+            ],
+            "en": [
+              "Bring a sturdy umbrella as it can get windy in the narrow streets.",
+              "The arcades at Korzo are the best place for a dry break.",
+              "Wear waterproof shoes for visiting the cemetery.",
+              "Schedule the castle interior visit for the rainiest part of the day."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Varaždin im Winter ist purer Barockzauber. Der Korzo glänzt mit festlicher Beleuchtung. Vormittags wärmen wir uns in der Kathedrale auf, bevor wir die frostige Burg Stari Grad besuchen. Die weißen Mauern wirken im Schnee besonders edel. Nachmittags bietet das Sermage-Palais Wärme und Kunst. Der Tag endet früh im beleuchteten Friedhof, der im Winterlicht eine stille Ruhe ausstrahlt.",
+            "hu": "Varaždin télen igazi barokk ékszerdoboz. A Korzo ünnepi fényekben úszik. Délelőtt a Székesegyházban melegszünk fel, majd meglátogatjuk a deres Óvárat, melynek fehér falai csodásak a hóban. Délután a Sermage-palota termeiben bújunk el a hideg elől. A nap korán zárul a kivilágított temetőben, amely téli fényben különleges, méltóságteljes nyugalmat áraszt.",
+            "ro": "Varaždin iarna este o bijuterie barocă sub zăpadă. Piața Korzo strălucește cu lumini festive. Dimineața ne încălzim în Catedrală, apoi vizităm Castelul Stari Grad, ale cărui ziduri albe sunt superbe în ger. După-amiaza, Palatul Sermage oferă căldură și artă. Ziua se termină devreme în cimitirul luminat, care emană o liniște solemnă în lumina iernii.",
+            "en": "Varaždin in winter is a baroque wonderland. Korzo shines with festive lights. Warm up in the Cathedral before visiting the frosty Stari Grad castle; its white walls look stunning in the snow. Spend the afternoon inside Sermage Palace to escape the cold. The day ends early at the illuminated cemetery, which offers a serene and quiet atmosphere in the winter light."
+          },
+          "stops": [
+            {
+              "name": "King Tomislav Square (Korzo)",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Tee in den beheizten Cafés.",
+                "hu": "Élvezzen egy forró teát a fűtött kávézókban.",
+                "ro": "Savurați un ceai fierbinte în cafenelele încălzite.",
+                "en": "Enjoy a hot tea in the heated cafes."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Der Platz davor ist oft festlich geschmückt.",
+                "hu": "Az előtte lévő tér gyakran ünnepi díszbe öltözik.",
+                "ro": "Piața din față este adesea decorată festiv.",
+                "en": "The square in front is often festively decorated."
+              }
+            },
+            {
+              "name": "Cathedral of the Assumption",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um der Kälte kurz zu entfliehen.",
+                "hu": "Csendes hely, hogy rövid időre elmeneküljön a hideg elől.",
+                "ro": "Un loc liniștit pentru a scăpa scurt de frig.",
+                "en": "A quiet place to briefly escape the cold."
+              }
+            },
+            {
+              "name": "Stari Grad (Old Castle)",
+              "tip_5lang": {
+                "de": "Die verschneite Außenanlage ist ein tolles Fotomotiv.",
+                "hu": "A havas külső udvar kiváló fotótéma.",
+                "ro": "Exteriorul înzăpezit este un motiv fotografic excelent.",
+                "en": "The snowy exterior is a great photo opportunity."
+              }
+            },
+            {
+              "name": "Sermage Palace",
+              "tip_5lang": {
+                "de": "Perfekt temperierte Galerien für den Nachmittag.",
+                "hu": "Kellemes hőmérsékletű galériák a délutáni programhoz.",
+                "ro": "Galerii cu temperatură plăcută pentru după-amiază.",
+                "en": "Perfectly tempered galleries for the afternoon."
+              }
+            },
+            {
+              "name": "Varaždin Cemetery",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Friedhof vor Sonnenuntergang um 16:30 Uhr.",
+                "hu": "Látogassa meg a temetőt naplemente előtt, 16:30-ig.",
+                "ro": "Vizitați cimitirul înainte de apus, pe la ora 16:30.",
+                "en": "Visit the cemetery before sunset around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten, da es in den Museen warm, draußen aber frostig ist.",
+              "Der Sonnenuntergang ist bereits gegen 16:30 Uhr, planen Sie den Friedhof frühzeitig.",
+              "Suchen Sie Cafés mit Außenheizung am Korzo für echte Winterstimmung.",
+              "Vorsicht vor vereisten Pflastersteinen in der Altstadt."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a múzeumokban meleg van, kint viszont fagyos.",
+              "A naplemente már 16:30 körül bekövetkezik, tervezze korábbra a temetőt.",
+              "Keresse a fűtött teraszos kávézókat a Korzón az igazi téli hangulathoz.",
+              "Vigyázzon a jeges macskakövekre az óvárosban."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, în muzee e cald, dar afară este ger.",
+              "Apusul este deja în jurul orei 16:30, planificați vizita la cimitir devreme.",
+              "Căutați cafenele cu încălzire exterioară în Korzo pentru atmosferă.",
+              "Atenție la pavajul înghețat din centrul vechi."
+            ],
+            "en": [
+              "Dress in layers; it's warm in museums but freezing outside.",
+              "Sunset is as early as 4:30 PM, so plan the cemetery visit early.",
+              "Look for cafes with outdoor heaters at Korzo for a true winter vibe.",
+              "Watch out for icy cobblestones in the old town."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -621,6 +1057,438 @@
           "Paths along the Drava are mostly gravel.",
           "Combine the ride with a picnic by the Drava."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Varaždin auf zwei Rädern! Nach dem barocken Zentrum radeln Sie zur majestätischen Festung und weiter zum weltberühmten Friedhof. Die flache Landschaft führt Sie dann an die Drau, wo Sie die Natur genießen können. Zum Abschluss kehren Sie in die Altstadt zurück, um das Theater und die Franziskanerkirche zu bewundern.",
+            "hu": "Fedezze fel Varasdot két keréken! A barokk központ után tekerjen a fenséges várkastélyhoz, majd tovább a világhírű temetőhöz. A sík vidék elvezeti a Dráva-parthoz, ahol élvezheti a természetet. Végezetül térjen vissza az óvárosba, hogy megcsodálja a színházat és a ferencesek templomát.",
+            "ro": "Explorați Varaždin pe două roți! După centrul baroc, pedalați spre cetatea maiestuoasă și mai departe spre faimosul cimitir. Peisajul plat vă conduce spre malul râului Drava, unde vă puteți bucura de natură. La final, reveniți în orașul vechi pentru a admira teatrul și biserica franciscană.",
+            "en": "Explore Varaždin on two wheels! After the Baroque center, cycle to the majestic fortress and further to the world-famous cemetery. The flat landscape leads you to the Drava riverbank, where you can enjoy nature. Finally, return to the old town to admire the theatre and the Franciscan church."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Korzo",
+                "hu": "Korzo",
+                "ro": "Korzo",
+                "en": "Korzo"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier Ihre Tour.",
+                "hu": "Itt kezdje a túrát.",
+                "ro": "Începeți turul aici.",
+                "en": "Start your tour here."
+              }
+            },
+            {
+              "name": {
+                "de": "Stari Grad",
+                "hu": "Stari Grad",
+                "ro": "Stari Grad",
+                "en": "Stari Grad"
+              },
+              "tip_5lang": {
+                "de": "Fahrradständer am Haupteingang vorhanden.",
+                "hu": "Kerékpártároló a főbejáratnál.",
+                "ro": "Suporturi de biciclete la intrarea principală.",
+                "en": "Bike racks available at the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Ursulinenkloster",
+                "hu": "Orsolya-rendi kolostor",
+                "ro": "Mănăstirea Ursulinelor",
+                "en": "Ursuline Convent"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die markante rosa Fassade.",
+                "hu": "Figyelje meg a jellegzetes rózsaszín homlokzatot.",
+                "ro": "Observați fațada roz distinctivă.",
+                "en": "Note the distinctive pink facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationaltheater Varaždin",
+                "hu": "Varasdi Nemzeti Színház",
+                "ro": "Teatrul Național Varaždin",
+                "en": "National Theatre Varaždin"
+              },
+              "tip_5lang": {
+                "de": "Ein Werk des berühmten Architekten Helmer & Fellner.",
+                "hu": "A híres Helmer & Fellner építészek műve.",
+                "ro": "O lucrare a faimoșilor arhitecți Helmer & Fellner.",
+                "en": "A work by the famous architects Helmer & Fellner."
+              }
+            },
+            {
+              "name": {
+                "de": "Friedhof von Varaždin",
+                "hu": "Varasdi temető",
+                "ro": "Cimitirul Varaždin",
+                "en": "Varaždin Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad am Eingang; im Friedhof nur zu Fuß.",
+                "hu": "Parkoljon a bejáratnál; a temetőben csak gyalog.",
+                "ro": "Parcați bicicleta la intrare; în cimitir doar pe jos.",
+                "en": "Park your bike at the entrance; walking only inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Drau-Ufer",
+                "hu": "Dráva-part",
+                "ro": "Malul Drava",
+                "en": "Drava Riverbank"
+              },
+              "tip_5lang": {
+                "de": "Schöner Radweg entlang des Flusses.",
+                "hu": "Szép kerékpárút a folyó mentén.",
+                "ro": "Pistă frumoasă de biciclete de-a lungul râului.",
+                "en": "Beautiful cycling path along the river."
+              }
+            },
+            {
+              "name": {
+                "de": "Franziskanerkirche",
+                "hu": "Ferences templom",
+                "ro": "Biserica Franciscană",
+                "en": "Franciscan Church"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Statue von Gregor von Nin davor.",
+                "hu": "Nézze meg előtte Nini Gergely szobrát.",
+                "ro": "Vedeți statuia lui Grigore din Nin din față.",
+                "en": "See the statue of Gregory of Nin in front."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bistro Angelus",
+                "tip": "Moderne Küche in der Nähe des Zentrums."
+              },
+              {
+                "name": "Grofica Marica",
+                "tip": "Bekannte Konditorei am Korzo."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Angelus Bistro",
+                "tip": "Modern konyha a központ közelében."
+              },
+              {
+                "name": "Grofica Marica",
+                "tip": "Híres cukrászda a Korzón."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bistro Angelus",
+                "tip": "Bucătărie modernă aproape de centru."
+              },
+              {
+                "name": "Grofica Marica",
+                "tip": "Cofetărie celebră pe Korzo."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bistro Angelus",
+                "tip": "Modern cuisine near the center."
+              },
+              {
+                "name": "Grofica Marica",
+                "tip": "Famous pastry shop on the Korzo."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Drau-Wald",
+                "tip": "Natur pur am Stadtrand.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Dráva-erdő",
+                "tip": "Tiszta természet a város szélén.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pădurea Drava",
+                "tip": "Natură pură la marginea orașului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Drava Forest",
+                "tip": "Pure nature at the city edge.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirladen im Stari Grad",
+                "tip": "Historische Repliken."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Stari Grad ajándékbolt",
+                "tip": "Történelmi replikák."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de suveniruri în Stari Grad",
+                "tip": "Replici istorice."
+              }
+            ],
+            "en": [
+              {
+                "name": "Souvenir shop in Stari Grad",
+                "tip": "Historical replicas."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Varaždin ist eine sehr fahrradfreundliche, flache Stadt.",
+              "Es gibt viele Leihstationen im Zentrum.",
+              "Die Wege an der Drau sind meist geschottert.",
+              "Kombinieren Sie die Fahrt mit einem Picknick an der Drau."
+            ],
+            "hu": [
+              "Varasd nagyon kerékpárosbarát, sík város.",
+              "A központban számos kölcsönzőpont található.",
+              "A Dráva-menti utak többnyire murvásak.",
+              "Kombinálja a tekerést egy piknikkel a Drávánál."
+            ],
+            "ro": [
+              "Varaždin este un oraș plat, foarte prietenos cu bicicliștii.",
+              "Există multe puncte de închiriere în centru.",
+              "Potecile de pe Drava sunt în mare parte pietruite.",
+              "Combinați plimbarea cu un picnic pe malul râului."
+            ],
+            "en": [
+              "Varaždin is a very bike-friendly, flat city.",
+              "There are many rental points in the center.",
+              "Paths along the Drava are mostly gravel.",
+              "Combine the ride with a picnic by the Drava."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Varaždin auf zwei Rädern bei Regen erfordert gute Ausrüstung. Wir starten am Korzo und fahren schnell zum Stari Grad. Das Kloster und das Theater bieten kulturelle Pausen. Mittags ist der Friedhof im Regen mystisch, doch am Drava-Ufer ist Vorsicht geboten – die Wege können matschig sein. Wir beenden die Tour an der Franziskanerkirche, wo wir das Rad sicher abstellen können.",
+            "hu": "Varaždin két keréken esőben jó felszerelést igényel. A Korzóról indulunk, és gyorsan az Óvár felé vesszük az irányt. A kolostor és a színház kulturális szüneteket kínál. Délben a temető misztikus az esőben, de a Dráva-parton óvatosnak kell lenni a sár miatt. A túrát a ferences templomnál zárjuk, ahol biztonságban lelakatolhatjuk a bringát.",
+            "ro": "Varaždin pe două roți pe ploaie necesită echipament bun. Pornim din Korzo și pedalăm rapid spre Stari Grad. Mănăstirea și teatrul oferă pauze culturale. La prânz, cimitirul este mistic pe ploaie, dar pe malul Drava trebuie prudență din cauza noroiului. Încheiem turul la Biserica Franciscană, unde putem parca bicicleta în siguranță.",
+            "en": "Exploring Varaždin by bike in the rain requires good gear. Start at Korzo and head quickly to Stari Grad. The convent and theatre provide dry cultural breaks. At noon, the cemetery is mystical, but be cautious on the Drava riverbank as paths can be muddy. Finish at the Franciscan Church, where you can safely lock your bike."
+          },
+          "stops": [
+            {
+              "name": "Korzo",
+              "tip_5lang": {
+                "de": "Vorsicht bei nassen Pflastersteinen, Rutschgefahr!",
+                "hu": "Vigyázzon a vizes macskaköveken, csúszásveszély!",
+                "ro": "Atenție la pavajul umed, pericol de alunecare!",
+                "en": "Watch out for wet cobblestones; they can be slippery!"
+              }
+            },
+            {
+              "name": "Stari Grad",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Parken.",
+                "hu": "Használja a fedett bejárati részt a parkoláshoz.",
+                "ro": "Folosiți zona de intrare acoperită pentru parcare.",
+                "en": "Use the covered entrance area for parking."
+              }
+            },
+            {
+              "name": "Ursuline Convent",
+              "tip_5lang": {
+                "de": "Kurzer Stopp im Trockenen unter dem Portal.",
+                "hu": "Rövid megálló szárazon a kapualj alatt.",
+                "ro": "Scurt popas la uscat sub portal.",
+                "en": "Short dry stop under the portal."
+              }
+            },
+            {
+              "name": "National Theatre Varaždin",
+              "tip_5lang": {
+                "de": "Überdachter Fahrradständer in der Nähe vorhanden.",
+                "hu": "Fedett biciklitároló található a közelben.",
+                "ro": "Suport de biciclete acoperit disponibil în apropiere.",
+                "en": "Covered bike rack available nearby."
+              }
+            },
+            {
+              "name": "Varaždin Cemetery",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den nassen Hauptwegen.",
+                "hu": "Hajtson lassan a vizes főutakon.",
+                "ro": "Pedalați încet pe aleile principale umede.",
+                "en": "Ride slowly on the wet main paths."
+              }
+            },
+            {
+              "name": "Drava Riverbank",
+              "tip_5lang": {
+                "de": "Vorsicht: Die Wege können sehr matschig sein.",
+                "hu": "Vigyázat: Az utak nagyon sárosak lehetnek.",
+                "ro": "Atenție: Potecile pot fi foarte noroioase.",
+                "en": "Caution: The paths can be very muddy."
+              }
+            },
+            {
+              "name": "Franciscan Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Abschluss im Trockenen.",
+                "hu": "Csendes befejezés száraz helyen.",
+                "ro": "Un final liniștit la adăpost.",
+                "en": "A quiet finish in a dry spot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und Regenhosen.",
+              "Bremsen Sie auf nassen Pflastersteinen frühzeitig und vorsichtig.",
+              "Vermeiden Sie unbefestigte Wege am Drava-Ufer bei starkem Regen.",
+              "Ein Sattelschutz hält Ihr Rad trocken, während Sie Museen besuchen."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot és vízálló nadrágot.",
+              "Vizes macskaköveken fékezzen korán és óvatosan.",
+              "Heves esőzéskor kerülje a Dráva-parti burkolatlan utakat.",
+              "Egy nyeregvédő szárazon tartja a bringát, amíg Ön múzeumban van."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie completă și pantaloni impermeabili.",
+              "Frânați din timp și cu prudență pe pavajul umed.",
+              "Evitați drumurile neasfaltate de pe malul Drava în caz de ploaie grea.",
+              "O protecție de șa menține bicicleta uscată în timp ce vizitați muzee."
+            ],
+            "en": [
+              "Wear a full raincoat and waterproof trousers.",
+              "Brake early and cautiously on wet cobblestones.",
+              "Avoid unpaved paths on the Drava riverbank during heavy rain.",
+              "A saddle cover keeps your bike dry while you visit museums."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Varaždin bietet klare Luft und leere Wege. Vom Korzo zum Stari Grad glänzt die Stadt im Frost. Das Theater und das Kloster bieten warme Pausen. Der Friedhof wirkt im Winterlicht fast erstarrt. Am Drava-Ufer genießen wir die Stille der Natur, bevor uns der kalte Wind zurück in die Stadt treibt, wo wir uns an der Franziskanerkirche wieder aufwärmen.",
+            "hu": "A téli bringázás Varaždinban friss levegőt és üres utakat ígér. A Korzótól az Óvárig deres csillogás kísér minket. A színház és a kolostor meleg pihenőket kínál. A temető a téli fényben szinte megdermed. A Dráva-parton élvezzük a természet csendjét, mielőtt a hideg szél visszakergetne minket a városba, hogy a ferences templomnál melengessük át magunkat.",
+            "ro": "Pedalatul iarna în Varaždin oferă aer curat și drumuri libere. De la Korzo la Stari Grad, orașul strălucește în ger. Teatrul și mănăstirea oferă pauze calde. Cimitirul pare încremenit în lumina iernii. Pe malul Drava ne bucurăm de liniștea naturii, înainte ca vântul rece să ne trimită înapoi în oraș, spre Biserica Franciscană.",
+            "en": "Winter cycling in Varaždin means crisp air and empty paths. From Korzo to Stari Grad, the city glistens in the frost. The theatre and convent offer warm retreats. The cemetery looks almost frozen in the winter light. Enjoy the silence of nature at the Drava riverbank before the cold wind drives you back to town for warmth at the Franciscan Church."
+          },
+          "stops": [
+            {
+              "name": "Korzo",
+              "tip_5lang": {
+                "de": "Achtung bei Eisbildung in schattigen Bereichen.",
+                "hu": "Figyelem a jegesedésre az árnyékos részeken.",
+                "ro": "Atenție la formarea gheții în zonele umbrite.",
+                "en": "Watch out for ice formation in shaded areas."
+              }
+            },
+            {
+              "name": "Stari Grad",
+              "tip_5lang": {
+                "de": "Das Schlossmuseum ist im Winter angenehm geheizt.",
+                "hu": "A vármúzeum télen kellemesen fűtött.",
+                "ro": "Muzeul castelului este încălzit plăcut iarna.",
+                "en": "The castle museum is pleasantly heated in winter."
+              }
+            },
+            {
+              "name": "Ursuline Convent",
+              "tip_5lang": {
+                "de": "Ein kurzer Moment der Stille und Wärme.",
+                "hu": "A csend és a meleg rövid pillanata.",
+                "ro": "Un scurt moment de liniște și căldură.",
+                "en": "A brief moment of silence and warmth."
+              }
+            },
+            {
+              "name": "National Theatre Varaždin",
+              "tip_5lang": {
+                "de": "Parken Sie kurz für ein Foto der Fassade.",
+                "hu": "Parkoljon le egy fotóra a homlokzat előtt.",
+                "ro": "Parcați scurt pentru o fotografie a fațadei.",
+                "en": "Park briefly for a photo of the facade."
+              }
+            },
+            {
+              "name": "Varaždin Cemetery",
+              "tip_5lang": {
+                "de": "Der Boden kann bei Frost sehr hart und uneben sein.",
+                "hu": "A talaj fagyban nagyon kemény és egyenetlen lehet.",
+                "ro": "Solul poate fi foarte tare și denivelat în caz de îngheț.",
+                "en": "The ground can be very hard and uneven in the frost."
+              }
+            },
+            {
+              "name": "Drava Riverbank",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung gegen den kalten Flusswind.",
+                "hu": "Viseljen szélálló ruhát a hideg folyami szél ellen.",
+                "ro": "Purtați haine rezistente la vânt împotriva brizei reci.",
+                "en": "Wear windproof clothing against the cold river wind."
+              }
+            },
+            {
+              "name": "Franciscan Church",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Kirchenschiff kurz auf.",
+                "hu": "Melegedjen fel kicsit a templomhajóban.",
+                "ro": "Încălziți-vă puțin în nava bisericii.",
+                "en": "Warm up briefly in the church nave."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Handschuhe und eine Mütze unter dem Helm sind unerlässlich.",
+              "Achten Sie auf Glatteis, besonders in der Nähe des Flusses.",
+              "Kürzen Sie die Tour ab, wenn der Wind zu stark wird.",
+              "Die Dämmerung setzt früh ein; prüfen Sie Ihre Fahrradbeleuchtung."
+            ],
+            "hu": [
+              "Kesztyű és a sisak alatti sapka elengedhetetlen.",
+              "Ügyeljen a jegesedésre, különösen a folyó közelében.",
+              "Rövidítse le a túrát, ha túl erős a szél.",
+              "Korán sötétedik; ellenőrizze a kerékpár világítását."
+            ],
+            "ro": [
+              "Mănușile și o căciulă sub cască sunt esențiale.",
+              "Fiți atenți la gheață, mai ales în apropierea râului.",
+              "Scurtați turul dacă vântul devine prea puternic.",
+              "Se înserează devreme; verificați luminile bicicletei."
+            ],
+            "en": [
+              "Gloves and a hat under your helmet are essential.",
+              "Watch out for black ice, especially near the river.",
+              "Shorten the tour if the wind becomes too strong.",
+              "Twilight sets in early; check your bike lights."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -906,6 +1774,422 @@
           "Parking tickets can be paid via SMS.",
           "A trip to Trakošćan Castle (40 km) is highly recommended."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Varaždin mit dem Auto erlaubt eine komfortable Tour durch die zahlreichen Paläste und Kirchen. Beginnen Sie beim Palais Patacic und dem prachtvollen Theater. Mittags wartet die Festung Stari Grad auf Sie. Dank der Mobilität erreichen Sie mühelos den berühmten Friedhof und können den Tag entspannt ausklingen lassen, bevor Sie eventuell das Umland erkunden.",
+            "hu": "Varasd autóval kényelmes túrát tesz lehetővé a számos palota és templom között. Kezdjen a Patacsics-palotánál és a pompás színháznál. Délben a Stari Grad várkastély várja Önt. A mobilitásnak köszönhetően könnyedén eléri a híres temetőt, és nyugodtan zárhatja a napot, mielőtt esetleg felfedezné a környéket.",
+            "ro": "Varaždin cu mașina permite un tur confortabil prin numeroasele palate și biserici. Începeți la Palatul Patacic și teatrul magnific. La prânz vă așteaptă cetatea Stari Grad. Datorită mobilității, ajungeți fără efort la faimosul cimitir și puteți încheia ziua relaxat înainte de a explora eventual împrejurimile.",
+            "en": "Varaždin by car allows for a comfortable tour through the numerous palaces and churches. Start at Patacic Palace and the magnificent theatre. At noon, the Stari Grad fortress awaits you. Thanks to your mobility, you can easily reach the famous cemetery and end the day relaxed before possibly exploring the surroundings."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palais Patacic",
+                "hu": "Patacsics-palota",
+                "ro": "Palatul Patacic",
+                "en": "Patacic Palace"
+              },
+              "tip_5lang": {
+                "de": "Das schönste Rokoko-Palais der Stadt.",
+                "hu": "A város legszebb rokokó palotája.",
+                "ro": "Cel mai frumos palat rococo din oraș.",
+                "en": "The most beautiful Rococo palace in town."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationaltheater Varaždin",
+                "hu": "Varasdi Nemzeti Színház",
+                "ro": "Teatrul Național Varaždin",
+                "en": "National Theatre Varaždin"
+              },
+              "tip_5lang": {
+                "de": "Parkhaus direkt gegenüber verfügbar.",
+                "hu": "Parkolóház közvetlenül szemben található.",
+                "ro": "Parcare disponibilă direct vizavi.",
+                "en": "Parking garage available directly opposite."
+              }
+            },
+            {
+              "name": {
+                "de": "Franziskanerkirche",
+                "hu": "Ferences templom",
+                "ro": "Biserica Franciscană",
+                "en": "Franciscan Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die reiche Innenausstattung.",
+                "hu": "Csodálja meg a gazdag belső díszítést.",
+                "ro": "Admirați decorațiunile interioare bogate.",
+                "en": "Admire the rich interior decoration."
+              }
+            },
+            {
+              "name": {
+                "de": "Stari Grad",
+                "hu": "Stari Grad",
+                "ro": "Stari Grad",
+                "en": "Stari Grad"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Stadtmuseum im Schloss.",
+                "hu": "Látogassa meg a vármúzeumot a kastélyban.",
+                "ro": "Vizitați muzeul orașului în castel.",
+                "en": "Visit the city museum inside the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale",
+                "hu": "Székesegyház",
+                "ro": "Catedrala",
+                "en": "Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Die Akustik bei Orgelkonzerten ist fantastisch.",
+                "hu": "Az orgonakoncertek akusztikája fantasztikus.",
+                "ro": "Acustica pentru concertele de orgă este fantastică.",
+                "en": "The acoustics for organ concerts are fantastic."
+              }
+            },
+            {
+              "name": {
+                "de": "Palais Sermage",
+                "hu": "Sermage-palota",
+                "ro": "Palatul Sermage",
+                "en": "Sermage Palace"
+              },
+              "tip_5lang": {
+                "de": "Eines der bedeutendsten Museen Kroatiens.",
+                "hu": "Horvátország egyik legjelentősebb múzeuma.",
+                "ro": "Unul dintre cele mai importante muzee din Croația.",
+                "en": "One of the most significant museums in Croatia."
+              }
+            },
+            {
+              "name": {
+                "de": "Friedhof von Varaždin",
+                "hu": "Varasdi temető",
+                "ro": "Cimitirul Varaždin",
+                "en": "Varaždin Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Großer kostenloser Parkplatz direkt am Eingang.",
+                "hu": "Nagy ingyenes parkoló közvetlenül a bejáratnál.",
+                "ro": "Parcare mare gratuită chiar la intrare.",
+                "en": "Large free parking lot right at the entrance."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Zlatne Gorice",
+                "tip": "Wunderschönes Restaurant in den Weinbergen nahe der Stadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Zlatne Gorice",
+                "tip": "Gyönyörű étterem a közeli szőlőhegyen."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Zlatne Gorice",
+                "tip": "Restaurant superb în podgoriile de lângă oraș."
+              }
+            ],
+            "en": [
+              {
+                "name": "Zlatne Gorice",
+                "tip": "Beautiful restaurant in the vineyards near the city."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Varaždin Friedhof",
+                "tip": "In den späten Nachmittagsstunden sehr stimmungsvoll.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Varasdi temető",
+                "tip": "A késő délutáni órákban nagyon hangulatos.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cimitirul Varaždin",
+                "tip": "Foarte atmosferic în orele târzii ale după-amiezii.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Varaždin Cemetery",
+                "tip": "Very atmospheric in the late afternoon hours.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lumini Shopping Center",
+                "tip": "Großes Einkaufszentrum am Stadtrand."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lumini bevásárlóközpont",
+                "tip": "Nagy bevásárlóközpont a város szélén."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Centrul comercial Lumini",
+                "tip": "Centru comercial mare la marginea orașului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Lumini Shopping Center",
+                "tip": "Large shopping mall on the outskirts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Das historische Zentrum ist für Autos gesperrt.",
+              "Nutzen Sie das Parkhaus am Theater oder den Parkplatz an der Burg.",
+              "Parktickets können per SMS bezahlt werden.",
+              "Ein Ausflug zum Schloss Trakošćan (40 km) lohnt sich sehr."
+            ],
+            "hu": [
+              "A történelmi központ az autók elől elzárt terület.",
+              "Használja a színházi parkolóházat vagy a vár melletti parkolót.",
+              "A parkolójegyek SMS-ben is fizethetők.",
+              "Egy kirándulás a Trakostyáni várba (40 km) nagyon megéri."
+            ],
+            "ro": [
+              "Centrul istoric este închis pentru mașini.",
+              "Folosiți parcarea de la teatru sau parcarea de lângă cetate.",
+              "Biletele de parcare pot fi plătite prin SMS.",
+              "O excursie la castelul Trakošćan (40 km) merită din plin."
+            ],
+            "en": [
+              "The historical center is closed to cars.",
+              "Use the theatre parking garage or the parking lot by the castle.",
+              "Parking tickets can be paid via SMS.",
+              "A trip to Trakošćan Castle (40 km) is highly recommended."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Varaždin bei Regen bequem zu erkunden. Wir parken nahe dem Patacic-Palais und dem Theater. Die kurzen Wege minimieren die Zeit im Regen. Mittags besuchen wir die Burg Stari Grad, gefolgt von der Kathedrale und dem Sermage-Palais. Der Tag endet am Friedhof, wo man fast bis zum Eingang fahren kann, um den Regen im Auto abzuwarten.",
+            "hu": "Autóval kényelmesen felfedezhető Varaždin esőben is. A Patacic-palota és a színház közelében parkolunk. A rövid séták minimálisra csökkentik az esőben töltött időt. Délben az Óvárat látogatjuk meg, majd a Székesegyház és a Sermage-palota következik. A nap a temetőnél zárul, ahol szinte a bejáratig hajthatunk, hogy az autóban várjuk ki az eső végét.",
+            "ro": "Cu mașina, Varaždin este ușor de explorat pe ploaie. Parcăm aproape de Palatul Patacic și teatru. Distanțele scurte minimizează timpul petrecut în ploaie. La prânz vizităm Castelul Stari Grad, urmat de Catedrală și Palatul Sermage. Ziua se termină la cimitir, unde poți conduce aproape până la intrare pentru a aștepta oprirea ploii în mașină.",
+            "en": "By car, Varaždin is comfortable to explore even in the rain. Park near Patacic Palace and the theatre. Short walks minimize time spent in the rain. Visit Stari Grad at noon, followed by the Cathedral and Sermage Palace. The day ends at the cemetery, where you can drive almost to the entrance and wait for the rain to subside in the car."
+          },
+          "stops": [
+            {
+              "name": "Patacic Palace",
+              "tip_5lang": {
+                "de": "Parkhaus 'Garaža Kapucinski' ist ganz in der Nähe.",
+                "hu": "A 'Garaža Kapucinski' parkolóház nagyon közel van.",
+                "ro": "Parcarea supraetajată 'Garaža Kapucinski' este foarte aproape.",
+                "en": "Parking garage 'Garaža Kapucinski' is very close by."
+              }
+            },
+            {
+              "name": "National Theatre Varaždin",
+              "tip_5lang": {
+                "de": "Kurzes Halten zum Aussteigen vor dem Eingang möglich.",
+                "hu": "Rövid megállás a kiszálláshoz lehetséges a bejárat előtt.",
+                "ro": "Oprire scurtă pentru coborâre posibilă în fața intrării.",
+                "en": "Short stop for dropping off passengers possible in front."
+              }
+            },
+            {
+              "name": "Franciscan Church",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Platz meist belegt, Seitengassen nutzen.",
+                "hu": "A téri parkolók gyakran foglaltak, használja az oldalutcákat.",
+                "ro": "Parcările din piață sunt adesea ocupate, folosiți străzile laterale.",
+                "en": "Square parking is often full; use side streets instead."
+              }
+            },
+            {
+              "name": "Stari Grad",
+              "tip_5lang": {
+                "de": "Großer Parkplatz hinter der Festungsanlage.",
+                "hu": "Nagy parkoló található az erődítmény mögött.",
+                "ro": "Parcare mare disponibilă în spatele fortificației.",
+                "en": "Large parking lot available behind the fortress."
+              }
+            },
+            {
+              "name": "Cathedral",
+              "tip_5lang": {
+                "de": "Zufahrt in die Fußgängerzone nur für Anlieger.",
+                "hu": "Behajtás a sétálóövezetbe csak engedéllyel.",
+                "ro": "Accesul în zona pietonală este permis doar rezidenților.",
+                "en": "Access to the pedestrian zone is for residents only."
+              }
+            },
+            {
+              "name": "Sermage Palace",
+              "tip_5lang": {
+                "de": "Naher Parkplatz am Stančić-Platz nutzen.",
+                "hu": "Használja a közeli parkolót a Stančić téren.",
+                "ro": "Folosiți parcarea apropiată din Piața Stančić.",
+                "en": "Use the nearby parking at Stančić Square."
+              }
+            },
+            {
+              "name": "Varaždin Cemetery",
+              "tip_5lang": {
+                "de": "Großer kostenloser Parkplatz direkt am Friedhofseingang.",
+                "hu": "Nagy ingyenes parkoló közvetlenül a temető bejáratánál.",
+                "ro": "Parcare mare gratuită chiar la intrarea în cimitir.",
+                "en": "Large free parking lot right at the cemetery entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das Kapucinski-Parkhaus für einen trockenen Start.",
+              "Die meisten Sehenswürdigkeiten liegen nah beieinander, parken Sie zentral.",
+              "Achten Sie auf Einbahnstraßen in der engen Altstadt.",
+              "Der Friedhof hat den bequemsten Parkplatz für regnerische Tage."
+            ],
+            "hu": [
+              "Használja a Kapucinski parkolóházat a száraz kezdéshez.",
+              "A látnivalók közel vannak egymáshoz, parkoljon központilag.",
+              "Ügyeljen az egyirányú utcákra a szűk óvárosban.",
+              "A temető rendelkezik a legkényelmesebb parkolóval esős napokra."
+            ],
+            "ro": [
+              "Folosiți parcarea Kapucinski pentru un început uscat.",
+              "Majoritatea obiectivelor sunt aproape, parcați central.",
+              "Atenție la străzile cu sens unic din centrul vechi îngust.",
+              "Cimitirul are cea mai convenabilă parcare pentru zilele ploioase."
+            ],
+            "en": [
+              "Use the Kapucinski parking garage for a dry start.",
+              "Most sights are close together; park centrally.",
+              "Watch out for one-way streets in the narrow old town.",
+              "The cemetery has the most convenient parking for rainy days."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Varaždin im Auto bietet im Winter wohlige Wärme zwischen den Stationen. Wir besichtigen die Paläste und das Theater, während die Heizung läuft. Mittags bestaunen wir das schneebedeckte Stari Grad. Nach dem Besuch der Kathedrale und des Sermage-Palais wärmen wir uns im Wagen auf dem Weg zum Friedhof auf, der im Winterlicht eine andächtige Stille bietet.",
+            "hu": "Autóval Varaždin télen kellemes meleget nyújt az állomások között. A palotákat és a színházat nézzük meg, miközben a fűtés jár. Délben a hófödte Óvárat csodáljuk meg. A Székesegyház és a Sermage-palota után az autóban melegszünk fel útközben a temetőhöz, amely a téli fényben áhítatos csendet áraszt.",
+            "ro": "Varaždin în mașină oferă căldură plăcută între stații pe timp de iarnă. Vizităm palatele și teatrul în timp ce încălzirea funcționează. La prânz admirăm Stari Grad acoperit de zăpadă. După Catedrală și Palatul Sermage, ne încălzim în mașină spre cimitir, care oferă o liniște solemnă în lumina iernii.",
+            "en": "By car, winter in Varaždin offers cozy warmth between stops. Visit the palaces and theatre while the heater runs. At noon, admire the snow-covered Stari Grad. After seeing the Cathedral and Sermage Palace, warm up in the car on the way to the cemetery, which exudes a prayerful silence in the winter light."
+          },
+          "stops": [
+            {
+              "name": "Patacic Palace",
+              "tip_5lang": {
+                "de": "Parkhaus schützt das Auto vor Frost und Schnee.",
+                "hu": "A parkolóház védi az autót a fagytól és hótól.",
+                "ro": "Parcarea acoperită protejează mașina de îngheț și zăpadă.",
+                "en": "The parking garage protects the car from frost and snow."
+              }
+            },
+            {
+              "name": "National Theatre Varaždin",
+              "tip_5lang": {
+                "de": "Beheizte Innenräume laden zur Besichtigung ein.",
+                "hu": "Fűtött belső terek várják a látogatókat.",
+                "ro": "Spațiile interioare încălzite invită la vizitare.",
+                "en": "Heated interiors invite for a visit."
+              }
+            },
+            {
+              "name": "Franciscan Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf glatten Gehwegen.",
+                "hu": "Vigyázzon a kiszálláskor a csúszós járdákon.",
+                "ro": "Atenție la coborâre pe trotuarele alunecoase.",
+                "en": "Be careful when getting out on slippery sidewalks."
+              }
+            },
+            {
+              "name": "Stari Grad",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Parkplatz kann glatt sein.",
+                "hu": "A parkolóhoz vezető felhajtó csúszós lehet.",
+                "ro": "Accesul spre parcare poate fi alunecos.",
+                "en": "The driveway to the parking lot can be slippery."
+              }
+            },
+            {
+              "name": "Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz im Winterwind.",
+                "hu": "Rövid séta a parkolótól a téli szélben.",
+                "ro": "Scurtă plimbare de la parcare în vântul de iarnă.",
+                "en": "Short walk from the parking lot in the winter wind."
+              }
+            },
+            {
+              "name": "Sermage Palace",
+              "tip_5lang": {
+                "de": "Warme Galerien sind ein Highlight an kalten Tagen.",
+                "hu": "A meleg galériák fénypontjai a hideg napoknak.",
+                "ro": "Galeriile calde sunt un punct forte în zilele reci.",
+                "en": "Warm galleries are a highlight on cold days."
+              }
+            },
+            {
+              "name": "Varaždin Cemetery",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird bei Schnee meist geräumt.",
+                "hu": "A parkolót hóeséskor általában letakarítják.",
+                "ro": "Parcarea este de obicei curățată în caz de zăpadă.",
+                "en": "The parking lot is usually cleared of snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Tiefgaragenplatz verhindert vereiste Scheiben.",
+              "Lassen Sie keine Flüssigkeiten im Auto, die gefrieren könnten.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche bei Schneeräumung ein.",
+              "Genießen Sie den Kontrast zwischen kalter Außenluft und warmem Auto."
+            ],
+            "hu": [
+              "A mélygarázs megakadályozza a szélvédő jegesedését.",
+              "Ne hagyjon folyadékot az autóban, ami megfagyhat.",
+              "Hótakarításkor számoljon több idővel a parkolóhely keresésére.",
+              "Élvezze a hideg kinti levegő és a meleg autó kontrasztját."
+            ],
+            "ro": [
+              "Parcarea subterană previne înghețarea parbrizului.",
+              "Nu lăsați lichide în mașină care ar putea îngheța.",
+              "Alocați mai mult timp pentru parcare în caz de deszăpezire.",
+              "Bucurați-vă de contrastul dintre aerul rece și mașina caldă."
+            ],
+            "en": [
+              "An underground parking spot prevents icy windshields.",
+              "Don't leave liquids in the car that could freeze.",
+              "Allow more time for parking if snow is being cleared.",
+              "Enjoy the contrast between the cold outside air and the warm car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1145,6 +2429,358 @@
           "Most sights are within the pedestrian zone.",
           "The bus station is about a 10-minute walk from the center."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Varaždin stressfrei. Vom zentralen Korzo aus erreichen Sie die wichtigsten Sehenswürdigkeiten wie die Festung und die Kathedrale. Ein kurzer Bustrip bringt Sie zum beeindruckenden Friedhof, bevor Sie zum prachtvollen Theater zurückkehren, wo Sie das lokale Kulturflair einatmen können.",
+            "hu": "A tömegközlekedéssel stresszmentesen fedezheti fel Varasdot. A központi Korzótól indulva elérheti a legfontosabb látnivalókat, mint a várkastély és a székesegyház. Egy rövid buszút elviszi a lenyűgöző temetőhöz, majd térjen vissza a pompás színházhoz, ahol belélegezheti a helyi kulturális hangulatot.",
+            "ro": "Cu transportul public explorați Varaždin fără stres. Din Korzo central ajungeți la cele mai importante obiective, cum ar fi cetatea și catedrala. O scurtă călătorie cu autobuzul vă duce la cimitirul impresionant, înainte de a reveni la teatrul magnific, unde puteți respira atmosfera culturală locală.",
+            "en": "Explore Varaždin stress-free using public transport. From the central Korzo, you can reach the main sights like the fortress and the cathedral. A short bus ride takes you to the impressive cemetery before returning to the magnificent theatre, where you can soak up the local cultural flair."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zentraler Platz (Korzo)",
+                "hu": "Központi tér (Korzo)",
+                "ro": "Piața Centrală (Korzo)",
+                "en": "Central Square (Korzo)"
+              },
+              "tip_5lang": {
+                "de": "Knotenpunkt vieler Linien in Gehweite.",
+                "hu": "Számos járat csomópontja sétatávolságra.",
+                "ro": "Nodul multor linii la distanță de mers pe jos.",
+                "en": "Hub of many lines within walking distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Stari Grad",
+                "hu": "Stari Grad",
+                "ro": "Stari Grad",
+                "en": "Stari Grad"
+              },
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Stari Grad' ist nah.",
+                "hu": "A 'Stari Grad' buszmegálló közel van.",
+                "ro": "Stația de autobuz 'Stari Grad' este aproape.",
+                "en": "The 'Stari Grad' bus stop is nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale",
+                "hu": "Székesegyház",
+                "ro": "Catedrala",
+                "en": "Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Mitten im Zentrum, gut zu Fuß erreichbar.",
+                "hu": "A központ közepén, gyalogosan is jól elérhető.",
+                "ro": "Chiar în centru, ușor accesibil pe jos.",
+                "en": "Right in the center, easily accessible on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Friedhof",
+                "hu": "Temető",
+                "ro": "Cimitir",
+                "en": "Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stadtbus Richtung Westen.",
+                "hu": "Használja a nyugati irányú városi buszt.",
+                "ro": "Folosiți autobuzul urban spre vest.",
+                "en": "Use the urban bus heading west."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationaltheater",
+                "hu": "Nemzeti Színház",
+                "ro": "Teatrul Național",
+                "en": "National Theatre"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um den Tag zu beenden.",
+                "hu": "Szép hely a nap befejezéséhez.",
+                "ro": "Un loc frumos pentru a încheia ziua.",
+                "en": "A beautiful place to end the day."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restoran Palatin",
+                "tip": "Hervorragende Küche in der Nähe des Theaters."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Palatin Étterem",
+                "tip": "Kiváló konyha a színház közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurant Palatin",
+                "tip": "Bucătărie excelentă lângă teatru."
+              }
+            ],
+            "en": [
+              {
+                "name": "Palatin Restaurant",
+                "tip": "Excellent cuisine near the theatre."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Stadtpark (Park Vatroslava Jagića)",
+                "tip": "Kleine grüne Oase im Zentrum.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Városliget (Vatroslava Jagića park)",
+                "tip": "Kis zöld oázis a központban.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul orașului",
+                "tip": "Mică oază verde în centru.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "City Park",
+                "tip": "Small green oasis in the center.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Marktplatz",
+                "tip": "Vormittags ideal für lokale Produkte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Piac",
+                "tip": "Délelőtt ideális helyi termékekhez."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața",
+                "tip": "Ideală dimineața pentru produse locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Marketplace",
+                "tip": "Ideal in the morning for local products."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Stadtbusse heißen 'Busek'.",
+              "Fahrkarten können beim Fahrer gekauft werden.",
+              "Die meisten Sehenswürdigkeiten liegen in der Fußgängerzone.",
+              "Der Busbahnhof ist ca. 10 Min. zu Fuß vom Zentrum entfernt."
+            ],
+            "hu": [
+              "A városi buszokat 'Busek'-nek hívják.",
+              "Jegyek a sofőrnél válthatók.",
+              "A legtöbb látnivaló a gyalogosövezetben található.",
+              "A buszpályaudvar kb. 10 perc sétára van a központtól."
+            ],
+            "ro": [
+              "Autobuzele urbane se numesc 'Busek'.",
+              "Biletele pot fi cumpărate de la șofer.",
+              "Majoritatea obiectivelor sunt în zona pietonală.",
+              "Autogara este la cca. 10 minute de mers pe jos de centru."
+            ],
+            "en": [
+              "The city buses are called 'Busek'.",
+              "Tickets can be purchased from the driver.",
+              "Most sights are within the pedestrian zone.",
+              "The bus station is about a 10-minute walk from the center."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Varaždin mit dem Bus bei Regen schont die Füße. Wir starten am zentralen Korzo. Die Busse bringen uns bequem zum Stari Grad und zur Kathedrale. Mittags fahren wir zum Friedhof, wobei wir die Wartezeit an den Haltestellen im Trockenen verbringen sollten. Der Tag endet am Nationaltheater, von wo aus viele Linien zurück ins Zentrum oder zum Bahnhof führen.",
+            "hu": "Busszal Varaždinban esőben kímélhetjük a lábunkat. A központi Korzóról indulunk. A buszok kényelmesen elvisznek az Óvárhoz és a Székesegyházhoz. Délben a temetőhöz utazunk, a várakozási időt próbáljuk fedett megállóban tölteni. A nap a Nemzeti Színháznál zárul, ahonnan számos járat indul vissza a központba vagy a vasútállomásra.",
+            "ro": "Cu autobuzul prin Varaždin pe ploaie vă protejați picioarele. Pornim din Korzo. Autobuzele ne duc confortabil la Stari Grad și Catedrală. La prânz mergem la cimitir, încercând să petrecem timpul de așteptare la adăpost. Ziua se termină la Teatrul Național, de unde multe linii revin în centru sau la gară.",
+            "en": "Using the bus in Varaždin during rain saves your feet. Start at the central Korzo. Buses take you comfortably to Stari Grad and the Cathedral. At noon, travel to the cemetery, trying to spend waiting times in covered stops. The day ends at the National Theatre, from where many lines head back to the center or the train station."
+          },
+          "stops": [
+            {
+              "name": "Central Square (Korzo)",
+              "tip_5lang": {
+                "de": "Die zentrale Haltestelle bietet guten Regenschutz.",
+                "hu": "A központi megálló jó esővédelmet nyújt.",
+                "ro": "Stația centrală oferă protecție bună împotriva ploii.",
+                "en": "The central bus stop provides good rain protection."
+              }
+            },
+            {
+              "name": "Stari Grad",
+              "tip_5lang": {
+                "de": "Haltestelle liegt ca. 5 Min. Fußweg von der Burg entfernt.",
+                "hu": "A megálló kb. 5 perc sétára van a vártól.",
+                "ro": "Stația se află la cca. 5 minute de mers pe jos de castel.",
+                "en": "The stop is about a 5-minute walk from the castle."
+              }
+            },
+            {
+              "name": "Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App für Echtzeit-Abfahrten im Regen.",
+                "hu": "Használja az appot a valós idejű indulásokhoz esőben.",
+                "ro": "Folosiți aplicația pentru plecări în timp real pe ploaie.",
+                "en": "Use the app for real-time departures in the rain."
+              }
+            },
+            {
+              "name": "Cemetery",
+              "tip_5lang": {
+                "de": "Holen Sie den Schirm schon vor dem Aussteigen raus.",
+                "hu": "Vegye elő az esernyőt még a leszállás előtt.",
+                "ro": "Scoateți umbrela înainte de a coborî.",
+                "en": "Get your umbrella out before getting off the bus."
+              }
+            },
+            {
+              "name": "National Theatre",
+              "tip_5lang": {
+                "de": "Großer Wartebereich unter dem Vordach des Gebäudes.",
+                "hu": "Nagy várakozóhely az épület előtetője alatt.",
+                "ro": "Zonă mare de așteptare sub streșina clădirii.",
+                "en": "Large waiting area under the building's overhang."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan vorab, um Regenwartezeiten zu minimieren.",
+              "Einige Haltestellen haben nur kleine Unterstände.",
+              "Haben Sie Kleingeld oder eine Karte für das Ticket bereit.",
+              "Vermeiden Sie die Stoßzeiten, wenn die Busse beschlagen."
+            ],
+            "hu": [
+              "Ellenőrizze előre a menetrendet a várakozási idő csökkentésére.",
+              "Néhány megálló csak kis beállóval rendelkezik.",
+              "Legyen nálad aprópénz vagy kártya a jegyhez.",
+              "Kerülje a csúcsidőt, amikor a buszok ablakai bepárásodnak."
+            ],
+            "ro": [
+              "Verificați orarul în avans pentru a minimiza așteptarea în ploaie.",
+              "Unele stații au doar adăposturi mici.",
+              "Aveți pregătite fise sau un card pentru bilet.",
+              "Evitați orele de vârf când autobuzele se aburesc."
+            ],
+            "en": [
+              "Check the schedule in advance to minimize waiting in the rain.",
+              "Some stops only have small shelters.",
+              "Have change or a card ready for the ticket.",
+              "Avoid rush hours when buses get foggy inside."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Varaždin im Winter per Bus ist eine warme Alternative zum Laufen. Vom Korzo zum Stari Grad genießen wir die Aussicht auf die verschneite Stadt. Die Busse sind gut beheizt. Mittags besuchen wir die Kathedrale und fahren dann zum winterlichen Friedhof. Den Tag lassen wir am beleuchteten Nationaltheater ausklingen, bevor uns der Bus zurückbringt.",
+            "hu": "Télen busszal Varaždinban meleg alternatívát kapunk a gyalogláshoz. A Korzótól az Óvárig élvezzük a havas város látványát. A buszok jól fűtöttek. Délben megnézzük a Székesegyházat, majd a téli temetőhöz utazunk. A napot a kivilágított Nemzeti Színháznál zárjuk, mielőtt visszatérnénk a busszal.",
+            "ro": "Varaždin iarna cu autobuzul este o alternativă caldă la mersul pe jos. De la Korzo la Stari Grad admirăm orașul înzăpezit. Autobuzele sunt bine încălzite. La prânz vizităm Catedrala și apoi mergem la cimitirul de iarnă. Încheiem ziua la Teatrul Național luminat, înainte ca autobuzul să ne ducă înapoi.",
+            "en": "Varaždin in winter by bus is a warm alternative to walking. From Korzo to Stari Grad, enjoy the views of the snowy city. Buses are well-heated. Visit the Cathedral at noon, then head to the winter cemetery. End the day at the illuminated National Theatre before the bus takes you back."
+          },
+          "stops": [
+            {
+              "name": "Central Square (Korzo)",
+              "tip_5lang": {
+                "de": "Ideal, um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "Ideális a látnivalók közötti felmelegedéshez.",
+                "ro": "Ideal pentru a vă încălzi între vizite.",
+                "en": "Ideal for warming up between sightings."
+              }
+            },
+            {
+              "name": "Stari Grad",
+              "tip_5lang": {
+                "de": "Achten Sie auf gestreute Wege zur Haltestelle.",
+                "hu": "Ügyeljen a sózott utakra a megálló felé.",
+                "ro": "Atenție la aleile deszăpezite spre stație.",
+                "en": "Watch out for salted paths toward the stop."
+              }
+            },
+            {
+              "name": "Cathedral",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter meist pünktlich.",
+                "hu": "A buszok télen általában pontosan közlekednek.",
+                "ro": "Autobuzele circulă de obicei la timp iarna.",
+                "en": "Buses usually run on time in winter."
+              }
+            },
+            {
+              "name": "Cemetery",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit.",
+                "hu": "Tervezze meg a visszautat sötétedés előtt.",
+                "ro": "Planificați drumul de întoarcere înainte de lăsarea întunericului.",
+                "en": "Plan your return trip before darkness falls."
+              }
+            },
+            {
+              "name": "National Theatre",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist gut beleuchtet und sicher.",
+                "hu": "A megálló jól kivilágított és biztonságos.",
+                "ro": "Stația este bine luminată și sigură.",
+                "en": "The bus stop is well-lit and safe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bussen sind im Winter oft die gemütlichste Art der Fortbewegung.",
+              "Warten Sie in nahegelegenen Geschäften, wenn der Bus Verspätung hat.",
+              "Schnee kann die Fahrpläne leicht beeinflussen.",
+              "Genießen Sie die Fahrt durch das weihnachtlich geschmückte Varaždin."
+            ],
+            "hu": [
+              "Télen a busz gyakran a legkényelmesebb közlekedési mód.",
+              "Várjon közeli üzletekben, ha késik a busz.",
+              "A hó kismértékben befolyásolhatja a menetrendet.",
+              "Élvezze az utazást a karácsonyi díszbe öltözött Varaždinon át."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea cea mai confortabilă metodă de transport iarna.",
+              "Așteptați în magazinele apropiate dacă autobuzul întârzie.",
+              "Zăpada poate influența ușor orarul.",
+              "Bucurați-vă de drumul prin Varaždinul decorat de Crăciun."
+            ],
+            "en": [
+              "Buses are often the coziest way to travel in winter.",
+              "Wait in nearby shops if the bus is delayed.",
+              "Snow can slightly affect the schedules.",
+              "Enjoy the ride through the Christmas-decorated Varaždin."
+            ]
+          }
+        }
       }
     }
   },

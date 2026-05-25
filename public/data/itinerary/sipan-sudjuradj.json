@@ -228,6 +228,349 @@
           "Sipan is known for its many olive trees.",
           "Bring sturdy footwear for the climb to Sutulija."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie die größte der Elaphiten-Inseln zu Fuß. Starten Sie am malerischen Hafen und besichtigen Sie die prächtige Residenz Skočibuha. Ein Spaziergang führt Sie durch die berühmten Olivenhaine hinauf zum Aussichtspunkt Sutulija für einen weiten Blick.",
+            "hu": "Fedezze fel az Elafit-szigetek legnagyobbikát gyalogosan. Kezdje a festői kikötőben, és látogassa meg a pompás Skočibuha rezidenciát. Egy séta a híres olajfaligeteken keresztül vezet fel a Sutulija kilátóhoz a tágas kilátásért.",
+            "ro": "Descoperiți cea mai mare dintre insulele Elafiti pe jos. Începeți în portul pitoresc și vizitați reședința Skočibuha. O plimbare vă poartă prin faimoasele livezi de măslini până la punctul de belvedere Sutulija pentru o vedere panoramică.",
+            "en": "Discover the largest of the Elafiti islands on foot. Start at the picturesque harbor and visit the magnificent Skočibuha residence. A walk leads you through the famous olive groves up to the Sutulija viewpoint for a wide view."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Suđurađ",
+              "tip_5lang": {
+                "de": "Beobachten Sie das bunte Hafentreiben.",
+                "hu": "Figyelje a kikötő színes forgatagát.",
+                "ro": "Observați agitația colorată din port.",
+                "en": "Watch the colorful harbor hustle."
+              }
+            },
+            {
+              "name": "Sommerresidenz Skočibuha",
+              "tip_5lang": {
+                "de": "Besichtigung der Renaissance-Anlage.",
+                "hu": "A reneszánsz épületegyüttes megtekintése.",
+                "ro": "Vizitarea complexului renascentist.",
+                "en": "Tour of the Renaissance complex."
+              }
+            },
+            {
+              "name": "Pakljena-Turm",
+              "tip_5lang": {
+                "de": "Historischer Wehrturm.",
+                "hu": "Történelmi bástya.",
+                "ro": "Turn de apărare istoric.",
+                "en": "Historical defense tower."
+              }
+            },
+            {
+              "name": "Olivenhaine von Šipan",
+              "tip_5lang": {
+                "de": "Spaziergang durch uralte Haine.",
+                "hu": "Séta az ősi ligetekben.",
+                "ro": "Plimbare prin livezi străvechi.",
+                "en": "Walk through ancient groves."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Sutulija",
+              "tip_5lang": {
+                "de": "Höchster Punkt der Insel.",
+                "hu": "A sziget legmagasabb pontja.",
+                "ro": "Cel mai înalt punct al insulei.",
+                "en": "Highest point of the island."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Šipan",
+                "tip": "Traditionelle Peka-Gerichte."
+              },
+              {
+                "name": "Olivenöl-Verkostung",
+                "tip": "Direkt beim Produzenten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba Šipan",
+                "tip": "Hagyományos peka ételek."
+              },
+              {
+                "name": "Olívaolaj kóstolás",
+                "tip": "Közvetlenül a termelőnél."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Šipan",
+                "tip": "Preparate tradiționale peka."
+              },
+              {
+                "name": "Degustare de ulei de măsline",
+                "tip": "Direct la producător."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Šipan",
+                "tip": "Traditional Peka dishes."
+              },
+              {
+                "name": "Olive oil tasting",
+                "tip": "Directly at the producer."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "St. Stephan Kirche",
+                "tip": "Stiller Rückzugsort.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szent István templom",
+                "tip": "Csendes menedék.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Biserica Sf. Ștefan",
+                "tip": "Loc de retragere liniștit.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "St. Stephen's Church",
+                "tip": "Quiet retreat.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Insel-Öl",
+                "tip": "Preisgekröntes Olivenöl."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szigeti olaj",
+                "tip": "Díjnyertes olívaolaj."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de insulă",
+                "tip": "Ulei de măsline premiat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Island Oil",
+                "tip": "Award-winning olive oil."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Sipan ist bekannt für seine vielen Olivenbäume.",
+              "Bringen Sie festes Schuhwerk für den Aufstieg nach Sutulija mit."
+            ],
+            "hu": [
+              "Sipan a sok olajfájáról ismert.",
+              "Hozzon stabil lábbelit a Sutulijára való felkapaszkodáshoz."
+            ],
+            "ro": [
+              "Sipan este cunoscută pentru numeroșii săi măslini.",
+              "Aduceți încălțăminte stabilă pentru urcarea spre Sutulija."
+            ],
+            "en": [
+              "Sipan is known for its many olive trees.",
+              "Bring sturdy footwear for the climb to Sutulija."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Hafen von Suđurađ, wo die Fischer trotz des Regens ihre Netze einholen. Der kurze Weg zur Sommerresidenz Skočibuha bietet schnellen Schutz in den historischen Mauern eines der besterhaltenen Renaissanceschlösser der Region.\n\nMittags erkunden Sie den massiven Pakljena-Turm, dessen dicke Steinmauern seit Jahrhunderten jedem Sturm trotzen. Ein idealer Ort, um die maritime Verteidigungsgeschichte der Insel Šipan im Trockenen zu studieren.\n\nAm Nachmittag führt der Weg durch die Olivenhaine, die im Regen einen intensiven, erdigen Duft verströmen. Die Natur wirkt hier besonders lebendig, wenn das Wasser die silbernen Blätter der jahrhundertealten Bäume reinigt.\n\nDen Abend lassen Sie am Aussichtspunkt Sutulija ausklingen, wo sich das graue Meer und der verhangene Himmel zu einer dramatischen Kulisse vereinen, bevor Sie in den Ort zurückkehren.",
+            "hu": "Kezdje a napot Suđurađ kikötőjében, ahol az esőben pihenő halászhajók látványa fogadja. Rövid séta után a Skočibuha-kastély nyújt menedéket, amely Dalmácia egyik legszebb állapotban maradt reneszánsz nyári rezidenciája.\n\nDélben a Pakljena-torony masszív falai között kutathatja a sziget védelmi múltját. A vastag kőfalak tökéletes védelmet nyújtanak az elemek elől, miközben a középkori építészet zsenialitását csodálja.\n\nDélután az olajfaligeteken át vezet az út, ahol az eső illata felszabadítja a természet aromáit. A nedves ösvények kissé csúszósak lehetnek, de az ezüstös levelek csillogása kárpótolja a fáradtságért.\n\nAz estét a Sutulija kilátónál zárja, ahonnan a viharos tenger és a felhők drámai játéka látszik a horizonton, majd térjen vissza a faluba egy meleg italra.",
+            "ro": "Începeți ziua în portul Suđurađ, unde atmosfera ploioasă adaugă un farmec melancolic bărcii pescarilor. Rezidența Skočibuha este refugiul perfect, oferind adăpost între zidurile sale renascentiste pline de istorie nobiliară.\n\nLa prânz, vizitați Turnul Pakljena, o fortificație robustă care a protejat insula timp de secole. Zidurile groase de piatră vă țin la adăpost în timp ce explorați detaliile arhitecturale ale acestei structuri defensive.\n\nDupă-amiaza, o plimbare prin livezile de măslini vă va dezvălui parfumul proaspăt al pământului udat de ploaie. Traseul este scurt, dar frumusețea naturală a insulei Šipan rămâne captivantă chiar și sub cerul gri.\n\nÎncheiați ziua la punctul de belvedere Sutulija, privind spectacolul norilor deasupra Adriaticii, înainte de a coborî spre străzile liniștite ale portului pentru cină.",
+            "en": "Start your morning at Suđurađ harbor, watching the mist settle over the fishing boats. A short walk leads to the Skočibuha residence, where you can find shelter inside one of the finest Renaissance summer houses in Dalmatia.\n\nAt noon, explore the Pakljena tower, a sturdy stone fortification built to withstand both invaders and storms. It provides a dry vantage point to learn about the island's strategic maritime history.\n\nIn the afternoon, the path through the olive groves offers a unique sensory experience with the fresh scent of rain-soaked earth. The ancient trees take on a deep, vibrant hue against the overcast sky.\n\nFinish your day at the Sutulija viewpoint, observing the dramatic interaction between the gray sea and the heavy clouds before heading back to the village."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Suđurađ",
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Schuhe auf den rutschigen Hafensteinen.",
+                "hu": "Viseljen vízálló cipőt a csúszós kikötői köveken.",
+                "ro": "Purtați încălțăminte antiderapantă pe pietrele ude din port.",
+                "en": "Wear waterproof shoes on the slippery harbor stones."
+              }
+            },
+            {
+              "name": "Sommerresidenz Skočibuha",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenhof und die Räume als Regenschutz.",
+                "hu": "Használja a belső udvart és a szobákat eső elleni védelemként.",
+                "ro": "Folosiți curtea interioară și încăperile pentru a vă adăposti.",
+                "en": "Use the inner courtyard and rooms for shelter from the rain."
+              }
+            },
+            {
+              "name": "Pakljena-Turm",
+              "tip_5lang": {
+                "de": "Der Aufstieg kann bei Nässe rutschig sein, halten Sie sich fest.",
+                "hu": "A felvezető út esőben csúszós lehet, kapaszkodjon a falba.",
+                "ro": "Urcarea poate fi alunecoasă pe ploaie, folosiți sprijinul pereților.",
+                "en": "The climb can be slippery when wet, hold onto the stone walls."
+              }
+            },
+            {
+              "name": "Olivenhaine von Šipan",
+              "tip_5lang": {
+                "de": "Genießen Sie den Duft, aber meiden Sie tiefe Pfützen im Gras.",
+                "hu": "Élvezze az illatokat, de kerülje a mély tócsákat a fűben.",
+                "ro": "Bucurați-vă de arome, dar evitați bălțile adânci din iarbă.",
+                "en": "Enjoy the scents, but avoid deep puddles in the grass."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Sutulija",
+              "tip_5lang": {
+                "de": "Ein stabiler Regenschirm ist wegen des Windes hier oben wichtig.",
+                "hu": "A szél miatt egy stabil esernyő elengedhetetlen idefent.",
+                "ro": "O umbrelă rezistentă este necesară din cauza vântului de aici.",
+                "en": "A sturdy umbrella is essential here due to the wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Kalksteingassen in Suđurađ werden bei Regen extrem glatt.",
+              "Die Skočibuha-Residenz bietet den besten überdachten Aufenthalt.",
+              "Vermeiden Sie unbefestigte Waldwege, die schnell schlammig werden.",
+              "Packen Sie eine leichte Regenjacke ein, da der Wind vom Meer oft dreht.",
+              "In den örtlichen Cafés am Hafen kann man gut auf das Ende eines Schauers warten."
+            ],
+            "hu": [
+              "Suđurađ mészkő utcái esőben rendkívül csúszóssá válnak.",
+              "A Skočibuha-rezidencia kínálja a legjobb fedett pihenőhelyet.",
+              "Kerülje a földutakat, mert azok gyorsan sárossá válhatnak.",
+              "Készítsen be könnyű esőkabátot, a tengeri szél gyakran változik.",
+              "A kikötői kávézók tökéletesek egy-egy zápor átvészelésére."
+            ],
+            "ro": [
+              "Străduțele din calcar din Suđurađ devin extrem de alunecoase pe ploaie.",
+              "Rezidența Skočibuha oferă cel mai bun spațiu acoperit de vizitat.",
+              "Evitați potecile de pământ care devin rapid noroioase.",
+              "Luați o pelerină de ploaie ușoară, vântul marin schimbă direcția des.",
+              "Cafenelele din port sunt ideale pentru a aștepta trecerea ploii."
+            ],
+            "en": [
+              "The limestone alleys in Suđurađ become extremely slippery in the rain.",
+              "The Skočibuha residence offers the best covered space for visiting.",
+              "Avoid unpaved forest paths as they quickly become muddy.",
+              "Pack a light raincoat, as the sea breeze often shifts quickly.",
+              "Local cafes at the harbor are perfect for waiting out a shower."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen im Hafen von Suđurađ ist ruhig und klar. Ohne die Sommermassen wirkt der Ort authentisch, wenn die Einheimischen ihren täglichen Besorgungen nachgehen. Die Sonne steht tief und taucht die Steinhäuser in ein warmes Licht.\n\nMittags ist die Sommerresidenz Skočibuha ein stilles Monument der Geschichte. In der kühlen Winterluft lassen sich die architektonischen Details der Renaissance-Fassade besonders gut fotografieren, ohne von Touristen gestört zu werden.\n\nDer Weg zum Pakljena-Turm ist bei den milden kroatischen Wintertemperaturen angenehm. Die Fernsicht ist im Winter oft besser als im Sommer, da die Luft weniger Dunst enthält und die Konturen der Insel scharf hervortreten.\n\nNach einem Spaziergang durch die kargen, aber majestätischen Olivenhaine erreichen Sie den Gipfel der Sutulija. Da die Sonne im Winter bereits gegen 16:30 Uhr sinkt, erleben Sie hier einen spektakulären frühen Sonnenuntergang über den Elaphiten.",
+            "hu": "A téli reggel Suđurađ kikötőjében csendes és tiszta. A nyári tömeg nélkül a falu megmutatja valódi arcát, ahogy a helyiek élik mindennapi életüket. Az alacsonyan járó nap meleg fénnyel árasztja el a kőházakat.\n\nDélben a Skočibuha-rezidencia a nyugalom szigete. A hűvös téli levegőben zavartalanul tanulmányozhatók a reneszánsz homlokzat részletei, a környező kertek pedig ilyenkor is méltóságteljesek.\n\nA Pakljena-toronyhoz vezető emelkedő a téli enyhe időben kevésbé fárasztó. A téli horizont gyakran tisztább, így a kilátás a környező szigetekre és a nyílt tengerre ilyenkor a legszebb.\n\nAz olajfaligeteken keresztül vezető séta után a Sutulija csúcsára érve figyelje az órát. A nap télen már fél öt körül nyugodni kezd, így időben láthatja a horizontot lángba borító téli naplementét.",
+            "ro": "Dimineața de iarnă în portul Suđurađ este liniștită și limpede. Fără aglomerația de vară, satul își dezvăluie ritmul autentic, cu localnicii pregătind bărcile în lumina caldă a soarelui care stă jos pe cer.\n\nLa prânz, Rezidența Skočibuha apare ca un monument tăcut al istoriei. Aerul rece de iarnă face ca detaliile arhitecturale să pară mai clare, oferind condiții ideale pentru fotografii fără trecători.\n\nUrcarea spre Turnul Pakljena este plăcută la temperaturile blânde ale iernii dalmate. Vizibilitatea este adesea mai bună acum decât vara, permițând observarea contururilor precise ale insulelor vecine.\n\nDupă o plimbare prin livezile de măslini, ajungeți pe vârful Sutulija. Deoarece soarele apune devreme în decembrie și ianuarie, veți asista la un spectacol cromatic impresionant deasupra Adriaticii încă de la ora 16:30.",
+            "en": "A winter morning in Suđurađ harbor is quiet and crisp. Without the summer crowds, the village feels authentic as locals go about their daily routines. The low sun bathes the stone houses in a soft, warm glow.\n\nAt noon, the Skočibuha residence stands as a silent monument to history. In the cool winter air, you can appreciate the Renaissance architectural details without the usual tourist bustle.\n\nThe walk to Pakljena tower is pleasant in the mild Croatian winter temperatures. Visibility is often superior in winter, as the air is less hazy, making the silhouettes of nearby islands stand out sharply.\n\nAfter a walk through the majestic olive groves, reach the top of Sutulija. As the sun sets around 4:30 PM in winter, you will witness a spectacular early sunset over the Elaphite archipelago."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Suđurađ",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille, aber achten Sie auf den kalten Seewind.",
+                "hu": "Élvezze a csendet, de ügyeljen a hideg tengeri szélre.",
+                "ro": "Bucurați-vă de liniște, dar atenție la vântul rece de mare.",
+                "en": "Enjoy the silence, but watch out for the cold sea breeze."
+              }
+            },
+            {
+              "name": "Sommerresidenz Skočibuha",
+              "tip_5lang": {
+                "de": "Prüfen Sie vorher die eingeschränkten Winter-Öffnungszeiten.",
+                "hu": "Ellenőrizze előre a korlátozott téli nyitvatartást.",
+                "ro": "Verificați programul redus de vizitare în timpul iernii.",
+                "en": "Check the restricted winter opening hours in advance."
+              }
+            },
+            {
+              "name": "Pakljena-Turm",
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet die beste Fernsicht des Jahres.",
+                "hu": "A tiszta téli levegő kínálja az év legjobb kilátását.",
+                "ro": "Aerul curat de iarnă oferă cea mai bună vizibilitate din an.",
+                "en": "The clear winter air offers the best long-distance views."
+              }
+            },
+            {
+              "name": "Olivenhaine von Šipan",
+              "tip_5lang": {
+                "de": "Im Winter findet oft die späte Olivenpflege statt.",
+                "hu": "Télen gyakran folynak a kései olajfa-gondozási munkák.",
+                "ro": "Iarna au loc adesea lucrările de îngrijire a măslinilor.",
+                "en": "In winter, late olive tree maintenance often takes place."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Sutulija",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang beginnt bereits gegen 16:30 Uhr.",
+                "hu": "A naplemente már délután fél öt körül elkezdődik.",
+                "ro": "Apusul soarelui începe deja în jurul orei 16:30.",
+                "en": "The sunset starts as early as 4:30 PM in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung, da es im Schatten deutlich kühler ist.",
+              "Viele Restaurants haben Winterpause, packen Sie einen Snack ein.",
+              "Die Sonne geht früh unter, planen Sie Ihre Rückkehr vor 17:00 Uhr.",
+              "Die Fähren fahren seltener, prüfen Sie den Winterfahrplan genau.",
+              "Besuchen Sie die örtliche Kirche für einen Moment der inneren Ruhe."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen, mert az árnyékban sokkal hűvösebb van.",
+              "Sok étterem zárva tart, vigyen magával harapnivalót.",
+              "A nap korán nyugszik, tervezze a visszatérést 17:00 előttre.",
+              "A kompok ritkábban járnak, nézze meg a téli menetrendet.",
+              "Látogassa meg a helyi templomot egy csendes elmélyülésre."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, e mult mai rece la umbră.",
+              "Multe restaurante sunt închise, luați o gustare la pachet.",
+              "Soarele apune devreme, planificați întoarcerea înainte de 17:00.",
+              "Feriboturile circulă mai rar, verificați orarul de iarnă.",
+              "Vizitați biserica locală pentru un moment de liniște interioară."
+            ],
+            "en": [
+              "Dress in layers, as it is significantly cooler in the shade.",
+              "Many restaurants are closed for winter, pack a snack.",
+              "The sun sets early, plan your return before 5:00 PM.",
+              "Ferries run less frequently, check the winter schedule carefully.",
+              "Visit the local church for a moment of quiet reflection."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -434,6 +777,333 @@
           "The main road has very little traffic.",
           "There are few slopes in the field."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Das flache Inselinnere eignet sich perfekt für eine Radtour. Radeln Sie von Suđurađ quer über die Insel, vorbei an alten Kirchen und verlassenen Sommerhäusern, und genießen Sie die ländliche Ruhe der Elaphiten.",
+            "hu": "A sziget lapos belseje tökéletes kerékpártúrához. Kerekezzen át Suđurađból a szigeten, elhaladva régi templomok és elhagyatott nyaralók mellett, és élvezze az Elafit-szigetek vidéki nyugalmát.",
+            "ro": "Interiorul plat al insulei este perfect pentru o tură cu bicicleta. Pedalați din Suđurađ peste insulă, trecând pe lângă biserici vechi și case de vară abandonate, și bucurați-vă de liniștea rurală a insulelor Elafiti.",
+            "en": "The flat interior of the island is perfect for a bike tour. Cycle from Suđurađ across the island, past old churches and abandoned summer houses, and enjoy the rural peace of the Elafiti islands."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Suđurađ",
+              "tip_5lang": {
+                "de": "Mieten Sie ein Fahrrad am Hafen.",
+                "hu": "Béreljen kerékpárt a kikötőben.",
+                "ro": "Închiriați o bicicletă în port.",
+                "en": "Rent a bike at the harbor."
+              }
+            },
+            {
+              "name": "Heilig-Geist-Kirche",
+              "tip_5lang": {
+                "de": "Besuchen Sie die befestigte Kirche.",
+                "hu": "Látogassa meg az erődtemplomot.",
+                "ro": "Vizitați biserica fortificată.",
+                "en": "Visit the fortified church."
+              }
+            },
+            {
+              "name": "Sommerhaus Getaldić",
+              "tip_5lang": {
+                "de": "Ruine einer adligen Residenz.",
+                "hu": "Egy nemesi rezidencia romjai.",
+                "ro": "Ruinele unei reședințe nobiliare.",
+                "en": "Ruins of a noble residence."
+              }
+            },
+            {
+              "name": "Feldweg nach Šipanska Luka",
+              "tip_5lang": {
+                "de": "Fahrt durch das fruchtbare Feld.",
+                "hu": "Kerékpározás a termékeny mezőn át.",
+                "ro": "Călătorie prin câmpul fertil.",
+                "en": "Ride through the fertile field."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Stephan",
+              "tip_5lang": {
+                "de": "Entspannung in Hafennähe.",
+                "hu": "Lazítás a kikötő közelében.",
+                "ro": "Relaxare lângă port.",
+                "en": "Relaxation near the harbor."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Tri Sestre",
+                "tip": "Hervorragende Meeresfrüchte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tri Sestre Konoba",
+                "tip": "Kiváló tenger gyümölcsei."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Tri Sestre",
+                "tip": "Fructe de mare excelente."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Tri Sestre",
+                "tip": "Excellent seafood."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Inselmitte",
+                "tip": "Vogelgezwitscher und Olivenhaine.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sziget közepe",
+                "tip": "Madárcsicsergés és olajfaligetek.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mijlocul insulei",
+                "tip": "Ciripit de păsări și livezi.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Center of the island",
+                "tip": "Birdsong and olive groves.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Wein",
+                "tip": "Kaufen Sie Sipan-Wein."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi bor",
+                "tip": "Vásároljon sipani bort."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vin local",
+                "tip": "Cumpărați vin de Sipan."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local wine",
+                "tip": "Buy Sipan wine."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Hauptstraße ist kaum befahren.",
+              "Es gibt kaum Steigungen im Feld."
+            ],
+            "hu": [
+              "A főúton alig van forgalom.",
+              "A mezőn alig van emelkedő."
+            ],
+            "ro": [
+              "Drumul principal este puțin circulat.",
+              "Sunt puține pante în câmp."
+            ],
+            "en": [
+              "The main road has very little traffic.",
+              "There are few slopes in the field."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Hafen von Suđurađ. Auf zwei Rädern ist bei Regen erhöhte Aufmerksamkeit geboten. Die Heilig-Geist-Kirche ist ein schneller erster Stopp, dessen Vorbau Schutz bietet, während Sie die Aussicht über das graue Tal genießen.\n\nDie Fahrt geht weiter zum Sommerhaus Getaldić. Die befestigten Wege halten den Regen gut aus, aber in den Kurven ist Vorsicht vor nassen Blättern geboten. Das historische Anwesen wirkt in der feuchten Luft besonders mystisch.\n\nMittags führt der Feldweg nach Šipanska Luka durch das Herz der Insel. Der Schotter kann aufweichen, daher ist ein Mountainbike oder Trekkingrad heute die beste Wahl. Die Natur saugt das Wasser gierig auf und leuchtet in sattem Grün.\n\nZum Abschluss erreichen Sie die Kirche des Hl. Stephan zurück in Suđurađ. Nach der Tour über die Insel ist dies der perfekte Ort, um das Fahrrad abzustellen und die Ruhe des sakralen Raums zu genießen, während der Regen gegen die Fenster trommelt.",
+            "hu": "Kezdje óvatosan a tekerést Suđurađ kikötőjéből. Esőben a kétkeréken való közlekedés fokozott figyelmet igényel. A Szentlélek-templom gyors menedéket nyújt, előcsarnokából pedig nézheti a ködös völgyet.\n\nFolytassa útját a Getaldić-nyaraló felé. A szilárd burkolatú utak jól bírják az esőt, de a kanyarokban ügyeljen a nedves levelekre. A történelmi birtok a párás levegőben különösen titokzatosnak tűnik.\n\nDélben a Šipanska Luka felé vezető mezei út a sziget szívén visz keresztül. A murva felázhat, ezért ma egy terepkerékpár a legjobb választás. A természet mohón szívja be a vizet, és mélyzöld színekben pompázik.\n\nVégül érkezzen meg a Szent István-templomhoz Suđurađban. A szigeti túra után ez a tökéletes hely a bicikli leparkolására és a szakrális tér nyugalmának élvezetére, miközben az eső veri az ablakokat.",
+            "ro": "Începeți cu prudență din portul Suđurađ. Pe două roți, atenția trebuie să fie sporită în timpul ploii. Biserica Sfântului Duh este un prim popas rapid, unde pridvorul oferă adăpost în timp ce admirați valea cețoasă.\n\nCălătoria continuă spre casa de vară Getaldić. Drumurile asfaltate rezistă bine la ploaie, dar fiți atenți la frunzele ude în curbe. Domeniul istoric pare deosebit de mistic în aerul umed al insulei.\n\nLa prânz, drumul de câmp spre Šipanska Luka vă poartă prin inima insulei. Pietrișul poate deveni instabil, așa că o bicicletă montană este cea mai bună alegere azi. Natura absoarbe apa cu nesaț, strălucind în verde intens.\n\nLa final, ajungeți la Biserica Sf. Ștefan înapoi în Suđurađ. După tura pe insulă, acesta este locul perfect pentru a lăsa bicicleta și a vă bucura de liniștea spațiului sacru în timp ce ploaia bate în geamuri.",
+            "en": "Start cautiously from Suđurađ harbor. On two wheels, increased attention is required in the rain. The Holy Spirit Church is a quick first stop, with its porch offering shelter as you take in the views of the misty valley.\n\nContinue your ride to the Getaldić summer house. The paved roads hold up well in the rain, but watch out for wet leaves in the corners. The historic estate looks particularly mystical in the humid island air.\n\nAt noon, the field path to Šipanska Luka takes you through the heart of the island. The gravel can soften, so a mountain bike is the best choice today. Nature greedily absorbs the water, glowing in rich shades of green.\n\nFinally, reach the Church of St. Stephen back in Suđurađ. After your tour across the island, this is the perfect spot to park your bike and enjoy the peace of the sacred space while the rain drums against the windows."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Suđurađ",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf die nassen Straßen starten.",
+                "hu": "Ellenőrizze a fékeket, mielőtt elindul a nedves utakon.",
+                "ro": "Verificați frânele înainte de a porni pe drumurile ude.",
+                "en": "Check your brakes before starting on the wet roads."
+              }
+            },
+            {
+              "name": "Heilig-Geist-Kirche",
+              "tip_5lang": {
+                "de": "Der Vorbau bietet Platz, um kurz im Trockenen zu rasten.",
+                "hu": "Az előtérben van hely egy rövid, száraz pihenőre.",
+                "ro": "Pridvorul oferă spațiu pentru un scurt popas la adăpost.",
+                "en": "The porch offers space for a short, dry rest."
+              }
+            },
+            {
+              "name": "Sommerhaus Getaldić",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Steinen im Eingangsbereich.",
+                "hu": "Ügyeljen a csúszós kövekre a bejáratnál.",
+                "ro": "Atenție la pietrele alunecoase din zona de intrare.",
+                "en": "Watch out for slippery stones in the entrance area."
+              }
+            },
+            {
+              "name": "Feldweg nach Šipanska Luka",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, um Schlammspritzer zu vermeiden.",
+                "hu": "Hajtson lassan, hogy elkerülje a sárfelverődést.",
+                "ro": "Mergeți încet pentru a evita stropirea cu noroi.",
+                "en": "Ride slowly to avoid mud splashes."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Stephan",
+              "tip_5lang": {
+                "de": "Ein Handtuch für den Sattel ist nach der Fahrt Gold wert.",
+                "hu": "Egy törölköző a nyereghez aranyat ér az út után.",
+                "ro": "Un prosop pentru șa face minuni după terminarea turei.",
+                "en": "A towel for the saddle is worth its weight in gold after the ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um sich vor Schmutzwasser zu schützen.",
+              "Bremsen Sie frühzeitig und sanft auf nassem Asphalt.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Sichern Sie Ihr Telefon in einer wasserdichten Hülle am Lenker."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "Fékezzen időben és finoman a nedves aszfalton.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóságért.",
+              "Tartsa telefonját vízálló tokban a kormányon."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a vă proteja de apă.",
+              "Frânați din timp și ușor pe asfaltul umed.",
+              "Evitați bălțile, pot ascunde gropi adânci.",
+              "Purtați o jachetă reflectorizantă pentru vizibilitate sporită.",
+              "Păstrați telefonul într-o husă impermeabilă pe ghidon."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from road spray.",
+              "Brake early and gently on wet asphalt.",
+              "Avoid puddles as they can hide deep potholes.",
+              "Wear a bright raincoat for better visibility.",
+              "Secure your phone in a waterproof case on the handlebars."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen auf dem Fahrrad beginnt im ruhigen Hafen von Suđurađ. Die kühle Luft ist erfrischend und die Straßen gehören Ihnen fast allein. Der erste Anstieg zur Heilig-Geist-Kirche wärmt die Muskeln auf und belohnt mit einer klaren Aussicht über die winterliche Insel.\n\nWeiter geht es zum Sommerhaus Getaldić. Ohne das dichte sommerliche Blattwerk der umliegenden Gärten treten die Steinmauern und die Architektur des Hauses deutlicher hervor. Die Stille wird nur vom Rollen Ihrer Reifen auf dem Asphalt unterbrochen.\n\nDie Route durch das Inselinnere nach Šipanska Luka ist im Winter besonders reizvoll. Die Sonne steht tief und erzeugt lange Schatten zwischen den Olivenbäumen. Es ist die ideale Zeit für eine sportliche Erkundung ohne die drückende Hitze des Juli.\n\nZum Abschluss kehren Sie nach Suđurađ zurück und besuchen die Kirche des Hl. Stephan. Das sanfte Abendlicht der Wintersonne lässt die alte Steinkirche in Goldtönen erstrahlen, bevor Sie die Tour am Hafen beenden.",
+            "hu": "A téli kerékpáros reggel Suđurađ csendes kikötőjében indul. A hűvös levegő frissítő, az utak pedig szinte csak az Önéi. Az első emelkedő a Szentlélek-templomhoz bemelegíti az izmokat, és tiszta kilátással jutalmaz a téli szigetre.\n\nFolytassa az utat a Getaldić-nyaraló felé. A nyári buja növényzet nélkül a ház kőfalai és építészeti részletei élesebben kirajzolódnak. A csendet csak a gumiabroncsok aszfalton való gördülése töri meg.\n\nA sziget belsején átvezető út Šipanska Luka felé télen különösen vonzó. A nap alacsonyan jár, hosszú árnyékokat vetve az olajfák közé. Ez az ideális időpont egy sportos felfedezésre a júliusi hőség nélkül.\n\nBefejezésül térjen vissza Suđurađba a Szent István-templomhoz. A téli naplemente lágy fénye arany tónusokba öltözteti a régi kőtemplomot, mielőtt befejezné a túrát a kikötőben.",
+            "ro": "O dimineață de iarnă pe bicicletă începe în portul liniștit Suđurađ. Aerul rece este revigorant, iar drumurile sunt aproape pustii. Prima urcare spre Biserica Sfântului Duh vă încălzește mușchii și vă răsplătește cu o vedere clară asupra insulei.\n\nContinuați spre casa de vară Getaldić. Fără vegetația bogată de vară, zidurile de piatră și arhitectura casei ies mai bine în evidență. Liniștea este întreruptă doar de sunetul anvelopelor pe asfalt.\n\nTraseul prin interiorul insulei către Šipanska Luka este deosebit de atractiv iarna. Soarele stă jos, creând umbre lungi printre măslini. Este momentul ideal pentru o explorare sportivă, fără căldura sufocantă din iulie.\n\nLa final, reveniți în Suđurađ pentru a vizita Biserica Sf. Ștefan. Lumina blândă a soarelui de iarnă face ca vechea biserică de piatră să strălucească în tonuri aurii înainte de a încheia turul în port.",
+            "en": "A winter morning on a bike begins in the quiet harbor of Suđurađ. The cool air is refreshing, and the roads are almost entirely yours. The first climb to the Holy Spirit Church warms up your muscles and rewards you with a clear view of the winter island.\n\nContinue to the Getaldić summer house. Without the dense summer foliage of the surrounding gardens, the stone walls and architecture of the house stand out more clearly. The silence is only broken by the sound of your tires on the asphalt.\n\nThe route through the island's interior to Šipanska Luka is particularly charming in winter. The sun is low, casting long shadows among the olive trees. It is the ideal time for a sporty exploration without the oppressive July heat.\n\nTo finish, return to Suđurađ and visit the Church of St. Stephen. The soft evening light of the winter sun makes the old stone church glow in golden tones before ending your tour at the harbor."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Suđurađ",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe, der Fahrtwind ist im Winter beißend.",
+                "hu": "Viseljen kesztyűt, a menetszél télen metsző lehet.",
+                "ro": "Purtați mănuși, vântul este tăios iarna când mergeți cu viteză.",
+                "en": "Wear gloves, the wind chill is biting in winter while riding."
+              }
+            },
+            {
+              "name": "Heilig-Geist-Kirche",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen im windgeschützten Eingang.",
+                "hu": "Egy rövid megálló bemelegedni a szélvédett bejáratnál.",
+                "ro": "Un scurt popas pentru încălzire în intrarea ferită de vânt.",
+                "en": "A short stop to warm up in the wind-sheltered entrance."
+              }
+            },
+            {
+              "name": "Sommerhaus Getaldić",
+              "tip_5lang": {
+                "de": "Das Licht für Fotos ist im Winter am späten Vormittag ideal.",
+                "hu": "A fotózáshoz a fény télen késő délelőtt a legideálisabb.",
+                "ro": "Lumina pentru fotografii este ideală spre sfârșitul dimineții.",
+                "en": "The lighting for photos is ideal in the late morning in winter."
+              }
+            },
+            {
+              "name": "Feldweg nach Šipanska Luka",
+              "tip_5lang": {
+                "de": "Achten Sie auf feuchte Stellen im Schatten der Bäume.",
+                "hu": "Ügyeljen a nedves foltokra a fák árnyékában.",
+                "ro": "Atenție la zonele umede din umbra copacilor.",
+                "en": "Watch out for damp spots in the shadows of the trees."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Stephan",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor 16:30 Uhr, um nicht im Dunkeln zu fahren.",
+                "hu": "Fejezze be a túrát 16:30 előtt, hogy ne sötétben tekerjen.",
+                "ro": "Încheiați turul înainte de 16:30 pentru a nu merge pe întuneric.",
+                "en": "Finish the tour before 4:30 PM to avoid riding in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders für die Abfahrten.",
+              "Die Tage sind kurz, starten Sie Ihre Tour spätestens um 10:00 Uhr.",
+              "Nehmen Sie eine Thermoskanne mit einem warmen Getränk mit.",
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte sinken kann.",
+              "Ein Rücklicht ist auch tagsüber bei tiefstehender Sonne ratsam."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, különösen a lejtőkön.",
+              "A nappalok rövidek, legkésőbb délelőtt 10-kor induljon el.",
+              "Vigyen magával termoszt meleg itallal.",
+              "Ellenőrizze a guminyomást, mert hidegben csökkenhet.",
+              "A hátsó lámpa nappal is ajánlott az alacsony napállás miatt."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, mai ales pentru coborâri.",
+              "Zilele sunt scurte, începeți tura cel târziu la ora 10:00.",
+              "Luați un termos cu o băutură caldă la voi.",
+              "Verificați presiunea în pneuri, poate scădea la frig.",
+              "Un stop spate este recomandat și ziua din cauza soarelui jos."
+            ],
+            "en": [
+              "Wear windproof clothing, especially for the descents.",
+              "Days are short, start your tour by 10:00 AM at the latest.",
+              "Take a thermos with a warm drink with you.",
+              "Check tire pressure, as it can drop in cold weather.",
+              "A rear light is advisable even during the day with the low sun."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -622,6 +1292,306 @@
           "The roads are narrow, drive carefully.",
           "There are limited parking spaces in the harbors."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto können Sie Sipan in seiner ganzen Länge erkunden. Fahren Sie von Suđurađ durch das fruchtbare Inselinnere bis zum Fischerdorf Šipanska Luka am anderen Ende und besichtigen Sie historische Residenzen.",
+            "hu": "Autóval teljes hosszában felfedezheti Sipant. Hajtson Suđurađból a termékeny szigetbelsőn keresztül a másik végén lévő Šipanska Luka halászfaluba, és látogasson meg történelmi rezidenciákat.",
+            "ro": "Cu mașina puteți explora Sipan în toată lungimea sa. Conduceți din Suđurađ prin interiorul fertil al insulei până în satul de pescari Šipanska Luka de la celălalt capăt și vizitați reședințe istorice.",
+            "en": "With a car, you can explore Sipan in its entire length. Drive from Suđurađ through the fertile island interior to the fishing village of Šipanska Luka at the other end and visit historic residences."
+          },
+          "stops": [
+            {
+              "name": "Suđurađ Hafen",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Hafens.",
+                "hu": "Parkoljon a kikötő közelében.",
+                "ro": "Parcați lângă port.",
+                "en": "Park near the harbor."
+              }
+            },
+            {
+              "name": "Heilig-Geist-Kirche",
+              "tip_5lang": {
+                "de": "Eindrucksvolle Architektur.",
+                "hu": "Lenyűgöző építészet.",
+                "ro": "Arhitectură impresionantă.",
+                "en": "Impressive architecture."
+              }
+            },
+            {
+              "name": "Šipanska Luka (Ausflug)",
+              "tip_5lang": {
+                "de": "Besuchen Sie die andere Seite der Insel.",
+                "hu": "Látogassa meg a sziget másik oldalát.",
+                "ro": "Vizitați cealaltă parte a insulei.",
+                "en": "Visit the other side of the island."
+              }
+            },
+            {
+              "name": "Sommerresidenz Skočibuha",
+              "tip_5lang": {
+                "de": "Rückkehr nach Suđurađ.",
+                "hu": "Visszatérés Suđurađba.",
+                "ro": "Întoarcere în Suđurađ.",
+                "en": "Return to Suđurađ."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurant Kod Marka",
+                "tip": "Berühmt für Tintenfisch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kod Marka Étterem",
+                "tip": "Híres a tintahaláról."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurant Kod Marka",
+                "tip": "Celebră pentru caracatiță."
+              }
+            ],
+            "en": [
+              {
+                "name": "Kod Marka Restaurant",
+                "tip": "Famous for octopus."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Panoramastraße",
+                "tip": "Blick auf die Nachbarinseln.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Panorámaút",
+                "tip": "Kilátás a szomszédos szigetekre.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Drum panoramic",
+                "tip": "Vedere la insulele vecine.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Panoramic road",
+                "tip": "View of the neighboring islands.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Kräuter der Insel",
+                "tip": "Getrockneter Lavendel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szigeti gyógynövények",
+                "tip": "Szárított levendula."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ierburi de pe insulă",
+                "tip": "Levănțică uscată."
+              }
+            ],
+            "en": [
+              {
+                "name": "Island herbs",
+                "tip": "Dried lavender."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straßen sind schmal, fahren Sie vorsichtig.",
+              "Es gibt begrenzte Parkplätze in den Häfen."
+            ],
+            "hu": [
+              "Az utak keskenyek, vezessen óvatosan.",
+              "A kikötőkben korlátozott a parkolóhelyek száma."
+            ],
+            "ro": [
+              "Drumurile sunt înguste, conduceți cu atenție.",
+              "Există locuri de parcare limitate în porturi."
+            ],
+            "en": [
+              "The roads are narrow, drive carefully.",
+              "There are limited parking spaces in the harbors."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Suđurađ auch bei Regen komfortabel zu erkunden. Starten Sie am Hafen, wo Sie bequem im Wagen warten können, bis der erste starke Guss vorbei ist. Die Fahrt zur Heilig-Geist-Kirche ist kurz und führt über gut ausgebaute Straßen.\n\nMittags ist ein Ausflug nach Šipanska Luka ideal. Die Fahrt quer über die Insel bietet Ausblicke auf die regenverhangene Landschaft, während Sie trocken und warm sitzen. Im Ort angekommen, finden Sie Parkplätze nah am Zentrum.\n\nAm Nachmittag kehren Sie zur Sommerresidenz Skočibuha zurück. Da das Auto direkt in der Nähe geparkt werden kann, sind Sie nur kurz dem Regen ausgesetzt, bevor Sie in die historische Pracht des Hauses eintauchen.\n\nDen Tag beenden Sie wieder im Hafen von Suđurađ. Genießen Sie den Blick auf die Wellen von einem der Cafés aus, die Sie trockenen Fußes von Ihrem Parkplatz erreichen können.",
+            "hu": "Autóval Suđurađ esőben is kényelmesen felfedezhető. Kezdje a kikötőben, ahol az autóban várhatja meg a legnagyobb zápor végét. A Szentlélek-templomhoz vezető út rövid és jól karbantartott.\n\nDélben egy kirándulás Šipanska Lukába ideális választás. A szigeten átvezető út során a száraz és meleg utastérből csodálhatja a párás tájat. A faluba érve a központhoz közel talál parkolót.\n\nDélután térjen vissza a Skočibuha-rezidenciához. Mivel az autóval közel tud parkolni, csak rövid ideig kell az esőben lennie, mielőtt belépne a ház történelmi pompájába.\n\nA napot Suđurađ kikötőjében zárja. Élvezze a hullámok látványát a kikötői kávézók egyikéből, amelyeket száraz lábbal érhet el a parkolótól.",
+            "ro": "Cu mașina, Suđurađ este confortabil de explorat chiar și pe ploaie. Începeți la port, unde puteți aștepta în mașină trecerea primei averse puternice. Drumul spre Biserica Sfântului Duh este scurt și bine întreținut.\n\nLa prânz, o excursie la Šipanska Luka este ideală. Călătoria peste insulă oferă vederi spre peisajul cețos în timp ce stați la căldură. Ajunși în sat, veți găsi locuri de parcare aproape de centru.\n\nDupă-amiaza, reveniți la Rezidența Skočibuha. Deoarece puteți parca foarte aproape, veți fi expuși ploii doar scurt timp înainte de a intra în splendoarea istorică a casei.\n\nÎncheiați ziua în portul Suđurađ. Admirați valurile dintr-o cafenea la care puteți ajunge cu picioarele uscate de la parcare.",
+            "en": "By car, Suđurađ is comfortable to explore even in the rain. Start at the harbor, where you can wait in the car for a heavy shower to pass. The drive to the Holy Spirit Church is short and uses well-maintained roads.\n\nAt noon, an excursion to Šipanska Luka is ideal. The drive across the island offers views of the misty landscape while you stay dry and warm. Once in the village, you'll find parking close to the center.\n\nIn the afternoon, return to the Skočibuha residence. Since you can park very close, you'll only be exposed to the rain for a moment before stepping into the historic grandeur of the house.\n\nEnd your day back at Suđurađ harbor. Enjoy the view of the waves from one of the cafes that you can reach with dry feet from your parking spot."
+          },
+          "stops": [
+            {
+              "name": "Suđurađ Hafen",
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie das Meer direkt vom Auto aus sehen.",
+                "hu": "Parkoljon úgy, hogy közvetlenül az autóból lássa a tengert.",
+                "ro": "Parcați astfel încât să vedeți marea direct din mașină.",
+                "en": "Park so you can see the sea directly from your car."
+              }
+            },
+            {
+              "name": "Heilig-Geist-Kirche",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nur wenige Schritte vom Eingang entfernt.",
+                "hu": "A parkoló csak néhány lépésre van a bejárattól.",
+                "ro": "Parcarea este la doar câțiva pași de intrare.",
+                "en": "The parking area is just a few steps from the entrance."
+              }
+            },
+            {
+              "name": "Šipanska Luka (Ausflug)",
+              "tip_5lang": {
+                "de": "Die schmale Straße erfordert bei Nässe vorsichtiges Tempo.",
+                "hu": "A szűk út nedves időben lassabb tempót igényel.",
+                "ro": "Drumul îngust necesită viteză redusă pe carosabil umed.",
+                "en": "The narrow road requires a careful pace in wet conditions."
+              }
+            },
+            {
+              "name": "Sommerresidenz Skočibuha",
+              "tip_5lang": {
+                "de": "Halten Sie den Schirm griffbereit für den kurzen Weg zum Tor.",
+                "hu": "Tartsa kéznél az esernyőt a kapuig tartó rövid útra.",
+                "ro": "Țineți umbrela la îndemână pentru drumul scurt până la poartă.",
+                "en": "Keep your umbrella handy for the short walk to the gate."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+              "Die Straßen auf Šipan sind schmal, achten Sie auf Gegenverkehr.",
+              "Parken Sie in Šipanska Luka auf befestigten Flächen.",
+              "Achten Sie auf herabgefallene Äste nach starken Schauern.",
+              "Hinterlassen Sie keine Wertsachen sichtbar im Wagen."
+            ],
+            "hu": [
+              "Használja a légkondicionálót a párásodó szélvédő ellen.",
+              "Šipan útjai szűkek, ügyeljen a szembejövő forgalomra.",
+              "Šipanska Lukában szilárd burkolatú helyen parkoljon.",
+              "Ügyeljen a lehullott faágakra heves záporok után.",
+              "Ne hagyjon értéktárgyat látható helyen az autóban."
+            ],
+            "ro": [
+              "Folosiți aerul condiționat pentru a dezaburi parbrizul.",
+              "Drumurile pe Šipan sunt înguste, atenție la traficul din sens opus.",
+              "Parcați pe suprafețe betonate în Šipanska Luka.",
+              "Atenție la crengile căzute după averse puternice.",
+              "Nu lăsați obiecte de valoare la vedere în mașină."
+            ],
+            "en": [
+              "Use the air conditioning to prevent windows from fogging up.",
+              "The roads on Šipan are narrow, watch out for oncoming traffic.",
+              "Park on paved surfaces in Šipanska Luka.",
+              "Watch out for fallen branches after heavy rain showers.",
+              "Do not leave any valuables visible in the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit dem Auto auf Šipan bietet maximale Flexibilität. Beginnen Sie im ruhigen Hafen von Suđurađ, wo die klare Morgenluft den Blick bis zum Festland freigibt. Die Heizung im Auto sorgt für Gemütlichkeit zwischen den Stopps.\n\nDie Fahrt zur Heilig-Geist-Kirche ist kurz. Im Winter ist der Parkplatz verwaist, sodass Sie in aller Ruhe aussteigen und die weite Sicht genießen können. Die umliegende Vegetation ist weniger dicht, was neue Blickwinkel auf die Inselstruktur ermöglicht.\n\nMittags führt die Panoramafahrt nach Šipanska Luka. Die Straße schlängelt sich durch die stillen Olivenhaine. In Šipanska Luka ist es im Winter herrlich ruhig; Sie können direkt am Ufer parken und einen kurzen Spaziergang in der Sonne machen.\n\nAm Nachmittag besuchen Sie die Sommerresidenz Skočibuha in Suđurađ. Das warme Licht der tiefstehenden Wintersonne betont die Textur der alten Steine, bevor Sie den Ausflug am Hafen bei einem frühen Sonnenuntergang abschließen.",
+            "hu": "A téli autós nap Šipan szigetén maximális rugalmasságot kínál. Kezdjen a csendes Suđurađ kikötőjében, ahol a tiszta reggeli levegőben ellátni egészen a szárazföldig. Az autó fűtése kellemes meleget ad a megállók között.\n\nA Szentlélek-templomhoz vezető út rövid. Télen a parkoló üres, így nyugodtan kiszállhat és élvezheti a tágas kilátást. A ritkább növényzet új betekintést enged a sziget szerkezetébe.\n\nDélben egy panorámaút vezet Šipanska Lukába. Az út a csendes olajfaligeteken kanyarog keresztül. Šipanska Lukában télen csodálatos nyugalom van; parkoljon közvetlenül a parton és tegyen egy rövid sétát a napon.\n\nDélután látogassa meg a Skočibuha-rezidenciát Suđurađban. Az alacsony téli nap meleg fénye kiemeli a régi kövek textúráját, mielőtt befejezné a kirándulást a kikötőben a korai naplementével.",
+            "ro": "O zi de iarnă cu mașina pe Šipan oferă flexibilitate maximă. Începeți în portul liniștit Suđurađ, unde aerul clar al dimineții permite vizibilitatea până la continent. Căldura din mașină asigură confort între popasuri.\n\nDrumul spre Biserica Sfântului Duh este scurt. Iarna parcarea este liberă, așa că puteți coborî în liniște pentru a admira panorama. Vegetația mai rară permite unghiuri noi de vedere asupra structurii insulei.\n\nLa prânz, urmați drumul panoramic spre Šipanska Luka. Șoseaua șerpuiește prin livezile tăcute de măslini. În Šipanska Luka este o liniște divină iarna; parcați direct pe faleză pentru o scurtă plimbare la soare.\n\nDupă-amiaza vizitați Rezidența Skočibuha în Suđurađ. Lumina caldă a soarelui de iarnă subliniază textura pietrelor vechi înainte de a încheia excursia în port la apus.",
+            "en": "A winter day by car on Šipan offers maximum flexibility. Start in the quiet Suđurađ harbor, where the clear morning air reveals views all the way to the mainland. The car's heater ensures comfort between stops.\n\nThe drive to the Holy Spirit Church is short. In winter, the parking area is deserted, so you can get out in peace and enjoy the wide views. The sparser vegetation allows for new perspectives on the island's structure.\n\nAt noon, take the scenic drive to Šipanska Luka. The road winds through the silent olive groves. In Šipanska Luka, it is wonderfully quiet in winter; you can park right by the shore and take a short walk in the sun.\n\nIn the afternoon, visit the Skočibuha residence in Suđurađ. The warm light of the low winter sun emphasizes the texture of the old stones before ending your trip at the harbor with an early sunset."
+          },
+          "stops": [
+            {
+              "name": "Suđurađ Hafen",
+              "tip_5lang": {
+                "de": "Das Parken ist im Winter im gesamten Hafenbereich problemlos.",
+                "hu": "Télen a parkolás az egész kikötő területén problémamentes.",
+                "ro": "Parcarea este facilă în toată zona portului în timpul iernii.",
+                "en": "Parking is easy throughout the harbor area in winter."
+              }
+            },
+            {
+              "name": "Heilig-Geist-Kirche",
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Parkplatz direkt an der Kirche.",
+                "hu": "Használja a közvetlenül a templomnál lévő szélvédett parkolót.",
+                "ro": "Folosiți parcarea ferită de vânt direct de lângă biserică.",
+                "en": "Use the wind-sheltered parking area directly at the church."
+              }
+            },
+            {
+              "name": "Šipanska Luka (Ausflug)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe, die meisten Restaurants sind geschlossen.",
+                "hu": "Élvezze a csendet, a legtöbb étterem zárva tart.",
+                "ro": "Bucurați-vă de liniște, majoritatea restaurantelor sunt închise.",
+                "en": "Enjoy the peace, as most restaurants are closed."
+              }
+            },
+            {
+              "name": "Sommerresidenz Skočibuha",
+              "tip_5lang": {
+                "de": "Das Licht am späten Nachmittag ist perfekt für Fotos.",
+                "hu": "A késő délutáni fény tökéletes a fotózáshoz.",
+                "ro": "Lumina de după-amiază târzie este perfectă pentru fotografii.",
+                "en": "The late afternoon light is perfect for photography."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck vor der Überfahrt auf die Insel.",
+              "Nehmen Sie warme Getränke mit, da Cafés oft geschlossen sind.",
+              "Die Straßen können in schattigen Lagen morgens feucht sein.",
+              "Achten Sie auf Wildtiere, die im Winter öfter die Straße queren.",
+              "Planen Sie die Rückreise zur Fähre rechtzeitig ein."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást a szigetre való átkelés előtt.",
+              "Vigyen meleg italt, mert a kávézók gyakran zárva vannak.",
+              "Az utak árnyékos helyeken reggelente nedvesek lehetnek.",
+              "Ügyeljen a vadállatokra, amelyek télen gyakrabban kelnek át az úton.",
+              "Időben tervezze meg a visszautat a komphoz."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope înainte de trecerea pe insulă.",
+              "Luați băuturi calde, cafenelele sunt adesea închise.",
+              "Drumurile pot fi umede dimineața în zonele umbrite.",
+              "Atenție la animalele sălbatice care traversează drumul iarna.",
+              "Planificați din timp întoarcerea la feribot."
+            ],
+            "en": [
+              "Check tire pressure before crossing over to the island.",
+              "Take warm drinks with you, as cafes are often closed.",
+              "Roads can be damp in shaded areas in the morning.",
+              "Watch out for wildlife that may cross the road more often in winter.",
+              "Plan your return trip to the ferry in good time."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -810,6 +1780,306 @@
           "The bus schedule is coordinated with the ferries.",
           "Tickets are bought from the driver."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ein lokaler Bus verbindet die beiden Hauptorte der Insel. Nutzen Sie diesen unkomplizierten Service, um beide Seiten von Sipan zu sehen und zwischendurch in Suđurađ das Skočibuha-Sommerhaus zu bewundern.",
+            "hu": "Egy helyi busz köti össze a sziget két fő települését. Használja ezt az egyszerű szolgáltatást, hogy lássa Sipan mindkét oldalát, és közben Suđurađban megcsodálja a Skočibuha nyaralót.",
+            "ro": "Un autobuz local leagă cele două localități principale de pe insulă. Folosiți acest serviciu simplu pentru a vedea ambele părți ale Sipanului și, între timp, admirați casa de vară Skočibuha în Suđurađ.",
+            "en": "A local bus connects the two main towns on the island. Use this straightforward service to see both sides of Sipan and admire the Skočibuha summer house in Suđurađ in between."
+          },
+          "stops": [
+            {
+              "name": "Busstation Suđurađ",
+              "tip_5lang": {
+                "de": "Nutzen Sie den lokalen Bus.",
+                "hu": "Használja a helyi buszt.",
+                "ro": "Folosiți autobuzul local.",
+                "en": "Use the local bus."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Stephan",
+              "tip_5lang": {
+                "de": "Historische Kirche am Hafen.",
+                "hu": "Történelmi templom a kikötőben.",
+                "ro": "Biserică istorică în port.",
+                "en": "Historical church at the harbor."
+              }
+            },
+            {
+              "name": "Šipanska Luka",
+              "tip_5lang": {
+                "de": "Mit dem Bus in 15 Min. erreichbar.",
+                "hu": "Busszal 15 perc alatt elérhető.",
+                "ro": "Accesibil cu autobuzul în 15 min.",
+                "en": "Accessible by bus in 15 min."
+              }
+            },
+            {
+              "name": "Hafen von Suđurađ",
+              "tip_5lang": {
+                "de": "Rückkehr für die Fähre.",
+                "hu": "Visszatérés a komphoz.",
+                "ro": "Întoarcere pentru feribot.",
+                "en": "Return for the ferry."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Taurus",
+                "tip": "Gute lokale Weine."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Taurus Konoba",
+                "tip": "Jó helyi borok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Taurus",
+                "tip": "Vinuri locale bune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Taurus",
+                "tip": "Good local wines."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hafenkai",
+                "tip": "Schiffe beobachten.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötői móló",
+                "tip": "Hajók megfigyelése.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Moll de port",
+                "tip": "Observarea vapoarelor.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Harbor pier",
+                "tip": "Watching ships.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Handwerksshop",
+                "tip": "Lokal hergestellte Waren."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kézműves bolt",
+                "tip": "Helyben készített áruk."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de artizanat",
+                "tip": "Produse fabricate local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Handicraft shop",
+                "tip": "Locally made goods."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Busfahrplan ist auf die Fähren abgestimmt.",
+              "Tickets werden beim Fahrer gekauft."
+            ],
+            "hu": [
+              "A buszmenetrend a kompokhoz igazodik.",
+              "A jegyeket a sofőrnél kell megvenni."
+            ],
+            "ro": [
+              "Programul autobuzului este coordonat cu feriboturile.",
+              "Biletele se cumpără de la șofer."
+            ],
+            "en": [
+              "The bus schedule is coordinated with the ferries.",
+              "Tickets are bought from the driver."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihren Tag an der Busstation Suđurađ. Die Haltestelle bietet ein Dach, unter dem Sie auf den Inselbus warten können. Die kurze Fahrt zur Kirche des Hl. Stephan ist ideal, um die regnerische Hafenatmosphäre aus dem Fenster zu beobachten.\n\nMittags nehmen Sie den Bus nach Šipanska Luka. Die Fahrt quer über die Insel ist komfortabel und bietet Ihnen einen trockenen Platz, um die grüne Hügellandschaft zu bewundern. In Šipanska Luka angekommen, sind die historischen Gassen nur einen kurzen Weg von der Haltestelle entfernt.\n\nVerbringen Sie den Nachmittag in Šipanska Luka, wo Sie in einem der lokalen Cafés einkehren können, wenn der Regen zunimmt. Die Rückfahrt nach Suđurađ bietet noch einmal die Chance, die Inselnatur im Nebel zu sehen.\n\nZurück im Hafen von Suđurađ können Sie den Tag entspannt ausklingen lassen. Da die Fähre meist nah an der Busstation anlegt, haben Sie nur kurze Wege im Freien.",
+            "hu": "Kezdje a napot a Suđurađ buszmegállóban. A megálló fedett, így nyugodtan várhatja a szigeti buszt. A Szent István-templomhoz vezető rövid út alatt az ablakból figyelheti az esős kikötői hangulatot.\n\nDélben szálljon fel a Šipanska Lukába tartó buszra. A szigeten átvezető út kényelmes és száraz helyet biztosít a zöld dombok megcsodálásához. Šipanska Lukába érve a történelmi utcák csak rövid sétára vannak a megállótól.\n\nTöltse a délutánt Šipanska Lukában, ahol betérhet egy helyi kávézóba, ha elered az eső. A visszautazás Suđurađba újabb lehetőséget ad a ködös szigeti természet megfigyelésére.\n\nVisszatérve Suđurađ kikötőjébe, lazán zárhatja a napot. Mivel a komp általában a buszmegálló közelében köt ki, csak keveset kell a szabadban tartózkodnia.",
+            "ro": "Începeți ziua la autogara Suđurađ. Stația este acoperită, oferind adăpost în timp ce așteptați autobuzul insular. Scurta călătorie spre Biserica Sf. Ștefan este ideală pentru a observa atmosfera portului ploios de la fereastră.\n\nLa prânz, luați autobuzul spre Šipanska Luka. Călătoria peste insulă este confortabilă și vă oferă un loc uscat de unde puteți admira dealurile verzi. Ajunși în Šipanska Luka, străzile istorice sunt la mică distanță de stație.\n\nPetreceți după-amiaza în Šipanska Luka, unde puteți poposi într-o cafenea locală dacă ploaia se întețește. Drumul de întoarcere spre Suđurađ vă oferă încă o șansă de a vedea natura insulei în ceață.\n\nReveniți în portul Suđurađ pentru a încheia ziua relaxat. Deoarece feribotul acostează aproape de stație, drumurile pe afară sunt scurte.",
+            "en": "Start your day at the Suđurađ bus station. The stop has a roof where you can wait for the island bus. The short ride to the Church of St. Stephen is ideal for watching the rainy harbor atmosphere from the window.\n\nAt noon, take the bus to Šipanska Luka. The ride across the island is comfortable and provides a dry spot to admire the green hilly landscape. Once in Šipanska Luka, the historic alleys are just a short walk from the stop.\n\nSpend the afternoon in Šipanska Luka, where you can stop at a local cafe if the rain increases. The return trip to Suđurađ offers another chance to see the island's nature in the mist.\n\nBack at Suđurađ harbor, you can end the day in a relaxed manner. Since the ferry usually docks near the bus station, you'll have only short walks outdoors."
+          },
+          "stops": [
+            {
+              "name": "Busstation Suđurađ",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Dach der Haltestelle auf den Bus.",
+                "hu": "Várja a buszt a megálló fedett része alatt.",
+                "ro": "Așteptați autobuzul sub acoperișul stației.",
+                "en": "Wait for the bus under the shelter of the stop."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Stephan",
+              "tip_5lang": {
+                "de": "Die Kirche ist ein guter Ort, um einen Schauer abzuwarten.",
+                "hu": "A templom jó hely egy-egy zápor kivárására.",
+                "ro": "Biserica este un loc bun pentru a aștepta trecerea unei averse.",
+                "en": "The church is a good place to wait out a shower."
+              }
+            },
+            {
+              "name": "Šipanska Luka",
+              "tip_5lang": {
+                "de": "Orientieren Sie sich an den Aushängen in der Nähe der Haltestelle.",
+                "hu": "Tájékozódjon a megálló közelében lévő hirdetményekből.",
+                "ro": "Orientați-vă după afișele din apropierea stației.",
+                "en": "Check the notices posted near the bus stop."
+              }
+            },
+            {
+              "name": "Hafen von Suđurađ",
+              "tip_5lang": {
+                "de": "Die Wartehalle am Hafen bietet Schutz vor Wind und Regen.",
+                "hu": "A kikötői váróterem védelmet nyújt a szél és eső elől.",
+                "ro": "Sala de așteptare din port oferă protecție contra vântului și ploii.",
+                "en": "The waiting hall at the harbor offers shelter from wind and rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan, da dieser bei Regen variieren kann.",
+              "Halten Sie Kleingeld für das Ticket bereit.",
+              "Der Bus verbindet die beiden Hauptorte trocken und sicher.",
+              "Fragen Sie den Fahrer nach der letzten Rückfahrt.",
+              "Tragen Sie eine Regenjacke für den Weg zur Haltestelle."
+            ],
+            "hu": [
+              "Ellenőrizze a buszmenetrendet, mert esőben változhat.",
+              "Készítsen be aprópénzt a jegyvásárláshoz.",
+              "A busz szárazon és biztonságosan köti össze a két fő falut.",
+              "Kérdezze meg a sofőrt az utolsó visszaindulásról.",
+              "Viseljen esőkabátot a megállóig vezető úton."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor, poate varia pe ploaie.",
+              "Pregătiți mărunțiș pentru bilet.",
+              "Autobuzul leagă cele două sate principale într-un mod sigur și uscat.",
+              "Întrebați șoferul despre ultima cursă de întoarcere.",
+              "Purtați o pelerină de ploaie pentru drumul până la stație."
+            ],
+            "en": [
+              "Check the bus schedule, as it may vary in rainy weather.",
+              "Have some small change ready for the ticket.",
+              "The bus connects the two main villages safely and dryly.",
+              "Ask the driver about the last return trip.",
+              "Wear a raincoat for the walk to the bus stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit öffentlichen Verkehrsmitteln auf Šipan erfordert Planung, ist aber sehr authentisch. Starten Sie an der Busstation Suđurađ, wo Sie mit den Einheimischen auf die morgendliche Verbindung warten. Die kühle Luft am Morgen macht die kurze Fahrt zur Kirche des Hl. Stephan belebend.\n\nMittags nehmen Sie den Bus nach Šipanska Luka. Die Strecke führt durch das schlafende Inselinnere. Da im Winter weniger Touristen unterwegs sind, haben Sie im Bus meist freie Platzwahl und können die Aussicht in aller Ruhe genießen.\n\nIn Šipanska Luka können Sie die stille Winteratmosphäre am Meer erleben. Ein Spaziergang entlang der Uferpromenade ist in der milden Wintersonne sehr angenehm. Achten Sie auf den Busplan für die Rückfahrt, da die Frequenzen reduziert sind.\n\nZurück in Suđurađ beenden Sie den Tag am Hafen. Die Wartezeit auf die Fähre zurück zum Festland können Sie nutzen, um die friedliche Abendstimmung im winterlichen Hafenort auf sich wirken zu lassen.",
+            "hu": "A téli tömegközlekedés Šipan szigetén tervezést igényel, de nagyon hiteles élményt nyújt. Kezdjen a Suđurađ buszmegállóban, ahol a helyiekkel együtt várhatja a reggeli járatot. A hűvös reggeli levegő után a Szent István-templomhoz vezető rövid út frissítő lesz.\n\nDélben menjen busszal Šipanska Lukába. Az útvonal az alvó sziget belsején visz keresztül. Mivel télen kevés a turista, a buszon bőven van hely a kilátás élvezéséhez.\n\nŠipanska Lukában megtapasztalhatja a tengerparti téli csendet. Egy séta a parton az enyhe téli napsütésben nagyon kellemes. Ügyeljen a buszmenetrendre a visszautazáshoz, mert ilyenkor ritkábban járnak.\n\nVisszatérve Suđurađba, a napot a kikötőben zárhatja. A kompra való várakozást használja ki a téli kikötő békés esti hangulatának átélésére.",
+            "ro": "O zi de iarnă cu transportul public pe Šipan necesită planificare, dar este o experiență autentică. Începeți la autogara Suđurađ, așteptând cursa de dimineață alături de localnici. Aerul rece face ca scurtul drum spre Biserica Sf. Ștefan să fie revigorant.\n\nLa prânz, luați autobuzul spre Šipanska Luka. Traseul trece prin interiorul adormit al insulei. Deoarece sunt puțini turiști iarna, veți avea loc la fereastră pentru a admira peisajul în liniște.\n\nÎn Šipanska Luka puteți simți atmosfera calmă de iarnă de la malul mării. O plimbare pe faleză în soarele blând de iarnă este foarte plăcută. Atenție la programul autobuzelor pentru întoarcere, frecvența este redusă.\n\nReveniți în Suđurađ pentru a încheia ziua în port. Puteți folosi timpul de așteptare pentru feribot pentru a absorbi liniștea serii în acest port de iarnă.",
+            "en": "A winter day using public transport on Šipan requires planning but offers an authentic experience. Start at the Suđurađ bus station, waiting for the morning connection with the locals. After the cool morning air, the short ride to the Church of St. Stephen is invigorating.\n\nAt noon, take the bus to Šipanska Luka. The route passes through the sleeping island interior. Since there are fewer tourists in winter, you'll likely have your choice of seats to enjoy the view in peace.\n\nIn Šipanska Luka, you can experience the quiet winter atmosphere by the sea. A stroll along the waterfront in the mild winter sun is very pleasant. Keep an eye on the bus schedule for your return, as frequencies are reduced.\n\nBack in Suđurađ, end your day at the harbor. Use the waiting time for the ferry back to the mainland to soak in the peaceful evening mood of the winter harbor village."
+          },
+          "stops": [
+            {
+              "name": "Busstation Suđurađ",
+              "tip_5lang": {
+                "de": "Prüfen Sie den aktuellen Winterfahrplan genau.",
+                "hu": "Pontosan ellenőrizze az aktuális téli menetrendet.",
+                "ro": "Verificați cu atenție orarul actual de iarnă.",
+                "en": "Check the current winter schedule carefully."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Stephan",
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen ruhigen Ort zum Verweilen.",
+                "hu": "A templom csendes helyet kínál az elmélyüléshez.",
+                "ro": "Biserica oferă un loc liniștit pentru reculegere.",
+                "en": "The church offers a quiet place for reflection."
+              }
+            },
+            {
+              "name": "Šipanska Luka",
+              "tip_5lang": {
+                "de": "Planen Sie genug Pufferzeit für die Rückfahrt ein.",
+                "hu": "Tervezzen elég pufferidőt a visszautazáshoz.",
+                "ro": "Planificați suficient timp de rezervă pentru întoarcere.",
+                "en": "Plan enough buffer time for your return trip."
+              }
+            },
+            {
+              "name": "Hafen von Suđurađ",
+              "tip_5lang": {
+                "de": "Trinken Sie einen warmen Tee im Café nahe der Station.",
+                "hu": "Igyon egy meleg teát a megálló közeli kávézóban.",
+                "ro": "Beți un ceai cald la cafeneaua de lângă stație.",
+                "en": "Have a warm tea at the cafe near the station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Busfahrplan ist im Winter stark eingeschränkt.",
+              "Die Verbindungen sind auf die Ankunftszeiten der Schiffe abgestimmt.",
+              "Tragen Sie warme Kleidung für die Wartezeiten an den Haltestellen.",
+              "Tickets werden direkt beim Fahrer gekauft.",
+              "Sonntags verkehren im Winter fast keine Busse."
+            ],
+            "hu": [
+              "A buszmenetrend télen jelentősen korlátozott.",
+              "A járatok a hajók érkezési idejéhez igazodnak.",
+              "Viseljen meleg ruhát a megállókban való várakozáshoz.",
+              "A jegyeket közvetlenül a sofőrnél lehet megvásárolni.",
+              "Vasárnaponként télen szinte egyáltalán nincs buszközlekedés."
+            ],
+            "ro": [
+              "Orarul autobuzelor este foarte limitat în timpul iernii.",
+              "Conexiunile sunt corelate cu orele de sosire ale navelor.",
+              "Purtați haine groase pentru perioadele de așteptare în stații.",
+              "Biletele se cumpără direct de la șofer.",
+              "Duminica, iarna, aproape că nu circulă autobuze."
+            ],
+            "en": [
+              "The bus schedule is significantly restricted in winter.",
+              "Connections are coordinated with the ship arrival times.",
+              "Wear warm clothing for the waiting periods at the stops.",
+              "Tickets are purchased directly from the driver.",
+              "On Sundays, there are almost no bus services in winter."
+            ]
+          }
+        }
       }
     }
   },

@@ -230,6 +230,360 @@
           "The promenade is flat and ideal for seniors and families.",
           "Sun protection is essential on the long beach."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag an der Marina Tučepi, wo die Yachten sanft im Wasser schaukeln. Ein kurzer Spaziergang führt Sie zum barocken Sommerhaus Ivanišević, einem Zeugnis vergangener Eleganz.\n\nMittags besuchen Sie die religiösen Zentren des Ortes. Die Kirchen des Hl. Antonius und Mariä Geburt bieten kühle Rückzugsorte und architektonische Details, die die Geschichte des Dorfes erzählen.\n\nDer Nachmittag gehört dem berühmten, kilometerlangen Kiesstrand. Unter schattigen Pinien können Sie das kristallklare Wasser genießen und vollkommen entspannen.\n\nZum Abschluss spazieren Sie am Meer entlang zur Kirche des Hl. Georg. Die sanfte Meeresbrise und das goldene Licht des späten Nachmittags machen diesen Weg zu einem unvergesslichen Erlebnis.",
+            "hu": "Kezdje a napot a tučepi kikötőben, ahol a jachtok lágyan ringatóznak a vízen. Egy rövid séta elvezeti az Ivanišević barokk nyaralóhoz, amely a múltbéli elegancia tanúja.\n\nDélben látogassa meg a település vallási központjait. A Páduai Szent Antal és a Szűz Mária születése templomok hűvös menedéket és építészeti részleteket kínálnak.\n\nA délután a híres, kilométer hosszú kavicsos strandé. Az árnyas fenyőfák alatt élvezheti a kristálytiszta vizet és a teljes kikapcsolódást.\n\nBefejezésül sétáljon a tengerpart mentén a Szent György-templomhoz. A lágy tengeri szellő és a késő délutáni aranyló fények felejthetetlenné teszik ezt az utat.",
+            "ro": "Începeți ziua în marina din Tučepi, unde iahturile se leagănă ușor pe apă. O scurtă plimbare vă duce la reședința barocă Ivanišević, o dovadă a eleganței de altădată.\n\nLa prânz, vizitați centrele religioase ale localității. Bisericile Sf. Anton și Nașterea Maicii Domnului oferă refugii răcoroase și detalii arhitecturale fascinante.\n\nDupă-amiaza aparține celebrei plaje cu pietriș, lungă de kilometri. Sub pinii umbroși, vă puteți bucura de apa cristalina și de relaxare deplină.\n\nLa final, plimbați-vă de-a lungul mării până la Biserica Sf. Gheorghe. Briza ușoară a mării și lumina aurie a după-amiezii fac din acest drum o experiență de neuitat.",
+            "en": "Start your day at the Tučepi Marina, where yachts gently rock in the water. A short walk leads you to the Baroque Ivanišević summer house, a witness to past elegance.\n\nAt noon, visit the religious centers of the village. The churches of St. Anthony and the Nativity of Mary offer cool retreats and architectural details that tell the village's story.\n\nThe afternoon belongs to the famous, kilometer-long pebble beach. Under shaded pine trees, you can enjoy the crystal-clear water and relax completely.\n\nTo conclude, stroll along the sea to the Church of St. George. The gentle sea breeze and the golden light of the late afternoon make this walk an unforgettable experience."
+          },
+          "stops": [
+            {
+              "name": "Marina Tučepi",
+              "tip_5lang": {
+                "de": "Beobachten Sie das morgendliche Treiben der Fischer.",
+                "hu": "Figyelje meg a halászok reggeli nyüzsgését.",
+                "ro": "Urmăriți agitația matinală a pescarilor.",
+                "en": "Watch the morning bustle of the fishermen."
+              }
+            },
+            {
+              "name": "Barock-Sommerhaus Ivanišević",
+              "tip_5lang": {
+                "de": "Ein elegantes Beispiel dalmatinischer Barockarchitektur.",
+                "hu": "A dalmát barokk építészet elegáns példája.",
+                "ro": "Un exemplu elegant de arhitectură barocă dalmată.",
+                "en": "An elegant example of Dalmatian Baroque architecture."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Antonius von Padua",
+              "tip_5lang": {
+                "de": "Bewundern Sie die schlichte Schönheit des Altars.",
+                "hu": "Csodálja meg az oltár egyszerű szépségét.",
+                "ro": "Admirați frumusețea simplă a altarului.",
+                "en": "Admire the simple beauty of the altar."
+              }
+            },
+            {
+              "name": "Kirche Mariä Geburt",
+              "tip_5lang": {
+                "de": "Eine kleine Kirche mit besonderer Atmosphäre.",
+                "hu": "Kicsiny templom különleges atmoszférával.",
+                "ro": "O biserică mică cu o atmosferă deosebită.",
+                "en": "A small church with a special atmosphere."
+              }
+            },
+            {
+              "name": "Strand von Tučepi",
+              "tip_5lang": {
+                "de": "Einer der längsten Strände der Riviera.",
+                "hu": "A riviéra egyik leghosszabb strandja.",
+                "ro": "Una dintre cele mai lungi plaje de pe rivieră.",
+                "en": "One of the longest beaches on the Riviera."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Georg",
+              "tip_5lang": {
+                "de": "Direkt am Küstenpfad gelegen.",
+                "hu": "Közvetlenül a tengerparti ösvény mellett.",
+                "ro": "Situată direct pe poteca de coastă.",
+                "en": "Located directly on the coastal path."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Ranch",
+                "tip": "Authentische dalmatinische Küche unter Olivenbäumen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba Ranch",
+                "tip": "Autentikus dalmát konyha olajfák alatt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Ranch",
+                "tip": "Bucătărie dalmată autentică sub măslini."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Ranch",
+                "tip": "Authentic Dalmatian cuisine under olive trees."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Küstenpfad Richtung Podgora",
+                "tip": "Ruhiger Weg mit tollen Ausblicken.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tengerparti ösvény Podgora felé",
+                "tip": "Csendes út remek kilátással.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Poteca de coastă spre Podgora",
+                "tip": "Drum liniștit cu priveliști grozave.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Coastal Path towards Podgora",
+                "tip": "Quiet path with great views.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Promenadenstände",
+                "tip": "Lokaler Lavendel und Olivenölprodukte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sétány melletti árusok",
+                "tip": "Helyi levendula és olívaolaj termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Standurile de pe faleză",
+                "tip": "Lavandă locală și produse din ulei de măsline."
+              }
+            ],
+            "en": [
+              {
+                "name": "Promenade Stalls",
+                "tip": "Local lavender and olive oil products."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Promenade ist flach und ideal für Senioren und Familien.",
+              "Sonnenschutz ist am langen Strand unverzichtbar."
+            ],
+            "hu": [
+              "A sétány sík, ideális időseknek és családoknak.",
+              "A napsütés ellen védekezzen a hosszú strandon."
+            ],
+            "ro": [
+              "Faleza este plată, ideală pentru seniori și familii.",
+              "Protecția solară este esențială pe plaja lungă."
+            ],
+            "en": [
+              "The promenade is flat and ideal for seniors and families.",
+              "Sun protection is essential on the long beach."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erleben Sie die Marina Tučepi unter einer dramatischen Wolkendecke, während die Boote sanft im Regen schaukeln. Mittags bieten die Kirchen des Heiligen Antonius und der Jungfrau Maria trockene Zufluchtsorte für stille Einkehr. Nachmittags entfaltet der Strand von Tučepi bei Regen eine melancholische Schönheit, gesäumt von duftenden Pinien. Abends endet der Spaziergang gemütlich in einem der überdachten Restaurants im Ortskern.",
+            "hu": "Reggel a kikötő drámai felhők alatt ébred, a vitorlások halk kopogással ringanak az esőben. Délben a Szent Antal és Szűz Mária templomok nyújtanak meghitt és száraz menedéket a kulturális felfedezéshez. Délután a tengerparti sétány fenyői alatt az eső illata és a hullámzás zaja különleges élményt nyújt. Este egy hangulatos, fedett teraszú étteremben zárhatja a napot a városközpontban.",
+            "ro": "Dimineața, Marina Tučepi se trezește sub un cer dramatic, cu bărcile legănându-se ușor sub stropii de ploaie. La prânz, bisericile Sfântul Anton și Nașterea Maicii Domnului oferă adăpost uscat și liniște pentru reculegere. După-amiaza, plaja din Tučepi capătă o frumusețe melancolică, cu pinii parfumați oferind protecție naturală. Seara se încheie confortabil într-un restaurant acoperit din centru.",
+            "en": "In the morning, the marina wakes up under dramatic clouds as boats gently sway in the rain. At noon, the churches of St. Anthony and the Virgin Mary provide dry havens for quiet reflection. In the afternoon, Tučepi beach reveals a melancholic beauty under the rain, lined with fragrant pine trees. The evening ends cozily in one of the covered restaurants in the town center."
+          },
+          "stops": [
+            {
+              "name": "Marina Tučepi",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Markisen der Hafen-Cafés.",
+                "hu": "Keressen menedéket a kikötői kávézók ponyvái alatt.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor din port.",
+                "en": "Seek shelter under the awnings of the harbor cafes."
+              }
+            },
+            {
+              "name": "Barock-Sommerhaus Ivanišević",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur von den Arkaden gegenüber.",
+                "hu": "Csodálja meg az építészetet a szemközti árkádok alól.",
+                "ro": "Admirați arhitectura de sub arcadele de vis-à-vis.",
+                "en": "Admire the architecture from the arcades across the street."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Antonius von Padua",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen starken Schauer abzuwarten.",
+                "hu": "Ideális hely egy erősebb zápor kivárására.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse.",
+                "en": "An ideal place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Kirche Mariä Geburt",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich.",
+                "hu": "Használja a templom fedett bejárati részét.",
+                "ro": "Folosiți zona de intrare acoperită a bisericii.",
+                "en": "Utilize the covered entrance area of the church."
+              }
+            },
+            {
+              "name": "Strand von Tučepi",
+              "tip_5lang": {
+                "de": "Die dichten Pinien bieten natürlichen Schutz vor Regen.",
+                "hu": "A sűrű fenyőfák természetes védelmet nyújtanak az eső ellen.",
+                "ro": "Pinii deși oferă protecție naturală împotriva ploii.",
+                "en": "The dense pine trees provide natural shelter from the rain."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Georg",
+              "tip_5lang": {
+                "de": "Der Weg kann rutschig sein, tragen Sie griffige Schuhe.",
+                "hu": "Az út csúszós lehet, viseljen tapadós talpú cipőt.",
+                "ro": "Poteca poate fi alunecoasă, purtați încălțăminte aderentă.",
+                "en": "The path can be slippery, wear shoes with good grip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des Windes unerlässlich.",
+              "Die Steinpflasterung in der Marina wird bei Nässe sehr rutschig.",
+              "Nutzen Sie die Kirchenbesichtigungen für längere Regenpausen.",
+              "Die Pinien am Strand wirken wie ein natürlicher Regenschirm.",
+              "Wasserdichte Schuhe sind für die Strandpromenade empfohlen."
+            ],
+            "hu": [
+              "A szél miatt egy erős vázas esernyő elengedhetetlen.",
+              "A kikötő kőburkolata vizesen nagyon csúszóssá válik.",
+              "Használja ki a templomlátogatásokat a hosszabb záporok alatt.",
+              "A tengerparti fenyők természetes esernyőként funkcionálnak.",
+              "Vízálló cipő ajánlott a parti sétány felfedezéséhez."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vântului.",
+              "Pavajul de piatră din port devine foarte alunecos când este ud.",
+              "Folosiți vizitele la biserici pentru pauze mai lungi de ploaie.",
+              "Pinii de pe plajă acționează ca o umbrelă naturală.",
+              "Se recomandă încălțăminte impermeabilă pentru faleză."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to the coastal wind.",
+              "The stone paving in the marina becomes very slippery when wet.",
+              "Use church visits as opportunities for longer rain breaks.",
+              "The pine trees along the beach act as a natural umbrella.",
+              "Waterproof shoes are recommended for the beach promenade."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine frische Brise durch die fast leere Marina, während die Wintersonne die Adria glitzern lässt. Mittags laden die historischen Kirchen zu einer ruhigen Besichtigung ohne Touristenströme ein. Nachmittags bietet der Strand von Tučepi bei klarem Winterlicht perfekte Bedingungen für weite Blicke auf die Inseln. Abends sinken die Temperaturen schnell, was den Rückweg durch die beleuchteten Gassen erfrischend macht.",
+            "hu": "Reggel friss szellő fúj át a szinte üres kikötőn, miközben a téli nap megcsillan az Adrián. Délben a történelmi templomok csendes, turistatömeg nélküli felfedezést tesznek lehetővé. Délután a tengerpart tiszta téli fényeiben messzire ellátni a szemközti szigetekig. Este a hőmérséklet gyorsan csökken, így a kivilágított utcákon tett séta frissítő lezárása a napnak.",
+            "ro": "Dimineața, o briză proaspătă suflă prin marina aproape goală, în timp ce soarele de iarnă face Adriatica să sclipească. La prânz, bisericile istorice permit o vizită liniștită, fără mulțimile de turiști. După-amiaza, plaja din Tučepi oferă condiții perfecte pentru vederi clare spre insule în lumina iernii. Seara, temperaturile scad rapid, făcând drumul prin străduțele iluminate foarte revigorant.",
+            "en": "In the morning, a fresh breeze blows through the nearly empty marina as the winter sun makes the Adriatic sparkle. At noon, the historical churches allow for a quiet visit without the tourist crowds. In the afternoon, Tučepi beach offers perfect conditions for clear views of the islands in the winter light. In the evening, temperatures drop quickly, making the walk through the illuminated streets refreshing."
+          },
+          "stops": [
+            {
+              "name": "Marina Tučepi",
+              "tip_5lang": {
+                "de": "Trinken Sie einen heißen Kaffee in den sonnigen Cafés.",
+                "hu": "Igyon egy forró kávét a napsütötte kávézók egyikében.",
+                "ro": "Beți o cafea fierbinte la cafenelele însorite.",
+                "en": "Have a hot coffee at one of the sunny cafes."
+              }
+            },
+            {
+              "name": "Barock-Sommerhaus Ivanišević",
+              "tip_5lang": {
+                "de": "Die klare Winterluft betont die barocken Details.",
+                "hu": "A tiszta téli levegő kiemeli a barokk részleteket.",
+                "ro": "Aerul curat de iarnă scoate în evidență detaliile baroce.",
+                "en": "The crisp winter air highlights the baroque details."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Antonius von Padua",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille dieses Ortes im Winter.",
+                "hu": "Élvezze a hely csendjét a téli időszakban.",
+                "ro": "Bucurați-vă de liniștea acestui loc în timpul iernii.",
+                "en": "Enjoy the silence of this place during winter."
+              }
+            },
+            {
+              "name": "Kirche Mariä Geburt",
+              "tip_5lang": {
+                "de": "Innen ist es oft milder als draußen an der See.",
+                "hu": "Odabent gyakran enyhébb az idő, mint kint a parton.",
+                "ro": "În interior este adesea mai blând decât afară la mare.",
+                "en": "It is often milder inside than outside by the sea."
+              }
+            },
+            {
+              "name": "Strand von Tučepi",
+              "tip_5lang": {
+                "de": "Perfekt für lange Spaziergänge in der Wintersonne.",
+                "hu": "Tökéletes hosszú sétákhoz a téli napsütésben.",
+                "ro": "Perfect pentru plimbări lungi în soarele de iarnă.",
+                "en": "Perfect for long walks in the winter sun."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Georg",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier im Winter besonders früh.",
+                "hu": "A naplemente itt télen különösen korán van.",
+                "ro": "Apusul este aici deosebit de devreme iarna.",
+                "en": "The sunset is particularly early here in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip für kühlen Wind.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Einige Cafés an der Promenade haben im Winter geschlossen.",
+              "Der Bura-Wind kann sehr kalt sein, bringen Sie eine Mütze mit.",
+              "Die Fernsicht auf die Inseln ist im Winter am besten."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a hűvös tengeri szél miatt.",
+              "A nap télen már délután fél 5 körül nyugovóra tér.",
+              "Néhány parti kávézó télen zárva tarthat.",
+              "A Bóra szél nagyon hideg lehet, hozzon magával sapkát.",
+              "A távoli kilátás a szigetekre télen a legtisztább."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru vântul răcoros de mare.",
+              "Soarele apune iarna deja în jurul orei 16:30.",
+              "Unele cafenele de pe faleză pot fi închise iarna.",
+              "Vântul Bura poate fi foarte rece, aduceți o căciulă.",
+              "Vizibilitatea spre insule este cea mai bună iarna."
+            ],
+            "en": [
+              "Dress in layers to protect against the cool sea breeze.",
+              "The sun sets as early as 4:30 PM during winter.",
+              "Some promenade cafes might be closed during the low season.",
+              "The Bura wind can be very cold, bring a warm hat.",
+              "Visibility to the distant islands is at its best in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -472,6 +826,387 @@
           "Check your brakes before descending from Gornji Tučepi.",
           "An e-bike makes the climb much more relaxed."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Biketour verbindet die Küste mit dem Hinterland. Starten Sie an der Marina und folgen Sie dem Uferweg nach Süden.\n\nDer Anstieg nach Gornji Tučepi erfordert Ausdauer, wird aber mit dem Charme eines alten dalmatinischen Dorfes belohnt. Die Steinhäuser und Weinreben erzählen von der harten Arbeit der Vorfahren.\n\nEin Abstecher zu einem Aussichtspunkt am Fuße des Biokovo bietet spektakuläre Fotomotive. Die Abfahrt zurück zum Meer ist erfrischend und bietet stets den Blick auf das blaue Wasser.\n\nBeenden Sie die Tour am Strand. Es gibt nichts Schöneres, als nach einer anstrengenden Fahrt direkt vom Rad in die Wellen zu springen.",
+            "hu": "Ez a kerékpártúra összeköti a tengerpartot a hátországgal. Induljon a kikötőből és kövesse a parti utat dél felé.\n\nA Gornji Tučepi felé vezető emelkedő kitartást igényel, de kárpótol érte a régi dalmát falu bája. A kőházak és szőlőskertek az ősök kemény munkájáról mesélnek.\n\nEgy kitérő a Biokovo lábánál fekvő kilátóponthoz látványos fotótémákat kínál. A tengerhez való visszagurulás frissítő, és végig a kék vizet láthatjuk.\n\nZárja a túrát a strandon. Nincs is jobb, mint egy megerőltető tekerés után közvetlenül a bringáról a hullámok közé ugrani.",
+            "ro": "Acest tur cu bicicleta combină coasta cu interiorul. Începeți de la marină și urmați drumul de coastă spre sud.\n\nUrcarea spre Gornji Tučepi necesită rezistență, dar este răsplătită cu farmecul unui vechi sat dalmat. Casele de piatră și viile spun povești despre munca grea a strămoșilor.\n\nO abatere către un punct de belvedere la poalele muntelui Biokovo oferă oportunități spectaculoase pentru fotografii. Coborârea înapoi spre mare este revigorantă, cu vedere constantă la apa albastră.\n\nÎncheiați turul pe plajă. Nu este nimic mai frumos decât să sari direct de pe bicicletă în valuri după o plimbare solicitantă.",
+            "en": "This bike tour connects the coast with the hinterland. Start at the marina and follow the coastal path south.\n\nThe climb to Gornji Tučepi requires stamina but is rewarded with the charm of an old Dalmatian village. The stone houses and vineyards tell of the ancestors' hard work.\n\nA detour to a viewpoint at the foot of Biokovo offers spectacular photo opportunities. The descent back to the sea is refreshing and always offers a view of the blue water.\n\nEnd the tour at the beach. There is nothing better than jumping directly from the bike into the waves after a strenuous ride."
+          },
+          "stops": [
+            {
+              "name": "Marina Tučepi",
+              "tip_5lang": {
+                "de": "Starten Sie früh, um die Hitze zu vermeiden.",
+                "hu": "Kezdjen korán, hogy elkerülje a hőséget.",
+                "ro": "Începeți devreme pentru a evita căldura.",
+                "en": "Start early to avoid the heat."
+              }
+            },
+            {
+              "name": "Kirche Mariä Geburt",
+              "tip_5lang": {
+                "de": "Ruhiger Stopp direkt am Meer.",
+                "hu": "Csendes megálló közvetlenül a tengernél.",
+                "ro": "Oprire liniștită direct lângă mare.",
+                "en": "Quiet stop right by the sea."
+              }
+            },
+            {
+              "name": "Gornji Tučepi",
+              "tip_5lang": {
+                "de": "Steiler Anstieg, aber tolle alte Steinhäuser.",
+                "hu": "Meredek emelkedő, de gyönyörű kőházak.",
+                "ro": "Urcare abruptă, dar case de piatră superbe.",
+                "en": "Steep climb, but beautiful stone houses."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Antonius von Padua",
+              "tip_5lang": {
+                "de": "Besuchen Sie den kleinen Kirchplatz.",
+                "hu": "Látogassa meg a kis templomteret.",
+                "ro": "Vizitați mica piață a bisericii.",
+                "en": "Visit the small church square."
+              }
+            },
+            {
+              "name": "Barock-Sommerhaus Ivanišević",
+              "tip_5lang": {
+                "de": "Ein kurzer Halt für ein Foto der Fassade.",
+                "hu": "Rövid megálló a homlokzat fotózásához.",
+                "ro": "O scurtă oprire pentru poze la fațadă.",
+                "en": "A short stop for a photo of the facade."
+              }
+            },
+            {
+              "name": "Biokovo Aussichtspunkt",
+              "tip_5lang": {
+                "de": "Atemberaubende Sicht auf die Adria.",
+                "hu": "Lélegzetelállító kilátás az Adriára.",
+                "ro": "Vedere uluitoare asupra Adriaticii.",
+                "en": "Breathtaking view of the Adriatic."
+              }
+            },
+            {
+              "name": "Strand von Tučepi",
+              "tip_5lang": {
+                "de": "Verdiente Pause im Schatten.",
+                "hu": "Megérdemelt pihenés az árnyékban.",
+                "ro": "O pauză binemeritată la umbră.",
+                "en": "A well-deserved break in the shade."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurant Jeny",
+                "tip": "Gourmet-Erlebnis in Gornji Tučepi mit Aussicht."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Restaurant Jeny",
+                "tip": "Gourmet élmény Gornji Tučepiben kilátással."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurant Jeny",
+                "tip": "Experiență gourmet în Gornji Tučepi cu vedere."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restaurant Jeny",
+                "tip": "Gourmet experience in Gornji Tučepi with a view."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Olivenhaine in Gornji Tučepi",
+                "tip": "Stille zwischen alten Bäumen.",
+                "emoji": "🌳"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gornji Tučepi olajligetei",
+                "tip": "Csend az ősi fák között.",
+                "emoji": "🌳"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Livezile de măslini din Gornji Tučepi",
+                "tip": "Liniște printre copaci antici.",
+                "emoji": "🌳"
+              }
+            ],
+            "en": [
+              {
+                "name": "Olive Groves in Gornji Tučepi",
+                "tip": "Silence among ancient trees.",
+                "emoji": "🌳"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Hofverkauf",
+                "tip": "Suchen Sie nach Schildern für hausgemachten Wein (Vino) und Prošek."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Házi eladás",
+                "tip": "Keresse a házi bort (Vino) és Prošeket hirdető táblákat."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vânzare de la poartă",
+                "tip": "Căutați semnele pentru vin de casă (Vino) și Prošek."
+              }
+            ],
+            "en": [
+              {
+                "name": "Farm Sales",
+                "tip": "Look for signs for homemade wine (Vino) and Prošek."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Überprüfen Sie Ihre Bremsen vor der Abfahrt von Gornji Tučepi.",
+              "Ein E-Bike macht den Anstieg deutlich entspannter."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket a Gornji Tučepi-ből való legurulás előtt.",
+              "Egy e-bike sokkal pihentetőbbé teszi az emelkedőt."
+            ],
+            "ro": [
+              "Verificați frânele înainte de coborârea din Gornji Tučepi.",
+              "O bicicletă electrică face urcarea mult mai relaxantă."
+            ],
+            "en": [
+              "Check your brakes before descending from Gornji Tučepi.",
+              "An e-bike makes the climb much more relaxed."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens startet die Radtour an der Marina Tučepi mit einer erfrischenden Brise und leichtem Nieselregen. Mittags führt die Fahrt hinauf nach Gornji Tučepi, wo die alten Steinhäuser im Regen glänzen. Nachmittags bieten die Aussichtspunkte am Biokovo mystische Ausblicke durch vorbeiziehende Wolkenfetzen. Abends kehren Sie über die glatte Küstenstraße zurück, während das Meer unter dem grauen Himmel rauscht.",
+            "hu": "Reggel a kerékpártúra a kikötőből indul frissítő szellőben és szemerkélő esőben. Délben az út felfelé vezet Felső-Tučepibe, ahol a régi kőházak fényesen csillognak a nedvességtől. Délután a Biokovo kilátópontjai misztikus látványt nyújtanak az elsuhanó felhőfoszlányok között. Este a sima tengerparti úton tér vissza, miközben a tenger morajlik a szürke égbolt alatt.",
+            "ro": "Dimineața, turul cu bicicleta pornește din port cu o briză revigorantă și o ploaie ușoară. La prânz, drumul urcă spre Gornji Tučepi, unde casele vechi de piatră strălucesc sub ploaie. După-amiaza, punctele de belvedere de pe Biokovo oferă vederi mistice printre norii trecători. Seara reveniți pe drumul de coastă, în timp ce marea vuiește sub cerul gri.",
+            "en": "In the morning, the bike tour starts at the marina with a refreshing breeze and light drizzle. At noon, the ride leads up to Gornji Tučepi, where the old stone houses glisten in the rain. In the afternoon, the Biokovo viewpoints offer mystical views through passing clouds. In the evening, you return via the coastal road while the sea roars under the grey sky."
+          },
+          "stops": [
+            {
+              "name": "Marina Tučepi",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen auf dem nassen Untergrund.",
+                "hu": "Ellenőrizze a fékeket a nedves útfelületen.",
+                "ro": "Verificați frânele pe suprafața umedă.",
+                "en": "Check your brakes on the wet surface."
+              }
+            },
+            {
+              "name": "Kirche Mariä Geburt",
+              "tip_5lang": {
+                "de": "Kurze Pause im Trockenen unter dem Vordach.",
+                "hu": "Rövid pihenő szárazon az előtető alatt.",
+                "ro": "Scurtă pauză la uscat sub acoperișul intrării.",
+                "en": "Short break in the dry under the overhang."
+              }
+            },
+            {
+              "name": "Gornji Tučepi",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster, es ist sehr glatt.",
+                "hu": "Vigyázat a macskakövön, nagyon csúszik.",
+                "ro": "Atenție pe piatra cubică, este foarte alunecoasă.",
+                "en": "Caution on the cobblestones; they are very slippery."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Antonius von Padua",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter einen dichten Baum.",
+                "hu": "Parkolja le a biciklit egy sűrű fa alá.",
+                "ro": "Parcați bicicleta sub un copac des.",
+                "en": "Park your bike under a dense tree."
+              }
+            },
+            {
+              "name": "Barock-Sommerhaus Ivanišević",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für ein schnelles Foto.",
+                "hu": "Használja ki az esőszünetet egy gyors fotóra.",
+                "ro": "Folosiți pauza de ploaie pentru o fotografie rapidă.",
+                "en": "Use the rain break for a quick photo."
+              }
+            },
+            {
+              "name": "Biokovo Aussichtspunkt",
+              "tip_5lang": {
+                "de": "Die Wolken können die Sicht stark einschränken.",
+                "hu": "A felhők jelentősen korlátozhatják a kilátást.",
+                "ro": "Norii pot limita serios vizibilitatea.",
+                "en": "Clouds may significantly restrict visibility."
+              }
+            },
+            {
+              "name": "Strand von Tučepi",
+              "tip_5lang": {
+                "de": "Der Radweg entlang der Küste ist gut befestigt.",
+                "hu": "A parti kerékpárút jól kiépített és stabil.",
+                "ro": "Pista de biciclete de-a lungul coastei este stabilă.",
+                "en": "The bike path along the coast is well-paved."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und Regenhose.",
+              "Vermeiden Sie abrupte Bremsmanöver auf Steinplatten.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter sehr wertvoll.",
+              "Die Abfahrten vom Biokovo erfordern erhöhte Konzentration.",
+              "Licht am Fahrrad ist wegen der schlechten Sicht wichtig."
+            ],
+            "hu": [
+              "Viseljen teljes esőkabátot és esőnadrágot.",
+              "Kerülje a hirtelen fékezést a kőlapokon.",
+              "A sárvédő nagyon hasznos ilyen időben.",
+              "A Biokovóról való leereszkedés fokozott figyelmet igényel.",
+              "A világítás használata fontos a rossz látási viszonyok miatt."
+            ],
+            "ro": [
+              "Purtați jachetă și pantaloni de ploaie compleți.",
+              "Evitați frânările bruște pe plăcile de piatră.",
+              "Apărătorile de noroi sunt foarte valoroase pe acest timp.",
+              "Coborârile de pe Biokovo necesită concentrare sporită.",
+              "Lumina la bicicletă este importantă din cauza vizibilității reduse."
+            ],
+            "en": [
+              "Wear a full rain jacket and waterproof trousers.",
+              "Avoid abrupt braking on stone slabs.",
+              "Mudguards on the bike are very valuable in this weather.",
+              "Descents from Biokovo require increased concentration.",
+              "Bike lights are important due to low visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens radeln Sie durch die kühle Marina, begleitet von der klaren Luft der Adria. Mittags führt die Route bergauf in die Gornji Tučepi, wobei die Anstrengung Sie angenehm warm hält. Nachmittags genießen Sie am Biokovo-Aussichtspunkt die weite Sicht, die im Winter oft klarer ist als im Sommer. Abends kehren Sie rechtzeitig vor Sonnenuntergang zur Marina zurück, während der Wind leicht auffrischt.",
+            "hu": "Reggel a hűvös kikötőben kerekezik az Adria tiszta levegőjét élvezve. Délben az út Felső-Tučepibe vezet, ahol a kaptató kellemesen melegen tartja. Délután a Biokovo kilátópontnál élvezheti a távoli panorámát, ami télen gyakran tisztább, mint nyáron. Este még naplemente előtt érkezzen vissza a kikötőbe, ahogy a szél kissé feltámad.",
+            "ro": "Dimineața pedalați prin marina răcoroasă, însoțiți de aerul curat al Adriaticii. La prânz, traseul urcă spre Gornji Tučepi, efortul menținându-vă plăcut încălzit. După-amiaza vă bucurați de vizibilitatea vastă de la Biokovo, care iarna este adesea mai clară. Seara reveniți la marină înainte de apus, pe măsură ce vântul se intensifică ușor.",
+            "en": "In the morning, you cycle through the cool marina accompanied by the crisp Adriatic air. At noon, the route leads uphill to Gornji Tučepi, where the effort keeps you pleasantly warm. In the afternoon, enjoy the expansive views at the Biokovo viewpoint, which are often clearer in winter. In the evening, return to the marina well before sunset as the wind picks up slightly."
+          },
+          "stops": [
+            {
+              "name": "Marina Tučepi",
+              "tip_5lang": {
+                "de": "Starten Sie mit Handschuhen gegen den kalten Fahrtwind.",
+                "hu": "Kezdje a túrát kesztyűben a hideg menetszél ellen.",
+                "ro": "Porniți cu mănuși împotriva vântului rece de mișcare.",
+                "en": "Start with gloves against the cold riding wind."
+              }
+            },
+            {
+              "name": "Kirche Mariä Geburt",
+              "tip_5lang": {
+                "de": "Kurze Pause in der Sonne an der windgeschützten Wand.",
+                "hu": "Rövid pihenő a napon, a széltől védett falnál.",
+                "ro": "Scurtă pauză la soare lângă peretele ferit de vânt.",
+                "en": "Short break in the sun by the wind-sheltered wall."
+              }
+            },
+            {
+              "name": "Gornji Tučepi",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Anstieg, um warm zu werden.",
+                "hu": "Használja ki az emelkedőt a bemelegedéshez.",
+                "ro": "Folosiți urcarea pentru a vă încălzi.",
+                "en": "Use the climb to warm up."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Antonius von Padua",
+              "tip_5lang": {
+                "de": "Im Inneren ist es oft kühler, behalten Sie die Jacke an.",
+                "hu": "Odabent gyakran hidegebb van, maradjon kabátban.",
+                "ro": "În interior este adesea mai rece, păstrați jacheta.",
+                "en": "It is often cooler inside; keep your jacket on."
+              }
+            },
+            {
+              "name": "Barock-Sommerhaus Ivanišević",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und blendet beim Fahren.",
+                "hu": "A téli nap alacsonyan jár, vakíthat vezetés közben.",
+                "ro": "Soarele de iarnă este jos și poate fi orbitor.",
+                "en": "The winter sun is low and can be blinding while riding."
+              }
+            },
+            {
+              "name": "Biokovo Aussichtspunkt",
+              "tip_5lang": {
+                "de": "Achtung: Hier oben ist es deutlich kälter als am Meer.",
+                "hu": "Figyelem: itt fent jóval hidegebb van, mint a tengerparton.",
+                "ro": "Atenție: aici sus este mult mai frig decât la mare.",
+                "en": "Caution: It is significantly colder up here than by the sea."
+              }
+            },
+            {
+              "name": "Strand von Tučepi",
+              "tip_5lang": {
+                "de": "Genießen Sie den leeren Radweg am Meer.",
+                "hu": "Élvezze az üres kerékpárutat a tenger mentén.",
+                "ro": "Bucurați-vă de pista de biciclete goală de lângă mare.",
+                "en": "Enjoy the empty bike path along the sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung und gute Handschuhe.",
+              "Beachten Sie den frühen Sonnenuntergang in den Bergen.",
+              "Die Bergstraßen können im Schatten vereist sein.",
+              "Ein heißes Getränk in der Thermoskanne ist sehr hilfreich.",
+              "Nutzen Sie die Mittagssonne für die längsten Etappen."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot és jó kesztyűt.",
+              "Ügyeljen a hegyekben tapasztalható korai naplementére.",
+              "Az árnyékos hegyi utak jegesek lehetnek.",
+              "Egy termosznyi forró ital sokat segíthet.",
+              "A leghosszabb szakaszokat a déli napsütésben tegye meg."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt și mănuși bune.",
+              "Țineți cont de apusul timpuriu în munți.",
+              "Drumurile montane pot fi înghețate în zonele cu umbră.",
+              "O băutură fierbinte în termos este de mare ajutor.",
+              "Folosiți soarele de la prânz pentru cele mai lungi etape."
+            ],
+            "en": [
+              "Wear windproof clothing and high-quality gloves.",
+              "Keep in mind the early sunset behind the mountains.",
+              "Mountain roads can be icy in shaded areas.",
+              "A hot drink in a thermos is very helpful.",
+              "Use the midday sun for the longest stretches of your ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -714,6 +1449,387 @@
           "The road to Biokovo is narrow and winding, drive carefully.",
           "Book Skywalk entry days in advance."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie sowohl die Küste als auch die dramatischen Höhen des Biokovo. Beginnen Sie in den friedlichen Gassen von Gornji Tučepi.\n\nNach einem Bummel an der Marina führt Sie die spektakuläre Fahrt hinauf in den Naturpark Biokovo. Der Skywalk bietet Nervenkitzel und einen Blick, der bis nach Italien reichen kann.\n\nAm Nachmittag kehren Sie zurück an die Küste. Besuchen Sie die historischen Kirchen, bevor Sie sich am weiten Strand von der Hitze des Tages abkühlen.\n\nGenießen Sie das Abendessen in einem der exzellenten Restaurants an der Uferpromenade. Die Kombination aus Bergmassiv und Meeresnähe ist hier besonders intensiv spürbar.",
+            "hu": "Autóval felfedezheti a tengerpartot és a Biokovo drámai magaslatait is. Kezdjen Gornji Tučepi békés utcáin.\n\nA kikötői séta után a látványos út felvezet a Biokovo Natúrparkba. A Skywalk izgalmakat és olyan kilátást kínál, amely tiszta időben Olaszországig is elérhet.\n\nDélután térjen vissza a partra. Látogassa meg a történelmi templomokat, mielőtt a széles strandon hűsítené le magát a napi hőség után.\n\nÉlvezze a vacsorát a vízparti sétány egyik kiváló éttermében. A hegyláncok és a tenger közelsége itt különösen intenzíven érezhető.",
+            "ro": "Cu mașina, veți explora atât coasta, cât și înălțimile dramatice ale muntelui Biokovo. Începeți pe străzile liniștite din Gornji Tučepi.\n\nDupă o plimbare prin marină, drumul spectaculos vă duce sus, în Parcul Natural Biokovo. Skywalk oferă adrenalină și o priveliște care poate ajunge până în Italia.\n\nDupă-amiaza, întoarceți-vă la coastă. Vizitați bisericile istorice înainte de a vă răcori pe plaja întinsă după căldura zilei.\n\nSavurați cina la unul dintre restaurantele excelente de pe faleză. Combinația dintre masivul muntos și apropierea mării este resimțită aici deosebit de intens.",
+            "en": "By car, you explore both the coast and the dramatic heights of Biokovo. Start in the peaceful streets of Gornji Tučepi.\n\nAfter a stroll at the marina, the spectacular drive takes you up into the Biokovo Nature Park. The Skywalk offers thrills and a view that can reach as far as Italy.\n\nIn the afternoon, return to the coast. Visit the historical churches before cooling off from the day's heat on the wide beach.\n\nEnjoy dinner at one of the excellent restaurants on the waterfront. The combination of the mountain range and the proximity of the sea is particularly intense here."
+          },
+          "stops": [
+            {
+              "name": "Gornji Tučepi",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Dorf am frühen Vormittag.",
+                "hu": "Látogassa meg a falut kora délelőtt.",
+                "ro": "Vizitați satul dimineața devreme.",
+                "en": "Visit the village in the early morning."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Antonius von Padua",
+              "tip_5lang": {
+                "de": "Parkplätze direkt an der Kirche vorhanden.",
+                "hu": "Parkolóhelyek közvetlenül a templomnál.",
+                "ro": "Locuri de parcare disponibile direct la biserică.",
+                "en": "Parking spaces available right at the church."
+              }
+            },
+            {
+              "name": "Marina Tučepi",
+              "tip_5lang": {
+                "de": "Großer gebührenpflichtiger Parkplatz im Zentrum.",
+                "hu": "Nagy fizetős parkoló a központban.",
+                "ro": "Parcare mare cu plată în centru.",
+                "en": "Large paid parking lot in the center."
+              }
+            },
+            {
+              "name": "Barock-Sommerhaus Ivanišević",
+              "tip_5lang": {
+                "de": "Ideal für einen kurzen Kultur-Stopp.",
+                "hu": "Ideális egy rövid kulturális megállóhoz.",
+                "ro": "Ideal pentru o scurtă oprire culturală.",
+                "en": "Ideal for a short cultural stop."
+              }
+            },
+            {
+              "name": "Biokovo Skywalk",
+              "tip_5lang": {
+                "de": "Tickets müssen im Voraus online gebucht werden.",
+                "hu": "A jegyeket előre, online kell lefoglalni.",
+                "ro": "Biletele trebuie rezervate online în avans.",
+                "en": "Tickets must be booked online in advance."
+              }
+            },
+            {
+              "name": "Kirche Mariä Geburt",
+              "tip_5lang": {
+                "de": "Besichtigung vor dem Strandbesuch.",
+                "hu": "Tekintse meg a strandolás előtt.",
+                "ro": "Vizitați înainte de a merge la plajă.",
+                "en": "View before going to the beach."
+              }
+            },
+            {
+              "name": "Strand von Tučepi",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz unter den Pinien.",
+                "hu": "Keressen helyet a fenyőfák alatt.",
+                "ro": "Găsiți un loc sub pini.",
+                "en": "Find a spot under the pine trees."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Freyja",
+                "tip": "Moderne Interpretation traditioneller dalmatinischer Gerichte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Freyja",
+                "tip": "A hagyományos dalmát ételek modern interpretációja."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Freyja",
+                "tip": "Interpretare modernă a mâncărurilor tradiționale dalmate."
+              }
+            ],
+            "en": [
+              {
+                "name": "Freyja",
+                "tip": "Modern interpretation of traditional Dalmatian dishes."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Aussichtspunkt Sveti Jure",
+                "tip": "Der höchste Punkt für absolute Stille.",
+                "emoji": "⛰️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sveti Jure kilátópont",
+                "tip": "A legmagasabb pont a teljes csendhez.",
+                "emoji": "⛰️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punct de belvedere Sveti Jure",
+                "tip": "Cel mai înalt punct pentru liniște deplină.",
+                "emoji": "⛰️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Sveti Jure Viewpoint",
+                "tip": "The highest point for absolute silence.",
+                "emoji": "⛰️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirladen im Naturpark",
+                "tip": "Produkte aus Kräutern des Biokovo."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ajándékbolt a natúrparkban",
+                "tip": "A Biokovo gyógynövényeiből készült termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de suveniruri în parcul natural",
+                "tip": "Produse din ierburi din Biokovo."
+              }
+            ],
+            "en": [
+              {
+                "name": "Souvenir Shop in the Nature Park",
+                "tip": "Products made from herbs of Biokovo."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straße auf den Biokovo ist schmal und kurvenreich, fahren Sie vorsichtig.",
+              "Buchen Sie den Skywalk-Eintritt Tage im Voraus."
+            ],
+            "hu": [
+              "A Biokovóra vezető út szűk és kanyargós, vezessen óvatosan.",
+              "Foglalja le a Skywalk belépőt napokkal előre."
+            ],
+            "ro": [
+              "Drumul spre Biokovo este îngust și șerpuitor, conduceți cu atenție.",
+              "Rezervați intrarea la Skywalk cu câteva zile înainte."
+            ],
+            "en": [
+              "The road to Biokovo is narrow and winding, drive carefully.",
+              "Book Skywalk entry days in advance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren Sie entspannt hinauf nach Gornji Tučepi, während die Scheibenwischer den Blick auf die nebelverhangenen Hänge freigeben. Mittags bietet die Marina Tučepi bequeme Parkmöglichkeiten nah an den überdachten Cafés. Nachmittags ist die Fahrt zum Biokovo Skywalk ein Abenteuer, bei dem sich die Aussicht dramatisch zwischen Regenwolken öffnet. Abends gleiten Sie entlang der Küstenstraße zurück, während die Lichter der Stadt im nassen Asphalt reflektieren.",
+            "hu": "Reggel kényelmesen autózik fel Felső-Tučepibe, miközben az ablaktörlők mögött feltárulnak a ködös hegyoldalak. Délben a kikötőben könnyen talál parkolót a fedett kávézók közelében. Délután a Biokovo Skywalk felé vezető út izgalmas kaland, ahol a kilátás drámai módon bukkan elő az esőfelhők közül. Este a parti úton suhan vissza, miközben a város fényei tükröződnek a nedves aszfalton.",
+            "ro": "Dimineața urcați relaxat spre Gornji Tučepi, în timp ce ștergătoarele dezvăluie versanții acoperiți de ceață. La prânz, marina oferă locuri de parcare aproape de cafenelele acoperite. După-amiaza, drumul spre Biokovo Skywalk este o aventură unde priveliștea se deschide dramatic printre nori. Seara alunecați pe drumul de coastă, cu luminile orașului reflectându-se în asfaltul ud.",
+            "en": "In the morning, drive relaxed up to Gornji Tučepi as the wipers reveal the mist-covered slopes. At noon, the marina offers convenient parking close to covered cafes. In the afternoon, the drive to Biokovo Skywalk is an adventure where the view opens dramatically between rain clouds. In the evening, glide back along the coastal road as city lights reflect in the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": "Gornji Tučepi",
+              "tip_5lang": {
+                "de": "Parken Sie auf befestigten Flächen, um Schlamm zu vermeiden.",
+                "hu": "Parkoljon szilárd burkolaton a sár elkerülése érdekében.",
+                "ro": "Parcați pe suprafețe pavate pentru a evita noroiul.",
+                "en": "Park on paved surfaces to avoid mud."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Antonius von Padua",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist direkt vor der Tür, ideal bei Regen.",
+                "hu": "A parkoló közvetlenül a bejáratnál van, ideális esőben.",
+                "ro": "Parcarea este chiar în fața porții, ideal pe ploaie.",
+                "en": "The parking lot is right at the door, ideal in the rain."
+              }
+            },
+            {
+              "name": "Marina Tučepi",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus oder markierte Parkstreifen.",
+                "hu": "Használja a parkolóházat vagy a kijelölt sávokat.",
+                "ro": "Folosiți parcarea etajată sau benzile marcate.",
+                "en": "Use the parking garage or marked parking strips."
+              }
+            },
+            {
+              "name": "Barock-Sommerhaus Ivanišević",
+              "tip_5lang": {
+                "de": "Kurzer Stopp direkt an der Straße möglich.",
+                "hu": "Rövid megállás közvetlenül az út mentén lehetséges.",
+                "ro": "Scurtă oprire posibilă chiar lângă drum.",
+                "en": "Short stop possible directly by the road."
+              }
+            },
+            {
+              "name": "Biokovo Skywalk",
+              "tip_5lang": {
+                "de": "Achtung: Die Wolken hängen hier oft sehr tief.",
+                "hu": "Figyelem: a felhők itt gyakran nagyon alacsonyan vannak.",
+                "ro": "Atenție: norii sunt aici adesea foarte joși.",
+                "en": "Caution: Clouds often hang very low here."
+              }
+            },
+            {
+              "name": "Kirche Mariä Geburt",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen kurz im Auto sitzen.",
+                "hu": "Erős esőben várjon egy kicsit az autóban.",
+                "ro": "În caz de ploaie torențială, așteptați puțin în mașină.",
+                "en": "Wait a moment in the car during heavy rain."
+              }
+            },
+            {
+              "name": "Strand von Tučepi",
+              "tip_5lang": {
+                "de": "Parkplätze direkt hinter dem Strand sind im Regen frei.",
+                "hu": "A strand mögötti parkolók esőben általában üresek.",
+                "ro": "Parcările din spatele plajei sunt libere pe ploaie.",
+                "en": "Parking spaces right behind the beach are free in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Serpentinen zum Biokovo können bei Nässe tückisch sein.",
+              "Prüfen Sie vorab, ob der Skywalk bei Gewitter geschlossen ist.",
+              "Vermeiden Sie das Parken unter instabilen Bäumen bei Wind.",
+              "Die Sichtverhältnisse in den Bergen ändern sich minütlich.",
+              "Halten Sie Abstand auf der rutschigen Küstenstraße."
+            ],
+            "hu": [
+              "A Biokovóra vezető szerpentinek nedvesen trükkösek lehetnek.",
+              "Előre ellenőrizze, hogy vihar esetén zárva van-e a Skywalk.",
+              "Szélben kerülje a bizonytalan fák alatti parkolást.",
+              "A látási viszonyok a hegyekben percenként változnak.",
+              "Tartson nagyobb követési távolságot a csúszós parti úton."
+            ],
+            "ro": [
+              "Serpentinele spre Biokovo pot fi înșelătoare pe umiditate.",
+              "Verificați dacă Skywalk este închis în caz de furtună.",
+              "Evitați parcarea sub copaci instabili când bate vântul.",
+              "Condițiile de vizibilitate în munți se schimbă de la un minut la altul.",
+              "Păstrați distanța pe drumul de coastă alunecos."
+            ],
+            "en": [
+              "The serpentines to Biokovo can be tricky when wet.",
+              "Check in advance if the Skywalk is closed during storms.",
+              "Avoid parking under unstable trees during windy weather.",
+              "Visibility conditions in the mountains change by the minute.",
+              "Maintain a safe distance on the slippery coastal road."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen Sie die warme Fahrt hinauf nach Gornji Tučepi, während draußen der Winterwind weht. Mittags ist das Parken an der Marina unkompliziert, ideal für einen kurzen Besuch der historischen Stätten. Nachmittags ist die Fahrt zum Biokovo Skywalk spektakulär, da die Wintersonne oft eine Fernsicht bis nach Italien ermöglicht. Abends bietet die Küstenstraße bei Sonnenuntergang ein leuchtendes Panorama in absoluter Ruhe.",
+            "hu": "Reggel élvezze a fűtött autóutat Felső-Tučepibe, miközben kint fúj a téli szél. Délben a parkolás a kikötőben egyszerű, ideális a történelmi helyszínek gyors meglátogatásához. Délután a Biokovo Skywalkhoz vezető út látványos, a téli nap gyakran Olaszországig is enged kilátást. Este a tengerparti út a naplementében fénylő panorámát nyújt teljes nyugalomban.",
+            "ro": "Dimineața vă bucurați de drumul încălzit spre Gornji Tučepi, în timp ce afară bate vântul de iarnă. La prânz, parcarea în marină este simplă, ideală pentru o scurtă vizită la siturile istorice. După-amiaza, drumul spre Biokovo Skywalk este spectaculos, soarele de iarnă permițând adesea vederi până în Italia. Seara, drumul de coastă oferă o panoramă luminoasă la apus, într-o liniște deplină.",
+            "en": "In the morning, enjoy the heated drive up to Gornji Tučepi while the winter wind blows outside. At noon, parking at the marina is straightforward, ideal for a short visit to the historical sites. In the afternoon, the drive to Biokovo Skywalk is spectacular, as the winter sun often allows for views as far as Italy. In the evening, the coastal road offers a glowing panorama at sunset in total tranquility."
+          },
+          "stops": [
+            {
+              "name": "Gornji Tučepi",
+              "tip_5lang": {
+                "de": "In höheren Lagen kann die Straße morgens glatt sein.",
+                "hu": "A magasabb részeken az út reggelente jeges lehet.",
+                "ro": "La altitudini mari, drumul poate fi înghețat dimineața.",
+                "en": "In higher altitudes, the road can be icy in the morning."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Antonius von Padua",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht aus dem beheizten Auto.",
+                "hu": "Élvezze a kilátást a fűtött autóból.",
+                "ro": "Bucurați-vă de priveliște din mașina încălzită.",
+                "en": "Enjoy the view from the heated car."
+              }
+            },
+            {
+              "name": "Marina Tučepi",
+              "tip_5lang": {
+                "de": "Viele Parkplätze sind im Winter gebührenfrei.",
+                "hu": "Sok parkolóhely télen díjmentesen használható.",
+                "ro": "Multe locuri de parcare sunt gratuite iarna.",
+                "en": "Many parking spaces are free of charge in winter."
+              }
+            },
+            {
+              "name": "Barock-Sommerhaus Ivanišević",
+              "tip_5lang": {
+                "de": "Die Fassade wird im Winterlicht perfekt ausgeleuchtet.",
+                "hu": "A homlokzatot a téli fények tökéletesen megvilágítják.",
+                "ro": "Fațada este iluminată perfect de lumina iernii.",
+                "en": "The facade is perfectly illuminated by the winter light."
+              }
+            },
+            {
+              "name": "Biokovo Skywalk",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Öffnungszeiten, im Winter oft eingeschränkt.",
+                "hu": "Ellenőrizze a nyitvatartást, télen gyakran korlátozott.",
+                "ro": "Verificați programul, iarna este adesea restricționat.",
+                "en": "Check the opening hours; they are often limited in winter."
+              }
+            },
+            {
+              "name": "Kirche Mariä Geburt",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter fast leer.",
+                "hu": "A parkoló télen szinte teljesen üres.",
+                "ro": "Parcarea este aproape goală iarna.",
+                "en": "The parking lot is almost empty in winter."
+              }
+            },
+            {
+              "name": "Strand von Tučepi",
+              "tip_5lang": {
+                "de": "Direkte Zufahrt für einen kurzen Blick aufs Meer.",
+                "hu": "Közvetlen lejutás egy gyors tengeri kilátáshoz.",
+                "ro": "Acces direct pentru o scurtă privire spre mare.",
+                "en": "Direct access for a quick look at the sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind für Fahrten ins Biokovo-Gebirge Pflicht.",
+              "Nehmen Sie Decken für Stopps an Aussichtspunkten mit.",
+              "Die Tankstellen in Tučepi haben im Winter oft verkürzte Zeiten.",
+              "Frostschutz für die Scheibenwischanlage ist ratsam.",
+              "Achten Sie auf Wildtiere, die im Winter tiefer ziehen."
+            ],
+            "hu": [
+              "A Biokovo-hegységbe való feljutáshoz téli gumi kötelező.",
+              "Vigyen takarót a kilátópontoknál tett megállókhoz.",
+              "A tučepi benzinkutak télen rövidebb ideig lehetnek nyitva.",
+              "Fagyálló ablakmosó folyadék használata tanácsos.",
+              "Figyeljen a vadállatokra, amik télen alacsonyabbra húzódnak."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii pentru muntele Biokovo.",
+              "Luați pături pentru opririle la punctele de belvedere.",
+              "Benzinăriile din Tučepi pot avea program redus iarna.",
+              "Lichidul de parbriz antigel este recomandat.",
+              "Atenție la animalele sălbatice care coboară iarna."
+            ],
+            "en": [
+              "Winter tires are mandatory for driving into the Biokovo mountains.",
+              "Take blankets along for stops at panoramic viewpoints.",
+              "Gas stations in Tučepi may have shorter hours in winter.",
+              "Antifreeze for the windshield washer is advisable.",
+              "Watch out for wildlife that moves lower during winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -920,6 +2036,333 @@
           "Check the bus schedule in advance (Promet Makarska).",
           "Have small change ready for the bus ticket."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Tučepi lässt sich gut mit Bussen erkunden, die Makarska mit den südlichen Orten verbinden. Starten Sie an der Marina, dem lebendigen Herz des Ortes.\n\nBesuchen Sie die architektonischen Schätze wie das Sommerhaus Ivanišević und die historischen Kirchen. Die Haltestellen liegen meist oberhalb des Ortes an der Küstenstraße.\n\nDen Großteil des Tages verbringen Sie am weitläufigen Strand. Die flache Promenade macht das Erreichen der verschiedenen Strandabschnitte zu Fuß sehr angenehm.\n\nLassen Sie den Tag in einem Café an der Promenade ausklingen, bevor Sie den Bus zurück nehmen. Eine entspannte Art, Tučepi ohne Auto zu erleben.",
+            "hu": "Tučepi jól felfedezhető buszokkal, amelyek Makarskát kötik össze a déli településekkel. Kezdjen a kikötőben, a falu élénk szívében.\n\nLátogassa meg az olyan építészeti kincseket, mint az Ivanišević nyaraló és a történelmi templomok. A megállók többnyire a falu felett, a part menti úton találhatók.\n\nA nap nagy részét töltse a kiterjedt strandon. A sík sétány nagyon kellemessé teszi a különböző strandszakaszok gyalogos megközelítését.\n\nZárja a napot egy kávézóban a sétányon, mielőtt visszabuszolna. Pihentető módja Tučepi felfedezésének autó nélkül.",
+            "ro": "Tučepi poate fi explorat cu ușurință folosind autobuzele care leagă Makarska de localitățile din sud. Începeți de la marină, inima vibrantă a localității.\n\nVizitați comorile arhitecturale precum reședința Ivanišević și bisericile istorice. Stațiile sunt situate în mare parte deasupra satului, pe drumul de coastă.\n\nPetreceți cea mai mare parte a zilei pe plaja întinsă. Faleza plată face ca accesul la diversele secțiuni de plajă pe jos să fie foarte plăcut.\n\nÎncheiați ziua la o cafenea de pe faleză înainte de a lua autobuzul înapoi. O modalitate relaxantă de a experimenta Tučepi fără mașină.",
+            "en": "Tučepi can be easily explored with buses that connect Makarska with the southern villages. Start at the marina, the lively heart of the place.\n\nVisit architectural treasures such as the Ivanišević summer house and the historical churches. The stops are mostly located above the village on the coastal road.\n\nSpend most of the day on the extensive beach. The flat promenade makes reaching the various beach sections on foot very pleasant.\n\nEnd the day at a café on the promenade before taking the bus back. A relaxed way to experience Tučepi without a car."
+          },
+          "stops": [
+            {
+              "name": "Marina Tučepi",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle an der Hauptstraße.",
+                "hu": "Központi buszmegálló a főúton.",
+                "ro": "Stație centrală de autobuz pe drumul principal.",
+                "en": "Central bus stop on the main road."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Antonius von Padua",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg vom Bus.",
+                "hu": "Rövid séta a busztól.",
+                "ro": "O scurtă plimbare de la autobuz.",
+                "en": "A short walk from the bus."
+              }
+            },
+            {
+              "name": "Barock-Sommerhaus Ivanišević",
+              "tip_5lang": {
+                "de": "Das Gebäude ist leicht zu erkennen.",
+                "hu": "Az épület könnyen felismerhető.",
+                "ro": "Clădirea este ușor de recunoscut.",
+                "en": "The building is easy to recognize."
+              }
+            },
+            {
+              "name": "Strand von Tučepi",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Weg entlang der Küste.",
+                "hu": "Használja a tengerparti sétányt.",
+                "ro": "Folosiți faleza de pe litoral.",
+                "en": "Use the seaside promenade."
+              }
+            },
+            {
+              "name": "Kirche Mariä Geburt",
+              "tip_5lang": {
+                "de": "Ideal für einen ruhigen Abschluss.",
+                "hu": "Ideális egy csendes befejezéshez.",
+                "ro": "Ideal pentru o încheiere liniștită.",
+                "en": "Ideal for a quiet conclusion."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bistro Riva",
+                "tip": "Schnelle Gerichte und Eis direkt an der Promenade."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bistro Riva",
+                "tip": "Gyors ételek és fagylalt közvetlenül a sétányon."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bistro Riva",
+                "tip": "Mâncăruri rapide și înghețată direct pe faleză."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bistro Riva",
+                "tip": "Quick meals and ice cream right on the promenade."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Südliches Ende des Strandes",
+                "tip": "Weniger Trubel und viel Schatten.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "A strand déli vége",
+                "tip": "Kisebb tömeg és sok árnyék.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Capătul sudic al plajei",
+                "tip": "Mai puțină agitație și multă umbră.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Southern end of the beach",
+                "tip": "Less bustle and plenty of shade.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokale Kioske",
+                "tip": "Postkarten und handgemachte Souvenirs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi bódék",
+                "tip": "Képeslapok és kézzel készített ajándéktárgyak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chioșcuri locale",
+                "tip": "Vederi și suveniruri lucrate manual."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Kiosks",
+                "tip": "Postcards and handmade souvenirs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Informieren Sie sich vorab über den Busfahrplan (Promet Makarska).",
+              "Halten Sie Kleingeld für das Busticket bereit."
+            ],
+            "hu": [
+              "Tájékozódjon előre a buszmenetrendről (Promet Makarska).",
+              "Legyen Önnél aprópénz a buszjegyhez."
+            ],
+            "ro": [
+              "Informați-vă în prealabil despre orarul autobuzelor (Promet Makarska).",
+              "Aveți pregătiți bani mărunți pentru bilet."
+            ],
+            "en": [
+              "Check the bus schedule in advance (Promet Makarska).",
+              "Have small change ready for the bus ticket."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erreichen Sie die Marina bequem mit dem Bus, während Sie geschützt vor dem Regen die Aussicht genießen. Mittags liegen die Kirchen so nah beieinander, dass kurze Sprints zwischen den Haltestellen und Sehenswürdigkeiten genügen. Nachmittags bietet die Fahrt entlang der Küste bei Regen eine fast mystische Atmosphäre. Abends bringt Sie der Linienbus sicher zurück, während draußen der Wind den Regen gegen die Scheiben peitscht.",
+            "hu": "Reggel kényelmesen érkezik a kikötőbe busszal, az esőtől védve élvezve az utazást. Délben a templomok olyan közel vannak egymáshoz, hogy elég egy-egy rövid sprint a megállók és látnivalók között. Délután a parti út az esőben szinte misztikus hangulatot áraszt az ablakból nézve. Este a menetrend szerinti járat biztonságban viszi vissza, miközben kint a szél veri az esőt az üvegre.",
+            "ro": "Dimineața ajungeți confortabil la marină cu autobuzul, bucurându-vă de priveliște protejat de ploaie. La prânz, bisericile sunt atât de aproape încât scurtele sprinturi între stații și obiective sunt suficiente. După-amiaza, drumul pe coastă oferă o atmosferă aproape mistică prin fereastră. Seara, autobuzul de linie vă aduce înapoi în siguranță, în timp ce afară vântul bate ploaia în geamuri.",
+            "en": "In the morning, reach the marina comfortably by bus while enjoying the view protected from the rain. At noon, the churches are so close together that short sprints between stops and sights are enough. In the afternoon, the coastal drive in the rain offers an almost mystical atmosphere through the window. In the evening, the local bus brings you back safely while the wind lashes the rain against the glass."
+          },
+          "stops": [
+            {
+              "name": "Marina Tučepi",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Unterstand der Bushaltestelle.",
+                "hu": "Várjon a buszmegálló fedett várójában.",
+                "ro": "Așteptați sub copertina stației de autobuz.",
+                "en": "Wait under the shelter of the bus stop."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Antonius von Padua",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte entfernt.",
+                "hu": "A megálló mindössze néhány lépésre található.",
+                "ro": "Stația este la doar câțiva pași distanță.",
+                "en": "The stop is only a few steps away."
+              }
+            },
+            {
+              "name": "Barock-Sommerhaus Ivanišević",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App für Echtzeit-Fahrplaninfos.",
+                "hu": "Használja az alkalmazást a valós idejű menetrendhez.",
+                "ro": "Folosiți aplicația pentru info orar în timp real.",
+                "en": "Use the app for real-time schedule information."
+              }
+            },
+            {
+              "name": "Strand von Tučepi",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt an der Küstenstraße.",
+                "hu": "A busz közvetlenül a parti út mentén áll meg.",
+                "ro": "Autobuzul oprește chiar pe drumul de coastă.",
+                "en": "The bus stops directly along the coastal road."
+              }
+            },
+            {
+              "name": "Kirche Mariä Geburt",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg führt von der Haltestelle zur Kirche.",
+                "hu": "Rövid séta vezet a megállótól a templomig.",
+                "ro": "O scurtă plimbare duce de la stație la biserică.",
+                "en": "A short walk leads from the stop to the church."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei extremem Wetter leicht abweichen.",
+              "Halten Sie Kleingeld für das Ticket beim Fahrer bereit.",
+              "An den Haltestellen gibt es oft wenig Unterstand.",
+              "Die Busse sind im Regen oft recht voll.",
+              "Tragen Sie bei den kurzen Sprints rutschfeste Schuhe."
+            ],
+            "hu": [
+              "A menetrendek extrém időjárás esetén kissé eltérhetnek.",
+              "Készítsen ki aprópénzt a jegyvásárláshoz a sofőrnél.",
+              "A megállókban gyakran kevés a fedett hely.",
+              "A buszok esős időben gyakran zsúfoltabbak.",
+              "Viseljen csúszásmentes cipőt a rövid távokhoz."
+            ],
+            "ro": [
+              "Orarele pot varia ușor în caz de vreme extremă.",
+              "Pregătiți mărunțiș pentru biletul cumpărat de la șofer.",
+              "Stațiile au adesea puține locuri adăpostite.",
+              "Autobuzele sunt adesea destul de pline pe ploaie.",
+              "Purtați încălțăminte aderentă pentru distanțele scurte."
+            ],
+            "en": [
+              "Schedules may vary slightly in extreme weather.",
+              "Have small change ready for buying tickets from the driver.",
+              "Bus stops often have limited shelter space.",
+              "Buses tend to be quite crowded during rainy weather.",
+              "Wear non-slip shoes for the short sprints between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bringt Sie der Bus durch die ruhige Winterlandschaft zur Marina. Mittags sind die Busse angenehm geheizt, was die Fahrten zwischen den historischen Kirchen sehr komfortabel macht. Nachmittags genießen Sie die klare Sicht aus dem Busfenster auf das glitzernde Meer. Abends erreichen Sie Ihr Ziel schnell und sicher, bevor die winterliche Kälte richtig einsetzt.",
+            "hu": "Reggel a busz a nyugodt téli tájon át viszi a kikötőbe. Délben a járatok kellemesen fűtöttek, így a templomok közötti utazás nagyon kényelmes. Délután élvezze a buszablakból a tiszta kilátást a csillogó tengerre. Este gyorsan és biztonságban érheti el úti célját, mielőtt a téli hideg igazán beköszöntene.",
+            "ro": "Dimineața autobuzul vă duce spre marină prin peisajul liniștit de iarnă. La prânz, vehiculele sunt încălzite plăcut, făcând călătoriile între biserici foarte confortabile. După-amiaza bucurați-vă de vederea clară spre marea sclipitoare de la fereastră. Seara ajungeți rapid și în siguranță la destinație, înainte ca frigul iernii să se instaleze serios.",
+            "en": "In the morning, the bus takes you through the quiet winter landscape to the marina. At noon, the vehicles are pleasantly heated, making the trips between historic churches very comfortable. In the afternoon, enjoy the clear views of the sparkling sea from the bus window. In the evening, reach your destination quickly and safely before the winter cold truly sets in."
+          },
+          "stops": [
+            {
+              "name": "Marina Tučepi",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan, es fahren weniger Busse.",
+                "hu": "Ellenőrizze a téli menetrendet, kevesebb járat indul.",
+                "ro": "Verificați orarul de iarnă, circulă mai puține autobuze.",
+                "en": "Check the winter schedule; fewer buses are running."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Antonius von Padua",
+              "tip_5lang": {
+                "de": "Der Bus ist eine warme Alternative zum Fußweg.",
+                "hu": "A busz meleg alternatívát kínál a gyaloglás helyett.",
+                "ro": "Autobuzul este o alternativă caldă la mersul pe jos.",
+                "en": "The bus is a warm alternative to walking."
+              }
+            },
+            {
+              "name": "Barock-Sommerhaus Ivanišević",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind im Winter fast menschenleer.",
+                "hu": "A megállók télen szinte teljesen üresek.",
+                "ro": "Stațiile sunt aproape goale în timpul iernii.",
+                "en": "Bus stops are almost deserted in winter."
+              }
+            },
+            {
+              "name": "Strand von Tučepi",
+              "tip_5lang": {
+                "de": "Perfekt, um den kalten Wind am Strand zu umgehen.",
+                "hu": "Tökéletes, hogy elkerülje a hideg szelet a parton.",
+                "ro": "Perfect pentru a evita vântul rece de pe plajă.",
+                "en": "Perfect for avoiding the cold wind on the beach."
+              }
+            },
+            {
+              "name": "Kirche Mariä Geburt",
+              "tip_5lang": {
+                "de": "Die letzte Rückfahrt ist im Winter oft früher.",
+                "hu": "Télen az utolsó visszatérő járat gyakran korábban indul.",
+                "ro": "Ultima cursă de întoarcere este adesea mai devreme iarna.",
+                "en": "The last return trip is often earlier in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne gelten oft von November bis März.",
+              "Die Busse sind im Winter meist sehr pünktlich.",
+              "Nutzen Sie die Wärme im Bus zum Aufwärmen.",
+              "Fragen Sie den Fahrer nach der letzten Rückfahrt.",
+              "Tragen Sie warme Kleidung für die Wartezeit."
+            ],
+            "hu": [
+              "A téli menetrend általában novembertől márciusig érvényes.",
+              "A buszok télen rendszerint nagyon pontosak.",
+              "Használja ki a busz melegét a felmelegedéshez.",
+              "Kérdezze meg a sofőrt az utolsó visszatérő járatról.",
+              "Viseljen meleg ruhát a várakozási időre."
+            ],
+            "ro": [
+              "Orarele de iarnă sunt valabile din noiembrie până în martie.",
+              "Autobuzele sunt de obicei foarte punctuale iarna.",
+              "Folosiți căldura din autobuz pentru a vă reîncălzi.",
+              "Întrebați șoferul despre ultima cursă de întoarcere.",
+              "Purtați haine groase pentru timpul de așteptare."
+            ],
+            "en": [
+              "Winter schedules often apply from November to March.",
+              "Buses are usually very punctual during the winter season.",
+              "Use the warmth inside the bus to heat up between stops.",
+              "Confirm the time of the last return bus with the driver.",
+              "Wear warm clothing for the waiting time at the stops."
+            ]
+          }
+        }
       }
     }
   },

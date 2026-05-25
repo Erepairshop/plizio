@@ -299,6 +299,430 @@
           "Wear comfortable shoes as the streets are steep.",
           "Book wine cellar tours in advance."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im nördlichen Teil der Altstadt beim Pulcinella-Turm und der Kirche Sant'Agostino. Schlendern Sie dann bergauf zum beeindruckenden Piazza Grande.\n\nMittags erkunden Sie den Palazzo Comunale und den Dom, die beide den Hauptplatz dominieren. Genießen Sie die Architektur der Renaissance.\n\nAm Nachmittag tauchen Sie in die Unterwelt der Stadt in der Cantina del Redi ein, um den berühmten Vino Nobile zu entdecken.\n\nBeenden Sie den Tag entspannt an der Festung, wo Sie die Aussicht über das Val d'Orcia genießen können.",
+            "hu": "Kezdd a napot az óváros északi részén a Pulcinella-toronynál és a Sant'Agostino templomnál. Sétálj felfelé a lenyűgöző Piazza Grandéra.\n\nDélben fedezd fel a Városházát és a dómot, amelyek a főteret uralják. Élvezd a reneszánsz építészetet.\n\nDélután merülj el a város földalatti világában a Cantina del Rediben, hogy felfedezd a híres Vino Nobile bort.\n\nZárd a napot pihentetően az erődnél, ahonnan csodás kilátás nyílik a Val d'Orcia vidékére.",
+            "ro": "Începeți ziua în partea de nord a centrului vechi, lângă Turnul Pulcinella și biserica Sant'Agostino. Urcați apoi spre impresionanta Piazza Grande.\n\nLa prânz, explorați Palazzo Comunale și Domul, ambele dominând piața principală. Bucurați-vă de arhitectura renascentistă.\n\nDupă-amiaza, scufundați-vă în lumea subterană a orașului la Cantina del Redi pentru a descoperi celebrul Vino Nobile.\n\nÎncheiați ziua relaxându-vă la fortăreață, de unde puteți admira vederea peste Val d'Orcia.",
+            "en": "Start your day in the northern part of the old town near the Pulcinella Tower and the Church of Sant'Agostino. Stroll uphill to the impressive Piazza Grande.\n\nAt midday, explore the Palazzo Comunale and the Duomo, both dominating the main square. Enjoy the Renaissance architecture.\n\nIn the afternoon, dive into the underground world of the city at Cantina del Redi to discover the famous Vino Nobile wine.\n\nEnd the day relaxing at the fortress, where you can enjoy the views over the Val d'Orcia."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre di Pulcinella",
+                "hu": "Pulcinella-torony",
+                "ro": "Torre di Pulcinella",
+                "en": "Pulcinella Tower"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Figur oben, die die Stunden schlägt.",
+                "hu": "Figyeld a figurát a tetején, ami az órákat üti.",
+                "ro": "Observați figura de deasupra care bate orele.",
+                "en": "Watch the figure on top that strikes the hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Agostino",
+                "hu": "Sant'Agostino templom",
+                "ro": "Biserica Sant'Agostino",
+                "en": "Church of Sant'Agostino"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade aus dem 15. Jahrhundert.",
+                "hu": "Csodáld meg a 15. századi homlokzatot.",
+                "ro": "Admirați fațada din secolul al XV-lea.",
+                "en": "Admire the 15th-century facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza Grande",
+                "hu": "Piazza Grande",
+                "ro": "Piazza Grande",
+                "en": "Piazza Grande"
+              },
+              "tip_5lang": {
+                "de": "Das Herz der Stadt und Drehort für viele Filme.",
+                "hu": "A város szíve és számos film forgatási helyszíne.",
+                "ro": "Inima orașului și locația multor filme.",
+                "en": "The heart of the town and filming location for many movies."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Comunale",
+                "hu": "Városháza",
+                "ro": "Palazzo Comunale",
+                "en": "Communal Palace"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie auf den Turm für eine unglaubliche Aussicht.",
+                "hu": "Mássz fel a toronyba a hihetetlen kilátásért.",
+                "ro": "Urcați în turn pentru o priveliște incredibilă.",
+                "en": "Climb the tower for an incredible view."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di Santa Maria Assunta",
+                "hu": "Santa Maria Assunta dóm",
+                "ro": "Domul Santa Maria Assunta",
+                "en": "Duomo di Santa Maria Assunta"
+              },
+              "tip_5lang": {
+                "de": "Die unvollendete Fassade birgt wertvolle Kunstwerke im Inneren.",
+                "hu": "A befejezetlen homlokzat értékes műkincseket rejt belül.",
+                "ro": "Fațada neterminată ascunde opere de artă valoroase în interior.",
+                "en": "The unfinished facade hides valuable artworks inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Cantina del Redi",
+                "hu": "Cantina del Redi",
+                "ro": "Cantina del Redi",
+                "en": "Cantina del Redi"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die historischen Weinkeller unter der Stadt.",
+                "hu": "Látogass el a város alatti történelmi borospincékbe.",
+                "ro": "Vizitați cramele istorice de sub oraș.",
+                "en": "Visit the historic wine cellars beneath the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortezza di Montepulciano",
+                "hu": "Montepulcianói erőd",
+                "ro": "Fortăreața din Montepulciano",
+                "en": "Fortress of Montepulciano"
+              },
+              "tip_5lang": {
+                "de": "Oft finden hier Kunstausstellungen und Weinverkostungen statt.",
+                "hu": "Gyakran ad otthont művészeti kiállításoknak és borkóstolóknak.",
+                "ro": "Găzduiește adesea expoziții de artă și degustări de vin.",
+                "en": "Often hosts art exhibitions and wine tastings."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Vino Nobile di Montepulciano",
+                "tip": "Der berühmte Rotwein der Region."
+              },
+              {
+                "name": "Pici all'Aglione",
+                "tip": "Handgemachte dicke Pasta mit Knoblauchsauce."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vino Nobile di Montepulciano",
+                "tip": "A régió híres vörösbora."
+              },
+              {
+                "name": "Pici all'Aglione",
+                "tip": "Kézzel készített vastag tészta fokhagymás szósszal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vino Nobile di Montepulciano",
+                "tip": "Celebrul vin roșu al regiunii."
+              },
+              {
+                "name": "Pici all'Aglione",
+                "tip": "Paste groase făcute manual cu sos de usturoi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vino Nobile di Montepulciano",
+                "tip": "The famous red wine of the region."
+              },
+              {
+                "name": "Pici all'Aglione",
+                "tip": "Handmade thick pasta with garlic sauce."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "San Biagio Wiese",
+                "tip": "Ruhiger Platz vor der Kirche.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "San Biagio rét",
+                "tip": "Nyugodt hely a templom előtt.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pajiștea San Biagio",
+                "tip": "Loc liniștit în fața bisericii.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "San Biagio Meadow",
+                "tip": "Quiet spot in front of the church.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "La Bottega del Nobile",
+                "tip": "Wein und lokale Delikatessen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Bottega del Nobile",
+                "tip": "Borok és helyi finomságok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Bottega del Nobile",
+                "tip": "Vin și delicatese locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Bottega del Nobile",
+                "tip": "Wine and local delicacies."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe, da die Straßen steil sind.",
+              "Reservieren Sie Weinkeller-Touren im Voraus."
+            ],
+            "hu": [
+              "Viselj kényelmes cipőt, mert az utcák meredekek.",
+              "Foglald le előre a pincelátogatásokat."
+            ],
+            "ro": [
+              "Purtați încălțăminte confortabilă, deoarece străzile sunt abrupte.",
+              "Rezervați tururile la crame în avans."
+            ],
+            "en": [
+              "Wear comfortable shoes as the streets are steep.",
+              "Book wine cellar tours in advance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet der Turm Schutz vor Schauern. Mittags genießen wir die Piazza Grande unter dem Regenschirm. Nachmittags flüchten wir in die trockenen, historischen Weinkeller. Abends wärmen wir uns in den Gassen bei Wein auf.",
+            "hu": "Reggel a torony ad menedéket a zápor elől. Délben esernyő alatt csodáljuk a Piazza Grandét. Délután a száraz és hűvös történelmi borospincékbe húzódunk. Este a kivilágított, vizes macskaköveken sétálva keresünk egy barátságos trattoriát.",
+            "ro": "Dimineața turnul oferă adăpost împotriva averselor. La prânz admirăm Piazza Grande sub umbrelă. După-amiaza ne retragem în cramele istorice uscate. Seara ne încălzim într-o trattoria după o plimbare pe străzile umede.",
+            "en": "Morning rain is best dodged inside the tower. At noon, Piazza Grande has a moody charm under umbrellas. Afternoon is spent in the dry, underground wine cellars. Evening ends with local wine in a cozy, warm interior."
+          },
+          "stops": [
+            {
+              "name": "Pulcinella Tower",
+              "tip_5lang": {
+                "de": "Guter Unterstand bei plötzlichem Regen.",
+                "hu": "Jó búvóhely hirtelen zápor esetén.",
+                "ro": "Adăpost bun în caz de ploaie bruscă.",
+                "en": "Good shelter during sudden showers."
+              }
+            },
+            {
+              "name": "Church of Sant'Agostino",
+              "tip_5lang": {
+                "de": "Trockener Ort für spirituelle Architektur.",
+                "hu": "Száraz hely a spirituális építészethez.",
+                "ro": "Loc uscat pentru arhitectură spirituală.",
+                "en": "Dry place to enjoy spiritual architecture."
+              }
+            },
+            {
+              "name": "Piazza Grande",
+              "tip_5lang": {
+                "de": "Vorsicht, das Pflaster ist rutschig.",
+                "hu": "Vigyázat, a kövezet csúszós lehet.",
+                "ro": "Atenție, pavajul este alunecos.",
+                "en": "Careful, the pavement gets slippery."
+              }
+            },
+            {
+              "name": "Communal Palace",
+              "tip_5lang": {
+                "de": "Innenbesichtigung schützt vor Nässe.",
+                "hu": "A belső látogatás megvéd az esőtől.",
+                "ro": "Vizitarea interiorului protejează de ploaie.",
+                "en": "Indoor visit keeps you dry."
+              }
+            },
+            {
+              "name": "Duomo di Santa Maria Assunta",
+              "tip_5lang": {
+                "de": "Ideal, um den heftigsten Regen abzuwarten.",
+                "hu": "Ideális a leghevesebb eső kivárására.",
+                "ro": "Ideal pentru a aștepta trecerea ploii.",
+                "en": "Ideal for waiting out heavy rain."
+              }
+            },
+            {
+              "name": "Cantina del Redi",
+              "tip_5lang": {
+                "de": "Die Keller sind perfekt bei Regen.",
+                "hu": "A pincék tökéletesek esős időben.",
+                "ro": "Cramele sunt perfecte pe timp de ploaie.",
+                "en": "The cellars are perfect for rainy days."
+              }
+            },
+            {
+              "name": "Fortress of Montepulciano",
+              "tip_5lang": {
+                "de": "Ausstellungen im Trockenen genießen.",
+                "hu": "Élvezze a kiállításokat szárazon.",
+                "ro": "Bucurați-vă de expoziții la adăpost.",
+                "en": "Enjoy the exhibitions indoors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die steilen Gassen.",
+              "Ein stabiler Regenschirm ist bei Wind in der Toskana wichtig.",
+              "Nutzen Sie die vielen Weinkeller als natürlichen Regenschutz.",
+              "Die Steinstufen können bei Nässe sehr glatt sein."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a meredek utcákhoz.",
+              "Erős esernyő ajánlott a toszkán szél miatt.",
+              "Használja a borospincéket természetes óvóhelyként.",
+              "A kőlépcsők nedvesen nagyon csúszósak lehetnek."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile abrupte.",
+              "O umbrelă rezistentă este utilă împotriva vântului toscan.",
+              "Folosiți cramele ca adăpost natural împotriva ploii.",
+              "Treptele de piatră pot fi foarte alunecoase când sunt ude."
+            ],
+            "en": [
+              "Wear waterproof shoes for the steep alleys.",
+              "A sturdy umbrella is a must for Tuscan wind.",
+              "Use the wine cellars as natural shelters from the rain.",
+              "Stone steps can be very slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens liegt oft Frost auf den Zinnen des Turms. Mittags wärmt die tiefstehende Sonne die Piazza Grande. Nachmittags bietet der Dom spirituelle Ruhe und Wärme. Abends erleuchten Weihnachtsgeister die Festung.",
+            "hu": "Reggel gyakran dér borítja a torony csipkéit. Délben az alacsonyan járó nap süti a Piazza Grandét. Délután a dóm nyújt lelki békét és enyhülést a hideg elől. Este az ünnepi fények ragyogják be az erődöt.",
+            "ro": "Dimineața chiciura acoperă adesea crenelurile turnului. La prânz soarele jos încălzește Piazza Grande. După-amiaza domul oferă liniște și adăpost de frig. Seara luminile de sărbătoare strălucesc la fortăreață.",
+            "en": "Morning frost often coats the tower walls. At noon, the low winter sun hits Piazza Grande beautifully. Afternoon is for quiet reflection inside the warm Duomo. Evening brings festive lights to the medieval fortress."
+          },
+          "stops": [
+            {
+              "name": "Pulcinella Tower",
+              "tip_5lang": {
+                "de": "Frische Winterluft beim Aufstieg.",
+                "hu": "Friss téli levegő a felfelé úton.",
+                "ro": "Aer curat de iarnă în timpul urcării.",
+                "en": "Crisp winter air during the climb."
+              }
+            },
+            {
+              "name": "Church of Sant'Agostino",
+              "tip_5lang": {
+                "de": "Ein ruhiger, windgeschützter Ort.",
+                "hu": "Csendes, szélvédett helyszín.",
+                "ro": "Un loc liniștit, ferit de vânt.",
+                "en": "A quiet place sheltered from the wind."
+              }
+            },
+            {
+              "name": "Piazza Grande",
+              "tip_5lang": {
+                "de": "Oft Standort des Weihnachtsmarktes.",
+                "hu": "Gyakran itt van a karácsonyi vásár.",
+                "ro": "Adesea locația târgului de Crăciun.",
+                "en": "Often the site of the Christmas market."
+              }
+            },
+            {
+              "name": "Communal Palace",
+              "tip_5lang": {
+                "de": "Warme Innenräume mit Geschichte.",
+                "hu": "Meleg belső terek történelemmel.",
+                "ro": "Interioare calde pline de istorie.",
+                "en": "Warm interiors filled with history."
+              }
+            },
+            {
+              "name": "Duomo di Santa Maria Assunta",
+              "tip_5lang": {
+                "de": "Andächtige Stille im Winter.",
+                "hu": "Áhítatos csend a téli időben.",
+                "ro": "Liniște pioasă în timpul iernii.",
+                "en": "Devotional silence in wintertime."
+              }
+            },
+            {
+              "name": "Cantina del Redi",
+              "tip_5lang": {
+                "de": "Konstante Temperatur in den Kellern.",
+                "hu": "Állandó hőmérséklet a pincékben.",
+                "ro": "Temperatură constantă în crame.",
+                "en": "Constant temperature in the cellars."
+              }
+            },
+            {
+              "name": "Fortress of Montepulciano",
+              "tip_5lang": {
+                "de": "Toll beleuchtet in der Dämmerung.",
+                "hu": "Nagyszerűen kivilágítva sötétedéskor.",
+                "ro": "Iluminat superb la amurg.",
+                "en": "Great lighting at dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung ist wegen des Winds auf dem Hügel nötig.",
+              "Die Sonne geht im Winter bereits gegen 16:45 Uhr unter.",
+              "Besuchen Sie den Weihnachtsmarkt auf der Piazza Grande.",
+              "Kopfsteinpflaster kann bei Frost gefährlich glatt sein."
+            ],
+            "hu": [
+              "Meleg ruházat szükséges a dombtetőn fújó szél miatt.",
+              "A nap télen már 16:45 körül lemegy.",
+              "Látogassa meg a karácsonyi vásárt a főtéren.",
+              "A macskakő fagyos időben veszélyesen csúszhat."
+            ],
+            "ro": [
+              "Haine groase sunt necesare din cauza vântului de pe deal.",
+              "Soarele apune în jur de ora 16:45 iarna.",
+              "Vizitați târgul de Crăciun din Piazza Grande.",
+              "Pavajul poate fi periculos de alunecos la îngheț."
+            ],
+            "en": [
+              "Warm layers are essential for the hilltop wind.",
+              "The sun sets early, around 4:45 PM in winter.",
+              "Check out the Christmas market in Piazza Grande.",
+              "Cobblestones can be dangerously slick in freezing temps."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -553,6 +977,382 @@
           "E-bikes are highly recommended for the steep hills.",
           "Watch out for pedestrians in the ZTL zone."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie an der Festung und rollen Sie durch die engen Gassen zum Hauptplatz.\n\nBesuchen Sie das Stadtmuseum, bevor Sie die Stadtmauern verlassen.\n\nDie Abfahrt zum Tempio di San Biagio ist spektakulär und bietet tolle Fotomotive.\n\nDer Rückweg in die Oberstadt erfordert etwas Kraft, aber die Weinkeller erwarten Sie.",
+            "hu": "Kezdd az erődnél, és gurulj végig a szűk utcákon a főtérig.\n\nLátogasd meg a Városi Múzeumot, mielőtt elhagynád a városfalakat.\n\nA San Biagio templomhoz vezető lejtő látványos és remek fotótémákat kínál.\n\nA felsővárosba vezető út némi erőt igényel, de a borospincék várnak.",
+            "ro": "Începeți la fortăreață și rulați pe străzile înguste până la piața principală.\n\nVizitați muzeul orașului înainte de a părăsi zidurile cetății.\n\nCoborârea spre Templul San Biagio este spectaculoasă și oferă oportunități foto grozave.\n\nDrumul de întoarcere în orașul de sus necesită puțin efort, dar cramele vă așteaptă.",
+            "en": "Start at the fortress and roll through the narrow streets to the main square.\n\nVisit the Civic Museum before leaving the city walls.\n\nThe descent to the Temple of San Biagio is spectacular and offers great photo opportunities.\n\nThe way back to the upper town requires some effort, but the wine cellars await."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fortezza di Montepulciano",
+                "hu": "Montepulcianói erőd",
+                "ro": "Fortăreața din Montepulciano",
+                "en": "Fortress of Montepulciano"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt oben in der Stadt.",
+                "hu": "Kiindulópont a város tetején.",
+                "ro": "Punct de plecare din partea de sus a orașului.",
+                "en": "Starting point at the top of the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza Grande",
+                "hu": "Piazza Grande",
+                "ro": "Piazza Grande",
+                "en": "Piazza Grande"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Stopp am Hauptplatz.",
+                "hu": "Rövid megálló a főtéren.",
+                "ro": "Scurtă oprire în piața principală.",
+                "en": "Short stop at the main square."
+              }
+            },
+            {
+              "name": {
+                "de": "Pozzo dei Grifi e dei Leoni",
+                "hu": "Grifek és Oroszlánok kútja",
+                "ro": "Pozzo dei Grifi e dei Leoni",
+                "en": "Well of the Grifi and the Leoni"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Renaissance-Brunnen.",
+                "hu": "Egy gyönyörű reneszánsz kút.",
+                "ro": "O fântână renascentistă frumoasă.",
+                "en": "A beautiful Renaissance well."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Civico Pinacoteca Crociani",
+                "hu": "Városi Múzeum",
+                "ro": "Museo Civico",
+                "en": "Civic Museum"
+              },
+              "tip_5lang": {
+                "de": "Wichtige Kunstsammlung.",
+                "hu": "Fontos művészeti gyűjtemény.",
+                "ro": "Colecție importantă de artă.",
+                "en": "Important art collection."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempio di San Biagio",
+                "hu": "San Biagio templom",
+                "ro": "Templul San Biagio",
+                "en": "Temple of San Biagio"
+              },
+              "tip_5lang": {
+                "de": "Eine epische Abfahrt zu diesem Renaissance-Meisterwerk.",
+                "hu": "Egy epikus legurulás ehhez a reneszánsz mesterműhöz.",
+                "ro": "O cobâre epică spre această capodoperă renascentistă.",
+                "en": "An epic descent to this Renaissance masterpiece."
+              }
+            },
+            {
+              "name": {
+                "de": "Cantina del Redi",
+                "hu": "Cantina del Redi",
+                "ro": "Cantina del Redi",
+                "en": "Cantina del Redi"
+              },
+              "tip_5lang": {
+                "de": "Der Rückweg ist steil, belohnen Sie sich mit Wein.",
+                "hu": "Visszafelé meredek az út, jutalmazd magad borral.",
+                "ro": "Drumul de întoarcere este abrupt, recompensați-vă cu vin.",
+                "en": "The way back is steep, reward yourself with wine."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Cantina De' Ricci",
+                "tip": "Einer der beeindruckendsten Keller."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cantina De' Ricci",
+                "tip": "Az egyik leglenyűgözőbb pince."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cantina De' Ricci",
+                "tip": "Una dintre cele mai impresionante crame."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cantina De' Ricci",
+                "tip": "One of the most impressive cellars."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "San Biagio Zypresen",
+                "tip": "Typisch toskanische Idylle.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "San Biagio ciprusok",
+                "tip": "Tipikus toszkán idill.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chiparoșii San Biagio",
+                "tip": "Idilă tipic toscană.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "San Biagio Cypresses",
+                "tip": "Typical Tuscan idyll.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Consorzio del Vino Nobile",
+                "tip": "Alles über lokalen Wein."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Consorzio del Vino Nobile",
+                "tip": "Minden a helyi borról."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Consorzio del Vino Nobile",
+                "tip": "Totul despre vinul local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Consorzio del Vino Nobile",
+                "tip": "Everything about local wine."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "E-Bikes werden für die steilen Hügel dringend empfohlen.",
+              "Achten Sie auf Fußgänger in der ZTL-Zone."
+            ],
+            "hu": [
+              "Az e-bike kifejezetten ajánlott a meredek dombokhoz.",
+              "Figyelj a gyalogosokra a ZTL zónában."
+            ],
+            "ro": [
+              "Bicicletele electrice sunt recomandate pentru dealurile abrupte.",
+              "Atenție la pietoni în zona ZTL."
+            ],
+            "en": [
+              "E-bikes are highly recommended for the steep hills.",
+              "Watch out for pedestrians in the ZTL zone."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig zur Festung. Mittags suchen wir Schutz unter den Arkaden der Piazza Grande. Nachmittags geht es bergab zum San Biagio Tempel, Vorsicht bei Nässe. Abends entspannen wir bei Wein.",
+            "hu": "Reggel óvatosan tekerünk fel az erődhöz. Délben a Piazza Grande árkádjai alatt pihenünk. Délután legurulunk a San Biagio templomhoz, vigyázva a vizes úton. Este egy pohár bor mellett száradunk meg.",
+            "ro": "Dimineața pedalăm cu grijă spre fortăreață. La prânz căutăm adăpost sub arcadele din Piazza Grande. După-amiaza coborâm spre templul San Biagio pe drumul ud. Seara ne uscăm cu un pahar de vin.",
+            "en": "Morning ride to the fortress requires extra grip. At noon, we find shelter under the square's loggias. Afternoon descent to San Biagio needs careful braking on wet roads. Evening is for drying off with a glass of Redi."
+          },
+          "stops": [
+            {
+              "name": "Fortress of Montepulciano",
+              "tip_5lang": {
+                "de": "Fahrradständer im trockenen Bereich suchen.",
+                "hu": "Keressen kerékpártámaszt fedett helyen.",
+                "ro": "Căutați rastele în zone ferite de ploaie.",
+                "en": "Look for bike racks in sheltered areas."
+              }
+            },
+            {
+              "name": "Piazza Grande",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Stein.",
+                "hu": "Vigyázzon a fékezéssel a vizes kövön.",
+                "ro": "Atenție la frânare pe piatra umedă.",
+                "en": "Be careful when braking on wet stone."
+              }
+            },
+            {
+              "name": "Well of the Grifi and the Leoni",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp zwischen den Schauern.",
+                "hu": "Gyors fotómegálló két zápor között.",
+                "ro": "Scurt popas foto între averse.",
+                "en": "Quick photo stop between showers."
+              }
+            },
+            {
+              "name": "Civic Museum",
+              "tip_5lang": {
+                "de": "Sicherer Ort, um das Rad zu parken.",
+                "hu": "Biztonságos hely a bicikli leállításához.",
+                "ro": "Loc sigur pentru a lăsa bicicleta.",
+                "en": "Safe place to park the bike."
+              }
+            },
+            {
+              "name": "Temple of San Biagio",
+              "tip_5lang": {
+                "de": "Die Abfahrt hierher ist bei Regen steil.",
+                "hu": "Az ide vezető lejtő esőben meredek.",
+                "ro": "Coborârea aici este abruptă pe ploaie.",
+                "en": "The descent here is steep in the rain."
+              }
+            },
+            {
+              "name": "Cantina del Redi",
+              "tip_5lang": {
+                "de": "Belohnung nach einer nassen Fahrt.",
+                "hu": "Jutalom egy vizes tekerés után.",
+                "ro": "Răsplată după o cursă umedă.",
+                "en": "Reward after a wet ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie plötzliches Bremsen auf nassem Kopfsteinpflaster.",
+              "Verschlammte Feldwege um den Ort herum meiden.",
+              "Wasserdichte Packtaschen schützen Ihre Kamera.",
+              "Beleuchtung ist bei schlechter Sicht durch Regen Pflicht."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a vizes macskakövön.",
+              "Kerülje a sáros dűlőutakat a város körül.",
+              "A vízálló táskák megvédik az értékeit.",
+              "A világítás kötelező a rossz látási viszonyok között."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavajul ud.",
+              "Evitați drumurile de pământ noroioase din jur.",
+              "Gențile impermeabile vă protejează bunurile.",
+              "Luminile sunt obligatorii pe vizibilitate redusă."
+            ],
+            "en": [
+              "Avoid sudden braking on wet cobblestones.",
+              "Skip muddy unpaved roads around the town.",
+              "Waterproof panniers will protect your gear.",
+              "Bike lights are mandatory for low visibility in rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fordert die kühle Luft an der Festung Ausdauer. Mittags genießen wir die Sonne auf der Piazza Grande. Nachmittags besuchen wir das Museum zum Aufwärmen. Abends radeln wir zum beleuchteten San Biagio Tempel.",
+            "hu": "Reggel a hűvös levegő kitartásra késztet az erődnél. Délben élvezzük a napsütést a főtéren. Délután a múzeumban melegszünk fel. Este a kivilágított San Biagio templomhoz tekerünk le.",
+            "ro": "Dimineața aerul rece de la fortăreață cere rezistență. La prânz ne bucurăm de soare în piață. După-amiaza ne încălzim în muzeu. Seara pedalăm spre templul San Biagio iluminat.",
+            "en": "Morning chill at the fortress wakes you up. At noon, catch some warmth in Piazza Grande. Afternoon museum visit provides a perfect heat break. Evening ride down to San Biagio is magical with its winter illumination."
+          },
+          "stops": [
+            {
+              "name": "Fortress of Montepulciano",
+              "tip_5lang": {
+                "de": "Handschuhe für die Abfahrt nicht vergessen.",
+                "hu": "Ne feledje a kesztyűt a lejtőhöz.",
+                "ro": "Nu uitați mănușile pentru coborâre.",
+                "en": "Don't forget gloves for the descent."
+              }
+            },
+            {
+              "name": "Piazza Grande",
+              "tip_5lang": {
+                "de": "In der Sonne parken für warmen Sattel.",
+                "hu": "Parkoljon a napon a meleg nyeregért.",
+                "ro": "Parcați la soare pentru o șa caldă.",
+                "en": "Park in the sun for a warm saddle."
+              }
+            },
+            {
+              "name": "Well of the Grifi and the Leoni",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis in Pfützen.",
+                "hu": "Vigyázzon a jégre a tócsákban.",
+                "ro": "Atenție la gheața din bălți.",
+                "en": "Watch out for ice in puddles."
+              }
+            },
+            {
+              "name": "Civic Museum",
+              "tip_5lang": {
+                "de": "Perfekt zum Aufwärmen der Finger.",
+                "hu": "Tökéletes az ujjak felmelegítésére.",
+                "ro": "Perfect pentru încălzirea degetelor.",
+                "en": "Perfect for warming up your fingers."
+              }
+            },
+            {
+              "name": "Temple of San Biagio",
+              "tip_5lang": {
+                "de": "Tiefer Sonnenstand bietet tolles Licht.",
+                "hu": "Az alacsony napállás remek fényt ad.",
+                "ro": "Soarele jos oferă o lumină superbă.",
+                "en": "Low sun angle provides great light."
+              }
+            },
+            {
+              "name": "Cantina del Redi",
+              "tip_5lang": {
+                "de": "Ein Glas Wein wärmt von innen.",
+                "hu": "Egy pohár bor belülről melegít.",
+                "ro": "Un pahar de vin vă încălzește interior.",
+                "en": "A glass of wine warms you from inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten gegen den Fahrtwind.",
+              "Die Straßen können im Schatten glatt sein.",
+              "Denken Sie an die frühe Dämmerung ab 16:30 Uhr.",
+              "Warme Getränke in Thermosflaschen mitnehmen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a menetszél ellen.",
+              "Az utak az árnyékos részeken jegesek lehetnek.",
+              "Számoljon a korai sötétedéssel 16:30-tól.",
+              "Vigyen magával meleg italt termoszban."
+            ],
+            "ro": [
+              "Purtați mai multe straturi împotriva vântului.",
+              "Drumurile pot fi înghețate în zonele cu umbră.",
+              "Țineți cont de amurgul timpuriu de la 16:30.",
+              "Luați băuturi calde în termos."
+            ],
+            "en": [
+              "Wear multiple layers against the wind chill.",
+              "Roads can be icy in shaded sections.",
+              "Be aware of early dusk from 4:30 PM.",
+              "Carry warm drinks in a thermos flask."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -784,6 +1584,350 @@
           "The old town is a ZTL zone (limited traffic).",
           "Parking lots fill up quickly on weekends."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie beim San Biagio Tempel im Tal, bevor Sie zur Festung hinauffahren.\n\nParken Sie oben und erkunden Sie den Hauptplatz und den Dom bequem zu Fuß.\n\nBesuchen Sie die Weinkeller für eine Verkostung oder zum Einkaufen.\n\nGenießen Sie die toskanische Landschaft bei der An- und Abreise.",
+            "hu": "Kezdd a völgyben lévő San Biagio templomnál, mielőtt felhajtanál az erődhöz.\n\nParkolj le fent, és fedezd fel a főteret és a dómot kényelmesen gyalog.\n\nLátogasd meg a borospincéket kóstolóra vagy vásárlásra.\n\nÉlvezd a toszkán tájat az érkezés és távozás során.",
+            "ro": "Începeți la Templul San Biagio din vale, înainte de a urca la fortăreață.\n\nParcați sus și explorați piața principală și domul confortabil pe jos.\n\nVizitați cramele pentru o degustare sau pentru cumpărături.\n\nBucurați-vă de peisajul toscan în timpul sosirii și plecării.",
+            "en": "Start at the San Biagio Temple in the valley before driving up to the fortress.\n\nPark at the top and explore the main square and the Duomo comfortably on foot.\n\nVisit the wine cellars for a tasting or shopping.\n\nEnjoy the Tuscan landscape during arrival and departure."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tempio di San Biagio",
+                "hu": "San Biagio templom",
+                "ro": "Templul San Biagio",
+                "en": "Temple of San Biagio"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor, um den Massen zu entgehen.",
+                "hu": "Parkolj közvetlenül előtte, hogy elkerüld a tömeget.",
+                "ro": "Parcați direct în față pentru a evita mulțimea.",
+                "en": "Park directly in front to avoid the crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortezza di Montepulciano",
+                "hu": "Montepulcianói erőd",
+                "ro": "Fortăreața din Montepulciano",
+                "en": "Fortress of Montepulciano"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz P1 direkt an der Festung.",
+                "hu": "Használd a P1 parkolót közvetlenül az erődnél.",
+                "ro": "Utilizați parcarea P1 chiar lângă fortăreață.",
+                "en": "Use the P1 parking lot right by the fortress."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza Grande",
+                "hu": "Piazza Grande",
+                "ro": "Piazza Grande",
+                "en": "Piazza Grande"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg vom Parkplatz.",
+                "hu": "Rövid séta a parkolótól.",
+                "ro": "O scurtă plimbare de la parcare.",
+                "en": "A short walk from the parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di Santa Maria Assunta",
+                "hu": "Santa Maria Assunta dóm",
+                "ro": "Domul Santa Maria Assunta",
+                "en": "Duomo di Santa Maria Assunta"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Triptychon von Taddeo di Bartolo.",
+                "hu": "Csodáld meg Taddeo di Bartolo triptichonját.",
+                "ro": "Admirați tripticul lui Taddeo di Bartolo.",
+                "en": "Admire the triptych by Taddeo di Bartolo."
+              }
+            },
+            {
+              "name": {
+                "de": "Cantina del Redi",
+                "hu": "Cantina del Redi",
+                "ro": "Cantina del Redi",
+                "en": "Cantina del Redi"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für den Weinkauf vor der Abfahrt.",
+                "hu": "Tökéletes borvásárláshoz távozás előtt.",
+                "ro": "Perfect pentru cumpărarea vinului înainte de plecare.",
+                "en": "Perfect for buying wine before departure."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Osteria Acquacheta",
+                "tip": "Bekannt für das Florentiner Steak."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Osteria Acquacheta",
+                "tip": "Híres a firenzei steakről."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Osteria Acquacheta",
+                "tip": "Cunoscută pentru friptura florentină."
+              }
+            ],
+            "en": [
+              {
+                "name": "Osteria Acquacheta",
+                "tip": "Known for the Florentine steak."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Piazza Grande Stufen",
+                "tip": "Ideal zum Beobachten der Leute.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Piazza Grande lépcsői",
+                "tip": "Ideális az emberek megfigyelésére.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Treptele Piazza Grande",
+                "tip": "Ideal pentru a observa oamenii.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Piazza Grande steps",
+                "tip": "Ideal for people-watching.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Handgefertigte Kupferwaren",
+                "tip": "Traditionelles Handwerk in Montepulciano."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kézműves rézáruk",
+                "tip": "Hagyományos mesterség Montepulcianóban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Obiecte din cupru lucrate manual",
+                "tip": "Meșteșug tradițional în Montepulciano."
+              }
+            ],
+            "en": [
+              {
+                "name": "Handmade copperware",
+                "tip": "Traditional craft in Montepulciano."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Altstadt ist eine ZTL-Zone (begrenzter Verkehr).",
+              "Parkplätze sind am Wochenende schnell voll."
+            ],
+            "hu": [
+              "Az óváros ZTL zóna (korlátozott forgalom).",
+              "A parkolók hétvégén gyorsan megtelnek."
+            ],
+            "ro": [
+              "Centrul vechi este zonă ZTL (trafic limitat).",
+              "Parcările se umplu repede în weekend."
+            ],
+            "en": [
+              "The old town is a ZTL zone (limited traffic).",
+              "Parking lots fill up quickly on weekends."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens parken wir bequem am San Biagio Tempel. Mittags geht es hoch zur Festung, wo wir trocken aussteigen. Nachmittags erkunden wir die Piazza Grande zwischen den Güssen. Abends fahren wir entspannt zur Cantina.",
+            "hu": "Reggel kényelmesen parkolunk a San Biagio templomnál. Délben felhajtunk az erődhöz, ahol szárazon szállunk ki. Délután a főteret fedezzük fel két zápor között. Este lazán gurulunk el a pincészethez.",
+            "ro": "Dimineața parcăm confortabil la templul San Biagio. La prânz urcăm la fortăreață, unde coborâm uscați. După-amiaza explorăm piața între averse. Seara conducem relaxați spre cramă.",
+            "en": "Morning starts with easy parking at San Biagio. At noon, drive up to the fortress for a dry exit. Afternoon is for exploring Piazza Grande between rain spells. Evening concludes with a short drive to the cellars."
+          },
+          "stops": [
+            {
+              "name": "Temple of San Biagio",
+              "tip_5lang": {
+                "de": "Naher Parkplatz minimiert Regenzeit.",
+                "hu": "A közeli parkoló segít elkerülni az esőt.",
+                "ro": "Parcarea apropiată reduce timpul în ploaie.",
+                "en": "Nearby parking minimizes time in the rain."
+              }
+            },
+            {
+              "name": "Fortress of Montepulciano",
+              "tip_5lang": {
+                "de": "Auffahrt bei Regen gut ausgebaut.",
+                "hu": "Az ide vezető út esőben is jól járható.",
+                "ro": "Drumul de acces este bun și pe ploaie.",
+                "en": "Access road is well-maintained for rain."
+              }
+            },
+            {
+              "name": "Piazza Grande",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz P1.",
+                "hu": "Rövid séta a P1-es parkolóból.",
+                "ro": "Scurtă plimbare din parcarea P1.",
+                "en": "Short walk from parking lot P1."
+              }
+            },
+            {
+              "name": "Duomo di Santa Maria Assunta",
+              "tip_5lang": {
+                "de": "Perfekt für eine Regenpause.",
+                "hu": "Tökéletes hely egy esőszünetre.",
+                "ro": "Perfect pentru o pauză de ploaie.",
+                "en": "Perfect for a rain break."
+              }
+            },
+            {
+              "name": "Cantina del Redi",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Eingangs.",
+                "hu": "Parkoljon a bejárat közelében.",
+                "ro": "Parcați aproape de intrare.",
+                "en": "Park near the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser, um trocken in den Ort zu kommen.",
+              "Fahren Sie auf den schmalen Straßen bei Nässe vorsichtig.",
+              "Ein Regenschirm im Auto ist in der Toskana Pflicht.",
+              "Einige Außenparkplätze können schlammig sein."
+            ],
+            "hu": [
+              "Használja a parkolóházakat a száraz bejutáshoz.",
+              "Vezessen óvatosan a szűk, vizes utakon.",
+              "Az autóban tartott esernyő kötelező Toszkánában.",
+              "Néhány külső parkoló sáros lehet."
+            ],
+            "ro": [
+              "Folosiți parcările etajate pentru acces uscat.",
+              "Conduceți prudent pe străzile înguste și ude.",
+              "O umbrelă în mașină este obligatorie în Toscana.",
+              "Unele parcări exterioare pot fi noroioase."
+            ],
+            "en": [
+              "Use parking garages for dry access to town.",
+              "Drive carefully on narrow, wet roads.",
+              "Always keep an umbrella in the car in Tuscany.",
+              "Some unpaved parking lots might be muddy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens glänzt der Frost auf den Feldern um San Biagio. Mittags ist die Parkplatzsuche an der Festung entspannter. Nachmittags wärmt die Heizung im Auto zwischen den Stopps. Abends genießen wir die beleuchtete Altstadt.",
+            "hu": "Reggel dér csillog a San Biagio körüli mezőkön. Délben a parkolás az erődnél sokkal egyszerűbb. Délután az autó fűtése melenget a megállók között. Este a kivilágított óvárosban gyönyörködünk.",
+            "ro": "Dimineața chiciura strălucește pe câmpurile de la San Biagio. La prânz parcarea la fortăreață este mai relaxată. După-amiaza căldura din mașină ne prinde bine. Seara admirăm centrul vechi iluminat.",
+            "en": "Morning frost glitters on the fields around San Biagio. At noon, parking near the fortress is much easier than in summer. Afternoon car heating is a welcome relief between stops. Evening is for the cozy, lit-up old town."
+          },
+          "stops": [
+            {
+              "name": "Temple of San Biagio",
+              "tip_5lang": {
+                "de": "Tolle Fotos bei tiefstehender Sonne.",
+                "hu": "Remek fotók az alacsony napállásnál.",
+                "ro": "Fotografii superbe cu soarele jos.",
+                "en": "Great photos with the low winter sun."
+              }
+            },
+            {
+              "name": "Fortress of Montepulciano",
+              "tip_5lang": {
+                "de": "Weniger Andrang auf den Parkplätzen.",
+                "hu": "Kisebb tömeg a parkolókban.",
+                "ro": "Mai puțină aglomerație în parcări.",
+                "en": "Less crowding in the parking lots."
+              }
+            },
+            {
+              "name": "Piazza Grande",
+              "tip_5lang": {
+                "de": "Wintermarkt direkt in Reichweite.",
+                "hu": "Téli vásár közvetlen közelben.",
+                "ro": "Târgul de iarnă este foarte aproape.",
+                "en": "Winter market within easy reach."
+              }
+            },
+            {
+              "name": "Duomo di Santa Maria Assunta",
+              "tip_5lang": {
+                "de": "Angenehme Kühle, kein Frost drinnen.",
+                "hu": "Kellemes hűvös, bent nincs fagy.",
+                "ro": "Răcoare plăcută, fără îngheț în interior.",
+                "en": "Pleasant cool, no frost inside."
+              }
+            },
+            {
+              "name": "Cantina del Redi",
+              "tip_5lang": {
+                "de": "Idealer Abschluss eines kalten Tages.",
+                "hu": "Ideális befejezése egy hideg napnak.",
+                "ro": "Finalul ideal al unei zile reci.",
+                "en": "Ideal end to a cold day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei Kälte.",
+              "Die Heizung im Auto macht die Pausen angenehm.",
+              "Achten Sie auf vereiste Stellen in Schattenlagen.",
+              "Parkgebühren sind im Winter oft reduziert."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást a hidegben.",
+              "Az autó fűtése kellemessé teszi a szüneteket.",
+              "Figyeljen a jeges foltokra az árnyékos részeken.",
+              "A parkolási díjak télen gyakran alacsonyabbak."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri pe timp de frig.",
+              "Căldura din mașină face pauzele plăcute.",
+              "Atenție la porțiunile înghețate la umbră.",
+              "Tarifele de parcare sunt adesea reduse iarna."
+            ],
+            "en": [
+              "Check tire pressure during cold spells.",
+              "Car heating makes transitions very comfortable.",
+              "Watch for black ice in shaded valley roads.",
+              "Parking fees are often lower in the low season."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1038,6 +2182,382 @@
           "Check the LFI bus schedules.",
           "Montepulciano train station is far outside the town."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den lokalen Bus zur Porta al Prato und beginnen Sie Ihre Tour.\n\nBesuchen Sie die architektonischen Highlights rund um den Piazza Grande.\n\nNach dem Besuch des Doms schlendern Sie zur Festung hinüber.\n\nDer lokale Shuttlebus verbindet die verschiedenen Ebenen der Stadt bequem.",
+            "hu": "Használd a helyi buszt a Porta al Prato kapuig, és kezdd el a túrát.\n\nLátogasd meg az építészeti fénypontokat a Piazza Grande körül.\n\nA dóm megtekintése után sétálj át az erődhöz.\n\nA helyi transzferbusz kényelmesen összeköti a város különböző szintjeit.",
+            "ro": "Utilizați autobuzul local până la Porta al Prato și începeți turul.\n\nVizitați punctele de interes arhitectural din jurul Piazza Grande.\n\nDupă vizitarea domului, plimbați-vă până la fortăreață.\n\nAutobuzul local de transfer conectează convenabil diferitele niveluri ale orașului.",
+            "en": "Use the local bus to Porta al Prato and start your tour.\n\nVisit the architectural highlights around Piazza Grande.\n\nAfter visiting the Duomo, stroll over to the fortress.\n\nThe local shuttle bus conveniently connects the different levels of the town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre di Pulcinella",
+                "hu": "Pulcinella-torony",
+                "ro": "Torre di Pulcinella",
+                "en": "Pulcinella Tower"
+              },
+              "tip_5lang": {
+                "de": "Nahe der Bushaltestelle Porta al Prato.",
+                "hu": "A Porta al Prato buszmegálló közelében.",
+                "ro": "Lângă stația de autobuz Porta al Prato.",
+                "en": "Near the Porta al Prato bus stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Agostino",
+                "hu": "Sant'Agostino templom",
+                "ro": "Biserica Sant'Agostino",
+                "en": "Church of Sant'Agostino"
+              },
+              "tip_5lang": {
+                "de": "Schöne gotische Details.",
+                "hu": "Szép gótikus részletek.",
+                "ro": "Frumoase detalii gotice.",
+                "en": "Beautiful Gothic details."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza Grande",
+                "hu": "Piazza Grande",
+                "ro": "Piazza Grande",
+                "en": "Piazza Grande"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Punkt für alle Stadtbesichtigungen.",
+                "hu": "Minden városnézés központi pontja.",
+                "ro": "Punct central pentru toate vizitele în oraș.",
+                "en": "Central point for all town visits."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Comunale",
+                "hu": "Városháza",
+                "ro": "Palazzo Comunale",
+                "en": "Communal Palace"
+              },
+              "tip_5lang": {
+                "de": "Ein Symbol der bürgerlichen Macht.",
+                "hu": "A polgári hatalom szimbóluma.",
+                "ro": "Un simbol al puterii civice.",
+                "en": "A symbol of civic power."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di Santa Maria Assunta",
+                "hu": "Santa Maria Assunta dóm",
+                "ro": "Domul Santa Maria Assunta",
+                "en": "Duomo di Santa Maria Assunta"
+              },
+              "tip_5lang": {
+                "de": "Beeindruckende Innenausstattung.",
+                "hu": "Lenyűgöző belső kialakítás.",
+                "ro": "Interior impresionant.",
+                "en": "Impressive interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortezza di Montepulciano",
+                "hu": "Montepulcianói erőd",
+                "ro": "Fortăreața din Montepulciano",
+                "en": "Fortress of Montepulciano"
+              },
+              "tip_5lang": {
+                "de": "Guter Ort, um auf den nächsten Bus zu warten.",
+                "hu": "Jó hely a következő busz megvárására.",
+                "ro": "Loc bun pentru a aștepta următorul autobuz.",
+                "en": "Good place to wait for the next bus."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Caffè Poliziano",
+                "tip": "Historisches Café mit schöner Aussicht."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Caffè Poliziano",
+                "tip": "Történelmi kávézó gyönyörű kilátással."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Caffè Poliziano",
+                "tip": "Cafenea istorică cu o vedere frumoasă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Caffè Poliziano",
+                "tip": "Historic café with a beautiful view."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Giardino di Poggiofanti",
+                "tip": "Kleiner Park am Stadteingang.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Giardino di Poggiofanti",
+                "tip": "Kis park a város bejáratánál.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Giardino di Poggiofanti",
+                "tip": "Mic parc la intrarea în oraș.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Giardino di Poggiofanti",
+                "tip": "Small park at the town entrance.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lederwaren",
+                "tip": "Hochwertige toskanische Lederprodukte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bőráruk",
+                "tip": "Kiváló minőségű toszkán bőrtermékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Produse din piele",
+                "tip": "Produse din piele toscană de înaltă calitate."
+              }
+            ],
+            "en": [
+              {
+                "name": "Leather goods",
+                "tip": "High-quality Tuscan leather products."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Überprüfen Sie die Fahrpläne der LFI-Busse.",
+              "Der Bahnhof Montepulciano liegt weit außerhalb der Stadt."
+            ],
+            "hu": [
+              "Ellenőrizd az LFI buszok menetrendjét.",
+              "Montepulciano vasútállomása messze van a várostól."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor LFI.",
+              "Gara Montepulciano se află departe de oraș."
+            ],
+            "en": [
+              "Check the LFI bus schedules.",
+              "Montepulciano train station is far outside the town."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bringt uns der Bus trocken zur Pulcinella Tower. Mittags warten wir auf den Anschluss im Café an der Piazza Grande. Nachmittags nutzen wir den Shuttle zum Dom. Abends fahren wir bequem zurück ins Tal.",
+            "hu": "Reggel a busz szárazon visz a Pulcinella-toronyhoz. Délben a Piazza Grande egy kávézójában várjuk a csatlakozást. Délután a shuttle busszal megyünk a dómhoz. Este kényelmesen utazunk vissza a völgybe.",
+            "ro": "Dimineața autobuzul ne duce uscați la turnul Pulcinella. La prânz așteptăm conexiunea într-o cafenea din piață. După-amiaza folosim shuttle-ul spre dom. Seara ne întoarcem confortabil în vale.",
+            "en": "Morning bus ride keeps you dry until Pulcinella Tower. At noon, wait for connections in a cozy Piazza Grande cafe. Afternoon shuttle helps avoid walking in heavy rain. Evening transit provides a warm ride back down."
+          },
+          "stops": [
+            {
+              "name": "Pulcinella Tower",
+              "tip_5lang": {
+                "de": "Bushaltestelle ist ganz in der Nähe.",
+                "hu": "A buszmegálló egészen közel van.",
+                "ro": "Stația de autobuz este foarte aproape.",
+                "en": "The bus stop is very close by."
+              }
+            },
+            {
+              "name": "Church of Sant'Agostino",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Bus ins Trockene.",
+                "hu": "Rövid futás a busztól a fedett részig.",
+                "ro": "Scurt sprint de la autobuz la adăpost.",
+                "en": "Short sprint from the bus to shelter."
+              }
+            },
+            {
+              "name": "Piazza Grande",
+              "tip_5lang": {
+                "de": "Zentraler Umstiegspunkt für Shuttles.",
+                "hu": "Központi átszállási pont a shuttle-höz.",
+                "ro": "Punct central de transfer pentru shuttle.",
+                "en": "Central transfer point for shuttles."
+              }
+            },
+            {
+              "name": "Communal Palace",
+              "tip_5lang": {
+                "de": "Ideal bei Regen, viel Zeit drinnen.",
+                "hu": "Ideális esőben, sok időt tölthet bent.",
+                "ro": "Ideal pe ploaie, mult timp în interior.",
+                "en": "Ideal for rain, lots of indoor time."
+              }
+            },
+            {
+              "name": "Duomo di Santa Maria Assunta",
+              "tip_5lang": {
+                "de": "Sicherer Hafen vor dem nächsten Bus.",
+                "hu": "Biztos menedék a következő buszig.",
+                "ro": "Adăpost sigur până la următorul autobuz.",
+                "en": "Safe haven before the next bus."
+              }
+            },
+            {
+              "name": "Fortress of Montepulciano",
+              "tip_5lang": {
+                "de": "Endstation vieler lokaler Linien.",
+                "hu": "Számos helyi járat végállomása.",
+                "ro": "Capăt de linie pentru multe rute locale.",
+                "en": "Terminus for many local bus lines."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bustickets im Tabacchi im Voraus kaufen.",
+              "Fahrpläne können bei Regen leicht abweichen.",
+              "Der 'Pollicino' Shuttle ist ideal bei schlechtem Wetter.",
+              "Haltestellen bieten oft nur wenig Regenschutz."
+            ],
+            "hu": [
+              "Vegye meg a jegyet előre a Tabacchi-ban.",
+              "A menetrend esőben kissé módosulhat.",
+              "A 'Pollicino' shuttle ideális rossz időben.",
+              "A megállók gyakran kevés védelmet nyújtanak."
+            ],
+            "ro": [
+              "Cumpărați biletele în avans de la Tabacchi.",
+              "Orarele pot varia ușor pe timp de ploaie.",
+              "Shuttle-ul 'Pollicino' este ideal pe vreme rea.",
+              "Stațiile oferă adesea puțină protecție la ploaie."
+            ],
+            "en": [
+              "Buy bus tickets in advance at a Tabacchi shop.",
+              "Schedules might fluctuate slightly in heavy rain.",
+              "The 'Pollicino' mini-bus is great for bad weather.",
+              "Bus stops often have limited rain cover."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist der Bus angenehm geheizt. Mittags erkunden wir die winterliche Piazza Grande. Nachmittags bietet die Fahrt zum Dom einen Moment der Ruhe. Abends bewundern wir die Lichterketten aus dem Busfenster.",
+            "hu": "Reggel a busz kellemesen fűtött. Délben felfedezzük a téli Piazza Grandét. Délután a dómhoz vezető út nyugalmat áraszt. Este a busz ablakából csodáljuk az ünnepi fényeket.",
+            "ro": "Dimineața autobuzul este încălzit plăcut. La prânz explorăm Piazza Grande iarna. După-amiaza drumul spre dom oferă un moment de liniște. Seara admirăm luminițele de pe geamul autobuzului.",
+            "en": "Morning bus rides are pleasantly heated. At noon, enjoy the crisp air of winter in Piazza Grande. Afternoon transit to the Duomo provides a warm break. Evening views of festive lights from the bus window are magical."
+          },
+          "stops": [
+            {
+              "name": "Pulcinella Tower",
+              "tip_5lang": {
+                "de": "Busse verkehren im Winter seltener.",
+                "hu": "A buszok télen ritkábban járnak.",
+                "ro": "Autobuzele circulă mai rar iarna.",
+                "en": "Buses run less frequently in winter."
+              }
+            },
+            {
+              "name": "Church of Sant'Agostino",
+              "tip_5lang": {
+                "de": "Warmer Rückzugsort in der Altstadt.",
+                "hu": "Meleg búvóhely az óvárosban.",
+                "ro": "Refugiu cald în centrul vechi.",
+                "en": "Warm retreat in the old town."
+              }
+            },
+            {
+              "name": "Piazza Grande",
+              "tip_5lang": {
+                "de": "Zentrum des winterlichen Geschehens.",
+                "hu": "A téli események központja.",
+                "ro": "Centrul evenimentelor de iarnă.",
+                "en": "The hub of winter activities."
+              }
+            },
+            {
+              "name": "Communal Palace",
+              "tip_5lang": {
+                "de": "Große Säle sind oft kühl, Jacke anlassen.",
+                "hu": "A nagy termek hűvösek, ne vegye le a kabátot.",
+                "ro": "Sălile mari sunt reci, păstrați haina.",
+                "en": "Large halls are chilly, keep your coat on."
+              }
+            },
+            {
+              "name": "Duomo di Santa Maria Assunta",
+              "tip_5lang": {
+                "de": "Stimmungsvolle Messen im Winter.",
+                "hu": "Hangulatos misék télen.",
+                "ro": "Slujbe atmosferice în timpul iernii.",
+                "en": "Atmospheric winter services."
+              }
+            },
+            {
+              "name": "Fortress of Montepulciano",
+              "tip_5lang": {
+                "de": "Letzter Bus oft vor 19:00 Uhr.",
+                "hu": "Az utolsó busz gyakran 19:00 előtt indul.",
+                "ro": "Ultimul autobuz pleacă adesea înainte de 19:00.",
+                "en": "Last bus often leaves before 7:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne (orario invernale) beachten.",
+              "Busse können bei Glatteis Verspätung haben.",
+              "In der Dämmerung ist die Fahrt besonders schön.",
+              "Tragen Sie warme Schuhe für die Wartezeiten."
+            ],
+            "hu": [
+              "Figyelje a téli menetrendet (orario invernale).",
+              "Jeges utakon a buszok késhetnek.",
+              "Sötétedéskor az utazás különösen szép.",
+              "Viseljen meleg cipőt a várakozáshoz."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă (orario invernale).",
+              "Autobuzele pot avea întârzieri pe gheață.",
+              "Cursa este deosebit de frumoasă la amurg.",
+              "Purtați încălțăminte groasă pentru așteptare."
+            ],
+            "en": [
+              "Check the winter schedule (orario invernale).",
+              "Buses might be delayed in case of ice.",
+              "The ride is especially scenic at dusk.",
+              "Wear warm boots for waiting at the stops."
+            ]
+          }
+        }
       }
     }
   },

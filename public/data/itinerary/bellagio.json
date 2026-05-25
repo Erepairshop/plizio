@@ -327,6 +327,466 @@
           "Avoid the midday heat in peak summer.",
           "Use the small alleys for exploration."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ihr Tag beginnt mit einer erfrischenden Brise an der Lungolago Europa, gefolgt von der aristokratischen Pracht der Villa Melzi. Am Mittag tauchen Sie in die verwinkelten Gassen von Bellagio ein, erklimmen die Salita Serbelloni und besuchen die historische Basilika.\n\nDer Nachmittag steht ganz im Zeichen der Aussicht von der Villa Serbelloni und dem charmanten, versteckten Pescallo. Zum Abschluss genießen Sie die magische Atmosphäre an der Punta Spartivento, wo die Alpen den Comer See küssen.",
+            "hu": "A nap egy frissítő szellővel indul a Lungolago Europa mentén, majd a Villa Melzi arisztokratikus pompája következik. Délben elmerül Bellagio kanyargós utcáiban, megmássza a Salita Serbellonit és meglátogatja a történelmi bazilikát.\n\nA délután a Villa Serbelloni panorámájáról és a bájos, rejtett Pescallo felfedezéséről szól. Végezetül élvezze a varázslatos hangulatot a Punta Spartiventónál, ahol az Alpok a Comói-tóval találkozik.",
+            "ro": "Ziua începe cu o briză revigorantă pe Lungolago Europa, urmată de splendoarea aristocratică a Vilei Melzi. La prânz, scufundați-vă pe străzile sinuoase din Bellagio, urcați pe Salita Serbelloni și vizitați bazilica istorică.\n\nDupă-amiaza este dedicată vederilor de la Villa Serbelloni și fermecătorului Pescallo ascuns. La final, bucurați-vă de atmosfera magică de la Punta Spartivento, unde Alpii sărută lacul Como.",
+            "en": "Your day starts with a refreshing breeze along Lungolago Europa, followed by the aristocratic splendor of Villa Melzi. At midday, dive into the winding streets of Bellagio, climb Salita Serbelloni, and visit the historic basilica.\n\nThe afternoon is all about the views from Villa Serbelloni and discovering charming, hidden Pescallo. Finally, enjoy the magical atmosphere at Punta Spartivento, where the Alps kiss Lake Como."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lungolago Europa",
+                "hu": "Lungolago Europa",
+                "ro": "Lungolago Europa",
+                "en": "Lungolago Europa"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für den Sonnenaufgang und den ersten Blick auf den Comer See.",
+                "hu": "Tökéletes napfelkeltéhez és az első kilátáshoz a Comói-tóra.",
+                "ro": "Perfect pentru răsărit și prima vedere a lacului Como.",
+                "en": "Perfect for sunrise and the first view of Lake Como."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Melzi d'Eril",
+                "hu": "Villa Melzi d'Eril",
+                "ro": "Villa Melzi d'Eril",
+                "en": "Villa Melzi d'Eril"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Gärten im Frühling, wenn die Azaleen blühen.",
+                "hu": "Látogassa meg a kerteket tavasszal, amikor az azáleák virágoznak.",
+                "ro": "Vizitați grădinile primăvara, când înfloresc azaleele.",
+                "en": "Visit the gardens in spring when the azaleas are in bloom."
+              }
+            },
+            {
+              "name": {
+                "de": "Salita Serbelloni",
+                "hu": "Salita Serbelloni",
+                "ro": "Salita Serbelloni",
+                "en": "Salita Serbelloni"
+              },
+              "tip_5lang": {
+                "de": "Die meistfotografierte Gasse mit Blick auf den See.",
+                "hu": "A legtöbbet fotózott sikátor, kilátással a tóra.",
+                "ro": "Cea mai fotografiată alee cu vedere la lac.",
+                "en": "The most photographed alley with a lake view."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica di San Giacomo",
+                "hu": "Basilica di San Giacomo",
+                "ro": "Basilica di San Giacomo",
+                "en": "Basilica di San Giacomo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die romanische Architektur und das Mosaik.",
+                "hu": "Csodálja meg a román építészetet és a mozaikot.",
+                "ro": "Admirați arhitectura romanică și mozaicul.",
+                "en": "Admire the Romanesque architecture and the mosaic."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Serbelloni",
+                "hu": "Villa Serbelloni",
+                "ro": "Villa Serbelloni",
+                "en": "Villa Serbelloni"
+              },
+              "tip_5lang": {
+                "de": "Geführte Touren bieten den besten Panoramablick auf beide Seebecken.",
+                "hu": "Vezetett túrák kínálják a legjobb panorámát a tó mindkét ágára.",
+                "ro": "Tururile ghidate oferă cea mai bună vedere panoramică asupra ambelor brațe ale lacului.",
+                "en": "Guided tours offer the best panoramic view of both lake arms."
+              }
+            },
+            {
+              "name": {
+                "de": "Pescallo",
+                "hu": "Pescallo",
+                "ro": "Pescallo",
+                "en": "Pescallo"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiges Fischerdorf, ideal zum Entspannen abseits der Massen.",
+                "hu": "Csendes halászfalu, ideális a tömegtől való kikapcsolódásra.",
+                "ro": "Un sat de pescari liniștit, ideal pentru relaxare departe de mulțime.",
+                "en": "A quiet fishing village, ideal for relaxing away from the crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta Spartivento",
+                "hu": "Punta Spartivento",
+                "ro": "Punta Spartivento",
+                "en": "Punta Spartivento"
+              },
+              "tip_5lang": {
+                "de": "Der Ort, an dem sich der See in drei Arme teilt.",
+                "hu": "A pont, ahol a tó három ágra válik szét.",
+                "ro": "Punctul în care lacul se desparte în trei brațe.",
+                "en": "The spot where the lake splits into three arms."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Risotto con pesce persico",
+                "tip": "Lokale Barsch-Spezialität im Ristorante Bilacus."
+              },
+              {
+                "name": "Bar Rossi",
+                "tip": "Ein klassischer Aperitivo direkt am Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Risotto con pesce persico",
+                "tip": "Helyi sügér specialitás a Ristorante Bilacusban."
+              },
+              {
+                "name": "Bar Rossi",
+                "tip": "Egy klasszikus aperitivo közvetlenül a kikötőben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Risotto con pesce persico",
+                "tip": "Specialitate locală de biban la Ristorante Bilacus."
+              },
+              {
+                "name": "Bar Rossi",
+                "tip": "Un aperitiv clasic chiar în port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Risotto con pesce persico",
+                "tip": "Local perch specialty at Ristorante Bilacus."
+              },
+              {
+                "name": "Bar Rossi",
+                "tip": "A classic aperitivo right by the harbor."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Punta Spartivento",
+                "tip": "Panoramablick auf den See.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Gärten der Villa Melzi",
+                "tip": "Ruhige Spazierwege am Wasser.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Punta Spartivento",
+                "tip": "Panorámás kilátás a tóra.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Villa Melzi kertjei",
+                "tip": "Csendes sétányok a vízparton.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punta Spartivento",
+                "tip": "Vedere panoramică asupra lacului.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Grădinile Villa Melzi",
+                "tip": "Poteci liniștite pe malul apei.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Punta Spartivento",
+                "tip": "Panoramic view of the lake.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Villa Melzi Gardens",
+                "tip": "Quiet paths by the water.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Azalea Silk",
+                "tip": "Exquisite Seidenschals aus lokaler Produktion."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Azalea Silk",
+                "tip": "Kiváló selyemsálak helyi termelésből."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Azalea Silk",
+                "tip": "Eșarfe de mătase rafinate din producția locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Azalea Silk",
+                "tip": "Exquisite silk scarves from local production."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die steilen Treppen.",
+              "Buchen Sie Villa Serbelloni Touren im Voraus.",
+              "Meiden Sie die Mittagszeit im Hochsommer.",
+              "Nutzen Sie die kleinen Gassen zum Erkunden."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a meredek lépcsőkhöz.",
+              "Foglalja le előre a Villa Serbelloni túrákat.",
+              "Kerülje a déli órákat a főszezonban.",
+              "Használja a kis sikátorokat a felfedezéshez."
+            ],
+            "ro": [
+              "Purtați pantofi confortabili pentru scările abrupte.",
+              "Rezervați tururile Villa Serbelloni în avans.",
+              "Evitați orele prânzului în plin sezon.",
+              "Folosiți străduțele mici pentru explorare."
+            ],
+            "en": [
+              "Wear comfortable shoes for the steep stairs.",
+              "Book Villa Serbelloni tours in advance.",
+              "Avoid the midday heat in peak summer.",
+              "Use the small alleys for exploration."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Lungolago Europa trotz Regen einen mystischen Blick auf den vernebelten Comer See. Die Villen und Gärten wirken in der Stille besonders melancholisch.\n\nMittags suchen wir Schutz in den Arkaden und der Basilika von San Giacomo. Die engen Gassen der Altstadt bieten natürlichen Schutz vor den Tropfen.\n\nNachmittags erkunden wir Pescallo, wo das sanfte Klopfen des Regens auf die Fischerboote eine beruhigende Atmosphäre schafft.\n\nAbends beenden wir die Tour am Punta Spartivento, wo die drei Arme des Sees im grauen Licht dramatisch verschmelzen.",
+            "hu": "Reggel a Lungolago Europa mentén a ködbe burkolózó tó látványa misztikus élményt nyújt az esernyő alatt. A kertek ilyenkor különösen csendesek és zöldek.\n\nDélben a San Giacomo-bazilika belső tere és az óváros szűk, fedettebb utcái nyújtanak menedéket a csapadék elől.\n\nDélután Pescallo halászfaluja felé vesszük az irányt, ahol az eső kopogása a csónakokon különleges, melankolikus hangulatot áraszt.\n\nEste a Punta Spartivento fokánál zárjuk a napot, figyelve, ahogy az esőcseppek táncolnak a tó vizén a szürkületben.",
+            "ro": "Dimineața, Lungolago Europa oferă o priveliște mistică asupra lacului învăluit în ceață, perfectă pentru o plimbare cu umbrela. Grădinile par mai verzi și mai vii.\n\nLa prânz, ne adăpostim în Basilica di San Giacomo sau sub arcadele înguste ale orașului vechi, unde clădirile oferă protecție naturală.\n\nDupă-amiaza explorăm satul Pescallo, unde sunetul ploii pe bărcile de pescari creează o atmosferă liniștitoare și autentică.\n\nSeara se încheie la Punta Spartivento, privind cum brațele lacului se întâlnesc sub cerul dramatic de furtună.",
+            "en": "In the morning, Lungolago Europa offers a mystical view of Lake Como shrouded in mist, perfect for a contemplative umbrella walk. The gardens feel lush and silent.\n\nAt noon, find shelter inside the Basilica di San Giacomo or within the narrow, covered alleys of the old town that shield you from the downpour.\n\nIn the afternoon, head to Pescallo, where the sound of rain hitting the wooden fishing boats creates a peaceful, rhythmic atmosphere.\n\nEvening concludes at Punta Spartivento, watching the raindrops dance on the surface where the three branches of the lake meet."
+          },
+          "stops": [
+            {
+              "name": "Lungolago Europa",
+              "tip_5lang": {
+                "de": "Wasserdichte Schuhe sind auf dem gepflasterten Uferweg wichtig.",
+                "hu": "Vízálló cipő ajánlott a köves parti sétányon.",
+                "ro": "Încălțămintea impermeabilă este esențială pe faleză.",
+                "en": "Waterproof shoes are essential for the lakeside pavement."
+              }
+            },
+            {
+              "name": "Villa Melzi d'Eril",
+              "tip_5lang": {
+                "de": "Das kleine Museum bietet einen trockenen Ort für Kultur.",
+                "hu": "A kis múzeum száraz menedéket nyújt a kertben.",
+                "ro": "Micul muzeu oferă un refugiu uscat în timpul ploii.",
+                "en": "The small museum provides a dry refuge in the gardens."
+              }
+            },
+            {
+              "name": "Salita Serbelloni",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Kopfsteinpflasterstufen.",
+                "hu": "Vigyázat, az esőben csúszósak lehetnek a macskakövek.",
+                "ro": "Atenție la treptele de piatră care devin alunecoase.",
+                "en": "Watch your step on the slippery cobblestone stairs."
+              }
+            },
+            {
+              "name": "Basilica di San Giacomo",
+              "tip_5lang": {
+                "de": "Idealer Ort, um einen starken Regenschauer abzuwarten.",
+                "hu": "Tökéletes helyszín egy nagyobb zápor átvészelésére.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei averse.",
+                "en": "An ideal spot to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Villa Serbelloni",
+              "tip_5lang": {
+                "de": "Die Parkführungen finden auch bei leichtem Regen statt.",
+                "hu": "A parklátogatás enyhe esőben is lehetséges esernyővel.",
+                "ro": "Tururile parcului continuă și pe ploaie ușoară.",
+                "en": "Park tours continue even in light rain with umbrellas."
+              }
+            },
+            {
+              "name": "Pescallo",
+              "tip_5lang": {
+                "de": "Die Cafés am Hafen sind bei Regen besonders gemütlich.",
+                "hu": "A kikötő menti kávézók nagyon hangulatosak esőben.",
+                "ro": "Cafenelele din port sunt foarte primitoare pe ploaie.",
+                "en": "Harbor cafes are very cozy during a rainy afternoon."
+              }
+            },
+            {
+              "name": "Punta Spartivento",
+              "tip_5lang": {
+                "de": "Starker Wind am Aussichtspunkt; halten Sie den Schirm fest.",
+                "hu": "Erős szél lehet a foknál; fogja szorosan az esernyőt.",
+                "ro": "Vânt puternic la punct; țineți bine umbrela.",
+                "en": "Strong winds at the point; hold your umbrella firmly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Arkadengänge in der Altstadt als natürlichen Regenschutz.",
+              "Die Fähren haben überdachte Decks für die Überquerung des Sees.",
+              "Tragen Sie Schuhe mit gutem Profil wegen der glatten Steinstufen.",
+              "Viele Cafés bieten gemütliche Innenplätze mit Seeblick.",
+              "Ein windfester Regenschirm ist am Ufer unverzichtbar."
+            ],
+            "hu": [
+              "Használja az óváros árkádos részeit természetes esővédőként.",
+              "A kompok fedett részei lehetővé teszik a száraz utazást.",
+              "Válasszon tapadós talpú cipőt a csúszós lépcsők miatt.",
+              "Számos kávézó kínál kényelmes belső teret tóra néző kilátással.",
+              "A parti szél miatt egy strapabíró esernyő elengedhetetlen."
+            ],
+            "ro": [
+              "Folosiți porticurile din orașul vechi ca adăpost natural.",
+              "Feriboturile au punți acoperite pentru traversarea lacului.",
+              "Purtați pantofi cu aderență bună pentru treptele umede.",
+              "Multe cafenele oferă locuri interioare cu vedere la lac.",
+              "O umbrelă rezistentă la vânt este necesară pe malul apei."
+            ],
+            "en": [
+              "Use the arched walkways in the old town as natural rain cover.",
+              "Ferries have indoor decks to stay dry while crossing the lake.",
+              "Wear shoes with good grip due to the slick stone steps.",
+              "Many cafes offer cozy indoor seating with lake views.",
+              "A wind-resistant umbrella is essential for the lakeshore."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine frische Brise am Ufer, und die schneebedeckten Gipfel der Alpen leuchten in der Ferne über dem tiefblauen Wasser.\n\nMittags genießen wir die Ruhe der Nebensaison. Die Basilika bietet einen stillen Ort der Einkehr, fernab der sommerlichen Touristenströme.\n\nNachmittags taucht die tiefstehende Wintersonne die Villen von Bellagio in ein sanftes, goldenes Licht, das ideal für Fotografie ist.\n\nAbends erleben wir einen frühen, dramatischen Sonnenuntergang am Punta Spartivento, bevor wir uns in ein warmes Restaurant in der Altstadt zurückziehen.",
+            "hu": "Reggel friss szellő fúj a parton, a távolban pedig az Alpok hófödte csúcsai ragyognak a mélykék tó felett.\n\nDélben élvezzük a főszezon utáni nyugalmat. A bazilika csendes menedéket nyújt a téli hideg elől, távol a tömegtől.\n\nDélután az alacsonyan járó téli nap arany fénybe vonja Bellagio villáit, ami tökéletes megvilágítást ad a fotózáshoz.\n\nEste korai, drámai naplementét láthatunk a Punta Spartiventónál, mielőtt behúzódnánk egy barátságos étterembe az óvárosban.",
+            "ro": "Dimineața, o briză proaspătă suflă pe mal, iar vârfurile înzăpezite ale Alpilor strălucesc în depărtare deasupra apei albastre.\n\nLa prânz, ne bucurăm de liniștea sezonului rece. Basilica oferă un loc de reculegere cald și pașnic, departe de agitația verii.\n\nDupă-amiaza, soarele de iarnă scaldă vilele din Bellagio într-o lumină aurie delicată, ideală pentru fotografii spectaculoase.\n\nSeara, asistăm la un apus timpuriu și dramatic la Punta Spartivento, urmat de o cină caldă într-un local primitor.",
+            "en": "In the morning, a crisp breeze blows along the shore, and the snow-capped Alpine peaks shine brightly across the deep blue water.\n\nAt noon, enjoy the profound peace of the off-season. The Basilica offers a quiet sanctuary from the winter chill, far from the crowds.\n\nIn the afternoon, the low winter sun bathes Bellagio's villas in a soft, golden glow, providing perfect lighting for photography.\n\nEvening brings an early, dramatic sunset at Punta Spartivento before retreating to a warm, cozy restaurant in the old town."
+          },
+          "stops": [
+            {
+              "name": "Lungolago Europa",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wegen des Windes vom See her wichtig.",
+                "hu": "Réteges öltözködés javasolt a tavi szél miatt.",
+                "ro": "Haine călduroase sunt necesare din cauza vântului rece.",
+                "en": "Dress warmly; the wind off the lake can be very chilly."
+              }
+            },
+            {
+              "name": "Villa Melzi d'Eril",
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten eine klare Sicht auf die Architektur.",
+                "hu": "A lombtalan fák között jobban látszik a villa architektúrája.",
+                "ro": "Copacii desfrunziți oferă o vedere clară asupra vilei.",
+                "en": "Leafless trees offer a clear view of the villa's architecture."
+              }
+            },
+            {
+              "name": "Salita Serbelloni",
+              "tip_5lang": {
+                "de": "Genießen Sie die leeren Treppen für ungestörte Fotos.",
+                "hu": "Használja ki az üres lépcsőket a tömegmentes fotózáshoz.",
+                "ro": "Profită de scările libere pentru fotografii fără turiști.",
+                "en": "Enjoy the empty stairs for uninterrupted photography."
+              }
+            },
+            {
+              "name": "Basilica di San Giacomo",
+              "tip_5lang": {
+                "de": "Ein angenehm temperierter Rückzugsort im Winter.",
+                "hu": "Kellemes hőmérsékletű menedék a téli napon.",
+                "ro": "Un refugiu cu temperatură plăcută în timpul iernii.",
+                "en": "A pleasantly temperate retreat during a winter day."
+              }
+            },
+            {
+              "name": "Villa Serbelloni",
+              "tip_5lang": {
+                "de": "Prüfen Sie die eingeschränkten Winter-Öffnungszeiten.",
+                "hu": "Ellenőrizze a korlátozott téli nyitvatartási időt.",
+                "ro": "Verificați programul redus de vizitare pe timp de iarnă.",
+                "en": "Check for restricted winter opening hours and tours."
+              }
+            },
+            {
+              "name": "Pescallo",
+              "tip_5lang": {
+                "de": "Das Fischerdorf wirkt im Winterschlaf besonders friedlich.",
+                "hu": "A halászfalu téli álma során rendkívül békés.",
+                "ro": "Satul de pescari este extrem de liniștit în extra-sezon.",
+                "en": "The fishing village is exceptionally peaceful in winter."
+              }
+            },
+            {
+              "name": "Punta Spartivento",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang findet hier bereits gegen 16:30 Uhr statt.",
+                "hu": "A naplemente itt már délután fél 5 körül bekövetkezik.",
+                "ro": "Apusul are loc aici deja în jurul orei 16:30.",
+                "en": "Sunset occurs early here, around 4:30 PM in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe und Schal für die windigen Abschnitte am See.",
+              "Die Sonne geht früh unter; planen Sie Aktivitäten für den Vormittag.",
+              "Viele Hotels und einige Cafés haben in den Wintermonaten geschlossen.",
+              "Die Schifffahrt verkehrt nach dem reduzierten Winterfahrplan.",
+              "Die klare Winterluft bietet die beste Sicht auf die Alpen."
+            ],
+            "hu": [
+              "Viseljen kesztyűt és sálat a szeles parti szakaszokon.",
+              "A nap korán nyugszik, a legtöbb programot délelőttre időzítse.",
+              "Számos szálloda és kávézó zárva tart a téli hónapokban.",
+              "A hajók ritkított téli menetrend szerint közlekednek.",
+              "A tiszta téli levegő biztosítja a legjobb kilátást az Alpokra."
+            ],
+            "ro": [
+              "Purtați mănuși și eșarfă pentru porțiunile cu vânt de pe mal.",
+              "Soarele apune devreme; planificați vizitele pentru dimineață.",
+              "Multe hoteluri și cafenele sunt închise în lunile de iarnă.",
+              "Vapoarele circulă conform orarului redus de iarnă.",
+              "Aerul curat de iarnă oferă cea mai bună vizibilitate spre Alpi."
+            ],
+            "en": [
+              "Wear gloves and a scarf for the windy lakeside stretches.",
+              "Sun sets early; plan most activities for the morning hours.",
+              "Many hotels and some cafes are closed during winter months.",
+              "Ferries operate on a restricted winter schedule.",
+              "The crisp winter air offers the clearest views of the Alps."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -589,6 +1049,398 @@
           "Park your bike safely in designated areas.",
           "Drink plenty of water."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Bellagio und seine Umgebung mit dem Fahrrad. Von der Uferpromenade radeln Sie zum malerischen Pescallo und zur charmanten San Giorgio Kirche.\n\nNach einer Besichtigung der Villa Melzi führt Sie der Weg zurück ins Herz der Stadt zur Basilika, bevor Sie Ihre Tour an der windgepeitschten Punta Spartivento abschließen.",
+            "hu": "Fedezze fel Bellagiót és környékét kerékpárral. A tóparti sétányról tekerjen a festői Pescallóba és a bájos San Giorgio templomhoz.\n\nA Villa Melzi megtekintése után az út visszavezet a város szívébe, a bazilikához, mielőtt túráját a szeles Punta Spartiventónál zárná.",
+            "ro": "Explorați Bellagio și împrejurimile sale cu bicicleta. De pe faleza lacului, pedalați spre pitorescul Pescallo și fermecătoarea biserică San Giorgio.\n\nDupă o vizită la Villa Melzi, drumul vă duce înapoi în inima orașului, la bazilică, înainte de a vă încheia turul la Punta Spartivento.",
+            "en": "Explore Bellagio and its surroundings by bike. From the lakeside promenade, cycle to picturesque Pescallo and the charming San Giorgio church.\n\nAfter visiting Villa Melzi, the path leads back to the heart of the city to the basilica, before finishing your tour at the breezy Punta Spartivento."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lungolago Europa",
+                "hu": "Lungolago Europa",
+                "ro": "Lungolago Europa",
+                "en": "Lungolago Europa"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie das Fahrrad hier, um die Aussicht zu genießen.",
+                "hu": "Itt tolja a biciklit, hogy élvezze a kilátást.",
+                "ro": "Împingeți bicicleta aici pentru a vă bucura de priveliște.",
+                "en": "Push your bike here to enjoy the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Pescallo",
+                "hu": "Pescallo",
+                "ro": "Pescallo",
+                "en": "Pescallo"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt nach Pescallo ist steil, aber lohnenswert.",
+                "hu": "A lejtő Pescallóba meredek, de megéri.",
+                "ro": "Coborârea spre Pescallo este abruptă, dar merită.",
+                "en": "The descent to Pescallo is steep but worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giorgio",
+                "hu": "Chiesa di San Giorgio",
+                "ro": "Chiesa di San Giorgio",
+                "en": "Chiesa di San Giorgio"
+              },
+              "tip_5lang": {
+                "de": "Eine kleine Kirche mit intimer Atmosphäre.",
+                "hu": "Kis templom bensőséges hangulattal.",
+                "ro": "O biserică mică cu o atmosferă intimă.",
+                "en": "A small church with an intimate atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Melzi d'Eril",
+                "hu": "Villa Melzi d'Eril",
+                "ro": "Villa Melzi d'Eril",
+                "en": "Villa Melzi d'Eril"
+              },
+              "tip_5lang": {
+                "de": "Fahrräder müssen draußen geparkt werden.",
+                "hu": "A kerékpárokat kívül kell hagyni.",
+                "ro": "Bicicletele trebuie parcate afară.",
+                "en": "Bikes must be parked outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica di San Giacomo",
+                "hu": "Basilica di San Giacomo",
+                "ro": "Basilica di San Giacomo",
+                "en": "Basilica di San Giacomo"
+              },
+              "tip_5lang": {
+                "de": "Das Zentrum ist sehr belebt, schieben Sie das Rad.",
+                "hu": "A központ nagyon forgalmas, tolja a biciklit.",
+                "ro": "Centrul este foarte aglomerat, împingeți bicicleta.",
+                "en": "The center is very busy, push your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta Spartivento",
+                "hu": "Punta Spartivento",
+                "ro": "Punta Spartivento",
+                "en": "Punta Spartivento"
+              },
+              "tip_5lang": {
+                "de": "Schöner Ort für eine Pause vor der Rückfahrt.",
+                "hu": "Szép hely a pihenésre a visszaindulás előtt.",
+                "ro": "Loc frumos pentru o pauză înainte de întoarcere.",
+                "en": "Beautiful spot for a break before heading back."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Panini & Wein",
+                "tip": "Schneller Snack im Baretto."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Panini & Bor",
+                "tip": "Gyors falat a Barettóban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Panini & Vin",
+                "tip": "Gustare rapidă la Baretto."
+              }
+            ],
+            "en": [
+              {
+                "name": "Panini & Wine",
+                "tip": "Quick snack at Baretto."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pescallo Bucht",
+                "tip": "Ideal für eine ruhige Pause.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pescallo-öböl",
+                "tip": "Ideális egy csendes pihenőhöz.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Golful Pescallo",
+                "tip": "Ideal pentru o pauză liniștită.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pescallo Bay",
+                "tip": "Ideal for a quiet break.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Markt",
+                "tip": "Frisches Obst und lokale Käsesorten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi piac",
+                "tip": "Friss gyümölcsök és helyi sajtok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața locală",
+                "tip": "Fructe proaspete și brânzeturi locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Market",
+                "tip": "Fresh fruits and local cheeses."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Achten Sie auf schmale Straßen und Autos.",
+              "Ein E-Bike ist für die Hügel sehr empfehlenswert.",
+              "Parken Sie Ihr Rad sicher an den vorgesehenen Plätzen.",
+              "Trinken Sie ausreichend Wasser."
+            ],
+            "hu": [
+              "Figyeljen a szűk utakra és az autókra.",
+              "Az elektromos kerékpár erősen ajánlott a dombokhoz.",
+              "Parkolja le biztonságosan a kerékpárt a kijelölt helyeken.",
+              "Igyon elegendő vizet."
+            ],
+            "ro": [
+              "Atenție la străzile înguste și mașini.",
+              "O bicicletă electrică este foarte recomandată pentru dealuri.",
+              "Parcați bicicleta în siguranță în locurile desemnate.",
+              "Beți suficientă apă."
+            ],
+            "en": [
+              "Watch out for narrow roads and cars.",
+              "An e-bike is highly recommended for the hills.",
+              "Park your bike safely in designated areas.",
+              "Drink plenty of water."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erfordert die Fahrt entlang der nassen Uferstraße Konzentration, bietet aber eine erfrischende Perspektive auf den wolkenverhangenen See.\n\nMittags machen wir eine Pause in der Nähe der Villa Melzi, wo die dichten Baumkronen einen gewissen Schutz vor dem Nieselregen bieten.\n\nNachmittags radeln wir vorsichtig durch die gepflasterten Wege der Oberstadt, wobei wir die Basilika als trockenen Ruhepunkt nutzen.\n\nAbends beenden wir die Tour am Aussichtspunkt, während die Lichter der gegenüberliegenden Orte im Regen verschwimmen.",
+            "hu": "Reggel a nedves parti úton való kerékpározás koncentrációt igényel, de frissítő kilátást nyújt a felhős tóra.\n\nDélben a Villa Melzi közelében pihenünk meg, ahol a sűrű lombok némi védelmet nyújtanak a szemerkélő eső ellen.\n\nDélután óvatosan hajtunk át a felsőváros macskaköves útjain, a bazilikát használva száraz pihenőpontként.\n\nEste a kilátónál fejezzük be a túrát, miközben a szemközti part fényei elmosódnak az esőben.",
+            "ro": "Dimineața, pedalatul pe drumul ud de pe mal necesită atenție, dar oferă o perspectivă revigorantă asupra lacului acoperit de nori.\n\nLa prânz, facem o pauză lângă Villa Melzi, unde coroanele dese ale copacilor oferă o oarecare protecție împotriva burniței.\n\nDupă-amiaza parcurgem cu grijă străzile pietruite din orașul de sus, folosind basilica ca punct de odihnă uscat.\n\nSeara încheiem turul la punctul de observație, în timp ce luminile orașelor de vis-à-vis se reflectă difuz în ploaie.",
+            "en": "In the morning, cycling along the wet lakeshore road requires focus but rewards you with a refreshing perspective of the cloud-covered lake.\n\nAt noon, take a break near Villa Melzi, where the dense canopy offers some protection from the drizzling rain.\n\nIn the afternoon, navigate carefully through the cobbled paths of the upper town, using the Basilica as a dry resting point.\n\nEvening concludes at the viewpoint as the lights from the towns across the water blur beautifully in the rain."
+          },
+          "stops": [
+            {
+              "name": "Lungolago Europa",
+              "tip_5lang": {
+                "de": "Vorsicht bei Bremsmanövern auf dem nassen Asphalt.",
+                "hu": "Vigyázzon a fékezéssel a nedves aszfalton.",
+                "ro": "Atenție la frânare pe asfaltul ud.",
+                "en": "Be cautious when braking on wet asphalt surfaces."
+              }
+            },
+            {
+              "name": "Pescallo",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Markisen der Cafés.",
+                "hu": "Keressen menedéket a kávézók napellenzői alatt.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor.",
+                "en": "Find shelter under the cafe awnings if rain intensifies."
+              }
+            },
+            {
+              "name": "Chiesa di San Giorgio",
+              "tip_5lang": {
+                "de": "Ein kleiner, trockener Ort für eine kurze Verschnaufpause.",
+                "hu": "Kis, száraz hely egy rövid pihenőhöz.",
+                "ro": "Un loc mic și uscat pentru o scurtă pauză.",
+                "en": "A small, dry place for a quick breather."
+              }
+            },
+            {
+              "name": "Villa Melzi d'Eril",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem überdachten Platz ab.",
+                "hu": "Parkolja le a kerékpárt egy fedett helyen.",
+                "ro": "Parcați bicicleta într-un loc acoperit.",
+                "en": "Park your bike in a covered spot if possible."
+              }
+            },
+            {
+              "name": "Basilica di San Giacomo",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenbesichtigung, um trocken zu werden.",
+                "hu": "Használja ki a belső látogatást a megszáradáshoz.",
+                "ro": "Profită de vizita în interior pentru a te usca.",
+                "en": "Use the indoor visit to dry off for a while."
+              }
+            },
+            {
+              "name": "Punta Spartivento",
+              "tip_5lang": {
+                "de": "Der Boden kann hier bei Regen sehr rutschig sein.",
+                "hu": "A talaj itt esőben nagyon csúszós lehet.",
+                "ro": "Solul poate fi foarte alunecos aici pe ploaie.",
+                "en": "The ground can be very slippery here in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und Regenhose.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf Nässe.",
+              "Vermeiden Sie das Überfahren von weißen Linien und Metallgittern.",
+              "Planen Sie mehr Zeit für die Bremswege ein.",
+              "Nutzen Sie die Fähren, um größere Regenfelder zu umgehen."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot (dzseki és nadrág).",
+              "Csökkentse kissé a guminyomást a jobb tapadás érdekében.",
+              "Kerülje a fehér felfestéseket és a fémrácsokat az úton.",
+              "Számoljon hosszabb féktávval a nedves úton.",
+              "Használja a kompot a nagyobb esőzónák kikerülésére."
+            ],
+            "ro": [
+              "Purtați jachetă și pantaloni impermeabili.",
+              "Reduceți ușor presiunea în pneuri pentru aderență mai bună.",
+              "Evitați marcajele rutiere albe și grătarele metalice.",
+              "Prevedeți o distanță de frânare mai mare.",
+              "Folosiți feribotul pentru a evita zonele cu ploaie torențială."
+            ],
+            "en": [
+              "Wear a full rain jacket and waterproof trousers.",
+              "Slightly reduce tire pressure for better grip on wet roads.",
+              "Avoid riding over white road markings and metal grates.",
+              "Allow for much longer braking distances.",
+              "Use ferries to bypass the heaviest rain patches."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Luft klirrend kalt, aber die Sicht auf die schneebedeckten Berge ist unübertroffen klar.\n\nMittags suchen wir die Sonne auf den höher gelegenen Wegen, um uns während der Fahrt etwas aufzuwärmen.\n\nNachmittags erkunden wir das ruhige Pescallo, wo kaum ein Auto die winterliche Stille stört.\n\nAbends radeln wir zügig zurück zum Hafen, um der eisigen Kälte nach Sonnenuntergang zu entkommen.",
+            "hu": "Reggel a levegő csípősen hideg, de a kilátás a hófödte hegyekre felülmúlhatatlanul tiszta.\n\nDélben a magasabban fekvő utakon keressük a napsütést, hogy menet közben kissé felmelegedjünk.\n\nDélután a csendes Pescallót fedezzük fel, ahol alig zavarja autó a téli nyugalmat.\n\nEste gyorsan visszakerekezünk a kikötőbe, hogy elkerüljük a naplemente utáni jeges hideget.",
+            "ro": "Dimineața aerul este tăios de rece, dar vizibilitatea spre munții înzăpeziți este de o claritate imbatabilă.\n\nLa prânz, căutăm zonele însorite de pe drumurile mai înalte pentru a ne încălzi puțin în timpul mersului.\n\nDupă-amiaza explorăm liniștitul Pescallo, unde puține mașini tulbură tăcerea hibernală.\n\nSeara pedalăm rapid înapoi spre port pentru a scăpa de frigul înghețat de după apus.",
+            "en": "In the morning, the air is biting cold, but the visibility of the snow-capped mountains is incomparably clear.\n\nAt noon, seek out the sun on the higher paths to warm up a bit while riding.\n\nIn the afternoon, explore peaceful Pescallo, where hardly any cars disturb the winter stillness.\n\nEvening involves a brisk ride back to the harbor to escape the icy chill that sets in after sunset."
+          },
+          "stops": [
+            {
+              "name": "Lungolago Europa",
+              "tip_5lang": {
+                "de": "Der Fahrtwind am See verstärkt das Kältegefühl.",
+                "hu": "A tavi menetszél felerősíti a hidegérzetet.",
+                "ro": "Vântul din mers de lângă lac amplifică senzația de frig.",
+                "en": "Wind chill from the lake is stronger while moving."
+              }
+            },
+            {
+              "name": "Pescallo",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht; bleiben Sie in Bewegung.",
+                "hu": "Egy rövid megálló elég; maradjon mozgásban.",
+                "ro": "O oprire scurtă este suficientă; rămâneți în mișcare.",
+                "en": "A short stop is enough; keep moving to stay warm."
+              }
+            },
+            {
+              "name": "Chiesa di San Giorgio",
+              "tip_5lang": {
+                "de": "Suchen Sie einen windgeschützten Platz für eine Pause.",
+                "hu": "Keressen szélvédett helyet a pihenőhöz.",
+                "ro": "Căutați un loc ferit de vânt pentru pauză.",
+                "en": "Find a wind-sheltered spot for your break."
+              }
+            },
+            {
+              "name": "Villa Melzi d'Eril",
+              "tip_5lang": {
+                "de": "Die Wege im Garten können im Schatten gefroren sein.",
+                "hu": "Az árnyékos kerti utak jegesek lehetnek.",
+                "ro": "Aleile din grădină pot fi înghețate la umbră.",
+                "en": "Garden paths in the shade may be icy in winter."
+              }
+            },
+            {
+              "name": "Basilica di San Giacomo",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände im Inneren der Kirche auf.",
+                "hu": "Melegítse fel a kezeit a templom belső terében.",
+                "ro": "Încălziți-vă mâinile în interiorul bisericii.",
+                "en": "Warm up your hands inside the church building."
+              }
+            },
+            {
+              "name": "Punta Spartivento",
+              "tip_5lang": {
+                "de": "Nach 16:00 Uhr sinkt die Temperatur hier spürbar.",
+                "hu": "Délután 4 után a hőmérséklet érezhetően zuhan itt.",
+                "ro": "După ora 16:00 temperatura scade simțitor aici.",
+                "en": "Temperatures drop noticeably here after 4:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie hochwertige Thermo-Handschuhe und Überschuhe.",
+              "Nutzen Sie das Zwiebelprinzip mit einer winddichten Außenschicht.",
+              "Achten Sie auf Glatteis in schattigen Kurven.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee mit.",
+              "Vorder- und Rücklicht sind wegen der frühen Dämmerung Pflicht."
+            ],
+            "hu": [
+              "Viseljen minőségi termokeresztyűt és kamáslit.",
+              "Használjon réteges öltözködést szélálló külső réteggel.",
+              "Ügyeljen a jegesedésre az árnyékos kanyarokban.",
+              "Vigyen magával termoszban meleg teát.",
+              "Az első és hátsó lámpa kötelező a korai sötétedés miatt."
+            ],
+            "ro": [
+              "Purtați mănuși termice de calitate și protecții pentru pantofi.",
+              "Folosiți straturi de haine cu o jachetă exterioară anti-vânt.",
+              "Atenție la porțiunile înghețate în curbele umbrite.",
+              "Luați un termos cu ceai cald la voi.",
+              "Luminile față-spate sunt obligatorii din cauza amurgului timpuriu."
+            ],
+            "en": [
+              "Wear high-quality thermal gloves and shoe covers.",
+              "Use the layering principle with a windproof outer shell.",
+              "Watch out for black ice in shaded corners.",
+              "Carry a thermos with warm tea to stay hydrated and warm.",
+              "Front and rear lights are mandatory due to early dusk."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -828,6 +1680,366 @@
           "The roads to the lake are narrow and winding.",
           "Use the parking garages on the outskirts."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Ecken von Bellagio. Starten Sie an der Promenade, besuchen Sie die Villa Melzi und das Fischerdorf Pescallo.\n\nNach einem Bummel durch das historische Zentrum endet Ihre Fahrt an der Punta Spartivento, mit weitem Blick über den See.",
+            "hu": "Autóval kényelmesen elérheti Bellagio különböző szegleteit. Kezdjen a sétánynál, látogassa meg a Villa Melzit és Pescallo halászfalut.\n\nA történelmi központban tett séta után útja a Punta Spartiventónál ér véget, tágas kilátással a tóra.",
+            "ro": "Cu mașina puteți ajunge confortabil în diferite colțuri ale Bellagio. Începeți pe faleză, vizitați Villa Melzi și satul de pescari Pescallo.\n\nDupă o plimbare prin centrul istoric, călătoria se încheie la Punta Spartivento, cu o vedere largă asupra lacului.",
+            "en": "By car, you can comfortably reach the various corners of Bellagio. Start at the promenade, visit Villa Melzi and the fishing village of Pescallo.\n\nAfter a stroll through the historical center, your trip ends at Punta Spartivento, with wide views over the lake."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lungolago Europa",
+                "hu": "Lungolago Europa",
+                "ro": "Lungolago Europa",
+                "en": "Lungolago Europa"
+              },
+              "tip_5lang": {
+                "de": "Großer Parkplatz in der Nähe der Fähren.",
+                "hu": "Nagy parkoló a kompok közelében.",
+                "ro": "Parcare mare lângă feriboturi.",
+                "en": "Large parking area near the ferries."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Melzi d'Eril",
+                "hu": "Villa Melzi d'Eril",
+                "ro": "Villa Melzi d'Eril",
+                "en": "Villa Melzi d'Eril"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den südlichen Eingang mit Parkplatz.",
+                "hu": "Használja a déli bejáratot parkolóval.",
+                "ro": "Folosiți intrarea sudică cu parcare.",
+                "en": "Use the southern entrance with parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Pescallo",
+                "hu": "Pescallo",
+                "ro": "Pescallo",
+                "en": "Pescallo"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze sind hier sehr begrenzt.",
+                "hu": "A parkolás itt nagyon korlátozott.",
+                "ro": "Locurile de parcare sunt foarte limitate aici.",
+                "en": "Parking is very limited here."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica di San Giacomo",
+                "hu": "Basilica di San Giacomo",
+                "ro": "Basilica di San Giacomo",
+                "en": "Basilica di San Giacomo"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Auto ab und erkunden Sie das Zentrum zu Fuß.",
+                "hu": "Parkolja le az autót, és fedezze fel a központot gyalog.",
+                "ro": "Parcați mașina și explorați centrul pe jos.",
+                "en": "Park the car and explore the center on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta Spartivento",
+                "hu": "Punta Spartivento",
+                "ro": "Punta Spartivento",
+                "en": "Punta Spartivento"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz an der Spitze ist oft voll.",
+                "hu": "A tócsúcsnál lévő parkoló gyakran tele van.",
+                "ro": "Parcarea de la vârf este adesea plină.",
+                "en": "The parking at the tip is often full."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Trattoria San Giacomo",
+                "tip": "Hausgemachte Pasta im Herzen der Stadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Trattoria San Giacomo",
+                "tip": "Házias tészta a város szívében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Trattoria San Giacomo",
+                "tip": "Paste de casă în inima orașului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Trattoria San Giacomo",
+                "tip": "Homemade pasta in the heart of the city."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Aussichtspunkt bei Pescallo",
+                "tip": "Ruhiger Blick auf den Lecco-Arm.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kilátóhely Pescallónál",
+                "tip": "Csendes kilátás a Lecco-ágra.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punct de belvedere lângă Pescallo",
+                "tip": "Vedere liniștită spre brațul Lecco.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Viewpoint near Pescallo",
+                "tip": "Quiet view of the Lecco arm.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Pierangelo Masciadri",
+                "tip": "Kreative Krawatten und Seidendesigns."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pierangelo Masciadri",
+                "tip": "Kreatív nyakkendők és selyem designok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pierangelo Masciadri",
+                "tip": "Cravate creative și modele de mătase."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pierangelo Masciadri",
+                "tip": "Creative ties and silk designs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Achten Sie auf die ZTL (verkehrsberuhigte Zone) im Zentrum.",
+              "Parken ist teuer und oft begrenzt.",
+              "Die Straßen zum See sind schmal und kurvig.",
+              "Nutzen Sie die Parkhäuser am Stadtrand."
+            ],
+            "hu": [
+              "Figyeljen a ZTL-re (korlátozott forgalmú zóna) a központban.",
+              "A parkolás drága és gyakran korlátozott.",
+              "A tóhoz vezető utak szűkek és kanyargósak.",
+              "Használja a külvárosi parkolóházakat."
+            ],
+            "ro": [
+              "Atenție la ZTL (zonă cu trafic limitat) în centru.",
+              "Parcarea este scumpă și adesea limitată.",
+              "Drumurile spre lac sunt înguste și șerpuite.",
+              "Folosiți parcările de la marginea orașului."
+            ],
+            "en": [
+              "Watch out for the ZTL (limited traffic zone) in the center.",
+              "Parking is expensive and often limited.",
+              "The roads to the lake are narrow and winding.",
+              "Use the parking garages on the outskirts."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die Fahrt am Ufer, während die Scheibenwischer den Blick auf den dramatischen See freigeben.\n\nMittags finden wir leicht einen Parkplatz in der Nähe der Villa Melzi, was den Zugang bei Regen erheblich erleichtert.\n\nNachmittags nutzen wir das Auto, um trocken zwischen den Sehenswürdigkeiten der Oberstadt und dem Hafen zu pendeln.\n\nAbends bietet die Rückfahrt entlang des Sees eine stimmungsvolle Atmosphäre mit den Spiegelungen der Lichter auf der nassen Straße.",
+            "hu": "Reggel élvezzük a parti autózást, miközben az ablaktörlők mögül figyeljük a drámai arcát mutató tavat.\n\nDélben könnyen találunk parkolót a Villa Melzi közelében, ami nagyban megkönnyíti a bejutást esőben.\n\nDélután az autót használjuk, hogy szárazon ingázzunk a felsőváros látnivalói és a kikötő között.\n\nEste a tó menti visszavezető út hangulatos látványt nyújt a vizes aszfalton tükröződő fényekkel.",
+            "ro": "Dimineața ne bucurăm de drumul pe mal, în timp ce ștergătoarele dezvăluie priveliștea dramatică a lacului.\n\nLa prânz găsim ușor parcare lângă Villa Melzi, ceea ce facilitează mult accesul pe timp de ploaie.\n\nDupă-amiaza folosim mașina pentru a face naveta între obiectivele din orașul de sus și port fără a ne uda.\n\nSeara, drumul de întoarcere pe lângă lac oferă o atmosferă deosebită cu reflexiile luminilor pe asfaltul ud.",
+            "en": "In the morning, enjoy the drive along the shore as the wipers clear the view of the dramatic, rain-swept lake.\n\nAt noon, parking is easily found near Villa Melzi, making access during the rain much more convenient.\n\nIn the afternoon, use the car to commute dryly between the upper town sights and the harbor area.\n\nEvening driving along the lake offers a moody atmosphere with city lights reflecting on the wet road surface."
+          },
+          "stops": [
+            {
+              "name": "Lungolago Europa",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Gehweg, um Pfützen zu vermeiden.",
+                "hu": "Parkoljon közel a járdához a tócsák elkerülése végett.",
+                "ro": "Parcați aproape de trotuar pentru a evita bălțile.",
+                "en": "Park close to the sidewalk to avoid large puddles."
+              }
+            },
+            {
+              "name": "Villa Melzi d'Eril",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor dem Eingang.",
+                "hu": "Használja közvetlenül a bejárat előtti parkolót.",
+                "ro": "Folosiți parcarea aflată chiar în fața intrării.",
+                "en": "Utilize the parking lot directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Pescallo",
+              "tip_5lang": {
+                "de": "Die engen Zufahrtswege sind bei Nässe rutschig.",
+                "hu": "A szűk bekötőutak nedvesen csúszósak lehetnek.",
+                "ro": "Drumurile înguste de acces sunt alunecoase pe ud.",
+                "en": "The narrow access roads can be slick when wet."
+              }
+            },
+            {
+              "name": "Basilica di San Giacomo",
+              "tip_5lang": {
+                "de": "Parken Sie im blauen Bereich in der Nähe der Kirche.",
+                "hu": "Parkoljon a templom közeli kék zónában.",
+                "ro": "Parcați în zona albastră din apropierea bisericii.",
+                "en": "Park in the blue zone near the church for quick access."
+              }
+            },
+            {
+              "name": "Punta Spartivento",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist oft leerer bei schlechtem Wetter.",
+                "hu": "A parkoló rossz időben gyakran üresebb.",
+                "ro": "Parcarea este adesea mai liberă pe vreme rea.",
+                "en": "The parking lot is often emptier during bad weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig wegen möglicher kleiner Steinschläge bei Starkregen.",
+              "Nutzen Sie die Parkhäuser, um das Auto trocken zu verlassen.",
+              "Die Sicht kann auf den kurvigen Bergstraßen eingeschränkt sein.",
+              "Halten Sie einen Regenschirm im Auto griffbereit.",
+              "Überprüfen Sie den Zustand Ihrer Scheibenwischer vor der Fahrt."
+            ],
+            "hu": [
+              "Vezessen óvatosan a heves esőzés miatti esetleges kőfelverődésekre ügyelve.",
+              "Használja a fedett parkolókat, hogy szárazon szállhasson ki.",
+              "A kilátás korlátozott lehet a kanyargós hegyi utakon.",
+              "Tartson egy esernyőt az autóban kézközelben.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát."
+            ],
+            "ro": [
+              "Conduceți cu prudență din cauza posibilelor căderi de pietre pe ploaie.",
+              "Folosiți parcările acoperite pentru a ieși din mașină la uscat.",
+              "Vizibilitatea poate fi redusă pe drumurile montane virajate.",
+              "Țineți o umbrelă la îndemână în mașină.",
+              "Verificați starea ștergătoarelor înainte de a porni la drum."
+            ],
+            "en": [
+              "Drive carefully due to potential minor rockfalls during heavy rain.",
+              "Use covered parking garages to exit the car without getting wet.",
+              "Visibility can be limited on the winding mountain roads.",
+              "Keep an umbrella easily accessible inside the car.",
+              "Check the condition of your wiper blades before starting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Fahrt bei klarem Winterwetter ein Vergnügen, mit freier Sicht auf die tiefverschneiten Gipfel.\n\nMittags profitieren wir von der entspannten Parkplatzsituation, die uns direkt ins Herz von Bellagio bringt.\n\nNachmittags erkunden wir die abgelegeneren Teile von Pescallo, was im Winter mit dem Auto sehr komfortabel ist.\n\nAbends genießen wir die Heizung im Auto auf dem Weg zurück, während draußen die Temperatur rapide sinkt.",
+            "hu": "Reggel a tiszta téli időben az autózás igazi élmény, zavartalan kilátással a hófödte csúcsokra.\n\nDélben profitálunk a nyugodt parkolási helyzetből, ami közvetlenül Bellagio szívébe repít minket.\n\nDélután Pescallo távolabbi részeit fedezzük fel, ami télen autóval kifejezetten kényelmes.\n\nEste élvezzük az autó fűtését a visszaúton, miközben kint a hőmérséklet gyorsan zuhan.",
+            "ro": "Dimineața, drumul pe timp de iarnă senină este o plăcere, cu vedere liberă spre vârfurile înzăpezite.\n\nLa prânz, profităm de locurile de parcare libere care ne permit accesul chiar în inima orașului Bellagio.\n\nDupă-amiaza explorăm zonele mai retrase din Pescallo, ceea ce este foarte confortabil cu mașina iarna.\n\nSeara, ne bucurăm de căldura din mașină la întoarcere, în timp ce afară temperatura scade rapid.",
+            "en": "In the morning, driving in clear winter weather is a delight, with unobstructed views of the snow-laden peaks.\n\nAt noon, take advantage of the relaxed parking situation that brings you right into the heart of Bellagio.\n\nIn the afternoon, explore the more secluded parts of Pescallo, which is very comfortable by car in winter.\n\nEvening involves enjoying the car's heater on the way back as temperatures drop rapidly outside."
+          },
+          "stops": [
+            {
+              "name": "Lungolago Europa",
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisglätte am frühen Morgen.",
+                "hu": "Ügyeljen az esetleges jegesedésre kora reggel.",
+                "ro": "Atenție la posibilele porțiuni de gheață dimineața devreme.",
+                "en": "Watch out for potential icy patches early in the morning."
+              }
+            },
+            {
+              "name": "Villa Melzi d'Eril",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter meist kostenlos oder günstiger.",
+                "hu": "A parkolás télen gyakran ingyenes vagy olcsóbb.",
+                "ro": "Parcarea este adesea gratuită sau mai ieftină iarna.",
+                "en": "Parking is often free or cheaper during the winter months."
+              }
+            },
+            {
+              "name": "Pescallo",
+              "tip_5lang": {
+                "de": "Parken Sie nur auf den markierten Flächen.",
+                "hu": "Csak a kijelölt helyeken parkoljon.",
+                "ro": "Parcați doar în spațiile special marcate.",
+                "en": "Ensure you park only in the officially marked spaces."
+              }
+            },
+            {
+              "name": "Basilica di San Giacomo",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Auto zur Kirche minimieren die Kälte.",
+                "hu": "Az autótól a templomig tartó rövid út minimalizálja a hideget.",
+                "ro": "Distanța scurtă de la mașină la biserică reduce expunerea la frig.",
+                "en": "Short walk from car to church minimizes cold exposure."
+              }
+            },
+            {
+              "name": "Punta Spartivento",
+              "tip_5lang": {
+                "de": "Hinterlassen Sie keine Wertsachen sichtbar im Auto.",
+                "hu": "Ne hagyjon értéktárgyat látható helyen az autóban.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
+                "en": "Do not leave any valuables visible inside the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen oder Schneeketten sind in dieser Region oft Pflicht.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Vermeiden Sie das Abstellen des Autos in schattigen Senken über Nacht.",
+              "Die Parkgebühren sind im Winter oft deutlich reduziert.",
+              "Ein Eiskratzer sollte im Winter immer an Bord sein."
+            ],
+            "hu": [
+              "A téli gumi vagy hólánc gyakran kötelező ebben a régióban.",
+              "Ellenőrizze a fagyállót a szélvédőmosó tartályban.",
+              "Kerülje az autó éjszakai parkolását árnyékos mélyedésekben.",
+              "A parkolási díjak télen gyakran jelentősen alacsonyabbak.",
+              "Jégkaparó mindig legyen az autóban télen."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sau lanțurile sunt adesea obligatorii în regiune.",
+              "Verificați lichidul de parbriz anti-îngheț.",
+              "Evitați parcarea mașinii în zone umbrite și joase peste noapte.",
+              "Tarifele de parcare sunt adesea reduse semnificativ iarna.",
+              "Răzuitoarea de gheață nu trebuie să lipsească din mașină iarna."
+            ],
+            "en": [
+              "Winter tires or snow chains are often mandatory in this region.",
+              "Check the antifreeze level in your windshield washer fluid.",
+              "Avoid parking the car in shaded dips overnight.",
+              "Parking fees are often significantly reduced in winter.",
+              "An ice scraper should always be kept in the car in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1067,6 +2279,366 @@
           "Keep your tickets handy.",
           "Consider the tourist peak times."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Fähren und Busse, um Bellagio zu entdecken. Von der Lungolago geht es durch das historische Zentrum zur Basilika und den prachtvollen Villen.\n\nDer Transit-Modus kombiniert kurze Fahrten mit angenehmen Fußwegen zu den wichtigsten Highlights, bis hin zur spektakulären Punta Spartivento.",
+            "hu": "Használja a kompokat és buszokat Bellagio felfedezéséhez. A Lungolagótól a történelmi központon keresztül a bazilikáig és a pompás villákig juthat el.\n\nA tömegközlekedési mód a rövid utazásokat kellemes gyalogutakkal ötvözi a legfontosabb látnivalókig, egészen a látványos Punta Spartiventóig.",
+            "ro": "Folosiți feriboturile și autobuzele pentru a descoperi Bellagio. De la Lungolago, treceți prin centrul istoric până la bazilică și vilele magnifice.\n\nModul de tranzit combină călătoriile scurte cu plimbări plăcute către cele mai importante atracții, până la spectaculoasa Punta Spartivento.",
+            "en": "Use ferries and buses to discover Bellagio. From Lungolago, head through the historical center to the basilica and the magnificent villas.\n\nThe transit mode combines short trips with pleasant walks to the most important highlights, all the way to the spectacular Punta Spartivento."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lungolago Europa",
+                "hu": "Lungolago Europa",
+                "ro": "Lungolago Europa",
+                "en": "Lungolago Europa"
+              },
+              "tip_5lang": {
+                "de": "Direkt neben dem Fährterminal.",
+                "hu": "Közvetlenül a kompkikötő mellett.",
+                "ro": "Chiar lângă terminalul de feribot.",
+                "en": "Right next to the ferry terminal."
+              }
+            },
+            {
+              "name": {
+                "de": "Salita Serbelloni",
+                "hu": "Salita Serbelloni",
+                "ro": "Salita Serbelloni",
+                "en": "Salita Serbelloni"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss für jeden Erstbesucher.",
+                "hu": "Kihagyhatatlan minden először idelátogatónak.",
+                "ro": "O necesitate pentru orice vizitator pentru prima dată.",
+                "en": "A must for every first-time visitor."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica di San Giacomo",
+                "hu": "Basilica di San Giacomo",
+                "ro": "Basilica di San Giacomo",
+                "en": "Basilica di San Giacomo"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung.",
+                "hu": "Csendes hely az elmélkedésre.",
+                "ro": "Un loc liniștit pentru reflecție.",
+                "en": "A quiet place for reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Melzi d'Eril",
+                "hu": "Villa Melzi d'Eril",
+                "ro": "Villa Melzi d'Eril",
+                "en": "Villa Melzi d'Eril"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang vom Hafen.",
+                "hu": "Rövid séta a kikötőtől.",
+                "ro": "O scurtă plimbare de la port.",
+                "en": "A short walk from the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta Spartivento",
+                "hu": "Punta Spartivento",
+                "ro": "Punta Spartivento",
+                "en": "Punta Spartivento"
+              },
+              "tip_5lang": {
+                "de": "Der schönste Platz für das Ende Ihrer Reise.",
+                "hu": "A legszebb hely az útja végéhez.",
+                "ro": "Cel mai frumos loc pentru sfârșitul călătoriei tale.",
+                "en": "The most beautiful spot for the end of your trip."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Local Deli",
+                "tip": "Holen Sie sich ein Sandwich für die Fähre."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Local Deli",
+                "tip": "Vegyél egy szendvicset a kompra."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Local Deli",
+                "tip": "Luați un sandviș pentru feribot."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Deli",
+                "tip": "Get a sandwich for the ferry."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Bänke am Lungolago",
+                "tip": "Beobachten Sie das Treiben der Schiffe.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Padok a Lungolagónál",
+                "tip": "Nézze a hajók forgalmát.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bănci pe Lungolago",
+                "tip": "Urmăriți activitatea navelor.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Benches on Lungolago",
+                "tip": "Watch the activity of the ships.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirläden am Hafen",
+                "tip": "Kleine Geschenke und Postkarten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ajándékboltok a kikötőben",
+                "tip": "Apró ajándékok és képeslapok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazine de suveniruri în port",
+                "tip": "Cadouri mici și cărți poștale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Souvenir shops at the harbor",
+                "tip": "Small gifts and postcards."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fährplan sorgfältig.",
+              "Kaufen Sie Tickets im Voraus online.",
+              "Tragen Sie Ihre Tickets griffbereit.",
+              "Beachten Sie die Stoßzeiten der Touristen."
+            ],
+            "hu": [
+              "Ellenőrizze gondosan a komprendet.",
+              "Vásárolja meg a jegyeket előre online.",
+              "Tartsa kéznél a jegyeit.",
+              "Vegye figyelembe a turista csúcsidőket."
+            ],
+            "ro": [
+              "Verificați cu atenție programul feribotului.",
+              "Cumpărați biletele în avans online.",
+              "Țineți biletele la îndemână.",
+              "Țineți cont de orele de vârf ale turiștilor."
+            ],
+            "en": [
+              "Check the ferry schedule carefully.",
+              "Buy tickets in advance online.",
+              "Keep your tickets handy.",
+              "Consider the tourist peak times."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Fahrt mit der Fähre oder dem Bus einen trockenen Logenplatz mit Blick auf den See.\n\nMittags nutzen wir die überdachten Wartebereiche an den Haltestellen, während wir auf die nächste Verbindung warten.\n\nNachmittags bringt uns der Bus bequem und trocken zur Villa Melzi, sodass wir den Regen draußen lassen können.\n\nAbends beenden wir den Tag mit einer gemütlichen Rückfahrt im beheizten Bus, während der Regen gegen die Scheiben trommelt.",
+            "hu": "Reggel a komppal vagy busszal való utazás száraz páholyt kínál kilátással a tóra.\n\nDélben a megállók fedett várakozóhelyeit használjuk, miközben a következő járatra várunk.\n\nDélután a busz kényelmesen és szárazon visz el minket a Villa Melzihez, kint hagyva az esőt.\n\nEste a napot egy fűtött buszos visszautazással zárjuk, miközben az eső veri az ablakot.",
+            "ro": "Dimineața, călătoria cu feribotul sau autobuzul oferă un loc uscat cu vedere spre lac.\n\nLa prânz, folosim zonele de așteptare acoperite din stații în timp ce așteptăm următoarea conexiune.\n\nDupă-amiaza, autobuzul ne duce confortabil și la uscat spre Villa Melzi, protejându-ne de ploaie.\n\nSeara încheiem ziua cu o călătorie plăcută înapoi cu autobuzul încălzit, în timp ce ploaia bate în geamuri.",
+            "en": "In the morning, traveling by ferry or bus offers a dry front-row seat with a view of the lake.\n\nAt noon, make use of the covered waiting areas at the stops while waiting for the next connection.\n\nIn the afternoon, the bus takes us comfortably and dryly to Villa Melzi, leaving the rain outside.\n\nEvening concludes with a cozy ride back on a heated bus while the rain drums against the windows."
+          },
+          "stops": [
+            {
+              "name": "Lungolago Europa",
+              "tip_5lang": {
+                "de": "Die Fährstation bietet einen guten Regenschutz.",
+                "hu": "A kompállomás jó esővédelmet nyújt.",
+                "ro": "Stația de feribot oferă un adăpost bun împotriva ploii.",
+                "en": "The ferry station provides good protection from the rain."
+              }
+            },
+            {
+              "name": "Salita Serbelloni",
+              "tip_5lang": {
+                "de": "Haltestellen in der Nähe der Geschäfte nutzen.",
+                "hu": "Használja az üzletek közeli megállókat.",
+                "ro": "Folosiți stațiile din apropierea magazinelor.",
+                "en": "Use bus stops located near shops for extra cover."
+              }
+            },
+            {
+              "name": "Basilica di San Giacomo",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle ist sehr kurz.",
+                "hu": "A gyalogút a megállótól nagyon rövid.",
+                "ro": "Drumul pe jos de la stație este foarte scurt.",
+                "en": "The walk from the transit stop is very short."
+              }
+            },
+            {
+              "name": "Villa Melzi d'Eril",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Vordach des Eingangs.",
+                "hu": "Várjon a bejárat előteteje alatt.",
+                "ro": "Așteptați sub copertina de la intrare.",
+                "en": "Wait under the entrance canopy for your return ride."
+              }
+            },
+            {
+              "name": "Punta Spartivento",
+              "tip_5lang": {
+                "de": "Behalten Sie die Abfahrtszeiten im Blick.",
+                "hu": "Tartsa szem előtt az indulási időket.",
+                "ro": "Urmăriți cu atenție orele de plecare.",
+                "en": "Keep a close watch on the departure times."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fähren sind bei Regen oft voll; kommen Sie etwas früher.",
+              "Die Busse sind im Inneren gut beheizt und trocken.",
+              "Nutzen Sie die App für Echtzeit-Infos zu Verspätungen bei Unwetter.",
+              "Halten Sie Kleingeld oder eine Karte für das Ticket bereit.",
+              "Suchen Sie Wartehallen mit Sitzgelegenheiten."
+            ],
+            "hu": [
+              "A kompok esőben gyakran zsúfoltak, érkezzen korábban.",
+              "A buszok belül jól fűtöttek és szárazak.",
+              "Használja az applikációt a valós idejű infókért rossz időben.",
+              "Készítsen elő aprópénzt vagy kártyát a jegyvásárláshoz.",
+              "Keressen ülőhellyel rendelkező várótermeket."
+            ],
+            "ro": [
+              "Feriboturile sunt adesea aglomerate pe ploaie; veniți mai devreme.",
+              "Autobuzele sunt bine încălzite și uscate la interior.",
+              "Folosiți aplicația pentru informații în timp real pe vreme rea.",
+              "Pregătiți mărunt sau cardul pentru cumpărarea biletului.",
+              "Căutați săli de așteptare cu locuri pe scaun."
+            ],
+            "en": [
+              "Ferries can be crowded in the rain; arrive a bit earlier.",
+              "Buses are well-heated and dry inside.",
+              "Use the transit app for real-time info on weather-related delays.",
+              "Have small change or a card ready for ticket purchases.",
+              "Look for waiting areas with seating."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die klare Sicht durch die sauberen Scheiben der Fähre auf die Winterlandschaft.\n\nMittags nutzen wir die geheizten Busse, um bequem zwischen den verschiedenen Teilen von Bellagio zu wechseln.\n\nNachmittags bietet der Transit die Möglichkeit, die winterliche Ruhe ohne langes Gehen in der Kälte zu genießen.\n\nAbends bringt uns die letzte Fähre des Tages sicher zurück, während die Lichter am Ufer in der klaren Luft funkeln.",
+            "hu": "Reggel élvezzük a tiszta kilátást a komp ablakain keresztül a téli tájra.\n\nDélben a fűtött buszokat használjuk, hogy kényelmesen közlekedjünk Bellagio részei között.\n\nDélután a tömegközlekedés lehetővé teszi a téli nyugalom élvezetét hosszú hideg séta nélkül.\n\nEste az utolsó komp biztonságban visz vissza minket, miközben a parti fények szikráznak a tiszta levegőben.",
+            "ro": "Dimineața ne bucurăm de vederea clară prin geamurile feribotului asupra peisajului de iarnă.\n\nLa prânz folosim autobuzele încălzite pentru a ne deplasa confortabil între zonele din Bellagio.\n\nDupă-amiaza, transportul public ne permite să ne bucurăm de liniștea iernii fără mers prelungit prin frig.\n\nSeara, ultimul feribot al zilei ne aduce înapoi în siguranță, în timp ce luminile de pe mal sclipesc în aerul curat.",
+            "en": "In the morning, enjoy the clear views of the winter landscape through the clean windows of the ferry.\n\nAt noon, use the heated buses to move comfortably between different parts of Bellagio.\n\nIn the afternoon, public transit allows you to enjoy the winter peace without long walks in the cold.\n\nEvening concludes with the last ferry of the day bringing us back safely as lakeshore lights twinkle in the crisp air."
+          },
+          "stops": [
+            {
+              "name": "Lungolago Europa",
+              "tip_5lang": {
+                "de": "Der Winterfahrplan der Fähren ist reduziert.",
+                "hu": "A kompok téli menetrendje ritkított.",
+                "ro": "Orarul de iarnă al feriboturilor este redus.",
+                "en": "The winter ferry schedule is significantly reduced."
+              }
+            },
+            {
+              "name": "Salita Serbelloni",
+              "tip_5lang": {
+                "de": "Busse fahren seltener; prüfen Sie die Zeiten.",
+                "hu": "A buszok ritkábban járnak, ellenőrizze az időpontokat.",
+                "ro": "Autobuzele circulă mai rar; verificați orarul.",
+                "en": "Buses run less frequently; check the times in advance."
+              }
+            },
+            {
+              "name": "Basilica di San Giacomo",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus C30 für die Verbindung nach Como.",
+                "hu": "Használja a C30-as buszt a Como felé tartó csatlakozáshoz.",
+                "ro": "Folosiți autobuzul C30 pentru legătura spre Como.",
+                "en": "Take the C30 bus for connections toward Como."
+              }
+            },
+            {
+              "name": "Villa Melzi d'Eril",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist direkt an der Hauptstraße.",
+                "hu": "A megálló közvetlenül a főút mellett található.",
+                "ro": "Stația se află chiar lângă drumul principal.",
+                "en": "The stop is located directly on the main road."
+              }
+            },
+            {
+              "name": "Punta Spartivento",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg vor Einbruch der Dunkelheit.",
+                "hu": "Tervezze meg a visszautat sötétedés előtt.",
+                "ro": "Planificați drumul de întoarcere înainte de lăsarea serii.",
+                "en": "Plan your return trip before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan (Orario Invernale) online.",
+              "Fähren können bei starkem Wind oder Nebel ausfallen.",
+              "Die Wartebereiche im Freien können sehr kalt sein.",
+              "Kaufen Sie Tickets nach Möglichkeit vorab online.",
+              "Ab 17:00 Uhr fahren deutlich weniger Busse."
+            ],
+            "hu": [
+              "Ellenőrizze online a téli menetrendet (Orario Invernale).",
+              "Erős szél vagy köd esetén a kompjáratok elmaradhatnak.",
+              "A kültéri váróhelyek nagyon hidegek lehetnek.",
+              "Lehetőség szerint vegye meg a jegyeket előre online.",
+              "17:00 után jelentősen kevesebb busz közlekedik."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă (Orario Invernale) online.",
+              "Feriboturile pot fi anulate în caz de vânt puternic sau ceață.",
+              "Zonele de așteptare în aer liber pot fi foarte reci.",
+              "Cumpărați biletele online în avans dacă este posibil.",
+              "După ora 17:00 circulă semnificativ mai puține autobuze."
+            ],
+            "en": [
+              "Always check the winter schedule (Orario Invernale) online.",
+              "Ferries may be cancelled due to strong winds or fog.",
+              "Outdoor waiting areas can be extremely cold.",
+              "Purchase tickets online in advance whenever possible.",
+              "Significantly fewer buses run after 5:00 PM."
+            ]
+          }
+        }
       }
     }
   },

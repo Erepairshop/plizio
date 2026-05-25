@@ -382,6 +382,530 @@
           "The funicular is the best way to reach the city from the train station.",
           "Book underground tours immediately upon arrival."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ihr Morgen beginnt am Rande der Klippe mit dem beeindruckenden Brunnen des Heiligen Patrik und der Festung. Zum Mittagessen steigen Sie zum Domplatz auf, um die goldene Fassade der Kathedrale zu bestaunen. Am Nachmittag erkunden Sie die geheimnisvolle Unterwelt und die etruskischen Museen. Den Abend lassen Sie in den verwinkelten Gassen des mittelalterlichen Viertels bei einem Glas Orvieto Classico ausklingen.",
+            "hu": "A reggel a szikla szélén indul a lenyűgöző Szent Patrik kúttal és az erőddel. Délben a dóm térre érkezünk, hogy megcsodáljuk a székesegyház aranyló homlokzatát. Délután titokzatos föld alatti járatok és etruszk múzeumok várják. Az estét a középkori negyed kanyargós utcáin zárjuk, egy pohár hűvös Orvieto Classico bor társaságában, miközben a város lassan elcsendesedik.",
+            "ro": "Dimineața începe la marginea stâncii cu impresionantul Puț al Sfântului Patriciu și fortăreața. La prânz, urcați spre piața domului pentru a admira fațada aurie a catedralei. După-amiaza este dedicată explorării labirintului subteran și a muzeelor etrusce. Seara se încheie în cartierul medieval, savurând un pahar de vin local în timp ce soarele apune peste dealurile umbriene.",
+            "en": "Your morning begins at the edge of the cliff with the impressive St. Patrick's Well and the fortress. At midday, ascend to the cathedral square to marvel at the golden facade of the Duomo. The afternoon is dedicated to exploring the mysterious underground tunnels and the Etruscan museums. End your evening in the winding streets of the medieval quarter with a glass of Orvieto Classico wine."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pozzo di San Patrizio",
+                "hu": "Szent Patrik kútja",
+                "ro": "Puțul Sfântului Patriciu",
+                "en": "St. Patrick's Well"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie die 248 Stufen hinab; die Doppelhelix verhindert Staus.",
+                "hu": "Ereszkedjen le a 248 lépcsőn; a dupla spirál megelőzi a szembejövő forgalmat.",
+                "ro": "Coborâți cele 248 de trepte; spirala dublă evită aglomerația.",
+                "en": "Descend the 248 steps; the double helix design prevents traffic jams."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortezza Albornoz",
+                "hu": "Albornoz-erőd",
+                "ro": "Fortăreața Albornoz",
+                "en": "Albornoz Fortress"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick auf das Tal von den alten Mauern aus.",
+                "hu": "Élvezze a panorámát a völgyre a régi várfalakról.",
+                "ro": "Bucurați-vă de panorama văii de pe zidurile vechi.",
+                "en": "Enjoy the panoramic view of the valley from the old walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Moro",
+                "hu": "Mór-torony",
+                "ro": "Torre del Moro",
+                "en": "Moro Tower"
+              },
+              "tip_5lang": {
+                "de": "Der höchste Punkt der Stadt bietet eine 360-Grad-Aussicht.",
+                "hu": "A város legmagasabb pontja, 360 fokos kilátást nyújt.",
+                "ro": "Cel mai înalt punct al orașului oferă o vedere de 360 de grade.",
+                "en": "The highest point in town offers a 360-degree view."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di Orvieto",
+                "hu": "Orvietói dóm",
+                "ro": "Domul din Orvieto",
+                "en": "Orvieto Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Verpassen Sie nicht die Kapelle San Brizio mit Signorellis Fresken.",
+                "hu": "Ne hagyja ki a San Brizio-kápolnát Signorelli freskóival.",
+                "ro": "Nu ratați Capela San Brizio cu frescele lui Signorelli.",
+                "en": "Don't miss the San Brizio Chapel with Signorelli's frescoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Orvieto Underground",
+                "hu": "Föld alatti Orvieto",
+                "ro": "Orvieto Underground",
+                "en": "Orvieto Underground"
+              },
+              "tip_5lang": {
+                "de": "Buchen Sie die Tour im Voraus, um das Labyrinth der Höhlen zu erkunden.",
+                "hu": "Foglaljon előre túrát a barlanglabirintus felfedezéséhez.",
+                "ro": "Rezervați turul în avans pentru a explora labirintul de peșteri.",
+                "en": "Book the tour in advance to explore the labyrinth of caves."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Claudio Faina",
+                "hu": "Museo Claudio Faina",
+                "ro": "Museo Claudio Faina",
+                "en": "Claudio Faina Museum"
+              },
+              "tip_5lang": {
+                "de": "Hervorragende etruskische Sammlung direkt gegenüber dem Dom.",
+                "hu": "Kiváló etruszk gyűjtemény közvetlenül a dóm mellett.",
+                "ro": "Colecție etruscă excelentă chiar vizavi de catedrală.",
+                "en": "Excellent Etruscan collection right across from the cathedral."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Andrea",
+                "hu": "Szent András-templom",
+                "ro": "Biserica Sfântul Andrei",
+                "en": "Church of Sant'Andrea"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den einzigartigen zwölfeckigen Glockenturm.",
+                "hu": "Csodálja meg az egyedülálló tizenszögletű harangtornyot.",
+                "ro": "Admirați clopotnița dodecagonală unică.",
+                "en": "Admire the unique dodecagonal bell tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Pozzo della Cava",
+                "hu": "Pozzo della Cava",
+                "ro": "Pozzo della Cava",
+                "en": "Pozzo della Cava"
+              },
+              "tip_5lang": {
+                "de": "Ein faszinierender, von Hand in den Tuffstein gehauener Brunnen.",
+                "hu": "Lenyűgöző, kézzel vájt kút a tufaszikla gyomrában.",
+                "ro": "Un puț fascinant săpat manual în tuf.",
+                "en": "A fascinating well hand-dug into the tuff rock."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Orvieto Classico",
+                "tip": "Der berühmte Weißwein der Region."
+              },
+              {
+                "name": "Cinghiale",
+                "tip": "Wildschweingerichte sind eine lokale Spezialität."
+              },
+              {
+                "name": "Umbericchelli",
+                "tip": "Dicke, handgemachte Pasta, oft mit Trüffeln."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Orvieto Classico",
+                "tip": "A régió híres fehérbora."
+              },
+              {
+                "name": "Cinghiale",
+                "tip": "A vaddisznóhús helyi specialitás."
+              },
+              {
+                "name": "Umbericchelli",
+                "tip": "Vastag, kézzel készített tészta, gyakran szarvasgombával."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Orvieto Classico",
+                "tip": "Faimosul vin alb al regiunii."
+              },
+              {
+                "name": "Cinghiale",
+                "tip": "Mâncărurile din mistreț sunt o specialitate locală."
+              },
+              {
+                "name": "Umbericchelli",
+                "tip": "Paste groase făcute manual, adesea cu trufe."
+              }
+            ],
+            "en": [
+              {
+                "name": "Orvieto Classico",
+                "tip": "The famous white wine of the region."
+              },
+              {
+                "name": "Cinghiale",
+                "tip": "Wild boar dishes are a local specialty."
+              },
+              {
+                "name": "Umbericchelli",
+                "tip": "Thick handmade pasta, often served with truffles."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Fortezza Albornoz",
+                "tip": "Ruhige Gärten mit Blick auf das Tal.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "San Giovenale",
+                "tip": "Die älteste Kirche am westlichen Rand.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fortezza Albornoz",
+                "tip": "Csendes kertek kilátással a völgyre.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "San Giovenale",
+                "tip": "A város legősibb temploma a nyugati szélen.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fortezza Albornoz",
+                "tip": "Grădini liniștite cu vedere spre vale.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "San Giovenale",
+                "tip": "Cea mai veche biserică de la marginea vestică.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Fortezza Albornoz",
+                "tip": "Quiet gardens with valley views.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "San Giovenale",
+                "tip": "The oldest church at the western edge.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Keramik aus Orvieto",
+                "tip": "Handbemalte Maiolica-Stücke."
+              },
+              {
+                "name": "Merletto",
+                "tip": "Traditionelle Orvieto-Spitze."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Orvietói kerámia",
+                "tip": "Kézzel festett majolika tárgyak."
+              },
+              {
+                "name": "Merletto",
+                "tip": "Hagyományos orvietói csipke."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ceramică de Orvieto",
+                "tip": "Piese de majolică pictate manual."
+              },
+              {
+                "name": "Merletto",
+                "tip": "Dantelă tradițională de Orvieto."
+              }
+            ],
+            "en": [
+              {
+                "name": "Orvieto Ceramics",
+                "tip": "Hand-painted majolica pieces."
+              },
+              {
+                "name": "Merletto",
+                "tip": "Traditional Orvieto lace."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Das historische Zentrum ist größtenteils Fußgängerzone.",
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Die Funicolare ist die beste Art, vom Bahnhof in die Stadt zu gelangen.",
+              "Reservieren Sie Untergrund-Touren direkt nach Ihrer Ankunft."
+            ],
+            "hu": [
+              "A történelmi központ nagy része gyalogos zóna.",
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "A sikló a legjobb módja a város elérésének a vasútállomás felől.",
+              "A föld alatti túrákra érdemes rögtön érkezés után helyet foglalni."
+            ],
+            "ro": [
+              "Centrul istoric este în mare parte zonă pietonală.",
+              "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+              "Funicularul este cea mai bună cale de a ajunge în oraș de la gară.",
+              "Rezervați tururile subterane imediat după sosire."
+            ],
+            "en": [
+              "The historic center is mostly a pedestrian zone.",
+              "Wear comfortable shoes for the cobblestone streets.",
+              "The funicular is the best way to reach the city from the train station.",
+              "Book underground tours immediately upon arrival."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt im tiefen St. Patrick's Well, wo man trocken bleibt. Mittags bietet der Dom Schutz und spirituelle Ruhe, während die Gassen im Regen glänzen. Nachmittags erkunden wir die trockene Unterwelt von Orvieto. Der Abend endet gemütlich in den Höhlen von Pozzo della Cava, fernab von den nassen Straßen der Oberstadt.",
+            "hu": "Az esős reggel a Szent Patrik-kút mélyén indul, ahol a csapadék nem ér el. Délben a dóm belső tere nyújt menedéket, miközben az eső lemossa az ősi köveket. Délután Orvieto kiterjedt pincerendszerében kalandozunk szárazon. Az estét a Pozzo della Cava barlangjaiban zárjuk, meleg olasz vacsorával egy fedett trattoriában.",
+            "ro": "O dimineață ploioasă începe în adâncurile Puțului Sfântului Patriciu, unde ești protejat de stropi. La prânz, Catedrala oferă adăpost și liniște, în timp ce străzile lucesc sub ploaie. După-amiaza explorăm orașul subteran, o variantă perfectă și uscată. Seara se încheie în peșterile de la Pozzo della Cava, savurând atmosfera caldă a unei taverne.",
+            "en": "A rainy morning starts deep inside St. Patrick's Well, staying dry underground. At noon, the Cathedral provides shelter as the rain glazes the volcanic rock outside. Afternoon is spent in the vast Orvieto Underground, a perfect dry escape. The evening concludes at Pozzo della Cava's caves, ending the day in a cozy, covered local restaurant."
+          },
+          "stops": [
+            {
+              "name": "St. Patrick's Well",
+              "tip_5lang": {
+                "de": "Perfekter Zufluchtsort vor dem Regen; die Treppen sind überdacht.",
+                "hu": "Kiváló menedék esőben; a lépcsősor teljesen fedett.",
+                "ro": "Refugiu perfect contra ploii; scările sunt complet acoperite.",
+                "en": "Perfect shelter from rain; the double-helix stairs are covered."
+              }
+            },
+            {
+              "name": "Albornoz Fortress",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Mauern; der Boden kann rutschig sein.",
+                "hu": "Vigyázat a nedves várfalakon; a kövek csúszósak lehetnek.",
+                "ro": "Atenție pe zidurile ude; pavajul poate deveni alunecos.",
+                "en": "Careful on the wet walls; the stone path can be slippery."
+              }
+            },
+            {
+              "name": "Moro Tower",
+              "tip_5lang": {
+                "de": "Die Aussichtsplattform ist exponiert; halten Sie den Schirm fest.",
+                "hu": "A kilátó nyitott; kapaszkodjon az esernyőbe a szélben.",
+                "ro": "Platforma de observație este expusă; țineți bine umbrela.",
+                "en": "The viewing platform is exposed; hold your umbrella tight."
+              }
+            },
+            {
+              "name": "Orvieto Cathedral",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen schweren Schauer trocken abzuwarten.",
+                "hu": "Ideális helyszín egy nagyobb zápor száraz kivárásához.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "An ideal spot to wait out a heavy downpour in dry comfort."
+              }
+            },
+            {
+              "name": "Orvieto Underground",
+              "tip_5lang": {
+                "de": "Trockenes Abenteuer; die Touren finden komplett unter Tage statt.",
+                "hu": "Száraz kaland; a túrák végig a föld alatt zajlanak.",
+                "ro": "Aventură uscată; tururile au loc integral în subteran.",
+                "en": "Dry adventure; tours take place entirely underground."
+              }
+            },
+            {
+              "name": "Claudio Faina Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich zwischen den etruskischen Schätzen auf.",
+                "hu": "Melegedjen fel az etruszk kincsek között a termekben.",
+                "ro": "Încălziți-vă printre comorile etrusce în interiorul muzeului.",
+                "en": "Warm up while browsing Etruscan treasures indoors."
+              }
+            },
+            {
+              "name": "Church of Sant'Andrea",
+              "tip_5lang": {
+                "de": "Kleine, trockene Oase mit faszinierenden Mosaiken im Keller.",
+                "hu": "Kis, száraz oázis lenyűgöző altemplomi mozaikokkal.",
+                "ro": "Mică oază uscată cu mozaicuri fascinante la subsol.",
+                "en": "Small, dry oasis with fascinating mosaics in the basement."
+              }
+            },
+            {
+              "name": "Pozzo della Cava",
+              "tip_5lang": {
+                "de": "Unterirdisches Labyrinth, das Sie bis zum Abend trocken hält.",
+                "hu": "Föld alatti labirintus, amely estig szárazon tart.",
+                "ro": "Labirint subteran care vă menține uscat până seara.",
+                "en": "Underground labyrinth that keeps you dry until evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vulkangestein wird bei Nässe extrem rutschig; tragen Sie griffige Schuhe.",
+              "Nutzen Sie die Aufzüge vom Parkplatz, um den Regenweg abzukürzen.",
+              "Die unterirdischen Touren sind die beste Wahl bei Dauerregen.",
+              "Viele Cafés am Domplatz haben Markisen für kurze Pausen.",
+              "Packen Sie einen stabilen Schirm ein, da es auf dem Felsen windig sein kann."
+            ],
+            "hu": [
+              "A vulkáni tufa vizesen nagyon csúszik; tapadós talpú cipőt viseljen.",
+              "Használja a lifteket a parkolótól, hogy lerövidítse az esőben megtett utat.",
+              "A föld alatti túrák a legjobb választások tartós eső esetén.",
+              "A dóm körüli kávézók többsége rendelkezik esővédő előtetővel.",
+              "Vigyen szélálló esernyőt, mert a sziklán gyakran fúj a szél."
+            ],
+            "ro": [
+              "Roca vulcanică devine extrem de alunecoasă; purtați încălțăminte aderentă.",
+              "Folosiți lifturile de la parcare pentru a scurta drumul prin ploaie.",
+              "Tururile subterane sunt cea mai bună opțiune în caz de ploaie persistentă.",
+              "Multe cafenele de lângă Dom au copertine pentru pauze scurte.",
+              "Luați o umbrelă rezistentă, deoarece pe stâncă vântul poate fi puternic."
+            ],
+            "en": [
+              "Volcanic tuff becomes extremely slippery when wet; wear high-grip shoes.",
+              "Use the elevators from the parking areas to shorten your walk in the rain.",
+              "The underground tours are the best strategic choice during steady rain.",
+              "Many cafes near the Cathedral have awnings for quick dry breaks.",
+              "Pack a sturdy umbrella as it can get windy on top of the rock."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der klare Wintermorgen an der Festung bietet weite Sicht über das Tal. Mittags leuchten die Goldmosaike des Doms in der tiefstehenden Sonne besonders intensiv. Nachmittags bieten die Museen und beheizten Kirchen Schutz vor der Kälte. Sobald die Sonne früh untergeht, erstrahlt die Stadt in warmem Licht, perfekt für einen Wein am Kamin.",
+            "hu": "A tiszta téli reggelen az erőd falaiból messzire ellátni a ködös völgy felett. Délben a dóm arany mozaikjai különösen szépen ragyognak az alacsony napfényben. Délután a múzeumok és fűtött templomok nyújtanak menedéket a hideg elől. A korai naplemente után a kivilágított óváros hangulata egy pohár borért kiált.",
+            "ro": "Dimineața senină de iarnă la fortăreață oferă vederi clare asupra văii cețoase. La prânz, mozaicurile aurii ale Domului strălucesc intens în lumina joasă a soarelui. După-amiaza, muzeele și bisericile încălzite oferă adăpost împotriva frigului. După apusul timpuriu, orașul luminat te invită la un pahar de vin lângă un șemineu.",
+            "en": "The crisp winter morning at the fortress offers clear views over the misty valley. At noon, the Cathedral's gold mosaics sparkle intensely in the low winter sun. Afternoon is for heated museums and churches to escape the chill. Once the sun sets early, the illuminated old town calls for a glass of local wine by a fireplace."
+          },
+          "stops": [
+            {
+              "name": "St. Patrick's Well",
+              "tip_5lang": {
+                "de": "Konstante Temperatur im Schacht; angenehm warm im Winter.",
+                "hu": "Állandó hőmérséklet a kútban; télen kellemesen meleg.",
+                "ro": "Temperatură constantă în puț; plăcut de cald iarna.",
+                "en": "Constant temperature inside the well; feels warm in winter."
+              }
+            },
+            {
+              "name": "Albornoz Fortress",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, der Wind auf den Mauern ist schneidig.",
+                "hu": "Öltözzön rétegesen, a várfalon metsző lehet a szél.",
+                "ro": "Îmbrăcați-vă gros, vântul de pe ziduri este tăios.",
+                "en": "Dress in layers; the wind on the fortress walls can be biting."
+              }
+            },
+            {
+              "name": "Moro Tower",
+              "tip_5lang": {
+                "de": "Tolle Fernsicht auf verschneite Apenninen-Gipfel möglich.",
+                "hu": "Tiszta időben látszanak az Appenninek havas csúcsai.",
+                "ro": "Vizibilitate excelentă spre vârfurile înzăpezite ale Apeninilor.",
+                "en": "Great visibility of snow-capped Apennine peaks on clear days."
+              }
+            },
+            {
+              "name": "Orvieto Cathedral",
+              "tip_5lang": {
+                "de": "Genießen Sie das goldene Licht der tiefstehenden Wintersonne.",
+                "hu": "Élvezze az alacsony téli napfény arany színeit a homlokzaton.",
+                "ro": "Admirați lumina aurie a soarelui de iarnă pe fațadă.",
+                "en": "Enjoy the golden light of the low winter sun on the facade."
+              }
+            },
+            {
+              "name": "Orvieto Underground",
+              "tip_5lang": {
+                "de": "Unter Tage herrscht ein mildes Klima, ideal zum Aufwärmen.",
+                "hu": "A föld alatt enyhe az idő, ideális felmelegedni kicsit.",
+                "ro": "În subteran este un climat blând, ideal pentru încălzire.",
+                "en": "Mild climate underground, a great place to escape the frost."
+              }
+            },
+            {
+              "name": "Claudio Faina Museum",
+              "tip_5lang": {
+                "de": "Beheizte Ausstellungsräume bieten Komfort für Kulturfans.",
+                "hu": "A fűtött kiállítóterek kényelmesek a kultúra kedvelőinek.",
+                "ro": "Sălile de expoziție încălzite oferă confort turiștilor.",
+                "en": "Heated exhibition rooms provide comfort for history fans."
+              }
+            },
+            {
+              "name": "Church of Sant'Andrea",
+              "tip_5lang": {
+                "de": "Ruhiger Rückzugsort; die Krypta ist meist angenehm temperiert.",
+                "hu": "Csendes menedék; a kriptában általában kellemes az idő.",
+                "ro": "Refugiu liniștit; cripta are de obicei o temperatură plăcută.",
+                "en": "Quiet retreat; the crypt usually has a pleasant temperature."
+              }
+            },
+            {
+              "name": "Pozzo della Cava",
+              "tip_5lang": {
+                "de": "Besuchen Sie die berühmte unterirdische Krippe im Dezember.",
+                "hu": "Nézze meg a híres föld alatti betlehemet decemberben.",
+                "ro": "Vizitați faimoasa iesle subterană în luna decembrie.",
+                "en": "Visit the famous underground Nativity scene in December."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 16:45 Uhr unter; planen Sie Außenstopps früh.",
+              "In den Höhlen und Brunnen ist es wärmer als draußen.",
+              "Probieren Sie den herzhaften Wildschwein-Eintopf in einer Trattoria.",
+              "Tragen Sie Handschuhe für die Geländer im St. Patrick's Well.",
+              "Besuchen Sie das Orvieto-Jazz-Festival, falls Sie Ende Dezember hier sind."
+            ],
+            "hu": [
+              "A nap 16:45 körül nyugszik; a kinti látnivalókat tervezze korábbra.",
+              "A barlangokban és kutakban melegebb van, mint a felszínen.",
+              "Kóstolja meg a laktató vaddisznópörköltet valamelyik étteremben.",
+              "Viseljen kesztyűt a Szent Patrik-kút fém korlátaihoz.",
+              "Látogasson el az Orvieto Jazz fesztiválra december végén."
+            ],
+            "ro": [
+              "Soarele apune în jur de 16:45; planificați vizitele externe devreme.",
+              "În peșteri și puțuri este mai cald decât la suprafață.",
+              "Gustați tocană de mistreț consistentă în restaurantele locale.",
+              "Purtați mănuși pentru balustradele metalice din Puțul Sf. Patriciu.",
+              "Vizitați festivalul Orvieto Jazz dacă sunteți aici la final de decembrie."
+            ],
+            "en": [
+              "Sunset is around 4:45 PM; plan outdoor stops for earlier in the day.",
+              "The caves and wells are naturally warmer than the outside air.",
+              "Try the hearty wild boar stew in a local trattoria to stay warm.",
+              "Wear gloves for the metal railings in St. Patrick's Well.",
+              "Attend the Orvieto Jazz festival if you are visiting in late December."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -660,6 +1184,414 @@
           "Always park your bike in designated spots.",
           "Bring enough water for the climbs."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour führt Sie von der etruskischen Nekropole am Fuße des Berges hinauf in die Stadt. Nach einem anspruchsvollen Anstieg belohnen Sie sich mit Besuchen des Doms und der historischen Paläste. Die Route kombiniert archäologische Stätten mit dem Charme der hochgelegenen Stadt.",
+            "hu": "Ez a kerékpáros túra a hegy lábánál lévő etruszk nekropolisztól vezet fel a városba. A kihívást jelentő emelkedő után a dóm és a történelmi paloták látványa a jutalom. Az útvonal remekül ötvözi a régészeti lelőhelyeket a fennsíkon elterülő város bájával.",
+            "ro": "Acest tur cu bicicleta vă conduce de la necropola etruscă de la baza muntelui până în oraș. După o urcare provocatoare, veți fi răsplătiți cu vizite la dom și la palatele istorice. Traseul combină siturile arheologice cu farmecul orașului situat pe platou.",
+            "en": "This bike tour takes you from the Etruscan necropolis at the foot of the hill up into the city. After a challenging climb, you'll be rewarded with visits to the cathedral and historic palaces. The route combines archaeological sites with the charm of the hilltop town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Necropoli del Crocifisso",
+                "hu": "Crocifisso-nekropolisz",
+                "ro": "Necropoli del Crocifisso",
+                "en": "Crocifisso Necropolis"
+              },
+              "tip_5lang": {
+                "de": "Etruskische Gräber am Fuße der Tuffsteinklippe.",
+                "hu": "Etruszka sírok a tufaszikla tövében.",
+                "ro": "Morminte etrusce la baza stâncii de tuf.",
+                "en": "Etruscan tombs at the base of the tuff cliff."
+              }
+            },
+            {
+              "name": {
+                "de": "Pozzo di San Patrizio",
+                "hu": "Szent Patrik kútja",
+                "ro": "Puțul Sfântului Patriciu",
+                "en": "St. Patrick's Well"
+              },
+              "tip_5lang": {
+                "de": "Ein steiler Anstieg zur Spitze, aber die Aussicht lohnt sich.",
+                "hu": "Meredek emelkedő a tetőre, de a kilátás megéri.",
+                "ro": "O urcare abruptă spre vârf, dar vederea merită.",
+                "en": "A steep climb to the top, but the view is worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Moro",
+                "hu": "Mór-torony",
+                "ro": "Torre del Moro",
+                "en": "Moro Tower"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad am Corso Cavour ab.",
+                "hu": "Hagyja a biciklit a Corso Cavour mentén.",
+                "ro": "Lăsați bicicleta pe Corso Cavour.",
+                "en": "Park your bike along Corso Cavour."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di Orvieto",
+                "hu": "Orvietói dóm",
+                "ro": "Domul din Orvieto",
+                "en": "Orvieto Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Die Piazza ist ideal für eine Pause mit dem Fahrrad.",
+                "hu": "A tér ideális egy kerékpáros pihenőhöz.",
+                "ro": "Piața este ideală pentru o pauză cu bicicleta.",
+                "en": "The square is ideal for a bike break."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo del Capitano del Popolo",
+                "hu": "Palazzo del Capitano del Popolo",
+                "ro": "Palazzo del Capitano del Popolo",
+                "en": "Palazzo del Capitano del Popolo"
+              },
+              "tip_5lang": {
+                "de": "Ein majestätischer Palast aus dem 13. Jahrhundert.",
+                "hu": "Fenséges 13. századi palota.",
+                "ro": "Un palat maiestuos din secolul al XIII-lea.",
+                "en": "A majestic 13th-century palace."
+              }
+            },
+            {
+              "name": {
+                "de": "Pozzo della Cava",
+                "hu": "Pozzo della Cava",
+                "ro": "Pozzo della Cava",
+                "en": "Pozzo della Cava"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das mittelalterliche Viertel mit dem Rad.",
+                "hu": "Fedezze fel a középkori negyedet két keréken.",
+                "ro": "Explorați cartierul medieval pe două roți.",
+                "en": "Explore the medieval quarter on two wheels."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Panini mit Porchetta",
+                "tip": "Schneller Snack für Radfahrer."
+              },
+              {
+                "name": "Gelato",
+                "tip": "In der Nähe des Doms gibt es fantastisches Eis."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Porchettás szendvics",
+                "tip": "Gyors és laktató snack bicikliseknek."
+              },
+              {
+                "name": "Gelato",
+                "tip": "A dóm környékén fantasztikus fagylaltozók vannak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sandviș cu porchetta",
+                "tip": "Gustare rapidă pentru bicicliști."
+              },
+              {
+                "name": "Gelato",
+                "tip": "Există înghețată fantastică lângă catedrală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Porchetta sandwich",
+                "tip": "Quick and filling snack for cyclists."
+              },
+              {
+                "name": "Gelato",
+                "tip": "Fantastic ice cream spots near the cathedral."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ringstraße",
+                "tip": "Weg um die Stadtmauer mit wenig Verkehr.",
+                "emoji": "🚴"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gyűrűs út",
+                "tip": "Városfal menti út kevés forgalommal.",
+                "emoji": "🚴"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Drumul de centură",
+                "tip": "Cale de-a lungul zidurilor cu trafic redus.",
+                "emoji": "🚴"
+              }
+            ],
+            "en": [
+              {
+                "name": "Ring road",
+                "tip": "Path along the city walls with little traffic.",
+                "emoji": "🚴"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokales Olivenöl",
+                "tip": "Leicht in der Tasche zu transportieren."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi olívaolaj",
+                "tip": "Könnyen szállítható ajándék."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline local",
+                "tip": "Ușor de transportat în rucsac."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local olive oil",
+                "tip": "Easy to carry in a bike bag."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straßen im Zentrum sind schmal; Vorsicht bei Fußgängern.",
+              "Ein Elektrofahrrad ist wegen der Höhenunterschiede ideal.",
+              "Parken Sie Ihr Rad immer an markierten Stellen.",
+              "Nehmen Sie ausreichend Wasser für den Anstieg mit."
+            ],
+            "hu": [
+              "A központi utcák szűkek, figyeljen a gyalogosokra.",
+              "Az elektromos kerékpár ideális a szintkülönbségek miatt.",
+              "Mindig kijelölt helyen parkoljon a biciklivel.",
+              "Vigyen magával elég vizet az emelkedőkhöz."
+            ],
+            "ro": [
+              "Străzile din centru sunt înguste; atenție la pietoni.",
+              "O bicicletă electrică este ideală din cauza diferențelor de nivel.",
+              "Parcați întotdeauna bicicleta în locurile marcate.",
+              "Luați suficientă apă pentru urcări."
+            ],
+            "en": [
+              "Central streets are narrow; watch out for pedestrians.",
+              "An e-bike is ideal due to the elevation changes.",
+              "Always park your bike in designated spots.",
+              "Bring enough water for the climbs."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Auf zwei Rädern durch das nasse Orvieto erfordert Vorsicht. Morgens geht es zur Nekropole, wo der Boden weich sein kann. Mittags glänzt der Domplatz im Regen. Die Stadtrundfahrt führt durch enge, oft rutschige Gassen. Wir beenden die Tour bei der Pozzo della Cava, wo wir das Rad sicher und trocken abstellen können.",
+            "hu": "Két keréken az esős Orvietóban óvatosságot igényel. Reggel a nekropoliszhoz tekerünk, ahol a talaj sáros lehet. Délben a dóm tere csillog a csapadékban. A városi gurulás csúszós macskaköveken át vezet. A túrát a Pozzo della Cava-nál zárjuk, ahol biztonságos, fedett helyen pihenhetünk meg.",
+            "ro": "Pe două roți prin Orvieto ploios necesită prudență. Dimineața mergem la necropolă, unde solul poate fi noroios. La prânz, piața Domului strălucește sub ploaie. Traseul prin oraș trece pe pavaj alunecos. Încheiem turul la Pozzo della Cava, unde putem lăsa bicicleta într-un loc sigur și uscat.",
+            "en": "Cycling through rainy Orvieto requires extra caution. Morning starts at the necropolis where ground might be soft. At noon, the Cathedral square glistens in the wet. The city ride crosses often slippery cobblestones. We finish the tour at Pozzo della Cava, where we can find a safe, dry spot to rest."
+          },
+          "stops": [
+            {
+              "name": "Crocifisso Necropolis",
+              "tip_5lang": {
+                "de": "Die Wege können schlammig sein; vorsichtig fahren.",
+                "hu": "Az utak sárosak lehetnek; óvatosan tekerjen.",
+                "ro": "Potecile pot fi noroioase; pedalați cu atenție.",
+                "en": "Paths can be muddy; ride with caution around the site."
+              }
+            },
+            {
+              "name": "St. Patrick's Well",
+              "tip_5lang": {
+                "de": "Fahrradständer am Eingang sind nicht alle überdacht.",
+                "hu": "A bejáratnál lévő tárolók nem mind fedettek.",
+                "ro": "Suporturile de biciclete de la intrare nu sunt toate acoperite.",
+                "en": "Bike racks at the entrance are mostly uncovered."
+              }
+            },
+            {
+              "name": "Moro Tower",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger mit Schirmen in der engen Gasse.",
+                "hu": "Vigyázzon az esernyős gyalogosokra a szűk utcákban.",
+                "ro": "Atenție la pietonii cu umbrele pe străzile înguste.",
+                "en": "Watch out for pedestrians with umbrellas in narrow streets."
+              }
+            },
+            {
+              "name": "Orvieto Cathedral",
+              "tip_5lang": {
+                "de": "Großer Platz, aber das Pflaster ist bei Nässe glatt.",
+                "hu": "Tágas tér, de a burkolat vizesen nagyon csúszik.",
+                "ro": "Piață largă, dar pavajul este lucios când e ud.",
+                "en": "Large square, but the pavement is slick when wet."
+              }
+            },
+            {
+              "name": "Palazzo del Capitano del Popolo",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter den Arkaden bietet Regenschutz.",
+                "hu": "Egy rövid megálló az árkádok alatt védelmet nyújt.",
+                "ro": "O scurtă oprire sub arcade oferă protecție contra ploii.",
+                "en": "A short stop under the arches provides rain protection."
+              }
+            },
+            {
+              "name": "Pozzo della Cava",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad und genießen Sie das trockene Innere.",
+                "hu": "Parkolja le a gépet és élvezze a száraz barlangokat.",
+                "ro": "Parcați bicicleta și bucurați-vă de interiorul uscat.",
+                "en": "Park your bike and enjoy the dry underground interiors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie scharfes Bremsen auf nassen Tuffstein-Pflastern.",
+              "Schutzbleche sind bei diesem Wetter in Orvieto unerlässlich.",
+              "Nutzen Sie die Corso Cavour Arkaden für trockene Abschnitte.",
+              "Die Abfahrt vom Felsen ist bei Regen gefährlich; bremsen Sie früh.",
+              "Tragen Sie auffällige Regenkleidung für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "Kerülje az erős fékezést a nedves tufa-burkolaton.",
+              "A sárvédő elengedhetetlen ilyenkor Orvietóban.",
+              "Használja a Corso Cavour árkádjait a szárazabb szakaszokhoz.",
+              "A szikláról való lehajtás esőben veszélyes; fékezzen időben.",
+              "Viseljen feltűnő esőruházatot a jobb láthatóságért."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavajul umed din tuf vulcanic.",
+              "Apărătorile de noroi sunt esențiale pe această vreme în Orvieto.",
+              "Folosiți arcadele de pe Corso Cavour pentru secțiuni mai uscate.",
+              "Coborârea de pe stâncă e periculoasă pe ploaie; frânați din timp.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate."
+            ],
+            "en": [
+              "Avoid sharp braking on wet tuff-stone pavements.",
+              "Mudguards are essential for this weather in Orvieto.",
+              "Use the Corso Cavour arches for drier riding sections.",
+              "Descending from the rock is dangerous in rain; brake early.",
+              "Wear bright rain gear for better visibility in the mist."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterluft macht die Radtour in Orvieto belebend. Morgens ist es ruhig an der Nekropole, oft mit leichtem Frost. Mittags wärmt die Sonne auf dem Domplatz. Wir radeln durch die historische Altstadt und genießen die klare Sicht. Den Tag beenden wir bei der Pozzo della Cava mit einem heißen Getränk.",
+            "hu": "A friss téli levegő élénkítővé teszi az orvietói biciklizést. Reggel csend honol a nekropolisznál, néha zúzmarás az út. Délben a nap melengeti a dóm terét. Az óvároson áttekerve élvezzük a tiszta kilátást. A napot a Pozzo della Cava-nál zárjuk egy forró itallal.",
+            "ro": "Aerul proaspăt de iarnă face turul cu bicicleta revigorant. Dimineața e liniște la necropolă, uneori cu puțin îngheț. La prânz, soarele încălzește piața Domului. Pedalam prin centrul istoric și admirăm priveliștea clară. Încheiem ziua la Pozzo della Cava cu o băutură caldă.",
+            "en": "The fresh winter air makes cycling in Orvieto invigorating. Morning is quiet at the necropolis, sometimes with light frost. At noon, the sun warms the Cathedral square. Cycling through the old town offers clear, crisp views. We finish the day at Pozzo della Cava with a hot drink."
+          },
+          "stops": [
+            {
+              "name": "Crocifisso Necropolis",
+              "tip_5lang": {
+                "de": "Achten Sie auf Reifglätte auf den schattigen Pfaden.",
+                "hu": "Vigyázzon a zúzmarás, csúszós szakaszokra az árnyékban.",
+                "ro": "Atenție la porțiunile cu polei pe potecile umbrite.",
+                "en": "Watch out for frost on the shaded paths around the site."
+              }
+            },
+            {
+              "name": "St. Patrick's Well",
+              "tip_5lang": {
+                "de": "Das Absteigen in den Schacht wärmt die kalten Muskeln auf.",
+                "hu": "A kútba való leereszkedés átmozgatja a hideg izmokat.",
+                "ro": "Coborârea în puț vă va încălzi mușchii amorțiți de frig.",
+                "en": "Descending into the well will warm up your chilled muscles."
+              }
+            },
+            {
+              "name": "Moro Tower",
+              "tip_5lang": {
+                "de": "Der Fahrtwind kann oben sehr kalt sein; Schal hochziehen.",
+                "hu": "A szél fent nagyon hideg lehet; húzza fel a sálat.",
+                "ro": "Vântul poate fi foarte rece sus; ridicați fularul.",
+                "en": "The wind can be very cold at the top; pull up your scarf."
+              }
+            },
+            {
+              "name": "Orvieto Cathedral",
+              "tip_5lang": {
+                "de": "Bester Platz für eine Pause in der Mittagssonne.",
+                "hu": "A legjobb hely egy pihenőre a déli napsütésben.",
+                "ro": "Cel mai bun loc pentru o pauză în soarele de la prânz.",
+                "en": "Best place for a break in the midday winter sun."
+              }
+            },
+            {
+              "name": "Palazzo del Capitano del Popolo",
+              "tip_5lang": {
+                "de": "Der Platz liegt oft im Schatten; bleiben Sie in Bewegung.",
+                "hu": "A tér gyakran árnyékos; maradjon mozgásban a hidegben.",
+                "ro": "Piața e adesea în umbră; rămâneți în mișcare.",
+                "en": "The square is often in shadow; keep moving to stay warm."
+              }
+            },
+            {
+              "name": "Pozzo della Cava",
+              "tip_5lang": {
+                "de": "Ein Besuch hier ist wie eine natürliche Heizung.",
+                "hu": "Egy látogatás itt olyan, mint egy természetes fűtés.",
+                "ro": "O vizită aici e ca o încălzire naturală.",
+                "en": "A visit here acts like a natural heater after the ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Handschuhe, da die Bremshebel sehr kalt werden.",
+              "Die Luftfeuchtigkeit am Morgen kann die Wege rutschig machen.",
+              "Nutzen Sie die frühe Dunkelheit für Fotos der beleuchteten Stadt.",
+              "Warme Funktionskleidung ist wegen des Fahrtwindes wichtig.",
+              "Trinken Sie zwischendurch einen heißen 'Caffè Corretto'."
+            ],
+            "hu": [
+              "Viseljen meleg kesztyűt, mert a fékkarok nagyon áthűlnek.",
+              "A reggeli pára miatt az utak csúszósak lehetnek.",
+              "Használja ki a korai sötétedést a kivilágított város fotózására.",
+              "A réteges öltözködés fontos a menetszél miatt.",
+              "Igyon meg egy forró kávét a megállók között."
+            ],
+            "ro": [
+              "Purtați mănuși groase, manetele de frână devin foarte reci.",
+              "Umiditatea de dimineață poate face drumurile alunecoase.",
+              "Profitați de întunericul timpuriu pentru poze cu orașul luminat.",
+              "Îmbrăcămintea tehnică e importantă din cauza vântului.",
+              "Savurați o cafea fierbinte între opriri pentru reîncărcare."
+            ],
+            "en": [
+              "Wear warm gloves as brake levers can get freezing cold.",
+              "Morning humidity can make the stone paths slippery.",
+              "Take advantage of early sunset to photograph the lit city.",
+              "Layered clothing is vital due to the wind chill while cycling.",
+              "Stop for a hot 'Caffè Corretto' to keep your core warm."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -922,6 +1854,398 @@
           "The roads to Bagnoregio are winding and narrow.",
           "Pay parking fees in advance to avoid fines."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie zunächst die Schätze von Orvieto, bevor Sie am späten Nachmittag einen Ausflug in das spektakuläre Civita di Bagnoregio machen. Diese Route bietet die perfekte Mischung aus umbrischer Stadtkultur und der dramatischen Landschaft der Tuscia.",
+            "hu": "Autóval először Orvieto kincseit fedezzük fel, majd késő délután kirándulást teszünk a látványos Civita di Bagnoregiba. Ez az útvonal tökéletes keveréke az umbriai városi kultúrának és a Tuscia régió drámai tájainak.",
+            "ro": "Cu mașina, explorați mai întâi comorile din Orvieto, înainte de a face o excursie la sfârșitul după-amiezii în spectaculosul Civita di Bagnoregio. Acest traseu oferă amestecul perfect de cultură urbană umbriană și peisajele dramatice din Tuscia.",
+            "en": "By car, explore Orvieto's treasures first before taking a late afternoon trip to the spectacular Civita di Bagnoregio. This route offers the perfect blend of Umbrian urban culture and the dramatic landscapes of the Tuscia region."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Necropoli del Crocifisso",
+                "hu": "Crocifisso-nekropolisz",
+                "ro": "Necropoli del Crocifisso",
+                "en": "Crocifisso Necropolis"
+              },
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Eingang der Ausgrabungsstätte.",
+                "hu": "Parkoló közvetlenül a régészeti terület bejáratánál.",
+                "ro": "Parcare chiar la intrarea în situl arheologic.",
+                "en": "Parking available right at the entrance to the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Pozzo di San Patrizio",
+                "hu": "Szent Patrik kútja",
+                "ro": "Puțul Sfântului Patriciu",
+                "en": "St. Patrick's Well"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus am Campo della Fiera.",
+                "hu": "Használja a Campo della Fiera melletti parkolóházat.",
+                "ro": "Utilizați parcarea de la Campo della Fiera.",
+                "en": "Use the parking garage at Campo della Fiera."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di Orvieto",
+                "hu": "Orvietói dóm",
+                "ro": "Domul din Orvieto",
+                "en": "Orvieto Cathedral"
+              },
+              "tip_5lang": {
+                "de": "In der ZTL-Zone sind Autos im Zentrum verboten.",
+                "hu": "A központban autók számára tiltott ZTL zóna van.",
+                "ro": "Mașinile sunt interzise în zona ZTL din centru.",
+                "en": "Cars are prohibited in the central ZTL zone."
+              }
+            },
+            {
+              "name": {
+                "de": "Pozzo della Cava",
+                "hu": "Pozzo della Cava",
+                "ro": "Pozzo della Cava",
+                "en": "Pozzo della Cava"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg vom Parkplatz am Stadtrand.",
+                "hu": "Rövid séta a város szélén lévő parkolótól.",
+                "ro": "O scurtă plimbare de la parcarea de la marginea orașului.",
+                "en": "A short walk from the parking at the edge of town."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Moro",
+                "hu": "Mór-torony",
+                "ro": "Torre del Moro",
+                "en": "Moro Tower"
+              },
+              "tip_5lang": {
+                "de": "Blick über die gesamte Region Umbrien.",
+                "hu": "Kilátás az egész umbriai régióra.",
+                "ro": "Vedere peste întreaga regiune Umbria.",
+                "en": "View over the entire Umbria region."
+              }
+            },
+            {
+              "name": {
+                "de": "Civita di Bagnoregio",
+                "hu": "Civita di Bagnoregio",
+                "ro": "Civita di Bagnoregio",
+                "en": "Civita di Bagnoregio"
+              },
+              "tip_5lang": {
+                "de": "Die sterbende Stadt, nur über eine Brücke erreichbar.",
+                "hu": "A haldokló város, csak egy hídon érhető el.",
+                "ro": "Orașul care moare, accesibil doar printr-un pod.",
+                "en": "The dying city, accessible only via a bridge."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Trüffel-Pasta",
+                "tip": "In den Bergdörfern besonders aromatisch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szarvasgombás tészta",
+                "tip": "A hegyi falvakban különösen aromás."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Paste cu trufe",
+                "tip": "Deosebit de aromate în satele de munte."
+              }
+            ],
+            "en": [
+              {
+                "name": "Truffle pasta",
+                "tip": "Especially aromatic in the mountain villages."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Aussichtspunkt Belvedere",
+                "tip": "Blick auf Orvieto aus der Ferne.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Belvedere kilátópont",
+                "tip": "Kilátás Orvietóra a távolból.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Belvedere",
+                "tip": "Vedere spre Orvieto de la distanță.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Belvedere viewpoint",
+                "tip": "View of Orvieto from a distance.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokale Weine",
+                "tip": "Direkt bei den Winzern kaufen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi borok",
+                "tip": "Vásároljon közvetlenül a termelőktől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vinuri locale",
+                "tip": "Cumpărați direct de la producători."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local wines",
+                "tip": "Buy directly from the producers."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Fahren Sie nicht in das historische Zentrum (ZTL-Zone).",
+              "Parken Sie im großen Parkhaus Campo della Fiera.",
+              "Die Straßen nach Bagnoregio sind kurvenreich und eng.",
+              "Zahlen Sie die Parkgebühren im Voraus, um Bußgelder zu vermeiden."
+            ],
+            "hu": [
+              "Ne hajtson be a történelmi központba (ZTL zóna).",
+              "Parkoljon a nagy Campo della Fiera parkolóházban.",
+              "A Bagnoregio felé vezető utak kanyargósak és szűkek.",
+              "Fizesse ki előre a parkolást a büntetések elkerülése érdekében."
+            ],
+            "ro": [
+              "Nu intrați în centrul istoric (zona ZTL).",
+              "Parcați în parcarea mare Campo della Fiera.",
+              "Drumurile spre Bagnoregio sunt sinuoase și înguste.",
+              "Plătiți taxele de parcare în avans pentru a evita amenzile."
+            ],
+            "en": [
+              "Do not drive into the historic center (ZTL zone).",
+              "Park in the large Campo della Fiera parking garage.",
+              "The roads to Bagnoregio are winding and narrow.",
+              "Pay parking fees in advance to avoid fines."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Orvieto auch bei Regen komfortabel. Wir starten bei der Nekropole und parken nah am Brunnen. Mittags parken wir im Parkhaus am Domplatz, um trocken zur Kathedrale zu gelangen. Nachmittags geht es durch die Tunnel der Pozzo della Cava. Den Tag krönt eine Fahrt ins neblig-mystische Civita di Bagnoregio.",
+            "hu": "Autóval az esős Orvieto is kényelmes. A nekropolisznál kezdünk, majd a kúthoz közel parkolunk. Délben a dóm melletti parkolót használjuk, hogy szárazon jussunk a templomba. Délután a Pozzo della Cava járatait járjuk be. A napot egy autózás zárja a ködbe burkolózó, misztikus Civita di Bagnoregio felé.",
+            "ro": "Cu mașina, Orvieto este confortabil chiar și pe ploaie. Începem la necropolă și parcăm aproape de puț. La prânz folosim parcarea de lângă Dom pentru a ajunge uscați în biserică. După-amiaza explorăm galeriile Pozzo della Cava. Ziua se încheie cu o cursă spre Civita di Bagnoregio, învăluit în ceață mistică.",
+            "en": "By car, rainy Orvieto remains comfortable. We start at the necropolis and park near the well. At noon, we use the parking near the Cathedral to stay dry. Afternoon is spent in the tunnels of Pozzo della Cava. The day ends with a drive to the mist-shrouded, mystical Civita di Bagnoregio."
+          },
+          "stops": [
+            {
+              "name": "Crocifisso Necropolis",
+              "tip_5lang": {
+                "de": "Parkplatz ist nah, aber der Weg zum Grab ist ungeschützt.",
+                "hu": "A parkoló közeli, de a sírokhoz vezető út nem fedett.",
+                "ro": "Parcarea e aproape, dar drumul spre morminte e expus.",
+                "en": "Parking is close, but the walk to the tombs is unsheltered."
+              }
+            },
+            {
+              "name": "St. Patrick's Well",
+              "tip_5lang": {
+                "de": "Nutzen Sie das nahegelegene Parkhaus 'Cahen'.",
+                "hu": "Használja a közeli 'Cahen' parkolóházat.",
+                "ro": "Folosiți parcarea supraetajată 'Cahen' din apropiere.",
+                "en": "Use the nearby 'Cahen' multi-story parking garage."
+              }
+            },
+            {
+              "name": "Orvieto Cathedral",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz hinter dem Dom möglich.",
+                "hu": "A dóm mögötti parkolóból rövid a séta a bejáratig.",
+                "ro": "Drum scurt de la parcarea din spatele Domului.",
+                "en": "Short walk possible from the parking lot behind the Cathedral."
+              }
+            },
+            {
+              "name": "Pozzo della Cava",
+              "tip_5lang": {
+                "de": "In der schmalen Straße ist Parken schwierig; nutzen Sie Parkhäuser.",
+                "hu": "A szűk utcában nehéz parkolni; használjon parkolóházat.",
+                "ro": "Parcarea pe strada îngustă e grea; folosiți parcări publice.",
+                "en": "Parking is hard in the narrow street; use public lots nearby."
+              }
+            },
+            {
+              "name": "Moro Tower",
+              "tip_5lang": {
+                "de": "Zentraler Stopp; viele Parkplätze in 5 Min. Gehweite.",
+                "hu": "Központi megálló; sok parkoló van 5 perc sétára.",
+                "ro": "Oprire centrală; multe parcări la 5 minute de mers pe jos.",
+                "en": "Central stop; many parking spots within 5 mins walk."
+              }
+            },
+            {
+              "name": "Civita di Bagnoregio",
+              "tip_5lang": {
+                "de": "Die Brücke kann bei Regen sehr windig und rutschig sein.",
+                "hu": "A híd esőben nagyon szeles és csúszós lehet.",
+                "ro": "Podul poate fi foarte vântos și alunecos pe ploaie.",
+                "en": "The bridge can be very windy and slippery during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die ZTL (verkehrsberuhigte Zone) gilt auch bei Regen; achten Sie auf Kameras.",
+              "Nutzen Sie die großen Parkhäuser mit Aufzugsanbindung.",
+              "Die Sicht auf der Fahrt nach Civita kann durch Nebel eingeschränkt sein.",
+              "Regenschirme im Auto griffbereit halten für den Weg zum Parkscheinautomat.",
+              "Vermeiden Sie das Parken unter Bäumen wegen herabfallender Äste bei Sturm."
+            ],
+            "hu": [
+              "A ZTL zóna esőben is érvényes; figyeljen a kamerákra.",
+              "Használja a nagy parkolóházakat, amik lifttel kapcsolódnak a városhoz.",
+              "A Civita felé vezető úton a köd ronthatja a látási viszonyokat.",
+              "Tartsa az esernyőt elérhető helyen az autóban a parkolójegyig.",
+              "Viharos esőben kerülje a fák alatti parkolást a letörő ágak miatt."
+            ],
+            "ro": [
+              "Zona ZTL este activă și pe ploaie; atenție la camere.",
+              "Folosiți parcările mari conectate prin lift cu orașul.",
+              "Vizibilitatea spre Civita poate fi redusă din cauza ceții.",
+              "Țineți umbrela la îndemână în mașină pentru drumul spre automat.",
+              "Evitați parcarea sub copaci în caz de furtună cu vânt puternic."
+            ],
+            "en": [
+              "The ZTL (restricted zone) is active during rain; watch for cameras.",
+              "Use the large parking garages connected by elevators to the town.",
+              "Visibility on the drive to Civita can be limited by low clouds.",
+              "Keep umbrellas handy in the car for the walk to the parking meter.",
+              "Avoid parking under trees during heavy rain due to falling branches."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto zeigt Orvieto von seiner ruhigsten Seite. Morgens besuchen wir die frostige Nekropole. Mittags leuchtet der Dom in der klaren Luft. Nachmittags wärmen wir uns in den unterirdischen Brunnen auf. Die Fahrt nach Civita di Bagnoregio zum Sonnenuntergang bietet spektakuläre, scharfe Kontraste.",
+            "hu": "A téli autós túra Orvieto legnyugodtabb arcát mutatja. Reggel a zúzmarás nekropoliszt keressük fel. Délben a dóm ragyog a tiszta levegőben. Délután a föld alatti kutakban melegszünk fel. A Civita di Bagnoregio felé tartó út naplementekor éles kontrasztokat és lenyűgöző látványt nyújt.",
+            "ro": "Turul de iarnă cu mașina arată cea mai liniștită latură a orașului. Dimineața vizităm necropola înghețată. La prânz, Domul strălucește în aerul curat. După-amiaza ne încălzim în puțurile subterane. Drumul spre Civita di Bagnoregio la apus oferă contraste spectaculoase.",
+            "en": "A winter car tour shows Orvieto at its quietest. Morning starts at the frosty necropolis. At noon, the Cathedral glows in the crisp air. Afternoon is for warming up inside the underground wells. The drive to Civita di Bagnoregio at sunset offers spectacular, sharp winter contrasts."
+          },
+          "stops": [
+            {
+              "name": "Crocifisso Necropolis",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf der Zufahrtsstraße im Schatten.",
+                "hu": "Vigyázzon a lefagyott részekre az árnyékos bekötőúton.",
+                "ro": "Atenție la porțiunile cu gheață pe drumul de acces umbrit.",
+                "en": "Watch for icy patches on the shaded access road."
+              }
+            },
+            {
+              "name": "St. Patrick's Well",
+              "tip_5lang": {
+                "de": "Das Auto bleibt draußen kalt, im Schacht ist es mild.",
+                "hu": "Az autó kint lehűl, de a kútban enyhe marad az idő.",
+                "ro": "Mașina rămâne rece afară, dar în puț este timp blând.",
+                "en": "The car stays cold outside, but the well is naturally mild."
+              }
+            },
+            {
+              "name": "Orvieto Cathedral",
+              "tip_5lang": {
+                "de": "Beste Zeit für Fotos der Fassade ohne Touristenbusse.",
+                "hu": "Legjobb időszak a homlokzat fotózására turistabuszok nélkül.",
+                "ro": "Cel mai bun moment pentru poze la fațadă fără autocare.",
+                "en": "Best time for facade photos without the tourist crowds."
+              }
+            },
+            {
+              "name": "Pozzo della Cava",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Weihnachtsausstellung im Inneren.",
+                "hu": "Látogassa meg a benti karácsonyi kiállítást.",
+                "ro": "Vizitați expoziția de Crăciun din interior.",
+                "en": "Visit the special Christmas exhibition inside the caves."
+              }
+            },
+            {
+              "name": "Moro Tower",
+              "tip_5lang": {
+                "de": "Parken Sie zentral, um den Fußweg in der Kälte kurz zu halten.",
+                "hu": "Parkoljon központi helyen, hogy rövid legyen a séta a hidegben.",
+                "ro": "Parcați central pentru a scurta mersul pe jos prin frig.",
+                "en": "Park centrally to minimize walking time in the cold."
+              }
+            },
+            {
+              "name": "Civita di Bagnoregio",
+              "tip_5lang": {
+                "de": "Wintersonnenuntergang hier ist ein Muss; warme Jacke mitnehmen.",
+                "hu": "A téli naplemente itt kötelező; vigyen meleg kabátot.",
+                "ro": "Apusul de iarnă aici e obligatoriu; luați o jachetă groasă.",
+                "en": "Winter sunset here is a must-see; take a very warm jacket."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteis auf den Serpentinenstraßen um Orvieto.",
+              "Heizen Sie das Auto vor der Fahrt nach Civita gut auf.",
+              "Die Parkplätze sind im Winter meist leerer und entspannter.",
+              "Frostschutzmittel in der Scheibenwaschanlage nicht vergessen.",
+              "Die Sonne blendet im Winter tief; Sonnenbrille im Auto bereit halten."
+            ],
+            "hu": [
+              "Figyeljen a jegesedésre az Orvieto körüli szerpentineken.",
+              "Fűtse fel jól az autót a Civitába tartó út előtt.",
+              "A parkolók télen üresebbek és nyugodtabbak.",
+              "Ne felejtse el a fagyállót a szélvédőmosóból.",
+              "A téli nap alacsonyan jár és vakíthat; legyen kéznél napszemüveg."
+            ],
+            "ro": [
+              "Atenție la polei pe serpentinele din jurul orașului Orvieto.",
+              "Încălziți bine mașina înainte de drumul spre Civita.",
+              "Parcările sunt de obicei mai libere și relaxate iarna.",
+              "Nu uitați antigelul în lichidul de spălare a parbrizului.",
+              "Soarele iernii strălucește jos și poate orbi; țineți ochelarii la îndemână."
+            ],
+            "en": [
+              "Watch for black ice on the serpentine roads around Orvieto.",
+              "Warm up the car thoroughly before heading out to Civita.",
+              "Parking lots are generally emptier and more relaxed in winter.",
+              "Don't forget antifreeze in your windshield washer fluid.",
+              "The winter sun sits low and can be blinding; keep sunglasses handy."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1161,6 +2485,366 @@
           "Check the timetables at the stops.",
           "Bus 'A' is the most useful for tourists."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das bequeme Transit-System von Orvieto, beginnend mit der historischen Funicolare vom Bahnhof. Kleine Elektrobusse bringen Sie mühelos zu den wichtigsten Sehenswürdigkeiten auf dem Tuffstein-Plateau, vom glitzernden Dom bis zu den tiefen Brunnen und Türmen.",
+            "hu": "Használja Orvieto kényelmes közlekedési rendszerét, kezdve a történelmi siklóval a vasútállomástól. Kis elektromos buszok könnyedén repítik a tufafennsík legfontosabb látnivalóihoz, a ragyogó dómtól a mély kutakig és tornyokig.",
+            "ro": "Utilizați sistemul de transport convenabil din Orvieto, începând cu funicularul istoric de la gară. Microbuzele electrice vă duc fără efort la principalele atracții de pe platoul de tuf, de la catedrala strălucitoare până la puțurile adânci și turnuri.",
+            "en": "Use Orvieto's convenient transit system, starting with the historic funicular from the station. Small electric buses whisk you effortlessly to the key sights on the tuff plateau, from the glittering cathedral to the deep wells and towers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pozzo di San Patrizio",
+                "hu": "Szent Patrik kútja",
+                "ro": "Puțul Sfântului Patriciu",
+                "en": "St. Patrick's Well"
+              },
+              "tip_5lang": {
+                "de": "Direkt neben der Bergstation der Funicolare.",
+                "hu": "Közvetlenül a sikló felső állomása mellett.",
+                "ro": "Chiar lângă stația superioară a funicularului.",
+                "en": "Right next to the upper funicular station."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di Orvieto",
+                "hu": "Orvietói dóm",
+                "ro": "Domul din Orvieto",
+                "en": "Orvieto Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie den Shuttlebus 'A' vom Piazza Cahen.",
+                "hu": "Szálljon fel az 'A' jelzésű buszra a Piazza Cahenről.",
+                "ro": "Luați autobuzul 'A' din Piazza Cahen.",
+                "en": "Take shuttle bus 'A' from Piazza Cahen."
+              }
+            },
+            {
+              "name": {
+                "de": "Orvieto Underground",
+                "hu": "Föld alatti Orvieto",
+                "ro": "Orvieto Underground",
+                "en": "Orvieto Underground"
+              },
+              "tip_5lang": {
+                "de": "Der Treffpunkt ist gegenüber dem Dom.",
+                "hu": "A találkozási pont a dómmal szemben van.",
+                "ro": "Punctul de întâlnire este vizavi de catedrală.",
+                "en": "The meeting point is across from the cathedral."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Moro",
+                "hu": "Mór-torony",
+                "ro": "Torre del Moro",
+                "en": "Moro Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Busse halten in der Nähe des Corso Cavour.",
+                "hu": "A buszok a Corso Cavour közelében állnak meg.",
+                "ro": "Autobuzele opresc aproape de Corso Cavour.",
+                "en": "Buses stop near Corso Cavour."
+              }
+            },
+            {
+              "name": {
+                "de": "Pozzo della Cava",
+                "hu": "Pozzo della Cava",
+                "ro": "Pozzo della Cava",
+                "en": "Pozzo della Cava"
+              },
+              "tip_5lang": {
+                "de": "Das mittelalterliche Viertel ist gut mit kleinen Bussen erreichbar.",
+                "hu": "A középkori negyed jól megközelíthető kisbuszokkal.",
+                "ro": "Cartierul medieval este ușor accesibil cu microbuze.",
+                "en": "The medieval quarter is easily accessible by minibuses."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Biscotti",
+                "tip": "Traditionelles Gebäck zum Mitnehmen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Biscotti",
+                "tip": "Hagyományos kekszek elvitelre."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Biscotti",
+                "tip": "Biscuiți tradiționali de luat la pachet."
+              }
+            ],
+            "en": [
+              {
+                "name": "Biscotti",
+                "tip": "Traditional biscuits to take away."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Piazza Cahen",
+                "tip": "Ruhiger Platz bei der Seilbahnstation.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Piazza Cahen",
+                "tip": "Csendes tér a sikló állomásánál.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piazza Cahen",
+                "tip": "Piață liniștită lângă stația funicularului.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Piazza Cahen",
+                "tip": "Quiet square by the funicular station.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Postkarten",
+                "tip": "Schöne Motive in den Läden beim Dom."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Képeslapok",
+                "tip": "Szép motívumok a dóm melletti boltokban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vederi",
+                "tip": "Motive frumoase în magazinele de lângă dom."
+              }
+            ],
+            "en": [
+              {
+                "name": "Postcards",
+                "tip": "Beautiful motifs in shops near the Duomo."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Fahrkarte für die Funicolare gilt auch für den Bus.",
+              "Die Busse verkehren in regelmäßigen Abständen.",
+              "Achten Sie auf die Fahrpläne an den Haltestellen.",
+              "Der Bus 'A' ist am nützlichsten für Touristen."
+            ],
+            "hu": [
+              "A siklóra váltott jegy a buszokra is érvényes.",
+              "A buszok rendszeres időközönként járnak.",
+              "Figyelje a menetrendet a megállókban.",
+              "Az 'A' jelzésű busz a leghasznosabb a turisták számára."
+            ],
+            "ro": [
+              "Biletul pentru funicular este valabil și pentru autobuz.",
+              "Autobuzele circulă la intervale regulate.",
+              "Verificați orarul în stații.",
+              "Autobuzul 'A' este cel mai util pentru turiști."
+            ],
+            "en": [
+              "The funicular ticket is also valid for the bus.",
+              "Buses run at regular intervals.",
+              "Check the timetables at the stops.",
+              "Bus 'A' is the most useful for tourists."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Funicolare lässt sich Orvieto trocken erkunden. Morgens bringt uns die Seilbahn vom Bahnhof zum St. Patrick's Well. Mittags nehmen wir den Elektrobus zum Domplatz. Nachmittags führen kurze Wege zwischen den Museen und Brunnen. Den Abend lassen wir bei der Pozzo della Cava ausklingen, bevor der Bus uns zurückbringt.",
+            "hu": "Busszal és siklóval Orvieto esőben is könnyen bejárható. Reggel a sikló felvisz az állomástól a kúthoz. Délben az elektromos busszal megyünk a dóm térig. Délután rövid séták várnak a múzeumok és kutak között. Az estét a Pozzo della Cava-nál zárjuk, mielőtt visszabuszoznánk a szállásra.",
+            "ro": "Cu autobuzul și funicularul, Orvieto se vizitează ușor pe ploaie. Dimineața funicularul ne urcă de la gară la puț. La prânz luăm autobuzul electric spre piața Domului. După-amiaza sunt drumuri scurte între muzee și fântâni. Încheiem seara la Pozzo della Cava înainte de a lua autobuzul înapoi.",
+            "en": "By bus and funicular, Orvieto is easy to explore even in rain. Morning funicular ride takes us from the station to the well. At noon, we take the electric bus to the Cathedral square. Afternoon involves short walks between museums and wells. We end the evening at Pozzo della Cava before busing back."
+          },
+          "stops": [
+            {
+              "name": "St. Patrick's Well",
+              "tip_5lang": {
+                "de": "Liegt direkt neben der Bergstation der Funicolare.",
+                "hu": "Közvetlenül a sikló felső állomása mellett található.",
+                "ro": "Situat chiar lângă stația superioară a funicularului.",
+                "en": "Located right next to the funicular's upper station."
+              }
+            },
+            {
+              "name": "Orvieto Cathedral",
+              "tip_5lang": {
+                "de": "Der Elektrobus 'A' hält fast direkt vor dem Eingang.",
+                "hu": "Az 'A' jelű elektromos busz majdnem a bejárat előtt áll meg.",
+                "ro": "Autobuzul electric 'A' oprește aproape de intrare.",
+                "en": "The 'A' electric bus stops almost directly in front."
+              }
+            },
+            {
+              "name": "Orvieto Underground",
+              "tip_5lang": {
+                "de": "Kurzer, meist überdachter Weg vom Domplatz aus.",
+                "hu": "Rövid, többnyire fedett út a dóm tér felől.",
+                "ro": "Drum scurt, parțial acoperit, dinspre piața Domului.",
+                "en": "Short, mostly covered walk from the Cathedral square."
+              }
+            },
+            {
+              "name": "Moro Tower",
+              "tip_5lang": {
+                "de": "Bushaltestelle am Piazza della Repubblica ist 3 Min. entfernt.",
+                "hu": "A Piazza della Repubblica buszmegálló 3 percre van.",
+                "ro": "Stația de autobuz din Piazza della Repubblica e la 3 minute.",
+                "en": "Bus stop at Piazza della Repubblica is 3 mins away."
+              }
+            },
+            {
+              "name": "Pozzo della Cava",
+              "tip_5lang": {
+                "de": "Der Elektrobus 'B' bringt Sie nah an diesen versteckten Ort.",
+                "hu": "A 'B' jelű elektromos busz közel visz ehhez a rejtett helyhez.",
+                "ro": "Autobuzul electric 'B' vă lasă aproape de acest loc ascuns.",
+                "en": "The 'B' electric bus drops you close to this hidden site."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Funicolare verkehrt alle 10-15 Min. und ist komplett trocken.",
+              "Die kleinen Elektrobusse sind ideal, um nasse Füße zu vermeiden.",
+              "Kaufen Sie Tickets vorab am Bahnhofskiosk, um Regen-Stress zu vermeiden.",
+              "Warten Sie auf den Bus in den Arkaden am Piazza della Repubblica.",
+              "Bei starkem Regen sind die Busse oft voller als sonst."
+            ],
+            "hu": [
+              "A sikló 10-15 percenként jár és teljesen fedett.",
+              "A kis elektromos buszok ideálisak a lábak szárazon tartásához.",
+              "Vegyen jegyet előre az állomáson, hogy ne az esőben kelljen keresni.",
+              "A buszra a Piazza della Repubblica árkádjai alatt várjon.",
+              "Heves esőben a buszok a szokásosnál zsúfoltabbak lehetnek."
+            ],
+            "ro": [
+              "Funicularul circulă la fiecare 10-15 min și este complet acoperit.",
+              "Microbuzele electrice sunt ideale pentru a evita picioarele ude.",
+              "Cumpărați bilete în avans la gară pentru a evita stresul pe ploaie.",
+              "Așteptați autobuzul sub arcadele din Piazza della Repubblica.",
+              "În caz de ploaie torențială, autobuzele pot fi mai aglomerate."
+            ],
+            "en": [
+              "The funicular runs every 10-15 mins and is completely covered.",
+              "The small electric buses are ideal for staying dry between sites.",
+              "Buy tickets in advance at the station to avoid rain delays.",
+              "Wait for the bus under the arches at Piazza della Repubblica.",
+              "Buses may be more crowded than usual during heavy downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist der Transit in Orvieto effizient und warm. Morgens genießen wir die Aussicht aus der beheizten Funicolare. Mittags bringt uns der Bus direkt zum Dom, ohne dass wir im kalten Wind laufen müssen. Nachmittags erkunden wir die warmen unterirdischen Stopps. Der Abend endet gemütlich, mit einer kurzen Busfahrt zurück zur Seilbahn.",
+            "hu": "Télen az orvietói közlekedés hatékony és meleg. Reggel a fűtött siklóból csodáljuk a kilátást. Délben a busz közvetlenül a dómhoz visz, így nem kell a hideg szélben sétálni. Délután a kellemes hőmérsékletű föld alatti helyeket járjuk be. Az este egy rövid buszúttal és a siklóval zárul.",
+            "ro": "Iarna, transportul în Orvieto este eficient și cald. Dimineața admirăm vederea din funicularul încălzit. La prânz, autobuzul ne duce direct la Dom, evitând vântul rece. După-amiaza vizităm opririle subterane cu temperatură plăcută. Seara se încheie cu un drum scurt spre funicular.",
+            "en": "In winter, Orvieto's transit is efficient and warm. Morning funicular ride offers great views in comfort. At noon, the bus drops us at the Cathedral, avoiding the cold wind. Afternoon is spent at the naturally warmer underground stops. The evening ends with a short bus ride back to the funicular."
+          },
+          "stops": [
+            {
+              "name": "St. Patrick's Well",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Funicolare begrenzt die Kälteexposition.",
+                "hu": "A siklótól való rövid séta segít elkerülni a hideget.",
+                "ro": "Drumul scurt de la funicular limitează expunerea la frig.",
+                "en": "Short walk from the funicular limits exposure to the cold."
+              }
+            },
+            {
+              "name": "Orvieto Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um nicht den windigen Hügel hochzulaufen.",
+                "hu": "Használja a buszt, hogy ne kelljen a szeles dombon gyalogolni.",
+                "ro": "Folosiți autobuzul pentru a nu urca pe jos dealul vântos.",
+                "en": "Use the bus to avoid walking up the windy hill manually."
+              }
+            },
+            {
+              "name": "Orvieto Underground",
+              "tip_5lang": {
+                "de": "Die Touren sind im Winter weniger überlaufen.",
+                "hu": "A túrákon télen kevesebb a látogató, családiasabb a hangulat.",
+                "ro": "Tururile sunt mai puțin aglomerate iarna.",
+                "en": "Underground tours are much less crowded during winter."
+              }
+            },
+            {
+              "name": "Moro Tower",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren auf, bevor Sie die Treppen steigen.",
+                "hu": "Melegedjen fel bent, mielőtt elkezdi a lépcsőzést.",
+                "ro": "Încălziți-vă în interior înainte de a urca scările.",
+                "en": "Warm up inside before starting the climb up the stairs."
+              }
+            },
+            {
+              "name": "Pozzo della Cava",
+              "tip_5lang": {
+                "de": "Der Bus 'B' hält in der Nähe der stimmungsvollen Gasse.",
+                "hu": "A 'B' busz a hangulatos kis utca közelében tesz le.",
+                "ro": "Autobuzul 'B' oprește aproape de strada pitorească.",
+                "en": "Bus 'B' stops near the entrance to this atmospheric street."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Funicolare ist im Winter ein gemütlicher Ort für Panoramablicke.",
+              "Busfahrpläne können im Winter leicht variieren; App prüfen.",
+              "Warten Sie im Kiosk am Bahnhof, falls die Seilbahn gerade weg ist.",
+              "Die Busse sind gut beheizt und bieten Pause vom Winterwind.",
+              "Kaufen Sie am Wochenende 24-Stunden-Tickets für mehr Flexibilität."
+            ],
+            "hu": [
+              "A sikló télen is remek hely a panoráma megcsodálásához.",
+              "A buszmenetrend télen változhat; ellenőrizze az alkalmazást.",
+              "Várjon az állomási újságosnál, ha épp elment a sikló.",
+              "A buszok jól fűtöttek, védelmet nyújtanak a téli szél elől.",
+              "Hétvégén vegyen 24 órás jegyet a nagyobb rugalmasságért."
+            ],
+            "ro": [
+              "Funicularul este un loc confortabil pentru panorame iarna.",
+              "Orarele autobuzelor pot varia iarna; verificați aplicația.",
+              "Așteptați la chioșcul din gară dacă funicularul tocmai a plecat.",
+              "Autobuzele sunt bine încălzite și oferă respiro față de vânt.",
+              "Cumpărați bilete de 24 de ore în weekend pentru flexibilitate."
+            ],
+            "en": [
+              "The funicular is a cozy spot for panoramic views in winter.",
+              "Bus schedules may vary slightly in winter; check the local app.",
+              "Wait inside the station shop if the funicular has just left.",
+              "Buses are well-heated and offer a break from the winter wind.",
+              "Buy 24-hour passes on weekends for maximum flexibility."
+            ]
+          }
+        }
       }
     }
   },

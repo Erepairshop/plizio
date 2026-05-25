@@ -291,6 +291,430 @@
           "Try the local almond liqueur.",
           "Visit the town in the early morning to experience the mist."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Betreten Sie durch das Trapani-Tor eine andere Welt. Die kühlen, nebelverhangenen Gassen führen Sie zum majestätischen Dom und den Schätzen des Cordici-Museums. Nach einer süßen Pause mit Genovesi-Gebäck wandern Sie zum spanischen Viertel und schließlich zum Venus-Schloss, das dramatisch auf einem Felsen thront. Beenden Sie den Tag in den Balio-Gärten mit Blick auf die Ägadischen Inseln.",
+            "hu": "Lépjen be egy másik világba a Trapani-kapun keresztül. A hűvös, gyakran ködös utcák a fenséges dómhoz és a Cordici Múzeum kincseihez vezetnek. Egy édes szünet után – megkóstolva a Genovesi süteményt – sétáljon el a Spanyol negyedhez, majd a sziklán trónoló Vénusz-kastélyhoz. A napot a Balio-kertekben zárja, kilátással az Egadi-szigetekre.",
+            "ro": "Intrați într-o altă lume prin Poarta Trapani. Străzile răcoroase, adesea învăluite în ceață, vă duc spre catedrala maiestuoasă și comorile Muzeului Cordici. După o pauză dulce cu Genovesi, mergeți spre Cartierul Spaniol și, în final, spre Castelul lui Venus, cocoțat dramatic pe o stâncă. Încheiați ziua în Grădinile Balio cu vedere spre Insulele Egade.",
+            "en": "Enter another world through Porta Trapani. The cool, often misty streets lead you to the majestic cathedral and the treasures of the Cordici Museum. After a sweet break with Genovesi pastries, walk to the Spanish Quarter and finally to the Castle of Venus, perched dramatically on a rock. End the day in the Balio Gardens with views over the Aegadian Islands."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porta Trapani",
+                "hu": "Trapani-kapu",
+                "ro": "Poarta Trapani",
+                "en": "Porta Trapani"
+              },
+              "tip_5lang": {
+                "de": "Der Haupteingang zur mittelalterlichen Stadt.",
+                "hu": "A középkori város főbejárata.",
+                "ro": "Intrarea principală în orașul medieval.",
+                "en": "The main entrance to the medieval town."
+              }
+            },
+            {
+              "name": {
+                "de": "Real Duomo di Erice",
+                "hu": "Ericei dóm",
+                "ro": "Catedrala din Erice",
+                "en": "Real Duomo of Erice"
+              },
+              "tip_5lang": {
+                "de": "Besteigen Sie den Glockenturm für eine erste Aussicht.",
+                "hu": "Másszon fel a harangtoronyba az első kilátásért.",
+                "ro": "Urcați în turnul clopotniță pentru o primă vedere.",
+                "en": "Climb the bell tower for your first view."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Comunale Antonio Cordici",
+                "hu": "Cordici Múzeum",
+                "ro": "Muzeul Cordici",
+                "en": "Cordici Municipal Museum"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die Annunciazione von Antonello Gagini.",
+                "hu": "Nézze meg Antonello Gagini Angyali üdvözletét.",
+                "ro": "Vedeți Bunavestire de Antonello Gagini.",
+                "en": "See the Annunciation by Antonello Gagini."
+              }
+            },
+            {
+              "name": {
+                "de": "Maria Grammatico Pasticceria",
+                "hu": "Maria Grammatico cukrászda",
+                "ro": "Cofetăria Maria Grammatico",
+                "en": "Maria Grammatico Pastry"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie die Genovesi, das Gebäck der Stadt.",
+                "hu": "Kóstolja meg a Genovesit, a város híres édességét.",
+                "ro": "Încercați Genovesi, produsul de patiserie al orașului.",
+                "en": "Try the Genovesi, the signature local pastry."
+              }
+            },
+            {
+              "name": {
+                "de": "Quartiere Spagnolo",
+                "hu": "Spanyol negyed",
+                "ro": "Cartierul Spaniol",
+                "en": "Spanish Quarter"
+              },
+              "tip_5lang": {
+                "de": "Unvollendete Festung mit weitem Blick aufs Meer.",
+                "hu": "Befejezetlen erőd széles tengeri kilátással.",
+                "ro": "Fortăreață neterminată cu vedere largă spre mare.",
+                "en": "Unfinished fortress with wide sea views."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Venere",
+                "hu": "Vénusz-kastély",
+                "ro": "Castelul lui Venus",
+                "en": "Castle of Venus"
+              },
+              "tip_5lang": {
+                "de": "Auf den Ruinen eines antiken Tempels erbaut.",
+                "hu": "Egy ókori templom romjaira épült.",
+                "ro": "Construit pe ruinele unui templu antic.",
+                "en": "Built on the ruins of an ancient temple."
+              }
+            },
+            {
+              "name": {
+                "de": "Giardini del Balio",
+                "hu": "Balio kertek",
+                "ro": "Grădinile Balio",
+                "en": "Balio Gardens"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die Sonne über Trapani untergeht.",
+                "hu": "Nézze meg, ahogy a nap lemegy Trapani felett.",
+                "ro": "Priviți cum soarele apune peste Trapani.",
+                "en": "Watch the sun set over Trapani."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Genovesi Ericine",
+                "tip": "Warmes Gebäck gefüllt mit Vanillecreme."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Genovesi Ericine",
+                "tip": "Vaníliakrémmel töltött meleg sütemény."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Genovesi Ericine",
+                "tip": "Produse de patiserie calde umplute cu cremă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Genovesi Ericine",
+                "tip": "Warm pastries filled with custard cream."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Giardini del Balio",
+                "tip": "Panoramablick und kühle Brise.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Balio kertek",
+                "tip": "Panorámás kilátás és hűvös szellő.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădinile Balio",
+                "tip": "Vedere panoramică și briză răcoroasă.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Balio Gardens",
+                "tip": "Panoramic views and cool breeze.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Erice Teppiche",
+                "tip": "Handgewebte, bunte traditionelle Teppiche."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ericei szőnyegek",
+                "tip": "Kézzel szőtt, színes hagyományos szőnyegek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Covoare de Erice",
+                "tip": "Covoare tradiționale colorate, țesute manual."
+              }
+            ],
+            "en": [
+              {
+                "name": "Erice Rugs",
+                "tip": "Hand-woven, colorful traditional rugs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Bringen Sie eine Jacke mit, es ist oft 5-10 Grad kühler als in Trapani.",
+              "Tragen Sie rutschfeste Schuhe für die glatten Steine.",
+              "Probieren Sie den Mandellikör der Region.",
+              "Besuchen Sie die Stadt am frühen Morgen, um den Nebel zu erleben."
+            ],
+            "hu": [
+              "Vigyen kabátot, gyakran 5-10 fokkal hűvösebb van, mint Trapaniban.",
+              "Viseljen csúszásmentes cipőt a simára kopott kövek miatt.",
+              "Kóstolja meg a helyi mandulalikőrt.",
+              "Látogassa meg a várost kora reggel a ködélményért."
+            ],
+            "ro": [
+              "Aduceți o jachetă, adesea sunt cu 5-10 grade mai puțin decât în Trapani.",
+              "Purtați încălțăminte aderentă pentru pietrele lucioase.",
+              "Încercați lichiorul de migdale al regiunii.",
+              "Vizitați orașul dimineața devreme pentru a experimenta ceața."
+            ],
+            "en": [
+              "Bring a jacket, it's often 5-10 degrees cooler than in Trapani.",
+              "Wear non-slip shoes for the smooth cobblestones.",
+              "Try the local almond liqueur.",
+              "Visit the town in the early morning to experience the mist."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nebliger Morgen beginnt an der Porta Trapani und dem Dom. Mittags finden Sie Schutz im Cordici-Museum und wärmen sich bei Maria Grammatico auf. Der Nachmittag bietet einen regnerischen Spaziergang zum Spanischen Viertel. Der Abend endet mystisch in den nebelverhangenen Balio-Gärten.",
+            "hu": "A ködös reggel a Porta Trapani-nál és a Dómnál indul. Délben a Cordici Múzeumban talál menedéket, majd felmelegszik a Maria Grammatico cukrászdában. Délután a Spanyol Negyedet fedezi fel az esőben. Az este misztikus hangulatban telik a Vénusz-várnál.",
+            "ro": "O dimineață cețoasă începe la Porta Trapani și Dom. La prânz vă adăpostiți la Muzeul Cordici și vă încălziți cu produse de patiserie. După-amiaza explorați Cartierul Spaniol pe ploaie. Seara se încheie mistic la Castelul lui Venus și Grădinile Balio.",
+            "en": "A misty morning begins at Porta Trapani and the Duomo. At noon, seek shelter in the Cordici Museum and warm up at Maria Grammatico pastry shop. The afternoon involves exploring the Spanish Quarter in the drizzle. The evening ends magically at the fog-covered Castle of Venus."
+          },
+          "stops": [
+            {
+              "name": "Porta Trapani",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster.",
+                "hu": "Vigyázzon a csúszós macskaköveken.",
+                "ro": "Atenție la pietrele cubice alunecoase.",
+                "en": "Be careful on the slippery cobblestones."
+              }
+            },
+            {
+              "name": "Real Duomo of Erice",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um dem ersten Regen zu entkommen.",
+                "hu": "Jó hely az első záporok elől menedéket találni.",
+                "ro": "Un loc bun pentru a scăpa de primele ploi.",
+                "en": "A good place to escape the first showers."
+              }
+            },
+            {
+              "name": "Cordici Municipal Museum",
+              "tip_5lang": {
+                "de": "Perfekt für einen längeren Aufenthalt bei starkem Regen.",
+                "hu": "Tökéletes hosszabb tartózkodásra heves esőben.",
+                "ro": "Perfect pentru o ședere mai lungă pe ploaie torențială.",
+                "en": "Perfect for a longer stay during heavy rain."
+              }
+            },
+            {
+              "name": "Maria Grammatico Pastry",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einem heißen Kaffee und Gebäck auf.",
+                "hu": "Melegedjen fel egy forró kávéval és süteménnyel.",
+                "ro": "Încălziți-vă cu o cafea fierbinte și produse de patiserie.",
+                "en": "Warm up with a hot coffee and pastries."
+              }
+            },
+            {
+              "name": "Spanish Quarter",
+              "tip_5lang": {
+                "de": "Die Aussicht ist bei Regen oft eingeschränkt.",
+                "hu": "A kilátás esőben gyakran korlátozott.",
+                "ro": "Vederea este adesea limitată pe ploaie.",
+                "en": "Views are often limited during rain."
+              }
+            },
+            {
+              "name": "Castle of Venus",
+              "tip_5lang": {
+                "de": "Der Wind kann hier oben sehr stark sein.",
+                "hu": "A szél itt fent nagyon erős lehet.",
+                "ro": "Vântul poate fi foarte puternic aici sus.",
+                "en": "The wind can be very strong up here."
+              }
+            },
+            {
+              "name": "Balio Gardens",
+              "tip_5lang": {
+                "de": "Die Wege können matschig werden.",
+                "hu": "Az ösvények sárosak lehetnek.",
+                "ro": "Cărările pot deveni noroioase.",
+                "en": "The paths can become muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie unbedingt rutschfestes Schuhwerk für das Kopfsteinpflaster.",
+              "Regenschirme sind wegen des starken Windes oft nutzlos; eine Regenjacke ist besser.",
+              "Suchen Sie bei Schauern Schutz in den vielen kleinen Cafés.",
+              "Die Steinböden in den Kirchen können kühl und feucht sein.",
+              "Der Nebel in Erice ist berühmt und verleiht der Stadt eine mystische Atmosphäre."
+            ],
+            "hu": [
+              "Feltétlenül viseljen csúszásmentes cipőt a macskakövek miatt.",
+              "Az esernyő a heves szélben gyakran haszontalan; hozzon esőkabátot.",
+              "Záporok idején keressen menedéket a kis kávézókban.",
+              "A templomok kőpadlója hűvös és nyirkos lehet.",
+              "Erice ködje híres, misztikus hangulatot kölcsönöz a városnak."
+            ],
+            "ro": [
+              "Purtați neapărat încălțăminte antiderapantă pentru pietrele cubice.",
+              "Umbrelele sunt adesea inutile din cauza vântului puternic; luați o pelerină.",
+              "Căutați adăpost în micile cafenele în timpul averselor.",
+              "Podelele din piatră din biserici pot fi reci și umede.",
+              "Ceața din Erice este faimoasă și oferă o atmosferă mistică."
+            ],
+            "en": [
+              "Make sure to wear non-slip shoes for the cobblestones.",
+              "Umbrellas are often useless due to strong winds; bring a raincoat.",
+              "Seek shelter in the small cafes during showers.",
+              "Stone floors in churches can be cool and damp.",
+              "The fog in Erice is famous and gives the town a mystical atmosphere."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt an der Porta Trapani und dem Dom. Zur Mittagszeit wärmen Sie sich im Museum und mit süßen Leckereien auf. Ein belebender Nachmittagsspaziergang führt zum Spanischen Viertel. Den frühen winterlichen Sonnenuntergang erleben Sie am Schloss der Venus.",
+            "hu": "A csípős téli reggel a Porta Trapani-nál indul. Délben a múzeumban és a cukrászdában melegedhet fel. Délutáni frissítő séta vezet a Spanyol Negyedhez. A korai téli naplementét a Vénusz-várnál csodálhatja meg.",
+            "ro": "O dimineață de iarnă geroasă începe la Porta Trapani. La prânz vă încălziți la muzeu și cu dulciuri locale. O plimbare revigorantă de după-amiază duce la Cartierul Spaniol. Apusul timpuriu de iarnă este admirat la Castelul lui Venus.",
+            "en": "A crisp winter morning starts at Porta Trapani and the Duomo. At noon, warm up in the museum and with sweet treats. A bracing afternoon walk leads to the Spanish Quarter. The early winter sunset is experienced at the Castle of Venus."
+          },
+          "stops": [
+            {
+              "name": "Porta Trapani",
+              "tip_5lang": {
+                "de": "Im Winter oft angenehm leer und ruhig.",
+                "hu": "Télen gyakran kellemesen üres és csendes.",
+                "ro": "Adesea plăcut de gol și liniștit iarna.",
+                "en": "Often pleasantly empty and quiet in winter."
+              }
+            },
+            {
+              "name": "Real Duomo of Erice",
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die winterliche Kälte.",
+                "hu": "A vastag falak megtartják a téli hideget.",
+                "ro": "Zidurile groase păstrează frigul iernii.",
+                "en": "The thick walls retain the winter cold."
+              }
+            },
+            {
+              "name": "Cordici Municipal Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um die Geschichte zu studieren.",
+                "hu": "Meleg hely a történelem tanulmányozására.",
+                "ro": "Un loc cald pentru a studia istoria.",
+                "en": "A warm place to study history."
+              }
+            },
+            {
+              "name": "Maria Grammatico Pastry",
+              "tip_5lang": {
+                "de": "Genießen Sie typisches Wintergebäck.",
+                "hu": "Kóstolja meg a tipikus téli süteményeket.",
+                "ro": "Bucurați-vă de produse de patiserie tipice de iarnă.",
+                "en": "Enjoy typical winter pastries."
+              }
+            },
+            {
+              "name": "Spanish Quarter",
+              "tip_5lang": {
+                "de": "Der Wind kann hier oben eisig sein.",
+                "hu": "A szél itt fent jeges lehet.",
+                "ro": "Vântul poate fi înghețat aici sus.",
+                "en": "The wind can be icy up here."
+              }
+            },
+            {
+              "name": "Castle of Venus",
+              "tip_5lang": {
+                "de": "Perfekter Ort für den frühen Sonnenuntergang (gegen 17:00).",
+                "hu": "Tökéletes hely a korai naplementéhez (17:00 körül).",
+                "ro": "Loc perfect pentru apusul timpuriu (în jur de 17:00).",
+                "en": "Perfect spot for the early sunset (around 17:00)."
+              }
+            },
+            {
+              "name": "Balio Gardens",
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten eine mystische Atmosphäre.",
+                "hu": "A kopasz fák misztikus hangulatot árasztanak.",
+                "ro": "Copacii goi oferă o atmosferă mistică.",
+                "en": "The bare trees offer a mystical atmosphere."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ziehen Sie sich in Schichten an, der Wind auf dem Berg ist sehr kalt.",
+              "Prüfen Sie die Öffnungszeiten; einige Geschäfte schließen im Winter früher.",
+              "Genießen Sie die Ruhe einer fast touristenfreien Stadt.",
+              "Die Sonne geht bereits gegen 17:00 Uhr unter; planen Sie Ihre Route entsprechend.",
+              "Warme Getränke zwischendurch helfen gegen die feuchte Kälte."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, a hegyen a szél nagyon hideg.",
+              "Ellenőrizze a nyitvatartást; egyes üzletek télen korábban zárnak.",
+              "Élvezze a szinte turistamentes város nyugalmát.",
+              "A nap már 17:00 körül lemegy; tervezze meg útvonalát ennek megfelelően.",
+              "A köztes meleg italok segítenek a nedves hideg ellen."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, vântul pe munte este foarte rece.",
+              "Verificați programul; unele magazine se închid mai devreme iarna.",
+              "Bucurați-vă de liniștea unui oraș aproape fără turiști.",
+              "Soarele apune în jur de 17:00; planificați-vă traseul corespunzător.",
+              "Băuturile calde vă ajută să faceți față frigului umed."
+            ],
+            "en": [
+              "Dress in layers, the wind on the mountain is very cold.",
+              "Check opening hours; some shops close earlier in winter.",
+              "Enjoy the peace of an almost tourist-free town.",
+              "The sun sets around 17:00; plan your route accordingly.",
+              "Warm drinks in between help against the damp cold."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -530,6 +954,366 @@
           "Follow the outer wall ring for flatter sections.",
           "Watch out for hikers in the narrow alleys."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Das Radfahren in Erice erfordert Kraft, aber der Rundweg entlang der alten Mauern bietet unglaubliche Ausblicke. Besuchen Sie die Torretta Pepoli und das Venus-Schloss, bevor Sie im ehemaligen Dominikanerkloster, das heute ein weltberühmtes Wissenschaftszentrum ist, etwas über die moderne Geschichte der Stadt erfahren.",
+            "hu": "A kerékpározás Ericében erőt igényel, de az ősi falak menti körút hihetetlen kilátást nyújt. Látogassa meg a Pepoli-tornyot és a Vénusz-kastélyt, mielőtt a volt domonkos kolostorban – ma világhírű tudományos központ – megismerné a város modern történelmét.",
+            "ro": "Ciclismul în Erice necesită forță, dar traseul de-a lungul zidurilor antice oferă priveliști incredibile. Vizitați Torretta Pepoli și Castelul lui Venus înainte de a învăța despre istoria modernă a orașului la fosta mănăstire dominicană, acum un centru științific renumit.",
+            "en": "Cycling in Erice requires strength, but the loop along the ancient walls offers incredible views. Visit Torretta Pepoli and the Castle of Venus before learning about the city's modern history at the former Dominican convent, now a world-renowned scientific center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mura Elimo-Puniche",
+                "hu": "Elimo-pun falak",
+                "ro": "Zidurile Elimo-Punice",
+                "en": "Elimo-Punic Walls"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie entlang der antiken Stadtmauern.",
+                "hu": "Tekerjen végig az ősi városfalak mentén.",
+                "ro": "Pedalați de-a lungul zidurilor antice ale orașului.",
+                "en": "Cycle along the ancient city walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta Trapani",
+                "hu": "Trapani-kapu",
+                "ro": "Poarta Trapani",
+                "en": "Porta Trapani"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad hier ab, um das Zentrum zu erkunden.",
+                "hu": "Itt tegye le a biciklit a központ felfedezéséhez.",
+                "ro": "Lăsați bicicleta aici pentru a explora centrul.",
+                "en": "Leave your bike here to explore the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Torretta Pepoli",
+                "hu": "Pepoli-torony",
+                "ro": "Torretta Pepoli",
+                "en": "Torretta Pepoli"
+              },
+              "tip_5lang": {
+                "de": "Ein Jugendstil-Juwel auf den Felsen.",
+                "hu": "Szecessziós ékszerdoboz a sziklákon.",
+                "ro": "O bijuterie Art Nouveau pe stânci.",
+                "en": "An Art Nouveau gem on the cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Venere",
+                "hu": "Vénusz-kastély",
+                "ro": "Castelul lui Venus",
+                "en": "Castle of Venus"
+              },
+              "tip_5lang": {
+                "de": "Die spektakulärste Aussicht von Erice.",
+                "hu": "Erice leglátványosabb kilátása.",
+                "ro": "Cea mai spectaculoasă vedere din Erice.",
+                "en": "The most spectacular view in Erice."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento di San Domenico",
+                "hu": "Szent Domonkos-kolostor",
+                "ro": "Mănăstirea San Domenico",
+                "en": "Convent of San Domenico"
+              },
+              "tip_5lang": {
+                "de": "Wissenschaftliches Zentrum Ettore Majorana.",
+                "hu": "Ettore Majorana Tudományos Központ.",
+                "ro": "Centrul științific Ettore Majorana.",
+                "en": "Ettore Majorana Scientific Center."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Couscous di Pesce",
+                "tip": "Trapani-Style Fisch-Couscous."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Couscous di Pesce",
+                "tip": "Trapani stílusú halas kuszkusz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Couscous di Pesce",
+                "tip": "Couscous cu pește în stil Trapani."
+              }
+            ],
+            "en": [
+              {
+                "name": "Couscous di Pesce",
+                "tip": "Trapani-style fish couscous."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Torretta Pepoli Pfade",
+                "tip": "Ruhige Wege unterhalb des Turms.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pepoli-torony ösvényei",
+                "tip": "Csendes utak a torony alatt.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Potecile Torretta Pepoli",
+                "tip": "Căi liniștite sub turn.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Torretta Pepoli paths",
+                "tip": "Quiet paths below the tower.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Keramikgeschäfte",
+                "tip": "Handbemalte sizilianische Muster."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kerámiaboltok",
+                "tip": "Kézzel festett szicíliai minták."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazine de ceramică",
+                "tip": "Modele siciliene pictate manual."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ceramic shops",
+                "tip": "Hand-painted Sicilian patterns."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Pflastersteine können bei Nebel sehr rutschig sein.",
+              "Ein E-Bike ist für Erice sehr zu empfehlen.",
+              "Folgen Sie dem äußeren Mauerring für flachere Abschnitte.",
+              "Achten Sie auf Wanderer in den engen Gassen."
+            ],
+            "hu": [
+              "A kövek ködben nagyon csúszósak lehetnek.",
+              "E-bike erősen ajánlott Ericéhez.",
+              "Kövesse a külső falgyűrűt a laposabb szakaszokért.",
+              "Ügyeljen a gyalogosokra a szűk utcákban."
+            ],
+            "ro": [
+              "Pietrele pot fi foarte alunecoase pe ceață.",
+              "O bicicletă electrică este foarte recomandată pentru Erice.",
+              "Urmați inelul exterior al zidurilor pentru secțiuni mai plane.",
+              "Atenție la pietoni pe străzile înguste."
+            ],
+            "en": [
+              "The stones can be very slippery in the mist.",
+              "An e-bike is highly recommended for Erice.",
+              "Follow the outer wall ring for flatter sections.",
+              "Watch out for hikers in the narrow alleys."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt entlang der elimo-punischen Mauern prägt den Morgen. Mittags suchen Sie Schutz bei der Torretta Pepoli. Am Nachmittag radeln Sie vorsichtig im Regen zum Schloss der Venus. Den Tag lassen Sie bei der Erkundung des San Domenico Klosters ausklingen.",
+            "hu": "Nedves tekerés a pun falak mentén a reggeli órákban. Délben a Torretta Pepoli ad menedéket a záporok elől. Délután óvatosan biciklizik az esőben a Vénusz-várhoz. A napot a San Domenico kolostor zárt tereiben zárja.",
+            "ro": "O plimbare umedă de-a lungul zidurilor elimiene marchează dimineața. La prânz căutați adăpost la Torretta Pepoli. După-amiaza pedalați cu grijă pe ploaie spre Castelul lui Venus. Ziua se încheie cu explorarea mănăstirii San Domenico.",
+            "en": "A wet ride along the Elimo-Punic Walls shapes the morning. At noon, seek shelter at Torretta Pepoli. In the afternoon, carefully cycle in the rain to the Castle of Venus. End the day exploring the indoor spaces of the San Domenico Convent."
+          },
+          "stops": [
+            {
+              "name": "Elimo-Punic Walls",
+              "tip_5lang": {
+                "de": "Auf dem nassen Boden das Fahrrad lieber schieben.",
+                "hu": "A nedves talajon inkább tolja a kerékpárt.",
+                "ro": "Pe pământul ud, mai bine împingeți bicicleta.",
+                "en": "Better push the bike on the wet ground."
+              }
+            },
+            {
+              "name": "Porta Trapani",
+              "tip_5lang": {
+                "de": "Das Pflaster am Tor ist extrem rutschig.",
+                "hu": "A kapunál a burkolat rendkívül csúszós.",
+                "ro": "Pavajul de la poartă este extrem de alunecos.",
+                "en": "The pavement at the gate is extremely slippery."
+              }
+            },
+            {
+              "name": "Torretta Pepoli",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Regenkleidung auszuschütteln.",
+                "hu": "Jó hely az esőkabát lerázására.",
+                "ro": "Un loc bun pentru a scutura hainele de ploaie.",
+                "en": "A good place to shake off rain gear."
+              }
+            },
+            {
+              "name": "Castle of Venus",
+              "tip_5lang": {
+                "de": "Seitenwind beim Radfahren beachten.",
+                "hu": "Ügyeljen az oldalszélre kerékpározás közben.",
+                "ro": "Atenție la vântul lateral când pedalați.",
+                "en": "Watch out for crosswinds while cycling."
+              }
+            },
+            {
+              "name": "Convent of San Domenico",
+              "tip_5lang": {
+                "de": "Trockener Ort für eine ausgedehnte Pause.",
+                "hu": "Száraz hely egy hosszabb pihenőre.",
+                "ro": "Loc uscat pentru o pauză prelungită.",
+                "en": "Dry place for an extended break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Das Kopfsteinpflaster von Erice ist bei Nässe wie Eis; fahren Sie extrem vorsichtig.",
+              "Senken Sie den Reifendruck leicht, um mehr Grip zu haben.",
+              "Wasserdichte Packtaschen sind unerlässlich für elektronische Geräte.",
+              "Tragen Sie gut sichtbare Kleidung, da der Nebel die Sicht stark einschränkt.",
+              "Schieben Sie das Fahrrad in den engen, steilen Gassen."
+            ],
+            "hu": [
+              "Erice macskakövei nedvesen nagyon csúszósak; vezessen rendkívül óvatosan.",
+              "Enyhén csökkentse a guminyomást a jobb tapadás érdekében.",
+              "A vízálló táskák elengedhetetlenek az elektronikus eszközökhöz.",
+              "Viseljen jól látható ruházatot, mivel a köd erősen korlátozza a látási viszonyokat.",
+              "A szűk, meredek utcákban tolja a kerékpárt."
+            ],
+            "ro": [
+              "Piatra cubică din Erice este foarte alunecoasă la umezeală; conduceți cu grijă.",
+              "Scădeți ușor presiunea în anvelope pentru mai multă aderență.",
+              "Gențile impermeabile sunt esențiale pentru dispozitivele electronice.",
+              "Purtați haine vizibile, deoarece ceața reduce mult vizibilitatea.",
+              "Împingeți bicicleta pe străzile înguste și abrupte."
+            ],
+            "en": [
+              "Erice's cobblestones are like ice when wet; ride with extreme caution.",
+              "Slightly lower the tire pressure for more grip.",
+              "Waterproof panniers are essential for electronic devices.",
+              "Wear high-visibility clothing as fog severely limits visibility.",
+              "Push the bike in the narrow, steep streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine kühle Winterfahrt führt morgens zu den alten Stadtmauern. Gegen Mittag bewundern Sie die klare Aussicht bei der Torretta Pepoli. Der Nachmittag bringt eine frische Fahrt zum Schloss der Venus. Am Ende wärmen Sie sich bei der Besichtigung des Klosters auf.",
+            "hu": "Hűvös téli tekerés vezet reggel az ősi városfalakhoz. Délben a Torretta Pepolinál csodálja a tiszta kilátást. A délután friss kerékpározást hoz a Vénusz-várhoz. Végül a kolostor megtekintése közben melegszik fel.",
+            "ro": "O cursă răcoroasă de iarnă duce dimineața la vechile ziduri. La prânz admirați vederea clară de la Torretta Pepoli. După-amiaza aduce o pedalare proaspătă spre Castelul lui Venus. La final vă încălziți vizitând mănăstirea.",
+            "en": "A cool winter ride leads to the ancient city walls in the morning. At noon, admire the clear view at Torretta Pepoli. The afternoon brings a brisk ride to the Castle of Venus. Finally, warm up while touring the convent."
+          },
+          "stops": [
+            {
+              "name": "Elimo-Punic Walls",
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier im Winter besonders stark.",
+                "hu": "A szél itt télen különösen erősen fúj.",
+                "ro": "Vântul bate deosebit de tare aici iarna.",
+                "en": "The wind howls particularly strongly here in winter."
+              }
+            },
+            {
+              "name": "Porta Trapani",
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Raureif-Stellen am Morgen.",
+                "hu": "Vigyázzon a reggeli zúzmarás részekre.",
+                "ro": "Atenție la posibile pete de chiciură dimineața.",
+                "en": "Watch out for possible hoarfrost spots in the morning."
+              }
+            },
+            {
+              "name": "Torretta Pepoli",
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter oft kristallklar.",
+                "hu": "A távoli kilátás télen gyakran kristálytiszta.",
+                "ro": "Vizibilitatea este adesea extrem de clară iarna.",
+                "en": "The distant view is often crystal clear in winter."
+              }
+            },
+            {
+              "name": "Castle of Venus",
+              "tip_5lang": {
+                "de": "Der Abstieg danach wird schnell kalt, ziehen Sie sich warm an.",
+                "hu": "Az ereszkedés ezután gyorsan lehűl, öltözzön melegen.",
+                "ro": "Coborârea după aceea devine rece rapid, îmbrăcați-vă gros.",
+                "en": "The descent afterwards gets cold quickly, dress warmly."
+              }
+            },
+            {
+              "name": "Convent of San Domenico",
+              "tip_5lang": {
+                "de": "Ein ruhiger Abschluss vor dem frühen Einbruch der Dunkelheit.",
+                "hu": "Csendes lezárás a korai sötétedés előtt.",
+                "ro": "Un final liniștit înainte de lăsarea timpurie a întunericului.",
+                "en": "A quiet finish before early nightfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe sind bei den Abfahrten unerlässlich.",
+              "Achten Sie in schattigen Gassen auf morgendliches Glatteis.",
+              "Die Straßen sind im Winter leerer, was das Radfahren entspannter macht.",
+              "Planen Sie das Ende der Tour vor 16:30 Uhr, um der Dunkelheit zuvorzukommen.",
+              "Ein Thermosflasche mit heißem Tee gibt Energie für den kalten Wind."
+            ],
+            "hu": [
+              "A szélálló kesztyű elengedhetetlen a lejtőkön.",
+              "Az árnyékos utcákban ügyeljen a reggeli jégre.",
+              "Az utak télen üresebbek, ami nyugodtabb kerékpározást biztosít.",
+              "Tervezze a túra végét 16:30 elé, hogy megelőzze a sötétedést.",
+              "Egy termosz forró tea energiát ad a hideg szélben."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt sunt esențiale pe coborâri.",
+              "Atenție la gheața de dimineață pe străduțele umbrite.",
+              "Străzile sunt mai goale iarna, făcând pedalatul mai relaxant.",
+              "Planificați sfârșitul turului înainte de 16:30 pentru a evita întunericul.",
+              "Un termos cu ceai fierbinte dă energie împotriva vântului rece."
+            ],
+            "en": [
+              "Windproof gloves are essential for the descents.",
+              "Watch out for morning ice in shaded alleys.",
+              "The streets are emptier in winter, making cycling more relaxed.",
+              "Plan to end the tour before 16:30 to beat the darkness.",
+              "A thermos of hot tea provides energy against the cold wind."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -769,6 +1553,366 @@
           "Park in Erice at the Porta Trapani parking lot.",
           "Insect repellent is advisable near the salt pans."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Verbinden Sie den Charme von Erice mit der industriellen Schönheit der Salinen von Trapani. Nach der Erkundung des Schlosses und des Doms fahren Sie hinunter an die Küste, um die Windmühlen und das rosa Licht auf den Salzbecken zu sehen. Ein Besuch im Sómúzeum rundet diesen Tag voller Kontraste zwischen Berg und Meer ab.",
+            "hu": "Kombinálja Erice báját a trapani sólepárlók ipari szépségével. A kastély és a dóm felfedezése után autózzon le a partra, hogy megnézze a szélmalmokat és a sómedencék rózsaszín fényeit. A Sómúzeum meglátogatása teszi teljessé ezt a hegy és tenger közötti kontrasztos napot.",
+            "ro": "Combinați farmecul Ericei cu frumusețea industrială a salinelor din Trapani. După explorarea castelului și a catedralei, coborâți spre coastă pentru a vedea morile de vânt și lumina roz de pe bazinele de sare. O vizită la Muzeul Sării completează această zi plină de contraste între munte și mare.",
+            "en": "Combine Erice's charm with the industrial beauty of the Trapani salt pans. After exploring the castle and cathedral, drive down to the coast to see the windmills and the pink light on the salt ponds. A visit to the Salt Museum completes this day of contrasts between mountain and sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello di Venere",
+                "hu": "Vénusz-kastély",
+                "ro": "Castelul lui Venus",
+                "en": "Castle of Venus"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am großen Parkplatz vor dem Tor.",
+                "hu": "Parkoljon a kapu előtti nagy parkolóban.",
+                "ro": "Parcați în parcarea mare de dinaintea porții.",
+                "en": "Park at the large lot before the gate."
+              }
+            },
+            {
+              "name": {
+                "de": "Real Duomo di Erice",
+                "hu": "Ericei dóm",
+                "ro": "Catedrala din Erice",
+                "en": "Real Duomo of Erice"
+              },
+              "tip_5lang": {
+                "de": "Ein prächtiges Beispiel gotischer Architektur.",
+                "hu": "A gótikus építészet pompás példája.",
+                "ro": "Un exemplu magnific de arhitectură gotică.",
+                "en": "A magnificent example of Gothic architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Saline di Trapani",
+                "hu": "Trapani sólepárlók",
+                "ro": "Salinele din Trapani",
+                "en": "Trapani Salt Pans"
+              },
+              "tip_5lang": {
+                "de": "Historische Windmühlen und Salzhügel.",
+                "hu": "Történelmi szélmalmok és sóhalmok.",
+                "ro": "Mori de vânt istorice și mormane de sare.",
+                "en": "Historic windmills and salt mounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Sale",
+                "hu": "Sómúzeum",
+                "ro": "Muzeul Sării",
+                "en": "Salt Museum"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie, wie seit Jahrhunderten Salz gewonnen wird.",
+                "hu": "Tudja meg, hogyan nyerik a sót évszázadok óta.",
+                "ro": "Aflați cum este extrasă sarea de secole.",
+                "en": "Learn how salt has been harvested for centuries."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta Trapani",
+                "hu": "Trapani-kapu",
+                "ro": "Poarta Trapani",
+                "en": "Porta Trapani"
+              },
+              "tip_5lang": {
+                "de": "Letzter Spaziergang durch die Gassen.",
+                "hu": "Utolsó séta a sikátorokban.",
+                "ro": "Ultima plimbare prin străduțe.",
+                "en": "Final stroll through the alleys."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Busiate al Pesto Trapanese",
+                "tip": "Pasta mit Tomaten, Knoblauch und Mandeln."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Busiate al Pesto Trapanese",
+                "tip": "Tészta paradicsommal, fokhagymával és mandulával."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Busiate al Pesto Trapanese",
+                "tip": "Paste cu roșii, usturoi și migdale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Busiate al Pesto Trapanese",
+                "tip": "Pasta with tomatoes, garlic, and almonds."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Salinen bei Sonnenuntergang",
+                "tip": "Rosa Licht auf den Becken.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sólepárlók naplementekor",
+                "tip": "Rózsaszín fény a medencéken.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Salinele la apus",
+                "tip": "Lumină roz pe bazine.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Salt pans at sunset",
+                "tip": "Pink light on the ponds.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Sale Marino",
+                "tip": "Hochwertiges Meersalz aus Trapani."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sale Marino",
+                "tip": "Kiváló minőségű trapani tengeri só."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sale Marino",
+                "tip": "Sare de mare de înaltă calitate din Trapani."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sale Marino",
+                "tip": "High-quality sea salt from Trapani."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straße nach Erice hat viele Serpentinen, fahren Sie langsam.",
+              "Besuchen Sie die Salinen am späten Nachmittag für das beste Licht.",
+              "Parken Sie in Erice auf dem Parkplatz Porta Trapani.",
+              "Mückenschutz ist in der Nähe der Salinen ratsam."
+            ],
+            "hu": [
+              "Az Erice felé vezető út szerpentines, vezessen lassan.",
+              "A sólepárlókat késő délután látogassa a legjobb fényekért.",
+              "Ericében a Porta Trapani parkolóban álljon meg.",
+              "A sólepárlók közelében szúnyogriasztó ajánlott."
+            ],
+            "ro": [
+              "Drumul spre Erice are multe serpentine, conduceți încet.",
+              "Vizitați salinele după-amiaza târziu pentru cea mai bună lumină.",
+              "Parcați în Erice în parcarea Porta Trapani.",
+              "Repelentul de insecte este recomandat lângă saline."
+            ],
+            "en": [
+              "The road to Erice has many serpentines, drive slowly.",
+              "Visit the salt pans in the late afternoon for the best light.",
+              "Park in Erice at the Porta Trapani parking lot.",
+              "Insect repellent is advisable near the salt pans."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine neblige Fahrt bringt Sie morgens zum Schloss der Venus. Am Mittag weichen Sie dem Regen durch die Fahrt an die Küste zu den Salinen aus. Den nassen Nachmittag verbringen Sie im Salzmuseum. Der Abend endet mit der Rückfahrt zur Porta Trapani im Nieselregen.",
+            "hu": "Ködös autózás viszi reggel a Vénusz-várhoz. Délben az eső elől a partra, a sólepárlókhoz menekül. A nedves délutánt a Sómúzeumban tölti. Az este a Porta Trapani-hoz való visszatéréssel zárul szitáló esőben.",
+            "ro": "O cursă cețoasă vă duce dimineața la Castelul lui Venus. La prânz evitați ploaia coborând la salinele de pe coastă. După-amiaza umedă o petreceți în Muzeul Sării. Seara se termină cu întoarcerea la Porta Trapani pe burniță.",
+            "en": "A foggy drive brings you to the Castle of Venus in the morning. At noon, evade the rain by driving down to the coastal salt pans. Spend the wet afternoon in the Salt Museum. The evening ends returning to Porta Trapani in the drizzle."
+          },
+          "stops": [
+            {
+              "name": "Castle of Venus",
+              "tip_5lang": {
+                "de": "Parken Sie außerhalb und laufen Sie das kurze Stück.",
+                "hu": "Parkoljon kívül, és sétálja le a rövid távot.",
+                "ro": "Parcați afară și mergeți pe jos distanța scurtă.",
+                "en": "Park outside and walk the short distance."
+              }
+            },
+            {
+              "name": "Real Duomo of Erice",
+              "tip_5lang": {
+                "de": "Der Parkplatz in der Nähe ist bei Regen oft matschig.",
+                "hu": "A közeli parkoló esőben gyakran sáros.",
+                "ro": "Parcarea din apropiere este adesea noroioasă pe ploaie.",
+                "en": "The nearby parking lot is often muddy in the rain."
+              }
+            },
+            {
+              "name": "Trapani Salt Pans",
+              "tip_5lang": {
+                "de": "Im Regen spiegeln sich die grauen Wolken in den Becken.",
+                "hu": "Esőben a szürke felhők tükröződnek a medencékben.",
+                "ro": "Pe ploaie, norii gri se reflectă în bazine.",
+                "en": "In the rain, gray clouds reflect in the pools."
+              }
+            },
+            {
+              "name": "Salt Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist die beste Flucht vor Küstenstürmen.",
+                "hu": "A múzeum a legjobb menedék a parti viharok elől.",
+                "ro": "Muzeul este cel mai bun refugiu din calea furtunilor.",
+                "en": "The museum is the best escape from coastal storms."
+              }
+            },
+            {
+              "name": "Porta Trapani",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger, die Regenschirme tragen.",
+                "hu": "Ügyeljen az esernyős gyalogosokra.",
+                "ro": "Atenție la pietonii care poartă umbrele.",
+                "en": "Watch out for pedestrians carrying umbrellas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bergstraße nach Erice kann bei Regen extrem neblig sein; Nebelscheinwerfer einschalten.",
+              "Fahren Sie niemals in die historischen Gassen von Erice ein, sie sind rutschig und eng.",
+              "Auf den Küstenstraßen bei Trapani kann sich bei Starkregen Wasser stauen.",
+              "Halten Sie nasse Regenschirme im Kofferraum, um beschlagene Scheiben zu vermeiden.",
+              "Prüfen Sie vorab, ob das Salzmuseum bei schlechtem Wetter regulär geöffnet ist."
+            ],
+            "hu": [
+              "A hegyi út Erice felé esőben ködös lehet; kapcsolja be a ködlámpát.",
+              "Soha ne hajtson be Erice történelmi utcáira, csúszósak és szűkek.",
+              "Trapani tengerparti útjain heves esőzéskor felgyűlhet a víz.",
+              "A nedves esernyőket tartsa a csomagtartóban, hogy elkerülje az ablakok párásodását.",
+              "Ellenőrizze, hogy a Sómúzeum rossz idő esetén is rendesen nyitva van-e."
+            ],
+            "ro": [
+              "Drumul montan spre Erice poate fi foarte cețos pe ploaie; folosiți farurile de ceață.",
+              "Nu conduceți pe străzile istorice din Erice, sunt alunecoase și înguste.",
+              "Pe drumurile de coastă de lângă Trapani se poate acumula apă la ploi abundente.",
+              "Păstrați umbrelele ude în portbagaj pentru a evita aburirea geamurilor.",
+              "Verificați dacă Muzeul Sării are program normal pe vreme rea."
+            ],
+            "en": [
+              "The mountain road to Erice can be very foggy in rain; use fog lights.",
+              "Never drive into the historic streets of Erice, they are slippery and narrow.",
+              "Water can pool on the coastal roads near Trapani during heavy rain.",
+              "Keep wet umbrellas in the trunk to prevent foggy windows.",
+              "Check if the Salt Museum is open regularly during bad weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine malerische Winterfahrt führt am Morgen zum Schloss der Venus. Mittags geht es hinab an die Küste zu den historischen Salinen. Der Nachmittag wird warm im Salzmuseum verbracht. Sie kehren zur Porta Trapani zurück, wenn die winterliche Dunkelheit hereinbricht.",
+            "hu": "Festői téli autózás vezet reggel a Vénusz-várhoz. Délben leereszkedik a partra a történelmi sólepárlókhoz. A délutánt melegben, a Sómúzeumban tölti. A téli sötétség beálltával tér vissza a Porta Trapani-hoz.",
+            "ro": "O călătorie pitorească de iarnă duce dimineața la Castelul lui Venus. La prânz coborâți pe coastă la salinele istorice. După-amiaza este petrecută la căldură în Muzeul Sării. Vă întoarceți la Porta Trapani la lăsarea întunericului de iarnă.",
+            "en": "A picturesque winter drive leads to the Castle of Venus in the morning. At noon, head down to the coast to the historic salt pans. Spend a warm afternoon in the Salt Museum. Return to Porta Trapani as winter darkness sets in."
+          },
+          "stops": [
+            {
+              "name": "Castle of Venus",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter meistens leer.",
+                "hu": "A parkoló télen legtöbbször üres.",
+                "ro": "Parcarea este în mare parte goală iarna.",
+                "en": "The parking lot is mostly empty in winter."
+              }
+            },
+            {
+              "name": "Real Duomo of Erice",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg vom Auto durch die kalte Luft.",
+                "hu": "Rövid séta az autótól a hideg levegőn át.",
+                "ro": "O scurtă plimbare de la mașină prin aerul rece.",
+                "en": "A short walk from the car through the cold air."
+              }
+            },
+            {
+              "name": "Trapani Salt Pans",
+              "tip_5lang": {
+                "de": "Im Winter rasten hier oft besondere Zugvögel.",
+                "hu": "Télen gyakran különleges költöző madarak pihennek itt.",
+                "ro": "Păsări migratoare speciale se odihnesc aici iarna.",
+                "en": "Special migratory birds often rest here in winter."
+              }
+            },
+            {
+              "name": "Salt Museum",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Stopp abseits des kalten Meereswindes.",
+                "hu": "Hangulatos megálló a hideg tengeri szél elől.",
+                "ro": "O oprire confortabilă departe de vântul rece al mării.",
+                "en": "A cozy stop away from the cold sea wind."
+              }
+            },
+            {
+              "name": "Porta Trapani",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung ist im Winter besonders schön.",
+                "hu": "Az esti kivilágítás télen különösen szép.",
+                "ro": "Iluminatul de seară este deosebit de frumos iarna.",
+                "en": "The evening lighting is particularly beautiful in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In den tiefsten Wintermonaten kann es auf der Straße nach Erice vereiste Stellen geben.",
+              "Die Parkgebühren sind in der Nebensaison oft günstiger oder entfallen.",
+              "Nehmen Sie warme Kleidung mit, da der Temperaturunterschied zur Küste groß ist.",
+              "Die Sonne geht früh unter; planen Sie die Fahrt auf der Bergstraße vor Einbruch der Dunkelheit.",
+              "Genießen Sie die freie Fahrt auf den sonst überfüllten Straßen der Region."
+            ],
+            "hu": [
+              "A legmélyebb téli hónapokban jeges foltok lehetnek az Erice felé vezető úton.",
+              "A parkolási díjak utószezonban gyakran alacsonyabbak vagy ingyenesek.",
+              "Vigyen meleg ruhát, mivel a parthoz képest nagy a hőmérséklet-különbség.",
+              "A nap korán nyugszik; tervezze a hegyi utat sötétedés előttre.",
+              "Élvezze a szabad utat a régió egyébként zsúfolt útjain."
+            ],
+            "ro": [
+              "În lunile adânci de iarnă pot exista porțiuni înghețate pe drumul spre Erice.",
+              "Taxele de parcare sunt adesea mai mici sau inexistente în extrasezon.",
+              "Luați haine călduroase, deoarece diferența de temperatură față de coastă este mare.",
+              "Soarele apune devreme; planificați coborârea înainte de lăsarea întunericului.",
+              "Bucurați-vă de drumul liber pe străzile altfel aglomerate din regiune."
+            ],
+            "en": [
+              "In deep winter months, there might be icy patches on the road to Erice.",
+              "Parking fees are often lower or waived in the off-season.",
+              "Bring warm clothes, as the temperature difference with the coast is large.",
+              "The sun sets early; plan the mountain drive before nightfall.",
+              "Enjoy the open road on the region's otherwise crowded streets."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1008,6 +2152,366 @@
           "There is a bus from Trapani station to the cable car.",
           "The ride takes about 10 minutes."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Die Seilbahn von Trapani bietet einen unvergesslichen Aufstieg mit Blick auf das Meer. Erkunden Sie Erice zu Fuß von der Endstation der Seilbahn aus. Besuchen Sie den Dom und wandern Sie durch die mittelalterliche Stille zum Venusschloss. Bevor Sie mit der Gondel zurückfahren, genießen Sie die frische Luft in den Balio-Gärten.",
+            "hu": "A trapani felvonó felejthetetlen emelkedést kínál kilátással a tengerre. Fedezze fel Ericét gyalog a felvonó végállomásától. Látogassa meg a dómot, és sétáljon át a középkori csenden a Vénusz-kastélyhoz. Mielőtt visszatérne a gondolával, élvezze a friss levegőt a Balio-kertekben.",
+            "ro": "Telecabina din Trapani oferă o urcare de neuitat cu vedere la mare. Explorați Erice pe jos de la stația de telecabină. Vizitați catedrala și mergeți prin liniștea medievală spre Castelul lui Venus. Înainte de a reveni cu gondola, bucurați-vă de aerul curat în Grădinile Balio.",
+            "en": "The cable car from Trapani offers an unforgettable ascent with sea views. Explore Erice on foot from the cable car terminus. Visit the cathedral and walk through the medieval silence to the Castle of Venus. Before heading back down by gondola, enjoy the fresh air in the Balio Gardens."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Funivia Trapani-Erice",
+                "hu": "Trapani-Erice felvonó",
+                "ro": "Telecabina Trapani-Erice",
+                "en": "Trapani-Erice Cable Car"
+              },
+              "tip_5lang": {
+                "de": "Die spektakulärste Art, die Stadt zu erreichen.",
+                "hu": "A leglátványosabb módja a város elérésének.",
+                "ro": "Cea mai spectaculoasă cale de a ajunge în oraș.",
+                "en": "The most spectacular way to reach the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Real Duomo di Erice",
+                "hu": "Ericei dóm",
+                "ro": "Catedrala din Erice",
+                "en": "Real Duomo of Erice"
+              },
+              "tip_5lang": {
+                "de": "Gleich beim Eingang der Stadt.",
+                "hu": "Rögtön a város bejáratánál.",
+                "ro": "Chiar la intrarea în oraș.",
+                "en": "Right at the city entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giovanni Battista",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica San Giovanni Battista",
+                "en": "Church of St. John the Baptist"
+              },
+              "tip_5lang": {
+                "de": "Ruhiger Platz abseits der Hauptwege.",
+                "hu": "Csendes hely távol a főbb útvonalaktól.",
+                "ro": "Loc liniștit departe de traseele principale.",
+                "en": "Quiet spot away from the main routes."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Venere",
+                "hu": "Vénusz-kastély",
+                "ro": "Castelul lui Venus",
+                "en": "Castle of Venus"
+              },
+              "tip_5lang": {
+                "de": "Das Wahrzeichen von Erice.",
+                "hu": "Erice jelképe.",
+                "ro": "Simbolul Ericei.",
+                "en": "The symbol of Erice."
+              }
+            },
+            {
+              "name": {
+                "de": "Giardini del Balio",
+                "hu": "Balio kertek",
+                "ro": "Grădinile Balio",
+                "en": "Balio Gardens"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für ein spätes Mittagspicknick.",
+                "hu": "Tökéletes egy késői ebédhez a szabadban.",
+                "ro": "Perfect pentru un picnic de prânz târziu.",
+                "en": "Perfect for a late lunch picnic."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Cassatella di Erice",
+                "tip": "Frittiertes Gebäck mit Ricottafüllung."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cassatella di Erice",
+                "tip": "Sült tészta ricottás töltelékkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cassatella di Erice",
+                "tip": "Produs de patiserie prăjit cu umplutură de ricotta."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cassatella di Erice",
+                "tip": "Fried pastry filled with ricotta cheese."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kirche San Giovanni",
+                "tip": "Viel weniger überlaufen als das Zentrum.",
+                "emoji": "⛪"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szent János-templom",
+                "tip": "Sokkal kevésbé zsúfolt, mint a központ.",
+                "emoji": "⛪"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Biserica San Giovanni",
+                "tip": "Mult mai puțin aglomerată decât centrul.",
+                "emoji": "⛪"
+              }
+            ],
+            "en": [
+              {
+                "name": "Church of San Giovanni",
+                "tip": "Much less crowded than the center.",
+                "emoji": "⛪"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Dolci di Mandorla",
+                "tip": "Köstliche Mandel-Süßigkeiten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mandulás édességek",
+                "tip": "Finom mandulás sütemények."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Dulciuri cu migdale",
+                "tip": "Dulciuri delicioase cu migdale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Almond sweets",
+                "tip": "Delicious almond-based sweets."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Überprüfen Sie den Betrieb der Seilbahn bei starkem Wind.",
+              "Kaufen Sie ein Hin- und Rückfahrticket für die Seilbahn.",
+              "Vom Bahnhof Trapani gibt es einen Bus zur Seilbahn.",
+              "Die Fahrt dauert ca. 10 Minuten."
+            ],
+            "hu": [
+              "Erős szél esetén ellenőrizze a felvonó üzemelését.",
+              "Vegyen retúrjegyet a felvonóra.",
+              "Trapani vasútállomástól busz jár a felvonóhoz.",
+              "Az út kb. 10 percig tart."
+            ],
+            "ro": [
+              "Verificați funcționarea telecabinei în caz de vânt puternic.",
+              "Cumpărați bilet dus-întors pentru telecabină.",
+              "De la gara Trapani există autobuz spre telecabină.",
+              "Călătoria durează aproximativ 10 minute."
+            ],
+            "en": [
+              "Check cable car operation during high winds.",
+              "Buy a round-trip ticket for the cable car.",
+              "There is a bus from Trapani station to the cable car.",
+              "The ride takes about 10 minutes."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Sie beginnen den Tag mit einer nebligen Fahrt in der Seilbahn. Mittags besichtigen Sie den Dom und die Johanneskirche im Trockenen. Nachmittags wandern Sie im Nieselregen zum Schloss der Venus. Den Tag beenden Sie gemütlich in den Balio-Gärten bei einem Heißgetränk.",
+            "hu": "A napot egy ködös felvonózással kezdi. Délben a Dómot és a Keresztelő Szent János templomot szárazon tekinti meg. Délután szitáló esőben sétál a Vénusz-várhoz. A napot a Balio-kertekben zárja egy forró ital mellett.",
+            "ro": "Începeți ziua cu o urcare cețoasă cu telecabina. La prânz vizitați Domul și Biserica Sfântul Ioan la adăpost. După-amiaza mergeți pe burniță la Castelul lui Venus. Încheiați ziua confortabil în Grădinile Balio cu o băutură caldă.",
+            "en": "Start the day with a foggy cable car ride. At noon, visit the Duomo and the Church of St. John in the dry. In the afternoon, walk in the drizzle to the Castle of Venus. End the day comfortably in the Balio Gardens with a hot drink."
+          },
+          "stops": [
+            {
+              "name": "Trapani-Erice Cable Car",
+              "tip_5lang": {
+                "de": "Die Kabinen sind wetterfest, aber der Ausblick ist grau.",
+                "hu": "A kabinok időjárásállóak, de a kilátás szürke.",
+                "ro": "Cabinele rezistă la intemperii, dar vederea este gri.",
+                "en": "The cabins are weatherproof, but the view is gray."
+              }
+            },
+            {
+              "name": "Real Duomo of Erice",
+              "tip_5lang": {
+                "de": "Ein schützender Ort gleich in der Nähe der Bergstation.",
+                "hu": "Védelmet nyújtó hely közvetlenül a hegyi állomás közelében.",
+                "ro": "Un loc de adăpost chiar lângă stația de pe munte.",
+                "en": "A sheltering place right near the mountain station."
+              }
+            },
+            {
+              "name": "Church of St. John the Baptist",
+              "tip_5lang": {
+                "de": "Ideal, um bei starken Schauern drinnen zu warten.",
+                "hu": "Ideális bent várakozni heves záporok esetén.",
+                "ro": "Ideal pentru a aștepta înăuntru la ploi abundente.",
+                "en": "Ideal for waiting inside during heavy showers."
+              }
+            },
+            {
+              "name": "Castle of Venus",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem unebenen, nassen Gestein.",
+                "hu": "Vigyázat az egyenetlen, nedves sziklákon.",
+                "ro": "Atenție pe stâncile denivelate și umede.",
+                "en": "Caution on the uneven, wet rocks."
+              }
+            },
+            {
+              "name": "Balio Gardens",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Café auf, wenn der Regen zunimmt.",
+                "hu": "Keressen egy kávézót, ha az eső erősödik.",
+                "ro": "Căutați o cafenea dacă ploaia se întețește.",
+                "en": "Seek out a cafe if the rain increases."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bei zu starkem Wind stellt die Seilbahn den Betrieb ein; prüfen Sie dies vorher.",
+              "Alternativ fahren Linienbusse (AST) von Trapani hinauf, die wetterunabhängig sind.",
+              "Nehmen Sie einen kompakten Regenschirm für die kurzen Wege zwischen den Kirchen mit.",
+              "Die Temperaturen fallen auf dem Berg bei Regen stark; warme Jacke nicht vergessen.",
+              "Nutzen Sie die Kirchen als trockene Pausenstationen."
+            ],
+            "hu": [
+              "Túl erős szél esetén a felvonó leáll; ezt ellenőrizze előre.",
+              "Alternatívaként a helyi buszok (AST) is felmennek Trapaniból, az időjárástól függetlenül.",
+              "Vigyen egy kompakt esernyőt a templomok közötti rövid utakra.",
+              "A hőmérséklet esőben erősen visszaesik a hegyen; ne felejtse el a meleg kabátot.",
+              "Használja a templomokat száraz pihenőállomásként."
+            ],
+            "ro": [
+              "În caz de vânt prea puternic, telecabina se oprește; verificați în prealabil.",
+              "Alternativ, autobuzele locale (AST) urcă din Trapani, indiferent de vreme.",
+              "Luați o umbrelă compactă pentru distanțele scurte dintre biserici.",
+              "Temperaturile scad brusc pe munte la ploaie; nu uitați jacheta caldă.",
+              "Folosiți bisericile ca stații de pauză uscate."
+            ],
+            "en": [
+              "In case of too strong wind, the cable car stops operating; check this beforehand.",
+              "Alternatively, local buses (AST) go up from Trapani, regardless of weather.",
+              "Take a compact umbrella for the short walks between the churches.",
+              "Temperatures drop sharply on the mountain in the rain; don't forget a warm jacket.",
+              "Use the churches as dry rest stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Seilbahnfahrt bietet eine kristallklare Wintersicht. Bis zum Mittag besichtigen Sie den Dom und die Kirche St. Johannes in wunderbarer Ruhe. Der Nachmittag am Schloss der Venus belohnt mit fantastischen Panoramen. Bevor es dunkel wird, spazieren Sie durch die winterlichen Balio-Gärten.",
+            "hu": "A reggeli felvonózás kristálytiszta téli kilátást nyújt. Délig a Dómot és a Szent János templomot csodálatos nyugalomban tekinti meg. A délután a Vénusz-várnál fantasztikus panorámával jutalmaz. Sötétedés előtt sétál a téli Balio-kertekben.",
+            "ro": "Cursa matinală cu telecabina oferă o priveliște clară de iarnă. Până la prânz vizitați Domul și Biserica Sf. Ioan într-o liniște minunată. După-amiaza la Castelul lui Venus răsplătește cu panorame fantastice. Înainte să se întunece, vă plimbați prin Grădinile Balio.",
+            "en": "The morning cable car ride offers a crystal clear winter view. Until noon, visit the Duomo and the Church of St. John in wonderful peace. The afternoon at the Castle of Venus rewards with fantastic panoramas. Before it gets dark, walk through the wintery Balio Gardens."
+          },
+          "stops": [
+            {
+              "name": "Trapani-Erice Cable Car",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan (oft eingeschränkte Zeiten).",
+                "hu": "Ellenőrizze a téli menetrendet (gyakran rövidített).",
+                "ro": "Verificați programul de iarnă (adesea ore reduse).",
+                "en": "Check the winter schedule (often reduced hours)."
+              }
+            },
+            {
+              "name": "Real Duomo of Erice",
+              "tip_5lang": {
+                "de": "Gegen Mittag fällt schönes Winterlicht durch die Fenster.",
+                "hu": "Délben gyönyörű téli fény esik be az ablakokon.",
+                "ro": "La prânz, lumina frumoasă de iarnă cade prin ferestre.",
+                "en": "Around noon, beautiful winter light falls through the windows."
+              }
+            },
+            {
+              "name": "Church of St. John the Baptist",
+              "tip_5lang": {
+                "de": "Oft menschenleer und sehr atmosphärisch im Winter.",
+                "hu": "Télen gyakran néptelen és nagyon hangulatos.",
+                "ro": "Adesea pustiu și foarte atmosferic iarna.",
+                "en": "Often deserted and very atmospheric in winter."
+              }
+            },
+            {
+              "name": "Castle of Venus",
+              "tip_5lang": {
+                "de": "Die Fernsicht bis nach Afrika ist im Winter am besten.",
+                "hu": "A távoli kilátás Afrikáig télen a legjobb.",
+                "ro": "Vederea îndepărtată spre Africa este cea mai bună iarna.",
+                "en": "The distant view to Africa is best in winter."
+              }
+            },
+            {
+              "name": "Balio Gardens",
+              "tip_5lang": {
+                "de": "Kühle, frische Luft perfekt für einen zügigen Spaziergang.",
+                "hu": "Hűvös, friss levegő, tökéletes egy gyors sétához.",
+                "ro": "Aer rece și proaspăt, perfect pentru o plimbare rapidă.",
+                "en": "Cool, fresh air perfect for a brisk walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Seilbahn hat im Winter oft abweichende Betriebszeiten und schließt früher.",
+              "Tragen Sie eine Mütze und Schal, die Luft in den Kabinen und auf dem Berg ist eisig.",
+              "Die Stadt ist im Winter wie ausgestorben; bringen Sie bei Bedarf eigene Snacks mit.",
+              "Achten Sie auf die Uhrzeit für die letzte Talfahrt, um nicht oben zu stranden.",
+              "Genießen Sie die unvergleichlich weite Sicht an kalten, klaren Tagen."
+            ],
+            "hu": [
+              "A felvonó télen gyakran eltérő nyitvatartással működik és korábban zár.",
+              "Viseljen sapkát és sálat, a levegő a kabinokban és a hegyen jeges.",
+              "A város télen mintha kihalt volna; szükség esetén hozzon saját nassolnivalót.",
+              "Ügyeljen az utolsó lefelé induló járat idejére, nehogy fent rekedjen.",
+              "Élvezze a páratlanul távoli kilátást a hideg, tiszta napokon."
+            ],
+            "ro": [
+              "Telecabina are adesea program diferit iarna și se închide mai devreme.",
+              "Purtați căciulă și fular, aerul din cabine și de pe munte este înghețat.",
+              "Orașul este parcă pustiu iarna; aduceți propriile gustări dacă este nevoie.",
+              "Atenție la ora ultimei coborâri pentru a nu rămâne blocat sus.",
+              "Bucurați-vă de vederea incomparabil de largă în zilele reci și senine."
+            ],
+            "en": [
+              "The cable car often has different operating hours in winter and closes earlier.",
+              "Wear a hat and scarf, the air in the cabins and on the mountain is icy.",
+              "The town is almost deserted in winter; bring your own snacks if needed.",
+              "Pay attention to the time for the last descent so you don't get stranded at the top.",
+              "Enjoy the incomparably wide view on cold, clear days."
+            ]
+          }
+        }
       }
     }
   },

@@ -290,6 +290,420 @@
           "Water shoes are advisable at Linčarnica beach due to the rocks.",
           "Get water in Sali before heading out to the Sali field."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Sali empfängt Sie mit maritimem Charme am Hafen. Nach kulturellen Einblicken in der Bibliothek und der Marienkirche tauchen Sie ein in die Legende der Eselmusik. Der Nachmittag gehört der Natur: erst die Stille des Sali-Feldes, dann Sonne und Meer am Strand Linčarnica.",
+            "hu": "Sali tengerparti bájjal fogadja a kikötőben. A könyvtárban és a Mária-templomban tett kulturális látogatás után elmerülhetünk a szamárzene legendájában. A délután a természeté: előbb a Sali-mező csendje, majd napfény és tenger a Linčarnica strandon.",
+            "ro": "Sali vă întâmpină cu farmec maritim în port. După incursiunile culturale de la bibliotecă și biserica Sf. Maria, pătrundeți în legenda muzicii de măgari. După-amiaza aparține naturii: mai întâi liniștea câmpului Sali, apoi soare și mare pe plaja Linčarnica.",
+            "en": "Sali welcomes you with maritime charm at the port. After cultural insights at the library and St. Mary's Church, dive into the legend of the donkey music. The afternoon belongs to nature: first the silence of the Sali field, then sun and sea at Linčarnica beach."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Sali",
+              "tip_5lang": {
+                "de": "Beobachten Sie das bunte Treiben der Fischerboote.",
+                "hu": "Figyelje a halászhajók színes forgatagát.",
+                "ro": "Urmăriți agitația colorată a bărcilor de pescuit.",
+                "en": "Watch the colorful bustle of the fishing boats."
+              }
+            },
+            {
+              "name": "Bibliothek und Lesesaal",
+              "tip_5lang": {
+                "de": "Ein kühler Rückzugsort mit Meerblick.",
+                "hu": "Hűvös pihenőhely kilátással a tengerre.",
+                "ro": "Un refugiu răcoros cu vedere la mare.",
+                "en": "A cool retreat with a sea view."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Marien",
+              "tip_5lang": {
+                "de": "Besichtigen Sie den prächtigen Altar und die alten Inschriften.",
+                "hu": "Tekintse meg a pompás oltárt és a régi feliratokat.",
+                "ro": "Vizitați altarul magnific și inscripțiile vechi.",
+                "en": "See the magnificent altar and ancient inscriptions."
+              }
+            },
+            {
+              "name": "Denkmal der Tovareća mužika",
+              "tip_5lang": {
+                "de": "Das Symbol der humorvollen Esel-Musik-Tradition.",
+                "hu": "A humoros szamárzene hagyományának jelképe.",
+                "ro": "Simbolul tradiției umoristice a muzicii de măgari.",
+                "en": "The symbol of the humorous donkey music tradition."
+              }
+            },
+            {
+              "name": "Salisko polje (Sali-Feld)",
+              "tip_5lang": {
+                "de": "Spaziergang durch Jahrhunderte alte Olivenhaine.",
+                "hu": "Séta az évszázados olajfaligetekben.",
+                "ro": "Plimbare prin livezi de măslini vechi de secole.",
+                "en": "Walk through centuries-old olive groves."
+              }
+            },
+            {
+              "name": "Strand Linčarnica",
+              "tip_5lang": {
+                "de": "Genießen Sie das kristallklare Wasser bis zum Abend.",
+                "hu": "Élvezze a kristálytiszta vizet egészen estig.",
+                "ro": "Bucurați-vă de apa cristalină până seara.",
+                "en": "Enjoy the crystal clear water until evening."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Mardešić",
+                "tip": "Besuchen Sie den Laden der lokalen Fischkonservenfabrik."
+              },
+              {
+                "name": "Konoba Marin",
+                "tip": "Frischer Fisch und Tintenfischrisotto."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mardešić",
+                "tip": "Látogassa meg a helyi halkonzervgyár mintaboltját."
+              },
+              {
+                "name": "Konoba Marin",
+                "tip": "Friss hal és tintahalas rizottó."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mardešić",
+                "tip": "Vizitați magazinul fabricii locale de conserve de pește."
+              },
+              {
+                "name": "Konoba Marin",
+                "tip": "Pește proaspăt și risotto cu sepie."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mardešić",
+                "tip": "Visit the shop of the local fish cannery."
+              },
+              {
+                "name": "Konoba Marin",
+                "tip": "Fresh fish and squid risotto."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Uferpromenade",
+                "tip": "Abendlicher Spaziergang bei Sonnenuntergang.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Unter den Olivenbäumen",
+                "tip": "Mittagsschlaf im Sali-Feld.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tengerparti sétány",
+                "tip": "Esti séta naplementekor.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Az olajfák alatt",
+                "tip": "Déli szieszta a Sali-mezőn.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Promenada de pe țărm",
+                "tip": "Plimbare de seară la apus.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Sub măslini",
+                "tip": "Somn de prânz în câmpul Sali.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Waterfront Promenade",
+                "tip": "Evening walk at sunset.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Under the Olives",
+                "tip": "Midday nap in Sali field.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Sali Souvenirs",
+                "tip": "Handgefertigte Keramik."
+              },
+              {
+                "name": "Olivenöl von Sali",
+                "tip": "Direkt bei den Bauern kaufen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sali szuvenírek",
+                "tip": "Kézzel készített kerámiák."
+              },
+              {
+                "name": "Sali olívaolaj",
+                "tip": "Vásároljon közvetlenül a gazdáktól."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Suveniruri Sali",
+                "tip": "Ceramică lucrată manual."
+              },
+              {
+                "name": "Ulei de măsline Sali",
+                "tip": "Cumpărați direct de la producători."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sali Souvenirs",
+                "tip": "Handmade ceramics."
+              },
+              {
+                "name": "Sali Olive Oil",
+                "tip": "Buy directly from the farmers."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Sali ist der größte Ort auf der Insel und sehr lebendig.",
+              "Die Tovareća mužika tritt oft bei Festen im August auf.",
+              "Badeschuhe sind am Strand Linčarnica wegen der Felsen ratsam.",
+              "Besorgen Sie sich Wasser in Sali, bevor Sie zum Sali-Feld aufbrechen."
+            ],
+            "hu": [
+              "Sali a sziget legnagyobb települése és igen élénk.",
+              "A Tovareća mužika (szamárzene) gyakran fellép az augusztusi fesztiválokon.",
+              "A Linčarnica strandon a sziklák miatt javasolt a vízi cipő használata.",
+              "Szerezzen be vizet Saliban, mielőtt elindulna a Sali-mező felé."
+            ],
+            "ro": [
+              "Sali este cea mai mare localitate de pe insulă și foarte plină de viață.",
+              "Muzica de măgari (Tovareća mužika) poate fi auzită la festivalurile din august.",
+              "Se recomandă încălțăminte de apă pe plaja Linčarnica din cauza stâncilor.",
+              "Luați apă din Sali înainte de a pleca spre câmpul Sali."
+            ],
+            "en": [
+              "Sali is the largest town on the island and very lively.",
+              "The Tovareća mužika often performs at festivals in August.",
+              "Water shoes are advisable at Linčarnica beach due to the rocks.",
+              "Get water in Sali before heading out to the Sali field."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Hafen von Sali beginnt unter dem Regenschirm, während die Wellen gegen die Kaimauer peitschen. Mittags bietet die Bibliothek einen gemütlichen Zufluchtsort zwischen Büchern und lokaler Geschichte. Am Nachmittag spazieren wir zur Pfarrkirche und zum Denkmal, wobei die nassen Steine glänzen. Der Abend am Strand Linčarnica ist kurz, aber die raue, regnerische Adria hat ihren ganz eigenen, melancholischen Reiz.",
+            "hu": "A reggel a sali kikötőben esernyő alatt indul, miközben a hullámok a mólónak csapkodnak. Délben a könyvtár nyújt meghitt menedéket a könyvek és a helyi történelem között. Délután a plébániatemplomhoz és az emlékműhöz sétálunk, ahol a vizes kövek fényesen csillognak. Az este a Linčarnica strandon rövid, de az esős, viharos Adria különleges, melankolikus arcát mutatja meg.",
+            "ro": "Dimineața în portul Sali începe sub umbrelă, în timp ce valurile se lovesc de dig. La prânz, biblioteca oferă un refugiu primitor printre cărți și istorie locală. După-amiaza ne plimbăm spre biserica parohială și monument, unde pietrele ude strălucesc. Seara la plaja Linčarnica este scurtă, dar Adria ploioasă are propriul farmec melancolic și sălbatic.",
+            "en": "The morning at Sali harbor begins under an umbrella as waves crash against the pier. At noon, the library provides a cozy refuge among books and local history. In the afternoon, we walk to the parish church and monument, with the wet stones glistening. The evening at Linčarnica beach is brief, but the rainy Adriatic shows a unique, melancholic side of its beauty."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Sali",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Vordächern der Cafés am Wasser.",
+                "hu": "Keressen menedéket a vízparti kávézók előtetői alatt.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor de pe faleză.",
+                "en": "Seek shelter under the awnings of the waterfront cafes."
+              }
+            },
+            {
+              "name": "Bibliothek und Lesesaal",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den stärksten Regen trocken abzuwarten.",
+                "hu": "Tökéletes hely, hogy szárazon várjuk meg a heves esőt.",
+                "ro": "Locul perfect pentru a aștepta oprirea ploii la căldură.",
+                "en": "The perfect spot to wait out the heavy rain in the dry."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Marien",
+              "tip_5lang": {
+                "de": "Bewundern Sie die glagolitischen Inschriften im trockenen Inneren.",
+                "hu": "Csodálja meg a glagolita feliratokat a száraz belső térben.",
+                "ro": "Admirați inscripțiile glagolitice în interiorul uscat.",
+                "en": "Admire the Glagolitic inscriptions in the dry interior."
+              }
+            },
+            {
+              "name": "Denkmal der Tovareća mužika",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steine rund um das Denkmal sind bei Nässe rutschig.",
+                "hu": "Vigyázat, az emlékmű körüli kövek esőben csúszósak.",
+                "ro": "Atenție, pietrele din jurul monumentului sunt alunecoase pe ploaie.",
+                "en": "Careful, the stones around the monument are slippery when wet."
+              }
+            },
+            {
+              "name": "Salisko polje (Sali-Feld)",
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Wanderschuhe, da die Wege schlammig sein können.",
+                "hu": "Viseljen vízálló cipőt, mert az ösvények sárosak lehetnek.",
+                "ro": "Purtați încălțăminte impermeabilă, potecile pot fi noroioase.",
+                "en": "Wear waterproof shoes as the paths can be muddy."
+              }
+            },
+            {
+              "name": "Strand Linčarnica",
+              "tip_5lang": {
+                "de": "Genießen Sie das dramatische Meer, aber bleiben Sie auf den Wegen.",
+                "hu": "Élvezze a drámai tengert, de maradjon a kijelölt utakon.",
+                "ro": "Admirați marea agitată, dar rămâneți pe potecile sigure.",
+                "en": "Enjoy the dramatic sea, but stay on the paved paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des Windes besser als ein Poncho.",
+              "Die Bibliothek ist ein seltener öffentlicher Innenraum in Sali.",
+              "Tragen Sie Schuhe mit gutem Profil für die glatten Steinpflaster.",
+              "Viele Cafés am Hafen bleiben auch bei Regen für einen Kaffee offen.",
+              "Nutzen Sie die Regenpausen für Fotos vom glänzenden Hafen."
+            ],
+            "hu": [
+              "A szél miatt egy erős esernyő praktikusabb, mint az esőkabát.",
+              "A könyvtár ritka nyilvános fedett hely Saliban a pihenésre.",
+              "Viseljen jó tapadású cipőt a csúszós kőburkolatok miatt.",
+              "A kikötői kávézók többsége esőben is nyitva tart egy kávéra.",
+              "Használja ki az esőszüneteket a csillogó kikötő fotózására."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este mai utilă decât o pelerină din cauza vântului.",
+              "Biblioteca este un spațiu public interior rar în Sali pentru relaxare.",
+              "Purtați pantofi cu talpă aderentă pentru pavajul de piatră alunecos.",
+              "Multe cafenele din port rămân deschise pentru o cafea și pe ploaie.",
+              "Profitați de pauzele de ploaie pentru fotografii cu portul strălucitor."
+            ],
+            "en": [
+              "A sturdy umbrella is better than a poncho due to the coastal wind.",
+              "The library is a rare public indoor space in Sali to stay dry.",
+              "Wear shoes with good grip for the slippery stone pavements.",
+              "Most port-side cafes stay open for a coffee even in the rain.",
+              "Use rain breaks to take photos of the glistening harbor."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Hafen, wo die Luft klar und salzig ist. Mittags wärmen wir uns in der gemütlichen Bibliothek auf und genießen die Stille des Ortes. Der Nachmittag führt uns zur Kirche und durch das ruhige Sali-Feld, wo die Olivenbäume im Winterschlaf liegen. Da die Sonne bereits vor 17 Uhr untergeht, verbringen wir den frühen Abend am Strand, um das fahle Winterlicht über dem Meer zu beobachten.",
+            "hu": "Friss téli reggel a kikötőben, ahol a levegő tiszta és sós. Délben a meghitt könyvtárban melegszünk fel, élvezve a település csendjét. A délután a templomhoz és a nyugodt Sali-mezőre vezet, ahol az olajfák téli álmukat alusszák. Mivel a nap már délután 5 előtt lemegy, a kora estét a strandon töltjük, figyelve a tenger feletti fakó téli fényeket.",
+            "ro": "O dimineață răcoroasă de iarnă în port, unde aerul este curat și sărat. La prânz ne încălzim în biblioteca primitoare, bucurându-ne de liniștea locului. După-amiaza ne duce la biserică și prin câmpul Sali liniștit, unde măslinii sunt în repaus. Deoarece soarele apune înainte de ora 17, petrecem seara devreme la plajă pentru a vedea lumina palidă de iarnă.",
+            "en": "A crisp winter morning at the harbor, where the air is clear and salty. At noon, we warm up in the cozy library, enjoying the town's silence. The afternoon leads to the church and through the quiet Sali field, where olive trees rest for winter. Since the sun sets before 5 PM, we spend the early evening at the beach watching the pale winter light over the sea."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Sali",
+              "tip_5lang": {
+                "de": "Trinken Sie einen heißen Tee in einer der wenigen offenen Bars.",
+                "hu": "Igyon egy forró teát a kevés nyitva tartó bárok egyikében.",
+                "ro": "Beți un ceai fierbinte la unul dintre puținele baruri deschise.",
+                "en": "Drink a hot tea at one of the few open bars."
+              }
+            },
+            {
+              "name": "Bibliothek und Lesesaal",
+              "tip_5lang": {
+                "de": "Ein wunderbar beheizter Ort, um der Kälte kurz zu entfliehen.",
+                "hu": "Csodálatosan fűtött hely, hogy rövid időre elmeneküljünk a hideg elől.",
+                "ro": "Un loc bine încălzit pentru a scăpa scurt de frigul de afară.",
+                "en": "A wonderfully heated place to escape the cold for a while."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Marien",
+              "tip_5lang": {
+                "de": "Im Inneren ist es oft wärmer als draußen im Seewind.",
+                "hu": "A belső térben gyakran melegebb van, mint kint a tengeri szélben.",
+                "ro": "În interior este adesea mai cald decât afară în vântul marin.",
+                "en": "Inside it is often warmer than outside in the sea wind."
+              }
+            },
+            {
+              "name": "Denkmal der Tovareća mužika",
+              "tip_5lang": {
+                "de": "Die Wintersonne wirft hier am Nachmittag lange, fotogene Schatten.",
+                "hu": "A téli nap itt délután hosszú, fotogén árnyékokat vet.",
+                "ro": "Soarele de iarnă aruncă aici umbre lungi și fotogenice după-amiaza.",
+                "en": "The winter sun casts long, photogenic shadows here in the afternoon."
+              }
+            },
+            {
+              "name": "Salisko polje (Sali-Feld)",
+              "tip_5lang": {
+                "de": "Genießen Sie die absolute Stille der winterlichen Olivenhaine.",
+                "hu": "Élvezze a téli olajfaligetek abszolút csendjét.",
+                "ro": "Bucurați-vă de liniștea absolută a livezilor de măslini iarna.",
+                "en": "Enjoy the absolute silence of the winter olive groves."
+              }
+            },
+            {
+              "name": "Strand Linčarnica",
+              "tip_5lang": {
+                "de": "Perfekt für einen schnellen Spaziergang vor dem frühen Sonnenuntergang.",
+                "hu": "Tökéletes egy gyors sétához a korai naplemente előtt.",
+                "ro": "Perfect pentru o plimbare scurtă înainte de apusul devreme.",
+                "en": "Perfect for a quick walk before the early sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf die Bora, den kalten Nordostwind an der Küste.",
+              "Packen Sie eine Thermoskanne mit einem Heißgetränk ein.",
+              "Die Sonne geht im Winter gegen 16:30 Uhr unter.",
+              "Viele Touristenrestaurants sind geschlossen, nutzen Sie die lokalen Märkte.",
+              "Kleiden Sie sich nach dem Zwiebelprinzip für den kalten Seewind."
+            ],
+            "hu": [
+              "Figyeljen a borára, a part menti hideg északkeleti szélre.",
+              "Csomagoljon termoszba forró italt a sétához.",
+              "Télen a nap délután fél 5 körül nyugszik.",
+              "Sok turista-étterem zárva van, keresse a helyi kisboltokat.",
+              "Öltözködjön rétegesen a hideg tengeri szél miatt."
+            ],
+            "ro": [
+              "Atenție la Bora, vântul rece de nord-est de pe coastă.",
+              "Luați un termos cu o băutură caldă pentru plimbare.",
+              "Iarna, soarele apune în jurul orei 16:30.",
+              "Multe restaurante turistice sunt închise, folosiți piețele locale.",
+              "Îmbrăcați-vă în straturi pentru vântul rece de pe mare."
+            ],
+            "en": [
+              "Watch out for the Bora, the cold northeastern wind on the coast.",
+              "Pack a thermos with a hot drink for your walk.",
+              "In winter, the sun sets around 4:30 PM.",
+              "Many tourist restaurants are closed; use the local markets.",
+              "Dress in layers to protect yourself from the cold sea breeze."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -518,6 +932,364 @@
           "There are designated bike trails in the nature park.",
           "Use sunscreen and wear a helmet."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour führt Sie in den Süden zum Telašćica-Naturpark, wo Sie die majestätischen Klippen bewundern. Auf dem Rückweg genießen Sie die Ruhe der Olivenhaine und kühlen sich am Strand ab.",
+            "hu": "Ez a kerékpártúra délre, a Telašćica Natúrparkba vezet, ahol megcsodálhatja a fenséges sziklákat. Visszafelé élvezze az olajfaligetek nyugalmát, majd hűsöljön a tengerparton.",
+            "ro": "Acest tur cu bicicleta vă duce spre sud, în parcul natural Telašćica, unde admirați falezele maiestuoase. La întoarcere, savurați liniștea livezilor și vă răcoriți pe plajă.",
+            "en": "This bike tour takes you south to the Telašćica Nature Park, where you admire the majestic cliffs. On the way back, enjoy the peace of the olive groves and cool off at the beach."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Sali",
+              "tip_5lang": {
+                "de": "Perfekter Startort für die Tour.",
+                "hu": "Tökéletes kiindulópont a túrához.",
+                "ro": "Locul perfect de start pentru tur.",
+                "en": "Perfect starting point for the tour."
+              }
+            },
+            {
+              "name": "Naturpark Telašćica",
+              "tip_5lang": {
+                "de": "Radeln Sie zu den beeindruckenden Klippen.",
+                "hu": "Kerekezzen a lenyűgöző sziklafalakhoz.",
+                "ro": "Mergeți cu bicicleta până la falezele impresionante.",
+                "en": "Cycle to the impressive cliffs."
+              }
+            },
+            {
+              "name": "Salisko polje (Sali-Feld)",
+              "tip_5lang": {
+                "de": "Schattige Wege unter Olivenbäumen.",
+                "hu": "Árnyas utak az olajfák alatt.",
+                "ro": "Drumuri umbrite sub măslini.",
+                "en": "Shady paths under olive trees."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Marien",
+              "tip_5lang": {
+                "de": "Kurzer Kulturstopp im Ort.",
+                "hu": "Rövid kulturális pihenő a településen.",
+                "ro": "Scurtă oprire culturală în localitate.",
+                "en": "Short cultural stop in the village."
+              }
+            },
+            {
+              "name": "Strand Linčarnica",
+              "tip_5lang": {
+                "de": "Erfrischung nach der Fahrt.",
+                "hu": "Felfrissülés a tekerés után.",
+                "ro": "Reîmprospătare după drum.",
+                "en": "Refreshment after the ride."
+              }
+            },
+            {
+              "name": "Hafen von Sali",
+              "tip_5lang": {
+                "de": "Rückkehr zum Ausgangspunkt.",
+                "hu": "Visszatérés a kiindulóponthoz.",
+                "ro": "Întoarcerea la punctul de plecare.",
+                "en": "Return to the starting point."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Picknick am Salzsee",
+                "tip": "Nehmen Sie Proviant für den Naturpark mit."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Piknik a sóstónál",
+                "tip": "Vigyen magával élelmet a natúrparkba."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Picnic la lacul sărat",
+                "tip": "Luați provizii pentru parcul natural."
+              }
+            ],
+            "en": [
+              {
+                "name": "Picnic at the salt lake",
+                "tip": "Take supplies with you for the nature park."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mir-See",
+                "tip": "Ein ruhiger Ort im Naturpark.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mir-tó",
+                "tip": "Csendes hely a natúrparkban.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lacul Mir",
+                "tip": "Un loc liniștit în parcul natural.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lake Mir",
+                "tip": "A quiet spot in the nature park.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirshop Telašćica",
+                "tip": "Postkarten und lokale Kräuter."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Telašćica szuvenírbolt",
+                "tip": "Képeslapok és helyi gyógynövények."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin suveniruri",
+                "tip": "Vederi și ierburi locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Telašćica souvenir shop",
+                "tip": "Postcards and local herbs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Weg zum Naturpark hat einige Steigungen.",
+              "Im Naturpark gibt es ausgewiesene Radwege.",
+              "Helmpflicht beachten und ausreichend Sonnenschutz verwenden."
+            ],
+            "hu": [
+              "A natúrparkhoz vezető úton vannak emelkedők.",
+              "A natúrparkban kijelölt kerékpárutak találhatók.",
+              "Használjon naptejet és viseljen bukósisakot."
+            ],
+            "ro": [
+              "Drumul spre parcul natural are câteva pante.",
+              "În parcul natural există trasee marcate pentru biciclete.",
+              "Folosiți protecție solară și purtați cască."
+            ],
+            "en": [
+              "The path to the nature park has some inclines.",
+              "There are designated bike trails in the nature park.",
+              "Use sunscreen and wear a helmet."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet vorsichtig am Hafen, da die Steine bei Regen rutschig sind. Die Fahrt zum Naturpark Telašćica ist anstrengend im Wind, aber die Klippen im Nebel wirken mystisch. Mittags suchen wir Schutz im Sali-Feld unter den Olivenbäumen. Der Nachmittag bringt uns zur Kirche für einen trockenen Moment, bevor wir die Tour am Strand und am Hafen bei stürmischem Wetter beenden.",
+            "hu": "A biciklitúra óvatosan indul a kikötőben, mivel a kövek esőben csúszósak. A Telašćica natúrparkba vezető út szeles, de a ködös sziklák misztikus látványt nyújtanak. Délben a Sali-mező olajfái alatt keresünk menedéket. A délután a templomhoz vezet egy száraz pillanatra, mielőtt a viharos időben befejeznénk a túrát a strandon és a kikötőben.",
+            "ro": "Turul cu bicicleta începe cu prudență în port, deoarece pietrele sunt alunecoase pe ploaie. Drumul spre Parcul Natural Telašćica este solicitant din cauza vântului, dar stâncile în ceață par mistice. La prânz căutăm adăpost sub măslinii din câmpul Sali. După-amiaza ne duce la biserică pentru un moment uscat, înainte de a încheia turul la plajă în condiții de furtună.",
+            "en": "The bike tour starts cautiously at the harbor, as the stones are slippery in the rain. The ride to Telašćica Nature Park is challenging in the wind, but the misty cliffs look mystical. At noon, we seek shelter under olive trees in the Sali field. The afternoon brings us to the church for a dry moment before finishing the tour at the beach and harbor in stormy weather."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Sali",
+              "tip_5lang": {
+                "de": "Bremsen Sie vorsichtig auf den glatten Pflastersteinen des Kais.",
+                "hu": "Óvatosan fékezzen a móló sima burkolókövein.",
+                "ro": "Frânați cu grijă pe pietrele netede de pe chei.",
+                "en": "Brake carefully on the smooth paving stones of the pier."
+              }
+            },
+            {
+              "name": "Naturpark Telašćica",
+              "tip_5lang": {
+                "de": "Die Wege können schlammig sein; fahren Sie langsam in Kurven.",
+                "hu": "Az utak sárosak lehetnek; lassítson a kanyarokban.",
+                "ro": "Drumurile pot fi noroioase; încetiniți în curbe.",
+                "en": "Paths can be muddy; slow down in the curves."
+              }
+            },
+            {
+              "name": "Salisko polje (Sali-Feld)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die dichten Olivenhaine als natürlichen Regenschutz.",
+                "hu": "Használja a sűrű olajfaligeteket természetes esővédőként.",
+                "ro": "Folosiți livezile dese de măslini ca adăpost natural contra ploii.",
+                "en": "Use the dense olive groves as natural rain protection."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Marien",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab, um den Sattel trocken zu halten.",
+                "hu": "Támassza a biciklit az előtető alá, hogy az ülés száraz maradjon.",
+                "ro": "Parcați bicicleta sub copertină pentru a păstra șaua uscată.",
+                "en": "Park your bike under the awning to keep the saddle dry."
+              }
+            },
+            {
+              "name": "Strand Linčarnica",
+              "tip_5lang": {
+                "de": "Vorsicht vor aufpeitschender Gicht auf dem ufernahen Radweg.",
+                "hu": "Vigyázzon a felcsapó sós vízre a part menti kerékpárúton.",
+                "ro": "Atenție la stropii de apă sărată pe pista de biciclete de lângă țărm.",
+                "en": "Watch out for sea spray on the coastal bike path."
+              }
+            },
+            {
+              "name": "Hafen von Sali",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihr Fahrrad nach der Tour ab, um Korrosion zu vermeiden.",
+                "hu": "A túra után törölje szárazra a biciklit a korrózió megelőzésére.",
+                "ro": "Ștergeți bicicleta după tur pentru a preveni coroziunea.",
+                "en": "Dry your bike after the tour to prevent corrosion."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Vermeiden Sie das Bremsen auf weißen Linien oder glattem Stein.",
+              "Tragen Sie eine vollflächige Regenbekleidung und Überschuhe.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf Nässe.",
+              "Die Küstenstraße kann bei starkem Wind gefährlich sein."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben a kerékpáron.",
+              "Kerülje a fékezést a fehér vonalakon vagy sima köveken.",
+              "Viseljen teljes esőruházatot és kamáslit.",
+              "Csökkentse kissé a guminyomást a jobb tapadás érdekében.",
+              "A parti út erős szélben veszélyes lehet."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe bicicletă pe această vreme.",
+              "Evitați frânarea pe liniile albe sau pe pietrele netede.",
+              "Purtați echipament complet de ploaie și protecții pentru pantofi.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe ud.",
+              "Drumul de coastă poate fi periculos în condiții de vânt puternic."
+            ],
+            "en": [
+              "Mudguards are essential on your bike in this weather.",
+              "Avoid braking on white road markings or smooth stones.",
+              "Wear full rain gear and waterproof shoe covers.",
+              "Slightly reduce tire pressure for better grip on wet surfaces.",
+              "The coastal road can be dangerous during high winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Hafen mit beißendem Wind. Die Fahrt zur Telašćica ist anstrengend, aber die menschenleeren Aussichtspunkte entschädigen für die Kälte. Mittags radeln wir durch das stille Sali-Feld, wo die Luft kristallklar ist. Nach einem kurzen Halt an der Kirche geht es zum Strand, um das letzte Tageslicht einzufangen, bevor wir rechtzeitig zum Sonnenuntergang zum Hafen zurückkehren.",
+            "hu": "Deres indulás a kikötőben metsző széllel. A Telašćica-ba vezető út fárasztó, de az elhagyatott kilátópontok kárpótolnak a hidegért. Délben a csendes Sali-mezőn tekerünk, ahol a levegő kristálytiszta. Egy rövid templomi pihenő után a strandra megyünk az utolsó fényekért, majd naplementére visszatérünk a kikötőbe.",
+            "ro": "Un început înghețat în port cu vânt tăios. Drumul spre Telašćica este obositor, dar punctele de belvedere pustii compensează frigul. La prânz pedalăm prin câmpul Sali liniștit, unde aerul este de cristal. După o scurtă oprire la biserică, mergem la plajă pentru ultima lumină a zilei, revenind în port la apus.",
+            "en": "A frosty start at the harbor with a biting wind. The ride to Telašćica is strenuous, but the deserted viewpoints make up for the cold. At noon, we cycle through the quiet Sali field, where the air is crystal clear. After a short stop at the church, we head to the beach for the last light, returning to the harbor just in time for sunset."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Sali",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Muskeln vor der Abfahrt gut auf.",
+                "hu": "Indulás előtt jól melegítse be az izmait.",
+                "ro": "Încălziți-vă bine mușchii înainte de plecare.",
+                "en": "Warm up your muscles well before starting the ride."
+              }
+            },
+            {
+              "name": "Naturpark Telašćica",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung, besonders auf den Klippen.",
+                "hu": "Viseljen szélálló ruházatot, különösen a sziklákon.",
+                "ro": "Purtați haine rezistente la vânt, mai ales pe stânci.",
+                "en": "Wear windproof clothing, especially on the cliffs."
+              }
+            },
+            {
+              "name": "Salisko polje (Sali-Feld)",
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren und hart sein, was das Fahren erleichtert.",
+                "hu": "A talaj fagyott és kemény lehet, ami megkönnyíti a haladást.",
+                "ro": "Solul poate fi înghețat și tare, ceea ce ușurează deplasarea.",
+                "en": "The ground can be frozen and hard, making riding easier."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Marien",
+              "tip_5lang": {
+                "de": "Ein guter Ort für eine kurze windgeschützte Pause.",
+                "hu": "Jó hely egy rövid, szélvédett pihenőre.",
+                "ro": "Un loc bun pentru o scurtă pauză ferită de vânt.",
+                "en": "A good spot for a short break protected from the wind."
+              }
+            },
+            {
+              "name": "Strand Linčarnica",
+              "tip_5lang": {
+                "de": "Verweilen Sie nicht zu lange, sobald die Sonne sinkt.",
+                "hu": "Ne maradjon túl sokáig, amint a nap süllyedni kezd.",
+                "ro": "Nu zăboviți prea mult odată ce soarele începe să apună.",
+                "en": "Don't stay too long once the sun starts to set."
+              }
+            },
+            {
+              "name": "Hafen von Sali",
+              "tip_5lang": {
+                "de": "Genießen Sie ein warmes Essen in einem der wenigen offenen Lokale.",
+                "hu": "Élvezzen egy meleg ételt a kevés nyitva tartó hely egyikében.",
+                "ro": "Bucurați-vă de o masă caldă la unul dintre puținele localuri deschise.",
+                "en": "Enjoy a warm meal at one of the few open local spots."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und Überschuhe sind für Winterradler Pflicht.",
+              "Die Akkulaufzeit von E-Bikes ist bei Kälte deutlich geringer.",
+              "Achten Sie auf Glatteis in schattigen Straßenabschnitten.",
+              "Planen Sie die Rückkehr spätestens für 16:30 Uhr ein.",
+              "Trinken Sie auch bei Kälte genug, am besten warmen Tee."
+            ],
+            "hu": [
+              "A meleg kesztyű és kamásli kötelező a téli biciklizéshez.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül hidegben.",
+              "Ügyeljen a jegesedésre az út árnyékos szakaszain.",
+              "A visszatérést legkésőbb délután fél 5-re tervezze.",
+              "Hidegben is igyon eleget, lehetőleg meleg teát."
+            ],
+            "ro": [
+              "Mănușile calde și protecțiile de pantofi sunt obligatorii iarna.",
+              "Autonomia bateriei la bicicletele electrice scade mult la frig.",
+              "Atenție la porțiunile de drum cu gheață în zonele umbrite.",
+              "Planificați revenirea cel târziu pentru ora 16:30.",
+              "Beți suficiente lichide și la frig, de preferat ceai cald."
+            ],
+            "en": [
+              "Warm gloves and shoe covers are mandatory for winter cycling.",
+              "E-bike battery life is significantly lower in cold temperatures.",
+              "Watch out for black ice in shaded road sections.",
+              "Plan to be back by 4:30 PM at the latest.",
+              "Stay hydrated even in the cold; warm tea is best."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -728,6 +1500,337 @@
           "Roads to the park are well-maintained but narrow.",
           "Parking in Sali can be difficult in high season."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie mühelos die spektakulären Klippen von Telašćica. Danach erkunden Sie die uralten Olivenbäume von Sali und genießen einen langen Strandnachmittag.",
+            "hu": "Autóval könnyedén elérheti Telašćica látványos sziklafalait. Ezt követően felfedezheti Sali ősi olajfáit, majd élvezheti a hosszú délutánt a strandon.",
+            "ro": "Cu mașina ajungeți fără efort la falezele spectaculoase din Telašćica. Ulterior, explorați măslinii străvechi din Sali și vă bucurați de o după-amiază lungă pe plajă.",
+            "en": "By car, you can effortlessly reach the spectacular cliffs of Telašćica. Afterwards, explore the ancient olive trees of Sali and enjoy a long afternoon at the beach."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Sali",
+              "tip_5lang": {
+                "de": "Frühstück mit Blick auf die Jachten.",
+                "hu": "Reggeli kilátással a jachtokra.",
+                "ro": "Mic dejun cu vedere la iahturi.",
+                "en": "Breakfast with a view of the yachts."
+              }
+            },
+            {
+              "name": "Naturpark Telašćica",
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Parkplatz am Salzsee Mir.",
+                "hu": "Hajtson el a Mir-sóstó melletti parkolóig.",
+                "ro": "Conduceți până la parcarea de lângă lacul Mir.",
+                "en": "Drive to the parking lot near Lake Mir."
+              }
+            },
+            {
+              "name": "Salisko polje (Sali-Feld)",
+              "tip_5lang": {
+                "de": "Parken Sie am Rand und gehen Sie ein Stück zu Fuß.",
+                "hu": "Parkoljon a szélén, és sétáljon egy kicsit.",
+                "ro": "Parcați la margine și mergeți puțin pe jos.",
+                "en": "Park at the edge and walk a bit."
+              }
+            },
+            {
+              "name": "Strand Linčarnica",
+              "tip_5lang": {
+                "de": "Naher Parkplatz vorhanden.",
+                "hu": "Közeli parkoló rendelkezésre áll.",
+                "ro": "Parcare disponibilă în apropiere.",
+                "en": "Nearby parking available."
+              }
+            },
+            {
+              "name": "Kirche St. Rochus",
+              "tip_5lang": {
+                "de": "Kurzer Halt vor dem Abendessen.",
+                "hu": "Rövid megálló vacsora előtt.",
+                "ro": "Scurtă oprire înainte de cină.",
+                "en": "Short stop before dinner."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Trapula",
+                "tip": "Hervorragende Meeresfrüchte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba Trapula",
+                "tip": "Kiváló tenger gyümölcsei."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Trapula",
+                "tip": "Fructe de mare excelente."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Trapula",
+                "tip": "Excellent seafood."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Aussichtspunkt Telašćica",
+                "tip": "Blick auf die Kornaten.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Telašćica kilátópont",
+                "tip": "Kilátás a Kornati-szigetekre.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punct de belvedere",
+                "tip": "Vedere spre insulele Kornati.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Telašćica Viewpoint",
+                "tip": "View of the Kornati islands.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Wein",
+                "tip": "Kaufen Sie Plavac Mali direkt vom Winzer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi bor",
+                "tip": "Vásároljon Plavac Malit közvetlenül a borásztól."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vin local",
+                "tip": "Cumpărați Plavac Mali direct de la cramă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local wine",
+                "tip": "Buy Plavac Mali directly from the winemaker."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Für den Naturpark fällt eine Eintrittsgebühr an.",
+              "Die Straßen zum Park sind gut ausgebaut, aber eng.",
+              "Parken in Sali kann in der Hochsaison schwierig sein."
+            ],
+            "hu": [
+              "A natúrparkba belépődíjat kell fizetni.",
+              "A parkhoz vezető utak jól kiépítettek, de keskenyek.",
+              "Saliban a parkolás nehézkes lehet a főszezonban."
+            ],
+            "ro": [
+              "Pentru parcul natural se percepe taxă de intrare.",
+              "Drumurile spre parc sunt bune, dar înguste.",
+              "Parcarea în Sali poate fi dificilă în plin sezon."
+            ],
+            "en": [
+              "An entrance fee is required for the nature park.",
+              "Roads to the park are well-maintained but narrow.",
+              "Parking in Sali can be difficult in high season."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten die Tour trocken im Auto am Hafen. Die Fahrt nach Telašćica bietet dramatische Ausblicke durch die regennasse Windschutzscheibe, während der Nebel über den Klippen hängt. Mittags besuchen wir das Sali-Feld und genießen die Landschaft aus dem Wageninneren. Den Nachmittag verbringen wir am Strand und beenden den Tag an der Kirche St. Rochus, wobei das Auto uns stets vor dem Wetter schützt.",
+            "hu": "A túrát szárazon, az autóban kezdjük a kikötőnél. A Telašćica felé vezető út drámai kilátást nyújt az eső áztatta szélvédőn keresztül, miközben köd ül a sziklákon. Délben a Sali-mezőt látogatjuk meg, élvezve a tájat az utastérből. A délutánt a strandon töltjük, majd a napot a Szent Rókus templomnál zárjuk, miközben az autó végig véd az időjárástól.",
+            "ro": "Începem turul la adăpost în mașină la port. Drumul spre Telašćica oferă vederi dramatice prin parbrizul plouat, în timp ce ceața stă deasupra stâncilor. La prânz vizităm câmpul Sali, admirând peisajul din interiorul mașinii. După-amiaza o petrecem la plajă și încheiem ziua la biserica Sf. Rochus, mașina protejându-ne mereu.",
+            "en": "We start the tour dry in the car at the harbor. The drive to Telašćica offers dramatic views through the rain-soaked windshield as mist hangs over the cliffs. At noon, we visit the Sali field, enjoying the scenery from inside the car. The afternoon is spent at the beach, and we end the day at St. Roch Church, with the car always protecting us from the weather."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Sali",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Wasser für einen schnellen Blick ohne nass zu werden.",
+                "hu": "Parkoljon közel a vízhez a gyors kilátásért, ázást elkerülve.",
+                "ro": "Parcați aproape de apă pentru o vedere rapidă fără a vă uda.",
+                "en": "Park close to the water for a quick view without getting wet."
+              }
+            },
+            {
+              "name": "Naturpark Telašćica",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Parkplätzen, um nicht im Schlamm zu stecken.",
+                "hu": "Maradjon a szilárd parkolókban, hogy ne akadjon el a sárban.",
+                "ro": "Rămâneți în parcările amenajate pentru a nu rămâne înnoroiat.",
+                "en": "Stay on paved parking areas to avoid getting stuck in mud."
+              }
+            },
+            {
+              "name": "Salisko polje (Sali-Feld)",
+              "tip_5lang": {
+                "de": "Die schmalen Wege sind bei Regen rutschig; fahren Sie langsam.",
+                "hu": "A keskeny utak esőben csúszósak; vezessen lassan.",
+                "ro": "Drumurile înguste sunt alunecoase pe ploaie; conduceți încet.",
+                "en": "The narrow roads are slippery in the rain; drive slowly."
+              }
+            },
+            {
+              "name": "Strand Linčarnica",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die raue See bequem vom Auto aus.",
+                "hu": "Élvezze a viharos tenger látványát kényelmesen az autóból.",
+                "ro": "Admirați marea agitată confortabil din interiorul mașinii.",
+                "en": "Enjoy the view of the rough sea comfortably from the car."
+              }
+            },
+            {
+              "name": "Kirche St. Rochus",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zur Kirche minimiert den Regen.",
+                "hu": "Egy rövid sprint a parkolótól a templomig minimalizálja az ázást.",
+                "ro": "Un sprint scurt din parcare până la biserică vă ferește de ploaie.",
+                "en": "A short sprint from the parking lot to the church minimizes getting wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt über die Insel.",
+              "Die Küstenstraße kann bei starkem Regen stellenweise überflutet sein.",
+              "Nutzen Sie das Auto als Basis für Kleiderwechsel und Trockenpausen.",
+              "Parken Sie in Sali bevorzugt auf befestigten Flächen.",
+              "Vermeiden Sie unbefestigte Seitenstreifen im Sali-Feld."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket a szigeti túrához.",
+              "A parti út heves esőben helyenként víz alá kerülhet.",
+              "Használja az autót bázisként az átöltözéshez és pihenéshez.",
+              "Saliban lehetőleg szilárd burkolatú helyen parkoljon.",
+              "Kerülje a laza útpadkákat a Sali-mező környékén."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a porni la drum pe insulă.",
+              "Drumul de coastă poate fi inundat pe porțiuni în caz de ploaie torențială.",
+              "Folosiți mașina ca bază pentru schimbarea hainelor și pauze uscate.",
+              "În Sali, parcați de preferință pe suprafețe pavate.",
+              "Evitați acostamentele neamenajate în zona câmpului Sali."
+            ],
+            "en": [
+              "Check your wipers before starting the island drive.",
+              "The coastal road may be flooded in places during heavy rain.",
+              "Use the car as a base for changing clothes and taking dry breaks.",
+              "In Sali, prefer parking on paved surfaces.",
+              "Avoid unpaved shoulders in the Sali field area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintermorgen beginnt mit eingeschalteter Heizung am Hafen. Die Fahrt zur Telašćica ist ein einsames Vergnügen, da wir fast die gesamte Straße für uns allein haben. Mittags erkunden wir das Sali-Feld im milden Winterlicht. Nach einem Besuch am menschenleeren Strand beenden wir die Tour an der Kirche St. Rochus, bevor die Dämmerung den Ort in ein tiefes Blau taucht.",
+            "hu": "Hideg téli reggel kezdődik feltekert fűtéssel a kikötőben. A Telašćica-ba vezető út magányos élvezet, szinte miénk az egész út. Délben a Sali-mezőt fedezzük fel a szelíd téli fényben. Az elhagyatott strand után a Szent Rókus templomnál fejezzük be a túrát, mielőtt a szürkület mélykékbe öltöztetné a települést.",
+            "ro": "O dimineață rece de iarnă începe cu încălzirea pornită în port. Drumul spre Telašćica este o plăcere solitară, având aproape tot drumul doar pentru noi. La prânz explorăm câmpul Sali în lumina blândă de iarnă. După o vizită la plaja pustie, încheiem turul la biserica Sf. Rochus, înainte ca amurgul să îmbrace locul în albastru închis.",
+            "en": "A cold winter morning starts with the heater on at the harbor. The drive to Telašćica is a lonely pleasure, as we have almost the entire road to ourselves. At noon, we explore the Sali field in the mild winter light. After a visit to the deserted beach, we finish the tour at St. Roch Church before twilight bathes the town in deep blue."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Sali",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul să meargă inutil în staționare.",
+                "en": "Don't let the engine idle unnecessarily while stationary."
+              }
+            },
+            {
+              "name": "Naturpark Telašćica",
+              "tip_5lang": {
+                "de": "Die Straßen im Park können morgens stellenweise glatt sein.",
+                "hu": "A parkban az utak reggelente helyenként csúszósak lehetnek.",
+                "ro": "Drumurile din parc pot fi alunecoase pe alocuri dimineața.",
+                "en": "Roads in the park can be slippery in patches in the morning."
+              }
+            },
+            {
+              "name": "Salisko polje (Sali-Feld)",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht über die Olivenhaine vom Auto aus.",
+                "hu": "Élvezze a tiszta kilátást az olajfaligetekre az autóból.",
+                "ro": "Admirați vederea clară peste livezi direct din mașină.",
+                "en": "Enjoy the clear view over the olive groves from the car."
+              }
+            },
+            {
+              "name": "Strand Linčarnica",
+              "tip_5lang": {
+                "de": "Ein kurzer Aufenthalt reicht aus, um die Winterbrise zu spüren.",
+                "hu": "Egy rövid megálló elég, hogy megérezzük a téli szellőt.",
+                "ro": "O scurtă oprire este suficientă pentru a simți briza de iarnă.",
+                "en": "A short stay is enough to feel the winter breeze."
+              }
+            },
+            {
+              "name": "Kirche St. Rochus",
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor der Kirche für eine bequeme Besichtigung.",
+                "hu": "Parkoljon közvetlenül a templom előtt a kényelmes látogatáshoz.",
+                "ro": "Parcați chiar în fața bisericii pentru o vizită confortabilă.",
+                "en": "Park right in front of the church for a convenient visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte sinken kann.",
+              "Halten Sie die Fenster für bessere Sicht bei Feuchtigkeit sauber.",
+              "Nehmen Sie warme Decken für Pausen im stehenden Fahrzeug mit.",
+              "Die einzige Tankstelle der Insel ist in Zaglav, planen Sie voraus.",
+              "Genießen Sie die freie Fahrt ohne die sommerlichen Touristenmassen."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást, mert hidegben csökkenhet.",
+              "Tartsa tisztán az ablakokat a jobb kilátás érdekében pára esetén.",
+              "Vigyen meleg takarókat a várakozásokhoz álló autóban.",
+              "A sziget egyetlen benzinkútja Zaglavban van, tervezzen előre.",
+              "Élvezze a szabad utat a nyári turistaáradat nélkül."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri, aceasta poate scădea la frig.",
+              "Păstrați geamurile curate pentru o vizibilitate mai bună în caz de condens.",
+              "Luați pături calde pentru pauzele în mașina oprită.",
+              "Singura benzinărie de pe insulă este în Zaglav, planificați din timp.",
+              "Bucurați-vă de drumul liber fără mulțimile de turiști de vară."
+            ],
+            "en": [
+              "Check tire pressure, as it can drop in cold weather.",
+              "Keep windows clean for better visibility during humid weather.",
+              "Take warm blankets for breaks in the stationary vehicle.",
+              "The only gas station on the island is in Zaglav; plan ahead.",
+              "Enjoy the open roads without the summer tourist crowds."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -938,6 +2041,337 @@
           "Buy tickets at the kiosk or online.",
           "There are Wi-Fi hotspots in the port."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Bootsverbindungen nach Sali, um diesen charmanten Ort zu erkunden. Alle wichtigen Sehenswürdigkeiten sind vom Hafen aus gut erreichbar.",
+            "hu": "Használja ki a Saliba tartó hajójáratokat a bájos település felfedezéséhez. Minden fontos látnivaló jól elérhető a kikötőből.",
+            "ro": "Folosiți cursele navale spre Sali pentru a explora această localitate fermecătoare. Toate atracțiile importante sunt ușor accesibile din port.",
+            "en": "Take advantage of the boat connections to Sali to explore this charming village. All major sights are easily accessible from the port."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Sali",
+              "tip_5lang": {
+                "de": "Zentrum der lokalen Bootsverbindungen.",
+                "hu": "A helyi hajójáratok központja.",
+                "ro": "Centrul conexiunilor navale locale.",
+                "en": "Center of local boat connections."
+              }
+            },
+            {
+              "name": "Bibliothek und Lesesaal",
+              "tip_5lang": {
+                "de": "Direkt am Hafen gelegen.",
+                "hu": "Közvetlenül a kikötőben található.",
+                "ro": "Situată chiar în port.",
+                "en": "Located directly in the port."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Marien",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Hafen.",
+                "hu": "Rövid séta a kikötőtől.",
+                "ro": "Scurtă plimbare din port.",
+                "en": "Short walk from the port."
+              }
+            },
+            {
+              "name": "Salisko polje (Sali-Feld)",
+              "tip_5lang": {
+                "de": "Vom Ort aus leicht zu erreichen.",
+                "hu": "A faluból könnyen elérhető.",
+                "ro": "Ușor de ajuns din localitate.",
+                "en": "Easily reachable from the village."
+              }
+            },
+            {
+              "name": "Strand Linčarnica",
+              "tip_5lang": {
+                "de": "Perfekter Abschluss vor der Abfahrt.",
+                "hu": "Tökéletes lezárás indulás előtt.",
+                "ro": "Final perfect înainte de plecare.",
+                "en": "Perfect conclusion before departure."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pekara Sali",
+                "tip": "Probieren Sie lokales Gebäck."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pekara Sali",
+                "tip": "Kóstolja meg a helyi péksüteményeket."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pekara Sali",
+                "tip": "Gustați produsele de patiserie locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pekara Sali",
+                "tip": "Try local pastries."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Uferbank",
+                "tip": "Blick auf das offene Meer.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parti pad",
+                "tip": "Kilátás a nyílt tengerre.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Banca de pe țărm",
+                "tip": "Vedere spre marea deschisă.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Waterfront Bench",
+                "tip": "View of the open sea.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Fischmarkt",
+                "tip": "Frühmorgens frischen Fang kaufen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Halpiac",
+                "tip": "Vásároljon friss fogást kora reggel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața de pește",
+                "tip": "Cumpărați pește proaspăt dimineața devreme."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fish Market",
+                "tip": "Buy fresh catch early in the morning."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie die Rückfahrzeiten der Schnellboote nach Zadar.",
+              "Tickets am Kiosk oder online kaufen.",
+              "Im Hafen gibt es WLAN-Hotspots."
+            ],
+            "hu": [
+              "Ellenőrizze a Zadarba tartó gyorshajók menetrendjét.",
+              "Vásároljon jegyet a kioszkban vagy online.",
+              "A kikötőben ingyenes WiFi pontok találhatók."
+            ],
+            "ro": [
+              "Verificați orele de întoarcere ale barcelor rapide spre Zadar.",
+              "Cumpărați bilete de la chioșc sau online.",
+              "În port există hotspot-uri WiFi."
+            ],
+            "en": [
+              "Check the return times of the fast boats to Zadar.",
+              "Buy tickets at the kiosk or online.",
+              "There are Wi-Fi hotspots in the port."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Ankunft am Hafen von Sali erfolgt bei Regen, wobei die Fähre im Hafen schaukelt. Wir nutzen den Vormittag in der trockenen Bibliothek, um dem Wetter zu entfliehen. Mittags führt uns ein kurzer Gang zur schützenden Pfarrkirche. Am Nachmittag spazieren wir trotz Regen zum Sali-Feld und beenden die Tour am Strand, bevor wir mit dem Bus oder Schiff die Rückreise antreten.",
+            "hu": "A sali kikötőbe esőben érkezünk, miközben a komp ringatózik a kikötőben. A délelőttöt a száraz könyvtárban töltjük, elmenekülve az időjárás elől. Délben egy rövid séta vezet a védelmet nyújtó plébániatemplomhoz. Délután az eső ellenére kisétálunk a Sali-mezőre, majd a strandon zárjuk a túrát a visszautazás előtt.",
+            "ro": "Sosirea în portul Sali are loc pe ploaie, feribotul balansându-se în port. Folosim dimineața în biblioteca uscată pentru a scăpa de vreme. La prânz, o scurtă plimbare ne duce la biserica parohială protectoare. După-amiaza mergem spre câmpul Sali în ciuda ploii, încheind turul la plajă înainte de plecare.",
+            "en": "Arrival at Sali harbor happens in the rain, with the ferry swaying in the port. We spend the morning in the dry library to escape the weather. At noon, a short walk leads to the protective parish church. In the afternoon, despite the rain, we walk to the Sali field and finish the tour at the beach before heading back."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Sali",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Bereich der Passagierstation auf Schiffe.",
+                "hu": "Várja a hajókat az utasterminál fedett részén.",
+                "ro": "Așteptați navele în zona acoperită a stației de pasageri.",
+                "en": "Wait for boats in the covered area of the passenger terminal."
+              }
+            },
+            {
+              "name": "Bibliothek und Lesesaal",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Wartezeit auf den nächsten Bus zu überbrücken.",
+                "hu": "Ideális hely a következő buszra való várakozáshoz.",
+                "ro": "Un loc ideal pentru a aștepta următorul autobuz la adăpost.",
+                "en": "An ideal place to pass the time while waiting for the next bus."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Marien",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirche als trockenen Ruhepunkt zwischen den Wegen.",
+                "hu": "Használja a templomot száraz pihenőpontként az utak között.",
+                "ro": "Folosiți biserica ca punct de odihnă uscat între deplasări.",
+                "en": "Use the church as a dry resting point between walks."
+              }
+            },
+            {
+              "name": "Salisko polje (Sali-Feld)",
+              "tip_5lang": {
+                "de": "Planen Sie genug Zeit für den Rückweg zur Bushaltestelle ein.",
+                "hu": "Tervezzen elég időt a buszmegállóba való visszatéréshez.",
+                "ro": "Planificați suficient timp pentru întoarcerea la stația de autobuz.",
+                "en": "Plan enough time for the return to the bus stop."
+              }
+            },
+            {
+              "name": "Strand Linčarnica",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Schiffsverbindungen, da sie bei Sturm ausfallen können.",
+                "hu": "Ellenőrizze a hajójáratokat, mert viharban kimaradhatnak.",
+                "ro": "Verificați programul navelor, acestea pot fi anulate în caz de furtună.",
+                "en": "Check boat connections, as they may be cancelled during storms."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können sich bei schlechtem Wetter kurzfristig ändern.",
+              "Die Busfrequenz auf der Insel ist im Winter und bei Regen reduziert.",
+              "Nutzen Sie die lokale 'Liburnija' App für aktuelle Informationen.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zwischen den Haltestellen.",
+              "Das Hafencafé ist der beste Ort, um auf die Fähre zu warten."
+            ],
+            "hu": [
+              "A menetrendek rossz idő esetén rövid határidővel változhatnak.",
+              "A szigeti buszközlekedés esőben és télen ritkább lehet.",
+              "Használja a helyi 'Liburnija' alkalmazást az aktuális infókért.",
+              "Viseljen vízálló ruhát a megállók közötti gyalogláshoz.",
+              "A kikötői kávézó a legjobb hely a kompra való várakozáshoz."
+            ],
+            "ro": [
+              "Orarele se pot schimba rapid în caz de vreme nefavorabilă.",
+              "Frecvența autobuzelor pe insulă este redusă iarna și pe ploaie.",
+              "Folosiți aplicația locală 'Liburnija' pentru informații actualizate.",
+              "Purtați haine impermeabile pentru drumul între stații.",
+              "Cafeneaua din port este cel mai bun loc pentru a aștepta feribotul."
+            ],
+            "en": [
+              "Schedules may change at short notice during bad weather.",
+              "Bus frequency on the island is reduced in winter and during rain.",
+              "Use the local 'Liburnija' app for up-to-date information.",
+              "Wear waterproof clothing for the walks between stops.",
+              "The harbor cafe is the best place to wait for the ferry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Hafen, während die erste Fähre des Tages anlegt. Wir verbringen den Mittag in der beheizten Bibliothek, dem warmen Herz von Sali. Der Nachmittag führt uns zur Kirche und zum Feld, wobei wir die Ruhe der Nebensaison genießen. Vor dem frühen Sonnenuntergang besuchen wir den Strand und kehren zur Haltestelle zurück, um die Heimreise anzutreten.",
+            "hu": "Tiszta téli reggel a kikötőben, miközben a nap első kompja kiköt. A delet a fűtött könyvtárban töltjük, Sali meleg szívében. A délután a templomhoz és a mezőre vezet, élvezve az előszezon nyugalmát. A korai naplemente előtt meglátogatjuk a strandot, majd visszatérünk a megállóba a hazautazáshoz.",
+            "ro": "O dimineață senină de iarnă în port, în timp ce primul feribot al zilei acostează. Petrecem prânzul în biblioteca încălzită, inima caldă a localității Sali. După-amiaza ne duce la biserică și pe câmp, bucurându-ne de liniștea extrasezonului. Înainte de apusul devreme vizităm plaja și revenim la stație.",
+            "en": "A clear winter morning at the harbor as the first ferry of the day docks. We spend midday in the heated library, the warm heart of Sali. The afternoon leads us to the church and the field, enjoying the silence of the off-season. Before the early sunset, we visit the beach and return to the stop for the journey home."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Sali",
+              "tip_5lang": {
+                "de": "Beachten Sie den Winterfahrplan der Fähren und Katamarane.",
+                "hu": "Ügyeljen a kompok és katamaránok téli menetrendjére.",
+                "ro": "Atenție la programul de iarnă al feriboturilor și catamaranelor.",
+                "en": "Note the winter schedule for ferries and catamarans."
+              }
+            },
+            {
+              "name": "Bibliothek und Lesesaal",
+              "tip_5lang": {
+                "de": "Der wärmste Ort des Dorfes für wartende Transitreisende.",
+                "hu": "A falu legmelegebb helye a várakozó utasok számára.",
+                "ro": "Cel mai cald loc din sat pentru călătorii care așteaptă.",
+                "en": "The warmest spot in the village for waiting transit travelers."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Marien",
+              "tip_5lang": {
+                "de": "Ein friedlicher Rückzugsort vor dem kalten Winterwind.",
+                "hu": "Békés menedék a hideg téli szél elől.",
+                "ro": "Un refugiu liniștit ferit de vântul rece de iarnă.",
+                "en": "A peaceful retreat from the cold winter wind."
+              }
+            },
+            {
+              "name": "Salisko polje (Sali-Feld)",
+              "tip_5lang": {
+                "de": "Die Wintersonne geht hier früh hinter den Hügeln unter.",
+                "hu": "A téli nap itt korán lemegy a dombok mögött.",
+                "ro": "Soarele de iarnă apune devreme aici după dealuri.",
+                "en": "The winter sun sets early behind the hills here."
+              }
+            },
+            {
+              "name": "Strand Linčarnica",
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Rückkehr zum Hafen vor Einbruch der Dunkelheit.",
+                "hu": "Tervezze a kikötőbe való visszatérést sötétedés előtt.",
+                "ro": "Planificați revenirea în port înainte de lăsarea întunericului.",
+                "en": "Plan your return to the harbor before darkness falls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schiffsverbindungen sind im Winter deutlich seltener als im Sommer.",
+              "Die Fähren sind im Inneren gut beheizt und komfortabel.",
+              "Busse auf der Insel verkehren oft nur in Verbindung mit Schiffsankünften.",
+              "Kaufen Sie Fahrkarten im Winter bevorzugt online oder an Bord.",
+              "Nehmen Sie eine Taschenlampe für den Weg zur Haltestelle im Dunkeln mit."
+            ],
+            "hu": [
+              "A hajójáratok télen lényegesen ritkábbak, mint nyáron.",
+              "A kompok belseje jól fűtött és kényelmes.",
+              "A szigeti buszok gyakran a hajók érkezéséhez igazodnak.",
+              "Télen a jegyeket lehetőleg online vagy a fedélzeten vegye meg.",
+              "Vigyen zseblámpát a megállóhoz vezető úthoz a sötétben."
+            ],
+            "ro": [
+              "Legăturile maritime sunt mult mai rare iarna decât vara.",
+              "Interiorul feriboturilor este bine încălzit și confortabil.",
+              "Autobuzele de pe insulă circulă adesea în corelare cu navele.",
+              "Cumpărați biletele online sau direct la bord pe timpul iernii.",
+              "Luați o lanternă pentru drumul spre stație pe întuneric."
+            ],
+            "en": [
+              "Boat connections are significantly rarer in winter than in summer.",
+              "Ferry interiors are well-heated and comfortable.",
+              "Buses on the island often run in connection with boat arrivals.",
+              "In winter, prefer buying tickets online or on board.",
+              "Take a flashlight for the walk to the stop in the dark."
+            ]
+          }
+        }
       }
     }
   },

@@ -342,6 +342,482 @@
           "Ensure respectful attire when visiting churches.",
           "Most museums are closed on Mondays."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen von Bologna auf der Piazza Maggiore, umgeben von Renaissance-Palästen. Besuchen Sie das beeindruckende Anatomische Theater im Archiginnasio, bevor Sie in die mittelalterlichen Gassen des Quadrilatero eintauchen. Nachmittags fordern Sie sich mit dem Aufstieg auf die schiefen Türme heraus und entdecken die versteckten Kanäle. Der Abend klingt bei handgemachter Pasta in einer traditionellen Osteria perfekt aus.",
+            "hu": "Kezdje a napot Bologna szívében, a Piazza Maggiore téren, reneszánsz paloták gyűrűjében. Látogassa meg az Archiginnasio lenyűgöző anatómiai színházát, majd merüljön el a Quadrilatero középkori sikátoraiban. Délután hívja ki magát a ferde tornyok megmászásával, és fedezze fel a város rejtett csatornáit. Az estét koronázza meg egy tál friss, kézzel gyúrt tésztával egy hagyományos ostériában.",
+            "ro": "Începeți ziua în inima Bolognei, în Piazza Maggiore, înconjurată de palate renascentiste. Vizitați impresionantul Teatru Anatomic de la Archiginnasio, apoi pierdeți-vă pe străduțele medievale din Quadrilatero. După-amiaza, provocați-vă cu urcarea în turnurile înclinate și descoperiți canalele ascunse ale orașului. Seara se încheie perfect cu o porție de paste proaspete într-o osteria tradițională.",
+            "en": "Start your day in the heart of Bologna at Piazza Maggiore, surrounded by grand Renaissance palaces. Visit the stunning Anatomical Theatre at the Archiginnasio before diving into the medieval alleys of the Quadrilatero. In the afternoon, challenge yourself with a climb up the leaning towers and discover the city's hidden canals. The evening ends perfectly with handmade pasta in a traditional local osteria."
+          },
+          "stops": [
+            {
+              "name": "Piazza Maggiore",
+              "tip_5lang": {
+                "de": "Genießen Sie einen Espresso in einem der historischen Cafés am Platz.",
+                "hu": "Igyál egy eszpresszót a tér egyik történelmi kávézójában.",
+                "ro": "Savurați un espresso la una dintre cafenelele istorice din piață.",
+                "en": "Enjoy an espresso at one of the historic cafes in the square."
+              }
+            },
+            {
+              "name": "Fontana del Nettuno",
+              "tip_5lang": {
+                "de": "Achten Sie auf die optische Täuschung von Giambologna.",
+                "hu": "Figyeld meg a Giambologna-féle optikai csalódást.",
+                "ro": "Observați iluzia optică creată de Giambologna.",
+                "en": "Look for the famous optical illusion by Giambologna."
+              }
+            },
+            {
+              "name": "Basilica di San Petronio",
+              "tip_5lang": {
+                "de": "Suchen Sie die längste Meridianlinie der Welt im Inneren.",
+                "hu": "Keresd meg a világ leghosszabb délvonalát a templomban.",
+                "ro": "Căutați cea mai lungă linie meridiană din lume în interior.",
+                "en": "Find the world's longest meridian line inside the basilica."
+              }
+            },
+            {
+              "name": "Archiginnasio di Bologna",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Anatomische Theater aus dem 17. Jahrhundert.",
+                "hu": "Látogasd meg a 17. századi anatómiai színházat.",
+                "ro": "Vizitați Teatrul Anatomic din secolul al XVII-lea.",
+                "en": "Visit the 17th-century Anatomical Theatre inside."
+              }
+            },
+            {
+              "name": "Basilica di Santo Stefano",
+              "tip_5lang": {
+                "de": "Bekannt als Sette Chiese (Sieben Kirchen), ein Labyrinth des Friedens.",
+                "hu": "Hét templom néven is ismert, a nyugalom labirintusa.",
+                "ro": "Cunoscut sub numele de Sette Chiese, un labirint al liniștii.",
+                "en": "Known as the Sette Chiese, a labyrinth of interconnected chapels."
+              }
+            },
+            {
+              "name": "Le Due Torri",
+              "tip_5lang": {
+                "de": "Reservieren Sie Tickets für den Asinelli-Turm im Voraus.",
+                "hu": "Foglald le előre a jegyedet az Asinelli-toronyba.",
+                "ro": "Rezervați biletele pentru Turnul Asinelli în avans.",
+                "en": "Book tickets for the Asinelli Tower well in advance online."
+              }
+            },
+            {
+              "name": "Finestrella di Via Piella",
+              "tip_5lang": {
+                "de": "Das kleine Fenster zeigt das verborgene Venedig von Bologna.",
+                "hu": "A kis ablak Bologna rejtett Velencéjét mutatja meg.",
+                "ro": "Fereastra mică dezvăluie Veneția ascunsă a Bolognei.",
+                "en": "This tiny window reveals the hidden Venice of Bologna."
+              }
+            },
+            {
+              "name": "Pinacoteca Nazionale",
+              "tip_5lang": {
+                "de": "Bewundern Sie Meisterwerke von Raffael und Giotto.",
+                "hu": "Csodáld meg Raffaello és Giotto mesterműveit.",
+                "ro": "Admirați capodoperele lui Rafael și Giotto.",
+                "en": "Admire the masterpieces by Raphael and Giotto."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Tagliatelle al Ragù",
+                "tip": "Probieren Sie das Original bei Tamburini."
+              },
+              {
+                "name": "Tortellini in Brodo",
+                "tip": "Ein Klassiker der emilianischen Küche."
+              },
+              {
+                "name": "Mortadella di Bologna",
+                "tip": "Hauchdünn aufgeschnitten im Mercato di Mezzo."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tagliatelle al Ragù",
+                "tip": "Kóstolja meg az eredetit a Tamburiniben."
+              },
+              {
+                "name": "Tortellini in Brodo",
+                "tip": "Az emíliai konyha egyik legfőbb klasszikusa."
+              },
+              {
+                "name": "Mortadella di Bologna",
+                "tip": "Hajszálvékonyra szeletelve a Mercato di Mezzóban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tagliatelle al Ragù",
+                "tip": "Gustați originalul la Tamburini."
+              },
+              {
+                "name": "Tortellini in Brodo",
+                "tip": "Un clasic absolut al bucătăriei emiliene."
+              },
+              {
+                "name": "Mortadella di Bologna",
+                "tip": "Feliată fin în Mercato di Mezzo."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tagliatelle al Ragù",
+                "tip": "Try the authentic version at Tamburini."
+              },
+              {
+                "name": "Tortellini in Brodo",
+                "tip": "The ultimate classic of Emilian cuisine."
+              },
+              {
+                "name": "Mortadella di Bologna",
+                "tip": "Sliced paper-thin at Mercato di Mezzo."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Santuario di Santo Stefano",
+                "tip": "Stille Kreuzgänge im Kirchenkomplex.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Giardini Margherita",
+                "tip": "Der größte Stadtpark für eine Pause.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Santuario di Santo Stefano",
+                "tip": "Csendes kerengők a templomkomplexumban.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Giardini Margherita",
+                "tip": "A legnagyobb városi park egy kis pihenőhöz.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Santuario di Santo Stefano",
+                "tip": "Clasutre liniștite în complexul de biserici.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Giardini Margherita",
+                "tip": "Cel mai mare parc urban pentru o pauză.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Santuario di Santo Stefano",
+                "tip": "Quiet cloisters within the church complex.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Giardini Margherita",
+                "tip": "The largest city park for a peaceful break.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Quadrilatero",
+                "tip": "Historisches Viertel mit Delikatessenläden."
+              },
+              {
+                "name": "Via dell'Indipendenza",
+                "tip": "Die Haupteinkaufsstraße unter Arkaden."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Quadrilatero",
+                "tip": "Történelmi negyed tele delikáteszboltokkal."
+              },
+              {
+                "name": "Via dell'Indipendenza",
+                "tip": "A fő bevásárlóutca az árkádok alatt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Quadrilatero",
+                "tip": "Cartier istoric cu magazine de delicatese."
+              },
+              {
+                "name": "Via dell'Indipendenza",
+                "tip": "Principala stradă comercială sub arcade."
+              }
+            ],
+            "en": [
+              {
+                "name": "Quadrilatero",
+                "tip": "Historic district filled with food boutiques."
+              },
+              {
+                "name": "Via dell'Indipendenza",
+                "tip": "The main shopping street under the porticoes."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Bologna hat fast 40 km Arkaden, ideal bei Regen oder Hitze.",
+              "Die Stadt ist flach und kompakt, perfekt zum Zu-Fuß-Gehen.",
+              "Achten Sie in Kirchen auf angemessene Kleidung.",
+              "Die meisten Museen sind montags geschlossen."
+            ],
+            "hu": [
+              "Bologna közel 40 km-nyi árkáddal rendelkezik, ideális esőben vagy hőségben.",
+              "A város sík és kompakt, tökéletesen bejárható gyalog.",
+              "A templomokban figyeljen a megfelelő öltözékre.",
+              "A legtöbb múzeum hétfőn zárva tart."
+            ],
+            "ro": [
+              "Bologna are aproape 40 km de arcade, ideale pe ploaie sau caniculă.",
+              "Orașul este plat și compact, perfect pentru explorat la pas.",
+              "Respectați codul vestimentar în biserici.",
+              "Majoritatea muzeelor sunt închise lunea."
+            ],
+            "en": [
+              "Bologna has nearly 40km of porticoes, perfect for shade or rain.",
+              "The city center is flat and compact, ideal for walking.",
+              "Ensure respectful attire when visiting churches.",
+              "Most museums are closed on Mondays."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bologna bei Regen ist dank der 40 km langen Bogengänge (Portici) ein Genuss. Starten Sie trocken auf der Piazza Maggiore und bewundern Sie den Neptunbrunnen unter dem Schutz der Arkaden.\nMittags bieten die Basilica di San Petronio und der Archiginnasio perfekten Unterschlupf und faszinierende Geschichte, während draußen der Regen auf das Pflaster trommelt.\nAm Nachmittag spazieren Sie geschützt zu Santo Stefano und den Türmen. Die Finestrella di Via Piella zeigt den Kanal heute besonders wasserreich und atmosphärisch.\nAbends genießen Sie die warme Beleuchtung der nassen Gassen vom Inneren der Pinacoteca Nazionale aus, bevor Sie durch die beleuchteten Arkaden zum Abendessen einkehren.",
+            "hu": "Bologna esőben is kényelmes, köszönhetően a várost átszövő, közel 40 kilométernyi árkádsornak. Kezdje a napot a Piazza Maggiorén, ahol a fedett folyosók alatt szárazon maradhat.\nDélben a San Petronio bazilika és az Archiginnasio könyvtára kínál menedéket a zápor elől, bevezetve a város egyetemi múltjába.\nDélután folytassa útját a Santo Stefano negyed felé, továbbra is az árkádok védelmében. A Via Piella kis ablaka mögött a csatorna most igazán megduzzadt és látványos.\nAz estét töltse a Nemzeti Galéria falai között, majd csodálja meg a vizes aszfalton tükröződő városi fényeket egy pohár bor mellett egy hangulatos osteriában.",
+            "ro": "Bologna pe ploaie este o plăcere datorită celor 40 km de porticuri care vă mențin uscat. Începeți în Piazza Maggiore, admirând Fontana del Nettuno de sub arcade.\nLa prânz, Basilica di San Petronio și Archiginnasio oferă adăpost perfect și o incursiune în istoria academică a orașului, în timp ce ploaia cade afară.\nDupă-amiaza, plimbați-vă spre Santo Stefano și Cele Două Turnuri, folosind rețeaua de arcade. Canalul de la Via Piella este astăzi plin de viață și foarte pitoresc.\nSeara, vizitați Pinacoteca Nazionale pentru o doză de artă, apoi bucurați-vă de reflexiile luminilor orașului pe străzile umede, înainte de o cină caldă.",
+            "en": "Bologna in the rain is a delight thanks to its 40 km of porticoes (arcades) that keep you dry. Start at Piazza Maggiore, admiring Neptune's Fountain while staying under cover.\nAt midday, the Basilica di San Petronio and the Archiginnasio provide perfect shelter and a deep dive into history while the rain drums on the pavement.\nIn the afternoon, walk towards Santo Stefano and the Two Towers, protected by the arches. The window on Via Piella shows the canal at its most atmospheric today.\nSpend the evening inside the National Gallery, then enjoy the city lights reflecting on the wet cobblestones before heading to a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Piazza Maggiore",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden rund um den Platz, um trocken zu bleiben.",
+                "hu": "Használja a tér körüli árkádokat, hogy szárazon maradjon.",
+                "ro": "Folosiți arcadele din jurul pieței pentru a rămâne uscat.",
+                "en": "Use the arcades around the square to stay dry."
+              }
+            },
+            {
+              "name": "Fontana del Nettuno",
+              "tip_5lang": {
+                "de": "Betrachten Sie die Statue aus dem Schutz der Sala Borsa gegenüber.",
+                "hu": "Csodálja meg a szobrot a szemközti Sala Borsa védelméből.",
+                "ro": "Admirați statuia din adăpostul clădirii Sala Borsa de vizavi.",
+                "en": "Admire the statue from the shelter of the Sala Borsa opposite."
+              }
+            },
+            {
+              "name": "Basilica di San Petronio",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen starken Regenschauer drinnen abzuwarten.",
+                "hu": "Ideális hely egy nagyobb zápor átvészelésére a falakon belül.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "An ideal place to wait out a heavy downpour inside."
+              }
+            },
+            {
+              "name": "Archiginnasio di Bologna",
+              "tip_5lang": {
+                "de": "Die Innenhöfe und Korridore sind komplett überdacht.",
+                "hu": "A belső udvarok és folyosók teljesen fedettek.",
+                "ro": "Curțile interioare și coridoarele sunt complet acoperite.",
+                "en": "The inner courtyards and corridors are fully covered."
+              }
+            },
+            {
+              "name": "Basilica di Santo Stefano",
+              "tip_5lang": {
+                "de": "Der Komplex aus sieben Kirchen bietet viel Platz im Trockenen.",
+                "hu": "A hét templomból álló komplexum sok belső teret kínál.",
+                "ro": "Complexul de șapte biserici oferă mult spațiu la adăpost.",
+                "en": "The complex of seven churches offers plenty of indoor space."
+              }
+            },
+            {
+              "name": "Le Due Torri",
+              "tip_5lang": {
+                "de": "Bei Regen kann der Aufstieg wegen der Feuchtigkeit rutschig sein.",
+                "hu": "Esőben a lépcsők a pára miatt csúszósak lehetnek.",
+                "ro": "Pe ploaie, treptele pot fi alunecoase din cauza umidității.",
+                "en": "In the rain, the steps can be slippery due to humidity."
+              }
+            },
+            {
+              "name": "Finestrella di Via Piella",
+              "tip_5lang": {
+                "de": "Der Wasserstand im Kanal ist bei Regen besonders fotogen.",
+                "hu": "A csatorna vízszintje esőben különösen látványos a fotókon.",
+                "ro": "Nivelul apei din canal este deosebit de fotogenic pe ploaie.",
+                "en": "The water level in the canal is especially photogenic in the rain."
+              }
+            },
+            {
+              "name": "Pinacoteca Nazionale",
+              "tip_5lang": {
+                "de": "Perfekter Abschluss für einen regnerischen Nachmittag im Museum.",
+                "hu": "Tökéletes zárása egy esős délutánnak a múzeum falai között.",
+                "ro": "Finalul perfect pentru o după-amiază ploioasă la muzeu.",
+                "en": "Perfect ending for a rainy afternoon inside the museum."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bologna hat die meisten überdachten Gehwege weltweit – ein Schirm ist fast optional.",
+              "Vorsicht auf Marmorböden unter den Arkaden, diese können bei Nässe glatt sein.",
+              "Besuchen Sie die Sala Borsa Bibliothek für eine trockene Pause mit Ausgrabungen.",
+              "Die Buslinie 20 bringt Sie trocken näher zu den wichtigsten Sehenswürdigkeiten."
+            ],
+            "hu": [
+              "Bologna rendelkezik a világ legtöbb árkádjával, így az esernyő szinte elhagyható.",
+              "Vigyázzon az árkádok alatti márványburkolattal, nedves cipővel csúszós lehet.",
+              "A Sala Borsa könyvtár remek hely egy száraz pihenőre, ahol ókori romokat is látni.",
+              "Esőben a 20-as busz segít lerövidíteni a nyitottabb szakaszokat a központban."
+            ],
+            "ro": [
+              "Bologna are cele mai multe trotuare acoperite din lume – umbrela este aproape opțională.",
+              "Atenție la pavajul de marmură de sub arcade, poate fi alunecos când este ud.",
+              "Vizitați biblioteca Sala Borsa pentru o pauză uscată și ruine antice la subsol.",
+              "Linia de autobuz 20 vă poate apropia de principalele obiective fără a vă uda."
+            ],
+            "en": [
+              "Bologna has the most covered walkways in the world – an umbrella is almost optional.",
+              "Watch out for marble floors under the porticoes; they can be slippery when wet.",
+              "Visit the Sala Borsa library for a dry break and to see ancient ruins below.",
+              "Bus line 20 can help you skip the more exposed sections between major sites."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bologna im Winter duftet nach gerösteten Kastanien und frischen Tortellini. Der Morgen auf der Piazza Maggiore ist frisch, aber die historische Kulisse wirkt im klaren Winterlicht majestätisch.\nMittags wärmen Sie sich in den prachtvollen Räumen des Archiginnasio auf, bevor Sie die herzhafte lokale Küche in einer der beheizten Trattorien genießen.\nAm Nachmittag bietet der Spaziergang durch die Santo Stefano Basiliken spirituelle Ruhe und Schutz vor der Kälte. Der Blick auf die Türme ist bei früher Dämmerung besonders stimmungsvoll.\nDer Abend gehört der Pinacoteca Nazionale, wo Sie die Kunstschätze in wohliger Wärme bewundern können, bevor die Stadt in festlicher Beleuchtung erstrahlt.",
+            "hu": "A téli Bologna sült gesztenye és gőzölgő tortellini illatával várja. A reggel a Piazza Maggiorén csípős lehet, de a történelmi épületek a tiszta téli fényben fenségesek.\nDélben melegedjen fel az Archiginnasio díszes termeiben, majd kóstolja meg a tartalmas helyi ételeket egy fűtött trattoriában.\nDélután a Santo Stefano bazilikák nyújtanak lelki békét és oltalmat a hideg szél elől. A Due Torri látványa a korai szürkületben különösen hangulatos.\nAz estét töltse a Pinacoteca Nazionale műtárgyai között, élvezve a múzeum melegét, mielőtt a város díszkivilágítása teljes pompájában felgyúlna.",
+            "ro": "Bologna iarna miroase a castane coapte și tortellini proaspeți. Dimineața în Piazza Maggiore este răcoroasă, dar decorul istoric arată maiestuos în lumina clară a iernii.\nLa prânz, încălziți-vă în sălile splendide de la Archiginnasio înainte de a savura bucătăria locală consistentă într-o trattoria încălzită.\nDupă-amiaza, o vizită la bazilicile din Santo Stefano oferă liniște și protecție împotriva frigului. Vederea turnurilor la amurgul timpuriu este foarte sugestivă.\nSeara aparține Pinacotecii Nazionale, unde puteți admira comorile artistice la căldură, înainte ca orașul să strălucească în luminile festive.",
+            "en": "Winter in Bologna smells of roasted chestnuts and fresh tortellini. The morning at Piazza Maggiore is crisp, but the historic backdrop looks majestic in the clear winter light.\nAt midday, warm up in the magnificent rooms of the Archiginnasio before enjoying hearty local cuisine in a heated trattoria.\nIn the afternoon, a walk through the Santo Stefano basilicas offers spiritual peace and shelter from the cold. The Two Towers look especially evocative at early dusk.\nSpend the evening at the Pinacoteca Nazionale, admiring art treasures in cozy warmth before the city lights up with festive decorations."
+          },
+          "stops": [
+            {
+              "name": "Piazza Maggiore",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Caffè in den historischen Bars am Platz.",
+                "hu": "Igyon egy forró kávét a tér történelmi kávézóinak egyikében.",
+                "ro": "Savurați o cafea fierbinte în cafenelele istorice din piață.",
+                "en": "Enjoy a hot coffee in one of the historic bars on the square."
+              }
+            },
+            {
+              "name": "Fontana del Nettuno",
+              "tip_5lang": {
+                "de": "Das Metall der Statue wirkt im Winterfrost besonders markant.",
+                "hu": "A szobor fémfelülete a téli fagyban különösen karakteres.",
+                "ro": "Metalul statuii arată deosebit de marcant în gerul iernii.",
+                "en": "The metal of the statue looks particularly striking in the winter frost."
+              }
+            },
+            {
+              "name": "Basilica di San Petronio",
+              "tip_5lang": {
+                "de": "Die massiven Mauern halten die Kälte draußen; ideal zum Aufwärmen.",
+                "hu": "A vastag falak kint tartják a hideget; ideális hely a felmelegedéshez.",
+                "ro": "Zidurile masive țin frigul afară; loc ideal pentru a vă încălzi.",
+                "en": "The massive walls keep the cold out; an ideal spot to warm up."
+              }
+            },
+            {
+              "name": "Archiginnasio di Bologna",
+              "tip_5lang": {
+                "de": "Das Anatomische Theater ist ein warmer und faszinierender Ort.",
+                "hu": "Az Anatómiai Színház meleg és lenyűgöző látnivaló.",
+                "ro": "Teatrul Anatomic este un loc cald și fascinant de vizitat.",
+                "en": "The Anatomical Theatre is a warm and fascinating place to visit."
+              }
+            },
+            {
+              "name": "Basilica di Santo Stefano",
+              "tip_5lang": {
+                "de": "Die verwinkelten Kapellen bieten Schutz vor dem kalten Wind.",
+                "hu": "A zegzugos kápolnák védelmet nyújtanak a hideg szél elől.",
+                "ro": "Capelele întortocheate oferă protecție împotriva vântului rece.",
+                "en": "The winding chapels offer protection from the cold wind."
+              }
+            },
+            {
+              "name": "Le Due Torri",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter schon gegen 16:30 Uhr.",
+                "hu": "Télen a naplemente már délután fél 5 körül bekövetkezik.",
+                "ro": "Apusul de soare în timpul iernii este deja în jurul orei 16:30.",
+                "en": "Sunset in winter is already around 4:30 PM."
+              }
+            },
+            {
+              "name": "Finestrella di Via Piella",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, bevor es zurück in die warmen Bogengänge geht.",
+                "hu": "Rövid megálló, mielőtt visszatérne a meleg árkádok alá.",
+                "ro": "O oprire scurtă înainte de a reveni la arcadele călduroase.",
+                "en": "A short stop before heading back under the warm porticoes."
+              }
+            },
+            {
+              "name": "Pinacoteca Nazionale",
+              "tip_5lang": {
+                "de": "Die gut geheizten Galerien laden zum langen Verweilen ein.",
+                "hu": "A jól fűtött galériák hosszú időzésre csábítanak a hidegben.",
+                "ro": "Galeriile bine încălzite vă invită la o vizită prelungită.",
+                "en": "The well-heated galleries invite a long stay during the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Probieren Sie 'Tortellini in brodo' – die klassische Winterspeise Bolognas.",
+              "Die Sonne geht früh unter; planen Sie Außenaktivitäten vor 16 Uhr.",
+              "Tragen Sie warme Schichten, da der Wind durch die Portici ziehen kann.",
+              "Die Weihnachtsbeleuchtung macht die Via dell'Indipendenza besonders schön."
+            ],
+            "hu": [
+              "Kóstolja meg a 'Tortellini in brodo'-t, a város klasszikus téli ételét.",
+              "A nap korán nyugszik; a szabadtéri látnivalókat tervezze délután 4 előttre.",
+              "Öltözzön rétegesen, mert az árkádok alatt csatornahatású lehet a szél.",
+              "A karácsonyi fények miatt a Via dell'Indipendenza különösen szép ilyenkor."
+            ],
+            "ro": [
+              "Încercați „Tortellini in brodo” – preparatul clasic de iarnă din Bologna.",
+              "Soarele apune devreme; planificați activitățile în aer liber înainte de ora 16:00.",
+              "Purtați haine stratificate, deoarece vântul se poate simți rece sub porticuri.",
+              "Luminile de Crăciun fac Via dell'Indipendenza deosebit de frumoasă."
+            ],
+            "en": [
+              "Try 'Tortellini in brodo' – Bologna's classic winter dish in warm broth.",
+              "The sun sets early; plan your outdoor photo stops before 4:00 PM.",
+              "Wear warm layers as the wind can funnel through the porticoes.",
+              "The Christmas lights make Via dell'Indipendenza particularly beautiful."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -588,6 +1064,383 @@
           "Use a strong lock, bike theft can happen.",
           "Riding under porticoes is forbidden; please walk your bike."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "hu": "Fedezze fel Bolognát kerékpáron, érintve a modern művészeteket a MAMbo-ban és a középkori csodákat a belvárosban. A túra csúcspontja a San Luca szentélyhez vezető ikonikus árkádsor alatti tekerés, ahonnan fentről belátható az egész régió. Estére guruljon vissza a nyüzsgő terekre egy frissítő italra.",
+            "de": "Erkunden Sie Bologna mit dem Fahrrad, von der modernen Kunst im MAMbo bis zu den mittelalterlichen Wundern im Zentrum. Der Höhepunkt ist die Fahrt unter den ikonischen Arkaden hinauf zum San Luca Sanktuarium, das einen Panoramablick über die Region bietet. Radeln Sie am Abend zurück zu den belebten Plätzen für ein Erfrischungsgetränk.",
+            "ro": "Explorați Bologna pe bicicletă, de la arta modernă de la MAMbo la minunile medievale din centru. Punctul culminant este pedalarea sub arcadele iconice până la Sanctuarul San Luca, care oferă o panoramă superbă. Seara, reveniți în piețele pline de viață pentru o băutură răcoritoare.",
+            "en": "Explore Bologna by bike, covering everything from modern art at MAMbo to medieval wonders in the center. The highlight is the ride under the iconic porticoes up to the San Luca Sanctuary for a panoramic view. Roll back to the lively squares in the evening for a well-deserved refreshing drink."
+          },
+          "stops": [
+            {
+              "name": "Piazza Maggiore",
+              "tip_5lang": {
+                "hu": "Parkold le a bringát a kijelölt helyeken.",
+                "de": "Parken Sie das Fahrrad an den markierten Stellen.",
+                "ro": "Parcați bicicleta în locurile special amenajate.",
+                "en": "Park your bike in designated areas only."
+              }
+            },
+            {
+              "name": "MAMbo",
+              "tip_5lang": {
+                "hu": "Modern művészet egy egykori pékségben.",
+                "de": "Moderne Kunst in einer ehemaligen Bäckerei.",
+                "ro": "Artă modernă într-o fostă brutărie.",
+                "en": "Modern art housed in a former bakery."
+              }
+            },
+            {
+              "name": "Finestrella di Via Piella",
+              "tip_5lang": {
+                "hu": "Gyors fotómegálló a csatornánál.",
+                "de": "Schneller Fotostopp am Kanal.",
+                "ro": "O scurtă oprire pentru poze la canal.",
+                "en": "A quick photo stop by the canal."
+              }
+            },
+            {
+              "name": "Le Due Torri",
+              "tip_5lang": {
+                "hu": "A tornyok tövében sok a kerékpár.",
+                "de": "Viele Fahrräder am Fuße der Türme.",
+                "ro": "Multe biciclete la baza turnurilor.",
+                "en": "Many bikes are usually parked here."
+              }
+            },
+            {
+              "name": "Basilica di Santo Stefano",
+              "tip_5lang": {
+                "hu": "Pihenj meg a hangulatos téren.",
+                "de": "Rasten Sie auf dem gemütlichen Platz.",
+                "ro": "Odihniți-vă în piața primitoare.",
+                "en": "Rest in the welcoming square."
+              }
+            },
+            {
+              "name": "Santuario di San Luca",
+              "tip_5lang": {
+                "hu": "Kemény hegymenet, de a kilátás megéri.",
+                "de": "Harter Aufstieg, aber die Aussicht lohnt sich.",
+                "ro": "Urcare grea, dar priveliștea merită.",
+                "en": "Tough climb, but the view is rewarding."
+              }
+            },
+            {
+              "name": "Archiginnasio di Bologna",
+              "tip_5lang": {
+                "hu": "Vissza a belvárosba a zárás előtt.",
+                "de": "Zurück ins Zentrum vor der Schließung.",
+                "ro": "Înapoi în centru înainte de închidere.",
+                "en": "Back to the center before closing time."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "hu": [
+              {
+                "name": "Piadina Romagnola",
+                "tip": "Gyors és finom ebéd útközben."
+              }
+            ],
+            "de": [
+              {
+                "name": "Piadina Romagnola",
+                "tip": "Schnelles und leckeres Mittagessen für unterwegs."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piadina Romagnola",
+                "tip": "Un prânz rapid și delicios pe drum."
+              }
+            ],
+            "en": [
+              {
+                "name": "Piadina Romagnola",
+                "tip": "Quick and tasty lunch on the go."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "hu": [
+              {
+                "name": "Certosa di Bologna",
+                "tip": "Monumentális temető, síri csenddel.",
+                "emoji": "🧘"
+              }
+            ],
+            "de": [
+              {
+                "name": "Certosa di Bologna",
+                "tip": "Monumentaler Friedhof, absolute Stille.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Certosa di Bologna",
+                "tip": "Cimitir monumental, liniște deplină.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Certosa di Bologna",
+                "tip": "Monumental cemetery, peaceful and silent.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "hu": [
+              {
+                "name": "Mercato delle Erbe",
+                "tip": "Helyi piac autentikus hangulattal."
+              }
+            ],
+            "de": [
+              {
+                "name": "Mercato delle Erbe",
+                "tip": "Lokaler Markt mit authentischer Atmosphäre."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mercato delle Erbe",
+                "tip": "Piață locală cu atmosferă autentică."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mercato delle Erbe",
+                "tip": "Local market with an authentic vibe."
+              }
+            ]
+          },
+          "tips": {
+            "hu": [
+              "A legtöbb belvárosi utca egyirányú, de biciklivel sokszor megengedett a szembehaladás.",
+              "Használj erős lakatot, a biciklitolvajlás előfordul.",
+              "Az árkádok alatt tilos kerékpározni, told a gépet."
+            ],
+            "de": [
+              "Die meisten Innenstadtstraßen sind Einbahnstraßen, oft für Räder frei.",
+              "Benutzen Sie ein starkes Schloss, Fahrraddiebstahl kommt vor.",
+              "Unter den Arkaden ist Radfahren verboten, bitte schieben."
+            ],
+            "ro": [
+              "Majoritatea străzilor centrale sunt cu sens unic, dar adesea permise bicicletelor.",
+              "Folosiți un lacăt solid, furtul de biciclete este comun.",
+              "Este interzis mersul pe bicicletă sub arcade, vă rugăm să o împingeți."
+            ],
+            "en": [
+              "Most central streets are one-way, but often allow bikes both ways.",
+              "Use a strong lock, bike theft can happen.",
+              "Riding under porticoes is forbidden; please walk your bike."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bologna mit dem Rad im Regen erfordert Vorsicht, bietet aber eine dynamische Perspektive. Starten Sie vorsichtig auf der Piazza Maggiore und nutzen Sie die breiteren Bogengänge als Orientierungshilfe.\nMittags ist das MAMbo ein ideales Ziel; das moderne Museum bietet viel Platz und Schutz für Sie und Ihr Equipment, während es draußen regnet.\nAm Nachmittag geht es zur Finestrella und den Türmen. Der Portico di San Luca ist die Rettung: Er ist komplett überdacht und führt Sie trocken bis zum Santuario hinauf.\nDen Tag beenden Sie beim Archiginnasio, wo Sie die Fahrräder sicher im Schutz der umliegenden Gebäude abstellen können.",
+            "hu": "Biciklivel az esős Bolognában óvatosságot igényel, de dinamikus élményt nyújt. Kezdjen a Piazza Maggiorén, és használja a széles árkádokat tájékozódási pontként.\nDélben a MAMbo modern művészeti múzeuma ideális úti cél, ahol bőséges belső tér és védelem várja Önt és felszerelését az eső elől.\nDélután látogasson el a Via Piella ablakához, majd irány San Luca. A híres San Luca-árkád mentén teljesen fedett úton tekerhet fel a szentélyhez.\nA napot az Archiginnasiónál zárja, ahol a környék épületeinek védelmében biztonságosan lezárhatja kerékpárját.",
+            "ro": "Bologna pe bicicletă în ploaie necesită prudență, dar oferă o perspectivă dinamică. Începeți cu grijă în Piazza Maggiore, folosind arcadele largi ca puncte de reper.\nLa prânz, MAMbo este o destinație ideală; muzeul de artă modernă oferă spațiu generos și protecție în timp ce afară plouă torențial.\nDupă-amiaza, treceți pe la Finestrella și turnuri. Salvarea vine de la Portico di San Luca: este complet acoperit și vă duce uscat până la sanctuar.\nÎncheiați ziua la Archiginnasio, unde puteți parca bicicletele în siguranță, la adăpostul clădirilor din jur.",
+            "en": "Cycling in Bologna during rain requires caution but offers a dynamic perspective. Start carefully at Piazza Maggiore, using the wide porticoes as your guide.\nAt midday, MAMbo is an ideal destination; the modern art museum offers plenty of space and protection while it pours outside.\nIn the afternoon, head to the Finestrella and the towers. The Portico di San Luca is your savior: it's fully covered and leads you dry all the way up to the sanctuary.\nFinish your ride at the Archiginnasio, where you can park your bikes safely under the shelter of the surrounding buildings."
+          },
+          "stops": [
+            {
+              "name": "Piazza Maggiore",
+              "tip_5lang": {
+                "de": "Vorsicht beim Losfahren; das Kopfsteinpflaster ist bei Nässe sehr glatt.",
+                "hu": "Vigyázzon induláskor; a macskakő nedvesen nagyon csúszik.",
+                "ro": "Atenție la plecare; pavajul de piatră este foarte alunecos când e ud.",
+                "en": "Be careful when starting; the cobblestones are very slippery when wet."
+              }
+            },
+            {
+              "name": "MAMbo",
+              "tip_5lang": {
+                "de": "Großzügiger Eingangsbereich, ideal um Regenkleidung abzulegen.",
+                "hu": "Tágas bejárati rész, ideális az esőruházat levételéhez.",
+                "ro": "Zonă de intrare generoasă, ideală pentru a lăsa pelerina de ploaie.",
+                "en": "Generous entrance area, ideal for removing your rain gear."
+              }
+            },
+            {
+              "name": "Finestrella di Via Piella",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; achten Sie auf Pfützen in den engen Gassen.",
+                "hu": "Rövid megálló; ügyeljen a tócsákra a szűk utcákban.",
+                "ro": "Oprire scurtă; atenție la bălțile din străzile înguste.",
+                "en": "Short stop; watch out for puddles in the narrow streets."
+              }
+            },
+            {
+              "name": "Le Due Torri",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter einem nahen Portico ab.",
+                "hu": "Zárja le a biciklit egy közeli árkád alatt.",
+                "ro": "Parcați bicicleta sub un portic din apropiere.",
+                "en": "Park your bike under a nearby portico."
+              }
+            },
+            {
+              "name": "Basilica di Santo Stefano",
+              "tip_5lang": {
+                "de": "Der Platz davor ist weitläufig; Vorsicht bei Bremsmanövern.",
+                "hu": "A tér tágas; legyen óvatos a fékezéseknél a vizes kövön.",
+                "ro": "Piața este largă; fiți precaut la frânare pe pavajul ud.",
+                "en": "The square is spacious; be cautious when braking on wet stones."
+              }
+            },
+            {
+              "name": "Santuario di San Luca",
+              "tip_5lang": {
+                "de": "Der Anstieg unter den Portici schützt Sie vor dem direkten Regen.",
+                "hu": "Az árkádok alatti emelkedő megvédi a közvetlen esőtől.",
+                "ro": "Urcarea pe sub arcade vă protejează de ploaia directă.",
+                "en": "The climb under the porticoes protects you from direct rain."
+              }
+            },
+            {
+              "name": "Archiginnasio di Bologna",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz unter den Arkaden in der Nähe.",
+                "hu": "Biztonságos tárolási lehetőség a közeli árkádok védelmében.",
+                "ro": "Loc de parcare sigur sub arcadele din apropiere.",
+                "en": "Safe parking spot under the nearby arcades."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Fahren direkt auf den weißen Linien der Markierungen.",
+              "Der Portico di San Luca ermöglicht eine trockene Auffahrt zum Hügel.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt vom San Luca besonders gründlich.",
+              "Nutzen Sie die Radwege entlang der Viali (Ringstraße) für schnellere Wege."
+            ],
+            "hu": [
+              "Kerülje a közvetlen ráhajtást a fehér útburkolati jelekre.",
+              "A San Luca-árkádsor lehetővé teszi a száraz feljutást a dombra.",
+              "A San Lucáról való leereszkedés előtt alaposan ellenőrizze a fékeket.",
+              "Használja a Viali (körgyűrű) menti kerékpárutakat a gyorsabb haladáshoz."
+            ],
+            "ro": [
+              "Evitați să circulați direct pe marcajele rutiere albe.",
+              "Portico di San Luca permite o urcare uscată către deal.",
+              "Verificați frânele cu atenție înainte de a coborî de la San Luca.",
+              "Folosiți pistele de biciclete de-a lungul Viali pentru deplasări mai rapide."
+            ],
+            "en": [
+              "Avoid riding directly on the white road markings; they get very slick.",
+              "The Portico di San Luca allows for a dry ascent up the hill.",
+              "Check your brakes thoroughly before descending from San Luca in the wet.",
+              "Use the bike lanes along the Viali (ring road) for faster transit."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bologna mit dem Rad im Winter ist belebend. Die Piazza Maggiore glänzt im Frost, während Sie die klare Luft auf dem Weg zum MAMbo genießen.\nMittags bietet das moderne Kunstmuseum eine warme Pause von der winterlichen Kälte, bevor Sie durch die festlich geschmückten Gassen weiterfahren.\nAm Nachmittag ist der Anstieg zum San Luca eine sportliche Herausforderung, die Sie garantiert aufwärmt. Der Blick auf das winterliche Umland ist bei klarer Sicht unschlagbar.\nZum Abschluss besuchen Sie das Archiginnasio. Die historische Atmosphäre wirkt in der kalten Jahreszeit besonders ehrwürdig und einladend.",
+            "hu": "Télen kerékpározni Bolognában frissítő élmény. A Piazza Maggiore csillog a dértől, miközben a MAMbo felé tekerve élvezi a tiszta téli levegőt.\nDélben a modern művészeti múzeum meleg pihenőt nyújt a hideg elől, mielőtt továbbhajtana az ünnepi díszbe öltözött utcákon.\nDélután a San Lucához vezető emelkedő sportos kihívás, amely garantáltan felmelegíti. A téli táj látványa tiszta időben páratlan.\nA napot az Archiginnasiónál zárja, ahol a történelmi környezet a hideg évszakban különösen méltóságteljes és hívogató.",
+            "ro": "Bologna pe bicicletă iarna este revigorant. Piazza Maggiore strălucește sub brumă în timp ce vă bucurați de aerul curat în drum spre MAMbo.\nLa prânz, muzeul de artă modernă oferă o pauză caldă de la frigul iernii, înainte de a continua prin străzile decorate festiv.\nDupă-amiaza, urcarea spre San Luca este o provocare sportivă care vă va încălzi cu siguranță. Vederea asupra împrejurimilor iernatice este imbatabilă pe cer senin.\nLa final, vizitați Archiginnasio. Atmosfera istorică pare deosebit de venerabilă și primitoare în sezonul rece.",
+            "en": "Cycling in Bologna in winter is invigorating. Piazza Maggiore glistens with frost as you enjoy the crisp air on your way to MAMbo.\nAt midday, the modern art museum provides a warm respite from the winter chill before you continue through the festively decorated streets.\nIn the afternoon, the climb to San Luca is a sporting challenge that is guaranteed to warm you up. The view of the winter countryside is unbeatable on a clear day.\nFinish your tour at the Archiginnasio, where the historic atmosphere feels particularly venerable and inviting during the cold season."
+          },
+          "stops": [
+            {
+              "name": "Piazza Maggiore",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; der Fahrtwind ist im Winter sehr beißend.",
+                "hu": "Viseljen kesztyűt; a menetszél télen nagyon metsző lehet.",
+                "ro": "Purtați mănuși; vântul din timpul mersului este tăios iarna.",
+                "en": "Wear gloves; the wind chill while riding is very sharp in winter."
+              }
+            },
+            {
+              "name": "MAMbo",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um Ihre schweren Wintersachen abzulegen.",
+                "hu": "Használja a ruhatárat a nehéz téli ruhák leadásához.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă.",
+                "en": "Use the cloakroom to drop off your heavy winter gear."
+              }
+            },
+            {
+              "name": "Finestrella di Via Piella",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen in den schattigen Kanalgassen.",
+                "hu": "Ügyeljen a jeges foltokra az árnyékos csatornaparti utcákban.",
+                "ro": "Atenție la porțiunile înghețate în străzile umbrite de lângă canal.",
+                "en": "Watch out for icy patches in the shaded canal streets."
+              }
+            },
+            {
+              "name": "Le Due Torri",
+              "tip_5lang": {
+                "de": "Der Metallständer für Räder kann im Frost sehr kalt sein.",
+                "hu": "A fém biciklitárolók a fagyban nagyon hidegek lehetnek.",
+                "ro": "Suporturile metalice pentru biciclete pot fi foarte reci pe ger.",
+                "en": "Metal bike racks can be very cold and stiff in the frost."
+              }
+            },
+            {
+              "name": "Basilica di Santo Stefano",
+              "tip_5lang": {
+                "de": "Ideal, um die steifen Finger in der Kirche kurz aufzuwärmen.",
+                "hu": "Ideális hely az elgémberedett ujjak felmelegítésére a templomban.",
+                "ro": "Ideal pentru a vă încălzi puțin degetele amorțite în biserică.",
+                "en": "Ideal for warming up stiff fingers briefly inside the church."
+              }
+            },
+            {
+              "name": "Santuario di San Luca",
+              "tip_5lang": {
+                "de": "Bei der Abfahrt kühlen Sie schnell aus; ziehen Sie sich warm an.",
+                "hu": "Ereszkedéskor gyorsan lehűlhet; öltözzön fel melegen.",
+                "ro": "La coborâre vă veți răci repede; îmbrăcați-vă gros.",
+                "en": "You will cool down quickly during the descent; dress warmly."
+              }
+            },
+            {
+              "name": "Archiginnasio di Bologna",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Café in der Nähe für eine heiße Schokolade.",
+                "hu": "Látogasson el a közeli kávézóba egy forró csokoládéra.",
+                "ro": "Vizitați cafeneaua din apropiere pentru o ciocolată caldă.",
+                "en": "Visit a nearby cafe for a thick Italian hot chocolate."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine winddichte Schicht, besonders für die Abfahrt vom San Luca.",
+              "Die Batterien von E-Bikes entladen sich bei Kälte schneller.",
+              "Nutzen Sie die Portici zum Abstellen, um den Sattel trocken und eisfrei zu halten.",
+              "Ein Schlauchtuch schützt Ihr Gesicht vor der kalten Winterluft."
+            ],
+            "hu": [
+              "Viseljen szélálló réteget, különösen a San Lucáról való leereszkedéshez.",
+              "Az elektromos kerékpárok akkumulátora hidegben gyorsabban merül.",
+              "Használja az árkádokat tárolásra, hogy a nyereg száraz és jégmentes maradjon.",
+              "Egy csősál remekül védi az arcot a hideg téli menetszéltől."
+            ],
+            "ro": [
+              "Purtați un strat rezistent la vânt, mai ales pentru coborârea de la San Luca.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Parcați sub arcade pentru a păstra șaua uscată și fără gheață.",
+              "Un fular tip tub vă va proteja fața de aerul rece al iernii."
+            ],
+            "en": [
+              "Wear a windproof outer layer, especially for the descent from San Luca.",
+              "E-bike batteries discharge faster in cold temperatures.",
+              "Park under porticoes to keep your saddle dry and ice-free.",
+              "A neck gaiter is excellent for protecting your face from the winter wind."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -816,6 +1669,356 @@
           "Use large parking garages like Parcheggio VIII Agosto.",
           "Rush hour is heavy between 8 and 9 AM."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "hu": "Autóval kényelmesen felfedezheti Bologna távolabbi pontjait is. Kezdjen a belváros szélén, majd látogassa meg a Nemzeti Galériát. A nap fénypontja a San Luca szentélyhez vezető autós út lesz, ahol a város panorámája tárul Ön elé. Délutánt fejezze be egy látogatással a Modern Művészeti Múzeumban, elkerülve a belvárosi tömeget.",
+            "de": "Mit dem Auto erkunden Sie bequem auch die entfernteren Punkte Bolognas. Beginnen Sie am Rande des Zentrums und besuchen Sie die Nationalgalerie. Der Höhepunkt des Tages ist die Fahrt zum San Luca Sanktuarium mit seinem Stadtpanorama. Beenden Sie den Nachmittag mit einem Besuch im Museum für Moderne Kunst und meiden Sie die Massen im Zentrum.",
+            "ro": "Cu mașina puteți explora confortabil și punctele mai îndepărtate ale Bolognei. Începeți la marginea centrului, apoi vizitați Galeria Națională. Punctul culminant al zilei va fi drumul cu mașina până la Sanctuarul San Luca, unde vi se dezvăluie panorama orașului. Încheiați după-amiaza cu o vizită la Muzeul de Artă Modernă.",
+            "en": "By car, you can comfortably explore Bologna's more distant spots. Start on the edge of the center, then visit the National Gallery. The highlight of the day will be the drive up to the San Luca Sanctuary, offering a full city panorama. Finish your afternoon with a visit to the MAMbo, avoiding the dense crowds of the inner core."
+          },
+          "stops": [
+            {
+              "name": "Piazza Maggiore",
+              "tip_5lang": {
+                "hu": "Parkolj a ZTL zónán kívül.",
+                "de": "Parken Sie außerhalb der ZTL-Zone.",
+                "ro": "Parcați în afara zonei ZTL.",
+                "en": "Park outside the ZTL (restricted zone)."
+              }
+            },
+            {
+              "name": "Basilica di San Petronio",
+              "tip_5lang": {
+                "hu": "A tér közvetlen közelében van.",
+                "de": "Direkt am Platz gelegen.",
+                "ro": "Situată chiar în piață.",
+                "en": "Located right on the square."
+              }
+            },
+            {
+              "name": "Le Due Torri",
+              "tip_5lang": {
+                "hu": "A toronyból látni a város határait is.",
+                "de": "Vom Turm aus sieht man bis zur Stadtgrenze.",
+                "ro": "Din turn puteți vedea marginile orașului.",
+                "en": "From the tower, you can see the city limits."
+              }
+            },
+            {
+              "name": "Pinacoteca Nazionale",
+              "tip_5lang": {
+                "hu": "Könnyebb parkolás az egyetemi negyed szélén.",
+                "de": "Leichteres Parken am Rande des Univiertels.",
+                "ro": "Parcare mai ușoară la marginea cartierului universitar.",
+                "en": "Easier parking on the edge of the university district."
+              }
+            },
+            {
+              "name": "Santuario di San Luca",
+              "tip_5lang": {
+                "hu": "Az autóval felmenni kényelmes és gyors.",
+                "de": "Die Fahrt nach oben ist bequem und schnell.",
+                "ro": "Urcarea cu mașina este confortabilă și rapidă.",
+                "en": "Driving up is comfortable and fast."
+              }
+            },
+            {
+              "name": "MAMbo",
+              "tip_5lang": {
+                "hu": "Parkolóház van a közelben.",
+                "de": "Parkhaus in der Nähe vorhanden.",
+                "ro": "Există o parcare etajată în apropiere.",
+                "en": "There is a parking garage nearby."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "hu": [
+              {
+                "name": "Cotoletta alla Bolognese",
+                "tip": "Húsos szelet sajttal és sonkával."
+              }
+            ],
+            "de": [
+              {
+                "name": "Cotoletta alla Bolognese",
+                "tip": "Fleischschnitzel mit Käse und Schinken."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cotoletta alla Bolognese",
+                "tip": "Șnițel cu brânză și șuncă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cotoletta alla Bolognese",
+                "tip": "Veal cutlet topped with cheese and ham."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "hu": [
+              {
+                "name": "Colli Bolognesi",
+                "tip": "A várost övező dombok nyugalma.",
+                "emoji": "🌅"
+              }
+            ],
+            "de": [
+              {
+                "name": "Colli Bolognesi",
+                "tip": "Ruhe in den Hügeln rund um die Stadt.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Colli Bolognesi",
+                "tip": "Liniștea dealurilor care înconjoară orașul.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Colli Bolognesi",
+                "tip": "Peaceful hills surrounding the city.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "hu": [
+              {
+                "name": "FICO Eataly World",
+                "tip": "Gasztro-park a város szélén."
+              }
+            ],
+            "de": [
+              {
+                "name": "FICO Eataly World",
+                "tip": "Gastro-Park am Stadtrand."
+              }
+            ],
+            "ro": [
+              {
+                "name": "FICO Eataly World",
+                "tip": "Parc gastronomic la marginea orașului."
+              }
+            ],
+            "en": [
+              {
+                "name": "FICO Eataly World",
+                "tip": "Gastro-theme park on the city outskirts."
+              }
+            ]
+          },
+          "tips": {
+            "hu": [
+              "Soha ne hajts be a ZTL (korlátozott forgalmú) zónába engedély nélkül.",
+              "Használd a nagy parkolóházakat (pl. Parcheggio VIII Agosto).",
+              "A csúcsforgalom reggel 8 és 9 között erős."
+            ],
+            "de": [
+              "Fahren Sie niemals ohne Erlaubnis in die ZTL-Zone.",
+              "Nutzen Sie große Parkhäuser (z.B. Parcheggio VIII Agosto).",
+              "Berufsverkehr ist zwischen 8 und 9 Uhr morgens stark."
+            ],
+            "ro": [
+              "Nu intrați niciodată în zona ZTL fără autorizație.",
+              "Folosiți parcările mari (ex. Parcheggio VIII Agosto).",
+              "Traficul este intens dimineața între orele 8 și 9."
+            ],
+            "en": [
+              "Never enter the ZTL (restricted zone) without a permit.",
+              "Use large parking garages like Parcheggio VIII Agosto.",
+              "Rush hour is heavy between 8 and 9 AM."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bologna mit dem Auto bei Regen bietet Komfort, erfordert aber Geduld im Verkehr. Starten Sie an der Piazza Maggiore und nutzen Sie die Parkhäuser am Rande der ZTL.\nMittags besuchen Sie die Basilica di San Petronio und die Türme, während Ihr Wagen sicher im Trockenen steht.\nAm Nachmittag ist die Fahrt zum San Luca ideal; Sie erreichen den Gipfel ohne nass zu werden und genießen den dramatischen Blick auf die verregnete Stadt.\nDen Tag lassen Sie im MAMbo ausklingen, wo Sie Kunst in modernem Ambiente genießen, bevor Sie bequem durch die nassen Straßen zurückfahren.",
+            "hu": "Autóval az esős Bolognában kényelmes, de türelmet igényel a forgalomban. Kezdjen a Piazza Maggiorénál, használva a ZTL zóna szélén lévő parkolóházakat.\nDélben látogassa meg a San Petronio bazilikát és a tornyokat, miközben autója száraz helyen pihen.\nDélután a San Lucához vezető út ideális autóval; anélkül érhet fel a csúcsra, hogy megázna, élvezve az esős város drámai látványát.\nA napot a MAMbóban zárja, ahol modern környezetben élvezheti a művészetet, mielőtt kényelmesen visszautazna a vizes utakon.",
+            "ro": "Bologna cu mașina pe ploaie oferă confort, dar necesită răbdare în trafic. Începeți la Piazza Maggiore, folosind parcările de la marginea zonei ZTL.\nLa prânz, vizitați Basilica di San Petronio și turnurile în timp ce mașina este parcată în siguranță la adăpost.\nDupă-amiaza, drumul spre San Luca este ideal cu mașina; ajungeți în vârf fără să vă udați și admirați vederea dramatică asupra orașului ploios.\nÎncheiați ziua la MAMbo, savurând arta într-un ambient modern, înainte de a conduce confortabil prin străzile ude.",
+            "en": "Driving in Bologna in the rain offers comfort but requires patience in traffic. Start at Piazza Maggiore, utilizing the parking garages on the edge of the ZTL.\nAt midday, visit Basilica di San Petronio and the towers while your car stays parked in a dry spot.\nIn the afternoon, the drive to San Luca is ideal; you reach the summit without getting wet and enjoy the dramatic view of the rainy city.\nEnd your day at MAMbo, enjoying art in a modern setting before driving back comfortably through the wet streets."
+          },
+          "stops": [
+            {
+              "name": "Piazza Maggiore",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus Piazza VIII Agosto für einen kurzen Fußweg.",
+                "hu": "Parkoljon a Piazza VIII Agosto parkolóházban a rövid séta érdekében.",
+                "ro": "Parcați în parcarea Piazza VIII Agosto pentru un drum scurt pe jos.",
+                "en": "Park in the Piazza VIII Agosto garage for a short walk to the square."
+              }
+            },
+            {
+              "name": "Basilica di San Petronio",
+              "tip_5lang": {
+                "de": "Lassen Sie den Schirm am Eingang im dafür vorgesehenen Bereich.",
+                "hu": "Hagyja az esernyőt a bejáratnál az erre kijelölt helyen.",
+                "ro": "Lăsați umbrela la intrare în zona special amenajată.",
+                "en": "Leave your umbrella at the entrance in the designated area."
+              }
+            },
+            {
+              "name": "Le Due Torri",
+              "tip_5lang": {
+                "de": "Der Verkehr rund um die Türme kann bei Regen stocken.",
+                "hu": "A tornyok körüli forgalom esőben lelassulhat.",
+                "ro": "Traficul în jurul turnurilor poate fi lent pe timp de ploaie.",
+                "en": "Traffic around the towers can be congested during rain."
+              }
+            },
+            {
+              "name": "Pinacoteca Nazionale",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in der Via Belle Arti.",
+                "hu": "Keressen parkolóhelyet a Via Belle Arti környékén.",
+                "ro": "Căutați un loc de parcare în zona Via Belle Arti.",
+                "en": "Look for a parking spot in the Via Belle Arti area."
+              }
+            },
+            {
+              "name": "Santuario di San Luca",
+              "tip_5lang": {
+                "de": "Die Fahrt hinauf ist serpentinenreich; Vorsicht auf nasser Fahrbahn.",
+                "hu": "Az út felfelé szerpentines; legyen óvatos a vizes úttesten.",
+                "ro": "Drumul spre vârf are multe serpentine; atenție pe carosabil ud.",
+                "en": "The drive up is winding; use caution on the wet road surface."
+              }
+            },
+            {
+              "name": "MAMbo",
+              "tip_5lang": {
+                "de": "Parkhaus in der Nähe vorhanden; ideal für regnerische Tage.",
+                "hu": "A közelben parkolóház található; ideális esős napokra.",
+                "ro": "Parcare disponibilă în apropiere; ideal pentru zile ploioase.",
+                "en": "Parking garage available nearby; ideal for rainy days."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie strikt auf die ZTL-Schilder, besonders bei schlechter Sicht.",
+              "Die Parkhäuser füllen sich bei Regen schneller als gewöhnlich.",
+              "Schalten Sie das Abblendlicht auch tagsüber bei Regen ein.",
+              "Nutzen Sie Apps wie 'MooneyGo', um Parkgebühren im Trockenen zu zahlen."
+            ],
+            "hu": [
+              "Szigorúan ügyeljen a ZTL táblákra, különösen korlátozott látási viszonyoknál.",
+              "A parkolóházak esőben a szokásosnál gyorsabban megtelnek.",
+              "Esőben nappal is kapcsolja be a tompított fényszórót.",
+              "Használja a 'MooneyGo' alkalmazást a parkolási díj kényelmes befizetéséhez."
+            ],
+            "ro": [
+              "Respectați cu strictețe semnele ZTL, mai ales în condiții de vizibilitate redusă.",
+              "Parcările acoperite se umplu mai repede decât de obicei pe ploaie.",
+              "Aprindeți faza scurtă și în timpul zilei când plouă.",
+              "Utilizați aplicații precum „MooneyGo” pentru a plăti parcarea din mașină."
+            ],
+            "en": [
+              "Pay strict attention to ZTL signs, especially in low visibility conditions.",
+              "Parking garages fill up faster than usual when it rains.",
+              "Turn on your low-beam headlights even during the day in rainy weather.",
+              "Use apps like 'MooneyGo' to pay for parking from the comfort of your car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bologna im Auto im Winter bietet wohlige Wärme zwischen den Highlights. Starten Sie an der Piazza Maggiore und genießen Sie die festliche Stimmung beim kurzen Gang vom Parkhaus zum Platz.\nMittags wärmt der Besuch in San Petronio und der Aufstieg auf die Türme auf, bevor Sie die Fahrt durch das winterliche Universitätsviertel fortsetzen.\nAm Nachmittag ist die Fahrt zum San Luca besonders komfortabel; die Heizung sorgt für Entspannung, während draußen der Winterwind weht.\nDen Tag beenden Sie im MAMbo, wo moderne Kunst in beheizten Räumen auf Sie wartet, bevor Sie die weihnachtlich beleuchtete Stadt durch die Scheiben bewundern.",
+            "hu": "Télen autóval járni Bolognát melegséget ad a látnivalók között. Kezdjen a Piazza Maggiorénál, élvezve az ünnepi hangulatot a parkolótól a térig tartó rövid úton.\nDélben a San Petronio látogatása és a tornyok megmászása felmelegíti, mielőtt továbbutazna a téli egyetemi negyeden keresztül.\nDélután a San Lucához vezető út különösen kényelmes; a fűtés ellazít, miközben kint fúj a téli szél.\nA napot a MAMbóban zárja, ahol fűtött termekben várja a művészet, mielőtt az autó ablakán át megcsodálná a kivilágított várost.",
+            "ro": "Bologna cu mașina iarna oferă căldură între atracții. Începeți la Piazza Maggiore, bucurându-vă de atmosfera festivă în scurta plimbare de la parcare.\nLa prânz, vizita de la San Petronio și urcarea în turnuri vă vor încălzi înainte de a continua drumul prin cartierul universitar.\nDupă-amiaza, drumul spre San Luca este deosebit de confortabil; căldura din mașină vă relaxează în timp ce afară bate vântul de iarnă.\nÎncheiați ziua la MAMbo, unde arta modernă vă așteaptă în săli încălzite, înainte de a admira orașul luminat festiv prin geamurile mașinii.",
+            "en": "Touring Bologna by car in winter provides cozy warmth between highlights. Start at Piazza Maggiore and enjoy the festive atmosphere during the short walk from the garage.\nAt midday, a visit to San Petronio and climbing the towers will warm you up before continuing through the wintery university district.\nIn the afternoon, the drive to San Luca is particularly comfortable; the heater keeps you relaxed while the winter wind blows outside.\nEnd your day at MAMbo, where modern art awaits in heated rooms before admiring the festively lit city through the car windows."
+          },
+          "stops": [
+            {
+              "name": "Piazza Maggiore",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte bei der Ein- und Ausfahrt der Parkhäuser.",
+                "hu": "Ügyeljen a csúszós felületekre a parkolóházak be- és kijáratánál.",
+                "ro": "Atenție la porțiunile alunecoase la intrarea și ieșirea din parcări.",
+                "en": "Watch out for icy spots at the entry and exit of parking garages."
+              }
+            },
+            {
+              "name": "Basilica di San Petronio",
+              "tip_5lang": {
+                "de": "Der Platz kann im Winterwind sehr zugig sein.",
+                "hu": "A tér a téli szélben nagyon huzatos lehet.",
+                "ro": "Piața poate fi foarte expusă vântului în timpul iernii.",
+                "en": "The square can be very drafty in the winter wind."
+              }
+            },
+            {
+              "name": "Le Due Torri",
+              "tip_5lang": {
+                "de": "Planen Sie Zeit für die Parkplatzsuche in der Nähe ein.",
+                "hu": "Tervezzen időt a közeli parkolóhely keresésére.",
+                "ro": "Alocați timp suplimentar pentru găsirea unui loc de parcare în zonă.",
+                "en": "Allow extra time for finding a parking spot nearby."
+              }
+            },
+            {
+              "name": "Pinacoteca Nazionale",
+              "tip_5lang": {
+                "de": "Das Viertel ist eng; Parken Sie etwas außerhalb der direkten Unizone.",
+                "hu": "A negyed szűk; parkoljon az egyetemi zónán kicsit kívül.",
+                "ro": "Cartierul este îngust; parcați puțin în afara zonei universitare.",
+                "en": "The district is narrow; park slightly outside the immediate university zone."
+              }
+            },
+            {
+              "name": "Santuario di San Luca",
+              "tip_5lang": {
+                "de": "Bei Schneefall kann die Straße zum San Luca gesperrt sein.",
+                "hu": "Hóesés esetén a San Lucához vezető út lezárható.",
+                "ro": "În caz de ninsoare, drumul spre San Luca poate fi închis.",
+                "en": "In case of snowfall, the road to San Luca may be closed."
+              }
+            },
+            {
+              "name": "MAMbo",
+              "tip_5lang": {
+                "de": "Beheizte Innenräume machen diesen Stopp perfekt für den Winter.",
+                "hu": "A fűtött belső terek tökéletessé teszik ezt a megállót télre.",
+                "ro": "Spațiile interioare încălzite fac această oprire perfectă pentru iarnă.",
+                "en": "Heated interiors make this stop perfect for winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz Ihrer Scheibenwaschanlage.",
+              "Winterreifen sind in Italien in dieser Region gesetzlich vorgeschrieben.",
+              "Lassen Sie den Motor nicht unnötig im Stand warmlaufen.",
+              "Die Parkhäuser sind oft wärmer als die Straße, was die Fenster beschlagen lässt."
+            ],
+            "hu": [
+              "Ellenőrizze a szélvédőmosó folyadék fagyállóságát.",
+              "Ebben a régióban a téli gumi használata törvényileg kötelező.",
+              "Ne járassa feleslegesen a motort álló helyzetben a bemelegítéshez.",
+              "A parkolóházakban melegebb van, így az autó ablakai bepárásodhatnak."
+            ],
+            "ro": [
+              "Verificați antigelul lichidului de spălare a parbrizului.",
+              "Anvelopele de iarnă sunt obligatorii prin lege în această regiune.",
+              "Nu lăsați motorul să funcționeze inutil la relanti pentru a-l încălzi.",
+              "Parcările subterane sunt mai calde, ceea ce poate duce la aburirea geamurilor."
+            ],
+            "en": [
+              "Check the antifreeze level of your windshield washer fluid.",
+              "Winter tires or chains are legally required in this region during winter.",
+              "Avoid idling the engine for too long to warm it up.",
+              "Parking garages are often warmer than the street, causing windows to fog up."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1066,6 +2269,387 @@
           "Download the 'Roger' app for schedules.",
           "Tickets can be purchased at tobacco shops (Tabaccheria)."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "hu": "Tömegközlekedéssel Bologna kényelmesen felfedezhető. A sűrű buszhálózat összeköti a központot a távolabbi nevezetességekkel. Ne hagyja ki a San Luca Express-t, ami felviszi a dombtetőre! A napot a belváros történelmi falai között zárhatja, ahol minden buszvonal összefut, így könnyű lesz visszajutni a szállásra.",
+            "de": "Mit öffentlichen Verkehrsmitteln lässt sich Bologna bequem erkunden. Das dichte Busnetz verbindet das Zentrum mit ferneren Sehenswürdigkeiten. Verpassen Sie nicht den San Luca Express zum Hügel! Beenden Sie den Tag zwischen den historischen Mauern des Zentrums, wo alle Buslinien zusammenlaufen, was die Rückkehr zur Unterkunft erleichtert.",
+            "ro": "Cu transportul public, Bologna poate fi explorată confortabil. Rețeaua densă de autobuze conectează centrul cu atracțiile mai îndepărtate. Nu ratați San Luca Express, care vă duce pe deal! Încheiați ziua între zidurile istorice ale centrului, unde converg toate liniile de autobuz, facilitând întoarcerea la cazare.",
+            "en": "With public transit, Bologna is easy and comfortable to explore. The dense bus network connects the center with more distant landmarks. Don't miss the San Luca Express tourist train for the hill climb! Finish your day among the historic walls of the center, where all lines converge, making it simple to return to your base."
+          },
+          "stops": [
+            {
+              "name": "Piazza Maggiore",
+              "tip_5lang": {
+                "hu": "A vasútállomástól több busz is idehoz.",
+                "de": "Mehrere Busse vom Bahnhof bringen Sie hierher.",
+                "ro": "Mai multe autobuze de la gară vă aduc aici.",
+                "en": "Several buses from the train station stop here."
+              }
+            },
+            {
+              "name": "Fontana del Nettuno",
+              "tip_5lang": {
+                "hu": "Gyalogos távolság a tértől.",
+                "de": "Fußläufig vom Platz erreichbar.",
+                "ro": "La distanță de mers pe jos de piață.",
+                "en": "Walking distance from the main square."
+              }
+            },
+            {
+              "name": "Archiginnasio di Bologna",
+              "tip_5lang": {
+                "hu": "Az árkádok alatt kényelmes a séta.",
+                "de": "Bequem unter den Arkaden zu erreichen.",
+                "ro": "Plimbare confortabilă sub arcade.",
+                "en": "Comfortable walk under the porticoes."
+              }
+            },
+            {
+              "name": "Le Due Torri",
+              "tip_5lang": {
+                "hu": "Fontos buszcsomópont a tornyoknál.",
+                "de": "Wichtiger Busknotenpunkt bei den Türmen.",
+                "ro": "Nod important de autobuz lângă turnuri.",
+                "en": "Major bus hub located right by the towers."
+              }
+            },
+            {
+              "name": "Santuario di San Luca",
+              "tip_5lang": {
+                "hu": "Használd a San Luca Express kisvonatot.",
+                "de": "Nutzen Sie den San Luca Express Minizug.",
+                "ro": "Folosiți trenulețul San Luca Express.",
+                "en": "Take the San Luca Express tourist train."
+              }
+            },
+            {
+              "name": "Pinacoteca Nazionale",
+              "tip_5lang": {
+                "hu": "Buszmegálló közvetlenül az egyetemnél.",
+                "de": "Bushaltestelle direkt an der Uni.",
+                "ro": "Stație de autobuz chiar lângă universitate.",
+                "en": "Bus stop right next to the university."
+              }
+            },
+            {
+              "name": "Finestrella di Via Piella",
+              "tip_5lang": {
+                "hu": "Rövid séta a főúttól befelé.",
+                "de": "Kurzer Fußweg von der Hauptstraße.",
+                "ro": "Scurtă plimbare de la strada principală.",
+                "en": "Short walk from the main thoroughfare."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "hu": [
+              {
+                "name": "Lasagna Verde",
+                "tip": "Spenótos tésztával készített rakottas."
+              }
+            ],
+            "de": [
+              {
+                "name": "Lasagna Verde",
+                "tip": "Lasagne mit grünem Spinatteig."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lasagna Verde",
+                "tip": "Lasagna făcută cu foi verzi de spanac."
+              }
+            ],
+            "en": [
+              {
+                "name": "Lasagna Verde",
+                "tip": "Traditional lasagna made with green spinach pasta."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "hu": [
+              {
+                "name": "Parco Montagnola",
+                "tip": "A vasútállomás közeli park dombja.",
+                "emoji": "🏞️"
+              }
+            ],
+            "de": [
+              {
+                "name": "Parco Montagnola",
+                "tip": "Hügel im Park nahe dem Bahnhof.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parco Montagnola",
+                "tip": "Dealul parcului de lângă gară.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parco Montagnola",
+                "tip": "Park hill located near the central station.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "hu": [
+              {
+                "name": "Mercato di Mezzo",
+                "tip": "Belvárosi fedett piac sok finomsággal."
+              }
+            ],
+            "de": [
+              {
+                "name": "Mercato di Mezzo",
+                "tip": "Überdachter Markt im Zentrum mit Delikatessen."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mercato di Mezzo",
+                "tip": "Piață acoperită în centru cu multe delicii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mercato di Mezzo",
+                "tip": "Indoor food market in the city center."
+              }
+            ]
+          },
+          "tips": {
+            "hu": [
+              "Vegyél napijegyet, ha többször utazol.",
+              "A jegyeket érvényesíteni kell a buszon.",
+              "Töltsd le a Roger appot a menetrendekhez.",
+              "A jegyeket dohányboltokban (Tabaccheria) is megveheted."
+            ],
+            "de": [
+              "Kaufen Sie ein Tagesticket, wenn Sie mehrmals fahren.",
+              "Tickets müssen im Bus entwertet werden.",
+              "Laden Sie die Roger-App für Fahrpläne herunter.",
+              "Tickets gibt es auch in Tabakläden (Tabaccheria)."
+            ],
+            "ro": [
+              "Cumpărați un abonament de o zi dacă călătoriți de mai multe ori.",
+              "Biletele trebuie validate în autobuz.",
+              "Descărcați aplicația Roger pentru orare.",
+              "Biletele pot fi cumpărate și de la tutungerii (Tabaccheria)."
+            ],
+            "en": [
+              "Buy a day pass if you plan to travel multiple times.",
+              "Remember to validate your ticket on the bus.",
+              "Download the 'Roger' app for schedules.",
+              "Tickets can be purchased at tobacco shops (Tabaccheria)."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bologna mit dem ÖPNV bei Regen ist effizient und trocken. Starten Sie an der Piazza Maggiore und nutzen Sie die zentralen Bushaltestellen unter den Portici.\nMittags erreichen Sie das Archiginnasio und die Türme bequem mit dem Bus, während Sie den Blick auf die verregnete Altstadt durch die Scheiben genießen.\nAm Nachmittag bringt Sie der San Luca Express vom Stadtzentrum direkt zum Santuario hinauf – der bequemste Weg, um den Regen zu umgehen.\nDen Tag beenden Sie in der Pinacoteca Nazionale und an der Finestrella, die Sie mit kurzen Buswegen erreichen, bevor Sie in ein gemütliches Restaurant einkehren.",
+            "hu": "Tömegközlekedéssel az esős Bolognában hatékony és száraz. Kezdjen a Piazza Maggiorénál, használva az árkádok alatt lévő központi buszmegállókat.\nDélben kényelmesen elérheti az Archiginnasiót és a tornyokat busszal, élvezve az esős óváros látványát az ablakból.\nDélután a San Luca Express kisvonat közvetlenül a központból viszi fel a szentélyhez – ez a legkényelmesebb módja az eső elkerülésének.\nA napot a Pinacoteca Nazionale és a Via Piella ablakánál zárja, rövid buszos utazásokkal összekötve a helyszíneket.",
+            "ro": "Bologna cu transportul public pe ploaie este eficient și uscat. Începeți la Piazza Maggiore, folosind stațiile de autobuz centrale de sub arcade.\nLa prânz, ajungeți ușor la Archiginnasio și turnuri cu autobuzul, admirând centrul istoric ploios prin geamurile vehiculului.\nDupă-amiaza, San Luca Express vă duce direct din centru la sanctuar – cea mai confortabilă metodă de a evita ploaia.\nÎncheiați ziua la Pinacoteca Nazionale și Finestrella, folosind linii de autobuz pentru distanțe scurte, înainte de o cină relaxantă.",
+            "en": "Using public transit in Bologna in the rain is efficient and keeps you dry. Start at Piazza Maggiore, utilizing the central bus stops located under the porticoes.\nAt midday, reach the Archiginnasio and the towers easily by bus while enjoying views of the rainy old town through the windows.\nIn the afternoon, the San Luca Express tourist train takes you from the city center directly to the sanctuary – the most comfortable way to skip the rain.\nFinish your day at the National Gallery and the Finestrella, connecting the stops with short bus rides before heading to dinner."
+          },
+          "stops": [
+            {
+              "name": "Piazza Maggiore",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen in der Nähe sind meist unter den Arkaden.",
+                "hu": "A közeli buszmegállók többnyire az árkádok alatt találhatók.",
+                "ro": "Stațiile de autobuz din apropiere sunt majoritatea sub arcade.",
+                "en": "The nearby bus stops are mostly located under the porticoes."
+              }
+            },
+            {
+              "name": "Fontana del Nettuno",
+              "tip_5lang": {
+                "de": "Der Platz ist ein Knotenpunkt für viele Linien; ideal bei Regen.",
+                "hu": "A tér számos vonal csomópontja; ideális esőben.",
+                "ro": "Piața este un nod pentru multe linii; ideal pe ploaie.",
+                "en": "The square is a hub for many lines; ideal during rain."
+              }
+            },
+            {
+              "name": "Archiginnasio di Bologna",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Linie 30 für eine schnelle Verbindung zum Bahnhof.",
+                "hu": "Használja a 30-as vonalat a gyors vasúti kapcsolathoz.",
+                "ro": "Folosiți linia 30 pentru o legătură rapidă cu gara.",
+                "en": "Use line 30 for a quick connection to the train station."
+              }
+            },
+            {
+              "name": "Le Due Torri",
+              "tip_5lang": {
+                "de": "Enge Gassen hier; warten Sie unter den Arkaden auf den Bus.",
+                "hu": "Szűk utcák; várja a buszt az árkádok védelmében.",
+                "ro": "Străzi înguste; așteptați autobuzul sub adăpostul arcadelor.",
+                "en": "Narrow streets; wait for the bus under the shelter of the porticoes."
+              }
+            },
+            {
+              "name": "Santuario di San Luca",
+              "tip_5lang": {
+                "de": "Der San Luca Express (Touristenzug) ist bei Regen sehr beliebt.",
+                "hu": "A San Luca Express (turistavonat) nagyon népszerű esőben.",
+                "ro": "San Luca Express (trenulețul turistic) este foarte căutat pe ploaie.",
+                "en": "The San Luca Express (tourist train) is very popular during rain."
+              }
+            },
+            {
+              "name": "Pinacoteca Nazionale",
+              "tip_5lang": {
+                "de": "Die Haltestellen 'Porta San Donato' sind ganz in der Nähe.",
+                "hu": "A 'Porta San Donato' megállók közvetlenül a közelben vannak.",
+                "ro": "Stațiile „Porta San Donato” sunt situate chiar în apropiere.",
+                "en": "The 'Porta San Donato' stops are located very close by."
+              }
+            },
+            {
+              "name": "Finestrella di Via Piella",
+              "tip_5lang": {
+                "de": "Wenige Gehminuten von den zentralen Buslinien entfernt.",
+                "hu": "Pár perc séta a központi buszvonalaktól.",
+                "ro": "La câteva minute de mers pe jos de liniile centrale de autobuz.",
+                "en": "A few minutes' walk from the central bus lines."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab per App (Roger), um nicht im Regen suchen zu müssen.",
+              "Der San Luca Express bietet eine komplett überdachte Fahrt zum Hügel.",
+              "Busse können bei starkem Regen aufgrund des Verkehrs verspätet sein.",
+              "Die TPER-Busse sind gut klimatisiert und halten Sie trocken."
+            ],
+            "hu": [
+              "Vásároljon jegyet előre alkalmazással (Roger), hogy ne az esőben kelljen keresgélnie.",
+              "A San Luca Express teljesen fedett utazást kínál a dombra.",
+              "Erős esőben a buszok a forgalom miatt késhetnek.",
+              "A TPER buszok jól klimatizáltak és szárazon tartják Önt."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans prin aplicație (Roger) pentru a nu căuta la automate pe ploaie.",
+              "San Luca Express oferă o călătorie complet acoperită până la deal.",
+              "Autobuzele pot avea întârzieri pe ploaie torențială din cauza traficului.",
+              "Autobuzele TPER sunt bine ventilate și vă mențin uscat."
+            ],
+            "en": [
+              "Buy tickets in advance via app (Roger) to avoid searching for kiosks in the rain.",
+              "The San Luca Express offers a completely covered trip up the hill.",
+              "Buses may be delayed during heavy rain due to increased city traffic.",
+              "TPER buses are well-ventilated and will keep you dry between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bologna mit dem ÖPNV im Winter ist komfortabel und warm. Starten Sie an der Piazza Maggiore und genießen Sie die kurzen Wege zu den beheizten Bussen.\nMittags erkunden Sie das Archiginnasio und die Türme, bevor Sie sich im warmen Bus auf dem Weg zum nächsten Highlight entspannen.\nAm Nachmittag ist der San Luca Express die beste Wahl; der Touristenzug ist beheizt und bietet einen tollen Blick auf die winterliche Landschaft.\nZum Abschluss besuchen Sie die Pinacoteca Nazionale und die Finestrella, bevor Sie die festlich beleuchtete Stadt auf dem Weg zu Ihrem Abendessen durchqueren.",
+            "hu": "Télen tömegközlekedéssel járni Bolognát kényelmes és meleg. Kezdjen a Piazza Maggiorénál, kihasználva a rövid utat a fűtött buszokig.\nDélben fedezze fel az Archiginnasiót és a tornyokat, majd pihenjen meg a meleg buszon a következő látnivaló felé menet.\nDélután a San Luca Express a legjobb választás; a fűtött turistavonat remek kilátást nyújt a téli tájra.\nA napot a Pinacoteca Nazionale és a Via Piella ablakának meglátogatásával zárja, mielőtt az ünnepi fényekben úszó városon át vacsorázni indulna.",
+            "ro": "Bologna cu transportul public iarna este confortabil și cald. Începeți la Piazza Maggiore, profitând de distanțele scurte până la autobuzele încălzite.\nLa prânz, explorați Archiginnasio și turnurile, apoi relaxați-vă în autobuzul cald în drum spre următoarea atracție.\nDupă-amiaza, San Luca Express este cea mai bună alegere; trenulețul turistic este încălzit și oferă o vedere excelentă asupra peisajului de iarnă.\nÎncheiați ziua vizitând Pinacoteca Nazionale și Finestrella, înainte de a traversa orașul luminat festiv spre locul de cină.",
+            "en": "Using public transit in Bologna in winter is comfortable and warm. Start at Piazza Maggiore, enjoying short walks to the heated buses.\nAt midday, explore the Archiginnasio and the towers before relaxing in a warm bus on your way to the next highlight.\nIn the afternoon, the San Luca Express is the best choice; the tourist train is heated and offers great views of the winter landscape.\nFinish your day at the National Gallery and the Finestrella before heading through the festively lit city to your dinner spot."
+          },
+          "stops": [
+            {
+              "name": "Piazza Maggiore",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehäuschen mit Windschutz an den großen Haltestellen.",
+                "hu": "Használja a szélvédett várókat a nagyobb megállókban.",
+                "ro": "Folosiți refugiile cu protecție împotriva vântului din stațiile mari.",
+                "en": "Use the shelters with wind protection at the major bus stops."
+              }
+            },
+            {
+              "name": "Fontana del Nettuno",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es viele Cafés für ein kurzes Aufwärmen.",
+                "hu": "A közelben számos kávézó található egy rövid felmelegedéshez.",
+                "ro": "Există multe cafenele în apropiere pentru o încălzire rapidă.",
+                "en": "There are many cafes nearby for a quick warm-up."
+              }
+            },
+            {
+              "name": "Archiginnasio di Bologna",
+              "tip_5lang": {
+                "de": "Die Buslinie 20 bringt Sie direkt zum Beginn der Portici di San Luca.",
+                "hu": "A 20-as busz közvetlenül a San Luca-árkádsor elejéhez viszi.",
+                "ro": "Linia de autobuz 20 vă duce direct la începutul Portici di San Luca.",
+                "en": "Bus line 20 takes you directly to the start of the San Luca porticoes."
+              }
+            },
+            {
+              "name": "Le Due Torri",
+              "tip_5lang": {
+                "de": "Im Winter ist der Bus ein Segen gegen den kalten Wind.",
+                "hu": "Télen a busz áldás a hideg széllel szemben.",
+                "ro": "Iarna, autobuzul este o binecuvântare împotriva vântului rece.",
+                "en": "In winter, the bus is a blessing against the cold wind."
+              }
+            },
+            {
+              "name": "Santuario di San Luca",
+              "tip_5lang": {
+                "de": "Der San Luca Express ist im Winter beheizt.",
+                "hu": "A San Luca Express turistavonat télen fűtött.",
+                "ro": "San Luca Express este încălzit în timpul iernii.",
+                "en": "The San Luca Express tourist train is heated in winter."
+              }
+            },
+            {
+              "name": "Pinacoteca Nazionale",
+              "tip_5lang": {
+                "de": "Busse verkehren hier in sehr hoher Frequenz; kurze Wartezeiten.",
+                "hu": "A buszok itt nagyon gyakran járnak; rövid a várakozási idő.",
+                "ro": "Autobuzele circulă aici cu frecvență mare; timpi scurți de așteptare.",
+                "en": "Buses run very frequently here, minimizing wait times in the cold."
+              }
+            },
+            {
+              "name": "Finestrella di Via Piella",
+              "tip_5lang": {
+                "de": "Gehen Sie zügig zur nächsten Bushaltestelle, um warm zu bleiben.",
+                "hu": "Menjen gyorsan a következő megállóhoz, hogy melegen maradjon.",
+                "ro": "Mergeți rapid spre următoarea stație pentru a vă păstra căldura.",
+                "en": "Walk briskly to the next bus stop to stay warm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die TPER-Fahrzeuge sind im Winter gut beheizt.",
+              "Nutzen Sie die 'San Luca Express' für eine warme Bergfahrt.",
+              "Die Busfrequenz kann an Feiertagen im Winter reduziert sein.",
+              "Validiere dein Ticket direkt beim Einsteigen im warmen Bus."
+            ],
+            "hu": [
+              "A TPER járművei télen jól fűtöttek.",
+              "Használja a 'San Luca Express'-t a meleg és kényelmes hegyi útért.",
+              "Téli ünnepnapokon a buszok járatsűrűsége csökkenhet.",
+              "Érvényesítse jegyét rögtön felszállás után a meleg buszon."
+            ],
+            "ro": [
+              "Vehiculele TPER sunt bine încălzite în timpul iernii.",
+              "Utilizați „San Luca Express” pentru o urcare caldă și confortabilă.",
+              "Frecvența autobuzelor poate fi redusă în zilele de sărbătoare de iarnă.",
+              "Validați biletul imediat după urcarea în autobuzul cald."
+            ],
+            "en": [
+              "TPER vehicles are well-heated during the winter months.",
+              "Use the 'San Luca Express' for a warm and comfortable ascent.",
+              "Bus frequencies may be reduced during winter public holidays.",
+              "Validate your ticket immediately upon boarding the warm bus."
+            ]
+          }
+        }
       }
     }
   },

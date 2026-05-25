@@ -340,6 +340,462 @@
           "Book Teatro Farnese in advance.",
           "Wear comfortable shoes for the cobblestone streets."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen von Parma auf der Piazza Garibaldi, wo sich das städtische Leben entfaltet. Danach tauchen Sie ein in die spirituelle Kunst des Duomo und des Baptisteriums. Mittags erkunden Sie den monumentalen Pilotta-Komplex und das beeindruckende Teatro Farnese. Den Nachmittag verbringen Sie entspannt im Parco Ducale, dem grünen Refugium der Stadt, bevor Sie den Abend bei kulinarischen Köstlichkeiten ausklingen lassen.",
+            "hu": "Kezdje a napot Parma szívében, a Piazza Garibaldi téren, ahol a városi élet lüktet. Ezután merüljön el a Dóm és a Keresztelőkápolna szakrális művészetében. Délben fedezze fel a monumentális Pilotta-palotát és a lenyűgöző Farnese színházat. A délutánt töltse pihenéssel a Parco Ducale-ban, a város zöld menedékében, majd zárja az estét helyi gasztronómiai különlegességekkel.",
+            "ro": "Începeți ziua în inima Parmei, în Piazza Garibaldi, unde se desfășoară viața orașului. Apoi, scufundați-vă în arta spirituală a Domului și a Baptisteriului. La prânz, explorați complexul monumental Pilotta și impresionantul Teatru Farnese. Petreceți după-amiaza relaxându-vă în Parco Ducale, refugiul verde al orașului, înainte de a încheia seara cu delicii culinare locale.",
+            "en": "Start your day in the heart of Parma at Piazza Garibaldi, where city life unfolds. Then, immerse yourself in the sacred art of the Duomo and the Baptistery. At midday, explore the monumental Pilotta complex and the impressive Farnese Theatre. Spend the afternoon relaxing in Parco Ducale, the city's green refuge, before ending the evening with local culinary delights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza Garibaldi",
+                "hu": "Piazza Garibaldi",
+                "ro": "Piazza Garibaldi",
+                "en": "Piazza Garibaldi"
+              },
+              "tip_5lang": {
+                "de": "Kaffee im Schatten des Palazzo del Governatore.",
+                "hu": "Kávézzon a kormányzói palota árnyékában.",
+                "ro": "Savurați o cafea la umbra Palazzo del Governatore.",
+                "en": "Enjoy a coffee in the shadow of Palazzo del Governatore."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di Parma (Duomo)",
+                "hu": "Parmai székesegyház",
+                "ro": "Catedrala din Parma",
+                "en": "Parma Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie Correggios Kuppelfresko.",
+                "hu": "Csodálja meg Correggio kupolafreskóját.",
+                "ro": "Admirați fresca cupolei realizată de Correggio.",
+                "en": "Admire Correggio's dome fresco."
+              }
+            },
+            {
+              "name": {
+                "de": "Battistero di Parma",
+                "hu": "Parmai keresztelőkápolna",
+                "ro": "Baptisteriul din Parma",
+                "en": "Parma Baptistery"
+              },
+              "tip_5lang": {
+                "de": "Prachtvoller rosa Marmor aus Verona.",
+                "hu": "Pompás rózsaszín veronai márvány építmény.",
+                "ro": "Marmură roz superbă adusă din Verona.",
+                "en": "Magnificent pink marble structure from Verona."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo della Pilotta",
+                "hu": "Palazzo della Pilotta",
+                "ro": "Palazzo della Pilotta",
+                "en": "Palazzo della Pilotta"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Nationalgalerie im Inneren.",
+                "hu": "Látogassa meg a belső Nemzeti Galériát.",
+                "ro": "Vizitați Galeria Națională din interior.",
+                "en": "Visit the National Gallery inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Farnese",
+                "hu": "Farnese színház",
+                "ro": "Teatrul Farnese",
+                "en": "Farnese Theatre"
+              },
+              "tip_5lang": {
+                "de": "Einzigartige Holzarchitektur aus dem Barock.",
+                "hu": "Egyedülálló barokk kori faépítészet.",
+                "ro": "Arhitectură unică din lemn din perioada barocă.",
+                "en": "Unique wooden architecture from the Baroque era."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Ducale",
+                "hu": "Parco Ducale",
+                "ro": "Parco Ducale",
+                "en": "Parco Ducale"
+              },
+              "tip_5lang": {
+                "de": "Spaziergang am großen Teich im Park.",
+                "hu": "Séta a park nagy tava körül.",
+                "ro": "Plimbare pe lângă iazul mare din parc.",
+                "en": "Walk by the large pond in the park."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Prosciutto di Parma",
+                "tip": "Probieren Sie ihn bei La Prosciutteria."
+              },
+              {
+                "name": "Tortelli d'Erbetta",
+                "tip": "Klassische Pasta mit Ricotta und Mangold."
+              },
+              {
+                "name": "Parmigiano Reggiano",
+                "tip": "Direkt in einer Käserei verkosten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parmai sonka",
+                "tip": "Kóstolja meg a La Prosciutteria-ban."
+              },
+              {
+                "name": "Tortelli d'Erbetta",
+                "tip": "Klasszikus tészta ricottával és mángolddal."
+              },
+              {
+                "name": "Parmigiano Reggiano",
+                "tip": "Kóstolja meg közvetlenül egy sajtboltban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Prosciutto di Parma",
+                "tip": "Gustați-l la La Prosciutteria."
+              },
+              {
+                "name": "Tortelli d'Erbetta",
+                "tip": "Paste clasice cu ricotta și mangold."
+              },
+              {
+                "name": "Parmigiano Reggiano",
+                "tip": "Degustați direct într-o brânzărie."
+              }
+            ],
+            "en": [
+              {
+                "name": "Prosciutto di Parma",
+                "tip": "Try it at La Prosciutteria."
+              },
+              {
+                "name": "Tortelli d'Erbetta",
+                "tip": "Classic pasta with ricotta and chard."
+              },
+              {
+                "name": "Parmigiano Reggiano",
+                "tip": "Taste it directly in a cheese shop."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kloster San Giovanni",
+                "tip": "Stille in den Kreuzgängen genießen.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Lungoparma",
+                "tip": "Abendspaziergang am Flussufer.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szt. János kolostor",
+                "tip": "Élvezze a csendet a kerengőkben.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Lungoparma",
+                "tip": "Esti séta a folyóparton.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mănăstirea San Giovanni",
+                "tip": "Bucurați-vă de liniște în chilii.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Lungoparma",
+                "tip": "Plimbare de seară pe malul râului.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "San Giovanni Monastery",
+                "tip": "Enjoy silence in the cloisters.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Lungoparma",
+                "tip": "Evening walk along the riverbank.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Strada Farini",
+                "tip": "Boutiquen und Delikatessenläden."
+              },
+              {
+                "name": "Acqua di Parma",
+                "tip": "Das legendäre Parfüm im Flagship-Store."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Strada Farini",
+                "tip": "Butikok és csemegeboltok."
+              },
+              {
+                "name": "Acqua di Parma",
+                "tip": "A legendás parfüm a mintaboltban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Strada Farini",
+                "tip": "Boutique-uri și magazine de delicatese."
+              },
+              {
+                "name": "Acqua di Parma",
+                "tip": "Parfumul legendar în magazinul emblematic."
+              }
+            ],
+            "en": [
+              {
+                "name": "Strada Farini",
+                "tip": "Boutiques and deli shops."
+              },
+              {
+                "name": "Acqua di Parma",
+                "tip": "The legendary perfume in the flagship store."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parma ist perfekt zu Fuß erkundbar, da das Zentrum flach ist.",
+              "Die meisten Sehenswürdigkeiten liegen nah beieinander.",
+              "Achten Sie auf die Mittagsruhe vieler kleiner Geschäfte.",
+              "Buchen Sie das Teatro Farnese im Voraus.",
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster."
+            ],
+            "hu": [
+              "Parma tökéletesen felfedezhető gyalog, mivel a központ sík.",
+              "A legtöbb látnivaló közel van egymáshoz.",
+              "Ügyeljen a kisboltok ebédidőbeni zárvatartására.",
+              "A Farnese színházba érdemes előre jegyet foglalni.",
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz."
+            ],
+            "ro": [
+              "Parma este perfectă de explorat la pas, deoarece centrul este plat.",
+              "Majoritatea obiectivelor turistice sunt aproape unele de altele.",
+              "Atenție la pauza de prânz a multor magazine mici.",
+              "Rezervați bilete la Teatrul Farnese în avans.",
+              "Purtați încălțăminte comodă pentru străzile pietruite."
+            ],
+            "en": [
+              "Parma is perfectly explorable on foot as the center is flat.",
+              "Most sights are located close to each other.",
+              "Watch out for the lunchtime closures of many small shops.",
+              "Book Teatro Farnese in advance.",
+              "Wear comfortable shoes for the cobblestone streets."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag unter den schützenden Arkaden der Piazza Garibaldi, wo das städtische Leben trotz des Regens pulsiert. Der Vormittag gehört der prachtvollen Architektur.\n\nMittags bieten der Dom und das Baptisterium einen trockenen und spirituellen Zufluchtsort voller Kunstschätze und beeindruckender Fresken.\n\nAm Nachmittag erkunden Sie den weitläufigen Komplex des Palazzo della Pilotta, in dem Sie stundenlang im Trockenen zwischen Meisterwerken wandeln können.\n\nDen Abend lassen Sie bei einem kurzen, atmosphärischen Spaziergang durch den Parco Ducale ausklingen, bevor Sie sich in eine gemütliche Trattoria flüchten.",
+            "hu": "Kezdje a napot a Piazza Garibaldi árkádjai alatt, ahol az élet az eső ellenére sem áll meg. A reggeli órákban a városi nyüzsgést fedett helyről figyelheti.\n\nDélben a Dóm és a Keresztelőkápolna belső terei nyújtanak menedéket, ahol lenyűgöző freskók és csendes áhítat várja a látogatót.\n\nDélután a hatalmas Palazzo della Pilotta épületegyüttese kínál órákon át tartó kulturális programot, teljesen védve az elemektől.\n\nAz estét egy rövid, hangulatos séta zárja a Parco Ducale vizes ösvényein, majd jöhet egy melengető vacsora egy közeli kisvendéglőben.",
+            "ro": "Începeți ziua sub arcadele protectoare din Piazza Garibaldi, unde viața orașului continuă vibrantă în ciuda burniței. Dimineața este ideală pentru atmosfera locală.\n\nLa prânz, Catedrala și Baptisteriul oferă un refugiu uscat și spiritual, plin de comori artistice și fresce spectaculoase.\n\nDupă-amiaza, explorați complexul masiv Palazzo della Pilotta, unde puteți petrece ore întregi la adăpost, admirând capodoperele muzeelor interioare.\n\nSeara se încheie cu o scurtă plimbare atmosferică prin Parco Ducale, urmată de o cină caldă într-o trattoria primitoare din centrul vechi.",
+            "en": "Start your day under the protective porticos of Piazza Garibaldi, where city life continues despite the drizzle. The morning air is fresh and damp.\n\nAt midday, the Cathedral and Baptistery provide a dry, spiritual sanctuary filled with artistic treasures and stunning frescoes.\n\nSpend your afternoon in the vast Palazzo della Pilotta complex, where you can wander for hours indoors among historical masterpieces.\n\nFinish the evening with an atmospheric stroll through the rain-kissed Parco Ducale before retreating to a cozy trattoria for a warm meal."
+          },
+          "stops": [
+            {
+              "name": "Piazza Garibaldi",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als perfekten Regenschutz.",
+                "hu": "Használja a környező épületek árkádjait, hogy szárazon maradjon nézelődés közben.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru a vă proteja perfect de ploaie.",
+                "en": "Use the surrounding building arcades as perfect shelter while people-watching."
+              }
+            },
+            {
+              "name": "Parma Cathedral",
+              "tip_5lang": {
+                "de": "Die Kuppelfresken von Correggio lassen Sie das graue Wetter draußen vergessen.",
+                "hu": "Correggio kupolafreskói feledtetik a kinti szürke, esős időjárást.",
+                "ro": "Frescele din cupolă ale lui Correggio vă vor face să uitați de vremea gri de afară.",
+                "en": "Correggio's dome frescoes will make you forget the grey weather outside."
+              }
+            },
+            {
+              "name": "Parma Baptistery",
+              "tip_5lang": {
+                "de": "Der rosa Marmor glänzt im Regen besonders stimmungsvoll.",
+                "hu": "A rózsaszín márvány esőben különleges, mélyebb árnyalatokban pompázik.",
+                "ro": "Marmura roz strălucește într-un mod deosebit de atmosferic în ploaie.",
+                "en": "The pink marble glows with a unique atmosphere in the rain."
+              }
+            },
+            {
+              "name": "Palazzo della Pilotta",
+              "tip_5lang": {
+                "de": "Ein riesiger Innenraum-Komplex, ideal für ausgiebige Besichtigungen bei Regen.",
+                "hu": "Hatalmas fedett komplexum, ideális hosszú múzeumlátogatáshoz esős időben.",
+                "ro": "Un complex interior imens, ideal pentru vizite lungi când plouă afară.",
+                "en": "A massive indoor complex, ideal for extensive sightseeing during heavy rain."
+              }
+            },
+            {
+              "name": "Farnese Theatre",
+              "tip_5lang": {
+                "de": "Bestaunen Sie die Holzarchitektur in der trockenen Sicherheit dieses historischen Theaters.",
+                "hu": "Csodálja meg a faépítészet remekét a történelmi színház védett belső terében.",
+                "ro": "Admirați arhitectura din lemn în siguranța uscată a acestui teatru istoric.",
+                "en": "Admire the wooden architecture in the dry safety of this historic theatre."
+              }
+            },
+            {
+              "name": "Parco Ducale",
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten bei leichtem Nieselregen einen natürlichen Schirm.",
+                "hu": "A sűrű lombok enyhe szitálás esetén természetes esernyőként szolgálnak.",
+                "ro": "Coroanele dese ale copacilor oferă o umbrelă naturală în caz de burniță ușoară.",
+                "en": "The dense tree canopies offer a natural umbrella during light drizzle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parma ist berühmt für seine Portici (Arkaden), die fast alle Hauptstraßen säumen.",
+              "Tragen Sie rutschfeste Schuhe, da das Kopfsteinpflaster bei Nässe sehr glatt werden kann.",
+              "Die Museen in der Pilotta sind montags oft geschlossen; prüfen Sie die Öffnungszeiten.",
+              "Nutzen Sie die Regenpause für eine heiße Schokolade in einem der Cafés am Domplatz."
+            ],
+            "hu": [
+              "Parma híres árkádjairól (Portici), amelyek szinte minden főutcát végigkísérnek.",
+              "Viseljen csúszásmentes cipőt, mert a macskaköves utcák esőben nagyon síkosak.",
+              "A Pilotta múzeumai hétfőnként zárva tarthatnak; ellenőrizze a nyitvatartást.",
+              "Használja ki az eső szüneteit egy forró csokoládéra a Dóm tér valamelyik kávézójában."
+            ],
+            "ro": [
+              "Parma este faimoasă pentru porticurile sale care mărginesc aproape toate străzile principale.",
+              "Purtați încălțăminte antiderapantă, deoarece pavajul poate deveni foarte alunecos când este ud.",
+              "Muzeele din Pilotta sunt adesea închise lunea; verificați programul de funcționare.",
+              "Profitați de pauzele de ploaie pentru o ciocolată caldă într-o cafenea din Piața Domului."
+            ],
+            "en": [
+              "Parma is famous for its porticos, which line almost all main streets and keep you dry.",
+              "Wear non-slip shoes as the cobblestones can become very slippery when wet.",
+              "The Pilotta museums are often closed on Mondays; always check the opening hours.",
+              "Take advantage of rain breaks for a hot chocolate in a cafe by the Cathedral square."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen auf der Piazza Garibaldi weckt die Geister. Der Duft von frischem Gebäck mischt sich mit der kühlen Luft.\n\nMittags suchen Sie die goldene Wärme des Doms auf, dessen prachtvolle Ausstattung im Winterlicht besonders feierlich wirkt.\n\nWenn die Sonne früh sinkt, bietet der Palazzo della Pilotta eine warme Zuflucht voller Geschichte und beeindruckender Kunstwerke.\n\nDer Abend endet mit dem Anblick der festlich beleuchteten Altstadt, während der winterliche Nebel der Po-Ebene dem Parco Ducale etwas Mystisches verleiht.",
+            "hu": "A Piazza Garibaldi friss téli reggele felébreszti az érzékeket. A péksütemények illata keveredik a hűvös, tiszta levegővel.\n\nDélben keresse fel a Dóm aranyló melegségét, amelynek díszes belső tere a téli fényben különösen ünnepélyes.\n\nMivel a nap korán nyugszik, a Palazzo della Pilotta falai között meleg menedéket talál a történelem és a művészet világában.\n\nAz este a díszkivilágításban úszó óváros látványával zárul, miközben a Pó-síkság téli ködje misztikus hangulatot áraszt a Parco Ducale fái között.",
+            "ro": "O dimineață senină de iarnă în Piazza Garibaldi trezește simțurile. Aroma de patiserie proaspătă se împletește cu aerul rece.\n\nLa prânz, căutați căldura aurie a Domului, al cărui interior spectaculos pare deosebit de solemn în lumina slabă a iernii.\n\nPe măsură ce soarele apune devreme, Palazzo della Pilotta oferă un refugiu cald, plin de istorie și opere de artă impresionante.\n\nSeara se încheie cu imaginea orașului vechi iluminat festiv, în timp ce ceața de iarnă din Câmpia Padului oferă o notă mistică Parcului Ducale.",
+            "en": "A crisp winter morning in Piazza Garibaldi awakens the senses. The smell of fresh pastries mingles with the cool, sharp air.\n\nAt midday, seek the golden warmth of the Cathedral, where the magnificent interior feels especially solemn in the winter light.\n\nAs the sun sets early, the Palazzo della Pilotta provides a warm refuge filled with history and impressive artworks.\n\nFinish your day admiring the festively lit old town, while the winter fog of the Po Valley adds a mystical touch to Parco Ducale."
+          },
+          "stops": [
+            {
+              "name": "Piazza Garibaldi",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Espresso in einem der historischen Cafés am Platz.",
+                "hu": "Élvezzen egy forró eszpresszót a tér egyik történelmi kávézójában.",
+                "ro": "Savurați un espresso fierbinte într-una dintre cafenelele istorice din piață.",
+                "en": "Enjoy a hot espresso in one of the historic cafes bordering the square."
+              }
+            },
+            {
+              "name": "Parma Cathedral",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen und die andächtige Stille drinnen.",
+                "hu": "A vastag falak kint tartják a hideget és bent az áhítatos csendet.",
+                "ro": "Zidurile groase țin frigul afară și liniștea pioasă în interior.",
+                "en": "The thick walls keep the winter chill out and the prayerful silence in."
+              }
+            },
+            {
+              "name": "Parma Baptistery",
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die feinen Details der Skulpturen von Antelami hervor.",
+                "hu": "A téli fény kiemeli Antelami szobrainak finom, apró részleteit.",
+                "ro": "Lumina de iarnă scoate în evidență detaliile fine ale sculpturilor lui Antelami.",
+                "en": "The winter light emphasizes the fine details of Antelami's sculptures."
+              }
+            },
+            {
+              "name": "Palazzo della Pilotta",
+              "tip_5lang": {
+                "de": "Perfekt, um den kältesten Teil des Nachmittags in geheizten Galerien zu verbringen.",
+                "hu": "Tökéletes hely a délután leghidegebb óráinak eltöltésére a fűtött galériákban.",
+                "ro": "Perfect pentru a petrece cea mai rece parte a după-amiezii în galerii încălzite.",
+                "en": "Perfect for spending the coldest part of the afternoon in heated galleries."
+              }
+            },
+            {
+              "name": "Farnese Theatre",
+              "tip_5lang": {
+                "de": "Die Holzverkleidung sorgt für eine warme, einladende Atmosphäre.",
+                "hu": "A faburkolat meleg és barátságos hangulatot áraszt a téli hidegben.",
+                "ro": "Lambriurile din lemn creează o atmosferă caldă și primitoare.",
+                "en": "The wooden interior provides a warm and inviting atmosphere."
+              }
+            },
+            {
+              "name": "Parco Ducale",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif an den Statuen, ein wunderschönes Fotomotiv.",
+                "hu": "Figyelje meg a zúzmarát a szobrokon, amely csodálatos fotótéma.",
+                "ro": "Căutați chiciura de pe statui, este un subiect minunat pentru fotografii.",
+                "en": "Look for hoarfrost on the statues, a beautiful subject for winter photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Im Winter ist der typische Nebel der Po-Ebene (nebbia) sehr wahrscheinlich.",
+              "Die Sonne geht gegen 16:45 Uhr unter; planen Sie Außenaktivitäten früh ein.",
+              "Probieren Sie Anolini in Brodo, die klassische Wintersuppe aus Parma.",
+              "Die Geschäfte in der Via Mazzini sind im Winter oft bis spät abends festlich beleuchtet."
+            ],
+            "hu": [
+              "Télen a Pó-síkságra jellemző sűrű köd (nebbia) nagyon valószínű.",
+              "A nap 16:45 körül nyugszik; a szabadtéri programokat tervezze korábbra.",
+              "Kóstolja meg az Anolini in Brodo-t, Parma klasszikus téli tészta-levesét.",
+              "A Via Mazzini üzletei télen gyakran késő estig ünnepi kivilágításban pompáznak."
+            ],
+            "ro": [
+              "Iarna, ceața tipică Câmpiei Padului (nebbia) este foarte probabilă.",
+              "Soarele apune în jurul orei 16:45; planificați activitățile în aer liber devreme.",
+              "Gustați Anolini in Brodo, supa clasică de iarnă specifică orașului Parma.",
+              "Magazinele de pe Via Mazzini sunt adesea iluminate festiv până târziu în noapte."
+            ],
+            "en": [
+              "In winter, the typical Po Valley fog (nebbia) is very likely to occur.",
+              "The sun sets around 4:45 PM; plan your outdoor activities for earlier in the day.",
+              "Try Anolini in Brodo, Parma's classic warming winter pasta soup.",
+              "The shops in Via Mazzini are often festively lit until late in the evening."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -603,6 +1059,382 @@
           "Always lock your bike securely.",
           "The city is flat, making it ideal for relaxed cycling."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Parma wie ein Einheimischer mit dem Fahrrad. Starten Sie beim prächtigen Teatro Regio und erkunden Sie die religiösen Zentren. Radeln Sie bequem zum Pilotta-Komplex und genießen Sie die Freiheit auf zwei Rädern. Der Nachmittag gehört dem ausgedehnten Parco Ducale, wo Sie die schattigen Alleen befahren können, bevor Sie zum historischen Zentrum zurückkehren.",
+            "hu": "Fedezze fel Parmát úgy, mint egy helyi: kerékpárral. Kezdjen a pompás Teatro Regio-nál, majd látogassa meg a vallási központokat. Kerekezzen kényelmesen a Pilotta-palotához, élvezve a kétkeréken nyíló szabadságot. A délutánt töltse a tágas Parco Ducale-ban, ahol árnyas fasorok között biciklizhet, mielőtt visszatérne a történelmi városközpontba.",
+            "ro": "Descoperiți Parma ca un localnic: cu bicicleta. Începeți la magnificul Teatro Regio și vizitați centrele religioase. Mergeți cu bicicleta confortabil până la Palazzo della Pilotta, bucurându-vă de libertatea pe două roți. Petreceți după-amiaza în generosul Parco Ducale, unde puteți pedala printre alei umbrite înainte de a reveni în centrul istoric.",
+            "en": "Discover Parma like a local: by bike. Start at the magnificent Teatro Regio and explore the religious centers. Cycle comfortably to the Pilotta complex, enjoying the freedom on two wheels. Spend the afternoon in the spacious Parco Ducale, where you can ride through shaded alleys before returning to the historic center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro Regio",
+                "hu": "Teatro Regio",
+                "ro": "Teatro Regio",
+                "en": "Teatro Regio"
+              },
+              "tip_5lang": {
+                "de": "Ein Tempel der Opernwelt.",
+                "hu": "Az operavilág egyik szentélye.",
+                "ro": "Un templu al lumii operei.",
+                "en": "A temple of the opera world."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di Parma",
+                "hu": "Parmai székesegyház",
+                "ro": "Catedrala din Parma",
+                "en": "Parma Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Sicherer Fahrradabstellplatz am Platz.",
+                "hu": "Biztonságos kerékpártároló a téren.",
+                "ro": "Loc de parcare sigur pentru biciclete în piață.",
+                "en": "Safe bike parking available in the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Camera di San Paolo",
+                "hu": "Szt. Pál szobája",
+                "ro": "Camera di San Paolo",
+                "en": "Camera di San Paolo"
+              },
+              "tip_5lang": {
+                "de": "Fresken von Correggio in einem Nonnenkloster.",
+                "hu": "Correggio freskói egy apácazárdában.",
+                "ro": "Frescele lui Correggio într-o mănăstire de maici.",
+                "en": "Correggio's frescoes in a nunnery."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo della Pilotta",
+                "hu": "Palazzo della Pilotta",
+                "ro": "Palazzo della Pilotta",
+                "en": "Palazzo della Pilotta"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie durch den monumentalen Innenhof.",
+                "hu": "Kerekezzen át a monumentális belső udvaron.",
+                "ro": "Mergeți cu bicicleta prin curtea interioară monumentală.",
+                "en": "Cycle through the monumental inner courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Ducale",
+                "hu": "Parco Ducale",
+                "ro": "Parco Ducale",
+                "en": "Parco Ducale"
+              },
+              "tip_5lang": {
+                "de": "Beste Wege für Radfahrer in der Stadt.",
+                "hu": "A legjobb kerékpárutak a városban itt vannak.",
+                "ro": "Cele mai bune piste de biciclete din oraș sunt aici.",
+                "en": "The best cycling paths in the city are here."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gnocco Fritto",
+                "tip": "Frittiertes Gebäck mit Aufschnitt."
+              },
+              {
+                "name": "Culatello di Zibello",
+                "tip": "Der König der Schinken."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gnocco Fritto",
+                "tip": "Olajban sült tészta felvágottakkal."
+              },
+              {
+                "name": "Culatello di Zibello",
+                "tip": "A sonkák királya a környékről."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gnocco Fritto",
+                "tip": "Aluat prăjit servit cu mezeluri."
+              },
+              {
+                "name": "Culatello di Zibello",
+                "tip": "Regele șuncii din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gnocco Fritto",
+                "tip": "Fried dough served with cold cuts."
+              },
+              {
+                "name": "Culatello di Zibello",
+                "tip": "The king of hams from the area."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parco della Cittadella",
+                "tip": "Ruhige Festungsanlage zum Radeln.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parco della Cittadella",
+                "tip": "Csendes erődítmény park biciklizéshez.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parco della Cittadella",
+                "tip": "Parc liniștit într-o fortăreață pentru pedalat.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parco della Cittadella",
+                "tip": "Quiet fortress park for cycling.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "La Bottega del Formaggio",
+                "tip": "Käsespezialitäten zum Mitnehmen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Bottega del Formaggio",
+                "tip": "Sajtkülönlegességek elvitelre."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Bottega del Formaggio",
+                "tip": "Specialități de brânză la pachet."
+              },
+              {
+                "name": "Piața Garibaldi",
+                "tip": "Suveniruri locale în centru."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Bottega del Formaggio",
+                "tip": "Cheese specialties to take away."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parma ist eine der fahrradfreundlichsten Städte Italiens.",
+              "Nutzen Sie das Verleihsystem 'Parma in Bici'.",
+              "Viele Einbahnstraßen sind für Radfahrer in beide Richtungen offen.",
+              "Schließen Sie Ihr Rad immer gut ab.",
+              "Die Stadt ist flach und daher ideal für entspanntes Radeln."
+            ],
+            "hu": [
+              "Parma Olaszország egyik leginkább kerékpárosbarát városa.",
+              "Használja a 'Parma in Bici' kölcsönző rendszert.",
+              "Sok egyirányú utca nyitva áll a bicikliseknek mindkét irányba.",
+              "Mindig zárja le alaposan a kerékpárját.",
+              "A város sík, így ideális a kényelmes kerekezéshez."
+            ],
+            "ro": [
+              "Parma este unul dintre cele mai prietenoase orașe pentru bicicliști din Italia.",
+              "Folosiți sistemul de închiriere 'Parma in Bici'.",
+              "Multe străzi cu sens unic sunt deschise bicicliștilor în ambele sensuri.",
+              "Încuiați întotdeauna bine bicicleta.",
+              "Orașul este plat, fiind ideal pentru pedalat relaxat."
+            ],
+            "en": [
+              "Parma is one of Italy's most bike-friendly cities.",
+              "Use the 'Parma in Bici' rental system.",
+              "Many one-way streets are open to cyclists in both directions.",
+              "Always lock your bike securely.",
+              "The city is flat, making it ideal for relaxed cycling."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht, bietet aber eine ganz eigene Perspektive auf das glänzende Teatro Regio am Morgen.\n\nMittags erreichen Sie den Domplatz schnell; nutzen Sie die Fahrradständer nahe der Arkaden, um trocken ins Innere zu gelangen.\n\nDer Nachmittag am Palazzo della Pilotta lässt sich leicht mit dem Rad erreichen, wobei die Wege durch die Altstadt nun wunderbar leer sind.\n\nDen Tag beenden Sie mit einer kurzen Fahrt durch den Parco Ducale, wo der Regen die Farben des Schlossparks intensiviert.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel, de különleges látványt nyújt a reggeli fényben csillogó Teatro Regio.\n\nDélben gyorsan elérheti a Dóm teret; használja az árkádok közeli tárolókat, hogy szárazon jusson be az épületbe.\n\nA délutáni Palazzo della Pilotta könnyen megközelíthető két keréken, az óváros utcái ilyenkor hívogatóan üresek.\n\nA napot egy rövid gurulással zárja a Parco Ducale fái alatt, ahol az eső mélyebbé teszi a kastélypark színeit.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență, dar oferă o perspectivă unică asupra Teatro Regio strălucind dimineața.\n\nLa prânz ajungeți rapid în Piața Domului; folosiți rastelele de lângă porticuri pentru a intra uscat în interior.\n\nDupă-amiaza la Palazzo della Pilotta este ușor de accesat cu bicicleta, străzile centrului vechi fiind acum minunat de libere.\n\nÎncheiați ziua cu o scurtă plimbare prin Parco Ducale, unde ploaia intensifică culorile grădinilor palatului.",
+            "en": "Cycling in the rain requires caution but offers a unique perspective on the glistening Teatro Regio in the morning.\n\nAt midday, you can reach the Cathedral square quickly; use the bike racks near the porticos to stay dry.\n\nThe afternoon visit to Palazzo della Pilotta is easy by bike, and the old town streets are wonderfully empty now.\n\nEnd the day with a quick ride through Parco Ducale, where the rain intensifies the colors of the palace gardens."
+          },
+          "stops": [
+            {
+              "name": "Teatro Regio",
+              "tip_5lang": {
+                "de": "Vorsicht vor den rutschigen Straßenbahnschienen in der Nähe des Theaters.",
+                "hu": "Vigyázzon a színház környékén található csúszós villamossínekkel.",
+                "ro": "Atenție la șinele de tramvai alunecoase din apropierea teatrului.",
+                "en": "Be careful with the slippery tram tracks near the theatre area."
+              }
+            },
+            {
+              "name": "Parma Cathedral",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Arkaden am Rande des Platzes.",
+                "hu": "Parkolja le kerékpárját a tér szélén található árkádok alatt.",
+                "ro": "Parcați bicicleta sub arcadele de la marginea pieței.",
+                "en": "Park your bike under the porticos at the edge of the square."
+              }
+            },
+            {
+              "name": "Camera di San Paolo",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Bremsen auf nassem Kopfsteinpflaster gut greifen.",
+                "hu": "Győződjön meg róla, hogy fékjei jól fognak a nedves macskakövön.",
+                "ro": "Asigurați-vă că frânele funcționează bine pe pavajul ud.",
+                "en": "Ensure your brakes are working well on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Palazzo della Pilotta",
+              "tip_5lang": {
+                "de": "Die großen Bögen des Palastes bieten Schutz beim Abstellen des Rades.",
+                "hu": "A palota nagy boltívei védelmet nyújtanak a kerékpár lezárásakor.",
+                "ro": "Arcurile mari ale palatului oferă protecție la parcarea bicicletei.",
+                "en": "The palace's large arches provide shelter while locking your bike."
+              }
+            },
+            {
+              "name": "Parco Ducale",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Pfützen auf den unbefestigten Wegen im Park.",
+                "hu": "Kerülje el a tócsákat a park nem aszfaltozott ösvényein.",
+                "ro": "Evitați bălțile de pe aleile neasfaltate din parc.",
+                "en": "Avoid large puddles on the unpaved paths within the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie wasserfeste Packtaschen für Ihre Wertsachen.",
+              "Kopfsteinpflaster in der Altstadt ist bei Regen extrem rutschig.",
+              "Achten Sie auf ausreichende Beleuchtung, da die Sicht bei Regen sinkt.",
+              "Parma ist sehr fahrradfreundlich; viele Cafés haben Fahrradständer in Sichtweite."
+            ],
+            "hu": [
+              "Használjon vízálló táskákat az értéktárgyai védelmében.",
+              "Az óvárosi macskakő esőben rendkívül csúszóssá válhat.",
+              "Ügyeljen a megfelelő világításra, mert esőben a látási viszonyok romlanak.",
+              "Parma kerékpárosbarát; sok kávézónál rálátni a biciklitárolóra."
+            ],
+            "ro": [
+              "Folosiți genți impermeabile pentru obiectele de valoare.",
+              "Pavajul din centrul vechi este extrem de alunecos pe ploaie.",
+              "Asigurați-vă că aveți lumini bune, vizibilitatea scade când plouă.",
+              "Parma este prietenoasă cu bicicliștii; multe cafenele au rastele la vedere."
+            ],
+            "en": [
+              "Use waterproof panniers or bags for your valuables.",
+              "Cobblestones in the old town are extremely slippery when wet.",
+              "Ensure you have good lights, as visibility drops significantly in rain.",
+              "Parma is very bike-friendly; many cafes have racks within sight."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenluft beim Radeln zum Teatro Regio macht sofort hellwach und frisch.\n\nMittags ist der Domplatz ein ruhiger Ort; die Kälte hält die Touristenmassen fern, was die Fahrt angenehm macht.\n\nDer Nachmittag im Palazzo della Pilotta bietet die nötige Aufwärmpause, bevor es zurück in die winterliche Stadt geht.\n\nDie Tour endet im Parco Ducale, wo die kahlen Bäume und das weiche Winterlicht eine fast melancholische Schönheit ausstrahlen.",
+            "hu": "A hűvös reggeli levegő a Teatro Regio felé tekerve azonnal felfrissíti az embert.\n\nDélben a Dóm tér nyugodt hely; a hideg távol tartja a tömeget, így a gurulás zavartalan.\n\nA délutáni Palazzo della Pilotta biztosítja a szükséges felmelegedést, mielőtt visszatérne a téli városba.\n\nA túra a Parco Ducale területén zárul, ahol a csupasz fák és a lágy téli fény melankolikus szépséget áraszt.",
+            "ro": "Aerul rece de dimineață în timp ce pedalați spre Teatro Regio vă va trezi instantaneu.\n\nLa prânz, Piața Domului este un loc liniștit; frigul ține masele de turiști la distanță, făcând plimbarea plăcută.\n\nDupă-amiaza la Palazzo della Pilotta oferă pauza necesară pentru încălzire înainte de a reveni în orașul de iarnă.\n\nTurul se încheie în Parco Ducale, unde copacii golași și lumina blândă de iarnă emană o frumusețe melancolică.",
+            "en": "The cool morning air while cycling to Teatro Regio makes you feel instantly awake and refreshed.\n\nAt midday, the Cathedral square is a quiet spot; the cold keeps the crowds away, making for a pleasant ride.\n\nThe afternoon at Palazzo della Pilotta offers a necessary warm-up break before heading back into the winter city.\n\nThe tour ends in Parco Ducale, where the bare trees and soft winter light radiate a melancholic beauty."
+          },
+          "stops": [
+            {
+              "name": "Teatro Regio",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, da der Fahrtwind bei Frost sehr beißend sein kann.",
+                "hu": "Viseljen meleg kesztyűt, mert a menetszél fagyban nagyon metsző lehet.",
+                "ro": "Purtați mănuși groase, vântul poate fi tăios când este ger.",
+                "en": "Wear warm gloves, as the wind chill can be very biting in frost."
+              }
+            },
+            {
+              "name": "Parma Cathedral",
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle Eisflächen auf dem gepflasterten Platz.",
+                "hu": "Ügyeljen az esetleges jeges foltokra a kövezett téren.",
+                "ro": "Atenție la eventualele porțiuni înghețate din piața pavată.",
+                "en": "Watch out for potential icy patches on the paved square."
+              }
+            },
+            {
+              "name": "Camera di San Paolo",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Wege zwischen den Sehenswürdigkeiten, um nicht auszukühlen.",
+                "hu": "Használja ki a látnivalók közti rövid távokat, hogy ne hűljön ki.",
+                "ro": "Folosiți distanțele scurte dintre obiective pentru a nu vă răci.",
+                "en": "Take advantage of short distances between sights to stay warm."
+              }
+            },
+            {
+              "name": "Palazzo della Pilotta",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Fahrradbeleuchtung, da es im Winter schon früh dunkel wird.",
+                "hu": "Ellenőrizze a világítást, mert télen korán sötétedik.",
+                "ro": "Verificați luminile bicicletei, se întunecă devreme iarna.",
+                "en": "Check your bike lights, as it gets dark very early in winter."
+              }
+            },
+            {
+              "name": "Parco Ducale",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Brücken, dort bildet sich zuerst Glatteis.",
+                "hu": "Óvatosan hajtson át a hidakon, ott alakul ki először jégréteg.",
+                "ro": "Pedalați cu grijă pe poduri, acolo se formează prima dată poleiul.",
+                "en": "Ride carefully over bridges, as they freeze and become slippery first."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichtenprinzip bei der Kleidung ist für Radfahrer im Winter essenziell.",
+              "Der Sonnenuntergang gegen 17 Uhr bedeutet, dass Sie Licht für den Rückweg brauchen.",
+              "Vermeiden Sie schnelle Kurven auf schattigen Straßen wegen möglicher Glätte.",
+              "Wärmen Sie sich zwischendurch in einer Pasticceria mit einem warmen Getränk auf."
+            ],
+            "hu": [
+              "A réteges öltözködés alapvető a téli kerékpározáshoz.",
+              "A 17 óra körüli napnyugta miatt mindenképp szükség lesz lámpára hazafelé.",
+              "Kerülje a gyors kanyarodást az árnyékos utcákon az esetleges lefagyások miatt.",
+              "Melegedjen fel időnként egy-egy cukrászdában (Pasticceria) egy forró itallal."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este esențială pentru cicliști iarna.",
+              "Apusul în jurul orei 17 înseamnă că veți avea nevoie de lumini la întoarcere.",
+              "Evitați virajele rapide pe străzile umbrite din cauza riscului de polei.",
+              "Încălziți-vă din când în când într-o Pasticceria cu o băutură caldă."
+            ],
+            "en": [
+              "Layering your clothes is essential for winter cycling in the Po Valley.",
+              "Sunset around 5 PM means you will definitely need lights for the return journey.",
+              "Avoid sharp turns on shaded streets due to potential black ice.",
+              "Warm up periodically in a Pasticceria with a hot drink and a pastry."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -846,6 +1678,362 @@
           "Look out for blue parking lines (paid parking).",
           "A car is ideal for visiting the ham factories in the countryside."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erweitern Sie Ihren Radius und besuchen morgens das prächtige Schloss Torrechiara. Danach geht es zurück nach Parma, wo Sie Ihr Auto in einem der Randparkhäuser abstellen. Den Rest des Tages erkunden Sie die monumentale Pilotta und die geistlichen Schätze im Zentrum. Den Abschluss bildet ein Spaziergang im Parco Ducale, bevor Sie bequem die Heimreise antreten.",
+            "hu": "Autóval kibővítheti a hatókört: reggel látogasson el a pompás Torrechiara várába. Ezután térjen vissza Parmába, és tegye le az autót az egyik peremkerületi parkolóházban. A nap további részét a monumentális Pilotta és a belváros szakrális kincseinek felfedezésével töltse. A programot a Parco Ducale-ban zárja, mielőtt kényelmesen hazaindulna.",
+            "ro": "Cu mașina puteți extinde raza de vizitare: dimineața vizitați magnificul castel Torrechiara. Apoi reveniți în Parma și lăsați mașina într-una dintre parcările de la marginea centrului. Restul zilei explorați complexul monumental Pilotta și comorile spirituale din centru. Încheiați cu o plimbare în Parco Ducale înainte de a porni confortabil spre casă.",
+            "en": "With a car, you can expand your reach: visit the magnificent Torrechiara Castle in the morning. Then return to Parma and park in one of the fringe parking garages. Spend the rest of the day exploring the monumental Pilotta and the sacred treasures in the city center. End the trip in Parco Ducale before heading home comfortably."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torrechiara Schloss (Umland)",
+                "hu": "Torrechiara vára (környék)",
+                "ro": "Castelul Torrechiara (împrejurimi)",
+                "en": "Torrechiara Castle (outskirts)"
+              },
+              "tip_5lang": {
+                "de": "Ein Märchenschloss vor den Toren der Stadt.",
+                "hu": "Egy mesebeli vár a város kapujában.",
+                "ro": "Un castel de basm la porțile orașului.",
+                "en": "A fairytale castle at the city gates."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo della Pilotta",
+                "hu": "Palazzo della Pilotta",
+                "ro": "Palazzo della Pilotta",
+                "en": "Palazzo della Pilotta"
+              },
+              "tip_5lang": {
+                "de": "Parkhaus Toschi ist in der Nähe.",
+                "hu": "A Toschi parkolóház van a legközelebb.",
+                "ro": "Parcarea Toschi este cea mai apropiată.",
+                "en": "Toschi parking garage is nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di Parma",
+                "hu": "Parmai székesegyház",
+                "ro": "Catedrala din Parma",
+                "en": "Parma Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Zentrum ist ZTL-Zone (eingeschränkt).",
+                "hu": "A központ ZTL (korlátozott forgalmú) zóna.",
+                "ro": "Centrul este zonă ZTL (trafic restricționat).",
+                "en": "The center is a ZTL (restricted traffic) zone."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica di Santa Maria della Steccata",
+                "hu": "Santa Maria della Steccata bazilika",
+                "ro": "Bazilica Santa Maria della Steccata",
+                "en": "Basilica of Santa Maria della Steccata"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöne Renaissance-Architektur.",
+                "hu": "Gyönyörű reneszánsz építészet.",
+                "ro": "Arhitectură renascentistă superbă.",
+                "en": "Beautiful Renaissance architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Ducale",
+                "hu": "Parco Ducale",
+                "ro": "Parco Ducale",
+                "en": "Parco Ducale"
+              },
+              "tip_5lang": {
+                "de": "Entspannung vor der Rückfahrt.",
+                "hu": "Pihenés a visszaindulás előtt.",
+                "ro": "Relaxare înainte de drumul de întoarcere.",
+                "en": "Relaxation before the drive back."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Anolini in Brodo",
+                "tip": "Gefüllte Pasta in Fleischbrühe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Anolini in Brodo",
+                "tip": "Töltött tészta húslevesben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Anolini in Brodo",
+                "tip": "Paste umplute în supă de carne."
+              }
+            ],
+            "en": [
+              {
+                "name": "Anolini in Brodo",
+                "tip": "Filled pasta in meat broth."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Torrechiara Hügel",
+                "tip": "Panoramablick auf die Weinberge.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Torrechiara dombok",
+                "tip": "Panoráma a szőlőültetvényekre.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Dealurile Torrechiara",
+                "tip": "Vedere panoramică asupra podgoriilor.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Torrechiara hills",
+                "tip": "Panoramic view of the vineyards.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Fidenza Village",
+                "tip": "Outlet-Shopping an der Autobahn A1."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fidenza Village",
+                "tip": "Outlet vásárlás az A1 autópálya mellett."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fidenza Village",
+                "tip": "Cumpărături tip outlet lângă autostrada A1."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fidenza Village",
+                "tip": "Outlet shopping by the A1 motorway."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Einfahren in die ZTL-Zone im Zentrum.",
+              "Parken Sie im Parkhaus Toschi oder Goito.",
+              "Torrechiara ist etwa 20 Minuten Fahrt von Parma entfernt.",
+              "Achten Sie auf die blauen Parkmarkierungen (kostenpflichtig).",
+              "Ein Auto ist ideal, um die Schinkenfabriken im Umland zu besuchen."
+            ],
+            "hu": [
+              "Kerülje el a behajtást a belvárosi ZTL zónába.",
+              "Parkoljon a Toschi vagy Goito parkolóházakban.",
+              "Torrechiara kb. 20 perc autóútra van Parmától.",
+              "Figyeljen a kék felfestésű parkolókra (fizetős).",
+              "Az autó ideális a környékbeli sonkaüzemek meglátogatásához."
+            ],
+            "ro": [
+              "Evitați intrarea în zona ZTL din centrul orașului.",
+              "Parcați în parcările Toschi sau Goito.",
+              "Torrechiara se află la aproximativ 20 de minute de mers cu mașina.",
+              "Atenție la marcajele albastre de parcare (cu plată).",
+              "Mașina este ideală pentru a vizita fabricile de șuncă din împrejurimi."
+            ],
+            "en": [
+              "Avoid driving into the ZTL zone in the center.",
+              "Park in the Toschi or Goito parking garages.",
+              "Torrechiara is about a 20-minute drive from Parma.",
+              "Look out for blue parking lines (paid parking).",
+              "A car is ideal for visiting the ham factories in the countryside."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie das Schloss Torrechiara am Morgen bequem und trocken, während der Regen die Hügel verhüllt.\n\nMittags parken Sie in der Nähe der Pilotta; die kurzen Wege minimieren die Zeit im Freien bei schlechtem Wetter.\n\nDer Nachmittag im Dom und im Baptisterium bietet eine beeindruckende kulturelle Pause in geschlossenen Räumen.\n\nDer Tag endet flexibel; Sie können den Parco Ducale vom Auto aus bewundern oder einen kurzen, regengeschützten Stopp einlegen.",
+            "hu": "Autóval kényelmesen és szárazon érheti el reggel Torrechiara várát, miközben az eső ködbe burkolja a dombokat.\n\nDélben parkoljon a Pilotta közelében; a rövid távolságok minimalizálják a szabadban töltött időt rossz idő esetén.\n\nA délutáni Dóm és Keresztelőkápolna lenyűgöző kulturális élményt nyújt zárt térben.\n\nA nap rugalmasan zárul; megcsodálhatja a Parco Ducale-t az autóból, vagy tarthat egy rövid, védett megállót.",
+            "ro": "Cu mașina ajungeți la Castelul Torrechiara dimineața confortabil și uscat, în timp ce ploaia învăluie dealurile.\n\nLa prânz parcați lângă Pilotta; distanțele scurte minimizează timpul petrecut afară pe vreme rea.\n\nDupă-amiaza la Dom și Baptisteriu oferă o pauză culturală impresionantă în spații închise.\n\nZiua se încheie flexibil; puteți admira Parco Ducale din mașină sau puteți face o scurtă oprire protejată de ploaie.",
+            "en": "By car, you can reach Torrechiara Castle comfortably and dry in the morning, while rain veils the surrounding hills.\n\nAt midday, park near the Pilotta; short walking distances minimize your time outdoors in bad weather.\n\nThe afternoon visit to the Cathedral and Baptistery offers an impressive cultural break in enclosed spaces.\n\nThe day ends flexibly; you can admire Parco Ducale from the car or take a short, rain-protected stop."
+          },
+          "stops": [
+            {
+              "name": "Torrechiara Castle (outskirts)",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Eingang, was den Weg im Regen verkürzt.",
+                "hu": "A parkoló közel van a bejárathoz, így rövid az út az esőben.",
+                "ro": "Parcarea este aproape de intrare, scurtând drumul prin ploaie.",
+                "en": "The parking lot is close to the entrance, shortening your walk in the rain."
+              }
+            },
+            {
+              "name": "Palazzo della Pilotta",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus Toschi für einen direkten Zugang zum Zentrum.",
+                "hu": "Használja a Toschi parkolóházat a központ közvetlen eléréséhez.",
+                "ro": "Folosiți parcarea Toschi pentru un acces direct către centru.",
+                "en": "Use the Toschi underground parking for direct access to the city center."
+              }
+            },
+            {
+              "name": "Parma Cathedral",
+              "tip_5lang": {
+                "de": "In der ZTL-Zone ist das Fahren eingeschränkt; parken Sie am Rand.",
+                "hu": "A ZTL zónában korlátozott a behajtás; parkoljon a szélén.",
+                "ro": "Accesul auto este restricționat în zona ZTL; parcați la margine.",
+                "en": "Driving is restricted in the ZTL zone; park just outside the perimeter."
+              }
+            },
+            {
+              "name": "Basilica of Santa Maria della Steccata",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz bringt Sie trocken in diese prächtige Kirche.",
+                "hu": "Egy rövid sprint a parkolótól, és már bent is van a csodás templomban.",
+                "ro": "Un sprint scurt de la parcare vă aduce uscat în această biserică superbă.",
+                "en": "A short sprint from your parking spot gets you dry into this grand church."
+              }
+            },
+            {
+              "name": "Parco Ducale",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze direkt an den Mauern des Parks.",
+                "hu": "Közvetlenül a park falai mentén is találhatók parkolóhelyek.",
+                "ro": "Există locuri de parcare chiar lângă zidurile parcului.",
+                "en": "There are parking spaces available directly along the park walls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf die ZTL-Zonen (verkehrsberuhigte Zonen) in der Innenstadt.",
+              "Das Parkhaus Toschi ist der beste Ort für Besichtigungen in der Altstadt.",
+              "Die Fahrt nach Torrechiara dauert bei Regen etwa 30 Minuten; fahren Sie vorsichtig.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto, besonders an abgelegenen Orten."
+            ],
+            "hu": [
+              "Ügyeljen a ZTL zónákra (forgalomkorlátozott területek) a belvárosban.",
+              "A Toschi parkolóház a legjobb bázis az óvárosi nézelődéshez.",
+              "Az út Torrechiarába esőben kb. 30 perc; vezessen óvatosan a kanyarokban.",
+              "Ne hagyjon értéktárgyat látható helyen az autóban, főleg távolabbi helyeken."
+            ],
+            "ro": [
+              "Atenție la zonele ZTL (zone cu trafic restricționat) din centrul orașului.",
+              "Parcarea Toschi este cel mai bun loc pentru vizitarea centrului vechi.",
+              "Drumul spre Torrechiara durează cam 30 de minute pe ploaie; conduceți prudent.",
+              "Nu lăsați obiecte de valoare la vedere în mașină, mai ales în locuri izolate."
+            ],
+            "en": [
+              "Be very careful with ZTL zones (restricted traffic) in the city center.",
+              "The Toschi parking garage is the best hub for exploring the old town.",
+              "The drive to Torrechiara takes about 30 minutes in rain; drive cautiously.",
+              "Do not leave any valuables visible in the car, especially in quieter areas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fahren Sie durch die frostige Landschaft zum Schloss Torrechiara, das im Winterlicht magisch wirkt.\n\nMittags kehren Sie in die Stadt zurück und nutzen die Sitzheizung, während Sie einen Parkplatz nahe der Pilotta suchen.\n\nDer Nachmittag im Dom bietet eine ehrwürdige Stille, die durch die winterliche Ruhe der Stadt noch verstärkt wird.\n\nDen Tag beschließen Sie mit einer Fahrt entlang der beleuchteten Ringstraße, bevor Sie den Abend im warmen Komfort Ihres Wagens beenden.",
+            "hu": "Reggel a fagyos tájon át autózik Torrechiara várához, amely a téli fényben mágikus hatást kelt.\n\nDélben visszatér a városba; élvezze az ülésfűtést, miközben parkolót keres a Pilotta közelében.\n\nA délutáni Dóm méltóságteljes csendet áraszt, amelyet a város téli nyugalma tovább fokoz.\n\nA napot az kivilágított körút mentén tett autózással zárja, mielőtt befejezné a napot kocsija kényelmében.",
+            "ro": "Dimineața conduceți prin peisajul înghețat spre Castelul Torrechiara, care pare magic în lumina iernii.\n\nLa prânz reveniți în oraș; folosiți încălzirea în scaune în timp ce căutați parcare lângă Pilotta.\n\nDupă-amiaza la Dom oferă o liniște solemnă, amplificată de calmul hibernal al orașului.\n\nÎncheiați ziua cu o plimbare auto de-a lungul bulevardelor luminate, înainte de a finaliza turul în confortul mașinii.",
+            "en": "In the morning, drive through the frosty landscape to Torrechiara Castle, which looks magical in winter light.\n\nAt midday, return to the city; enjoy the heated seats while searching for parking near the Pilotta.\n\nThe afternoon in the Cathedral offers a venerable silence, enhanced by the city's winter calm.\n\nFinish the day with a drive along the illuminated ring road before ending your tour in the warm comfort of your car."
+          },
+          "stops": [
+            {
+              "name": "Torrechiara Castle (outskirts)",
+              "tip_5lang": {
+                "de": "Die Burgräume können im Winter kühl sein; behalten Sie Ihren Mantel an.",
+                "hu": "A várterem télen hűvös lehet; ne vegye le a kabátját odabent sem.",
+                "ro": "Sălile castelului pot fi reci iarna; păstrați haina pe dumneavoastră.",
+                "en": "The castle rooms can be chilly in winter; keep your coat on during the visit."
+              }
+            },
+            {
+              "name": "Palazzo della Pilotta",
+              "tip_5lang": {
+                "de": "Das Parkhaus bietet Schutz vor dem kalten Winterwind beim Aussteigen.",
+                "hu": "A parkolóház védelmet nyújt a hideg téli szél ellen kiszálláskor.",
+                "ro": "Parcarea acoperită oferă protecție împotriva vântului rece la coborâre.",
+                "en": "The parking garage offers protection from the biting winter wind when exiting."
+              }
+            },
+            {
+              "name": "Parma Cathedral",
+              "tip_5lang": {
+                "de": "Die zentrale Lage bedeutet einen kurzen Fußweg durch die Kälte.",
+                "hu": "A központi elhelyezkedés rövid sétát jelent a hidegben.",
+                "ro": "Locația centrală înseamnă o plimbare scurtă prin frig.",
+                "en": "The central location means only a very short walk through the cold air."
+              }
+            },
+            {
+              "name": "Basilica of Santa Maria della Steccata",
+              "tip_5lang": {
+                "de": "Genießen Sie die prachtvolle Innenausstattung als Aufwärmpause.",
+                "hu": "Élvezze a pompás belső teret, miközben kicsit felmelegszik.",
+                "ro": "Admirați interiorul superb ca o pauză de încălzire.",
+                "en": "Admire the magnificent interior as a welcome warm-up break."
+              }
+            },
+            {
+              "name": "Parco Ducale",
+              "tip_5lang": {
+                "de": "Der Park ist im Winter weniger besucht und bietet ruhige Fotomotive.",
+                "hu": "A park télen kevésbé látogatott, nyugodt fotótémákat kínál.",
+                "ro": "Parcul este mai puțin vizitat iarna, oferind cadre liniștite pentru poze.",
+                "en": "The park is less crowded in winter, offering quiet photo opportunities."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie im Winter auf Nebelwarnungen für die Autobahnen der Po-Ebene.",
+              "Stellen Sie sicher, dass Ihr Wagen mit Winterreifen ausgestattet ist.",
+              "Batterieprüfung vor der Fahrt ist bei Minustemperaturen ratsam.",
+              "Nutzen Sie die Park-and-Ride-Plätze am Stadtrand, falls das Zentrum überfüllt ist."
+            ],
+            "hu": [
+              "Télen figyelje a ködriasztásokat a Pó-síkság autópályáin.",
+              "Győződjön meg róla, hogy az autó téli gumival van felszerelve.",
+              "Fagypont alatti hőmérsékletnél tanácsos az akkumulátor ellenőrzése.",
+              "Használja a város szélén található P+R parkolókat, ha a központ zsúfolt."
+            ],
+            "ro": [
+              "Iarna, urmăriți alertele de ceață pentru autostrăzile din Câmpia Padului.",
+              "Asigurați-vă că mașina este echipată cu anvelope de iarnă.",
+              "Verificarea bateriei înainte de drum este indicată la temperaturi negative.",
+              "Folosiți parcările P+R de la marginea orașului dacă centrul este aglomerat."
+            ],
+            "en": [
+              "In winter, watch for fog warnings (nebbia) on the Po Valley motorways.",
+              "Ensure your rental car is equipped with appropriate winter tires.",
+              "A battery check before your trip is advisable during freezing temperatures.",
+              "Use Park-and-Ride lots on the outskirts if the city center is too busy."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1112,6 +2300,394 @@
           "Buses run quite frequently in the city center.",
           "Use the 'Tep' app for real-time schedules."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das effiziente Bussystem von Parma. Starten Sie am Bahnhof und erreichen Sie schnell den Pilotta-Komplex. Nach dem Besuch der Piazza Garibaldi erkunden Sie die prächtigen Kirchen und Klöster im Zentrum. Der Bus bringt Sie bequem zwischen den wichtigsten Punkten hin und her, sodass Sie mehr Zeit für die Besichtigungen und weniger für lange Fußwege haben.",
+            "hu": "Használja ki Parma hatékony buszhálózatát. Kezdjen a vasútállomáson, ahonnan gyorsan elérheti a Pilotta-palotát. A Piazza Garibaldi megtekintése után fedezze fel a belváros pompás templomait és kolostorait. A busz kényelmesen szállítja a főbb pontok között, így több ideje marad a látnivalókra és kevesebb a hosszú gyaloglásra.",
+            "ro": "Profită de sistemul eficient de autobuze din Parma. Începe la gară, de unde poți ajunge rapid la Palazzo della Pilotta. După vizitarea Pieței Garibaldi, explorează bisericile și mănăstirile superbe din centru. Autobuzul te transportă confortabil între punctele principale, având astfel mai mult timp pentru vizitare și mai puțin pentru mers pe jos.",
+            "en": "Take advantage of Parma's efficient bus system. Start at the railway station and quickly reach the Pilotta complex. After visiting Piazza Garibaldi, explore the magnificent churches and monasteries in the center. The bus conveniently transports you between the main points, giving you more time for sightseeing and less for long walks."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Parma",
+                "hu": "Parma vasútállomás",
+                "ro": "Gara Parma",
+                "en": "Parma Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Knotenpunkt für Stadtbusse.",
+                "hu": "A helyi buszjáratok csomópontja.",
+                "ro": "Nod central pentru autobuzele urbane.",
+                "en": "Central hub for city buses."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo della Pilotta",
+                "hu": "Palazzo della Pilotta",
+                "ro": "Palazzo della Pilotta",
+                "en": "Palazzo della Pilotta"
+              },
+              "tip_5lang": {
+                "de": "Buslinien 1, 7, 11 halten hier.",
+                "hu": "Az 1, 7, 11-es buszok megállnak itt.",
+                "ro": "Liniile de autobuz 1, 7, 11 opresc aici.",
+                "en": "Bus lines 1, 7, 11 stop here."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza Garibaldi",
+                "hu": "Piazza Garibaldi",
+                "ro": "Piazza Garibaldi",
+                "en": "Piazza Garibaldi"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt.",
+                "hu": "Központi átszállási pont.",
+                "ro": "Punct central de transfer.",
+                "en": "Central transfer point."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di Parma",
+                "hu": "Parmai székesegyház",
+                "ro": "Catedrala din Parma",
+                "en": "Parma Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Piazza Garibaldi.",
+                "hu": "Rövid séta a Piazza Garibaldi-tól.",
+                "ro": "Scurtă plimbare de la Piazza Garibaldi.",
+                "en": "Short walk from Piazza Garibaldi."
+              }
+            },
+            {
+              "name": {
+                "de": "Monastero di San Giovanni Evangelista",
+                "hu": "Szt. János Evangelista kolostor",
+                "ro": "Mănăstirea Sf. Ioan Evanghelistul",
+                "en": "San Giovanni Evangelista Monastery"
+              },
+              "tip_5lang": {
+                "de": "Antike Apotheke im Inneren.",
+                "hu": "Antik gyógyszertár az épületben.",
+                "ro": "Farmacie antică în interior.",
+                "en": "Antique pharmacy inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Regio",
+                "hu": "Teatro Regio",
+                "ro": "Teatro Regio",
+                "en": "Teatro Regio"
+              },
+              "tip_5lang": {
+                "de": "Rückfahrt zum Bahnhof mit Bus 7.",
+                "hu": "Visszautazás az állomásra a 7-es busszal.",
+                "ro": "Retur la gară cu autobuzul 7.",
+                "en": "Return to the station with bus 7."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Rosa di Parma",
+                "tip": "Rinderfilet mit Schinken und Käse gefüllt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rosa di Parma",
+                "tip": "Sonkával és sajttal töltött bélszín."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rosa di Parma",
+                "tip": "Mușchi de vită umplut cu șuncă și brânză."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rosa di Parma",
+                "tip": "Beef fillet stuffed with ham and cheese."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Orto Botanico",
+                "tip": "Botanischer Garten in Bahnhofsnähe.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Orto Botanico",
+                "tip": "Botanikus kert az állomás közelében.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Orto Botanico",
+                "tip": "Grădina Botanică de lângă gară.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Orto Botanico",
+                "tip": "Botanical garden near the station.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Strada della Repubblica",
+                "tip": "Einkaufsmeile mit vielen Marken."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Strada della Repubblica",
+                "tip": "Bevásárlóutca számos márkával."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Strada della Repubblica",
+                "tip": "Stradă comercială cu multe mărci."
+              }
+            ],
+            "en": [
+              {
+                "name": "Strada della Repubblica",
+                "tip": "Shopping street with many brands."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Bustickets an Tabakläden (Tabacchi).",
+              "Entwerten Sie das Ticket sofort beim Einsteigen.",
+              "Die Linien 1, 7 und 15 sind für Touristen am nützlichsten.",
+              "Die Busse fahren im Zentrum recht häufig.",
+              "Nutzen Sie die App 'Tep' für Fahrpläne in Echtzeit."
+            ],
+            "hu": [
+              "Vegyen buszjegyet a dohányboltokban (Tabacchi).",
+              "Felszálláskor azonnal érvényesítse a jegyet.",
+              "Az 1, 7 és 15-ös vonalak a leghasznosabbak a turistáknak.",
+              "A buszok a belvárosban elég gyakran járnak.",
+              "Használja a 'Tep' alkalmazást a valós idejű menetrendhez."
+            ],
+            "ro": [
+              "Cumpărați bilete de autobuz de la magazinele de tutun (Tabacchi).",
+              "Validați biletul imediat după urcare.",
+              "Liniile 1, 7 și 15 sunt cele mai utile pentru turiști.",
+              "Autobuzele circulă destul de des în centrul orașului.",
+              "Folosiți aplicația 'Tep' pentru orare în timp real."
+            ],
+            "en": [
+              "Buy bus tickets at tobacco shops (Tabacchi).",
+              "Validate your ticket immediately upon boarding.",
+              "Lines 1, 7, and 15 are most useful for tourists.",
+              "Buses run quite frequently in the city center.",
+              "Use the 'Tep' app for real-time schedules."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am regnerischen Morgen bietet der Bahnhof Parma einen geschützten Startpunkt für Ihre Stadterkundung.\n\nMittags bringt Sie der Bus schnell zum Palazzo della Pilotta, wo Sie den Regen für mehrere Stunden komplett vergessen können.\n\nDer Nachmittag führt Sie per Transit zur Piazza Garibaldi und zum Dom; die kurzen Fahrten halten Sie trocken und mobil.\n\nDer Tag endet entspannt; der Bus bringt Sie nahe an Ihr Ziel, sodass Sie nur minimal Zeit im Regen verbringen müssen.",
+            "hu": "Az esős reggelen a parmai vasútállomás védett kiindulópontot kínál a város felfedezéséhez.\n\nDélben a busz gyorsan a Palazzo della Pilotta épületéhez repíti, ahol órákra elfelejtheti a kinti esőt.\n\nA délutáni program során a Piazza Garibaldi és a Dóm tér könnyen elérhető tömegközlekedéssel, így szárazon maradhat.\n\nA nap nyugodtan zárul; a busz közel viszi az úti céljához, minimalizálva az esőben töltött időt.",
+            "ro": "În dimineața ploioasă, Gara din Parma oferă un punct de plecare protejat pentru explorarea orașului.\n\nLa prânz, autobuzul vă duce rapid la Palazzo della Pilotta, unde puteți uita complet de ploaie timp de câteva ore.\n\nDupă-amiaza vă poartă spre Piazza Garibaldi și Dom; călătoriile scurte vă mențin uscat și mobil.\n\nZiua se încheie relaxat; autobuzul vă lasă aproape de destinație, minimizând timpul petrecut în ploaie.",
+            "en": "On a rainy morning, Parma Railway Station provides a sheltered starting point for your city exploration.\n\nAt midday, the bus whisks you to Palazzo della Pilotta, where you can completely forget the rain for several hours.\n\nIn the afternoon, transit takes you to Piazza Garibaldi and the Cathedral; short rides keep you dry and mobile.\n\nFinish the day relaxed; the bus drops you close to your destination, minimizing your time spent in the rain."
+          },
+          "stops": [
+            {
+              "name": "Parma Railway Station",
+              "tip_5lang": {
+                "de": "Die Wartehalle bietet einen trockenen Ort, um die Busverbindungen zu prüfen.",
+                "hu": "A váróterem száraz helyet biztosít a buszjáratok ellenőrzéséhez.",
+                "ro": "Sala de așteptare oferă un loc uscat pentru a verifica legăturile de autobuz.",
+                "en": "The waiting hall provides a dry place to check your bus connections."
+              }
+            },
+            {
+              "name": "Palazzo della Pilotta",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle befindet sich fast direkt vor den großen Eingangsbögen.",
+                "hu": "A buszmegálló szinte közvetlenül a nagy bejárati boltívek előtt található.",
+                "ro": "Stația de autobuz este aproape direct în fața arcurilor mari de la intrare.",
+                "en": "The bus stop is located almost directly in front of the large entrance arches."
+              }
+            },
+            {
+              "name": "Piazza Garibaldi",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt vieler Linien; ideal zum Umsteigen im Trockenen.",
+                "hu": "Sok járat központi csomópontja; ideális az átszálláshoz esőben.",
+                "ro": "Nod central pentru multe linii; ideal pentru schimbat autobuzul la adăpost.",
+                "en": "A central hub for many lines; ideal for transferring while staying dry."
+              }
+            },
+            {
+              "name": "Parma Cathedral",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg von der Haltestelle Piazza Garibaldi führt Sie zum Dom.",
+                "hu": "Egy rövid séta a Piazza Garibaldi megállótól, és már a Dómnál van.",
+                "ro": "O scurtă plimbare de la stația Piazza Garibaldi vă duce la Dom.",
+                "en": "A very short walk from the Piazza Garibaldi stop leads you to the Cathedral."
+              }
+            },
+            {
+              "name": "San Giovanni Evangelista Monastery",
+              "tip_5lang": {
+                "de": "Direkt hinter dem Dom gelegen, perfekt für eine Besichtigung ohne lange Wege.",
+                "hu": "Közvetlenül a Dóm mögött található, tökéletes a hosszú gyaloglás nélküli vizithez.",
+                "ro": "Situat chiar în spatele Domului, perfect pentru o vizită fără drumuri lungi.",
+                "en": "Located right behind the Cathedral, perfect for a visit without long walks."
+              }
+            },
+            {
+              "name": "Teatro Regio",
+              "tip_5lang": {
+                "de": "Die Haltestellen in der Nähe haben oft Unterstände gegen den Regen.",
+                "hu": "A közelben lévő megállók gyakran rendelkeznek esővédő tetővel.",
+                "ro": "Stațiile din apropiere au adesea copertine împotriva ploii.",
+                "en": "Nearby bus stops often have shelters to protect you from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Bustickets vorab in Tabakläden (Tabaccheria) oder per App.",
+              "Die Busse in Parma sind zuverlässig und decken das Zentrum gut ab.",
+              "Nutzen Sie die App 'TEP Parma' für Echtzeit-Informationen bei Regen.",
+              "Haben Sie immer einen kleinen Regenschirm für die kurzen Wege zwischen den Haltestellen dabei."
+            ],
+            "hu": [
+              "Vásároljon buszjegyet előre dohányboltokban (Tabaccheria) vagy applikáción.",
+              "A parmai buszok megbízhatóak és jól lefedik a belvárost.",
+              "Használja a 'TEP Parma' alkalmazást a valós idejű információkért esőben.",
+              "Mindig legyen kéznél egy kis esernyő a megállók közti rövid sétákhoz."
+            ],
+            "ro": [
+              "Cumpărați bilete de autobuz în avans de la tutungerii (Tabaccheria) sau prin aplicație.",
+              "Autobuzele din Parma sunt de încredere și acoperă bine centrul.",
+              "Folosiți aplicația 'TEP Parma' pentru informații în timp real când plouă.",
+              "Aveți întotdeauna o umbrelă mică pentru distanțele scurte dintre stații."
+            ],
+            "en": [
+              "Buy bus tickets in advance at tobacco shops (Tabaccheria) or via the app.",
+              "Buses in Parma are reliable and cover the historic center very well.",
+              "Use the 'TEP Parma' app for real-time arrival information during rainy days.",
+              "Always carry a compact umbrella for the short walks between bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der winterliche Morgen am Bahnhof Parma verspricht einen klaren Tag voller Entdeckungen in der frostigen Luft.\n\nMittags genießen Sie die Wärme im Bus auf dem Weg zum Palazzo della Pilotta, einer wahren Schatzkammer der Kunst.\n\nDer Nachmittag führt Sie komfortabel durch die winterruhigere Stadt zur Piazza Garibaldi und zum prächtigen Dom.\n\nZum Abend hin bringt Sie der Transit sicher und warm durch die festlich beleuchteten Straßen zurück zu Ihrem Ausgangspunkt.",
+            "hu": "A téli reggel a parmai vasútállomáson tiszta, felfedezésekkel teli napot ígér a fagyos levegőben.\n\nDélben élvezze a busz melegét a Palazzo della Pilotta felé, amely a művészet igazi kincsesbányája.\n\nA délután folyamán kényelmesen utazhat a téli nyugalomba burkolózott városon át a Piazza Garibaldi és a Dóm felé.\n\nEste a tömegközlekedés biztonságban és melegben viszi vissza a díszkivilágított utcákon keresztül a kiindulópontjához.",
+            "ro": "Dimineața de iarnă la Gara din Parma promite o zi senină, plină de descoperiri în aerul înghețat.\n\nLa prânz bucurați-vă de căldura din autobuz în drum spre Palazzo della Pilotta, un adevărat tezaur de artă.\n\nDupă-amiaza vă poartă confortabil prin orașul liniștit de iarnă spre Piazza Garibaldi și Domul magnific.\n\nSpre seară, transportul public vă aduce în siguranță și la căldură prin străzile iluminate festiv înapoi la punctul de plecare.",
+            "en": "A winter morning at Parma Railway Station promises a clear day of discovery in the crisp, frosty air.\n\nAt midday, enjoy the warmth of the bus on your way to Palazzo della Pilotta, a true treasury of art.\n\nThe afternoon takes you comfortably through the quiet winter city to Piazza Garibaldi and the magnificent Cathedral.\n\nTowards evening, transit carries you safely and warmly through the festively lit streets back to your starting point."
+          },
+          "stops": [
+            {
+              "name": "Parma Railway Station",
+              "tip_5lang": {
+                "de": "Die Bahnhofsbar ist ein guter Ort für einen wärmenden Cappuccino am Morgen.",
+                "hu": "Az állomási bár remek hely egy reggeli melegítő cappuccinóra.",
+                "ro": "Barul gării este un loc bun pentru un cappuccino care să vă încălzească dimineața.",
+                "en": "The station bar is a great spot for a warming morning cappuccino."
+              }
+            },
+            {
+              "name": "Palazzo della Pilotta",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe im Museum, um schwere Wintermäntel abzulegen.",
+                "hu": "Használja a múzeumi ruhatárat, hogy letegye a nehéz téli kabátokat.",
+                "ro": "Folosiți garderoba muzeului pentru a lăsa hainele groase de iarnă.",
+                "en": "Use the museum's cloakroom to leave your heavy winter coats while exploring."
+              }
+            },
+            {
+              "name": "Piazza Garibaldi",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen schützen vor dem kalten Winterwind.",
+                "hu": "A váróhelyek védelmet nyújtanak a hideg téli szél ellen.",
+                "ro": "Adăposturile din stații vă protejează de vântul rece de iarnă.",
+                "en": "The bus stop shelters provide protection from the biting winter wind."
+              }
+            },
+            {
+              "name": "Parma Cathedral",
+              "tip_5lang": {
+                "de": "Die andächtige Stille im Dom wirkt im Winter besonders beruhigend.",
+                "hu": "A Dóm áhítatos csendje télen különösen megnyugtatóan hat.",
+                "ro": "Liniștea pioasă din Dom pare deosebit de calmantă iarna.",
+                "en": "The prayerful silence in the Cathedral feels especially calming in winter."
+              }
+            },
+            {
+              "name": "San Giovanni Evangelista Monastery",
+              "tip_5lang": {
+                "de": "Besuchen Sie die historische Apotheke nebenan für eine warme, geschichtsträchtige Pause.",
+                "hu": "Látogasson el a mellette lévő történelmi patikába egy meleg, múltidéző pihenőre.",
+                "ro": "Vizitați farmacia istorică de alături pentru o pauză caldă plină de istorie.",
+                "en": "Visit the historic pharmacy next door for a warm, history-filled break."
+              }
+            },
+            {
+              "name": "Teatro Regio",
+              "tip_5lang": {
+                "de": "Abendliche Opernaufführungen sind ein Highlight im winterlichen Parma.",
+                "hu": "Az esti operaelőadások a téli Parma igazi fénypontjai.",
+                "ro": "Spectacolele de operă de seară sunt un punct culminant în Parma iarna.",
+                "en": "Evening opera performances are a highlight of Parma's winter season."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können im Winter leicht abweichen; nutzen Sie Online-Updates.",
+              "Die Busse sind im Winter meist gut geheizt und bieten eine warme Pause.",
+              "Bei starkem Schneefall (selten, aber möglich) kann es zu Verzögerungen kommen.",
+              "Kaufen Sie Fahrkarten am Automaten im Bahnhof, um Wartezeiten in der Kälte zu vermeiden."
+            ],
+            "hu": [
+              "A menetrendek télen kismértékben eltérhetnek; használja az online frissítéseket.",
+              "A buszok télen általában jól fűtöttek, így kellemes pihenőt nyújtanak.",
+              "Erős hóesés esetén (ritka, de előfordulhat) késések várhatóak.",
+              "Vegye meg a jegyet az állomási automatánál, hogy ne kelljen a hidegben várakoznia."
+            ],
+            "ro": [
+              "Orarele pot varia ușor iarna; folosiți actualizările online.",
+              "Autobuzele sunt de obicei bine încălzite iarna, oferind o pauză plăcută.",
+              "În caz de ninsoare abundentă (rar, dar posibil) pot apărea întârzieri.",
+              "Cumpărați bilete de la automatele din gară pentru a evita așteptarea în frig."
+            ],
+            "en": [
+              "Bus schedules might slightly vary in winter; use online updates for accuracy.",
+              "Buses are usually well-heated in winter, offering a welcome warm break.",
+              "In case of heavy snowfall (rare but possible), expect some transit delays.",
+              "Purchase tickets from machines inside the station to avoid waiting in the cold."
+            ]
+          }
+        }
       }
     }
   },

@@ -256,6 +256,369 @@
           "Drink plenty of water, there are many public fountains.",
           "Book the cave visit in advance."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen im bezaubernden Centro Storico von Maratea, wo jede Ecke eine neue Geschichte erzählt. Schlendern Sie durch die mittelalterlichen Gassen und besuchen Sie die Kirche Santa Maria Maggiore.\n\nMittags steigen Sie zum malerischen Hafen hinab. Hier können Sie frischen Fisch genießen, während Sie die Luxusyachten im türkisfarbenen Wasser beobachten.\n\nDer Nachmittag gehört der Entspannung am berühmten Spiaggia Nera. Der schwarze Vulkansand bietet einen faszinierenden Kontrast zu den Klippen und dem kristallklaren Meer.\n\nBeenden Sie den Tag mit einem Besuch der Grotta delle Meraviglie, einem unterirdischen Juwel voller Stalaktiten, bevor Sie den Sonnenuntergang über dem Tyrrhenischen Meer genießen.",
+            "hu": "Kezdje a reggelt Maratea bájos óvárosában, ahol minden sarok egy új történetet mesél. Sétáljon a középkori utcákon és látogasson el a Santa Maria Maggiore templomba.\n\nDélben ereszkedjen le a festői kikötőbe. Itt friss halat kóstolhat, miközben a türkizkék vízben ringatózó luxusjachtokat figyeli.\n\nA délután a kikapcsolódásé a híres Spiaggia Nerán. A fekete vulkáni homok lenyűgöző kontrasztot alkot a sziklákkal és a kristálytiszta tengerrel.\n\nA napot a Grotta delle Meraviglie meglátogatásával zárja, amely egy sztalaktitokkal teli földalatti ékszerdoboz, mielőtt megcsodálná a naplementét a Tirrén-tenger felett.",
+            "ro": "Începeți dimineața în fermecătorul Centro Storico din Maratea, unde fiecare colț spune o nouă poveste. Plimbați-vă pe străzile medievale și vizitați Biserica Santa Maria Maggiore.\n\nLa prânz, coborâți spre portul pitoresc. Aici puteți savura pește proaspăt în timp ce admirați iahturile de lux din apele turcoaz.\n\nDupă-amiaza este dedicată relaxării pe faimoasa Spiaggia Nera. Nisipul negru vulcanic oferă un contrast fascinant cu stâncile și marea cristalină.\n\nÎncheiați ziua cu o vizită la Grotta delle Meraviglie, o bijuterie subterană plină de stalactite, înainte de a admira apusul peste Marea Tireniană.",
+            "en": "Start your morning in Maratea's charming Centro Storico, where every corner tells a new story. Wander through the medieval alleys and visit the Church of Santa Maria Maggiore.\n\nAt midday, descend to the picturesque harbor. Here you can enjoy fresh fish while watching the luxury yachts in the turquoise water.\n\nThe afternoon belongs to relaxation at the famous Spiaggia Nera. The black volcanic sand offers a fascinating contrast to the cliffs and the crystal-clear sea.\n\nEnd the day with a visit to the Grotta delle Meraviglie, an underground jewel full of stalactites, before enjoying the sunset over the Tyrrhenian Sea."
+          },
+          "stops": [
+            {
+              "name": "Centro Storico",
+              "tip_5lang": {
+                "de": "Verlieren Sie sich in den engen Gassen.",
+                "hu": "Vesszen el a szűk sikátorok labirintusában.",
+                "ro": "Pierdeți-vă pe străduțele înguste.",
+                "en": "Get lost in the labyrinth of narrow alleys."
+              }
+            },
+            {
+              "name": "Chiesa di Santa Maria Maggiore",
+              "tip_5lang": {
+                "de": "Bewundern Sie die mittelalterlichen Fresken.",
+                "hu": "Csodálja meg a középkori freskókat.",
+                "ro": "Admirați frescele medievale.",
+                "en": "Admire the medieval frescoes."
+              }
+            },
+            {
+              "name": "Porto di Maratea",
+              "tip_5lang": {
+                "de": "Perfekter Ort für ein Mittagessen am Meer.",
+                "hu": "Tökéletes hely egy tengerparti ebédhez.",
+                "ro": "Locul perfect pentru un prânz la malul mării.",
+                "en": "Perfect spot for a seaside lunch."
+              }
+            },
+            {
+              "name": "Spiaggia Nera",
+              "tip_5lang": {
+                "de": "Genießen Sie den einzigartigen vulkanischen Sand.",
+                "hu": "Élvezze az egyedülálló vulkáni homokot.",
+                "ro": "Bucurați-vă de nisipul vulcanic unic.",
+                "en": "Enjoy the unique volcanic black sand."
+              }
+            },
+            {
+              "name": "Grotta delle Meraviglie",
+              "tip_5lang": {
+                "de": "Die kleinste Schauhöhle Italiens.",
+                "hu": "Olaszország legkisebb látogatható barlangja.",
+                "ro": "Cea mai mică peșteră turistică din Italia.",
+                "en": "The smallest show cave in Italy."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Alici alla Marateota",
+                "tip": "Sardellen mariniert mit lokalem Chili."
+              },
+              {
+                "name": "Taverna del Porto",
+                "tip": "Frische Meeresfrüchte direkt am Kai."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Alici alla Marateota",
+                "tip": "Helyi chilivel pácolt szardella."
+              },
+              {
+                "name": "Taverna del Porto",
+                "tip": "Friss tengeri gyümölcsök közvetlenül a mólónál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Alici alla Marateota",
+                "tip": "Anșoa marinată cu chili local."
+              },
+              {
+                "name": "Taverna del Porto",
+                "tip": "Fructe de mare proaspete chiar pe chei."
+              }
+            ],
+            "en": [
+              {
+                "name": "Alici alla Marateota",
+                "tip": "Anchovies marinated with local chili."
+              },
+              {
+                "name": "Taverna del Porto",
+                "tip": "Fresh seafood right by the quay."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Piazza Buraglia",
+                "tip": "Ruhiger Platz für einen Espresso am Morgen.",
+                "emoji": "☕"
+              },
+              {
+                "name": "Belvedere Spiaggia Nera",
+                "tip": "Panoramablick auf die Bucht.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Piazza Buraglia",
+                "tip": "Csendes tér egy reggeli eszpresszóhoz.",
+                "emoji": "☕"
+              },
+              {
+                "name": "Belvedere Spiaggia Nera",
+                "tip": "Panorámás kilátás az öbölre.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piazza Buraglia",
+                "tip": "Piață liniștită pentru un espresso dimineața.",
+                "emoji": "☕"
+              },
+              {
+                "name": "Belvedere Spiaggia Nera",
+                "tip": "Vedere panoramică asupra golfului.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Piazza Buraglia",
+                "tip": "Quiet square for a morning espresso.",
+                "emoji": "☕"
+              },
+              {
+                "name": "Belvedere Spiaggia Nera",
+                "tip": "Panoramic view of the bay.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bottega d'Arte",
+                "tip": "Handgefertigte Keramik und Webwaren."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bottega d'Arte",
+                "tip": "Kézműves kerámiák és szőtt áruk."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bottega d'Arte",
+                "tip": "Ceramică artizanală și țesături."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bottega d'Arte",
+                "tip": "Handmade ceramics and woven goods."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die steilen Treppen.",
+              "Die Treppen zwischen Altstadt und Hafen sind anstrengend, aber lohnend.",
+              "Trinken Sie viel Wasser, es gibt viele öffentliche Brunnen.",
+              "Reservieren Sie den Höhlenbesuch im Voraus."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a meredek lépcsőkhöz.",
+              "Az óváros és a kikötő közötti lépcsők fárasztóak, de megérik.",
+              "Igyon sok vizet, sok a nyilvános kút.",
+              "Foglalja le előre a barlanglátogatást."
+            ],
+            "ro": [
+              "Purtați încălțăminte confortabilă pentru scările abrupte.",
+              "Scările dintre centrul vechi și port sunt obositoare, dar merită.",
+              "Beți multă apă, există multe cișmele publice.",
+              "Rezervați vizita la peșteră în avans."
+            ],
+            "en": [
+              "Wear comfortable shoes for the steep stairs.",
+              "The stairs between the old town and the port are tiring but rewarding.",
+              "Drink plenty of water, there are many public fountains.",
+              "Book the cave visit in advance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die engen Gassen der Altstadt Schutz vor dem Regen. Mittags in der Kirche finden Sie Ruhe und Trockenheit. Am Nachmittag führt der Weg zum Hafen, wo die Meeresbrise den Regen peitscht, also ist ein windfester Schirm nötig. Der Besuch am schwarzen Strand ist dramatisch und wild. Den Abschluss bildet die Grotte, die als natürlicher Unterschlupf perfekt für regnerische Tage ist.",
+            "hu": "Reggel az óváros szűk utcái némi védelmet nyújtanak az eső elől. Délben a templom belső tere kínál száraz menedéket. Délután a kikötőnél a tengeri szél miatt erős esernyőre lesz szükség. A fekete homokos part látványa ilyenkor különösen vadregényes. A napot a barlangban zárjuk, amely természetes óvóhelyként tökéletes választás esős időben is.",
+            "ro": "Dimineața, străzile înguste din centrul istoric oferă adăpost împotriva ploii. La prânz, interiorul bisericii este locul ideal pentru un moment de liniște uscată. După-amiaza, drumul spre port necesită o umbrelă rezistentă la vânt. Plaja neagră arată dramatic sub cerul închis. Seara se încheie la peșteră, un refugiu natural perfect unde ploaia nu mai contează.",
+            "en": "Morning starts in the narrow alleys of the old town, providing some shelter from the rain. At noon, the church interior offers a dry sanctuary. In the afternoon, the walk to the port requires a windproof umbrella due to the sea breeze. The black sand beach looks dramatic under rainy skies. The day ends at the cave, a perfect natural shelter where the weather doesn't matter."
+          },
+          "stops": [
+            {
+              "name": "Centro Storico",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster, es wird bei Nässe sehr rutschig.",
+                "hu": "Vigyázzon a macskaköveken, esőben nagyon csúszóssá válnak.",
+                "ro": "Atenție pe piatra cubică, devine foarte alunecoasă când este udă.",
+                "en": "Be careful on the cobblestones; they become very slippery when wet."
+              }
+            },
+            {
+              "name": "Chiesa di Santa Maria Maggiore",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen schweren Regenschauer im Trockenen abzuwarten.",
+                "hu": "Ideális hely egy nagyobb zápor szárazon történő átvészeléséhez.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse puternice la adăpost.",
+                "en": "An ideal place to wait out a heavy downpour in the dry."
+              }
+            },
+            {
+              "name": "Porto di Maratea",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Cafés am Kai als Unterschlupf bei plötzlichen Güssen.",
+                "hu": "Használja a parti kávézókat menedékként hirtelen zivatar esetén.",
+                "ro": "Folosiți cafenelele de pe chei ca adăpost în caz de averse bruște.",
+                "en": "Use the cafes along the quay as shelter during sudden showers."
+              }
+            },
+            {
+              "name": "Spiaggia Nera",
+              "tip_5lang": {
+                "de": "Der dunkle Sand klebt bei Regen stark an den Schuhen.",
+                "hu": "A sötét homok esőben erősen rátapad a cipőkre.",
+                "ro": "Nisipul negru se lipește puternic de încălțăminte pe timp de ploaie.",
+                "en": "The dark sand sticks heavily to shoes during rain."
+              }
+            },
+            {
+              "name": "Grotta delle Meraviglie",
+              "tip_5lang": {
+                "de": "In der Höhle sind Sie völlig geschützt; die Temperatur ist konstant.",
+                "hu": "A barlangban teljesen védett; a hőmérséklet állandó.",
+                "ro": "În peșteră sunteți complet protejat; temperatura este constantă.",
+                "en": "You are fully protected inside the cave; temperature is constant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die steilen Gassen.",
+              "Ein Taschenschirm ist bei Wind am Hafen oft nicht ausreichend.",
+              "Die Grotte ist das beste Ziel bei Dauerregen.",
+              "Planen Sie Pausen in den überdachten Portici der Altstadt ein."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a meredek, csúszós utcákhoz.",
+              "A kikötőnél a szél miatt az összecsukható esernyő kevés lehet.",
+              "A barlang a legjobb úticél tartós esőzés esetén.",
+              "Tervezzen pihenőket az óváros fedett részein."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție impermeabilă pentru străzile abrupte.",
+              "O umbrelă pliabilă s-ar putea să nu reziste vântului din port.",
+              "Peștera este cea mai bună destinație în caz de ploaie continuă.",
+              "Planificați pauze în zonele acoperite ale centrului istoric."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the steep, slippery streets.",
+              "A compact umbrella might not withstand the wind at the port.",
+              "The cave is the best destination during persistent rain.",
+              "Plan breaks in the covered sections of the old town."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft macht den morgendlichen Spaziergang durch die Altstadt erfrischend. In der Kirche ist es kühl, aber friedlich. Mittags genießen Sie die Ruhe am fast leeren Hafen. Der Nachmittag am schwarzen Strand bietet spektakuläre Lichtverhältnisse vor dem frühen Sonnenuntergang gegen 16:45 Uhr. Der Tag endet angenehm in der Grotte, die im Winter oft wärmer wirkt als die Außenluft.",
+            "hu": "A tiszta téli levegő frissítővé teszi a reggeli sétát az óvárosban. A templomban hűvös van, de nagy a nyugalom. Délben a szinte üres kikötő csendjét élvezhetjük. Délután a fekete homokos part különleges fényeket kínál a korai, 16:45 körüli naplemente előtt. A nap a barlangban ér véget, amely télen gyakran melegebbnek érződik a kinti levegőnél.",
+            "ro": "Aerul curat de iarnă face plimbarea de dimineață prin centrul istoric revigorantă. În biserică este răcoare, dar multă liniște. La prânz, bucurați-vă de portul aproape pustiu. După-amiaza pe plaja neagră oferă lumini spectaculoase înainte de apusul devreme, în jur de 16:45. Ziua se încheie plăcut în peșteră, care iarna pare mai caldă decât aerul de afară.",
+            "en": "The crisp winter air makes the morning walk through the old town refreshing. The church is cool but very peaceful. At noon, enjoy the silence of the nearly empty port. The afternoon at the black sand beach offers spectacular light before the early sunset around 16:45. The day ends pleasantly in the cave, which often feels warmer than the outside air in winter."
+          },
+          "stops": [
+            {
+              "name": "Centro Storico",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne Touristenmassen; kleiden Sie sich im Zwiebelprinzip.",
+                "hu": "Élvezze a tömeg nélküli nyugalmat; öltözködjön rétegesen.",
+                "ro": "Bucurați-vă de liniște fără mulțimi; îmbrăcați-vă în straturi.",
+                "en": "Enjoy the quiet without crowds; dress in layers."
+              }
+            },
+            {
+              "name": "Chiesa di Santa Maria Maggiore",
+              "tip_5lang": {
+                "de": "Kirchenräume können im Winter sehr kalt sein; behalten Sie den Mantel an.",
+                "hu": "A templomterek télen nagyon hidegek lehetnek; hagyja magán a kabátot.",
+                "ro": "Interioarele bisericilor pot fi reci iarna; păstrați haina pe dvs.",
+                "en": "Church interiors can be very cold in winter; keep your coat on."
+              }
+            },
+            {
+              "name": "Porto di Maratea",
+              "tip_5lang": {
+                "de": "Viele Cafés haben Winterpause; prüfen Sie die Öffnungszeiten vorab.",
+                "hu": "Sok kávézó téli szünetet tart; előre ellenőrizze a nyitvatartást.",
+                "ro": "Multe cafenele sunt închise iarna; verificați programul în avans.",
+                "en": "Many cafes are closed for winter; check opening hours in advance."
+              }
+            },
+            {
+              "name": "Spiaggia Nera",
+              "tip_5lang": {
+                "de": "Starten Sie hier spätestens um 15:30, um das Tageslicht zu nutzen.",
+                "hu": "Legkésőbb 15:30-kor kezdjen itt, hogy kihasználja a nappali fényt.",
+                "ro": "Începeți aici cel târziu la 15:30 pentru a profita de lumina zilei.",
+                "en": "Start here by 15:30 at the latest to make use of daylight."
+              }
+            },
+            {
+              "name": "Grotta delle Meraviglie",
+              "tip_5lang": {
+                "de": "Prüfen Sie die saisonalen Öffnungszeiten, oft nur am Wochenende offen.",
+                "hu": "Ellenőrizze a szezonális nyitvatartást, gyakran csak hétvégén van nyitva.",
+                "ro": "Verificați programul sezonier, adesea este deschis doar în weekend.",
+                "en": "Check seasonal hours; often open only on weekends."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist früh (ca. 16:45), planen Sie den Rückweg ein.",
+              "An der Küste weht im Winter ein scharfer Wind.",
+              "Die meisten Sehenswürdigkeiten sind menschenleer und fotogen.",
+              "Trinken Sie eine heiße Schokolade in einer der wenigen offenen Bars."
+            ],
+            "hu": [
+              "A naplemente korai (kb. 16:45), tervezze meg a visszautat.",
+              "A tengerparton télen metsző szél fújhat.",
+              "A legtöbb látnivaló néptelen és kiválóan fotózható.",
+              "Igyon egy forró csokoládét a kevés nyitva tartó bár egyikében."
+            ],
+            "ro": [
+              "Apusul este devreme (cca. 16:45), planificați drumul de întoarcere.",
+              "Pe coastă bate un vânt tăios în timpul iernii.",
+              "Majoritatea obiectivelor sunt pustii și foarte fotogenice.",
+              "Beți o ciocolată caldă într-unul din puținele baruri deschise."
+            ],
+            "en": [
+              "Sunset is early (approx. 16:45); plan your return journey.",
+              "A biting wind often blows along the coast in winter.",
+              "Most sights are deserted and very photogenic.",
+              "Have a hot chocolate in one of the few open bars."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -470,6 +833,333 @@
           "Avoid driving into the ZTL of the old town.",
           "The SS18 road offers the best photo stops."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens hinauf zum Monte San Biagio zur majestätischen Christusstatue. Von hier oben scheint die Welt stillzustehen, während Sie auf die Küste blicken.\n\nNach dem Besuch der benachbarten Basilika führt Sie die Fahrt in den Süden zu den imposanten Ruinen des Castello di Castrocucco, das über dem Golf thront.\n\nZum Mittagessen kehren Sie zum Hafen von Maratea zurück, wo Sie bequem parken und die maritime Atmosphäre genießen können.\n\nAm Nachmittag bietet die Grotta delle Meraviglie eine magische Abkühlung unter der Erde, bevor Sie die Panorama-Küstenstraße SS18 befahren.",
+            "hu": "Reggel hajtson fel a Monte San Biagio-ra a fenséges Krisztus-szoborhoz. Innen fentről megállni látszik az idő, miközben a partvidéket szemléli.\n\nA szomszédos bazilika meglátogatása után délnek tartson Castrocucco várának impozáns romjaihoz, amely az öböl felett trónol.\n\nEbédre térjen vissza Maratea kikötőjébe, ahol kényelmesen parkolhat és élvezheti a tengerparti hangulatot.\n\nDélután a Grotta delle Meraviglie varázslatos hűvöst kínál a föld alatt, mielőtt végighajtana az SS18-as panorámaúton.",
+            "ro": "Dimineața, conduceți până pe Muntele San Biagio la maiestuoasa statuie a lui Hristos. De aici, lumea pare să stea în loc în timp ce priviți coasta.\n\nDupă vizitarea basilicii vecine, drumul vă duce spre sud la ruinele impunătoare ale Castelului Castrocucco, care domină golful.\n\nPentru prânz, reveniți în portul Maratea, unde puteți parca confortabil și vă puteți bucura de atmosfera maritimă.\n\nDupă-amiaza, Grotta delle Meraviglie oferă o răcoare magică sub pământ, înainte de a parcurge drumul panoramic de coastă SS18.",
+            "en": "In the morning, drive up to Monte San Biagio to the majestic statue of Christ. From up here, the world seems to stand still as you look out over the coastline.\n\nAfter visiting the neighboring basilica, the drive takes you south to the imposing ruins of the Castello di Castrocucco, perched over the gulf.\n\nFor lunch, return to the port of Maratea, where you can park comfortably and enjoy the maritime atmosphere.\n\nThe afternoon offers a magical cooling underground at the Grotta delle Meraviglie, before driving along the panoramic coastal road SS18."
+          },
+          "stops": [
+            {
+              "name": "Cristo Redentore",
+              "tip_5lang": {
+                "de": "Atemberaubender 360-Grad-Blick.",
+                "hu": "Lélegzetelállító 360 fokos kilátás.",
+                "ro": "Vedere panoramică de 360 de grade uimitoare.",
+                "en": "Breathtaking 360-degree view."
+              }
+            },
+            {
+              "name": "Basilica di San Biagio",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Grab des Schutzpatrons.",
+                "hu": "Látogassa meg a védőszent sírját.",
+                "ro": "Vizitați mormântul sfântului patron.",
+                "en": "Visit the tomb of the patron saint."
+              }
+            },
+            {
+              "name": "Castello di Castrocucco",
+              "tip_5lang": {
+                "de": "Ruinen einer alten Festung auf dem Hügel.",
+                "hu": "Egy ősi erőd romjai a dombtetőn.",
+                "ro": "Ruinele unei vechi cetăți pe deal.",
+                "en": "Ruins of an ancient fortress on the hill."
+              }
+            },
+            {
+              "name": "Porto di Maratea",
+              "tip_5lang": {
+                "de": "Gastro-Stopp im Yachthafen.",
+                "hu": "Gasztro megálló a jachtkikötőben.",
+                "ro": "Oprire gastronomică în portul de iahturi.",
+                "en": "Gastro stop in the marina."
+              }
+            },
+            {
+              "name": "Grotta delle Meraviglie",
+              "tip_5lang": {
+                "de": "Kühler Rückzugsort am Nachmittag.",
+                "hu": "Hűvös menedék délután.",
+                "ro": "Refugiu răcoros după-amiaza.",
+                "en": "Cool retreat in the afternoon."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Caciocavallo Podolico",
+                "tip": "Edler Käse aus der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Caciocavallo Podolico",
+                "tip": "Nemes sajt a régióból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Caciocavallo Podolico",
+                "tip": "Brânză nobilă din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Caciocavallo Podolico",
+                "tip": "Noble cheese from the region."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Statua del Cristo",
+                "tip": "Stille und Weite am frühen Morgen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Statua del Cristo",
+                "tip": "Csend és tágasság kora reggel.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Statua del Cristo",
+                "tip": "Liniște și vastitate dimineața devreme.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Statua del Cristo",
+                "tip": "Silence and vastness in the early morning.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Caseificio locale",
+                "tip": "Kaufen Sie frischen Mozzarella für ein Picknick."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Caseificio locale",
+                "tip": "Vásároljon friss mozzarellát egy piknikhez."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Caseificio locale",
+                "tip": "Cumpărați mozzarella proaspătă pentru un picnic."
+              }
+            ],
+            "en": [
+              {
+                "name": "Caseificio locale",
+                "tip": "Buy fresh mozzarella for a picnic."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straße zum Cristo ist sehr kurvenreich.",
+              "Parken am Hafen ist kostenpflichtig.",
+              "Vermeiden Sie Fahrten in das ZTL der Altstadt.",
+              "Die SS18 bietet die besten Fotostopps."
+            ],
+            "hu": [
+              "A Krisztushoz vezető út nagyon kanyargós.",
+              "A kikötői parkolás fizetős.",
+              "Kerülje az autóval való behajtást az óvárosi ZTL-be.",
+              "Az SS18-as út kínálja a legjobb fotómegállókat."
+            ],
+            "ro": [
+              "Drumul spre Hristos este foarte sinuos.",
+              "Parcarea în port este cu plată.",
+              "Evitați conducerea în ZTL-ul centrului vechi.",
+              "Drumul SS18 oferă cele mai bune opriri pentru fotografii."
+            ],
+            "en": [
+              "The road to Christ is very winding.",
+              "Parking at the port is paid.",
+              "Avoid driving into the ZTL of the old town.",
+              "The SS18 road offers the best photo stops."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt zum Cristo Redentore führt durch dichte Wolken, was der Statue eine mystische Aura verleiht. Mittags schützt die Basilika vor dem Guss. Die Route zum Castello erfordert Vorsicht auf den gewundenen Straßen. Im Hafen parken Sie direkt am Kai, um trocken ins Café zu kommen. Den Abschluss bildet die Grotte, das sicherste Ziel bei jedem Unwetter.",
+            "hu": "Az út a Megváltó Krisztus szoborhoz sűrű felhőkön át vezet, ami misztikus aurát ad a helynek. Délben a bazilika óv meg az esőtől. A vár felé vezető kanyargós utakon vezessen óvatosan. A kikötőnél parkoljon közvetlenül a mólónál, hogy szárazon jusson be egy kávézóba. A napot a barlang zárja, amely bármilyen ítéletidőben biztonságos célpont.",
+            "ro": "Drumul spre Cristo Redentore trece prin nori deși, oferind statuii o aură mistică. La prânz, bazilica vă protejează de ploaie. Traseul spre castel necesită prudență pe drumurile șerpuite. În port, parcați chiar lângă chei pentru a ajunge uscat la cafenea. Ziua se încheie la peșteră, cea mai sigură destinație pe orice vreme rea.",
+            "en": "The drive to Christ the Redeemer leads through thick clouds, giving the statue a mystical aura. At noon, the basilica protects you from the rain. The route to the castle requires caution on the winding roads. In the port, park right by the quay to get to a cafe dry. The day ends at the cave, the safest destination in any bad weather."
+          },
+          "stops": [
+            {
+              "name": "Cristo Redentore",
+              "tip_5lang": {
+                "de": "Die Sicht kann oben stark eingeschränkt sein; fahren Sie extrem vorsichtig.",
+                "hu": "Fent a látótávolság korlátozott lehet; vezessen rendkívül óvatosan.",
+                "ro": "Vizibilitatea poate fi redusă sus; conduceți extrem de prudent.",
+                "en": "Visibility can be very limited at the top; drive extremely carefully."
+              }
+            },
+            {
+              "name": "Basilica di San Biagio",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah, ideal für einen schnellen Sprint ins Trockene.",
+                "hu": "A parkoló közel van, ideális egy gyors sprinthez a szárazra.",
+                "ro": "Parcarea este aproape, ideală pentru un sprint rapid la adăpost.",
+                "en": "Parking is close by, ideal for a quick sprint to the dry."
+              }
+            },
+            {
+              "name": "Castello di Castrocucco",
+              "tip_5lang": {
+                "de": "Die Ruinenpfade sind matschig; festes Schuhwerk ist unerlässlich.",
+                "hu": "A várromhoz vezető ösvények sarasak; a túracipő elengedhetetlen.",
+                "ro": "Potecile spre ruine sunt noroioase; încălțămintea solidă este esențială.",
+                "en": "The paths to the ruins are muddy; sturdy footwear is essential."
+              }
+            },
+            {
+              "name": "Porto di Maratea",
+              "tip_5lang": {
+                "de": "In der Nebensaison/bei Regen finden Sie leicht Parkplätze nah am Zentrum.",
+                "hu": "Holtszezonban/esőben könnyen talál parkolót a központ közelében.",
+                "ro": "În extrasezon/pe ploaie găsiți ușor parcare aproape de centru.",
+                "en": "In off-season/rain, you can easily find parking close to the center."
+              }
+            },
+            {
+              "name": "Grotta delle Meraviglie",
+              "tip_5lang": {
+                "de": "Ein perfekter 'Plan B' Stopp, wenn das Wetter draußen zu schlecht wird.",
+                "hu": "Tökéletes 'B terv' megálló, ha kint túl rosszra fordul az idő.",
+                "ro": "O oprire perfectă de 'Plan B' dacă vremea de afară devine prea rea.",
+                "en": "A perfect 'Plan B' stop if the weather outside turns too bad."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie bei Starkregen unbefestigte Seitenwege.",
+              "Die Küstenstraße SS18 kann bei Nässe tückisch sein.",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+              "Prüfen Sie die Scheibenwischer vor der Fahrt in die Berge."
+            ],
+            "hu": [
+              "Heves esőzéskor kerülje a burkolatlan mellékutakat.",
+              "Az SS18-as parti út vizesen csalóka lehet.",
+              "Használja a légkondicionálót a szélvédő párátlanítására.",
+              "Hegyi menet előtt ellenőrizze az ablaktörlőket."
+            ],
+            "ro": [
+              "Evitați drumurile secundare neasfaltate în caz de ploaie torențială.",
+              "Drumul de coastă SS18 poate fi înșelător pe carosabil ud.",
+              "Folosiți aerul condiționat pentru a dezaburi parbrizul.",
+              "Verificați ștergătoarele înainte de a pleca spre munte."
+            ],
+            "en": [
+              "Avoid unpaved side roads during heavy rain.",
+              "The SS18 coastal road can be treacherous when wet.",
+              "Use the air conditioning to defog the windshield.",
+              "Check your wipers before driving into the mountains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Auffahrt zum Cristo bietet im Winter glasklare Fernsichten bis nach Kalabrien. In der Basilika herrscht andächtige Stille. Die Ruinen von Castrocucco wirken im schrägen Winterlicht besonders erhaben. Mittags am Hafen ist es leicht, einen Parkplatz zu finden. Den Tag beenden Sie in der Grotte, die vor dem kühlen Abendwind schützt.",
+            "hu": "A Krisztus-szoborhoz vezető út télen kristálytiszta kilátást kínál egészen Calabriáig. A bazilikában áhítatos csend fogad. Castrocucco romjai a téli súrolófényben különösen fenségesek. Délben a kikötőnél könnyű parkolót találni. A napot a barlangban zárja, amely megóv a hűvös esti széltől.",
+            "ro": "Urcarea spre Cristo oferă iarna vederi clare până în Calabria. În bazilică domnește o liniște profundă. Ruinele din Castrocucco par maiestuoase în lumina iernii. La prânz în port este ușor de găsit parcare. Încheiați ziua în peșteră, care vă protejează de vântul rece de seară.",
+            "en": "The climb to Christ the Redeemer offers crystal clear views as far as Calabria in winter. Prayerful silence reigns in the basilica. The ruins of Castrocucco look particularly majestic in the slanting winter light. At noon in the port, it is easy to find parking. End the day in the cave, which protects against the cool evening wind."
+          },
+          "stops": [
+            {
+              "name": "Cristo Redentore",
+              "tip_5lang": {
+                "de": "Oben ist es deutlich kälter als im Ort; Jacke nicht vergessen.",
+                "hu": "Fent jóval hidegebb van, mint a városban; ne felejtse a kabátot.",
+                "ro": "Sus este mult mai frig decât în oraș; nu uitați haina.",
+                "en": "It's much colder at the top than in town; don't forget your jacket."
+              }
+            },
+            {
+              "name": "Basilica di San Biagio",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am Vormittag für das beste Licht.",
+                "hu": "Látogassa meg a templomot délelőtt a legjobb fényekért.",
+                "ro": "Vizitați biserica dimineața pentru cea mai bună lumină.",
+                "en": "Visit the church in the morning for the best light."
+              }
+            },
+            {
+              "name": "Castello di Castrocucco",
+              "tip_5lang": {
+                "de": "Die Sonne steht tief; ideal für Panoramafotos der Küste.",
+                "hu": "A nap alacsonyan jár; ideális panorámafotókhoz a tengerpartról.",
+                "ro": "Soarele este jos; ideal pentru fotografii panoramice ale coastei.",
+                "en": "The sun is low; ideal for panoramic photos of the coast."
+              }
+            },
+            {
+              "name": "Porto di Maratea",
+              "tip_5lang": {
+                "de": "Nutzen Sie den leeren Parkplatz für einen kurzen Spaziergang am Meer.",
+                "hu": "Használja ki az üres parkolót egy rövid tengerparti sétához.",
+                "ro": "Profitați de parcarea goală pentru o scurtă plimbare la mare.",
+                "en": "Take advantage of the empty parking for a short walk by the sea."
+              }
+            },
+            {
+              "name": "Grotta delle Meraviglie",
+              "tip_5lang": {
+                "de": "Der letzte Stopp des Tages vor dem frühen Dunkelwerden.",
+                "hu": "A nap utolsó állomása a korai sötétedés előtt.",
+                "ro": "Ultima oprire a zilei înainte de lăsarea întunericului.",
+                "en": "The last stop of the day before it gets dark early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bergstraßen können morgens Reifglätte aufweisen.",
+              "Prüfen Sie den Reifendruck bei sinkenden Temperaturen.",
+              "Die Sonne verschwindet früh hinter den Bergen.",
+              "Viele Bergrestaurants sind im Winter geschlossen."
+            ],
+            "hu": [
+              "A hegyi utakon reggelente zúzmara okozta csúszásveszély lehet.",
+              "Ellenőrizze a guminyomást a csökkenő hőmérséklet mellett.",
+              "A nap korán eltűnik a hegyek mögött.",
+              "Sok hegyi étterem zárva tart télen."
+            ],
+            "ro": [
+              "Drumurile montane pot fi alunecoase din cauza brumei dimineața.",
+              "Verificați presiunea în anvelope la temperaturi scăzute.",
+              "Soarele dispare devreme în spatele munților.",
+              "Multe restaurante montane sunt închise iarna."
+            ],
+            "en": [
+              "Mountain roads may be slippery with frost in the mornings.",
+              "Check tire pressure as temperatures drop.",
+              "The sun disappears early behind the mountains.",
+              "Many mountain restaurants are closed in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -666,6 +1356,306 @@
           "Check your brakes before the descent.",
           "There is little shade on the coastal road."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine aktive Tour entlang der Küste von Maratea. Beginnen Sie am Hafen und radeln Sie gemütlich zum Spiaggia Nera.\n\nNach einem erfrischenden Bad im Meer wartet die sportliche Herausforderung: der Anstieg zur historischen Altstadt.\n\nOben angekommen, belohnen Sie sich mit einem kühlen Getränk auf der Piazza Buraglia und erkunden die verwinkelten Gassen zu Fuß.\n\nDie Abfahrt zurück zur Küste bietet spektakuläre Ausblicke auf das Tyrrhenische Meer.",
+            "hu": "Élvezze az aktív túrát Maratea partjai mentén. Kezdjen a kikötőben, és tekerjen kényelmesen a Spiaggia Nerához.\n\nA tengeri frissítő után vár a sportos kihívás: az emelkedő a történelmi óvárosba.\n\nA csúcsra érve jutalmazza meg magát egy hűsítővel a Piazza Buraglián, és fedezze fel gyalogosan a kanyargós utcákat.\n\nA visszatérés a partra látványos kilátást nyújt a Tirrén-tengerre.",
+            "ro": "Bucurați-vă de un tur activ de-a lungul coastei din Maratea. Începeți în port și pedalați lejer spre Spiaggia Nera.\n\nDupă o baie răcoritoare în mare, vă așteaptă provocarea sportivă: urcarea spre centrul istoric.\n\nAjunși sus, recompensați-vă cu o băutură rece în Piazza Buraglia și explorați străduțele întortocheate la pas.\n\nCoborârea înapoi spre coastă oferă priveliști spectaculoase asupra Mării Tireniene.",
+            "en": "Enjoy an active tour along the coast of Maratea. Start at the port and cycle leisurely to Spiaggia Nera.\n\nAfter a refreshing dip in the sea, the sporting challenge awaits: the climb to the historic old town.\n\nOnce at the top, reward yourself with a cool drink in Piazza Buraglia and explore the winding alleys on foot.\n\nThe descent back to the coast offers spectacular views of the Tyrrhenian Sea."
+          },
+          "stops": [
+            {
+              "name": "Porto di Maratea",
+              "tip_5lang": {
+                "de": "Starten Sie im flacheren Hafengebiet.",
+                "hu": "Kezdjen a laposabb kikötői részen.",
+                "ro": "Începeți în zona mai plană a portului.",
+                "en": "Start in the flatter harbor area."
+              }
+            },
+            {
+              "name": "Spiaggia Nera",
+              "tip_5lang": {
+                "de": "Küstentour mit Meerblick.",
+                "hu": "Partmenti túra tengeri kilátással.",
+                "ro": "Tur de coastă cu vedere la mare.",
+                "en": "Coastal tour with sea views."
+              }
+            },
+            {
+              "name": "Centro Storico",
+              "tip_5lang": {
+                "de": "Anspruchsvoller Anstieg zur Altstadt.",
+                "hu": "Kihívást jelentő emelkedő az óvárosba.",
+                "ro": "Urcare solicitantă spre centrul vechi.",
+                "en": "Challenging climb to the old town."
+              }
+            },
+            {
+              "name": "Chiesa di Santa Maria Maggiore",
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Abfahrt.",
+                "hu": "Utolsó megálló a legurulás előtt.",
+                "ro": "Ultima oprire înainte de coborâre.",
+                "en": "Last stop before the descent."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gelato artigianale",
+                "tip": "Erfrischung nach dem Anstieg."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kézműves fagylalt",
+                "tip": "Felfrissülés az emelkedő után."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Înghețată artizanală",
+                "tip": "Răcorire după urcare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Artisanal gelato",
+                "tip": "Refreshment after the climb."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Sentiero del Mediterraneo",
+                "tip": "Ruhiger Küstenweg.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sentiero del Mediterraneo",
+                "tip": "Csendes partmenti ösvény.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sentiero del Mediterraneo",
+                "tip": "Potecă de coastă liniștită.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Sentiero del Mediterraneo",
+                "tip": "Quiet coastal path.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokales Olivenöl",
+                "tip": "Direkt beim Erzeuger kaufen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi olívaolaj",
+                "tip": "Vásároljon közvetlenül a termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline local",
+                "tip": "Cumpărați direct de la producător."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local olive oil",
+                "tip": "Buy directly from the producer."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Ein E-Bike wird für die Steigungen empfohlen.",
+              "Vermeiden Sie die Mittagshitze.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt.",
+              "Es gibt wenig Schatten an der Küstenstraße."
+            ],
+            "hu": [
+              "E-bike ajánlott az emelkedőkhöz.",
+              "Kerülje a déli hőséget.",
+              "Ellenőrizze a fékeket a lejtő előtt.",
+              "Kevés az árnyék a partmenti úton."
+            ],
+            "ro": [
+              "Se recomandă o bicicletă electrică pentru pante.",
+              "Evitați canicula de la prânz.",
+              "Verificați frânele înainte de coborâre.",
+              "Există puțină umbră pe drumul de coastă."
+            ],
+            "en": [
+              "An e-bike is recommended for the climbs.",
+              "Avoid the midday heat.",
+              "Check your brakes before the descent.",
+              "There is little shade on the coastal road."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert volle Konzentration auf der Küstenstraße. Am Hafen spüren Sie die salzige Gischt. Der Weg zum schwarzen Strand ist nass, aber die Atmosphäre ist einzigartig. Mittags im Centro Storico schieben Sie das Rad durch die engen, geschützten Gassen. In der Basilika finden Sie schließlich den verdienten trockenen Abschluss.",
+            "hu": "Az esős kerékpártúra teljes koncentrációt igényel a parti úton. A kikötőnél érezni a sós tengerpermetet. A fekete homokos part felé vezető út vizes, de a hangulat egyedülálló. Délben az óvárosban tolja a biciklit a szűk, védett utcákon. A bazilikánál végül megleli a megérdemelt száraz befejezést.",
+            "ro": "O tură cu bicicleta pe ploaie necesită concentrare maximă pe drumul de coastă. În port veți simți stropii sărați ai mării. Drumul spre plaja neagră este ud, dar atmosfera e unică. La prânz, în centrul istoric, mergeți pe lângă bicicletă pe străzile înguste. La bazilică găsiți în sfârșit finalul uscat meritat.",
+            "en": "A bike tour in the rain requires full concentration on the coastal road. At the port, you'll feel the salty sea spray. The ride to the black sand beach is wet, but the atmosphere is unique. At noon in the old town, push your bike through the narrow, sheltered alleys. At the basilica, you finally find a well-deserved dry finish."
+          },
+          "stops": [
+            {
+              "name": "Porto di Maratea",
+              "tip_5lang": {
+                "de": "Bremsen Sie auf den nassen Metallgittern im Hafenbereich vorsichtig.",
+                "hu": "Óvatosan fékezzen a kikötői terület vizes fémrácsain.",
+                "ro": "Frânați cu atenție pe grătarele metalice ude din zona portului.",
+                "en": "Brake carefully on the wet metal grates in the port area."
+              }
+            },
+            {
+              "name": "Spiaggia Nera",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad auf festem Grund ab, nicht im weichen, nassen Sand.",
+                "hu": "Szilárd talajon állítsa le a biciklit, ne a puha, vizes homokban.",
+                "ro": "Parcați bicicleta pe teren solid, nu în nisipul moale și ud.",
+                "en": "Park the bike on solid ground, not in the soft, wet sand."
+              }
+            },
+            {
+              "name": "Centro Storico",
+              "tip_5lang": {
+                "de": "Steigen Sie in den steilen Gassen ab; nasses Pflaster ist extrem glatt.",
+                "hu": "A meredek utcákban szálljon le; a vizes kövezet rendkívül csúszós.",
+                "ro": "Coborâți de pe bicicletă pe străzile abrupte; pavajul ud e alunecos.",
+                "en": "Dismount in steep alleys; wet pavement is extremely slippery."
+              }
+            },
+            {
+              "name": "Chiesa di Santa Maria Maggiore",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vordachbereich zum Sichern des Rades im Trockenen.",
+                "hu": "Használja az előtető alatti részt a bicikli szárazon történő lezárásához.",
+                "ro": "Folosiți zona de sub copertină pentru a asigura bicicleta la uscat.",
+                "en": "Use the area under the overhang to lock your bike in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie abrupte Bremsmanöver auf markierten Straßenflächen.",
+              "Vollvisierhelm oder Brille hilft gegen peitschenden Regen.",
+              "Prüfen Sie Ihre Beleuchtung; die Sichtbarkeit sinkt bei Regen stark.",
+              "Wasserdichte Packtaschen sind ein Muss für Ihre Wertsachen."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a felfestett útburkolati jeleken.",
+              "A plexis sisak vagy szemüveg segít a csapkodó eső ellen.",
+              "Ellenőrizze a világítást; esőben a láthatóság jelentősen romlik.",
+              "A vízálló táska kötelező az értéktárgyak védelméhez."
+            ],
+            "ro": [
+              "Evitați frânările bruște pe marcajele rutiere pictate.",
+              "O cască cu vizieră sau ochelarii ajută împotriva ploii biciuitoare.",
+              "Verificați luminile; vizibilitatea scade mult pe timp de ploaie.",
+              "Geantele impermeabile sunt obligatorii pentru obiectele de valoare."
+            ],
+            "en": [
+              "Avoid sudden braking on painted road markings.",
+              "A visor helmet or goggles helps against lashing rain.",
+              "Check your lights; visibility drops significantly in the rain.",
+              "Waterproof panniers are a must for your valuables."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Brise im Hafen weckt die Lebensgeister für die winterliche Tour. Der Weg zum schwarzen Strand ist einsam und meditativ. Mittags erklimmen Sie mit dem Rad das Centro Storico, wobei die Anstrengung Sie warm hält. In der Basilika genießen Sie die Ruhe der Nebensaison, bevor es vor der Dämmerung zügig zurück geht.",
+            "hu": "A kikötői hűvös szellő felébreszti az életerőt a téli túrához. Az út a fekete homokos partig magányos és meditatív. Délben az óvárosba tekerve az erőfeszítés melegen tartja. A bazilikánál élvezze a holtszezon nyugalmát, mielőtt a szürkület előtt gyorsan visszaindulna.",
+            "ro": "Briza rece din port vă trezește simțurile pentru tura de iarnă. Drumul spre plaja neagră este singuratic și meditativ. La prânz, urcați spre centrul istoric, efortul menținându-vă cald. La bazilică bucurați-vă de liniștea extrasezonului înainte de a pleca rapid înapoi spre seară.",
+            "en": "The cool breeze at the port awakens the spirits for a winter tour. The ride to the black sand beach is lonely and meditative. At noon, climbing to the old town keeps you warm with the effort. At the basilica, enjoy the peace of the off-season before heading back quickly before dusk."
+          },
+          "stops": [
+            {
+              "name": "Porto di Maratea",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe; der Fahrtwind ist im Winter eisig.",
+                "hu": "Viseljen szélálló kesztyűt; a menetszél télen jeges lehet.",
+                "ro": "Purtați mănuși rezistente la vânt; curentul de aer este înghețat.",
+                "en": "Wear windproof gloves; the headwind is icy in winter."
+              }
+            },
+            {
+              "name": "Spiaggia Nera",
+              "tip_5lang": {
+                "de": "Die Sonne verschwindet hier im Winter sehr früh hinter den Klippen.",
+                "hu": "A nap itt télen nagyon korán eltűnik a sziklák mögött.",
+                "ro": "Soarele dispare aici foarte devreme iarna în spatele stâncilor.",
+                "en": "The sun disappears behind the cliffs very early here in winter."
+              }
+            },
+            {
+              "name": "Centro Storico",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufstieg zum Aufwärmen, aber kühlen Sie oben nicht aus.",
+                "hu": "Használja ki az emelkedőt a bemelegítésre, de fent ne hűljön ki.",
+                "ro": "Folosiți urcarea pentru a vă încălzi, dar nu lăsați corpul să se răcească sus.",
+                "en": "Use the climb to warm up, but don't let your body cool down at the top."
+              }
+            },
+            {
+              "name": "Chiesa di Santa Maria Maggiore",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt so, dass Sie vor 16:30 Uhr am Ziel sind.",
+                "hu": "Úgy tervezze a visszautat, hogy 16:30 előtt célba érjen.",
+                "ro": "Planificați drumul de întoarcere pentru a ajunge înainte de 16:30.",
+                "en": "Plan your return trip to arrive before 16:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mehrere dünne Kleidungsschichten helfen gegen den wechselnden Wind.",
+              "Die Batterieleistung Ihrer Beleuchtung sinkt bei Kälte schneller.",
+              "Trinken Sie auch bei Kälte genug; man merkt den Durst seltener.",
+              "Schützen Sie Ihre Knie und Gelenke vor der kalten Zugluft."
+            ],
+            "hu": [
+              "Több vékony réteg ruházat segít a változó szél ellen.",
+              "A lámpák akkumulátora hidegben gyorsabban merül.",
+              "Hidegben is igyon eleget; ilyenkor ritkábban érezzük a szomjúságot.",
+              "Védje térdeit és ízületeit a hideg menetszéltől."
+            ],
+            "ro": [
+              "Mai multe straturi subțiri de haine ajută împotriva vântului schimbător.",
+              "Performanța bateriei luminilor scade mai repede la frig.",
+              "Beți destulă apă și la frig; setea se simte mai rar.",
+              "Protejați-vă genunchii și articulațiile de curentul de aer rece."
+            ],
+            "en": [
+              "Multiple thin layers of clothing help against the changing wind.",
+              "Battery life for your lights drops faster in the cold.",
+              "Drink enough even in the cold; thirst is felt less often.",
+              "Protect your knees and joints from the cold draft."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -862,6 +1852,306 @@
           "The shuttle to Christ runs every 20-30 minutes.",
           "Allow for buffer time."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Maratea ganz entspannt mit den lokalen Bussen. Beginnen Sie mit dem Shuttle zum majestätischen Cristo Redentore.\n\nNachdem Sie die Aussicht genossen haben, bringt Sie der Bus zurück in das historische Zentrum für einen gemütlichen Bummel.\n\nAm Mittag fahren Sie hinunter zum Hafen, wo Sie das maritime Treiben bei einem Mittagessen beobachten können.\n\nBeenden Sie Ihren Tag an der Spiaggia Nera, bevor Sie mit dem letzten Bus zurück zu Ihrer Unterkunft fahren.",
+            "hu": "Fedezze fel Marateát kényelmesen a helyi buszokkal. Kezdje az ingajárattal a fenséges Krisztus-szobornál.\n\nA kilátás után a busz visszaviszi a történelmi központba egy kellemes sétára.\n\nDélben utazzon le a kikötőbe, ahol ebéd közben figyelheti a tengerparti nyüzsgést.\n\nZárja a napot a Spiaggia Nerán, mielőtt az utolsó busszal visszatérne szállására.",
+            "ro": "Descoperiți Maratea relaxat cu autobuzele locale. Începeți cu transferul către maiestuosul Cristo Redentore.\n\nDupă ce ați admirat priveliștea, autobuzul vă aduce înapoi în centrul istoric pentru o plimbare lejeră.\n\nLa prânz, mergeți în port, unde puteți observa agitația maritimă în timpul mesei.\n\nÎncheiați ziua pe Spiaggia Nera înainte de a lua ultimul autobuz înapoi spre cazare.",
+            "en": "Discover Maratea in a relaxed way with local buses. Start with the shuttle to the majestic Cristo Redentore.\n\nAfter enjoying the view, the bus takes you back to the historic center for a leisurely stroll.\n\nAt midday, take the bus down to the port, where you can watch the maritime activity over lunch.\n\nEnd your day at Spiaggia Nera before taking the last bus back to your accommodation."
+          },
+          "stops": [
+            {
+              "name": "Cristo Redentore",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Shuttle-Bus zum Gipfel.",
+                "hu": "Használja az ingajáratot a csúcsra.",
+                "ro": "Folosiți autobuzul de transfer spre vârf.",
+                "en": "Use the shuttle bus to the summit."
+              }
+            },
+            {
+              "name": "Centro Storico",
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt.",
+                "hu": "Központi átszállási pont.",
+                "ro": "Punct central de transfer.",
+                "en": "Central transfer point."
+              }
+            },
+            {
+              "name": "Porto di Maratea",
+              "tip_5lang": {
+                "de": "Buslinie verbindet Altstadt und Hafen.",
+                "hu": "Buszjárat köti össze az óvárost és a kikötőt.",
+                "ro": "Linia de autobuz face legătura între centrul vechi și port.",
+                "en": "Bus line connects the old town and the port."
+              }
+            },
+            {
+              "name": "Spiaggia Nera",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle.",
+                "hu": "Rövid séta a buszmegállótól.",
+                "ro": "Scurtă plimbare de la stația de autobuz.",
+                "en": "Short walk from the bus stop."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pasticceria del Centro",
+                "tip": "Lokale Süßigkeiten probieren."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pasticceria del Centro",
+                "tip": "Kóstolja meg a helyi édességeket."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pasticceria del Centro",
+                "tip": "Gustați dulciurile locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pasticceria del Centro",
+                "tip": "Try local sweets."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Porto Bänke",
+                "tip": "Blick auf die Fischerboote.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Porto padok",
+                "tip": "Kilátás a halászhajókra.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bănci în port",
+                "tip": "Vedere la bărcile de pescuit.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Port benches",
+                "tip": "View of the fishing boats.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirladen am Cristo",
+                "tip": "Miniatur-Statuen und Postkarten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szuvenírbolt a Krisztusnál",
+                "tip": "Miniatűr szobrok és képeslapok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de suveniruri la Hristos",
+                "tip": "Miniaturi ale statuii și vederi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Souvenir shop at Christ",
+                "tip": "Miniature statues and postcards."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten im Tabacchi oder beim Fahrer.",
+              "Die Fahrpläne ändern sich saisonal.",
+              "Der Shuttle zum Cristo fährt alle 20-30 Minuten.",
+              "Planen Sie Pufferzeit ein."
+            ],
+            "hu": [
+              "Vásároljon jegyet a Tabacchi-ban vagy a sofőrnél.",
+              "A menetrendek szezonálisan változnak.",
+              "Az ingajárat a Krisztushoz 20-30 percenként jár.",
+              "Számoljon ráhagyással."
+            ],
+            "ro": [
+              "Cumpărați bilete de la Tabacchi sau de la șofer.",
+              "Orarele se schimbă sezonier.",
+              "Transferul către Hristos circulă la fiecare 20-30 minute.",
+              "Planificați timp suplimentar."
+            ],
+            "en": [
+              "Buy tickets at a Tabacchi or from the driver.",
+              "Schedules change seasonally.",
+              "The shuttle to Christ runs every 20-30 minutes.",
+              "Allow for buffer time."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Busfahrt zum Cristo ist bei Regen ein Erlebnis, wenn der Nebel die Hänge einhüllt. Mittags im Centro Storico sind die Bushaltestellen oft überdacht und bieten Schutz. Die Fahrt zum Hafen ist kurz und trocken. Am schwarzen Strand angekommen, ist der Fußweg von der Haltestelle kurz genug, um nicht völlig durchnässt zu werden, bevor man die wilde Küste genießt.",
+            "hu": "A buszozás a Krisztus-szoborhoz esőben különleges élmény, ahogy a köd beborítja a lejtőket. Délben az óvárosban a buszmegállók gyakran fedettek, védelmet nyújtanak. A kikötő felé vezető út rövid és száraz. A fekete homokos partnál a megállótól való séta elég rövid ahhoz, hogy ne ázzunk el teljesen a vad part látványa előtt.",
+            "ro": "Călătoria cu autobuzul spre Cristo este o experiență pe ploaie, cu ceața acoperind pantele. La prânz, în centrul istoric, stațiile sunt adesea acoperite. Drumul spre port este scurt și uscat. La plaja neagră, mersul pe jos de la stație este destul de scurt pentru a nu vă uda complet înainte de a vedea coasta sălbatică.",
+            "en": "The bus ride to Christ the Redeemer is an experience in the rain as mist envelopes the slopes. At noon in the old town, bus stops are often covered and provide shelter. The ride to the port is short and dry. At the black sand beach, the walk from the stop is short enough not to get completely soaked before enjoying the wild coast."
+          },
+          "stops": [
+            {
+              "name": "Cristo Redentore",
+              "tip_5lang": {
+                "de": "Warten Sie im kleinen Unterstand an der Haltestelle auf den Rückbus.",
+                "hu": "Várjon a megálló kis fedett várójában a visszatérő buszra.",
+                "ro": "Așteptați autobuzul de întoarcere în micul adăpost din stație.",
+                "en": "Wait for the return bus in the small shelter at the stop."
+              }
+            },
+            {
+              "name": "Centro Storico",
+              "tip_5lang": {
+                "de": "Die Hauptbushaltestelle liegt nah am Marktplatz mit vielen Cafés.",
+                "hu": "A fő buszmegálló a főtér közelében van, ahol sok kávézó található.",
+                "ro": "Stația principală este aproape de piață, unde sunt multe cafenele.",
+                "en": "The main bus stop is close to the square with many cafes."
+              }
+            },
+            {
+              "name": "Porto di Maratea",
+              "tip_5lang": {
+                "de": "Die Gischt kann bis zur Haltestelle wehen; halten Sie Abstand zum Kai.",
+                "hu": "A permet a megállóig is elérhet; tartson távolságot a mólótól.",
+                "ro": "Stropii mării pot ajunge până la stație; stați departe de chei.",
+                "en": "Sea spray can reach the stop; stay back from the quay."
+              }
+            },
+            {
+              "name": "Spiaggia Nera",
+              "tip_5lang": {
+                "de": "Nehmen Sie einen Bus früher, falls der Fahrplan wetterbedingt variiert.",
+                "hu": "Menjen egy busszal korábban, ha a menetrend az időjárás miatt változna.",
+                "ro": "Luați un autobuz mai devreme dacă programul variază din cauza vremii.",
+                "en": "Take an earlier bus if the schedule varies due to the weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld für das Ticket bereit, falls der Automat streikt.",
+              "Die Busse können bei Regen aufgrund des Verkehrs Verspätung haben.",
+              "Tragen Sie eine Regenjacke, da Schirme im vollen Bus unpraktisch sind.",
+              "Prüfen Sie die Echtzeit-App, falls verfügbar."
+            ],
+            "hu": [
+              "Legyen Önnél aprópénz a jegyhez, ha az automata nem működne.",
+              "Esőben a buszok a forgalom miatt késhetnek.",
+              "Viseljen esőkabátot, mert az esernyő a tömött buszon kényelmetlen.",
+              "Ellenőrizze a valós idejű menetrendet, ha elérhető."
+            ],
+            "ro": [
+              "Aveți mărunt pentru bilet în caz că automatul nu funcționează.",
+              "Autobuzele pot avea întârzieri pe ploaie din cauza traficului.",
+              "Purtați o pelerină, umbrela este incomodă în autobuzul plin.",
+              "Verificați orarul în timp real dacă este disponibil."
+            ],
+            "en": [
+              "Have small change ready for tickets if the machine fails.",
+              "Buses may be delayed in the rain due to traffic.",
+              "Wear a raincoat; umbrellas are impractical on a crowded bus.",
+              "Check the real-time schedule if available."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Fahrt hinauf zur Statue bietet durch die kahlen Bäume eine bessere Sicht auf die Küste. Mittags ist das Centro Storico ein Ort der Stille, den Sie bequem per Transit erreichen. Die Fahrt zum Hafen ist ruhig, da nur wenige Pendler unterwegs sind. Vor dem frühen Einbruch der Dunkelheit am Strand bringt Sie der letzte Nachmittagsbus sicher zurück.",
+            "hu": "A téli út a szoborhoz a kopár fák között jobb kilátást nyújt a partvidékre. Délben az óváros a csend szigete, melyet kényelmesen elérhet busszal. A kikötő felé tartó út nyugodt, kevés az utas. Mielőtt a tengerparton korán besötétedne, az utolsó délutáni busz biztonságban visszaviszi a városba.",
+            "ro": "Călătoria de iarnă spre statuie oferă o vedere mai bună asupra coastei printre copacii golași. La prânz, centrul istoric este un loc al liniștii, ușor accesibil. Drumul spre port este calm, cu puțini navetiști. Înainte de lăsarea întunericului pe plajă, ultimul autobuz vă aduce înapoi în siguranță.",
+            "en": "The winter ride up to the statue offers better views of the coast through the bare trees. At noon, the old town is a place of silence, easily reached by transit. The trip to the port is quiet with few commuters. Before darkness sets in early at the beach, the last afternoon bus brings you back safely."
+          },
+          "stops": [
+            {
+              "name": "Cristo Redentore",
+              "tip_5lang": {
+                "de": "Der Winterfahrplan ist reduziert; planen Sie genau für die Rückfahrt.",
+                "hu": "A téli menetrend ritkább; pontosan tervezze meg a visszautat.",
+                "ro": "Programul de iarnă este redus; planificați exact întoarcerea.",
+                "en": "The winter schedule is reduced; plan your return journey carefully."
+              }
+            },
+            {
+              "name": "Centro Storico",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die kühle Höhenluft beim Aufstieg zu vermeiden.",
+                "hu": "Használja a buszt, hogy elkerülje a hűvös hegyi levegőt emelkedés közben.",
+                "ro": "Folosiți autobuzul pentru a evita aerul rece de munte la urcare.",
+                "en": "Use the bus to avoid the cool mountain air during the ascent."
+              }
+            },
+            {
+              "name": "Porto di Maratea",
+              "tip_5lang": {
+                "de": "Die Haltestellen am Meer können im Winter sehr zugig sein.",
+                "hu": "A tengerparti megállók télen nagyon huzatosak lehetnek.",
+                "ro": "Stațiile de lângă mare pot fi foarte expuse vântului iarna.",
+                "en": "Stops by the sea can be very drafty in winter."
+              }
+            },
+            {
+              "name": "Spiaggia Nera",
+              "tip_5lang": {
+                "de": "Achten Sie auf den letzten Bus vor 17:00 Uhr; danach wird es dunkel.",
+                "hu": "Figyeljen az utolsó buszra 17:00 előtt; utána sötét lesz.",
+                "ro": "Atenție la ultimul autobuz înainte de 17:00; apoi se întunecă.",
+                "en": "Watch out for the last bus before 17:00; it gets dark after that."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan (Orario Invernale) vorab online.",
+              "Im Bus ist es meist gut beheizt, ideal zum Aufwärmen.",
+              "Die Frequenz der Busse ist in der Nebensaison deutlich geringer.",
+              "Einige Haltestellen könnten saisonal verlegt worden sein."
+            ],
+            "hu": [
+              "Előre ellenőrizze a téli menetrendet (Orario Invernale) online.",
+              "A buszokon általában jó a fűtés, ideális a felmelegedéshez.",
+              "Holtszezonban a buszok járatsűrűsége jóval alacsonyabb.",
+              "Néhány megállót szezonálisan áthelyezhetnek."
+            ],
+            "ro": [
+              "Verificați programul de iarnă (Orario Invernale) online în prealabil.",
+              "În autobuz este de obicei bine încălzit, ideal pentru încălzire.",
+              "Frecvența autobuzelor este mult mai mică în extrasezon.",
+              "Unele stații ar putea fi mutate sezonier."
+            ],
+            "en": [
+              "Check the winter schedule (Orario Invernale) online beforehand.",
+              "Buses are usually well-heated, ideal for warming up.",
+              "Bus frequency is significantly lower in the off-season.",
+              "Some stops might be seasonally relocated."
+            ]
+          }
+        }
       }
     }
   },

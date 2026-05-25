@@ -268,6 +268,398 @@
           "Book a table at restaurants during summer.",
           "Use the pebble beach for a quick cool-down."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt in den kopfsteingepflasterten Gassen der Altstadt, wo man den venezianischen Einfluss spürt. Mittags erkunden Sie den prächtigen Palazzo dei Capitani und die mächtige Scaliger-Burg. Der Nachmittag gehört dem Hafenflair und der barocken Ruhe von Santo Stefano. Zum Abschluss entspannen Sie am Kieselstrand von Paina, während die Sonne hinter den Bergen versinkt.",
+            "hu": "A nap a macskaköves óvárosban indul, ahol érezhető a velencei hatás. Délben felfedezzük a pompás Palazzo dei Capitanit és a hatalmas Scaligero-várat. A délután a kikötői hangulaté és Santo Stefano barokk nyugalmáé. Zárásként a Paina kavicsos strandján pihenhetünk, miközben a nap a hegyek mögé bukik.",
+            "ro": "Ziua începe pe străzile pavate ale centrului vechi, unde influența venețiană este evidentă. La prânz explorăm somptuosul Palazzo dei Capitani și impunătorul castel Scaligero. După-amiaza este dedicată atmosferei din port și liniștii baroce de la Santo Stefano. La final, relaxați-vă pe plaja cu pietriș Paina, în timp ce soarele apune după munți.",
+            "en": "The day starts in the cobblestone alleys of the old town, where Venetian influence is felt. At noon, explore the magnificent Palazzo dei Capitani and the mighty Scaliger Castle. The afternoon belongs to the harbor atmosphere and the Baroque peace of Santo Stefano. To finish, relax at Paina beach as the sun sinks behind the mountains."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altstadt von Malcesine",
+                "hu": "Malcesine óvárosa",
+                "ro": "Centrul vechi din Malcesine",
+                "en": "Malcesine Old Town"
+              },
+              "tip_5lang": {
+                "de": "Früh morgens sind die Gassen noch ruhig.",
+                "hu": "Kora reggel még csendesek a szűk sikátorok.",
+                "ro": "Străduțele sunt liniștite dimineața devreme.",
+                "en": "The alleys are peaceful early in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo dei Capitani",
+                "hu": "Palazzo dei Capitani",
+                "ro": "Palazzo dei Capitani",
+                "en": "Palazzo dei Capitani"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Garten direkt am Seeufer.",
+                "hu": "Nézze meg a közvetlen tóparti kertet.",
+                "ro": "Vizitați grădina aflată chiar pe malul lacului.",
+                "en": "Visit the garden located right on the lakefront."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Scaligero",
+                "hu": "Scaligero vár",
+                "ro": "Castelul Scaligero",
+                "en": "Scaligero Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Blick vom Turm auf den Gardasee ist unübertroffen.",
+                "hu": "A toronyból nyíló kilátás a Garda-tóra verhetetlen.",
+                "ro": "Priveliștea de în turn asupra lacului este de neegalat.",
+                "en": "The view from the tower over Lake Garda is unbeatable."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto Vecchio",
+                "hu": "Régi kikötő",
+                "ro": "Portul Vechi",
+                "en": "Old Port"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für ein Mittagessen mit Seeblick.",
+                "hu": "Tökéletes hely egy tóparti ebédhez.",
+                "ro": "Locul perfect pentru un prânz cu vedere la lac.",
+                "en": "Perfect spot for a lunch with a lake view."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santo Stefano",
+                "hu": "Santo Stefano templom",
+                "ro": "Biserica Santo Stefano",
+                "en": "Santo Stefano Church"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die barocken Fresken im Inneren.",
+                "hu": "Figyelje meg a belső barokk freskókat.",
+                "ro": "Admirați frescele baroce din interior.",
+                "en": "Note the Baroque frescoes inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Paina",
+                "hu": "Paina strand",
+                "ro": "Plaja Paina",
+                "en": "Paina Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang direkt am Wasser.",
+                "hu": "Élvezze a naplementét közvetlenül a víznél.",
+                "ro": "Bucurați-vă de apus chiar lângă apă.",
+                "en": "Enjoy the sunset right by the water."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Lavarello (Felchen)",
+                "tip": "Probieren Sie diesen lokalen Fisch im Ristorante Al Capitano."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lavarello (maréna)",
+                "tip": "Kóstolja meg ezt a helyi halat az Al Capitano étteremben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lavarello",
+                "tip": "Gustați acest pește local la Ristorante Al Capitano."
+              }
+            ],
+            "en": [
+              {
+                "name": "Lavarello (Whitefish)",
+                "tip": "Try this local fish at Ristorante Al Capitano."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Garten des Palazzo dei Capitani",
+                "tip": "Ein ruhiger Rückzugsort direkt am Seeufer.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Palazzo dei Capitani kertje",
+                "tip": "Csendes menedék közvetlenül a tóparton.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina Palazzo dei Capitani",
+                "tip": "Un refugiu liniștit chiar pe malul lacului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Garden of Palazzo dei Capitani",
+                "tip": "A quiet retreat right on the lakefront.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Olivenöl vom Gardasee",
+                "tip": "Kaufen Sie lokales Öl in den Geschäften der Via Capitanato."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Garda-tavi olívaolaj",
+                "tip": "Vásároljon helyi olajat a Via Capitanato boltjaiban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline de Garda",
+                "tip": "Cumpărați ulei local din magazinele de pe Via Capitanato."
+              }
+            ],
+            "en": [
+              {
+                "name": "Lake Garda Olive Oil",
+                "tip": "Buy local oil in the shops along Via Capitanato."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Besuchen Sie die Burg früh, um Menschenmassen zu vermeiden.",
+              "Reservieren Sie im Sommer einen Tisch im Restaurant.",
+              "Nutzen Sie den Kieselstrand für eine Abkühlung."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a macskakövek miatt.",
+              "Látogassa meg a várat korán, hogy elkerülje a tömeget.",
+              "Nyáron foglaljon asztalt az éttermekben.",
+              "Használja a kavicsos strandot egy kis hűsölésre."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru pavajul cu piatră.",
+              "Vizitați castelul devreme pentru a evita aglomerația.",
+              "Rezervați o masă la restaurant în timpul verii.",
+              "Folosiți plaja cu pietriș pentru o răcorire."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestones.",
+              "Visit the castle early to avoid crowds.",
+              "Book a table at restaurants during summer.",
+              "Use the pebble beach for a quick cool-down."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in der Altstadt beginnt unter schützenden Dachvorsprüngen. Mittags bietet der Palazzo dei Capitani ein prachtvolles, trockenes Refugium. Nachmittags erkunden wir die Innenräume der Scaligerburg, während der Regen auf den See peitscht. Den Abend lassen wir bei einem Glas Wein in einer gemütlichen Bar am Hafen ausklingen, während der Nebel über das Wasser zieht.",
+            "hu": "Az esős reggel az óváros ereszei alatt indul. Délben a Palazzo dei Capitani freskói nyújtanak száraz menedéket. Délután a Scaligero-vár belső múzeumi termeit fedezzük fel, miközben a tó vize tajtékzik. Az estét a kikötő egyik hangulatos bárjában zárjuk egy pohár borral, nézve a víz felett gomolygó párát és a hullámok játékát.",
+            "ro": "O dimineață ploioasă în orașul vechi începe la adăpostul cornișelor. La prânz, Palazzo dei Capitani oferă un refugiu artistic uscat. După-amiaza explorăm muzeul interior al castelului Scaligero, în timp ce ploaia bate peste lac. Încheiem seara într-un bar primitor din port cu un pahar de vin local, admirând ceața care se ridică deasupra apei.",
+            "en": "A rainy morning in the old town starts under protective eaves. At noon, Palazzo dei Capitani provides a grand, dry refuge. In the afternoon, we explore the interior museum of Scaligero Castle while the rain lashes the lake. We end the evening in a cozy harbor bar with a glass of wine, watching the mist roll over the water and the dramatic lake views."
+          },
+          "stops": [
+            {
+              "name": "Malcesine Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden und engen Gassen als natürlichen Regenschutz.",
+                "hu": "Használja az árkádokat és a szűk utcákat természetes esővédőként.",
+                "ro": "Folosiți arcadele și străzile înguste ca protecție naturală împotriva ploii.",
+                "en": "Use the arcades and narrow alleys as natural shelter from the rain."
+              }
+            },
+            {
+              "name": "Palazzo dei Capitani",
+              "tip_5lang": {
+                "de": "Die prunkvollen Säle sind ideal, um den stärksten Guss abzuwarten.",
+                "hu": "A pompás termek ideálisak a leghevesebb zápor kivárására.",
+                "ro": "Sălile splendide sunt ideale pentru a aștepta trecerea ploii torențiale.",
+                "en": "The grand halls are perfect for waiting out the heaviest downpour."
+              }
+            },
+            {
+              "name": "Scaligero Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Naturkundemuseum in der Burg, um trocken zu bleiben.",
+                "hu": "Látogassa meg a várban található természettudományi múzeumot a szárazon maradáshoz.",
+                "ro": "Vizitați muzeul de istorie naturală din castel pentru a rămâne uscat.",
+                "en": "Visit the natural history museum inside the castle to stay dry."
+              }
+            },
+            {
+              "name": "Old Port",
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische See-Panorama von einem beheizten Café aus.",
+                "hu": "Figyelje a viharos tó panorámáját egy fűtött kávézó ablakából.",
+                "ro": "Admirați panorama lacului agitat de la fereastra unei cafenele încălzite.",
+                "en": "Watch the dramatic lake panorama from the window of a heated cafe."
+              }
+            },
+            {
+              "name": "Santo Stefano Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, spiritueller Ort für eine kurze Regenpause.",
+                "hu": "Csendes, spirituális hely egy rövid esőszünethez.",
+                "ro": "Un loc liniștit și spiritual pentru o scurtă pauză de ploaie.",
+                "en": "A quiet, spiritual place for a short break from the rain."
+              }
+            },
+            {
+              "name": "Paina Beach",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steine am Ufer können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat, a parti kövek nedvesen nagyon csúszósak lehetnek.",
+                "ro": "Atenție, pietrele de pe mal pot fi foarte alunecoase când sunt ude.",
+                "en": "Caution, the stones on the shore can be very slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht auf dem glatten Kopfsteinpflaster in der Altstadt.",
+              "Tragen Sie wasserfeste Schuhe, da sich in den Gassen Pfützen bilden.",
+              "Viele Cafés am Hafen haben überdachte und beheizte Außenbereiche.",
+              "Die Fähren verkehren bei Regen meist normal, bieten aber Innenplätze.",
+              "Nutzen Sie die Museumsbesuche für die intensivsten Regenstunden."
+            ],
+            "hu": [
+              "Vigyázzon a csúszós macskaköveken az óvárosban.",
+              "Viseljen vízálló cipőt, mert a szűk utcákban megállhat a víz.",
+              "Sok kikötői kávézó rendelkezik fedett és fűtött terasszal.",
+              "A kompok esőben is járnak, és zárt utasteret kínálnak.",
+              "A múzeumlátogatásokat időzítse a leghevesebb esőzés idejére."
+            ],
+            "ro": [
+              "Atenție la pavajul alunecos din centrul vechi.",
+              "Purtați încălțăminte impermeabilă, apa se poate acumula pe străzile înguste.",
+              "Multe cafenele din port au terase acoperite și încălzite.",
+              "Feriboturile circulă normal pe ploaie și oferă locuri în interior.",
+              "Planificați vizitele la muzee pentru orele cu cele mai abundente precipitații."
+            ],
+            "en": [
+              "Watch your step on the slippery cobblestones in the old town.",
+              "Wear waterproof shoes as water can pool in the narrow alleys.",
+              "Many harbor cafes have covered and heated outdoor seating.",
+              "Ferries usually run during rain and offer indoor cabins.",
+              "Time your museum visits for the hours with the heaviest rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit dem Blick auf den schneebedeckten Monte Baldo. Mittags wärmen wir uns in den historischen Sälen des Palazzo dei Capitani auf. Nachmittags ist die Scaligerburg fast menschenleer und bietet eine stille, majestätische Atmosphäre. Wir spazieren am einsamen Seeufer entlang, bevor wir den frühen Sonnenuntergang bei einer heißen Schokolade im Hafen genießen.",
+            "hu": "A tiszta téli reggel a hófödte Monte Baldo látványával indul. Délben a Palazzo dei Capitani történelmi falaiban melegszünk fel. Délután a Scaligero-vár szinte néptelen, csendes, méltóságteljes hangulatot áraszt. Sétálunk a magányos tóparton, majd az utolsó napsugarakat egy forró csokoládé mellett élvezzük a kikötőben a korai naplemente előtt.",
+            "ro": "O dimineață senină de iarnă începe cu vederea spre muntele Baldo înzăpezit. La prânz ne încălzim între zidurile istorice de la Palazzo dei Capitani. După-amiaza, castelul Scaligero este aproape pustiu, oferind o atmosferă liniștită. Ne plimbăm pe malul solitar al lacului, apoi savurăm o ciocolată caldă în port înainte de apusul timpuriu.",
+            "en": "A crisp winter morning starts with views of the snow-capped Monte Baldo. At noon, we warm up within the historic walls of Palazzo dei Capitani. In the afternoon, Scaligero Castle is nearly empty, offering a quiet, majestic atmosphere. We walk along the solitary lakeshore, then enjoy a hot chocolate in the harbor before the early winter sunset."
+          },
+          "stops": [
+            {
+              "name": "Malcesine Old Town",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der fast menschenleeren Gassen.",
+                "hu": "Élvezze a szinte néptelen szűk utcák nyugalmát.",
+                "ro": "Bucurați-vă de liniștea străzilor aproape pustii.",
+                "en": "Enjoy the tranquility of the nearly empty narrow streets."
+              }
+            },
+            {
+              "name": "Palazzo dei Capitani",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich im Inneren vor der Kälte zu schützen.",
+                "hu": "Ideális hely a belső terekben való felmelegedésre.",
+                "ro": "Un loc ideal pentru a vă încălzi în interior.",
+                "en": "An ideal place to warm up in the interior rooms."
+              }
+            },
+            {
+              "name": "Scaligero Castle",
+              "tip_5lang": {
+                "de": "Der Blick auf den schneebedeckten See vom Turm ist einzigartig.",
+                "hu": "A toronyból nyíló kilátás a hófödte tóra egyedülálló élmény.",
+                "ro": "Vederea spre lacul înzăpezit din turn este unică.",
+                "en": "The view of the snowy lake from the tower is unique."
+              }
+            },
+            {
+              "name": "Old Port",
+              "tip_5lang": {
+                "de": "Suchen Sie sich ein windgeschütztes Plätzchen für die Wintersonne.",
+                "hu": "Keressen egy szélvédett zugot a téli napsütés élvezetéhez.",
+                "ro": "Căutați un loc ferit de vânt pentru a vă bucura de soarele de iarnă.",
+                "en": "Find a wind-sheltered spot to enjoy the winter sun."
+              }
+            },
+            {
+              "name": "Santo Stefano Church",
+              "tip_5lang": {
+                "de": "In der Kirche herrscht eine besonders andächtige Winterstille.",
+                "hu": "A templomban különleges, áhítatos téli csend honol.",
+                "ro": "În biserică domnește o liniște de iarnă deosebită.",
+                "en": "The church holds a particularly solemn winter stillness."
+              }
+            },
+            {
+              "name": "Paina Beach",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, der Wind am Wasser ist im Winter eisig.",
+                "hu": "Öltözzön rétegesen, a vízparti szél télen metsző lehet.",
+                "ro": "Îmbrăcați-vă gros, vântul de pe malul apei este tăios iarna.",
+                "en": "Dress in layers, the wind by the water can be icy in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht bereits gegen 16:45 Uhr hinter den Bergen unter.",
+              "Tragen Sie winddichte Kleidung für Spaziergänge am Ufer.",
+              "Einige Restaurants haben Winterpause; prüfen Sie die Öffnungszeiten.",
+              "Genießen Sie die klare Sicht, die oft bis Sirmione reicht.",
+              "Heiße Schokolade in den Bars am Hafen ist ein lokales Muss."
+            ],
+            "hu": [
+              "A nap már 16:45 körül eltűnik a hegyek mögött.",
+              "Viseljen szélálló ruházatot a tóparti sétákhoz.",
+              "Néhány étterem téli szünetet tart; ellenőrizze a nyitvatartást.",
+              "Élvezze a tiszta látási viszonyokat, gyakran Sirmionéig ellátni.",
+              "A kikötői bárokban kínált forró csokoládé kötelező téli program."
+            ],
+            "ro": [
+              "Soarele apune în spatele munților deja în jurul orei 16:45.",
+              "Purtați haine rezistente la vânt pentru plimbările pe mal.",
+              "Unele restaurante sunt închise iarna; verificați programul.",
+              "Bucurați-vă de vizibilitatea clară, adesea se vede până la Sirmione.",
+              "Ciocolata caldă în barurile din port este un ritual local obligatoriu."
+            ],
+            "en": [
+              "The sun sets behind the mountains as early as 4:45 PM.",
+              "Wear windproof clothing for walks along the lakeshore.",
+              "Some restaurants take a winter break; check opening hours beforehand.",
+              "Enjoy the clear visibility, which often extends as far as Sirmione.",
+              "Hot chocolate in the harbor bars is a must-do local winter activity."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -507,6 +899,366 @@
           "Watch out for hikers on the trails.",
           "Book your cable car ticket online."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie mit der Seilbahn zum Monte Baldo, wo Sie alpine Trails und den Botanischen Garten erkunden. Mittags geht es zurück ins Tal zum Naturkundemuseum in der Burg. Eine kurze Fahrt zur Madonna-Statue bietet tolle Panoramen, bevor der Tag entspannt am Paina-Strand ausklingt.",
+            "hu": "Induljon a felvonóval a Monte Baldóra, ahol alpesi ösvényeket és a botanikus kertet fedezheti fel. Délben vissza a völgybe a vár természettudományi múzeumához. Egy rövid tekerés a Madonna-szoborhoz remek panorámát kínál, mielőtt a nap a Paina strandon véget érne.",
+            "ro": "Începeți cu telecabina spre Monte Baldo, unde explorați trasee alpine și grădina botanică. La prânz reveniți în vale la muzeul de istorie naturală din castel. O scurtă plimbare la statuia Madonei oferă panorame grozave, înainte ca ziua să se încheie relaxat pe plaja Paina.",
+            "en": "Start with the cable car to Monte Baldo, where you explore alpine trails and the botanical garden. At noon, return to the valley for the natural history museum in the castle. A short ride to the Madonna statue offers great panoramas before the day ends relaxedly at Paina beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Seilbahn Malcesine-Monte Baldo",
+                "hu": "Malcesine-Monte Baldo felvonó",
+                "ro": "Telecabina Malcesine-Monte Baldo",
+                "en": "Malcesine-Monte Baldo Cable Car"
+              },
+              "tip_5lang": {
+                "de": "Man kann das Fahrrad mit der Seilbahn nach oben nehmen.",
+                "hu": "A kerékpárt felviheti a felvonóval a hegyre.",
+                "ro": "Puteți lua bicicleta sus cu telecabina.",
+                "en": "You can take your bike up with the cable car."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte Baldo Botanischer Garten",
+                "hu": "Monte Baldo Botanikus Kert",
+                "ro": "Grădina Botanică Monte Baldo",
+                "en": "Monte Baldo Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie seltene alpine Pflanzenarten.",
+                "hu": "Fedezze fel a ritka alpesi növényfajokat.",
+                "ro": "Descoperiți specii de plante alpine rare.",
+                "en": "Discover rare alpine plant species."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Naturgeschichte",
+                "hu": "Természettudományi Múzeum",
+                "ro": "Muzeul de Istorie Naturală",
+                "en": "Natural History Museum"
+              },
+              "tip_5lang": {
+                "de": "Interessante Ausstellungen zur Flora und Fauna.",
+                "hu": "Érdekes kiállítások a flóráról és faunáról.",
+                "ro": "Expoziții interesante despre floră și faună.",
+                "en": "Interesting exhibits on local flora and fauna."
+              }
+            },
+            {
+              "name": {
+                "de": "Statua della Madonna",
+                "hu": "Madonna szobor",
+                "ro": "Statuia Madonei",
+                "en": "Statue of the Madonna"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Aussichtspunkt für Radfahrer.",
+                "hu": "Szép kilátópont kerékpárosoknak.",
+                "ro": "Un punct de belvedere frumos pentru bicicliști.",
+                "en": "A nice viewpoint for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Paina",
+                "hu": "Paina strand",
+                "ro": "Plaja Paina",
+                "en": "Paina Beach"
+              },
+              "tip_5lang": {
+                "de": "Entspannung nach der Radtour am Berg.",
+                "hu": "Pihenés a hegyi kerékpártúra után.",
+                "ro": "Relaxare după tura cu bicicleta pe munte.",
+                "en": "Relaxation after the mountain bike ride."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Alpkäse (Formaggio del Monte Baldo)",
+                "tip": "Probieren Sie ihn in einer der Berghütten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Alpesi sajt (Monte Baldo sajt)",
+                "tip": "Kóstolja meg az egyik hegyi menedékházban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brânză de munte",
+                "tip": "Gustați-o la una dintre cabanele montane."
+              }
+            ],
+            "en": [
+              {
+                "name": "Alpine Cheese",
+                "tip": "Try it at one of the mountain huts."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Monte Baldo Gipfel",
+                "tip": "Finden Sie einen ruhigen Platz abseits der Seilbahnstation.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Monte Baldo csúcs",
+                "tip": "Keressen egy csendes helyet a felvonóállomástól távol.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vârful Monte Baldo",
+                "tip": "Găsiți un loc liniștit departe de stația de telecabină.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Monte Baldo Summit",
+                "tip": "Find a quiet spot away from the cable car station.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Berghonig",
+                "tip": "Direkt bei den lokalen Erzeugern am Monte Baldo erhältlich."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Hegyi méz",
+                "tip": "Közvetlenül a helyi termelőktől a Monte Baldón."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere de munte",
+                "tip": "Disponibilă direct de la producătorii locali de pe Monte Baldo."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mountain Honey",
+                "tip": "Available directly from local producers on Monte Baldo."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie die Bremsen vor der Abfahrt vom Monte Baldo.",
+              "Nehmen Sie eine warme Jacke für die Höhe mit.",
+              "Achten Sie auf Wanderer auf den Wegen.",
+              "Buchen Sie das Seilbahnticket online."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket a Monte Baldóról való leereszkedés előtt.",
+              "Vigyen meleg kabátot a magasság miatt.",
+              "Figyeljen a túrázókra az ösvényeken.",
+              "Foglalja le online a felvonójegyet."
+            ],
+            "ro": [
+              "Verificați frânele înainte de coborârea de pe Monte Baldo.",
+              "Luați o jachetă groasă pentru altitudine.",
+              "Atenție la drumeții de pe poteci.",
+              "Rezervați biletul de telecabină online."
+            ],
+            "en": [
+              "Check your brakes before descending from Monte Baldo.",
+              "Take a warm jacket for the altitude.",
+              "Watch out for hikers on the trails.",
+              "Book your cable car ticket online."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Radtour am Seeufer eine erfrischende Perspektive. Vormittags nutzen wir die Seilbahn, um über den Wolken eventuell trockene Abschnitte zu finden. Mittags wärmen wir uns im Naturkundemuseum auf, während draußen der Regen fällt. Die Fahrt nachmittags erfordert Vorsicht auf nassen Wegen, bietet aber eine unvergleichliche Ruhe.",
+            "hu": "Az eső ellenére a tóparti biciklizés frissítő élményt nyújt. Délelőtt a felvonót használjuk, remélve, hogy a felhők felett szárazabb szakaszokat találunk. Délben a természettudományi múzeumban melegszünk fel, amíg odakint esik. A délutáni tekerés óvatosságot igényel a vizes utakon, de páratlan nyugalmat áraszt.",
+            "ro": "În ciuda ploii, tura cu bicicleta pe malul lacului oferă o perspectivă revigorantă. Dimineața folosim telecabina pentru a găsi porțiuni uscate deasupra norilor. La prânz ne încălzim în muzeul de istorie naturală în timp ce afară plouă. Călătoria de după-amiază necesită prudență pe drumurile ude, dar oferă o liniște rară.",
+            "en": "Despite the rain, the lakeside bike ride offers a refreshing perspective. In the morning, we use the cable car, hoping to find dry stretches above the clouds. At noon, we warm up in the natural history museum while it rains outside. The afternoon ride requires caution on wet paths but provides an incomparable sense of peace."
+          },
+          "stops": [
+            {
+              "name": "Malcesine-Monte Baldo Cable Car",
+              "tip_5lang": {
+                "de": "Prüfen Sie oben die Sicht; oft radelt man über den Regenwolken.",
+                "hu": "Ellenőrizze fent a látási viszonyokat; gyakran az esőfelhők felett tekerhet.",
+                "ro": "Verificați vizibilitatea sus; adesea se pedalează deasupra norilor de ploaie.",
+                "en": "Check the visibility at the top; you often cycle above the rain clouds."
+              }
+            },
+            {
+              "name": "Monte Baldo Botanical Garden",
+              "tip_5lang": {
+                "de": "Die alpinen Pflanzen wirken im Regen besonders intensiv grün.",
+                "hu": "Az alpesi növények esőben különösen élénkzöldnek tűnnek.",
+                "ro": "Plantele alpine par de un verde deosebit de intens pe ploaie.",
+                "en": "The alpine plants look particularly intense green in the rain."
+              }
+            },
+            {
+              "name": "Natural History Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um das Fahrrad sicher abzustellen und trocken zu bleiben.",
+                "hu": "Tökéletes hely a kerékpár biztonságos leállításához és a szárazon maradáshoz.",
+                "ro": "Locul perfect pentru a parca bicicleta în siguranță și a rămâne uscat.",
+                "en": "The perfect place to park your bike safely and stay dry."
+              }
+            },
+            {
+              "name": "Statue of the Madonna",
+              "tip_5lang": {
+                "de": "Vorsicht beim Abstieg; die asphaltierten Wege können rutschig sein.",
+                "hu": "Vigyázat a leereszkedésnél; az aszfaltozott utak csúszósak lehetnek.",
+                "ro": "Atenție la coborâre; drumurile asfaltate pot fi alunecoase.",
+                "en": "Be careful on the descent; paved paths can be slippery when wet."
+              }
+            },
+            {
+              "name": "Paina Beach",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht; der Wind peitscht hier bei Regen stark.",
+                "hu": "Egy rövid megálló elég; esőben itt erősen korbácsol a szél.",
+                "ro": "O oprire scurtă e suficientă; vântul bate puternic aici pe ploaie.",
+                "en": "A short stop is enough; the wind lashes strongly here during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsbeläge; nasse Felgen verlängern den Bremsweg.",
+              "Vermeiden Sie schnelle Kurven auf den glatten Uferwegen.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Schutzbleche sind bei diesem Wetter ein großer Vorteil.",
+              "Die Seilbahnkabinen sind wetterfest und bieten Platz für Räder."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket; a vizes felnik növelik a féktávot.",
+              "Kerülje a hirtelen kanyarodást a csúszós tóparti utakon.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóság érdekében.",
+              "A sárvédő nagy előny ilyen időben.",
+              "A felvonó kabinjai időjárásállóak és szállítanak kerékpárt."
+            ],
+            "ro": [
+              "Verificați saboții de frână; jantele ude măresc distanța de frânare.",
+              "Evitați virajele strânse pe drumurile de coastă alunecoase.",
+              "Purtați o jachetă de ploaie stridentă pentru o mai bună vizibilitate.",
+              "Apărătorile de noroi sunt un mare avantaj pe această vreme.",
+              "Cabinele telecabinei sunt protejate și permit transportul bicicletelor."
+            ],
+            "en": [
+              "Check your brake pads; wet rims increase braking distance.",
+              "Avoid sharp turns on the slippery lakeshore paths.",
+              "Wear a bright raincoat for better visibility to others.",
+              "Mudguards are a major advantage in this weather.",
+              "Cable car cabins are weatherproof and accommodate bikes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour führt uns durch die kristallklare Luft Malcesines. Vormittags geht es mit der Seilbahn hinauf in den Schnee des Monte Baldo für atemberaubende Panoramen. Mittags bietet das Naturkundemuseum eine willkommene Aufwärmpause. Nachmittags radeln wir durch die stillen Vororte zur Madonna-Statue und genießen die klare Sicht auf die schneebedeckten Gipfel der gegenüberliegenden Uferseite.",
+            "hu": "A téli túra Malcesine kristálytiszta levegőjében vezet. Délelőtt a felvonóval emelkedünk a Monte Baldo hófödte csúcsaihoz a lélegzetelállító panorámáért. Délben a természettudományi múzeum kínál kellemes pihenőt a felmelegedéshez. Délután a csendes külvárosokon át tekerünk a Madonna-szoborhoz, csodálva a szemközti part havas bérceit.",
+            "ro": "Tura de iarnă ne poartă prin aerul de cristal al orașului Malcesine. Dimineața urcăm cu telecabina în zăpada de pe muntele Baldo pentru panorame uluitoare. La prânz, muzeul oferă o pauză binemeritată de încălzire. După-amiaza pedalăm prin suburbiile liniștite spre statuia Madonnei, admirând vârfurile înzăpezite de pe malul opus.",
+            "en": "The winter bike tour takes us through the crystal-clear air of Malcesine. In the morning, we ride the cable car up to the snow of Monte Baldo for breathtaking panoramas. At noon, the natural history museum provides a welcome warm-up break. In the afternoon, we cycle through quiet suburbs to the Madonna statue, enjoying clear views of the snowy peaks on the opposite shore."
+          },
+          "stops": [
+            {
+              "name": "Malcesine-Monte Baldo Cable Car",
+              "tip_5lang": {
+                "de": "Oben liegt oft Schnee; feste Schuhe für den Radstopp einplanen.",
+                "hu": "Fent gyakran hó van; tervezzen bakancsot a biciklis pihenőhöz.",
+                "ro": "Sus e adesea zăpadă; folosiți încălțăminte adecvată pentru pauză.",
+                "en": "There is often snow at the top; plan for sturdy shoes during stops."
+              }
+            },
+            {
+              "name": "Monte Baldo Botanical Garden",
+              "tip_5lang": {
+                "de": "Im Winter kahl, aber die frostige Stille hier oben ist magisch.",
+                "hu": "Télen kopár, de a fagyos csend itt fent varázslatos.",
+                "ro": "Iarna este golașă, dar liniștea înghețată de aici e magică.",
+                "en": "Bare in winter, but the frosty silence up here is magical."
+              }
+            },
+            {
+              "name": "Natural History Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um die Finger wieder aufzuwärmen.",
+                "hu": "Használja a múzeumlátogatást az elgémberedett ujjak felmelegítésére.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi degetele amorțite.",
+                "en": "Use the museum visit to warm up your cold fingers."
+              }
+            },
+            {
+              "name": "Statue of the Madonna",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft und den weiten Blick über den See.",
+                "hu": "Élvezze a tiszta téli levegőt és a tóra nyíló tágas kilátást.",
+                "ro": "Bucurați-vă de aerul curat de iarnă și de vederea largă spre lac.",
+                "en": "Enjoy the crisp winter air and the expansive views over the lake."
+              }
+            },
+            {
+              "name": "Paina Beach",
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne sorgt hier für perfektes Fotolicht.",
+                "hu": "Az alacsonyan járó téli nap itt tökéletes fotófényeket biztosít.",
+                "ro": "Soarele de iarnă la joasă înălțime oferă o lumină perfectă pentru poze.",
+                "en": "The low winter sun provides perfect photography lighting here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Handschuhe; der Fahrtwind ist im Winter eisig.",
+              "Achten Sie auf Raureif oder vereiste Stellen in schattigen Kurven.",
+              "Die Seilbahn kann bei starkem Wind den Betrieb einstellen.",
+              "Batterien von E-Bikes entladen sich bei Kälte deutlich schneller.",
+              "Machen Sie öfter Pausen in warmen Cafés, um nicht auszukühlen."
+            ],
+            "hu": [
+              "Viseljen meleg kesztyűt; a menetszél télen jeges lehet.",
+              "Ügyeljen a zúzmarás vagy jeges foltokra az árnyékos kanyarokban.",
+              "Erős szél esetén a felvonó üzemeltetését felfüggeszthetik.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül hidegben.",
+              "Tartson gyakran szünetet fűtött kávézókban, hogy ne hűljön át."
+            ],
+            "ro": [
+              "Purtați mănuși groase; vântul la deplasare este înghețat iarna.",
+              "Atenție la chiciură sau porțiuni înghețate în curbele umbrite.",
+              "Telecabina își poate suspenda activitatea în caz de vânt puternic.",
+              "Bateriile bicicletelor electrice se descarcă mult mai repede la frig.",
+              "Faceți pauze dese în cafenele calde pentru a nu îngheța."
+            ],
+            "en": [
+              "Wear warm gloves; the wind chill while riding is icy in winter.",
+              "Watch out for frost or icy patches in shaded corners.",
+              "The cable car may stop service during very strong winds.",
+              "E-bike batteries discharge significantly faster in cold weather.",
+              "Take frequent breaks in warm cafes to avoid getting chilled."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -746,6 +1498,366 @@
           "Parking fees can be paid via app.",
           "Visit Cassone for authentic flair."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie sowohl die Highlights von Malcesine als auch die nähere Umgebung. Nach der Burg und dem Monte Baldo fahren Sie zum malerischen Cassone, um den kürzesten Fluss der Welt zu bestaunen. Den Nachmittag verbringen Sie in der traumhaften Bucht Val di Sogno, bevor Sie für den Abend in die Altstadt zurückkehren.",
+            "hu": "Autóval felfedezzük Malcesine legfontosabb látnivalóit és a környéket is. A vár és a Monte Baldo után a festői Cassonéba hajtunk, hogy megcsodáljuk a világ legrövidebb folyóját. A délutánt a csodás Val di Sogno öbölben töltjük, majd estére visszatérünk az óvárosba.",
+            "ro": "Cu mașina explorați atât atracțiile din Malcesine, cât și împrejurimile. După castel și Monte Baldo, conduceți spre pitorescul Cassone pentru a vedea cel mai scurt râu din lume. După-amiaza o petreceți în golful superb Val di Sogno, înainte de a reveni în centrul vechi pentru seară.",
+            "en": "By car, explore both the highlights of Malcesine and the nearby surroundings. After the castle and Monte Baldo, drive to picturesque Cassone to admire the world's shortest river. Spend the afternoon in the stunning Val di Sogno bay before returning to the old town for the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello Scaligero",
+                "hu": "Scaligero vár",
+                "ro": "Castelul Scaligero",
+                "en": "Scaligero Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem großen Parkplatz am Nordeingang.",
+                "hu": "Parkoljon az északi bejáratnál lévő nagy parkolóban.",
+                "ro": "Parcați în parcarea mare de la intrarea de nord.",
+                "en": "Park in the large parking lot at the north entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Seilbahn Malcesine-Monte Baldo",
+                "hu": "Malcesine-Monte Baldo felvonó",
+                "ro": "Telecabina Malcesine-Monte Baldo",
+                "en": "Malcesine-Monte Baldo Cable Car"
+              },
+              "tip_5lang": {
+                "de": "Die Seilbahnkabine dreht sich während der Fahrt.",
+                "hu": "A felvonó kabinja menet közben körbefordul.",
+                "ro": "Cabina telecabinei se rotește în timpul călătoriei.",
+                "en": "The cable car cabin rotates during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Cassone di Malcesine (Aril Fluss)",
+                "hu": "Cassone di Malcesine (Aril folyó)",
+                "ro": "Cassone di Malcesine (Râul Aril)",
+                "en": "Cassone di Malcesine (Aril River)"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie den kürzesten Fluss der Welt (175m).",
+                "hu": "Nézze meg a világ legrövidebb folyóját (175m).",
+                "ro": "Vedeți cel mai scurt râu din lume (175m).",
+                "en": "See the world's shortest river (175m)."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Val di Sogno",
+                "hu": "Val di Sogno strand",
+                "ro": "Plaja Val di Sogno",
+                "en": "Val di Sogno Beach"
+              },
+              "tip_5lang": {
+                "de": "Beliebte Bucht für Segler und Windsurfer.",
+                "hu": "Népszerű öböl vitorlázóknak és szörfösöknek.",
+                "ro": "Golf popular pentru veliști și windsurferi.",
+                "en": "Popular bay for sailors and windsurfers."
+              }
+            },
+            {
+              "name": {
+                "de": "Altstadt von Malcesine",
+                "hu": "Malcesine óvárosa",
+                "ro": "Centrul vechi din Malcesine",
+                "en": "Malcesine Old Town"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen Aperitif zum Abschluss.",
+                "hu": "Tökéletes egy záró aperitifhez.",
+                "ro": "Perfect pentru un aperitiv la final.",
+                "en": "Perfect for a closing aperitif."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pasta mit Gardasee-Sardinen",
+                "tip": "Eine Spezialität in Cassone."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tészta Garda-tavi szardíniával",
+                "tip": "Egy specialitás Cassonéban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Paste cu sardine de Garda",
+                "tip": "O specialitate în Cassone."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pasta with Lake Garda Sardines",
+                "tip": "A specialty in Cassone."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Insel Olivo (Val di Sogno)",
+                "tip": "Ein ruhiger Blickfang gegenüber der Bucht.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Olivo-sziget (Val di Sogno)",
+                "tip": "Csendes látvány az öböllel szemben.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Insula Olivo",
+                "tip": "O priveliște liniștită vizavi de golf.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Olivo Island",
+                "tip": "A quiet sight across from the bay.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lederwaren",
+                "tip": "In den Boutiquen von Malcesine finden Sie hochwertige Taschen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bőráruk",
+                "tip": "Malcesine butikjaiban kiváló minőségű táskákat talál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Articole din piele",
+                "tip": "În buticurile din Malcesine găsiți genți de calitate."
+              }
+            ],
+            "en": [
+              {
+                "name": "Leather Goods",
+                "tip": "Find high-quality bags in Malcesine's boutiques."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie das Parkhaus 'Parcheggio Paina'.",
+              "Fahren Sie vorsichtig auf der engen Gardesana-Straße.",
+              "Parkgebühren können per App bezahlt werden.",
+              "Besuchen Sie Cassone für authentisches Flair."
+            ],
+            "hu": [
+              "Használja a 'Parcheggio Paina' parkolóházat.",
+              "Vezessen óvatosan a szűk Gardesana úton.",
+              "A parkolási díj applikációval is fizethető.",
+              "Látogassa meg Cassonét az autentikus hangulatért."
+            ],
+            "ro": [
+              "Folosiți parcarea 'Parcheggio Paina'.",
+              "Conduceți cu atenție pe drumul îngust Gardesana.",
+              "Taxele de parcare pot fi plătite prin aplicație.",
+              "Vizitați Cassone pentru o atmosferă autentică."
+            ],
+            "en": [
+              "Use the 'Parcheggio Paina' parking garage.",
+              "Drive carefully on the narrow Gardesana road.",
+              "Parking fees can be paid via app.",
+              "Visit Cassone for authentic flair."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regenfahrten entlang der Gardesana bieten dramatische Ausblicke auf den aufgepeitschten See. Vormittags parken wir nahe der Burg und besichtigen deren Innenräume. Mittags fahren wir gemütlich nach Cassone, um den kürzesten Fluss der Welt im Regen zu sehen. Nachmittags entspannen wir bei der Aussicht vom Auto aus in Val di Sogno, bevor wir den Tag im historischen Stadtkern beenden.",
+            "hu": "Az esős autózás a Gardesana úton drámai kilátást nyújt a felkorbácsolt tóra. Délelőtt a vár közelében parkolunk, és a belső tereket járjuk be. Délben Cassone felé vesszük az irányt, hogy megnézzük a világ legrövidebb folyóját az esőben. Délután a Val di Sogno öbölben pihenünk, élvezve a kilátást az autóból, majd az óvárosban zárjuk a napot.",
+            "ro": "Condusul pe ploaie de-a lungul drumului Gardesana oferă vederi dramatice asupra lacului. Dimineața parcăm lângă castel și îi vizităm interiorul. La prânz mergem spre Cassone pentru a vedea cel mai scurt râu din lume sub ploaie. După-amiaza ne relaxăm admirând golful Val di Sogno din mașină, înainte de a încheia ziua în centrul istoric.",
+            "en": "Driving along the Gardesana road in the rain offers dramatic views of the turbulent lake. In the morning, we park near the castle and explore its interior. At noon, we drive to Cassone to see the world's shortest river in the rain. In the afternoon, we relax with the views from the car at Val di Sogno before ending the day in the historic center."
+          },
+          "stops": [
+            {
+              "name": "Scaligero Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz, um den Fußweg im Regen kurz zu halten.",
+                "hu": "Használja a közeli parkolót, hogy az esőben rövid legyen a séta.",
+                "ro": "Folosiți parcarea apropiată pentru a scurta mersul pe jos prin ploaie.",
+                "en": "Use the nearby parking to keep your walk in the rain short."
+              }
+            },
+            {
+              "name": "Malcesine-Monte Baldo Cable Car",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus direkt unter der Seilbahnstation.",
+                "hu": "Parkoljon közvetlenül a felvonóállomás alatti parkolóházban.",
+                "ro": "Parcați în garajul subteran direct sub stația de telecabină.",
+                "en": "Park in the parking garage directly below the cable car station."
+              }
+            },
+            {
+              "name": "Cassone di Malcesine (Aril River)",
+              "tip_5lang": {
+                "de": "Der Aril-Fluss wirkt bei Regen besonders wasserreich und kraftvoll.",
+                "hu": "Az Aril-folyó esőben különösen bővizűnek és erőteljesnek tűnik.",
+                "ro": "Râul Aril pare deosebit de bogat în apă și viguros pe ploaie.",
+                "en": "The Aril River looks particularly voluminous and powerful in the rain."
+              }
+            },
+            {
+              "name": "Val di Sogno Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie den Seeblick trocken aus dem geparkten Auto.",
+                "hu": "Élvezze a tóra nyíló kilátást szárazon a parkoló autóból.",
+                "ro": "Admirați vederea spre lac stând la uscat în mașina parcată.",
+                "en": "Enjoy the lake view from the dry comfort of your parked car."
+              }
+            },
+            {
+              "name": "Malcesine Old Town",
+              "tip_5lang": {
+                "de": "Abends sind die Parkplätze in Stadtnähe bei Regen oft leichter zu finden.",
+                "hu": "Esőben este gyakran könnyebb közeli parkolót találni a városnál.",
+                "ro": "Seara, pe ploaie, locurile de parcare lângă oraș sunt mai ușor de găsit.",
+                "en": "Parking near the town is often easier to find on rainy evenings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Tunnel der Gardesana-Straße können bei Regen rutschig sein.",
+              "Achten Sie auf Steinschlaggefahr an den steilen Felswänden.",
+              "Nutzen Sie die Parkhäuser, um trockenen Fußes in die Stadt zu kommen.",
+              "Vermeiden Sie das Parken direkt unter Bäumen (Sturmgefahr).",
+              "Prüfen Sie die Funktion Ihrer Scheibenwischer vor der Fahrt."
+            ],
+            "hu": [
+              "A Gardesana út alagútjai esőben csúszósak lehetnek.",
+              "Ügyeljen a kőomlásveszélyre a meredek sziklafalak mentén.",
+              "Használja a parkolóházakat, hogy száraz lábbal érjen a városba.",
+              "Kerülje a közvetlenül fák alatti parkolást (viharveszély).",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát."
+            ],
+            "ro": [
+              "Tunelurile de pe drumul Gardesana pot fi alunecoase pe ploaie.",
+              "Atenție la riscul de căderi de pietre pe lângă pereții stâncoși.",
+              "Folosiți parcările etajate pentru a ajunge uscat în oraș.",
+              "Evitați parcarea direct sub copaci (risc de furtună).",
+              "Verificați funcționarea ștergătoarelor înainte de plecare."
+            ],
+            "en": [
+              "The tunnels on the Gardesana road can be slick during rain.",
+              "Watch out for potential rockfall along the steep cliff faces.",
+              "Use parking garages to reach the town center with dry feet.",
+              "Avoid parking directly under trees during stormy weather.",
+              "Ensure your windshield wipers are in good condition before setting off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour offenbart die stille Schönheit des Gardasees. Vormittags erkunden wir die geschichtsträchtige Burg ohne die Sommermassen. Mittags fahren wir zur Seilbahn und bewundern das Gipfelpanorama des Monte Baldo. Die Fahrt nach Cassone bietet klare Ausblicke auf das ruhige Wasser. Den Nachmittag verbringen wir in Val di Sogno, bevor wir uns in der Altstadt bei einem warmen Abendessen aufwärmen.",
+            "hu": "A téli autózás feltárja a Garda-tó csendes szépségét. Délelőtt a patinás várat fedezzük fel a nyári tömeg nélkül. Délben a felvonóhoz hajtunk, és megcsodáljuk a Monte Baldo csúcsait. A Cassone felé vezető út tiszta kilátást nyújt a nyugodt vízre. A délutánt Val di Sogno öblében töltjük, majd az óvárosban egy meleg vacsorával melegszünk fel.",
+            "ro": "O plimbare cu mașina iarna dezvăluie frumusețea liniștită a lacului Garda. Dimineața explorăm castelul istoric fără mulțimea de vară. La prânz mergem la telecabină și admirăm panorama de pe muntele Baldo. Drumul spre Cassone oferă vederi clare asupra apei calme. Petrecem după-amiaza în Val di Sogno, apoi ne încălzim în orașul vechi la o cină caldă.",
+            "en": "A winter drive reveals the serene beauty of Lake Garda. In the morning, we explore the historic castle without the summer crowds. At noon, we head to the cable car to admire the Monte Baldo summit panorama. The drive to Cassone offers clear views over the calm water. We spend the afternoon in Val di Sogno before warming up with a hot dinner in the old town."
+          },
+          "stops": [
+            {
+              "name": "Scaligero Castle",
+              "tip_5lang": {
+                "de": "Im Winter sind die Parkgebühren oft niedriger oder entfallen ganz.",
+                "hu": "Télen a parkolási díjak gyakran alacsonyabbak vagy elmaradnak.",
+                "ro": "Iarna, taxele de parcare sunt adesea mai mici sau inexistente.",
+                "en": "Parking fees are often lower or suspended during the winter season."
+              }
+            },
+            {
+              "name": "Malcesine-Monte Baldo Cable Car",
+              "tip_5lang": {
+                "de": "Das Auto bleibt im Parkhaus frostfrei, während Sie den Gipfel besuchen.",
+                "hu": "Az autó fagymentes marad a garázsban, amíg Ön a csúcson jár.",
+                "ro": "Mașina rămâne ferită de îngheț în garaj în timp ce vizitați vârful.",
+                "en": "Your car stays frost-free in the garage while you visit the summit."
+              }
+            },
+            {
+              "name": "Cassone di Malcesine (Aril River)",
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Straße für einen schnellen Blick auf den Fluss.",
+                "hu": "Parkoljon közvetlenül az út mentén egy gyors pillantásra a folyóra.",
+                "ro": "Parcați direct la marginea drumului pentru o vedere rapidă a râului.",
+                "en": "Park directly by the road for a quick look at the river."
+              }
+            },
+            {
+              "name": "Val di Sogno Beach",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung, während Sie den Wintersee bewundern.",
+                "hu": "Használja az ülésfűtést, miközben a téli tavat csodálja.",
+                "ro": "Folosiți încălzirea în scaune în timp ce admirați lacul iarna.",
+                "en": "Use your seat heaters while admiring the winter lake views."
+              }
+            },
+            {
+              "name": "Malcesine Old Town",
+              "tip_5lang": {
+                "de": "Die Parkplätze am Hafen bieten einen kurzen Weg zu den warmen Restaurants.",
+                "hu": "A kikötői parkolók közel vannak a fűtött éttermekhez.",
+                "ro": "Parcările din port oferă acces rapid la restaurantele călduroase.",
+                "en": "Harbor parking lots provide quick access to warm restaurants."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind auf den Bergstraßen gesetzlich vorgeschrieben.",
+              "Achten Sie auf Glatteis in den schattigen Passagen der Gardesana.",
+              "Die Parkplatzsituation ist im Winter völlig entspannt.",
+              "Prüfen Sie den Frostschutz in Ihrer Scheibenwaschanlage.",
+              "Die Seilbahn-Parkgarage ist eine gute, frostfreie Option."
+            ],
+            "hu": [
+              "A téli gumi használata kötelező a hegyi utakon.",
+              "Ügyeljen a jegesedésre a Gardesana út árnyékos szakaszain.",
+              "A parkolási helyzet télen teljesen stresszmentes.",
+              "Ellenőrizze a fagyállót a szélvédőmosó tartályban.",
+              "A felvonó parkolóháza jó, fagymentes opció."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege pe drumurile montane.",
+              "Atenție la polei în pasajele umbrite de pe drumul Gardesana.",
+              "Situația parcărilor este foarte relaxată pe timp de iarnă.",
+              "Verificați nivelul antigelului în lichidul de parbriz.",
+              "Garajul de la telecabină este o opțiune bună și ferită de îngheț."
+            ],
+            "en": [
+              "Winter tires are legally required on mountain roads.",
+              "Watch for black ice in the shaded sections of the Gardesana.",
+              "Parking is very easy to find during the winter months.",
+              "Check the frost protection level in your windshield washer fluid.",
+              "The cable car parking garage is a great, frost-free option."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -985,6 +2097,366 @@
           "Buy tickets at kiosks or the port.",
           "Line 484 connects the towns on the eastern shore."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Fähre und die Seilbahn, um Malcesine stressfrei zu erleben. Nach der Ankunft am Hafen führt der Weg zum Monte Baldo für atemberaubende Aussichten. Den Nachmittag verbringen Sie in der historischen Burg und beim Bummel durch die Altstadt, bevor Sie am alten Hafen den Tag ausklingen lassen.",
+            "hu": "Használja a kompot és a felvonót, hogy stresszmentesen élje át Malcesinét. A kikötőbe érkezés után az út a Monte Baldóra vezet a lélegzetelállító kilátásért. A délutánt a történelmi várban és az óvárosi barangolással töltjük, majd a régi kikötőben zárjuk a napot.",
+            "ro": "Folosiți feribotul și telecabina pentru a experimenta Malcesine fără stres. După sosirea în port, drumul duce la Monte Baldo pentru vederi uluitoare. După-amiaza o petreceți în castelul istoric și plimbându-vă prin centrul vechi, înainte de a încheia ziua în portul vechi.",
+            "en": "Use the ferry and cable car to experience Malcesine stress-free. After arriving at the port, the path leads to Monte Baldo for breathtaking views. Spend the afternoon in the historic castle and strolling through the old town before ending the day at the old port."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porto di Malcesine (Fähre)",
+                "hu": "Malcesinei kikötő (komp)",
+                "ro": "Portul Malcesine (feribot)",
+                "en": "Malcesine Port (Ferry)"
+              },
+              "tip_5lang": {
+                "de": "Kaufen Sie ein Tagesticket für die Fähren.",
+                "hu": "Vásároljon napijegyet a kompokra.",
+                "ro": "Cumpărați un bilet de o zi pentru feribot.",
+                "en": "Buy a day ticket for the ferries."
+              }
+            },
+            {
+              "name": {
+                "de": "Seilbahn Malcesine-Monte Baldo",
+                "hu": "Malcesine-Monte Baldo felvonó",
+                "ro": "Telecabina Malcesine-Monte Baldo",
+                "en": "Malcesine-Monte Baldo Cable Car"
+              },
+              "tip_5lang": {
+                "de": "Die Talstation ist gut zu Fuß vom Hafen erreichbar.",
+                "hu": "Az alsó állomás gyalog könnyen elérhető a kikötőtől.",
+                "ro": "Stația de bază este ușor accesibilă pe jos din port.",
+                "en": "The base station is easily reachable on foot from the port."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Scaligero",
+                "hu": "Scaligero vár",
+                "ro": "Castelul Scaligero",
+                "en": "Scaligero Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Bus hält oft direkt an der Hauptstraße.",
+                "hu": "A busz gyakran közvetlenül a főúton áll meg.",
+                "ro": "Autobuzul oprește adesea chiar pe drumul principal.",
+                "en": "The bus often stops right on the main road."
+              }
+            },
+            {
+              "name": {
+                "de": "Altstadt von Malcesine",
+                "hu": "Malcesine óvárosa",
+                "ro": "Centrul vechi din Malcesine",
+                "en": "Malcesine Old Town"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die versteckten Souvenirläden.",
+                "hu": "Fedezze fel a rejtett szuvenírboltokat.",
+                "ro": "Descoperiți magazinele de suveniruri ascunse.",
+                "en": "Discover the hidden souvenir shops."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto Vecchio",
+                "hu": "Régi kikötő",
+                "ro": "Portul Vechi",
+                "en": "Old Port"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie ein Eis vor der Rückfahrt.",
+                "hu": "Élvezzen egy fagyit a visszaindulás előtt.",
+                "ro": "Savurați o înghețată înainte de plecare.",
+                "en": "Enjoy an ice cream before heading back."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gelato Artigianale",
+                "tip": "Holen Sie sich ein Eis in der Gelateria Cento per Cento."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gelato Artigianale",
+                "tip": "Vegyen egy fagyit a Gelateria Cento per Cento-ban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gelato Artigianale",
+                "tip": "Luați o înghețată la Gelateria Cento per Cento."
+              }
+            ],
+            "en": [
+              {
+                "name": "Artisanal Gelato",
+                "tip": "Get an ice cream at Gelateria Cento per Cento."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Fährfahrt auf dem See",
+                "tip": "Entspannung pur auf dem Wasser.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kompút a tavon",
+                "tip": "Tiszta relaxáció a vízen.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Călătoria cu feribotul",
+                "tip": "Relaxare pură pe apă.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Ferry ride on the lake",
+                "tip": "Pure relaxation on the water.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Zitronenlikör (Limoncello)",
+                "tip": "Überall in den Gassen erhältlich."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Citromlikőr (Limoncello)",
+                "tip": "Bárhol kapható a sikátorokban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lichior de lămâie",
+                "tip": "Disponibil peste tot pe străduțe."
+              }
+            ],
+            "en": [
+              {
+                "name": "Lemon Liqueur (Limoncello)",
+                "tip": "Available everywhere in the alleys."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Laden Sie die 'Moovit' App für Busverbindungen.",
+              "Achten Sie auf die Abfahrtszeiten der letzten Fähre.",
+              "Kaufen Sie Tickets am Kiosk oder Hafen.",
+              "Die Linie 484 verbindet die Orte am Ostufer."
+            ],
+            "hu": [
+              "Töltse le a 'Moovit' alkalmazást a buszjáratokhoz.",
+              "Figyeljen az utolsó komp indulási idejére.",
+              "Vegyen jegyet a trafikban vagy a kikötőben.",
+              "A 484-es járat összeköti a keleti part településeit."
+            ],
+            "ro": [
+              "Descărcați aplicația 'Moovit' pentru autobuze.",
+              "Fiți atenți la ora de plecare a ultimului feribot.",
+              "Cumpărați bilete de la chioșcuri sau din port.",
+              "Linia 484 leagă localitățile de pe malul estic."
+            ],
+            "en": [
+              "Download the 'Moovit' app for bus schedules.",
+              "Watch out for the last ferry's departure time.",
+              "Buy tickets at kiosks or the port.",
+              "Line 484 connects the towns on the eastern shore."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Fähre erkunden wir Malcesine wetterunabhängig. Vormittags nutzen wir die Fähre, um die stürmische See aus der warmen Kabine zu erleben. Mittags bringt uns die Seilbahn hinauf, eventuell über die Wolken. Nachmittags besichtigen wir die Burg und schlendern durch die Altstadt, immer mit der Option, schnell in den nächsten Bus ins Trockene zu springen.",
+            "hu": "Busszal és komppal az időjárástól függetlenül fedezzük fel Malcesinét. Délelőtt a kompot választjuk, hogy a meleg kabinból éljük át a viharos tó látványát. Délben a felvonó visz fel, talán a felhők fölé. Délután a várat nézzük meg, és az óvárosban sétálunk, mindig fenntartva a lehetőséget, hogy a következő busszal gyorsan száraz helyre érjünk.",
+            "ro": "Explorăm Malcesine cu autobuzul și feribotul, indiferent de vreme. Dimineața luăm feribotul pentru a vedea lacul agitat din cabina călduroasă. La prânz, telecabina ne duce sus, eventual deasupra norilor. După-amiaza vizităm castelul și centrul vechi, având mereu opțiunea de a urca rapid în următorul autobuz pentru a sta la uscat.",
+            "en": "We explore Malcesine using bus and ferry, staying independent of the weather. In the morning, we take the ferry to experience the turbulent lake from a warm cabin. At noon, the cable car takes us up, possibly above the clouds. In the afternoon, we visit the castle and the old town, always with the option to hop on the next bus to get back into the dry."
+          },
+          "stops": [
+            {
+              "name": "Malcesine Port (Ferry)",
+              "tip_5lang": {
+                "de": "Die großen Fähren haben beheizte Salons mit toller Aussicht.",
+                "hu": "A nagy kompok fűtött szalonokkal és remek kilátással rendelkeznek.",
+                "ro": "Feriboturile mari au saloane încălzite cu o vedere excelentă.",
+                "en": "Large ferries feature heated lounges with great views."
+              }
+            },
+            {
+              "name": "Malcesine-Monte Baldo Cable Car",
+              "tip_5lang": {
+                "de": "Die Talstation bietet einen überdachten Wartebereich.",
+                "hu": "A völgyállomás fedett várakozóhellyel rendelkezik.",
+                "ro": "Stația de bază oferă o zonă de așteptare acoperită.",
+                "en": "The base station offers a covered waiting area."
+              }
+            },
+            {
+              "name": "Scaligero Castle",
+              "tip_5lang": {
+                "de": "Vom Busstopp an der Hauptstraße sind es nur wenige Minuten Fußweg.",
+                "hu": "A főúti buszmegállótól csak pár perc gyalog a vár.",
+                "ro": "De la stația de autobuz de pe drumul principal sunt doar câteva minute de mers.",
+                "en": "It is only a few minutes' walk from the main road bus stop."
+              }
+            },
+            {
+              "name": "Malcesine Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tourist-Busse, um zwischen den Sehenswürdigkeiten trocken zu bleiben.",
+                "hu": "Használja a turistabuszokat, hogy szárazon közlekedjen a látnivalók között.",
+                "ro": "Folosiți autobuzele turistice pentru a rămâne uscat între obiective.",
+                "en": "Use the tourist buses to stay dry between the sights."
+              }
+            },
+            {
+              "name": "Old Port",
+              "tip_5lang": {
+                "de": "Die Fährenanlegestelle ist zentral und bietet Regenschutz.",
+                "hu": "A kompállomás központi helyen van és védelmet nyújt az eső ellen.",
+                "ro": "Terminalul de feribot este central și oferă adăpost împotriva ploii.",
+                "en": "The ferry terminal is central and provides shelter from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei extremem Wetter kurzfristig geändert werden.",
+              "Die Fähren bieten den besten Schutz vor Wind und Regen auf dem See.",
+              "Nutzen Sie die 'ATV Bus' App für Echtzeit-Informationen.",
+              "Haltestellen haben oft nur kleine Unterstände; Schirm ist Pflicht.",
+              "Die Ticket-Verkaufsstellen in den Häfen sind beheizt."
+            ],
+            "hu": [
+              "Szélsőséges időjárás esetén a menetrendek módosulhatnak.",
+              "A kompok nyújtják a legjobb védelmet a szél és eső ellen a tavon.",
+              "Használja az 'ATV Bus' alkalmazást a valós idejű információkért.",
+              "A megállóknak gyakran csak kis tetejük van; az esernyő kötelező.",
+              "A kikötői jegypénztárak fűtöttek."
+            ],
+            "ro": [
+              "Orarele se pot schimba scurt în caz de vreme extremă.",
+              "Feriboturile oferă cea mai bună protecție împotriva vântului și ploii.",
+              "Folosiți aplicația 'ATV Bus' pentru informații în timp real.",
+              "Stațiile au adesea doar adăposturi mici; umbrela este obligatorie.",
+              "Punctele de vânzare a biletelor din porturi sunt încălzite."
+            ],
+            "en": [
+              "Schedules may change at short notice during extreme weather.",
+              "Ferries offer the best protection from wind and rain on the lake.",
+              "Use the 'ATV Bus' app for real-time transit information.",
+              "Stops often have only small shelters; an umbrella is essential.",
+              "Ticket offices at the ferry terminals are heated."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Malcesine lässt sich entspannt mit öffentlichen Verkehrsmitteln erleben. Vormittags bringt uns die Fähre über den stillen See, während wir die Aussicht genießen. Mittags geht es mit der Seilbahn zum verschneiten Monte Baldo. Nachmittags besichtigen wir die leere Burg und die Altstadt, bevor wir den Tag im Hafen ausklingen lassen, immer pünktlich zum letzten Bus oder Schiff.",
+            "hu": "A téli Malcesine kényelmesen felfedezhető tömegközlekedéssel. Délelőtt a komp szeli a csendes tavat, miközben mi a kilátást élvezzük. Délben a felvonóval emelkedünk a havas Monte Baldóra. Délután a néptelen várat és az óvárost járjuk be, majd a kikötőben búcsúztatjuk a napot, figyelve az utolsó busz vagy hajó indulására.",
+            "ro": "Iarna în Malcesine poate fi experimentată relaxat cu transportul public. Dimineața, feribotul traversează lacul liniștit în timp ce noi admirăm vederea. La prânz urcăm cu telecabina pe muntele Baldo înzăpezit. După-amiaza vizităm castelul pustiu și centrul vechi, încheind ziua în port la timp pentru ultimul autobuz sau vapor.",
+            "en": "Winter in Malcesine can be experienced in a relaxed way using public transport. In the morning, the ferry crosses the quiet lake while we enjoy the views. At noon, the cable car takes us to the snowy Monte Baldo. In the afternoon, we visit the empty castle and the old town, ending the day in the harbor, always in time for the last bus or boat."
+          },
+          "stops": [
+            {
+              "name": "Malcesine Port (Ferry)",
+              "tip_5lang": {
+                "de": "Im Winter ist der Fahrplan der Fähren stark reduziert.",
+                "hu": "Télen a kompok menetrendje jelentősen ritkább.",
+                "ro": "Iarna, orarul feriboturilor este considerabil redus.",
+                "en": "The ferry schedule is significantly reduced during the winter."
+              }
+            },
+            {
+              "name": "Malcesine-Monte Baldo Cable Car",
+              "tip_5lang": {
+                "de": "Die Seilbahn ist das wichtigste Transportmittel für Wintersportler.",
+                "hu": "A felvonó a legfontosabb közlekedési eszköz a téli sportolók számára.",
+                "ro": "Telecabina este principalul mijloc de transport pentru schiori.",
+                "en": "The cable car is the primary mode of transport for winter sports fans."
+              }
+            },
+            {
+              "name": "Scaligero Castle",
+              "tip_5lang": {
+                "de": "Die Busse verkehren im Winter zuverlässig nach Fahrplan.",
+                "hu": "A buszok télen is megbízhatóan közlekednek a menetrend szerint.",
+                "ro": "Autobuzele circulă regulat după orar și pe timp de iarnă.",
+                "en": "Buses run reliably according to the winter schedule."
+              }
+            },
+            {
+              "name": "Malcesine Old Town",
+              "tip_5lang": {
+                "de": "Genießen Sie den kurzen Fußweg von der Bushaltestelle ins Zentrum.",
+                "hu": "Élvezze a rövid sétát a buszmegállótól a központig.",
+                "ro": "Bucurați-vă de plimbarea scurtă de la stația de autobuz spre centru.",
+                "en": "Enjoy the short walk from the bus stop to the center."
+              }
+            },
+            {
+              "name": "Old Port",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtzeiten für die Rückfahrt frühzeitig.",
+                "hu": "Időben ellenőrizze a visszaindulás menetrendjét.",
+                "ro": "Verificați din timp orele de plecare pentru întoarcere.",
+                "en": "Check the departure times for your return trip early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf den speziellen Winterfahrplan (Orario Invernale).",
+              "Die letzte Fähre fährt im Winter oft schon am späten Nachmittag.",
+              "In den Bussen ist es angenehm warm geheizt.",
+              "Kaufen Sie Tickets vorab am Kiosk oder per App (oft günstiger).",
+              "Die Seilbahn hat im Spätherbst oft Wartungspausen; prüfen Sie dies."
+            ],
+            "hu": [
+              "Ügyeljen a speciális téli menetrendre (Orario Invernale).",
+              "Az utolsó komp télen gyakran már késő délután elindul.",
+              "A buszokon kellemes meleg fűtés van.",
+              "Vegye meg a jegyet előre újságosnál vagy appon (gyakran olcsóbb).",
+              "A felvonó késő ősszel gyakran karbantartási szünetet tart; ellenőrizze."
+            ],
+            "ro": [
+              "Atenție la orarul special de iarnă (Orario Invernale).",
+              "Ultimul feribot pleacă adesea deja spre sfârșitul după-amiezii.",
+              "În autobuze este o căldură plăcută.",
+              "Cumpărați biletele din timp de la chioșcuri sau prin aplicație.",
+              "Telecabina are adesea pauze de mentenanță toamna târziu; verificați."
+            ],
+            "en": [
+              "Be sure to check the specific winter schedule (Orario Invernale).",
+              "The last ferry often departs in the late afternoon during winter.",
+              "The buses are comfortably heated during the cold months.",
+              "Buy tickets in advance at kiosks or via the app (often cheaper).",
+              "The cable car often has maintenance breaks in late autumn; check ahead."
+            ]
+          }
+        }
       }
     }
   },

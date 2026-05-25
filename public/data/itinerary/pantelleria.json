@@ -245,6 +245,358 @@
           "Keep in mind that most shops close for siesta.",
           "Try the local wine in one of the small waterfront bars."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie die Festung Barbacane, die stolz über dem Hafen wacht. Mittags spazieren Sie entlang der Kais und spüren das maritime Flair der Insel. Am Nachmittag entdecken Sie die einzigartigen Dammusi-Bauten in den Gassen. Zum Abschluss genießen Sie die Meeresbrise auf dem Lungomare bei einem Glas Passito.",
+            "hu": "Reggel a kikötő felett őrködő Barbacane várat fedezzük fel. Délben a kikötői mólók mentén sétálva átélhetjük a sziget tengeri hangulatát. Délután a városi utcákban megbújó különleges dammusi házakat keressük fel. A napot a tengerparti sétányon zárjuk egy pohár helyi Passito bor társaságában.",
+            "ro": "Dimineața explorăm castelul Barbacane, care domină portul. La prânz, o plimbare pe chei ne introduce în atmosfera maritimă a insulei. După-amiaza este dedicată descoperirii caselor tradiționale dammusi din zonele rezidențiale. Încheiem ziua pe faleză, bucurându-ne de briza mării și de liniștea locului.",
+            "en": "Morning begins at the Barbacane Castle, standing guard over the harbor. At midday, stroll along the docks to soak in the island's maritime charm. In the afternoon, discover the unique dammusi structures tucked away in the town's lanes. End your walk on the seafront promenade with a glass of local Passito wine."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello Barbacane",
+                "hu": "Barbacane vár",
+                "ro": "Castelul Barbacane",
+                "en": "Barbacane Castle"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Stadtmuseum im Inneren.",
+                "hu": "Nézd meg a várban található városi múzeumot.",
+                "ro": "Vizitați muzeul civic din interiorul castelului.",
+                "en": "Visit the civic museum located inside the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto di Pantelleria",
+                "hu": "Pantelleria kikötője",
+                "ro": "Portul Pantelleria",
+                "en": "Pantelleria Harbor"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das bunte Treiben der Fischerboote.",
+                "hu": "Figyeld meg a halászhajók színes forgatagát.",
+                "ro": "Urmăriți activitatea barcilor de pescuit tradiționale.",
+                "en": "Watch the colorful activity of the traditional fishing boats."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa Matrice",
+                "hu": "Főtemplom",
+                "ro": "Biserica Matrice",
+                "en": "Matrice Church"
+              },
+              "tip_5lang": {
+                "de": "Ein Ort der Stille im Herzen der Stadt.",
+                "hu": "Csendes hely a város szívében.",
+                "ro": "Un loc de liniște în inima orașului.",
+                "en": "A peaceful spot in the heart of the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Dammusi di Pantelleria",
+                "hu": "Pantelleriai dammusi házak",
+                "ro": "Dammusi de Pantelleria",
+                "en": "Dammusi of Pantelleria"
+              },
+              "tip_5lang": {
+                "de": "Typische Lavasteinhäuser der Insel.",
+                "hu": "A sziget jellegzetes lávakőből épült házai.",
+                "ro": "Case tipice din piatră de lavă ale insulei.",
+                "en": "Typical lava stone houses unique to the island."
+              }
+            },
+            {
+              "name": {
+                "de": "Lungomare",
+                "hu": "Tengerparti sétány",
+                "ro": "Promenada",
+                "en": "Seafront Promenade"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für ein Eis am Nachmittag.",
+                "hu": "Tökéletes hely egy délutáni fagyizáshoz.",
+                "ro": "Ideal pentru o înghețată după-amiază.",
+                "en": "Perfect for an afternoon gelato by the sea."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pesto Pantesco",
+                "tip": "Frische Pasta mit Kapern und Mandeln."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pesto Pantesco",
+                "tip": "Friss tészta kapribogyóval és mandulával."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pesto Pantesco",
+                "tip": "Paste proaspete cu capere și migdale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pesto Pantesco",
+                "tip": "Fresh pasta with local capers and almonds."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "San Leonardo",
+                "tip": "Ruhiger Blick auf das Meer.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "San Leonardo",
+                "tip": "Csendes kilátás a nyílt tengerre.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "San Leonardo",
+                "tip": "Vedere liniștită spre mare.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "San Leonardo",
+                "tip": "Quiet spot overlooking the sea.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Capperi di Pantelleria",
+                "tip": "Weltberühmte Kapern direkt vom Erzeuger."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pantelleriai kapribogyó",
+                "tip": "Világhírű kapribogyó közvetlenül a termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Capere de Pantelleria",
+                "tip": "Celebrele capere cumpărate direct de la producători."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pantelleria Capers",
+                "tip": "World-famous capers bought directly from local farms."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Sonnenschutz ist auf der baumlosen Insel unerlässlich.",
+              "Die Mittagsruhe wird hier streng eingehalten.",
+              "Probieren Sie den lokalen Wein in einer der kleinen Bars."
+            ],
+            "hu": [
+              "Viselj kényelmes cipőt a macskaköves utcákon.",
+              "A naptej kötelező ezen a fátlan szigeten.",
+              "A szieszta idején a legtöbb üzlet zárva tart.",
+              "Kóstold meg a helyi bort a kikötői bárok egyikében."
+            ],
+            "ro": [
+              "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+              "Protecția solară este esențială pe această insulă aridă.",
+              "Siesta este respectată cu strictețe la prânz.",
+              "Gustați vinul local în barurile din zona portului."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestone streets.",
+              "Sun protection is essential on this treeless island.",
+              "Keep in mind that most shops close for siesta.",
+              "Try the local wine in one of the small waterfront bars."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Barbacane-Schloss sicheren Schutz vor dem Regen hinter dicken Mauern. Mittags schlendern wir kurz zum Hafen und finden in der Matrice-Kirche spirituelle Ruhe und Trockenheit. Am Nachmittag erkunden wir die Dammusi, deren Steinkonstruktion ideal für regnerische Tage ist. Der Abend klingt bei einem Glas Passito an der Promenade aus, während wir das stürmische Meer beobachten.",
+            "hu": "Reggel a Barbacane-kastély vastag falai nyújtanak menedéket a szitáló eső elől. Délben a kikötő érintésével a Matrice-templom belső csendjébe és szárazságába menekülünk. Délután a hagyományos dammusik világát fedezzük fel, melyek kövei évszázadok óta dacolnak az elemekkel. Az estét a parti sétányon zárjuk, egy pohár Passito mellett figyelve a tenger drámai hullámzását.",
+            "ro": "Dimineața, Castelul Barbacane oferă un adăpost sigur împotriva ploii între zidurile sale groase. La prânz, trecem prin port și ne refugiem în Biserica Matrice pentru liniște și uscăciune. După-amiaza explorăm casele dammusi, a căror structură de piatră este ideală pentru zilele ploioase. Seara se încheie pe faleză cu un pahar de Passito, admirând spectacolul mării agitate.",
+            "en": "Morning starts inside the Barbacane Castle, providing solid shelter from the rain. At noon, we make a quick stop at the harbor before finding dry comfort in the Matrice Church. In the afternoon, we explore the traditional dammusi, perfectly built to withstand island weather. We end the evening at the promenade with a glass of Passito, watching the dramatic stormy sea."
+          },
+          "stops": [
+            {
+              "name": "Barbacane Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume zur Besichtigung, während es draußen regnet.",
+                "hu": "Használd ki a belső kiállításokat, amíg kint esik az eső.",
+                "ro": "Vizitați expozițiile interioare în timp ce afară plouă.",
+                "en": "Focus on the interior exhibits while it rains outside."
+              }
+            },
+            {
+              "name": "Pantelleria Harbor",
+              "tip_5lang": {
+                "de": "Die Cafés am Hafen bieten überdachte Plätze mit Blick auf die Fähren.",
+                "hu": "A kikötői kávézók fedett teraszairól jól látszanak a kompok.",
+                "ro": "Cafenelele din port oferă locuri acoperite cu vedere la feriboturi.",
+                "en": "Harbor cafes offer covered seating with views of the ferries."
+              }
+            },
+            {
+              "name": "Matrice Church",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um den stärksten Regenschauer abzuwarten.",
+                "hu": "Tökéletes hely a legnagyobb felhőszakadás átvészelésére.",
+                "ro": "Un loc perfect pentru a aștepta trecerea celei mai mari ploi.",
+                "en": "A perfect spot to wait out the heaviest rain showers."
+              }
+            },
+            {
+              "name": "Dammusi of Pantelleria",
+              "tip_5lang": {
+                "de": "Besuchen Sie ein Dammusi-Museum, um die kluge Architektur zu sehen.",
+                "hu": "Látogass el egy dammusi-múzeumba, hogy lásd a zseniális építészetet.",
+                "ro": "Vizitați un muzeu dammusi pentru a vedea arhitectura ingenioasă.",
+                "en": "Visit a dammusi museum to see the ingenious architecture."
+              }
+            },
+            {
+              "name": "Seafront Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht vor Gischt bei starkem Wind; tragen Sie eine Regenjacke.",
+                "hu": "Vigyázz a felcsapó hullámokra; viselj szélálló esőkabátot.",
+                "ro": "Atenție la stropii de mare; purtați o jachetă impermeabilă.",
+                "en": "Watch out for sea spray; wear a windproof raincoat."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie rutschfeste Schuhe, da das Lavagestein glatt wird.",
+              "Die meisten Sehenswürdigkeiten im Zentrum sind nah beieinander.",
+              "Nutzen Sie die lokalen Bars für kurze Aufwärmpausen.",
+              "Ein Regenschirm ist bei dem starken Inselwind oft nutzlos; Regenjacken sind besser."
+            ],
+            "hu": [
+              "Viselj csúszásmentes talpú cipőt a vizes lávakövek miatt.",
+              "A központi látnivalók közel vannak, így keveset kell ázni.",
+              "Használd a helyi bárokat rövid pihenőkre az eső elől.",
+              "Az ernyő a szélben gyakran tönkremegy; a jó esőkabát hatékonyabb."
+            ],
+            "ro": [
+              "Purtați încălțăminte antiderapantă, rocile vulcanice devin alunecoase.",
+              "Atracțiile centrale sunt apropiate, reducând timpul petrecut în ploaie.",
+              "Folosiți barurile locale pentru scurte pauze de încălzire.",
+              "Umbrela este adesea inutilă din cauza vântului; pelerina e mai bună."
+            ],
+            "en": [
+              "Wear non-slip shoes as the volcanic stone gets very slick.",
+              "Central sights are close to each other, minimizing rain exposure.",
+              "Use local bars for quick breaks to stay dry and warm.",
+              "Umbrellas often break in the wind; a good raincoat is much better."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Barbacane-Schloss ist kühl und menschenleer. Mittags belebt sich der Hafen leicht, während wir in der Matrice-Kirche die feierliche Stille spüren. Nachmittags leuchten die Dammusi im sanften Winterlicht der Insel. Der Tag endet früh an der Promenade, wo der Sonnenuntergang über dem Meer die kühle Brise in goldenes Licht taucht.",
+            "hu": "A téli reggel a Barbacane-kastélynál hűvös és néptelen. Délben a kikötőben figyeljük a halászokat, majd a Matrice-templom belső békéjében melegszünk. Délután a dammusik sötét kövei gyűjtik be az utolsó napsugarakat. A nap korán ér véget a sétányon, ahol az aranyló naplemente búcsúztatja a csípős szélben sétálókat.",
+            "ro": "Dimineața de iarnă la Castelul Barbacane este răcoroasă și pustie. La prânz portul prinde puțină viață, iar în Biserica Matrice simțim o liniște solemnă. După-amiaza, casele dammusi strălucesc în lumina blândă de iarnă. Ziua se termină devreme pe faleză, unde apusul auriu încălzește vizual briza rece a serii.",
+            "en": "A winter morning at Barbacane Castle is cool and wonderfully quiet. At noon, the harbor shows its local side, followed by a peaceful visit to the Matrice Church. In the afternoon, the dammusi catch the soft winter light across the landscape. The day ends early at the promenade with a golden sunset over the chilling waves."
+          },
+          "stops": [
+            {
+              "name": "Barbacane Castle",
+              "tip_5lang": {
+                "de": "Kleiden Sie sich in Schichten; im Schloss kann es kühl sein.",
+                "hu": "Öltözz rétegesen; a kastély falai között hűvös lehet.",
+                "ro": "Îmbrăcați-vă în straturi; poate fi răcoare în interiorul castelului.",
+                "en": "Dress in layers; it can be quite chilly inside the castle walls."
+              }
+            },
+            {
+              "name": "Pantelleria Harbor",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne die sommerlichen Touristenmassen.",
+                "hu": "Élvezd a nyugalmat a nyári turistatömeg nélkül.",
+                "ro": "Bucurați-vă de liniște fără aglomerația de turiști din vară.",
+                "en": "Enjoy the tranquility without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Matrice Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche für einen Moment der inneren Einkehr.",
+                "hu": "Látogass el a templomba egy kis belső elcsendesedésre.",
+                "ro": "Vizitați biserica pentru un moment de liniște interioară.",
+                "en": "Visit the church for a quiet moment of reflection."
+              }
+            },
+            {
+              "name": "Dammusi of Pantelleria",
+              "tip_5lang": {
+                "de": "Das dunkle Gestein speichert auch im Winter etwas Wärme.",
+                "hu": "A sötét kőzet télen is elnyel és tárol némi napmeleget.",
+                "ro": "Roca întunecată reține puțină căldură chiar și iarna.",
+                "en": "The dark stone stores some solar heat even during winter."
+              }
+            },
+            {
+              "name": "Seafront Promenade",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter bereits gegen 17:00 Uhr.",
+                "hu": "A naplemente télen már délután 5 óra körül bekövetkezik.",
+                "ro": "Apusul de soare are loc deja în jurul orei 17:00 iarna.",
+                "en": "The sunset happens early in winter, around 5:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Wind kann sehr stark sein; eine winddichte Jacke ist Pflicht.",
+              "Die meisten Außenbereiche sind im Winter sehr ruhig.",
+              "Nutzen Sie die hellen Stunden bis 16:30 Uhr maximal aus.",
+              "Probieren Sie lokale Winterspezialitäten in den offenen Trattorien."
+            ],
+            "hu": [
+              "A szél nagyon erős lehet; a szélálló kabát kötelező.",
+              "A legtöbb szabadtéri helyszín télen rendkívül békés.",
+              "Használd ki a világos órákat délután fél 5-ig.",
+              "Kóstold meg a helyi téli ételeket a nyitva tartó trattoriákban."
+            ],
+            "ro": [
+              "Vântul poate fi foarte puternic; o jachetă antivânt este obligatorie.",
+              "Majoritatea locațiilor în aer liber sunt foarte liniștite iarna.",
+              "Profită la maximum de orele de lumină până la 16:30.",
+              "Încercați specialitățile locale de iarnă în trattoriile deschise."
+            ],
+            "en": [
+              "The wind can be very strong; a windproof jacket is a must.",
+              "Most outdoor areas are extremely peaceful during winter.",
+              "Make the most of the daylight hours until around 4:30 PM.",
+              "Try local winter specialties in the trattorias that stay open."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -484,6 +836,358 @@
           "E-bikes are highly recommended due to the hills.",
           "Watch out for sharp volcanic rocks along the paths."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Radeln Sie morgens zum schimmernden Venus-See für ein Schlammbad. Mittags erreichen Sie das Fischerdorf Gadir mit seinen heißen Quellen. Den Nachmittag verbringen Sie an der Cala Levante und bestaunen den Elefantenfelsen. Die Rückfahrt führt Sie durch die wilde Vulkanlandschaft zurück zum Hafen.",
+            "hu": "Reggel a csillogó Vénusz-tóhoz tekerünk egy frissítő iszappakolásra. Délben elérjük Gadir halászfaluját és annak forró forrásait. A délutánt a Cala Levante partján töltjük, megcsodálva az Elefánt-sziklát. A visszaút a sziget vad vulkanikus tájain keresztül vezet a kikötőbe.",
+            "ro": "Pedalați dimineața spre lacul Oglinda Venerei pentru o baie de nămol. La prânz ajungeți în Gadir, unde izvoarele termale se varsă în mare. După-amiaza este dedicată relaxării la Cala Levante, lângă faimosul Arc al Elefantului. Drumul de întoarcere oferă peisaje vulcanice spectaculoase.",
+            "en": "Cycle to the shimmering Venus Lake in the morning for a mud bath. By midday, reach the fishing village of Gadir with its thermal pools. Spend your afternoon at Cala Levante, marveling at the Elephant Arch. The return ride takes you through the wild volcanic interior back to town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Specchio di Venere",
+                "hu": "Vénusz tükre",
+                "ro": "Oglinda Venerei",
+                "en": "Venus Mirror Lake"
+              },
+              "tip_5lang": {
+                "de": "Baden Sie im schwefelhaltigen Thermalwasser.",
+                "hu": "Fürödj meg a kénes termálvízben.",
+                "ro": "Faceți o baie în apele termale sulfuroase.",
+                "en": "Take a dip in the sulfurous thermal waters."
+              }
+            },
+            {
+              "name": {
+                "de": "Gadir",
+                "hu": "Gadir",
+                "ro": "Gadir",
+                "en": "Gadir"
+              },
+              "tip_5lang": {
+                "de": "Heiße Quellen direkt am Meeresufer.",
+                "hu": "Forró források közvetlenül a tengerparton.",
+                "ro": "Izvoare termale chiar pe malul mării.",
+                "en": "Hot springs located right on the seashore."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Levante",
+                "hu": "Cala Levante",
+                "ro": "Cala Levante",
+                "en": "Cala Levante"
+              },
+              "tip_5lang": {
+                "de": "Kristallklares Wasser, ideal zum Schnorcheln.",
+                "hu": "Kristálytiszta víz, ideális búvárkodáshoz.",
+                "ro": "Apă de cristal, ideală pentru snorkeling.",
+                "en": "Crystal clear water, ideal for snorkeling."
+              }
+            },
+            {
+              "name": {
+                "de": "Arco dell'Elefante",
+                "hu": "Elefánt-szikla",
+                "ro": "Arcul Elefantului",
+                "en": "Elephant Arch"
+              },
+              "tip_5lang": {
+                "de": "Das Wahrzeichen der Insel für Fotos.",
+                "hu": "A sziget jelképe, tökéletes fotóhelyszín.",
+                "ro": "Simbolul insulei, perfect pentru fotografii.",
+                "en": "The iconic landmark of the island for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Asciutto",
+                "hu": "Bagno Asciutto barlang",
+                "ro": "Bagno Asciutto",
+                "en": "Bagno Asciutto Cave"
+              },
+              "tip_5lang": {
+                "de": "Eine natürliche Sauna in einer Grotte.",
+                "hu": "Természetes szauna egy barlang mélyén.",
+                "ro": "O saună naturală într-o grotă.",
+                "en": "A natural sauna inside a cave."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bacio Pantesco",
+                "tip": "Frittiertes Gebäck mit Ricotta-Füllung."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bacio Pantesco",
+                "tip": "Sült tészta édes ricotta töltelékkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bacio Pantesco",
+                "tip": "Produs de patiserie prăjit cu umplutură de ricotta."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bacio Pantesco",
+                "tip": "Deep-fried pastry filled with sweet ricotta."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Lago di Venere",
+                "tip": "Stille am Seeufer genießen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vénusz-tó",
+                "tip": "Élvezd a tóparti csendet.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lacul Venerei",
+                "tip": "Bucurați-vă de liniștea malului.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Venus Lake",
+                "tip": "Enjoy the silence by the lakeshore.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Passito di Pantelleria",
+                "tip": "Edelsüßer Dessertwein."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Passito di Pantelleria",
+                "tip": "Különleges édes desszertbor."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Passito di Pantelleria",
+                "tip": "Vin licoros de desert."
+              }
+            ],
+            "en": [
+              {
+                "name": "Passito di Pantelleria",
+                "tip": "Renowned sweet dessert wine."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie den Wind, bevor Sie die Küste entlangfahren.",
+              "Nehmen Sie ausreichend Wasser mit.",
+              "E-Bikes sind aufgrund der Steigungen sehr zu empfehlen.",
+              "Vorsicht vor scharfen Lavasteinen am Wegesrand."
+            ],
+            "hu": [
+              "Ellenőrizd a szélirányt a parti szakaszok előtt.",
+              "Vigyél magaddal bőséges vízkészletet.",
+              "Az emelkedők miatt az e-bike erősen ajánlott.",
+              "Vigyázz az éles lávakövekre az utak mentén."
+            ],
+            "ro": [
+              "Verificați prognoza de vânt înainte de a pleca.",
+              "Luați cu voi rezerve generoase de apă.",
+              "E-bike-ul este recomandat din cauza pantei.",
+              "Atenție la pietrele vulcanice ascuțite de pe margini."
+            ],
+            "en": [
+              "Check the wind conditions before coastal rides.",
+              "Carry plenty of drinking water with you.",
+              "E-bikes are highly recommended due to the hills.",
+              "Watch out for sharp volcanic rocks along the paths."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen radeln wir vorsichtig zum Venus-Spiegel-See, wo der Regen auf die Wasseroberfläche trommelt. Mittags erreichen wir Gadir und finden in den heißen Thermalbecken direkt am Meer wunderbare Wärme. Nachmittags geht es weiter zur Cala Levante, während der Himmel dramatisch grau bleibt. Wir beenden die Tour in der Bagno Asciutto Höhle, einer natürlichen Sauna, die uns perfekt trocknet.",
+            "hu": "Reggel óvatosan tekerünk a Vénusz-tükör tóhoz, ahol az eső kopog a vízfelszínen. Délben elérjük Gadirt, ahol a tengerparti forró termálmedencékben találunk menedéket. Délután a Cala Levante felé vesszük az irányt a drámai szürke égbolt alatt. A túrát a Bagno Asciutto barlangban zárjuk, melynek természetes szaunája tökéletesen átmelegít.",
+            "ro": "Dimineața pedalăm cu atenție spre Lacul Oglinda Venerei, unde ploaia răpăie pe apă. La prânz ajungem la Gadir și găsim căldură în bazinele termale de pe malul mării. După-amiaza continuăm spre Cala Levante sub un cer gri dramatic. Încheiem tura la peștera Bagno Asciutto, o saună naturală care ne va usca perfect.",
+            "en": "In the morning, we cycle carefully to Venus Mirror Lake as rain taps on the surface. At noon, we reach Gadir and find wonderful warmth in the thermal pools by the sea. In the afternoon, we continue to Cala Levante under a dramatic grey sky. We finish the ride at Bagno Asciutto Cave, a natural sauna that dries us out perfectly."
+          },
+          "stops": [
+            {
+              "name": "Venus Mirror Lake",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Schlammpfaden rund um den Thermalsee.",
+                "hu": "Vigyázz a sáros ösvényekkel a termál tó körül.",
+                "ro": "Atenție la potecile noroioase din jurul lacului termal.",
+                "en": "Be careful on the muddy paths around the thermal lake."
+              }
+            },
+            {
+              "name": "Gadir",
+              "tip_5lang": {
+                "de": "Die Thermalbecken sind bei Regen ein magisches Erlebnis.",
+                "hu": "A termálmedencék esőben is varázslatos élményt nyújtanak.",
+                "ro": "Bazinele termale sunt o experiență magică pe timp de ploaie.",
+                "en": "The thermal pools are a magical experience even in the rain."
+              }
+            },
+            {
+              "name": "Cala Levante",
+              "tip_5lang": {
+                "de": "Die Felsen können extrem rutschig sein; bleiben Sie auf dem Weg.",
+                "hu": "A sziklák rendkívül csúszósak lehetnek; maradj az úton.",
+                "ro": "Stâncile pot fi extrem de alunecoase; rămâneți pe drum.",
+                "en": "The rocks can be extremely slippery; stay on the paved road."
+              }
+            },
+            {
+              "name": "Elephant Arch",
+              "tip_5lang": {
+                "de": "Ein kurzes Foto genügt; bei Regen ist die Sicht oft vernebelt.",
+                "hu": "Egy gyors fotó elég; esőben a kilátás gyakran ködös.",
+                "ro": "O fotografie rapidă e de ajuns; vederea e adesea cețoasă.",
+                "en": "A quick photo is enough; visibility is often misty in the rain."
+              }
+            },
+            {
+              "name": "Bagno Asciutto Cave",
+              "tip_5lang": {
+                "de": "Der beste Ort der Insel, um Kleidung und Körper zu trocknen.",
+                "hu": "A legjobb hely a szigeten a ruhák és a test megszárítására.",
+                "ro": "Cel mai bun loc de pe insulă pentru a vă usca hainele și corpul.",
+                "en": "The best place on the island to dry your clothes and body."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche an Ihrem Fahrrad gegen den Schlamm.",
+              "Bremsen Sie auf nassem Lavagestein sehr frühzeitig ab.",
+              "Die Thermalbecken in Gadir sind kostenlos und wärmen hervorragend.",
+              "Tragen Sie eine wasserfeste Handyhülle für die Navigation."
+            ],
+            "hu": [
+              "Használj sárvédőt a biciklin a felcsapódó sár ellen.",
+              "A vizes lávakövön fékezz sokkal korábban a szokásosnál.",
+              "A gadiri termálmedencék ingyenesek és remekül felmelegítenek.",
+              "Használj vízálló telefontokot a navigációhoz."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi la bicicletă pentru a vă proteja.",
+              "Frânați mult mai devreme pe roca vulcanică umedă.",
+              "Bazinele termale din Gadir sunt gratuite și vă încălzesc excelent.",
+              "Folosiți o husă impermeabilă pentru telefon la navigație."
+            ],
+            "en": [
+              "Use mudguards on your bike to protect against splashes.",
+              "Brake much earlier than usual on wet volcanic rock.",
+              "The thermal pools in Gadir are free and warm you up perfectly.",
+              "Use a waterproof phone case for navigation."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Venus-See ist ruhig; der Dampf steigt mystisch aus dem Wasser auf. Mittags wärmen wir uns in den Thermalquellen von Gadir auf, während die kühle Meeresluft uns erfrischt. Nachmittags radeln wir zur Cala Levante und bestaunen den Elefantenbogen im harten Winterlicht. Die Tour endet bei Bagno Asciutto, wo die natürliche Erdwärme ein Segen für müde Muskeln ist.",
+            "hu": "A téli reggel a Vénusz-tónál csendes; a pára misztikusan száll fel a meleg vízből. Délben Gadir termálforrásaiban melegszünk fel a friss tengeri szélben. Délután a Cala Levante felé tekerünk, megcsodálva az Elefánt-sziklát a téli fényben. A túrát a Bagno Asciutto-nál zárjuk, ahol a földhő igazi áldás a fáradt izmoknak.",
+            "ro": "Dimineața de iarnă la Lacul Venerei este liniștită; aburii se ridică mistic din apă. La prânz ne încălzim în izvoarele termale din Gadir, în briza rece a mării. După-amiaza pedalăm spre Cala Levante, admirând Arcul Elefantului în lumina iernii. Tura se termină la Bagno Asciutto, unde căldura naturală e binefăcătoare.",
+            "en": "A winter morning at Venus Lake is quiet with mist rising mystically from the water. At noon, we warm up in Gadir's thermal springs while the crisp sea air refreshes us. In the afternoon, we cycle to Cala Levante and see the Elephant Arch in the sharp winter light. We finish at Bagno Asciutto, where the natural geothermal heat blesses tired muscles."
+          },
+          "stops": [
+            {
+              "name": "Venus Mirror Lake",
+              "tip_5lang": {
+                "de": "Das Wasser ist auch im Winter angenehm warm zum Baden.",
+                "hu": "A víz télen is kellemesen meleg a fürdőzéshez.",
+                "ro": "Apa este plăcut de caldă pentru scăldat chiar și iarna.",
+                "en": "The water is pleasantly warm for bathing even in winter."
+              }
+            },
+            {
+              "name": "Gadir",
+              "tip_5lang": {
+                "de": "Bringen Sie ein Handtuch mit; der Wind beim Aussteigen ist kühl.",
+                "hu": "Vigyél törölközőt; a vízből kijőve a szél hűvös lehet.",
+                "ro": "Aduceți un prosop; vântul la ieșirea din apă este rece.",
+                "en": "Bring a towel; the wind when getting out of the water is chilly."
+              }
+            },
+            {
+              "name": "Cala Levante",
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne bietet tolle Fotomotive.",
+                "hu": "Az alacsonyan járó téli nap remek fotótémákat kínál.",
+                "ro": "Soarele de iarnă la înălțime mică oferă cadre foto superbe.",
+                "en": "The low winter sun provides great photo opportunities."
+              }
+            },
+            {
+              "name": "Elephant Arch",
+              "tip_5lang": {
+                "de": "Ein windgeschützter Platz für eine kurze Rast.",
+                "hu": "Szélvédett hely egy rövid pihenőhöz.",
+                "ro": "Un loc ferit de vânt pentru un scurt popas.",
+                "en": "A spot sheltered from the wind for a short rest."
+              }
+            },
+            {
+              "name": "Bagno Asciutto Cave",
+              "tip_5lang": {
+                "de": "Genießen Sie die natürliche Sauna; perfekt gegen Winterkälte.",
+                "hu": "Élvezd a természetes szaunát; tökéletes a téli hideg ellen.",
+                "ro": "Bucurați-vă de sauna naturală; perfectă contra frigului.",
+                "en": "Enjoy the natural sauna; perfect against the winter cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrradhandschuhe sind wegen des kalten Windes sehr wichtig.",
+              "Die Bergabfahrten können im Winter sehr auskühlen.",
+              "Trinken Sie ausreichend, auch wenn Sie weniger schwitzen.",
+              "Planen Sie die Rückkehr vor 17:00 Uhr, wenn es dunkel wird."
+            ],
+            "hu": [
+              "A kerékpáros kesztyű a hideg szél miatt nagyon fontos.",
+              "A lejtőkön a menetszél télen nagyon le tud hűteni.",
+              "Igyál elegendő vizet akkor is, ha kevésbé izadsz.",
+              "Tervezd a visszatérést délután 5 előtt, mielőtt sötét lesz."
+            ],
+            "ro": [
+              "Mănușile de bicicletă sunt esențiale din cauza vântului rece.",
+              "Coborârile pot fi foarte reci pe timp de iarnă.",
+              "Beți suficientă apă, chiar dacă transpirați mai puțin.",
+              "Planificați întoarcerea înainte de ora 17:00, când se întunecă."
+            ],
+            "en": [
+              "Cycling gloves are very important because of the cold wind.",
+              "Downhill sections can get very chilly in the winter air.",
+              "Drink enough water even if you sweat less in the cold.",
+              "Plan to be back before 5:00 PM as it gets dark quickly."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -746,6 +1450,390 @@
           "Refuel in the main town, gas stations are rare elsewhere.",
           "Parking near the coves can be difficult in summer."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie die entlegensten Winkel der Insel. Starten Sie im Nationalpark mit Panoramablicken. Danach entspannen Sie am Venus-See und in den Thermen von Gadir. Den Nachmittag genießen Sie am Strand von Cala Levante, bevor Sie den Tag in der Natursauna von Bagno Asciutto ausklingen lassen.",
+            "hu": "Autóval a sziget legtávolabbi szegleteit is felfedezhetjük. Kezdjük a napot a Nemzeti Park panorámájával, majd pihenjünk a Vénusz-tónál és Gadir termálvizeiben. A délutánt Cala Levante strandján töltjük, végül a Bagno Asciutto barlangszaunájában frissülünk fel a hazaút előtt.",
+            "ro": "Cu mașina puteți ajunge în cele mai izolate colțuri ale insulei. Începeți cu Parcul Național pentru vederi panoramice. Relaxați-vă apoi la lacul Oglinda Venerei și în termele din Gadir. Petreceți după-amiaza pe plaja Cala Levante, încheind vizita la sauna naturală Bagno Asciutto.",
+            "en": "A car allows you to reach the most remote corners of the island. Start in the National Park for panoramic views. Later, relax at Venus Lake and the Gadir thermal pools. Spend the afternoon at Cala Levante beach before finishing with a session in the natural sauna at Bagno Asciutto."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parco Nazionale",
+                "hu": "Nemzeti Park",
+                "ro": "Parcul Național",
+                "en": "National Park"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie zum Gipfel des Montagna Grande.",
+                "hu": "Túrázz a Montagna Grande csúcsára.",
+                "ro": "Urcați pe vârful Montagna Grande.",
+                "en": "Hike to the summit of Montagna Grande."
+              }
+            },
+            {
+              "name": {
+                "de": "Specchio di Venere",
+                "hu": "Vénusz tükre",
+                "ro": "Oglinda Venerei",
+                "en": "Venus Mirror Lake"
+              },
+              "tip_5lang": {
+                "de": "Idealer Stopp für ein natürliches Peeling.",
+                "hu": "Ideális hely egy természetes iszappakoláshoz.",
+                "ro": "Oprire ideală pentru un peeling natural.",
+                "en": "Ideal stop for a natural mud scrub."
+              }
+            },
+            {
+              "name": {
+                "de": "Gadir",
+                "hu": "Gadir",
+                "ro": "Gadir",
+                "en": "Gadir"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie die Thermalbecken aus der Römerzeit.",
+                "hu": "Próbáld ki a római kori termálmedencéket.",
+                "ro": "Încercați bazinele termale din epoca romană.",
+                "en": "Try the thermal pools dating back to Roman times."
+              }
+            },
+            {
+              "name": {
+                "de": "Arco dell'Elefante",
+                "hu": "Elefánt-szikla",
+                "ro": "Arcul Elefantului",
+                "en": "Elephant Arch"
+              },
+              "tip_5lang": {
+                "de": "Bester Fotopunkt am frühen Nachmittag.",
+                "hu": "A legjobb fotópont kora délután.",
+                "ro": "Cel mai bun punct foto după-amiaza devreme.",
+                "en": "Best photo spot in the early afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Levante",
+                "hu": "Cala Levante",
+                "ro": "Cala Levante",
+                "en": "Cala Levante"
+              },
+              "tip_5lang": {
+                "de": "Langes Sonnenbad in einer geschützten Bucht.",
+                "hu": "Hosszú napozás egy szélvédett öbölben.",
+                "ro": "Plajă prelungită într-un golf adăpostit.",
+                "en": "Long sunbathing session in a sheltered cove."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Asciutto",
+                "hu": "Bagno Asciutto",
+                "ro": "Bagno Asciutto",
+                "en": "Bagno Asciutto"
+              },
+              "tip_5lang": {
+                "de": "Entspannung in der Natursauna zum Abschluss.",
+                "hu": "Lazítás a természetes szaunában a nap végén.",
+                "ro": "Relaxare în sauna naturală la finalul zilei.",
+                "en": "Relax in the natural sauna to end your day."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Sciakisciuka",
+                "tip": "Lokale Variante der Caponata."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sciakisciuka",
+                "tip": "A caponata helyi változata."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sciakisciuka",
+                "tip": "Varianta locală a celebrei caponata."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sciakisciuka",
+                "tip": "Local variation of the famous caponata."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Montagna Grande",
+                "tip": "Höchster Punkt mit Blick nach Tunesien.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Montagna Grande",
+                "tip": "A legmagasabb pont, ahonnan Tunéziáig látni.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Montagna Grande",
+                "tip": "Cel mai înalt punct, cu vedere spre Tunisia.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Montagna Grande",
+                "tip": "Highest point with views toward Tunisia.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Azienda Agricola",
+                "tip": "Olivenöl und Kapern direkt ab Hof."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi gazdaságok",
+                "tip": "Olívaolaj és kapribogyó a termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ferme locale",
+                "tip": "Ulei de măsline și capere direct de la fermă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Farms",
+                "tip": "Olive oil and capers directly from the producer."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straßen sind eng und kurvenreich, fahren Sie vorsichtig.",
+              "Ein kleiner Geländewagen ist ideal.",
+              "Tanken Sie im Hauptort, es gibt kaum Tankstellen.",
+              "Parken an den Buchten kann im Sommer schwierig sein."
+            ],
+            "hu": [
+              "Az utak szűkek és kanyargósak, vezess óvatosan.",
+              "Egy kisebb terepjáró az ideális választás.",
+              "Tankolj a fővárosban, máshol kevés a benzinkút.",
+              "Nyáron a strandoknál nehéz lehet a parkolás."
+            ],
+            "ro": [
+              "Drumurile sunt înguste și șerpuite, conduceți cu prudență.",
+              "Un SUV de mici dimensiuni este ideal.",
+              "Alimentați în orașul principal, benzinăriile sunt rare.",
+              "Parcarea lângă golfuri poate fi dificilă vara."
+            ],
+            "en": [
+              "The roads are narrow and winding, drive carefully.",
+              "A small 4x4 or SUV is the ideal choice.",
+              "Refuel in the main town, gas stations are rare elsewhere.",
+              "Parking near the coves can be difficult in summer."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen fahren wir zum Nationalpark, wo die Nebelschwaden mystisch über die Hänge ziehen. Mittags besuchen wir den Venus-See und genießen das warme Wasser im Kontrast zum kühlen Regen. Nachmittags besichtigen wir Gadir und den Elefantenbogen bequem vom Auto aus, mit kurzen Stopps für Fotos. Der Tag endet entspannt beim Bagno Asciutto, der perfekten Regenflucht.",
+            "hu": "Reggel a Nemzeti Parkba hajtunk, ahol a ködfoltok misztikusan úsznak a lejtők felett. Délben a Vénusz-tónál élvezzük a meleg vizet a hűvös esővel szemben. Délután Gadirt és az Elefánt-sziklát kényelmesen, az autóból nézzük meg, csak rövid fotómegállókkal. A napot a Bagno Asciutto-nál zárjuk, ami tökéletes búvóhely az eső elől.",
+            "ro": "Dimineața conducem spre Parcul Național, unde ceața plutește mistic peste versanți. La prânz vizităm Lacul Venerei și ne bucurăm de apa caldă în contrast cu ploaia rece. După-amiaza vedem Gadir și Arcul Elefantului confortabil din mașină, cu scurte opriri foto. Ziua se termină relaxat la Bagno Asciutto, refugiul perfect contra ploii.",
+            "en": "Morning drive leads to the National Park, where mist floats mystically over the slopes. At noon, we visit Venus Lake to enjoy the warm water against the cool rain. In the afternoon, we see Gadir and the Elephant Arch comfortably from the car with short photo stops. The day ends relaxingly at Bagno Asciutto, the perfect rainy escape."
+          },
+          "stops": [
+            {
+              "name": "National Park",
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege können bei Regen schlammig sein.",
+                "hu": "A burkolatlan utak esőben sárosak lehetnek.",
+                "ro": "Drumurile neasfaltate pot fi noroioase pe ploaie.",
+                "en": "Unpaved roads can be muddy during rain; drive carefully."
+              }
+            },
+            {
+              "name": "Venus Mirror Lake",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Ufer, um den Laufweg im Regen zu verkürzen.",
+                "hu": "Parkolj közel a parthoz, hogy lerövidítsd a gyaloglást az esőben.",
+                "ro": "Parcați aproape de mal pentru a scurta mersul prin ploaie.",
+                "en": "Park close to the shore to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Gadir",
+              "tip_5lang": {
+                "de": "Ideal für ein kurzes Bad; man ist schnell wieder im warmen Auto.",
+                "hu": "Ideális egy gyors fürdőre; hamar visszaérsz a meleg autóba.",
+                "ro": "Ideal pentru o baie rapidă; reveniți repede în mașina caldă.",
+                "en": "Ideal for a quick soak; you can get back to the warm car fast."
+              }
+            },
+            {
+              "name": "Elephant Arch",
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus hat man auch bei Regen eine gute Sicht.",
+                "hu": "A parkolóból esőben is jó rálátás nyílik a sziklára.",
+                "ro": "Din parcare aveți o vedere bună chiar și pe ploaie.",
+                "en": "There is a good view from the parking area even in the rain."
+              }
+            },
+            {
+              "name": "Cala Levante",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen die Aussicht.",
+                "hu": "Heves esőben maradj az autóban és onnan nézd a kilátást.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină pentru priveliște.",
+                "en": "In heavy rain, stay in the car and enjoy the view from inside."
+              }
+            },
+            {
+              "name": "Bagno Asciutto",
+              "tip_5lang": {
+                "de": "Ein Muss bei Regen; natürliche Erdwärme zum Aufwärmen.",
+                "hu": "Esőben kötelező; természetes földhő a felmelegedéshez.",
+                "ro": "Obligatoriu pe ploaie; căldură naturală pentru încălzire.",
+                "en": "A must in the rain; natural geothermal heat to warm up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie bei starkem Regen enge, unbefestigte Seitenstraßen.",
+              "Die Scheibenwischer sollten in gutem Zustand sein.",
+              "Das Auto ist das sicherste Mittel gegen die plötzlichen Inselgüsse.",
+              "Haben Sie immer trockene Handtücher im Kofferraum."
+            ],
+            "hu": [
+              "Heves esőben kerüld a szűk, burkolatlan mellékutakat.",
+              "Ellenőrizd, hogy az ablaktörlők jó állapotban legyenek.",
+              "Az autó a legbiztosabb védelem a hirtelen záporok ellen.",
+              "Mindig tarts száraz törölközőt a csomagtartóban."
+            ],
+            "ro": [
+              "Evitați drumurile secundare neasfaltate pe ploaie torențială.",
+              "Asigurați-vă că ștergătoarele sunt în stare bună.",
+              "Mașina este cea mai sigură protecție contra averselor bruște.",
+              "Țineți mereu prosoape uscate în portbagaj."
+            ],
+            "en": [
+              "Avoid narrow, unpaved side roads during heavy rain.",
+              "Make sure your windshield wipers are in good condition.",
+              "The car is the safest shelter against sudden island downpours.",
+              "Always keep dry towels in the trunk of the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen führt uns mit dem Auto durch den ruhigen Nationalpark. Mittags erreichen wir den Venus-See, wo die kühle Luft den Thermaldampf verstärkt. Nachmittags geht es über Gadir zum Elefantenbogen, um die dramatische Küste im Winterlicht zu sehen. Wir beenden die Rundreise beim Bagno Asciutto, wo wir die wohlige Erdwärme ausgiebig genießen.",
+            "hu": "A téli reggelen az autóval a csendes Nemzeti Parkon át hajtunk. Délben a Vénusz-tóhoz érünk, ahol a hűvös levegő felerősíti a termálgőzt. Délután Gadir és az Elefánt-szikla következik, megcsodálva a drámai partot a téli fényben. A körutat a Bagno Asciutto-nál zárjuk, hosszan élvezve a kellemes földhőt.",
+            "ro": "Dimineața de iarnă ne poartă cu mașina prin Parcul Național liniștit. La prânz ajungem la Lacul Venerei, unde aerul rece intensifică aburii termali. După-amiaza trecem prin Gadir spre Arcul Elefantului pentru coasta dramatică în lumina iernii. Încheiem circuitul la Bagno Asciutto, savurând căldura pământului.",
+            "en": "A winter morning drive takes us through the quiet National Park. At noon, we reach Venus Lake, where the cool air intensifies the thermal steam. In the afternoon, we head via Gadir to the Elephant Arch to see the dramatic coast in winter light. We end the tour at Bagno Asciutto, thoroughly enjoying the cozy geothermal heat."
+          },
+          "stops": [
+            {
+              "name": "National Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht von den Aussichtspunkten.",
+                "hu": "Élvezd a tiszta kilátást a kilátópontokról.",
+                "ro": "Bucurați-vă de vederea clară din punctele de observație.",
+                "en": "Enjoy the clear views from the scenic viewpoints."
+              }
+            },
+            {
+              "name": "Venus Mirror Lake",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier wunderbar ruhig und friedlich.",
+                "hu": "Télen csodálatosan csendes és békés itt a hangulat.",
+                "ro": "Iarna este minunat de liniște și pace aici.",
+                "en": "It is wonderfully quiet and peaceful here during winter."
+              }
+            },
+            {
+              "name": "Gadir",
+              "tip_5lang": {
+                "de": "Das warme Wasser ist ein toller Kontrast zur kühlen Winterbrise.",
+                "hu": "A meleg víz remek kontraszt a hűvös téli széllel.",
+                "ro": "Apa caldă este un contrast grozav cu briza rece de iarnă.",
+                "en": "The warm water is a great contrast to the cool winter breeze."
+              }
+            },
+            {
+              "name": "Elephant Arch",
+              "tip_5lang": {
+                "de": "Perfekter Stopp für Fotos bei tiefstehender Wintersonne.",
+                "hu": "Tökéletes megálló fotózáshoz az alacsony téli napsütésben.",
+                "ro": "Oprire perfectă pentru poze în lumina joasă a soarelui.",
+                "en": "Perfect stop for photos in the low winter sunlight."
+              }
+            },
+            {
+              "name": "Cala Levante",
+              "tip_5lang": {
+                "de": "Beobachten Sie das raue Wintermeer sicher von der Küstenstraße.",
+                "hu": "Figyeld a vad téli tengert biztonságban a parti útról.",
+                "ro": "Observați marea agitată în siguranță de pe drumul de coastă.",
+                "en": "Watch the wild winter sea safely from the coastal road."
+              }
+            },
+            {
+              "name": "Bagno Asciutto",
+              "tip_5lang": {
+                "de": "Die Wärme der Höhle ist im Winter besonders wohltuend.",
+                "hu": "A barlang melege télen különösen jól esik.",
+                "ro": "Căldura peșterii este deosebit de plăcută iarna.",
+                "en": "The cave's warmth is especially pleasant during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Heizung Ihres Autos zwischen den Außenstopps.",
+              "Einige Bergstraßen können im Winter Schattenbereiche mit Reif haben.",
+              "Die Lichtverhältnisse für Fotos sind im Winter oft besser.",
+              "Tanken Sie rechtzeitig; im Winter haben manche Tankstellen kürzere Öffnungszeiten."
+            ],
+            "hu": [
+              "Használd az autó fűtését a szabadtéri megállók között.",
+              "Néhány hegyi út árnyékos részein zúzmara lehet télen.",
+              "A fényviszonyok a fotózáshoz télen gyakran kedvezőbbek.",
+              "Tankolj időben; télen néhány benzinkút hamarabb zárhat."
+            ],
+            "ro": [
+              "Folosiți încălzirea mașinii între opririle de afară.",
+              "Unele drumuri montane pot avea porțiuni umbrite cu chiciură.",
+              "Condițiile de lumină pentru poze sunt adesea mai bune iarna.",
+              "Alimentați din timp; iarna unele benzinării au program redus."
+            ],
+            "en": [
+              "Use your car's heater between the outdoor stops.",
+              "Some mountain roads may have frosty shaded patches in winter.",
+              "Light conditions for photography are often better in winter.",
+              "Refuel in time; some gas stations have shorter winter hours."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -962,6 +2050,326 @@
           "The bus lines connect the main villages (Borghi).",
           "Bus service is significantly reduced on Sundays."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Inselflughafen-Bus und die Linienbusse. Starten Sie im Zentrum beim Castello. Fahren Sie nach Scauri für ein Mittagessen am Hafen. Am Nachmittag bringt Sie der Bus zum Venus-See für ein entspannendes Bad. Kehren Sie rechtzeitig zum Hauptort zurück, um das abendliche Treiben zu genießen.",
+            "hu": "Használjuk a szigeti buszjáratokat a felfedezéshez. Kezdjünk a központban a várnál, majd utazzunk el Scauri kikötőjébe egy ebédre. Délután a busz elvisz a Vénusz-tóhoz egy frissítő fürdőre. Érjünk vissza időben a fővárosba, hogy bekapcsolódjunk az esti forgatagba.",
+            "ro": "Folosiți autobuzele locale pentru a explora insula. Începeți în centru la castel, apoi luați autobuzul spre portul Scauri pentru prânz. După-amiaza vizitați lacul Oglinda Venerei pentru o baie relaxantă. Reveniți în orașul principal pentru a savura atmosfera serii.",
+            "en": "Use the island's bus network to explore. Start at the Castle in the center, then take a bus to Scauri harbor for lunch. In the afternoon, the transit line takes you to Venus Lake for a relaxing dip. Return to the main town in time to enjoy the evening atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello Barbacane",
+                "hu": "Barbacane vár",
+                "ro": "Castelul Barbacane",
+                "en": "Barbacane Castle"
+              },
+              "tip_5lang": {
+                "de": "Vom Hafen aus leicht zu Fuß erreichbar.",
+                "hu": "A kikötőtől könnyen megközelíthető gyalog.",
+                "ro": "Ușor de accesat pe jos din zona portului.",
+                "en": "Easily accessible on foot from the harbor area."
+              }
+            },
+            {
+              "name": {
+                "de": "Scauri",
+                "hu": "Scauri",
+                "ro": "Scauri",
+                "en": "Scauri"
+              },
+              "tip_5lang": {
+                "de": "Zweiter wichtiger Hafen mit tollem Sonnenuntergang.",
+                "hu": "A sziget másik fontos kikötője, híres a naplementéjéről.",
+                "ro": "Al doilea port important, faimos pentru apusuri.",
+                "en": "The island's second port, famous for sunsets."
+              }
+            },
+            {
+              "name": {
+                "de": "Lago di Venere",
+                "hu": "Vénusz-tó",
+                "ro": "Lacul Venerei",
+                "en": "Venus Lake"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Busfahrplan für die Rückfahrt genau.",
+                "hu": "Pontosan ellenőrizd a buszmenetrendet a visszaúthoz.",
+                "ro": "Verificați cu atenție orarul autobuzelor pentru retur.",
+                "en": "Check the bus schedule carefully for your return."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantelleria Centro",
+                "hu": "Pantelleria központ",
+                "ro": "Centrul Pantelleria",
+                "en": "Pantelleria Center"
+              },
+              "tip_5lang": {
+                "de": "Ausklang am Hauptplatz der Stadt.",
+                "hu": "A nap zárása a város főterén.",
+                "ro": "Încheierea zilei în piața principală a orașului.",
+                "en": "Ending the day in the town's main square."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Couscous Pantesco",
+                "tip": "Fisch-Couscous mit frittiertem Gemüse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pantelleriai kuszkusz",
+                "tip": "Halas kuszkusz sült zöldségekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Couscous Pantesco",
+                "tip": "Couscous cu pește și legume prăjite."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pantesco Couscous",
+                "tip": "Fish couscous served with fried vegetables."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Scauri Porto",
+                "tip": "Ruhiger Hafenort.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Scauri kikötő",
+                "tip": "Csendes kikötői település.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Portul Scauri",
+                "tip": "Localitate portuară liniștită.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Scauri Harbor",
+                "tip": "Quiet port village.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Emporio del Gusto",
+                "tip": "Lokale Spezialitäten im Zentrum."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Emporio del Gusto",
+                "tip": "Helyi különlegességek a központban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Emporio del Gusto",
+                "tip": "Specialități locale în centrul orașului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Emporio del Gusto",
+                "tip": "Local specialties in the town center."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Busse fahren unregelmäßig, planen Sie Pufferzeiten ein.",
+              "Fahrkarten gibt es in Tabakläden (Tabacchi).",
+              "Die Linien verbinden die Hauptdörfer (Borghi).",
+              "Am Sonntag ist der Busverkehr stark eingeschränkt."
+            ],
+            "hu": [
+              "A buszok ritkán járnak, hagyj időt a várakozásra.",
+              "Jegyeket a dohányboltokban (Tabacchi) vehetsz.",
+              "A járatok az összes főbb falut (Borghi) összekötik.",
+              "Vasárnap a buszközlekedés korlátozott."
+            ],
+            "ro": [
+              "Autobuzele sunt rare, planificați marje de timp.",
+              "Biletele se cumpără de la tutungerii (Tabacchi).",
+              "Liniile fac legătura între principalele sate (Borghi).",
+              "Duminica serviciul de transport este foarte limitat."
+            ],
+            "en": [
+              "Buses are infrequent, so plan for extra waiting time.",
+              "Buy tickets at tobacco shops (Tabacchi).",
+              "The bus lines connect the main villages (Borghi).",
+              "Bus service is significantly reduced on Sundays."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen erkunden wir das Barbacane-Schloss, ein idealer Zufluchtsort im Zentrum. Mit dem Bus geht es mittags nach Scauri, wo wir das Hafenflair trotz Regen genießen. Nachmittags besuchen wir den Venus-See, dessen Thermaldampf im Regen mystisch wirkt. Wir kehren am Abend ins Zentrum zurück, um den Tag in einer gemütlichen Bar zu beenden.",
+            "hu": "Reggel a Barbacane-kastélyt fedezzük fel, ami ideális búvóhely a központban. Busszal megyünk délben Scauriba, ahol az eső ellenére is élvezzük a kikötői hangulatot. Délután a Vénusz-tóhoz látogatunk, melynek termálgőze misztikus az esőben. Este visszatérünk a központba, és egy hangulatos bárban zárjuk a napot.",
+            "ro": "Dimineața explorăm Castelul Barbacane, un refugiu ideal în centru. Cu autobuzul mergem la Scauri la prânz, savurând atmosfera portului în ciuda ploii. După-amiaza vizităm Lacul Venerei, ai cărui aburi termali par mistici în ploaie. Seara revenim în centru pentru a încheia ziua într-un bar primitor.",
+            "en": "Morning is spent exploring Barbacane Castle, an ideal shelter in the center. We take the bus to Scauri at noon, enjoying the harbor vibe despite the rain. In the afternoon, we visit Venus Lake, where thermal steam looks mystical in the rain. We return to the center in the evening to finish the day in a cozy bar."
+          },
+          "stops": [
+            {
+              "name": "Barbacane Castle",
+              "tip_5lang": {
+                "de": "Zentral gelegen und gut mit allen Buslinien erreichbar.",
+                "hu": "Központi fekvésű, minden buszjárattal jól elérhető.",
+                "ro": "Situat central și ușor accesibil cu toate liniile de autobuz.",
+                "en": "Centrally located and easily accessible by all bus lines."
+              }
+            },
+            {
+              "name": "Scauri",
+              "tip_5lang": {
+                "de": "Warten Sie auf den Bus in einer der überdachten Hafenbars.",
+                "hu": "Várj a buszra a kikötő egyik fedett bárjában.",
+                "ro": "Așteptați autobuzul într-unul din barurile acoperite din port.",
+                "en": "Wait for the bus in one of the covered harbor bars."
+              }
+            },
+            {
+              "name": "Venus Lake",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten genau, um nicht im Regen zu warten.",
+                "hu": "Pontosan ellenőrizd a visszaindulást, ne várj sokat az esőben.",
+                "ro": "Verificați orele de retur pentru a nu aștepta în ploaie.",
+                "en": "Check return times carefully to avoid waiting in the rain."
+              }
+            },
+            {
+              "name": "Pantelleria Center",
+              "tip_5lang": {
+                "de": "Viele Geschäfte und Cafés bieten Schutz vor dem Wetter.",
+                "hu": "Számos üzlet és kávézó kínál menedéket az időjárás elől.",
+                "ro": "Multe magazine și cafenele oferă adăpost contra vremii.",
+                "en": "Many shops and cafes provide shelter from the weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse fahren bei Regen seltener; planen Sie Pufferzeiten ein.",
+              "Die Haupthaltestelle im Zentrum bietet einen Unterstand.",
+              "Haben Sie den Fahrplan digital auf dem Handy parat.",
+              "Fragen Sie den Fahrer nach der nächsten Rückfahrt."
+            ],
+            "hu": [
+              "A buszok esőben ritkábban járhatnak; tervezz több időt.",
+              "A központi főmegálló rendelkezik fedett várakozóhellyel.",
+              "Legyen meg a menetrend digitálisan a telefonodon.",
+              "Kérdezd meg a sofőrt a következő visszajáratról."
+            ],
+            "ro": [
+              "Autobuzele pot circula mai rar pe ploaie; planificați timp extra.",
+              "Stația principală din centru are un adăpost pentru așteptare.",
+              "Aveți orarul în format digital pe telefon.",
+              "Întrebați șoferul despre următoarea cursă de întoarcere."
+            ],
+            "en": [
+              "Buses may run less frequently in rain; plan for extra time.",
+              "The main stop in the center has a covered waiting area.",
+              "Keep the bus schedule saved digitally on your phone.",
+              "Ask the driver about the next available return trip."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Wintermorgen besuchen wir das ruhige Barbacane-Schloss im Stadtkern. Mittags nehmen wir den Bus nach Scauri und beobachten das gemütliche Dorfleben abseits der Saison. Nachmittags lockt der Venus-See mit seiner natürlichen Wärme, die wir bis zur letzten Busfahrt genießen. Der Abend endet friedlich im Zentrum von Pantelleria bei einem warmen Getränk.",
+            "hu": "Téli reggelen a városközpontban található csendes Barbacane-kastélyt látogatjuk meg. Délben busszal megyünk Scauriba, megfigyelve a békés falusi életet a főszezonon kívül. Délután a Vénusz-tó természetes melege vonz minket az utolsó buszig. Az este békésen zárul Pantelleria központjában egy forró ital mellett.",
+            "ro": "În dimineața de iarnă vizităm Castelul Barbacane liniștit din centrul orașului. La prânz luăm autobuzul spre Scauri și observăm viața satului în afara sezonului. După-amiaza Lacul Venerei ne atrage cu căldura sa până la ultimul autobuz. Seara se încheie liniștit în centrul localității cu o băutură caldă.",
+            "en": "On a winter morning, we visit the quiet Barbacane Castle in the town center. At noon, we take the bus to Scauri and observe the peaceful village life out of season. In the afternoon, Venus Lake's natural warmth draws us in until the last bus ride. The evening ends peacefully in Pantelleria center with a warm drink."
+          },
+          "stops": [
+            {
+              "name": "Barbacane Castle",
+              "tip_5lang": {
+                "de": "Im Winter fast ohne andere Besucher; ein sehr privates Erlebnis.",
+                "hu": "Télen szinte látogatók nélkül; nagyon privát élmény.",
+                "ro": "Iarna aproape fără vizitatori; o experiență foarte privată.",
+                "en": "Almost no other visitors in winter; a very private experience."
+              }
+            },
+            {
+              "name": "Scauri",
+              "tip_5lang": {
+                "de": "Ideal, um das authentische Inselleben im Winter zu sehen.",
+                "hu": "Ideális az autentikus szigeti élet megismeréséhez télen.",
+                "ro": "Ideal pentru a vedea viața autentică de pe insulă iarna.",
+                "en": "Ideal for seeing authentic island life during the winter."
+              }
+            },
+            {
+              "name": "Venus Lake",
+              "tip_5lang": {
+                "de": "Die letzte Busverbindung ist im Winter oft früher am Nachmittag.",
+                "hu": "Az utolsó buszjárat télen gyakran korábban indul délután.",
+                "ro": "Ultima conexiune de autobuz e adesea mai devreme iarna.",
+                "en": "The last bus connection is often earlier in the afternoon in winter."
+              }
+            },
+            {
+              "name": "Pantelleria Center",
+              "tip_5lang": {
+                "de": "Die Cafés sind im Winter wichtige soziale Treffpunkte der Einheimischen.",
+                "hu": "A kávézók télen a helyiek fontos közösségi találkozóhelyei.",
+                "ro": "Cafenelele sunt iarna puncte sociale importante pentru localnici.",
+                "en": "Cafes are important social meeting spots for locals in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Winterfahrplan der Busse ist stark reduziert.",
+              "Verlassen Sie sich nicht auf Online-Daten; fragen Sie im Tabakladen nach.",
+              "Es fahren weniger Busse zu den touristischen Außenstellen.",
+              "Planen Sie Ihre Rückkehr vor Anbruch der Dunkelheit ein."
+            ],
+            "hu": [
+              "A buszok téli menetrendje jelentősen ritkább.",
+              "Ne hagyatkozz az online adatokra; kérdezd a trafikban.",
+              "Kevesebb busz jár a távolabbi turisztikai helyszínekre.",
+              "Tervezd a visszatérést még sötétedés előtt."
+            ],
+            "ro": [
+              "Orarul de iarnă al autobuzelor este mult redus.",
+              "Nu vă bazați pe datele online; întrebați la chioșcul de ziare.",
+              "Sunt mai puține autobuze spre locațiile turistice periferice.",
+              "Planificați-vă întoarcerea înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "The winter bus schedule is significantly reduced.",
+              "Don't rely solely on online data; ask at a tobacco shop.",
+              "Fewer buses run to the outlying tourist locations in winter.",
+              "Plan your return journey before it gets dark."
+            ]
+          }
+        }
       }
     }
   }

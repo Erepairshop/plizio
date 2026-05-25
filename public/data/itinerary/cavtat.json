@@ -291,6 +291,430 @@
           "The Sustjepan loop is almost entirely shaded.",
           "Combine Bukovac House and the Palace with a combo ticket."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Cavtat verzaubert durch seine Eleganz. Starten Sie an der belebten Promenade, tauchen Sie in die Kunst von Bukovac ein und steigen Sie zum Mausoleum auf dem Hügel hinauf. Der Spaziergang um die Halbinsel Sustjepan bietet die schönsten Ausblicke auf die Adria und Dubrovnik in der Ferne.",
+            "hu": "Cavtat elvarázsol eleganciájával. Kezdjen a nyüzsgő sétányon, merüljön el Bukovac művészetében, majd kapaszkodjon fel a dombtetőn lévő mauzóleumhoz. A Sustjepan-félsziget körüli séta kínálja a legszebb kilátást az Adriára és a távoli Dubrovnikra.",
+            "ro": "Cavtat încântă prin eleganța sa. Începeți pe faleza animată, scufundați-vă în arta lui Bukovac și urcați la mausoleul de pe deal. Plimbarea în jurul peninsulei Sustjepan oferă cele mai frumoase priveliști spre Marea Adriatică și Dubrovnik în depărtare.",
+            "en": "Cavtat enchants with its elegance. Start at the lively promenade, dive into the art of Bukovac, and climb up to the mausoleum on the hill. The walk around the Sustjepan peninsula offers the most beautiful views of the Adriatic and Dubrovnik in the distance."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Uferpromenade von Cavtat",
+                "hu": "Cavtati tengerparti sétány",
+                "ro": "Faleza din Cavtat",
+                "en": "Cavtat Waterfront"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie mit einem Espresso direkt am Meer.",
+                "hu": "Kezdjen egy eszpresszóval közvetlenül a tengerparton.",
+                "ro": "Începeți cu un espresso chiar pe malul mării.",
+                "en": "Start with an espresso right by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus Bukovac",
+                "hu": "Bukovac-ház",
+                "ro": "Casa Bukovac",
+                "en": "Bukovac House"
+              },
+              "tip_5lang": {
+                "de": "Geburtshaus des Malers Vlaho Bukovac.",
+                "hu": "Vlaho Bukovac festő szülőháza.",
+                "ro": "Casa natală a pictorului Vlaho Bukovac.",
+                "en": "Birthplace of the painter Vlaho Bukovac."
+              }
+            },
+            {
+              "name": {
+                "de": "Fürstenpalast Cavtat",
+                "hu": "Kormányzói palota",
+                "ro": "Palatul Rectorului",
+                "en": "Rector's Palace Cavtat"
+              },
+              "tip_5lang": {
+                "de": "Beherbergt die Sammlung von Baltazar Bogišić.",
+                "hu": "Itt található Baltazar Bogišić gyűjteménye.",
+                "ro": "Găzduiește colecția lui Baltazar Bogišić.",
+                "en": "Houses the collection of Baltazar Bogišić."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Nikolaus",
+                "hu": "Szent Miklós-templom",
+                "ro": "Biserica Sf. Nicolae",
+                "en": "Church of St. Nicholas"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Pinakothek neben der Kirche.",
+                "hu": "Látogassa meg a templom melletti képtárat.",
+                "ro": "Vizitați pinacoteca de lângă biserică.",
+                "en": "Visit the art gallery next to the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Mausoleum der Familie Račić",
+                "hu": "Račić-család mauzóleuma",
+                "ro": "Mausoleul familiei Račić",
+                "en": "Račić Family Mausoleum"
+              },
+              "tip_5lang": {
+                "de": "Meisterwerk von Ivan Meštrović aus weißem Stein.",
+                "hu": "Ivan Meštrović remekműve fehér kőből.",
+                "ro": "Capodoperă a lui Ivan Meštrović din piatră albă.",
+                "en": "Masterpiece by Ivan Meštrović made of white stone."
+              }
+            },
+            {
+              "name": {
+                "de": "Franziskanerkloster Maria im Schnee",
+                "hu": "Havas Boldogasszony ferences kolostor",
+                "ro": "Mănăstirea Franciscană Sf. Maria a Zăpezii",
+                "en": "Franciscan Monastery of Our Lady of the Snow"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöner Kreuzgang und Renaissance-Altar.",
+                "hu": "Gyönyörű kerengő és reneszánsz oltár.",
+                "ro": "Cloister superb și altar renascentist.",
+                "en": "Beautiful cloister and Renaissance altar."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfad der Halbinsel Sustjepan",
+                "hu": "Sustjepan-félsziget ösvénye",
+                "ro": "Traseul Peninsulei Sustjepan",
+                "en": "Sustjepan Peninsula Path"
+              },
+              "tip_5lang": {
+                "de": "Leichter Rundweg mit Blick auf Dubrovnik.",
+                "hu": "Könnyű körút kilátással Dubrovnikra.",
+                "ro": "Traseu circular ușor cu vedere spre Dubrovnik.",
+                "en": "Easy circular path with views of Dubrovnik."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Frischer Fisch",
+                "tip": "Restaurant Bugenvila bietet moderne Interpretationen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Friss halételek",
+                "tip": "A Bugenvila étterem modern interpretációkat kínál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pește proaspăt",
+                "tip": "Restaurantul Bugenvila oferă interpretări moderne."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fresh Fish",
+                "tip": "Restaurant Bugenvila offers modern interpretations."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Friedhof Sv. Roko",
+                "tip": "Stiller Ort beim Mausoleum mit Panoramablick.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szent Rókus temető",
+                "tip": "Csendes hely a mauzóleumnál, panorámás kilátással.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cimitirul Sf. Roko",
+                "tip": "Loc liniștit lângă mausoleu cu vedere panoramică.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "St. Roch Cemetery",
+                "tip": "Quiet spot by the mausoleum with panoramic views.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Konavle Stickerei",
+                "tip": "Traditionelle Handarbeit in den Läden der Altstadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konavlei hímzés",
+                "tip": "Hagyományos kézimunka az óvárosi boltokban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Broderie Konavle",
+                "tip": "Lucru manual tradițional în magazinele din orașul vechi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konavle Embroidery",
+                "tip": "Traditional handicraft in the old town shops."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Aufstieg zum Mausoleum ist steil, aber lohnenswert.",
+              "Besuchen Sie Cavtat am frühen Vormittag, bevor die Boote aus Dubrovnik kommen.",
+              "Die Sustjepan-Runde ist fast komplett schattig.",
+              "Kombinieren Sie Bukovac-Haus und Palast mit einem Kombiticket."
+            ],
+            "hu": [
+              "A mauzóleumhoz vezető út meredek, de megéri.",
+              "Látogasson el Cavtatba kora délelőtt, mielőtt megérkeznek a dubrovniki hajók.",
+              "A Sustjepan-körút szinte végig árnyékos.",
+              "Kombinált jeggyel látogassa meg a Bukovac-házat és a palotát."
+            ],
+            "ro": [
+              "Urcarea la mausoleu este abruptă, dar merită.",
+              "Vizitați Cavtat dimineața devreme, înainte de sosirea bărcilor din Dubrovnik.",
+              "Traseul Sustjepan este aproape complet umbrit.",
+              "Combinați Casa Bukovac și Palatul cu un bilet comun."
+            ],
+            "en": [
+              "The climb to the mausoleum is steep but worth it.",
+              "Visit Cavtat in the early morning before the boats from Dubrovnik arrive.",
+              "The Sustjepan loop is almost entirely shaded.",
+              "Combine Bukovac House and the Palace with a combo ticket."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am nebligen Ufer von Cavtat weht eine frische Brise, während die Palmen im Regen tanzen. Mittags bieten das Bukovac-Haus und der Rektorenpalast trockene Zuflucht voller Kultur. Nachmittags glänzt der weiße Stein der Kirche St. Nikolaus im nassen Licht. Abends duften die Pinien am Sustjepan-Pfad besonders intensiv unter dem Regenschutz.",
+            "hu": "Reggel a párás parton a pálmák alatt keresünk menedéket, miközben az Adria színe mélyszürkévé válik. Délben a Bukovac-ház és a Rektori palota belső terei nyújtanak száraz, kulturális élményt. Délután a Szent Miklós templom csendjében pihenünk meg. Estére a Sustjepan-félsziget fenyőinek illata felerősödik az esőben, misztikus hangulatot árasztva.",
+            "ro": "Dimineața pe faleza cețoasă din Cavtat, briza aduce stropi de ploaie peste palmierii de pe mal. La prânz, Casa Bukovac și Palatul Rectorului oferă adăpost cald și incursiuni în istoria locală. După-amiaza, piatra albă a bisericii Sf. Nicolae strălucește sub cerul plumburiu. Seara, poteca de pe peninsula Sustjepan devine o oază parfumată de pini umezi.",
+            "en": "Morning on the misty waterfront sees the palms swaying in the rain as the Adriatic turns deep grey. At noon, the Bukovac House and Rector's Palace provide dry, cultural sanctuaries. In the afternoon, the white stone of St. Nicholas Church gleams in the wet light. By evening, the scent of damp pines on the Sustjepan path intensifies under the raindrops."
+          },
+          "stops": [
+            {
+              "name": "Cavtat Waterfront",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Markisen der Cafés als Regenschutz.",
+                "hu": "Használja a kávézók napellenzőit esernyő helyett.",
+                "ro": "Folosiți copertinele cafenelelor pentru a rămâne uscați.",
+                "en": "Use the cafe awnings as temporary rain shelters."
+              }
+            },
+            {
+              "name": "Bukovac House",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den stärksten Regen im Museum zu überdauern.",
+                "hu": "Ideális helyszín a nagyobb záporok átvészelésére.",
+                "ro": "Locul perfect pentru a aștepta trecerea ploii în interior.",
+                "en": "Perfect indoor spot to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Rector's Palace Cavtat",
+              "tip_5lang": {
+                "de": "Bewundern Sie die historischen Exponate im trockenen Innenraum.",
+                "hu": "Csodálja meg a kiállítást a száraz belső termekben.",
+                "ro": "Admirați exponatele în interiorul uscat al palatului.",
+                "en": "Admire the exhibits within the dry palace interior."
+              }
+            },
+            {
+              "name": "Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Die Ruhe im Inneren ist bei Regen besonders stimmungsvoll.",
+                "hu": "A belső csend esőben még meghittebb hangulatot áraszt.",
+                "ro": "Liniștea din interior este deosebit de plăcută pe ploaie.",
+                "en": "The interior silence is especially atmospheric during rain."
+              }
+            },
+            {
+              "name": "Račić Family Mausoleum",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Hügel, die Steinstufen sind bei Nässe glatt.",
+                "hu": "Vigyázat a dombon, a kőlépcsők esőben nagyon csúsznak.",
+                "ro": "Atenție pe deal, treptele de piatră sunt alunecoase.",
+                "en": "Caution on the hill, the stone steps are slippery when wet."
+              }
+            },
+            {
+              "name": "Franciscan Monastery of Our Lady of the Snow",
+              "tip_5lang": {
+                "de": "Der Kreuzgang bietet einen überdachten Weg zum Gehen.",
+                "hu": "A kolostor kerengője fedett sétalehetőséget biztosít.",
+                "ro": "Cloastrul oferă un culoar acoperit pentru vizitare.",
+                "en": "The cloister provides a covered walkway for visitors."
+              }
+            },
+            {
+              "name": "Sustjepan Peninsula Path",
+              "tip_5lang": {
+                "de": "Die Pinien bieten natürlichen Schutz vor leichtem Nieselregen.",
+                "hu": "A fenyők természetes védelmet nyújtanak szemerkélő esőben.",
+                "ro": "Pinii oferă protecție naturală împotriva burniței.",
+                "en": "The pine trees offer natural cover from light drizzle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Kalksteinpflaster in der Altstadt werden bei Nässe extrem rutschig.",
+              "Tragen Sie wasserfeste Schuhe mit gutem Profil für die Hügelwege.",
+              "Das Bukovac-Haus ist montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Kaufhäuser für Regenschirme gibt es am Busbahnhof.",
+              "Genießen Sie den Blick auf das stürmische Meer von einem verglasten Café."
+            ],
+            "hu": [
+              "Az óváros mészkő burkolata vizesen rendkívül csúszóssá válik.",
+              "Viseljen jó tapadású, vízálló cipőt a domboldali szakaszokon.",
+              "A Bukovac-ház hétfőnként zárva tarthat, ellenőrizze előre.",
+              "Esernyőt a buszpályaudvar környéki kisboltokban vehet.",
+              "Figyelje a viharos tengert egy üvegezett teraszú kávézóból."
+            ],
+            "ro": [
+              "Pavajul de calcar din centrul vechi devine extrem de alunecos.",
+              "Purtați încălțăminte impermeabilă cu aderență bună pentru dealuri.",
+              "Casa Bukovac poate fi închisă lunea, verificați programul.",
+              "Puteți cumpăra umbrele de la magazinele de lângă autogară.",
+              "Admirați marea agitată dintr-o cafenea cu terasă vitrată."
+            ],
+            "en": [
+              "The limestone paving in the old town gets extremely slippery.",
+              "Wear waterproof shoes with good grip for the hillside paths.",
+              "Bukovac House is often closed on Mondays, check before visiting.",
+              "Umbrellas can be purchased at small shops near the bus station.",
+              "Enjoy the view of the stormy sea from a glass-enclosed cafe."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens liegt eine kristallklare Kälte über der Bucht von Cavtat, die Sicht auf Dubrovnik ist perfekt. Mittags wärmt die tiefstehende Wintersonne die Fassaden des Rektorenpalastes. Nachmittags ist die Atmosphäre im Mausoleum still und andächtig ohne die Sommermassen. Abends versinkt die Sonne schon früh in glühendem Orange hinter der Sustjepan-Halbinsel.",
+            "hu": "Reggel kristálytiszta hideg ül a Cavtati-öböl felett, a látótávolság Dubrovnik felé tökéletes. Délben a téli nap alacsony szögből világítja meg a paloták homlokzatát. Délután a mauzóleum környéke csendes és elmélyült a tömegek nélkül. Este a nap már korán, izzó narancssárgában bukik le a Sustjepan-félsziget mögött.",
+            "ro": "Dimineața, un frig cristalin plutește peste golful Cavtat, oferind o vizibilitate perfectă spre Dubrovnik. La prânz, soarele de iarnă încălzește blând fațadele Palatului Rectorului. După-amiaza, atmosfera la Mausoleu este liniștită, fără mulțimile de vară. Seara, soarele apune devreme într-un portocaliu aprins după peninsula Sustjepan.",
+            "en": "Morning brings a crystal-clear chill over Cavtat Bay, offering perfect visibility towards Dubrovnik. At noon, the low winter sun gently warms the facades of the Rector's Palace. In the afternoon, the Mausoleum area is silent and contemplative without summer crowds. By evening, the sun sets early in a glowing orange behind the Sustjepan peninsula."
+          },
+          "stops": [
+            {
+              "name": "Cavtat Waterfront",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Luft und den Blick bis nach Dubrovnik.",
+                "hu": "Élvezze a tiszta levegőt és a kilátást egészen Dubrovnikig.",
+                "ro": "Bucurați-vă de aerul curat și vederea spre Dubrovnik.",
+                "en": "Enjoy the crisp air and the clear view to Dubrovnik."
+              }
+            },
+            {
+              "name": "Bukovac House",
+              "tip_5lang": {
+                "de": "Ein warmer Rückzugsort, um Kunst in aller Ruhe zu genießen.",
+                "hu": "Meleg menedék, ahol nyugodtan mélyedhet el a művészetben.",
+                "ro": "Un refugiu cald pentru a savura arta în liniște totală.",
+                "en": "A warm retreat to enjoy art in complete tranquility."
+              }
+            },
+            {
+              "name": "Rector's Palace Cavtat",
+              "tip_5lang": {
+                "de": "Sonnige Plätze vor dem Palast fangen die Mittagswärme ein.",
+                "hu": "A palota előtti napos padok felfogják a déli meleget.",
+                "ro": "Băncile însorite din fața palatului captează căldura amiezii.",
+                "en": "Sunny benches in front of the palace catch the midday warmth."
+              }
+            },
+            {
+              "name": "Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Der Innenraum bietet Schutz vor dem kalten Bura-Wind.",
+                "hu": "A belső tér védelmet nyújt a hideg bóra szél ellen.",
+                "ro": "Interiorul oferă protecție împotriva vântului rece Bura.",
+                "en": "The interior provides shelter from the cold Bura wind."
+              }
+            },
+            {
+              "name": "Račić Family Mausoleum",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 16 Uhr für das beste Licht.",
+                "hu": "Látogasson el ide 16 óra előtt a legszebb fényekért.",
+                "ro": "Vizitați acest loc înainte de ora 16 pentru cea mai bună lumină.",
+                "en": "Visit before 4 PM to catch the best winter light."
+              }
+            },
+            {
+              "name": "Franciscan Monastery of Our Lady of the Snow",
+              "tip_5lang": {
+                "de": "Der Garten ist auch im Winter grün und windgeschützt.",
+                "hu": "A kert télen is zöldell és védett a széltől.",
+                "ro": "Grădina rămâne verde și protejată de vânt chiar și iarna.",
+                "en": "The garden stays green and sheltered from wind in winter."
+              }
+            },
+            {
+              "name": "Sustjepan Peninsula Path",
+              "tip_5lang": {
+                "de": "Perfekter Ort für den frühen Sonnenuntergang gegen 16:30 Uhr.",
+                "hu": "Tökéletes helyszín a korai naplemente megtekintéséhez.",
+                "ro": "Loc perfect pentru apusul timpuriu, în jurul orei 16:30.",
+                "en": "Ideal spot for the early sunset around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist im Winter bereits gegen 16:30 Uhr.",
+              "Der kalte Bura-Wind kann die gefühlte Temperatur stark senken.",
+              "Viele Cafés am Hafen haben nur im Innenbereich geöffnet.",
+              "Tragen Sie Schichten, da es in der Sonne warm, im Schatten kalt ist.",
+              "Die Museen haben im Winter oft verkürzte Öffnungszeiten."
+            ],
+            "hu": [
+              "A naplemente télen már délután fél 5 körül bekövetkezik.",
+              "A hideg bóra szél jelentősen csökkentheti a hőérzetet.",
+              "A kikötői kávézók többsége csak beltéren üzemel ilyenkor.",
+              "Öltözzön rétegesen, a napon meleg, az árnyékban fagyos az idő.",
+              "A múzeumok télen gyakran rövidített nyitvatartással működnek."
+            ],
+            "ro": [
+              "Apusul de soare are loc deja în jurul orei 16:30 iarna.",
+              "Vântul rece Bura poate scădea drastic temperatura resimțită.",
+              "Multe cafenele din port funcționează doar în interior.",
+              "Îmbrăcați-vă în straturi: e cald la soare, dar frig la umbră.",
+              "Muzeele au adesea program redus pe timpul iernii."
+            ],
+            "en": [
+              "Sunset occurs as early as 4:30 PM during winter months.",
+              "The cold Bura wind can significantly lower perceived temperature.",
+              "Most harbor cafes operate only indoors during this season.",
+              "Dress in layers; it is warm in the sun but freezing in shade.",
+              "Museums often have shorter opening hours in the winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -530,6 +954,366 @@
           "A mountain bike is better because of the roots.",
           "Take enough water, there are no kiosks on Rat."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die beiden Halbinseln von Cavtat mit dem Rad. Der Weg führt unter duftenden Pinien entlang der Küste von Rat bis zur ruhigen Tiha-Bucht, ideal für Naturliebhaber, die sich fernab der Massen bewegen möchten.",
+            "hu": "Fedezze fel Cavtat két félszigetét kerékpárral. Az út illatos fenyők alatt vezet a Rat-part mentén egészen a csendes Tiha-öbölig, ideális a tömegtől távolodni vágyó természetbarátoknak.",
+            "ro": "Explorați cele două peninsule ale Cavtatului cu bicicleta. Drumul duce pe sub pinii parfumați de-a lungul coastei Rat până la liniștitul golf Tiha, ideal pentru iubitorii de natură care vor să evite mulțimile.",
+            "en": "Explore the two peninsulas of Cavtat by bike. The path leads under fragrant pines along the Rat coast to the quiet Tiha Bay, ideal for nature lovers looking to move away from the crowds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Uferpromenade",
+                "hu": "Tengerparti sétány",
+                "ro": "Faleză",
+                "en": "Waterfront"
+              },
+              "tip_5lang": {
+                "de": "Flacher Start entlang des Hafens.",
+                "hu": "Lapos indítás a kikötő mentén.",
+                "ro": "Pornire plană de-a lungul portului.",
+                "en": "Flat start along the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Halbinsel Rat Pfad",
+                "hu": "Rat-félsziget ösvénye",
+                "ro": "Traseul Peninsulei Rat",
+                "en": "Rat Peninsula Path"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöne Wege unter Pinien.",
+                "hu": "Gyönyörű utak fenyők alatt.",
+                "ro": "Trasee superbe pe sub pini.",
+                "en": "Beautiful paths under pines."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologische Stätte Rat",
+                "hu": "Rat régészeti lelőhely",
+                "ro": "Situl arheologic Rat",
+                "en": "Rat Archaeological Site"
+              },
+              "tip_5lang": {
+                "de": "Überreste antiker Siedlungen.",
+                "hu": "Ősi települések maradványai.",
+                "ro": "Rămășițe ale așezărilor antice.",
+                "en": "Remains of ancient settlements."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiha Bucht",
+                "hu": "Tiha-öböl",
+                "ro": "Golful Tiha",
+                "en": "Tiha Bay"
+              },
+              "tip_5lang": {
+                "de": "Ruhigere Bucht perfekt für eine Pause.",
+                "hu": "Csendesebb öböl, tökéletes egy pihenőhöz.",
+                "ro": "Golf mai liniștit perfect pentru o pauză.",
+                "en": "Quieter bay perfect for a break."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Rochus",
+                "hu": "Szent Rókus-templom",
+                "ro": "Biserica Sf. Rochus",
+                "en": "Church of St. Roch"
+              },
+              "tip_5lang": {
+                "de": "Kleine Kirche mit tollem Ausblick.",
+                "hu": "Kicsi templom nagyszerű kilátással.",
+                "ro": "Biserică mică cu o vedere excelentă.",
+                "en": "Small church with a great view."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Hausgemachtes Eis",
+                "tip": "Gönnen Sie sich eine Kugel bei den Eisdielen am Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Házi fagylalt",
+                "tip": "Kényeztesse magát egy gombóccal a kikötői fagyizóknál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Înghețată de casă",
+                "tip": "Răsfățați-vă cu o cupă la gelateriile din port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Homemade Ice Cream",
+                "tip": "Treat yourself to a scoop at the ice cream parlors by the harbor."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Rat Halbinsel",
+                "tip": "Viele einsame Felsplateaus zum Entspannen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rat-félsziget",
+                "tip": "Számos elszigetelt sziklaplató a kikapcsolódáshoz.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Peninsula Rat",
+                "tip": "Multe platouri stâncoase izolate pentru relaxare.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Rat Peninsula",
+                "tip": "Many isolated rocky plateaus for relaxing.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Kroatisches Olivenöl",
+                "tip": "Direkt bei lokalen Produzenten in Cavtat."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Horvát olívaolaj",
+                "tip": "Közvetlenül a helyi termelőktől Cavtatban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline croat",
+                "tip": "Direct de la producătorii locali din Cavtat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Croatian Olive Oil",
+                "tip": "Directly from local producers in Cavtat."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Wege auf den Halbinseln sind autofrei.",
+              "Achten Sie auf Badegäste, die den Weg kreuzen.",
+              "Ein Mountainbike ist wegen der Wurzeln besser.",
+              "Genug Wasser mitnehmen, es gibt keine Kioske auf Rat."
+            ],
+            "hu": [
+              "A félszigeteken az utak autómentesek.",
+              "Ügyeljen az utat keresztező fürdőzőkre.",
+              "A gyökerek miatt a hegyi kerékpár jobb választás.",
+              "Vigyen elég vizet, Rat területén nincsenek büfék."
+            ],
+            "ro": [
+              "Drumurile de pe peninsule sunt fără mașini.",
+              "Atenție la persoanele care merg la plajă și traversează drumul.",
+              "O bicicletă mountain bike este mai bună din cauza rădăcinilor.",
+              "Luați destulă apă, nu există chioșcuri pe Rat."
+            ],
+            "en": [
+              "The paths on the peninsulas are car-free.",
+              "Watch out for beachgoers crossing the path.",
+              "A mountain bike is better because of the roots.",
+              "Take enough water, there are no kiosks on Rat."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens auf den nassen Wegen der Rat-Halbinsel spritzt das Wasser unter den Reifen hervor. Mittags bietet die Bucht von Tiha einen grauen, aber majestätischen Anblick auf die aufgewühlte Adria. Nachmittags ist die Fahrt zur St. Rochus Kirche kurz und erfrischend im kühlen Regen. Ein Tag für echte Rad-Abenteurer in Cavtat.",
+            "hu": "Reggel a Rat-félsziget vizes ösvényein a kerekek alól felverődő víz kísér minket. Délben a Tiha-öböl szürke, de fenséges látványt nyújt a felkavart Adriával. Délután a Szent Rókus templom felé vezető út rövid és frissítő a hűvös esőben. Ez a nap az igazi kerékpáros kalandoroké Cavtatban.",
+            "ro": "Dimineața pe potecile ude ale peninsulei Rat, apa sare de sub roți în timp ce pedalăm. La prânz, golful Tiha oferă o vedere gri, dar maiestuoasă asupra Adriaticii agitate. După-amiaza, drumul spre biserica Sf. Roch este scurt și răcoritor sub ploaia rece. O zi pentru adevărații aventurieri pe bicicletă.",
+            "en": "Morning on the wet paths of the Rat peninsula sees water splashing from under the tires. At noon, Tiha Bay offers a grey but majestic view of the churning Adriatic. In the afternoon, the ride towards St. Roch Church is short and refreshing in the cool rain. A day for true cycling adventurers in Cavtat."
+          },
+          "stops": [
+            {
+              "name": "Waterfront",
+              "tip_5lang": {
+                "de": "Vorsicht beim Losfahren auf dem glatten Steinpflaster.",
+                "hu": "Induláskor legyen óvatos a csúszós kőburkolaton.",
+                "ro": "Atenție la plecare pe pavajul de piatră alunecos.",
+                "en": "Be careful when starting off on the slippery stone paving."
+              }
+            },
+            {
+              "name": "Rat Peninsula Path",
+              "tip_5lang": {
+                "de": "Pfützen können tief sein, fahren Sie vorsichtig auf Schotter.",
+                "hu": "A tócsák mélyek lehetnek, óvatosan hajtson a murvás úton.",
+                "ro": "Bălțile pot fi adânci, pedalați cu grijă pe pietriș.",
+                "en": "Puddles can be deep, cycle carefully on the gravel paths."
+              }
+            },
+            {
+              "name": "Rat Archaeological Site",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Unterstellen unter Bäumen möglich.",
+                "hu": "Rövid megálló és menedék keresése a fák alatt lehetséges.",
+                "ro": "Scurt popas sub copaci pentru a vă adăposti de ploaie.",
+                "en": "Brief stop under trees possible to shelter from rain."
+              }
+            },
+            {
+              "name": "Tiha Bay",
+              "tip_5lang": {
+                "de": "Der Boden ist hier oft schlammig nach starkem Regen.",
+                "hu": "A talaj itt gyakran sáros a heves esőzések után.",
+                "ro": "Solul este adesea noroios aici după ploi abundente.",
+                "en": "The ground here is often muddy after heavy rain."
+              }
+            },
+            {
+              "name": "Church of St. Roch",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach der Kirche ab.",
+                "hu": "Parkolja le a kerékpárt a templom előtetője alatt.",
+                "ro": "Parcați bicicleta sub streașina bisericii pentru protecție.",
+                "en": "Park your bike under the church eaves for protection."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, da der Bremsweg auf nasser Straße länger ist.",
+              "Tragen Sie eine vollflächige Regenjacke und wasserdichte Hosen.",
+              "Vermeiden Sie riskante Kurven auf den schmalen Küstenpfaden.",
+              "Nutzen Sie Schutzbleche, um Schlammspritzer zu minimieren.",
+              "Suchen Sie bei Gewitter sofort festen Unterschlupf."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, vizes úton hosszabb a fékút.",
+              "Viseljen teljes esőruházatot és vízálló nadrágot.",
+              "Kerülje a kockázatos kanyarokat a szűk parti ösvényeken.",
+              "Használjon sárvédőt a felcsapódó sár minimalizálására.",
+              "Vihar esetén azonnal keressen szilárd menedéket."
+            ],
+            "ro": [
+              "Verificați frânele, distanța de frânare crește pe drum ud.",
+              "Purtați o jachetă de ploaie completă și pantaloni impermeabili.",
+              "Evitați virajele riscante pe potecile înguste de coastă.",
+              "Folosiți aripi la roți pentru a minimiza stropii de noroi.",
+              "Căutați adăpost imediat în caz de furtună cu descărcări electrice."
+            ],
+            "en": [
+              "Check your brakes as stopping distance is longer on wet roads.",
+              "Wear a full raincoat and waterproof trousers.",
+              "Avoid risky turns on the narrow coastal paths.",
+              "Use mudguards to minimize splashes and dirt.",
+              "Seek solid shelter immediately in case of thunderstorms."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht ein scharfer Wind um die Rat-Halbinsel, der den Radfahrer hellwach macht. Mittags glänzt die Adria in der Tiha-Bucht in einem tiefen Blau, das nur der Winter kennt. Nachmittags ist die Auffahrt zur St. Rochus Kirche anstrengend, aber die Aussicht belohnt jede Mühe. Abends kehrt man mit roten Wangen in die warme Altstadt zurück.",
+            "hu": "Reggel éles szél fúj a Rat-félsziget körül, ami azonnal felébreszti a kerékpárost. Délben az Adria mélykék színe a Tiha-öbölben csak a télre jellemző ragyogással bír. Délután a Szent Rókus templomhoz vezető emelkedő izzasztó, de a kilátás mindenért kárpótol. Este piros pozsgás arccal térhetünk vissza a meleg óvárosba.",
+            "ro": "Dimineața, un vânt tăios suflă în jurul peninsulei Rat, trezind instantaneu ciclistul. La prânz, Adriatica din golful Tiha strălucește într-un albastru profund, specific iernii. După-amiaza, urcarea spre biserica Sf. Roch este solicitantă, dar priveliștea merită efortul. Seara, ne întoarcem cu obrajii roșii în centrul vechi primitor.",
+            "en": "Morning brings a sharp wind around the Rat peninsula, keeping the cyclist alert and awake. At noon, the Adriatic in Tiha Bay shines in a deep blue unique to the winter season. In the afternoon, the climb to St. Roch Church is taxing, but the view rewards every effort. By evening, return with rosy cheeks to the warm old town."
+          },
+          "stops": [
+            {
+              "name": "Waterfront",
+              "tip_5lang": {
+                "de": "Starten Sie zügig, um die Körperwärme aufzubauen.",
+                "hu": "Induljon lendületesen, hogy hamar bemelegedjen a teste.",
+                "ro": "Porniți energic pentru a vă încălzi rapid corpul.",
+                "en": "Start briskly to build up body heat quickly."
+              }
+            },
+            {
+              "name": "Rat Peninsula Path",
+              "tip_5lang": {
+                "de": "Der Wind kann an den exponierten Stellen sehr stark sein.",
+                "hu": "A szél a nyitottabb szakaszokon nagyon erős lehet.",
+                "ro": "Vântul poate fi foarte puternic în zonele expuse.",
+                "en": "Wind can be very strong in the exposed coastal sections."
+              }
+            },
+            {
+              "name": "Rat Archaeological Site",
+              "tip_5lang": {
+                "de": "Kurze Pause in der Sonne nutzen, um nicht auszukühlen.",
+                "hu": "Használja ki a napsütést a pihenőnél, ne hagyja kihűlni magát.",
+                "ro": "Folosiți pauza la soare pentru a nu vă răci corpul.",
+                "en": "Use the sunny break to keep your body from cooling down."
+              }
+            },
+            {
+              "name": "Tiha Bay",
+              "tip_5lang": {
+                "de": "Die Luft ist hier im Winter besonders klar und frisch.",
+                "hu": "A levegő itt télen különösen tiszta és frissítő.",
+                "ro": "Aerul este extrem de curat și revigorant aici iarna.",
+                "en": "The air is exceptionally clear and fresh here in winter."
+              }
+            },
+            {
+              "name": "Church of St. Roch",
+              "tip_5lang": {
+                "de": "Bester Aussichtspunkt für das klare Winterpanorama.",
+                "hu": "A legjobb kilátópont a tiszta téli panoráma megtekintéséhez.",
+                "ro": "Cel mai bun punct de observație pentru panorama clară de iarnă.",
+                "en": "Best vantage point for the clear winter panorama."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung und gute Handschuhe gegen die Kälte.",
+              "Die tiefstehende Sonne kann beim Fahren stark blenden.",
+              "Achten Sie auf Raureif oder Glätte im Schatten der Pinienwälder.",
+              "Die Tage sind kurz, sorgen Sie für funktionierendes Licht am Rad.",
+              "Ein heißer Tee in der Thermoskanne ist der beste Begleiter."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot és jó kesztyűt a hideg ellen.",
+              "Az alacsonyan járó nap vezetés közben erősen vakíthat.",
+              "Ügyeljen a dérre vagy csúszós foltokra a fenyvesek árnyékában.",
+              "A nappalok rövidek, legyen jó világítás a kerékpáron.",
+              "Egy forró tea a termoszhajlatban a legjobb útitárs."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt și mănuși bune contra frigului.",
+              "Soarele de joasă altitudine poate fi orbitor în timp ce pedalați.",
+              "Atenție la brumă sau porțiuni înghețate în umbra pădurilor de pini.",
+              "Zilele sunt scurte, asigurați-vă că aveți lumini funcționale.",
+              "Un ceai fierbinte în termos este cel mai bun companion."
+            ],
+            "en": [
+              "Wear windproof clothing and good gloves against the chill.",
+              "The low winter sun can be very blinding while riding.",
+              "Watch out for frost or slippery patches in pine forest shadows.",
+              "Days are short, so ensure your bike lights are working properly.",
+              "A hot tea in a thermos is your best companion for the ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -769,6 +1553,366 @@
           "Sokol Grad offers a great panoramic view of the valley.",
           "Drive carefully on the winding mountain roads."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Das Auto erlaubt Ihnen den Besuch des Konavle-Tals. Nach Cavtat erkunden Sie die Festung Sokol Grad und die kühlen Quellen der Ljututa. Ein Highlight ist der Pasjača Strand, der spektakulär unter einer Klippe liegt.",
+            "hu": "Az autó lehetővé teszi a Konavle-völgy meglátogatását. Cavtat után fedezze fel Sokol Grad erődjét és a Ljututa hűvös forrásait. Az út fénypontja a Pasjača strand, amely látványosan egy sziklafal alatt fekszik.",
+            "ro": "Mașina vă permite să vizitați valea Konavle. După Cavtat, explorați cetatea Sokol Grad și izvoarele reci ale Ljututa. Un punct culminant este plaja Pasjača, situată spectaculos sub o stâncă.",
+            "en": "The car allows you to visit the Konavle Valley. After Cavtat, explore the Sokol Grad fortress and the cool springs of Ljututa. A highlight is Pasjača Beach, spectacularly located beneath a cliff."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cavtat Zentrum",
+                "hu": "Cavtat központ",
+                "ro": "Centrul Cavtat",
+                "en": "Cavtat Center"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem großen Parkplatz am Ortseingang.",
+                "hu": "Parkoljon a város bejáratánál lévő nagy parkolóban.",
+                "ro": "Parcați în parcarea mare de la intrarea în localitate.",
+                "en": "Park in the large parking lot at the entrance to the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Mausoleum",
+                "hu": "Mauzóleum",
+                "ro": "Mausoleu",
+                "en": "Mausoleum"
+              },
+              "tip_5lang": {
+                "de": "Kurze Fahrt zum Hügel möglich, aber Parken schwierig.",
+                "hu": "Rövid autóút a dombra lehetséges, de a parkolás nehéz.",
+                "ro": "Scurtă călătorie cu mașina până la deal, dar parcarea e dificilă.",
+                "en": "Short drive to the hill possible, but parking is difficult."
+              }
+            },
+            {
+              "name": {
+                "de": "Sokol Grad",
+                "hu": "Sólyom-vár (Sokol Grad)",
+                "ro": "Sokol Grad",
+                "en": "Sokol Grad Fortress"
+              },
+              "tip_5lang": {
+                "de": "Beeindruckende Festung im Hinterland von Konavle.",
+                "hu": "Lenyűgöző erőd Konavle hátországában.",
+                "ro": "Cetate impresionantă în hinterlandul Konavle.",
+                "en": "Impressive fortress in the Konavle hinterland."
+              }
+            },
+            {
+              "name": {
+                "de": "Ljututa Flussquelle",
+                "hu": "Ljututa-folyó forrása",
+                "ro": "Izvorul râului Ljututa",
+                "en": "Ljututa River Source"
+              },
+              "tip_5lang": {
+                "de": "Alte Wassermühlen in einer grünen Oase.",
+                "hu": "Régi vízimalmok egy zöld oázisban.",
+                "ro": "Vechi mori de apă într-o oază verde.",
+                "en": "Old water mills in a green oasis."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasjača Strand",
+                "hu": "Pasjača strand",
+                "ro": "Plaja Pasjača",
+                "en": "Pasjača Beach"
+              },
+              "tip_5lang": {
+                "de": "Atemberaubende Treppenstufen zum Strand.",
+                "hu": "Lélegzetelállító lépcsőfokok a strandhoz.",
+                "ro": "Trepte uluitoare care duc spre plajă.",
+                "en": "Breathtaking steps down to the beach."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Peka",
+                "tip": "Probieren Sie unter der Glocke gegartes Fleisch in Konavle."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Peka",
+                "tip": "Kóstolja meg a harang alatt sült húsokat Konavle-ben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Peka",
+                "tip": "Gustați carnea gătită sub capacul de fontă în Konavle."
+              }
+            ],
+            "en": [
+              {
+                "name": "Peka",
+                "tip": "Try meat cooked under the bell in Konavle."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ljututa Mühlen",
+                "tip": "Rauschen des Wassers im Schatten der Bäume.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ljututa-malmok",
+                "tip": "A víz zúgása a fák árnyékában.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Morile Ljututa",
+                "tip": "Susurul apei la umbra copacilor.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Ljututa Mills",
+                "tip": "The sound of rushing water in the shade of the trees.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Wein",
+                "tip": "Besuchen Sie ein Weingut im Konavle-Tal."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi bor",
+                "tip": "Látogasson el egy borászathoz a Konavle-völgyben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vin local",
+                "tip": "Vizitați o cramă din valea Konavle."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Wine",
+                "tip": "Visit a winery in the Konavle Valley."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken in Cavtat kostet in der Saison ca. 2-3 €/Stunde.",
+              "Die Treppe zum Pasjača Strand ist sehr steil.",
+              "Sokol Grad bietet einen tollen Rundblick über das Tal.",
+              "Fahren Sie vorsichtig auf den kurvigen Bergstraßen."
+            ],
+            "hu": [
+              "Cavtatban a parkolás főszezonban kb. 2-3 €/óra.",
+              "A Pasjača strandhoz vezető lépcső nagyon meredek.",
+              "Sokol Grad nagyszerű körpanorámát kínál a völgyre.",
+              "Vezessen óvatosan a kanyargós hegyi utakon."
+            ],
+            "ro": [
+              "Parcarea în Cavtat costă aprox. 2-3 €/oră în sezon.",
+              "Scara către plaja Pasjača este foarte abruptă.",
+              "Sokol Grad oferă o vedere panoramică excelentă asupra văii.",
+              "Conduceți cu atenție pe drumurile de munte sinuoase."
+            ],
+            "en": [
+              "Parking in Cavtat costs approx. 2-3 €/hour in season.",
+              "The stairs to Pasjača Beach are very steep.",
+              "Sokol Grad offers a great panoramic view of the valley.",
+              "Drive carefully on the winding mountain roads."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Fahrt durch das verregnete Cavtat gemütlich und trocken. Mittags ragen die Mauern der Sokol Grad Festung dramatisch aus den Nebelschwaden der Konavle-Berge empor. Nachmittags sprudelt die Ljuta-Quelle nach dem Regen kraftvoll und lautstark. Abends bietet der Blick auf den Pasjača-Strand ein Schauspiel aus schäumender Gischt und dunklen Klippen.",
+            "hu": "Reggel a kényelmes autóút száraz menedéket nyújt az esős Cavtatban. Délben Sokol Grad várának falai drámai módon emelkednek ki a Konavle-hegység ködfátylából. Délután a Ljuta-folyó forrása az eső után hatalmas erővel és dübörgéssel tör elő. Este a Pasjača-strand látványa a tajtékzó hullámokkal és a sötét sziklákkal felejthetetlen.",
+            "ro": "Dimineața, plimbarea cu mașina prin Cavtatul ploios este confortabilă și uscată. La prânz, zidurile fortăreței Sokol Grad se ridică dramatic din ceața munților Konavle. După-amiaza, izvorul râului Ljuta pulsează cu putere și zgomot după ploaie. Seara, vederea spre plaja Pasjača oferă un spectacol de spumă și stânci întunecate.",
+            "en": "Morning drive through rainy Cavtat is cozy and dry inside the car. At noon, the walls of Sokol Grad fortress rise dramatically from the mist of the Konavle mountains. In the afternoon, the Ljuta river source gushes with power and noise following the rain. By evening, the view of Pasjača beach offers a spectacle of foaming surf and dark cliffs."
+          },
+          "stops": [
+            {
+              "name": "Cavtat Center",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Ufer, um lange Wege im Regen zu vermeiden.",
+                "hu": "Parkoljon a parthoz közel, hogy elkerülje a hosszú ázást.",
+                "ro": "Parcați aproape de faleză pentru a evita mersul prin ploaie.",
+                "en": "Park close to the waterfront to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Mausoleum",
+              "tip_5lang": {
+                "de": "Lassen Sie den Regenschirm im Auto griffbereit für den Aufstieg.",
+                "hu": "Legyen kéznél az esernyő a kocsi melletti rövid emelkedőhöz.",
+                "ro": "Țineți umbrela la îndemână în mașină pentru urcarea scurtă.",
+                "en": "Keep your umbrella handy in the car for the short walk up."
+              }
+            },
+            {
+              "name": "Sokol Grad Fortress",
+              "tip_5lang": {
+                "de": "Die Steine sind nass, halten Sie sich an den Geländern fest.",
+                "hu": "A kövek vizesek, használja a korlátokat a biztonságért.",
+                "ro": "Pietrele sunt ude, folosiți balustradele pentru siguranță.",
+                "en": "The stones are wet, hold onto the railings for safety."
+              }
+            },
+            {
+              "name": "Ljututa River Source",
+              "tip_5lang": {
+                "de": "Das Restaurant Konavoski Dvori bietet trockene Plätze am Wasser.",
+                "hu": "A Konavoski Dvori étterem száraz helyet kínál a vízparton.",
+                "ro": "Restaurantul Konavoski Dvori oferă locuri acoperite lângă apă.",
+                "en": "Konavoski Dvori restaurant offers dry seating near the water."
+              }
+            },
+            {
+              "name": "Pasjača Beach",
+              "tip_5lang": {
+                "de": "Der steile Pfad ist bei starkem Regen oft gesperrt.",
+                "hu": "A meredek ösvény heves esőzéskor gyakran le van zárva.",
+                "ro": "Poteca abruptă este adesea închisă în caz de ploi abundente.",
+                "en": "The steep path is often closed during heavy rainfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen im Hinterland von Konavle können bei Regen rutschig sein.",
+              "Achten Sie auf Steinschlag auf den Bergstraßen zur Festung.",
+              "Nutzen Sie die Parkplätze direkt bei den Sehenswürdigkeiten.",
+              "Vermeiden Sie das Parken unter instabilen Bäumen bei Wind.",
+              "Prüfen Sie den Zustand der Scheibenwischer vor der Abfahrt."
+            ],
+            "hu": [
+              "Konavle mellékútjai esőben nagyon csúszósak lehetnek.",
+              "Vigyázzon a kőomlásra a vár felé vezető hegyi utakon.",
+              "Használja a látnivalók melletti közvetlen parkolókat.",
+              "Szeles időben kerülje a bizonytalan fák alatti parkolást.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát."
+            ],
+            "ro": [
+              "Drumurile secundare din Konavle pot fi alunecoase pe ploaie.",
+              "Atenție la căderile de pietre pe drumul montan spre cetate.",
+              "Folosiți parcările situate chiar lângă obiectivele turistice.",
+              "Evitați parcarea sub copaci instabili în condiții de vânt.",
+              "Verificați starea ștergătoarelor înainte de a porni la drum."
+            ],
+            "en": [
+              "Backroads in Konavle can be quite slippery during rain.",
+              "Watch out for rockfalls on the mountain roads to the fortress.",
+              "Utilize the parking lots located directly at the sights.",
+              "Avoid parking under unstable trees during windy conditions.",
+              "Check your windshield wipers' condition before starting out."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens glitzert der Frost auf den Feldern von Konavle, während Sie gemütlich zur Festung fahren. Mittags bietet Sokol Grad ein Panorama in unendliche Weite unter stahlblauem Himmel. Nachmittags ist es an der Ljuta-Quelle friedlich, der kalte Wind wird von den Felsen abgehalten. Abends ist der Sonnenuntergang an der Pasjača-Klippe ein einsames, magisches Erlebnis.",
+            "hu": "Reggel dér csillog a Konavle-mezőn, miközben kényelmesen gurulunk a vár felé. Délben Sokol Grad végtelen panorámát nyújt az acélkék égbolt alatt. Délután a Ljuta-forrásnál béke honol, a sziklás falak felfogják a hideg szelet. Este a naplemente a Pasjača-sziklánál magányos és varázslatos élmény a tél csendjében.",
+            "ro": "Dimineața, promoroaca strălucește pe câmpurile din Konavle în timp ce conduceți spre cetate. La prânz, Sokol Grad oferă o panoramă infinită sub cerul albastru de oțel. După-amiaza, la izvorul Ljuta este liniște, stâncile protejând zona de vânt. Seara, apusul la stânca Pasjača este o experiență solitară și magică.",
+            "en": "Morning frost glitters on the Konavle fields as you drive comfortably towards the fortress. At noon, Sokol Grad offers an endless panorama under a steel-blue winter sky. In the afternoon, the Ljuta source is peaceful, with cliffs sheltering the area from wind. By evening, the sunset at Pasjača cliff is a solitary and magical experience."
+          },
+          "stops": [
+            {
+              "name": "Cavtat Center",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter im Zentrum leicht zu finden.",
+                "hu": "Télen a központban is könnyű szabad parkolót találni.",
+                "ro": "Locurile de parcare sunt ușor de găsit în centru iarna.",
+                "en": "Parking spaces are easy to find in the center during winter."
+              }
+            },
+            {
+              "name": "Mausoleum",
+              "tip_5lang": {
+                "de": "Der Blick auf die schneebedeckten Berge im Osten ist grandios.",
+                "hu": "Pazar kilátás nyílik a keletre fekvő havas hegycsúcsokra.",
+                "ro": "Vederea spre munții înzăpeziți de la est este grandioasă.",
+                "en": "The view of the snow-capped mountains to the east is grand."
+              }
+            },
+            {
+              "name": "Sokol Grad Fortress",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, oben weht oft ein eiskalter Wind.",
+                "hu": "Öltözzön melegen, fent gyakran fúj jéghideg szél.",
+                "ro": "Îmbrăcați-vă gros, sus suflă adesea un vânt înghețat.",
+                "en": "Dress warmly; an icy wind often blows at the top."
+              }
+            },
+            {
+              "name": "Ljututa River Source",
+              "tip_5lang": {
+                "de": "Perfekter Ort für ein winterliches Mittagessen am Kamin.",
+                "hu": "Tökéletes helyszín egy téli ebédhez a kandalló mellett.",
+                "ro": "Loc perfect pentru un prânz de iarnă lângă șemineu.",
+                "en": "Perfect spot for a winter lunch by the fireplace."
+              }
+            },
+            {
+              "name": "Pasjača Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang direkt von der Klippe aus.",
+                "hu": "Élvezze a naplementét közvetlenül a szikla pereméről.",
+                "ro": "Bucurați-vă de apus chiar de pe marginea stâncii.",
+                "en": "Enjoy the sunset directly from the edge of the cliff."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutz im Scheibenwaschwasser ist im Hinterland wichtig.",
+              "Die Straßen können im Schatten der Berge vereist sein.",
+              "Nutzen Sie das Auto als warme Basis zwischen den Stopps.",
+              "Beachten Sie die früher schließenden Museen und Cafés.",
+              "Die Fernsicht ist im Winter durch die trockene Luft am besten."
+            ],
+            "hu": [
+              "A fagyálló szélvédőmosó fontos a hegyvidéki utakon.",
+              "A hegyek árnyékában az utak jegesek lehetnek.",
+              "Használja az autót meleg bázisként a megállók között.",
+              "Ügyeljen a múzeumok és kávézók korábbi zárására.",
+              "A száraz levegő miatt télen a legjobb a távoli kilátás."
+            ],
+            "ro": [
+              "Lichidul de parbriz antigel este important în zonele montane.",
+              "Drumurile pot fi înghețate în umbra munților.",
+              "Folosiți mașina ca bază caldă între opriri.",
+              "Atenție la programul redus al muzeelor și cafenelelor.",
+              "Vizibilitatea la distanță este optimă iarna datorită aerului uscat."
+            ],
+            "en": [
+              "Antifreeze in windshield washer fluid is vital for the hinterland.",
+              "Roads can be icy in the constant shadow of the mountains.",
+              "Use the car as a warm base between outdoor stops.",
+              "Be mindful of earlier closing times for museums and cafes.",
+              "Long-distance visibility is best in winter due to dry air."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1008,6 +2152,366 @@
           "Buy tickets at the bus station or from the driver.",
           "The ferry to Dubrovnik is a nice alternative (more expensive)."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Perfekt für einen Halbtagesausflug von Dubrovnik. Der Bus bringt Sie direkt ins Herz von Cavtat. Nach einem kulturellen Rundgang durch die Altstadt und das Bukovac-Haus bleibt genug Zeit für ein Mittagessen am Wasser.",
+            "hu": "Tökéletes félnapos kirándulás Dubrovnikból. A busz közvetlenül Cavtat szívébe viszi. Az óváros és a Bukovac-ház megtekintése után marad elég idő egy tengerparti ebédre.",
+            "ro": "Excursie perfectă de jumătate de zi din Dubrovnik. Autobuzul vă duce direct în inima Cavtatului. După un tur cultural al orașului vechi și al Casei Bukovac, rămâne destul timp pentru un prânz pe malul mării.",
+            "en": "Perfect for a half-day trip from Dubrovnik. The bus takes you right to the heart of Cavtat. After a cultural tour of the old town and the Bukovac House, there's enough time for a lunch by the water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Busstation Cavtat",
+                "hu": "Cavtati buszmegálló",
+                "ro": "Stația de autobuz Cavtat",
+                "en": "Cavtat Bus Station"
+              },
+              "tip_5lang": {
+                "de": "Endstation der Linie 10 aus Dubrovnik.",
+                "hu": "A Dubrovnikból érkező 10-es járat végállomása.",
+                "ro": "Capătul liniei 10 din Dubrovnik.",
+                "en": "Terminal of line 10 from Dubrovnik."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal für Baltazar Bogišić",
+                "hu": "Baltazar Bogišić emlékmű",
+                "ro": "Monumentul lui Baltazar Bogišić",
+                "en": "Monument to Baltazar Bogišić"
+              },
+              "tip_5lang": {
+                "de": "Direkt am Eingang zur Uferpromenade.",
+                "hu": "Közvetlenül a tengerparti sétány bejáratánál.",
+                "ro": "Chiar la intrarea pe faleză.",
+                "en": "Right at the entrance to the waterfront."
+              }
+            },
+            {
+              "name": {
+                "de": "Altstadt und Hafen",
+                "hu": "Óváros és kikötő",
+                "ro": "Orașul vechi și portul",
+                "en": "Old Town and Harbor"
+              },
+              "tip_5lang": {
+                "de": "Das historische Zentrum liegt direkt vor Ihnen.",
+                "hu": "A történelmi központ közvetlenül Ön előtt fekszik.",
+                "ro": "Centrul istoric este chiar în fața dumneavoastră.",
+                "en": "The historical center is right in front of you."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus Bukovac",
+                "hu": "Bukovac-ház",
+                "ro": "Casa Bukovac",
+                "en": "Bukovac House"
+              },
+              "tip_5lang": {
+                "de": "Nur wenige Gehminuten vom Hafen entfernt.",
+                "hu": "Csak pár perc séta a kikötőtől.",
+                "ro": "La doar câteva minute de mers pe jos de port.",
+                "en": "Just a few minutes' walk from the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Uferpromenade",
+                "hu": "Tengerparti sétány",
+                "ro": "Faleză",
+                "en": "Waterfront"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Atmosphäre vor der Rückfahrt.",
+                "hu": "Élvezze a hangulatot a visszautazás előtt.",
+                "ro": "Bucurați-vă de atmosferă înainte de întoarcere.",
+                "en": "Enjoy the atmosphere before the return journey."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Dubrovnik Rozata",
+                "tip": "Klassischer Pudding, probieren Sie ihn in der Konditorei am Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Dubrovniki Rozata",
+                "tip": "Klasszikus puding, kóstolja meg a kikötői cukrászdában."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rozata de Dubrovnik",
+                "tip": "Budincă clasică, încercați-o la cofetăria din port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Dubrovnik Rozata",
+                "tip": "Classic pudding, try it at the pastry shop by the harbor."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Park hinter dem Hafen",
+                "tip": "Schattige Bänke abseits des Trubels.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Park a kikötő mögött",
+                "tip": "Árnyas padok a nyüzsgéstől távol.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul din spatele portului",
+                "tip": "Bănci umbrite departe de agitație.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Park behind the harbor",
+                "tip": "Shaded benches away from the hustle and bustle.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Postkarten von Cavtat",
+                "tip": "In den Kiosken an der Busstation."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cavtati képeslapok",
+                "tip": "A buszmegálló melletti újságosoknál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vederi din Cavtat",
+                "tip": "La chioșcurile de lângă stația de autobuz."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cavtat Postcards",
+                "tip": "At the kiosks by the bus station."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Buslinie 10 fährt ca. alle 45-60 Minuten.",
+              "Die Fahrt von Dubrovnik dauert etwa 30-40 Minuten.",
+              "Kaufen Sie Fahrkarten am Busbahnhof oder beim Fahrer.",
+              "Die Fähre nach Dubrovnik ist eine schöne Alternative (teurer)."
+            ],
+            "hu": [
+              "A 10-es busz kb. 45-60 percenként jár.",
+              "Az út Dubrovnikból körülbelül 30-40 percet vesz igénybe.",
+              "Jegyet az autóbusz-állomáson vagy a sofőrnél vehet.",
+              "A dubrovniki komp szép alternatíva (drágább)."
+            ],
+            "ro": [
+              "Linia de autobuz 10 circulă aprox. la fiecare 45-60 min.",
+              "Călătoria din Dubrovnik durează circa 30-40 minute.",
+              "Cumpărați bilete de la autogară sau de la șofer.",
+              "Feribotul către Dubrovnik este o alternativă frumoasă (mai scumpă)."
+            ],
+            "en": [
+              "Bus line 10 runs approx. every 45-60 minutes.",
+              "The ride from Dubrovnik takes about 30-40 minutes.",
+              "Buy tickets at the bus station or from the driver.",
+              "The ferry to Dubrovnik is a nice alternative (more expensive)."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Busstation von Cavtat einen geschützten Start in den Tag. Mittags ist der Besuch im Bukovac-Haus die perfekte Indoor-Aktivität, während draußen der Regen prasselt. Nachmittags glänzt der Hafen in tiefem Grau, beobachtet von den trockenen Arkaden der Altstadt. Ein entspannter Tag ohne Parkplatzsorgen im nassen Cavtat.",
+            "hu": "Reggel a cavtati buszpályaudvar fedett várója nyújt biztonságos startot. Délben a Bukovac-ház meglátogatása a tökéletes beltéri program, miközben kint dobol az eső. Délután a kikötő mélyszürke színekben játszik, amit az óváros száraz árkádjai alól figyelhetünk. Nyugodt nap parkolási gondok nélkül az esős Cavtatban.",
+            "ro": "Dimineața, autogara din Cavtat oferă un start protejat pentru explorare. La prânz, vizita la Casa Bukovac este activitatea ideală de interior în timp ce plouă. După-amiaza, portul strălucește în gri închis, observat de sub arcadele uscate ale centrului vechi. O zi relaxată, fără grija parcării, în Cavtatul ploios.",
+            "en": "Morning at Cavtat bus station provides a sheltered start to your day. At noon, visiting Bukovac House is the perfect indoor activity while the rain drums outside. In the afternoon, the harbor gleams in deep grey, observed from the dry arcades of the old town. A relaxed day without parking worries in rainy Cavtat."
+          },
+          "stops": [
+            {
+              "name": "Cavtat Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Dach auf den nächsten Bus.",
+                "hu": "Várjon a buszra a pályaudvar fedett várócsarnokában.",
+                "ro": "Așteptați autobuzul sub acoperișul autogării.",
+                "en": "Wait for the bus under the shelter of the station roof."
+              }
+            },
+            {
+              "name": "Monument to Baltazar Bogišić",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Regenschirm, nah am Zentrum.",
+                "hu": "Rövid megálló esernyővel, közel a központhoz.",
+                "ro": "Scurt popas cu umbrela, foarte aproape de centru.",
+                "en": "Brief stop with an umbrella, very close to the center."
+              }
+            },
+            {
+              "name": "Old Town and Harbor",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadenwege für trockene Spaziergänge.",
+                "hu": "Sétáljon az árkádok alatt, hogy szárazon maradjon.",
+                "ro": "Folosiți arcadele pentru plimbări ferite de ploaie.",
+                "en": "Use the arcades for dry walks through the old town."
+              }
+            },
+            {
+              "name": "Bukovac House",
+              "tip_5lang": {
+                "de": "Bester Ort für Kulturgenuss bei schlechtem Wetter.",
+                "hu": "A legjobb hely a kultúrára rossz idő esetén is.",
+                "ro": "Cel mai bun loc pentru cultură pe vreme nefavorabilă.",
+                "en": "Best place for cultural enjoyment during bad weather."
+              }
+            },
+            {
+              "name": "Waterfront",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick von einem Café mit Markise.",
+                "hu": "Élvezze a kilátást egy napellenzős kávézóból.",
+                "ro": "Admirați vederea dintr-o cafenea cu copertină.",
+                "en": "Enjoy the view from a cafe with a protective awning."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse nach Dubrovnik verkehren auch bei Regen regelmäßig.",
+              "Kaufen Sie Tickets im Voraus am Kiosk, um Wartezeit im Regen zu sparen.",
+              "Der Fußweg zwischen den Stopps ist kurz und meist gepflastert.",
+              "Tragen Sie wasserfeste Kleidung für die kurzen Umsteigewege.",
+              "Suchen Sie bei starkem Wind Schutz in den festen Wartehallen."
+            ],
+            "hu": [
+              "A Dubrovnikba tartó buszok esőben is menetrend szerint járnak.",
+              "Vegyen jegyet előre az újságosnál, hogy ne ázzon sorban álláskor.",
+              "A megállók közötti gyalogút rövid és végig burkolt.",
+              "Viseljen vízálló ruhát a rövid átszállási szakaszokhoz.",
+              "Erős szél esetén keressen menedéket a zárt várótermekben."
+            ],
+            "ro": [
+              "Autobuzele spre Dubrovnik circulă regulat chiar și pe ploaie.",
+              "Cumpărați bilete în avans de la chioșc pentru a nu sta în ploaie.",
+              "Distanțele pe jos între opriri sunt scurte și pavate.",
+              "Purtați haine impermeabile pentru segmentele scurte de mers.",
+              "În caz de vânt puternic, adăpostiți-vă în sălile de așteptare."
+            ],
+            "en": [
+              "Buses to Dubrovnik run regularly even during heavy rain.",
+              "Buy tickets in advance at the kiosk to avoid waiting in the rain.",
+              "Walking distances between stops are short and fully paved.",
+              "Wear waterproof gear for the short transfer sections.",
+              "Seek shelter in solid waiting areas during strong winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens empfängt Sie die winterliche Ruhe am Busbahnhof von Cavtat. Mittags leuchten die alten Steinhäuser am Hafen im klaren Winterlicht, ideal für Fotos. Nachmittags ist ein Besuch im Bukovac-Haus eine warme Abwechslung zum Spaziergang am Ufer. Abends ist die Rückfahrt im beheizten Bus ein gemütlicher Abschluss eines erfrischenden Tages.",
+            "hu": "Reggel a téli nyugalom fogadja a cavtati buszpályaudvaron. Délben a kikötő régi kőházai ragyognak a tiszta téli fényben, ami tökéletes fotózáshoz. Délután a Bukovac-ház látogatása meleg felüdülést nyújt a parti séta után. Este a fűtött buszon való visszautazás kényelmes zárása a frissítő napnak.",
+            "ro": "Dimineața, liniștea iernii vă întâmpină la autogara din Cavtat. La prânz, casele vechi de piatră din port strălucesc în lumina clară, ideale pentru poze. După-amiaza, vizita la Casa Bukovac oferă o pauză caldă după plimbarea pe faleză. Seara, drumul de întoarcere în autobuzul încălzit este un final plăcut.",
+            "en": "Morning greets you with winter tranquility at the Cavtat bus station. At noon, the old stone houses by the harbor glow in the clear winter light, perfect for photos. In the afternoon, a visit to Bukovac House provides a warm break from the waterfront stroll. By evening, the ride back in a heated bus is a cozy end to a refreshing day."
+          },
+          "stops": [
+            {
+              "name": "Cavtat Bus Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan, die Frequenz ist geringer.",
+                "hu": "Ellenőrizze a téli menetrendet, ritkábban járnak a buszok.",
+                "ro": "Verificați mersul autobuzelor, frecvența este mai mică iarna.",
+                "en": "Check the winter schedule as bus frequency is reduced."
+              }
+            },
+            {
+              "name": "Monument to Baltazar Bogišić",
+              "tip_5lang": {
+                "de": "Die Mittagssonne beleuchtet das Denkmal perfekt.",
+                "hu": "A déli napsütés tökéletesen világítja meg az emlékművet.",
+                "ro": "Soarele amiezii luminează perfect monumentul.",
+                "en": "The midday sun illuminates the monument perfectly."
+              }
+            },
+            {
+              "name": "Old Town and Harbor",
+              "tip_5lang": {
+                "de": "Ideal für ungestörte Fotos ohne Touristenmassen.",
+                "hu": "Ideális zavartalan fotózáshoz turisták nélkül.",
+                "ro": "Ideal pentru fotografii neîntrerupte de mulțimea de turiști.",
+                "en": "Ideal for undisturbed photos without the tourist crowds."
+              }
+            },
+            {
+              "name": "Bukovac House",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme und Stille im Inneren.",
+                "hu": "Élvezze a benti meleget és a csendet.",
+                "ro": "Bucurați-vă de căldura și liniștea din interior.",
+                "en": "Enjoy the warmth and silence inside the museum."
+              }
+            },
+            {
+              "name": "Waterfront",
+              "tip_5lang": {
+                "de": "Die Abendsonne gegen 16 Uhr sorgt für magisches Licht.",
+                "hu": "A 16 óra körüli délutáni nap varázslatos fényeket ad.",
+                "ro": "Soarele de la ora 16 creează o lumină magică.",
+                "en": "The afternoon sun around 4 PM creates magical lighting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busfrequenz nach Dubrovnik ist im Winter reduziert.",
+              "Achten Sie auf die letzte Abfahrt vor dem frühen Sonnenuntergang.",
+              "Tragen Sie warme Kleidung für die Wartezeit an der Haltestelle.",
+              "Viele Cafés schließen im Winter bereits am frühen Abend.",
+              "Nutzen Sie den Kiosk für Fahrkarten, falls das Büro geschlossen ist."
+            ],
+            "hu": [
+              "A Dubrovnikba tartó buszok télen ritkábban közlekednek.",
+              "Figyeljen az utolsó indulásra a korai naplemente előtt.",
+              "Viseljen meleg ruhát a buszmegállóban való várakozáshoz.",
+              "Sok kávézó télen már kora este bezár.",
+              "Használja az újságost jegyvételre, ha a jegyiroda zárva van."
+            ],
+            "ro": [
+              "Frecvența autobuzelor spre Dubrovnik este redusă iarna.",
+              "Atenție la ultima plecare înainte de apusul timpuriu.",
+              "Purtați haine groase pentru timpul de așteptare în stație.",
+              "Multe cafenele se închid devreme seara pe timpul iernii.",
+              "Folosiți chioșcul de ziare pentru bilete dacă ghișeul e închis."
+            ],
+            "en": [
+              "Bus frequency to Dubrovnik is significantly reduced in winter.",
+              "Be mindful of the last departure before the early sunset.",
+              "Wear warm clothing for the wait times at the bus stops.",
+              "Many cafes close in the early evening during the winter season.",
+              "Use the newsstand for tickets if the main office is closed."
+            ]
+          }
+        }
       }
     }
   },

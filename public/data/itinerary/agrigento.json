@@ -320,6 +320,442 @@
           "Via Atenea is the lifeline for the evening stroll.",
           "Water bottles can be refilled at public fountains."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ihr Tag beginnt in der verwinkelten Altstadt auf dem Hügel, wo normannische Pracht auf antike Fundamente trifft. Nach dem Besuch der Kathedrale und des Klosters spazieren Sie hinunter zur archäologischen Zone. Der Nachmittag gehört den beeindruckenden Funden im Museum und dem römischen Stadtviertel. Den krönenden Abschluss bildet der Concordia-Tempel im warmen Abendlicht.",
+            "hu": "A nap az óváros kanyargós utcáin kezdődik, ahol a normann pompa találkozik az antik alapokkal. A székesegyház és a kolostor megtekintése után lesétálunk a régészeti zónához. A délután a múzeum lenyűgöző leleteié és a római negyedé. A napot a Concordia-templom koronázza meg az esti súrolófényben.",
+            "ro": "Ziua începe în centrul vechi sinuos, unde splendoarea normandă întâlnește fundațiile antice. După vizitarea catedralei și a mănăstirii, coborâți spre zona arheologică. După-amiaza este dedicată descoperirilor impresionante din muzeu și cartierului roman. Finalul perfect este Templul Concordiei în lumina caldă a serii.",
+            "en": "Your day begins in the winding old town on the hill, where Norman splendor meets ancient foundations. After visiting the cathedral and the monastery, walk down to the archaeological zone. The afternoon belongs to the impressive finds in the museum and the Roman quarter. The grand finale is the Temple of Concord in the warm evening light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale von San Gerlando",
+                "hu": "San Gerlando-székesegyház",
+                "ro": "Catedrala San Gerlando",
+                "en": "Cattedrale di San Gerlando"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das akustische Phänomen im Kirchenschiff.",
+                "hu": "Figyelje meg az akusztikai jelenséget a főhajóban.",
+                "ro": "Observați fenomenul acustic din nava centrală.",
+                "en": "Look out for the acoustic phenomenon in the nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa Maria dei Greci",
+                "hu": "Santa Maria dei Greci templom",
+                "ro": "Biserica Santa Maria dei Greci",
+                "en": "Santa Maria dei Greci"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die antiken Tempelfundamente unter dem Glasboden.",
+                "hu": "Nézze meg az antik templomalapokat az üvegpadló alatt.",
+                "ro": "Vedeți fundațiile templului antic sub podeaua de sticlă.",
+                "en": "See the ancient temple foundations under the glass floor."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Santo Spirito",
+                "hu": "Santo Spirito kolostor",
+                "ro": "Mănăstirea Santo Spirito",
+                "en": "Monastero del Santo Spirito"
+              },
+              "tip_5lang": {
+                "de": "Kaufen Sie das berühmte Mandelgebäck der Nonnen.",
+                "hu": "Vásároljon a nácák híres mandulás süteményéből.",
+                "ro": "Cumpărați faimoasele prăjituri cu migdale ale călugărițelor.",
+                "en": "Buy the famous almond pastries made by the nuns."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul Arheologic",
+                "en": "Museo Archeologico"
+              },
+              "tip_5lang": {
+                "de": "Der Telamon ist das absolute Highlight der Sammlung.",
+                "hu": "A Telamon a gyűjtemény abszolút fénypontja.",
+                "ro": "Telamonul este piesa centrală a colecției.",
+                "en": "The Telamon is the absolute highlight of the collection."
+              }
+            },
+            {
+              "name": {
+                "de": "Hellenistisch-Römisches Viertel",
+                "hu": "Hellénisztikus-római negyed",
+                "ro": "Cartierul Elenistic-Roman",
+                "en": "Quartiere Ellenistico-Romano"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die gut erhaltenen Mosaike in den Häusern.",
+                "hu": "Csodálja meg a házak jól megőrzött mozaikjait.",
+                "ro": "Admirați mozaicurile bine conservate din case.",
+                "en": "Admire the well-preserved mosaics in the houses."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel der Concordia",
+                "hu": "Concordia-templom",
+                "ro": "Templul Concordiei",
+                "en": "Tempio della Concordia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang vor der perfekten Silhouette.",
+                "hu": "Élvezze a naplementét a tökéletes sziluett előtt.",
+                "ro": "Bucurați-vă de apus în fața siluetei perfecte.",
+                "en": "Enjoy the sunset in front of the perfect silhouette."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Cavatelli all'agrigentina",
+                "tip": "Hausgemachte Pasta mit Tomaten, Auberginen und gesalzenem Ricotta."
+              },
+              {
+                "name": "La Passeggiata",
+                "tip": "Perfekter Ort für ein traditionelles Abendessen in der Via Atenea."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cavatelli all'agrigentina",
+                "tip": "Házias tészta paradicsommal, padlizsánnal és sós ricottával."
+              },
+              {
+                "name": "La Passeggiata",
+                "tip": "Tökéletes hely egy hagyományos vacsorához a Via Ateneán."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cavatelli all'agrigentina",
+                "tip": "Paste de casă cu roșii, vinete și ricotta sărată."
+              },
+              {
+                "name": "La Passeggiata",
+                "tip": "Locul perfect pentru o cină tradițională pe Via Atenea."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cavatelli all'agrigentina",
+                "tip": "Homemade pasta with tomatoes, eggplant, and salted ricotta."
+              },
+              {
+                "name": "La Passeggiata",
+                "tip": "Perfect spot for a traditional dinner in Via Atenea."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Rupe Atenea",
+                "tip": "Ein ruhiger Aussichtspunkt hoch über dem Meer.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Klostergarten",
+                "tip": "Stille Oase inmitten des historischen Zentrums.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rupe Atenea",
+                "tip": "Csendes kilátópont magasan a tenger felett.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Kolostorkert",
+                "tip": "Csendes oázis a történelmi központ közepén.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rupe Atenea",
+                "tip": "Un punct de observație liniștit deasupra mării.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Grădina mănăstirii",
+                "tip": "Oază de liniște în mijlocul centrului istoric.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Rupe Atenea",
+                "tip": "A quiet viewpoint high above the sea.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Monastery Garden",
+                "tip": "Quiet oasis in the heart of the historic center.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Via Atenea",
+                "tip": "Die Haupteinkaufsstraße mit Mode und Kunsthandwerk."
+              },
+              {
+                "name": "Mandeltorte",
+                "tip": "Spezialität aus dem Kloster Santo Spirito."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Via Atenea",
+                "tip": "A fő bevásárlóutca divattal és kézműves termékekkel."
+              },
+              {
+                "name": "Mandulatorta",
+                "tip": "A Santo Spirito kolostor specialitása."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Via Atenea",
+                "tip": "Principala stradă comercială cu modă și artizanat."
+              },
+              {
+                "name": "Tort de migdale",
+                "tip": "Specialitate de la mănăstirea Santo Spirito."
+              }
+            ],
+            "en": [
+              {
+                "name": "Via Atenea",
+                "tip": "The main shopping street with fashion and crafts."
+              },
+              {
+                "name": "Almond cake",
+                "tip": "Specialty from the Monastero del Santo Spirito."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe, da die Altstadt steile Gassen hat.",
+              "Besuchen Sie das Tal der Tempel am späten Nachmittag für besseres Licht.",
+              "Die Via Atenea ist die Lebensader für den abendlichen Spaziergang.",
+              "Wasserflaschen können an öffentlichen Brunnen aufgefüllt werden."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt, mert az óvárosban meredek utcák vannak.",
+              "A Templomok völgyét késő délután látogassa a szebb fények miatt.",
+              "A Via Atenea az esti korzózás fő helyszíne.",
+              "A vizespalackokat közkutaknál újra lehet tölteni."
+            ],
+            "ro": [
+              "Purtați pantofi confortabili, deoarece centrul vechi are străzi abrupte.",
+              "Vizitați Valea Templatelor după-amiaza târziu pentru lumină mai bună.",
+              "Via Atenea este artera principală pentru plimbarea de seară.",
+              "Sticlele de apă pot fi umplute la cișmelele publice."
+            ],
+            "en": [
+              "Wear comfortable shoes as the old town has steep alleys.",
+              "Visit the Valley of the Temples in the late afternoon for better light.",
+              "Via Atenea is the lifeline for the evening stroll.",
+              "Water bottles can be refilled at public fountains."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen suchen wir unter den Torbögen der Altstadt Schutz auf dem Weg zur Kathedrale. Mittags bietet das Archäologische Museum eine trockene Zuflucht voller Geschichte. Am Nachmittag wirken die dänischen Tempel im Regen mystisch und sind weniger überlaufen. Der Abend klingt bei glänzenden Gassen in der Via Atenea gemütlich aus.",
+            "hu": "Reggel az óváros szűk utcáin az ereszek alatt húzódunk meg a katedrális felé. Délben a régészeti múzeum tágas terei nyújtanak száraz menedéket a záporok elől. Délután a Templomok Völgye az esőben különleges, mélabús arcát mutatja a vizes oszlopok között. Este a vizes kövezet tükrözi vissza a város fényeit a Via Atenea mentén.",
+            "ro": "Dimineața căutăm adăpost sub arcadele orașului vechi în drum spre catedrală. La prânz, muzeul de arheologie oferă un refugiu uscat și plin de istorie. După-amiaza, templele par mistice în ploaie, fără mulțimile obișnuite de turiști. Seara se încheie printre străzile lucioase de pe Via Atenea, reflectând luminile orașului.",
+            "en": "In the morning, we find shelter under the arches of the old town heading to the cathedral. At noon, the archaeological museum provides a dry refuge filled with history. In the afternoon, the temples look mystical in the rain, free from the usual crowds. The evening ends along the shiny pavements of Via Atenea, reflecting the city lights."
+          },
+          "stops": [
+            {
+              "name": "Cattedrale di San Gerlando",
+              "tip_5lang": {
+                "de": "Der Innenraum bietet perfekten Schutz vor dem Regen.",
+                "hu": "A katedrális belső tere tökéletes menedék az eső elől.",
+                "ro": "Interiorul catedralei oferă un adăpost perfect împotriva ploii.",
+                "en": "The cathedral interior offers perfect shelter from the rain."
+              }
+            },
+            {
+              "name": "Santa Maria dei Greci",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zwischen den Regenschauern lohnt sich.",
+                "hu": "Érdemes egy rövid sprintet tenni a záporok között.",
+                "ro": "Merită un sprint scurt între aversele de ploaie.",
+                "en": "A short sprint between rain showers is worth it."
+              }
+            },
+            {
+              "name": "Monastero del Santo Spirito",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Kreuzgang, während es draußen regnet.",
+                "hu": "Élvezze a kolostor nyugalmát, amíg kint esik az eső.",
+                "ro": "Bucurați-vă de liniștea mănăstirii în timp ce afară plouă.",
+                "en": "Enjoy the monastery's peace while it rains outside."
+              }
+            },
+            {
+              "name": "Museo Archeologico",
+              "tip_5lang": {
+                "de": "Der beste Ort, um einen starken Regenschauer abzuwarten.",
+                "hu": "A legjobb hely egy kiadós zápor átvészelésére.",
+                "ro": "Cel mai bun loc pentru a aștepta trecerea unei averse puternice.",
+                "en": "The best place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Quartiere Ellenistico-Romano",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche bei den Mosaiken.",
+                "hu": "Használja ki a mozaikoknál található fedett részeket.",
+                "ro": "Folosiți zonele acoperite de lângă mozaicuri.",
+                "en": "Make use of the covered areas near the mosaics."
+              }
+            },
+            {
+              "name": "Tempio della Concordia",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steine können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat, a kövek vizesen nagyon csúszósak lehetnek.",
+                "ro": "Atenție, pietrele pot fi foarte alunecoase când sunt ude.",
+                "en": "Careful, the stones can be very slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des Windes auf dem Hügel besser als ein leichter.",
+              "Tragen Sie Schuhe mit gutem Profil, da die antiken Wege rutschig werden.",
+              "Das Archäologische Museum ist ein idealer Rückzugsort bei Starkregen.",
+              "Prüfen Sie die Wetter-App; sizilianischer Regen ist oft heftig, aber kurz."
+            ],
+            "hu": [
+              "A dombon fújó szél miatt egy erős esernyő jobb választás, mint egy könnyű.",
+              "Viseljen tapadós talpú cipőt, mert az ókori utak csúszóssá válnak.",
+              "A Régészeti Múzeum ideális menedék heves esőzés idején.",
+              "Nézze az időjárást; a szicíliai eső gyakran intenzív, de rövid ideig tart."
+            ],
+            "ro": [
+              "O umbrelă robustă este mai bună decât una ușoară din cauza vântului de pe deal.",
+              "Purtați pantofi cu aderență bună, deoarece căile antice devin alunecoase.",
+              "Muzeul de Arheologie este un refugiu ideal în caz de ploaie torențială.",
+              "Verificați aplicația meteo; ploaia siciliană este adesea intensă, dar scurtă."
+            ],
+            "en": [
+              "A sturdy umbrella is better than a light one due to the wind on the hill.",
+              "Wear shoes with good grip as the ancient paths become slippery.",
+              "The Archaeological Museum is an ideal refuge during heavy rain.",
+              "Check the weather app; Sicilian rain is often intense but brief."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenluft macht den Aufstieg zur Kathedrale besonders angenehm. Mittags genießen wir die milde Sonne im Garten des Museums. Am Nachmittag taucht das tiefe Licht der Wintersonne die Tempel in ein warmes Gold. Der Abend endet bei kühler Brise und festlicher Beleuchtung in der Oberstadt.",
+            "hu": "A hűvös reggeli levegő különösen kellemessé teszi a felkapaszkodást a katedrálishoz. Délben a múzeum kertjében élvezzük a lágy téli napsütést. Délután a téli nap alacsony állása aranyba vonja a templomokat. Az este hűvös szellővel és ünnepi fényekkel zárul a felsővárosban.",
+            "ro": "Aerul răcoros al dimineții face urcarea spre catedrală deosebit de plăcută. La prânz, ne bucurăm de soarele blând de iarnă în grădina muzeului. După-amiaza, lumina caldă a soarelui de iarnă scaldă templele în aur. Seara se încheie cu o briză rece și iluminat festiv în orașul de sus.",
+            "en": "The cool morning air makes the climb to the cathedral especially pleasant. At noon, we enjoy the mild winter sun in the museum garden. In the afternoon, the low winter sun bathes the temples in warm gold. The evening ends with a cool breeze and festive lighting in the upper town."
+          },
+          "stops": [
+            {
+              "name": "Cattedrale di San Gerlando",
+              "tip_5lang": {
+                "de": "Ein leichter Pullover ist für das kühle Kircheninnere ratsam.",
+                "hu": "Egy könnyű pulóver ajánlott a hűvös templombelsőben.",
+                "ro": "Un pulover ușor este recomandat pentru interiorul răcoros al bisericii.",
+                "en": "A light sweater is recommended for the cool church interior."
+              }
+            },
+            {
+              "name": "Santa Maria dei Greci",
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet die antiken Fundamente wunderschön.",
+                "hu": "A téli napfény gyönyörűen megvilágítja az ókori alapokat.",
+                "ro": "Soarele de iarnă luminează frumos fundațiile antice.",
+                "en": "The winter sun illuminates the ancient foundations beautifully."
+              }
+            },
+            {
+              "name": "Monastero del Santo Spirito",
+              "tip_5lang": {
+                "de": "Probieren Sie das traditionelle Mandelgebäck der Nonnen.",
+                "hu": "Kóstolja meg az apácák hagyományos mandulás süteményeit.",
+                "ro": "Gustați prăjiturile tradiționale cu migdale ale călugărițelor.",
+                "en": "Taste the traditional almond pastries made by the nuns."
+              }
+            },
+            {
+              "name": "Museo Archeologico",
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick ohne die Sommerhitze.",
+                "hu": "Élvezze a panorámát a nyári hőség nélkül.",
+                "ro": "Bucurați-vă de panorama fără căldura verii.",
+                "en": "Enjoy the panoramic view without the summer heat."
+              }
+            },
+            {
+              "name": "Quartiere Ellenistico-Romano",
+              "tip_5lang": {
+                "de": "Das klare Winterlicht ist perfekt für Detailfotos der Mosaike.",
+                "hu": "A tiszta téli fény tökéletes a mozaikok részletfotózásához.",
+                "ro": "Lumina clară de iarnă este perfectă pentru fotografii detaliate ale mozaicurilor.",
+                "en": "The clear winter light is perfect for detail photos of the mosaics."
+              }
+            },
+            {
+              "name": "Tempio della Concordia",
+              "tip_5lang": {
+                "de": "Seien Sie um 16:30 Uhr hier, um den goldenen Sonnenuntergang zu sehen.",
+                "hu": "Legyen itt 16:30-kor a hűvös, de aranyló naplementéhez.",
+                "ro": "Fiți aici la ora 16:30 pentru a vedea apusul auriu.",
+                "en": "Be here at 16:30 to see the golden sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Winter ist die beste Zeit für die Tempel, da es keine Hitze gibt.",
+              "Der Sonnenuntergang ist bereits gegen 17:00 Uhr; planen Sie entsprechend.",
+              "Auf dem Tempelrücken kann es windig und kühl sein; eine Jacke ist nötig.",
+              "Viele Cafés in der Via Atenea bieten jetzt gemütliche Plätze im Inneren."
+            ],
+            "hu": [
+              "A tél a legjobb időszak a völgy bejárására, mert nincs hőség.",
+              "A naplemente már 17:00 körül van; tervezze ehhez a napját.",
+              "A templomok gerincén szeles és hűvös lehet; réteges öltözködés javasolt.",
+              "A Via Atenea kávézói ilyenkor hangulatos belső tereket kínálnak."
+            ],
+            "ro": [
+              "Iarna este cel mai bun moment pentru temple, deoarece nu există caniculă.",
+              "Apusul este deja în jurul orei 17:00; planificați-vă ziua în consecință.",
+              "Pe creasta templelor poate fi vânt și răcoare; este necesară o jachetă.",
+              "Multe cafenele de pe Via Atenea oferă acum locuri primitoare în interior."
+            ],
+            "en": [
+              "Winter is the best time for the temples as there is no oppressive heat.",
+              "Sunset is already around 17:00; plan your day accordingly.",
+              "It can be windy and chilly on the temple ridge; a jacket is necessary.",
+              "Many cafes on Via Atenea now offer cozy indoor seating."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -552,6 +988,342 @@
           "Bicycles must be pushed inside the archaeological areas.",
           "Sufficient water is essential for this tour."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Die Fahrradtour verbindet die antiken Wunder in einem entspannten Tempo. Sie beginnen am Juno-Tempel und fahren entlang der Tempelroute bis zum Kolymbethra-Garten, wo Sie die Mittagshitze unter Zitrusbäumen verbringen können. Danach führt die Route leicht bergauf zum archäologischen Museum, um die Schätze der Stadt im Detail zu erkunden.",
+            "hu": "A biciklitúra nyugodt tempóban köti össze az antik csodákat. A Héra-templomnál kezdünk, majd a templomok útján haladunk a Kolymbethra-kertig, ahol a déli hőséget a citrusfák alatt tölthetjük. Ezután az út enyhén emelkedik a régészeti múzeumig, hogy részletesen is megismerjük a város kincseit.",
+            "ro": "Turul cu bicicleta conectează minunile antice într-un ritm relaxat. Începeți la Templul Iunonei și pedalați de-a lungul rutei templelor până la Grădina Kolymbethra, unde puteți petrece canicula de la prânz sub citri. Ulterior, ruta urcă ușor spre muzeul arheologic pentru a explora în detaliu comorile orașului.",
+            "en": "The bike tour connects the ancient wonders at a relaxed pace. You start at the Temple of Juno and ride along the temple route to the Kolymbethra Garden, where you can spend the midday heat under citrus trees. Then, the route leads slightly uphill to the archaeological museum to explore the city's treasures in detail."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Juno-Tempel",
+                "hu": "Héra-templom (Giunone)",
+                "ro": "Templul Iunonei",
+                "en": "Tempio di Giunone"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt der Tempelstraße mit Panoramablick.",
+                "hu": "A templomok útjának kezdőpontja panorámás kilátással.",
+                "ro": "Punctul de plecare al drumului templelor cu vedere panoramică.",
+                "en": "Starting point of the temple road with panoramic views."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel der Concordia",
+                "hu": "Concordia-templom",
+                "ro": "Templul Concordiei",
+                "en": "Tempio della Concordia"
+              },
+              "tip_5lang": {
+                "de": "Einer der am besten erhaltenen griechischen Tempel weltweit.",
+                "hu": "A világ egyik legjobb állapotban fennmaradt görög temploma.",
+                "ro": "Unul dintre cele mai bine conservate temple grecești din lume.",
+                "en": "One of the best-preserved Greek temples in the world."
+              }
+            },
+            {
+              "name": {
+                "de": "Kolymbethra-Garten",
+                "hu": "Kolymbethra-kert",
+                "ro": "Grădina Kolymbethra",
+                "en": "Giardino della Kolymbethra"
+              },
+              "tip_5lang": {
+                "de": "Ein schattiges Paradies mit Orangen- und Zitronenhainen.",
+                "hu": "Árnyas paradicsom narancs- és citromligetekkel.",
+                "ro": "Un paradis umbros cu livezi de portocali și lămâi.",
+                "en": "A shaded paradise with orange and lemon groves."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul Arheologic",
+                "en": "Museo Archeologico"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher am Museumseingang.",
+                "hu": "Parkolja le biciklijét biztonságosan a múzeum bejáratánál.",
+                "ro": "Parcați bicicleta în siguranță la intrarea muzeului.",
+                "en": "Park your bike safely at the museum entrance."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Granita al limone",
+                "tip": "Erfrischende Pause während der Radtour."
+              },
+              {
+                "name": "Arancine siciliane",
+                "tip": "Perfekter Snack für unterwegs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Citromos granita",
+                "tip": "Frissítő szünet a biciklizés közben."
+              },
+              {
+                "name": "Arancine",
+                "tip": "Tökéletes snack útközben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Granita de lămâie",
+                "tip": "Pauză răcoritoare în timpul plimbării."
+              },
+              {
+                "name": "Arancine siciliene",
+                "tip": "Gustarea perfectă pe drum."
+              }
+            ],
+            "en": [
+              {
+                "name": "Lemon granita",
+                "tip": "Refreshing break during the bike ride."
+              },
+              {
+                "name": "Sicilian Arancine",
+                "tip": "Perfect snack for the road."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Tempel von Äskulap",
+                "tip": "Ein etwas abseits gelegener, ruhiger Ort.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Aszklépiosz-templom",
+                "tip": "Egy kissé félreeső, csendes hely.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Templul lui Esculap",
+                "tip": "Un loc liniștit, puțin mai retras.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Temple of Asclepius",
+                "tip": "A slightly secluded, quiet spot.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Honig",
+                "tip": "Aus der Region des Tals der Tempel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi méz",
+                "tip": "A Templomok völgyének környékéről."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere locală",
+                "tip": "Din regiunea Văii Templatelor."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local honey",
+                "tip": "From the Valley of the Temples region."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein E-Bike, da es zurück zur Stadt bergauf geht.",
+              "Die Tempelroute ist tagsüber sehr sonnig, nutzen Sie Sonnenschutz.",
+              "Fahrräder müssen in den archäologischen Bereichen geschoben werden.",
+              "Ausreichend Wasser ist für diese Tour unerlässlich."
+            ],
+            "hu": [
+              "Béreljen elektromos kerékpárt, mert visszafelé a városba emelkedő várja.",
+              "A templomok útja napközben nagyon napos, használjon fényvédőt.",
+              "A régészeti területeken belül tolni kell a kerékpárt.",
+              "A bőséges vízkészlet elengedhetetlen ehhez a túrához."
+            ],
+            "ro": [
+              "Închiriați o bicicletă electrică, deoarece drumul înapoi spre oraș este în pantă.",
+              "Ruta templelor este foarte însorită în timpul zilei, folosiți protecție solară.",
+              "Bicicletele trebuie împinse în interiorul zonelor arheologice.",
+              "Apa din abundență este esențială pentru acest tur."
+            ],
+            "en": [
+              "Rent an e-bike as it's uphill going back to the city.",
+              "The temple route is very sunny during the day, use sunscreen.",
+              "Bicycles must be pushed inside the archaeological areas.",
+              "Sufficient water is essential for this tour."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten vorsichtig auf den nassen Wegen zum Juno-Tempel. Mittags finden wir Schutz im Museumscafé, während die Räder sicher parken. Am Nachmittag erkunden wir die Kolymbethra-Gärten im Regenmantel, umgeben von frischen Düften. Der Tag endet mit einer zügigen Rückfahrt durch die erfrischende Luft.",
+            "hu": "Óvatosan indulunk a vizes utakon a Júnó-templom felé. Délben a múzeum kávézójában találunk menedéket, amíg a biciklik biztonságban pihennek. Délután esőkabátban fedezzük fel a Kolymbethra-kertet a friss illatok között. A napot egy gyors, frissítő gurulással zárjuk.",
+            "ro": "Pornim cu precauție pe drumurile umede spre templul Iunonei. La prânz, găsim adăpost în cafeneaua muzeului, în timp ce bicicletele sunt parcate în siguranță. După-amiaza explorăm grădinile Kolymbethra în pelerină de ploaie, înconjurați de parfumuri proaspete. Ziua se încheie cu o întoarcere rapidă prin aerul revigorant.",
+            "en": "We start cautiously on the wet paths toward the Temple of Juno. At noon, we find shelter in the museum cafe while the bikes are safely parked. In the afternoon, we explore the Kolymbethra gardens in raincoats, surrounded by fresh scents. The day ends with a brisk ride back through the refreshing air."
+          },
+          "stops": [
+            {
+              "name": "Tempio di Giunone",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Schlamm auf den unbefestigten Wegen.",
+                "hu": "Vigyázzon a csúszós sárral a nem aszfaltozott utakon.",
+                "ro": "Atenție la noroiul alunecos de pe drumurile neasfaltate.",
+                "en": "Watch out for slippery mud on the unpaved paths."
+              }
+            },
+            {
+              "name": "Tempio della Concordia",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem windgeschützten Ort ab.",
+                "hu": "Támassza le kerékpárját egy szélvédett helyen.",
+                "ro": "Parcați bicicleta într-un loc ferit de vânt.",
+                "en": "Park your bike in a spot sheltered from the wind."
+              }
+            },
+            {
+              "name": "Giardino della Kolymbethra",
+              "tip_5lang": {
+                "de": "Die Vegetation im Tal bietet etwas Schutz vor leichtem Regen.",
+                "hu": "A völgy dús növényzete némi védelmet nyújt az enyhe eső ellen.",
+                "ro": "Vegetația din vale oferă oarecare protecție împotriva ploii ușoare.",
+                "en": "The valley vegetation offers some protection from light rain."
+              }
+            },
+            {
+              "name": "Museo Archeologico",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um Ihre Kleidung zu trocknen.",
+                "hu": "Használja ki a múzeumlátogatást a ruhák megszárítására.",
+                "ro": "Folosiți vizita la muzeu pentru a vă usca hainele.",
+                "en": "Use the museum visit to dry off your gear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen; der Bremsweg auf nassem Asphalt ist länger.",
+              "Wasserdichte Taschen für Ihre Wertsachen sind heute unerlässlich.",
+              "Vermeiden Sie die steilsten Abfahrten in der Altstadt bei Regen.",
+              "Ein Schutzblech verhindert, dass Schlamm auf Ihren Rücken spritzt."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket; a fékút vizes aszfalton hosszabb lesz.",
+              "A vízálló táska ma elengedhetetlen az értéktárgyak védelmére.",
+              "Esőben kerülje a legmeredekebb lejtőket az óvárosban.",
+              "A sárvédő megakadályozza, hogy a sár a hátára fröccsenjen."
+            ],
+            "ro": [
+              "Verificați frânele; distanța de frânare pe asfalt umed este mai lungă.",
+              "Geantele impermeabile pentru obiectele de valoare sunt esențiale astăzi.",
+              "Evitați cele mai abrupte coborâri din orașul vechi pe ploaie.",
+              "O apărătoare va preveni stropirea cu noroi pe spate."
+            ],
+            "en": [
+              "Check your brakes; the braking distance on wet asphalt is longer.",
+              "Waterproof bags for your valuables are essential today.",
+              "Avoid the steepest descents in the old town during rain.",
+              "A mudguard will prevent mud from splashing onto your back."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Brise belebt die Fahrt entlang der Tempelroute am Morgen. Mittags rasten wir in der milden Wintersonne im geschützten Tal der Kolymbethra. Am Nachmittag nutzen wir das klare Licht für perfekte Fotos am Concordia-Tempel. Vor dem frühen Einbruch der Dunkelheit radeln wir zügig zurück.",
+            "hu": "A hűvös szellő élénkítően hat a templomok menti tekerés közben. Délben a Kolymbethra-völgy szélvédett mélyén pihenünk meg a lágy napsütésben. Délután a kristálytiszta fényeket használjuk a tökéletes fotókhoz a Concordia-templomnál. A sötétedés előtt még időben visszatekerünk.",
+            "ro": "Briza răcoroasă animă drumul de-a lungul rutei templelor dimineața. La prânz ne odihnim în soarele blând de iarnă în valea protejată Kolymbethra. După-amiaza folosim lumina clară pentru fotografii perfecte la templul Concordia. Ne întoarcem rapid înainte de lăsarea timpurie a întunericului.",
+            "en": "The cool breeze enlivens the ride along the temple route in the morning. At noon, we rest in the mild winter sun in the sheltered Kolymbethra valley. In the afternoon, we use the clear light for perfect photos at the Temple of Concordia. We cycle back quickly before the early onset of darkness."
+          },
+          "stops": [
+            {
+              "name": "Tempio di Giunone",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Abfahrt am kühlen Morgen ratsam.",
+                "hu": "A hűvös reggeli guruláshoz ajánlott kesztyűt viselni.",
+                "ro": "Mănușile sunt recomandate pentru coborârea în dimineața răcoroasă.",
+                "en": "Gloves are recommended for the descent on a cool morning."
+              }
+            },
+            {
+              "name": "Tempio della Concordia",
+              "tip_5lang": {
+                "de": "Genießen Sie die Tempel ohne die erschöpfende Sommerhitze.",
+                "hu": "Élvezze a templomokat a kimerítő nyári hőség nélkül.",
+                "ro": "Bucurați-vă de temple fără căldura epuizantă a verii.",
+                "en": "Enjoy the temples without the exhaustive summer heat."
+              }
+            },
+            {
+              "name": "Giardino della Kolymbethra",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für ein windgeschütztes Picknick im Winter.",
+                "hu": "Ideális hely egy szélvédett téli piknikhez.",
+                "ro": "Un loc ideal pentru un picnic de iarnă ferit de vânt.",
+                "en": "An ideal spot for a wind-sheltered winter picnic."
+              }
+            },
+            {
+              "name": "Museo Archeologico",
+              "tip_5lang": {
+                "de": "Hier können Sie sich nach der Fahrt im Wind aufwärmen.",
+                "hu": "Itt jól felmelegedhet a szeles tekerés után.",
+                "ro": "Aici vă puteți încălzi după plimbarea prin vânt.",
+                "en": "Warm up here after your ride in the wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten; es ist warm in der Sonne, kühl im Schatten.",
+              "Die klare Winterluft bietet die beste Sicht bis zum Meer.",
+              "Prüfen Sie Ihre Beleuchtung, da es ab 17:00 Uhr schnell dunkel wird.",
+              "Vermeiden Sie Baumwollkleidung, die bei Schweiß klamm und kalt wird."
+            ],
+            "hu": [
+              "Öltözzön rétegesen; a napon meleg van, árnyékban hűvös.",
+              "A tiszta téli levegő biztosítja a legjobb kilátást a tengerig.",
+              "Ellenőrizze a lámpákat, mert 17:00 után gyorsan sötétedik.",
+              "Kerülje a pamutruházatot, ami izzadáskor nyirkos és hideg marad."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; e cald la soare, dar răcoare la umbră.",
+              "Aerul clar de iarnă oferă cea mai bună vizibilitate până la mare.",
+              "Verificați luminile, deoarece se întunecă rapid după ora 17:00.",
+              "Evitați hainele din bumbac, care devin umede și reci când transpirați."
+            ],
+            "en": [
+              "Dress in layers; it's warm in the sun but cool in the shade.",
+              "The clear winter air offers the best visibility down to the sea.",
+              "Check your lights as it gets dark quickly after 17:00.",
+              "Avoid cotton clothing which stays damp and cold when you sweat."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -807,6 +1579,374 @@
           "Driving in the old town is difficult; park outside the ZTL zone.",
           "Buy the combined ticket for the Valley and Museum in advance."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie bequem die weiter entfernten Highlights. Der Vormittag ist dem Tal der Tempel gewidmet, beginnend am höchsten Punkt. Nach einer erholsamen Pause im Kolymbethra-Garten fahren Sie zur Villa des Nobelpreisträgers Pirandello in Kaos. Den Tag beenden Sie oben in der historischen Stadt bei der imposanten Kathedrale.",
+            "hu": "Autóval kényelmesen elérhetjük a távolabb eső látnivalókat is. A délelőttöt a Templomok völgyének szenteljük, a legmagasabb ponttól indulva. A Kolymbethra-kertben tartott pihenő után a Nobel-díjas Pirandello szülőházához hajtunk Kaosba. A napot a történelmi város felső részén, az impozáns székesegyháznál zárjuk.",
+            "ro": "Cu mașina ajungeți confortabil la obiectivele mai îndepărtate. Dimineața este dedicată Văii Templatelor, începând din cel mai înalt punct. După o pauză relaxantă în Grădina Kolymbethra, mergeți la vila premiatului Nobel, Pirandello, în Kaos. Încheiați ziua în orașul istoric, la catedrala impunătoare.",
+            "en": "By car, you can easily reach the more distant highlights. The morning is dedicated to the Valley of the Temples, starting at the highest point. After a restful break in the Kolymbethra Garden, drive to the villa of Nobel laureate Pirandello in Kaos. End the day up in the historical city at the imposing cathedral."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Juno-Tempel",
+                "hu": "Héra-templom (Giunone)",
+                "ro": "Templul Iunonei",
+                "en": "Tempio di Giunone"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Osteingang für den besten Zugang.",
+                "hu": "Parkoljon a keleti bejáratnál a legjobb megközelítéshez.",
+                "ro": "Parcați la intrarea de est pentru cel mai bun acces.",
+                "en": "Park at the east entrance for the best access."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel der Concordia",
+                "hu": "Concordia-templom",
+                "ro": "Templul Concordiei",
+                "en": "Tempio della Concordia"
+              },
+              "tip_5lang": {
+                "de": "Das Wahrzeichen von Agrigento, perfekt erhalten.",
+                "hu": "Agrigento jelképe, tökéletesen megőrizve.",
+                "ro": "Simbolul Agrigento, conservat perfect.",
+                "en": "The symbol of Agrigento, perfectly preserved."
+              }
+            },
+            {
+              "name": {
+                "de": "Kolymbethra-Garten",
+                "hu": "Kolymbethra-kert",
+                "ro": "Grădina Kolymbethra",
+                "en": "Giardino della Kolymbethra"
+              },
+              "tip_5lang": {
+                "de": "Ein Picknickplatz unter jahrhundertealten Bäumen.",
+                "hu": "Piknikezőhely évszázados fák alatt.",
+                "ro": "Loc de picnic sub arbori seculari.",
+                "en": "A picnic spot under century-old trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Geburtshaus von Luigi Pirandello",
+                "hu": "Luigi Pirandello szülőháza",
+                "ro": "Casa natală a lui Luigi Pirandello",
+                "en": "Casa Natale di Luigi Pirandello"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Grab des Autors unter der Kiefer.",
+                "hu": "Látogassa meg az író sírját a fenyőfa alatt.",
+                "ro": "Vizitați mormântul autorului sub pin.",
+                "en": "Visit the author's grave under the pine tree."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale von San Gerlando",
+                "hu": "San Gerlando-székesegyház",
+                "ro": "Catedrala San Gerlando",
+                "en": "Cattedrale di San Gerlando"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Duomo für den Altstadtbummel.",
+                "hu": "Parkoljon a dóm közelében az óvárosi sétához.",
+                "ro": "Parcați lângă Dom pentru plimbarea în centrul vechi.",
+                "en": "Park near the Duomo for the old town stroll."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pasta con le sarde",
+                "tip": "Sizilianischer Klassiker mit Sardinen und Fenchel."
+              },
+              {
+                "name": "Trattoria dei Templi",
+                "tip": "Hervorragende Küche direkt bei den archäologischen Stätten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pasta con le sarde",
+                "tip": "Szicíliai klasszikus szardíniával és édesköménnyel."
+              },
+              {
+                "name": "Trattoria dei Templi",
+                "tip": "Kiváló konyha közvetlenül a régészeti lelőhelyeknél."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pasta con le sarde",
+                "tip": "Clasic sicilian cu sardine și fenicul."
+              },
+              {
+                "name": "Trattoria dei Templi",
+                "tip": "Bucătărie excelentă chiar lângă siturile arheologice."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pasta con le sarde",
+                "tip": "Sicilian classic with sardines and fennel."
+              },
+              {
+                "name": "Trattoria dei Templi",
+                "tip": "Excellent cuisine right by the archaeological sites."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "San Leone Beach",
+                "tip": "Nur 10 Min. mit dem Auto, ideal für eine Pause am Meer.",
+                "emoji": "🏖️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "San Leone strand",
+                "tip": "Csak 10 perc autóval, ideális egy tengerparti pihenőhöz.",
+                "emoji": "🏖️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Plaja San Leone",
+                "tip": "La doar 10 min. cu mașina, ideală pentru o pauză la mare.",
+                "emoji": "🏖️"
+              }
+            ],
+            "en": [
+              {
+                "name": "San Leone Beach",
+                "tip": "Only 10 min by car, ideal for a seaside break.",
+                "emoji": "🏖️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Pistazienprodukte",
+                "tip": "Siziliens grünes Gold in Gläsern oder Gebäck."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pisztácia termékek",
+                "tip": "Szicília zöld aranya üvegben vagy süteményben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Produse cu fistic",
+                "tip": "Aurul verde al Siciliei în borcane sau prăjituri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pistachio products",
+                "tip": "Sicily's green gold in jars or pastries."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die bewachten Parkplätze an den Eingängen zum Tal der Tempel.",
+              "Ein Mietwagen ermöglicht einen Abstecher zur Scala dei Turchi (15 km).",
+              "In der Altstadt ist das Fahren schwierig, parken Sie außerhalb der ZTL.",
+              "Kaufen Sie das Kombiticket für Tal und Museum im Voraus."
+            ],
+            "hu": [
+              "Használja az őrzött parkolókat a Templomok völgye bejáratainál.",
+              "A bérautó lehetővé teszi a közeli Scala dei Turchi felkeresését (15 km).",
+              "Az óvárosban nehéz a vezetés, parkoljon a ZTL zónán kívül.",
+              "Vegye meg előre a kombinált jegyet a völgybe és a múzeumba."
+            ],
+            "ro": [
+              "Folosiți parcările păzite de la intrările în Valea Templatelor.",
+              "O mașină închiriată permite o excursie la Scala dei Turchi (15 km).",
+              "Condusul în centrul vechi este dificil, parcați în afara zonei ZTL.",
+              "Cumpărați biletul combinat pentru Vale și Muzeu în avans."
+            ],
+            "en": [
+              "Use the guarded parking lots at the entrances to the Valley of the Temples.",
+              "A rental car allows a detour to Scala dei Turchi (15 km away).",
+              "Driving in the old town is difficult; park outside the ZTL zone.",
+              "Buy the combined ticket for the Valley and Museum in advance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Dank des Autos erreichen wir den Juno-Tempel trocken. Mittags parken wir bequem direkt am Kolymbethra-Garten. Am Nachmittag bietet das Pirandello-Haus einen gemütlichen kulturellen Aufenthalt im Inneren. Den Tag schließen wir mit einer Fahrt zur Kathedrale ab, während der Regen gegen die Scheiben trommelt.",
+            "hu": "Az autónak köszönhetően szárazon érjük el a Júnó-templomot. Délben kényelmesen parkolunk közvetlenül a Kolymbethra-kertnél. Délután a Pirandello-ház nyújt meghitt, fedett kulturális programot. A napot a katedrálishoz tett autózással zárjuk, miközben az eső kopog a szélvédőn.",
+            "ro": "Datorită mașinii, ajungem uscați la templul Iunonei. La prânz, parcăm confortabil chiar lângă grădina Kolymbethra. După-amiaza, casa lui Pirandello oferă un sejur cultural primitor în interior. Încheiem ziua cu o plimbare spre catedrală în timp ce ploaia bate în parbriz.",
+            "en": "Thanks to the car, we reach the Temple of Juno dry. At noon, we park conveniently right at the Kolymbethra garden. In the afternoon, Pirandello's house offers a cozy indoor cultural stay. We close the day with a drive to the cathedral while the rain drums against the windshield."
+          },
+          "stops": [
+            {
+              "name": "Tempio di Giunone",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Fußweg im Regen zu verkürzen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy lerövidítse az utat az esőben.",
+                "ro": "Parcați aproape de intrare pentru a scurta drumul pe jos prin ploaie.",
+                "en": "Park close to the entrance to shorten the walk in the rain."
+              }
+            },
+            {
+              "name": "Tempio della Concordia",
+              "tip_5lang": {
+                "de": "Ein Regenschirm im Kofferraum ist heute Gold wert.",
+                "hu": "Egy esernyő a csomagtartóban ma aranyat ér.",
+                "ro": "O umbrelă în portbagaj valorează aur astăzi.",
+                "en": "An umbrella in the trunk is worth gold today."
+              }
+            },
+            {
+              "name": "Giardino della Kolymbethra",
+              "tip_5lang": {
+                "de": "Die Wege im Garten können bei Regen etwas schlammig sein.",
+                "hu": "A kert útjai esőben kissé sárosak lehetnek.",
+                "ro": "Potecile din grădină pot fi puțin noroioase pe ploaie.",
+                "en": "The paths in the garden can be a bit muddy in the rain."
+              }
+            },
+            {
+              "name": "Casa Natale di Luigi Pirandello",
+              "tip_5lang": {
+                "de": "Ein wunderbares Museumsziel, um im Trockenen zu bleiben.",
+                "hu": "Csodálatos múzeumi célpont, hogy szárazon maradjunk.",
+                "ro": "O destinație muzeală minunată pentru a rămâne la adăpost.",
+                "en": "A wonderful museum destination to stay dry."
+              }
+            },
+            {
+              "name": "Cattedrale di San Gerlando",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze in der Nähe der Oberstadt.",
+                "hu": "Használja a felsőváros közelében található parkolókat.",
+                "ro": "Folosiți locurile de parcare din apropierea orașului de sus.",
+                "en": "Use the parking spaces near the upper town."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkplatzsuche in der Nähe der Tempel ist bei Regen oft einfacher.",
+              "Vorsicht bei Starkregen auf den kurvigen Straßen rund um Agrigent.",
+              "Halten Sie ein Handtuch im Auto bereit, falls Sie nass werden.",
+              "Das Auto ist ideal, um schnell zwischen den überdachten Museen zu wechseln."
+            ],
+            "hu": [
+              "Esőben gyakran könnyebb parkolóhelyet találni a templomok közelében.",
+              "Heves esőzéskor legyen óvatos Agrigento kanyargós útjain.",
+              "Legyen egy törölköző az autóban, ha esetleg megázna.",
+              "Az autó ideális a fedett múzeumok közötti gyors váltáshoz."
+            ],
+            "ro": [
+              "Găsirea unui loc de parcare lângă temple este adesea mai ușoară pe ploaie.",
+              "Atenție la ploi torențiale pe drumurile șerpuite din jurul Agrigento.",
+              "Țineți un prosop în mașină în caz că vă udați.",
+              "Mașina este ideală pentru a schimba rapid între muzeele acoperite."
+            ],
+            "en": [
+              "Finding parking near the temples is often easier in the rain.",
+              "Watch out for heavy rain on the winding roads around Agrigento.",
+              "Keep a towel in the car in case you get wet.",
+              "The car is ideal for switching quickly between covered museums."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am klaren Wintermorgen genießen wir die Fahrt zum Juno-Tempel ohne Touristenbusse. Mittags bietet das Auto eine warme Basis für unsere Erkundung der Kolymbethra. Am Nachmittag wärmen wir uns im Pirandello-Haus auf. Der Tag endet mit einer Fahrt durch die festlich beleuchteten Straßen der Stadt.",
+            "hu": "A tiszta téli reggelen élvezzük az autózást a Júnó-templomhoz a turistabuszok nélkül. Délben az autó meleg bázist nyújt a Kolymbethra felfedezéséhez. Délután a Pirandello-házban melegszünk fel. A nap a város ünnepien kivilágított utcáin tett autózással zárul.",
+            "ro": "În dimineața clară de iarnă ne bucurăm de drumul spre templul Iunonei fără autobuze turistice. La prânz, mașina oferă o bază caldă pentru explorarea Kolymbethra. După-amiaza ne încălzim în casa lui Pirandello. Ziua se încheie cu o plimbare pe străzile luminate festiv ale orașului.",
+            "en": "On a clear winter morning, we enjoy the drive to the Temple of Juno without tourist buses. At noon, the car provides a warm base for our exploration of Kolymbethra. In the afternoon, we warm up in Pirandello's house. The day ends with a drive through the city's festively lit streets."
+          },
+          "stops": [
+            {
+              "name": "Tempio di Giunone",
+              "tip_5lang": {
+                "de": "Das klare Licht am Morgen ist ideal für weite Panoramen.",
+                "hu": "A tiszta reggeli fény ideális a távoli panorámákhoz.",
+                "ro": "Lumina clară a dimineții este ideală pentru panorame vaste.",
+                "en": "The clear morning light is ideal for wide panoramas."
+              }
+            },
+            {
+              "name": "Tempio della Concordia",
+              "tip_5lang": {
+                "de": "Keine Warteschlangen an den Parkplätzen im Winter.",
+                "hu": "Télen nincsenek sorok a parkolókban.",
+                "ro": "Nu sunt cozi la parcări în timpul iernii.",
+                "en": "No queues at the parking lots in winter."
+              }
+            },
+            {
+              "name": "Giardino della Kolymbethra",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Garten mittags, wenn die Sonne am höchsten steht.",
+                "hu": "Délben látogassa meg a kertet, amikor legmagasabban jár a nap.",
+                "ro": "Vizitați grădina la prânz, când soarele este cel mai sus.",
+                "en": "Visit the garden at noon when the sun is highest."
+              }
+            },
+            {
+              "name": "Casa Natale di Luigi Pirandello",
+              "tip_5lang": {
+                "de": "Ein gemütlicher, beheizter Ort für den Nachmittag.",
+                "hu": "Hangulatos, fűtött helyszín a délutáni órákra.",
+                "ro": "Un loc primitor și încălzit pentru orele după-amiezii.",
+                "en": "A cozy, heated location for the afternoon hours."
+              }
+            },
+            {
+              "name": "Cattedrale di San Gerlando",
+              "tip_5lang": {
+                "de": "Die Oberstadt ist im Winterlicht besonders fotogen.",
+                "hu": "A felsőváros különösen fotogén a téli fényekben.",
+                "ro": "Orașul de sus este deosebit de fotogenic în lumina iernii.",
+                "en": "The upper town is especially photogenic in the winter light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Sizilien meist nicht nötig, aber prüfen Sie den Frostschutz.",
+              "Die Parkgebühren sind in der Nebensaison manchmal reduziert.",
+              "Genießen Sie die Heizung im Auto zwischen den windigen Stopps im Tal.",
+              "Fahren Sie vor 17:00 Uhr zum Aussichtspunkt, um den Sonnenuntergang zu sehen."
+            ],
+            "hu": [
+              "Szicíliában ritkán kell téli gumi, de ellenőrizze a fagyállót.",
+              "A parkolási díjak a főszezonon kívül néha kedvezőbbek.",
+              "Élvezze az autó fűtését a szeles völgyi megállók között.",
+              "Hajtson ki a kilátóponthoz 17:00 előtt a naplemente megtekintéséhez."
+            ],
+            "ro": [
+              "Anvelopele de iarnă nu sunt necesare în Sicilia, dar verificați antigelul.",
+              "Taxele de parcare sunt uneori reduse în afara sezonului.",
+              "Bucurați-vă de căldura din mașină între opririle vântoase din vale.",
+              "Mergeți la punctul de belvedere înainte de ora 17:00 pentru apus."
+            ],
+            "en": [
+              "Winter tires aren't usually needed in Sicily, but check the antifreeze.",
+              "Parking fees are sometimes reduced during the off-season.",
+              "Enjoy the car heater between the windy stops in the valley.",
+              "Drive to the viewpoint before 17:00 to see the sunset."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1046,6 +2186,358 @@
           "Buses run less frequently on Sundays, so check the timetable.",
           "The main bus hub is at Piazzale Rosselli."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Das städtische Bussystem verbindet den oberen Teil der Stadt mit der archäologischen Zone. Nach der Besichtigung der religiösen Schätze in der Altstadt bringt Sie der Bus hinunter zum Museum. Von dort aus erkunden Sie das Tal der Tempel zu Fuß bis zum Juno-Tempel, von wo aus Sie bequem wieder ins Zentrum zurückkehren können.",
+            "hu": "A városi buszhálózat összeköti a felső várost a régészeti zónával. Az óváros vallási kincseinek megtekintése után busszal megyünk le a múzeumhoz. Onnan gyalog fedezzük fel a Templomok völgyét egészen a Héra-templomig, ahonnan kényelmesen visszatérhetünk a központba.",
+            "ro": "Sistemul municipal de autobuze conectează partea de sus a orașului cu zona arheologică. După vizitarea comorilor religioase din centrul vechi, autobuzul vă duce jos la muzeu. De acolo, explorați Valea Templatelor la pas până la Templul Iunonei, de unde vă puteți întoarce confortabil în centru.",
+            "en": "The municipal bus system connects the upper part of the city with the archaeological zone. After seeing the religious treasures in the old town, the bus takes you down to the museum. From there, you explore the Valley of the Temples on foot as far as the Temple of Juno, from where you can easily return to the center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale von San Gerlando",
+                "hu": "San Gerlando-székesegyház",
+                "ro": "Catedrala San Gerlando",
+                "en": "Cattedrale di San Gerlando"
+              },
+              "tip_5lang": {
+                "de": "Vom Bahnhof nehmen Sie den Bus Linie 1 nach oben.",
+                "hu": "A vasútállomástól menjen az 1-es busszal felfelé.",
+                "ro": "De la gară, luați autobuzul linia 1 spre partea de sus.",
+                "en": "Take bus line 1 from the station up to the cathedral."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Santo Spirito",
+                "hu": "Santo Spirito kolostor",
+                "ro": "Mănăstirea Santo Spirito",
+                "en": "Monastero del Santo Spirito"
+              },
+              "tip_5lang": {
+                "de": "Nur ein kurzer Spaziergang von der Bushaltestelle in der Altstadt.",
+                "hu": "Csak rövid séta az óvárosi buszmegállótól.",
+                "ro": "O scurtă plimbare de la stația de autobuz din centrul vechi.",
+                "en": "Just a short walk from the bus stop in the old town."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul Arheologic",
+                "en": "Museo Archeologico"
+              },
+              "tip_5lang": {
+                "de": "Die Linien 1, 2 und 3 halten direkt am Museum.",
+                "hu": "Az 1-es, 2-es és 3-as buszok közvetlenül a múzeumnál állnak meg.",
+                "ro": "Liniile 1, 2 și 3 opresc chiar la muzeu.",
+                "en": "Lines 1, 2, and 3 stop right at the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel der Concordia",
+                "hu": "Concordia-templom",
+                "ro": "Templul Concordiei",
+                "en": "Tempio della Concordia"
+              },
+              "tip_5lang": {
+                "de": "Vom Museumseingang ist es ein kurzer Spaziergang ins Tal.",
+                "hu": "A múzeum bejáratától rövid séta a völgybe.",
+                "ro": "De la intrarea muzeului este o scurtă plimbare în Vale.",
+                "en": "It's a short walk into the valley from the museum entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Juno-Tempel",
+                "hu": "Héra-templom (Giunone)",
+                "ro": "Templul Iunonei",
+                "en": "Tempio di Giunone"
+              },
+              "tip_5lang": {
+                "de": "Der Bus fährt regelmäßig vom Osteingang zurück zum Bahnhof.",
+                "hu": "A busz rendszeresen jár vissza a keleti bejárattól az állomásra.",
+                "ro": "Autobuzul circulă regulat de la intrarea de est înapoi la gară.",
+                "en": "The bus runs regularly from the east entrance back to the station."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Cannoli siciliani",
+                "tip": "Süße Belohnung in einer Konditorei am Piazzale Roma."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cannoli",
+                "tip": "Édes jutalom egy cukrászdában a Piazzale Románál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cannoli sicilieni",
+                "tip": "Răsfăț dulce la o patiserie din Piazzale Roma."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sicilian Cannoli",
+                "tip": "Sweet reward at a pastry shop near Piazzale Roma."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Giardino botanico",
+                "tip": "Nahe der Bushaltestelle im Zentrum.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Botanikus kert",
+                "tip": "A központi buszmegálló közelében.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina botanică",
+                "tip": "Aproape de stația de autobuz din centru.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Botanical Garden",
+                "tip": "Near the central bus stop.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Keramik",
+                "tip": "Handbemalte Stücke in den Läden der Altstadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kerámia",
+                "tip": "Kézzel festett darabok az óvárosi boltokban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ceramică",
+                "tip": "Piese pictate manual în magazinele din centrul vechi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ceramics",
+                "tip": "Hand-painted pieces in the shops of the old town."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Bustickets vorab in Tabakläden (Tabacchi) oder Kiosken.",
+              "Die Linien 1, 2 und 3 sind am nützlichsten für Touristen.",
+              "Sonntags verkehren die Busse seltener, prüfen Sie den Fahrplan.",
+              "Die Hauptbushaltestelle ist am Piazzale Rosselli."
+            ],
+            "hu": [
+              "Vásároljon buszjegyet előre trafikokban (Tabacchi) vagy újságárusoknál.",
+              "Az 1-es, 2-es és 3-as vonalak a leghasznosabbak a turisták számára.",
+              "Vasárnap ritkábban járnak a buszok, ellenőrizze a menetrendet.",
+              "A fő buszmegálló a Piazzale Rosselli téren található."
+            ],
+            "ro": [
+              "Cumpărați bilete de autobuz în avans de la chioșcurile de ziare sau Tabacchi.",
+              "Liniile 1, 2 și 3 sunt cele mai utile pentru turiști.",
+              "Duminica autobuzele circulă mai rar, verificați orarul.",
+              "Stația principală de autobuz este în Piazzale Rosselli."
+            ],
+            "en": [
+              "Buy bus tickets in advance at tobacco shops (Tabacchi) or kiosks.",
+              "Lines 1, 2, and 3 are the most useful for tourists.",
+              "Buses run less frequently on Sundays, so check the timetable.",
+              "The main bus hub is at Piazzale Rosselli."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Bus bringt uns am Morgen trocken direkt zur Kathedrale. Mittags warten wir geschützt in der Haltestelle am Museum auf die nächste Verbindung. Am Nachmittag erkunden wir die Tempel im Regen und kehren dann in den warmen Bus zurück. Den Tag beenden wir mit einer entspannten Rückfahrt in die Stadt.",
+            "hu": "A busz reggel szárazon visz minket közvetlenül a katedrálishoz. Délben a múzeumnál lévő fedett megállóban várjuk a következő járatot. Délután az esőben fedezzük fel a templomokat, majd visszatérünk a meleg buszba. A napot egy pihentető városi utazással zárjuk.",
+            "ro": "Autobuzul ne duce uscați direct la catedrală dimineața. La prânz așteptăm următoarea legătură în stația protejată de la muzeu. După-amiaza explorăm templele în ploaie, apoi ne întoarcem în autobuzul cald. Încheiem ziua cu o călătorie relaxantă înapoi în oraș.",
+            "en": "The bus takes us dry directly to the cathedral in the morning. At noon, we wait for the next connection in the sheltered bus stop by the museum. In the afternoon, we explore the temples in the rain and then return to the warm bus. We end the day with a relaxing ride back into town."
+          },
+          "stops": [
+            {
+              "name": "Cattedrale di San Gerlando",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nur wenige Schritte vom Kircheneingang entfernt.",
+                "hu": "A buszmegálló csak pár lépésre van a templom bejáratától.",
+                "ro": "Stația de autobuz este la doar câțiva pași de intrarea în biserică.",
+                "en": "The bus stop is only a few steps from the church entrance."
+              }
+            },
+            {
+              "name": "Monastero del Santo Spirito",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um im Inneren zu bleiben, wenn es draußen gießt.",
+                "hu": "Jó hely a bennmaradásra, ha kint ömlik az eső.",
+                "ro": "Un loc bun pentru a rămâne în interior dacă afară plouă torențial.",
+                "en": "A good place to stay inside if it's pouring outside."
+              }
+            },
+            {
+              "name": "Museo Archeologico",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehalle des Museums, um trocken zu bleiben.",
+                "hu": "Használja a múzeum várócsarnokát, hogy szárazon maradjon.",
+                "ro": "Folosiți holul de așteptare al muzeului pentru a rămâne uscați.",
+                "en": "Use the museum's waiting hall to stay dry."
+              }
+            },
+            {
+              "name": "Tempio della Concordia",
+              "tip_5lang": {
+                "de": "Wappnen Sie sich für den kurzen Fußweg von der Bushaltestelle.",
+                "hu": "Készüljön fel a buszmegállótól tartó rövid sétára.",
+                "ro": "Pregătiți-vă pentru scurta plimbare de la stația de autobuz.",
+                "en": "Prepare for the short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Tempio di Giunone",
+              "tip_5lang": {
+                "de": "Die Busse verkehren bei Regen nach Plan, können aber Verspätung haben.",
+                "hu": "A buszok esőben is menetrend szerint járnak, de lehetnek késések.",
+                "ro": "Autobuzele circulă conform programului pe ploaie, dar pot avea întârzieri.",
+                "en": "Buses run on schedule in the rain but may experience delays."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Abfahrtszeiten online, um langes Warten im Freien zu vermeiden.",
+              "Die Linien 1, 2 und 3 sind die besten Verbindungen zum Tal der Tempel.",
+              "Halten Sie Ihr Ticket griffbereit, um Verzögerungen beim Einsteigen zu vermeiden.",
+              "Nutzen Sie die überdachten Bushaltestellen in der Nähe des Museums."
+            ],
+            "hu": [
+              "Ellenőrizze az indulási időket online, hogy elkerülje a kinti várakozást.",
+              "Az 1-es, 2-es és 3-as vonal a legjobb kapcsolat a Templomok Völgyéhez.",
+              "Tartsa kéznél a jegyét, hogy elkerülje a késedelmet felszálláskor.",
+              "Használja a fedett buszmegállókat a múzeum közelében."
+            ],
+            "ro": [
+              "Verificați orele de plecare online pentru a evita așteptarea lungă afară.",
+              "Liniile 1, 2 și 3 sunt cele mai bune conexiuni către Valea Templelor.",
+              "Păstrați biletul la îndemână pentru a evita întârzierile la urcare.",
+              "Folosiți stațiile de autobuz acoperite din apropierea muzeului."
+            ],
+            "en": [
+              "Check departure times online to avoid long waits outdoors.",
+              "Lines 1, 2, and 3 are the best connections to the Valley of the Temples.",
+              "Keep your ticket handy to avoid delays when boarding.",
+              "Make use of the sheltered bus stops near the museum."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am hühleren Wintermorgen ist der Bus der angenehmste Weg in die Oberstadt. Mittags nutzen wir die Verbindung zum Museum und genießen die Sonne im Freien. Am Nachmittag bringt uns der Bus zum Juno-Tempel für das letzte Licht. Wir beenden den Tag, bevor die Winterkälte am Abend einsetzt.",
+            "hu": "A hűvösebb téli reggelen a busz a legkényelmesebb mód a felsőváros elérésére. Délben a múzeumi járattal utazunk, és élvezzük a napsütést. Délután a busz a Júnó-templomhoz visz minket az utolsó fényekhez. A napot még az esti hideg beállta előtt befejezzük.",
+            "ro": "În dimineața mai rece de iarnă, autobuzul este cel mai confortabil mod de a ajunge în orașul de sus. La prânz folosim legătura spre muzeu și ne bucurăm de soare. După-amiaza, autobuzul ne duce la templul Iunonei pentru ultima lumină. Încheiem ziua înainte de lăsarea frigului de seară.",
+            "en": "On a cooler winter morning, the bus is the most comfortable way to reach the upper town. At noon, we use the museum connection and enjoy the sun outdoors. In the afternoon, the bus takes us to the Temple of Juno for the last light. We finish the day before the evening cold sets in."
+          },
+          "stops": [
+            {
+              "name": "Cattedrale di San Gerlando",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse oft weniger überfüllt.",
+                "hu": "Télen a buszok gyakran kevésbé zsúfoltak.",
+                "ro": "Iarna, autobuzele sunt adesea mai puțin aglomerate.",
+                "en": "In winter, buses are often less crowded."
+              }
+            },
+            {
+              "name": "Monastero del Santo Spirito",
+              "tip_5lang": {
+                "de": "Ein warmer Zwischenstopp auf Ihrer Route durch die Stadt.",
+                "hu": "Meleg pihenőhely a városon keresztüli útvonalán.",
+                "ro": "O oprire caldă pe traseul dumneavoastră prin oraș.",
+                "en": "A warm stopover on your route through the city."
+              }
+            },
+            {
+              "name": "Museo Archeologico",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan an der Museumshaltestelle.",
+                "hu": "Ellenőrizze a téli menetrendet a múzeumi megállónál.",
+                "ro": "Verificați orarul de iarnă la stația muzeului.",
+                "en": "Check the winter schedule at the museum stop."
+              }
+            },
+            {
+              "name": "Tempio della Concordia",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht im milden Licht des Winternachmittags.",
+                "hu": "Élvezze a kilátást a téli délután lágy fényeiben.",
+                "ro": "Bucurați-vă de priveliște în lumina blândă a după-amiezii de iarnă.",
+                "en": "Enjoy the view in the mild light of the winter afternoon."
+              }
+            },
+            {
+              "name": "Tempio di Giunone",
+              "tip_5lang": {
+                "de": "Die letzte Busfahrt des Tages bietet oft einen tollen Ausblick.",
+                "hu": "A nap utolsó buszos útja gyakran remek kilátást nyújt.",
+                "ro": "Ultima călătorie cu autobuzul oferă adesea o priveliște minunată.",
+                "en": "The last bus ride of the day often offers a great view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie, dass die Busse im Winter seltener verkehren können.",
+              "Der Bus bietet eine willkommene Aufwärmpause zwischen den Besichtigungen.",
+              "Kaufen Sie Ihre Fahrkarten vorab in einem Tabakladen (Tabacchi).",
+              "Die letzte Rückfahrt aus dem Tal ist oft gegen 19:00 Uhr; prüfen Sie dies."
+            ],
+            "hu": [
+              "Vegye figyelembe, hogy télen a buszok ritkábban járhatnak.",
+              "A busz kellemes melegedési lehetőséget nyújt a látnivalók között.",
+              "Vásárolja meg jegyeit előre egy dohányboltban (Tabacchi).",
+              "Az utolsó járat a völgyből gyakran 19:00 körül indul; ellenőrizze."
+            ],
+            "ro": [
+              "Rețineți că autobuzele pot circula mai rar în timpul iernii.",
+              "Autobuzul oferă o pauză binemeritată de încălzire între vizite.",
+              "Cumpărați biletele în avans de la un magazin de tutun (Tabacchi).",
+              "Ultima cursă de întoarcere din vale este adesea în jurul orei 19:00."
+            ],
+            "en": [
+              "Note that buses may run less frequently during the winter.",
+              "The bus offers a welcome warm-up break between sightseeing stops.",
+              "Buy your tickets in advance at a tobacco shop (Tabacchi).",
+              "The last return trip from the valley is often around 19:00; check this."
+            ]
+          }
+        }
       }
     }
   },

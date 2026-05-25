@@ -292,6 +292,423 @@
           "Parking spaces are limited in summer, arrive early.",
           "Visit Tisno during the international donkey race in August."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie das Herz von Tisno rund um die berühmte Ziehbrücke, die das Festland mit der Insel Murter verbindet.\n\nMittags schlendern Sie durch die engen Gassen, bewundern barocke Paläste und besuchen die historischen Kirchen im Ortskern.\n\nNachmittags steigen Sie zum Heiligtum von Karavaj auf, einem spirituellen Ort mit einem der besten Ausblicke der Region.\n\nAbends lassen Sie den Tag am Strand Jazine ausklingen, wo das ruhige Wasser perfekt für ein erfrischendes Bad ist.",
+            "hu": "Reggel fedezze fel Tisno szívét a híres felvonóhíd körül, amely összeköti a szárazföldet Murter-szigetével.\n\nDélben sétáljon végig a szűk utcákon, csodálja meg a barokk palotákat és látogassa meg a központ történelmi templomait.\n\nDélután másszon fel a Karavaj-szentélyhez, amely egy spirituális hely a régió egyik legjobb kilátásával.\n\nEste zárja a napot a Jazine-strandon, ahol a nyugodt víz tökéletes egy frissítő fürdőzéshez.",
+            "ro": "Dimineața explorați inima orașului Tisno în jurul celebrului pod mobil care leagă continentul de insula Murter.\n\nLa prânz plimbați-vă pe străzile înguste, admirați palatele baroce și vizitați bisericile istorice din centrul vechi.\n\nDupă-amiaza urcați la sanctuarul Karavaj, un loc spiritual care oferă una dintre cele mai bune priveliști din regiune.\n\nSeara încheiați ziua pe plaja Jazine, unde apa liniștită este perfectă pentru o baie răcoritoare.",
+            "en": "In the morning, explore the heart of Tisno around the famous drawbridge connecting the mainland to Murter Island.\n\nAt midday, stroll through the narrow streets, admire the baroque palaces, and visit the historical churches in the center.\n\nIn the afternoon, climb up to the Karavaj sanctuary, a spiritual site offering some of the best views in the region.\n\nIn the evening, end your day at Jazine beach, where the calm water is perfect for a refreshing swim."
+          },
+          "stops": [
+            {
+              "name": "Platz der Tisno-Bruderschaften",
+              "tip_5lang": {
+                "de": "Trinken Sie hier Ihren ersten Espresso mit Blick auf den Kanal.",
+                "hu": "Igya meg itt az első eszpresszóját a csatornára nézve.",
+                "ro": "Savurați aici primul espresso cu vedere la canal.",
+                "en": "Enjoy your first espresso here overlooking the canal."
+              }
+            },
+            {
+              "name": "Ziehbrücke von Tisno",
+              "tip_5lang": {
+                "de": "Täglich um 09:00 und 17:00 Uhr öffnet sich die Brücke.",
+                "hu": "A híd minden nap 09:00-kor és 17:00-kor nyílik ki.",
+                "ro": "Podul se deschide zilnic la orele 09:00 și 17:00.",
+                "en": "The bridge opens daily at 09:00 and 17:00."
+              }
+            },
+            {
+              "name": "Palast Banovčevih",
+              "tip_5lang": {
+                "de": "Ein schönes Beispiel für die Barockarchitektur der Insel.",
+                "hu": "A sziget barokk építészetének szép példája.",
+                "ro": "Un exemplu frumos de arhitectură barocă pe insulă.",
+                "en": "A fine example of baroque architecture on the island."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Geistes",
+              "tip_5lang": {
+                "de": "Achten Sie auf die kunstvollen Altarbilder im Inneren.",
+                "hu": "Figyeljen a belső tér művészi oltárképeire.",
+                "ro": "Admirați picturile murale artistice din interior.",
+                "en": "Note the artistic altarpieces inside."
+              }
+            },
+            {
+              "name": "Villa Katina",
+              "tip_5lang": {
+                "de": "Prachtvolle Villa direkt an der Uferpromenade.",
+                "hu": "Pompás villa közvetlenül a parti sétányon.",
+                "ro": "Vilă splendidă situată chiar pe faleza orașului.",
+                "en": "Splendid villa located right on the waterfront promenade."
+              }
+            },
+            {
+              "name": "Heiligtum Unserer Lieben Frau von Karavaj",
+              "tip_5lang": {
+                "de": "Der Aufstieg lohnt sich für das Panorama über Tisno.",
+                "hu": "A feljutás megéri a Tisno feletti panoráma miatt.",
+                "ro": "Urcarea merită pentru panorama asupra orașului Tisno.",
+                "en": "The climb is worth it for the panorama over Tisno."
+              }
+            },
+            {
+              "name": "Strand Jazine",
+              "tip_5lang": {
+                "de": "Flaches Wasser, ideal für Familien und zum Entspannen.",
+                "hu": "Sekély víz, ideális családoknak és pihenésre.",
+                "ro": "Apă puțin adâncă, ideală pentru familii și relaxare.",
+                "en": "Shallow water, ideal for families and relaxation."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Brošćica",
+                "tip": "Traditioneller Peka und frischer Fisch direkt am Meer."
+              },
+              {
+                "name": "Restaurant Carmen",
+                "tip": "Hervorragende Meeresfrüchte-Pasta in gemütlicher Atmosphäre."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba Brošćica",
+                "tip": "Tradicionális peka és friss hal közvetlenül a tengerparton."
+              },
+              {
+                "name": "Restaurant Carmen",
+                "tip": "Kiváló tenger gyümölcseivel tálalt tészta hangulatos környezetben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Brošćica",
+                "tip": "Peka tradițională și pește proaspăt chiar pe malul mării."
+              },
+              {
+                "name": "Restaurant Carmen",
+                "tip": "Paste excelente cu fructe de mare într-o atmosferă primitoare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Brošćica",
+                "tip": "Traditional peka and fresh fish right by the sea."
+              },
+              {
+                "name": "Restaurant Carmen",
+                "tip": "Excellent seafood pasta in a cozy atmosphere."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Gospa od Karavaja Hügel",
+                "tip": "Ein friedlicher Ort für den Sonnenuntergang.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Kiefernwald bei Jazine",
+                "tip": "Schatten und Meeresrauschen abseits der Massen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gospa od Karavaja domb",
+                "tip": "Békés hely a naplemente megtekintéséhez.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Fenyőerdő Jazine mellett",
+                "tip": "Árnyék és tengerzúgás távol a tömegtől.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Dealul Gospa od Karavaja",
+                "tip": "Un loc liniștit pentru a privi apusul.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Pădurea de pini de lângă Jazine",
+                "tip": "Umbră și sunetul mării departe de mulțime.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Gospa od Karavaja Hill",
+                "tip": "A peaceful spot for the sunset.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Pine forest near Jazine",
+                "tip": "Shade and sea sounds away from the crowds.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Markt Tisno",
+                "tip": "Frisches Obst, Gemüse und lokales Olivenöl."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tisnói helyi piac",
+                "tip": "Friss gyümölcs, zöldség és helyi olívaolaj."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața locală din Tisno",
+                "tip": "Fructe proaspete, legume și ulei de măsline local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Market Tisno",
+                "tip": "Fresh fruit, vegetables, and local olive oil."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Brücke ist das Herzstück des Ortes, planen Sie die Überquerung ein.",
+              "Festes Schuhwerk für den Weg zum Karavaj-Hügel empfohlen.",
+              "Parkplätze sind im Sommer begrenzt, kommen Sie früh.",
+              "Besuchen Sie Tisno während des internationalen Eselrennens im August."
+            ],
+            "hu": [
+              "A híd a város szíve, tervezze be az áthaladást rajta.",
+              "A Karavaj-dombhoz vezető úthoz kényelmes cipő javasolt.",
+              "Nyáron a parkolóhelyek száma korlátozott, érkezzen korán.",
+              "Látogasson el Tisnóba az augusztusi nemzetközi szamárverseny idején."
+            ],
+            "ro": [
+              "Podul este inima orașului, asigurați-vă că îl traversați.",
+              "Se recomandă încălțăminte comodă pentru drumul spre dealul Karavaj.",
+              "Locurile de parcare sunt limitate vara, veniți devreme.",
+              "Vizitați Tisno în timpul cursei internaționale de măgari din august."
+            ],
+            "en": [
+              "The bridge is the heart of the town, make sure to cross it.",
+              "Sturdy shoes are recommended for the path to Karavaj Hill.",
+              "Parking spaces are limited in summer, arrive early.",
+              "Visit Tisno during the international donkey race in August."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir den Platz der Tisno-Bruderschaften unter dem Regenschirm. Mittags bietet die Ziehbrücke ein dramatisches Schauspiel bei grauem Himmel. Nachmittags finden wir in der Kirche des Hl. Geistes und der Villa Katina trockene Zuflucht. Abends genießen wir die melancholische Ruhe am verregneten Jazine-Strand, wo das Meer auf die Tropfen trifft.",
+            "hu": "Reggel esernyővel járjuk be a Tisno-testvériségek terét, élvezve az eső áztatta kövek illatát. Ebédidőben a felvonóhíd látványa borús időben is lenyűgöző. Délután a Szentlélek-templom és a Villa Katina nyújt menedéket a záporok elől. Este a Jazine-part csendes magányában figyelhetjük, ahogy az esőcseppek a tengerbe vesznek.",
+            "ro": "Dimineața explorăm Piața Tisno sub umbrelă, admirând reflexiile pe pavajul vechi. La prânz, podul mobil oferă un spectacol dramatic pe un cer gri. După-amiaza, Biserica Sfântului Duh și Vila Katina devin refugii primitoare împotriva ploii. Seara se încheie cu o plimbare melancolică pe plaja Jazine, unde sunetul ploii se contopește cu valurile.",
+            "en": "Morning begins at the Tisno Brotherhoods Square with an umbrella in hand. At lunch, the drawbridge offers a dramatic view under grey skies. Afternoon provides dry refuge inside the Church of the Holy Spirit and Villa Katina. Evening concludes with a peaceful, rainy walk at Jazine beach, where the sea meets the falling drops."
+          },
+          "stops": [
+            {
+              "name": "Platz der Tisno-Bruderschaften",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Steinpflaster bei Regen.",
+                "hu": "Vigyázat, az esőben a kőburkolat csúszóssá válhat.",
+                "ro": "Atenție la pavajul de piatră care devine alunecos pe ploaie.",
+                "en": "Watch out for slippery stone pavement in the rain."
+              }
+            },
+            {
+              "name": "Ziehbrücke von Tisno",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Brückenöffnung im Trockenen zu sehen.",
+                "hu": "Rövid megálló, nézze meg a hídnyitást fedett helyről.",
+                "ro": "Oprire scurtă pentru a vedea ridicarea podului la adăpost.",
+                "en": "Short stop to watch the bridge lift from a sheltered spot."
+              }
+            },
+            {
+              "name": "Palast Banovčevih",
+              "tip_5lang": {
+                "de": "Die historischen Mauern bieten guten Schutz vor Windböen.",
+                "hu": "A történelmi falak jó védelmet nyújtanak a széllökések ellen.",
+                "ro": "Zidurile istorice oferă o protecție bună împotriva vântului.",
+                "en": "The historic walls provide good shelter from wind gusts."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Geistes",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere Regenpause im Inneren.",
+                "hu": "Ideális helyszín egy hosszabb beltéri pihenőhöz az eső elől.",
+                "ro": "Un loc ideal pentru o pauză prelungită la interior.",
+                "en": "An ideal place for a longer indoor break from the rain."
+              }
+            },
+            {
+              "name": "Villa Katina",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur unter dem Vordach.",
+                "hu": "Csodálja meg az építészetet az eresz alól.",
+                "ro": "Admirați arhitectura stând sub streșina clădirii.",
+                "en": "Admire the architecture while staying under the eaves."
+              }
+            },
+            {
+              "name": "Heiligtum Unserer Lieben Frau von Karavaj",
+              "tip_5lang": {
+                "de": "Der Aufstieg kann bei Nässe rutschig sein, festes Schuhwerk nutzen.",
+                "hu": "A felfelé vezető út nedvesen csúszós, használjon túracipőt.",
+                "ro": "Urcarea poate fi alunecoasă, folosiți încălțăminte aderentă.",
+                "en": "The uphill path can be slippery; use sturdy footwear."
+              }
+            },
+            {
+              "name": "Strand Jazine",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Cafés in der Nähe, um das Meer im Trockenen zu genießen.",
+                "hu": "Használja a közeli kávézókat a tengerparti kilátáshoz.",
+                "ro": "Folosiți cafenelele din apropiere pentru a admira marea la uscat.",
+                "en": "Use nearby cafes to enjoy the sea view while staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die glatten Altstadtgassen.",
+              "Die Cafés am Hafen sind perfekte Orte, um Regenschauer abzuwarten.",
+              "Die Brücke öffnet auch bei Regen, planen Sie Ihre Zeit entsprechend.",
+              "Ein Taschenschirm ist wegen der engen Gassen praktischer als ein Stockschirm."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a csúszós óvárosi sikátorok miatt.",
+              "A kikötő kávézói tökéletesek a záporok átvészelésére.",
+              "A híd esőben is nyílik, igazítsa ehhez az időbeosztását.",
+              "Az összecsukható esernyő praktikusabb a szűk utcákban."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile alunecoase.",
+              "Cafenelele din port sunt locuri ideale pentru a aștepta trecerea ploii.",
+              "Podul se deschide și pe ploaie, planificați-vă vizita corect.",
+              "O umbrelă pliabilă este mai practică pe străzile înguste."
+            ],
+            "en": [
+              "Wear waterproof shoes for the slippery old town alleys.",
+              "Harbor cafes are perfect spots to wait out rain showers.",
+              "The bridge opens even in rain; plan your timing accordingly.",
+              "A compact umbrella is more practical in narrow streets than a large one."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine frische Brise über den leeren Platz der Bruderschaften. Mittags beobachten wir die Ziehbrücke in der klaren Wintersonne. Nachmittags wärmen wir uns in den Kirchen und historischen Residenzen auf. Da die Sonne gegen 16:30 Uhr untergeht, genießen wir den frühen Abendhimmel über dem ruhigen Jazine-Strand.",
+            "hu": "Reggel friss tengeri szellő fúj az üres Testvériségek terén. Ebédidőben a felvonóhíd a tiszta téli napsütésben ragyog. Délután a templomok és paloták falaiban keresünk enyhülést a hideg ellen. Mivel a nap 16:30 körül nyugszik, a kora esti égboltot már a csendes Jazine-parton csodáljuk.",
+            "ro": "Dimineața, o briză proaspătă suflă peste piața pustie a Tisno. La prânz, podul mobil strălucește în lumina clară a soarelui de iarnă. După-amiaza ne încălzim vizitând bisericile și reședințele istorice. Deoarece soarele apune în jur de 16:30, admirăm cerul serii devreme pe plaja liniștită Jazine.",
+            "en": "Morning brings a crisp breeze across the empty Brotherhoods Square. At lunch, the drawbridge shines in the clear winter sun. Afternoon is spent warming up inside churches and historic residences. As the sun sets around 4:30 PM, we enjoy the early evening sky over the quiet Jazine beach."
+          },
+          "stops": [
+            {
+              "name": "Platz der Tisno-Bruderschaften",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wegen des Seewinds unerlässlich.",
+                "hu": "A tengeri szél miatt a meleg ruházat elengedhetetlen.",
+                "ro": "Îmbrăcămintea groasă este esențială din cauza vântului marin.",
+                "en": "Warm clothing is essential due to the sea wind."
+              }
+            },
+            {
+              "name": "Ziehbrücke von Tisno",
+              "tip_5lang": {
+                "de": "Perfektes Fotolicht bei tiefstehender Wintersonne.",
+                "hu": "Tökéletes fotófények a mélyen járó téli napnál.",
+                "ro": "Lumină perfectă pentru fotografii datorită soarelui de iarnă.",
+                "en": "Perfect photo lighting with the low winter sun."
+              }
+            },
+            {
+              "name": "Palast Banovčevih",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne die sommerlichen Touristenströme.",
+                "hu": "Élvezze a nyugalmat a nyári turistatömeg nélkül.",
+                "ro": "Bucurați-vă de liniște fără mulțimile de turiști din vară.",
+                "en": "Enjoy the tranquility without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Geistes",
+              "tip_5lang": {
+                "de": "Oft windgeschützter als die Uferpromenade.",
+                "hu": "Gyakran szélvédettebb hely, mint a tengerparti sétány.",
+                "ro": "Aeseori mai ferit de vânt decât faleza.",
+                "en": "Often more sheltered from wind than the waterfront."
+              }
+            },
+            {
+              "name": "Villa Katina",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht bei niedrigen Temperaturen aus.",
+                "hu": "Egy rövid megálló is elég az alacsony hőmérsékletben.",
+                "ro": "O oprire scurtă este suficientă la temperaturi scăzute.",
+                "en": "A short stop is sufficient in low temperatures."
+              }
+            },
+            {
+              "name": "Heiligtum Unserer Lieben Frau von Karavaj",
+              "tip_5lang": {
+                "de": "Bester Aussichtspunkt für den frühen Sonnenuntergang.",
+                "hu": "A legjobb kilátópont a korai naplemente megtekintéséhez.",
+                "ro": "Cel mai bun punct de observație pentru apusul devreme.",
+                "en": "Best vantage point for the early sunset."
+              }
+            },
+            {
+              "name": "Strand Jazine",
+              "tip_5lang": {
+                "de": "Ideal für einen zügigen Winterspaziergang am Meer.",
+                "hu": "Ideális egy tempós téli sétához a tengerparton.",
+                "ro": "Ideal pentru o plimbare rapidă de iarnă pe malul mării.",
+                "en": "Ideal for a brisk winter walk by the sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bura (Nordwind) kann sehr kalt sein, Schal und Mütze einpacken.",
+              "Viele Restaurants haben Winterpause, prüfen Sie die Öffnungszeiten vorab.",
+              "Nutzen Sie die Mittagsstunden für die meiste Wärme.",
+              "Sonnenuntergang ist bereits gegen 16:30 Uhr."
+            ],
+            "hu": [
+              "A Bura szél nagyon hideg lehet, vigyen sálat és sapkát.",
+              "Sok étterem zárva tart télen, előre ellenőrizze a nyitvatartást.",
+              "Használja ki a déli órákat a legmelegebb időért.",
+              "A naplemente már 16:30 körül bekövetkezik."
+            ],
+            "ro": [
+              "Vântul Bura poate fi foarte rece, luați fular și căciulă.",
+              "Multe restaurante sunt închise iarna, verificați programul în avans.",
+              "Profitați de orele prânzului pentru maximum de căldură.",
+              "Apusul soarelui are loc deja în jurul orei 16:30."
+            ],
+            "en": [
+              "The Bura wind can be very cold; pack a scarf and hat.",
+              "Many restaurants close for winter; check opening hours in advance.",
+              "Make the most of the midday hours for the warmest temperatures.",
+              "Sunset occurs as early as 4:30 PM."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -506,6 +923,333 @@
           "Take enough water, there is little shade on the bike paths.",
           "A side trip to the neighboring village Jezera is very easy by bike."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Radtour an der Brücke und genießen Sie die kühle Brise des Kanals am Morgen.\n\nFahren Sie entlang der Küstenstraße zur Jazine-Bucht, wo die Wege flach und leicht befahrbar sind.\n\nMittags kehren Sie zum Hauptplatz zurück, um die Atmosphäre des lebendigen Fischerortes aufzusaugen.\n\nBeenden Sie die Runde mit einem Besuch der historischen Villen entlang der Uferpromenade auf der Inselseite.",
+            "hu": "Kezdje kerékpártúráját a hídnál, és élvezze a csatorna hűvös szellőjét reggel.\n\nTekerjen a parti úton a Jazine-öböl felé, ahol az utak síkok és könnyen járhatók.\n\nDélben térjen vissza a főtérre, hogy magába szívja a nyüzsgő halászfalu hangulatát.\n\nZárja a kört a történelmi villák meglátogatásával a sziget oldali parti sétány mentén.",
+            "ro": "Începeți turul cu bicicleta la pod și bucurați-vă de briza răcoroasă a canalului dimineața.\n\nPedalați pe drumul de coastă spre golful Jazine, unde traseele sunt plane și ușor de parcurs.\n\nLa prânz reveniți în piața principală pentru a absorbi atmosfera satului pescăresc plin de viață.\n\nÎncheiați tura cu o vizită la vilele istorice de-a lungul falezei de pe partea insulei.",
+            "en": "Start your bike tour at the bridge and enjoy the cool canal breeze in the morning.\n\nCycle along the coastal road to Jazine Bay, where the paths are flat and easy to ride.\n\nAt midday, return to the main square to soak up the atmosphere of the vibrant fishing village.\n\nEnd the loop with a visit to the historical villas along the waterfront promenade on the island side."
+          },
+          "stops": [
+            {
+              "name": "Ziehbrücke von Tisno",
+              "tip_5lang": {
+                "de": "Starten Sie hier und fahren Sie Richtung Murter-Insel.",
+                "hu": "Induljon innen, és tekerjen Murter-sziget irányába.",
+                "ro": "Porniți de aici și pedalați spre insula Murter.",
+                "en": "Start here and cycle towards Murter Island."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Rochus",
+              "tip_5lang": {
+                "de": "Kleine Kapelle mit historischem Charme am Wegrand.",
+                "hu": "Kis kápolna történelmi bájjal az út mentén.",
+                "ro": "Capelă mică cu farmec istoric la marginea drumului.",
+                "en": "Small chapel with historical charm by the road."
+              }
+            },
+            {
+              "name": "Strand Jazine",
+              "tip_5lang": {
+                "de": "Ein schöner Stopp für eine kurze Abkühlung.",
+                "hu": "Kiváló megálló egy rövid felfrissüléshez.",
+                "ro": "O oprire excelentă pentru o scurtă răcorire.",
+                "en": "A great stop for a quick cooling down."
+              }
+            },
+            {
+              "name": "Platz der Tisno-Bruderschaften",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad ab und genießen Sie ein Eis.",
+                "hu": "Tegye le a biciklit, és élvezze a fagyit.",
+                "ro": "Parcați bicicleta și savurați o înghețată.",
+                "en": "Park the bike and enjoy some ice cream."
+              }
+            },
+            {
+              "name": "Villa Katina",
+              "tip_5lang": {
+                "de": "Letzter Fotostopp vor dem Ende der Tour.",
+                "hu": "Utolsó fotómegálló a túra vége előtt.",
+                "ro": "Ultima oprire pentru poze înainte de finalul turului.",
+                "en": "Last photo stop before the end of the tour."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pizzeria Azur",
+                "tip": "Perfekt für eine schnelle und leckere Pizza nach der Tour."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pizzeria Azur",
+                "tip": "Tökéletes egy gyors és finom pizzához a túra után."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pizzeria Azur",
+                "tip": "Perfect pentru o pizza rapidă și delicioasă după tur."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pizzeria Azur",
+                "tip": "Perfect for a quick and tasty pizza after the tour."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Küstenweg nach Jezera",
+                "tip": "Wunderschöne Strecke am Meer entlang.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parti út Jezera felé",
+                "tip": "Gyönyörű útvonal a tenger mentén.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Drumul de coastă spre Jezera",
+                "tip": "Traseu minunat de-a lungul mării.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Coastal path to Jezera",
+                "tip": "Beautiful route along the sea.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirshop Tisno",
+                "tip": "Handgemachte Lavendelsäckchen und Meeressalz."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tisno Ajándékbolt",
+                "tip": "Kézműves levendula párnák és tengeri só."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de suveniruri Tisno",
+                "tip": "Săculeți cu lavandă lucrați manual și sare de mare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Souvenir Shop Tisno",
+                "tip": "Handmade lavender bags and sea salt."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straßen in Tisno können eng sein, achten Sie auf Fußgänger.",
+              "Der Weg nach Jazine ist flach und sehr angenehm zu fahren.",
+              "Nehmen Sie ausreichend Wasser mit, es gibt wenig Schatten auf den Radwegen.",
+              "Ein Abstecher in das Nachbardorf Jezera ist per Rad sehr einfach."
+            ],
+            "hu": [
+              "Tisno utcái szűkek lehetnek, figyeljen a gyalogosokra.",
+              "A Jazine-ba vezető út sík és nagyon kellemes tekerni.",
+              "Vigyen magával elég vizet, kevés az árnyék a bicikliutakon.",
+              "Egy kitérő a szomszédos Jezera faluba kerékpárral nagyon egyszerű."
+            ],
+            "ro": [
+              "Străzile din Tisno pot fi înguste, atenție la pietoni.",
+              "Drumul spre Jazine este plat și foarte plăcut de parcurs.",
+              "Luați destulă apă, este puțină umbră pe pistele de biciclete.",
+              "O excursie în satul vecin Jezera este foarte ușoară cu bicicleta."
+            ],
+            "en": [
+              "Streets in Tisno can be narrow, watch out for pedestrians.",
+              "The path to Jazine is flat and very pleasant to ride.",
+              "Take enough water, there is little shade on the bike paths.",
+              "A side trip to the neighboring village Jezera is very easy by bike."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig über die nasse Ziehbrücke. Mittags bietet die Kirche des Hl. Rochus Schutz vor einem Schauer. Nachmittags am Strand Jazine beobachten wir das stürmische Meer. Wir beenden die Tour frühzeitig, um uns in einem warmen Café am Platz der Bruderschaften zu trocknen.",
+            "hu": "Reggel óvatosan tekerünk át a nedves felvonóhídon. Ebédidőben a Szent Rókus-templom nyújt védelmet a zápor elől. Délután a Jazine-parton figyeljük a háborgó tengert. A túrát korán befejezzük, hogy egy meleg kávézóban száradjunk meg a Testvériségek terén.",
+            "ro": "Dimineața pedalăm cu atenție peste podul mobil umed. La prânz, Biserica Sfântului Roch oferă adăpost în timpul unei averse. După-amiaza, pe plaja Jazine, observăm marea agitată. Încheiem turul devreme pentru a ne usca într-o cafenea caldă din Piața Tisno.",
+            "en": "Morning starts with a cautious ride over the wet drawbridge. At lunch, St. Roch's Church provides shelter from a shower. Afternoon at Jazine beach is spent watching the stormy sea. We finish the tour early to dry off in a warm cafe at the Brotherhoods Square."
+          },
+          "stops": [
+            {
+              "name": "Ziehbrücke von Tisno",
+              "tip_5lang": {
+                "de": "Vorsicht, Metallteile der Brücke sind bei Nässe extrem rutschig.",
+                "hu": "Vigyázat, a híd fém részei nedvesen rendkívül csúszósak.",
+                "ro": "Atenție, părțile metalice ale podului sunt extrem de alunecoase pe ploaie.",
+                "en": "Caution: metal parts of the bridge are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Rochus",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Regenkleidung kurz zu lüften.",
+                "hu": "Jó hely az esőruházat rövid szellőztetésére.",
+                "ro": "Un loc bun pentru a aerisi scurt echipamentul de ploaie.",
+                "en": "A good spot to briefly air out your rain gear."
+              }
+            },
+            {
+              "name": "Strand Jazine",
+              "tip_5lang": {
+                "de": "Fester Untergrund am Radweg schützt vor Matsch.",
+                "hu": "A kerékpárút szilárd burkolata megvéd a sártól.",
+                "ro": "Suprafața solidă a pistei de biciclete protejează de noroi.",
+                "en": "The firm surface of the bike path protects from mud."
+              }
+            },
+            {
+              "name": "Platz der Tisno-Bruderschaften",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer in der Nähe der überdachten Cafés.",
+                "hu": "Biztonságos kerékpártárolók a fedett kávézók közelében.",
+                "ro": "Rasteluri sigure pentru biciclete lângă cafenelele acoperite.",
+                "en": "Secure bike racks available near the sheltered cafes."
+              }
+            },
+            {
+              "name": "Villa Katina",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bevor der nächste Regen einsetzt.",
+                "hu": "Rövid fotómegálló a következő zápor előtt.",
+                "ro": "Oprire scurtă pentru poze înainte de următoarea aversă.",
+                "en": "Short photo stop before the next rain starts."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen; nasse Felgen verlängern den Bremsweg.",
+              "Vermeiden Sie schnelle Kurvenfahrten auf dem Kopfsteinpflaster.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Tragen Sie auffällige Regenkleidung für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket; a nedves felnik növelik a fékutat.",
+              "Kerülje a hirtelen kanyarodást a macskaköveken.",
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Viseljen feltűnő esőruházatot a jobb láthatóságért."
+            ],
+            "ro": [
+              "Verificați frânele; jantele umede prelungesc distanța de frânare.",
+              "Evitați virajele strânse pe pavajul de piatră.",
+              "Apărătorile de noroi sunt obligatorii pe această vreme.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate."
+            ],
+            "en": [
+              "Check your brakes; wet rims increase braking distance.",
+              "Avoid sharp turns on the cobblestone streets.",
+              "Mudguards are a must-have in this weather.",
+              "Wear bright rain gear for better visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die klare, kalte Luft auf dem Weg zur Brücke. Mittags machen wir Pause an der windgeschützten Rochus-Kirche. Nachmittags radeln wir zum verlassenen Jazine-Strand, wo das Winterlicht magisch wirkt. Den Tag lassen wir bei einem heißen Tee im Ortszentrum ausklingen, bevor es dunkel wird.",
+            "hu": "Reggel a tiszta, hideg levegőt élvezzük a híd felé menet. Ebédidőben a szélvédett Szent Rókus-templomnál pihenünk. Délután az elhagyatott Jazine-partra tekerünk, ahol a téli fények varázslatosak. A napot egy forró teával zárjuk a központban, még sötétedés előtt.",
+            "ro": "Dimineața ne bucurăm de aerul curat și rece în drum spre pod. La prânz facem o pauză lângă biserica Sf. Roch, ferită de vânt. După-amiaza pedalăm spre plaja pustie Jazine, unde lumina de iarnă este magică. Încheiem ziua cu un ceai fierbinte în centru, înainte de lăsarea întunericului.",
+            "en": "Morning is spent enjoying the crisp, cold air on the way to the bridge. At lunch, we break at the sheltered St. Roch's Church. Afternoon involves a ride to the deserted Jazine beach, where winter light looks magical. We finish the day with hot tea in the center before it gets dark."
+          },
+          "stops": [
+            {
+              "name": "Ziehbrücke von Tisno",
+              "tip_5lang": {
+                "de": "Der Wind auf der Brücke kann die gefühlte Temperatur senken.",
+                "hu": "A hídon fújó szél jelentősen csökkentheti a hőérzetet.",
+                "ro": "Vântul de pe pod poate scădea temperatura resimțită.",
+                "en": "Wind on the bridge can significantly lower the felt temperature."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Rochus",
+              "tip_5lang": {
+                "de": "Die Sonne wärmt hier mittags oft die Kirchenmauer.",
+                "hu": "A nap délben gyakran felmelegíti itt a templomfalat.",
+                "ro": "Soarele încălzește adesea zidul bisericii la prânz.",
+                "en": "The sun often warms the church wall here at midday."
+              }
+            },
+            {
+              "name": "Strand Jazine",
+              "tip_5lang": {
+                "de": "Ideale Zeit für Fotos ohne Menschenmassen.",
+                "hu": "Ideális időpont a tömeg nélküli fotózáshoz.",
+                "ro": "Moment ideal pentru fotografii fără mulțimi.",
+                "en": "Ideal time for photos without the crowds."
+              }
+            },
+            {
+              "name": "Platz der Tisno-Bruderschaften",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Café mit Innenplätzen zum Aufwärmen.",
+                "hu": "Keressen egy belső teres kávézót a felmelegedéshez.",
+                "ro": "Căutați o cafenea cu locuri la interior pentru încălzire.",
+                "en": "Look for a cafe with indoor seating to warm up."
+              }
+            },
+            {
+              "name": "Villa Katina",
+              "tip_5lang": {
+                "de": "Geringes Verkehrsaufkommen macht das Radeln angenehmer.",
+                "hu": "A kis forgalom élvezetesebbé teszi a tekerést.",
+                "ro": "Traficul redus face pedalarea mai plăcută.",
+                "en": "Low traffic volume makes cycling more enjoyable."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermohandschuhe gegen den kalten Fahrtwind.",
+              "Die Tage sind kurz; planen Sie Ihre Rückkehr für 16:00 Uhr.",
+              "Achten Sie auf Raureif an schattigen Stellen der Straße.",
+              "Zwiebelprinzip bei der Kleidung schützt am besten vor Auskühlung."
+            ],
+            "hu": [
+              "Viseljen hőtartó kesztyűt a hideg menetszél ellen.",
+              "A nappalok rövidek; tervezze a visszatérést 16:00-ra.",
+              "Ügyeljen a zúzmarára az út árnyékos részein.",
+              "A réteges öltözködés véd a legjobban a kihűlés ellen."
+            ],
+            "ro": [
+              "Purtați mănuși termice împotriva vântului rece de mișcare.",
+              "Zilele sunt scurte; planificați revenirea pentru ora 16:00.",
+              "Atenție la chiciură pe porțiunile umbrite ale drumului.",
+              "Îmbrăcămintea în straturi protejează cel mai bine de frig."
+            ],
+            "en": [
+              "Wear thermal gloves to protect against the cold wind chill.",
+              "Days are short; plan your return by 4:00 PM.",
+              "Watch out for frost in shaded areas of the road.",
+              "Layering your clothes is the best way to prevent cooling down."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -738,6 +1482,360 @@
           "Use the car for trips to the more remote beaches of the island.",
           "The road between Tisno and Murter is very scenic."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Heiligtum auf dem Hügel, um die Stadt Tisno aus der Vogelperspektive zu sehen.\n\nFahren Sie über die Brücke und erkunden Sie die barocken Schätze im alten Ortskern auf der Inselseite.\n\nMittags machen Sie einen Ausflug zum Strand Kosirina, einer der schönsten Buchten der Insel, die ideal mit dem Wagen erreichbar ist.\n\nKehren Sie am späten Nachmittag nach Tisno zurück und genießen Sie die entspannte Atmosphäre am Jazine-Strand.",
+            "hu": "Kezdje a dombtetőn lévő szentélynél, hogy madártávlatból láthassa Tisno városát.\n\nHajtson át a hídon, és fedezze fel a barokk kincseket a sziget oldali óvárosban.\n\nDélben tegyen kirándulást a Kosirina-strandra, a sziget egyik legszebb öblébe, amely autóval könnyen megközelíthető.\n\nKéső délután térjen vissza Tisnóba, és élvezze a pihentető hangulatot a Jazine-strandon.",
+            "ro": "Începeți la sanctuarul de pe deal pentru a vedea orașul Tisno din perspectiva unei pasări.\n\nMergeți cu mașina peste pod și explorați comorile baroce din centrul vechi de pe partea insulei.\n\nLa prânz faceți o excursie la plaja Kosirina, unul dintre cele mai frumoase golfuri ale insulei, accesibil ușor cu mașina.\n\nReveniți în Tisno după-amiaza târziu și bucurați-vă de atmosfera relaxată de pe plaja Jazine.",
+            "en": "Start at the hilltop sanctuary to see Tisno from a bird's-eye view.\n\nDrive across the bridge and explore the baroque treasures in the old town on the island side.\n\nAt midday, take a trip to Kosirina beach, one of the island's most beautiful bays, easily reached by car.\n\nReturn to Tisno in the late afternoon and enjoy the relaxed atmosphere at Jazine beach."
+          },
+          "stops": [
+            {
+              "name": "Heiligtum von Karavaj",
+              "tip_5lang": {
+                "de": "Parken Sie unterhalb des Hügels und gehen Sie den Rest zu Fuß.",
+                "hu": "Parkoljon a domb alatt, és a többi részt tegye meg gyalog.",
+                "ro": "Parcați sub deal și parcurgeți restul drumului pe jos.",
+                "en": "Park below the hill and walk the rest of the way."
+              }
+            },
+            {
+              "name": "Ziehbrücke von Tisno",
+              "tip_5lang": {
+                "de": "Überqueren Sie die Brücke auf die Inselseite.",
+                "hu": "Keljen át a hídon a sziget oldalára.",
+                "ro": "Traversați podul spre partea insulei.",
+                "en": "Cross the bridge to the island side."
+              }
+            },
+            {
+              "name": "Palast Banovčevih",
+              "tip_5lang": {
+                "de": "Einer der historischsten Orte auf der Insel Murter.",
+                "hu": "Murter-sziget egyik legtörténelmibb helyszíne.",
+                "ro": "Unul dintre cele mai istorice locuri de pe insula Murter.",
+                "en": "One of the most historical sites on Murter Island."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Rochus",
+              "tip_5lang": {
+                "de": "Hübsche Kirche mit typisch dalmatinischer Architektur.",
+                "hu": "Szép templom tipikus dalmát építészettel.",
+                "ro": "Biserică frumoasă cu arhitectură tipic dalmată.",
+                "en": "Pretty church with typical Dalmatian architecture."
+              }
+            },
+            {
+              "name": "Strand Kosirina",
+              "tip_5lang": {
+                "de": "Ein spektakulärer Strand in der Nähe, nur per Auto gut erreichbar.",
+                "hu": "Egy látványos közeli strand, csak autóval érhető el jól.",
+                "ro": "O plajă spectaculoasă în apropiere, accesibilă bine doar cu mașina.",
+                "en": "A spectacular nearby beach, best reached by car."
+              }
+            },
+            {
+              "name": "Strand Jazine",
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag auf der Festlandseite.",
+                "hu": "Zárja a napot a szárazföldi oldalon.",
+                "ro": "Încheiați ziua pe partea continentală.",
+                "en": "End the day on the mainland side."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Tereza",
+                "tip": "Hervorragendes Fleisch vom Grill und hausgemachter Wein."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba Tereza",
+                "tip": "Kiváló grillhúsok és házi bor."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Tereza",
+                "tip": "Carne la grătar excelentă și vin de casă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Tereza",
+                "tip": "Excellent grilled meat and homemade wine."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Bucht Kosirina",
+                "tip": "Natur pur und kristallklares Wasser.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kosirina-öböl",
+                "tip": "Tiszta természet és kristálytiszta víz.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Golful Kosirina",
+                "tip": "Natură pură și apă cristalină.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Kosirina Bay",
+                "tip": "Pure nature and crystal clear water.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Vinothek am Hafen",
+                "tip": "Beste Auswahl an dalmatinischen Weinen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vinotéka a kikötőben",
+                "tip": "A legjobb válogatás dalmát borokból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vinotecă în port",
+                "tip": "Cea mai bună selecție de vinuri dalmate."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vinothek at the Port",
+                "tip": "Best selection of Dalmatian wines."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Achten Sie auf die Öffnungszeiten der Brücke, um Wartezeiten zu vermeiden.",
+              "Parken im Zentrum ist im Sommer kostenpflichtig.",
+              "Nutzen Sie das Auto für Ausflüge zu den entlegeneren Stränden der Insel.",
+              "Die Straße zwischen Tisno und Murter ist landschaftlich sehr reizvoll."
+            ],
+            "hu": [
+              "Figyeljen a híd nyitvatartására, hogy elkerülje a várakozást.",
+              "A központban a parkolás nyáron fizetős.",
+              "Használja az autót a sziget távolabbi strandjainak felkereséséhez.",
+              "A Tisno és Murter közötti út tájképileg nagyon vonzó."
+            ],
+            "ro": [
+              "Atenție la orele de deschidere ale podului pentru a evita așteptarea.",
+              "Parcarea în centru este cu plată în timpul verii.",
+              "Folosiți mașina pentru excursii la plajele mai îndepărtate ale insulei.",
+              "Drumul dintre Tisno și Murter este foarte pitoresc."
+            ],
+            "en": [
+              "Pay attention to the bridge opening times to avoid waiting.",
+              "Parking in the center is paid during summer.",
+              "Use the car for trips to the more remote beaches of the island.",
+              "The road between Tisno and Murter is very scenic."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir bequem zum Heiligtum von Karavaj, während der Regen prasselt. Mittags beobachten wir die Brücke trocken aus dem Auto. Nachmittags besuchen wir den Palast und die Rochus-Kirche. Wir schließen den Tag mit einer Fahrt zum stürmischen Strand Kosirina ab, wo wir die Wellen sicher aus dem Fahrzeug betrachten.",
+            "hu": "Reggel kényelmesen autózunk a Karavaj-szentélyhez a doboló esőben. Ebédidőben szárazon, az autóból nézzük a hídnyitást. Délután meglátogatjuk a palotát és a Szent Rókus-templomot. A napot a viharos Kosirina-parton zárjuk, a hullámokat biztonságosan, az autóból figyelve.",
+            "ro": "Dimineața conducem confortabil spre sanctuarul Karavaj în timp ce plouă torențial. La prânz observăm podul stând la uscat în mașină. După-amiaza vizităm palatul și biserica Sf. Roch. Încheiem ziua cu o plimbare spre plaja Kosirina, admirând valurile din siguranța vehiculului.",
+            "en": "Morning starts with a comfortable drive to the Karavaj sanctuary while rain pours down. At lunch, we watch the bridge from the dry safety of the car. Afternoon includes visits to the palace and St. Roch's Church. We finish the day at the stormy Kosirina beach, watching the waves from the vehicle."
+          },
+          "stops": [
+            {
+              "name": "Heiligtum von Karavaj",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Fußweg im Regen zu minimieren.",
+                "hu": "Parkoljon közel a bejárathoz, hogy minimalizálja az esőben gyaloglást.",
+                "ro": "Parcați aproape de intrare pentru a minimiza mersul prin ploaie.",
+                "en": "Park close to the entrance to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Ziehbrücke von Tisno",
+              "tip_5lang": {
+                "de": "Parkplatzsuche ist bei Regen oft einfacher als im Sommer.",
+                "hu": "A parkolókeresés esőben gyakran egyszerűbb, mint nyáron.",
+                "ro": "Găsirea unui loc de parcare este mai ușoară pe ploaie.",
+                "en": "Finding a parking spot is often easier in the rain than in summer."
+              }
+            },
+            {
+              "name": "Palast Banovčevih",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fensterplätze im Auto für Stadtansichten.",
+                "hu": "Használja az autó ablakait a városi kilátáshoz.",
+                "ro": "Folosiți ferestrele mașinii pentru vederi panoramice ale orașului.",
+                "en": "Use the car windows for scenic city views."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Rochus",
+              "tip_5lang": {
+                "de": "Kurzer Sprint von der Parkstelle zur Kirche einplanen.",
+                "hu": "Tervezzen egy rövid sprintet a parkolótól a templomig.",
+                "ro": "Planificați un scurt sprint de la parcare la biserică.",
+                "en": "Plan a short dash from the parking spot to the church."
+              }
+            },
+            {
+              "name": "Strand Kosirina",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei starkem Regen matschig sein.",
+                "hu": "A lehajtó út erős esőben sáros lehet.",
+                "ro": "Drumul de acces poate fi noroios în caz de ploaie puternică.",
+                "en": "The access road can be muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Strand Jazine",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Meer bei laufenden Scheibenwischern.",
+                "hu": "Élvezze a tengeri kilátást működő ablaktörlők mellett.",
+                "ro": "Bucurați-vă de vederea la mare cu ștergătoarele pornite.",
+                "en": "Enjoy the sea view with your windshield wipers on."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf große Pfützen in Straßensenken.",
+              "Halten Sie die Scheiben mit der Klimaanlage beschlagfrei.",
+              "Vermeiden Sie das Parken unter instabilen Bäumen bei Wind.",
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Fahrt."
+            ],
+            "hu": [
+              "Ügyeljen a nagy tócsákra az úthibákban.",
+              "Használja a légkondicionálót a szélvédő párátlanítására.",
+              "Szélben kerülje a bizonytalan fák alatti parkolást.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát."
+            ],
+            "ro": [
+              "Atenție la bălțile mari formate în denivelările drumului.",
+              "Folosiți aerul condiționat pentru a dezaburi geamurile.",
+              "Evitați parcarea sub copaci instabili pe timp de vânt.",
+              "Verificați starea ștergătoarelor înainte de drum."
+            ],
+            "en": [
+              "Watch out for large puddles in road dips.",
+              "Use the air conditioning to keep the windows from fogging up.",
+              "Avoid parking under unstable trees during windy weather.",
+              "Check the condition of your wipers before the trip."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bringt uns das Auto schnell zum klaren Aussichtspunkt am Heiligtum. Mittags erleben wir die Brücke bei tiefblauer Winterkulisse. Nachmittags erkunden wir Banovčevih und Hl. Rochus. Den Tag beenden wir mit einer Panoramafahrt entlang der Küste von Kosirina nach Jazine, während die Sonne früh versinkt.",
+            "hu": "Reggel az autó gyorsan elvisz a tiszta kilátást nyújtó szentélyhez. Ebédidőben a hidat mélykék téli háttér előtt látjuk. Délután a Banovčevih palotát és a Szent Rókust fedezzük fel. A napot panorámaautózással zárjuk Kosirinától Jazinéig a korai naplementében.",
+            "ro": "Dimineața mașina ne duce rapid la punctul de observație clar de la sanctuar. La prânz vedem podul pe un fundal albastru intens de iarnă. După-amiaza explorăm palatul Banovčevih și biserica Sf. Roch. Încheiem ziua cu o plimbare panoramică de la Kosirina la Jazine în apusul devreme.",
+            "en": "Morning takes us quickly to the clear vantage point at the sanctuary. At lunch, we see the bridge against a deep blue winter backdrop. Afternoon is for exploring the palace and St. Roch's. We end the day with a scenic drive from Kosirina to Jazine as the sun sets early."
+          },
+          "stops": [
+            {
+              "name": "Heiligtum von Karavaj",
+              "tip_5lang": {
+                "de": "Heizung im Auto sorgt für Wärme zwischen den Fotostopps.",
+                "hu": "Az autó fűtése meleget ad a fotómegállók között.",
+                "ro": "Căldura din mașină asigură confort între opririle foto.",
+                "en": "Car heating ensures warmth between photo stops."
+              }
+            },
+            {
+              "name": "Ziehbrücke von Tisno",
+              "tip_5lang": {
+                "de": "Kein Problem mit überhitzten Innenräumen beim Parken.",
+                "hu": "Parkoláskor nem kell tartani a belső tér túlmelegedésétől.",
+                "ro": "Nu există problema supraîncălzirii habitaclului la parcare.",
+                "en": "No issues with overheated interiors when parking."
+              }
+            },
+            {
+              "name": "Palast Banovčevih",
+              "tip_5lang": {
+                "de": "Die klare Luft bietet eine hervorragende Fernsicht.",
+                "hu": "A tiszta levegő kiváló távolsági kilátást tesz lehetővé.",
+                "ro": "Aerul curat oferă o vizibilitate excelentă la distanță.",
+                "en": "The clear air provides excellent long-distance visibility."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Rochus",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Ufer sind im Winter frei verfügbar.",
+                "hu": "A közvetlen tengerparti parkolók télen szabadon elérhetők.",
+                "ro": "Parcările de pe mal sunt disponibile gratuit iarna.",
+                "en": "Waterfront parking spots are freely available in winter."
+              }
+            },
+            {
+              "name": "Strand Kosirina",
+              "tip_5lang": {
+                "de": "Die Einsamkeit des Strandes ist im Winter beeindruckend.",
+                "hu": "A strand magánya télen lenyűgöző látvány.",
+                "ro": "Singurătatea plajei este impresionantă iarna.",
+                "en": "The solitude of the beach is impressive in winter."
+              }
+            },
+            {
+              "name": "Strand Jazine",
+              "tip_5lang": {
+                "de": "Letzte Sonnenstrahlen gegen 16:15 Uhr einfangen.",
+                "hu": "Kapja el az utolsó napsugarakat 16:15 körül.",
+                "ro": "Surprindeți ultimele raze de soare în jurul orei 16:15.",
+                "en": "Catch the last rays of sun around 4:15 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz im Scheibenwischwasser.",
+              "Vorsicht vor Glätte auf Brücken am frühen Morgen.",
+              "Führen Sie eine Eiskratzer mit, falls es nachts friert.",
+              "Nutzen Sie das Tageslicht bis spätestens 16:30 Uhr."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Kora reggel vigyázzon a hidakon előforduló jegesedésre.",
+              "Tartson jégkaparót az autóban éjszakai fagy esetére.",
+              "Használja ki a nappali fényt legkésőbb 16:30-ig."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de parbriz.",
+              "Atenție la gheața de pe poduri dimineața devreme.",
+              "Aveți o racletă în mașină în caz de îngheț nocturn.",
+              "Profitați de lumina zilei până cel târziu la 16:30."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer fluid.",
+              "Watch out for ice on bridges early in the morning.",
+              "Keep an ice scraper handy in case of overnight frost.",
+              "Make use of daylight until 4:30 PM at the latest."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -952,6 +2050,333 @@
           "Tickets can often be bought directly from the bus driver.",
           "In summer, there are extra water taxis between the coastal towns."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bus, um stressfrei im Zentrum von Tisno an der Brücke anzukommen.\n\nVerbringen Sie den Vormittag damit, die Kirchen und den Hauptplatz zu erkunden, wo das Leben des Ortes pulsiert.\n\nMittags spazieren Sie entlang des Wassers zu den prächtigen historischen Villen auf der Inselseite.\n\nNachmittags bringt Sie ein kurzer Fußweg oder der lokale Transit zum Strand Jazine, bevor Sie die Heimreise antreten.",
+            "hu": "Használja a buszt, hogy stresszmentesen érkezzen Tisno központjába, a hídhoz.\n\nTöltse a délelőttöt a templomok és a főtér felfedezésével, ahol a város élete lüktet.\n\nDélben sétáljon a víz mentén a sziget oldali pompás történelmi villákhoz.\n\nDélután egy rövid séta vagy a helyi közlekedés elviszi a Jazine-strandra, mielőtt hazaindulna.",
+            "ro": "Folosiți autobuzul pentru a ajunge fără stres în centrul orașului Tisno, lângă pod.\n\nPetreceți dimineața explorând bisericile și piața principală, unde pulsează viața orașului.\n\nLa prânz plimbați-vă pe malul apei spre vilele istorice splendide de pe partea insulei.\n\nDupă-amiaza, o scurtă plimbare sau transportul local vă duce la plaja Jazine înainte de a pleca spre casă.",
+            "en": "Use the bus to arrive stress-free in the center of Tisno by the bridge.\n\nSpend the morning exploring the churches and the main square, where the town's life pulses.\n\nAt midday, stroll along the water to the splendid historical villas on the island side.\n\nIn the afternoon, a short walk or local transit takes you to Jazine beach before you head home."
+          },
+          "stops": [
+            {
+              "name": "Ziehbrücke von Tisno",
+              "tip_5lang": {
+                "de": "Haupthaltestelle für Busse aus Šibenik und Zadar.",
+                "hu": "Fő megálló a Šibenikből és Zadarból érkező buszoknak.",
+                "ro": "Stația principală pentru autobuzele din Šibenik și Zadar.",
+                "en": "Main stop for buses from Šibenik and Zadar."
+              }
+            },
+            {
+              "name": "Platz der Tisno-Bruderschaften",
+              "tip_5lang": {
+                "de": "Zentraler Treffpunkt, alles ist fußläufig erreichbar.",
+                "hu": "Központi találkozóhely, minden sétatávolságra van.",
+                "ro": "Punct de întâlnire central, totul este la câțiva pași.",
+                "en": "Central meeting point, everything is within walking distance."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Geistes",
+              "tip_5lang": {
+                "de": "Historisches Bauwerk direkt im Ortskern.",
+                "hu": "Történelmi épület közvetlenül a városközpontban.",
+                "ro": "Clădire istorică situată chiar în centrul orașului.",
+                "en": "Historical building right in the town center."
+              }
+            },
+            {
+              "name": "Villa Katina",
+              "tip_5lang": {
+                "de": "Einfach per kurzem Spaziergang vom Hafen erreichbar.",
+                "hu": "Könnyen elérhető egy rövid sétával a kikötőtől.",
+                "ro": "Accesibilă ușor printr-o scurtă plimbare de la port.",
+                "en": "Easily accessible by a short walk from the port."
+              }
+            },
+            {
+              "name": "Strand Jazine",
+              "tip_5lang": {
+                "de": "Lokale Busse halten oft in der Nähe des Campingplatzes.",
+                "hu": "A helyi buszok gyakran megállnak a kemping közelében.",
+                "ro": "Autobuzele locale opresc adesea lângă camping.",
+                "en": "Local buses often stop near the campsite."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bistro Galeb",
+                "tip": "Günstige und gute lokale Gerichte direkt an der Bushaltestelle."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bistro Galeb",
+                "tip": "Olcsó és jó helyi ételek közvetlenül a buszmegállónál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bistro Galeb",
+                "tip": "Mâncăruri locale bune și ieftine chiar lângă stația de autobuz."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bistro Galeb",
+                "tip": "Cheap and good local dishes right by the bus stop."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Bänke am Ufer",
+                "tip": "Ideal zum Beobachten der Boote im Kanal.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Padok a parton",
+                "tip": "Ideális a csatornában közlekedő hajók megfigyelésére.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bănci pe mal",
+                "tip": "Ideal pentru a observa bărcile din canal.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Waterfront Benches",
+                "tip": "Ideal for watching the boats in the canal.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Kiosk im Zentrum",
+                "tip": "Postkarten und lokale Zeitschriften."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Központi újságos",
+                "tip": "Képeslapok és helyi újságok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chioșc în centru",
+                "tip": "Vederi și reviste locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Center Kiosk",
+                "tip": "Postcards and local magazines."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan für die Rückfahrt nach Šibenik im Voraus.",
+              "Die meisten Sehenswürdigkeiten sind vom Terminal aus leicht zu Fuß erreichbar.",
+              "Tickets können oft direkt beim Busfahrer gekauft werden.",
+              "Im Sommer gibt es zusätzliche Bootstaxis zwischen den Küstenorten."
+            ],
+            "hu": [
+              "Előre ellenőrizze a Šibenikbe visszatérő buszok menetrendjét.",
+              "A legtöbb látnivaló könnyen elérhető gyalog a termináltól.",
+              "A jegyeket gyakran közvetlenül a buszsofőrnél lehet megvásárolni.",
+              "Nyáron extra vízi taxik közlekednek a parti települések között."
+            ],
+            "ro": [
+              "Verificați din timp orarul autobuzelor pentru întoarcerea spre Šibenik.",
+              "Cele mai multe obiective sunt ușor accesibile pe jos de la terminal.",
+              "Biletele pot fi cumpărate adesea direct de la șoferul de autobuz.",
+              "Vara există taxiuri pe apă suplimentare între localitățile de coastă."
+            ],
+            "en": [
+              "Check the bus schedule for the return trip to Šibenik in advance.",
+              "Most sights are easily reachable on foot from the terminal.",
+              "Tickets can often be bought directly from the bus driver.",
+              "In summer, there are extra water taxis between the coastal towns."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens nehmen wir den Bus zur Ziehbrücke und bleiben im Unterstand trocken. Mittags erkunden wir den Platz der Bruderschaften und die Kirche des Hl. Geistes. Nachmittags bietet die Villa Katina Schutz. Wir beenden die Tour am Strand Jazine und nutzen die überdachte Haltestelle für die Rückfahrt.",
+            "hu": "Reggel busszal megyünk a felvonóhídhoz, a váróban szárazon maradva. Ebédidőben a Testvériségek terét és a Szentlélek-templomot járjuk be. Délután a Villa Katina nyújt menedéket. A túrát a Jazine-parton zárjuk, kihasználva a fedett buszmegállót a visszautazáshoz.",
+            "ro": "Dimineața luăm autobuzul spre podul mobil și rămânem la uscat sub copertină. La prânz explorăm Piața Tisno și Biserica Sfântului Duh. După-amiaza, Vila Katina oferă adăpost. Încheiem turul la plaja Jazine, folosind stația acoperită pentru drumul de întoarcere.",
+            "en": "Morning starts with a bus to the drawbridge, staying dry under the shelter. At lunch, we explore the Brotherhoods Square and the Church of the Holy Spirit. Afternoon provides refuge at Villa Katina. We finish the tour at Jazine beach, using the covered bus stop for the return trip."
+          },
+          "stops": [
+            {
+              "name": "Ziehbrücke von Tisno",
+              "tip_5lang": {
+                "de": "Warten Sie im Bushäuschen, bis der Regen nachlässt.",
+                "hu": "Várjon a buszváróban, amíg alábbhagy az eső.",
+                "ro": "Așteptați în stația de autobuz până se potolește ploaia.",
+                "en": "Wait in the bus shelter until the rain lets up."
+              }
+            },
+            {
+              "name": "Platz der Tisno-Bruderschaften",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt zentral zu vielen Cafés.",
+                "hu": "A buszmegálló központi helyen van sok kávézóhoz képest.",
+                "ro": "Stația de autobuz este situată central față de cafenele.",
+                "en": "The bus stop is centrally located near many cafes."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Geistes",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle zur Kirche.",
+                "hu": "Rövid gyalogút a megállótól a templomig.",
+                "ro": "Drum scurt pe jos de la stație până la biserică.",
+                "en": "Short walk from the stop to the church."
+              }
+            },
+            {
+              "name": "Villa Katina",
+              "tip_5lang": {
+                "de": "Informieren Sie sich über wetterbedingte Busverspätungen.",
+                "hu": "Tájékozódjon az eső miatti esetleges buszkésésekről.",
+                "ro": "Informați-vă despre posibilele întârzieri cauzate de ploaie.",
+                "en": "Check for potential bus delays due to the weather."
+              }
+            },
+            {
+              "name": "Strand Jazine",
+              "tip_5lang": {
+                "de": "Sitzplätze im Bus bieten trockenen Rückweg zum Hotel.",
+                "hu": "A busz száraz visszautat biztosít a szálláshoz.",
+                "ro": "Locurile din autobuz oferă un drum uscat spre hotel.",
+                "en": "Bus seats provide a dry return trip to your accommodation."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld für das Ticket im Bus bereit.",
+              "Die Busfrequenz kann bei schlechtem Wetter variieren.",
+              "Nutzen Sie Apps für Echtzeit-Fahrplaninformationen.",
+              "Tragen Sie Kleidung, die auch im Bus schnell trocknet."
+            ],
+            "hu": [
+              "Legyen kéznél aprópénz a buszjegyhez.",
+              "A buszok gyakorisága rossz időben változhat.",
+              "Használjon mobilalkalmazást a valós idejű menetrendhez.",
+              "Olyan ruhát viseljen, ami a buszon is gyorsan szárad."
+            ],
+            "ro": [
+              "Aveți pregătit mărunțiș pentru biletul de autobuz.",
+              "Frecvența autobuzelor poate varia pe vreme rea.",
+              "Folosiți aplicații pentru informații în timp real despre program.",
+              "Purtați haine care se usucă repede și în autobuz."
+            ],
+            "en": [
+              "Keep small change ready for the bus ticket.",
+              "Bus frequency may vary during bad weather.",
+              "Use mobile apps for real-time schedule information.",
+              "Wear clothing that dries quickly while on the bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens nehmen wir den ersten Bus zur winterlichen Ziehbrücke. Mittags erkunden wir den Platz der Bruderschaften in der kühlen Winterluft. Nachmittags besuchen wir die Kirche und die Villa Katina. Wir beenden den Ausflug am ruhigen Strand Jazine und kehren mit dem Bus zurück, bevor es um 17:00 Uhr dunkel ist.",
+            "hu": "Reggel az első busszal megyünk a téli hangulatú felvonóhídhoz. Ebédidőben a hűvös levegőben járjuk be a Testvériségek terét. Délután a templomot és a Villa Katinát látogatjuk meg. A kirándulást a csendes Jazine-parton zárjuk, és busszal térünk vissza 17:00 óra, a sötétedés előtt.",
+            "ro": "Dimineața luăm primul autobuz spre podul mobil iernatic. La prânz explorăm Piața Tisno în aerul rece de iarnă. După-amiaza vizităm biserica și Vila Katina. Încheiem excursia pe plaja liniștită Jazine și ne întoarcem cu autobuzul înainte de lăsarea întunericului, la ora 17:00.",
+            "en": "Morning involves taking the first bus to the wintry drawbridge. At lunch, we explore the Brotherhoods Square in the cool winter air. Afternoon is for visiting the church and Villa Katina. We end the trip at the quiet Jazine beach and return by bus before it gets dark at 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": "Ziehbrücke von Tisno",
+              "tip_5lang": {
+                "de": "Busse sind im Winter oft weniger überfüllt.",
+                "hu": "A buszok télen gyakran kevésbé zsúfoltak.",
+                "ro": "Autobuzele sunt adesea mai puțin aglomerate iarna.",
+                "en": "Buses are often less crowded during the winter season."
+              }
+            },
+            {
+              "name": "Platz der Tisno-Bruderschaften",
+              "tip_5lang": {
+                "de": "Im Winter gilt oft ein eingeschränkter Fahrplan.",
+                "hu": "Télen gyakran korlátozott menetrend van érvényben.",
+                "ro": "Iarna este adesea în vigoare un program redus.",
+                "en": "A reduced winter schedule is often in effect."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Geistes",
+              "tip_5lang": {
+                "de": "Die Haltestellen liegen oft in der Nähe von windgeschützten Ecken.",
+                "hu": "A megállók gyakran szélvédett sarkok közelében találhatók.",
+                "ro": "Stațiile sunt adesea situate lângă colțuri ferite de vânt.",
+                "en": "Stops are often located near sheltered corners."
+              }
+            },
+            {
+              "name": "Villa Katina",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch so, dass Sie den Bus vor Einbruch der Dunkelheit nehmen.",
+                "hu": "Tervezze úgy a látogatást, hogy sötétedés előtt elérje a buszt.",
+                "ro": "Planificați vizita astfel încât să luați autobuzul înainte de lăsarea serii.",
+                "en": "Plan your visit to catch the bus before nightfall."
+              }
+            },
+            {
+              "name": "Strand Jazine",
+              "tip_5lang": {
+                "de": "Letzte Busverbindung am späten Nachmittag prüfen.",
+                "hu": "Ellenőrizze az utolsó buszjáratot késő délután.",
+                "ro": "Verificați ultima cursă de autobuz de la sfârșitul după-amiezii.",
+                "en": "Check the last bus connection in the late afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne unterscheiden sich stark vom Sommer.",
+              "Tragen Sie warme Kleidung für die Wartezeit an der Haltestelle.",
+              "Nutzen Sie die beheizten Busse zum Aufwärmen zwischen den Stopps.",
+              "Die letzte Rückfahrt ist im Winter oft früher als im Sommer."
+            ],
+            "hu": [
+              "A téli menetrend nagyban eltér a nyáritól.",
+              "Viseljen meleg ruhát a megállóban való várakozáshoz.",
+              "Használja ki a fűtött buszokat a megállók közötti felmelegedéshez.",
+              "Az utolsó járat télen gyakran korábban indul, mint nyáron."
+            ],
+            "ro": [
+              "Orarele de iarnă diferă mult de cele de vară.",
+              "Purtați haine groase pentru timpul de așteptare în stație.",
+              "Folosiți autobuzele încălzite pentru a vă încălzi între opriri.",
+              "Ultima cursă de întoarcere este adesea mai devreme iarna."
+            ],
+            "en": [
+              "Winter schedules differ significantly from summer ones.",
+              "Wear warm clothing for the waiting time at the bus stop.",
+              "Use the heated buses to warm up between stops.",
+              "The last return trip is often earlier in winter than in summer."
+            ]
+          }
+        }
       }
     }
   },

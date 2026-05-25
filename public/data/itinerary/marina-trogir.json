@@ -304,6 +304,396 @@
           "Trogir is only a 15-minute drive away.",
           "Visit the village in the late afternoon for the best light."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Marina ist ein charmantes Fischerdorf mit einer reichen Geschichte. Beginnen Sie Ihren Tag am markanten Turm von Marina, der einst den Bischöfen von Trogir als Schutz diente. Die Architektur ist einzigartig in dieser Bucht.\n\nMittags erkunden Sie die sakralen Schätze des Ortes, wie die Kirchen der Hl. Marina und des Hl. Johannes. Nach der Kultur laden die Restaurants an der Uferpromenade zu frischen Meeresfrüchten ein.\n\nDen Nachmittag verbringen Sie am weitläufigen Strand Prališće. Der feine Kies und der natürliche Schatten der Pinien bieten ideale Bedingungen für Erholung und Badespaß im Adriatischen Meer.\n\nZum Ausklang spazieren Sie zur Kirche Maria im Schnee. Beobachten Sie, wie die Sonne hinter den Hügeln versinkt und die Bucht von Marina in goldenes Licht taucht.",
+            "hu": "Marina egy bájos halászfalu gazdag történelemmel. Kezdje a napot a jellegzetes marinai toronynál, amely egykor a trogiri püspökök védelmét szolgálta. Az építészet egyedülálló ebben az öbölben.\n\nDélben fedezze fel a település szakrális kincseit, mint a Szent Marina- és a Szent János-templom. A kultúra után a tengerparti sétány éttermei friss tenger gyümölcseivel várják.\n\nA délutánt töltse a tágas Prališće strandon. A finom kavics és a fenyők természetes árnyéka ideális feltételeket biztosít a pihenéshez és a fürdőzéshez az Adriai-tengerben.\n\nBefejezésül sétáljon el a Havas Boldogasszony-templomhoz. Figyelje, ahogy a nap eltűnik a dombok mögött, és aranyló fénybe vonja a marinai öblöt.",
+            "ro": "Marina este un sat pitoresc de pescari cu o istorie bogată. Începeți ziua la turnul marcat din Marina, care a servit odinioară drept protecție pentru episcopii din Trogir. Arhitectura este unică în acest golf.\n\nLa prânz, explorați comorile sacre ale localității, precum bisericile Sf. Marina și Sf. Ioan. După cultură, restaurantele de pe faleză vă invită la fructe de mare proaspete.\n\nDupă-amiaza, petreceți-o pe plaja extinsă Prališće. Pietrișul fin și umbra naturală a pinilor oferă condiții ideale pentru relaxare și înot în Marea Adriatică.\n\nLa final, plimbați-vă până la biserica Sf. Maria a Zăpezii. Observați cum soarele apune după dealuri, scăldând golful Marina în lumină aurie.",
+            "en": "Marina is a charming fishing village with a rich history. Start your day at the prominent Marina Tower, which once served as protection for the bishops of Trogir. The architecture is unique in this bay.\n\nAt noon, explore the sacred treasures of the village, such as the churches of St. Marina and St. John. After the culture, the restaurants on the waterfront promenade invite you to fresh seafood.\n\nSpend the afternoon at the spacious Prališće beach. The fine pebbles and the natural shade of the pines provide ideal conditions for relaxation and swimming in the Adriatic Sea.\n\nTo finish, walk to the Church of Our Lady of the Snow. Watch as the sun sinks behind the hills, bathing the bay of Marina in golden light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Turm von Marina",
+                "hu": "Marinai torony",
+                "ro": "Turnul din Marina",
+                "en": "Marina Tower"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Kirche der Hl. Marina",
+                "hu": "Szent Marina-templom",
+                "ro": "Biserica Sf. Marina",
+                "en": "Church of St. Marina"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Kirche des Hl. Johannes",
+                "hu": "Szent János-templom",
+                "ro": "Biserica Sf. Ioan",
+                "en": "Church of St. John"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Uferpromenade Marina",
+                "hu": "Marinai tengerparti sétány",
+                "ro": "Faleza Marina",
+                "en": "Marina Waterfront Promenade"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Strand Prališće",
+                "hu": "Prališće strand",
+                "ro": "Plaja Prališće",
+                "en": "Prališće Beach"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Kirche Maria im Schnee",
+                "hu": "Havas Boldogasszony-templom",
+                "ro": "Biserica Sf. Maria a Zăpezii",
+                "en": "Church of Our Lady of the Snow"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Marina",
+                "tip": "Hausgemachte Pasta mit Garnelen."
+              },
+              {
+                "name": "Restaurant Skradinski",
+                "tip": "Gegrillter Fisch und lokaler Wein."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba Marina",
+                "tip": "Házi tészta garnélával."
+              },
+              {
+                "name": "Restaurant Skradinski",
+                "tip": "Grillezett hal és helyi bor."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Marina",
+                "tip": "Paste de casă cu creveți."
+              },
+              {
+                "name": "Restaurant Skradinski",
+                "tip": "Pește la grătar și vin local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Marina",
+                "tip": "Homemade pasta with shrimp."
+              },
+              {
+                "name": "Restaurant Skradinski",
+                "tip": "Grilled fish and local wine."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Uferpromenade",
+                "tip": "Ruhiger Blick auf die Yachten.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Kirche Maria im Schnee",
+                "tip": "Stiller Ort der Andacht.",
+                "emoji": "🙏"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tengerparti sétány",
+                "tip": "Csendes kilátás a jachtokra.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Havas Boldogasszony-templom",
+                "tip": "Csendes áhítat helye.",
+                "emoji": "🙏"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Faleză",
+                "tip": "Vedere liniștită spre iahturi.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Biserica Sf. Maria a Zăpezii",
+                "tip": "Loc liniștit de reculegere.",
+                "emoji": "🙏"
+              }
+            ],
+            "en": [
+              {
+                "name": "Waterfront Promenade",
+                "tip": "Quiet view of the yachts.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Church of Our Lady of the Snow",
+                "tip": "Quiet place of devotion.",
+                "emoji": "🙏"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Örtlicher Olivenölverkauf",
+                "tip": "Frisches Öl direkt von den Hainen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi olívaolaj árusítás",
+                "tip": "Friss olaj közvetlenül a ligetekből."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vânzare locală ulei măsline",
+                "tip": "Ulei proaspăt direct din livezi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Olive Oil Sales",
+                "tip": "Fresh oil directly from the groves."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Marina ist ideal für Familien mit Kindern.",
+              "Der Turm beherbergt heute ein Hotel und Café.",
+              "Trogir ist nur 15 Autominuten entfernt.",
+              "Besuchen Sie den Ort am späten Nachmittag für das beste Licht."
+            ],
+            "hu": [
+              "Marina ideális gyermekes családok számára.",
+              "A toronyban ma szálloda és kávézó működik.",
+              "Trogir mindössze 15 perc autóútra van.",
+              "Látogasson el ide késő délután a legjobb fényekért."
+            ],
+            "ro": [
+              "Marina este ideală pentru familiile cu copii.",
+              "Turnul găzduiește astăzi un hotel și o cafenea.",
+              "Trogir este la doar 15 minute de mers cu mașina.",
+              "Vizitați localitatea după-amiaza târziu pentru cea mai bună lumină."
+            ],
+            "en": [
+              "Marina is ideal for families with children.",
+              "The tower now houses a hotel and café.",
+              "Trogir is only a 15-minute drive away.",
+              "Visit the village in the late afternoon for the best light."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am massiven Marina Tower, der Schutz vor dem Regen bietet.\nMittags erkunden wir die kunstvollen Innenräume der Kirchen St. Marina und St. Johann.\nAm Nachmittag spazieren wir trotz des Regens entlang der Uferpromenade bei kühler Meeresbrise.\nDer Tag endet ruhig bei der Kapelle der Schneemutter Gottes, während der Regen leise abklingt.",
+            "hu": "A reggel a masszív tengerparti toronynál indul, amely kiváló menedék az eső elől.\nDélben a Szent Marina és Szent János templomok belső terét fedezzük fel, szárazon maradva.\nDélután az eső ellenére teszünk egy sétát a parton, figyelve a tenger feletti felhőket.\nA napot a Havas Boldogasszony templománál zárjuk, élvezve az eső utáni friss tengeri levegőt.",
+            "ro": "Dimineața începe la turnul masiv din Marina, care oferă adăpost împotriva ploii.\nLa prânz explorăm interiorul bisericilor Sf. Marina și Sf. Ioan, unde rămânem la adăpost.\nDupă-amiaza facem o plimbare pe faleză, admirând norii dramatici deasupra Adriaticii.\nZiua se încheie liniștit la biserica Maicii Domnului a Zăpezii, bucurându-ne de aerul curat.",
+            "en": "The morning begins at the massive Marina Tower, which provides excellent shelter from the rain.\nAt noon, we explore the dry interiors of St. Marina and St. John churches.\nIn the afternoon, we take a walk along the waterfront despite the rain, watching the grey sea.\nThe day ends quietly at the Church of Our Lady of the Snow, enjoying the fresh coastal air."
+          },
+          "stops": [
+            {
+              "name": "Marina Tower",
+              "tip_5lang": {
+                "de": "Sicherer Unterschlupf im historischen Turm.",
+                "hu": "Biztos menedék a történelmi torony falai között.",
+                "ro": "Adăpost sigur între zidurile turnului istoric.",
+                "en": "Safe shelter within the historical tower walls."
+              }
+            },
+            {
+              "name": "Church of St. Marina",
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen trockenen Ort für Besinnung.",
+                "hu": "A templom csendes, száraz hely az elmélyüléshez.",
+                "ro": "Biserica oferă un loc uscat pentru meditație.",
+                "en": "The church offers a dry place for reflection."
+              }
+            },
+            {
+              "name": "Church of St. John",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum, um den Regenschauer abzuwarten.",
+                "hu": "Használja a belső teret az eső elkerülésére.",
+                "ro": "Folosiți interiorul pentru a aștepta trecerea ploii.",
+                "en": "Use the interior to wait out the rain shower."
+              }
+            },
+            {
+              "name": "Marina Waterfront Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen auf dem glatten Steinboden.",
+                "hu": "Vigyázat a tócsákkal a csúszós kőburkolaton.",
+                "ro": "Atenție la bălți pe pavajul alunecos.",
+                "en": "Watch out for puddles on the slippery stone pavement."
+              }
+            },
+            {
+              "name": "Prališće Beach",
+              "tip_5lang": {
+                "de": "Das Meer wirkt bei Regen besonders mystisch.",
+                "hu": "A tenger esőben különösen misztikus látvány.",
+                "ro": "Marea are un aspect mistic pe timp de ploaie.",
+                "en": "The sea looks especially mystical in the rain."
+              }
+            },
+            {
+              "name": "Church of Our Lady of the Snow",
+              "tip_5lang": {
+                "de": "Kleiner, überdachter Bereich am Eingang.",
+                "hu": "Kis fedett rész a bejáratnál.",
+                "ro": "Mică zonă acoperită la intrare.",
+                "en": "Small covered area at the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da der Wind stark sein kann.",
+              "Die Kirchen sind ideale Orte, um stärkere Schauer abzuwarten.",
+              "Tragen Sie wasserfeste Schuhe für den Spaziergang an der Promenade.",
+              "Genießen Sie einen Kaffee in einer der überdachten Bars am Hafen."
+            ],
+            "hu": [
+              "Vigyél erős esernyőt, mert a tengerparton fújhat a szél.",
+              "A templomok ideális helyszínek a nagyobb záporok átvészelésére.",
+              "Viselj vízálló cipőt a parti sétához a tócsák miatt.",
+              "Igyál meg egy kávét a kikötő egyik fedett teraszán."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, deoarece vântul poate fi puternic.",
+              "Bisericile sunt locuri ideale pentru a aștepta trecerea averselor.",
+              "Purtați încălțăminte impermeabilă pentru plimbarea pe faleză.",
+              "Savurați o cafea la una dintre terasele acoperite din port."
+            ],
+            "en": [
+              "Bring a sturdy umbrella, as coastal winds can be strong.",
+              "The churches are ideal spots to wait out heavier showers.",
+              "Wear waterproof shoes for the promenade walk due to puddles.",
+              "Enjoy a coffee at one of the covered bars in the harbor."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen führt uns zum kühlen Marina Tower.\nMittags wärmen wir uns in den geschützten Kirchen St. Marina und St. Johann auf.\nAm Nachmittag genießen wir die leere Promenade und die winterliche Ruhe am Strand.\nDer Abend klingt friedlich an der Kapelle der Schneemutter Gottes aus, während Lichter funkeln.",
+            "hu": "A tiszta téli reggel a hűvös Marina-toronyhoz vezet.\nDélben a Szent Marina és Szent János templomok védett falai között melegszünk fel.\nDélután a kihalt sétányt és a Prališće strand téli nyugalmát élvezzük.\nAz este békésen telik a Havas Boldogasszony kápolnánál a szürkületi fényekben.",
+            "ro": "O dimineață senină de iarnă ne conduce la turnul răcoros din Marina.\nLa prânz ne încălzim între zidurile bisericilor Sf. Marina și Sf. Ioan.\nDupă-amiaza ne bucurăm de faleza pustie și de liniștea plajei Prališće.\nSeara trece liniștit la capela Maicii Domnului a Zăpezii sub cerul înstelat.",
+            "en": "A clear winter morning leads us to the cool Marina Tower.\nAt noon, we warm up within the sheltered walls of St. Marina and St. John churches.\nIn the afternoon, we enjoy the deserted promenade and the winter tranquility of the beach.\nThe evening passes peacefully at the chapel of Our Lady of the Snow as village lights glow."
+          },
+          "stops": [
+            {
+              "name": "Marina Tower",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wegen des Windes vom Meer nötig.",
+                "hu": "Meleg ruha szükséges a tenger felől fújó szél miatt.",
+                "ro": "Haine groase sunt necesare din cauza vântului de mare.",
+                "en": "Warm clothes are needed due to the wind from the sea."
+              }
+            },
+            {
+              "name": "Church of St. Marina",
+              "tip_5lang": {
+                "de": "Ein windstiller Rückzugsort in der kalten Mittagszeit.",
+                "hu": "Szélvédett menedék a hideg déli órákban.",
+                "ro": "Un refugiu ferit de vânt în orele reci de prânz.",
+                "en": "A wind-sheltered retreat during the cold noon hours."
+              }
+            },
+            {
+              "name": "Church of St. John",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne die sommerlichen Touristenmassen.",
+                "hu": "Élvezze a nyugalmat a nyári turistatömeg nélkül.",
+                "ro": "Bucurați-vă de liniște fără mulțimile de turiști de vară.",
+                "en": "Enjoy the peace without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Marina Waterfront Promenade",
+              "tip_5lang": {
+                "de": "Perfekter Ort für einen Spaziergang in der Wintersonne.",
+                "hu": "Tökéletes hely egy sétához a téli napsütésben.",
+                "ro": "Locul perfect pentru o plimbare în soarele de iarnă.",
+                "en": "Perfect spot for a walk in the winter sun."
+              }
+            },
+            {
+              "name": "Prališće Beach",
+              "tip_5lang": {
+                "de": "Ideal für die Beobachtung des frühen Sonnenuntergangs.",
+                "hu": "Ideális hely a korai naplemente megtekintéséhez.",
+                "ro": "Ideal pentru a observa apusul de soare timpuriu.",
+                "en": "Ideal for watching the early sunset."
+              }
+            },
+            {
+              "name": "Church of Our Lady of the Snow",
+              "tip_5lang": {
+                "de": "Die Beleuchtung wirkt in der Winterdämmerung magisch.",
+                "hu": "A világítás mágikus a téli szürkületben.",
+                "ro": "Iluminatul pare magic în amurgul de iarnă.",
+                "en": "The lighting looks magical in the winter twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie den Tag bis 16:30 Uhr, da es danach schnell dunkel wird.",
+              "Der Wind kann kälter sein, als es das Thermometer vermuten lässt.",
+              "Tragen Sie Schichten, um sich in den Kirchen und draußen wohlzufühlen.",
+              "Ein heißes Getränk am Hafen wärmt nach dem Strandspaziergang auf."
+            ],
+            "hu": [
+              "Tervezd a napot 16:30-ig, mert utána gyorsan sötétedik.",
+              "A szél hidegebb lehet, mint amit a hőmérő mutat.",
+              "Öltözz rétegesen a kinti és benti helyszínek váltakozása miatt.",
+              "Egy forró ital a kikötőben jól esik a tengerparti séta után."
+            ],
+            "ro": [
+              "Planificați ziua până la ora 16:30, deoarece se întunecă repede.",
+              "Vântul poate fi mai rece decât indică termometrul.",
+              "Îmbrăcați-vă în straturi pentru confort în interior și exterior.",
+              "O băutură caldă în port este binevenită după plimbarea pe plajă."
+            ],
+            "en": [
+              "Plan your day until 16:30, as it gets dark quickly after.",
+              "The wind can be colder than the thermometer suggests.",
+              "Dress in layers for comfort in and out of the buildings.",
+              "A hot drink in the harbor is great after the beach walk."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -543,6 +933,333 @@
           "Avoid the midday heat on the bike.",
           "Bike rentals are often available in the marina."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Marina und seine Hügel mit dem Fahrrad. Nach dem Besuch des historischen Turms führt der Weg hinauf zum Hügel Drid. Von dort oben genießen Sie eine fantastische Aussicht auf die gesamte Bucht und die Inseln.\n\nMittags erkunden Sie die kleinen Kirchen im Hinterland, die abseits der Touristenpfade liegen. Die Kirche des Hl. Lukas ist ein wunderbares Beispiel für die einfache, aber beeindruckende sakrale Architektur der Region.\n\nNach der Anstrengung rollen Sie hinunter zum Strand Prališće. Eine ausgiebige Badepause im klaren Wasser ist die beste Belohnung für die Fahrt über die Hügel.\n\nDer Tag endet gemütlich bei einer Fahrt entlang der Uferpromenade. Die flache Strecke am Wasser ist ideal, um die Tour entspannt ausklingen zu lassen.",
+            "hu": "Fedezze fel Marinát és dombjait kerékpárral. A történelmi torony meglátogatása után az út felvezet a Drid-dombra. Onnan fentről fantasztikus kilátás nyílik az egész öbölre és a szigetekre.\n\nDélben fedezze fel a hátország kis templomait, amelyek távol esnek a turistaösvényektől. A Szent Lukács-templom csodálatos példája a régió egyszerű, de lenyűgöző szakrális építészetének.\n\nA megerőltetés után guruljon le a Prališće strandra. Egy kiadós fürdőzés a tiszta vízben a legjobb jutalom a dombokon tett túra után.\n\nA nap kellemesen zárul a tengerparti sétány mentén. A vízparti sík szakasz ideális a túra pihentető befejezéséhez.",
+            "ro": "Descoperiți Marina și dealurile sale cu bicicleta. După vizitarea turnului istoric, drumul urcă spre dealul Drid. De acolo de sus, vă bucurați de o vedere fantastică asupra întregului golf și a insulelor.\n\nLa prânz, explorați micile biserici din interior, aflate departe de traseele turistice. Biserica Sf. Luca este un exemplu minunat de arhitectură sacră simplă, dar impresionantă, a regiunii.\n\nDupă efort, coborâți spre plaja Prališće. O pauză lungă de înot în apa limpede este cea mai bună recompensă pentru tura peste dealuri.\n\nZiua se încheie plăcut cu o plimbare de-a lungul falezei. Traseul plat de lângă apă este ideal pentru a încheia turul într-un mod relaxat.",
+            "en": "Discover Marina and its hills by bike. After visiting the historic tower, the path leads up to Drid Hill. From up there, you enjoy a fantastic view of the entire bay and the islands.\n\nAt noon, explore the small churches in the hinterland, which lie off the beaten track. The Church of St. Luke is a wonderful example of the simple but impressive sacred architecture of the region.\n\nAfter the exertion, roll down to Prališće Beach. An extensive swim break in the clear water is the best reward for the ride over the hills.\n\nThe day ends pleasantly with a ride along the waterfront promenade. The flat stretch by the water is ideal for ending the tour in a relaxed way."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Turm von Marina",
+                "hu": "Marinai torony",
+                "ro": "Turnul din Marina",
+                "en": "Marina Tower"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Hügel Drid",
+                "hu": "Drid-domb",
+                "ro": "Dealul Drid",
+                "en": "Drid Hill"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Kirche des Hl. Lukas",
+                "hu": "Szent Lukács-templom",
+                "ro": "Biserica Sf. Luca",
+                "en": "Church of St. Luke"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Strand Prališće",
+                "hu": "Prališće strand",
+                "ro": "Plaja Prališće",
+                "en": "Prališće Beach"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Uferpromenade Marina",
+                "hu": "Marinai sétány",
+                "ro": "Faleza Marina",
+                "en": "Marina Promenade"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bistro In",
+                "tip": "Snacks für Aktive."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bistro In",
+                "tip": "Rágcsálnivalók aktívaknak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bistro In",
+                "tip": "Gustări pentru activi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bistro In",
+                "tip": "Snacks for actives."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hügel Drid",
+                "tip": "Panorama und Stille.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Drid-domb",
+                "tip": "Panoráma és csend.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Dealul Drid",
+                "tip": "Panoramă și liniște.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Drid Hill",
+                "tip": "Panorama and silence.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Obststand Marina",
+                "tip": "Frische Feigen und Melonen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Marinai gyümölcsárus",
+                "tip": "Friss füge és dinnye."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Stand fructe Marina",
+                "tip": "Smochine proaspete și pepeni."
+              }
+            ],
+            "en": [
+              {
+                "name": "Marina Fruit Stand",
+                "tip": "Fresh figs and melons."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Wege zum Drid sind teilweise geschottert.",
+              "Prüfen Sie Ihre Bremsen vor den Abfahrten.",
+              "Vermeiden Sie die Mittagsitze auf dem Fahrrad.",
+              "Fahrradverleih gibt es oft in der Marina."
+            ],
+            "hu": [
+              "A Drid felé vezető utak részben murvásak.",
+              "Ereszkedés előtt ellenőrizze a fékeket.",
+              "Kerülje a déli hőséget a kerékpáron.",
+              "Kerékpárkölcsönző gyakran található a marinában."
+            ],
+            "ro": [
+              "Drumurile spre Drid sunt parțial cu pietriș.",
+              "Verificați frânele înainte de coborâri.",
+              "Evitați căldura de la prânz pe bicicletă.",
+              "Închirierea de biciclete este adesea disponibilă în marină."
+            ],
+            "en": [
+              "The paths to Drid are partially gravel.",
+              "Check your brakes before the descents.",
+              "Avoid the midday heat on the bike.",
+              "Bike rentals are often available in the marina."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Radtour ab dem Marina Tower.\nMittags erklimmen wir vorsichtig den Drid-Hügel trotz der Wolken.\nAm Nachmittag radeln wir zur St. Lukas Kirche und zur nassen Küstenstraße.\nDer Tag endet mit einer Fahrt auf der Promenade, während Tropfen auf das Meer fallen.",
+            "hu": "Esős kerékpártúra a Marina-toronytól.\nDélben óvatosan tekerünk fel a Drid-dombra a sűrű felhők között.\nDélután a Szent Lukács templom felé vesszük az irányt a vizes úton.\nA napot a sétányon zárjuk, figyelve a tengerre hulló esőcseppeket.",
+            "ro": "Tură cu bicicleta pe ploaie de la turnul Marina.\nLa prânz urcăm cu grijă pe dealul Drid printre norii deși.\nDupă-amiaza pedalăm spre biserica Sf. Luca pe drumul umed de coastă.\nZiua se încheie pe faleză, privind picăturile de ploaie pe mare.",
+            "en": "Rainy bike tour starting from Marina Tower.\nAt noon, we carefully climb Drid Hill through the thick clouds.\nIn the afternoon, we head towards St. Luke Church along the wet coastal road.\nThe day ends with a ride on the promenade, watching raindrops fall on the sea."
+          },
+          "stops": [
+            {
+              "name": "Marina Tower",
+              "tip_5lang": {
+                "de": "Kurze Pause unter dem Vorsprung des Turms.",
+                "hu": "Rövid pihenő a torony kiszögellése alatt.",
+                "ro": "Scurtă pauză sub streașina turnului.",
+                "en": "Short break under the tower's overhang."
+              }
+            },
+            {
+              "name": "Drid Hill",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Abfahrt auf nassen Wegen.",
+                "hu": "Vigyázat az ereszkedésnél a vizes utakon.",
+                "ro": "Atenție la coborâre pe drumurile umede.",
+                "en": "Be careful during the descent on wet paths."
+              }
+            },
+            {
+              "name": "Church of St. Luke",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um die Regenkleidung zu richten.",
+                "hu": "Csendes hely az esőruházat megigazítására.",
+                "ro": "Un loc liniștit pentru a ajusta echipamentul de ploaie.",
+                "en": "A quiet place to adjust your rain gear."
+              }
+            },
+            {
+              "name": "Prališće Beach",
+              "tip_5lang": {
+                "de": "Schlammige Abschnitte am Wegrand möglich.",
+                "hu": "Saras szakaszok fordulhatnak elő az út szélén.",
+                "ro": "Pot apărea porțiuni noroioase pe marginea drumului.",
+                "en": "Muddy sections may occur at the roadside."
+              }
+            },
+            {
+              "name": "Marina Promenade",
+              "tip_5lang": {
+                "de": "Reduzieren Sie die Geschwindigkeit auf glatten Steinen.",
+                "hu": "Csökkentse a sebességet a csúszós köveken.",
+                "ro": "Reduceți viteza pe pietrele alunecoase.",
+                "en": "Reduce speed on the slippery stones."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, bevor Sie den Drid-Hügel befahren.",
+              "Tragen Sie eine vollflächige Regenjacke und wasserfeste Hosen.",
+              "Die Steine der Promenade können extrem rutschig sein.",
+              "Halten Sie die Kette nach der Fahrt sauber und geölt."
+            ],
+            "hu": [
+              "Ellenőrizd a fékeket a Drid-domb megmászása előtt.",
+              "Viselj teljes esőkabátot és vízálló nadrágot.",
+              "A sétány kövei vizesen rendkül csúszósak lehetnek.",
+              "Tisztítsd meg és olajozd be a láncot a túra után."
+            ],
+            "ro": [
+              "Verificați frânele înainte de a urca pe dealul Drid.",
+              "Purtați o jachetă de ploaie completă și pantaloni impermeabili.",
+              "Pietrele falezei pot fi extrem de alunecoase când sunt ude.",
+              "Curățați și ungeți lanțul după plimbare."
+            ],
+            "en": [
+              "Check your brakes before cycling on Drid Hill.",
+              "Wear a full rain jacket and waterproof trousers.",
+              "The promenade stones can be extremely slippery when wet.",
+              "Clean and oil the chain after the ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Winterluft beim Start am Marina Tower.\nMittags fordert die Auffahrt zum Drid-Hügel heraus mit klarer Sicht.\nNachmittags besuchen wir die St. Lukas Kirche und den einsamen Strand.\nDie Tour endet zum Sonnenuntergang an der Promenade vor dem Abendwind.",
+            "hu": "Friss téli levegő a Marina-toronytól indulva.\nDélben a Drid-domb megmászása kihívást jelent, de tiszta kilátást ad.\nDélután a Szent Lukács templomot érintjük a néptelen tengerparton.\nA túra naplementekor ér véget a sétányon a jeges szél előtt.",
+            "ro": "Aer curat de iarnă la plecarea de la turnul Marina.\nLa prânz, urcarea pe dealul Drid oferă o vizibilitate clară.\nDupă-amiaza vizităm biserica Sf. Luca lângă plaja pustie.\nTurul se încheie la apus pe faleză, înainte de venirea vântului rece.",
+            "en": "Fresh winter air as we start at Marina Tower.\nAt noon, the climb to Drid Hill rewards with clear winter views.\nIn the afternoon, we visit St. Luke Church by the empty beach.\nThe tour ends at sunset on the promenade before the cold wind sets in."
+          },
+          "stops": [
+            {
+              "name": "Marina Tower",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Fahrt am Morgen essenziell.",
+                "hu": "A kesztyű elengedhetetlen a reggeli tekeréshez.",
+                "ro": "Mănușile sunt esențiale pentru tura de dimineață.",
+                "en": "Gloves are essential for the morning ride."
+              }
+            },
+            {
+              "name": "Drid Hill",
+              "tip_5lang": {
+                "de": "Der Aufstieg hält Sie warm, oben weht kalter Wind.",
+                "hu": "Az emelkedő melegen tart, de fent hideg szél fúj.",
+                "ro": "Urcarea vă va încălzi, dar sus bate un vânt rece.",
+                "en": "The climb will keep you warm, but cold wind blows at the top."
+              }
+            },
+            {
+              "name": "Church of St. Luke",
+              "tip_5lang": {
+                "de": "Kurze Pause im Windschatten des Gebäudes.",
+                "hu": "Rövid pihenő az épület szélvédett oldalán.",
+                "ro": "Scurtă pauză la adăpostul clădirii.",
+                "en": "Short break in the lee of the building."
+              }
+            },
+            {
+              "name": "Prališće Beach",
+              "tip_5lang": {
+                "de": "Helles Winterlicht für tolle Fotos vom Fahrrad.",
+                "hu": "Éles téli fények a remek kerékpáros fotókhoz.",
+                "ro": "Lumină puternică de iarnă pentru fotografii reușite.",
+                "en": "Crisp winter light for great bike photos."
+              }
+            },
+            {
+              "name": "Marina Promenade",
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt, bevor die Temperatur sinkt.",
+                "hu": "Fejezze be a túrát, mielőtt a hőmérséklet leesik.",
+                "ro": "Încheiați tura înainte ca temperatura să scadă.",
+                "en": "Finish the ride before the temperature drops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung für die Abfahrten.",
+              "Das Licht ist im Winter fantastisch, aber die Tage sind kurz.",
+              "Verwenden Sie ein Licht am Fahrrad für die Dämmerung.",
+              "Nehmen Sie einen warmen Tee in einer Thermoskanne mit."
+            ],
+            "hu": [
+              "Viselj szélálló ruhát a lejtőkhöz.",
+              "A fények fantasztikusak télen, de a nappalok rövidek.",
+              "Használj kerékpáros lámpát a szürkületben.",
+              "Vigyél magaddal meleg teát termoszban."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt pentru coborâri.",
+              "Lumina este fantastică iarna, dar zilele sunt scurte.",
+              "Folosiți lumini la bicicletă pentru amurg.",
+              "Luați un ceai cald într-un termos."
+            ],
+            "en": [
+              "Wear windproof clothing for the descents.",
+              "The light is fantastic in winter, but days are short.",
+              "Use bike lights for the twilight hours.",
+              "Take warm tea with you in a thermos."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -782,6 +1499,333 @@
           "Use the car for trips to Trogir.",
           "Beach shoes are advisable at Prališće."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie bequem Marina und seine Umgebung. Der Tag beginnt am historischen Turm, dem Herzstück des Ortes. Danach fahren Sie zum Hügel Drid, von dem aus Sie den besten Überblick über die Region haben.\n\nMittags kehren Sie zurück ins Zentrum, um die sakrale Architektur zu bewundern. Die Kirchen des Hl. Johannes und der Hl. Marina zeugen von der langen Tradition des Ortes.\n\nDer Nachmittag ist für pure Entspannung am Strand Prališće reserviert. Da Sie mobil sind, können Sie problemlos alles Notwendige für einen perfekten Badetag mitnehmen.\n\nZum Abendessen schlendern Sie entlang der Uferpromenade und genießen die friedliche Atmosphäre des Hafens, bevor Sie die kurze Rückreise antreten.",
+            "hu": "Autóval kényelmesen felfedezheti Marinát és környékét. A nap a történelmi toronynál kezdődik, amely a település szíve. Ezután hajtson el a Drid-dombra, ahonnan a legjobb kilátás nyílik a régióra.\n\nDélben térjen vissza a központba, hogy megcsodálja a szakrális építészetet. A Szent János- és a Szent Marina-templom a település hosszú hagyományairól tanúskodik.\n\nA délután a tiszta kikapcsolódásé a Prališće strandon. Mivel mobilis, könnyedén magával vihet mindent, ami egy tökéletes strandoláshoz kell.\n\nVacsora előtt sétáljon végig a tengerparti sétányon, és élvezze a kikötő békés hangulatát, mielőtt elindulna a rövid úton haza.",
+            "ro": "Cu mașina, puteți explora confortabil Marina și împrejurimile sale. Ziua începe la turnul istoric, inima localității. Apoi mergeți la dealul Drid, de unde aveți cea mai bună vedere asupra regiunii.\n\nLa prânz, întoarceți-vă în centru pentru a admira arhitectura sacră. Bisericile Sf. Ioan și Sf. Marina depun mărturie despre lunga tradiție a localității.\n\nDupă-amiaza este rezervată relaxării pure pe plaja Prališće. Fiind mobil, puteți lua cu ușurință tot ce este necesar pentru o zi perfectă la plajă.\n\nÎnainte de cină, plimbați-vă pe faleză și bucurați-vă de atmosfera liniștită a portului înainte de scurta călătorie de întoarcere.",
+            "en": "By car, you can comfortably explore Marina and its surroundings. The day starts at the historic tower, the heart of the village. Then drive to Drid Hill, from where you have the best overview of the region.\n\nAt noon, return to the center to admire the sacred architecture. The churches of St. John and St. Marina bear witness to the long tradition of the village.\n\nThe afternoon is reserved for pure relaxation at Prališće Beach. Since you are mobile, you can easily take everything necessary for a perfect beach day with you.\n\nBefore dinner, stroll along the waterfront promenade and enjoy the peaceful atmosphere of the harbor before starting the short trip back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Turm von Marina",
+                "hu": "Marinai torony",
+                "ro": "Turnul din Marina",
+                "en": "Marina Tower"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Hügel Drid",
+                "hu": "Drid-domb",
+                "ro": "Dealul Drid",
+                "en": "Drid Hill"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Kirche des Hl. Johannes",
+                "hu": "Szent János-templom",
+                "ro": "Biserica Sf. Ioan",
+                "en": "Church of St. John"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Strand Prališće",
+                "hu": "Prališće strand",
+                "ro": "Plaja Prališće",
+                "en": "Prališće Beach"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Uferpromenade Marina",
+                "hu": "Marinai sétány",
+                "ro": "Faleza Marina",
+                "en": "Marina Promenade"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurant Marinus",
+                "tip": "Gehobene Küche im Turm."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Restaurant Marinus",
+                "tip": "Színvonalas konyha a toronyban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurant Marinus",
+                "tip": "Bucătărie rafinată în turn."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restaurant Marinus",
+                "tip": "Fine dining in the tower."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Drid Kapelle",
+                "tip": "Abgelegener Aussichtspunkt.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Drid-kápolna",
+                "tip": "Félreeső kilátóhely.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Capela Drid",
+                "tip": "Punct de belvedere izolat.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Drid Chapel",
+                "tip": "Secluded viewpoint.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Supermarkt am Hafen",
+                "tip": "Lokaler Wein und Spezialitäten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötői szupermarket",
+                "tip": "Helyi bor és különlegességek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Supermarket în port",
+                "tip": "Vin local și specialități."
+              }
+            ],
+            "en": [
+              {
+                "name": "Harbor Supermarket",
+                "tip": "Local wine and specialties."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken im Zentrum ist kostenpflichtig.",
+              "Die Zufahrt zum Drid ist eng.",
+              "Nutzen Sie den Wagen für Ausflüge nach Trogir.",
+              "Strandschuhe sind bei Prališće ratsam."
+            ],
+            "hu": [
+              "A központban a parkolás fizetős.",
+              "A Drid felé vezető út szűk.",
+              "Használja az autót trogiri kirándulásokhoz.",
+              "Strandcipő ajánlott a Prališće strandon."
+            ],
+            "ro": [
+              "Parcarea în centru este contra cost.",
+              "Accesul spre Drid este îngust.",
+              "Folosiți mașina pentru excursii spre Trogir.",
+              "Încălțămintea de plajă este recomandată la Prališće."
+            ],
+            "en": [
+              "Parking in the center is paid.",
+              "The access road to Drid is narrow.",
+              "Use the car for trips to Trogir.",
+              "Beach shoes are advisable at Prališće."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequeme Autofahrt zum Marina Tower bei Regen.\nMittags geht es zum Drid-Hügel mit Blick aus dem trockenen Auto.\nAm Nachmittag besuchen wir St. Johann und parken am Strand.\nDer Tag endet mit einer Fahrt entlang der Promenade im Regengrau.",
+            "hu": "Kényelmes autózás a Marina-toronyhoz az esőben.\nDélben felhajtunk a Drid-dombra a száraz autóból figyelve a tájat.\nDélután a Szent János templomot látogatjuk meg a part mentén.\nA nap a sétány menti gurulással zárul az ablaktörlők ütemére.",
+            "ro": "Călătorie confortabilă cu mașina la turnul Marina pe ploaie.\nLa prânz urcăm pe dealul Drid, admirând coasta din mașină.\nDupă-amiaza vizităm biserica Sf. Ioan și parcăm lângă plajă.\nZiua se încheie cu o plimbare lentă pe faleză în sunetul ștergătoarelor.",
+            "en": "Comfortable car ride to Marina Tower in the rain.\nAt noon, we drive up Drid Hill, viewing the coast from the dry car.\nIn the afternoon, we visit St. John and park by the beach.\nThe day ends with a slow drive along the promenade in the rain."
+          },
+          "stops": [
+            {
+              "name": "Marina Tower",
+              "tip_5lang": {
+                "de": "Parkplätze sind in der Nähe des Turms verfügbar.",
+                "hu": "Parkolóhelyek a torony közelében találhatók.",
+                "ro": "Locuri de parcare disponibile lângă turn.",
+                "en": "Parking spaces are available near the tower."
+              }
+            },
+            {
+              "name": "Drid Hill",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schlaglöcher mit Regenwasser.",
+                "hu": "Vigyázzon az esővízzel telt kátyúkra.",
+                "ro": "Atenție la gropile cu apă de ploaie.",
+                "en": "Watch out for potholes with rainwater."
+              }
+            },
+            {
+              "name": "Church of St. John",
+              "tip_5lang": {
+                "de": "Kurzer Weg vom Parkplatz zum Kircheneingang.",
+                "hu": "Rövid séta a parkolótól a templom bejáratáig.",
+                "ro": "Scurtă plimbare de la parcare la intrare.",
+                "en": "Short walk from the parking lot to the entrance."
+              }
+            },
+            {
+              "name": "Prališće Beach",
+              "tip_5lang": {
+                "de": "Perfekter Stop für 'Storm-Watching' aus dem Auto.",
+                "hu": "Tökéletes megálló viharfigyelésre az autóból.",
+                "ro": "Oprire perfectă pentru a privi furtuna din mașină.",
+                "en": "Perfect stop for storm watching from the car."
+              }
+            },
+            {
+              "name": "Marina Promenade",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig bei eingeschränkter Sicht.",
+                "hu": "Vezessen óvatosan a korlátozott látási viszonyok között.",
+                "ro": "Conduceți cu prudență din cauza vizibilității reduse.",
+                "en": "Drive carefully due to limited visibility."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze direkt an den Sehenswürdigkeiten.",
+              "Stellen Sie sicher, dass Ihre Scheibenwischer gut funktionieren.",
+              "Die Sicht kann bei starkem Regen auf der Küstenstraße abnehmen.",
+              "Vermeiden Sie tiefe Pfützen am Straßenrand."
+            ],
+            "hu": [
+              "Használd a közvetlenül a látnivalóknál lévő parkolókat.",
+              "Győződj meg róla, hogy az ablaktörlők jól működnek.",
+              "A látótávolság csökkenhet a parti úton erős esőben.",
+              "Kerüld a mély tócsákat az út szélén."
+            ],
+            "ro": [
+              "Folosiți parcările situate lângă obiective.",
+              "Asigurați-vă că ștergătoarele funcționează bine.",
+              "Vizibilitatea poate scădea pe drumul de coastă în timpul ploii.",
+              "Evitați bălțile adânci de pe marginea drumului."
+            ],
+            "en": [
+              "Use the parking lots located right at the sights.",
+              "Make sure your windshield wipers work well.",
+              "Visibility may decrease on the coastal road during rain.",
+              "Avoid deep puddles at the roadside."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintertag beginnt am Marina Tower.\nMittags fahren wir zum Drid-Hügel für die kristallklare Weitsicht.\nNachmittags besuchen wir St. Johann und den leeren Strand.\nDer Tag endet an der Promenade, während die Heizung Wärme spendet.",
+            "hu": "Hűvös téli nap indul a Marina-toronynál.\nDélben a Drid-dombra hajtunk a kristálytiszta távoli kilátásért.\nDélután a Szent János templomot és a néptelen strandot érintjük.\nA nap a sétányon zárul, miközben az autó fűtése meleget ad.",
+            "ro": "O zi răcoroasă de iarnă începe la turnul Marina.\nLa prânz conducem spre dealul Drid pentru vizibilitatea clară.\nDupă-amiaza vizităm biserica Sf. Ioan și plaja pustie.\nZiua se încheie la faleză, în timp ce căldura din mașină e plăcută.",
+            "en": "A cool winter day begins at Marina Tower.\nAt noon, we drive to Drid Hill for the crystal-clear views.\nIn the afternoon, we visit St. John and the empty beach.\nThe day ends at the promenade while the car heater provides warmth."
+          },
+          "stops": [
+            {
+              "name": "Marina Tower",
+              "tip_5lang": {
+                "de": "Parken Sie windabgewandt, wenn möglich.",
+                "hu": "Parkoljon szélvédett helyen, ha lehetséges.",
+                "ro": "Parcați într-un loc ferit de vânt, dacă este posibil.",
+                "en": "Park in a wind-sheltered spot if possible."
+              }
+            },
+            {
+              "name": "Drid Hill",
+              "tip_5lang": {
+                "de": "Die Straße nach oben ist im Winter gut befahrbar.",
+                "hu": "A felfelé vezető út télen is jól járható.",
+                "ro": "Drumul spre culme este practicabil și iarna.",
+                "en": "The road to the top is passable in winter."
+              }
+            },
+            {
+              "name": "Church of St. John",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für einen Besuch ohne Eile.",
+                "hu": "Használja ki az időt a sietség nélküli látogatásra.",
+                "ro": "Profită de timp pentru o vizită fără grabă.",
+                "en": "Take advantage of the time for a visit without haste."
+              }
+            },
+            {
+              "name": "Prališće Beach",
+              "tip_5lang": {
+                "de": "Der leere Parkplatz bietet viel Platz für Fotos.",
+                "hu": "Az üres parkoló rengeteg helyet kínál a fotózáshoz.",
+                "ro": "Parcarea goală oferă mult spațiu pentru fotografii.",
+                "en": "The empty parking lot offers plenty of space for photos."
+              }
+            },
+            {
+              "name": "Marina Promenade",
+              "tip_5lang": {
+                "de": "Schalten Sie das Licht frühzeitig ein.",
+                "hu": "Kapcsolja be időben a fényszórókat.",
+                "ro": "Aprindeți farurile din timp.",
+                "en": "Turn on the lights early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkplatzsuche ist im Winter unproblematisch.",
+              "Achten Sie auf beschlagene Scheiben durch die Kälte.",
+              "Die Küstenstraße kann bei starkem Wind böig sein.",
+              "Halten Sie eine Decke im Auto für Pausen bereit."
+            ],
+            "hu": [
+              "A parkolóhely-keresés télen problémamentes.",
+              "Ügyeljen a kinti hideg miatt bepárásodó szélvédőre.",
+              "A parti út erős szélben lökésszerű szelet kaphat.",
+              "Tarts egy takarót az autóban a pihenőkhöz."
+            ],
+            "ro": [
+              "Găsirea unui loc de parcare este ușoară iarna.",
+              "Atenție la parbrizele aburite din cauza frigului.",
+              "Drumul de coastă poate fi expus rafalelor de vânt.",
+              "Țineți o pătură în mașină pentru pauze."
+            ],
+            "en": [
+              "Finding a parking spot is effortless in winter.",
+              "Watch out for fogged-up windows due to the cold.",
+              "The coastal road can be gusty in strong winds.",
+              "Keep a blanket in the car for breaks."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1021,6 +2065,333 @@
           "Pay attention to the line numbers.",
           "Air conditioning in the bus is usually very cool."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Marina ist hervorragend an das regionale Busnetz zwischen Trogir und Šibenik angebunden. Beginnen Sie Ihren Tag im Zentrum am Turm. Die kurzen Wege machen den Ort ideal für Transit-Reisende.\n\nMittags entspannen Sie am Strand Prališće, der nur einen kurzen Spaziergang vom Ortskern entfernt liegt. Genießen Sie das kristallklare Wasser und den Blick auf die Marina, bevor Sie sich einen Snack am Hafen holen.\n\nDen Nachmittag verbringen Sie gemütlich in den Gassen des historischen Kerns und besuchen die Kirche der Hl. Marina. Alles ist kompakt und stressfrei erreichbar.\n\nBevor Ihr Bus zurückfährt, besuchen Sie noch die Kirche des Hl. Johannes. Ein friedlicher Abschluss eines entspannten Tages in diesem dalmatinischen Dorf.",
+            "hu": "Marina kiválóan kapcsolódik a Trogir és Šibenik közötti regionális buszhálózathoz. Kezdje a napot a központban, a toronynál. A rövid távolságok ideálissá teszik a települést az átszálló utazók számára.\n\nDélben lazítson a Prališće strandon, amely csak rövid sétára van a központtól. Élvezze a kristálytiszta vizet és a kikötőre nyíló kilátást, mielőtt bekapna egy falatot a parton.\n\nA délutánt töltse kellemesen a történelmi mag utcáin, és látogassa meg a Szent Marina-templomot. Minden kompakt és stresszmentesen elérhető.\n\nMielőtt a busza visszaindulna, látogassa meg a Szent János-templomot. Békés zárása egy pihentető napnak ebben a dalmát faluban.",
+            "ro": "Marina este excelent conectată la rețeaua regională de autobuze între Trogir și Šibenik. Începeți ziua în centru, la turn. Distanțele scurte fac localitatea ideală pentru călătorii cu transportul public.\n\nLa prânz, relaxați-vă pe plaja Prališće, care se află la doar o scurtă plimbare de centrul localității. Bucurați-vă de apa cristalina și de vederea spre marină înainte de a lua o gustare în port.\n\nDupă-amiaza, plimbați-vă prin străduțele nucleului istoric și vizitați biserica Sf. Marina. Totul este compact și accesibil fără stres.\n\nÎnainte ca autobuzul să plece înapoi, vizitați biserica Sf. Ioan. O încheiere liniștită a unei zile relaxante în acest sat dalmațian.",
+            "en": "Marina is excellently connected to the regional bus network between Trogir and Šibenik. Start your day in the center at the tower. The short distances make the village ideal for transit travelers.\n\nAt noon, relax at Prališće Beach, which is only a short walk from the center. Enjoy the crystal-clear water and the view of the marina before grabbing a snack at the harbor.\n\nSpend the afternoon comfortably in the alleys of the historic core and visit the Church of St. Marina. Everything is compact and can be reached stress-free.\n\nBefore your bus goes back, visit the Church of St. John. A peaceful conclusion to a relaxed day in this Dalmatian village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Turm von Marina",
+                "hu": "Marinai torony",
+                "ro": "Turnul din Marina",
+                "en": "Marina Tower"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Kirche der Hl. Marina",
+                "hu": "Szent Marina-templom",
+                "ro": "Biserica Sf. Marina",
+                "en": "Church of St. Marina"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Uferpromenade Marina",
+                "hu": "Marinai sétány",
+                "ro": "Faleza Marina",
+                "en": "Marina Promenade"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Strand Prališće",
+                "hu": "Prališće strand",
+                "ro": "Plaja Prališće",
+                "en": "Prališće Beach"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Kirche des Hl. Johannes",
+                "hu": "Szent János-templom",
+                "ro": "Biserica Sf. Ioan",
+                "en": "Church of St. John"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bistro Marina",
+                "tip": "Günstige Tagesgerichte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bistro Marina",
+                "tip": "Kedvező árú napi ételek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bistro Marina",
+                "tip": "Meniuri ale zilei la prețuri bune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bistro Marina",
+                "tip": "Affordable daily specials."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parkplatz Hafen",
+                "tip": "Bänke mit Blick auf das Meer.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötői parkoló",
+                "tip": "Padok tengeri kilátással.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcarea portului",
+                "tip": "Bănci cu vedere la mare.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Harbor Parking Lot",
+                "tip": "Benches with sea view.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bäckerei Marina",
+                "tip": "Frisches Gebäck für die Busfahrt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Marinai pékség",
+                "tip": "Friss sütemény a buszútra."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brutăria Marina",
+                "tip": "Patiserie proaspătă pentru drumul cu autobuzul."
+              }
+            ],
+            "en": [
+              {
+                "name": "Marina Bakery",
+                "tip": "Fresh pastries for the bus ride."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Bushaltestelle liegt an der Jadranska Magistrala.",
+              "Busse nach Trogir fahren regelmäßig.",
+              "Achten Sie auf die Liniennummern.",
+              "Klimaanlage im Bus ist meist sehr kühl."
+            ],
+            "hu": [
+              "A buszmegálló a Jadranska Magistrala mentén van.",
+              "A buszok Trogir felé rendszeresen járnak.",
+              "Ügyeljen a járatszámokra.",
+              "A buszokon a légkondicionálás általában nagyon hűvös."
+            ],
+            "ro": [
+              "Stația de autobuz este pe Jadranska Magistrala.",
+              "Autobuzele spre Trogir circulă regulat.",
+              "Atenție la numerele liniilor.",
+              "Aerul condiționat din autobuz este de obicei foarte rece."
+            ],
+            "en": [
+              "The bus stop is on the Jadranska Magistrala.",
+              "Buses to Trogir run regularly.",
+              "Pay attention to the line numbers.",
+              "Air conditioning in the bus is usually very cool."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus zum Marina Tower bei Regenwetter.\nMittags besuchen wir St. Marina nahe der Haltestelle.\nNachmittags spazieren wir zur Promenade im Regenschutz.\nDer Tag endet bei St. Johann, bevor wir in den Bus steigen.",
+            "hu": "Busszal a Marina-toronyhoz esős időben.\nDélben a Szent Marina templomot keressük fel a megálló közelében.\nDélután a sétányhoz és a strandra látogatunk esőben.\nA nap a Szent János templomnál zárul a buszindulás előtt.",
+            "ro": "Cu autobuzul la turnul Marina pe vreme ploioasă.\nLa prânz vizităm biserica Sf. Marina lângă stație.\nDupă-amiaza mergem spre faleză protejați de ploaie.\nZiua se încheie la biserica Sf. Ioan înainte de autobuz.",
+            "en": "Taking the bus to Marina Tower in rainy weather.\nAt noon, we visit St. Marina near the bus stop.\nIn the afternoon, we head to the promenade under cover.\nThe day ends at St. John before boarding the bus again."
+          },
+          "stops": [
+            {
+              "name": "Marina Tower",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Dach der Haltestelle.",
+                "hu": "Várjon a buszmegálló fedett teteje alatt.",
+                "ro": "Așteptați sub acoperișul stației.",
+                "en": "Wait under the roof of the bus stop."
+              }
+            },
+            {
+              "name": "Church of St. Marina",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg minimiert die Zeit im Regen.",
+                "hu": "A rövid séta minimalizálja az esőben töltött időt.",
+                "ro": "Drumul scurt pe jos minimizează expunerea la ploaie.",
+                "en": "Short distance minimizes time spent in the rain."
+              }
+            },
+            {
+              "name": "Marina Promenade",
+              "tip_5lang": {
+                "de": "Ideal für einen schnellen Blick aufs Meer.",
+                "hu": "Ideális egy gyors pillantásra a tengerre.",
+                "ro": "Ideal pentru o scurtă privire spre mare.",
+                "en": "Ideal for a quick look at the sea."
+              }
+            },
+            {
+              "name": "Prališće Beach",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in einem Strandcafé.",
+                "hu": "Keressen menedéket egy strand melletti kávézóban.",
+                "ro": "Căutați adăpost într-o cafenea de pe plajă.",
+                "en": "Seek shelter in a beachside cafe."
+              }
+            },
+            {
+              "name": "Church of St. John",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeit des Busses.",
+                "hu": "Ellenőrizze a busz indulási idejét.",
+                "ro": "Verificați ora de plecare a autobuzului.",
+                "en": "Check the departure time of the bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie Kleingeld für das Ticket bereit.",
+              "Die Busse verkehren nach regulärem Fahrplan.",
+              "Nutzen Sie eine App für Echtzeit-Infos.",
+              "Warten Sie an überdachten Haltestellen."
+            ],
+            "hu": [
+              "Legyen nálad aprópénz a jegyvásárláshoz.",
+              "A buszok a rendes menetrend szerint közlekednek.",
+              "Használj alkalmazást a valós idejű követéshez.",
+              "Várj a fedett megállókban."
+            ],
+            "ro": [
+              "Aveți pregătit mărunțiș pentru bilet.",
+              "Autobuzele circulă conform orarului obișnuit.",
+              "Folosiți o aplicație pentru urmărire reală.",
+              "Așteptați în stațiile acoperite."
+            ],
+            "en": [
+              "Have change ready for the ticket purchase.",
+              "Buses operate on their regular schedule.",
+              "Use an app for real-time tracking.",
+              "Wait at covered stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Busreise nach Marina zum Tower.\nMittags wärmen wir uns in der St. Marina Kirche auf.\nDer Nachmittag gehört der Promenade vor dem Abendlicht.\nDie Tour endet bei St. Johann mit der Rückfahrt im Bus.",
+            "hu": "Téli buszos utazás Marinába a toronyhoz.\nDélben a Szent Marina templomban melegszünk fel.\nA délután a sétányé a fogyatkozó fényekben.\nA túra a Szent János templomnál zárul a buszos hazatéréssel.",
+            "ro": "Călătorie de iarnă cu autobuzul spre turnul Marina.\nLa prânz ne încălzim în biserica Sf. Marina.\nDupă-amiaza este dedicată falezei în lumina slabă a zilei.\nTurul se încheie la biserica Sf. Ioan cu întoarcerea.",
+            "en": "Winter bus trip to Marina Tower.\nAt noon, we warm up in St. Marina Church.\nThe afternoon is spent at the promenade in fading light.\nThe tour ends at St. John with the bus ride back."
+          },
+          "stops": [
+            {
+              "name": "Marina Tower",
+              "tip_5lang": {
+                "de": "Der Bus hält wenige Minuten entfernt vom Turm.",
+                "hu": "A busz pár percre áll meg a toronytól.",
+                "ro": "Autobuzul oprește la câteva minute de turn.",
+                "en": "The bus stops a few minutes from the tower."
+              }
+            },
+            {
+              "name": "Church of St. Marina",
+              "tip_5lang": {
+                "de": "Ein angenehmer Stopp zum Aufwärmen.",
+                "hu": "Kellemes megálló a felmelegedéshez.",
+                "ro": "O oprire plăcută pentru a vă încălzi.",
+                "en": "A pleasant stop to warm up."
+              }
+            },
+            {
+              "name": "Marina Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie den Spaziergang in klarer Luft.",
+                "hu": "Élvezze a sétát a friss levegőn.",
+                "ro": "Bucurați-vă de plimbare în aerul curat.",
+                "en": "Enjoy the walk in the fresh air."
+              }
+            },
+            {
+              "name": "Prališće Beach",
+              "tip_5lang": {
+                "de": "Kürzen Sie den Aufenthalt bei Wind ab.",
+                "hu": "Rövidítse le a tartózkodást szélben.",
+                "ro": "Scurtați vizita dacă este vânt.",
+                "en": "Shorten the visit if it is windy."
+              }
+            },
+            {
+              "name": "Church of St. John",
+              "tip_5lang": {
+                "de": "Idealer Ort, um auf den Bus zu warten.",
+                "hu": "Ideális hely a busz megvárására.",
+                "ro": "Locul ideal pentru a aștepta autobuzul.",
+                "en": "Ideal spot to wait for the bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie Fahrplanänderungen im Winter.",
+              "Die Busse sind im Winter meist gut beheizt.",
+              "Planen Sie die Rückfahrt vor der Dunkelheit.",
+              "Tragen Sie warme Kleidung an den Haltestellen."
+            ],
+            "hu": [
+              "Ügyeljen a téli menetrend változásaira.",
+              "A buszok télen általában jól fűtöttek.",
+              "Tervezze meg a visszautat sötétedés előtt.",
+              "Viseljen meleg ruhát a megállókban."
+            ],
+            "ro": [
+              "Atenție la modificările orarului de iarnă.",
+              "Autobuzele sunt de obicei bine încălzite.",
+              "Planificați întoarcerea înainte de întuneric.",
+              "Purtați haine groase în stații."
+            ],
+            "en": [
+              "Be aware of winter schedule changes.",
+              "Buses are usually well-heated in winter.",
+              "Plan your return trip before darkness.",
+              "Wear warm clothing at the stops."
+            ]
+          }
+        }
       }
     }
   },

@@ -238,6 +238,360 @@
           "Water shoes are recommended here as well.",
           "Enjoy a morning coffee at the harbor."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Biograd na Moru zu Fuß, beginnend am Tomislav-Denkmal. Tauchen Sie im Heimatmuseum in die maritime Geschichte ein und besuchen Sie die barocke St.-Anastasia-Kirche. Nach einem Spaziergang durch die moderne Marina Kornati führt der Weg entlang der Küste zum beliebten Strand Dražica. Den Nachmittag genießen Sie in der flachen Bucht Soline, bevor Sie den Tag in einem der zahlreichen Restaurants an der Riva ausklingen lassen.",
+            "hu": "Fedezze fel Biograd na Morut gyalogosan, a Tomislav-emlékműtől indulva. Merüljön el a tengeri történelemben a Helytörténeti Múzeumban, majd látogasson el a barokk Szent Anasztázia-templomhoz. A modern Marina Kornati kikötői sétája után az út a népszerű Dražica strandhoz vezet. A délutánt töltse a sekély Soline-öbölben, majd zárja a napot a Riva számos éttermének egyikében.",
+            "ro": "Descoperiți Biograd na Moru la pas, începând de la monumentul lui Tomislav. Explorați istoria maritimă la Muzeul Local și vizitați biserica barocă Sf. Anastasia. După o plimbare prin moderna Marina Kornati, drumul vă poartă spre populara plajă Dražica. Bucurați-vă de după-amiază în golful liniștit Soline, înainte de a încheia ziua la unul dintre restaurantele de pe faleză.",
+            "en": "Discover Biograd na Moru on foot, starting at the Tomislav monument. Dive into maritime history at the Local Museum and visit the baroque St. Anastasia Church. After a stroll through the modern Marina Kornati, the path leads along the coast to the popular Dražica beach. Enjoy the afternoon in the shallow Soline Bay before ending the day at one of the many restaurants on the Riva."
+          },
+          "stops": [
+            {
+              "name": "Denkmal für König Tomislav",
+              "tip_5lang": {
+                "de": "Zentraler Treffpunkt an der Uferpromenade.",
+                "hu": "Központi találkozóhely a vízparti sétányon.",
+                "ro": "Loc de întâlnire central pe faleză.",
+                "en": "Central meeting point on the waterfront."
+              }
+            },
+            {
+              "name": "Heimatmuseum Biograd",
+              "tip_5lang": {
+                "de": "Sehenswerte Sammlung antiker Schiffswracks.",
+                "hu": "Érdemes megnézni az ókori hajóroncs gyűjteményt.",
+                "ro": "Colecție remarcabilă de epave antice.",
+                "en": "Must-see collection of ancient shipwrecks."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Anastasia",
+              "tip_5lang": {
+                "de": "Barockkirche im Herzen der Stadt.",
+                "hu": "Barokk templom a város szívében.",
+                "ro": "Biserică barocă în inima orașului.",
+                "en": "Baroque church in the heart of the city."
+              }
+            },
+            {
+              "name": "Marina Kornati",
+              "tip_5lang": {
+                "de": "Bestaunen Sie die Yachten im Hafen.",
+                "hu": "Csodálja meg a jachtokat a kikötőben.",
+                "ro": "Admirați iahturile din port.",
+                "en": "Admire the yachts in the harbor."
+              }
+            },
+            {
+              "name": "Strand Dražica",
+              "tip_5lang": {
+                "de": "Beschatteter Strand durch Pinienwälder.",
+                "hu": "Fenyőerdő által árnyékolt strand.",
+                "ro": "Plajă umbrită de păduri de pini.",
+                "en": "Shaded beach thanks to pine forests."
+              }
+            },
+            {
+              "name": "Bucht Soline",
+              "tip_5lang": {
+                "de": "Sandiger Meeresboden, ideal für Familien.",
+                "hu": "Homokos meder, ideális családoknak.",
+                "ro": "Fund nisipos, ideal pentru familii.",
+                "en": "Sandy sea floor, ideal for families."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Buzara-Muscheln",
+                "tip": "In Knoblauch und Weißwein gegart, ein Küstenklassiker."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Buzara kagyló",
+                "tip": "Fokhagymás-fehérboros mártásban, tengerparti klasszikus."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Scoici Buzara",
+                "tip": "Gătite în usturoi și vin alb, un clasic al coastei."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mussels Buzara",
+                "tip": "Cooked in garlic and white wine, a coastal classic."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Soline Pinienwald",
+                "tip": "Kühler Rückzugsort am Nachmittag.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Soline fenyves",
+                "tip": "Hűvös menedék a délutáni órákban.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pădurea de pini Soline",
+                "tip": "Refugiu răcoros în timpul după-amiezii.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Soline Pine Forest",
+                "tip": "Cool retreat during the afternoon heat.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lavendelsäckchen",
+                "tip": "An den Ständen am Hafen zu finden."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Levendulazsákok",
+                "tip": "A kikötő melletti árusoknál kapható."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Săculeți cu lavandă",
+                "tip": "Se găsesc la tarabele din port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Lavender Sachets",
+                "tip": "Found at the stalls near the harbor."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Riva ist abends belebt, perfekt zum Flanieren.",
+              "Das Museum hat mittags oft eine Pause.",
+              "Badeschuhe sind auch hier empfehlenswert.",
+              "Trinken Sie morgens einen Kaffee am Hafen."
+            ],
+            "hu": [
+              "A Riva este életre kel, tökéletes a korzózáshoz.",
+              "A múzeum délben gyakran zárva tart.",
+              "Úszócipő itt is ajánlott.",
+              "Igyon meg egy reggeli kávét a kikötőben."
+            ],
+            "ro": [
+              "Faleza este animată seara, perfectă pentru promenadă.",
+              "Muzeul are adesea pauză la prânz.",
+              "Încălțămintea de apă este recomandată și aici.",
+              "Savurați o cafea dimineața în port."
+            ],
+            "en": [
+              "The Riva is lively in the evening, perfect for a stroll.",
+              "The museum often has a midday break.",
+              "Water shoes are recommended here as well.",
+              "Enjoy a morning coffee at the harbor."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Tomislav-Denkmal unter dem Regenschirm. Das Heimatmuseum bietet danach trockene Zuflucht und faszinierende maritime Geschichte. Mittags bewundern wir die barocke Architektur der Anastasia-Kirche. Der Nachmittag führt trotz Nieselregen zur Marina und zum Strand Dražica, wo die graue Adria eine mystische Ruhe ausstrahlt, bevor wir uns in der Bucht Soline aufwärmen.",
+            "hu": "A séta a Tomiszláv emlékműnél indul, esőben is méltóságteljes. A Helytörténeti Múzeum kincsei között szárazon telik a délelőtt. Délben a Szent Anasztázia-templom csendje fogad. Délután a Marina és a Dražica strand mentén az eső kopogása festi alá a tenger látványát, a napot pedig a Soline-öböl egyik barátságos, fedett kávézójában zárjuk a fenyvesek közelében.",
+            "ro": "Ziua începe la monumentul lui Tomislav, protejați de umbrelă. Muzeul de Istorie oferă apoi un adăpost uscat și povești maritime fascinante. La prânz vizităm biserica Sf. Anastasia. După-amiaza continuă spre marină și plaja Dražica, unde marea cenușie emană o liniște mistică, înainte de a ne încălzi cu o băutură caldă în golful Soline.",
+            "en": "The day starts at the Tomislav monument, umbrella in hand. The Heritage Museum provides a dry refuge and fascinating maritime history. At noon, we admire the baroque interior of St. Anastasia Church. The afternoon leads to the marina and Dražica beach despite the drizzle, where the gray Adriatic radiates a mystic calm, ending with a warm drink at Soline Bay."
+          },
+          "stops": [
+            {
+              "name": "Denkmal für König Tomislav",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für ein Foto; der Platz kann bei Nässe etwas rutschig sein.",
+                "hu": "Gyors fotómegálló; a tér kövezete esőben csúszós lehet.",
+                "ro": "Oprire scurtă; pavajul pieței poate fi alunecos când este ud.",
+                "en": "Quick photo stop; the square's pavement can be slippery when wet."
+              }
+            },
+            {
+              "name": "Heimatmuseum Biograd",
+              "tip_5lang": {
+                "de": "Ideal bei Regen: Besichtigen Sie die Fracht eines versunkenen Schiffes aus dem 16. Jh.",
+                "hu": "Tökéletes esőhelyszín: nézze meg egy 16. századi elsüllyedt hajó rakományát.",
+                "ro": "Ideal pe ploaie: vizitați încărcătura unei nave scufundate din secolul al XVI-lea.",
+                "en": "Perfect rainy day spot: view the cargo of a sunken 16th-century ship."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Anastasia",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille im Inneren, um den Schauer abzuwarten.",
+                "hu": "Használja ki a belső tér csendjét a zápor átvészelésére.",
+                "ro": "Folosiți liniștea interiorului pentru a aștepta trecerea ploii.",
+                "en": "Use the quiet interior to wait out a heavy shower."
+              }
+            },
+            {
+              "name": "Marina Kornati",
+              "tip_5lang": {
+                "de": "Spaziergang unter den Arkaden der umliegenden Gebäude möglich.",
+                "hu": "A környékbeli épületek árkádjai alatt védve sétálhatunk.",
+                "ro": "Plimbare posibilă sub arcadele clădirilor din jur.",
+                "en": "Walking under the arcades of surrounding buildings is possible."
+              }
+            },
+            {
+              "name": "Strand Dražica",
+              "tip_5lang": {
+                "de": "Der Pinienwald bietet einen natürlichen Schutz vor leichtem Regen.",
+                "hu": "A fenyőerdő természetes védelmet nyújt az enyhe eső ellen.",
+                "ro": "Pădurea de pini oferă o protecție naturală împotriva ploii ușoare.",
+                "en": "The pine forest provides natural shelter from light rain."
+              }
+            },
+            {
+              "name": "Bucht Soline",
+              "tip_5lang": {
+                "de": "Suchen Sie eine der Bars mit festem Dach für den Abschluss auf.",
+                "hu": "Keressen egy fix tetővel rendelkező bárt a nap végére.",
+                "ro": "Căutați unul dintre barurile cu acoperiș fix pentru finalul zilei.",
+                "en": "Find one of the bars with a solid roof for the end of the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Windschirm ist an der Küste besser als ein Knirps.",
+              "Die Steinplatten in der Altstadt werden bei Regen spiegelglatt.",
+              "Das Museum bietet das längste Indoor-Programm der Stadt.",
+              "Cafés am Hafen haben oft beheizte Außenbereiche mit Planen."
+            ],
+            "hu": [
+              "A parton egy stabil viharesernyő többet ér a kisméretűnél.",
+              "Az óváros kőlapjai esőben rendkívül csúszóssá válnak.",
+              "A múzeum kínálja a város leghosszabb beltéri programját.",
+              "A kikötői kávézók gyakran rendelkeznek fűtött, fedett terasszal."
+            ],
+            "ro": [
+              "O umbrelă stabilă de furtună este mai utilă pe coastă decât una mică.",
+              "Dalele de piatră din orașul vechi devin foarte alunecoase pe ploaie.",
+              "Muzeul oferă cel mai lung program de interior din oraș.",
+              "Cafenelele din port au adesea zone exterioare încălzite și acoperite."
+            ],
+            "en": [
+              "A sturdy storm umbrella is better on the coast than a small one.",
+              "Stone tiles in the old town become very slippery when wet.",
+              "The museum offers the longest indoor activity in town.",
+              "Harbor cafes often have heated, covered outdoor seating."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Biograd zeigt im Winter sein wahres, ruhiges Gesicht. Wir starten am Denkmal in der klaren Morgenluft. Das Heimatmuseum wärmt uns mit Kultur auf, bevor wir die festliche Stille der Anastasia-Kirche erleben. Der Nachmittag an der Marina ist friedlich, fast ohne Touristen. Der Spaziergang am Strand Dražica zur Bucht Soline bietet frische Meeresbrisen und einen spektakulären frühen Sonnenuntergang über den Inseln.",
+            "hu": "Télen Biograd megmutatja nyugodt arcát. A reggelt a Tomiszláv emlékműnél indítjuk a tiszta levegőn. A múzeumban melegedünk fel, majd a Szent Anasztázia-templom ünnepi csendjét élvezzük. Délután a Marina turisták nélkül is lenyűgöző. A Dražica strandtól a Soline-öbölig tartó séta friss tengeri széllel és korai, de látványos naplementével ajándékoz meg.",
+            "ro": "Iarna, Biograd își arată fața adevărată și liniștită. Începem la monument în aerul curat al dimineții. Muzeul ne încălzește cu cultură, înainte de a experimenta liniștea bisericii Sf. Anastasia. După-amiaza la marină este pașnică, aproape fără turiști. Plimbarea de pe plaja Dražica spre golful Soline oferă brize proaspete și un apus spectaculos peste insule.",
+            "en": "Biograd shows its true, quiet face in winter. We start at the monument in the crisp morning air. The Heritage Museum warms us up with culture before experiencing the peaceful silence of St. Anastasia Church. The afternoon at the marina is serene, almost tourist-free. The walk from Dražica beach to Soline Bay offers fresh sea breezes and a spectacular early sunset over the islands."
+          },
+          "stops": [
+            {
+              "name": "Denkmal für König Tomislav",
+              "tip_5lang": {
+                "de": "Die Morgensonne steht tief und bietet tolles Licht für Fotos.",
+                "hu": "A reggeli nap alacsonyan jár, kiváló fényeket adva a fotókhoz.",
+                "ro": "Soarele de dimineață este jos și oferă o lumină excelentă pentru poze.",
+                "en": "The morning sun is low, providing great light for photos."
+              }
+            },
+            {
+              "name": "Heimatmuseum Biograd",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten; oft nur vormittags geöffnet.",
+                "hu": "Ellenőrizze a téli nyitvatartást; gyakran csak délelőtt van nyitva.",
+                "ro": "Verificați programul de iarnă; adesea deschis doar dimineața.",
+                "en": "Check winter opening hours; often only open in the morning."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Anastasia",
+              "tip_5lang": {
+                "de": "Im Inneren ist es oft wärmer als draußen; ideal für eine Pause.",
+                "hu": "Bévül gyakran melegebb van, mint kint; ideális egy rövid pihenőre.",
+                "ro": "În interior este adesea mai cald decât afară; ideal pentru o pauză.",
+                "en": "It is often warmer inside than outside; ideal for a break."
+              }
+            },
+            {
+              "name": "Marina Kornati",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die eingewinterten Yachten.",
+                "hu": "Élvezze a téliesített jachtok látványát a csendes kikötőben.",
+                "ro": "Bucurați-vă de vederea iahturilor pregătite pentru iarnă.",
+                "en": "Enjoy the view of the yachts wintered in the quiet harbor."
+              }
+            },
+            {
+              "name": "Strand Dražica",
+              "tip_5lang": {
+                "de": "Perfekt für einen zügigen Spaziergang ohne sommerliche Hitze.",
+                "hu": "Tökéletes egy tempós sétához a nyári hőség nélkül.",
+                "ro": "Perfect pentru o plimbare rapidă fără căldura verii.",
+                "en": "Perfect for a brisk walk without the summer heat."
+              }
+            },
+            {
+              "name": "Bucht Soline",
+              "tip_5lang": {
+                "de": "Seien Sie gegen 16:30 Uhr hier, um den Sonnenuntergang zu sehen.",
+                "hu": "Érkezzen 16:30 körül, hogy láthassa a naplementét.",
+                "ro": "Fiți aici în jurul orei 16:30 pentru a vedea apusul.",
+                "en": "Be here around 4:30 PM to catch the sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders für die Marina.",
+              "Der Sonnenuntergang findet im Dezember bereits vor 17:00 Uhr statt.",
+              "Viele Strandbars haben im Winter geschlossen; nutzen Sie Cafés im Ort.",
+              "Die Bora (Nordwind) kann die gefühlte Temperatur stark senken."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, különösen a kikötő környékén.",
+              "A naplemente decemberben már délután 5 előtt bekövetkezik.",
+              "Sok strandbár zárva van; válassza a központi kávézókat.",
+              "A bóra (északi szél) jelentősen csökkentheti a hőérzetet."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, în special pentru zona marinei.",
+              "Apusul are loc în decembrie deja înainte de ora 17:00.",
+              "Multe baruri de pe plajă sunt închise; folosiți cafenelele din oraș.",
+              "Bura (vântul de nord) poate scădea semnificativ temperatura resimțită."
+            ],
+            "en": [
+              "Wear windproof clothing, especially for the marina area.",
+              "Sunset in December occurs before 5:00 PM.",
+              "Many beach bars are closed; use the cafes in the town center.",
+              "The Bora (north wind) can significantly lower the perceived temperature."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -470,6 +824,360 @@
           "Avoid the main road; stick to the coastal paths.",
           "Watch out for pedestrians on the promenade."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erfahren Sie Biograd und seine Küste mit dem Fahrrad. Von der Marina geht es zur ruhigen St.-Antonius-Kirche und weiter auf den schattigen Wegen entlang der Strände Dražica und Soline. Das Highlight für Action-Fans ist der Fun Park Biograd im Süden der Stadt. Auf dem Rückweg tauchen Sie im Heimatmuseum noch einmal in die Geschichte ein. Eine abwechslungsreiche Tour zwischen Natur, Adrenalin und Kultur.",
+            "hu": "Kerékpározzon Biogradban és a tengerpart mentén. A kikötőtől indulva érintse a csendes Szent Antal-templomot, majd folytassa útját az árnyas utakon a Dražica és Soline strandok mentén. Az akciókedvelőknek a várostól délre fekvő Fun Park Biograd a fő attrakció. Visszafelé a Helytörténeti Múzeumban még egyszer elmélyedhet a történelemben. Változatos túra természet, adrenalin és kultúra között.",
+            "ro": "Explorați Biogradul și coasta sa cu bicicleta. De la marină porniți spre liniștita biserică Sf. Anton și continuați pe potecile umbrite de-a lungul plajelor Dražica și Soline. Punctul culminant pentru fanii adrenalinei este Fun Park Biograd, în sudul orașului. La întoarcere, vizitați Muzeul Local pentru o doză finală de istorie. Un tur variat între natură, adrenalină și cultură.",
+            "en": "Cycle through Biograd and its coastline. From the marina, head to the peaceful St. Anthony's Church and continue along the shaded paths by Dražica and Soline beaches. The highlight for thrill-seekers is Fun Park Biograd south of town. On the way back, immerse yourself in history at the Local Museum. A diverse tour blending nature, adrenaline, and culture."
+          },
+          "stops": [
+            {
+              "name": "Marina Kornati",
+              "tip_5lang": {
+                "de": "Startpunkt mit viel Platz zum Radfahren.",
+                "hu": "Tágas kiindulópont a kerékpározáshoz.",
+                "ro": "Punct de plecare cu mult spațiu pentru biciclete.",
+                "en": "Spacious starting point for cycling."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Antonius",
+              "tip_5lang": {
+                "de": "Kleine, friedliche Kapelle am Stadtrand.",
+                "hu": "Kicsi, békés kápolna a város szélén.",
+                "ro": "Capelă mică și liniștită la marginea orașului.",
+                "en": "Small, peaceful chapel on the outskirts."
+              }
+            },
+            {
+              "name": "Strand Dražica",
+              "tip_5lang": {
+                "de": "Radweg führt durch den Schatten der Bäume.",
+                "hu": "A kerékpárút a fák árnyékában vezet.",
+                "ro": "Pista de biciclete trece prin umbra copacilor.",
+                "en": "The bike path runs through the shade of trees."
+              }
+            },
+            {
+              "name": "Bucht Soline",
+              "tip_5lang": {
+                "de": "Guter Stopp für eine Erfrischung.",
+                "hu": "Jó hely egy kis frissítőhöz.",
+                "ro": "Un loc bun pentru o răcorire.",
+                "en": "Good stop for a quick refreshment."
+              }
+            },
+            {
+              "name": "Fun Park Biograd",
+              "tip_5lang": {
+                "de": "Der 'kroatische Gardaland' für Abenteuerlustige.",
+                "hu": "A 'horvát Gardaland' a kalandvágyóknak.",
+                "ro": "Supranumit 'Gardaland-ul croat'.",
+                "en": "The 'Croatian Gardaland' for thrill-seekers."
+              }
+            },
+            {
+              "name": "Heimatmuseum Biograd",
+              "tip_5lang": {
+                "de": "Abschluss mit Kultur im Stadtzentrum.",
+                "hu": "Kulturális zárás a városközpontban.",
+                "ro": "Final cultural în centrul orașului.",
+                "en": "A cultural finish in the town center."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Eiskaffee",
+                "tip": "Perfekte Erfrischung nach der Fahrt im Cafe Arkada."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Jegeskávé",
+                "tip": "Tökéletes frissítő a túra után a Cafe Arkadában."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Iced Coffee",
+                "tip": "Răcorirea perfectă după drum la Cafe Arkada."
+              }
+            ],
+            "en": [
+              {
+                "name": "Iced Coffee",
+                "tip": "Perfect refreshment after the ride at Cafe Arkada."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "St.-Antonius-Kirche",
+                "tip": "Sehr ruhiger Ort am Rande der Pinien.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szent Antal templom",
+                "tip": "Nagyon csendes hely a fenyvesek szélén.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Biserica Sf. Anton",
+                "tip": "Loc foarte liniștit la marginea pinilor.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "St. Anthony Church",
+                "tip": "Very peaceful spot at the edge of the pines.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Sportartikel",
+                "tip": "Lokale Geschäfte nahe der Marina."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sportcikkek",
+                "tip": "Helyi üzletek a kikötő közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Articole sportive",
+                "tip": "Magazine locale lângă marină."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sporting Goods",
+                "tip": "Local shops near the marina area."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Strecke nach Soline ist fast komplett eben.",
+              "Schließen Sie Ihr Rad am Fun Park sicher an.",
+              "Meiden Sie die Hauptstraße, nutzen Sie Küstenwege.",
+              "Vorsicht vor Fußgängern auf der Promenade."
+            ],
+            "hu": [
+              "A Soline-ba vezető út szinte teljesen sík.",
+              "Zárja le biztonságosan a bringát a Fun Parknál.",
+              "Kerülje a főutat, használja a tengerparti utakat.",
+              "Vigyázzon a gyalogosokra a sétányon."
+            ],
+            "ro": [
+              "Traseul spre Soline este aproape complet plat.",
+              "Asigurați-vă bine bicicleta la Fun Park.",
+              "Evitați drumul principal, folosiți potecile de coastă.",
+              "Atenție la pietoni pe faleză."
+            ],
+            "en": [
+              "The route to Soline is almost entirely flat.",
+              "Secure your bike properly at Fun Park.",
+              "Avoid the main road; stick to the coastal paths.",
+              "Watch out for pedestrians on the promenade."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Radtour an der Marina Kornati. Mit wetterfester Kleidung geht es zur Kirche des Heiligen Antonius und weiter entlang der Küste zum Strand Dražica. Die Fahrt zur Bucht Soline fordert unsere Konzentration, belohnt aber mit einsamen Ausblicken. Ein Besuch im Fun Park entfällt zugunsten eines längeren Aufenthalts im trockenen Heimatmuseum am Nachmittag.",
+            "hu": "Az eső ellenére a Marina Kornatinál kezdjük a biciklis túrát. Vízálló ruhában tekerünk a Szent Antal-templomig, majd tovább a part mentén a Dražica strandig. A Soline-öböl felé vezető út figyelmet igényel, de magányos kilátással hálálja meg. A Fun Park helyett délután a száraz Helytörténeti Múzeumban töltünk több időt.",
+            "ro": "În ciuda ploii, începem turul cu bicicleta la Marina Kornati. Cu haine impermeabile mergem la biserica Sf. Anton și mai departe pe coastă spre plaja Dražica. Drumul spre golful Soline necesită concentrare, dar răsplătește cu vederi solitare. Vizita la Fun Park este scurtată în favoarea unei șederi mai lungi la Muzeul de Istorie.",
+            "en": "Despite the rain, we start the bike tour at Marina Kornati. In waterproof gear, we pedal to St. Anthony's Church and further along the coast to Dražica Beach. The ride to Soline Bay requires concentration but rewards us with solitary views. We swap the Fun Park for a longer stay at the dry Heritage Museum in the afternoon."
+          },
+          "stops": [
+            {
+              "name": "Marina Kornati",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; auf nassem Asphalt ist Grip wichtig.",
+                "hu": "Ellenőrizze a guminyomást; vizes aszfalton fontos a tapadás.",
+                "ro": "Verificați presiunea anvelopelor; aderența este importantă pe asfalt ud.",
+                "en": "Check tire pressure; grip is crucial on wet asphalt."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Antonius",
+              "tip_5lang": {
+                "de": "Vorsicht beim Abstellen der Räder auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a kerékpárok leállításakor a macskaköves részeken.",
+                "ro": "Atenție la parcarea bicicletelor pe pavajul de piatră.",
+                "en": "Be careful when parking bikes on the cobblestones."
+              }
+            },
+            {
+              "name": "Strand Dražica",
+              "tip_5lang": {
+                "de": "Die Uferpromenade kann bei Pfützenbildung rutschig sein.",
+                "hu": "A partmenti sétány a tócsák környékén csúszós lehet.",
+                "ro": "Promenada de pe mal poate fi alunecoasă în zonele cu bălți.",
+                "en": "The waterfront promenade can be slippery where puddles form."
+              }
+            },
+            {
+              "name": "Bucht Soline",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Waldweg, der etwas Schutz vor Wind bietet.",
+                "hu": "Használja az erdei utat, amely némi védelmet nyújt a szél ellen.",
+                "ro": "Folosiți drumul prin pădure, care oferă puțină protecție contra vântului.",
+                "en": "Use the forest path, which offers some protection from the wind."
+              }
+            },
+            {
+              "name": "Fun Park Biograd",
+              "tip_5lang": {
+                "de": "Bei starkem Regen sind viele Fahrgeschäfte geschlossen.",
+                "hu": "Heves esőzés esetén sok játék nem üzemel.",
+                "ro": "În caz de ploaie torențială, multe atracții sunt închise.",
+                "en": "Many rides are closed during heavy rain."
+              }
+            },
+            {
+              "name": "Heimatmuseum Biograd",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich direkt vor dem Eingang.",
+                "hu": "Biztonságos kerékpártárolók találhatók közvetlenül a bejáratnál.",
+                "ro": "Suporturi sigure pentru biciclete se află chiar în fața intrării.",
+                "en": "Secure bike racks are located right in front of the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Vermeiden Sie abrupte Bremsmanöver auf den weißen Steinplatten.",
+              "Schützen Sie den Sattel mit einer Plastiktüte bei Pausen.",
+              "Die Wege am Meer sind oft dem Wind stark ausgesetzt."
+            ],
+            "hu": [
+              "Viseljen feltűnő esőkabátot a jobb láthatóság érdekében.",
+              "Kerülje a hirtelen fékezést a fehér kőlapokon.",
+              "Pihenők alatt védje a nyerget egy műanyag zacskóval.",
+              "A tengerparti utak gyakran erősen ki vannak téve a szélnek."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie stridentă pentru o vizibilitate mai bună.",
+              "Evitați frânările bruște pe dalele albe de piatră.",
+              "Protejați șaua cu o pungă de plastic în timpul pauzelor.",
+              "Drumurile de lângă mare sunt adesea expuse vântului puternic."
+            ],
+            "en": [
+              "Wear a bright raincoat for better visibility.",
+              "Avoid sudden braking on the white stone tiles.",
+              "Protect your saddle with a plastic bag during breaks.",
+              "Paths by the sea are often heavily exposed to the wind."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour beginnt frisch an der Marina Kornati. Wir radeln zur St. Antonius Kirche und genießen die klare Sicht auf die Inseln vom Strand Dražica aus. In der Bucht Soline ist es wunderbar ruhig. Da der Fun Park im Winter meist geschlossen ist, nutzen wir die Zeit für eine ausgiebige Fahrt durch die Olivenhaine im Hinterland, bevor wir uns im Heimatmuseum aufwärmen.",
+            "hu": "A téli biciklitúra frissítően indul a Marina Kornatinál. A Szent Antal-templom felé tekerünk, majd a Dražica strandról csodáljuk a tiszta kilátást. A Soline-öbölben ilyenkor teljes a nyugalom. Mivel a Fun Park télen zárva tart, több időnk marad a hátország olajfaligetei közötti tekerésre, mielőtt a múzeumban felmelegednénk.",
+            "ro": "Turul de iarnă începe cu prospețime la Marina Kornati. Pedalăm spre biserica Sf. Anton și ne bucurăm de vederea clară spre insule de pe plaja Dražica. În golful Soline este minunat de liniște. Deoarece Fun Park este de obicei închis iarna, folosim timpul pentru o plimbare prin livezile de măslini din hinterland.",
+            "en": "The winter tour starts fresh at Marina Kornati. We cycle to St. Anthony's Church and enjoy the clear island views from Dražica Beach. Soline Bay is wonderfully quiet now. As the Fun Park is mostly closed in winter, we use the time for an extensive ride through the inland olive groves before warming up at the Heritage Museum."
+          },
+          "stops": [
+            {
+              "name": "Marina Kornati",
+              "tip_5lang": {
+                "de": "Handschuhe sind bei der Fahrt am windigen Hafen essenziell.",
+                "hu": "A kesztyű elengedhetetlen a szeles kikötői tekerésnél.",
+                "ro": "Mănușile sunt esențiale pentru plimbarea în portul vântos.",
+                "en": "Gloves are essential when cycling by the windy harbor."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Antonius",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine kurze Rast im Windschatten.",
+                "hu": "Nyugodt hely egy rövid pihenőre a szélvédett oldalon.",
+                "ro": "Un loc liniștit pentru o scurtă odihnă la adăpost de vânt.",
+                "en": "A quiet place for a short rest in the lee of the wind."
+              }
+            },
+            {
+              "name": "Strand Dražica",
+              "tip_5lang": {
+                "de": "Die Wintersonne kann auf dem Wasser stark reflektieren.",
+                "hu": "A téli nap erősen tükröződhet a vízfelszínen.",
+                "ro": "Soarele de iarnă se poate reflecta puternic pe apă.",
+                "en": "The winter sun can reflect strongly on the water."
+              }
+            },
+            {
+              "name": "Bucht Soline",
+              "tip_5lang": {
+                "de": "Ideal für ein Picknick mit heißem Tee aus der Thermoskanne.",
+                "hu": "Ideális egy piknikhez forró teával a termoszból.",
+                "ro": "Ideal pentru un picnic cu ceai fierbinte din termos.",
+                "en": "Ideal for a picnic with hot tea from a thermos."
+              }
+            },
+            {
+              "name": "Fun Park Biograd",
+              "tip_5lang": {
+                "de": "Im Winter geschlossen; besichtigen Sie das Gelände von außen.",
+                "hu": "Télen zárva; tekintse meg a területet kívülről.",
+                "ro": "Închis iarna; vizitați împrejurimile din exterior.",
+                "en": "Closed in winter; view the grounds from the outside."
+              }
+            },
+            {
+              "name": "Heimatmuseum Biograd",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Tour bei Zimmertemperatur zu beenden.",
+                "hu": "Tökéletes hely a túra befejezésére szobahőmérsékleten.",
+                "ro": "Locul perfect pentru a încheia turul la temperatura camerei.",
+                "en": "Perfect place to end the tour at room temperature."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten (Zwiebelprinzip) gegen den Fahrtwind.",
+              "Die Luft ist im Winter sehr trocken; Lippenbalsam einpacken.",
+              "Beleuchtung am Rad ist wichtig, da es früh dunkel wird.",
+              "Vermeiden Sie Fahrten direkt nach Sonnenuntergang (Temperatursturz)."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a menetszél ellen.",
+              "A levegő télen nagyon száraz; vigyen magával ajakírt.",
+              "A világítás fontos, mert korán sötétedik.",
+              "Kerülje a közvetlen naplemente utáni tekerést a hirtelen lehűlés miatt."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine împotriva vântului.",
+              "Aerul este foarte uscat iarna; luați un balsam de buze.",
+              "Luminile la bicicletă sunt importante, se întunecă devreme.",
+              "Evitați plimbările imediat după apus (scădere bruscă de temperatură)."
+            ],
+            "en": [
+              "Wear multiple layers (onion principle) against the wind chill.",
+              "The air is very dry in winter; pack some lip balm.",
+              "Bike lighting is important as it gets dark early.",
+              "Avoid cycling immediately after sunset (sudden temperature drop)."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -684,6 +1392,333 @@
           "Visit Fun Park on weekdays for shorter queues.",
           "Drive to nearby Kamenjak viewpoint for great vistas."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Biograd und seine Attraktionen ganz entspannt. Starten Sie mit Kultur im Heimatmuseum und der Anastasia-Kirche. Danach bietet die Bucht Soline perfekte Bademöglichkeiten mit einfachem Parken. Den Nachmittag verbringen Sie im Fun Park Biograd, bevor Sie zur Marina Kornati zurückkehren, um die beeindruckenden Schiffe bei Sonnenuntergang zu sehen. Ein Tag voller Abwechslung für die ganze Familie.",
+            "hu": "Autóval kényelmesen felfedezheti Biogradot és látnivalóit. Kezdjen kultúrával a Helytörténeti Múzeumban és az Anasztázia-templomnál. Ezután a Soline-öböl kínál tökéletes fürdőzési lehetőséget könnyű parkolással. A délutánt töltse a Fun Park Biogradban, majd térjen vissza a Marina Kornatihoz, hogy naplementekor megcsodálja a lenyűgöző hajókat. Változatos nap az egész családnak.",
+            "ro": "Cu mașina, explorați Biogradul și atracțiile sale în mod relaxat. Începeți cu cultura la Muzeul Local și biserica Anastasia. Apoi, golful Soline oferă condiții perfecte de baie și parcare facilă. Petreceți după-amiaza la Fun Park Biograd, înainte de a reveni la Marina Kornati pentru a vedea navele impresionante la apus. O zi plină de diversitate pentru întreaga familie.",
+            "en": "By car, you can explore Biograd and its attractions at your own pace. Start with culture at the Local Museum and Anastasia Church. Afterward, Soline Bay offers perfect swimming with easy parking. Spend the afternoon at Fun Park Biograd before returning to Marina Kornati to see the impressive ships at sunset. A day full of variety for the whole family."
+          },
+          "stops": [
+            {
+              "name": "Heimatmuseum Biograd",
+              "tip_5lang": {
+                "de": "Parken Sie am Hafenbecken.",
+                "hu": "Parkoljon a kikötői medencénél.",
+                "ro": "Parcați lângă bazinul portului.",
+                "en": "Park near the harbor basin."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Anastasia",
+              "tip_5lang": {
+                "de": "Kurzer Stopp im Zentrum.",
+                "hu": "Rövid megálló a központban.",
+                "ro": "Oprire scurtă în centru.",
+                "en": "Short stop in the city center."
+              }
+            },
+            {
+              "name": "Bucht Soline",
+              "tip_5lang": {
+                "de": "Großer Parkplatz im Schatten der Pinien.",
+                "hu": "Nagy parkoló a fenyőfák árnyékában.",
+                "ro": "Parcare mare la umbra pinilor.",
+                "en": "Large parking lot in the pine shade."
+              }
+            },
+            {
+              "name": "Fun Park Biograd",
+              "tip_5lang": {
+                "de": "Genügend Parkplätze direkt am Eingang.",
+                "hu": "Elegendő parkoló közvetlenül a bejáratnál.",
+                "ro": "Suficiente locuri de parcare la intrare.",
+                "en": "Ample parking right at the entrance."
+              }
+            },
+            {
+              "name": "Marina Kornati",
+              "tip_5lang": {
+                "de": "Abendspaziergang vor der Rückfahrt.",
+                "hu": "Esti séta a visszaindulás előtt.",
+                "ro": "Plimbare de seară înainte de plecare.",
+                "en": "Evening stroll before heading back."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Dalmatinische Pasticada",
+                "tip": "Traditionelles Rinderragout in süß-saurer Sauce."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Dalmát Pasticada",
+                "tip": "Hagyományos marharagu édes-savanyú mártásban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pasticada dalmată",
+                "tip": "Tocăniță de vită tradițională în sos dulce-acrișor."
+              }
+            ],
+            "en": [
+              {
+                "name": "Dalmatian Pasticada",
+                "tip": "Traditional beef stew in a sweet and sour sauce."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Marina Stege",
+                "tip": "Beobachten Sie das sanfte Schaukeln der Boote.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötői mólók",
+                "tip": "Figyelje a hajók lágy ringatózását.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Digurile marinei",
+                "tip": "Urmăriți legănarea ușoară a bărcilor.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Marina Piers",
+                "tip": "Watch the gentle swaying of the boats.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Honig",
+                "tip": "In den kleinen Läden der Altstadt kaufen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi méz",
+                "tip": "Vásároljon az óváros kisboltjaiban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere locală",
+                "tip": "De găsit în micile magazine din oraș."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Honey",
+                "tip": "Buy it in the small shops in the old town."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "In der Hochsaison ist die Parkplatzsuche im Zentrum schwierig.",
+              "Nutzen Sie die Park-App für bequemes Bezahlen.",
+              "Besuchen Sie den Fun Park wochentags für kürzere Schlangen.",
+              "Fahren Sie zum nahen Aussichtspunkt Kamenjak für Weitblick."
+            ],
+            "hu": [
+              "Főszezonban nehéz parkolót találni a központban.",
+              "Használja a parkolási appot a kényelmes fizetéshez.",
+              "Látogassa a Fun Parkot hétköznap a rövidebb sorokért.",
+              "Hajtson fel a közeli Kamenjak kilátóhoz a panorámáért."
+            ],
+            "ro": [
+              "În plin sezon, parcarea în centru este dificilă.",
+              "Folosiți aplicația de parcare pentru plată ușoară.",
+              "Vizitați Fun Park în timpul săptămânii pentru cozi mai mici.",
+              "Mergeți la belvederea Kamenjak din apropiere pentru priveliște."
+            ],
+            "en": [
+              "Parking in the center is difficult during peak season.",
+              "Use the parking app for convenient payment.",
+              "Visit Fun Park on weekdays for shorter queues.",
+              "Drive to nearby Kamenjak viewpoint for great vistas."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Biograd auch bei Regen entspannt. Wir starten trocken am Heimatmuseum. Danach geht es zur St. Anastasia Kirche, die nur wenige Schritte vom Parkplatz entfernt liegt. Die Fahrt zur Bucht Soline erlaubt uns, das Meer gemütlich aus dem Fenster zu beobachten. Im Fun Park nutzen wir die Indoor-Angebote, bevor wir den Tag mit einem Blick auf die Marina Kornati abschließen.",
+            "hu": "Autóval Biograd esőben is kényelmes. A Helytörténeti Múzeumnál kezdünk, majd a Szent Anasztázia-templomhoz hajtunk, amely csak pár lépésre van a parkolótól. A Soline-öböl felé menet az autóból csodáljuk a tengert. A Fun Parkban a fedett attrakciókat keressük, végül a kikötő látványával zárjuk a napot.",
+            "ro": "Cu mașina, Biograd este relaxant chiar și pe ploaie. Începem la Muzeul de Istorie, apoi mergem la biserica Sf. Anastasia, situată la câțiva pași de parcare. Drumul spre golful Soline ne permite să observăm marea confortabil din fereastră. La Fun Park folosim ofertele de interior, înainte de a încheia ziua cu o privire asupra marinei.",
+            "en": "By car, Biograd is relaxed even in the rain. We start dry at the Heritage Museum, then head to St. Anastasia Church, just steps from parking. The drive to Soline Bay lets us watch the sea comfortably from the window. At the Fun Park, we focus on indoor options before ending the day with a view of Marina Kornati."
+          },
+          "stops": [
+            {
+              "name": "Heimatmuseum Biograd",
+              "tip_5lang": {
+                "de": "Parkplätze an der Uferpromenade sind bei Regen meist frei.",
+                "hu": "A parti sétány parkolói esőben általában üresek.",
+                "ro": "Locurile de parcare de pe faleză sunt de obicei libere pe ploaie.",
+                "en": "Parking spaces on the waterfront are usually free when it rains."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Anastasia",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Auto und Kircheneingang einplanen.",
+                "hu": "Tervezzen rövid sétát az autó és a templombejárat között.",
+                "ro": "Planificați distanțe scurte între mașină și intrarea în biserică.",
+                "en": "Plan for short walks between the car and the church entrance."
+              }
+            },
+            {
+              "name": "Bucht Soline",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Waldrand für den besten Meerblick.",
+                "hu": "Parkoljon közvetlenül az erdő szélén a legjobb tengeri kilátásért.",
+                "ro": "Parcați chiar la marginea pădurii pentru cea mai bună vedere la mare.",
+                "en": "Park right at the forest edge for the best sea view."
+              }
+            },
+            {
+              "name": "Fun Park Biograd",
+              "tip_5lang": {
+                "de": "Das 4D-Kino und das Spielzimmer sind ideal bei Schauern.",
+                "hu": "A 4D mozi és a játszószoba ideális záporok idején.",
+                "ro": "Cinematograful 4D și sala de jocuri sunt ideale pe ploaie.",
+                "en": "The 4D cinema and playroom are ideal during showers."
+              }
+            },
+            {
+              "name": "Marina Kornati",
+              "tip_5lang": {
+                "de": "Genießen Sie den Hafenblick aus dem Auto bei einer Kaffeepause.",
+                "hu": "Élvezze a kikötői kilátást az autóból egy kávészünet alatt.",
+                "ro": "Bucurați-vă de vederea portului din mașină în timpul unei pauze.",
+                "en": "Enjoy the harbor view from the car during a coffee break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+              "Achten Sie auf große Pfützen auf der Küstenstraße.",
+              "Parkgebühren können im Winter niedriger sein oder entfallen.",
+              "Ein Regenschirm im Kofferraum ist bei Stopps unerlässlich."
+            ],
+            "hu": [
+              "Használja a légkondicionálót a szélvédő párátlanítására.",
+              "Ügyeljen a nagy tócsákra a partmenti utakon.",
+              "A parkolási díjak télen alacsonyabbak lehetnek.",
+              "Egy esernyő a csomagtartóban elengedhetetlen a megállókhoz."
+            ],
+            "ro": [
+              "Folosiți aerul condiționat împotriva aburirii parbrizului.",
+              "Atenție la bălțile mari de pe drumul de coastă.",
+              "Taxele de parcare pot fi mai mici sau inexistente iarna.",
+              "O umbrelă în portbagaj este indispensabilă pentru opriri."
+            ],
+            "en": [
+              "Use the air conditioning to keep windows from fogging up.",
+              "Watch out for large puddles on the coastal road.",
+              "Parking fees may be lower or waived in winter.",
+              "An umbrella in the trunk is essential for stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Sightseeing per Auto ist in Biograd besonders entspannt. Wir beginnen am Heimatmuseum und erkunden danach die St. Anastasia Kirche. Die Fahrt zur Bucht Soline führt uns durch eine schlafende Küstenlandschaft. Da der Fun Park Pause macht, nutzen wir das Auto für einen Abstecher zum nahegelegenen Vransko Jezero (See), bevor wir den Tag an der Marina Kornati ausklingen lassen.",
+            "hu": "A téli városnézés autóval Biogradban kifejezetten pihentető. A Helytörténeti Múzeumnál kezdünk, majd felfedezzük a Szent Anasztázia-templomot. A Soline-öböl felé vezető út az alvó tengerparti tájon visz keresztül. Mivel a Fun Park zárva van, elautózunk a közeli Vrana-tóhoz (Vransko Jezero), mielőtt a napot a kikötőben zárnánk.",
+            "ro": "Vizitarea iarna cu mașina este deosebit de relaxantă în Biograd. Începem la Muzeul de Istorie și explorăm apoi biserica Sf. Anastasia. Drumul spre golful Soline ne poartă printr-un peisaj de coastă adormit. Deoarece Fun Park este închis, folosim mașina pentru o excursie la lacul Vransko Jezero.",
+            "en": "Winter sightseeing by car is especially relaxed in Biograd. We start at the Heritage Museum and explore St. Anastasia Church. The drive to Soline Bay takes us through a sleeping coastal landscape. Since the Fun Park is closed, we use the car for a trip to the nearby Lake Vrana (Vransko Jezero) before ending the day at Marina Kornati."
+          },
+          "stops": [
+            {
+              "name": "Heimatmuseum Biograd",
+              "tip_5lang": {
+                "de": "Direkt davor gibt es im Winter reichlich Parkplätze.",
+                "hu": "Közvetlenül előtte télen bőségesen van parkolóhely.",
+                "ro": "Există multe locuri de parcare chiar în față iarna.",
+                "en": "There is plenty of parking right in front during winter."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Anastasia",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche während einer Messe für eine warme Atmosphäre.",
+                "hu": "Látogassa meg a templomot mise idején a meghitt hangulatért.",
+                "ro": "Vizitați biserica în timpul unei slujbe pentru o atmosferă caldă.",
+                "en": "Visit the church during a mass for a warm atmosphere."
+              }
+            },
+            {
+              "name": "Bucht Soline",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter oft kostenlos.",
+                "hu": "A parkoló télen gyakran ingyenes.",
+                "ro": "Parcarea este adesea gratuită iarna.",
+                "en": "The parking lot is often free in winter."
+              }
+            },
+            {
+              "name": "Fun Park Biograd",
+              "tip_5lang": {
+                "de": "Machen Sie einen Fotostopp am Eingang (Western-Thematik).",
+                "hu": "Tartson egy fotómegállót a bejáratnál (western tematika).",
+                "ro": "Faceți o oprire pentru poze la intrare (tematică western).",
+                "en": "Take a photo stop at the entrance (Western theme)."
+              }
+            },
+            {
+              "name": "Marina Kornati",
+              "tip_5lang": {
+                "de": "Der Hafen ist abends wunderschön beleuchtet.",
+                "hu": "A kikötő este gyönyörűen ki van világítva.",
+                "ro": "Portul este frumos iluminat seara.",
+                "en": "The harbor is beautifully illuminated in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Küstenstraße kann bei klaren Nächten Froststellen haben.",
+              "Nutzen Sie die kurzen Wege, um sich im Auto aufzuwärmen.",
+              "Die Parkplatzsuche ist im Vergleich zum Sommer stressfrei."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A partmenti út a tiszta éjszakák után jeges lehet.",
+              "Használja ki a rövid távolságokat, hogy az autóban melegedjen fel.",
+              "A parkolás a nyárhoz képest teljesen stresszmentes."
+            ],
+            "ro": [
+              "Verificați lichidul de parbriz antigel.",
+              "Drumul de coastă poate avea porțiuni înghețate în nopțile senine.",
+              "Folosiți distanțele scurte pentru a vă încălzi în mașină.",
+              "Găsirea unui loc de parcare este lipsită de stres față de vară."
+            ],
+            "en": [
+              "Check the antifreeze in the windshield washer system.",
+              "The coastal road may have icy patches on clear nights.",
+              "Take advantage of short distances to warm up in the car.",
+              "Finding a parking spot is stress-free compared to summer."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -898,6 +1933,333 @@
           "Use the 'FlixBus' app for intercity travel.",
           "Luggage storage is often available at the bus station."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Biograd ist ein wichtiger Verkehrsknotenpunkt und gut per Bus erreichbar. Vom Busbahnhof am Hafen sind alle Sehenswürdigkeiten im Zentrum, wie das Heimatmuseum und die Anastasia-Kirche, in wenigen Minuten zu Fuß erreichbar. Spazieren Sie zur Marina Kornati und weiter zum Strand Dražica, ohne sich um Parkplätze sorgen zu müssen. Die ideale Wahl für Reisende, die die Küstenstädte Dalmatiens nachhaltig erkunden möchten.",
+            "hu": "Biograd fontos közlekedési csomópont, busszal kiválóan elérhető. A kikötő melletti buszpályaudvartól minden központi látnivaló, mint a Helytörténeti Múzeum és az Anasztázia-templom, pár perc alatt elérhető gyalog. Sétáljon el a Marina Kornatihoz, majd tovább a Dražica strandra anélkül, hogy a parkolás miatt aggódna. Ideális választás az utazóknak, akik fenntartható módon fedeznék fel Dalmácia partjait.",
+            "ro": "Biograd este un important nod de transport, ușor accesibil cu autobuzul. De la autogara din port, toate obiectivele centrale, cum ar fi Muzeul Local și biserica Anastasia, sunt la câteva minute de mers pe jos. Mergeți la Marina Kornati și mai departe la plaja Dražica fără grija parcării. Alegerea ideală pentru călătorii care doresc să exploreze orașele de coastă dalmate într-un mod sustenabil.",
+            "en": "Biograd is a key transport hub and very accessible by bus. From the station by the harbor, all central sights like the Local Museum and Anastasia Church are just minutes away on foot. Stroll to Marina Kornati and on to Dražica beach without worrying about parking. The ideal choice for travelers wanting to explore Dalmatian coastal towns sustainably."
+          },
+          "stops": [
+            {
+              "name": "Denkmal für König Tomislav",
+              "tip_5lang": {
+                "de": "Der Busbahnhof ist nur wenige Schritte entfernt.",
+                "hu": "A buszpályaudvar csak pár lépésre van.",
+                "ro": "Autogara este la doar câțiva pași distanță.",
+                "en": "The bus station is just a few steps away."
+              }
+            },
+            {
+              "name": "Heimatmuseum Biograd",
+              "tip_5lang": {
+                "de": "Zentraler Anlaufpunkt im Ort.",
+                "hu": "Központi tájékozódási pont a városban.",
+                "ro": "Punct central de referință în oraș.",
+                "en": "Central landmark in the town."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Anastasia",
+              "tip_5lang": {
+                "de": "Bequem zu Fuß vom Hafen erreichbar.",
+                "hu": "Gyalogosan könnyen elérhető a kikötőtől.",
+                "ro": "Accesibil ușor pe jos din port.",
+                "en": "Easily reachable on foot from the harbor."
+              }
+            },
+            {
+              "name": "Marina Kornati",
+              "tip_5lang": {
+                "de": "Viel Gastronomie in der direkten Umgebung.",
+                "hu": "Sok étterem található a közvetlen közelében.",
+                "ro": "Multe restaurante în imediata apropiere.",
+                "en": "Many dining options in the immediate area."
+              }
+            },
+            {
+              "name": "Strand Dražica",
+              "tip_5lang": {
+                "de": "Bester Strand in Reichweite der Haltestelle.",
+                "hu": "A legjobb strand a buszmegálló közelében.",
+                "ro": "Cea mai bună plajă accesibilă din stație.",
+                "en": "Best beach within reach of the bus stop."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gegrillte Calamari",
+                "tip": "Ein Muss in den Restaurants an der Uferpromenade."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Grillezett kalamári",
+                "tip": "Kihagyhatatlan a vízparti sétány éttermeiben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Calamari la grătar",
+                "tip": "Obligatoriu de încercat la restaurantele de pe faleză."
+              }
+            ],
+            "en": [
+              {
+                "name": "Grilled Calamari",
+                "tip": "A must-try at the restaurants along the waterfront."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kirchplatz St. Anastasia",
+                "tip": "Schatten und Ruhe im Zentrum.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szent Anasztázia templom tér",
+                "tip": "Árnyék és nyugalom a központban.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața bisericii Sf. Anastasia",
+                "tip": "Umbră și liniște în centru.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "St. Anastasia Church Square",
+                "tip": "Shade and quiet in the town center.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokales Obst",
+                "tip": "Frischmarkt in der Nähe des Busbahnhofs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi gyümölcs",
+                "tip": "Friss piac a buszpályaudvar közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fructe locale",
+                "tip": "Piața de fructe proaspete de lângă autogară."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Fruit",
+                "tip": "Fresh market located near the bus station."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Biograd ist Startpunkt für viele Fähren zu den Inseln.",
+              "Die Fahrpläne hängen am Hauptbahnhof aus.",
+              "Nutzen Sie die App 'FlixBus' für überregionale Fahrten.",
+              "Gepäckaufbewahrung ist oft am Busbahnhof möglich."
+            ],
+            "hu": [
+              "Biograd számos szigeti komp kiindulópontja.",
+              "A menetrendek ki vannak függesztve a pályaudvaron.",
+              "Használja a 'FlixBus' appot a távolsági járatokhoz.",
+              "Csomagmegőrző gyakran igénybe vehető a buszpályaudvaron."
+            ],
+            "ro": [
+              "Biograd este punctul de plecare pentru multe feriboturi.",
+              "Orarele sunt afișate la autogara principală.",
+              "Folosiți aplicația 'FlixBus' pentru cursele pe distanțe lungi.",
+              "Depozitarea bagajelor este adesea posibilă la autogară."
+            ],
+            "en": [
+              "Biograd is the starting point for many island ferries.",
+              "Schedules are posted at the main bus station.",
+              "Use the 'FlixBus' app for intercity travel.",
+              "Luggage storage is often available at the bus station."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem lokalen Bus erreichen wir bequem die Highlights von Biograd. Wir starten am Tomislav-Denkmal und verbringen den regnerischen Vormittag im Heimatmuseum. Nach einem Besuch der St. Anastasia Kirche nehmen wir den Bus in Richtung Marina Kornati. Der Nachmittag am Strand Dražica wird kürzer, dafür genießen wir den Blick auf das Meer von einem geschützten Platz aus.",
+            "hu": "A helyi közlekedéssel kényelmesen elérjük Biograd főbb pontjait. A Tomiszláv emlékműnél kezdünk, majd az esős délelőttöt a múzeumban töltjük. A Szent Anasztázia-templom után busszal megyünk a kikötő felé. A Dražica strandon töltött idő rövidebb lesz, de egy védett helyről így is élvezzük a tenger látványát.",
+            "ro": "Cu autobuzul local ajungem confortabil la atracțiile din Biograd. Începem la monumentul lui Tomislav și petrecem dimineața ploioasă la Muzeul de Istorie. După vizitarea bisericii Sf. Anastasia, luăm autobuzul spre Marina Kornati. După-amiaza la plaja Dražica va fi mai scurtă, dar ne bucurăm de mare dintr-un loc protejat.",
+            "en": "With local transport, we comfortably reach Biograd's highlights. We start at the Tomislav monument and spend the rainy morning in the Heritage Museum. After visiting St. Anastasia Church, we take the bus towards Marina Kornati. The afternoon at Dražica Beach is shorter, but we enjoy the sea view from a sheltered spot."
+          },
+          "stops": [
+            {
+              "name": "Denkmal für König Tomislav",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Biograd Centar' liegt in unmittelbarer Nähe.",
+                "hu": "A 'Biograd Centar' buszmegálló a közvetlen közelben van.",
+                "ro": "Stația de autobuz 'Biograd Centar' se află în imediata apropiere.",
+                "en": "The 'Biograd Centar' bus stop is in the immediate vicinity."
+              }
+            },
+            {
+              "name": "Heimatmuseum Biograd",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit zwischen den Busabfahrten für die Ausstellung.",
+                "hu": "Használja ki a buszok indulása közötti időt a kiállításra.",
+                "ro": "Folosiți timpul dintre plecările autobuzelor pentru expoziție.",
+                "en": "Use the time between bus departures to see the exhibition."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Anastasia",
+              "tip_5lang": {
+                "de": "Von hier sind es nur 5 Minuten Fußweg zur Hauptbushaltestelle.",
+                "hu": "Innen mindössze 5 perc séta a fő buszmegálló.",
+                "ro": "De aici sunt doar 5 minute de mers pe jos până la stația principală.",
+                "en": "It's only a 5-minute walk from here to the main bus stop."
+              }
+            },
+            {
+              "name": "Marina Kornati",
+              "tip_5lang": {
+                "de": "Überdachte Wartebereiche am Hafen bieten Schutz vor Regen.",
+                "hu": "A kikötő fedett várótermei védelmet nyújtanak az eső ellen.",
+                "ro": "Zonele de așteptare acoperite din port oferă protecție contra ploii.",
+                "en": "Covered waiting areas at the harbor provide shelter from rain."
+              }
+            },
+            {
+              "name": "Strand Dražica",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die Rückfahrt ins Zentrum genau.",
+                "hu": "Pontosan ellenőrizze a központba visszainduló járatok menetrendjét.",
+                "ro": "Verificați cu atenție programul pentru întoarcerea în centru.",
+                "en": "Check the schedule carefully for your return to the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten nach Möglichkeit im Voraus oder passend.",
+              "Im Winter und bei Regen fahren Busse seltener; App nutzen.",
+              "Halten Sie Kleingeld für den Fahrerkauf bereit.",
+              "Die Wartehäuschen sind klein, ein Regenschirm bleibt wichtig."
+            ],
+            "hu": [
+              "Lehetőség szerint vegye meg előre a jegyeket.",
+              "Télen és esőben a buszok ritkábban járhatnak; használjon appot.",
+              "Készítsen elő aprópénzt, ha a sofőrnél vásárol jegyet.",
+              "A várók kicsik, az esernyő továbbra is fontos marad."
+            ],
+            "ro": [
+              "Cumpărați biletele în avans dacă este posibil.",
+              "Iarna și pe ploaie autobuzele circulă mai rar; folosiți o aplicație.",
+              "Aveți pregătit mărunt pentru cumpărarea biletului de la șofer.",
+              "Stațiile de așteptare sunt mici, umbrela rămâne importantă."
+            ],
+            "en": [
+              "Buy tickets in advance if possible.",
+              "Buses may run less frequently in winter or rain; use an app.",
+              "Keep small change ready for buying tickets from the driver.",
+              "Bus shelters are small, so an umbrella is still important."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Biograd lässt sich im Winter entspannt mit dem Bus erkunden. Wir starten am Tomislav-Denkmal und wärmen uns im Heimatmuseum auf. Die St. Anastasia Kirche bietet Ruhe und Besinnlichkeit. Am Nachmittag bringt uns der Transit zur Marina Kornati, wo wir die Schiffe beobachten, bevor wir am Strand Dražica den Sonnenuntergang erleben und mit dem letzten Bus zurückkehren.",
+            "hu": "Télen Biograd kényelmesen felfedezhető busszal. A Tomiszláv emlékműnél kezdünk, majd a múzeumban melegszünk fel. A Szent Anasztázia-templom nyugalmat áraszt. Délután a kikötőhöz utazunk a hajókat nézni, végül a Dražica strandon éljük át a naplementét, mielőtt az utolsó busszal visszatérnénk.",
+            "ro": "Iarna, Biograd poate fi explorat relaxat cu autobuzul. Începem la monumentul lui Tomislav și ne încălzim la Muzeul de Istorie. Biserica Sf. Anastasia oferă liniște. După-amiaza tranzitul ne duce la Marina Kornati, unde observăm navele, înainte de a vedea apusul pe plaja Dražica.",
+            "en": "In winter, Biograd is easy to explore by bus. We start at the Tomislav monument and warm up in the Heritage Museum. St. Anastasia Church offers peace and reflection. In the afternoon, transit takes us to Marina Kornati to watch the ships before catching the sunset at Dražica Beach and returning on the last bus."
+          },
+          "stops": [
+            {
+              "name": "Denkmal für König Tomislav",
+              "tip_5lang": {
+                "de": "Im Winter sind die Haltestellen weniger überfüllt.",
+                "hu": "Télen a megállók sokkal kevésbé zsúfoltak.",
+                "ro": "Iarna stațiile sunt mult mai puțin aglomerate.",
+                "en": "Bus stops are much less crowded in winter."
+              }
+            },
+            {
+              "name": "Heimatmuseum Biograd",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor der Tür des Museums.",
+                "hu": "A busz szinte közvetlenül a múzeum ajtaja előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața ușii muzeului.",
+                "en": "The bus stops almost directly in front of the museum door."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Anastasia",
+              "tip_5lang": {
+                "de": "Ideale Station, um die Route flexibel anzupassen.",
+                "hu": "Ideális pont az útvonal rugalmas módosításához.",
+                "ro": "Stație ideală pentru a ajusta flexibil traseul.",
+                "en": "Ideal station for flexibly adjusting your route."
+              }
+            },
+            {
+              "name": "Marina Kornati",
+              "tip_5lang": {
+                "de": "Abends sind die Busse gut beheizt; angenehm für die Rückfahrt.",
+                "hu": "Este a buszok jól fűtöttek; kellemes a visszautazáshoz.",
+                "ro": "Seara autobuzele sunt bine încălzite; plăcut pentru drumul de întoarcere.",
+                "en": "Buses are well-heated in the evening; pleasant for the return trip."
+              }
+            },
+            {
+              "name": "Strand Dražica",
+              "tip_5lang": {
+                "de": "Letzter Bus fährt oft schon kurz nach Sonnenuntergang.",
+                "hu": "Az utolsó busz gyakran röviddel naplemente után indul.",
+                "ro": "Ultimul autobuz pleacă adesea imediat după apus.",
+                "en": "The last bus often leaves shortly after sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Winterfahrplan (redueziert) tritt ab November in Kraft.",
+              "Nutzen Sie die Wartezeit für einen schnellen Tee im Zentrum.",
+              "Achten Sie auf Aushänge an den Haltestellen für Feiertage.",
+              "Überlandbusse (Zadar-Šibenik) halten auch an der Magistrale."
+            ],
+            "hu": [
+              "A csökkentett téli menetrend novembertől lép életbe.",
+              "Használja ki a várakozási időt egy gyors teára a központban.",
+              "Ügyeljen a megállóban kifüggesztett ünnepnapi hirdetményekre.",
+              "A távolsági buszok (Zadar-Šibenik) a főút mentén is megállnak."
+            ],
+            "ro": [
+              "Programul de iarnă redus intră în vigoare din noiembrie.",
+              "Folosiți timpul de așteptare pentru un ceai rapid în centru.",
+              "Atenție la anunțurile din stații pentru zilele de sărbătoare.",
+              "Autobuzele interurbane opresc și la șoseaua principală (Magistrala)."
+            ],
+            "en": [
+              "The reduced winter schedule takes effect in November.",
+              "Use waiting time for a quick tea in the town center.",
+              "Check the notices at stops for public holiday schedules.",
+              "Long-distance buses (Zadar-Šibenik) also stop at the main road."
+            ]
+          }
+        }
       }
     }
   },

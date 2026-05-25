@@ -290,6 +290,420 @@
           "Book restaurant tables in advance during the high season.",
           "Buy lavender products directly from local street vendors."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt auf der Pjaca, dem größten Platz Dalmatiens, inmitten lebendiger Kaffeekultur. Mittags erkunden wir das historische Arsenal und die filigrane Agavenspitze der Benediktinerinnen. Am Nachmittag führt ein Pinienweg zur Spanischen Festung mit atemberaubendem Ausblick. Der Abend klingt mit einem friedlichen Spaziergang am Franziskanerkloster aus, während die Sonne versinkt.",
+            "hu": "A reggel a Pjacán indul, Dalmácia legnagyobb terén, ahol pezseg a kávéházi élet. Délben a történelmi Arzenált és a bencés nővérek különleges agávécsipkéit fedezzük fel. Délután a fenyőillatú ösvényen felsétálunk a Spanyol erődbe a lenyűgöző panorámáért. Az estét a ferences kolostor melletti békés sétával zárjuk, miközben a nap lebukik a Pakleni-szigetek mögött a tengerbe.",
+            "ro": "Dimineața începe în Pjaca, cea mai mare piață din Dalmația, unde cultura cafelei este vibrantă. La prânz explorăm Arsenalul istoric și dantela delicată din agave a benedictinelor. După-amiaza, urcăm pe poteca parfumată cu pini spre Cetatea Spaniolă pentru vederi uluitoare. Seara se încheie cu o plimbare liniștită pe lângă mănăstirea franciscană, în timp ce soarele apune.",
+            "en": "Morning begins at the vibrant Pjaca, the largest square in Dalmatia. Midday is spent exploring the historic Arsenal and the delicate agave lace of the Benedictines. In the afternoon, we walk up the pine-scented path to the Spanish Fortress for breathtaking views. Evening concludes with a peaceful stroll by the Franciscan monastery as the sun sets over the Pakleni islands."
+          },
+          "stops": [
+            {
+              "name": "Sankt-Stephan-Platz",
+              "tip_5lang": {
+                "de": "Trinken Sie Ihren ersten Kaffee hier, um das lokale Leben zu beobachten.",
+                "hu": "Igya meg itt a reggeli kávéját, és figyelje a város ébredését.",
+                "ro": "Beți prima cafea aici pentru a observa viața locală vibrantă.",
+                "en": "Drink your first coffee here to observe the local life waking up."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Stephan",
+              "tip_5lang": {
+                "de": "Achten Sie auf die wertvollen Gemälde lokaler Meister im Inneren.",
+                "hu": "Figyelje meg a helyi mesterek értékes festményeit a belső térben.",
+                "ro": "Admirați picturile valoroase ale maeștrilor locali din interior.",
+                "en": "Pay attention to the valuable paintings by local masters inside."
+              }
+            },
+            {
+              "name": "Benediktinerinnenkloster",
+              "tip_5lang": {
+                "de": "Bewundern Sie die UNESCO-geschützte Agavenspitze der Nonnen.",
+                "hu": "Csodálja meg az apácák UNESCO-védett agávécsipkéit a múzeumban.",
+                "ro": "Admirați dantela din agave, protejată UNESCO, realizată de călugărițe.",
+                "en": "Admire the UNESCO-protected agave lace made by the nuns."
+              }
+            },
+            {
+              "name": "Arsenal und Theater",
+              "tip_5lang": {
+                "de": "Besuchen Sie eines der ältesten kommunalen Theater Europas im Obergeschoss.",
+                "hu": "Látogasson el Európa egyik legrégebbi közszínházába az emeleten.",
+                "ro": "Vizitați unul dintre cele mai vechi teatre comunale din Europa la etaj.",
+                "en": "Visit one of the oldest communal theaters in Europe on the upper floor."
+              }
+            },
+            {
+              "name": "Franziskanerkloster",
+              "tip_5lang": {
+                "de": "Das Abendmahl-Gemälde im Refektorium ist ein absolutes Muss.",
+                "hu": "Az ebédlőben található Utolsó vacsora festmény kötelező látnivaló.",
+                "ro": "Pictura Cina cea de Taină din refectoriu este absolut obligatorie.",
+                "en": "The Last Supper painting in the refectory is an absolute must-see."
+              }
+            },
+            {
+              "name": "Festung Fortica",
+              "tip_5lang": {
+                "de": "Der Panoramablick auf die Pakleni-Inseln ist von hier oben am besten.",
+                "hu": "Innen a legszebb a panoráma a Pakleni-szigetekre és az óvárosra.",
+                "ro": "Vederea panoramică asupra insulelor Pakleni este cea mai bună de aici.",
+                "en": "The panoramic view of the Pakleni Islands is best from up here."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gregada",
+                "tip": "Traditioneller Hvarer Eintopf mit Fisch, Kartoffeln und Zwiebeln."
+              },
+              {
+                "name": "Dalmatino",
+                "tip": "Hervorragende Meeresfrüchte direkt im Herzen der Altstadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gregada",
+                "tip": "Hagyományos hvari halragu burgonyával, hagymával és olívaolajjal."
+              },
+              {
+                "name": "Konoba Menego",
+                "tip": "Autentikus dalmát konyha egy családi vezetésű kőházban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gregada",
+                "tip": "Tocăniță tradițională din Hvar cu pește, cartofi și ceapă."
+              },
+              {
+                "name": "Konoba Luviji",
+                "tip": "Vinuri locale și specialități de pește pe o terasă acoperită."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gregada",
+                "tip": "Traditional Hvar fish stew with potatoes, onions, and olive oil."
+              },
+              {
+                "name": "Dalmatino",
+                "tip": "Excellent seafood and steaks in the heart of the old town."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Klostergarten",
+                "tip": "Ein ruhiger Ort für Besinnung im Franziskanerkloster.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Fortica Panorama",
+                "tip": "Perfekter Ort für den Sonnenuntergang über dem Meer.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kolostorkert",
+                "tip": "Csendes pihenőhely a ferences kolostor árnyas kertjében.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Fortica fok",
+                "tip": "Lenyűgöző panoráma és csend a várfalak tövében.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina Mănăstirii",
+                "tip": "Un loc liniștit pentru reflecție la mănăstirea franciscană.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Vârful Fortica",
+                "tip": "Loc perfect pentru apusul soarelui peste arhipelag.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Monastery Garden",
+                "tip": "A quiet spot for reflection in the Franciscan monastery.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Fortica Viewpoint",
+                "tip": "Perfect spot for sunset over the Pakleni islands.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lavendel-Säckchen",
+                "tip": "Hvar ist berühmt für seinen aromatischen Lavendel."
+              },
+              {
+                "name": "Agavenspitze",
+                "tip": "Einzigartige Handarbeit der Benediktinerinnen-Nonnen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Levendula olaj",
+                "tip": "Vásároljon tiszta hvari levendulát a piaci árusoktól."
+              },
+              {
+                "name": "Agávécsipke",
+                "tip": "A világon egyedülálló, kaktuszból készült kézműves remek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Săculețe cu lavandă",
+                "tip": "Hvar este renumit pentru lavanda sa aromată."
+              },
+              {
+                "name": "Dantelă de agave",
+                "tip": "Artizanat unic realizat de călugărițele benedictine."
+              }
+            ],
+            "en": [
+              {
+                "name": "Lavender Bags",
+                "tip": "Hvar is famous for its high-quality aromatic lavender."
+              },
+              {
+                "name": "Agave Lace",
+                "tip": "Unique handicraft made only by the Benedictine nuns."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für den steilen Aufstieg zur Festung.",
+              "Die Kathedrale ist während der Mittagsruhe oft geschlossen.",
+              "Buchen Sie Restauranttische in der Hochsaison im Voraus.",
+              "Das Leitungswasser ist trinkbar, aber sehr kalkhaltig."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a várhoz vezető meredek úton.",
+              "A katedrális gyakran zárva tart a kora délutáni órákban.",
+              "A főszezonban érdemes előre asztalt foglalni az éttermekben.",
+              "Vásároljon levendulát közvetlenül a helyi kistermelőktől."
+            ],
+            "ro": [
+              "Purtați pantofi confortabili pentru urcarea abruptă spre cetate.",
+              "Catedrala este adesea închisă în timpul siestei de după-amiază.",
+              "Rezervați mese la restaurant în avans în timpul sezonului de vârf.",
+              "Apa de la robinet este potabilă, dar conține mult calcar."
+            ],
+            "en": [
+              "Wear comfortable shoes for the steep climb to the fortress.",
+              "The cathedral is often closed during the early afternoon hours.",
+              "Book restaurant tables in advance during the high season.",
+              "Buy lavender products directly from local street vendors."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt auf dem regenbeschlagenen Stephansplatz, wo die Pflastersteine glänzen. Mittags bietet das historische Arsenal perfekten Schutz vor den Schauern, während man die Kultur genießt. Am Nachmittag erkunden wir das Benediktinerkloster im sanften Rhythmus des Regens. Den Abend lassen wir bei der Aussicht von der Fortica ausklingen, wenn die Wolken über der Adria aufreißen.",
+            "hu": "A reggel a Szent István téren indul, ahol a vizes kövek csillognak az esőben. Délben az Arzenál nyújt menedéket a záporok elől, miközben elmerülünk a kultúrában. Délután a bencés kolostor csendjét élvezzük az eső kopogása mellett. Az estét a Fortica várban zárjuk, ahonnan a felhős égbolt alatt is drámai kilátás nyílik a tengerre és a város vörös tetőire.",
+            "ro": "Dimineața începe în Piața Sfântul Ștefan, unde pietrele cubice strălucesc sub ploaie. La prânz, Arsenalul oferă adăpostul perfect, permițându-vă să explorați cultura locală fără a vă uda. După-amiaza este dedicată mănăstirii benedictine, un loc liniștit pentru reflecție. Seara se încheie la cetatea Fortica, oferind o panoramă dramatică asupra insulelor Pakleni printre nori.",
+            "en": "The morning starts at St. Stephen's Square, where the wet stones glisten beautifully. At noon, the Arsenal provides the perfect dry refuge for exploring local history. In the afternoon, we visit the Benedictine monastery, enjoying the peaceful atmosphere as the rain falls. The evening concludes at the Fortica fortress, offering a dramatic view of the Adriatic under the moody rainy sky."
+          },
+          "stops": [
+            {
+              "name": "Sankt-Stephan-Platz",
+              "tip_5lang": {
+                "de": "Vorsicht, die glatten Steine sind bei Nässe extrem rutschig.",
+                "hu": "Vigyázat, a csiszolt kövek esőben rendkívül csúszósak.",
+                "ro": "Atenție, pietrele lustruite devin foarte alunecoase când sunt ude.",
+                "en": "Caution, the polished stones are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Stephan",
+              "tip_5lang": {
+                "de": "Ein idealer, trockener Rückzugsort, um die barocke Pracht zu bewundern.",
+                "hu": "Ideális száraz menedék a barokk belső tér megcsodálására.",
+                "ro": "Un refugiu uscat perfect pentru a admira interiorul baroc.",
+                "en": "A perfect dry retreat to admire the baroque interior splendor."
+              }
+            },
+            {
+              "name": "Benediktinerinnenkloster",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum im Inneren, um die berühmte Agaven-Spitze zu sehen.",
+                "hu": "Nézze meg a benti múzeumot és a híres agávé-csipkéket.",
+                "ro": "Vizitați muzeul din interior pentru a vedea celebra dantelă din agave.",
+                "en": "Visit the indoor museum to see the famous agave lace collection."
+              }
+            },
+            {
+              "name": "Arsenal und Theater",
+              "tip_5lang": {
+                "de": "Das älteste Volkstheater Europas ist der beste Ort bei starkem Regen.",
+                "hu": "Európa legrégebbi népszínháza a legjobb hely heves esőzéskor.",
+                "ro": "Cel mai vechi teatru comunal din Europa este locul ideal pe ploaie.",
+                "en": "Europe's oldest communal theatre is the best spot during heavy rain."
+              }
+            },
+            {
+              "name": "Franziskanerkloster",
+              "tip_5lang": {
+                "de": "Der Kreuzgang bietet Schutz und eine friedliche Akustik bei Regen.",
+                "hu": "A kerengő védelmet és békés akusztikát nyújt az esőben.",
+                "ro": "Clasura oferă adăpost și o acustică liniștitoare în timpul ploii.",
+                "en": "The cloister provides shelter and peaceful acoustics during the rain."
+              }
+            },
+            {
+              "name": "Festung Fortica",
+              "tip_5lang": {
+                "de": "Der Aufstieg durch den Pinienwald bietet unter den Bäumen etwas Schutz.",
+                "hu": "A fenyőerdőn átvezető út a fák alatt némi védelmet nyújt.",
+                "ro": "Urcarea prin pădurea de pini oferă o oarecare protecție sub copaci.",
+                "en": "The climb through the pine forest offers some shelter under the trees."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Hvars Marmorsteinpflaster wird bei Regen spiegelglatt; tragen Sie Schuhe mit gutem Profil.",
+              "Nutzen Sie die Regenpausen für den Aufstieg zur Festung Fortica.",
+              "Die Museen im Arsenal und im Benediktinerkloster sind perfekte Indoor-Optionen.",
+              "Ein Regenschirm ist bei den oft böigen Winden weniger effektiv als eine gute Regenjacke.",
+              "Genießen Sie einen Kaffee unter den Arkaden am Hafen, während Sie dem Regen zusehen."
+            ],
+            "hu": [
+              "Hvar márványköves utcái esőben tükörsimák; viseljen tapadós talpú cipőt.",
+              "Használja ki az esőszüneteket a Fortica várba való feljutáshoz.",
+              "Az Arzenál és a Bencés kolostor múzeuma kiváló beltéri program esős időben.",
+              "A gyakori széllökések miatt az esernyő helyett praktikusabb egy jó esőkabát.",
+              "Élvezze a kávézást a kikötő melletti árkádok alatt, miközben az esőt figyeli."
+            ],
+            "ro": [
+              "Pavajul de marmură din Hvar devine extrem de alunecos; purtați încălțăminte cu aderență.",
+              "Profită de pauzele dintre reprizele de ploaie pentru a urca la cetatea Fortica.",
+              "Muzeele din Arsenal și mănăstirea benedictină sunt opțiuni excelente de interior.",
+              "Din cauza vântului care însoțește ploaia, o pelerină este mai utilă decât o umbrelă.",
+              "Savurați o cafea sub arcadele din port în timp ce priviți ploaia peste mare."
+            ],
+            "en": [
+              "Hvar's marble-paved streets become like ice when wet; wear shoes with excellent grip.",
+              "Use the breaks between rain showers to make your climb to the Fortica fortress.",
+              "The museums in the Arsenal and Benedictine monastery are perfect indoor alternatives.",
+              "Due to gusty winds, a sturdy raincoat is much more effective than an umbrella.",
+              "Enjoy a local coffee under the harbor arcades while watching the rain over the bay."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein ruhiger Wintermorgen am Stephansplatz, weit weg vom Sommertrubel. Mittags wärmt die milde Adria-Sonne die alten Mauern des Arsenals. Am Nachmittag genießen wir die stille Pracht des Franziskanerklosters und den Duft von Pinien. Der Tag endet früh mit einem goldenen Sonnenuntergang von der Festung Fortica, bevor die kühle Meeresbrise einsetzt.",
+            "hu": "Csendes téli reggel a Szent István téren, távol a nyári nyüzsgéstől. Délben a lágy adriai napsütés melegíti az Arzenál ősi falait. Délután a ferences kolostor nyugalmát és a fenyők illatát élvezzük a friss levegőn. A nap korán ér véget egy aranyló naplementével a Fortica várból, mielőtt leszállna a hűvös tengeri éjszaka.",
+            "ro": "O dimineață liniștită de iarnă în Piața Sfântul Ștefan, fără aglomerația verii. La prânz, soarele blând al Adriaticii încălzește zidurile vechi ale Arsenalului. După-amiaza savurăm liniștea mănăstirii franciscane și aerul curat. Ziua se încheie devreme cu un apus auriu de la cetatea Fortica, înainte ca briza rece de seară să apară.",
+            "en": "A peaceful winter morning at St. Stephen's Square, free from the summer crowds. At noon, the mild Adriatic sun warms the ancient walls of the Arsenal. In the afternoon, enjoy the quiet dignity of the Franciscan monastery and the fresh sea air. The day ends early with a spectacular golden sunset from Fortica fortress before the cool evening breeze sets in."
+          },
+          "stops": [
+            {
+              "name": "Sankt-Stephan-Platz",
+              "tip_5lang": {
+                "de": "Genießen Sie die Leere des Platzes; im Winter gehört er den Einheimischen.",
+                "hu": "Élvezze az üres teret; télen a helyieké a főszerep.",
+                "ro": "Bucurați-vă de piața goală; iarna aparține localnicilor.",
+                "en": "Enjoy the empty square; in winter, it truly belongs to the locals."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Stephan",
+              "tip_5lang": {
+                "de": "Im Inneren ist es oft wärmer als draußen in den zugigen Gassen.",
+                "hu": "Bent gyakran melegebb van, mint a szeles sikátorokban.",
+                "ro": "În interior este adesea mai cald decât pe străzile bătute de vânt.",
+                "en": "It is often warmer inside than out in the drafty narrow streets."
+              }
+            },
+            {
+              "name": "Benediktinerinnenkloster",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten, sie sind oft verkürzt.",
+                "hu": "Ellenőrizze a téli nyitvatartást, gyakran rövidebb ideig látogatható.",
+                "ro": "Verificați programul de iarnă, adesea este mai scurt.",
+                "en": "Check the winter opening hours, they are often shorter than in summer."
+              }
+            },
+            {
+              "name": "Arsenal und Theater",
+              "tip_5lang": {
+                "de": "Ein geschichtsträchtiger Ort, der im Winter besonders andächtig wirkt.",
+                "hu": "Történelmi helyszín, amely télen különösen méltóságteljes.",
+                "ro": "Un loc plin de istorie care pare mult mai solemn în timpul iernii.",
+                "en": "A historic site that feels particularly solemn during the winter months."
+              }
+            },
+            {
+              "name": "Franziskanerkloster",
+              "tip_5lang": {
+                "de": "Der Garten mit der alten Zypresse ist auch im Winter wunderschön.",
+                "hu": "A kert az öreg ciprussal télen is gyönyörű látványt nyújt.",
+                "ro": "Grădina cu chiparosul bătrân este superbă chiar și iarna.",
+                "en": "The garden with the ancient cypress tree is beautiful even in winter."
+              }
+            },
+            {
+              "name": "Festung Fortica",
+              "tip_5lang": {
+                "de": "Seien Sie bis 16:15 Uhr oben, um den Wintersonnenuntergang zu sehen.",
+                "hu": "Érjen fel 16:15-re, hogy elcsípje a téli naplementét.",
+                "ro": "Ajungeți sus până la 16:15 pentru a vedea apusul de iarnă.",
+                "en": "Be at the top by 4:15 PM to catch the spectacular winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Hvar ist eine der sonnigsten Inseln, aber im Schatten bleibt es im Winter kühl.",
+              "Viele Restaurants haben Winterpause; suchen Sie Plätze, wo Einheimische essen.",
+              "Die Sonne geht gegen 16:30 Uhr unter; planen Sie Ihren Tag frühzeitig.",
+              "Der Bura-Wind kann sehr kalt sein; eine windfeste Jacke ist ein Muss.",
+              "Im Winter ist die Luft extrem klar, perfekt für Panoramafotos von der Fortica."
+            ],
+            "hu": [
+              "Hvar az egyik legnaposabb sziget, de árnyékban télen hűvös marad az idő.",
+              "Sok étterem zárva tart; keresse azokat a helyeket, ahol a helyiek esznek.",
+              "A nap 16:30 körül nyugszik; kezdje korán a városnézést.",
+              "A Bura szél nagyon hideg lehet; egy szélálló dzseki elengedhetetlen.",
+              "Télen a levegő rendkívül tiszta, tökéletes panorámafotókhoz a várból."
+            ],
+            "ro": [
+              "Hvar este una dintre cele mai însorite insule, dar la umbră rămâne răcoare iarna.",
+              "Multe restaurante sunt închise; căutați localurile unde mănâncă rezidenții.",
+              "Soarele apune în jur de ora 16:30; planificați-vă vizitele de dimineață.",
+              "Vântul Bura poate fi foarte tăios; o jachetă rezistentă la vânt este necesară.",
+              "Iarna aerul este extrem de clar, ideal pentru fotografii panoramice de la cetate."
+            ],
+            "en": [
+              "Hvar is the sunniest island, but it remains chilly in the shade during winter.",
+              "Many tourist restaurants are closed; look for spots where the locals eat.",
+              "Sunset is around 4:30 PM; start your sightseeing early to maximize daylight.",
+              "The Bura wind can be very cold; a windproof jacket is an absolute must.",
+              "In winter, the air is extremely clear, perfect for panoramic photos from the fortress."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -500,6 +914,337 @@
           "Some alleys in the old town are pedestrian zones.",
           "Check your brakes before descending from the fortress."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Hvar auf zwei Rädern. Wir starten an der Pjaca und fahren entlang der Küste zum Franziskanerkloster. Danach radeln wir zur idyllischen Bucht Pokonji Dol für ein erfrischendes Bad. Zurück in der Stadt besuchen wir das Arsenal, bevor wir den anstrengenden, aber lohnenden Weg zur Festung Fortica antreten, um den Tag mit einem Blick über die Inseln zu krönen.",
+            "hu": "Fedezze fel Hvart két keréken. A Pjacáról indulva a part mentén tekerünk a ferences kolostorig. Ezután az idilli Pokonji Dol öböl felé vesszük az irányt egy frissítő csobbanásra. Visszatérve a városba megnézzük az Arzenált, majd következik a fárasztó, de megérős tekerés fel a várba, hogy a napot a szigetekre nyíló kilátással zárjuk.",
+            "ro": "Explorați Hvar pe două roți. Începem din Pjaca și mergem de-a lungul coastei până la mănăstirea franciscană. Apoi pedalăm spre golful idilic Pokonji Dol pentru o baie răcoritoare. Înapoi în oraș vizităm Arsenalul, înainte de a începe drumul obositor, dar plin de satisfacții spre cetate, pentru a încheia ziua cu o priveliște asupra insulelor.",
+            "en": "Explore Hvar on two wheels. Starting from Pjaca, we ride along the coast to the Franciscan monastery. Then we cycle to the idyllic Pokonji Dol bay for a refreshing swim. Back in town, we visit the Arsenal before the strenuous but rewarding ride up to the Fortica fortress to crown the day with a view over the islands."
+          },
+          "stops": [
+            {
+              "name": "Sankt-Stephan-Platz",
+              "tip_5lang": {
+                "de": "Startpunkt an der Uferpromenade.",
+                "hu": "Kezdje a túrát a tengerparti sétányon.",
+                "ro": "Punct de plecare pe faleza mării.",
+                "en": "Start point at the seaside promenade."
+              }
+            },
+            {
+              "name": "Franziskanerkloster",
+              "tip_5lang": {
+                "de": "Leicht erreichbar über die flache Uferstraße.",
+                "hu": "Könnyen elérhető a lapos parti úton.",
+                "ro": "Ușor accesibil prin drumul plat de pe coastă.",
+                "en": "Easily accessible via the flat coastal road."
+              }
+            },
+            {
+              "name": "Pokonji Dol Beach",
+              "tip_5lang": {
+                "de": "Ein schöner Strandweg führt von der Stadt hierher.",
+                "hu": "Gyönyörű tengerparti út vezet ide a városból.",
+                "ro": "O potecă frumoasă pe coastă duce aici din oraș.",
+                "en": "A beautiful coastal path leads here from the town."
+              }
+            },
+            {
+              "name": "Arsenal und Theater",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad sicher am Hafen ab.",
+                "hu": "Zárja le biztonságosan kerékpárját a kikötőben.",
+                "ro": "Parcați bicicleta în siguranță lângă port.",
+                "en": "Lock your bike safely near the harbor."
+              }
+            },
+            {
+              "name": "Spanische Festung",
+              "tip_5lang": {
+                "de": "Harter Anstieg, aber die Abfahrt macht Spaß.",
+                "hu": "Kemény emelkedő, de a lefelé út kárpótol.",
+                "ro": "Urcare grea, dar coborârea este distractivă.",
+                "en": "Tough climb, but the descent is fun."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Eisdiele am Hafen",
+                "tip": "Perfekte Erfrischung nach dem Radfahren."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötői fagyizó",
+                "tip": "Tökéletes felfrissülés a kerékpározás után."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Înghețată în port",
+                "tip": "Răcorire perfectă după ciclism."
+              }
+            ],
+            "en": [
+              {
+                "name": "Harbor Ice Cream",
+                "tip": "Perfect refreshment after cycling."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pokonji Dol",
+                "tip": "Frühmorgens sehr ruhig und friedlich.",
+                "emoji": "🏖️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pokonji Dol",
+                "tip": "Kora reggel nagyon csendes és békés.",
+                "emoji": "🌊"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pokonji Dol",
+                "tip": "Foarte liniștit și pașnic dimineața devreme.",
+                "emoji": "🏖️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pokonji Dol",
+                "tip": "Very quiet and peaceful early in the morning.",
+                "emoji": "🏖️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Fahrradverleih",
+                "tip": "Mieten Sie ein E-Bike für die steilen Hügel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kerékpárkölcsönző",
+                "tip": "Béreljen e-bike-ot a meredek dombokhoz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Închirieri biciclete",
+                "tip": "Închiriați o bicicletă electrică pentru dealurile abrupte."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bike Rental",
+                "tip": "Rent an e-bike for the steep hills."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Meiden Sie die Mittagshitze beim Aufstieg zur Festung.",
+              "Einige Gassen in der Altstadt sind Fußgängerzonen.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt von der Fortica."
+            ],
+            "hu": [
+              "Kerülje a déli hőséget a várba való feljutáskor.",
+              "Az óváros egyes utcái gyalogos övezetek.",
+              "Ellenőrizze a fékeket a várból való leereszkedés előtt."
+            ],
+            "ro": [
+              "Evitați căldura de la prânz când urcați la cetate.",
+              "Unele străzi din centrul vechi sunt zone pietonale.",
+              "Verificați frânele înainte de a coborî de la cetate."
+            ],
+            "en": [
+              "Avoid the midday heat when climbing to the fortress.",
+              "Some alleys in the old town are pedestrian zones.",
+              "Check your brakes before descending from the fortress."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Radtour entlang der Küste eine erfrischende Perspektive. Der Vormittag führt uns zum Franziskanerkloster, während die Tropfen auf das Meer fallen. Mittags erreichen wir den Pokonji Dol Strand, wo das graue Meer eine wilde Schönheit zeigt. Nachmittags finden wir Schutz im Arsenal, bevor wir die Festung bei feuchter, klarer Luft erklimmen.",
+            "hu": "Az eső ellenére a parti kerékpározás frissítő élményt nyújt. Délelőtt a ferences kolostorhoz tekerünk, miközben az esőcseppek a tengerbe hullanak. Délben a Pokonji Dol strandnál a szürke tenger vad szépségét csodáljuk. Délután az Arzenálban keresünk menedéket, majd a friss, párás levegőben hódítjuk meg a várat.",
+            "ro": "În ciuda ploii, tura cu bicicleta pe coastă oferă o perspectivă revigorantă. Dimineața mergem spre mănăstirea franciscană, ascultând picăturile în mare. La prânz ajungem la plaja Pokonji Dol, unde marea cenușie are o frumusețe sălbatică. După-amiaza ne adăpostim în Arsenal, înainte de a urca spre cetate în aerul umed.",
+            "en": "Despite the rain, cycling along the coast offers a refreshing perspective of Hvar. Spend the morning riding to the Franciscan monastery as rain hits the sea. At noon, visit Pokonji Dol beach to witness the wild beauty of a stormy Adriatic. In the afternoon, retreat to the Arsenal before a damp but scenic climb to the Spanish Fortress."
+          },
+          "stops": [
+            {
+              "name": "Sankt-Stephan-Platz",
+              "tip_5lang": {
+                "de": "Bremsen Sie vorsichtig auf dem nassen Pflaster; Rutschgefahr!",
+                "hu": "Fékezzen óvatosan a vizes köveken; nagy a csúszásveszély!",
+                "ro": "Frânați cu mare atenție pe pavajul ud; risc ridicat de derapare!",
+                "en": "Brake very carefully on the wet pavement; high risk of slipping!"
+              }
+            },
+            {
+              "name": "Franziskanerkloster",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Bäumen nahe dem Eingang ab.",
+                "hu": "Parkolja le a biciklit a bejárat közeli fák alá.",
+                "ro": "Parcați bicicleta sub copacii de lângă intrare.",
+                "en": "Park your bike under the trees near the entrance for some cover."
+              }
+            },
+            {
+              "name": "Pokonji Dol Beach",
+              "tip_5lang": {
+                "de": "Der Weg zum Strand ist asphaltiert, aber Vorsicht vor Pfützen.",
+                "hu": "Az út a strandhoz aszfaltozott, de vigyázzon a tócsákkal.",
+                "ro": "Drumul spre plajă este asfaltat, dar atenție la bălți.",
+                "en": "The path to the beach is paved, but watch out for deep puddles."
+              }
+            },
+            {
+              "name": "Arsenal und Theater",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Kleidung etwas zu trocknen.",
+                "hu": "Használja ki a megállót a ruházat szárazon tartására.",
+                "ro": "Folosiți această oprire pentru a vă usca puțin echipamentul.",
+                "en": "Use this stop as an opportunity to dry off your gear slightly."
+              }
+            },
+            {
+              "name": "Spanische Festung",
+              "tip_5lang": {
+                "de": "Der Serpentinenweg ist bei Regen anstrengender, aber griffig.",
+                "hu": "A szerpentin esőben fárasztóbb, de az út jól tapad.",
+                "ro": "Drumul în serpentine este mai greu pe ploaie, dar are aderență.",
+                "en": "The serpentine path is tougher in the rain but remains grippy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine komplette Regenmontur; der Wind kühlt nasse Kleidung schnell aus.",
+              "Vermeiden Sie das Bremsen in Kurven auf dem glatten Stadtpflaster.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Abfahrt von der Festung.",
+              "Wischen Sie den Sattel bei jedem Stopp trocken, um Komfort zu bewahren.",
+              "Halten Sie Ausschau nach Cafés mit überdachten Fahrradständern."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot; a szél gyorsan lehűti a vizes ruhát.",
+              "Kerülje a kanyarban való fékezést a csúszós városi köveken.",
+              "A várból való leereszkedés előtt ellenőrizze a fékeket.",
+              "Minden megállónál törölje szárazra a nyerget a kényelem érdekében.",
+              "Keressen olyan kávézókat, ahol fedett biciklitároló van."
+            ],
+            "ro": [
+              "Purtați echipament complet impermeabil; vântul răcește rapid hainele ude.",
+              "Evitați frânarea în curbe pe pavajul lucios din oraș.",
+              "Verificați saboții de frână înainte de coborârea de la cetate.",
+              "Ștergeți șaua la fiecare oprire pentru a vă menține confortul.",
+              "Căutați cafenele care au rastele de biciclete sub acoperiș."
+            ],
+            "en": [
+              "Wear full waterproof gear; the wind chills wet clothing very quickly.",
+              "Avoid braking while cornering on the slippery city pavement.",
+              "Check your brake pads before descending from the Spanish Fortress.",
+              "Wipe your saddle dry at every stop to maintain riding comfort.",
+              "Look for cafes with covered bike racks or porch areas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen lädt zur Radtour entlang der Riva ein. Die kühle Luft ist belebend, während wir zum Franziskanerkloster radeln. Mittags genießen wir die einsame Weite des Pokonji Dol Strandes unter der Wintersonne. Der Nachmittag gehört der Geschichte im Arsenal, bevor wir die Festung für den frühen Sonnenuntergang erklimmen.",
+            "hu": "A tiszta téli reggel kerékpározásra csábít a Riva mentén. A hűvös levegő élénkítő, miközben a ferences kolostorhoz tekerünk. Délben a Pokonji Dol strand magányos nyugalmát élvezzük a téli napsütésben. A délután az Arzenál történelméé, majd a várból csodáljuk meg a korai naplementét.",
+            "ro": "O dimineață senină de iarnă invită la o tură cu bicicleta pe Riva. Aerul rece este revigorant în drum spre mănăstirea franciscană. La prânz ne bucurăm de plaja Pokonji Dol pustie sub soarele de iarnă. După-amiaza este pentru istorie la Arsenal, terminând cu un apus superb de la cetate.",
+            "en": "A crisp winter morning is perfect for a bike ride along the Riva. The cool air is invigorating as we cycle toward the Franciscan monastery. At noon, enjoy the solitary expanse of Pokonji Dol beach under the winter sun. The afternoon is dedicated to history at the Arsenal, followed by a climb to the fortress for sunset."
+          },
+          "stops": [
+            {
+              "name": "Sankt-Stephan-Platz",
+              "tip_5lang": {
+                "de": "Die Sonne erreicht den Platz im Winter erst spät am Morgen.",
+                "hu": "A nap télen csak késő délelőtt éri el a teret.",
+                "ro": "Soarele ajunge în piață abia târziu în cursul dimineții.",
+                "en": "The sun reaches the square quite late in the morning during winter."
+              }
+            },
+            {
+              "name": "Franziskanerkloster",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine Pause in der windgeschützten Bucht.",
+                "hu": "Tökéletes hely egy pihenőre a szélvédett öbölben.",
+                "ro": "Loc perfect pentru o pauză în golful ferit de vânt.",
+                "en": "A perfect spot for a break in the wind-sheltered bay."
+              }
+            },
+            {
+              "name": "Pokonji Dol Beach",
+              "tip_5lang": {
+                "de": "Nehmen Sie einen Tee in der Thermoskanne für das Picknick mit.",
+                "hu": "Vigyen magával teát termoszban a tengerparti pihenőhöz.",
+                "ro": "Luați un ceai în termos pentru un picnic pe plaja goală.",
+                "en": "Bring a thermos with hot tea for a picnic on the empty beach."
+              }
+            },
+            {
+              "name": "Arsenal und Theater",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen, um sich zwischendurch aufzuwärmen.",
+                "hu": "Nézze meg a kiállításokat, hogy közben kicsit felmelegedjen.",
+                "ro": "Vizitați expozițiile pentru a vă încălzi între etapele de pedalat.",
+                "en": "Visit the exhibitions to warm up between cycling stretches."
+              }
+            },
+            {
+              "name": "Spanische Festung",
+              "tip_5lang": {
+                "de": "Die Abfahrt nach Sonnenuntergang wird sehr schnell sehr kalt.",
+                "hu": "A naplemente utáni legurulás hirtelen nagyon hideg lesz.",
+                "ro": "Coborârea după apus devine foarte rece extrem de rapid.",
+                "en": "The descent after sunset will get very cold very quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten und winddichte Handschuhe für die Abfahrten.",
+              "Die Wintersonne ist stark; vergessen Sie trotz Kälte den Sonnenschutz nicht.",
+              "Achten Sie auf die Bura; bei starkem Nordostwind ist Radfahren riskant.",
+              "Das Tageslicht endet früh; stellen Sie sicher, dass Ihr Licht funktioniert.",
+              "Genießen Sie die Ruhe auf den Wegen, die im Sommer überfüllt sind."
+            ],
+            "hu": [
+              "Viseljen réteges ruházatot és szélálló kesztyűt a lejtőkhöz.",
+              "A téli nap erős; a hideg ellenére ne felejtse el a naptejet.",
+              "Figyeljen a Burára; erős északkeleti szélben a bringázás veszélyes.",
+              "A nappali fény korán véget ér; ellenőrizze a világítást.",
+              "Élvezze az utak nyugalmát, amelyek nyáron zsúfoltak."
+            ],
+            "ro": [
+              "Purtați haine în straturi și mănuși rezistente la vânt pentru coborâri.",
+              "Soarele de iarnă este puternic; nu uitați protecția solară.",
+              "Atenție la Bura; ciclismul este riscant în timpul vântului puternic din NE.",
+              "Lumina zilei se termină devreme; asigurați-vă că farurile funcționează.",
+              "Bucurați-vă de liniștea drumurilor care vara sunt supraaglomerate."
+            ],
+            "en": [
+              "Wear layers and windproof gloves for the fast descents.",
+              "The winter sun is surprisingly strong; use sun protection despite the cold.",
+              "Watch out for the Bura wind; cycling is risky during strong NE gusts.",
+              "Daylight ends early; make sure your bike lights are working properly.",
+              "Enjoy the absolute peace on roads that are packed during summer."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -710,6 +1455,337 @@
           "Be careful on narrow roads in the mountain villages.",
           "Refuel in Hvar town as gas stations are scarce on the island."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ein Roadtrip über die Insel Hvar. Nach dem Besuch der Altstadt fahren wir zur Festung Fortica. Die Reise geht weiter durch die Lavendeldörfer von Brusje nach Stari Grad, der ältesten Stadt Kroatiens. Den Nachmittag verbringen wir in der malerischen Dubovica-Bucht, bevor wir über die kurvenreiche alte Straße mit fantastischen Ausblicken nach Hvar zurückkehren.",
+            "hu": "Autós kirándulás Hvar szigetén. Az óváros megtekintése után felhajtunk a várhoz. Utunk Brusje levendulamezőin keresztül Stari Gradba, Horvátország legrégebbi városába vezet. A délutánt a festői Dubovica-öbölben töltjük, majd a régi szerpentinúton, fantasztikus kilátás mellett térünk vissza Hvar városába.",
+            "ro": "O excursie cu mașina pe insula Hvar. După vizitarea orașului vechi, conducem spre cetate. Călătoria continuă prin satele cu lavandă din Brusje către Stari Grad, cel mai vechi oraș din Croația. Petrecem după-amiaza în pitorescul golf Dubovica, înainte de a ne întoarce la Hvar pe vechiul drum șerpuitor cu vederi fantastice.",
+            "en": "A road trip across Hvar island. After visiting the old town, we drive up to Fortica fortress. The journey continues through the lavender fields of Brusje to Stari Grad, Croatia's oldest town. We spend the afternoon at the picturesque Dubovica bay before returning to Hvar via the scenic old road with fantastic island views."
+          },
+          "stops": [
+            {
+              "name": "Hvar Altstadt",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem großen öffentlichen Parkplatz am Eingang.",
+                "hu": "Parkoljon a város bejáratánál lévő nagy központi parkolóban.",
+                "ro": "Parcați în marea parcare publică de la intrare.",
+                "en": "Park in the large public parking lot at the entrance."
+              }
+            },
+            {
+              "name": "Festung Fortica",
+              "tip_5lang": {
+                "de": "Sie können mit dem Auto fast bis zum Eingang fahren.",
+                "hu": "Autóval szinte a vár bejáratáig fel lehet hajtani.",
+                "ro": "Puteți conduce cu mașina aproape până la intrare.",
+                "en": "You can drive almost to the entrance of the fortress."
+              }
+            },
+            {
+              "name": "Brusje Lavendelfelder",
+              "tip_5lang": {
+                "de": "Besonders im Juni und Juli zur Blütezeit wunderschön.",
+                "hu": "Különösen júniusban és júliusban, virágzáskor csodálatos.",
+                "ro": "Deosebit de frumos în iunie și iulie, în timpul înfloririi.",
+                "en": "Especially beautiful in June and July during the blooming season."
+              }
+            },
+            {
+              "name": "Stari Grad",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Haus von Petar Hektorović (Tvrdalj).",
+                "hu": "Látogassa meg Petar Hektorović reneszánsz nyári lakát.",
+                "ro": "Vizitați casa lui Petar Hektorović (Tvrdalj).",
+                "en": "Visit the house of Petar Hektorović (Tvrdalj)."
+              }
+            },
+            {
+              "name": "Dubovica Beach",
+              "tip_5lang": {
+                "de": "Ein steiler Fußweg führt vom Parkplatz zum Strand hinunter.",
+                "hu": "Meredek gyalogút vezet le a parkolótól a partig.",
+                "ro": "O potecă abruptă duce de la parcare jos la plajă.",
+                "en": "A steep path leads down from the parking lot to the beach."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Kokot",
+                "tip": "In Dol bei Stari Grad, berühmt für Lammfleisch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba Kokot",
+                "tip": "Dol faluban, Stari Grad mellett, híres a báránysültjéről."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Kokot",
+                "tip": "În Dol lângă Stari Grad, renumit pentru carnea de miel."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Kokot",
+                "tip": "In Dol near Stari Grad, famous for its lamb dishes."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Brusje Stille",
+                "tip": "Einsame Straßen mit Blick auf das Meer.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Brusje csendje",
+                "tip": "Magányos utak a levendulamezők között.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Liniștea din Brusje",
+                "tip": "Drumuri solitare cu vedere spre mare.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Brusje Solitude",
+                "tip": "Lonely roads with views of the sea.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Stari Grad Markt",
+                "tip": "Frisches Olivenöl und Honig direkt vom Erzeuger."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Stari Gradi piac",
+                "tip": "Friss olívaolaj és méz közvetlenül a termelőktől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața din Stari Grad",
+                "tip": "Ulei de măsline proaspăt și miere direct de la producător."
+              }
+            ],
+            "en": [
+              {
+                "name": "Stari Grad Market",
+                "tip": "Fresh olive oil and honey directly from producers."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die alte Straße nach Stari Grad bietet die besten Aussichten.",
+              "Vorsicht vor schmalen Straßen in den Bergdörfern.",
+              "Tanken Sie in Hvar Stadt, da es nur wenige Tankstellen gibt."
+            ],
+            "hu": [
+              "A Stari Gradba vezető régi út kínálja a legjobb kilátást.",
+              "Vigyázzon a szűk utakra a hegyi falvakban.",
+              "Tankoljon Hvar városában, mert kevés a benzinkút a szigeten."
+            ],
+            "ro": [
+              "Vechiul drum spre Stari Grad oferă cele mai bune priveliști.",
+              "Atenție la drumurile înguste din satele de munte.",
+              "Alimentați în orașul Hvar, deoarece sunt puține benzinării."
+            ],
+            "en": [
+              "The old road to Stari Grad offers the best scenic views.",
+              "Be careful on narrow roads in the mountain villages.",
+              "Refuel in Hvar town as gas stations are scarce on the island."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen auf Hvar bedeutet dramatische Landschaften vom Auto aus. Vormittags erkunden wir die Altstadt und die Festung Fortica, geschützt durch kurze Wege. Mittags fahren wir durch die nebligen Lavendelfelder von Brusje nach Stari Grad. Der Nachmittag endet an der Bucht von Dubovica, wo man das Meer gemütlich aus dem trockenen Wagen beobachten kann.",
+            "hu": "Az eső Hvaron drámai tájakat ígér az autóablakból. Délelőtt a várost és a Fortica várat fedezzük fel, minimalizálva a gyaloglást. Délben Brusje ködös levendulamezőin át Stari Gradba hajtunk. A délután a Dubovica-öbölnél zárul, ahol a száraz autóból figyelhetjük a hullámzó tengert.",
+            "ro": "Ploaia în Hvar aduce peisaje dramatice văzute din mașină. Dimineața explorăm orașul și cetatea Fortica, minimizând mersul pe jos. La prânz conducem prin câmpurile de lavandă cețoase spre Stari Grad. După-amiaza se încheie la golful Dubovica, privind marea din confortul mașinii.",
+            "en": "Rain on Hvar creates dramatic scenery best enjoyed from a car. Spend the morning in the old town and Fortica, using the vehicle to stay dry between stops. At noon, drive through the misty lavender fields of Brusje to Stari Grad. End the afternoon at Dubovica bay, watching the rain hit the sea from your dry car seat."
+          },
+          "stops": [
+            {
+              "name": "Hvar Altstadt",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus am Eingang, um trocken in die Stadt zu kommen.",
+                "hu": "Parkoljon a bejáratnál lévő parkolóházban, hogy szárazon jusson a városba.",
+                "ro": "Parcați în garajul de la intrare pentru a ajunge uscat în centru.",
+                "en": "Park in the garage at the entrance to reach the town center dry."
+              }
+            },
+            {
+              "name": "Festung Fortica",
+              "tip_5lang": {
+                "de": "Man kann fast bis ganz nach oben fahren; ideal bei Regen.",
+                "hu": "Szinte egészen a kapuig fel lehet hajtani; ideális esőben.",
+                "ro": "Puteți conduce aproape până la intrare; ideal pe timp de ploaie.",
+                "en": "You can drive almost all the way to the top; ideal for rainy days."
+              }
+            },
+            {
+              "name": "Brusje Lavendelfelder",
+              "tip_5lang": {
+                "de": "Die schmale Straße kann bei Regen rutschig und neblig sein.",
+                "hu": "A keskeny út esőben csúszós és ködös lehet.",
+                "ro": "Drumul îngust poate fi alunecos și cețos pe ploaie.",
+                "en": "The narrow road can be slippery and misty during rainfall."
+              }
+            },
+            {
+              "name": "Stari Grad",
+              "tip_5lang": {
+                "de": "Die Arkaden am Ufer bieten guten Schutz beim Spaziergang.",
+                "hu": "A parti árkádok jó védelmet nyújtanak séta közben.",
+                "ro": "Arcadele de pe mal oferă protecție bună în timpul plimbării.",
+                "en": "The waterfront arcades offer good shelter during a stroll."
+              }
+            },
+            {
+              "name": "Dubovica Beach",
+              "tip_5lang": {
+                "de": "Der Abstieg zum Strand ist bei Regen steil und rutschig.",
+                "hu": "A strandra vezető lejtő esőben meredek és csúszós.",
+                "ro": "Coborârea spre plajă este abruptă și alunecă pe ploaie.",
+                "en": "The descent to the beach is steep and very slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie auf den schmalen Inselstraßen bei Nässe besonders vorsichtig.",
+              "Das Auto ist die beste Basis, um die verschiedenen Buchten trocken zu erkunden.",
+              "Die Tankstellen befinden sich in Hvar Stadt und Stari Grad.",
+              "Nutzen Sie die Parkplätze direkt an der Fortica, um den Fußweg zu verkürzen.",
+              "Halten Sie an Aussichtspunkten; Regenwolken über den Inseln sind fotogen."
+            ],
+            "hu": [
+              "A szűk szigeti utakon vezessen különösen óvatosan esős időben.",
+              "Az autó a legjobb bázis az öblök száraz felfedezéséhez.",
+              "Benzinkutak csak Hvar városában és Stari Gradban találhatók.",
+              "Parkoljon közvetlenül a Fortica várnál, hogy lerövidítse a gyalogutat.",
+              "Álljon meg a kilátópontoknál; a felhők a szigetek felett nagyon látványosak."
+            ],
+            "ro": [
+              "Conduceți cu prudență sporită pe drumurile înguste ale insulei când plouă.",
+              "Mașina este cea mai bună bază pentru a explora diversele golfuri fără a vă uda.",
+              "Benziăriile se află doar în orașul Hvar și în Stari Grad.",
+              "Folosiți parcarea de lângă cetatea Fortica pentru a minimiza mersul pe jos.",
+              "Opriți la punctele panoramice; norii de ploaie peste insule sunt foarte fotogenici."
+            ],
+            "en": [
+              "Drive with extra caution on narrow island roads during wet conditions.",
+              "A car is the best base for exploring various bays while staying dry.",
+              "Gas stations are only available in Hvar Town and Stari Grad.",
+              "Use the parking lot right by Fortica fortress to minimize walking in the rain.",
+              "Stop at viewpoints; rain clouds over the Pakleni islands are very photogenic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter auf Hvar bietet leere Straßen und weite Ausblicke. Der Vormittag gehört der Altstadt und der Festung Fortica in der milden Sonne. Mittags führt die Panoramafahrt über Brusje nach Stari Grad, vorbei an schlafenden Lavendelfeldern. Den Nachmittag genießen wir am Dubovica Strand, der im Winter vollkommen verlassen und friedlich ist.",
+            "hu": "A téli Hvar üres utakat és tágas kilátást kínál. A délelőtt a városé és a Fortica váré a lágy napsütésben. Délben panorámás út vezet Brusjén át Stari Gradba, az alvó levendulamezők mellett. A délutánt a Dubovica strandon zárjuk, amely télen teljesen elhagyatott és békés.",
+            "ro": "Iarna în Hvar oferă drumuri libere și vederi panoramice superbe. Dimineața este pentru oraș și cetate sub soarele blând. La prânz, drumul panoramic prin Brusje spre Stari Grad trece pe lângă câmpurile de lavandă. După-amiaza se încheie la plaja Dubovica, pustie și liniștită.",
+            "en": "Winter on Hvar means empty roads and endless vistas. Spend the morning exploring the old town and Fortica under the mild sun. At noon, take the scenic drive through Brusje to Stari Grad past sleeping lavender fields. End the afternoon at Dubovica beach, which is perfectly deserted and peaceful in winter."
+          },
+          "stops": [
+            {
+              "name": "Hvar Altstadt",
+              "tip_5lang": {
+                "de": "Parken ist im Winter viel einfacher und oft günstiger.",
+                "hu": "A parkolás télen sokkal egyszerűbb és gyakran olcsóbb.",
+                "ro": "Parcarea este mult mai ușoară și adesea mai ieftină iarna.",
+                "en": "Parking is much easier and often cheaper during the winter months."
+              }
+            },
+            {
+              "name": "Festung Fortica",
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick ohne die sommerlichen Menschenmassen.",
+                "hu": "Élvezze a panorámát a nyári tömeg nélkül.",
+                "ro": "Bucurați-vă de panorama superbă fără mulțimile de vară.",
+                "en": "Enjoy the panoramic view without the typical summer crowds."
+              }
+            },
+            {
+              "name": "Brusje Lavendelfelder",
+              "tip_5lang": {
+                "de": "Im Winter blüht der Lavendel nicht, aber die Aussicht ist fantastisch.",
+                "hu": "Télen a levendula nem virágzik, de a kilátás fantasztikus.",
+                "ro": "Iarna lavanda nu este înflorită, dar priveliștea este fantastică.",
+                "en": "Lavender isn't in bloom in winter, but the views remain fantastic."
+              }
+            },
+            {
+              "name": "Stari Grad",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Tvrdalj Schloss; prüfen Sie die Winter-Stunden.",
+                "hu": "Látogasson el a Tvrdalj kastélyba; ellenőrizze a téli órákat.",
+                "ro": "Vizitați castelul Tvrdalj; verificați programul de iarnă.",
+                "en": "Visit the Tvrdalj castle; check the winter opening hours first."
+              }
+            },
+            {
+              "name": "Dubovica Beach",
+              "tip_5lang": {
+                "de": "Ein einsamer Spaziergang am Kiesstrand ist im Winter magisch.",
+                "hu": "Egy magányos séta a kavicsos strandon télen varázslatos.",
+                "ro": "O plimbare solitară pe plaja cu pietriș este magică iarna.",
+                "en": "A solitary walk on the pebble beach is magical during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht bei starkem Wind (Bura) auf den Bergstraßen.",
+              "Die alte Straße über Brusje ist schöner als der Tunnel.",
+              "Tanken Sie rechtzeitig; im Winter haben weniger Stationen lange auf.",
+              "Die Sonne geht früh unter; beenden Sie Fahrten über die Berge vor 17 Uhr.",
+              "Nutzen Sie die klare Winterluft für weite Fernsichten bis nach Italien."
+            ],
+            "hu": [
+              "Erős szél (Bura) esetén vezessen óvatosan a hegyi utakon.",
+              "A Brusjén átvezető régi út sokkal szebb, mint a modern alagút.",
+              "Tankoljon időben; télen kevesebb benzinkút tart nyitva hosszan.",
+              "A nap korán nyugszik; fejezze be a hegyi vezetést 17 óra előtt.",
+              "Használja ki a tiszta téli levegőt a távoli kilátáshoz."
+            ],
+            "ro": [
+              "Atenție la rafalele de vânt (Bura) pe drumurile de munte.",
+              "Drumul vechi prin Brusje este mult mai pitoresc decât tunelul.",
+              "Alimentați din timp; iarna puține stații au program prelungit.",
+              "Soarele apune devreme; terminați condusul montan înainte de ora 17:00.",
+              "Profită de aerul curat pentru vederi clare până spre Italia."
+            ],
+            "en": [
+              "Be careful with strong wind gusts (Bura) on high mountain roads.",
+              "The old road via Brusje is far more scenic than taking the tunnel.",
+              "Refuel early; fewer gas stations have late hours in the winter season.",
+              "Sunset is early; aim to finish mountain driving before 5:00 PM.",
+              "Take advantage of the clear winter air for views reaching Italy."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -902,6 +1978,310 @@
           "Keep your return ticket safe.",
           "Ask the skipper for the time of the last return boat."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Hvar vom Wasser aus. Nach einem Spaziergang über die Pjaca und dem Besuch der Kathedrale und des Arsenals nutzen wir das beste Transportmittel der Insel: das Boot. Ein Taxiboot bringt uns zu den Pakleni-Inseln, wo wir den Nachmittag in kristallklarem Wasser verbringen. Die Rückreise bietet einen unvergleichlichen Blick auf die Skyline von Hvar Stadt.",
+            "hu": "Hvar a víz felől. A Pjaca, a katedrális és az Arzenál megtekintése után igénybe vesszük a sziget legjobb közlekedési eszközét: a hajót. Egy taxihajó átvisz minket a Pakleni-szigetekre, ahol a délutánt kristálytiszta vízben töltjük. A visszaút során páratlan kilátás nyílik Hvar városának sziluettjére.",
+            "ro": "Hvar de pe apă. După o plimbare prin Pjaca și vizitarea catedralei și a Arsenalului, folosim cel mai bun mijloc de transport de pe insulă: barca. Un taxi boat ne duce la insulele Pakleni, unde petrecem după-amiaza în ape cristaline. Călătoria de întoarcere oferă o vedere de neegalat asupra orizontului orașului Hvar.",
+            "en": "Hvar from the water. After a walk through Pjaca and visiting the cathedral and Arsenal, we use the island's best mode of transport: the boat. A taxi boat takes us to the Pakleni Islands, where we spend the afternoon in crystal-clear water. The return trip offers an unparalleled view of Hvar town's skyline."
+          },
+          "stops": [
+            {
+              "name": "Sankt-Stephan-Platz",
+              "tip_5lang": {
+                "de": "Zentraler Treffpunkt für alle Touren.",
+                "hu": "Központi találkozóhely minden túrához.",
+                "ro": "Punct de întâlnire central pentru toate tururile.",
+                "en": "Central meeting point for all island tours."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Stephan",
+              "tip_5lang": {
+                "de": "Das Wahrzeichen der Stadt direkt am Platz.",
+                "hu": "A város jelképe közvetlenül a főtéren.",
+                "ro": "Simbolul orașului situat direct în piață.",
+                "en": "The landmark of the city directly on the square."
+              }
+            },
+            {
+              "name": "Arsenal und Theater",
+              "tip_5lang": {
+                "de": "Direkt neben dem Hafenbecken gelegen.",
+                "hu": "Közvetlenül a kikötő mellett található.",
+                "ro": "Situat direct lângă bazinul portului.",
+                "en": "Located directly next to the harbor basin."
+              }
+            },
+            {
+              "name": "Pakleni-Inseln",
+              "tip_5lang": {
+                "de": "Nehmen Sie ein Taxiboot vom Hauptkai.",
+                "hu": "Szálljon fel egy taxihajóra a fő mólónál.",
+                "ro": "Luați un taxi boat de la debarcaderul principal.",
+                "en": "Take a taxi boat from the main pier."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Strandbars auf Jerolim",
+                "tip": "Entspannte Atmosphäre mit Cocktails und Snacks."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Jerolim strandbárjai",
+                "tip": "Laza hangulat koktélokkal és könnyű ételekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Baruri de plajă pe Jerolim",
+                "tip": "Atmosferă relaxată cu cocktailuri și gustări."
+              }
+            ],
+            "en": [
+              {
+                "name": "Jerolim Beach Bars",
+                "tip": "Relaxed atmosphere with cocktails and snacks."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pakleni Buchten",
+                "tip": "Finden Sie Ihre eigene kleine Bucht zum Entspannen.",
+                "emoji": "🏝️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pakleni öblök",
+                "tip": "Keressen saját kis öblöt a teljes nyugalomhoz.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Golful Pakleni",
+                "tip": "Găsiți-vă propriul golfuleț pentru relaxare.",
+                "emoji": "🏝️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pakleni Bays",
+                "tip": "Find your own little bay for total relaxation.",
+                "emoji": "🏝️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Ticketschalter am Hafen",
+                "tip": "Kaufen Sie Hin- und Rückfahrkarten für die Boote."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötői jegypénztár",
+                "tip": "Vásároljon retúrjegyet a taxihajókra."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Casa de bilete din port",
+                "tip": "Cumpărați bilete dus-întors pentru bărci."
+              }
+            ],
+            "en": [
+              {
+                "name": "Harbor Ticket Office",
+                "tip": "Buy return tickets for the taxi boats."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Taxiboote fahren im Sommer alle 20-30 Minuten.",
+              "Bewahren Sie Ihr Rückfahrticket gut auf.",
+              "Fragen Sie den Skipper nach der letzten Rückfahrtzeit."
+            ],
+            "hu": [
+              "A taxihajók nyáron 20-30 percenként indulnak.",
+              "Őrizze meg jól a visszatérésre szóló jegyét.",
+              "Kérdezze meg a kapitányt az utolsó hajó indulásáról."
+            ],
+            "ro": [
+              "Taxi-urile pe apă circulă la fiecare 20-30 de minute vara.",
+              "Păstrați biletul de întoarcere în siguranță.",
+              "Întrebați căpitanul despre ora ultimei curse de întoarcere."
+            ],
+            "en": [
+              "Taxi boats run every 20-30 minutes during summer.",
+              "Keep your return ticket safe.",
+              "Ask the skipper for the time of the last return boat."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Tag in Hvar lässt sich gut mit den lokalen Bussen und Fähren meistern. Vormittags erkunden wir den Stephansplatz und die Kathedrale, ideal bei kurzen Schauern. Mittags bietet das Arsenal ein kulturelles Dach über dem Kopf. Nachmittags nehmen wir das Boot zu den Pakleni-Inseln, wo der Regen auf das Meer eine beruhigende Atmosphäre schafft.",
+            "hu": "Egy esős nap Hvaron jól kezelhető a helyi buszokkal és hajókkal. Délelőtt a Szent István teret és a katedrálist nézzük meg, kihasználva a fedett részeket. Délben az Arzenál nyújt védelmet. Délután hajóval megyünk a Pakleni-szigetekre, ahol a tengerre hulló eső különleges, megnyugtató hangulatot áraszt.",
+            "ro": "O zi ploioasă în Hvar poate fi parcursă ușor cu autobuzele locale și bărcile. Dimineața vedem Piața Sf. Ștefan și catedrala. La prânz, Arsenalul ne oferă protecție culturală sub acoperiș. După-amiaza luăm barca spre insulele Pakleni, unde ploaia peste mare creează o atmosferă relaxantă.",
+            "en": "A rainy day in Hvar is manageable using local buses and water taxis. Spend the morning at St. Stephen's Square and the cathedral, moving between dry spots. At noon, the Arsenal provides a perfect cultural shelter. In the afternoon, take a boat to the Pakleni Islands, where the rain on the water creates a unique, peaceful vibe."
+          },
+          "stops": [
+            {
+              "name": "Sankt-Stephan-Platz",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nur wenige Gehminuten vom Platz entfernt.",
+                "hu": "A buszmegálló mindössze néhány perc sétára van a tértől.",
+                "ro": "Stația de autobuz este la doar câteva minute de mers pe jos.",
+                "en": "The bus station is just a few minutes' walk from the square."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Stephan",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Platz bringt Sie trocken in die Kirche.",
+                "hu": "Egy rövid futás a térről, és máris szárazon van a templomban.",
+                "ro": "Un scurt sprint din piață vă duce la adăpost în catedrală.",
+                "en": "A quick sprint from the square will get you dry inside the church."
+              }
+            },
+            {
+              "name": "Arsenal und Theater",
+              "tip_5lang": {
+                "de": "Direkt am Hafen gelegen, ideal erreichbar mit dem Wassertaxi.",
+                "hu": "Közvetlenül a kikötőben van, vízitaxival is könnyen elérhető.",
+                "ro": "Situat direct în port, este ușor accesibil cu taxiul pe apă.",
+                "en": "Located right at the harbor, easily reached by water taxi."
+              }
+            },
+            {
+              "name": "Pakleni-Inseln",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass das Boot eine überdachte Kabine hat.",
+                "hu": "Győződjön meg róla, hogy a hajónak van fedett utastere.",
+                "ro": "Asigurați-vă că barca are o cabină acoperită pentru pasageri.",
+                "en": "Make sure the boat you take has a covered cabin for passengers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie bei Regen die Fährverbindungen; bei Sturm können sie ausfallen.",
+              "Die Busse zwischen Hvar und Stari Grad fahren seltener als im Sommer.",
+              "Warten Sie unter den Arkaden des Arsenals auf Ihr Wassertaxi.",
+              "Tragen Sie rutschfeste Schuhe für den Ein- und Ausstieg auf die Boote.",
+              "Einige Boote zu den Pakleni-Inseln fahren bei starkem Regen nicht."
+            ],
+            "hu": [
+              "Esőben ellenőrizze a hajójáratokat; vihar esetén elmaradhatnak.",
+              "A Hvar és Stari Grad közötti buszok ritkábban járnak, mint nyáron.",
+              "Várja a vízitaxit az Arzenál árkádjai alatt.",
+              "Viseljen csúszásmentes talpú cipőt a hajóra való fel- és leszálláshoz.",
+              "Heves esőzés vagy szél esetén egyes Pakleni-járatok szünetelhetnek."
+            ],
+            "ro": [
+              "Verificați orarul feriboturilor; cursele pot fi anulate pe furtună.",
+              "Autobuzele între Hvar și Stari Grad circulă mai rar iarna/pe ploaie.",
+              "Așteptați taxiul pe apă sub arcadele Arsenalului pentru a rămâne uscat.",
+              "Purtați încălțăminte aderentă pentru urcarea și coborârea de pe bărci.",
+              "Unele bărci spre insulele Pakleni nu circulă în condiții de ploaie densă."
+            ],
+            "en": [
+              "Check ferry schedules; services can be cancelled during stormy weather.",
+              "Buses between Hvar and Stari Grad run less frequently than in summer.",
+              "Wait for your water taxi under the shelter of the Arsenal arcades.",
+              "Wear non-slip shoes for safe boarding and disembarking from boats.",
+              "Some smaller boats to the Pakleni Islands may not run during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein ruhiger Wintertag in Hvar mit entspanntem Transit. Vormittags genießen wir den leeren Stephansplatz und die Kathedrale. Mittags erkunden wir das geschichtsträchtige Arsenal ohne Warteschlangen. Der Nachmittag bietet eine erfrischende Bootsfahrt zu den stillen Pakleni-Inseln, perfekt für Naturfreunde, die die Einsamkeit suchen.",
+            "hu": "Csendes téli nap Hvaron, nyugodt közlekedéssel. Délelőtt az üres Szent István teret és a katedrálist élvezzük. Délben sorban állás nélkül fedezzük fel a történelmi Arzenált. A délután egy frissítő hajóutat kínál a néma Pakleni-szigetekre, tökéletes a magányt kedvelő természetbarátoknak.",
+            "ro": "O zi liniștită de iarnă în Hvar cu transport relaxat. Dimineața savurăm Piața Sf. Ștefan și catedrala goale. La prânz explorăm Arsenalul istoric fără cozi. După-amiaza oferă o plimbare cu barca spre insulele Pakleni silențioase, ideale pentru iubitorii de natură.",
+            "en": "A peaceful winter day in Hvar with relaxed transit options. Spend the morning at the empty St. Stephen's Square and the cathedral. At noon, explore the historic Arsenal without any crowds. The afternoon offers a refreshing boat ride to the quiet Pakleni Islands, perfect for nature lovers seeking solitude."
+          },
+          "stops": [
+            {
+              "name": "Sankt-Stephan-Platz",
+              "tip_5lang": {
+                "de": "Im Winter gibt es nur wenige Busverbindungen am Tag.",
+                "hu": "Télen naponta csak néhány buszjárat közlekedik.",
+                "ro": "Iarna există doar câteva curse de autobuz pe zi.",
+                "en": "There are only a few bus departures per day during the winter."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Stephan",
+              "tip_5lang": {
+                "de": "Ideal, um die Stille und die sakrale Kunst in Ruhe zu genießen.",
+                "hu": "Ideális hely a csend és a szakrális művészet élvezetére.",
+                "ro": "Ideal pentru a savura liniștea și arta sacră în tihnă.",
+                "en": "Ideal for enjoying the silence and sacred art without interruption."
+              }
+            },
+            {
+              "name": "Arsenal und Theater",
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort, um der kühlen Winterbrise zu entkommen.",
+                "hu": "Csodálatos hely, hogy elmeneküljünk a hűvös téli szél elől.",
+                "ro": "Un loc minunat pentru a scăpa de briza rece de iarnă.",
+                "en": "A wonderful indoor site to escape the chilly winter breeze."
+              }
+            },
+            {
+              "name": "Pakleni-Inseln",
+              "tip_5lang": {
+                "de": "Nur wenige Boote fahren im Winter; buchen Sie im Voraus.",
+                "hu": "Télen csak kevés hajó jár; foglaljon előre vagy érdeklődjön.",
+                "ro": "Puține bărci circulă iarna; verificați disponibilitatea în port.",
+                "en": "Very few boats run in winter; check availability at the harbor early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Busfahrplan ist im Winter stark reduziert; planen Sie genau.",
+              "Die Katamarane nach Split fahren oft nur einmal täglich morgens.",
+              "Wassertaxis zu den Pakleni-Inseln müssen oft telefonisch bestellt werden.",
+              "Tragen Sie warme Kleidung für die Überfahrt auf dem offenen Meer.",
+              "Nutzen Sie die Gelegenheit für Fotos ohne Touristenmassen."
+            ],
+            "hu": [
+              "A buszmenetrend télen jelentősen ritkább; tervezzen pontosan.",
+              "A Splitbe tartó katamaránok gyakran csak reggel egyszer indulnak.",
+              "A Pakleni-szigetekre tartó vízitaxikat gyakran telefonon kell hívni.",
+              "Viseljen meleg ruhát a nyílt vízi hajóutakhoz.",
+              "Használja ki az alkalmat a turistaáradat nélküli fotózáshoz."
+            ],
+            "ro": [
+              "Orarele autobuzelor sunt mult reduse iarna; planificați riguros.",
+              "Catamaranele spre Split circulă adesea doar o dată pe zi, dimineața.",
+              "Taxiurile pe apă spre Pakleni trebuie adesea comandate telefonic.",
+              "Purtați haine groase pentru traversarea pe marea deschisă.",
+              "Bucurați-vă de oportunitatea de a face poze fără mase de turiști."
+            ],
+            "en": [
+              "The bus schedule is significantly reduced in winter; plan carefully.",
+              "Catamarans to Split often run only once daily in the early morning.",
+              "Water taxis to the Pakleni Islands often need to be called by phone.",
+              "Wear very warm clothing for any boat trips on the open sea.",
+              "Take advantage of the lack of crowds for perfect, clear photos."
+            ]
+          }
+        }
       }
     }
   },

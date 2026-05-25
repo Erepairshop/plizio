@@ -290,6 +290,412 @@
           "Visit the main 'Punta' beach early in the morning.",
           "Many 'Klapa' singing events happen in summer."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vormittag: Die engen Gassen der Altstadt und der Aufstieg zur Mirabella-Festung.\n\nMittag: Die Mündung der Cetina und die Schätze des Museums.\n\nNachmittag: Bootsfahrt im Cetina-Canyon oder Ausflug zu den Mühlen.\n\nAbend: Blick auf Meer und Berge bei einem gemütlichen Abendessen.",
+            "hu": "Délelőtt: Az óváros szűk utcái és a Mirabella-erőd megmászása.\n\nDélben: A Cetina-folyó torkolata és a helyi múzeum kincsei.\n\nDélután: Hajókázás a Cetina-kanyonban vagy kirándulás a malmokhoz.\n\nEste: Kilátás a tengerre és a hegyekre egy hangulatos vacsora mellett.",
+            "ro": "Dimineața: Explorarea centrului vechi și urcarea la cetatea Mirabella.\n\nLa prânz: Vizitarea gurii de vărsare a râului Cetina și a muzeului.\n\nDupă-amiaza: Plimbare cu barca în canion sau excursie la morile Radman.\n\nSeara: Admirați vederea spre mare și munți în timpul unei cine relaxante.",
+            "en": "Morning: Explore the old town and climb up to the Mirabella Fortress.\n\nMidday: Visit the mouth of the Cetina River and the local museum.\n\nAfternoon: Boat trip through the Cetina Canyon or visit Radman's Mills.\n\nEvening: Enjoy the views of the sea and mountains over a traditional dinner."
+          },
+          "stops": [
+            {
+              "name": "Stadtmuseum Omiš",
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über die Piratengeschichte.",
+                "hu": "Ismerje meg a kalózok történelmét.",
+                "ro": "Aflați mai multe despre istoria piraților.",
+                "en": "Learn about the local pirate history."
+              }
+            },
+            {
+              "name": "Haus des glücklichen Menschen",
+              "tip_5lang": {
+                "de": "Achten Sie auf die lateinische Inschrift.",
+                "hu": "Figyelje meg a latin feliratot.",
+                "ro": "Observați inscripția în latină.",
+                "en": "Look for the Latin inscription above the door."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Michael",
+              "tip_5lang": {
+                "de": "Die Hauptkirche im Herzen der Altstadt.",
+                "hu": "Az óváros szívének főtemploma.",
+                "ro": "Biserica principală din inima centrului vechi.",
+                "en": "The main church in the heart of the old town."
+              }
+            },
+            {
+              "name": "Festung Mirabella",
+              "tip_5lang": {
+                "de": "Steiler Aufstieg, aber fantastische Aussicht.",
+                "hu": "Meredek lépcsők, de pazar kilátás.",
+                "ro": "Urcare abruptă, dar vedere fantastică.",
+                "en": "Steep climb, but offers a fantastic view."
+              }
+            },
+            {
+              "name": "Pranger-Säulen",
+              "tip_5lang": {
+                "de": "Historischer Ort für öffentliche Strafen.",
+                "hu": "A nyilvános büntetések egykori helyszíne.",
+                "ro": "Loc istoric pentru pedepse publice.",
+                "en": "Historical site for public punishments."
+              }
+            },
+            {
+              "name": "Franziskanerkloster",
+              "tip_5lang": {
+                "de": "Ruhiger Kreuzgang am Rande der Stadt.",
+                "hu": "Nyugodt kerengő a város szélén.",
+                "ro": "Cloșter liniștit la marginea orașului.",
+                "en": "Quiet cloister at the edge of town."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Soparnik",
+                "tip": "Probieren Sie diesen traditionellen Mangoldkuchen."
+              },
+              {
+                "name": "Peka",
+                "tip": "Unter der Glocke gegartes Fleisch oder Tintenfisch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Soparnik",
+                "tip": "Kóstolja meg a hagyományos mángoldos lepényt."
+              },
+              {
+                "name": "Peka",
+                "tip": "Hússütő harang alatt készült hús vagy polip."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Soparnik",
+                "tip": "Gustați plăcinta tradițională cu mangold."
+              },
+              {
+                "name": "Peka",
+                "tip": "Carne sau caracatiță gătită sub clopot."
+              }
+            ],
+            "en": [
+              {
+                "name": "Soparnik",
+                "tip": "Try this traditional chard-filled pie."
+              },
+              {
+                "name": "Peka",
+                "tip": "Meat or octopus cooked under a baking bell."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Brzet Strand",
+                "tip": "Etwas ruhiger als der Hauptstrand.",
+                "emoji": "🏖️"
+              },
+              {
+                "name": "Mirabella Terrasse",
+                "tip": "Toller Ausblick in der Stille.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Brzet strand",
+                "tip": "Kicsit csendesebb, mint a főstrand.",
+                "emoji": "🏖️"
+              },
+              {
+                "name": "Mirabella terasz",
+                "tip": "Nagyszerű kilátás a csendben.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Plaja Brzet",
+                "tip": "Puțin mai liniștită decât plaja principală.",
+                "emoji": "🏖️"
+              },
+              {
+                "name": "Terasa Mirabella",
+                "tip": "Vedere superbă în liniște.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Brzet Beach",
+                "tip": "Slightly quieter than the main beach.",
+                "emoji": "🏖️"
+              },
+              {
+                "name": "Mirabella Terrace",
+                "tip": "Great views in a peaceful setting.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Omiš Markt",
+                "tip": "Honig, Olivenöl und Feigen."
+              },
+              {
+                "name": "Piratensouvenirs",
+                "tip": "Lustige Geschenke für Kinder."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Omiši piac",
+                "tip": "Méz, olívaolaj és füge."
+              },
+              {
+                "name": "Kalóz ajándéktárgyak",
+                "tip": "Mókás ajándékok gyerekeknek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața Omiš",
+                "tip": "Miere, ulei de măsline și smochine."
+              },
+              {
+                "name": "Suveniruri cu pirați",
+                "tip": "Cadouri amuzante pentru copii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Omiš Market",
+                "tip": "Honey, olive oil, and figs."
+              },
+              {
+                "name": "Pirate Souvenirs",
+                "tip": "Fun gifts for children."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Bringen Sie Wasser für den Aufstieg zur Festung mit.",
+              "Die Altstadt ist klein und gut zu Fuß erkundbar.",
+              "Besuchen Sie den Hauptstrand 'Punta' früh am Morgen.",
+              "Im Sommer gibt es viele Klapa-Gesangsabende."
+            ],
+            "hu": [
+              "Vigyen vizet az erődbe való feljutáshoz.",
+              "Az óváros kicsi és könnyen bejárható gyalog.",
+              "A 'Punta' főstrandot korán reggel látogassa meg.",
+              "Nyáron sok Klapa kórusestet tartanak."
+            ],
+            "ro": [
+              "Luați apă pentru urcarea la cetate.",
+              "Orașul vechi e mic și ușor de explorat pe jos.",
+              "Vizitați plaja principală 'Punta' dimineața devreme.",
+              "Vara sunt multe seri de cântări Klapa."
+            ],
+            "en": [
+              "Bring water for the climb to the fortress.",
+              "The old town is compact and easily walkable.",
+              "Visit the main 'Punta' beach early in the morning.",
+              "Many 'Klapa' singing events happen in summer."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Stadtmuseum Omiš den perfekten trockenen Zufluchtsort, um in die faszinierende Piratengeschichte der Region einzutauchen, während draußen der Regen auf das Kopfsteinpflaster trommelt.\n\nMittags erkunden wir die schmalen Gassen der Altstadt, vorbei am Haus des glücklichen Menschen bis zur Kirche des Hl. Michael, wobei die hohen Mauern einen gewissen Schutz vor dem Wind bieten.\n\nNachmittags wagen wir den Aufstieg zur Festung Mirabella; die Steinstufen sind bei Nässe tückisch, aber die Sicht auf die nebelverhangene Cetina-Schlucht ist von hier oben besonders dramatisch.\n\nAbends lassen wir den Tag in einer der gemütlichen, überdachten Tavernen ausklingen, wo der Duft von frischem Fisch und der lokale Rotwein die feuchte Kälte schnell vergessen machen.",
+            "hu": "A reggelt az Omiši Városi Múzeumban kezdjük, amely kiváló menedéket nyújt az eső elől, miközben feltárul előttünk a környék izgalmas kalózmúltja.\n\nDélben az óváros szűk sikátoraiban kalandozunk a Boldog Ember Háza és a Szent Mihály-templom között, ahol a magas kőfalak természetes ernyőként védenek a záporoktól.\n\nDélután, ha az eső alábbhagy, felkapaszkodunk a Mirabella-erődbe; a kőlépcsők ilyenkor csúszósak, de a ködbe burkolózó Cetina-szurdok látványa minden fáradságot megér.\n\nAz estét egy hangulatos, fedett teraszú konobában zárjuk, ahol a helyi borok és a parázson sült ételek mellett pihenhetjük ki a nap izgalmait.",
+            "ro": "Dimineața începe la Muzeul Orașului, un refugiu ideal unde poți descoperi istoria piraților în timp ce ploaia spală străzile vechiului port.\n\nLa prânz, explorăm labirintul de străzi înguste între Casa Omului Fericit și Biserica Sfântul Mihail, profitând de adăpostul oferit de clădirile medievale strâns unite.\n\nDupă-amiaza, urcăm cu prudență spre fortăreața Mirabella; deși treptele sunt alunecoase, panorama dramatică asupra râului Cetina învăluit în ceață este de neuitat.\n\nSeara se încheie într-o tavernă primitoare cu specific local, unde atmosfera caldă și aromele bucătăriei dalmate ne fac să uităm de vremea de afară.",
+            "en": "Morning starts at the Omiš City Museum, a perfect dry sanctuary to explore the local pirate lore while the rain patters on the ancient stone roofs.\n\nAt noon, we navigate the narrow limestone alleys between the House of the Happy Man and St. Michael's Church, where the tight architecture provides natural cover.\n\nIn the afternoon, we carefully ascend to Mirabella Fortress; the steps are slick when wet, but the view of the misty Cetina canyon is exceptionally atmospheric.\n\nThe evening is best spent in a cozy, covered tavern in the heart of the old town, warming up with hearty Dalmatian dishes and local red wine."
+          },
+          "stops": [
+            {
+              "name": "Stadtmuseum Omiš",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den ersten Regenschauer des Tages trocken zu überbrücken.",
+                "hu": "Kiváló helyszín az első reggeli zápor szárazon való átvészelésére.",
+                "ro": "Locul perfect pentru a evita prima repriză de ploaie a zilei.",
+                "en": "Ideal spot to stay dry during the first rain shower of the day."
+              }
+            },
+            {
+              "name": "Haus des glücklichen Menschen",
+              "tip_5lang": {
+                "de": "Die schmale Gasse bietet hier guten Windschutz für ein schnelles Foto.",
+                "hu": "A szűk utca jó szélvédelmet nyújt egy gyors fénykép elkészítéséhez.",
+                "ro": "Strada îngustă oferă protecție bună împotriva vântului pentru o poză.",
+                "en": "The narrow alley provides good wind protection for a quick photo."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Michael",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für eine andächtige Innenbesichtigung.",
+                "hu": "Használja ki az esőszünetet a templombelső csendes felfedezésére.",
+                "ro": "Folosiți pauza de ploaie pentru o vizită liniștită în interior.",
+                "en": "Use the rain break for a peaceful tour of the church interior."
+              }
+            },
+            {
+              "name": "Festung Mirabella",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Stufen! Sie sind bei Nässe extrem rutschig.",
+                "hu": "Vigyázat a lépcsőkön! Esőben rendkívül csúszósak és veszélyesek.",
+                "ro": "Atenție la trepte! Sunt extrem de alunecoase când sunt ude.",
+                "en": "Careful on the steps! They are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Pranger-Säulen",
+              "tip_5lang": {
+                "de": "Ein kurzer geschichtlicher Stopp unter dem Regenschirm.",
+                "hu": "Rövid történelmi megálló, esernyő alatt is gyorsan megtekinthető.",
+                "ro": "O scurtă oprire istorică ce poate fi bifată rapid sub umbrelă.",
+                "en": "A brief historical stop that can be seen quickly under an umbrella."
+              }
+            },
+            {
+              "name": "Franziskanerkloster",
+              "tip_5lang": {
+                "de": "Die Ruhe des Klosters ist bei Regengeräuschen besonders stimmungsvoll.",
+                "hu": "A kolostor csendje az eső kopogásával különleges hangulatot áraszt.",
+                "ro": "Liniștea mănăstirii este deosebită pe fundalul sunetului ploii.",
+                "en": "The monastery's peace is especially atmospheric with the rain sound."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie unbedingt rutschfeste Schuhe, da das Pflaster der Altstadt sehr glatt wird.",
+              "Ein kompakter Regenschirm ist in den engen Gassen praktischer als ein Cape.",
+              "Nutzen Sie die Cafés am Flussufer für kurze Aufwärmpausen zwischen den Stopps.",
+              "Die meisten Museen und Kirchen bieten guten Schutz vor plötzlichen Güssen."
+            ],
+            "hu": [
+              "Mindenképpen csúszásmentes talpú cipőt viseljen az óvárosi köveken.",
+              "A szűk utcákban egy összecsukható esernyő praktikusabb, mint az esőkabát.",
+              "A folyóparti kávézók tökéletesek egy-egy rövid szárítkozásra a megállók között.",
+              "A múzeumok és templomok kiváló menedéket nyújtanak a hirtelen záporok elől."
+            ],
+            "ro": [
+              "Purtați neapărat încălțăminte antiderapantă pe pavajul lucios al orașului.",
+              "O umbrelă compactă este mai utilă decât o pelerină pe străzile înguste.",
+              "Folosiți cafenelele de pe malul râului pentru scurte pauze de uscare.",
+              "Majoritatea muzeelor și bisericilor oferă un adăpost excelent în caz de ploaie."
+            ],
+            "en": [
+              "Be sure to wear non-slip shoes as the old town limestone becomes very slick.",
+              "A compact umbrella is more practical than a poncho in the narrow alleys.",
+              "Take advantage of riverfront cafés for short breaks to dry off between stops.",
+              "Most museums and churches provide good shelter from sudden downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen besichtigen wir das Stadtmuseum fast allein und genießen die Stille der Nebensaison ohne die sommerliche Hitze.\n\nMittags wärmt uns die tiefstehende Sonne am Haus des glücklichen Menschen, während wir durch die menschenleeren Gassen zur Kirche des Hl. Michael spazieren.\n\nNachmittags steigen wir zur Mirabella-Festung auf; die Sicht ist bei dem oft wehenden Bura-Wind unglaublich klar und reicht bis zu den fernen Inseln.\n\nDen Abend verbringen wir bei einem frühen Sonnenuntergang über der Cetina-Mündung, bevor wir uns in eine beheizte Weinstube zurückziehen.",
+            "hu": "Egy tiszta téli reggelen szinte egyedül fedezzük fel a Városi Múzeumot, élvezve a főszezon utáni csendet és a hűvös, friss levegőt.\n\nDélben az alacsonyan járó nap sugarai melegítik az ódon falakat a Boldog Ember Háza környékén, miközben a néptelen utcákon a templom felé tartunk.\n\nDélután a Mirabella-erődbe kapaszkodunk fel; a metsző Bura szél miatt a látótávolság ilyenkor a legjobb, egészen a távoli szigetekig ellátni.\n\nAz estét a Cetina torkolata feletti korai, de gyönyörű naplemente zárja, mielőtt egy fűtött borozóban melegednénk fel.",
+            "ro": "Într-o dimineață senină de iarnă, vizităm Muzeul Orașului aproape singuri, bucurându-ne de liniștea sezonului rece și de lipsa caniculei.\n\nLa prânz, soarele blând luminează Casa Omului Fericit în timp ce ne plimbăm spre biserica principală pe străzile neobișnuit de goale.\n\nDupă-amiaza urcăm la fortăreața Mirabella; vântul Bura curăță cerul, oferind o vizibilitate incredibilă care ajunge până la insulele îndepărtate.\n\nSeara se instalează devreme cu un apus spectaculos peste gura de vărsare a râului Cetina, urmat de o cină caldă într-un local primitor.",
+            "en": "On a crisp winter morning, we explore the City Museum almost solo, relishing the off-season tranquility and the fresh, cool air.\n\nBy noon, the low winter sun warms the stone facades around the House of the Happy Man as we stroll towards St. Michael's Church through empty streets.\n\nIn the afternoon, we hike up to Mirabella; the sharp Bura wind clears the haze, offering unparalleled views that stretch to the distant islands.\n\nThe evening settles in early with a stunning sunset over the Cetina river mouth, before we retreat to a cozy, heated wine cellar."
+          },
+          "stops": [
+            {
+              "name": "Stadtmuseum Omiš",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ausstellungen ohne die sommerlichen Besuchermassen.",
+                "hu": "Élvezze a kiállításokat a nyári látogatói tömeg nélkül.",
+                "ro": "Bucurați-vă de expoziții fără mulțimile de turiști din timpul verii.",
+                "en": "Enjoy the museum exhibits without the usual summer crowds."
+              }
+            },
+            {
+              "name": "Haus des glücklichen Menschen",
+              "tip_5lang": {
+                "de": "Die Inschrift ist im klaren Winterlicht besonders gut zu fotografieren.",
+                "hu": "A felirat a tiszta téli fényben különösen jól fotózható.",
+                "ro": "Inscripția este foarte ușor de fotografiat în lumina clară a iernii.",
+                "en": "The inscription is especially easy to photograph in the clear winter light."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Michael",
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten im Winter einen angenehm windgeschützten Ort.",
+                "hu": "A vastag falak télen is kellemes, szélvédett menedéket nyújtanak.",
+                "ro": "Zidurile groase oferă un loc plăcut și ferit de vânt pe timp de iarnă.",
+                "en": "The thick walls provide a pleasantly wind-sheltered space in winter."
+              }
+            },
+            {
+              "name": "Festung Mirabella",
+              "tip_5lang": {
+                "de": "Halten Sie sich bei starkem Bura-Wind unbedingt an den Geländern fest.",
+                "hu": "Erős Bura szél esetén mindenképpen kapaszkodjon a korlátokba.",
+                "ro": "Folosiți balustradele neapărat dacă vântul Bura bate cu putere.",
+                "en": "Hold onto the railings firmly if the Bura wind is blowing strongly."
+              }
+            },
+            {
+              "name": "Pranger-Säulen",
+              "tip_5lang": {
+                "de": "Ein kühler, aber sonniger Stopp für ein schnelles Erinnerungsfoto.",
+                "hu": "Hűvös, de napsütötte megálló egy gyors emlékfotó elkészítéséhez.",
+                "ro": "O oprire răcoroasă dar însorită pentru o fotografie rapidă.",
+                "en": "A brisk but sunny stop for a quick souvenir photograph."
+              }
+            },
+            {
+              "name": "Franziskanerkloster",
+              "tip_5lang": {
+                "de": "Der Kreuzgang wirkt im tiefstehenden Licht besonders andächtig.",
+                "hu": "A kolostor udvara az alacsony napállásban különösen áhítatos.",
+                "ro": "Curtea mănăstirii pare deosebit de solemnă în lumina joasă a iernii.",
+                "en": "The cloister feels especially solemn in the low winter light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist im Winter bereits gegen 16:30 Uhr; planen Sie früh.",
+              "Kleiden Sie sich nach dem Zwiebelprinzip gegen den kalten Bura-Wind.",
+              "Viele Cafés in der Altstadt haben im Winter verkürzte Öffnungszeiten.",
+              "Die Fernsicht von der Festung ist im Winter oft besser als im Sommer."
+            ],
+            "hu": [
+              "A naplemente télen már 16:30 körül bekövetkezik, tervezzen előre.",
+              "Öltözzön rétegesen a metsző Bura szél elleni védekezésül.",
+              "Sok óvárosi kávézó rövidített nyitvatartással üzemel télen.",
+              "A kilátás az erődből télen gyakran sokkal tisztább, mint nyáron."
+            ],
+            "ro": [
+              "Apusul are loc în jurul orei 16:30; planificați-vă vizitele din timp.",
+              "Îmbrăcați-vă în straturi pentru a vă proteja de vântul tăios Bura.",
+              "Multe cafenele din centrul vechi au program redus pe timpul iernii.",
+              "Vizibilitatea de la fortăreață este adesea mai bună iarna decât vara."
+            ],
+            "en": [
+              "Sunset occurs around 4:30 PM in winter; plan your outdoor stops early.",
+              "Dress in layers to protect yourself against the cold Bura wind.",
+              "Many old town cafés operate with shorter opening hours during winter.",
+              "The visibility from the fortress is often superior in the winter air."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -460,6 +866,271 @@
           "The canyon road is narrow, watch out for cars.",
           "Use bike lights for the tunnels."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vormittag: Fahrt in den Canyon zu den Radman-Mühlen.\n\nMittag: Mittagessen im Grünen am Fluss.\n\nNachmittag: Rückfahrt und Besuch der kleinen St. Peter Kirche.\n\nAbend: Entspannung am Stadtstrand.",
+            "hu": "Délelőtt: Biciklizés a kanyonban a Radman-malmokhoz.\n\nDélben: Ebéd a folyóparti zöldben.\n\nDélután: Visszaút és a kis Szent Péter templom megtekintése.\n\nEste: Pihenés a városi strandon.",
+            "ro": "Dimineața: Pedalare în canion spre morile Radman.\n\nLa prânz: Prânz în natură lângă râu.\n\nDupă-amiaza: Întoarcere și vizitarea bisericii Sf. Petru.\n\nSeara: Relaxare pe plaja orașului.",
+            "en": "Morning: Ride into the canyon towards Radman's Mills.\n\nMidday: Lunch in the greenery by the river.\n\nAfternoon: Return trip and visit the small St. Peter's church.\n\nEvening: Relaxation at the city beach."
+          },
+          "stops": [
+            {
+              "name": "Cetina-Flussschlucht",
+              "tip_5lang": {
+                "de": "Fahrt entlang des Flusses.",
+                "hu": "Tekerés a folyó mentén.",
+                "ro": "Pedalare de-a lungul râului.",
+                "en": "Ride along the river banks."
+              }
+            },
+            {
+              "name": "Radman-Mühlen",
+              "tip_5lang": {
+                "de": "Schattiges Plätzchen zum Ausruhen.",
+                "hu": "Árnyékos hely a pihenéshez.",
+                "ro": "Loc umbrit pentru odihnă.",
+                "en": "Shaded spot perfect for a rest."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Peter",
+              "tip_5lang": {
+                "de": "Alte Kirche auf der anderen Flussseite.",
+                "hu": "Régi templom a folyó túloldalán.",
+                "ro": "Biserică veche pe cealaltă parte a râului.",
+                "en": "Old church on the other side of the river."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Forelle",
+                "tip": "Frisch aus der Cetina bei Radmanove mlinice."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pisztráng",
+                "tip": "Frissen a Cetinából Radmanove mlinicénél."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Păstrăv",
+                "tip": "Proaspăt din Cetina la Radmanove mlinice."
+              }
+            ],
+            "en": [
+              {
+                "name": "Trout",
+                "tip": "Fresh from the Cetina at Radmanove mlinice."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Flussufer",
+                "tip": "Picknick im Schatten der Bäume.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Folyópart",
+                "tip": "Piknik a fák árnyékában.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul râului",
+                "tip": "Picnic la umbra copacilor.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "River bank",
+                "tip": "Picnic in the shade of the trees.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Honig",
+                "tip": "Oft an der Straße verkauft."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi méz",
+                "tip": "Gyakran az út mentén árulják."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere locală",
+                "tip": "Vândută adesea pe marginea drumului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local honey",
+                "tip": "Often sold along the road."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straße im Canyon ist eng, Vorsicht vor Autos.",
+              "Licht am Fahrrad für die Tunnel."
+            ],
+            "hu": [
+              "A kanyoni út szűk, vigyázzon az autókkal.",
+              "Lámpa kell a biciklire az alagutakhoz."
+            ],
+            "ro": [
+              "Drumul din canion e îngust, atenție la mașini.",
+              "Lumina la bicicletă e necesară pentru tuneluri."
+            ],
+            "en": [
+              "The canyon road is narrow, watch out for cars.",
+              "Use bike lights for the tunnels."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Frühmorgens radeln wir trotz leichtem Nieselregen in die Cetina-Schlucht, wo der Nebel mystisch zwischen den steilen Felswänden hängt.\n\nMittags erreichen wir die Radman-Mühlen und wärmen uns bei einer heißen Suppe am offenen Kamin des rustikalen Restaurants auf.\n\nNachmittags führt uns der Weg auf dem nassen Asphalt vorsichtig zurück zur Kirche des Hl. Peter, wobei der Fluss nun fast schwarz wirkt.\n\nDen Abend verbringen wir damit, unsere Ausrüstung zu trocknen, während wir die wilde Schönheit des regnerischen Canyons Revue passieren lassen.",
+            "hu": "Kora reggel a szemerkélő esőben indulunk a Cetina-szurdokba, ahol a köd misztikusan gomolyog a meredek sziklafalak között.\n\nDélben a Radman-malmokhoz érve a rusztikus étterem nyitott kandallójánál melegszünk fel egy tál forró leves mellett.\n\nDélután óvatosan tekerünk vissza a vizes aszfalton a Szent Péter-templomhoz, miközben a folyó sötét tükre különös hangulatot áraszt.\n\nAz estét a felszerelésünk szárításával töltjük, miközben felidézzük az eső áztatta kanyon vadregényes szépségét.",
+            "ro": "Dimineața devreme pedalăm prin burniță spre canionul Cetina, unde ceața plutește mistic între pereții de stâncă abrupți.\n\nLa prânz ajungem la Morile Radman și ne încălzim lângă șemineul aprins din restaurantul rustic, savurând o supă fierbinte.\n\nDupă-amiaza ne întoarcem cu grijă pe asfaltul ud spre biserica Sf. Petru, în timp ce râul pare aproape negru sub cerul înnorat.\n\nSeara o petrecem uscându-ne echipamentul, în timp ce rememorăm frumusețea sălbatică a canionului sub ploaie.",
+            "en": "Early morning we cycle into the Cetina canyon despite the drizzle, with mist hanging mystically between the towering cliffs.\n\nBy noon, we reach Radman's Mills and warm up by the open fireplace of the rustic restaurant with a hot bowl of soup.\n\nIn the afternoon, we carefully navigate the wet asphalt back to St. Peter's Church, as the river takes on a deep, dark hue.\n\nWe spend the evening drying our gear while reflecting on the wild and moody beauty of the rainy canyon scenery."
+          },
+          "stops": [
+            {
+              "name": "Cetina-Flussschlucht",
+              "tip_5lang": {
+                "de": "Der Regen verstärkt den Duft der Kiefern und die Dramatik der Felsen.",
+                "hu": "Az eső felerősíti a fenyők illatát és a sziklák drámai látványát.",
+                "ro": "Ploaia accentuează mirosul pinilor și aspectul dramatic al stâncilor.",
+                "en": "The rain enhances the pine scent and the dramatic look of the cliffs."
+              }
+            },
+            {
+              "name": "Radman-Mühlen",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich am Kamin aufzuwärmen und die Kleidung zu trocknen.",
+                "hu": "Ideális hely a kandalló melletti melegedésre és a ruhák szárítására.",
+                "ro": "Un loc ideal pentru a vă încălzi la foc și a vă usca hainele.",
+                "en": "An ideal spot to warm up by the fire and dry your outer layers."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Peter",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen, die Steine vor der Kirche sind bei Nässe glatt.",
+                "hu": "Vigyázzon a leszálláskor, a templom előtti kövek esőben csúszósak.",
+                "ro": "Atenție la coborâre, pietrele din fața bisericii sunt lucioase pe ploaie.",
+                "en": "Careful when dismounting; the stones outside are slick when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss gegen aufspritzenden Schlamm.",
+              "Wasserfeste Packtaschen halten Ihre Wertsachen auch im Canyon trocken.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nasser Fahrbahn.",
+              "Trinken Sie regelmäßig Warmes, um die Körpertemperatur stabil zu halten."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyenkor a felcsapódó víz és sár ellen.",
+              "A vízhatlan táskák szárazon tartják értékeit a szurdokban is.",
+              "Csökkentse kicsit a guminyomást a jobb tapadás érdekében a vizes úton.",
+              "Igyon rendszeresen meleg teát a testhőmérséklet megtartásához."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt obligatorii pentru a vă proteja de noroi.",
+              "Genzile impermeabile vă vor păstra lucrurile uscate în canion.",
+              "Reduceți puțin presiunea din pneuri pentru o aderență mai bună pe ud.",
+              "Beți lichide calde regulat pentru a vă menține temperatura corpului."
+            ],
+            "en": [
+              "Mudguards are essential in this weather to protect against road spray.",
+              "Waterproof panniers are necessary to keep your gear dry in the canyon.",
+              "Slightly lower your tire pressure for better grip on the wet asphalt.",
+              "Drink warm fluids regularly to maintain your core body temperature."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem frostigen, aber sonnigen Wintermorgen radeln wir durch die fast menschenleere Schlucht nach Radmanove mlinice.\n\nMittags genießen wir die absolute Stille am Flussufer, während die kahlen Bäume eine ganz eigene, spröde Ästhetik in den Canyon zaubern.\n\nNachmittags besuchen wir die alte Kirche des Hl. Peter im klaren Winterlicht, bevor die Sonne früh hinter den Bergen verschwindet.\n\nAbends kehren wir erfrischt von der kühlen Bergluft zurück und genießen die wohlige Wärme in unserer Unterkunft.",
+            "hu": "Egy fagyos, de napsütötte téli reggelen vágunk neki a néptelen szurdoknak a Radman-malmok irányába.\n\nDélben a folyóparti csendet élvezzük, miközben a kopár fák és a sziklák különös, rideg szépséget kölcsönöznek a tájnak.\n\nDélután a Szent Péter-templomot keressük fel a tiszta téli fényben, mielőtt a nap korán a hegyek mögé bukna.\n\nEstére a hűvös hegyi levegőtől felfrissülve érünk vissza, és élvezzük a szállásunk melengető nyugalmát.",
+            "ro": "Într-o dimineață geroasă dar însorită, pedalăm prin canionul aproape pustiu spre Morile Radman.\n\nLa prânz ne bucurăm de liniștea deplină de pe malul râului, în timp ce copacii desfrunziți creează un peisaj de o frumusețe austeră.\n\nDupă-amiaza vizităm vechea biserică Sf. Petru în lumina clară a iernii, înainte ca soarele să dispară devreme după munți.\n\nSeara revenim revigorați de aerul rece de munte și ne bucurăm de căldura primitoare a cazării noastre.",
+            "en": "On a frosty but sunny winter morning, we cycle through the nearly deserted canyon towards Radman's Mills.\n\nAt noon, we relish the absolute silence by the riverbank, with bare trees adding a starkly beautiful aesthetic to the cliffs.\n\nIn the afternoon, we visit the ancient St. Peter's Church in the crisp winter light before the sun dips early behind the peaks.\n\nWe return in the evening, refreshed by the cool mountain air, to enjoy the cozy warmth of our lodgings."
+          },
+          "stops": [
+            {
+              "name": "Cetina-Flussschlucht",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung, da der Wind im Canyon sehr kalt sein kann.",
+                "hu": "Viseljen szélálló ruhát, a szurdokban a szél nagyon hideg lehet.",
+                "ro": "Purtați haine rezistente la vânt; curentul din canion este tăios.",
+                "en": "Wear windproof clothing; the wind in the canyon can be very biting."
+              }
+            },
+            {
+              "name": "Radman-Mühlen",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier herrlich ruhig für eine entspannte Pause am Wasser.",
+                "hu": "Télen itt csodálatos nyugalom várja egy elmélyült pihenőre a víznél.",
+                "ro": "Iarna este o liniște deplină aici, ideală pentru o pauză la malul apei.",
+                "en": "It is wonderfully quiet here in winter, perfect for a peaceful break."
+              }
+            },
+            {
+              "name": "Kirche des Hl. Peter",
+              "tip_5lang": {
+                "de": "Das alte Mauerwerk wirkt im klaren Winterlicht besonders eindrucksvoll.",
+                "hu": "A régi falak a tiszta téli fényben különösen lenyűgözőek.",
+                "ro": "Zidăria veche arată impresionant în lumina clară a iernii.",
+                "en": "The ancient stonework looks especially impressive in the clear winter light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfeste Handschuhe sind wichtig, da die Finger am Lenker schnell auskühlen.",
+              "Achten Sie auf Glatteis in den schattigen Kurven der Schlucht.",
+              "Die Sonne verschwindet im tiefen Canyon viel früher als an der Küste.",
+              "Beleuchtung am Fahrrad ist wegen der frühen Dämmerung unverzichtbar."
+            ],
+            "hu": [
+              "A téli kesztyű elengedhetetlen, az ujjak gyorsan áthűlnek a kormányon.",
+              "Figyeljen a jegesedésre a szurdok árnyékos kanyarjaiban.",
+              "A nap a mély szurdokban sokkal hamarabb eltűnik, mint a tengerparton.",
+              "A kerékpár világítása a korai szürkület miatt nélkülözhetetlen."
+            ],
+            "ro": [
+              "Mănușile de iarnă sunt esențiale; degetele îngheață repede pe ghidon.",
+              "Atenție la porțiunile de gheață în curbele umbrite ale canionului.",
+              "Soarele dispare mult mai devreme în canion decât pe coastă.",
+              "Luminile la bicicletă sunt indispensabile din cauza amurgului timpuriu."
+            ],
+            "en": [
+              "Winter gloves are vital as fingers cool down quickly on the handlebars.",
+              "Watch out for black ice in the shaded bends of the canyon.",
+              "The sun disappears much earlier in the deep canyon than on the coast.",
+              "Bike lights are indispensable due to the very early twilight."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -612,6 +1283,244 @@
           "Starigrad Fortress requires hiking shoes.",
           "Parking in the center is often difficult."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vormittag: Wanderung zur oberen Festung Starigrad.\n\nMittag: Fahrt zu den Mühlen für ein rustikales Essen.\n\nNachmittag: Erkundung der Bergdörfer oberhalb von Omiš.\n\nAbend: Rückkehr und Fischdinner am Hafen.",
+            "hu": "Délelőtt: Túra a felső Starigrad-erődhöz.\n\nDélben: Autózás a malmokhoz egy rusztikus ebédre.\n\nDélután: A hegyi falvak felfedezése Omiš felett.\n\nEste: Visszatérés és halvacsora a kikötőben.",
+            "ro": "Dimineața: Drumeție la cetatea de sus Starigrad.\n\nLa prânz: Conducere spre mori pentru o masă rustică.\n\nDupă-amiaza: Explorarea satelor de munte de deasupra Omišului.\n\nSeara: Revenire și cină cu pește în port.",
+            "en": "Morning: Hike up to the higher Starigrad Fortress.\n\nMidday: Drive to the mills for a rustic lunch.\n\nAfternoon: Explore the mountain villages above Omiš.\n\nEvening: Return and enjoy a fish dinner at the harbor."
+          },
+          "stops": [
+            {
+              "name": "Festung Starigrad",
+              "tip_5lang": {
+                "de": "Start am Parkplatz, Wanderung nach oben.",
+                "hu": "Parkolóból indulva túra felfelé.",
+                "ro": "Porniți din parcare, drumeție spre vârf.",
+                "en": "Start from the parking lot, hike to the top."
+              }
+            },
+            {
+              "name": "Radman-Mühlen",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden.",
+                "hu": "Nagy parkoló áll rendelkezésre.",
+                "ro": "Parcare mare disponibilă.",
+                "en": "Large parking lot available."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Fischbrudet",
+                "tip": "Lokaler Fischeintopf."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Halas brudet",
+                "tip": "Helyi halpörkölt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brudet de pește",
+                "tip": "Tocăniță de pește locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fish Brudet",
+                "tip": "Traditional local fish stew."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Gata Dorf",
+                "tip": "Ruhiger Blick auf das Hinterland.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gata falu",
+                "tip": "Csendes kilátás a hátországra.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Satul Gata",
+                "tip": "Vedere liniștită spre hinterland.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Gata Village",
+                "tip": "Quiet views of the hinterland.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Olivenöl-Abfüllung",
+                "tip": "In den Bergdörfern."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Olívaolaj-töltés",
+                "tip": "A hegyi falvakban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline",
+                "tip": "În satele de munte."
+              }
+            ],
+            "en": [
+              {
+                "name": "Olive Oil",
+                "tip": "Available in the mountain villages."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Festung Starigrad erfordert Wanderschuhe.",
+              "Parken ist im Zentrum oft schwierig."
+            ],
+            "hu": [
+              "A Starigrad-erődhöz túracipő szükséges.",
+              "A központban gyakran nehéz parkolni."
+            ],
+            "ro": [
+              "Cetatea Starigrad necesită bocanci de munte.",
+              "Parcarea în centru e adesea dificilă."
+            ],
+            "en": [
+              "Starigrad Fortress requires hiking shoes.",
+              "Parking in the center is often difficult."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten unsere Fahrt zur Festung Starigrad bei strömendem Regen, der die steilen Felswände in glänzendes Schwarz taucht.\n\nMittags parken wir bei den Radman-Mühlen und genießen den Blick auf den angeschwollenen Fluss gemütlich aus dem beheizten Restaurant.\n\nNachmittags fahren wir vorsichtig entlang der Küste, während die Wellen gegen die Kaimauern von Omiš peitschen.\n\nAbends kehren wir in unser Quartier zurück und lauschen dem Regen, der gegen die Fensterscheiben trommelt, während wir den Tag Revue passieren lassen.",
+            "hu": "Szakadó esőben indulunk el a Starigrad-erőd irányába, miközben a vizes sziklafalak fényesen csillognak a szürkületben.\n\nDélben a Radman-malmoknál állunk meg, és a meleg étterem ablakából figyeljük a folyó megáradt, habzó vizét.\n\nDélután óvatosan autózunk a tengerpart mentén, miközben a hullámok az omiši partfalat nyaldossák.\n\nAz estét a szállásunkon töltjük, hallgatva az ablakon kopogó esőt és felidézve a nap látványos pillanatait.",
+            "ro": "Pornim spre fortăreața Starigrad prin ploaia torențială care transformă pereții de stâncă în suprafețe negre și lucioase.\n\nLa prânz parcăm la Morile Radman și admirăm râul învolburat din confortul restaurantului încălzit.\n\nDupă-amiaza conducem prudent de-a lungul coastei, în timp ce valurile se sparg cu putere de digurile din Omiš.\n\nSeara revenim la cazare și ascultăm ploaia bătând în ferestre, în timp ce ne relaxăm după o zi plină.",
+            "en": "We set off for Starigrad Fortress in heavy rain, which turns the steep cliff walls into glistening dark surfaces.\n\nAt noon, we park at Radman's Mills and watch the swollen, rushing river from the comfort of the heated restaurant.\n\nIn the afternoon, we navigate the coastal roads with care as the waves crash against the Omiš sea walls.\n\nWe return to our base in the evening, listening to the rain drum against the windowpanes while reflecting on the day's sights."
+          },
+          "stops": [
+            {
+              "name": "Festung Starigrad",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei Regen sehr mühsam; parken Sie so nah wie möglich.",
+                "hu": "Az út felfelé esőben nagyon fárasztó; parkoljon a lehető legközelebb.",
+                "ro": "Urcarea e dificilă pe ploaie; parcați cât mai aproape de punctul de start.",
+                "en": "The climb is very strenuous in the rain; park as close to the start as possible."
+              }
+            },
+            {
+              "name": "Radman-Mühlen",
+              "tip_5lang": {
+                "de": "Das Restaurant bietet einen tollen Panoramablick auf den reißenden Fluss.",
+                "hu": "Az étteremből remek panoráma nyílik a sebesen rohanó folyóra.",
+                "ro": "Restaurantul oferă o vedere panoramică superbă asupra râului învolburat.",
+                "en": "The restaurant offers a great panoramic view of the rushing river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Steinschlaggefahr in der Schlucht bei starkem Regen.",
+              "Die Sicht kann durch beschlagene Scheiben eingeschränkt sein; Klima nutzen.",
+              "Parkplätze bei den Mühlen sind bei Regen oft matschig und rutschig.",
+              "Fahren Sie in den Kurven der Serpentinen besonders langsam."
+            ],
+            "hu": [
+              "Erős esőben figyeljen az esetleges kőomlásokra a szurdokvölgyben.",
+              "A párásodó szélvédő ellen használja a légkondicionálót.",
+              "A malmoknál lévő parkoló esőben gyakran sáros és vizenyős.",
+              "A szerpentinek kanyarjaiban közlekedjen különösen lassú tempóban."
+            ],
+            "ro": [
+              "Atenție la căderile de pietre în canion în timpul ploilor torențiale.",
+              "Folosiți aerul condiționat pentru a dezaburi parbrizul rapid.",
+              "Parcările de la mori pot deveni noroioase pe timp de ploaie.",
+              "Conduceți cu viteză redusă în curbele strânse de pe serpentine."
+            ],
+            "en": [
+              "Watch out for potential rockfalls in the canyon during heavy rain.",
+              "Use your air conditioning to keep the windshield from fogging up.",
+              "Parking areas near the mills can become muddy and puddly in the rain.",
+              "Drive particularly slowly through the tight bends of the mountain roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am klaren Wintermorgen fahren wir hinauf zur Starigrad-Festung und genießen die weite Sicht über die tiefblaue Adria.\n\nMittags kehren wir bei den Radman-Mühlen ein, wo im Winter eine fast mystische Ruhe herrscht und der Kamin behaglich brennt.\n\nNachmittags erkunden wir die kurvigen Straßen oberhalb des Canyons, bevor die Sonne früh hinter den Gipfeln verschwindet.\n\nDen Abend verbringen wir bei einer gemütlichen Fahrt durch das festlich beleuchtete Omiš, bevor wir den Tag entspannt ausklingen lassen.",
+            "hu": "Tiszta téli reggelen autózunk fel a Starigrad-erődhöz, és élvezzük a mélykék Adria feletti lenyűgöző kilátást.\n\nDélben a Radman-malmoknál állunk meg, ahol télen misztikus nyugalom és a kandalló melege fogad minket.\n\nDélután a kanyon feletti kanyargós utakat fedezzük fel, mielőtt a nap korán a hegycsúcsok mögé bukna.\n\nAz estét az ünnepi fényekbe öltözött Omis utcáin való lassú autózással és pihenéssel zárjuk.",
+            "ro": "Într-o dimineață senină de iarnă, conducem spre Starigrad și ne bucurăm de vederea panoramică peste Adriatica de un albastru intens.\n\nLa prânz ne oprim la Morile Radman, unde iarna domnește o liniște aproape mistică și focul arde în șemineu.\n\nDupă-amiaza explorăm drumurile șerpuite de deasupra canionului, înainte ca soarele să dispară devreme după creste.\n\nSeara o petrecem admirând luminile festive din Omiš dintr-o plimbare lentă cu mașina, încheind ziua relaxați.",
+            "en": "On a clear winter morning, we drive up to Starigrad Fortress and enjoy the expansive views over the deep blue Adriatic.\n\nAt noon, we stop at Radman's Mills, where a mystical calm prevails in winter and the fireplace burns cozily.\n\nIn the afternoon, we explore the winding roads above the canyon before the sun sets early behind the mountain peaks.\n\nWe end the evening with a gentle drive through the festively lit streets of Omiš, finishing the day in a relaxed mood."
+          },
+          "stops": [
+            {
+              "name": "Festung Starigrad",
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Wetter für Fotos der schneebedeckten Berge im Hinterland.",
+                "hu": "Használja ki a tiszta időt a háttérben lévő havas hegyek fotózására.",
+                "ro": "Profită de cerul senin pentru a fotografia munții înzăpeziți din spate.",
+                "en": "Take advantage of the clear air to photograph the snowy peaks inland."
+              }
+            },
+            {
+              "name": "Radman-Mühlen",
+              "tip_5lang": {
+                "de": "Probieren Sie das unter der Glocke gebackene Brot (Peka) – ideal im Winter.",
+                "hu": "Kóstolja meg a 'peka' alatt sült kenyeret, ami télen a legfinomabb.",
+                "ro": "Încercați pâinea coaptă sub capac (peka), ideală pentru zilele reci.",
+                "en": "Try the bread baked under the iron bell (peka) – perfect for winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In den höheren Lagen der Festung kann es deutlich kälter sein als im Ort.",
+              "Winterreifen oder Schneeketten sind im kroatischen Hinterland oft Pflicht.",
+              "Nutzen Sie die kurzen Tage für Fahrten in der blauen Stunde.",
+              "Die Parkplatzsuche in der Altstadt ist im Winter viel entspannter."
+            ],
+            "hu": [
+              "Az erőd magasabb pontjain sokkal hidegebb lehet, mint a városban.",
+              "A horvát hátországban gyakran kötelező a téli gumi vagy a hólánc.",
+              "Használja ki a rövid nappalokat az esti fények korai fotózására.",
+              "Az óvárosi parkolás télen sokkal egyszerűbb, mint a főszezonban."
+            ],
+            "ro": [
+              "La altitudinea fortăreței poate fi mult mai frig decât în oraș.",
+              "Anvelopele de iarnă sau lanțurile sunt adesea obligatorii în interior.",
+              "Profită de zilele scurte pentru a conduce în 'ora albastră'.",
+              "Găsirea unui loc de parcare este mult mai ușoară iarna în centru."
+            ],
+            "en": [
+              "It can be significantly colder at the fortress elevation than in town.",
+              "Winter tires or snow chains are often mandatory in the Croatian hinterland.",
+              "Make the most of the short days by driving during the golden hour.",
+              "Finding a parking spot in the old town is much easier in the winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -782,6 +1691,271 @@
           "Bus No. 60 connects Split and Omiš.",
           "Tickets can be bought on the bus."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vormittag: Ankunft mit dem Bus aus Split und Stadtrundgang.\n\nMittag: Besuch der Festung und Panoramablick.\n\nNachmittag: Bootstour auf der Cetina (statt Bus).\n\nAbend: Rückreise mit dem Fernbus.",
+            "hu": "Délelőtt: Érkezés busszal Split felől, városnézés.\n\nDélben: Az erőd megtekintése és panoráma.\n\nDélután: Hajókirándulás a Cetinán (busz helyett).\n\nEste: Visszautazás távolsági busszal.",
+            "ro": "Dimineața: Sosire cu autobuzul din Split și tur de oraș.\n\nLa prânz: Vizitarea cetății și vedere panoramică.\n\nDupă-amiaza: Tur cu barca pe Cetina (în loc de autobuz).\n\nSeara: Întoarcere cu autobuzul de cursă lungă.",
+            "en": "Morning: Arrival by bus from Split and city tour.\n\nMidday: Visit the fortress for panoramic views.\n\nAfternoon: Boat tour on the Cetina River (instead of bus).\n\nEvening: Return journey by long-distance bus."
+          },
+          "stops": [
+            {
+              "name": "Bushaltestelle Omiš",
+              "tip_5lang": {
+                "de": "Direkt an der Hauptstraße.",
+                "hu": "Közvetlenül a főút mellett.",
+                "ro": "Direct pe drumul principal.",
+                "en": "Right on the main road."
+              }
+            },
+            {
+              "name": "Festung Mirabella",
+              "tip_5lang": {
+                "de": "Starten Sie früh, um die Hitze zu vermeiden.",
+                "hu": "Induljon korán a hőség elkerülésére.",
+                "ro": "Porniți devreme pentru a evita căldura.",
+                "en": "Start early to avoid the heat."
+              }
+            },
+            {
+              "name": "Bootsanlegestelle",
+              "tip_5lang": {
+                "de": "Nehmen Sie das Boot in den Canyon.",
+                "hu": "Menjen hajóval a kanyonba.",
+                "ro": "Luați barca în canion.",
+                "en": "Take the boat into the canyon."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Fast Food Luka",
+                "tip": "Gute Burger für Zwischendurch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fast Food Luka",
+                "tip": "Jó burger két látnivaló között."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fast Food Luka",
+                "tip": "Burgeri buni pentru o gustare rapidă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fast Food Luka",
+                "tip": "Good burgers for a quick bite."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Park am Fluss",
+                "tip": "Schattenplatz beim Terminal.",
+                "emoji": "🌳"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Folyóparti park",
+                "tip": "Árnyékos hely a terminálnál.",
+                "emoji": "🌳"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul de pe râu",
+                "tip": "Loc umbrit lângă terminal.",
+                "emoji": "🌳"
+              }
+            ],
+            "en": [
+              {
+                "name": "River Park",
+                "tip": "Shady spot near the terminal.",
+                "emoji": "🌳"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Kiosk Souvenirs",
+                "tip": "Ansichtskarten und kleine Präsente."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kioszk ajándékok",
+                "tip": "Képeslapok és apró ajándékok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Kiosc suveniruri",
+                "tip": "Vederi și mici cadouri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Kiosk Souvenirs",
+                "tip": "Postcards and small gifts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Bus Nr. 60 verbindet Split und Omiš.",
+              "Tickets können im Bus gekauft werden."
+            ],
+            "hu": [
+              "A 60-as busz köti össze Splitet és Omišt.",
+              "Jegyek a buszon válthatók."
+            ],
+            "ro": [
+              "Autobuzul nr. 60 leagă Split de Omiš.",
+              "Biletele se pot cumpăra din autobuz."
+            ],
+            "en": [
+              "Bus No. 60 connects Split and Omiš.",
+              "Tickets can be bought on the bus."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens warten wir unter dem schützenden Dach der zentralen Bushaltestelle auf den Anschluss zum Stadtzentrum.\n\nMittags besichtigen wir die Mirabella-Festung und nutzen jede Regenpause für Fotos der stürmischen Adria von oben.\n\nNachmittags ist die Bootsanlegestelle verwaist, doch eine kurze Fahrt auf dem Fluss hat im Regen einen ganz eigenen, melancholischen Charme.\n\nDen Abend verbringen wir damit, im Bus die beschlagenen Scheiben freizuwischen und die Lichter von Omiš im nassen Asphalt zu beobachten.",
+            "hu": "Reggel a központi buszmegálló védőtetője alatt várjuk a csatlakozást az óváros irányába.\n\nDélben a Mirabella-erődöt látogatjuk meg, minden esőszünetet kihasználva a viharos Adria fentről való fotózására.\n\nDélután a hajóállomás környéke csendes, de egy rövid folyami út az esőben is különleges, melankolikus bájt áraszt.\n\nAz estét a buszon ülve töltjük, a párás ablakon keresztül figyelve Omis fényeinek tükröződését a vizes aszfalton.",
+            "ro": "Dimineața așteptăm autobuzul sub protecția stației centrale pentru a ajunge rapid în inima orașului.\n\nLa prânz vizităm Mirabella și profităm de fiecare pauză de ploaie pentru a surprinde marea agitată de la înălțime.\n\nDupă-amiaza, debarcaderul este aproape gol, dar o scurtă plimbare pe râu are un farmec melancolic aparte pe ploaie.\n\nSeara o petrecem în autobuz, privind reflexiile luminilor din Omiš pe asfaltul ud prin ferestrele aburite.",
+            "en": "In the morning, we wait under the shelter of the main bus stop for our connection to the town center.\n\nAt noon, we visit Mirabella Fortress, using every break in the clouds for photos of the stormy Adriatic from above.\n\nIn the afternoon, the boat dock is quiet, but a short river trip has its own unique, melancholic charm in the rain.\n\nWe spend the evening on the bus, wiping fogged-up windows to watch the Omiš lights shimmer on the wet road."
+          },
+          "stops": [
+            {
+              "name": "Bushaltestelle Omiš",
+              "tip_5lang": {
+                "de": "Der Kiosk an der Haltestelle bietet Schutz und Snacks für die Wartezeit.",
+                "hu": "A megállónál lévő újságosnál menedéket és snackeket találhat várakozás közben.",
+                "ro": "Chioșcul din stație oferă adăpost și gustări pentru timpul de așteptare.",
+                "en": "The kiosk at the stop provides cover and snacks while you wait."
+              }
+            },
+            {
+              "name": "Festung Mirabella",
+              "tip_5lang": {
+                "de": "Der Blick auf die regnerische Küste ist von hier oben sehr dramatisch.",
+                "hu": "A kilátás az esős partvidékre innen fentről rendkívül drámai.",
+                "ro": "Vederea spre coasta înnorată este foarte spectaculoasă de aici.",
+                "en": "The view of the rainy coastline is very dramatic from up here."
+              }
+            },
+            {
+              "name": "Bootsanlegestelle",
+              "tip_5lang": {
+                "de": "Wählen Sie unbedingt ein Boot mit Verdeck für die Fahrt in den Canyon.",
+                "hu": "Mindenképpen tetővel rendelkező hajót válasszon a kanyonba vezető úthoz.",
+                "ro": "Alegeți neapărat o barcă cu acoperiș pentru plimbarea spre canion.",
+                "en": "Be sure to choose a boat with a canopy for your trip into the canyon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Regen wetterbedingt leichte Verspätungen haben.",
+              "Halten Sie Kleingeld für das Busticket bereit, um schneller einzusteigen.",
+              "Die Boote auf der Cetina fahren meist auch bei leichtem Regen.",
+              "Suchen Sie sich im Bus einen Platz am Fenster für die Aussicht."
+            ],
+            "hu": [
+              "Erős esőben a buszok a forgalom miatt kisebb késéssel közlekedhetnek.",
+              "Készítsen ki aprópénzt a jegyhez, hogy gyorsabb legyen a felszállás.",
+              "A Cetina folyón a hajók többnyire szemerkélő esőben is elindulnak.",
+              "A buszon keressen ablak melletti helyet a kilátás élvezetéhez."
+            ],
+            "ro": [
+              "Autobuzele pot avea mici întârzieri din cauza traficului pe ploaie.",
+              "Aveți pregătit mărunțiș pentru bilet pentru a urca mai repede.",
+              "Bărcile de pe Cetina circulă de obicei și pe ploaie ușoară.",
+              "Ocupați un loc la geam în autobuz pentru a admira peisajul."
+            ],
+            "en": [
+              "Buses may experience slight delays due to traffic in heavy rain.",
+              "Have exact change ready for the bus ticket to speed up boarding.",
+              "Boats on the Cetina usually still run during light rain showers.",
+              "Find a window seat on the bus to enjoy the scenery while staying dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen nutzen wir den lokalen Bus, um bequem zum Zentrum zu kommen und die Kälte draußen zu lassen.\n\nMittags steigen wir zur Mirabella auf, wobei die kühle Luft die Farben des Meeres besonders intensiv erscheinen lässt.\n\nDer Nachmittag an der Bootsanlegestelle ist sehr ruhig; Touren finden seltener statt, was die Fahrt exklusiver macht.\n\nDen Abend verbringen wir bei einer Rückfahrt im beheizten Bus, während wir durch das festlich geschmückte Omiš gleiten.",
+            "hu": "Hűvös téli reggelen a helyi busszal kényelmesen érünk be a központba, elkerülve a kinti hideget.\n\nDélben a Mirabella-erődbe kapaszkodunk fel, ahol a friss levegőben a tenger színei rendkívül mélynek látszanak.\n\nA délután a hajóállomáson nagyon csendes; a járatok ritkábbak, így a kirándulás sokkal intimebb élmény.\n\nAz estét a fűtött buszon ülve zárjuk, miközben az ünnepi díszbe öltözött városon haladunk át.",
+            "ro": "Într-o dimineață răcoroasă de iarnă, folosim autobuzul local pentru a ajunge confortabil în centru, feriți de frig.\n\nLa prânz urcăm la Mirabella; aerul clar de iarnă face culorile mării să pară deosebit de intense.\n\nDupă-amiaza la debarcader este foarte liniște; excursiile sunt rare, ceea ce face plimbarea mai exclusivistă.\n\nSeara revenim cu autobuzul încălzit, admirând decorul festiv al orașului Omiš prin fereastră.",
+            "en": "On a cool winter morning, we take the local bus to reach the center comfortably, staying out of the chill.\n\nAt noon, we climb to Mirabella, where the crisp winter air makes the colors of the sea appear exceptionally deep.\n\nThe afternoon at the boat dock is very quiet; tours are less frequent, making any trip feel more exclusive.\n\nWe end the evening on a heated bus, gliding through the festively decorated streets of Omiš."
+          },
+          "stops": [
+            {
+              "name": "Bushaltestelle Omiš",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan, da weniger Busse als im Sommer verkehren.",
+                "hu": "Ellenőrizze a téli menetrendet, mert ritkábban járnak a buszok.",
+                "ro": "Verificați programul de iarnă, autobuzele sunt mai rare decât vara.",
+                "en": "Check the winter schedule, as there are fewer buses than in summer."
+              }
+            },
+            {
+              "name": "Festung Mirabella",
+              "tip_5lang": {
+                "de": "Das klare Licht ist ideal für scharfe Panoramaaufnahmen der Küste.",
+                "hu": "A tiszta fényviszonyok ideálisak a partvidék éles panorámafotóihoz.",
+                "ro": "Lumina clară este ideală pentru fotografii panoramice reușite.",
+                "en": "The clear light is ideal for sharp panoramic photos of the coast."
+              }
+            },
+            {
+              "name": "Bootsanlegestelle",
+              "tip_5lang": {
+                "de": "Bootstouren finden im Winter meist nur nach vorheriger Absprache statt.",
+                "hu": "Télen a hajókirándulások többnyire csak előzetes egyeztetésre indulnak.",
+                "ro": "Plimbările cu barca iarna se fac de obicei doar cu rezervare prealabilă.",
+                "en": "Boat tours in winter usually operate only by prior arrangement."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Winterfahrplan der Fernbusse ist deutlich reduziert gegenüber dem Sommer.",
+              "Warten Sie in einem nahegelegenen Café, falls der Bus Verspätung hat.",
+              "Bootsfahrten können bei starkem Bura-Wind aus Sicherheitsgründen ausfallen.",
+              "Nutzen Sie die App der Verkehrsbetriebe für Echtzeit-Informationen."
+            ],
+            "hu": [
+              "A távolsági buszok téli menetrendje jelentősen ritkított a nyárhoz képest.",
+              "Várjon egy közeli kávézóban, ha a busz esetleg késne.",
+              "Erős Bura szél esetén a hajójáratok biztonsági okokból elmaradhatnak.",
+              "Használja a közlekedési társaság alkalmazását a valós idejű adatokhoz."
+            ],
+            "ro": [
+              "Mersul autobuzelor pe distanțe lungi este redus considerabil iarna.",
+              "Așteptați într-o cafenea din apropiere dacă autobuzul întârzie.",
+              "Plimbările cu barca pot fi anulate din cauza vântului Bura puternic.",
+              "Folosiți aplicația de transport pentru informații în timp real."
+            ],
+            "en": [
+              "Long-distance bus schedules are significantly reduced compared to summer.",
+              "Wait in a nearby café if your bus is running slightly behind schedule.",
+              "Boat trips may be cancelled if the Bura wind is too strong for safety.",
+              "Use the transit provider's app for real-time arrival information."
+            ]
+          }
+        }
       }
     }
   },

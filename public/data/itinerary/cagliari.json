@@ -286,6 +286,410 @@
           "Most museums are closed on Mondays.",
           "Shops often close for siesta between 1:00 PM and 4:00 PM."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag auf der majestätischen Bastion Saint Remy mit Blick auf das Meer. Erkunden Sie das Castello-Viertel mit seinen engen Gassen und mittelalterlichen Türmen.\n\nMittags tauchen Sie in die religiöse Geschichte in der Kathedrale ein, bevor Sie das antike römische Amphitheater besichtigen, das in den Fels gehauen wurde.\n\nDer Nachmittag gehört den Sinnen auf dem größten überdachten Markt Italiens, gefolgt von einem Spaziergang zum ruhigen Hügel von Bonaria.\n\nBeenden Sie den Tag am Jachthafen mit einem Glas sardischen Weißwein und beobachten Sie das bunte Treiben der Stadt.",
+            "hu": "Kezdje a napot a fenséges Saint Remy bástyán, ahonnan belátni az egész öblöt. Fedezze fel a Castello negyed szűk utcáit és középkori őrtornyait.\n\nDélben merüljön el a vallási történelemben a katedrálisban, majd látogasson el a sziklába vájt ókori római amfiteátrumhoz.\n\nA délután a gasztronómiáé Olaszország legnagyobb fedett piacán, amelyet egy csendes séta követ a Bonaria domb felé.\n\nZárja a napot a kikötőben egy pohár hűvös szárd fehérborral, figyelve a város lüktetését.",
+            "ro": "Începeți ziua pe maiestuosul Bastion Saint Remy, cu vedere la mare. Explorați cartierul Castello cu străzile sale înguste și turnurile medievale.\n\nLa prânz, scufundați-vă în istoria religioasă la catedrală, înainte de a vizita vechiul amfiteatru roman săpat în stâncă.\n\nDupă-amiaza aparține simțurilor în cea mai mare piață acoperită din Italia, urmată de o plimbare spre colina liniștită Bonaria.\n\nÎncheiați ziua la portul de agrement cu un pahar de vin alb sardinian, observând forfota orașului.",
+            "en": "Start your day at the majestic Saint Remy Bastion overlooking the sea. Explore the Castello district with its narrow alleys and medieval watchtowers.\n\nAt midday, immerse yourself in religious history at the cathedral before visiting the ancient Roman amphitheatre carved into the rock.\n\nThe afternoon belongs to the senses at Italy's largest indoor market, followed by a peaceful walk toward the Bonaria hill.\n\nEnd the day at the marina with a glass of Sardinian white wine, watching the vibrant city life go by."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bastione di Saint Remy",
+                "hu": "Saint Remy bástya",
+                "ro": "Bastionul Saint Remy",
+                "en": "Bastione di Saint Remy"
+              },
+              "tip_5lang": {
+                "de": "Bester Panoramablick am Morgen.",
+                "hu": "Legjobb reggeli panoráma a városra.",
+                "ro": "Cea mai bună panoramă de dimineață.",
+                "en": "Best morning panoramic view of the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre dell'Elefante",
+                "hu": "Elefánt-torony",
+                "ro": "Turnul Elefantului",
+                "en": "Torre dell'Elefante"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die kleine Elefantenstatue.",
+                "hu": "Keresd meg a falon a kis elefántszobrot.",
+                "ro": "Căutați mica statuie de elefant de pe zid.",
+                "en": "Look for the small elephant statue on the wall."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di Santa Maria",
+                "hu": "Santa Maria-székesegyház",
+                "ro": "Catedrala Sfânta Maria",
+                "en": "Cattedrale di Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Krypta der Märtyrer.",
+                "hu": "Látogass el a mártírok kriptájába.",
+                "ro": "Vizitați cripta martirilor.",
+                "en": "Visit the Crypt of the Martyrs below."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro Romano",
+                "hu": "Római Amfiteátrum",
+                "ro": "Amfiteatrul Roman",
+                "en": "Roman Amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie Wasser mit, es gibt wenig Schatten.",
+                "hu": "Vigyél vizet, mert kevés az árnyék.",
+                "ro": "Aduceți apă, deoarece există puțină umbră.",
+                "en": "Bring water as there is very little shade."
+              }
+            },
+            {
+              "name": {
+                "de": "Mercato di San Benedetto",
+                "hu": "San Benedetto piac",
+                "ro": "Piața San Benedetto",
+                "en": "San Benedetto Market"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie frischen Bottarga.",
+                "hu": "Kóstold meg a friss bottargát (szárított halikra).",
+                "ro": "Gustați bottarga proaspătă.",
+                "en": "Try some fresh bottarga at the seafood stalls."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario di Bonaria",
+                "hu": "Bonaria-szentély",
+                "ro": "Sanctuarul din Bonaria",
+                "en": "Santuario di Bonaria"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Park vor der Basilika.",
+                "hu": "Élvezd a bazilika előtti park nyugalmát.",
+                "ro": "Bucurați-vă de parcul din fața bazilicii.",
+                "en": "Enjoy the peaceful park in front of the basilica."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Malloreddus",
+                "tip": "Sardische Gnocchi mit Wurst und Safran."
+              },
+              {
+                "name": "Antico Caffè",
+                "tip": "Historisches Café seit 1855."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Malloreddus",
+                "tip": "Szárd gnocchi kolbásszal és sáfránnyal."
+              },
+              {
+                "name": "Antico Caffè",
+                "tip": "Történelmi kávézó 1855 óta."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malloreddus",
+                "tip": "Gnocchi sardiniene cu cârnați și șofran."
+              },
+              {
+                "name": "Antico Caffè",
+                "tip": "Cafenea istorică deschisă din 1855."
+              }
+            ],
+            "en": [
+              {
+                "name": "Malloreddus",
+                "tip": "Sardinian gnocchi with sausage and saffron."
+              },
+              {
+                "name": "Antico Caffè",
+                "tip": "Historic cafe serving locals since 1855."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parco di Monte Urpinu",
+                "tip": "Panoramablick und Pfaue.",
+                "emoji": "🦚"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Monte Urpinu park",
+                "tip": "Panoráma és szabadon kószáló pávák.",
+                "emoji": "🦚"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul Monte Urpinu",
+                "tip": "Vedere panoramică și păuni.",
+                "emoji": "🦚"
+              }
+            ],
+            "en": [
+              {
+                "name": "Monte Urpinu Park",
+                "tip": "Panoramic views and roaming peacocks.",
+                "emoji": "🦚"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Via Manno",
+                "tip": "Haupteinkaufsstraße für Mode."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Via Manno",
+                "tip": "A város fő bevásárlóutcája."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Via Manno",
+                "tip": "Principala stradă comercială."
+              }
+            ],
+            "en": [
+              {
+                "name": "Via Manno",
+                "tip": "The main pedestrian shopping street."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die steilen Gassen im Castello.",
+              "Die meisten Museen sind montags geschlossen.",
+              "Mittagspause wird strikt zwischen 13 und 16 Uhr eingehalten."
+            ],
+            "hu": [
+              "Viselj kényelmes cipőt a Castello meredek sikátoraihoz.",
+              "A legtöbb múzeum hétfőn zárva tart.",
+              "A délutáni szieszta (13-16 óra) alatt sok bolt bezár."
+            ],
+            "ro": [
+              "Purtați pantofi confortabili pentru străzile abrupte din Castello.",
+              "Majoritatea muzeelor sunt închise lunea.",
+              "Siesta de după-amiază este respectată între orele 13 și 16."
+            ],
+            "en": [
+              "Wear comfortable shoes for the steep alleys in Castello.",
+              "Most museums are closed on Mondays.",
+              "Shops often close for siesta between 1:00 PM and 4:00 PM."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter den Arkaden des Bastione, wo man dem Regen lauschen kann. Die engen Gassen von Castello bieten natürlichen Schutz vor Wind.\r\nMittags ist der San Benedetto Markt der ideale Ort, um trocken zu bleiben und lokale Spezialitäten zu genießen.\r\nNachmittags bieten die Kathedrale und das Amphitheater (von der Galerie aus) faszinierende Einblicke ohne nass zu werden.\r\nAbends glänzen die nassen Pflastersteine im Licht der Laternen am Hafen von Cagliari.",
+            "hu": "A reggel a bástya árkádjai alatt indul, ahol a fedett részek védenek az esőtől. Castello szűk utcái természetes védelmet nyújtanak a szél ellen.\r\nDélben a San Benedetto piac a legjobb választás: fedett, nyüzsgő és kiváló helyi falatokat kínál.\r\nDélután a Székesegyház belső tere és a múzeumok nyújtanak száraz menedéket a városnézéshez.\r\nEste a vizes macskaköveken megcsillanó fények különleges hangulatot árasztanak a kikötő környékén.",
+            "ro": "Dimineața începe sub arcadele Bastionului, oferind un adăpost perfect împotriva ploii. Străzile înguste din Castello sunt protejate natural.\r\nLa prânz, piața San Benedetto este refugiul ideal: acoperit, plin de viață și arome locale autentice.\r\nDupă-amiaza, Catedrala și muzeele permit explorarea istoriei orașului fără a fi expus intemperiilor.\r\nSeara, reflexiile luminilor pe străzile umede din zona portului creează o atmosferă melancolică și frumoasă.",
+            "en": "Morning begins under the shelter of the Bastione's arcade, perfect for watching the rain. The narrow streets of Castello offer natural wind protection.\r\nBy noon, the San Benedetto market is the ultimate dry escape, filled with local atmosphere and fresh seafood.\r\nAfternoon visits to the Cathedral and historical sites keep you dry while immersing in Cagliari's rich heritage.\r\nEvening ends with the city lights reflecting off the wet cobblestones near the harbor area."
+          },
+          "stops": [
+            {
+              "name": "Bastione di Saint Remy",
+              "tip_5lang": {
+                "de": "Die überdachten Galerien bieten perfekten Schutz vor Regenschauern.",
+                "hu": "A fedett galériák kiváló védelmet nyújtanak a hirtelen záporok elől.",
+                "ro": "Galeriile acoperite oferă un adăpost excelent împotriva averselor.",
+                "en": "The covered galleries provide excellent shelter from sudden rain showers."
+              }
+            },
+            {
+              "name": "Torre dell'Elefante",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Stufen, der Kalkstein wird bei Nässe sehr rutschig.",
+                "hu": "Vigyázat a lépcsőkön, a mészkő nedvesen rendkívül csúszós lehet.",
+                "ro": "Atenție pe trepte, calcarul devine foarte alunecos când este umed.",
+                "en": "Watch your step on the stairs; the limestone becomes very slippery when wet."
+              }
+            },
+            {
+              "name": "Cattedrale di Santa Maria",
+              "tip_5lang": {
+                "de": "Ein prächtiger Ort zum Aufwärmen und Bewundern barocker Kunst.",
+                "hu": "Pompás hely a felmelegedésre és a barokk művészet megcsodálására.",
+                "ro": "Un loc magnific pentru a te încălzi și a admira arta barocă.",
+                "en": "A magnificent place to warm up and admire baroque art indoors."
+              }
+            },
+            {
+              "name": "Roman Amphitheatre",
+              "tip_5lang": {
+                "de": "Besichtigung von den oberen Wegen aus, die Steine im Inneren sind glatt.",
+                "hu": "A felső utakról nézd meg, a belső kövek esőben csúszósak.",
+                "ro": "Vizitați de pe traseele superioare, pietrele din interior sunt alunecoase.",
+                "en": "View from the upper paths; the ancient stones inside are slick in the rain."
+              }
+            },
+            {
+              "name": "San Benedetto Market",
+              "tip_5lang": {
+                "de": "Der ideale trockene Stopp für eine kulinarische Pause.",
+                "hu": "Az ideális száraz megálló egy gasztronómiai szünethez.",
+                "ro": "Oprirea uscată ideală pentru o pauză culinară autentică.",
+                "en": "The perfect dry stop for a culinary break and local shopping."
+              }
+            },
+            {
+              "name": "Santuario di Bonaria",
+              "tip_5lang": {
+                "de": "Der Portikus bietet Schutz vor dem Wind, bevor man die Kirche betritt.",
+                "hu": "A portikusz védelmet nyújt a szél elől a templomba lépés előtt.",
+                "ro": "Porticul oferă protecție împotriva vântului înainte de a intra în biserică.",
+                "en": "The portico offers shelter from the wind before entering the sanctuary."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil, da der Kalkstein in der Altstadt extrem glatt wird.",
+              "Die Arkaden der Via Roma im Hafenbereich sind perfekt für trockene Spaziergänge.",
+              "Nutzen Sie die CTM-App für Bus-Tickets, um Wartezeiten im Regen zu vermeiden.",
+              "Viele Cafés in Castello haben gemütliche Innenräume für eine Kaffeepause.",
+              "Ein kleiner, stabiler Regenschirm ist wegen des oft starken Windes besser als ein großer."
+            ],
+            "hu": [
+              "Viseljen tapadós talpú cipőt, mert az óváros mészkövei vízesen nagyon csúsznak.",
+              "A kikötőnél lévő Via Roma árkádjai alatt hosszan sétálhatunk szárazon.",
+              "Használja a CTM appot a buszjegyekhez, így nem kell kint várakozni az árusnál.",
+              "Castello kávézói barátságos belső terekkel várják az eső elől menekülőket.",
+              "Az erős szél miatt a kisméretű, masszív esernyők praktikusabbak a városban."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu talpă aderentă, calcarul din orașul vechi e foarte alunecos.",
+              "Arcadele de pe Via Roma din zona portului sunt perfecte pentru plimbări uscate.",
+              "Utilizați aplicația CTM pentru bilete de autobuz pentru a evita statul în ploaie.",
+              "Multe cafenele din Castello au interioare primitoare pentru o pauză de cafea.",
+              "Din cauza vântului puternic, o umbrelă mică și rezistentă e mai utilă decât una mare."
+            ],
+            "en": [
+              "Wear shoes with good grip, as the old town's limestone becomes extremely slick.",
+              "The arcades along Via Roma in the port area are perfect for walking dry.",
+              "Use the CTM app for bus tickets to minimize waiting outside in the rain.",
+              "Many cafes in Castello offer cozy indoor seating to escape the showers.",
+              "A small, sturdy umbrella is better than a large one due to frequent coastal winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Bastione bietet klare Sicht bis zum Meer. Die milde Sonne wärmt die honigfarbenen Mauern von Castello.\r\nMittags ist es im San Benedetto Markt angenehm geschäftig, während draußen eine kühle Brise weht.\r\nNachmittags taucht das tiefe Sonnenlicht die Kathedrale in goldenen Glanz, bevor es gegen 17:00 Uhr dämmert.\r\nAbends laden die beleuchteten Gassen zu einem Spaziergang ein, gefolgt von einem wärmenden Glas Cannonau.",
+            "hu": "A friss téli reggelen a Bastione-ról tiszta kilátás nyílik a tengerre. A szelíd napfény melengeti Castello mézszínű falait.\r\nDélben a San Benedetto piac pezsgése elfeledteti a kinti hűvös fuvallatokat.\r\nDélután az alacsony napállás aranyba vonja a Székesegyházat, mielőtt 17:00 körül leszáll az est.\r\nEste a kivilágított szűk utcák hangulatos sétára hívnak, amit egy pohár melengető Cannonau bor zárhat.",
+            "ro": "O dimineață răcoroasă de iarnă la Bastion oferă o vizibilitate clară până la mare. Soarele blând încălzește zidurile aurii din Castello.\r\nLa prânz, piața San Benedetto este plină de energie, oferind un refugiu cald față de briza rece de afară.\r\nDupă-amiaza, lumina joasă a soarelui scaldă Catedrala în culori aurii înainte de apusul de la ora 17:00.\r\nSeara, străzile iluminate invită la o plimbare relaxantă, urmată de un pahar de vin local Cannonau.",
+            "en": "A crisp winter morning at the Bastione offers crystal clear views to the sea. Mild sunlight warms the honey-colored walls of Castello.\r\nBy noon, the San Benedetto market is buzzing with energy, providing a warm escape from the cool breeze.\r\nAfternoon light bathes the Cathedral in a golden glow before the early sunset around 5:00 PM.\r\nEvening invites a stroll through the illuminated alleys, followed by a warming glass of local Cannonau wine."
+          },
+          "stops": [
+            {
+              "name": "Bastione di Saint Remy",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht, die es oft nur im Winter gibt.",
+                "hu": "Élvezd a tiszta, messzire nyúló kilátást, ami gyakran csak télen ilyen.",
+                "ro": "Bucurați-vă de vizibilitatea clară la distanță, specifică iernii.",
+                "en": "Enjoy the crisp, clear long-distance views often only available in winter."
+              }
+            },
+            {
+              "name": "Torre dell'Elefante",
+              "tip_5lang": {
+                "de": "Oben kann es sehr windig sein; eine windfeste Jacke ist ratsam.",
+                "hu": "Fent nagyon szeles lehet az idő, szélálló kabát ajánlott.",
+                "ro": "Sus poate fi foarte vântos; se recomandă o jachetă rezistentă la vânt.",
+                "en": "It can be very windy at the top; a windproof jacket is highly recommended."
+              }
+            },
+            {
+              "name": "Cattedrale di Santa Maria",
+              "tip_5lang": {
+                "de": "Die Ruhe im Inneren ist im Winter besonders besinnlich.",
+                "hu": "A belső csend télen különösen meghitt és nyugodt.",
+                "ro": "Liniștea din interior este deosebit de plăcută în timpul iernii.",
+                "en": "The indoor silence is particularly peaceful and cozy during winter."
+              }
+            },
+            {
+              "name": "Roman Amphitheatre",
+              "tip_5lang": {
+                "de": "Nutzen Sie das milde Mittagslicht für die besten Fotos.",
+                "hu": "Használd ki a déli lágy fényeket a legjobb fotók készítéséhez.",
+                "ro": "Profită de lumina blândă de la amiază pentru cele mai bune fotografii.",
+                "en": "Take advantage of the mild midday light for the best photography."
+              }
+            },
+            {
+              "name": "San Benedetto Market",
+              "tip_5lang": {
+                "de": "Probieren Sie saisonale Winterspezialitäten wie Seeigel.",
+                "hu": "Kóstolja meg a szezonális téli különlegességet, a tengeri sünt.",
+                "ro": "Gustați specialitățile sezoniere de iarnă, cum ar fi ariciul de mare.",
+                "en": "Try seasonal winter delicacies like sea urchins (ricci di mare)."
+              }
+            },
+            {
+              "name": "Santuario di Bonaria",
+              "tip_5lang": {
+                "de": "Der Blick auf den Hafen ist zum frühen Sonnenuntergang traumhaft.",
+                "hu": "A kikötőre nyíló kilátás a korai naplementekor álomszerű.",
+                "ro": "Vederea spre port este superbă la ora apusului timpuriu.",
+                "en": "The view over the harbor is magical during the early winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne ist stark, aber der Mistral-Wind kann kühl sein; Zwiebelprinzip ist ideal.",
+              "Die Sonne geht gegen 17:00 Uhr unter; planen Sie Outdoor-Aktivitäten davor.",
+              "Genießen Sie heiße Schokolade in den Cafés an der Piazza Yenne.",
+              "Winter ist die beste Zeit für klare Fotomotive ohne sommerlichen Dunst.",
+              "Viele historische Stätten sind weniger überlaufen als in der Hauptsaison."
+            ],
+            "hu": [
+              "A nap erős, de a Misztrál szél hűvös lehet; öltözzön rétegesen.",
+              "A nap 17:00 körül nyugszik, a szabadtéri programokat időzítse korábbra.",
+              "Kóstolja meg a forró csokoládét a Piazza Yenne kávézóiban.",
+              "A tél a legjobb időszak a tiszta, páramentes fotók készítéséhez.",
+              "A legtöbb látnivalónál ilyenkor sokkal kisebb a tömeg, mint nyáron."
+            ],
+            "ro": [
+              "Soarele e puternic, dar vântul Mistral poate fi rece; îmbrăcați-vă în straturi.",
+              "Soarele apune în jur de ora 17:00; planificați activitățile în aer liber înainte.",
+              "Savurați o ciocolată caldă în cafenelele din Piazza Yenne.",
+              "Iarna este cea mai bună perioadă pentru fotografii clare, fără pâcla verii.",
+              "Multe situri istorice sunt mult mai puțin aglomerate decât în plin sezon."
+            ],
+            "en": [
+              "The sun is strong but the Mistral wind can be chilly; layer your clothing.",
+              "Sunset is around 5:00 PM; plan your outdoor sightseeing accordingly.",
+              "Warm up with a rich hot chocolate in the cafes around Piazza Yenne.",
+              "Winter offers the clearest views for photography without the summer haze.",
+              "Most historical sites are significantly less crowded than in high season."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -450,6 +854,262 @@
           "Rent a bike near the port area.",
           "Be aware of strong winds when cycling near the shore."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Radeln Sie durch die Naturwunder Cagliaris. Beginnen Sie in den Salzwiesen von Molentargius, um Flamingos zu beobachten, und folgen Sie dann dem kilometerlangen Poetto-Strand für eine Meeresbrise.",
+            "hu": "Tekerjen át Cagliari természeti csodáin. Kezdje a Molentargius sós tavainál flamingólesre, majd kövesse a Poetto strandot kilométereken át a tengerparti szellőben.",
+            "ro": "Pedalați prin minunile naturale ale orașului Cagliari. Începeți la salinele Molentargius pentru a vedea flamingi, apoi urmați plaja Poetto pentru briza mării.",
+            "en": "Cycle through Cagliari's natural wonders. Start in the Molentargius salt ponds for flamingo watching, then follow the Poetto beach for miles of sea breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parco di Molentargius",
+                "hu": "Molentargius Park",
+                "ro": "Parcul Molentargius",
+                "en": "Molentargius Park"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie nach den rosa Flamingos.",
+                "hu": "Keresd a rózsaszín flamingókat a tavakon.",
+                "ro": "Căutați flamingii roz pe lacuri.",
+                "en": "Look for the pink flamingos in the salt ponds."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia del Poetto",
+                "hu": "Poetto strand",
+                "ro": "Plaja Poetto",
+                "en": "Poetto Beach"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Radweg entlang des Meeres.",
+                "hu": "Kiváló kerékpárút közvetlenül a tengerparton.",
+                "ro": "Pistă excelentă de biciclete de-a lungul mării.",
+                "en": "Perfect bike lane running all along the coast."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Fregola ai frutti di mare",
+                "tip": "Sardische Pasta mit Meeresfrüchten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fregola ai frutti di mare",
+                "tip": "Szárd tészta tenger gyümölcseivel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fregola ai frutti di mare",
+                "tip": "Paste sardiniene cu fructe de mare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fregola ai frutti di mare",
+                "tip": "Toasted Sardinian pasta with seafood."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Marina Piccola",
+                "tip": "Kleiner Hafen am Ende des Strandes.",
+                "emoji": "⛵"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Marina Piccola",
+                "tip": "Kis kikötő a strand végén.",
+                "emoji": "⛵"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Marina Piccola",
+                "tip": "Port mic la capătul plajei.",
+                "emoji": "⛵"
+              }
+            ],
+            "en": [
+              {
+                "name": "Marina Piccola",
+                "tip": "Small marina at the end of the beach.",
+                "emoji": "⛵"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Chioschi",
+                "tip": "Kleine Strandkioske für Souvenirs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Chioschi",
+                "tip": "Strandmenti bódék és szuvenírboltok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chioschi",
+                "tip": "Chioșcuri de plajă pentru suveniruri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Chioschi",
+                "tip": "Beachfront kiosks for quick buys."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein Fahrrad in der Nähe des Hafens.",
+              "Achten Sie auf starke Windböen am Poetto."
+            ],
+            "hu": [
+              "Bérelj kerékpárt a kikötő közelében.",
+              "Vigyázz az erős széllökésekre a parton."
+            ],
+            "ro": [
+              "Închiriați o bicicletă lângă port.",
+              "Atenție la rafalele puternice de vânt pe plajă."
+            ],
+            "en": [
+              "Rent a bike near the port area.",
+              "Be aware of strong winds when cycling near the shore."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt durch die Salzpfannen von Molentargius bietet eine mystische Atmosphäre. Die Flamingos stört das Wetter kaum.\r\nAm Poetto-Strand peitscht der Wind die Wellen auf, was ein dramatisches Naturschauspiel bietet.\r\nEin wasserfester Stopp in einem Strandkiosk wärmt Körper und Seele.\r\nDie Rückfahrt erfolgt auf Radwegen, die bei Nässe Vorsicht erfordern.",
+            "hu": "Egy esős tekerés a Molentargius sós tavai között misztikus hangulatot áraszt. A flamingókat nem zavarja az eső.\r\nA Poetto strandon a szél felkorbácsolja a hullámokat, drámai látványt nyújtva a természet kedvelőinek.\r\nEgy vízhatlan megálló a tengerparti kioszkok egyikében felmelegíti a lelket.\r\nA visszaút során a kerékpárutakon fokozott figyelem szükséges a csúszós felület miatt.",
+            "ro": "O plimbare cu bicicleta prin mlaștinile de la Molentargius pe ploaie are o atmosferă mistică. Flamingo nu sunt deranjați.\r\nLa plaja Poetto, vântul ridică valurile, oferind un spectacol dramatic al naturii.\r\nO oprire într-un chioșc de pe plajă vă va încălzi cu o băutură caldă.\r\nDrumul de întoarcere pe pistele de biciclete necesită prudență sporită pe asfaltul ud.",
+            "en": "A rainy cycle through the Molentargius salt pans offers a mystic atmosphere. The flamingos don't seem to mind the weather.\r\nAt Poetto Beach, the wind whips up the waves, creating a dramatic natural spectacle for riders.\r\nA sheltered stop in one of the beach kiosks provides a warm break from the elements.\r\nThe return journey on the bike paths requires extra caution due to the wet surfaces."
+          },
+          "stops": [
+            {
+              "name": "Molentargius Park",
+              "tip_5lang": {
+                "de": "Die Wege können matschig sein; Schutzbleche sind sehr vorteilhaft.",
+                "hu": "Az utak sárosak lehetnek, a sárvédő ilyenkor nagy segítség.",
+                "ro": "Potecile pot fi noroioase; aripile la bicicletă sunt foarte utile.",
+                "en": "Paths can be muddy; mudguards are highly beneficial for this ride."
+              }
+            },
+            {
+              "name": "Poetto Beach",
+              "tip_5lang": {
+                "de": "Vorsicht bei Seitenwind auf dem Radweg direkt am Meer.",
+                "hu": "Vigyázzon az oldalszéllel a közvetlenül a tengerparti kerékpárúton.",
+                "ro": "Atenție la vântul lateral pe pista de biciclete de lângă mare.",
+                "en": "Be careful of crosswinds on the cycling path directly by the sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie komplette Regenkleidung; der Wind am Meer macht den Regen intensiver.",
+              "Bremsen Sie frühzeitig, da Bremsbeläge bei Nässe weniger effektiv sind.",
+              "Meiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können.",
+              "Beleuchtung einschalten, da die Sicht bei Regen stark eingeschränkt ist.",
+              "Ein warmer Stopp in einem 'Casotto' am Poetto wirkt Wunder gegen Kälte."
+            ],
+            "hu": [
+              "Viseljen teljes esőfelszerelést; a tengerparti szél felerősíti az esőérzetet.",
+              "Fékezzen időben, mert a fékhatás nedves úton jelentősen csökken.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek.",
+              "Kapcsolja be a lámpákat, mert esőben a látótávolság nagyon lecsökken.",
+              "Egy meleg kávé a Poetto egyik fedett kioszkjában csodát tesz a hideg ellen."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie; vântul de pe coastă face ploaia mai densă.",
+              "Frânați din timp, deoarece eficiența frânelor scade pe carosabil ud.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci în asfalt.",
+              "Aprindeți luminile, vizibilitatea este redusă considerabil în timpul ploii.",
+              "O oprire la un 'Casotto' pe Poetto face minuni împotriva frigului."
+            ],
+            "en": [
+              "Wear full waterproof gear; the coastal wind makes the rain feel much heavier.",
+              "Brake early as braking distance increases significantly on wet roads.",
+              "Avoid puddles as they can hide deep potholes in the path.",
+              "Turn on your lights as visibility is greatly reduced during rain showers.",
+              "A warm stop in a sheltered 'Casotto' at Poetto works wonders against the cold."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter ist die beste Zeit für Molentargius, da die Flamingo-Population ihren Höhepunkt erreicht. Die Luft ist klar und frisch.\r\nRadfahren am Poetto im Winter ist entspannt, ohne die sommerlichen Menschenmassen.\r\nDie Sonne wärmt den Rücken, während man die 15km lange Strecke genießt.\r\nZum Sonnenuntergang bietet der Weg zurück in die Stadt fantastische Farben über dem Wasser.",
+            "hu": "A tél a legjobb időszak a Molentargius meglátogatására, mert ekkor a legnagyobb a flamingóállomány. A levegő friss és tiszta.\r\nKerékpározni a Poetton télen igazi felüdülés a nyári tömeg nélkül.\r\nA nap melengeti az ember hátát, miközben a 15 km-es távot teljesíti.\r\nNaplementekor a város felé vezető út mesés színeket kínál a víz felett.",
+            "ro": "Iarna este cel mai bun moment pentru Molentargius, deoarece populația de flamingo este la apogeu. Aerul este curat și proaspăt.\r\nCiclismul pe Poetto iarna este relaxant, fără mulțimile de turiști din vară.\r\nSoarele vă încălzește spatele în timp ce vă bucurați de traseul de 15 km.\r\nLa apus, drumul de întoarcere spre oraș oferă culori fantastice deasupra apei.",
+            "en": "Winter is prime time for Molentargius as the flamingo population reaches its peak. The air is exceptionally clear and fresh.\r\nCycling along Poetto in winter is a peaceful experience without the summer crowds.\r\nThe mild sun warms your back as you cruise along the 15km route.\r\nAt sunset, the path back to the city offers stunning colors reflecting over the water."
+          },
+          "stops": [
+            {
+              "name": "Molentargius Park",
+              "tip_5lang": {
+                "de": "Beste Zeit für Vogelbeobachtungen; Fernglas nicht vergessen!",
+                "hu": "A legjobb időszak a madármegfigyelésre, ne felejtse otthon a távcsövet!",
+                "ro": "Cea mai bună perioadă pentru observarea păsărilor; nu uitați binoclul!",
+                "en": "Best season for birdwatching; don't forget your binoculars!"
+              }
+            },
+            {
+              "name": "Poetto Beach",
+              "tip_5lang": {
+                "de": "Die Sonne ist angenehm, aber der Fahrtwind im Winter ist kühl.",
+                "hu": "A nap kellemes, de a menetszél télen hűvös lehet.",
+                "ro": "Soarele este plăcut, dar vântul din timpul mersului este rece.",
+                "en": "The sun is pleasant, but the wind chill while riding is cool in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Handschuhe und Stirnband sind wichtig gegen den kalten Fahrtwind.",
+              "Die UV-Strahlung ist auch im Winter vorhanden; Sonnenschutz nutzen.",
+              "Flamingos sind im Winter am zahlreichsten im Park zu sehen.",
+              "Planen Sie die Rückkehr vor 17:00 Uhr, um nicht in die Dunkelheit zu kommen.",
+              "Genießen Sie die Ruhe am Strand, die es so nur in der Nebensaison gibt."
+            ],
+            "hu": [
+              "A kesztyű és a fejpánt fontos a hideg menetszél ellen.",
+              "Az UV-sugárzás télen is erős lehet, érdemes naptejet használni.",
+              "A flamingók télen láthatók a legnagyobb számban a parkban.",
+              "Tervezze a visszaérkezést 17:00 előtt, hogy elkerülje a sötétedést.",
+              "Élvezze a tengerparti nyugalmat, ami csak szezonon kívül létezik."
+            ],
+            "ro": [
+              "Mănușile și bentița sunt importante împotriva vântului rece de mișcare.",
+              "Radiațiile UV sunt prezente și iarna; folosiți protecție solară.",
+              "Flamingo sunt cei mai numeroși în parc în timpul lunilor de iarnă.",
+              "Planificați întoarcerea înainte de ora 17:00 pentru a evita întunericul.",
+              "Bucurați-vă de liniștea de pe plajă, specifică doar extrasezonului."
+            ],
+            "en": [
+              "Gloves and a headband are essential against the cold wind chill.",
+              "UV radiation is still present in winter; wear sunscreen on clear days.",
+              "Flamingos are most numerous in the park during the winter months.",
+              "Aim to return before 5:00 PM to avoid cycling in the dark.",
+              "Enjoy the coastal serenity that only exists during the off-season."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -590,6 +1250,230 @@
           "Parking is tough in the center; use designated garages.",
           "Watch out for ZTL (Limited Traffic Zones)!"
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie bequem die kulturellen Highlights im Zentrum und die Naturschätze der Umgebung wie den Poetto-Strand und die Salinen.",
+            "hu": "Autóval kényelmesen elérheti a központi kulturális látnivalókat és a távolabbi természeti kincseket, mint a Poetto strand és a sólepárlók.",
+            "ro": "Cu mașina puteți ajunge cu ușurință la atracțiile culturale centrale și la comorile naturale de la periferie.",
+            "en": "By car, you can easily reach both central cultural highlights and peripheral natural treasures like Poetto beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale",
+                "hu": "Nemzeti Régészeti Múzeum",
+                "ro": "Muzeul Național de Arheologie",
+                "en": "National Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die Giganten von Mont'e Prama.",
+                "hu": "Nézd meg a Mont'e Prama-i óriásszobrokat.",
+                "ro": "Vedeți giganții din Mont'e Prama.",
+                "en": "See the Giganti di Mont'e Prama statues."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bottarga",
+                "tip": "Getrockneter Fischrogen, eine lokale Delikatesse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bottarga",
+                "tip": "Szárított halikra, igazi helyi csemege."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bottarga",
+                "tip": "Icre de pește uscate, o delicatesă locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bottarga",
+                "tip": "Cured fish roe, a must-try local specialty."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Sella del Diavolo",
+                "tip": "Panoramablick auf die Bucht.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sella del Diavolo",
+                "tip": "Panoráma az angyalok öblére.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sella del Diavolo",
+                "tip": "Vedere panoramică asupra golfului.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Sella del Diavolo",
+                "tip": "Panoramic viewpoint over the bay.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "La Rinascente",
+                "tip": "Luxus-Kaufhaus am Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "La Rinascente",
+                "tip": "Luxusáruház a kikötőben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "La Rinascente",
+                "tip": "Magazin de lux lângă port."
+              }
+            ],
+            "en": [
+              {
+                "name": "La Rinascente",
+                "tip": "Upscale department store by the port."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken ist im Zentrum schwierig, nutzen Sie Parkhäuser.",
+              "ZTL-Zonen beachten!"
+            ],
+            "hu": [
+              "A parkolás nehéz a központban, használd a parkolóházakat.",
+              "Figyelj a behajtási korlátozásokra (ZTL)!"
+            ],
+            "ro": [
+              "Parcarea este dificilă în centru, folosiți garajele.",
+              "Atenție la zonele cu trafic limitat (ZTL)!"
+            ],
+            "en": [
+              "Parking is tough in the center; use designated garages.",
+              "Watch out for ZTL (Limited Traffic Zones)!"
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt im Regen führt bequem zum Archäologischen Museum. Das Auto ist der perfekte Zufluchtsort.\r\nMittags erkundet man die Exponate im Trockenen, während draußen der Regen auf die Kuppeln trommelt.\r\nNachmittags bietet eine Panoramafahrt entlang der Küste spektakuläre Ausblicke auf die aufgewühlte See.\r\nAbends parkt man nahe dem Zentrum für ein gemütliches Abendessen ohne nass zu werden.",
+            "hu": "Az esős autózás kényelmesen repít a Régészeti Múzeumba. Az autó a tökéletes menedék.\r\nDélben a száraz belső térben csodálhatjuk a kincseket, miközben odakint esik.\r\nDélután egy tengerparti panorámaautózás lenyűgöző kilátást nyújt a felkorbácsolt tengerre.\r\nEste a központ közelében parkolva egy hangulatos vacsorát élvezhetünk beázás nélkül.",
+            "ro": "Călătoria cu mașina pe ploaie vă duce confortabil la Muzeul Arheologic. Mașina este refugiul perfect.\r\nLa prânz, explorați exponatele la adăpost, în timp ce ploaia bate în cupolele orașului.\r\nDupă-amiaza, o tură panoramică pe coastă oferă vederi spectaculoase ale mării agitate.\r\nSeara, parcați aproape de centru pentru o cină caldă, fără a vă uda.",
+            "en": "Driving through the rain brings you comfortably to the Archaeological Museum. The car is your perfect sanctuary.\r\nBy noon, explore the treasures indoors while the rain drums on the city's domes outside.\r\nIn the afternoon, a panoramic drive along the coast offers spectacular views of the turbulent sea.\r\nEvening ends by parking close to the center for a cozy dinner without getting wet."
+          },
+          "stops": [
+            {
+              "name": "National Archaeological Museum",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze in der Nähe (Cittadella dei Musei), ideal bei Regen.",
+                "hu": "Van parkoló a közelben (Cittadella dei Musei), esőben ideális.",
+                "ro": "Există parcare în apropiere (Cittadella dei Musei), ideală pe ploaie.",
+                "en": "There is parking nearby (Cittadella dei Musei), ideal for rainy days."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht in den engen Gassen von Castello; der Asphalt ist rutschig.",
+              "Nutzen Sie die Parkhäuser nahe dem Zentrum (z.B. Parkar), um trocken zu bleiben.",
+              "Scheiben beschlagen schnell; Klimaanlage zur Entfeuchtung nutzen.",
+              "Vermeiden Sie Fahrten in tiefer gelegene Stadtteile bei extremem Starkregen.",
+              "Die Küstenstraße nach Villasimius bietet auch im Regen tolle Panoramen."
+            ],
+            "hu": [
+              "Vigyázzon a szűk utcákban Castello környékén; az aszfalt csúszós lehet.",
+              "Használja a központi parkolóházakat (pl. Parkar), hogy szárazon maradjon.",
+              "Az ablakok gyorsan párásodnak; használja a légkondicionálót páramentesítésre.",
+              "Heves esőzéskor kerülje az alacsonyan fekvő városrészeket.",
+              "A Villasimius felé vezető út esőben is gyönyörű panorámát nyújt."
+            ],
+            "ro": [
+              "Atenție pe străzile înguste din Castello; asfaltul este alunecos.",
+              "Folosiți parcările supraetajate din centru (ex. Parkar) pentru a rămâne uscați.",
+              "Geamurile se aburesc rapid; folosiți aerul condiționat pentru dezaburire.",
+              "Evitați zonele joase ale orașului în timpul ploilor torențiale.",
+              "Drumul de coastă spre Villasimius oferă panorame superbe chiar și pe ploaie."
+            ],
+            "en": [
+              "Be cautious in the narrow streets of Castello; the asphalt can be slick.",
+              "Use indoor parking garages near the center (e.g., Parkar) to stay dry.",
+              "Windows fog up quickly; use the AC for effective dehumidifying.",
+              "Avoid driving through low-lying areas during extremely heavy rainfall.",
+              "The coastal road towards Villasimius offers great panoramas even in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag ist perfekt für eine Erkundungstour mit dem Auto. Die Sicht ist unendlich weit.\r\nMittags bietet das Museum eine warme kulturelle Pause in herrlicher Umgebung.\r\nNachmittags lockt eine Fahrt zum Kap Elia für den schönsten Sonnenuntergang über dem Golf.\r\nAbends ist die Parkplatzsuche in der Stadt im Winter meist einfacher als im Sommer.",
+            "hu": "Egy tiszta téli nap tökéletes az autós felfedezéshez. A látótávolság végtelen.\r\nDélben a múzeum meleg kulturális feltöltődést kínál csodálatos környezetben.\r\nDélután érdemes elautózni a Sant'Elia-fokhoz a legszebb naplementéért az öböl felett.\r\nEste a parkolás is sokkal egyszerűbb a városban télen, mint a főszezonban.",
+            "ro": "O zi senină de iarnă este perfectă pentru o explorare cu mașina. Vizibilitatea este infinită.\r\nLa prânz, muzeul oferă o pauză culturală caldă într-un cadru magnific.\r\nDupă-amiaza, o plimbare spre Capo Sant'Elia oferă cel mai frumos apus peste golf.\r\nSeara, găsirea unui loc de parcare în oraș este mult mai ușoară iarna decât vara.",
+            "en": "A clear winter day is perfect for exploring by car. The visibility is endless.\r\nBy noon, the museum provides a warm cultural break in a magnificent setting.\r\nIn the afternoon, drive to Cape Elia for the most beautiful sunset over the gulf.\r\nEvening parking in the city is generally much easier in winter than during summer."
+          },
+          "stops": [
+            {
+              "name": "National Archaeological Museum",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier angenehm leer; Zeit für Details nehmen.",
+                "hu": "Télen kellemesen üres a hely; szánjon időt a részletekre.",
+                "ro": "Iarna este plăcut de liber aici; faceți-vă timp pentru detalii.",
+                "en": "It's pleasantly uncrowded in winter; take your time with the details."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das klare Wetter für Fahrten zu Aussichtspunkten wie Monte Urpinu.",
+              "Die Sonne blendet im Winter tief; Sonnenbrille griffbereit halten.",
+              "Die Heizung im Auto sorgt für Komfort bei den kühlen Meeresbrisen.",
+              "Planen Sie die Ankunft am Aussichtspunkt vor 16:45 Uhr für den Sonnenuntergang.",
+              "Prüfen Sie den Reifendruck; kühlere Temperaturen können ihn beeinflussen."
+            ],
+            "hu": [
+              "Használja ki a tiszta időt, és autózzon fel a Monte Urpinu kilátóhoz.",
+              "A nap télen alacsonyan jár és vakíthat; tartson kéznél napszemüveget.",
+              "Az autó fűtése kényelmessé teszi az utat a hűvös tengeri szélben.",
+              "Érkezzen a kilátópontokhoz 16:45 előtt a naplemente megtekintéséhez.",
+              "Ellenőrizze a guminyomást, a hűvösebb idő befolyásolhatja azt."
+            ],
+            "ro": [
+              "Profită de vremea senină pentru a urca la punctele de belvedere precum Monte Urpinu.",
+              "Soarele este jos iarna și poate fi orbitor; țineți ochelarii de soare la îndemână.",
+              "Încălzirea mașinii asigură confortul în fața brizelor marine reci.",
+              "Planificați sosirea la punctele de belvedere înainte de 16:45 pentru apus.",
+              "Verificați presiunea în anvelope; temperaturile scăzute o pot influența."
+            ],
+            "en": [
+              "Take advantage of clear weather to drive up to viewpoints like Monte Urpinu.",
+              "The winter sun is low and can be dazzling; keep sunglasses handy.",
+              "Car heating ensures comfort against the chilly coastal breezes.",
+              "Aim to reach viewpoints by 4:45 PM to catch the winter sunset.",
+              "Check your tire pressure as cooler temperatures can affect it."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -730,6 +1614,230 @@
           "Buy tickets in advance at newsstands or via the CTM app.",
           "Buses can be very crowded during peak beach hours."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Das CTM-Busnetz ist effizient. Nehmen Sie die Linie PF oder PQ zum Strand oder die kleineren Busse in die historische Oberstadt.",
+            "hu": "A CTM buszhálózat hatékony. Használja a PF vagy PQ vonalakat a strandhoz, vagy a kisebb buszokat a történelmi felsővároshoz.",
+            "ro": "Rețeaua de autobuze CTM este eficientă. Luați liniile PF sau PQ pentru plajă sau autobuzele mici pentru orașul vechi.",
+            "en": "The CTM bus network is efficient. Take PF or PQ lines to the beach or smaller shuttles to the historic upper town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cattedrale di Santa Maria",
+                "hu": "Santa Maria-székesegyház",
+                "ro": "Catedrala Sfânta Maria",
+                "en": "Cattedrale di Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufzug zum Castello.",
+                "hu": "Használd a liftet a Castello negyedbe jutáshoz.",
+                "ro": "Folosiți liftul pentru a ajunge în Castello.",
+                "en": "Use the public elevators to reach the Castello district."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pizzetta Sfoglia",
+                "tip": "Lokaler Blätterteig-Snack."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pizzetta Sfoglia",
+                "tip": "Helyi leveles tészta snack."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pizzetta Sfoglia",
+                "tip": "Gustare locală din foietaj."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pizzetta Sfoglia",
+                "tip": "Unique local puff pastry pizza snack."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Giardini Pubblici",
+                "tip": "Schattiger Stadtgarten.",
+                "emoji": "🌳"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Giardini Pubblici",
+                "tip": "Árnyas városi kertek.",
+                "emoji": "🌳"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Giardini Pubblici",
+                "tip": "Grădini publice umbrite.",
+                "emoji": "🌳"
+              }
+            ],
+            "en": [
+              {
+                "name": "Giardini Pubblici",
+                "tip": "Shady public city gardens.",
+                "emoji": "🌳"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Largo Carlo Felice",
+                "tip": "Boulevard mit Geschäften."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Largo Carlo Felice",
+                "tip": "Üzletekkel teli sugárút."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Largo Carlo Felice",
+                "tip": "Bulevard plin de magazine."
+              }
+            ],
+            "en": [
+              {
+                "name": "Largo Carlo Felice",
+                "tip": "Grand boulevard with various shops."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab am Kiosk oder via App.",
+              "Busse sind im Sommer oft voll."
+            ],
+            "hu": [
+              "Vegyél jegyet előre az újságosnál vagy appon.",
+              "Nyáron a buszok gyakran zsúfoltak."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans de la chioșcuri sau prin aplicație.",
+              "Autobuzele sunt adesea aglomerate vara."
+            ],
+            "en": [
+              "Buy tickets in advance at newsstands or via the CTM app.",
+              "Buses can be very crowded during peak beach hours."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus gelangt man trocken zur Kathedrale. Die CTM-Busse sind im Regen sehr verlässlich.\r\nMittags nutzt man den Transit, um schnell zwischen den Sehenswürdigkeiten hin und her zu springen.\r\nNachmittags bietet die Busfahrt durch die Stadt einen interessanten Blick auf das regnerische Cagliari.\r\nAbends bringt der Bus Sie sicher zurück zum Hotel, ohne dass Sie durch Pfützen laufen müssen.",
+            "hu": "Busszal szárazon juthatunk el a Székesegyházhoz. A CTM buszok esőben is megbízhatóak.\r\nDélben a tömegközlekedés segít gyorsan mozogni a látnivalók között az esőben.\r\nDélután a buszablakból figyelhetjük a város regényes, esős arcát.\r\nEste a busz biztonságban és szárazon visz vissza a szálláshoz, elkerülve a tócsákat.",
+            "ro": "Cu autobuzul ajungeți uscat la Catedrală. Autobuzele CTM sunt foarte fiabile pe ploaie.\r\nLa prânz, folosiți transportul public pentru a trece rapid între obiectivele turistice.\r\nDupă-amiaza, o călătorie cu autobuzul oferă o perspectivă interesantă asupra orașului plouat.\r\nSeara, autobuzul vă aduce în siguranță la hotel, fără a fi nevoie să mergeți prin bălți.",
+            "en": "Take the bus to reach the Cathedral while staying dry. CTM buses are very reliable in the rain.\r\nAt noon, use transit to hop quickly between sights without getting soaked.\r\nIn the afternoon, the bus ride offers a sheltered perspective of rainy Cagliari through the window.\r\nEvening transit brings you safely back to your stay, avoiding the walk through puddles."
+          },
+          "stops": [
+            {
+              "name": "Cattedrale di Santa Maria",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Indipendenza' ist nur wenige Gehminuten entfernt.",
+                "hu": "Az 'Indipendenza' megálló csak pár perc sétára van.",
+                "ro": "Stația 'Indipendenza' este la doar câteva minute de mers pe jos.",
+                "en": "The 'Indipendenza' stop is just a few minutes' walk away."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab per App, um nicht im Regen suchen zu müssen.",
+              "Busse können bei starkem Regen voller sein als gewöhnlich.",
+              "Nutzen Sie die Echtzeit-Anzeige in der CTM-App für minimales Warten an der Haltestelle.",
+              "Die Linie 7 bringt Sie direkt in das Herz des Castello-Viertels.",
+              "Halten Sie Ausschau nach überdachten Bushaltestellen für mehr Komfort."
+            ],
+            "hu": [
+              "Vásároljon jegyet előre az applikációban, hogy ne az esőben kelljen keresgélni.",
+              "Heves esőzéskor a buszok a szokásosnál zsúfoltabbak lehetnek.",
+              "Használja a CTM app valós idejű adatait, hogy keveset kelljen a megállóban várni.",
+              "A 7-es buszjárat közvetlenül Castello negyed szívébe visz.",
+              "Keressen fedett buszmegállókat a nagyobb kényelem érdekében."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans prin aplicație pentru a nu căuta puncte de vânzare pe ploaie.",
+              "Autobuzele pot fi mai aglomerate decât de obicei în timpul ploilor torențiale.",
+              "Folosiți datele în timp real din aplicația CTM pentru a minimiza așteptarea în stație.",
+              "Linia 7 vă duce direct în inima cartierului istoric Castello.",
+              "Căutați stații de autobuz acoperite pentru un plus de confort."
+            ],
+            "en": [
+              "Buy tickets in advance via the app to avoid searching for shops in the rain.",
+              "Buses might be more crowded than usual during heavy rain showers.",
+              "Use real-time tracking in the CTM app to minimize wait times at the stop.",
+              "Line 7 takes you directly into the heart of the Castello district.",
+              "Look for sheltered bus stops to stay comfortable while waiting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit dem Bus durch Cagliari ist entspannt. Man genießt die Aussicht ohne Parkplatzsorgen.\r\nMittags führt der Weg zur Kathedrale, wo die Wintersonne durch die Fenster bricht.\r\nNachmittags bietet die Fahrt zum Poetto mit dem PF-Bus eine tolle Sicht auf das Meer.\r\nAbends sind die Busse gut geheizt und bringen Sie komfortabel durch die kühle Stadtluft.",
+            "hu": "Egy téli napon busszal bejárni Cagliarit igazán pihentető. Élvezze a kilátást parkolási gondok nélkül.\r\nDélben az út a Székesegyházhoz vezet, ahol a téli nap besüt az ablakokon.\r\nDélután a PF busszal a Poettóra utazva csodás kilátás nyílik a tengerre.\r\nEste a buszok jól fűtöttek, így kényelmesen utazhat a hűvös esti levegőben.",
+            "ro": "O zi de iarnă cu autobuzul prin Cagliari este relaxantă. Bucurați-vă de priveliște fără grija parcării.\r\nLa prânz, drumul duce spre Catedrală, unde soarele de iarnă pătrunde prin vitralii.\r\nDupă-amiaza, o călătorie spre Poetto cu autobuzul PF oferă o vedere superbă asupra mării.\r\nSeara, autobuzele sunt bine încălzite și vă transportă confortabil prin aerul rece al orașului.",
+            "en": "A winter day exploring Cagliari by bus is relaxing. Enjoy the views without parking hassles.\r\nBy noon, head to the Cathedral where winter sunlight streams through the windows.\r\nIn the afternoon, the PF bus ride to Poetto offers great views of the sea.\r\nEvening transit is well-heated, bringing you comfortably through the chilly city air."
+          },
+          "stops": [
+            {
+              "name": "Cattedrale di Santa Maria",
+              "tip_5lang": {
+                "de": "Die Busse fahren im Winter nach dem regulären Fahrplan; sehr verlässlich.",
+                "hu": "A buszok télen is a rendes menetrend szerint közlekednek; nagyon megbízhatóak.",
+                "ro": "Autobuzele circulă după orarul normal iarna; sunt foarte fiabile.",
+                "en": "Buses run on their regular schedule in winter; very reliable service."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die CTM-Busse sind im Winter gut beheizt; ideal zum Aufwärmen.",
+              "Nutzen Sie die Strandbusse (PF, PN) für eine günstige Panoramatour am Poetto.",
+              "Die Frequenz der Busse ist auch in der Nebensaison hoch.",
+              "Denken Sie an den frühen Sonnenuntergang (17:00 Uhr) bei der Zeitplanung.",
+              "Die Haltestelle an der Piazza Yenne ist der beste Umstiegspunkt für alle Richtungen."
+            ],
+            "hu": [
+              "A CTM buszok télen jól fűtöttek, ideálisak egy kis felmelegedésre.",
+              "Használja a strandjáratokat (PF, PN) egy olcsó panorámás utazáshoz a Poettón.",
+              "A buszok járatsűrűsége a főszezonon kívül is magas marad.",
+              "Ügyeljen a korai naplementére (17:00) az útvonal tervezésekor.",
+              "A Piazza Yenne megállója a legjobb átszállási pont minden irányba."
+            ],
+            "ro": [
+              "Autobuzele CTM sunt bine încălzite iarna; ideale pentru a vă încălzi.",
+              "Folosiți liniile spre plajă (PF, PN) pentru un tur panoramic ieftin pe Poetto.",
+              "Frecvența autobuzelor rămâne ridicată și în extrasezon.",
+              "Țineți cont de apusul timpuriu (ora 17:00) când vă planificați timpul.",
+              "Stația din Piazza Yenne este cel mai bun punct de legătură pentru toate direcțiile."
+            ],
+            "en": [
+              "CTM buses are well-heated in winter; perfect for warming up between sights.",
+              "Use the beach lines (PF, PN) for an affordable panoramic ride along Poetto.",
+              "Bus frequency remains high even during the off-season months.",
+              "Keep the early sunset (5:00 PM) in mind when planning your afternoon stops.",
+              "The stop at Piazza Yenne is the best hub for transferring to all directions."
+            ]
+          }
+        }
       }
     }
   },

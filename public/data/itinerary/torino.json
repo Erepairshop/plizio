@@ -280,6 +280,410 @@
           "Use the arcades during rain or strong sun.",
           "Many museums are closed on Mondays."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen im Herzen von Turin auf der Piazza Castello, umgeben von königlicher Pracht. Besuchen Sie den Palazzo Reale und den Dom, bevor Sie mittags die elegante Piazza San Carlo für eine Kaffeepause ansteuern. Der Nachmittag gehört den Schätzen des Ägyptischen Museums. Den krönenden Abschluss bildet die Mole Antonelliana mit ihrem atemberaubenden Blick über die Stadt und die Alpen.",
+            "hu": "Kezdje a reggelt Torino szívében, a Piazza Castellón, királyi pompával körülvéve. Látogassa meg a Királyi Palotát és a Dómot, majd délben irány az elegáns Piazza San Carlo egy kávészünetre. A délután az Egyiptomi Múzeum kincseié. A napot a Mole Antonelliana koronázza meg, ahonnan lélegzetelállító kilátás nyílik a városra és az Alpokra.",
+            "ro": "Începeți dimineața în inima Torinoului, în Piazza Castello, înconjurați de splendoarea regală. Vizitați Palatul Regal și Catedrala, apoi la prânz mergeți spre eleganta Piazza San Carlo pentru o pauză de cafea. După-amiaza este dedicată comorilor Muzeului Egiptean. Ziua se încheie la Mole Antonelliana, cu o vedere uluitoare asupra orașului și Alpilor.",
+            "en": "Start your morning in the heart of Turin at Piazza Castello, surrounded by royal splendor. Visit the Royal Palace and the Cathedral, then head to the elegant Piazza San Carlo for a coffee break at midday. The afternoon is dedicated to the treasures of the Egyptian Museum. The day concludes at the Mole Antonelliana, offering a breathtaking view over the city and the Alps."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza Castello",
+                "hu": "Piazza Castello",
+                "ro": "Piazza Castello",
+                "en": "Piazza Castello"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Palazzo Madama im Zentrum.",
+                "hu": "Csodálja meg a Palazzo Madama épületét a tér közepén.",
+                "ro": "Admirați Palazzo Madama în centrul pieței.",
+                "en": "Admire Palazzo Madama in the center of the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Reale",
+                "hu": "Királyi Palota",
+                "ro": "Palatul Regal",
+                "en": "Royal Palace"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die königliche Waffenkammer.",
+                "hu": "Látogasson el a királyi fegyvertárba.",
+                "ro": "Vizitați armurăria regală.",
+                "en": "Visit the royal armory inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di Torino",
+                "hu": "Torinói Dóm",
+                "ro": "Catedrala din Torino",
+                "en": "Turin Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Hier wird das Grabtuch von Turin aufbewahrt.",
+                "hu": "Itt őrzik a torinói leplet.",
+                "ro": "Aici este păstrat Giulgiul din Torino.",
+                "en": "The Shroud of Turin is kept here."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza San Carlo",
+                "hu": "Piazza San Carlo",
+                "ro": "Piazza San Carlo",
+                "en": "Piazza San Carlo"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie einen Bicerin in einem der historischen Cafés.",
+                "hu": "Kóstoljon meg egy Bicerint a történelmi kávézók egyikében.",
+                "ro": "Gustați un Bicerin la una dintre cafenelele istorice.",
+                "en": "Try a Bicerin at one of the historic cafes."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Egizio",
+                "hu": "Egyiptomi Múzeum",
+                "ro": "Muzeul Egiptean",
+                "en": "Egyptian Museum"
+              },
+              "tip_5lang": {
+                "de": "Zweitgrößte ägyptische Sammlung der Welt.",
+                "hu": "A világ második legnagyobb egyiptomi gyűjteménye.",
+                "ro": "A doua cea mai mare colecție egipteană din lume.",
+                "en": "Second largest Egyptian collection in the world."
+              }
+            },
+            {
+              "name": {
+                "de": "Mole Antonelliana",
+                "hu": "Mole Antonelliana",
+                "ro": "Mole Antonelliana",
+                "en": "Mole Antonelliana"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie den Glasaufzug für eine 360-Grad-Aussicht.",
+                "hu": "Használja az üvegliftet a 360 fokos panorámáért.",
+                "ro": "Luați liftul de sticlă pentru o vedere de 360 de grade.",
+                "en": "Take the glass elevator for a 360-degree view."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bicerin",
+                "tip": "Traditionelles Getränk aus Espresso, Schokolade und Sahne."
+              },
+              {
+                "name": "Caffè Torino",
+                "tip": "Historisches Café an der Piazza San Carlo."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bicerin",
+                "tip": "Hagyományos ital eszpresszóból, csokoládéból és tejszínből."
+              },
+              {
+                "name": "Caffè Torino",
+                "tip": "Történelmi kávéház a Piazza San Carlo téren."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bicerin",
+                "tip": "Băutură tradițională din espresso, ciocolată și frișcă."
+              },
+              {
+                "name": "Caffè Torino",
+                "tip": "Cafenea istorică în Piazza San Carlo."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bicerin",
+                "tip": "Traditional drink made of espresso, chocolate, and cream."
+              },
+              {
+                "name": "Caffè Torino",
+                "tip": "Historic cafe located in Piazza San Carlo."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Monte dei Cappuccini",
+                "tip": "Bester Aussichtspunkt für den Sonnenuntergang.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Monte dei Cappuccini",
+                "tip": "A legjobb kilátópont naplementéhez.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Monte dei Cappuccini",
+                "tip": "Cel mai bun punct de observație pentru apus.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Monte dei Cappuccini",
+                "tip": "Best viewpoint for sunset.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Via Roma",
+                "tip": "Luxusmarken und elegante Arkaden."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Via Roma",
+                "tip": "Luxusmárkák és elegáns árkádok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Via Roma",
+                "tip": "Branduri de lux și arcade elegante."
+              }
+            ],
+            "en": [
+              {
+                "name": "Via Roma",
+                "tip": "Luxury brands and elegant arcades."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Innenstadt ist flach und ideal zum Spazierengehen.",
+              "Nutzen Sie die Arkaden bei Regen oder starker Sonne.",
+              "Viele Museen sind montags geschlossen."
+            ],
+            "hu": [
+              "A belváros sík és ideális a sétáláshoz.",
+              "Használja az árkádokat esőben vagy erős napsütésben.",
+              "Sok múzeum hétfőn zárva tart."
+            ],
+            "ro": [
+              "Centrul orașului este plat și ideal pentru plimbări.",
+              "Folosiți arcadele în caz de ploaie sau soare puternic.",
+              "Multe muzee sunt închise lunea."
+            ],
+            "en": [
+              "The city center is flat and ideal for walking.",
+              "Use the arcades during rain or strong sun.",
+              "Many museums are closed on Mondays."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie unter den schützenden Arkaden der Piazza Castello. Der Königspalast bietet am Vormittag ein perfektes trockenes Refugium mit prunkvollen Sälen.\nMittags ermöglichen die 18 km langen Portici einen trockenen Spaziergang zur Piazza San Carlo. Genießen Sie das prasselnde Geräusch des Regens auf dem historischen Pflaster.\nDer Nachmittag gehört dem Ägyptischen Museum, wo Sie stundenlang in die Geschichte eintauchen können, ohne nass zu werden. Danach bietet die Mole Schutz.\nAbends glänzen die nassen Steine im Schein der Straßenlaternen. Beenden Sie den Tag gemütlich in einem der historischen Cafés unter den Arkaden.",
+            "hu": "Kezdje a napot a Piazza Castello árkádjai alatt. A Királyi Palota belső terei lenyűgöző menedéket kínálnak a délelőtti záporok elől a történelmi falak között.\nDélben a Piazza San Carlo elegáns portikuszai mentén sétálva keressen egy éttermet. Az eső kopogása a köveken különleges hangulatot áraszt a városközpontban.\nDélután merüljön el az Egyiptomi Múzeum kincsei között, ahol órákig szárazon maradhat. Ezután a Mole Antonelliana felé vegye az irányt, amely teljesen fedett.\nEste a kivilágított, vizes utcák látványa az árkádok alól szemlélve a legszebb. Fejezze be a napot egy forró itallal egy közeli kávéházban.",
+            "ro": "Începeți ziua sub arcadele protectoare din Piazza Castello. Palatul Regal oferă un refugiu perfect în interior pentru a admira apartamentele somptuoase.\nLa prânz, mergeți spre Piazza San Carlo folosind celebrele porticuri care vă țin uscat. Atmosfera orașului devine melancolică și elegantă sub ploaie.\nDupă-amiaza este ideală pentru Muzeul Egiptean, unde spațiile vaste vă permit să explorați fără grija vremii. Continuați spre Mole Antonelliana.\nSeara, străzile umede reflectă luminile orașului într-un mod spectaculos. Încheiați turul într-o cafenea istorică, ascultând ploaia de sub arcade.",
+            "en": "Start your day under the protective arcades of Piazza Castello. The Royal Palace provides a magnificent indoor refuge during the morning showers.\nAt noon, walk along the elegant porticos towards Piazza San Carlo to find a cozy lunch spot. The sound of rain on the cobblestones adds a poetic touch.\nSpend the afternoon inside the world-class Egyptian Museum, staying completely dry for hours. Head next to the Mole Antonelliana for more indoor exploration.\nIn the evening, enjoy the view of the illuminated, wet streets from beneath the arcades. Finish your day with a warm drink in a historic cafe."
+          },
+          "stops": [
+            {
+              "name": "Piazza Castello",
+              "tip_5lang": {
+                "de": "Nutzen Sie die breiten Arkaden, um das Zentrum trocken zu erkunden.",
+                "hu": "Használja a széles árkádokat a központ száraz felfedezéséhez.",
+                "ro": "Folosiți arcadele largi pentru a explora centrul fără umbrelă.",
+                "en": "Use the wide arcades to explore the center while staying dry."
+              }
+            },
+            {
+              "name": "Royal Palace",
+              "tip_5lang": {
+                "de": "Idealer Ort, um einen starken Regenschauer in den prunkvollen Sälen abzuwarten.",
+                "hu": "Ideális hely egy erős zápor átvészelésére a pompás termekben.",
+                "ro": "Loc ideal pentru a aștepta trecerea unei ploi torențiale în sălile regale.",
+                "en": "Ideal place to wait out a heavy downpour in the magnificent halls."
+              }
+            },
+            {
+              "name": "Turin Cathedral",
+              "tip_5lang": {
+                "de": "Die Ruhe im Inneren bietet Schutz vor dem ungemütlichen Wetter draußen.",
+                "hu": "A belső nyugalom védelmet nyújt a kinti barátságtalan időjárás ellen.",
+                "ro": "Liniștea din interior oferă adăpost împotriva vremii neplăcute de afară.",
+                "en": "The tranquility inside offers shelter from the unpleasant weather outside."
+              }
+            },
+            {
+              "name": "Piazza San Carlo",
+              "tip_5lang": {
+                "de": "Die Portici hier beherbergen einige der besten Cafés für eine Regenpause.",
+                "hu": "Az itteni portikuszok adják a legjobb kávéházakat egy esős szünethez.",
+                "ro": "Porticurile de aici găzduiesc unele dintre cele mai bune cafenele pentru o pauză.",
+                "en": "The porticos here house some of the best cafes for a rainy break."
+              }
+            },
+            {
+              "name": "Egyptian Museum",
+              "tip_5lang": {
+                "de": "Ein riesiger Innenraum, perfekt für mehrere Stunden bei schlechtem Wetter.",
+                "hu": "Hatalmas belső tér, tökéletes több órás tartózkodásra rossz időben.",
+                "ro": "Un spațiu interior imens, perfect pentru câteva ore pe vreme rea.",
+                "en": "A huge indoor space, perfect for spending several hours during bad weather."
+              }
+            },
+            {
+              "name": "Mole Antonelliana",
+              "tip_5lang": {
+                "de": "Der Aufzug und das Museum sind komplett wetterfest und überdacht.",
+                "hu": "A lift és a múzeum teljesen időjárásálló és fedett.",
+                "ro": "Liftul și muzeul sunt complet protejate de intemperii și acoperite.",
+                "en": "The elevator and museum are completely weatherproof and covered."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Turin hat 18 km Arkaden, nutzen Sie diese konsequent bei Regen.",
+              "Tragen Sie wasserfeste Schuhe, da sich an Straßenübergängen Pfützen bilden.",
+              "Ein Regenschirm ist trotz Arkaden für kurze Übergänge ratsam.",
+              "Nutzen Sie die Regenzeit für einen ausgiebigen Bicerin in einem Café.",
+              "Die Museen sind bei Regen oft voller, buchen Sie Tickets im Voraus."
+            ],
+            "hu": [
+              "Torinónak 18 km-nyi árkádja van, esőben használja ezeket következetesen.",
+              "Viseljen vízálló cipőt, mert az útkereszteződéseknél tócsák alakulhatnak ki.",
+              "Az árkádok ellenére egy esernyő ajánlott a rövid átmeneti szakaszokra.",
+              "Használja ki az esős időt egy kiadós Bicerin elfogyasztására egy kávézóban.",
+              "A múzeumok esőben gyakran telítettebbek, foglaljon jegyet előre."
+            ],
+            "ro": [
+              "Torino are 18 km de arcade, folosiți-le consecvent când plouă.",
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți la intersecții.",
+              "În ciuda arcadelor, o umbrelă este recomandată pentru scurte segmente.",
+              "Profită de ploaie pentru a savura un Bicerin autentic într-o cafenea.",
+              "Muzeele sunt adesea mai aglomerate pe ploaie, rezervați bilete în avans."
+            ],
+            "en": [
+              "Torino has 18 km of arcades; use them consistently during rain.",
+              "Wear waterproof shoes as puddles often form at street crossings.",
+              "Despite the arcades, an umbrella is advised for short transitions.",
+              "Use the rainy time to enjoy a long Bicerin break in a historic cafe.",
+              "Museums are often more crowded when it rains; book tickets in advance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen an der Piazza Castello. Die kühle Luft ist erfrischend, während Sie den Königspalast besuchen, der innen angenehm geheizt ist.\nMittags wärmen Sie sich in der Kathedrale auf, bevor Sie über die Piazza San Carlo schlendern. Ein heißer Bicerin ist jetzt fast eine Pflicht.\nDer Nachmittag im Ägyptischen Museum bietet Schutz vor der Kälte. Da es früh dunkel wird, erleben Sie den Übergang zur Abendbeleuchtung an der Mole.\nAbends funkelt Turin im winterlichen Glanz. Die beleuchteten Plätze wirken in der kalten, klaren Nacht besonders festlich und magisch.",
+            "hu": "Tiszta téli reggel a Piazza Castellón. A hűvös levegő frissítő, miközben meglátogatja a Királyi Palotát, amely belül kellemesen fűtött.\nDélben melegedjen fel a Székesegyházban, mielőtt a Piazza San Carlón sétálna. Egy forró Bicerin most szinte kötelező program.\nAz Egyiptomi Múzeumban töltött délután védelmet nyújt a hideg ellen. Mivel korán sötétedik, a Mole Antonellianánál már az esti fényeket láthatja.\nEste Torino téli fényben tündököl. A kivilágított terek a hideg, tiszta éjszakában különösen ünnepinek és varázslatosnak tűnnek.",
+            "ro": "O dimineață senină de iarnă în Piazza Castello. Aerul rece este revigorant în timp ce vizitați Palatul Regal, care este încălzit plăcut la interior.\nLa prânz, încălziți-vă în Catedrală înainte de a vă plimba prin Piazza San Carlo. Un Bicerin fierbinte este aproape obligatoriu acum.\nDupă-amiaza la Muzeul Egiptean oferă protecție împotriva frigului. Deoarece se întunecă devreme, veți prinde luminile serii la Mole Antonelliana.\nSeara, Torino strălucește în straie de iarnă. Piețele iluminate par deosebit de festive și magice în noaptea rece și senină.",
+            "en": "A crisp winter morning at Piazza Castello. The cool air is refreshing as you visit the Royal Palace, which is comfortably heated inside.\nAt noon, warm up in the Cathedral before strolling through Piazza San Carlo. A hot Bicerin coffee is almost a necessity now.\nThe afternoon in the Egyptian Museum provides a perfect escape from the cold. As it gets dark early, you'll see the evening lights at the Mole.\nIn the evening, Turin sparkles in winter glory. The illuminated squares look particularly festive and magical in the cold, clear night."
+          },
+          "stops": [
+            {
+              "name": "Piazza Castello",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, da der offene Platz recht windig sein kann.",
+                "hu": "Öltözzön melegen, mert a nyitott tér elég szeles lehet.",
+                "ro": "Îmbrăcați-vă gros, deoarece piața deschisă poate fi destul de vântoasă.",
+                "en": "Dress warmly as the open square can be quite windy."
+              }
+            },
+            {
+              "name": "Royal Palace",
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Wärme in den prunkvollen königlichen Gemächern.",
+                "hu": "Élvezze a kellemes meleget a pompás királyi lakosztályokban.",
+                "ro": "Bucurați-vă de căldura confortabilă din apartamentele regale somptuoase.",
+                "en": "Enjoy the cozy warmth inside the magnificent royal apartments."
+              }
+            },
+            {
+              "name": "Turin Cathedral",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille, um sich kurz aufzuwärmen und das Grabtuch zu ehren.",
+                "hu": "A csend helye, ahol rövid időre felmelegedhet és tisztelheti a Leplet.",
+                "ro": "Un loc de liniște pentru a vă încălzi puțin și a onora Giulgiul.",
+                "en": "A place of silence to warm up briefly and honor the Shroud."
+              }
+            },
+            {
+              "name": "Piazza San Carlo",
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine heiße Schokolade in einem der Nobelcafés.",
+                "hu": "Tökéletes hely egy forró csokoládéhoz az egyik elegáns kávézóban.",
+                "ro": "Locul perfect pentru o ciocolată caldă într-o cafenea elegantă.",
+                "en": "The perfect spot for a hot chocolate in one of the noble cafes."
+              }
+            },
+            {
+              "name": "Egyptian Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kältesten Stunden des Tages für diesen Indoor-Besuch.",
+                "hu": "Használja ki a nap leghidegebb óráit erre a benti látogatásra.",
+                "ro": "Folosiți cele mai reci ore ale zilei pentru această vizită în interior.",
+                "en": "Use the coldest hours of the day for this indoor visit."
+              }
+            },
+            {
+              "name": "Mole Antonelliana",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter gegen 17:00 Uhr, ideal für Fotos.",
+                "hu": "A naplemente télen 17:00 körül van, ideális fotózáshoz.",
+                "ro": "Apusul este în jur de ora 17:00 iarna, ideal pentru fotografii.",
+                "en": "Sunset is around 17:00 in winter, ideal for evening photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Kleidung in Schichten, da Museen oft stark beheizt sind.",
+              "Die Sonne geht im Winter gegen 17:00 Uhr unter.",
+              "Probieren Sie unbedingt einen Bicerin, das lokale Heißgetränk.",
+              "Einige Brunnen könnten im Winter abgeschaltet sein.",
+              "Die Arkaden schützen vor dem kalten Wind in den Straßen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a múzeumok gyakran erősen fűtöttek.",
+              "A nap télen 17:00 körül nyugszik.",
+              "Mindenképpen kóstolja meg a Bicerint, a helyi forró italt.",
+              "Néhány szökőkút télire leállhat.",
+              "Az árkádok védenek a hideg széltől az utcákon."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece muzeele sunt adesea bine încălzite.",
+              "Soarele apune în jurul orei 17:00 în timpul iernii.",
+              "Nu ratați un Bicerin, băutura caldă locală tradițională.",
+              "Unele fântâni pot fi oprite pe timpul iernii.",
+              "Arcadele vă protejează de vântul rece de pe străzi."
+            ],
+            "en": [
+              "Wear layers as museums are often heavily heated.",
+              "The sun sets around 17:00 during the winter months.",
+              "Make sure to try a Bicerin, the local specialty hot drink.",
+              "Some fountains might be turned off for the winter season.",
+              "The arcades provide good protection against cold winds."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -515,6 +919,362 @@
           "Be careful with the tram tracks.",
           "Parco del Valentino is the most bike-friendly spot."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Turin auf zwei Rädern, beginnend im grünen Parco del Valentino. Radeln Sie am Po entlang zum historischen Zentrum. Nach einem Besuch der Mole Antonelliana überqueren Sie den Fluss zur Kirche Gran Madre und fordern sich mit dem Aufstieg zum Monte dei Cappuccini für das beste Panorama der Stadt heraus.",
+            "hu": "Fedezze fel Torinót két keréken, a zöldellő Parco del Valentinótól indulva. Kerekezzen a Pó partján a történelmi központig. A Mole Antonelliana megtekintése után keljen át a folyón a Gran Madre templomhoz, majd hívja ki magát a Monte dei Cappuccini emelkedőjével a város legjobb panorámájáért.",
+            "ro": "Explorați Torinoul pe două roți, începând din Parcul Valentino. Mergeți cu bicicleta pe malul râului Po până în centrul istoric. După o vizită la Mole Antonelliana, traversați râul spre biserica Gran Madre și provocați-vă cu urcarea la Monte dei Cappuccini pentru cea mai bună panoramă a orașului.",
+            "en": "Explore Turin on two wheels, starting in the lush Parco del Valentino. Cycle along the Po river to the historic center. After visiting the Mole Antonelliana, cross the river to the Gran Madre church and challenge yourself with the climb to Monte dei Cappuccini for the city's best panorama."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parco del Valentino",
+                "hu": "Parco del Valentino",
+                "ro": "Parco del Valentino",
+                "en": "Parco del Valentino"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie entlang des Po-Ufers.",
+                "hu": "Kerékpározzon a Pó-part mentén.",
+                "ro": "Mergeți cu bicicleta pe malul râului Po.",
+                "en": "Cycle along the banks of the Po river."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza Castello",
+                "hu": "Piazza Castello",
+                "ro": "Piazza Castello",
+                "en": "Piazza Castello"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab, um den Platz zu erkunden.",
+                "hu": "Zárja le biztonságosan a biciklit a tér felfedezéséhez.",
+                "ro": "Parcați bicicleta în siguranță pentru a explora piața.",
+                "en": "Park your bike securely to explore the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Mole Antonelliana",
+                "hu": "Mole Antonelliana",
+                "ro": "Mole Antonelliana",
+                "en": "Mole Antonelliana"
+              },
+              "tip_5lang": {
+                "de": "Das Wahrzeichen Turins ist ein Muss.",
+                "hu": "Torino jelképe kötelező látnivaló.",
+                "ro": "Simbolul Torinoului este o destinație obligatorie.",
+                "en": "The landmark of Turin is a must-see."
+              }
+            },
+            {
+              "name": {
+                "de": "Gran Madre di Dio",
+                "hu": "Gran Madre di Dio",
+                "ro": "Gran Madre di Dio",
+                "en": "Gran Madre di Dio"
+              },
+              "tip_5lang": {
+                "de": "Überqueren Sie die Brücke Vittorio Emanuele I.",
+                "hu": "Keljen át a Vittorio Emanuele I hídon.",
+                "ro": "Traversați podul Vittorio Emanuele I.",
+                "en": "Cross the Vittorio Emanuele I bridge."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte dei Cappuccini",
+                "hu": "Monte dei Cappuccini",
+                "ro": "Monte dei Cappuccini",
+                "en": "Monte dei Cappuccini"
+              },
+              "tip_5lang": {
+                "de": "Ein steiler Anstieg, aber die Aussicht lohnt sich.",
+                "hu": "Meredek emelkedő, de a kilátás megéri.",
+                "ro": "O urcare abruptă, dar priveliștea merită.",
+                "en": "A steep climb, but the view is worth it."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Tramezzini",
+                "tip": "In Turin erfunden, perfekt für einen schnellen Snack."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tramezzini",
+                "tip": "Torinóban találták fel, tökéletes gyors snack."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tramezzini",
+                "tip": "Inventat în Torino, perfect pentru o gustare rapidă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tramezzini",
+                "tip": "Invented in Turin, perfect for a quick snack."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parco del Valentino",
+                "tip": "Ruhige Wege am Fluss.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parco del Valentino",
+                "tip": "Csendes utak a folyó mentén.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parco del Valentino",
+                "tip": "Trasee liniștite pe malul râului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parco del Valentino",
+                "tip": "Quiet paths along the river.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Via Garibaldi",
+                "tip": "Lange Fußgängerzone mit vielen Geschäften."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Via Garibaldi",
+                "tip": "Hosszú sétálóutca sok üzlettel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Via Garibaldi",
+                "tip": "Zonă pietonală lungă cu multe magazine."
+              }
+            ],
+            "en": [
+              {
+                "name": "Via Garibaldi",
+                "tip": "Long pedestrian street with many shops."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die [TO]Bike-Stationen in der ganzen Stadt.",
+              "Vorsicht auf den Straßenbahnschienen.",
+              "Der Parco del Valentino ist der fahrradfreundlichste Ort."
+            ],
+            "hu": [
+              "Használja a [TO]Bike állomásokat városszerte.",
+              "Vigyázzon a villamossínekre.",
+              "A Parco del Valentino a legbiciklibarátabb hely."
+            ],
+            "ro": [
+              "Folosiți stațiile [TO]Bike din tot orașul.",
+              "Atenție la șinele de tramvai.",
+              "Parcul Valentino este cel mai prietenos loc pentru biciclete."
+            ],
+            "en": [
+              "Use the [TO]Bike sharing stations across the city.",
+              "Be careful with the tram tracks.",
+              "Parco del Valentino is the most bike-friendly spot."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie im Parco del Valentino, wo die Bäume ersten Regenschutz bieten. Die Fahrt zur Piazza Castello erfordert nun volle Konzentration auf die Straße.\nMittags bieten die Arkaden der Piazza Castello eine willkommene Pause vom Regen. Die Mole Antonelliana ist das nächste Ziel für einen trockenen Aufenthalt.\nNachmittags geht es zur Gran Madre di Dio über die Brücke. Achten Sie auf den rutschigen Untergrund, während Sie den Fluss Po überqueren.\nDer Tag endet am Monte dei Cappuccini. Die Aussicht auf das verregnete Turin hat ihren ganz eigenen, melancholischen Charme.",
+            "hu": "Kezdje a Parco del Valentinóban, ahol a fák némi védelmet nyújtanak. A Piazza Castellóig tartó út most teljes koncentrációt igényel.\nDélben a Piazza Castello árkádjai üdvözlendő pihenőt kínálnak az esőben. A Mole Antonelliana a következő célpont a száraz programhoz.\nDélután a Gran Madre di Dio felé tartva keljen át a hídon. Ügyeljen a csúszós útfelületre, miközben átszeli a Pó folyót.\nA nap a Monte dei Cappuccinin ér véget. A kilátás az esős Torinóra sajátos, melankolikus bájjal rendelkezik.",
+            "ro": "Începeți în Parco del Valentino, unde copacii oferă o primă protecție. Drumul spre Piazza Castello necesită acum concentrare maximă.\nLa prânz, arcadele din Piazza Castello oferă o pauză binevenită de ploaie. Mole Antonelliana este următoarea destinație uscată.\nDupă-amiaza, pedalați spre Gran Madre di Dio traversând podul. Atenție la carosabilul alunecos în timp ce traversați râul Po.\nZiua se încheie la Monte dei Cappuccini. Vederea asupra orașului Torino sub ploaie are un farmec melancolic aparte.",
+            "en": "Start in Parco del Valentino, where the trees provide some initial shelter. The ride to Piazza Castello now requires full focus on the road.\nAt noon, the arcades of Piazza Castello offer a welcome break from the rain. Mole Antonelliana is the next target for a dry stay.\nIn the afternoon, head to Gran Madre di Dio across the bridge. Watch out for slippery surfaces while crossing the River Po.\nThe day ends at Monte dei Cappuccini. The view of rainy Turin has its own unique, melancholic charm."
+          },
+          "stops": [
+            {
+              "name": "Parco del Valentino",
+              "tip_5lang": {
+                "de": "Unter den Bäumen ist man etwas geschützt, aber Wege können matschig sein.",
+                "hu": "A fák alatt védve van, de az utak sárosak lehetnek.",
+                "ro": "Sunteți protejat sub copaci, dar potecile pot fi noroioase.",
+                "en": "You are somewhat sheltered under trees, but paths can be muddy."
+              }
+            },
+            {
+              "name": "Piazza Castello",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab und nutzen Sie die Arkaden für eine Pause.",
+                "hu": "Parkolja le biztonságosan a biciklit, és pihenjen az árkádok alatt.",
+                "ro": "Parcați bicicleta în siguranță și folosiți arcadele pentru o pauză.",
+                "en": "Park your bike safely and use the arcades for a break."
+              }
+            },
+            {
+              "name": "Mole Antonelliana",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, Kleidung und Ausrüstung im Trockenen zu ordnen.",
+                "hu": "Jó alkalom a ruházat és felszerelés rendezésére a szárazon.",
+                "ro": "Oportunitate bună de a vă organiza hainele și echipamentul la uscat.",
+                "en": "Good opportunity to organize your clothes and gear in the dry."
+              }
+            },
+            {
+              "name": "Gran Madre di Dio",
+              "tip_5lang": {
+                "de": "Die Brückenauffahrt kann bei Nässe für Radfahrer rutschig sein.",
+                "hu": "A hídra vezető út nedvesen csúszós lehet a kerékpárosoknak.",
+                "ro": "Urcarea pe pod poate fi alunecoasă pentru bicicliști când este ud.",
+                "en": "The bridge approach can be slippery for cyclists when wet."
+              }
+            },
+            {
+              "name": "Monte dei Cappuccini",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei Regen anstrengender, aber die Aussicht lohnt sich.",
+                "hu": "Az emelkedő esőben fárasztóbb, de a kilátás megéri.",
+                "ro": "Urcarea este mai obositoare pe ploaie, dar vederea merită efortul.",
+                "en": "The climb is more tiring in the rain, but the view is worth it."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achtung bei Straßenbahnschienen, diese sind bei Nässe extrem rutschig.",
+              "Tragen Sie ein helles Regen-Poncho für bessere Sichtbarkeit.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Monte dei Cappuccini.",
+              "Wischen Sie den Sattel vor der Fahrt gründlich trocken.",
+              "Nutzen Sie die Radwege entlang des Po, diese sind oft weniger befahren."
+            ],
+            "hu": [
+              "Vigyázzon a villamossíneknél, ezek nedvesen rendkívül csúszósak.",
+              "Viseljen élénk színű esőpelerint a jobb láthatóság érdekében.",
+              "Ellenőrizze a fékeket a Monte dei Cappucciniról való lejövetel előtt.",
+              "Indulás előtt alaposan törölje szárazra a nyerget.",
+              "Használja a Pó menti kerékpárutakat, ezek esőben kevésbé forgalmasak."
+            ],
+            "ro": [
+              "Atenție la șinele de tramvai, sunt extrem de alunecoase pe ploaie.",
+              "Purtați o pelerină de ploaie reflectorizantă pentru vizibilitate bună.",
+              "Verificați frânele înainte de a coborî de la Monte dei Cappuccini.",
+              "Ștergeți bine șaua înainte de a pleca la drum.",
+              "Folosiți pistele de biciclete de-a lungul râului Po, sunt mai libere."
+            ],
+            "en": [
+              "Beware of tram tracks; they are extremely slippery when wet.",
+              "Wear a bright rain poncho for better visibility in traffic.",
+              "Check your brakes before descending from Monte dei Cappuccini.",
+              "Wipe your seat thoroughly before starting your ride.",
+              "Use the bike paths along the Po; they are often less crowded."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start im Parco del Valentino. Die kahlen Bäume geben den Blick auf den Po frei, während Sie kräftig in die Pedale treten.\nMittags erreichen Sie die Piazza Castello. Die Bewegung hält Sie warm, aber eine Pause in einem geheizten Lokal unter den Arkaden tut gut.\nNachmittags geht es zur Mole Antonelliana. Die kalte Luft ist klar und bietet eine fantastische Fernsicht von der Aussichtsplattform.\nDer Tag endet mit dem Sonnenuntergang am Monte dei Cappuccini. Das winterliche Abendrot über den Alpen ist ein unvergesslicher Anblick.",
+            "hu": "Fagyos kezdés a Parco del Valentinóban. A kopár fák között látszik a Pó, miközben az aktív tekerés melegen tartja.\nDélben érkezik a Piazza Castellóra. A mozgás segít, de egy pihenő egy fűtött helyen az árkádok alatt jót fog tenni.\nDélután a Mole Antonelliana a cél. A hideg levegő tiszta, így fantasztikus távoli kilátás nyílik a kilátóból.\nA nap a Monte dei Cappuccinin zárul naplementekor. A téli alkonyat az Alpok felett felejthetetlen látvány.",
+            "ro": "Un început înghețat în Parco del Valentino. Copacii goliți permit vederea spre Po în timp ce pedalați energic pentru a vă încălzi.\nLa prânz ajungeți în Piazza Castello. Mișcarea vă menține cald, dar o pauză într-un local încălzit sub arcade este binevenită.\nDupă-amiaza mergeți spre Mole Antonelliana. Aerul rece este clar și oferă o vizibilitate fantastică de pe platforma de observare.\nZiua se încheie cu apusul la Monte dei Cappuccini. Amurgul de iarnă peste Alpi este o priveliște de neuitat.",
+            "en": "A frosty start in Parco del Valentino. The bare trees open up views of the Po while active pedaling keeps you warm.\nAt noon, you reach Piazza Castello. The movement helps, but a break in a heated place under the arcades is welcome.\nIn the afternoon, head to Mole Antonelliana. The cold air is clear, offering fantastic distant views from the observation deck.\nThe day ends with the sunset at Monte dei Cappuccini. The winter sunset over the Alps is an unforgettable sight."
+          },
+          "stops": [
+            {
+              "name": "Parco del Valentino",
+              "tip_5lang": {
+                "de": "Die Wege können morgens glatt sein, fahren Sie vorsichtig.",
+                "hu": "Az utak reggel csúszósak lehetnek, vezessen óvatosan.",
+                "ro": "Potecile pot fi poleite dimineața, pedalați cu atenție.",
+                "en": "Paths can be icy in the morning; ride with caution."
+              }
+            },
+            {
+              "name": "Piazza Castello",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden als Windschutz beim Abstellen des Rades.",
+                "hu": "Használja az árkádokat szélfogóként a bicikli leállításakor.",
+                "ro": "Folosiți arcadele ca paravan împotriva vântului când parcați.",
+                "en": "Use the arcades as a windbreak when parking your bike."
+              }
+            },
+            {
+              "name": "Mole Antonelliana",
+              "tip_5lang": {
+                "de": "Die Fernsicht auf die Alpen ist im Winter oft am besten.",
+                "hu": "Az Alpokra nyíló távoli kilátás télen gyakran a legjobb.",
+                "ro": "Vizibilitatea spre Alpi este adesea cea mai bună în timpul iernii.",
+                "en": "Distant views of the Alps are often at their best in winter."
+              }
+            },
+            {
+              "name": "Gran Madre di Dio",
+              "tip_5lang": {
+                "de": "Die kühle Brise vom Fluss Po ist hier besonders spürbar.",
+                "hu": "A Pó folyó felől érkező hűvös szellő itt különösen érezhető.",
+                "ro": "Briza rece de pe râul Po este deosebit de resimțită aici.",
+                "en": "The cool breeze from the River Po is especially noticeable here."
+              }
+            },
+            {
+              "name": "Monte dei Cappuccini",
+              "tip_5lang": {
+                "de": "Nach Sonnenuntergang kühlt es extrem schnell ab, Handschuhe einpacken.",
+                "hu": "Naplemente után rendkívül gyorsan lehűl, legyen Önnél kesztyű.",
+                "ro": "După apus se răcește extrem de repede, nu uitați mănușile.",
+                "en": "It cools down very quickly after sunset; pack gloves."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie unbedingt windfeste Handschuhe beim Radfahren.",
+              "Achten Sie auf Raureif oder Glätte auf Brücken über den Po.",
+              "Die Batterien von E-Bikes entladen sich bei Kälte schneller.",
+              "Nutzen Sie die hellen Mittagsstunden für die längeren Strecken.",
+              "Ein Thermosbecher mit Tee ist ein idealer Begleiter."
+            ],
+            "hu": [
+              "Kerékpározáskor feltétlenül viseljen szélálló kesztyűt.",
+              "Ügyeljen a zúzmarára vagy jegesedésre a Pó hídjain.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül hidegben.",
+              "A világos déli órákat használja a hosszabb szakaszok megtételére.",
+              "Egy termoszból fogyasztott tea ideális kísérő az úton."
+            ],
+            "ro": [
+              "Purtați neapărat mănuși rezistente la vânt când pedalați.",
+              "Atenție la chiciură sau polei pe podurile peste râul Po.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Folosiți orele luminoase ale amiezii pentru segmentele mai lungi.",
+              "O cană termoscop cu ceai este un companion ideal."
+            ],
+            "en": [
+              "Make sure to wear windproof gloves while cycling.",
+              "Watch out for frost or ice on the bridges over the Po.",
+              "E-bike batteries discharge faster in cold weather.",
+              "Utilize the bright midday hours for the longer riding segments.",
+              "A thermos with hot tea is an ideal companion for the trip."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -750,6 +1510,362 @@
           "Parking garages in the center are expensive but safe.",
           "The drive to Superga offers great views."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie die Basilika Superga auf dem Hügel für einen Panoramastart. Nach dem Besuch der zentralen Museen fahren Sie nach Süden zum weltberühmten Automobilmuseum. Beenden Sie den Tag etwas außerhalb beim majestätischen Jagdschloss Stupinigi, einem architektonischen Meisterwerk der Region.",
+            "hu": "Autóval elérheti a dombtetőn álló Superga-bazilikát a panorámás kezdéshez. A központi múzeumok látogatása után vezessen délre a világhírű Autómúzeumhoz. A napot a városon kívül fejezze be a fenséges Stupinigi vadászkastélynál, amely a régió építészeti remekműve.",
+            "ro": "Cu mașina, puteți ajunge la Basilica Superga de pe deal pentru un început panoramic. După vizitarea muzeelor centrale, conduceți spre sud către faimosul Muzeu al Automobilului. Încheiați ziua în afara orașului, la majestuosul palat Stupinigi, o capodoperă arhitecturală a regiunii.",
+            "en": "By car, reach the Superga Basilica on the hill for a panoramic start. After visiting the central museums, drive south to the world-famous Automobile Museum. End the day just outside the city at the majestic Stupinigi Hunting Palace, an architectural masterpiece of the region."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Basilica di Superga",
+                "hu": "Superga-bazilika",
+                "ro": "Basilica di Superga",
+                "en": "Basilica di Superga"
+              },
+              "tip_5lang": {
+                "de": "Atemberaubender Blick auf Turin und die Alpen.",
+                "hu": "Lélegzetelállító kilátás Torinóra és az Alpokra.",
+                "ro": "Vedere uluitoare asupra Torinoului și Alpilor.",
+                "en": "Stunning view of Turin and the Alps."
+              }
+            },
+            {
+              "name": {
+                "de": "Mole Antonelliana",
+                "hu": "Mole Antonelliana",
+                "ro": "Mole Antonelliana",
+                "en": "Mole Antonelliana"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Tiefgarage Piazza Vittorio.",
+                "hu": "Parkoljon a Piazza Vittorio mélygarázsában.",
+                "ro": "Parcați în garajul subteran din Piazza Vittorio.",
+                "en": "Park in the Piazza Vittorio underground garage."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Egizio",
+                "hu": "Egyiptomi Múzeum",
+                "ro": "Muzeul Egiptean",
+                "en": "Egyptian Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein kulturelles Muss im Zentrum.",
+                "hu": "Kulturális alapvetés a központban.",
+                "ro": "Un punct cultural esențial în centru.",
+                "en": "A cultural essential in the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Nazionale dell'Automobile",
+                "hu": "Autómúzeum",
+                "ro": "Muzeul Național al Automobilului",
+                "en": "National Automobile Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein Paradies für Autoliebhaber.",
+                "hu": "Az autórajongók paradicsoma.",
+                "ro": "Un paradis pentru iubitorii de mașini.",
+                "en": "A paradise for car lovers."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzina di Stupinigi",
+                "hu": "Stupinigi vadászkastély",
+                "ro": "Palazzina di Stupinigi",
+                "en": "Stupinigi Hunting Palace"
+              },
+              "tip_5lang": {
+                "de": "Ein prächtiges Jagdschloss der Savoyer.",
+                "hu": "A Savoyai-ház pompás vadászkastélya.",
+                "ro": "Un palat de vânătoare magnific al Casei de Savoia.",
+                "en": "A magnificent hunting lodge of the Savoy family."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Agnolotti del Plin",
+                "tip": "Gefüllte Teigtaschen aus dem Piemont."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Agnolotti del Plin",
+                "tip": "Töltött tészta Piemontból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Agnolotti del Plin",
+                "tip": "Paste umplute din Piemont."
+              }
+            ],
+            "en": [
+              {
+                "name": "Agnolotti del Plin",
+                "tip": "Stuffed pasta from Piedmont."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Basilica di Superga",
+                "tip": "Ruhe über der Stadt.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Basilica di Superga",
+                "tip": "Nyugalom a város felett.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Basilica di Superga",
+                "tip": "Liniște deasupra orașului.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Basilica di Superga",
+                "tip": "Peace above the city.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Eataly Lingotto",
+                "tip": "Das erste Eataly der Welt, perfekt für Gourmet-Souvenirs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Eataly Lingotto",
+                "tip": "A világ első Eataly-ja, tökéletes gourmet ajándékokhoz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Eataly Lingotto",
+                "tip": "Primul Eataly din lume, perfect pentru suveniruri gourmet."
+              }
+            ],
+            "en": [
+              {
+                "name": "Eataly Lingotto",
+                "tip": "The world's first Eataly, perfect for gourmet souvenirs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Vermeiden Sie die ZTL-Zonen (verkehrsberuhigt) im Zentrum.",
+              "Parkhäuser im Zentrum sind teuer, aber sicher.",
+              "Die Fahrt nach Superga bietet tolle Ausblicke."
+            ],
+            "hu": [
+              "Kerülje el a belvárosi ZTL zónákat.",
+              "A központi parkolóházak drágák, de biztonságosak.",
+              "A Supergába vezető út nagyszerű kilátást nyújt."
+            ],
+            "ro": [
+              "Evitați zonele ZTL (trafic limitat) din centru.",
+              "Parcările din centru sunt scumpe, dar sigure.",
+              "Drumul spre Superga oferă vederi minunate."
+            ],
+            "en": [
+              "Avoid ZTL (limited traffic) zones in the city center.",
+              "Parking garages in the center are expensive but safe.",
+              "The drive to Superga offers great views."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahrt zur Basilika von Superga. Bei Regen hängen die Wolken oft tief über dem Hügel, was der Basilika ein mystisches Aussehen verleiht.\nMittags geht es zurück ins Zentrum zur Mole Antonelliana. Das Parken in einem Parkhaus schützt Sie vor dem nassen Weg zum Eingang.\nNachmittags stehen das Ägyptische Museum und das Automobilmuseum auf dem Plan. Beide bieten weitläufige Hallen im Trockenen.\nDer Tag endet beim Jagdschloss Stupinigi. Die beleuchtete Fassade spiegelt sich eindrucksvoll in den Pfützen des Schlosshofes.",
+            "hu": "Utazás a Superga-bazilikához. Esőben a felhők gyakran alacsonyan szállnak a domb felett, misztikus megjelenést kölcsönözve a bazilikának.\nDélben vissza a központba a Mole Antonellianához. A parkolóház használata megvédi a bejáratig tartó nedves úttól.\nDélután az Egyiptomi Múzeum és az Autómúzeum szerepel a tervben. Mindkettő tágas csarnokokat kínál szárazon.\nA nap a Stupinigi vadászkastélynál ér véget. A kivilágított homlokzat lenyűgözően tükröződik a kastélyudvar tócsáiban.",
+            "ro": "Drum spre Basilica Superga. Pe ploaie, norii stau adesea jos peste deal, oferind basilicii un aspect mistic.\nLa prânz reveniți în centru la Mole Antonelliana. Parcarea într-un garaj acoperit vă protejează pe drumul spre intrare.\nDupă-amiaza sunt programate Muzeul Egiptean și Muzeul Automobilului. Ambele oferă hale spațioase la adăpost.\nZiua se încheie la Palatul Stupinigi. Fațada iluminată se reflectă impresionant în bălțile din curtea palatului.",
+            "en": "Drive to the Basilica of Superga. In the rain, clouds often hang low over the hill, giving the basilica a mystical appearance.\nAt noon, return to the center for the Mole Antonelliana. Parking in a garage protects you from the wet walk to the entrance.\nAfternoon plans include the Egyptian Museum and the Automobile Museum. Both offer extensive indoor galleries.\nThe day ends at Stupinigi Hunting Palace. The illuminated facade reflects impressively in the puddles of the palace courtyard."
+          },
+          "stops": [
+            {
+              "name": "Basilica di Superga",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Auffahrt, die Serpentinen können bei Regen rutschig sein.",
+                "hu": "Óvatosan a felfelé vezető úton, a szerpentinek esőben csúszósak lehetnek.",
+                "ro": "Atenție la urcare, serpentinele pot fi alunecoase pe ploaie.",
+                "en": "Be careful on the drive up; the serpentines can be slippery in the rain."
+              }
+            },
+            {
+              "name": "Mole Antonelliana",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Parcheggio Vittorio Park' für kurzen Fußweg.",
+                "hu": "Használja a 'Parcheggio Vittorio Park' parkolóházat a rövid sétához.",
+                "ro": "Folosiți parcarea 'Parcheggio Vittorio Park' pentru un drum scurt pe jos.",
+                "en": "Use the 'Parcheggio Vittorio Park' garage for a short walk to the entry."
+              }
+            },
+            {
+              "name": "Egyptian Museum",
+              "tip_5lang": {
+                "de": "Parken Sie zentral und nutzen Sie die Arkaden für den Weg zum Museum.",
+                "hu": "Parkoljon központilag, és használja az árkádokat a múzeumhoz vezető úton.",
+                "ro": "Parcați central și folosiți arcadele pentru drumul spre muzeu.",
+                "en": "Park centrally and use the arcades for the walk to the museum."
+              }
+            },
+            {
+              "name": "National Automobile Museum",
+              "tip_5lang": {
+                "de": "Das Museum hat ein eigenes Parkhaus, ideal bei schlechtem Wetter.",
+                "hu": "A múzeumnak saját parkolóháza van, ideális rossz időben.",
+                "ro": "Muzeul are parcare proprie, ideală pe vreme rea.",
+                "en": "The museum has its own parking garage, ideal during bad weather."
+              }
+            },
+            {
+              "name": "Stupinigi Hunting Palace",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Schloss, ein Schirm ist dennoch ratsam.",
+                "hu": "A parkoló közel van a kastélyhoz, de egy esernyő még így is ajánlott.",
+                "ro": "Parcarea este aproape de palat, dar o umbrelă este totuși utilă.",
+                "en": "The parking is close to the palace, but an umbrella is still advised."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Verkehr in Turin nimmt bei Regen deutlich zu, planen Sie Puffer ein.",
+              "Vermeiden Sie ZTL-Zonen (eingeschränkter Verkehr) im Stadtzentrum.",
+              "Parkhäuser sind bei Regen oft schneller belegt.",
+              "Achten Sie auf schlechte Sicht bei der Fahrt nach Superga.",
+              "Nutzen Sie die Umgehungsstraße (Tangenziale) für längere Strecken."
+            ],
+            "hu": [
+              "Torinóban esőben jelentősen megnő a forgalom, számoljon rá időt.",
+              "Kerülje el a ZTL (korlátozott forgalmú) zónákat a városközpontban.",
+              "A parkolóházak esőben gyakran gyorsabban megtelnek.",
+              "Ügyeljen a rossz látási viszonyokra a Supergába vezető úton.",
+              "Használja az elkerülő utat (Tangenziale) a hosszabb szakaszokhoz."
+            ],
+            "ro": [
+              "Traficul în Torino crește semnificativ pe ploaie, planificați timp în plus.",
+              "Evitați zonele ZTL (trafic limitat) din centrul orașului.",
+              "Parcările acoperite se ocupă mai repede când plouă.",
+              "Atenție la vizibilitatea redusă pe drumul spre Superga.",
+              "Folosiți centura (Tangenziale) pentru distanțele mai lungi."
+            ],
+            "en": [
+              "Traffic in Turin increases significantly during rain; allow extra time.",
+              "Avoid ZTL zones (restricted traffic) in the city center.",
+              "Parking garages often fill up faster when it rains.",
+              "Watch out for poor visibility on the drive to Superga.",
+              "Use the bypass road (Tangenziale) for longer stretches."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Start bei der Basilika von Superga. Der Blick auf das verschneite Umland und die Alpen ist an klaren Wintertagen atemberaubend.\nMittags geht es zur Mole Antonelliana. Die Heizung im Auto sorgt für Komfort zwischen den Besichtigungen.\nNachmittags erkunden Sie das Ägyptische Museum und das Automobilmuseum. Letzteres ist auch im Winter angenehm temperiert.\nDer Tag endet in Stupinigi. Das Jagdschloss wirkt in der winterlichen Dämmerung besonders herrschaftlich und einsam.",
+            "hu": "Kezdés a Superga-bazilikánál. A kilátás a havas környékre és az Alpokra tiszta téli napokon lélegzetelállító.\nDélben a Mole Antonelliana felé veszi az irányt. Az autó fűtése kényelmet biztosít a látnivalók között.\nDélután az Egyiptomi Múzeumot és az Autómúzeumot fedezi fel. Ez utóbbi télen is kellemes hőmérsékletű.\nA nap Stupinigiben zárul. A vadászkastély a téli szürkületben különösen impozáns és magányos látványt nyújt.",
+            "ro": "Începeți la Basilica Superga. Vederea asupra împrejurimilor înzăpezite și a Alpilor este uluitoare în zilele senine de iarnă.\nLa prânz mergeți spre Mole Antonelliana. Căldura din mașină oferă confort între vizite.\nDupă-amiaza explorați Muzeul Egiptean și Muzeul Automobilului. Acesta din urmă are o temperatură plăcută și iarna.\nZiua se încheie la Stupinigi. Palatul de vânătoare pare deosebit de grandios și solitar în amurgul de iarnă.",
+            "en": "Start at the Basilica of Superga. The view of the snow-capped surroundings and the Alps is breathtaking on clear winter days.\nAt noon, head to the Mole Antonelliana. The car's heater provides comfort between sightseeing stops.\nSpend the afternoon exploring the Egyptian Museum and the Automobile Museum. The latter is pleasantly tempered even in winter.\nThe day ends at Stupinigi. The hunting palace looks particularly majestic and lonely in the winter twilight."
+          },
+          "stops": [
+            {
+              "name": "Basilica di Superga",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Wetterbericht auf Schneefall vor der Auffahrt.",
+                "hu": "Ellenőrizze az időjárás-jelentést havazás szempontjából indulás előtt.",
+                "ro": "Verificați prognoza meteo pentru ninsoare înainte de a urca.",
+                "en": "Check the weather report for snowfall before driving up the hill."
+              }
+            },
+            {
+              "name": "Mole Antonelliana",
+              "tip_5lang": {
+                "de": "In der Innenstadt ist das Parken im Winter oft einfacher als im Sommer.",
+                "hu": "A belvárosban télen gyakran könnyebb parkolni, mint nyáron.",
+                "ro": "Parcarea în centrul orașului este adesea mai ușoară iarna decât vara.",
+                "en": "Parking in the city center is often easier in winter than in summer."
+              }
+            },
+            {
+              "name": "Egyptian Museum",
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, dicke Mäntel im Museum zu tragen, nutzen Sie die Garderobe.",
+                "hu": "Kerülje a vastag kabát viselését a múzeumban, használja a ruhatárat.",
+                "ro": "Evitați să purtați haine groase în muzeu, folosiți garderoba.",
+                "en": "Avoid wearing heavy coats inside the museum; use the cloakroom."
+              }
+            },
+            {
+              "name": "National Automobile Museum",
+              "tip_5lang": {
+                "de": "Ein großartiges Winterziel, da das gesamte Museum überdacht ist.",
+                "hu": "Nagyszerű téli célpont, mivel az egész múzeum fedett.",
+                "ro": "O destinație excelentă de iarnă, deoarece întregul muzeu este acoperit.",
+                "en": "A great winter destination as the entire museum is indoor."
+              }
+            },
+            {
+              "name": "Stupinigi Hunting Palace",
+              "tip_5lang": {
+                "de": "Das Schloss kann im Winter etwas kühl sein, behalten Sie einen Pulli an.",
+                "hu": "A kastély télen hűvös lehet, tartson magán egy pulóvert.",
+                "ro": "Palatul poate fi răcoros iarna, păstrați un pulover pe voi.",
+                "en": "The palace can be a bit chilly in winter; keep a sweater on."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen oder Schneeketten sind in der Region oft gesetzlich Pflicht.",
+              "Planen Sie mehr Zeit für das Enteisen der Scheiben am Morgen ein.",
+              "In den Hügeln um Superga kann es glatt sein.",
+              "Die Parkplatzsuche in Stupinigi ist im Winter unproblematisch.",
+              "Achten Sie auf die verkürzten Öffnungszeiten mancher Sehenswürdigkeiten."
+            ],
+            "hu": [
+              "A téli gumi vagy hólánc gyakran törvényi előírás a régióban.",
+              "Számoljon több időt reggel a szélvédők jégtelenítésére.",
+              "A Superga körüli dombokon az utak jegesek lehetnek.",
+              "A parkolás Stupinigiben télen problémamentes.",
+              "Ügyeljen egyes látnivalók rövidített téli nyitvatartására."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sau lanțurile sunt adesea obligatorii în regiune.",
+              "Planificați mai mult timp dimineața pentru dezghețarea parbrizului.",
+              "Drumurile de pe dealurile din jurul Superga pot fi alunecoase.",
+              "Găsirea unui loc de parcare la Stupinigi este ușoară iarna.",
+              "Atenție la programul redus de iarnă al unor obiective turistice."
+            ],
+            "en": [
+              "Winter tires or snow chains are often legally required in the region.",
+              "Allow extra time for defrosting windows in the morning.",
+              "Roads in the hills around Superga can be icy.",
+              "Parking at Stupinigi is generally easy during the winter season.",
+              "Be aware of shortened winter opening hours for some attractions."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -985,6 +2101,362 @@
           "The M1 metro is fully automated and very fast.",
           "Download the GTT app for real-time information."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das effiziente Netz aus Bussen, Straßenbahnen und der modernen Metro. Beginnen Sie im Ägyptischen Museum und fahren Sie dann zur Piazza Castello. Am Nachmittag bringt Sie die Metro zum Valentino-Park und weiter nach Lingotto zum Automobilmuseum. Den Abend lassen Sie an der ikonischen Mole Antonelliana ausklingen.",
+            "hu": "Használja a buszok, villamosok és a modern metró hatékony hálózatát. Kezdjen az Egyiptomi Múzeumban, majd utazzon a Piazza Castellóhoz. Délután a metró elviszi a Valentino parkba és tovább Lingottóba az Autómúzeumhoz. Az estét az ikonikus Mole Antonellianánál zárja.",
+            "ro": "Folosiți rețeaua eficientă de autobuze, tramvaie și metroul modern. Începeți la Muzeul Egiptean, apoi mergeți spre Piazza Castello. După-amiaza, metroul vă va duce în parcul Valentino și mai departe la Lingotto pentru Muzeul Automobilului. Încheiați seara la iconica Mole Antonelliana.",
+            "en": "Utilize the efficient network of buses, trams, and the modern metro. Start at the Egyptian Museum and then travel to Piazza Castello. In the afternoon, the metro takes you to Valentino Park and further to Lingotto for the Automobile Museum. End your evening at the iconic Mole Antonelliana."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Egizio",
+                "hu": "Egyiptomi Múzeum",
+                "ro": "Muzeul Egiptean",
+                "en": "Egyptian Museum"
+              },
+              "tip_5lang": {
+                "de": "In der Nähe der Haltestelle Porta Nuova.",
+                "hu": "A Porta Nuova megálló közelében.",
+                "ro": "Aproape de stația Porta Nuova.",
+                "en": "Near the Porta Nuova stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza Castello",
+                "hu": "Piazza Castello",
+                "ro": "Piazza Castello",
+                "en": "Piazza Castello"
+              },
+              "tip_5lang": {
+                "de": "Herzstück des Turiner Verkehrsnetzes.",
+                "hu": "A torinói közlekedési hálózat szíve.",
+                "ro": "Inima rețelei de transport din Torino.",
+                "en": "Heart of the Turin transport network."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco del Valentino",
+                "hu": "Parco del Valentino",
+                "ro": "Parco del Valentino",
+                "en": "Parco del Valentino"
+              },
+              "tip_5lang": {
+                "de": "Erreichbar mit der U-Bahn-Linie M1.",
+                "hu": "Az M1-es metróvonallal érhető el.",
+                "ro": "Accesibil cu linia de metrou M1.",
+                "en": "Accessible via the M1 metro line."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Nazionale dell'Automobile",
+                "hu": "Autómúzeum",
+                "ro": "Muzeul Național al Automobilului",
+                "en": "National Automobile Museum"
+              },
+              "tip_5lang": {
+                "de": "Haltestelle Lingotto an der M1.",
+                "hu": "Lingotto megálló az M1-es metrón.",
+                "ro": "Stația Lingotto pe linia M1.",
+                "en": "Lingotto stop on the M1 metro."
+              }
+            },
+            {
+              "name": {
+                "de": "Mole Antonelliana",
+                "hu": "Mole Antonelliana",
+                "ro": "Mole Antonelliana",
+                "en": "Mole Antonelliana"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Straßenbahnlinien 13 oder 15.",
+                "hu": "Használja a 13-as vagy 15-ös villamost.",
+                "ro": "Folosiți liniile de tramvai 13 sau 15.",
+                "en": "Use tram lines 13 or 15."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gianduiotto",
+                "tip": "Haselnussschokolade, die in Turin erfunden wurde."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gianduiotto",
+                "tip": "Mogyorós csokoládé, amelyet Torinóban találtak fel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gianduiotto",
+                "tip": "Ciocolată cu alune, inventată în Torino."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gianduiotto",
+                "tip": "Hazelnut chocolate invented in Turin."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Giardino d'Inverno",
+                "tip": "Ruhige Ecke im Valentino-Park.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Giardino d'Inverno",
+                "tip": "Csendes sarok a Valentino parkban.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Giardino d'Inverno",
+                "tip": "Colț liniștit în parcul Valentino.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Giardino d'Inverno",
+                "tip": "Quiet corner in Valentino Park.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercato di Porta Palazzo",
+                "tip": "Größter Freiluftmarkt Europas."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mercato di Porta Palazzo",
+                "tip": "Európa legnagyobb szabadtéri piaca."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mercato di Porta Palazzo",
+                "tip": "Cea mai mare piață în aer liber din Europa."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mercato di Porta Palazzo",
+                "tip": "Europe's largest open-air market."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket (GTT) für unbegrenzte Fahrten.",
+              "Die M1 ist vollautomatisch und sehr schnell.",
+              "Laden Sie die GTT-App für Echtzeit-Infos herunter."
+            ],
+            "hu": [
+              "Vásároljon napijegyet (GTT) a korlátlan utazáshoz.",
+              "Az M1-es metró teljesen automata és nagyon gyors.",
+              "Töltse le a GTT alkalmazást a valós idejű infókért."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi (GTT) pentru călătorii nelimitate.",
+              "Metroul M1 este complet automatizat și foarte rapid.",
+              "Descărcați aplicația GTT pentru informații în timp real."
+            ],
+            "en": [
+              "Buy a daily ticket (GTT) for unlimited travel.",
+              "The M1 metro is fully automated and very fast.",
+              "Download the GTT app for real-time information."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie im Ägyptischen Museum. Die Straßenbahnen bringen Sie fast direkt vor die Tür, sodass Sie kaum im Regen stehen.\nMittags fahren Sie zur Piazza Castello. Die kurzen Wege zwischen den Haltestellen unter den Arkaden halten Sie trocken.\nNachmittags geht es mit dem Bus zum Parco del Valentino und weiter zum Automobilmuseum. Genießen Sie den Blick auf die Stadt aus dem Fenster.\nDer Tag endet an der Mole Antonelliana. Die öffentlichen Verkehrsmittel sind die komfortabelste Art, sich bei Regen in Turin zu bewegen.",
+            "hu": "Kezdje az Egyiptomi Múzeumban. A villamosok szinte az ajtóig viszik, így alig kell az esőben tartózkodnia.\nDélben utazzon a Piazza Castellóra. A megállók közötti rövid szakaszok az árkádok alatt szárazon tartják.\nDélután busszal megy a Parco del Valentinóhoz, majd az Autómúzeumhoz. Élvezze a város látványát az ablakból.\nA nap a Mole Antonellianánál zárul. A tömegközlekedés a legkényelmesebb módja a torinói mozgásnak esőben.",
+            "ro": "Începeți la Muzeul Egiptean. Tramvaiele vă lasă aproape de intrare, astfel încât nu veți sta mult în ploaie.\nLa prânz, mergeți în Piazza Castello. Distanțele scurte între stații sub arcade vă mențin uscat.\nDupă-amiaza luați autobuzul spre Parco del Valentino și apoi spre Muzeul Automobilului. Admirați orașul de pe fereastră.\nZiua se încheie la Mole Antonelliana. Transportul public este cel mai confortabil mod de a te deplasa în Torino pe ploaie.",
+            "en": "Start at the Egyptian Museum. Trams take you almost directly to the door, so you spend very little time in the rain.\nAt noon, travel to Piazza Castello. The short walks between stops under the arcades will keep you dry.\nIn the afternoon, take the bus to Parco del Valentino and then to the Automobile Museum. Enjoy the city views from the window.\nThe day ends at Mole Antonelliana. Public transport is the most comfortable way to get around Turin when it rains."
+          },
+          "stops": [
+            {
+              "name": "Egyptian Museum",
+              "tip_5lang": {
+                "de": "Die Straßenbahnlinie 4 hält ganz in der Nähe des Museums.",
+                "hu": "A 4-es villamosvonal közvetlenül a múzeum közelében áll meg.",
+                "ro": "Linia de tramvai 4 oprește foarte aproape de muzeu.",
+                "en": "Tram line 4 stops very close to the museum entrance."
+              }
+            },
+            {
+              "name": "Piazza Castello",
+              "tip_5lang": {
+                "de": "Ein wichtiger Knotenpunkt für viele Linien, ideal zum Umsteigen im Trockenen.",
+                "hu": "Fontos csomópont sok vonal számára, ideális a száraz átszálláshoz.",
+                "ro": "Un nod important pentru multe linii, ideal pentru schimbat în uscat.",
+                "en": "An important hub for many lines, ideal for transfers while staying dry."
+              }
+            },
+            {
+              "name": "Parco del Valentino",
+              "tip_5lang": {
+                "de": "Die Haltestellen befinden sich am Rand des Parks, kurzer Weg zum Schloss.",
+                "hu": "A megállók a park szélén vannak, rövid út vezet a kastélyhoz.",
+                "ro": "Stațiile sunt la marginea parcului, drum scurt până la castel.",
+                "en": "The stops are at the edge of the park, short walk to the castle."
+              }
+            },
+            {
+              "name": "National Automobile Museum",
+              "tip_5lang": {
+                "de": "Die U-Bahn-Station 'Lingotto' ist etwa 10 Gehminuten entfernt.",
+                "hu": "A 'Lingotto' metrómegálló körülbelül 10 perc sétára van.",
+                "ro": "Stația de metrou 'Lingotto' este la aproximativ 10 minute de mers.",
+                "en": "The 'Lingotto' metro station is about a 10-minute walk away."
+              }
+            },
+            {
+              "name": "Mole Antonelliana",
+              "tip_5lang": {
+                "de": "Die Busse der Linie 68 halten in der Nähe und minimieren den Fußweg.",
+                "hu": "A 68-as busz a közelben áll meg, minimalizálva a gyaloglást.",
+                "ro": "Autobuzele liniei 68 opresc în apropiere, reducând mersul pe jos.",
+                "en": "Line 68 buses stop nearby, minimizing the walk in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'GTT - TO Move' für Echtzeit-Informationen.",
+              "Busse und Bahnen können bei Regen deutlich voller sein.",
+              "Entwerten Sie Ihr Ticket direkt beim Einsteigen.",
+              "Die historischen Straßenbahnen (Linie 7) sind ein Erlebnis im Regen.",
+              "Haben Sie Ihr Handy oder Ticket griffbereit, um im Regen nicht zu suchen."
+            ],
+            "hu": [
+              "Használja a 'GTT - TO Move' alkalmazást a valós idejű információkért.",
+              "A buszok és villamosok esőben jelentősen telítettebbek lehetnek.",
+              "Felszálláskor azonnal érvényesítse a jegyét.",
+              "A történelmi villamosok (7-es vonal) élményt jelentenek esőben is.",
+              "Tartsa kéznél a telefonját vagy jegyét, hogy ne esőben kelljen keresgélni."
+            ],
+            "ro": [
+              "Folosiți aplicația 'GTT - TO Move' pentru informații în timp real.",
+              "Autobuzele și tramvaiele pot fi mult mai aglomerate pe ploaie.",
+              "Validați biletul imediat ce urcați în vehicul.",
+              "Tramvaiele istorice (Linia 7) sunt o experiență deosebită pe ploaie.",
+              "Aveți biletul sau telefonul la îndemână pentru a nu căuta prin ploaie."
+            ],
+            "en": [
+              "Use the 'GTT - TO Move' app for real-time transit information.",
+              "Buses and trams can be significantly more crowded during rain.",
+              "Validate your ticket immediately upon boarding.",
+              "Historic trams (Line 7) are a great experience even in the rain.",
+              "Keep your phone or ticket ready to avoid searching for it in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie im Ägyptischen Museum. Die Fahrt mit den warmen Straßenbahnen ist im Winter besonders angenehm.\nMittags erkunden Sie die Piazza Castello. Die öffentlichen Verkehrsmittel bringen Sie schnell von einem geheizten Ort zum nächsten.\nNachmittags besuchen Sie den Parco del Valentino und das Automobilmuseum. Die U-Bahn ist im Winter die wärmste Reiseoption.\nDer Tag endet an der Mole Antonelliana. In der winterlichen Dunkelheit sind die beleuchteten Busse und Bahnen ein vertrauter Anblick.",
+            "hu": "Kezdje az Egyiptomi Múzeumban. A meleg villamosokon való utazás télen különösen kellemes.\nDélben fedezze fel a Piazza Castellót. A tömegközlekedés gyorsan juttatja el egyik fűtött helyről a másikra.\nDélután látogassa meg a Parco del Valentinót és az Autómúzeumot. A metró télen a legmelegebb utazási mód.\nA nap a Mole Antonellianánál zárul. A téli sötétségben a kivilágított buszok és villamosok otthonos látványt nyújtanak.",
+            "ro": "Începeți la Muzeul Egiptean. Călătoria cu tramvaiele încălzite este deosebit de plăcută iarna.\nLa prânz explorați Piazza Castello. Transportul public vă duce rapid de la un loc încălzit la altul.\nDupă-amiaza vizitați Parco del Valentino și Muzeul Automobilului. Metroul este cea mai caldă opțiune de călătorie iarna.\nZiua se încheie la Mole Antonelliana. În întunericul iernii, autobuzele și tramvaiele iluminate sunt o priveliște familiară.",
+            "en": "Start at the Egyptian Museum. Riding the warm trams is especially pleasant during the winter months.\nAt noon, explore Piazza Castello. Public transport quickly gets you from one heated location to the next.\nIn the afternoon, visit Parco del Valentino and the Automobile Museum. The metro is the warmest travel option in winter.\nThe day ends at Mole Antonelliana. In the winter darkness, the illuminated buses and trams are a welcoming sight."
+          },
+          "stops": [
+            {
+              "name": "Egyptian Museum",
+              "tip_5lang": {
+                "de": "Die Straßenbahnwagen sind im Winter gut beheizt.",
+                "hu": "A villamoskocsik télen jól fűtöttek.",
+                "ro": "Vagoanele de tramvai sunt bine încălzite în timpul iernii.",
+                "en": "The tram cars are well heated during the winter season."
+              }
+            },
+            {
+              "name": "Piazza Castello",
+              "tip_5lang": {
+                "de": "Viele Linien halten hier, was Wartezeiten im Freien verkürzt.",
+                "hu": "Sok vonal megáll itt, ami lerövidíti a szabadban való várakozást.",
+                "ro": "Multe linii opresc aici, ceea ce reduce timpul de așteptare afară.",
+                "en": "Many lines stop here, reducing the time spent waiting outdoors."
+              }
+            },
+            {
+              "name": "Parco del Valentino",
+              "tip_5lang": {
+                "de": "Nutzen Sie die U-Bahn-Station 'Marconi' für einen schnellen Zugang zum Park.",
+                "hu": "Használja a 'Marconi' metrómegállót a park gyors megközelítéséhez.",
+                "ro": "Folosiți stația de metrou 'Marconi' pentru acces rapid la parc.",
+                "en": "Use the 'Marconi' metro station for quick access to the park."
+              }
+            },
+            {
+              "name": "National Automobile Museum",
+              "tip_5lang": {
+                "de": "Im Lingotto-Viertel gibt es viele überdachte Gänge zur U-Bahn.",
+                "hu": "A Lingotto negyedben sok fedett folyosó vezet a metróhoz.",
+                "ro": "În cartierul Lingotto sunt multe pasaje acoperite spre metrou.",
+                "en": "In the Lingotto area, there are many covered walkways to the metro."
+              }
+            },
+            {
+              "name": "Mole Antonelliana",
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Rückfahrt im Voraus, um Kälte an der Haltestelle zu meiden.",
+                "hu": "Tervezze meg előre a visszautat, hogy elkerülje a hideget a megállóban.",
+                "ro": "Planificați drumul de întoarcere pentru a nu sta mult în frig în stație.",
+                "en": "Plan your return trip in advance to avoid waiting in the cold at the stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die U-Bahn (Metropolitana) ist die wärmste Art zu reisen.",
+              "Warten Sie in den Arkaden, wenn Ihre Haltestelle dort liegt.",
+              "Kaufen Sie 24h-Tickets bequem am Automaten oder per App.",
+              "Achten Sie auf eventuelle Winterfahrpläne an Feiertagen.",
+              "Die U-Bahn-Stationen sind sauber, modern und gut geschützt."
+            ],
+            "hu": [
+              "A metró (Metropolitana) a legmelegebb utazási mód.",
+              "Várjon az árkádok alatt, ha a megállója ott található.",
+              "Vásároljon 24 órás jegyet kényelmesen az automatánál vagy appon.",
+              "Ügyeljen az esetleges ünnepi téli menetrendekre.",
+              "A metrómegállók tiszták, modernek és jól védettek."
+            ],
+            "ro": [
+              "Metroul (Metropolitana) este cel mai călduros mod de transport.",
+              "Așteptați sub arcade dacă stația voastră se află acolo.",
+              "Cumpărați bilete de 24h convenabil de la automate sau prin aplicație.",
+              "Atenție la eventualele orare de iarnă în timpul sărbătorilor.",
+              "Stațiile de metrou sunt curate, moderne și bine protejate."
+            ],
+            "en": [
+              "The metro (Metropolitana) is the warmest way to travel in winter.",
+              "Wait under the arcades if your stop is located there.",
+              "Buy 24-hour tickets conveniently at machines or via the app.",
+              "Check for any special winter schedules during holiday periods.",
+              "The metro stations are clean, modern, and well-sheltered."
+            ]
+          }
+        }
       }
     }
   },

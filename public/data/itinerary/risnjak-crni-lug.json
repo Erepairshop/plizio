@@ -202,6 +202,306 @@
           "Bring enough water with you.",
           "Respect the silence of the national park."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ihr Tag beginnt am Haupteingang in Crni Lug, wo Sie in die Atmosphäre des Nationalparks eintauchen. Am Vormittag erkunden Sie den Lehrpfad Leska, der perfekt für einen entspannten Einstieg ist. Nachmittags besuchen Sie die örtliche Kirche und genießen die Stille auf der Lazac-Wiese. Ein Tag voller frischer Bergluft und natürlicher Ruhe.",
+            "hu": "A napod a Crni Lug-i bejáratnál indul, ahol átveszed a nemzeti park hangulatát. Délelőtt a Leska tanösvényt járod be, ami tökéletes bevezetés a vidék élővilágába. Délután meglátogatod a falu templomát, majd a Lazac-réten pihenhetsz meg. Egy nap tele friss hegyi levegővel és természetes nyugalommal.",
+            "ro": "Ziua începe la intrarea principală din Crni Lug, unde simțiți atmosfera parcului național. Dimineața explorați traseul didactic Leska, perfect pentru o introducere relaxată. După-amiaza vizitați biserica locală și vă bucurați de liniște pe pajiștea Lazac. O zi plină de aer curat de munte și liniște naturală.",
+            "en": "Your day starts at the Crni Lug entrance, soaking in the national park atmosphere. In the morning, explore the Leska educational trail, perfect for a relaxed start. In the afternoon, visit the local church and enjoy the silence on the Lazac meadow. A day full of fresh mountain air and natural peace."
+          },
+          "stops": [
+            {
+              "name": "Haupteingang Crni Lug",
+              "tip_5lang": {
+                "de": "Kaufen Sie hier Ihre Eintrittskarte und Karten.",
+                "hu": "Itt váltsd meg a belépőt és kérj turistatérképet.",
+                "ro": "Cumpărați biletul și solicitați o hartă de aici.",
+                "en": "Buy your entry ticket and get a map here."
+              }
+            },
+            {
+              "name": "Lehrpfad Leska",
+              "tip_5lang": {
+                "de": "Ein einfacher Rundweg mit Informationstafeln zur Flora.",
+                "hu": "Könnyű tanösvény táblákkal a helyi élővilágról.",
+                "ro": "Traseu didactic ușor cu panouri despre floră.",
+                "en": "Easy educational trail with flora info boards."
+              }
+            },
+            {
+              "name": "Kirche St. Peter und Paul",
+              "tip_5lang": {
+                "de": "Kleine Dorfkirche im typischen Bergstil von Gorski Kotar.",
+                "hu": "Tipikus hegyi falu temploma a Gorski Kotar vidékén.",
+                "ro": "Biserică mică de munte în stilul Gorski Kotar.",
+                "en": "Small mountain village church in Gorski Kotar style."
+              }
+            },
+            {
+              "name": "Lazac-Wiese",
+              "tip_5lang": {
+                "de": "Ideal für ein Picknick am Waldrand.",
+                "hu": "Ideális hely egy piknikhez az erdő szélén.",
+                "ro": "Loc ideal pentru un picnic la marginea pădurii.",
+                "en": "Ideal spot for a picnic at the forest edge."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bistro Bijela Vodica",
+                "tip": "Wildgerichte und hausgemachter Beerenschnaps."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bistro Bijela Vodica",
+                "tip": "Vadhúsételek és házi erdei gyümölcspálinka."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bistro Bijela Vodica",
+                "tip": "Preparate din vânat și țuică de fructe de pădure."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bistro Bijela Vodica",
+                "tip": "Game meat dishes and homemade berry brandy."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Leska Aussichtspunkt",
+                "tip": "Stiller Moment im tiefen Wald.",
+                "emoji": "🌲"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Leska kilátópont",
+                "tip": "Csendes pillanat a mély erdőben.",
+                "emoji": "🌲"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punct de belvedere Leska",
+                "tip": "Moment de liniște în pădurea deasă.",
+                "emoji": "🌲"
+              }
+            ],
+            "en": [
+              {
+                "name": "Leska Viewpoint",
+                "tip": "Quiet moment in the deep forest.",
+                "emoji": "🌲"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirshop NP Risnjak",
+                "tip": "Honig aus Gorski Kotar und Holzhandwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "NP Risnjak ajándékbolt",
+                "tip": "Gorski Kotar-i méz és fa kézműves termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin suveniruri NP Risnjak",
+                "tip": "Miere din Gorski Kotar și artizanat din lemn."
+              }
+            ],
+            "en": [
+              {
+                "name": "NP Risnjak Souvenir Shop",
+                "tip": "Gorski Kotar honey and wooden crafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie feste Wanderschuhe, auch auf leichten Wegen.",
+              "Das Wetter in den Bergen kann sich schnell ändern.",
+              "Bringen Sie ausreichend Wasser mit.",
+              "Respektieren Sie die Ruhe des Nationalparks."
+            ],
+            "hu": [
+              "Viselj túracipőt még a könnyű ösvényeken is.",
+              "A hegyi időjárás gyorsan változhat.",
+              "Vigyél magaddal elegendő vizet.",
+              "Tartsd tiszteletben a nemzeti park csendjét."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție chiar și pe trasee ușoare.",
+              "Vremea la munte se poate schimba rapid.",
+              "Aduceți suficientă apă.",
+              "Respectați liniștea parcului național."
+            ],
+            "en": [
+              "Wear hiking shoes even on easy trails.",
+              "Mountain weather can change rapidly.",
+              "Bring enough water with you.",
+              "Respect the silence of the national park."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Morgen am Haupteingang in Crni Lug, wo tiefe Wolken die Berggipfel verhüllen. Mittags bietet die Kirche St. Peter und Paul einen willkommenen trockenen Rückzugsort zur Besinnung. Am Nachmittag erleben Sie die mystische Atmosphäre des Leska-Lehrpfads im Nebel. Der Tag endet gemütlich im Dorf, während der Regen sanft auf die dichten Wälder des Nationalparks prasselt.",
+            "hu": "Esős reggel Crni Lug bejáratánál, ahol az alacsonyan szálló felhők elrejtik a hegycsúcsokat. Délben a Szent Péter és Pál templom nyújt száraz menedéket és csendes pihenőt. Délután a Leska-tanösvény misztikus, ködös erdőit járhatjuk be, ahol minden nesz felerősödik. Az este a falu melegében telik, miközben az eső kopog a nemzeti park sűrű fenyvesein.",
+            "ro": "Dimineață ploioasă la intrarea principală din Crni Lug, cu nori joși care ascund vârfurile munților. La prânz, biserica Sf. Petru și Pavel oferă un refugiu uscat pentru un moment de liniște. După-amiaza, explorăm atmosfera mistică a potecii Leska prin ceață. Ziua se încheie confortabil în sat, în timp ce ploaia cade ușor peste pădurile dese ale parcului național.",
+            "en": "Rainy morning at the main entrance in Crni Lug, with low clouds shrouding the mountain peaks. At noon, the Church of St. Peter and Paul provides a welcome dry retreat for reflection. In the afternoon, experience the mystical atmosphere of the Leska trail in the fog. The day ends cozily in the village as rain patters gently on the dense forests of the national park."
+          },
+          "stops": [
+            {
+              "name": "Haupteingang Crni Lug",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Regenbekleidung und nutzen Sie den überdachten Infobereich.",
+                "hu": "Ellenőrizze az esőfelszerelést, és használja a fedett információs részt.",
+                "ro": "Verificați pelerina de ploaie și folosiți zona de informare acoperită.",
+                "en": "Check your rain gear and use the covered information area."
+              }
+            },
+            {
+              "name": "Lehrpfad Leska",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassen Holzstegen und rutschigen Baumwurzeln im Wald.",
+                "hu": "Vigyázat a nedves fapallókon és a csúszós gyökereken az erdőben.",
+                "ro": "Atenție pe podețele de lemn umede și pe rădăcinile alunecoase.",
+                "en": "Be careful on wet wooden walkways and slippery tree roots."
+              }
+            },
+            {
+              "name": "Kirche St. Peter und Paul",
+              "tip_5lang": {
+                "de": "Das Vordach der Kirche bietet guten Schutz vor plötzlichen Schauern.",
+                "hu": "A templom előtere kiváló védelmet nyújt a hirtelen záporok elől.",
+                "ro": "Pridvorul bisericii oferă o protecție bună împotriva averselor.",
+                "en": "The church porch offers good protection from sudden showers."
+              }
+            },
+            {
+              "name": "Lazac-Wiese",
+              "tip_5lang": {
+                "de": "Das hohe Gras ist sehr nass; Gamaschen halten Ihre Schuhe trocken.",
+                "hu": "A magas fű ilyenkor nagyon vizes; a kamásli szárazon tartja a lábat.",
+                "ro": "Iarba înaltă este foarte udă; parazăpezile vă țin picioarele uscate.",
+                "en": "The tall grass is very wet; gaiters will keep your boots dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Wasserdichte Wanderschuhe mit gutem Profil sind auf kalkhaltigem Gestein Pflicht.",
+              "Die Kalkfelsen im Risnjak-Massiv werden bei Nässe extrem rutschig.",
+              "Packen Sie Ihre Elektronik in wasserdichte Beutel ein.",
+              "Der Nebel im Wald kann die Orientierung erschweren, bleiben Sie auf den Pfaden."
+            ],
+            "hu": [
+              "A jó profilú, vízálló bakancs kötelező a mészköves terepen.",
+              "A Risnjak mészkősziklái nedvesen rendkívül csúszóssá válnak.",
+              "Az elektronikus eszközöket tegye vízhatlan tasakokba.",
+              "A köd megnehezítheti a tájékozódást, ne térjen le a kijelölt útról."
+            ],
+            "ro": [
+              "Bocancii impermeabili cu talpă aderentă sunt obligatorii pe teren calcaros.",
+              "Stâncile de calcar din Risnjak devin extrem de alunecoase când sunt ude.",
+              "Puneți dispozitivele electronice în pungi impermeabile.",
+              "Ceața din pădure poate îngreuna orientarea; rămâneți pe poteci."
+            ],
+            "en": [
+              "Waterproof hiking boots with good grip are mandatory on limestone terrain.",
+              "The limestone rocks in Risnjak become extremely slippery when wet.",
+              "Pack your electronics in waterproof bags.",
+              "Fog in the forest can make navigation difficult; stay on the marked trails."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Crni Lug, die Landschaft ist tief verschneit. Mittags glänzt die Dorfkirche im Sonnenlicht vor weißem Hintergrund. Der Nachmittag auf dem Leska-Pfad ist ideal für Schneeschuhwanderungen, um Tierspuren im frischen Schnee zu entdecken. Die Dämmerung bricht früh über der Lazac-Wiese herein und taucht die verschneite Wildnis in ein sanftes blaues Licht.",
+            "hu": "Tiszta téli reggel Crni Lugban, a tájat mély hó borítja. Délben a falusi templom vakítóan fehér környezetben ragyog a napsütésben. A délutáni Leska-túra ideális hótalpazásra és vadnyomok keresésére a friss hóban. A szürkület korán leszáll a Lazac-rétre, békés kék fénybe vonva a havas vadont.",
+            "ro": "O dimineață senină de iarnă în Crni Lug, cu peisajul acoperit de zăpadă adâncă. La prânz, biserica satului strălucește în soare pe fundalul alb. După-amiaza pe poteca Leska este ideală pentru rachete de zăpadă, căutând urme de animale. Amurgul coboară devreme peste poiana Lazac, scăldând sălbăticia înzăpezită într-o lumină albastră.",
+            "en": "A clear winter morning in Crni Lug, with the landscape covered in deep snow. At noon, the village church glows in the sunlight against the white backdrop. The afternoon on the Leska trail is ideal for snowshoeing and spotting animal tracks in the fresh snow. Twilight falls early over the Lazac meadow, bathing the snowy wilderness in a soft blue light."
+          },
+          "stops": [
+            {
+              "name": "Haupteingang Crni Lug",
+              "tip_5lang": {
+                "de": "Fragen Sie nach dem aktuellen Pistenzustand und Schneeschuhverleih.",
+                "hu": "Érdeklődjön az utak állapotáról és a hótalpkölcsönzésről.",
+                "ro": "Întrebați despre starea potecilor și închirierea rachetelor de zăpadă.",
+                "en": "Ask about current trail conditions and snowshoe rentals."
+              }
+            },
+            {
+              "name": "Lehrpfad Leska",
+              "tip_5lang": {
+                "de": "Bei tiefem Schnee sind Schneeschuhe für diese Runde sehr zu empfehlen.",
+                "hu": "Mély hó esetén a hótalp használata erősen ajánlott ezen a körön.",
+                "ro": "În caz de zăpadă adâncă, rachetele de zăpadă sunt recomandate.",
+                "en": "In case of deep snow, snowshoes are highly recommended for this loop."
+              }
+            },
+            {
+              "name": "Kirche St. Peter und Paul",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um sich kurz aufzuwärmen, bevor es weitergeht.",
+                "hu": "Csendes hely egy rövid melegedésre, mielőtt tovább indulna.",
+                "ro": "Un loc liniștit pentru o scurtă încălzire înainte de a continua.",
+                "en": "A quiet place to warm up briefly before continuing."
+              }
+            },
+            {
+              "name": "Lazac-Wiese",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Windchill auf der offenen Fläche; warme Schichten tragen.",
+                "hu": "Vigyázzon a szélre a nyílt területen; viseljen réteges öltözetet.",
+                "ro": "Atenție la vântul tăios în zona deschisă; purtați straturi călduroase.",
+                "en": "Watch out for wind chill in the open area; wear warm layers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Tragen Sie Thermounterwäsche und isolierte, wasserfeste Stiefel.",
+              "Nehmen Sie eine Thermoskanne mit heißem Tee für die Wanderung mit.",
+              "Die Schneehöhe im Nationalpark kann oft über einen Meter betragen."
+            ],
+            "hu": [
+              "Télen a nap már 16:30 körül lenyugszik, tervezzen előre.",
+              "Viseljen termő aláöltözetet és hőszigetelt, vízálló bakancsot.",
+              "Vigyen magával termoszban forró teát a túrára.",
+              "A hóvastagság a nemzeti parkban gyakran meghaladja az egy métert."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:30 iarna; planificați din timp.",
+              "Purtați lenjerie termică și bocanci izolați și impermeabili.",
+              "Luați un termos cu ceai fierbinte pentru drumeție.",
+              "Grosimea zăpezii în parcul național poate depăși adesea un metru."
+            ],
+            "en": [
+              "The sun sets around 16:30 in winter; plan your return early.",
+              "Wear thermal underwear and insulated, waterproof boots.",
+              "Take a thermos with hot tea for the hike.",
+              "Snow depth in the national park can often exceed one meter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -416,6 +716,333 @@
           "Always wear a helmet.",
           "Watch out for wildlife on forest paths."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Fahrrad erkunden Sie die weite Umgebung von Risnjak. Nach dem Start in Crni Lug fahren Sie zur magischen Kupa-Quelle, einem Highlight der Region. Die Route führt über Waldwege und durch Bergdörfer. Nachmittags entspannen Sie auf der Lazac-Wiese und beenden die Tour gemütlich auf dem Leska-Pfad.",
+            "hu": "Kerékpárral fedezheted fel a Risnjak tágabb környezetét. A Crni Lug-i rajt után a mágikus Kupa-forráshoz tekersz, ami a régió fénypontja. Az útvonal erdei utakon és hegyi falvakon át vezet. Délután a Lazac-réten pihenhetsz, majd a Leska-ösvényen zárod a túrát.",
+            "ro": "Cu bicicleta explorați împrejurimile vaste ale masivului Risnjak. După startul din Crni Lug, pedalați spre magicul izvor al Kupei, un punct culminant. Traseul trece prin drumuri forestiere și sate montane. După-amiaza vă relaxați pe pajiștea Lazac și încheiați tura pe poteca Leska.",
+            "en": "By bike, you explore the wider surroundings of Risnjak. After starting in Crni Lug, ride to the magical Kupa spring, a regional highlight. The route leads through forest paths and mountain villages. In the afternoon, relax on the Lazac meadow and finish the tour leisurely on the Leska trail."
+          },
+          "stops": [
+            {
+              "name": "Haupteingang Crni Lug",
+              "tip_5lang": {
+                "de": "Mieten Sie hier E-Bikes für die steilen Anstiege.",
+                "hu": "Bérelj e-bike-ot a meredekebb emelkedőkhöz.",
+                "ro": "Închiriați e-bike pentru urcările abrupte.",
+                "en": "Rent e-bikes here for the steeper climbs."
+              }
+            },
+            {
+              "name": "Quelle des Flusses Kupa",
+              "tip_5lang": {
+                "de": "Atemberaubender blauer Karstsee, aber steiler Rückweg.",
+                "hu": "Lenyűgöző kék karsztforrás, de meredek a visszaút.",
+                "ro": "Izvor carstic albastru superb, dar drumul de întors e abrupt.",
+                "en": "Stunning blue karst spring, but steep way back."
+              }
+            },
+            {
+              "name": "Lazac-Wiese",
+              "tip_5lang": {
+                "de": "Perfekt für eine Erholungspause im flachen Gelände.",
+                "hu": "Tökéletes pihenőhely a sík területen.",
+                "ro": "Loc perfect de odihnă pe teren plat.",
+                "en": "Perfect rest spot on flat terrain."
+              }
+            },
+            {
+              "name": "Kirche St. Peter und Paul",
+              "tip_5lang": {
+                "de": "Kurzer Halt zur Besichtigung des Dorfkerns.",
+                "hu": "Rövid megálló a falu központjának megtekintésére.",
+                "ro": "Scurtă oprire pentru vizitarea centrului satului.",
+                "en": "Short stop to see the village center."
+              }
+            },
+            {
+              "name": "Lehrpfad Leska",
+              "tip_5lang": {
+                "de": "Langsame Fahrt durch den Wald zum Abschluss.",
+                "hu": "Lassú tekerés az erdőn át a nap végén.",
+                "ro": "Pedalat ușor prin pădure la final de zi.",
+                "en": "Slow ride through the forest to end the day."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Lovački dom",
+                "tip": "Herzhafte Eintöpfe für hungrige Radfahrer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lovački dom",
+                "tip": "Kiadós egytálételek éhes bicikliseknek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lovački dom",
+                "tip": "Tocănițe consistente pentru bicicliști flămânzi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Lovački dom",
+                "tip": "Hearty stews for hungry cyclists."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ufer der Kupa",
+                "tip": "Meditatives Rauschen des Quellwassers.",
+                "emoji": "💧"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kupa-part",
+                "tip": "A forrásvíz meditatív zúgása.",
+                "emoji": "💧"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul Kupei",
+                "tip": "Sunetul meditativ al apei izvorului.",
+                "emoji": "💧"
+              }
+            ],
+            "en": [
+              {
+                "name": "Kupa River Bank",
+                "tip": "Meditative sound of the spring water.",
+                "emoji": "💧"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokale Käserei",
+                "tip": "Frischer Kuhkäse direkt vom Bauern."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi sajtbolt",
+                "tip": "Friss tehénsajt közvetlenül a termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brânzărie locală",
+                "tip": "Brânză proaspătă de vacă direct de la fermier."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Cheesery",
+                "tip": "Fresh cow cheese directly from the farmer."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt zur Kupa-Quelle.",
+              "Ein E-Bike wird für ungeübte Fahrer dringend empfohlen.",
+              "Tragen Sie immer einen Helm.",
+              "Achten Sie auf Wildtiere auf den Waldwegen."
+            ],
+            "hu": [
+              "Ellenőrizd a fékeket a Kupa-forráshoz vezető lejtő előtt.",
+              "Az e-bike erősen ajánlott gyakorlatlanabbaknak.",
+              "Mindig viselj sisakot.",
+              "Figyelj a vadállatokra az erdei utakon."
+            ],
+            "ro": [
+              "Verificați frânele înainte de coborârea spre izvorul Kupei.",
+              "E-bike-ul este recomandat pentru cei mai puțin antrenați.",
+              "Purtați întotdeauna cască.",
+              "Atenție la animalele sălbatice pe drumurile forestiere."
+            ],
+            "en": [
+              "Check your brakes before the descent to the Kupa spring.",
+              "An e-bike is strongly recommended for casual riders.",
+              "Always wear a helmet.",
+              "Watch out for wildlife on forest paths."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start in den Biketag ab Crni Lug. Der Weg hinunter zur Kupa-Quelle ist bei Regen technisch anspruchsvoll. Mittagsrast an der Quelle, umgeben von tropfenden Felsen. Die Rückfahrt führt über die Lazac-Wiese, wo der Schlamm spritzt, und endet über den Leska-Pfad im Dorf.",
+            "hu": "Nedves kezdés a kerékpáros naphoz Crni Lugból. Az út a Kupa-forráshoz esőben technikás kihívás. Déli pihenő a forrásnál, csöpögő sziklák között. A visszaút a Lazac-réten át vezet, ahol sár és víz vár, majd a Leska-ösvényen térünk vissza a faluba.",
+            "ro": "Un început umed pentru ziua de bicicletă din Crni Lug. Drumul spre izvorul Kupa este o provocare tehnică pe ploaie. Popas la prânz lângă izvor, printre stânci care picură. Întoarcerea trece prin poiana Lazac, pe noroi, terminându-se în sat via poteca Leska.",
+            "en": "A wet start to the biking day from Crni Lug. The descent to the Kupa source is technically challenging in the rain. Noon rest at the spring, surrounded by dripping rocks. The return trip passes through Lazac meadow, splashing through mud, and ends via the Leska trail in the village."
+          },
+          "stops": [
+            {
+              "name": "Haupteingang Crni Lug",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsbeläge vor dem Start im nassen Gelände.",
+                "hu": "Indulás előtt ellenőrizze a fékbetéteket a nedves terep miatt.",
+                "ro": "Verificați plăcuțele de frână înainte de a porni pe teren umed.",
+                "en": "Check your brake pads before starting in the wet terrain."
+              }
+            },
+            {
+              "name": "Quelle des Flusses Kupa",
+              "tip_5lang": {
+                "de": "Die Serpentinen hinunter sind bei Nässe extrem rutschig; ggf. schieben.",
+                "hu": "A szerpentinek lefelé esőben nagyon csúsznak; szükség esetén tolja.",
+                "ro": "Serpentinele spre izvor sunt foarte alunecoase; împingeți bicicleta la nevoie.",
+                "en": "The serpentines down are extremely slippery; walk your bike if needed."
+              }
+            },
+            {
+              "name": "Lazac-Wiese",
+              "tip_5lang": {
+                "de": "Rechnen Sie mit tiefem Schlamm auf den unbefestigten Abschnitten.",
+                "hu": "Számítson mély sárra a burkolatlan útszakaszokon.",
+                "ro": "Așteptați-vă la noroi adânc pe porțiunile neasfaltate.",
+                "en": "Expect deep mud on the unpaved sections of the meadow."
+              }
+            },
+            {
+              "name": "Kirche St. Peter und Paul",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um den gröbsten Schlamm von der Kleidung zu wischen.",
+                "hu": "Jó hely a nagyobb sár letörlésére a ruházatról.",
+                "ro": "Un loc bun pentru a șterge noroiul gros de pe haine.",
+                "en": "A good place to wipe the thickest mud off your clothes."
+              }
+            },
+            {
+              "name": "Lehrpfad Leska",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam; Holzbrücken sind bei Regen wie Seife.",
+                "hu": "Lassan haladjon; a fahidak esőben olyanok, mint a szappan.",
+                "ro": "Mergeți încet; podurile de lemn sunt ca săpunul pe ploaie.",
+                "en": "Ride slowly; wooden bridges are like soap in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Bike sind bei diesem Wetter absolut empfehlenswert.",
+              "Scheibenbremsen sind bei Nässe im Gebirge ein großer Sicherheitsvorteil.",
+              "Tragen Sie eine Brille mit klaren Gläsern gegen Schlammspritzer.",
+              "Der Abstieg zur Kupa-Quelle ist steil und bei Regen gefährlich."
+            ],
+            "hu": [
+              "A sárvédő használata ilyen időben elengedhetetlen a kerékpáron.",
+              "A tárcsafék nagy biztonsági előnyt jelent a nedves hegyi terepen.",
+              "Viseljen víztiszta lencséjű szemüveget a sárfelverődés ellen.",
+              "A Kupa-forráshoz vezető lejtő meredek és esőben veszélyes lehet."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt absolut recomandate pe această vreme.",
+              "Frânele pe disc oferă un mare avantaj de siguranță pe munte umed.",
+              "Purtați ochelari cu lentile clare împotriva stropilor de noroi.",
+              "Coborârea spre izvorul Kupa este abruptă și periculoasă pe ploaie."
+            ],
+            "en": [
+              "Mudguards on your bike are highly recommended in this weather.",
+              "Disc brakes offer a significant safety advantage on wet mountain slopes.",
+              "Wear clear lens glasses to protect your eyes from mud splashes.",
+              "The descent to the Kupa spring is steep and can be treacherous when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start in Crni Lug. Die Fahrt führt durch die winterliche Stille hinunter ins tiefe Tal der Kupa. Mittags erreicht man die oft eisfreie, türkisfarbene Quelle. Nach dem anstrengenden Aufstieg folgt die Überquerung der Lazac-Wiese im Schnee, gefolgt von einem Besuch der Kirche und einem kurzen Winter-Loop auf Leska.",
+            "hu": "Fagyos kezdés Crni Lugban. Az út a téli csendben vezet le a Kupa mély völgyébe. Délben érjük el a türkizkék, gyakran jégmentes forrást. A kemény emelkedő után havas tekerés következik a Lazac-réten, majd egy templomlátogatás és egy rövid téli kör a Leska-ösvényen.",
+            "ro": "Start înghețat în Crni Lug. Traseul coboară prin liniștea iernii spre valea adâncă a râului Kupa. La prânz ajungem la izvorul turcoaz, adesea fără gheață. După urcarea grea, traversăm poiana Lazac prin zăpadă, vizităm biserica și încheiem pe Leska.",
+            "en": "A frosty start in Crni Lug. The ride descends through the winter silence into the deep Kupa valley. At noon, reach the turquoise spring, which often remains ice-free. After the tough climb, cross the snowy Lazac meadow, visit the church, and finish with a short winter loop on Leska."
+          },
+          "stops": [
+            {
+              "name": "Haupteingang Crni Lug",
+              "tip_5lang": {
+                "de": "Reduzieren Sie den Reifendruck leicht für besseren Grip im Schnee.",
+                "hu": "Csökkentse kissé a guminyomást a jobb tapadásért a hóban.",
+                "ro": "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe zăpadă.",
+                "en": "Reduce tire pressure slightly for better grip in the snow."
+              }
+            },
+            {
+              "name": "Quelle des Flusses Kupa",
+              "tip_5lang": {
+                "de": "Im Tal ist es oft deutlich kälter als oben; ziehen Sie sich warm an.",
+                "hu": "A völgyben gyakran jóval hidegebb van, mint fent; öltözzön melegen.",
+                "ro": "În vale este adesea mult mai frig decât sus; îmbrăcați-vă bine.",
+                "en": "It is often much colder in the valley than above; dress warmly."
+              }
+            },
+            {
+              "name": "Lazac-Wiese",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Pfützen unter dem Schnee.",
+                "hu": "Vigyázzon a hó alatt megbújó jeges tócsákkal.",
+                "ro": "Atenție la bălțile înghețate ascunse sub zăpadă.",
+                "en": "Watch out for frozen puddles hidden under the snow."
+              }
+            },
+            {
+              "name": "Kirche St. Peter und Paul",
+              "tip_5lang": {
+                "de": "Guter Ort für eine Pause, um die Finger wieder warm zu bekommen.",
+                "hu": "Jó hely egy pihenőre, hogy felmelegítsük elgémberedett ujjainkat.",
+                "ro": "Un loc bun pentru o pauză pentru a vă încălzi degetele amorțite.",
+                "en": "Good place for a break to warm up your numb fingers."
+              }
+            },
+            {
+              "name": "Lehrpfad Leska",
+              "tip_5lang": {
+                "de": "Auf festgetretenem Schnee fahren, um nicht einzusinken.",
+                "hu": "Próbáljon a letaposott havon haladni, hogy ne süllyedjen el.",
+                "ro": "Încercați să mergeți pe zăpada bătătorită pentru a nu vă scufunda.",
+                "en": "Try to ride on packed snow to avoid sinking in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfeste Handschuhe und Überschuhe sind für Biker im Risnjak essenziell.",
+              "Achten Sie auf Glatteis auf den asphaltierten Zufahrtswegen.",
+              "E-Bike-Akkus entladen sich bei Kälte deutlich schneller.",
+              "Die Tage sind kurz; nehmen Sie unbedingt funktionsfähiges Licht mit."
+            ],
+            "hu": [
+              "A téli kesztyű és a kamásli elengedhetetlen a Risnjakban tekerőknek.",
+              "Vigyázzon a fekete jégre az aszfaltozott bekötőutakon.",
+              "Az elektromos kerékpárok akkumulátora sokkal gyorsabban merül hidegben.",
+              "A nappalok rövidek; feltétlenül vigyen magával működő világítást."
+            ],
+            "ro": [
+              "Mănușile de iarnă și husele pentru pantofi sunt esențiale aici.",
+              "Atenție la polei pe drumurile de acces asfaltate.",
+              "Bateriile e-bike se descarcă mult mai repede la temperaturi scăzute.",
+              "Zilele sunt scurte; luați neapărat lumini funcționale cu voi."
+            ],
+            "en": [
+              "Winter-proof gloves and shoe covers are essential for bikers in Risnjak.",
+              "Watch out for black ice on the paved access roads.",
+              "E-bike batteries discharge significantly faster in the cold.",
+              "Days are short; make sure to bring functioning bike lights."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -630,6 +1257,333 @@
           "Watch out for hikers on the roadside.",
           "The access to Vilje is a gravel road."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie die entlegensten und schönsten Punkte des Parks. Zuerst geht es Richtung Vilje, von wo aus Sie den Veliki Risnjak erklimmen. Nach einer Pause in der Schlosser-Hütte fahren Sie zur tiefblauen Kupa-Quelle. Zum Abschluss des Tages genießen Sie den Blick vom Snježnik-Massiv, das bequem über den Platak-Pass erreichbar ist.",
+            "hu": "Autóval a park legtávolabbi és legszebb pontjait is elérheted. Először Vilje felé veszed az irányt, ahonnan megmászod a Veliki Risnjakot. A Schlosser-házban tett pihenő után a mélykék Kupa-forráshoz autózol. A nap végén a Snježnik-hegység látványát élvezheted, mely a Platak-hágón át könnyen megközelíthető.",
+            "ro": "Cu mașina ajungeți în cele mai îndepărtate și frumoase puncte ale parcului. Mai întâi spre Vilje, de unde urcați pe Veliki Risnjak. După o pauză la cabana Schlosser, conduceți spre izvorul albastru al Kupei. La finalul zilei, vă bucurați de vederea de pe masivul Snježnik, accesibil prin pasul Platak.",
+            "en": "By car, you reach the most remote and beautiful points of the park. First, head towards Vilje, from where you climb Veliki Risnjak. After a break at the Schlosser hut, drive to the deep blue Kupa spring. To end the day, enjoy the views from the Snježnik massif, easily accessible via the Platak pass."
+          },
+          "stops": [
+            {
+              "name": "Haupteingang Crni Lug",
+              "tip_5lang": {
+                "de": "Parken Sie hier und holen Sie Informationen ein.",
+                "hu": "Parkolj le itt és kérj aktuális infókat az utakról.",
+                "ro": "Parcați aici și cereți informații actuale.",
+                "en": "Park here and get current trail info."
+              }
+            },
+            {
+              "name": "Gipfel Veliki Risnjak",
+              "tip_5lang": {
+                "de": "Fahrt bis Vilje, dann 1h Wanderung zum Gipfel.",
+                "hu": "Hajts el Viljéig, onnan 1 óra gyalog a csúcs.",
+                "ro": "Mergeți cu mașina până la Vilje, apoi 1h pe jos.",
+                "en": "Drive to Vilje, then 1h hike to the peak."
+              }
+            },
+            {
+              "name": "Schlosser-Berghütte",
+              "tip_5lang": {
+                "de": "Berühmte Hütte unter dem Gipfel, ideal für Gulasch.",
+                "hu": "Híres menedékház a csúcs alatt, jó egy gulyásra.",
+                "ro": "Cabană celebră sub vârf, ideală pentru un gulaș.",
+                "en": "Famous hut below the peak, ideal for goulash."
+              }
+            },
+            {
+              "name": "Quelle des Flusses Kupa",
+              "tip_5lang": {
+                "de": "Fahrt nach Razloge, dann kurzer Abstieg zur Quelle.",
+                "hu": "Hajts Razlogéba, onnan rövid lejtő a forrás.",
+                "ro": "Conduceți spre Razloge, apoi coborâre scurtă.",
+                "en": "Drive to Razloge, then short descent to the spring."
+              }
+            },
+            {
+              "name": "Gipfel Snježnik",
+              "tip_5lang": {
+                "de": "Vom Parkplatz Platak in 30 Min erreichbar.",
+                "hu": "A Platak parkolótól 30 perc alatt elérhető.",
+                "ro": "Accesibil în 30 min de la parcarea Platak.",
+                "en": "Accessible in 30 min from Platak parking."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Risnjak Berghütte",
+                "tip": "Bergbauerneintopf und hausgemachtes Brot."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Risnjak menedékház",
+                "tip": "Hegyi pásztorétel és házi kenyér."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cabana Risnjak",
+                "tip": "Tocăniță ciobănească și pâine de casă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Risnjak Mountain Hut",
+                "tip": "Mountain shepherd stew and homemade bread."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Snježnik Gipfel",
+                "tip": "Sonnenuntergang über dem Quarner Golf.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Snježnik-csúcs",
+                "tip": "Naplemente a Kvarner-öböl felett.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vârful Snježnik",
+                "tip": "Apus de soare peste golful Kvarner.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Snježnik Peak",
+                "tip": "Sunset over the Kvarner Gulf.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Marktplatz Delnice",
+                "tip": "Lokale Waldfrüchte und Beerenliköre."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Delnicei piac",
+                "tip": "Helyi erdei gyümölcsök és bogyós likőrök."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața din Delnice",
+                "tip": "Fructe de pădure locale și lichioruri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Delnice Market",
+                "tip": "Local forest fruits and berry liqueurs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straßen im Park sind schmal und kurvenreich.",
+              "Tanken Sie in Delnice voll, bevor Sie in den Park fahren.",
+              "Achten Sie auf Wanderer am Straßenrand.",
+              "Die Zufahrt nach Vilje ist eine Schotterstraße."
+            ],
+            "hu": [
+              "A parkon belüli utak szűkek és kanyargósak.",
+              "Tankolj tele Delnicében, mielőtt a parkba érsz.",
+              "Figyelj az út szélén haladó túrázókra.",
+              "A Vilje felé vezető út kavicsos makadámút."
+            ],
+            "ro": [
+              "Drumurile din parc sunt înguste și sinuoase.",
+              "Alimentați complet în Delnice înainte de a intra în parc.",
+              "Atenție la drumeții de pe marginea drumului.",
+              "Accesul spre Vilje este pe drum cu pietriș."
+            ],
+            "en": [
+              "Roads within the park are narrow and winding.",
+              "Fill up your tank in Delnice before entering the park.",
+              "Watch out for hikers on the roadside.",
+              "The access to Vilje is a gravel road."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Fahrt zum Ausgangspunkt Crni Lug. Mittags steht die anspruchsvolle Wanderung zum Gipfel des Veliki Risnjak an, oft in den Wolken. Die Schlosser-Hütte bietet Schutz und warme Suppe. Nachmittags geht es hinunter zur Kupa-Quelle und zum Abschluss zum Snježnik, während der Regen die Felsen glänzen lässt.",
+            "hu": "Esős autózás a Crni Lug-i kiindulóponthoz. Délben a Veliki Risnjak csúcsára vezető, ködös túra vár ránk. A Schlosser-menedékház nyújt oltalmat és meleg levest. Délután a Kupa-forráshoz ereszkedünk le, majd a Snježnik következik, miközben az eső csillogóvá teszi a sziklákat.",
+            "ro": "Drum ploios spre punctul de plecare din Crni Lug. La prânz urmează drumeția spre vârful Veliki Risnjak, adesea în nori. Cabana Schlosser oferă adăpost și o supă caldă. După-amiaza coborâm spre izvorul Kupa și încheiem la Snježnik, sub ploaia care face stâncile să strălucească.",
+            "en": "Rainy drive to the starting point in Crni Lug. At noon, the challenging hike to the summit of Veliki Risnjak awaits, often inside the clouds. The Schlosser hut provides shelter and warm soup. In the afternoon, descend to the Kupa source and finish at Snježnik while rain makes the rocks glisten."
+          },
+          "stops": [
+            {
+              "name": "Haupteingang Crni Lug",
+              "tip_5lang": {
+                "de": "Parken Sie sicher und lassen Sie keine Wertsachen sichtbar im Auto.",
+                "hu": "Parkoljon biztonságosan, és ne hagyjon értéket látható helyen az autóban.",
+                "ro": "Parcați în siguranță și nu lăsați obiecte de valoare la vedere în mașină.",
+                "en": "Park safely and don't leave any valuables visible in the car."
+              }
+            },
+            {
+              "name": "Gipfel Veliki Risnjak",
+              "tip_5lang": {
+                "de": "Der letzte Aufstieg zum Gipfel ist bei Regen extrem rutschig; Vorsicht!",
+                "hu": "A csúcs előtti utolsó szakasz esőben rendkívül csúszós; óvatosan!",
+                "ro": "Ultima urcare spre vârf este extrem de alunecoasă pe ploaie; atenție!",
+                "en": "The final scramble to the summit is extremely slippery in the rain; be careful!"
+              }
+            },
+            {
+              "name": "Schlosser-Berghütte",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihre Kleidung am Ofen, falls die Hütte bewirtschaftet ist.",
+                "hu": "Szárítsa meg ruháit a kályhánál, ha a ház éppen üzemel.",
+                "ro": "Uscați-vă hainele la sobă dacă cabana este deschisă.",
+                "en": "Dry your clothes by the stove if the hut is staffed and open."
+              }
+            },
+            {
+              "name": "Quelle des Flusses Kupa",
+              "tip_5lang": {
+                "de": "Der Waldpfad hinunter kann nach Regen sehr schlammig sein.",
+                "hu": "A forráshoz vezető erdei ösvény eső után nagyon sáros lehet.",
+                "ro": "Poteca prin pădure spre izvor poate fi foarte noroioasă după ploaie.",
+                "en": "The forest path down to the spring can be very muddy after rain."
+              }
+            },
+            {
+              "name": "Gipfel Snježnik",
+              "tip_5lang": {
+                "de": "Bei starkem Wind und Regen ist der Gratweg zum Snježnik ungemütlich.",
+                "hu": "Erős szélben és esőben a Snježnik gerincútja barátságtalan lehet.",
+                "ro": "Pe vânt puternic și ploaie, poteca de pe creasta Snježnik este neplăcută.",
+                "en": "On windy and rainy days, the ridge path to Snježnik is uncomfortable."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bergstraßen in Gorski Kotar sind kurvenreich und bei Nässe rutschig.",
+              "Wanderschuhe mit Steinschutz sind für die Gipfelpfade notwendig.",
+              "Das Wetter am Gipfel kann viel extremer sein als am Parkplatz.",
+              "Nehmen Sie Wechselkleidung im Auto mit für die Rückfahrt."
+            ],
+            "hu": [
+              "Gorski Kotar hegyi útjai kanyargósak és esőben csúszósak.",
+              "A csúcsokra vezető ösvényekhez sziklavédővel ellátott bakancs kell.",
+              "Az időjárás a csúcson sokkal szélsőségesebb lehet, mint a parkolónál.",
+              "Vigyen váltóruhát az autóba a visszaúthoz."
+            ],
+            "ro": [
+              "Drumurile montane din Gorski Kotar sunt virajate și alunecoase pe ploaie.",
+              "Bocancii de munte sunt necesari pentru potecile spre vârfuri.",
+              "Vremea pe vârf poate fi mult mai extremă decât în parcare.",
+              "Luați haine de schimb în mașină pentru drumul de întoarcere."
+            ],
+            "en": [
+              "Mountain roads in Gorski Kotar are winding and slippery when wet.",
+              "Hiking boots with toe protection are necessary for the summit trails.",
+              "Weather at the peak can be much more extreme than at the parking lot.",
+              "Keep a change of clothes in the car for the return journey."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Anfahrt durch verschneite Wälder. Der Aufstieg zum Veliki Risnjak erfordert im Winter oft Steigeisen. Mittagsrast in der winterlichen Schlosser-Hütte. Die Fahrt zur Kupa-Quelle bietet tolle Ausblicke auf die verschneiten Hänge. Den Tag beendet eine Wanderung zum Snježnik im goldenen Licht des frühen Sonnenuntergangs.",
+            "hu": "Téli autózás a havas erdőkön át. A Veliki Risnjak megmászása télen gyakran hágóvasat igényel. Déli pihenő a télies Schlosser-házban. A Kupa-forráshoz vezető út csodás kilátást nyújt a havas lankákra. A napot a Snježnik túrája zárja a korai naplemente aranyló fényeiben.",
+            "ro": "Drum de iarnă prin păduri înzăpezite. Urcarea pe Veliki Risnjak necesită adesea colțari iarna. Popas la prânz la cabana Schlosser. Drumul spre izvorul Kupa oferă priveliști superbe. Ziua se încheie cu o drumeție pe Snježnik în lumina aurie a apusului timpuriu.",
+            "en": "Winter drive through snowy forests. Climbing Veliki Risnjak in winter often requires crampons. Noon rest at the wintry Schlosser hut. The drive to the Kupa spring offers great views of the snowy slopes. The day concludes with a hike to Snježnik in the golden light of the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Haupteingang Crni Lug",
+              "tip_5lang": {
+                "de": "Winterreifen sind Pflicht, Schneeketten im Kofferraum ratsam.",
+                "hu": "A téli gumi kötelező, hólánc legyen a csomagtartóban.",
+                "ro": "Anvelopele de iarnă sunt obligatorii, lanțurile sunt recomandate.",
+                "en": "Winter tires are mandatory; keeping snow chains in the trunk is advised."
+              }
+            },
+            {
+              "name": "Gipfel Veliki Risnjak",
+              "tip_5lang": {
+                "de": "Unterschätzen Sie nicht das Eis am Gipfelfelsen; ggf. Grödel nutzen.",
+                "hu": "Ne becsülje alá a jeget a csúcssziklákon; használjon csúszásgátlót.",
+                "ro": "Nu subestimați gheața de pe stâncile din vârf; folosiți crampoane.",
+                "en": "Don't underestimate the ice on the summit rocks; use microspikes if needed."
+              }
+            },
+            {
+              "name": "Schlosser-Berghütte",
+              "tip_5lang": {
+                "de": "Die Hütte ist im Winter oft nur an Wochenenden bewirtschaftet.",
+                "hu": "A menedékház télen gyakran csak hétvégente van nyitva.",
+                "ro": "Cabana este adesea deschisă doar în weekend în timpul iernii.",
+                "en": "The hut is often only staffed on weekends during the winter season."
+              }
+            },
+            {
+              "name": "Quelle des Flusses Kupa",
+              "tip_5lang": {
+                "de": "Vorsicht beim Abstieg; der Weg kann vereist und sehr glatt sein.",
+                "hu": "Óvatosan az ereszkedésnél; az út jeges és nagyon csúszós lehet.",
+                "ro": "Atenție la coborâre; poteca poate fi înghețată și foarte alunecoasă.",
+                "en": "Be careful during the descent; the path can be icy and very slick."
+              }
+            },
+            {
+              "name": "Gipfel Snježnik",
+              "tip_5lang": {
+                "de": "Der Name ist Programm: Hier liegt oft der meiste Schnee der Region.",
+                "hu": "A név kötelez: itt található gyakran a környék legtöbb hava.",
+                "ro": "Numele spune totul: aici se găsește adesea cea mai multă zăpadă.",
+                "en": "The name means 'Snowy One': this area often has the deepest snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen können nach Schneefall zeitweise gesperrt sein.",
+              "Achten Sie auf Wildtiere, die im Winter oft die Straßen queren.",
+              "Frostschutzmittel in der Scheibenwaschanlage ist unerlässlich.",
+              "Die Wanderung zu den Gipfeln dauert im Schnee deutlich länger."
+            ],
+            "hu": [
+              "Hóesés után az utak átmenetileg lezárásra kerülhetnek.",
+              "Vigyázzon a vadon élő állatokra, amik télen gyakran átkelnek az úton.",
+              "A fagyálló szélvédőmosó folyadék használata elengedhetetlen.",
+              "A csúcsokra vezető túra hóban lényegesen több időt vesz igénybe."
+            ],
+            "ro": [
+              "Drumurile pot fi închise temporar după ninsori abundente.",
+              "Atenție la animalele sălbatice care traversează drumul iarna.",
+              "Lichidul de parbriz antigel este absolut necesar.",
+              "Drumeția spre vârfuri durează mult mai mult prin zăpadă."
+            ],
+            "en": [
+              "Roads may be temporarily closed after heavy snowfall.",
+              "Watch out for wildlife frequently crossing the roads in winter.",
+              "Antifreeze in your windshield washer fluid is essential.",
+              "The hike to the summits takes significantly longer in the snow."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -826,6 +1780,306 @@
           "The stop is right at the park entrance.",
           "Fewer buses run on weekends."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Bus aus Delnice erreichen Sie Crni Lug bequem. Der Tag konzentriert sich auf die Sehenswürdigkeiten rund um das Dorfzentrum und den Parkeingang. Nach der Besichtigung der Kirche wandern Sie über den Leska-Lehrpfad und entspannen auf der Lazac-Wiese, bevor Sie die Rückreise antreten.",
+            "hu": "A Delnicéből induló busszal kényelmesen elérheted Crni Lugot. A nap a falu központja és a parkbejárat körüli látnivalókra összpontosít. A templom megtekintése után bejárod a Leska tanösvényt, majd a Lazac-réten pihensz a busz visszaindulásáig.",
+            "ro": "Cu autobuzul public din Delnice ajungeți ușor în Crni Lug. Ziua se concentrează pe atracțiile din jurul centrului satului și intrarea în parc. După vizitarea bisericii, parcurgeți traseul Leska și vă relaxați pe pajiștea Lazac înainte de întoarcere.",
+            "en": "With the public bus from Delnice, you can easily reach Crni Lug. The day focuses on sights around the village center and the park entrance. After visiting the church, walk the Leska trail and relax on the Lazac meadow before heading back."
+          },
+          "stops": [
+            {
+              "name": "Haupteingang Crni Lug",
+              "tip_5lang": {
+                "de": "Endstation des lokalen Busses aus Delnice.",
+                "hu": "A Delnicéből érkező helyi busz végállomása.",
+                "ro": "Capătul liniei de autobuz din Delnice.",
+                "en": "Terminal stop of the local bus from Delnice."
+              }
+            },
+            {
+              "name": "Kirche St. Peter und Paul",
+              "tip_5lang": {
+                "de": "Zentraler Punkt des Dorfes, nahe der Bushaltestelle.",
+                "hu": "A falu központi pontja a buszmegálló közelében.",
+                "ro": "Punctul central al satului, lângă stația de autobuz.",
+                "en": "Central point of the village near the bus stop."
+              }
+            },
+            {
+              "name": "Lehrpfad Leska",
+              "tip_5lang": {
+                "de": "Vom Dorf aus leicht zu Fuß erreichbar.",
+                "hu": "A faluból gyalogosan könnyen megközelíthető.",
+                "ro": "Ușor accesibil pe jos din sat.",
+                "en": "Easily accessible on foot from the village."
+              }
+            },
+            {
+              "name": "Lazac-Wiese",
+              "tip_5lang": {
+                "de": "Genießen Sie die Natur, bevor der Nachmittagsbus fährt.",
+                "hu": "Élvezd a természetet a délutáni busz indulása előtt.",
+                "ro": "Bucurați-vă de natură înainte de autobuzul de după-amiază.",
+                "en": "Enjoy nature before the afternoon bus departs."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gostionica Risnjak",
+                "tip": "Hausgemachte Suppen und Strudel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gostionica Risnjak",
+                "tip": "Házias levesek és rétesek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gostionica Risnjak",
+                "tip": "Supe de casă și ștrudele."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gostionica Risnjak",
+                "tip": "Homemade soups and strudels."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parkbank am Eingang",
+                "tip": "Beobachten Sie das Treiben am Parkrand.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pad a bejáratnál",
+                "tip": "Figyeld a park szélének nyugalmát.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bancă la intrare",
+                "tip": "Observați liniștea de la marginea parcului.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Bench at the entrance",
+                "tip": "Watch the quiet life at the park edge.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Info-Zentrum",
+                "tip": "Postkarten und Wanderführer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Információs központ",
+                "tip": "Képeslapok és túrakalauzok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Centru Info",
+                "tip": "Vederi și ghiduri de drumeție."
+              }
+            ],
+            "en": [
+              {
+                "name": "Info Center",
+                "tip": "Postcards and hiking guides."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan genau, es gibt nur wenige Fahrten.",
+              "Kaufen Sie Tickets beim Fahrer.",
+              "Die Haltestelle ist direkt am Parkeingang.",
+              "Am Wochenende fahren weniger Busse."
+            ],
+            "hu": [
+              "Ellenőrizd pontosan a buszmenetrendet, kevés járat van.",
+              "A jegyet a sofőrnél veheted meg.",
+              "A megálló közvetlenül a park bejáratánál van.",
+              "Hétvégén ritkábban járnak a buszok."
+            ],
+            "ro": [
+              "Verificați atent orarul autobuzelor, sunt puține curse.",
+              "Cumpărați bilete de la șofer.",
+              "Stația este chiar la intrarea în parc.",
+              "În weekend sunt mai puține autobuze."
+            ],
+            "en": [
+              "Check the bus schedule carefully, there are few trips.",
+              "Buy tickets from the driver.",
+              "The stop is right at the park entrance.",
+              "Fewer buses run on weekends."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ankunft mit dem Bus im regnerischen Crni Lug. Der Vormittag gehört der Kirche St. Peter und Paul als trockenem Startpunkt. Mittags erkunden Sie den Leska-Lehrpfad, dessen Farne im Regen besonders grün leuchten. Nachmittags erreichen Sie die Lazac-Wiese, bevor es zurück zur Bushaltestelle geht.",
+            "hu": "Buszos érkezés az esős Crni Lugba. A délelőtt a Szent Péter és Pál templomé, amely száraz kezdőpontot ad. Délben a Leska-tanösvényt járjuk be, ahol a páfrányok élénkzöldek az esőben. Délután a Lazac-rét következik, majd visszatérünk a buszmegállóhoz.",
+            "ro": "Sosire cu autobuzul în Crni Lug pe ploaie. Dimineața este dedicată bisericii Sf. Petru și Pavel. La prânz explorăm poteca Leska, unde ferigile sunt de un verde intens sub ploaie. După-amiaza ajungem în poiana Lazac înainte de a reveni la stație.",
+            "en": "Arrival by bus in rainy Crni Lug. The morning is spent at the Church of St. Peter and Paul as a dry starting point. At noon, explore the Leska trail, where ferns glow bright green in the rain. In the afternoon, reach the Lazac meadow before returning to the bus stop."
+          },
+          "stops": [
+            {
+              "name": "Haupteingang Crni Lug",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Wartehäuschen an der Haltestelle bei starkem Regen.",
+                "hu": "Használja a buszmegálló várótermét heves esőzés esetén.",
+                "ro": "Folosiți adăpostul din stație în caz de ploaie torențială.",
+                "en": "Use the shelter at the bus stop during heavy rain."
+              }
+            },
+            {
+              "name": "Kirche St. Peter und Paul",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Wartezeit auf den Bus im Trockenen zu verbringen.",
+                "hu": "Ideális hely a buszra való várakozáshoz, ha esik az eső.",
+                "ro": "Loc ideal pentru a aștepta autobuzul la adăpost de ploaie.",
+                "en": "Ideal place to wait for your connection while staying dry."
+              }
+            },
+            {
+              "name": "Lehrpfad Leska",
+              "tip_5lang": {
+                "de": "Halten Sie die Regenjacke griffbereit; das Wetter schlägt schnell um.",
+                "hu": "Tartsa kéznél az esőkabátot; az időjárás itt gyorsan változik.",
+                "ro": "Țineți pelerina la îndemână; vremea se schimbă rapid aici.",
+                "en": "Keep your rain jacket handy; the weather here changes rapidly."
+              }
+            },
+            {
+              "name": "Lazac-Wiese",
+              "tip_5lang": {
+                "de": "Planen Sie genug Zeit für den Rückweg zur Haltestelle ein.",
+                "hu": "Tervezzen elég időt a buszmegállóba való visszatéréshez.",
+                "ro": "Planificați suficient timp pentru întoarcerea la stația de autobuz.",
+                "en": "Plan enough time for the return walk to the bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan, da Verbindungen bei Unwetter ausfallen können.",
+              "Die Haltestelle in Crni Lug bietet nur begrenzten Schutz vor Wind.",
+              "Tragen Sie auffällige Regenkleidung für bessere Sichtbarkeit an der Straße.",
+              "Kombinieren Sie die Tour mit einem Besuch im lokalen Gasthaus."
+            ],
+            "hu": [
+              "Ellenőrizze a buszmenetrendet, mert vihar esetén járatok maradhatnak ki.",
+              "A Crni Lug-i megálló csak korlátozott védelmet nyújt a szél ellen.",
+              "Viseljen élénk színű esőruházatot a jobb láthatóság érdekében az út mentén.",
+              "Kösse össze a túrát egy látogatással a helyi fogadóban."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor, cursele pot fi anulate pe furtună.",
+              "Stația din Crni Lug oferă protecție limitată împotriva vântului.",
+              "Purtați haine de ploaie stridente pentru vizibilitate mai bună la drum.",
+              "Combinați tura cu o vizită la hanul local."
+            ],
+            "en": [
+              "Check the bus schedule, as services might be cancelled during storms.",
+              "The bus stop in Crni Lug offers limited protection from the wind.",
+              "Wear high-visibility rain gear to be seen better along the road.",
+              "Combine your tour with a visit to a local guesthouse."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreise mit dem Bus nach Crni Lug. Die verschneite Kirche empfängt Sie in einer weißen Märchenwelt. Mittags führt der Weg über den Leska-Lehrpfad, der im Winter eine ganz eigene Stille ausstrahlt. Den Nachmittag verbringen Sie auf der Lazac-Wiese, bevor Sie den Bus zurück nehmen, wenn die Lichter im Dorf angehen.",
+            "hu": "Téli buszozás Crni Lugba. A havas templom fehér mesevilágban fogadja az érkezőt. Délben a Leska-tanösvényen járunk, amely télen különleges csendet áraszt. A délutánt a Lazac-réten töltjük, majd visszatérünk a buszhoz, amikor kigyúlnak a falu fényei.",
+            "ro": "Călătorie de iarnă cu autobuzul spre Crni Lug. Biserica înzăpezită vă întâmpină într-o lume de basm albă. La prânz parcurgem poteca Leska, ce emană o liniște aparte iarna. Petrecem după-amiaza în poiana Lazac, revenind la autobuz când se aprind luminile în sat.",
+            "en": "Winter journey by bus to Crni Lug. The snowy church welcomes you to a white fairytale world. At noon, follow the Leska trail, which exudes a unique silence in winter. Spend the afternoon at Lazac meadow before taking the bus back as the village lights come on."
+          },
+          "stops": [
+            {
+              "name": "Haupteingang Crni Lug",
+              "tip_5lang": {
+                "de": "Rechnen Sie im Winter mit Verspätungen im Busverkehr.",
+                "hu": "Télen számítson esetleges késésekre a buszközlekedésben.",
+                "ro": "Așteptați-vă la întârzieri ale autobuzelor pe timp de iarnă.",
+                "en": "Expect potential delays in bus services during winter weather."
+              }
+            },
+            {
+              "name": "Kirche St. Peter und Paul",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für Fotos der Kirche unter einer dicken Schneelast.",
+                "hu": "Szép hely fotózáshoz, ahogy a templomot vastag hóréteg fedi.",
+                "ro": "Un loc frumos pentru fotografii cu biserica sub zăpada groasă.",
+                "en": "A beautiful spot for photos of the church under a thick blanket of snow."
+              }
+            },
+            {
+              "name": "Lehrpfad Leska",
+              "tip_5lang": {
+                "de": "Die hölzernen Schilder können teilweise unter Schnee begraben sein.",
+                "hu": "A fatáblák néha részben a hó alá temetve találhatók.",
+                "ro": "Panourile de lemn pot fi parțial îngropate sub zăpadă.",
+                "en": "The wooden information boards might be partially buried under snow."
+              }
+            },
+            {
+              "name": "Lazac-Wiese",
+              "tip_5lang": {
+                "de": "Machen Sie sich rechtzeitig auf den Rückweg; im Schnee geht man langsamer.",
+                "hu": "Időben induljon vissza; a hóban sokkal lassabb a haladás.",
+                "ro": "Porniți înapoi din timp; mersul prin zăpadă este mult mai lent.",
+                "en": "Start your return journey early; walking in snow is much slower."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die letzte Busverbindung ist im Winter oft früher als im Sommer.",
+              "Warten Sie im örtlichen Café auf den Bus, um nicht auszukühlen.",
+              "Achten Sie auf geräumte Gehwege im Dorf Crni Lug.",
+              "Nehmen Sie eine Taschenlampe mit für den Weg zur Haltestelle."
+            ],
+            "hu": [
+              "Az utolsó buszjárat télen gyakran korábban indul, mint nyáron.",
+              "Várja a buszt a helyi kávézóban, hogy ne hűljön ki.",
+              "Figyeljen a letakarított járdákra Crni Lug faluban.",
+              "Vigyen magával zseblámpát a buszmegállóhoz vezető úthoz."
+            ],
+            "ro": [
+              "Ultima cursă de autobuz pleacă adesea mai devreme iarna.",
+              "Așteptați autobuzul în cafeneaua locală pentru a nu îngheța.",
+              "Atenție la trotuarele deszăpezite din satul Crni Lug.",
+              "Luați o lanternă cu voi pentru drumul spre stația de autobuz."
+            ],
+            "en": [
+              "The last bus connection often leaves earlier in winter than in summer.",
+              "Wait for the bus in a local cafe to avoid getting chilled.",
+              "Watch for cleared footpaths within the village of Crni Lug.",
+              "Bring a flashlight for the walk back to the bus stop in the dark."
+            ]
+          }
+        }
       }
     }
   },

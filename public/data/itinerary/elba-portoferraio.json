@@ -299,6 +299,438 @@
           "Comfortable shoes are essential for the steep fortress streets.",
           "Combined museum tickets save money."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der hufeisenförmigen Darsena Medicea, dem historischen Hafenbecken von Portoferraio. Steigen Sie hinauf zu den gewaltigen Medici-Festungen Forte Stella und Forte Falcone, die das Stadtbild dominieren. Entdecken Sie den kaiserlichen Glanz in Napoleons Palazzina dei Mulini und beenden Sie den Nachmittag am kristallklaren Wasser des berühmten Ghiaie-Strandes.",
+            "hu": "Kezdje a napot a patkó alakú Darsena Mediceában, Portoferraio történelmi kikötőjében. Másszon fel a várost uraló hatalmas Medici-erődökbe, a Forte Stellába és a Forte Falconéba. Fedezze fel a császári pompát Napóleon egykori lakóhelyén, a Palazzina dei Mulini villában, majd zárja a délutánt a híres Ghiaie strand kristálytiszta vizénél.",
+            "ro": "Începeți ziua în Darsena Medicea, portul istoric în formă de potcoavă din Portoferraio. Urcați la fortărețele impresionante Forte Stella și Forte Falcone, care domină orașul. Descoperiți splendoarea imperială în Palazzina dei Mulini, reședința de exil a lui Napoleon, și încheiați după-amiaza pe plaja Ghiaie, celebră pentru apele sale cristaline.",
+            "en": "Start your day in the horseshoe-shaped Darsena Medicea, the historic harbor of Portoferraio. Climb up to the massive Medici fortresses, Forte Stella and Forte Falcone, which dominate the skyline. Discover imperial glory at Napoleon's Palazzina dei Mulini residence, and finish the afternoon by the crystal-clear waters of the famous Ghiaie beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Darsena Medicea",
+                "hu": "Darsena Medicea",
+                "ro": "Darsena Medicea",
+                "en": "Darsena Medicea"
+              },
+              "tip_5lang": {
+                "de": "Frühstück am Kai genießen.",
+                "hu": "Reggelizz a kikötőben.",
+                "ro": "Mic dejun în port.",
+                "en": "Breakfast by the quay."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Martello",
+                "hu": "Torre del Martello",
+                "ro": "Torre del Martello",
+                "en": "Torre del Martello"
+              },
+              "tip_5lang": {
+                "de": "Blick auf den Hafen.",
+                "hu": "Kilátás a kikötőre.",
+                "ro": "Vedere spre port.",
+                "en": "View of the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche della Misericordia",
+                "hu": "Misericordia templom",
+                "ro": "Biserica della Misericordia",
+                "en": "Misericordia Church"
+              },
+              "tip_5lang": {
+                "de": "Napoleonische Reliquien.",
+                "hu": "Napóleoni ereklyék.",
+                "ro": "Relicve napoleoniene.",
+                "en": "Napoleonic relics."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Stella",
+                "hu": "Forte Stella",
+                "ro": "Forte Stella",
+                "en": "Forte Stella"
+              },
+              "tip_5lang": {
+                "de": "Panorama-Festung.",
+                "hu": "Panoráma erőd.",
+                "ro": "Fortăreață panoramică.",
+                "en": "Panoramic fortress."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzina dei Mulini",
+                "hu": "Palazzina dei Mulini",
+                "ro": "Palazzina dei Mulini",
+                "en": "Palazzina dei Mulini"
+              },
+              "tip_5lang": {
+                "de": "Napoleons Exilresidenz.",
+                "hu": "Napóleon rezidenciája.",
+                "ro": "Reședința lui Napoleon.",
+                "en": "Napoleons residence."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Falcone",
+                "hu": "Forte Falcone",
+                "ro": "Forte Falcone",
+                "en": "Forte Falcone"
+              },
+              "tip_5lang": {
+                "de": "Höchster Punkt der Stadt.",
+                "hu": "A város legmagasabb pontja.",
+                "ro": "Cel mai înalt punct.",
+                "en": "Highest point in town."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia delle Ghiaie",
+                "hu": "Spiaggia delle Ghiaie",
+                "ro": "Spiaggia delle Ghiaie",
+                "en": "Spiaggia delle Ghiaie"
+              },
+              "tip_5lang": {
+                "de": "Weiße Kieselsteine.",
+                "hu": "Fehér kavicsos strand.",
+                "ro": "Plajă cu pietre albe.",
+                "en": "White pebble beach."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gurguglione",
+                "tip": "Traditioneller Gemüseeintopf aus Elba."
+              },
+              {
+                "name": "Stoccafisso alla riese",
+                "tip": "Stockfisch nach lokaler Art in der Altstadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gurguglione",
+                "tip": "Tradicionális elbai zöldségragu."
+              },
+              {
+                "name": "Stoccafisso alla riese",
+                "tip": "Helyi tőkehalas specialitás az óvárosban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gurguglione",
+                "tip": "Tocană tradițională de legume din Elba."
+              },
+              {
+                "name": "Stoccafisso alla riese",
+                "tip": "Specialitate locală de cod în centrul vechi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gurguglione",
+                "tip": "Traditional vegetable stew from Elba."
+              },
+              {
+                "name": "Stoccafisso alla riese",
+                "tip": "Local stockfish specialty in the old town."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Le Viste",
+                "tip": "Ruhige Bucht hinter der Festung.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Viste",
+                "tip": "Csendes öböl az erőd mögött.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Le Viste",
+                "tip": "Golf liniștit în spatele cetății.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Viste",
+                "tip": "Quiet cove behind the fortress.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Acqua dell Elba",
+                "tip": "Parfüm mit dem Duft der Insel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Acqua dell Elba",
+                "tip": "A sziget illatát idéző parfüm."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Acqua dell Elba",
+                "tip": "Parfum cu aroma insulei."
+              }
+            ],
+            "en": [
+              {
+                "name": "Acqua dell Elba",
+                "tip": "Perfume inspired by the island scent."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Bequeme Schuhe sind für die steilen Gassen der Festungen unerlässlich.",
+              "Die Kombitickets für Museen sparen Geld."
+            ],
+            "hu": [
+              "Kényelmes cipő kötelező az erődök meredek utcáihoz.",
+              "A múzeumi kombinált jegyekkel spórolhatsz."
+            ],
+            "ro": [
+              "Pantofii comozi sunt esențiali pentru străzile abrupte spre cetăți.",
+              "Biletele combinate pentru muzee economisesc bani."
+            ],
+            "en": [
+              "Comfortable shoes are essential for the steep fortress streets.",
+              "Combined museum tickets save money."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am nebligen Darsena Medicea, wo die bunten Fischerboote im Regen schaukeln. Die engen Gassen der Altstadt bieten etwas Schutz, während Sie zur Misericordia-Kirche aufsteigen.\n\nMittags suchen wir Zuflucht in den historischen Mauern von Forte Stella. Der Blick auf den grauen Tyrrhenischen Ozean ist dramatisch und kraftvoll.\n\nNachmittags tauchen wir in die Geschichte Napoleons in der Palazzina dei Mulini ein – der perfekte Ort, um trocken zu bleiben und die kaiserliche Atmosphäre zu genießen.\n\nDer Tag endet am Strand von Ghiaie. Die berühmten weißen Kieselsteine leuchten unter dem Regen fast mystisch, bevor wir uns in ein gemütliches Hafenrestaurant zurückziehen.",
+            "hu": "A reggel a ködös Darsena Mediceánál indul, ahol a színes halászhajók ringatóznak az esőben. Az óváros szűk utcái némi menedéket nyújtanak, miközben felkapaszkodunk a Misericordia-templomhoz.\n\nDélben a Forte Stella történelmi falai között keresünk oltalmat. A kilátás a szürke Tirrén-tengerre drámai és erőteljes ebben az időben.\n\nDélután Napóleon történetébe merülünk a Palazzina dei Mulini falai között – ez a tökéletes hely, hogy szárazon maradjunk és élvezzük a császári miliőt.\n\nA nap a Ghiaie strandon zárul. A híres fehér kavicsok szinte misztikusan fénylenek az esőben, mielőtt visszavonulnánk egy barátságos kikötői étterembe.",
+            "ro": "Dimineața începe în Darsena Medicea cețoasă, unde bărcile colorate de pescuit se leagănă în ploaie. Străzile înguste ale orașului vechi oferă adăpost în timp ce urcați spre Biserica Misericordia.\n\nLa prânz, căutăm refugiu între zidurile istorice de la Forte Stella. Priveliștea asupra Mării Tireniene gri este dramatică și plină de forță.\n\nDupă-amiaza ne cufundăm în istoria lui Napoleon la Palazzina dei Mulini – locul perfect pentru a rămâne uscați și a savura atmosfera imperială.\n\nZiua se încheie la plaja Ghiaie. Celebrele pietre albe strălucesc aproape mistic sub ploaie, înainte de a ne retrage într-un restaurant primitor din port.",
+            "en": "The morning starts at the misty Darsena Medicea, where colorful fishing boats rock in the rain. The narrow streets of the old town offer some shelter as you climb towards Misericordia Church.\n\nAt noon, we seek refuge within the historical walls of Forte Stella. The view over the grey Tyrrhenian Sea is dramatic and powerful in this weather.\n\nIn the afternoon, we dive into Napoleon's history at Palazzina dei Mulini – the perfect place to stay dry and enjoy the imperial atmosphere.\n\nThe day ends at Ghiaie Beach. The famous white pebbles shine almost mystically in the rain before we retreat to a cozy harbor restaurant."
+          },
+          "stops": [
+            {
+              "name": "Darsena Medicea",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem rutschigen Pflaster am Hafenbecken.",
+                "hu": "Vigyázzon a csúszós macskakőre a kikötő medencéjénél.",
+                "ro": "Atenție la pavajul alunecos de lângă bazinul portului.",
+                "en": "Watch out for slippery cobblestones along the harbor basin."
+              }
+            },
+            {
+              "name": "Torre del Martello",
+              "tip_5lang": {
+                "de": "Das Torhaus bietet guten Schutz vor plötzlichen Schauern.",
+                "hu": "A kapuépület jó védelmet nyújt a hirtelen záporok ellen.",
+                "ro": "Poarta oferă un adăpost bun împotriva averselor bruște.",
+                "en": "The gatehouse provides good shelter from sudden showers."
+              }
+            },
+            {
+              "name": "Misericordia Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für stille Einkehr, während es draußen regnet.",
+                "hu": "Ideális hely az elcsendesedésre, miközben kint esik.",
+                "ro": "Un loc ideal pentru reculegere în timp ce afară plouă.",
+                "en": "An ideal place for quiet reflection while it rains outside."
+              }
+            },
+            {
+              "name": "Forte Stella",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Passagen für den Panoramablick.",
+                "hu": "Használja a fedett folyosókat a panoráma megcsodálásához.",
+                "ro": "Folosiți pasajele acoperite pentru vederea panoramică.",
+                "en": "Use the covered passages for the panoramic view."
+              }
+            },
+            {
+              "name": "Palazzina dei Mulini",
+              "tip_5lang": {
+                "de": "Perfekter Indoor-Stopp; die Gärten nur bei Regenpausen besuchen.",
+                "hu": "Tökéletes beltéri program; a kertet csak esőszünetben látogassa.",
+                "ro": "Popas interior perfect; vizitați grădinile doar în pauzele de ploaie.",
+                "en": "Perfect indoor stop; visit the gardens only during rain breaks."
+              }
+            },
+            {
+              "name": "Forte Falcone",
+              "tip_5lang": {
+                "de": "Die hohen Mauern schützen teilweise vor dem Wind.",
+                "hu": "A magas falak részben védenek az erős szél ellen.",
+                "ro": "Zidurile înalte protejează parțial împotriva vântului.",
+                "en": "The high walls partially protect against the wind."
+              }
+            },
+            {
+              "name": "Spiaggia delle Ghiaie",
+              "tip_5lang": {
+                "de": "Die nassen weißen Steine haben eine einzigartige Farbe.",
+                "hu": "A vizes fehér köveknek egyedi színe van ilyenkor.",
+                "ro": "Pietrele albe ude au o culoare unică în acest moment.",
+                "en": "The wet white stones have a unique color right now."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie feste Schuhe, da das alte Pflaster bei Nässe sehr glatt wird.",
+              "Die Museen Napoleons sind die besten Rückzugsorte bei Dauerregen.",
+              "Ein stabiler Regenschirm ist wegen des Windes am Forte Stella ratsam.",
+              "Nutzen Sie die Cafés an der Darsena für gemütliche Pausen.",
+              "Die Regenwolken über dem Meer bieten großartige Fotomotive."
+            ],
+            "hu": [
+              "Viseljen stabil cipőt, mert a régi macskakő vizesen nagyon csúszik.",
+              "A Napóleon-múzeumok a legjobb menedékek tartós eső esetén.",
+              "Az erős szél miatt a Forte Stellánál stabil esernyő javasolt.",
+              "Használja a Darsena kávézóit a barátságos pihenőkhöz.",
+              "A tenger feletti esőfelhők nagyszerű fotótémát szolgáltatnak."
+            ],
+            "ro": [
+              "Purtați încălțăminte stabilă, deoarece pavajul vechi devine foarte alunecos.",
+              "Muzeele lui Napoleon sunt cele mai bune refugii în caz de ploaie persistentă.",
+              "Se recomandă o umbrelă stabilă la Forte Stella din cauza vântului puternic.",
+              "Folosiți cafenelele de pe Darsena pentru pauze primitoare.",
+              "Norii de ploaie de deasupra mării oferă motive foto grozave."
+            ],
+            "en": [
+              "Wear sturdy shoes as the old cobblestones get very slippery when wet.",
+              "The Napoleon museums are the best retreats during persistent rain.",
+              "A sturdy umbrella is recommended at Forte Stella due to the wind.",
+              "Use the cafes at Darsena for cozy breaks.",
+              "The rain clouds over the sea provide great photo opportunities."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Portoferraio im Winter ist ein Ort der absoluten Ruhe. Am Morgen leuchtet die Darsena Medicea in einem klaren, kalten Licht, während die Einheimischen ihren Espresso genießen.\n\nMittags steigen wir zu den Festungen auf. Die kühle Brise vom Meer ist erfrischend, und die Fernsicht bis zum Festland ist im Winter oft viel klarer als im Sommer.\n\nNachmittags wärmen wir uns in den kaiserlichen Gemächern von Napoleon auf. Ohne die Touristenmassen wirkt die Palazzina dei Mulini besonders authentisch und geschichtsträchtig.\n\nDa die Sonne früh untergeht, beenden wir den Spaziergang am Strand von Ghiaie gegen 16:30 Uhr. Das goldene Licht auf den weißen Steinen ist kurz vor der Dämmerung unvergesslich.",
+            "hu": "Portoferraio télen az abszolút nyugalom szigete. Reggel a Darsena Medicea tiszta, hideg fényben úszik, miközben a helyiek komótosan isszák az eszpresszójukat.\n\nDélben felkapaszkodunk az erődökhöz. A hűvös tengeri szellő frissítő, és a kilátás a szárazföld felé télen gyakran sokkal tisztább, mint nyáron.\n\nDélután Napóleon császári lakosztályaiban melegszünk fel. A turistahadak nélkül a Palazzina dei Mulini különösen hitelesnek és történelminek hat.\n\nMivel a nap korán nyugszik, a Ghiaie strandon fejezzük be a sétát 16:30 körül. Az aranyfény a fehér köveken közvetlenül szürkület előtt felejthetetlen.",
+            "ro": "Portoferraio iarna este un loc al liniștii absolute. Dimineața, Darsena Medicea strălucește într-o lumină clară și rece, în timp ce localnicii își savurează espresso-ul.\n\nLa prânz, urcăm spre fortărețe. Briza răcoroasă a mării este revigorantă, iar vizibilitatea spre continent este adesea mult mai clară iarna decât vara.\n\nDupă-amiaza, ne încălzim în apartamentele imperiale ale lui Napoleon. Fără mulțimile de turiști, Palazzina dei Mulini pare deosebit de autentică și plină de istorie.\n\nDeoarece soarele apune devreme, încheiem plimbarea la plaja Ghiaie în jurul orei 16:30. Lumina aurie pe pietrele albe este de neuitat chiar înainte de amurg.",
+            "en": "Portoferraio in winter is a place of absolute tranquility. In the morning, Darsena Medicea glows in a clear, cold light while locals enjoy their espresso.\n\nAt noon, we climb up to the fortresses. The cool sea breeze is refreshing, and the view towards the mainland is often much clearer in winter than in summer.\n\nIn the afternoon, we warm up in Napoleon's imperial quarters. Without the tourist crowds, Palazzina dei Mulini feels particularly authentic and steeped in history.\n\nAs the sun sets early, we finish the walk at Ghiaie Beach around 4:30 PM. The golden light on the white stones is unforgettable just before dusk."
+          },
+          "stops": [
+            {
+              "name": "Darsena Medicea",
+              "tip_5lang": {
+                "de": "Genießen Sie die authentische Stille ohne Yachten.",
+                "hu": "Élvezze az autentikus csendet a luxusjachtok nélkül.",
+                "ro": "Bucurați-vă de liniștea autentică fără iahturi.",
+                "en": "Enjoy the authentic silence without the yachts."
+              }
+            },
+            {
+              "name": "Torre del Martello",
+              "tip_5lang": {
+                "de": "Im Winter sind die Mauern oft feucht und kalt.",
+                "hu": "Télen a falak gyakran nyirkosak és hidegek.",
+                "ro": "Iarna, zidurile sunt adesea umede și reci.",
+                "en": "In winter, the walls are often damp and cold."
+              }
+            },
+            {
+              "name": "Misericordia Church",
+              "tip_5lang": {
+                "de": "Besonders stimmungsvoll in der frühen Dämmerung.",
+                "hu": "Különösen hangulatos a korai szürkületben.",
+                "ro": "Deosebit de atmosferic în amurgul timpuriu.",
+                "en": "Particularly atmospheric in the early twilight."
+              }
+            },
+            {
+              "name": "Forte Stella",
+              "tip_5lang": {
+                "de": "Bester Platz für Winter-Sonnenuntergänge.",
+                "hu": "A legjobb hely a téli naplementékhez.",
+                "ro": "Cel mai bun loc pentru apusurile de iarnă.",
+                "en": "Best spot for winter sunsets."
+              }
+            },
+            {
+              "name": "Palazzina dei Mulini",
+              "tip_5lang": {
+                "de": "Ein warmer Zufluchtsort mit historischem Flair.",
+                "hu": "Meleg menedék történelmi hangulattal.",
+                "ro": "Un refugiu cald cu fler istoric.",
+                "en": "A warm retreat with historical flair."
+              }
+            },
+            {
+              "name": "Forte Falcone",
+              "tip_5lang": {
+                "de": "Warme Kleidung für die exponierten Bastionen nötig.",
+                "hu": "Meleg ruházat szükséges a kitett bástyákon.",
+                "ro": "Haine groase necesare pentru bastioanele expuse.",
+                "en": "Warm clothing needed for the exposed bastions."
+              }
+            },
+            {
+              "name": "Spiaggia delle Ghiaie",
+              "tip_5lang": {
+                "de": "Ideal für einen meditativen Winterspaziergang.",
+                "hu": "Ideális egy meditatív téli sétához.",
+                "ro": "Ideal pentru o plimbare meditativă de iarnă.",
+                "en": "Ideal for a meditative winter walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:45 Uhr unter.",
+              "Viele kleine Souvenirläden haben im Winter eingeschränkte Zeiten.",
+              "Zwiebelprinzip bei der Kleidung schützt vor dem kühlen Seewind.",
+              "Die klare Winterluft ermöglicht Sicht bis zur Insel Capraia.",
+              "Abends sind die Trattorien am Hafen besonders gemütlich."
+            ],
+            "hu": [
+              "A nap decemberben már 16:45 körül lemegy.",
+              "Sok kis ajándékbolt télen korlátozott ideig tart nyitva.",
+              "A réteges öltözködés véd a hűvös tengeri széltől.",
+              "A tiszta téli levegőben ellátni akár Capraia szigetéig is.",
+              "Este a kikötői trattoriák különösen barátságosak."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:45 în decembrie.",
+              "Multe magazine mici de suveniruri au program redus iarna.",
+              "Îmbrăcămintea stratificată protejează împotriva vântului rece de mare.",
+              "Aerul curat de iarnă permite vizibilitatea până la insula Capraia.",
+              "Seara, trattoriile din port sunt deosebit de primitoare."
+            ],
+            "en": [
+              "The sun already sets around 4:45 PM in December.",
+              "Many small souvenir shops have limited hours in winter.",
+              "Layered clothing protects against the cool sea wind.",
+              "The clear winter air allows views as far as Capraia Island.",
+              "In the evening, the harbor trattorias are especially cozy."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -530,6 +962,358 @@
           "E-bikes are recommended for the ride to Villa San Martino.",
           "Be careful with traffic around the harbor."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vom Hafen landeinwärts zur Villa San Martino, Napoleons prächtiger Sommerresidenz inmitten von Pinienwäldern. Kehren Sie in die Stadt zurück, um das archäologische Museum zu besuchen, und fahren Sie zum Leuchtturm für einen weiten Blick über das Meer. Ein Badestopp am Ghiaie-Strand rundet die sportliche Tour ab.",
+            "hu": "Tekerjen a kikötőből a szárazföld belseje felé a Villa San Martinóhoz, Napóleon fenyőerdőkkel övezett nyári rezidenciájához. Térjen vissza a városba a régészeti múzeumhoz, majd tekerjen fel a világítótoronyhoz a tengeri panorámáért. A sportos túrát egy fürdőzés zárja a Ghiaie strandon.",
+            "ro": "Pedalați din port spre interiorul insulei până la Villa San Martino, reședința de vară a lui Napoleon, situată în mijlocul pădurilor de pini. Reveniți în oraș pentru o vizită la muzeul de arheologie și urcați la far pentru o vedere largă asupra mării. O oprire pentru baie la plaja Ghiaie completează turul sportiv.",
+            "en": "Cycle from the harbor inland to Villa San Martino, Napoleon's grand summer residence set among pine forests. Return to town for the archaeological museum and ride up to the lighthouse for sweeping sea views. A swim stop at Ghiaie beach completes this active tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Darsena Medicea",
+                "hu": "Darsena Medicea",
+                "ro": "Darsena Medicea",
+                "en": "Darsena Medicea"
+              },
+              "tip_5lang": {
+                "de": "Radmiete am Hafen.",
+                "hu": "Kerékpárbérlés a kikötőben.",
+                "ro": "Închiriere biciclete în port.",
+                "en": "Bike rental at the port."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa San Martino",
+                "hu": "Villa San Martino",
+                "ro": "Villa San Martino",
+                "en": "Villa San Martino"
+              },
+              "tip_5lang": {
+                "de": "Napoleons Sommerresidenz.",
+                "hu": "Napóleon nyári rezidenciája.",
+                "ro": "Vila de vară a lui Napoleon.",
+                "en": "Napoleons summer villa."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul de Arheologie",
+                "en": "Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Antike Seekarten.",
+                "hu": "Antik tengeri térképek.",
+                "ro": "Hărți maritime antice.",
+                "en": "Ancient sea charts."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Portoferraio",
+                "hu": "Portoferraio világítótorony",
+                "ro": "Farul Portoferraio",
+                "en": "Portoferraio Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Windiger Aussichtspunkt.",
+                "hu": "Szeles kilátóhely.",
+                "ro": "Punct panoramic cu vânt.",
+                "en": "Windy viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia delle Ghiaie",
+                "hu": "Spiaggia delle Ghiaie",
+                "ro": "Spiaggia delle Ghiaie",
+                "en": "Spiaggia delle Ghiaie"
+              },
+              "tip_5lang": {
+                "de": "Schnorcheln im Schutzgebiet.",
+                "hu": "Búvárkodás a védett övezetben.",
+                "ro": "Snorkeling în rezervație.",
+                "en": "Snorkeling in the reserve."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Schiaccia Briaca",
+                "tip": "Insel-Kuchen mit Aleatico-Wein."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Schiaccia Briaca",
+                "tip": "Elbai sütemény Aleatico borral."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Schiaccia Briaca",
+                "tip": "Prăjitură cu vin Aleatico."
+              }
+            ],
+            "en": [
+              {
+                "name": "Schiaccia Briaca",
+                "tip": "Island cake made with Aleatico wine."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "San Martino Pineta",
+                "tip": "Schattige Wälder bei der Villa.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "San Martino Pineta",
+                "tip": "Árnyas erdők a villánál.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "San Martino Pineta",
+                "tip": "Păduri umbrite lângă vilă.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "San Martino Pineta",
+                "tip": "Shady forests by the villa.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Elba Wein",
+                "tip": "Kaufen Sie eine Flasche Aleatico."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Elba bor",
+                "tip": "Vegyél egy üveg Aleatico bort."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vin de Elba",
+                "tip": "Cumpărați o sticlă de Aleatico."
+              }
+            ],
+            "en": [
+              {
+                "name": "Elba Wine",
+                "tip": "Buy a bottle of local Aleatico."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "E-Bikes werden für die Fahrt zur Villa San Martino empfohlen.",
+              "Vorsicht im Stadtverkehr am Hafen."
+            ],
+            "hu": [
+              "E-bike ajánlott a Villa San Martino felé vezető úthoz.",
+              "Vigyázz a kikötői forgalomban."
+            ],
+            "ro": [
+              "E-bike-urile sunt recomandate pentru drumul spre Villa San Martino.",
+              "Atenție la traficul din zona portului."
+            ],
+            "en": [
+              "E-bikes are recommended for the ride to Villa San Martino.",
+              "Be careful with traffic around the harbor."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen auf Elba erfordert Abenteuerlust. Wir starten an der Darsena und fahren vorsichtig landeinwärts zur Villa San Martino, Napoleons Sommerresidenz.\n\nMittags erkunden wir die Innenräume der Villa, während die Fahrräder unter dem Vordach parken. Das Archäologische Museum bietet später weiteren Schutz und Kultur.\n\nNachmittags radeln wir zum Leuchtturm, wobei die Gischt und der Regen eine raue, authentische Inselatmosphäre schaffen.\n\nDer Tag endet an der Spiaggia delle Ghiaie, wo wir die Fahrräder abstellen und den prasselnden Regen auf den glänzenden Steinen beobachten.",
+            "hu": "Egy esős kerékpártúra Elbán kalandvágyat igényel. A Darsenától indulunk, és óvatosan hajtunk befelé a szárazföldre Villa San Martinóhoz, Napóleon nyári rezidenciájához.\n\nDélben a villa belső tereit fedezzük fel, miközben a kerékpárok az előtető alatt pihennek. A Régészeti Múzeum később további védelmet és kultúrát kínál.\n\nDélután a világítótoronyhoz tekerünk, ahol a tengeri permet és az eső nyers, hamisítatlan szigeti hangulatot áraszt.\n\nA nap a Ghiaie strandon zárul, ahol letesszük a bicikliket, és figyeljük a kopogó esőt a fénylő köveken.",
+            "ro": "O tură cu bicicleta în ploaie pe Elba necesită spirit de aventură. Pornim de la Darsena și pedalăm cu grijă spre interiorul insulei către Villa San Martino, reședința de vară a lui Napoleon.\n\nLa prânz, explorăm interiorul vilei, în timp ce bicicletele sunt parcate sub copertină. Muzeul de Arheologie oferă ulterior protecție suplimentară și cultură.\n\nDupă-amiaza, pedalăm spre far, unde spuma mării și ploaia creează o atmosferă insulară brută și autentică.\n\nZiua se încheie la plaja Ghiaie, unde lăsăm bicicletele și observăm ploaia bătând pe pietrele strălucitoare.",
+            "en": "A bike tour in the rain on Elba requires a spirit of adventure. We start at Darsena and ride carefully inland to Villa San Martino, Napoleon's summer residence.\n\nAt noon, we explore the interior of the villa while the bikes park under the canopy. The Archaeological Museum later offers further shelter and culture.\n\nIn the afternoon, we cycle to the lighthouse, where sea spray and rain create a raw, authentic island atmosphere.\n\nThe day ends at Ghiaie Beach, where we park the bikes and watch the pattering rain on the shiny stones."
+          },
+          "stops": [
+            {
+              "name": "Darsena Medicea",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Bremsen auf den Markierungen.",
+                "hu": "Kerülje a fékezést az útburkolati jeleken.",
+                "ro": "Evitați frânarea pe marcajele rutiere.",
+                "en": "Avoid braking on road markings."
+              }
+            },
+            {
+              "name": "Villa San Martino",
+              "tip_5lang": {
+                "de": "Gute Unterstellmöglichkeiten für Räder vorhanden.",
+                "hu": "Jó kerékpártárolási lehetőség az előtetők alatt.",
+                "ro": "Există locuri bune de adăpostit bicicletele.",
+                "en": "Good sheltered spots for bikes available."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Ideal, um die nassen Sachen kurz zu trocknen.",
+                "hu": "Ideális a vizes ruhák rövid szárításához.",
+                "ro": "Ideal pentru a usca scurt hainele ude.",
+                "en": "Ideal for drying wet gear briefly."
+              }
+            },
+            {
+              "name": "Portoferraio Lighthouse",
+              "tip_5lang": {
+                "de": "Achtung bei starkem Seitenwind an der Küste.",
+                "hu": "Vigyázat az erős oldalszéllel a parton.",
+                "ro": "Atenție la vântul lateral puternic de pe coastă.",
+                "en": "Watch out for strong crosswinds on the coast."
+              }
+            },
+            {
+              "name": "Spiaggia delle Ghiaie",
+              "tip_5lang": {
+                "de": "Sichern Sie das Rad auf festem Untergrund.",
+                "hu": "Rögzítse a kerékpárt szilárd talajon.",
+                "ro": "Asigurați bicicleta pe un teren stabil.",
+                "en": "Secure the bike on firm ground."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung und Schutzbleche sind ein Muss.",
+              "Die Landstraßen können durch Schlamm von den Feldern rutschig sein.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt ins Tal.",
+              "In der Villa San Martino gibt es trockene Besucherbereiche.",
+              "Ein Helmvisier hilft, die Sicht im Regen zu behalten."
+            ],
+            "hu": [
+              "A teljes esőruházat és a sárvédő elengedhetetlen.",
+              "Az országutak a földekről lehordott sár miatt csúszósak lehetnek.",
+              "Völgymenet előtt ellenőrizze a fékeket.",
+              "A Villa San Martinóban vannak száraz látogatói területek.",
+              "A sisakrostély segít tisztán látni az esőben."
+            ],
+            "ro": [
+              "Îmbrăcămintea completă de ploaie și apărătorile sunt obligatorii.",
+              "Drumurile pot fi alunecoase din cauza noroiului de pe câmp.",
+              "Verificați frânele înainte de coborârea în vale.",
+              "În Villa San Martino există zone uscate pentru vizitatori.",
+              "Viziera căștii ajută la menținerea vizibilității în ploaie."
+            ],
+            "en": [
+              "Full rain gear and mudguards are a must.",
+              "Country roads can be slippery due to mud from the fields.",
+              "Check your brakes before descending into the valley.",
+              "Villa San Martino has dry visitor areas.",
+              "A helmet visor helps maintain visibility in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking auf Elba bedeutet leere Straßen und frische Meeresluft. Wir starten an der ruhigen Darsena und genießen die Fahrt durch die hügelige Landschaft zur Villa San Martino.\n\nMittags wärmt uns die Wintersonne bei der Besichtigung der napoleonischen Villa. Das Licht ist perfekt für Fotos der Architektur ohne Schattenwurf der Sommersonne.\n\nNachmittags geht es zum Archäologischen Museum und weiter zum Leuchtturm. Der Wind kann kühl sein, aber das Panorama ist unvergleichlich weit.\n\nDer Tag endet entspannt an der Spiaggia delle Ghiaie. Der Strand gehört Ihnen im Winter fast allein, perfekt für einen ruhigen Abschluss.",
+            "hu": "A téli bringázás Elbán üres utakat és friss tengeri levegőt jelent. A csendes Darsenától indulunk, és élvezzük a gurulást a dombos tájon Villa San Martino felé.\n\nDélben a téli napsütés melegít minket a napóleoni villa megtekintése közben. A fény tökéletes az építészeti fotókhoz a nyári nap erős árnyékai nélkül.\n\nDélután a Régészeti Múzeum és a világítótorony következik. A szél hűvös lehet, de a panoráma páratlanul tágas.\n\nA nap nyugodtan zárul a Ghiaie strandon. Télen a part szinte csak az Öné, tökéletes a csendes befejezéshez.",
+            "ro": "Ciclismul de iarnă pe Elba înseamnă drumuri goale și aer proaspăt de mare. Pornim de la Darsena liniștită și ne bucurăm de drumul prin peisajul deluros spre Villa San Martino.\n\nLa prânz, soarele de iarnă ne încălzește în timpul vizitării vilei napoleoniene. Lumina este perfectă pentru fotografii de arhitectură fără umbrele puternice ale verii.\n\nDupă-amiaza mergem la Muzeul de Arheologie și mai departe spre far. Vântul poate fi răcoros, dar panorama este incomparabil de vastă.\n\nZiua se încheie relaxat la plaja Ghiaie. Iarna, plaja este aproape doar a dumneavoastră, perfectă pentru un final liniștit.",
+            "en": "Winter biking on Elba means empty roads and fresh sea air. We start at the quiet Darsena and enjoy the ride through the hilly landscape to Villa San Martino.\n\nAt noon, the winter sun warms us while visiting the Napoleonic villa. The light is perfect for architectural photos without the harsh shadows of the summer sun.\n\nIn the afternoon, we head to the Archaeological Museum and then to the lighthouse. The wind can be cool, but the panorama is incomparably wide.\n\nThe day ends relaxingly at Ghiaie Beach. In winter, the beach is almost yours alone, perfect for a quiet finish."
+          },
+          "stops": [
+            {
+              "name": "Darsena Medicea",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck für kältere Temperaturen.",
+                "hu": "Ellenőrizze a guminyomást a hidegebb időre való tekintettel.",
+                "ro": "Verificați presiunea în anvelope pentru temperaturi scăzute.",
+                "en": "Check tire pressure for colder temperatures."
+              }
+            },
+            {
+              "name": "Villa San Martino",
+              "tip_5lang": {
+                "de": "Die Auffahrt hält Sie warm.",
+                "hu": "A felfelé menet segít melegen tartani a testet.",
+                "ro": "Urcarea vă va ține de cald.",
+                "en": "The climb will keep you warm."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Ein guter Stopp, um sich aufzuwärmen.",
+                "hu": "Jó megálló egy kis átmelegedéshez.",
+                "ro": "Un popas bun pentru a vă încălzi.",
+                "en": "A good stop to warm up."
+              }
+            },
+            {
+              "name": "Portoferraio Lighthouse",
+              "tip_5lang": {
+                "de": "Windstopper-Handschuhe sind hier unerlässlich.",
+                "hu": "A szélálló kesztyű itt nélkülözhetetlen.",
+                "ro": "Mănușile rezistente la vânt sunt esențiale aici.",
+                "en": "Windstopper gloves are essential here."
+              }
+            },
+            {
+              "name": "Spiaggia delle Ghiaie",
+              "tip_5lang": {
+                "de": "Genießen Sie die Sonne vor 16 Uhr.",
+                "hu": "Élvezze a napsütést délután 4 óra előtt.",
+                "ro": "Bucurați-vă de soare înainte de ora 16.",
+                "en": "Enjoy the sun before 4 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und eine Mütze unter dem Helm sind wichtig.",
+              "Vermeiden Sie späte Fahrten nach Sonnenuntergang (starker Temperaturabfall).",
+              "Die Straßen sind im Winter viel sicherer wegen des geringen Verkehrs.",
+              "Nehmen Sie eine Thermoskanne mit einem warmen Getränk mit.",
+              "Planen Sie die Rückkehr spätestens für 17 Uhr ein."
+            ],
+            "hu": [
+              "A meleg kesztyű és a sisak alatti sapka fontos.",
+              "Kerülje a késői tekerést naplemente után (erős lehűlés).",
+              "Az utak télen sokkal biztonságosabbak a csekély forgalom miatt.",
+              "Vigyen magával termoszt meleg itallal.",
+              "Tervezze a visszatérést legkésőbb délután 5 órára."
+            ],
+            "ro": [
+              "Mănușile groase și o căciulă sub cască sunt importante.",
+              "Evitați plimbările târzii după apus (scădere bruscă a temperaturii).",
+              "Drumurile sunt mult mai sigure iarna datorită traficului redus.",
+              "Luați un termos cu o băutură caldă cu dumneavoastră.",
+              "Planificați întoarcerea cel târziu la ora 17."
+            ],
+            "en": [
+              "Warm gloves and a hat under the helmet are important.",
+              "Avoid late rides after sunset (sharp drop in temperature).",
+              "Roads are much safer in winter due to low traffic.",
+              "Take a thermos with a warm drink with you.",
+              "Plan to be back by 5 PM at the latest."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -738,6 +1522,326 @@
           "Parking spaces are scarce in Portoferraio during summer.",
           "Drive carefully on the winding roads."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie bequem die historischen Highlights von Portoferraio und Umgebung. Besuchen Sie Napoleons Stadtpalast und die Festungen, bevor Sie zur ländlichen Villa San Martino fahren. Die Tour endet entspannt am Ghiaie-Strand, wo Sie die beeindruckenden Klippen und das Meer bewundern können.",
+            "hu": "Autóval kényelmesen elérheti Portoferraio és környéke történelmi nevezetességeit. Látogassa meg Napóleon városi palotáját és az erődöket, mielőtt a vidéki Villa San Martinóhoz hajtana. A túra a Ghiaie strandon zárul, ahol megcsodálhatja a lenyűgöző sziklákat és a tengert.",
+            "ro": "Cu mașina puteți ajunge confortabil la atracțiile istorice din Portoferraio și împrejurimi. Vizitați palatul urban al lui Napoleon și fortărețele înainte de a merge la Villa San Martino. Turul se încheie relaxat pe plaja Ghiaie, unde puteți admira stâncile impunătoare și marea.",
+            "en": "By car, you can easily reach the historical highlights of Portoferraio and its surroundings. Visit Napoleon's town palace and the fortresses before driving to the rural Villa San Martino. The tour ends relaxedly at Ghiaie beach, where you can admire the impressive cliffs and the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzina dei Mulini",
+                "hu": "Palazzina dei Mulini",
+                "ro": "Palazzina dei Mulini",
+                "en": "Palazzina dei Mulini"
+              },
+              "tip_5lang": {
+                "de": "Parken nahe der Festung.",
+                "hu": "Parkolás az erőd közelében.",
+                "ro": "Parcare lângă cetate.",
+                "en": "Parking near the fortress."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Stella",
+                "hu": "Forte Stella",
+                "ro": "Forte Stella",
+                "en": "Forte Stella"
+              },
+              "tip_5lang": {
+                "de": "Bester Fotospot.",
+                "hu": "Legjobb fotóhelyszín.",
+                "ro": "Cel mai bun loc de poze.",
+                "en": "Best photo spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa San Martino",
+                "hu": "Villa San Martino",
+                "ro": "Villa San Martino",
+                "en": "Villa San Martino"
+              },
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden.",
+                "hu": "Nagy parkoló áll rendelkezésre.",
+                "ro": "Parcare mare disponibilă.",
+                "en": "Large parking lot available."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia delle Ghiaie",
+                "hu": "Spiaggia delle Ghiaie",
+                "ro": "Spiaggia delle Ghiaie",
+                "en": "Spiaggia delle Ghiaie"
+              },
+              "tip_5lang": {
+                "de": "Blaues Wasser genießen.",
+                "hu": "Élvezd a kék vizet.",
+                "ro": "Bucurați-vă de apa albastră.",
+                "en": "Enjoy the blue water."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Elba-Honig",
+                "tip": "Besuchen Sie einen lokalen Produzenten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Elbai méz",
+                "tip": "Látogass el egy helyi termelőhöz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere de Elba",
+                "tip": "Vizitați un producător local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Elba Honey",
+                "tip": "Visit a local producer."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Enfola-Klippen",
+                "tip": "Kurze Fahrt zu den Klippen.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Enfola-sziklák",
+                "tip": "Rövid autóút a sziklákhoz.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Stâncile Enfola",
+                "tip": "Scurt drum cu mașina.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Enfola Cliffs",
+                "tip": "Short drive to the cliffs.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Handgefertigte Keramik",
+                "tip": "Läden in der Altstadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kézműves kerámia",
+                "tip": "Üzletek az óvárosban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ceramică artizanală",
+                "tip": "Magazine în centrul vechi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Handmade Ceramics",
+                "tip": "Shops in the old town."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parkplätze in Portoferraio sind im Sommer knapp.",
+              "Fahren Sie vorsichtig auf den kurvigen Straßen."
+            ],
+            "hu": [
+              "Nyáron kevés a parkolóhely Portoferraióban.",
+              "Vezess óvatosan a kanyargós utakon."
+            ],
+            "ro": [
+              "Locurile de parcare sunt puține vara în Portoferraio.",
+              "Conduceți cu atenție pe drumurile cu serpentine."
+            ],
+            "en": [
+              "Parking spaces are scarce in Portoferraio during summer.",
+              "Drive carefully on the winding roads."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Portoferraio auch bei Regen entspannt. Wir starten an der Palazzina dei Mulini und bewundern Napoleons Erbe im Trockenen.\n\nMittags fahren wir zum Forte Stella. Das Auto bietet uns den perfekten Rückzugsort zwischen den Besichtigungen der historischen Festungspunkte.\n\nNachmittags geht es landeinwärts zur Villa San Martino. Die Fahrt durch die verregneten Weinberge ist sehr malerisch.\n\nDer Tag endet an der Spiaggia delle Ghiaie, wo wir direkt am Strand parken und das Schauspiel der Wellen im Regen aus dem warmen Auto beobachten können.",
+            "hu": "Autóval esőben is kényelmesen felfedezhetjük Portoferraiót. A Palazzina dei Mulininál kezdünk, ahol szárazon csodálhatjuk meg Napóleon örökségét.\n\nDélben a Forte Stellához hajtunk. Az autó tökéletes menedéket nyújt a történelmi erődítmények megtekintése közötti szünetekben.\n\nDélután a szárazföld belseje felé vesszük az irányt, Villa San Martino felé. Az út az eső áztatta szőlőültetvények között nagyon festői.\n\nA nap a Ghiaie strandon zárul, ahol közvetlenül a partnál parkolhatunk, és a meleg autóból figyelhetjük a hullámok játékát az esőben.",
+            "ro": "Cu mașina, explorăm Portoferraio relaxați chiar și în ploaie. Începem la Palazzina dei Mulini și admirăm moștenirea lui Napoleon la adăpost.\n\nLa prânz, conducem spre Forte Stella. Mașina ne oferă refugiul perfect între vizitele la punctele istorice ale fortăreței.\n\nDupă-amiaza mergem spre interiorul insulei către Villa San Martino. Drumul prin podgoriile plouate este foarte pitoresc.\n\nZiua se încheie la plaja Ghiaie, unde putem parca direct lângă plajă și putem observa spectacolul valurilor în ploaie din mașina caldă.",
+            "en": "By car, we explore Portoferraio relaxed even in the rain. We start at Palazzina dei Mulini and admire Napoleon's legacy in the dry.\n\nAt noon, we drive to Forte Stella. The car provides the perfect retreat between visits to the historical fortress points.\n\nIn the afternoon, we head inland to Villa San Martino. The drive through the rainy vineyards is very picturesque.\n\nThe day ends at Ghiaie Beach, where we can park right by the beach and watch the waves in the rain from the warm car."
+          },
+          "stops": [
+            {
+              "name": "Palazzina dei Mulini",
+              "tip_5lang": {
+                "de": "Parkplätze sind oberhalb der Residenz oft frei.",
+                "hu": "A rezidencia feletti parkolókban gyakran van szabad hely.",
+                "ro": "Locurile de parcare deasupra reședinței sunt adesea libere.",
+                "en": "Parking spaces above the residence are often available."
+              }
+            },
+            {
+              "name": "Forte Stella",
+              "tip_5lang": {
+                "de": "Vorsicht bei der engen Auffahrt auf nassem Asphalt.",
+                "hu": "Vigyázzon a szűk felhajtón a vizes aszfalton.",
+                "ro": "Atenție la urcarea îngustă pe asfalt ud.",
+                "en": "Be careful on the narrow climb on wet asphalt."
+              }
+            },
+            {
+              "name": "Villa San Martino",
+              "tip_5lang": {
+                "de": "Großer, befestigter Parkplatz direkt vor dem Eingang.",
+                "hu": "Nagy, szilárd burkolatú parkoló közvetlenül a bejáratnál.",
+                "ro": "Parcare mare, pavată, chiar în fața intrării.",
+                "en": "Large, paved parking lot right in front of the entrance."
+              }
+            },
+            {
+              "name": "Spiaggia delle Ghiaie",
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das stürmische Meer.",
+                "hu": "Parkoljon kilátással a viharos tengerre.",
+                "ro": "Parcați cu vedere spre marea învolburată.",
+                "en": "Park with a view of the stormy sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig auf den kurvigen Bergstraßen bei Nässe.",
+              "Die Parkplatzsuche ist bei Regen deutlich entspannter.",
+              "Nutzen Sie das Auto als Basis für Kleidungwechsel.",
+              "Achten Sie auf mögliche Steinschläge an den Küstenstraßen.",
+              "Die Heizung im Auto sorgt für angenehme Trockenheit."
+            ],
+            "hu": [
+              "Vezessen óvatosan a kanyargós hegyi utakon vizes időben.",
+              "Esőben a parkolóhely-keresés jóval nyugodtabb.",
+              "Használja az autót bázisként az átöltözéshez.",
+              "Ügyeljen az esetleges kőomlásokra a parti utakon.",
+              "Az autó fűtése gondoskodik a kellemes szárazságról."
+            ],
+            "ro": [
+              "Conduceți cu atenție pe drumurile montane virajate când este ud.",
+              "Căutarea unui loc de parcare este mult mai relaxată în ploaie.",
+              "Folosiți mașina ca bază pentru schimbarea hainelor.",
+              "Atenție la posibilele căderi de pietre pe drumurile de coastă.",
+              "Încălzirea din mașină asigură o uscăciune plăcută."
+            ],
+            "en": [
+              "Drive carefully on the winding mountain roads when wet.",
+              "Searching for parking is much more relaxed in the rain.",
+              "Use the car as a base for changing clothes.",
+              "Watch out for possible rockfalls on the coastal roads.",
+              "The car's heater ensures pleasant dryness."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto die Freiheit, Portoferraios Highlights flexibel zu besuchen. Wir beginnen bei der Palazzina dei Mulini, wo Parkplätze nun leicht zu finden sind.\n\nMittags geht es zum Forte Stella. Die kühle Luft draußen macht den Aufenthalt im warmen Auto zwischen den Fotostopps sehr angenehm.\n\nNachmittags besuchen wir die Villa San Martino im Inselinneren. Die Landschaft ist in sanfte Winterfarben getaucht und die Straßen sind fast leer.\n\nZum Sonnenuntergang fahren wir zur Spiaggia delle Ghiaie. Genießen Sie die winterliche Meeresbrise und den friedlichen Ausklang des Tages.",
+            "hu": "Télen az autó szabadságot ad, hogy rugalmasan látogassuk meg Portoferraio legfontosabb látnivalóit. A Palazzina dei Mulininél kezdünk, ahol most könnyű parkolót találni.\n\nDélben a Forte Stellához megyünk. A kinti hűvös levegő miatt a fotómegállók között nagyon kellemes a meleg autóban ülni.\n\nDélután meglátogatjuk a sziget belsejében található Villa San Martinót. A táj lágy téli színekben pompázik, és az utak szinte üresek.\n\nNaplementére a Ghiaie strandhoz hajtunk. Élvezze a téli tengeri szellőt és a nap békés lezárását.",
+            "ro": "Iarna, mașina oferă libertatea de a vizita punctele de atracție din Portoferraio în mod flexibil. Începem la Palazzina dei Mulini, unde locurile de parcare sunt acum ușor de găsit.\n\nLa prânz mergem spre Forte Stella. Aerul răcoros de afară face ca șederea în mașina caldă între opririle pentru poze să fie foarte plăcută.\n\nDupă-amiaza vizităm Villa San Martino din interiorul insulei. Peisajul este scăldat în culori blânde de iarnă, iar drumurile sunt aproape goale.\n\nPentru apus, conducem spre plaja Ghiaie. Bucurați-vă de briza marină de iarnă și de finalul liniștit al zilei.",
+            "en": "In winter, the car offers the freedom to visit Portoferraio's highlights flexibly. We start at Palazzina dei Mulini, where parking is now easy to find.\n\nAt noon, we head to Forte Stella. The cool air outside makes staying in the warm car between photo stops very pleasant.\n\nIn the afternoon, we visit Villa San Martino in the island's interior. The landscape is bathed in soft winter colors and the roads are almost empty.\n\nFor sunset, we drive to Ghiaie Beach. Enjoy the wintry sea breeze and the peaceful end of the day."
+          },
+          "stops": [
+            {
+              "name": "Palazzina dei Mulini",
+              "tip_5lang": {
+                "de": "Parkplatz-Garantie direkt vor der Tür im Winter.",
+                "hu": "Télen garantált parkolóhely közvetlenül a bejárat előtt.",
+                "ro": "Garanția locului de parcare chiar în fața ușii iarna.",
+                "en": "Parking guarantee right in front of the door in winter."
+              }
+            },
+            {
+              "name": "Forte Stella",
+              "tip_5lang": {
+                "de": "Kein Stress mit Gegenverkehr bei der Auffahrt.",
+                "hu": "Nincs stressz a szembejövő forgalom miatt a felhajtónál.",
+                "ro": "Fără stres cu traficul din sens opus la urcare.",
+                "en": "No stress with oncoming traffic during the climb."
+              }
+            },
+            {
+              "name": "Villa San Martino",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch das stille Hinterland.",
+                "hu": "Élvezze az autózást a csendes hátországban.",
+                "ro": "Bucurați-vă de drumul prin interiorul liniștit al insulei.",
+                "en": "Enjoy the drive through the quiet hinterland."
+              }
+            },
+            {
+              "name": "Spiaggia delle Ghiaie",
+              "tip_5lang": {
+                "de": "Ideal für ein Picknick im Auto bei Sonnenuntergang.",
+                "hu": "Ideális egy autós piknikhez naplementekor.",
+                "ro": "Ideal pentru un picnic în mașină la apus.",
+                "en": "Ideal for a picnic in the car at sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen sind im Winter frei von Touristenzügen und Bussen.",
+              "Achten Sie auf Wildwechsel in der Dämmerung.",
+              "Eiskratzen kann morgens in den Hügeln nötig sein.",
+              "Die Parkgebühren sind in der Nebensaison oft reduziert.",
+              "Tanken Sie rechtzeitig, einige kleine Tankstellen haben Mittagspause."
+            ],
+            "hu": [
+              "Az utak télen mentesek a turistabuszoktól és vonatoktól.",
+              "Ügyeljen a vadakra a szürkületben.",
+              "Reggelente a dombok között szükség lehet jégkaparásra.",
+              "A parkolási díjak főszezonon kívül gyakran alacsonyabbak.",
+              "Tankoljon időben, néhány kis kút ebédszünetet tart."
+            ],
+            "ro": [
+              "Drumurile sunt libere de autobuze și trenulețe turistice iarna.",
+              "Atenție la animalele sălbatice în amurg.",
+              "Deszăpezirea parbrizului poate fi necesară dimineața în dealuri.",
+              "Taxele de parcare sunt adesea reduse în extrasezon.",
+              "Alimentați la timp, unele benzinării mici au pauză de prânz."
+            ],
+            "en": [
+              "Roads are free of tourist trains and buses in winter.",
+              "Watch out for wildlife in the twilight.",
+              "Ice scraping might be necessary in the hills in the morning.",
+              "Parking fees are often reduced in the low season.",
+              "Refuel in time, some small stations have lunch breaks."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -946,6 +2050,326 @@
           "Buy bus tickets in advance at a 'Tabacchi'.",
           "Check the schedule for line 1 carefully."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den lokalen Bus-Service, um zwischen dem Hafen und Napoleons Landsitz San Martino zu pendeln. Die historischen Festungen und der Stadtpalast sind vom Hafenterminal aus leicht zu Fuß erreichbar. Ein entspannter Tag ohne Parkplatzsorgen, der am Stadtstrand Ghiaie seinen Ausklang findet.",
+            "hu": "Használja a helyi buszjáratokat a kikötő és Napóleon vidéki birtoka, San Martino közötti közlekedéshez. A történelmi erődök és a városi palota könnyen elérhetők gyalog a kikötői termináltól. Pihentető nap parkolási gondok nélkül, amely a városi Ghiaie strandon ér véget.",
+            "ro": "Folosiți serviciul local de autobuz pentru a naviga între port și domeniul rural al lui Napoleon, San Martino. Fortărețele istorice și palatul urban sunt ușor accesibile pe jos de la terminalul portuar. O zi relaxantă fără grija parcării, care se încheie pe plaja orașului, Ghiaie.",
+            "en": "Use the local bus service to shuttle between the harbor and Napoleon's country estate, San Martino. The historic fortresses and the town palace are easily walkable from the ferry terminal. A relaxed day without parking worries, ending at the city beach, Ghiaie."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Darsena Medicea",
+                "hu": "Darsena Medicea",
+                "ro": "Darsena Medicea",
+                "en": "Darsena Medicea"
+              },
+              "tip_5lang": {
+                "de": "Busbahnhof in der Nähe.",
+                "hu": "Buszpályaudvar a közelben.",
+                "ro": "Autogara este aproape.",
+                "en": "Bus station nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzina dei Mulini",
+                "hu": "Palazzina dei Mulini",
+                "ro": "Palazzina dei Mulini",
+                "en": "Palazzina dei Mulini"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Bus.",
+                "hu": "Rövid séta a busztól.",
+                "ro": "Scurtă plimbare de la bus.",
+                "en": "Short walk from bus."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa San Martino",
+                "hu": "Villa San Martino",
+                "ro": "Villa San Martino",
+                "en": "Villa San Martino"
+              },
+              "tip_5lang": {
+                "de": "Linie 1 hält direkt vor dem Park.",
+                "hu": "Az 1-es busz a parknál áll meg.",
+                "ro": "Linia 1 oprește la parc.",
+                "en": "Line 1 stops at the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia delle Ghiaie",
+                "hu": "Spiaggia delle Ghiaie",
+                "ro": "Spiaggia delle Ghiaie",
+                "en": "Spiaggia delle Ghiaie"
+              },
+              "tip_5lang": {
+                "de": "Vom Hafen aus zu Fuß erreichbar.",
+                "hu": "Gyalog elérhető a kikötőtől.",
+                "ro": "Accesibil pe jos din port.",
+                "en": "Walkable from the port."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Palamita",
+                "tip": "Eingelegter Fisch, lokale Delikatesse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Palamita",
+                "tip": "Pácolt hal, helyi ínyencség."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Palamita",
+                "tip": "Pește marinat, delicatesă locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Palamita",
+                "tip": "Marinated fish, a local delicacy."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hafenpromenade",
+                "tip": "Beobachten Sie die Fähren.",
+                "emoji": "🚢"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötői sétány",
+                "tip": "Figyeld a kompokat.",
+                "emoji": "🚢"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Promenada portului",
+                "tip": "Priviți feriboturile.",
+                "emoji": "🚢"
+              }
+            ],
+            "en": [
+              {
+                "name": "Harbor Promenade",
+                "tip": "Watch the ferries come in.",
+                "emoji": "🚢"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Wochenmarkt",
+                "tip": "Freitagmorgen am Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Heti piac",
+                "tip": "Péntek reggel a kikötőben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața săptămânală",
+                "tip": "Vineri dimineața în port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Weekly Market",
+                "tip": "Friday morning at the port."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Bustickets vorab im Tabakladen.",
+              "Achten Sie auf die Fahrpläne der Linie 1."
+            ],
+            "hu": [
+              "Vegyél buszjegyet előre a dohányboltban.",
+              "Figyeld az 1-es busz menetrendjét."
+            ],
+            "ro": [
+              "Cumpărați bilete de autobuz de la tutungerie.",
+              "Atenție la orarul liniei 1."
+            ],
+            "en": [
+              "Buy bus tickets in advance at a 'Tabacchi'.",
+              "Check the schedule for line 1 carefully."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der lokale Bus ist bei Regen die beste Wahl, um trocken zwischen den Highlights zu pendeln. Wir starten an der Darsena und nehmen den Bus Richtung Altstadt.\n\nMittags erreichen wir die Palazzina dei Mulini. Der Weg von der Haltestelle ist kurz, sodass Sie kaum nass werden.\n\nNachmittags bringt uns der Bus zur Villa San Martino im Grünen. Während es draußen regnet, genießen wir die Fahrt durch das Panoramafenster.\n\nDer Tag endet an der Spiaggia delle Ghiaie. Die Haltestelle liegt direkt am Strandpark, ideal für einen kurzen Weg ins nächste Café.",
+            "hu": "Esőben a helyi busz a legjobb választás, hogy szárazon ingázzunk a látnivalók között. A Darsenától indulunk, és az óváros felé vesszük az irányt.\n\nDélben elérjük a Palazzina dei Mulinit. A megállótól vezető út rövid, így alig leszünk vizesek.\n\nDélután a busz kivisz minket a zöldben fekvő Villa San Martinóhoz. Miközben kint esik, mi a panorámaablakon keresztül élvezzük az utat.\n\nA nap a Ghiaie strandon zárul. A megálló közvetlenül a strandparknál van, ideális egy rövid sétához a legközelebbi kávézóig.",
+            "ro": "Autobuzul local este cea mai bună alegere în ploaie pentru a naviga între atracții fără a ne uda. Pornim de la Darsena și luăm autobuzul spre orașul vechi.\n\nLa prânz ajungem la Palazzina dei Mulini. Drumul de la stație este scurt, astfel încât abia vă veți uda.\n\nDupă-amiaza, autobuzul ne duce la Villa San Martino, în mijlocul naturii. În timp ce afară plouă, noi ne bucurăm de drum prin geamul panoramic.\n\nZiua se încheie la plaja Ghiaie. Stația este chiar lângă parcul plajei, ideală pentru un drum scurt până la cea mai apropiată cafenea.",
+            "en": "The local bus is the best choice in the rain to commute dryly between the highlights. We start at Darsena and take the bus towards the old town.\n\nAt noon, we reach Palazzina dei Mulini. The walk from the stop is short, so you'll hardly get wet.\n\nIn the afternoon, the bus takes us to Villa San Martino in the countryside. While it rains outside, we enjoy the ride through the panoramic window.\n\nThe day ends at Ghiaie Beach. The stop is right by the beach park, ideal for a short walk to the nearest cafe."
+          },
+          "stops": [
+            {
+              "name": "Darsena Medicea",
+              "tip_5lang": {
+                "de": "Überdachte Bushaltestelle vorhanden.",
+                "hu": "Fedett buszmegálló áll rendelkezésre.",
+                "ro": "Există o stație de autobuz acoperită.",
+                "en": "Covered bus stop available."
+              }
+            },
+            {
+              "name": "Palazzina dei Mulini",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle 'Portoferraio Alto'.",
+                "hu": "Rövid séta a 'Portoferraio Alto' megállótól.",
+                "ro": "Drum scurt pe jos de la stația 'Portoferraio Alto'.",
+                "en": "Short walk from the 'Portoferraio Alto' stop."
+              }
+            },
+            {
+              "name": "Villa San Martino",
+              "tip_5lang": {
+                "de": "Bus Linie 1 oder 2 nutzen, sie halten direkt davor.",
+                "hu": "Használja az 1-es vagy 2-es buszt, közvetlenül előtte állnak meg.",
+                "ro": "Folosiți linia de autobuz 1 sau 2, opresc chiar în față.",
+                "en": "Use bus line 1 or 2, they stop right in front."
+              }
+            },
+            {
+              "name": "Spiaggia delle Ghiaie",
+              "tip_5lang": {
+                "de": "Die Wartehalle bietet Schutz bei der Rückfahrt.",
+                "hu": "A váróterem védelmet nyújt a visszaútnál.",
+                "ro": "Sala de așteptare oferă protecție la întoarcere.",
+                "en": "The waiting area offers shelter for the return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab im Tabacchi (günstiger).",
+              "Die Busse sind bei Regen oft voll, planen Sie Zeit ein.",
+              "Die App 'Autolinee Toscane' zeigt Echtzeit-Infos.",
+              "Halten Sie einen kleinen Schirm für die Wege zur Haltestelle bereit.",
+              "In Portoferraio gibt es einen zentralen Busbahnhof am Hafen."
+            ],
+            "hu": [
+              "Vásároljon jegyet előre a Tabacchi-ban (olcsóbb).",
+              "Esőben a buszok gyakran tömve vannak, számoljon több idővel.",
+              "Az 'Autolinee Toscane' alkalmazás valós idejű infókat mutat.",
+              "Készítsen be egy kis esernyőt a megállóig tartó sétához.",
+              "Portoferraióban van egy központi buszpályaudvar a kikötőben."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans de la Tabacchi (este mai ieftin).",
+              "Autobuzele sunt adesea pline când plouă, planificați timp suplimentar.",
+              "Aplicația 'Autolinee Toscane' arată informații în timp real.",
+              "Aveți pregătită o umbrelă mică pentru drumul spre stație.",
+              "În Portoferraio există o autogară centrală în port."
+            ],
+            "en": [
+              "Buy tickets in advance at a Tabacchi (cheaper).",
+              "Buses are often crowded in the rain, allow extra time.",
+              "The 'Autolinee Toscane' app shows real-time info.",
+              "Have a small umbrella ready for the walk to the stop.",
+              "Portoferraio has a central bus station at the harbor."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Transit im Winter ist auf Elba sehr authentisch. Wir starten an der Darsena und nutzen das reduzierte, aber pünktliche Busnetz der Nebensaison.\n\nMittags besuchen wir die Palazzina dei Mulini. Der Bus erspart uns den steilen Aufstieg bei kühlem Winterwind.\n\nNachmittags bringt uns der Bus zur Villa San Martino. Es ist eine entspannte Art, das Inselinnere zu sehen, ohne selbst fahren zu müssen.\n\nDer Tag endet an der Spiaggia delle Ghiaie. Da es früh dunkel wird, ist die Rückfahrt mit dem beleuchteten Bus in die Stadt besonders gemütlich.",
+            "hu": "A tömegközlekedés télen nagyon autentikus Elbán. A Darsenától indulunk, és kihasználjuk a holtszezon ritkább, de pontos buszhálózatát.\n\nDélben meglátogatjuk a Palazzina dei Mulinit. A busz megkímél minket a meredek emelkedőtől a hűvös téli szélben.\n\nDélután a busz kivisz minket Villa San Martino felé. Ez egy relaxált módja a sziget belsejének felfedezésének, anélkül, hogy nekünk kellene vezetni.\n\nA nap a Ghiaie strandon zárul. Mivel korán sötétedik, a kivilágított busszal való visszatérés a városba különösen hangulatos.",
+            "ro": "Transportul public iarna pe Elba este foarte autentic. Pornim de la Darsena și profităm de rețeaua de autobuze redusă, dar punctuală, din extrasezon.\n\nLa prânz vizităm Palazzina dei Mulini. Autobuzul ne scutește de urcarea abruptă în vântul rece de iarnă.\n\nDupă-amiaza, autobuzul ne duce la Villa San Martino. Este un mod relaxat de a vedea interiorul insulei fără a fi nevoie să conduceți.\n\nZiua se încheie la plaja Ghiaie. Deoarece se întunecă devreme, întoarcerea cu autobuzul iluminat în oraș este deosebit de plăcută.",
+            "en": "Transit in winter is very authentic on Elba. We start at Darsena and take advantage of the reduced but punctual bus network of the low season.\n\nAt noon, we visit Palazzina dei Mulini. The bus saves us the steep climb in the cool winter wind.\n\nIn the afternoon, the bus takes us to Villa San Martino. It's a relaxed way to see the island's interior without having to drive yourself.\n\nThe day ends at Ghiaie Beach. Since it gets dark early, the return journey to the city in the illuminated bus is especially cozy."
+          },
+          "stops": [
+            {
+              "name": "Darsena Medicea",
+              "tip_5lang": {
+                "de": "Winterfahrplan beachten (etwas seltener).",
+                "hu": "Ügyeljen a téli menetrendre (ritkább járatok).",
+                "ro": "Respectați orarul de iarnă (ceva mai rar).",
+                "en": "Observe the winter timetable (somewhat less frequent)."
+              }
+            },
+            {
+              "name": "Palazzina dei Mulini",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist ein guter Windschutz.",
+                "hu": "A megálló jó szélfogóként szolgál.",
+                "ro": "Stația este un bun paravan împotriva vântului.",
+                "en": "The stop is a good windbreak."
+              }
+            },
+            {
+              "name": "Villa San Martino",
+              "tip_5lang": {
+                "de": "Letzte Rückfahrt am Nachmittag nicht verpassen.",
+                "hu": "Ne késse le az utolsó délutáni visszajáratot.",
+                "ro": "Nu ratați ultima cursă de întoarcere de după-amiază.",
+                "en": "Don't miss the last return trip in the afternoon."
+              }
+            },
+            {
+              "name": "Spiaggia delle Ghiaie",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt in der Dämmerung.",
+                "hu": "Élvezze a buszozást a szürkületben.",
+                "ro": "Bucurați-vă de drum în amurg.",
+                "en": "Enjoy the ride in the twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne sind oft an den Haltestellen ausgehängt.",
+              "Die Busse sind im Winter gut beheizt.",
+              "Verbinden Sie die Fahrt mit einem Besuch im Supermarkt am Hafen.",
+              "Sonntags fahren deutlich weniger Busse.",
+              "Die zentrale Haltestelle am Calata Italia ist der beste Knotenpunkt."
+            ],
+            "hu": [
+              "A téli menetrendek gyakran ki vannak függesztve a megállókban.",
+              "A buszok télen jól fűtöttek.",
+              "Kösse össze az utazást egy látogatással a kikötői szupermarketben.",
+              "Vasárnaponként jóval kevesebb busz közlekedik.",
+              "A Calata Italia központi megállója a legjobb csomópont."
+            ],
+            "ro": [
+              "Orarele de iarnă sunt adesea afișate în stații.",
+              "Autobuzele sunt bine încălzite iarna.",
+              "Combinați drumul cu o vizită la supermarketul din port.",
+              "Duminica circulă semnificativ mai puține autobuze.",
+              "Stația centrală de pe Calata Italia este cel mai bun nod de transport."
+            ],
+            "en": [
+              "Winter timetables are often posted at the stops.",
+              "Buses are well-heated in winter.",
+              "Combine the trip with a visit to the supermarket at the harbor.",
+              "Significantly fewer buses run on Sundays.",
+              "The central stop at Calata Italia is the best transport hub."
+            ]
+          }
+        }
       }
     }
   }

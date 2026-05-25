@@ -383,6 +383,479 @@
           "Always carry enough water during the hot summer months.",
           "Visit the churches in the morning to enjoy cooler temperatures."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am historischen Kačić-Platz mit seinem Markt und der St.-Markus-Kathedrale. Schlendern Sie entlang der Riva-Promenade zur Halbinsel St. Peter mit ihrem malerischen Leuchtturm. Genießen Sie den Panoramablick auf die Adria und das Biokovo-Gebirge vom Kap aus. Lassen Sie den Tag bei frischen Meeresfrüchten und einem goldenen dalmatinischen Sonnenuntergang ausklingen.",
+            "hu": "Kezdje a napot a nyüzsgő Kačić téren, a Szent Márk-székesegyház árnyékában. Sétáljon végig a pálmafás Riva mentén a Szent Péter-félsziget és a romantikus világítótorony felé. Csodálja meg az Adria és a Biokovo-hegység találkozását a tengerparti sétányról. Zárja az estét helyi halételekkel és egy felejthetetlen dalmát naplementével.",
+            "ro": "Începeți dimineața în vibranta Piață Kačić, lângă Catedrala Sfântul Marcu. Plimbați-vă pe faleza Riva spre peninsula Sfântul Petru și farul său pitoresc. Admirați priveliștea panoramică asupra Adriaticii și a munților Biokovo de pe promontoriu. Încheiați ziua cu delicatese marine locale și un apus auriu dalmat.",
+            "en": "Start at the historic Kačić Square with its vibrant market and St. Mark’s Cathedral. Stroll along the bustling Riva promenade toward the serene St. Peter peninsula and its iconic lighthouse. Enjoy the panoramic views of the Adriatic and the Biokovo mountains from the headland. End the day with local seafood and the golden glow of a Dalmatian sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kačić-Platz",
+                "hu": "Kačić tér",
+                "ro": "Piața Kačić",
+                "en": "Kačić Square"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Kirche des Heiligen Markus",
+                "hu": "Szent Márk-templom",
+                "ro": "Biserica Sfântul Marcu",
+                "en": "St. Mark's Church"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Malakologisches Museum",
+                "hu": "Malakológiai Múzeum",
+                "ro": "Muzeul Malacologic",
+                "en": "Malacological Museum"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Riva Makarska",
+                "hu": "Makarskai Riva",
+                "ro": "Faleza Riva",
+                "en": "Makarska Riva"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Statue des Heiligen Petrus",
+                "hu": "Szent Péter-szobor",
+                "ro": "Statuia Sfântului Petru",
+                "en": "Statue of St. Peter"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Leuchtturm St. Peter",
+                "hu": "Szent Péter-világítótorony",
+                "ro": "Farul Sfântul Petru",
+                "en": "St. Peter Lighthouse"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Napoleon-Denkmal",
+                "hu": "Napóleon-emlékmű",
+                "ro": "Monumentul lui Napoleon",
+                "en": "Napoleon Monument"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Kalalarga",
+                "tip": "Probieren Sie die traditionelle Pasticada."
+              },
+              {
+                "name": "Torta Makarana",
+                "tip": "Der berühmte Mandelkuchen der Stadt."
+              },
+              {
+                "name": "Gegrillter Fisch",
+                "tip": "Frisch von den morgendlichen Fischerbooten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba Kalalarga",
+                "tip": "Kóstolja meg a hagyományos Pašticadát."
+              },
+              {
+                "name": "Torta Makarana",
+                "tip": "A város híres mandulás süteménye."
+              },
+              {
+                "name": "Grillezett hal",
+                "tip": "Frissen a reggeli halászhajókról."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Kalalarga",
+                "tip": "Încercați tradiționala Pašticada."
+              },
+              {
+                "name": "Torta Makarana",
+                "tip": "Celebrul tort cu migdale al orașului."
+              },
+              {
+                "name": "Pește la grătar",
+                "tip": "Proaspăt de pe bărcile de pescuit."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Kalalarga",
+                "tip": "Try the traditional Dalmatian Pasticada."
+              },
+              {
+                "name": "Torta Makarana",
+                "tip": "The city's famous almond cake."
+              },
+              {
+                "name": "Grilled Fish",
+                "tip": "Fresh from the morning fishing boats."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Waldpark St. Peter",
+                "tip": "Schattige Wege am Meer.",
+                "emoji": "🌲"
+              },
+              {
+                "name": "Vepric-Grotte",
+                "tip": "Ein Ort der spirituellen Ruhe.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Nugal Strand",
+                "tip": "Verstecktes Paradies im Süden.",
+                "emoji": "🏖️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szent Péter parkerdő",
+                "tip": "Árnyas ösvények a tengerparton.",
+                "emoji": "🌲"
+              },
+              {
+                "name": "Vepric barlang",
+                "tip": "A lelki béke és csend helyszíne.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Nugal strand",
+                "tip": "Rejtett paradicsom délre.",
+                "emoji": "🏖️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul Sfântul Petru",
+                "tip": "Poteci umbrite lângă mare.",
+                "emoji": "🌲"
+              },
+              {
+                "name": "Grota Vepric",
+                "tip": "Un loc de liniște spirituală.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Plaja Nugal",
+                "tip": "Paradis ascuns la sud.",
+                "emoji": "🏖️"
+              }
+            ],
+            "en": [
+              {
+                "name": "St. Peter Forest Park",
+                "tip": "Shady paths by the sea.",
+                "emoji": "🌲"
+              },
+              {
+                "name": "Vepric Grotto",
+                "tip": "A place of spiritual peace.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Nugal Beach",
+                "tip": "Hidden paradise to the south.",
+                "emoji": "🏖️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Marktplatz",
+                "tip": "Frisches Olivenöl und Honig."
+              },
+              {
+                "name": "Kalalarga Straße",
+                "tip": "Handgefertigter Schmuck und Kunst."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Piac",
+                "tip": "Friss olívaolaj és helyi méz."
+              },
+              {
+                "name": "Kalalarga utca",
+                "tip": "Kézműves ékszerek és művészet."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața locală",
+                "tip": "Ulei de măsline și miere locală."
+              },
+              {
+                "name": "Strada Kalalarga",
+                "tip": "Bijuterii artizanale și artă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Market",
+                "tip": "Fresh olive oil and local honey."
+              },
+              {
+                "name": "Kalalarga Street",
+                "tip": "Handmade jewelry and art."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Erkunden Sie die engen Steingassen der Altstadt im Schatten.",
+              "Bequeme Wanderschuhe sind auf dem Kopfsteinpflaster unerlässlich.",
+              "Die Halbinsel St. Peter bietet die besten Fotomotive des Hafens.",
+              "Tragen Sie im Sommer immer Wasser bei sich.",
+              "Besuchen Sie die Kirchen am Vormittag für kühlere Temperaturen."
+            ],
+            "hu": [
+              "Fedezze fel az óváros hűvös, szűk kőutcáit.",
+              "A kényelmes sétacipő elengedhetetlen a macskaköveken.",
+              "A Szent Péter-félsziget kínálja a legjobb fotótémákat a kikötőről.",
+              "Nyáron mindig vigyen magával elegendő ivóvizet.",
+              "Látogassa meg a templomokat délelőtt a hőség elkerülése végett."
+            ],
+            "ro": [
+              "Explorați străduțele înguste de piatră ale orașului vechi la umbră.",
+              "Încălțămintea confortabilă este esențială pe piatra cubică.",
+              "Peninsula Sfântul Petru oferă cele mai bune unghiuri pentru poze.",
+              "Purtați întotdeauna apă la voi în timpul verii.",
+              "Vizitați bisericile dimineața pentru a evita căldura amiezii."
+            ],
+            "en": [
+              "Explore the narrow stone alleys of the old town in the shade.",
+              "Comfortable walking shoes are essential for the cobblestones.",
+              "St. Peter peninsula offers the best photo spots of the harbor.",
+              "Always carry enough water during the hot summer months.",
+              "Visit the churches in the morning to enjoy cooler temperatures."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Kačić-Platz unter dem Schutz der Arkaden. Ein kurzer Sprint führt zur Markuskirche, wo die Stille den prasselnden Regen draußen vergessen lässt.\n\nMittags bietet das Malakologische Museum den perfekten Rückzugsort. In den Klostermauern erkunden Sie die faszinierende Muschelwelt, während es draußen stürmt.\n\nNachmittags schlendern Sie mit Schirm über die glänzende Riva. Der Weg zum Leuchtturm ist windig, bietet aber dramatische Wellenblicke auf die Adria.\n\nDer Abend klingt in einem der gemütlichen Cafés an der Hafenpromenade aus. Die Spiegelungen der Lichter im nassen Pflaster schaffen eine magische Atmosphäre.",
+            "hu": "A nap a Kačić téren indul, az árkádok alatt keresve menedéket. Egy gyors séta a Szent Márk-templomba, ahol a kinti eső zaja elcsendesül.\n\nDélben a Malakológiai Múzeum nyújt tökéletes búvóhelyet. A kolostor falai között csodálatos kagylókat láthatunk, miközben odakint esik.\n\nDélután esernyővel sétálunk a fénylő Riván. A Szent Péter-világítótorony felé az út szeles, de a tajtékzó tenger látványa lenyűgöző.\n\nAz este a kikötői sétány egyik hangulatos kávézójában ér véget. A vizes köveken megcsillanó fények különleges, romantikus hangulatot árasztanak.",
+            "ro": "Ziua începe în Piața Kačić, sub protecția arcadelor. O scurtă fugă până la Biserica Sf. Marcu oferă liniște în timp ce ploaia bate în geamuri.\n\nLa prânz, Muzeul Malacologic este refugiul perfect. Între zidurile mănăstirii, explorăm lumea scoicilor în timp ce afară plouă torențial.\n\nDupă-amiaza, ne plimbăm cu umbrela pe faleza Riva. Drumul spre far este vântos, dar oferă o priveliște dramatică asupra valurilor Adriaticii.\n\nSeara se încheie într-o cafenea primitoare de pe faleză. Reflexiile luminilor pe pavajul umed creează o atmosferă magică în portul Makarska.",
+            "en": "The day begins at Kačić Square, seeking shelter under the stone arches. A quick dash to St. Mark's Church provides a quiet escape from the rain.\n\nAt noon, the Malacological Museum offers the perfect indoor refuge. Inside the monastery, explore the shell collection while the storm passes outside.\n\nIn the afternoon, stroll along the shiny Riva with an umbrella. The path to the lighthouse is windy but offers dramatic views of the crashing waves.\n\nThe evening winds down in a cozy café on the promenade. The city lights reflecting on the wet pavement create a magical, cinematic atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Kačić Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
+                "hu": "Használja a környező épületek árkádjait az eső elleni védelemhez.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru a vă adăposti de ploaie.",
+                "en": "Use the arches of the surrounding buildings for shelter from the rain."
+              }
+            },
+            {
+              "name": "St. Mark's Church",
+              "tip_5lang": {
+                "de": "Ideal für eine trockene Pause und kulturelle Besichtigung.",
+                "hu": "Ideális egy száraz pihenőhöz és kulturális városnézéshez.",
+                "ro": "Ideal pentru o pauză uscată și o vizită culturală.",
+                "en": "Ideal for a dry break and cultural sightseeing."
+              }
+            },
+            {
+              "name": "Malacological Museum",
+              "tip_5lang": {
+                "de": "Das beste Ziel bei Regen; vollständig überdacht im Kloster.",
+                "hu": "A legjobb úti cél esőben; teljesen fedett, a kolostoron belül.",
+                "ro": "Cea mai bună destinație pe ploaie; complet acoperit în mănăstire.",
+                "en": "The best destination in the rain; fully indoor within the monastery."
+              }
+            },
+            {
+              "name": "Makarska Riva",
+              "tip_5lang": {
+                "de": "Vorsicht, die Kalksteine sind bei Nässe extrem rutschig!",
+                "hu": "Vigyázat, a mészkő burkolat vizesen rendkívül csúszós!",
+                "ro": "Atenție, pietrele de calcar sunt extrem de alunecoase când sunt ude!",
+                "en": "Be careful, the limestone pavement is extremely slippery when wet!"
+              }
+            },
+            {
+              "name": "Statue of St. Peter",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; halten Sie Ihren Schirm gut fest.",
+                "hu": "Gyors fotómegálló; kapaszkodjon erősen az esernyőjébe.",
+                "ro": "Scurt popas pentru poze; țineți bine umbrela din cauza vântului.",
+                "en": "Quick photo stop; hold onto your umbrella tightly due to wind."
+              }
+            },
+            {
+              "name": "St. Peter Lighthouse",
+              "tip_5lang": {
+                "de": "Windgeschützte Ecken an der Rückseite des Gebäudes suchen.",
+                "hu": "Keressen szélvédett sarkokat az épület hátoldalán.",
+                "ro": "Căutați colțuri ferite de vânt în spatele clădirii.",
+                "en": "Look for wind-sheltered corners at the back of the building."
+              }
+            },
+            {
+              "name": "Napoleon Monument",
+              "tip_5lang": {
+                "de": "Schneller Blick und dann zurück in ein warmes Café.",
+                "hu": "Gyors megtekintés, aztán irány vissza egy meleg kávézóba.",
+                "ro": "O privire rapidă și apoi înapoi la o cafenea caldă.",
+                "en": "A quick look and then head back to a warm café."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie rutschfeste Schuhe, da das Pflaster der Altstadt bei Regen spiegelglatt wird.",
+              "Verlängern Sie den Aufenthalt im Malakologischen Museum, um den stärksten Guss abzuwarten.",
+              "Halten Sie Ausschau nach Cafés mit Markisen an der Riva.",
+              "Ein stabiler Sturmschirm ist wegen der Küstenwinde besser als ein billiges Modell."
+            ],
+            "hu": [
+              "Viseljen csúszásmentes talpú cipőt, mert az óváros kövei esőben életveszélyesek.",
+              "Töltsön több időt a múzeumban, hogy megvárja a nagyobb zápor végét.",
+              "Keresse a ponyvával védett kávézókat a Riva mentén.",
+              "A parti szél miatt egy erős vihasesernyő hasznosabb, mint a könnyű változatok."
+            ],
+            "ro": [
+              "Purtați încălțăminte antiderapantă, pavajul vechi devine foarte alunecos la ploaie.",
+              "Prelungiți vizita la Muzeul Malacologic pentru a evita cele mai puternice rafale.",
+              "Căutați cafenelele cu copertine de pe faleza Riva.",
+              "O umbrelă rezistentă la vânt este necesară din cauza rafalelor de pe coastă."
+            ],
+            "en": [
+              "Wear non-slip shoes as the old town stones become very slippery when wet.",
+              "Spend extra time in the Malacological Museum to wait out heavy showers.",
+              "Look for cafes with awnings along the Riva for outdoor seating.",
+              "A sturdy storm umbrella is recommended over light ones due to coastal winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft am Kačić-Platz ist erfrischend. Ohne die Sommermassen wirkt die Markuskirche noch monumentaler und friedlicher.\n\nMittags wärmt die tiefstehende Sonne die Mauern des Franziskanerklosters. Das Museum bietet eine angenehme Temperatur für eine lange Entdeckungstour.\n\nNachmittags ist die Riva der Ort, um Vitamin D zu tanken. Der Spaziergang zum St. Peter Leuchtturm bietet eine fantastische Fernsicht auf die Inseln Brač und Hvar.\n\nDer Sonnenuntergang findet bereits gegen 16:30 Uhr statt. Das Napoleon-Denkmal ist der ideale Ort, um das goldene Licht über der ruhigen Adria zu bewundern.",
+            "hu": "A friss téli levegő a Kačić téren felfrissít. A tömeg nélkül a Szent Márk-templom még monumentálisabbnak és békésebbnek tűnik.\n\nDélben az alacsonyan járó nap melegíti a ferences kolostor falait. A múzeumban kellemes az idő egy hosszabb felfedezéshez.\n\nDélután a Riva a legjobb hely a napsütés élvezetére. A Szent Péter-világítótorony felé sétálva tiszta kilátás nyílik Brač és Hvar szigeteire.\n\nA naplemente már fél 5 körül bekövetkezik. A Napóleon-emlékmű ideális hely, hogy megcsodáljuk az aranyló fényeket a nyugodt Adria felett.",
+            "ro": "Aerul curat de iarnă din Piața Kačić este revigorant. Fără mulțimile de vară, Biserica Sf. Marcu pare și mai monumentală și liniștită.\n\nLa prânz, soarele blând încălzește zidurile mănăstirii franciscane. Muzeul oferă o temperatură plăcută pentru o explorare detaliată.\n\nDupă-amiaza, faleza Riva este locul ideal pentru a prinde câteva raze de soare. Plimbarea spre far oferă o vizibilitate excelentă către insulele Brač și Hvar.\n\nApusul are loc devreme, în jurul orei 16:30. Monumentul lui Napoleon este punctul perfect pentru a admira lumina aurie peste Adriatica liniștită.",
+            "en": "The crisp winter air at Kačić Square is refreshing. Without the summer crowds, St. Mark's Church feels even more monumental and peaceful.\n\nAt noon, the low sun warms the walls of the Franciscan monastery. The museum provides a pleasant temperature for a long discovery tour.\n\nIn the afternoon, the Riva is the best place to soak up some winter sun. The walk to St. Peter Lighthouse offers exceptionally clear views of Brač and Hvar.\n\nSunset occurs early, around 4:30 PM. The Napoleon Monument is the ideal spot to watch the golden light fade over the calm Adriatic Sea."
+          },
+          "stops": [
+            {
+              "name": "Kačić Square",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne Touristenströme.",
+                "hu": "Élvezze a nyugalmat a turistahadak nélkül.",
+                "ro": "Bucurați-vă de liniște fără mulțimile de turiști.",
+                "en": "Enjoy the peaceful atmosphere without the tourist crowds."
+              }
+            },
+            {
+              "name": "St. Mark's Church",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für Besinnung an kalten Tagen.",
+                "hu": "Meleg hely az elmélyüléshez a hideg napokon.",
+                "ro": "Un loc cald pentru reflecție în zilele reci.",
+                "en": "A warm place for reflection on cold winter days."
+              }
+            },
+            {
+              "name": "Malacological Museum",
+              "tip_5lang": {
+                "de": "Ganzjährig geöffnet; ideal, wenn die Bura weht.",
+                "hu": "Egész évben nyitva; ideális, amikor fúj a bóra.",
+                "ro": "Deschis tot anul; ideal când bate vântul Bura.",
+                "en": "Open year-round; ideal when the Bura wind is blowing."
+              }
+            },
+            {
+              "name": "Makarska Riva",
+              "tip_5lang": {
+                "de": "Die Sonne steht tief; Sonnenbrille nicht vergessen.",
+                "hu": "A nap alacsonyan jár; ne felejtse el a napszemüveget.",
+                "ro": "Soarele este jos; nu uitați ochelarii de soare.",
+                "en": "The sun is low; don't forget your sunglasses."
+              }
+            },
+            {
+              "name": "Statue of St. Peter",
+              "tip_5lang": {
+                "de": "Warme Kleidung nötig, hier zieht es im Winter oft.",
+                "hu": "Meleg ruha kell, itt télen gyakran húz a szél.",
+                "ro": "Haine groase necesare, vântul bate tare aici iarna.",
+                "en": "Warm clothing needed as it's often windy here in winter."
+              }
+            },
+            {
+              "name": "St. Peter Lighthouse",
+              "tip_5lang": {
+                "de": "Bester Platz für das frühe Winter-Abendlicht.",
+                "hu": "A legjobb hely a korai téli esti fényekhez.",
+                "ro": "Cel mai bun loc pentru lumina apusului de iarnă.",
+                "en": "Best spot for the early winter evening light."
+              }
+            },
+            {
+              "name": "Napoleon Monument",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch vor 16:30 Uhr für Tageslicht.",
+                "hu": "Tervezze a látogatást 16:30 előtt a nappali fényhez.",
+                "ro": "Planificați vizita înainte de 16:30 pentru lumină.",
+                "en": "Plan your visit before 4:30 PM to have daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf die Bura (starker Nordwind); sie macht es gefühlt viel kälter.",
+              "Viele Strandbars sind geschlossen, aber die Cafés in der Altstadt sind beheizt.",
+              "Der Sonnenuntergang ist im Winter besonders farbenfroh.",
+              "Tragen Sie Zwiebelschichten, da es in der Sonne warm, im Schatten aber frostig ist."
+            ],
+            "hu": [
+              "Figyeljen a bórára (erős északi szél); sokkal hidegebbnek érződik tőle az idő.",
+              "Sok strandbár zárva van, de az óvárosi kávézók fűtöttek.",
+              "A téli naplementék különösen színesek és látványosak.",
+              "Öltözzön rétegesen, mert a napon meleg van, de árnyékban fagyos az idő."
+            ],
+            "ro": [
+              "Atenție la Bura (vânt puternic de nord); face să pară mult mai frig.",
+              "Multe baruri de plajă sunt închise, dar cafenelele din oraș sunt încălzite.",
+              "Apusul de soare în timpul iernii este extrem de colorat.",
+              "Îmbrăcați-vă în straturi; e cald la soare, dar îngheț la umbră."
+            ],
+            "en": [
+              "Watch out for the Bura (strong north wind); it makes it feel much colder.",
+              "Many beach bars are closed, but old town cafes are heated and cozy.",
+              "Winter sunsets are exceptionally colorful in Dalmatia.",
+              "Wear layers as it can be warm in the sun but freezing in the shade."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -662,6 +1135,373 @@
           "Always lock your bike securely when visiting sights.",
           "Take advantage of the early morning to beat the heat."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Radeln Sie am Morgen entlang der lebhaften Riva und hinaus zum Leuchtturm St. Peter. Folgen Sie dem Küstenweg nach Norden durch schattige Pinienwälder bis zum Vepric-Heiligtum. Erklimmen Sie den kleinen Hügel zur Sternwarte für einen weiten Blick über die Dächer. Beenden Sie Ihre Tour mit einem Sprung ins kristallklare Wasser an einem der Kieselstrände.",
+            "hu": "Tekerjen reggel a nyüzsgő Riva mentén egészen a Szent Péter-világítótoronyig. Kövesse a part menti utat északra, árnyas fenyőerdőkön át a Vepric-szentélyig. Kapaszkodjon fel a csillagvizsgálóhoz a háztetők feletti panorámáért. Zárja a túrát egy csobbanással a kristálytiszta tengerben valamelyik kavicsos strandon.",
+            "ro": "Pedalați dimineața pe faleza Riva până la farul Sfântul Petru. Urmați poteca de coastă spre nord, prin păduri de pini, până la sanctuarul Vepric. Urcați spre observator pentru o priveliște superbă peste acoperișurile orașului. Încheiați turul cu o săritură în apa cristalină a unei plaje cu pietriș.",
+            "en": "Cycle along the lively Riva in the morning and out to the St. Peter Lighthouse. Follow the coastal path north through shady pine forests to the Vepric Sanctuary. Climb the small hill to the observatory for a wide view over the city's rooftops. End your tour with a dip in the crystal-clear water at one of the pebble beaches."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Riva Makarska",
+                "hu": "Makarskai Riva",
+                "ro": "Faleza Riva",
+                "en": "Makarska Riva"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Leuchtturm St. Peter",
+                "hu": "Szent Péter-világítótorony",
+                "ro": "Farul Sfântul Petru",
+                "en": "St. Peter Lighthouse"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Statue des Heiligen Petrus",
+                "hu": "Szent Péter-szobor",
+                "ro": "Statuia Sfântului Petru",
+                "en": "Statue of St. Peter"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Vepric-Heiligtum",
+                "hu": "Vepric-szentély",
+                "ro": "Sanctuarul Vepric",
+                "en": "Vepric Sanctuary"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Sternwarte Makarska",
+                "hu": "Makarskai Csillagvizsgáló",
+                "ro": "Observatorul Makarska",
+                "en": "Makarska Observatory"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bounty Steakhouse",
+                "tip": "Energiegeladene Burger am Strand."
+              },
+              {
+                "name": "Eisdiele Romana",
+                "tip": "Bestes handgemachtes Eis an der Riva."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bounty Steakhouse",
+                "tip": "Laktató burgerek a tengerparton."
+              },
+              {
+                "name": "Romana fagyizó",
+                "tip": "A legjobb kézműves fagylalt a Riván."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bounty Steakhouse",
+                "tip": "Burgeri energizanți pe plajă."
+              },
+              {
+                "name": "Gelateria Romana",
+                "tip": "Cea mai bună înghețată de pe Riva."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bounty Steakhouse",
+                "tip": "Hearty burgers right by the beach."
+              },
+              {
+                "name": "Romana Ice Cream",
+                "tip": "Best artisanal gelato on the Riva."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Küste von Ramova",
+                "tip": "Ruhigerer Küstenabschnitt im Norden.",
+                "emoji": "🌊"
+              },
+              {
+                "name": "Vepric-Garten",
+                "tip": "Stille Meditation im Grünen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ramova-part",
+                "tip": "Csendesebb partszakasz északon.",
+                "emoji": "🌊"
+              },
+              {
+                "name": "Vepric kertje",
+                "tip": "Csendes meditáció a zöldben.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Coasta Ramova",
+                "tip": "Secțiune de coastă mai liniștită la nord.",
+                "emoji": "🌊"
+              },
+              {
+                "name": "Grădina Vepric",
+                "tip": "Meditație tăcută în natură.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Ramova Coast",
+                "tip": "Quieter coastal stretch to the north.",
+                "emoji": "🌊"
+              },
+              {
+                "name": "Vepric Garden",
+                "tip": "Quiet meditation in the greenery.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Fischmarkt",
+                "tip": "Beobachten Sie das bunte Treiben."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Halpiac",
+                "tip": "Figyelje meg a helyi forgatagot."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața de pește",
+                "tip": "Observați agitația locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fish Market",
+                "tip": "Watch the colorful local hustle."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Küstenweg nach Norden ist flach und ideal für Freizeitradler.",
+              "Vorsicht auf der Riva, dort herrscht oft reger Fußgängerverkehr.",
+              "Die Straße nach Vepric hat eine leichte, aber machbare Steigung.",
+              "Schließen Sie Ihr Rad bei Besichtigungen immer sicher ab.",
+              "Nutzen Sie die frühen Morgenstunden, um die Hitze zu umgehen."
+            ],
+            "hu": [
+              "Az északi tengerparti út sík és ideális hobbi kerékpárosoknak.",
+              "Legyen óvatos a Riván a sűrű gyalogosforgalom miatt.",
+              "A Vepric felé vezető úton van egy enyhe emelkedő.",
+              "Mindig zárja le biztonságosan a biciklit a látnivalóknál.",
+              "Használja ki a kora reggelit a hőség elkerülésére."
+            ],
+            "ro": [
+              "Poteca de coastă spre nord este plată și ideală pentru relaxare.",
+              "Atenție pe Riva, unde traficul pietonal este adesea intens.",
+              "Drumul spre Vepric are o pantă ușoară, dar abordabilă.",
+              "Încuiați întotdeauna bicicleta în siguranță la opriri.",
+              "Profități de orele dimineții pentru a evita canicula."
+            ],
+            "en": [
+              "The coastal path to the north is flat and ideal for leisure riders.",
+              "Be careful on the Riva due to heavy pedestrian traffic.",
+              "The road to Vepric has a slight but manageable incline.",
+              "Always lock your bike securely when visiting sights.",
+              "Take advantage of the early morning to beat the heat."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt vorsichtig auf der nassen Riva. Die Reifen greifen gut auf dem Asphalt, doch die weißen Steine erfordern Konzentration.\n\nAm St. Peter Leuchtturm peitscht der Regen von der Seite. Ein kurzes Innehalten an der Statue zeigt die rohe Gewalt der Natur.\n\nDer Anstieg zum Vepric-Heiligtum ist anstrengend, aber die dichten Bäume bieten einen natürlichen Schutz vor dem schlimmsten Guss.\n\nZum Abschluss führt der Weg zum Observatorium. Auch wenn der Himmel bedeckt ist, wirkt die Anlage im Regen geheimnisvoll und verlassen.",
+            "hu": "A túra óvatosan indul a vizes Riván. A gumik jól tapadnak az aszfalton, de a fehér kövek koncentrációt igényelnek.\n\nA Szent Péter-világítótoronynál oldalról vág az eső. Egy rövid megálló a szobornál megmutatja a természet nyers erejét.\n\nA Vepric-szentélyhez vezető emelkedő fárasztó, de a sűrű fák természetes védelmet nyújtanak a felhőszakadás ellen.\n\nA végén az obszervatórium felé vesszük az irányt. Még ha felhős is az ég, a létesítmény titokzatosnak tűnik az esőben.",
+            "ro": "Călătoria începe cu prudență pe faleza Riva udă. Anvelopele aderă bine pe asfalt, dar pietrele albe necesită concentrare.\n\nLa farul Sf. Petru, ploaia bate din lateral. O scurtă oprire la statuie dezvăluie forța brută a naturii.\n\nUrcarea spre sanctuarul Vepric este solicitantă, dar copacii deși oferă o protecție naturală împotriva ploii torențiale.\n\nLa final, drumul duce spre observator. Chiar dacă cerul este acoperit, locația pare misterioasă și pustie în ploaie.",
+            "en": "The ride starts cautiously on the wet Riva. Tires grip well on asphalt, but the white stones require focused concentration.\n\nAt St. Peter Lighthouse, the rain lashes from the side. A brief pause at the statue reveals the raw power of the coastal weather.\n\nThe climb to Vepric Sanctuary is strenuous, but the dense trees offer natural shelter from the worst of the downpour.\n\nFinally, the route heads to the Observatory. Even with overcast skies, the facility feels mysterious and evocative in the rain."
+          },
+          "stops": [
+            {
+              "name": "Makarska Riva",
+              "tip_5lang": {
+                "de": "Meiden Sie die weißen Steinplatten; Rutschgefahr!",
+                "hu": "Kerülje a fehér kőlapokat; csúszásveszély!",
+                "ro": "Evitați plăcile de piatră albă; pericol de alunecare!",
+                "en": "Avoid the white stone slabs; high slip risk!"
+              }
+            },
+            {
+              "name": "St. Peter Lighthouse",
+              "tip_5lang": {
+                "de": "Vorsicht vor Windböen beim Radfahren an der Küste.",
+                "hu": "Vigyázzon a széllökésekre a parton kerékpározva.",
+                "ro": "Atenție la rafalele de vânt când mergeți pe bicicletă.",
+                "en": "Watch out for wind gusts while cycling along the coast."
+              }
+            },
+            {
+              "name": "Statue of St. Peter",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; Bremsen auf Nässe testen.",
+                "hu": "Rövid megálló; ellenőrizze a fékeket a vizes úton.",
+                "ro": "Scurt popas; testați frânele pe carosabil umed.",
+                "en": "Short stop; test your brakes on the wet surface."
+              }
+            },
+            {
+              "name": "Vepric Sanctuary",
+              "tip_5lang": {
+                "de": "Die Grotte bietet perfekten Schutz vor Regen.",
+                "hu": "A barlang-szentély tökéletes védelmet nyújt az eső elől.",
+                "ro": "Grota oferă protecție perfectă împotriva ploii.",
+                "en": "The grotto shrine offers perfect shelter from the rain."
+              }
+            },
+            {
+              "name": "Makarska Observatory",
+              "tip_5lang": {
+                "de": "Achten Sie auf nasse Blätter auf der Zufahrtsstraße.",
+                "hu": "Ügyeljen a vizes levelekre a felvezető úton.",
+                "ro": "Atenție la frunzele ude pe drumul de acces.",
+                "en": "Watch out for wet leaves on the access road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und wasserdichte Überschuhe.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassem Asphalt.",
+              "Halten Sie doppelten Abstand zu anderen Verkehrsteilnehmern.",
+              "Nutzen Sie das Vepric-Heiligtum für eine längere trockene Pause."
+            ],
+            "hu": [
+              "Viseljen teljes esődzsekit és vízálló cipővédőt.",
+              "Kicsit csökkentse a guminyomást a jobb tapadás érdekében.",
+              "Tartson kétszeres távolságot a többi közlekedőtől.",
+              "Használja a Vepric-szentélyt egy hosszabb, száraz pihenőre."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă și protecții pentru pantofi.",
+              "Reduceți puțin presiunea din pneuri pentru aderență mai bună.",
+              "Păstrați o distanță dublă față de ceilalți participanți la trafic.",
+              "Folosiți sanctuarul Vepric pentru o pauză uscată mai lungă."
+            ],
+            "en": [
+              "Wear a full rain jacket and waterproof shoe covers.",
+              "Slightly reduce tire pressure for better grip on wet asphalt.",
+              "Keep double the usual distance from other road users.",
+              "Use the Vepric Sanctuary for a longer dry break."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Riva liegt ruhig im Wintermorgengrauen. Die kühle Brise im Gesicht weckt die Lebensgeister für die heutige Tour.\n\nAm Leuchtturm genießen Sie die Einsamkeit. Die Statue des Hl. Petrus blickt über ein tiefblaues, ruhiges Wintermeer.\n\nDer Weg zum Vepric-Heiligtum führt durch kühle Pinienwälder. Die Luft ist so klar, dass man jedes Detail der Biokovo-Felsen über sich sieht.\n\nZum Abschluss geht es hinauf zum Observatorium. Im Winter sind die Nächte am klarsten, ideal für einen Blick in die Sterne nach Sonnenuntergang.",
+            "hu": "A Riva csendesen fekszik a téli hajnalban. Az arcunkba vágó hűvös szellő felébreszti az életkedvünket a mai túrához.\n\nA világítótoronynál élvezhetjük a magányt. Szent Péter szobra a mélykék, nyugodt téli tenger felett őrködik.\n\nA Vepric-szentélyhez vezető út hűvös fenyőerdőkön át visz. A levegő olyan tiszta, hogy a felettünk magasodó Biokovo szikláinak minden részlete látszik.\n\nA végén feltekerünk az obszervatóriumhoz. Télen a legtisztábbak az éjszakák, ideális a csillagnézéshez naplemente után.",
+            "ro": "Faleza Riva este liniștită în zorii de iarnă. Briza rece pe față vă trezește simțurile pentru turul de astăzi.\n\nLa far, vă bucurați de singurătate. Statuia Sf. Petru privește peste o mare de iarnă albastră și calmă.\n\nDrumul spre sanctuarul Vepric trece prin păduri de pini răcoroase. Aerul este atât de curat încât se vede orice detaliu al stâncilor Biokovo.\n\nLa final, urcați la observator. Iarna nopțile sunt cele mai senine, ideale pentru observarea stelelor după apus.",
+            "en": "The Riva lies quiet in the winter morning light. The cool breeze on your face awakens your spirit for today's cycling tour.\n\nAt the lighthouse, enjoy the rare solitude. St. Peter's statue gazes over a deep blue, calm winter sea.\n\nThe route to Vepric Sanctuary winds through cool pine forests. The air is so clear that every detail of the Biokovo cliffs above is visible.\n\nFinally, head up to the Observatory. Winter nights offer the clearest skies, perfect for stargazing right after the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Makarska Riva",
+              "tip_5lang": {
+                "de": "Handschuhe sind bei der morgendlichen Fahrt Pflicht.",
+                "hu": "Kesztyű kötelező a reggeli tekeréshez.",
+                "ro": "Mănușile sunt obligatorii pentru plimbarea de dimineață.",
+                "en": "Gloves are mandatory for the early morning ride."
+              }
+            },
+            {
+              "name": "St. Peter Lighthouse",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht bis zu den Inseln.",
+                "hu": "Élvezze a tiszta kilátást egészen a szigetekig.",
+                "ro": "Bucurați-vă de vizibilitatea clară până la insule.",
+                "en": "Enjoy the crystal-clear views all the way to the islands."
+              }
+            },
+            {
+              "name": "Statue of St. Peter",
+              "tip_5lang": {
+                "de": "Kurzer Halt; halten Sie den Körper in Bewegung.",
+                "hu": "Rövid megálló; maradjon mozgásban a hideg ellen.",
+                "ro": "Oprire scurtă; mențineți corpul în mișcare.",
+                "en": "Short stop; keep your body moving to stay warm."
+              }
+            },
+            {
+              "name": "Vepric Sanctuary",
+              "tip_5lang": {
+                "de": "Ein friedlicher, stiller Ort in der Nebensaison.",
+                "hu": "Békés, csendes hely a főszezonon kívül.",
+                "ro": "Un loc liniștit și tăcut în afara sezonului.",
+                "en": "A peaceful, quiet place during the off-season."
+              }
+            },
+            {
+              "name": "Makarska Observatory",
+              "tip_5lang": {
+                "de": "Warme Kleidung für die Abfahrt im Dunkeln einpacken.",
+                "hu": "Csomagoljon meleg ruhát a sötétben való leguruláshoz.",
+                "ro": "Luați haine groase pentru coborârea pe întuneric.",
+                "en": "Pack warm clothes for the descent in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders für die Abfahrten.",
+              "Die Tage sind kurz; starten Sie spätestens um 9:00 Uhr.",
+              "Prüfen Sie Ihre Fahrradbeleuchtung für die Rückfahrt am späten Nachmittag.",
+              "Nehmen Sie einen Thermosbecher mit warmem Tee mit."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, különösen a lejtőkön.",
+              "A nappalok rövidek; induljon legkésőbb reggel 9-kor.",
+              "Ellenőrizze a kerékpár lámpáit a késő délutáni visszaúthoz.",
+              "Vigyen magával termoszban meleg teát."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, mai ales pentru coborâri.",
+              "Zilele sunt scurte; porniți cel târziu la ora 09:00.",
+              "Verificați luminile bicicletei pentru drumul de întoarcere.",
+              "Luați un termos cu ceai cald la voi."
+            ],
+            "en": [
+              "Wear windproof clothing, especially for the descents.",
+              "Days are short; start your tour by 9:00 AM at the latest.",
+              "Check your bike lights for the late afternoon return journey.",
+              "Carry a thermos with warm tea to stay hydrated and warm."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -941,6 +1781,373 @@
           "Vepric has free parking and is very easily accessible by car.",
           "Check the weather conditions before heading to the nature park."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie mit einem Besuch der Altstadt und des faszinierenden Muschelmuseums. Fahren Sie dann hoch in den Biokovo-Naturpark zum Skywalk für ein unvergessliches Panorama. Besuchen Sie am Nachmittag das friedliche Vepric-Heiligtum, das in einer natürlichen Felsengrotte liegt. Beenden Sie den Tag entspannt an der Riva mit Blick auf die einlaufenden Boote und die Adria.",
+            "hu": "Kezdje a napot az óvárosban és a lenyűgöző kagylómúzeumban. Autózzon fel a Biokovo Natúrparkba a Skywalkhoz a felejthetetlen panorámáért. Délután látogasson el a békés Vepric-szentélyhez, amely egy természetes barlangban található. Zárja a napot lazítással a Riván, figyelve a kikötőbe érkező hajókat és az Adriát.",
+            "ro": "Începeți cu o vizită în orașul vechi și la fascinantul muzeu al scoicilor. Conduceți apoi spre Parcul Natural Biokovo pentru Skywalk și o panoramă de neuitat. După-amiaza, vizitați liniștitul sanctuar Vepric, situat într-o grotă naturală. Încheiați ziua relaxat pe Riva, admirând bărcile care intră în port și Marea Adriatică.",
+            "en": "Start with a visit to the old town and the fascinating shell museum. Then drive up to the Biokovo Nature Park to the Skywalk for an unforgettable panorama. In the afternoon, visit the peaceful Vepric Sanctuary, located in a natural rock cave. End the day relaxing on the Riva, watching the incoming boats and the Adriatic sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kačić-Platz",
+                "hu": "Kačić tér",
+                "ro": "Piața Kačić",
+                "en": "Kačić Square"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Malakologisches Museum",
+                "hu": "Malakológiai Múzeum",
+                "ro": "Muzeul Malacologic",
+                "en": "Malacological Museum"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Biokovo-Naturpark",
+                "hu": "Biokovo Natúrpark",
+                "ro": "Parcul Natural Biokovo",
+                "en": "Biokovo Nature Park"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Vepric-Heiligtum",
+                "hu": "Vepric-szentély",
+                "ro": "Sanctuarul Vepric",
+                "en": "Vepric Sanctuary"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Riva Makarska",
+                "hu": "Makarskai Riva",
+                "ro": "Faleza Riva",
+                "en": "Makarska Riva"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Panorama Restaurant",
+                "tip": "Hervorragende Aussicht über die Riviera."
+              },
+              {
+                "name": "Konoba Arka",
+                "tip": "Traditionelle Fleischgerichte unter Pinien."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Panorama étterem",
+                "tip": "Kiváló kilátás a riviérára."
+              },
+              {
+                "name": "Konoba Arka",
+                "tip": "Hagyományos húsételek a fenyők alatt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurant Panorama",
+                "tip": "Priveliște excelentă asupra rivierei."
+              },
+              {
+                "name": "Konoba Arka",
+                "tip": "Preparate tradiționale din carne sub pini."
+              }
+            ],
+            "en": [
+              {
+                "name": "Panorama Restaurant",
+                "tip": "Excellent views over the Riviera."
+              },
+              {
+                "name": "Konoba Arka",
+                "tip": "Traditional meat dishes under the pines."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Biokovo Gipfel",
+                "tip": "Frische Bergluft und Einsamkeit.",
+                "emoji": "🏔️"
+              },
+              {
+                "name": "Vepric Park",
+                "tip": "Ein ruhiger Ort für Besinnung.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Biokovo csúcsok",
+                "tip": "Friss hegyi levegő és nyugalom.",
+                "emoji": "🏔️"
+              },
+              {
+                "name": "Vepric park",
+                "tip": "Csendes hely az elmélkedésre.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vârfurile Biokovo",
+                "tip": "Aer curat de munte și singurătate.",
+                "emoji": "🏔️"
+              },
+              {
+                "name": "Parcul Vepric",
+                "tip": "Un loc liniștit pentru reflecție.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Biokovo Peaks",
+                "tip": "Fresh mountain air and solitude.",
+                "emoji": "🏔️"
+              },
+              {
+                "name": "Vepric Park",
+                "tip": "A quiet place for reflection.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Supermarkt am Stadtrand",
+                "tip": "Ideal für Vorräte vor der Bergfahrt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Városszéli szupermarket",
+                "tip": "Ideális készletek beszerzésére a hegyi út előtt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Supermarket la periferie",
+                "tip": "Ideal pentru provizii înainte de drumul pe munte."
+              }
+            ],
+            "en": [
+              {
+                "name": "Outskirts Supermarket",
+                "tip": "Ideal for supplies before the mountain drive."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Das Parken an der Riva ist begrenzt; nutzen Sie Parkplätze am Bahnhof.",
+              "Die Straße im Biokovo-Park ist sehr schmal und steil.",
+              "Planen Sie die Biokovo-Fahrt früh am Morgen, um Stau zu vermeiden.",
+              "Vepric hat kostenlose Parkplätze und ist sehr gut erreichbar.",
+              "Prüfen Sie vorab die Wetterbedingungen für den Naturpark."
+            ],
+            "hu": [
+              "A parkolás a Riván korlátozott; használja az állomás melletti helyeket.",
+              "A Biokovo-park útja rendkívül keskeny és meredek.",
+              "Tervezze a Biokovo túrát korán reggelre a dugók elkerülése végett.",
+              "A Vepric-szentély ingyenes parkolóval és jó megközelíthetőséggel bír.",
+              "Indulás előtt ellenőrizze a natúrpark időjárási körülményeit."
+            ],
+            "ro": [
+              "Parcarea pe Riva este limitată; folosiți locurile de lângă autogară.",
+              "Drumul din parcul Biokovo este foarte îngust și abrupt.",
+              "Planificați vizita în Biokovo dimineața devreme pentru a evita aglomerația.",
+              "Vepric are parcare gratuită și este foarte ușor de accesat.",
+              "Verificați condițiile meteo înainte de a urca în parcul natural."
+            ],
+            "en": [
+              "Parking on the Riva is limited; use the lots near the bus station.",
+              "The road in Biokovo Park is very narrow and steep.",
+              "Plan your Biokovo trip early in the morning to avoid traffic jams.",
+              "Vepric has free parking and is very easily accessible by car.",
+              "Check the weather conditions before heading to the nature park."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom Kačić-Platz geht es im trockenen Auto direkt zum Malakologischen Museum. Ein idealer Vormittag für Indoor-Kultur.\n\nMittags führt die Fahrt hinauf in den Biokovo Naturpark. Auch bei Regen ist die Nebelstimmung in den Bergen mystisch, erfordert aber höchste Vorsicht.\n\nNachmittags besuchen Sie das Vepric-Heiligtum. Die Grotte bietet Schutz, während der Regen auf das dichte Blätterdach trommelt.\n\nDer Tag endet an der Riva. Parken Sie nah am Zentrum, um trockenen Fußes in eines der erstklassigen Restaurants zu gelangen.",
+            "hu": "A Kačić térről a száraz autóval egyenesen a Malakológiai Múzeumhoz hajtunk. Ideális délelőtt a benti kultúrához.\n\nDélben az út a Biokovo Natúrparkba vezet. Esőben is misztikus a ködös hangulat a hegyekben, de óvatosságot igényel.\n\nDélután látogassa meg a Vepric-szentélyt. A barlang védelmet nyújt, miközben az eső a sűrű lombkoronán kopog.\n\nA nap a Riván ér véget. Parkoljon közel a központhoz, hogy száraz lábbal érjen be az egyik kiváló étterembe.",
+            "ro": "De la Piața Kačić, mergem cu mașina direct la Muzeul Malacologic. O dimineață ideală pentru cultură la interior.\n\nLa prânz, drumul urcă în Parcul Natural Biokovo. Chiar și pe ploaie, atmosfera cu ceață este mistică, dar necesită prudență maximă.\n\nDupă-amiaza vizitați sanctuarul Vepric. Grota oferă adăpost în timp ce ploaia bate în frunzișul des de deasupra.\n\nZiua se termină pe faleza Riva. Parcați aproape de centru pentru a ajunge uscați la unul dintre restaurantele de top.",
+            "en": "From Kačić Square, drive in the comfort of your car straight to the Malacological Museum. An ideal morning for indoor culture.\n\nAt noon, head up to Biokovo Nature Park. Even in rain, the misty mountain atmosphere is mystical, though it requires extreme driving caution.\n\nIn the afternoon, visit the Vepric Sanctuary. The grotto provides shelter while the rain drums on the dense canopy above.\n\nThe day concludes at the Riva. Park close to the center to reach one of the local restaurants without getting wet."
+          },
+          "stops": [
+            {
+              "name": "Kačić Square",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus nahe der Altstadt.",
+                "hu": "Parkoljon az óvároshoz közeli parkolóházban.",
+                "ro": "Parcați în parcarea etajată de lângă orașul vechi.",
+                "en": "Park in the parking garage near the old town."
+              }
+            },
+            {
+              "name": "Malacological Museum",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor dem Kloster vorhanden.",
+                "hu": "Parkoló közvetlenül a kolostor előtt található.",
+                "ro": "Locuri de parcare disponibile direct în fața mănăstirii.",
+                "en": "Parking spaces available directly in front of the monastery."
+              }
+            },
+            {
+              "name": "Biokovo Nature Park",
+              "tip_5lang": {
+                "de": "Vorsicht: Sichtweite kann im Nebel stark sinken.",
+                "hu": "Vigyázat: a látótávolság ködben jelentősen csökkenhet.",
+                "ro": "Atenție: vizibilitatea poate scădea drastic în ceață.",
+                "en": "Caution: visibility can drop significantly in foggy rain."
+              }
+            },
+            {
+              "name": "Vepric Sanctuary",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist befestigt und sauber.",
+                "hu": "A parkoló szilárd burkolatú és tiszta.",
+                "ro": "Parcarea este asfaltată și curată.",
+                "en": "The parking area is paved and clean."
+              }
+            },
+            {
+              "name": "Makarska Riva",
+              "tip_5lang": {
+                "de": "Nutzen Sie Kurzzeitparkplätze für den Restaurantbesuch.",
+                "hu": "Használja a rövid távú parkolókat az étteremhez.",
+                "ro": "Folosiți parcările pe termen scurt pentru restaurante.",
+                "en": "Use short-term parking spots for your restaurant visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie die Fahrt zum Skywalk Biokovo bei Gewitter.",
+              "Die Bergstraßen können bei Nässe rutschig sein; fahren Sie langsam.",
+              "Nutzen Sie die Scheibenheizung gegen Beschlagen im Auto.",
+              "In der Nebensaison finden Sie leichter Parkplätze direkt am Hafen."
+            ],
+            "hu": [
+              "Vihar idején kerülje a Biokovo Skywalk felé vezető utat.",
+              "A hegyi utak vizesen csúszósak lehetnek; vezessen lassan.",
+              "Használja a szélvédőfűtést a párásodás ellen.",
+              "Szezonon kívül könnyebben talál parkolót közvetlenül a kikötőben."
+            ],
+            "ro": [
+              "Evitați drumul către Skywalk Biokovo în caz de furtună.",
+              "Drumurile montane pot fi alunecoase; conduceți încet.",
+              "Folosiți dezaburirea parbrizului în interiorul mașinii.",
+              "În extrasezon găsiți mai ușor locuri de parcare chiar în port."
+            ],
+            "en": [
+              "Avoid driving to the Biokovo Skywalk during thunderstorms.",
+              "Mountain roads can be slippery when wet; drive slowly and carefully.",
+              "Use your car's defroster to prevent window fogging.",
+              "In the off-season, parking right at the harbor is much easier to find."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Kačić-Platz ist es morgens kühl, aber das Auto ist schnell aufgeheizt. Die Fahrt zum Museum ist kurz und angenehm.\n\nMittags ist die Fahrt in den Biokovo Naturpark ein Highlight. Oft liegt oben Schnee, während unten die Sonne scheint – ein magischer Kontrast.\n\nNachmittags besuchen Sie das ruhige Vepric-Heiligtum. Im Winter herrscht hier eine ganz besondere, andächtige Stille.\n\nDer Tag endet an der Riva. Parken Sie bequem und genießen Sie den klaren Sternenhimmel, der über dem schlafenden Hafen leuchtet.",
+            "hu": "A Kačić téren hűvös a reggel, de az autó hamar bemelegszik. Az út a múzeumhoz rövid és kellemes.\n\nDélben a Biokovo Natúrparkba tett kirándulás a fénypont. Gyakran hó fekszik fent, miközben lent süt a nap – varázslatos kontraszt.\n\nDélután látogassa meg a csendes Vepric-szentélyt. Télen különleges, áhítatos csend honol itt.\n\nA nap a Riván ér véget. Parkoljon kényelmesen, és élvezze a tiszta csillagos eget, amely az alvó kikötő felett ragyog.",
+            "ro": "În Piața Kačić este frig dimineața, dar mașina se încălzește repede. Drumul spre muzeu este scurt și plăcut.\n\nLa prânz, excursia în Parcul Natural Biokovo este punctul culminant. Adesea e zăpadă sus, în timp ce jos e soare – un contrast magic.\n\nDupă-amiaza vizitați sanctuarul liniștit Vepric. Iarna domină aici o tăcere solemnă și deosebită.\n\nZiua se termină pe faleza Riva. Parcați confortabil și admirați cerul înstelat care strălucește peste portul adormit.",
+            "en": "It's a chilly morning at Kačić Square, but the car warms up quickly. The drive to the museum is short and convenient.\n\nAt noon, the trip to Biokovo Nature Park is the highlight. Often there's snow at the top while the sun shines below – a magical contrast.\n\nIn the afternoon, visit the quiet Vepric Sanctuary. In winter, a special, prayerful silence reigns here.\n\nThe day ends at the Riva. Park easily and enjoy the brilliant starry sky shining over the sleeping harbor."
+          },
+          "stops": [
+            {
+              "name": "Kačić Square",
+              "tip_5lang": {
+                "de": "Scheibe enteisen, falls es eine Frostnacht war.",
+                "hu": "Jégtelenítse a szélvédőt, ha fagyos éjszaka volt.",
+                "ro": "Dezghețați parbrizul dacă a fost o noapte geroasă.",
+                "en": "De-ice the windshield if it was a freezing night."
+              }
+            },
+            {
+              "name": "Malacological Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie den kurzen Weg vom Parkplatz ins Warme.",
+                "hu": "Élvezze a rövid utat a parkolótól a melegbe.",
+                "ro": "Bucurați-vă de drumul scurt de la parcare la căldură.",
+                "en": "Enjoy the short walk from the car to the warm interior."
+              }
+            },
+            {
+              "name": "Biokovo Nature Park",
+              "tip_5lang": {
+                "de": "Winterausrüstung (Ketten) können oben nötig sein.",
+                "hu": "Téli felszerelés (hólánc) fent szükséges lehet.",
+                "ro": "Echipamentul de iarnă (lanțuri) poate fi necesar sus.",
+                "en": "Winter equipment (chains) might be required at the top."
+              }
+            },
+            {
+              "name": "Vepric Sanctuary",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Aufenthalt im Freien.",
+                "hu": "Meleg ruházat a szabadtéri tartózkodáshoz.",
+                "ro": "Haine groase pentru timpul petrecut afară.",
+                "en": "Warm clothing recommended for the outdoor visit."
+              }
+            },
+            {
+              "name": "Makarska Riva",
+              "tip_5lang": {
+                "de": "Kostenlose Parkplätze im Winter oft verfügbar.",
+                "hu": "Télen gyakran elérhető ingyenes parkolás.",
+                "ro": "Locuri de parcare gratuite disponibile adesea iarna.",
+                "en": "Free parking spots are often available in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vor der Fahrt in den Biokovo-Park die Straßenzustandsberichte.",
+              "Stellen Sie sicher, dass Frostschutzmittel im Scheibenwischwasser ist.",
+              "Die Sonne geht früh unter; Biokovo-Fahrt bis Mittag planen.",
+              "Achten Sie auf Glatteis in schattigen Kurven der Bergstraße."
+            ],
+            "hu": [
+              "A Biokovo-túra előtt ellenőrizze az útviszonyokat.",
+              "Győződjön meg róla, hogy van fagyálló a szélvédőmosóban.",
+              "A nap korán nyugszik; a hegyi utat délig tervezze be.",
+              "Ügyeljen a jegesedésre a hegyi utak árnyékos kanyarjaiban."
+            ],
+            "ro": [
+              "Verificați starea drumurilor înainte de a pleca spre Biokovo.",
+              "Asigurați-vă că aveți lichid de parbriz rezistent la îngheț.",
+              "Soarele apune devreme; planificați drumul spre munte până la prânz.",
+              "Atenție la polei în curbele umbrite ale drumului montan."
+            ],
+            "en": [
+              "Check road condition reports before driving up to Biokovo.",
+              "Ensure you have anti-freeze in your windshield wiper fluid.",
+              "The sun sets early; plan your Biokovo drive by noon.",
+              "Watch out for black ice in shaded curves of the mountain road."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1220,6 +2427,373 @@
           "Most sights in the center are within easy walking distance.",
           "Check the departure times for the last buses in the evening."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den zentralen Busbahnhof als Basis für Ihre Erkundung. Besuchen Sie die historischen Schätze der Altstadt und das einzigartige Muschelmuseum bequem zu Fuß. Nehmen Sie einen lokalen Bus Richtung Nordwesten, um das malerische Vepric-Heiligtum zu besuchen. Kehren Sie zurück zur Riva für einen entspannten Nachmittag am Meer, bevor Sie Ihre Weiterreise antreten.",
+            "hu": "Használja a központi buszpályaudvart bázisként a felfedezéshez. Látogassa meg az óváros történelmi kincseit és az egyedülálló kagylómúzeumot kényelmesen gyalog. Szálljon fel egy északnyugat felé tartó buszra, hogy megnézze a festői Vepric-szentélyt. Térjen vissza a Rivára egy pihentető tengerparti délutánra az utazás folytatása előtt.",
+            "ro": "Folosiți autogara centrală ca bază pentru explorările voastre. Vizitați comorile istorice ale orașului vechi și muzeul unic al scoicilor la pas. Luați un autobuz local spre nord-vest pentru a vizita pitorescul sanctuar Vepric. Reveniți pe Riva pentru o după-amiază relaxantă lângă mare înainte de plecare.",
+            "en": "Use the central bus station as a base for your exploration. Visit the historical treasures of the old town and the unique shell museum comfortably on foot. Take a local bus heading northwest to visit the picturesque Vepric Sanctuary. Return to the Riva for a relaxing afternoon by the sea before continuing your journey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kačić-Platz",
+                "hu": "Kačić tér",
+                "ro": "Piața Kačić",
+                "en": "Kačić Square"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Kirche des Heiligen Markus",
+                "hu": "Szent Márk-templom",
+                "ro": "Biserica Sfântul Marcu",
+                "en": "St. Mark's Church"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Malakologisches Museum",
+                "hu": "Malakológiai Múzeum",
+                "ro": "Muzeul Malacologic",
+                "en": "Malacological Museum"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Riva Makarska",
+                "hu": "Makarskai Riva",
+                "ro": "Faleza Riva",
+                "en": "Makarska Riva"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Vepric-Heiligtum",
+                "hu": "Vepric-szentély",
+                "ro": "Sanctuarul Vepric",
+                "en": "Vepric Sanctuary"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurant Riva",
+                "tip": "Schnelle und gute mediterrane Küche."
+              },
+              {
+                "name": "Bäckerei Mlinar",
+                "tip": "Holen Sie sich ein Burek für unterwegs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Riva étterem",
+                "tip": "Gyors és jó mediterrán konyha."
+              },
+              {
+                "name": "Mlinar pékség",
+                "tip": "Vegyen egy bureket az útra."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurant Riva",
+                "tip": "Bucătărie mediteraneană rapidă și bună."
+              },
+              {
+                "name": "Brutăria Mlinar",
+                "tip": "Luați un burek pentru drum."
+              }
+            ],
+            "en": [
+              {
+                "name": "Riva Restaurant",
+                "tip": "Fast and good Mediterranean cuisine."
+              },
+              {
+                "name": "Mlinar Bakery",
+                "tip": "Grab a burek for the road."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Wartebereich Bahnhof",
+                "tip": "Oft im Schatten und windgeschützt.",
+                "emoji": "🚉"
+              },
+              {
+                "name": "Hinterhof-Cafés",
+                "tip": "Ruhige Ecken abseits der Riva.",
+                "emoji": "☕"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Váróterem",
+                "tip": "Gyakran árnyékos és szélvédett.",
+                "emoji": "🚉"
+              },
+              {
+                "name": "Belső udvari kávézók",
+                "tip": "Csendes sarkok távol a Rivától.",
+                "emoji": "☕"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sala de așteptare",
+                "tip": "Adesea la umbră și ferită de vânt.",
+                "emoji": "🚉"
+              },
+              {
+                "name": "Cafenele de curte",
+                "tip": "Colțuri liniștite departe de Riva.",
+                "emoji": "☕"
+              }
+            ],
+            "en": [
+              {
+                "name": "Station Waiting Area",
+                "tip": "Often shaded and sheltered from wind.",
+                "emoji": "🚉"
+              },
+              {
+                "name": "Courtyard Cafés",
+                "tip": "Quiet corners away from the Riva.",
+                "emoji": "☕"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Kiosk am Bahnhof",
+                "tip": "Internationale Zeitungen und Snacks."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pályaudvari újságos",
+                "tip": "Nemzetközi lapok és rágcsálnivalók."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chioșcul din autogară",
+                "tip": "Ziare internaționale și gustări."
+              }
+            ],
+            "en": [
+              {
+                "name": "Station Kiosk",
+                "tip": "International newspapers and snacks."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Busse verbinden den Hauptbahnhof mit den Küstendörfern.",
+              "Tickets können direkt beim Fahrer gekauft werden.",
+              "In der Hochsaison kann es auf der Küstenstraße zu Staus kommen.",
+              "Die meisten Sehenswürdigkeiten im Zentrum sind gut zu Fuß erreichbar.",
+              "Achten Sie auf die Abfahrtszeiten der letzten Busse am Abend."
+            ],
+            "hu": [
+              "Buszok kötik össze a főpályaudvart a tengerparti falvakkal.",
+              "Jegyeket közvetlenül a sofőrnél lehet vásárolni.",
+              "Főszezonban forgalmi dugók lehetnek a parti főúton.",
+              "A központ legtöbb látnivalója sétatávolságra van egymástól.",
+              "Figyeljen az utolsó esti buszok indulási idejére."
+            ],
+            "ro": [
+              "Autobuzele leagă gara principală de satele de coastă.",
+              "Biletele pot fi cumpărate direct de la șofer.",
+              "În plin sezon, pot apărea ambuteiaje pe drumul de coastă.",
+              "Majoritatea obiectivelor din centru sunt accesibile pe jos.",
+              "Verificați orele de plecare ale ultimelor autobuze seara."
+            ],
+            "en": [
+              "Buses connect the main station with coastal villages.",
+              "Tickets can be purchased directly from the driver.",
+              "During high season, traffic jams on the coastal road are common.",
+              "Most sights in the center are within easy walking distance.",
+              "Check the departure times for the last buses in the evening."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom Kačić-Platz ist es nur ein kurzer Fußweg zur nächsten Haltestelle. Der Bus bringt Sie trocken in die Nähe der Markuskirche.\n\nMittags ist das Malakologische Museum die perfekte Endstation. Die Wartezeit auf den nächsten Bus verbringen Sie gemütlich zwischen den Exponaten.\n\nNachmittags bringt Sie die Linie zur Riva. Von der Haltestelle sind es nur wenige Meter unter das Vordach eines Cafés.\n\nDer Tag endet mit der Fahrt zum Vepric-Heiligtum. Die Busse fahren zuverlässig, und die kurze Wartezeit lässt sich mit einem Schirm gut überbrücken.",
+            "hu": "A Kačić térről csak egy rövid séta a legközelebbi megálló. A busz szárazon viszi a Szent Márk-templom közelébe.\n\nDélben a Malakológiai Múzeum a tökéletes végállomás. A következő buszra való várakozást kellemesen töltheti a kiállítási tárgyak között.\n\nDélután a járat a Rivához viszi. A megállótól csak pár méter egy kávézó előtetője.\n\nA nap a Vepric-szentély felé tartó úttal zárul. A buszok megbízhatóan járnak, a rövid várakozás esernyővel kibírható.",
+            "ro": "De la Piața Kačić este doar o scurtă plimbare până la cea mai apropiată stație. Autobuzul vă duce la adăpost lângă Biserica Sf. Marcu.\n\nLa prânz, Muzeul Malacologic este destinația ideală. Timpul de așteptare pentru următorul autobuz trece repede printre exponate.\n\nDupă-amiaza, linia vă duce pe faleza Riva. De la stație sunt doar câțiva metri până la copertina unei cafenele.\n\nZiua se încheie cu drumul spre sanctuarul Vepric. Autobuzele circulă regulat, iar așteptarea scurtă se poate face sub umbrelă.",
+            "en": "It's just a short walk from Kačić Square to the nearest stop. The bus keeps you dry on your way to St. Mark's Church.\n\nAt noon, the Malacological Museum is the perfect stop. Spend the waiting time for the next bus comfortably among the exhibits.\n\nIn the afternoon, take the line to the Riva. From the bus stop, it's only a few meters to the shelter of a cafe awning.\n\nThe day concludes with a trip to Vepric Sanctuary. Buses are reliable, and the short wait is easily managed with an umbrella."
+          },
+          "stops": [
+            {
+              "name": "Kačić Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bushaltestellen mit Unterstand.",
+                "hu": "Használja a fedett buszmegállókat.",
+                "ro": "Folosiți stațiile de autobuz cu adăpost.",
+                "en": "Use the bus stops that have shelters."
+              }
+            },
+            {
+              "name": "St. Mark's Church",
+              "tip_5lang": {
+                "de": "Kurze Sprints zwischen Bus und Kircheneingang.",
+                "hu": "Rövid futás a busz és a templom bejárata között.",
+                "ro": "Scurtă fugă între autobuz și intrarea în biserică.",
+                "en": "Short sprints between the bus and the church entrance."
+              }
+            },
+            {
+              "name": "Malacological Museum",
+              "tip_5lang": {
+                "de": "Fragen Sie den Fahrer nach der nächsten Haltestelle.",
+                "hu": "Kérdezze a sofőrt a legközelebbi megállóról.",
+                "ro": "Întrebați șoferul care este cea mai apropiată stație.",
+                "en": "Ask the driver for the closest stop to the museum."
+              }
+            },
+            {
+              "name": "Makarska Riva",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle; viele Cafés zum Unterstellen.",
+                "hu": "Központi megálló; sok kávézó van a közelben.",
+                "ro": "Stație centrală; multe cafenele pentru adăpost.",
+                "en": "Central stop; many cafes nearby for shelter."
+              }
+            },
+            {
+              "name": "Vepric Sanctuary",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt an der Einfahrt zum Gelände.",
+                "hu": "A busz közvetlenül a terület bejáratánál áll meg.",
+                "ro": "Autobuzul oprește chiar la intrarea în complex.",
+                "en": "The bus stops right at the entrance to the grounds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie eine Fahrplan-App herunter, um Wartezeiten im Regen zu minimieren.",
+              "Halten Sie Kleingeld oder eine Karte für das Ticket bereit.",
+              "Busse können bei starkem Regen etwas Verspätung haben.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zwischen den Haltestellen."
+            ],
+            "hu": [
+              "Töltsön le menetrend-alkalmazást a várakozás minimalizálásához.",
+              "Készítsen elő aprópénzt vagy kártyát a jegyhez.",
+              "Erős esőben a buszoknak lehet némi késése.",
+              "Viseljen vízálló ruhát a megállók közötti gyalogláshoz."
+            ],
+            "ro": [
+              "Descărcați o aplicație cu programul pentru a minimiza așteptarea.",
+              "Pregătiți mărunțiș sau un card pentru bilet.",
+              "Autobuzele pot avea întârzieri în caz de ploaie torențială.",
+              "Purtați haine impermeabile pentru drumul dintre stații."
+            ],
+            "en": [
+              "Download a schedule app to minimize waiting in the rain.",
+              "Have small change or a card ready for the bus ticket.",
+              "Buses might have slight delays during heavy rainfall.",
+              "Wear waterproof clothing for the walks between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Kačić-Platz ist im Wintermorgenlicht glasklar. Der beheizte Bus bietet einen warmen Start in den Tag.\n\nMittags erreichen Sie bequem das Malakologische Museum. Die kurzen Wege zwischen Haltestelle und Museum sind auch bei Kälte kein Problem.\n\nNachmittags geht es zur Riva. Die Sonne wärmt durch die Fensterscheiben des Busses, während Sie die Aussicht genießen.\n\nDer Tag endet beim Vepric-Heiligtum. Achten Sie auf den Winterfahrplan, da einige Linien abends seltener verkehren.",
+            "hu": "A Kačić tér üvegtiszta a téli reggeli fényben. A fűtött busz meleg kezdést biztosít a naphoz.\n\nDélben kényelmesen eléri a Malakológiai Múzeumot. A megálló és a múzeum közötti rövid távolság hidegben sem probléma.\n\nDélután irány a Riva. A nap melegít a busz ablakán keresztül, miközben élvezi a kilátást.\n\nA nap a Vepric-szentélynél zárul. Ügyeljen a téli menetrendre, mert egyes járatok este ritkábban járnak.",
+            "ro": "Piața Kačić este clară ca cristalul în lumina dimineții de iarnă. Autobuzul încălzit oferă un start cald zilei.\n\nLa prânz, ajungeți confortabil la Muzeul Malacologic. Distanțele scurte dintre stație și muzeu nu sunt o problemă nici pe frig.\n\nDupă-amiaza mergem pe faleza Riva. Soarele încălzește prin geamurile autobuzului în timp ce admirați peisajul.\n\nZiua se termină la sanctuarul Vepric. Atenție la orarul de iarnă, unele linii circulă mai rar seara.",
+            "en": "Kačić Square is crystal clear in the winter morning light. The heated bus offers a warm and cozy start to your day.\n\nAt noon, you can easily reach the Malacological Museum. The short distances between the stop and the museum are manageable even in the cold.\n\nIn the afternoon, head to the Riva. The sun warms you through the bus windows while you enjoy the coastal views.\n\nThe day concludes at Vepric Sanctuary. Be sure to check the winter schedule, as some lines run less frequently in the evening."
+          },
+          "stops": [
+            {
+              "name": "Kačić Square",
+              "tip_5lang": {
+                "de": "Warten Sie in einem nahen Café, bis der Bus kommt.",
+                "hu": "Várjon egy közeli kávézóban, amíg jön a busz.",
+                "ro": "Așteptați într-o cafenea apropiată până vine autobuzul.",
+                "en": "Wait in a nearby cafe until the bus is due."
+              }
+            },
+            {
+              "name": "St. Mark's Church",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle mit guter Anbindung.",
+                "hu": "Központi megálló jó összeköttetésekkel.",
+                "ro": "Stație centrală cu conexiuni bune.",
+                "en": "Central stop with good connections to other lines."
+              }
+            },
+            {
+              "name": "Malacological Museum",
+              "tip_5lang": {
+                "de": "Haltestelle 'Franjevački samostan' nutzen.",
+                "hu": "Használja a 'Franjevački samostan' megállót.",
+                "ro": "Folosiți stația 'Franjevački samostan'.",
+                "en": "Use the 'Franjevački samostan' stop for the museum."
+              }
+            },
+            {
+              "name": "Makarska Riva",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht aus dem warmen Bus.",
+                "hu": "Élvezze a kilátást a meleg buszból.",
+                "ro": "Bucurați-vă de priveliște din autobuzul cald.",
+                "en": "Enjoy the coastal views from the warm bus."
+              }
+            },
+            {
+              "name": "Vepric Sanctuary",
+              "tip_5lang": {
+                "de": "Letzte Rückfahrt vor Einbruch der Dunkelheit prüfen.",
+                "hu": "Ellenőrizze az utolsó visszautat sötétedés előtt.",
+                "ro": "Verificați ultima cursă de întoarcere înainte de seară.",
+                "en": "Check the last return trip before darkness falls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den speziellen Winterfahrplan (Reduzierter Takt).",
+              "Die Busse sind gut beheizt; ideal zum Aufwärmen zwischen den Stopps.",
+              "Nutzen Sie die Hauptlinien (Richtung Split oder Dubrovnik) für Vepric.",
+              "Tragen Sie eine Mütze gegen den kalten Wind an den Haltestellen."
+            ],
+            "hu": [
+              "Ellenőrizze a speciális téli menetrendet (ritkább járatok).",
+              "A buszok jól fűtöttek; ideálisak a felmelegedéshez a megállók között.",
+              "Használja a fővonalakat (Split vagy Dubrovnik felé) Veprichez.",
+              "Viseljen sapkát a megállókban fújó hideg szél ellen."
+            ],
+            "ro": [
+              "Verificați programul special de iarnă (frecvență redusă).",
+              "Autobuzele sunt bine încălzite; ideale pentru încălzire între opriri.",
+              "Folosiți liniile principale (spre Split sau Dubrovnik) pentru Vepric.",
+              "Purtați căciulă împotriva vântului rece din stații."
+            ],
+            "en": [
+              "Check the special winter schedule (reduced frequency).",
+              "Buses are well-heated; ideal for warming up between stops.",
+              "Use the main regional lines (towards Split/Dubrovnik) for Vepric.",
+              "Wear a warm hat against the cold wind at the bus stops."
+            ]
+          }
+        }
       }
     }
   },

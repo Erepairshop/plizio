@@ -290,6 +290,412 @@
           "Many shops close between 1:30 PM and 4:30 PM for the afternoon siesta.",
           "Lecce is beautifully lit at night; a post-dinner stroll is a must."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag an der Porta Napoli und tauchen Sie ein in das barocke Herz von Lecce. Am Vormittag bestaunen Sie die Basilika Santa Croce, bevor Sie mittags die Harmonie der Piazza del Duomo genießen. Der Nachmittag steht im Zeichen der römischen Antike mit dem Amphitheater und dem versteckten Theater. Beenden Sie den Tag kulturell im MUST-Museum in einem historischen Ambiente.",
+            "hu": "Kezdje a napot a Porta Napoli kapujánál, majd merüljön el Lecce barokk szívében. Délelőtt csodálja meg a Santa Croce bazilikát, délben pedig élvezze a Piazza del Duomo harmóniáját. A délután a római antikvitás jegyében telik az amfiteátrum és a rejtett színház felfedezésével. Zárja a napot kulturális élményekkel a MUST múzeumban, egy történelmi épület falai között.",
+            "ro": "Începeți ziua la Porta Napoli și scufundați-vă în inima barocă a orașului Lecce. Dimineața admirați Basilica Santa Croce, iar la prânz bucurați-vă de armonia din Piazza del Duomo. După-amiaza este dedicată antichității romane, cu amfiteatrul și teatrul ascuns. Încheiați ziua cultural la muzeul MUST, găzduit într-un cadru istoric deosebit.",
+            "en": "Start your day at Porta Napoli and dive into the Baroque heart of Lecce. In the morning, marvel at the Basilica of Santa Croce before enjoying the harmony of Piazza del Duomo at noon. The afternoon is dedicated to Roman antiquity with the amphitheater and the hidden theater. Conclude your day with a cultural visit to the MUST museum set in a historic environment."
+          },
+          "stops": [
+            {
+              "name": "Porta Napoli",
+              "tip_5lang": {
+                "de": "Bewundern Sie den Triumphbogen, der zu Ehren von Karl V. errichtet wurde.",
+                "hu": "Csodálja meg a V. Károly tiszteletére emelt diadalívet.",
+                "ro": "Admirați arcul de triumf ridicat în cinstea lui Carol al V-lea.",
+                "en": "Admire the triumphal arch built in honor of Charles V."
+              }
+            },
+            {
+              "name": "Basilica di Santa Croce",
+              "tip_5lang": {
+                "de": "Suchen Sie nach den detaillierten Tierfiguren an der Barockfassade.",
+                "hu": "Keresse meg a részletgazdag állatfigurákat a barokk homlokzaton.",
+                "ro": "Căutați figurile de animale detaliate de pe fațada barocă.",
+                "en": "Look for the detailed animal figures on the Baroque facade."
+              }
+            },
+            {
+              "name": "Piazza del Duomo",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe dieses geschlossenen Platzes, eines der schönsten Italiens.",
+                "hu": "Élvezze Olaszország egyik legszebb zárt terének nyugalmát.",
+                "ro": "Bucurați-vă de liniștea acestei piețe închise, una dintre cele mai frumoase din Italia.",
+                "en": "Enjoy the tranquility of this enclosed square, one of Italy's most beautiful."
+              }
+            },
+            {
+              "name": "Anfiteatro Romano",
+              "tip_5lang": {
+                "de": "Sehen Sie sich die Überreste der römischen Gladiatorenarena unter dem Platz an.",
+                "hu": "Tekintse meg a római gladiátoraréna maradványait a tér szintje alatt.",
+                "ro": "Vedeți rămășițele arenei romane de gladiatori de sub nivelul pieței.",
+                "en": "View the remains of the Roman gladiator arena below square level."
+              }
+            },
+            {
+              "name": "Teatro Romano",
+              "tip_5lang": {
+                "de": "Ein verstecktes Juwel in den Gassen, das oft weniger überlaufen ist.",
+                "hu": "Rejtett gyöngyszem a sikátorok között, amely gyakran kevésbé zsúfolt.",
+                "ro": "O bijuterie ascunsă printre alei, adesea mai puțin aglomerată.",
+                "en": "A hidden gem among the alleys, often less crowded than the amphitheater."
+              }
+            },
+            {
+              "name": "MUST - Museo Storico",
+              "tip_5lang": {
+                "de": "Entdecken Sie die moderne Kunst und Stadtgeschichte in einem alten Kloster.",
+                "hu": "Fedezze fel a modern művészetet és a város történelmét egy régi kolostorban.",
+                "ro": "Descoperiți arta modernă și istoria orașului într-o veche mănăstire.",
+                "en": "Discover modern art and city history housed in an old monastery."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pasticciotto Leccese",
+                "tip": "Probieren Sie das warme Mürbeteiggebäck mit Puddingfüllung bei Caffè Alvino."
+              },
+              {
+                "name": "Rustico Leccese",
+                "tip": "Ein herzhaftes Blätterteiggebäck mit Mozzarella und Tomate, ideal für den kleinen Hunger."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pasticciotto Leccese",
+                "tip": "Kóstolja meg a meleg, krémmel töltött omlós tésztát a Caffè Alvino-ban."
+              },
+              {
+                "name": "Rustico Leccese",
+                "tip": "Sós leveles tészta mozzarellával és paradicsommal, tökéletes tízórai."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pasticciotto Leccese",
+                "tip": "Gustați produsul de patiserie cald umplut cu cremă la Caffè Alvino."
+              },
+              {
+                "name": "Rustico Leccese",
+                "tip": "Un foietaj sărat cu mozzarella și roșii, ideal pentru o gustare rapidă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pasticciotto Leccese",
+                "tip": "Try the warm shortcrust pastry filled with custard at Caffè Alvino."
+              },
+              {
+                "name": "Rustico Leccese",
+                "tip": "A savory puff pastry with mozzarella and tomato, perfect for a quick snack."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Villa Comunale",
+                "tip": "Ein ruhiger Stadtgarten für eine Pause im Schatten.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Jüdisches Viertel",
+                "tip": "Stille Gassen abseits der Haupttouristenströme.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Villa Comunale",
+                "tip": "Csendes városi kert egy árnyékos pihenőhöz.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Zsidó negyed",
+                "tip": "Csendes sikátorok a fő turistaútvonalaktól távol.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Villa Comunale",
+                "tip": "O grădină publică liniștită pentru o pauză la umbră.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Cartierul Evreiesc",
+                "tip": "Alei silențioase departe de fluxurile principale de turiști.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Villa Comunale",
+                "tip": "A quiet city garden for a break in the shade.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Jewish Quarter",
+                "tip": "Silent alleys away from the main tourist crowds.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Cartapesta-Werkstätten",
+                "tip": "Traditionelle Pappmaché-Kunstwerke in der Via Palmieri."
+              },
+              {
+                "name": "Pietra Leccese",
+                "tip": "Kleine Skulpturen aus dem weichen, lokalen Kalkstein."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Papírmasé műhelyek",
+                "tip": "Hagyományos papírmasé művészeti alkotások a Via Palmieri-n."
+              },
+              {
+                "name": "Pietra Leccese",
+                "tip": "Kisebb szobrok a puha, helyi mészkőből faragva."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ateliere de Cartapesta",
+                "tip": "Opere de artă tradiționale din papier-mâché pe Via Palmieri."
+              },
+              {
+                "name": "Pietra Leccese",
+                "tip": "Mici sculpturi realizate din piatra calcaroasă locală moale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cartapesta Workshops",
+                "tip": "Traditional paper-mâché artworks found in Via Palmieri."
+              },
+              {
+                "name": "Pietra Leccese",
+                "tip": "Small sculptures carved from the soft, local limestone."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die unebenen Steinplatten (Chianche) der Altstadt.",
+              "Die meisten Kirchen verlangen eine angemessene Kleidung (Schultern bedeckt).",
+              "Viele Geschäfte schließen zwischen 13:30 und 16:30 Uhr für die Mittagspause.",
+              "Lecce ist abends wunderschön beleuchtet, ein Spaziergang nach dem Abendessen ist Pflicht."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt az óváros egyenetlen kőlapjai (chianche) miatt.",
+              "A legtöbb templom megköveteli a megfelelő öltözetet (fedett vállak).",
+              "Sok üzlet bezár 13:30 és 16:30 között a délutáni szieszta idejére.",
+              "Lecce este gyönyörűen ki van világítva, a vacsora utáni séta kötelező program."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru dalele de piatră neregulate (chianche) din centrul vechi.",
+              "Majoritatea bisericilor necesită o îmbrăcăminte adecvată (umerii acoperiți).",
+              "Multe magazine se închid între 13:30 și 16:30 pentru pauza de prânz.",
+              "Lecce este luminat superb seara; o plimbare după cină este obligatorie."
+            ],
+            "en": [
+              "Wear comfortable shoes for the uneven stone slabs (chianche) of the old town.",
+              "Most churches require appropriate clothing (shoulders covered).",
+              "Many shops close between 1:30 PM and 4:30 PM for the afternoon siesta.",
+              "Lecce is beautifully lit at night; a post-dinner stroll is a must."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir beginnen den Tag unter dem schützenden Bogen der Porta Napoli. Die barocke Pracht von Santa Croce glänzt im Regen und wirkt besonders geheimnisvoll. Mittags bietet der weitläufige Dom einen trockenen Rückzugsort inmitten der Altstadt. Am Nachmittag werfen wir einen kurzen Blick auf das Amphitheater, bevor wir den Tag gemütlich im MUST-Museum ausklingen lassen, geschützt vor dem nassen Wetter.",
+            "hu": "Reggel a Porta Napoli kapuja alatt keresünk menedéket a zápor elől. A Santa Croce bazilika díszes homlokzata különleges fényben ragyog a vizes kövön. Délben a Piazza del Duomo belső terei nyújtanak száraz pihenőt. Délután az Amfiteátrumot csak röviden nézzük meg, majd a MUST múzeum termeiben zárjuk a napot, élvezve a művészetet és a biztonságos, fedett környezetet az esti esőben.",
+            "ro": "Începem ziua sub arcul Porții Napoli, feriți de ploaia de dimineață. Fațada bazilicii Santa Croce strălucește spectaculos pe piatra umedă. La prânz, interiorul domului ne oferă un refugiu spațios și acoperit. După-amiaza, trecem rapid pe lângă teatrele antice, terminând vizita la muzeul MUST, unde ne bucurăm de istoria orașului într-un mediu cald și uscat, departe de stropii de seară.",
+            "en": "We start at Porta Napoli, using its grand arch as a shield from the morning rain. The intricate carvings of Santa Croce look even more dramatic against the grey sky. At noon, the spacious Duomo provides a perfect indoor retreat. In the afternoon, we take a quick look at the ancient theaters before heading to the MUST museum, where we spend the rainy evening exploring Lecce's history in comfort."
+          },
+          "stops": [
+            {
+              "name": "Porta Napoli",
+              "tip_5lang": {
+                "de": "Nutzen Sie den breiten Bogen als Unterstand bei starkem Regen.",
+                "hu": "Használja a széles boltívet menedékként hirtelen felhőszakadás esetén.",
+                "ro": "Folosiți arcul lat ca adăpost în cazul unei ploi torențiale.",
+                "en": "Use the wide arch as a shelter during sudden heavy downpours."
+              }
+            },
+            {
+              "name": "Basilica di Santa Croce",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Barockdetails im Inneren, während es draußen regnet.",
+                "hu": "Csodálja meg a barokk belső részleteket, amíg kint esik az eső.",
+                "ro": "Admirați detaliile baroce din interior în timp ce afară plouă.",
+                "en": "Admire the baroque interior details while it rains outside."
+              }
+            },
+            {
+              "name": "Piazza del Duomo",
+              "tip_5lang": {
+                "de": "Der Platz ist bei Regen rutschig; betreten Sie direkt die Kathedrale.",
+                "hu": "A tér esőben csúszós; menjen be egyenesen a katedrálisba.",
+                "ro": "Piața este alunecoasă pe ploaie; intrați direct în catedrală.",
+                "en": "The square is slippery when wet; enter the cathedral directly."
+              }
+            },
+            {
+              "name": "Anfiteatro Romano",
+              "tip_5lang": {
+                "de": "Betrachten Sie die Ruinen von den überdachten Arkaden am Platzrand.",
+                "hu": "Tekintse meg a romokat a tér szélén található fedett árkádok alól.",
+                "ro": "Priviți ruinele de sub arcadele acoperite de la marginea pieței.",
+                "en": "View the ruins from the covered arcades at the edge of the square."
+              }
+            },
+            {
+              "name": "Teatro Romano",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp; die engen Gassen bieten hier etwas Windschutz.",
+                "hu": "Rövid megálló; a szűk utcák itt némi szélfogót biztosítanak.",
+                "ro": "O oprire scurtă; străzile înguste oferă protecție împotriva vântului.",
+                "en": "A quick stop; narrow streets provide some wind protection here."
+              }
+            },
+            {
+              "name": "MUST - Museo Storico",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den späten Nachmittag trocken zu verbringen.",
+                "hu": "Tökéletes hely a késő délután szárazon történő eltöltéséhez.",
+                "ro": "Locul perfect pentru a petrece după-amiaza târzie la adăpost.",
+                "en": "Perfect place to spend the late afternoon in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht: Der Kalkstein in Lecce wird bei Nässe extrem rutschig.",
+              "Nutzen Sie Kirchenbesichtigungen, um stärkere Regengüsse abzuwarten.",
+              "Ein kleiner Regenschirm ist in den engen Gassen praktischer als ein großer.",
+              "Viele Cafés in der Altstadt haben überdachte Innenhöfe."
+            ],
+            "hu": [
+              "Vigyázat: Lecce mészkő burkolata vizesen rendkívül csúszóssá válik.",
+              "Tervezze a templomlátogatásokat a nagyobb záporok idejére.",
+              "A szűk utcákban a kis esernyő praktikusabb, mint a hatalmas boternyő.",
+              "Az óváros számos kávézója rendelkezik fedett belső udvarral."
+            ],
+            "ro": [
+              "Atenție: Piatra de var din Lecce devine extrem de alunecoasă când este udă.",
+              "Planificați vizitele la biserici în timpul averselor mai puternice.",
+              "O umbrelă mică este mai practică în străzile înguste decât una mare.",
+              "Multe cafenele din centrul vechi au curți interioare acoperite."
+            ],
+            "en": [
+              "Caution: Lecce's limestone pavement becomes extremely slippery when wet.",
+              "Schedule church visits during the heaviest downpours to stay dry.",
+              "A small umbrella is more practical in narrow alleys than a large one.",
+              "Many cafes in the old town feature covered inner courtyards."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Morgen beginnt an der Porta Napoli, wo das Winterlicht die goldenen Töne des Kalksteins betont. Die Basilika Santa Croce bietet eine ruhige, andächtige Zuflucht vor dem Wind. Mittags genießen wir die milde Sonne auf der Piazza del Duomo. Da es früh dunkel wird, verbringen wir den späten Nachmittag im MUST-Museum und bewundern anschließend die stimmungsvoll beleuchtete Altstadt am Abend.",
+            "hu": "A hűvös reggel a Porta Napoli kapujánál kezdődik, ahol a téli fények kiemelik a mészkő arany tónusait. A Santa Croce bazilika belseje csendes menedéket nyújt a szél elől. Délben a Piazza del Duomo tágas terén élvezzük a bágyadt napsütést. Mivel korán sötétedik, a délutánt a MUST múzeumban töltjük, majd az esti kivilágításban csodáljuk meg a kivilágított óvárost.",
+            "ro": "Dimineața răcoroasă începe la Porta Napoli, unde lumina de iarnă scoate în evidență tonurile aurii ale pietrei. Bazilica Santa Croce oferă un refugiu liniștit împotriva vântului. La prânz, ne bucurăm de soarele blând în Piazza del Duomo. Deoarece se întunecă devreme, petrecem după-amiaza la muzeul MUST, admirând apoi centrul vechi iluminat spectaculos seara.",
+            "en": "The crisp morning begins at Porta Napoli, where the winter light highlights the golden tones of the limestone. Santa Croce provides a quiet, peaceful refuge from the breeze. At noon, we enjoy the mild sun in Piazza del Duomo. Since it gets dark early, we spend the late afternoon at the MUST museum, then admire the beautifully illuminated old town in the evening."
+          },
+          "stops": [
+            {
+              "name": "Porta Napoli",
+              "tip_5lang": {
+                "de": "Das Tor fängt das warme Morgenlicht perfekt für Fotos ein.",
+                "hu": "A kapu tökéletesen befogja a meleg reggeli fényeket a fotózáshoz.",
+                "ro": "Poarta captează perfect lumina caldă a dimineții pentru fotografii.",
+                "en": "The gate catches the warm morning light perfectly for photos."
+              }
+            },
+            {
+              "name": "Basilica di Santa Croce",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier ruhiger; genießen Sie die Stille im Inneren.",
+                "hu": "Télen itt csendesebb minden; élvezze a belső nyugalmat.",
+                "ro": "Iarna este mai liniște aici; bucurați-vă de calmul din interior.",
+                "en": "It is quieter here in winter; enjoy the stillness inside."
+              }
+            },
+            {
+              "name": "Piazza del Duomo",
+              "tip_5lang": {
+                "de": "Suchen Sie ein sonniges Plätzchen auf dem weiten Platz.",
+                "hu": "Keressen egy napsütötte helyet a tágas téren.",
+                "ro": "Căutați un loc însorit în piața largă.",
+                "en": "Find a sunny spot in the wide square."
+              }
+            },
+            {
+              "name": "Anfiteatro Romano",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne wirft lange Schatten auf die Ruinen.",
+                "hu": "Az alacsonyan járó nap hosszú árnyékokat vet a romokra.",
+                "ro": "Soarele jos aruncă umbre lungi peste ruine.",
+                "en": "The low sun casts long shadows over the ruins."
+              }
+            },
+            {
+              "name": "Teatro Romano",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Theater vor 16 Uhr, bevor es im Schatten liegt.",
+                "hu": "Látogassa meg a színházat 16 óra előtt, mielőtt árnyékba kerül.",
+                "ro": "Vizitați teatrul înainte de ora 16:00, înainte de a intra în umbră.",
+                "en": "Visit the theater before 4 PM before it falls into shadow."
+              }
+            },
+            {
+              "name": "MUST - Museo Storico",
+              "tip_5lang": {
+                "de": "Ideal, wenn es draußen nach 17 Uhr kühl und dunkel wird.",
+                "hu": "Ideális, amikor 17 óra után odakint hűvös és sötét lesz.",
+                "ro": "Ideal când se face răcoare și întuneric afară după ora 17:00.",
+                "en": "Ideal when it gets cool and dark outside after 5 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 16:45 Uhr unter; planen Sie entsprechend.",
+              "In den engen Gassen kann es durch den Windzug kühl werden.",
+              "Kirchen sind oft kälter als draußen; behalten Sie die Jacke an.",
+              "Gönnen Sie sich eine heiße Schokolade in einem der historischen Cafés."
+            ],
+            "hu": [
+              "Télen a nap 16:45 körül nyugszik, tervezzen eszerint.",
+              "A szűk utcákban a huzat miatt hűvösebbnek érezheti az időt.",
+              "A templomok gyakran hidegebbek, mint a kinti levegő; ne vegye le a kabátot.",
+              "Kóstoljon meg egy forró csokoládét valamelyik történelmi kávézóban."
+            ],
+            "ro": [
+              "Soarele apune în jur de 16:45 iarna; planificați în consecință.",
+              "În străzile înguste se poate face destul de răcoare din cauza curentului.",
+              "Bisericile sunt adesea mai reci decât afară; nu vă scoateți jacheta.",
+              "Răsfățați-vă cu o ciocolată caldă într-una dintre cafenelele istorice."
+            ],
+            "en": [
+              "Sunset is around 4:45 PM in winter; plan your outdoor stops accordingly.",
+              "Narrow alleys can feel chilly due to wind tunnels; dress in layers.",
+              "Churches are often colder than the outside air; keep your jacket on.",
+              "Indulge in a hot chocolate at one of the historic cafes."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -556,6 +962,385 @@
           "Be careful with the white stone slabs; they can be very slippery when it rains.",
           "There are several bike rental shops near the train station."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Fahrrad erkunden Sie erst die Festung Karl V. und das Herz der Altstadt. Nach einer kurzen Pause am Piazza del Duomo führt Sie die Route aus der Stadt hinaus durch weite Olivenhaine zur byzantinischen Abtei Cerrate. Diese Tour verbindet barocke Pracht mit der typisch apulischen Landschaft. Am späten Nachmittag kehren Sie zurück, um die Kirche San Matteo zu bewundern.",
+            "hu": "Kerékpárral először az V. Károly várat és az óváros szívét fedezheti fel. Rövid pihenő után a Piazza del Duomo-nál az út kivezeti a városból, hatalmas olajfaligeteken át a bizánci Cerrate apátsághoz. Ez a túra ötvözi a barokk pompát a jellegzetes pugliai tájjal. Késő délután érkezik vissza a városba, hogy megcsodálja a San Matteo templomot.",
+            "ro": "Cu bicicleta veți explora mai întâi Castelul Carol al V-lea și inima centrului vechi. După o scurtă pauză în Piazza del Duomo, ruta vă scoate din oraș prin livezi întinse de măslini spre abbația bizantină Cerrate. Acest tur îmbină splendoarea barocă cu peisajul tipic apulian. După-amiaza târziu reveniți pentru a admira biserica San Matteo.",
+            "en": "By bike, you first explore the Charles V Castle and the heart of the old town. After a short break at Piazza del Duomo, the route takes you out of the city through vast olive groves to the Byzantine Abbey of Cerrate. This tour combines Baroque splendor with the typical Apulian landscape. In the late afternoon, return to admire the Church of San Matteo."
+          },
+          "stops": [
+            {
+              "name": "Castello di Carlo V",
+              "tip_5lang": {
+                "de": "Erkunden Sie die massiven Verteidigungsanlagen und das Papier-mâché-Museum im Inneren.",
+                "hu": "Fedezze fel a masszív védműveket és a belső papírmasé múzeumot.",
+                "ro": "Explorați fortificațiile masive și muzeul papier-mâché din interior.",
+                "en": "Explore the massive defensive walls and the paper-mâché museum inside."
+              }
+            },
+            {
+              "name": "Piazza del Duomo",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad am Rand ab, um den Platz in Ruhe zu Fuß zu besichtigen.",
+                "hu": "Hagyja a kerékpárt a szélén, és fedezze fel a teret gyalogosan.",
+                "ro": "Lăsați bicicleta la margine pentru a vizita piața pe jos în liniște.",
+                "en": "Park your bike at the edge to explore the square on foot calmly."
+              }
+            },
+            {
+              "name": "Porta Napoli",
+              "tip_5lang": {
+                "de": "Der ideale Ausgangspunkt für eine Fahrt entlang der alten Stadtmauer.",
+                "hu": "Ideális kiindulópont egy tekeréshez a régi városfal mentén.",
+                "ro": "Punctul de plecare ideal pentru o plimbare de-a lungul zidurilor vechi.",
+                "en": "The ideal starting point for a ride along the old city walls."
+              }
+            },
+            {
+              "name": "Abbazia di Santa Maria di Cerrate",
+              "tip_5lang": {
+                "de": "Eine lohnende Fahrt durch Olivenhaine zu dieser byzantinischen Perle.",
+                "hu": "Megéri a tekerés az olajfaligeteken át ehhez a bizánci gyöngyszemhez.",
+                "ro": "O plimbare care merită prin livezi de măslini până la această perlă bizantină.",
+                "en": "A rewarding ride through olive groves to this Byzantine gem."
+              }
+            },
+            {
+              "name": "Chiesa di San Matteo",
+              "tip_5lang": {
+                "de": "Bewundern Sie die ungewöhnliche konvexe und konkave Barockfassade.",
+                "hu": "Csodálja meg a szokatlan konvex és konkáv barokk homlokzatot.",
+                "ro": "Admirați fațada barocă neobișnuită, convexă și concavă.",
+                "en": "Admire the unusual convex and concave Baroque facade."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Caffè in ghiaccio con latte di mandorla",
+                "tip": "Eiskaffee mit Mandelsirup, das typische Sommergetränk aus Lecce."
+              },
+              {
+                "name": "Friselle",
+                "tip": "Zwieback-ähnliches Brot mit Tomaten und Olivenöl, perfekt für ein leichtes Mittagessen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Caffè in ghiaccio con latte di mandorla",
+                "tip": "Jegeskávé mandulatejjel, Lecce jellegzetes nyári hűsítője."
+              },
+              {
+                "name": "Friselle",
+                "tip": "Kétszersült kenyér paradicsommal és olívaolajjal, tökéletes könnyű ebéd."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Caffè in ghiaccio con latte di mandorla",
+                "tip": "Cafea cu gheață și lapte de migdale, băutura de vară tipică din Lecce."
+              },
+              {
+                "name": "Friselle",
+                "tip": "Pâine crocantă cu roșii și ulei de măsline, perfectă pentru un prânz ușor."
+              }
+            ],
+            "en": [
+              {
+                "name": "Caffè in ghiaccio con latte di mandorla",
+                "tip": "Iced coffee with almond milk, the typical summer drink of Lecce."
+              },
+              {
+                "name": "Friselle",
+                "tip": "Twice-baked bread with tomatoes and olive oil, perfect for a light lunch."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Olivenhaine bei Cerrate",
+                "tip": "Genießen Sie die Ruhe der Landschaft außerhalb der Stadt.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Viale dell'Università",
+                "tip": "Ein breiter Boulevard mit Radwegen und Schatten.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cerrate környéki olajfaligetek",
+                "tip": "Élvezze a vidéki táj nyugalmát a városon kívül.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Viale dell'Università",
+                "tip": "Széles körút kerékpárúttal és árnyas fákkal.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Livezile de măslini de lângă Cerrate",
+                "tip": "Bucurați-vă de liniștea peisajului din afara orașului.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Viale dell'Università",
+                "tip": "Un bulevard larg cu piste de biciclete și umbră.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Olive groves near Cerrate",
+                "tip": "Enjoy the tranquility of the countryside outside the city.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Viale dell'Università",
+                "tip": "A wide boulevard with bike paths and shade.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokales Olivenöl",
+                "tip": "Kaufen Sie direkt bei den Erzeugern in der Umgebung."
+              },
+              {
+                "name": "Keramik aus Grottaglie",
+                "tip": "Oft in kleinen Läden am Stadtrand zu finden."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi olívaolaj",
+                "tip": "Vásároljon közvetlenül a környékbeli termelőktől."
+              },
+              {
+                "name": "Grottaglie-i kerámia",
+                "tip": "Gyakran megtalálható a város szélén lévő kis üzletekben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline local",
+                "tip": "Cumpărați direct de la producătorii din împrejurimi."
+              },
+              {
+                "name": "Ceramică de Grottaglie",
+                "tip": "Adesea găsită în mici magazine de la marginea orașului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Olive Oil",
+                "tip": "Purchase directly from producers in the surrounding countryside."
+              },
+              {
+                "name": "Grottaglie Ceramics",
+                "tip": "Often found in small shops on the outskirts of the city."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Altstadt ist eine verkehrsberuhigte Zone (ZTL), ideal zum Radfahren.",
+              "Nehmen Sie genügend Wasser mit, wenn Sie die Stadt verlassen, es gibt wenig Schatten.",
+              "Achten Sie auf die weißen Steinplatten, die bei Regen sehr rutschig sein können.",
+              "Es gibt mehrere Fahrradverleihe in der Nähe des Bahnhofs."
+            ],
+            "hu": [
+              "Az óváros korlátozott forgalmi övezet (ZTL), ideális a kerékpározáshoz.",
+              "Vigyen magával elég vizet, ha elhagyja a várost, kevés az árnyék.",
+              "Vigyázzon a fehér kőlapokra, mert esőben nagyon csúszósak lehetnek.",
+              "Több kerékpárkölcsönző is található a vasútállomás közelében."
+            ],
+            "ro": [
+              "Centrul vechi este zonă cu trafic limitat (ZTL), ideală pentru bicicletă.",
+              "Luați suficientă apă când părăsiți orașul, există puțină umbră.",
+              "Atenție la dalele de piatră albă, pot fi foarte alunecoase când plouă.",
+              "Există mai multe centre de închirieri biciclete lângă gară."
+            ],
+            "en": [
+              "The old town is a limited traffic zone (ZTL), ideal for cycling.",
+              "Take enough water when leaving the city, as there is little shade.",
+              "Be careful with the white stone slabs; they can be very slippery when it rains.",
+              "There are several bike rental shops near the train station."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Castello di Carlo V, dessen dicke Mauern Schutz bieten. Die Fahrt zum Dom erfordert Vorsicht auf dem nassen Pflaster. Mittags radeln wir vorsichtig zur Porta Napoli, bevor wir uns auf den Weg zur Abbazia di Cerrate machen, wo wir das Innere erkunden. Den Tag beenden wir bei der Kirche San Matteo, wobei wir die Fahrt auf den glitschigen Steinen der Altstadt kurz halten.",
+            "hu": "A Castello di Carlo V várnál kezdünk, amelynek vastag falai védelmet nyújtanak. A Dómhoz vezető út óvatosságot igényel a vizes köveken. Délben a Porta Napoli felé tekerünk, majd az Abbazia di Cerrate felé vesszük az irányt, ahol a belső teret fedezzük fel. A napot a San Matteo templomnál zárjuk, rövidre fogva a tekerést az óváros csúszós utcáin.",
+            "ro": "Începem la Castello di Carlo V, ale cărui ziduri groase oferă protecție. Drumul spre Dom necesită prudență pe pavajul umed. La prânz pedalăm spre Porta Napoli, apoi ne îndreptăm spre Abbazia di Cerrate pentru a explora interiorul. Încheiem ziua la biserica San Matteo, limitând deplasarea pe străzile alunecoase din centrul vechi.",
+            "en": "We start at the Castle of Charles V, where thick walls offer shelter. The ride to the Duomo requires caution on the wet stones. At noon, we cycle to Porta Napoli before heading to the Abbey of Cerrate to explore its interior. We end the day at San Matteo Church, keeping the ride short on the slippery streets of the old town."
+          },
+          "stops": [
+            {
+              "name": "Castello di Carlo V",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad im überdachten Eingangsbereich ab.",
+                "hu": "Támassza le kerékpárját a fedett bejárati részen.",
+                "ro": "Lăsați bicicleta în zona de intrare acoperită.",
+                "en": "Park your bike in the covered entrance area."
+              }
+            },
+            {
+              "name": "Piazza del Duomo",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Bremsmanöver auf dem nassen Kalkstein.",
+                "hu": "Kerülje az erős fékezést a vizes mészkő burkolaton.",
+                "ro": "Evitați frânarea bruscă pe piatra de var umedă.",
+                "en": "Avoid sharp braking on the wet limestone pavement."
+              }
+            },
+            {
+              "name": "Porta Napoli",
+              "tip_5lang": {
+                "de": "Ein guter Ort für eine kurze Pause im Trockenen.",
+                "hu": "Jó hely egy rövid szünetre a szárazon.",
+                "ro": "Un loc bun pentru o scurtă pauză la adăpost.",
+                "en": "A good place for a short break in the dry."
+              }
+            },
+            {
+              "name": "Abbazia di Santa Maria di Cerrate",
+              "tip_5lang": {
+                "de": "Die ländliche Fahrt kann bei Regen matschig sein; Schutzbleche nutzen.",
+                "hu": "A vidéki út esőben sáros lehet; használjon sárvédőt.",
+                "ro": "Drumul rural poate fi noroios pe ploaie; folosiți apărători.",
+                "en": "The rural road can be muddy in the rain; use mudguards."
+              }
+            },
+            {
+              "name": "Chiesa di San Matteo",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad nah an die Fassade, um es etwas zu schützen.",
+                "hu": "Támassza a gépet a homlokzat mellé, hogy némi védelmet kapjon.",
+                "ro": "Sprijiniți bicicleta de fațadă pentru a o proteja puțin.",
+                "en": "Lean the bike near the facade for some protection."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Kleidung; der Fahrtwind kühlt bei Nässe stark aus.",
+              "Der leccesische Kalkstein ist für Radfahrer bei Regen wie Glatteis.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt durch die Altstadt.",
+              "Nutzen Sie Hauptstraßen statt der glatten, schmalen Gassen."
+            ],
+            "hu": [
+              "Viseljen vízálló ruhát; a menetszél esőben erősen lehűt.",
+              "A leccesei mészkő esőben olyan a bicikliseknek, mint a jégpálya.",
+              "Indulás előtt ellenőrizze a fékeket az óvárosi szakasz előtt.",
+              "Inkább a főutakat használja a sima, szűk sikátorok helyett."
+            ],
+            "ro": [
+              "Purtați haine impermeabile; vântul de mișcare răcește puternic pe ploaie.",
+              "Piatra de var din Lecce este ca gheața pentru bicicliști pe ploaie.",
+              "Verificați frânele înainte de a pleca prin centrul vechi.",
+              "Folosiți străzile principale în locul străzilor înguste și netede."
+            ],
+            "en": [
+              "Wear waterproof clothing; the wind chill is much higher when wet.",
+              "Lecce's limestone is like an ice rink for cyclists during rain.",
+              "Check your brakes before heading into the old town area.",
+              "Use main roads rather than the smooth, narrow side alleys."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Castello di Carlo V startet unsere Tour. Die Fahrt zum Dom ist bei der klaren Luft belebend. Mittags passieren wir die Porta Napoli und radeln hinaus zur Abbazia di Cerrate, wo wir die milde Wintersonne auf dem Land genießen. Wir kehren vor dem frühen Einbruch der Dunkelheit in die Stadt zurück und beenden den Tag an der Kirche San Matteo.",
+            "hu": "Friss téli reggel kezdjük a túrát a Castello di Carlo V-nél. A Dómhoz vezető út élénkítő a tiszta levegőn. Délben elhaladunk a Porta Napoli mellett, és kitekerünk az Abbazia di Cerrate-hoz, élvezve a vidéki enyhe téli napsütést. Még a sötétedés előtt visszaérünk a városba, és a napot a San Matteo templomnál zárjuk.",
+            "ro": "O dimineață proaspătă de iarnă la Castello di Carlo V dă startul turului nostru. Drumul spre Dom este revigorant în aerul curat. La prânz trecem de Porta Napoli și pedalăm spre Abbazia di Cerrate, bucurându-ne de soarele blând. Revenim în oraș înainte de lăsarea întunericului și încheiem ziua la biserica San Matteo.",
+            "en": "A fresh winter morning at the Castle of Charles V starts our tour. The ride to the Duomo is invigorating in the clear air. At noon, we pass Porta Napoli and cycle out to the Abbey of Cerrate, enjoying the mild winter sun in the countryside. We return to the city before the early sunset and end the day at San Matteo Church."
+          },
+          "stops": [
+            {
+              "name": "Castello di Carlo V",
+              "tip_5lang": {
+                "de": "Handschuhe sind für den Start am Morgen empfehlenswert.",
+                "hu": "A reggeli induláshoz ajánlott a kesztyű használata.",
+                "ro": "Se recomandă purtarea mănușilor pentru plecarea de dimineață.",
+                "en": "Gloves are recommended for the morning start."
+              }
+            },
+            {
+              "name": "Piazza del Duomo",
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Sicht ohne die üblichen Touristenmassen.",
+                "hu": "Élvezze a tágas kilátást a szokásos turistaáradat nélkül.",
+                "ro": "Bucurați-vă de vederea largă fără masele obișnuite de turiști.",
+                "en": "Enjoy the wide view without the usual tourist crowds."
+              }
+            },
+            {
+              "name": "Porta Napoli",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; das Licht steht hier am Mittag sehr gut.",
+                "hu": "Rövid fotómegálló; délben itt nagyon jók a fények.",
+                "ro": "Scurtă oprire foto; lumina este foarte bună aici la prânz.",
+                "en": "Short photo stop; the light is very good here at noon."
+              }
+            },
+            {
+              "name": "Abbazia di Santa Maria di Cerrate",
+              "tip_5lang": {
+                "de": "Die Fahrt über das Land bietet im Winter klare Fernsichten.",
+                "hu": "A vidéki tekerés télen tiszta tálati kilátást nyújt.",
+                "ro": "Plimbarea la țară oferă vederi clare la distanță iarna.",
+                "en": "The ride through the countryside offers clear distant views in winter."
+              }
+            },
+            {
+              "name": "Chiesa di San Matteo",
+              "tip_5lang": {
+                "de": "Achten Sie darauf, dass Ihr Fahrrad Licht für die Rückfahrt hat.",
+                "hu": "Ügyeljen rá, hogy legyen világítás a kerékpáron a visszajúthoz.",
+                "ro": "Asigurați-vă că bicicleta are lumini pentru drumul de întoarcere.",
+                "en": "Ensure your bike has lights for the return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Fahrtwind auf dem Weg zur Abbazia kann sehr kalt sein.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert (frühe Dämmerung).",
+              "Tragen Sie helle Kleidung, da die Sichtbarkeit im Winter schlechter ist.",
+              "Eine Thermoskanne mit Tee ist für die Pause an der Abbazia ideal."
+            ],
+            "hu": [
+              "Az Abbazia felé vezető úton a menetszél nagyon hideg lehet.",
+              "Ellenőrizze a világítást, mert korán sötétedik.",
+              "Viseljen világos ruhát, mert télen rosszabbak a látási viszonyok.",
+              "Egy termosz meleg tea ideális az Abbaziánál tartott pihenőhöz."
+            ],
+            "ro": [
+              "Vântul de mișcare pe drumul spre Abbazia poate fi foarte rece.",
+              "Verificați luminile bicicletei, deoarece se întunecă devreme.",
+              "Purtați haine deschise la culoare, vizibilitatea e mai redusă iarna.",
+              "Un termos cu ceai cald este ideal pentru pauza de la Abbazia."
+            ],
+            "en": [
+              "The wind on the open road to the Abbey can be very cold.",
+              "Ensure your bike lights are working for the early dusk.",
+              "Wear bright or reflective clothing for better visibility in winter.",
+              "A thermos with hot tea is ideal for the break at the Abbey."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -822,6 +1607,385 @@
           "The roads to the Cerrate Abbey are narrow; drive carefully.",
           "In peak season, a smaller rental car is an advantage for parking."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto starten Sie außerhalb bei der Abtei Cerrate, um den Vormittag entspannt im Grünen zu beginnen. Zurück in Lecce widmen Sie sich der Santa Croce Basilika und dem Schloss Karl V., die beide am Rand der Altstadt gut erreichbar sind. Nach einem Besuch im MUST-Museum lassen Sie den Tag auf dem prachtvollen Piazza del Duomo ausklingen, während die Stadt langsam zum Leben erwacht.",
+            "hu": "Autóval a városon kívüli Cerrate apátságnál kezd, hogy a délelőttöt nyugodtan, zöld környezetben indítsa. Lecce-be visszatérve a Santa Croce bazilikának és az V. Károly várnak szentelheti az időt, melyek az óváros szélén könnyen megközelíthetők. A MUST múzeumi látogatás után a napot a pompás Piazza del Duomo-n zárja, miközben a város lassan éledezni kezd.",
+            "ro": "Cu mașina începeți în afara orașului la Abbația Cerrate, pentru o dimineață relaxată în natură. Revenind în Lecce, vizitați Basilica Santa Croce și Castelul Carol al V-lea, ambele accesibile la marginea centrului vechi. După o vizită la muzeul MUST, încheiați ziua în splendida Piazza del Duomo, în timp ce orașul începe să prindă viață.",
+            "en": "By car, you start outside at the Abbey of Cerrate for a relaxed morning in the countryside. Returning to Lecce, dedicate your time to the Santa Croce Basilica and Charles V Castle, both easily accessible on the edge of the old town. After visiting the MUST museum, end your day at the magnificent Piazza del Duomo as the city slowly comes alive."
+          },
+          "stops": [
+            {
+              "name": "Abbazia di Santa Maria di Cerrate",
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses FAI-Anwesen mit seinen wunderschönen Fresken.",
+                "hu": "Látogassa meg ezt a gyönyörű freskókkal díszített FAI birtokot.",
+                "ro": "Vizitați această proprietate FAI cu frescele sale superbe.",
+                "en": "Visit this FAI property with its beautiful frescoes and history."
+              }
+            },
+            {
+              "name": "Basilica di Santa Croce",
+              "tip_5lang": {
+                "de": "Parken Sie außerhalb der Mauern und spazieren Sie ins Barockzentrum.",
+                "hu": "Parkoljon a falakon kívül, és sétáljon be a barokk központba.",
+                "ro": "Parcați în afara zidurilor și mergeți pe jos în centrul baroc.",
+                "en": "Park outside the walls and walk into the Baroque center."
+              }
+            },
+            {
+              "name": "Castello di Carlo V",
+              "tip_5lang": {
+                "de": "Direkt neben dem großen Parkplatz 'Oberdan' gelegen.",
+                "hu": "Közvetlenül a nagy 'Oberdan' parkoló mellett található.",
+                "ro": "Situat chiar lângă marea parcare 'Oberdan'.",
+                "en": "Located right next to the large 'Oberdan' parking area."
+              }
+            },
+            {
+              "name": "MUST - Museo Storico",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Fußweg von der Piazza Sant'Oronzo.",
+                "hu": "Használja ki a rövid sétát a Piazza Sant'Oronzo felől.",
+                "ro": "Profități de scurta plimbare dinspre Piazza Sant'Oronzo.",
+                "en": "Take advantage of the short walk from Piazza Sant'Oronzo."
+              }
+            },
+            {
+              "name": "Piazza del Duomo",
+              "tip_5lang": {
+                "de": "Ein letzter Blick auf den Glockenturm, bevor Sie die Stadt verlassen.",
+                "hu": "Egy utolsó pillantás a harangtoronyra, mielőtt elhagyná a várost.",
+                "ro": "O ultimă privire spre clopotniță înainte de a părăsi orașul.",
+                "en": "One last look at the bell tower before leaving the city."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Orecchiette con cime di rapa",
+                "tip": "Hausgemachte Pasta mit Stängelkohl, das Nationalgericht Apuliens."
+              },
+              {
+                "name": "Salice Salentino",
+                "tip": "Ein kräftiger Rotwein aus der Region, ideal zum Abendessen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Orecchiette con cime di rapa",
+                "tip": "Házias tészta tarlórépa levéllel, Puglia nemzeti étele."
+              },
+              {
+                "name": "Salice Salentino",
+                "tip": "Erős helyi vörösbor, amely tökéletes kísérője a vacsorának."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Orecchiette con cime di rapa",
+                "tip": "Paste făcute în casă cu frunze de napi, felul național al Pugliei."
+              },
+              {
+                "name": "Salice Salentino",
+                "tip": "Un vin roșu corpolent din regiune, ideal pentru cină."
+              }
+            ],
+            "en": [
+              {
+                "name": "Orecchiette con cime di rapa",
+                "tip": "Homemade pasta with turnip tops, the signature dish of Puglia."
+              },
+              {
+                "name": "Salice Salentino",
+                "tip": "A bold local red wine from the region, perfect for dinner."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "San Cataldo Strand",
+                "tip": "Nur 15 Minuten Fahrt zum Meer für einen Sonnenuntergang.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Klostergarten Cerrate",
+                "tip": "Ein Ort tiefer Stille inmitten alter Steine.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "San Cataldo tengerpart",
+                "tip": "Mindössze 15 perc autóút a tengerhez egy naplementéhez.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Cerrate kolostorkert",
+                "tip": "A mély csend helyszíne az ódon falak között.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Plaja San Cataldo",
+                "tip": "La doar 15 minute de condus până la mare pentru un apus.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Grădina mănăstirii Cerrate",
+                "tip": "Un loc de liniște profundă printre pietre vechi.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "San Cataldo Beach",
+                "tip": "Just a 15-minute drive to the sea for a sunset stroll.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Cerrate Monastery Garden",
+                "tip": "A place of deep silence amidst ancient stones.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "M.A.I.D.A. Lecce",
+                "tip": "Hochwertiges Kunsthandwerk und Designobjekte."
+              },
+              {
+                "name": "Enoteca Leccese",
+                "tip": "Große Auswahl an lokalen Weinen und Olivenölen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "M.A.I.D.A. Lecce",
+                "tip": "Kiváló minőségű kézműves termékek és dizájn tárgyak."
+              },
+              {
+                "name": "Enoteca Leccese",
+                "tip": "Helyi borok és olívaolajok széles választéka."
+              }
+            ],
+            "ro": [
+              {
+                "name": "M.A.I.D.A. Lecce",
+                "tip": "Produse de artizanat de înaltă calitate și obiecte de design."
+              },
+              {
+                "name": "Enoteca Leccese",
+                "tip": "O selecție largă de vinuri și uleiuri de măsline locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "M.A.I.D.A. Lecce",
+                "tip": "High-quality handicrafts and local design objects."
+              },
+              {
+                "name": "Enoteca Leccese",
+                "tip": "A wide selection of local wines and olive oils."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Befahren Sie niemals die Altstadt (ZTL), die Kameras sind überall.",
+              "Parken Sie am besten im 'Parcheggio Oberdan' oder am Bahnhof.",
+              "Die Straßen zum Cerrate-Aptei sind schmal, fahren Sie vorsichtig.",
+              "In der Hochsaison ist ein Mietwagen mit kleineren Maßen von Vorteil."
+            ],
+            "hu": [
+              "Soha ne hajtson be az óvárosba (ZTL), a kamerák mindenhol ott vannak.",
+              "A legjobb a 'Parcheggio Oberdan' vagy a vasútállomás melletti parkolás.",
+              "A Cerrate apátsághoz vezető utak keskenyek, vezessen óvatosan.",
+              "Főszezonban előnyösebb egy kisebb méretű bérautó a szűk utcák miatt."
+            ],
+            "ro": [
+              "Nu intrați niciodată cu mașina în centrul vechi (ZTL), camerele sunt peste tot.",
+              "Cel mai bine parcați în 'Parcheggio Oberdan' sau la gară.",
+              "Drumurile către Abbația Cerrate sunt înguste, conduceți cu atenție.",
+              "În plin sezon, o mașină de închiriat de dimensiuni mici este un avantaj."
+            ],
+            "en": [
+              "Never drive into the old town (ZTL); cameras are everywhere.",
+              "Best places to park are 'Parcheggio Oberdan' or near the train station.",
+              "The roads to the Cerrate Abbey are narrow; drive carefully.",
+              "In peak season, a smaller rental car is an advantage for parking."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir nutzen das Auto, um trocken zur Abbazia di Cerrate zu gelangen. Zurück in Lecce parken wir nah an der Basilika Santa Croce, um den Regenweg kurz zu halten. Mittags bietet das Castello di Carlo V festen Schutz, gefolgt vom Besuch des MUST-Museums am Nachmittag. Den Tag beenden wir mit einem kurzen Blick auf den Domplatz, bevor wir ins warme Auto zurückkehren.",
+            "hu": "Autóval szárazon jutunk el az Abbazia di Cerrate-hoz. Visszatérve Leccébe, a Santa Croce bazilika közelében parkolunk, hogy lerövidítsük az esőben megtett utat. Délben a Castello di Carlo V nyújt biztos menedéket, majd délután a MUST múzeum következik. A napot a Dóm tér rövid megtekintésével zárjuk, mielőtt visszatérnénk a meleg autóba.",
+            "ro": "Folosim mașina pentru a ajunge uscați la Abbazia di Cerrate. Revenind în Lecce, parcăm aproape de Santa Croce pentru a limita mersul prin ploaie. La prânz, Castello di Carlo V oferă un adăpost sigur, urmat de vizita la muzeul MUST. Încheiem ziua cu o scurtă privire în Piața Domului înainte de a ne întoarce în mașină.",
+            "en": "We use the car to reach the Abbey of Cerrate while staying dry. Back in Lecce, we park near Santa Croce to keep the walk in the rain short. At noon, the Castle of Charles V provides solid shelter, followed by a visit to the MUST museum. We end the day with a quick look at the Duomo square before returning to the warm car."
+          },
+          "stops": [
+            {
+              "name": "Abbazia di Santa Maria di Cerrate",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingangsbereich.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz.",
+                "ro": "Parcați cât mai aproape posibil de zona de intrare.",
+                "en": "Park as close as possible to the entrance area."
+              }
+            },
+            {
+              "name": "Basilica di Santa Croce",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser in der Nähe, um nasse Füße zu vermeiden.",
+                "hu": "Használjon közeli parkolóházakat, hogy elkerülje az elázást.",
+                "ro": "Folosiți parcări acoperite din apropiere pentru a evita ploaia.",
+                "en": "Use nearby parking garages to avoid getting wet feet."
+              }
+            },
+            {
+              "name": "Castello di Carlo V",
+              "tip_5lang": {
+                "de": "Im Inneren des Schlosses sind Sie gut vor dem Wetter geschützt.",
+                "hu": "A vár belsejében jól védve lesz az időjárástól.",
+                "ro": "În interiorul castelului sunteți bine protejat de vreme.",
+                "en": "Inside the castle, you are well protected from the weather."
+              }
+            },
+            {
+              "name": "MUST - Museo Storico",
+              "tip_5lang": {
+                "de": "Direkte Zufahrt fast bis zum Museum möglich (ZTL beachten).",
+                "hu": "Majdnem a múzeumig be lehet hajtani (ügyeljen a ZTL zónára).",
+                "ro": "Acces auto aproape până la muzeu (atenție la zona ZTL).",
+                "en": "Driving access is possible almost to the museum (watch for ZTL)."
+              }
+            },
+            {
+              "name": "Piazza del Duomo",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für ein Foto; der Platz wirkt im Regen gläsern.",
+                "hu": "Rövid kiszállás egy fotóra; a tér esőben tükröződik.",
+                "ro": "O scurtă coborâre pentru o poză; piața strălucește pe ploaie.",
+                "en": "Quick exit for a photo; the square looks like glass in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützen in den tiefer gelegenen Gassen der Altstadt.",
+              "Parken Sie außerhalb der ZTL und nutzen Sie kurze Wege zu den Highlights.",
+              "Lassen Sie keine nassen Regenschirme im Auto auf den Polstern liegen.",
+              "Die Sicht kann bei starkem Regen in den engen Einbahnstraßen schlecht sein."
+            ],
+            "hu": [
+              "Ügyeljen a tócsákra az óváros alacsonyabban fekvő utcáin.",
+              "Parkoljon a ZTL zónán kívül, és válassza a rövid gyalogutakat.",
+              "Ne hagyja a vizes esernyőt az autó ülésén.",
+              "Erős esőben a kilátás rossz lehet a szűk, egyirányú utcákban."
+            ],
+            "ro": [
+              "Atenție la bălți în străzile mai joase din centrul vechi.",
+              "Parcați în afara zonei ZTL și alegeți trasee scurte pe jos.",
+              "nu lăsați umbrelele ude pe bancheta mașinii.",
+              "Vizibilitatea poate fi redusă pe ploaie puternică în străzile înguste."
+            ],
+            "en": [
+              "Watch out for large puddles in the lower-lying old town streets.",
+              "Park outside the ZTL zone and use short walking routes to highlights.",
+              "Don't leave wet umbrellas on the car seats to avoid dampness.",
+              "Visibility can be poor in heavy rain within the narrow one-way streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Fahrt zur Abbazia di Cerrate am kühlen Wintermorgen ist dank Heizung angenehm. In Lecce angekommen, besichtigen wir Santa Croce und das Schloss. Mittags wärmen wir uns bei einer kurzen Fahrt durch die Stadt auf, bevor wir das MUST-Museum besuchen. Zum Abschluss genießen wir den Sonnenuntergang auf der Piazza del Duomo, bevor es am Abend merklich abkühlt.",
+            "hu": "Az Abbazia di Cerrate-hoz vezető út a hűvös téli reggelen a fűtésnek köszönhetően kellemes. Leccébe érve megtekintjük a Santa Croce-t és a várat. Délben egy rövid városi autózással melegszünk fel, mielőtt ellátogatnánk a MUST múzeumba. Végezetül élvezzük a naplementét a Piazza del Duomo-n, mielőtt este jelentősen lehűl az idő.",
+            "ro": "Drumul spre Abbazia di Cerrate în dimineața rece de iarnă este plăcut datorită încălzirii. Ajunși în Lecce, vizităm Santa Croce și castelul. La prânz ne încălzim cu o scurtă plimbare cu mașina prin oraș înainte de a vizita muzeul MUST. La final, ne bucurăm de apus în Piazza del Duomo înainte ca seara să se răcească semnificativ.",
+            "en": "The drive to the Abbey of Cerrate on a chilly winter morning is comfortable thanks to the car heater. In Lecce, we visit Santa Croce and the castle. At noon, we warm up during a short drive through town before visiting the MUST museum. To finish, we enjoy the sunset at Piazza del Duomo before the evening temperature drops."
+          },
+          "stops": [
+            {
+              "name": "Abbazia di Santa Maria di Cerrate",
+              "tip_5lang": {
+                "de": "Das Auto bietet einen warmen Rückzugsort nach der Besichtigung.",
+                "hu": "Az autó meleg menedéket nyújt a látogatás után.",
+                "ro": "Mașina oferă un refugiu cald după vizită.",
+                "en": "The car provides a warm retreat after the visit."
+              }
+            },
+            {
+              "name": "Basilica di Santa Croce",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am Vormittag, wenn sie am wärmsten ist.",
+                "hu": "Látogassa meg a templomot délelőtt, amikor a legmelegebb.",
+                "ro": "Vizitați biserica dimineața, când este cel mai cald.",
+                "en": "Visit the church in the morning when it's at its warmest."
+              }
+            },
+            {
+              "name": "Castello di Carlo V",
+              "tip_5lang": {
+                "de": "Parkplätze in der Nähe sind im Winter leichter zu finden.",
+                "hu": "Télen könnyebb parkolóhelyet találni a közelben.",
+                "ro": "Locurile de parcare din apropiere sunt mai ușor de găsit iarna.",
+                "en": "Parking spots nearby are easier to find in winter."
+              }
+            },
+            {
+              "name": "MUST - Museo Storico",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Ort für die kühlen Nachmittagsstunden.",
+                "hu": "Jól fűtött hely a hűvös délutáni órákra.",
+                "ro": "Un loc bine încălzit pentru orele răcoroase de după-amiază.",
+                "en": "A well-heated place for the chilly afternoon hours."
+              }
+            },
+            {
+              "name": "Piazza del Duomo",
+              "tip_5lang": {
+                "de": "Bleiben Sie für das Abendlicht; die Beleuchtung ist herrlich.",
+                "hu": "Maradjon az esti fényekig; a kivilágítás pompás.",
+                "ro": "Rămâneți pentru luminile de seară; iluminatul este superb.",
+                "en": "Stay for the evening light; the illumination is magnificent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Wintersonne kann beim Fahren in den engen Gassen blenden.",
+              "Achten Sie auf die kürzeren Öffnungszeiten einiger Sehenswürdigkeiten.",
+              "Heizen Sie das Auto vor, wenn Sie nach dem Museumsbesuch zurückkehren.",
+              "Einige Parkbereiche sind im Winter gebührenfrei (Schilder prüfen)."
+            ],
+            "hu": [
+              "A téli nap vezetés közben vakíthat a szűk utcákban.",
+              "Ügyeljen egyes látnivalók rövidebb téli nyitvatartására.",
+              "Fűtse fel az autót, mielőtt a múzeumlátogatás után visszatérne.",
+              "Néhány parkolóhely télen ingyenes lehet (ellenőrizze a táblákat)."
+            ],
+            "ro": [
+              "Soarele de iarnă poate fi orbitor la volan în străzile înguste.",
+              "Atenție la programul de iarnă mai scurt al unor obiective.",
+              "Încălziți mașina înainte de a vă întoarce de la muzeu.",
+              "Unele zone de parcare pot fi gratuite iarna (verificați indicatoarele)."
+            ],
+            "en": [
+              "The low winter sun can be blinding when driving in narrow streets.",
+              "Be aware of shorter winter opening hours for some attractions.",
+              "Pre-heat the car before returning from the museum visit.",
+              "Some parking zones might be free in the off-season (check signs)."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1088,6 +2252,385 @@
           "Lines 101 to 106 cover the city center quite well.",
           "Buses run significantly less frequently on Sundays."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das dichte Busnetz, um Lecce bequem zu erkunden. Starten Sie am Piazza del Duomo und fahren Sie weiter zum Amphitheater im Zentrum. Das Schloss Karl V. ist ein Muss und dank der nahen Haltestellen leicht erreichbar. Den Nachmittag verbringen Sie im barocken Viertel um die Santa Croce Basilika und den Palazzo dei Celestini, bevor Sie entspannt mit dem Bus zum Ausgangspunkt zurückkehren.",
+            "hu": "Használja a sűrű buszhálózatot Lecce kényelmes felfedezéséhez. Kezdjen a Piazza del Duomo-nál, majd utazzon tovább a központi amfiteátrumhoz. Az V. Károly vár kötelező látnivaló, és a közeli megállóknak köszönhetően könnyen elérhető. A délutánt a Santa Croce bazilika és a Palazzo dei Celestini körüli barokk negyedben tölti, mielőtt busszal visszatérne kiindulópontjához.",
+            "ro": "Folosiți rețeaua densă de autobuze pentru a explora Lecce confortabil. Începeți în Piazza del Duomo și continuați spre amfiteatrul din centru. Castelul Carol al V-lea este obligatoriu și ușor de accesat datorită stațiilor din apropiere. După-amiaza o petreceți în cartierul baroc din jurul Basilicii Santa Croce și Palazzo dei Celestini, înainte de a reveni cu autobuzul.",
+            "en": "Use the dense bus network to explore Lecce comfortably. Start at Piazza del Duomo and ride to the central amphitheater. Charles V Castle is a must-see and easily reachable thanks to nearby stops. Spend the afternoon in the Baroque quarter around Santa Croce Basilica and Palazzo dei Celestini before returning by bus to your starting point."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Duomo",
+              "tip_5lang": {
+                "de": "Vom Bahnhof aus in 10 Minuten mit dem Stadtbus erreichbar.",
+                "hu": "A vasútállomástól 10 perc alatt elérhető helyi busszal.",
+                "ro": "Accesibil în 10 minute cu autobuzul local de la gară.",
+                "en": "Accessible in 10 minutes by local bus from the train station."
+              }
+            },
+            {
+              "name": "Anfiteatro Romano",
+              "tip_5lang": {
+                "de": "Der zentrale Knotenpunkt für fast alle Buslinien der Stadt.",
+                "hu": "A város szinte összes buszvonalának központi csomópontja.",
+                "ro": "Nodul central pentru aproape toate liniile de autobuz din oraș.",
+                "en": "The central hub for almost all city bus lines."
+              }
+            },
+            {
+              "name": "Castello di Carlo V",
+              "tip_5lang": {
+                "de": "Befindet sich direkt gegenüber der Bushaltestelle 'Costa'.",
+                "hu": "Közvetlenül a 'Costa' buszmegállóval szemben található.",
+                "ro": "Situat direct vizavi de stația de autobuz 'Costa'.",
+                "en": "Located directly across from the 'Costa' bus stop."
+              }
+            },
+            {
+              "name": "Basilica di Santa Croce",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg vom Schloss durch die malerischen Gassen.",
+                "hu": "Rövid séta a vártól a festői sikátorokon keresztül.",
+                "ro": "O scurtă plimbare de la castel prin aleile pitorești.",
+                "en": "A short walk from the castle through picturesque alleys."
+              }
+            },
+            {
+              "name": "Palazzo dei Celestini",
+              "tip_5lang": {
+                "de": "Direkt neben der Basilika, heute Sitz der Präfektur.",
+                "hu": "Közvetlenül a bazilika mellett, ma a prefektúra székhelye.",
+                "ro": "Chiar lângă bazilică, astăzi sediul prefecturii.",
+                "en": "Right next to the Basilica, now the seat of the Prefecture."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Ciceri e Tria",
+                "tip": "Traditionelle Pasta mit Kichererbsen, teils frittiert für den besonderen Crunch."
+              },
+              {
+                "name": "Pezzetti di cavallo",
+                "tip": "In Tomatensauce geschmortes Pferdefleisch, eine lokale Spezialität."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ciceri e Tria",
+                "tip": "Hagyományos tészta csicseriborsóval, részben sült tésztával a ropogós élményért."
+              },
+              {
+                "name": "Pezzetti di cavallo",
+                "tip": "Paradicsomszószban párolt lófúszeletek, helyi különlegesség."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ciceri e Tria",
+                "tip": "Paste tradiționale cu năut, parțial prăjite pentru o textură crocantă."
+              },
+              {
+                "name": "Pezzetti di cavallo",
+                "tip": "Carne de cal înăbușită în sos de roșii, o specialitate locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ciceri e Tria",
+                "tip": "Traditional pasta with chickpeas, partially fried for a unique crunch."
+              },
+              {
+                "name": "Pezzetti di cavallo",
+                "tip": "Horse meat stewed in tomato sauce, a robust local specialty."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Piazzetta Carducci",
+                "tip": "Ein kleiner Platz vor dem MUST-Museum, ideal zum Beobachten.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Biblioteca Bernardini",
+                "tip": "Ein kühler und ruhiger Ort in einem historischen Gebäude.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Piazzetta Carducci",
+                "tip": "Kis tér a MUST múzeum előtt, ideális az emberek megfigyelésére.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Biblioteca Bernardini",
+                "tip": "Hűvös és csendes hely egy történelmi épületben.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piazzetta Carducci",
+                "tip": "O mică piață în fața muzeului MUST, ideală pentru relaxare.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Biblioteca Bernardini",
+                "tip": "Un loc răcoros și liniștit într-o clădire istorică.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Piazzetta Carducci",
+                "tip": "A small square in front of the MUST museum, ideal for people watching.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Biblioteca Bernardini",
+                "tip": "A cool and quiet place inside a historic building.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Liberrima",
+                "tip": "Eine wunderschöne Buchhandlung mit lokalen Spezialitäten und Café."
+              },
+              {
+                "name": "Via Palmieri",
+                "tip": "Zahlreiche kleine Läden mit lokalem Kunsthandwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Liberrima",
+                "tip": "Gyönyörű könyvesbolt helyi különlegességekkel és kávézóval."
+              },
+              {
+                "name": "Via Palmieri",
+                "tip": "Számos kis üzlet helyi kézműves termékekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Liberrima",
+                "tip": "O librărie superbă cu specialități locale și cafenea."
+              },
+              {
+                "name": "Via Palmieri",
+                "tip": "Numeroase magazine mici cu artizanat local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Liberrima",
+                "tip": "A beautiful bookstore featuring local specialties and a cafe."
+              },
+              {
+                "name": "Via Palmieri",
+                "tip": "Numerous small shops showcasing local craftsmanship."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Bustickets vorab in Tabakläden (Tabacchi).",
+              "Die SGM-App ist hilfreich für Fahrpläne und Echtzeit-Infos.",
+              "Die Linien 101 bis 106 decken das Stadtzentrum gut ab.",
+              "Sonntags verkehren die Busse deutlich seltener."
+            ],
+            "hu": [
+              "Vásárolja meg a buszjegyeket előre a dohányboltokban (Tabacchi).",
+              "Az SGM alkalmazás hasznos a menetrendekhez és valós idejű infókhoz.",
+              "A 101-estől 106-osig terjedő vonalak jól lefedik a városközpontot.",
+              "Vasárnap a buszok lényegesen ritkábban közlekednek."
+            ],
+            "ro": [
+              "Cumpărați biletele de autobuz în avans de la tutungerii (Tabacchi).",
+              "Aplicația SGM este utilă pentru orare și informații în timp real.",
+              "Liniile de la 101 la 106 acoperă bine centrul orașului.",
+              "Duminica autobuzele circulă mult mai rar."
+            ],
+            "en": [
+              "Buy bus tickets in advance at tobacco shops (Tabacchi).",
+              "The SGM app is useful for schedules and real-time information.",
+              "Lines 101 to 106 cover the city center quite well.",
+              "Buses run significantly less frequently on Sundays."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir bequem die Piazza del Duomo, während es draußen regnet. Wir huschen schnell zum Amphitheater und verbringen dann viel Zeit im schützenden Castello di Carlo V. Mittags besichtigen wir die Basilika Santa Croce und beenden den Tag im Palazzo dei Celestini, wobei wir die Wartezeiten an den Haltestellen unter Vordächern verbringen.",
+            "hu": "Busszal kényelmesen elérjük a Piazza del Duomo-t, miközben kint esik. Gyorsan átvágunk az Amfiteátrumhoz, majd sok időt töltünk a védelmet nyújtó Castello di Carlo V-ben. Délben a Santa Croce bazilikát nézzük meg, és a napot a Palazzo dei Celestini-nél zárjuk, a megállókban az előtetők alatt várakozva.",
+            "ro": "Cu autobuzul ajungem confortabil în Piazza del Duomo în timp ce afară plouă. Mergem rapid la Amfiteatru, apoi petrecem mult timp în Castello di Carlo V. La prânz vizităm Bazilica Santa Croce și încheiem ziua la Palazzo dei Celestini, așteptând în stații sub copertine.",
+            "en": "By bus, we comfortably reach Piazza del Duomo while it rains outside. We dash quickly to the Amphitheater and then spend plenty of time in the protective Castle of Charles V. At noon, we visit Santa Croce Basilica and end the day at Palazzo dei Celestini, waiting at bus stops under shelters."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Duomo",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nur wenige Schritte vom Platz entfernt.",
+                "hu": "A buszmegálló csak néhány lépésre van a tértől.",
+                "ro": "Stația de autobuz este la doar câțiva pași de piață.",
+                "en": "The bus stop is just a few steps from the square."
+              }
+            },
+            {
+              "name": "Anfiteatro Romano",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Schutz.",
+                "hu": "Használja a környező épületek árkádjait védelemként.",
+                "ro": "Folosiți arcadele clădirilor din jur ca protecție.",
+                "en": "Use the arcades of the surrounding buildings for shelter."
+              }
+            },
+            {
+              "name": "Castello di Carlo V",
+              "tip_5lang": {
+                "de": "Das Schloss ist ein idealer 'Hub' bei regnerischem Wetter.",
+                "hu": "A vár ideális központ esős időjárás esetén.",
+                "ro": "Castelul este un punct central ideal pe vreme ploioasă.",
+                "en": "The castle is an ideal hub during rainy weather."
+              }
+            },
+            {
+              "name": "Basilica di Santa Croce",
+              "tip_5lang": {
+                "de": "Die nächste Haltestelle bietet ein Vordach zum Warten.",
+                "hu": "A legközelebbi megálló előtetővel rendelkezik a várakozáshoz.",
+                "ro": "Cea mai apropiată stație are o copertină pentru așteptare.",
+                "en": "The nearest stop has a canopy for waiting."
+              }
+            },
+            {
+              "name": "Palazzo dei Celestini",
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Innenhöfe, um trocken zu bleiben.",
+                "hu": "Látogassa meg a belső udvarokat, hogy szárazon maradjon.",
+                "ro": "Vizitați curțile interioare pentru a rămâne uscați.",
+                "en": "Visit the inner courtyards to stay dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Echtzeit-App der Busse, um Wartezeiten im Regen zu minimieren.",
+              "Halten Sie Kleingeld oder eine Karte für das Ticket bereit.",
+              "Busse können bei Regen in der Altstadt aufgrund des Verkehrs Verspätung haben.",
+              "Nutzen Sie die zentralen Umsteigepunkte wie Piazza Sant'Oronzo."
+            ],
+            "hu": [
+              "Ellenőrizze a buszok valós idejű alkalmazását a várakozás minimalizálásához.",
+              "Készítsen elő aprópénzt vagy kártyát a jegyvásárláshoz.",
+              "Esőben a buszok késhetnek az óvárosi forgalom miatt.",
+              "Használja a központi átszállási pontokat, mint a Piazza Sant'Oronzo."
+            ],
+            "ro": [
+              "Verificați aplicația de timp real pentru a minimiza așteptarea în ploaie.",
+              "Pregătiți mărunțiș sau un card pentru bilet.",
+              "Autobuzele pot avea întârzieri pe ploaie din cauza traficului.",
+              "Folosiți punctele centrale de transfer, cum ar fi Piazza Sant'Oronzo."
+            ],
+            "en": [
+              "Check the real-time bus app to minimize waiting time in the rain.",
+              "Have small change or a card ready for the ticket purchase.",
+              "Buses may be delayed during rain due to increased traffic in the center.",
+              "Utilize central transfer points like Piazza Sant'Oronzo."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen führt uns mit dem Bus zur Piazza del Duomo. Wir genießen die klare Sicht am Amphitheater und wärmen uns anschließend im Castello di Carlo V auf. Mittags besichtigen wir die prachtvolle Basilika Santa Croce. Den Tag schließen wir am Palazzo dei Celestini ab, bevor wir in der einsetzenden Dämmerung den Bus zurück nehmen.",
+            "hu": "Hűvös téli reggelen busszal megyünk a Piazza del Duomo-hoz. Élvezzük a tiszta kilátást az Amfiteátrumnál, majd felmelegszünk a Castello di Carlo V-ben. Délben a pompás Santa Croce bazilikát tekintjük meg. A napot a Palazzo dei Celestini-nél zárjuk, mielőtt a sötétedésben visszaszállnánk a buszra.",
+            "ro": "O dimineață răcoroasă de iarnă ne duce cu autobuzul spre Piazza del Duomo. Ne bucurăm de vederea clară la Amfiteatru și apoi ne încălzim în Castello di Carlo V. La prânz vizităm superba Bazilică Santa Croce. Încheiem ziua la Palazzo dei Celestini înainte de a lua autobuzul înapoi pe înserat.",
+            "en": "A chilly winter morning takes us by bus to Piazza del Duomo. We enjoy the clear views at the Amphitheater and then warm up in the Castle of Charles V. At noon, we visit the magnificent Santa Croce Basilica. We finish the day at Palazzo dei Celestini before taking the bus back as dusk sets in."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Duomo",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse oft weniger überfüllt.",
+                "hu": "Télen a buszok gyakran kevésbé zsúfoltak.",
+                "ro": "Iarna, autobuzele sunt adesea mai puțin aglomerate.",
+                "en": "Buses are often less crowded in winter."
+              }
+            },
+            {
+              "name": "Anfiteatro Romano",
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die Details der Ausgrabungen hervor.",
+                "hu": "A téli fény kiemeli az ásatások részleteit.",
+                "ro": "Lumina de iarnă scoate în evidență detaliile excavărilor.",
+                "en": "The winter light highlights the details of the excavations."
+              }
+            },
+            {
+              "name": "Castello di Carlo V",
+              "tip_5lang": {
+                "de": "Suchen Sie die beheizten Ausstellungsräume im Inneren auf.",
+                "hu": "Keresse fel a fűtött kiállítótermeket a várban.",
+                "ro": "Căutați sălile de expoziție încălzite din interior.",
+                "en": "Visit the heated exhibition rooms inside."
+              }
+            },
+            {
+              "name": "Basilica di Santa Croce",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung an einem kalten Tag.",
+                "hu": "Csendes hely az elmélyüléshez egy hideg napon.",
+                "ro": "Un loc liniștit pentru reflecție într-o zi rece.",
+                "en": "A quiet place for reflection on a cold day."
+              }
+            },
+            {
+              "name": "Palazzo dei Celestini",
+              "tip_5lang": {
+                "de": "Die Fassade leuchtet in der frühen Abenddämmerung besonders schön.",
+                "hu": "A homlokzat különösen szépen világít a kora esti szürkületben.",
+                "ro": "Fațada strălucește deosebit de frumos în amurgul devreme.",
+                "en": "The facade glows beautifully in the early evening twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busfrequenz kann im Winter (Nebensaison) etwas reduziert sein.",
+              "Nutzen Sie die Busfahrt, um sich zwischen den Stopps aufzuwärmen.",
+              "Tragen Sie einen Schal, da es an den Haltestellen windig sein kann.",
+              "Kaufen Sie Tickets vorab in einem Tabacchi-Laden."
+            ],
+            "hu": [
+              "Télen (szezonon kívül) a buszok ritkábban járhatnak.",
+              "Használja a buszutat a megállók közötti felmelegedésre.",
+              "Viseljen sálat, mert a megállókban szeles lehet az idő.",
+              "Vásárolja meg a jegyeket előre egy Tabacchi üzletben."
+            ],
+            "ro": [
+              "Frecvența autobuzelor poate fi redusă iarna (în afara sezonului).",
+              "Folosiți călătoria cu autobuzul pentru a vă încălzi între opriri.",
+              "Purtați un fular, deoarece în stații poate fi vânt.",
+              "Cumpărați biletele în avans de la un magazin Tabacchi."
+            ],
+            "en": [
+              "Bus frequency might be slightly reduced during the winter off-season.",
+              "Use the bus ride to warm up between outdoor stops.",
+              "Wear a scarf as it can be windy while waiting at the stops.",
+              "Purchase tickets in advance from a Tabacchi shop."
+            ]
+          }
+        }
       }
     }
   },

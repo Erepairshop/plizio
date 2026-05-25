@@ -308,6 +308,447 @@
           "Visit the city during the 'Festival dei Due Mondi' in summer.",
           "Wear comfortable shoes for the cobblestone streets."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag auf der lebhaften Piazza del Mercato, dem antiken Herzen Spoletos. Nach der Besichtigung römischer Spuren im Bogen des Drusus und im Römischen Haus führt der Weg zum prächtigen Dom mit seinen berühmten Fresken. Der Nachmittag steht im Zeichen der monumentalen Architektur: Erklimmen Sie die Rocca Albornoziana für ein Panorama über Umbrien und bestaunen Sie die schwindelerregende Brücke Ponte delle Torri, bevor Sie den Tag im antiken Theater ausklingen lassen.",
+            "hu": "Kezdje a napot a nyüzsgő Piazza del Mercatón, Spoleto ősi szívében. A Drusus-ív és a római ház antik emlékei után az út a pompás dómhoz vezet, ahol Filippo Lippi freskóit csodálhatja meg. A délután a monumentális építészeté: másszon fel a Rocca Albornoziana erődbe az umbriai panorámáért, és ámuljon el a szédítő Ponte delle Torri láttán, mielőtt a napot az ókori római színház falai között zárná.",
+            "ro": "Începeți ziua în vibranta Piazza del Mercato, inima antică a orașului Spoleto. După explorarea urmelor romane de la Arcul lui Drusus și Casa Romană, drumul vă duce la Domul magnific, decorat cu fresce celebre. După-amiaza este dedicată arhitecturii monumentale: urcați la Rocca Albornoziana pentru o panoramă asupra Umbriei și admirați spectaculosul Ponte delle Torri, înainte de a încheia ziua la teatrul antic.",
+            "en": "Start your day at the lively Piazza del Mercato, the ancient heart of Spoleto. After exploring Roman traces at the Arch of Drusus and the Roman House, head to the magnificent Duomo with its famous frescoes. The afternoon is dedicated to monumental architecture: climb to the Rocca Albornoziana for a panorama over Umbria and marvel at the dizzying Ponte delle Torri before ending your day at the ancient Roman theatre."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Mercato",
+              "tip_5lang": {
+                "de": "Trinken Sie einen Espresso am alten Brunnen.",
+                "hu": "Igyon egy eszpresszót a régi kútnál.",
+                "ro": "Beți un espresso lângă fântâna veche.",
+                "en": "Enjoy an espresso by the ancient fountain."
+              }
+            },
+            {
+              "name": "Arco di Druso e Germanico",
+              "tip_5lang": {
+                "de": "Ein römisches Tor, das den Eingang zum Forum markierte.",
+                "hu": "Római kapu, amely az egykori fórum bejáratát jelezte.",
+                "ro": "O poartă romană care marca intrarea în forum.",
+                "en": "A Roman arch that marked the entrance to the forum."
+              }
+            },
+            {
+              "name": "Casa Romana",
+              "tip_5lang": {
+                "de": "Bewundern Sie die gut erhaltenen Mosaikböden.",
+                "hu": "Csodálja meg a jól megőrzött mozaikpadlókat.",
+                "ro": "Admirați podelele cu mozaic bine conservate.",
+                "en": "Admire the well-preserved mosaic floors."
+              }
+            },
+            {
+              "name": "Duomo di Spoleto",
+              "tip_5lang": {
+                "de": "Die Fresken von Filippo Lippi sind ein Meisterwerk.",
+                "hu": "Filippo Lippi freskói igazi mesterművek.",
+                "ro": "Frescele lui Filippo Lippi sunt o capodoperă.",
+                "en": "The frescoes by Filippo Lippi are a masterpiece."
+              }
+            },
+            {
+              "name": "Rocca Albornoziana",
+              "tip_5lang": {
+                "de": "Der Spaziergang um die Festung bietet die beste Aussicht.",
+                "hu": "Az erőd körüli séta kínálja a legjobb kilátást.",
+                "ro": "Plimbarea în jurul cetății oferă cea mai bună vedere.",
+                "en": "The walk around the fortress offers the best views."
+              }
+            },
+            {
+              "name": "Ponte delle Torri",
+              "tip_5lang": {
+                "de": "Ein gewaltiges Aquädukt aus dem 13. Jahrhundert.",
+                "hu": "Hatalmas, 13. századi akvaduktusz.",
+                "ro": "Un viaduct masiv din secolul al XIII-lea.",
+                "en": "A massive 13th-century aqueduct bridge."
+              }
+            },
+            {
+              "name": "Teatro Romano",
+              "tip_5lang": {
+                "de": "Besuchen Sie auch das angrenzende Archäologische Museum.",
+                "hu": "Látogassa meg a szomszédos Régészeti Múzeumot is.",
+                "ro": "Vizitați și muzeul arheologic adiacent.",
+                "en": "Visit the adjacent Archaeological Museum as well."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Stringozzi al Tartufo",
+                "tip": "Dicke Pasta mit dem berühmten schwarzen Trüffel aus Spoleto."
+              },
+              {
+                "name": "Il Tempio del Gusto",
+                "tip": "Hervorragende lokale Küche in elegantem Ambiente."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Stringozzi al Tartufo",
+                "tip": "Vastag tészta a híres spoleto-i fekete szarvasgombával."
+              },
+              {
+                "name": "Il Tempio del Gusto",
+                "tip": "Kiváló helyi konyha elegáns környezetben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Stringozzi al Tartufo",
+                "tip": "Paste groase cu faimoasele trufe negre de Spoleto."
+              },
+              {
+                "name": "Il Tempio del Gusto",
+                "tip": "Bucătărie locală excelentă într-un cadru elegant."
+              }
+            ],
+            "en": [
+              {
+                "name": "Stringozzi al Tartufo",
+                "tip": "Thick pasta with the famous black truffle of Spoleto."
+              },
+              {
+                "name": "Il Tempio del Gusto",
+                "tip": "Excellent local cuisine in an elegant setting."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Giro del Ponte",
+                "tip": "Ein schattiger Waldweg mit Blick auf die Brücke.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "San Salvatore",
+                "tip": "Eine ruhige, frühchristliche Basilika am Stadtrand.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Giro del Ponte",
+                "tip": "Árnyas erdei ösvény kilátással a hídra.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "San Salvatore",
+                "tip": "Csendes, kora keresztény bazilika a város szélén.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Giro del Ponte",
+                "tip": "O potecă umbrită prin pădure cu vedere la pod.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "San Salvatore",
+                "tip": "O bazilică paleocreștină liniștită la marginea orașului.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Giro del Ponte",
+                "tip": "A shaded forest path with views of the bridge.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "San Salvatore",
+                "tip": "A quiet, early Christian basilica on the outskirts.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bottega del Tartufo",
+                "tip": "Alles rund um den Trüffel und lokale Spezialitäten."
+              },
+              {
+                "name": "Keramik aus Umbrien",
+                "tip": "Handbemalte Teller und Vasen in der Via Fontesecco."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bottega del Tartufo",
+                "tip": "Minden, ami szarvasgomba és helyi különlegesség."
+              },
+              {
+                "name": "Umbriai kerámia",
+                "tip": "Kézzel festett tányérok és vázák a Via Fonteseccón."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bottega del Tartufo",
+                "tip": "Totul despre trufe și specialități locale."
+              },
+              {
+                "name": "Ceramică din Umbria",
+                "tip": "Farfurii și vaze pictate manual pe Via Fontesecco."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bottega del Tartufo",
+                "tip": "Everything truffle and local specialties."
+              },
+              {
+                "name": "Umbrian Ceramics",
+                "tip": "Hand-painted plates and vases on Via Fontesecco."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die Rolltreppen (Mobilità Alternativa), um die steilen Hänge zu bewältigen.",
+              "Die Ponte delle Torri ist derzeit manchmal nur aus der Ferne zu bewundern (Sicherheitsgründe).",
+              "Besuchen Sie die Stadt während des 'Festival dei Due Mondi' im Sommer.",
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster."
+            ],
+            "hu": [
+              "Használja a mozgólépcsőket (Mobilità Alternativa) a meredek emelkedők leküzdéséhez.",
+              "A Ponte delle Torri néha csak távolról csodálható meg biztonsági okokból.",
+              "Látogasson el a városba a nyári 'Két Világ Fesztiválja' idején.",
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz."
+            ],
+            "ro": [
+              "Folosiți scările rulante (Mobilità Alternativa) pentru a urca pantele abrupte.",
+              "Ponte delle Torri este uneori vizibil doar de la distanță din motive de siguranță.",
+              "Vizitați orașul în timpul 'Festivalului celor Două Lumi' din timpul verii.",
+              "Purtați încălțăminte comodă pentru străzile pietruite."
+            ],
+            "en": [
+              "Use the escalators (Mobilità Alternativa) to handle the steep inclines.",
+              "The Ponte delle Torri is sometimes only visible from a distance for safety reasons.",
+              "Visit the city during the 'Festival dei Due Mondi' in summer.",
+              "Wear comfortable shoes for the cobblestone streets."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen unter den schützenden Arkaden der Piazza del Mercato mit einem starken Espresso. Besuchen Sie das überdachte Casa Romana, um den Tropfen draußen zu entfliehen. Mittags bietet der prächtige Duomo einen trockenen und spirituellen Zufluchtsort. Nachmittags erkunden Sie die Innenräume der Rocca Albornoziana. Der Abend klingt im Teatro Romano aus, wo die nassen Steine im fahlen Licht der Stadtlaternen glänzen.",
+            "hu": "Kezdje az esős reggelt a Piazza del Mercato árkádjai alatt egy erős eszpresszóval. Meneküljön az eső elől a Casa Romana fedett termeibe, ahol római mozaikokat csodálhat. Délben a dóm nyújt száraz és spirituális menedéket. Délután fedezze fel a Rocca Albornoziana belső kiállításait. Az este a Teatro Romano közelében ér véget, ahol a vizes kövek misztikusan csillognak a városi fényekben.",
+            "ro": "Începeți dimineața ploioasă sub arcadele protectoare din Piazza del Mercato cu un espresso tare. Vizitați Casa Romana, un refugiu acoperit perfect pentru a scăpa de stropii de afară. La prânz, Domul oferă un adăpost uscat și spiritual. După-amiaza, explorați interioarele cetății Rocca Albornoziana. Seara se încheie la Teatro Romano, unde pietrele ude strălucesc sub lumina felinarelor orașului.",
+            "en": "Start your rainy morning under the protective arcades of Piazza del Mercato with a strong espresso. Escape the rain in the indoor Casa Romana, admiring ancient Roman mosaics. At noon, the magnificent Duomo provides a dry and spiritual sanctuary. In the afternoon, explore the interior museums of the Rocca Albornoziana. The evening ends near the Roman Theatre, where the wet stones glisten under the city lights."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Mercato",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Marktplatz-Arkaden.",
+                "hu": "Használja a piac árkádjait az eső elleni védelemre.",
+                "ro": "Căutați adăpost sub arcadele pieței.",
+                "en": "Take shelter under the marketplace arcades."
+              }
+            },
+            {
+              "name": "Arco di Druso e Germanico",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp unter einem Regenschirm.",
+                "hu": "Gyors fotó esernyő alatt az ókori ívnél.",
+                "ro": "Oprire scurtă pentru poze sub umbrelă.",
+                "en": "Quick photo stop under an umbrella."
+              }
+            },
+            {
+              "name": "Casa Romana",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um trocken zu bleiben.",
+                "hu": "Tökéletes hely, hogy szárazon maradjon.",
+                "ro": "Locul perfect pentru a rămâne uscat.",
+                "en": "Perfect indoor spot to stay dry."
+              }
+            },
+            {
+              "name": "Duomo di Spoleto",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fresken im trockenen Kirchenschiff.",
+                "hu": "Csodálja a freskókat a száraz templombelsőben.",
+                "ro": "Admirați frescele în interiorul uscat al bisericii.",
+                "en": "Enjoy the frescoes in the dry nave."
+              }
+            },
+            {
+              "name": "Rocca Albornoziana",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Nationalmuseum im Inneren.",
+                "hu": "Látogasson el a belső Nemzeti Múzeumba.",
+                "ro": "Vizitați Muzeul Național din interior.",
+                "en": "Visit the National Museum located inside."
+              }
+            },
+            {
+              "name": "Ponte delle Torri",
+              "tip_5lang": {
+                "de": "Vorsicht, der Weg kann rutschig sein.",
+                "hu": "Vigyázat, az útvonal csúszós lehet.",
+                "ro": "Atenție, poteca poate fi alunecoasă.",
+                "en": "Caution, the path can be slippery."
+              }
+            },
+            {
+              "name": "Teatro Romano",
+              "tip_5lang": {
+                "de": "Die Akustik ist im Regen besonders intensiv.",
+                "hu": "Az akusztika esőben különösen intenzív.",
+                "ro": "Acustica este deosebit de intensă pe ploaie.",
+                "en": "The acoustics are particularly intense in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Rolltreppen (Percorsi Meccanizzati), um steile, rutschige Gassen zu vermeiden.",
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Die Piazza del Mercato hat viele Cafés mit überdachten Außenbereichen.",
+              "Besuchen Sie das Archäologische Museum am Teatro Romano bei starkem Guss.",
+              "Die Rocca bietet weite Innenräume zum Erkunden."
+            ],
+            "hu": [
+              "Használja a mozgólépcsőrendszert a csúszós emelkedők elkerülésére.",
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "A Piazza del Mercato számos kávézója rendelkezik fedett terasszal.",
+              "Heves esőben az Archéológiai Múzeum kiváló beltéri program.",
+              "A Rocca belső terei tágasak és szárazak."
+            ],
+            "ro": [
+              "Utilizați sistemul de scări rulante pentru a evita pantele alunecoase.",
+              "Purtați încălțăminte impermeabilă pentru străzile cu piatră cubică.",
+              "Piazza del Mercato are multe cafenele cu terase acoperite.",
+              "Muzeul Arheologic de la Teatrul Roman este ideal în caz de ploaie torențială.",
+              "Cetatea Rocca oferă spații interioare vaste pentru explorare."
+            ],
+            "en": [
+              "Use the escalator system (Percorsi Meccanizzati) to avoid slippery uphill climbs.",
+              "Wear waterproof shoes for the cobblestone streets.",
+              "Piazza del Mercato has many cafes with covered outdoor seating.",
+              "The Archaeological Museum at the Roman Theatre is a great indoor option.",
+              "The Rocca's interiors are spacious and dry for exploration."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt frisch auf der Piazza del Mercato. Der kurze Weg zum Arco di Druso belebt die Geister. Mittags wärmt das sanfte Licht im Duomo von Spoleto die Seele. Wandern Sie am Nachmittag zur Rocca, um den frühen Sonnenuntergang über dem umbrischen Tal zu erleben. Den Abend genießen Sie in einem gemütlichen Restaurant nahe dem Teatro Romano, während die Winterkälte draußen bleibt.",
+            "hu": "A tiszta téli reggel frissen indul a Piazza del Mercatón. A rövid séta a Drusus-ívhez felélénkíti a szellemet. Délben a dóm lágy fénye melengeti a lelket. Délután sétáljon fel a Roccához, hogy elcsípje a korai naplementét az umbriai völgy felett. Az estét töltse egy hangulatos étteremben a Teatro Romano közelében, miközben a téli hideg kint marad.",
+            "ro": "O dimineață senină de iarnă începe proaspăt în Piazza del Mercato. Scurta plimbare până la Arcul lui Druso revigorează spiritul. La prânz, lumina blândă din Domul din Spoleto încălzește sufletul. După-amiaza, urcați la Rocca pentru a prinde apusul timpuriu peste valea umbriană. Seara, bucurați-vă de un restaurant primitor lângă Teatro Romano, în timp ce frigul iernii rămâne afară.",
+            "en": "A crisp winter morning starts fresh at Piazza del Mercato. The short walk to the Arch of Drusus invigorates the senses. At noon, the soft winter light in the Duomo warms the soul. In the afternoon, walk up to the Rocca to catch the early sunset over the Umbrian valley. Enjoy the evening in a cozy restaurant near the Roman Theatre, leaving the winter chill outside."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Mercato",
+              "tip_5lang": {
+                "de": "Genießen Sie eine heiße Schokolade zum Aufwärmen.",
+                "hu": "Élvezzen egy forró csokoládét a bemelegítéshez.",
+                "ro": "Savurați o ciocolată caldă pentru a vă încălzi.",
+                "en": "Enjoy a hot chocolate to warm up."
+              }
+            },
+            {
+              "name": "Arco di Druso e Germanico",
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die römischen Details hervor.",
+                "hu": "A téli fény kiemeli a római kori részleteket.",
+                "ro": "Lumina de iarnă scoate în evidență detaliile romane.",
+                "en": "The winter light highlights the Roman details."
+              }
+            },
+            {
+              "name": "Casa Romana",
+              "tip_5lang": {
+                "de": "Ein angenehm temperierter Rückzugsort.",
+                "hu": "Kellemesen temperált beltéri helyszín.",
+                "ro": "Un refugiu cu temperatură plăcută.",
+                "en": "A pleasantly tempered indoor retreat."
+              }
+            },
+            {
+              "name": "Duomo di Spoleto",
+              "tip_5lang": {
+                "de": "Die Wintersonne strahlt tief durch das Rosettenfenster.",
+                "hu": "A téli nap alacsonyan süt át a rózsaablakon.",
+                "ro": "Soarele de iarnă pătrunde prin rozeta fațadei.",
+                "en": "The winter sun shines low through the rose window."
+              }
+            },
+            {
+              "name": "Rocca Albornoziana",
+              "tip_5lang": {
+                "de": "Bester Ort für den Sonnenuntergang um 16:45 Uhr.",
+                "hu": "A legjobb hely a naplemente megtekintésére 16:45-kor.",
+                "ro": "Cel mai bun loc pentru apus la ora 16:45.",
+                "en": "Best spot for the sunset at 16:45."
+              }
+            },
+            {
+              "name": "Ponte delle Torri",
+              "tip_5lang": {
+                "de": "Oft sehr windig; tragen Sie eine warme Jacke.",
+                "hu": "Gyakran szeles; viseljen meleg kabátot.",
+                "ro": "Adesea foarte vântos; purtați o jachetă groasă.",
+                "en": "Often very windy; wear a warm jacket."
+              }
+            },
+            {
+              "name": "Teatro Romano",
+              "tip_5lang": {
+                "de": "Die Ruinen wirken im Frost besonders antik.",
+                "hu": "A romok a zúzmarában különösen antiknak hatnak.",
+                "ro": "Ruinele par deosebit de antice sub brumă.",
+                "en": "The ruins look particularly ancient in the frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:45 Uhr unter.",
+              "Ein Zwiebellook ist ideal für den Wechsel zwischen Kälte und Museen.",
+              "Probieren Sie geröstete Kastanien bei den Straßenhändlern.",
+              "Die Rolltreppen sind auch im Winter in Betrieb und windgeschützt.",
+              "Viele Kirchen bieten im Winter einen ruhigen Platz zum Aufwärmen."
+            ],
+            "hu": [
+              "Télen a nap már 16:45 körül lemegy.",
+              "A réteges öltözködés ideális a múzeumok és a kinti hideg között.",
+              "Kóstolja meg a sült gesztenyét az utcai árusoknál.",
+              "A mozgólépcsők télen is üzemelnek és védenek a széltől.",
+              "Sok templom csendes és meleg helyet kínál a pihenéshez."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:45 în timpul iernii.",
+              "Îmbrăcămintea în straturi este ideală între muzee și frigul de afară.",
+              "Gustați castanele coapte de la vânzătorii ambulanți.",
+              "Scările rulante funcționează și iarna, oferind protecție contra vântului.",
+              "Multe biserici oferă un loc liniștit pentru a vă încălzi."
+            ],
+            "en": [
+              "The sun sets as early as 16:45 in winter.",
+              "Layered clothing is ideal for moving between museums and the cold.",
+              "Try the roasted chestnuts from street vendors.",
+              "The escalators remain operational and provide wind protection.",
+              "Many churches offer a quiet place to warm up during the day."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -532,6 +973,360 @@
           "Spoleto is very steep, e-bikes are highly recommended.",
           "Use the Spoleto-Norcia bike path for longer tours."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour verbindet die antike Stadt mit ihren Außenbezirken. Nach dem Start auf dem Markt radeln Sie zur Basilika San Salvatore, einem Juwel der Langobardenzeit. Weiter geht es zur Fassade von San Pietro, bevor Sie die Brücke und die moderne Kunst im Palazzo Collicola erreichen. Der Tag endet sportlich und kulturell zugleich.",
+            "hu": "Ez a kerékpáros túra összeköti az óvárost a külső részekkel. A piacról indulva tekerjen a San Salvatore bazilikához, a lombard kor gyöngyszeméhez. Folytassa útját a San Pietro homlokzatához, majd érintse a hidat és a Palazzo Collicola modern művészeti gyűjteményét. A nap sportosan és kulturálisan telik.",
+            "ro": "Acest tur cu bicicleta face legătura între centrul vechi și periferie. Plecând din piață, pedalați spre Bazilica San Salvatore, o bijuterie a epocii longobarde. Continuați spre fațada San Pietro, apoi vizitați podul și arta modernă de la Palazzo Collicola. O zi care îmbină sportul cu cultura.",
+            "en": "This bike tour connects the ancient city with its outskirts. Starting from the market, cycle to the Basilica of San Salvatore, a gem of the Lombard era. Continue to the facade of San Pietro before visiting the bridge and modern art at Palazzo Collicola. The day is both athletic and cultural."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Mercato",
+              "tip_5lang": {
+                "de": "Zentrum der Oberstadt.",
+                "hu": "A felsőváros központja.",
+                "ro": "Centrul orașului de sus.",
+                "en": "Center of the upper town."
+              }
+            },
+            {
+              "name": "Basilica di San Salvatore",
+              "tip_5lang": {
+                "de": "UNESCO-Weltkulturerbe der Langobarden.",
+                "hu": "UNESCO világörökségi lombard emlék.",
+                "ro": "Patrimoniu UNESCO de origine longobardă.",
+                "en": "UNESCO World Heritage Lombard site."
+              }
+            },
+            {
+              "name": "Chiesa di San Pietro",
+              "tip_5lang": {
+                "de": "Berühmt für die romanischen Steinmetzarbeiten.",
+                "hu": "Híres románkori kőfaragványairól.",
+                "ro": "Faimoasă pentru sculpturile sale romanice.",
+                "en": "Famous for its Romanesque stone carvings."
+              }
+            },
+            {
+              "name": "Ponte delle Torri",
+              "tip_5lang": {
+                "de": "Ein technisches Wunderwerk des Mittelalters.",
+                "hu": "A középkor egyik mérnöki csodája.",
+                "ro": "O minune inginerească a evului mediu.",
+                "en": "An engineering marvel of the Middle Ages."
+              }
+            },
+            {
+              "name": "Palazzo Collicola",
+              "tip_5lang": {
+                "de": "Galerie für moderne Kunst im Barockpalast.",
+                "hu": "Modern művészeti galéria barokk palotában.",
+                "ro": "Galerie de artă modernă într-un palat baroc.",
+                "en": "Modern art gallery in a Baroque palace."
+              }
+            },
+            {
+              "name": "Teatro Romano",
+              "tip_5lang": {
+                "de": "Noch heute für Aufführungen genutzt.",
+                "hu": "Ma is használt színházi helyszín.",
+                "ro": "Folosit și astăzi pentru spectacole.",
+                "en": "Still used today for performances."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Crescionda",
+                "tip": "Schoko-Amaretti-Kuchen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Crescionda",
+                "tip": "Csokoládés-amaretti sütemény."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Crescionda",
+                "tip": "Prăjitură cu ciocolată și amaretti."
+              }
+            ],
+            "en": [
+              {
+                "name": "Crescionda",
+                "tip": "Chocolate and amaretti cake."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Colle Attivoli",
+                "tip": "Ruhiger Hügel über der Stadt.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Colle Attivoli",
+                "tip": "Csendes domb a város felett.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Colle Attivoli",
+                "tip": "Deal liniștit deasupra orașului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Colle Attivoli",
+                "tip": "Quiet hill above the city.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokalmarkt",
+                "tip": "Frische Produkte jeden Morgen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi piac",
+                "tip": "Friss áruk minden reggel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața locală",
+                "tip": "Produse proaspete în fiecare dimineață."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Market",
+                "tip": "Fresh produce every morning."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Spoleto ist sehr steil, E-Bikes werden dringend empfohlen.",
+              "Nutzen Sie den Radweg Spoleto-Norcia für längere Touren."
+            ],
+            "hu": [
+              "Spoleto nagyon meredek, az e-bike erősen ajánlott.",
+              "Hosszabb túrákhoz használja a Spoleto-Norcia kerékpárutat."
+            ],
+            "ro": [
+              "Spoleto este foarte abrupt, e-bike-ul este recomandat.",
+              "Folosiți pista Spoleto-Norcia pentru tururi mai lungi."
+            ],
+            "en": [
+              "Spoleto is very steep, e-bikes are highly recommended.",
+              "Use the Spoleto-Norcia bike path for longer tours."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag erfordert Vorsicht auf Spoletos Kopfsteinpflaster. Starten Sie an der Piazza del Mercato und radeln Sie zur Basilica di San Salvatore, deren alte Steine im Regen dunkel leuchten. Mittags bietet San Pietro einen Moment der Ruhe. Nachmittags ist die Rocca ein Muss, bevor Sie das Palazzo Collicola als trockenes Highlight besuchen. Den Abend beschließen Sie am Teatro Romano, wenn der Regen hoffentlich nachlässt.",
+            "hu": "Az esős bringás nap óvatosságot igényel Spoleto macskakövein. Induljon a Piazza del Mercatóról a Basilica di San Salvatore felé, melynek kövei sötéten fénylenek az esőben. Délben San Pietro nyújt nyugalmat. Délután a Rocca kötelező látnivaló, majd a Palazzo Collicola lesz a száraz csúcspont. Az estét a Teatro Romanónál zárja, remélhetőleg csökkenő esőben.",
+            "ro": "O zi cu bicicleta pe ploaie necesită prudență pe pavajul din Spoleto. Începeți din Piazza del Mercato spre Basilica di San Salvatore, ale cărei pietre strălucesc închis în ploaie. La prânz, San Pietro oferă un moment de liniște. După-amiaza, Rocca este o oprire obligatorie înainte de a vizita Palazzo Collicola. Încheiați seara la Teatro Romano, când ploaia sperăm că se va opri.",
+            "en": "A rainy bike day requires caution on Spoleto's cobblestones. Start at Piazza del Mercato and pedal to Basilica di San Salvatore, its ancient stones glowing dark in the rain. At noon, San Pietro offers a quiet moment. In the afternoon, the Rocca is a must-see before heading to Palazzo Collicola for a dry highlight. End your evening at the Roman Theatre as the rain hopefully eases."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Mercato",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf nassem Pflaster.",
+                "hu": "Vigyázat az indulásnál a vizes köveken.",
+                "ro": "Atenție la pornire pe pavajul ud.",
+                "en": "Be careful when starting on wet pavement."
+              }
+            },
+            {
+              "name": "Basilica di San Salvatore",
+              "tip_5lang": {
+                "de": "Ruhiger, oft menschenleerer Ort bei Regen.",
+                "hu": "Csendes, esőben gyakran néptelen helyszín.",
+                "ro": "Loc liniștit, adesea pustiu când plouă.",
+                "en": "Quiet, often deserted spot in the rain."
+              }
+            },
+            {
+              "name": "Chiesa di San Pietro",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad im geschützten Bereich.",
+                "hu": "Parkolja a biciklit védett helyre.",
+                "ro": "Parcați bicicleta într-o zonă protejată.",
+                "en": "Park your bike in a sheltered area."
+              }
+            },
+            {
+              "name": "Ponte delle Torri",
+              "tip_5lang": {
+                "de": "Starker Wind kann das Radfahren erschweren.",
+                "hu": "Az erős szél megnehezítheti a kerékpározást.",
+                "ro": "Vântul puternic poate îngreuna pedalatul.",
+                "en": "Strong winds can make cycling difficult."
+              }
+            },
+            {
+              "name": "Palazzo Collicola",
+              "tip_5lang": {
+                "de": "Beste Indoor-Alternative für Radfahrer.",
+                "hu": "A legjobb beltéri alternatíva bringásoknak.",
+                "ro": "Cea mai bună alternativă interioară pentru bicicliști.",
+                "en": "Best indoor alternative for cyclists."
+              }
+            },
+            {
+              "name": "Teatro Romano",
+              "tip_5lang": {
+                "de": "Vermeiden Sie steile Abfahrten bei Nässe.",
+                "hu": "Kerülje a meredek lejtőket vizes időben.",
+                "ro": "Evitați coborârile abrupte pe carosabil ud.",
+                "en": "Avoid steep descents in wet conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke und wasserdichte Hosen.",
+              "Bremsen Sie frühzeitig auf dem nassen Kopfsteinpflaster.",
+              "Nutzen Sie die flacheren Wege außerhalb der direkten Altstadt.",
+              "Befestigen Sie Ihr Gepäck in wasserdichten Taschen.",
+              "Kürzen Sie die Tour ab, wenn der Regen zu stark wird."
+            ],
+            "hu": [
+              "Viseljen minőségi esőkabátot és vízálló nadrágot.",
+              "Fékezzen időben a vizes macskaköveken.",
+              "Használja a lankásabb utakat az óvároson kívül.",
+              "Rögzítse csomagjait vízálló táskákba.",
+              "Rövidítse le a túrát, ha az eső túl intenzívvé válik."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie de calitate și pantaloni impermeabili.",
+              "Frânați din timp pe piatra cubică udă.",
+              "Utilizați rutele mai plate din afara centrului vechi.",
+              "Fixați bagajele în genți impermeabile.",
+              "Scurtați turul dacă ploaia devine prea puternică."
+            ],
+            "en": [
+              "Wear a high-quality rain jacket and waterproof trousers.",
+              "Brake early on the wet cobblestones.",
+              "Use the flatter routes outside the immediate old town.",
+              "Secure your luggage in waterproof bags.",
+              "Shorten the tour if the rain becomes too heavy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Spoleto an einem klaren Wintertag mit dem Rad. Die kühle Luft bei San Salvatore ist erfrischend. Mittags führt der Weg nach San Pietro, wo die Fassade in der Wintersonne leuchtet. Genießen Sie den Panoramablick von der Brücke, bevor Sie sich im Palazzo Collicola aufwärmen. Beenden Sie den Tag frühzeitig am Teatro Romano, bevor die Temperaturen nach Sonnenuntergang stark sinken.",
+            "hu": "Fedezze fel Spoletót egy tiszta téli napon kerékpárral. A hűvös levegő San Salvatorénál felfrissít. Délben az út San Pietróhoz vezet, ahol a homlokzat ragyog a téli napfényben. Élvezze a panorámát a hídról, majd melegedjen fel a Palazzo Collicolában. Fejezze be a napot korán a Teatro Romanónál, mielőtt a hőmérséklet naplemente után hirtelen leesne.",
+            "ro": "Explorați Spoleto într-o zi senină de iarnă cu bicicleta. Aerul rece de la San Salvatore este revigorant. La prânz, drumul duce la San Pietro, unde fațada strălucește în soarele de iarnă. Bucurați-vă de panorama de pe pod, apoi încălziți-vă la Palazzo Collicola. Încheiați ziua devreme la Teatro Romano, înainte ca temperaturile să scadă brusc după apus.",
+            "en": "Explore Spoleto on a crisp winter day by bike. The cool air at San Salvatore is refreshing. At noon, the path leads to San Pietro, where the facade glows in the winter sun. Enjoy the panoramic view from the bridge before warming up at Palazzo Collicola. Finish your day early at the Roman Theatre before temperatures drop sharply after sunset."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Mercato",
+              "tip_5lang": {
+                "de": "Frühmorgens kann das Pflaster gefroren sein.",
+                "hu": "Kora reggel a kövezet fagyos lehet.",
+                "ro": "Pavajul poate fi înghețat dimineața devreme.",
+                "en": "The pavement may be frozen early in the morning."
+              }
+            },
+            {
+              "name": "Basilica di San Salvatore",
+              "tip_5lang": {
+                "de": "Die Auffahrt hält Sie warm.",
+                "hu": "Az emelkedő segít melegen tartani.",
+                "ro": "Urcarea vă va ține de cald.",
+                "en": "The uphill ride will keep you warm."
+              }
+            },
+            {
+              "name": "Chiesa di San Pietro",
+              "tip_5lang": {
+                "de": "Perfekte Wintersonne an der Westfassade.",
+                "hu": "Tökéletes téli napsütés a nyugati homlokzaton.",
+                "ro": "Soare de iarnă perfect pe fațada de vest.",
+                "en": "Perfect winter sun on the west facade."
+              }
+            },
+            {
+              "name": "Ponte delle Torri",
+              "tip_5lang": {
+                "de": "Achtung: Glatteisgefahr auf der Brücke.",
+                "hu": "Figyelem: csúszásveszély a hídon.",
+                "ro": "Atenție: pericol de polei pe pod.",
+                "en": "Caution: risk of ice on the bridge."
+              }
+            },
+            {
+              "name": "Palazzo Collicola",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit zum Aufwärmen.",
+                "hu": "Jó alkalom a bemelegedésre.",
+                "ro": "O bună ocazie pentru a vă încălzi.",
+                "en": "Good opportunity to warm up inside."
+              }
+            },
+            {
+              "name": "Teatro Romano",
+              "tip_5lang": {
+                "de": "Beleuchtung beginnt früh in der Dämmerung.",
+                "hu": "A világítás már korán, alkonyatkor elindul.",
+                "ro": "Iluminatul începe devreme, la amurg.",
+                "en": "Lighting starts early at dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung und Handschuhe.",
+              "Die Sonne geht gegen 16:45 Uhr unter; Licht am Rad ist Pflicht.",
+              "Planen Sie regelmäßige Stopps in Cafés ein.",
+              "Prüfen Sie den Reifendruck für besseren Grip.",
+              "Die Abfahrten können im Winter extrem kalt sein."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot és kesztyűt.",
+              "A nap 16:45 körül lemegy; a lámpa kötelező.",
+              "Tervezzen rendszeres megállókat kávézókban.",
+              "Ellenőrizze a guminyomást a jobb tapadásért.",
+              "A lejtők télen rendkívül hidegek lehetnek."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt și mănuși.",
+              "Soarele apune la 16:45; luminile sunt obligatorii.",
+              "Planificați opriri regulate în cafenele.",
+              "Verificați presiunea anvelopelor pentru aderență.",
+              "Coborârile pot fi extrem de reci iarna."
+            ],
+            "en": [
+              "Wear windproof clothing and gloves.",
+              "The sun sets around 16:45; bike lights are mandatory.",
+              "Plan regular stops in cafes to warm up.",
+              "Check tire pressure for better grip on cold stones.",
+              "Downhill sections can be extremely cold in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -756,6 +1551,360 @@
           "Park in the Posterna garage and use the elevators.",
           "Watch out for ZTL zones in the city center."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie auch die Schätze oberhalb der Stadt. Nach den historischen Kirchen im Tal fahren Sie zur Festung und zum Dom (beachten Sie die Parkhäuser). Der Höhepunkt ist die Fahrt hinauf zum Monteluco, wo Sie Stille und Natur genießen können.",
+            "hu": "Autóval a város feletti kincseket is elérheti. A völgyi templomok után hajtson fel az erődhöz és a dómhoz (használja a parkolóházakat). A csúcspont a Montelucóra való felhajtás, ahol csend és természet várja.",
+            "ro": "Cu mașina puteți ajunge și la comorile de deasupra orașului. După bisericile istorice din vale, mergeți spre cetate și dom (atenție la parcările subterane). Punctul culminant este drumul spre Monteluco pentru liniște și natură.",
+            "en": "By car, you can also reach the treasures above the city. After the historical churches in the valley, drive up to the fortress and the cathedral (use the parking garages). The highlight is the drive up to Monteluco for peace and nature."
+          },
+          "stops": [
+            {
+              "name": "San Salvatore",
+              "tip_5lang": {
+                "de": "Leicht erreichbar mit Parkplatz.",
+                "hu": "Könnyen elérhető parkolóval.",
+                "ro": "Ușor accesibil cu parcare.",
+                "en": "Easily accessible with parking."
+              }
+            },
+            {
+              "name": "Rocca Albornoziana",
+              "tip_5lang": {
+                "de": "Parken Sie am Giro della Rocca.",
+                "hu": "Parkoljon a Giro della Rocca mentén.",
+                "ro": "Parcați la Giro della Rocca.",
+                "en": "Park at the Giro della Rocca."
+              }
+            },
+            {
+              "name": "Duomo di Spoleto",
+              "tip_5lang": {
+                "de": "Zufahrt ins Zentrum ist beschränkt (ZTL).",
+                "hu": "A belvárosi behajtás korlátozott (ZTL).",
+                "ro": "Accesul în centru este restricționat (ZTL).",
+                "en": "Center access is restricted (ZTL)."
+              }
+            },
+            {
+              "name": "Ponte delle Torri",
+              "tip_5lang": {
+                "de": "Bester Fotostopp der Stadt.",
+                "hu": "A város legjobb fotóhelyszíne.",
+                "ro": "Cel mai bun punct pentru fotografii.",
+                "en": "Best photo stop in town."
+              }
+            },
+            {
+              "name": "Chiesa di San Pietro",
+              "tip_5lang": {
+                "de": "Prächtige romanische Fassade.",
+                "hu": "Pompás román kori homlokzat.",
+                "ro": "Fațadă romanică splendidă.",
+                "en": "Splendid Romanesque facade."
+              }
+            },
+            {
+              "name": "Monteluco",
+              "tip_5lang": {
+                "de": "Heiliger Berg mit altem Wald.",
+                "hu": "Szent hegy ősi erdővel.",
+                "ro": "Munte sfânt cu o pădure veche.",
+                "en": "Holy mountain with an ancient forest."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Trüffel-Öl",
+                "tip": "Kaufen Sie direkt beim Erzeuger."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szarvasgomba olaj",
+                "tip": "Vásároljon közvetlenül a termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de trufe",
+                "tip": "Cumpărați direct de la producători."
+              }
+            ],
+            "en": [
+              {
+                "name": "Truffle Oil",
+                "tip": "Buy directly from local producers."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Monteluco",
+                "tip": "Waldspaziergang bei den Eremiten.",
+                "emoji": "🌿"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Monteluco",
+                "tip": "Erdei séta a remetelakoknál.",
+                "emoji": "🌿"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Monteluco",
+                "tip": "Plimbare în pădure la chiliile pustnicilor.",
+                "emoji": "🌿"
+              }
+            ],
+            "en": [
+              {
+                "name": "Monteluco",
+                "tip": "Forest walk near the hermitages.",
+                "emoji": "🌿"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Enoteca",
+                "tip": "Weine aus Montefalco."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Enoteca",
+                "tip": "Montefalcoi borok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Enoteca",
+                "tip": "Vinuri din Montefalco."
+              }
+            ],
+            "en": [
+              {
+                "name": "Enoteca",
+                "tip": "Wines from Montefalco."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken Sie in der Garage Posterna und nutzen Sie die Aufzüge.",
+              "Achten Sie auf die ZTL-Zonen im Stadtzentrum."
+            ],
+            "hu": [
+              "Parkoljon a Posterna garázsban és használja a lifteket.",
+              "Ügyeljen a belvárosi ZTL zónákra."
+            ],
+            "ro": [
+              "Parcați în garajul Posterna și folosiți lifturile.",
+              "Atenție la zonele ZTL din centrul orașului."
+            ],
+            "en": [
+              "Park in the Posterna garage and use the elevators.",
+              "Watch out for ZTL zones in the city center."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Spoleto auch bei Regen komfortabel. Starten Sie bei San Salvatore und fahren Sie zur Rocca Albornoziana, wo Sie nah am Eingang parken können. Mittags bietet der Duomo einen trockenen Stopp im Herzen der Stadt. Nachmittags führt die Fahrt zur Kirche San Pietro, bevor Sie den Tag auf dem Monteluco ausklingen lassen, wo der Nebel die Wälder in eine mystische Atmosphäre taucht.",
+            "hu": "Autóval esőben is kényelmesen felfedezheti Spoletót. Kezdje San Salvatorénál, majd hajtson a Rocca Albornozianához, ahol közel parkolhat a bejárathoz. Délben a dóm kínál száraz megállót a város szívében. Délután az út San Pietro templomához vezet, mielőtt a napot Montelucón zárná, ahol a köd misztikus hangulatba burkolja az erdőket.",
+            "ro": "Cu mașina, explorați Spoleto confortabil chiar și pe ploaie. Începeți la San Salvatore și conduceți spre Rocca Albornoziana, unde puteți parca aproape de intrare. La prânz, Domul oferă o oprire uscată în inima orașului. După-amiaza, drumul duce la biserica San Pietro, înainte de a încheia ziua pe Monteluco, unde ceața învăluie pădurile într-o atmosferă mistică.",
+            "en": "By car, you can explore Spoleto comfortably even in the rain. Start at San Salvatore and drive to the Rocca Albornoziana, where you can park close to the entrance. At noon, the Duomo offers a dry stop in the heart of the city. In the afternoon, head to the church of San Pietro before ending your day at Monteluco, where the mist shrouds the forests in a mystical atmosphere."
+          },
+          "stops": [
+            {
+              "name": "San Salvatore",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor dem Eingang nutzen.",
+                "hu": "Használja a közvetlenül a bejárat előtti parkolót.",
+                "ro": "Folosiți parcarea direct în fața intrării.",
+                "en": "Use the parking lot right in front of the entrance."
+              }
+            },
+            {
+              "name": "Rocca Albornoziana",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum Schloss.",
+                "hu": "Rövid séta a parkolótól a várig.",
+                "ro": "Scurtă plimbare de la parcare la castel.",
+                "en": "Short walk from the parking to the castle."
+              }
+            },
+            {
+              "name": "Duomo di Spoleto",
+              "tip_5lang": {
+                "de": "Zufahrt beschränkt; nutzen Sie das Parkhaus Posterna.",
+                "hu": "Behajtás korlátozott; használja a Posterna parkolóházat.",
+                "ro": "Acces restricționat; folosiți parcarea Posterna.",
+                "en": "Restricted access; use the Posterna parking garage."
+              }
+            },
+            {
+              "name": "Ponte delle Torri",
+              "tip_5lang": {
+                "de": "Toller Blick vom Auto aus bei starkem Regen.",
+                "hu": "Remek kilátás az autóból heves esőben.",
+                "ro": "Vedere excelentă din mașină în caz de ploaie grea.",
+                "en": "Great view from the car during heavy rain."
+              }
+            },
+            {
+              "name": "Chiesa di San Pietro",
+              "tip_5lang": {
+                "de": "Die Fassade glänzt im nassen Zustand.",
+                "hu": "A homlokzat vizesen különlegesen csillog.",
+                "ro": "Fațada strălucește când este udă.",
+                "en": "The facade glistens when wet."
+              }
+            },
+            {
+              "name": "Monteluco",
+              "tip_5lang": {
+                "de": "Vorsicht bei Nebel auf der Bergstraße.",
+                "hu": "Vigyázat ködben a hegyi úton.",
+                "ro": "Atenție la ceață pe drumul montan.",
+                "en": "Caution in foggy conditions on the mountain road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das große unterirdische Parkhaus Posterna.",
+              "Achten Sie auf die ZTL-Zonen (eingeschränkter Verkehr).",
+              "Die Straße zum Monteluco hat viele Kurven; fahren Sie vorsichtig bei Nässe.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto.",
+              "Ein Regenschirm im Auto ist bei den kurzen Wegen zu den Sehenswürdigkeiten hilfreich."
+            ],
+            "hu": [
+              "Használja a nagy földalatti Posterna parkolóházat.",
+              "Ügyeljen a ZTL (korlátozott forgalmi) zónákra.",
+              "A Montelucóra vezető út kanyargós; vezessen óvatosan esőben.",
+              "Ne hagyjon értéket látható helyen az autóban.",
+              "Az autóban tartott esernyő hasznos a rövid gyalogutakhoz."
+            ],
+            "ro": [
+              "Utilizați parcarea subterană mare Posterna.",
+              "Atenție la zonele ZTL (trafic restricționat).",
+              "Drumul spre Monteluco are multe curbe; conduceți prudent pe ploaie.",
+              "Nu lăsați obiecte de valoare la vedere în mașină.",
+              "O umbrelă în mașină este utilă pentru distanțele scurte până la obiective."
+            ],
+            "en": [
+              "Use the large underground Posterna parking garage.",
+              "Watch out for ZTL (restricted traffic) zones.",
+              "The road to Monteluco is curvy; drive carefully in wet weather.",
+              "Do not leave valuables visible in the car.",
+              "Keep an umbrella in the car for the short walks to sights."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Spoleto beginnt bei San Salvatore. Die Fahrt zur Rocca bietet spektakuläre Ausblicke auf die schneebedeckten Gipfel in der Ferne. Mittags parken Sie nahe dem Duomo für einen besinnlichen Besuch. Nachmittags bewundern Sie San Pietro, bevor Sie rechtzeitig zum Sonnenuntergang den Monteluco erreichen, um das goldene Licht über dem Tal zu genießen.",
+            "hu": "A téli autós körút Spoletóban San Salvatorénál kezdődik. Az út a Roccához látványos kilátást nyújt a távoli havas csúcsokra. Délben parkoljon a dóm közelében egy elmélyült látogatáshoz. Délután csodálja meg San Pietrót, mielőtt időben felérne Montelucóra a naplementére, hogy élvezze az aranyszínű fényeket a völgy felett.",
+            "ro": "O plimbare de iarnă prin Spoleto începe la San Salvatore. Drumul spre Rocca oferă vederi spectaculoase spre vârfurile înzăpezite din depărtare. La prânz, parcați lângă Dom pentru o vizită liniștită. După-amiaza admirați San Pietro, înainte de a ajunge la timp pe Monteluco pentru apus, pentru a vă bucura de lumina aurie peste vale.",
+            "en": "A winter drive through Spoleto starts at San Salvatore. The drive to the Rocca offers spectacular views of distant snow-capped peaks. At noon, park near the Duomo for a peaceful visit. In the afternoon, admire San Pietro before reaching Monteluco just in time for sunset to enjoy the golden light over the valley."
+          },
+          "stops": [
+            {
+              "name": "San Salvatore",
+              "tip_5lang": {
+                "de": "Die Heizung im Auto zwischen den Stopps genießen.",
+                "hu": "Élvezze a fűtést az autóban a megállók között.",
+                "ro": "Bucurați-vă de căldura din mașină între opriri.",
+                "en": "Enjoy the heater in the car between stops."
+              }
+            },
+            {
+              "name": "Rocca Albornoziana",
+              "tip_5lang": {
+                "de": "Panoramablick auf verschneite Berge.",
+                "hu": "Panorámás kilátás a havas hegyekre.",
+                "ro": "Vedere panoramică spre munții înzăpeziți.",
+                "en": "Panoramic view of snow-covered mountains."
+              }
+            },
+            {
+              "name": "Duomo di Spoleto",
+              "tip_5lang": {
+                "de": "Parkplatz Posterna bietet direkten Liftzugang.",
+                "hu": "A Posterna parkolóból közvetlen lift visz fel.",
+                "ro": "Parcarea Posterna oferă acces direct cu liftul.",
+                "en": "Posterna parking offers direct elevator access."
+              }
+            },
+            {
+              "name": "Ponte delle Torri",
+              "tip_5lang": {
+                "de": "Kurzer Stopp am Aussichtspunkt.",
+                "hu": "Rövid megálló a kilátópontnál.",
+                "ro": "Oprire scurtă la punctul de belvedere.",
+                "en": "Short stop at the viewpoint."
+              }
+            },
+            {
+              "name": "Chiesa di San Pietro",
+              "tip_5lang": {
+                "de": "Klares Licht für perfekte Fotos der Reliefs.",
+                "hu": "Tiszta fény a domborművek fotózásához.",
+                "ro": "Lumină clară pentru fotografii perfecte ale reliefurilor.",
+                "en": "Clear light for perfect photos of the reliefs."
+              }
+            },
+            {
+              "name": "Monteluco",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Berggipfel nötig.",
+                "hu": "Meleg ruházat szükséges a hegytetőn.",
+                "ro": "Haine groase necesare pentru vârful muntelui.",
+                "en": "Warm clothing needed for the mountain top."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie im Winter die Straßenverhältnisse zum Monteluco.",
+              "Frostschutzmittel in der Scheibenwaschanlage ist wichtig.",
+              "Die Sonne geht bereits um 16:45 Uhr unter.",
+              "Nutzen Sie die Parkhäuser mit Aufzügen zur Altstadt.",
+              "Eiskratzer nicht vergessen, falls das Auto draußen steht."
+            ],
+            "hu": [
+              "Ellenőrizze az útviszonyokat Monteluco felé.",
+              "A szélvédőmosó fagyállója fontos télen.",
+              "A nap már 16:45-kor lemegy.",
+              "Használja a lifttel felszerelt parkolóházakat.",
+              "Ne felejtse el a jégkaparót, ha kint parkol."
+            ],
+            "ro": [
+              "Verificați starea drumului spre Monteluco iarna.",
+              "Lichidul de parbriz cu protecție la îngheț este important.",
+              "Soarele apune deja la ora 16:45.",
+              "Utilizați parcările cu lift către centrul vechi.",
+              "Nu uitați racleta pentru gheață dacă mașina stă afară."
+            ],
+            "en": [
+              "Check road conditions to Monteluco in winter.",
+              "Antifreeze in the windshield washer is important.",
+              "The sun sets as early as 16:45.",
+              "Use parking garages with elevators to reach the old town.",
+              "Don't forget the ice scraper if the car is parked outside."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -980,6 +2129,360 @@
           "Escalators are free and connect the parking lots with the center.",
           "Buy a day ticket for the local bus for more distant destinations."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Dank der Rolltreppen und Aufzüge ist Spoleto auch ohne Auto leicht zu erkunden. Diese Route nutzt das moderne Transportsystem, um vom Markt zum Dom und zur Festung zu gelangen. Genießen Sie die Architektur ohne die Anstrengung der steilen Gassen.",
+            "hu": "A mozgólépcsőknek és lifteknek köszönhetően Spoleto autó nélkül is könnyen bejárható. Ez az útvonal a modern közlekedési rendszert használja, hogy a piactól a dómig és az erődig jusson. Élvezze az építészetet a meredek utcák fáradalmai nélkül.",
+            "ro": "Datorită scărilor rulante și ascensoarelor, Spoleto este ușor de explorat fără mașină. Această rută folosește sistemul modern de transport pentru a ajunge de la piață la dom și cetate. Bucurați-vă de arhitectură fără efortul străzilor abrupte.",
+            "en": "Thanks to escalators and elevators, Spoleto is easy to explore without a car. This route uses the modern transport system to get from the market to the cathedral and the fortress. Enjoy the architecture without the effort of the steep alleys."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Mercato",
+              "tip_5lang": {
+                "de": "Herz der Oberstadt.",
+                "hu": "A felsőváros szíve.",
+                "ro": "Inima orașului de sus.",
+                "en": "Heart of the upper town."
+              }
+            },
+            {
+              "name": "Arco di Druso e Germanico",
+              "tip_5lang": {
+                "de": "Antikes Stadttor.",
+                "hu": "Ókori városkapu.",
+                "ro": "Poartă antică a orașului.",
+                "en": "Ancient city gate."
+              }
+            },
+            {
+              "name": "Duomo di Spoleto",
+              "tip_5lang": {
+                "de": "Meisterwerk der Renaissance.",
+                "hu": "Reneszánsz mestermű.",
+                "ro": "Capodoperă renascentistă.",
+                "en": "Renaissance masterpiece."
+              }
+            },
+            {
+              "name": "Rocca Albornoziana",
+              "tip_5lang": {
+                "de": "Erreichbar mit dem Schrägaufzug.",
+                "hu": "Siklóval elérhető.",
+                "ro": "Accesibil cu ascensorul înclinat.",
+                "en": "Accessible by inclined elevator."
+              }
+            },
+            {
+              "name": "Piazza del Mercato",
+              "tip_5lang": {
+                "de": "Ideal für Mittagessen.",
+                "hu": "Ideális ebédidő.",
+                "ro": "Ideal pentru prânz.",
+                "en": "Ideal for lunch."
+              }
+            },
+            {
+              "name": "Teatro Romano",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Piazza.",
+                "hu": "Rövid séta a térről.",
+                "ro": "Drum scurt din piață.",
+                "en": "Short walk from the square."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Umbricelli",
+                "tip": "Frische lokale Pasta."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Umbricelli",
+                "tip": "Friss helyi tészta."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Umbricelli",
+                "tip": "Paste locale proaspete."
+              }
+            ],
+            "en": [
+              {
+                "name": "Umbricelli",
+                "tip": "Fresh local pasta."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kloster San Ponziano",
+                "tip": "Ruhiger Rückzugsort.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "San Ponziano kolostor",
+                "tip": "Csendes menedék.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mănăstirea San Ponziano",
+                "tip": "Refugiu liniștit.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Monastery of San Ponziano",
+                "tip": "Quiet retreat.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Handwerk",
+                "tip": "In den Gassen der Altstadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kézműves termékek",
+                "tip": "Az óváros szűk utcáiban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Artizanat",
+                "tip": "Pe străduțele centrului vechi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Handicrafts",
+                "tip": "In the alleys of the old town."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Rolltreppen sind kostenlos und verbinden die Parkplätze mit dem Zentrum.",
+              "Kaufen Sie ein Tagesticket für den lokalen Bus für entlegenere Ziele."
+            ],
+            "hu": [
+              "A mozgólépcsők ingyenesek és összekötik a parkolókat a központtal.",
+              "Vásároljon napijegyet a helyi buszra a távolabbi célokhoz."
+            ],
+            "ro": [
+              "Scările rulante sunt gratuite și leagă parcările de centru.",
+              "Cumpărați un bilet de o zi pentru autobuzul local pentru destinații mai îndepărtate."
+            ],
+            "en": [
+              "Escalators are free and connect the parking lots with the center.",
+              "Buy a day ticket for the local bus for more distant destinations."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie Spoletos alternatives Mobilitätssystem, um trocken zu bleiben. Starten Sie an der Piazza del Mercato und bewundern Sie den Arco di Druso. Mittags bringt Sie das System direkt zum Duomo. Nachmittags erkunden Sie die Rocca, bequem erreichbar über die Fahrstühle. Der Tag endet wieder an der Piazza del Mercato, wo Sie in einem gemütlichen Café den Regen beobachten können, bevor Sie zum Teatro Romano weiterziehen.",
+            "hu": "Használja Spoleto alternatív közlekedési rendszerét, hogy száraz maradjon. Kezdjen a Piazza del Mercatónál a Drusus-ívvel. Délben a rendszer közvetlenül a dómhoz repíti. Délután fedezze fel a Roccát, mely liftekkel kényelmesen elérhető. A nap újra a Piazza del Mercatón ér véget, ahol egy kávézóból figyelheti az esőt, mielőtt a Teatro Romano felé indulna.",
+            "ro": "Utilizați sistemul de mobilitate alternativă din Spoleto pentru a rămâne uscat. Începeți la Piazza del Mercato admirând Arcul lui Druso. La prânz, sistemul vă duce direct la Dom. După-amiaza, explorați Rocca, ușor accesibilă prin lifturi. Ziua se încheie din nou în Piazza del Mercato, unde puteți urmări ploaia dintr-o cafenea primitoare înainte de a merge spre Teatro Romano.",
+            "en": "Use Spoleto's alternative mobility system to stay dry. Start at Piazza del Mercato and admire the Arch of Drusus. At noon, the system takes you directly to the Duomo. In the afternoon, explore the Rocca, easily accessible via elevators. The day ends back at Piazza del Mercato, where you can watch the rain from a cozy cafe before moving on to the Roman Theatre."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Mercato",
+              "tip_5lang": {
+                "de": "Zentraler Punkt für den Einstieg ins Tunnelsystem.",
+                "hu": "Központi pont az alagútrendszerbe való belépéshez.",
+                "ro": "Punct central pentru intrarea în sistemul de tuneluri.",
+                "en": "Central point for entering the tunnel system."
+              }
+            },
+            {
+              "name": "Arco di Druso e Germanico",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es viele überdachte Gassen.",
+                "hu": "A közelben sok a fedett sikátor.",
+                "ro": "În apropiere sunt multe străduțe acoperite.",
+                "en": "There are many covered alleys nearby."
+              }
+            },
+            {
+              "name": "Duomo di Spoleto",
+              "tip_5lang": {
+                "de": "Der Weg vom Lift zum Dom ist kurz.",
+                "hu": "Az út a lifttől a dómig rövid.",
+                "ro": "Drumul de la lift la Dom este scurt.",
+                "en": "The walk from the elevator to the Duomo is short."
+              }
+            },
+            {
+              "name": "Rocca Albornoziana",
+              "tip_5lang": {
+                "de": "Fahrstühle bringen Sie direkt nach oben.",
+                "hu": "Liftek viszik fel közvetlenül a várhoz.",
+                "ro": "Lifturile vă duc direct sus.",
+                "en": "Elevators take you directly to the top."
+              }
+            },
+            {
+              "name": "Piazza del Mercato",
+              "tip_5lang": {
+                "de": "Ideal für eine Pause zwischen den Fahrten.",
+                "hu": "Ideális egy szünetre az utazások között.",
+                "ro": "Ideal pentru o pauză între deplasări.",
+                "en": "Ideal for a break between trips."
+              }
+            },
+            {
+              "name": "Teatro Romano",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle.",
+                "hu": "Rövid séta a buszmegállótól.",
+                "ro": "Scurtă plimbare de la stația de autobuz.",
+                "en": "Short walk from the bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Percorsi Meccanizzati (Rolltreppen) sind komplett überdacht.",
+              "Prüfen Sie die Fahrpläne der Minibusse (Linea C).",
+              "Ein Tagesticket lohnt sich bei schlechtem Wetter.",
+              "Die Aufzüge zur Rocca sind der trockenste Weg nach oben.",
+              "Das Mobilitätssystem ist bis spät am Abend in Betrieb."
+            ],
+            "hu": [
+              "A mozgólépcsők (Percorsi Meccanizzati) teljesen fedettek.",
+              "Ellenőrizze a minibuszok (Linea C) menetrendjét.",
+              "Rossz időben érdemes napijegyet váltani.",
+              "A Roccához vezető liftek a legszárazabb utat kínálják.",
+              "A közlekedési rendszer késő estig üzemel."
+            ],
+            "ro": [
+              "Scările rulante (Percorsi Meccanizzati) sunt complet acoperite.",
+              "Verificați orarul microbuzelor (Linia C).",
+              "Un bilet de o zi merită pe vreme rea.",
+              "Lifturile către Rocca sunt cea mai uscată cale spre vârf.",
+              "Sistemul de mobilitate funcționează până seara târziu."
+            ],
+            "en": [
+              "The escalators (Percorsi Meccanizzati) are completely covered.",
+              "Check the minibus schedules (Linea C).",
+              "A day ticket is worth it in bad weather.",
+              "The elevators to the Rocca are the driest way up.",
+              "The mobility system operates until late in the evening."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Spoleto im Winter lässt sich hervorragend mit den öffentlichen Verkehrsmitteln erkunden. Starten Sie an der Piazza del Mercato im frischen Morgenlicht. Mittags bringt Sie der bequeme Transport zum Duomo. Nachmittags ist die Rocca der Höhepunkt, perfekt erreichbar und windgeschützt durch die Tunnel. Den Abend verbringen Sie entspannt an der Piazza del Mercato, bevor Sie den letzten Bus zum Teatro Romano nehmen.",
+            "hu": "A téli Spoleto kiválóan felfedezhető tömegközlekedéssel. Kezdjen a Piazza del Mercatón a friss reggeli fényben. Délben kényelmes járat viszi a dómhoz. Délután a Rocca a csúcspont, mely az alagutakon keresztül szélvédett módon érhető el. Az estét töltse nyugodtan a Piazza del Mercatón, mielőtt az utolsó busszal a Teatro Romano felé indulna.",
+            "ro": "Spoleto iarna poate fi explorat excelent cu transportul public. Începeți în Piazza del Mercato în lumina proaspătă a dimineții. La prânz, transportul confortabil vă duce la Dom. După-amiaza, Rocca este punctul culminant, perfect accesibilă și protejată de vânt prin tuneluri. Seara, relaxați-vă în Piazza del Mercato înainte de a lua ultimul autobuz spre Teatro Romano.",
+            "en": "Spoleto in winter is best explored using public transport. Start at Piazza del Mercato in the fresh morning light. At noon, a comfortable ride takes you to the Duomo. In the afternoon, the Rocca is the highlight, perfectly accessible and wind-protected through the tunnels. Spend a relaxed evening at Piazza del Mercato before taking the last bus to the Roman Theatre."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Mercato",
+              "tip_5lang": {
+                "de": "Das Tunnelsystem ist im Winter windstill.",
+                "hu": "Az alagútrendszer télen szélmentes.",
+                "ro": "Sistemul de tuneluri este ferit de vânt iarna.",
+                "en": "The tunnel system is wind-free in winter."
+              }
+            },
+            {
+              "name": "Arco di Druso e Germanico",
+              "tip_5lang": {
+                "de": "Schneller Zugang zum warmen Minibus.",
+                "hu": "Gyors hozzáférés a meleg minibuszhoz.",
+                "ro": "Acces rapid la microbuzul încălzit.",
+                "en": "Quick access to the warm minibus."
+              }
+            },
+            {
+              "name": "Duomo di Spoleto",
+              "tip_5lang": {
+                "de": "Der Ausstieg 'Duomo' spart den kalten Aufstieg.",
+                "hu": "A 'Duomo' megálló megkíméli a hideg emelkedőtől.",
+                "ro": "Stația 'Duomo' vă scutește de urcarea prin frig.",
+                "en": "The 'Duomo' stop saves you from the cold uphill climb."
+              }
+            },
+            {
+              "name": "Rocca Albornoziana",
+              "tip_5lang": {
+                "de": "Toller Ausblick ohne langes Frieren.",
+                "hu": "Nagyszerű kilátás hosszú fagyoskodás nélkül.",
+                "ro": "Vedere excelentă fără a îngheța afară.",
+                "en": "Great view without staying out in the cold too long."
+              }
+            },
+            {
+              "name": "Piazza del Mercato",
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt für die Abendlinie.",
+                "hu": "Központi átszállópont az esti járatokhoz.",
+                "ro": "Punct central de transfer pentru liniile de seară.",
+                "en": "Central transfer point for evening lines."
+              }
+            },
+            {
+              "name": "Teatro Romano",
+              "tip_5lang": {
+                "de": "Letzte Busse fahren gegen 19:30 Uhr.",
+                "hu": "Az utolsó buszok 19:30 körül indulnak.",
+                "ro": "Ultimele autobuze pleacă în jurul orei 19:30.",
+                "en": "Last buses depart around 19:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Rolltreppentunnel sind im Winter wärmer als die Straßen.",
+              "Fahrpläne können im Winter leicht variieren.",
+              "Die Sonne geht um 16:45 Uhr unter; planen Sie Ihre Fahrten danach.",
+              "Der Lift zur Rocca ist ideal, um Wind zu vermeiden.",
+              "Tragen Sie trotzdem Mütze und Schal für die Stopps im Freien."
+            ],
+            "hu": [
+              "A mozgólépcső alagútjai télen melegebbek az utcánál.",
+              "A menetrendek télen kismértékben változhatnak.",
+              "A nap 16:45-kor lemegy; tervezze ehhez az utazásait.",
+              "A Roccához vezető lift ideális a szél elkerülésére.",
+              "Viseljen sapkát és sálat a kültéri megállókhoz."
+            ],
+            "ro": [
+              "Tunelurile scărilor rulante sunt mai calde decât străzile iarna.",
+              "Orarele pot varia ușor în timpul iernii.",
+              "Soarele apune la 16:45; planificați călătoriile în funcție de asta.",
+              "Liftul către Rocca este ideal pentru a evita vântul.",
+              "Purtați totuși căciulă și fular pentru stațiile în aer liber."
+            ],
+            "en": [
+              "The escalator tunnels are warmer than the streets in winter.",
+              "Schedules may vary slightly in winter.",
+              "The sun sets at 16:45; plan your trips accordingly.",
+              "The elevator to the Rocca is ideal for avoiding the wind.",
+              "Still, wear a hat and scarf for the outdoor stops."
+            ]
+          }
+        }
       }
     }
   },

@@ -412,6 +412,570 @@
           "Take your time to look inside the small studios.",
           "Park in the large parking lot in front of the city entrance."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Willkommen in Grožnjan, der Stadt der Künstler. Der Morgen beginnt an der Loggia, wo die Zeit stillzustehen scheint. Schlendern Sie durch die mittelalterlichen Gassen zum Stadttor und spüren Sie die Geschichte der massiven Mauern.\n\nMittags tauchen Sie in die Welt der Kunst ein. Der Palast Spinotti und die Galerie Fonticus zeigen, warum dieser Ort in den 1960er Jahren von Künstlern wiederbelebt wurde. Jede Ecke bietet ein neues Detail oder eine kleine Galerie.\n\nDer Nachmittag steht im Zeichen der Musik und des Handwerks. Im Internationalen Kulturzentrum hört man oft klassische Klänge, während die Alte Schmiede an die harte Arbeit vergangener Tage erinnert. Ein Spaziergang zum Balwan-Tor rundet die Erkundung ab.\n\nZum Ausklang des Tages bietet die Kapelle St. Cosmas Ruhe, bevor Sie den Aussichtspunkt über das Mirna-Tal aufsuchen. Hier erleben Sie einen der schönsten Panoramablicke Istriens, wenn die Sonne die Hügel in goldenes Licht taucht.",
+            "hu": "Üdvözöljük Grozsnyánban, a művészek városában. A reggel a Loggiánál kezdődik, ahol megállni látszik az idő. Sétáljon a középkori utcákon a városkapuig, és érezze a masszív falak történelmi erejét.\n\nDélben merüljön el a művészet világában. A Spinotti-palota és a Fonticus Galéria megmutatja, miért keltették életre a művészek ezt a helyet az 1960-as években. Minden sarok egy új részletet vagy egy kis galériát rejt.\n\nA délután a zene és a kézművesség jegyében telik. A Nemzetközi Kulturális Központban gyakran hallani klasszikus dallamokat, míg a Régi Kovácsműhely a múlt nehéz munkájára emlékeztet. A Balwan-kapuhoz tett séta teszi teljessé a felfedezést.\n\nA nap végén a Szent Kozma kápolna nyújt nyugalmat, mielőtt felkeresné a Mirna-völgyre néző kilátót. Itt tapasztalhatja meg Isztria egyik legszebb panorámáját, amikor a nap arany fénybe vonja a dombokat.",
+            "ro": "Bun venit în Grožnjan, orașul artiștilor. Dimineața începe la Loggia, unde timpul pare să stea în loc. Plimbați-vă pe străzile medievale până la poarta orașului și simțiți istoria zidurilor masive.\n\nLa prânz, scufundați-vă în lumea artei. Palatul Spinotti și Galeria Fonticus arată de ce acest loc a fost revitalizat de artiști în anii 1960. Fiecare colț oferă un nou detaliu sau o mică galerie.\n\nDupă-amiaza este dedicată muzicii și meșteșugurilor. În Centrul Cultural Internațional se aud adesea sunete clasice, în timp ce Vechile Fierării amintesc de munca grea a vremurilor trecute. O plimbare la Poarta Balwan completează explorarea.\n\nLa sfârșitul zilei, Capela Sf. Cosma oferă liniște, înainte de a vizita punctul de belvedere peste Valea Mirna. Aici veți experimenta una dintre cele mai frumoase panorame ale Istriei, când soarele scaldă dealurile în lumină aurie.",
+            "en": "Welcome to Grožnjan, the city of artists. The morning begins at the Loggia, where time seems to stand still. Stroll through the medieval alleys to the city gate and feel the history of the massive walls.\n\nAt midday, immerse yourself in the world of art. The Spinotti Palace and the Fonticus Gallery show why this place was revitalized by artists in the 1960s. Every corner offers a new detail or a small gallery.\n\nThe afternoon is dedicated to music and crafts. At the International Cultural Centre, classical sounds are often heard, while the Old Smithy reminds of the hard work of past days. A walk to the Balwan Gate rounds off the exploration.\n\nAt the end of the day, the Chapel of St. Cosmas offers peace before you head to the viewpoint over the Mirna Valley. Here you will experience one of Istria's most beautiful panoramas when the sun bathes the hills in golden light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Loggia von Grožnjan",
+                "hu": "Grozsnyáni Loggia",
+                "ro": "Loggia din Grožnjan",
+                "en": "Grožnjan Loggia"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für den ersten Morgenkaffee mit Blick auf die Gassen.",
+                "hu": "Tökéletes hely az első reggeli kávéhoz, rálátással a szűk utcákra.",
+                "ro": "Locul perfect pentru prima cafea de dimineață, cu vedere la străduțe.",
+                "en": "Perfect spot for the first morning coffee with a view of the alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtmauern und Stadttor",
+                "hu": "Várfalak és Városkapu",
+                "ro": "Zidurile Cetății și Poarta Orașului",
+                "en": "City Walls and Gate"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Mauern stammen aus dem 14. Jahrhundert.",
+                "hu": "A masszív falak a 14. századból származnak.",
+                "ro": "Zidurile masive datează din secolul al XIV-lea.",
+                "en": "The massive walls date back to the 14th century."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfarrkirche St. Vitus",
+                "hu": "Szent Vid plébániatemplom",
+                "ro": "Biserica parohială Sfântul Vitus",
+                "en": "Parish Church of St. Vitus"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das barocke Chorgestühl aus dem 18. Jahrhundert.",
+                "hu": "Csodálja meg a 18. századi barokk kórust.",
+                "ro": "Admirați stranele baroce ale corului din secolul al XVIII-lea.",
+                "en": "Admire the 18th-century Baroque choir stalls."
+              }
+            },
+            {
+              "name": {
+                "de": "Palast Spinotti",
+                "hu": "Spinotti-palota",
+                "ro": "Palatul Spinotti",
+                "en": "Spinotti Palace"
+              },
+              "tip_5lang": {
+                "de": "Einst Sitz der Adelsfamilie, heute ein Symbol lokaler Geschichte.",
+                "hu": "Egykor nemesi család székhelye, ma a helyi történelem szimbóluma.",
+                "ro": "Fosta reședință a familiei nobiliare, astăzi un simbol al istoriei locale.",
+                "en": "Former seat of a noble family, now a symbol of local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerie Fonticus",
+                "hu": "Fonticus Galéria",
+                "ro": "Galeria Fonticus",
+                "en": "Fonticus Gallery"
+              },
+              "tip_5lang": {
+                "de": "Hort zeitgenössischer Kunst in einem historischen Gebäude.",
+                "hu": "Kortárs művészeti központ egy történelmi épületben.",
+                "ro": "Centru de artă contemporană într-o clădire istorică.",
+                "en": "Hub of contemporary art inside a historic building."
+              }
+            },
+            {
+              "name": {
+                "de": "Internationales Kulturzentrum",
+                "hu": "Nemzetközi Kulturális Központ",
+                "ro": "Centrul Cultural Internațional",
+                "en": "International Cultural Centre"
+              },
+              "tip_5lang": {
+                "de": "Hier proben im Sommer oft Musiker aus aller Welt.",
+                "hu": "Nyáron gyakran próbálnak itt zenészek a világ minden tájáról.",
+                "ro": "Vara, aici repetă adesea muzicieni din întreaga lume.",
+                "en": "Musicians from all over the world often rehearse here in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Schmiede",
+                "hu": "Régi Kovácsműhely",
+                "ro": "Vechile Fierării",
+                "en": "Old Smithy"
+              },
+              "tip_5lang": {
+                "de": "Einblick in das traditionelle Handwerk der Region.",
+                "hu": "Betekintés a régió hagyományos mesterségeibe.",
+                "ro": "O privire asupra meșteșugurilor tradiționale ale regiunii.",
+                "en": "Insight into the traditional crafts of the region."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadttor Balwan",
+                "hu": "Balwan városkapu",
+                "ro": "Poarta Balwan",
+                "en": "Balwan Gate"
+              },
+              "tip_5lang": {
+                "de": "Ein kleineres, charmantes Tor im westlichen Teil.",
+                "hu": "Kisebb, bájos kapu a város nyugati részén.",
+                "ro": "O poartă mai mică și fermecătoare în partea de vest.",
+                "en": "A smaller, charming gate in the western part."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle St. Cosmas und Damian",
+                "hu": "Szent Kozma és Damján kápolna",
+                "ro": "Capela Sf. Cosma și Damian",
+                "en": "Chapel of St. Cosmas and Damian"
+              },
+              "tip_5lang": {
+                "de": "In der Nähe befinden sich oft kleine Freiluft-Ateliers.",
+                "hu": "A közelben gyakran találni kis szabadtéri műhelyeket.",
+                "ro": "În apropiere se află adesea mici ateliere în aer liber.",
+                "en": "Small open-air studios are often found nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Mirna-Tal",
+                "hu": "Mirna-völgyi kilátó",
+                "ro": "Punct de belvedere Valea Mirna",
+                "en": "Mirna Valley Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der beste Ort für Fotos bei Sonnenuntergang.",
+                "hu": "A legjobb hely fotózáshoz naplementekor.",
+                "ro": "Cel mai bun loc pentru fotografii la apus.",
+                "en": "The best place for photos at sunset."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Bastia",
+                "tip": "Probieren Sie die hausgemachten Fritaja mit istrischen Trüffeln."
+              },
+              {
+                "name": "Pintur",
+                "tip": "Traditionelle Jota und lokaler Prosciutto (Pršut)."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba Bastia",
+                "tip": "Kóstolja meg a házi készítésű fritaját isztriai szarvasgombával."
+              },
+              {
+                "name": "Pintur",
+                "tip": "Hagyományos jota és helyi pršut (sonka)."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Bastia",
+                "tip": "Încercați fritaja de casă cu trufe istriene."
+              },
+              {
+                "name": "Pintur",
+                "tip": "Jota tradițională și prosciutto local (Pršut)."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Bastia",
+                "tip": "Try the homemade fritaja with Istrian truffles."
+              },
+              {
+                "name": "Pintur",
+                "tip": "Traditional jota and local prosciutto (Pršut)."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirna-Tal Panorama",
+                "tip": "Stille genießen beim Blick über die Weinberge.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Südliche Stadtmauern",
+                "tip": "Ein ruhiger Platz abseits der Galerien.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirna-völgyi panoráma",
+                "tip": "Élvezze a csendet a szőlőültetvényekre nézve.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Déli várfalak",
+                "tip": "Csendes hely távol a galériák zajától.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Panorama Valea Mirna",
+                "tip": "Bucurați-vă de liniște privind peste podgorii.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Zidurile de sud",
+                "tip": "Un loc liniștit departe de galerii.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirna Valley Panorama",
+                "tip": "Enjoy the silence while looking over the vineyards.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Southern City Walls",
+                "tip": "A quiet spot away from the galleries.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Atelier-Gasse",
+                "tip": "Handgefertigte Keramik und Originalgemälde."
+              },
+              {
+                "name": "Zigante",
+                "tip": "Hochwertige Trüffelprodukte und Olivenöl."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Művész-köz",
+                "tip": "Kézzel készített kerámiák és eredeti festmények."
+              },
+              {
+                "name": "Zigante",
+                "tip": "Kiváló minőségű szarvasgombás termékek és olívaolaj."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Aleea Atelierelor",
+                "tip": "Ceramică lucrată manual și picturi originale."
+              },
+              {
+                "name": "Zigante",
+                "tip": "Produse cu trufe de înaltă calitate și ulei de măsline."
+              }
+            ],
+            "en": [
+              {
+                "name": "Atelier Alley",
+                "tip": "Handmade ceramics and original paintings."
+              },
+              {
+                "name": "Zigante",
+                "tip": "High-quality truffle products and olive oil."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das historische Kopfsteinpflaster.",
+              "Besuchen Sie Grožnjan am späten Nachmittag, wenn das Licht ideal für Fotos ist.",
+              "Nehmen Sie sich Zeit, um in die kleinen Ateliers hineinzuschauen.",
+              "Parken Sie auf dem großen Parkplatz vor dem Stadteingang."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a történelmi macskaköves utcákhoz.",
+              "Látogasson el Grozsnyánba késő délután, amikor a fények ideálisak a fotózáshoz.",
+              "Szánjon időt arra, hogy benézzen a kis műhelyekbe.",
+              "Parkoljon a város bejárata előtti nagy parkolóban."
+            ],
+            "ro": [
+              "Purtați pantofi confortabili pentru pavajul istoric cu piatră cubică.",
+              "Vizitați Grožnjan după-amiaza târziu, când lumina este ideală pentru fotografii.",
+              "Acordați-vă timp pentru a privi în micile ateliere.",
+              "Parcați în parcarea mare din fața intrării în oraș."
+            ],
+            "en": [
+              "Wear comfortable shoes for the historic cobblestone streets.",
+              "Visit Grožnjan in the late afternoon when the light is ideal for photos.",
+              "Take your time to look inside the small studios.",
+              "Park in the large parking lot in front of the city entrance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem schützenden Dach der Stadtloggia, während der Regen die Kalksteinpflaster der Gassen zum Glänzen bringt. Die Atmosphäre ist ruhig und beinahe mystisch.\n\nMittags bieten die Galerie Fonticus und die Ateliers im Spinotti-Palast trockene Zuflucht für Kunstliebhaber. Der Klang des Regens auf den alten Ziegeldächern begleitet den Rundgang.\n\nAm Nachmittag erkunden wir das Internationale Kulturzentrum und die Kirchen, in denen die barocke Pracht einen warmen Kontrast zum grauen Himmel bildet.\n\nDer Abend endet gemütlich in einer rustikalen Konoba, wo der Duft von Trüffeln und das Prasseln der Tropfen an den Fenstern für echte istrische Geborgenheit sorgen.",
+            "hu": "A reggel a városi loggia védelmében indul, miközben az eső fényesre mossa az ódon mészkő utcákat. A város ilyenkor csendes és misztikus arcát mutatja.\n\nDélben a Fonticus galéria és a Spinotti-palota műhelyei kínálnak száraz menedéket a művészetkedvelőknek. Az eső kopogása a régi tetőcserepeken különleges hangulatot ad a sétának.\n\nDélután a Nemzetközi Kulturális Központot és a templomokat fedezzük fel, ahol a barokk belső terek meleg kontrasztot alkotnak a szürke égbolttal.\n\nAz este egy meghitt konobában ér véget, ahol a szarvasgomba illata és az ablakon kopogó esőcseppek hamisítatlan isztriai életérzést árasztanak.",
+            "ro": "Dimineața începe sub acoperișul protector al lojei orașului, în timp ce ploaia face ca pavajul de calcar să strălucească. Atmosfera este liniștită și aproape mistică.\n\nLa prânz, galeria Fonticus și atelierele din Palatul Spinotti oferă un refugiu uscat pentru iubitorii de artă. Sunetul ploii pe acoperișurile vechi însoțește vizita.\n\nDupă-amiaza explorăm Centrul Cultural Internațional și bisericile, unde splendoarea barocă oferă un contrast cald cu cerul cenușiu.\n\nSeara se încheie confortabil într-o tavernă locală, unde parfumul trufelor și ropotul ploii la fereastră creează o stare autentică de bine istriană.",
+            "en": "Morning begins under the protective roof of the City Loggia, as rain makes the limestone pavements of the narrow streets glisten. The atmosphere is quiet and almost mystical.\n\nAt noon, the Fonticus Gallery and the studios within Spinotti Palace provide dry havens for art lovers. The sound of rain on old roof tiles accompanies your exploration.\n\nIn the afternoon, visit the International Cultural Centre and the churches, where Baroque interiors offer a warm contrast to the grey sky outside.\n\nThe evening ends cozily in a rustic konoba, where the scent of truffles and the patter of rain against the windows create a sense of true Istrian comfort."
+          },
+          "stops": [
+            {
+              "name": "Grožnjan Loggia",
+              "tip_5lang": {
+                "de": "Bleiben Sie unter den Arkaden, um die vorbeiziehenden Wolken über dem Tal zu beobachten.",
+                "hu": "Maradjon az árkádok alatt, és figyelje a völgy felett átvonuló felhőket.",
+                "ro": "Stați sub arcade pentru a observa norii care trec peste vale.",
+                "en": "Stay under the arches to watch the clouds passing over the valley."
+              }
+            },
+            {
+              "name": "City Walls and Gate",
+              "tip_5lang": {
+                "de": "Vorsicht, die alten Steine sind bei Nässe extrem rutschig. Festes Schuhwerk ist wichtig.",
+                "hu": "Vigyázat, a régi kövek vizesen rendkívül csúszósak. A stabil lábbeli fontos.",
+                "ro": "Atenție, pietrele vechi sunt extrem de alunecoase când sunt ude. Încălțămintea fixă este vitală.",
+                "en": "Careful, the ancient stones are extremely slippery when wet. Sturdy footwear is essential."
+              }
+            },
+            {
+              "name": "Parish Church of St. Vitus",
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort, um sich abzutrocknen und das barocke Interieur zu bewundern.",
+                "hu": "Békés hely a megszárítkozáshoz és a barokk belső tér megcsodálásához.",
+                "ro": "Un loc liniștit pentru a vă usca și pentru a admira interiorul baroc.",
+                "en": "A peaceful place to dry off and admire the Baroque interior."
+              }
+            },
+            {
+              "name": "Spinotti Palace",
+              "tip_5lang": {
+                "de": "Die Steinfassaden wirken im Regen besonders dunkel und eindrucksvoll.",
+                "hu": "A kőhomlokzatok az esőben különösen sötétnek és hatásosnak tűnnek.",
+                "ro": "Fațadele de piatră par deosebit de întunecate și impresionante în ploaie.",
+                "en": "The stone facades look particularly dark and impressive in the rain."
+              }
+            },
+            {
+              "name": "Fonticus Gallery",
+              "tip_5lang": {
+                "de": "Idealer Indoor-Stopp, um zeitgenössische Kunst ohne Regenrisiko zu genießen.",
+                "hu": "Ideális fedett megálló a kortárs művészet élvezetéhez, esőmentesen.",
+                "ro": "Oprire ideală în interior pentru a savura arta contemporană fără riscul ploii.",
+                "en": "Ideal indoor stop to enjoy contemporary art without the risk of rain."
+              }
+            },
+            {
+              "name": "International Cultural Centre",
+              "tip_5lang": {
+                "de": "Hören Sie nach Musikproben, die oft in den geschützten Sälen stattfinden.",
+                "hu": "Figyelje a zenei próbákat, amelyeket gyakran tartanak a védett termekben.",
+                "ro": "Ascultați repetițiile muzicale care au loc adesea în sălile protejate.",
+                "en": "Listen for music rehearsals that are often held in the sheltered halls."
+              }
+            },
+            {
+              "name": "Old Smithy",
+              "tip_5lang": {
+                "de": "Das rustikale Ambiente wirkt an einem grauen Tag noch authentischer.",
+                "hu": "A rusztikus környezet egy szürke napon még hitelesebbnek hat.",
+                "ro": "Ambianța rustică pare și mai autentică într-o zi cenușie.",
+                "en": "The rustic ambiance feels even more authentic on a grey day."
+              }
+            },
+            {
+              "name": "Balwan Gate",
+              "tip_5lang": {
+                "de": "Das Moos auf den Steinen leuchtet bei Regen besonders intensiv grün.",
+                "hu": "A köveken lévő moha esőben különösen intenzív zöld színben pompázik.",
+                "ro": "Mușchiul de pe pietre strălucește într-un verde intens în timpul ploii.",
+                "en": "The moss on the stones glows with a particularly intense green during rain."
+              }
+            },
+            {
+              "name": "Chapel of St. Cosmas and Damian",
+              "tip_5lang": {
+                "de": "Ein kleiner, trockener Rückzugsort fernab vom Wind.",
+                "hu": "Kicsi, száraz menedékhely a széltől távol.",
+                "ro": "Un mic refugiu uscat, departe de vânt.",
+                "en": "A small, dry retreat away from the wind."
+              }
+            },
+            {
+              "name": "Mirna Valley Viewpoint",
+              "tip_5lang": {
+                "de": "Das neblige Tal bietet eine geheimnisvolle, fast filmreife Kulisse.",
+                "hu": "A ködös völgy titokzatos, szinte filmbe illő hátteret nyújt.",
+                "ro": "Valea cețoasă oferă un decor misterios, aproape ca în filme.",
+                "en": "The misty valley offers a mysterious, almost cinematic backdrop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie Schirme in den engen Gassen; ein hochwertiges Regen-Cape ist praktischer.",
+              "Die glattpolierten Kalksteine werden bei Nässe spiegelglatt – gehen Sie langsam.",
+              "Nutzen Sie die vielen kleinen Galerien als natürliche Unterstände beim Gehen.",
+              "Parken Sie am Dorfeingang, um lange Wege auf unbefestigten Flächen zu vermeiden."
+            ],
+            "hu": [
+              "A szűk utcákban kerülje az esernyőt; egy jó esőponcsó sokkal praktikusabb.",
+              "A fényesre kopott mészkő vizesen tükörsima – haladjon lassan és óvatosan.",
+              "Használja ki a sok apró galériát természetes menedékként séta közben.",
+              "Parkoljon a falu bejáratánál, hogy elkerülje a hosszú gyaloglást a felázott talajon."
+            ],
+            "ro": [
+              "Evitați umbrelele în străzile înguste; o pelerină de ploaie este mult mai practică.",
+              "Pietrele de calcar lustruite devin extrem de alunecoase – mergeți încet.",
+              "Folosiți numeroasele galerii mici ca adăposturi naturale în timpul plimbării.",
+              "Parcați la intrarea în sat pentru a evita drumurile lungi pe suprafețe neasfaltate."
+            ],
+            "en": [
+              "Avoid umbrellas in the narrow alleys; a high-quality rain poncho is more practical.",
+              "The polished limestone becomes mirror-slick when wet – walk slowly and carefully.",
+              "Use the many small galleries as natural shelters while moving through the town.",
+              "Park at the village entrance to avoid long walks on unpaved or muddy surfaces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare, kalte Winterluft am Morgen lässt den Blick über das Mirna-Tal unendlich weit erscheinen. Die Stille im Dorf der Künstler ist jetzt fast greifbar.\n\nMittags wärmen wir uns in den wenigen geöffneten Ateliers auf. Das Licht fällt flach durch die Gassen und betont die mittelalterlichen Details der Steinmetzkunst.\n\nDer Nachmittag gehört der 'Goldenen Stunde' vor dem frühen Sonnenuntergang gegen 17:00 Uhr. Die Stadtmauern leuchten in warmen Rottönen, bevor die Kälte anzieht.\n\nAbends brennen die Lichter in den Fenstern der Steinhäuser. Ein Abendessen am Kamin mit istrischem Wein ist der perfekte Abschluss für diesen meditativen Tag.",
+            "hu": "A tiszta, hideg téli reggelen a Mirna-völgyre nyíló kilátás végtelennek tűnik. A művészek falujának csendje ilyenkor szinte tapintható.\n\nDélben a kevés nyitva tartó műhely egyikében melegszünk fel. A nap alacsonyan jár, kiemelve a kőfaragások középkori részleteit a szűk utcákban.\n\nA délután az aranyló óráé a korai, 17:00 körüli naplemente előtt. A városfalak meleg vörösben izzanak, mielőtt beállna a fagy.\n\nEste fények gyúlnak a kőházak ablakaiban. Egy kandalló melletti vacsora isztriai borral tökéletes lezárása ennek a meditatív napnak.",
+            "ro": "Aerul curat și rece de iarnă face ca priveliștea peste valea Mirna să pară infinită dimineața. Liniștea din satul artiștilor este acum aproape palpabilă.\n\nLa prânz ne încălzim în puținele ateliere deschise. Lumina cade razant prin ulițe, scoțând în evidență detaliile medievale ale sculpturilor în piatră.\n\nDupă-amiaza aparține 'orei de aur' înainte de apusul devreme, în jurul orei 17:00. Zidurile cetății strălucesc în tonuri calde de roșu înainte de lăsarea frigului.\n\nSeara, luminile se aprind la ferestrele caselor de piatră. O cină lângă șemineu cu vin istrian este finalul perfect pentru această zi meditativă.",
+            "en": "The crisp, cold winter morning air makes the view over the Mirna Valley seem infinite. The silence in the 'town of artists' is almost tangible at this time of year.\n\nAt noon, warm up in one of the few open artist studios. The low winter sun casts long shadows, highlighting the medieval stonework details in the alleys.\n\nAfternoon is dedicated to the 'Golden Hour' before the early sunset around 17:00. The city walls glow in warm red tones before the evening chill sets in.\n\nIn the evening, lights flicker in the windows of the stone houses. A dinner by the fireplace with Istrian wine is the perfect end to this meditative day."
+          },
+          "stops": [
+            {
+              "name": "Grožnjan Loggia",
+              "tip_5lang": {
+                "de": "Der Bora-Wind kann hier sehr scharf sein; ziehen Sie sich warm an.",
+                "hu": "A bóra szél itt nagyon éles lehet; öltözzön fel melegen.",
+                "ro": "Vântul Bora poate fi foarte tăios aici; îmbrăcați-vă bine.",
+                "en": "The Bora wind can be very sharp here; wrap up warmly."
+              }
+            },
+            {
+              "name": "City Walls and Gate",
+              "tip_5lang": {
+                "de": "Genießen Sie die freie Sicht, da die Bäume im Tal nun kein Laub tragen.",
+                "hu": "Élvezze a zavartalan kilátást, mivel a völgy fái most lombmentesek.",
+                "ro": "Bucurați-vă de vederea neobstrucționată, deoarece copacii din vale nu au frunze acum.",
+                "en": "Enjoy the unobstructed views now that the trees in the valley have lost their leaves."
+              }
+            },
+            {
+              "name": "Parish Church of St. Vitus",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Öffnungszeiten, da diese im Winter kürzer sein können.",
+                "hu": "Ellenőrizze a nyitvatartást, mert télen rövidebb lehet.",
+                "ro": "Verificați programul, deoarece acesta poate fi mai scurt iarna.",
+                "en": "Check the opening hours as they may be shorter during winter."
+              }
+            },
+            {
+              "name": "Spinotti Palace",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Schnitzereien ohne die sommerlichen Touristenmassen.",
+                "hu": "Csodálja meg a faragványokat a nyári turistatömeg nélkül.",
+                "ro": "Admirați sculpturile fără mulțimile de turiști de vară.",
+                "en": "Admire the intricate carvings without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Fonticus Gallery",
+              "tip_5lang": {
+                "de": "Ein warmer Zufluchtsort voller lebendiger Farben gegen das Wintergrau.",
+                "hu": "Meleg menedékhely, tele élénk színekkel a téli szürkeség ellen.",
+                "ro": "Un refugiu cald, plin de culori vii împotriva cenușiului de iarnă.",
+                "en": "A warm refuge filled with vibrant colors against the winter grey."
+              }
+            },
+            {
+              "name": "International Cultural Centre",
+              "tip_5lang": {
+                "de": "Die Akustik in den kalten, leeren Hallen ist im Winter ganz anders.",
+                "hu": "Az akusztika a hideg, üres csarnokokban télen teljesen más.",
+                "ro": "Acustica în sălile reci și goale este complet diferită iarna.",
+                "en": "The acoustics in the cold, empty halls are quite different in winter."
+              }
+            },
+            {
+              "name": "Old Smithy",
+              "tip_5lang": {
+                "de": "Stellen Sie sich die Hitze der Esse als Kontrast zur Winterkälte vor.",
+                "hu": "Képzelje el a kohó tüzének melegét a téli hideg ellentéteként.",
+                "ro": "Imaginați-vă căldura forjei ca un contrast față de frigul iernii.",
+                "en": "Imagine the heat of the forge as a contrast to the winter chill."
+              }
+            },
+            {
+              "name": "Balwan Gate",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne wirft lange, dramatische Schatten durch das Tor.",
+                "hu": "Az alacsonyan járó nap hosszú, drámai árnyékokat vet a kapun keresztül.",
+                "ro": "Soarele jos aruncă umbre lungi și dramatice prin poartă.",
+                "en": "The low sun casts long, dramatic shadows through the gate."
+              }
+            },
+            {
+              "name": "Chapel of St. Cosmas and Damian",
+              "tip_5lang": {
+                "de": "Die brennenden Kerzen im Inneren bieten einen einladenden Schein.",
+                "hu": "A bent égő gyertyák hívogató fényt árasztanak.",
+                "ro": "Lumânările aprinse în interior oferă o strălucire primitoare.",
+                "en": "The burning candles inside provide a welcoming glow."
+              }
+            },
+            {
+              "name": "Mirna Valley Viewpoint",
+              "tip_5lang": {
+                "de": "Seien Sie um 16:30 Uhr hier, um den Wintersonnenuntergang zu erleben.",
+                "hu": "Legyen itt 16:30-kor, hogy elcsípje a téli naplementét.",
+                "ro": "Fiți aici la ora 16:30 pentru a vedea apusul de iarnă.",
+                "en": "Be here by 16:30 to catch the winter sunset over the hills."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Kleidung nach dem Zwiebelprinzip; die Sonne wärmt, der Schatten ist eiskalt.",
+              "Die Sonne geht gegen 17:00 Uhr unter – planen Sie Ihre Fotos für den Nachmittag.",
+              "Viele Galerien sind im Winter geschlossen; genießen Sie stattdessen die Architektur.",
+              "Trüffelsaison! Winter ist die beste Zeit für frische, schwarze Trüffel in den Konobas."
+            ],
+            "hu": [
+              "Öltözzön rétegesen; a napon meleg van, de az árnyék jéghideg.",
+              "A nap 17:00 körül nyugszik – a fotózást ütemezze kora délutánra.",
+              "Sok galéria télen zárva tart; koncentráljon helyettük az építészetre.",
+              "Szarvasgomba szezon! A tél a legjobb időszak a friss fekete szarvasgombához."
+            ],
+            "ro": [
+              "Purtați haine în straturi; soarele încălzește, dar umbra este înghețată.",
+              "Soarele apune în jurul orei 17:00 – planificați fotografiile pentru după-amiază.",
+              "Multe galerii sunt închise iarna; bucurați-vă în schimb de arhitectură.",
+              "Sezonul trufelor! Iarna este cea mai bună perioadă pentru trufe negre proaspete."
+            ],
+            "en": [
+              "Wear layers (onion principle); the sun warms you, but the shade is freezing.",
+              "Sunset is around 17:00 – plan your photography for the early afternoon.",
+              "Many galleries are closed in winter; focus on the town's architecture instead.",
+              "Truffle season! Winter is the best time for fresh black truffles in local taverns."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -666,6 +1230,382 @@
           "Take enough water with you.",
           "Parenzana is partly gravel, mountain bike recommended."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Grožnjan auf zwei Rädern. Der Tag beginnt klassisch an der Loggia, bevor Sie auf die legendäre Parenzana-Strecke wechseln. Der Tunnel bietet eine kühle Abwechslung auf dem Weg durch die istrische Landschaft.\n\nMittags erreichen Sie die Gegend um Završje. Der Ausblick auf dieses fast verlassene Dorf ist mystisch und beeindruckend zugleich. Die sanften Hügel Istriens fordern die Waden, belohnen aber mit ungestörten Naturerlebnissen.\n\nAm Nachmittag führt die Route zurück nach Grožnjan. Die Abfahrt ins Mirna-Tal bietet rasante Ausblicke, bevor Sie in der Oberstadt eine wohlverdiente Pause bei der Alten Schmiede einlegen.\n\nDer Tag endet mit einer gemütlichen Runde entlang der Stadtmauern. Die tiefstehende Sonne begleitet Sie auf den letzten Metern dieses sportlichen Kulturausflugs.",
+            "hu": "Fedezze fel Grozsnyánt két keréken. A nap klasszikusan a Loggiánál kezdődik, mielőtt a legendás Parenzana útvonalra térne. Az alagút hűvös felüdülést nyújt az isztriai tájon átvezető úton.\n\nDélben Završje környékére ér. A kilátás erre a szinte elhagyatott falura egyszerre misztikus és lenyűgöző. Isztria lankás dombjai próbára teszik a vádlikat, de zavartalan természeti élményekkel jutalmazzák.\n\nDélután az útvonal visszavezet Grozsnyánba. A Mirna-völgybe vezető lejtő pörgős kilátást kínál, mielőtt a felsővárosban a Régi Kovácsműhelynél tartana egy jól megérdemelt pihenőt.\n\nA nap a várfalak menti kényelmes körrel zárul. Az alacsonyan járó nap kíséri el ennek a sportos kulturális kirándulásnak az utolsó méterein.",
+            "ro": "Descoperiți Grožnjan pe două roți. Ziua începe clasic la Loggia, înainte de a trece pe legendarul traseu Parenzana. Tunelul oferă o răcoare binevenită în drumul prin peisajul istrian.\n\nLa prânz ajungeți în zona Završje. Vederea spre acest sat aproape părăsit este mistică și impresionantă în același timp. Dealurile domoale ale Istriei solicită picioarele, dar recompensează cu experiențe naturale neîntrerupte.\n\nDupă-amiaza, traseul duce înapoi în Grožnjan. Coborârea în Valea Mirna oferă vederi rapide, înainte de a face o pauză binemeritată la Vechile Fierării în orașul de sus.\n\nZiua se încheie cu o tură relaxată de-a lungul zidurilor cetății. Soarele la apus vă însoțește pe ultimii metri ai acestei excursii culturale sportive.",
+            "en": "Explore Grožnjan on two wheels. The day starts classically at the Loggia before you switch to the legendary Parenzana route. The tunnel offers a cool diversion on the way through the Istrian landscape.\n\nAt midday, you reach the Završje area. The view of this almost abandoned village is both mystical and impressive. The gentle hills of Istria challenge the calves but reward with undisturbed nature experiences.\n\nIn the afternoon, the route leads back to Grožnjan. The descent into the Mirna Valley offers rapid views before you take a well-deserved break at the Old Smithy in the upper town.\n\nThe day ends with a cozy lap along the city walls. The low sun accompanies you on the last meters of this sporty cultural excursion."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Loggia",
+                "hu": "Loggia",
+                "ro": "Loggia",
+                "en": "Loggia"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt.",
+                "hu": "Kiindulópont.",
+                "ro": "Punct de pornire.",
+                "en": "Starting point."
+              }
+            },
+            {
+              "name": {
+                "de": "Parenzana Tunnel",
+                "hu": "Parenzana alagút",
+                "ro": "Tunelul Parenzana",
+                "en": "Parenzana Tunnel"
+              },
+              "tip_5lang": {
+                "de": "Ein Teil der alten Eisenbahnstrecke.",
+                "hu": "A régi vasútvonal része.",
+                "ro": "O parte a vechii linii ferate.",
+                "en": "Part of the old railway line."
+              }
+            },
+            {
+              "name": {
+                "de": "Završje Ausblick",
+                "hu": "Završje kilátás",
+                "ro": "Vedere Završje",
+                "en": "Završje View"
+              },
+              "tip_5lang": {
+                "de": "Blick auf das 'Geisterdorf'.",
+                "hu": "Kilátás a szellemvárosra.",
+                "ro": "Vedere spre satul fantomă.",
+                "en": "View of the ghost village."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirna-Tal Abfahrt",
+                "hu": "Mirna-völgyi lejtő",
+                "ro": "Coborâre Valea Mirna",
+                "en": "Mirna Valley Descent"
+              },
+              "tip_5lang": {
+                "de": "Steile aber schöne Strecke.",
+                "hu": "Meredek, de gyönyörű szakasz.",
+                "ro": "Traseu abrupt dar frumos.",
+                "en": "Steep but beautiful route."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Schmiede",
+                "hu": "Régi Kovácsműhely",
+                "ro": "Vechile Fierării",
+                "en": "Old Smithy"
+              },
+              "tip_5lang": {
+                "de": "Erfrischungspause.",
+                "hu": "Frissítő pihenő.",
+                "ro": "Pauză de răcorire.",
+                "en": "Refreshment break."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtmauern",
+                "hu": "Várfalak",
+                "ro": "Zidurile cetății",
+                "en": "City Walls"
+              },
+              "tip_5lang": {
+                "de": "Finale Runde.",
+                "hu": "Utolsó kör.",
+                "ro": "Rundă finală.",
+                "en": "Final round."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bistrot Grožnjan",
+                "tip": "Energieriegel und frischer Saft für Radfahrer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bistrot Grožnjan",
+                "tip": "Energiaszelet és friss gyümölcslé kerékpárosoknak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bistrot Grožnjan",
+                "tip": "Batoane energizante și suc proaspăt pentru bicicliști."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bistrot Grožnjan",
+                "tip": "Energy bars and fresh juice for cyclists."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parenzana Viadukt",
+                "tip": "Stille mitten im Grünen.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parenzana viadukt",
+                "tip": "Csend a zöld közepén.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Viaductul Parenzana",
+                "tip": "Liniște în mijlocul verdeții.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parenzana Viaduct",
+                "tip": "Quietness in the middle of greenery.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Honig",
+                "tip": "Direkt vom Imker an der Strecke."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi méz",
+                "tip": "Közvetlenül a méhésztől az út mentén."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere locală",
+                "tip": "Direct de la apicultor de pe traseu."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local honey",
+                "tip": "Directly from the beekeeper along the route."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nehmen Sie ausreichend Wasser mit.",
+              "Parenzana ist teilweise Schotter, Mountainbike empfohlen."
+            ],
+            "hu": [
+              "Vigyen magával elegendő vizet.",
+              "A Parenzana részben murvás, hegyi kerékpár ajánlott."
+            ],
+            "ro": [
+              "Luați suficientă apă cu voi.",
+              "Parenzana este parțial cu pietriș, se recomandă mountain bike."
+            ],
+            "en": [
+              "Take enough water with you.",
+              "Parenzana is partly gravel, mountain bike recommended."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt durch die istrische Hügellandschaft erfordert Mut und gute Ausrüstung. Der Morgen beginnt an der Loggia, bevor es auf die Parenzana geht.\n\nMittags dient der Parenzana-Tunnel als perfekter natürlicher Unterstand. Der Geruch von feuchter Erde und Stein ist hier besonders intensiv.\n\nAm Nachmittag führen rutschige Abfahrten ins Mirna-Tal. Die Konzentration gilt dem Bremsen auf den nassen Pfaden.\n\nDer Tag endet in der Altstadt von Grožnjan, wo die Fahrräder sicher abgestellt werden und die Fahrer sich bei einer heißen Suppe aufwärmen können.",
+            "hu": "Egy esős tekerés az isztriai dombok között bátorságot és jó felszerelést igényel. A reggel a Loggiánál indul, mielőtt a Parenzana útvonalra térnénk.\n\nDélben a Parenzana-alagút tökéletes természetes menedékként szolgál. A nedves föld és kő illata itt különösen intenzív.\n\nDélután csúszós lejtők vezetnek a Mirna-völgybe. A figyelem a fékezésre és a nedves ösvényekre irányul.\n\nA nap Grožnjan óvárosában ér véget, ahol a kerékpárokat biztonságba helyezzük, a bringások pedig egy forró levessel melegedhetnek fel.",
+            "ro": "O tură cu bicicleta prin dealurile istriene pe ploaie necesită curaj și echipament bun. Dimineața începe la Loggia, înainte de a intra pe ruta Parenzana.\n\nLa prânz, tunelul Parenzana servește ca adăpost natural perfect. Mirosul de pământ umed și piatră este deosebit de intens aici.\n\nDupă-amiaza, coborârile alunecoase duc spre valea Mirna. Concentrarea maximă este necesară pentru frânarea pe potecile ude.\n\nZiua se încheie în centrul vechi din Grožnjan, unde bicicletele sunt parcate în siguranță, iar bicicliștii se încălzesc cu o supă fierbinte.",
+            "en": "A rainy ride through the Istrian hills requires courage and good gear. The morning starts at the Loggia before hitting the Parenzana trail.\n\nAt noon, the Parenzana Tunnel serves as a perfect natural shelter. The scent of damp earth and stone is particularly intense here.\n\nIn the afternoon, slippery descents lead into the Mirna Valley. Focus is entirely on braking and navigation on the wet paths.\n\nThe day ends in Grožnjan's old town, where bikes are safely stored and riders can warm up with a hot bowl of soup."
+          },
+          "stops": [
+            {
+              "name": "Loggia",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Platz zum Check der Bremsbeläge vor der Abfahrt.",
+                "hu": "Használja ki a helyet a fékbetétek ellenőrzésére indulás előtt.",
+                "ro": "Folosiți spațiul pentru a verifica plăcuțele de frână înainte de plecare.",
+                "en": "Use the sheltered space to check your brake pads before descending."
+              }
+            },
+            {
+              "name": "Parenzana Tunnel",
+              "tip_5lang": {
+                "de": "Hervorragender natürlicher Schutz vor einem plötzlichen Wolkenbruch.",
+                "hu": "Kiváló természetes menedék egy hirtelen felhőszakadás esetén.",
+                "ro": "Adăpost natural excelent în cazul unei averse bruște.",
+                "en": "Excellent natural shelter from a sudden downpour."
+              }
+            },
+            {
+              "name": "Završje View",
+              "tip_5lang": {
+                "de": "Nebel kann den 'schiefen Turm' verbergen; warten Sie auf eine Wolkenlücke.",
+                "hu": "A köd elrejtheti a ferde tornyot; várjon egy felhőátvonulásra.",
+                "ro": "Ceața poate ascunde turnul înclinat; așteptați o pauză între nori.",
+                "en": "Mist might hide the leaning tower; wait for a break in the clouds."
+              }
+            },
+            {
+              "name": "Mirna Valley Descent",
+              "tip_5lang": {
+                "de": "Extrem vorsichtig fahren; Schlamm und nasses Laub verringern den Grip.",
+                "hu": "Extrém óvatosan haladjon; a sár és a nedves levelek csökkentik a tapadást.",
+                "ro": "Conduceți cu extremă prudență; noroiul și frunzele ude reduc aderența.",
+                "en": "Ride extremely carefully; mud and wet leaves significantly reduce grip."
+              }
+            },
+            {
+              "name": "Old Smithy",
+              "tip_5lang": {
+                "de": "Kurze Pause zum Aufwärmen, bevor der letzte Anstieg zurück beginnt.",
+                "hu": "Rövid szünet a bemelegítéshez az utolsó visszakapaszkodás előtt.",
+                "ro": "Scurtă pauză pentru încălzire înainte de ultima urcare spre sat.",
+                "en": "Short break to warm up before the final climb back to town."
+              }
+            },
+            {
+              "name": "City Walls",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab; die Mauerkrone ist bei Regen tabu.",
+                "hu": "Támassza le biztonságosan a bringát; a várfal teteje esőben tilos.",
+                "ro": "Parcați bicicleta în siguranță; coronamentul zidului este interzis pe ploaie.",
+                "en": "Park your bike securely; the top of the walls is off-limits during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserdichte Überschuhe; nasse Füße kühlen beim Fahren extrem schnell aus.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf rutschigen Steinen.",
+              "Vermeiden Sie Vollbremsungen auf den weißen Kalksteinen der Parenzana.",
+              "Ein Schutzblech ist heute Ihr bester Freund gegen den aufgewirbelten Schlamm."
+            ],
+            "hu": [
+              "Viseljen vízálló kamáslit; a vizes láb tekerés közben nagyon gyorsan lehűl.",
+              "Csökkentse kissé a guminyomást a jobb tapadás érdekében a csúszós köveken.",
+              "Kerülje a hirtelen fékezést a Parenzana fehér mészköves szakaszain.",
+              "A sárvédő ma a legjobb barátja a felverődő sár ellen."
+            ],
+            "ro": [
+              "Purtați huse impermeabile pentru pantofi; picioarele ude se răcesc rapid.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe pietre ude.",
+              "Evitați frânările bruște pe secțiunile de calcar alb ale rutei Parenzana.",
+              "Apărătoarea de noroi este astăzi cel mai bun prieten împotriva stropilor."
+            ],
+            "en": [
+              "Wear waterproof overshoes; wet feet cool down extremely fast while riding.",
+              "Slightly reduce tire pressure for better grip on the slippery stones.",
+              "Avoid hard braking on the white limestone sections of the Parenzana trail.",
+              "Fenders/mudguards are your best friend today against the splashed mud."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eisige Morgenluft begrüßt die Radfahrer in Grožnjan. Die Fernsicht ist im Winter ungeschlagen, aber der Windchill-Effekt ist real.\n\nMittags erreichen wir den Parenzana-Tunnel, der sich im Vergleich zur Außenluft fast warm anfühlt. Kurze Pausen verhindern das Auskühlen.\n\nDer Nachmittag bietet tiefstehende Sonne im Mirna-Tal. Die Rückkehr muss vor 16:30 Uhr erfolgen, da die Temperaturen nach Sonnenuntergang drastisch fallen.\n\nDer Tag endet mit dem sicheren Verstauen des Equipments und einem heißen Getränk in der Wärme der Künstlerstadt.",
+            "hu": "Jeges reggeli levegő üdvözli a bringásokat Grožnjanban. A kilátás télen verhetetlen, de a szél hűtő hatása komoly tényező.\n\nDélben érjük el a Parenzana-alagutat, amely a kinti levegőhöz képest szinte melegnek hat. A rövid szünetek segítenek megőrizni a testhőt.\n\nDélután az alacsonyan járó nap világítja meg a Mirna-völgyet. 16:30 előtt vissza kell érni, mert naplemente után a hőmérséklet drasztikusan zuhan.\n\nA nap a felszerelés biztonságos elrakásával és egy forró itallal zárul a művészváros melegében.",
+            "ro": "Aerul înghețat de dimineață îi întâmpină pe bicicliști în Grožnjan. Vizibilitatea este imbatabilă iarna, dar efectul vântului este real.\n\nLa prânz ajungem la tunelul Parenzana, care pare aproape cald comparativ cu aerul exterior. Pauzele scurte previn răcirea corpului.\n\nDupă-amiaza oferă soare jos în valea Mirna. Întoarcerea trebuie planificată înainte de ora 16:30, deoarece temperaturile scad drastic după apus.\n\nZiua se încheie cu depozitarea echipamentului și o băutură fierbinte în căldura orașului.",
+            "en": "Icy morning air greets cyclists in Grožnjan. The visibility is unbeatable in winter, but the wind chill factor is very real.\n\nAt noon, reach the Parenzana Tunnel, which feels almost warm compared to the outside air. Keep breaks short to prevent your body from cooling down.\n\nAfternoon offers low sun over the Mirna Valley. Ensure you are back by 16:30, as temperatures drop drastically after sunset.\n\nThe day ends with safely storing your gear and enjoying a hot drink in the warmth of the artist town."
+          },
+          "stops": [
+            {
+              "name": "Loggia",
+              "tip_5lang": {
+                "de": "Starten Sie erst, wenn die Sonne die ersten Reifglätte-Stellen getaut hat.",
+                "hu": "Csak akkor induljon, ha a nap már felolvasztotta az első deres szakaszokat.",
+                "ro": "Porniți la drum doar după ce soarele a topit primele porțiuni cu brumă.",
+                "en": "Start only after the sun has thawed the first spots of morning frost."
+              }
+            },
+            {
+              "name": "Parenzana Tunnel",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eiszapfen an den Tunneldecken; halten Sie Abstand zur Wand.",
+                "hu": "Vigyázzon az alagút mennyezetéről lógó jégcsapokra; tartson távolságot.",
+                "ro": "Atenție la țurțurii de pe tavanul tunelului; păstrați distanța față de pereți.",
+                "en": "Watch out for icicles on the tunnel ceiling; keep your distance from the walls."
+              }
+            },
+            {
+              "name": "Završje View",
+              "tip_5lang": {
+                "de": "Ein extrem windiger Punkt im Winter; halten Sie die Pause hier kurz.",
+                "hu": "Télen rendkívül szeles pont; tartsa rövidre az itt töltött pihenőt.",
+                "ro": "Un punct extrem de vântos iarna; păstrați pauza de aici cât mai scurtă.",
+                "en": "An extremely windy spot in winter; keep your break here very short."
+              }
+            },
+            {
+              "name": "Mirna Valley Descent",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe; die Finger kühlen bei der Abfahrt aus.",
+                "hu": "Viseljen szélálló kesztyűt; az ujjak a lejtőn pillanatok alatt áthűlnek.",
+                "ro": "Purtați mănuși rezistente la vânt; degetele se răcesc rapid la coborâre.",
+                "en": "Wear windproof gloves; your fingers will cool down rapidly on the descent."
+              }
+            },
+            {
+              "name": "Old Smithy",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um eine Thermoskanne mit Tee auszupacken.",
+                "hu": "Tökéletes hely egy termosz tea kipakolásához.",
+                "ro": "Locul perfect pentru a scoate un termos cu ceai cald.",
+                "en": "Perfect place to unpack a thermos with hot tea."
+              }
+            },
+            {
+              "name": "City Walls",
+              "tip_5lang": {
+                "de": "Vorsicht bei gefrorenem Kondenswasser auf den Steinoberflächen.",
+                "hu": "Vigyázzon a kőfelületeken megfagyott páralecsapódással.",
+                "ro": "Atenție la condensul înghețat de pe suprafețele de piatră.",
+                "en": "Be careful of frozen condensation on the stone surfaces."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine winddichte Membran an der Vorderseite Ihres Körpers.",
+              "Trinken Sie auch bei Kälte genug; man vergisst den Flüssigkeitsverlust oft.",
+              "Prüfen Sie Ihre Lichter; die Sichtweite kann durch Winterdunst sinken.",
+              "Winterreifen mit weicherer Gummimischung bieten besseren Grip bei Kälte."
+            ],
+            "hu": [
+              "Viseljen szélálló membránt a testének elülső részén.",
+              "Hidegben is igyon eleget; a folyadékvesztésről ilyenkor gyakran elfeledkezünk.",
+              "Ellenőrizze a lámpákat; a téli pára miatt a látótávolság csökkenhet.",
+              "A lágyabb gumikeverékű téli abroncsok jobb tapadást biztosítanak a hidegben."
+            ],
+            "ro": [
+              "Purtați o membrană rezistentă la vânt pe partea frontală a corpului.",
+              "Beți destulă apă chiar dacă e frig; pierderea de lichide este adesea uitată.",
+              "Verificați luminile; vizibilitatea poate scădea din cauza negurii de iarnă.",
+              "Anvelopele de iarnă cu compus mai moale oferă o aderență mai bună la rece."
+            ],
+            "en": [
+              "Wear a windproof membrane on the front of your body.",
+              "Drink enough even in the cold; fluid loss is often forgotten in winter.",
+              "Check your lights; visibility can drop significantly due to winter haze.",
+              "Winter tires with a softer rubber compound provide better grip in the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -897,6 +1837,350 @@
           "The roads are narrow and winding.",
           "In Grožnjan, park only in marked areas."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Autotour verbindet Grožnjan mit den versteckten Schätzen Nordistriens. Der Morgen startet in Grožnjan, wo Sie das Stadttor und die erste Galerie erkunden.\n\nMittags führt die Fahrt nach Završje. Dieses fast menschenleere Dorf bietet eine unglaubliche Atmosphäre für Fotografen und Geschichtsliebhaber. Danach geht es weiter nach Oprtalj, einem weiteren Juwel auf einem Hügel.\n\nNachmittags kehren Sie in die Nähe von Grožnjan zurück. Der Aussichtspunkt Mirna bietet den perfekten Platz, um die Weite des Tals und die Silhouette von Motovun am Horizont zu bewundern.\n\nDer Tag endet wieder im Zentrum von Grožnjan bei der Loggia. Genießen Sie die entspannte Atmosphäre der Künstlerstadt, bevor Sie die Heimreise antreten.",
+            "hu": "Ez az autós túra összeköti Grozsnyánt Észak-Isztria rejtett kincseivel. A reggel Grozsnyánban indul, ahol a városkaput és az első galériákat fedezheti fel.\n\nDélben az út Završje felé vezet. Ez a szinte lakatlan falu hihetetlen hangulatot áraszt, ideális fotósoknak és a történelem kedvelőinek. Ezután folytassa útját Oprtaljba, egy másik dombtetőn ülő ékszerdobozba.\n\nDélután visszatér Grozsnyán környékére. A Mirna kilátó tökéletes hely a völgy tágasságának és a látóhatáron feltűnő Motovun sziluettjének megcsodálására.\n\nA nap ismét Grozsnyán központjában, a Loggiánál ér véget. Élvezze a művészváros nyugodt hangulatát a hazautazás előtt.",
+            "ro": "Acest tur cu mașina conectează Grožnjan cu comorile ascunse ale Istriei de Nord. Dimineața începe în Grožnjan, unde explorați poarta orașului și primele galerii.\n\nLa prânz, drumul duce spre Završje. Acest sat aproape pustiu oferă o atmosferă incredibilă pentru fotografi și iubitorii de istorie. Apoi continuați spre Oprtalj, o altă bijuterie de pe vârful unui deal.\n\nDupă-amiaza vă întoarceți în apropiere de Grožnjan. Punctul de belvedere Mirna oferă locul perfect pentru a admira imensitatea văii și silueta orașului Motovun la orizont.\n\nZiua se încheie din nou în centrul orașului Grožnjan, la Loggia. Bucurați-vă de atmosfera relaxată a orașului artiștilor înainte de a pleca spre casă.",
+            "en": "This car tour connects Grožnjan with the hidden treasures of Northern Istria. The morning starts in Grožnjan, where you explore the city gate and the first galleries.\n\nAt midday, the drive leads to Završje. This almost deserted village offers an incredible atmosphere for photographers and history buffs. Then continue to Oprtalj, another hilltop jewel.\n\nIn the afternoon, you return to the vicinity of Grožnjan. The Mirna viewpoint offers the perfect place to admire the vastness of the valley and the silhouette of Motovun on the horizon.\n\nThe day ends back in the center of Grožnjan at the Loggia. Enjoy the relaxed atmosphere of the artist town before starting your journey home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grožnjan Stadttor",
+                "hu": "Grozsnyán városkapu",
+                "ro": "Poarta Grožnjan",
+                "en": "Grožnjan City Gate"
+              },
+              "tip_5lang": {
+                "de": "Parkplatz ist 5 Min. zu Fuß entfernt.",
+                "hu": "A parkoló 5 perc sétára van.",
+                "ro": "Parcarea este la 5 min de mers pe jos.",
+                "en": "Parking is 5 min walk away."
+              }
+            },
+            {
+              "name": {
+                "de": "Završje",
+                "hu": "Završje",
+                "ro": "Završje",
+                "en": "Završje"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Schloss von Završje.",
+                "hu": "Látogasson el a Završje-i kastélyhoz.",
+                "ro": "Vizitați castelul din Završje.",
+                "en": "Visit the castle of Završje."
+              }
+            },
+            {
+              "name": {
+                "de": "Oprtalj Loggia",
+                "hu": "Oprtalj Loggia",
+                "ro": "Loggia Oprtalj",
+                "en": "Oprtalj Loggia"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöner venezianischer Stil.",
+                "hu": "Gyönyörű velencei stílus.",
+                "ro": "Stil venețian superb.",
+                "en": "Beautiful Venetian style."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Mirna",
+                "hu": "Mirna kilátó",
+                "ro": "Punct belvedere Mirna",
+                "en": "Mirna Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Blick auf Motovun in der Ferne.",
+                "hu": "Kilátás a távoli Motovunra.",
+                "ro": "Vedere spre Motovun în depărtare.",
+                "en": "View of Motovun in the distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Loggia von Grožnjan",
+                "hu": "Grozsnyáni Loggia",
+                "ro": "Loggia Grožnjan",
+                "en": "Grožnjan Loggia"
+              },
+              "tip_5lang": {
+                "de": "Abschlusskaffee.",
+                "hu": "Záró kávé.",
+                "ro": "Cafea de final.",
+                "en": "Closing coffee."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Oprtalj",
+                "tip": "Fasolice und Wildgerichte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba Oprtalj",
+                "tip": "Fasolice és vadételek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Oprtalj",
+                "tip": "Fasolice și preparate din vânat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Oprtalj",
+                "tip": "Fasolice and wild game dishes."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Završje Schlossruine",
+                "tip": "Absolute Stille.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Završje várrom",
+                "tip": "Abszolút csend.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ruinele castelului Završje",
+                "tip": "Liniște absolută.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Završje Castle Ruins",
+                "tip": "Absolute silence.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Olivenöl Oprtalj",
+                "tip": "Direktverkauf in der Altstadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Oprtalj olívaolaj",
+                "tip": "Közvetlen eladás az óvárosban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline Oprtalj",
+                "tip": "Vânzare directă în orașul vechi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Oprtalj Olive Oil",
+                "tip": "Direct sale in the old town."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straßen sind eng und kurvenreich.",
+              "Parken Sie in Grožnjan nur auf markierten Flächen."
+            ],
+            "hu": [
+              "Az utak szűkek és kanyargósak.",
+              "Grozsnyánban csak a kijelölt helyeken parkoljon."
+            ],
+            "ro": [
+              "Drumurile sunt înguste și șerpuite.",
+              "Parcați în Grožnjan doar în locurile marcate."
+            ],
+            "en": [
+              "The roads are narrow and winding.",
+              "In Grožnjan, park only in marked areas."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Panoramafahrt durch das neblige Istrien. Der Morgen beginnt am Stadttor von Grožnjan, während der Regen gegen die Windschutzscheibe trommelt.\n\nMittags erkunden wir das verlassene Dorf Završje, das im Nebel eine schaurig-schöne Kulisse bietet. Kurze Sprints vom Auto zu den Ruinen halten uns trocken.\n\nAm Nachmittag führt die Fahrt nach Oprtalj, wo die Loggia Schutz für den Ausblick bietet. Die kurvigen Straßen erfordern bei Nässe volle Aufmerksamkeit.\n\nDer Tag endet wieder in Grožnjan. Die Beleuchtung der Stadt spiegelt sich in den Pfützen und sorgt für romantische Fotomotive.",
+            "hu": "Kényelmes panorámaautózás a ködös Isztrián keresztül. A reggel Grožnjan városkapujánál indul, miközben az eső a szélvédőn dobog.\n\nDélben az elhagyatott Završje falut fedezzük fel, amely a ködben hátborzongatóan szép látványt nyújt. Rövid sprintek az autótól a romokig – így szárazak maradunk.\n\nDélután az út Oprtaljba vezet, ahol a loggia kínál menedéket a kilátáshoz. A kanyargós utak nedvesen teljes figyelmet igényelnek.\n\nA nap ismét Grožnjanban ér véget. A város fényei tükröződnek a tócsákban, romantikus fotótémákat kínálva.",
+            "ro": "O călătorie panoramică relaxantă prin Istria cețoasă. Dimineața începe la poarta orașului Grožnjan, în timp ce ploaia bate în parbriz.\n\nLa prânz explorăm satul părăsit Završje, care oferă un decor înfricoșător de frumos în ceață. Scurte sprinturi de la mașină la ruine ne mențin uscați.\n\nDupă-amiaza drumul duce spre Oprtalj, unde loja oferă protecție pentru admirarea priveliștii. Drumurile sinuoase necesită atenție sporită pe ploaie.\n\nZiua se încheie înapoi în Grožnjan. Luminile orașului se oglindesc în bălți, oferind motive fotografice romantice.",
+            "en": "A cozy scenic drive through misty Istria. The morning begins at the Grožnjan city gate, while rain drums against the windshield.\n\nAt noon, explore the abandoned village of Završje, which offers a hauntingly beautiful backdrop in the fog. Short sprints from the car to the ruins keep us dry.\n\nIn the afternoon, the drive leads to Oprtalj, where the loggia provides shelter for enjoying the view. The winding roads require full attention when wet.\n\nThe day ends back in Grožnjan. The city lights reflect in the puddles, creating romantic photo opportunities."
+          },
+          "stops": [
+            {
+              "name": "Grožnjan City Gate",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang, um den Weg im Regen zu verkürzen.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy lerövidítse az utat az esőben.",
+                "ro": "Parcați direct la intrare pentru a scurta drumul prin ploaie.",
+                "en": "Park directly at the entrance to shorten your walk in the rain."
+              }
+            },
+            {
+              "name": "Završje",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße kann bei starkem Regen rutschig sein; langsam fahren.",
+                "hu": "A bekötőút heves esőzéskor csúszós lehet; hajtson lassan.",
+                "ro": "Drumul de acces poate fi alunecos în caz de ploaie torențială; conduceți încet.",
+                "en": "The access road can be slippery during heavy rain; drive slowly."
+              }
+            },
+            {
+              "name": "Oprtalj Loggia",
+              "tip_5lang": {
+                "de": "Die Loggia ist ein perfekter Ort, um das Panorama trocken zu genießen.",
+                "hu": "A loggia tökéletes hely a panoráma szárazon történő élvezetéhez.",
+                "ro": "Loja este un loc perfect pentru a savura panorama la adăpost.",
+                "en": "The loggia is a perfect spot to enjoy the panorama while staying dry."
+              }
+            },
+            {
+              "name": "Mirna Viewpoint",
+              "tip_5lang": {
+                "de": "Bleiben Sie für den Blick im Auto, falls der Wind zu stark wird.",
+                "hu": "Maradjon a kilátáshoz az autóban, ha a szél túl erőssé válik.",
+                "ro": "Rămâneți în mașină pentru priveliște dacă vântul devine prea puternic.",
+                "en": "Stay in the car for the view if the wind becomes too strong."
+              }
+            },
+            {
+              "name": "Grožnjan Loggia",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die nassen Dächer der Stadt bei der Rückkehr.",
+                "hu": "Visszatérve élvezze a kilátást a város vizes háztetőire.",
+                "ro": "La întoarcere, bucurați-vă de vederea acoperișurilor ude ale orașului.",
+                "en": "Enjoy the view of the town's wet rooftops upon your return."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf stehendes Wasser (Aquaplaning) in den Senken der Hügelstraßen.",
+              "Nutzen Sie die Parkplätze mit festem Untergrund; unbefestigte Ränder sind weich.",
+              "Die Sichtweite kann in den Tälern durch plötzlichen Nebel stark sinken.",
+              "Haben Sie immer einen Regenschirm griffbereit in der Türablage."
+            ],
+            "hu": [
+              "Ügyeljen a megálló vízre (aquaplaning) a domboldali utak mélyedéseiben.",
+              "Használja a szilárd burkolatú parkolókat; a padka ilyenkor felázhat.",
+              "A látótávolság a völgyekben a hirtelen köd miatt jelentősen csökkenhet.",
+              "Mindig tartson egy esernyőt kéznél az ajtózsebben."
+            ],
+            "ro": [
+              "Atenție la acvaplanare în zonele joase ale drumurilor de deal.",
+              "Folosiți parcările cu suprafață solidă; marginile neamenajate sunt moi.",
+              "Vizibilitatea poate scădea drastic în văi din cauza ceții bruște.",
+              "Țineți întotdeauna o umbrelă la îndemână în buzunarul portierei."
+            ],
+            "en": [
+              "Watch out for standing water (aquaplaning) in the hollows of the hill roads.",
+              "Use parking spots with solid surfaces; unpaved edges become soft and muddy.",
+              "Visibility can drop sharply in the valleys due to sudden fog banks.",
+              "Always keep an umbrella within reach in the car's door pocket."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch das stille Istrien. Der Morgen beginnt mit klarer Sicht am Stadttor von Grožnjan bei klirrender Kälte.\n\nMittags führt die Route nach Završje. Die kahlen Bäume geben den Blick auf architektonische Details frei, die im Sommer verborgen bleiben.\n\nDer Nachmittag bringt uns nach Oprtalj. Die tiefstehende Sonne taucht die Landschaft in ein magisches Licht, ideal für Panoramafotos aus dem warmen Auto.\n\nDer Tag endet in Grožnjan. Die warme Heizung des Autos und die Vorfreude auf ein traditionelles istrisches Abendessen machen den Winterausflug perfekt.",
+            "hu": "Téli kiruccanás a csendes Isztrián. A reggel tiszta kilátással indul Grožnjan városkapujánál, csípős hidegben.\n\nDélben az út Završjébe vezet. A kopár fák láthatóvá teszik azokat az építészeti részleteket, amelyek nyáron rejtve maradnak.\n\nA délután Oprtaljba repít minket. Az alacsonyan járó nap mágikus fénybe öltözteti a tájat, ideális a meleg autóból készített fotókhoz.\n\nA nap Grožnjanban ér véget. Az autó fűtése és a hagyományos isztriai vacsora ígérete teszi teljessé ezt a téli kirándulást.",
+            "ro": "O excursie de iarnă prin Istria liniștită. Dimineața începe cu o vizibilitate clară la poarta orașului Grožnjan, într-un ger tăios.\n\nLa prânz, ruta duce spre Završje. Copacii golași dezvăluie detalii arhitecturale care rămân ascunse în timpul verii.\n\nDupă-amiaza ne aduce la Oprtalj. Soarele jos scaldă peisajul într-o lumină magică, ideală pentru fotografii panoramice din mașina caldă.\n\nZiua se încheie în Grožnjan. Căldura mașinii și anticiparea unei cine tradiționale istriene fac excursia de iarnă perfectă.",
+            "en": "A winter road trip through quiet Istria. The morning begins with clear views at the Grožnjan city gate in biting cold.\n\nAt noon, the route leads to Završje. The bare trees reveal architectural details that remain hidden during the lush summer months.\n\nIn the afternoon, head to Oprtalj. The low sun bathes the landscape in a magical light, ideal for panoramic photos from the comfort of your warm car.\n\nThe day ends in Grožnjan. The car's heater and the anticipation of a traditional Istrian dinner make this winter trip perfect."
+          },
+          "stops": [
+            {
+              "name": "Grožnjan City Gate",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Boden auf überfrierende Nässe im Schatten der Mauern.",
+                "hu": "Ellenőrizze a talajt a falak árnyékában lévő lefagyások miatt.",
+                "ro": "Verificați solul pentru polei în umbra zidurilor cetății.",
+                "en": "Check the ground for black ice in the shadows of the city walls."
+              }
+            },
+            {
+              "name": "Završje",
+              "tip_5lang": {
+                "de": "Wenig Verkehr im Winter; nutzen Sie die leeren Aussichtspunkte.",
+                "hu": "Télen alig van forgalom; élvezze az üres kilátópontokat.",
+                "ro": "Trafic redus iarna; profitați de punctele de belvedere libere.",
+                "en": "Very little traffic in winter; take advantage of the empty viewpoints."
+              }
+            },
+            {
+              "name": "Oprtalj Loggia",
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier im Winter stark; bleiben Sie in Bewegung.",
+                "hu": "A szél télen erősen fúj itt; maradjon mozgásban.",
+                "ro": "Vântul suflă puternic aici iarna; rămâneți în mișcare.",
+                "en": "The wind whistles through here in winter; stay on the move."
+              }
+            },
+            {
+              "name": "Mirna Viewpoint",
+              "tip_5lang": {
+                "de": "Das Licht für Fotos ist zwischen 15:00 und 16:00 Uhr am besten.",
+                "hu": "A fotózáshoz a fények 15:00 és 16:00 között a legjobbak.",
+                "ro": "Lumina pentru fotografii este cea mai bună între orele 15:00 și 16:00.",
+                "en": "The light for photography is best between 15:00 and 16:00."
+              }
+            },
+            {
+              "name": "Grožnjan Loggia",
+              "tip_5lang": {
+                "de": "Parken ist im Winter oft direkt vor der Loggia möglich.",
+                "hu": "Télen a parkolás gyakran közvetlenül a Loggia előtt is lehetséges.",
+                "ro": "Parcarea este adesea posibilă direct în fața lojei pe timpul iernii.",
+                "en": "Parking is often possible directly in front of the Loggia during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer und Scheibenfrostschutz mit sich.",
+              "Die Bergstraßen können im Schatten lange vereist bleiben.",
+              "Planen Sie Tankstopps im Tal ein; oben in den Dörfern gibt es keine Tankstellen.",
+              "Nutzen Sie die Sitzheizung für maximale Gemütlichkeit bei den Stopps."
+            ],
+            "hu": [
+              "Mindig tartson jégkaparót és fagyálló szélvédőmosót az autóban.",
+              "A hegyi utak az árnyékos részeken sokáig jegesek maradhatnak.",
+              "A tankolást a völgyben intézze; fent a falvakban nincs benzinkút.",
+              "Használja az ülésfűtést a maximális kényelem érdekében a megállók során."
+            ],
+            "ro": [
+              "Aveți întotdeauna o racletă și lichid de parbriz anti-îngheț la îndemână.",
+              "Drumurile montane pot rămâne înghețate mult timp în zonele umbrite.",
+              "Planificați alimentarea în vale; nu există benzinării sus în sate.",
+              "Folosiți încălzirea în scaune pentru confort maxim în timpul opririlor."
+            ],
+            "en": [
+              "Always carry an ice scraper and winter windshield washer fluid.",
+              "Mountain roads can remain icy for a long time in shaded sections.",
+              "Plan fuel stops in the valley; there are no gas stations up in the villages.",
+              "Use your seat heaters for maximum coziness between the scenic stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1128,6 +2412,350 @@
           "Check the bus schedule carefully (mostly from Buje).",
           "Start early to make the most of the day."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Grožnjan mit öffentlichen Verkehrsmitteln zu besuchen, erfordert Planung, bietet aber eine entschleunigte Erfahrung. Der Tag beginnt an der Loggia, dem Treffpunkt für alle Besucher, die mit dem Bus ankommen.\n\nMittags konzentriert sich das Erlebnis auf die Kunstgalerien. Die Galerie Fonticus und die umliegenden Ateliers sind alle in wenigen Minuten erreichbar. Die St. Vitus Kirche bietet kühle Stille für eine kurze Rast.\n\nDer Nachmittag gehört der Musik. Im Internationalen Kulturzentrum können Sie oft Proben lauschen oder eine kleine Ausstellung besuchen. Es ist das Herz des kulturellen Lebens der Stadt.\n\nBevor der Nachmittagsbus abfährt, bleibt Zeit für den Aussichtspunkt Mirna. Ein kurzer Spaziergang führt Sie an den Rand der Hügelkuppe für einen letzten, unvergesslichen Blick über Istrien.",
+            "hu": "Grozsnyán meglátogatása tömegközlekedéssel tervezést igényel, de lassabb, elmélyültebb élményt kínál. A nap a Loggiánál kezdődik, amely a busszal érkező látogatók találkozóhelye.\n\nDélben az élmény a művészeti galériákra összpontosul. A Fonticus Galéria és a környező műhelyek mind pár perc alatt elérhetőek. A Szent Vid templom hűvös csendet nyújt egy rövid pihenőhöz.\n\nA délután a zenéé. A Nemzetközi Kulturális Központban gyakran hallgathat próbákat vagy megtekinthet egy kis kiállítást. Ez a város kulturális életének szíve.\n\nMielőtt a délutáni busz indulna, marad idő a Mirna kilátóra. Egy rövid séta vezet a dombtető szélére az utolsó, felejthetetlen isztriai panorámáért.",
+            "ro": "Vizitarea orașului Grožnjan cu transportul public necesită planificare, dar oferă o experiență mai lentă și relaxată. Ziua începe la Loggia, locul de întâlnire pentru toți vizitatorii care sosesc cu autobuzul.\n\nLa prânz, experiența se concentrează pe galeriile de artă. Galeria Fonticus și atelierele din jur sunt toate accesibile în câteva minute. Biserica Sf. Vitus oferă o liniște răcoroasă pentru un scurt popas.\n\nDupă-amiaza aparține muzicii. În Centrul Cultural Internațional puteți asculta adesea repetiții sau vizita o mică expoziție. Este inima vieții culturale a orașului.\n\nÎnainte de plecarea autobuzului de după-amiază, rămâne timp pentru punctul de belvedere Mirna. O scurtă plimbare vă duce la marginea dealului pentru o ultimă privire de neuitat peste Istria.",
+            "en": "Visiting Grožnjan by public transport requires planning but offers a decelerated experience. The day starts at the Loggia, the meeting point for all visitors arriving by bus.\n\nAt midday, the experience focuses on the art galleries. The Fonticus Gallery and surrounding studios are all reachable within a few minutes. St. Vitus Church offers cool silence for a short rest.\n\nThe afternoon belongs to music. At the International Cultural Centre, you can often listen to rehearsals or visit a small exhibition. It is the heart of the city's cultural life.\n\nBefore the afternoon bus departs, there is time for the Mirna viewpoint. A short walk leads you to the edge of the hilltop for one last, unforgettable view over Istria."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Loggia",
+                "hu": "Loggia",
+                "ro": "Loggia",
+                "en": "Loggia"
+              },
+              "tip_5lang": {
+                "de": "Busstop meist unterhalb der Stadt.",
+                "hu": "A buszmegálló általában a város alatt van.",
+                "ro": "Stația de autobuz este de obicei sub oraș.",
+                "en": "Bus stop is usually below the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerie Fonticus",
+                "hu": "Fonticus Galéria",
+                "ro": "Galeria Fonticus",
+                "en": "Fonticus Gallery"
+              },
+              "tip_5lang": {
+                "de": "Leicht zu Fuß erreichbar.",
+                "hu": "Gyalogosan könnyen elérhető.",
+                "ro": "Ușor accesibil pe jos.",
+                "en": "Easily accessible on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Vitus Kirche",
+                "hu": "Szent Vid templom",
+                "ro": "Biserica Sf. Vitus",
+                "en": "St. Vitus Church"
+              },
+              "tip_5lang": {
+                "de": "Historisches Zentrum.",
+                "hu": "Történelmi központ.",
+                "ro": "Centru istoric.",
+                "en": "Historic center."
+              }
+            },
+            {
+              "name": {
+                "de": "Internationales Kulturzentrum",
+                "hu": "Nemzetközi Kulturális Központ",
+                "ro": "Centrul Cultural Internațional",
+                "en": "International Cultural Centre"
+              },
+              "tip_5lang": {
+                "de": "Hauptattraktion für Kultur.",
+                "hu": "Fő kulturális vonzerő.",
+                "ro": "Principala atracție culturală.",
+                "en": "Main attraction for culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirna Aussichtspunkt",
+                "hu": "Mirna kilátó",
+                "ro": "Punct belvedere Mirna",
+                "en": "Mirna Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang zum Rand.",
+                "hu": "Rövid séta a város szélére.",
+                "ro": "Scurtă plimbare până la margine.",
+                "en": "Short walk to the edge."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Kaffee Loggia",
+                "tip": "Kleines Gebäck und Espresso."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Loggia Kávézó",
+                "tip": "Sütemények és eszpresszó."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cafeaua Loggia",
+                "tip": "Patiserie mică și espresso."
+              }
+            ],
+            "en": [
+              {
+                "name": "Loggia Coffee",
+                "tip": "Small pastries and espresso."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kirchplatz",
+                "tip": "Ruhiger Platz im Schatten.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Templom tér",
+                "tip": "Csendes hely az árnyékban.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața Bisericii",
+                "tip": "Loc liniștit la umbră.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Church Square",
+                "tip": "Quiet spot in the shade.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Postkarten-Galerie",
+                "tip": "Künstlerische Karten als Andenken."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Képeslap-galéria",
+                "tip": "Művészi lapok emlékbe."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Galeria de cărți poștale",
+                "tip": "Cărți poștale artistice ca suvenir."
+              }
+            ],
+            "en": [
+              {
+                "name": "Postcard Gallery",
+                "tip": "Artistic cards as souvenirs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan genau (meist ab Buje).",
+              "Gehen Sie früh los, um den Tag voll zu nutzen."
+            ],
+            "hu": [
+              "Pontosan ellenőrizze a buszmenetrendet (többnyire Bujéból).",
+              "Induljon korán, hogy kihasználja a napot."
+            ],
+            "ro": [
+              "Verificați cu atenție mersul autobuzelor (de obicei din Buje).",
+              "Plecați devreme pentru a profita din plin de zi."
+            ],
+            "en": [
+              "Check the bus schedule carefully (mostly from Buje).",
+              "Start early to make the most of the day."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Tag in Grožnjan trotz Regen. Der Morgen beginnt an der geschützten Loggia, dem idealen Treffpunkt.\n\nMittags tauchen wir in die Welt der Galerie Fonticus ein. Kunst und Kultur lassen das graue Wetter draußen schnell vergessen.\n\nAm Nachmittag besuchen wir das Internationale Kulturzentrum. Die Musikproben im Inneren bilden einen warmen Soundtrack zum Regen.\n\nDer Tag endet mit einem kurzen Weg zum Aussichtspunkt Mirna, wenn der Himmel aufklart, bevor der Transitbus uns zurückbringt.",
+            "hu": "Pihentető nap Grožnjanban az eső ellenére. A reggel a védett Loggiánál indul, amely ideális találkozóhely.\n\nDélben a Fonticus galéria világában merülünk el. A művészet és kultúra feledteti a kinti szürke időt.\n\nDélután a Nemzetközi Kulturális Központot látogatjuk meg. A benti zenei próbák meleg aláfestést adnak az esőhöz.\n\nA nap egy rövid sétával zárul a Mirna kilátóhoz, ha az ég tisztul, mielőtt a busz visszavinne minket.",
+            "ro": "O zi relaxantă în Grožnjan în ciuda ploii. Dimineața începe la loja protejată, punctul ideal de întâlnire.\n\nLa prânz ne cufundăm în lumea galeriei Fonticus. Arta și cultura ne fac să uităm repede de vremea cenușie de afară.\n\nDupă-amiaza vizităm Centrul Cultural Internațional. Repetițiile muzicale din interior oferă o coloană sonoră caldă ploii.\n\nZiua se încheie cu un drum scurt spre punctul de belvedere Mirna, dacă cerul se înseninează, înainte de plecarea autobuzului.",
+            "en": "A relaxing day in Grožnjan despite the rain. The morning starts at the sheltered Loggia, the perfect meeting point.\n\nAt noon, immerse yourself in the world of the Fonticus Gallery. Art and culture quickly make you forget the grey weather outside.\n\nIn the afternoon, visit the International Cultural Centre. The music rehearsals inside provide a warm soundtrack to the falling rain.\n\nThe day ends with a short walk to the Mirna viewpoint if the sky clears, before the transit bus takes us back."
+          },
+          "stops": [
+            {
+              "name": "Loggia",
+              "tip_5lang": {
+                "de": "Zentraler Unterstand beim Warten auf lokale Anschlüsse.",
+                "hu": "Központi menedék a helyi járatokra való várakozás közben.",
+                "ro": "Adăpost central în timp ce așteptați legăturile locale.",
+                "en": "A central shelter while waiting for local transit connections."
+              }
+            },
+            {
+              "name": "Fonticus Gallery",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für ein langes Gespräch mit den anwesenden Künstlern.",
+                "hu": "Használja ki az időt egy hosszú beszélgetésre a jelenlévő művészekkel.",
+                "ro": "Folosiți timpul pentru o discuție lungă cu artiștii prezenți.",
+                "en": "Use the time for a long conversation with the resident artists."
+              }
+            },
+            {
+              "name": "St. Vitus Church",
+              "tip_5lang": {
+                "de": "Die Akustik des Regens im Inneren ist bemerkenswert beruhigend.",
+                "hu": "Az eső benti akusztikája figyelemre méltóan nyugtató.",
+                "ro": "Acustica ploii în interior este remarcabil de liniștitoare.",
+                "en": "The acoustics of the rain inside are remarkably soothing."
+              }
+            },
+            {
+              "name": "International Cultural Centre",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Ausstellungsräumen auf.",
+                "hu": "Melegedjen fel a kiállítótermekben.",
+                "ro": "Încălziți-vă în sălile de expoziție.",
+                "en": "Warm up in the exhibition rooms."
+              }
+            },
+            {
+              "name": "Mirna Viewpoint",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg von der Bushaltestelle entfernt.",
+                "hu": "Mindössze 5 perc sétára a buszmegállótól.",
+                "ro": "La doar 5 minute de mers pe jos de stația de autobuz.",
+                "en": "Only a 5-minute walk from the main bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan; bei Regen kann es zu leichten Verspätungen kommen.",
+              "Die Haltestellen sind oft nicht überdacht; warten Sie in der Loggia.",
+              "Tragen Sie wasserfeste Schuhe für den Weg zwischen den Haltestellen.",
+              "Ein kleiner Taschenschirm ist für die kurzen Wege im Dorf ausreichend."
+            ],
+            "hu": [
+              "Ellenőrizze a buszmenetrendet; esőben előfordulhatnak kisebb késések.",
+              "A megállók gyakran nem fedettek; várjon inkább a Loggiában.",
+              "Viseljen vízálló cipőt a megállók közötti közlekedéshez.",
+              "Egy kis összecsukható esernyő elegendő a falun belüli rövid utakhoz."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor; ploaia poate cauza mici întârzieri.",
+              "Stațiile nu sunt adesea acoperite; așteptați în zona lojei.",
+              "Purtați încălțăminte impermeabilă pentru drumul dintre stații.",
+              "O umbrelă mică de buzunar este suficientă pentru distanțele scurte din sat."
+            ],
+            "en": [
+              "Check the bus schedule; rain can cause slight delays in regional transit.",
+              "The stops are often not sheltered; wait under the Loggia instead.",
+              "Wear waterproof shoes for the walk between different transit points.",
+              "A small pocket umbrella is sufficient for the short distances within the village."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein meditativer Wintertag in Grožnjan. Der Morgen beginnt an der windgeschützten Loggia bei klarster Winterluft.\n\nMittags bietet die Galerie Fonticus einen farbenfrohen Kontrast zur kahlen Winterlandschaft draußen.\n\nAm Nachmittag erkunden wir das Kulturzentrum, bevor wir uns in einer der wenigen geöffneten Konobas bei einem heißen Tee aufwärmen.\n\nDer Tag endet mit dem Sonnenuntergang am Mirna-Aussichtspunkt, genau rechtzeitig, um den letzten Bus zurück ins Tal zu nehmen.",
+            "hu": "Meditatív téli nap Grožnjanban. A reggel a széltől védett Loggiánál indul, kristálytiszta téli levegőben.\n\nDélben a Fonticus galéria kínál színes kontrasztot a kinti kopár téli tájjal.\n\nDélután a Kulturális Központot fedezzük fel, majd felmelegszünk egy forró teával a kevés nyitva tartó konoba egyikében.\n\nA nap a Mirna-kilátónál zárul a naplementével, pont időben, hogy elérjük az utolsó buszt vissza a völgybe.",
+            "ro": "O zi meditativă de iarnă în Grožnjan. Dimineața începe la loja ferită de vânt, în aerul cristalit de iarnă.\n\nLa prânz, galeria Fonticus oferă un contrast colorat față de peisajul golaș de afară.\n\nDupă-amiaza explorăm Centrul Cultural, apoi ne încălzim cu un ceai fierbinte într-una dintre puținele taverne deschise.\n\nZiua se încheie cu apusul la punctul de belvedere Mirna, exact la timp pentru a prinde ultimul autobuz spre vale.",
+            "en": "A meditative winter day in Grožnjan. The morning starts at the wind-sheltered Loggia in the crystal-clear winter air.\n\nAt noon, the Fonticus Gallery provides a colorful contrast to the bare winter landscape outside.\n\nIn the afternoon, explore the Cultural Centre before warming up with a hot tea in one of the few open taverns.\n\nThe day ends with the sunset at the Mirna viewpoint, just in time to catch the last bus back down to the valley."
+          },
+          "stops": [
+            {
+              "name": "Loggia",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich eine extra Schicht für das Warten an der Haltestelle an.",
+                "hu": "Vegyen fel egy extra réteget a megállóban való várakozáshoz.",
+                "ro": "Puneți un strat suplimentar de haine pentru așteptarea în stație.",
+                "en": "Put on an extra layer of clothing while waiting for the bus."
+              }
+            },
+            {
+              "name": "Fonticus Gallery",
+              "tip_5lang": {
+                "de": "Fragen Sie nach den speziellen Winter-Ausstellungen.",
+                "hu": "Kérdezzen rá a speciális téli kiállításokra.",
+                "ro": "Întrebați despre expozițiile speciale de iarnă.",
+                "en": "Ask about any special winter exhibitions or workshops."
+              }
+            },
+            {
+              "name": "St. Vitus Church",
+              "tip_5lang": {
+                "de": "Im Inneren ist es oft wärmer als in den zugigen Gassen.",
+                "hu": "Bent gyakran melegebb van, mint a huzatos utcákon.",
+                "ro": "În interior este adesea mai cald decât pe străzile cu curent.",
+                "en": "It is often warmer inside than in the drafty narrow alleys."
+              }
+            },
+            {
+              "name": "International Cultural Centre",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Kontemplation während der Wintermonate.",
+                "hu": "Csendes hely az elmélyüléshez a téli hónapokban.",
+                "ro": "Un loc liniștit pentru contemplație în timpul lunilor de iarnă.",
+                "en": "A quiet place for contemplation during the winter months."
+              }
+            },
+            {
+              "name": "Mirna Viewpoint",
+              "tip_5lang": {
+                "de": "Der letzte Bus fährt kurz nach dem Sonnenuntergang ab; nicht trödeln.",
+                "hu": "Az utolsó busz nem sokkal naplemente után indul; ne késlekedjen.",
+                "ro": "Ultimul autobuz pleacă la scurt timp după apus; nu întârziați.",
+                "en": "The last bus departs shortly after sunset; don't linger too long."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie den ausgedünnten Winterfahrplan der Busse.",
+              "Suchen Sie Cafés mit Innenplätzen; viele haben im Winter nur eingeschränkt offen.",
+              "Die Bora kann den Aufenthalt im Freien ungemütlich machen; Schal einpacken.",
+              "Haben Sie die Telefonnummer eines lokalen Taxis als Backup dabei."
+            ],
+            "hu": [
+              "Ügyeljen a buszok ritkított téli menetrendjére.",
+              "Keressen belső térrel rendelkező kávézókat; sok hely télen korlátozottan van nyitva.",
+              "A bóra szél kellemetlenné teheti a kinti tartózkodást; vigyen sálat.",
+              "Legyen kéznél egy helyi taxi telefonszáma tartalékként."
+            ],
+            "ro": [
+              "Atenție la orarul redus al autobuzelor pe timp de iarnă.",
+              "Căutați cafenele cu locuri în interior; multe au program limitat iarna.",
+              "Vântul Bora poate face șederea afară inconfortabilă; luați un fular gros.",
+              "Aveți la îndemână numărul de telefon al unui taxi local ca rezervă."
+            ],
+            "en": [
+              "Take note of the reduced winter bus schedule in the region.",
+              "Look for cafes with indoor seating; many places have limited hours in winter.",
+              "The Bora wind can make being outdoors uncomfortable; pack a thick scarf.",
+              "Keep the phone number of a local taxi service as a backup."
+            ]
+          }
+        }
       }
     }
   },

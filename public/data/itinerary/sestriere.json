@@ -245,6 +245,366 @@
           "The air is noticeably thinner at this elevation.",
           "The paths within the resort are well-paved."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Spaziergang im geschichtsträchtigen Olympischen Dorf. Bewundern Sie den Obelisken und die moderne Kirche Sant'Edoardo. Mittags schlendern Sie am höchstgelegenen Golfplatz vorbei. Den Nachmittag verbringen Sie auf der Via Lattea Promenade und genießen das Bergpanorama der Cottischen Alpen.",
+            "hu": "Sétánkat a történelmi Olimpiai Faluban kezdjük, majd megcsodáljuk az obeliszket és a modern Szent Eduárd-templomot. Délben Európa egyik legmagasabb golfpályája mellett haladunk el. A délutánt a Via Lattea sétányon töltjük, élvezve a Cotti-Alpok hegyi panorámáját.",
+            "ro": "Începeți plimbarea în Satul Olimpic plin de istorie recentă. Admirați obeliscul și arhitectura modernă a bisericii Sant'Edoardo. La prânz treceți pe lângă terenul de golf situat la mare altitudine. După-amiaza savurați peisajul montan pe promenada Via Lattea.",
+            "en": "Start your walk in the historic Olympic Village. Admire the Obelisk and the modern design of St. Edward's Church. Midday, stroll past one of Europe's highest golf courses. Spend your afternoon on the Via Lattea Promenade, taking in the panoramic views of the Cottian Alps."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villaggio Olimpico",
+                "hu": "Olimpiai Falu",
+                "ro": "Satul Olimpic",
+                "en": "Olympic Village"
+              },
+              "tip_5lang": {
+                "de": "Erbe der Winterspiele von 2006.",
+                "hu": "A 2006-os téli olimpia öröksége.",
+                "ro": "Moștenirea Jocurilor Olimpice din 2006.",
+                "en": "Heritage of the 2006 Winter Olympics."
+              }
+            },
+            {
+              "name": {
+                "de": "Obelisco di Sestriere",
+                "hu": "Sestriere-i obeliszk",
+                "ro": "Obeliscul Sestriere",
+                "en": "Sestriere Obelisk"
+              },
+              "tip_5lang": {
+                "de": "Erinnert an die Eröffnung der Passstraße.",
+                "hu": "A hágóút megnyitásának emlékére emelték.",
+                "ro": "Comemorează deschiderea drumului prin pas.",
+                "en": "Commemorates the opening of the pass road."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Edoardo",
+                "hu": "Szent Eduárd-templom",
+                "ro": "Biserica Sant'Edoardo",
+                "en": "Church of Saint Edward"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die moderne Alpenarchitektur.",
+                "hu": "Csodáld meg a modern alpesi építészetet.",
+                "ro": "Admirați arhitectura alpină modernă.",
+                "en": "Admire the modern Alpine architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Golf Club Sestriere",
+                "hu": "Sestriere-i Golfklub",
+                "ro": "Clubul de Golf Sestriere",
+                "en": "Sestriere Golf Club"
+              },
+              "tip_5lang": {
+                "de": "Einer der höchstgelegenen Plätze Europas.",
+                "hu": "Európa egyik legmagasabban fekvő pályája.",
+                "ro": "Unul dintre cele mai înalte terenuri din Europa.",
+                "en": "One of the highest golf courses in Europe."
+              }
+            },
+            {
+              "name": {
+                "de": "Via Lattea Ski Promenade",
+                "hu": "Via Lattea sétány",
+                "ro": "Promenada Via Lattea",
+                "en": "Via Lattea Promenade"
+              },
+              "tip_5lang": {
+                "de": "Schöner Blick auf die Skipisten.",
+                "hu": "Szép kilátás a sípályákra.",
+                "ro": "Vedere frumoasă spre pârtiile de schi.",
+                "en": "Beautiful views of the ski slopes."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Polenta Concia",
+                "tip": "Mit lokalem Käse geschmolzen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Polenta Concia",
+                "tip": "Helyi sajttal összesütött puliszka."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Polenta Concia",
+                "tip": "Mămăligă cu brânză locală topită."
+              }
+            ],
+            "en": [
+              {
+                "name": "Polenta Concia",
+                "tip": "Cornmeal mush melted with local cheeses."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Baita de la Beis",
+                "tip": "Ruhiger Aussichtspunkt am Rand.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Baita de la Beis",
+                "tip": "Csendes kilátópont a város szélén.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Baita de la Beis",
+                "tip": "Punct de observație liniștit la margine.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Baita de la Beis",
+                "tip": "Quiet viewpoint on the outskirts.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Miele Alpino",
+                "tip": "Honig von den Bergwiesen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Alpesi méz",
+                "tip": "Méz a helyi hegyi rétekről."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere alpină",
+                "tip": "Miere din fânețele montane."
+              }
+            ],
+            "en": [
+              {
+                "name": "Alpine Honey",
+                "tip": "Honey collected from mountain meadows."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Das Wetter kann auf 2000m schnell umschlagen.",
+              "In der Nebensaison sind viele Cafés geschlossen.",
+              "Die Luft ist hier oben spürbar dünner.",
+              "Die Wege im Ort sind gut befestigt."
+            ],
+            "hu": [
+              "Az időjárás 2000 méteren gyorsan változhat.",
+              "Szezonon kívül sok kávézó zárva tart.",
+              "A levegő érezhetően ritkább ebben a magasságban.",
+              "A városi utak jól karbantartottak."
+            ],
+            "ro": [
+              "Vremea se poate schimba rapid la 2000m.",
+              "În afara sezonului multe cafenele sunt închise.",
+              "Aerul este vizibil mai rarefiat la această înălțime.",
+              "Drumurile din stațiune sunt bine amenajate."
+            ],
+            "en": [
+              "Weather can change rapidly at 2000m altitude.",
+              "Many cafes close during the off-season.",
+              "The air is noticeably thinner at this elevation.",
+              "The paths within the resort are well-paved."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt im Olympischen Dorf, wo die Architektur auch bei Regen beeindruckt. Mittags bietet der Sestriere-Obelisk einen schnellen Fotostopp, bevor man in der Kirche Saint Edward Zuflucht und Stille findet. Am Nachmittag führt der Weg zum Golfclub, dessen Wege bei Regen oft neblig und mystisch wirken. Der Tag endet mit einem gemütlichen Spaziergang auf der Via Lattea Promenade unter dem Regenschirm.",
+            "hu": "A reggel az Olimpiai Falu fedett részei között indul, ahol a modern építészet esőben is látványos. Délben a Sestriere-obeliszk egy gyors megálló, majd a Szent Eduárd-templom nyújt menedéket a csapadék elől. Délután a Golfklub környéke ködös, misztikus arcát mutatja a látogatónak. Az este a Via Lattea sétányon zárul, ahol az eső kopogása kíséri utunkat a szállás felé.",
+            "ro": "Dimineața începe protejat în Satul Olimpic, unde arhitectura impresionează chiar și pe ploaie. La prânz, Obeliscul Sestriere oferă un popas rapid pentru poze, înainte de a găsi refugiu și liniște în Biserica Sfântul Eduard. După-amiaza, drumul duce spre Clubul de Golf, ale cărui poteci par mistice și pline de ceață. Ziua se încheie cu o plimbare relaxantă pe promenada Via Lattea sub umbrelă.",
+            "en": "The morning begins sheltered within the Olympic Village, where the architecture remains impressive even in the rain. At noon, the Sestriere Obelisk offers a quick photo stop before finding refuge and silence in the Church of Saint Edward. In the afternoon, the path leads to the Golf Club, whose trails often appear misty and mystical. The day ends with a cozy walk along the Via Lattea Promenade under an umbrella."
+          },
+          "stops": [
+            {
+              "name": "Olympic Village",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Passagen zwischen den Gebäuden.",
+                "hu": "Használja az épületek közötti fedett átjárókat.",
+                "ro": "Folosiți pasajele acoperite dintre clădiri.",
+                "en": "Use the covered passages between the buildings."
+              }
+            },
+            {
+              "name": "Sestriere Obelisk",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; der Boden um das Monument kann rutschig sein.",
+                "hu": "Gyors megálló; a monumentum körüli talaj csúszós lehet.",
+                "ro": "Oprire scurtă; solul din jurul monumentului poate fi alunecos.",
+                "en": "Short stop; the ground around the monument can be slippery."
+              }
+            },
+            {
+              "name": "Church of Saint Edward",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um trocken zu bleiben und die Holzdecke zu bewundern.",
+                "hu": "Tökéletes hely a szárazon maradáshoz és a faborítású mennyezet megcsodálásához.",
+                "ro": "Un loc perfect pentru a rămâne uscat și a admira tavanul din lemn.",
+                "en": "A perfect place to stay dry and admire the wooden ceiling."
+              }
+            },
+            {
+              "name": "Sestriere Golf Club",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott utakon, hogy elkerülje a sarat.",
+                "ro": "Rămâneți pe potecile asfaltate pentru a evita noroiul.",
+                "en": "Stay on the paved paths to avoid mud."
+              }
+            },
+            {
+              "name": "Via Lattea Promenade",
+              "tip_5lang": {
+                "de": "Wasserdichte Schuhe sind für diese längere Strecke unerlässlich.",
+                "hu": "Vízálló cipő elengedhetetlen ehhez a hosszabb szakaszhoz.",
+                "ro": "Încălțămintea impermeabilă este esențială pentru această secțiune lungă.",
+                "en": "Waterproof shoes are essential for this longer section."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke, da der Wind in dieser Höhe stark sein kann.",
+              "Die Sicht kann durch tief hängende Wolken plötzlich abnehmen.",
+              "Suchen Sie bei starkem Regen Schutz in den Cafés rund um den Hauptplatz.",
+              "Die Wege können rutschig sein; Wanderstöcke bieten zusätzliche Stabilität.",
+              "Ein kleiner, stabiler Sturmschirm ist besser als ein großer, unhandlicher."
+            ],
+            "hu": [
+              "Viseljen jó minőségű esőkabátot, mert a szél ezen a magasságon erős lehet.",
+              "A látótávolság a hirtelen leereszkedő felhők miatt gyorsan csökkenhet.",
+              "Heves esőzés esetén keressen menedéket a főtér körüli kávézókban.",
+              "Az utak csúszósak lehetnek; a túrabotok extra stabilitást adnak.",
+              "Egy kisebb, de szélálló esernyő praktikusabb, mint a nagyméretűek."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie de calitate, deoarece vântul poate fi puternic la această altitudine.",
+              "Vizibilitatea poate scădea brusc din cauza norilor joși.",
+              "În caz de ploaie torențială, căutați adăpost în cafenelele din jurul pieței principale.",
+              "Potecile pot fi alunecoase; bețele de trekking oferă stabilitate suplimentară.",
+              "O umbrelă mică și rezistentă la vânt este mai practică decât una mare."
+            ],
+            "en": [
+              "Wear a high-quality raincoat as the wind can be strong at this altitude.",
+              "Visibility can decrease suddenly due to low-hanging clouds.",
+              "In case of heavy rain, seek shelter in the cafes around the main square.",
+              "The paths can be slippery; trekking poles offer extra stability.",
+              "A small, sturdy storm umbrella is better than a large, unwieldy one."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen im Olympischen Dorf versprüht echten Skizirkus-Flair im Schnee. Mittags leuchtet der Obelisk weiß inmitten der verschneiten Berge, gefolgt von einem Besuch der warmen Kirche Saint Edward. Am Nachmittag verwandelt sich der Golfclub in eine weiße Weite, ideal für einen Spaziergang in der klaren Luft. Der Tag endet auf der beleuchteten Via Lattea Promenade, wenn die Sonne früh hinter den Gipfeln verschwindet.",
+            "hu": "A téli reggel az Olimpiai Faluban valódi síparadicsomi hangulatot áraszt a hóban. Délben az obeliszk fehéren ragyog a havas hegyek között, majd a Szent Eduárd-templom melege várja. Délután a Golfklub egy hatalmas fehér mezővé változik, amely tökéletes egy sétához a friss levegőn. A nap a kivilágított Via Lattea sétányon ér véget, miközben a nap korán eltűnik a csúcsok mögött.",
+            "ro": "Dimineața de iarnă în Satul Olimpic emană o atmosferă autentică de schi în zăpadă. La prânz, obeliscul strălucește alb în mijlocul munților înzăpeziți, urmat de o vizită la biserica caldă Sfântul Eduard. După-amiaza, Clubul de Golf se transformă într-o întindere albă, ideală pentru o plimbare în aerul curat. Ziua se încheie pe promenada iluminată Via Lattea, pe măsură ce soarele dispare devreme după vârfuri.",
+            "en": "The winter morning in the Olympic Village exudes a true ski resort atmosphere in the snow. At noon, the obelisk shines white amidst the snowy mountains, followed by a visit to the warm Church of Saint Edward. In the afternoon, the Golf Club transforms into a white expanse, ideal for a walk in the crisp air. The day ends on the illuminated Via Lattea Promenade as the sun disappears early behind the peaks."
+          },
+          "stops": [
+            {
+              "name": "Olympic Village",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in der Lobby auf, bevor Sie losgehen.",
+                "hu": "Melegedjen fel a lobbyban, mielőtt útnak indul.",
+                "ro": "Încălziți-vă în hol înainte de a pleca la drum.",
+                "en": "Warm up in the lobby before heading out."
+              }
+            },
+            {
+              "name": "Sestriere Obelisk",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen rund um das Monument.",
+                "hu": "Vigyázzon a jeges foltokra a monumentum körül.",
+                "ro": "Atenție la porțiunile înghețate din jurul monumentului.",
+                "en": "Watch out for icy patches around the monument."
+              }
+            },
+            {
+              "name": "Church of Saint Edward",
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine friedliche und warme Pause vom Wind.",
+                "hu": "A templom békés és meleg pihenőt kínál a szél elől.",
+                "ro": "Biserica oferă o pauză liniștită și caldă de la vânt.",
+                "en": "The church offers a peaceful and warm break from the wind."
+              }
+            },
+            {
+              "name": "Sestriere Golf Club",
+              "tip_5lang": {
+                "de": "Der Golfplatz ist nun eine Schneefläche; folgen Sie den geräumten Pfaden.",
+                "hu": "A golfpálya most hófödte mező; kövesse a letakarított ösvényeket.",
+                "ro": "Terenul de golf este acum o câmpie de zăpadă; urmați potecile curățate.",
+                "en": "The golf course is now a snowy field; follow the cleared paths."
+              }
+            },
+            {
+              "name": "Via Lattea Promenade",
+              "tip_5lang": {
+                "de": "Nach 16:30 Uhr wird es dunkel; genießen Sie die Abendbeleuchtung.",
+                "hu": "16:30 után sötétedik; élvezze az esti kivilágítást.",
+                "ro": "Se întunecă după ora 16:30; bucurați-vă de iluminatul de seară.",
+                "en": "It gets dark after 16:30; enjoy the evening lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 16:45 Uhr unter; planen Sie Ihre Rückkehr frühzeitig.",
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip) gegen die Kälte.",
+              "Die Wege sind meist geräumt, aber festgetretener Schnee kann sehr glatt sein.",
+              "Ein heißes Getränk im Zentrum ist nach dem Spaziergang ein Muss.",
+              "Sonnenbrillen sind wegen der starken Reflexion im Schnee notwendig."
+            ],
+            "hu": [
+              "A nap 16:45 körül nyugszik; tervezze meg korán a visszatérést.",
+              "Viseljen réteges öltözetet a hideg ellen.",
+              "Az utak többnyire takarítottak, de a letaposott hó nagyon csúszós lehet.",
+              "Egy forró ital a központban kötelező a séta után.",
+              "A napszemüveg a hó erős fényvisszaverése miatt elengedhetetlen."
+            ],
+            "ro": [
+              "Soarele apune în jur de 16:45; planificați-vă întoarcerea devreme.",
+              "Purtați mai multe straturi de haine împotriva frigului.",
+              "Drumurile sunt în general curățate, dar zăpada bătătorită poate fi foarte alunecoasă.",
+              "O băutură caldă în centru este obligatorie după plimbare.",
+              "Ochelarii de soare sunt necesari din cauza reflexiei puternice a zăpezii."
+            ],
+            "en": [
+              "The sun sets around 16:45; plan your return early.",
+              "Wear multiple layers of clothing (onion principle) against the cold.",
+              "Paths are mostly cleared, but packed snow can be very slippery.",
+              "A hot drink in the center is a must after the walk.",
+              "Sunglasses are necessary due to the strong reflection of the snow."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -484,6 +844,366 @@
           "Be mindful of hikers sharing the trails.",
           "Carry basic tools for minor repairs."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die WM-Pisten auf zwei Rädern. Starten Sie beim Olympischen Dorf und folgen Sie den Wegen der Via Lattea. Bestaunen Sie die Kandahar-Abfahrt und erklimmen Sie die unteren Hänge des Monte Fraiteve. Die Tour endet mit einer rasanten Abfahrt zurück ins Zentrum von Sestriere.",
+            "hu": "Fedezzük fel a világbajnoki pályákat két keréken. Az Olimpiai Falutól indulva kövessük a Via Lattea ösvényeit. Csodáljuk meg a Kandahar lesiklópályát, és hódítsuk meg a Fraiteve-hegy alsó lankáit. A túra egy izgalmas lejtmenettel zárul vissza Sestriere központjába.",
+            "ro": "Explorați pârtiile de campionat mondial pe două roți. Plecați de la Satul Olimpic și urmați potecile Via Lattea. Admirați coborârea Kandahar și urcați pe versanții Muntelui Fraiteve. Turul se încheie cu o coborâre rapidă înapoi în centrul stațiunii.",
+            "en": "Explore World Cup slopes on two wheels. Starting at the Olympic Village, follow the trails of Via Lattea. Marvel at the Kandahar run and climb the lower slopes of Monte Fraiteve. The tour finishes with an exhilarating descent back to the heart of Sestriere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villaggio Olimpico",
+                "hu": "Olimpiai Falu",
+                "ro": "Satul Olimpic",
+                "en": "Olympic Village"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt für viele Mountainbike-Touren.",
+                "hu": "Számos mountain bike túra kiindulópontja.",
+                "ro": "Punct de plecare pentru multe trasee de MTB.",
+                "en": "Starting point for many mountain bike tours."
+              }
+            },
+            {
+              "name": {
+                "de": "Via Lattea Tracks",
+                "hu": "Via Lattea ösvények",
+                "ro": "Traseele Via Lattea",
+                "en": "Via Lattea Tracks"
+              },
+              "tip_5lang": {
+                "de": "Im Sommer tolle Downhill-Strecken.",
+                "hu": "Nyáron kiváló downhill pályák várnak.",
+                "ro": "Trasee superbe de downhill pe timp de vară.",
+                "en": "Great downhill tracks available in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Kandahar Banchetta",
+                "hu": "Kandahar Banchetta pálya",
+                "ro": "Pârtia Kandahar",
+                "en": "Kandahar Banchetta"
+              },
+              "tip_5lang": {
+                "de": "Berühmte Abfahrtsstrecke der Weltmeisterschaften.",
+                "hu": "Híres világbajnoki lesiklópálya.",
+                "ro": "Celebră pârtie de coborâre de la campionate.",
+                "en": "Famous World Cup downhill ski run."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte Fraiteve Base",
+                "hu": "Fraiteve-hegy lába",
+                "ro": "Baza Muntelui Fraiteve",
+                "en": "Monte Fraiteve Base"
+              },
+              "tip_5lang": {
+                "de": "Herausfordernde Steigung mit Belohnung.",
+                "hu": "Kihívást jelentő emelkedő szép kilátással.",
+                "ro": "Urcare solicitantă, dar cu priveliști superbe.",
+                "en": "Challenging climb with rewarding views."
+              }
+            },
+            {
+              "name": {
+                "de": "Sestriere Centro",
+                "hu": "Sestriere központ",
+                "ro": "Centrul Sestriere",
+                "en": "Sestriere Center"
+              },
+              "tip_5lang": {
+                "de": "Entspannung nach der Tour am Hauptplatz.",
+                "hu": "Lazítás a túra után a főtéren.",
+                "ro": "Relaxare în piața principală după tur.",
+                "en": "Relaxation in the main square after the ride."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Tajarin",
+                "tip": "Dünne Eiernudeln mit Trüffel oder Pilzen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tajarin",
+                "tip": "Vékony tojásos tészta szarvasgombával vagy gombával."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tajarin",
+                "tip": "Paste subțiri cu ou, servite cu trufe sau ciuperci."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tajarin",
+                "tip": "Thin egg noodles with truffles or mushrooms."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Sentiero del Sole",
+                "tip": "Sonniger Pfad mit Weitblick.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sentiero del Sole",
+                "tip": "Napsütötte ösvény távoli kilátással.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sentiero del Sole",
+                "tip": "Traseu însorit cu vedere la distanță.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Sentiero del Sole",
+                "tip": "Sunny path with panoramic views.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Toma di Susa",
+                "tip": "Würziger Bergkäse aus der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Toma di Susa",
+                "tip": "Karakteres hegyi sajt a régióból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Toma di Susa",
+                "tip": "Brânză de munte aromată din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Toma di Susa",
+                "tip": "Flavorful mountain cheese from the region."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Ein E-MTB erleichtert die alpinen Anstiege enorm.",
+              "Tragen Sie immer einen Helm.",
+              "Achten Sie auf Wanderer auf den Wegen.",
+              "Nehmen Sie Werkzeug für kleine Reparaturen mit."
+            ],
+            "hu": [
+              "Az elektromos MTB sokat segít az alpesi emelkedőkön.",
+              "Mindig viselj bukósisakot.",
+              "Figyelj a gyalogos túrázókra az ösvényeken.",
+              "Vigyél magaddal szerszámot a kisebb javításokhoz."
+            ],
+            "ro": [
+              "Un E-MTB face urcările alpine mult mai ușoare.",
+              "Purtați întotdeaii cască de protecție.",
+              "Fiți atenți la turiștii care merg pe jos.",
+              "Luați cu voi scule pentru mici reparații."
+            ],
+            "en": [
+              "An E-MTB makes Alpine climbs much easier.",
+              "Always wear a helmet during your ride.",
+              "Be mindful of hikers sharing the trails.",
+              "Carry basic tools for minor repairs."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start am Olympischen Dorf erfordert volle Konzentration auf dem Rad. Die Via Lattea Tracks sind mittags schlammig und technisch anspruchsvoll, während der Nebel am Kandahar Banchetta die Sicht einschränkt. Am Nachmittag ist die Abfahrt zum Monte Fraiteve Base wegen der Nässe vorsichtig zu bewältigen. Der Tag endet im Zentrum von Sestriere, wo man das Rad sicher abstellen und sich aufwärmen kann.",
+            "hu": "A vizes indulás az Olimpiai Falunál teljes koncentrációt igényel a kerékpáron. A Via Lattea ösvények délben sárosak és technikásak, miközben a köd korlátozza a kilátást a Kandahar Banchettánál. Délután a Monte Fraiteve bázishoz vezető lejtő a nedvesség miatt óvatosságot igényel. A nap Sestriere központjában zárul, ahol biztonságban leparkolhatjuk a bringát és felmelegedhetünk.",
+            "ro": "Un început umed la Satul Olimpic necesită concentrare maximă pe bicicletă. Traseele Via Lattea sunt noroioase și tehnice la prânz, în timp ce ceața de la Kandahar Banchetta limitează vizibilitatea. După-amiaza, coborârea spre baza Monte Fraiteve trebuie abordată cu prudență din cauza umezelii. Ziua se încheie în centrul localității Sestriere, unde puteți parca bicicleta și vă puteți încălzi.",
+            "en": "A wet start at the Olympic Village requires full concentration on the bike. The Via Lattea tracks are muddy and technical at noon, while mist at Kandahar Banchetta limits visibility. In the afternoon, the descent to the Monte Fraiteve base must be handled with caution due to the wet surface. The day ends in Sestriere center, where you can park the bike safely and warm up."
+          },
+          "stops": [
+            {
+              "name": "Olympic Village",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie in den Regen starten.",
+                "hu": "Ellenőrizze a fékeket, mielőtt elindul az esőben.",
+                "ro": "Verificați frânele înainte de a porni prin ploaie.",
+                "en": "Check your brakes before starting out in the rain."
+              }
+            },
+            {
+              "name": "Via Lattea Tracks",
+              "tip_5lang": {
+                "de": "Schutzbleche sind hier unerlässlich, um Schlamm am Rücken zu vermeiden.",
+                "hu": "A sárvédők itt elengedhetetlenek, hogy elkerülje a sár felverődését.",
+                "ro": "Apărătorile de noroi sunt esențiale aici pentru a evita murdăria.",
+                "en": "Mudguards are essential here to avoid mud on your back."
+              }
+            },
+            {
+              "name": "Kandahar Banchetta",
+              "tip_5lang": {
+                "de": "Benutzen Sie Lichter, um im Nebel für andere sichtbar zu sein.",
+                "hu": "Használjon lámpákat, hogy a ködben látható legyen mások számára.",
+                "ro": "Folosiți lumini pentru a fi vizibil pentru ceilalți în ceață.",
+                "en": "Use lights to be visible to others in the mist."
+              }
+            },
+            {
+              "name": "Monte Fraiteve Base",
+              "tip_5lang": {
+                "de": "Vorsicht bei Kurven auf nassem Asphalt oder Schotter.",
+                "hu": "Vigyázzon a kanyarokban a nedves aszfalton vagy murván.",
+                "ro": "Atenție la curbe pe asfaltul ud sau pietriș.",
+                "en": "Be careful in corners on wet asphalt or gravel."
+              }
+            },
+            {
+              "name": "Sestriere Center",
+              "tip_5lang": {
+                "de": "Vorsicht bei nassem Kopfsteinpflaster im Ortskern.",
+                "hu": "Vigyázzon a nedves macskakövekre a városközpontban.",
+                "ro": "Atenție la pavajul umed din centrul localității.",
+                "en": "Be careful on wet cobblestones in the town center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Handschuhe; kalte, nasse Hände bremsen schlecht.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassen Wegen.",
+              "Vermeiden Sie metallische Oberflächen wie Kanaldeckel, sie sind extrem rutschig.",
+              "Reinigen und ölen Sie Ihre Kette nach der Fahrt, um Rost zu vermeiden.",
+              "Achten Sie auf Pfützen, die tiefe Schlaglöcher verbergen könnten."
+            ],
+            "hu": [
+              "Viseljen vízálló kesztyűt; a hideg, vizes kézzel nehéz fékezni.",
+              "Csökkentse kissé a guminyomást a jobb tapadás érdekében a nedves utakon.",
+              "Kerülje a fémfelületeket, például a csatornafedeleket, mert rendkívül csúszósak.",
+              "A túra után tisztítsa meg és olajozza be a láncot a rozsda elkerülése érdekében.",
+              "Ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek."
+            ],
+            "ro": [
+              "Purtați mănuși impermeabile; mâinile reci și ude frânează greu.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe drumurile ude.",
+              "Evitați suprafețele metalice, cum ar fi capacele de canal, sunt extrem de alunecoase.",
+              "Curățați și ungeți lanțul după plimbare pentru a evita rugina.",
+              "Atenție la bălți, care ar putea ascunde gropi adânci."
+            ],
+            "en": [
+              "Wear waterproof gloves; cold, wet hands make braking difficult.",
+              "Slightly reduce tire pressure for better grip on wet paths.",
+              "Avoid metallic surfaces like manhole covers, they are extremely slippery.",
+              "Clean and oil your chain after the ride to prevent rust.",
+              "Watch out for puddles that could hide deep potholes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour startet am Olympischen Dorf bei klirrender Kälte. Mittags sind die verschneiten Tracks der Via Lattea ein Paradies für Fatbikes, während man am Kandahar Banchetta den Skifahrern zuschauen kann. Am Nachmittag bietet der Monte Fraiteve Base atemberaubende Eis-Panoramen. Der Tag endet im festlich beleuchteten Sestriere Center, wo die Winterstimmung am intensivsten ist.",
+            "hu": "A téli túra az Olimpiai Falutól indul a metsző hidegben. Délben a Via Lattea havas ösvényei a fatbike-osok paradicsoma, miközben a Kandahar Banchettánál a síelőket figyelhetjük. Délután a Monte Fraiteve bázis lenyűgöző jeges panorámát kínál. A nap a díszesen kivilágított Sestriere központjában zárul, ahol a téli hangulat a legintenzívebb.",
+            "ro": "Turul de iarnă începe la Satul Olimpic pe un frig pătrunzător. La prânz, traseele înzăpezite Via Lattea sunt un paradis pentru fatbike-uri, în timp ce la Kandahar Banchetta îi puteți urmări pe schiori. După-amiaza, baza Monte Fraiteve oferă panorame înghețate uluitoare. Ziua se încheie în centrul Sestriere iluminat festiv, unde atmosfera de iarnă este cea mai intensă.",
+            "en": "The winter tour starts at the Olympic Village in the biting cold. At noon, the snowy tracks of Via Lattea are a paradise for fatbikes, while at Kandahar Banchetta you can watch the skiers. In the afternoon, the Monte Fraiteve base offers breathtaking icy panoramas. The day ends in the festively lit Sestriere Center, where the winter atmosphere is most intense."
+          },
+          "stops": [
+            {
+              "name": "Olympic Village",
+              "tip_5lang": {
+                "de": "Halten Sie den Akku (bei E-Bikes) bis zum Start im Warmen.",
+                "hu": "Tartsa melegen az akkumulátort (e-bike esetén) az indulásig.",
+                "ro": "Păstrați bateria (pentru e-bike) la cald până la pornire.",
+                "en": "Keep the battery (for e-bikes) warm until the start."
+              }
+            },
+            {
+              "name": "Via Lattea Tracks",
+              "tip_5lang": {
+                "de": "Nutzen Sie Fatbikes mit breiten Reifen für festen Schnee.",
+                "hu": "Használjon széles kerekű fatbike-ot a tömör hóhoz.",
+                "ro": "Folosiți fatbike-uri cu anvelope late pentru zăpadă bătătorită.",
+                "en": "Use fatbikes with wide tires for packed snow."
+              }
+            },
+            {
+              "name": "Kandahar Banchetta",
+              "tip_5lang": {
+                "de": "Achten Sie auf Skifahrer, die den Weg kreuzen könnten.",
+                "hu": "Ügyeljen a síelőkre, akik keresztezhetik az utat.",
+                "ro": "Atenție la schiorii care ar putea traversa drumul.",
+                "en": "Watch out for skiers who might cross your path."
+              }
+            },
+            {
+              "name": "Monte Fraiteve Base",
+              "tip_5lang": {
+                "de": "Gefrorener Boden bedeutet extrem wenig Grip; fahren Sie vorsichtig.",
+                "hu": "A fagyott talaj rendkívül kevés tapadást jelent; vezessen óvatosan.",
+                "ro": "Solul înghețat înseamnă aderență minimă; conduceți cu prudență.",
+                "en": "Frozen ground means extremely low grip; ride carefully."
+              }
+            },
+            {
+              "name": "Sestriere Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger, die auf glatten Wegen unterwegs sind.",
+                "hu": "Ügyeljen a gyalogosokra, akik a csúszós utakon közlekednek.",
+                "ro": "Atenție la pietonii care merg pe potecile alunecoase.",
+                "en": "Watch out for pedestrians on the slippery paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie bei Eis unbedingt Reifen mit Spikes oder spezielles Winterprofil.",
+              "Die Akkuleistung von E-Bikes sinkt bei Kälte drastisch; planen Sie Reserven ein.",
+              "Tragen Sie winddichte Kleidung, da der Fahrtwind die Kälte verstärkt.",
+              "Nach der Fahrt das Salz vom Rad waschen, um Korrosion zu verhindern.",
+              "Beleuchtung ist ab 16:30 Uhr aufgrund der frühen Dämmerung Pflicht."
+            ],
+            "hu": [
+              "Jégen mindenképpen használjon szöges gumit vagy speciális téli profilú abroncsot.",
+              "Az e-bike-ok akkumulátorkapacitása hidegben drasztikusan csökken; tervezzen tartalékkal.",
+              "Viseljen szélálló ruházatot, mert a menetszél fokozza a hidegérzetet.",
+              "A túra után mossa le a sót a bicikliről a korrózió megelőzése érdekében.",
+              "A világítás 16:30-tól kötelező a korai sötétedés miatt."
+            ],
+            "ro": [
+              "Folosiți neapărat anvelope cu ținte sau profil special de iarnă pe gheață.",
+              "Capacitatea bateriei e-bike-urilor scade drastic la frig; planificați rezerve.",
+              "Purtați haine rezistente la vânt, deoarece curentul de aer amplifică frigul.",
+              "Spălați sarea de pe bicicletă după plimbare pentru a preveni coroziunea.",
+              "Iluminarea este obligatorie de la ora 16:30 din cauza amurgului timpuriu."
+            ],
+            "en": [
+              "Use studded tires or special winter treads on ice.",
+              "E-bike battery performance drops drastically in the cold; plan for reserves.",
+              "Wear windproof clothing as the wind chill intensifies the cold.",
+              "Wash the salt off the bike after the ride to prevent corrosion.",
+              "Lights are mandatory from 16:30 due to early dusk."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -746,6 +1466,398 @@
           "Winter tires or chains are often needed until May.",
           "Watch for wildlife when driving at dusk."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Fahren Sie durch das Herz der Via Lattea. Nach dem Besuch des Olympischen Dorfes und der Kirche führt Sie ein Ausflug zum imposanten Rochemolles-Staudamm in einem Nachbartal. Kehren Sie zurück, um den Monte Fraiteve zu bestaunen und beenden Sie die Tour am historischen Obelisken im Zentrum.",
+            "hu": "Autózzunk végig a Via Lattea szívén. Az Olimpiai Falu és a templom megtekintése után egy kirándulást teszünk a szomszédos völgyben található Rochemolles-gáthoz. Visszatérve megcsodáljuk a Fraiteve-hegyet, majd a túrát a városközpontban, a történelmi obeliszknél zárjuk.",
+            "ro": "Conduceți prin inima domeniului Via Lattea. După Satul Olimpic și biserică, o excursie vă duce la impresionantul baraj Rochemolles dintr-o vale vecină. Reveniți pentru a vedea Muntele Fraiteve și încheiați turul la obeliscul istoric din centru.",
+            "en": "Drive through the heart of the Via Lattea area. After visiting the Olympic Village and the church, a detour takes you to the imposing Rochemolles Dam in a nearby valley. Return to marvel at Monte Fraiteve and finish your tour at the historic Obelisk in the center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villaggio Olimpico",
+                "hu": "Olimpiai Falu",
+                "ro": "Satul Olimpic",
+                "en": "Olympic Village"
+              },
+              "tip_5lang": {
+                "de": "Guter Parkplatz für den Start.",
+                "hu": "Jó parkolóhely a kezdéshez.",
+                "ro": "Loc de parcare bun pentru început.",
+                "en": "Good parking spot to start your day."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Edoardo",
+                "hu": "Szent Eduárd-templom",
+                "ro": "Biserica Sant'Edoardo",
+                "en": "Church of Saint Edward"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Stopp für die Architektur.",
+                "hu": "Rövid megálló az építészet kedvelőinek.",
+                "ro": "Oprire scurtă pentru arhitectură.",
+                "en": "Short stop for architecture enthusiasts."
+              }
+            },
+            {
+              "name": {
+                "de": "Kandahar Banchetta",
+                "hu": "Kandahar Banchetta",
+                "ro": "Kandahar Banchetta",
+                "en": "Kandahar Banchetta"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie an der Basisstation der Seilbahn.",
+                "hu": "Parkolj a felvonó alsó állomásánál.",
+                "ro": "Parcați la stația de bază a telecabinei.",
+                "en": "Park at the cable car base station."
+              }
+            },
+            {
+              "name": {
+                "de": "Diga di Rochemolles",
+                "hu": "Rochemolles-gát",
+                "ro": "Barajul Rochemolles",
+                "en": "Rochemolles Dam"
+              },
+              "tip_5lang": {
+                "de": "Ein spektakulärer Stausee im Hochtal.",
+                "hu": "Látványos víztározó a magasvölgyben.",
+                "ro": "Un baraj spectaculos într-o vale înaltă.",
+                "en": "A spectacular reservoir in a high valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte Fraiteve",
+                "hu": "Fraiteve-hegy",
+                "ro": "Muntele Fraiteve",
+                "en": "Monte Fraiteve"
+              },
+              "tip_5lang": {
+                "de": "Höchster Punkt mit Rundumblick.",
+                "hu": "A legmagasabb pont körpanorámával.",
+                "ro": "Cel mai înalt punct cu vedere circulară.",
+                "en": "Highest point with 360-degree views."
+              }
+            },
+            {
+              "name": {
+                "de": "Obelisco di Sestriere",
+                "hu": "Sestriere-i obeliszk",
+                "ro": "Obeliscul Sestriere",
+                "en": "Sestriere Obelisk"
+              },
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Rückreise.",
+                "hu": "Utolsó megálló a hazaút előtt.",
+                "ro": "Ultima oprire înainte de plecare.",
+                "en": "Final stop before heading back."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Fonduta Valdostana",
+                "tip": "Käsefondue mit Weißbrot."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sajtfondü",
+                "tip": "Sajtfondü fehér kenyérrel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fondue de brânză",
+                "tip": "Fondue de brânză cu pâine albă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cheese Fondue",
+                "tip": "Traditional cheese fondue with white bread."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Lago di Rochemolles",
+                "tip": "Ruhe am Wasser genießen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rochemolles-tó",
+                "tip": "Élvezd a vízparti csendet.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lacul Rochemolles",
+                "tip": "Bucurați-vă de liniștea apei.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Rochemolles Lake",
+                "tip": "Enjoy the peace by the water.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Genepì",
+                "tip": "Lokaler Kräuterlikör aus den Alpen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Genepì",
+                "tip": "Helyi gyógynövénylikőr az Alpokból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Genepì",
+                "tip": "Lichior local de plante din Alpi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Genepì",
+                "tip": "Traditional alpine herbal liqueur."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straße zum Damm kann unbefestigt sein.",
+              "Parkplätze im Zentrum sind gebührenpflichtig.",
+              "Winterreifen oder Ketten sind oft bis Mai nötig.",
+              "Achten Sie auf Wildtiere in der Dämmerung."
+            ],
+            "hu": [
+              "A gáthoz vezető út néhol aszfaltozatlan lehet.",
+              "A központban a parkolás fizetős.",
+              "Téli gumi vagy lánc gyakran májusig szükséges.",
+              "Figyelj a vadon élő állatokra szürkületkor."
+            ],
+            "ro": [
+              "Drumul spre baraj poate fi neasfaltat pe alocuri.",
+              "Parcarea în centru este cu plată.",
+              "Anvelopele de iarnă sunt necesare deseori până în mai.",
+              "Atenție la animalele sălbatice la amurg."
+            ],
+            "en": [
+              "The road to the dam can be unpaved in sections.",
+              "Parking in the center is usually paid.",
+              "Winter tires or chains are often needed until May.",
+              "Watch for wildlife when driving at dusk."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Start am Olympischen Dorf, trocken im Auto. Die Fahrt führt mittags zur Kirche Saint Edward, wobei der Regen die Berglandschaft in tiefes Grün taucht. Nachmittags geht es zur Rochemolles-Talsperre, die bei Regen besonders dramatisch wirkt, gefolgt von der Fahrt zum Monte Fraiteve. Der Tag endet am Sestriere-Obelisk, wenn die Lichter des Ortes im nassen Asphalt reflektieren.",
+            "hu": "Nyugodt indulás az Olimpiai Falutól, szárazon az autóban. Az út délben a Szent Eduárd-templomhoz vezet, miközben az eső mélyzöldre festi a hegyi tájat. Délután a Rochemolles-gát következik, amely esőben különösen drámai látványt nyújt, majd irány a Monte Fraiteve. A nap a Sestriere-obeliszknél ér véget, miközben a város fényei tükröződnek a nedves aszfalton.",
+            "ro": "Un început relaxat la Satul Olimpic, la adăpost în mașină. Drumul duce la prânz spre biserica Sfântul Eduard, în timp ce ploaia colorează peisajul montan în verde intens. După-amiaza se merge spre barajul Rochemolles, care arată deosebit de dramatic pe ploaie, urmat de drumul spre Monte Fraiteve. Ziua se încheie la Obeliscul Sestriere, când luminile localității se reflectă în asfaltul ud.",
+            "en": "A relaxed start at the Olympic Village, staying dry in the car. The drive leads to the Church of Saint Edward at noon, with the rain painting the mountain landscape in deep green. In the afternoon, visit the Rochemolles Dam, which looks particularly dramatic in the rain, followed by the drive to Monte Fraiteve. The day ends at the Sestriere Obelisk, with the town lights reflecting in the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": "Olympic Village",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken ins Gebäude zu kommen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy szárazon jusson be az épületbe.",
+                "ro": "Parcați aproape de intrare pentru a ajunge uscat în clădire.",
+                "en": "Park close to the entrance to stay dry when entering the building."
+              }
+            },
+            {
+              "name": "Church of Saint Edward",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zum Kircheneingang reicht aus.",
+                "hu": "Egy rövid futás a parkolótól a templom bejáratáig elég.",
+                "ro": "Un sprint scurt de la parcare până la intrarea în biserică este suficient.",
+                "en": "A short sprint from the parking lot to the church entrance is enough."
+              }
+            },
+            {
+              "name": "Kandahar Banchetta",
+              "tip_5lang": {
+                "de": "Die Sicht kann auf den Serpentinen durch Nebel eingeschränkt sein.",
+                "hu": "A kilátást a szerpentineken korlátozhatja a köd.",
+                "ro": "Vizibilitatea pe serpentine poate fi limitată de ceață.",
+                "en": "Visibility on the serpentines may be limited by mist."
+              }
+            },
+            {
+              "name": "Rochemolles Dam",
+              "tip_5lang": {
+                "de": "Die unbefestigte Straße zum Damm kann bei Regen schlammig sein.",
+                "hu": "A gáthoz vezető burkolatlan út esőben sáros lehet.",
+                "ro": "Drumul neasfaltat către baraj poate fi noroios pe ploaie.",
+                "en": "The unpaved road to the dam can be muddy in the rain."
+              }
+            },
+            {
+              "name": "Monte Fraiteve",
+              "tip_5lang": {
+                "de": "Vorsicht bei Aquaplaning auf den steileren Straßenabschnitten.",
+                "hu": "Vigyázzon a vízenfutásra (aquaplaning) a meredekebb útszakaszokon.",
+                "ro": "Atenție la acvaplanare pe porțiunile de drum mai abrupte.",
+                "en": "Watch out for aquaplaning on steeper road sections."
+              }
+            },
+            {
+              "name": "Sestriere Obelisk",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz laufen, um die Scheiben beschlagfrei zu halten.",
+                "hu": "Járassa kicsit a motort, hogy az ablakok ne párásodjanak be.",
+                "ro": "Lăsați motorul pornit puțin pentru a menține parbrizul dezghețat.",
+                "en": "Keep the engine running briefly to keep the windows clear of fog."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schalten Sie bei Nebel unbedingt die Nebelschlussleuchte ein.",
+              "Achten Sie auf Steinschlag, der bei starkem Regen häufiger vorkommen kann.",
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Bergfahrt.",
+              "In Sestriere gibt es ausreichend überdachte Parkmöglichkeiten.",
+              "Die Straßen können in höheren Lagen bei Regen sehr rutschig werden."
+            ],
+            "hu": [
+              "Köd esetén feltétlenül kapcsolja be a hátsó ködlámpát.",
+              "Ügyeljen a kőomlásokra, amelyek heves esőzéskor gyakoribbak lehetnek.",
+              "A hegyi út előtt ellenőrizze az ablaktörlők állapotát.",
+              "Sestriere-ben bőségesen találhatók fedett parkolási lehetőségek.",
+              "A hegyi utak magasabb szakaszai esőben nagyon csúszóssá válhatnak."
+            ],
+            "ro": [
+              "În caz de ceață, activați neapărat lampa de ceață spate.",
+              "Atenție la căderile de pietre, care pot fi mai frecvente în timpul ploilor abundente.",
+              "Verificați starea ștergătoarelor înainte de urcarea pe munte.",
+              "În Sestriere există suficiente locuri de parcare acoperite.",
+              "Drumurile pot deveni foarte alunecoase la altitudini mari pe ploaie."
+            ],
+            "en": [
+              "Make sure to turn on the rear fog light in misty conditions.",
+              "Watch out for rockfalls, which can be more frequent during heavy rain.",
+              "Check the condition of your wipers before driving up the mountain.",
+              "There are plenty of covered parking options in Sestriere.",
+              "Roads can become very slippery at higher altitudes in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt mit dem Freikratzen der Scheiben am Olympischen Dorf. Die Fahrt zur verschneiten Kirche Saint Edward ist mittags ein malerisches Erlebnis, gefolgt vom Trubel am Kandahar Banchetta. Am Nachmittag bietet die Auffahrt zum Monte Fraiteve spektakuläre Ausblicke auf die Skipisten. Der Tag endet am beleuchteten Obelisk, während der Schnee unter den Reifen knirscht.",
+            "hu": "A téli reggel az ablakok jégmentesítésével indul az Olimpiai Falunál. A havas Szent Eduárd-templomhoz vezető út délben festői élmény, amelyet a Kandahar Banchetta nyüzsgése követ. Délután a Monte Fraiteve felé vezető út látványos kilátást nyújt a sípályákra. A nap a kivilágított obeliszknél zárul, miközben a hó ropog a kerekek alatt.",
+            "ro": "Dimineața de iarnă începe cu curățarea parbrizului la Satul Olimpic. Drumul către biserica înzăpezită Sfântul Eduard este o experiență pitorească la prânz, urmată de agitația de la Kandahar Banchetta. După-amiaza, urcarea spre Monte Fraiteve oferă vederi spectaculoase asupra pârtiilor de schi. Ziua se încheie la obeliscul iluminat, în timp ce zăpada scârțâie sub roți.",
+            "en": "The winter morning starts with scraping ice off the windows at the Olympic Village. The drive to the snowy Church of Saint Edward at noon is a picturesque experience, followed by the bustle at Kandahar Banchetta. In the afternoon, the drive up to Monte Fraiteve offers spectacular views of the ski slopes. The day ends at the illuminated obelisk, as the snow crunches under the tires."
+          },
+          "stops": [
+            {
+              "name": "Olympic Village",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Wischwasser genug Frostschutz enthält.",
+                "hu": "Győződjön meg róla, hogy a szélvédőmosó elég fagyállót tartalmaz.",
+                "ro": "Asigurați-vă că lichidul de parbriz conține suficient antigel.",
+                "en": "Ensure your windshield washer fluid has enough antifreeze."
+              }
+            },
+            {
+              "name": "Church of Saint Edward",
+              "tip_5lang": {
+                "de": "Nutzen Sie nur ausgewiesene Parkplätze; Schneehaufen können Hindernisse bergen.",
+                "hu": "Csak a kijelölt parkolókat használja; a hókupacok akadályokat rejthetnek.",
+                "ro": "Folosiți doar parcările desemnate; mormanele de zăpadă pot ascunde obstacole.",
+                "en": "Use only designated parking spots; snow piles can hide obstacles."
+              }
+            },
+            {
+              "name": "Kandahar Banchetta",
+              "tip_5lang": {
+                "de": "Winterreifen oder Schneeketten sind hier absolut obligatorisch.",
+                "hu": "A téli gumi vagy a hólánc itt abszolút kötelező.",
+                "ro": "Anvelopele de iarnă sau lanțurile sunt absolut obligatorii aici.",
+                "en": "Winter tires or snow chains are absolutely mandatory here."
+              }
+            },
+            {
+              "name": "Rochemolles Dam",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Straßensperrungen; dieser Weg ist oft im Winter gesperrt.",
+                "hu": "Ellenőrizze az útlezárásokat; ez az út télen gyakran le van zárva.",
+                "ro": "Verificați închiderile de drumuri; acest drum este adesea închis iarna.",
+                "en": "Check road closures; this road is often closed in winter."
+              }
+            },
+            {
+              "name": "Monte Fraiteve",
+              "tip_5lang": {
+                "de": "Fahren Sie niedertourig, um das Durchdrehen der Reifen im Schnee zu vermeiden.",
+                "hu": "Vezessen alacsony fordulatszámon, hogy elkerülje a kerekek kipörgését a hóban.",
+                "ro": "Conduceți la turații joase pentru a evita patinarea roților în zăpadă.",
+                "en": "Drive at low RPM to avoid wheel spin in the snow."
+              }
+            },
+            {
+              "name": "Sestriere Obelisk",
+              "tip_5lang": {
+                "de": "Achten Sie beim Einparken auf vereiste Ränder am Straßenrand.",
+                "hu": "Parkoláskor ügyeljen az út szélén lévő jeges peremekre.",
+                "ro": "Atenție la marginile înghețate de pe marginea drumului când parcați.",
+                "en": "Watch out for icy edges on the roadside when parking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer eine Schaufel und einen Eiskratzer im Auto mit.",
+              "Die Passstraßen können bei starkem Schneefall kurzfristig gesperrt werden.",
+              "Halten Sie den Tank immer mindestens halb voll (Sicherheit in den Bergen).",
+              "Vermeiden Sie abruptes Bremsen auf verschneiten Gefällestrecken.",
+              "Die Sonne geht um 16:45 Uhr unter; Abblendlicht bereits früher einschalten."
+            ],
+            "hu": [
+              "Mindig tartson lapátot és jégkaparót az autóban.",
+              "A hágók erős havazás esetén rövid időn belül lezárásra kerülhetnek.",
+              "Tartsa az üzemanyagtartályt legalább félig tele (biztonság a hegyekben).",
+              "Kerülje a hirtelen fékezést a havas lejtőkön.",
+              "A nap 16:45-kor nyugszik; a tompított fényszórót már korábban kapcsolja be."
+            ],
+            "ro": [
+              "Țineți întotdeauna o lopată și o racletă în mașină.",
+              "Pasurile montane pot fi închise pe termen scurt în caz de ninsoare abundentă.",
+              "Păstrați rezervorul de combustibil cel puțin pe jumătate plin (siguranță în munți).",
+              "Evitați frânarea bruscă pe pantele înzăpezite.",
+              "Soarele apune la 16:45; aprindeți faza scurtă mai devreme."
+            ],
+            "en": [
+              "Always carry a shovel and an ice scraper in the car.",
+              "Mountain passes can be closed at short notice during heavy snowfall.",
+              "Always keep the tank at least half full (safety in the mountains).",
+              "Avoid abrupt braking on snowy downhill sections.",
+              "The sun sets at 16:45; turn on dipped headlights earlier."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -962,6 +2074,334 @@
           "Check the time for the last gondola ride down.",
           "Bus stops are heated during the winter season."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Ortsbusse und Seilbahnen von Sestriere. Beginnen Sie beim Olympischen Dorf und fahren Sie mit der Gondel hoch in das Via Lattea Gebiet. Nach dem Mittagessen besuchen Sie den Golfplatz per Shuttle und kehren zum Hauptplatz zurück, um das alpine Dorfleben zu beobachten.",
+            "hu": "Használjuk Sestriere helyi buszait és felvonóit. Kezdjünk az Olimpiai Faluban, majd utazzunk fel a felvonóval a Via Lattea területére. Ebéd után a shuttle járattal keressük fel a golfpályát, végül térjünk vissza a főtérre, hogy belekóstoljunk az alpesi falu életébe.",
+            "ro": "Folosiți autobuzele locale și telecabinele din Sestriere. Începeți la Satul Olimpic și urcați cu gondola în zona Via Lattea. După prânz, vizitați terenul de golf cu ajutorul shuttle-ului și reveniți în piața principală pentru a observa viața stațiunii.",
+            "en": "Make use of Sestriere's local buses and cable cars. Start at the Olympic Village and take the gondola up into the Via Lattea ski area. After lunch, visit the golf course via shuttle and return to the main square to observe the alpine resort life."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villaggio Olimpico",
+                "hu": "Olimpiai Falu",
+                "ro": "Satul Olimpic",
+                "en": "Olympic Village"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt der Skibusse.",
+                "hu": "A síbuszok központi csomópontja.",
+                "ro": "Nod central pentru autobuzele de schi.",
+                "en": "Central hub for the local ski buses."
+              }
+            },
+            {
+              "name": {
+                "de": "Via Lattea Gondola",
+                "hu": "Via Lattea felvonó",
+                "ro": "Telegondola Via Lattea",
+                "en": "Via Lattea Gondola"
+              },
+              "tip_5lang": {
+                "de": "Fahrt auf den Berg mit öffentlicher Seilbahn.",
+                "hu": "Utazás a hegyre a közösségi felvonóval.",
+                "ro": "Urcare pe munte cu telecabina publică.",
+                "en": "Mountain ascent via the public gondola."
+              }
+            },
+            {
+              "name": {
+                "de": "Golf Club Sestriere",
+                "hu": "Golfklub",
+                "ro": "Club de Golf",
+                "en": "Golf Club"
+              },
+              "tip_5lang": {
+                "de": "Vom Zentrum mit dem Shuttle erreichbar.",
+                "hu": "Shuttle járattal elérhető a központból.",
+                "ro": "Accesibil cu shuttle-ul din centru.",
+                "en": "Accessible via shuttle from the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Sestriere Piazza",
+                "hu": "Sestriere főtér",
+                "ro": "Piața Sestriere",
+                "en": "Sestriere Square"
+              },
+              "tip_5lang": {
+                "de": "Gemütlicher Ausklang in einem Café.",
+                "hu": "Kellemes napzárás egy kávézóban.",
+                "ro": "Încheiere relaxantă la o cafenea.",
+                "en": "Cozy ending to the day in a cafe."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Agnolotti del Plin",
+                "tip": "Kleine gefüllte Teigtaschen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Agnolotti del Plin",
+                "tip": "Apró töltött tésztatáskák."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Agnolotti del Plin",
+                "tip": "Paste mici umplute tradiționale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Agnolotti del Plin",
+                "tip": "Small traditional pinched pasta pockets."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Piazza Fraiteve",
+                "tip": "Sonnige Terrasse.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Piazza Fraiteve",
+                "tip": "Napsütötte terasz.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piazza Fraiteve",
+                "tip": "Terasă însorită.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Piazza Fraiteve",
+                "tip": "Sunny terrace spot.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Artigianato Alpino",
+                "tip": "Holzschnitzereien und lokale Wolle."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Artigianato Alpino",
+                "tip": "Fafaragványok és helyi gyapjútermékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Artigianato Alpino",
+                "tip": "Sculpturi în lemn și lână locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Artigianato Alpino",
+                "tip": "Wood carvings and local wool products."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie den Skipass/Liftticket vorab online.",
+              "Der Skibus verkehrt im 20-Minuten-Takt.",
+              "Achten Sie auf die letzte Talfahrt der Seilbahn.",
+              "Die Bushaltestellen sind im Winter beheizt."
+            ],
+            "hu": [
+              "Vedd meg a jegyet a felvonóra előre online.",
+              "A síbusz 20 percenként közlekedik.",
+              "Figyelj a felvonó utolsó völgymenetére.",
+              "A buszmegállók télen fűtöttek."
+            ],
+            "ro": [
+              "Cumpărați biletul pentru telecabină online în avans.",
+              "Autobuzul de schi circulă la fiecare 20 de minute.",
+              "Atenție la ora ultimei coborâri cu telecabina.",
+              "Stațiile de autobuz sunt încălzite iarna."
+            ],
+            "en": [
+              "Buy your lift tickets online in advance.",
+              "The ski bus runs every 20 minutes.",
+              "Check the time for the last gondola ride down.",
+              "Bus stops are heated during the winter season."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt bequem mit dem Bus am Olympischen Dorf. Mittags bietet die Via Lattea Gondel eine trockene und aussichtsreiche Fahrt über die nassen Hänge. Der Nachmittag am Golfclub ist ruhig, bevor man mit dem Transit zum Sestriere Square fährt. Der Tag endet geschützt in den Cafés rund um den Platz, während man den Regen draußen beobachtet.",
+            "hu": "A nap kényelmesen, busszal indul az Olimpiai Falutól. Délben a Via Lattea gondola száraz és látványos utazást kínál a nedves lankák felett. A délután a Golfklubnál csendes, mielőtt a tömegközlekedéssel a Sestriere térre indulnánk. A nap a tér körüli kávézók védelmében zárul, miközben az ablakon túli esőt figyeljük.",
+            "ro": "Ziua începe confortabil cu autobuzul la Satul Olimpic. La prânz, gondola Via Lattea oferă o călătorie uscată și pitorească deasupra pantelor ude. După-amiaza la Clubul de Golf este liniștită, înainte de a merge cu transportul public spre Piața Sestriere. Ziua se încheie la adăpost în cafenelele din jurul pieței, urmărind ploaia de afară.",
+            "en": "The day starts comfortably by bus at the Olympic Village. At noon, the Via Lattea gondola offers a dry and scenic ride over the wet slopes. The afternoon at the Golf Club is quiet before taking transit to Sestriere Square. The day ends sheltered in the cafes around the square while watching the rain outside."
+          },
+          "stops": [
+            {
+              "name": "Olympic Village",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle befindet sich direkt vor dem Haupteingang.",
+                "hu": "A buszmegálló közvetlenül a főbejárat előtt található.",
+                "ro": "Stația de autobuz se află chiar în fața intrării principale.",
+                "en": "The bus stop is located directly in front of the main entrance."
+              }
+            },
+            {
+              "name": "Via Lattea Gondola",
+              "tip_5lang": {
+                "de": "In der Kabine bleiben Sie trocken und haben eine tolle Aussicht.",
+                "hu": "A kabinban száraz marad és nagyszerű kilátásban lesz része.",
+                "ro": "În cabină rămâneți uscat și aveți o priveliște minunată.",
+                "en": "In the cabin, you'll stay dry and have a great view."
+              }
+            },
+            {
+              "name": "Golf Club",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der Haltestelle bis zum Clubhaus.",
+                "hu": "Csak rövid séta a megállótól a klubházig.",
+                "ro": "Doar o scurtă plimbare de la stație până la club.",
+                "en": "Only a short walk from the stop to the clubhouse."
+              }
+            },
+            {
+              "name": "Sestriere Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Arkaden rund um den Platz.",
+                "hu": "Használja a tér körüli fedett árkádokat.",
+                "ro": "Folosiți arcadele acoperite din jurul pieței.",
+                "en": "Use the covered arcades around the square."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan bei Regen, da es zu leichten Verzögerungen kommen kann.",
+              "Halten Sie Ihr Ticket trocken, besonders wenn es aus Papier ist.",
+              "Die Gondeln können bei starkem Wind den Betrieb einstellen.",
+              "Überdachte Wartebereiche sind an den Hauptstationen vorhanden.",
+              "Nutzen Sie die App für Echtzeit-Infos zu den Busankünften."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet esőben, mert kisebb késések fordulhatnak elő.",
+              "Tartsa szárazon a jegyét, különösen ha papír alapú.",
+              "A gondolák erős szél esetén leállhatnak.",
+              "A főbb állomásokon fedett várakozóhelyek állnak rendelkezésre.",
+              "Használja az alkalmazást a buszok érkezésével kapcsolatos valós idejű információkhoz."
+            ],
+            "ro": [
+              "Verificați orarul pe timp de ploaie, deoarece pot apărea mici întârzieri.",
+              "Păstrați biletul uscat, mai ales dacă este din hârtie.",
+              "Gondolele se pot opri în caz de vânt puternic.",
+              "Zonele de așteptare acoperite sunt disponibile la stațiile principale.",
+              "Folosiți aplicația pentru informații în timp real despre sosirea autobuzelor."
+            ],
+            "en": [
+              "Check the schedule during rain, as minor delays may occur.",
+              "Keep your ticket dry, especially if it is paper-based.",
+              "Gondolas may stop operating in case of strong winds.",
+              "Covered waiting areas are available at the main stations.",
+              "Use the app for real-time info on bus arrivals."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein gemütlicher Winterstart am Olympischen Dorf, während man auf den Skibus wartet. Mittags bietet die Fahrt mit der Gondel einen spektakulären Blick auf die Skifahrer der Via Lattea. Der Nachmittag am Golfclub zeigt eine perfekte Winterlandschaft, gefolgt von einer Fahrt zum beleuchteten Sestriere Square. Der Tag endet im Zentrum, wo die Skifahrer nach dem Tag auf der Piste zusammenkommen.",
+            "hu": "Hangulatos téli kezdés az Olimpiai Falunál, miközben a síbuszra várunk. Délben a gondolázás látványos kilátást nyújt a Via Lattea síelőire. A délután a Golfklubnál tökéletes téli tájat mutat, majd irány a kivilágított Sestriere tér. A nap a központban zárul, ahol a síelők összegyűlnek a pályán töltött nap után.",
+            "ro": "Un început de iarnă plăcut la Satul Olimpic în așteptarea autobuzului de schi. La prânz, călătoria cu gondola oferă o vedere spectaculoasă asupra schiorilor de pe Via Lattea. După-amiaza la Clubul de Golf arată un peisaj de iarnă perfect, urmat de o călătorie spre Piața Sestriere iluminată. Ziua se încheie în centru, unde schiorii se adună după o zi pe pârtie.",
+            "en": "A cozy winter start at the Olympic Village while waiting for the ski bus. At noon, the gondola ride offers a spectacular view of the Via Lattea skiers. The afternoon at the Golf Club shows a perfect winter landscape, followed by a trip to the illuminated Sestriere Square. The day ends in the center, where skiers gather after a day on the slopes."
+          },
+          "stops": [
+            {
+              "name": "Olympic Village",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schuhe; der Wartebereich kann zugig sein.",
+                "hu": "Viseljen meleg cipőt; a várakozóhely huzatos lehet.",
+                "ro": "Purtați încălțăminte călduroasă; zona de așteptare poate fi expusă curentului.",
+                "en": "Wear warm shoes; the waiting area can be drafty."
+              }
+            },
+            {
+              "name": "Via Lattea Gondola",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneiten Gipfel aus der warmen Kabine.",
+                "hu": "Élvezze a havas csúcsokra nyíló kilátást a meleg kabinból.",
+                "ro": "Bucurați-vă de vederea vârfurilor înzăpezite din cabina caldă.",
+                "en": "Enjoy the view of the snowy peaks from the warm cabin."
+              }
+            },
+            {
+              "name": "Golf Club",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis an der Haltestelle.",
+                "hu": "Ügyeljen a jegesedésre a megállóban.",
+                "ro": "Atenție la polei în stație.",
+                "en": "Watch out for black ice at the bus stop."
+              }
+            },
+            {
+              "name": "Sestriere Square",
+              "tip_5lang": {
+                "de": "Der Platz ist am Abend besonders festlich beleuchtet.",
+                "hu": "A tér este különösen díszes kivilágítást kap.",
+                "ro": "Piața este iluminată deosebit de festiv seara.",
+                "en": "The square is especially festively lit in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Skibusse verkehren im Winter sehr häufig; nutzen Sie diese statt des Autos.",
+              "Planen Sie mehr Zeit für den Einstieg ein, wenn viele Skifahrer unterwegs sind.",
+              "Die Sonne geht gegen 16:45 Uhr unter; es wird schnell sehr kalt.",
+              "Buseingänge können durch Schnee und Eis rutschig sein.",
+              "Abends sind die Busse oft sehr voll mit Après-Schi-Gästen."
+            ],
+            "hu": [
+              "A síbuszok télen nagyon gyakran közlekednek; használja ezeket autó helyett.",
+              "Számoljon több idővel a felszállásnál, ha sok síelő várakozik.",
+              "A nap 16:45 körül nyugszik; utána gyorsan lehűl a levegő.",
+              "A buszok belépője a hótól és jégtől csúszós lehet.",
+              "Este a buszok gyakran tömve vannak az Après-Ski vendégekkel."
+            ],
+            "ro": [
+              "Autobuzele de schi circulă foarte frecvent iarna; folosiți-le în locul mașinii.",
+              "Planificați mai mult timp pentru îmbarcare când sunt mulți schiori.",
+              "Soarele apune în jur de 16:45; se face foarte frig rapid după aceea.",
+              "Intrările în autobuz pot fi alunecoase din cauza zăpezii și gheții.",
+              "Seara, autobuzele sunt adesea pline de oaspeți de la Après-Ski."
+            ],
+            "en": [
+              "Ski buses run very frequently in winter; use them instead of a car.",
+              "Allow more time for boarding when many skiers are around.",
+              "The sun sets around 16:45; it gets very cold quickly after that.",
+              "Bus entrances can be slippery due to snow and ice.",
+              "In the evening, buses are often crowded with Après-ski guests."
+            ]
+          }
+        }
       }
     }
   }

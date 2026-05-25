@@ -343,6 +343,482 @@
           "Visit the bell tower early in the morning for the best light.",
           "Bring swimwear for a quick dip in the sea by the Riva."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen in der Altstadt von Vrsar, indem Sie durch das historische Stadttor schreiten und die majestätische St. Martin Kirche besuchen. Das Panorama vom Glockenturm bietet den besten Überblick über das Archipel.\n\nMittags erkunden Sie die Gassen rund um das Schloss und den Casanova-Aussichtspunkt, wo der berühmte Verführer einst verweilte. Genießen Sie die romantische Atmosphäre in den schattigen Winkeln.\n\nDer Nachmittag gehört der Riva. Schlendern Sie entlang der Fischerboote zur romanischen Marienkirche, einem Juwel direkt am Wasser. Hier spürt man die maritime Seele Istriens.\n\nZum Abschluss wandern Sie zum Montraker-Steinbruch. Die Verbindung aus Industriegeschichte und moderner Kunst im Sonnenuntergang bildet einen unvergesslichen Abschluss Ihres Tages.",
+            "hu": "Kezdje a reggelt Vrsar óvárosában, a történelmi városkapun át belépve a Szent Márton-templomhoz. A harangtoronyból nyíló panoráma a legjobb rálátást nyújtja a szigetvilágra.\n\nDélben fedezze fel a kastély körüli sikátorokat és a Casanova-kilátót, ahol a híres csábító egykor megszállt. Élvezze a romantikus hangulatot az árnyas kis utcákban.\n\nA délután a Riva sétányé. Sétáljon a halászhajók mentén a román stílusú Mária-templomhoz, amely közvetlenül a vízparton fekszik. Itt érezhető Isztria tengeri lelke.\n\nBefejezésül látogasson el a Montraker kőfejtőhöz. Az ipari történelem és a modern művészet találkozása a naplementében felejthetetlen zárása lesz a napnak.",
+            "ro": "Începeți dimineața în centrul vechi din Vrsar, intrând prin poarta istorică spre Biserica Sf. Martin. Panorama din turnul clopotniță oferă cea mai bună vedere asupra arhipelagului.\n\nLa prânz, explorați aleile din jurul castelului și punctul de belvedere Casanova, unde celebrul seducător a poposit odinioară. Bucurați-vă de atmosfera romantică în colțurile umbrite.\n\nDupă-amiaza aparține promenadei Riva. Plimbați-vă printre bărcile de pescuit până la biserica romanică Sf. Maria, o bijuterie chiar pe malul apei. Aici se simte sufletul maritim al Istriei.\n\nLa final, mergeți spre cariera Montraker. Combinația dintre istoria industrială și arta modernă sub lumina apusului formează o încheiere memorabilă a zilei.",
+            "en": "Start your morning in Vrsar's old town, passing through the historic gate to reach St. Martin's Church. The panorama from the bell tower offers the best view of the archipelago.\n\nAt midday, explore the alleys around the castle and the Casanova viewpoint, where the famous seducer once stayed. Enjoy the romantic atmosphere in the shaded corners.\n\nSpend the afternoon on the Riva promenade. Stroll past fishing boats to the Romanesque St. Mary's Church, a jewel right on the waterfront. Here you can feel the maritime soul of Istria.\n\nFinally, hike to the Montraker quarry. The blend of industrial history and modern art during sunset provides an unforgettable conclusion to your day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Großes Stadttor",
+                "hu": "Nagy Városkapu",
+                "ro": "Poarta Mare a Orașului",
+                "en": "Great City Gate"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das Löwenrelief.",
+                "hu": "Keresse az oroszlános domborművet.",
+                "ro": "Căutați relieful cu leul venețian.",
+                "en": "Look for the Venetian lion relief."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfarrkirche des Heiligen Martin",
+                "hu": "Szent Márton plébániatemplom",
+                "ro": "Biserica Sfântul Martin",
+                "en": "Parish Church of St. Martin"
+              },
+              "tip_5lang": {
+                "de": "Besteigen Sie den Glockenturm.",
+                "hu": "Másszon fel a harangtoronyba.",
+                "ro": "Urcați în turnul clopotniță.",
+                "en": "Climb the bell tower for views."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Vrsar",
+                "hu": "Vrsari kastély",
+                "ro": "Castelul Vrsar",
+                "en": "Vrsar Castle"
+              },
+              "tip_5lang": {
+                "de": "Ehemalige Bischofsresidenz.",
+                "hu": "Az egykori püspöki rezidencia.",
+                "ro": "Fosta rezidență episcopală.",
+                "en": "Former summer residence of bishops."
+              }
+            },
+            {
+              "name": {
+                "de": "Casanova-Aussichtspunkt",
+                "hu": "Casanova-kilátópont",
+                "ro": "Punctul de belvedere Casanova",
+                "en": "Casanova Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für ein Urlaubsfoto.",
+                "hu": "Tökéletes hely egy fotóhoz.",
+                "ro": "Locul ideal pentru fotografii.",
+                "en": "Perfect spot for a vacation photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Uferpromenade Riva",
+                "hu": "Riva tengerparti sétány",
+                "ro": "Promenada Riva",
+                "en": "Riva Promenade"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie frische Meeresfrüchte.",
+                "hu": "Kóstolja meg a friss tenger gyümölcseit.",
+                "ro": "Savurați fructe de mare proaspete.",
+                "en": "Enjoy fresh seafood here."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche der Heiligen Maria vom Meer",
+                "hu": "Tengeri Szent Mária-templom",
+                "ro": "Biserica Sfânta Maria a Mării",
+                "en": "Church of St. Mary of the Sea"
+              },
+              "tip_5lang": {
+                "de": "Wichtige romanische Architektur.",
+                "hu": "Fontos román stílusú épület.",
+                "ro": "Arhitectură romanică importantă.",
+                "en": "Important Romanesque architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Römischer Steinbruch Montraker",
+                "hu": "Római kori Montraker kőfejtő",
+                "ro": "Cariera romană Montraker",
+                "en": "Roman Quarry Montraker"
+              },
+              "tip_5lang": {
+                "de": "Ort der Bildhauerschule.",
+                "hu": "A szobrásziskola helyszíne.",
+                "ro": "Locul școlii de sculptură.",
+                "en": "Site of the summer sculpture school."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Trošt",
+                "tip": "Probieren Sie die hausgemachte Pasta mit Trüffeln direkt am Hafen."
+              },
+              {
+                "name": "Fisch am Rost",
+                "tip": "Frisch gefangene Sardinen sind eine lokale Spezialität."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba Trošt",
+                "tip": "Kóstolja meg a házi tésztát szarvasgombával közvetlenül a kikötőben."
+              },
+              {
+                "name": "Sült hal",
+                "tip": "A frissen fogott szardínia helyi specialitás."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Trošt",
+                "tip": "Încercați pastele de casă cu trufe chiar în port."
+              },
+              {
+                "name": "Pește la grătar",
+                "tip": "Sardinele proaspăt prinse sunt o specialitate locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Trošt",
+                "tip": "Try the homemade pasta with truffles right in the harbor."
+              },
+              {
+                "name": "Grilled Fish",
+                "tip": "Freshly caught sardines are a local specialty."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Casanova Aussichtspunkt",
+                "tip": "Ruhiger Blick auf den Sonnenuntergang.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Montraker Klippen",
+                "tip": "Einsame Plätze zum Nachdenken.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Casanova-kilátó",
+                "tip": "Csendes panoráma a naplementére.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Montraker sziklák",
+                "tip": "Magányos helyek az elmélkedéshez.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Belvedere Casanova",
+                "tip": "Vedere liniștită spre apus.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Stâncile Montraker",
+                "tip": "Locuri izolate pentru relaxare.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Casanova Viewpoint",
+                "tip": "Quiet view of the sunset.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Montraker Cliffs",
+                "tip": "Lonely spots for reflection.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Honig",
+                "tip": "Kaufen Sie Salbeihonig direkt beim Erzeuger."
+              },
+              {
+                "name": "Olivenöl",
+                "tip": "Natives Öl aus den Hainen von Vrsar."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi méz",
+                "tip": "Vásároljon zsályamézet közvetlenül a termelőtől."
+              },
+              {
+                "name": "Olívaolaj",
+                "tip": "Vrsari ligetekből származó szűz olaj."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere locală",
+                "tip": "Cumpărați miere de salvie direct de la producători."
+              },
+              {
+                "name": "Ulei de măsline",
+                "tip": "Ulei virgin din livezile din Vrsar."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Honey",
+                "tip": "Buy sage honey directly from producers."
+              },
+              {
+                "name": "Olive Oil",
+                "tip": "Virgin oil from the groves of Vrsar."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Vrsar ist sehr hügelig, tragen Sie bequeme Schuhe.",
+              "Die Parkplätze am Hafen sind im Sommer schnell belegt.",
+              "Besuchen Sie den Glockenturm früh am Morgen.",
+              "Nehmen Sie Badekleidung für einen Sprung ins Meer an der Riva mit."
+            ],
+            "hu": [
+              "Vrsar nagyon dombos, viseljen kényelmes cipőt.",
+              "A kikötői parkolók nyáron gyorsan betelnek.",
+              "Látogassa meg a harangtornyot kora reggel.",
+              "Vigyen fürdőruhát egy csobbanáshoz a Riva melletti strandon."
+            ],
+            "ro": [
+              "Vrsar este deluros, purtați încălțăminte confortabilă.",
+              "Parcările din port se ocupă rapid pe timpul verii.",
+              "Vizitați turnul clopotniță dimineața devreme.",
+              "Luați costumul de baie pentru o săritură în mare la Riva."
+            ],
+            "en": [
+              "Vrsar is very hilly, wear comfortable walking shoes.",
+              "Harbor parking fills up quickly during summer.",
+              "Visit the bell tower early in the morning for the best light.",
+              "Bring swimwear for a quick dip in the sea by the Riva."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Stadttor, wo die dicken Mauern ersten Schutz vor dem Adriaregen bieten. In der St.-Martins-Kirche finden Sie Ruhe, während die Tropfen gegen die Fenster schlagen. Mittags erkunden Sie die Gänge der Burg, die auch bei trübem Wetter ihre stolze Geschichte erzählt. Ein kurzer Sprint bringt Sie zum Casanova-Aussichtspunkt für dramatische Wolkenbilder. Am Nachmittag führt der Weg hinunter zur Riva, wo das graue Meer gegen die Kaimauer peitscht. Die St.-Maria-Kirche bietet eine letzte trockene Zuflucht vor dem Steinbruch. Abends glänzen die nassen Steine von Montraker im fahlen Licht, was den Skulpturen eine mystische Aura verleiht. Ein Tag voller Melancholie und Geborgenheit.",
+            "hu": "A nap a városkapunál indul, ahol a vastag falak menedéket nyújtanak az adriai eső elől. A Szent Márton-templomban csendre lelhet, miközben az ablakokon kopog a víz. Délben a várkastély folyosóin barangolhat, amely borús időben is méltóságteljes. Egy gyors séta a Casanova-kilátóhoz drámai felhőket és viharos tengeri panorámát ígér. Délután a kikötői sétány felé veszi az irányt, ahol a szürke tenger morajlik. A tengerparti Szent Mária-templom nyújt utolsó száraz menedéket a kőfejtő előtt. Este a Montraker kőfejtő vizes sziklái csillognak a lámpafényben, misztikus hangulatot árasztva. A napot egy hangulatos helyi borozóban érdemes zárni.",
+            "ro": "Ziua începe la poarta orașului, unde zidurile groase oferă adăpost împotriva ploii adriatice. În biserica Sf. Martin găsiți liniște în timp ce picăturile bat în geam. La prânz explorați coridoarele castelului, care își spune povestea mândră chiar și pe vreme mohorâtă. O scurtă plimbare la punctul de belvedere Casanova oferă imagini dramatice cu nori. După-amiaza drumul coboară spre Riva, unde marea cenușie se lovește de dig. Biserica Sf. Maria de pe mare oferă un ultim refugiu uscat înainte de carieră. Seara, pietrele umede de la Montraker strălucesc în lumina slabă, oferind sculpturilor o aură mistică. O zi plină de melancolie și siguranță.",
+            "en": "The day starts at the city gate, where thick walls provide the first shelter from the Adriatic rain. Inside St. Martin's Church, find peace while drops tap against the glass. At noon, explore the castle's corridors, telling a proud history even in gloomy weather. A quick dash to the Casanova viewpoint offers dramatic cloud formations over the sea. In the afternoon, head down to the Riva promenade where the grey sea crashes against the pier. St. Mary's Church provides a final dry sanctuary before the quarry. In the evening, the wet stones of Montraker glisten in the dim light, giving the sculptures a mystical aura. A day of melancholy and cozy indoor escapes."
+          },
+          "stops": [
+            {
+              "name": "Great City Gate",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Torbogen als ersten trockenen Sammelpunkt.",
+                "hu": "Használja a boltívet száraz gyülekezőhelyként az induláskor.",
+                "ro": "Folosiți arcada porții ca prim punct de întâlnire uscat.",
+                "en": "Use the archway as a dry gathering point before starting."
+              }
+            },
+            {
+              "name": "Parish Church of St. Martin",
+              "tip_5lang": {
+                "de": "Perfekt für eine längere Pause im trockenen Innenraum.",
+                "hu": "Tökéletes hely egy hosszabb pihenőre a száraz belső térben.",
+                "ro": "Perfect pentru o pauză prelungită în interiorul uscat.",
+                "en": "Perfect for an extended break in the dry interior."
+              }
+            },
+            {
+              "name": "Vrsar Castle",
+              "tip_5lang": {
+                "de": "Die massiven Mauern halten den Wind und Regen effektiv ab.",
+                "hu": "A masszív falak hatékonyan távol tartják a szelet és az esőt.",
+                "ro": "Zidurile masive țin la distanță vântul și ploaia.",
+                "en": "The massive walls effectively block out the wind and rain."
+              }
+            },
+            {
+              "name": "Casanova Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Steinplatten am Aussichtspunkt.",
+                "hu": "Vigyázat, a kilátónál a kőlapok esőben csúszósak lehetnek.",
+                "ro": "Atenție la plăcile de piatră alunecoase de la punctul de observație.",
+                "en": "Be careful on the slippery stone slabs at the viewpoint."
+              }
+            },
+            {
+              "name": "Riva Promenade",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Markisen der Cafés am Hafen.",
+                "hu": "Keressen menedéket a kikötői kávézók napellenzői alatt.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor din port.",
+                "en": "Seek shelter under the awnings of the harbor cafes."
+              }
+            },
+            {
+              "name": "Church of St. Mary of the Sea",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den heftigsten Regenguss abzuwarten.",
+                "hu": "Csendes hely a leghevesebb záporok kivárására.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea ploii torențiale.",
+                "en": "A quiet place to wait out the heaviest downpours."
+              }
+            },
+            {
+              "name": "Roman Quarry Montraker",
+              "tip_5lang": {
+                "de": "Die nassen Skulpturen wirken bei Regen besonders plastisch.",
+                "hu": "A vizes szobrok esőben különösen látványosak és részletesek.",
+                "ro": "Sculpturile umede par deosebit de plastice în ploaie.",
+                "en": "The wet sculptures look particularly vivid in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil, da das Kopfsteinpflaster rutschig wird.",
+              "Kombinieren Sie Außenstopps mit Besuchen in den Kirchen für trockene Pausen.",
+              "Ein Taschenschirm ist bei den engen Gassen praktischer als ein Stockschirm.",
+              "Die Cafés an der Riva haben oft transparente Windschutzwände.",
+              "Prüfen Sie die Öffnungszeiten der Burg, da diese bei Unwetter variieren können."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt, mert a macskakövek nagyon csúsznak.",
+              "Kombinálja a kültéri látnivalókat a templomok belső látogatásával.",
+              "A szűk utcákban az összecsukható esernyő praktikusabb.",
+              "A kikötői kávézók többsége szélvédővel felszerelt.",
+              "Ellenőrizze a vár nyitvatartását, vihar esetén változhat."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu talpă aderentă, pavajul devine foarte alunecos.",
+              "Combinați opririle exterioare cu vizite în biserici pentru pauze uscate.",
+              "O umbrelă de buzunar este mai practică pe străzile înguste.",
+              "Cafenelele de pe Riva au adesea paravane transparente împotriva vântului.",
+              "Verificați programul castelului, acesta poate varia în caz de furtună."
+            ],
+            "en": [
+              "Wear shoes with good grip as the cobblestones become very slippery.",
+              "Alternate outdoor stops with church visits for dry breaks.",
+              "A compact umbrella is more practical in narrow alleys than a large one.",
+              "Cafes on the Riva often have transparent wind protection screens.",
+              "Check the castle's opening hours as they may vary during bad weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Stadttor weckt die Geister. Die klare Luft lässt die Steine der St.-Martins-Kirche in einem besonderen Licht erstrahlen, während kaum Touristen die Ruhe stören. Mittags wärmt die tiefe Sonne die Mauern der Burg. Vom Casanova-Aussichtspunkt blicken Sie über das tiefblaue, ruhige Meer bis zum Horizont, wo die Luft kristallklar ist. Am Nachmittag weht eine kühle Brise an der Riva. Die St.-Maria-Kirche bietet einen Moment der Stille, bevor die Dämmerung den Hafen in sanfte Farben taucht. Bereits um fünf Uhr sinkt die Sonne hinter den Steinbruch Montraker. Ein kurzer Spaziergang durch die Skulpturen beendet den Tag, bevor Sie sich in eine beheizte Konoba zurückziehen.",
+            "hu": "A friss téli reggel a városkapunál felébreszti az érzékeket. A tiszta levegőben a Szent Márton-templom kövei különleges fényben tündökölnek, miközben alig akad turista. Délben az alacsonyan járó nap süti a vár falait. A Casanova-kilátótól a mélykék, nyugodt tenger látványa tárul elénk, a látótávolság ilyenkor a legjobb. Délután hűvös szellő fúj a sétányon. A Szent Mária-templom a nyugalom szigete, mielőtt az alkony puha színekbe öltözteti a kikötőt. Már délután ötkor eltűnik a nap a Montraker kőfejtő mögött. Egy rövid séta a szobrok között zárja a napot, mielőtt egy fűtött konobába húzódna.",
+            "ro": "O dimineață răcoroasă de iarnă la poarta orașului trezește simțurile. Aerul curat face ca pietrele bisericii Sf. Martin să strălucească, în timp ce puțini turiști perturbă liniștea. La prânz, soarele jos încălzește zidurile castelului. De la punctul Casanova, priviți peste marea albastru închis, calmă, unde vizibilitatea este maximă. După-amiaza, o briză rece suflă pe Riva. Biserica Sf. Maria oferă un moment de liniște înainte ca amurgul să îmbrace portul în culori calde. Deja la ora cinci, soarele apune după cariera Montraker. O scurtă plimbare printre sculpturi încheie ziua înainte de a vă retrage într-o tavernă încălzită.",
+            "en": "A crisp winter morning at the city gate awakens the senses. The clear air makes the stones of St. Martin's Church shine in a unique light with few tourists around. At noon, the low sun warms the castle walls. From the Casanova viewpoint, look across the deep blue, calm sea where the air is crystal clear. In the afternoon, a cool breeze blows along the Riva. St. Mary's Church offers a moment of silence before dusk paints the harbor in soft hues. By five o'clock, the sun already sinks behind the Montraker quarry. A short walk through the sculptures ends the day before retreating to a heated konoba."
+          },
+          "stops": [
+            {
+              "name": "Great City Gate",
+              "tip_5lang": {
+                "de": "Die Steinmauern strahlen am Morgen eine angenehme Kühle aus.",
+                "hu": "A kőfalak reggel még ontják magukból a hideget, öltözzön rétegesen.",
+                "ro": "Zidurile de piatră emană o răcoare plăcută dimineața.",
+                "en": "The stone walls radiate a crisp chill in the morning air."
+              }
+            },
+            {
+              "name": "Parish Church of St. Martin",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche für einen Moment windgeschützter Ruhe.",
+                "hu": "Látogassa meg a templomot egy szélvédett, csendes pillanatért.",
+                "ro": "Vizitați biserica pentru un moment de liniște protejat de vânt.",
+                "en": "Visit the church for a moment of wind-sheltered tranquility."
+              }
+            },
+            {
+              "name": "Vrsar Castle",
+              "tip_5lang": {
+                "de": "Sonnige Plätze an den Südmauern sind mittags ideal zum Aufwärmen.",
+                "hu": "A déli falak menti napos helyek ideálisak a felmelegedéshez.",
+                "ro": "Locurile însorite de lângă zidurile de sud sunt ideale pentru încălzire.",
+                "en": "Sunny spots by the south walls are ideal for warming up at noon."
+              }
+            },
+            {
+              "name": "Casanova Viewpoint",
+              "tip_5lang": {
+                "de": "Genießen Sie die beste Fernsicht des Jahres bei klarer Winterluft.",
+                "hu": "Élvezze az év legjobb kilátását a tiszta téli levegőben.",
+                "ro": "Bucurați-vă de cea mai bună vizibilitate a anului în aerul curat.",
+                "en": "Enjoy the best visibility of the year in the clear winter air."
+              }
+            },
+            {
+              "name": "Riva Promenade",
+              "tip_5lang": {
+                "de": "Die Abendsonne spiegelt sich herrlich im ruhigen Hafenbecken.",
+                "hu": "Az esti napfény gyönyörűen tükröződik a nyugodt kikötőben.",
+                "ro": "Soarele de seară se reflectă superb în bazinul calm al portului.",
+                "en": "The evening sun reflects beautifully in the calm harbor basin."
+              }
+            },
+            {
+              "name": "Church of St. Mary of the Sea",
+              "tip_5lang": {
+                "de": "Ein geschützter Ort vor der kühlen Meeresbrise am Nachmittag.",
+                "hu": "Védett hely a délutáni hűvös tengeri szellő elől.",
+                "ro": "Un loc protejat de briza rece a mării de după-amiază.",
+                "en": "A sheltered spot from the cool afternoon sea breeze."
+              }
+            },
+            {
+              "name": "Roman Quarry Montraker",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Steinbruch vor Sonnenuntergang gegen 16:30 Uhr.",
+                "hu": "Látogassa meg a kőfejtőt naplemente előtt, 16:30 körül.",
+                "ro": "Vizitați cariera înainte de apusul soarelui, în jurul orei 16:30.",
+                "en": "Visit the quarry before sunset, around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang findet im Winter bereits gegen 16:30 Uhr statt.",
+              "Tragen Sie winddichte Kleidung, besonders für die Aussichtspunkte.",
+              "Viele Restaurants haben Winterpause; suchen Sie nach lokalen Konobas.",
+              "Die Wintersonne ist intensiv, Sonnenschutz ist auch bei Kälte ratsam.",
+              "Nutzen Sie die menschenleere Altstadt für ungestörte Fotomotive."
+            ],
+            "hu": [
+              "A naplemente télen már 16:30 körül bekövetkezik.",
+              "Viseljen szélálló ruházatot, különösen a kilátópontokon.",
+              "Sok étterem zárva tart; keresse a helyiek által kedvelt konobákat.",
+              "A téli nap erős lehet, a fényvédelem hidegben is ajánlott.",
+              "Használja ki az üres óvárost a zavartalan fotózáshoz."
+            ],
+            "ro": [
+              "Apusul soarelui are loc iarna deja în jurul orei 16:30.",
+              "Purtați haine rezistente la vânt, mai ales pentru punctele de belvedere.",
+              "Multe restaurante sunt închise; căutați tavernele locale (konoba).",
+              "Soarele de iarnă este intens, protecția solară este recomandată.",
+              "Profitarea de orașul vechi pustiu pentru fotografii fără turiști."
+            ],
+            "en": [
+              "Sunset in winter occurs early, around 4:30 PM.",
+              "Wear windproof clothing, especially for the high viewpoints.",
+              "Many tourist restaurants close; look for local konobas that stay open.",
+              "The winter sun is intense; sunscreen is advisable even in the cold.",
+              "Take advantage of the empty old town for undisturbed photography."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -601,6 +1077,394 @@
           "The coastal paths are mostly flat and ideal for families.",
           "Wear sun protection as the sculpture park has little shade."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Radtour am südlichen Ende bei dem beeindruckenden Skulpturenpark von Dušan Džamonja. Die weiten Grünflächen bieten viel Platz zum Erkunden der Kunstwerke.\n\nFahren Sie entlang der Küste zurück zum Montraker-Steinbruch und weiter zur Riva, wo Sie eine wohlverdiente Mittagspause am Meer einlegen können.\n\nAm Nachmittag fordern Sie Ihre Waden mit dem Aufstieg in die Altstadt heraus. Belohnt werden Sie mit den besten Aussichten am Casanova-Punkt und der St. Martin Kirche.\n\nDie Tour endet mit einer gemütlichen Abfahrt durch das Stadttor zurück zum Ausgangspunkt.",
+            "hu": "Indítsa kerékpártúráját a déli szélen, Dušan Džamonja lenyűgöző szoborparkjánál. A tágas zöldfelületek bőséges helyet kínálnak a műalkotások felfedezéséhez.\n\nTekerjen vissza a part mentén a Montraker kőfejtőhöz, majd a Rivához, ahol megérdemelt ebédszünetet tarthat a tengernél.\n\nDélután tegye próbára lábait az óvárosba vezető emelkedővel. A jutalom a Casanova-pontnál és a Szent Márton-templomnál nyíló kilátás lesz.\n\nA túra a városkapun keresztül vezető kényelmes lejtmenettel ér véget.",
+            "ro": "Începeți turul cu bicicleta la extremitatea sudică, la impresionantul parc de sculpturi Dušan Džamonja. Spațiile verzi vaste oferă mult loc pentru explorarea operelor de artă.\n\nPedalați de-a lungul coastei înapoi spre cariera Montraker și apoi spre Riva, unde puteți lua o pauză de prânz binemeritată la malul mării.\n\nDupă-amiaza, provocați-vă picioarele cu urcarea în orașul vechi. Recompensa va fi cea mai bună priveliște de la punctul Casanova și Biserica Sf. Martin.\n\nTurul se încheie cu o coborâre relaxată prin poarta orașului înapoi la punctul de plecare.",
+            "en": "Start your bike tour at the southern end at the impressive Dušan Džamonja Sculpture Park. The vast green spaces provide plenty of room to explore the artworks.\n\nRide back along the coast to the Montraker quarry and then to the Riva, where you can take a well-deserved lunch break by the sea.\n\nIn the afternoon, challenge your legs with the climb into the old town. You will be rewarded with the best views at the Casanova point and St. Martin's Church.\n\nThe tour ends with a pleasant descent through the city gate back to the starting point."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Skulpturenpark Dušan Džamonja",
+                "hu": "Dušan Džamonja szoborpark",
+                "ro": "Parcul de sculpturi Dušan Džamonja",
+                "en": "Dušan Džamonja Sculpture Park"
+              },
+              "tip_5lang": {
+                "de": "Monumentale abstrakte Kunst im Freien.",
+                "hu": "Monumentális absztrakt művészet a szabadban.",
+                "ro": "Artă abstractă monumentală în aer liber.",
+                "en": "Monumental abstract art in the open air."
+              }
+            },
+            {
+              "name": {
+                "de": "Römischer Steinbruch Montraker",
+                "hu": "Montraker kőfejtő",
+                "ro": "Cariera Montraker",
+                "en": "Montraker Quarry"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Schotterwegen.",
+                "hu": "Óvatosan hajtson a kavicsos utakon.",
+                "ro": "Conduceți cu atenție pe drumurile cu pietriș.",
+                "en": "Ride carefully on the gravel paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Uferpromenade Riva",
+                "hu": "Riva sétány",
+                "ro": "Promenada Riva",
+                "en": "Riva Promenade"
+              },
+              "tip_5lang": {
+                "de": "Fahrradständer sind am Hafen vorhanden.",
+                "hu": "Kerékpártárolók a kikötőben találhatók.",
+                "ro": "Există suporturi de biciclete în port.",
+                "en": "Bike racks are available at the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Casanova-Aussichtspunkt",
+                "hu": "Casanova-kilátó",
+                "ro": "Belvedere Casanova",
+                "en": "Casanova Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Steiler Anstieg, schieben Sie eventuell.",
+                "hu": "Meredek emelkedő, szükség esetén tolja.",
+                "ro": "Urcare abruptă, s-ar putea să împingeți.",
+                "en": "Steep climb, consider pushing the bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfarrkirche des Heiligen Martin",
+                "hu": "Szent Márton-templom",
+                "ro": "Biserica Sf. Martin",
+                "en": "Church of St. Martin"
+              },
+              "tip_5lang": {
+                "de": "Höchster Punkt der Tour.",
+                "hu": "A túra legmagasabb pontja.",
+                "ro": "Cel mai înalt punct al turului.",
+                "en": "Highest point of the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Großes Stadttor",
+                "hu": "Városkapu",
+                "ro": "Poarta orașului",
+                "en": "City Gate"
+              },
+              "tip_5lang": {
+                "de": "Einfahrt in die Fußgängerzone.",
+                "hu": "Belépés a gyalogos zónába.",
+                "ro": "Intrarea în zona pietonală.",
+                "en": "Entrance to the pedestrian zone."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurant Goran",
+                "tip": "Rustikale istrische Küche abseits der Touristenpfade."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Restaurant Goran",
+                "tip": "Rusztikus isztriai konyha a turistaútvonalaktól távol."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurant Goran",
+                "tip": "Bucătărie istriană rustică departe de căile turistice."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restaurant Goran",
+                "tip": "Rustic Istrian cuisine away from the main tourist paths."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Skulpturenpark",
+                "tip": "Weitläufig und ruhig am Morgen.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szoborpark",
+                "tip": "Tágas és csendes a reggeli órákban.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul de sculpturi",
+                "tip": "Vast și liniștit dimineața.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Sculpture Park",
+                "tip": "Spacious and quiet in the morning.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirshop Riva",
+                "tip": "Kleine Skulpturen aus istrischem Stein."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Riva ajándékbolt",
+                "tip": "Isztriai kőből készült kis szobrok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de suveniruri Riva",
+                "tip": "Mici sculpturi din piatră istriană."
+              }
+            ],
+            "en": [
+              {
+                "name": "Riva Souvenir Shop",
+                "tip": "Small sculptures made from Istrian stone."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor den steilen Abfahrten in der Altstadt.",
+              "Die Küstenwege sind meist flach und ideal für Familien.",
+              "Tragen Sie bei Sonne ausreichend Schutz, da der Skulpturenpark wenig Schatten bietet."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket az óvárosi meredek lejtők előtt.",
+              "A parti utak többnyire laposak és ideálisak családoknak.",
+              "Napsütésben használjon fényvédőt, mert a szoborpark kevés árnyékot ad."
+            ],
+            "ro": [
+              "Verificați frânele înainte de coborârile abrupte din centrul vechi.",
+              "Traseele de coastă sunt în mare parte plate și ideale pentru familii.",
+              "Folosiți protecție solară, deoarece parcul de sculpturi oferă puțină umbră."
+            ],
+            "en": [
+              "Check your brakes before the steep descents in the old town.",
+              "The coastal paths are mostly flat and ideal for families.",
+              "Wear sun protection as the sculpture park has little shade."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt im Skulpturenpark, wo die Kunstwerke unter grauem Himmel eine ernste Würde ausstrahlen. Regenfest gekleidet radeln Sie vorsichtig zum Steinbruch Montraker. Mittags erreichen Sie die Riva, wo das Wasser von oben und unten kommt. Ein heißer Kaffee in einer überdachten Bar lässt Sie die Kräfte für den Anstieg sammeln. Am Nachmittag geht es hinauf zum Casanova-Aussichtspunkt. Der Blick auf die stürmische Adria ist die Mühe wert, auch wenn die Sichtweite durch den Dunst begrenzt ist. Abends beenden Sie die Tour an der Kirche St. Martin. Die Abfahrt auf nassen Straßen erfordert volle Konzentration und gute Bremsen.",
+            "hu": "A nap a szoborparkban indul, ahol a műalkotások a szürke ég alatt komoly méltóságot árasztanak. Esőálló felszerelésben tekerjen óvatosan a Montraker kőfejtőhöz. Délben éri el a kikötőt, ahol felülről és alulról is érkezik a víz. Egy forró kávé egy fedett teraszon segít erőt gyűjteni a dombra való felkapaszkodáshoz. Délután a Casanova-kilátóhoz vezet az út. A viharos Adria látványa megéri a fáradságot, még ha a pára korlátozza is a távolságot. Este a Szent Márton-templomnál zárul a túra. A vizes úton való leereszkedés teljes koncentrációt és jó fékeket igényel.",
+            "ro": "Ziua începe în parcul de sculpturi, unde operele de artă emană o demnitate serioasă sub cerul gri. Echipat pentru ploaie, pedalați cu grijă spre cariera Montraker. La prânz ajungeți la Riva, unde apa vine de sus și de jos. O cafea fierbinte într-un bar acoperit vă ajută să vă recuperați forțele pentru urcare. După-amiaza mergeți spre punctul Casanova. Vederea spre marea agitată merită efortul, chiar dacă vizibilitatea este limitată de ceață. Seara încheiați turul la biserica Sf. Martin. Coborârea pe străzile umede necesită concentrare maximă și frâne bune.",
+            "en": "The day starts at the sculpture park, where artworks exude a somber dignity under grey skies. Dressed in rain gear, cycle carefully to the Montraker quarry. At noon, reach the Riva where water comes from both above and below. A hot coffee in a covered bar helps gather strength for the uphill climb. In the afternoon, head up to the Casanova viewpoint. The view of the stormy Adriatic is worth the effort, even if mist limits the visibility. Finish the tour at St. Martin's Church. Descending on wet roads requires full concentration and reliable brakes."
+          },
+          "stops": [
+            {
+              "name": "Dušan Džamonja Sculpture Park",
+              "tip_5lang": {
+                "de": "Die Wege können bei Regen weich und rutschig sein.",
+                "hu": "Az utak esőben felpuhulhatnak és csúszóssá válhatnak.",
+                "ro": "Potecile pot fi moi și alunecoase în caz de ploaie.",
+                "en": "The paths can become soft and slippery when wet."
+              }
+            },
+            {
+              "name": "Montraker Quarry",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen in den tiefer liegenden Bereichen.",
+                "hu": "Vigyázzon a mély tócsákra az alacsonyabb fekvésű részeken.",
+                "ro": "Atenție la bălțile adânci în zonele mai joase.",
+                "en": "Watch out for deep puddles in the lower-lying areas."
+              }
+            },
+            {
+              "name": "Riva Promenade",
+              "tip_5lang": {
+                "de": "Die weißen Steinplatten am Hafen sind extrem rutschig.",
+                "hu": "A kikötő fehér kőlapjai rendkívül csúszósak esőben.",
+                "ro": "Plăcile de piatră albă din port sunt extrem de alunecoase.",
+                "en": "The white stone slabs at the harbor are extremely slippery."
+              }
+            },
+            {
+              "name": "Casanova Viewpoint",
+              "tip_5lang": {
+                "de": "Der Wind weht hier bei Regen oft sehr kräftig.",
+                "hu": "Esőben itt gyakran nagyon erős szél fúj, kapaszkodjon a bringába.",
+                "ro": "Vântul bate adesea foarte puternic aici în timpul ploii.",
+                "en": "The wind often blows very strongly here during rain."
+              }
+            },
+            {
+              "name": "Church of St. Martin",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach eines nahen Gebäudes ab.",
+                "hu": "Parkolja le a biciklit egy közeli épület előtetője alá.",
+                "ro": "Parcați bicicleta sub copertina unei clădiri din apropiere.",
+                "en": "Park your bike under the awning of a nearby building."
+              }
+            },
+            {
+              "name": "City Gate",
+              "tip_5lang": {
+                "de": "Das Tor bietet einen kurzen, trockenen Stopp zum Orientieren.",
+                "hu": "A kapu rövid, száraz megállót kínál a tájékozódáshoz.",
+                "ro": "Poarta oferă o scurtă oprire uscată pentru orientare.",
+                "en": "The gate offers a short, dry stop for orientation."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassem Stein.",
+              "Vermeiden Sie abrupte Bremsmanöver auf dem glatten Kopfsteinpflaster.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit.",
+              "Parken Sie Ihr Rad nur an stabilen Halterungen, da Böen auftreten können."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "Csökkentse kissé a guminyomást a jobb tapadás érdekében.",
+              "Kerülje a hirtelen fékezést a sima macskaköveken.",
+              "Viseljen láthatósági esőkabátot a jobb észlelhetőségért.",
+              "Stabil helyen parkolja le a gépet az erős széllökések miatt."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a vă proteja de apă.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună.",
+              "Evitați frânările bruște pe pavajul umed și neted.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate.",
+              "Parcați bicicleta în locuri stabile din cauza rafalelor de vânt."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from road spray.",
+              "Reduce tire pressure slightly for better grip on wet stones.",
+              "Avoid abrupt braking on the smooth, wet cobblestones.",
+              "Wear a high-visibility rain jacket for better safety.",
+              "Park your bike securely as strong wind gusts can occur."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start im Skulpturenpark lässt Sie schnell in die Pedale treten. Die klare Wintersonne glitzert auf den Metalloberflächen der Kunstwerke, während die Luft schneidend frisch ist. Mittags radeln Sie am Steinbruch Montraker vorbei zur Riva. Der Fahrtwind ist kühl, aber die menschenleere Promenade bietet viel Platz für eine zügige Fahrt am Meer entlang. Am Nachmittag führt der Anstieg zum Casanova-Aussichtspunkt. Die körperliche Anstrengung wärmt auf, und die Fernsicht auf die schneebedeckten Alpen in der Ferne ist spektakulär. Abends erreichen Sie die Altstadt. Nach einem kurzen Stopp an der St.-Martins-Kirche und dem Stadttor lockt eine warme Tasse Tee in der einzigen offenen Bar am Platz.",
+            "hu": "A fagyos indítás a szoborparkban gyorsabb tekerésre ösztönöz. A tiszta téli napfény megcsillan a fém szobrokon, miközben a levegő metszően friss. Délben a Montraker kőfejtő mellett elhaladva éri el a kikötőt. A menetszél hűvös, de az üres sétányon bőven van hely a tempós haladáshoz. Délután a Casanova-kilátóhoz vezető emelkedő segít felmelegedni. A távoli, havas Alpok látványa ilyenkor a legtisztább. Este érkezik az óvárosba. A Szent Márton-templom és a városkapu után a főtéren egyetlen nyitva tartó bár meleg teája csábítja pihenőre.",
+            "ro": "Un start înghețat în parcul de sculpturi vă face să pedalați rapid. Soarele clar de iarnă strălucește pe suprafețele metalice ale operelor, în timp ce aerul este tăios. La prânz pedalați pe lângă cariera Montraker spre Riva. Vântul este rece, dar promenada pustie oferă mult spațiu pentru o cursă rapidă pe malul mării. După-amiaza, urcarea spre punctul Casanova vă încălzește, iar vederea spre Alpii înzăpeziți în depărtare este spectaculoasă. Seara ajungeți în orașul vechi. După o oprire scurtă la biserica Sf. Martin și poarta orașului, o cană de ceai cald vă așteaptă la singurul bar deschis.",
+            "en": "A frosty start at the sculpture park gets you pedaling fast. The clear winter sun glints off the metal surfaces of the artworks while the air is piercingly fresh. At noon, cycle past the Montraker quarry to the Riva. The headwind is cool, but the empty promenade offers plenty of space for a brisk ride along the sea. In the afternoon, the climb to the Casanova viewpoint warms you up. The visibility is spectacular, sometimes reaching as far as the snow-capped Alps. In the evening, reach the old town. After a brief stop at St. Martin's Church and the city gate, a warm cup of tea at the square's only open bar beckons."
+          },
+          "stops": [
+            {
+              "name": "Dušan Džamonja Sculpture Park",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, die Lenkergriffe sind eiskalt.",
+                "hu": "Viseljen meleg kesztyűt, a kormány markolata jéghideg lehet.",
+                "ro": "Purtați mănuși groase, mânerele ghidonului sunt foarte reci.",
+                "en": "Wear warm gloves; the handlebar grips are ice cold."
+              }
+            },
+            {
+              "name": "Montraker Quarry",
+              "tip_5lang": {
+                "de": "Der tiefe Steinbruch liegt mittags oft schon im Schatten.",
+                "hu": "A mély kőfejtő délben gyakran már árnyékban van, hidegebb az idő.",
+                "ro": "Cariera adâncă este adesea deja în umbră la prânz.",
+                "en": "The deep quarry is often already in shadow by midday."
+              }
+            },
+            {
+              "name": "Riva Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorener Gischt auf den Wegen direkt am Wasser.",
+                "hu": "Vigyázzon a megfagyott vízpermetre a közvetlenül a víz melletti úton.",
+                "ro": "Atenție la porțiunile înghețate de lângă apă.",
+                "en": "Watch out for frozen sea spray on the paths right by the water."
+              }
+            },
+            {
+              "name": "Casanova Viewpoint",
+              "tip_5lang": {
+                "de": "Der kühle Nordwind (Bura) weht hier oben besonders stark.",
+                "hu": "A hűvös északi szél (Bura) itt fent különösen erősen fúj.",
+                "ro": "Vântul rece de nord (Bura) bate deosebit de tare aici.",
+                "en": "The cool north wind (Bura) blows particularly hard up here."
+              }
+            },
+            {
+              "name": "Church of St. Martin",
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Platz vor der Kirche für eine Pause.",
+                "hu": "Használja a templom előtti szélvédett teret egy rövid pihenőre.",
+                "ro": "Folosiți spațiul protejat de vânt din fața bisericii pentru o pauză.",
+                "en": "Use the wind-sheltered space in front of the church for a break."
+              }
+            },
+            {
+              "name": "City Gate",
+              "tip_5lang": {
+                "de": "Hinter den Mauern der Altstadt ist es deutlich windstiller.",
+                "hu": "Az óváros falai mögött jelentősen mérséklődik a szél.",
+                "ro": "În spatele zidurilor orașului vechi este mult mai puțin vânt.",
+                "en": "It is significantly calmer behind the walls of the old town."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip) gegen den Fahrtwind.",
+              "Achten Sie auf die Bura, die das Radfahren gefährlich machen kann.",
+              "Die Tage sind kurz; planen Sie das Ende der Tour für 16:30 Uhr ein.",
+              "Nehmen Sie eine Isolierkanne mit warmem Getränk für unterwegs mit.",
+              "Prüfen Sie den Reifendruck; kalte Luft lässt ihn leicht sinken."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a menetszél ellen.",
+              "Ügyeljen a Burára (erős északi szél), amely veszélyessé teheti a bringázást.",
+              "A nappalok rövidek; tervezze a túra végét 16:30-ra.",
+              "Vigyen magával termoszban meleg italt az útra.",
+              "Ellenőrizze a guminyomást; a hideg levegő miatt kissé lecsökkenhet."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine împotriva vântului la pedalare.",
+              "Atenție la Bura, care poate face ciclismul periculos.",
+              "Zilele sunt scurte; planificați finalul turului pentru ora 16:30.",
+              "Luați un termos cu băutură caldă pentru drum.",
+              "Verificați presiunea în pneuri; aerul rece o face să scadă ușor."
+            ],
+            "en": [
+              "Wear multiple layers of clothing to protect against the wind chill.",
+              "Watch out for the Bura wind, which can make cycling hazardous.",
+              "Days are short; plan to finish your tour by 4:30 PM.",
+              "Carry an insulated bottle with a warm drink for the ride.",
+              "Check your tire pressure; cold air causes it to drop slightly."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -836,6 +1700,362 @@
           "Use the parking app to avoid fines.",
           "The drive to Lim Fjord offers great viewpoints along the roadside."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie bequem die Highlights der Region. Beginnen Sie beim Skulpturenpark und fahren Sie dann zum nahegelegenen Lim Fjord für ein Panorama-Foto.\n\nMittags parken Sie nahe der Altstadt von Vrsar, um die St. Martin Kirche und die verwinkelten Gassen zu Fuß zu erkunden.\n\nDer Nachmittag lässt sich entspannt an der Riva ausklingen, bevor Sie zum Steinbruch Montraker fahren, der auch mit dem Fahrzeug gut zugänglich ist.\n\nDiese Tour kombiniert Kultur, Natur und komfortable Fortbewegung.",
+            "hu": "Autóval kényelmesen elérheti a régió fénypontjait. Kezdjen a szoborparknál, majd hajtson a közeli Lim-fjordhoz egy panorámás fotóért.\n\nDélben parkoljon Vrsar óvárosa közelében, hogy gyalog fedezze fel a Szent Márton-templomot és a kanyargós sikátorokat.\n\nA délután pihentetően zárulhat a Riván, mielőtt elhajtana a Montraker kőfejtőhöz, amely járművel is jól megközelíthető.\n\nEz a túra egyesíti a kultúrát, a természetet és a kényelmes közlekedést.",
+            "ro": "Cu mașina puteți ajunge ușor la atracțiile regiunii. Începeți la parcul de sculpturi, apoi conduceți spre Lim Fjord pentru o fotografie panoramică.\n\nLa prânz, parcați lângă centrul vechi din Vrsar pentru a explora pe jos Biserica Sf. Martin și străzile înguste.\n\nDupă-amiaza se poate încheia relaxat pe Riva, înainte de a merge la cariera Montraker, care este ușor accesibilă cu vehiculul.\n\nAcest tur combină cultura, natura și transportul confortabil.",
+            "en": "By car, you can easily reach the region's highlights. Start at the sculpture park, then drive to the nearby Lim Fjord for a panoramic photo.\n\nAt midday, park near Vrsar's old town to explore St. Martin's Church and the winding alleys on foot.\n\nFinish your afternoon at the Riva before driving to the Montraker quarry, which is also easily accessible by vehicle.\n\nThis tour combines culture, nature, and comfortable travel."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Skulpturenpark Dušan Džamonja",
+                "hu": "Dušan Džamonja szoborpark",
+                "ro": "Parcul de sculpturi Dušan Džamonja",
+                "en": "Dušan Džamonja Sculpture Park"
+              },
+              "tip_5lang": {
+                "de": "Kostenloser Parkplatz am Eingang.",
+                "hu": "Ingyenes parkoló a bejáratnál.",
+                "ro": "Parcare gratuită la intrare.",
+                "en": "Free parking at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Lim Fjord Aussichtspunkt",
+                "hu": "Lim-fjord kilátó",
+                "ro": "Belvedere Lim Fjord",
+                "en": "Lim Fjord Lookout"
+              },
+              "tip_5lang": {
+                "de": "Spektakulärer Blick auf den Meeresarm.",
+                "hu": "Látványos kilátás a tengeröbölre.",
+                "ro": "Vedere spectaculoasă asupra fiordului.",
+                "en": "Spectacular view of the sea inlet."
+              }
+            },
+            {
+              "name": {
+                "de": "Altstadt Vrsar (St. Martin)",
+                "hu": "Vrsar óváros (Szent Márton)",
+                "ro": "Centrul vechi Vrsar (Sf. Martin)",
+                "en": "Vrsar Old Town (St. Martin)"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie unterhalb der Altstadtmauern.",
+                "hu": "Parkoljon az óvárosi falak alatt.",
+                "ro": "Parcați sub zidurile cetății.",
+                "en": "Park below the old town walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Uferpromenade Riva",
+                "hu": "Riva sétány",
+                "ro": "Promenada Riva",
+                "en": "Riva Promenade"
+              },
+              "tip_5lang": {
+                "de": "Ideal für einen Nachmittagskaffee.",
+                "hu": "Ideális egy délutáni kávéhoz.",
+                "ro": "Ideal pentru o cafea de după-amiază.",
+                "en": "Ideal for an afternoon coffee."
+              }
+            },
+            {
+              "name": {
+                "de": "Römischer Steinbruch Montraker",
+                "hu": "Montraker kőfejtő",
+                "ro": "Cariera Montraker",
+                "en": "Montraker Quarry"
+              },
+              "tip_5lang": {
+                "de": "Leicht erreichbar mit dem Auto.",
+                "hu": "Autóval könnyen megközelíthető.",
+                "ro": "Ușor accesibil cu mașina.",
+                "en": "Easily accessible by car."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Fancita",
+                "tip": "Hervorragende Fleischgerichte vom Grill."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fancita",
+                "tip": "Kiváló húsételek a grillről."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fancita",
+                "tip": "Preparate din carne excelente la grătar."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fancita",
+                "tip": "Excellent grilled meat dishes."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Lim Fjord",
+                "tip": "Natur pur und Stille am Wasser.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lim-fjord",
+                "tip": "Tiszta természet és csend a víznél.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lim Fjord",
+                "tip": "Natură pură și liniște pe apă.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lim Fjord",
+                "tip": "Pure nature and silence by the water.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Agrolaguna Shop",
+                "tip": "Lokaler Wein und Käse (kurze Fahrt)."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Agrolaguna Bolt",
+                "tip": "Helyi bor és sajt (rövid autóút)."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin Agrolaguna",
+                "tip": "Vin și brânză locală (scurtă călătorie)."
+              }
+            ],
+            "en": [
+              {
+                "name": "Agrolaguna Shop",
+                "tip": "Local wine and cheese (short drive)."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Achten Sie auf die Einbahnstraßen in der Unterstadt.",
+              "Nutzen Sie die Park-App, um Strafen zu vermeiden.",
+              "Die Fahrt zum Lim Fjord bietet tolle Aussichtspunkte am Straßenrand."
+            ],
+            "hu": [
+              "Ügyeljen az egyirányú utcákra az alsóvárosban.",
+              "Használja a parkolóalkalmazást a büntetések elkerülése érdekében.",
+              "A Lim-fjordhoz vezető út mentén remek kilátópontok vannak."
+            ],
+            "ro": [
+              "Atenție la străzile cu sens unic din orașul de jos.",
+              "Utilizați aplicația de parcare pentru a evita amenzile.",
+              "Drumul spre Lim Fjord oferă puncte de belvedere superbe pe marginea șoselei."
+            ],
+            "en": [
+              "Watch out for one-way streets in the lower town.",
+              "Use the parking app to avoid fines.",
+              "The drive to Lim Fjord offers great viewpoints along the roadside."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im komfortablen Auto startet die Tour am Skulpturenpark. Während der Regen auf das Dach trommelt, betrachten Sie die monumentalen Werke durch die Scheiben oder wagen einen kurzen Gang hinaus. Mittags führt die Fahrt zum Lim-Fjord. Der Ausblick auf das graue, neblige Wasser hat eine ganz eigene, mystische Schönheit, die man am besten trocken vom Aussichtspunkt aus genießt. Am Nachmittag parken Sie nahe der Altstadt. Die St.-Martins-Kirche ist nur einen kurzen Fußweg entfernt und bietet eine prachtvolle, trockene Kulisse für den kulturellen Teil des Tages. Die Riva und der Steinbruch Montraker bilden den Abschluss. Selbst bei starkem Regen bleibt man im Auto flexibel und kann die Stopps je nach Intensität der Schauer spontan anpassen.",
+            "hu": "Kényelmes autóban indul a túra a szoborparknál. Miközben az eső kopog a tetőn, az ablakon keresztül csodálhatja a monumentális műveket, vagy tehet egy rövid, vizes sétát. Délben a Lim-fjordhoz vezet az út. A ködös, szürke víz látványa misztikus szépséget áraszt, amit a legjobban a kilátópont száraz fedezékéből élvezhetünk. Délután az óváros közelében parkolhat le. A Szent Márton-templom csak pár lépés, és pompás, száraz helyszínt biztosít a nap kulturális részéhez. A sétány és a Montraker kőfejtő zárja a programot. Heves esőben is rugalmas maradhat az autóval, a megállókat az intenzitáshoz igazítva.",
+            "ro": "În confortul mașinii, turul începe la parcul de sculpturi. În timp ce ploaia bate în plafon, admirați operele monumentale prin geamuri sau faceți o scurtă ieșire. La prânz, drumul duce la Lim Fjord. Vederea asupra apei cenușii și cețoase are o frumusețe mistică proprie, savurată cel mai bine la adăpostul punctului de belvedere. După-amiaza parcați lângă orașul vechi. Biserica Sf. Martin este la doar câțiva pași și oferă un cadru cultural splendid și uscat. Riva și cariera Montraker încheie ziua. Chiar și în ploaie torențială, mașina vă oferă flexibilitatea de a ajusta opririle în funcție de intensitatea averselor.",
+            "en": "The tour starts comfortably by car at the sculpture park. While rain drums on the roof, admire the monumental works through the windows or venture out for a quick look. At noon, drive to Lim Fjord. The view of the misty, grey water has its own mystical beauty, best enjoyed from the dry shelter of the lookout point. In the afternoon, park near the old town. St. Martin's Church is just a short walk away, offering a magnificent, dry setting for the cultural part of the day. The Riva and Montraker quarry conclude the trip. Even in heavy rain, the car allows you to stay flexible and adjust stops based on the intensity of the showers."
+          },
+          "stops": [
+            {
+              "name": "Dušan Džamonja Sculpture Park",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Weg im Regen zu verkürzen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy lerövidítse az utat az esőben.",
+                "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie.",
+                "en": "Park near the entrance to shorten your walk in the rain."
+              }
+            },
+            {
+              "name": "Lim Fjord Lookout",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick direkt aus dem Auto, falls es zu stark regnet.",
+                "hu": "Élvezze a kilátást közvetlenül az autóból, ha túl erősen esne.",
+                "ro": "Bucurați-vă de priveliște direct din mașină dacă plouă prea tare.",
+                "en": "Enjoy the view directly from your car if it rains too hard."
+              }
+            },
+            {
+              "name": "Vrsar Old Town (St. Martin)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt unterhalb der Altstadtmauern.",
+                "hu": "Használja az óváros falai alatt található parkolót.",
+                "ro": "Folosiți parcarea aflată direct sub zidurile orașului vechi.",
+                "en": "Use the parking lot located directly below the old town walls."
+              }
+            },
+            {
+              "name": "Riva Promenade",
+              "tip_5lang": {
+                "de": "Entlang der Riva gibt es meist Parkplätze mit kurzem Weg zum Café.",
+                "hu": "A sétány mentén több parkoló is van, pár lépésre a kávézóktól.",
+                "ro": "Pe Riva există locuri de parcare aproape de cafenele.",
+                "en": "There are parking spots along the Riva close to the cafes."
+              }
+            },
+            {
+              "name": "Montraker Quarry",
+              "tip_5lang": {
+                "de": "Der Boden kann schlammig sein; bleiben Sie auf den befestigten Wegen.",
+                "hu": "A talaj sáros lehet; maradjon a kijelölt, szilárd utakon.",
+                "ro": "Solul poate fi noroios; rămâneți pe potecile pavate.",
+                "en": "The ground can be muddy; stay on the paved paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand der Scheibenwischer vor der Abfahrt.",
+              "Vermeiden Sie das Parken in tiefgelegenen Bereichen bei Starkregen.",
+              "Halten Sie Schirme im Fahrgastraum griffbereit, nicht im Kofferraum.",
+              "Die Straßen um Vrsar können bei Regen sehr rutschig sein (Adria-Glatteis).",
+              "Nutzen Sie die Park-Apps, um den Bezahlvorgang im Trockenen zu erledigen."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Heves esőzéskor kerülje a mélyebben fekvő parkolóhelyeket.",
+              "Az esernyőket az utastérben tartsa, ne a csomagtartóban.",
+              "Az utak esőben nagyon csúszósak lehetnek az Adria környékén.",
+              "Használjon parkolási applikációt, hogy a kocsiban ülve fizethessen."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Evitați parcarea în zone joase în caz de ploaie torențială.",
+              "Țineți umbrelele în habitaclu, nu în portbagaj.",
+              "Drumurile din jurul Vrsar pot fi foarte alunecoase în timpul ploii.",
+              "Folosiți aplicații de parcare pentru a plăti stând la adăpost în mașină."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before starting.",
+              "Avoid parking in low-lying areas during heavy rain downpours.",
+              "Keep umbrellas in the passenger cabin, not in the trunk.",
+              "Coastal roads can be very slippery when it starts raining.",
+              "Use parking apps to handle payments while staying dry inside the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour mit dem Auto beginnt am Skulpturenpark. Die morgendliche Kälte bleibt draußen, während Sie die Aussicht auf die Kunstwerke bei einer warmen Heizung genießen. Mittags geht es zum Lim-Fjord. Die klare Luft bietet eine unvergleichliche Sicht bis weit ins Landesinneren, und der Parkplatz am Aussichtspunkt ist im Winter fast leer. Am Nachmittag erreichen Sie die Altstadt von Vrsar. Das Auto parken Sie bequem nah am Zentrum, um den kurzen, frostigen Weg zur prachtvollen St.-Martins-Kirche zu meistern. Zum Abschluss besuchen Sie die Riva und den Steinbruch Montraker. Die tiefstehende Wintersonne taucht die Kalkfelsen in ein goldenes Licht, bevor Sie die Heimreise im warmen Wagen antreten.",
+            "hu": "A téli autós túra a szoborparknál indul. A reggeli hideg kint marad, miközben a fűtött utastérből csodálhatja a szobrok látványát. Délben a Lim-fjord felé veszi az irányt. A tiszta levegő páratlan kilátást nyújt a szárazföld belseje felé is, a parkolók pedig ilyenkor szinte üresek. Délután éri el Vrsar óvárosát. Kényelmesen, a központhoz közel parkolhat, így csak pár métert kell megtennie a fagyos levegőn a Szent Márton-templomig. Zárásként a kikötőt és a Montraker kőfejtőt keresi fel. Az alacsonyan járó téli nap arany fénybe vonja a mészkőfalakat, mielőtt hazaindulna a meleg autóval.",
+            "ro": "Turul de iarnă cu mașina începe la parcul de sculpturi. Frigul dimineții rămâne afară în timp ce admirați operele din confortul încălzit al mașinii. La prânz mergeți spre Lim Fjord. Aerul curat oferă o vizibilitate de neegalat spre interiorul țării, iar parcarea de la belvedere este aproape goală iarna. După-amiaza ajungeți în orașul vechi Vrsar. Parcați mașina aproape de centru pentru a parcurge drumul scurt și înghețat până la biserica Sf. Martin. La final, vizitați Riva și cariera Montraker. Soarele jos de iarnă scaldă stâncile de calcar într-o lumină aurie înainte de a pleca spre casă în mașina caldă.",
+            "en": "The winter car tour begins at the sculpture park. The morning chill stays outside while you enjoy the view of the artworks with the heater on. At noon, drive to Lim Fjord. The clear air offers unparalleled views far inland, and the lookout point's parking lot is almost empty in winter. In the afternoon, reach Vrsar's old town. Park conveniently close to the center to manage the short, frosty walk to the magnificent St. Martin's Church. To conclude, visit the Riva and the Montraker quarry. The low winter sun bathes the limestone rocks in golden light before you start the drive home in your warm car."
+          },
+          "stops": [
+            {
+              "name": "Dušan Džamonja Sculpture Park",
+              "tip_5lang": {
+                "de": "Im Winter sind die Parkplätze direkt am Eingang meist frei.",
+                "hu": "Télen a bejárat melletti parkolóhelyek általában szabadok.",
+                "ro": "Iarna, locurile de parcare de lângă intrare sunt de obicei libere.",
+                "en": "In winter, the parking spots right by the entrance are usually free."
+              }
+            },
+            {
+              "name": "Lim Fjord Lookout",
+              "tip_5lang": {
+                "de": "Perfekter Stopp, um die Landschaft ohne kalten Wind zu fotografieren.",
+                "hu": "Tökéletes megálló a táj fotózásához anélkül, hogy megfagyna a szélben.",
+                "ro": "Oprire perfectă pentru a fotografia peisajul fără vântul rece.",
+                "en": "Perfect stop to photograph the landscape without the cold wind."
+              }
+            },
+            {
+              "name": "Vrsar Old Town (St. Martin)",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem oberen Parkplatz für den kürzesten Fußweg.",
+                "hu": "Parkoljon a felső parkolóban a lehető legrövidebb séta érdekében.",
+                "ro": "Parcați în parcarea superioară pentru cel mai scurt drum pe jos.",
+                "en": "Park in the upper parking lot for the shortest walk to the church."
+              }
+            },
+            {
+              "name": "Riva Promenade",
+              "tip_5lang": {
+                "de": "Im Winter ist das Parken am Hafen oft kostenlos oder günstiger.",
+                "hu": "Télen a kikötői parkolás gyakran ingyenes vagy olcsóbb.",
+                "ro": "Iarna, parcarea în port este adesea gratuită sau mai ieftină.",
+                "en": "In winter, parking at the harbor is often free or cheaper."
+              }
+            },
+            {
+              "name": "Montraker Quarry",
+              "tip_5lang": {
+                "de": "Kurzer Stopp reicht, um die beleuchteten Felsen bei Dämmerung zu sehen.",
+                "hu": "Egy rövid megálló is elég a kivilágított sziklák megcsodálásához.",
+                "ro": "O scurtă oprire e suficientă pentru a vedea stâncile iluminate.",
+                "en": "A short stop is enough to see the illuminated rocks at dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf eventuelle Straßenglätte bei Temperaturen um den Gefrierpunkt.",
+              "Lassen Sie den Motor nicht unnötig im Stand laufen, um sich aufzuwärmen.",
+              "Die Parkgebührenpflicht ist im Winter in vielen Zonen aufgehoben.",
+              "Führen Sie einen Eiskratzer mit, da es nachts frostig werden kann.",
+              "Nutzen Sie die kurzen Wege, um die Zeit im Freien zu minimieren."
+            ],
+            "hu": [
+              "Ügyeljen az útra, fagypont körüli hőmérsékletnél lefagyások lehetnek.",
+              "Ne járassa feleslegesen a motort álló helyzetben a melegedéshez.",
+              "Télen sok zónában megszűnik a parkolási díjfizetési kötelezettség.",
+              "Tartson jégkaparót a kocsiban, mert éjszaka fagyhat.",
+              "Használja ki a rövid távolságokat, hogy keveset kelljen a hidegben lenni."
+            ],
+            "ro": [
+              "Atenție la polei când temperaturile sunt aproape de îngheț.",
+              "Nu lăsați motorul pornit inutil pe loc pentru a vă încălzi.",
+              "Taxarea parcării este suspendată în multe zone pe timpul iernii.",
+              "Aveți o racletă pentru gheață, nopțile pot fi geroase.",
+              "Profitarea de distanțele scurte pentru a minimiza timpul în aer rece."
+            ],
+            "en": [
+              "Watch out for icy road conditions when temperatures are near freezing.",
+              "Avoid idling the engine unnecessarily for long periods to warm up.",
+              "Many parking zones have no fees during the winter season.",
+              "Carry an ice scraper as frost can occur overnight.",
+              "Take advantage of short distances to minimize time spent in the cold."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1071,6 +2291,362 @@
           "Intercity buses often stop on the main road above the town.",
           "Ticket purchase on the bus is usually possible."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den lokalen Bus, um das Zentrum von Vrsar zu erreichen. Starten Sie in der Altstadt und besichtigen Sie die prächtige St. Martin Kirche mit ihrem weiten Blick.\n\nMittags schlendern Sie bergab zur Riva. Hier pulsiert das Leben und die Anbindung an den regionalen Verkehr ist ideal.\n\nDer Nachmittag bietet Zeit für die romanische Marienkirche und den nahegelegenen Steinbruch Montraker, bevor Sie bequem vom Busbahnhof Ihre Rückreise antreten.\n\nEine entspannte Art, Vrsar ohne Parkplatzsorgen zu erleben.",
+            "hu": "Használja a helyi buszt Vrsar központjának eléréséhez. Kezdjen az óvárosban, és látogassa meg a pompás Szent Márton-templomot a pazar kilátással.\n\nDélben sétáljon lefelé a Rivához. Itt pezseg az élet, és a regionális közlekedési kapcsolatok ideálisak.\n\nA délután jut idő a román stílusú Mária-templomra és a közeli Montraker kőfejtőre, mielőtt kényelmesen elindulna a buszpályaudvarról.\n\nPihentető módja Vrsar felfedezésének parkolási gondok nélkül.",
+            "ro": "Folosiți autobuzul local pentru a ajunge în centrul orașului Vrsar. Începeți în orașul vechi și vizitați biserica Sf. Martin cu vederea sa panoramică.\n\nLa prânz, coborâți spre Riva. Aici viața pulsează, iar conexiunile cu transportul regional sunt ideale.\n\nDupă-amiaza oferă timp pentru biserica romanică Sf. Maria și cariera Montraker, înainte de a pleca confortabil din autogară.\n\nO modalitate relaxată de a experimenta Vrsar fără grija parcării.",
+            "en": "Use the local bus to reach the center of Vrsar. Start in the old town and visit the magnificent St. Martin's Church with its expansive views.\n\nAt midday, stroll downhill to the Riva. This is where life pulses, and regional transport connections are ideal.\n\nSpend the afternoon at the Romanesque St. Mary's Church and the nearby Montraker quarry before departing comfortably from the bus station.\n\nA relaxed way to experience Vrsar without parking worries."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altstadt Vrsar",
+                "hu": "Vrsar óváros",
+                "ro": "Centrul vechi Vrsar",
+                "en": "Vrsar Old Town"
+              },
+              "tip_5lang": {
+                "de": "Zentrale Bushaltestelle in der Nähe.",
+                "hu": "Központi buszmegálló a közelben.",
+                "ro": "Stația centrală de autobuz în apropiere.",
+                "en": "Central bus stop nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfarrkirche des Heiligen Martin",
+                "hu": "Szent Márton-templom",
+                "ro": "Biserica Sf. Martin",
+                "en": "Church of St. Martin"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle bergauf.",
+                "hu": "Rövid gyalogút a megállótól felfelé.",
+                "ro": "Scurtă plimbare în urcare de la stație.",
+                "en": "Short walk uphill from the stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Uferpromenade Riva",
+                "hu": "Riva sétány",
+                "ro": "Promenada Riva",
+                "en": "Riva Promenade"
+              },
+              "tip_5lang": {
+                "de": "Viele Restaurants für die Mittagspause.",
+                "hu": "Számos étterem az ebédszünethez.",
+                "ro": "Multe restaurante pentru masa de prânz.",
+                "en": "Many restaurants available for lunch."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche der Heiligen Maria vom Meer",
+                "hu": "Tengeri Szent Mária-templom",
+                "ro": "Biserica Sf. Maria a Mării",
+                "en": "Church of St. Mary of the Sea"
+              },
+              "tip_5lang": {
+                "de": "Einfach zu Fuß von der Riva erreichbar.",
+                "hu": "Gyalogosan könnyen elérhető a Rivától.",
+                "ro": "Ușor accesibil pe jos de la Riva.",
+                "en": "Easily accessible on foot from the Riva."
+              }
+            },
+            {
+              "name": {
+                "de": "Römischer Steinbruch Montraker",
+                "hu": "Montraker kőfejtő",
+                "ro": "Cariera Montraker",
+                "en": "Montraker Quarry"
+              },
+              "tip_5lang": {
+                "de": "Der Busbahnhof ist von hier in 10 Min zu Fuß erreichbar.",
+                "hu": "A buszpályaudvar innen 10 perc alatt elérhető gyalog.",
+                "ro": "Autogara este la 10 minute de mers pe jos.",
+                "en": "The bus station is a 10-minute walk from here."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bäckerei Vrsar",
+                "tip": "Frisches Burek für den kleinen Hunger zwischendurch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vrsari pékség",
+                "tip": "Friss burek gyors köztes étkezéshez."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brutăria Vrsar",
+                "tip": "Burek proaspăt pentru o gustare rapidă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vrsar Bakery",
+                "tip": "Fresh burek for a quick snack between stops."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "St. Maria vom Meer",
+                "tip": "Stille in der romanischen Kapelle.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tengeri Szent Mária",
+                "tip": "Csend a román stílusú kápolnában.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sfânta Maria a Mării",
+                "tip": "Liniște în capela romanică.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "St. Mary of the Sea",
+                "tip": "Silence in the Romanesque chapel.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Kiosk am Busbahnhof",
+                "tip": "Regionale Zeitschriften und Postkarten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Buszpályaudvari újságos",
+                "tip": "Regionális magazinok és képeslapok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chioșc la autogară",
+                "tip": "Reviste regionale și cărți poștale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bus Station Kiosk",
+                "tip": "Regional magazines and postcards."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan für die Rückfahrt im Voraus.",
+              "Die Überlandbusse halten oft an der Hauptstraße oberhalb des Ortes.",
+              "Ein Ticketkauf im Bus ist meist möglich."
+            ],
+            "hu": [
+              "Előre ellenőrizze a visszautazási menetrendet.",
+              "A távolsági buszok gyakran a település feletti főúton állnak meg.",
+              "A jegyvásárlás általában lehetséges a buszon."
+            ],
+            "ro": [
+              "Verificați orarul pentru retur în avans.",
+              "Autobuzele interdigitale opresc adesea la drumul principal deasupra localității.",
+              "Cumpărarea biletului în autobuz este de obicei posibilă."
+            ],
+            "en": [
+              "Check the return schedule in advance.",
+              "Intercity buses often stop on the main road above the town.",
+              "Ticket purchase on the bus is usually possible."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen Sie die Altstadt von Vrsar, während der Regen die historischen Gassen wäscht. Der Stadtturm bietet Schutz für die ersten Fotos des Tages. Mittags führt ein kurzer Weg zur St.-Martins-Kirche. Das massive Gebäude ist ein perfekter Rückzugsort vor den Schauern, und die Atmosphäre im Inneren ist besonders feierlich. Am Nachmittag spazieren Sie hinunter zur Riva. Die Wartehäuschen der Bushaltestellen bieten Schutz, während man das aufgewühlte Meer beobachtet. Ein Besuch der St.-Maria-Kirche hält Sie trocken. Der Tag endet am Steinbruch Montraker. Von der nahen Haltestelle ist es nur ein kurzer Sprung zurück in den warmen Bus, der Sie sicher an Ihr Ziel bringt.",
+            "hu": "Busszal érkezik Vrsar óvárosába, miközben az eső mossa a történelmi utcákat. A várostorony védelmet nyújt a nap első fotóihoz. Délben rövid séta vezet a Szent Márton-templomhoz. A masszív épület tökéletes menedék a záporok elől, belső tere ilyenkor különösen ünnepi. Délután lesétál a kikötőbe. A buszmegállók várói védelmet nyújtanak, miközben a felkavart tengert nézheti. A Szent Mária-templom látogatása szárazon tartja. A nap a Montraker kőfejtőnél ér véget. A közeli megállóból csak egy ugrás a meleg busz, amely biztonságban visszaviszi úti céljához.",
+            "ro": "Ajungeți cu autobuzul în orașul vechi Vrsar, în timp ce ploaia spală străzile istorice. Turnul orașului oferă protecție pentru primele fotografii. La prânz, un drum scurt duce la biserica Sf. Martin. Clădirea masivă este un refugiu perfect împotriva averselor, atmosfera fiind solemnă. După-amiaza coborâți spre Riva. Adăposturile stațiilor de autobuz oferă protecție în timp ce observați marea agitată. Biserica Sf. Maria vă ține la uscat. Ziua se încheie la cariera Montraker. De la stația din apropiere e doar un salt până în autobuzul cald care vă duce în siguranță la destinație.",
+            "en": "Arrive by bus in Vrsar's old town while rain washes the historic streets. The city tower provides shelter for the first photos of the day. At noon, a short walk leads to St. Martin's Church. The massive building is a perfect retreat from the downpours, and its interior atmosphere is especially solemn. In the afternoon, stroll down to the Riva. Bus stop shelters offer cover while you watch the restless sea. A visit to St. Mary's Church keeps you dry. The day ends at the Montraker quarry. From the nearby stop, it's just a quick jump back onto the warm bus that will take you safely to your destination."
+          },
+          "stops": [
+            {
+              "name": "Vrsar Old Town",
+              "tip_5lang": {
+                "de": "Die zentrale Bushaltestelle liegt günstig für den Start im Trockenen.",
+                "hu": "A központi buszmegálló kedvező helyen van a száraz induláshoz.",
+                "ro": "Stația centrală de autobuz este situată convenabil pentru un start uscat.",
+                "en": "The central bus stop is conveniently located for a dry start."
+              }
+            },
+            {
+              "name": "Church of St. Martin",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit zwischen den Bussen für eine ausführliche Besichtigung.",
+                "hu": "Használja ki a buszok közötti időt a templom részletes megtekintésére.",
+                "ro": "Folosiți timpul dintre autobuze pentru o vizită detaliată.",
+                "en": "Use the time between bus arrivals for a detailed visit."
+              }
+            },
+            {
+              "name": "Riva Promenade",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen an der Riva ist meist gut gegen Wind geschützt.",
+                "hu": "A sétányon lévő váróterem általában jól védett a szél ellen.",
+                "ro": "Adăpostul stației de pe Riva este de obicei bine protejat de vânt.",
+                "en": "The bus shelter on the Riva is usually well protected from the wind."
+              }
+            },
+            {
+              "name": "Church of St. Mary of the Sea",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Hafen-Haltestelle, ideal bei Regen.",
+                "hu": "Rövid séta a kikötői megállótól, ideális esős időben.",
+                "ro": "Drum scurt de la stația din port, ideal în caz de ploaie.",
+                "en": "A short walk from the harbor stop, ideal for rainy weather."
+              }
+            },
+            {
+              "name": "Montraker Quarry",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten, um unnötiges Warten im Regen zu vermeiden.",
+                "hu": "Ellenőrizze az indulási időket, hogy elkerülje a várakozást az esőben.",
+                "ro": "Verificați orele de plecare pentru a evita așteptarea în ploaie.",
+                "en": "Check the departure times to avoid unnecessary waiting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die offizielle Arriva-App für Echtzeit-Fahrpläne.",
+              "In den Bussen ist es meist angenehm warm und trocken.",
+              "Haben Sie Kleingeld für das Ticket bereit, falls die App streikt.",
+              "Die Haltestellen in Vrsar sind meist überdacht.",
+              "Bei starkem Regen können die Busse geringfügige Verspätungen haben."
+            ],
+            "hu": [
+              "Használja a hivatalos Arriva appot a valós idejű menetrendhez.",
+              "A buszokon általában kellemes meleg és szárazság fogadja.",
+              "Legyen Önnél aprópénz a jegyre, ha az applikáció nem működne.",
+              "Vrsar buszmegállói többnyire fedettek.",
+              "Heves esőzéskor a buszoknál előfordulhatnak kisebb késések."
+            ],
+            "ro": [
+              "Folosiți aplicația oficială Arriva pentru programe în timp real.",
+              "În autobuze este de obicei plăcut, cald și uscat.",
+              "Aveți pregătiți bani mărunți pentru bilet în caz că aplicația nu merge.",
+              "Stațiile din Vrsar sunt în mare parte acoperite.",
+              "În caz de ploaie torențială, autobuzele pot avea mici întârzieri."
+            ],
+            "en": [
+              "Use the official Arriva app for real-time bus schedules.",
+              "Buses are usually comfortably warm and dry inside.",
+              "Have some small change ready for tickets if the app fails.",
+              "Most bus stops in Vrsar are covered with shelters.",
+              "Buses may experience slight delays during heavy rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem ersten Bus erreichen Sie das ruhige Vrsar. Die morgendliche Kälte macht den kurzen Weg vom Terminal in die Altstadt erfrischend, während die Stille der Gassen beeindruckt. Mittags ist die St.-Martins-Kirche Ihr Ziel. Die dicken Mauern speichern zwar die Kälte, bieten aber einen windgeschützten Ort der Besinnung. Am Nachmittag schlendern Sie hinunter zur Riva. Die kühle Meeresluft ist belebend, und die Cafés in Haltestellennähe bieten heiße Getränke, um die Zeit bis zum nächsten Bus zu überbrücken. Der Tag endet mit einem Besuch der St.-Maria-Kirche und des Steinbruchs. Wenn die Wintersonne früh untergeht, genießen Sie die Fahrt zurück im beleuchteten Bus.",
+            "hu": "Az első busszal érkezik a csendes Vrsarba. A reggeli hideg frissítővé teszi a termináltól az óvárosig tartó rövid utat, a szűk utcák csendje lenyűgöző. Délben a Szent Márton-templom az úti cél. A vastag falak bár tartják a hideget, szélvédett helyet kínálnak az elmélyüléshez. Délután lesétál a kikötőbe. A hűvös tengeri levegő élénkítő, a megálló közeli kávézók pedig forró italokkal várják a következő buszig. A nap a Szent Mária-templommal és a kőfejtővel zárul. Amikor a téli nap korán nyugovóra tér, élvezze a visszautat a kivilágított buszban.",
+            "ro": "Cu primul autobuz ajungeți în liniștitul Vrsar. Frigul dimineții face ca drumul scurt de la terminal în orașul vechi să fie răcoritor. La prânz, biserica Sf. Martin este destinația dvs. Zidurile groase păstrează frigul, dar oferă un loc de reflecție protejat de vânt. După-amiaza coborâți spre Riva. Aerul rece al mării este revigorant, iar cafenelele de lângă stație oferă băuturi calde până la următorul autobuz. Ziua se încheie cu o vizită la biserica Sf. Maria și carieră. Când soarele de iarnă apune devreme, bucurați-vă de drumul înapoi în autobuzul luminat.",
+            "en": "Arrive in quiet Vrsar with the first bus. The morning cold makes the short walk from the terminal to the old town refreshing, and the silence of the alleys is striking. At noon, St. Martin's Church is your destination. Though its thick walls hold the chill, it provides a wind-sheltered place for reflection. In the afternoon, stroll down to the Riva. The cool sea air is invigorating, and cafes near the bus stop offer hot drinks to pass the time until the next bus. The day ends with a visit to St. Mary's Church and the quarry. As the winter sun sets early, enjoy the ride back in the brightly lit bus."
+          },
+          "stops": [
+            {
+              "name": "Vrsar Old Town",
+              "tip_5lang": {
+                "de": "Der Busbahnhof liegt im Winter oft im kalten Schatten, bewegen Sie sich.",
+                "hu": "A buszpályaudvar télen gyakran hideg árnyékban van, maradjon mozgásban.",
+                "ro": "Autogara este adesea în umbră rece iarna, rămâneți în mișcare.",
+                "en": "The bus terminal is often in cold shadow in winter; keep moving."
+              }
+            },
+            {
+              "name": "Church of St. Martin",
+              "tip_5lang": {
+                "de": "Im Inneren der Kirche ist es oft kühler als draußen in der Sonne.",
+                "hu": "A templom belsejében gyakran hűvösebb van, mint kint a napsütésben.",
+                "ro": "În interiorul bisericii este adesea mai rece decât afară la soare.",
+                "en": "It is often cooler inside the church than outside in the sun."
+              }
+            },
+            {
+              "name": "Riva Promenade",
+              "tip_5lang": {
+                "de": "Warten Sie in einem nahen Café statt direkt an der Haltestelle.",
+                "hu": "Várjon egy közeli kávézóban a buszmegálló helyett.",
+                "ro": "Așteptați într-o cafenea din apropiere în loc de stație.",
+                "en": "Wait in a nearby cafe instead of directly at the bus stop."
+              }
+            },
+            {
+              "name": "Church of St. Mary of the Sea",
+              "tip_5lang": {
+                "de": "Die Abendsonne wärmt die Fassade der Kirche noch ein wenig auf.",
+                "hu": "Az esti napfény még egy kicsit felmelegíti a templom homlokzatát.",
+                "ro": "Soarele de seară încălzește puțin fațada bisericii.",
+                "en": "The evening sun warms the church facade a bit at the end of the day."
+              }
+            },
+            {
+              "name": "Montraker Quarry",
+              "tip_5lang": {
+                "de": "Gehen Sie zügig zur Haltestelle, sobald es dunkel wird (ca. 17:00).",
+                "hu": "Sétáljon tempósan a megállóhoz, amint sötétedni kezd (kb. 17:00).",
+                "ro": "Mergeți rapid spre stație imediat ce se întunecă (aprox. 17:00).",
+                "en": "Walk briskly to the stop as soon as it gets dark (around 5:00 PM)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busfrequenz ist im Winter deutlich reduziert.",
+              "Nutzen Sie die Wartezeiten für kurze Spaziergänge, um warm zu bleiben.",
+              "Die Fahrpläne an den Haltestellen sind im Winter meist aktuell.",
+              "Tragen Sie eine Mütze und Schal gegen die kalte Bura am Hafen.",
+              "Kaufen Sie Tickets online, um die Zeit im Freien zu minimieren."
+            ],
+            "hu": [
+              "A buszjáratok sűrűsége télen jelentősen lecsökken.",
+              "Használja ki a várakozási időt rövid sétákra, hogy melegen tartsa magát.",
+              "A megállókban kihelyezett menetrendek télen általában naprakészek.",
+              "Viseljen sapkát és sálat a kikötői hideg Bura ellen.",
+              "Vásárolja meg jegyét online, hogy kevesebbet kelljen a szabadban várnia."
+            ],
+            "ro": [
+              "Frecvența autobuzelor este semnificativ redusă iarna.",
+              "Folosiți timpii de așteptare pentru plimbări scurte ca să vă încălziți.",
+              "Orarele din stații sunt de obicei actualizate și iarna.",
+              "Purtați căciulă și fular împotriva vântului rece din port.",
+              "Cumpărați bilete online pentru a minimiza timpul petrecut afară."
+            ],
+            "en": [
+              "Bus frequency is significantly reduced during the winter season.",
+              "Use waiting periods for short walks to keep yourself warm.",
+              "The schedules posted at bus stops are usually accurate in winter.",
+              "Wear a hat and scarf against the cold Bura wind at the harbor.",
+              "Buy tickets online to minimize the time spent waiting outdoors."
+            ]
+          }
+        }
       }
     }
   },

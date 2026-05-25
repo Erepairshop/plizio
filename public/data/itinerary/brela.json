@@ -320,6 +320,442 @@
           "Make use of the shaded areas under the pine trees.",
           "Bring water shoes for the pebble beaches."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen mit der sakralen Stille der St.-Stephans-Kirche und schlendern Sie dann gemütlich über die von Pinien gesäumte Uferpromenade. Die frische Meeresbrise begleitet Sie zur historischen Gospa-od-Karmela-Kirche.\n\nZur Mittagszeit erreichen Sie das Wahrzeichen von Brela, den markanten Stein im Meer. Genießen Sie die Sonne am berühmten Strand Punta Rata, wo das azurblaue Wasser zur Abkühlung einlädt.\n\nDer Nachmittag gehört der Entspannung in der malerischen Bucht von Podrače. Die Felsformationen bieten hier eine einzigartige Kulisse für Erinnerungsfotos und ruhige Momente direkt am Wasser.\n\nLassen Sie den Tag in einem der gemütlichen Restaurants an der Promenade ausklingen. Bei einem Glas lokalen Weins können Sie beobachten, wie die Sonne langsam hinter der Insel Brač versinkt.",
+            "hu": "Kezdje a reggelt a Szent István-templom szakrális csendjével, majd tegyen egy kényelmes sétát a fenyőfákkal övezett tengerparti sétányon. A friss tengeri szellő elkíséri Önt a történelmi Kármelhegyi Boldogasszony-templomhoz.\n\nEbédidőben éri el Brela jelképét, a tengerben álló jellegzetes sziklát. Élvezze a napsütést a híres Punta Rata strandon, ahol az azúrkék víz hűsítő fürdőzésre csábít.\n\nA délután a pihenésé a festői Podrače-öbölben. A sziklaalakzatok egyedülálló hátteret biztosítanak az emlékfotókhoz és a közvetlenül a vízparton töltött nyugodt pillanatokhoz.\n\nZárja a napot a sétány egyik hangulatos éttermében. Egy pohár helyi bor mellett nézheti végig, ahogy a nap lassan lebukik Brač szigete mögött.",
+            "ro": "Începeți dimineața cu liniștea sacră a Bisericii Sfântul Ștefan, apoi faceți o plimbare relaxantă pe promenada mărginită de pini. Briza proaspătă a mării vă însoțește spre biserica istorică Maica Domnului de pe Muntele Carmel.\n\nLa prânz, ajungeți la simbolul stațiunii Brela, celebra stâncă din mare. Bucurați-vă de soare pe faimoasa plajă Punta Rata, unde apa azurie vă invită la o baie răcoritoare.\n\nDupă-amiaza este dedicată relaxării în golful pitoresc Podrače. Formațiunile stâncoase oferă un decor unic pentru fotografii de neuitat și momente liniștite chiar lângă apă.\n\nÎncheiați ziua într-unul dintre restaurantele primitoare de pe faleză. Cu un pahar de vin local, puteți privi cum soarele apune încet în spatele insulei Brač.",
+            "en": "Start your morning with the sacred silence of St. Stephen's Church, then take a leisurely stroll along the pine-lined seaside promenade. The fresh sea breeze accompanies you to the historic Church of Our Lady of Mount Carmel.\n\nAt lunchtime, you reach the landmark of Brela, the distinctive rock in the sea. Enjoy the sun at the famous Punta Rata beach, where the azure water invites you for a refreshing swim.\n\nIn the afternoon, relax in the picturesque Podrače bay. The rock formations provide a unique backdrop for souvenir photos and quiet moments right by the water.\n\nEnd the day in one of the cozy restaurants on the promenade. With a glass of local wine, you can watch the sun slowly set behind the island of Brač."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche des Hl. Stephan",
+                "hu": "Szent István-templom",
+                "ro": "Biserica Sfântul Ștefan",
+                "en": "Church of St. Stephen"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Barockaltäre dieser im 19. Jahrhundert erbauten Kirche.",
+                "hu": "Csodáld meg a 19. századi templom barokk oltárait.",
+                "ro": "Admirați altarele baroce ale acestei biserici construite în secolul al XIX-lea.",
+                "en": "Admire the Baroque altars of this 19th-century church."
+              }
+            },
+            {
+              "name": {
+                "de": "Uferpromenade von Brela",
+                "hu": "Brela tengerparti sétánya",
+                "ro": "Promenada din Brela",
+                "en": "Brela Seaside Promenade"
+              },
+              "tip_5lang": {
+                "de": "Ein schattiger Spaziergang unter Pinien entlang der Adria.",
+                "hu": "Árnyas séta a fenyőfák alatt az Adria partján.",
+                "ro": "O plimbare umbrită sub pini de-a lungul Adriaticii.",
+                "en": "A shaded walk under pine trees along the Adriatic coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Unserer Lieben Frau vom Berge Karmel",
+                "hu": "Kármelhegyi Boldogasszony-templom",
+                "ro": "Biserica Maicii Domnului de pe Muntele Carmel",
+                "en": "Church of Our Lady of Mount Carmel"
+              },
+              "tip_5lang": {
+                "de": "Diese Votivkirche wurde 1715 zum Sieg über die Osmanen errichtet.",
+                "hu": "Ez a fogadalmi templom 1715-ben épült a törökök feletti győzelem emlékére.",
+                "ro": "Această biserică votivă a fost ridicată în 1715 pentru victoria asupra otomanilor.",
+                "en": "This votive church was built in 1715 to commemorate the victory over the Ottomans."
+              }
+            },
+            {
+              "name": {
+                "de": "Stein von Brela",
+                "hu": "Brela-szikla",
+                "ro": "Piatra din Brela",
+                "en": "Brela Stone"
+              },
+              "tip_5lang": {
+                "de": "Das Wahrzeichen Kroatiens – ein bewachsener Fels im Meer.",
+                "hu": "Horvátország jelképe – egy fenyőfákkal borított szikla a tengerben.",
+                "ro": "Simbolul Croației – o stâncă acoperită de vegetație în mare.",
+                "en": "The symbol of Croatia – a pine-covered rock in the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Punta Rata",
+                "hu": "Punta Rata strand",
+                "ro": "Plaja Punta Rata",
+                "en": "Punta Rata Beach"
+              },
+              "tip_5lang": {
+                "de": "Einer der schönsten Kieselstrände der Welt mit kristallklarem Wasser.",
+                "hu": "A világ egyik legszebb kavicsos strandja kristálytiszta vízzel.",
+                "ro": "Una dintre cele mai frumoase plaje cu pietriș din lume, cu apă cristalină.",
+                "en": "One of the most beautiful pebble beaches in the world with crystal clear water."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Podrače",
+                "hu": "Podrače strand",
+                "ro": "Plaja Podrače",
+                "en": "Podrače Beach"
+              },
+              "tip_5lang": {
+                "de": "Eine fotogene Bucht, ideal zum Schnorcheln am Nachmittag.",
+                "hu": "Fotogén öböl, amely délutáni búvárkodáshoz is kiváló.",
+                "ro": "Un golf fotogenic, ideal pentru snorkeling după-amiaza.",
+                "en": "A photogenic cove, ideal for afternoon snorkeling."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Peka",
+                "tip": "Traditionell unter der Glocke gegartes Fleisch oder Tintenfisch im Restaurant Galinac."
+              },
+              {
+                "name": "Dalmatinische Pašticada",
+                "tip": "Geschmortes Rindfleisch mit Gnocchi, eine lokale Spezialität in der Konoba Feral."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Peka",
+                "tip": "Hagyományos, harang alatt sült hús vagy polip a Galinac étteremben."
+              },
+              {
+                "name": "Dalmát Pašticada",
+                "tip": "Párolt marhahús gnocchival, helyi különlegesség a Konoba Feralban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Peka",
+                "tip": "Carne sau caracatiță gătită tradițional sub un capac de fier la restaurantul Galinac."
+              },
+              {
+                "name": "Pašticada dalmată",
+                "tip": "Vită scăzută cu gnocchi, o specialitate locală la Konoba Feral."
+              }
+            ],
+            "en": [
+              {
+                "name": "Peka",
+                "tip": "Traditional meat or octopus cooked under a bell at Galinac Restaurant."
+              },
+              {
+                "name": "Dalmatian Pašticada",
+                "tip": "Braised beef with gnocchi, a local specialty at Konoba Feral."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Vruja-Aussichtspunkt",
+                "tip": "Panoramablick auf die Bucht von oben.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Pinienwald am Strand Berulija",
+                "tip": "Ruhiger Schattenplatz abseits der Massen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vruja kilátópont",
+                "tip": "Panorámás kilátás az öbölre felülről.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Fenyőerdő a Berulija strandon",
+                "tip": "Csendes, árnyékos hely a tömegtől távol.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punct de belvedere Vruja",
+                "tip": "Vedere panoramică asupra golfului de sus.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Pădurea de pini de la plaja Berulija",
+                "tip": "Loc umbrit și liniștit, departe de aglomerație.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Vruja Viewpoint",
+                "tip": "Panoramic view of the bay from above.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Pine forest at Berulija Beach",
+                "tip": "Quiet shaded spot away from the crowds.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokal hergestelltes Olivenöl",
+                "tip": "Kaufen Sie direkt bei den Bauern in den oberen Ortsteilen."
+              },
+              {
+                "name": "Lavendelsäckchen",
+                "tip": "Ein duftendes Souvenir von den Marktständen am Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi olívaolaj",
+                "tip": "Vásároljon közvetlenül a termelőktől a felső falurészekben."
+              },
+              {
+                "name": "Levendulazsákok",
+                "tip": "Illatos emléktárgy a kikötői árusoktól."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline local",
+                "tip": "Cumpărați direct de la producători în părțile de sus ale satului."
+              },
+              {
+                "name": "Săculeți cu lavandă",
+                "tip": "Un suvenir parfumat de la tarabele din port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Locally produced olive oil",
+                "tip": "Buy directly from farmers in the upper parts of the village."
+              },
+              {
+                "name": "Lavender sachets",
+                "tip": "A fragrant souvenir from the market stalls at the harbor."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die Promenade.",
+              "Besuchen Sie Punta Rata früh am Morgen, um den Massen zu entgehen.",
+              "Nutzen Sie die Schattenplätze unter den Pinien.",
+              "Bringen Sie Badeschuhe für die Kieselstrände mit."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a sétányhoz.",
+              "Látogasson el korán a Punta Rata strandra a tömeg elkerülése végett.",
+              "Használja ki a fenyőfák nyújtotta árnyékot.",
+              "Hozzon úszócipőt a kavicsos strandokhoz."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru promenadă.",
+              "Vizitați plaja Punta Rata dimineața devreme pentru a evita aglomerația.",
+              "Profități de locurile umbrite sub pini.",
+              "Aduceți încălțăminte de apă pentru plajele cu pietriș."
+            ],
+            "en": [
+              "Wear comfortable shoes for the promenade.",
+              "Visit Punta Rata early in the morning to avoid the crowds.",
+              "Make use of the shaded areas under the pine trees.",
+              "Bring water shoes for the pebble beaches."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die St.-Stephans-Kirche Schutz vor dem Regen. Mittags führt der Weg unter dichten Pinien an der Promenade entlang, die natürlichen Schirm bieten. Nachmittags erleben Sie die dramatische Brandung am Brela-Stein. Abends kehren Sie in eine gemütliche Konoba im Zentrum ein, während der Regen gegen die Fenster prasselt und das Meer draußen rauscht.",
+            "hu": "Reggel a Szent István-templom belső tere nyújt menedéket a szemerkélő eső elől. Délben a parti sétány fenyőfái alatt sétálunk, amelyek természetes esernyőként védenek. Délután a Brela-sziklánál figyeljük a viharos hullámokat. Este a városközpont egyik hangulatos konobájában melegszünk fel, miközben hallgatjuk a tenger morajlását és az eső kopogását.",
+            "ro": "Dimineața, Biserica Sf. Ștefan oferă un adăpost liniștit împotriva ploii. La prânz, plimbarea pe faleză sub pinii deși oferă o protecție naturală. După-amiaza, admirăm valurile dramatice care se sparg de Piatra Brela. Seara, ne retragem într-o tavernă locală primitoare, savurând atmosfera caldă în timp ce ploaia cade peste mare.",
+            "en": "In the morning, St. Stephen's Church provides a peaceful dry start. At noon, the thick pine trees along the promenade act as a natural umbrella for your walk. In the afternoon, witness the dramatic waves crashing against the Brela Stone. In the evening, retreat to a cozy local konoba, enjoying the sound of the rain and the rhythmic sea outside."
+          },
+          "stops": [
+            {
+              "name": "Church of St. Stephen",
+              "tip_4lang": {
+                "de": "Ideal, um den ersten Regenschauer trocken zu überstehen.",
+                "hu": "Tökéletes hely az első zápor kivárására szárazon.",
+                "ro": "Locul ideal pentru a aștepta trecerea primei averse.",
+                "en": "Ideal place to wait out the first rain shower in the dry."
+              }
+            },
+            {
+              "name": "Brela Seaside Promenade",
+              "tip_4lang": {
+                "de": "Die Pinien bieten guten Schutz; Vorsicht auf rutschigen Steinen.",
+                "hu": "A fenyők jól védenek; vigyázzon a csúszós köveken.",
+                "ro": "Pinii oferă protecție bună; atenție la pietrele alunecoase.",
+                "en": "Pines offer good shelter; be careful on slippery stones."
+              }
+            },
+            {
+              "name": "Church of Our Lady of Mount Carmel",
+              "tip_4lang": {
+                "de": "Ein kleiner, trockener Rückzugsort mit historischem Charme.",
+                "hu": "Apró, száraz menedék történelmi bájjal.",
+                "ro": "Un mic refugiu uscat, plin de farmec istoric.",
+                "en": "A small, dry retreat full of historical charm."
+              }
+            },
+            {
+              "name": "Brela Stone",
+              "tip_4lang": {
+                "de": "Fotogen auch bei grauem Himmel; die Wellen sind hier wilder.",
+                "hu": "Szürke ég alatt is fotogén; a hullámok itt vadabbak.",
+                "ro": "Fotogenic chiar și sub cer gri; valurile sunt mai sălbatice.",
+                "en": "Photogenic even under gray skies; waves are wilder here."
+              }
+            },
+            {
+              "name": "Punta Rata Beach",
+              "tip_4lang": {
+                "de": "Genießen Sie die melancholische Schönheit des leeren Strandes.",
+                "hu": "Élvezze az üres tengerpart melankolikus szépségét.",
+                "ro": "Bucurați-vă de frumusețea melancolică a plajei pustii.",
+                "en": "Enjoy the melancholic beauty of the empty beach."
+              }
+            },
+            {
+              "name": "Podrače Beach",
+              "tip_4lang": {
+                "de": "Die Felsformationen bieten bei Wind etwas Schutz.",
+                "hu": "A sziklaalakzatok némi szélvédelmet nyújtanak.",
+                "ro": "Formațiunile stâncoase oferă puțin adăpost contra vântului.",
+                "en": "Rock formations offer some shelter from the wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie rutschfeste Schuhe, da die gepflasterten Wege glatt werden.",
+              "Nutzen Sie die dichten Pinienwälder als natürlichen Regenschutz.",
+              "Viele Cafés an der Riva haben überdachte Außenbereiche.",
+              "Ein stabiler Regenschirm ist wegen der Meeresbrise wichtig."
+            ],
+            "hu": [
+              "Viseljen csúszásmentes cipőt, mert a köves utak síkossá válnak.",
+              "Használja a sűrű fenyveseket természetes esővédőként.",
+              "A kikötői kávézók többsége fedett terasszal rendelkezik.",
+              "A tengeri szél miatt érdemes stabil esernyőt választani."
+            ],
+            "ro": [
+              "Purtați încălțăminte antiderapantă, pavajul devine alunecos.",
+              "Folosiți pădurile de pini ca protecție naturală contra ploii.",
+              "Multe cafenele de pe rivieră au terase acoperite.",
+              "O umbrelă rezistentă este necesară din cauza brizelor marine."
+            ],
+            "en": [
+              "Wear non-slip shoes as the stone paths become slippery.",
+              "Use the dense pine forests as natural rain protection.",
+              "Many waterfront cafes have covered outdoor seating.",
+              "A sturdy umbrella is essential due to the sea breeze."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Morgen liegt eine friedliche Stille über Brela, perfekt für den Kirchenbesuch. Mittags wärmt die tiefstehende Wintersonne die Promenade, während der Bura-Wind die Luft klärt. Nachmittags leuchten die Felsen am Strand in goldenem Licht. Abends, wenn es früh dunkel wird, genießen Sie die absolute Ruhe des Ortes, fernab vom Sommertrubel.",
+            "hu": "Reggel békés csend honol Brela felett, ideális a templomok felfedezéséhez. Délben az alacsonyan járó téli nap melengeti a sétányt, miközben a bóra tisztára mossa a levegőt. Délután az üres tengerpart sziklái aranyszínben tündökölnek. Este, a korai sötétedéskor élvezze a falu mély nyugalmát, messze a nyári tömegtől.",
+            "ro": "Dimineața, o liniște deplină stăpânește Brela, ideală pentru vizitarea bisericilor. La prânz, soarele blând de iarnă încălzește faleza, în timp ce vântul Bura purifică aerul. După-amiaza, stâncile plajei strălucesc în lumina aurie. Seara, odată cu întunericul timpuriu, savurați pacea localității, departe de agitația verii.",
+            "en": "In the morning, a peaceful silence covers Brela, perfect for visiting the churches. At noon, the low winter sun warms the promenade while the Bura wind clears the air. In the afternoon, the rocks on the beach glow in golden light. In the evening, as darkness falls early, enjoy the profound quiet of the village, far from the summer crowds."
+          },
+          "stops": [
+            {
+              "name": "Church of St. Stephen",
+              "tip_4lang": {
+                "de": "Ein ruhiger Ort zur Besinnung ohne touristischen Andrang.",
+                "hu": "Csendes hely az elmélyüléshez, turistaáradat nélkül.",
+                "ro": "Un loc liniștit pentru reflecție, fără mulțimi de turiști.",
+                "en": "A quiet place for reflection without the tourist crowds."
+              }
+            },
+            {
+              "name": "Brela Seaside Promenade",
+              "tip_4lang": {
+                "de": "Frische Bura-Luft genießen; ziehen Sie sich winddicht an.",
+                "hu": "Élvezze a friss bórát; öltözzön szélállóan.",
+                "ro": "Bucurați-vă de aerul proaspăt; purtați haine rezistente la vânt.",
+                "en": "Enjoy the fresh Bura air; wear windproof clothing."
+              }
+            },
+            {
+              "name": "Church of Our Lady of Mount Carmel",
+              "tip_4lang": {
+                "de": "Im Winter oft der einzige belebte Punkt im Viertel.",
+                "hu": "Télen gyakran ez az egyetlen élettel teli pont a környéken.",
+                "ro": "Iarna este adesea singurul punct animat din zonă.",
+                "en": "In winter, often the only lively spot in the neighborhood."
+              }
+            },
+            {
+              "name": "Brela Stone",
+              "tip_4lang": {
+                "de": "Perfektes Fotolicht bei tiefstehender Wintersonne.",
+                "hu": "Tökéletes fotófények az alacsonyan járó téli napnál.",
+                "ro": "Lumină perfectă pentru fotografii datorită soarelui de iarnă.",
+                "en": "Perfect photo light with the low winter sun."
+              }
+            },
+            {
+              "name": "Punta Rata Beach",
+              "tip_4lang": {
+                "de": "Ideal für einen einsamen Spaziergang am klaren Wasser.",
+                "hu": "Ideális egy magányos sétához a kristálytiszta víznél.",
+                "ro": "Ideal pentru o plimbare solitară lângă apa cristalină.",
+                "en": "Ideal for a solitary walk by the crystal-clear water."
+              }
+            },
+            {
+              "name": "Podrače Beach",
+              "tip_4lang": {
+                "de": "Beobachten Sie den Sonnenuntergang schon gegen 16:30 Uhr.",
+                "hu": "Nézze meg a naplementét már délután fél 5 körül.",
+                "ro": "Admirați apusul de soare deja în jurul orei 16:30.",
+                "en": "Watch the sunset as early as 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Bura-Wind kann sehr kalt sein, Zwiebelprinzip ist Pflicht.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Viele Restaurants haben Winterpause; prüfen Sie Öffnungszeiten vorab.",
+              "Die Luft ist im Winter extrem klar, ideal für Fernsichten."
+            ],
+            "hu": [
+              "A bóra szél nagyon hideg lehet, öltözzön rétegesen.",
+              "Télen a nap már 16:30 körül lenyugszik.",
+              "Sok étterem zárva tart; előre ellenőrizze a nyitvatartást.",
+              "A levegő télen rendkívül tiszta, ideális a távoli kilátáshoz."
+            ],
+            "ro": [
+              "Vântul Bura poate fi foarte rece, îmbrăcați-vă în straturi.",
+              "Iarna, soarele apune deja în jurul orei 16:30.",
+              "Multe restaurante sunt închise; verificați programul în avans.",
+              "Aerul este extrem de clar iarna, ideal pentru panorame."
+            ],
+            "en": [
+              "The Bura wind can be very cold, layering is mandatory.",
+              "The sun sets around 4:30 PM in the winter.",
+              "Many restaurants are closed; check opening hours in advance.",
+              "The air is extremely clear in winter, ideal for long-distance views."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -559,6 +995,358 @@
           "An e-bike is recommended for the Chapel of St. Elias.",
           "Use the bike paths away from the main road."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Radtour auf der ebenen Uferpromenade von Brela, wo Sie die frische Meeresluft genießen können. Ein erster Stopp am Stein von Brela bietet das perfekte Motiv für den Morgen.\n\nAnschließend führt der Weg nach Norden zur beeindruckenden Vruja-Bucht. Hier treffen steile Felswände auf das Meer, und Unterwasserquellen sorgen für kühles, kristallklares Wasser.\n\nDer anspruchsvollste Teil folgt am frühen Nachmittag mit der Fahrt hinauf zur Kapelle des Hl. Elias. Von hier oben haben Sie einen atemberaubenden Blick über die gesamte Riviera und die vorgelagerten Inseln.\n\nZurück an der Küste können Sie am Strand Punta Rata entspannen. Das Radfahren direkt am Meer bei Sonnenuntergang ist der ideale Abschluss für diesen aktiven Tag.",
+            "hu": "Kezdje a biciklitúrát Brela sík tengerparti sétányán, ahol élvezheti a friss tengeri levegőt. Az első megálló a Brela-sziklánál tökéletes motívumot kínál a reggelihez.\n\nEzt követően az út északra, a lenyűgöző Vruja-öbölhöz vezet. Itt meredek sziklafalak találkoznak a tengerrel, a víz alatti források pedig hűvös, kristálytiszta vizet biztosítanak.\n\nA legnagyobb kihívást jelentő rész kora délután következik a Szent Illés-kápolnához vezető emelkedővel. Innen fentről lélegzetelállító kilátás nyílik az egész riviérára és a szemközti szigetekre.\n\nVisszatérve a partra, a Punta Rata strandon pihenhet meg. A közvetlenül a tengerparton, naplementekor történő biciklizés ideális lezárása ennek az aktív napnak.",
+            "ro": "Începeți tura cu bicicleta pe promenada plană din Brela, unde vă puteți bucura de aerul proaspăt de mare. O primă oprire la Piatra din Brela oferă motivul perfect pentru dimineață.\n\nUlterior, drumul duce spre nord către impresionantul golf Vruja. Aici, pereții stâncoși abrupți întâlnesc marea, iar izvoarele subacvatice asigură o apă rece și cristalină.\n\nCea mai solicitantă parte urmează după-amiaza devreme, cu urcarea spre Capela Sfântul Ilie. De aici de sus, aveți o vedere uluitoare peste întreaga Rivieră și insulele din larg.\n\nÎnapoi pe coastă, vă puteți relaxa pe plaja Punta Rata. Mersul cu bicicleta chiar pe malul mării la apus este încheierea ideală pentru această zi activă.",
+            "en": "Start your bike tour on the flat seaside promenade of Brela, where you can enjoy the fresh sea air. A first stop at the Brela Stone provides the perfect morning photo opportunity.\n\nAfterwards, the route leads north to the impressive Vruja Bay. Here, steep cliffs meet the sea, and underwater springs ensure cool, crystal-clear water.\n\nThe most challenging part follows in the early afternoon with the ride up to the Chapel of St. Elias. From up here, you have a breathtaking view over the entire Riviera and the offshore islands.\n\nBack on the coast, you can relax at Punta Rata beach. Cycling right by the sea at sunset is the ideal end to this active day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Uferpromenade von Brela",
+                "hu": "Brela tengerparti sétánya",
+                "ro": "Promenada din Brela",
+                "en": "Brela Seaside Promenade"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf Fußgänger Rücksicht nehmend.",
+                "hu": "Óvatosan biciklizzen, tekintettel a gyalogosokra.",
+                "ro": "Circulați cu atenție, respectând pietonii.",
+                "en": "Ride carefully, showing consideration for pedestrians."
+              }
+            },
+            {
+              "name": {
+                "de": "Stein von Brela",
+                "hu": "Brela-szikla",
+                "ro": "Piatra din Brela",
+                "en": "Brela Stone"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp am berühmtesten Felsen der Makarska Riviera.",
+                "hu": "Rövid fotómegálló a Makarskai Riviéra leghíresebb sziklájánál.",
+                "ro": "Scurt popas pentru fotografii la cea mai celebră stâncă de pe Riviera Makarska.",
+                "en": "Short photo stop at the most famous rock of the Makarska Riviera."
+              }
+            },
+            {
+              "name": {
+                "de": "Vruja-Bucht",
+                "hu": "Vruja-öböl",
+                "ro": "Golful Vruja",
+                "en": "Vruja Bay"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die spektakulären Unterwasserquellen in dieser Bucht.",
+                "hu": "Fedezze fel az öböl látványos víz alatti forrásait.",
+                "ro": "Experimentați izvoarele subacvatice spectaculoase din acest golf.",
+                "en": "Experience the spectacular underwater springs in this bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle des Hl. Elias",
+                "hu": "Szent Illés-kápolna",
+                "ro": "Capela Sfântul Ilie",
+                "en": "Chapel of St. Elias"
+              },
+              "tip_5lang": {
+                "de": "Ein anstrengender Anstieg, der mit herrlicher Aussicht belohnt wird.",
+                "hu": "Meredek emelkedő, amelyet csodálatos kilátás jutalmaz.",
+                "ro": "O urcare solicitantă, răsplătită cu o priveliște superbă.",
+                "en": "A demanding climb rewarded with magnificent views."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Punta Rata",
+                "hu": "Punta Rata strand",
+                "ro": "Plaja Punta Rata",
+                "en": "Punta Rata Beach"
+              },
+              "tip_5lang": {
+                "de": "Verdiente Abkühlung nach der Radtour.",
+                "hu": "Megérdemelt hűsölés a biciklitúra után.",
+                "ro": "Răcorire binemeritată după tura cu bicicleta.",
+                "en": "Well-deserved cool down after the bike tour."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Schwarzes Risotto",
+                "tip": "Tintenfisch-Risotto, ideal als leichtes Mittagessen in der Konoba Ivandića Dvori."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fekete rizottó",
+                "tip": "Tintahalas rizottó, ideális könnyű ebéd a Konoba Ivandića Dvori-ban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Risotto negru",
+                "tip": "Risotto cu cerneală de sepie, ideal pentru un prânz ușor la Konoba Ivandića Dvori."
+              }
+            ],
+            "en": [
+              {
+                "name": "Black Risotto",
+                "tip": "Cuttlefish risotto, ideal for a light lunch at Konoba Ivandića Dvori."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kapelle des Hl. Elias",
+                "tip": "Stille und Weite hoch über der Küste.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szent Illés-kápolna",
+                "tip": "Csend és tágas tér magasan a part felett.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Capela Sfântul Ilie",
+                "tip": "Liniște și spațiu deschis sus deasupra coastei.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Chapel of St. Elias",
+                "tip": "Silence and vastness high above the coast.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Honig vom Biokovo",
+                "tip": "Würziger Gebirgshonig, direkt am Wegrand erhältlich."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Biokovo méz",
+                "tip": "Fűszeres hegyi méz, közvetlenül az út mentén kapható."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere din Biokovo",
+                "tip": "Miere de munte aromată, disponibilă direct la marginea drumului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Biokovo Honey",
+                "tip": "Flavorful mountain honey, available directly by the roadside."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Berg.",
+              "Nehmen Sie ausreichend Wasser für den Anstieg mit.",
+              "Ein E-Bike ist für die Kapelle des Hl. Elias empfehlenswert.",
+              "Nutzen Sie die Radwege abseits der Hauptstraße."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket a hegyről való leereszkedés előtt.",
+              "Vigyen magával elegendő vizet az emelkedőhöz.",
+              "A Szent Illés-kápolnához e-bike ajánlott.",
+              "Használja a főúttól távolabb eső kerékpárutakat."
+            ],
+            "ro": [
+              "Verificați frânele înainte de coborârea de pe munte.",
+              "Luați suficientă apă pentru urcare.",
+              "O bicicletă electrică este recomandată pentru Capela Sfântul Ilie.",
+              "Folosiți pistele de biciclete departe de drumul principal."
+            ],
+            "en": [
+              "Check your brakes before descending from the mountain.",
+              "Take plenty of water for the climb.",
+              "An e-bike is recommended for the Chapel of St. Elias.",
+              "Use the bike paths away from the main road."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Vormittag radeln Sie vorsichtig über die feuchte Promenade. Mittags bietet der Brela-Stein ein beeindruckendes Bild in der Gischt. Die Fahrt zur Vruja-Bucht ist bei Regen anspruchsvoll, aber die Aussicht auf die mystischen Nebel über dem Meer belohnt die Mühe. Nachmittags suchen Sie Schutz in der kleinen Kapelle, bevor Sie die Rückfahrt antreten.",
+            "hu": "Délelőtt óvatosan tekerjen a nedves tengerparti sétányon. Délben a Brela-szikla lenyűgöző látványt nyújt a permetező vízben. Az út a Vruja-öbölhöz esőben kihívást jelent, de a ködös tenger látványa kárpótolja. Délután keressen menedéket a kis kápolnánál, mielőtt megkezdené a visszafelé vezető utat.",
+            "ro": "Dimineața, pedalați cu atenție pe faleza umedă. La prânz, Piatra Brela oferă o imagine impresionantă în spuma mării. Drumul spre Golful Vruja este solicitant pe ploaie, dar ceața mistică de deasupra mării merită efortul. După-amiaza, căutați adăpost la mica capelă înainte de întoarcere.",
+            "en": "In the forenoon, cycle carefully along the damp seaside promenade. At noon, the Brela Stone presents an impressive sight in the spray. The ride to Vruja Bay is challenging in the rain, but the view of mystical mists over the sea rewards the effort. In the afternoon, seek shelter at the small chapel before heading back."
+          },
+          "stops": [
+            {
+              "name": "Brela Seaside Promenade",
+              "tip_4lang": {
+                "de": "Vermeiden Sie schnelle Kurven auf nassem Asphalt.",
+                "hu": "Kerülje a gyors kanyarodást a nedves aszfalton.",
+                "ro": "Evitați virajele rapide pe asfaltul ud.",
+                "en": "Avoid sharp turns on wet asphalt."
+              }
+            },
+            {
+              "name": "Brela Stone",
+              "tip_4lang": {
+                "de": "Kurzer Stopp für Fotos; achten Sie auf glatte Felsen.",
+                "hu": "Rövid fotómegálló; vigyázzon a csúszós sziklákra.",
+                "ro": "Scurt popas pentru poze; atenție la stâncile lucioase.",
+                "en": "Short photo stop; watch out for slippery rocks."
+              }
+            },
+            {
+              "name": "Vruja Bay",
+              "tip_4lang": {
+                "de": "Abfahrt bei Regen nur für erfahrene Radfahrer geeignet.",
+                "hu": "Az ereszkedés esőben csak tapasztalt kerékpárosoknak ajánlott.",
+                "ro": "Coborârea pe ploaie este recomandată doar cicliștilor experimentați.",
+                "en": "Descent in rain is only recommended for experienced cyclists."
+              }
+            },
+            {
+              "name": "Chapel of St. Elias",
+              "tip_4lang": {
+                "de": "Ein willkommener trockener Ort nach dem Anstieg.",
+                "hu": "Szívesen látott száraz hely a felfelé tekerés után.",
+                "ro": "Un loc uscat binevenit după urcare.",
+                "en": "A welcome dry spot after the climb."
+              }
+            },
+            {
+              "name": "Punta Rata Beach",
+              "tip_4lang": {
+                "de": "Die Cafés hier bieten meist Unterstand für Räder.",
+                "hu": "Az itteni kávézók többségénél van fedett kerékpártároló.",
+                "ro": "Cafenelele de aici oferă de obicei adăpost pentru biciclete.",
+                "en": "Cafes here usually offer shelter for bikes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Bremsen Sie auf nassem Untergrund frühzeitig und sanft.",
+              "Vermeiden Sie Markierungen auf der Straße, diese sind extrem glatt.",
+              "Wasserdichte Packtaschen sind für die Ausrüstung unerlässlich."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "Nedves talajon fékezzen időben és finoman.",
+              "Kerülje az útburkolati jeleket, mert rendkívül csúsznak.",
+              "A felszereléséhez vízhatlan táska elengedhetetlen."
+            ],
+            "ro": [
+              "Folosiți aripi de protecție împotriva apei împroșcate.",
+              "Frânați din timp și ușor pe suprafețe umede.",
+              "Evitați marcajele rutiere, sunt extrem de alunecoase.",
+              "Gențile impermeabile sunt esențiale pentru echipament."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from spray water.",
+              "Brake early and gently on wet surfaces.",
+              "Avoid road markings as they are extremely slippery.",
+              "Waterproof panniers are essential for your gear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Luft am Meer glasklar, ideal für eine Radtour. Am Brela-Stein genießen Sie die Wintersonne ohne Menschenmassen. Der Anstieg zur Vruja-Bucht hält Sie warm, und die Aussicht auf die Inseln ist im Winter oft klarer als im Sommer. Nachmittags erreichen Sie die Kapelle des Hl. Elias, bevor Sie die Abfahrt im kühlen Wind genießen.",
+            "hu": "Reggel a tengeri levegő kristálytiszta, ideális a biciklizéshez. A Brela-sziklánál élvezze a téli napsütést tömeg nélkül. A Vruja-öbölhöz vezető emelkedő melegen tartja, a kilátás a szigetekre pedig télen gyakran tisztább. Délután érje el a Szent Illés-kápolnát, mielőtt megkezdené a gurulást a hűvös szélben.",
+            "ro": "Dimineața, aerul marin este extrem de clar, ideal pentru ciclism. La Piatra Brela, bucurați-vă de soarele de iarnă fără mulțimi. Urcarea spre Golful Vruja vă va menține cald, iar priveliștea spre insule este adesea mai clară iarna. După-amiaza, ajungeți la Capela Sf. Ilie înainte de coborârea în vântul răcoros.",
+            "en": "In the morning, the sea air is crystal clear, ideal for a bike tour. At the Brela Stone, enjoy the winter sun without the crowds. The climb to Vruja Bay keeps you warm, and the view of the islands is often clearer in winter than in summer. In the afternoon, reach the Chapel of St. Elias before enjoying the descent in the cool wind."
+          },
+          "stops": [
+            {
+              "name": "Brela Seaside Promenade",
+              "tip_4lang": {
+                "de": "Warme Handschuhe sind gegen den Fahrtwind wichtig.",
+                "hu": "A menetszél ellen fontos a meleg kesztyű.",
+                "ro": "Mănușile groase sunt esențiale împotriva curentului.",
+                "en": "Warm gloves are important against the wind chill."
+              }
+            },
+            {
+              "name": "Brela Stone",
+              "tip_4lang": {
+                "de": "Ein herrlicher Ort für eine kurze, sonnige Pause.",
+                "hu": "Pompás hely egy rövid, napsütéses szünethez.",
+                "ro": "Un loc minunat pentru o scurtă pauză însorită.",
+                "en": "A wonderful spot for a short, sunny break."
+              }
+            },
+            {
+              "name": "Vruja Bay",
+              "tip_4lang": {
+                "de": "Der Wind kann hier oben an der Kante sehr stark sein.",
+                "hu": "Itt fent, a peremnél nagyon erős lehet a szél.",
+                "ro": "Vântul poate fi foarte puternic aici, pe creastă.",
+                "en": "The wind can be very strong up here on the edge."
+              }
+            },
+            {
+              "name": "Chapel of St. Elias",
+              "tip_4lang": {
+                "de": "Genießen Sie das Panorama, solange die Sonne noch wärmt.",
+                "hu": "Élvezze a panorámát, amíg a nap még melegít.",
+                "ro": "Bucurați-vă de panoramă cât timp soarele încă încălzește.",
+                "en": "Enjoy the panorama while the sun is still warming."
+              }
+            },
+            {
+              "name": "Punta Rata Beach",
+              "tip_4lang": {
+                "de": "Perfekter Abschluss vor dem frühen Sonnenuntergang.",
+                "hu": "Tökéletes befejezés a korai naplemente előtt.",
+                "ro": "Final perfect înainte de apusul de soare timpuriu.",
+                "en": "Perfect finish before the early sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Funktionskleidung in Schichten gegen Auskühlung.",
+              "Ein Buff oder Halstuch schützt Gesicht und Hals vor Bura.",
+              "Achten Sie auf verkürzte Tageslichtstunden für Ihre Planung.",
+              "Warme Getränke in einer Thermoskanne mitnehmen."
+            ],
+            "hu": [
+              "Réteges technikai ruházattal védekezzen a kihűlés ellen.",
+              "Csősál védi az arcot és a nyakat a bóra ellen.",
+              "Tervezéskor vegye figyelembe a korai sötétedést.",
+              "Vigyen magával meleg italt termoszban."
+            ],
+            "ro": [
+              "Purtați haine tehnice în straturi contra răcirii.",
+              "Un fular tip tub protejează fața și gâtul de Bura.",
+              "Țineți cont de orele puține de lumină în planificare.",
+              "Luați băuturi calde într-un termos."
+            ],
+            "en": [
+              "Wear functional clothing in layers to prevent cooling.",
+              "A buff or neck gaiter protects face and neck from Bura.",
+              "Keep shortened daylight hours in mind for your planning.",
+              "Take warm drinks in a thermos flask."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -798,6 +1586,358 @@
           "Refuel in neighboring Baška Voda.",
           "Drive carefully on the coastal road during wind (Bura)."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihren Tag bequem mit dem Auto an der St.-Stephans-Kirche, bevor Sie die Küstenstraße nach Norden zur Vruja-Bucht nehmen. Der Ausblick vom Parkplatz oben an der Straße ist unvergleichlich.\n\nFahren Sie danach hinauf in die Bergwelt des Biokovo zur Kapelle des Hl. Elias. Die kurvenreiche Strecke bietet spektakuläre Ausblicke auf das Adriatische Meer und das Inselarchipel.\n\nAm Mittag kehren Sie an die Küste zurück, um den Stein von Brela zu bewundern. Da das Parken im Zentrum schwierig sein kann, nutzen Sie am besten die markierten Parkplätze in Hafennähe.\n\nVerbringen Sie den Rest des Tages am Strand Punta Rata. Mit dem Auto sind Sie flexibel und können den Tag entspannt ausklingen lassen, ohne auf Fahrpläne achten zu müssen.",
+            "hu": "Kezdje a napot kényelmesen autóval a Szent István-templomnál, mielőtt elindulna észak felé a tengerparti úton a Vruja-öbölhöz. Az út menti parkolóból nyíló kilátás párját ritkítja.\n\nEzután hajtson fel a Biokovo hegyvilágába a Szent Illés-kápolnához. A kanyargós út látványos kilátást nyújt az Adriai-tengerre és a szigetvilágra.\n\nDélben térjen vissza a partra, hogy megcsodálja a Brela-sziklát. Mivel a központban nehézkes lehet a parkolás, érdemes a kikötő közeli kijelölt helyeket igénybe venni.\n\nA nap hátralévő részét töltse a Punta Rata strandon. Autóval rugalmas maradhat, és nyugodtan zárhatja a napot anélkül, hogy a menetrendekhez kellene igazodnia.",
+            "ro": "Începeți ziua confortabil cu mașina la Biserica Sfântul Ștefan, înainte de a porni spre nord pe drumul de coastă către golful Vruja. Priveliștea de la parcarea de sus, de lângă drum, este inegalabilă.\n\nConduceți apoi spre munții Biokovo către Capela Sfântul Ilie. Traseul șerpuitor oferă vederi spectaculoase asupra Mării Adriatice și a arhipelagului de insule.\n\nLa prânz, reveniți pe coastă pentru a admira Piatra din Brela. Deoarece parcarea în centru poate fi dificilă, cel mai bine este să folosiți parcările marcate din apropierea portului.\n\nPetreceți restul zilei pe plaja Punta Rata. Cu mașina sunteți flexibil și puteți încheia ziua relaxat, fără a fi nevoie să urmăriți programele de transport.",
+            "en": "Start your day comfortably by car at St. Stephen's Church before taking the coastal road north to Vruja Bay. The view from the parking area above the road is unparalleled.\n\nThen drive up into the Biokovo mountains to the Chapel of St. Elias. The winding route offers spectacular views of the Adriatic Sea and the archipelago of islands.\n\nAt noon, return to the coast to admire the Brela Stone. As parking in the center can be difficult, it is best to use the marked parking spaces near the harbor.\n\nSpend the rest of the day at Punta Rata beach. With a car, you are flexible and can end the day in a relaxed manner without having to worry about schedules."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche des Hl. Stephan",
+                "hu": "Szent István-templom",
+                "ro": "Biserica Sfântul Ștefan",
+                "en": "Church of St. Stephen"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze sind in der Nähe der Kirche begrenzt vorhanden.",
+                "hu": "A templom közelében korlátozott számban állnak rendelkezésre parkolóhelyek.",
+                "ro": "Locurile de parcare sunt limitate în apropierea bisericii.",
+                "en": "Parking spaces are limited near the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Vruja-Bucht",
+                "hu": "Vruja-öböl",
+                "ro": "Golful Vruja",
+                "en": "Vruja Bay"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz an der Hauptstraße hat man den besten Panoramablick.",
+                "hu": "A főút melletti parkolóból nyílik a legjobb panorámás kilátás.",
+                "ro": "De la parcarea de pe drumul principal aveți cea mai bună vedere panoramică.",
+                "en": "The best panoramic view is from the parking area on the main road."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle des Hl. Elias",
+                "hu": "Szent Illés-kápolna",
+                "ro": "Capela Sfântul Ilie",
+                "en": "Chapel of St. Elias"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt erfolgt über eine schmale, steile Bergstraße.",
+                "hu": "A megközelítés szűk, meredek hegyi úton történik.",
+                "ro": "Accesul se face pe un drum de munte îngust și abrupt.",
+                "en": "The approach is via a narrow, steep mountain road."
+              }
+            },
+            {
+              "name": {
+                "de": "Stein von Brela",
+                "hu": "Brela-szikla",
+                "ro": "Piatra din Brela",
+                "en": "Brela Stone"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in den kostenpflichtigen Zonen am Hafen.",
+                "hu": "Parkoljon a kikötő fizetős zónáiban.",
+                "ro": "Parcați în zonele cu plată de lângă port.",
+                "en": "Park in the paid zones near the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Punta Rata",
+                "hu": "Punta Rata strand",
+                "ro": "Plaja Punta Rata",
+                "en": "Punta Rata Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für einen langen Badeaufenthalt.",
+                "hu": "Ideális hely egy hosszú fürdőzéshez.",
+                "ro": "Un loc ideal pentru o ședere lungă la scăldat.",
+                "en": "An ideal place for a long swim."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Frischer Fisch",
+                "tip": "Wolfsbarsch oder Goldbrasse vom Grill im Restaurant Punta Rata."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Friss hal",
+                "tip": "Grillezett tengeri süllő vagy aranydurbincs a Punta Rata étteremben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pește proaspăt",
+                "tip": "Biban de mare sau doradă la grătar la restaurantul Punta Rata."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fresh Fish",
+                "tip": "Grilled sea bass or sea bream at Punta Rata Restaurant."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Oberes Brela (Gornja Brela)",
+                "tip": "Ruhiges Hinterland mit traditioneller Architektur.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gornja Brela (Felső-Brela)",
+                "tip": "Csendes hátország hagyományos építészettel.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brela de Sus (Gornja Brela)",
+                "tip": "Hinterland liniștit cu arhitectură tradițională.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Upper Brela (Gornja Brela)",
+                "tip": "Quiet hinterland with traditional architecture.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Dalmatinischer Schinken (Pršut)",
+                "tip": "Direkt bei lokalen Erzeugern im Hinterland kaufen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Dalmát sonka (Pršut)",
+                "tip": "Vásároljon közvetlenül a hátországi kistermelőktől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Șuncă dalmată (Pršut)",
+                "tip": "Cumpărați direct de la producătorii locali din interiorul țării."
+              }
+            ],
+            "en": [
+              {
+                "name": "Dalmatian Ham (Pršut)",
+                "tip": "Buy directly from local producers in the hinterland."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Achten Sie auf die teuren Parkgebühren in Strandnähe.",
+              "Die Bergstraße erfordert volle Konzentration.",
+              "Tanken Sie im benachbarten Baška Voda.",
+              "Fahren Sie auf der Küstenstraße vorsichtig bei Wind (Bura)."
+            ],
+            "hu": [
+              "Ügyeljen a strand közeli magas parkolási díjakra.",
+              "A hegyi út teljes koncentrációt igényel.",
+              "Tankoljon a szomszédos Baška Vodában.",
+              "Szél (Bura) esetén vezessen óvatosan a tengerparti úton."
+            ],
+            "ro": [
+              "Atenție la taxele de parcare scumpe din apropierea plajei.",
+              "Drumul de munte necesită concentrare maximă.",
+              "Alimentați în localitatea vecină Baška Voda.",
+              "Conduceți cu atenție pe drumul de coastă în caz de vânt (Bura)."
+            ],
+            "en": [
+              "Watch out for expensive parking fees near the beach.",
+              "The mountain road requires full concentration.",
+              "Refuel in neighboring Baška Voda.",
+              "Drive carefully on the coastal road during wind (Bura)."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittags fahren Sie bequem zur St.-Stephans-Kirche. Mittags bietet die Fahrt zur Vruja-Bucht spektakuläre Ausblicke aus dem trockenen Auto auf das stürmische Meer. Nachmittags besuchen Sie die Kapelle des Hl. Elias, bevor Sie zum Brela-Stein weiterfahren. Den Tag lassen Sie bei einem Abendessen mit Blick auf die regnerische Adria ausklingen.",
+            "hu": "Délelőtt kényelmesen hajtson el a Szent István-templomhoz. Délben a Vruja-öböl felé vezető út látványos kilátást nyújt a viharos tengerre a száraz autóból. Délután látogassa meg a Szent Illés-kápolnát, majd guruljon el a Brela-sziklához. A napot egy vacsorával zárja, ahonnan rálát az esős Adriára.",
+            "ro": "Dimineața, conduceți confortabil spre Biserica Sf. Ștefan. La prânz, drumul spre Golful Vruja oferă vederi spectaculoase spre marea înfuriată din mașina uscată. După-amiaza vizitați Capela Sf. Ilie, apoi continuați spre Piatra Brela. Încheiați ziua cu o cină cu vedere spre Adriatica ploioasă.",
+            "en": "In the morning, drive comfortably to St. Stephen's Church. At noon, the drive to Vruja Bay offers spectacular views of the stormy sea from the dry car. In the afternoon, visit the Chapel of St. Elias before continuing to the Brela Stone. End the day with a dinner overlooking the rainy Adriatic."
+          },
+          "stops": [
+            {
+              "name": "Church of St. Stephen",
+              "tip_4lang": {
+                "de": "Parkplätze sind direkt vor der Kirche vorhanden.",
+                "hu": "Parkolóhelyek közvetlenül a templom előtt találhatók.",
+                "ro": "Există locuri de parcare chiar în fața bisericii.",
+                "en": "Parking spaces are available right in front of the church."
+              }
+            },
+            {
+              "name": "Vruja Bay",
+              "tip_4lang": {
+                "de": "Der Aussichtspunkt an der Magistrale ist bei Regen ideal.",
+                "hu": "A főút menti kilátópont esőben is ideális.",
+                "ro": "Punctul de belvedere de pe magistrală este ideal pe ploaie.",
+                "en": "The viewpoint on the main road is ideal in the rain."
+              }
+            },
+            {
+              "name": "Chapel of St. Elias",
+              "tip_4lang": {
+                "de": "Die Auffahrt bietet tolle Blicke, auch bei grauem Wetter.",
+                "hu": "A felvezető út remek kilátást nyújt szürke időben is.",
+                "ro": "Urcarea oferă vederi superbe, chiar și pe vreme gri.",
+                "en": "The drive up offers great views, even in gray weather."
+              }
+            },
+            {
+              "name": "Brela Stone",
+              "tip_4lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; Schirm nicht vergessen.",
+                "hu": "Rövid séta a parkolótól; ne felejtse el az esernyőt.",
+                "ro": "Scurtă plimbare de la parcare; nu uitați umbrela.",
+                "en": "Short walk from the parking lot; don't forget your umbrella."
+              }
+            },
+            {
+              "name": "Punta Rata Beach",
+              "tip_4lang": {
+                "de": "Parken Sie nah am Strandzugang, um trocken zu bleiben.",
+                "hu": "Parkoljon a lejáró közelében, hogy száraz maradjon.",
+                "ro": "Parcați aproape de accesul spre plajă pentru a rămâne uscat.",
+                "en": "Park close to the beach access to stay dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Küstenstraße.",
+              "Die Magistrale kann bei starkem Regen tückisch sein.",
+              "Nutzen Sie die Parkmöglichkeiten direkt an den Sehenswürdigkeiten.",
+              "Halten Sie die Scheiben beschlagfrei für gute Sicht."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra (aquaplaning) a parti úton.",
+              "A főút (Magistrale) heves esőben csalóka lehet.",
+              "Használja a látnivalók melletti közvetlen parkolókat.",
+              "Tartsa páramentesen az ablakokat a jó kilátásért."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul de coastă.",
+              "Magistrala poate fi periculoasă pe ploaie puternică.",
+              "Folosiți parcările aflate direct lângă atracții.",
+              "Păstrați geamurile dezaburite pentru vizibilitate bună."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the coastal road.",
+              "The main road (Magistrale) can be tricky in heavy rain.",
+              "Use the parking options directly at the sights.",
+              "Keep windows fog-free for clear visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen Sie die problemlose Parkplatzsuche an der Kirche. Mittags fahren Sie zur Vruja-Bucht, wo der Bura-Wind das Meer weiß färbt. Nachmittags besuchen Sie die Kapelle des Hl. Elias bei herrlicher Fernsicht. Am Brela-Stein erleben Sie einen einsamen Wintermoment. Abends wärmen Sie sich in einem der wenigen ganzjährig geöffneten Lokale auf.",
+            "hu": "Reggel élvezze a problémamentes parkolást a templomnál. Délben hajtson el a Vruja-öbölhöz, ahol a bóra fehérre festi a tenger felszínét. Délután látogassa meg a Szent Illés-kápolnát a pazar távoli kilátásért. A Brela-sziklánál éljen át egy magányos téli pillanatot. Este melegedjen fel az egész évben nyitva tartó kevés hely egyikében.",
+            "ro": "Dimineața, profitați de parcarea ușoară de lângă biserică. La prânz, conduceți spre Golful Vruja, unde Bura înălbește marea. După-amiaza vizitați Capela Sf. Ilie pentru o panoramă superbă. La Piatra Brela trăiți un moment solitar de iarnă. Seara, încălziți-vă într-unul din puținele localuri deschise tot anul.",
+            "en": "In the morning, enjoy easy parking by the church. At noon, drive to Vruja Bay where the Bura wind turns the sea surface white. In the afternoon, visit the Chapel of St. Elias for a magnificent distant view. At the Brela Stone, experience a solitary winter moment. In the evening, warm up in one of the few places open year-round."
+          },
+          "stops": [
+            {
+              "name": "Church of St. Stephen",
+              "tip_4lang": {
+                "de": "Viel Platz auf den Parkplätzen in der Nebensaison.",
+                "hu": "Sok szabad hely a parkolókban a főszezonon kívül.",
+                "ro": "Mult spațiu în parcări în afara sezonului.",
+                "en": "Plenty of space in the parking lots in the off-season."
+              }
+            },
+            {
+              "name": "Vruja Bay",
+              "tip_4lang": {
+                "de": "Der Wind kann die Autotüren beim Öffnen aufreißen.",
+                "hu": "A szél feltépheti az autóajtót nyitáskor.",
+                "ro": "Vântul poate smulge portiera mașinii la deschidere.",
+                "en": "The wind can tear open car doors when opening."
+              }
+            },
+            {
+              "name": "Chapel of St. Elias",
+              "tip_4lang": {
+                "de": "Vorsicht bei starkem Wind auf der exponierten Straße.",
+                "hu": "Vigyázzon az erős széllel a kitett útszakaszon.",
+                "ro": "Atenție la vântul puternic pe drumul expus.",
+                "en": "Be careful with strong winds on the exposed road."
+              }
+            },
+            {
+              "name": "Brela Stone",
+              "tip_4lang": {
+                "de": "Genießen Sie den Ort ganz ohne andere Touristen.",
+                "hu": "Élvezze a helyet teljesen más turisták nélkül.",
+                "ro": "Bucurați-vă de loc fără alți turiști în jur.",
+                "en": "Enjoy the spot entirely without other tourists."
+              }
+            },
+            {
+              "name": "Punta Rata Beach",
+              "tip_4lang": {
+                "de": "Im Winter ist das Parken hier oft gebührenfrei.",
+                "hu": "Télen a parkolás itt gyakran ingyenes.",
+                "ro": "Iarna, parcarea aici este adesea gratuită.",
+                "en": "In winter, parking here is often free of charge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bura-Böen können das Fahrzeug auf der Brücke erschüttern.",
+              "Die Straßen sind im Winter meist leer, aber oft feucht.",
+              "Prüfen Sie, welche Restaurants im Ort offen sind.",
+              "Frost ist an der Küste selten, aber möglich."
+            ],
+            "hu": [
+              "A bóra lökések megrázhatják a járművet a hidakon.",
+              "Az utak télen üresek, de gyakran nedvesek.",
+              "Ellenőrizze, mely éttermek vannak nyitva a faluban.",
+              "Fagy ritka a parton, de előfordulhat."
+            ],
+            "ro": [
+              "Rafalele de Bura pot zgudui vehiculul pe poduri.",
+              "Drumurile sunt libere iarna, dar adesea umede.",
+              "Verificați care restaurante din localitate sunt deschise.",
+              "Înghețul este rar la coastă, dar posibil."
+            ],
+            "en": [
+              "Bura gusts can shake the vehicle on bridges.",
+              "The roads are mostly empty in winter, but often damp.",
+              "Check which restaurants in town are open.",
+              "Frost is rare on the coast, but possible."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1037,6 +2177,358 @@
           "Hike back to the bus stop from the beach in good time.",
           "Buses can be crowded on weekends."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag an der Bushaltestelle oberhalb von Brela und besuchen Sie zuerst die St.-Stephans-Kirche. Der Weg hinunter ins Dorf führt Sie direkt zur Kirche Unserer Lieben Frau vom Berge Karmel.\n\nDer Vormittag lässt sich wunderbar an der Uferpromenade verbringen. Da Brela kompakt ist, sind die wichtigsten Sehenswürdigkeiten gut zu Fuß von den Bushaltestellen erreichbar.\n\nEin gemütlicher Spaziergang führt Sie zum Stein von Brela und dem angrenzenden Strand Punta Rata. Hier können Sie den Mittag verbringen und das klare Wasser genießen.\n\nFür den Rückweg sollten Sie den Aufstieg zur Hauptstraße einplanen, wo die regionalen Busse Richtung Split oder Makarska verkehren. Genießen Sie dabei noch einmal den Blick von oben auf den Ort.",
+            "hu": "Kezdje a napot a Brela feletti buszmegállónál, és látogasson el először a Szent István-templomhoz. A faluba levezető út közvetlenül a Kármelhegyi Boldogasszony-templomhoz viszi Önt.\n\nA délelőttöt kellemesen töltheti a tengerparti sétányon. Mivel Brela kompakt, a legfontosabb látnivalók gyalogosan is jól elérhetőek a buszmegállóktól.\n\nEgy kényelmes séta elvezeti a Brela-sziklához és a szomszédos Punta Rata strandhoz. Itt töltheti a délutánt és élvezheti a tiszta vizet.\n\nA visszautazáshoz számoljon a főúthoz való feljutással, ahol a Split vagy Makarska irányába közlekedő regionális buszok megállnak. Útközben élvezze még egyszer a településre nyíló fenti kilátást.",
+            "ro": "Începeți ziua la stația de autobuz de deasupra localității Brela și vizitați mai întâi Biserica Sfântul Ștefan. Drumul care coboară în sat vă duce direct la biserica Maica Domnului de pe Muntele Carmel.\n\nDimineața poate fi petrecută minunat pe promenada de pe faleză. Deoarece Brela este compactă, principalele atracții sunt ușor accesibile pe jos de la stațiile de autobuz.\n\nO plimbare relaxantă vă duce la Piatra din Brela și la plaja adiacentă Punta Rata. Aici puteți petrece prânzul și vă puteți bucura de apa limpede.\n\nPentru drumul de întoarcere, trebuie să planificați urcarea spre drumul principal, unde circulă autobuzele regionale spre Split sau Makarska. Bucurați-vă încă o dată de vederea de sus asupra localității.",
+            "en": "Start your day at the bus stop above Brela and first visit St. Stephen's Church. The path down to the village leads you directly to the Church of Our Lady of Mount Carmel.\n\nThe morning can be spent wonderfully on the seaside promenade. Since Brela is compact, the main sights are easily accessible on foot from the bus stops.\n\nA leisurely walk leads you to the Brela Stone and the adjacent Punta Rata beach. Here you can spend the afternoon and enjoy the clear water.\n\nFor the return journey, you should plan the climb back to the main road, where regional buses run towards Split or Makarska. Enjoy the view of the village from above once more."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche des Hl. Stephan",
+                "hu": "Szent István-templom",
+                "ro": "Biserica Sfântul Ștefan",
+                "en": "Church of St. Stephen"
+              },
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt an der Magistrale oberhalb des Ortes.",
+                "hu": "A buszmegálló a település feletti főúton található.",
+                "ro": "Stația de autobuz este pe magistrală, deasupra localității.",
+                "en": "The bus stop is on the main road above the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Unserer Lieben Frau vom Berge Karmel",
+                "hu": "Kármelhegyi Boldogasszony-templom",
+                "ro": "Biserica Maicii Domnului de pe Muntele Carmel",
+                "en": "Church of Our Lady of Mount Carmel"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg verbindet die Bushaltestelle mit dem Zentrum.",
+                "hu": "Rövid séta köti össze a buszmegállót a központtal.",
+                "ro": "O scurtă plimbare leagă stația de autobuz de centru.",
+                "en": "A short walk connects the bus stop to the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Uferpromenade von Brela",
+                "hu": "Brela tengerparti sétánya",
+                "ro": "Promenada din Brela",
+                "en": "Brela Seaside Promenade"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Weg nach unten zum Meer.",
+                "hu": "Használja a tengerhez levezető utat.",
+                "ro": "Folosiți drumul care coboară spre mare.",
+                "en": "Use the path leading down to the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Stein von Brela",
+                "hu": "Brela-szikla",
+                "ro": "Piatra din Brela",
+                "en": "Brela Stone"
+              },
+              "tip_5lang": {
+                "de": "Entlang der Küste gelangt man zu Fuß zu diesem Wahrzeichen.",
+                "hu": "A part mentén gyalogosan juthat el ehhez a jelképhez.",
+                "ro": "De-a lungul coastei puteți ajunge pe jos la acest simbol.",
+                "en": "You can reach this landmark on foot along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Punta Rata",
+                "hu": "Punta Rata strand",
+                "ro": "Plaja Punta Rata",
+                "en": "Punta Rata Beach"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie die Abfahrtszeiten der Busse für den Rückweg.",
+                "hu": "Ügyeljen a buszok indulási idejére a visszautazáshoz.",
+                "ro": "Atenție la orele de plecare ale autobuzelor pentru drumul de întoarcere.",
+                "en": "Check the bus departure times for your return journey."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Eiscreme",
+                "tip": "Hausgemachtes Eis in der Café-Bar Roma an der Promenade."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fagylalt",
+                "tip": "Házias fagylalt a Roma kávézóban a sétányon."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Înghețată",
+                "tip": "Înghețată de casă la Café-Bar Roma de pe faleză."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ice Cream",
+                "tip": "Homemade ice cream at Café-Bar Roma on the promenade."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kapelle des Hl. Stephan",
+                "tip": "Ruhiger Platz am Morgen.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szent István-kápolna",
+                "tip": "Csendes hely reggelente.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Capela Sfântul Ștefan",
+                "tip": "Un loc liniștit dimineața.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Chapel of St. Stephen",
+                "tip": "Quiet place in the morning.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokale Weine",
+                "tip": "Kaufen Sie eine Flasche Plavac Mali im kleinen Supermarkt im Zentrum."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi borok",
+                "tip": "Vásároljon egy üveg Plavac Malit a központban lévő kis boltban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vinuri locale",
+                "tip": "Cumpărați o sticlă de Plavac Mali de la micul supermarket din centru."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Wines",
+                "tip": "Buy a bottle of Plavac Mali at the small supermarket in the center."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Behalten Sie den Fahrplan der Fernbusse im Blick.",
+              "Tickets können oft direkt beim Fahrer gekauft werden.",
+              "Wandern Sie vom Strand aus frühzeitig zurück zur Haltestelle.",
+              "An Wochenenden können die Busse voll sein."
+            ],
+            "hu": [
+              "Tartsa szem előtt a távolsági buszok menetrendjét.",
+              "A jegyeket gyakran közvetlenül a sofőrnél lehet megvásárolni.",
+              "Időben induljon vissza a strandról a megállóhoz.",
+              "Hétvégén a buszok zsúfoltak lehetnek."
+            ],
+            "ro": [
+              "Urmăriți orarul autobuzelor de cursă lungă.",
+              "Biletele pot fi cumpărate adesea direct de la șofer.",
+              "Porniți din timp de la plajă înapoi spre stație.",
+              "În weekend, autobuzele pot fi aglomerate."
+            ],
+            "en": [
+              "Keep an eye on the long-distance bus schedule.",
+              "Tickets can often be purchased directly from the driver.",
+              "Hike back to the bus stop from the beach in good time.",
+              "Buses can be crowded on weekends."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittags nehmen Sie den Bus zur St.-Stephans-Kirche. Mittags erkunden Sie die Promenade unter dem Schutz der Pinien. Nachmittags fahren Sie mit dem lokalen Linienbus näher zum Brela-Stein. Den Abend verbringen Sie in einem gemütlichen Lokal an der Riva, bevor der letzte Bus Sie zurückbringt.",
+            "hu": "Délelőtt menjen busszal a Szent István-templomhoz. Délben fedezze fel a sétányt a fenyők védelmében. Délután helyi járattal közelítse meg a Brela-sziklát. Az estét töltheti egy hangulatos helyen a parton, mielőtt az utolsó busz visszaviszi.",
+            "ro": "Dimineața, luați autobuzul spre Biserica Sf. Ștefan. La prânz, explorați faleza sub protecția pinilor. După-amiaza, folosiți autobuzul local pentru a ajunge mai aproape de Piatra Brela. Seara, petreceți-o într-un local primitor înainte de ultimul autobuz.",
+            "en": "In the morning, take the bus to St. Stephen's Church. At noon, explore the promenade under the shelter of the pines. In the afternoon, take a local bus closer to the Brela Stone. Spend the evening in a cozy spot on the waterfront before the last bus takes you back."
+          },
+          "stops": [
+            {
+              "name": "Church of St. Stephen",
+              "tip_4lang": {
+                "de": "Die Haltestelle ist nur wenige Gehminuten entfernt.",
+                "hu": "A buszmegálló csak pár perc sétára található.",
+                "ro": "Stația de autobuz este la doar câteva minute de mers.",
+                "en": "The bus stop is just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Church of Our Lady of Mount Carmel",
+              "tip_4lang": {
+                "de": "Nahegelegene Cafés dienen als Wartebereich im Trockenen.",
+                "hu": "A közeli kávézók száraz várakozóhelyként szolgálnak.",
+                "ro": "Cafenelele din apropiere servesc drept zonă de așteptare.",
+                "en": "Nearby cafes serve as a dry waiting area."
+              }
+            },
+            {
+              "name": "Brela Seaside Promenade",
+              "tip_4lang": {
+                "de": "Planen Sie Zeit für den Weg zur nächsten Haltestelle ein.",
+                "hu": "Számoljon időt a következő megállóig tartó sétára.",
+                "ro": "Alocați timp pentru drumul spre următoarea stație.",
+                "en": "Allow time for the walk to the next bus stop."
+              }
+            },
+            {
+              "name": "Brela Stone",
+              "tip_4lang": {
+                "de": "Von der Hauptstraße führt ein steiler Weg hinab.",
+                "hu": "A főútról meredek út vezet lefelé.",
+                "ro": "De la drumul principal coboară o potecă abruptă.",
+                "en": "A steep path leads down from the main road."
+              }
+            },
+            {
+              "name": "Punta Rata Beach",
+              "tip_4lang": {
+                "de": "Nutzen Sie Bus-Apps für Echtzeit-Infos bei Regen.",
+                "hu": "Használjon buszos appot a valós idejű infókért.",
+                "ro": "Folosiți aplicații meteo/transport pentru info în timp real.",
+                "en": "Use bus apps for real-time info during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Regen Verspätung haben.",
+              "Warten Sie in Cafés statt an unüberdachten Haltestellen.",
+              "Haben Sie Kleingeld für das Busticket bereit.",
+              "Die Frequenz der lokalen Busse ist bei Regen unverändert."
+            ],
+            "hu": [
+              "Heves esőben a buszok késhetnek.",
+              "Várjon kávézókban a fedetlen megállók helyett.",
+              "Legyen Önnél aprópénz a buszjegyhez.",
+              "A helyi járatok gyakorisága esőben sem változik."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri pe ploaie torențială.",
+              "Așteptați în cafenele în loc de stațiile neacoperite.",
+              "Aveți mărunțiș pregătit pentru biletul de autobuz.",
+              "Frecvența autobuzelor locale rămâne neschimbată pe ploaie."
+            ],
+            "en": [
+              "Buses may be delayed during heavy rain.",
+              "Wait in cafes instead of uncovered bus stops.",
+              "Have small change ready for the bus ticket.",
+              "Local bus frequency remains unchanged in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vormittags nutzen Sie den winterlichen Fahrplan zur Kirche. Mittags genießen Sie den Strandspaziergang in der klaren Winterluft. Nachmittags bringt der Bus Sie zum Brela-Stein, wo Sie den Sonnenuntergang fast alleine erleben. Den frühen Abend verbringen Sie im Ort, bevor der Winterfahrplan Sie wieder zurückbringt.",
+            "hu": "Délelőtt használja ki a téli menetrendet a templomhoz. Délben élvezze a parti sétát a tiszta téli levegőben. Délután a busz elviszi a Brela-sziklához, ahol szinte egyedül nézheti a naplementét. A kora estét töltse a faluban, mielőtt a téli busz visszaviszi.",
+            "ro": "Dimineața, folosiți programul de iarnă pentru a merge la biserică. La prânz, bucurați-vă de plimbarea pe plajă în aerul clar. După-amiaza, autobuzul vă duce la Piatra Brela pentru un apus solitar. Petreceți seara devreme în localitate înainte de ultimul autobuz de iarnă.",
+            "en": "In the morning, use the winter schedule to get to the church. At noon, enjoy a beach walk in the clear winter air. In the afternoon, the bus takes you to the Brela Stone, where you can experience the sunset almost alone. Spend the early evening in town before the winter bus takes you back."
+          },
+          "stops": [
+            {
+              "name": "Church of St. Stephen",
+              "tip_4lang": {
+                "de": "Achten Sie auf den reduzierten Winterfahrplan.",
+                "hu": "Ügyeljen a ritkított téli menetrendre.",
+                "ro": "Atenție la programul de iarnă redus.",
+                "en": "Pay attention to the reduced winter schedule."
+              }
+            },
+            {
+              "name": "Church of Our Lady of Mount Carmel",
+              "tip_4lang": {
+                "de": "Zentraler Treffpunkt auch in der Nebensaison.",
+                "hu": "Központi találkozóhely a főszezonon kívül is.",
+                "ro": "Punct central de întâlnire și în afara sezonului.",
+                "en": "Central meeting point even in the off-season."
+              }
+            },
+            {
+              "name": "Brela Seaside Promenade",
+              "tip_4lang": {
+                "de": "Warme Kleidung für das Warten an der Haltestelle.",
+                "hu": "Meleg ruházat a megállóban való várakozáshoz.",
+                "ro": "Haine groase pentru așteptarea în stație.",
+                "en": "Warm clothing for waiting at the bus stop."
+              }
+            },
+            {
+              "name": "Brela Stone",
+              "tip_4lang": {
+                "de": "Prüfen Sie die Zeit des letzten Busses vor Ort.",
+                "hu": "Ellenőrizze helyben az utolsó busz indulását.",
+                "ro": "Verificați la fața locului ora ultimului autobuz.",
+                "en": "Check the time of the last bus locally."
+              }
+            },
+            {
+              "name": "Punta Rata Beach",
+              "tip_4lang": {
+                "de": "Rückweg zur Magistrale im Dunkeln einplanen.",
+                "hu": "Sötétben tervezze meg a visszautat a főútig.",
+                "ro": "Planificați drumul înapoi spre magistrală pe întuneric.",
+                "en": "Plan the walk back to the main road in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne sind oft stark ausgedünnt.",
+              "Die Busse sind im Winter meist sehr pünktlich.",
+              "Abends fahren deutlich weniger Busse als im Sommer.",
+              "Nutzen Sie die Wartehäuschen als Windschutz."
+            ],
+            "hu": [
+              "A téli menetrend gyakran ritkított.",
+              "A buszok télen általában nagyon pontosak.",
+              "Este jóval kevesebb busz jár, mint nyáron.",
+              "Használja a buszmegállókat szélvédőként."
+            ],
+            "ro": [
+              "Orarele de iarnă sunt adesea mult reduse.",
+              "Autobuzele sunt de obicei foarte punctuale iarna.",
+              "Seara circulă mult mai puține autobuze decât vara.",
+              "Folosiți refugiile din stații ca protecție contra vântului."
+            ],
+            "en": [
+              "Winter schedules are often significantly reduced.",
+              "Buses are usually very punctual in winter.",
+              "Significantly fewer buses run in the evening than in summer.",
+              "Use the bus shelters as wind protection."
+            ]
+          }
+        }
       }
     }
   },

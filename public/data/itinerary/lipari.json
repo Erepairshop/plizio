@@ -303,6 +303,442 @@
           "Most museums close during siesta (13:30-16:00).",
           "Bottled water is expensive on the islands, refill in town."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Wir beginnen den Tag an der malerischen Marina Corta, dem Herzen von Lipari, wo Fischerboote sanft schaukeln. Am Vormittag steigen wir zur Zitadelle hinauf, um die majestätische Kathedrale und das erstklassige archäologische Museum zu erkunden, die in den antiken Mauern verborgen sind. Der Nachmittag ist dem ruhigen archäologischen Park Contrada Diana gewidmet, wo die Geschichte inmitten der modernen Stadt lebendig wird. Zum Abschluss kehren wir für einen stimmungsvollen Abend und lokale Köstlichkeiten an den Hafen zurück.",
+            "hu": "A napot a festői Marina Corta kikötőben kezdjük, Lipari szívében, ahol a halászcsónakok ringatóznak. Délelőtt felkapaszkodunk a fellegvárba, hogy felfedezzük a fenséges katedrálist és a világszínvonalú régészeti múzeumot az ősi falak között. A délutánt a csendes Contrada Diana régészeti parknak szenteljük, ahol a történelem megelevenedik a modern város közepén. Zárásként visszatérünk a kikötőbe egy hangulatos estére és helyi finomságokra.",
+            "ro": "Începem ziua în pitorescul port Marina Corta, inima Lipariului, unde bărcile de pescuit plutesc liniștite. Dimineața urcăm la cetate pentru a explora catedrala maiestuoasă și muzeul arheologic de talie mondială, ascunse între zidurile antice. După-amiaza este dedicată liniștitului parc arheologic Contrada Diana, unde istoria prinde viață în mijlocul orașului modern. La final, revenim în port pentru o seară plină de atmosferă și delicii locale.",
+            "en": "We begin the day at the picturesque Marina Corta, the heart of Lipari, where fishing boats sway gently. In the morning, we climb to the citadel to explore the majestic cathedral and the world-class archaeological museum tucked within ancient walls. The afternoon is dedicated to the quiet Contrada Diana archaeological park, where history comes alive in the middle of the modern city. To finish, we return to the harbor for an atmospheric evening and local treats."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Marina Corta",
+                "hu": "Marina Corta",
+                "ro": "Marina Corta",
+                "en": "Marina Corta"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Fischer beim Entladen ihrer Boote am frühen Morgen.",
+                "hu": "Figyeld meg a halászokat, ahogy kora reggel kipakolják a bárkákat.",
+                "ro": "Urmăriți pescarii care își descarcă bărcile la prima oră a dimineții.",
+                "en": "Watch the fishermen unloading their boats early in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di San Bartolomeo",
+                "hu": "Szent Bertalan-székesegyház",
+                "ro": "Catedrala San Bartolomeo",
+                "en": "Cathedral of Saint Bartholomew"
+              },
+              "tip_5lang": {
+                "de": "Verpassen Sie nicht den normannischen Kreuzgang direkt nebenan.",
+                "hu": "Ne hagyd ki a közvetlenül mellette található normann kolostort.",
+                "ro": "Nu ratați mănăstirea normandă situată chiar alături.",
+                "en": "Do not miss the Norman cloister located right next door."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Eoliano",
+                "hu": "Eoli Régészeti Múzeum",
+                "ro": "Muzeul Arheologic Eolian",
+                "en": "Aeolian Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Die Maskensammlung aus dem antiken Theater ist weltberühmt.",
+                "hu": "Az antik színházból származó maszkgyűjtemény világhírű.",
+                "ro": "Colecția de măști din teatrul antic este faimoasă în întreaga lume.",
+                "en": "The collection of masks from the ancient theater is world-famous."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Lipari",
+                "hu": "Lipari vára",
+                "ro": "Castelul din Lipari",
+                "en": "Lipari Castle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick auf die Küste von den Mauern aus.",
+                "hu": "Élvezd a panorámás kilátást a tengerpartra a várfalakról.",
+                "ro": "Bucurați-vă de vederea panoramică asupra coastei de pe ziduri.",
+                "en": "Enjoy the panoramic view of the coast from the castle walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Archeologico Contrada Diana",
+                "hu": "Contrada Diana Régészeti Park",
+                "ro": "Parcul Arheologic Contrada Diana",
+                "en": "Contrada Diana Archaeological Park"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die antiken griechischen und römischen Ruinen im Stadtzentrum.",
+                "hu": "Nézd meg az ókori görög és római romokat a városközpontban.",
+                "ro": "Vedeți ruinele antice grecești și romane chiar în centrul orașului.",
+                "en": "See the ancient Greek and Roman ruins right in the city center."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa delle Anime del Purgatorio",
+                "hu": "Purgatóriumi Lelkek temploma",
+                "ro": "Biserica Anime del Purgatorio",
+                "en": "Church of the Souls in Purgatory"
+              },
+              "tip_5lang": {
+                "de": "Eine kleine Barockkirche direkt am Hafen Marina Corta.",
+                "hu": "Egy apró barokk templom közvetlenül a Marina Corta kikötőben.",
+                "ro": "O mică biserică barocă situată chiar în portul Marina Corta.",
+                "en": "A small Baroque church located right in the Marina Corta harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Gastro-Finale Marina Corta",
+                "hu": "Gasztro-zárás Marina Corta",
+                "ro": "Final gastronomic Marina Corta",
+                "en": "Gastro Finale Marina Corta"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie eine Granita mit Brioche in einer der Bars.",
+                "hu": "Kóstolj meg egy granitát brióssal az egyik bárban.",
+                "ro": "Încercați o granita cu brioche la unul dintre barurile locale.",
+                "en": "Try a granita with brioche at one of the local bars."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pane Cunzato",
+                "tip": "Sizilianisches Brot mit Kapern, Tomaten und Oliven."
+              },
+              {
+                "name": "Eolische Malvasia",
+                "tip": "Ein süßer Dessertwein direkt von den Inseln."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pane Cunzato",
+                "tip": "Szicíliai kenyér kapribogyóval, paradicsommal és olívabogyóval."
+              },
+              {
+                "name": "Eoli Malvasia",
+                "tip": "Édes desszertbor közvetlenül a szigetekről."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pane Cunzato",
+                "tip": "Pâine siciliană cu capere, roșii și măsline."
+              },
+              {
+                "name": "Malvasia Eoliana",
+                "tip": "Un vin de desert dulce produs direct pe insule."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pane Cunzato",
+                "tip": "Sicilian bread with capers, tomatoes, and olives."
+              },
+              {
+                "name": "Aeolian Malvasia",
+                "tip": "A sweet dessert wine produced directly on the islands."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Castello Gärten",
+                "tip": "Ein ruhiger Ort mit Schatten und Meerblick.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Várkertek",
+                "tip": "Csendes hely árnyékkal és tengeri kilátással.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădinile Castelului",
+                "tip": "Un loc liniștit cu umbră și vedere la mare.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Castle Gardens",
+                "tip": "A quiet spot with shade and sea views.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Corso Vittorio Emanuele",
+                "tip": "Die Haupteinkaufsstraße für Kunsthandwerk und Mode."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Corso Vittorio Emanuele",
+                "tip": "A fő bevásárlóutca kézműves termékekkel és divattal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Corso Vittorio Emanuele",
+                "tip": "Principala stradă comercială pentru artizanat și modă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Corso Vittorio Emanuele",
+                "tip": "The main shopping street for crafts and fashion."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen im Schlossviertel.",
+              "Die meisten Museen schließen während der Siesta (13:30-16:00).",
+              "Flaschenwasser ist auf den Inseln teuer, füllen Sie es in der Stadt auf."
+            ],
+            "hu": [
+              "Viselj kényelmes cipőt a várnegyed macskaköves utcáihoz.",
+              "A legtöbb múzeum zárva tart a szieszta alatt (13:30-16:00).",
+              "A palackozott víz drága a szigeteken, töltsd fel a készleteidet a városban."
+            ],
+            "ro": [
+              "Purtați încălțăminte confortabilă pentru străzile pietruite din zona castelului.",
+              "Majoritatea muzeelor sunt închise în timpul siestei (13:30-16:00).",
+              "Apa îmbuteliată este scumpă pe insule, faceți plinul în oraș."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestone streets in the castle area.",
+              "Most museums close during siesta (13:30-16:00).",
+              "Bottled water is expensive on the islands, refill in town."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Marina Corta beginnt im Rhythmus des Regens, der auf die Fischerboote trommelt. Wir flüchten in die Kathedrale und das Archäologische Museum, um trocken zu bleiben und Liparis antike Schätze zu bewundern. Mittags erkunden wir die Burgmauern, wobei wir auf dem nassen Vulkangestein vorsichtig sein müssen. Der Nachmittag endet mit einem gemütlichen Abendessen am Hafen.",
+            "hu": "A reggel Marina Cortánál indul, ahol az eső kopogása festi alá a halászhajók látványát. A délelőttöt a székesegyházban és a múzeumban töltjük, védve az elemektől, miközben Lipari évezredes történelmét fedezzük fel. Délután a vár falai között sétálunk, óvatosan a csúszós bazaltköveken. A napot egy meleg vacsorával és a kikötő párás, romantikus fényeivel zárjuk a városközpontban.",
+            "ro": "Dimineața în Marina Corta începe sub ritmul ploii care cade peste bărcile pescarilor. Ne adăpostim în Catedrală și în Muzeul Arheologic pentru a rămâne uscați în timp ce explorăm comorile antice ale Lipariului. La prânz explorăm zidurile castelului, fiind atenți pe pietrele vulcanice umede. După-amiaza se încheie cu o cină caldă în port, admirând reflexiile luminilor în apă.",
+            "en": "Morning at Marina Corta begins with the rhythm of rain hitting the fishing boats. We retreat into the Cathedral and the Archaeological Museum to stay dry while discovering Lipari's ancient treasures. Midday is spent exploring the castle walls, being careful on the wet volcanic stones. The afternoon ends with a cozy dinner at the harbor, enjoying the misty atmosphere of the old town."
+          },
+          "stops": [
+            {
+              "name": "Marina Corta",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Markisen der Cafés am Hafen.",
+                "hu": "Keressen menedéket a kikötői kávézók ponyvái alatt.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor din port.",
+                "en": "Find shelter under the awnings of the harbor cafes."
+              }
+            },
+            {
+              "name": "Cathedral of Saint Bartholomew",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen starken Schauer trocken zu überstehen.",
+                "hu": "Tökéletes hely egy intenzívebb zápor átvészelésére.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "An ideal place to wait out a heavy downpour in dry comfort."
+              }
+            },
+            {
+              "name": "Aeolian Archaeological Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein; es ist das beste Indoor-Programm.",
+                "hu": "Töltsön itt több időt; ez a legjobb fedett program a szigeten.",
+                "ro": "Planificați mai mult timp aici; este cel mai bun program de interior.",
+                "en": "Plan more time here; it's the best indoor activity on the island."
+              }
+            },
+            {
+              "name": "Lipari Castle",
+              "tip_5lang": {
+                "de": "Vorsicht auf den gepflasterten Rampen, sie werden bei Nässe extrem glatt.",
+                "hu": "Vigyázat a kövezett rámpákon, nedvesen rendkívül csúszósak.",
+                "ro": "Atenție pe rampele pavate, devin extrem de alunecoase când sunt ude.",
+                "en": "Caution on the paved ramps; they become extremely slick when wet."
+              }
+            },
+            {
+              "name": "Contrada Diana Archaeological Park",
+              "tip_5lang": {
+                "de": "Die Wege können schlammig sein; bleiben Sie auf den befestigten Pfaden.",
+                "hu": "Az utak sárosak lehetnek; maradjon a kiépített ösvényeken.",
+                "ro": "Potecile pot fi noroioase; rămâneți pe traseele amenajate.",
+                "en": "Paths can be muddy; stick to the reinforced walkways."
+              }
+            },
+            {
+              "name": "Church of the Souls in Purgatory",
+              "tip_5lang": {
+                "de": "Ein kleiner, ruhiger Rückzugsort vor dem Wind und Regen.",
+                "hu": "Apró, csendes menedék a szél és az eső elől.",
+                "ro": "Un mic refugiu liniștit ferit de vânt și ploaie.",
+                "en": "A small, quiet refuge from the wind and rain."
+              }
+            },
+            {
+              "name": "Gastro Finale Marina Corta",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Tisch im hinteren, geschützten Bereich.",
+                "hu": "Kérjen asztalt a belső, védett részen.",
+                "ro": "Cereți o masă în zona interioară, protejată.",
+                "en": "Ask for a table in the inner, protected area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vulkangestein wird bei Regen spiegelglatt; tragen Sie Schuhe mit gutem Profil.",
+              "Die Gassen der Altstadt bieten guten Schutz vor seitlichem Wind.",
+              "Nutzen Sie die Museumsbesuche als primäre Regenpausen.",
+              "Ein stabiler Regenschirm ist wegen der Meeresböen besser als ein leichter Knirps.",
+              "Viele kleine Geschäfte in der Via Vittorio Emanuele sind überdacht."
+            ],
+            "hu": [
+              "A vulkáni kőzet esőben rendkívül csúszós; viseljen tapadós talpú cipőt.",
+              "Az óváros szűk utcái jó védelmet nyújtanak az oldalszél ellen.",
+              "A múzeumi látogatást időzítse a legintenzívebb eső idejére.",
+              "A tengeri szél miatt a stabil esernyő vagy esőkabát ajánlott.",
+              "A Via Vittorio Emanuele boltjai alatt sok helyen fedett a járda."
+            ],
+            "ro": [
+              "Roca vulcanică devine foarte alunecoasă; purtați pantofi cu aderență bună.",
+              "Străduțele înguste ale orașului vechi oferă protecție împotriva vântului.",
+              "Folosiți vizita la muzeu ca principal punct de adăpost împotriva ploii.",
+              "O umbrelă rezistentă e necesară din cauza rafalelor de vânt marin.",
+              "Multe magazine de pe Via Vittorio Emanuele au zone de trotuar acoperite."
+            ],
+            "en": [
+              "Volcanic stone becomes mirror-slick in the rain; wear shoes with good grip.",
+              "The narrow alleys of the old town provide good shelter from crosswinds.",
+              "Use museum visits as your primary shelter during peak rainfall.",
+              "A sturdy umbrella is better than a light one due to coastal wind gusts.",
+              "Many shops along Via Vittorio Emanuele offer covered walkway sections."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Lipari ist ruhig und klar. In Marina Corta genießen wir die milde Sonne, bevor wir die Kathedrale und das Museum ohne Touristenströme erkunden. Mittags bietet die Burg spektakuläre Fernsichten bis zum Ätna. Nach einem Spaziergang im archäologischen Park suchen wir uns bei Sonnenuntergang ein warmes Café in der Altstadt, da es nach 17 Uhr kühl wird.",
+            "hu": "A téli reggel Liparin csendes és tiszta. Marina Cortánál élvezzük a lágy napsütést, majd a tömeg nélkül fedezzük fel a székesegyházat és a múzeumot. Délben a vár falaiból elképesztő kilátás nyílik, tiszta időben akár az Etnáig is ellátni. A parkban tett séta után, a korai naplemente előtt egy meleg kávézóba vonulunk vissza, mert 17 óra után gyorsan hűl a levegő.",
+            "ro": "Dimineața de iarnă în Lipari este liniștită și senină. În Marina Corta ne bucurăm de soarele blând înainte de a explora Catedrala și Muzeul fără aglomerație. La prânz, castelul oferă vederi spectaculoase până la Etna în zilele senine. După o plimbare în parcul arheologic, căutăm o cafenea caldă la apus, deoarece se face răcoare rapid după ora 17:00.",
+            "en": "Winter morning in Lipari is quiet and crisp. At Marina Corta, we enjoy the mild sun before exploring the Cathedral and Museum without the summer crowds. Midday at the Castle offers spectacular long-distance views, sometimes as far as Mount Etna. After a walk through the park, we find a warm cafe in the old town as it gets chilly quickly after the 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": "Marina Corta",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe; im Winter sind hier fast nur Einheimische.",
+                "hu": "Élvezze a csendet; télen szinte csak helyieket látni itt.",
+                "ro": "Bucurați-vă de liniște; iarna sunt aproape doar localnici aici.",
+                "en": "Enjoy the silence; in winter, you'll see mostly locals here."
+              }
+            },
+            {
+              "name": "Cathedral of Saint Bartholomew",
+              "tip_5lang": {
+                "de": "Die Kirche bietet im Winter eine angenehme, milde Atmosphäre.",
+                "hu": "A templom télen kellemesen enyhe menedéket nyújt.",
+                "ro": "Catedrala oferă o atmosferă plăcută și blândă în timpul iernii.",
+                "en": "The cathedral offers a pleasantly mild atmosphere during winter."
+              }
+            },
+            {
+              "name": "Aeolian Archaeological Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten, sie sind oft kürzer.",
+                "hu": "Ellenőrizze a téli nyitvatartást, gyakran korábban zárnak.",
+                "ro": "Verificați programul de iarnă, adesea este mai scurt.",
+                "en": "Check winter opening hours; they are often shorter than in summer."
+              }
+            },
+            {
+              "name": "Lipari Castle",
+              "tip_5lang": {
+                "de": "Beste Zeit für Fotos; die Winterluft ist extrem klar.",
+                "hu": "A legjobb idő fotózáshoz; a téli levegő rendkívül tiszta.",
+                "ro": "Cel mai bun moment pentru fotografii; aerul de iarnă este foarte clar.",
+                "en": "Best time for photos; the winter air is exceptionally clear."
+              }
+            },
+            {
+              "name": "Contrada Diana Archaeological Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie das milde Mittagslicht für einen Besuch.",
+                "hu": "Használja ki az enyhe déli napsütést a látogatáshoz.",
+                "ro": "Profită de lumina blândă de la amiază pentru o vizită.",
+                "en": "Take advantage of the mild midday sun for your visit."
+              }
+            },
+            {
+              "name": "Church of the Souls in Purgatory",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche kurz vor der Abenddämmerung.",
+                "hu": "Látogassa meg a templomot röviddel sötétedés előtt.",
+                "ro": "Vizitați biserica cu puțin timp înainte de amurg.",
+                "en": "Visit the church shortly before dusk for a serene experience."
+              }
+            },
+            {
+              "name": "Gastro Finale Marina Corta",
+              "tip_5lang": {
+                "de": "Perfekt für eine heiße Schokolade zum Abschluss des Tages.",
+                "hu": "Tökéletes hely egy forró csokoládéra a nap végén.",
+                "ro": "Perfect pentru o ciocolată caldă la finalul zilei.",
+                "en": "Perfect for a hot chocolate to wrap up your day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 17:00 Uhr unter; planen Sie Outdoor-Aktivitäten früh.",
+              "Zwiebelprinzip bei der Kleidung: In der Sonne ist es warm, im Schatten kühl.",
+              "Viele Restaurants machen Winterpause; prüfen Sie Vorab-Reservierungen.",
+              "Die Fernsicht von der Burg ist im Winter oft besser als im Sommerdunst.",
+              "Tragen Sie eine winddichte Jacke für die Hafenbereiche."
+            ],
+            "hu": [
+              "A nap 17:00 körül nyugszik; a szabadtéri programokat időzítse korábbra.",
+              "Öltözködjön rétegesen: a napon meleg van, de az árnyékban hűvös.",
+              "Sok étterem téli szünetet tart; előre tájékozódjon a nyitvatartásról.",
+              "A kilátás a várból télen tisztább, mint a nyári párában.",
+              "A kikötői részeken egy szélálló dzseki elengedhetetlen."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 17:00; planificați activitățile în aer liber devreme.",
+              "Îmbrăcați-vă în straturi: la soare e cald, dar la umbră e răcoare.",
+              "Multe restaurante sunt închise iarna; verificați disponibilitatea în avans.",
+              "Vizibilitatea de la castel este adesea mai bună iarna decât în arșița verii.",
+              "Purtați o jachetă rezistentă la vânt pentru zonele din port."
+            ],
+            "en": [
+              "Sunset is around 5:00 PM; plan your outdoor activities for earlier in the day.",
+              "Dress in layers: it's warm in the sun but chilly in the shade.",
+              "Many restaurants take a winter break; check openings in advance.",
+              "Visibility from the castle is often better in winter than in summer haze.",
+              "Wear a windproof jacket for the harbor and coastal areas."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -538,6 +974,362 @@
           "Always wear a helmet and take enough water with you.",
           "Be careful with traffic on the narrow coastal roads."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Fahrrad erkunden wir die Küstenwege Liparis. Zuerst radeln wir zum Belvedere Quattrocchi für einen atemberaubenden Blick. Danach geht es hinunter nach Canneto und weiter zum berühmten weißen Strand, wo wir das kristallklare Wasser genießen. Ein sportlicher Tag mit viel frischer Meeresbrise.",
+            "hu": "Biciklivel fedezzük fel Lipari partmenti útjait. Először a Quattrocchi kilátóhoz tekerünk a lenyűgöző panorámáért. Ezután legurulunk Cannetóba és tovább a híres fehér strandhoz, ahol élvezzük a kristálytiszta vizet. Sportos nap, sok friss tengeri széllel.",
+            "ro": "Explorăm traseele de coastă ale Lipariului cu bicicleta. Mai întâi pedalăm spre Belvedere Quattrocchi pentru o panoramă uluitoare. Apoi coborâm spre Canneto și continuăm spre faimoasa plajă albă, unde ne bucurăm de apa de cristal. O zi sportivă cu multă briză marină.",
+            "en": "We explore Lipari's coastal paths by bike. First, we pedal to Belvedere Quattrocchi for a breathtaking panorama. Then we glide down to Canneto and continue to the famous white beach, where we enjoy the crystal-clear water. A sporty day with plenty of fresh sea breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Marina Corta",
+                "hu": "Marina Corta",
+                "ro": "Marina Corta",
+                "en": "Marina Corta"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie Ihr Mietrad frühzeitig ab.",
+                "hu": "Vedd át a bérelt biciklit időben.",
+                "ro": "Ridicați bicicleta închiriată devreme.",
+                "en": "Pick up your rental bike early."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere Quattrocchi",
+                "hu": "Quattrocchi kilátó",
+                "ro": "Belvedere Quattrocchi",
+                "en": "Quattrocchi Belvedere"
+              },
+              "tip_5lang": {
+                "de": "Der beste Fotopunkt für den Blick auf Vulcano.",
+                "hu": "A legjobb fotópont a Vulcano szigetére nyíló kilátáshoz.",
+                "ro": "Cel mai bun punct foto pentru vederea spre insula Vulcano.",
+                "en": "The best photo spot for the view of Vulcano island."
+              }
+            },
+            {
+              "name": {
+                "de": "Canneto Promenade",
+                "hu": "Canneto sétány",
+                "ro": "Promenada Canneto",
+                "en": "Canneto Promenade"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine Kaffeepause am Meer.",
+                "hu": "Tökéletes egy kávészünethez a tengerparton.",
+                "ro": "Perfect pentru o pauză de cafea la malul mării.",
+                "en": "Perfect for a coffee break by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Bianca",
+                "hu": "Spiaggia Bianca (Fehér strand)",
+                "ro": "Spiaggia Bianca",
+                "en": "White Beach"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist hier durch den Bimssteinboden türkis.",
+                "hu": "A víz itt türkizkék a habkő aljzat miatt.",
+                "ro": "Apa este turcoaz aici datorită fundului de piatră ponce.",
+                "en": "The water here is turquoise due to the pumice stone seabed."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Lunga",
+                "hu": "Marina Lunga",
+                "ro": "Marina Lunga",
+                "en": "Marina Lunga"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Yachten vor der Rückgabe des Rades.",
+                "hu": "Nézd a jachtokat a bicikli leadása előtt.",
+                "ro": "Urmăriți iahturile înainte de a returna bicicleta.",
+                "en": "Watch the yachts before returning the bike."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Arancini am Strand",
+                "tip": "Gefüllte Reisbällchen, ideal für ein Picknick."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arancini a strandon",
+                "tip": "Töltött rizsgolyók, ideális piknikhez."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Arancini pe plajă",
+                "tip": "Gogoși de orez umplute, ideale pentru picnic."
+              }
+            ],
+            "en": [
+              {
+                "name": "Arancini on the beach",
+                "tip": "Stuffed rice balls, ideal for a picnic."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Küstenstraße nach Norden",
+                "tip": "Weniger Verkehr und weite Sicht auf das Meer.",
+                "emoji": "🚲"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Északi partmenti út",
+                "tip": "Kisebb forgalom és tágas kilátás a tengerre.",
+                "emoji": "🚲"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Drumul de coastă spre nord",
+                "tip": "Mai puțin trafic și vedere largă spre mare.",
+                "emoji": "🚲"
+              }
+            ],
+            "en": [
+              {
+                "name": "Northern coastal road",
+                "tip": "Less traffic and wide views of the sea.",
+                "emoji": "🚲"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Canneto Souvenirs",
+                "tip": "Kleine Läden mit lokalem Kunsthandwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Canneto ajándékboltok",
+                "tip": "Kis üzletek helyi kézműves termékekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Suveniruri în Canneto",
+                "tip": "Mici magazine cu artizanat local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Canneto Souvenirs",
+                "tip": "Small shops with local crafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein E-Bike, wenn Sie die steilen Hügel zum Belvedere scheuen.",
+              "Tragen Sie immer einen Helm und nehmen Sie ausreichend Wasser mit.",
+              "Achten Sie auf den Verkehr auf den engen Küstenstraßen."
+            ],
+            "hu": [
+              "Bérelj e-bike-ot, ha el akarod kerülni a meredek emelkedőket a kilátó felé.",
+              "Mindig viselj sisakot és vigyél magaddal elég vizet.",
+              "Figyelj a forgalomra a szűk partmenti utakon."
+            ],
+            "ro": [
+              "Închiriați o bicicletă electrică dacă doriți să evitați dealurile abrupte spre Belvedere.",
+              "Purtați întotdeauna cască și luați suficientă apă cu voi.",
+              "Fiți atenți la trafic pe drumurile de coastă înguste."
+            ],
+            "en": [
+              "Rent an e-bike if you want to avoid the steep hills to the Belvedere.",
+              "Always wear a helmet and take enough water with you.",
+              "Be careful with traffic on the narrow coastal roads."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir vorsichtig in Marina Corta. Die Fahrt zum Belvedere Quattrocchi erfordert volle Konzentration auf der nassen Straße, belohnt aber mit dramatischen Wolkenformationen über den Klippen. Über Canneto radeln wir zurück, wobei wir die Gischt des Meeres spüren. Der Tag endet mit einem warmen Getränk in Marina Lunga, während wir die Räder sicher abstellen.",
+            "hu": "Az eső ellenére óvatosan indulunk Marina Cortától. A Quattrocchi kilátóhoz vezető út teljes koncentrációt igényel a nedves aszfalton, de a drámai felhők a sziklák felett kárpótolnak. Canneto felé tekerve érezzük a tenger sós páráját. A nap Marina Lungában ér véget egy forró itallal, miközben a kerékpárokat biztonságba helyezzük.",
+            "ro": "În ciuda ploii, pornim cu prudență din Marina Corta. Drumul spre Belvedere Quattrocchi necesită concentrare maximă pe asfaltul umed, dar oferă nori dramatici peste stânci. Pedalam spre Canneto simțind vaporii sărați ai mării. Ziua se încheie în Marina Lunga cu o băutură caldă, după ce am pus bicicletele la adăpost.",
+            "en": "Despite the rain, we start cautiously from Marina Corta. The ride to Belvedere Quattrocchi requires full concentration on the wet asphalt, but rewards us with dramatic cloud formations over the cliffs. Cycling back via Canneto, we feel the sea spray. The day ends in Marina Lunga with a warm drink while we safely park the bikes."
+          },
+          "stops": [
+            {
+              "name": "Marina Corta",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen gründlich vor der Abfahrt.",
+                "hu": "Indulás előtt alaposan ellenőrizze a fékeket.",
+                "ro": "Verificați frânele cu atenție înainte de plecare.",
+                "en": "Check your brakes thoroughly before setting off."
+              }
+            },
+            {
+              "name": "Quattrocchi Belvedere",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen; der Boden kann schlammig und rutschig sein.",
+                "hu": "Vigyázzon a leszállásnál; a talaj sáros és csúszós lehet.",
+                "ro": "Atenție la coborârea de pe bicicletă; solul poate fi noroios.",
+                "en": "Be careful when dismounting; the ground can be muddy and slippery."
+              }
+            },
+            {
+              "name": "Canneto Promenade",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam; die Gischt macht die Promenade rutschig.",
+                "hu": "Hajtson lassan; a tengeri permet csúszóssá teszi a sétányt.",
+                "ro": "Mergeți încet; vaporii mării fac promenada alunecoasă.",
+                "en": "Ride slowly; sea spray makes the promenade slippery."
+              }
+            },
+            {
+              "name": "White Beach",
+              "tip_5lang": {
+                "de": "Der Strandweg ist bei Regen schwer befahrbar; Rad schieben.",
+                "hu": "A strandhoz vezető út esőben nehezen járható; tolja a biciklit.",
+                "ro": "Drumul spre plajă e greu de parcurs pe ploaie; împingeți bicicleta.",
+                "en": "The beach path is difficult to ride in rain; push your bike."
+              }
+            },
+            {
+              "name": "Marina Lunga",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche beim Fährterminal.",
+                "hu": "Használja a kompterminál fedett részeit várakozáshoz.",
+                "ro": "Folosiți zonele acoperite de lângă terminalul de feribot.",
+                "en": "Use the covered areas near the ferry terminal."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie die weißen Fahrbahnmarkierungen; sie sind extrem glatt.",
+              "Vollständige Regenbekleidung ist für die Abfahrten unerlässlich.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassem Asphalt.",
+              "Die Küstenstraße nach Canneto kann bei Sturm gesperrt sein.",
+              "Achten Sie auf Schlaglöcher, die durch Pfützen getarnt sind."
+            ],
+            "hu": [
+              "Kerülje a fehér útburkolati jeleket; ezek rendkívül csúszósak.",
+              "A lejtőkön elengedhetetlen a teljes esővédő ruházat.",
+              "Kicsit csökkentse a keréknyomást a jobb tapadás érdekében.",
+              "A Canneto felé vezető út erős viharban lezárható.",
+              "Ügyeljen a tócsák által eltakart kátyúkra."
+            ],
+            "ro": [
+              "Evitați marcajele rutiere albe; sunt extrem de alunecoase.",
+              "Echipamentul complet de ploaie este esențial pentru coborâri.",
+              "Reduceți ușor presiunea în anvelope pentru o aderență mai bună.",
+              "Drumul de coastă spre Canneto poate fi închis în caz de furtună.",
+              "Atenție la gropile mascate de bălți."
+            ],
+            "en": [
+              "Avoid white road markings; they are extremely slippery when wet.",
+              "Full rain gear is essential for the downhill sections.",
+              "Slightly reduce tire pressure for better grip on wet asphalt.",
+              "The coastal road to Canneto may be closed during heavy storms.",
+              "Watch out for potholes hidden by puddles."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour beginnt erfrischend in Marina Corta. Wir radeln zum Belvedere Quattrocchi, wo die kühle Luft eine Sicht bis zu den Nachbarinseln ermöglicht. In Canneto genießen wir die leere Promenade und das Rauschen des Meeres. Die White Beach zeigt sich im Winter wild und unberührt. Wir beenden die Tour in Marina Lunga, bevor die Abendkühle einsetzt.",
+            "hu": "A téli kerékpártúra frissítően indul Marina Cortánál. A Quattrocchi kilátóhoz tekerünk, ahol a hűvös levegő tiszta rálátást enged a szomszédos szigetekre. Cannetóban élvezzük az üres sétányt és a tenger morajlását. A Fehér Strand télen vad és érintetlen arcát mutatja. A túrát Marina Lungában zárjuk, mielőtt beállna az esti lehűlés.",
+            "ro": "Turul de iarnă începe revigorant în Marina Corta. Pedalam spre Belvedere Quattrocchi, unde aerul rece permite o vedere clară spre insulele vecine. În Canneto ne bucurăm de promenada goală și de sunetul mării. White Beach arată sălbatic și neatins iarna. Încheiem turul în Marina Lunga înainte de lăsarea serii.",
+            "en": "The winter bike tour starts refreshingly in Marina Corta. We cycle to Belvedere Quattrocchi, where the crisp air allows views of the neighboring islands. In Canneto, we enjoy the empty promenade and the sound of the sea. White Beach appears wild and untouched in winter. We finish the tour in Marina Lunga before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Marina Corta",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; der Fahrtwind ist im Winter beißend.",
+                "hu": "Viseljen kesztyűt; a menetszél télen metsző tud lenni.",
+                "ro": "Purtați mănuși; vântul din timpul mersului este tăios iarna.",
+                "en": "Wear gloves; the headwind can be biting in winter."
+              }
+            },
+            {
+              "name": "Quattrocchi Belvedere",
+              "tip_5lang": {
+                "de": "Perfektes Licht für Landschaftsaufnahmen am Vormittag.",
+                "hu": "Tökéletes fények a tájképfotózáshoz a délelőtti órákban.",
+                "ro": "Lumină perfectă pentru fotografii de peisaj dimineața.",
+                "en": "Perfect lighting for landscape photography in the morning."
+              }
+            },
+            {
+              "name": "Canneto Promenade",
+              "tip_5lang": {
+                "de": "Fast alle Strandbars sind geschlossen; nehmen Sie Getränke mit.",
+                "hu": "Szinte minden strandbár zárva van; vigyen magával italt.",
+                "ro": "Aproape toate barurile de pe plajă sunt închise; luați băuturi.",
+                "en": "Almost all beach bars are closed; carry your own drinks."
+              }
+            },
+            {
+              "name": "White Beach",
+              "tip_5lang": {
+                "de": "Ein einsamer Ort für Naturbeobachtungen im Winter.",
+                "hu": "Magányos hely a természet megfigyelésére a téli időszakban.",
+                "ro": "Un loc solitar pentru observarea naturii în timpul iernii.",
+                "en": "A solitary spot for nature watching during the winter months."
+              }
+            },
+            {
+              "name": "Marina Lunga",
+              "tip_5lang": {
+                "de": "Gute Verbindung zurück zum Zentrum; achten Sie auf das Licht.",
+                "hu": "Jó összeköttetés a központtal; figyeljen a lámpákra.",
+                "ro": "Conexiune bună înapoi spre centru; atenție la lumini.",
+                "en": "Good connection back to the center; check your bike lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Handschuhe und Ohrenschutz sind wegen des Fahrtwinds wichtig.",
+              "Die Sonne verschwindet früh hinter den Bergen; Licht am Rad prüfen.",
+              "Viele Verleihstationen haben im Winter eingeschränkte Zeiten.",
+              "Die Straßen sind im Winter fast autofrei und ideal zum Radeln.",
+              "Nehmen Sie eine Thermoskanne mit einem warmen Getränk mit."
+            ],
+            "hu": [
+              "A menetszél miatt a kesztyű és a fülvédő elengedhetetlen.",
+              "A nap korán eltűnik a hegyek mögött; ellenőrizze a világítást.",
+              "Sok kölcsönző korlátozott nyitvatartással üzemel télen.",
+              "Az utak télen szinte autómentesek, ideálisak a tekeréshez.",
+              "Vigyen magával termoszt egy forró itallal a pihenőkhöz."
+            ],
+            "ro": [
+              "Mănușile și protecția pentru urechi sunt importante din cauza vântului.",
+              "Soarele dispare devreme după munți; verificați luminile bicicletei.",
+              "Multe centre de închirieri au program limitat în timpul iernii.",
+              "Drumurile sunt aproape libere de mașini iarna, ideale pentru ciclism.",
+              "Luați un termos cu o băutură caldă pentru pauze."
+            ],
+            "en": [
+              "Gloves and ear protection are important due to the wind chill.",
+              "The sun disappears early behind the mountains; check your lights.",
+              "Many rental shops have restricted hours during winter.",
+              "The roads are almost car-free in winter, making it ideal for cycling.",
+              "Carry a thermos with a warm drink for your breaks."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -773,6 +1565,362 @@
           "Parking in Lipari town is very limited in summer.",
           "Refuel before leaving the town."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto umrunden wir die ganze Insel Lipari. Wir beginnen am Quattrocchi-Aussichtspunkt und fahren durch die ländlichen Dörfer Piano Conte und Acquacalda im Norden. Nach einem langen Badestopp am berühmten weißen Strand kehren wir für eine letzte Erkundung der Zitadelle in die Stadt zurück. Eine bequeme Art, auch die abgelegenen Ecken der Insel zu sehen.",
+            "hu": "Autóval körbeutazzuk Lipari egész szigetét. A Quattrocchi kilátónál kezdünk, majd észak felé vesszük az irányt Piano Conte és Acquacalda falvakon keresztül. A híres fehér strandon tett hosszú fürdőzés után visszatérünk a városba, hogy utoljára felfedezzük a fellegvárat. Kényelmes módja a sziget eldugott sarkainak megismerésének.",
+            "ro": "Cu mașina facem turul întregii insule Lipari. Începem la punctul de observație Quattrocchi și conducem spre nord prin satele rurale Piano Conte și Acquacalda. După o oprire lungă pentru baie la faimoasa plajă albă, revenim în oraș pentru o ultimă explorare a cetății. O modalitate confortabilă de a vedea și colțurile retrase ale insulei.",
+            "en": "By car, we circle the entire island of Lipari. We start at the Quattrocchi viewpoint and head north through the rural villages of Piano Conte and Acquacalda. After a long swim stop at the famous white beach, we return to the city for a final exploration of the citadel. A comfortable way to see even the remote corners of the island."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Belvedere Quattrocchi",
+                "hu": "Quattrocchi kilátó",
+                "ro": "Belvedere Quattrocchi",
+                "en": "Quattrocchi Belvedere"
+              },
+              "tip_5lang": {
+                "de": "Es gibt einen kleinen Parkplatz direkt am Aussichtspunkt.",
+                "hu": "Közvetlenül a kilátónál van egy kis parkoló.",
+                "ro": "Există o mică parcare chiar la punctul de observație.",
+                "en": "There is a small parking lot right at the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Piano Conte",
+                "hu": "Piano Conte",
+                "ro": "Piano Conte",
+                "en": "Piano Conte"
+              },
+              "tip_5lang": {
+                "de": "Ein authentisches Dorf im Landesinneren mit tollen Weinbergen.",
+                "hu": "Eredeti falu a sziget belsejében, remek szőlőültetvényekkel.",
+                "ro": "Un sat autentic în interiorul insulei, cu podgorii minunate.",
+                "en": "An authentic inland village with great vineyards."
+              }
+            },
+            {
+              "name": {
+                "de": "Acquacalda",
+                "hu": "Acquacalda",
+                "ro": "Acquacalda",
+                "en": "Acquacalda"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die alten Bimssteinbrüche am Meer.",
+                "hu": "Látogasd meg a régi habkőbányákat a tengerparton.",
+                "ro": "Vizitați vechile cariere de piatră ponce de la malul mării.",
+                "en": "Visit the old pumice quarries by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Bianca",
+                "hu": "Fehér strand",
+                "ro": "Spiaggia Bianca",
+                "en": "White Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie an der Straße und gehen Sie den Pfad hinunter.",
+                "hu": "Parkolj az úton, és sétálj le az ösvényen.",
+                "ro": "Parcați pe drum și coborâți pe potecă.",
+                "en": "Park on the road and walk down the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Lipari Castello",
+                "hu": "Lipari vár",
+                "ro": "Castelul Lipari",
+                "en": "Lipari Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe der Marina Lunga.",
+                "hu": "Parkolj a Marina Lunga közelében.",
+                "ro": "Parcați în apropiere de Marina Lunga.",
+                "en": "Park near Marina Lunga."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Lokaler Käse in Piano Conte",
+                "tip": "Probieren Sie frischen Pecorino in einem der Dorfläden."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi sajt Piano Contéban",
+                "tip": "Kóstolj friss juhsajtot az egyik falusi boltban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brânză locală în Piano Conte",
+                "tip": "Încercați pecorino proaspăt într-unul dintre magazinele satului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local cheese in Piano Conte",
+                "tip": "Try fresh pecorino in one of the village shops."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kirche von Quattropani",
+                "tip": "Ein sehr ruhiger Aussichtspunkt ganz im Norden.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Quattropani temploma",
+                "tip": "Nagyon csendes kilátópont a sziget északi csücskén.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Biserica din Quattropani",
+                "tip": "Un punct de observație foarte liniștit în nordul extrem.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Quattropani Church",
+                "tip": "A very quiet viewpoint at the northern tip.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Eolische Kapern",
+                "tip": "Kaufen Sie sie gesalzen bei den Bauern in Acquacalda."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Eoli kapribogyó",
+                "tip": "Vegyél sózott kapribogyót az Acquacalda-i gazdáktól."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Capere eoliene",
+                "tip": "Cumpărați-le sărate de la fermierii din Acquacalda."
+              }
+            ],
+            "en": [
+              {
+                "name": "Aeolian Capers",
+                "tip": "Buy them salted from the farmers in Acquacalda."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straßen sind eng und kurvig, fahren Sie vorsichtig.",
+              "Parkplätze in der Stadt Lipari sind im Sommer sehr begrenzt.",
+              "Tanken Sie voll, bevor Sie die Stadt verlassen."
+            ],
+            "hu": [
+              "Az utak szűkek és kanyargósak, vezess óvatosan.",
+              "Lipari városában a parkolás nyáron nagyon korlátozott.",
+              "Tankolj fel, mielőtt elhagyod a várost."
+            ],
+            "ro": [
+              "Drumurile sunt înguste și șerpuite, conduceți cu atenție.",
+              "Parcarea în orașul Lipari este foarte limitată vara.",
+              "Faceți plinul înainte de a părăsi orașul."
+            ],
+            "en": [
+              "Roads are narrow and winding, drive carefully.",
+              "Parking in Lipari town is very limited in summer.",
+              "Refuel before leaving the town."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto erkunden wir Lipari ganz entspannt trotz des Regens. Erste Station ist Quattrocchi, wo wir den Ausblick aus dem trockenen Innenraum genießen. Über Piano Conte fahren wir zur Nordküste nach Acquacalda, wo die Brandung spektakulär gegen die Ufermauer schlägt. Den Nachmittag verbringen wir geschützt in der Burg von Lipari, bevor wir den Tag im Stadtzentrum ausklingen lassen.",
+            "hu": "Autóval kényelmesen fedezzük fel Liparit az eső ellenére is. Első állomásunk Quattrocchi, ahol a száraz utastérből csodáljuk a kilátást. Piano Contén keresztül az északi partra, Acquacaldába hajtunk, ahol a hullámok látványosan csapkodják a partfalat. A délutánt a vár védelmében töltjük, majd a városközpontban fejezzük be a napot.",
+            "ro": "Cu mașina explorăm Lipari relaxați, în ciuda ploii. Prima oprire este Quattrocchi, unde admirăm priveliștea din interiorul uscat. Prin Piano Conte mergem spre coasta de nord la Acquacalda, unde valurile se sparg spectaculos. După-amiaza o petrecem protejați în castelul din Lipari, înainte de a încheia ziua în centru.",
+            "en": "By car, we explore Lipari comfortably despite the rain. Our first stop is Quattrocchi, where we enjoy the view from the dry interior. Driving through Piano Conte to the north coast at Acquacalda, we watch the waves crashing spectacularly against the shore. We spend the afternoon sheltered in Lipari Castle before ending the day in the city center."
+          },
+          "stops": [
+            {
+              "name": "Quattrocchi Belvedere",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto; die Aussicht ist auch so toll.",
+                "hu": "Heves esőben maradjon az autóban; a kilátás onnan is remek.",
+                "ro": "Rămâneți în mașină pe ploaie torențială; vederea e grozavă și de acolo.",
+                "en": "Stay in the car during heavy rain; the view is still great from inside."
+              }
+            },
+            {
+              "name": "Piano Conte",
+              "tip_5lang": {
+                "de": "Guter Ort für einen schnellen Kaffeestopp ohne nass zu werden.",
+                "hu": "Jó hely egy gyors kávészünetre anélkül, hogy megázna.",
+                "ro": "Loc bun pentru o pauză rapidă de cafea fără a vă uda.",
+                "en": "Good spot for a quick coffee break without getting wet."
+              }
+            },
+            {
+              "name": "Acquacalda",
+              "tip_5lang": {
+                "de": "Parken Sie nicht zu nah am Meer; die Gischt ist salzig.",
+                "hu": "Ne parkoljon túl közel a tengerhez; a permet sós és korrozív.",
+                "ro": "Nu parcați prea aproape de mare; vaporii sunt sărați.",
+                "en": "Don't park too close to the sea; the salt spray can be heavy."
+              }
+            },
+            {
+              "name": "White Beach",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann rutschig sein; fahren Sie extrem vorsichtig.",
+                "hu": "A lehajtó csúszós lehet; vezessen rendkívül óvatosan.",
+                "ro": "Drumul de acces poate fi alunecos; conduceți cu mare prudență.",
+                "en": "The access road can be slippery; drive with extreme caution."
+              }
+            },
+            {
+              "name": "Lipari Castle",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze direkt am Fuß des Burgbergs.",
+                "hu": "Közvetlenül a várhegy lábánál található parkoló.",
+                "ro": "Există locuri de parcare chiar la baza dealului castelului.",
+                "en": "There are parking spots right at the base of the castle hill."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht vor Steinschlag auf den Bergstraßen nach starkem Regen.",
+              "Die Scheiben beschlagen schnell; nutzen Sie die Klimaanlage.",
+              "Einige Straßen in der Altstadt sind bei Nässe für Nicht-Anwohner gesperrt.",
+              "Parken Sie in Acquacalda so, dass Sie das Meer direkt sehen können.",
+              "Hüten Sie sich vor tiefen Wasserlachen in Senken."
+            ],
+            "hu": [
+              "Heves eső után ügyeljen a kőomlásokra a hegyi utakon.",
+              "Az ablakok gyorsan párásodnak; használja a légkondicionálót.",
+              "Néhány óvárosi út csúszós lehet és korlátozva van a behajtás.",
+              "Acquacaldában úgy parkoljon, hogy rálásson a viharos tengerre.",
+              "Vigyázzon a mély tócsákra az úthajlatokban."
+            ],
+            "ro": [
+              "Atenție la căderile de pietre pe drumurile de munte după ploi abundente.",
+              "Geamurile se aburesc repede; folosiți aerul condiționat.",
+              "Unele drumuri din orașul vechi sunt restricționate când este umed.",
+              "Parcați în Acquacalda astfel încât să puteți vedea marea direct.",
+              "Aveți grijă la bălțile adânci din zonele joase ale drumului."
+            ],
+            "en": [
+              "Watch out for rockfalls on mountain roads after heavy rain.",
+              "Windows fog up quickly; use your air conditioning to defog.",
+              "Some old town streets may have restricted access during wet weather.",
+              "In Acquacalda, park facing the sea for a safe, dramatic view.",
+              "Beware of deep puddles in low-lying sections of the road."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterfahrt führt uns durch das einsame Lipari. Am Belvedere Quattrocchi genießen wir die klare Sicht, bevor wir Piano Conte besuchen, wo das Dorfleben im Winter authentisch ist. In Acquacalda spüren wir den kühlen Nordwind. Die White Beach ist im Winter ein Ort der absoluten Ruhe. Zum Abschluss erkunden wir die Burg, die im weichen Winterlicht besonders majestätisch wirkt.",
+            "hu": "A téli autózás a néptelen Liparin keresztül vezet. A Quattrocchi kilátónál élvezzük a tiszta panorámát, majd Piano Contéba látogatunk, ahol télen az igazi falusi élet zajlik. Acquacaldában megérezzük a hűvös északi szelet. A Fehér Strand télen az abszolút nyugalom helyszíne. Végül a várat fedezzük fel, amely a lágy téli fényben különösen fenséges.",
+            "ro": "Drumul de iarnă ne poartă prin Lipariul solitar. La Belvedere Quattrocchi ne bucurăm de vederea clară înainte de a vizita Piano Conte, unde viața satului este autentică iarna. În Acquacalda simțim vântul rece din nord. White Beach este iarna un loc de liniște absolută. La final explorăm castelul, care arată maiestuos în lumina blândă de iarnă.",
+            "en": "Our winter drive takes us through the solitary landscape of Lipari. At Belvedere Quattrocchi, we enjoy clear views before visiting Piano Conte, where village life feels authentic. In Acquacalda, we feel the cool north wind. White Beach is a place of absolute peace in winter. Finally, we explore the Castle, which looks particularly majestic in the soft winter light."
+          },
+          "stops": [
+            {
+              "name": "Quattrocchi Belvedere",
+              "tip_5lang": {
+                "de": "Idealer Stopp für Panoramafotos ohne Touristen im Bild.",
+                "hu": "Ideális megálló panorámaképekhez, turisták nélkül.",
+                "ro": "Oprire ideală pentru fotografii panoramice fără turiști în cadru.",
+                "en": "Ideal stop for panoramic photos without tourists in the frame."
+              }
+            },
+            {
+              "name": "Piano Conte",
+              "tip_5lang": {
+                "de": "Hier finden Sie im Winter die authentischsten lokalen Cafés.",
+                "hu": "Itt találja télen a leghitelesebb helyi kávézókat.",
+                "ro": "Aici găsiți iarna cele mai autentice cafenele locale.",
+                "en": "You'll find the most authentic local cafes here in winter."
+              }
+            },
+            {
+              "name": "Acquacalda",
+              "tip_5lang": {
+                "de": "Der Nordwind kann hier sehr kühl sein; Jacke mitnehmen.",
+                "hu": "Az északi szél itt nagyon hűvös lehet; vigyen kabátot.",
+                "ro": "Vântul de nord poate fi foarte rece aici; luați o jachetă.",
+                "en": "The north wind can be very cool here; bring a jacket."
+              }
+            },
+            {
+              "name": "White Beach",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für einen kurzen Winterspaziergang am Meer.",
+                "hu": "Szép hely egy rövid téli sétához a tengerparton.",
+                "ro": "Un loc frumos pentru o scurtă plimbare de iarnă pe malul mării.",
+                "en": "A beautiful spot for a short winter walk by the sea."
+              }
+            },
+            {
+              "name": "Lipari Castle",
+              "tip_5lang": {
+                "de": "Im Winter ist der Zugang zum Burggelände oft entspannter.",
+                "hu": "Télen a vár területére való bejutás sokkal nyugodtabb.",
+                "ro": "Iarna, accesul în zona castelului este mult mai relaxat.",
+                "en": "In winter, access to the castle grounds is often more relaxed."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkplatzsuche ist im Winter auf der ganzen Insel kein Problem.",
+              "Einige Tankstellen haben über die Mittagszeit lange Pausen.",
+              "Genießen Sie die Fahrt auf den fast leeren Panoramastraßen.",
+              "Prüfen Sie, ob Ihre Autovermietung Winterreifen oder Ganzjahresreifen hat.",
+              "Nehmen Sie Decken mit, wenn Sie länger an Aussichtspunkten verweilen."
+            ],
+            "hu": [
+              "A parkolás télen az egész szigeten teljesen zökkenőmentes.",
+              "Néhány benzinkút hosszú szünetet tart ebédidőben.",
+              "Élvezze az autózást a szinte üres panorámautakon.",
+              "Ellenőrizze, hogy a bérautón megfelelő állapotú gumik vannak-e.",
+              "Vigyen magával takarót, ha hosszabb ideig időzne a kilátópontokon."
+            ],
+            "ro": [
+              "Găsirea unui loc de parcare nu este o problemă pe insulă iarna.",
+              "Unele benzinării au pauze lungi în timpul prânzului.",
+              "Bucurați-vă de condus pe drumurile panoramice aproape goale.",
+              "Verificați dacă mașina închiriată are anvelope potrivite.",
+              "Luați pături dacă intenționați să stați mai mult la punctele de belvedere."
+            ],
+            "en": [
+              "Finding parking is not a problem anywhere on the island in winter.",
+              "Some gas stations have long breaks during midday.",
+              "Enjoy driving on the almost empty panoramic roads.",
+              "Check if your rental car has appropriate tires for winter conditions.",
+              "Bring blankets if you plan to linger at the viewpoints."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1008,6 +2156,362 @@
           "Buses can be very crowded in high season.",
           "Keep your ticket for inspection."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Wir nutzen das lokale Bussystem (Urso), um Lipari stressfrei zu erkunden. Zuerst besuchen wir den berühmten Quattrocchi-Aussichtspunkt und fahren dann zum beliebten Badeort Canneto. Den Nachmittag verbringen wir in der historischen Oberstadt bei der Kathedrale und dem Schloss. Eine preiswerte und unkomplizierte Art, sich fortzubewegen.",
+            "hu": "A helyi buszhálózatot (Urso) használjuk Lipari stresszmentes felfedezéséhez. Először a híres Quattrocchi kilátót keressük fel, majd a népszerű Canneto üdülőhelyre utazunk. A délutánt a történelmi felsővárosban töltjük a katedrálisnál és a várnál. Olcsó és egyszerű módja a közlekedésnek.",
+            "ro": "Folosim sistemul local de autobuze (Urso) pentru a explora Lipari fără stres. Mai întâi vizităm faimosul punct de observație Quattrocchi, apoi mergem în populara stațiune Canneto. După-amiaza o petrecem în centrul istoric de sus, la catedrală și castel. O modalitate ieftină și simplă de a vă deplasa.",
+            "en": "We use the local bus system (Urso) to explore Lipari stress-free. First, we visit the famous Quattrocchi viewpoint, then travel to the popular beach resort of Canneto. We spend the afternoon in the historical upper town at the cathedral and the castle. An inexpensive and straightforward way to get around."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Marina Lunga (Busbahnhof)",
+                "hu": "Marina Lunga (Buszpályaudvar)",
+                "ro": "Marina Lunga (Stație autobuz)",
+                "en": "Marina Lunga (Bus Station)"
+              },
+              "tip_5lang": {
+                "de": "Kaufen Sie Ihre Fahrkarten am Kiosk vor dem Einsteigen.",
+                "hu": "Vedd meg a jegyet a kioszkban felszállás előtt.",
+                "ro": "Cumpărați biletele de la chioșc înainte de îmbarcare.",
+                "en": "Buy your tickets at the kiosk before boarding."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere Quattrocchi",
+                "hu": "Quattrocchi kilátó",
+                "ro": "Belvedere Quattrocchi",
+                "en": "Quattrocchi Belvedere"
+              },
+              "tip_5lang": {
+                "de": "Der Bus hält direkt an der Straße beim Aussichtspunkt.",
+                "hu": "A busz közvetlenül az út mentén áll meg a kilátónál.",
+                "ro": "Autobuzul oprește chiar pe drum, lângă punctul de observație.",
+                "en": "The bus stops right on the road near the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Canneto",
+                "hu": "Canneto",
+                "ro": "Canneto",
+                "en": "Canneto"
+              },
+              "tip_5lang": {
+                "de": "Das Zentrum für Badeurlauber mit vielen Cafés.",
+                "hu": "A strandolók központja sok kávézóval.",
+                "ro": "Centrul pentru turiștii care vin la plajă, cu multe cafenele.",
+                "en": "The hub for beachgoers with many cafes."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Lipari",
+                "hu": "Lipari vára",
+                "ro": "Castelul Lipari",
+                "en": "Lipari Castle"
+              },
+              "tip_5lang": {
+                "de": "Vom Hafen aus ist es ein kurzer Spaziergang bergauf.",
+                "hu": "A kikötőtől rövid séta felfelé.",
+                "ro": "De la port este o scurtă plimbare la deal.",
+                "en": "It is a short walk uphill from the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di San Bartolomeo",
+                "hu": "Szent Bertalan-székesegyház",
+                "ro": "Catedrala San Bartolomeo",
+                "en": "Cathedral of Saint Bartholomew"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Innere vor der Schließung am Abend.",
+                "hu": "Nézd meg a belsőt az esti zárás előtt.",
+                "ro": "Vizitați interiorul înainte de închiderea de seară.",
+                "en": "Visit the interior before the evening closing."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Granita in Canneto",
+                "tip": "Perfekt zur Abkühlung nach dem Busfahren."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Granita Cannetóban",
+                "tip": "Tökéletes hűsítő a buszozás után."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Granita în Canneto",
+                "tip": "Perfectă pentru răcorire după călătoria cu autobuzul."
+              }
+            ],
+            "en": [
+              {
+                "name": "Granita in Canneto",
+                "tip": "Perfect for cooling off after the bus ride."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Canneto Strand (Norden)",
+                "tip": "Am nördlichen Ende ist es ruhiger als im Zentrum.",
+                "emoji": "🏖️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Canneto strand (északi rész)",
+                "tip": "Az északi végén csendesebb, mint a központban.",
+                "emoji": "🏖️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Plaja Canneto (nord)",
+                "tip": "La capătul nordic este mai liniște decât în centru.",
+                "emoji": "🏖️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Canneto Beach (North)",
+                "tip": "The northern end is quieter than the center.",
+                "emoji": "🏖️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bimssouvenirs",
+                "tip": "Kleine Steine und Schmuck aus lokalem Bimsstein."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Habkő szuvenírek",
+                "tip": "Kis kövek és ékszerek helyi habkőből."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Suveniruri din piatră ponce",
+                "tip": "Mici pietre și bijuterii din piatră ponce locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pumice Souvenirs",
+                "tip": "Small stones and jewelry made from local pumice stone."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Überprüfen Sie den Fahrplan genau, besonders für die Rückfahrt am Abend.",
+              "Die Busse können in der Hochsaison sehr voll sein.",
+              "Heben Sie die Fahrkarte für Kontrollen auf."
+            ],
+            "hu": [
+              "Pontosan ellenőrizd a menetrendet, különösen az esti visszautat.",
+              "A buszok főszezonban nagyon zsúfoltak lehetnek.",
+              "Őrizd meg a jegyet az ellenőrzésig."
+            ],
+            "ro": [
+              "Verificați cu atenție orarul, mai ales pentru drumul de întoarcere seara.",
+              "Autobuzele pot fi foarte aglomerate în plin sezon.",
+              "Păstrați biletul pentru control."
+            ],
+            "en": [
+              "Check the schedule carefully, especially for the return trip in the evening.",
+              "Buses can be very crowded in high season.",
+              "Keep your ticket for inspection."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Inselfahrplan trotzen wir dem Regen. Wir starten am überdachten Terminal in Marina Lunga und fahren zum Belvedere Quattrocchi. Der Bus bringt uns bequem nach Canneto, wo wir den Blick auf das stürmische Meer aus einem Café genießen. Zurück in Lipari erkunden wir die Burg und die Kathedrale, wobei wir die kurzen Regenpausen für die Wege zwischen den Gebäuden nutzen.",
+            "hu": "A helyi buszjáratokkal dacolunk az esővel. A Marina Lungai fedett termináltól indulunk a Quattrocchi kilátóhoz. A busz kényelmesen visz át Cannetóba, ahol egy kávézó ablakából nézzük a viharos tengert. Visszatérve Lipariba a várat és a székesegyházat járjuk be, a rövid esőszüneteket használva ki az épületek közötti közlekedésre.",
+            "ro": "Cu autobuzele locale înfruntăm ploaia. Pornim de la terminalul acoperit din Marina Lunga spre Belvedere Quattrocchi. Autobuzul ne duce confortabil la Canneto, unde admirăm marea furtunoasă dintr-o cafenea. Revenind în Lipari, explorăm castelul și catedrala, profitând de scurte pauze între reprizele de ploaie.",
+            "en": "We brave the rain using the local bus schedule. Starting from the covered terminal at Marina Lunga, we head to Belvedere Quattrocchi. The bus takes us comfortably to Canneto, where we watch the stormy sea from a cafe window. Back in Lipari, we explore the castle and cathedral, using brief pauses in the rain to move between buildings."
+          },
+          "stops": [
+            {
+              "name": "Marina Lunga (Bus Station)",
+              "tip_5lang": {
+                "de": "Warten Sie in der Nähe des Ticketschalters im Trockenen.",
+                "hu": "Várjon a jegypénztár közelében, fedett helyen.",
+                "ro": "Așteptați în apropierea casei de bilete, la adăpost.",
+                "en": "Wait near the ticket office in the dry area."
+              }
+            },
+            {
+              "name": "Quattrocchi Belvedere",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet nur begrenzten Schutz; Schirm bereitstellen.",
+                "hu": "A buszmegálló csak korlátozott védelmet nyújt; készítse elő az ernyőt.",
+                "ro": "Stația de autobuz oferă protecție limitată; pregătiți umbrela.",
+                "en": "The bus stop offers limited shelter; have your umbrella ready."
+              }
+            },
+            {
+              "name": "Canneto",
+              "tip_5lang": {
+                "de": "Viele Cafés direkt an der Haltestelle sind ideal bei Regen.",
+                "hu": "A megálló melletti kávézók ideálisak esőben várakozni.",
+                "ro": "Multe cafenele de lângă stație sunt ideale pe timp de ploaie.",
+                "en": "Many cafes right by the bus stop are ideal for waiting during rain."
+              }
+            },
+            {
+              "name": "Lipari Castle",
+              "tip_5lang": {
+                "de": "Vom Busstopp im Zentrum ist es nur ein kurzer Fußweg bergauf.",
+                "hu": "A központi buszmegállótól csak rövid séta felfelé.",
+                "ro": "De la stația centrală este doar o scurtă plimbare la deal.",
+                "en": "It's only a short walk uphill from the central bus stop."
+              }
+            },
+            {
+              "name": "Cathedral of Saint Bartholomew",
+              "tip_5lang": {
+                "de": "Kombinieren Sie diesen Stopp mit dem Burgbesuch, um im Trockenen zu bleiben.",
+                "hu": "Kösse össze a vár látogatásával, hogy fedett helyen maradjon.",
+                "ro": "Combinați această oprire cu vizita la castel pentru a rămâne la adăpost.",
+                "en": "Combine this stop with the castle visit to stay under cover."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können sich bei starkem Unwetter kurzfristig ändern.",
+              "Kaufen Sie Bustickets vorab im Tabakladen, um im Bus Stress zu vermeiden.",
+              "Die Busse sind im Winter und bei Regen oft die einzige zuverlässige Verbindung.",
+              "Achten Sie auf die Beschilderung der Busse; 'Urso' ist der Hauptanbieter.",
+              "Halten Sie Kleingeld für den Ticketkauf bereit."
+            ],
+            "hu": [
+              "Heves vihar esetén a menetrend rövid időn belül változhat.",
+              "Vegye meg a jegyet előre a trafikban (Tabacchi), hogy elkerülje a stresszt.",
+              "Esőben a busz a legbiztonságosabb és legszárazabb közlekedési mód.",
+              "Keresse az 'Urso' feliratú buszokat, ez a fő szolgáltató.",
+              "Készítsen elő aprópénzt a jegyvásárláshoz."
+            ],
+            "ro": [
+              "Orarele se pot schimba rapid în caz de furtună puternică.",
+              "Cumpărați bilete în avans de la chioșcurile de ziare (Tabacchi).",
+              "Autobuzele sunt adesea singura conexiune sigură pe timp de ploaie.",
+              "Căutați autobuzele marcate 'Urso', acesta este principalul operator.",
+              "Aveți pregătit mărunțiș pentru cumpărarea biletelor."
+            ],
+            "en": [
+              "Bus schedules may change on short notice during severe weather.",
+              "Buy tickets in advance at a 'Tabacchi' shop to avoid stress on the bus.",
+              "Buses are often the only reliable and dry connection during rain.",
+              "Look for buses marked 'Urso', which is the main operator.",
+              "Keep small change ready for buying tickets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter auf Lipari lässt sich wunderbar mit dem Bus erkunden. Ab Marina Lunga fahren wir zum Belvedere Quattrocchi und genießen die klare Winterluft. In Canneto spazieren wir am leeren Strand entlang, bevor wir den Bus zurück zum Burgberg nehmen. Wir beenden den Tag bei der Kathedrale, während die warme Beleuchtung der Stadt im frühen Abendlicht angeht.",
+            "hu": "A tél Liparin remekül felfedezhető busszal is. Marina Lungából indulunk a Quattrocchi kilátóhoz, élvezve a tiszta téli levegőt. Cannetóban sétálunk az üres strandon, majd busszal megyünk vissza a várhegyhez. A napot a székesegyháznál zárjuk, miközben a város meleg fényei kigyúlnak a korai alkonyatban.",
+            "ro": "Iarna în Lipari poate fi explorată minunat cu autobuzul. Din Marina Lunga mergem la Belvedere Quattrocchi și ne bucurăm de aerul clar de iarnă. În Canneto ne plimbăm pe plaja goală înainte de a lua autobuzul înapoi spre castel. Încheiem ziua la catedrală, în timp ce luminile calde ale orașului se aprind la amurg.",
+            "en": "Winter on Lipari can be explored perfectly by bus. From Marina Lunga, we head to Belvedere Quattrocchi to enjoy the clear winter air. In Canneto, we stroll along the empty beach before taking the bus back to the castle hill. We finish the day at the cathedral as the city's warm lights come on in the early evening light."
+          },
+          "stops": [
+            {
+              "name": "Marina Lunga (Bus Station)",
+              "tip_5lang": {
+                "de": "Prüfen Sie den reduzierten Winterfahrplan genau.",
+                "hu": "Alaposan ellenőrizze a ritkított téli menetrendet.",
+                "ro": "Verificați cu atenție orarul redus de iarnă.",
+                "en": "Check the reduced winter schedule carefully."
+              }
+            },
+            {
+              "name": "Quattrocchi Belvedere",
+              "tip_5lang": {
+                "de": "Die Frequenz der Busse ist im Winter geringer; planen Sie Zeit ein.",
+                "hu": "Télen a buszok ritkábban járnak; tervezze meg jól az időt.",
+                "ro": "Frecvența autobuzelor este mai mică iarna; planificați-vă timpul.",
+                "en": "Buses run less frequently in winter; plan your time accordingly."
+              }
+            },
+            {
+              "name": "Canneto",
+              "tip_5lang": {
+                "de": "Ein sehr ruhiger Ort im Winter; ideal für Entspannung.",
+                "hu": "Nagyon csendes hely télen; ideális a kikapcsolódáshoz.",
+                "ro": "Un loc foarte liniștit iarna; ideal pentru relaxare.",
+                "en": "A very quiet spot in winter; ideal for relaxation."
+              }
+            },
+            {
+              "name": "Lipari Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Museen im Inneren, um der Kälte zu entgehen.",
+                "hu": "Látogassa meg a belső múzeumokat, hogy elkerülje a hideget.",
+                "ro": "Vizitați muzeele din interior pentru a evita frigul.",
+                "en": "Visit the museums inside to escape the chill."
+              }
+            },
+            {
+              "name": "Cathedral of Saint Bartholomew",
+              "tip_5lang": {
+                "de": "Schöner Abschluss des Tages im Herzen der Altstadt.",
+                "hu": "A nap szép lezárása az óváros szívében.",
+                "ro": "O încheiere frumoasă a zilei în inima orașului vechi.",
+                "en": "A beautiful end to the day in the heart of the old town."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter seltener; fotografieren Sie den Plan an der Station.",
+              "Die letzte Rückfahrt aus den Dörfern ist im Winter oft früher.",
+              "Tragen Sie warme Kleidung für die Wartezeiten an den Haltestellen.",
+              "Fragen Sie den Fahrer nach der letzten Verbindung zurück nach Lipari.",
+              "Einige Linien bedienen im Winter nur die Hauptdörfer."
+            ],
+            "hu": [
+              "Télen ritkábbak a buszok; fotózza le a menetrendet a megállóban.",
+              "A falvakból induló utolsó járat télen gyakran korábban közlekedik.",
+              "Öltözzön melegen a megállókban való várakozáshoz.",
+              "Kérdezze meg a sofőrt az utolsó Lipariba tartó járatról.",
+              "Néhány vonal télen csak a főbb falvakat érinti."
+            ],
+            "ro": [
+              "Autobuzele circulă mai rar iarna; fotografiați orarul din stație.",
+              "Ultima cursă din sate este adesea mai devreme în timpul iernii.",
+              "Purtați haine groase pentru timpul de așteptare în stații.",
+              "Întrebați șoferul despre ultima conexiune înapoi spre Lipari.",
+              "Unele linii deservesc iarna doar satele principale."
+            ],
+            "en": [
+              "Buses run less often in winter; take a photo of the schedule at the station.",
+              "The last bus back from the villages is often earlier in winter.",
+              "Wear warm clothes for the waiting times at the stops.",
+              "Ask the driver for the time of the last connection back to Lipari.",
+              "Some routes may only serve the main villages during the winter season."
+            ]
+          }
+        }
       }
     }
   },

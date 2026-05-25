@@ -297,6 +297,410 @@
           "Take the ferry for a short trip to Sirmione.",
           "The town is very busy during high season."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Vormittag auf der herrlichen Seepromenade, dem Stolz von Bardolino. Nach einem Besuch im malerischen Hafen erkunden Sie den Park der Villa Carrara. Der Nachmittag steht im Zeichen der Geschichte mit den Besichtigungen der romanischen Kirchen San Severo und San Zeno, die Ruhe und Kühle spenden. Lassen Sie den Tag bei einem Glas Wein mit Blick auf das Wasser ausklingen.",
+            "hu": "Élvezze a délelőttöt a csodálatos tóparti sétányon, amely Bardolino büszkesége. A festői kikötő után fedezze fel a Villa Carrara parkját. A délután a történelemé: a San Severo és San Zeno templomok román kori falai között hűsölhet és töltődhet. Zárja a napot egy pohár helyi borral a vízparti panorámában gyönyörködve.",
+            "ro": "Bucurați-vă de dimineață pe minunata faleză, mândria orașului Bardolino. După o vizită în portul pitoresc, explorați parcul Vilei Carrara. După-amiaza este dedicată istoriei, cu vizitarea bisericilor romanice San Severo și San Zeno, care oferă liniște și răcoare. Încheiați ziua cu un pahar de vin, admirând panorama lacului.",
+            "en": "Enjoy your morning on the magnificent lakeside promenade, the pride of Bardolino. After a visit to the picturesque harbor, explore the park of Villa Carrara. The afternoon is dedicated to history, with visits to the Romanesque churches of San Severo and San Zeno, offering peace and cool air. End your day with a glass of local wine while enjoying the water view."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lungolago di Bardolino",
+                "hu": "Bardolinói tóparti sétány",
+                "ro": "Promenada din Bardolino",
+                "en": "Bardolino Lakeside Promenade"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für den ersten Kaffee mit Blick auf den Gardasee.",
+                "hu": "Tökéletes hely az első kávéhoz a Garda-tóra nézve.",
+                "ro": "Locul perfect pentru prima cafea cu vedere la Lacul Garda.",
+                "en": "Perfect for your first coffee overlooking Lake Garda."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto di Bardolino",
+                "hu": "Bardolinói kikötő",
+                "ro": "Portul din Bardolino",
+                "en": "Port of Bardolino"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die bunten Boote beim Ein- und Auslaufen.",
+                "hu": "Nézze a színes csónakok jövés-menését a kikötőben.",
+                "ro": "Urmăriți bărcile colorate care intră și ies din port.",
+                "en": "Watch the colorful boats coming in and out of the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Carrara Bottagisio",
+                "hu": "Villa Carrara Bottagisio",
+                "ro": "Villa Carrara Bottagisio",
+                "en": "Villa Carrara Bottagisio"
+              },
+              "tip_5lang": {
+                "de": "Der Park der Villa ist eine grüne Oase direkt am Wasser.",
+                "hu": "A villa parkja egy zöld oázis közvetlenül a vízparton.",
+                "ro": "Parcul vilei este o oază verde chiar pe malul apei.",
+                "en": "The villa's park is a green oasis right by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Severo",
+                "hu": "San Severo-templom",
+                "ro": "Biserica San Severo",
+                "en": "Church of San Severo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die romanischen Fresken im Inneren.",
+                "hu": "Csodálja meg a belső tér román kori freskóit.",
+                "ro": "Admirați frescele romanice din interior.",
+                "en": "Admire the Romanesque frescoes inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Zeno",
+                "hu": "San Zeno-templom",
+                "ro": "Biserica San Zeno",
+                "en": "Church of San Zeno"
+              },
+              "tip_5lang": {
+                "de": "Eine der ältesten Kirchen in der Region aus karolingischer Zeit.",
+                "hu": "A régió egyik legrégebbi, Karoling-kori temploma.",
+                "ro": "Una dintre cele mai vechi biserici din regiune, din epoca carolingiană.",
+                "en": "One of the oldest churches in the region from the Carolingian era."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bardolino DOC",
+                "tip": "Der berühmte leichte Rotwein direkt aus den Weinbergen."
+              },
+              {
+                "name": "Garda Olivenöl",
+                "tip": "Besonders mildes und fruchtiges Öl der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bardolino DOC",
+                "tip": "A híres könnyű vörösbor közvetlenül a dűlőkről."
+              },
+              {
+                "name": "Gardai olívaolaj",
+                "tip": "A régió különlegesen lágy és gyümölcsös olaja."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bardolino DOC",
+                "tip": "Faimosul vin roșu ușor direct din podgorii."
+              },
+              {
+                "name": "Ulei de măsline Garda",
+                "tip": "Ulei de măsline deosebit de fin și fructat din regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bardolino DOC",
+                "tip": "The famous light red wine directly from the vineyards."
+              },
+              {
+                "name": "Garda Olive Oil",
+                "tip": "The region's particularly mild and fruity oil."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Eremo di San Giorgio",
+                "tip": "Stille und Weitblick hoch über dem See.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Lungolago Nord",
+                "tip": "Ruhigere Abschnitte der Promenade Richtung Garda.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Eremo di San Giorgio",
+                "tip": "Csend és panoráma magasan a tó felett.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Északi tópart",
+                "tip": "A sétány csendesebb részei Garda felé.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Eremo di San Giorgio",
+                "tip": "Liniște și panoramă sus deasupra lacului.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Faleza de Nord",
+                "tip": "Secțiuni mai liniștite ale falezei spre Garda.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Eremo di San Giorgio",
+                "tip": "Quiet and panorama high above the lake.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "North Promenade",
+                "tip": "Quieter sections of the promenade towards Garda.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Wochenmarkt",
+                "tip": "Donnerstags vormittags lokales Obst und Käse."
+              },
+              {
+                "name": "Weinboutiquen",
+                "tip": "Verkostung und Verkauf in der Altstadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Heti piac",
+                "tip": "Csütörtök délelőttönként helyi gyümölcsök és sajtok."
+              },
+              {
+                "name": "Borbutikok",
+                "tip": "Kóstolás és vásárlás az óvárosban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața săptămânală",
+                "tip": "Fructe și brânzeturi locale în diminețile de joi."
+              },
+              {
+                "name": "Boutique-uri de vin",
+                "tip": "Degustare și vânzare în orașul vechi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Weekly Market",
+                "tip": "Local fruits and cheeses on Thursday mornings."
+              },
+              {
+                "name": "Wine Boutiques",
+                "tip": "Tasting and sales in the old town."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Promenade ist abends wunderschön beleuchtet.",
+              "Parken Sie auf den großen Plätzen etwas außerhalb des Zentrums.",
+              "Nehmen Sie die Fähre für einen kurzen Ausflug nach Sirmione.",
+              "In der Hochsaison ist die Stadt sehr belebt."
+            ],
+            "hu": [
+              "A sétány este gyönyörűen ki van világítva.",
+              "Parkoljon a központon kívüli nagy parkolókban.",
+              "Menjen át komppal egy rövid kirándulásra Sirmionébe.",
+              "Főszezonban a város nagyon forgalmas lehet."
+            ],
+            "ro": [
+              "Faleza este superb luminată seara.",
+              "Parcați în parcările mari de la marginea centrului.",
+              "Luați feribotul pentru o scurtă excursie la Sirmione.",
+              "În plin sezon, orașul este foarte aglomerat."
+            ],
+            "en": [
+              "The promenade is beautifully illuminated in the evening.",
+              "Park in the large lots slightly outside the center.",
+              "Take the ferry for a short trip to Sirmione.",
+              "The town is very busy during high season."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Bardolino beginnt mit einem Spaziergang entlang der nebelverhangenen Uferpromenade. Das graue Wasser des Gardasees schafft eine melancholische, aber wunderschöne Atmosphäre. Mittags bietet der Hafen von Bardolino Schutz unter den historischen Dachvorsprüngen, während Sie den Fähren zusehen. Ein Besuch in der Villa Carrara bietet eine trockene Fluchtmöglichkeit. Der Nachmittag eignet sich perfekt, um die alten Fresken von San Severo und San Zeno zu erkunden. Diese romanischen Kirchen bieten eine ruhige und trockene Zuflucht vor dem Nieselregen draußen. Wenn der Abend heraufzieht, finden Sie eine gemütliche Trattoria in den engen Gassen der Altstadt. Das Geräusch des Regens auf dem Kopfsteinpflaster begleitet ein Glas lokalen Rotweins.",
+            "hu": "A borús reggel Bardolinóban a ködbe burkolózó tóparti sétányon kezdődik. A Garda-tó szürke víztükre melankolikus, mégis lenyűgöző látványt nyújt az esőben. Délben a kikötő épületei alatt kereshetünk menedéket, miközben a hullámokat figyeljük. A Villa Carrara belső terei tökéletes helyszínt biztosítanak a művészetek élvezetéhez szárazon. A délutánt érdemes a San Severo és San Zeno templomok ősi freskói között tölteni. Ezek a román stílusú épületek békés és védett menedéket nyújtanak az égi áldás elől. Ahogy leszáll az este, bújjunk be a történelmi negyed egyik családi éttermébe. A macskaköveken kopogó eső hangja mellett a helyi vörösbor még jobban esik.",
+            "ro": "O dimineață ploioasă în Bardolino începe cu o plimbare pe promenada lacului acoperită de ceață. Apele cenușii ale lacului Garda creează o atmosferă melancolică, dar superbă. La prânz, Portul Bardolino oferă adăpost sub streșinile istorice în timp ce priviți feriboturile luptând cu valurile. O vizită la Villa Carrara oferă o evadare uscată. După-amiaza este perfectă pentru a explora frescele vechi de la San Severo și San Zeno. Aceste biserici romanice oferă un refugiu senin și uscat în fața burniței de afară. Pe măsură ce se lasă seara, găsiți o trattoria primitoare în aleile înguste ale orașului vechi. Sunetul ploii pe pietrele cubice acompaniază perfect un pahar de vin roșu local.",
+            "en": "A rainy morning in Bardolino begins with a walk along the mist-covered lakeside promenade. The gray waters of Lake Garda create a melancholic yet beautiful atmosphere. At midday, the Port of Bardolino offers shelter under the historic eaves while you watch the ferries battle the waves. A visit to the indoor halls of Villa Carrara provides a dry escape. The afternoon is perfect for exploring the ancient frescos of San Severo and San Zeno. These Romanesque churches offer a serene and dry refuge from the drizzle outside. As evening falls, find a cozy trattoria in the narrow alleys of the old town. The sound of rain on the cobblestones accompanies a glass of local red wine."
+          },
+          "stops": [
+            {
+              "name": "Bardolino Lakeside Promenade",
+              "tip_4lang": {
+                "de": "Tragen Sie rutschfeste Schuhe, da das Pflaster am See bei Nässe glatt sein kann.",
+                "hu": "Viseljen csúszásmentes talpú cipőt, mert a parti kövezet esőben síkossá válhat.",
+                "ro": "Purtați încălțăminte antiderapantă, deoarece pavajul de lângă lac poate fi alunecos.",
+                "en": "Wear non-slip shoes as the lakeside pavement can become slippery when wet."
+              }
+            },
+            {
+              "name": "Port of Bardolino",
+              "tip_4lang": {
+                "de": "Die Cafés rund um den Hafen haben oft beheizte Außenbereiche mit Regenschutz.",
+                "hu": "A kikötő környéki kávézók gyakran fűtött, esővédett teraszokkal várják a vendégeket.",
+                "ro": "Cafenelele din jurul portului au adesea zone exterioare încălzite și protejate de ploaie.",
+                "en": "Cafes around the port often have heated outdoor areas with rain covers."
+              }
+            },
+            {
+              "name": "Villa Carrara Bottagisio",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Innenräume, um die lokale Kunst ohne nass zu werden zu bewundern.",
+                "hu": "Használja ki a belső termeket a helyi művészet megcsodálására anélkül, hogy megázna.",
+                "ro": "Profitați de spațiile interioare pentru a admira arta locală fără a vă uda.",
+                "en": "Utilize the indoor spaces to admire local art without getting wet."
+              }
+            },
+            {
+              "name": "Church of San Severo",
+              "tip_4lang": {
+                "de": "Ein hervorragender Ort für eine längere Pause, um die Fresken im Trockenen zu studieren.",
+                "hu": "Kiváló hely egy hosszabb pihenőre, ahol szárazon tanulmányozhatjuk a freskókat.",
+                "ro": "Un loc excelent pentru o pauză lungă, studiind frescele la adăpost.",
+                "en": "An excellent spot for a long break to study the frescoes while staying dry."
+              }
+            },
+            {
+              "name": "Church of San Zeno",
+              "tip_4lang": {
+                "de": "Kleine, intime Kirche, die perfekten Schutz vor einem plötzlichen Schauer bietet.",
+                "hu": "Kicsi, meghitt templom, amely tökéletes menedéket nyújt egy hirtelen zápor elől.",
+                "ro": "Biserică mică și intimă, oferind adăpostul perfect în fața unei averse bruște.",
+                "en": "Small, intimate church providing the perfect shelter from a sudden downpour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie einen stabilen, windfesten Regenschirm wegen der Böen vom See.",
+              "Die Arkaden in der Altstadt bieten guten Schutz beim Einkaufen.",
+              "Besuchen Sie das Weinmuseum, wenn der Regen länger anhält.",
+              "Vermeiden Sie die Steinstege direkt am Wasser, die sehr glatt sind."
+            ],
+            "hu": [
+              "Használjon erős, szélálló esernyőt a tóról érkező hirtelen széllökések miatt.",
+              "Az óváros árkádjai kiváló védelmet nyújtanak nézelődés közben.",
+              "Ha tartós esőre számít, a bormúzeum látogatása jó beltéri program.",
+              "Kerülje a közvetlen vízparti mólókat, amelyek ilyenkor rendkívül csúszósak."
+            ],
+            "ro": [
+              "Folosiți o umbrelă robustă, rezistentă la vânt, din cauza rafalelor de pe lac.",
+              "Arcadele din centrul vechi oferă o protecție bună în timpul plimbării.",
+              "Vizitați muzeul vinului dacă ploaia persistă mai mult timp.",
+              "Evitați pontoanele de piatră direct de pe apă, deoarece sunt foarte alunecoase."
+            ],
+            "en": [
+              "Use a sturdy, windproof umbrella due to the gusts coming off the lake.",
+              "The arcades in the old town provide good cover while browsing shops.",
+              "Consider visiting the wine museum if the rain persists for longer.",
+              "Avoid the stone jetties directly on the water, which become very slick."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintermorgen in Bardolino sind frisch und ruhig. Die Uferpromenade ist friedlich, und die schneebedeckten Berge sind durch die klare, kalte Luft sichtbar. Der Mittag bringt ein sanftes Licht in den Hafen. Während die Gärten ruhen, hebt sich die historische Architektur vor dem blassen Himmel ab. Der kalte Wind lädt in warme Cafés ein. Verbringen Sie den Nachmittag in den stillen Kirchen. Die dicken Steinmauern von San Severo bieten einen ruhigen Ort zum Nachdenken, fernab der beißenden Seebrise. Die Sonne geht früh hinter den Hügeln unter und färbt den Himmel rosa. Den Abend verbringt man am besten bei der festlichen Beleuchtung der Altstadt und einer warmen Mahlzeit.",
+            "hu": "A téli reggelek Bardolinóban frissek és csendesek. A sétány békés, a távolban pedig a havas hegycsúcsok szikráznak a tiszta, hideg levegőben. Délben lágy fények világítják meg a kikötőt. Bár a kertek ilyenkor pihennek, a történelmi épületek vonalai élesen kirajzolódnak. A hűvös szél meleg kávézókba hívogat. A délutánt töltsük a csendes templomokban. San Severo vastag kőfalai között elmélyedhetünk a nyugalomban, távol a tó felől érkező csípős fuvallatoktól. A nap korán nyugszik a dombok mögött, rózsaszínre festve az eget. Az estét a kivilágított óvárosban, egy kandalló mellett elfogyasztott vacsorával érdemes zárni.",
+            "ro": "Diminețile de iarnă în Bardolino sunt proaspete și liniștite. Promenada este pașnică, iar munții înzăpeziți sunt vizibili prin aerul clar și rece. Prânzul aduce o lumină blândă în port. În timp ce grădinile sunt adormite, arhitectura istorică iese în evidență sub cerul palid. Vântul rece vă invită în cafenele calde. Petreceți după-amiaza în interiorul bisericilor tăcute. Zidurile groase de piatră din San Severo oferă un loc liniștit pentru reflecție, departe de briza tăioasă a lacului. Soarele apune devreme în spatele dealurilor, colorând cerul în roz. Seara este cel mai bine petrecută admirând luminile festive ale orașului vechi la o masă caldă.",
+            "en": "Winter mornings in Bardolino are crisp and quiet. The lakeside promenade is peaceful, with the snow-capped mountains across the lake visible through the clear, cold air. Midday brings a soft light to the Port. While the villa gardens are dormant, the historic architecture stands out against the pale sky. The cold wind invites you into warm lakefront cafes. Spend the afternoon inside the quiet churches. The thick stone walls of San Severo provide a tranquil spot to reflect away from the biting lake breeze. The sun sets early behind the hills, turning the sky pink. The evening is best spent enjoying the festive lights of the old town and a warm meal near a fireplace."
+          },
+          "stops": [
+            {
+              "name": "Bardolino Lakeside Promenade",
+              "tip_4lang": {
+                "de": "Suchen Sie nach den traditionellen Weihnachtskrippen, die oft entlang des Wassers ausgestellt sind.",
+                "hu": "Keresse a hagyományos betlehemi jeleneteket, amelyeket gyakran a víz mentén állítanak fel.",
+                "ro": "Căutați scenele tradiționale ale Nașterii Domnului, expuse adesea de-a lungul apei.",
+                "en": "Look for the traditional nativity scenes often displayed along the waterfront."
+              }
+            },
+            {
+              "name": "Port of Bardolino",
+              "tip_4lang": {
+                "de": "Der Wasserstand ist im Winter oft niedriger, was die Felsen des Seeufers freilegt.",
+                "hu": "A vízszint télen gyakran alacsonyabb, így láthatóvá válnak a tóparti sziklák.",
+                "ro": "Nivelul apei este adesea mai scăzut iarna, dezvăluind stâncile de pe malul lacului.",
+                "en": "The water level is often lower in winter, revealing the rocks of the lakeshore."
+              }
+            },
+            {
+              "name": "Villa Carrara Bottagisio",
+              "tip_4lang": {
+                "de": "Die kahlen Bäume im Park bieten einen freien Blick auf die Fassade der Villa.",
+                "hu": "A park kopár fái között ilyenkor akadálytalan kilátás nyílik a villa homlokzatára.",
+                "ro": "Copacii desfrunziți din parc oferă o vedere neobstrucționată asupra fațadei vilei.",
+                "en": "The bare trees in the park offer an unobstructed view of the villa's facade."
+              }
+            },
+            {
+              "name": "Church of San Severo",
+              "tip_4lang": {
+                "de": "Im Inneren kann es sehr kalt sein; behalten Sie Ihren Mantel während des Besuchs an.",
+                "hu": "A belső térben nagyon hideg lehet; látogatás közben ne vegye le a kabátját.",
+                "ro": "Interiorul poate fi foarte rece; păstrați haina pe dvs. în timpul vizitei.",
+                "en": "It can be very cold inside; keep your coat on during the visit."
+              }
+            },
+            {
+              "name": "Church of San Zeno",
+              "tip_4lang": {
+                "de": "Ein ruhiger Zufluchtsort vor dem kalten 'Ora'-Wind, der vom See weht.",
+                "hu": "Békés menedék a tó felől fújó hideg 'Ora' szél elől.",
+                "ro": "Un refugiu liniștit de vântul rece 'Ora' care bate de pe lac.",
+                "en": "A quiet refuge from the cold 'Ora' wind blowing off the lake."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist im Dezember gegen 16:45 Uhr; planen Sie Fotos früh ein.",
+              "Probieren Sie eine heiße Schokolade auf der Piazza Matteotti gegen die Kälte.",
+              "Die Uferpromenade kann bei Frost am frühen Morgen rutschig sein.",
+              "Besuchen Sie den kleinen Weihnachtsmarkt am Hafen für lokales Handwerk."
+            ],
+            "hu": [
+              "A naplemente decemberben 16:45 körül van; a fotózást tervezze korábbra.",
+              "Kóstolja meg a forró csokoládét a Piazza Matteotti-n a hideg ellen.",
+              "A sétány a kora reggeli fagyok idején csúszós lehet.",
+              "Keresse fel a kikötőnél lévő kis karácsonyi vásárt a helyi kézműves termékekért."
+            ],
+            "ro": [
+              "Apusul este în jurul orei 16:45 în decembrie; planificați fotografiile devreme.",
+              "Încercați o ciocolată caldă în Piazza Matteotti pentru a vă încălzi.",
+              "Promenada poate fi alunecoasă în timpul înghețului de dimineață devreme.",
+              "Vizitați micul târg de Crăciun din port pentru artizanat local."
+            ],
+            "en": [
+              "Sunset is around 16:45 in December; plan your photos accordingly.",
+              "Try a hot chocolate in Piazza Matteotti to counter the cold.",
+              "The promenade can be slippery during early morning frost.",
+              "Visit the small Christmas market at the port for local crafts."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -391,6 +795,186 @@
         "en": [
           "The lakeside bike path also leads to Garda and Lazise."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "hu": "Kerékpárral kényelmesen elérheti a városon kívüli híres bor- és olajmúzeumokat.",
+            "de": "Mit dem Fahrrad erreichen Sie bequem die berühmten Wein- und Ölmuseen außerhalb der Stadt.",
+            "ro": "Cu bicicleta puteți ajunge cu ușurință la faimoasele muzee de vin și ulei din afara orașului.",
+            "en": "By bike, you can easily reach the famous wine and oil museums outside the town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Vino",
+                "hu": "Bormúzeum",
+                "ro": "Muzeul Vinului",
+                "en": "Wine Museum"
+              },
+              "tip_5lang": {
+                "hu": "Interaktív tárlat a híres bardolinói borokról.",
+                "de": "Interaktive Ausstellung über die berühmten Bardolino-Weine.",
+                "ro": "Expoziție interactivă despre faimoasele vinuri Bardolino.",
+                "en": "Interactive exhibition about the famous Bardolino wines."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo dell'Olio d'Oliva",
+                "hu": "Olívaolaj Múzeum",
+                "ro": "Muzeul Uleiului de Măsline",
+                "en": "Olive Oil Museum"
+              },
+              "tip_5lang": {
+                "hu": "Tudjon meg mindent az olajbogyó feldolgozásáról.",
+                "de": "Erfahren Sie alles über die Verarbeitung von Oliven.",
+                "ro": "Aflați totul despre prelucrarea măslinelor.",
+                "en": "Learn everything about olive processing."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "hu": [],
+            "de": [],
+            "ro": [],
+            "en": []
+          },
+          "quiet_picks": {
+            "hu": [],
+            "de": [],
+            "ro": [],
+            "en": []
+          },
+          "shopping_picks": {
+            "hu": [],
+            "de": [],
+            "ro": [],
+            "en": []
+          },
+          "tips": {
+            "hu": [
+              "A tóparti kerékpárút Gardába és Lazisébe is elvezet."
+            ],
+            "de": [
+              "Der Radweg am See führt auch nach Garda und Lazise."
+            ],
+            "ro": [
+              "Pista de biciclete de pe malul lacului duce și spre Garda și Lazise."
+            ],
+            "en": [
+              "The lakeside bike path also leads to Garda and Lazise."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen führt Sie schnell zu den besten Indoor-Zielen Bardolinos. Die Museen bieten eine willkommene Pause vom nassen Wetter. Mittags ist das Weinmuseum der perfekte Ort, um trocken zu bleiben und etwas über die lokalen Traditionen zu lernen. Am Nachmittag radeln Sie zum Olivenölmuseum, wo Sie lokale Produkte probieren können, während draußen der Regen fällt. Der Abend endet mit einer kurzen Fahrt zurück in die Stadt zu einem warmen Abendessen.",
+            "hu": "Az esős bringázás gyorsan elvezeti Bardolino legjobb fedett helyszíneire. A múzeumok hívogató menedéket jelentenek a vizes időben. Délben a Bormúzeum ideális pont a pihenésre és a helyi hagyományok megismerésére szárazon. Délután tekerjen át az Olívaolaj Múzeumba, ahol megkóstolhatja a helyi kincseket, amíg kint esik az eső. Az este egy rövid tekeréssel zárul vissza a városba, ahol egy meleg vacsora várja.",
+            "ro": "O tură cu bicicleta pe ploaie vă conduce rapid către cele mai bune destinații interioare. Muzeele oferă o pauză binevenită. La prânz, Muzeul Vinului este locul perfect pentru a rămâne uscat și a învăța despre tradițiile locale. După-amiaza, pedalați spre Muzeul Uleiului de Măsline, unde puteți degusta produse locale în timp ce afară plouă. Seara se încheie cu o scurtă cursă înapoi în oraș pentru o cină caldă.",
+            "en": "A bike ride in the rain leads you quickly to Bardolino's best indoor destinations. The museums offer a welcome break from the wet weather. At midday, the Wine Museum is the perfect spot to stay dry and learn about local traditions. In the afternoon, cycle to the Olive Oil Museum, where you can sample local products while the rain falls outside. The evening ends with a short ride back to town for a warm dinner."
+          },
+          "stops": [
+            {
+              "name": "Wine Museum",
+              "tip_4lang": {
+                "de": "Überdachte Fahrradständer sind am Eingang vorhanden, um Ihre Ausrüstung trocken zu halten.",
+                "hu": "A bejáratnál fedett kerékpártárolók találhatók, így a felszerelése száraz marad.",
+                "ro": "Sunt disponibile suporturi de biciclete acoperite la intrare pentru a vă păstra echipamentul uscat.",
+                "en": "Covered bike racks are available at the entrance to keep your gear dry."
+              }
+            },
+            {
+              "name": "Olive Oil Museum",
+              "tip_4lang": {
+                "de": "Ein großartiger Ort, um Souvenirs zu kaufen, während man auf das Ende des Schauers wartet.",
+                "hu": "Nagyszerű hely szuvenírek vásárlására, miközben várja a zápor végét.",
+                "ro": "Un loc minunat pentru a cumpăra suveniruri în timp ce așteptați oprirea ploii.",
+                "en": "A great place to buy souvenirs while waiting for the shower to pass."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind auf den nassen Uferwegen unerlässlich.",
+              "Die Bremswege auf nassem Asphalt verlängern sich erheblich.",
+              "Tragen Sie auffällige Kleidung, da die Sicht bei Regen sinkt.",
+              "Vermeiden Sie schnelle Kurven auf den glatten Kopfsteinpflasterabschnitten."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a vizes tóparti utakon.",
+              "A fékút jelentősen megnő a nedves aszfalton, kalkuláljon ezzel.",
+              "Viseljen feltűnő ruházatot, mert a látási viszonyok esőben romlanak.",
+              "Kerülje a hirtelen kanyarodást a csúszós macskaköves szakaszokon."
+            ],
+            "ro": [
+              "Aripile sunt esențiale pe traseele umede de pe malul lacului.",
+              "Distanța de frânare pe asfalt ud crește semnificativ.",
+              "Purtați haine reflectorizante, deoarece vizibilitatea scade pe ploaie.",
+              "Evitați virajele strânse pe secțiunile cu piatră cubică alunecoasă."
+            ],
+            "en": [
+              "Mudguards are essential on the wet lakeside paths.",
+              "Braking distances increase significantly on wet asphalt.",
+              "Wear high-visibility clothing as visibility drops during rain.",
+              "Avoid sharp turns on the slippery cobblestone sections."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Winterradtour in Bardolino ist belebend, erfordert aber gute Schichten. Die klare Luft bietet weite Ausblicke über den See. Mittags ist das Aufwärmen im Weinmuseum ein Muss, um die Kälte aus den Knochen zu vertreiben. Der Nachmittag führt zum Olivenölmuseum, wo man mehr über die Winterernte erfährt. Der Abend kommt schnell; radeln Sie rechtzeitig zurück, bevor die Temperaturen bei Sonnenuntergang sinken.",
+            "hu": "A téli bringázás Bardolinóban frissítő, de réteges öltözetet igényel. A tiszta levegő messzi kilátást enged a tó felett. Délben a Bormúzeumban való felmelegedés kötelező program a hideg után. Délután az Olívaolaj Múzeum felé vegyük az irányt, ahol megismerhetjük a téli betakarítás titkait. Az este hamar eljön; érjen vissza a városba, mielőtt a hőmérséklet napnyugtakor leesne.",
+            "ro": "O tură cu bicicleta iarna în Bardolino este revigorantă, dar necesită straturi bune de haine. Aerul clar oferă vederi largi peste lac. La prânz, încălzirea la Muzeul Vinului este obligatorie pentru a alunga frigul. După-amiaza duce către Muzeul Uleiului de Măsline, unde aflați despre recolta de iarnă. Seara vine repede; pedalați înapoi înainte ca temperaturile să scadă la apus.",
+            "en": "A winter bike ride in Bardolino is invigorating but requires good layers. The clear air offers vast views across the lake. At midday, warming up at the Wine Museum is a must to drive the cold out of your bones. The afternoon leads to the Olive Oil Museum, where you learn about the winter harvest. The evening comes quickly; cycle back in time before temperatures drop at sunset."
+          },
+          "stops": [
+            {
+              "name": "Wine Museum",
+              "tip_4lang": {
+                "de": "Eine Verkostung eines kräftigen Bardolino Classico ist ideal zum Aufwärmen.",
+                "hu": "Egy testes Bardolino Classico kóstolása ideális a felmelegedéshez.",
+                "ro": "O degustare de Bardolino Classico este ideală pentru a vă încălzi.",
+                "en": "A tasting of a bold Bardolino Classico is ideal for warming up."
+              }
+            },
+            {
+              "name": "Olive Oil Museum",
+              "tip_4lang": {
+                "de": "Lernen Sie mehr über die Kaltpressung, während Sie im Warmen bleiben.",
+                "hu": "Tudjon meg többet a hidegsajtolásról, miközben a melegben pihen.",
+                "ro": "Aflați mai multe despre presarea la rece în timp ce stați la căldură.",
+                "en": "Learn more about cold pressing while staying in the warm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Handschuhe sind für die Abfahrten von den Hügeln unerlässlich.",
+              "Prüfen Sie den Reifendruck, da kalte Luft ihn reduzieren kann.",
+              "Fahren Sie auf den Radwegen, da diese im Winter oft besser geräumt sind.",
+              "Nehmen Sie ein heißes Getränk in einer Thermoskanne mit."
+            ],
+            "hu": [
+              "A kesztyű elengedhetetlen a dombokról való leereszkedéskor.",
+              "Ellenőrizze a guminyomást, mert a hideg levegő miatt csökkenhet.",
+              "Használja a kerékpárutakat, ezeket télen is gyakran tisztítják.",
+              "Vigyen magával forró italt termoszban a hosszabb utakra."
+            ],
+            "ro": [
+              "Mănușile sunt esențiale pentru coborârile de pe dealuri.",
+              "Verificați presiunea în pneuri, deoarece aerul rece o poate reduce.",
+              "Rămâneți pe pistele de biciclete, sunt adesea mai bine întreținute iarna.",
+              "Luați cu dvs. o băutură caldă într-un termos."
+            ],
+            "en": [
+              "Gloves are essential for the descents from the hills.",
+              "Check tire pressure as cold air can reduce it.",
+              "Stay on the bike paths as they are often better cleared in winter.",
+              "Take a hot drink in a thermos for the longer stretches."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -462,6 +1046,154 @@
         "en": [
           "The coastal road is often congested during high season."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "hu": "Az autóval érkezőknek érdemes felkapaszkodni a Szent György-remeteséghez a panorámáért.",
+            "de": "Für Autofahrer lohnt sich die Auffahrt zur Eremo di San Giorgio für das Panorama.",
+            "ro": "Pentru cei cu mașina, merită să urcați la schitul San Giorgio pentru panoramă.",
+            "en": "For car travelers, it's worth driving up to the Hermitage of San Giorgio for the panorama."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Eremo di San Giorgio",
+                "hu": "Szent György-remeteség",
+                "ro": "Schitul San Giorgio",
+                "en": "Hermitage of San Giorgio"
+              },
+              "tip_5lang": {
+                "hu": "Lenyűgöző kilátás a tóra a dombtetőről.",
+                "de": "Atemberaubender Seeblick vom Hügel.",
+                "ro": "Vedere uluitoare spre lac de pe deal.",
+                "en": "Breathtaking lake view from the hill."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "hu": [],
+            "de": [],
+            "ro": [],
+            "en": []
+          },
+          "quiet_picks": {
+            "hu": [],
+            "de": [],
+            "ro": [],
+            "en": []
+          },
+          "shopping_picks": {
+            "hu": [],
+            "de": [],
+            "ro": [],
+            "en": []
+          },
+          "tips": {
+            "hu": [
+              "A part menti út főszezonban gyakran bedugul."
+            ],
+            "de": [
+              "Die Uferstraße ist in der Hochsaison oft verstopft."
+            ],
+            "ro": [
+              "Drumul de coastă este adesea blocat în plin sezon."
+            ],
+            "en": [
+              "The coastal road is often congested during high season."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Bardolino auch bei Regen bequem erkunden. Die Fahrt zum Kloster bietet spektakuläre Ausblicke auf den stürmischen See. Mittags genießen Sie die Aussicht vom Auto aus, bevor Sie das historische Kloster besichtigen. Der Nachmittag ist perfekt für eine Fahrt durch die Weinberge hinter der Stadt. Am Abend kehren Sie trocken und entspannt ins Zentrum zurück.",
+            "hu": "Autóval Bardolino esőben is kényelmesen felfedezhető. A kolostorhoz vezető út látványos kilátást nyújt a viharos tóra. Délben élvezze a kilátást az autóból, mielőtt meglátogatná a történelmi épületegyüttest. Délután tegyen egy kört a város mögötti szőlőültetvények között. Este szárazon és pihenten térhet vissza a városközpontba.",
+            "ro": "Cu mașina, Bardolino poate fi explorat confortabil chiar și pe ploaie. Drumul spre schit oferă vederi spectaculoase. La prânz, bucurați-vă de peisaj din mașină înainte de a vizita schitul istoric. După-amiaza este perfectă pentru o plimbare prin podgoriile din spatele orașului. Seara, reveniți în centru uscat și relaxat.",
+            "en": "By car, Bardolino can be explored comfortably even in the rain. The drive to the hermitage offers spectacular views of the stormy lake. At midday, enjoy the views from the car before visiting the historic site. The afternoon is perfect for a drive through the vineyards behind the town. In the evening, return to the center dry and relaxed."
+          },
+          "stops": [
+            {
+              "name": "Hermitage of San Giorgio",
+              "tip_4lang": {
+                "de": "Der Parkplatz ist nah am Eingang, sodass Sie nur kurz im Regen laufen müssen.",
+                "hu": "A parkoló közel van a bejárathoz, így csak keveset kell gyalogolnia az esőben.",
+                "ro": "Parcarea este aproape de intrare, reducând timpul petrecut în ploaie.",
+                "en": "The parking lot is close to the entrance, minimizing time spent in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straße zum Kloster ist schmal; fahren Sie bei starkem Regen vorsichtig.",
+              "Parkplätze in Hafennähe sind an Regentagen oft leichter zu finden.",
+              "Nutzen Sie das Parkhaus in der Nähe der Altstadt für trockenes Aussteigen.",
+              "Achten Sie auf Pfützen in den tiefer gelegenen Straßen."
+            ],
+            "hu": [
+              "A kolostorhoz vezető út szűk; heves esőben vezessen óvatosan.",
+              "A kikötő közeli parkolók esős napokon gyakran könnyebben elérhetők.",
+              "Használja az óváros melletti parkolóházat a száraz kiszálláshoz.",
+              "Ügyeljen a mélyebben fekvő utcákban kialakuló tócsákra."
+            ],
+            "ro": [
+              "Drumul spre schit este îngust; conduceți cu atenție pe ploaie torențială.",
+              "Locurile de parcare lângă port sunt mai ușor de găsit în zilele ploioase.",
+              "Folosiți parcarea etajată de lângă centrul vechi pentru a coborî la uscat.",
+              "Atenție la bălțile de pe străzile joase."
+            ],
+            "en": [
+              "The road to the hermitage is narrow; drive carefully in heavy rain.",
+              "Parking near the port is often easier to find on rainy days.",
+              "Use the parking garage near the old town for dry exit from the car.",
+              "Watch out for large puddles in lower-lying streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Winterfahrt zum Kloster San Giorgio bietet atemberaubende Ausblicke auf die frostigen Hügel des Gardasees. Am Mittag ist das Licht über dem See besonders klar und perfekt für Fotos von der Höhe aus. Der Nachmittag eignet sich für eine Panoramafahrt entlang der Olivenhaine. Der Abend endet mit einem Besuch in einem der ausgezeichneten Restaurants der Region.",
+            "hu": "A téli autózás a San Giorgio kolostorhoz lenyűgöző kilátást nyújt a Garda-tó dérlepte dombjaira. Délben a fények különösen tiszták a tó felett, ideális a fotózáshoz a magasból. Délután tegyen egy panoráma-utat az olajfaligetek mentén. Az estét zárja a régió egyik kiváló éttermében.",
+            "ro": "O plimbare de iarnă spre Schitul San Giorgio oferă vederi uluitoare asupra dealurilor înghețate. La prânz, lumina peste lac este extrem de clară, perfectă pentru fotografii de la înălțime. După-amiaza este potrivită pentru un drum panoramic pe lângă livezile de măslini. Seara se încheie cu o vizită la unul dintre restaurantele excelente din regiune.",
+            "en": "A winter drive to the Hermitage of San Giorgio offers breathtaking views of the frosty Garda hills. At midday, the light over the lake is exceptionally clear, perfect for photos from above. The afternoon is suitable for a scenic drive along the olive groves. The evening ends with a visit to one of the region's excellent restaurants."
+          },
+          "stops": [
+            {
+              "name": "Hermitage of San Giorgio",
+              "tip_4lang": {
+                "de": "Genießen Sie den Sonnenuntergang über dem See; im Winter ist er oft spektakulär.",
+                "hu": "Élvezze a naplementét a tó felett; télen gyakran egészen látványos.",
+                "ro": "Bucurați-vă de apusul peste lac; iarna este adesea spectaculos.",
+                "en": "Enjoy the sunset over the lake; in winter it is often spectacular."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Auto wintertauglich ist, falls Frost auftritt.",
+              "Die Parkplatzsuche ist im Winter im Zentrum von Bardolino stressfrei.",
+              "Die Auffahrt zum Kloster kann bei Frost schattig und glatt sein.",
+              "Nutzen Sie die Sitzheizung, während Sie den Ausblick genießen."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy autója fel van készítve a téli útviszonyokra.",
+              "A parkolás télen Bardolino központjában teljesen stresszmentes.",
+              "A kolostorhoz vezető út árnyékos részei fagyosak és csúszósak lehetnek.",
+              "Használja az ülésfűtést, miközben a kilátásban gyönyörködik."
+            ],
+            "ro": [
+              "Asigurați-vă că mașina este pregătită pentru condiții de iarnă.",
+              "Găsirea unui loc de parcare în centrul orașului este fără stres iarna.",
+              "Urcarea spre schit poate fi umbrită și alunecoasă în caz de îngheț.",
+              "Folosiți încălzirea în scaune în timp ce admirați priveliștea."
+            ],
+            "en": [
+              "Ensure your car is prepared for winter conditions in case of frost.",
+              "Finding parking in the center of Bardolino is stress-free in winter.",
+              "The climb to the hermitage can be shaded and slippery if frosty.",
+              "Use the seat heating while you enjoy the panoramic views."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -509,6 +1241,119 @@
         "en": [
           "The boat pier is located in the middle of the harbor."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "hu": "A buszok és hajók remek összeköttetést biztosítanak a tó többi városával.",
+            "de": "Busse und Schiffe bieten eine großartige Anbindung an andere Städte am See.",
+            "ro": "Autobuzele și vapoarele oferă conexiuni excelente cu celelalte orașe de pe lac.",
+            "en": "Buses and boats provide great connections to other towns on the lake."
+          },
+          "stops": [],
+          "gastro_picks": {
+            "hu": [],
+            "de": [],
+            "ro": [],
+            "en": []
+          },
+          "quiet_picks": {
+            "hu": [],
+            "de": [],
+            "ro": [],
+            "en": []
+          },
+          "shopping_picks": {
+            "hu": [],
+            "de": [],
+            "ro": [],
+            "en": []
+          },
+          "tips": {
+            "hu": [
+              "A hajóállomás a kikötő közepén található."
+            ],
+            "de": [
+              "Die Bootsanlegestelle befindet sich in der Mitte des Hafens."
+            ],
+            "ro": [
+              "Stația de vapoare se află în mijlocul portului."
+            ],
+            "en": [
+              "The boat pier is located in the middle of the harbor."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der öffentliche Nahverkehr ist eine gute Wahl, um Bardolino bei Regen zu erkunden, ohne nass zu werden. Mittags erreichen Sie bequem die Museen mit dem Bus. Am Nachmittag bietet eine Fahrt mit der Fähre (sofern in Betrieb) einen tollen Blick auf die stürmische Küste vom Trockenen aus. Der Abend endet entspannt mit dem Bus zurück zum Ausgangspunkt.",
+            "hu": "A tömegközlekedés remek választás Bardolino esős felfedezéséhez anélkül, hogy elázna. Délben busszal kényelmesen elérheti a múzeumokat. Délután egy kompozás (ha üzemel) remek rálátást biztosít a viharos partra a száraz fedélzetről. Az este nyugodtan zárul a busszal a szálláshely felé.",
+            "ro": "Transportul public este o alegere bună pentru a explora Bardolino pe ploaie fără a vă uda. La prânz, puteți ajunge ușor la muzee cu autobuzul. După-amiaza, o cursă cu feribotul (dacă circulă) oferă o vedere excelentă asupra coastei. Seara se încheie relaxat cu autobuzul înapoi spre punctul de pornire.",
+            "en": "Public transit is a great choice for exploring Bardolino in the rain without getting soaked. At midday, you can easily reach the museums by bus. In the afternoon, a ferry ride (if operating) offers a great view of the stormy coast from the dry interior. The evening ends relaxingly with the bus back to your starting point."
+          },
+          "stops": [],
+          "tips": {
+            "de": [
+              "Die Bushaltestelle in Bardolino ist teilweise überdacht.",
+              "Prüfen Sie den Fährplan, da kleinere Boote bei Sturm ausfallen können.",
+              "Kaufen Sie Tickets vorab in Tabakläden, um Wartezeiten im Regen zu vermeiden.",
+              "Die Busse sind gut beheizt und bieten eine trockene Fahrt."
+            ],
+            "hu": [
+              "A bardolinói buszmegálló részben fedett, keressen ott menedéket.",
+              "Ellenőrizze a hajómenetrendet, mert a kisebb járatokat viharban törölhetik.",
+              "Vegye meg a jegyet előre a trafikokban, hogy ne kelljen az esőben sorban állnia.",
+              "A buszok jól fűtöttek és száraz utazást biztosítanak."
+            ],
+            "ro": [
+              "Stația de autobuz din Bardolino este parțial acoperită.",
+              "Verificați programul feriboturilor, cursele mici pot fi anulate pe furtună.",
+              "Cumpărați bilete în avans de la chioșcurile de ziare pentru a evita coada pe ploaie.",
+              "Autobuzele sunt bine încălzite și oferă o călătorie uscată."
+            ],
+            "en": [
+              "The bus station in Bardolino is partially covered.",
+              "Check the ferry schedule as smaller boats might be cancelled in storms.",
+              "Buy tickets in advance at tobacco shops to avoid waiting in the rain.",
+              "The buses are well-heated and provide a dry journey."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreisen mit dem Bus durch die Gardasee-Region bieten entspannte Ausblicke auf die winterliche Landschaft. Mittags erreichen Sie die wichtigsten Sehenswürdigkeiten warm und sicher. Der Nachmittag ist ideal für eine kurze Busfahrt in die Nachbarorte. Der Abend wird am besten in der Nähe des Zentrums verbracht, wo die Busverbindungen am besten sind.",
+            "hu": "A téli buszozás a Garda-tó vidékén nyugodt kilátást nyújt a hűvös tájra. Délben melegben és biztonságban érheti el a főbb nevezetességeket. A délután ideális egy rövid buszos kiránduláshoz a szomszédos településekre. Az estét érdemes a központ közelében tölteni, ahol a legjobb a közlekedés.",
+            "ro": "Călătoriile de iarnă cu autobuzul prin regiunea Garda oferă vederi relaxate asupra peisajului. La prânz, ajungeți la principalele atracții la căldură și în siguranță. După-amiaza este ideală pentru o scurtă călătorie cu autobuzul în orașele vecine. Seara este cel mai bine petrecută în apropierea centrului, unde conexiunile sunt optime.",
+            "en": "Winter travel by bus through the Garda region offers relaxed views of the winter landscape. At midday, you reach the main sights warmly and safely. The afternoon is ideal for a short bus trip to neighboring towns. The evening is best spent near the center, where bus connections are most frequent."
+          },
+          "stops": [],
+          "tips": {
+            "de": [
+              "Im Winter verkehren die Busse seltener; prüfen Sie den Fahrplan genau.",
+              "Die Fähren haben im Winter einen eingeschränkten Fahrplan.",
+              "Nutzen Sie die Busse, um die Parkplatzsuche im winterlichen Verkehr zu vermeiden.",
+              "Warme Wartehallen sind selten; kommen Sie pünktlich zur Abfahrt."
+            ],
+            "hu": [
+              "Télen a buszok ritkábban járnak; ellenőrizze pontosan a menetrendet.",
+              "A kompok télen korlátozott menetrend szerint közlekednek.",
+              "Használja a buszokat, hogy elkerülje a téli parkolókeresést.",
+              "Fűtött váróterem ritka; érkezzen pontosan az induláshoz."
+            ],
+            "ro": [
+              "Iarna autobuzele circulă mai rar; verificați programul cu atenție.",
+              "Feriboturile au un program restricționat în perioada de iarnă.",
+              "Folosiți autobuzele pentru a evita căutarea parcării în traficul de iarnă.",
+              "Sălile de așteptare încălzite sunt rare; veniți la timp pentru plecare."
+            ],
+            "en": [
+              "Buses run less frequently in winter; check the schedule carefully.",
+              "Ferries have a restricted schedule during the winter months.",
+              "Use buses to avoid searching for parking in winter traffic.",
+              "Heated waiting areas are rare; arrive exactly on time for departure."
+            ]
+          }
+        }
       }
     }
   },

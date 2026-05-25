@@ -320,6 +320,412 @@
           "Marina Frapa offers free Wi-Fi for visitors.",
           "Shade is scarce at Cape Gradina, bring a hat."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie die charmanten Gassen der Altstadt auf der Insel. Mittags schlendern Sie durch die luxuriöse Marina Frapa, eine der schönsten an der Adria. Nachmittags entspannen Sie am Strand Miline und besuchen das Naturphänomen des Drachenaugen-Sees. Den Abend lassen Sie bei einem romantischen Spaziergang zum Kap Gradina ausklingen.",
+            "hu": "A reggelt a szigeten fekvő óváros hangulatos utcáin kezdjük. Délben a Marina Frapa luxusjachtjai között sétálunk, ami az Adria egyik legszebb kikötője. Délután a Miline strandon pihenünk, majd megnézzük a Sárkány-szem tó természeti csodáját. Az estét egy romantikus sétával zárjuk a Gradina-fokhoz.",
+            "ro": "Dimineața explorați străduțele fermecătoare ale orașului vechi de pe insulă. La prânz vă plimbați prin luxoasa Marina Frapa, una dintre cele mai frumoase porturi de la Adriatică. După-amiaza vă relaxați pe plaja Miline și vizitați fenomenul natural al Lacului Ochiul Dragonului. Încheiați seara cu o plimbare romantică spre Capul Gradina.",
+            "en": "Start your morning in the charming streets of the old town on the island. At noon, stroll through the luxurious Marina Frapa, one of the most beautiful marinas on the Adriatic. In the afternoon, relax at Miline Beach and visit the natural phenomenon of Dragon's Eye Lake. Finish the evening with a romantic walk to Cape Gradina."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altstadt von Rogoznica",
+                "hu": "Rogoznica óvárosa",
+                "ro": "Orașul vechi Rogoznica",
+                "en": "Rogoznica Old Town"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Kirche Mariä Himmelfahrt",
+                "hu": "Mária Mennybevétele templom",
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "en": "Church of the Assumption"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Marina Frapa",
+                "hu": "Marina Frapa",
+                "ro": "Marina Frapa",
+                "en": "Marina Frapa"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Strand Miline",
+                "hu": "Miline strand",
+                "ro": "Plaja Miline",
+                "en": "Miline Beach"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Drachenaugen-See",
+                "hu": "Sárkány-szem tó",
+                "ro": "Lacul Ochiul Dragonului",
+                "en": "Dragon's Eye Lake"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Kap Gradina",
+                "hu": "Gradina-fok",
+                "ro": "Capul Gradina",
+                "en": "Cape Gradina"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Rogoznička Popara",
+                "tip": "Fischeintopf im Restaurant Antonijo"
+              },
+              {
+                "name": "Pršut & Käse",
+                "tip": "Lokale Delikatessen in der Konoba Škoj"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rogoznicai Popara",
+                "tip": "Halragu az Antonijo étteremben"
+              },
+              {
+                "name": "Pršut és sajt",
+                "tip": "Helyi finomságok a Konoba Škoj-ban"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Popara de Rogoznica",
+                "tip": "Tocăniță de pește la restaurantul Antonijo"
+              },
+              {
+                "name": "Pršut și brânză",
+                "tip": "Delicii locale la Konoba Škoj"
+              }
+            ],
+            "en": [
+              {
+                "name": "Rogoznica Popara",
+                "tip": "Fish stew at Restaurant Antonijo"
+              },
+              {
+                "name": "Pršut & Cheese",
+                "tip": "Local delicacies at Konoba Škoj"
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kapelle Gospa od Kapelice",
+                "tip": "Stiller Ort direkt am Meer",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Lavendel-Labyrinth",
+                "tip": "Duftende Entspannung im Grünen",
+                "emoji": "🌿"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gospa od Kapelice kápolna",
+                "tip": "Csendes hely közvetlenül a tengernél",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Levendula-labirintus",
+                "tip": "Illatos kikapcsolódás a zöldben",
+                "emoji": "🌿"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Capela Gospa od Kapelice",
+                "tip": "Loc liniștit direct la mare",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Labirintul de lavandă",
+                "tip": "Relaxare parfumată în natură",
+                "emoji": "🌿"
+              }
+            ],
+            "en": [
+              {
+                "name": "Gospa od Kapelice Chapel",
+                "tip": "Quiet spot right by the sea",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Lavender Labyrinth",
+                "tip": "Fragrant relaxation in the greenery",
+                "emoji": "🌿"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Markt",
+                "tip": "Frisches Obst und Olivenöl"
+              },
+              {
+                "name": "Marina Shop",
+                "tip": "Exklusive Segelbekleidung"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi piac",
+                "tip": "Friss gyümölcsök és olívaolaj"
+              },
+              {
+                "name": "Marina Shop",
+                "tip": "Exkluzív vitorlás ruházat"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața locală",
+                "tip": "Fructe proaspete și ulei de măsline"
+              },
+              {
+                "name": "Marina Shop",
+                "tip": "Îmbrăcăminte exclusivă de navigație"
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Market",
+                "tip": "Fresh fruit and olive oil"
+              },
+              {
+                "name": "Marina Shop",
+                "tip": "Exclusive sailing apparel"
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Rogoznica ist eine Insel, die durch einen Damm verbunden ist.",
+              "Tragen Sie Badeschuhe für den Drachenaugen-See.",
+              "Die Marina Frapa bietet kostenloses WLAN für Besucher.",
+              "Schatten ist am Kap Gradina rar, bringen Sie einen Hut mit."
+            ],
+            "hu": [
+              "Rogoznica egy sziget, amelyet töltés köt össze a szárazfölddel.",
+              "Viseljünk úszócipőt a Sárkány-szem tónál.",
+              "A Marina Frapa ingyenes Wi-Fi-t kínál a látogatóknak.",
+              "A Gradina-fokon kevés az árnyék, hozzunk kalapot."
+            ],
+            "ro": [
+              "Rogoznica este o insulă legată printr-un dig de uscat.",
+              "Purtați încălțăminte de apă pentru Lacul Ochiul Dragonului.",
+              "Marina Frapa oferă Wi-Fi gratuit pentru vizitatori.",
+              "Umbra este rară la Capul Gradina, aduceți o pălărie."
+            ],
+            "en": [
+              "Rogoznica is an island connected by a causeway.",
+              "Wear water shoes for the Dragon's Eye Lake.",
+              "Marina Frapa offers free Wi-Fi for visitors.",
+              "Shade is scarce at Cape Gradina, bring a hat."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in der Altstadt von Rogoznica beginnt trotz Regen stimmungsvoll in den engen Gassen. Mittags bietet die Marina Frapa exzellente überdachte Plätze, um das Wetter bei einem Kaffee zu beobachten. Nachmittags zeigt sich der Drachenaugensee in dramatischem Licht, während die Wolken tief hängen. Der Abend klingt gemütlich in einer der küstennahen Konobas bei prasselndem Regen aus.",
+            "hu": "A reggel az óváros szűk utcáin esőben is hangulatos, a kőházak védelmet nyújtanak a szél ellen. Délben a Marina Frapa elegáns fedett teraszai tökéletesek a pihenésre. Délután a Sárkányszem-tó misztikus látványt nyújt a borús égbolt alatt. Az este egy helyi konobában, a tenger morajlását hallgatva, egy tál meleg halleves mellett a legkellemesebb.",
+            "ro": "Dimineața în orașul vechi din Rogoznica este atmosferică chiar și pe ploaie, străzile înguste oferind un farmec aparte. La prânz, Marina Frapa oferă adăpost excelent și vederi frumoase spre port. După-amiaza, Lacul Ochiul Dragonului capătă nuanțe dramatice sub cerul înnorat. Seara se încheie perfect într-o tavernă locală, savurând preparate calde în timp ce ploaia bate în geam.",
+            "en": "Morning in Rogoznica's old town remains atmospheric despite the rain, with narrow stone alleys providing some shelter. At noon, Marina Frapa offers excellent covered spots to enjoy the view of the yachts. In the afternoon, Dragon's Eye Lake looks mystical under the heavy clouds. The evening is best spent in a cozy local konoba, listening to the rain while enjoying fresh seafood."
+          },
+          "stops": [
+            {
+              "name": "Rogoznica Old Town",
+              "tip_5lang": {
+                "de": "Kopfsteinpflaster ist rutschig, tragen Sie feste Schuhe.",
+                "hu": "A macskakő csúszós, viseljen tapadós talpú cipőt.",
+                "ro": "Pavelele sunt alunecoase, purtați încălțăminte adecvată.",
+                "en": "Cobblestones are slippery when wet, wear grippy shoes."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Ein idealer trockener Ort für Besinnung und Architektur.",
+                "hu": "Tökéletes száraz menedék a belső tér megcsodálására.",
+                "ro": "Un loc uscat ideal pentru a admira arhitectura interioară.",
+                "en": "A perfect dry sanctuary to admire the local architecture."
+              }
+            },
+            {
+              "name": "Marina Frapa",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Arkaden für den Spaziergang.",
+                "hu": "Használja a fedett árkádokat a sétához a kikötőben.",
+                "ro": "Folosiți arcadele acoperite pentru plimbarea prin marină.",
+                "en": "Use the covered arcades for your walk around the marina."
+              }
+            },
+            {
+              "name": "Miline Beach",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach eines geschlossenen Cafés.",
+                "hu": "Rövid megálló egy zárt kávézó előtetője alatt.",
+                "ro": "Oprire scurtă sub copertina unei cafenele închise.",
+                "en": "Quick stop under the awning of a closed beach cafe."
+              }
+            },
+            {
+              "name": "Dragon's Eye Lake",
+              "tip_5lang": {
+                "de": "Vorsicht am Rand, die Felsen können sehr glatt sein.",
+                "hu": "Vigyázat a parton, a sziklák rendkívül csúszósak lehetnek.",
+                "ro": "Atenție pe margine, stâncile pot fi foarte alunecoase.",
+                "en": "Be careful at the edge, the rocks can be very slippery."
+              }
+            },
+            {
+              "name": "Cape Gradina",
+              "tip_5lang": {
+                "de": "Genießen Sie die Brandung aus sicherer Entfernung.",
+                "hu": "Élvezze a hullámtörést biztonságos távolságból.",
+                "ro": "Admirați valurile izbindu-se de țărm de la distanță.",
+                "en": "Enjoy the dramatic waves from a safe distance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Windschirm ist wegen der Küstenböen essenziell.",
+              "Die Marina Frapa bietet die besten Indoor-Optionen der Stadt.",
+              "Viele Wege in der Altstadt haben natürliche Überdachungen.",
+              "Tragen Sie wasserfeste Wanderschuhe für die Naturpfade."
+            ],
+            "hu": [
+              "Az erős tengeri szél miatt stabil esernyőre lesz szüksége.",
+              "A Marina Frapa kínálja a város legjobb fedett helyeit.",
+              "Az óváros utcáin sok helyen találhatunk természetes ereszt.",
+              "Vízálló túrabakancs ajánlott a sziklás ösvényekhez."
+            ],
+            "ro": [
+              "O umbrelă rezistentă la vânt este esențială pe coastă.",
+              "Marina Frapa oferă cele mai bune opțiuni de interior din oraș.",
+              "Multe străduțe din orașul vechi oferă adăpost natural.",
+              "Purtați încălțăminte impermeabilă pentru potecile naturale."
+            ],
+            "en": [
+              "A windproof umbrella is essential due to coastal gusts.",
+              "Marina Frapa provides the best indoor facilities in town.",
+              "Many old town alleys offer natural cover from the rain.",
+              "Wear waterproof hiking shoes for the natural segments."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Rogoznica ist erfrischend und friedlich ohne die Sommermassen. Mittags wärmt die Sonne die hellen Steine der Marina, ideal für einen kurzen Aufenthalt im Freien. Der frühe Sonnenuntergang am Nachmittag taucht das Kap Gradina in goldenes Licht. Abends kehrt Stille im Dorf ein, die man am besten am Kamin einer offenen Taverne genießt.",
+            "hu": "A téli reggel Rogoznicában frissítő és békés, tömegek nélkül fedezhetjük fel az utcákat. Délben a nap kellemesen melengeti a Marina fehér köveit, alkalmat adva egy sétára. A korai naplemente délután aranyba öltözteti a Gradina-fokot. Az este csendes, a legkellemesebb egy kandallóval fűtött helyi vendéglőben elidőzni.",
+            "ro": "O dimineață de iarnă în Rogoznica este revigorantă și liniștită, fără mulțimile de vară. La prânz, soarele încălzește pietrele albe din marină, perfect pentru o scurtă pauză. Apusul timpuriu de după-amiază scaldă Capul Gradina în lumină aurie. Seara aduce o liniște deplină, ideală pentru a fi savurată lângă un șemineu local.",
+            "en": "A crisp winter morning in Rogoznica is refreshing and peaceful without the summer crowds. At noon, the sun warms the bright stones of the marina, perfect for a short stroll. The early afternoon sunset paints Cape Gradina in golden hues. The evening brings a deep silence to the village, best enjoyed by the fireplace of a local tavern."
+          },
+          "stops": [
+            {
+              "name": "Rogoznica Old Town",
+              "tip_5lang": {
+                "de": "Die Steine speichern die Mittagssonne sehr gut.",
+                "hu": "A kövek jól tárolják a déli napsütés melegét.",
+                "ro": "Pietrele rețin bine căldura soarelui de la prânz.",
+                "en": "The stones retain the midday sun warmth very well."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Im Inneren ist es oft wärmer als im kalten Seewind.",
+                "hu": "Odabent gyakran melegebb van, mint a kinti szélben.",
+                "ro": "În interior este adesea mai cald decât în vântul mării.",
+                "en": "It is often warmer inside than in the cold sea breeze."
+              }
+            },
+            {
+              "name": "Marina Frapa",
+              "tip_5lang": {
+                "de": "Nur wenige Cafés sind offen, prüfen Sie die Marina.",
+                "hu": "Csak néhány kávézó van nyitva, nézzen szét a marinában.",
+                "ro": "Puține cafenele sunt deschise, verificați în marină.",
+                "en": "Only a few cafes remain open, check the marina area."
+              }
+            },
+            {
+              "name": "Miline Beach",
+              "tip_5lang": {
+                "de": "Ideal für einen einsamen Spaziergang in der Wintersonne.",
+                "hu": "Tökéletes egy magányos sétához a téli napsütésben.",
+                "ro": "Ideal pentru o plimbare solitară în soarele de iarnă.",
+                "en": "Perfect for a solitary walk in the winter sun."
+              }
+            },
+            {
+              "name": "Dragon's Eye Lake",
+              "tip_5lang": {
+                "de": "Das Wasser ist im Winter oft kristallklar und ruhig.",
+                "hu": "A víz télen gyakran kristálytiszta és teljesen nyugodt.",
+                "ro": "Apa este adesea cristalină și liniștită în timpul iernii.",
+                "en": "The water is often crystal clear and calm in winter."
+              }
+            },
+            {
+              "name": "Cape Gradina",
+              "tip_5lang": {
+                "de": "Seien Sie vor 16:30 Uhr hier für den Sonnenuntergang.",
+                "hu": "Érkezzen 16:30 előtt, ha látni akarja a naplementét.",
+                "ro": "Sosiți înainte de 16:30 pentru a vedea apusul.",
+                "en": "Be here before 16:30 to catch the winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist bereits gegen 16:30 Uhr.",
+              "Achten Sie auf die Bora, den kalten Nordostwind.",
+              "Viele touristische Restaurants haben Winterpause.",
+              "Zwiebelprinzip bei der Kleidung schützt vor dem Wind."
+            ],
+            "hu": [
+              "A naplemente már délután fél 5 körül bekövetkezik.",
+              "Vigyázzon a Bura szélre, ami nagyon hideg lehet.",
+              "Sok turista-étterem zárva tart ilyenkor.",
+              "A réteges öltözködés kötelező a tengerparti szélben."
+            ],
+            "ro": [
+              "Apusul soarelui are loc în jur de ora 16:30.",
+              "Atenție la Bura, vântul rece din nord-est.",
+              "Multe restaurante turistice sunt închise iarna.",
+              "Îmbrăcămintea stratificată este esențială împotriva vântului."
+            ],
+            "en": [
+              "Sunset occurs early, around 16:30 in mid-winter.",
+              "Watch out for the Bura, the cold northeastern wind.",
+              "Many tourist-oriented restaurants close for the season.",
+              "Layered clothing is vital to block the sea wind."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -605,6 +1011,387 @@
           "Rent e-bikes for the hills in the hinterland.",
           "Bicycle helmets are mandatory for children under 16."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour führt Sie entlang der malerischen Küste von Rogoznica. Sie beginnen an der Marina, umrunden den Drachenaugen-See und radeln zum Lavendel-Labyrinth. Nach einer langen Badepause am Strand Miline erkunden Sie die historische Altstadt und beenden den Tag am Kap Gradina.",
+            "hu": "Ez a kerékpártúra Rogoznica festői partvidékén vezet végig. A kikötőben kezdünk, megkerüljük a Sárkány-szem tavat, majd eltekerünk a levendula-labirintushoz. Egy hosszú strandolás után a Miline parton, felfedezzük a történelmi óvárost, és a napot a Gradina-foknál zárjuk.",
+            "ro": "Acest tur cu bicicleta vă poartă de-a lungul coastei pitorești din Rogoznica. Începeți la marină, ocoliți Lacul Ochiul Dragonului și pedalați spre Labirintul de lavandă. După o pauză lungă de baie pe plaja Miline, explorați centrul istoric și încheiați ziua la Capul Gradina.",
+            "en": "This bike tour takes you along the picturesque coast of Rogoznica. Start at the marina, circle the Dragon's Eye Lake, and cycle to the Lavender Labyrinth. After a long swimming break at Miline Beach, explore the historical old town and end the day at Cape Gradina."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Marina Frapa",
+                "hu": "Marina Frapa",
+                "ro": "Marina Frapa",
+                "en": "Marina Frapa"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Drachenaugen-See",
+                "hu": "Sárkány-szem tó",
+                "ro": "Lacul Ochiul Dragonului",
+                "en": "Dragon's Eye Lake"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Lavendel-Labyrinth",
+                "hu": "Levendula-labirintus",
+                "ro": "Labirintul de lavandă",
+                "en": "Lavender Labyrinth"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Kirche Unserer Lieben Frau von der Kapelle",
+                "hu": "Szent Szűz kápolna",
+                "ro": "Biserica Maicii Domnului de la Capelă",
+                "en": "Church of Our Lady of the Chapel"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Strand Miline",
+                "hu": "Miline strand",
+                "ro": "Plaja Miline",
+                "en": "Miline Beach"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Altstadt von Rogoznica",
+                "hu": "Rogoznica óvárosa",
+                "ro": "Orașul vechi Rogoznica",
+                "en": "Rogoznica Old Town"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Kap Gradina",
+                "hu": "Gradina-fok",
+                "ro": "Capul Gradina",
+                "en": "Cape Gradina"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gegrillter Tintenfisch",
+                "tip": "Frisch gefangen in der Konoba Mario"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Grillezett tintahal",
+                "tip": "Frissen fogva a Konoba Mario-ban"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Calamar la grătar",
+                "tip": "Proaspăt prins la Konoba Mario"
+              }
+            ],
+            "en": [
+              {
+                "name": "Grilled Squid",
+                "tip": "Freshly caught at Konoba Mario"
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pinienwald am Kap",
+                "tip": "Kühler Schatten für Pausen",
+                "emoji": "🌲"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fenyőerdő a foknál",
+                "tip": "Hűvös árnyék a pihenéshez",
+                "emoji": "🌲"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pădurea de pini de la cap",
+                "tip": "Umbră răcoroasă pentru pauze",
+                "emoji": "🌲"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pine forest at the cape",
+                "tip": "Cool shade for breaks",
+                "emoji": "🌲"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Hausgemachter Honig",
+                "tip": "Verkauf an den Straßenständen"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Háziméz",
+                "tip": "Vásárlás az útmenti árusoknál"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere de casă",
+                "tip": "Vânzare la standurile stradale"
+              }
+            ],
+            "en": [
+              {
+                "name": "Homemade Honey",
+                "tip": "Sale at roadside stalls"
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Wege am Ufer sind meist flach und gut befahrbar.",
+              "Vorsicht bei starkem Wind (Bura) auf den offenen Abschnitten.",
+              "Mieten Sie E-Bikes für die Hügel im Hinterland.",
+              "Fahrradhelme sind für Kinder unter 16 Jahren Pflicht."
+            ],
+            "hu": [
+              "A parti utak többnyire síkok és jól járhatók.",
+              "Vigyázzunk az erős szélre (Bura) a nyitott szakaszokon.",
+              "Béreljünk e-bike-ot a háttérben lévő dombokhoz.",
+              "A kerékpáros sisak 16 év alatti gyermekeknek kötelező."
+            ],
+            "ro": [
+              "Drumurile de pe mal sunt în mare parte plate și ușor de parcurs.",
+              "Atenție la vântul puternic (Bura) pe secțiunile deschise.",
+              "Închiriați e-bike-uri pentru dealurile din interior.",
+              "Căștile de bicicletă sunt obligatorii pentru copiii sub 16 ani."
+            ],
+            "en": [
+              "The shore paths are mostly flat and easy to ride.",
+              "Be careful of strong winds (Bura) on open sections.",
+              "Rent e-bikes for the hills in the hinterland.",
+              "Bicycle helmets are mandatory for children under 16."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Vormittag auf dem Rad führt entlang der glänzenden Küstenstraße zur Marina. Mittags bietet der Drachenaugensee einen dramatischen Anblick unter dunklen Wolken. Der Nachmittag erfordert Vorsicht auf den Pfaden zum Lavendellabyrinth, da der Boden aufweicht. Am Abend ist man froh, das Rad abzustellen und sich in einer warmen Bar in der Altstadt aufzuwärmen.",
+            "hu": "Az esős délelőtt a fényes tengerparti úton vezet a kikötő felé. Délben a Sárkányszem-tó sötét felhők alatt mutatja meg vad arcát. Délután óvatosság kell a Levendula-labirintus felé, az utak sárosak lehetnek. Este jól esik leparkolni a bringát és beülni egy forró italra az óváros egyik bárjába.",
+            "ro": "O dimineață ploioasă pe bicicletă urmează drumul strălucitor de pe coastă. La prânz, Lacul Ochiul Dragonului oferă o priveliște dramatică sub norii grei. După-amiaza necesită prudență pe drumul spre Labirintul de Lavandă din cauza noroiului. Seara, e o plăcere să lași bicicleta și să te încălzești într-un bar din centru.",
+            "en": "A rainy morning on the bike follows the shiny coastal road towards the marina. At noon, Dragon's Eye Lake shows its wild side under dark clouds. The afternoon ride to the Lavender Labyrinth requires caution as paths get muddy. In the evening, it feels great to park the bike and warm up with a drink in an old town bar."
+          },
+          "stops": [
+            {
+              "name": "Marina Frapa",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer vorhanden, nutzen Sie diese.",
+                "hu": "Vannak fedett kerékpártárolók, használja őket.",
+                "ro": "Există suporturi de biciclete acoperite, folosiți-le.",
+                "en": "Covered bike racks are available, make use of them."
+              }
+            },
+            {
+              "name": "Dragon's Eye Lake",
+              "tip_5lang": {
+                "de": "Der Boden ist felsig und bei Regen extrem rutschig.",
+                "hu": "A talaj sziklás és esőben rendkívül csúszós.",
+                "ro": "Terenul este stâncos și extrem de alunecos pe ploaie.",
+                "en": "The terrain is rocky and extremely slippery in rain."
+              }
+            },
+            {
+              "name": "Lavender Labyrinth",
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege können sehr schlammig sein.",
+                "hu": "A kiépítetlen utak nagyon sárosak lehetnek.",
+                "ro": "Drumurile neasfaltate pot deveni foarte noroioase.",
+                "en": "The unpaved paths can become quite muddy."
+              }
+            },
+            {
+              "name": "Church of Our Lady of the Chapel",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Pause vom Regen.",
+                "hu": "Csendes hely egy rövid pihenőre az eső elől.",
+                "ro": "Un loc liniștit pentru o pauză scurtă de ploaie.",
+                "en": "A quiet spot for a brief break from the rain."
+              }
+            },
+            {
+              "name": "Miline Beach",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Fahren direkt auf dem nassen Kies.",
+                "hu": "Kerülje a közvetlenül a nedves kavicson való tekerést.",
+                "ro": "Evitați să pedalați direct pe pietrișul ud.",
+                "en": "Avoid riding directly on the wet pebbles."
+              }
+            },
+            {
+              "name": "Rogoznica Old Town",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in den engsten Gassen.",
+                "hu": "A legszűkebb utcákban érdemes tolni a biciklit.",
+                "ro": "E recomandat să împingeți bicicleta în zonele strâmte.",
+                "en": "Better to push your bike in the narrowest alleys."
+              }
+            },
+            {
+              "name": "Cape Gradina",
+              "tip_5lang": {
+                "de": "Achten Sie auf starke Windböen von der Seeseite.",
+                "hu": "Vigyázzon az erős széllökésekre a tenger felől.",
+                "ro": "Atenție la rafalele puternice de vânt dinspre mare.",
+                "en": "Watch out for strong wind gusts from the sea side."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bremstests auf nassem Asphalt sind lebenswichtig.",
+              "Vermeiden Sie Pfützen, sie könnten tiefe Löcher verbergen.",
+              "Schutzbleche am Rad verhindern nasse Kleidung.",
+              "Tragen Sie eine gut sichtbare Regenjacke."
+            ],
+            "hu": [
+              "A fékpróba nedves aszfalton életfontosságú.",
+              "Kerülje a tócsákat, mély lyukakat rejthetnek.",
+              "A sárvédő elengedhetetlen a tiszta ruházathoz.",
+              "Viseljen jól látható esőkabátot vagy mellényt."
+            ],
+            "ro": [
+              "Testarea frânelor pe asfalt ud este vitală.",
+              "Evitați bălțile, pot ascunde gropi adânci.",
+              "Aripile la bicicletă previn udarea hainelor.",
+              "Purtați o jachetă de ploaie reflectorizantă."
+            ],
+            "en": [
+              "Testing brakes on wet asphalt is crucial for safety.",
+              "Avoid puddles as they might hide deep potholes.",
+              "Mudguards are essential to keep your clothes dry.",
+              "Wear a high-visibility rain jacket for safety."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem frischen Wintermorgen ist die Radtour zur Marina belebend. Mittags bietet die Sonne am Drachenaugensee genügend Wärme für eine kurze Pause. Der Nachmittag führt durch die kargere, aber dennoch schöne Winterlandschaft zum Lavendellabyrinth. Da es früh dunkel wird, endet die Tour am späten Nachmittag in der gemütlichen Altstadt von Rogoznica.",
+            "hu": "A friss téli reggelen a tekerés a Marina felé felpezsdítő. Délben a nap a Sárkányszem-tónál elegendő meleget ad egy pihenőhöz. Délután a kopárabb, de szép téli tájon át vezet az út a labirintushoz. Mivel korán sötétedik, a túra késő délután az óváros meghitt fényeiben ér véget.",
+            "ro": "O dimineață răcoroasă de iarnă face tura spre marină revigorantă. La prânz, soarele de la Lacul Ochiul Dragonului oferă destulă căldură. După-amiaza traversează peisajul de iarnă spre Labirintul de Lavandă. Deoarece se întunecă devreme, turul se încheie spre seară în centrul vechi.",
+            "en": "A crisp winter morning makes the bike ride to the marina invigorating. At noon, the sun by Dragon's Eye Lake provides enough warmth for a break. The afternoon route goes through the stark but beautiful winter landscape. As darkness falls early, the tour finishes in the late afternoon in the cozy old town."
+          },
+          "stops": [
+            {
+              "name": "Marina Frapa",
+              "tip_5lang": {
+                "de": "Die Wege sind trocken, aber der Wind ist kalt.",
+                "hu": "Az utak szárazak, de a szél nagyon hideg.",
+                "ro": "Drumurile sunt uscate, dar vântul este rece.",
+                "en": "The paths are dry, but the sea breeze is chilly."
+              }
+            },
+            {
+              "name": "Dragon's Eye Lake",
+              "tip_5lang": {
+                "de": "Im Winter ist der See oft spiegelglatt.",
+                "hu": "Télen a tó vize gyakran tükörsima.",
+                "ro": "Iarna, lacul este adesea neted ca o oglindă.",
+                "en": "The lake is often perfectly still during winter."
+              }
+            },
+            {
+              "name": "Lavender Labyrinth",
+              "tip_5lang": {
+                "de": "Der Lavendel blüht nicht, die Struktur ist aber sichtbar.",
+                "hu": "A levendula nem virágzik, de a formája látható.",
+                "ro": "Lavanda nu este înflorită, dar structura e vizibilă.",
+                "en": "Lavender isn't blooming, but the pattern is visible."
+              }
+            },
+            {
+              "name": "Church of Our Lady of the Chapel",
+              "tip_5lang": {
+                "de": "Ein schöner Aussichtspunkt für die Wintersonne.",
+                "hu": "Szép kilátópont a téli napsütés élvezetéhez.",
+                "ro": "Un punct de observație frumos pentru soarele de iarnă.",
+                "en": "A beautiful viewpoint to catch some winter sun."
+              }
+            },
+            {
+              "name": "Miline Beach",
+              "tip_5lang": {
+                "de": "Der Wind am Strand kann im Winter sehr beißend sein.",
+                "hu": "A strandnál a szél télen nagyon csípős lehet.",
+                "ro": "Vântul pe plajă poate fi foarte tăios iarna.",
+                "en": "The wind at the beach can be biting in winter."
+              }
+            },
+            {
+              "name": "Rogoznica Old Town",
+              "tip_5lang": {
+                "de": "Genießen Sie die leeren Straßen für Fotos.",
+                "hu": "Használja ki az üres utcákat a fotózáshoz.",
+                "ro": "Profitați de străzile goale pentru fotografii.",
+                "en": "Take advantage of the empty streets for photos."
+              }
+            },
+            {
+              "name": "Cape Gradina",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind für die Rückfahrt nötig.",
+                "hu": "Meleg kesztyű kell a visszaúthoz a hidegben.",
+                "ro": "Mănușile groase sunt necesare pentru drumul înapoi.",
+                "en": "Warm gloves are needed for the ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und Ohrenschutz sind Pflicht.",
+              "Die Sonne geht gegen 16:30 Uhr unter, Licht prüfen.",
+              "Vermeiden Sie schattige Stellen, dort kann es glatt sein.",
+              "Trinken Sie trotz Kälte genug Wasser."
+            ],
+            "hu": [
+              "A meleg kesztyű és a fülvédő kötelező.",
+              "A nap 16:30 körül nyugszik, ellenőrizze a lámpákat.",
+              "Kerülje az árnyékos részeket, ott deres lehet az út.",
+              "Hidegben is igyon elegendő vizet a túra alatt."
+            ],
+            "ro": [
+              "Mănușile călduroase și protecția urechilor sunt obligatorii.",
+              "Soarele apune la 16:30, verificați luminile.",
+              "Evitați zonele umbrite, pot fi înghețate.",
+              "Beți suficientă apă în ciuda temperaturilor scăzute."
+            ],
+            "en": [
+              "Warm gloves and ear protection are mandatory.",
+              "Sunset is around 16:30, ensure your lights work.",
+              "Avoid shaded areas as they can stay icy or frosty.",
+              "Keep hydrated even if you don't feel thirsty in the cold."
+            ]
+          }
+        }
       }
     }
   },

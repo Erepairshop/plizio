@@ -320,6 +320,412 @@
           "In summer, there are many fisherman's evenings with music.",
           "Parking in the center is often difficult, use hotel parking lots."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie die reiche Geschichte von Gradac am südlichen Ende der Makarska Riviera. Der Vormittag gehört der Archäologie und der alten Festung Gradina. Mittags genießen Sie das lebhafte Treiben auf der kilometerlangen Uferpromenade. Der Nachmittag steht im Zeichen der Entspannung am Gornja Vala Strand, bevor Sie zum Aussichtspunkt Sveti Paško aufsteigen.",
+            "hu": "Fedezzük fel Gradac gazdag történelmét a Makarska Riviéra déli végén. A délelőtt a régészeté és a régi Gradina erődé. Délben élvezzük a pezsgő életet a kilométer hosszú tengerparti sétányon. A délután a pihenésé a Gornja Vala strandon, mielőtt felkapaszkodnánk a Sveti Paško kilátóhoz.",
+            "ro": "Descoperiți istoria bogată a localității Gradac, la capătul sudic al Rivierei Makarska. Dimineața este dedicată arheologiei și vechii cetăți Gradina. La prânz vă bucurați de animația de pe faleza lungă de kilometri. După-amiaza este dedicată relaxării pe plaja Gornja Vala, înainte de a urca la punctul de belvedere Sveti Paško.",
+            "en": "Discover the rich history of Gradac at the southern end of the Makarska Riviera. The morning is dedicated to archaeology and the old Gradina fortress. At noon, enjoy the lively atmosphere on the kilometer-long waterfront promenade. The afternoon is all about relaxation at Gornja Vala Beach, before climbing up to the Sveti Paško viewpoint."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lapidarium von Gradac",
+                "hu": "Gradaci Lapidárium",
+                "ro": "Lapidariul din Gradac",
+                "en": "Gradac Lapidarium"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Kirche des Hl. Michael",
+                "hu": "Szent Mihály templom",
+                "ro": "Biserica Sfântul Mihail",
+                "en": "Church of St. Michael"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Gradina Festung",
+                "hu": "Gradina erőd",
+                "ro": "Cetatea Gradina",
+                "en": "Gradina Fortress"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Uferpromenade",
+                "hu": "Tengerparti sétány",
+                "ro": "Faleza",
+                "en": "Waterfront Promenade"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Gornja Vala Strand",
+                "hu": "Gornja Vala strand",
+                "ro": "Plaja Gornja Vala",
+                "en": "Gornja Vala Beach"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Sveti Paško",
+                "hu": "Sveti Paško kilátó",
+                "ro": "Punct de belvedere Sveti Paško",
+                "en": "Sveti Paško Viewpoint"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Lamm am Spieß",
+                "tip": "Traditionell in den Restaurants im Hinterland"
+              },
+              {
+                "name": "Makarska Torte",
+                "tip": "Süße Spezialität mit Mandeln"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Nyárson sült bárány",
+                "tip": "Hagyományos a háttérben lévő éttermekben"
+              },
+              {
+                "name": "Makarskai torta",
+                "tip": "Édes különlegesség mandulával"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miel la proțap",
+                "tip": "Tradițional în restaurantele din interior"
+              },
+              {
+                "name": "Tort Makarska",
+                "tip": "Specialitate dulce cu migdale"
+              }
+            ],
+            "en": [
+              {
+                "name": "Spit-roasted Lamb",
+                "tip": "Traditional in the hinterland restaurants"
+              },
+              {
+                "name": "Makarska Cake",
+                "tip": "Sweet specialty with almonds"
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Alter Friedhof",
+                "tip": "Stille unter alten Zypressen",
+                "emoji": "⛪"
+              },
+              {
+                "name": "Steinleuchtturm",
+                "tip": "Ruhiger Platz zum Angeln und Schauen",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Régi temető",
+                "tip": "Csend az öreg ciprusok alatt",
+                "emoji": "⛪"
+              },
+              {
+                "name": "Kővilágítótorony",
+                "tip": "Nyugodt hely horgászáshoz és nézelődéshez",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cimitirul vechi",
+                "tip": "Liniște sub chiparoșii bătrâni",
+                "emoji": "⛪"
+              },
+              {
+                "name": "Farul de piatră",
+                "tip": "Loc liniștit pentru pescuit și admirat",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Old Cemetery",
+                "tip": "Silence under old cypresses",
+                "emoji": "⛪"
+              },
+              {
+                "name": "Stone Lighthouse",
+                "tip": "Quiet spot for fishing and viewing",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lavendelsäckchen",
+                "tip": "Inselduft zum Mitnehmen"
+              },
+              {
+                "name": "Olivenholz-Produkte",
+                "tip": "Handgefertigte Küchenutensilien"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Levendulazsákok",
+                "tip": "Szigeti illat elvitelre"
+              },
+              {
+                "name": "Olajfa termékek",
+                "tip": "Kézzel készített konyhai eszközök"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Săculeți cu lavandă",
+                "tip": "Parfum de insulă de luat acasă"
+              },
+              {
+                "name": "Produse din lemn de măslin",
+                "tip": "Ustensile de bucătărie lucrate manual"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lavender sachets",
+                "tip": "Island scent to take home"
+              },
+              {
+                "name": "Olive wood products",
+                "tip": "Handmade kitchen utensils"
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Gradac ist idealer Ausgangspunkt für Ausflüge nach Mostar oder Dubrovnik.",
+              "Der Gornja Vala Strand hat feinen Kies, Badeschuhe sind dennoch ratsam.",
+              "Im Sommer gibt es viele Fischerabende mit Musik.",
+              "Parken ist im Zentrum oft schwierig, nutzen Sie Hotelparkplätze."
+            ],
+            "hu": [
+              "Gradac ideális kiindulópont Mostarba vagy Dubrovnikba történő kirándulásokhoz.",
+              "A Gornja Vala strand finomkavicsos, de úszócipő ajánlott.",
+              "Nyáron számos halászestet rendeznek zenével.",
+              "A parkolás a központban gyakran nehéz, használjuk a hotelparkolókat."
+            ],
+            "ro": [
+              "Gradac este un punct de plecare ideal pentru excursii la Mostar sau Dubrovnik.",
+              "Plaja Gornja Vala are pietriș fin, totuși încălțămintea de apă este recomandată.",
+              "Vara au loc multe seri pescărești cu muzică.",
+              "Parcarea în centru este adesea dificilă, folosiți parcările hotelurilor."
+            ],
+            "en": [
+              "Gradac is an ideal starting point for trips to Mostar or Dubrovnik.",
+              "Gornja Vala Beach has fine pebbles, but water shoes are still advisable.",
+              "In summer, there are many fisherman's evenings with music.",
+              "Parking in the center is often difficult, use hotel parking lots."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den verregneten Vormittag im Lapidarium und der Michaelskirche, die trockenen Unterschlupf bieten. Mittags geht es trotz Nieselregen zur Gradina-Festung, wo die alten Steine im Regen glänzen. Nachmittags spazieren Sie mit Schirm an der Uferpromenade und dem Gornja Vala Strand, um die raue See zu beobachten. Den Abend lassen Sie am Sveti Paško Aussichtspunkt ausklingen, während die Wolken über die Adria ziehen.",
+            "hu": "Kezdje az esős délelőttöt a Lapidariumban és a Szent Mihály-templomban, amelyek védelmet nyújtanak az elemektől. Délben látogasson el a Gradina-erődhöz, ahol a nedves kövek különleges hangulatot árasztanak. Délután tegyen egy sétát ernyővel a tengerparti sétányon és a Gornja Vala strandon, figyelve a hullámzó tengert. Az estét a Sveti Paško kilátónál zárja, ahol az esőfelhők drámai látványt nyújtanak az Adria felett.",
+            "ro": "Începeți dimineața ploioasă la Lapidarium și Biserica Sf. Mihail, care oferă adăpost uscat. La prânz, mergeți la Cetatea Gradina, unde piatra veche strălucește sub ploaie. După-amiaza, plimbați-vă cu umbrela pe faleză și pe plaja Gornja Vala pentru a admira marea agitată. Încheiați seara la punctul de belvedere Sveti Paško, urmărind norii care se mișcă rapid deasupra Adriaticii.",
+            "en": "Start your rainy morning at the Lapidarium and St. Michael's Church, offering dry refuge. At noon, head to Gradina Fortress, where the old stones glisten in the rain. In the afternoon, take an umbrella stroll along the promenade and Gornja Vala beach to watch the moody sea. End the evening at the Sveti Paško viewpoint, as the rain clouds create a dramatic scene over the Adriatic."
+          },
+          "stops": [
+            {
+              "name": "Gradac Lapidarium",
+              "tip_4lang": {
+                "de": "Perfekter Ort, um dem ersten Regenschauer des Tages trocken zu entkommen.",
+                "hu": "Tökéletes hely, hogy szárazon megússza a nap első záporát.",
+                "ro": "Locul perfect pentru a scăpa de prima ploaie a zilei.",
+                "en": "Perfect place to escape the first downpour of the day while staying dry."
+              }
+            },
+            {
+              "name": "Church of St. Michael",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Stille im Inneren, während draußen der Regen auf das Dach prasselt.",
+                "hu": "Élvezze a benti csendet, miközben kint az eső kopog a tetőn.",
+                "ro": "Bucurați-vă de liniștea din interior în timp ce ploaia bate în acoperiș.",
+                "en": "Enjoy the interior silence while the rain patters on the roof outside."
+              }
+            },
+            {
+              "name": "Gradina Fortress",
+              "tip_4lang": {
+                "de": "Vorsicht auf den nassen Steinen; sie können beim Aufstieg rutschig sein.",
+                "hu": "Vigyázzon a nedves köveken; felfelé menet csúszósak lehetnek.",
+                "ro": "Atenție pe pietrele ude; pot fi alunecoase în timpul urcării.",
+                "en": "Be careful on the wet stones; they can be slippery during the ascent."
+              }
+            },
+            {
+              "name": "Waterfront Promenade",
+              "tip_4lang": {
+                "de": "Ein stabiler Windschirm ist hier aufgrund der Meeresbrise unerlässlich.",
+                "hu": "Egy stabil, szélálló esernyő elengedhetetlen a tengeri szellő miatt.",
+                "ro": "O umbrelă rezistentă la vânt este esențială aici din cauza brizelor marine.",
+                "en": "A sturdy windproof umbrella is essential here due to the sea breezes."
+              }
+            },
+            {
+              "name": "Gornja Vala Beach",
+              "tip_4lang": {
+                "de": "Beobachten Sie die Wellen von einem der überdachten Cafés am Strandrand.",
+                "hu": "Figyelje a hullámokat a strand szélén található fedett kávézók egyikéből.",
+                "ro": "Observați valurile de la una dintre cafenelele acoperite de la marginea plajei.",
+                "en": "Watch the waves from one of the covered cafes at the edge of the beach."
+              }
+            },
+            {
+              "name": "Sveti Paško Viewpoint",
+              "tip_4lang": {
+                "de": "Die Sicht auf die stürmische Adria ist bei Regen besonders dramatisch.",
+                "hu": "A viharos Adria látványa esőben különösen drámai a kilátóból.",
+                "ro": "Vederea asupra Adriaticii furtunoase este deosebit de dramatică pe ploaie.",
+                "en": "The view of the stormy Adriatic is particularly dramatic in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die gepflasterten Wege.",
+              "Die Cafés an der Promenade bieten gemütliche Unterstände bei Starkregen.",
+              "Packen Sie Ihr Handy in eine wasserdichte Hülle für Fotos.",
+              "Prüfen Sie die Windvorhersage, da Regen oft mit starkem Jugo-Wind einhergeht."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a kövezett utakhoz.",
+              "A sétány kávézói kényelmes menedéket nyújtanak heves esőzéskor.",
+              "Tegye a telefonját vízálló tokba a fotózáshoz.",
+              "Ellenőrizze a széljelentést, mert az eső gyakran erős Jugo széllel jár."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție impermeabilă pentru potecile pavate.",
+              "Cafenelele de pe faleză oferă adăposturi confortabile în caz de ploaie torențială.",
+              "Puneți telefonul într-o husă impermeabilă pentru fotografii.",
+              "Verificați prognoza de vânt, deoarece ploaia este adesea însoțită de vântul Jugo."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the paved paths.",
+              "Promenade cafes offer cozy shelters during heavy downpours.",
+              "Put your phone in a waterproof case for taking photos.",
+              "Check the wind forecast, as rain is often accompanied by strong Jugo wind."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie am kühlen Wintermorgen das Lapidarium und die Michaelskirche ohne die üblichen Touristenmassen. Mittags bietet die Gradina-Festung bei klarer Winterluft eine fantastische Fernsicht. Nachmittags spazieren Sie zügig die Promenade entlang zum einsamen Gornja Vala Strand, wo nur das Rauschen der Wellen zu hören ist. Da die Sonne gegen 16:30 Uhr untergeht, erreichen Sie den Sveti Paško Aussichtspunkt rechtzeitig für das kalte, purpurne Abendlicht.",
+            "hu": "Fedezze fel a hűvös téli reggelen a Lapidariumot és a Szent Mihály-templomot a szokásos tömeg nélkül. Délben a Gradina-erőd tiszta téli levegője fantasztikus távlatokat nyit. Délután sétáljon tempósan a sétányon a magányos Gornja Vala strandig, ahol csak a hullámok zúgása hallatszik. Mivel a nap 16:30 körül nyugszik, érjen fel időben a Sveti Paško kilátóhoz a hideg, bíborvörös alkonyi fényekért.",
+            "ro": "Explorați în dimineața răcoroasă de iarnă Lapidarium și Biserica Sf. Mihail, fără mulțimile obișnuite. La prânz, Cetatea Gradina oferă o vizibilitate fantastică datorită aerului curat. După-amiaza, plimbați-vă alert pe faleză până la plaja pustie Gornja Vala, unde se aude doar sunetul valurilor. Deoarece soarele apune în jur de 16:30, ajungeți la Sveti Paško la timp pentru lumina purpurie a înserării.",
+            "en": "Explore the Lapidarium and St. Michael's Church on a crisp winter morning without the usual crowds. At noon, Gradina Fortress offers fantastic distant views through the clear winter air. In the afternoon, walk briskly along the promenade to the lonely Gornja Vala beach, where only the waves can be heard. Since the sun sets around 16:30, reach the Sveti Paško viewpoint in time for the cold, purple twilight."
+          },
+          "stops": [
+            {
+              "name": "Gradac Lapidarium",
+              "tip_4lang": {
+                "de": "Genießen Sie die Ruhe; im Winter haben Sie die Exponate fast für sich.",
+                "hu": "Élvezze a nyugalmat; télen szinte egyedül nézheti meg a kiállítási tárgyakat.",
+                "ro": "Bucurați-vă de liniște; iarna aveți exponatele aproape doar pentru dumneavoastră.",
+                "en": "Enjoy the peace; in winter you'll have the exhibits almost to yourself."
+              }
+            },
+            {
+              "name": "Church of St. Michael",
+              "tip_4lang": {
+                "de": "Ein friedlicher Rückzugsort, der im Winter besonders andächtig wirkt.",
+                "hu": "Békés menedékhely, amely télen különösen áhítatosnak tűnik.",
+                "ro": "Un refugiu liniștit care pare deosebit de evlavios în timpul iernii.",
+                "en": "A peaceful retreat that feels particularly solemn in winter."
+              }
+            },
+            {
+              "name": "Gradina Fortress",
+              "tip_4lang": {
+                "de": "Ziehen Sie sich warm an, der Wind auf den Mauern kann im Winter schneidend sein.",
+                "hu": "Öltözzön melegen, az erőd falain a szél télen metsző lehet.",
+                "ro": "Îmbrăcați-vă gros, vântul de pe ziduri poate fi tăios în timpul iernii.",
+                "en": "Dress warmly, as the wind on the fortress walls can be biting in winter."
+              }
+            },
+            {
+              "name": "Waterfront Promenade",
+              "tip_4lang": {
+                "de": "Perfekt für einen erfrischenden Spaziergang in der kräftigen Wintersonne.",
+                "hu": "Tökéletes egy frissítő sétához az erős téli napsütésben.",
+                "ro": "Perfect pentru o plimbare revigorantă sub soarele puternic de iarnă.",
+                "en": "Perfect for a refreshing walk in the strong winter sun."
+              }
+            },
+            {
+              "name": "Gornja Vala Beach",
+              "tip_4lang": {
+                "de": "Keine Badegäste, dafür eine meditative Stille am weitläufigen Kiesstrand.",
+                "hu": "Nincsenek fürdőzők, helyette meditatív csend várja a kavicsos strandon.",
+                "ro": "Fără turiști la scăldat, ci o liniște meditativă pe plaja cu pietriș.",
+                "en": "No swimmers, instead a meditative silence on the expansive pebble beach."
+              }
+            },
+            {
+              "name": "Sveti Paško Viewpoint",
+              "tip_4lang": {
+                "de": "Planen Sie den Aufstieg für 16:00 Uhr, um den frühen Sonnenuntergang zu sehen.",
+                "hu": "Tervezze a feljutást 16:00-ra, hogy láthassa a korai naplementét.",
+                "ro": "Planificați urcarea pentru ora 16:00 pentru a vedea apusul devreme.",
+                "en": "Plan the ascent for 16:00 to catch the early winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung: Die Sonne wärmt, der Schatten ist kalt.",
+              "Achtung bei Bura-Wind; er kann das Gehen an exponierten Stellen erschweren.",
+              "Die meisten touristischen Kioske sind geschlossen, nehmen Sie Thermosgetränke mit.",
+              "Nutzen Sie die klaren Tage für die beste Sicht des ganzen Jahres."
+            ],
+            "hu": [
+              "Réteges öltözködés: a nap melegít, de az árnyék nagyon hideg.",
+              "Vigyázzon a Bura széllel; a nyitott helyeken nehézzé teheti a haladást.",
+              "A legtöbb turista-kioszk zárva van, vigyen magával termoszt.",
+              "Használja ki a tiszta napokat az év legjobb kilátásáért."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi: soarele încălzește, dar la umbră este foarte frig.",
+              "Atenție la vântul Bura; poate îngreuna mersul în locurile expuse.",
+              "Majoritatea chioșcurilor turistice sunt închise, luați un termos cu ceai.",
+              "Profită de zilele senine pentru cea mai bună vizibilitate din tot anul."
+            ],
+            "en": [
+              "Dress in layers: the sun warms you up, but the shade is very cold.",
+              "Watch out for Bura wind; it can make walking difficult in exposed areas.",
+              "Most tourist kiosks are closed, so bring a thermos with hot drinks.",
+              "Take advantage of clear days for the best visibility of the entire year."
+            ]
+          }
+        }
       }
     }
   },

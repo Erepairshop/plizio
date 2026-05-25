@@ -276,6 +276,406 @@
           "Wear comfortable shoes for the steep paths.",
           "Book restaurant tables in advance."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen von Capri auf der legendären Piazzetta. Nach einem Espresso wandern Sie zur historischen Certosa di San Giacomo und den Gärten des Augustus, von denen Sie einen atemberaubenden Blick auf die Via Krupp haben. Am Nachmittag führt Sie ein Küstenweg zum Arco Naturale, bevor Sie den Tag entspannt am Strand von Marina Piccola ausklingen lassen.",
+            "hu": "Kezdje a napot Capri szívében, a legendás Piazzettán. Egy eszpresszó után sétáljon el a történelmi Szent Jakab-kolostorhoz és az Augusztus-kertekhez, ahonnan lélegzetelállító kilátás nyílik a Via Kruppra. Délután egy tengerparti ösvény vezet a Természetes ívhez, mielőtt a napot a Marina Piccola strandján pihenve zárná.",
+            "ro": "Începeți ziua în inima insulei Capri, în legendara Piazzetta. După un espresso, mergeți la istorica Certosa di San Giacomo și la Grădinile lui Augustus, de unde aveți o vedere uluitoare asupra Via Krupp. După-amiaza, o potecă de coastă vă duce la Arco Naturale, înainte de a încheia ziua relaxându-vă pe plaja din Marina Piccola.",
+            "en": "Start your day in the heart of Capri at the legendary Piazzetta. After an espresso, walk to the historic Certosa di San Giacomo and the Gardens of Augustus, which offer breathtaking views of Via Krupp. In the afternoon, a coastal path leads you to the Natural Arch before ending the day relaxing on the beach at Marina Piccola."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazzetta di Capri",
+                "hu": "Piazzetta",
+                "ro": "Piazzetta di Capri",
+                "en": "Piazzetta"
+              },
+              "tip_5lang": {
+                "de": "Kaffee trinken und Leute beobachten.",
+                "hu": "Igyon egy kávét és figyelje a tömeget.",
+                "ro": "Beți o cafea și observați mulțimea.",
+                "en": "Grab a coffee and enjoy people-watching."
+              }
+            },
+            {
+              "name": {
+                "de": "Certosa di San Giacomo",
+                "hu": "Szent Jakab-kolostor",
+                "ro": "Certosa di San Giacomo",
+                "en": "Certosa di San Giacomo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Bibliothek der Kartause.",
+                "hu": "Látogasson el a kolostor könyvtárába.",
+                "ro": "Vizitați biblioteca mănăstirii.",
+                "en": "Visit the monastery's library."
+              }
+            },
+            {
+              "name": {
+                "de": "Gärten des Augustus",
+                "hu": "Augusztus kertjei",
+                "ro": "Grădinile lui Augustus",
+                "en": "Gardens of Augustus"
+              },
+              "tip_5lang": {
+                "de": "Bester Blick auf die Faraglioni-Felsen.",
+                "hu": "A legjobb kilátás a Faraglioni-sziklákra.",
+                "ro": "Cea mai bună vedere spre stâncile Faraglioni.",
+                "en": "Best viewpoint for the Faraglioni rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Via Krupp",
+                "hu": "Via Krupp",
+                "ro": "Via Krupp",
+                "en": "Via Krupp"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Serpentinen von oben.",
+                "hu": "Csodálja meg a szerpentineket felülről.",
+                "ro": "Admirați serpentinele de sus.",
+                "en": "Admire the hairpins from above."
+              }
+            },
+            {
+              "name": {
+                "de": "Arco Naturale",
+                "hu": "Természetes ív",
+                "ro": "Arco Naturale",
+                "en": "Natural Arch"
+              },
+              "tip_5lang": {
+                "de": "Ein spektakuläres Fotomotiv am Meer.",
+                "hu": "Látványos fotótéma a tengerparton.",
+                "ro": "O locație spectaculoasă pentru fotografii.",
+                "en": "A spectacular photo spot by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Piccola",
+                "hu": "Marina Piccola",
+                "ro": "Marina Piccola",
+                "en": "Marina Piccola"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für ein spätes Bad im Meer.",
+                "hu": "Tökéletes egy késői fürdőzéshez a tengerben.",
+                "ro": "Perfect pentru o baie târzie în mare.",
+                "en": "Perfect for a late swim in the sea."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Ravioli Capresi",
+                "tip": "Gefüllte Pasta mit Majoran und Caciotta-Käse."
+              },
+              {
+                "name": "Villa Verde",
+                "tip": "Frischer Fisch im Herzen von Capri."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ravioli Capresi",
+                "tip": "Majoránnával és caciotta sajttal töltött tészta."
+              },
+              {
+                "name": "Villa Verde",
+                "tip": "Friss halételek Capri központjában."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ravioli Capresi",
+                "tip": "Paste umplute cu măghiran și brânză caciotta."
+              },
+              {
+                "name": "Villa Verde",
+                "tip": "Pește proaspăt în inima orașului Capri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ravioli Capresi",
+                "tip": "Pasta filled with marjoram and caciotta cheese."
+              },
+              {
+                "name": "Villa Verde",
+                "tip": "Fresh fish in the heart of Capri town."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Giardini di Augusto",
+                "tip": "Stille am Morgen mit Panoramablick.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Augusztus kertjei",
+                "tip": "Reggeli csend panorámával.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădinile lui Augustus",
+                "tip": "Liniște dimineața cu vedere panoramică.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Gardens of Augustus",
+                "tip": "Morning quiet with panoramic views.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Carthusia",
+                "tip": "Lokale Parfüms aus Inselblüten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Carthusia",
+                "tip": "Helyi parfümök szigeti virágokból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Carthusia",
+                "tip": "Parfumuri locale din flori de pe insulă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Carthusia",
+                "tip": "Local perfumes made from island flowers."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die steilen Wege.",
+              "Buchen Sie Restauranttische im Voraus."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a meredek utakhoz.",
+              "Foglaljon asztalt az éttermekben előre."
+            ],
+            "ro": [
+              "Purtați încălțăminte confortabilă pentru drumurile abrupte.",
+              "Rezervați mese la restaurant în avans."
+            ],
+            "en": [
+              "Wear comfortable shoes for the steep paths.",
+              "Book restaurant tables in advance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie unter den Arkaden der Piazzetta bei einem Kaffee. Die Certosa bietet idealen Schutz vor Schauern. Mittags führen nasse, aber dramatische Wege zu den Augustus-Gärten. Den Nachmittag verbringen Sie geschützt in den Cafés von Marina Piccola, während das Meer gegen die Felsen peitscht. Abends Rückkehr durch die glänzenden Gassen der Altstadt.",
+            "hu": "Kezdje a napot a Piazzetta árkádjai alatt. A Certosa falai között menedéket talál az eső elől. Délben az Augustus-kertek vizes, de drámai panorámát nyújtanak. Délután a Marina Piccola fedett teraszairól figyelheti a hullámzást. Este a csillogó, vizes macskaköveken keresztül térhet vissza a központba.",
+            "ro": "Începeți sub arcadele din Piazzetta cu o cafea. Certosa oferă adăpost ideal împotriva ploii. La prânz, grădinile lui Augustus oferă o priveliște dramatică printre nori. După-amiaza, retrageți-vă la Marina Piccola pentru a vedea marea agitată de la adăpost. Seara, plimbare pe străzile lucioase ale centrului vechi.",
+            "en": "Start under the arcades of the Piazzetta. The Certosa provides perfect shelter during showers. At midday, enjoy dramatic views from the Augustus Gardens despite the rain. Spend the afternoon at Marina Piccola watching the rough sea from a covered spot. Return in the evening through the glistening old town streets."
+          },
+          "stops": [
+            {
+              "name": "Piazzetta",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge der Cafés als Regenschutz.",
+                "hu": "Használja a kávézók árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele cafenelelor pentru a vă proteja de ploaie.",
+                "en": "Use the cafe arcades as shelter from the rain."
+              }
+            },
+            {
+              "name": "Certosa di San Giacomo",
+              "tip_5lang": {
+                "de": "Perfekter Rückzugsort im Innenbereich bei starkem Regen.",
+                "hu": "Tökéletes beltéri helyszín erős esőzés idején.",
+                "ro": "Refugiu interior perfect în caz de ploaie torențială.",
+                "en": "Perfect indoor retreat during heavy rain."
+              }
+            },
+            {
+              "name": "Gardens of Augustus",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steinwege können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat, a köves utak vizesen nagyon csúszósak lehetnek.",
+                "ro": "Atenție, potecile de piatră pot fi alunecoase când sunt ude.",
+                "en": "Caution, stone paths can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Via Krupp",
+              "tip_5lang": {
+                "de": "Bei starkem Regen wegen Steinschlaggefahr oft gesperrt.",
+                "hu": "Erős esőben kőomlásveszély miatt gyakran lezárják.",
+                "ro": "Adesea închis în caz de ploaie din cauza riscului de căderi de pietre.",
+                "en": "Often closed during rain due to rockfall risk."
+              }
+            },
+            {
+              "name": "Natural Arch",
+              "tip_5lang": {
+                "de": "Der Waldweg kann schlammig sein, festes Schuhwerk tragen.",
+                "hu": "Az erdei út sáros lehet, viseljen zárt cipőt.",
+                "ro": "Poteca prin pădure poate fi noroioasă, purtați încălțăminte adecvată.",
+                "en": "The woodland path can be muddy, wear sturdy shoes."
+              }
+            },
+            {
+              "name": "Marina Piccola",
+              "tip_5lang": {
+                "de": "Die Cafés direkt am Ufer bieten Schutz und Wellenpanorama.",
+                "hu": "A parti kávézók védelmet és hullám-panorámát nyújtanak.",
+                "ro": "Cafenelele de pe mal oferă adăpost și panoramă asupra valurilor.",
+                "en": "Shorefront cafes offer shelter and wave panoramas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit Gummisohle, da das Pflaster extrem rutschig wird.",
+              "Die Funicolare ist die trockenste Verbindung vom Hafen nach oben.",
+              "Kaufen Sie einen stabilen Regenschirm in den Geschäften der Via Roma.",
+              "Nutzen Sie die Mittagszeit für Museumsbesuche in der Certosa.",
+              "Viele Cafés haben transparente Planen, die die Aussicht trotz Regen ermöglichen."
+            ],
+            "hu": [
+              "Viseljen gumitalpú cipőt, mert a kőburkolat rendkívül csúszóssá válik.",
+              "A sikló a legszárazabb módja a kikötőből való feljutásnak.",
+              "Vásároljon strapabíró esernyőt a Via Roma boltjaiban.",
+              "A déli órákat érdemes a Certosa múzeumaiban tölteni.",
+              "Sok kávézó átlátszó ponyvával védi a teraszt az esőtől."
+            ],
+            "ro": [
+              "Purtați pantofi cu talpă de cauciuc, pavajul devine extrem de alunecos.",
+              "Funicularul este cea mai uscată cale de a urca din port.",
+              "Cumpărați o umbrelă rezistentă din magazinele de pe Via Roma.",
+              "Folosiți orele prânzului pentru vizitarea muzeelor din Certosa.",
+              "Multe cafenele au prelate transparente pentru a păstra vizibilitatea."
+            ],
+            "en": [
+              "Wear rubber-soled shoes as the pavement becomes extremely slippery.",
+              "The funicular is the driest way to get up from the port.",
+              "Buy a sturdy umbrella from the shops on Via Roma.",
+              "Use midday hours for museum visits inside the Certosa.",
+              "Many cafes have transparent covers to allow views despite the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die Stille von Capri ohne die Sommermassen. Der Morgen beginnt frisch auf der Piazzetta, wo sich Einheimische treffen. Mittags wärmt die milde Wintersonne in der Certosa. Der Nachmittag in den Augustus-Gärten bietet kristallklare Fernsicht bis zum Festland. Beenden Sie den Tag früh in Marina Piccola, da die Sonne gegen 17:00 Uhr untergeht.",
+            "hu": "Élje át Capri nyugalmát a nyári tömeg nélkül. A reggel frissen indul a Piazzettán a helyiek körében. Délben a Certosa falai között melegít a téli napsütés. Az Augustus-kertekből télen a legtisztább a kilátás a szárazföld felé. A napot korán fejezze be Marina Piccolán, mert a nap már 17:00 körül lemegy.",
+            "ro": "Experimentați liniștea insulei Capri fără mulțimile de vară. Dimineața începe proaspăt în Piazzetta alături de localnici. La prânz, soarele blând de iarnă încălzește zidurile Certosei. Grădinile lui Augustus oferă iarna cele mai clare vederi spre continent. Încheiați ziua devreme la Marina Piccola, soarele apune în jurul orei 17:00.",
+            "en": "Experience Capri's tranquility without the summer crowds. The morning starts fresh in the Piazzetta among locals. At midday, the mild winter sun warms the Certosa walls. The afternoon at Augustus Gardens offers the clearest views of the mainland. End your day early at Marina Piccola as the sun sets around 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": "Piazzetta",
+              "tip_5lang": {
+                "de": "Trinken Sie einen Espresso im Stehen, wie die Einheimischen im Winter.",
+                "hu": "Igyon egy eszpresszót a pultnál, mint a helyiek télen.",
+                "ro": "Beți un espresso la bar, așa cum fac localnicii iarna.",
+                "en": "Drink an espresso at the bar, like the locals do in winter."
+              }
+            },
+            {
+              "name": "Certosa di San Giacomo",
+              "tip_5lang": {
+                "de": "Die Kreuzgänge sind im Winter besonders friedlich und leer.",
+                "hu": "A kerengők télen különösen békések és üresek.",
+                "ro": "Curțile interioare sunt deosebit de liniștite și pustii iarna.",
+                "en": "The cloisters are particularly peaceful and empty in winter."
+              }
+            },
+            {
+              "name": "Gardens of Augustus",
+              "tip_5lang": {
+                "de": "Genießen Sie die beste Fernsicht des Jahres bei klarer Winterluft.",
+                "hu": "Élvezze az év legjobb kilátását a tiszta téli levegőben.",
+                "ro": "Bucurați-vă de cea mai bună vizibilitate a anului în aerul curat de iarnă.",
+                "en": "Enjoy the best visibility of the year in the crisp winter air."
+              }
+            },
+            {
+              "name": "Via Krupp",
+              "tip_5lang": {
+                "de": "Wegen Instandhaltung im Winter oft nur eingeschränkt zugänglich.",
+                "hu": "Téli karbantartás miatt gyakran csak korlátozottan látogatható.",
+                "ro": "Accesul poate fi limitat iarna din cauza lucrărilor de întreținere.",
+                "en": "Access may be limited in winter due to maintenance work."
+              }
+            },
+            {
+              "name": "Natural Arch",
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne beleuchtet den Bogen ideal für Fotos.",
+                "hu": "Az alacsony téli napállás ideális megvilágítást ad a fotózáshoz.",
+                "ro": "Soarele de iarnă jos luminează arcul ideal pentru fotografii.",
+                "en": "The low winter sun illuminates the arch perfectly for photos."
+              }
+            },
+            {
+              "name": "Marina Piccola",
+              "tip_5lang": {
+                "de": "Achtung, viele Strandbäder sind im Winter komplett geschlossen.",
+                "hu": "Figyelem, sok strandfürdő télen teljesen zárva tart.",
+                "ro": "Atenție, multe stabilimente de plajă sunt complet închise iarna.",
+                "en": "Note that many beach clubs are completely closed in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr.",
+              "Viele Luxusgeschäfte haben von November bis März Winterpause.",
+              "Tragen Sie Zwiebelschichten; im Schatten wird es schnell kühl.",
+              "Die Fähren verkehren seltener und können bei Sturm ausfallen.",
+              "Anacapri ist im Winter lebendiger als Capri-Stadt."
+            ],
+            "hu": [
+              "Számoljon a korai, 17:00 körüli naplementével.",
+              "Sok luxusüzlet novembertől márciusig zárva tart.",
+              "Öltözzön rétegesen, mert az árnyékban hirtelen lehűl a levegő.",
+              "A kompok ritkábban járnak, és vihar esetén leállhatnak.",
+              "Anacapri télen élettel telibb, mint Capri városa."
+            ],
+            "ro": [
+              "Țineți cont de apusul devreme, în jurul orei 17:00.",
+              "Multe magazine de lux sunt închise din noiembrie până în martie.",
+              "Îmbrăcați-vă în straturi; la umbră se face răcoare rapid.",
+              "Ferry-urile circulă mai rar și pot fi anulate în caz de furtună.",
+              "Anacapri este mai animat iarna decât orașul Capri."
+            ],
+            "en": [
+              "Plan for an early sunset around 5:00 PM.",
+              "Many luxury boutiques are closed from November to March.",
+              "Wear layers; it gets chilly quickly in the shade.",
+              "Ferries run less frequently and can be cancelled in storms.",
+              "Anacapri is more vibrant than Capri town during winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -523,6 +923,374 @@
           "Rent an e-bike due to the steep inclines.",
           "Watch out for bus traffic on narrow roads."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie den Bergort Anacapri. Nach dem Besuch der Villa San Michele schweben Sie mit dem Sessellift auf den Monte Solaro. Den Nachmittag verbringen Sie am Leuchtturm von Punta Carena, wo Sie in das tiefblaue Meer eintauchen können, bevor Sie zum Sonnenuntergang nach Anacapri zurückkehren.",
+            "hu": "Fedezze fel Anacapri hegyi faluját. A Villa San Michele meglátogatása után libegőzzön fel a Monte Solaro csúcsára. A délutánt a Punta Carena világítótoronynál töltse, ahol megmártózhat a mélykék tengerben, mielőtt naplementére visszatérne Anacapriba.",
+            "ro": "Descoperiți satul montan Anacapri. După ce vizitați Villa San Michele, urcați cu telescaunul pe Monte Solaro. Petreceți după-amiaza la farul Punta Carena, unde puteți înota în marea albastru închis, înainte de a vă întoarce în Anacapri pentru apus.",
+            "en": "Discover the mountain village of Anacapri. After visiting Villa San Michele, take the chairlift up to Monte Solaro. Spend the afternoon at the Punta Carena lighthouse, where you can dive into the deep blue sea before returning to Anacapri for the sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Anacapri Zentrum",
+                "hu": "Anacapri központ",
+                "ro": "Centrul Anacapri",
+                "en": "Anacapri Center"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die ruhigeren Gassen.",
+                "hu": "Fedezze fel a csendesebb utcákat.",
+                "ro": "Explorați străzile mai liniștite.",
+                "en": "Explore the quieter side alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa San Michele",
+                "hu": "Villa San Michele",
+                "ro": "Villa San Michele",
+                "en": "Villa San Michele"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Garten von Axel Munthe.",
+                "hu": "Látogasson el Axel Munthe kertjébe.",
+                "ro": "Vizitați grădina lui Axel Munthe.",
+                "en": "Visit Axel Munthe's beautiful garden."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte Solaro Lift",
+                "hu": "Monte Solaro felvonó",
+                "ro": "Telescaun Monte Solaro",
+                "en": "Monte Solaro Chairlift"
+              },
+              "tip_5lang": {
+                "de": "Panoramablick über die ganze Insel.",
+                "hu": "Panoráma az egész szigetre.",
+                "ro": "Vedere panoramică asupra întregii insule.",
+                "en": "Panoramic views over the entire island."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Punta Carena",
+                "hu": "Punta Carena világítótorony",
+                "ro": "Farul Punta Carena",
+                "en": "Punta Carena Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Ein beliebter Badeplatz der Einheimischen.",
+                "hu": "A helyiek kedvenc fürdőhelye.",
+                "ro": "Un loc de scăldat preferat de localnici.",
+                "en": "A favorite swimming spot for locals."
+              }
+            },
+            {
+              "name": {
+                "de": "Anacapri Belvedere",
+                "hu": "Anacapri kilátó",
+                "ro": "Belvedere Anacapri",
+                "en": "Anacapri Belvedere"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang.",
+                "hu": "Élvezze a naplementét.",
+                "ro": "Bucurați-vă de apusul soarelui.",
+                "en": "Enjoy the sunset from here."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Torta Caprese",
+                "tip": "Klassischer Schokoladen-Mandel-Kuchen."
+              },
+              {
+                "name": "La Tablita",
+                "tip": "Gutes Essen in Anacapri."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Torta Caprese",
+                "tip": "Klasszikus csokoládés mandulatorta."
+              },
+              {
+                "name": "La Tablita",
+                "tip": "Kiváló konyha Anacapriban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Torta Caprese",
+                "tip": "Tort clasic cu ciocolată și migdale."
+              },
+              {
+                "name": "La Tablita",
+                "tip": "Mâncare bună în Anacapri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Torta Caprese",
+                "tip": "Classic chocolate and almond cake."
+              },
+              {
+                "name": "La Tablita",
+                "tip": "Great food in Anacapri."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Monte Solaro",
+                "tip": "Über den Wolken und dem Trubel.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Monte Solaro",
+                "tip": "A felhők és a nyüzsgés felett.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Monte Solaro",
+                "tip": "Deasupra norilor și a agitației.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Monte Solaro",
+                "tip": "Above the clouds and the hustle.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Sandali Tipici",
+                "tip": "Handgefertigte Ledersandalen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sandali Tipici",
+                "tip": "Kézzel készített bőrszandálok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sandali Tipici",
+                "tip": "Sandale din piele lucrate manual."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sandali Tipici",
+                "tip": "Handmade leather sandals."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein E-Bike wegen der Steigungen.",
+              "Achten Sie auf den Busverkehr auf den engen Straßen."
+            ],
+            "hu": [
+              "Béreljen elektromos biciklit az emelkedők miatt.",
+              "Figyeljen a buszforgalomra a szűk utakon."
+            ],
+            "ro": [
+              "Închiriați o bicicletă electrică din cauza pantelor.",
+              "Atenție la traficul de autobuze pe străzile înguste."
+            ],
+            "en": [
+              "Rent an e-bike due to the steep inclines.",
+              "Watch out for bus traffic on narrow roads."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine anspruchsvolle Fahrt nach Anacapri bei Regen. Starten Sie vorsichtig im Zentrum. Mittags bietet die Villa San Michele einen trockenen Rückzugsort mit Geschichte. Die Fahrt zum Monte Solaro ist bei Wind und Regen nicht zu empfehlen; bleiben Sie in den Gassen von Anacapri. Nachmittags Abfahrt zum Leuchtturm bei stürmischer Kulisse. Abends Rückkehr zur Basis.",
+            "hu": "Kihívást jelentő tekerés Anacapriba esőben. Kezdjen óvatosan a központban. Délben a Villa San Michele nyújt száraz, történelmi menedéket. A Monte Solaro libegő szélben és esőben nem ajánlott; maradjon Anacapri utcáin. Délután guruljon le a világítótoronyhoz a viharos díszletek között. Este térjen vissza a bázisra.",
+            "ro": "O plimbare provocatoare spre Anacapri pe ploaie. Începeți cu atenție din centru. La prânz, Villa San Michele oferă un refugiu istoric uscat. Telescaunul spre Monte Solaro nu este recomandat pe vânt; rămâneți pe străzile din Anacapri. După-amiaza, coborâre spre far într-un decor furtunos. Seara, revenire la bază.",
+            "en": "A challenging ride to Anacapri in the rain. Start cautiously from the center. At midday, Villa San Michele offers a dry, historic retreat. The Monte Solaro chairlift is not recommended in wind/rain; stay in Anacapri's alleys. In the afternoon, descend to the lighthouse against a stormy backdrop. Return to base in the evening."
+          },
+          "stops": [
+            {
+              "name": "Anacapri Center",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster im Ortskern.",
+                "hu": "Vigyázat a csúszós macskakövön a faluközpontban.",
+                "ro": "Atenție la pavajul alunecos din centrul localității.",
+                "en": "Careful on the slippery cobblestones in the village center."
+              }
+            },
+            {
+              "name": "Villa San Michele",
+              "tip_5lang": {
+                "de": "Sichere Fahrradparkplätze vorhanden, idealer Regenschutz.",
+                "hu": "Biztonságos bicikliperkoló áll rendelkezésre, ideális esővédett hely.",
+                "ro": "Parcare sigură pentru biciclete, adăpost ideal împotriva ploii.",
+                "en": "Safe bike parking available, ideal rain shelter."
+              }
+            },
+            {
+              "name": "Monte Solaro Chairlift",
+              "tip_5lang": {
+                "de": "Bei starkem Wind und Regen oft außer Betrieb.",
+                "hu": "Erős szélben és esőben gyakran nem üzemel.",
+                "ro": "Adesea scos din funcțiune pe vânt puternic și ploaie.",
+                "en": "Often out of service during high winds and rain."
+              }
+            },
+            {
+              "name": "Punta Carena Lighthouse",
+              "tip_5lang": {
+                "de": "Die Straße nach unten kann bei Nässe tückisch sein.",
+                "hu": "A lefelé vezető út vizesen csalóka lehet.",
+                "ro": "Drumul spre mare poate fi periculos când este ud.",
+                "en": "The road down can be treacherous when wet."
+              }
+            },
+            {
+              "name": "Anacapri Belvedere",
+              "tip_5lang": {
+                "de": "Oft neblig bei Regen, die Sicht ist dann eingeschränkt.",
+                "hu": "Esőben gyakran ködös, a kilátás ilyenkor korlátozott.",
+                "ro": "Adesea cețos pe ploaie, vizibilitatea este limitată.",
+                "en": "Often foggy during rain, visibility will be limited."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie ein E-Bike für die steilen, nassen Anstiege nach Anacapri.",
+              "Vermeiden Sie die 'Mamma Mia' Straße bei extremem Regen.",
+              "Prüfen Sie die Bremsen vor der Abfahrt zum Leuchtturm.",
+              "Tragen Sie eine vollflächige Regenjacke und wasserfeste Handschuhe.",
+              "Die schmalen Straßen werden bei Nässe durch Busverkehr gefährlicher."
+            ],
+            "hu": [
+              "Használjon e-bike-ot az Anacapriba vezető meredek, vizes emelkedőkhöz.",
+              "Kerülje a 'Mamma Mia' utat extrém esőzés idején.",
+              "Ellenőrizze a fékeket a világítótoronyhoz való leereszkedés előtt.",
+              "Viseljen teljes esőkabátot és vízálló kesztyűt.",
+              "A szűk utak vizesen veszélyesebbek a buszforgalom miatt."
+            ],
+            "ro": [
+              "Folosiți o bicicletă electrică pentru urcările abrupte spre Anacapri.",
+              "Evitați drumul 'Mamma Mia' în caz de ploaie extremă.",
+              "Verificați frânele înainte de coborârea spre far.",
+              "Purtați o jachetă impermeabilă completă și mănuși rezistente la apă.",
+              "Drumurile înguste devin mai periculoase din cauza autobuzelor când sunt ude."
+            ],
+            "en": [
+              "Use an e-bike for the steep, wet climbs to Anacapri.",
+              "Avoid the 'Mamma Mia' road during extreme rain.",
+              "Check your brakes before descending to the lighthouse.",
+              "Wear a full raincoat and waterproof gloves.",
+              "The narrow roads are more dangerous with bus traffic when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein erfrischendes Radabenteuer im Winter. Der Morgen in Anacapri ist kühl, aber sonnig. Die Villa San Michele bietet Mittagsruhe ohne Touristenströme. Der Monte Solaro ist bei klarer Winterluft ein Muss (Decken werden gestellt). Nachmittags gemütliche Fahrt zum Leuchtturm für den Sonnenuntergang. Abends Rückkehr bei sinkenden Temperaturen.",
+            "hu": "Frissítő téli kerékpáros kaland. Az anacapri reggel hűvös, de napos. A Villa San Michele déli pihenőt kínál turisták nélkül. A Monte Solaro kötelező a tiszta téli levegőben (pokrócot adnak). Délután kényelmes tekerés a világítótoronyhoz a naplementére. Este visszatérés a csökkenő hőmérsékletben.",
+            "ro": "O aventură revigorantă cu bicicleta iarna. Dimineața în Anacapri este răcoroasă, dar însorită. Villa San Michele oferă liniște la prânz fără turiști. Monte Solaro este obligatoriu în aerul curat de iarnă (se oferă pături). După-amiaza, plimbare spre far pentru apus. Seara, revenire pe măsură ce temperatura scade.",
+            "en": "A refreshing winter bike adventure. Mornings in Anacapri are cool but sunny. Villa San Michele offers midday peace without tourist crowds. Monte Solaro is a must in the clear winter air (blankets are provided). In the afternoon, a leisurely ride to the lighthouse for sunset. Return in the evening as temperatures drop."
+          },
+          "stops": [
+            {
+              "name": "Anacapri Center",
+              "tip_5lang": {
+                "de": "Die Straßen sind leerer, ideal für entspanntes Radfahren.",
+                "hu": "Az utcák üresebbek, ideális a nyugodt kerékpározáshoz.",
+                "ro": "Străzile sunt mai goale, ideale pentru ciclism relaxat.",
+                "en": "The streets are emptier, ideal for relaxed cycling."
+              }
+            },
+            {
+              "name": "Villa San Michele",
+              "tip_5lang": {
+                "de": "Winter-Öffnungszeiten prüfen (oft bis 16:00 oder 17:00).",
+                "hu": "Ellenőrizze a téli nyitvatartást (gyakran csak 16:00-ig).",
+                "ro": "Verificați programul de iarnă (adesea până la 16:00).",
+                "en": "Check winter opening hours (often until 4:00 PM)."
+              }
+            },
+            {
+              "name": "Monte Solaro Chairlift",
+              "tip_5lang": {
+                "de": "Decken an der Talstation verlangen, oben ist es windig.",
+                "hu": "Kérjen pokrócot az alsó állomáson, fent szeles az idő.",
+                "ro": "Cereți pături la stația de bază, sus este vânt.",
+                "en": "Ask for blankets at the base station; it's windy at the top."
+              }
+            },
+            {
+              "name": "Punta Carena Lighthouse",
+              "tip_5lang": {
+                "de": "Bester Ort für den frühen Winter-Sonnenuntergang.",
+                "hu": "A legjobb hely a korai téli naplemente megtekintéséhez.",
+                "ro": "Cel mai bun loc pentru apusul de iarnă devreme.",
+                "en": "Best spot for the early winter sunset."
+              }
+            },
+            {
+              "name": "Anacapri Belvedere",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Aufenthalt im Schatten nötig.",
+                "hu": "Meleg ruházat szükséges az árnyékos részeken.",
+                "ro": "Haine groase necesare pentru momentele petrecute la umbră.",
+                "en": "Warm clothing needed for time spent in the shade."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Unterschätzen Sie nicht den kalten Fahrtwind bei Abfahrten.",
+              "Die Sonne verschwindet in Anacapri früher hinter dem Berg.",
+              "Tragen Sie eine winddichte Schicht über Ihrer Kleidung.",
+              "Planen Sie Ihre Rückfahrt vor 17:00 Uhr ein.",
+              "Viele Cafés am Leuchtturm haben im Winter geschlossen."
+            ],
+            "hu": [
+              "Ne becsülje alá a hideg menetszelet a lejtőkön.",
+              "A nap Anacapriban hamarabb eltűnik a hegy mögött.",
+              "Viseljen szélálló réteget a ruházata felett.",
+              "Tervezze meg a visszautat 17:00 előtt.",
+              "Sok kávézó a világítótoronynál zárva van télen."
+            ],
+            "ro": [
+              "Nu subestimați vântul rece la coborâri.",
+              "Soarele dispare mai devreme în Anacapri după munte.",
+              "Purtați un strat rezistent la vânt peste haine.",
+              "Planificați întoarcerea înainte de ora 17:00.",
+              "Multe cafenele de la far sunt închise iarna."
+            ],
+            "en": [
+              "Don't underestimate the cold wind chill on descents.",
+              "The sun disappears earlier in Anacapri behind the mountain.",
+              "Wear a windproof layer over your clothing.",
+              "Plan your return journey before 5:00 PM.",
+              "Many cafes at the lighthouse are closed in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -770,6 +1538,374 @@
           "Taxis are expensive, but the open-top ride is an experience.",
           "Parking spaces are extremely limited on the island."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie ein Taxi oder einen Mietwagen, um die gesamte Insel zu erkunden. Starten Sie bei der berühmten Blauen Grotte, besuchen Sie dann das elegante Anacapri und die Villa San Michele. Am Nachmittag erkunden Sie die abgelegenen Ruinen der Villa Jovis, bevor Sie den Tag in Capri-Stadt auf der Piazzetta ausklingen lassen.",
+            "hu": "Használjon taxit vagy bérelt autót a sziget teljes felfedezéséhez. Kezdjen a híres Kék barlangnál, majd látogasson el az elegáns Anacapriba és a Villa San Michele-be. Délután fedezze fel a Villa Jovis eldugott romjait, mielőtt a napot Capri városában, a Piazzettán zárná.",
+            "ro": "Folosiți un taxi sau o mașină închiriată pentru a explora întreaga insulă. Începeți la celebra Grotă Albastră, apoi vizitați eleganta localitate Anacapri și Villa San Michele. După-amiaza, explorați ruinele izolate de la Villa Jovis, înainte de a încheia ziua în orașul Capri, în Piazzetta.",
+            "en": "Use a taxi or rental car to explore the entire island. Start at the famous Blue Grotto, then visit elegant Anacapri and Villa San Michele. In the afternoon, explore the secluded ruins of Villa Jovis before ending the day in Capri town at the Piazzetta."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Blaue Grotte",
+                "hu": "Kék barlang",
+                "ro": "Grota Albastră",
+                "en": "Blue Grotto"
+              },
+              "tip_5lang": {
+                "de": "Früh kommen, um Warteschlangen zu vermeiden.",
+                "hu": "Érkezzen korán a sorban állás elkerüléséhez.",
+                "ro": "Veniți devreme pentru a evita cozile.",
+                "en": "Arrive early to avoid long queues."
+              }
+            },
+            {
+              "name": {
+                "de": "Anacapri",
+                "hu": "Anacapri",
+                "ro": "Anacapri",
+                "en": "Anacapri"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie durch die historische Altstadt.",
+                "hu": "Sétáljon át a történelmi óvároson.",
+                "ro": "Plimbați-vă prin centrul istoric.",
+                "en": "Walk through the historic old town."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa San Michele",
+                "hu": "Villa San Michele",
+                "ro": "Villa San Michele",
+                "en": "Villa San Michele"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie antike Artefakte.",
+                "hu": "Fedezzen fel ókori műtárgyakat.",
+                "ro": "Descoperiți artefacte antice.",
+                "en": "Discover ancient artifacts."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Jovis",
+                "hu": "Villa Jovis",
+                "ro": "Villa Jovis",
+                "en": "Villa Jovis"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen des Palastes von Tiberius.",
+                "hu": "Tiberius császár palotájának romjai.",
+                "ro": "Ruinele palatului împăratului Tiberiu.",
+                "en": "The ruins of Emperor Tiberius's palace."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazzetta",
+                "hu": "Piazzetta",
+                "ro": "Piazzetta",
+                "en": "Piazzetta"
+              },
+              "tip_5lang": {
+                "de": "Ein Aperitif zum Abschluss des Tages.",
+                "hu": "Egy aperitif a nap zárásaként.",
+                "ro": "Un aperitiv la sfârșitul zilei.",
+                "en": "An aperitif to end the day."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Limoncello",
+                "tip": "Zitronenlikör direkt aus Capri-Zitronen."
+              },
+              {
+                "name": "Ristorante Da Paolino",
+                "tip": "Essen unter Zitronenbäumen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Limoncello",
+                "tip": "Citromlikőr közvetlenül capri citromból."
+              },
+              {
+                "name": "Ristorante Da Paolino",
+                "tip": "Vacsora a citromfák alatt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Limoncello",
+                "tip": "Lichior de lămâie direct din lămâi de Capri."
+              },
+              {
+                "name": "Ristorante Da Paolino",
+                "tip": "Cina sub lămâi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Limoncello",
+                "tip": "Lemon liqueur made from Capri lemons."
+              },
+              {
+                "name": "Ristorante Da Paolino",
+                "tip": "Dining under the lemon trees."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Villa Jovis",
+                "tip": "Einsame Ruinen mit Meerblick.",
+                "emoji": "🏛️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Villa Jovis",
+                "tip": "Magányos romok tengeri kilátással.",
+                "emoji": "🏛️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Villa Jovis",
+                "tip": "Ruine solitare cu vedere la mare.",
+                "emoji": "🏛️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Villa Jovis",
+                "tip": "Lonely ruins with sea views.",
+                "emoji": "🏛️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mariorita",
+                "tip": "Exklusive Mode und Accessoires."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mariorita",
+                "tip": "Exkluzív divat és kiegészítők."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mariorita",
+                "tip": "Modă și accesorii exclusive."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mariorita",
+                "tip": "Exclusive fashion and accessories."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Taxis sind teuer, aber die Fahrt in den Cabrios ist ein Erlebnis.",
+              "Parkplätze sind auf der Insel extrem begrenzt."
+            ],
+            "hu": [
+              "A taxi drága, de a nyitott tetejű autózás élmény.",
+              "A parkolóhelyek száma nagyon korlátozott a szigeten."
+            ],
+            "ro": [
+              "Taxiurile sunt scumpe, dar călătoria în cabriolet este o experiență.",
+              "Locurile de parcare sunt extrem de limitate pe insulă."
+            ],
+            "en": [
+              "Taxis are expensive, but the open-top ride is an experience.",
+              "Parking spaces are extremely limited on the island."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Tag im geschlossenen Taxi oder Mietwagen. Die Blaue Grotte ist bei Regen und Wellen fast immer geschlossen. Verbringen Sie den Vormittag stattdessen in Anacapri. Mittags bietet die Villa San Michele trockene Kultur. Nachmittags Fahrt zur Villa Jovis, wobei der Fußweg dorthin nass ist. Abends ein Drink unter den schützenden Planen der Piazzetta.",
+            "hu": "Egy nap zárt taxiban vagy bérautóban. A Kék Barlang esőben és hullámzáskor szinte mindig zárva van. Töltse a délelőttöt inkább Anacapriban. Délben a Villa San Michele nyújt száraz kulturális élményt. Délutáni út a Villa Jovishoz, bár a gyalogút vizes lesz. Este egy ital a Piazzetta védőponyvái alatt.",
+            "ro": "O zi în taxi închis sau mașină închiriată. Grota Albastră este aproape mereu închisă pe ploaie. Petreceți dimineața în Anacapri. La prânz, Villa San Michele oferă cultură la adăpost. După-amiaza, drum spre Villa Jovis, deși poteca va fi udă. Seara, un pahar sub prelatele protectoare din Piazzetta.",
+            "en": "A day in a closed taxi or rental car. The Blue Grotto is almost always closed during rain and rough seas. Spend the morning in Anacapri instead. At midday, Villa San Michele offers dry cultural exploration. Afternoon drive to Villa Jovis, though the path there will be wet. Evening drinks under the protective covers of the Piazzetta."
+          },
+          "stops": [
+            {
+              "name": "Blue Grotto",
+              "tip_5lang": {
+                "de": "Bei Regen fast sicher geschlossen, vorab Status prüfen.",
+                "hu": "Esőben szinte biztosan zárva, előre ellenőrizze az állapotot.",
+                "ro": "Aproape sigur închisă pe ploaie, verificați statusul în prealabil.",
+                "en": "Almost certainly closed during rain; check status beforehand."
+              }
+            },
+            {
+              "name": "Anacapri",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus am Ortseingang, um trocken zu bleiben.",
+                "hu": "Parkoljon a falu szélén lévő parkolóházban, hogy száraz maradjon.",
+                "ro": "Parcați în garajul de la intrare pentru a rămâne uscați.",
+                "en": "Park in the garage at the entrance to stay dry."
+              }
+            },
+            {
+              "name": "Villa San Michele",
+              "tip_5lang": {
+                "de": "Innenräume bieten exzellenten Schutz vor Regengüssen.",
+                "hu": "A belső terek kiváló védelmet nyújtanak az eső ellen.",
+                "ro": "Interioarele oferă protecție excelentă împotriva ploii.",
+                "en": "Interior rooms offer excellent protection from rain showers."
+              }
+            },
+            {
+              "name": "Villa Jovis",
+              "tip_5lang": {
+                "de": "Der 20-minütige Fußweg vom Parkplatz ist ungeschützt.",
+                "hu": "A parkolótól tartó 20 perces gyalogút fedetlen.",
+                "ro": "Drumul de 20 de minute de la parcare este neprotejat.",
+                "en": "The 20-minute walk from the parking area is unsheltered."
+              }
+            },
+            {
+              "name": "Piazzetta",
+              "tip_5lang": {
+                "de": "Lassen Sie sich vom Taxi direkt am Tunnel absetzen.",
+                "hu": "Kérje a taxist, hogy közvetlenül az alagútnál tegye ki.",
+                "ro": "Rugați taximetristul să vă lase direct la tunel.",
+                "en": "Have the taxi drop you off directly at the tunnel."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Capris Cabriotaxis haben bei Regen Verdecke oder feste Dächer.",
+              "Die Straßen sind schmal und können bei Nässe rutschig sein.",
+              "Parkplätze in Capri-Stadt sind begrenzt und teuer.",
+              "Nutzen Sie die Blaue-Grotte-Zeit für den Besuch der Kirche San Michele.",
+              "Buchen Sie Taxis telefonisch, um Wartezeiten im Regen zu vermeiden."
+            ],
+            "hu": [
+              "Capri kabrió-taxijai esőben ponyvát vagy fix tetőt kapnak.",
+              "Az utak szűkek és vizesen csúszósak lehetnek.",
+              "A parkolóhelyek Capri városában korlátozottak és drágák.",
+              "A Kék Barlang helyett látogassa meg a San Michele templomot.",
+              "Hívjon taxit telefonon, hogy elkerülje az esőben való várakozást."
+            ],
+            "ro": [
+              "Taxiurile decapotabile au acoperișuri textile sau fixe pentru ploaie.",
+              "Drumurile sunt înguste și pot fi alunecoase când sunt ude.",
+              "Locurile de parcare în orașul Capri sunt limitate și scumpe.",
+              "Folosiți timpul destinat Grotei pentru a vizita biserica San Michele.",
+              "Rezervați taxiurile prin telefon pentru a evita așteptarea în ploaie."
+            ],
+            "en": [
+              "Capri's convertible taxis have covers or hard tops for rain.",
+              "Roads are narrow and can be slippery when wet.",
+              "Parking spots in Capri town are limited and expensive.",
+              "Use the Blue Grotto slot to visit the San Michele church instead.",
+              "Book taxis by phone to avoid waiting in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entspanntes Fahren über die Insel im Winter. Die Blaue Grotte ist oft wegen Seegang geschlossen. Genießen Sie den Vormittag im ruhigen Anacapri. Mittags bietet die Villa San Michele Einsamkeit und Ausblick. Nachmittags führt eine kühle Fahrt zur Villa Jovis. Beenden Sie den Tag auf der Piazzetta, wo Heizstrahler in den Cafés für Gemütlichkeit sorgen.",
+            "hu": "Nyugodt autózás a szigeten télen. A Kék Barlang gyakran zárva van a hullámzás miatt. Élvezze a délelőttöt a csendes Anacapriban. Délben a Villa San Michele magányt és kilátást kínál. Délután hűvös út vezet a Villa Jovishoz. A napot a Piazzettán zárja, ahol a kávézók hősugárzói gondoskodnak a kényelemről.",
+            "ro": "Condus relaxat pe insulă în timpul iernii. Grota Albastră este adesea închisă din cauza mării agitate. Bucurați-vă de dimineață în liniștitul Anacapri. La prânz, Villa San Michele oferă solitudine și priveliști. După-amiaza, drum răcoros spre Villa Jovis. Încheiați ziua în Piazzetta, unde radiatoarele cafenelelor oferă confort.",
+            "en": "Relaxed winter driving across the island. The Blue Grotto is often closed due to sea conditions. Enjoy the morning in quiet Anacapri. At midday, Villa San Michele offers solitude and views. Cool afternoon drive to Villa Jovis. End your day in the Piazzetta, where cafe heaters provide cozy comfort."
+          },
+          "stops": [
+            {
+              "name": "Blue Grotto",
+              "tip_5lang": {
+                "de": "Im Winter nur bei sehr ruhiger See zugänglich.",
+                "hu": "Télen csak nagyon nyugodt tenger esetén látogatható.",
+                "ro": "Accesibilă iarna doar când marea este foarte calmă.",
+                "en": "Accessible in winter only during very calm sea conditions."
+              }
+            },
+            {
+              "name": "Anacapri",
+              "tip_5lang": {
+                "de": "Kein Parkplatzmangel im Winter, einfache Anreise.",
+                "hu": "Télen nincs parkolóhely-hiány, könnyű az érkezés.",
+                "ro": "Fără lipsă de locuri de parcare iarna, acces facil.",
+                "en": "No shortage of parking in winter; easy arrival."
+              }
+            },
+            {
+              "name": "Villa San Michele",
+              "tip_5lang": {
+                "de": "Beste Zeit für Fotos ohne andere Besucher.",
+                "hu": "A legjobb időszak a fotózásra más látogatók nélkül.",
+                "ro": "Cel mai bun moment pentru fotografii fără alți vizitatori.",
+                "en": "Best time for photos without other visitors."
+              }
+            },
+            {
+              "name": "Villa Jovis",
+              "tip_5lang": {
+                "de": "Die Ruinen können im Winterwind sehr zugig sein.",
+                "hu": "A romoknál a téli szél nagyon huzatos lehet.",
+                "ro": "Ruinele pot fi foarte expuse vântului de iarnă.",
+                "en": "The ruins can be very drafty in the winter wind."
+              }
+            },
+            {
+              "name": "Piazzetta",
+              "tip_5lang": {
+                "de": "Die Cafés nutzen im Winter Heizstrahler im Außenbereich.",
+                "hu": "A kávézók télen hősugárzókat használnak a teraszokon.",
+                "ro": "Cafenelele folosesc radiatoare în zonele exterioare iarna.",
+                "en": "Cafes use outdoor heaters in their terrace areas during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Taxis sind im Winter sofort verfügbar, kein langes Warten.",
+              "Mietwagen sind auf Capri nur für Nicht-Residenten eingeschränkt.",
+              "Die Straßenbeleuchtung ist in einigen Abschnitten spärlich.",
+              "Nutzen Sie die Zeit für eine Inselrundfahrt statt der Grotte.",
+              "Im Winter ist das Parken auf öffentlichen Plätzen oft einfacher."
+            ],
+            "hu": [
+              "A taxik télen azonnal rendelkezésre állnak, nincs várakozás.",
+              "A bérautó-használat Caprin korlátozott a nem helyiek számára.",
+              "Az utcai világítás bizonyos szakaszokon gyér lehet.",
+              "Használja ki az időt szigetkerülésre a barlang helyett.",
+              "Télen a nyilvános helyeken való parkolás gyakran egyszerűbb."
+            ],
+            "ro": [
+              "Taxiurile sunt disponibile imediat iarna, fără așteptare.",
+              "Mașinile închiriate sunt restricționate pentru nerezidenți pe Capri.",
+              "Iluminatul stradal poate fi slab în anumite secțiuni.",
+              "Folosiți timpul pentru un tur al insulei în loc de grotă.",
+              "Parcarea în locuri publice este adesea mai ușoară iarna."
+            ],
+            "en": [
+              "Taxis are immediately available in winter, no waiting.",
+              "Rental cars on Capri are restricted for non-residents.",
+              "Street lighting can be sparse in some sections.",
+              "Use the time for an island tour instead of the Grotto.",
+              "Parking in public spaces is often easier in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1017,6 +2153,374 @@
           "Buy tickets in advance at the kiosks.",
           "Buses are small, so there may be waiting times."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die öffentlichen Verkehrsmittel der Insel: Die Funicolare bringt Sie von Marina Grande zur Piazzetta. Ein Minibus führt Sie auf den Serpentinen nach Anacapri zur Villa San Michele. Den Nachmittag verbringen Sie mit einem Spaziergang zu den spektakulären Faraglioni-Felsen, bevor Sie mit dem Bus zurückkehren.",
+            "hu": "Használja a sziget tömegközlekedését: a sikló felviszi Marina Grande-ból a Piazzettára. Egy kisbusszal utazzon fel a szerpentineken Anacapriba a Villa San Michele-hez. A délutánt töltse egy sétával a látványos Faraglioni-sziklákhoz, mielőtt busszal visszatérne.",
+            "ro": "Folosiți transportul public de pe insulă: funicularul vă duce de la Marina Grande la Piazzetta. Un microbuz vă va purta pe serpentine până la Anacapri, la Villa San Michele. Petreceți după-amiaza cu o plimbare spre spectaculoasele stânci Faraglioni, înainte de a reveni cu autobuzul.",
+            "en": "Use the island's public transport: the funicular takes you from Marina Grande to the Piazzetta. A minibus will carry you up the hairpins to Anacapri and Villa San Michele. Spend the afternoon with a walk to the spectacular Faraglioni rocks before returning by bus."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Marina Grande",
+                "hu": "Marina Grande",
+                "ro": "Marina Grande",
+                "en": "Marina Grande"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie die Funicolare nach oben.",
+                "hu": "Menjen fel siklóval a központba.",
+                "ro": "Luați funicularul spre centru.",
+                "en": "Take the funicular up to the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazzetta",
+                "hu": "Piazzetta",
+                "ro": "Piazzetta",
+                "en": "Piazzetta"
+              },
+              "tip_5lang": {
+                "de": "Zentrum des gesellschaftlichen Lebens.",
+                "hu": "A társasági élet központja.",
+                "ro": "Centrul vieții sociale.",
+                "en": "Center of social life on the island."
+              }
+            },
+            {
+              "name": {
+                "de": "Anacapri Bus Terminal",
+                "hu": "Anacapri buszvégállomás",
+                "ro": "Terminal autobuz Anacapri",
+                "en": "Anacapri Bus Terminal"
+              },
+              "tip_5lang": {
+                "de": "Die Busfahrt bietet tolle Ausblicke.",
+                "hu": "A buszozás alatt remek a kilátás.",
+                "ro": "Călătoria cu autobuzul oferă priveliști superbe.",
+                "en": "The bus ride offers great views."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa San Michele",
+                "hu": "Villa San Michele",
+                "ro": "Villa San Michele",
+                "en": "Villa San Michele"
+              },
+              "tip_5lang": {
+                "de": "Ein muss in Anacapri.",
+                "hu": "Kihagyhatatlan látnivaló Anacapriban.",
+                "ro": "O vizită obligatorie în Anacapri.",
+                "en": "A must-see in Anacapri."
+              }
+            },
+            {
+              "name": {
+                "de": "Faraglioni Aussichtspunkt",
+                "hu": "Faraglioni kilátóhely",
+                "ro": "Belvedere Faraglioni",
+                "en": "Faraglioni Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie zu den berühmten Felsen.",
+                "hu": "Sétáljon el a híres sziklákhoz.",
+                "ro": "Mergeți pe jos până la faimoasele stânci.",
+                "en": "Walk to the famous rock formations."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Insalata Caprese",
+                "tip": "Büffelmozzarella mit Tomaten und Basilikum."
+              },
+              {
+                "name": "Bar Tiberio",
+                "tip": "Traditioneller Treffpunkt an der Piazzetta."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Insalata Caprese",
+                "tip": "Bivalymozzarella paradicsommal és bazsalikommal."
+              },
+              {
+                "name": "Bar Tiberio",
+                "tip": "Hagyományos találkozóhely a Piazzettán."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Insalata Caprese",
+                "tip": "Mozzarella de bivoliță cu roșii și busuioc."
+              },
+              {
+                "name": "Bar Tiberio",
+                "tip": "Loc de întâlnire tradițional în Piazzetta."
+              }
+            ],
+            "en": [
+              {
+                "name": "Insalata Caprese",
+                "tip": "Buffalo mozzarella with tomatoes and basil."
+              },
+              {
+                "name": "Bar Tiberio",
+                "tip": "Traditional meeting spot at the Piazzetta."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Punta Tragara",
+                "tip": "Panoramaweg mit Blick auf die Faraglioni.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Punta Tragara",
+                "tip": "Panorámaút kilátással a Faraglionira.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punta Tragara",
+                "tip": "Drum panoramic cu vedere spre Faraglioni.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Punta Tragara",
+                "tip": "Panoramic path with views of the Faraglioni.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "L'Isola dei Sapori",
+                "tip": "Feinkost und lokale Spezialitäten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Isola dei Sapori",
+                "tip": "Csemege és helyi specialitások."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Isola dei Sapori",
+                "tip": "Delicatese și specialități locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Isola dei Sapori",
+                "tip": "Delicatessen and local specialties."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab am Kiosk.",
+              "Die Busse sind klein, es kann zu Wartezeiten kommen."
+            ],
+            "hu": [
+              "Vásárolja meg jegyeit előre a jegyautomatáknál.",
+              "A buszok kicsik, előfordulhat várakozási idő."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans de la chioșcuri.",
+              "Autobuzele sunt mici, pot exista timpi de așteptare."
+            ],
+            "en": [
+              "Buy tickets in advance at the kiosks.",
+              "Buses are small, so there may be waiting times."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie Busse und Funicolare als Regenschutz. Der Morgen in Marina Grande ist bei Regen grau, die Cafés bieten Zuflucht. Die Funicolare bringt Sie trocken zur Piazzetta. Mittags bringt Sie der Bus nach Anacapri. Die Villa San Michele ist der perfekte Indoor-Stopp. Nachmittags Aussicht am Faraglioni-Punkt (kurzer nasser Fußweg). Abends Rückkehr mit dem Bus.",
+            "hu": "Használja a buszokat és a siklót eső elleni védelemként. A reggeli Marina Grande esőben szürke, a kávézók nyújtanak menedéket. A sikló szárazon visz fel a Piazzettára. Délben busszal menjen Anacapriba. A Villa San Michele tökéletes beltéri megálló. Délutáni kilátás a Faraglioni-pontnál (rövid vizes gyalogút). Este busszal térjen vissza.",
+            "ro": "Folosiți autobuzele și funicularul ca adăpost. Dimineața în Marina Grande este gri pe ploaie, cafenelele oferă refugiu. Funicularul vă duce uscați în Piazzetta. La prânz, luați autobuzul spre Anacapri. Villa San Michele este oprirea perfectă la interior. După-amiaza, vedere la Faraglioni (scurt drum ud). Seara, revenire cu autobuzul.",
+            "en": "Use buses and the funicular as rain shelter. Morning in Marina Grande is grey in the rain; cafes offer refuge. The funicular takes you dry to the Piazzetta. At midday, take the bus to Anacapri. Villa San Michele is the perfect indoor stop. Afternoon views at the Faraglioni point (short wet walk). Return by bus in the evening."
+          },
+          "stops": [
+            {
+              "name": "Marina Grande",
+              "tip_5lang": {
+                "de": "Warten Sie im Ticketbüro oder im Café auf die Funicolare.",
+                "hu": "Várjon a jegypénztárnál vagy kávézóban a siklóra.",
+                "ro": "Așteptați funicularul în casa de bilete sau la cafenea.",
+                "en": "Wait for the funicular inside the ticket office or a cafe."
+              }
+            },
+            {
+              "name": "Piazzetta",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle nach Anacapri hat nur begrenzten Schutz.",
+                "hu": "Az Anacapriba tartó buszmegálló csak korlátozottan fedett.",
+                "ro": "Stația de autobuz spre Anacapri are adăpost limitat.",
+                "en": "The bus stop to Anacapri has limited shelter."
+              }
+            },
+            {
+              "name": "Anacapri Bus Terminal",
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Aussteigen auf nasser Fahrbahn.",
+                "hu": "Vigyázzon a fel- és leszálláskor a vizes úttesten.",
+                "ro": "Atenție la urcare și coborâre pe carosabilul ud.",
+                "en": "Be careful when boarding and alighting on the wet road."
+              }
+            },
+            {
+              "name": "Villa San Michele",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg von der Bushaltestelle.",
+                "hu": "Csak 5 perc gyalogút a buszmegállótól.",
+                "ro": "Doar 5 minute de mers pe jos de la stația de autobuz.",
+                "en": "Only a 5-minute walk from the bus terminal."
+              }
+            },
+            {
+              "name": "Faraglioni Viewpoint",
+              "tip_5lang": {
+                "de": "Der Weg vom Busstopp kann Pfützen aufweisen.",
+                "hu": "A buszmegállótól tartó úton tócsák lehetnek.",
+                "ro": "Drumul de la stația de autobuz poate avea bălți.",
+                "en": "The path from the bus stop may have puddles."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind bei Regen oft überfüllt, planen Sie Wartezeiten ein.",
+              "Kaufen Sie Tickets vorab am Kiosk, um Schlangen im Regen zu meiden.",
+              "Die Funicolare ist die schnellste und trockenste Verbindung.",
+              "Busse fahren bei schlechtem Wetter vorsichtiger und langsamer.",
+              "Tragen Sie eine Regenjacke, da die Haltestellen oft klein sind."
+            ],
+            "hu": [
+              "A buszok esőben gyakran túlzsúfoltak, számoljon várakozással.",
+              "Vegye meg a jegyet előre a kioszkban, hogy ne álljon sorba az esőben.",
+              "A sikló a leggyorsabb és legszárazabb összeköttetés.",
+              "A buszok rossz időben óvatosabban és lassabban közlekednek.",
+              "Viseljen esőkabátot, mert a megállók gyakran kicsik."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea supraaglomerate pe ploaie.",
+              "Cumpărați biletele în avans de la chioșc pentru a evita cozile.",
+              "Funicularul este cea mai rapidă și uscată conexiune.",
+              "Autobuzele circulă mai prudent și mai lent pe vreme rea.",
+              "Purtați o pelerină de ploaie, stațiile sunt adesea mici."
+            ],
+            "en": [
+              "Buses are often overcrowded during rain; expect wait times.",
+              "Buy tickets in advance at the kiosk to avoid queues in the rain.",
+              "The funicular is the fastest and driest connection.",
+              "Buses drive more cautiously and slowly in bad weather.",
+              "Wear a raincoat as bus stops are often small and unsheltered."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ruhiger Nahverkehr im Winter-Capri. Der Morgen am Hafen ist beschaulich, keine Schlangen an der Funicolare. Mittags bringt Sie der Bus schnell nach Anacapri, wo Sie die Villa San Michele fast allein besuchen können. Der Nachmittag am Faraglioni-Blickpunkt ist bei Wintersonne magisch. Abends Rückfahrt, wenn die Lichter der Insel angehen.",
+            "hu": "Nyugodt tömegközlekedés a téli Caprin. A reggeli kikötő békés, nincs sor a siklónál. Délben a busz gyorsan felvisz Anacapriba, ahol szinte egyedül látogathatja a Villa San Michelet. A délután a Faraglioni-kilátónál mágikus a téli napsütésben. Este buszozzon vissza, amikor kigyúlnak a sziget fényei.",
+            "ro": "Transport public liniștit în Capri iarna. Dimineața în port este calmă, fără cozi la funicular. La prânz, autobuzul vă duce rapid în Anacapri pentru o vizită liniștită la Villa San Michele. După-amiaza la punctul de belvedere Faraglioni este magică. Seara, revenire când se aprind luminile insulei.",
+            "en": "Quiet public transport in winter Capri. Morning at the port is peaceful; no queues for the funicular. At midday, the bus takes you quickly to Anacapri for a near-solitary visit to Villa San Michele. Afternoon at the Faraglioni viewpoint is magical in the winter sun. Return in the evening as the island lights come on."
+          },
+          "stops": [
+            {
+              "name": "Marina Grande",
+              "tip_5lang": {
+                "de": "Fahrpläne der Funicolare sind im Winter ausgedünnt.",
+                "hu": "A sikló menetrendje télen ritkább lehet.",
+                "ro": "Orarele funicularului sunt mai reduse în timpul iernii.",
+                "en": "Funicular schedules are reduced during the winter season."
+              }
+            },
+            {
+              "name": "Piazzetta",
+              "tip_5lang": {
+                "de": "Keine Warteschlangen an den Bushaltestellen im Winter.",
+                "hu": "Télen nincs várakozási sor a buszmegállókban.",
+                "ro": "Fără cozi la stațiile de autobuz în timpul iernii.",
+                "en": "No queues at the bus stops during winter."
+              }
+            },
+            {
+              "name": "Anacapri Bus Terminal",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt, Busse fahren regelmäßig.",
+                "hu": "Központi csomópont, a buszok rendszeresen járnak.",
+                "ro": "Nod central, autobuzele circulă cu regularitate.",
+                "en": "Central hub; buses run regularly."
+              }
+            },
+            {
+              "name": "Villa San Michele",
+              "tip_5lang": {
+                "de": "Genießen Sie den kurzen Spaziergang in der kühlen Luft.",
+                "hu": "Élvezze a rövid sétát a hűvös levegőn.",
+                "ro": "Bucurați-vă de scurta plimbare în aerul răcoros.",
+                "en": "Enjoy the short walk in the cool air."
+              }
+            },
+            {
+              "name": "Faraglioni Viewpoint",
+              "tip_5lang": {
+                "de": "Letzter Bus zurück vor Einbruch der Dunkelheit nehmen.",
+                "hu": "Az utolsó buszt még sötétedés előtt érje el.",
+                "ro": "Luați ultimul autobuz înapoi înainte de lăsarea întunericului.",
+                "en": "Take the last bus back before darkness falls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne sind im Winter deutlich reduziert, vorab prüfen.",
+              "Die Funicolare macht oft im Januar/Februar Wartungspause.",
+              "Ersatzbusse fahren bei Funicolare-Pause ab Marina Grande.",
+              "Sitzplätze in Bussen sind im Winter fast immer garantiert.",
+              "Abends sind die Busse unbeheizt, tragen Sie warme Kleidung."
+            ],
+            "hu": [
+              "A menetrendek télen jelentősen ritkábbak, előre ellenőrizze.",
+              "A sikló gyakran januárban vagy februárban tart karbantartást.",
+              "Pótlóbuszok indulnak Marina Grandéból a sikló szünete alatt.",
+              "A buszokon télen szinte mindig van ülőhely.",
+              "Este a buszok nincsenek fűtve, viseljen meleg ruhát."
+            ],
+            "ro": [
+              "Orarele sunt semnificativ reduse iarna, verificați în avans.",
+              "Funicularul are adesea pauză de mentenanță în ianuarie/februarie.",
+              "Autobuzele de înlocuire pleacă din Marina Grande în timpul pauzei.",
+              "Locurile în autobuze sunt aproape mereu garantate iarna.",
+              "Seara autobuzele nu sunt încălzite, purtați haine groase."
+            ],
+            "en": [
+              "Schedules are significantly reduced in winter; check in advance.",
+              "The funicular often has a maintenance break in January/February.",
+              "Replacement buses run from Marina Grande during funicular breaks.",
+              "Seats on buses are almost always guaranteed in winter.",
+              "Buses are unheated in the evening; wear warm clothing."
+            ]
+          }
+        }
       }
     }
   },

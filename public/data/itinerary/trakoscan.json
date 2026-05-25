@@ -304,6 +304,434 @@
           "The best photo perspective is from the south shore of the lake.",
           "Plan enough time for the arms collection."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im neogotischen Märchenschloss der Familie Drašković, eingebettet in einen weitläufigen Landschaftsgarten. Mittags erkunden wir die prunkvollen Säle und das Museum, das die Geschichte des kroatischen Adels lebendig hält. Am Nachmittag führt der Weg zur barocken Kapelle und hinunter zum spiegelglatten See. Der Tag endet mit einem entspannten Spaziergang am Ufer, während sich die weißen Türme des Schlosses im Wasser reflektieren.",
+            "hu": "A reggel a Drašković család neogótikus mesekastélyában indul, egy hatalmas tájképi kert ölelésében. Délben a pompás termeket és a múzeumot fedezzük fel, amely életben tartja a horvát nemesség történelmét. Délután az út a barokk kápolnához és a tükörsima tóhoz vezet. A nap a tóparti sétányon zárul, miközben a kastély fehér tornyai visszatükröződnek a víz felszínén.",
+            "ro": "Dimineața începe în castelul de basm neogotic al familiei Drašković, situat într-o grădină peisagistică vastă. La prânz explorăm sălile magnifice și muzeul care păstrează vie istoria nobilimii croate. După-amiaza calea duce la capela barocă și jos la lacul neted ca oglinda. Ziua se încheie cu o plimbare relaxantă pe mal, în timp ce turnurile albe ale castelului se reflectă în apă.",
+            "en": "The morning begins in the neo-Gothic fairytale castle of the Drašković family, nestled in a vast landscaped garden. At midday we explore the magnificent halls and the museum that keeps the history of the Croatian nobility alive. In the afternoon the path leads to the Baroque chapel and down to the mirror-smooth lake. The day ends with a relaxed walk along the shore as the white towers of the castle reflect in the water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schlosspark Trakošćan",
+                "hu": "Trakošćani kastélypark",
+                "ro": "Parcul Castelului Trakošćan",
+                "en": "Trakošćan Castle Park"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die exotischen Baumarten im englischen Garten am frühen Morgen.",
+                "hu": "Érdemes korán reggel sétálni az angolpark egzotikus fái között.",
+                "ro": "Vizitați speciile de arbori exotici din grădina englezească dimineața devreme.",
+                "en": "Visit the exotic tree species in the English garden early in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Trakošćan",
+                "hu": "Trakošćani várkastély",
+                "ro": "Castelul Trakošćan",
+                "en": "Trakošćan Castle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die neogotische Architektur von der Zugbrücke aus.",
+                "hu": "Csodálja meg a neogótikus építészetet a felvonóhídról.",
+                "ro": "Admirați arhitectura neogotică de pe podul mobil.",
+                "en": "Admire the neo-Gothic architecture from the drawbridge."
+              }
+            },
+            {
+              "name": {
+                "de": "Schlossmuseum & Rittersaal",
+                "hu": "Kastélymúzeum és Lovagterem",
+                "ro": "Muzeul Castelului și Sala Cavalerilor",
+                "en": "Castle Museum & Knights' Hall"
+              },
+              "tip_5lang": {
+                "de": "Die Waffensammlung im Rittersaal ist eine der bedeutendsten der Region.",
+                "hu": "A Lovagterem fegyvergyűjteménye a régió egyik legjelentősebbje.",
+                "ro": "Colecția de arme din Sala Cavalerilor este una dintre cele mai importante din regiune.",
+                "en": "The arms collection in the Knights' Hall is one of the most significant in the region."
+              }
+            },
+            {
+              "name": {
+                "de": "Jagdsaal",
+                "hu": "Vadászterem",
+                "ro": "Sala de Vânătoare",
+                "en": "Hunting Hall"
+              },
+              "tip_5lang": {
+                "de": "Schauen Sie sich die detaillierten Trophäen und historischen Jagdwaffen an.",
+                "hu": "Tekintse meg a részletes trófeákat és a történelmi vadászfegyvereket.",
+                "ro": "Priviți trofeele detaliate și armele de vânătoare istorice.",
+                "en": "Look at the detailed trophies and historical hunting weapons."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle des Heiligen Kreuzes",
+                "hu": "Szent Kereszt-kápolna",
+                "ro": "Capela Sfintei Cruci",
+                "en": "Chapel of the Holy Cross"
+              },
+              "tip_5lang": {
+                "de": "Ein Ort der Stille mit barockem Altar oberhalb des Sees.",
+                "hu": "Csendes hely barokk oltárral a tó felett.",
+                "ro": "Un loc de liniște cu un altar baroc deasupra lacului.",
+                "en": "A place of silence with a Baroque altar above the lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Trakošćan-See Promenade",
+                "hu": "Trakošćani-tó sétány",
+                "ro": "Promenada Lacului Trakošćan",
+                "en": "Trakošćan Lake Promenade"
+              },
+              "tip_5lang": {
+                "de": "Der Rundweg bietet den besten Blick auf das Schloss zur Goldenen Stunde.",
+                "hu": "A körút a legjobb kilátást nyújtja a kastélyra az aranyórában.",
+                "ro": "Traseul circular oferă cea mai bună vedere asupra castelului la ora de aur.",
+                "en": "The circular path offers the best view of the castle at golden hour."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bistro Trakošćan",
+                "tip": "Probieren Sie Zagorska Juha (Pilzsuppe) mit Blick auf den See."
+              },
+              {
+                "name": "Restoran Hotel Trakošćan",
+                "tip": "Hausgemachte Štrukli sind hier ein Muss."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bistro Trakošćan",
+                "tip": "Kóstolja meg a Zagorjei gombalevest tóparti kilátással."
+              },
+              {
+                "name": "Restoran Hotel Trakošćan",
+                "tip": "A házi készítésű Štrukli itt kötelező."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bistro Trakošćan",
+                "tip": "Încercați Zagorska Juha (supă de ciuperci) cu vedere la lac."
+              },
+              {
+                "name": "Restoran Hotel Trakošćan",
+                "tip": "Ștruklul de casă este obligatoriu aici."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bistro Trakošćan",
+                "tip": "Try Zagorska Juha (mushroom soup) with a view of the lake."
+              },
+              {
+                "name": "Restoran Hotel Trakošćan",
+                "tip": "Homemade Štrukli is a must here."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Westufer des Sees",
+                "tip": "Einsame Bänke für den Sonnenuntergang.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Bednja-Tal Waldrand",
+                "tip": "Stille Natur pur.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tó nyugati partja",
+                "tip": "Magányos padok a naplementéhez.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Bednja-völgy erdőszéle",
+                "tip": "Tiszta, csendes természet.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul de vest al lacului",
+                "tip": "Bănci izolate pentru apusul soarelui.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Marginea pădurii din Valea Bednja",
+                "tip": "Natură pură și liniștită.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "West shore of the lake",
+                "tip": "Lonely benches for the sunset.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Bednja Valley forest edge",
+                "tip": "Pure quiet nature.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirshop im Schloss",
+                "tip": "Repliken historischer Karten und lokales Handwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kastély ajándékbolt",
+                "tip": "Történelmi térképmásolatok és helyi kézműves termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de suveniruri în castel",
+                "tip": "Replici ale hărților istorice și meșteșuguri locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Castle Souvenir Shop",
+                "tip": "Replicas of historical maps and local crafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie festes Schuhwerk für den 5 km langen Rundweg um den See.",
+              "Besuchen Sie das Schloss unter der Woche, um Menschenmassen zu vermeiden.",
+              "Die beste Fotoperspektive ist vom Südufer des Sees aus.",
+              "Planen Sie genügend Zeit für die Waffensammlung ein."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a tó körüli 5 km-es sétához.",
+              "Hétköznap látogasson el a kastélyba a tömeg elkerülése érdekében.",
+              "A legjobb fotóhelyszín a tó déli partjáról nyílik.",
+              "Hagyjon elég időt a fegyvergyűjtemény megtekintésére."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru traseul de 5 km din jurul lacului.",
+              "Vizitați castelul în timpul săptămânii pentru a evita aglomerația.",
+              "Cea mai bună perspectivă foto este de pe malul sudic al lacului.",
+              "Alocați suficient timp pentru colecția de arme."
+            ],
+            "en": [
+              "Wear sturdy shoes for the 5 km circular path around the lake.",
+              "Visit the castle on weekdays to avoid crowds.",
+              "The best photo perspective is from the south shore of the lake.",
+              "Plan enough time for the arms collection."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Trakošćan beginnt mit einem mystischen Spaziergang durch den nebligen Schlosspark. Die Bäume bieten leichten Schutz vor dem ersten Nieseln.\n\nMittags ziehen wir uns in die prächtigen Säle des Schlosshauptgebäudes zurück. Das Museum bietet einen trockenen und faszinierenden Einblick in die Geschichte des Schlosses.\n\nAm Nachmittag erkunden wir mit dem Regenschirm die nahegelegene Kapelle des Heiligen Kreuzes. Die nasse Natur rundherum wirkt in den Grautönen besonders dramatisch.\n\nDer Abend klingt mit einem kurzen Weg entlang der Seeuferpromenade aus, wo sich die Lichter des Schlosses in den Pfützen und auf der Wasseroberfläche spiegeln.",
+            "hu": "Az esős reggel Trakošćanban misztikus sétával indul a ködös kastélyparkban. Az óriási fák némi fedezéket nyújtanak az első szemerkélő eső elől.\n\nDélben a kastély főépületének díszes termeibe húzódunk vissza. A múzeum száraz és lenyűgöző betekintést nyújt a várkastély gazdag történelmébe.\n\nDélután esernyővel felszerelkezve látogatjuk meg a közeli Szent Kereszt-kápolnát. A vizes természet a szürke árnyalataival különösen drámai látványt nyújt.\n\nAz este a tóparti sétányon zárul, ahol a kastély fényei megcsillannak a tó tükrén és az út menti esővízben.",
+            "ro": "O dimineață ploioasă la Trakošćan începe cu o plimbare mistică prin parcul castelului învăluit în ceață. Copacii oferă o protecție ușoară împotriva primilor stropi.\n\nLa prânz ne retragem în sălile somptuoase ale clădirii principale a castelului. Muzeul oferă un adăpost uscat și o incursiune fascinantă în istoria locală.\n\nDupă-amiaza explorăm capela Sfânta Cruce cu umbrela la îndemână. Natura udă din jur capătă un aspect dramatic sub cerul plumburiu.\n\nSeara se încheie pe promenada de pe malul lacului, unde luminile castelului se reflectă în bălți și pe suprafața apei.",
+            "en": "A rainy morning in Trakošćan begins with a mystical walk through the misty castle park. The trees provide some light cover from the initial drizzle.\n\nAt noon, we retreat into the grand halls of the castle's main building. The museum offers a dry and fascinating insight into the castle's history.\n\nIn the afternoon, we explore the nearby Chapel of the Holy Cross with an umbrella. The wet nature around feels particularly dramatic in the gray tones.\n\nThe evening concludes with a short walk along the lake promenade, where the castle lights reflect in the puddles and on the water surface."
+          },
+          "stops": [
+            {
+              "name": "Trakošćan Castle Park",
+              "tip_5lang": {
+                "de": "Wasserdichte Schuhe für die nassen Waldwege empfohlen.",
+                "hu": "Vízálló cipő javasolt a vizes erdei ösvényekre.",
+                "ro": "Se recomandă încălțăminte impermeabilă pentru potecile ude.",
+                "en": "Waterproof shoes recommended for the wet forest paths."
+              }
+            },
+            {
+              "name": "Trakošćan Castle",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen und Schutz vor dem Regen suchen.",
+                "hu": "Ideális hely az eső elöli menedékre és a melegedésre.",
+                "ro": "Ideal pentru a vă încălzi și a vă adăposti de ploaie.",
+                "en": "Ideal place for seeking shelter from the rain and warming up."
+              }
+            },
+            {
+              "name": "Castle Museum & Knights' Hall",
+              "tip_5lang": {
+                "de": "Genießen Sie den trockenen Rundgang durch die Exponate.",
+                "hu": "Élvezze a száraz körbejárást a kiállítási tárgyak között.",
+                "ro": "Bucurați-vă de turul uscat printre obiectele expuse.",
+                "en": "Enjoy the dry tour through the museum exhibits."
+              }
+            },
+            {
+              "name": "Hunting Hall",
+              "tip_5lang": {
+                "de": "Ein weiterer überdachter Bereich für regnerische Stunden.",
+                "hu": "Újabb fedett terület az esős órák eltöltésére.",
+                "ro": "O altă zonă acoperită pentru orele ploioase.",
+                "en": "Another covered area for spending the rainy hours."
+              }
+            },
+            {
+              "name": "Chapel of the Holy Cross",
+              "tip_5lang": {
+                "de": "Der Weg zur Kapelle kann bei Regen rutschig sein.",
+                "hu": "A kápolnához vezető út esőben csúszós lehet.",
+                "ro": "Drumul spre capelă poate fi alunecos pe timp de ploaie.",
+                "en": "The path to the chapel can be slippery when raining."
+              }
+            },
+            {
+              "name": "Trakošćan Lake Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen auf dem unbefestigten Uferweg.",
+                "hu": "Vigyázat a tóparti földút tócsáival.",
+                "ro": "Atenție la bălțile de pe drumul de pământ de lângă lac.",
+                "en": "Beware of puddles on the unpaved lakeside path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke mit Kapuze.",
+              "Besuchen Sie das Schlossmuseum während der stärksten Schauer.",
+              "Die Waldwege rund um den See können schlammig sein.",
+              "Ein robuster Regenschirm ist bei Wind am See nötig.",
+              "Prüfen Sie, ob das Schlosscafé für eine trockene Pause offen ist."
+            ],
+            "hu": [
+              "Viseljen jó minőségű, kapucnis esőkabátot.",
+              "A hevesebb záporok idejére időzítse a múzeumlátogatást.",
+              "A tó körüli erdei utak sárosak lehetnek.",
+              "Szeles időben a tónál strapabíró esernyő kell.",
+              "Ellenőrizze a kastély kávézóját egy száraz pihenőhöz."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie de calitate cu glugă.",
+              "Programați vizita la muzeu în timpul averselor puternice.",
+              "Potecile din pădure din jurul lacului pot fi noroioase.",
+              "O umbrelă robustă este necesară pe vânt lângă lac.",
+              "Verificați dacă cafeneaua castelului este deschisă pentru pauză."
+            ],
+            "en": [
+              "Wear a high-quality hooded raincoat.",
+              "Schedule the museum visit during the heaviest showers.",
+              "The forest paths around the lake can be muddy.",
+              "A sturdy umbrella is needed if it is windy by the lake.",
+              "Check if the castle cafe is open for a dry break."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen in Trakošćan offenbart eine Märchenlandschaft, oft in Weiß gehüllt. Der Park wirkt unter dem Frost besonders still und friedlich.\n\nMittags flüchten wir vor der Kälte in das beheizte Schloss. Die prunkvollen Innenräume und das Museum bieten eine gemütliche Atmosphäre zum Erkunden.\n\nAm Nachmittag führt ein kurzer, erfrischender Spaziergang zur Kapelle. Die klare Winterluft sorgt für weite Ausblicke über die hügelige Zagorje-Region.\n\nDer Abend bricht früh an. Wenn die Sonne gegen 16:30 Uhr untergeht, hüllt die blaue Stunde den teilweise gefrorenen See in ein magisches Licht.",
+            "hu": "A téli reggel Trakošćanban igazi mesevilágot tár elénk, gyakran fehérbe öltözve. A park a zúzmara alatt különösen csendes és békés.\n\nDélben a hideg elől a fűtött kastélyba menekülünk. A díszes belső terek és a múzeum hangulatos környezetet biztosít a felfedezéshez.\n\nDélután egy rövid, frissítő séta vezet a kápolnához. A tiszta téli levegő messzi kilátást enged a Zagorje dombvidékére.\n\nAz este korán érkezik. Amikor a nap 16:30 körül lenyugszik, a kék óra mágikus fénybe vonja a részben befagyott tavat.",
+            "ro": "O dimineață de iarnă la Trakošćan dezvăluie un peisaj de basm, adesea îmbrăcat în alb. Parcul pare extrem de liniștit sub chiciură.\n\nLa prânz scăpăm de frig în interiorul încălzit al castelului. Sălile somptuoase și muzeul oferă o atmosferă primitoare pentru explorare.\n\nDupă-amiaza, o scurtă plimbare revigorantă ne duce spre capelă. Aerul clar de iarnă permite vederi panoramice peste dealurile regiunii Zagorje.\n\nSeara coboară devreme. Când soarele apune în jur de 16:30, ora albastră învăluie lacul parțial înghețat într-o lumină magică.",
+            "en": "A winter morning in Trakošćan reveals a fairytale landscape, often wrapped in white. The park feels particularly quiet and peaceful under the frost.\n\nAt noon, we escape the cold into the heated castle. The grand interiors and the museum provide a cozy atmosphere for exploration.\n\nIn the afternoon, a short, refreshing walk leads to the chapel. The clear winter air allows for wide views over the hilly Zagorje region.\n\nThe evening arrives early. When the sun sets around 16:30, the blue hour envelops the partially frozen lake in a magical light."
+          },
+          "stops": [
+            {
+              "name": "Trakošćan Castle Park",
+              "tip_5lang": {
+                "de": "Tragen Sie Thermokleidung für den Spaziergang im Frost.",
+                "hu": "Viseljen termikus ruházatot a zúzmarás sétához.",
+                "ro": "Purtați haine termice pentru plimbarea prin ger.",
+                "en": "Wear thermal clothing for the walk in the frost."
+              }
+            },
+            {
+              "name": "Trakošćan Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen Außenkälte und Innenwärme.",
+                "hu": "Élvezze a kinti hideg és a benti meleg közötti kontrasztot.",
+                "ro": "Bucurați-vă de contrastul dintre frigul de afară și căldură.",
+                "en": "Enjoy the contrast between the outdoor cold and indoor warmth."
+              }
+            },
+            {
+              "name": "Castle Museum & Knights' Hall",
+              "tip_5lang": {
+                "de": "Ein angenehm temperierter Ort für Geschichtsliebhaber.",
+                "hu": "Kellemesen temperált hely a történelem kedvelőinek.",
+                "ro": "Un loc cu temperatură plăcută pentru iubitorii de istorie.",
+                "en": "A pleasantly tempered place for history buffs."
+              }
+            },
+            {
+              "name": "Hunting Hall",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich zwischen den historischen Exponaten auf.",
+                "hu": "Melegedjen fel a történelmi tárlatok között.",
+                "ro": "Încălziți-vă printre exponatele istorice.",
+                "en": "Warm up among the historical exhibits."
+              }
+            },
+            {
+              "name": "Chapel of the Holy Cross",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stufen beim Aufstieg.",
+                "hu": "Figyeljen a jeges lépcsőkre a felfelé vezető úton.",
+                "ro": "Atenție la treptele înghețate în timpul urcării.",
+                "en": "Watch out for icy steps during the ascent."
+              }
+            },
+            {
+              "name": "Trakošćan Lake Promenade",
+              "tip_5lang": {
+                "de": "Betreten Sie niemals die dünne Eisschicht auf dem See.",
+                "hu": "Soha ne lépjen a tó vékony jégrétegére.",
+                "ro": "Nu călcați niciodată pe stratul subțire de gheață de pe lac.",
+                "en": "Never step on the thin ice layer on the lake."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip).",
+              "Die Sonne geht bereits gegen 16:30 Uhr unter.",
+              "Das Hauptschloss ist im Winter für Besucher beheizt.",
+              "Festes Schuhwerk mit Profil verhindert Ausrutschen auf Eis.",
+              "Planen Sie die Seeumrundung vor Eintritt der Dämmerung."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen (hagyma-elv).",
+              "A nap már 16:30 körül lenyugszik.",
+              "A főkastély télen fűtött a látogatók számára.",
+              "A stabil, bordázott talpú lábbeli megelőzi a csúszást.",
+              "A tó körüli sétát még szürkület előttre tervezze."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în mai multe straturi (principiul cepei).",
+              "Soarele apune deja în jurul orei 16:30.",
+              "Castelul principal este încălzit iarna pentru vizitatori.",
+              "Încălțămintea solidă previne alunecarea pe gheață.",
+              "Planificați turul lacului înainte de lăsarea serii."
+            ],
+            "en": [
+              "Dress in several layers (onion principle).",
+              "The sun sets as early as 16:30.",
+              "The main castle is heated for visitors in winter.",
+              "Sturdy footwear with grip prevents slipping on ice.",
+              "Plan the lake circuit before dusk sets in."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -566,6 +994,398 @@
           "The paths around the lake are also suitable for trekking bikes.",
           "Respect pedestrians on the shared paths."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Die Radtour führt zunächst durch das idyllische Bednja-Tal, umgeben von grünen Wäldern. Danach umrunden wir den See auf dem gut befestigten Waldweg, der immer wieder Durchblicke auf das Schloss bietet. Nach dem Parken der Räder erkunden wir das Schlossmuseum und den imposanten Rittersaal. Ein Abstecher zur barocken Kapelle schließt den aktiven Teil ab, bevor wir den Tag im Schlosspark ausklingen lassen.",
+            "hu": "A kerékpártúra először az idilli Bednja-völgyön vezet keresztül, zöld erdőkkel körülvéve. Ezután megkerüljük a tavat a jól karbantartott erdei úton, amely ismételt kilátást nyújt a kastélyra. A biciklik leparkolása után felfedezzük a kastélymúzeumot és a lenyűgöző Lovagtermet. Egy rövid kitérő a barokk kápolnához zárja az aktív részt, mielőtt a kastélyparkban pihennénk.",
+            "ro": "Turul cu bicicleta trece mai întâi prin idilica Vale Bednja, înconjurată de păduri verzi. Apoi înconjurăm lacul pe poteca bine întreținută din pădure, care oferă vederi repetate asupra castelului. După parcarea bicicletelor, explorăm muzeul castelului și impunătoarea Sală a Cavalerilor. O scurtă vizită la capela barocă încheie partea activă, înainte de a ne relaxa în parcul castelului.",
+            "en": "The bike tour first leads through the idyllic Bednja Valley, surrounded by green forests. Then we circle the lake on the well-maintained forest path, which offers repeated views of the castle. After parking the bikes, we explore the castle museum and the impressive Knights' Hall. A short detour to the Baroque chapel completes the active part before we wind down in the castle park."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bednja-Tal Radweg",
+                "hu": "Bednja-völgyi kerékpárút",
+                "ro": "Pista de biciclete Valea Bednja",
+                "en": "Bednja Valley Bike Path"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die sanften Hügel des Zagorje-Gebiets.",
+                "hu": "Élvezze a Zagorje-vidék lankás dombjait.",
+                "ro": "Bucurați-vă de dealurile blânde ale regiunii Zagorje.",
+                "en": "Enjoy the gentle hills of the Zagorje region."
+              }
+            },
+            {
+              "name": {
+                "de": "Trakošćan-See Umrundung",
+                "hu": "Trakošćani-tó körbetekerés",
+                "ro": "Circuitul Lacului Trakošćan",
+                "en": "Trakošćan Lake Loop"
+              },
+              "tip_5lang": {
+                "de": "Der Waldweg ist im Sommer angenehm schattig.",
+                "hu": "Az erdei út nyáron kellemesen árnyékos.",
+                "ro": "Poteca prin pădure este plăcut umbrită vara.",
+                "en": "The forest path is pleasantly shaded in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Schlossmuseum",
+                "hu": "Kastélymúzeum",
+                "ro": "Muzeul Castelului",
+                "en": "Castle Museum"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad am Parkplatz vor dem Aufstieg ab.",
+                "hu": "Hagyja a kerékpárt a parkolóban a felkapaszkodás előtt.",
+                "ro": "Lăsați bicicleta în parcare înainte de urcare.",
+                "en": "Leave your bike in the parking lot before the ascent."
+              }
+            },
+            {
+              "name": {
+                "de": "Rittersaal",
+                "hu": "Lovagterem",
+                "ro": "Sala Cavalerilor",
+                "en": "Knights' Hall"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss für Fans mittelalterlicher Geschichte.",
+                "hu": "Középkori történelem kedvelőinek kötelező.",
+                "ro": "O necesitate pentru fanii istoriei medievale.",
+                "en": "A must for fans of medieval history."
+              }
+            },
+            {
+              "name": {
+                "de": "Schlosspark",
+                "hu": "Kastélypark",
+                "ro": "Parcul Castelului",
+                "en": "Castle Park"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie nach der Tour auf den grünen Wiesen.",
+                "hu": "Pihenjen a túra után a zöld pázsiton.",
+                "ro": "Relaxați-vă pe pajiștile verzi după tur.",
+                "en": "Relax on the green meadows after the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle des Heiligen Kreuzes",
+                "hu": "Szent Kereszt-kápolna",
+                "ro": "Capela Sfintei Cruci",
+                "en": "Chapel of the Holy Cross"
+              },
+              "tip_5lang": {
+                "de": "Kurzer, steiler Aufstieg zur Kapelle.",
+                "hu": "Rövid, meredek kaptató a kápolnához.",
+                "ro": "Urcare scurtă și abruptă spre capelă.",
+                "en": "Short, steep climb to the chapel."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Grešna Gorica",
+                "tip": "Etwas weiter weg, aber perfekt für eine Radlerpause mit lokaler Kost."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Grešna Gorica",
+                "tip": "Kicsit messzebb van, de tökéletes bringás pihenő helyi ételekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grešna Gorica",
+                "tip": "Puțin mai departe, dar perfect pentru o pauză de biciclist cu mâncare locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Grešna Gorica",
+                "tip": "A bit further away, but perfect for a cyclist's break with local food."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Picknickplatz am Seeufer",
+                "tip": "Ideal für eine Pause abseits der Wege.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Piknikezőhely a tóparton",
+                "tip": "Ideális pihenőhely az ösvényektől távol.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Loc de picnic pe malul lacului",
+                "tip": "Ideal pentru o pauză departe de trasee.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Picnic spot by the lake shore",
+                "tip": "Ideal for a break away from the paths.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Honigstand",
+                "tip": "Frischer Waldhonig direkt vom Imker an der Straße."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi mézárus",
+                "tip": "Friss erdei méz közvetlenül a termelőtől az út mentén."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Stand de miere local",
+                "tip": "Miere de pădure proaspătă direct de la apicultor la marginea drumului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Honey Stand",
+                "tip": "Fresh forest honey directly from the beekeeper by the road."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, da die Waldwege uneben sein können.",
+              "Nehmen Sie ausreichend Wasser mit, Trinkbrunnen sind selten.",
+              "Die Wege rund um den See sind auch für Trekkingräder geeignet.",
+              "Respektieren Sie Fußgänger auf den geteilten Wegen."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást, mert az erdei utak egyenetlenek lehetnek.",
+              "Vigyen magával elég vizet, az ivókutak ritkák.",
+              "A tó körüli utak túrakerékpárok számára is alkalmasak.",
+              "Tisztelje a gyalogosokat a közös ösvényeken."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope, deoarece potecile din pădure pot fi denivelate.",
+              "Luați suficientă apă, fântânile sunt rare.",
+              "Traseele din jurul lacului sunt potrivite și pentru biciclete de trekking.",
+              "Respectați pietonii pe traseele comune."
+            ],
+            "en": [
+              "Check tire pressure as forest paths can be uneven.",
+              "Take enough water with you, drinking fountains are rare.",
+              "The paths around the lake are also suitable for trekking bikes.",
+              "Respect pedestrians on the shared paths."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch das Bednja-Tal bei Regen erfordert gute Vorbereitung und wasserfeste Ausrüstung für die Waldwege.\n\nMittags erreichen wir das Schloss. Die Fahrradabstellplätze bieten leider wenig Schutz vor Nässe, daher ist eine Abdeckung sinnvoll.\n\nNachmittags erkunden wir die Innenräume des Schlosses, was eine willkommene trockene Pause vom Radfahren darstellt.\n\nDie Rückfahrt am Abend erfolgt vorsichtig auf dem nassen Asphalt. Die Regentropfen auf dem Visier machen die Fahrt besonders abenteuerlich.",
+            "hu": "A Bednja-völgyi kerékpártúra esőben jó felkészülést és vízálló felszerelést igényel az erdei utakon.\n\nDélben érjük el a kastélyt. A kerékpártárolók sajnos kevés védelmet nyújtanak, így egy takarófólia hasznos lehet.\n\nDélután a kastély belső tereit fedezzük fel, ami kellemes száraz pihenőt jelent a tekerés után.\n\nAz esti visszautat óvatosan tesszük meg a vizes aszfalton. Az esőcseppek a szemüvegen igazi kalanddá teszik az utat.",
+            "ro": "O tură cu bicicleta prin valea Bednja pe ploaie necesită o bună pregătire și echipament impermeabil pentru drumurile forestiere.\n\nLa prânz ajungem la castel. Din păcate, locurile de parcare pentru biciclete oferă puțină protecție, deci o husă este utilă.\n\nDupă-amiaza explorăm interiorul castelului, ceea ce reprezintă o pauză uscată binevenită de la pedalat.\n\nÎntoarcerea de seară se face cu prudență pe asfaltul ud. Picăturile de ploaie pe vizieră fac drumul extrem de aventuros.",
+            "en": "A bike tour through the Bednja Valley in the rain requires good preparation and waterproof gear for the forest paths.\n\nAt noon we reach the castle. The bike parking spots unfortunately offer little protection, so a cover is useful.\n\nIn the afternoon we explore the interiors of the castle, which provides a welcome dry break from cycling.\n\nThe return trip in the evening is done carefully on the wet asphalt. Raindrops on the visor make the ride particularly adventurous."
+          },
+          "stops": [
+            {
+              "name": "Bednja Valley Bike Path",
+              "tip_5lang": {
+                "de": "Schutzbleche sind bei nassem Untergrund unerlässlich.",
+                "hu": "A sárvédő elengedhetetlen a nedves talajon.",
+                "ro": "Apărătorile de noroi sunt esențiale pe teren umed.",
+                "en": "Mudguards are essential on wet ground."
+              }
+            },
+            {
+              "name": "Trakošćan Lake Loop",
+              "tip_5lang": {
+                "de": "Vorsicht bei Kurven auf dem rutschigen Uferweg.",
+                "hu": "Vigyázat a kanyarokban a csúszós tóparti úton.",
+                "ro": "Atenție la curbe pe drumul alunecos de pe mal.",
+                "en": "Be careful in corners on the slippery lakeside path."
+              }
+            },
+            {
+              "name": "Castle Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine lange Aufwärmpause.",
+                "hu": "Használja ki az időt egy hosszú melegedő pihenőre.",
+                "ro": "Profitați de timp pentru o pauză lungă de încălzire.",
+                "en": "Take your time for a long warming-up break."
+              }
+            },
+            {
+              "name": "Knights' Hall",
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Handschuhe kurz im Eingangsbereich trocknen.",
+                "hu": "Hagyja a vizes kesztyűket száradni a bejáratnál.",
+                "ro": "Lăsați mănușile ude la uscat în zona de intrare.",
+                "en": "Let wet gloves dry briefly in the entrance area."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Einige Wege können nach starkem Regen matschig sein.",
+                "hu": "Néhány út heves esőzés után sáros lehet.",
+                "ro": "Unele drumuri pot fi noroioase după ploi abundente.",
+                "en": "Some paths can be muddy after heavy rain."
+              }
+            },
+            {
+              "name": "Chapel of the Holy Cross",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad sicher auf befestigtem Grund.",
+                "hu": "Parkolja a bringát biztonságosan szilárd talajon.",
+                "ro": "Parcați bicicleta în siguranță pe teren solid.",
+                "en": "Park the bike safely on solid ground."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie abruptes Bremsen auf nassem Laub.",
+              "Tragen Sie wasserdichte Überschuhe und Handschuhe.",
+              "Die Sicht kann im Tal bei Regen eingeschränkt sein.",
+              "Prüfen Sie die Bremsleistung bei Nässe vor der Abfahrt.",
+              "Nutzen Sie helle Kleidung mit Reflektoren."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a vizes leveleken.",
+              "Viseljen vízálló kamáslit és kesztyűt.",
+              "A látási viszonyok a völgyben esőben korlátozottak lehetnek.",
+              "Indulás előtt ellenőrizze a fékhatást nedves időben.",
+              "Viseljen fényvisszaverővel ellátott, világos ruhát."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe frunzele ude.",
+              "Purtați huse de pantofi și mănuși impermeabile.",
+              "Vizibilitatea în vale poate fi redusă pe ploaie.",
+              "Verificați eficiența frânelor pe umiditate înainte de plecare.",
+              "Purtați haine de culori deschise cu elemente reflectorizante."
+            ],
+            "en": [
+              "Avoid sudden braking on wet leaves.",
+              "Wear waterproof shoe covers and gloves.",
+              "Visibility in the valley can be limited during rain.",
+              "Check brake performance in wet conditions before departure.",
+              "Wear bright clothing with reflectors."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Start im Bednja-Tal erfordert warme Schichten gegen den Fahrtwind und die kalte Morgenluft.\n\nMittags erreichen wir das verschneite Schloss. Der Anstieg zum Eingang bringt den Kreislauf in der Kälte in Schwung.\n\nNachmittags wärmen wir uns ausgiebig in den Schlosssälen auf. Die Aussicht vom Sattel auf die winterlichen Hügel ist einzigartig.\n\nDie Tour endet am frühen Abend. Da es bereits gegen 16:30 Uhr dunkel wird, ist eine gute Beleuchtung am Fahrrad zwingend erforderlich.",
+            "hu": "A téli indulás a Bednja-völgyben meleg rétegeket igényel a menetszél és a hideg reggeli levegő ellen.\n\nDélben érjük el a havas kastélyt. A bejárathoz vezető emelkedő jól megmozgatja a keringést a hidegben.\n\nDélután alaposan felmelegszünk a kastélytermekben. A nyeregből nyíló kilátás a téli dombokra egyedülálló.\n\nA túra kora este ér véget. Mivel 16:30 körül sötétedik, a jó kerékpáros világítás elengedhetetlen.",
+            "ro": "Un start de iarnă în valea Bednja necesită straturi groase împotriva vântului și a aerului rece de dimineață.\n\nLa prânz ajungem la castelul înzăpezit. Urcarea spre intrare pune sângele în mișcare în frigul tăios.\n\nDupă-amiaza ne încălzim bine în sălile castelului. Priveliștea din șa peste dealurile de iarnă este unică.\n\nTurul se încheie devreme. Deoarece se întunecă în jur de 16:30, iluminarea bună a bicicletei este obligatorie.",
+            "en": "A winter start in the Bednja Valley requires warm layers against the wind chill and cold morning air.\n\nAt noon we reach the snowy castle. The climb to the entrance gets the circulation going in the cold.\n\nIn the afternoon we warm up extensively in the castle halls. The view from the saddle of the winter hills is unique.\n\nThe tour ends in the early evening. Since it gets dark by 16:30, good bike lighting is mandatory."
+          },
+          "stops": [
+            {
+              "name": "Bednja Valley Bike Path",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen und Reifglätte.",
+                "hu": "Vigyázat a fagyott tócsákkal és a dér okozta csúszóssággal.",
+                "ro": "Atenție la bălțile înghețate și la polei.",
+                "en": "Beware of frozen puddles and hoarfrost slipperiness."
+              }
+            },
+            {
+              "name": "Trakošćan Lake Loop",
+              "tip_5lang": {
+                "de": "Der Wind am See kann die gefühlte Temperatur senken.",
+                "hu": "A tónál fújó szél csökkentheti a hőérzetet.",
+                "ro": "Vântul de lângă lac poate reduce temperatura resimțită.",
+                "en": "The wind by the lake can lower the perceived temperature."
+              }
+            },
+            {
+              "name": "Castle Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum vollständigen Aufwärmen.",
+                "hu": "Használja ki a múzeumlátogatást a teljes felmelegedésre.",
+                "ro": "Utilizați vizita la muzeu pentru o încălzire completă.",
+                "en": "Use the museum visit for a complete warm-up."
+              }
+            },
+            {
+              "name": "Knights' Hall",
+              "tip_5lang": {
+                "de": "Trinken Sie einen heißen Tee im nahegelegenen Kiosk.",
+                "hu": "Igyon egy forró teát a közeli büfénél.",
+                "ro": "Beți un ceai fierbinte la chioșcul din apropiere.",
+                "en": "Drink a hot tea at the nearby kiosk."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Die Wege können bei Schneefall schwer befahrbar sein.",
+                "hu": "Hajazás esetén az utak nehezen járhatóak lehetnek.",
+                "ro": "Drumurile pot fi greu practicabile în caz de ninsoare.",
+                "en": "The paths can be difficult to ride if it snows."
+              }
+            },
+            {
+              "name": "Chapel of the Holy Cross",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die winterliche Stille zu genießen.",
+                "hu": "Rövid megálló a téli csend élvezetéhez.",
+                "ro": "Scurt popas pentru a savura liniștea iernii.",
+                "en": "Short stop to enjoy the winter silence."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Winter-Fahrradhandschuhe.",
+              "Die Akkulaufzeit der Beleuchtung sinkt bei Kälte.",
+              "Vermeiden Sie Fahrten bei starkem Glatteis.",
+              "Ein Schlauchtuch schützt das Gesicht vor Frost.",
+              "Halten Sie die Fahrtzeiten kurz und machen Sie Pausen."
+            ],
+            "hu": [
+              "Viseljen szélálló téli kerékpáros kesztyűt.",
+              "A lámpák akkumulátorideje csökken a hidegben.",
+              "Erős jegesedés esetén kerülje a bringázást.",
+              "A csősál védi az arcot a fagytól.",
+              "Tartsa röviden a menetidőt és tartsanak szüneteket."
+            ],
+            "ro": [
+              "Purtați mănuși de iarnă pentru bicicletă rezistente la vânt.",
+              "Durata bateriei luminilor scade la frig.",
+              "Evitați deplasarea în caz de polei puternic.",
+              "O eșarfă tip tub protejează fața de ger.",
+              "Mențineți timpii de condus scurți și faceți pauze."
+            ],
+            "en": [
+              "Wear windproof winter cycling gloves.",
+              "Battery life for lighting decreases in the cold.",
+              "Avoid riding in case of severe black ice.",
+              "A neck gaiter protects the face from frost.",
+              "Keep riding times short and take breaks."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -805,6 +1625,366 @@
           "Combine the visit with a detour to Varaždin.",
           "Watch out for wildlife at dusk."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen wir bequem das Herz von Zagorje. Der Vormittag ist dem prächtigen Schloss und seinen Sammlungen gewidmet. Mittags fahren wir zu einem Aussichtspunkt im Bednja-Tal, der weite Blicke über die hügelige Landschaft ermöglicht. Nachmittags kehren wir zum See zurück, um die Atmosphäre am Wasser zu genießen, und beenden den Besuch an der ruhigen Kapelle des Heiligen Kreuzes.",
+            "hu": "Autóval kényelmesen elérjük Zagorje szívét. A délelőttöt a pompás kastélynak és gyűjteményeinek szenteljük. Délben a Bednja-völgy egy kilátópontjához autózunk, ahonnan messzire ellátni a dombos tájon. Délután visszatérünk a tóhoz, hogy élvezzük a vízparti hangulatot, majd a látogatást a csendes Szent Kereszt-kápolnánál fejezzük be.",
+            "ro": "Cu mașina ajungem confortabil în inima regiunii Zagorje. Dimineața este dedicată castelului magnific și colecțiilor sale. La prânz conducem spre un punct de belvedere în Valea Bednja, care permite vederi largi peste peisajul deluros. După-amiaza ne întoarcem la lac pentru a ne bucura de atmosfera de pe apă și încheiem vizita la liniștita Capelă a Sfintei Cruci.",
+            "en": "By car we easily reach the heart of Zagorje. The morning is dedicated to the magnificent castle and its collections. At midday we drive to a viewpoint in the Bednja Valley, which allows wide views over the hilly landscape. In the afternoon we return to the lake to enjoy the atmosphere by the water and finish the visit at the quiet Chapel of the Holy Cross."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Trakošćan",
+                "hu": "Trakošćani kastély",
+                "ro": "Castelul Trakošćan",
+                "en": "Trakošćan Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem bewachten Parkplatz unterhalb des Hügels.",
+                "hu": "Parkoljon az őrzött parkolóban a domb alatt.",
+                "ro": "Parcați în parcarea păzită de sub deal.",
+                "en": "Park in the guarded parking lot below the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Schlossmuseum & Rittersaal",
+                "hu": "Kastélymúzeum és Lovagterem",
+                "ro": "Muzeul Castelului și Sala Cavalerilor",
+                "en": "Castle Museum & Knights' Hall"
+              },
+              "tip_5lang": {
+                "de": "Die Führung gibt tiefe Einblicke in das Adelsleben.",
+                "hu": "A vezetés mély betekintést nyújt a nemesi életbe.",
+                "ro": "Turul ghidat oferă o perspectivă profundă asupra vieții nobiliare.",
+                "en": "The guided tour provides deep insights into noble life."
+              }
+            },
+            {
+              "name": {
+                "de": "Bednja-Tal Aussichtspunkt",
+                "hu": "Bednja-völgy kilátópont",
+                "ro": "Punct de belvedere Valea Bednja",
+                "en": "Bednja Valley Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Panoramablick über das Tal und die Hügel von Zagorje.",
+                "hu": "Panorámás kilátás a völgyre és a Zagorjei dombokra.",
+                "ro": "Vedere panoramică asupra văii și dealurilor Zagorje.",
+                "en": "Panoramic view over the valley and the hills of Zagorje."
+              }
+            },
+            {
+              "name": {
+                "de": "Trakošćan-See Südufer",
+                "hu": "Trakošćani-tó déli part",
+                "ro": "Malul sudic al lacului Trakošćan",
+                "en": "Trakošćan Lake South Shore"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang zum Seeufer lohnt sich für Fotos.",
+                "hu": "Egy rövid séta a tópartra megéri a fotók kedvéért.",
+                "ro": "O scurtă plimbare până la malul lacului merită pentru fotografii.",
+                "en": "A short walk to the lake shore is worth it for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle des Heiligen Kreuzes",
+                "hu": "Szent Kereszt-kápolna",
+                "ro": "Capela Sfintei Cruci",
+                "en": "Chapel of the Holy Cross"
+              },
+              "tip_5lang": {
+                "de": "Letzter Stopp für Besinnung vor der Rückfahrt.",
+                "hu": "Utolsó állomás elmélyülésre a hazautazás előtt.",
+                "ro": "Ultima oprire pentru reflecție înainte de întoarcere.",
+                "en": "Last stop for reflection before the return journey."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restoran Trakošćan",
+                "tip": "Wildgerichte und regionale Weine."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Restoran Trakošćan",
+                "tip": "Vadhúsételek és regionális borok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restoran Trakošćan",
+                "tip": "Preparate din vânat și vinuri regionale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restoran Trakošćan",
+                "tip": "Game dishes and regional wines."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Waldparkplatz Bednja",
+                "tip": "Startpunkt für einsame Waldspaziergänge.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bednjai erdei parkoló",
+                "tip": "Kiindulópont magányos erdei sétákhoz.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcarea din pădurea Bednja",
+                "tip": "Punct de plecare pentru plimbări solitare în pădure.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Bednja Forest Parking",
+                "tip": "Starting point for lonely forest walks.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Bauernmarkt (Saisonal)",
+                "tip": "In der Nähe von Bednja, frischer Käse und Schnaps."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi termelői piac (szezonális)",
+                "tip": "Bednja közelében, friss sajt és pálinka."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața locală a fermierilor (sezonieră)",
+                "tip": "Lângă Bednja, brânză proaspătă și rachiu."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Farmers Market (Seasonal)",
+                "tip": "Near Bednja, fresh cheese and schnapps."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straßen in Zagorje sind kurvig, fahren Sie vorsichtig.",
+              "Am Wochenende ist der Hauptparkplatz oft schnell voll.",
+              "Kombinieren Sie den Besuch mit einem Abstecher nach Varaždin.",
+              "Achten Sie auf Wildwechsel in der Dämmerung."
+            ],
+            "hu": [
+              "A Zagorjei utak kanyargósak, vezessen óvatosan.",
+              "Hétvégén a főparkoló gyakran gyorsan megtelik.",
+              "Kombinálja a látogatást egy varasdi (Varaždin) kitérővel.",
+              "Ügyeljen a vadakra szürkületkor."
+            ],
+            "ro": [
+              "Drumurile din Zagorje sunt virajate, conduceți cu atenție.",
+              "În weekend, parcarea principală se umple adesea rapid.",
+              "Combinați vizita cu o excursie la Varaždin.",
+              "Atenție la animalele sălbatice la amurg."
+            ],
+            "en": [
+              "The roads in Zagorje are curvy, drive carefully.",
+              "On weekends, the main parking lot often fills up quickly.",
+              "Combine the visit with a detour to Varaždin.",
+              "Watch out for wildlife at dusk."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag beginnt entspannt mit der Fahrt zum Schlossgelände. Das Auto bietet perfekten Schutz vor den heranziehenden Wolken.\n\nMittags verbringen wir die Zeit im trockenen Schlossmuseum. Der Parkplatz befindet sich in bequemer Gehweite zum Eingang.\n\nNachmittags genießen wir die dramatische Aussicht vom Bednja-Aussichtspunkt, während die Regentropfen gegen die Scheiben trommeln.\n\nDie Tour endet mit einer gemütlichen Fahrt durch die verregnete Hügellandschaft, wobei die Straßenbeleuchtung die nassen Fahrbahnen erhellt.",
+            "hu": "Az esős nap kényelmesen indul a kastély területére való autózással. Az autó tökéletes védelmet nyújt a közelgő felhők elől.\n\nDélben a száraz kastélymúzeumban töltjük az időt. A parkoló kényelmes sétatávolságra van a bejárattól.\n\nDélután a Bednja-kilátópont drámai panorámáját élvezzük, miközben az esőcseppek az ablaküvegen kopognak.\n\nA túra egy hangulatos autózással zárul az esős dombvidéken, ahol az utcai lámpák megvilágítják a vizes utakat.",
+            "ro": "O zi ploioasă începe relaxat cu drumul spre domeniul castelului. Mașina oferă protecție perfectă împotriva norilor ce se apropie.\n\nLa prânz petrecem timpul în muzeul uscat al castelului. Parcarea se află la o distanță scurtă de mers pe jos de intrare.\n\nDupă-amiaza ne bucurăm de vederea dramatică de la punctul de observație Bednja, în timp ce picăturile bat în geamuri.\n\nTurul se încheie cu o plimbare plăcută prin peisajul deluros plouat, cu luminile stradale reflectându-se pe asfaltul ud.",
+            "en": "A rainy day starts relaxed with the drive to the castle grounds. The car provides perfect protection from the approaching clouds.\n\nAt noon, we spend time in the dry castle museum. The parking lot is within easy walking distance to the entrance.\n\nIn the afternoon, we enjoy the dramatic view from the Bednja viewpoint while raindrops drum against the windows.\n\nThe tour ends with a cozy drive through the rain-soaked hills, with streetlights illuminating the wet roads."
+          },
+          "stops": [
+            {
+              "name": "Trakošćan Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz für kurzen Fußweg.",
+                "hu": "Használja a közeli parkolót a rövid gyalogút érdekében.",
+                "ro": "Folosiți parcarea apropiată pentru un drum scurt pe jos.",
+                "en": "Use the nearby parking lot for a short walk."
+              }
+            },
+            {
+              "name": "Castle Museum & Knights' Hall",
+              "tip_5lang": {
+                "de": "Ideal, um den Regenschirm kurz zu trocknen.",
+                "hu": "Ideális hely az esernyő rövid szárítására.",
+                "ro": "Ideal pentru a usca puțin umbrela.",
+                "en": "Ideal place to dry the umbrella briefly."
+              }
+            },
+            {
+              "name": "Bednja Valley Viewpoint",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht direkt aus dem Auto.",
+                "hu": "Élvezze a kilátást közvetlenül az autóból.",
+                "ro": "Bucurați-vă de priveliște direct din mașină.",
+                "en": "Enjoy the view directly from the car."
+              }
+            },
+            {
+              "name": "Trakošćan Lake South Shore",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken auf unbefestigten Flächen.",
+                "hu": "Vigyázat a parkolással a nem aszfaltozott részeken.",
+                "ro": "Atenție la parcare pe suprafețele neasfaltate.",
+                "en": "Be careful when parking on unpaved areas."
+              }
+            },
+            {
+              "name": "Chapel of the Holy Cross",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz zur Kapelle.",
+                "hu": "Rövid sprint a parkolótól a kápolnáig.",
+                "ro": "Sprint scurt de la parcare până la capelă.",
+                "en": "Short sprint from the parking lot to the chapel."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand der Scheibenwischer.",
+              "Vermeiden Sie Aquaplaning in den Senken des Tals.",
+              "Parken Sie auf befestigtem Grund, um Matsch zu meiden.",
+              "Fahren Sie mit Abblendlicht für bessere Sichtbarkeit.",
+              "Ein Handtuch im Auto ist nach dem Schlossweg nützlich."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlők állapotát.",
+              "Kerülje az aquaplaninget a völgy mélyebb részein.",
+              "Parkoljon szilárd burkolaton a sár elkerülésére.",
+              "Használjon tompított fényszórót a jobb láthatóságért.",
+              "Egy törölköző az autóban hasznos lehet a várnézés után."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor de parbriz.",
+              "Evitați acvaplanarea în zonele joase ale văii.",
+              "Parcați pe teren solid pentru a evita noroiul.",
+              "Conduceți cu faza scurtă pentru o mai bună vizibilitate.",
+              "Un prosop în mașină este util după drumul la castel."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers.",
+              "Avoid aquaplaning in the lower parts of the valley.",
+              "Park on paved ground to avoid mud.",
+              "Drive with low beam headlights for better visibility.",
+              "A towel in the car is useful after the castle walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag beginnt mit einer Fahrt durch die verschneite Zagorje-Region. Die Heizung im Auto sorgt für behagliche Wärme.\n\nMittags erreichen wir das Schloss, das wie eine Eiskönigin über dem Tal thront. Der Parkplatz ist meist geräumt, aber Vorsicht vor Glätte.\n\nNachmittags wärmen wir uns im Museum auf. Die Fahrt zum Aussichtspunkt bietet spektakuläre Ausblicke auf die tief verschneiten Wälder.\n\nDer Tag endet früh. Wir treten die Rückfahrt an, bevor die Temperaturen bei Einbruch der Dunkelheit stark sinken und die Straßen gefrieren könnten.",
+            "hu": "A téli nap autózással indul a havas Zagorje vidéken. Az autó fűtése gondoskodik a kellemes melegről.\n\nDélben érjük el a kastélyt, amely úgy trónol a völgy felett, mint egy jégkirálynő. A parkolót általában letakarítják, de vigyázat a csúszóssággal.\n\nDélután a múzeumban melegszünk fel. Az autózás a kilátóhoz látványos panorámát nyújt a mélyen havas erdőkre.\n\nA nap korán véget ér. Még a sötétedés előtt elindulunk haza, mielőtt a hőmérséklet drasztikusan leesne és az utak lefagynának.",
+            "ro": "O zi de iarnă începe cu drumul prin regiunea Zagorje înzăpezită. Încălzirea mașinii asigură un confort termic plăcut.\n\nLa prânz ajungem la castelul care tronează peste vale ca o regină a gheții. Parcarea este de regulă curățată, dar atenție la polei.\n\nDupă-amiaza ne încălzim în muzeu. Drumul spre punctul de observație oferă vederi spectaculoase peste pădurile înzăpezite.\n\nZiua se încheie devreme. Pornim spre casă înainte ca temperaturile să scadă drastic la lăsarea întunericului și drumurile să înghețe.",
+            "en": "A winter day starts with a drive through the snowy Zagorje region. The car heater ensures cozy warmth.\n\nAt noon, we reach the castle, which sits over the valley like an ice queen. The parking lot is usually cleared, but watch out for slipperiness.\n\nIn the afternoon, we warm up in the museum. The drive to the viewpoint offers spectacular views of the deeply snowy forests.\n\nThe day ends early. We start our return journey before temperatures drop sharply at dusk and the roads could freeze."
+          },
+          "stops": [
+            {
+              "name": "Trakošćan Castle",
+              "tip_5lang": {
+                "de": "Parken Sie nicht unter großen, schneebeladenen Bäumen.",
+                "hu": "Ne parkoljon nagy, hóval terhelt fák alá.",
+                "ro": "Nu parcați sub copaci mari încărcați cu zăpadă.",
+                "en": "Do not park under large, snow-laden trees."
+              }
+            },
+            {
+              "name": "Castle Museum & Knights' Hall",
+              "tip_5lang": {
+                "de": "Ein wohltemperierter Rückzugsort vor der Winterkälte.",
+                "hu": "Jól temperált menedék a téli hideg elől.",
+                "ro": "Un refugiu bine încălzit împotriva gerului de iarnă.",
+                "en": "A well-tempered retreat from the winter cold."
+              }
+            },
+            {
+              "name": "Bednja Valley Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneeverwehungen an den Straßenrändern.",
+                "hu": "Vigyázat a hófúvásokkal az út mentén.",
+                "ro": "Atenție la troienele de zăpadă de pe marginea drumului.",
+                "en": "Beware of snowdrifts at the roadsides."
+              }
+            },
+            {
+              "name": "Trakošćan Lake South Shore",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte beim Aussteigen aus dem Wagen.",
+                "hu": "Figyeljen a csúszósságra a kocsiból való kiszálláskor.",
+                "ro": "Atenție la polei când coborâți din mașină.",
+                "en": "Watch out for slipperiness when getting out of the car."
+              }
+            },
+            {
+              "name": "Chapel of the Holy Cross",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das verschneite Kirchlein.",
+                "hu": "Élvezze a kilátást a havas kis templomra.",
+                "ro": "Bucurați-vă de vederea bisericuței înzăpezite.",
+                "en": "Enjoy the view of the snowy little church."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Region Pflicht.",
+              "Führen Sie einen Eiskratzer und Schneebesen mit.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Bergstraßen können bei Neuschnee tückisch sein.",
+              "Halten Sie die Tankfüllung für Notfälle über Reserve."
+            ],
+            "hu": [
+              "A téli gumi kötelező ebben a régióban.",
+              "Legyen kéznél jégkaparó és hókefe.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A hegyi utak trükkösek lehetnek friss hóban.",
+              "Vészhelyzet esetére tartson elég üzemanyagot."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în această regiune.",
+              "Aveți la îndemână o racletă și o perie de zăpadă.",
+              "Verificați antigelul din lichidul de parbriz.",
+              "Drumurile montane pot fi înșelătoare în caz de ninsoare.",
+              "Mențineți nivelul combustibilului peste rezervă."
+            ],
+            "en": [
+              "Winter tires are mandatory in this region.",
+              "Carry an ice scraper and a snow brush.",
+              "Check the antifreeze in your windshield washer fluid.",
+              "Mountain roads can be tricky with fresh snow.",
+              "Keep the fuel tank above reserve for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1044,6 +2224,366 @@
           "The terrain is hilly, plan buffer times to the bus.",
           "Fewer buses run on Sundays, check this carefully."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Die Anreise mit dem Bus bietet einen stressfreien Start in den Tag. Nach der Ankunft erkunden wir das Schloss und seine faszinierende Waffensammlung. Die Mittagszeit verbringen wir im Schatten der alten Bäume des Schlossparks. Den Nachmittag widmen wir dem See, bevor wir pünktlich zur Haltestelle zurückkehren. Ein perfekter Ausflug ohne Parkplatzsorgen.",
+            "hu": "A busszal való érkezés stresszmentes kezdést biztosít. Megérkezés után felfedezzük a kastélyt és annak lenyűgöző fegyvergyűjteményét. A délutánt a kastélypark öreg fáinak árnyékában töltjük. A nap hátralévő részét a tónál élvezzük, mielőtt időben visszatérnénk a megállóhoz. Tökéletes kirándulás parkolási gondok nélkül.",
+            "ro": "Sosirea cu autobuzul oferă un început de zi fără stres. După sosire, explorăm castelul și colecția sa fascinantă de arme. Prânzul îl petrecem la umbra arborilor bătrâni din parcul castelului. După-amiaza o dedicăm lacului, înainte de a ne întoarce la timp la stație. O excursie perfectă fără griji de parcare.",
+            "en": "Arriving by bus offers a stress-free start to the day. After arrival, we explore the castle and its fascinating arms collection. We spend the midday in the shade of the old trees in the castle park. The afternoon is dedicated to the lake before returning to the stop on time. A perfect excursion without parking worries."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bushaltestelle Trakošćan",
+                "hu": "Trakošćan buszmegálló",
+                "ro": "Stația de autobuz Trakošćan",
+                "en": "Trakošćan Bus Stop"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten direkt bei der Ankunft.",
+                "hu": "Érkezéskor azonnal ellenőrizze a visszautazási időpontokat.",
+                "ro": "Verificați orele de întoarcere imediat la sosire.",
+                "en": "Check the return times immediately upon arrival."
+              }
+            },
+            {
+              "name": {
+                "de": "Schlossmuseum",
+                "hu": "Kastélymúzeum",
+                "ro": "Muzeul Castelului",
+                "en": "Castle Museum"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle bergauf.",
+                "hu": "Rövid gyalogút a megállótól felfelé.",
+                "ro": "Scurtă plimbare de la stație în sus.",
+                "en": "Short walk uphill from the stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Jagdsaal",
+                "hu": "Vadászterem",
+                "ro": "Sala de Vânătoare",
+                "en": "Hunting Hall"
+              },
+              "tip_5lang": {
+                "de": "Historische Exponate in authentischem Ambiente.",
+                "hu": "Történelmi kiállítási tárgyak autentikus környezetben.",
+                "ro": "Exponate istorice într-o ambianță autentică.",
+                "en": "Historical exhibits in an authentic ambience."
+              }
+            },
+            {
+              "name": {
+                "de": "Schlosspark",
+                "hu": "Kastélypark",
+                "ro": "Parcul Castelului",
+                "en": "Castle Park"
+              },
+              "tip_5lang": {
+                "de": "Ideal für ein entspanntes Mittagspicknick.",
+                "hu": "Ideális egy pihentető ebéd-piknikhez.",
+                "ro": "Ideal pentru un picnic relaxant de prânz.",
+                "en": "Ideal for a relaxed lunch picnic."
+              }
+            },
+            {
+              "name": {
+                "de": "Trakošćan-See Seebrücke",
+                "hu": "Trakošćani-tó híd",
+                "ro": "Podul Lacului Trakošćan",
+                "en": "Trakošćan Lake Bridge"
+              },
+              "tip_5lang": {
+                "de": "Bester Platz für das klassische Postkartenfoto.",
+                "hu": "A legjobb hely a klasszikus képeslapfotóhoz.",
+                "ro": "Cel mai bun loc pentru fotografia clasică de carte poștală.",
+                "en": "Best place for the classic postcard photo."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Kiosk am See",
+                "tip": "Schnelle Snacks und Eiscreme für zwischendurch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tóparti büfé",
+                "tip": "Gyors ételek és fagylalt két állomás között."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chioșc de lângă lac",
+                "tip": "Gustări rapide și înghețată între timp."
+              }
+            ],
+            "en": [
+              {
+                "name": "Lake Kiosk",
+                "tip": "Quick snacks and ice cream in between."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pavillon im Park",
+                "tip": "Rückzugsort bei leichtem Regen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pavilon a parkban",
+                "tip": "Menedékhely szemerkélő esőben.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pavilion în parc",
+                "tip": "Refugiu în caz de ploaie ușoară.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Park Pavilion",
+                "tip": "Retreat during light rain.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Postkartenstand",
+                "tip": "Versenden Sie einen Gruß direkt aus Trakošćan."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Képeslapárus",
+                "tip": "Küldjön üdvözletet közvetlenül Trakošćanból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Stand de cărți poștale",
+                "tip": "Trimiteți un salut direct din Trakošćan."
+              }
+            ],
+            "en": [
+              {
+                "name": "Postcard Stand",
+                "tip": "Send a greeting directly from Trakošćan."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Busverbindungen von Varaždin sind am besten.",
+              "Laden Sie die Fahrplan-App vorab herunter.",
+              "Das Gelände ist hügelig, planen Sie Pufferzeiten zum Bus ein.",
+              "Sonntags fahren weniger Busse, prüfen Sie dies genau."
+            ],
+            "hu": [
+              "A Varasdról (Varaždin) induló buszjáratok a legjobbak.",
+              "Töltse le előre a menetrend-alkalmazást.",
+              "A terep dombos, hagyjon puffert az indulásig.",
+              "Vasárnap kevesebb busz jár, ezt ellenőrizze pontosan."
+            ],
+            "ro": [
+              "Conexiunile de autobuz din Varaždin sunt cele mai bune.",
+              "Descărcați aplicația cu orarul în prealabil.",
+              "Terenul este deluros, planificați timp tampon până la autobuz.",
+              "Duminica circulă mai puține autobuze, verificați cu atenție."
+            ],
+            "en": [
+              "Bus connections from Varaždin are the best.",
+              "Download the timetable app in advance.",
+              "The terrain is hilly, plan buffer times to the bus.",
+              "Fewer buses run on Sundays, check this carefully."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag mit dem Bus beginnt an der Haltestelle in der Nähe des Schlosses. Ein Schirm ist für den kurzen Fußweg nötig.\n\nMittags verbringen wir die Zeit im Inneren des Schlosses. Das Museum bietet ausreichend Platz, um trocken die Geschichte zu erleben.\n\nNachmittags erkunden wir die Jagdhalle und den Schlosspark. Die Bäume fangen einen Großteil des Regens ab.\n\nWir beenden den Tag pünktlich zur Busabfahrt. Das Warten erfolgt im überdachten Bereich der Haltestelle, während der Regen leise trommelt.",
+            "hu": "Az esős nap busszal a kastély közeli megállónál indul. Az esernyő szükséges a rövid gyalogúthoz.\n\nDélben a kastély belsejében töltjük az időt. A múzeumban bőven van hely a történelem szárazon való megéléséhez.\n\nDélután a Vadásztermet és a kastélyparkot fedezzük fel. A fák felfogják az eső nagy részét.\n\nA napot a busz indulásához igazítva fejezzük be. A várakozás a megálló fedett részén történik, miközben az eső halkan kopog.",
+            "ro": "O zi ploioasă cu autobuzul începe la stația din apropierea castelului. O umbrelă este necesară pentru drumul scurt pe jos.\n\nLa prânz petrecem timpul în interiorul castelului. Muzeul oferă spațiu suficient pentru a experimenta istoria la uscat.\n\nDupă-amiaza explorăm Sala de Vânătoare și parcul castelului. Copacii opresc o mare parte din ploaie.\n\nÎncheiem ziua la timp pentru plecarea autobuzului. Așteptarea are loc în zona acoperită a stației, în timp ce ploaia bate ușor.",
+            "en": "A rainy day by bus starts at the stop near the castle. An umbrella is necessary for the short walk.\n\nAt noon, we spend time inside the castle. The museum offers plenty of space to experience history in the dry.\n\nIn the afternoon, we explore the Hunting Hall and the castle park. The trees catch most of the rain.\n\nWe end the day in time for the bus departure. Waiting takes place in the covered area of the stop while the rain drums softly."
+          },
+          "stops": [
+            {
+              "name": "Trakošćan Bus Stop",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist klein, bietet aber ein Dach.",
+                "hu": "A megálló kicsi, de van teteje.",
+                "ro": "Stația este mică, dar are acoperiș.",
+                "en": "The stop is small but has a roof."
+              }
+            },
+            {
+              "name": "Castle Museum",
+              "tip_5lang": {
+                "de": "Verlängern Sie den Aufenthalt bei starkem Regen.",
+                "hu": "Hosszabbítsa meg a tartózkodást heves esőzéskor.",
+                "ro": "Prelungiți șederea în caz de ploaie puternică.",
+                "en": "Extend your stay during heavy rain."
+              }
+            },
+            {
+              "name": "Hunting Hall",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Innenraum für die Mittagsstunden.",
+                "hu": "Hangulatos belső tér a déli órákra.",
+                "ro": "Un spațiu interior primitor pentru orele amiezii.",
+                "en": "A cozy interior space for the noon hours."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Laub auf den Wegen.",
+                "hu": "Vigyázat a csúszós levelekkel az utakon.",
+                "ro": "Atenție la frunzele alunecoase de pe alei.",
+                "en": "Beware of slippery leaves on the paths."
+              }
+            },
+            {
+              "name": "Trakošćan Lake Bridge",
+              "tip_5lang": {
+                "de": "Halten Sie sich an den nassen Geländern fest.",
+                "hu": "Kapaszkodjon meg a vizes korlátokban.",
+                "ro": "Țineți-vă de balustradele ude.",
+                "en": "Hold onto the wet railings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan für Regentage vorab.",
+              "Halten Sie Kleingeld oder die App für das Ticket bereit.",
+              "Ein Paar Ersatzsocken im Rucksack ist empfehlenswert.",
+              "Die Busse sind in der Regel gut beheizt und trocken.",
+              "Nutzen Sie die Wartezeit im Schlosscafé bei Verspätung."
+            ],
+            "hu": [
+              "Előre ellenőrizze a buszmenetrendet esős napokra.",
+              "Készítsen aprópénzt vagy applikációt a jegyhez.",
+              "Egy pár pótzokni a hátizsákban ajánlott.",
+              "A buszok általában jól fűtöttek és szárazak.",
+              "Késés esetén használja a kastély kávézóját várakozásra."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor pentru zile ploioase.",
+              "Aveți pregătit mărunțiș sau aplicația pentru bilet.",
+              "O pereche de șosete de schimb în rucsac este recomandată.",
+              "Autobuzele sunt de regulă bine încălzite și uscate.",
+              "Folosiți cafeneaua castelului pentru așteptare în caz de întârziere."
+            ],
+            "en": [
+              "Check the bus schedule for rainy days in advance.",
+              "Have change or the app ready for the ticket.",
+              "A pair of spare socks in your backpack is recommended.",
+              "The buses are usually well-heated and dry.",
+              "Use the castle cafe for waiting in case of delays."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt mit der Busankunft. Der Weg zum Schloss ist kurz, aber die kalte Luft ist sofort spürbar.\n\nMittags wärmen wir uns im prächtigen Museum auf. Die historischen Räume bieten einen wunderbaren Rückzugsort vor dem Winterwind.\n\nNachmittags erkunden wir kurz den Schlosspark, bevor die Sonne tiefer sinkt und die Schatten länger werden.\n\nDa der Bus am frühen Abend abfährt, planen wir den Rückweg zur Haltestelle vor Einbruch der Dunkelheit gegen 16:30 Uhr ein.",
+            "hu": "A fagyos reggel a busz érkezésével indul. Az út a kastélyig rövid, de a hideg levegő azonnal érezhető.\n\nDélben a pompás múzeumban melegszünk fel. A történelmi termek csodálatos menedéket nyújtanak a téli szél elől.\n\nDélután rövid sétát teszünk a parkban, mielőtt a nap lejjebb süllyed és az árnyékok megnyúlnak.\n\nMivel a busz kora este indul, a megállóhoz való visszautat a 16:30-as sötétedés elé tervezzük.",
+            "ro": "O dimineață geroasă începe cu sosirea autobuzului. Drumul spre castel este scurt, dar aerul rece se simte imediat.\n\nLa prânz ne încălzim în muzeul somptuos. Sălile istorice oferă un refugiu minunat împotriva vântului de iarnă.\n\nDupă-amiaza explorăm scurt parcul castelului, înainte ca soarele să coboare și umbrele să se lungească.\n\nDeoarece autobuzul pleacă devreme, planificăm drumul înapoi spre stație înainte de lăsarea întunericului, în jur de 16:30.",
+            "en": "A frosty morning starts with the arrival of the bus. The walk to the castle is short, but the cold air is immediately felt.\n\nAt noon, we warm up in the magnificent museum. The historic rooms provide a wonderful retreat from the winter wind.\n\nIn the afternoon, we briefly explore the castle park before the sun sinks lower and shadows grow longer.\n\nSince the bus departs in the early evening, we plan our return to the stop before dark sets in at 16:30."
+          },
+          "stops": [
+            {
+              "name": "Trakošćan Bus Stop",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe beim Warten.",
+                "hu": "Viseljen meleg kesztyűt a várakozáskor.",
+                "ro": "Purtați mănuși groase în timp ce așteptați.",
+                "en": "Wear warm gloves while waiting."
+              }
+            },
+            {
+              "name": "Castle Museum",
+              "tip_5lang": {
+                "de": "Ein angenehm beheizter Ort für kalte Tage.",
+                "hu": "Kellemesen fűtött hely a hideg napokra.",
+                "ro": "Un loc încălzit plăcut pentru zilele reci.",
+                "en": "A pleasantly heated place for cold days."
+              }
+            },
+            {
+              "name": "Hunting Hall",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille in den warmen Innenräumen.",
+                "hu": "Élvezze a csendet a meleg belső terekben.",
+                "ro": "Bucurați-vă de liniște în spațiile interioare calde.",
+                "en": "Enjoy the silence in the warm interior spaces."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Boden auf dem Weg.",
+                "hu": "Vigyázat a fagyott talajjal az úton.",
+                "ro": "Atenție la solul înghețat de pe potecă.",
+                "en": "Beware of frozen ground on the path."
+              }
+            },
+            {
+              "name": "Trakošćan Lake Bridge",
+              "tip_5lang": {
+                "de": "Die Brücke kann bei Reif sehr glatt sein.",
+                "hu": "A híd dér esetén nagyon csúszós lehet.",
+                "ro": "Podul poate fi foarte alunecos în caz de brumă.",
+                "en": "The bridge can be very slippery in case of frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können im Winter leichte Verspätungen haben.",
+              "Die Haltestelle bietet Schutz vor Wind, aber nicht vor Kälte.",
+              "Bewegen Sie sich beim Warten, um warm zu bleiben.",
+              "Das Ticket kann oft bar beim Fahrer gekauft werden.",
+              "Der letzte Bus fährt oft kurz nach Sonnenuntergang."
+            ],
+            "hu": [
+              "A buszok télen szenvedhetnek némi késést.",
+              "A megálló véd a széltől, de a hidegtől nem.",
+              "Várakozás közben mozogjon, hogy melegen tartsa magát.",
+              "A jegyet gyakran készpénzzel lehet venni a sofőrnél.",
+              "Az utolsó busz gyakran nem sokkal naplemente után indul."
+            ],
+            "ro": [
+              "Autobuzele pot avea mici întârzieri iarna.",
+              "Stația oferă protecție contra vântului, dar nu și contra frigului.",
+              "Mișcați-vă în timp ce așteptați pentru a vă menține căldura.",
+              "Biletul poate fi cumpărat adesea cu numerar de la șofer.",
+              "Ultimul autobuz pleacă adesea la scurt timp după apus."
+            ],
+            "en": [
+              "Buses may experience slight delays in winter.",
+              "The stop protects against wind but not against the cold.",
+              "Move around while waiting to stay warm.",
+              "Tickets can often be bought with cash from the driver.",
+              "The last bus often departs shortly after sunset."
+            ]
+          }
+        }
       }
     }
   },

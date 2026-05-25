@@ -308,6 +308,447 @@
           "Drink water from the historical fountains; it is safe and potable.",
           "Avoid the tourist menus directly next to the Arena."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag auf der Piazza Bra, dem pulsierenden Herzen Veronas, direkt vor der majestätischen Arena. Nach der Besichtigung des römischen Amphitheaters schlendern Sie durch die mittelalterlichen Gassen.\n\nMittags tauchen Sie in das Marktgetümmel der Piazza delle Erbe ein und genießen den Blick vom Lamberti-Turm über die roten Dächer der Stadt. Ein kurzer Stopp bei Julias Haus darf natürlich nicht fehlen.\n\nAm Nachmittag erkunden Sie die prächtigen Grabmäler der Scaliger, bevor Sie am Flussufer entlang zum Castelvecchio spazieren.\n\nLassen Sie den Tag auf der zinnenbewehrten Scaliger-Brücke ausklingen, während die Sonne langsam hinter den sanften Hügeln Veronas versinkt.",
+            "hu": "Kezdje a napot a Piazza Bra téren, Verona lüktető szívében, közvetlenül a fenséges Aréna előtt. A római amfiteátrum megtekintése után sétáljon végig a középkori utcákon.\n\nDélben merüljön el a Piazza delle Erbe piaci forgatagában, és élvezze a kilátást a Lamberti-toronyból a város vörös tetőire. Júlia háza természetesen nem maradhat ki a programból.\n\nDélután fedezze fel a Scaliger-síremlékek pompáját, majd sétáljon a folyóparton a Castelvecchio felé.\n\nZárja a napot a csipkézett Scaliger-hídon, miközben a nap lassan lebukik Verona szelíd dombjai mögött.",
+            "ro": "Începeți ziua în Piazza Bra, inima vibrantă a Veronei, chiar în fața maiestuoasei Arene. După vizitarea amfiteatrului roman, plimbați-vă pe străzile medievale.\n\nLa prânz, scufundați-vă în agitația pieței din Piazza delle Erbe și bucurați-vă de vederea de pe Turnul Lamberti peste acoperișurile roșii ale orașului. O scurtă oprire la Casa Julietei este obligatorie.\n\nDupă-amiaza, explorați mormintele magnifice ale familiei Scaliger, apoi plimbați-vă de-a lungul râului spre Castelvecchio.\n\nÎncheiați ziua pe podul fortificat Scaliger, în timp ce soarele apune încet în spatele dealurilor blânde ale Veronei.",
+            "en": "Start your day in Piazza Bra, the pulsing heart of Verona, right in front of the majestic Arena. After touring the Roman amphitheatre, stroll through the medieval alleys.\n\nAt midday, immerse yourself in the market bustle of Piazza delle Erbe and enjoy the view from the Lamberti Tower over the city's red roofs. A stop at Juliet's House is a must.\n\nIn the afternoon, explore the magnificent Scaliger Tombs before walking along the riverbank towards Castelvecchio.\n\nEnd your day on the crenellated Scaliger Bridge as the sun slowly sets behind the gentle hills of Verona."
+          },
+          "stops": [
+            {
+              "name": "Piazza Bra",
+              "tip_5lang": {
+                "de": "Trinken Sie einen Espresso in einer der Bars am Liston.",
+                "hu": "Igyon egy eszpresszót a Liston menti kávézók egyikében.",
+                "ro": "Savurați un espresso la una dintre cafenelele de pe Liston.",
+                "en": "Enjoy an espresso at one of the cafes along the Liston."
+              }
+            },
+            {
+              "name": "Arena di Verona",
+              "tip_5lang": {
+                "de": "Buchen Sie Tickets im Voraus, um lange Schlangen zu vermeiden.",
+                "hu": "Foglaljon jegyet előre a hosszú sorok elkerülése érdekében.",
+                "ro": "Rezervați bilete în avans pentru a evita cozile lungi.",
+                "en": "Book tickets in advance to avoid long queues."
+              }
+            },
+            {
+              "name": "Piazza delle Erbe",
+              "tip_5lang": {
+                "de": "Probieren Sie frisches Obst vom Marktstand.",
+                "hu": "Kóstoljon friss gyümölcsöt a piaci standoknál.",
+                "ro": "Gustați fructe proaspete de la tarabele din piață.",
+                "en": "Try some fresh fruit from the market stalls."
+              }
+            },
+            {
+              "name": "Torre dei Lamberti",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufzug, wenn Sie nicht 368 Stufen steigen wollen.",
+                "hu": "Használja a liftet, ha nem akar 368 lépcsőt megmászni.",
+                "ro": "Folosiți liftul dacă nu doriți să urcați 368 de trepte.",
+                "en": "Use the lift if you don't want to climb 368 steps."
+              }
+            },
+            {
+              "name": "Casa di Giulietta",
+              "tip_5lang": {
+                "de": "Der Innenhof ist oft sehr überfüllt, gehen Sie früh hin.",
+                "hu": "A belső udvar gyakran zsúfolt, érdemes korán érkezni.",
+                "ro": "Curtea interioară este adesea aglomerată, mergeți devreme.",
+                "en": "The courtyard is often crowded; try to visit early."
+              }
+            },
+            {
+              "name": "Arche Scaligere",
+              "tip_5lang": {
+                "de": "Bewundern Sie die filigranen gotischen Schmiedearbeiten.",
+                "hu": "Csodálja meg a finom gótikus kovácsoltvas munkákat.",
+                "ro": "Admirați detaliile fine ale fierului forjat gotic.",
+                "en": "Admire the intricate Gothic wrought-iron work."
+              }
+            },
+            {
+              "name": "Castelvecchio & Ponte Scaligero",
+              "tip_5lang": {
+                "de": "Spazieren Sie über die Brücke für tolle Fotos von der Etsch.",
+                "hu": "Sétáljon át a hídon az Adige folyóról készült remek fotókért.",
+                "ro": "Traversați podul pentru fotografii superbe cu râul Adige.",
+                "en": "Walk across the bridge for great photos of the Adige river."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pastissada de Caval",
+                "tip": "Traditionelles Pferdefleischschmorgericht bei Osteria del Bugiardo."
+              },
+              {
+                "name": "Risotto all'Amarone",
+                "tip": "Cremiger Reis mit dem berühmten Rotwein der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pastissada de Caval",
+                "tip": "Hagyományos lópörkölt az Osteria del Bugiardo kínálatában."
+              },
+              {
+                "name": "Risotto all'Amarone",
+                "tip": "Krémes rizottó a régió híres vörösborával készítve."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pastissada de Caval",
+                "tip": "Tocăniță tradițională de cal la Osteria del Bugiardo."
+              },
+              {
+                "name": "Risotto all'Amarone",
+                "tip": "Orez cremos preparat cu faimosul vin roșu local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pastissada de Caval",
+                "tip": "Traditional horse meat stew at Osteria del Bugiardo."
+              },
+              {
+                "name": "Risotto all'Amarone",
+                "tip": "Creamy rice prepared with the region's famous red wine."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Castel San Pietro",
+                "tip": "Bester Panoramablick bei Sonnenuntergang.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Giardino Giusti",
+                "tip": "Ruhiger Renaissancegarten abseits der Massen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Castel San Pietro",
+                "tip": "A legjobb panoráma naplementekor.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Giardino Giusti",
+                "tip": "Csendes reneszánsz kert a tömegtől távol.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Castel San Pietro",
+                "tip": "Cea mai bună vedere panoramică la apus.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Giardino Giusti",
+                "tip": "Grădină renascentistă liniștită, departe de mulțime.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Castel San Pietro",
+                "tip": "Best panoramic view at sunset.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Giardino Giusti",
+                "tip": "Quiet Renaissance garden away from the crowds.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Via Mazzini",
+                "tip": "Luxuriöse Modeboutiquen und große Marken."
+              },
+              {
+                "name": "Corso Porta Borsari",
+                "tip": "Elegante Geschäfte in historischem Ambiente."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Via Mazzini",
+                "tip": "Luxus divatboltok és nagy világmárkák."
+              },
+              {
+                "name": "Corso Porta Borsari",
+                "tip": "Elegáns üzletek történelmi környezetben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Via Mazzini",
+                "tip": "Boutique-uri de modă de lux și mărci mari."
+              },
+              {
+                "name": "Corso Porta Borsari",
+                "tip": "Magazine elegante într-un cadru istoric."
+              }
+            ],
+            "en": [
+              {
+                "name": "Via Mazzini",
+                "tip": "Luxury fashion boutiques and major brands."
+              },
+              {
+                "name": "Corso Porta Borsari",
+                "tip": "Elegant shops in a historical setting."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Verona ist sehr fußgängerfreundlich, bequeme Schuhe sind Pflicht.",
+              "Die Verona Card lohnt sich, wenn Sie mehr als drei Museen besuchen.",
+              "Trinken Sie Wasser an den historischen Brunnen, es ist trinkbar.",
+              "Vermeiden Sie die Touristenmenüs direkt an der Arena."
+            ],
+            "hu": [
+              "Verona nagyon gyalogosbarát, a kényelmes cipő kötelező.",
+              "A Verona Card megéri, ha háromnál több múzeumot látogat meg.",
+              "Igyon vizet a történelmi kutakból, a víz iható.",
+              "Kerülje a közvetlenül az Aréna melletti turista menüket."
+            ],
+            "ro": [
+              "Verona este foarte prietenoasă cu pietonii, pantofii comozi sunt obligatorii.",
+              "Verona Card merită dacă vizitați mai mult de trei muzee.",
+              "Beți apă de la fântânile istorice, este potabilă.",
+              "Evitați meniurile turistice direct lângă Arenă."
+            ],
+            "en": [
+              "Verona is very pedestrian-friendly; comfortable shoes are a must.",
+              "The Verona Card is worth it if you visit more than three museums.",
+              "Drink water from the historical fountains; it is safe and potable.",
+              "Avoid the tourist menus directly next to the Arena."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie unter den Arkaden der Piazza Bra, während der Regen auf das Kopfsteinpflaster trommelt. Die Arena wirkt im grauen Licht besonders mystisch.\n\nMittags bieten die Marktschirme der Piazza delle Erbe einen provisorischen Schutz. Der Aufstieg auf den Lamberti-Turm erfolgt trocken per Aufzug.\n\nNachmittags führt der Weg durch nasse Gassen zum Haus von Julia. Die Anlage von Castelvecchio bietet danach ideale Innenräume für Kunst und Geschichte.\n\nAbends reflektieren die Pfützen die Lichter der Stadt. Genießen Sie ein Glas Wein in einer der gemütlichen Osterien im historischen Zentrum.",
+            "hu": "Kezdje a napot a Piazza Bra árkádjai alatt, miközben az eső kopog a macskakövön. Az Arena látványa a szürke fényekben különösen drámai.\n\nDélben a Piazza delle Erbe piaci napernyői nyújtanak némi menedéket. A Lamberti-toronyba lifttel juthat fel, védve az elemektől.\n\nDélután a vizes utcákon át vezet az út Júlia házához. A Castelvecchio múzeuma tökéletes beltéri program, hogy elmerüljön a művészetben.\n\nEste a tócsákban tükröződnek a város fényei. Keressen egy hangulatos osteriát a belvárosban, és élvezze a helyi borokat szárazon.",
+            "ro": "Începeți ziua sub arcadele din Piazza Bra, în timp ce ploaia bate pe caldarâm. Arena arată deosebit de mistică în lumina gri.\n\nLa prânz, umbrelele pieței din Piazza delle Erbe oferă un adăpost temporar. Urcarea în Turnul Lamberti se face la adăpost, cu liftul.\n\nDupă-amiaza, drumul duce prin străzile ude către Casa Julietei. Muzeul Castelvecchio oferă apoi spații interioare ideale pentru artă și istorie.\n\nSeara, bălțile reflectă luminile orașului. Savurați un pahar de vin într-o osteria primitoare din centrul istoric.",
+            "en": "Start your day under the porticos of Piazza Bra as rain drums on the cobblestones. The Arena looks particularly mystical in the grey light.\n\nAt noon, the market umbrellas of Piazza delle Erbe provide some temporary shelter. The ascent to the Lamberti Tower is dry via the elevator.\n\nIn the afternoon, the wet streets lead to Juliet's House. The Castelvecchio museum then offers ideal indoor spaces for art and history.\n\nIn the evening, puddles reflect the city lights. Enjoy a glass of wine in a cozy osteria in the historic center."
+          },
+          "stops": [
+            {
+              "name": "Piazza Bra",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als trockenen Treffpunkt.",
+                "hu": "Használja a környező épületek árkádjait száraz találkozóhelyként.",
+                "ro": "Folosiți arcadele clădirilor din jur ca punct de întâlnire uscat.",
+                "en": "Use the arcades of the surrounding buildings as a dry meeting point."
+              }
+            },
+            {
+              "name": "Arena di Verona",
+              "tip_5lang": {
+                "de": "Vorsicht auf den antiken Steinstufen, diese können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat az antik kőlépcsőkön, ezek nedvesen nagyon csúszósak lehetnek.",
+                "ro": "Atenție pe treptele antice de piatră, acestea pot fi foarte alunecoase când sunt ude.",
+                "en": "Be careful on the ancient stone steps; they can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Piazza delle Erbe",
+              "tip_5lang": {
+                "de": "Die Cafés unter den Markisen bieten den besten Blick auf das regnerische Treiben.",
+                "hu": "A napellenzők alatti kávézók kínálják a legjobb kilátást az esős forgatagra.",
+                "ro": "Cafenelele de sub copertine oferă cea mai bună vedere asupra agitației ploioase.",
+                "en": "The cafes under the awnings offer the best view of the rainy bustle."
+              }
+            },
+            {
+              "name": "Torre dei Lamberti",
+              "tip_5lang": {
+                "de": "Der Aufzug bringt Sie trocken zur Aussichtsplattform mit Panorama über die Stadt.",
+                "hu": "A lift szárazon viszi fel a kilátóba, ahonnan panoráma nyílik a vizes városra.",
+                "ro": "Liftul vă duce la adăpost spre platforma de observare cu panoramă asupra orașului.",
+                "en": "The lift takes you dry to the observation deck with a panorama over the city."
+              }
+            },
+            {
+              "name": "Casa di Giulietta",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich ist überdacht, aber der Innenhof kann matschig sein.",
+                "hu": "A bejárat fedett, de a belső udvar sáros és vizes lehet.",
+                "ro": "Zona de intrare este acoperită, dar curtea interioară poate fi noroioasă.",
+                "en": "The entrance area is covered, but the courtyard can be muddy and wet."
+              }
+            },
+            {
+              "name": "Arche Scaligere",
+              "tip_5lang": {
+                "de": "Nur eine kurze Besichtigung von außen, da es kaum Unterstellmöglichkeiten gibt.",
+                "hu": "Csak rövid külső megtekintés javasolt, mivel kevés a fedett hely.",
+                "ro": "Doar o vizită scurtă la exterior, deoarece există puține locuri de adăpost.",
+                "en": "Only a short outdoor viewing as there are few places to take cover."
+              }
+            },
+            {
+              "name": "Castelvecchio & Ponte Scaligero",
+              "tip_5lang": {
+                "de": "Das Museum ist der perfekte Ort, um dem Regen für längere Zeit zu entfliehen.",
+                "hu": "A múzeum tökéletes hely, hogy hosszabb időre elmeneküljön az eső elől.",
+                "ro": "Muzeul este locul perfect pentru a scăpa de ploaie pentru o perioadă mai lungă.",
+                "en": "The museum is the perfect place to escape the rain for an extended period."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster Pfützen bildet.",
+              "Die Portici (Arkaden) rund um die Piazza Bra sind Ihr bester Freund bei Schauern.",
+              "Nutzen Sie die Zeit für ausgedehnte Museumsbesuche wie in Castelvecchio.",
+              "Ein Regenschirm ist bei den engen Gassen praktischer als ein Regenponcho.",
+              "Verona bietet viele überdachte Passagen für Shopping-Pausen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskaköveken könnyen megáll a víz.",
+              "A Piazza Bra körüli árkádok a legjobb barátai lesznek zápor idején.",
+              "Használja ki az időt hosszabb múzeumlátogatásokra, például Castelvecchióban.",
+              "A szűk utcákban az esernyő praktikusabb, mint az esőponcsó.",
+              "Verona számos fedett passzázst kínál a vásárláshoz és pihenéshez."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece caldarâmul formează bălți.",
+              "Arcadele (portici) din jurul Piazza Bra sunt cel mai bun prieten în caz de ploaie.",
+              "Folosiți timpul pentru vizite prelungite la muzee, cum ar fi Castelvecchio.",
+              "O umbrelă este mai practică decât o pelerină în străzile înguste.",
+              "Verona oferă multe pasaje acoperite pentru pauze de cumpărături."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones tend to form puddles.",
+              "The porticos around Piazza Bra are your best friend during showers.",
+              "Take advantage of the time for extended museum visits like Castelvecchio.",
+              "An umbrella is more practical than a rain poncho in the narrow streets.",
+              "Verona offers many covered passages for shopping breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Piazza Bra begrüßt Sie mit frostiger Morgenluft und dem großen Weihnachtsstern. Die Arena wirkt majestätisch in der kühlen Wintersonne.\n\nMittags wärmen geröstete Kastanien auf der Piazza delle Erbe. Der Blick vom Lamberti-Turm zeigt die schneebedeckten Gipfel in der Ferne.\n\nNachmittags ist der Besuch bei Julia weniger überlaufen. In Castelvecchio bieten die beheizten Ausstellungsräume eine willkommene Pause vom Wind.\n\nAbends taucht die frühe Dämmerung die Stadt in warmes Licht. Genießen Sie eine heiße Schokolade oder einen schweren Amarone-Wein.",
+            "hu": "A Piazza Bra fagyos reggeli levegővel és a hatalmas karácsonyi csillaggal várja. Az Arena fenségesen fest a hűvös téli napsütésben.\n\nDélben sült gesztenye illata lengi be a Piazza delle Erbe teret. A Lamberti-toronyból látszanak a távoli havas hegycsúcsok.\n\nDélután Júlia háza kevésbé zsúfolt, mint nyáron. A Castelvecchio fűtött kiállítóterei kellemes pihenőt nyújtanak a szél elől.\n\nEste a korai szürkület meleg fényekbe öltözteti a várost. Kóstoljon meg egy forró csokoládét vagy egy testes Amarone bort.",
+            "ro": "Piazza Bra vă întâmpină cu aerul înghețat al dimineții și marea stea de Crăciun. Arena arată maiestuoasă în soarele rece de iarnă.\n\nLa prânz, castanele prăjite din Piazza delle Erbe vă încălzesc. Vederea din Turnul Lamberti arată vârfurile înzăpezite în depărtare.\n\nDupă-amiaza, vizita la Julieta este mai puțin aglomerată. În Castelvecchio, sălile de expoziție încălzite oferă o pauză binevenită de vânt.\n\nSeara, amurgul timpuriu scaldă orașul în lumină caldă. Savurați o ciocolată caldă sau un vin Amarone robust.",
+            "en": "Piazza Bra greets you with frosty morning air and the large Christmas star. The Arena looks majestic in the cool winter sun.\n\nAt noon, roasted chestnuts in Piazza delle Erbe warm you up. The view from the Lamberti Tower shows the snow-capped peaks in the distance.\n\nIn the afternoon, Juliet's House is less crowded. In Castelvecchio, the heated exhibition rooms offer a welcome break from the wind.\n\nIn the evening, the early twilight bathes the city in warm light. Enjoy a hot chocolate or a heavy Amarone wine."
+          },
+          "stops": [
+            {
+              "name": "Piazza Bra",
+              "tip_5lang": {
+                "de": "Bewundern Sie die 'Stella di Natale' (Weihnachtsstern), die aus der Arena ragt.",
+                "hu": "Csodálja meg az Arenából kinyúló 'Stella di Natale' (karácsonyi csillag) szobrot.",
+                "ro": "Admirați „Stella di Natale” (steaua de Crăciun) care iese din Arenă.",
+                "en": "Admire the 'Stella di Natale' (Christmas star) emerging from the Arena."
+              }
+            },
+            {
+              "name": "Arena di Verona",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Kleidung, da die dicken Steinmauern die Kälte speichern.",
+                "hu": "Öltözzön rétegesen, mert a vastag kőfalak nagyon tartják a hideget.",
+                "ro": "Purtați haine groase, deoarece zidurile groase de piatră rețin frigul.",
+                "en": "Wear warm clothes as the thick stone walls retain the cold."
+              }
+            },
+            {
+              "name": "Piazza delle Erbe",
+              "tip_5lang": {
+                "de": "Holen Sie sich eine Tüte heiße Maroni bei den Straßenverkäufern.",
+                "hu": "Vegyen egy zacskó forró sült gesztenyét az utcai árusoktól.",
+                "ro": "Luați o pungă de castane coapte calde de la vânzătorii ambulanți.",
+                "en": "Grab a bag of hot roasted chestnuts from the street vendors."
+              }
+            },
+            {
+              "name": "Torre dei Lamberti",
+              "tip_5lang": {
+                "de": "Die geschlossene Aussichtskabine schützt oben vor dem beißenden Wind.",
+                "hu": "A zárt kilátófülke megvéd fent a metsző téli széltől.",
+                "ro": "Cabina de observare închisă protejează împotriva vântului tăios de sus.",
+                "en": "The enclosed observation cabin protects you from the biting wind at the top."
+              }
+            },
+            {
+              "name": "Casa di Giulietta",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum im Inneren, um sich aufzuwärmen.",
+                "hu": "Látogasson el a belső múzeumba, hogy egy kicsit felmelegedjen.",
+                "ro": "Vizitați muzeul din interior pentru a vă încălzi.",
+                "en": "Visit the museum inside to warm up."
+              }
+            },
+            {
+              "name": "Arche Scaligere",
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelles Glatteis auf dem Metallzaun und den Steinen.",
+                "hu": "Ügyeljen az esetleges jegesedésre a kerítésen és a köveken.",
+                "ro": "Atenție la eventuala gheață de pe gardul metalic și pietre.",
+                "en": "Watch out for potential ice on the metal fence and stones."
+              }
+            },
+            {
+              "name": "Castelvecchio & Ponte Scaligero",
+              "tip_5lang": {
+                "de": "Der Wind auf der Brücke kann sehr kalt sein; Mütze und Schal sind ratsam.",
+                "hu": "A hídon nagyon hideg lehet a szél; sapka és sál viselése ajánlott.",
+                "ro": "Vântul de pe pod poate fi foarte rece; căciula și fularul sunt recomandate.",
+                "en": "The wind on the bridge can be very cold; a hat and scarf are advisable."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist im Winter bereits gegen 16:45 Uhr.",
+              "Verona ist berühmt für seinen Pandoro-Kuchen – probieren Sie ihn frisch.",
+              "Die Innenräume der Kirchen bieten oft einen guten Schutz vor Kälte.",
+              "Heißer Glühwein wird auf den Weihnachtsmärkten ab Ende November serviert.",
+              "Glatteisschutz für die Schuhe kann auf dem glatten Marmor hilfreich sein."
+            ],
+            "hu": [
+              "A naplemente télen már 16:45 körül bekövetkezik.",
+              "Verona híres a Pandoro kalácsról – kóstolja meg frissen egy pékségben.",
+              "A templomok belső terei gyakran jó menedéket nyújtanak a hideg elől.",
+              "Forralt bort november végétől szolgálnak fel a karácsonyi vásárokon.",
+              "A csúszásgátló talp hasznos lehet a simára kopott, jeges márványon."
+            ],
+            "ro": [
+              "Apusul soarelui este iarna deja în jurul orei 16:45.",
+              "Verona este faimoasă pentru cozonacul Pandoro – încercați-l proaspăt.",
+              "Interioarele bisericilor oferă adesea un adăpost bun împotriva frigului.",
+              "Vinul fiert este servit la târgurile de Crăciun începând cu sfârșitul lunii noiembrie.",
+              "Protecția antiderapantă pentru încălțăminte poate fi utilă pe marmura netedă."
+            ],
+            "en": [
+              "Sunset in winter is already around 4:45 PM.",
+              "Verona is famous for its Pandoro cake – try it fresh from a bakery.",
+              "The interiors of churches often offer good shelter from the cold.",
+              "Hot mulled wine is served at Christmas markets starting late November.",
+              "Traction aids for shoes can be helpful on the smooth, icy marble."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -592,6 +1033,420 @@
           "A lock is essential whenever you leave your bike unattended.",
           "Watch out for the cobblestones in some of the narrow alleys."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Fahrrad erkunden Sie Verona dynamisch. Nach dem Start an der Piazza Bra fahren Sie zum mächtigen Castelvecchio.\n\nDie Route führt Sie am glitzernden Fluss Etsch entlang zur prächtigen Basilika San Zeno, einem Juwel der Romanik, das zu Fuß schwerer erreichbar ist.\n\nMittags radeln Sie zurück ins Zentrum zur Piazza delle Erbe für einen schnellen Snack und etwas Marktatmosphäre.\n\nDer Nachmittag gehört dem Giardino Giusti auf der anderen Flussseite, bevor Sie entspannt am Ufer zurückkehren.",
+            "hu": "Kerékpárral dinamikusan fedezheti fel Veronát. A Piazza Bra-tól indulva tekerjen a hatalmas Castelvecchio felé.\n\nAz útvonal a csillogó Adige folyó mentén vezet a pompás San Zeno bazilikához, amely a román stílus gyöngyszeme, és gyalog nehezebben elérhető.\n\nDélben tekerjen vissza a központba, a Piazza delle Erbe térre egy gyors harapnivalóra és egy kis piaci hangulatra.\n\nA délután a folyó túloldalán található Giardino Giusti kerté, mielőtt nyugodtan visszakerekezne a part mentén.",
+            "ro": "Cu bicicleta veți explora Verona în mod dinamic. După plecarea din Piazza Bra, pedalați spre impunătorul Castelvecchio.\n\nTraseul vă poartă pe malul sclipitor al râului Adige până la superba Basilică San Zeno, o bijuterie a stilului romanic, mai greu accesibilă pe jos.\n\nLa prânz, pedalați înapoi spre centru, în Piazza delle Erbe, pentru o gustare rapidă și atmosfera pieței.\n\nDupă-amiaza este dedicată Grădinii Giusti de pe cealaltă parte a râului, înainte de a vă întoarce relaxat pe malul apei.",
+            "en": "Explore Verona dynamically by bike. Starting from Piazza Bra, pedal towards the mighty Castelvecchio.\n\nThe route takes you along the sparkling Adige river to the magnificent Basilica of San Zeno, a Romanesque gem that is harder to reach on foot.\n\nAt midday, bike back to the center to Piazza delle Erbe for a quick snack and some market atmosphere.\n\nThe afternoon is dedicated to the Giardino Giusti on the other side of the river before a relaxed ride back along the banks."
+          },
+          "stops": [
+            {
+              "name": "Piazza Bra",
+              "tip_5lang": {
+                "de": "Mieten Sie ein Fahrrad direkt in der Nähe des Piazza Bra.",
+                "hu": "Béreljen kerékpárt közvetlenül a Piazza Bra közelében.",
+                "ro": "Închiriați o bicicletă chiar lângă Piazza Bra.",
+                "en": "Rent a bike right near Piazza Bra."
+              }
+            },
+            {
+              "name": "Castelvecchio",
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Fahrrad über die Brücke.",
+                "hu": "Tolja át a kerékpárt a hídon.",
+                "ro": "Împingeți bicicleta peste pod.",
+                "en": "Walk your bike across the bridge."
+              }
+            },
+            {
+              "name": "Lungadige Cangrande",
+              "tip_5lang": {
+                "de": "Genießen Sie die Radfahrt entlang der Etsch.",
+                "hu": "Élvezze a biciklizést az Adige folyó mentén.",
+                "ro": "Bucurați-vă de plimbarea cu bicicleta pe malul râului Adige.",
+                "en": "Enjoy the ride along the Adige river banks."
+              }
+            },
+            {
+              "name": "Basilica di San Zeno",
+              "tip_5lang": {
+                "de": "Ein Meisterwerk der Romanik, etwas außerhalb des Zentrums.",
+                "hu": "A román stílus remekműve, kissé kívül a központon.",
+                "ro": "O capodoperă a stilului romanic, puțin în afara centrului.",
+                "en": "A masterpiece of Romanesque style, slightly outside the center."
+              }
+            },
+            {
+              "name": "Piazza delle Erbe",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad sicher, bevor Sie den Markt erkunden.",
+                "hu": "Zárja le biztonságosan a biciklit a piac felfedezése előtt.",
+                "ro": "Parcați bicicleta în siguranță înainte de a explora piața.",
+                "en": "Park your bike securely before exploring the market."
+              }
+            },
+            {
+              "name": "Giardino Giusti",
+              "tip_5lang": {
+                "de": "Der Aufstieg im Garten belohnt mit einem tollen Blick.",
+                "hu": "A kert felső részéből nyíló kilátás kárpótol a mászásért.",
+                "ro": "Urcarea în grădină vă răsplătește cu o vedere superbă.",
+                "en": "The climb within the garden rewards you with a great view."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Baci di Giulietta",
+                "tip": "Süße Gebäckstücke, ideal als Energieschub beim Radeln."
+              },
+              {
+                "name": "Pandoro di Verona",
+                "tip": "Der berühmte Hefekuchen, der hier seinen Ursprung hat."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Baci di Giulietta",
+                "tip": "Édes sütemények, ideális energiapótlás bringázás közben."
+              },
+              {
+                "name": "Pandoro di Verona",
+                "tip": "A híres ünnepi kalács, amely innen származik."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Baci di Giulietta",
+                "tip": "Produse de patiserie dulci, ideale pentru energie în timpul pedalatului."
+              },
+              {
+                "name": "Pandoro di Verona",
+                "tip": "Faimosul cozonac care își are originile aici."
+              }
+            ],
+            "en": [
+              {
+                "name": "Baci di Giulietta",
+                "tip": "Sweet pastries, perfect for an energy boost while cycling."
+              },
+              {
+                "name": "Pandoro di Verona",
+                "tip": "The famous yeast cake that originated here."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parco dell'Adige",
+                "tip": "Grüne Oase am Flussufer für eine Pause.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "San Giovanni in Valle",
+                "tip": "Stille romanische Kirche am Hügel.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parco dell'Adige",
+                "tip": "Zöld oázis a folyóparton egy kis pihenőhöz.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "San Giovanni in Valle",
+                "tip": "Csendes román stílusú templom a dombon.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parco dell'Adige",
+                "tip": "Oază verde pe malul râului pentru o pauză.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "San Giovanni in Valle",
+                "tip": "Biserică romanică liniștită pe deal.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parco dell'Adige",
+                "tip": "Green oasis on the riverbank for a break.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "San Giovanni in Valle",
+                "tip": "Quiet Romanesque church on the hill.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Verona Bike Rental",
+                "tip": "Gute Auswahl an City- und E-Bikes."
+              },
+              {
+                "name": "Eataly Verona",
+                "tip": "Großer Markt für italienische Delikatessen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Verona Bike Rental",
+                "tip": "Jó választék városi és elektromos kerékpárokból."
+              },
+              {
+                "name": "Eataly Verona",
+                "tip": "Hatalmas olasz gasztropiac és szaküzlet."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Verona Bike Rental",
+                "tip": "O selecție bună de biciclete de oraș și electrice."
+              },
+              {
+                "name": "Eataly Verona",
+                "tip": "Piață mare pentru delicatese italiene."
+              }
+            ],
+            "en": [
+              {
+                "name": "Verona Bike Rental",
+                "tip": "Good selection of city and e-bikes."
+              },
+              {
+                "name": "Eataly Verona",
+                "tip": "Huge market for Italian delicacies."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "In der Altstadt ist das Radfahren erlaubt, aber nehmen Sie Rücksicht auf Fußgänger.",
+              "Nutzen Sie die Radwege entlang der Etsch für längere Strecken.",
+              "Ein Schloss ist unbedingt erforderlich, wenn Sie das Rad abstellen.",
+              "Achten Sie auf das Kopfsteinpflaster in einigen Gassen."
+            ],
+            "hu": [
+              "Az óvárosban megengedett a kerékpározás, de figyeljen a gyalogosokra.",
+              "Használja az Adige menti kerékpárutakat a hosszabb szakaszokon.",
+              "A lakat elengedhetetlen, ha leállítja a biciklit.",
+              "Ügyeljen a macskaköves burkolatra néhány szűk utcában."
+            ],
+            "ro": [
+              "Ciclismul este permis în centrul vechi, dar aveți grijă la pietoni.",
+              "Folosiți pistele de biciclete de-a lungul râului Adige pentru distanțe mai mari.",
+              "Un antifurt este absolut necesar când lăsați bicicleta.",
+              "Atenție la pavajul cu piatră cubică de pe unele străduțe."
+            ],
+            "en": [
+              "Cycling is allowed in the old town, but be mindful of pedestrians.",
+              "Use the bike paths along the Adige for longer stretches.",
+              "A lock is essential whenever you leave your bike unattended.",
+              "Watch out for the cobblestones in some of the narrow alleys."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf dem Marmorpflaster der Piazza Bra. Castelvecchio bietet eine willkommene trockene Pause.\n\nMittags führt die Fahrt am nassen Etsch-Ufer entlang. Der Besuch der Basilika San Zeno bietet Schutz und spirituelle Ruhe.\n\nNachmittags geht es zurück ins Zentrum. Die Giusti-Gärten wirken im Regen besonders grün, auch wenn die Wege rutschig sind.\n\nAbends endet die Tour bei einem heißen Getränk. Achten Sie auf die Straßenbahnschienen, die bei Nässe tückisch sind.",
+            "hu": "Az esős kerékpározás óvatosságot igényel a Piazza Bra márványkövein. Castelvecchio szívesen látott száraz pihenőt kínál.\n\nDélben a vizes Adige-part mentén halad az út. A San Zeno-bazilika látogatása védelmet és lelki nyugalmat ad.\n\nDélután visszatérünk a központba. A Giusti-kertek esőben különösen zöldek, még ha az utak csúszósak is.\n\nEste a túra egy forró ital mellett ér véget. Ügyeljen a villamossínekre, amelyek nedvesen nagyon veszélyesek.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită prudență pe pavajul de marmură din Piazza Bra. Castelvecchio oferă o pauză uscată binevenită.\n\nLa prânz, drumul continuă de-a lungul malului ud al râului Adige. Vizitarea Bazilicii San Zeno oferă adăpost și liniște spirituală.\n\nDupă-amiaza ne întoarcem în centru. Grădinile Giusti par deosebit de verzi pe ploaie, chiar dacă potecile sunt alunecoase.\n\nSeara, turul se încheie cu o băutură caldă. Atenție la șinele de tramvai, care sunt înșelătoare când sunt ude.",
+            "en": "A bike tour in the rain requires caution on the marble pavement of Piazza Bra. Castelvecchio offers a welcome dry break.\n\nAt noon, the ride continues along the wet Adige bank. A visit to the Basilica di San Zeno provides shelter and spiritual peace.\n\nIn the afternoon, head back to the center. The Giusti Gardens look particularly green in the rain, even if the paths are slippery.\n\nIn the evening, the tour ends with a hot drink. Watch out for the tram tracks, which are treacherous when wet."
+          },
+          "stops": [
+            {
+              "name": "Piazza Bra",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen; das glatte Pflaster verlängert den Bremsweg.",
+                "hu": "Ellenőrizze a fékeket; a sima burkolat megnöveli a féktávot.",
+                "ro": "Verificați frânele; pavajul neted prelungește distanța de frânare.",
+                "en": "Check your brakes; the smooth pavement increases braking distance."
+              }
+            },
+            {
+              "name": "Castelvecchio",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Bögen ab, während Sie das Museum besuchen.",
+                "hu": "Parkolja le a bringát az ívek alatt, amíg a múzeumban tartózkodik.",
+                "ro": "Parcați bicicleta sub arcade în timp ce vizitați muzeul.",
+                "en": "Park your bike under the arches while you visit the museum."
+              }
+            },
+            {
+              "name": "Lungadige Cangrande",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen und schlammigen Stellen am Flussufer.",
+                "hu": "Vigyázzon a mély tócsákra és a saras részekre a folyóparton.",
+                "ro": "Atenție la bălțile adânci și zonele noroioase de pe malul râului.",
+                "en": "Watch out for deep puddles and muddy spots along the riverbank."
+              }
+            },
+            {
+              "name": "Basilica di San Zeno",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenkleidung kurz zu lüften und abzutrocknen.",
+                "hu": "Ideális hely, hogy kicsit kiszellőztesse és megszárítsa az esőruházatot.",
+                "ro": "Un loc ideal pentru a aerisi și usca puțin hainele de ploaie.",
+                "en": "An ideal place to briefly air out and dry your rain gear."
+              }
+            },
+            {
+              "name": "Piazza delle Erbe",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster ist hier besonders uneben und rutschig.",
+                "hu": "A macskakő itt különösen egyenetlen és csúszós.",
+                "ro": "Caldarâmul este aici deosebit de denivelat și alunecos.",
+                "en": "The cobblestones here are particularly uneven and slippery."
+              }
+            },
+            {
+              "name": "Giardino Giusti",
+              "tip_5lang": {
+                "de": "Die Kieswege können aufweichen; schieben Sie das Rad gegebenenfalls.",
+                "hu": "A kavicsos utak felázhatnak; szükség esetén tolja a kerékpárt.",
+                "ro": "Potecile cu pietriș se pot înmuia; împingeți bicicleta dacă este necesar.",
+                "en": "The gravel paths can soften; push your bike if necessary."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie die weißen Marmorstreifen auf der Straße, sie sind wie Eis.",
+              "Velo'v Leihräder haben oft nasse Sättel; nehmen Sie eine Plastiktüte mit.",
+              "Tragen Sie eine Brille gegen den Spritzregen im Gesicht.",
+              "Die Fahrradwege entlang der Etsch sind besser befestigt als die Altstadtgassen.",
+              "Achten Sie auf Fußgänger mit Regenschirmen, die Sie schlechter sehen."
+            ],
+            "hu": [
+              "Kerülje a fehér márványcsíkokat az úton, mert olyanok, mint a jég.",
+              "A bérbringák nyerge gyakran vizes; vigyen magával egy nejlonzacskót.",
+              "Viseljen szemüveget az arcába verődő eső ellen.",
+              "Az Adige menti kerékpárutak jobban kiépítettek, mint az óvárosi utcák.",
+              "Ügyeljen az esernyős gyalogosokra, akik kevésbé látják önt."
+            ],
+            "ro": [
+              "Evitați dungile de marmură albă de pe drum, sunt ca gheața.",
+              "Șeile bicicletelor de închiriat sunt adesea ude; luați o pungă de plastic.",
+              "Purtați ochelari împotriva ploii care vă vine în față.",
+              "Pistele de biciclete de-a lungul Adige sunt mai bine amenajate decât străzile vechi.",
+              "Atenție la pietonii cu umbrele, care vă văd mai greu."
+            ],
+            "en": [
+              "Avoid the white marble strips on the road; they are like ice.",
+              "Rental bike seats are often wet; bring a plastic bag with you.",
+              "Wear glasses to protect against driving rain in your face.",
+              "The cycle paths along the Adige are better paved than the old town alleys.",
+              "Watch out for pedestrians with umbrellas as they can't see you as well."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft macht das Radfahren erfrischend. Starten Sie dick eingepackt an der Piazza Bra mit Blick auf den Weihnachtsmarkt.\n\nMittags schirmt die Festung Castelvecchio den kalten Wind ab. Die Fahrt am Flussufer bietet tolle winterliche Fotomotive.\n\nNachmittags wärmen Sie sich in der Basilica San Zeno auf. In den Giusti-Gärten leuchten die immergrünen Zypressen gegen den grauen Himmel.\n\nAbends kühlt es schnell ab. Beenden Sie die Fahrt rechtzeitig vor Einbruch der Dunkelheit und genießen Sie ein herzhaftes Risotto.",
+            "hu": "A tiszta téli levegő frissítővé teszi a kerékpározást. Induljon jól felöltözve a Piazza Bráról, a karácsonyi vásár mellől.\n\nDélben a Castelvecchio erőd védelmet nyújt a hideg szél ellen. A folyóparti tekerés remek téli fotótémákat kínál.\n\nDélután melegedjen fel a San Zeno-bazilikában. A Giusti-kertekben az örökzöld ciprusok világítanak a szürke égbolt alatt.\n\nEste gyorsan lehűl a levegő. Fejezze be a túrát sötétedés előtt, és élvezzen egy bőséges helyi rizottót.",
+            "ro": "Aerul curat de iarnă face mersul pe bicicletă revigorant. Porniți bine îmbrăcați din Piazza Bra, cu vedere la târgul de Crăciun.\n\nLa prânz, cetatea Castelvecchio protejează de vântul rece. Plimbarea pe malul râului oferă motive fotografice hibernale grozave.\n\nDupă-amiaza, încălziți-vă în Bazilica San Zeno. În Grădinile Giusti, chiparoșii mereu verzi strălucesc pe cerul gri.\n\nSeara se răcește rapid. Încheiați plimbarea la timp înainte de lăsarea întunericului și savurați un risotto consistent.",
+            "en": "The clear winter air makes cycling refreshing. Start bundled up at Piazza Bra with a view of the Christmas market.\n\nAt noon, the Castelvecchio fortress shields you from the cold wind. The ride along the riverbank offers great winter photo opportunities.\n\nIn the afternoon, warm up in the Basilica di San Zeno. In the Giusti Gardens, the evergreen cypresses shine against the grey sky.\n\nIn the evening, it cools down quickly. Finish your ride well before dark and enjoy a hearty local risotto."
+          },
+          "stops": [
+            {
+              "name": "Piazza Bra",
+              "tip_5lang": {
+                "de": "Vorsicht bei frostigem Boden; Steinplatten können spiegelglatt sein.",
+                "hu": "Vigyázzon a fagyos talajon; a kőlapok tükörsimák lehetnek.",
+                "ro": "Atenție pe solul înghețat; plăcile de piatră pot fi extrem de alunecoase.",
+                "en": "Watch out for frosty ground; stone slabs can be mirror-smooth."
+              }
+            },
+            {
+              "name": "Castelvecchio",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenhof für eine windgeschützte Pause.",
+                "hu": "Használja a belső udvart egy szélvédett pihenőre.",
+                "ro": "Folosiți curtea interioară pentru o pauză ferită de vânt.",
+                "en": "Use the inner courtyard for a break sheltered from the wind."
+              }
+            },
+            {
+              "name": "Lungadige Cangrande",
+              "tip_5lang": {
+                "de": "Die Kälte zieht vom Fluss hoch; tragen Sie unbedingt Handschuhe.",
+                "hu": "A folyó felől árad a hideg; mindenképpen viseljen kesztyűt.",
+                "ro": "Frigul vine de la râu; purtați neapărat mănuși.",
+                "en": "The cold rises from the river; be sure to wear gloves."
+              }
+            },
+            {
+              "name": "Basilica di San Zeno",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad sicher und wärmen Sie sich in der Krypta auf.",
+                "hu": "Parkolja le biztonságosan a bringát, és melegedjen fel a kriptában.",
+                "ro": "Parcați bicicleta în siguranță și încălziți-vă în criptă.",
+                "en": "Park your bike safely and warm up in the crypt."
+              }
+            },
+            {
+              "name": "Piazza delle Erbe",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrierender Nässe in den Schattenzonen der Gassen.",
+                "hu": "Vigyázzon a lefagyott nedvességre a szűk utcák árnyékos részein.",
+                "ro": "Atenție la umezeala înghețată în zonele umbrite ale străzilor.",
+                "en": "Watch out for freezing moisture in the shaded areas of the alleys."
+              }
+            },
+            {
+              "name": "Giardino Giusti",
+              "tip_5lang": {
+                "de": "Das Labyrinth ist im Winter oft geschlossen, aber der Park ist offen.",
+                "hu": "A labirintus télen gyakran zárva van, de a park látogatható.",
+                "ro": "Labirintul este adesea închis iarna, dar parcul este deschis.",
+                "en": "The labyrinth is often closed in winter, but the park remains open."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Unterwäsche, der Fahrtwind ist im Winter eisig.",
+              "Überprüfen Sie den Reifendruck; kalte Luft lässt ihn sinken.",
+              "Warme Getränke in einer Thermoskanne sind ideal für kurze Stopps.",
+              "Die Sonne geht früh unter, sorgen Sie für eine funktionierende Beleuchtung.",
+              "Das Salz auf den Straßen kann die Kette angreifen; danach kurz abspülen."
+            ],
+            "hu": [
+              "Viseljen termo-aláöltözetet, mert a menetszél télen jeges.",
+              "Ellenőrizze a guminyomást; a hideg levegő miatt csökkenhet.",
+              "A termoszban vitt forró ital ideális a rövid megállókhoz.",
+              "A nap korán nyugszik, gondoskodjon a működő világításról.",
+              "Az utakra szórt só kikezdheti a láncot; túra után öblítse le."
+            ],
+            "ro": [
+              "Purtați lenjerie termică, vântul este înghețat iarna în timpul mersului.",
+              "Verificați presiunea în anvelope; aerul rece o face să scadă.",
+              "Băuturile calde într-un termos sunt ideale pentru scurte opriri.",
+              "Soarele apune devreme, asigurați-vă că aveți iluminare funcțională.",
+              "Sarea de pe drumuri poate ataca lanțul; clătiți-l scurt după tură."
+            ],
+            "en": [
+              "Wear thermal underwear; the wind chill is icy in winter.",
+              "Check your tire pressure; cold air causes it to drop.",
+              "Hot drinks in a thermos are ideal for short stops.",
+              "The sun sets early; ensure you have working lights.",
+              "Road salt can corrode the chain; rinse it briefly after your ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -858,6 +1713,393 @@
           "The A4 motorway is often congested; plan extra time.",
           "Refuel away from main tourist hubs for better prices."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto kombinieren Sie Verona mit den Wundern des Gardasees. Nach einem morgendlichen Besuch der Arena verlassen Sie die Stadt Richtung Westen.\n\nSirmione erwartet Sie mit seiner charmanten Altstadt und den römischen Ruinen direkt am blauen Wasser des Sees. Genießen Sie hier ein ausgiebiges Mittagessen.\n\nAuf dem Rückweg halten Sie in Peschiera, um die UNESCO-Festung zu sehen, und besuchen das malerische Mühlendorf Borghetto.\n\nDer Tag endet wieder im Herzen von Verona, wo Sie die Erlebnisse bei einem Glas Wein Revue passieren lassen.",
+            "hu": "Autóval kombinálhatja Veronát a Garda-tó csodáival. Az Aréna reggeli meglátogatása után hagyja el a várost nyugat felé.\n\nSirmione várja önt bájos óvárosával és római romjaival közvetlenül a tó kék vize mellett. Itt élvezzen ki egy bőséges ebédet.\n\nVisszafelé álljon meg Peschierában, hogy megnézze az UNESCO erődöt, és látogassa meg a festői Borghetto malomfalut.\n\nA nap ismét Verona szívében ér véget, ahol egy pohár bor mellett idézheti fel az élményeket.",
+            "ro": "Cu mașina puteți combina Verona cu minunile Lacului Garda. După o vizită matinală la Arenă, părăsiți orașul spre vest.\n\nSirmione vă așteaptă cu centrul său vechi fermecător și ruinele romane chiar lângă apa albastră a lacului. Savurați aici un prânz prelungit.\n\nLa întoarcere, opriți-vă în Peschiera pentru a vedea cetatea UNESCO și vizitați satul pitoresc Borghetto.\n\nZiua se încheie din nou în inima Veronei, unde puteți rememora experiențele la un pahar de vin.",
+            "en": "By car, you can combine Verona with the wonders of Lake Garda. After a morning visit to the Arena, leave the city heading west.\n\nSirmione awaits you with its charming old town and Roman ruins right by the blue waters of the lake. Enjoy a long lunch here.\n\nOn the way back, stop in Peschiera to see the UNESCO fortress and visit the picturesque mill village of Borghetto.\n\nThe day ends back in the heart of Verona, where you can review the day's highlights over a glass of wine."
+          },
+          "stops": [
+            {
+              "name": "Arena di Verona",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus Arena für direkten Zugang.",
+                "hu": "Parkoljon az Arena parkolóházban a közvetlen kijárathoz.",
+                "ro": "Parcați în parcarea Arena pentru acces direct.",
+                "en": "Park in the Arena parking garage for direct access."
+              }
+            },
+            {
+              "name": "Sirmione (Gardasee)",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Grotte di Catullo am Ende der Halbinsel.",
+                "hu": "Látogassa meg a Grotte di Catullót a félsziget végén.",
+                "ro": "Vizitați Grotte di Catullo la capătul peninsulei.",
+                "en": "Visit the Grotte di Catullo at the end of the peninsula."
+              }
+            },
+            {
+              "name": "Peschiera del Garda",
+              "tip_5lang": {
+                "de": "Bewundern Sie die venezianischen Festungsmauern (UNESCO).",
+                "hu": "Csodálja meg a velencei erődrendszert (UNESCO világörökség).",
+                "ro": "Admirați zidurile cetății venețiene (UNESCO).",
+                "en": "Admire the Venetian fortress walls (UNESCO heritage)."
+              }
+            },
+            {
+              "name": "Borghetto sul Mincio",
+              "tip_5lang": {
+                "de": "Eines der schönsten Dörfer Italiens mit Wassermühlen.",
+                "hu": "Olaszország egyik legszebb faluja vízimalmokkal.",
+                "ro": "Unul dintre cele mai frumoase sate din Italia, cu mori de apă.",
+                "en": "One of Italy's most beautiful villages with water mills."
+              }
+            },
+            {
+              "name": "Verona (Piazza Bra)",
+              "tip_5lang": {
+                "de": "Genießen Sie ein Abschiedsgetränk im Abendlicht.",
+                "hu": "Igyon egy búcsúitalt az esti fényekben.",
+                "ro": "Savurați o băutură de adio în lumina serii.",
+                "en": "Enjoy a farewell drink in the evening light."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Tortellini di Valeggio",
+                "tip": "Hauchdünne Teigtaschen, auch 'Liebesknoten' genannt."
+              },
+              {
+                "name": "Lavarello",
+                "tip": "Frisch gefangener Felchen aus dem Gardasee."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tortellini di Valeggio",
+                "tip": "Hajszálvékony tésztabatyuk, más néven 'szerelemcsomók'."
+              },
+              {
+                "name": "Lavarello",
+                "tip": "Frissen fogott maréna a Garda-tóból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tortellini di Valeggio",
+                "tip": "Paste foarte subțiri, numite și 'noduri de dragoste'."
+              },
+              {
+                "name": "Lavarello",
+                "tip": "Pește proaspăt pescuit din Lacul Garda."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tortellini di Valeggio",
+                "tip": "Paper-thin pasta parcels, also known as 'love knots'."
+              },
+              {
+                "name": "Lavarello",
+                "tip": "Freshly caught whitefish from Lake Garda."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Grotte di Catullo",
+                "tip": "Ruhige Olivenhaine am Seeufer.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Borghetto Mincio",
+                "tip": "Sanftes Rauschen des Wassers an den Mühlen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Grotte di Catullo",
+                "tip": "Csendes olajfaligetek a tóparton.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Borghetto Mincio",
+                "tip": "A víz lágy csobogása a malmoknál.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grotte di Catullo",
+                "tip": "Livezi de măslini liniștite pe malul lacului.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Borghetto Mincio",
+                "tip": "Susurul apei lângă morile vechi.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Grotte di Catullo",
+                "tip": "Quiet olive groves on the lakeshore.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Borghetto Mincio",
+                "tip": "Gentle sound of rushing water at the mills.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Olivenöl vom Gardasee",
+                "tip": "Sehr mildes und hochwertiges DOP Öl."
+              },
+              {
+                "name": "Lugana Wein",
+                "tip": "Frischer Weißwein direkt vom Erzeuger."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Garda-tavi olívaolaj",
+                "tip": "Nagyon lágy és kiváló minőségű DOP olaj."
+              },
+              {
+                "name": "Lugana bor",
+                "tip": "Friss fehérbor közvetlenül a termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline de Garda",
+                "tip": "Ulei DOP foarte fin și de înaltă calitate."
+              },
+              {
+                "name": "Vin Lugana",
+                "tip": "Vin alb proaspăt direct de la producător."
+              }
+            ],
+            "en": [
+              {
+                "name": "Lake Garda Olive Oil",
+                "tip": "Very mild and high-quality DOP oil."
+              },
+              {
+                "name": "Lugana Wine",
+                "tip": "Fresh white wine directly from the producer."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Achten Sie auf die ZTL (begrenzte Verkehrszonen) in Verona und Sirmione.",
+              "Parkplätze in Sirmione sind im Sommer knapp, kommen Sie früh.",
+              "Die Autobahn A4 ist oft stauanfällig, planen Sie Zeit ein.",
+              "Tanken Sie abseits der Haupttouristenorte für bessere Preise."
+            ],
+            "hu": [
+              "Ügyeljen a ZTL-re (korlátozott forgalmi övezetek) Veronában és Sirmionéban.",
+              "Sirmionéban nyáron kevés a parkolóhely, érkezzen korán.",
+              "Az A4-es autópályán gyakoriak a dugók, tervezzen extra időt.",
+              "A főbb turistaközpontoktól távolabb tankoljon a jobb árakért."
+            ],
+            "ro": [
+              "Atenție la zonele ZTL (trafic limitat) în Verona și Sirmione.",
+              "Locurile de parcare în Sirmione sunt puține vara, veniți devreme.",
+              "Autostrada A4 este adesea aglomerată, rezervați-vă timp.",
+              "Alimentați departe de principalele zone turistice pentru prețuri mai bune."
+            ],
+            "en": [
+              "Watch out for ZTL (Limited Traffic Zones) in Verona and Sirmione.",
+              "Parking in Sirmione is scarce in summer; arrive early.",
+              "The A4 motorway is often congested; plan extra time.",
+              "Refuel away from main tourist hubs for better prices."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie die Region um Verona bequem im Trockenen. Nach der Arena geht die Fahrt zum Gardasee.\n\nMittags zeigt sich Sirmione im Regen von einer melancholisch-schönen Seite. Die Thermalquellen sorgen für wohlige Wärme.\n\nNachmittags führt der Weg nach Peschiera und Borghetto. Die Wassermassen des Mincio wirken bei Regen besonders gewaltig.\n\nAbends kehren Sie nach Verona zurück. Ein Parkhaus nahe der Piazza Bra ermöglicht einen fast trockenen Übergang zum Abendessen.",
+            "hu": "Autóval kényelmesen, szárazon fedezheti fel Verona környékét. Az Arena után az út a Garda-tóhoz vezet.\n\nDélben Sirmione esőben melankolikusan szép arcát mutatja. A termálforrások kellemes meleget adnak.\n\nDélután Peschiera és Borghetto következik. A Mincio folyó vízhozama esőben különösen lenyűgöző.\n\nEste térjen vissza Veronába. A Piazza Bra közeli parkolóház szinte száraz átjutást tesz lehetővé a vacsorához.",
+            "ro": "Cu mașina explorați regiunea din jurul Veronei confortabil, la adăpost. După Arenă, drumul continuă spre Lacul Garda.\n\nLa prânz, Sirmione se arată într-o lumină melancolică și frumoasă pe ploaie. Izvoarele termale oferă o căldură plăcută.\n\nDupă-amiaza, drumul duce la Peschiera și Borghetto. Debitul râului Mincio pare deosebit de puternic pe ploaie.\n\nSeara reveniți în Verona. O parcare etajată lângă Piazza Bra permite o tranziție aproape uscată către cină.",
+            "en": "By car, you can explore the region around Verona comfortably and dry. After the Arena, the drive goes to Lake Garda.\n\nAt noon, Sirmione shows a melancholic and beautiful side in the rain. The thermal springs provide cozy warmth.\n\nIn the afternoon, the path leads to Peschiera and Borghetto. The waters of the Mincio look particularly powerful in the rain.\n\nIn the evening, return to Verona. A parking garage near Piazza Bra allows for an almost dry transition to dinner."
+          },
+          "stops": [
+            {
+              "name": "Arena di Verona",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Arena', um nah und trocken am Zentrum zu sein.",
+                "hu": "Használja az 'Arena' parkolóházat, hogy közel és szárazon legyen a központhoz.",
+                "ro": "Folosiți parcarea „Arena” pentru a fi aproape de centru și la adăpost.",
+                "en": "Use the 'Arena' parking garage to be close to the center and stay dry."
+              }
+            },
+            {
+              "name": "Sirmione (Gardasee)",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Grotten des Catull; der Weg dorthin ist auch im Regen schön.",
+                "hu": "Látogassa meg Catullus barlangjait; az odavezető út esőben is szép.",
+                "ro": "Vizitați Grotele lui Catullus; drumul până acolo este frumos și pe ploaie.",
+                "en": "Visit the Grottoes of Catullus; the path there is beautiful even in the rain."
+              }
+            },
+            {
+              "name": "Peschiera del Garda",
+              "tip_5lang": {
+                "de": "Die massiven Stadtmauern bieten Schutz vor windigen Regenschauern.",
+                "hu": "A masszív városfalak védelmet nyújtanak a szeles eső elől.",
+                "ro": "Zidurile masive ale orașului oferă protecție împotriva rafalelor de ploaie.",
+                "en": "The massive city walls offer protection from windy rain showers."
+              }
+            },
+            {
+              "name": "Borghetto sul Mincio",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant direkt am Wasser mit überdachter Terrasse.",
+                "hu": "Válasszon egy közvetlenül a vízparton lévő éttermet fedett terasszal.",
+                "ro": "Alegeți un restaurant chiar pe malul apei, cu terasă acoperită.",
+                "en": "Choose a restaurant right on the water with a covered terrace."
+              }
+            },
+            {
+              "name": "Verona (Piazza Bra)",
+              "tip_5lang": {
+                "de": "Der Ein- und Ausstieg im Parkhaus hält die Kleidung trocken.",
+                "hu": "A parkolóházban történő ki- és beszállás szárazon tartja a ruházatot.",
+                "ro": "Urcarea și coborârea în parcarea etajată menține hainele uscate.",
+                "en": "Getting in and out in the parking garage keeps your clothes dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Autobahn A4 Richtung Gardasee kann bei Regen sehr stauanfällig sein.",
+              "Vermeiden Sie das Parken in Ufernähe bei Sirmione (Hochwassergefahr).",
+              "Scheibenwischer prüfen – auf den italienischen Landstraßen spritzt viel Dreck.",
+              "In Sirmione gibt es exzellente Indoor-Thermalbäder für Regentage.",
+              "Das Fahren durch die Weinberge ist auch bei Nebel sehr stimmungsvoll."
+            ],
+            "hu": [
+              "Az A4-es autópálya a Garda-tó felé esőben gyakran bedugul.",
+              "Kerülje a part menti parkolást Sirmionéban (magas vízállás veszélye).",
+              "Ellenőrizze az ablaktörlőket – az olasz utakon sok sár verődik fel.",
+              "Sirmionéban kiváló fedett termálfürdők vannak esős napokra.",
+              "A szőlőültetvényeken való autózás ködben is nagyon hangulatos."
+            ],
+            "ro": [
+              "Autostrada A4 spre Lacul Garda poate fi foarte aglomerată pe ploaie.",
+              "Evitați parcarea lângă țărm în Sirmione (risc de inundare).",
+              "Verificați ștergătoarele – pe drumurile italiene se împroșcă multă murdărie.",
+              "În Sirmione există băi termale interioare excelente pentru zilele ploioase.",
+              "Condusul prin podgorii este foarte atmosferic chiar și pe ceață."
+            ],
+            "en": [
+              "The A4 motorway towards Lake Garda can be very prone to traffic jams in rain.",
+              "Avoid parking near the shore in Sirmione due to potential flooding risk.",
+              "Check wipers – Italian country roads can be very splashy and dirty.",
+              "Sirmione has excellent indoor thermal baths for rainy days.",
+              "Driving through the vineyards is very atmospheric even in the fog."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Verona im Winter mit dem Auto ist ideal, um die kühle Brise des Gardasees zu erleben. Nach der frostigen Arena geht es Richtung See.\n\nMittags ist Sirmione ohne Touristenmassen ein friedlicher Ort. Die aufsteigenden Dämpfe der Thermalquellen wirken magisch.\n\nNachmittags erkunden Sie Peschiera und das märchenhafte Borghetto, das im Winter fast wie eine Filmkulisse wirkt.\n\nAbends leuchten die Lichter von Verona besonders hell. Das Parken im Zentrum ermöglicht einen kurzen Weg zur warmen Trattoria.",
+            "hu": "Verona télen autóval ideális a Garda-tó hűvös szellőjének megtapasztalásához. A fagyos Arena után a tó felé vesszük az irányt.\n\nDélben Sirmione a turisták tömegei nélkül békés hely. A termálforrásokból felszálló gőz varázslatos látvány.\n\nDélután fedezze fel Peschierát és a mesebeli Borghettót, amely télen szinte filmdíszletnek tűnik.\n\nEste Verona fényei különösen fényesen ragyognak. A központi parkolás rövid utat biztosít a meleg trattoriához.",
+            "ro": "Verona iarna cu mașina este ideală pentru a experimenta briza rece a Lacului Garda. După Arena înghețată, pornim spre lac.\n\nLa prânz, Sirmione fără masele de turiști este un loc pașnic. Aburii care se ridică din izvoarele termale par magici.\n\nDupă-amiaza explorați Peschiera și Borghetto, care iarna arată aproape ca un decor de film.\n\nSeara, luminile Veronei strălucesc deosebit de tare. Parcarea în centru permite un drum scurt către o trattoria călduroasă.",
+            "en": "Verona in winter by car is ideal for experiencing the cool breeze of Lake Garda. After the frosty Arena, head towards the lake.\n\nAt noon, Sirmione is a peaceful place without the tourist crowds. The rising steam from the thermal springs looks magical.\n\nIn the afternoon, explore Peschiera and the fairytale-like Borghetto, which looks almost like a movie set in winter.\n\nIn the evening, the lights of Verona shine particularly bright. Parking in the center allows for a short walk to a warm trattoria."
+          },
+          "stops": [
+            {
+              "name": "Arena di Verona",
+              "tip_5lang": {
+                "de": "Starten Sie mit voll beheiztem Auto in den frostigen Morgen.",
+                "hu": "Indítsa a fagyos reggelt egy jól felfűtött autóval.",
+                "ro": "Porniți dimineața înghețată cu mașina complet încălzită.",
+                "en": "Start the frosty morning with a fully heated car."
+              }
+            },
+            {
+              "name": "Sirmione (Gardasee)",
+              "tip_5lang": {
+                "de": "Die Parkplätze direkt vor der Altstadt sind im Winter leicht zu finden.",
+                "hu": "Az óváros előtti parkolók télen könnyen elérhetőek.",
+                "ro": "Locurile de parcare chiar înainte de orașul vechi sunt ușor de găsit iarna.",
+                "en": "Parking spaces right outside the old town are easy to find in winter."
+              }
+            },
+            {
+              "name": "Peschiera del Garda",
+              "tip_5lang": {
+                "de": "Ein Spaziergang entlang der Kanäle ist bei klarem Winterlicht besonders schön.",
+                "hu": "A csatornák menti séta a tiszta téli fényben különösen szép.",
+                "ro": "O plimbare de-a lungul canalelor este deosebit de frumoasă în lumina clară de iarnă.",
+                "en": "A walk along the canals is particularly beautiful in the clear winter light."
+              }
+            },
+            {
+              "name": "Borghetto sul Mincio",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe; viele Cafés haben gemütliche Innenräume mit Kamin.",
+                "hu": "Élvezze a nyugalmat; sok kávézónak van hangulatos, kandallós belső tere.",
+                "ro": "Bucurați-vă de liniște; multe cafenele au interioare primitoare cu șemineu.",
+                "en": "Enjoy the peace; many cafes have cozy interiors with fireplaces."
+              }
+            },
+            {
+              "name": "Verona (Piazza Bra)",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Weihnachtsbeleuchtung direkt vom warmen Auto aus.",
+                "hu": "Csodálja meg a karácsonyi kivilágítást közvetlenül a meleg autóból.",
+                "ro": "Admirați luminile de Crăciun direct din mașina călduroasă.",
+                "en": "Admire the Christmas lights directly from your warm car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Nebel rund um den Gardasee, der die Sicht stark einschränken kann.",
+              "Winterreifen sind in Norditalien von Mitte November bis Mitte April Pflicht.",
+              "Eiskratzer nicht vergessen, die Nächte in der Po-Ebene können sehr kalt sein.",
+              "Besuchen Sie die Thermalbäder in Sirmione für ein warmes Wintererlebnis.",
+              "Die Straßen im Hinterland können bei Frost sehr glatt sein."
+            ],
+            "hu": [
+              "Ügyeljen a ködre a Garda-tó környékén, ami erősen korlátozhatja a látást.",
+              "Észak-Olaszországban november közepétől április közepéig kötelező a téli gumi.",
+              "Ne felejtse el a jégkaparót, a Pó-síkságon az éjszakák nagyon hidegek lehetnek.",
+              "Látogassa meg Sirmione termálfürdőit egy meleg téli élményért.",
+              "A belső területek útjai fagy idején nagyon csúszósak lehetnek."
+            ],
+            "ro": [
+              "Atenție la ceața din jurul Lacului Garda, care poate limita mult vizibilitatea.",
+              "Anvelopele de iarnă sunt obligatorii în nordul Italiei din noiembrie până în aprilie.",
+              "Nu uitați racleta pentru gheață, nopțile în Câmpia Padului pot fi foarte reci.",
+              "Vizitați băile termale din Sirmione pentru o experiență caldă de iarnă.",
+              "Drumurile din hinterland pot fi foarte alunecoase în caz de îngheț."
+            ],
+            "en": [
+              "Watch out for fog around Lake Garda, which can severely limit visibility.",
+              "Winter tires are mandatory in Northern Italy from mid-November to mid-April.",
+              "Don't forget an ice scraper; nights in the Po Valley can be very cold.",
+              "Visit the thermal baths in Sirmione for a warm winter experience.",
+              "Roads in the hinterland can be very slippery during frost."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1142,6 +2384,420 @@
           "Watch the displays inside the buses for the next stop.",
           "Buses run less frequently on Sundays; check the timetable."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit den öffentlichen Verkehrsmitteln erreichen Sie auch die höher gelegenen Punkte Veronas mühelos. Starten Sie am Bahnhof und fahren Sie direkt zur Arena.\n\nEin Highlight ist die Fahrt mit der Funicolare zum Castel San Pietro, von wo aus Sie den spektakulärsten Blick auf die Stadt und die Etschschleife haben.\n\nNach dem Besuch des Doms bringt Sie der Bus zurück ins Herz der Altstadt zur Piazza delle Erbe.\n\nDen Nachmittag verbringen Sie in der Festung Castelvecchio, bevor Sie bequem mit dem Stadtbus wieder zum Ausgangspunkt zurückkehren.",
+            "hu": "A tömegközlekedéssel Verona magasabban fekvő pontjait is könnyedén elérheti. Induljon a pályaudvarról, és utazzon közvetlenül az Arénához.\n\nKiemelt élmény a siklóval való feljutás a Castel San Pietro-hoz, ahonnan a leglátványosabb kilátás nyílik a városra és az Adige kanyarulatára.\n\nA Dóm meglátogatása után a busz visszaviszi az óváros szívébe, a Piazza delle Erbe térre.\n\nA délutánt a Castelvecchio erődben töltheti, mielőtt kényelmesen visszabuszozna a kiindulópontra.",
+            "ro": "Cu transportul public puteți ajunge fără efort chiar și în punctele mai înalte ale Veronei. Porniți de la gară și mergeți direct spre Arenă.\n\nUn punct culminant este călătoria cu funicularul spre Castel San Pietro, de unde aveți cea mai spectaculoasă vedere asupra orașului și a râului Adige.\n\nDupă vizitarea Domului, autobuzul vă duce înapoi în inima centrului vechi, în Piazza delle Erbe.\n\nPetreceți după-amiaza în cetatea Castelvecchio, înainte de a vă întoarce confortabil cu autobuzul urban la punctul de plecare.",
+            "en": "By public transport, you can effortlessly reach Verona's higher viewpoints. Start at the station and take a bus directly to the Arena.\n\nA highlight is the funicular ride up to Castel San Pietro, offering the most spectacular view of the city and the Adige river bend.\n\nAfter visiting the Cathedral, the bus brings you back to the heart of the old town at Piazza delle Erbe.\n\nSpend the afternoon at the Castelvecchio fortress before taking a convenient city bus back to your starting point."
+          },
+          "stops": [
+            {
+              "name": "Stazione Verona Porta Nuova",
+              "tip_5lang": {
+                "de": "Der Hauptknotenpunkt für alle Buslinien.",
+                "hu": "A városi buszjáratok központi csomópontja.",
+                "ro": "Principalul nod pentru toate liniile de autobuz.",
+                "en": "The main hub for all local bus lines."
+              }
+            },
+            {
+              "name": "Piazza Bra (Arena)",
+              "tip_5lang": {
+                "de": "Fast alle Stadtbusse halten hier.",
+                "hu": "Szinte minden városi busz megáll itt.",
+                "ro": "Aproape toate autobuzele urbane opresc aici.",
+                "en": "Almost all city buses stop here."
+              }
+            },
+            {
+              "name": "Castel San Pietro (Funicolare)",
+              "tip_5lang": {
+                "de": "Nehmen Sie die Seilbahn für den Aufstieg.",
+                "hu": "Használja a siklót a feljutáshoz.",
+                "ro": "Luați funicularul pentru a urca.",
+                "en": "Take the funicular for the ascent."
+              }
+            },
+            {
+              "name": "Duomo di Verona",
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtigen Fresken im Inneren.",
+                "hu": "Csodálja meg a belső tér pompás freskóit.",
+                "ro": "Admirați frescele superbe din interior.",
+                "en": "Admire the magnificent frescoes inside."
+              }
+            },
+            {
+              "name": "Piazza delle Erbe",
+              "tip_5lang": {
+                "de": "Zentraler Ort für einen späten Lunch.",
+                "hu": "Központi helyszín egy késői ebédhez.",
+                "ro": "Locație centrală pentru un prânz târziu.",
+                "en": "Central spot for a late lunch."
+              }
+            },
+            {
+              "name": "Castelvecchio",
+              "tip_5lang": {
+                "de": "Kurze Busfahrt zurück Richtung Bahnhof.",
+                "hu": "Rövid buszozás vissza a vasútállomás irányába.",
+                "ro": "Scurtă călătorie cu autobuzul înapoi spre gară.",
+                "en": "Short bus ride back towards the station."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bigoli con l'Anatra",
+                "tip": "Dicke Nudeln mit Entenragout, sehr sättigend."
+              },
+              {
+                "name": "Gnocchi di Patate",
+                "tip": "Traditionell am Karnevalsfreitag gegessen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bigoli con l'Anatra",
+                "tip": "Vastag tészta kacsahússal, nagyon laktató étel."
+              },
+              {
+                "name": "Gnocchi di Patate",
+                "tip": "Hagyományosan karnevál péntekén fogyasztják."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bigoli con l'Anatra",
+                "tip": "Paste groase cu ragu de rață, foarte consistente."
+              },
+              {
+                "name": "Gnocchi di Patate",
+                "tip": "Consumați tradițional în vinerea Carnavalului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bigoli con l'Anatra",
+                "tip": "Thick pasta with duck ragu, very filling."
+              },
+              {
+                "name": "Gnocchi di Patate",
+                "tip": "Traditionally eaten on the Friday of Carnival."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Krypta der Kathedrale",
+                "tip": "Stille und spirituelle Atmosphäre.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Uferpromenade San Biagio",
+                "tip": "Ruhiger Weg entlang der Etsch.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "A székesegyház kriptája",
+                "tip": "Csendes és spirituális légkör.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "San Biagio rakpart",
+                "tip": "Nyugodt sétány az Adige mentén.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cripta Catedralei",
+                "tip": "Atmosferă liniștită și spirituală.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Promenada San Biagio",
+                "tip": "Traseu liniștit pe malul râului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cathedral Crypt",
+                "tip": "Quiet and spiritual atmosphere.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "San Biagio Riverwalk",
+                "tip": "Quiet path along the Adige river.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "ATV Point",
+                "tip": "Hier erhalten Sie alle Tickets und Infos zum Nahverkehr."
+              },
+              {
+                "name": "Stradone Porta Palio",
+                "tip": "Weniger touristische Läden und Cafés."
+              }
+            ],
+            "hu": [
+              {
+                "name": "ATV Point",
+                "tip": "Itt beszerezhet minden jegyet és infót a közlekedéshez."
+              },
+              {
+                "name": "Stradone Porta Palio",
+                "tip": "Kevésbé turisztikai boltok és kávézók."
+              }
+            ],
+            "ro": [
+              {
+                "name": "ATV Point",
+                "tip": "Aici găsiți toate biletele și informațiile despre transport."
+              },
+              {
+                "name": "Stradone Porta Palio",
+                "tip": "Magazine și cafenele mai puțin turistice."
+              }
+            ],
+            "en": [
+              {
+                "name": "ATV Point",
+                "tip": "Get all your tickets and transit info here."
+              },
+              {
+                "name": "Stradone Porta Palio",
+                "tip": "Less touristy shops and local cafes."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Bustickets vorab am Kiosk oder über die App.",
+              "Die Linien 11, 12 und 13 verbinden den Bahnhof mit dem Zentrum.",
+              "Achten Sie auf die Anzeigen in den Bussen für die nächste Haltestelle.",
+              "Am Sonntag fahren die Busse seltener, prüfen Sie den Fahrplan."
+            ],
+            "hu": [
+              "Vásároljon buszjegyet előre az újságosnál vagy az applikációban.",
+              "A 11-es, 12-es és 13-as járatok kötik össze a várost a pályaudvarral.",
+              "Figyelje a kijelzőt a buszon a következő megállóhoz.",
+              "Vasárnap ritkábban járnak a buszok, ellenőrizze a menetrendet."
+            ],
+            "ro": [
+              "Cumpărați bilete de autobuz în avans de la chioșcuri sau prin aplicație.",
+              "Liniile 11, 12 și 13 leagă gara de centru.",
+              "Urmăriți afișajele din autobuz pentru următoarea stație.",
+              "Duminica autobuzele circulă mai rar, verificați orarul."
+            ],
+            "en": [
+              "Buy bus tickets in advance at newsstands or via the app.",
+              "Lines 11, 12, and 13 connect the station with the center.",
+              "Watch the displays inside the buses for the next stop.",
+              "Buses run less frequently on Sundays; check the timetable."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Ankunft am Bahnhof Porta Nuova erfolgt im Trockenen. Der Bus bringt Sie direkt zur Piazza Bra unter die Arkaden.\n\nMittags schweben Sie mit der Funicolare über den Regen zum Castel San Pietro. Die Kabine bietet einen geschützten Blick auf das graue Panorama.\n\nNachmittags laden der Duomo und die Markthallen zur Besichtigung ein. In Castelvecchio finden Sie Schutz in den weitläufigen Galerien.\n\nAbends bringt Sie der Bus bequem zurück zum Bahnhof. Die Wartezeiten an den Haltestellen sind kurz, aber ein Schirm ist unerlässlich.",
+            "hu": "A Porta Nuova pályaudvarra szárazon érkezik meg. A busz közvetlenül a Piazza Bra árkádjaihoz viszi.\n\nDélben a siklóval (Funicolare) az eső felett lebegve juthat fel a Castel San Pietróhoz. A kabin védett kilátást nyújt a szürke panorámára.\n\nDélután a Duomo és a fedett árusok hívogatnak. Castelvecchióban a tágas galériákban talál menedéket.\n\nEste a busz kényelmesen visszaviszi a pályaudvarra. A várakozási idő rövid, de egy esernyő elengedhetetlen.",
+            "ro": "Sosirea la gara Porta Nuova are loc la adăpost. Autobuzul vă duce direct în Piazza Bra, sub arcade.\n\nLa prânz, plutiți cu funicularul peste ploaie spre Castel San Pietro. Cabina oferă o vedere protejată asupra panoramei gri.\n\nDupă-amiaza, Domul și halele de piață vă invită la vizitare. În Castelvecchio găsiți adăpost în galeriile spațioase.\n\nSeara, autobuzul vă aduce confortabil înapoi la gară. Timpul de așteptare în stații este scurt, dar o umbrelă este indispensabilă.",
+            "en": "Arrival at Porta Nuova station is dry. The bus takes you directly to the arcades of Piazza Bra.\n\nAt noon, float above the rain with the funicular to Castel San Pietro. The cabin provides a sheltered view of the grey panorama.\n\nIn the afternoon, the Duomo and the market stalls invite you for a visit. In Castelvecchio, find shelter in the extensive galleries.\n\nIn the evening, the bus brings you comfortably back to the station. Waiting times at stops are short, but an umbrella is essential."
+          },
+          "stops": [
+            {
+              "name": "Stazione Verona Porta Nuova",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle, bis Ihr Bus angezeigt wird.",
+                "hu": "Várjon a várócsarnokban, amíg meg nem jelenik a busza.",
+                "ro": "Așteptați în holul gării până când este afișat autobuzul dumneavoastră.",
+                "en": "Wait in the station hall until your bus is displayed."
+              }
+            },
+            {
+              "name": "Piazza Bra (Arena)",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen hier verfügen über gute Überdachungen.",
+                "hu": "Az itteni buszmegállók jó tetővel rendelkeznek.",
+                "ro": "Stațiile de autobuz de aici au acoperișuri bune.",
+                "en": "The bus stops here have good shelters."
+              }
+            },
+            {
+              "name": "Castel San Pietro (Funicolare)",
+              "tip_5lang": {
+                "de": "Die Standseilbahn ist voll verglast und hält Sie beim Aufstieg trocken.",
+                "hu": "A sikló teljesen üvegezett, így szárazon juthat fel a tetőre.",
+                "ro": "Funicularul este complet vitrat și vă menține uscat în timpul urcării.",
+                "en": "The funicular is fully glazed and keeps you dry during the ascent."
+              }
+            },
+            {
+              "name": "Duomo di Verona",
+              "tip_5lang": {
+                "de": "Ein prächtiger Ort für eine längere Pause im Trockenen.",
+                "hu": "Pompás hely egy hosszabb, száraz pihenőhöz.",
+                "ro": "Un loc magnific pentru o pauză lungă la adăpost.",
+                "en": "A magnificent place for a long break in the dry."
+              }
+            },
+            {
+              "name": "Piazza delle Erbe",
+              "tip_5lang": {
+                "de": "Viele Geschäfte in den Gassen haben kleine Vordächer.",
+                "hu": "A szűk utcák boltjai közül sok rendelkezik kis előtetővel.",
+                "ro": "Multe magazine din străduțe au mici copertine.",
+                "en": "Many shops in the alleys have small awnings."
+              }
+            },
+            {
+              "name": "Castelvecchio",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt fast direkt vor dem Museumseingang.",
+                "hu": "A buszmegálló szinte közvetlenül a múzeum bejárata előtt van.",
+                "ro": "Stația de autobuz este situată aproape direct în fața intrării în muzeu.",
+                "en": "The bus stop is located almost directly in front of the museum entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab über die ATV-App, um Regen-Wartezeiten am Automaten zu vermeiden.",
+              "Die Funicolare ist die trockenste Art, den Hügel zu erklimmen.",
+              "An regnerischen Tagen sind die Busse oft voller; planen Sie etwas Puffer ein.",
+              "Porta Nuova bietet Schließfächer, falls Ihre Taschen nass geworden sind.",
+              "Nutzen Sie die Linien 11, 12 und 13 für den schnellen Transfer ins Zentrum."
+            ],
+            "hu": [
+              "Vásároljon jegyet előre az ATV alkalmazáson keresztül, hogy elkerülje az automatánál való várakozást az esőben.",
+              "A sikló a legszárazabb módja a domb megmászásának.",
+              "Esős napokon a buszok gyakran zsúfoltabbak; számoljon egy kis időráhagyással.",
+              "A Porta Nuova pályaudvaron vannak csomagmegőrzők, ha a táskái átáztak volna.",
+              "Használja a 11-es, 12-es és 13-as vonalakat a gyors központba jutáshoz."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans prin aplicația ATV pentru a evita așteptarea la automat pe ploaie.",
+              "Funicularul este cel mai uscat mod de a urca dealul.",
+              "În zilele ploioase, autobuzele sunt adesea mai pline; planificați o marjă de timp.",
+              "Porta Nuova oferă dulapuri pentru bagaje în cazul în care gențile vi s-au udat.",
+              "Folosiți liniile 11, 12 și 13 pentru transfer rapid în centru."
+            ],
+            "en": [
+              "Buy tickets in advance via the ATV app to avoid waiting at the machine in the rain.",
+              "The funicular is the driest way to climb the hill.",
+              "On rainy days, buses are often more crowded; allow for some extra time.",
+              "Porta Nuova offers lockers if your bags have gotten wet.",
+              "Use lines 11, 12, and 13 for quick transfer to the center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der warme Bahnhof Porta Nuova ist ein guter Startpunkt. Der Bus bringt Sie zum weihnachtlich beleuchteten Zentrum.\n\nMittags genießen Sie den Blick vom Castel San Pietro. Die kühle Luft ist klar und die Funicolare bringt Sie bequem nach oben.\n\nNachmittags ist der Besuch im Duomo besinnlich und warm. In Castelvecchio lassen sich die Kunstschätze ohne Sommerhitze bewundern.\n\nAbends leuchtet die Stadt im Lichterglanz. Der öffentliche Nahverkehr ist verlässlich und bringt Sie zügig zurück in Ihr warmes Hotel.",
+            "hu": "A meleg Porta Nuova pályaudvar jó kiindulópont. A busz a karácsonyi fényekkel díszített központba viszi.\n\nDélben élvezze a kilátást a Castel San Pietrótól. A hűvös levegő tiszta, a sikló pedig kényelmesen felviszi.\n\nDélután a Duomo látogatása meghitt és meleg élmény. Castelvecchióban a nyári hőség nélkül csodálhatja meg a kincseket.\n\nEste a város fényárban úszik. A tömegközlekedés megbízható, és gyorsan visszaviszi a meleg szállodájába.",
+            "ro": "Gara caldă Porta Nuova este un punct de pornire bun. Autobuzul vă duce în centrul iluminat de sărbătoare.\n\nLa prânz, bucurați-vă de vederea de la Castel San Pietro. Aerul rece este clar, iar funicularul vă urcă confortabil.\n\nDupă-amiaza, vizita la Dom este liniștită și caldă. În Castelvecchio puteți admira comorile de artă fără căldura verii.\n\nSeara, orașul strălucește în lumini. Transportul public este de încredere și vă aduce rapid înapoi la hotelul călduros.",
+            "en": "The warm Porta Nuova station is a good starting point. The bus takes you to the Christmas-lit center.\n\nAt noon, enjoy the view from Castel San Pietro. The cool air is clear, and the funicular brings you comfortably to the top.\n\nIn the afternoon, a visit to the Duomo is contemplative and warm. In Castelvecchio, you can admire the art treasures without the summer heat.\n\nIn the evening, the city glows with lights. Public transport is reliable and brings you back quickly to your warm hotel."
+          },
+          "stops": [
+            {
+              "name": "Stazione Verona Porta Nuova",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kiosk im Bahnhof für einen warmen Kaffee vor der Fahrt.",
+                "hu": "Igyon meg egy forró kávét az állomáson lévő büfénél indulás előtt.",
+                "ro": "Folosiți chioșcul din gară pentru o cafea caldă înainte de drum.",
+                "en": "Use the kiosk in the station for a hot coffee before your trip."
+              }
+            },
+            {
+              "name": "Piazza Bra (Arena)",
+              "tip_5lang": {
+                "de": "Der Weihnachtsmarkt direkt an der Haltestelle lädt zum Bummeln ein.",
+                "hu": "A közvetlenül a megálló melletti karácsonyi vásár sétára hívogat.",
+                "ro": "Târgul de Crăciun chiar lângă stație vă invită la o plimbare.",
+                "en": "The Christmas market right by the stop invites you for a stroll."
+              }
+            },
+            {
+              "name": "Castel San Pietro (Funicolare)",
+              "tip_5lang": {
+                "de": "Perfekt für den Sonnenuntergang; oben ist es oft windig.",
+                "hu": "Tökéletes a naplemente megtekintéséhez; fent gyakran szeles az idő.",
+                "ro": "Perfect pentru apus; sus este adesea vânt.",
+                "en": "Perfect for sunset; it's often windy at the top."
+              }
+            },
+            {
+              "name": "Duomo di Verona",
+              "tip_5lang": {
+                "de": "Im Winter herrscht hier eine besonders ruhige und feierliche Atmosphäre.",
+                "hu": "Télen különösen nyugodt és ünnepi itt a hangulat.",
+                "ro": "Iarna aici este o atmosferă deosebit de liniștită și festivă.",
+                "en": "In winter, there's a particularly calm and solemn atmosphere here."
+              }
+            },
+            {
+              "name": "Piazza delle Erbe",
+              "tip_5lang": {
+                "de": "Die Cafés bieten oft Decken für die Außenbestuhlung an.",
+                "hu": "A kávézók gyakran kínálnak pokrócokat a kültéri székekhez.",
+                "ro": "Cafenelele oferă adesea pături pentru scaunele de afară.",
+                "en": "The cafes often offer blankets for their outdoor seating."
+              }
+            },
+            {
+              "name": "Castelvecchio",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Winterkälte draußen.",
+                "hu": "A vastag falak kint tartják a téli hideget.",
+                "ro": "Zidurile groase țin frigul iernii afară.",
+                "en": "The thick walls keep the winter cold out."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können an Feiertagen im Dezember abweichen.",
+              "Die Busse sind gut beheizt und eine gute Möglichkeit zum Aufwärmen.",
+              "Die Funicolare bietet einen beheizten Warteraum an der Talstation.",
+              "Abends sind die Lichter der Arena vom Bus aus wunderschön zu sehen.",
+              "Ein Tagesticket lohnt sich besonders, wenn man oft ein- und aussteigt."
+            ],
+            "hu": [
+              "A menetrendek a decemberi ünnepnapokon eltérhetnek.",
+              "A buszok jól fűtöttek, így remek lehetőséget adnak a felmelegedésre.",
+              "A sikló alsó állomásán fűtött váróterem áll rendelkezésre.",
+              "Este az Arena fényei gyönyörűen látszanak a buszablakból.",
+              "A napijegy különösen megéri, ha gyakran száll fel és le."
+            ],
+            "ro": [
+              "Orarele pot varia în zilele de sărbătoare din decembrie.",
+              "Autobuzele sunt bine încălzite și reprezintă o modalitate bună de încălzire.",
+              "Funicularul oferă o sală de așteptare încălzită la stația de jos.",
+              "Seara, luminile Arenei se văd minunat din autobuz.",
+              "Un bilet de o zi merită mai ales dacă urcați și coborâți des."
+            ],
+            "en": [
+              "Schedules may differ on public holidays in December.",
+              "Buses are well-heated and a good way to warm up.",
+              "The funicular offers a heated waiting room at the valley station.",
+              "In the evening, the lights of the Arena are beautiful to see from the bus.",
+              "A day ticket is particularly worthwhile if you hop on and off frequently."
+            ]
+          }
+        }
       }
     }
   },

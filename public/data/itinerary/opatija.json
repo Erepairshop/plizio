@@ -388,6 +388,554 @@
           "Wear comfortable shoes.",
           "Don't forget sun protection."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt aristokratisch auf der Terrasse des Hotels Kvarner. Mittags erkunden wir die Villa Angiolina und das Tourismusmuseum, um in die Geschichte der Monarchie einzutauchen. Der Nachmittag gehört der Meeresbrise der Lungomare-Promenade und den exotischen Pflanzen im Park Angiolina. Den Abend lassen wir am Slatina-Strand ausklingen, während die Sonne im Meer versinkt.",
+            "hu": "A reggel az arisztokratikus Kvarner-parton indul egy kávéval a történelmi hotel teraszán. Délben a Villa Angiolina és a Turisztikai Múzeum falai között ismerjük meg a múltat. Délután a Lungomare sétány sós levegője és az Angiolina park egzotikus növényei frissítenek fel. Az estét a Slatina-strand naplementéje és egy tengerparti pihenő koronázza meg.",
+            "ro": "Dimineața începe aristocratic pe terasa Hotelului Kvarner, cu o cafea în stil imperial. La prânz, explorăm Villa Angiolina și Muzeul Turismului, descoperind istoria locală. După-amiaza este dedicată brizei marine de pe faleza Lungomare și plantelor exotice din Parcul Angiolina. Seara se încheie la plaja Slatina, admirând apusul de pe malul mării.",
+            "en": "The morning starts with an aristocratic flair on the terrace of Hotel Kvarner. At midday, we explore Villa Angiolina and the Tourism Museum to dive into the resort's history. The afternoon is spent enjoying the sea breeze on the Lungomare promenade and the exotic flora of Angiolina Park. The evening concludes at Slatina Beach, watching the sunset over the Adriatic."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hotel Kvarner",
+                "hu": "Hotel Kvarner",
+                "ro": "Hotel Kvarner",
+                "en": "Hotel Kvarner"
+              },
+              "tip_5lang": {
+                "de": "Kaffee auf der legendären Terrasse genießen.",
+                "hu": "Kávézzon a legendás teraszon.",
+                "ro": "Savurați o cafea pe legendara terasă.",
+                "en": "Enjoy a coffee on the legendary terrace."
+              }
+            },
+            {
+              "name": {
+                "de": "Das Mädchen mit der Möwe",
+                "hu": "Leány a sirállyal",
+                "ro": "Fata cu Pescărușul",
+                "en": "Maiden with the Seagull"
+              },
+              "tip_5lang": {
+                "de": "Das beste Fotomotiv bei Sonnenaufgang.",
+                "hu": "A legjobb fotótéma napfelkeltekor.",
+                "ro": "Cel mai bun loc pentru poze la răsărit.",
+                "en": "The best photo spot at sunrise."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche des Heiligen Jakob",
+                "hu": "Szent Jakab-templom",
+                "ro": "Biserica Sfântul Iacob",
+                "en": "Church of Saint James"
+              },
+              "tip_5lang": {
+                "de": "Eine Oase der Ruhe im Stadtzentrum.",
+                "hu": "A nyugalom oázisa a városközpontban.",
+                "ro": "O oază de liniște în centrul orașului.",
+                "en": "An oasis of peace in the city center."
+              }
+            },
+            {
+              "name": {
+                "de": "Kunstpavillon Juraj Šporer",
+                "hu": "Juraj Šporer Művészeti Pavilon",
+                "ro": "Pavilionul de Artă Juraj Šporer",
+                "en": "Juraj Šporer Art Pavilion"
+              },
+              "tip_5lang": {
+                "de": "Wechselnde Kunstausstellungen.",
+                "hu": "Változatos művészeti kiállítások.",
+                "ro": "Expoziții de artă temporare.",
+                "en": "Rotating art exhibitions."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Angiolina",
+                "hu": "Villa Angiolina",
+                "ro": "Villa Angiolina",
+                "en": "Villa Angiolina"
+              },
+              "tip_5lang": {
+                "de": "Prachtvolle Architektur der Monarchie.",
+                "hu": "A monarchia pompás építészete.",
+                "ro": "Arhitectura magnifică a monarhiei.",
+                "en": "Magnificent monarchy architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Kroatisches Tourismusmuseum",
+                "hu": "Horvát Turisztikai Múzeum",
+                "ro": "Muzeul Turismului Croat",
+                "en": "Croatian Museum of Tourism"
+              },
+              "tip_5lang": {
+                "de": "Einblick in die Geschichte des Kurortes.",
+                "hu": "Betekintés az üdülőhely történetébe.",
+                "ro": "O privire în istoria stațiunii.",
+                "en": "Insight into the resort's history."
+              }
+            },
+            {
+              "name": {
+                "de": "Park Angiolina",
+                "hu": "Angiolina park",
+                "ro": "Parcul Angiolina",
+                "en": "Angiolina Park"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie die berühmte Kamelie.",
+                "hu": "Keresse meg a híres kaméliát.",
+                "ro": "Căutați faimoasa camelie.",
+                "en": "Look for the famous camellia."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Opatija",
+                "hu": "Opatijai kikötő",
+                "ro": "Portul Opatija",
+                "en": "Port of Opatija"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine kurze Pause am Wasser.",
+                "hu": "Tökéletes egy rövid pihenőre a víznél.",
+                "ro": "Perfect pentru o scurtă pauză pe mal.",
+                "en": "Perfect for a short break by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Lungomare-Promenade",
+                "hu": "Lungomare sétány",
+                "ro": "Promenada Lungomare",
+                "en": "Lungomare Promenade"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die 12 km lange Küstenwanderung.",
+                "hu": "Élvezze a 12 km hosszú partmenti sétát.",
+                "ro": "Bucurați-vă de plimbarea de 12 km pe mal.",
+                "en": "Enjoy the 12 km long coastal walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Slatina-Strand",
+                "hu": "Slatina-strand",
+                "ro": "Plaja Slatina",
+                "en": "Slatina Beach"
+              },
+              "tip_5lang": {
+                "de": "Entspannung pur am Hauptstrand.",
+                "hu": "Tiszta kikapcsolódás a főstrandon.",
+                "ro": "Relaxare totală pe plaja principală.",
+                "en": "Pure relaxation at the main beach."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Kvarner-Scampi",
+                "tip": "Probieren Sie diese Delikatesse im Restaurant Bevanda."
+              },
+              {
+                "name": "Marunada",
+                "tip": "Spezialitäten aus Edelkastanien."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kvarneri skampi",
+                "tip": "Kóstolja meg a Bevanda étteremben."
+              },
+              {
+                "name": "Marunada",
+                "tip": "Szelídgesztenyés különlegességek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Scampi de Kvarner",
+                "tip": "Gustați-i la restaurantul Bevanda."
+              },
+              {
+                "name": "Marunada",
+                "tip": "Specialități din castane."
+              }
+            ],
+            "en": [
+              {
+                "name": "Kvarner Scampi",
+                "tip": "Try this delicacy at Bevanda restaurant."
+              },
+              {
+                "name": "Marunada",
+                "tip": "Chestnut-based specialties."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Lungomare Bänke",
+                "tip": "Meeresblick genießen.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Park Angiolina",
+                "tip": "Stiller Ort bei den Palmen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lungomare padok",
+                "tip": "Tengeri kilátás.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Angiolina park",
+                "tip": "Csendes hely a pálmák között.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bănci Lungomare",
+                "tip": "Vedere la mare.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Parcul Angiolina",
+                "tip": "Loc liniștit printre palmieri.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lungomare benches",
+                "tip": "Enjoy the sea view.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Angiolina Park",
+                "tip": "Quiet spot among palms.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Opatija Markt",
+                "tip": "Lokale Produkte und Honig."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Opatijai piac",
+                "tip": "Helyi termékek és méz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața Opatija",
+                "tip": "Produse locale și miere."
+              }
+            ],
+            "en": [
+              {
+                "name": "Opatija Market",
+                "tip": "Local products and honey."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Bequeme Schuhe tragen.",
+              "Sonnenschutz nicht vergessen."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt.",
+              "Ne felejtse el a fényvédőt."
+            ],
+            "ro": [
+              "Purtați pantofi comozi.",
+              "Nu uitați protecția solară."
+            ],
+            "en": [
+              "Wear comfortable shoes.",
+              "Don't forget sun protection."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt im geschützten Hotel Kvarner, während Regentropfen gegen die Fenster schlagen. Mittags bieten das Kunstpavillon und die Villa Angiolina perfekte Zuflucht. Nachmittags spazieren wir mit dem Schirm am Lungomare, wo das aufgewühlte Meer eine dramatische Kulisse bildet. Den Abend lassen wir in einem der überdachten Cafés an der Slatina gemütlich ausklingen.",
+            "hu": "A reggel az elegáns Hotel Kvarner fedett tereiben indul, védve az esőtől. Délben a Művészeti Pavilon és a Villa Angiolina nyújt menedéket a látnivalók között. Délután ernyő alatt sétálunk a Lungomarén, élvezve a viharos tenger látványát. Az estét a Slatina strand egyik fedett teraszán zárjuk, hallgatva az eső kopogását a vízen.",
+            "ro": "Dimineața începe în interiorul istoric al Hotelului Kvarner, feriți de ploaie. La prânz, Pavilionul de Artă și Villa Angiolina oferă refugiul cultural perfect. După-amiaza, o plimbare cu umbrela pe Lungomare dezvăluie o mare Adriatică dramatică. Seara se încheie confortabil la o terasă acoperită din zona Slatina, privind stropii căzând în mare.",
+            "en": "The morning starts in the sheltered halls of Hotel Kvarner as rain taps on the windows. At noon, the Art Pavilion and Villa Angiolina offer perfect indoor escapes. In the afternoon, we walk with umbrellas along the Lungomare, where the choppy sea creates a dramatic backdrop. We end the evening at a covered café at Slatina, listening to the rain."
+          },
+          "stops": [
+            {
+              "name": "Hotel Kvarner",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in der prachtvollen Lobby.",
+                "hu": "Keressen menedéket a pompás előcsarnokban.",
+                "ro": "Căutați adăpost în lobby-ul somptuos.",
+                "en": "Find shelter in the magnificent lobby."
+              }
+            },
+            {
+              "name": "Maiden with the Seagull",
+              "tip_5lang": {
+                "de": "Vorsicht vor der Gischt bei starkem Wind.",
+                "hu": "Vigyázzon a felcsapó hullámokra szélben.",
+                "ro": "Atenție la stropii de mare în caz de vânt.",
+                "en": "Watch out for sea spray during high winds."
+              }
+            },
+            {
+              "name": "Church of Saint James",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort zum Innehalten.",
+                "hu": "Csendes és száraz hely a megállásra.",
+                "ro": "Un loc liniștit și uscat pentru o pauză.",
+                "en": "A quiet and dry place for a brief pause."
+              }
+            },
+            {
+              "name": "Juraj Šporer Art Pavilion",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für eine Ausstellung.",
+                "hu": "Használja ki az esőt egy benti kiállításra.",
+                "ro": "Profită de ploaie pentru o expoziție la interior.",
+                "en": "Use the rainy break for an indoor exhibition."
+              }
+            },
+            {
+              "name": "Villa Angiolina",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Deckenmalereien im Trockenen.",
+                "hu": "Csodálja meg a mennyezeti festményeket szárazon.",
+                "ro": "Admirați picturile murale la adăpost de ploaie.",
+                "en": "Admire the ceiling paintings while staying dry."
+              }
+            },
+            {
+              "name": "Croatian Museum of Tourism",
+              "tip_5lang": {
+                "de": "Ideal für eine ausgiebige Stunde im Museum.",
+                "hu": "Töketeles választás egy esős órára.",
+                "ro": "Ideal pentru a petrece o oră la adăpost.",
+                "en": "Perfect for spending a rainy hour inside."
+              }
+            },
+            {
+              "name": "Angiolina Park",
+              "tip_5lang": {
+                "de": "Die exotischen Pflanzen wirken im Regen satter.",
+                "hu": "Az egzotikus növények színe élénkebb esőben.",
+                "ro": "Plantele exotice par mai vii sub ploaie.",
+                "en": "Exotic plants look more vibrant in the rain."
+              }
+            },
+            {
+              "name": "Port of Opatija",
+              "tip_5lang": {
+                "de": "Beobachten Sie das Meer von einem Hafencafé.",
+                "hu": "Nézze a tengert egy kikötői kávézóból.",
+                "ro": "Priviți marea de la o cafenea din port.",
+                "en": "Watch the sea from a harbor café."
+              }
+            },
+            {
+              "name": "Lungomare Promenade",
+              "tip_5lang": {
+                "de": "Fester Griff am Schirm wegen der Meeresbrise.",
+                "hu": "Tartsa erősen az ernyőt a tengeri szélben.",
+                "ro": "Țineți bine umbrela din cauza vântului.",
+                "en": "Keep a firm grip on your umbrella in the wind."
+              }
+            },
+            {
+              "name": "Slatina Beach",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Café mit Markise für den Abschluss.",
+                "hu": "Keressen egy ponyvás kávézót a záráshoz.",
+                "ro": "Căutați o cafenea cu copertină pentru final.",
+                "en": "Find a café with an awning to end the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für den Lungomare.",
+              "Ein stabiler Taschenschirm ist wegen des Windes wichtig.",
+              "Nutzen Sie die vielen Cafés als Regenschutz-Hubs.",
+              "Die Innenräume der Villen sind die beste Option bei Starkregen.",
+              "Achten Sie auf rutschige Steine auf der Promenade."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a parti sétányhoz.",
+              "Erős vázú esernyőt vigyen a tengeri szél miatt.",
+              "Használja a kávézókat pihenőpontként az eső elől.",
+              "A villák belső terei a legjobb menedékek nagy esőben.",
+              "Vigyázzon a csúszós kövekre a sétányon."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pe faleză.",
+              "O umbrelă rezistentă e vitală din cauza vântului.",
+              "Folosiți cafenelele ca puncte de refugiu.",
+              "Interioarele vilelor sunt cele mai bune opțiuni.",
+              "Atenție la pietrele alunecoase de pe promenadă."
+            ],
+            "en": [
+              "Wear waterproof shoes for the promenade walk.",
+              "A sturdy umbrella is essential due to sea winds.",
+              "Use the numerous cafés as rain shelters.",
+              "The interiors of villas are the best dry options.",
+              "Be careful with slippery stones on the Lungomare."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine frische Brise am Kvarner, die die Sinne weckt. Mittags wärmen wir uns in den prachtvollen Museen und Villen auf. Da die Sonne bereits gegen 16:30 Uhr sinkt, genießen wir das goldene Licht am Hafen etwas früher. Der Abend glänzt durch die festliche Beleuchtung der Parkanlagen und der Slatina.",
+            "hu": "A reggeli friss levegő a Kvarnernél azonnal felébreszt. Délben a múzeumok és villák melegében folytatjuk a felfedezést. Mivel a nap már fél öt körül nyugszik, a kikötő aranyló fényeit korábban élvezhetjük. Az estét a parkok és a Slatina ünnepi díszkivilágítása teszi varázslatossá.",
+            "ro": "Aerul proaspăt de dimineață la Kvarner vă va trezi simțurile. La prânz, ne încălzim în muzeele și vilele somptuoase. Deoarece soarele apune pe la 16:30, ne bucurăm de lumina aurie din port ceva mai devreme. Seara strălucește datorită iluminatului festiv din parcuri și zona Slatina.",
+            "en": "Morning brings a crisp breeze at Kvarner to wake the senses. At noon, we warm up inside the grand museums and villas. Since the sun sets around 4:30 PM, we enjoy the golden light at the harbor earlier. The evening shines with festive lights in the parks and around Slatina."
+          },
+          "stops": [
+            {
+              "name": "Hotel Kvarner",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Gala-Atmosphäre.",
+                "hu": "Élvezze a téli, gáláns hangulatot.",
+                "ro": "Bucurați-vă de atmosfera de gală de iarnă.",
+                "en": "Enjoy the winter gala-like atmosphere."
+              }
+            },
+            {
+              "name": "Maiden with the Seagull",
+              "tip_5lang": {
+                "de": "Warme Kleidung gegen die kalte Meeresbrise.",
+                "hu": "Meleg ruha kötelező a hideg szél miatt.",
+                "ro": "Haine groase pentru briza rece a mării.",
+                "en": "Warm clothes are a must for the cold sea breeze."
+              }
+            },
+            {
+              "name": "Church of Saint James",
+              "tip_5lang": {
+                "de": "Die Kerzen sorgen für wohlige Wärme.",
+                "hu": "A gyertyák meghitt meleget árasztanak.",
+                "ro": "Lumânările oferă o căldură primitoare.",
+                "en": "The candles provide a welcoming warmth."
+              }
+            },
+            {
+              "name": "Juraj Šporer Art Pavilion",
+              "tip_5lang": {
+                "de": "Ein kultureller Stopp im beheizten Gebäude.",
+                "hu": "Kulturális megálló a fűtött épületben.",
+                "ro": "O oprire culturală într-o clădire încălzită.",
+                "en": "A cultural stop in a heated building."
+              }
+            },
+            {
+              "name": "Villa Angiolina",
+              "tip_5lang": {
+                "de": "Erfahren Sie Geschichte ohne zu frieren.",
+                "hu": "Ismerje meg a történelmet fázás nélkül.",
+                "ro": "Aflați istoria fără să vă fie frig.",
+                "en": "Learn history without feeling the cold."
+              }
+            },
+            {
+              "name": "Croatian Museum of Tourism",
+              "tip_5lang": {
+                "de": "Der perfekte Ort für die kälteste Mittagszeit.",
+                "hu": "Tökéletes hely a leghidegebb déli órákra.",
+                "ro": "Locul perfect pentru cea mai rece oră a zilei.",
+                "en": "Perfect place for the coldest midday hours."
+              }
+            },
+            {
+              "name": "Angiolina Park",
+              "tip_5lang": {
+                "de": "Kamelien blühen hier oft schon im Spätwinter.",
+                "hu": "A kaméliák gyakran már késő télen nyílnak.",
+                "ro": "Cameliile înfloresc adesea la sfârșitul iernii.",
+                "en": "Camellias often bloom here in late winter."
+              }
+            },
+            {
+              "name": "Port of Opatija",
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet weite Fernsichten.",
+                "hu": "A tiszta téli levegő távoli kilátást ad.",
+                "ro": "Aerul curat de iarnă oferă vederi îndepărtate.",
+                "en": "Clear winter air offers distant views."
+              }
+            },
+            {
+              "name": "Lungomare Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 16:30.",
+                "hu": "Élvezze a naplementét 16:30 körül.",
+                "ro": "Bucurați-vă de apus în jurul orei 16:30.",
+                "en": "Enjoy the sunset around 4:30 PM."
+              }
+            },
+            {
+              "name": "Slatina Beach",
+              "tip_5lang": {
+                "de": "Bewundern Sie die funkelnde Weihnachtsbeleuchtung.",
+                "hu": "Csodálja meg a szikrázó karácsonyi fényeket.",
+                "ro": "Admirați luminile sclipitoare de Crăciun.",
+                "en": "Admire the sparkling Christmas lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist ratsam.",
+              "Achtung bei Bura-Wind; er ist sehr kalt.",
+              "Die Sonne geht früh unter, planen Sie das ein.",
+              "Viele Hotels bieten Wellness-Optionen für danach.",
+              "Heiße Schokolade in den Villen-Cafés probieren."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a változó hőérzet miatt.",
+              "Vigyázzon a Bóra széllel, nagyon hideg lehet.",
+              "A nap korán nyugszik, tervezze ehhez a napot.",
+              "A szállodák wellness részlegei jó melegedők.",
+              "Kóstolja meg a forró csokit a villa kávézóiban."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru confort termic.",
+              "Atenție la vântul Bura, poate fi foarte rece.",
+              "Soarele apune devreme, planificați din timp.",
+              "Hotelurile oferă opțiuni spa pentru încălzire.",
+              "Încercați ciocolata caldă în cafenelele vilelor."
+            ],
+            "en": [
+              "Dress in layers to manage the temperature.",
+              "Watch out for the Bura wind; it can be very cold.",
+              "The sun sets early, plan your day accordingly.",
+              "Many hotels offer wellness options to warm up.",
+              "Try hot chocolate in the villa cafés."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -642,6 +1190,390 @@
           "Observe helmet rules.",
           "Take enough water."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die Riviera von Opatija auf zwei Rädern. Wir starten am Hafen und radeln durch den schattigen Park Angiolina bis zum Slatina-Strand. Die Meeresbrise ist der perfekte Begleiter für diesen aktiven Vormittag.",
+            "hu": "Fedezze fel az Abbáziai Riviérát két keréken. A kikötőtől indulunk, árnyas parkokon át egészen a Slatina-strandig. A tengeri szellő tökéletes társ ehhez az aktív délelőtthöz.",
+            "ro": "Explorați Riviera Opatija pe două roți. Pornim din port și pedalăm prin parcurile umbrite până la plaja Slatina. Briza mării este partenerul perfect pentru această dimineață activă.",
+            "en": "Explore the Opatija Riviera on two wheels. We start at the port and cycle through shaded parks all the way to Slatina Beach. The sea breeze is the perfect companion for this active morning."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Opatija",
+                "hu": "Opatijai kikötő",
+                "ro": "Portul Opatija",
+                "en": "Port of Opatija"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt für Radtouren.",
+                "hu": "Kiindulópont kerékpártúrákhoz.",
+                "ro": "Punct de plecare pentru ture cu bicicleta.",
+                "en": "Starting point for bike tours."
+              }
+            },
+            {
+              "name": {
+                "de": "Park Angiolina",
+                "hu": "Angiolina park",
+                "ro": "Parcul Angiolina",
+                "en": "Angiolina Park"
+              },
+              "tip_5lang": {
+                "de": "Fahrrad kurz abstellen und spazieren.",
+                "hu": "Tegye le a biciklit és sétáljon.",
+                "ro": "Lăsați bicicleta și plimbați-vă.",
+                "en": "Park your bike and take a walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Angiolina",
+                "hu": "Villa Angiolina",
+                "ro": "Villa Angiolina",
+                "en": "Villa Angiolina"
+              },
+              "tip_5lang": {
+                "de": "Historisches Zentrum besichtigen.",
+                "hu": "Tekintse meg a történelmi központot.",
+                "ro": "Vizitați centrul istoric.",
+                "en": "Visit the historic center."
+              }
+            },
+            {
+              "name": {
+                "de": "Das Mädchen mit der Möwe",
+                "hu": "Leány a sirállyal",
+                "ro": "Fata cu Pescărușul",
+                "en": "Maiden with the Seagull"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp am Meer.",
+                "hu": "Rövid fotómegálló a tengernél.",
+                "ro": "Scurt popas foto la mare.",
+                "en": "Short photo stop by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Lungomare-Promenade",
+                "hu": "Lungomare sétány",
+                "ro": "Promenada Lungomare",
+                "en": "Lungomare Promenade"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht bei Fußgängern auf dem Weg.",
+                "hu": "Vigyázzon a gyalogosokra az úton.",
+                "ro": "Atenție la pietonii de pe drum.",
+                "en": "Watch out for pedestrians on the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Slatina-Strand",
+                "hu": "Slatina-strand",
+                "ro": "Plaja Slatina",
+                "en": "Slatina Beach"
+              },
+              "tip_5lang": {
+                "de": "Verdiente Erfrischung nach der Tour.",
+                "hu": "Megérdemelt felfrissülés a túra után.",
+                "ro": "Răcorire binemeritată după tură.",
+                "en": "Well-deserved refreshment after the tour."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Eis am Hafen",
+                "tip": "Erfrischung zwischendurch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fagylalt a kikötőben",
+                "tip": "Felfrissülés útközben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Înghețată în port",
+                "tip": "Răcorire pe parcurs."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ice cream at the port",
+                "tip": "Refreshment on the way."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kleine Buchten",
+                "tip": "Stopps entlang der Küste.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kis öblök",
+                "tip": "Megállók a part mentén.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mici golfuri",
+                "tip": "Opriri de-a lungul coastei.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Small bays",
+                "tip": "Stops along the coast.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirs Slatina",
+                "tip": "Kleine Andenken kaufen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Slatina szuvenír",
+                "tip": "Vásároljon apró emlékeket."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Suveniruri Slatina",
+                "tip": "Cumpărați mici amintiri."
+              }
+            ],
+            "en": [
+              {
+                "name": "Slatina souvenirs",
+                "tip": "Buy small mementos."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Helmpflicht beachten.",
+              "Genügend Wasser mitnehmen."
+            ],
+            "hu": [
+              "Ügyeljen a sisak használatára.",
+              "Vigyen elég vizet."
+            ],
+            "ro": [
+              "Respectați purtarea căștii.",
+              "Luați destulă apă."
+            ],
+            "en": [
+              "Observe helmet rules.",
+              "Take enough water."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Fahrt beginnt am Hafen, wo wir die Ausrüstung prüfen. Mittags radeln wir vorsichtig durch den Park und zur Villa Angiolina. Nachmittags fordern uns der Wind an der Möwe und der nasse Untergrund am Lungomare heraus. Zum Abschluss wärmen wir uns nach der nassen Tour an der Slatina auf.",
+            "hu": "Az esős tekerés a kikötőben indul, ahol ellenőrizzük a felszerelést. Délben óvatosan haladunk át a parkon a Villa Angiolina felé. Délután a szél és a vizes aszfalt teszi próbára a tudásunkat a sétányon. A túra végén a Slatina egyik fedett helyén melegszünk fel.",
+            "ro": "Plimbarea pe ploaie începe în port, verificând echipamentul. La prânz, pedalăm cu grijă prin parc spre Villa Angiolina. După-amiaza, vântul și asfaltul ud de pe Lungomare ne testează abilitățile. La finalul turei ude, ne încălzim într-un loc acoperit la Slatina.",
+            "en": "The rainy ride starts at the port, checking our gear. At noon, we cycle carefully through the park toward Villa Angiolina. In the afternoon, wind and wet surfaces challenge us on the Lungomare. We finish the wet tour by warming up at a sheltered spot in Slatina."
+          },
+          "stops": [
+            {
+              "name": "Port of Opatija",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen auf nassem Boden.",
+                "hu": "Ellenőrizze a fékeket a vizes talajon.",
+                "ro": "Verificați frânele pe suprafața udă.",
+                "en": "Check your brakes on the wet ground."
+              }
+            },
+            {
+              "name": "Angiolina Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf den kiesigen Wegen im Park.",
+                "hu": "Vigyázzon a kavicsos utakon a parkban.",
+                "ro": "Atenție pe aleile cu pietriș din parc.",
+                "en": "Be careful on the gravel paths in the park."
+              }
+            },
+            {
+              "name": "Villa Angiolina",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach möglich.",
+                "hu": "Rövid megálló az előtető alatt lehetséges.",
+                "ro": "O scurtă oprire sub copertină este posibilă.",
+                "en": "A short stop under the canopy is possible."
+              }
+            },
+            {
+              "name": "Maiden with the Seagull",
+              "tip_5lang": {
+                "de": "Windböen können das Lenken erschweren.",
+                "hu": "A széllökések nehezíthetik a kormányzást.",
+                "ro": "Rafalele de vânt pot îngreuna direcția.",
+                "en": "Wind gusts can make steering difficult."
+              }
+            },
+            {
+              "name": "Lungomare Promenade",
+              "tip_5lang": {
+                "de": "Vermeiden Sie schnelle Kurven auf nassen Steinen.",
+                "hu": "Kerülje a gyors kanyarokat a vizes kövön.",
+                "ro": "Evitați virajele bruște pe pietrele ude.",
+                "en": "Avoid sharp turns on the wet stones."
+              }
+            },
+            {
+              "name": "Slatina Beach",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad an einem trockenen Ort ab.",
+                "hu": "Parkolja le a bringát száraz helyen.",
+                "ro": "Parcați bicicleta într-un loc uscat.",
+                "en": "Park your bike in a dry spot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist unerlässlich.",
+              "Achten Sie auf rutschige Markierungen auf der Straße.",
+              "Halten Sie mehr Abstand zu Fußgängern im Regen.",
+              "Ein Schutzblech verhindert nasse Kleidung von unten.",
+              "Prüfen Sie die Sichtbarkeit Ihrer Beleuchtung."
+            ],
+            "hu": [
+              "Teljes esővédő ruházat elengedhetetlen.",
+              "Vigyázzon a csúszós útburkolati jelekre.",
+              "Tartson nagyobb távolságot a gyalogosoktól.",
+              "A sárvédő megvédi a ruháját a felcsapódó víztől.",
+              "Ellenőrizze a lámpák láthatóságát az esőben."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este esențial.",
+              "Atenție la marcajele rutiere alunecoase.",
+              "Păstrați o distanță mai mare față de pietoni.",
+              "Aripile bicicletei previn udarea hainelor.",
+              "Verificați vizibilitatea luminilor pe ploaie."
+            ],
+            "en": [
+              "Full rain gear is absolutely essential.",
+              "Watch out for slippery road markings.",
+              "Maintain more distance from pedestrians in rain.",
+              "Mudguards will prevent your clothes from getting soaked.",
+              "Check the visibility of your lights in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour startet erfrischend am Hafen unter klarem Himmel. Mittags genießen wir die kühle Luft im Park und radeln an den historischen Villen vorbei. Da es früh dunkel wird, nutzen wir das Nachmittagslicht an der Möwe und auf dem Lungomare optimal aus. Den Tag beenden wir bei der Slatina, bevor die Kälte anzieht.",
+            "hu": "A téli bringázás frissítően indul a kikötőben a tiszta ég alatt. Délben a park hűvös levegőjét élvezzük a történelmi villák mellett elhaladva. Mivel korán sötétedik, a délutáni fényeket a sétányon és a leánynál használjuk ki. A napot a Slatinánál zárjuk, mielőtt beállna az esti fagy.",
+            "ro": "Tura de iarnă începe revigorant în port, sub un cer senin. La prânz, ne bucurăm de aerul rece din parc, trecând pe lângă vilele istorice. Deoarece se întunecă devreme, profităm de lumina după-amiezii pe faleză. Încheiem ziua la Slatina, înainte ca frigul să se intensifice.",
+            "en": "The winter tour starts refreshingly at the port under clear skies. At noon, we enjoy the cool air in the park, cycling past historic villas. Since it gets dark early, we make the most of the afternoon light on the promenade. We finish the day at Slatina before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Port of Opatija",
+              "tip_5lang": {
+                "de": "Thermohandschuhe sind bei Fahrtwind wichtig.",
+                "hu": "A termokesztyű fontos a menetszél miatt.",
+                "ro": "Mănușile termice sunt vitale la viteze mari.",
+                "en": "Thermal gloves are vital against the wind chill."
+              }
+            },
+            {
+              "name": "Angiolina Park",
+              "tip_5lang": {
+                "de": "Gefrorener Tau kann Wege glatt machen.",
+                "hu": "A fagyott harmat csúszóssá teheti az utat.",
+                "ro": "Roua înghețată poate face aleile alunecoase.",
+                "en": "Frozen dew can make the paths slippery."
+              }
+            },
+            {
+              "name": "Villa Angiolina",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für eine kurze Aufwärmpause.",
+                "hu": "Használja a megállót egy rövid melegedésre.",
+                "ro": "Folosiți oprirea pentru a vă încălzi puțin.",
+                "en": "Use the stop for a quick warming break."
+              }
+            },
+            {
+              "name": "Maiden with the Seagull",
+              "tip_5lang": {
+                "de": "Scharfer Wind am Ufer; Ohrenschutz tragen.",
+                "hu": "Éles szél a parton; hordjon fülvédőt.",
+                "ro": "Vânt tăios pe mal; purtați protecții urechi.",
+                "en": "Sharp wind on the shore; wear ear protection."
+              }
+            },
+            {
+              "name": "Lungomare Promenade",
+              "tip_5lang": {
+                "de": "Tiefstehende Sonne kann beim Fahren blenden.",
+                "hu": "Az alacsony nap elvakíthat menet közben.",
+                "ro": "Soarele jos vă poate orbi în timpul mersului.",
+                "en": "The low sun can blind you while riding."
+              }
+            },
+            {
+              "name": "Slatina Beach",
+              "tip_5lang": {
+                "de": "Beleuchtung für die frühe Dämmerung prüfen.",
+                "hu": "Ellenőrizze a lámpákat a korai szürkületben.",
+                "ro": "Verificați luminile pentru amurgul timpuriu.",
+                "en": "Check your lights for the early dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung in Schichten.",
+              "Prüfen Sie den Reifendruck für kalte Temperaturen.",
+              "Ein Schlauchschal schützt Gesicht und Hals.",
+              "Planen Sie die Route so, dass Sie vor 17 Uhr fertig sind.",
+              "Nehmen Sie ein warmes Getränk in einer Thermoskanne mit."
+            ],
+            "hu": [
+              "Viseljen szélálló, réteges ruházatot.",
+              "Ellenőrizze a guminyomást a hidegben.",
+              "A csősál védi az arcot és a nyakat a széltől.",
+              "Tervezze úgy, hogy 17 óra előtt befejezze a túrát.",
+              "Vigyen magával meleg italt termoszban."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, în straturi.",
+              "Verificați presiunea pneurilor la frig.",
+              "Un fular tip tub protejează fața și gâtul.",
+              "Planificați ruta pentru a termina înainte de ora 17.",
+              "Luați o băutură caldă într-un termos."
+            ],
+            "en": [
+              "Wear windproof clothing in multiple layers.",
+              "Check tire pressure for cold temperatures.",
+              "A neck gaiter protects your face and neck.",
+              "Plan your route to finish before 5 PM.",
+              "Carry a warm drink in a thermos flask."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -873,6 +1805,358 @@
           "Watch out for parking fees.",
           "Park early as spots are limited."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Bequeme Tour durch Opatija. Mit dem Auto erreichen wir die wichtigsten Punkte schnell und verbringen mehr Zeit mit Entspannung in den Gärten und am Meer.",
+            "hu": "Kényelmes túra Abbáziában. Autóval gyorsan elérjük a főbb pontokat, így több idő jut a kertekben és a tengerparton való pihenésre.",
+            "ro": "Tur confortabil în Opatija. Cu mașina ajungem rapid la punctele principale, având mai mult timp pentru relaxare în grădini și la mare.",
+            "en": "A comfortable tour through Opatija. By car, we reach the main spots quickly, leaving more time for relaxation in the gardens and by the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Slatina-Strand",
+                "hu": "Slatina-strand",
+                "ro": "Plaja Slatina",
+                "en": "Slatina Beach"
+              },
+              "tip_5lang": {
+                "de": "Parkhaus in der Nähe nutzen.",
+                "hu": "Használja a közeli parkolóházat.",
+                "ro": "Folosiți parcarea din apropiere.",
+                "en": "Use the nearby parking garage."
+              }
+            },
+            {
+              "name": {
+                "de": "Das Mädchen mit der Möwe",
+                "hu": "Leány a sirállyal",
+                "ro": "Fata cu Pescărușul",
+                "en": "Maiden with the Seagull"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang vom Parkplatz.",
+                "hu": "Rövid séta a parkolótól.",
+                "ro": "Scurtă plimbare de la parcare.",
+                "en": "Short walk from the parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Angiolina",
+                "hu": "Villa Angiolina",
+                "ro": "Villa Angiolina",
+                "en": "Villa Angiolina"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Ort für Besichtigungen.",
+                "hu": "Központi hely a városnézéshez.",
+                "ro": "Loc central pentru vizitare.",
+                "en": "Central spot for sightseeing."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Opatija",
+                "hu": "Opatijai kikötő",
+                "ro": "Portul Opatija",
+                "en": "Port of Opatija"
+              },
+              "tip_5lang": {
+                "de": "Schöner Blick auf die Boote.",
+                "hu": "Szép kilátás a hajókra.",
+                "ro": "Vedere frumoasă la bărci.",
+                "en": "Beautiful view of the boats."
+              }
+            },
+            {
+              "name": {
+                "de": "Park Angiolina",
+                "hu": "Angiolina park",
+                "ro": "Parcul Angiolina",
+                "en": "Angiolina Park"
+              },
+              "tip_5lang": {
+                "de": "Entspannung vor der Heimfahrt.",
+                "hu": "Pihenés a hazautazás előtt.",
+                "ro": "Relaxare înainte de plecare.",
+                "en": "Relaxation before driving home."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Lokales Fischrestaurant",
+                "tip": "Frischer Fang des Tages."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi halétterem",
+                "tip": "Friss napi fogás."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurant local de pește",
+                "tip": "Captură proaspătă a zilei."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local fish restaurant",
+                "tip": "Fresh catch of the day."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parkbänke",
+                "tip": "Ruhiger Platz im Schatten.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parki padok",
+                "tip": "Csendes hely az árnyékban.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bănci în parc",
+                "tip": "Loc liniștit la umbră.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Park benches",
+                "tip": "Quiet spot in the shade.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Boutiquen Zentrum",
+                "tip": "Einkaufen in der Stadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Belvárosi butikok",
+                "tip": "Vásárlás a városban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Buticuri în centru",
+                "tip": "Cumpărături în oraș."
+              }
+            ],
+            "en": [
+              {
+                "name": "Center boutiques",
+                "tip": "Shopping in the city."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parkgebühren beachten.",
+              "Früh parken, da Plätze begrenzt sind."
+            ],
+            "hu": [
+              "Ügyeljen a parkolási díjakra.",
+              "Parkoljon korán a kevés hely miatt."
+            ],
+            "ro": [
+              "Atenție la taxele de parcare.",
+              "Parcați devreme, locurile sunt limitate."
+            ],
+            "en": [
+              "Watch out for parking fees.",
+              "Park early as spots are limited."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir zur Slatina, während der Regen die Parkplatzsuche erleichtert. Mittags besuchen wir die Möwe und die Villa Angiolina, wobei das Auto als trockene Basis dient. Nachmittags erkunden wir den Hafen und die Umgebung bequem vom Fahrersitz aus. Den Abend genießen wir entspannt, ohne nass zu werden, bevor wir zum Hotel zurückkehren.",
+            "hu": "Reggel a Slatinához hajtunk, az esőben könnyebb parkolót találni. Délben a leányt és a Villa Angiolinát látogatjuk meg, az autó száraz bázisként szolgál. Délután a kikötőt és környékét fedezzük fel kényelmesen a volán mögül. Az estét nyugodtan élvezzük anélkül, hogy eláznánk a visszaindulás előtt.",
+            "ro": "Dimineața conducem spre Slatina, ploaia făcând parcarea mai ușoară. La prânz vizităm faleza și Villa Angiolina, mașina fiind baza noastră uscată. După-amiaza explorăm portul și împrejurimile confortabil de la volan. Seara ne bucurăm de relaxare fără a ne uda înainte de a reveni la hotel.",
+            "en": "In the morning, we drive to Slatina, where the rain makes finding parking easier. At noon, we visit the Maiden and Villa Angiolina, with the car serving as our dry base. In the afternoon, we explore the harbor and its surroundings comfortably from the driver's seat. We enjoy a dry evening before heading back."
+          },
+          "stops": [
+            {
+              "name": "Slatina Beach",
+              "tip_5lang": {
+                "de": "Parkhaus Slatina bietet trockenen Zugang.",
+                "hu": "A Slatina parkolóház száraz kijutást biztosít.",
+                "ro": "Parcarea Slatina oferă acces la adăpost.",
+                "en": "Slatina parking garage offers dry access."
+              }
+            },
+            {
+              "name": "Maiden with the Seagull",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; Scheibenwischer auf Intervall.",
+                "hu": "Rövid megálló; ablaktörlő szakaszos üzemmódban.",
+                "ro": "Oprire scurtă; ștergătoarele pe interval.",
+                "en": "Short stop; set wipers to interval mode."
+              }
+            },
+            {
+              "name": "Villa Angiolina",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang des Parks.",
+                "hu": "Parkoljon közvetlenül a park bejáratánál.",
+                "ro": "Parcați direct la intrarea în parc.",
+                "en": "Park directly at the entrance of the park."
+              }
+            },
+            {
+              "name": "Port of Opatija",
+              "tip_5lang": {
+                "de": "Gute Sicht auf die Wellen vom Parkplatz.",
+                "hu": "Jó kilátás a hullámokra a parkolóból.",
+                "ro": "Vedere bună la valuri chiar din parcare.",
+                "en": "Good view of the waves from the parking lot."
+              }
+            },
+            {
+              "name": "Angiolina Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regenschirm für den kurzen Weg.",
+                "hu": "Használja az esernyőt a rövid sétához.",
+                "ro": "Folosiți umbrela pentru scurta plimbare.",
+                "en": "Use your umbrella for the short walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützen auf der Küstenstraße.",
+              "Nutzen Sie die Parkhäuser für trockene Übergänge.",
+              "Vermeiden Sie das Parken unter großen, nassen Bäumen.",
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer.",
+              "Die Sicht kann bei starkem Regen eingeschränkt sein."
+            ],
+            "hu": [
+              "Ügyeljen a tócsákra a parti úton.",
+              "Használja a parkolóházakat a száraz átjutáshoz.",
+              "Ne parkoljon nagy, vizes fák alatt.",
+              "Ellenőrizze az ablaktörlők állapotát.",
+              "A látási viszonyok korlátozottak lehetnek esőben."
+            ],
+            "ro": [
+              "Atenție la bălțile de pe drumul de coastă.",
+              "Folosiți parcările supraetajate pentru acces uscat.",
+              "Evitați parcarea sub copaci mari și uzi.",
+              "Verificați starea ștergătoarelor de parbriz.",
+              "Vizibilitatea poate fi redusă în timpul ploii."
+            ],
+            "en": [
+              "Watch out for puddles on the coastal road.",
+              "Use parking garages for dry transitions.",
+              "Avoid parking under large, wet trees.",
+              "Check the condition of your windshield wipers.",
+              "Visibility can be limited during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt zur Slatina bietet tolle Ausblicke auf das winterliche Meer. Mittags parken wir an der Möwe und der Villa Angiolina, wo wir uns im geheizten Auto aufwärmen. Nachmittags besuchen wir den Hafen und genießen das warme Licht der tiefstehenden Sonne. Der Abend endet stimmungsvoll mit einer Fahrt durch die festlich beleuchtete Stadt.",
+            "hu": "A reggeli út a Slatinához nagyszerű kilátást nyújt a téli tengerre. Délben a leánynál és a villánál parkolunk, a fűtött autóban melegedve fel. Délután a kikötőt látogatjuk meg, élvezve az alacsony nap meleg fényeit. Az este hangulatosan zárul egy autózással a kivilágított városon át.",
+            "ro": "Drumul de dimineață spre Slatina oferă vederi superbe spre marea de iarnă. La prânz parcăm lângă faleză și vilă, încălzindu-ne în mașină. După-amiaza vizităm portul și savurăm lumina caldă a soarelui jos. Seara se încheie atmosferic cu o plimbare prin orașul luminat festiv.",
+            "en": "The morning drive to Slatina offers great views of the winter sea. At noon, we park near the Maiden and the villa, warming up in the heated car. In the afternoon, we visit the harbor and enjoy the warm light of the low sun. The evening ends with a drive through the festively lit city."
+          },
+          "stops": [
+            {
+              "name": "Slatina Beach",
+              "tip_5lang": {
+                "de": "Die Sitzheizung macht den Start gemütlich.",
+                "hu": "Az ülésfűtés kényelmessé teszi az indulást.",
+                "ro": "Încălzirea în scaune face pornirea plăcută.",
+                "en": "Seat heating makes the start comfortable."
+              }
+            },
+            {
+              "name": "Maiden with the Seagull",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick bei laufender Heizung.",
+                "hu": "Élvezze a kilátást járó fűtés mellett.",
+                "ro": "Bucurați-vă de vedere cu căldura pornită.",
+                "en": "Enjoy the view with the heater running."
+              }
+            },
+            {
+              "name": "Villa Angiolina",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter leichter zu finden.",
+                "hu": "A parkolóhelyek télen könnyebben elérhetők.",
+                "ro": "Locurile de parcare sunt mai ușor de găsit.",
+                "en": "Parking spots are easier to find in winter."
+              }
+            },
+            {
+              "name": "Port of Opatija",
+              "tip_5lang": {
+                "de": "Klares Licht für Fotos direkt aus dem Auto.",
+                "hu": "Tiszta fények a fotókhoz közvetlenül a kocsiból.",
+                "ro": "Lumină clară pentru poze direct din mașină.",
+                "en": "Clear light for photos directly from the car."
+              }
+            },
+            {
+              "name": "Angiolina Park",
+              "tip_5lang": {
+                "de": "Ein kurzer Winterspaziergang vom nahen Parkplatz.",
+                "hu": "Rövid téli séta a közeli parkolóból.",
+                "ro": "O scurtă plimbare de la parcarea apropiată.",
+                "en": "A short winter walk from the nearby parking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Waschanlage.",
+              "Achten Sie auf Reifglätte auf Brücken und im Schatten.",
+              "Planen Sie mehr Zeit für das Enteisen der Scheiben ein.",
+              "Die Batterie kann bei Kälte schwächeln; prüfen!",
+              "Genießen Sie die weihnachtliche Beleuchtung vom Auto."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Vigyázzon a jégre a hidakon és árnyékos helyen.",
+              "Hagyjon időt a szélvédő jégtelenítésére.",
+              "Az akkumulátor gyengélkedhet a hidegben.",
+              "Élvezze a karácsonyi díszkivilágítást az autóból."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de parbriz.",
+              "Atenție la polei pe poduri și în zone umbrite.",
+              "Alocați timp pentru dezghețarea parbrizului.",
+              "Bateria poate slăbi la frig; verificați-o!",
+              "Bucurați-vă de luminile de Crăciun din mașină."
+            ],
+            "en": [
+              "Check the antifreeze in your washer fluid.",
+              "Watch out for frost on bridges and in shadows.",
+              "Allow more time for defrosting the windshield.",
+              "The battery may weaken in the cold; check it!",
+              "Enjoy the Christmas lights from your car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1104,6 +2388,358 @@
           "Check schedule online.",
           "Have small change ready for the bus."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den lokalen Bus, um Opatija entspannt zu erkunden. Die Linie 32 verbindet alle wichtigen Orte an der Riviera.",
+            "hu": "Használja a helyi buszokat Opatija nyugodt felfedezéséhez. A 32-es járat összeköti a riviéra összes fontos helyét.",
+            "ro": "Folosiți autobuzele locale pentru a explora relaxat Opatija. Linia 32 leagă toate locurile importante de pe rivieră.",
+            "en": "Use local buses to explore Opatija in a relaxed way. Line 32 connects all the important spots on the riviera."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Slatina-Strand",
+                "hu": "Slatina-strand",
+                "ro": "Plaja Slatina",
+                "en": "Slatina Beach"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Busknotenpunkt.",
+                "hu": "Központi buszcsomópont.",
+                "ro": "Nod central de autobuz.",
+                "en": "Central bus hub."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche des Heiligen Jakob",
+                "hu": "Szent Jakab-templom",
+                "ro": "Biserica Sfântul Iacob",
+                "en": "Church of Saint James"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle.",
+                "hu": "Rövid séta a megállótól.",
+                "ro": "Scurtă plimbare de la stație.",
+                "en": "Short walk from the stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Angiolina",
+                "hu": "Villa Angiolina",
+                "ro": "Villa Angiolina",
+                "en": "Villa Angiolina"
+              },
+              "tip_5lang": {
+                "de": "Einfach erreichbar mit Linie 32.",
+                "hu": "Könnyen elérhető a 32-es busszal.",
+                "ro": "Ușor accesibil cu linia 32.",
+                "en": "Easily accessible by bus line 32."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Opatija",
+                "hu": "Opatijai kikötő",
+                "ro": "Portul Opatija",
+                "en": "Port of Opatija"
+              },
+              "tip_5lang": {
+                "de": "Schöner Startpunkt für den Hafen.",
+                "hu": "Szép kezdőpont a kikötőhöz.",
+                "ro": "Punct frumos de start spre port.",
+                "en": "Nice starting point for the port."
+              }
+            },
+            {
+              "name": {
+                "de": "Lungomare-Promenade",
+                "hu": "Lungomare sétány",
+                "ro": "Promenada Lungomare",
+                "en": "Lungomare Promenade"
+              },
+              "tip_5lang": {
+                "de": "Zurück zum Zentrum spazieren.",
+                "hu": "Sétáljon vissza a központba.",
+                "ro": "Plimbați-vă înapoi spre centru.",
+                "en": "Walk back towards the center."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bäckerei am Busbahnhof",
+                "tip": "Frische Burek probieren."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pékség a buszpályaudvarnál",
+                "tip": "Kóstolja meg a friss bureket."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brutărie lângă autogară",
+                "tip": "Încercați burek proaspăt."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bakery by the bus station",
+                "tip": "Try fresh burek."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hafenbänke",
+                "tip": "Zusehen, wie die Zeit vergeht.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötői padok",
+                "tip": "Nézze, ahogy telik az idő.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bănci în port",
+                "tip": "Priviți cum trece timpul.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Port benches",
+                "tip": "Watch time go by.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Zeitungskiosk",
+                "tip": "Lokale Postkarten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Újságos",
+                "tip": "Helyi képeslapok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chioșc de ziare",
+                "tip": "Vederi locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Newsstand",
+                "tip": "Local postcards."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Fahrplan online prüfen.",
+              "Kleingeld für den Bus bereithalten."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet online.",
+              "Legyen aprópénze a buszhoz."
+            ],
+            "ro": [
+              "Verificați orarul online.",
+              "Pregătiți mărunțiș pentru autobuz."
+            ],
+            "en": [
+              "Check schedule online.",
+              "Have small change ready for the bus."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens nehmen wir den Bus zur Slatina und bleiben im Wartehäuschen trocken. Mittags führt uns der Weg zur Kirche und zur Villa Angiolina, wobei wir die kurzen Strecken flink überbrücken. Nachmittags nutzen wir den Transit zum Hafen und beobachten den Regen aus dem Busfenster. Der Tag endet mit einer entspannten Rückfahrt im warmen Bus.",
+            "hu": "Reggel busszal megyünk a Slatinához, szárazon maradva a váróban. Délben a templomhoz és a Villa Angiolinához vezet az utunk, gyorsan átvészelve a kinti szakaszokat. Délután a kikötő felé vesszük az irányt, az ablakból nézve az esőt. A nap egy pihentető utazással zárul a meleg buszon.",
+            "ro": "Dimineața luăm autobuzul spre Slatina, stând la adăpost în stație. La prânz mergem spre biserică și Villa Angiolina, parcurgând rapid distanțele scurte. După-amiaza folosim transportul spre port, privind ploaia de la fereastră. Ziua se încheie cu o călătorie relaxantă în autobuzul cald.",
+            "en": "In the morning, we take the bus to Slatina and stay dry in the shelter. At noon, we head to the church and Villa Angiolina, quickly covering the short distances. In the afternoon, we use transit to the port, watching the rain from the window. The day ends with a relaxing ride back on a warm bus."
+          },
+          "stops": [
+            {
+              "name": "Slatina Beach",
+              "tip_5lang": {
+                "de": "Das zentrale Bus-Terminal bietet Regenschutz.",
+                "hu": "A központi buszváró védelmet nyújt az esőtől.",
+                "ro": "Terminalul central oferă protecție contra ploii.",
+                "en": "The central bus terminal provides rain shelter."
+              }
+            },
+            {
+              "name": "Church of Saint James",
+              "tip_5lang": {
+                "de": "Haltestelle in unmittelbarer Nähe zum Eingang.",
+                "hu": "A megálló közvetlenül a bejárat mellett van.",
+                "ro": "Stația se află în imediata apropiere a intrării.",
+                "en": "The stop is located very close to the entrance."
+              }
+            },
+            {
+              "name": "Villa Angiolina",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Weg durch den befestigten Park.",
+                "hu": "Használja a kiépített utat a parkon át.",
+                "ro": "Folosiți aleile pavate prin parc.",
+                "en": "Use the paved paths through the park."
+              }
+            },
+            {
+              "name": "Port of Opatija",
+              "tip_5lang": {
+                "de": "Vom Bus aus hat man einen tollen Hafenblick.",
+                "hu": "A buszból remek kilátás nyílik a kikötőre.",
+                "ro": "Din autobuz aveți o vedere superbă spre port.",
+                "en": "You get a great view of the port from the bus."
+              }
+            },
+            {
+              "name": "Lungomare Promenade",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte entfernt.",
+                "hu": "A megálló csak néhány lépésre található.",
+                "ro": "Stația este la doar câțiva pași distanță.",
+                "en": "The stop is just a few steps away."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan der Linie 32 online.",
+              "Halten Sie Ihr Ticket für schnelles Einsteigen bereit.",
+              "Tragen Sie eine Regenjacke für den Weg zur Haltestelle.",
+              "Suchen Sie sich einen Fensterplatz für die Aussicht.",
+              "Achten Sie auf rutschige Böden in den Bussen."
+            ],
+            "hu": [
+              "Ellenőrizze a 32-es busz menetrendjét online.",
+              "Készítse elő a jegyét a gyors felszálláshoz.",
+              "Viseljen esőkabátot a megállóig tartó úton.",
+              "Keressen ablak melletti helyet a kilátáshoz.",
+              "Vigyázzon a csúszós padlóra a buszokon."
+            ],
+            "ro": [
+              "Verificați online programul liniei 32.",
+              "Pregătiți biletul pentru o îmbarcare rapidă.",
+              "Purtați o pelerină până la stația de autobuz.",
+              "Căutați un loc la fereastră pentru priveliște.",
+              "Atenție la podelele alunecoase din autobuze."
+            ],
+            "en": [
+              "Check the Line 32 schedule online before going.",
+              "Have your ticket ready for quick boarding.",
+              "Wear a raincoat for the walk to the stop.",
+              "Find a window seat to enjoy the view.",
+              "Be careful with slippery floors on the buses."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bringt uns der Bus zur winterlichen Slatina, wobei wir die Heizung genießen. Mittags besuchen wir die Kirche und die Villa Angiolina und tauchen in die festliche Stimmung ein. Nachmittags fahren wir zum Hafen und erleben den frühen Sonnenuntergang durch die großen Panoramafenster. Der Abend schließt mit einer gemütlichen Fahrt durch die beleuchtete Küstenstraße ab.",
+            "hu": "Reggel a busz a téli Slatinához visz, élvezve a benti fűtést. Délben a templomot és a Villa Angiolinát látogatjuk meg, elmerülve az ünnepi hangulatban. Délután a kikötőhöz utazunk, a busz nagy ablakain át nézve a korai naplementét. Az este egy hangulatos utazással zárul a kivilágított parti úton.",
+            "ro": "Dimineața autobuzul ne duce la Slatina de iarnă, savurând căldura. La prânz vizităm biserica și Villa Angiolina, intrând în spiritul festiv. După-amiaza mergem la port și vedem apusul timpuriu prin ferestrele mari. Seara se încheie cu o călătorie plăcută pe drumul de coastă iluminat.",
+            "en": "In the morning, the bus takes us to wintery Slatina while we enjoy the heater. At noon, we visit the church and Villa Angiolina, soaking in the festive mood. In the afternoon, we head to the port and watch the early sunset through the large windows. The evening concludes with a ride along the lit coastal road."
+          },
+          "stops": [
+            {
+              "name": "Slatina Beach",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut beheizt.",
+                "hu": "A buszok télen jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite iarna.",
+                "en": "The buses are well-heated during winter."
+              }
+            },
+            {
+              "name": "Church of Saint James",
+              "tip_5lang": {
+                "de": "Kurze Wege minimieren die Zeit in der Kälte.",
+                "hu": "A rövid út csökkenti a hidegben töltött időt.",
+                "ro": "Drumul scurt reduce timpul petrecut în frig.",
+                "en": "Short walks minimize time spent in the cold."
+              }
+            },
+            {
+              "name": "Villa Angiolina",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um sich zwischendurch aufzuwärmen.",
+                "hu": "Használja a buszt a közbeni felmelegedésre.",
+                "ro": "Folosiți autobuzul pentru a vă încălzi pe parcurs.",
+                "en": "Use the bus to warm up between stops."
+              }
+            },
+            {
+              "name": "Port of Opatija",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne bietet tolle Fotomotive.",
+                "hu": "Az alacsony nap remek fotótémákat kínál.",
+                "ro": "Soarele jos oferă motive superbe pentru poze.",
+                "en": "The low winter sun offers great photo ops."
+              }
+            },
+            {
+              "name": "Lungomare Promenade",
+              "tip_5lang": {
+                "de": "Fahren Sie in der Dämmerung für die Lichtershow.",
+                "hu": "Utazzon szürkületben a fények látványáért.",
+                "ro": "Călătoriți la amurg pentru spectacolul de lumini.",
+                "en": "Travel at dusk to see the city lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten für mögliche Winterverspätungen ein.",
+              "Die Busse sind am späten Nachmittag oft leerer.",
+              "Genießen Sie die Aussicht auf die Adria im Winterlicht.",
+              "Tragen Sie warme Kleidung für die Wartezeiten.",
+              "Die Linie 32 ist ideal für die gesamte Küste."
+            ],
+            "hu": [
+              "Tervezzen plusz időt az esetleges téli késésekre.",
+              "A buszok késő délután gyakran üresebbek.",
+              "Élvezze az Adria látványát a téli fényekben.",
+              "Viseljen meleg ruhát a várakozási időre.",
+              "A 32-es járat ideális a teljes partvidékhez."
+            ],
+            "ro": [
+              "Alocați timp suplimentar pentru eventuale întârzieri.",
+              "Autobuzele sunt adesea mai goale după-amiaza.",
+              "Savurați vederea spre marea Adriatcă în lumină.",
+              "Purtați haine groase pentru timpul de așteptare.",
+              "Linia 32 este ideală pentru întreaga coastă."
+            ],
+            "en": [
+              "Allow extra time for potential winter delays.",
+              "Buses are often less crowded in the late afternoon.",
+              "Enjoy the view of the Adriatic in winter light.",
+              "Wear warm clothes for the waiting times at stops.",
+              "Line 32 is ideal for exploring the whole coast."
+            ]
+          }
+        }
       }
     }
   },

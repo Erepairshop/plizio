@@ -366,6 +366,514 @@
           "Visit the Sea Organ at different tide levels for various sounds.",
           "Use the Barkajoli boats for a short crossing to the mainland."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie die venezianischen Tore und die historischen Plätze der Altstadt, bevor Sie die Kathedrale besichtigen. Mittags schlendern Sie über das antike Forum und bewundern die einzigartige Architektur von St. Donatus. Am Nachmittag genießen Sie die modernen Klänge der Meeresorgel direkt an der Adria. Den Abend lassen Sie bei den tanzenden Lichtern des Sonnenplatzes ausklingen.",
+            "hu": "Reggel a velencei kapuk és az óváros történelmi tereinek felfedezésével kezdünk, majd a katedrálist látogatjuk meg. Délben az ókori fórumon sétálunk és megcsodáljuk a Szent Donát-templom egyedi formáját. Délután a tengeri orgona különleges dallamait élvezzük közvetlenül az Adria partján. Az estét a Nap köszöntése installáció táncoló fényei között zárjuk.",
+            "ro": "Dimineața explorați porțile venețiene și piețele istorice ale orașului vechi înainte de a vizita catedrala. La prânz vă plimbați prin forumul antic și admirați arhitectura unică a bisericii Sf. Donat. După-amiaza vă bucurați de sunetele moderne ale Orgii mării chiar pe malul Adriaticii. Seara se încheie cu luminile dansante ale instalației Salutul Soarelui.",
+            "en": "Morning starts with exploring the Venetian gates and historical squares before visiting the cathedral. At midday, stroll through the ancient Forum and admire the unique architecture of St. Donatus. In the afternoon, enjoy the modern sounds of the Sea Organ right on the Adriatic shore. End the day among the dancing lights of the Greeting to the Sun installation."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Landtor",
+                "hu": "Szárazföldi kapu",
+                "ro": "Poarta Terrei Ferma",
+                "en": "Land Gate"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf den venezianischen Markuslöwen über dem zentralen Bogen.",
+                "hu": "Keresse a velencei Szent Márk-oroszlánt a középső ív felett.",
+                "ro": "Căutați leul venețian al Sfântului Marcu deasupra arcului central.",
+                "en": "Look for the Venetian Lion of St. Mark above the central arch."
+              }
+            },
+            {
+              "name": {
+                "de": "Platz der fünf Brunnen",
+                "hu": "Öt kút tere",
+                "ro": "Piața celor cinci fântâni",
+                "en": "Five Wells Square"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie auf die Stadtmauer im Queen Jelena Madijevka Park direkt daneben.",
+                "hu": "Menjen fel a városfalra a közvetlenül mellette lévő Jelena Madijevka királyné parkban.",
+                "ro": "Urcați pe zidurile orașului în parcul Regina Jelena Madijevka de alături.",
+                "en": "Climb up to the city walls in the Queen Jelena Madijevka Park right next to it."
+              }
+            },
+            {
+              "name": {
+                "de": "Volksplatz (Narodni trg)",
+                "hu": "Nép tere (Narodni trg)",
+                "ro": "Piața Poporului",
+                "en": "People's Square"
+              },
+              "tip_5lang": {
+                "de": "Der Uhrturm ist der ideale Treffpunkt für Einheimische.",
+                "hu": "Az óratorony a helyiek kedvelt találkozóhelye.",
+                "ro": "Turnul cu ceas este locul ideal de întâlnire pentru localnici.",
+                "en": "The clock tower is the ideal meeting point for locals."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale der Heiligen Anastasia",
+                "hu": "Szent Anasztázia-székesegyház",
+                "ro": "Catedrala Sfânta Anastasia",
+                "en": "Cathedral of St. Anastasia"
+              },
+              "tip_5lang": {
+                "de": "Erklimmen Sie den Glockenturm für den besten Blick über die Altstadt.",
+                "hu": "Másszon fel a harangtoronyba a legjobb óvárosi panorámáért.",
+                "ro": "Urcați în clopotniță pentru cea mai bună priveliște asupra orașului vechi.",
+                "en": "Climb the bell tower for the best view over the old town."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Donatus",
+                "hu": "Szent Donát-templom",
+                "ro": "Biserica Sfântul Donat",
+                "en": "Church of St. Donatus"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die römischen Steine, die im Fundament verbaut wurden.",
+                "hu": "Figyelje meg az alapzatba beépített római köveket.",
+                "ro": "Observați pietrele romane folosite în fundația bisericii.",
+                "en": "Note the Roman stones built into the church's foundation."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Forum",
+                "hu": "Római fórum",
+                "ro": "Forumul Roman",
+                "en": "Roman Forum"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie die Schandsäule, die noch heute auf dem Platz steht.",
+                "hu": "Keresse a szégyenoszlopot, amely ma is a téren áll.",
+                "ro": "Căutați stâlpul infamiei care încă se află în piață.",
+                "en": "Find the pillar of shame that still stands in the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Meeresorgel",
+                "hu": "Tengeri orgona",
+                "ro": "Orga mării",
+                "en": "Sea Organ"
+              },
+              "tip_5lang": {
+                "de": "Setzen Sie sich auf die Stufen und lauschen Sie den Wellenmelodien.",
+                "hu": "Üljön le a lépcsőkre és hallgassa a hullámok dallamát.",
+                "ro": "Așezați-vă pe trepte și ascultați melodiile create de valuri.",
+                "en": "Sit on the steps and listen to the melodies created by the waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Gruß an die Sonne",
+                "hu": "A Nap köszöntése",
+                "ro": "Salutul Soarelui",
+                "en": "Greeting to the Sun"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie nach Sonnenuntergang zurück, um das Lichtspiel zu sehen.",
+                "hu": "Jöjjön vissza naplemente után a fényjáték megtekintéséhez.",
+                "ro": "Reveniți după apus pentru a vedea spectacolul de lumini.",
+                "en": "Come back after sunset to see the light show."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Maraschino Likör",
+                "tip": "Probieren Sie den berühmten Kirschlikör aus Zadar, der seit dem 16. Jahrhundert hergestellt wird."
+              },
+              {
+                "name": "Konoba Skoblar",
+                "tip": "Traditionelle dalmatinische Küche direkt am Platz der fünf Brunnen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Maraschino likőr",
+                "tip": "Kóstolja meg a híres zárai meggylikőrt, amelyet a 16. század óta készítenek."
+              },
+              {
+                "name": "Konoba Skoblar",
+                "tip": "Hagyományos dalmát konyha közvetlenül az Öt kút tere mellett."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lichior Maraschino",
+                "tip": "Gustați celebrul lichior de cireșe din Zadar, produs încă din secolul al XVI-lea."
+              },
+              {
+                "name": "Konoba Skoblar",
+                "tip": "Bucătărie tradițională dalmată chiar lângă Piața celor cinci fântâni."
+              }
+            ],
+            "en": [
+              {
+                "name": "Maraschino Liqueur",
+                "tip": "Try the famous Zadar cherry liqueur, produced since the 16th century."
+              },
+              {
+                "name": "Konoba Skoblar",
+                "tip": "Traditional Dalmatian cuisine right next to the Five Wells Square."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Park Perivoj Vladimira Nazora",
+                "tip": "Ein schattiger Rückzugsort oberhalb der Stadtmauer.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Zadar Riva am Abend",
+                "tip": "Der perfekte Ort für den laut Hitchcock schönsten Sonnenuntergang der Welt.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vladimira Nazora park",
+                "tip": "Árnyas menedék a városfalak felett.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Zárai Riva este",
+                "tip": "Hitchcock szerint itt látható a világ legszebb naplementéje.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul Perivoj Vladimira Nazora",
+                "tip": "Un refugiu umbros deasupra zidurilor orașului.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Riva din Zadar seara",
+                "tip": "Locul perfect pentru cel mai frumos apus din lume, conform lui Hitchcock.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Vladimira Nazora Park",
+                "tip": "A shaded retreat above the city walls.",
+                "emoji": "🌿"
+              },
+              {
+                "name": "Zadar Riva at evening",
+                "tip": "The perfect spot for what Hitchcock called the world's most beautiful sunset.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Zadar Markt",
+                "tip": "Frischer Fisch und lokaler Paski-Käse direkt von den Bauern."
+              },
+              {
+                "name": "Pag-Spitze",
+                "tip": "Handgefertigte Souvenirs von der nahegelegenen Insel Pag."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Zárai piac",
+                "tip": "Friss hal és helyi pagi sajt közvetlenül a termelőktől."
+              },
+              {
+                "name": "Pagi csipke",
+                "tip": "Kézzel készített szuvenírek a közeli Pag-szigetről."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața din Zadar",
+                "tip": "Pește proaspăt și brânză locală de Pag direct de la producători."
+              },
+              {
+                "name": "Dantelă de Pag",
+                "tip": "Suveniruri lucrate manual de pe insula vecină Pag."
+              }
+            ],
+            "en": [
+              {
+                "name": "Zadar Market",
+                "tip": "Fresh fish and local Pag cheese directly from the farmers."
+              },
+              {
+                "name": "Pag Lace",
+                "tip": "Handmade souvenirs from the nearby island of Pag."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe, da das Pflaster in der Altstadt oft glatt ist.",
+              "Die meisten Sehenswürdigkeiten befinden sich auf der Halbinsel und sind gut zu Fuß erreichbar.",
+              "Besuchen Sie die Meeresorgel bei unterschiedlichen Gezeiten für verschiedene Klänge.",
+              "Nutzen Sie die Barkajoli-Boote für eine kurze Überfahrt zum Festland."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt, mert az óváros kövei gyakran csúszósak.",
+              "A legtöbb látnivaló a félszigeten található és gyalogosan könnyen elérhető.",
+              "Látogassa meg a tengeri orgonát különböző napszakokban az eltérő dallamokért.",
+              "Használja a Barkajoli csónakokat egy rövid átkeléshez a szárazföldre."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă, deoarece pavajul din orașul vechi este adesea alunecos.",
+              "Majoritatea obiectivelor se află pe peninsulă și sunt ușor accesibile pe jos.",
+              "Vizitați Orga mării în momente diferite ale fluxului pentru sunete variate.",
+              "Folosiți bărcile Barkajoli pentru o traversare scurtă către partea continentală."
+            ],
+            "en": [
+              "Wear comfortable shoes as the paving stones in the old town are often slippery.",
+              "Most sights are located on the peninsula and are easily reachable on foot.",
+              "Visit the Sea Organ at different tide levels for various sounds.",
+              "Use the Barkajoli boats for a short crossing to the mainland."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Landtor mit Regenschirm. Suchen Sie mittags Schutz in St. Donatus. Nachmittags ist das römische Forum rutschig, aber abends klingt die Meeresorgel bei starkem Wellengang besonders dramatisch.",
+            "hu": "Kezdje a Szárazföldi kapunál esernyővel. Délben keressen menedéket a Szent Donát-templomban. Délután a Fórum kövei csúszósak, de este a Tengeri Orgona viharos hangja lenyűgöző a hullámoktól.",
+            "ro": "Începeți la Poarta Terestră cu umbrele. La prânz, adăpostiți-vă în Sf. Donat. După-amiaza, Forumul Roman este alunecos, dar seara Orga Mării sună dramatic din cauza valurilor furtunoase.",
+            "en": "Start at the Land Gate with umbrellas. Seek shelter in St. Donatus by midday. Afternoon rain makes the Roman Forum slippery, but the evening at the Sea Organ is dramatic with stormy waves."
+          },
+          "stops": [
+            {
+              "name": "Land Gate",
+              "tip_5lang": {
+                "de": "Seien Sie vorsichtig mit dem Regenschirm im Torbogen.",
+                "hu": "Óvatosan az esernyővel a kapu boltíve alatt.",
+                "ro": "Aveți grijă cu umbrela sub arcada porții.",
+                "en": "Be careful with your umbrella under the archway."
+              }
+            },
+            {
+              "name": "Five Wells Square",
+              "tip_5lang": {
+                "de": "Die Steine um die Brunnen sind bei Nässe extrem rutschig.",
+                "hu": "A kutak körüli kövek nedvesen nagyon csúszósak.",
+                "ro": "Pietrele din jurul fântânilor sunt foarte alunecoase.",
+                "en": "The stones around the wells are very slippery when wet."
+              }
+            },
+            {
+              "name": "People's Square",
+              "tip_5lang": {
+                "de": "Trinken Sie hier einen Kaffee drinnen und warten Sie den Regen ab.",
+                "hu": "Igyon egy kávét bent, és várja meg, amíg eláll az eső.",
+                "ro": "Beți o cafea înăuntru și așteptați să se oprească ploaia.",
+                "en": "Grab a coffee indoors here and wait out the rain."
+              }
+            },
+            {
+              "name": "Cathedral of St. Anastasia",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um sich vor einem Schauer zu verstecken.",
+                "hu": "Kiváló hely, hogy elrejtőzzön egy zápor elől.",
+                "ro": "Un loc excelent pentru a vă ascunde de o ploaie torențială.",
+                "en": "A great place to hide from a sudden downpour."
+              }
+            },
+            {
+              "name": "Church of St. Donatus",
+              "tip_5lang": {
+                "de": "Das dunkle Innere ist bei Regenwetter besonders stimmungsvoll.",
+                "hu": "A sötét belső tér esős időben különösen hangulatos.",
+                "ro": "Interiorul întunecat este foarte atmosferic pe timp de ploaie.",
+                "en": "The dark interior is especially atmospheric in rainy weather."
+              }
+            },
+            {
+              "name": "Roman Forum",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen zwischen den antiken Ruinen.",
+                "hu": "Vigyázzon a tócsákra az ókori romok között.",
+                "ro": "Atenție la bălțile dintre ruinele antice.",
+                "en": "Watch out for puddles between the ancient ruins."
+              }
+            },
+            {
+              "name": "Sea Organ",
+              "tip_5lang": {
+                "de": "Raues Meer sorgt für die lautesten, tiefsten Töne.",
+                "hu": "A viharos tenger adja a leghangosabb, legmélyebb hangokat.",
+                "ro": "Marea agitată creează cele mai puternice și profunde sunete.",
+                "en": "Rough seas produce the loudest, deepest sounds here."
+              }
+            },
+            {
+              "name": "Greeting to the Sun",
+              "tip_5lang": {
+                "de": "Bei starkem Regen sind die Lichteffekte weniger sichtbar.",
+                "hu": "Szakadó esőben a fényeffektusok kevésbé láthatóak.",
+                "ro": "Efectele de lumină sunt mai puțin vizibile pe ploaie abundentă.",
+                "en": "Light effects are less visible during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie rutschfeste Schuhe, da der Kalkstein extrem glatt wird.",
+              "Ein starker Regenschirm ist wegen der Küstenwinde unerlässlich.",
+              "Nutzen Sie die vielen Kirchen im Zentrum als trockene Pausen.",
+              "Das Meer ist bei Regen aufgewühlt, was der Meeresorgel Kraft verleiht.",
+              "Vermeiden Sie es, zu nah am Rand der Promenade zu stehen."
+            ],
+            "hu": [
+              "Viseljen csúszásgátló cipőt, mert a mészkő nagyon síkos lesz.",
+              "Erős esernyőre lesz szükség a parti szelek miatt.",
+              "Használja ki a központ templomait száraz pihenőként.",
+              "Esőben a tenger viharos, ami erősíti a Tengeri Orgona hangját.",
+              "Ne álljon túl közel a parti sétány széléhez."
+            ],
+            "ro": [
+              "Purtați încălțăminte antiderapantă, calcarul devine foarte alunecos.",
+              "O umbrelă robustă este esențială din cauza vânturilor de coastă.",
+              "Folosiți numeroasele biserici din centru ca opriri uscate.",
+              "Marea este agitată pe ploaie, dând putere Orgii Mării.",
+              "Evitați să stați prea aproape de marginea falezei."
+            ],
+            "en": [
+              "Wear non-slip shoes as the limestone paving gets extremely slick.",
+              "A sturdy umbrella is essential due to the coastal winds.",
+              "Use the many churches in the center as dry rest stops.",
+              "The sea is choppy during rain, making the Sea Organ much louder.",
+              "Avoid standing too close to the edge of the promenade."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frischer Wintermorgen am Landtor. Wärmen Sie sich mittags in St. Donatus auf. Nachmittags steht die Sonne tief über dem römischen Forum. Erleben Sie den berühmten Zadar-Sonnenuntergang früh an der Meeresorgel.",
+            "hu": "Csípős téli reggel a Szárazföldi kapunál. Délben melegedjen fel a Szent Donát-templomban. Délután a nap alacsonyan süt a Fórumon. Nézze meg a híres naplementét korán a Tengeri Orgonánál.",
+            "ro": "Dimineață de iarnă la Poarta Terestră. La prânz, încălziți-vă în Sf. Donat. După-amiaza, soarele apune peste Forumul Roman. Prindeți faimosul apus de soare devreme la Orga Mării.",
+            "en": "Crisp winter morning at the Land Gate. Warm up inside St. Donatus by noon. The afternoon sun sits low over the Roman Forum. Catch the famous Zadar sunset early at the Sea Organ."
+          },
+          "stops": [
+            {
+              "name": "Land Gate",
+              "tip_5lang": {
+                "de": "Tolles Morgenlicht für klare Winterfotos.",
+                "hu": "Remek reggeli fények a tiszta téli fotókhoz.",
+                "ro": "Lumină excelentă de dimineață pentru fotografii de iarnă.",
+                "en": "Great morning light for crisp winter photos."
+              }
+            },
+            {
+              "name": "Five Wells Square",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten, leeren Platz ohne Touristenmassen.",
+                "hu": "Élvezze a tágas, üres teret turistatömegek nélkül.",
+                "ro": "Bucurați-vă de piața goală, fără aglomerația de turiști.",
+                "en": "Enjoy the wide, empty square without the tourist crowds."
+              }
+            },
+            {
+              "name": "People's Square",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz in der Sonne für einen warmen Kaffee.",
+                "hu": "Keressen egy napos helyet egy meleg kávéhoz.",
+                "ro": "Găsiți un loc la soare pentru o cafea caldă.",
+                "en": "Find a spot in the sun for a warm coffee."
+              }
+            },
+            {
+              "name": "Cathedral of St. Anastasia",
+              "tip_5lang": {
+                "de": "Das Innere kann im Winter recht kühl sein, Jacke anbehalten.",
+                "hu": "Belül télen elég hűvös lehet, hagyja magán a kabátot.",
+                "ro": "Interiorul poate fi destul de rece, păstrați geaca pe voi.",
+                "en": "The interior can be quite chilly in winter, keep your coat on."
+              }
+            },
+            {
+              "name": "Church of St. Donatus",
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen gut vor dem kalten Bora-Wind.",
+                "hu": "A vastag falak jól védenek a hideg bóra szél ellen.",
+                "ro": "Pereții groși protejează bine de vântul rece Bora.",
+                "en": "The thick walls offer great protection from the cold bura wind."
+              }
+            },
+            {
+              "name": "Roman Forum",
+              "tip_5lang": {
+                "de": "Im Winter werfen die Säulen wunderschöne, lange Schatten.",
+                "hu": "Télen az oszlopok gyönyörű, hosszú árnyékokat vetnek.",
+                "ro": "Iarna, coloanele aruncă umbre lungi și frumoase.",
+                "en": "In winter, the pillars cast beautiful, long shadows."
+              }
+            },
+            {
+              "name": "Sea Organ",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist bereits gegen 16:30 Uhr.",
+                "hu": "A naplemente már 16:30 körül van.",
+                "ro": "Apusul soarelui are loc deja în jurul orei 16:30.",
+                "en": "Sunset is early, usually around 16:30."
+              }
+            },
+            {
+              "name": "Greeting to the Sun",
+              "tip_5lang": {
+                "de": "Beginnt direkt nach dem frühen Sonnenuntergang zu leuchten.",
+                "hu": "Közvetlenül a korai naplemente után kezd el világítani.",
+                "ro": "Începe să strălucească imediat după apusul timpuriu.",
+                "en": "Starts glowing right after the early winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebellook, der kalte Bora-Wind ist stark.",
+              "Planen Sie Ihr Ende früh, da die Sonne schon um 16:30 untergeht.",
+              "Einige kleine Geschäfte können Winterpausen machen.",
+              "Genießen Sie die leeren Straßen der Altstadt ohne Gedränge.",
+              "Trinken Sie heißen Tee in den Cafés, um sich aufzuwärmen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a hideg bóra szél nagyon erős lehet.",
+              "Tervezzen korai befejezést, a nap már 16:30-kor lenyugszik.",
+              "Néhány kisebb üzlet téli szünetet tarthat.",
+              "Élvezze az óváros üres utcáit a nyári tömeg nélkül.",
+              "Igyon forró teát a kávézókban, hogy felmelegedjen."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, vântul rece Bora poate fi foarte puternic.",
+              "Planificați să terminați devreme, soarele apune la 16:30.",
+              "Unele magazine mici pot fi închise pentru pauza de iarnă.",
+              "Bucurați-vă de străzile goale ale orașului vechi.",
+              "Beți un ceai fierbinte în cafenele pentru a vă încălzi."
+            ],
+            "en": [
+              "Dress in layers, the cold bura wind from the mountains is fierce.",
+              "Plan to finish early as the sun sets around 16:30.",
+              "Be aware that some small souvenir shops may take a winter break.",
+              "Enjoy the beautifully empty streets of the Old Town.",
+              "Stop for a hot tea or coffee to warm up during your walk."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -601,6 +1109,362 @@
           "The route is mostly flat and suitable for all fitness levels.",
           "In summer, make sure to have adequate sun protection on the open promenades."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour führt Sie entlang der Küste von Zadar. Beginnen Sie an der Riva und radeln Sie zum beliebten Kolovare Strand für eine Erfrischung. Weiter geht es durch das ruhige Arbanasi Viertel bis zum modernen Hafen Gazenica. Kehren Sie schließlich zum beeindruckenden Landtor zurück, um die Tour im Herzen der Stadt zu beenden.",
+            "hu": "Ez a kerékpártúra Zára partvonala mentén vezet. Kezdje a Rivánál, majd tekerjen a népszerű Kolovare strandhoz egy frissítőre. Folytassa az utat a nyugodt Arbanasi negyeden át a modern Gazenica kikötőig. Végül térjen vissza a lenyűgöző Szárazföldi kapuhoz a túra lezárásaként.",
+            "ro": "Acest tur cu bicicleta vă poartă de-a lungul coastei din Zadar. Începeți la Riva și pedalați spre populara plajă Kolovare pentru o răcorire. Continuați prin cartierul liniștit Arbanasi până la portul modern Gazenica. Reveniți în final la impresionanta Poartă a Terrei Ferma pentru a încheia turul în inima orașului.",
+            "en": "This bike tour takes you along the Zadar coastline. Start at the Riva and cycle to the popular Kolovare Beach for a refreshment. Continue through the quiet Arbanasi district to the modern Gazenica Port. Finally, return to the impressive Land Gate to conclude your tour in the heart of the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altstadt-Ufer (Riva)",
+                "hu": "Óvárosi part (Riva)",
+                "ro": "Faleza orașului vechi",
+                "en": "Old Town Waterfront"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Meeresbrise beim Radfahren entlang der Promenade.",
+                "hu": "Élvezze a friss tengeri szellőt a parton tekerve.",
+                "ro": "Bucurați-vă de briza mării în timp ce pedalați pe faleză.",
+                "en": "Enjoy the fresh sea breeze while cycling along the promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "Kolovare Strand",
+                "hu": "Kolovare strand",
+                "ro": "Plaja Kolovare",
+                "en": "Kolovare Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für ein schnelles Bad am Morgen.",
+                "hu": "Ideális hely egy gyors reggeli úszáshoz.",
+                "ro": "Un loc ideal pentru o baie rapidă dimineața.",
+                "en": "An ideal spot for a quick morning swim."
+              }
+            },
+            {
+              "name": {
+                "de": "Arbanasi Promenade",
+                "hu": "Arbanasi sétány",
+                "ro": "Promenada Arbanasi",
+                "en": "Arbanasi Promenade"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das historische Viertel der albanischen Siedler.",
+                "hu": "Látogasson el az albán telepesek történelmi negyedébe.",
+                "ro": "Vizitați cartierul istoric al coloniștilor albanezi.",
+                "en": "Visit the historical district of the Albanian settlers."
+              }
+            },
+            {
+              "name": {
+                "de": "Gazenica Hafen",
+                "hu": "Gazenica kikötő",
+                "ro": "Portul Gazenica",
+                "en": "Gazenica Port"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die großen Fähren, die zu den Inseln auslaufen.",
+                "hu": "Nézze meg a szigetekre induló nagy kompokat.",
+                "ro": "Observați feriboturile mari care pleacă spre insule.",
+                "en": "Watch the large ferries departing for the islands."
+              }
+            },
+            {
+              "name": {
+                "de": "Landtor",
+                "hu": "Szárazföldi kapu",
+                "ro": "Poarta Terrei Ferma",
+                "en": "Land Gate"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher, bevor Sie die Altstadt betreten.",
+                "hu": "Parkolja le biztonságosan a biciklit az óvárosba lépés előtt.",
+                "ro": "Parcați bicicleta în siguranță înainte de a intra în orașul vechi.",
+                "en": "Park your bike safely before entering the old town."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Strandbar Hitch",
+                "tip": "Erfrischende Cocktails direkt am Meer bei Kolovare."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Hitch strandbár",
+                "tip": "Frissítő koktélok közvetlenül a tengerparton Kolovaránál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Beach Bar Hitch",
+                "tip": "Cocktailuri răcoritoare chiar pe malul mării la Kolovare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Hitch Beach Bar",
+                "tip": "Refreshing cocktails right by the sea at Kolovare."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Punta Bajlo",
+                "tip": "Ein ruhiger Pinienwald am Ende der Arbanasi-Promenada.",
+                "emoji": "🌲"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Punta Bajlo",
+                "tip": "Csendes fenyőerdő az Arbanasi sétány végén.",
+                "emoji": "🌲"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punta Bajlo",
+                "tip": "O pădure liniștită de pini la capătul promenadei Arbanasi.",
+                "emoji": "🌲"
+              }
+            ],
+            "en": [
+              {
+                "name": "Punta Bajlo",
+                "tip": "A quiet pine forest at the end of the Arbanasi promenade.",
+                "emoji": "🌲"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Fischmarkt Arbanasi",
+                "tip": "Kleiner lokaler Markt für fangfrischen Fisch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arbanasi halpiac",
+                "tip": "Kicsi helyi piac frissen fogott halakkal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața de pește Arbanasi",
+                "tip": "O mică piață locală pentru pește proaspăt prins."
+              }
+            ],
+            "en": [
+              {
+                "name": "Arbanasi Fish Market",
+                "tip": "Small local market for freshly caught fish."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein Fahrrad mit Schloss, um flexibel Pausen einlegen zu können.",
+              "Die Strecke ist größtenteils flach und für alle Fitnessstufen geeignet.",
+              "Achten Sie im Sommer auf ausreichend Sonnenschutz auf der offenen Promenade."
+            ],
+            "hu": [
+              "Béreljen lakatot is a biciklihez a rugalmas pihenők érdekében.",
+              "Az útvonal nagy része sík, így minden edzettségi szintnek megfelel.",
+              "Nyáron ügyeljen a megfelelő napvédelemre a nyitott sétányokon."
+            ],
+            "ro": [
+              "Închiriați o bicicletă cu lacăt pentru a putea face pauze flexibile.",
+              "Traseul este în mare parte plat și potrivit pentru toate nivelurile de fitness.",
+              "Vara, aveți grijă la protecția solară pe promenadele deschise."
+            ],
+            "en": [
+              "Rent a bike with a lock to allow for flexible breaks.",
+              "The route is mostly flat and suitable for all fitness levels.",
+              "In summer, make sure to have adequate sun protection on the open promenades."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse, aber abenteuerliche Fahrt ab der Promenade. Der Kolovare-Strand ist im Regen verlassen. Radeln Sie vorsichtig nach Arbanasi. Der Hafen wirkt stimmungsvoll, bevor Sie nass zum Landtor zurückkehren.",
+            "hu": "Nedves, de kalandos tekerés a sétányról indulva. A Kolovare strand esőben elhagyatott. Óvatosan tekerjen Arbanasi felé. Az ipari kikötő hangulatos, mielőtt vizesen visszatér a kapuhoz.",
+            "ro": "O plimbare umedă de la faleză. Plaja Kolovare este pustie în ploaie. Pedalați cu grijă spre Arbanasi. Portul are o atmosferă melancolică înainte de a vă întoarce la Poarta Terestră.",
+            "en": "A wet but adventurous ride starting at the Waterfront. Kolovare Beach is deserted in the rain. Cycle carefully to Arbanasi. The port looks moody before you return, soaked, to the Land Gate."
+          },
+          "stops": [
+            {
+              "name": "Old Town Waterfront",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, die Steinplatten sind sehr nass.",
+                "hu": "Tekerjen lassan, a kőlapok nagyon vizesek.",
+                "ro": "Mergeți încet, plăcile de piatră sunt foarte ude.",
+                "en": "Ride slowly, the stone paving is very wet."
+              }
+            },
+            {
+              "name": "Kolovare Beach",
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Bäumen kurzen Schutz vor dem Regen.",
+                "hu": "Keressen rövid menedéket a fák alatt az eső elől.",
+                "ro": "Găsiți un scurt adăpost sub copaci de ploaie.",
+                "en": "Seek brief shelter under the trees from the rain."
+              }
+            },
+            {
+              "name": "Arbanasi Promenade",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf dem Radweg.",
+                "hu": "Figyeljen a tócsákra a kerékpárúton.",
+                "ro": "Atenție la bălțile de pe pista de biciclete.",
+                "en": "Watch out for puddles on the cycle path."
+              }
+            },
+            {
+              "name": "Gazenica Port",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Straßenbahnschienen im Hafengebiet.",
+                "hu": "Vigyázat a csúszós sínekkel a kikötő területén.",
+                "ro": "Atenție la șinele alunecoase din zona portului.",
+                "en": "Beware of slippery tracks in the port area."
+              }
+            },
+            {
+              "name": "Land Gate",
+              "tip_5lang": {
+                "de": "Steigen Sie ab, da das nasse Tor rutschig ist.",
+                "hu": "Szálljon le, mert a nedves kapu alja csúszik.",
+                "ro": "Descălecați, poarta umedă este alunecoasă.",
+                "en": "Dismount here as the wet gate entrance is slick."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserdichte Kleidung und nutzen Sie Schutzbleche.",
+              "Bremsen Sie auf den nassen Steinwegen frühzeitig.",
+              "Die Sicht ist schlechter, schalten Sie die Fahrradlichter ein.",
+              "Vermeiden Sie es, durch tiefe Pfützen zu fahren.",
+              "Ein warmer Stopp in einem Café ist bei Nässe Pflicht."
+            ],
+            "hu": [
+              "Viseljen vízálló ruhát, és használjon sárvédőt.",
+              "A nedves kőutakon fékezzen jóval hamarabb.",
+              "A látási viszonyok rosszabbak, kapcsolja be a lámpákat.",
+              "Kerülje el a mély tócsákon való áthajtást.",
+              "Egy meleg kávézós pihenő kötelező esőben."
+            ],
+            "ro": [
+              "Purtați haine impermeabile și folosiți apărători de noroi.",
+              "Frânați din timp pe drumurile de piatră umede.",
+              "Vizibilitatea e redusă, aprindeți luminile bicicletei.",
+              "Evitați să treceți prin bălți adânci.",
+              "O oprire caldă la o cafenea este obligatorie."
+            ],
+            "en": [
+              "Wear waterproof gear and ensure your bike has mudguards.",
+              "Brake much earlier on the wet stone paths.",
+              "Visibility is lower, so keep your bike lights on.",
+              "Avoid riding straight through deep puddles.",
+              "Plan a cozy cafe stop to dry off halfway through."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kühle Morgenfahrt ab der Promenade. Der Kolovare-Strand ist friedlich in der Wintersonne. Flottes Radeln nach Arbanasi hält warm, bevor Sie den ruhigen Hafen und das Landtor erreichen.",
+            "hu": "Csípős reggeli tekerés a sétányról. A Kolovare strand békés a téli napsütésben. Az élénk tempó Arbanasi felé felmelegít, mielőtt eléri a csendes kikötőt és a Szárazföldi kaput.",
+            "ro": "Plimbare răcoroasă dimineața. Plaja Kolovare este pașnică în soarele de iarnă. Pedalarea rapidă spre Arbanasi vă încălzește înainte de a ajunge la portul liniștit și la Poartă.",
+            "en": "Chilly morning ride starting at the Waterfront. Kolovare Beach is peaceful in the winter sun. Brisk pedaling to Arbanasi keeps you warm before reaching the quiet port and Land Gate."
+          },
+          "stops": [
+            {
+              "name": "Old Town Waterfront",
+              "tip_5lang": {
+                "de": "Der kalte Wind vom Meer kann hier sehr stark sein.",
+                "hu": "A tengerről fújó hideg szél itt nagyon erős lehet.",
+                "ro": "Vântul rece de la mare poate fi foarte puternic aici.",
+                "en": "The cold wind off the sea can be biting here."
+              }
+            },
+            {
+              "name": "Kolovare Beach",
+              "tip_5lang": {
+                "de": "Perfekt für eine sonnige Winterpause auf einer Bank.",
+                "hu": "Tökéletes egy napos téli pihenőre egy padon.",
+                "ro": "Perfect pentru o pauză însorită de iarnă pe o bancă.",
+                "en": "Perfect for a sunny winter break on a bench."
+              }
+            },
+            {
+              "name": "Arbanasi Promenade",
+              "tip_5lang": {
+                "de": "Zügiges Radeln hält Sie auf diesem offenen Stück warm.",
+                "hu": "A gyors tekerés ezen a nyílt szakaszon melegen tartja.",
+                "ro": "Pedalarea rapidă vă menține cald pe această porțiune.",
+                "en": "Brisk pedaling on this open stretch keeps you warm."
+              }
+            },
+            {
+              "name": "Gazenica Port",
+              "tip_5lang": {
+                "de": "Weniger Fährverkehr macht die Erkundung im Winter sicherer.",
+                "hu": "A kisebb kompjárat-forgalom miatt télen biztonságosabb a környék.",
+                "ro": "Traficul redus face explorarea mai sigură iarna.",
+                "en": "Less ferry traffic makes it safer to explore in winter."
+              }
+            },
+            {
+              "name": "Land Gate",
+              "tip_5lang": {
+                "de": "Das späte Nachmittagslicht um 15:30 beleuchtet das Tor schön.",
+                "hu": "A 15:30-as délutáni fény szépen megvilágítja a kaput.",
+                "ro": "Lumina de la ora 15:30 luminează frumos poarta.",
+                "en": "The late afternoon light around 15:30 illuminates the gate."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe, um Ihre Hände warm zu halten.",
+              "Prüfen Sie den Reifendruck, er sinkt bei Kälte schneller.",
+              "Die Sonne geht früh unter, bringen Sie starke Fahrradlichter mit.",
+              "Eine Thermoskanne mit Tee im Rucksack ist eine gute Idee.",
+              "Nutzen Sie die leeren Promenaden für entspanntes Fahren."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt, hogy melegen tartsa a kezét.",
+              "Ellenőrizze a guminyomást, hidegben hamarabb csökken.",
+              "A nap korán nyugszik, hozzon erős kerékpáros lámpákat.",
+              "Egy termosz forró teával a hátizsákban remek ötlet.",
+              "Használja ki az üres sétányokat a nyugodt tekeréshez."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt pentru a vă menține mâinile calde.",
+              "Verificați presiunea anvelopelor, scade mai repede la frig.",
+              "Soarele apune devreme, aduceți lumini puternice pentru bicicletă.",
+              "Un termos cu ceai în rucsac este o idee excelentă.",
+              "Profitați de falezele goale pentru o plimbare relaxantă."
+            ],
+            "en": [
+              "Wear windproof gloves to keep your hands from freezing.",
+              "Check your tire pressure, as it drops faster in the cold.",
+              "The sun sets early, so ensure you have strong bike lights.",
+              "Carrying a thermos of hot tea in your backpack is a great idea.",
+              "Take advantage of the empty promenades for a relaxed ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -813,6 +1677,330 @@
           "Take swimwear for the Queen's Beach.",
           "The road from Zadar to Nin is well-maintained and offers nice views."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vormittags erkunden Sie das Zentrum von Zadar, bevor Sie ins 15 km entfernte Nin fahren. Nin war die erste Hauptstadt der Kroaten und beherbergt die kleinste Kathedrale der Welt. Nach einem Besuch in den traditionellen Salinen entspannen Sie am flachen Sandstrand der Königin, der für seinen Heilschlamm bekannt ist.",
+            "hu": "Délelőtt Zára központját fedezzük fel, majd a 15 km-re lévő Ninbe utazunk. Nin volt az első horvát főváros, itt található a világ legkisebb katedrálisa is. A hagyományos sólepárló megtekintése után a Királyné strand homokos partján pihenhetünk, amely gyógyiszapjáról is híres.",
+            "ro": "Dimineața explorați centrul orașului Zadar înainte de a conduce spre Nin, situat la 15 km distanță. Nin a fost prima capitală a croaților și găzduiește cea mai mică catedrală din lume. După o vizită la salinele tradiționale, relaxați-vă pe plaja cu nisip a Reginei, cunoscută pentru nămolul său curativ.",
+            "en": "In the morning, explore the center of Zadar before driving to Nin, 15 km away. Nin was the first Croatian capital and houses the world's smallest cathedral. After a visit to the traditional saltworks, relax at the shallow sandy Queen's Beach, famous for its medicinal mud."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altstadt Zadar",
+                "hu": "Zárai óváros",
+                "ro": "Orașul vechi Zadar",
+                "en": "Zadar Old Town"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf den großen Parkplätzen außerhalb der Stadtmauer.",
+                "hu": "Parkoljon a városfalon kívüli nagy parkolókban.",
+                "ro": "Parcați în parcările mari din afara zidurilor orașului.",
+                "en": "Park in the large parking lots outside the city walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Nin - Historischer Kern",
+                "hu": "Nin - Történelmi központ",
+                "ro": "Nin - Centrul istoric",
+                "en": "Nin - Historical Center"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die kleinste Kathedrale der Welt (Heilig-Kreuz-Kirche).",
+                "hu": "Látogassa meg a világ legkisebb katedrálisát (Szent Kereszt-templom).",
+                "ro": "Vizitați cea mai mică catedrală din lume (Biserica Sfânta Cruce).",
+                "en": "Visit the smallest cathedral in the world (Church of the Holy Cross)."
+              }
+            },
+            {
+              "name": {
+                "de": "Nin Salinen",
+                "hu": "Nini sólepárló",
+                "ro": "Salinele din Nin",
+                "en": "Nin Saltworks"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über die traditionelle Salzgewinnung im Museum.",
+                "hu": "Ismerje meg a hagyományos sólepárlást a múzeumban.",
+                "ro": "Aflați mai multe despre extracția tradițională a sării în muzeu.",
+                "en": "Learn about traditional salt production in the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Königinstrand (Kraljicina plaza)",
+                "hu": "Királyné strand",
+                "ro": "Plaja Reginei",
+                "en": "Queen's Beach"
+              },
+              "tip_5lang": {
+                "de": "Berühmt für seinen heilenden Heilschlamm.",
+                "hu": "Híres a gyógyító hatású iszapjáról.",
+                "ro": "Celebră pentru nămolul său curativ.",
+                "en": "Famous for its healing medicinal mud."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gostionica Madijevka",
+                "tip": "Probieren Sie Šokol, ein getrocknetes Schweinefleisch-Produkt aus Nin."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gostionica Madijevka",
+                "tip": "Kóstolja meg a Šokol-t, a nini különleges füstölt sertéshúst."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gostionica Madijevka",
+                "tip": "Gustați Šokol, un produs din carne de porc uscată specific din Nin."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gostionica Madijevka",
+                "tip": "Try Šokol, a unique dried pork meat product from Nin."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kirche St. Nikolaus",
+                "tip": "Eine einsame Kirche auf einem Hügel nahe Nin.",
+                "emoji": "⛪"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szent Miklós-templom",
+                "tip": "Egy magányos templom a dombtetőn Nin közelében.",
+                "emoji": "⛪"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Biserica Sfântul Nicolae",
+                "tip": "O biserică solitară pe un deal lângă Nin.",
+                "emoji": "⛪"
+              }
+            ],
+            "en": [
+              {
+                "name": "Church of St. Nicholas",
+                "tip": "A lonely church on a hill near Nin.",
+                "emoji": "⛪"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Solana Nin Shop",
+                "tip": "Kaufen Sie 'Blume des Salzes' und andere Bio-Salzprodukte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Solana Nin bolt",
+                "tip": "Vásároljon sóvirágot és más bio sótermékeket."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazinul Solana Nin",
+                "tip": "Cumpărați 'Floarea sării' și alte produse bio din sare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Solana Nin Shop",
+                "tip": "Buy 'Flower of Salt' and other organic salt products."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Das Parken in Nin ist meist gebührenpflichtig, aber leicht zu finden.",
+              "Nehmen Sie Badekleidung mit für den Königinstrand.",
+              "Die Straße von Zadar nach Nin ist gut ausgebaut und bietet schöne Ausblicke."
+            ],
+            "hu": [
+              "Ninjében a parkolás általában fizetős, de könnyen található hely.",
+              "Vigyen fürdőruhát a Királyné strandhoz.",
+              "A Zára és Nin közötti út jó minőségű és szép kilátást nyújt."
+            ],
+            "ro": [
+              "Parcarea în Nin este de obicei cu plată, dar ușor de găsit.",
+              "Luați costumul de baie pentru Plaja Reginei.",
+              "Drumul de la Zadar la Nin este bine întreținut și oferă priveliști frumoase."
+            ],
+            "en": [
+              "Parking in Nin is usually paid but easy to find.",
+              "Take swimwear for the Queen's Beach.",
+              "The road from Zadar to Nin is well-maintained and offers nice views."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Parken Sie am Zentrum für einen nassen Spaziergang. Fahren Sie nach Nin, wo die Altstadt bei Regen atmosphärisch wirkt. Das Salzmuseum bietet Schutz vor dem Wetter, bevor Sie kurz den windigen Queen's Beach besuchen.",
+            "hu": "Parkoljon az óvárosnál egy esős sétához. Vezessen Ninbe, melynek központja hangulatos esőben. A Sómúzeum menedéket nyújt, mielőtt a szeles Királyné strandjára érne.",
+            "ro": "Parcați lângă oraș pentru o plimbare umedă. Conduceți spre Nin, unde centrul este pitoresc în ploaie. Muzeul Sării oferă adăpost înainte de o oprire vântoasă la Queen's Beach.",
+            "en": "Park near the Old Town for a wet stroll. Drive to Nin, where the historical center is atmospheric in the rain. The Saltworks museum offers shelter before a windy Queen's Beach stop."
+          },
+          "stops": [
+            {
+              "name": "Zadar Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie eine Tiefgarage, um trocken ins Zentrum zu kommen.",
+                "hu": "Használjon mélygarázst, hogy szárazon jusson a központba.",
+                "ro": "Folosiți o parcare subterană pentru a ajunge uscat.",
+                "en": "Use an underground parking garage to stay dry."
+              }
+            },
+            {
+              "name": "Nin - Historical Center",
+              "tip_5lang": {
+                "de": "Die kleine Brücke nach Nin kann sehr rutschig sein.",
+                "hu": "A Ninbe vezető kis híd nagyon csúszós lehet.",
+                "ro": "Micul pod spre Nin poate fi foarte alunecos.",
+                "en": "The small footbridge to Nin can be quite slippery."
+              }
+            },
+            {
+              "name": "Nin Saltworks",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Indoor-Museumsteil, wenn es stark regnet.",
+                "hu": "Maradjon a beltéri múzeumban, ha nagyon esik.",
+                "ro": "Rămâneți în muzeul interior dacă plouă foarte tare.",
+                "en": "Stick to the indoor museum section if it's pouring."
+              }
+            },
+            {
+              "name": "Queen's Beach",
+              "tip_5lang": {
+                "de": "Im Auto bleiben und die wilde Natur vom warmen Sitz ansehen.",
+                "hu": "Maradjon az autóban, és onnan nézze a vad természetet.",
+                "ro": "Rămâneți în mașină și admirați natura din scaunul cald.",
+                "en": "Stay in the car and watch the wild weather from your warm seat."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie immer einen Regenschirm im Kofferraum bereit.",
+              "Fahren Sie auf den nassen Küstenstraßen besonders vorsichtig.",
+              "Die Außenbereiche der Salinen könnten bei starkem Regen gesperrt sein.",
+              "Achten Sie auf große Wasserlachen auf den Landstraßen nach Nin.",
+              "Suchen Sie nach überdachten Parkplätzen in Zadar."
+            ],
+            "hu": [
+              "Mindig tartson egy esernyőt a csomagtartóban.",
+              "Vezessen különösen óvatosan a nedves parti utakon.",
+              "A sólepárló külső részei heves esőben zárva lehetnek.",
+              "Figyeljen a nagy tócsákra a Nin felé vezető utakon.",
+              "Keressen fedett parkolóhelyeket Zadarban."
+            ],
+            "ro": [
+              "Păstrați mereu o umbrelă în portbagaj.",
+              "Conduceți cu mare atenție pe drumurile de coastă umede.",
+              "Zonele exterioare ale salinelor pot fi închise pe ploaie.",
+              "Atenție la bălțile mari de pe drumurile spre Nin.",
+              "Căutați parcări acoperite în Zadar."
+            ],
+            "en": [
+              "Always keep a sturdy umbrella ready in the trunk.",
+              "Drive with extra caution on the wet coastal roads.",
+              "The outdoor paths of the Saltworks might be closed in heavy rain.",
+              "Watch out for large puddles on the country roads towards Nin.",
+              "Seek out covered parking structures in Zadar."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Einfaches Parken im Winter in Zadar. Eine kurze Fahrt nach Nin offenbart eine ruhige, alte Hauptstadt. Die Salinen sind friedlich, und ein Spaziergang am leeren Queen's Beach macht den Kopf frei.",
+            "hu": "Könnyű téli parkolás Zadar óvárosánál. Egy rövid út Ninbe felfedi a csendes egykori fővárost. A Sólepárló békés télen, a séta a Királyné strandján pedig felfrissíti az elmét.",
+            "ro": "Parcare ușoară de iarnă în Zadar. O scurtă plimbare spre Nin dezvăluie o capitală liniștită. Salinele sunt pașnice iarna, iar o plimbare pe Queen's Beach vă limpezește mintea.",
+            "en": "Easy winter parking near Zadar Old Town. A short morning drive to Nin reveals a quiet, ancient capital. The Saltworks are peaceful in winter, and a brisk walk on Queen's Beach clears the mind."
+          },
+          "stops": [
+            {
+              "name": "Zadar Old Town",
+              "tip_5lang": {
+                "de": "Parkplätze in Zentrumsnähe sind im Winter leicht zu finden.",
+                "hu": "A központhoz közeli parkolók télen könnyen megtalálhatók.",
+                "ro": "Parcările aproape de centru se găsesc ușor iarna.",
+                "en": "Parking near the center is very easy to find in winter."
+              }
+            },
+            {
+              "name": "Nin - Historical Center",
+              "tip_5lang": {
+                "de": "Wunderschön still und ohne die üblichen Sommerstaus.",
+                "hu": "Gyönyörűen csendes a szokásos nyári dugók nélkül.",
+                "ro": "Frumos de liniștit și fără aglomerația de vară.",
+                "en": "Beautifully quiet without the usual summer traffic jams."
+              }
+            },
+            {
+              "name": "Nin Saltworks",
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab die verkürzten Winteröffnungszeiten.",
+                "hu": "Előre ellenőrizze a rövidített téli nyitvatartást.",
+                "ro": "Verificați programul scurtat de iarnă în prealabil.",
+                "en": "Check the shortened winter opening hours beforehand."
+              }
+            },
+            {
+              "name": "Queen's Beach",
+              "tip_5lang": {
+                "de": "Der Wind ist eisig, aber der leere Strand ist spektakulär.",
+                "hu": "A szél jéghideg, de az üres strand látványos.",
+                "ro": "Vântul este înghețat, dar plaja goală este spectaculoasă.",
+                "en": "The wind is freezing, but the empty beach is spectacular."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Genießen Sie die fast leeren Straßen, das Fahren ist sehr entspannt.",
+              "Achten Sie auf starken Seitenwind auf der Fahrt nach Nin.",
+              "Packen Sie eine warme Decke in den Kofferraum für Pausen.",
+              "Nutzen Sie das kostenlose oder günstigere Winter-Parken.",
+              "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit um 16:30."
+            ],
+            "hu": [
+              "Élvezze a majdnem üres utakat, a vezetés nagyon nyugodt.",
+              "Figyeljen az erős oldalszélre a Nin felé vezető úton.",
+              "Tegyen egy meleg takarót a csomagtartóba a pihenőkhöz.",
+              "Használja ki az ingyenes vagy olcsóbb téli parkolást.",
+              "Tervezze a visszaút végét a sötétedés előtti 16:30-ra."
+            ],
+            "ro": [
+              "Bucurați-vă de drumurile aproape goale, condusul este relaxant.",
+              "Atenție la vântul lateral puternic pe drumul spre Nin.",
+              "Puneți o pătură caldă în portbagaj pentru pauze.",
+              "Profitați de parcarea gratuită sau mai ieftină de iarnă.",
+              "Planificați să vă întoarceți înainte de lăsarea întunericului la 16:30."
+            ],
+            "en": [
+              "Enjoy the almost empty roads, driving is very relaxed.",
+              "Watch out for strong crosswinds on the coastal drive to Nin.",
+              "Keep a warm blanket in the trunk for after your beach walk.",
+              "Take advantage of free or cheaper winter parking zones.",
+              "Aim to drive back before it gets pitch dark around 16:30."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1025,6 +2213,330 @@
           "Bus lines 5 and 8 are most useful for tourists.",
           "Note that the Barkajoli do not operate in very bad weather."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den öffentlichen Nahverkehr von Zadar, um die Küstenvororte zu erkunden. Beginnen Sie im Zentrum und nutzen Sie das traditionelle Barkajoli-Boot für eine Überfahrt. Fahren Sie dann mit dem Bus zum Feriengebiet Borik für einen entspannten Strandbesuch und setzen Sie die Reise bis nach Diklo fort, um die dalmatinische Küste zu genießen.",
+            "hu": "Használja Zára tömegközlekedését a parti külvárosok felfedezéséhez. Kezdjen a központban, és próbálja ki a tradicionális Barkajoli csónakot az átkeléshez. Menjen busszal a Borik üdülőövezetbe egy pihentető strandolásra, majd folytassa az utat Diklo felé, élvezve a dalmát tengerpartot.",
+            "ro": "Folosiți transportul public din Zadar pentru a explora suburbiile de pe coastă. Începeți în centru și folosiți barca tradițională Barkajoli pentru o traversare. Mergeți apoi cu autobuzul spre zona turistică Borik pentru o vizită relaxantă la plajă și continuați călătoria până la Diklo pentru a vă bucura de coasta dalmată.",
+            "en": "Use Zadar's public transit to explore the coastal suburbs. Start in the center and try the traditional Barkajoli boat for a crossing. Then take a bus to the Borik resort area for a relaxing beach visit and continue the journey to Diklo to enjoy the Dalmatian coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altstadt / Forum",
+                "hu": "Óváros / Fórum",
+                "ro": "Orașul vechi / Forum",
+                "en": "Old Town / Forum"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Startpunkt für alle Buslinien an der Hauptstraße.",
+                "hu": "Minden buszjárat központi indulási pontja a főúton.",
+                "ro": "Punct central de plecare pentru toate liniile de autobuz de pe strada principală.",
+                "en": "Central starting point for all bus lines on the main road."
+              }
+            },
+            {
+              "name": {
+                "de": "Barkajoli Überfahrt",
+                "hu": "Barkajoli átkelő",
+                "ro": "Traversarea Barkajoli",
+                "en": "Barkajoli Crossing"
+              },
+              "tip_5lang": {
+                "de": "Eine jahrhundertealte Tradition der Ruderboote.",
+                "hu": "Több évszázados evezős csónakázási hagyomány.",
+                "ro": "O tradiție de secole a bărcilor cu vâsle.",
+                "en": "A centuries-old tradition of rowing boats."
+              }
+            },
+            {
+              "name": {
+                "de": "Borik Strand",
+                "hu": "Borik strand",
+                "ro": "Plaja Borik",
+                "en": "Borik Beach"
+              },
+              "tip_5lang": {
+                "de": "Buslinie 5 oder 8 bringt Sie direkt hierher.",
+                "hu": "Az 5-ös vagy 8-as busz közvetlenül ide hozza.",
+                "ro": "Linia de autobuz 5 sau 8 vă aduce direct aici.",
+                "en": "Bus line 5 or 8 brings you directly here."
+              }
+            },
+            {
+              "name": {
+                "de": "Diklo Promenade",
+                "hu": "Diklo sétány",
+                "ro": "Promenada Diklo",
+                "en": "Diklo Promenade"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für einen Kaffee direkt am Wasser.",
+                "hu": "Remek hely egy kávéhoz közvetlenül a vízparton.",
+                "ro": "Un loc frumos pentru o cafea chiar pe malul apei.",
+                "en": "A beautiful spot for a coffee right by the water."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurant Niko",
+                "tip": "Exzellentes Fischrestaurant im Stadtteil Diklo."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Niko étterem",
+                "tip": "Kiváló halétterem Diklo negyedben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurant Niko",
+                "tip": "Restaurant de pește excelent în cartierul Diklo."
+              }
+            ],
+            "en": [
+              {
+                "name": "Niko Restaurant",
+                "tip": "Excellent fish restaurant in the Diklo district."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ufer von Diklo",
+                "tip": "Ein ruhigerer Ort weg vom Trubel der Altstadt.",
+                "emoji": "🌊"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Diklo partja",
+                "tip": "Csendesebb hely távol az óváros nyüzsgésétől.",
+                "emoji": "🌊"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Faleza din Diklo",
+                "tip": "Un loc mai liniștit, departe de agitația orașului vechi.",
+                "emoji": "🌊"
+              }
+            ],
+            "en": [
+              {
+                "name": "Diklo Waterfront",
+                "tip": "A quieter spot away from the hustle of the old town.",
+                "emoji": "🌊"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "City Galleria",
+                "tip": "Einkaufszentrum nahe dem Busbahnhof für den täglichen Bedarf."
+              }
+            ],
+            "hu": [
+              {
+                "name": "City Galleria",
+                "tip": "Bevásárlóközpont a buszpályaudvar közelében a napi szükségletekhez."
+              }
+            ],
+            "ro": [
+              {
+                "name": "City Galleria",
+                "tip": "Centru comercial lângă autogară pentru nevoile zilnice."
+              }
+            ],
+            "en": [
+              {
+                "name": "City Galleria",
+                "tip": "Shopping center near the bus station for daily needs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Fahrkarten können direkt beim Busfahrer oder an Kiosken gekauft werden.",
+              "Die Buslinien 5 und 8 sind am nützlichsten für Touristen.",
+              "Beachten Sie, dass die Barkajoli bei sehr schlechtem Wetter nicht fahren."
+            ],
+            "hu": [
+              "Jegyeket a buszvezetőnél vagy az újságosoknál is vehet.",
+              "Az 5-ös és 8-as buszvonalak a leghasznosabbak a turisták számára.",
+              "Vegye figyelembe, hogy rossz idő esetén a Barkajoli csónakok nem közlekednek."
+            ],
+            "ro": [
+              "Biletele pot fi cumpărate direct de la șofer sau de la chioșcuri.",
+              "Liniile de autobuz 5 și 8 sunt cele mai utile pentru turiști.",
+              "Rețineți că Barkajoli nu circulă pe vreme foarte rea."
+            ],
+            "en": [
+              "Tickets can be purchased directly from the bus driver or at kiosks.",
+              "Bus lines 5 and 8 are most useful for tourists.",
+              "Note that the Barkajoli do not operate in very bad weather."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Bus hält Sie zum Forum trocken. Die Barkajoli-Überfahrt könnte nass werden! Nehmen Sie den Bus nach Borik, schauen Sie aufs raue Meer und enden Sie mit einem Kaffee in Diklo.",
+            "hu": "A busz szárazon tart a Fórumig. A Barkajoli csónakázás nedves lehet! Menjen busszal Borikba, nézze a viharos tengert, majd fejezze be egy meleg kávéval Dikloban.",
+            "ro": "Un autobuz vă menține uscat până la Forum. Traversarea Barkajoli poate fi umedă! Luați autobuzul spre Borik pentru a vedea marea agitată, terminând cu o cafea în Diklo.",
+            "en": "A bus keeps you dry arriving at the Forum. The Barkajoli crossing might be a bit wet! Take a bus to Borik, watch the rough sea, and end with a quick dash into a cafe in Diklo."
+          },
+          "stops": [
+            {
+              "name": "Old Town / Forum",
+              "tip_5lang": {
+                "de": "Warten Sie an überdachten Haltestellen auf den Bus.",
+                "hu": "Várja a buszt fedett megállókban.",
+                "ro": "Așteptați autobuzul în stații acoperite.",
+                "en": "Wait for the bus at covered shelters."
+              }
+            },
+            {
+              "name": "Barkajoli Crossing",
+              "tip_5lang": {
+                "de": "Bei starkem Sturm fährt das Boot möglicherweise nicht.",
+                "hu": "Nagy viharban a csónak esetleg nem indul el.",
+                "ro": "Pe furtună puternică, barca ar putea să nu circule.",
+                "en": "The small boat might not operate during heavy storms."
+              }
+            },
+            {
+              "name": "Borik Beach",
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht in den nahen Strandhotels.",
+                "hu": "Keressen menedéket a közeli tengerparti hotelekben.",
+                "ro": "Căutați adăpost în hotelurile de pe plajă din apropiere.",
+                "en": "Seek refuge from rain in the nearby beach hotels."
+              }
+            },
+            {
+              "name": "Diklo Promenade",
+              "tip_5lang": {
+                "de": "Schauen Sie sich die Wellen sicher aus einem Café an.",
+                "hu": "Nézze a hullámokat biztonságosan egy kávézóból.",
+                "ro": "Priviți valurile în siguranță dintr-o cafenea.",
+                "en": "Watch the crashing waves safely from inside a cafe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die lokale Bus-App herunter, um Wartezeiten im Regen zu vermeiden.",
+              "Halten Sie Ihre Papiertickets trocken, sie weichen schnell auf.",
+              "Die Busse sind gemütlich und trocken, ideal für regnerische Pausen.",
+              "Prüfen Sie, ob die Barkajoli-Boote bei schlechtem Wetter verkehren.",
+              "Planen Sie längere Fahrzeiten ein, da der Verkehr bei Regen stockt."
+            ],
+            "hu": [
+              "Töltse le a helyi buszos appot, hogy ne várjon sokat az esőben.",
+              "Tartsa szárazon a papírjegyeket, mert könnyen eláznak.",
+              "A buszok kényelmesek és szárazak, ideálisak az esős napokra.",
+              "Ellenőrizze, hogy a Barkajoli csónakok járnak-e rossz időben.",
+              "Számoljon hosszabb menetidővel, esőben lelassul a forgalom."
+            ],
+            "ro": [
+              "Descărcați aplicația locală de autobuz pentru a nu aștepta în ploaie.",
+              "Păstrați biletele de hârtie uscate, se udă foarte repede.",
+              "Autobuzele sunt calde și uscate, perfecte pentru vreme rea.",
+              "Verificați dacă bărcile Barkajoli circulă pe vreme rea.",
+              "Așteptați-vă la timpi mai lungi de călătorie din cauza traficului."
+            ],
+            "en": [
+              "Download the local transit app to minimize waiting in the rain.",
+              "Keep your paper bus tickets dry, they get soggy easily.",
+              "The buses are warm and dry, a great relief from the rain.",
+              "Check if the traditional Barkajoli boats run in severe weather.",
+              "Allow extra travel time as traffic slows down during downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bequeme Busfahrt zum ruhigen Forum. Eine frische Barkajoli-Bootsfahrt am Morgen. Der Borik-Strand bietet nachmittags friedliche Spaziergänge, und Diklo ist perfekt für einen Kaffee am frühen Abend.",
+            "hu": "Kényelmes buszút a csendes téli Fórumhoz. Egy hűvös Barkajoli csónakázás. A Borik strand békés délutáni sétát kínál, Diklo pedig tökéletes egy meleg kávéhoz kora este.",
+            "ro": "Călătorie confortabilă cu autobuzul spre Forumul liniștit. O plimbare răcoroasă cu barca. Plaja Borik oferă plimbări liniștite, iar Diklo este perfect pentru o cafea caldă.",
+            "en": "Comfortable bus ride to the quiet winter Forum. A brisk morning Barkajoli boat trip. Borik beach offers peaceful afternoon walking, and Diklo is perfect for a warm coffee at sunset."
+          },
+          "stops": [
+            {
+              "name": "Old Town / Forum",
+              "tip_5lang": {
+                "de": "Die beheizten Busse sind eine Wohltat im Winter.",
+                "hu": "A fűtött buszok igazi megváltást jelentenek télen.",
+                "ro": "Autobuzele încălzite sunt o ușurare pe timp de iarnă.",
+                "en": "The heated buses are a blessing on a cold winter day."
+              }
+            },
+            {
+              "name": "Barkajoli Crossing",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, der Seewind im offenen Boot ist eiskalt.",
+                "hu": "Öltözzön melegen, a tengeri szél a csónakban jéghideg.",
+                "ro": "Îmbrăcați-vă gros, vântul de pe mare în barca deschisă este rece.",
+                "en": "Bundle up, the sea breeze in the open boat is freezing."
+              }
+            },
+            {
+              "name": "Borik Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille des Strandes ohne die Sommergäste.",
+                "hu": "Élvezze a strand csendjét a nyári vendégek nélkül.",
+                "ro": "Bucurați-vă de liniștea plajei fără oaspeții de vară.",
+                "en": "Enjoy the absolute silence of the beach without summer crowds."
+              }
+            },
+            {
+              "name": "Diklo Promenade",
+              "tip_5lang": {
+                "de": "Ein toller Ort, um vom Bus aus den frühen Sonnenuntergang zu sehen.",
+                "hu": "Remek hely, hogy a buszból nézze a korai naplementét.",
+                "ro": "Un loc grozav pentru a vedea apusul timpuriu din autobuz.",
+                "en": "Great place to catch the early winter sunset from the bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie den ausgedünnten Winterfahrplan der Busse.",
+              "Die beheizten Busse eignen sich gut zum Aufwärmen zwischen den Stopps.",
+              "Sitzen Sie auf der Meerseite für tolle Ausblicke aus dem warmen Bus.",
+              "Die Barkajoli-Fahrer freuen sich im Winter besonders über Trinkgeld.",
+              "Planen Sie Ihre letzte Busrückfahrt nicht zu spät abends."
+            ],
+            "hu": [
+              "Figyeljen a ritkított téli buszmenetrendre.",
+              "A fűtött buszok remekül szolgálnak felmelegedésre a megállók között.",
+              "Üljön a tenger felőli oldalra a remek kilátásért a meleg buszból.",
+              "A Barkajoli evezősök télen különösen értékelik a borravalót.",
+              "Ne tervezze a legutolsó visszautat túl késő estére."
+            ],
+            "ro": [
+              "Fiți atenți la orarul redus de iarnă al autobuzelor.",
+              "Autobuzele încălzite sunt perfecte pentru a vă încălzi între opriri.",
+              "Așezați-vă pe partea cu marea pentru priveliști din autobuzul cald.",
+              "Bărcașii Barkajoli apreciază foarte mult bacșișul iarna.",
+              "Nu programați ultima întoarcere cu autobuzul prea târziu seara."
+            ],
+            "en": [
+              "Pay attention to the reduced winter schedule for local buses.",
+              "Use the heated buses as a chance to warm up between walks.",
+              "Sit on the sea-facing side for great views from the warm bus.",
+              "The Barkajoli boatmen really appreciate a tip in the cold winter.",
+              "Don't plan your final bus ride back too late in the evening."
+            ]
+          }
+        }
       }
     }
   },

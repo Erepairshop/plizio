@@ -308,6 +308,439 @@
           "Corso Vannucci is liveliest in the late afternoon.",
           "Rocca Paolina is crisscrossed with escalators and serves as a shortcut."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das monumentale Zentrum von Perugia zu Fuß. Beginnen Sie am Piazza IV Novembre mit dem berühmten Brunnen und der Kathedrale. Tauchen Sie in die etruskische Vergangenheit am Pozzo und dem monumentalen Bogen ein. Nach dem Besuch der Nationalgalerie flanieren Sie über den Corso Vannucci, bevor Sie in das faszinierende Labyrinth der Rocca Paolina eintauchen, einer unterirdischen Welt aus dem 16. Jahrhundert.",
+            "hu": "Fedezze fel Perugia monumentális központját gyalogosan. Kezdje a Piazza IV Novembre téren a híres kúttal és a katedrálissal. Merüljön el az etruszk múltban a Pozzónál és a monumentális ívnél. A Nemzeti Galéria megtekintése után korzózzon a Corso Vannuccin, majd fedezze fel a Rocca Paolina lenyűgöző labirintusát, amely egy 16. századi föld alatti világ az utcaszint alatt.",
+            "ro": "Explorați centrul monumental al Perugiei la pas. Începeți în Piazza IV Novembre cu fântâna celebră și Catedrala. Descoperiți trecutul etrusc la Pozzo și la arcul monumental. După vizitarea Galeriei Naționale, plimbați-vă pe Corso Vannucci înainte de a intra în labirintul fascinant de la Rocca Paolina, o lume subterană din secolul al XVI-lea.",
+            "en": "Explore the monumental center of Perugia on foot. Start at Piazza IV Novembre with the famous fountain and the Cathedral. Dive into the Etruscan past at the Pozzo and the monumental Arch. After visiting the National Gallery, stroll down Corso Vannucci before entering the fascinating labyrinth of Rocca Paolina, an underground world from the 16th century."
+          },
+          "stops": [
+            {
+              "name": "Fontana Maggiore",
+              "tip_5lang": {
+                "de": "Betrachten Sie die feinen Reliefs der Pisano-Brüder.",
+                "hu": "Nézze meg alaposan a Pisano testvérek finom domborműveit.",
+                "ro": "Observați reliefurile fine ale fraților Pisano.",
+                "en": "Examine the fine reliefs by the Pisano brothers."
+              }
+            },
+            {
+              "name": "Cattedrale di San Lorenzo",
+              "tip_5lang": {
+                "de": "Die unvollendete Fassade gibt der Kirche ihren Charakter.",
+                "hu": "A befejezetlen homlokzat adja a templom karakterét.",
+                "ro": "Fațada neterminată conferă bisericii caracterul său.",
+                "en": "The unfinished facade gives the church its character."
+              }
+            },
+            {
+              "name": "Pozzo Etrusco",
+              "tip_5lang": {
+                "de": "Ein 37 Meter tiefer etruskischer Brunnen.",
+                "hu": "37 méter mély etruszk kút.",
+                "ro": "O fântână etruscă de 37 de metri adâncime.",
+                "en": "A 37-meter deep Etruscan well."
+              }
+            },
+            {
+              "name": "Arco Etrusco",
+              "tip_5lang": {
+                "de": "Das beeindruckendste Tor der antiken Stadtmauer.",
+                "hu": "Az ókori városfal legimpozánsabb kapuja.",
+                "ro": "Cea mai impresionantă poartă a zidurilor antice.",
+                "en": "The most impressive gate of the ancient city walls."
+              }
+            },
+            {
+              "name": "Galleria Nazionale dell'Umbria",
+              "tip_5lang": {
+                "de": "Bedeutende Sammlung umbrischer Kunst.",
+                "hu": "Az umbriai művészet legfontosabb gyűjteménye.",
+                "ro": "Cea mai importantă colecție de artă umbriană.",
+                "en": "Significant collection of Umbrian art."
+              }
+            },
+            {
+              "name": "Corso Vannucci",
+              "tip_5lang": {
+                "de": "Die Flaniermeile von Perugia, ideal für einen Aperitif.",
+                "hu": "Perugia korzója, ideális egy aperitifhez.",
+                "ro": "Bulevardul principal din Perugia, ideal pentru un aperitiv.",
+                "en": "Perugia's main promenade, ideal for an aperitif."
+              }
+            },
+            {
+              "name": "Rocca Paolina",
+              "tip_5lang": {
+                "de": "Eine unterirdische Festungsstadt unter den Straßen.",
+                "hu": "Föld alatti erődváros az utcák alatt.",
+                "ro": "O fortăreață subterană sub străzile orașului.",
+                "en": "An underground fortress city beneath the streets."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Baci Perugina",
+                "tip": "Die weltberühmten Schokoladenküsse."
+              },
+              {
+                "name": "Torta al Testo",
+                "tip": "Traditionelles Fladenbrot, gefüllt mit Wurst oder Gemüse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Baci Perugina",
+                "tip": "A világhírű csokoládés mogyorós csók."
+              },
+              {
+                "name": "Torta al Testo",
+                "tip": "Hagyományos lepénykenyér, kolbásszal vagy zöldséggel töltve."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Baci Perugina",
+                "tip": "Faimoasele bomboane de ciocolată cu alune."
+              },
+              {
+                "name": "Torta al Testo",
+                "tip": "Lipie tradițională umplută cu cârnați sau legume."
+              }
+            ],
+            "en": [
+              {
+                "name": "Baci Perugina",
+                "tip": "The world-famous hazelnut chocolates."
+              },
+              {
+                "name": "Torta al Testo",
+                "tip": "Traditional flatbread filled with sausage or vegetables."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Giardini Carducci",
+                "tip": "Panoramablick über das umbrische Tal.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "San Bernardino",
+                "tip": "Wunderschönes Oratorium mit polychromer Fassade.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Giardini Carducci",
+                "tip": "Panorámás kilátás az umbriai völgyre.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "San Bernardino",
+                "tip": "Gyönyörű oratórium színes homlokzattal.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Giardini Carducci",
+                "tip": "Vedere panoramică asupra văii umbriene.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "San Bernardino",
+                "tip": "Oratoriu superb cu fațadă policromă.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Giardini Carducci",
+                "tip": "Panoramic view over the Umbrian valley.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "San Bernardino",
+                "tip": "Beautiful oratory with a polychrome facade.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Sandri dal 1860",
+                "tip": "Historische Konditorei mit herrlicher Auslage."
+              },
+              {
+                "name": "Perugina Schokoladenladen",
+                "tip": "Ideal für Souvenirs in der Nähe des Corso."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sandri dal 1860",
+                "tip": "Történelmi cukrászda lenyűgöző kirakattal."
+              },
+              {
+                "name": "Perugina csokoládébolt",
+                "tip": "Ideális szuvenírekhez a Corso közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sandri dal 1860",
+                "tip": "Cofetărie istorică cu o vitrină superbă."
+              },
+              {
+                "name": "Magazinul de ciocolată Perugina",
+                "tip": "Ideal pentru suveniruri lângă Corso."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sandri dal 1860",
+                "tip": "Historic pastry shop with a magnificent display."
+              },
+              {
+                "name": "Perugina Chocolate Shop",
+                "tip": "Ideal for souvenirs near the Corso."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die Minimetrò, um vom Parkplatz ins Zentrum zu gelangen.",
+              "Besuchen Sie Perugia im Oktober während der 'Eurochocolate'.",
+              "Der Corso Vannucci ist am späten Nachmittag am lebhaftesten.",
+              "Die Rocca Paolina ist mit Rolltreppen durchzogen und dient als Abkürzung."
+            ],
+            "hu": [
+              "Használja a Minimetròt a parkolóból a központba jutáshoz.",
+              "Látogasson el Perugiába októberben az 'Eurochocolate' idején.",
+              "A Corso Vannucci késő délután a legélénkebb.",
+              "A Rocca Paolina mozgólépcsőkkel van átszőve, és lerövidíti az utat."
+            ],
+            "ro": [
+              "Folosiți Minimetrò pentru a ajunge din parcare în centru.",
+              "Vizitați Perugia în octombrie în timpul festivalului 'Eurochocolate'.",
+              "Corso Vannucci este cel mai animat după-amiaza târziu.",
+              "Rocca Paolina este străbătută de scări rulante și servește ca scurtătură."
+            ],
+            "en": [
+              "Use the Minimetrò to get from the parking lot to the center.",
+              "Visit Perugia in October during 'Eurochocolate'.",
+              "Corso Vannucci is liveliest in the late afternoon.",
+              "Rocca Paolina is crisscrossed with escalators and serves as a shortcut."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Perugias Steinstraßen sind bei Regen rutschig, aber sehr stimmungsvoll. Beginnen Sie an der Fontana Maggiore mit einem Schirm und suchen Sie Schutz in der Kathedrale. Der Nachmittag ist perfekt für den unterirdischen Pozzo Etrusco und die Galleria Nazionale. Beenden Sie den Tag in der komplett überdachten Rocca Paolina.",
+            "hu": "Perugia kőutcái csúszósak, de hangulatosak esőben. Kezdj a Fontana Maggiorénál egy esernyővel, majd húzódj be a Katedrálisba. A délután tökéletes a föld alatti Pozzo Etrusco és a fedett Galleria Nazionale felfedezésére. A napot a Rocca Paolina fedett mozgólépcsőin zárd egy kávéval.",
+            "ro": "Străzile de piatră din Perugia sunt alunecoase, dar pline de atmosferă pe ploaie. Începeți la Fontana Maggiore cu o umbrelă, apoi refugiați-vă în Catedrală. După-amiaza este perfectă pentru Pozzo Etrusco subteran și Galleria Nazionale. Încheiați ziua pe scările rulante acoperite de la Rocca Paolina.",
+            "en": "Perugia's stone streets are slippery but atmospheric in the rain. Start at Fontana Maggiore under an umbrella, then take refuge in the Cathedral. Afternoon is perfect for the underground Pozzo Etrusco and indoor Galleria Nazionale. End your day navigating the covered escalators of Rocca Paolina."
+          },
+          "stops": [
+            {
+              "name": "Fontana Maggiore",
+              "tip_5lang": {
+                "de": "Vorsicht; nasse Steine um den Brunnen sind extrem rutschig.",
+                "hu": "Vigyázz a lépésedre; a kút körüli vizes kövek csúszósak.",
+                "ro": "Atenție la pași; pietrele ude din jurul fântânii alunecă.",
+                "en": "Watch your step; wet stones around the fountain are slippery."
+              }
+            },
+            {
+              "name": "Cattedrale di San Lorenzo",
+              "tip_5lang": {
+                "de": "Ein perfekter trockener Zufluchtsort mit tollem Inneren.",
+                "hu": "Tökéletes száraz menedék lenyűgöző belső térrel.",
+                "ro": "Un refugiu uscat perfect, cu interioare uimitoare.",
+                "en": "A perfect dry refuge with stunning interiors."
+              }
+            },
+            {
+              "name": "Pozzo Etrusco",
+              "tip_5lang": {
+                "de": "Unterirdischer Ort, unberührt vom Regen draußen.",
+                "hu": "Földalatti látványosság, az eső egyáltalán nem befolyásolja.",
+                "ro": "Atracție subterană, neafectată de ploaia de afară.",
+                "en": "Underground site, completely unaffected by the rain outside."
+              }
+            },
+            {
+              "name": "Arco Etrusco",
+              "tip_5lang": {
+                "de": "Machen Sie schnell Fotos und suchen Sie Schutz in der Nähe.",
+                "hu": "Készíts gyorsan fotókat, és keress menedéket a közelben.",
+                "ro": "Faceți fotografii rapid și căutați adăpost în apropiere.",
+                "en": "Take photos quickly and seek shelter in a nearby cafe."
+              }
+            },
+            {
+              "name": "Galleria Nazionale dell'Umbria",
+              "tip_5lang": {
+                "de": "Verbringen Sie hier mehr Zeit, um komplett trocken zu bleiben.",
+                "hu": "Tölts itt több időt, hogy teljesen száraz maradj.",
+                "ro": "Petreceți mai mult timp aici pentru a rămâne complet uscat.",
+                "en": "Spend extra time here to stay completely dry."
+              }
+            },
+            {
+              "name": "Corso Vannucci",
+              "tip_5lang": {
+                "de": "Bleiben Sie an den Seiten unter den Markisen der Gebäude.",
+                "hu": "Maradj az utca szélein az épületek napellenzői alatt.",
+                "ro": "Rămâneți pe margini sub copertinele clădirilor.",
+                "en": "Stick to the sides under the building awnings."
+              }
+            },
+            {
+              "name": "Rocca Paolina",
+              "tip_5lang": {
+                "de": "Erkunden Sie diese überdachte, unterirdische Festung bequem.",
+                "hu": "Fedezd fel ezt a fedett, földalatti erődöt kényelmesen.",
+                "ro": "Explorați confortabil această fortăreață subterană acoperită.",
+                "en": "Explore this covered, underground fortress comfortably."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit.",
+              "Tragen Sie rutschfeste Schuhe für nasse Pflastersteine.",
+              "Nutzen Sie die überdachten Rolltreppen für steile Hügel.",
+              "Machen Sie Pausen in Cafés, um sich aufzuwärmen."
+            ],
+            "hu": [
+              "Vigyél magaddal strapabíró esernyőt.",
+              "Viselj csúszásmentes cipőt a nedves macskaköveken.",
+              "Használd a fedett mozgólépcsőket a meredek dombokon.",
+              "Tarts szünetet a kávézókban, hogy felmelegedj."
+            ],
+            "ro": [
+              "Purtați o umbrelă rezistentă și compactă.",
+              "Purtați pantofi antiderapanți pentru pietrele cubice ude.",
+              "Folosiți scările rulante acoperite pentru dealuri.",
+              "Faceți pauze în cafenele pentru a vă încălzi."
+            ],
+            "en": [
+              "Carry a sturdy umbrella at all times.",
+              "Wear non-slip shoes for wet historic cobblestones.",
+              "Use the covered escalators to navigate steep hills.",
+              "Take frequent breaks in local cafes to warm up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintermorgen in Perugia sind frisch, oft mit Nebel in den Tälern. Ziehen Sie sich warm an für die Fontana Maggiore. Die Nachmittagssonne wärmt den Corso Vannucci, ideal für einen Spaziergang. Der Abend kommt früh, genießen Sie die beleuchtete Rocca Paolina vor einem deftigen umbrischen Abendessen.",
+            "hu": "A téli reggelek Perugiában csípősek, a völgyekben gyakran ködösek. Öltözz melegen a Fontana Maggiore és a Katedrális felfedezéséhez. A délutáni nap felmelegíti a Corso Vannuccit. Az este korán érkezik, így élvezd a kivilágított Rocca Paolinát egy kiadós umbriai vacsora előtt.",
+            "ro": "Diminețile de iarnă în Perugia sunt geroase, deseori cu ceață în văi. Îmbrăcați-vă gros pentru Fontana Maggiore. Soarele de după-amiază încălzește Corso Vannucci, ideal pentru o plimbare. Seara vine devreme, bucurați-vă de Rocca Paolina iluminată înainte de o cină consistentă.",
+            "en": "Winter mornings in Perugia are crisp, often with mist in the valleys. Bundle up for the walk to Fontana Maggiore and the Cathedral. The afternoon sun warms Corso Vannucci, ideal for a brisk stroll. Evening comes early, so enjoy the illuminated Rocca Paolina before a hearty Umbrian dinner."
+          },
+          "stops": [
+            {
+              "name": "Fontana Maggiore",
+              "tip_5lang": {
+                "de": "Der Platz kann sehr windig sein, ziehen Sie sich warm an.",
+                "hu": "A tér nagyon szeles lehet, öltözz fel jó melegen.",
+                "ro": "Piața poate fi foarte vântoasă, îmbrăcați-vă gros.",
+                "en": "The square can be quite windy; wrap up warm."
+              }
+            },
+            {
+              "name": "Cattedrale di San Lorenzo",
+              "tip_5lang": {
+                "de": "Treten Sie ein, um Ihre Hände aufzuwärmen.",
+                "hu": "Lépj be, hogy kicsit felmelegítsd a kezeidet.",
+                "ro": "Intrați pentru a vă încălzi mâinile câteva minute.",
+                "en": "Step inside to warm up your hands and escape the wind."
+              }
+            },
+            {
+              "name": "Pozzo Etrusco",
+              "tip_5lang": {
+                "de": "Die unterirdische Temperatur fühlt sich im Winter wärmer an.",
+                "hu": "A földalatti hőmérséklet télen melegebbnek érződik.",
+                "ro": "Temperatura subterană se simte mai caldă iarna.",
+                "en": "The underground temperature feels much warmer in winter."
+              }
+            },
+            {
+              "name": "Arco Etrusco",
+              "tip_5lang": {
+                "de": "Wunderschön beleuchtet in der winterlichen Dämmerung.",
+                "hu": "Gyönyörűen kivilágítva a téli alkonyatban.",
+                "ro": "Frumos iluminat în amurgul de iarnă.",
+                "en": "Beautifully lit against the early winter twilight."
+              }
+            },
+            {
+              "name": "Galleria Nazionale dell'Umbria",
+              "tip_5lang": {
+                "de": "Tolle Indoor-Aktivität, wenn die Kälte am Abend einsetzt.",
+                "hu": "Nagyszerű beltéri program, amikor beáll az esti hideg.",
+                "ro": "Activitate interioară excelentă când se lasă frigul.",
+                "en": "Great indoor activity when the chill sets in after 4 PM."
+              }
+            },
+            {
+              "name": "Corso Vannucci",
+              "tip_5lang": {
+                "de": "Perfekt für einen flotten Winterspaziergang.",
+                "hu": "Tökéletes egy frissítő téli sétához egy forró itallal.",
+                "ro": "Perfect pentru o plimbare revigorantă de iarnă.",
+                "en": "Perfect for a brisk winter walk with a hot drink in hand."
+              }
+            },
+            {
+              "name": "Rocca Paolina",
+              "tip_5lang": {
+                "de": "Geschützt vor den kalten Winterwinden der Stadt.",
+                "hu": "Védve van a város hideg téli szeleitől.",
+                "ro": "Protejat de vânturile reci de iarnă ale orașului.",
+                "en": "Completely sheltered from the cold winter winds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in warmen Schichten.",
+              "Sonnenuntergänge sind früh gegen 16:30 Uhr.",
+              "Achten Sie auf eisige Stellen auf schattigen Straßen.",
+              "Probieren Sie saisonale Trüffelgerichte."
+            ],
+            "hu": [
+              "Öltözz meleg, réteges ruházatba.",
+              "A napnyugta korán, 16:30 körül van.",
+              "Vigyázz a jeges foltokra az árnyékos utcákon.",
+              "Kóstold meg a szezonális szarvasgombás ételeket."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi călduroase.",
+              "Apusurile sunt devreme, în jur de 16:30.",
+              "Atenție la porțiunile înghețate de pe străzile umbrite.",
+              "Încercați preparatele sezoniere cu trufe."
+            ],
+            "en": [
+              "Dress in warm layers to handle the hill breezes.",
+              "Sunsets are very early, around 16:30.",
+              "Beware of icy patches on shaded, narrow streets.",
+              "Try seasonal local truffle and wild boar dishes."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -532,6 +965,352 @@
           "E-bikes are a must due to the altitude differences.",
           "Use side streets to avoid traffic."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Perugia mit dem Rad zu erkunden erfordert Kondition, bietet aber weite Perspektiven. Vom Zentrum aus fahren Sie zum kunstvollen Oratorium und dann hinunter zur Basilika San Domenico. Eine Tour, die das spirituelle und künstlerische Erbe der Stadt verbindet.",
+            "hu": "Perugia felfedezése kerékpárral edzettséget igényel, de tágas távlatokat nyit. A központból indulva tekerjen a művészi oratóriumhoz, majd le a San Domenico bazilikához. Egy túra, amely ötvözi a város spirituális és művészeti örökségét.",
+            "ro": "Explorarea Perugiei cu bicicleta necesită condiție fizică, dar oferă perspective largi. Din centru, pedalați spre oratoriul artistic și apoi spre Bazilica San Domenico. Un tur care îmbină moștenirea spirituală și artistică a orașului.",
+            "en": "Exploring Perugia by bike requires stamina but offers broad perspectives. From the center, cycle to the artistic oratory and then down to the Basilica of San Domenico. A tour that combines the city's spiritual and artistic heritage."
+          },
+          "stops": [
+            {
+              "name": "Fontana Maggiore",
+              "tip_5lang": {
+                "de": "Startpunkt im Zentrum.",
+                "hu": "Központi kiindulópont.",
+                "ro": "Punct de plecare în centru.",
+                "en": "Starting point in the center."
+              }
+            },
+            {
+              "name": "Oratorio di San Bernardino",
+              "tip_5lang": {
+                "de": "Meisterwerk der Renaissance-Fassade.",
+                "hu": "Reneszánsz homlokzati mestermű.",
+                "ro": "Capodoperă a fațadei renascentiste.",
+                "en": "Masterpiece of Renaissance facade art."
+              }
+            },
+            {
+              "name": "Arco Etrusco",
+              "tip_5lang": {
+                "de": "Tor zur etruskischen Stadt.",
+                "hu": "Kapu az etruszk városba.",
+                "ro": "Poartă către orașul etrusc.",
+                "en": "Gate to the Etruscan city."
+              }
+            },
+            {
+              "name": "Basilica di San Domenico",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Grab von Papst Benedikt XI.",
+                "hu": "Látogassa meg XI. Benedek pápa sírját.",
+                "ro": "Vizitați mormântul Papei Benedict al XI-lea.",
+                "en": "Visit the tomb of Pope Benedict XI."
+              }
+            },
+            {
+              "name": "Corso Vannucci",
+              "tip_5lang": {
+                "de": "Pause für ein Mittagessen.",
+                "hu": "Ebédszünet.",
+                "ro": "Pauză de prânz.",
+                "en": "Break for lunch."
+              }
+            },
+            {
+              "name": "Galleria Nazionale",
+              "tip_5lang": {
+                "de": "Schneller Blick auf die Highlights.",
+                "hu": "Gyors betekintés a legfontosabb művekbe.",
+                "ro": "Vedere rapidă a punctelor de interes.",
+                "en": "Quick look at the highlights."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Porchetta",
+                "tip": "Würziges Spanferkel im Brötchen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Porchetta",
+                "tip": "Fűszeres sült malachús zsemlében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Porchetta",
+                "tip": "Purcel de lapte fript cu ierburi în chiflă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Porchetta",
+                "tip": "Spiced roasted pork in a bun."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Tempio di Sant'Angelo",
+                "tip": "Runde frühchristliche Kirche.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sant'Angelo templom",
+                "tip": "Kerek kora keresztény templom.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Templul Sant'Angelo",
+                "tip": "Biserică circulară paleocreștină.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Temple of Sant'Angelo",
+                "tip": "Round early Christian church.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Deruta Keramik",
+                "tip": "In den Läden der Altstadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Deruta kerámia",
+                "tip": "Az óvárosi boltokban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ceramică de Deruta",
+                "tip": "În magazinele din centrul vechi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Deruta Ceramics",
+                "tip": "In the shops of the old town."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "E-Bikes sind aufgrund der Höhenunterschiede ein Muss.",
+              "Nutzen Sie die Nebenstraßen, um dem Verkehr zu entgehen."
+            ],
+            "hu": [
+              "Az e-bike elengedhetetlen a szintkülönbségek miatt.",
+              "Használja a mellékutcákat a forgalom elkerülése érdekében."
+            ],
+            "ro": [
+              "E-bike-urile sunt esențiale din cauza diferențelor de nivel.",
+              "Folosiți străzile secundare pentru a evita traficul."
+            ],
+            "en": [
+              "E-bikes are a must due to the altitude differences.",
+              "Use side streets to avoid traffic."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Perugia erfordert bei Regen auf dem historischen Pflaster Vorsicht. Beginnen Sie an der Fontana Maggiore und fahren Sie zum Oratorio. Die Route zur Basilica di San Domenico ist nass, tragen Sie gute Ausrüstung. Beenden Sie die Tour am Corso Vannucci, wo Sie in der Galleria trocknen können.",
+            "hu": "Perugiában az esős kerékpározás óvatosságot igényel a történelmi köveken. Kezdj a Fontana Maggiorénál, majd menj az Oratoriohoz. A San Domenico felé vezető út nedves, viselj vízálló ruhát. Fejezd be a Corso Vannuccin és a Galleriában, ahol megszáradhatsz.",
+            "ro": "Ciclismul în Perugia pe ploaie necesită prudență pe pavajul istoric. Începeți la Fontana Maggiore, apoi mergeți la Oratorio. Traseul spre San Domenico este ud, purtați echipament bun. Încheiați la Corso Vannucci și Galleria, unde vă puteți usca.",
+            "en": "Cycling Perugia in the rain requires caution on the historic paving. Start at Fontana Maggiore, then ride carefully to the Oratorio. The afternoon route to Basilica di San Domenico is wet, so wear good gear. End at Corso Vannucci and the Galleria, where you can finally dry off."
+          },
+          "stops": [
+            {
+              "name": "Fontana Maggiore",
+              "tip_5lang": {
+                "de": "Steigen Sie hier ab; nasse Steine sind rutschig.",
+                "hu": "Szállj le a kerékpárról; a vizes kövek csúszósak.",
+                "ro": "Descălecați aici; pietrele ude sunt foarte alunecoase.",
+                "en": "Dismount here; wet historical stones are very slippery."
+              }
+            },
+            {
+              "name": "Oratorio di San Bernardino",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad und suchen Sie Schutz an der Fassade.",
+                "hu": "Parkold le a biciklit és keress menedéket a homlokzatnál.",
+                "ro": "Parcați bicicleta și adăpostiți-vă sub fațadă.",
+                "en": "Park your bike and shelter under the beautiful facade."
+              }
+            },
+            {
+              "name": "Arco Etrusco",
+              "tip_5lang": {
+                "de": "Bremsen Sie früh auf der nassen Zufahrt.",
+                "hu": "Fékezz korán a nedves megközelítési szakaszon.",
+                "ro": "Frânați devreme pe abordarea udă.",
+                "en": "Brake early and gently on the wet approach."
+              }
+            },
+            {
+              "name": "Basilica di San Domenico",
+              "tip_5lang": {
+                "de": "Das große Kirchenschiff bietet tollen Schutz vor Platzregen.",
+                "hu": "A hatalmas hajó remek menedéket nyújt a záporok elől.",
+                "ro": "Nava mare oferă un adăpost excelent de averse.",
+                "en": "The large nave offers great shelter from heavy downpours."
+              }
+            },
+            {
+              "name": "Corso Vannucci",
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Rad, um auf dem nassen Pflaster nicht zu rutschen.",
+                "hu": "Told a biciklit, hogy ne csússz meg a nedves burkolaton.",
+                "ro": "Împingeți bicicleta pentru a evita deraparea pe pavaj.",
+                "en": "Push your bike to avoid skidding on the wet pavement."
+              }
+            },
+            {
+              "name": "Galleria Nazionale",
+              "tip_5lang": {
+                "de": "Geben Sie Ihre nasse Ausrüstung an der Garderobe ab.",
+                "hu": "Hagyd a vizes felszerelésedet a ruhatárban.",
+                "ro": "Lăsați echipamentul ud la garderobă.",
+                "en": "Leave your wet cycling gear at the cloakroom."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nasses Kopfsteinpflaster ist extrem rutschig.",
+              "Senken Sie den Reifendruck leicht für besseren Halt.",
+              "Tragen Sie gut sichtbare, wasserdichte Kleidung.",
+              "Bremsen Sie früh und sanft bei Abfahrten."
+            ],
+            "hu": [
+              "A nedves macskakövek rendkívül csúszósak.",
+              "Csökkentsd kissé a guminyomást a jobb tapadásért.",
+              "Viselj jól látható vízálló felszerelést.",
+              "Fékezz korán és óvatosan a lejtőkön."
+            ],
+            "ro": [
+              "Pietrele cubice ude sunt extrem de alunecoase.",
+              "Scădeți ușor presiunea în anvelope pentru aderență.",
+              "Purtați echipament impermeabil de înaltă vizibilitate.",
+              "Frânați devreme și ușor la coborâri."
+            ],
+            "en": [
+              "Wet historic cobblestones are extremely slippery.",
+              "Lower tire pressure slightly for better grip.",
+              "Wear high-visibility waterproof cycling gear.",
+              "Brake early and gently on the steep descents."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Perugia bietet klare Aussichten, aber beißende Kälte. Starten Sie flott an der Fontana Maggiore. Der Mittag bietet das beste Licht für den Arco Etrusco. Die Fahrt zu San Domenico ist frisch, enden Sie früh am Corso Vannucci, bevor die Temperatur stark abfällt.",
+            "hu": "A téli kerékpározás Perugiában tiszta kilátást, de csípős hideget kínál. Indulj tempósan a Fontana Maggiorétól. A délidő a legjobb az Arco Etrusco fotózásához. A San Domenico felé tartó út frissítő, fejezd be korán a Corso Vannuccin, mielőtt a hőmérséklet hirtelen leesik.",
+            "ro": "Ciclismul de iarnă în Perugia oferă vederi clare, dar un frig tăios. Porniți rapid de la Fontana Maggiore. Amiaza oferă cea mai bună lumină pentru Arco Etrusco. Plimbarea spre San Domenico este rece, încheiați devreme la Corso Vannucci înainte să scadă temperatura.",
+            "en": "Winter cycling in Perugia offers clear views but biting cold. Start briskly at Fontana Maggiore to warm up. Midday provides the best light for the Arco Etrusco. The afternoon ride to San Domenico is crisp, ending early at Corso Vannucci before the temperature drops sharply."
+          },
+          "stops": [
+            {
+              "name": "Fontana Maggiore",
+              "tip_5lang": {
+                "de": "Die Morgenluft ist sehr frisch; bleiben Sie in Bewegung.",
+                "hu": "A reggeli levegő nagyon csípős; maradj mozgásban.",
+                "ro": "Aerul dimineții este foarte rece; continuați să vă mișcați.",
+                "en": "The morning air is crisp; keep moving to stay warm."
+              }
+            },
+            {
+              "name": "Oratorio di San Bernardino",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wintersonne auf der bunten Fassade.",
+                "hu": "Élvezd a téli napsütést a színes homlokzaton.",
+                "ro": "Bucurați-vă de soarele de iarnă pe fațada colorată.",
+                "en": "Enjoy the low winter sun on the colorful facade."
+              }
+            },
+            {
+              "name": "Arco Etrusco",
+              "tip_5lang": {
+                "de": "Achten Sie auf eisige Stellen im Schatten des Bogens.",
+                "hu": "Vigyázz a jeges foltokra a boltív árnyékában.",
+                "ro": "Atenție la porțiunile înghețate din umbra arcului.",
+                "en": "Watch for icy patches in the deep shadow of the arch."
+              }
+            },
+            {
+              "name": "Basilica di San Domenico",
+              "tip_5lang": {
+                "de": "Der Innenraum kann kühl sein; Jacke anlassen.",
+                "hu": "A belső tér hűvös lehet; hagyd magadon a kabátot.",
+                "ro": "Interiorul poate fi răcoros; păstrați jacheta.",
+                "en": "The interior can be chilly; keep your cycling jacket on."
+              }
+            },
+            {
+              "name": "Corso Vannucci",
+              "tip_5lang": {
+                "de": "Ein heißes Getränk hier ist perfekt nach einer kalten Fahrt.",
+                "hu": "Egy forró ital itt tökéletes a hideg tekerés után.",
+                "ro": "O băutură fierbinte aici este perfectă după o cursă rece.",
+                "en": "A hot drink here is perfect after a freezing ride."
+              }
+            },
+            {
+              "name": "Galleria Nazionale",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich drinnen auf, während Sie die Kunst genießen.",
+                "hu": "Melegedj fel bent, miközben élvezed a művészetet.",
+                "ro": "Încălziți-vă înăuntru în timp ce vă bucurați de artă.",
+                "en": "Warm up inside while enjoying the magnificent art."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und warme Schichten.",
+              "Achten Sie auf Morgenfrost an schattigen Ecken.",
+              "Fahrradlichter sind nach 16:00 Uhr unerlässlich.",
+              "Machen Sie regelmäßig Pausen für heißen Kaffee."
+            ],
+            "hu": [
+              "Viselj szélálló kesztyűt és meleg réteges ruhát.",
+              "Vigyázz a reggeli deresedésre az árnyékos sarkokban.",
+              "A világítás elengedhetetlen 16:00 után.",
+              "Tarts rendszeres szüneteket egy forró kávéra."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și straturi calde.",
+              "Atenție la bruma dimineții în colțurile umbrite.",
+              "Luminile pentru bicicletă sunt esențiale după 16:00.",
+              "Faceți pauze regulate pentru o cafea fierbinte."
+            ],
+            "en": [
+              "Wear windproof cycling gloves and warm layers.",
+              "Watch for dangerous morning frost on shaded corners.",
+              "Bike lights are absolutely essential after 16:00.",
+              "Take regular breaks in cafes for hot coffee."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -756,6 +1535,352 @@
           "Use the Mercato Coperto or Piazza Partigiani parking garages.",
           "The center is closed to non-residents (ZTL)."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie bequem die Schätze in und um Perugia. Nach den Highlights der Altstadt fahren Sie zum Ipogeo dei Volumni, einer faszinierenden etruskischen Grabanlage. Beachten Sie die Parkmöglichkeiten am Rande der ZTL-Zone für einen stressfreien Besuch.",
+            "hu": "Autóval kényelmesen elérheti Perugia belvárosi és környékbeli kincseit. Az óváros fénypontjai után hajtson az Ipogeo dei Volumnihoz, egy lenyűgöző etruszk síremlékhez. A stresszmentes látogatás érdekében parkoljon a ZTL zóna határán.",
+            "ro": "Cu mașina puteți ajunge ușor la comorile din Perugia și din împrejurimi. După punctele de interes din centru, mergeți la Ipogeo dei Volumni, un mormânt etrusc fascinant. Parcați la marginea zonei ZTL pentru o vizită fără stres.",
+            "en": "By car, you can easily reach the treasures in and around Perugia. After the highlights of the old town, drive to the Ipogeo dei Volumni, a fascinating Etruscan tomb. Park at the edge of the ZTL zone for a stress-free visit."
+          },
+          "stops": [
+            {
+              "name": "Pozzo Etrusco",
+              "tip_5lang": {
+                "de": "Parken Sie am Piazza Partigiani.",
+                "hu": "Parkoljon a Piazza Partigiani téren.",
+                "ro": "Parcați în Piazza Partigiani.",
+                "en": "Park at Piazza Partigiani."
+              }
+            },
+            {
+              "name": "Arco Etrusco",
+              "tip_5lang": {
+                "de": "Gut sichtbar von der Straße.",
+                "hu": "Jól látható az útról.",
+                "ro": "Bine vizibil de pe stradă.",
+                "en": "Well visible from the road."
+              }
+            },
+            {
+              "name": "Palazzo dei Priori",
+              "tip_5lang": {
+                "de": "Einer der schönsten Kommunalpaläste Italiens.",
+                "hu": "Olaszország egyik legszebb középkori városházája.",
+                "ro": "Unul dintre cele mai frumoase palate comunale din Italia.",
+                "en": "One of Italy's finest communal palaces."
+              }
+            },
+            {
+              "name": "Basilica di San Domenico",
+              "tip_5lang": {
+                "de": "Beeindruckende Glasfenster.",
+                "hu": "Lenyűgöző üvegablakok.",
+                "ro": "Vitralii impresionante.",
+                "en": "Impressive stained glass windows."
+              }
+            },
+            {
+              "name": "Ipogeo dei Volumni",
+              "tip_5lang": {
+                "de": "Etruskische Grabanlage am Stadtrand.",
+                "hu": "Etruszk síremlék a város szélén.",
+                "ro": "Mormânt etrusc la marginea orașului.",
+                "en": "Etruscan tomb on the outskirts."
+              }
+            },
+            {
+              "name": "Corso Vannucci",
+              "tip_5lang": {
+                "de": "Abendspaziergang zum Abschluss.",
+                "hu": "Záró esti séta.",
+                "ro": "Plimbare de seară la final.",
+                "en": "Closing evening stroll."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Wildschwein-Ragout",
+                "tip": "Herzhafte Pasta-Sauce."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vaddisznó ragu",
+                "tip": "Kiadós tésztaszósz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ragù de mistreț",
+                "tip": "Sos consistent pentru paste."
+              }
+            ],
+            "en": [
+              {
+                "name": "Wild Boar Ragù",
+                "tip": "Hearty pasta sauce."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Monte Tezio",
+                "tip": "Wandern mit Blick auf den Trasimener See.",
+                "emoji": "⛰️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Monte Tezio",
+                "tip": "Túrázás kilátással a Trasimeno-tóra.",
+                "emoji": "⛰️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Monte Tezio",
+                "tip": "Drumeție cu vedere la Lacul Trasimeno.",
+                "emoji": "⛰️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Monte Tezio",
+                "tip": "Hiking with views of Lake Trasimeno.",
+                "emoji": "⛰️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Cashmere",
+                "tip": "Umbrien ist berühmt für hochwertige Strickwaren."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kasmír",
+                "tip": "Umbria híres a kiváló minőségű kötöttáruiról."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cașmir",
+                "tip": "Umbria este faimoasă pentru tricotajele de calitate."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cashmere",
+                "tip": "Umbria is famous for high-quality knitwear."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser Mercato Coperto oder Piazza Partigiani.",
+              "Das Zentrum ist für Nicht-Anwohner gesperrt (ZTL)."
+            ],
+            "hu": [
+              "Használja a Mercato Coperto vagy a Piazza Partigiani parkolóházakat.",
+              "A központ zárva van a nem helyi lakosok előtt (ZTL)."
+            ],
+            "ro": [
+              "Folosiți parcările Mercato Coperto sau Piazza Partigiani.",
+              "Centrul este închis pentru ne-rezidenți (ZTL)."
+            ],
+            "en": [
+              "Use the Mercato Coperto or Piazza Partigiani parking garages.",
+              "The center is closed to non-residents (ZTL)."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren im regnerischen Perugia bedeutet, sich auf überdachte Parkplätze zu verlassen. Starten Sie nahe dem Pozzo Etrusco. Der Mittag bietet den Indoor-Palazzo dei Priori. Fahren Sie nachmittags zum überdachten Ipogeo dei Volumni, um dem Regen zu entgehen, und beenden Sie die Tour am Corso Vannucci.",
+            "hu": "Az esős perugiai vezetés során támaszkodj a fedett parkolókra. Kezdj a Pozzo Etrusco közelében. A délidőt töltsd a Palazzo dei Prioriban. Délután vezess a fedett Ipogeo dei Volumnihoz, elkerülve az esőt, majd fejezd be a Corso Vannuccin.",
+            "ro": "Condusul în Perugia ploioasă înseamnă parcări acoperite și atracții interioare. Începeți lângă Pozzo Etrusco. Amiaza oferă Palazzo dei Priori. Conduceți după-amiaza la Ipogeo dei Volumni pentru a evita ploaia, terminând la Corso Vannucci.",
+            "en": "Driving in rainy Perugia means relying on covered parking and indoor sights. Start near Pozzo Etrusco. Midday features the indoor Palazzo dei Priori and San Domenico. In the afternoon, drive to the covered Ipogeo dei Volumni, avoiding the rain, before ending at Corso Vannucci."
+          },
+          "stops": [
+            {
+              "name": "Pozzo Etrusco",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und nutzen Sie einen Regenschirm.",
+                "hu": "Parkolj a közelben, és használj esernyőt a sétához.",
+                "ro": "Parcați în apropiere și folosiți o umbrelă.",
+                "en": "Park nearby and use an umbrella for the short walk."
+              }
+            },
+            {
+              "name": "Arco Etrusco",
+              "tip_5lang": {
+                "de": "Bei starkem Regen auch gut vom Auto aus zu sehen.",
+                "hu": "Erős esőzés esetén az autóból is jól megtekinthető.",
+                "ro": "Vizibil din mașină dacă plouă foarte tare.",
+                "en": "Easily viewable from the comfort of your car if raining heavily."
+              }
+            },
+            {
+              "name": "Palazzo dei Priori",
+              "tip_5lang": {
+                "de": "Ein ausgezeichneter Indoor-Zufluchtsort für einen nassen Morgen.",
+                "hu": "Kiváló beltéri menedék egy nedves délelőttre.",
+                "ro": "Un refugiu interior excelent pentru o dimineață umedă.",
+                "en": "An excellent indoor refuge for a very rainy morning."
+              }
+            },
+            {
+              "name": "Basilica di San Domenico",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken zu bleiben.",
+                "hu": "Parkolj közel a bejárathoz, hogy száraz maradj.",
+                "ro": "Parcați aproape de intrare pentru a rămâne uscat.",
+                "en": "Try to park close to the entrance to stay dry."
+              }
+            },
+            {
+              "name": "Ipogeo dei Volumni",
+              "tip_5lang": {
+                "de": "Ein unterirdisches Grab, komplett wetterfest.",
+                "hu": "Földalatti sírkamra, teljesen időjárásálló.",
+                "ro": "Mormânt subteran, complet ferit de intemperii.",
+                "en": "An underground tomb, completely weather-proof."
+              }
+            },
+            {
+              "name": "Corso Vannucci",
+              "tip_5lang": {
+                "de": "Parken Sie bei Partigiani und nehmen Sie die Rolltreppen hoch.",
+                "hu": "Parkolj a Partigianinál és menj fel a mozgólépcsőn.",
+                "ro": "Parcați la Partigiani și luați scările rulante.",
+                "en": "Park at Partigiani and take the covered escalators all the way up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Tiefgaragen wie die Piazza Partigiani.",
+              "Stellen Sie sicher, dass die Scheibenwischer intakt sind.",
+              "Die Sicht in engen historischen Straßen ist oft schlecht.",
+              "Achten Sie auf Fußgänger mit großen Regenschirmen."
+            ],
+            "hu": [
+              "Használj mélygarázsokat, mint a Piazza Partigiani.",
+              "Ellenőrizd, hogy az ablaktörlők jó állapotban vannak.",
+              "A látási viszonyok rosszak a szűk történelmi utcákban.",
+              "Vigyázz az úton átkelő, nagy esernyős gyalogosokra."
+            ],
+            "ro": [
+              "Folosiți parcări subterane precum Piazza Partigiani.",
+              "Asigurați-vă că ștergătoarele sunt în stare bună.",
+              "Vizibilitatea este redusă pe străzile istorice înguste.",
+              "Atenție la pietonii cu umbrele mari care nu văd bine."
+            ],
+            "en": [
+              "Use underground parking facilities like Piazza Partigiani.",
+              "Ensure your windshield wipers are in very good condition.",
+              "Visibility is extremely low on narrow historic streets.",
+              "Watch out for pedestrians carrying large umbrellas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahren in Perugia ist bequem, erfordert aber Planung wegen des kurzen Tageslichts. Starten Sie am Pozzo Etrusco. Fahren Sie nach dem Palazzo dei Priori zum Ipogeo dei Volumni, solange die Sonne scheint. Kehren Sie abends für eine magische Winterstimmung zum Corso Vannucci zurück.",
+            "hu": "A téli vezetés Perugiában kényelmes, de tervezést igényel a rövid nappalok miatt. Kezdj a Pozzo Etrusconál. A Palazzo dei Priori után még világosban menj az Ipogeo dei Volumnihoz. Térj vissza este a Corso Vannuccira a varázslatos téli hangulatért.",
+            "ro": "Condusul de iarnă în Perugia este confortabil, dar necesită planificare pentru lumina scurtă. Începeți la Pozzo Etrusco. După Palazzo dei Priori, mergeți la Ipogeo dei Volumni pe lumină. Întoarceți-vă seara la Corso Vannucci pentru o atmosferă magică.",
+            "en": "Winter driving in Perugia is comfortable but requires planning for short daylight. Start at Pozzo Etrusco in the morning chill. After visiting Palazzo dei Priori, drive to the Ipogeo dei Volumni while the sun is still up. Return to Corso Vannucci in the evening for a magical winter atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Pozzo Etrusco",
+              "tip_5lang": {
+                "de": "Morgenfrost ist häufig; fahren Sie vorsichtig auf den Hügeln.",
+                "hu": "A reggeli dér gyakori; vezess óvatosan a dombokon.",
+                "ro": "Bruma de dimineață e deasă; conduceți cu grijă.",
+                "en": "Morning frost is common; drive carefully on the steep hills."
+              }
+            },
+            {
+              "name": "Arco Etrusco",
+              "tip_5lang": {
+                "de": "Atemberaubend im niedrigen, klaren Sonnenlicht des Winters.",
+                "hu": "Lélegzetelállító az alacsony, tiszta téli napsütésben.",
+                "ro": "Uluitor în lumina scăzută și clară a iernii.",
+                "en": "Stunning in the low, clear winter sunlight."
+              }
+            },
+            {
+              "name": "Palazzo dei Priori",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den großen, historischen Sälen auf.",
+                "hu": "Melegedj fel a hatalmas, történelmi termekben.",
+                "ro": "Încălziți-vă în sălile mari și istorice.",
+                "en": "Warm up in the grand, historical halls."
+              }
+            },
+            {
+              "name": "Basilica di San Domenico",
+              "tip_5lang": {
+                "de": "Die massive Steinkirche bleibt auch drinnen sehr kalt.",
+                "hu": "A hatalmas kőtemplom belül is nagyon hideg marad.",
+                "ro": "Biserica masivă din piatră rămâne foarte rece înăuntru.",
+                "en": "The massive stone church stays very cold inside."
+              }
+            },
+            {
+              "name": "Ipogeo dei Volumni",
+              "tip_5lang": {
+                "de": "Das unterirdische Klima ist trotz des Winters stabil.",
+                "hu": "A földalatti klíma a tél ellenére is stabil.",
+                "ro": "Clima subterană este stabilă în ciuda iernii.",
+                "en": "The underground climate is surprisingly stable despite the winter."
+              }
+            },
+            {
+              "name": "Corso Vannucci",
+              "tip_5lang": {
+                "de": "Genießen Sie die Winterlichter, nachdem Sie geparkt haben.",
+                "hu": "Élvezd a téli fényeket, miután leparkoltad az autót.",
+                "ro": "Bucurați-vă de luminile de iarnă după ce parcați.",
+                "en": "Enjoy the beautiful winter lights after parking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Außerhalb der Stadt können Winterreifen oder Ketten erforderlich sein.",
+              "Achten Sie auf Glatteis auf Brücken und Überführungen.",
+              "Parkplätze können im Schatten sehr rutschig sein.",
+              "Nutzen Sie die Heizung für Komfort zwischen den Stopps."
+            ],
+            "hu": [
+              "A városon kívül téli gumi vagy hólánc lehet kötelező.",
+              "Vigyázz a fekete jégre a hidakon és felüljárókon.",
+              "Az árnyékos parkolóhelyek nagyon csúszósak lehetnek.",
+              "Használd a fűtést a kényelmes utazásért a megállók között."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sau lanțurile pot fi necesare în afara orașului.",
+              "Atenție la gheața neagră de pe poduri și pasaje.",
+              "Parcările pot fi foarte alunecoase la umbră.",
+              "Folosiți căldura pentru a menține confortul între opriri."
+            ],
+            "en": [
+              "Winter tires or chains may be required outside the city limits.",
+              "Watch closely for black ice on bridges and overpasses.",
+              "Shaded parking areas can be extremely slippery.",
+              "Use the car heater to keep comfortable between stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -980,6 +2105,352 @@
           "A single ticket is valid for 70 minutes across the network.",
           "The Minimetrò runs every few minutes."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Das Highlight des Transports in Perugia ist die Minimetrò, eine fahrerlose Kabinenbahn. Sie bringt Sie mühelos vom Tal ins historische Pincetto. Nutzen Sie die Rolltreppen durch die Rocca Paolina, um die verschiedenen Ebenen der Stadt zu erkunden, ohne steile Treppen steigen zu müssen.",
+            "hu": "Perugia közlekedésének fénypontja a Minimetrò, egy vezető nélküli kabinos vasút. Ez könnyedén viszi fel a völgyből a történelmi Pincettóba. Használja a Rocca Paolina mozgólépcsőit a város különböző szintjeinek felfedezéséhez, meredek lépcsőzés nélkül.",
+            "ro": "Punctul forte al transportului în Perugia este Minimetrò, un trenuleț fără conductor. Acesta vă duce fără efort din vale până în Pincetto-ul istoric. Folosiți scările rulante prin Rocca Paolina pentru a explora diversele niveluri ale orașului fără a urca trepte abrupte.",
+            "en": "The highlight of transport in Perugia is the Minimetrò, a driverless cabin railway. It effortlessly takes you from the valley to the historical Pincetto. Use the escalators through Rocca Paolina to explore the different levels of the city without climbing steep stairs."
+          },
+          "stops": [
+            {
+              "name": "Corso Vannucci",
+              "tip_5lang": {
+                "de": "Endstation der Minimetrò (Pincetto).",
+                "hu": "A Minimetrò végállomása (Pincetto).",
+                "ro": "Capătul liniei de Minimetrò (Pincetto).",
+                "en": "End station of the Minimetrò (Pincetto)."
+              }
+            },
+            {
+              "name": "Palazzo dei Priori",
+              "tip_5lang": {
+                "de": "Besuchen Sie die gotischen Säle.",
+                "hu": "Látogassa meg a gótikus termeket.",
+                "ro": "Vizitați sălile gotice.",
+                "en": "Visit the Gothic halls."
+              }
+            },
+            {
+              "name": "Galleria Nazionale dell'Umbria",
+              "tip_5lang": {
+                "de": "Im obersten Stock des Palazzo Priori.",
+                "hu": "A Palazzo Priori felső emeletén.",
+                "ro": "La ultimul etaj al Palazzo Priori.",
+                "en": "On the top floor of Palazzo Priori."
+              }
+            },
+            {
+              "name": "Fontana Maggiore",
+              "tip_5lang": {
+                "de": "Symbol der Stadt.",
+                "hu": "A város jelképe.",
+                "ro": "Simbolul orașului.",
+                "en": "Symbol of the city."
+              }
+            },
+            {
+              "name": "Rocca Paolina",
+              "tip_5lang": {
+                "de": "Verbindet das Stadtzentrum mit der Minimetrò.",
+                "hu": "Összeköti a belvárost a Minimetròval.",
+                "ro": "Face legătura între centru și Minimetrò.",
+                "en": "Connects the city center with the Minimetrò."
+              }
+            },
+            {
+              "name": "San Bernardino",
+              "tip_5lang": {
+                "de": "Ruhiger Abschluss im Westen.",
+                "hu": "Csendes zárás nyugaton.",
+                "ro": "Final liniștit în partea de vest.",
+                "en": "Quiet end on the west side."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Chocolate Martini",
+                "tip": "Ein moderner Klassiker in Perugia."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Csokoládé Martini",
+                "tip": "Modern klasszikus Perugiában."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chocolate Martini",
+                "tip": "Un clasic modern în Perugia."
+              }
+            ],
+            "en": [
+              {
+                "name": "Chocolate Martini",
+                "tip": "A modern classic in Perugia."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "San Pietro",
+                "tip": "Abteikirche mit wunderschönem Garten.",
+                "emoji": "🌿"
+              }
+            ],
+            "hu": [
+              {
+                "name": "San Pietro",
+                "tip": "Apátsági templom gyönyörű kerttel.",
+                "emoji": "🌿"
+              }
+            ],
+            "ro": [
+              {
+                "name": "San Pietro",
+                "tip": "Biserică abațială cu grădină superbă.",
+                "emoji": "🌿"
+              }
+            ],
+            "en": [
+              {
+                "name": "San Pietro",
+                "tip": "Abbey church with a beautiful garden.",
+                "emoji": "🌿"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Umbria Jazz Souvenirs",
+                "tip": "Wenn Sie während des Festivals dort sind."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Umbria Jazz szuvenírek",
+                "tip": "Ha a fesztivál idején látogat el."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Suveniruri Umbria Jazz",
+                "tip": "Dacă sunteți acolo în timpul festivalului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Umbria Jazz Souvenirs",
+                "tip": "If you are there during the festival."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Ein Einzelticket gilt für 70 Minuten im gesamten Verkehrsnetz.",
+              "Die Minimetrò fährt alle paar Minuten."
+            ],
+            "hu": [
+              "Egy vonaljegy 70 percig érvényes a teljes hálózaton.",
+              "A Minimetrò néhány percenként közlekedik."
+            ],
+            "ro": [
+              "Un bilet simplu este valabil 70 de minute în întreaga rețea.",
+              "Minimetrò circulă la intervale de câteva minute."
+            ],
+            "en": [
+              "A single ticket is valid for 70 minutes across the network.",
+              "The Minimetrò runs every few minutes."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Perugias Nahverkehr und Rolltreppen sind ideal für Regentage. Starten Sie am Corso Vannucci und gehen Sie in den Palazzo dei Priori. Verbringen Sie den nassen Nachmittag in der Galleria Nazionale. Nehmen Sie den Bus zur Fontana Maggiore und enden Sie in der überdachten Rocca Paolina.",
+            "hu": "Perugia tömegközlekedése és mozgólépcsői tökéletesek esős napokra. Kezdj a Corso Vannuccin és térj be a Palazzo dei Prioriba. Töltsd az esős délutánt a Galleria Nazionale-ban. Buszozz a Fontana Maggioréhoz, majd fejezd be a teljesen fedett Rocca Paolinában.",
+            "ro": "Transportul și scările rulante din Perugia sunt perfecte pentru o zi ploioasă. Începeți la Corso Vannucci și intrați în Palazzo dei Priori. Petreceți după-amiaza udă în Galleria Nazionale. Luați autobuzul spre Fontana Maggiore și încheiați în Rocca Paolina acoperită.",
+            "en": "Perugia's transit and escalators are perfect for a rainy day. Start at Corso Vannucci and duck into Palazzo dei Priori. Spend the wet afternoon inside the Galleria Nazionale. Take the bus to Fontana Maggiore, then end in the completely covered, subterranean Rocca Paolina."
+          },
+          "stops": [
+            {
+              "name": "Corso Vannucci",
+              "tip_5lang": {
+                "de": "Huschen Sie zwischen den Markisen, wenn es in Strömen regnet.",
+                "hu": "Szaladj a napellenzők alatt, ha nagyon szakad az eső.",
+                "ro": "Fugiți printre copertine dacă plouă torențial.",
+                "en": "Dash between shop awnings if it's pouring heavily."
+              }
+            },
+            {
+              "name": "Palazzo dei Priori",
+              "tip_5lang": {
+                "de": "Verbringen Sie viel Zeit in diesem trockenen Heiligtum.",
+                "hu": "Tölts sok időt ebben a száraz, védett szentélyben.",
+                "ro": "Petreceți mult timp în acest sanctuar uscat.",
+                "en": "Spend plenty of time exploring this vast, dry sanctuary."
+              }
+            },
+            {
+              "name": "Galleria Nazionale dell'Umbria",
+              "tip_5lang": {
+                "de": "Eine perfekte Indoor-Aktivität für einen regnerischen Nachmittag.",
+                "hu": "Tökéletes beltéri program egy esős délutánra.",
+                "ro": "Activitate interioară perfectă pentru o după-amiază ploioasă.",
+                "en": "Perfect indoor activity for a rainy afternoon."
+              }
+            },
+            {
+              "name": "Fontana Maggiore",
+              "tip_5lang": {
+                "de": "Kurzer Stopp im Freien, bevor es wieder nach drinnen geht.",
+                "hu": "Rövid szabadtéri megálló, mielőtt újra fedett helyre mész.",
+                "ro": "Scurtă oprire în aer liber înainte de a intra din nou.",
+                "en": "A brief outdoor stop before heading back inside."
+              }
+            },
+            {
+              "name": "Rocca Paolina",
+              "tip_5lang": {
+                "de": "Komplett überdachte Rolltreppen und Gehwege ohne Regen.",
+                "hu": "Teljesen fedett mozgólépcsők és járdák eső nélkül.",
+                "ro": "Scări rulante complet acoperite și pasarele fără ploaie.",
+                "en": "Fully covered escalators and walkways, safe from rain."
+              }
+            },
+            {
+              "name": "San Bernardino",
+              "tip_5lang": {
+                "de": "Nehmen Sie den Bus direkt zum Platz, um den Fußweg zu sparen.",
+                "hu": "Menj busszal közvetlenül a térre, hogy elkerüld a sétát.",
+                "ro": "Luați autobuzul direct în piață pentru a evita mersul pe jos.",
+                "en": "Take the bus right to the square to avoid walking in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Minimetrò ist komplett überdacht und trocken.",
+              "Nehmen Sie einen Regenschirm für den Weg zu Bushaltestellen mit.",
+              "Busböden können bei Nässe sehr rutschig werden.",
+              "Rolltreppen (scale mobili) sind bei Regen Ihre besten Freunde."
+            ],
+            "hu": [
+              "A Minimetrò teljesen fedett és száraz útvonal.",
+              "Vigyél magaddal kompakt esernyőt a buszmegállók között.",
+              "A buszok padlója nagyon csúszós lehet nedvesen.",
+              "A mozgólépcsők (scale mobili) a legjobb barátaid esőben."
+            ],
+            "ro": [
+              "Minimetrò este complet acoperit și uscat.",
+              "Purtați o umbrelă pentru mersul între stațiile de autobuz.",
+              "Podelele autobuzelor pot deveni foarte alunecoase.",
+              "Scările rulante (scale mobili) sunt ideale pe ploaie."
+            ],
+            "en": [
+              "The Minimetrò is completely covered and dry.",
+              "Carry a compact umbrella for walking between bus stops.",
+              "Bus floors can get extremely slippery when wet.",
+              "Public escalators (scale mobili) are your best friends in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der winterliche Nahverkehr hält Sie zwischen den Sehenswürdigkeiten warm. Beginnen Sie am Corso Vannucci und im beheizten Palazzo dei Priori. Der Nachmittag in der Galleria Nazionale meidet die kältesten Stunden. Fahren Sie bei Dämmerung zur Rocca Paolina und entgehen Sie den eisigen Winden.",
+            "hu": "A téli tömegközlekedés melegen tart a látnivalók között. Kezdj a Corso Vannuccin és a fűtött Palazzo dei Prioriban. A Galleria Nazionale délutánja elkerüli a leghidegebb órákat. Alkonyatkor buszozz a Rocca Paolinához, elkerülve a fagyos szeleket.",
+            "ro": "Transportul de iarnă vă ține cald între atracții. Începeți la Corso Vannucci și în Palazzo dei Priori încălzit. După-amiaza în Galleria Nazionale evită orele reci. Luați autobuzul spre Rocca Paolina la amurg, evitând vânturile înghețate.",
+            "en": "Winter transit in Perugia keeps you warm between sights. Begin at Corso Vannucci and the heated Palazzo dei Priori. Afternoon in the Galleria Nazionale avoids the coldest hours. Take the bus to the Rocca Paolina at dusk, enjoying the city without braving the icy winds."
+          },
+          "stops": [
+            {
+              "name": "Corso Vannucci",
+              "tip_5lang": {
+                "de": "Gehen Sie zügig, um an einem kalten Morgen warm zu bleiben.",
+                "hu": "Sétálj tempósan, hogy melegen tartsd magad a hideg reggelen.",
+                "ro": "Mergeți rapid pentru a vă încălzi într-o dimineață rece.",
+                "en": "Walk quickly to stay warm in the brisk morning air."
+              }
+            },
+            {
+              "name": "Palazzo dei Priori",
+              "tip_5lang": {
+                "de": "Genießen Sie das beheizte Innere des prächtigen Palastes.",
+                "hu": "Élvezd a fenséges palota fűtött belső tereit.",
+                "ro": "Bucurați-vă de interiorul încălzit al palatului magnific.",
+                "en": "Enjoy the well-heated interior of the grand palace."
+              }
+            },
+            {
+              "name": "Galleria Nazionale dell'Umbria",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Rückzugsort vor der Nachmittagskälte.",
+                "hu": "Hangulatos menedék a délutáni hideg elől.",
+                "ro": "O retragere confortabilă din fața frigului de după-amiază.",
+                "en": "A cozy retreat from the harsh afternoon chill."
+              }
+            },
+            {
+              "name": "Fontana Maggiore",
+              "tip_5lang": {
+                "de": "Wunderschön beleuchtet am frühen winterlichen Abend.",
+                "hu": "Gyönyörűen kivilágítva a kora téli estén.",
+                "ro": "Frumos iluminată în seara timpurie de iarnă.",
+                "en": "Beautifully lit in the early, crisp winter evening."
+              }
+            },
+            {
+              "name": "Rocca Paolina",
+              "tip_5lang": {
+                "de": "Komplett geschützt vor den beißenden Winterwinden.",
+                "hu": "Tökéletesen védve a metsző téli szelektől.",
+                "ro": "Complet protejat de vânturile tăioase de iarnă.",
+                "en": "Completely protected from the biting winter winds."
+              }
+            },
+            {
+              "name": "San Bernardino",
+              "tip_5lang": {
+                "de": "Prüfen Sie Buszeiten, um Warten in der Kälte zu vermeiden.",
+                "hu": "Ellenőrizd a buszmenetrendet, hogy ne fázz a megállóban.",
+                "ro": "Verificați orarul autobuzelor pentru a nu aștepta în frig.",
+                "en": "Check bus times carefully to avoid waiting in the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stadtbusse sind meist gut beheizt und komfortabel.",
+              "Die Minimetrò bietet tolle Ausblicke auf die Winterlandschaft.",
+              "Bei Schnee kann es zu leichten Verzögerungen im Fahrplan kommen.",
+              "Kleiden Sie sich in Schichten, um in warmen Bussen nicht zu schwitzen."
+            ],
+            "hu": [
+              "A városi buszok jól fűtöttek és nagyon kényelmesek.",
+              "A Minimetrò nagyszerű kilátást nyújt a téli tájra.",
+              "A tömegközlekedés menetrendje havazás esetén kicsit késhet.",
+              "Öltözz rétegesen, hogy ne melegedj túl a meleg buszokon."
+            ],
+            "ro": [
+              "Autobuzele urbane sunt bine încălzite și confortabile.",
+              "Minimetrò oferă vederi minunate ale peisajului de iarnă.",
+              "Programul de tranzit poate avea mici întârzieri pe zăpadă.",
+              "Îmbrăcați-vă în straturi pentru a nu vă supraîncălzi în autobuz."
+            ],
+            "en": [
+              "City buses are generally well-heated and comfortable.",
+              "The Minimetrò offers great views of the winter landscape.",
+              "Transit schedules might experience minor delays in snow.",
+              "Dress in easy-to-remove layers to avoid overheating on warm buses."
+            ]
+          }
+        }
       }
     }
   },

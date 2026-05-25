@@ -326,6 +326,466 @@
           "The entire old town is car-free and best explored on foot.",
           "Don't miss the changing of the guard in the main square during peak season."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens betreten wir die Stadt durch das Nordtor und bestaunen das Portal von Radovan an der Kathedrale. Mittags schlendern wir über den Hauptplatz mit der Loggia und dem Rektorenpalast, bevor wir an der Riva frischen Fisch genießen. Nachmittags erkunden wir die Festung Kamerlengo für den besten Panoramablick. Abends lassen wir den Tag in den schmalen Gassen bei einem Glas Wein ausklingen.",
+            "hu": "Reggel az Északi kapun át lépünk be a világörökségi óvárosba, megcsodálva a székesegyház Radovan-kapuját. Délben a főtéren pihenünk a Loggia és a városháza tövében, majd a pálmafás tengerparti sétányon ebédelünk. Délután a Kamerlengo-erőd bástyáiról élvezzük a panorámát. Este az ódon sikátorok mélyén, egy pohár helyi bor mellett fejezzük be a napot a középkori díszletek között.",
+            "ro": "Dimineața intrăm în oraș prin Poarta de Nord și admirăm portalul lui Radovan de la Catedrală. La prânz explorăm piața centrală cu Loggia și Palatul Rectorului, apoi luăm masa pe faleza Riva sub palmieri. După-amiaza urcăm pe zidurile Cetății Kamerlengo pentru o vedere panoramică asupra Adriaticii. Seara ne pierdem pe străduțele înguste, savurând atmosfera medievală și un pahar de vin local.",
+            "en": "Morning begins at the Land Gate, followed by a visit to the Cathedral and its famous portal. At midday, we explore the main square's Loggia and palaces, then enjoy a seafood lunch on the palm-lined Riva. In the afternoon, we climb the Kamerlengo Fortress for stunning views of the Adriatic. Evening is perfect for wandering through stone alleys and enjoying the romantic atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Landtor",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Statue des Hl. Johannes, des Stadtschutzpatrons über dem Tor.",
+                "hu": "Figyelje meg a város védőszentje, Szent János szobrát a kapu felett.",
+                "ro": "Observați statuia Sfântului Ioan, patronul orașului, deasupra porții.",
+                "en": "Look for the statue of St. John, the city's patron saint, above the gate."
+              }
+            },
+            {
+              "name": "Stadtmuseum Trogir",
+              "tip_5lang": {
+                "de": "Das Museum befindet sich im prächtigen Barockpalast Garagnin-Fanfogna.",
+                "hu": "A múzeum a gyönyörű barokk Garagnin-Fanfogna palotában található.",
+                "ro": "Muzeul se află în splendidul palat baroc Garagnin-Fanfogna.",
+                "en": "The museum is housed in the magnificent baroque Garagnin-Fanfogna Palace."
+              }
+            },
+            {
+              "name": "Cipiko-Palast",
+              "tip_5lang": {
+                "de": "Bewundern Sie die gotischen Triforien an der Fassade dieses Adelspalastes.",
+                "hu": "Csodálja meg a nemesi palota homlokzatának gótikus trifóriumait.",
+                "ro": "Admirați triforiile gotice de pe fațada acestui palat nobiliar.",
+                "en": "Admire the Gothic triforia on the facade of this noble palace."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Laurentius",
+              "tip_5lang": {
+                "de": "Das Radovan-Portal von 1240 ist ein Meisterwerk der dalmatinischen Bildhauerei.",
+                "hu": "Az 1240-es Radovan-kapu a dalmát szobrászat egyik legszebb mesterműve.",
+                "ro": "Portalul lui Radovan din 1240 este o capodoperă a sculpturii dalmate.",
+                "en": "Radovan's portal from 1240 is a masterpiece of Dalmatian sculpture."
+              }
+            },
+            {
+              "name": "Stadtloggia",
+              "tip_5lang": {
+                "de": "Einst der Gerichtshof der Stadt, heute ein schattiger Ruheplatz.",
+                "hu": "Egykor a város bírósága volt, ma árnyékos pihenőhely.",
+                "ro": "Odată tribunalul orașului, astăzi un loc umbros de odihnă.",
+                "en": "Once the city's courtroom, today it is a shaded resting spot."
+              }
+            },
+            {
+              "name": "Fürstenpalast",
+              "tip_5lang": {
+                "de": "Im Innenhof finden Sie ein schönes Lapidarium und eine monumentale Treppe.",
+                "hu": "Az udvaron szép lapidáriumot és monumentális lépcsősort találunk.",
+                "ro": "În curte veți găsi un lapidariu frumos și o scară monumentală.",
+                "en": "In the courtyard you will find a beautiful lapidarium and a monumental staircase."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Dominikus",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Kreuzgang für einen Moment der Stille abseits der Massen.",
+                "hu": "Látogasson el a kerengőbe egy kis nyugalomért a tömegtől távol.",
+                "ro": "Vizitați claustrul pentru un moment de liniște departe de mulțime.",
+                "en": "Visit the cloister for a moment of quiet away from the crowds."
+              }
+            },
+            {
+              "name": "Festung Kamerlengo",
+              "tip_5lang": {
+                "de": "Steigen Sie auf den Turm für den besten Blick auf die Stadt und das Meer.",
+                "hu": "Másszon fel a toronyba a városra és a tengerre nyíló legjobb kilátásért.",
+                "ro": "Urcați în turn pentru cea mai bună vedere asupra orașului și a mării.",
+                "en": "Climb the tower for the best view of the city and the sea."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Trogirski Ravioli",
+                "tip": "Süße Teigtaschen mit Nussfüllung, eine lokale Spezialität."
+              },
+              {
+                "name": "Konoba Tragos",
+                "tip": "Probieren Sie hier die authentische Dalmatinische Pašticada."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Trogiri ravioli",
+                "tip": "Dióval töltött édes tészta, a város leghíresebb édessége."
+              },
+              {
+                "name": "Konoba Tragos",
+                "tip": "Kóstolja meg itt az autentikus dalmát marhasültet (pašticada)."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ravioli de Trogir",
+                "tip": "Paste dulci umplute cu nucă, o specialitate locală celebră."
+              },
+              {
+                "name": "Konoba Tragos",
+                "tip": "Încercați aici autentica Pašticada dalmată de vită."
+              }
+            ],
+            "en": [
+              {
+                "name": "Trogir Ravioli",
+                "tip": "Sweet pastry filled with walnuts, the town's signature dessert."
+              },
+              {
+                "name": "Konoba Tragos",
+                "tip": "Try the authentic Dalmatian Pašticada (beef stew) here."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Benediktinerkloster",
+                "tip": "Ein ruhiger Rückzugsort hinter dicken Mauern.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Park Fortin",
+                "tip": "Kleiner Park am Nordtor für eine Pause im Schatten.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bencés kolostor",
+                "tip": "Csendes menedék a vastag falak mögött az óváros szélén.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Fortin park",
+                "tip": "Kis park az Északi kapunál egy árnyékos pihenőhöz.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mănăstirea Benedictină",
+                "tip": "Un refugiu liniștit în spatele zidurilor groase.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Parcul Fortin",
+                "tip": "Un mic parc la Poarta de Nord pentru o pauză la umbră.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Benedictine Monastery",
+                "tip": "A quiet retreat behind thick walls at the edge of town.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Fortin Park",
+                "tip": "Small park by the Land Gate for a break in the shade.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Grüner Markt",
+                "tip": "Frisches Obst und Olivenöl direkt vor der Brücke."
+              },
+              {
+                "name": "Korallenschmuck",
+                "tip": "In den Gassen finden Sie handgefertigte Stücke aus Adria-Korallen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Zöldségpiac",
+                "tip": "Friss gyümölcs és olívaolaj közvetlenül a híd előtt."
+              },
+              {
+                "name": "Korall ékszerek",
+                "tip": "A sikátorokban kézzel készült adriai korall ékszereket talál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața Verde",
+                "tip": "Fructe proaspete și ulei de măsline chiar înainte de pod."
+              },
+              {
+                "name": "Bijuterii din corali",
+                "tip": "În alei găsiți piese lucrate manual din corali adriatici."
+              }
+            ],
+            "en": [
+              {
+                "name": "Green Market",
+                "tip": "Fresh fruit and olive oil located just before the bridge."
+              },
+              {
+                "name": "Coral Jewelry",
+                "tip": "Find handmade Adriatic coral pieces in the narrow alleys."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das mittelalterliche Kopfsteinpflaster.",
+              "Besuchen Sie die Kathedrale früh am Morgen, um die Massen zu vermeiden.",
+              "Die gesamte Altstadt ist autofrei und ideal zu Fuß zu erkunden.",
+              "Verpassen Sie nicht die Wachablösung am Hauptplatz in der Hochsaison."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a középkori macskaköves utcákhoz.",
+              "Látogassa meg a székesegyházat kora reggel a tömeg elkerülése érdekében.",
+              "Az egész óváros autómentes, így gyalogosan a legkönnyebb felfedezni.",
+              "Főszezonban ne hagyja ki az őrségváltást a főtéren."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru străzile medievale cu piatră cubică.",
+              "Vizitați catedrala dimineața devreme pentru a evita aglomerația.",
+              "Întreaga zonă veche este pietonală, ideală pentru explorat la pas.",
+              "Nu ratați schimbarea gărzii în piața centrală în timpul sezonului de vârf."
+            ],
+            "en": [
+              "Wear comfortable shoes for the medieval cobblestone streets.",
+              "Visit the cathedral early in the morning to avoid the crowds.",
+              "The entire old town is car-free and best explored on foot.",
+              "Don't miss the changing of the guard in the main square during peak season."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Landtor, wo der glänzende Kalkstein die Regentropfen reflektiert. Ein kurzer Sprint zum Stadtmuseum bietet Schutz und Einblicke in die Geschichte.\n\nMittags suchen wir Zuflucht im Cipiko-Palast und der Kathedrale. Das Trommeln des Regens auf dem Kirchendach schafft eine andächtige Atmosphäre.\n\nNachmittags schlendern wir unter den Arkaden der Stadtloggia und besuchen den Fürstenpalast. Die engen Gassen der Altstadt bieten natürlichen Schutz vor Wind.\n\nDer Tag endet an der Festung Kamerlengo. Der graue Himmel über der Adria verleiht den alten Mauern eine dramatische, fast mystische Ausstrahlung.",
+            "hu": "A reggel a Szárazföldi kapunál indul, ahol a vizes mészkő tükrözi az esőcseppeket. Gyors menedéket találunk a Városi Múzeumban, miközben Trogir múltját ismerjük meg.\n\nDélben a Cipiko-palota és a Székesegyház belső terei nyújtanak oltalmat. Az eső kopogása a tetőn különleges, meghitt hangulatot áraszt a falak között.\n\nDélután a Városi Loggia árkádjai alatt pihenünk, majd a hercegi palota felé vesszük az irányt. A szűk utcák jól védenek a széltől.\n\nAz este a Kamerlengo várnál ér minket. A ködös Adria és a szürke égbolt drámai, történelmi keretbe foglalja a középkori várfalakat.",
+            "ro": "Dimineața începe la Poarta de pe uscat, unde calcarul ud reflectă picăturile de ploaie. Ne adăpostim rapid în Muzeul Orașului pentru o lecție de istorie.\n\nLa prânz, Palatul Cipiko și Catedrala oferă refugiul perfect. Sunetul ploii pe acoperișul vechi creează o atmosferă solemnă în interiorul răcoros.\n\nDupă-amiaza ne plimbăm sub arcadele Loggiei și vizităm Palatul Comunal. Străzile înguste ale centrului vechi ne protejează natural de rafalele de vânt.\n\nSeara se încheie la Fortăreața Kamerlengo. Cerul gri deasupra Adriaticii oferă zidurilor vechi o aură dramatică și plină de mister.",
+            "en": "The morning starts at the Land Gate, where wet limestone reflects the raindrops. A quick dash to the City Museum provides shelter and historical context.\n\nAt noon, we find refuge in the Cipiko Palace and the Cathedral. The sound of rain on the ancient roof creates a solemn and intimate atmosphere inside.\n\nIn the afternoon, we stay dry under the City Loggia and visit the Rector's Palace. The narrow alleys of the old town offer natural protection from the elements.\n\nThe day ends at Kamerlengo Fortress. The misty Adriatic and grey skies give the stone walls a dramatic and powerful historical presence."
+          },
+          "stops": [
+            {
+              "name": "Landtor",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster am Eingang.",
+                "hu": "Vigyázat, a kapu alatti kövezet esőben nagyon csúszik.",
+                "ro": "Atenție la pavajul alunecos de la intrarea în oraș.",
+                "en": "Careful on the slippery cobblestones under the gate."
+              }
+            },
+            {
+              "name": "Stadtmuseum Trogir",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Regenschauer trocken zu überstehen.",
+                "hu": "Ideális hely az első zápor átvészelésére a falak között.",
+                "ro": "Locul perfect pentru a aștepta trecerea primei ploi.",
+                "en": "The perfect spot to wait out the first rain shower indoors."
+              }
+            },
+            {
+              "name": "Cipiko-Palast",
+              "tip_5lang": {
+                "de": "Bewundern Sie die gotischen Fenster vom trockenen Innenhof aus.",
+                "hu": "Csodálja meg a gótikus ablakokat a fedett udvarról.",
+                "ro": "Admirați ferestrele gotice din curtea interioară ferită de ploaie.",
+                "en": "Admire the Gothic windows from the sheltered courtyard."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Laurentius",
+              "tip_5lang": {
+                "de": "Das Radovan-Portal ist unter dem Vordach gut geschützt.",
+                "hu": "A Radovan-portál az előtető alatt esőben is jól fotózható.",
+                "ro": "Portalul lui Radovan este bine protejat sub baldachin.",
+                "en": "Radovan's portal is well protected under the porch canopy."
+              }
+            },
+            {
+              "name": "Stadtloggia",
+              "tip_5lang": {
+                "de": "Die Arkaden bieten einen trockenen Platz für eine kurze Pause.",
+                "hu": "Az árkádok alatt szárazon pihenhetünk meg egy percre.",
+                "ro": "Arcadele oferă un loc uscat pentru o scurtă pauză.",
+                "en": "The colonnade provides a dry spot for a quick rest."
+              }
+            },
+            {
+              "name": "Fürstenpalast",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume für eine ausgiebige Besichtigung.",
+                "hu": "Használja ki a belső termeket a részletes felfedezéshez.",
+                "ro": "Folosiți interiorul palatului pentru o vizită prelungită.",
+                "en": "Take advantage of the interior rooms for a detailed tour."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Dominikus",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Rückzugsort am Rande der Altstadt.",
+                "hu": "Csendes, száraz menedék az óváros szélén.",
+                "ro": "Un refugiu liniștit și uscat la marginea centrului vechi.",
+                "en": "A quiet, dry retreat at the edge of the old town."
+              }
+            },
+            {
+              "name": "Festung Kamerlengo",
+              "tip_5lang": {
+                "de": "Der Aufstieg auf die Türme ist bei Nässe nicht zu empfehlen.",
+                "hu": "A toronyba való felkapaszkodás vizes időben nem ajánlott.",
+                "ro": "Urcarea în turnuri nu este recomandată pe timp de ploaie.",
+                "en": "Climbing the towers is not recommended when steps are wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Grip, da der polierte Stein extrem rutschig wird.",
+              "Die Stadtloggia ist der beste kostenlose Unterstand im Zentrum.",
+              "Nutzen Sie die Museen für die stärksten Regengüsse.",
+              "Ein Regenschirm ist in den engen Gassen oft praktischer als ein Regenponcho."
+            ],
+            "hu": [
+              "Viseljen tapadós talpú cipőt, a polírozott kő esőben jégpályává válik.",
+              "A Városi Loggia a legjobb ingyenes fedett hely a főtéren.",
+              "A múzeumlátogatásokat időzítse a legintenzívebb eső idejére.",
+              "A szűk utcákban az esernyő praktikusabb, mint a nagy esőköpeny."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu talpă aderentă; piatra lustruită devine extrem de alunecoasă.",
+              "Loggia orașului este cel mai bun adăpost gratuit din centru.",
+              "Planificați vizitele la muzee în momentele cu ploaie torențială.",
+              "O umbrelă este mai practică decât o pelerină în străzile înguste."
+            ],
+            "en": [
+              "Wear shoes with good grip; the polished stone becomes like ice when wet.",
+              "The City Loggia is the best free sheltered spot in the main square.",
+              "Schedule museum visits for periods of heavy downpours.",
+              "An umbrella is often more practical than a poncho in narrow alleys."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen am Landtor zeigt Trogir von seiner stillsten Seite. Im Stadtmuseum wärmen wir uns bei lokaler Geschichte auf.\n\nMittags genießen wir die tiefstehende Sonne auf dem Hauptplatz beim Cipiko-Palast. Die Kathedrale strahlt eine frostige, aber würdevolle Ruhe aus.\n\nNachmittags spazieren wir durch die menschenleeren Gassen zur Stadtloggia. Die klare Winterluft macht die Details der Steinmetzkunst besonders scharf sichtbar.\n\nDer Tag endet früh an der Festung Kamerlengo. Wenn die Sonne gegen 16:30 Uhr untergeht, taucht sie die Stadt in ein sanftes, goldenes Winterlicht.",
+            "hu": "A hűvös téli reggel a Szárazföldi kapunál Trogir legcsendesebb arcát mutatja. A Városi Múzeumban melegedünk fel a történelem nyomai között.\n\nDélben a főtéren, a Cipiko-palota mellett élvezzük a téli napsütést. A Székesegyház ilyenkor méltóságteljes és zavartalan nyugalmat áraszt.\n\nDélután a kihalt utcákon sétálunk a Városi Loggia felé. A tiszta téli levegőben a kőfaragások minden apró részlete élesen kirajzolódik.\n\nA nap korán ér véget a Kamerlengo várnál. A 16:30 körüli naplemente lágy, arany fénybe vonja az egész várost és az öblöt.",
+            "ro": "O dimineață răcoroasă de iarnă la Poarta de pe uscat ne arată Trogirul în cea mai liniștită formă. Ne încălzim la Muzeul Orașului explorând trecutul.\n\nLa prânz ne bucurăm de soarele palid în piața centrală, lângă Palatul Cipiko. Catedrala emană o liniște demnă, departe de mulțimile de turiști.\n\nDupă-amiaza ne plimbăm pe străzile pustii spre Loggia orașului. Aerul curat de iarnă face ca detaliile pietrei sculptate să fie extrem de clare.\n\nZiua se încheie devreme la Fortăreața Kamerlengo. Apusul de la ora 16:30 scaldă orașul într-o lumină aurie și blândă de iarnă.",
+            "en": "A chilly winter morning at the Land Gate shows Trogir at its quietest. We warm up inside the City Museum while exploring local history.\n\nAt noon, we enjoy the low winter sun in the main square by the Cipiko Palace. The Cathedral exudes a dignified and undisturbed peace.\n\nIn the afternoon, we stroll through the empty alleys toward the City Loggia. The crisp winter air makes every detail of the stonework stand out sharply.\n\nThe day ends early at Kamerlengo Fortress. As the sun sets around 16:30, it bathes the city in a soft, golden winter glow."
+          },
+          "stops": [
+            {
+              "name": "Landtor",
+              "tip_5lang": {
+                "de": "Genießen Sie den Eingang ohne die sommerlichen Touristenmassen.",
+                "hu": "Élvezze a bejutást a nyári tömeg és sorban állás nélkül.",
+                "ro": "Bucurați-vă de intrare fără mulțimile de turiști din vară.",
+                "en": "Enjoy entering the city without the usual summer crowds."
+              }
+            },
+            {
+              "name": "Stadtmuseum Trogir",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Ort, um der morgendlichen Kälte zu entfliehen.",
+                "hu": "Kellemesen fűtött helyszín a reggeli hideg elleni védekezéshez.",
+                "ro": "Un spațiu bine încălzit pentru a scăpa de frigul dimineții.",
+                "en": "A well-heated spot to escape the morning chill."
+              }
+            },
+            {
+              "name": "Cipiko-Palast",
+              "tip_5lang": {
+                "de": "Die Fassade leuchtet besonders schön im tiefen Winterlicht.",
+                "hu": "A homlokzat különösen szépen mutat a lapos téli fényben.",
+                "ro": "Fațada strălucește spectaculos în lumina joasă a iernii.",
+                "en": "The facade looks particularly beautiful in the low winter sun."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Laurentius",
+              "tip_5lang": {
+                "de": "Bringen Sie eine Jacke mit, das Innere der Kirche ist recht kühl.",
+                "hu": "Öltözzön fel, a templom belseje télen elég hűvös maradhat.",
+                "ro": "Păstrați haina pe dvs., interiorul bisericii este destul de rece.",
+                "en": "Keep your coat on, the interior of the church is quite chilly."
+              }
+            },
+            {
+              "name": "Stadtloggia",
+              "tip_5lang": {
+                "de": "Der perfekte Ort für ein windgeschütztes Foto auf dem Platz.",
+                "hu": "Tökéletes, szélvédett pont egy fotóhoz a főtéren.",
+                "ro": "Locul perfect pentru o fotografie ferită de vânt în piață.",
+                "en": "A perfect, wind-sheltered spot for a photo in the square."
+              }
+            },
+            {
+              "name": "Fürstenpalast",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten, diese können kürzer sein.",
+                "hu": "Ellenőrizze a téli nyitvatartást, gyakran korábban zárnak.",
+                "ro": "Verificați programul de iarnă, acesta poate fi mai scurt.",
+                "en": "Check winter opening hours as they may be shorter than usual."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Dominikus",
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort für einen Moment der inneren Einkehr.",
+                "hu": "Békés helyszín egy kis elcsendesedéshez a séta végén.",
+                "ro": "Un loc liniștit pentru un moment de reflexie interioară.",
+                "en": "A peaceful spot for a moment of quiet reflection."
+              }
+            },
+            {
+              "name": "Festung Kamerlengo",
+              "tip_5lang": {
+                "de": "Achtung, oben auf den Mauern weht oft eine kräftige Bura.",
+                "hu": "Vigyázat, a falak tetején gyakran erős Bura szél fúj.",
+                "ro": "Atenție, în vârful zidurilor suflă adesea un vânt Bura puternic.",
+                "en": "Be careful, a strong Bura wind often blows atop the walls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ziehen Sie sich warm an, besonders für den Wind am Meer.",
+              "Die Sonne geht gegen 16:30 Uhr unter, planen Sie das Ende früher ein.",
+              "Viele Cafés an der Riva haben im Winter geschlossen.",
+              "Die Bura kann sich kälter anfühlen, als das Thermometer anzeigt."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, a tengerparti szél nagyon csalóka lehet.",
+              "A nap 16:30 körül nyugszik, tervezze korábbra a program végét.",
+              "A Riva menti kávézók egy része télen zárva tarthat.",
+              "A Bura szél miatt a hőérzet sokkal alacsonyabb a valósnál."
+            ],
+            "ro": [
+              "Îmbrăcați-vă gros, vântul de pe malul mării poate fi tăios.",
+              "Soarele apune în jur de 16:30; planificați finalul turului mai devreme.",
+              "Multe cafenele de pe faleză (Riva) sunt închise iarna.",
+              "Vântul Bura poate face ca temperatura resimțită să fie mult mai mică."
+            ],
+            "en": [
+              "Dress in layers; the coastal wind can be very biting.",
+              "Sunset is around 16:30, so plan to finish your tour earlier.",
+              "Many cafes on the Riva may be closed during the winter season.",
+              "The Bura wind can make it feel much colder than the actual temperature."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -594,6 +1054,396 @@
           "Take enough water for the ride along the island.",
           "The coastal road to Okrug is flat and easy to ride."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Wir starten in der Altstadt und erkunden die historischen Schätze zu Fuß, bevor wir die Brücke zur Insel Ciovo überqueren. Die Radtour führt uns entlang der Küste zum beliebten Strand von Okrug Gornji. Nach einem erfrischenden Bad radeln wir zurück zur Marina, um den Blick auf die mittelalterliche Silhouette Trogirs bei einem kühlen Getränk zu genießen.",
+            "hu": "Az óvárosban kezdünk, ahol gyalog fedezzük fel a kincseket, majd átkerekezünk a Čiovo-szigetre vezető hídon. A part menti út Okrug Gornji népszerű strandjához vezet. Egy frissítő fürdőzés után a Marina felé vesszük az irányt, ahonnan remek kilátás nyílik Trogir középkori sziluettjére egy hűsítő ital mellett.",
+            "ro": "Începem în orașul vechi, explorând comorile istorice pe jos înainte de a traversa podul către insula Ciovo. Traseul cu bicicleta ne poartă de-a lungul coastei până la plaja populară din Okrug Gornji. După o baie revigorantă, pedalăm înapoi spre Marina pentru a admira silueta medievală a Trogirului la o băutură rece.",
+            "en": "We start in the old town, exploring historical treasures on foot before crossing the bridge to Ciovo island. The bike ride takes us along the coast to the popular beach of Okrug Gornji. After a refreshing swim, we head back to the Marina to enjoy the view of Trogir's medieval silhouette with a cool drink."
+          },
+          "stops": [
+            {
+              "name": "Landtor",
+              "tip_5lang": {
+                "de": "Starten Sie hier und schieben Sie Ihr Rad durch die engen Gassen.",
+                "hu": "Induljon innen, de a szűk utcákon tolja a kerékpárt.",
+                "ro": "Începeți aici, dar mergeți pe lângă bicicletă în aleile înguste.",
+                "en": "Start here and push your bike through the narrow alleys."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Laurentius",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad am Hauptplatz sicher ab.",
+                "hu": "Zárja le biztonságosan a biciklit a főtéren.",
+                "ro": "Parcați bicicleta în siguranță în piața centrală.",
+                "en": "Park your bike securely in the main square."
+              }
+            },
+            {
+              "name": "Festung Kamerlengo",
+              "tip_5lang": {
+                "de": "Die Promenade am Meer ist perfekt zum Radfahren geeignet.",
+                "hu": "A tengerparti sétány kiválóan alkalmas kerékpározásra.",
+                "ro": "Promenada de pe malul mării este perfectă pentru ciclism.",
+                "en": "The waterfront promenade is perfect for cycling."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Dominikus",
+              "tip_5lang": {
+                "de": "Letzter Stopp in der Altstadt, bevor es über die Brücke geht.",
+                "hu": "Utolsó óvárosi megálló a híd előtt.",
+                "ro": "Ultima oprire în orașul vechi înainte de a trece podul.",
+                "en": "Last old town stop before crossing the bridge."
+              }
+            },
+            {
+              "name": "Strand Okrug Gornji",
+              "tip_5lang": {
+                "de": "Genießen Sie die 'Copacabana' von Trogir auf der Insel Ciovo.",
+                "hu": "Élvezze Trogir 'Copacabanáját' a Čiovo-szigeten.",
+                "ro": "Bucurați-vă de 'Copacabana' din Trogir pe insula Ciovo.",
+                "en": "Enjoy the 'Copacabana' of Trogir on Ciovo island."
+              }
+            },
+            {
+              "name": "Marina Trogir",
+              "tip_5lang": {
+                "de": "Beobachten Sie die Luxusyachten mit Blick auf die Altstadt.",
+                "hu": "Figyelje a luxusjachtokat az óvárosra nyíló kilátással.",
+                "ro": "Observați iahturile de lux cu vedere spre orașul vechi.",
+                "en": "Watch the luxury yachts with a view of the old town."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bura Line Beach Bar",
+                "tip": "Perfekt für einen schnellen Snack am Strand."
+              },
+              {
+                "name": "Kadena",
+                "tip": "Moderne Küche mit Blick auf den Jachthafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bura Line Beach Bar",
+                "tip": "Tökéletes egy gyors snackhez a strandon."
+              },
+              {
+                "name": "Kadena",
+                "tip": "Modern konyha kilátással a jachtkikötőre."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bura Line Beach Bar",
+                "tip": "Perfect pentru o gustare rapidă pe plajă."
+              },
+              {
+                "name": "Kadena",
+                "tip": "Bucătărie modernă cu vedere la portul de iahturi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bura Line Beach Bar",
+                "tip": "Perfect for a quick snack at the beach."
+              },
+              {
+                "name": "Kadena",
+                "tip": "Modern cuisine with a view of the yacht marina."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Küsteweg Ciovo",
+                "tip": "Ruhige Abschnitte entlang der Felsen.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Marina Trogir",
+                "tip": "Entspannte Atmosphäre am späten Nachmittag.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Čiovo parti út",
+                "tip": "Csendes szakaszok a sziklák mentén.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Trogiri Marina",
+                "tip": "Nyugodt hangulat késő délután.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Drumul de coastă Ciovo",
+                "tip": "Secțiuni liniștite de-a lungul stâncilor.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Marina Trogir",
+                "tip": "Atmosferă relaxată după-amiaza târziu.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Ciovo Coastal Path",
+                "tip": "Quiet sections along the rocks.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Trogir Marina",
+                "tip": "Relaxed atmosphere in the late afternoon.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bike Rental Shops",
+                "tip": "Hier finden Sie auch Radkarten der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kerékpárkölcsönzők",
+                "tip": "Itt a régió kerékpáros térképeit is beszerezheti."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Centre de închirieri biciclete",
+                "tip": "Aici găsiți și hărți cicliste ale regiunii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bike Rental Shops",
+                "tip": "You can also find cycling maps of the region here."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Achten Sie auf den Verkehr auf der Brücke nach Ciovo.",
+              "In der Altstadt ist das Radfahren offiziell nicht erlaubt, bitte schieben.",
+              "Nehmen Sie genügend Wasser für die Fahrt entlang der Insel mit.",
+              "Die Küstenstraße nach Okrug ist flach und einfach zu befahren."
+            ],
+            "hu": [
+              "Vigyázzon a forgalomra a Čiovo-szigetre vezető hídon.",
+              "Az óvárosban tilos biciklizni, ott kérjük, tolja a kerékpárt.",
+              "Vigyen magával elég vizet a szigeti tekeréshez.",
+              "Az Okrug felé vezető parti út sík és könnyen tekerhető."
+            ],
+            "ro": [
+              "Atenție la trafic pe podul către insula Ciovo.",
+              "Ciclismul nu este permis oficial în orașul vechi, vă rugăm să mergeți pe lângă bicicletă.",
+              "Luați suficientă apă pentru plimbarea de-a lungul insulei.",
+              "Drumul de coastă spre Okrug este plat și ușor de parcurs."
+            ],
+            "en": [
+              "Watch out for traffic on the bridge to Ciovo island.",
+              "Cycling is officially not allowed in the old town, please push your bike.",
+              "Take enough water for the ride along the island.",
+              "The coastal road to Okrug is flat and easy to ride."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Landtor mit Regenjacken. Die Fahrt zur Kathedrale ist kurz, aber Vorsicht auf den nassen Steinen.\n\nMittags radeln wir vorsichtig zur Festung Kamerlengo und weiter zur Dominikus-Kirche. Der Regen peitscht vom Meer herüber.\n\nNachmittags wagen wir den Weg zum Okrug Strand. Die Straße ist nass, aber die frische Meeresbrise ist belebend.\n\nDer Tag endet an der Marina. Die Boote schaukeln im Regen und wir finden in einem der Hafenbüros oder Cafés Unterschlupf.",
+            "hu": "Esőkabátban indulunk a Szárazföldi kaputól. A Székesegyházig tartó út rövid, de a vizes kövön nagyon kell figyelni.\n\nDélben óvatosan tekerünk a Kamerlengo várhoz és a Szent Domonkos templomhoz. Az eső a tenger felől érkezik.\n\nDélután kimerészkedünk az Okrug strandra. Az út vizes, de a friss, sós tengeri levegő élénkítően hat.\n\nA nap a Marinánál zárul. A hajók ringatóznak az esőben, mi pedig egy kikötői kávézóban keresünk menedéket.",
+            "ro": "Pornim de la Poarta de pe uscat echipați cu pelerine. Drumul spre Catedrală este scurt, dar piatra udă cere atenție maximă.\n\nLa prânz pedalăm cu grijă spre Fortăreața Kamerlengo și Biserica Sf. Dominic. Ploaia vine în rafale dinspre mare.\n\nDupă-amiaza ne aventurăm spre plaja Okrug. Drumul este ud, dar briza proaspătă a mării este revigorantă.\n\nZiua se termină la Marina. Barcăile se leagănă în ploaie, iar noi ne adăpostim într-o cafenea din port.",
+            "en": "We start at the Land Gate with rain jackets ready. The ride to the Cathedral is short, but the wet stone requires extra caution.\n\nAt noon, we bike carefully to Kamerlengo Fortress and St. Dominic’s Church. The rain blows in from the sea.\n\nIn the afternoon, we venture out to Okrug Beach. The road is wet, but the fresh sea breeze is incredibly invigorating.\n\nThe day ends at the Marina. Boats sway in the rain while we find shelter in a cozy portside cafe."
+          },
+          "stops": [
+            {
+              "name": "Landtor",
+              "tip_5lang": {
+                "de": "Steigen Sie ab und schieben Sie das Rad durch das Tor.",
+                "hu": "Szálljon le és tolja a biciklit a kapunál a csúszásveszély miatt.",
+                "ro": "Coborâți de pe bicicletă și mergeți pe lângă ea la poartă.",
+                "en": "Dismount and walk your bike through the slippery gate area."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Laurentius",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad sicher unter einem Vorsprung.",
+                "hu": "Parkolja le a biciklit egy védettebb előtető alatt.",
+                "ro": "Parcați bicicleta într-un loc ferit, sub o streașină.",
+                "en": "Park your bike securely under a nearby overhang."
+              }
+            },
+            {
+              "name": "Festung Kamerlengo",
+              "tip_5lang": {
+                "de": "Der Boden um die Festung kann matschig sein.",
+                "hu": "A vár körüli talaj esőben sáros és csúszós lehet.",
+                "ro": "Terenul din jurul fortăreței poate deveni noroios.",
+                "en": "The ground around the fortress can get muddy and slick."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Dominikus",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Aufwärmen und Trocknen.",
+                "hu": "Rövid megálló a melegedéshez és száradáshoz.",
+                "ro": "O scurtă oprire pentru a vă încălzi și usca puțin.",
+                "en": "A short stop to warm up and dry off slightly indoors."
+              }
+            },
+            {
+              "name": "Strand Okrug Gornji",
+              "tip_5lang": {
+                "de": "Vorsicht in den Kurven auf der Küstenstraße.",
+                "hu": "Vigyázat a kanyarokban a part menti vizes úton.",
+                "ro": "Atenție sporită în curbele de pe drumul de coastă.",
+                "en": "Exercise caution in the curves along the wet coastal road."
+              }
+            },
+            {
+              "name": "Marina Trogir",
+              "tip_5lang": {
+                "de": "Achten Sie auf Metallgitter am Boden, die sehr glatt sind.",
+                "hu": "Ügyeljen a fémrácsokra a földön, mert rendkívül csúsznak.",
+                "ro": "Atenție la grătarele metalice de pe sol, sunt foarte lucioase.",
+                "en": "Watch out for metal grates on the ground; they are very slick."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie Vollbremsungen auf den glatten Altstadtsteinen.",
+              "Tragen Sie eine vollflächige Regenjacke und wasserfeste Hosen.",
+              "Die Küstenstraße nach Okrug hat bei Regen weniger Verkehr.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést az óváros csúszós kövein.",
+              "Viseljen teljes esőruházatot és vízálló nadrágot.",
+              "Az Okrug felé vezető úton esőben kisebb a forgalom.",
+              "Indulás előtt ellenőrizze a fékek állapotát."
+            ],
+            "ro": [
+              "Evitați frânările bruște pe pietrele lustruite din centrul vechi.",
+              "Purtați o jachetă impermeabilă completă și pantaloni de ploaie.",
+              "Drumul spre Okrug are trafic mai redus când plouă.",
+              "Verificați starea frânelor înainte de a pleca la drum."
+            ],
+            "en": [
+              "Avoid sudden braking on the slippery old town stones.",
+              "Wear a full rain jacket and waterproof trousers.",
+              "The coastal road to Okrug usually has less traffic in the rain.",
+              "Check your brakes thoroughly before starting the trip."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Landtor erfordert Handschuhe. Wir radeln durch die klaren Gassen zur Kathedrale.\n\nMittags führt uns der Weg zur Festung Kamerlengo. Die Wintersonne wärmt den Stein, aber der Fahrtwind bleibt kühl.\n\nNachmittags radeln wir zum Okrug Strand. Die Sommerbars sind zu, was dem Ort eine friedliche, weite Atmosphäre verleiht.\n\nDer Tag endet in der Marina Trogir. Die goldene Stunde spiegelt sich in den Masten der Yachten, bevor die Kälte des Abends einsetzt.",
+            "hu": "A friss téli reggelen jól jön a kesztyű a Szárazföldi kapunál. A tiszta utcákon tekerünk a Székesegyház felé.\n\nDélben a Kamerlengo várhoz vezet az utunk. A téli nap melegíti a követ, de a menetszél hűvös marad.\n\nDélután az Okrug strandra tekerünk. A bezárt bárok miatt a hely békés és tágas, igazi téli nyugalom árad belőle.\n\nA nap a Marinánál zárul. Az aranyóra fényei megcsillannak a jachtok árbocain, mielőtt beállna az esti hideg.",
+            "ro": "O dimineață proaspătă de iarnă la Poarta de pe uscat necesită mănuși. Pedalăm prin străzile libere spre Catedrală.\n\nLa prânz drumul ne duce spre Fortăreața Kamerlengo. Soarele de iarnă încălzește piatra, dar curentul de aer rămâne rece.\n\nDupă-amiaza pedalăm spre plaja Okrug. Barurile închise oferă locului o atmosferă pașnică și vastă, perfectă pentru meditație.\n\nZiua se termină în Marina Trogir. Ora de aur se reflectă în catargele iahturilor înainte ca frigul serii să se instaleze.",
+            "en": "A crisp winter morning at the Land Gate requires warm gloves. We bike through clear, empty alleys toward the Cathedral.\n\nAt noon, the path leads to Kamerlengo Fortress. The winter sun warms the stone walls, but the riding wind remains chilly.\n\nIn the afternoon, we cycle to Okrug Beach. With the summer bars closed, the area feels peaceful and spacious.\n\nThe day ends at Trogir Marina. The golden hour reflects off the yacht masts just before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Landtor",
+              "tip_5lang": {
+                "de": "Die Luft am Stadteingang ist morgens sehr frisch.",
+                "hu": "A városkapunál reggelente nagyon friss és hűvös a levegő.",
+                "ro": "Aerul de la intrarea în oraș este foarte proaspăt dimineața.",
+                "en": "The air at the city entrance is very crisp in the morning."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Laurentius",
+              "tip_5lang": {
+                "de": "Sonniger Platz vor der Kirche zum Aufwärmen.",
+                "hu": "A templom előtti napos téren jól esik a melegedés.",
+                "ro": "Piața însorită din fața bisericii este ideală pentru încălzire.",
+                "en": "The sunny square in front of the church is great for warming up."
+              }
+            },
+            {
+              "name": "Festung Kamerlengo",
+              "tip_5lang": {
+                "de": "Der Wind von der Meerseite her kann sehr beißen.",
+                "hu": "A tenger felől fújó szél ilyenkor metsző lehet.",
+                "ro": "Vântul dinspre mare poate fi foarte tăios în această zonă.",
+                "en": "The wind coming from the sea side can be quite biting."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Dominikus",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne die üblichen Reisegruppen.",
+                "hu": "Élvezze a csendet a szokásos turistacsoportok nélkül.",
+                "ro": "Bucurați-vă de liniște fără grupurile obișnuite de turiști.",
+                "en": "Enjoy the silence without the usual tour groups around."
+              }
+            },
+            {
+              "name": "Strand Okrug Gornji",
+              "tip_5lang": {
+                "de": "Perfekt für eine einsame Radpause am weiten Meer.",
+                "hu": "Tökéletes hely egy magányos pihenőhöz a tengerparton.",
+                "ro": "Perfect pentru o pauză solitară pe malul mării vaste.",
+                "en": "Perfect for a solitary biking break by the wide sea."
+              }
+            },
+            {
+              "name": "Marina Trogir",
+              "tip_5lang": {
+                "de": "Die Abenddämmerung ist hier besonders fotogen.",
+                "hu": "Az alkonyati fények itt rendkívül fotogének télen.",
+                "ro": "Amurgul este deosebit de fotogenic în acest loc.",
+                "en": "The twilight here is exceptionally photogenic in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind wegen des Fahrtwinds unerlässlich.",
+              "Die Wege sind trocken, aber der Boden strahlt Kälte ab.",
+              "Trinken Sie ausreichend, auch wenn Sie weniger Durst haben.",
+              "Die Bura-Winde können das Radfahren erschweren."
+            ],
+            "hu": [
+              "A menetszél miatt a meleg kesztyű elengedhetetlen.",
+              "Az utak szárazak, de a talaj hideget áraszt.",
+              "Igyon eleget, még ha télen kevésbé érzi is a szomjúságot.",
+              "Az erős Bura szél nehézkessé teheti a haladást."
+            ],
+            "ro": [
+              "Mănușile groase sunt esențiale din cauza curentului de aer.",
+              "Drumurile sunt uscate, dar solul radiază frig.",
+              "Hidratați-vă suficient, chiar dacă nu simțiți setea atât de tare.",
+              "Vântul puternic Bura poate îngreuna înaintarea pe bicicletă."
+            ],
+            "en": [
+              "Warm gloves are essential due to the biting riding wind.",
+              "The paths are dry, but the ground radiates cold.",
+              "Stay hydrated even if you don't feel as thirsty as in summer.",
+              "Strong Bura winds can make cycling much more difficult."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -862,6 +1712,396 @@
           "In peak season, traffic across the bridge can be very heavy.",
           "Parking fees can be conveniently paid via SMS or app."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Unsere Tour beginnt bei den idyllischen Pantan-Mühlen am Rande der Stadt. Danach fahren wir zum Zentrum von Trogir, parken bequem außerhalb und erkunden die UNESCO-geschützte Altstadt mit ihrer Kathedrale und der Festung Kamerlengo. Nach der Kulturfahrt entspannen wir am Strand Medena, bevor wir am späten Nachmittag für einen letzten Blick auf den Uhrturm zurückkehren.",
+            "hu": "Túránk az idilli Pantan-malmoknál kezdődik a város szélén. Ezután Trogir központjába hajtunk, kényelmesen leparkolunk kívül, és felfedezzük az UNESCO óvárost a székesegyházzal és a Kamerlengo-erőddel. A kulturális program után a Medena strandon pihenünk, majd késő délután visszatérünk egy utolsó pillantásra az óratoronyra.",
+            "ro": "Turul nostru începe la idilicele mori Pantan de la marginea orașului. Apoi conducem spre centrul Trogirului, parcăm confortabil în exterior și explorăm orașul vechi UNESCO cu catedrala și cetatea Kamerlengo. După turul cultural, ne relaxăm pe plaja Medena înainte de a reveni după-amiaza târziu pentru o ultimă privire asupra turnului cu ceas.",
+            "en": "Our tour begins at the idyllic Pantan mills on the outskirts. Then we drive to Trogir center, park conveniently outside, and explore the UNESCO old town with its cathedral and Kamerlengo fortress. After the cultural tour, we relax at Medena beach before returning in the late afternoon for a final look at the clock tower."
+          },
+          "stops": [
+            {
+              "name": "Pantan Mühlen",
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Naturreservat mit alten Mühlen und Sumpfvögeln.",
+                "hu": "Látogasson el a régi malmokkal és vízimadarakkal teli természetvédelmi területre.",
+                "ro": "Vizitați această rezervație naturală cu mori vechi și păsări de mlaștină.",
+                "en": "Visit this nature reserve with old mills and marsh birds."
+              }
+            },
+            {
+              "name": "Stadtloggia",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem großen öffentlichen Parkplatz nördlich der Stadt.",
+                "hu": "Parkoljon a várostól északra található nagy nyilvános parkolóban.",
+                "ro": "Parcați în marea parcare publică situată la nord de oraș.",
+                "en": "Park in the large public parking lot north of the city."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Laurentius",
+              "tip_5lang": {
+                "de": "Ein absolutes Muss für Geschichtsliebhaber.",
+                "hu": "Történelemkedvelőknek kötelező látnivaló.",
+                "ro": "O vizită obligatorie pentru iubitorii de istorie.",
+                "en": "An absolute must for history lovers."
+              }
+            },
+            {
+              "name": "Festung Kamerlengo",
+              "tip_5lang": {
+                "de": "Perfekter Ort für Fotos vom Hafen.",
+                "hu": "Tökéletes helyszín a kikötő fotózásához.",
+                "ro": "Locul perfect pentru fotografii cu portul.",
+                "en": "Perfect spot for photos of the harbor."
+              }
+            },
+            {
+              "name": "Strand Medena",
+              "tip_5lang": {
+                "de": "Großer Kieselstrand mit viel Schatten und Sportmöglichkeiten.",
+                "hu": "Nagy kavicsos strand sok árnyékkal és sportolási lehetőséggel.",
+                "ro": "Plajă mare cu pietriș, multă umbră și facilități sportive.",
+                "en": "Large pebble beach with plenty of shade and sports facilities."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Sebastian",
+              "tip_5lang": {
+                "de": "Die Renaissance-Kirche mit dem markanten Uhrturm.",
+                "hu": "Reneszánsz templom jellegzetes óratoronnyal.",
+                "ro": "Biserică renascentistă cu turnul cu ceas distinctiv.",
+                "en": "Renaissance church with a distinctive clock tower."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restoran Pantan",
+                "tip": "Speisen Sie in historischem Ambiente direkt am Wasser."
+              },
+              {
+                "name": "Don Dino",
+                "tip": "Gehobene Fischküche im Herzen der Altstadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Restoran Pantan",
+                "tip": "Vacsora történelmi környezetben, közvetlenül a víznél."
+              },
+              {
+                "name": "Don Dino",
+                "tip": "Színvonalas halkonyha az óváros szívében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restoran Pantan",
+                "tip": "Luați masa într-un ambient istoric, chiar lângă apă."
+              },
+              {
+                "name": "Don Dino",
+                "tip": "Bucătărie rafinată cu pește în inima orașului vechi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restoran Pantan",
+                "tip": "Dine in a historical setting right by the water."
+              },
+              {
+                "name": "Don Dino",
+                "tip": "High-end seafood cuisine in the heart of the old town."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pantan Reservat",
+                "tip": "Vogelbeobachtung in absoluter Stille.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Seget Vranjica",
+                "tip": "Ruhiger Küstenort nur wenige Minuten entfernt.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pantan rezervátum",
+                "tip": "Madárles teljes csendben.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Seget Vranjica",
+                "tip": "Nyugodt tengerparti település pár percre.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rezervația Pantan",
+                "tip": "Observarea păsărilor în liniște deplină.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Seget Vranjica",
+                "tip": "Sat de coastă liniștit la doar câteva minute distanță.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pantan Reserve",
+                "tip": "Birdwatching in absolute silence.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Seget Vranjica",
+                "tip": "Quiet coastal village just a few minutes away.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Kaufland/Plodine",
+                "tip": "Große Supermärkte für Vorräte an der Hauptstraße."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kaufland/Plodine",
+                "tip": "Nagy szupermarketek készletfeltöltéshez a főút mentén."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Kaufland/Plodine",
+                "tip": "Supermarketuri mari pentru provizii pe drumul principal."
+              }
+            ],
+            "en": [
+              {
+                "name": "Kaufland/Plodine",
+                "tip": "Large supermarkets for supplies along the main road."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Vermeiden Sie es, mit dem Auto in die Altstadt zu fahren (nur für Anwohner).",
+              "Der Parkplatz Trogir Nord ist der größte und am einfachsten zu erreichen.",
+              "In der Hochsaison kann der Verkehr über die Brücke sehr zäh sein.",
+              "Parkgebühren können bequem per SMS oder App bezahlt werden."
+            ],
+            "hu": [
+              "Ne próbáljon autóval behajtani az óvárosba (csak lakóknak).",
+              "A Trogir Észak parkoló a legnagyobb és legkönnyebben megközelíthető.",
+              "Főszezonban a forgalom a hídon nagyon lassú lehet.",
+              "A parkolási díjat kényelmesen, SMS-ben vagy applikációval is fizetheti."
+            ],
+            "ro": [
+              "Evitați să intrați cu mașina în orașul vechi (permis doar rezidenților).",
+              "Parcarea Trogir Nord este cea mai mare și mai ușor de accesat.",
+              "În sezonul de vârf, traficul peste pod poate fi foarte lent.",
+              "Taxele de parcare pot fi plătite convenabil prin SMS sau aplicație."
+            ],
+            "en": [
+              "Avoid driving into the old town (residents only).",
+              "The Trogir North parking lot is the largest and easiest to access.",
+              "In peak season, traffic across the bridge can be very heavy.",
+              "Parking fees can be conveniently paid via SMS or app."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten trocken bei den Pantan Mühlen. Das Rauschen des Wassers vermischt sich mit dem Prasseln des Regens.\n\nMittags parken wir nah an der Altstadt für die Loggia und die Kathedrale. Kurze Wege halten uns trocken.\n\nNachmittags führt die Fahrt zur Festung Kamerlengo. Wir beobachten das Unwetter über dem Meer gemütlich vom Auto aus.\n\nDer Tag endet am Medena Strand. Der Regen auf der Windschutzscheibe und die leere Küstenstraße haben ihren ganz eigenen Charme.",
+            "hu": "Szárazon indulunk a Pantan malmoknál. A víz zúgása keveredik az eső kopogásával.\n\nDélben az óvároshoz közel parkolunk, hogy gyorsan elérjük a Loggiát és a Székesegyházat. A rövid sétákkal szárazon maradunk.\n\nDélután a Kamerlengo várhoz autózunk. A viharos tengert kényelmesen, az autóból is figyelhetjük.\n\nA nap a Medena strandon zárul. Az ablaktörlők ritmusa és a néptelen parti út különleges hangulatot áraszt.",
+            "ro": "Pornim la adăpost de la Morile Pantan. Susurul apei se amestecă cu ropotul ploii pe acoperiș.\n\nLa prânz parcăm aproape de centrul vechi pentru a ajunge rapid la Loggia și Catedrală. Distanțele scurte ne mențin uscați.\n\nDupă-amiaza conducem spre Fortăreața Kamerlengo. Observăm marea agitată confortabil, din interiorul mașinii.\n\nZiua se încheie la plaja Medena. Ploaia pe parbriz și drumul de coastă pustiu au un farmec aparte.",
+            "en": "We start dry at the Pantan Mills. The sound of rushing water mixes with the rhythmic patter of the rain.\n\nAt noon, we park close to the old town for quick access to the Loggia and Cathedral. Short walks keep us dry.\n\nIn the afternoon, the drive leads to Kamerlengo Fortress. We can watch the storm over the sea comfortably from the car.\n\nThe day ends at Medena Beach. The rain on the windshield and the empty coastal road have a unique, moody charm."
+          },
+          "stops": [
+            {
+              "name": "Pantan Mühlen",
+              "tip_5lang": {
+                "de": "Das Restaurant im Inneren ist ein herrlicher Zufluchtsort.",
+                "hu": "A belső étterem remek menedék az eső elől.",
+                "ro": "Restaurantul din interior este un refugiu minunat.",
+                "en": "The restaurant inside is a wonderful sanctuary from the rain."
+              }
+            },
+            {
+              "name": "Stadtloggia",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem großen Parkplatz direkt vor der Brücke.",
+                "hu": "Használja a híd előtti nagy parkolót a közelség miatt.",
+                "ro": "Parcați în parcarea mare chiar înainte de pod.",
+                "en": "Use the large parking lot right before the bridge for proximity."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Laurentius",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto reicht aus.",
+                "hu": "Egy rövid futás a parkolótól és már bent is vagyunk.",
+                "ro": "O scurtă fugă de la mașină este suficientă pentru a intra.",
+                "en": "A short dash from the car is all you need to reach the entrance."
+              }
+            },
+            {
+              "name": "Festung Kamerlengo",
+              "tip_5lang": {
+                "de": "Blick auf die Festung durch die verregneten Fenster genießen.",
+                "hu": "Élvezze a vár látványát az eső áztatta ablakon keresztül.",
+                "ro": "Bucurați-vă de vederea cetății prin geamurile pline de ploaie.",
+                "en": "Enjoy the view of the fortress through the rain-streaked windows."
+              }
+            },
+            {
+              "name": "Strand Medena",
+              "tip_5lang": {
+                "de": "Die Zufahrt ist bei Nässe problemlos möglich.",
+                "hu": "A behajtás vizes időben is teljesen akadálymentes.",
+                "ro": "Accesul auto este facil chiar și pe carosabil umed.",
+                "en": "Access to the beach is easy even in wet weather conditions."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Sebastian",
+              "tip_5lang": {
+                "de": "Direkt neben der Loggia, ideal bei Regen.",
+                "hu": "Közvetlenül a Loggia mellett, ideális esős időben.",
+                "ro": "Chiar lângă Loggia, ideal de vizitat când plouă.",
+                "en": "Located right next to the Loggia, perfect for rainy days."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze auf der Insel Čiovo für kürzere Wege zur Riva.",
+              "Vermeiden Sie bei starkem Regen tiefgelegene Straßenabschnitte.",
+              "Die Sicht auf die Küstenstraße kann durch Gischt eingeschränkt sein.",
+              "Pantan Mühlen bietet überdachte Parkmöglichkeiten."
+            ],
+            "hu": [
+              "Használja a Čiovo-szigeti parkolókat a Riva gyorsabb eléréséhez.",
+              "Heves esőzéskor kerülje az alacsonyan fekvő útszakaszokat.",
+              "A parti úton a sós permet ronthatja a látási viszonyokat.",
+              "A Pantan malmoknál vannak fedett parkolóhelyek."
+            ],
+            "ro": [
+              "Folosiți parcările de pe insula Čiovo pentru acces rapid la Riva.",
+              "Evitați porțiunile de drum joase în timpul ploilor torențiale.",
+              "Vizibilitatea pe drumul de coastă poate fi redusă de spray-ul marin.",
+              "Morile Pantan oferă câteva locuri de parcare acoperite."
+            ],
+            "en": [
+              "Use the parking lots on Čiovo island for shorter walks to the Riva.",
+              "Avoid low-lying road sections during heavy downpours.",
+              "Visibility on the coastal road may be reduced by sea spray.",
+              "Pantan Mills offers some sheltered parking options."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen bei den Pantan Mühlen ist ruhig und klar. Wir genießen die Wärme des Wagens auf dem Weg zur Altstadt.\n\nMittags finden wir problemlos einen Parkplatz direkt an der Stadtloggia. Die Kathedrale besichtigen wir ohne die sommerliche Hitze.\n\nNachmittags fahren wir zur Festung Kamerlengo. Die tiefstehende Wintersonne leuchtet die alten Steine perfekt aus.\n\nDer Tag endet am Medena Strand. Ein Spaziergang am leeren Ufer ist erfrischend, bevor wir die Heizung im Auto wieder aufdrehen.",
+            "hu": "A téli reggel a Pantan malmoknál csendes és tiszta. Élvezzük az autó melegét az óváros felé vezető úton.\n\nDélben könnyen találunk parkolót közvetlenül a Városi Loggia közelében. A Székesegyházat a nyári hőség nélkül fedezzük fel.\n\nDélután a Kamerlengo várhoz hajtunk. Az alacsonyan járó téli nap tökéletesen megvilágítja az ősi köveket.\n\nA nap a Medena strandon zárul. Egy frissítő séta a néptelen parton, majd visszatérünk a fűtött autóba.",
+            "ro": "Dimineața de iarnă la Morile Pantan este liniștită și senină. Ne bucurăm de căldura mașinii spre centrul vechi.\n\nLa prânz găsim ușor loc de parcare chiar lângă Loggia orașului. Vizităm Catedrala fără să ne facem griji de arșița verii.\n\nDupă-amiaza conducem spre Fortăreața Kamerlengo. Soarele jos de iarnă luminează perfect pietrele vechi.\n\nZiua se încheie la plaja Medena. O plimbare pe țărmul pustiu este revigorantă înainte de a porni iar căldura în mașină.",
+            "en": "A winter morning at Pantan Mills is quiet and clear. We enjoy the car's warmth on the short drive to the old town.\n\nAt noon, parking is easy to find right by the City Loggia. We explore the Cathedral without the oppressive summer heat.\n\nIn the afternoon, we drive to Kamerlengo Fortress. The low winter sun illuminates the ancient stones perfectly.\n\nThe day ends at Medena Beach. A refreshing walk on the empty shore is perfect before turning up the car heater."
+          },
+          "stops": [
+            {
+              "name": "Pantan Mühlen",
+              "tip_5lang": {
+                "de": "Ein ruhiger Start, weit weg vom Trubel der Stadt.",
+                "hu": "Csendes kezdés, távol a város zajától.",
+                "ro": "Un început liniștit, departe de agitația orașului.",
+                "en": "A quiet start to the day, far from the city noise."
+              }
+            },
+            {
+              "name": "Stadtloggia",
+              "tip_5lang": {
+                "de": "Parkplatzsuche ist im Winter völlig stressfrei.",
+                "hu": "A parkolóhely-keresés télen teljesen stresszmentes.",
+                "ro": "Căutarea locului de parcare este lipsită de stres iarna.",
+                "en": "Finding a parking spot is completely stress-free in winter."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Laurentius",
+              "tip_5lang": {
+                "de": "Keine Wartezeiten am Eingang im Winter.",
+                "hu": "Télen nincs várakozási idő a bejáratnál.",
+                "ro": "Nu există timpi de așteptare la intrare în timpul iernii.",
+                "en": "There are no waiting lines at the entrance in winter."
+              }
+            },
+            {
+              "name": "Festung Kamerlengo",
+              "tip_5lang": {
+                "de": "Die Parkplätze direkt davor sind meist frei.",
+                "hu": "A közvetlenül a vár előtti parkolók általában üresek.",
+                "ro": "Parcările chiar din fața cetății sunt de obicei libere.",
+                "en": "The parking spots right in front are usually empty."
+              }
+            },
+            {
+              "name": "Strand Medena",
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit am weiten Strand.",
+                "hu": "Élvezze a magányt a hatalmas, üres tengerparton.",
+                "ro": "Bucurați-vă de singurătate pe plaja vastă.",
+                "en": "Enjoy the solitude on the vast, empty beach."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Sebastian",
+              "tip_5lang": {
+                "de": "Ein schneller, warmer Zwischenstopp im Zentrum.",
+                "hu": "Gyors, meleg köztes megálló a városközpontban.",
+                "ro": "O oprire rapidă și caldă în centrul orașului.",
+                "en": "A quick, warm stopover in the city center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkgebühren sind im Winter oft deutlich reduziert.",
+              "Achten Sie auf Glätte auf den Brücken nach Čiovo.",
+              "Die Parkplätze an der Riva sind im Winter viel zugänglicher.",
+              "Warmlaufen lassen ist nicht nötig, die Strecken sind kurz."
+            ],
+            "hu": [
+              "A parkolási díjak télen gyakran jóval alacsonyabbak.",
+              "Vigyázzon a Čiovóra vezető hidakon az esetleges lefagyások miatt.",
+              "A Riva menti parkolóhelyek télen sokkal könnyebben elérhetők.",
+              "Az autó bemelegítése nem szükséges, a távolságok rövidek."
+            ],
+            "ro": [
+              "Tarifele de parcare sunt adesea reduse semnificativ iarna.",
+              "Atenție la polei pe podurile care duc spre Čiovo.",
+              "Locurile de parcare de pe Riva sunt mult mai accesibile iarna.",
+              "Nu e nevoie să lăsați motorul să se încălzească mult, drumurile sunt scurte."
+            ],
+            "en": [
+              "Parking fees are often significantly reduced during winter.",
+              "Watch out for icy patches on the bridges leading to Čiovo.",
+              "Parking spots on the Riva are much more accessible in winter.",
+              "No need to warm up the engine for long; distances are short."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1130,6 +2370,396 @@
           "Buy bus tickets from the driver or at the kiosk.",
           "The ferry is often more pleasant than the bus in summer."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Wir nutzen das hervorragende öffentliche Verkehrsnetz und starten am Busbahnhof. Nach der Besichtigung der Kathedrale und des Nikolausklosters wechseln wir das Verkehrsmittel: Die Bura Line bringt uns auf dem Seeweg zum Strand von Slatine. Diese Kombination aus Bus und Boot bietet die entspannteste Art, Trogir und seine Umgebung ohne Parkplatzsorgen zu erleben.",
+            "hu": "A kiváló tömegközlekedést kihasználva a buszállomáson kezdünk. A székesegyház és a Szent Miklós-kolostor megtekintése után közlekedési módot váltunk: a Bura Line hajóval utazunk Slatine strandjára. A busz és a hajó kombinációja a legpihentetőbb módja Trogir és környéke felfedezésének, parkolási gondok nélkül.",
+            "ro": "Folosind rețeaua excelentă de transport public, începem la stația de autobuz. După vizitarea catedralei și a mănăstirii Sf. Nicolae, schimbăm mijlocul de transport: Bura Line ne duce pe mare la plaja din Slatine. Această combinație de autobuz și barcă oferă cel mai relaxant mod de a experimenta Trogirul și împrejurimile sale fără grija parcării.",
+            "en": "Taking advantage of the excellent public transport, we start at the bus station. After visiting the cathedral and St. Nicholas monastery, we switch modes: the Bura Line boat takes us to Slatine beach. This combination of bus and boat is the most relaxed way to experience Trogir and its surroundings without parking worries."
+          },
+          "stops": [
+            {
+              "name": "Busbahnhof Trogir",
+              "tip_5lang": {
+                "de": "Der zentrale Knotenpunkt für alle lokalen und regionalen Busse.",
+                "hu": "Központi csomópont minden helyi és távolsági buszhoz.",
+                "ro": "Nodul central pentru toate autobuzele locale și regionale.",
+                "en": "The central hub for all local and regional buses."
+              }
+            },
+            {
+              "name": "Landtor",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg vom Busbahnhof entfernt.",
+                "hu": "Csak pár perc séta a buszállomástól.",
+                "ro": "La doar o scurtă plimbare de stația de autobuz.",
+                "en": "Just a short walk from the bus station."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Laurentius",
+              "tip_5lang": {
+                "de": "Das Herzstück des UNESCO-Erbes.",
+                "hu": "Az UNESCO örökség szíve.",
+                "ro": "Inima patrimoniului UNESCO.",
+                "en": "The heart of the UNESCO heritage."
+              }
+            },
+            {
+              "name": "Benediktinerkloster des Heiligen Nikolaus",
+              "tip_5lang": {
+                "de": "Sehen Sie das berühmte Kairos-Relief aus dem 3. Jh. v. Chr.",
+                "hu": "Nézze meg a híres Kairosz-reliefet az i.e. 3. századból.",
+                "ro": "Vedeți faimosul relief Kairos din secolul al III-lea î.Hr.",
+                "en": "See the famous Kairos relief from the 3rd century BC."
+              }
+            },
+            {
+              "name": "Anlegestelle Bura Line",
+              "tip_5lang": {
+                "de": "Nehmen Sie das Boot nach Slatine oder Split für eine Panoramafahrt.",
+                "hu": "Szálljon hajóra Slatine vagy Split felé egy panorámás útért.",
+                "ro": "Luați barca spre Slatine sau Split pentru o călătorie panoramică.",
+                "en": "Take the boat to Slatine or Split for a panoramic ride."
+              }
+            },
+            {
+              "name": "Slatine Strand",
+              "tip_5lang": {
+                "de": "Ein schöner Strand, der einfach mit der Fähre erreichbar ist.",
+                "hu": "Szép strand, amely könnyen elérhető a komppal.",
+                "ro": "O plajă frumoasă, ușor accesibilă cu feribotul.",
+                "en": "A beautiful beach easily accessible by ferry."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bocel",
+                "tip": "Hervorragende Meeresfrüchte direkt an der Bootsanlegestelle."
+              },
+              {
+                "name": "Pizzeria Galion",
+                "tip": "Beliebt bei Einheimischen und nah am Busbahnhof."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bocel",
+                "tip": "Kiváló tengeri ételek közvetlenül a hajókikötőnél."
+              },
+              {
+                "name": "Pizzeria Galion",
+                "tip": "A helyiek kedvence, közel a buszállomáshoz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bocel",
+                "tip": "Fructe de mare excelente chiar lângă debarcader."
+              },
+              {
+                "name": "Pizzeria Galion",
+                "tip": "Populară printre localnici și aproape de stația de autobuz."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bocel",
+                "tip": "Excellent seafood right by the boat pier."
+              },
+              {
+                "name": "Pizzeria Galion",
+                "tip": "A local favorite near the bus station."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Slatine Hafen",
+                "tip": "Ruhigerer Ort als das Zentrum von Trogir.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Busfahrt-Ausblick",
+                "tip": "Genießen Sie den Blick auf die Kastela-Bucht.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Slatine kikötő",
+                "tip": "Nyugodtabb hely, mint Trogir központja.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Buszos kilátás",
+                "tip": "Élvezze a kilátást a Kaštela-öbölre az út alatt.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Portul Slatine",
+                "tip": "Un loc mai liniștit decât centrul Trogirului.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Vederea din autobuz",
+                "tip": "Bucurați-vă de vederea spre golful Kaštela.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Slatine Harbor",
+                "tip": "A quieter spot than the center of Trogir.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Bus View",
+                "tip": "Enjoy the view of Kaštela Bay during the ride.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Tisak Kiosk",
+                "tip": "Hier erhalten Sie Fahrkarten und Zeitungen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tisak stand",
+                "tip": "Itt beszerezheti a jegyeket és újságokat."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chioșc Tisak",
+                "tip": "De aici puteți cumpăra bilete și ziare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tisak Kiosk",
+                "tip": "Get your tickets and newspapers here."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan der Bura Line vorab online.",
+              "Die Buslinie 37 verbindet Trogir alle 20 Minuten mit Split.",
+              "Kaufen Sie Bustickets beim Fahrer oder am Kiosk.",
+              "Die Fähre ist im Sommer oft angenehmer als der Bus."
+            ],
+            "hu": [
+              "Ellenőrizze a Bura Line menetrendjét előre online.",
+              "A 37-es busz 20 percenként köti össze Trogirt Splittel.",
+              "A buszjegyet a sofőrnél vagy az újságosnál veheti meg.",
+              "A komp nyáron gyakran kellemesebb, mint a busz."
+            ],
+            "ro": [
+              "Verificați programul Bura Line online în prealabil.",
+              "Linia de autobuz 37 leagă Trogir de Split la fiecare 20 de minute.",
+              "Cumpărați biletele de autobuz de la șofer sau de la chioșc.",
+              "Feribotul este adesea mai plăcut decât autobuzul pe timpul verii."
+            ],
+            "en": [
+              "Check the Bura Line schedule online in advance.",
+              "Bus line 37 connects Trogir with Split every 20 minutes.",
+              "Buy bus tickets from the driver or at the kiosk.",
+              "The ferry is often more pleasant than the bus in summer."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Busbahnhof, wo die Wartehäuschen guten Schutz bieten. Ein kurzer Weg bringt uns zum Landtor.\n\nMittags erreichen wir die Kathedrale und das Kloster des Heiligen Nikolaus. Zwischen den Haltestellen nutzen wir die Arkaden.\n\nNachmittags prüfen wir die Bura Line. Bei zu starkem Regen oder Wind nutzen wir stattdessen den Bus nach Slatine.\n\nDer Tag endet am Slatine Strand. Das Grau der Adria wirkt beruhigend, während wir im Bus zurück zum Zentrum trocken bleiben.",
+            "hu": "A buszpályaudvaron kezdünk, ahol a váróterem védelmet nyújt. Rövid séta után érjük el a Szárazföldi kaput.\n\nDélben a Székesegyházat és a Szent Miklós kolostort keressük fel. A megállók között az árkádok alatt haladunk.\n\nDélután ellenőrizzük a Bura Line hajójáratot. Ha túl nagy a szél, inkább busszal megyünk Slatine felé.\n\nA nap a Slatine strandon zárul. Az Adria szürkesége megnyugtató, miközben a buszban szárazon utazunk vissza.",
+            "ro": "Începem la autogară, unde refugiile oferă o protecție bună. O scurtă plimbare ne duce la Poarta de pe uscat.\n\nLa prânz ajungem la Catedrală și la Mănăstirea Sf. Nicolae. Între stații folosim arcadele clădirilor pentru a rămâne uscați.\n\nDupă-amiaza verificăm linia de ferry Bura Line. Dacă plouă prea tare, luăm autobuzul spre Slatine.\n\nZiua se încheie la plaja Slatine. Griul Adriaticii este liniștitor în timp ce noi rămânem la adăpost în autobuz spre centru.",
+            "en": "We start at the bus station, where the shelters provide good cover. A short walk brings us to the Land Gate.\n\nAt noon, we reach the Cathedral and St. Nicholas Monastery. We use the building arcades between stops to stay dry.\n\nIn the afternoon, we check the Bura Line ferry. If the rain or wind is too strong, we take the bus to Slatine instead.\n\nThe day ends at Slatine Beach. The grey Adriatic is calming while we stay dry on the bus ride back to the center."
+          },
+          "stops": [
+            {
+              "name": "Busbahnhof Trogir",
+              "tip_5lang": {
+                "de": "Das Terminal bietet einen trockenen Wartebereich.",
+                "hu": "A terminál váróterme száraz helyet biztosít.",
+                "ro": "Terminalul oferă o zonă de așteptare uscată.",
+                "en": "The terminal building offers a dry waiting area."
+              }
+            },
+            {
+              "name": "Landtor",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg vom Busbahnhof entfernt.",
+                "hu": "Mindössze 5 perc séta a buszpályaudvartól.",
+                "ro": "La doar 5 minute de mers pe jos de autogară.",
+                "en": "Only a 5-minute walk from the bus station."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Laurentius",
+              "tip_5lang": {
+                "de": "Zentraler Punkt, von fast allen Linien gut erreichbar.",
+                "hu": "Központi pont, szinte minden járattal jól elérhető.",
+                "ro": "Punct central, ușor accesibil cu aproape toate liniile.",
+                "en": "Central point, easily accessible by almost all lines."
+              }
+            },
+            {
+              "name": "Benediktinerkloster des Heiligen Nikolaus",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang von der Riva-Bushaltestelle.",
+                "hu": "Rövid séta a Riva buszmegállótól.",
+                "ro": "O scurtă plimbare de la stația de autobuz de pe Riva.",
+                "en": "A short stroll from the Riva bus stop."
+              }
+            },
+            {
+              "name": "Anlegestelle Bura Line",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Boote bei Sturm fahren.",
+                "hu": "Ellenőrizze, hogy viharos időben indulnak-e a járatok.",
+                "ro": "Verificați dacă feriboturile circulă pe timp de furtună.",
+                "en": "Check if the ferry services are operational during storms."
+              }
+            },
+            {
+              "name": "Slatine Strand",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nah am Strand.",
+                "hu": "A buszmegálló közvetlenül a strand közelében van.",
+                "ro": "Stația de autobuz este foarte aproape de plajă.",
+                "en": "The bus stop is located very close to the beach."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schiffslinien können bei starkem Wind (Jugo) ausfallen.",
+              "Die Busse der Linie 37 verkehren auch bei Regen zuverlässig.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zwischen den Haltestellen.",
+              "Die Fahrpläne hängen am Busbahnhof wettergeschützt aus."
+            ],
+            "hu": [
+              "Erős szél (Jugo) esetén a hajójáratok elmaradhatnak.",
+              "A 37-es buszjárat esőben is megbízhatóan közlekedik.",
+              "Viseljen vízálló ruhát a megállók közötti gyalogláshoz.",
+              "A menetrendek a pályaudvaron védett helyen vannak kifüggesztve."
+            ],
+            "ro": [
+              "Liniile de feribot pot fi anulate în caz de vânt puternic (Jugo).",
+              "Autobuzele liniei 37 circulă regulat chiar și pe ploaie.",
+              "Purtați haine impermeabile pentru segmentele de mers pe jos.",
+              "Orarele sunt afișate la autogară într-un loc ferit de intemperii."
+            ],
+            "en": [
+              "Ferry lines may be cancelled during strong winds (Jugo).",
+              "Bus line 37 remains reliable even during heavy rain.",
+              "Wear waterproof clothing for the walking sections between stops.",
+              "Timetables are displayed at the station in a sheltered area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Busbahnhof ist ruhig. Wir nutzen den warmen Bus, um Trogir ohne Parkplatzsorgen zu erreichen.\n\nMittags besichtigen wir die Kathedrale und das Benediktinerkloster. Die Taktung der Busse ist im Winter etwas seltener.\n\nNachmittags nehmen wir die Bura Line, sofern sie im Winterfahrplan ist, oder den Bus nach Slatine. Die klare Luft ist herrlich.\n\nDer Tag endet am Slatine Strand. Die Einsamkeit der Küste im Winterlicht ist ein besonderes Erlebnis, bevor uns der Bus zurückbringt.",
+            "hu": "A téli reggel csendes a buszpályaudvaron. A meleg buszt választjuk, hogy parkolási gondok nélkül érjük el Trogirt.\n\nDélben a Székesegyházat és a Benedek-rendi kolostort nézzük meg. A buszok télen ritkábban járnak.\n\nDélután a Bura Line hajóval vagy busszal megyünk Slatine felé. A tiszta téli levegő felfrissíti az embert.\n\nA nap a Slatine strandon zárul. A téli tengerpart magánya és fényei különleges élményt nyújtanak a visszautas busz előtt.",
+            "ro": "Dimineața de iarnă la autogară este calmă. Folosim autobuzul încălzit pentru a ajunge în Trogir fără grija parcării.\n\nLa prânz vizităm Catedrala și Mănăstirea Benedictină. Frecvența autobuzelor este ceva mai redusă iarna.\n\nDupă-amiaza luăm Bura Line sau autobuzul spre Slatine. Aerul curat de iarnă este absolut minunat.\n\nZiua se încheie la plaja Slatine. Singurătatea coastei în lumina iernii este o experiență specială înainte de întoarcere.",
+            "en": "A winter morning at the bus station is calm. We take the warm bus to reach Trogir without any parking worries.\n\nAt noon, we visit the Cathedral and the Benedictine Monastery. Note that bus frequencies are slightly reduced in winter.\n\nIn the afternoon, we take the Bura Line ferry or the bus to Slatine. The crisp winter air is truly wonderful.\n\nThe day ends at Slatine Beach. The coastal solitude in the winter light is a unique experience before the bus ride back."
+          },
+          "stops": [
+            {
+              "name": "Busbahnhof Trogir",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan vorab online.",
+                "hu": "Előre ellenőrizze a téli menetrendet az interneten.",
+                "ro": "Verificați programul de iarnă online în prealabil.",
+                "en": "Check the winter schedule online before heading out."
+              }
+            },
+            {
+              "name": "Landtor",
+              "tip_5lang": {
+                "de": "Vom Busbahnhof aus ein kurzer, frischer Morgenspaziergang.",
+                "hu": "A pályaudvartól egy rövid, frissítő reggeli séta.",
+                "ro": "O scurtă plimbare revigorantă de dimineață de la autogară.",
+                "en": "A short, bracing morning walk from the bus station."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Laurentius",
+              "tip_5lang": {
+                "de": "Besichtigung in aller Ruhe ohne Kreuzfahrttouristen.",
+                "hu": "Városnézés teljes nyugalomban, tengerjáró hajók turistái nélkül.",
+                "ro": "Vizită în liniște deplină, fără turiștii de pe croaziere.",
+                "en": "Sightseeing in total peace, without the cruise ship crowds."
+              }
+            },
+            {
+              "name": "Benediktinerkloster des Heiligen Nikolaus",
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort für Stille in der Winterzeit.",
+                "hu": "Csodálatos hely az elcsendesedéshez a téli időszakban.",
+                "ro": "Un loc minunat pentru liniște în timpul iernii.",
+                "en": "A wonderful place for quiet reflection during wintertime."
+              }
+            },
+            {
+              "name": "Anlegestelle Bura Line",
+              "tip_5lang": {
+                "de": "Die Fahrten sind im Winter stark reduziert.",
+                "hu": "A járatok száma télen jelentősen kevesebb.",
+                "ro": "Cursele sunt mult reduse în timpul iernii.",
+                "en": "Ferry services are significantly reduced during winter."
+              }
+            },
+            {
+              "name": "Slatine Strand",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Zeit des letzten Busses zurück.",
+                "hu": "Ügyeljen az utolsó visszainduló busz időpontjára.",
+                "ro": "Fiți atenți la ora ultimului autobuz de întoarcere.",
+                "en": "Be careful to check the time of the last bus back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter gut beheizt.",
+              "Die Ticketpreise bleiben im Winter meist gleich.",
+              "Die Bura Line fährt im Winter oft nur ein- bis zweimal täglich.",
+              "Nutzen Sie die App des Verkehrsbetriebs für Echtzeit-Infos."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek és kényelmesek.",
+              "A jegyárak télen általában változatlanok maradnak.",
+              "A Bura Line télen gyakran csak napi egy-két alkalommal indul.",
+              "Használja a közlekedési társaság applikációját a valós idejű infókért."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite în timpul iernii.",
+              "Prețurile biletelor rămân de obicei aceleași și iarna.",
+              "Linia Bura circulă adesea doar de 1-2 ori pe zi iarna.",
+              "Folosiți aplicația de transport pentru informații în timp real."
+            ],
+            "en": [
+              "Buses are well-heated and comfortable in winter.",
+              "Ticket prices usually remain the same during the winter season.",
+              "The Bura Line ferry often runs only once or twice a day in winter.",
+              "Use the transit company's app for real-time information."
+            ]
+          }
+        }
       }
     }
   },

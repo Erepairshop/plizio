@@ -290,6 +290,420 @@
           "Water shoes are highly recommended on the pebble beaches.",
           "The Riva is very busy in high summer; escape to the side alleys for more peace."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Willkommen im malerischen Supetar. Beginnen Sie Ihren Rundgang an der belebten Riva und besuchen Sie die Verkündigungskirche mit dem markanten Leroj-Turm.\n\nBewundern Sie die Skulpturen in der Ivan-Rendić-Galerie, bevor Sie einen Küstenstreifzug zum prächtigen Mausoleum Petrinović unternehmen.\n\nVerbringen Sie den Nachmittag am kristallklaren Wasser des Strandes Tri mosta und entspannen Sie im Schatten der Pinien.\n\nDer Tag endet perfekt mit einem Abendessen in einer der Gassen der Altstadt.",
+            "hu": "Üdvözöljük a festői Supetarban. Kezdje a sétát a nyüzsgő Riván, majd látogasson el az Angyali Üdvözlet templomhoz és a jellegzetes Leroj-toronyhoz.\n\nCsodálja meg Ivan Rendić szobrait a galériában, mielőtt egy parti sétát tenne a pazar Petrinović-mauzóleumhoz.\n\nTöltse a délutánt a Tri mosta strand kristálytiszta vizénél, a fenyőfák hűvös árnyékában pihenve.\n\nA nap tökéletesen zárul egy vacsorával az óváros szűk, hangulatos utcáiban.",
+            "ro": "Bun venit în pitorescul Supetar. Începeți plimbarea pe Riva plină de viață și vizitați Biserica Bunei Vestiri cu turnul Leroj distinctiv.\n\nAdmirați sculpturile din Galeria Ivan Rendić înainte de o plimbare pe coastă spre magnificul Mausoleu Petrinović.\n\nPetreceți după-amiaza lângă apa cristalină a plajei Tri mosta, relaxându-vă la umbra pinilor.\n\nZiua se încheie perfect cu o cină pe una dintre străduțele orașului vechi.",
+            "en": "Welcome to picturesque Supetar. Start your tour at the lively Riva and visit the Church of the Annunciation with its prominent Leroj tower.\n\nAdmire the sculptures in the Ivan Rendić Gallery before taking a coastal stroll to the magnificent Petrinović Mausoleum.\n\nSpend the afternoon by the crystal-clear water of Tri mosta beach, relaxing in the shade of the pine trees.\n\nThe day ends perfectly with dinner in one of the narrow streets of the old town."
+          },
+          "stops": [
+            {
+              "name": "Riva-Promenade",
+              "tip_5lang": {
+                "de": "Beobachten Sie das Anlegen der Fähren bei einem Espresso.",
+                "hu": "Figyelje a kompok érkezését egy finom eszpresszó mellett.",
+                "ro": "Urmăriți acostarea feriboturilor cu un espresso.",
+                "en": "Watch the ferries docking while enjoying an espresso."
+              }
+            },
+            {
+              "name": "Mariä-Verkündigungs-Kirche",
+              "tip_5lang": {
+                "de": "Wunderschöne Mosaike aus dem 6. Jahrhundert im Inneren.",
+                "hu": "Gyönyörű 6. századi mozaikok találhatók a templombelsőben.",
+                "ro": "Mozaicuri superbe din secolul al VI-lea în interior.",
+                "en": "Beautiful 6th-century mosaics can be found inside."
+              }
+            },
+            {
+              "name": "Leroj-Glockenturm",
+              "tip_5lang": {
+                "de": "Das Wahrzeichen der Stadt direkt neben der Kirche.",
+                "hu": "A város jelképe, közvetlenül a templom mellett.",
+                "ro": "Simbolul orașului, situat chiar lângă biserică.",
+                "en": "The landmark of the city, located right next to the church."
+              }
+            },
+            {
+              "name": "Ivan-Rendić-Galerie",
+              "tip_5lang": {
+                "de": "Werke des berühmtesten kroatischen Bildhauers, der hier geboren wurde.",
+                "hu": "A leghíresebb horvát szobrász művei, aki itt született.",
+                "ro": "Opere ale celui mai faimos sculptor croat, născut aici.",
+                "en": "Works of the most famous Croatian sculptor, who was born here."
+              }
+            },
+            {
+              "name": "Mausoleum Petrinović",
+              "tip_5lang": {
+                "de": "Ein architektonisches Meisterwerk auf der Halbinsel Sveti Nikola.",
+                "hu": "Építészeti remekmű a Sveti Nikola-félszigeten.",
+                "ro": "O capodoperă arhitecturală pe peninsula Sveti Nikola.",
+                "en": "An architectural masterpiece on the Sveti Nikola peninsula."
+              }
+            },
+            {
+              "name": "Strand Tri mosta",
+              "tip_5lang": {
+                "de": "Kiesstrand mit viel Schatten unter Pinienbäumen.",
+                "hu": "Kavicsos strand sok árnyékkal a fenyőfák alatt.",
+                "ro": "Plajă cu pietriș și multă umbră sub pini.",
+                "en": "Pebble beach with plenty of shade under pine trees."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Vinotoka",
+                "tip": "Probieren Sie das berühmte Bračer Lammfleisch."
+              },
+              {
+                "name": "Restaurant Palute",
+                "tip": "Hervorragende Meeresfrüchte direkt am Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba Vinotoka",
+                "tip": "Kóstolja meg a híres brači báránysültet."
+              },
+              {
+                "name": "Restaurant Palute",
+                "tip": "Kiváló tengeri herentyűk közvetlenül a kikötőben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Vinotoka",
+                "tip": "Încercați celebrul miel de pe insula Brač."
+              },
+              {
+                "name": "Restaurant Palute",
+                "tip": "Fructe de mare excelente chiar în port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Vinotoka",
+                "tip": "Try the famous Brač lamb."
+              },
+              {
+                "name": "Restaurant Palute",
+                "tip": "Excellent seafood right at the harbor."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Friedhof von Supetar",
+                "tip": "Ein stiller Ort mit prachtvollen Grabmälern am Meer.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Bucht Banj",
+                "tip": "Ein ruhiger Moment am Morgen, bevor die Massen kommen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Supetari temető",
+                "tip": "Csendes hely pazar síremlékekkel a tengerparton.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Banj-öböl",
+                "tip": "Nyugodt pillanatok reggel, mielőtt megérkezik a tömeg.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cimitirul din Supetar",
+                "tip": "Un loc liniștit cu morminte magnifice lângă mare.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Golful Banj",
+                "tip": "Un moment de liniște dimineața înainte de mulțime.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Supetar Cemetery",
+                "tip": "A quiet spot with magnificent tombs by the sea.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Banj Bay",
+                "tip": "A quiet moment in the morning before the crowds arrive.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirshop Ivan",
+                "tip": "Echte Steinmetzarbeiten aus dem weißen Bračer Marmor."
+              },
+              {
+                "name": "Örtlicher Markt",
+                "tip": "Kaufen Sie hier handgemachtes Olivenöl und Feigen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ivan ajándékbolt",
+                "tip": "Valódi kőfaragványok a híres brači fehér márványból."
+              },
+              {
+                "name": "Helyi piac",
+                "tip": "Vásároljon itt kézműves olívaolajat és fügét."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazinul Ivan",
+                "tip": "Lucrări autentice în piatră din marmură albă de Brač."
+              },
+              {
+                "name": "Piața locală",
+                "tip": "Cumpărați ulei de măsline artizanal și smochine."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ivan Souvenirs",
+                "tip": "Authentic stonework made from white Brač marble."
+              },
+              {
+                "name": "Local Market",
+                "tip": "Buy handmade olive oil and figs here."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Fähren von Split kommen fast stündlich an, planen Sie Zeit für die Rückfahrt ein.",
+              "Tragen Sie bequeme Schuhe für die Küstenwege zum Mausoleum.",
+              "Badeschuhe sind auf den Kiesstränden sehr zu empfehlen.",
+              "Die Riva ist im Hochsommer sehr belebt, weichen Sie in die Seitengassen aus."
+            ],
+            "hu": [
+              "A kompok Splitből szinte óránként járnak, tervezze meg időben a visszautat.",
+              "Viseljen kényelmes cipőt a mauzóleumhoz vezető parti ösvényen.",
+              "A kavicsos strandokon kifejezetten ajánlott az úszócipő használata.",
+              "A Riva főszezonban nagyon zsúfolt, ilyenkor keressen nyugalmat a mellékutcákban."
+            ],
+            "ro": [
+              "Feriboturile din Split sosesc aproape din oră în oră, planificați timpul de retur.",
+              "Purtați încălțăminte confortabilă pentru potecile de coastă spre mausoleu.",
+              "Pantofii de apă sunt foarte recomandați pe plajele cu pietriș.",
+              "Riva este foarte aglomerată în plin sezon, retrageți-vă pe străduțele laterale."
+            ],
+            "en": [
+              "Ferries from Split arrive almost hourly; plan your return trip in advance.",
+              "Wear comfortable shoes for the coastal paths to the mausoleum.",
+              "Water shoes are highly recommended on the pebble beaches.",
+              "The Riva is very busy in high summer; escape to the side alleys for more peace."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag an der Riva mit einem Regenschirm und genießen Sie die dramatische Aussicht auf das graue Meer. Die Kirche und die Galerie bieten perfekte Zufluchtsorte vor dem Regen. Mittags erkunden Sie die Kunst im Trockenen, bevor Sie zum Mausoleum spazieren. Der Tag endet mit einem Blick auf die stürmische Adria am Strand von Tri mosta.",
+            "hu": "Kezdje a napot az esernyős Riva-sétányon, élvezve a viharos tenger látványát. A templom és a galéria kiváló menedéket nyújt a záporok elől. Délben fedett helyen fedezze fel a helyi művészetet, majd tegyen egy rövid sétát a mauzóleumhoz. A napot a Tri mosta strandnál zárhatja, figyelve a hullámok játékát az esőben.",
+            "ro": "Începeți ziua pe faleza Riva cu o umbrelă, admirând marea agitată. Biserica și galeria oferă adăposturi perfecte împotriva ploii. La prânz, explorați arta locală la interior, apoi mergeți spre mausoleu. Ziua se încheie la plaja Tri mosta, unde puteți urmări spectacolul valurilor sub stropii de ploaie.",
+            "en": "Start your day on the Riva promenade with an umbrella, enjoying the dramatic sea views. The church and gallery provide perfect shelters from the rain. At noon, explore local art indoors before a walk to the mausoleum. The day ends at Tri mosta beach, watching the waves crash under the rainy sky."
+          },
+          "stops": [
+            {
+              "name": "Riva-Promenade",
+              "tip_4lang": {
+                "de": "Vorsicht auf den nassen Steinplatten, sie können sehr rutschig sein.",
+                "hu": "Vigyázzon a vizes kőlapokon, mert nagyon csúszósak lehetnek.",
+                "ro": "Atenție pe dalele de piatră umede, pot fi foarte alunecoase.",
+                "en": "Watch your step on the wet stone slabs, they can be very slippery."
+              }
+            },
+            {
+              "name": "Mariä-Verkündigungs-Kirche",
+              "tip_4lang": {
+                "de": "Ein friedlicher Ort, um einen starken Regenschauer abzuwarten.",
+                "hu": "Békés helyszín egy nagyobb zápor átvészelésére.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea unei averse puternice.",
+                "en": "A peaceful place to wait out a heavy rain shower."
+              }
+            },
+            {
+              "name": "Leroj-Glockenturm",
+              "tip_4lang": {
+                "de": "Suchen Sie Schutz unter den nahegelegenen Arkaden.",
+                "hu": "Keressen menedéket a közeli árkádok alatt.",
+                "ro": "Căutați adăpost sub arcadele din apropiere.",
+                "en": "Seek shelter under the nearby archways."
+              }
+            },
+            {
+              "name": "Ivan-Rendić-Galerie",
+              "tip_4lang": {
+                "de": "Der ideale Ort für eine ausgiebige Besichtigung bei schlechtem Wetter.",
+                "hu": "Ideális helyszín egy alapos városnézéshez rossz idő esetén.",
+                "ro": "Locul ideal pentru o vizită detaliată pe timp de vreme rea.",
+                "en": "The ideal place for an extensive visit during bad weather."
+              }
+            },
+            {
+              "name": "Mausoleum Petrinović",
+              "tip_4lang": {
+                "de": "Der weiße Stein wirkt im Regen besonders mystisch.",
+                "hu": "A fehér kő az esőben különösen misztikus látványt nyújt.",
+                "ro": "Piatra albă arată deosebit de mistic sub ploaie.",
+                "en": "The white stone looks particularly mystical in the rain."
+              }
+            },
+            {
+              "name": "Strand Tri mosta",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf das Meer von einem überdachten Café aus.",
+                "hu": "Élvezze a tenger látványát egy fedett kávézó teraszáról.",
+                "ro": "Bucurați-vă de priveliștea mării de la o cafenea acoperită.",
+                "en": "Enjoy the sea view from a covered cafe terrace."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Grip für die glatten Marmorwege.",
+              "Die Galerie Ivan Rendić ist ein hervorragender Rückzugsort bei Güssen.",
+              "Viele Cafés an der Riva haben Markisen und Heizstrahler.",
+              "Nutzen Sie die Regenpause für den Weg zum etwas entfernteren Friedhof.",
+              "Ein Taschenregenschirm ist wegen plötzlicher Windböen praktischer."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt a csúszós márványburkolatok miatt.",
+              "Az Ivan Rendić galéria kiváló búvóhely a felhőszakadások idején.",
+              "A Riva kávézói ponyvákkal és hősugárzókkal várják a vendégeket.",
+              "Használja ki az esőszünetet a távolabbi temető meglátogatásához.",
+              "A hirtelen széllökések miatt egy összecsukható esernyő praktikusabb."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună pentru trotuarele de marmură.",
+              "Galeria Ivan Rendić este un refugiu excelent în timpul ploilor torențiale.",
+              "Multe cafenele de pe Riva au copertine și încălzitoare.",
+              "Profitați de pauzele de ploaie pentru drumul spre cimitirul mai îndepărtat.",
+              "O umbrelă pliabilă este mai practică din cauza rafalelor bruște de vânt."
+            ],
+            "en": [
+              "Wear shoes with good grip for the slippery marble walkways.",
+              "The Ivan Rendić gallery is an excellent refuge during heavy downpours.",
+              "Many cafes on the Riva have awnings and outdoor heaters.",
+              "Take advantage of rain breaks for the walk to the distant cemetery.",
+              "A compact umbrella is more practical due to sudden wind gusts."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das authentische Supetar in der ruhigen Winterzeit. Die kühle Morgenluft an der Riva belebt, während die Kirche und Galerie Wärme und Kultur bieten. Nachmittags ist das Licht am Mausoleum besonders weich und fotogen. Beenden Sie den Tag früh am Strand, um den spektakulären Wintersonnenuntergang über dem Festland zu bewundern.",
+            "hu": "Ismerje meg a hiteles Supetart a csendes téli időszakban. A Riva hűvös reggeli levegője felfrissít, míg a templom és a galéria meleget és kultúrát kínál. Délután a mauzóleumnál a fények különösen lágyak és fotogének. Zárja korán a napot a strandon, hogy megcsodálhassa a szárazföld feletti téli naplementét.",
+            "ro": "Descoperiți Supetar-ul autentic în perioada liniștită de iarnă. Aerul răcoros de dimineață de pe Riva este revigorant, în timp ce biserica și galeria oferă căldură și cultură. După-amiaza, lumina de la mausoleu este deosebit de caldă și fotogenică. Încheiați ziua devreme la plajă pentru a admira apusul spectaculos de iarnă.",
+            "en": "Experience authentic Supetar during the quiet winter season. The crisp morning air on the Riva is invigorating, while the church and gallery offer warmth and culture. In the afternoon, the light at the mausoleum is particularly soft and photogenic. End your day early at the beach to catch the spectacular winter sunset over the mainland."
+          },
+          "stops": [
+            {
+              "name": "Riva-Promenade",
+              "tip_4lang": {
+                "de": "Warme Kleidung ist wegen des oft starken Bura-Windes wichtig.",
+                "hu": "A gyakori Bóra szél miatt réteges, meleg öltözet ajánlott.",
+                "ro": "Îmbrăcămintea groasă este esențială din cauza vântului Bura.",
+                "en": "Warm clothing is essential due to the often strong Bura wind."
+              }
+            },
+            {
+              "name": "Mariä-Verkündigungs-Kirche",
+              "tip_4lang": {
+                "de": "Genießen Sie die Stille ohne die sommerlichen Touristenmassen.",
+                "hu": "Élvezze a csendet a nyári turistaáradat nélkül.",
+                "ro": "Bucurați-vă de liniște fără mulțimile de turiști din vară.",
+                "en": "Enjoy the silence without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Leroj-Glockenturm",
+              "tip_4lang": {
+                "de": "Die klare Winterluft ermöglicht weite Sicht bis nach Split.",
+                "hu": "A tiszta téli levegőben messzire ellátni Split irányába.",
+                "ro": "Aerul curat de iarnă permite vizibilitate până la Split.",
+                "en": "The clear winter air allows for views all the way to Split."
+              }
+            },
+            {
+              "name": "Ivan-Rendić-Galerie",
+              "tip_4lang": {
+                "de": "Prüfen Sie die kürzeren Winteröffnungszeiten im Voraus.",
+                "hu": "Ellenőrizze előre a rövidebb téli nyitvatartási időt.",
+                "ro": "Verificați din timp programul de iarnă, care este mai scurt.",
+                "en": "Check the shorter winter opening hours in advance."
+              }
+            },
+            {
+              "name": "Mausoleum Petrinović",
+              "tip_4lang": {
+                "de": "Ideale Zeit für Fotos ohne störende Schatten durch die tiefe Sonne.",
+                "hu": "Ideális időpont a fotózáshoz az alacsony napállás miatt.",
+                "ro": "Moment ideal pentru fotografii datorită soarelui la joasă înălțime.",
+                "en": "Ideal time for photos due to the low winter sun."
+              }
+            },
+            {
+              "name": "Strand Tri mosta",
+              "tip_4lang": {
+                "de": "Perfekt für einen erfrischenden Spaziergang am leeren Ufer.",
+                "hu": "Tökéletes helyszín egy frissítő sétához az üres parton.",
+                "ro": "Perfect pentru o plimbare revigorantă pe țărmul pustiu.",
+                "en": "Perfect for a refreshing walk along the empty shore."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist im Winter bereits gegen 16:30 Uhr.",
+              "Achten Sie auf die Bura, einen kalten Fallwind vom Gebirge.",
+              "Einige Cafés im Zentrum haben gemütliche Innenräume geöffnet.",
+              "Die Mittagssonne kann trotz Kälte sehr intensiv sein.",
+              "Winter ist die beste Zeit, um mit Einheimischen ins Gespräch zu kommen."
+            ],
+            "hu": [
+              "Télen a naplemente már 16:30 körül bekövetkezik.",
+              "Ügyeljen a Bórára, amely a hegyek felől fújó hideg szél.",
+              "Néhány központi kávézó hangulatos belső térrel várja.",
+              "A déli napsütés a hideg ellenére is nagyon erős lehet.",
+              "A tél a legjobb időszak a helyiekkel való beszélgetésre."
+            ],
+            "ro": [
+              "Apusul soarelui are loc în jurul orei 16:30 pe timp de iarnă.",
+              "Fiți atenți la Bura, un vânt rece care suflă dinspre munți.",
+              "Unele cafenele din centru au spații interioare primitoare.",
+              "Soarele de la amiază poate fi intens în ciuda frigului.",
+              "Iarna este cel mai bun moment pentru a discuta cu localnicii."
+            ],
+            "en": [
+              "Sunset occurs as early as 16:30 during the winter months.",
+              "Watch out for the Bura, a cold katabatic wind from the mountains.",
+              "Some central cafes have cozy indoor seating available.",
+              "The midday sun can be quite intense despite the cold air.",
+              "Winter is the best time to strike up a conversation with locals."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -500,6 +914,337 @@
           "Take plenty of water with you; drinking fountains are rare.",
           "Watch out for pedestrians on the Riva promenade."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die Nordküste von Brač mit dem Fahrrad. Starten Sie bei den römischen Mosaiken und radeln Sie dann zum beeindruckenden Mausoleum Petrinović.\n\nDie Tour führt Sie weiter in das entspannte Dorf Mirca, umgeben von Olivenhainen. Zurück in Supetar genießen Sie das Meer am Strand Tri mosta.\n\nEine kurze Fahrt zur Statue des Hl. Rochus bildet den Abschluss Ihrer Radtour.",
+            "hu": "Fedezze fel Brač északi partját kerékpárral. Kezdje a római mozaikoknál, majd tekerjen a lenyűgöző Petrinović-mauzóleumhoz.\n\nA túra továbbvezet a békés Mirca faluba, amelyet olajfaligetek vesznek körül. Visszatérve Supetarba, élvezze a tengert a Tri mosta strandon.\n\nEgy rövid tekerés Szent Rókus szobrához zárja a kerékpáros felfedezést.",
+            "ro": "Explorați coasta de nord a insulei Brač cu bicicleta. Începeți la mozaicurile romane, apoi pedalați spre impresionantul Mausoleu Petrinović.\n\nTurul vă duce mai departe în satul relaxat Mirca, înconjurat de livezi de măslini. Revenind în Supetar, bucurați-vă de mare pe plaja Tri mosta.\n\nO scurtă plimbare la statuia Sfântului Rochus încheie turul cu bicicleta.",
+            "en": "Explore the northern coast of Brač by bike. Start at the Roman mosaics and then cycle to the impressive Petrinović Mausoleum.\n\nThe tour takes you further to the relaxed village of Mirca, surrounded by olive groves. Back in Supetar, enjoy the sea at Tri mosta beach.\n\nA short ride to the statue of St. Roch ends your cycling exploration."
+          },
+          "stops": [
+            {
+              "name": "Römische Mosaike",
+              "tip_5lang": {
+                "de": "Nahe der Kirche gelegen, ein Blick in die Antike.",
+                "hu": "A templom közelében található antik emlékek.",
+                "ro": "Situate lângă biserică, o privire în antichitate.",
+                "en": "Located near the church, a glimpse into antiquity."
+              }
+            },
+            {
+              "name": "Mausoleum Petrinović",
+              "tip_5lang": {
+                "de": "Wunderschöner Radweg entlang der Küste hierher.",
+                "hu": "Gyönyörű tengerparti kerékpárút vezet ide.",
+                "ro": "Pistă superbă de biciclete de-a lungul coastei până aici.",
+                "en": "Beautiful seaside bike path leads here."
+              }
+            },
+            {
+              "name": "Mirca (Dorf)",
+              "tip_5lang": {
+                "de": "Ein ruhiges Dorf westlich von Supetar, ideal für eine Pause.",
+                "hu": "Csendes falu Supetartól nyugatra, ideális pihenőhely.",
+                "ro": "Un sat liniștit la vest de Supetar, ideal pentru o pauză.",
+                "en": "A quiet village west of Supetar, ideal for a break."
+              }
+            },
+            {
+              "name": "Strand Tri mosta",
+              "tip_5lang": {
+                "de": "Bringen Sie Ihr Rad nah am Wasser unter Pinien unter.",
+                "hu": "A biciklit vigye közel a vízhez a fenyők árnyékába.",
+                "ro": "Puneți bicicleta aproape de apă sub pini.",
+                "en": "Keep your bike close to the water under the pines."
+              }
+            },
+            {
+              "name": "Hl.-Rochus-Statue",
+              "tip_5lang": {
+                "de": "Kleine Kapelle und Statue am Stadtrand.",
+                "hu": "Kis kápolna és szobor a város szélén.",
+                "ro": "Mică capelă și statuie la marginea orașului.",
+                "en": "Small chapel and statue on the edge of town."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bistro Gumonca (Mirca)",
+                "tip": "Hervorragendes Olivenöl und lokaler Käse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bistro Gumonca (Mirca)",
+                "tip": "Kiváló olívaolaj és helyi sajt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bistro Gumonca (Mirca)",
+                "tip": "Ulei de măsline excelent și brânză locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bistro Gumonca (Mirca)",
+                "tip": "Excellent olive oil and local cheese."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Olivenwege",
+                "tip": "Ruhige Schotterwege zwischen Mirca und Supetar.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Olajfa-utak",
+                "tip": "Csendes murvás utak Mirca és Supetar között.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Drumurile măslinilor",
+                "tip": "Drumuri liniștite cu pietriș între Mirca și Supetar.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Olive Paths",
+                "tip": "Quiet gravel paths between Mirca and Supetar.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Rent-a-bike Supetar",
+                "tip": "Gute Auswahl an Mountainbikes und E-Bikes."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Supetar kerékpárkölcsönző",
+                "tip": "Hegyi és elektromos kerékpárok jó választéka."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rent-a-bike Supetar",
+                "tip": "O selecție bună de mountain bike și e-bike."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rent-a-bike Supetar",
+                "tip": "Good selection of mountain bikes and e-bikes."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Wege entlang der Küste sind meist flach, das Hinterland ist sehr steil.",
+              "Nehmen Sie ausreichend Wasser mit, Trinkbrunnen sind selten.",
+              "Achten Sie auf Fußgänger auf der Promenade Riva."
+            ],
+            "hu": [
+              "A tengerparti utak többnyire síkok, de a hátország nagyon meredek.",
+              "Vigyen magával elegendő vizet, mert az ivókutak ritkák.",
+              "Ügyeljen a gyalogosokra a Riva sétányon."
+            ],
+            "ro": [
+              "Drumurile de-a lungul coastei sunt în mare parte plate, interiorul este foarte abrupt.",
+              "Luați suficientă apă, cișmelele sunt rare.",
+              "Atenție la pietonii de pe faleza Riva."
+            ],
+            "en": [
+              "The coastal paths are mostly flat, but the hinterland is very steep.",
+              "Take plenty of water with you; drinking fountains are rare.",
+              "Watch out for pedestrians on the Riva promenade."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber eine einsame Inselerfahrung. Nach den Mosaiken führt der Weg zum Mausoleum durch feuchte Pinienwälder. In Mirca finden Sie authentische Ruhe, bevor Sie zum Strand Tri mosta zurückkehren. Der Tag endet mit einem stärkenden Getränk im Hafenviertel von Supetar.",
+            "hu": "Az esős kerékpározás óvatosságot igényel, de magányos szigeti élményt nyújt. A mozaikok után az út a mauzóleumhoz nedves fenyőerdőkön át vezet. Mircában autentikus nyugalmat talál, mielőtt visszatérne a Tri mosta strandra. A napot egy erősítő itallal zárhatja Supetar kikötőjében.",
+            "ro": "O tură cu bicicleta prin ploaie necesită atenție, dar oferă o experiență izolată. După mozaicuri, drumul spre mausoleu trece prin păduri de pini umede. În Mirca veți găsi o liniște autentică înainte de a reveni la plaja Tri mosta. Ziua se încheie cu o băutură caldă în portul Supetar.",
+            "en": "Cycling in the rain requires caution but offers a solitary island experience. After the mosaics, the path to the mausoleum leads through damp pine forests. In Mirca, you will find authentic peace before returning to Tri mosta beach. The day ends with a restorative drink in the Supetar harbor area."
+          },
+          "stops": [
+            {
+              "name": "Römische Mosaike",
+              "tip_4lang": {
+                "de": "Die Farben der Mosaike leuchten im nassen Zustand intensiver.",
+                "hu": "A mozaikok színei nedvesen sokkal élénkebbek.",
+                "ro": "Culorile mozaicurilor sunt mai intense când sunt umede.",
+                "en": "The colors of the mosaics are more intense when wet."
+              }
+            },
+            {
+              "name": "Mausoleum Petrinović",
+              "tip_4lang": {
+                "de": "Die Zypressenwege bieten begrenzten Schutz vor Nieselregen.",
+                "hu": "A ciprusokkal övezett utak korlátozott védelmet nyújtanak.",
+                "ro": "Aleile cu chiparoși oferă un adăpost limitat contra burniței.",
+                "en": "The cypress-lined paths offer limited shelter from drizzle."
+              }
+            },
+            {
+              "name": "Mirca (Dorf)",
+              "tip_4lang": {
+                "de": "Fahren Sie langsam durch die engen, nassen Gassen.",
+                "hu": "Hajtson lassan a szűk, vizes falusi utcákon.",
+                "ro": "Mergeți încet pe străzile înguste și umede din sat.",
+                "en": "Ride slowly through the narrow, wet village streets."
+              }
+            },
+            {
+              "name": "Strand Tri mosta",
+              "tip_4lang": {
+                "de": "Unterstellmöglichkeiten gibt es bei den geschlossenen Strandbars.",
+                "hu": "A zárva tartó strandbüfék ereszszegélyei alatt megállhat.",
+                "ro": "Vă puteți adăposti sub streșinile barurilor de plajă închise.",
+                "en": "You can take cover under the eaves of closed beach bars."
+              }
+            },
+            {
+              "name": "Hl.-Rochus-Statue",
+              "tip_4lang": {
+                "de": "Ein kurzer Stopp für ein schnelles Foto im Regen.",
+                "hu": "Rövid megálló egy gyors fotóra az esőben.",
+                "ro": "O oprire scurtă pentru o fotografie rapidă sub ploaie.",
+                "en": "A short stop for a quick photo in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie schnelles Bremsen auf nassem Kopfsteinpflaster.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck gibt mehr Grip.",
+              "Schutzbleche sind bei den Feldwegen nach Mirca sehr zu empfehlen.",
+              "Die Küstenstraße kann bei Regen durch Gischt rutschig sein."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a vizes macskaköveken.",
+              "Viseljen neon esődzsekit a jobb láthatóság érdekében.",
+              "Ellenőrizze a guminyomást; a puhább gumi jobban tapad.",
+              "A Mirca felé vezető földutakon nagyon ajánlott a sárvédő.",
+              "A parti út az eső és a sós permet miatt csúszós lehet."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavajul umed din piatră.",
+              "Purtați o jachetă de ploaie neon pentru o vizibilitate mai bună.",
+              "Verificați presiunea; anvelopele mai moi oferă aderență sporită.",
+              "Apărătorile de noroi sunt recomandate pentru drumurile spre Mirca.",
+              "Drumul de coastă poate fi alunecos din cauza spray-ului marin."
+            ],
+            "en": [
+              "Avoid sudden braking on wet cobblestones.",
+              "Wear a neon rain jacket for better visibility to cars.",
+              "Check tire pressure; slightly lower pressure gives better grip.",
+              "Mudguards are highly recommended for the paths to Mirca.",
+              "The coastal road can be slippery from rain and sea spray."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren auf Brač bietet klare Luft und leere Straßen. Nach der Besichtigung der Mosaike radeln Sie zum ruhigen Mausoleum. Die Fahrt nach Mirca führt durch Olivenhaine, die gerade geerntet wurden oder ruhen. Beenden Sie die Tour am Strand Tri mosta und genießen Sie die kühle Brise, bevor es früh dunkel wird.",
+            "hu": "A téli kerékpározás Brač szigetén tiszta levegőt és üres utakat kínál. A mozaikok után tekerjen el a csendes mauzóleumhoz. Mirca felé az út az éppen pihenő olajfaligeteken át vezet. Zárja a túrát a Tri mosta strandon, élvezve a hűvös szellőt a korai sötétedés előtt.",
+            "ro": "Ciclismul de iarnă pe Brač înseamnă aer curat și drumuri libere. După vizitarea mozaicurilor, pedalați spre mausoleul liniștit. Drumul spre Mirca trece prin livezi de măslini aflate în repaus. Încheiați tura la plaja Tri mosta și bucurați-vă de briză înainte de lăsarea serii.",
+            "en": "Winter cycling on Brač offers crisp air and empty roads. After visiting the mosaics, pedal to the quiet mausoleum. The ride to Mirca leads through olive groves that are resting after harvest. End the tour at Tri mosta beach and enjoy the cool breeze before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Römische Mosaike",
+              "tip_4lang": {
+                "de": "In der Wintersonne sind die Details der Steine gut sichtbar.",
+                "hu": "A téli napsütésben a kövek részletei jól láthatóak.",
+                "ro": "În soarele de iarnă, detaliile pietrelor sunt foarte vizibile.",
+                "en": "In the winter sun, the details of the stones are clearly visible."
+              }
+            },
+            {
+              "name": "Mausoleum Petrinović",
+              "tip_4lang": {
+                "de": "Ein magischer Ort in der tiefstehenden Nachmittagssonne.",
+                "hu": "Varázslatos helyszín az alacsonyan járó délutáni napfényben.",
+                "ro": "Un loc magic în lumina joasă a soarelui de după-amiază.",
+                "en": "A magical spot in the low afternoon sun."
+              }
+            },
+            {
+              "name": "Mirca (Dorf)",
+              "tip_4lang": {
+                "de": "Das Dorf wirkt im Winter wie aus einer anderen Zeit.",
+                "hu": "A falu télen olyan, mintha egy másik időben járnánk.",
+                "ro": "Satul pare desprins din alt timp pe parcursul iernii.",
+                "en": "The village feels like it is from another time in winter."
+              }
+            },
+            {
+              "name": "Strand Tri mosta",
+              "tip_4lang": {
+                "de": "Machen Sie eine Pause in der Sonne, um sich aufzuwärmen.",
+                "hu": "Tartson pihenőt a napon, hogy kicsit felmelegedjen.",
+                "ro": "Faceți o pauză la soare pentru a vă încălzi puțin.",
+                "en": "Take a break in the sun to warm up during your ride."
+              }
+            },
+            {
+              "name": "Hl.-Rochus-Statue",
+              "tip_4lang": {
+                "de": "Die Statue wirkt vor dem klaren blauen Winterhimmel stolz.",
+                "hu": "A szobor büszkén magasodik a tiszta kék téli égbolt előtt.",
+                "ro": "Statuia arată impunător pe fundalul cerului senin de iarnă.",
+                "en": "The statue stands proud against the clear blue winter sky."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Die Straßen sind im Winter fast ohne Autoverkehr, ideal für Radler.",
+              "Planen Sie Ihre Rückkehr nach Supetar vor 16:30 Uhr ein.",
+              "Die Temperaturen fallen stark ab, sobald die Sonne weg ist.",
+              "Ein heißer Tee in einer Thermoskanne ist ein toller Begleiter."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Az utak télen szinte forgalommentesek, ideálisak a bringásoknak.",
+              "Tervezze a visszatérést Supetarba délután fél 5 előtt.",
+              "A hőmérséklet hirtelen leesik, amint a nap eltűnik.",
+              "Egy termosz meleg tea remek társ a téli tekeréshez."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Drumurile sunt aproape libere de mașini, ideal pentru cicliști.",
+              "Planificați revenirea în Supetar înainte de ora 16:30.",
+              "Temperaturile scad brusc imediat ce soarele apune.",
+              "Un ceai fierbinte într-un termos este un companion excelent."
+            ],
+            "en": [
+              "Wear windproof gloves and a thin cap under your helmet.",
+              "The roads are almost car-free in winter, ideal for cyclists.",
+              "Plan your return to Supetar before 16:30 for safety.",
+              "Temperatures drop significantly as soon as the sun sets.",
+              "A hot tea in a thermos is a great companion for the ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -710,6 +1455,337 @@
           "The road to Vidova Gora is well-maintained but steep.",
           "Parking at Zlatni Rat (Bol) is very expensive in summer; better stay in Supetar."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Auto, um das Herz von Brač zu erkunden. Starten Sie in Supetar und fahren Sie hinauf zur Vidova Gora für ein atemberaubendes Panorama.\n\nBesuchen Sie das Steindorf Donji Humac, bevor Sie zurück nach Supetar kehren, um das Mausoleum Petrinović zu bewundern.\n\nDen Nachmittag verbringen Sie entspannt am Strand Tri mosta, der bequem per Auto erreichbar ist.",
+            "hu": "Használja az autót Brač szívének felfedezéséhez. Kezdjen Supetarban, majd hajtson fel a Vidova Gorára a lélegzetelállító panorámáért.\n\nLátogasson el a kőfaragóiról híres Donji Humac faluba, mielőtt visszatérne Supetarba a Petrinović-mauzóleumhoz.\n\nA délutánt töltse pihenéssel a Tri mosta strandon, amely autóval is kényelmesen megközelíthető.",
+            "ro": "Folosiți mașina pentru a explora inima insulei Brač. Începeți în Supetar și conduceți până la Vidova Gora pentru o panoramă uluitoare.\n\nVizitați satul de piatră Donji Humac înainte de a reveni în Supetar pentru a admira Mausoleul Petrinović.\n\nDupă-amiaza o veți petrece relaxat pe plaja Tri mosta, ușor accesibilă cu mașina.",
+            "en": "Use your car to explore the heart of Brač. Start in Supetar and drive up to Vidova Gora for a breathtaking panorama.\n\nVisit the stone village of Donji Humac before returning to Supetar to admire the Petrinović Mausoleum.\n\nSpend the afternoon relaxing at Tri mosta beach, which is easily accessible by car."
+          },
+          "stops": [
+            {
+              "name": "Supetar Zentrum",
+              "tip_5lang": {
+                "de": "Parkplatz am Hafen nutzen.",
+                "hu": "Használja a kikötői parkolót.",
+                "ro": "Folosiți parcarea din port.",
+                "en": "Use the harbor parking lot."
+              }
+            },
+            {
+              "name": "Vidova Gora",
+              "tip_5lang": {
+                "de": "Höchster Gipfel aller adriatischen Inseln mit Top-Aussicht.",
+                "hu": "Az adriai szigetek legmagasabb csúcsa, pazar kilátással.",
+                "ro": "Cel mai înalt vârf al insulelor adriatice, cu o vedere de top.",
+                "en": "Highest peak of all Adriatic islands with a top view."
+              }
+            },
+            {
+              "name": "Donji Humac",
+              "tip_5lang": {
+                "de": "Ein Dorf bekannt für seine Steinmetztradition.",
+                "hu": "Kőfaragó hagyományairól ismert hangulatos falu.",
+                "ro": "Un sat cunoscut pentru tradiția cioplitului în piatră.",
+                "en": "A village known for its stonemasonry tradition."
+              }
+            },
+            {
+              "name": "Mausoleum Petrinović",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze direkt vor dem Eingang zum Friedhof.",
+                "hu": "A temető bejárata előtt közvetlenül van parkolóhely.",
+                "ro": "Există locuri de parcare chiar în fața intrării în cimitir.",
+                "en": "There are parking spaces right in front of the cemetery entrance."
+              }
+            },
+            {
+              "name": "Strand Tri mosta",
+              "tip_5lang": {
+                "de": "Großer Parkplatz bei den Hotelanlagen.",
+                "hu": "Nagy parkoló a szállodakomplexumoknál.",
+                "ro": "Parcare mare la complexele hoteliere.",
+                "en": "Large parking lot at the hotel complexes."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Kopačina (Donji Humac)",
+                "tip": "Legendäres Restaurant für Lamm-Spezialitäten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kopačina (Donji Humac)",
+                "tip": "Legendás étterem bárányspecialitásokkal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Kopačina (Donji Humac)",
+                "tip": "Restaurant legendar pentru specialități din miel."
+              }
+            ],
+            "en": [
+              {
+                "name": "Kopačina (Donji Humac)",
+                "tip": "Legendary restaurant for lamb specialties."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Gipfel Vidova Gora",
+                "tip": "Frische Bergluft und Stille über der Adria.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vidova Gora csúcs",
+                "tip": "Friss hegyi levegő és csend az Adria felett.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vârful Vidova Gora",
+                "tip": "Aer curat de munte și liniște deasupra Adriaticii.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Vidova Gora Peak",
+                "tip": "Fresh mountain air and silence over the Adriatic.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Steinmetz-Werkstatt Jakšić",
+                "tip": "Hochwertiges Kunsthandwerk aus Bračer Stein."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Jakšić kőfaragó műhely",
+                "tip": "Kiváló minőségű kézműves tárgyak brači kőből."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Atelierul Jakšić",
+                "tip": "Artizanat de înaltă calitate din piatră de Brač."
+              }
+            ],
+            "en": [
+              {
+                "name": "Jakšić Stonemasonry",
+                "tip": "High-quality handicrafts made from Brač stone."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tanken Sie in Supetar, es gibt nur wenige Tankstellen auf der Insel.",
+              "Die Straße zur Vidova Gora ist gut ausgebaut, aber steil.",
+              "Parkplätze am Zlatni Rat (Bol) sind im Sommer sehr teuer, bleiben Sie lieber in Supetar."
+            ],
+            "hu": [
+              "Supetarban tankoljon, mert kevés benzinkút van a szigeten.",
+              "A Vidova Gorára vezető út jól kiépített, de meredek.",
+              "A Zlatni Rat (Bol) parkolói nyáron nagyon drágák, érdemes Supetarban maradni."
+            ],
+            "ro": [
+              "Alimentați în Supetar, există puține benzinării pe insulă.",
+              "Drumul spre Vidova Gora este bine întreținut, dar abrupt.",
+              "Parcările de la Zlatni Rat (Bol) sunt foarte scumpe vara, mai bine rămâneți în Supetar."
+            ],
+            "en": [
+              "Refuel in Supetar; there are few gas stations on the island.",
+              "The road to Vidova Gora is well-maintained but steep.",
+              "Parking at Zlatni Rat (Bol) is very expensive in summer; better stay in Supetar."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Brač bequem trotz Regen. Nach dem Zentrum von Supetar fahren Sie zur Vidova Gora, wo die Wolken oft tief hängen. Das Steindorf Donji Humac bietet Schutz und Handwerkskunst. Nach dem Mausoleum können Sie den Regen am Strand Tri mosta entspannt vom Fahrersitz aus beobachten, bevor Sie zurückfahren.",
+            "hu": "Autóval kényelmesen felfedezheti Brač szigetét az eső ellenére is. Supetar után hajtson fel a Vidova Gorára, ahol a felhők gyakran alacsonyan szállnak. Donji Humac kőfaragó faluja menedéket és kézműves látnivalókat kínál. A mauzóleum után a Tri mosta strandon az autóból figyelve pihenhet meg.",
+            "ro": "Cu mașina puteți explora Brač în confort, în ciuda ploii. După centrul Supetar-ului, urcați pe Vidova Gora, unde norii sunt adesea joși. Satul Donji Humac oferă adăpost și artizanat local. După mausoleu, puteți observa ploaia la plaja Tri mosta relaxat de pe scaunul șoferului.",
+            "en": "By car, you can comfortably explore Brač despite the rain. After Supetar center, drive to Vidova Gora, where clouds often hang low. The stone village of Donji Humac offers shelter and craftsmanship. After the mausoleum, you can relax at Tri mosta beach, watching the rain from your car seat."
+          },
+          "stops": [
+            {
+              "name": "Supetar Zentrum",
+              "tip_4lang": {
+                "de": "Parken Sie nah am Hafen, um kurze Wege zu den Läden zu haben.",
+                "hu": "Parkoljon közel a kikötőhöz a rövid gyalogutak érdekében.",
+                "ro": "Parcați aproape de port pentru acces rapid la magazine.",
+                "en": "Park close to the harbor for short walks to the shops."
+              }
+            },
+            {
+              "name": "Vidova Gora",
+              "tip_4lang": {
+                "de": "Vorsicht bei Nebel auf der kurvigen Bergstraße.",
+                "hu": "Vigyázzon a ködre a kanyargós hegyi úton.",
+                "ro": "Atenție la ceață pe drumul montan virajat.",
+                "en": "Be careful of fog on the winding mountain road."
+              }
+            },
+            {
+              "name": "Donji Humac",
+              "tip_4lang": {
+                "de": "Besuchen Sie die Steinmetz-Werkstätten, die oft überdacht sind.",
+                "hu": "Látogassa meg a kőfaragó műhelyeket, melyek többnyire fedettek.",
+                "ro": "Vizitați atelierele de cioplit în piatră, care sunt adesea acoperite.",
+                "en": "Visit the stonemason workshops, which are often covered."
+              }
+            },
+            {
+              "name": "Mausoleum Petrinović",
+              "tip_4lang": {
+                "de": "Es gibt Parkmöglichkeiten direkt am Eingang zum Friedhof.",
+                "hu": "Közvetlenül a temető bejáratánál található parkolóhely.",
+                "ro": "Există locuri de parcare chiar la intrarea în cimitir.",
+                "en": "Parking is available right at the entrance to the cemetery."
+              }
+            },
+            {
+              "name": "Strand Tri mosta",
+              "tip_4lang": {
+                "de": "Ideal, um die raue See trocken zu bewundern.",
+                "hu": "Ideális hely a viharos tenger szárazon történő megcsodálásához.",
+                "ro": "Ideal pentru a admira marea agitată fără a vă uda.",
+                "en": "Ideal for admiring the rough sea while staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bergstraße zur Vidova Gora kann bei Regen rutschig sein.",
+              "In Donji Humac gibt es exzellente Restaurants für eine lange Mittagspause.",
+              "Achten Sie auf Steinschlag nach starken Regengüssen auf den Landstraßen.",
+              "Parkplätze in Supetar sind im Regen oft schneller belegt.",
+              "Nutzen Sie die Scheibenheizung, da die Luftfeuchtigkeit hoch ist."
+            ],
+            "hu": [
+              "A Vidova Gorára vezető hegyi út esőben csúszós lehet.",
+              "Donji Humacban kiváló éttermek várják egy hosszú ebédszünetre.",
+              "Heves esőzések után figyeljen a kőomlásokra az országutakon.",
+              "Supetar parkolói esőben gyorsabban megtelhetnek.",
+              "Használja a szélvédőfűtést a magas páratartalom miatt."
+            ],
+            "ro": [
+              "Drumul spre Vidova Gora poate fi alunecos pe timp de ploaie.",
+              "În Donji Humac găsiți restaurante excelente pentru un prânz prelungit.",
+              "Atenție la căderile de pietre pe drumurile secundare după ploi.",
+              "Parcările din Supetar se ocupă mai repede când plouă.",
+              "Folosiți degivrarea parbrizului deoarece umiditatea este ridicată."
+            ],
+            "en": [
+              "The mountain road to Vidova Gora can be slippery when wet.",
+              "Donji Humac has excellent restaurants for a long lunch break.",
+              "Watch out for rockfalls on rural roads after heavy downpours.",
+              "Parking spots in Supetar center fill up faster during rain.",
+              "Use the windshield defroster as humidity will be high."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Brač mit dem Auto ganz ohne Zeitdruck. Von Supetar geht es zur Vidova Gora, wo im Winter sogar manchmal etwas Schnee liegen kann. Im Steindorf Donji Humac erleben Sie wahre Inseltradition. Nach dem Mausoleum bietet der Strand Tri mosta einen weiten Blick auf das schneebedeckte Biokovo-Gebirge am Festland.",
+            "hu": "Fedezze fel a téli Brač szigetét autóval, időbeli kényszer nélkül. Supetarból irány a Vidova Gora, ahol télen néha még hó is eshet. Donji Humac kőfaragó falujában valódi szigeti hagyományokat láthat. A mauzóleum után a Tri mosta strandról csodálatos kilátás nyílik a szárazföldi Biokovo-hegységre.",
+            "ro": "Explorați Brač-ul de iarnă cu mașina, fără presiunea timpului. Din Supetar mergeți spre Vidova Gora, unde iarna poate apărea uneori zăpada. În Donji Humac veți experimenta tradițiile autentice. După mausoleu, plaja Tri mosta oferă o vedere amplă spre munții Biokovo înzăpeziți.",
+            "en": "Explore winter Brač by car without any time pressure. From Supetar, head to Vidova Gora, where you might even see some snow in winter. In the village of Donji Humac, experience true island traditions. After the mausoleum, Tri mosta beach offers a vast view of the snow-capped Biokovo mountains."
+          },
+          "stops": [
+            {
+              "name": "Supetar Zentrum",
+              "tip_4lang": {
+                "de": "Genießen Sie die einfache Parkplatzsuche im ruhigen Winter.",
+                "hu": "Élvezze a könnyű parkolást a csendes téli szezonban.",
+                "ro": "Bucurați-vă de găsirea ușoară a unui loc de parcare iarna.",
+                "en": "Enjoy the easy parking search during the quiet winter."
+              }
+            },
+            {
+              "name": "Vidova Gora",
+              "tip_4lang": {
+                "de": "Es ist hier oben deutlich kälter als an der Küste.",
+                "hu": "Itt fent jóval hidegebb van, mint a tengerparton.",
+                "ro": "Aici sus este mult mai frig decât la nivelul mării.",
+                "en": "It is significantly colder up here than at the coast."
+              }
+            },
+            {
+              "name": "Donji Humac",
+              "tip_4lang": {
+                "de": "Ein toller Ort, um lokalen Olivenöl direkt beim Bauern zu kaufen.",
+                "hu": "Remek hely helyi olívaolaj vásárlására közvetlenül a gazdáktól.",
+                "ro": "Un loc excelent pentru a cumpăra ulei de măsline de la producători.",
+                "en": "A great place to buy local olive oil directly from farmers."
+              }
+            },
+            {
+              "name": "Mausoleum Petrinović",
+              "tip_4lang": {
+                "de": "Besuchen Sie diesen Ort kurz vor Sonnenuntergang für tolles Licht.",
+                "hu": "Látogasson el ide nem sokkal naplemente előtt a szép fényekért.",
+                "ro": "Vizitați acest loc cu puțin timp înainte de apus pentru lumină bună.",
+                "en": "Visit this spot shortly before sunset for amazing lighting."
+              }
+            },
+            {
+              "name": "Strand Tri mosta",
+              "tip_4lang": {
+                "de": "Die Fernsicht auf die Berge des Festlands ist im Winter am besten.",
+                "hu": "A szárazföldi hegyek látványa télen a legtisztább.",
+                "ro": "Vizibilitatea spre munții de pe continent este maximă iarna.",
+                "en": "Visibility of the mainland mountains is best during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie, ob Sie für die Fahrt zur Vidova Gora Winterausrüstung brauchen.",
+              "Die Straßen sind im Winter leer, aber achten Sie auf Tiere auf der Fahrbahn.",
+              "Viele Restaurants im Landesinneren haben nur am Wochenende offen.",
+              "Nutzen Sie die kurzen Tage für Fahrten bei Tageslicht.",
+              "Nehmen Sie eine Decke mit, falls Sie für Fotos länger draußen bleiben."
+            ],
+            "hu": [
+              "Ellenőrizze, szükség van-e téli felszerelésre a Vidova Gorához.",
+              "Az utak üresek, de figyeljen az úttestre tévedő állatokra.",
+              "Sok vidéki étterem csak hétvégén tart nyitva télen.",
+              "Használja ki a rövid nappalokat a világosban való vezetéshez.",
+              "Vigyen magával takarót, ha hosszabb ideig fotózna a szabadban."
+            ],
+            "ro": [
+              "Verificați dacă aveți nevoie de echipament de iarnă pentru Vidova Gora.",
+              "Drumurile sunt libere, dar atenție la animalele de pe carosabil.",
+              "Multe restaurante din interiorul insulei deschid doar în weekend.",
+              "Profitați de zilele scurte pentru a conduce pe lumină.",
+              "Luați o pătură în mașină dacă plănuiți să stați mult afară pentru poze."
+            ],
+            "en": [
+              "Check if winter equipment is needed for driving to Vidova Gora.",
+              "Roads are empty, but watch out for animals crossing the way.",
+              "Many inland restaurants are only open on weekends in winter.",
+              "Make the most of the short days by driving during daylight hours.",
+              "Keep a blanket in the car if you plan to stay out late for photos."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -920,6 +1996,337 @@
           "The bus station is located right at the harbor for trips to Bol.",
           "The ferry to Split takes about 50 minutes."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Supetar ist ideal ohne Auto zu erkunden. Nach der Ankunft mit der Fähre schlendern Sie entlang der Riva und besuchen das Pfarreimuseum.\n\nEin kleiner Spaziergang (oder die Fahrt mit dem Bimmelzug) bringt Sie zum herrlichen Strand Tri mosta.\n\nVor der Rückfahrt nach Split haben Sie Zeit für ein Eis an der Riva, während Sie das bunte Treiben im Hafen beobachten.",
+            "hu": "Supetar kiválóan felfedezhető autó nélkül is. A komppal való érkezés után sétáljon végig a Riván, és látogasson el a Plébániamúzeumba.\n\nEgy rövid séta (vagy a városi kisvonat) elviszi a csodás Tri mosta strandra.\n\nA Splitbe való visszaindulás előtt marad idő egy fagyira a Riván, miközben a kikötő nyüzsgését figyeli.",
+            "ro": "Supetar este ideal de explorat fără mașină. După sosirea cu feribotul, plimbați-vă pe Riva și vizitați Muzeul Parohial.\n\nO scurtă plimbare (sau trenulețul turistic) vă va duce la minunata plajă Tri mosta.\n\nÎnainte de întoarcerea spre Split, aveți timp pentru o înghețată pe Riva, urmărind agitația din port.",
+            "en": "Supetar is ideal to explore without a car. After arriving by ferry, stroll along the Riva and visit the Parish Museum.\n\nA short walk (or a ride on the tourist train) takes you to the wonderful Tri mosta beach.\n\nBefore heading back to Split, there's time for an ice cream on the Riva while watching the harbor's hustle and bustle."
+          },
+          "stops": [
+            {
+              "name": "Fährhafen Supetar",
+              "tip_5lang": {
+                "de": "Ankunftsort der Fähren aus Split.",
+                "hu": "A Splitből érkező kompok kikötőhelye.",
+                "ro": "Locul de sosire a feriboturilor din Split.",
+                "en": "Arrival point for ferries from Split."
+              }
+            },
+            {
+              "name": "Riva-Promenade",
+              "tip_5lang": {
+                "de": "Zentraler Treffpunkt nur 200m vom Hafen.",
+                "hu": "Központi találkozóhely, csak 200m-re a kikötőtől.",
+                "ro": "Punct central de întâlnire la doar 200m de port.",
+                "en": "Central meeting point just 200m from the harbor."
+              }
+            },
+            {
+              "name": "Pfarreimuseum",
+              "tip_5lang": {
+                "de": "Interessante sakrale Sammlung in der Nähe der Kirche.",
+                "hu": "Érdekes szakrális gyűjtemény a templom közelében.",
+                "ro": "Interesantă colecție sacră lângă biserică.",
+                "en": "Interesting sacral collection near the church."
+              }
+            },
+            {
+              "name": "Strand Tri mosta",
+              "tip_5lang": {
+                "de": "Zu Fuß oder mit dem Touristenzug erreichbar.",
+                "hu": "Gyalog vagy a kisvonattal is elérhető.",
+                "ro": "Accesibil pe jos sau cu trenulețul turistic.",
+                "en": "Accessible on foot or by tourist train."
+              }
+            },
+            {
+              "name": "Riva (Abend)",
+              "tip_5lang": {
+                "de": "Genießen Sie ein Eis vor der Rückfahrt mit der Fähre.",
+                "hu": "Fagyizzon egyet a komp visszaindulása előtt.",
+                "ro": "Savurați o înghețată înainte de întoarcerea cu feribotul.",
+                "en": "Enjoy an ice cream before the ferry ride back."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bäckerei Supetar",
+                "tip": "Holen Sie sich eine frische Burek für den Strand."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Supetar pékség",
+                "tip": "Vegyél egy friss bureket a strandra."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brutăria Supetar",
+                "tip": "Luați un burek proaspăt pentru plajă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Supetar Bakery",
+                "tip": "Get a fresh burek for the beach."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hinterhof-Cafés",
+                "tip": "Kleine Cafés in den schmalen Gassen abseits der Riva.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Belső udvari kávézók",
+                "tip": "Kis kávézók a szűk utcákban, távol a Rivától.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cafenele ascunse",
+                "tip": "Cafenele mici pe străduțele înguste, departe de Riva.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Courtyard Cafes",
+                "tip": "Small cafes in narrow alleys away from the Riva.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Jadrolinija Schalter",
+                "tip": "Kaufen Sie Ihr Rückfahrticket direkt bei der Ankunft."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Jadrolinija pénztár",
+                "tip": "Vegye meg a visszajegyet rögtön érkezéskor."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ghișeu Jadrolinija",
+                "tip": "Cumpărați biletul de întoarcere imediat la sosire."
+              }
+            ],
+            "en": [
+              {
+                "name": "Jadrolinija Counter",
+                "tip": "Buy your return ticket immediately upon arrival."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Touristenzug fährt regelmäßig vom Zentrum zu den Stränden.",
+              "Die Busstation befindet sich direkt am Hafen für Ausflüge nach Bol.",
+              "Die Fähre nach Split dauert etwa 50 Minuten."
+            ],
+            "hu": [
+              "A városi kisvonat rendszeresen jár a központ és a strandok között.",
+              "A buszpályaudvar közvetlenül a kikötőben van, ha Bolba kirándulna.",
+              "A komp Splitbe körülbelül 50 percig tart."
+            ],
+            "ro": [
+              "Trenulețul turistic circulă regulat de la centru spre plaje.",
+              "Stația de autobuz este chiar în port pentru excursii spre Bol.",
+              "Feribotul spre Split durează aproximativ 50 de minute."
+            ],
+            "en": [
+              "The tourist train runs regularly from the center to the beaches.",
+              "The bus station is located right at the harbor for trips to Bol.",
+              "The ferry to Split takes about 50 minutes."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den öffentlichen Nahverkehr, um Supetar im Regen zu erleben. Vom Fährhafen ist es nur ein kurzer Sprung zur Riva. Das Pfarreimuseum bietet eine trockene Zuflucht voller Geschichte. Mittags und nachmittags pendeln Sie zwischen den kulturellen Highlights, bevor Sie den Tag gemütlich in Hafennähe ausklingen lassen.",
+            "hu": "Használja a tömegközlekedést Supetar felfedezéséhez esőben is. A kompkikötőtől csak egy ugrás a Riva-sétány. A plébániamúzeum száraz menedéket nyújt a történelem kedvelőinek. Délben és délután ingázzon a kulturális látnivalók között, majd zárja a napot a kikötő közelében.",
+            "ro": "Folosiți transportul public pentru a vedea Supetar sub ploaie. De la terminalul de feribot este doar un pas până pe Riva. Muzeul parohial oferă un refugiu uscat plin de istorie. La prânz și după-amiază pendulați între punctele culturale, înainte de a încheia ziua lângă port.",
+            "en": "Use public transport to experience Supetar even in the rain. From the ferry port, it is just a short hop to the Riva. The parish museum offers a dry sanctuary filled with history. During the day, commute between cultural highlights before ending your visit near the harbor."
+          },
+          "stops": [
+            {
+              "name": "Fährhafen Supetar",
+              "tip_4lang": {
+                "de": "Warten Sie im überdachten Wartebereich der Fähre.",
+                "hu": "Várjon a kompállomás fedett várótermében.",
+                "ro": "Așteptați în zona de așteptare acoperită a feribotului.",
+                "en": "Wait in the covered waiting area of the ferry terminal."
+              }
+            },
+            {
+              "name": "Riva-Promenade",
+              "tip_4lang": {
+                "de": "Die Bushaltestelle befindet sich ganz in der Nähe des Hafens.",
+                "hu": "A buszmegálló közvetlenül a kikötő mellett található.",
+                "ro": "Stația de autobuz este situată foarte aproape de port.",
+                "en": "The bus stop is located very close to the harbor."
+              }
+            },
+            {
+              "name": "Pfarreimuseum",
+              "tip_4lang": {
+                "de": "Perfekt für eine Stunde im Trockenen.",
+                "hu": "Tökéletes választás egy száraz órányi programhoz.",
+                "ro": "Perfect pentru a petrece o oră la adăpost de ploaie.",
+                "en": "Perfect for spending an hour in the dry."
+              }
+            },
+            {
+              "name": "Strand Tri mosta",
+              "tip_4lang": {
+                "de": "Die Buslinie verbindet das Zentrum mit den Hotelanlagen.",
+                "hu": "A buszjárat összeköti a központot a szállodai negyeddel.",
+                "ro": "Linia de autobuz leagă centrul de zona hotelieră.",
+                "en": "The bus line connects the center with the hotel areas."
+              }
+            },
+            {
+              "name": "Riva (Abend)",
+              "tip_4lang": {
+                "de": "Kurze Wege zurück zur Fähre oder zum Busbahnhof.",
+                "hu": "Rövid út vissza a komphoz vagy a buszpályaudvarhoz.",
+                "ro": "Drum scurt înapoi spre feribot sau autogară.",
+                "en": "Short walk back to the ferry or the bus station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können sich bei schlechtem Wetter kurzfristig ändern.",
+              "Kaufen Sie Fahrkarten beim Fahrer oder am Kiosk im Voraus.",
+              "Die Wartehäuschen bieten Schutz, sind aber oft zugig.",
+              "Kombinieren Sie Busfahrten mit Besuchen in küstennahen Museen.",
+              "Die Fähren verkehren meist auch bei Regen zuverlässig."
+            ],
+            "hu": [
+              "A menetrendek rossz idő esetén rövid időn belül változhatnak.",
+              "Vásárolja meg a jegyeket a sofőrnél vagy előre az újságosnál.",
+              "A buszmegállók védenek az esőtől, de gyakran huzatosak.",
+              "Kombinálja a buszozást a parthoz közeli múzeumlátogatásokkal.",
+              "A kompok általában esőben is megbízhatóan közlekednek."
+            ],
+            "ro": [
+              "Orarele se pot schimba rapid în caz de vreme nefavorabilă.",
+              "Cumpărați biletele de la șofer sau de la chioșcurile de ziare.",
+              "Stațiile de autobuz oferă protecție, dar sunt adesea ventilate.",
+              "Combinați călătoriile cu autobuzul cu vizitarea muzeelor apropiate.",
+              "Feriboturile circulă de obicei regulat chiar și pe ploaie."
+            ],
+            "en": [
+              "Schedules may change on short notice during bad weather.",
+              "Buy tickets from the driver or in advance at the kiosk.",
+              "Bus shelters provide cover but can be quite drafty.",
+              "Combine bus rides with visits to museums near the stops.",
+              "Ferries usually run reliably even during rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Supetar im Winter mit dem entspannten Rhythmus der Inselbusse. Vom Hafen aus erkunden Sie die Riva und die kulturellen Schätze im Zentrum. Das Pfarreimuseum ist im Winter ein ruhiger Ort der Besinnung. Genießen Sie die winterliche Atmosphäre am Strand, bevor Sie mit dem Bus zurück zum belebten Hafenviertel fahren.",
+            "hu": "Ismerje meg a téli Supetart a szigeti buszok nyugodt ritmusában. A kikötőből fedezze fel a Rivát és a központ kulturális kincseit. A plébániamúzeum télen a csendes elmélyülés helyszíne. Élvezze a téli tengerparti hangulatot, mielőtt busszal visszatérne a kikötő környékére.",
+            "ro": "Experimentați Supetar-ul de iarnă în ritmul relaxat al autobuzelor locale. Din port, explorați Riva și comorile culturale din centru. Muzeul parohial este iarna un loc liniștit de reflecție. Bucurați-vă de atmosfera de iarnă la plajă înainte de a reveni cu autobuzul în port.",
+            "en": "Experience winter Supetar with the relaxed rhythm of island buses. From the harbor, explore the Riva and cultural treasures in the center. The parish museum is a quiet place for reflection in winter. Enjoy the winter atmosphere at the beach before heading back to the harbor by bus."
+          },
+          "stops": [
+            {
+              "name": "Fährhafen Supetar",
+              "tip_4lang": {
+                "de": "Im Winter gibt es weniger Abfahrten, planen Sie genau.",
+                "hu": "Télen kevesebb járat indul, tervezzen pontosan.",
+                "ro": "Iarna sunt mai puține plecări, planificați-vă timpul cu grijă.",
+                "en": "There are fewer departures in winter, so plan accordingly."
+              }
+            },
+            {
+              "name": "Riva-Promenade",
+              "tip_4lang": {
+                "de": "Die Cafés am Hafen sind beliebte Treffpunkte der Einheimischen.",
+                "hu": "A kikötői kávézók a helyiek kedvelt találkozóhelyei.",
+                "ro": "Cafenelele din port sunt locuri de întâlnire populare pentru localnici.",
+                "en": "The harbor cafes are popular meeting spots for locals."
+              }
+            },
+            {
+              "name": "Pfarreimuseum",
+              "tip_4lang": {
+                "de": "Oft nur nach vorheriger Anmeldung oder zu festen Zeiten offen.",
+                "hu": "Télen gyakran csak előzetes bejelentkezéssel látogatható.",
+                "ro": "Adesea deschis doar cu programare prealabilă iarna.",
+                "en": "Often open only by appointment or at fixed winter hours."
+              }
+            },
+            {
+              "name": "Strand Tri mosta",
+              "tip_4lang": {
+                "de": "Der Bus fährt im Winter seltener zu den Stränden.",
+                "hu": "A busz télen ritkábban közlekedik a strandok felé.",
+                "ro": "Autobuzul circulă mai rar spre plaje în timpul iernii.",
+                "en": "Buses run less frequently to the beaches in winter."
+              }
+            },
+            {
+              "name": "Riva (Abend)",
+              "tip_4lang": {
+                "de": "Die letzte Fähre nach Split ist ein wichtiger Fixpunkt.",
+                "hu": "Az utolsó Splitbe tartó komp fontos időpont.",
+                "ro": "Ultimul feribot spre Split este un punct de reper important.",
+                "en": "The last ferry to Split is an important reference point."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse fahren nach dem Winterfahrplan mit weniger Verbindungen.",
+              "Warten Sie in beheizten Cafés, falls der Bus Verspätung hat.",
+              "Die Tickets sind im Winter oft etwas günstiger.",
+              "Nutzen Sie die App des Verkehrsbetriebs für Echtzeit-Infos.",
+              "Stellen Sie sicher, dass Sie den letzten Bus vor der Dunkelheit nehmen."
+            ],
+            "hu": [
+              "A buszok a téli menetrend szerint, ritkábban közlekednek.",
+              "Várjon a fűtött kávézókban, ha késik a busz.",
+              "A jegyek télen gyakran valamivel olcsóbbak.",
+              "Használja a közlekedési társaság alkalmazását az infókért.",
+              "Ügyeljen rá, hogy az utolsó buszt még sötétedés előtt elérje."
+            ],
+            "ro": [
+              "Autobuzele circulă conform orarului de iarnă, cu mai puține curse.",
+              "Așteptați în cafenelele încălzite dacă autobuzul întârzie.",
+              "Biletele pot fi uneori mai ieftine în extrasezon.",
+              "Folosiți aplicația companiei de transport pentru informații în timp real.",
+              "Asigurați-vă că prindeți ultimul autobuz înainte de lăsarea serii."
+            ],
+            "en": [
+              "Buses operate on a winter schedule with fewer connections.",
+              "Wait in heated cafes if the bus is running late.",
+              "Tickets are sometimes slightly cheaper during the winter months.",
+              "Use the transport company's app for real-time information.",
+              "Make sure to catch the last bus before it gets dark."
+            ]
+          }
+        }
       }
     }
   },

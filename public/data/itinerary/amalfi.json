@@ -303,6 +303,442 @@
           "Check cathedral opening hours as they vary for tourist visits.",
           "Buy lemon products from small shops deeper in the side alleys."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag auf der lebhaften Piazza del Duomo, dem pulsierenden Herz von Amalfi. Bewundern Sie die prächtige Fassade der Kathedrale und den friedlichen Kreuzgang des Paradieses. Mittags schlendern Sie das Tal hinauf zum Papiermuseum, um die alte Tradition der Papierherstellung kennenzulernen. Am Nachmittag erkunden Sie das mittelalterliche Arsenal, bevor Sie den Tag entspannt am Hauptstrand Spiaggia Grande mit Blick auf die bunten Häuser ausklingen lassen.",
+            "hu": "Kezdje a napot a nyüzsgő Piazza del Duomo-n, Amalfi szívében. Csodálja meg a katedrális lenyűgöző homlokzatát és a Paradicsom-kolostor békéjét. Délben sétáljon fel a völgybe a Papírmúzeumhoz, ahol megismerheti az ősi papírkészítés titkait. Délután látogasson el a középkori Arzenálba, majd fejezze be a napot a Spiaggia Grande strandján, gyönyörködve a sziklákra épült város látványában.",
+            "ro": "Începeți ziua în vibranta Piazza del Duomo, inima orașului Amalfi. Admirați fațada splendidă a catedralei și liniștea din Chiostro del Paradiso. La prânz, urcați pe vale spre Muzeul Hârtiei pentru a vedea tradiția locală a fabricării hârtiei. După-amiaza, explorați Arsenalul Republicii, iar spre seară relaxați-vă pe Spiaggia Grande, privind casele colorate cocoțate pe stânci.",
+            "en": "Start your day in the lively Piazza del Duomo, the beating heart of Amalfi. Admire the cathedral's magnificent facade and the peaceful Cloister of Paradise. At midday, wander up the valley to the Paper Museum to learn about the ancient local tradition of papermaking. In the afternoon, explore the medieval Arsenal before ending your trip with a relaxing stay at Spiaggia Grande, enjoying the iconic coastal view."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza del Duomo",
+                "hu": "Piazza del Duomo",
+                "ro": "Piazza del Duomo",
+                "en": "Piazza del Duomo"
+              },
+              "tip_5lang": {
+                "de": "Trinken Sie einen Espresso am Fuße der Treppe.",
+                "hu": "Igyon egy eszpresszót a lépcső lábánál.",
+                "ro": "Beți un espresso la baza scărilor.",
+                "en": "Sip an espresso at the foot of the stairs."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale von Amalfi",
+                "hu": "Amalfi katedrális",
+                "ro": "Catedrala din Amalfi",
+                "en": "Amalfi Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Bronzetüren aus Konstantinopel.",
+                "hu": "Csodálja meg a Konstantinápolyból származó bronzkapukat.",
+                "ro": "Admirați ușile de bronz aduse din Constantinopol.",
+                "en": "Admire the bronze doors brought from Constantinople."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiostro del Paradiso",
+                "hu": "Paradicsom-kolostor",
+                "ro": "Chiostro del Paradiso",
+                "en": "Chiostro del Paradiso"
+              },
+              "tip_5lang": {
+                "de": "Die maurischen Bögen sind perfekt für Fotos.",
+                "hu": "A mór stílusú ívek tökéletesek a fotózáshoz.",
+                "ro": "Arcurile maure sunt perfecte pentru fotografii.",
+                "en": "The Moorish arches are perfect for photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo della Carta",
+                "hu": "Papírmúzeum",
+                "ro": "Muzeul Hârtiei",
+                "en": "Paper Museum"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie aus, wie man Papier von Hand schöpft.",
+                "hu": "Próbálja ki a merített papír készítését saját kezűleg.",
+                "ro": "Încercați să faceți hârtie manual.",
+                "en": "Try making handmade paper yourself during the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Arsenale della Repubblica",
+                "hu": "Köztársasági Arzenál",
+                "ro": "Arsenalul Republicii",
+                "en": "Arsenale della Repubblica"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Geschichte der Seerepublik.",
+                "hu": "Ismerje meg a tengeri köztársaság dicső múltját.",
+                "ro": "Descoperiți istoria republicii maritime.",
+                "en": "Discover the maritime history of the republic."
+              }
+            },
+            {
+              "name": {
+                "de": "Fontana di Sant'Andrea",
+                "hu": "Szent András-kút",
+                "ro": "Fântâna Sfântului Andrei",
+                "en": "Saint Andrew's Fountain"
+              },
+              "tip_5lang": {
+                "de": "Ein klassischer Treffpunkt für Einheimische.",
+                "hu": "A helyiek kedvelt találkozóhelye a főtéren.",
+                "ro": "Un loc de întâlnire clasic pentru localnici.",
+                "en": "A classic meeting point for locals in the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Grande di Amalfi",
+                "hu": "Amalfi nagy strandja",
+                "ro": "Spiaggia Grande di Amalfi",
+                "en": "Spiaggia Grande di Amalfi"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Stadt vom Meer aus.",
+                "hu": "Élvezze a városra nyíló kilátást a tengerpartról.",
+                "ro": "Bucurați-vă de vederea spre oraș de pe malul mării.",
+                "en": "Enjoy the view of the town climbing the cliffs."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Delizia al Limone",
+                "tip": "Probieren Sie dieses Zitronengebäck bei Pasticceria Pansa."
+              },
+              {
+                "name": "Cuoppo d'Amalfi",
+                "tip": "Frittierter Fisch in einer Papiertüte zum Mitnehmen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Delizia al Limone",
+                "tip": "Kóstolja meg ezt a citromos sütit a Pasticceria Pansa cukrászdában."
+              },
+              {
+                "name": "Scialatielli ai frutti di mare",
+                "tip": "Helyi tészta friss tenger gyümölcseivel a kikötőnél."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Delizia al Limone",
+                "tip": "Încercați acest desert cu lămâie la Pasticceria Pansa."
+              },
+              {
+                "name": "Limoncello di Amalfi",
+                "tip": "Digestivul local făcut din lămâi uriașe Sfusato."
+              }
+            ],
+            "en": [
+              {
+                "name": "Delizia al Limone",
+                "tip": "Try this iconic lemon pastry at the historic Pasticceria Pansa."
+              },
+              {
+                "name": "Cuoppo di Pesce",
+                "tip": "A cone filled with fried seafood, perfect for a pier-side snack."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Valle delle Ferriere",
+                "tip": "Ein kühler Rückzugsort am Fluss mit Wasserfällen.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Valle delle Ferriere",
+                "tip": "Hűvös menedék a patak mentén, vízesésekkel.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Torre dello Ziro",
+                "tip": "Panorama spectaculoasă asupra coastei într-o zonă liniștită.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Valle delle Ferriere",
+                "tip": "A shaded nature trail along the stream with waterfalls.",
+                "emoji": "🌿"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Handgeschöpftes Papier",
+                "tip": "Kaufen Sie 'Carta d'Amalfi' im Museumsladen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kézműves papír",
+                "tip": "Vásároljon eredeti 'Carta d'Amalfi'-t a múzeum boltjában."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Produse din lămâie",
+                "tip": "Săpunuri, uleiuri și lichioruri în micile magazine de pe Via Genova."
+              }
+            ],
+            "en": [
+              {
+                "name": "Carta d'Amalfi",
+                "tip": "Purchase high-quality handmade paper at the Museum shop."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe, da es viele Treppen gibt.",
+              "Die Kathedrale ist mittags oft für Besichtigungen geschlossen.",
+              "Kaufen Sie Limoncello nur, wenn er aus lokalen Sfusato-Zitronen ist."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt, mert sok a lépcső és az emelkedő.",
+              "A katedrális dél körül néha zárva tart a turisták előtt.",
+              "Keressen olyan Limoncellót, ami helyi Sfusato citromból készült."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă, orașul are multe scări.",
+              "Catedrala poate fi închisă vizitatorilor în timpul slujbelor.",
+              "Rezervați masa la restaurant din timp, mai ales în sezon."
+            ],
+            "en": [
+              "Wear comfortable shoes as the town is full of steps and slopes.",
+              "Check cathedral opening hours as they vary for tourist visits.",
+              "Buy lemon products from small shops deeper in the side alleys."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen bietet der Piazza del Duomo unter den Arkaden Schutz, während der Regen die Mosaike der Kathedrale glänzen lässt. Mittags flüchten Sie in das Papiermuseum im kühlen Valle dei Mulini, wo das Rauschen des Flusses durch den Regen verstärkt wird. Am Nachmittag erkunden Sie das überdachte Arsenale, ein Zeugnis mittelalterlicher Schiffbaukunst. Der Abend am Strand ist kurz, aber die dramatische Aussicht auf die stürmische See vom Schutz der Ufermauer aus ist unvergesslich.",
+            "hu": "Reggel a Piazza del Duomo árkádjai alatt húzódhatunk meg, miközben az eső még ragyogóbbá teszi a katedrális mozaikjait. Délben a Malmok völgyében fekvő Papírmúzeumba látogatunk, ahol az eső felduzzasztja a patakot. Délután a fedett Arsenale boltívei nyújtanak menedéket, bemutatva a város tengeri múltját. Az este a tengerparton rövid lesz, de a hullámzó tenger látványa a part menti falak védelméből lenyűgöző.",
+            "ro": "Dimineața, Piazza del Duomo oferă adăpost sub arcade, în timp ce ploaia face mozaicurile catedralei să strălucească. La prânz, vizitați Muzeul Hârtiei în Valle dei Mulini, unde sunetul râului este amplificat de ploaie. După-amiaza, explorați Arsenale, structura acoperită ce amintește de gloria navală medievală. Seara la plajă este scurtă, dar priveliștea mării învolburate de sub protecția falezei este spectaculoasă.",
+            "en": "In the morning, the porticos of Piazza del Duomo offer shelter as the rain makes the Cathedral's mosaics glisten. At noon, retreat to the Paper Museum in the Valley of the Mills, where the river's roar is amplified by the rainfall. In the afternoon, explore the covered Arsenale, a testament to medieval shipbuilding. The evening at the beach is brief, but the dramatic view of the stormy sea from the safety of the seawall is unforgettable."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Duomo",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Cafés für einen trockenen Espresso.",
+                "hu": "Használja a kávézók árkádjait egy száraz eszpresszóhoz.",
+                "ro": "Folosiți arcadele cafenelelor pentru un espresso la adăpost.",
+                "en": "Use the cafe porticos for a dry espresso break."
+              }
+            },
+            {
+              "name": "Amalfi Cathedral",
+              "tip_5lang": {
+                "de": "Verlängern Sie den Aufenthalt in der Krypta, dem wärmsten Ort.",
+                "hu": "Töltsön több időt a kriptában, ez a legmelegebb pont.",
+                "ro": "Prelungiți vizita în criptă, cel mai călduros loc.",
+                "en": "Spend extra time in the crypt, the warmest spot."
+              }
+            },
+            {
+              "name": "Chiostro del Paradiso",
+              "tip_5lang": {
+                "de": "Die weißen Säulengänge wirken bei Regen besonders mystisch.",
+                "hu": "A fehér oszlopcsarnokok esőben különösen misztikusak.",
+                "ro": "Coloanele albe par deosebit de mistice în ploaie.",
+                "en": "The white colonnades look particularly mystical in the rain."
+              }
+            },
+            {
+              "name": "Paper Museum",
+              "tip_5lang": {
+                "de": "Ideales Indoor-Ziel, 10 Minuten Fußweg durch Gassen.",
+                "hu": "Ideális fedett program, 10 perc séta a sikátorokon át.",
+                "ro": "Destinație ideală de interior, la 10 minute de mers.",
+                "en": "Ideal indoor destination, 10-minute walk through alleys."
+              }
+            },
+            {
+              "name": "Arsenale della Repubblica",
+              "tip_5lang": {
+                "de": "Massive Steingewölbe bieten perfekten Schutz vor Regen.",
+                "hu": "A masszív kőboltozatok tökéletes védelmet nyújtanak az eső ellen.",
+                "ro": "Bolțile masive de piatră oferă protecție perfectă contra ploii.",
+                "en": "Massive stone vaults provide perfect shelter from the rain."
+              }
+            },
+            {
+              "name": "Saint Andrew's Fountain",
+              "tip_5lang": {
+                "de": "Schnelles Foto im Vorbeigehen, der Platz wird oft rutschig.",
+                "hu": "Gyors fotó menet közben, a tér gyakran csúszóssá válik.",
+                "ro": "O fotografie rapidă, piața devine adesea alunecoasă.",
+                "en": "Quick photo on the go; the square often becomes slippery."
+              }
+            },
+            {
+              "name": "Spiaggia Grande di Amalfi",
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wellen von der Mole aus.",
+                "hu": "Figyelje a hullámokat a móló védelméből.",
+                "ro": "Observați valurile de pe digul de protecție.",
+                "en": "Watch the crashing waves from the safety of the pier."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die engen Gassen (Supportico) bieten oft natürlichen Schutz vor Regen.",
+              "Vermeiden Sie die Marmorstufen der Kathedrale, sie werden extrem glatt.",
+              "Tragen Sie wasserfeste Schuhe, da sich in der Piazza Pfützen bilden.",
+              "Die Museen sind bei Regen oft voll, reservieren Sie im Voraus.",
+              "Ein Regenschirm ist bei den Windböen am Meer oft nutzlos, wählen Sie ein Regenponcho."
+            ],
+            "hu": [
+              "A szűk sikátorok (Supportico) gyakran természetes védelmet nyújtanak.",
+              "Kerülje a katedrális márványlépcsőit, mert rendkívül csúszósak.",
+              "Viseljen vízálló cipőt, mert a főtéren gyorsan összegyűlik a víz.",
+              "Esőben a múzeumok hamar megtelnek, érdemes előre foglalni.",
+              "A tengerparti szélben az esernyő gyakran használhatatlan, a poncsó jobb."
+            ],
+            "ro": [
+              "Străduțele înguste (Supportico) oferă adăpost natural contra ploii.",
+              "Evitați treptele de marmură ale catedralei, devin extrem de alunecoase.",
+              "Purtați încălțăminte impermeabilă, apa se adună rapid în piață.",
+              "Muzeele se umplu repede când plouă, rezervați din timp.",
+              "Umbrela este adesea inutilă din cauza vântului, alegeți o pelerină."
+            ],
+            "en": [
+              "The narrow alleys (Supportico) often provide natural rain cover.",
+              "Avoid the Cathedral's marble steps as they become extremely slippery.",
+              "Wear waterproof shoes; the main square collects water quickly.",
+              "Museums fill up fast during rain; booking ahead is advised.",
+              "Umbrellas are often useless in sea gusts; a rain poncho is better."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am klaren Wintermorgen ist der Duomo-Platz herrlich ruhig. Die tiefstehende Sonne beleuchtet die Fassade der Kathedrale in goldenem Licht. Mittags bietet der Aufstieg zum Papiermuseum willkommene Bewegung, um warm zu bleiben. Nachmittags sind die Gassen leerer, was den Besuch des Arsenale intimer macht. Da die Sonne bereits gegen 16:45 Uhr hinter den Bergen verschwindet, endet der Tag mit einem Blick auf die beleuchtete Küste vom Strand aus.",
+            "hu": "A tiszta téli reggelen a dóm tér csodálatosan csendes. Az alacsonyan járó nap arany fénybe vonja a katedrális homlokzatát. Délben a Papírmúzeumhoz vezető séta segít melegen tartani testünket. Délután a sikátorok üresebbek, így az Arsenale látogatása sokkal intimebb élmény. Mivel a nap már 16:45 körül eltűnik a hegyek mögött, a napot a kivilágított part látványával zárjuk.",
+            "ro": "În dimineața senină de iarnă, piața Domului este minunat de liniștită. Soarele jos scaldă fațada catedralei în lumină aurie. La prânz, urcarea spre Muzeul Hârtiei oferă mișcarea necesară pentru a menține căldura. După-amiaza, străzile sunt mai goale, făcând vizita la Arsenale mai intimă. Deoarece soarele apune după munți în jurul orei 16:45, ziua se încheie cu vederea coastei iluminate.",
+            "en": "On a clear winter morning, the Duomo square is wonderfully quiet. The low sun bathes the Cathedral's facade in golden light. At noon, the walk up to the Paper Museum provides welcome movement to keep warm. In the afternoon, the alleys are emptier, making the Arsenale visit more intimate. Since the sun disappears behind the mountains by 4:45 PM, the day ends with a view of the illuminated coast from the beach."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Duomo",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne die sommerlichen Kreuzfahrtmassen.",
+                "hu": "Élvezze a nyugalmat a nyári tengerjáró hajós tömegek nélkül.",
+                "ro": "Bucurați-vă de liniște fără masele de turiști de pe croaziere.",
+                "en": "Enjoy the silence without the summer cruise ship crowds."
+              }
+            },
+            {
+              "name": "Amalfi Cathedral",
+              "tip_5lang": {
+                "de": "Suchen Sie die Weihnachtskrippen, die oft bis Januar stehen.",
+                "hu": "Keresse a betlehemeket, melyek gyakran januárig láthatók.",
+                "ro": "Căutați scenele de Naștere, expuse adesea până în ianuarie.",
+                "en": "Look for the nativity scenes, often displayed until January."
+              }
+            },
+            {
+              "name": "Chiostro del Paradiso",
+              "tip_5lang": {
+                "de": "Die kühle Brise im Kreuzgang erfordert eine warme Jacke.",
+                "hu": "A kolostorkert hűvös szellője miatt meleg kabát szükséges.",
+                "ro": "Briza rece din claustru necesită o jachetă groasă.",
+                "en": "The cool breeze in the cloister requires a warm jacket."
+              }
+            },
+            {
+              "name": "Paper Museum",
+              "tip_5lang": {
+                "de": "Ein guter Ort zum Aufwärmen nach dem Spaziergang.",
+                "hu": "Remek hely a bemelegedésre a séta után.",
+                "ro": "Un loc bun pentru a vă încălzi după plimbare.",
+                "en": "A good place to warm up after the uphill walk."
+              }
+            },
+            {
+              "name": "Arsenale della Repubblica",
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte; halten Sie sich in Bewegung.",
+                "hu": "A vastag falak tartják a hideget, maradjon mozgásban.",
+                "ro": "Zidurile groase rețin frigul; rămâneți în mișcare.",
+                "en": "The thick walls retain the cold; keep moving inside."
+              }
+            },
+            {
+              "name": "Saint Andrew's Fountain",
+              "tip_5lang": {
+                "de": "Das Wasser ist im Winter eiskalt, nur kurz für Fotos anhalten.",
+                "hu": "A víz télen jéghideg, csak egy rövid fotóra álljon meg.",
+                "ro": "Apa este înghețată iarna, opriți-vă doar pentru fotografii.",
+                "en": "The water is ice cold in winter; stop only briefly for photos."
+              }
+            },
+            {
+              "name": "Spiaggia Grande di Amalfi",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist früh (ca. 16:45), ideal für Fotos.",
+                "hu": "A naplemente korai (kb. 16:45), ideális fotózáshoz.",
+                "ro": "Apusul este devreme (cca. 16:45), ideal pentru poze.",
+                "en": "Sunset is early (around 4:45 PM), ideal for photography."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Viele Restaurants machen Winterpause; prüfen Sie die Öffnungszeiten.",
+              "Die Sonne verschwindet früh hinter den hohen Bergen von Amalfi.",
+              "Die Temperaturen fallen nach Sonnenuntergang drastisch.",
+              "Der Fährverkehr ist im Winter stark eingeschränkt.",
+              "Genießen Sie die authentische Atmosphäre ohne Tagestouristen."
+            ],
+            "hu": [
+              "Sok étterem téli szünetet tart, ellenőrizze a nyitvatartást.",
+              "A nap korán eltűnik Amalfi magas hegyei mögött.",
+              "A hőmérséklet naplemente után drasztikusan visszaesik.",
+              "A kompjáratok télen erősen korlátozottak.",
+              "Élvezze az autentikus hangulatot a napi turisták nélkül."
+            ],
+            "ro": [
+              "Multe restaurante au pauză de iarnă; verificați orarul.",
+              "Soarele dispare devreme în spatele munților înalți.",
+              "Temperaturile scad drastic după apusul soarelui.",
+              "Transportul cu feribotul este limitat în timpul iernii.",
+              "Bucurați-vă de atmosfera autentică fără turiștii de o zi."
+            ],
+            "en": [
+              "Many restaurants take a winter break; check opening hours.",
+              "The sun disappears early behind Amalfi's high mountains.",
+              "Temperatures drop drastically after sunset.",
+              "Ferry services are significantly restricted in winter.",
+              "Enjoy the authentic atmosphere without the day-trippers."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -538,6 +974,362 @@
           "Wear high-visibility gear to stay safe among buses.",
           "Avoid cycling during peak midday sun in summer."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Amalfi und seine Umgebung sportlich mit dem Fahrrad. Nach einem kurzen Stopp am historischen Arsenal führt Sie die Küstenstraße zur faszinierenden Smaragd-Grotte. Danach fordert eine Auffahrt zum Torre dello Ziro Ihre Waden heraus, bietet aber das beste Panorama der Amalfiküste. Der Tag endet entspannt am Strand, wo Sie sich nach der Tour im azurblauen Wasser erfrischen können.",
+            "hu": "Fedezze fel Amalfiť és környékét sportosan, kerékpárral. Az arzenál megtekintése után a látványos parti úton tekerhet a Smaragd-barlangig. Ezután a Torre dello Ziro felé veheti az irányt, amely meredek, de innen nyílik a legszebb panoráma a partvidékre. A napot a tengerparton zárhatja, ahol egy frissítő csobbanással pihenheti ki a túra fáradalmait.",
+            "ro": "Explorați Amalfi și împrejurimile sale într-un mod sportiv, pe bicicletă. După o oprire la Arsenal, urmați drumul de coastă spre fascinanta Grotta dello Smeraldo. Apoi, urcarea spre Torre dello Ziro vă va pune la încercare, dar oferă cea mai bună panoramă. Ziua se încheie relaxant pe plajă, unde vă puteți răcori în apa azurie după efort.",
+            "en": "Explore Amalfi and its surroundings on two wheels. After visiting the historic Arsenal, ride along the dramatic coastal road to the Emerald Grotto. Follow this with a challenging climb to Torre dello Ziro for the most breathtaking panorama of the coastline. Finish your active day at Spiaggia Grande, perfect for a refreshing swim after your ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza del Duomo",
+                "hu": "Piazza del Duomo",
+                "ro": "Piazza del Duomo",
+                "en": "Piazza del Duomo"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt im Zentrum, schieben Sie das Rad hier.",
+                "hu": "Központi indulópont, itt tolja a biciklit.",
+                "ro": "Punct de plecare, mergeți pe lângă bicicletă aici.",
+                "en": "Central starting point, please walk your bike here."
+              }
+            },
+            {
+              "name": {
+                "de": "Arsenale della Repubblica",
+                "hu": "Köztársasági Arzenál",
+                "ro": "Arsenalul Republicii",
+                "en": "Arsenale della Repubblica"
+              },
+              "tip_5lang": {
+                "de": "Leicht erreichbar in Hafennähe.",
+                "hu": "Könnyen elérhető a kikötő közelében.",
+                "ro": "Ușor accesibil lângă port.",
+                "en": "Easily accessible near the harbor area."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta dello Smeraldo",
+                "hu": "Smaragd-barlang",
+                "ro": "Grotta dello Smeraldo",
+                "en": "Grotta dello Smeraldo"
+              },
+              "tip_5lang": {
+                "de": "Fahrt entlang der Küstenstraße SS163.",
+                "hu": "Kerékpározás az SS163-as parti úton.",
+                "ro": "Pedalați pe drumul de coastă SS163.",
+                "en": "Ride along the stunning SS163 coastal road."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre dello Ziro",
+                "hu": "Ziro-torony",
+                "ro": "Torre dello Ziro",
+                "en": "Torre dello Ziro"
+              },
+              "tip_5lang": {
+                "de": "Steile Auffahrt, aber die Aussicht belohnt.",
+                "hu": "Meredek emelkedő, de a kilátás kárpótol.",
+                "ro": "Urcare abruptă, dar vederea merită efortul.",
+                "en": "Steep climb, but the view is worth every pedal."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Grande di Amalfi",
+                "hu": "Amalfi nagy strandja",
+                "ro": "Spiaggia Grande di Amalfi",
+                "en": "Spiaggia Grande di Amalfi"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie das Rad und kühlen Sie sich ab.",
+                "hu": "Parkolja le a gépet és hűtse le magát.",
+                "ro": "Parcați bicicleta și răcoriți-vă în mare.",
+                "en": "Park your bike and cool off in the sea."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Panino Napoletano",
+                "tip": "Ein herzhafter Snack für Radfahrer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Focaccia",
+                "tip": "Gyors és laktató falat két tekerés között."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gelato artigianale",
+                "tip": "O înghețată răcoritoare după urcare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Focaccia with local herbs",
+                "tip": "A quick and filling snack for cyclists."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Küstenstraße Ausblick",
+                "tip": "Halten Sie an den Parkbuchten für Fotos.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parti út pihenői",
+                "tip": "Álljon meg a tengerparti öblöknél fotózni.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punct de belvedere SS163",
+                "tip": "Opriți în alveolele de pe drum pentru poze.",
+                "emoji": "📷"
+              }
+            ],
+            "en": [
+              {
+                "name": "Coastal laybys",
+                "tip": "Stop at the scenic overlooks for quick photos.",
+                "emoji": "🌊"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Sportgeschäfte",
+                "tip": "Lokale Fahrradverleih-Stationen bieten Karten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kerékpáros boltok",
+                "tip": "A kölcsönzőkben kérhet részletes térképet."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Suveniruri artizanale",
+                "tip": "Mici obiecte din ceramică ușor de transportat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ceramics",
+                "tip": "Small, hand-painted ceramic magnets are easy to carry."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Vorsicht auf der SS163: Die Straße ist eng und kurvig.",
+              "Tragen Sie eine Warnweste für bessere Sichtbarkeit.",
+              "Meiden Sie die Mittagshitze im Juli und August."
+            ],
+            "hu": [
+              "Vigyázat az SS163-as úton: szűk és sok a kanyar.",
+              "Viseljen láthatósági mellényt a biztonság érdekében.",
+              "Kerülje a déli hőséget a nyári hónapokban."
+            ],
+            "ro": [
+              "Atenție pe SS163: drumul este îngust și aglomerat.",
+              "Purtați vestă reflectorizantă pentru vizibilitate.",
+              "Verificați frânele bicicletei înainte de coborâri."
+            ],
+            "en": [
+              "Be cautious on the SS163: the road is narrow and winding.",
+              "Wear high-visibility gear to stay safe among buses.",
+              "Avoid cycling during peak midday sun in summer."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf zwei Rädern erfordert Vorsicht auf der Küstenstraße. Am Morgen bietet der Piazza del Duomo einen kurzen Halt, bevor es zum überdachten Arsenale geht. Die Fahrt zur Smaragdgrotte ist nass, aber die Grotte selbst ist der perfekte Rückzugsort vor dem Regen. Da die Wanderung zum Torre dello Ziro bei Regen riskant ist, verbringen wir mehr Zeit an der Küste. Der Tag endet mit einem vorsichtigen Rollen zum Strand von Amalfi.",
+            "hu": "Az esős nap két keréken óvatosságot igényel a parti úton. Reggel a Piazza del Duomo csak rövid megálló a fedett Arsenale előtt. Az út a Smaragd-barlanghoz vizes, de maga a barlang tökéletes menedék az eső elől. Mivel a Torre dello Ziro-hoz vezető túra esőben kockázatos, több időt töltünk a parton. A nap óvatos gurulással zárul Amalfi strandja felé.",
+            "ro": "O zi ploioasă pe două roți necesită prudență pe drumul de coastă. Dimineața, Piazza del Duomo este o oprire scurtă înainte de Arsenale. Drumul spre Grotta dello Smeraldo este ud, dar grota însăși este refugiul perfect contra ploii. Deoarece urcarea la Torre dello Ziro este riscantă pe ploaie, stăm mai mult pe coastă. Ziua se încheie cu o coborâre prudentă spre plajă.",
+            "en": "A rainy day on two wheels requires caution on the coastal road. In the morning, Piazza del Duomo is a brief stop before heading to the covered Arsenale. The ride to the Emerald Grotto is wet, but the cave itself is the perfect retreat from the rain. As the hike to Torre dello Ziro is risky in the rain, we spend more time on the coast. The day ends with a careful roll towards Amalfi's beach."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Duomo",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen, das Kopfsteinpflaster ist rutschig.",
+                "hu": "Vigyázat a leszálláskor, a macskakövek csúszósak.",
+                "ro": "Atenție la descălecare, pavajul este alunecos.",
+                "en": "Be careful when dismounting; the cobblestones are slippery."
+              }
+            },
+            {
+              "name": "Arsenale della Repubblica",
+              "tip_5lang": {
+                "de": "Guter Ort, um das Fahrrad kurz sicher und trocken abzustellen.",
+                "hu": "Jó hely a bicikli rövid, biztonságos és száraz leállításához.",
+                "ro": "Loc bun pentru a parca bicicleta scurt la loc uscat.",
+                "en": "Good spot to park the bike briefly in a dry, safe place."
+              }
+            },
+            {
+              "name": "Grotta dello Smeraldo",
+              "tip_5lang": {
+                "de": "Perfektes Ziel bei Regen, der Zugang ist überdacht.",
+                "hu": "Tökéletes célpont esőben, a bejárat fedett.",
+                "ro": "Destinație perfectă pe ploaie, accesul este acoperit.",
+                "en": "Perfect destination for rain; the access area is covered."
+              }
+            },
+            {
+              "name": "Torre dello Ziro",
+              "tip_5lang": {
+                "de": "Der Pfad ist bei Regen schlammig; festes Schuhwerk ist Pflicht.",
+                "hu": "Az ösvény esőben sáros; a túrabakancs kötelező.",
+                "ro": "Poteca este noroioasă pe ploaie; încălțămintea fixă e obligatorie.",
+                "en": "The path is muddy in the rain; sturdy footwear is mandatory."
+              }
+            },
+            {
+              "name": "Spiaggia Grande di Amalfi",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf der Uferstraße.",
+                "hu": "Ügyeljen a tócsákra a tengerparti úton.",
+                "ro": "Atenție la bălțile de pe drumul falezei.",
+                "en": "Watch out for puddles on the coastal road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Küstenstraße SS163 wird bei Regen extrem schmierig.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt nach Amalfi.",
+              "Vermeiden Sie scharfe Kurven mit hoher Geschwindigkeit.",
+              "Tragen Sie eine gut sichtbare Warnweste bei schlechter Sicht.",
+              "Die Gitterroste in den Tunneln sind bei Nässe Fallen für Reifen."
+            ],
+            "hu": [
+              "Az SS163-as út esőben rendkívül csúszóssá válik.",
+              "Indulás előtt ellenőrizze a fékeket Amalfi felé.",
+              "Kerülje az éles kanyarokat nagy sebességgel.",
+              "Rossz látási viszonyok között viseljen láthatósági mellényt.",
+              "Az alagutak rácsai nedvesen veszélyesek a gumikra."
+            ],
+            "ro": [
+              "Drumul SS163 devine extrem de alunecos pe ploaie.",
+              "Verificați frânele înainte de coborârea spre Amalfi.",
+              "Evitați virajele strânse cu viteză mare.",
+              "Purtați vestă reflectorizantă în condiții de vizibilitate redusă.",
+              "Grătarele din tuneluri sunt capcane pentru anvelope când sunt ude."
+            ],
+            "en": [
+              "The SS163 coastal road becomes extremely slick in the rain.",
+              "Check your brakes before the descent into Amalfi.",
+              "Avoid taking sharp corners at high speed.",
+              "Wear a high-visibility vest during poor visibility.",
+              "Drainage grates in tunnels are traps for tires when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem frischen Wintertag ist die Fahrt entlang der Amalfi-Küste ein Genuss ohne den dichten Verkehr. Am Morgen ist es am Duomo noch kühl, aber die Bewegung wärmt auf. Mittags ist die Besichtigung des Arsenale eine willkommene Pause im Windschatten. Die Fahrt zur Smaragdgrotte bietet klare Sichtweiten über das Meer. Nachmittags ist die Luft am Torre dello Ziro kristallklar. Wir beenden den Tag am Strand, bevor der kalte Abendwind einsetzt.",
+            "hu": "Egy friss téli napon a tekerés az Amalfi-parton igazi élvezet a sűrű forgalom nélkül. Reggel a dómnál még hűvös van, de a mozgás felmelegít. Délben az Arsenale megtekintése kellemes pihenő a szélárnyékban. Az út a Smaragd-barlanghoz kristálytiszta kilátást nyújt a tengerre. Délután a levegő a Torre dello Ziro-nál frissítő. A napot a strandon zárjuk, mielőtt a hideg esti szél feltámad.",
+            "ro": "Într-o zi răcoroasă de iarnă, plimbarea pe coasta Amalfi este o plăcere fără traficul dens. Dimineața este încă frig la Dom, dar mișcarea vă încălzește. La prânz, vizita la Arsenale este o pauză binevenită la adăpost de vânt. Drumul spre Grotta dello Smeraldo oferă vizibilitate clară peste mare. După-amiaza, aerul la Torre dello Ziro este revigorant. Încheiem ziua la plajă înainte de vântul rece de seară.",
+            "en": "On a crisp winter day, cycling along the Amalfi Coast is a treat without the heavy traffic. In the morning, it’s still chilly at the Duomo, but the movement warms you up. At noon, the Arsenale visit is a welcome break in the lee. The ride to the Emerald Grotto offers crystal-clear views over the sea. In the afternoon, the air at Torre dello Ziro is invigorating. We finish the day at the beach before the cold evening wind kicks in."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Duomo",
+              "tip_5lang": {
+                "de": "Trinken Sie einen heißen Cappuccino, um die Finger zu wärmen.",
+                "hu": "Igyon egy forró cappuccinót az ujjai felmelegítéséhez.",
+                "ro": "Beți un cappuccino fierbinte pentru a vă încălzi degetele.",
+                "en": "Have a hot cappuccino to warm up your fingers."
+              }
+            },
+            {
+              "name": "Arsenale della Repubblica",
+              "tip_5lang": {
+                "de": "Drinnen ist es oft kühler als in der Sonne; Jacke anlassen.",
+                "hu": "Odabent gyakran hűvösebb van, mint a napon; tartsa magán a kabátot.",
+                "ro": "În interior este adesea mai rece decât la soare; păstrați jacheta.",
+                "en": "It’s often cooler inside than in the sun; keep your jacket on."
+              }
+            },
+            {
+              "name": "Grotta dello Smeraldo",
+              "tip_5lang": {
+                "de": "Im Winter ist weniger Betrieb, genießen Sie die Stille.",
+                "hu": "Télen kisebb a forgalom, élvezze a csendet.",
+                "ro": "Iarna este mai puțin aglomerat, bucurați-vă de liniște.",
+                "en": "Less crowded in winter; enjoy the silence."
+              }
+            },
+            {
+              "name": "Torre dello Ziro",
+              "tip_5lang": {
+                "de": "Die Fernsicht im Winter ist die beste des ganzen Jahres.",
+                "hu": "A téli távlati kilátás az évben a legjobb.",
+                "ro": "Vizibilitatea la distanță iarna este cea mai bună din tot anul.",
+                "en": "Winter distance visibility is the best of the entire year."
+              }
+            },
+            {
+              "name": "Spiaggia Grande di Amalfi",
+              "tip_5lang": {
+                "de": "Die Sonne verschwindet früh; planen Sie die Rückfahrt rechtzeitig.",
+                "hu": "A nap korán lebukik; tervezze meg időben a visszautat.",
+                "ro": "Soarele apune devreme; planificați întoarcerea la timp.",
+                "en": "The sun sets early; plan your return journey in time."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Kleidung in Schichten (Zwiebelprinzip) gegen den Fahrtwind.",
+              "Vollfingerhandschuhe sind bei Abfahrten im Winter ein Muss.",
+              "Der Verkehr ist geringer, aber Busse fahren dennoch zügig.",
+              "Die Sonne wärmt, aber im Schatten gefriert man schnell.",
+              "Prüfen Sie den Reifendruck; kalte Luft lässt ihn sinken."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a menetszél ellen.",
+              "A zárt kesztyű kötelező a téli lejtmeneteknél.",
+              "A forgalom kisebb, de a buszok továbbra is gyorsan haladnak.",
+              "A nap melegít, de az árnyékban gyorsan megfagyhatunk.",
+              "Ellenőrizze a guminyomást; a hideg levegő miatt csökkenhet."
+            ],
+            "ro": [
+              "Purtați haine în straturi contra vântului de deplasare.",
+              "Mănușile cu degete sunt obligatorii la coborârile de iarnă.",
+              "Traficul este mai redus, dar autobuzele circulă totuși rapid.",
+              "Soarele încălzește, dar la umbră înghețați repede.",
+              "Verificați presiunea anvelopelor; aerul rece o face să scadă."
+            ],
+            "en": [
+              "Wear layers (onion principle) against the wind chill.",
+              "Full-finger gloves are a must for winter descents.",
+              "Traffic is lower, but buses still travel quickly.",
+              "The sun warms you, but you'll freeze quickly in the shade.",
+              "Check tire pressure; cold air causes it to drop."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -796,6 +1588,394 @@
           "Roads are extremely narrow; rent a small car if possible.",
           "Watch out for ZTL signs to avoid traffic fines."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto genießen Sie die Freiheit, auch Ziele außerhalb des Stadtkerns bequem zu erreichen. Nach dem Besuch der Kathedrale und des Papiermuseums im Zentrum führt Sie eine kurze Fahrt zur berühmten Smaragd-Grotte. Danach erkunden Sie das grüne Valle delle Ferriere von Pontone aus, bevor Sie am Abend zum Hafen von Amalfi zurückkehren, um den Sonnenuntergang am Strand zu genießen.",
+            "hu": "Autóval kényelmesen elérheti a központon kívüli látnivalókat is. A katedrális és a Papírmúzeum megtekintése után egy rövid autózással eljuthat a híres Smaragd-barlanghoz. Ezt követően látogasson el a Valle delle Ferriere felső szakaszához Pontone irányából, majd térjen vissza Amalfi kikötőjébe, hogy a naplementét már a tengerparton élvezhesse.",
+            "ro": "Cu mașina aveți libertatea de a ajunge ușor la atracțiile din afara centrului. După vizitarea catedralei și a Muzeului Hârtiei, o scurtă călătorie vă duce la faimoasa Grotta dello Smeraldo. Apoi, explorați zona verde Valle delle Ferriere pornind dinspre Pontone, înainte de a reveni în portul Amalfi pentru a vedea apusul pe plajă.",
+            "en": "By car, you can easily reach attractions outside the immediate center. After exploring the cathedral and the Paper Museum, a short scenic drive takes you to the famous Emerald Grotto. Continue to the lush Valle delle Ferriere by driving up towards Pontone for easier access, before heading back to Amalfi's harbor to catch the sunset by the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza del Duomo",
+                "hu": "Piazza del Duomo",
+                "ro": "Piazza del Duomo",
+                "en": "Piazza del Duomo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus Luna Rossa.",
+                "hu": "Parkoljon a Luna Rossa parkolóházban.",
+                "ro": "Parcați în garajul Luna Rossa.",
+                "en": "Use the Luna Rossa parking garage nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale von Amalfi",
+                "hu": "Amalfi katedrális",
+                "ro": "Catedrala din Amalfi",
+                "en": "Amalfi Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Das Zentrum ist für Autos meist gesperrt.",
+                "hu": "A központ legtöbbször le van zárva az autók elől.",
+                "ro": "Centrul este de obicei închis traficului auto.",
+                "en": "The center is mostly a pedestrian zone."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo della Carta",
+                "hu": "Papírmúzeum",
+                "ro": "Muzeul Hârtiei",
+                "en": "Paper Museum"
+              },
+              "tip_5lang": {
+                "de": "Gibt es wenige Parkplätze direkt davor.",
+                "hu": "Kevés parkolóhely van közvetlenül előtte.",
+                "ro": "Puține locuri de parcare chiar în față.",
+                "en": "Limited parking is available near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta dello Smeraldo",
+                "hu": "Smaragd-barlang",
+                "ro": "Grotta dello Smeraldo",
+                "en": "Grotta dello Smeraldo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufzug direkt an der Straße.",
+                "hu": "Használja az út menti liftet a lejutáshoz.",
+                "ro": "Folosiți liftul situat direct pe marginea drumului.",
+                "en": "Take the elevator directly from the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Valle delle Ferriere",
+                "hu": "Valle delle Ferriere",
+                "ro": "Valle delle Ferriere",
+                "en": "Valle delle Ferriere"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum oberen Eingang bei Pontone.",
+                "hu": "Hajtson fel a felső bejárathoz Pontone-nál.",
+                "ro": "Mergeți până la intrarea de sus din Pontone.",
+                "en": "Drive to the upper entrance near Pontone."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Grande di Amalfi",
+                "hu": "Amalfi nagy strandja",
+                "ro": "Spiaggia Grande di Amalfi",
+                "en": "Spiaggia Grande di Amalfi"
+              },
+              "tip_5lang": {
+                "de": "Abends sind die Parkgebühren oft niedriger.",
+                "hu": "Este a parkolási díjak gyakran alacsonyabbak.",
+                "ro": "Seara, tarifele de parcare sunt adesea mai mici.",
+                "en": "Parking fees may be lower in the early evening."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Spaghetti alle Vongole",
+                "tip": "Perfekt in einem Restaurant mit Meerblick."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pizza Napoletana",
+                "tip": "Egy igazi fatüzelésű kemencében sült pizza."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fritto Misto",
+                "tip": "Mix de pește și fructe de mare prăjite."
+              }
+            ],
+            "en": [
+              {
+                "name": "Scialatielli Seafood",
+                "tip": "Fresh local pasta with shellfish near the waterfront."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pontone Belvedere",
+                "tip": "Ruhiger Blick über Amalfi von oben.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pontone kilátó",
+                "tip": "Csendes panoráma Amalfi városára fentről.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcarea de lângă far",
+                "tip": "Loc liniștit pentru a vedea marea.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pontone Overlook",
+                "tip": "A quiet spot with panoramic views of the valley.",
+                "emoji": "🌄"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Keramik aus Vietri",
+                "tip": "Größere Stücke lassen sich gut im Auto transportieren."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vietri kerámia",
+                "tip": "A nagyobb tálakat és vázákat könnyebb autóval szállítani."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vinuri locale",
+                "tip": "Căutați vinurile DOC Costa d'Amalfi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Wines",
+                "tip": "Pick up a few bottles of Costa d'Amalfi DOC wine."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken ist in Amalfi extrem teuer (bis zu 5€/Stunde).",
+              "Die Straßen sind sehr eng, mieten Sie ein kleines Auto.",
+              "Achten Sie auf die ZTL (verkehrsberuhigte Zonen)."
+            ],
+            "hu": [
+              "A parkolás rendkívül drága Amalfiban (akár 5€/óra).",
+              "Az utak nagyon szűkek, érdemes kisautót bérelni.",
+              "Figyeljen a ZTL zónákra, ahová tilos a behajtás."
+            ],
+            "ro": [
+              "Parcarea este foarte scumpă (până la 5€/oră).",
+              "Drumurile sunt înguste, închiriați o mașină mică.",
+              "Evitați zonele ZTL pentru a nu primi amenzi."
+            ],
+            "en": [
+              "Parking in Amalfi is very expensive (up to 5€/hour).",
+              "Roads are extremely narrow; rent a small car if possible.",
+              "Watch out for ZTL signs to avoid traffic fines."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag mit dem Auto macht die Parkplatzsuche in Amalfi etwas einfacher. Am Morgen bietet der Dom Schutz, gefolgt von einem Besuch im trockenen Papiermuseum. Mittags ist die Fahrt zur Smaragdgrotte entspannt, da der Zugang überdacht ist. Die Wanderung im Valle delle Ferriere wird durch einen kurzen Blick auf die Wasserfälle ersetzt, die bei Regen besonders mächtig sind. Der Tag endet sicher im Auto mit Blick auf den regnerischen Strand.",
+            "hu": "Az esős autós nap valamivel könnyebbé teszi a parkolást Amalfiban. Reggel a dóm nyújt menedéket, majd a száraz Papírmúzeum következik. Délben az út a Smaragd-barlanghoz kényelmes, mivel a bejárat fedett. A Valle delle Ferriere túrát a vízesések rövid megtekintése váltja fel, melyek esőben különösen erősek. A napot biztonságban, az autóból zárjuk, az esős partot figyelve.",
+            "ro": "O zi ploioasă cu mașina face parcarea în Amalfi ceva mai ușoară. Dimineața, Domul oferă adăpost, urmat de vizita la Muzeul Hârtiei. La prânz, drumul spre Grotta dello Smeraldo este relaxat, accesul fiind acoperit. Drumeția în Valle delle Ferriere este înlocuită de o privire scurtă la cascade, care sunt puternice pe ploaie. Ziua se încheie în siguranță în mașină, privind plaja ploioasă.",
+            "en": "A rainy day by car makes finding parking in Amalfi a bit easier. In the morning, the Cathedral offers shelter, followed by a visit to the dry Paper Museum. At noon, the drive to the Emerald Grotto is relaxed as the access is covered. The hike in Valle delle Ferriere is replaced by a quick look at the waterfalls, which are particularly powerful in the rain. The day ends safely in the car with a view of the rainy beach."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Duomo",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus Luna Rossa für direkten Fußweg zum Dom.",
+                "hu": "Használja a Luna Rossa parkolóházat a dómhoz vezető közvetlen úthoz.",
+                "ro": "Folosiți parcarea Luna Rossa pentru acces direct la Dom.",
+                "en": "Use the Luna Rossa parking garage for direct access to the Cathedral."
+              }
+            },
+            {
+              "name": "Amalfi Cathedral",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich ist bei Regen oft überfüllt.",
+                "hu": "A bejárat környéke esőben gyakran zsúfolt.",
+                "ro": "Zona de intrare este adesea aglomerată când plouă.",
+                "en": "The entrance area is often crowded when it rains."
+              }
+            },
+            {
+              "name": "Paper Museum",
+              "tip_5lang": {
+                "de": "Parken Sie weiter oben im Tal, um den Fußweg im Regen zu verkürzen.",
+                "hu": "Parkoljon feljebb a völgyben, hogy lerövidítse az utat az esőben.",
+                "ro": "Parcați mai sus în vale pentru a scurta drumul prin ploaie.",
+                "en": "Park further up the valley to shorten the walk in the rain."
+              }
+            },
+            {
+              "name": "Grotta dello Smeraldo",
+              "tip_5lang": {
+                "de": "Parkplatz direkt an der Straße, Aufzug zur Grotte vorhanden.",
+                "hu": "Parkoló közvetlenül az út mentén, lift vezet a barlanghoz.",
+                "ro": "Parcare direct lângă drum, lift disponibil spre grotă.",
+                "en": "Parking right by the road; elevator to the grotto is available."
+              }
+            },
+            {
+              "name": "Valle delle Ferriere",
+              "tip_5lang": {
+                "de": "Vorsicht bei Steinschlaggefahr auf den Zufahrtsstraßen.",
+                "hu": "Vigyázat a kőomlásveszéllyel a hozzávezető utakon.",
+                "ro": "Atenție la pericolul de căderi de pietre pe drumurile de acces.",
+                "en": "Watch out for rockfall hazards on the access roads."
+              }
+            },
+            {
+              "name": "Spiaggia Grande di Amalfi",
+              "tip_5lang": {
+                "de": "Das Parken am Hafen ist bei Regen oft einfacher.",
+                "hu": "A kikötői parkolás esőben gyakran egyszerűbb.",
+                "ro": "Parcarea în port este adesea mai ușoară când plouă.",
+                "en": "Parking at the harbor is often easier during the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Küstenstraße SS163 ist bei Regen rutschig; fahren Sie langsam.",
+              "Achten Sie auf kleine Steine, die bei Regen auf die Fahrbahn fallen.",
+              "Die Sicht in den engen Kurven kann durch Beschlag stark eingeschränkt sein.",
+              "Nutzen Sie die Parkhäuser, um trockenen Fußes in die Stadt zu gelangen.",
+              "Vermeiden Sie das Parken in der Nähe von Steilhängen bei starkem Regen."
+            ],
+            "hu": [
+              "Az SS163-as út esőben csúszós, vezessen lassan.",
+              "Ügyeljen az apró kövekre, amik esőben az útra hullhatnak.",
+              "A látási viszonyok a párásodás miatt korlátozottak lehetnek.",
+              "Használja a parkolóházakat, hogy szárazon jusson a városba.",
+              "Erős esőben kerülje a meredek lejtők menti parkolást."
+            ],
+            "ro": [
+              "Drumul SS163 este alunecos pe ploaie; conduceți încet.",
+              "Atenție la pietrele mici care pot cădea pe carosabil pe ploaie.",
+              "Vizibilitatea în curbe poate fi redusă din cauza condensului.",
+              "Folosiți parcările etajate pentru a ajunge uscați în oraș.",
+              "Evitați parcarea lângă pante abrupte în timpul ploilor torențiale."
+            ],
+            "en": [
+              "The SS163 coastal road is slippery in the rain; drive slowly.",
+              "Watch for small rocks falling onto the road during rainfall.",
+              "Visibility in tight curves can be limited by fogging.",
+              "Use parking garages to reach the town while staying dry.",
+              "Avoid parking near steep slopes during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit dem Auto bietet die Freiheit, die Küste ohne Staus zu erkunden. Am Morgen ist der Duomo-Platz friedlich. Mittags führt die Fahrt zum Papiermuseum durch die ruhige Oberstadt. Die Smaragdgrotte ist im Winter fast menschenleer. Nachmittags ist die Fahrt zum Valle delle Ferriere besonders malerisch, da die Bäume den Blick auf das Meer freigeben. Wir beenden den Tag am Hafen von Amalfi, während die Lichter der Stadt angehen.",
+            "hu": "A téli autós nap szabadságot ad a part felfedezéséhez dugók nélkül. Reggel a dóm tér békés. Délben az út a Papírmúzeumhoz a csendes felsővároson át vezet. A Smaragd-barlang télen szinte üres. Délután az út a Valle delle Ferriere-hez festői, mert a fák nem takarják a kilátást a tengerre. A napot Amalfi kikötőjében zárjuk, miközben kigyúlnak a város fényei.",
+            "ro": "O zi de iarnă cu mașina oferă libertatea de a explora coasta fără ambuteiaje. Dimineața, piața Domului este liniștită. La prânz, drumul spre Muzeul Hârtiei trece prin orașul de sus. Grotta dello Smeraldo este aproape goală iarna. După-amiaza, drumul spre Valle delle Ferriere este pitoresc, copacii lăsând marea la vedere. Încheiem ziua în portul Amalfi, când se aprind luminile orașului.",
+            "en": "A winter day by car offers the freedom to explore the coast without traffic jams. In the morning, the Duomo square is peaceful. At noon, the drive to the Paper Museum leads through the quiet upper town. The Emerald Grotto is almost deserted in winter. In the afternoon, the drive to Valle delle Ferriere is particularly scenic as the trees reveal the sea view. We end the day at Amalfi harbor as the city lights come on."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Duomo",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter viel leichter zu finden.",
+                "hu": "Télen sokkal könnyebb parkolóhelyet találni.",
+                "ro": "Locurile de parcare sunt mult mai ușor de găsit iarna.",
+                "en": "Parking spaces are much easier to find in winter."
+              }
+            },
+            {
+              "name": "Amalfi Cathedral",
+              "tip_5lang": {
+                "de": "Die Fassade wird im Winterlicht perfekt ausgeleuchtet.",
+                "hu": "A homlokzat a téli fényben tökéletesen megvilágított.",
+                "ro": "Fațada este iluminată perfect de lumina de iarnă.",
+                "en": "The facade is perfectly illuminated in the winter light."
+              }
+            },
+            {
+              "name": "Paper Museum",
+              "tip_5lang": {
+                "de": "Kurze Öffnungszeiten im Winter; prüfen Sie diese vorab.",
+                "hu": "Rövidített téli nyitvatartás; ellenőrizze előre.",
+                "ro": "Program scurt iarna; verificați-l în avans.",
+                "en": "Shortened winter opening hours; check them beforehand."
+              }
+            },
+            {
+              "name": "Grotta dello Smeraldo",
+              "tip_5lang": {
+                "de": "Bei starkem Wellengang kann der Zugang gesperrt sein.",
+                "hu": "Erős hullámzás esetén a bejárat zárva lehet.",
+                "ro": "Accesul poate fi închis în caz de valuri mari.",
+                "en": "Access may be closed in case of heavy swells."
+              }
+            },
+            {
+              "name": "Valle delle Ferriere",
+              "tip_5lang": {
+                "de": "Die Straße nach oben ist schmal, aber im Winter leer.",
+                "hu": "Az út felfelé szűk, de télen üres.",
+                "ro": "Drumul spre vârf este îngust, dar liber iarna.",
+                "en": "The road up is narrow but empty in winter."
+              }
+            },
+            {
+              "name": "Spiaggia Grande di Amalfi",
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Hafenmauer für den besten Ausblick.",
+                "hu": "Parkoljon közvetlenül a kikötői falnál a legjobb kilátásért.",
+                "ro": "Parcați direct la digul portului pentru cea mai bună vedere.",
+                "en": "Park right by the harbor wall for the best view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkgebühren sind in der Nebensaison oft niedriger.",
+              "Vorsicht vor Frostschäden und Schlaglöchern nach Regenfällen.",
+              "Die Tankstellen an der Küste haben im Winter oft Mittagspause.",
+              "Ein Mietwagen mit Sitzheizung ist für die kühlen Abende ideal.",
+              "Die Sonne blendet im Winter tiefstehend; Sonnenbrille mitnehmen."
+            ],
+            "hu": [
+              "A parkolási díjak főszezonon kívül gyakran alacsonyabbak.",
+              "Vigyázat a fagykárokkal és kátyúkkal az esőzések után.",
+              "A parti benzinkutak télen gyakran tartanak ebédszünetet.",
+              "Az ülésfűtéses bérautó ideális a hűvös estékre.",
+              "A nap télen alacsonyan jár és vakíthat; vigyen napszemüveget."
+            ],
+            "ro": [
+              "Tarifele de parcare sunt adesea mai mici în extrasezon.",
+              "Atenție la gropi și daune cauzate de îngheț după ploi.",
+              "Benzinăriile de pe coastă au adesea pauză de prânz iarna.",
+              "O mașină cu scaune încălzite este ideală pentru serile reci.",
+              "Soarele iernii este jos și orbitor; luați ochelari de soare."
+            ],
+            "en": [
+              "Parking fees are often lower during the low season.",
+              "Watch out for frost damage and potholes after rainfall.",
+              "Coastal gas stations often have a lunch break in winter.",
+              "A rental car with seat heating is ideal for cool evenings.",
+              "The winter sun is low and blinding; bring sunglasses."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1031,6 +2211,362 @@
           "Buses can be very crowded during the peak summer months.",
           "Ferries (Travelmar) are often more reliable and scenic than buses."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das dichte Verkehrsnetz von Amalfi, um die Stadt und die Küste zu erkunden. Nach dem kulturellen Start im Zentrum bringt Sie der SITA-Bus bequem zur Smaragd-Grotte, einem Naturwunder unter den Klippen. Zurück in Amalfi können Sie das Papiermuseum besuchen und den Tag entspannt am Meer ausklingen lassen, während Sie das bunte Treiben im Hafen beobachten.",
+            "hu": "Használja ki Amalfi tömegközlekedését a város és a part felfedezéséhez. A központi látnivalók után a SITA busszal kényelmesen eljuthat a Smaragd-barlanghoz, amely a sziklák alatti természeti csoda. Visszatérve Amalfiba, látogasson el a Papírmúzeumba, majd pihenjen a tengerparton, figyelve a kikötő nyüzsgését.",
+            "ro": "Folosiți rețeaua de transport din Amalfi pentru a explora coasta. După vizitarea centrului istoric, autobuzul SITA vă duce confortabil la Grotta dello Smeraldo, o minune naturală sub stânci. Revenind în Amalfi, puteți vizita Muzeul Hârtiei și încheia ziua relaxat pe plajă, admirând forfota din port.",
+            "en": "Make the most of Amalfi's transit network to see the sights. After exploring the historic center, hop on a SITA bus for a quick trip to the Emerald Grotto, a stunning sea cave. Back in town, visit the Paper Museum and then unwind at Spiaggia Grande, watching the vibrant harbor life as the sun begins to set."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza del Duomo",
+                "hu": "Piazza del Duomo",
+                "ro": "Piazza del Duomo",
+                "en": "Piazza del Duomo"
+              },
+              "tip_5lang": {
+                "de": "Die zentrale Bushaltestelle ist nur 2 Minuten entfernt.",
+                "hu": "A központi buszmegálló mindössze 2 percre van.",
+                "ro": "Stația centrală de autobuz este la doar 2 minute.",
+                "en": "The main bus terminal is just a 2-minute walk away."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale von Amalfi",
+                "hu": "Amalfi katedrális",
+                "ro": "Catedrala din Amalfi",
+                "en": "Amalfi Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie auch das Diözesanmuseum.",
+                "hu": "Látogasson el az Egyházmegyei Múzeumba is.",
+                "ro": "Vizitați și muzeul diecezan adiacent.",
+                "en": "Visit the adjacent Diocesan Museum as well."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo della Carta",
+                "hu": "Papírmúzeum",
+                "ro": "Muzeul Hârtiei",
+                "en": "Paper Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein lokaler Shuttlebus fährt das Tal hoch.",
+                "hu": "Helyi kisbusz közlekedik fel a völgybe.",
+                "ro": "Un autobuz local merge pe vale în sus.",
+                "en": "A small local shuttle runs up the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta dello Smeraldo",
+                "hu": "Smaragd-barlang",
+                "ro": "Grotta dello Smeraldo",
+                "en": "Grotta dello Smeraldo"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie den SITA-Bus Richtung Positano.",
+                "hu": "Szálljon fel a Positano felé tartó SITA buszra.",
+                "ro": "Luați autobuzul SITA spre Positano.",
+                "en": "Take the SITA bus heading toward Positano."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Grande di Amalfi",
+                "hu": "Amalfi nagy strandja",
+                "ro": "Spiaggia Grande di Amalfi",
+                "en": "Spiaggia Grande di Amalfi"
+              },
+              "tip_5lang": {
+                "de": "Rückfahrt mit dem Boot ist eine tolle Alternative.",
+                "hu": "A visszajáró hajó remek alternatíva a busz helyett.",
+                "ro": "Întoarcerea cu barca este o alternativă excelentă.",
+                "en": "Returning by boat is a scenic alternative to the bus."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Arancini di mare",
+                "tip": "Ein schneller Snack an der Bushaltestelle."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gnocchi alla Sorrentina",
+                "tip": "Klasszikus paradicsomos-mozzarellás fogás."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pastiera Napoletana",
+                "tip": "Prăjitură tradițională cu brânză și grâu."
+              }
+            ],
+            "en": [
+              {
+                "name": "Arancini",
+                "tip": "Fried rice balls, a perfect snack while waiting for the bus."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hafenmole",
+                "tip": "Ein ruhiger Spaziergang weit weg vom Verkehr.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötőmóló",
+                "tip": "Csendes séta a tenger felett, távol a buszoktól.",
+                "emoji": "🌊"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădinile hotelurilor",
+                "tip": "Multe au terase publice cu vedere spre mare.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Pier Promenade",
+                "tip": "Walk to the end of the pier for a quiet view of the town.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Postkarten",
+                "tip": "Schreiben Sie Grüße auf echtem Amalfi-Papier."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Képeslapok",
+                "tip": "Írjon üdvözletet valódi amalfi papírra."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ceramică locală",
+                "tip": "Magazinele de lângă terminalul de autobuz au prețuri bune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Handmade paper cards",
+                "tip": "Send a postcard made from authentic Amalfi paper."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Bustickets vorab im Tabakladen (Tabacchi).",
+              "Busse können in der Hochsaison sehr voll sein.",
+              "Die Fähren (Travelmar) sind oft pünktlicher als Busse."
+            ],
+            "hu": [
+              "Vásárolja meg a buszjegyet előre a dohányboltokban (Tabacchi).",
+              "A buszok főszezonban nagyon zsúfoltak lehetnek.",
+              "A hajók (Travelmar) gyakran pontosabbak a buszoknál."
+            ],
+            "ro": [
+              "Cumpărați biletele de autobuz în avans de la Tabacchi.",
+              "Autobuzele pot fi foarte pline în iulie și august.",
+              "Bărcile sunt o variantă mai rapidă pentru a evita traficul."
+            ],
+            "en": [
+              "Buy your bus tickets in advance at a 'Tabacchi' shop.",
+              "Buses can be very crowded during the peak summer months.",
+              "Ferries (Travelmar) are often more reliable and scenic than buses."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Transit-Tag beginnt am Piazza del Duomo, wo die Busse in der Nähe halten. Der Dom bietet Schutz, bevor es zum Papiermuseum geht. Mittags ist die SITA-Busfahrt zur Smaragdgrotte die sicherste Option bei Regen. Die Grotte bietet ein wunderbares, trockenes Erlebnis. Wir beenden den Tag mit dem Bus zurück zum Strand von Amalfi, wo wir die Regenfront über dem Meer beobachten.",
+            "hu": "Az esős közlekedési nap a Piazza del Duomo-nál kezdődik, ahol a buszok a közelben állnak meg. A dóm védelmet nyújt a Papírmúzeum előtt. Délben a SITA busz a Smaragd-barlanghoz a legbiztonságosabb választás esőben. A barlang csodás, száraz élményt nyújt. A napot busszal zárjuk Amalfi strandja felé, figyelve a tenger feletti esőfelhőket.",
+            "ro": "O zi ploioasă cu transportul public începe în Piazza del Duomo, unde autobuzele opresc aproape. Domul oferă adăpost înainte de Muzeul Hârtiei. La prânz, autobuzul SITA spre Grotta dello Smeraldo este cea mai sigură opțiune pe ploaie. Grota oferă o experiență uscată minunată. Încheiem ziua cu autobuzul spre plaja Amalfi, privind frontul de ploaie deasupra mării.",
+            "en": "A rainy transit day begins at Piazza del Duomo, where buses stop nearby. The Cathedral provides shelter before heading to the Paper Museum. At noon, the SITA bus to the Emerald Grotto is the safest option in the rain. The cave offers a wonderful, dry experience. We end the day with a bus back to Amalfi beach, watching the rain front over the sea."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Duomo",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nur wenige Meter vom Dom entfernt.",
+                "hu": "A buszmegálló mindössze pár méterre van a dómtól.",
+                "ro": "Stația de autobuz este la doar câțiva metri de Dom.",
+                "en": "The bus stop is just a few meters from the Cathedral."
+              }
+            },
+            {
+              "name": "Amalfi Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kiosk an der Piazza, um SITA-Tickets zu kaufen.",
+                "hu": "Használja a téri kioszkot SITA jegyek vásárlásához.",
+                "ro": "Folosiți chioșcul din piață pentru a cumpăra bilete SITA.",
+                "en": "Use the kiosk in the square to buy SITA tickets."
+              }
+            },
+            {
+              "name": "Paper Museum",
+              "tip_5lang": {
+                "de": "Der lokale Shuttlebus spart den nassen Fußweg bergauf.",
+                "hu": "A helyi ingajárat megkíméli az esős hegyi sétától.",
+                "ro": "Microbuzul local vă scutește de urcarea prin ploaie.",
+                "en": "The local shuttle bus saves you the wet uphill walk."
+              }
+            },
+            {
+              "name": "Grotta dello Smeraldo",
+              "tip_5lang": {
+                "de": "Sagen Sie dem Busfahrer Bescheid, damit er an der Grotte hält.",
+                "hu": "Szóljon a buszvezetőnek, hogy álljon meg a barlangnál.",
+                "ro": "Anunțați șoferul că doriți să coborâți la grotă.",
+                "en": "Tell the bus driver you want to get off at the grotto."
+              }
+            },
+            {
+              "name": "Spiaggia Grande di Amalfi",
+              "tip_5lang": {
+                "de": "Der Busbahnhof liegt direkt gegenüber dem Strand.",
+                "hu": "A buszpályaudvar közvetlenül a stranddal szemben van.",
+                "ro": "Autogara este situată chiar vizavi de plajă.",
+                "en": "The bus terminal is located right across from the beach."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "SITA-Busse können bei Regen voll sein; planen Sie Wartezeiten ein.",
+              "Kaufen Sie Tickets im Voraus, sie werden nicht im Bus verkauft.",
+              "Die Fenster im Bus können bei Regen stark beschlagen.",
+              "Tragen Sie rutschfeste Schuhe für den Ein- und Ausstieg.",
+              "Der Busbahnhof in Amalfi bietet kaum überdachte Warteplätze."
+            ],
+            "hu": [
+              "A SITA buszok esőben zsúfoltak lehetnek; számoljon várakozással.",
+              "Vegye meg a jegyet előre, a buszon nem árusítanak.",
+              "A busz ablakai esőben erősen párásodhatnak.",
+              "Viseljen csúszásmentes cipőt a fel- és leszálláshoz.",
+              "Az amalfi buszpályaudvaron kevés a fedett várakozóhely."
+            ],
+            "ro": [
+              "Autobuzele SITA pot fi aglomerate pe ploaie; planificați așteptarea.",
+              "Cumpărați bilete în avans, nu se vând în autobuz.",
+              "Geamurile autobuzului se pot aburi puternic când plouă.",
+              "Purtați încălțăminte aderentă pentru urcare și coborâre.",
+              "Autogara din Amalfi are puține locuri de așteptare acoperite."
+            ],
+            "en": [
+              "SITA buses can be crowded during rain; plan for wait times.",
+              "Buy tickets in advance; they are not sold on the bus.",
+              "Bus windows can fog up heavily when it rains.",
+              "Wear non-slip shoes for boarding and alighting.",
+              "The Amalfi bus station has few covered waiting areas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit öffentlichen Verkehrsmitteln ist entspannt, da die Busse pünktlicher sind. Am Morgen genießen wir die Leere am Dom. Mittags ist das Papiermuseum mit dem Shuttle leicht erreichbar. Die Smaragdgrotte ist ein stiller Rückzugsort. Nachmittags bietet die Busfahrt entlang der Küste beste Sicht ohne beschlagene Scheiben. Der Tag endet am Busbahnhof von Amalfi mit Blick auf die winterliche See.",
+            "hu": "A téli tömegközlekedési nap nyugodt, mert a buszok pontosabbak. Reggel élvezzük az ürességet a dómnál. Délben a Papírmúzeum könnyen elérhető az ingajárattal. A Smaragd-barlang csendes menedék. Délután a buszozás a part mentén remek kilátást nyújt páramentes ablakokkal. A nap az amalfi buszpályaudvaron zárul, a téli tengerre nézve.",
+            "ro": "O zi de iarnă cu transportul public este relaxată, autobuzele fiind mai punctuale. Dimineața ne bucurăm de liniștea de la Dom. La prânz, Muzeul Hârtiei este accesibil cu microbuzul. Grotta dello Smeraldo este un refugiu tăcut. După-amiaza, drumul cu autobuzul oferă vederi superbe fără geamuri aburite. Ziua se încheie la autogara Amalfi, cu privirea spre marea de iarnă.",
+            "en": "A winter day with public transport is relaxed as buses are more punctual. In the morning, we enjoy the emptiness at the Cathedral. At noon, the Paper Museum is easily accessible by shuttle. The Emerald Grotto is a quiet retreat. In the afternoon, the bus ride along the coast offers great views without fogged-up windows. The day ends at the Amalfi bus station, looking out at the winter sea."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Duomo",
+              "tip_5lang": {
+                "de": "Im Winter gibt es keine langen Schlangen an den Haltestellen.",
+                "hu": "Télen nincsenek hosszú sorok a megállókban.",
+                "ro": "Iarna nu sunt cozi lungi la stațiile de autobuz.",
+                "en": "There are no long queues at the bus stops in winter."
+              }
+            },
+            {
+              "name": "Amalfi Cathedral",
+              "tip_5lang": {
+                "de": "Die Cafés in der Nähe haben oft Heizstrahler im Außenbereich.",
+                "hu": "A közeli kávézókban gyakran vannak kültéri hősugárzók.",
+                "ro": "Cafenelele din apropiere au adesea radiatoare la exterior.",
+                "en": "Nearby cafes often have outdoor heaters."
+              }
+            },
+            {
+              "name": "Paper Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan der lokalen Linien.",
+                "hu": "Ellenőrizze a helyi járatok téli menetrendjét.",
+                "ro": "Verificați orarul de iarnă al liniilor locale.",
+                "en": "Check the winter schedule of the local lines."
+              }
+            },
+            {
+              "name": "Grotta dello Smeraldo",
+              "tip_5lang": {
+                "de": "Der Busverkehr ist seltener; Rückfahrt genau planen.",
+                "hu": "A buszjárat ritkább; pontosan tervezze meg a visszautat.",
+                "ro": "Autobuzele sunt mai rare; planificați exact întoarcerea.",
+                "en": "Bus service is less frequent; plan your return carefully."
+              }
+            },
+            {
+              "name": "Spiaggia Grande di Amalfi",
+              "tip_5lang": {
+                "de": "Die letzte Fähre fährt im Winter oft schon am Nachmittag.",
+                "hu": "Az utolsó komp télen gyakran már délután elindul.",
+                "ro": "Ultimul feribot pleacă adesea după-amiaza iarna.",
+                "en": "The last ferry often departs in the afternoon in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Winterfahrplan der SITA-Busse ist stark reduziert.",
+              "Fähren fahren im Winter nur selten und bei gutem Wetter.",
+              "Die Busse sind im Winter angenehm beheizt.",
+              "Nutzen Sie die UnicoCostiera-App für Echtzeit-Informationen.",
+              "Abends sind die Wartezeiten an den Haltestellen kühler."
+            ],
+            "hu": [
+              "A SITA buszok téli menetrendje jelentősen ritkább.",
+              "A kompok télen ritkán és csak jó időben járnak.",
+              "A buszok télen kellemesen fűtöttek.",
+              "Használja az UnicoCostiera alkalmazást valós idejű infókért.",
+              "Este a várakozási idő a megállókban hűvösebb lehet."
+            ],
+            "ro": [
+              "Orarul de iarnă al autobuzelor SITA este mult redus.",
+              "Feriboturile circulă rar iarna și doar pe vreme bună.",
+              "Autobuzele sunt încălzite plăcut în timpul iernii.",
+              "Folosiți aplicația UnicoCostiera pentru informații în timp real.",
+              "Seara, timpul de așteptare în stații poate fi destul de rece."
+            ],
+            "en": [
+              "The winter schedule for SITA buses is significantly reduced.",
+              "Ferries run rarely in winter and only in good weather.",
+              "Buses are pleasantly heated in winter.",
+              "Use the UnicoCostiera app for real-time information.",
+              "Waiting times at stops can be quite chilly in the evening."
+            ]
+          }
+        }
       }
     }
   },

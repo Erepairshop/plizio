@@ -343,6 +343,474 @@
           "Book restaurant tables in Marina Grande in advance.",
           "Visit Vallone dei Mulini in the morning for the best photo light."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ihr Morgen beginnt auf der belebten Piazza Tasso, dem Herzen von Sorrent. Nach einem schnellen Espresso spazieren Sie zum Vallone dei Mulini, einer faszinierenden, von Pflanzen überwucherten Schlucht mitten in der Stadt. Danach erkunden Sie die historische Kathedrale mit ihren kunstvollen Holzarbeiten.\n\nMittags tauchen Sie in die Stille des Kreuzgangs von San Francesco ein. Von der angrenzenden Villa Comunale genießen Sie den spektakulären Panoramablick über den Golf von Neapel bis hin zum Vesuv, bevor Sie langsam Richtung Meer hinabsteigen.\n\nDer Nachmittag gehört dem malerischen Fischerdorf Marina Grande. Hier scheint die Zeit stehen geblieben zu sein. Genießen Sie ein ausgiebiges Mittagessen mit Meeresfrüchten direkt am Wasser und lassen Sie die Seele bei einem Spaziergang am Strand baumeln.\n\nZum Ausklang des Tages kehren Sie ins Zentrum zurück und besuchen die Basilica di Sant'Antonino. Schlendern Sie durch die engen Gassen der Altstadt, die nun im warmen Abendlicht erstrahlen, und suchen Sie sich ein Souvenir aus handgefertigter Keramik oder Intarsienkunst.",
+            "hu": "A reggel a nyüzsgő Piazza Tasso-n, Sorrento szívében indul. Egy gyors eszpresszó után sétáljon el a Vallone dei Mulini-hoz, amely egy buja növényzettel benőtt, misztikus szurdok a város közepén. Ezután fedezze fel a történelmi katedrálist és annak fafaragványait.\n\nDélben merüljön el a Szent Ferenc kolostor csendjében. A szomszédos Villa Comunale parkból lélegzetelállító panoráma nyílik a Nápolyi-öbölre és a Vezúvra. Innen lassú sétával ereszkedjen le a tengerpart felé.\n\nA délutánt a festői Marina Grande halászfaluban töltjük. Itt megállt az idő: élvezze a friss tengeri ételekből álló ebédet közvetlenül a vízparton, majd pihenjen a strandon a színes csónakok között.\n\nA nap végén térjen vissza a központba, és látogassa meg a Szent Antonino-bazilikát. Sétáljon végig az óváros szűk utcáin, amelyek az esti fényekben kelnek igazán életre, és válogasson a helyi kézműves kerámiák vagy intarziás dobozok között.",
+            "ro": "Dimineața începe în efervescenta Piazza Tasso, inima orașului Sorrento. După un espresso rapid, mergeți spre Vallone dei Mulini, o vale fascinantă acoperită de vegetație luxuriantă chiar în centrul orașului. Apoi, explorați catedrala istorică cu detaliile sale sculptate în lemn.\n\nLa prânz, relaxați-vă în liniștea mănăstirii San Francesco. Din parcul adiacent Villa Comunale, vă puteți bucura de o panoramă spectaculoasă asupra Golfului Napoli și a Vezuviului, înainte de a coborî ușor spre malul mării.\n\nDupă-amiaza este dedicată pitorescului sat de pescari Marina Grande. Aici timpul pare că a stat în loc; savurați un prânz cu fructe de mare proaspete chiar lângă apă și relaxați-vă pe plajă printre bărcile colorate.\n\nSpre seară, reveniți în centru pentru a vizita Basilica di Sant'Antonino. Plimbați-vă pe străduțele înguste ale centrului vechi, care strălucesc în lumina caldă a apusului, și căutați un suvenir local din ceramică sau marchetărie.",
+            "en": "Your morning starts at the bustling Piazza Tasso, the heart of Sorrento. After a quick espresso, walk to the Vallone dei Mulini, a fascinating plant-covered gorge in the middle of town. Then, explore the historic Cathedral with its intricate woodwork.\n\nAt midday, immerse yourself in the tranquility of the Cloister of San Francesco. From the adjacent Villa Comunale park, enjoy spectacular panoramic views over the Gulf of Naples to Mount Vesuvius before descending towards the sea.\n\nThe afternoon belongs to the picturesque fishing village of Marina Grande. Time seems to stand still here; enjoy a long seafood lunch right by the water and relax on the beach among the colorful wooden boats.\n\nTo end the day, return to the center and visit the Basilica di Sant'Antonino. Stroll through the narrow alleys of the old town, now glowing in the warm evening light, and pick out a handmade ceramic or marquetry souvenir."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza Tasso",
+                "hu": "Piazza Tasso",
+                "ro": "Piazza Tasso",
+                "en": "Piazza Tasso"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen Espresso in der Bar Fauno.",
+                "hu": "Igyon meg egy eszpresszót a Bar Fauno teraszán.",
+                "ro": "Savurați un espresso la Bar Fauno.",
+                "en": "Enjoy an espresso at the iconic Bar Fauno."
+              }
+            },
+            {
+              "name": {
+                "de": "Vallone dei Mulini",
+                "hu": "Vallone dei Mulini",
+                "ro": "Vallone dei Mulini",
+                "en": "Deep Valley of the Mills"
+              },
+              "tip_5lang": {
+                "de": "Blick von der Brücke in die begrünte Schlucht.",
+                "hu": "Nézzen le a hídról a buja, zöld szakadékba.",
+                "ro": "Priviți de pe pod în valea adâncă și verde.",
+                "en": "Look down from the bridge into the lush green chasm."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale von Sorrent",
+                "hu": "Sorrentói székesegyház",
+                "ro": "Catedrala din Sorrento",
+                "en": "Sorrento Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Intarsienarbeiten am Chorgestühl.",
+                "hu": "Csodálja meg a kórusülés intarziás díszítését.",
+                "ro": "Admirați lucrările de intarsie de pe scaunele corului.",
+                "en": "Admire the detailed marquetry work on the choir stalls."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiostro di San Francesco",
+                "hu": "Szent Ferenc kolostor",
+                "ro": "Chiostro di San Francesco",
+                "en": "Cloister of San Francesco"
+              },
+              "tip_5lang": {
+                "de": "Ein Oase der Ruhe mit wunderschönen Arkaden.",
+                "hu": "A nyugalom oázisa gyönyörű boltívekkel.",
+                "ro": "O oază de liniște cu arcade superbe.",
+                "en": "An oasis of peace with beautiful medieval arches."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Comunale",
+                "hu": "Villa Comunale park",
+                "ro": "Parcul Villa Comunale",
+                "en": "Villa Comunale"
+              },
+              "tip_5lang": {
+                "de": "Der beste Fotospot für den Blick auf den Vesuv.",
+                "hu": "A legjobb fotóhely a Vezúvra nyíló kilátáshoz.",
+                "ro": "Cel mai bun loc pentru fotografii cu Vezuviul.",
+                "en": "The best photo spot for views of Mount Vesuvius."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Grande",
+                "hu": "Marina Grande",
+                "ro": "Marina Grande",
+                "en": "Marina Grande"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie frischen Fisch direkt am Hafen.",
+                "hu": "Kóstoljon friss halat közvetlenül a kikötőben.",
+                "ro": "Gustați pește proaspăt chiar în port.",
+                "en": "Try fresh fish directly at the fishing harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica di Sant'Antonino",
+                "hu": "Szent Antonino-bazilika",
+                "ro": "Basilica di Sant'Antonino",
+                "en": "Basilica di Sant'Antonino"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Krypta des Schutzpatrons.",
+                "hu": "Látogassa meg a védőszent kriptáját.",
+                "ro": "Vizitați cripta sfântului patron al orașului.",
+                "en": "Visit the crypt of the city's patron saint."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gnocchi alla Sorrentina",
+                "tip": "Probieren Sie den Klassiker bei 'O Parrucchiano La Favorita'."
+              },
+              {
+                "name": "Limoncello di Sorrento",
+                "tip": "Ein Muss nach dem Essen, hergestellt aus lokalen Zitronen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gnocchi alla Sorrentina",
+                "tip": "Kóstolja meg az eredetit az 'O Parrucchiano La Favorita' étteremben."
+              },
+              {
+                "name": "Sorrentói Limoncello",
+                "tip": "Kötelező digestif a helyi citromból készült likőr."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gnocchi alla Sorrentina",
+                "tip": "Încercați rețeta originală la 'O Parrucchiano La Favorita'."
+              },
+              {
+                "name": "Limoncello de Sorrento",
+                "tip": "Un digestiv obligatoriu, făcut din lămâile locale uriașe."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gnocchi alla Sorrentina",
+                "tip": "Try the classic dish at the historic 'O Parrucchiano La Favorita'."
+              },
+              {
+                "name": "Sorrento Limoncello",
+                "tip": "A must-try after-dinner liqueur made from local lemons."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Villa Comunale",
+                "tip": "Panoramablick auf den Vesuv.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Chiostro di San Francesco",
+                "tip": "Stiller mittelalterlicher Kreuzgang.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Villa Comunale",
+                "tip": "Panorámás kilátás a Vezúvra.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Szent Ferenc kolostor",
+                "tip": "Csendes középkori kerengő.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Villa Comunale",
+                "tip": "Vedere panoramică spre Vezuviu.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Chiostro di San Francesco",
+                "tip": "Mănăstire medievală liniștită.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Villa Comunale",
+                "tip": "Panoramic sunset views over Vesuvius.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "San Francesco Cloister",
+                "tip": "Quiet medieval courtyard.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Corso Italia",
+                "tip": "Die Haupteinkaufsstraße für Mode und lokale Produkte."
+              },
+              {
+                "name": "Via San Cesareo",
+                "tip": "Enge Gasse mit Kunsthandwerk und Zitronenspezialitäten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Corso Italia",
+                "tip": "A fő bevásárlóutca divatárukkal és helyi termékekkel."
+              },
+              {
+                "name": "Via San Cesareo",
+                "tip": "Szűk utca kézműves termékekkel és citromos finomságokkal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Corso Italia",
+                "tip": "Strada principală pentru cumpărături și produse locale."
+              },
+              {
+                "name": "Via San Cesareo",
+                "tip": "Uliță îngustă cu artizanat și produse din lămâie."
+              }
+            ],
+            "en": [
+              {
+                "name": "Corso Italia",
+                "tip": "The main shopping street for fashion and local goods."
+              },
+              {
+                "name": "Via San Cesareo",
+                "tip": "Narrow alley full of crafts and lemon specialties."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die Treppen nach Marina Grande.",
+              "Nutzen Sie den Aufzug bei der Villa Comunale zum Hafen.",
+              "Buchen Sie Restauranttische in Marina Grande vorab.",
+              "Besuchen Sie den Vallone dei Mulini morgens für das beste Licht."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a Marina Grande felé vezető lépcsőkhöz.",
+              "Használja a Villa Comunale melletti liftet a kikötőbe jutáshoz.",
+              "Érdemes előre asztalt foglalni a Marina Grande éttermeiben.",
+              "A Vallone dei Mulini-t reggel érdemes fotózni a fények miatt."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru treptele spre Marina Grande.",
+              "Folosiți liftul de lângă Villa Comunale pentru a ajunge în port.",
+              "Rezervați din timp o masă la restaurantele din Marina Grande.",
+              "Vizitați Vallone dei Mulini dimineața pentru cea mai bună lumină."
+            ],
+            "en": [
+              "Wear comfortable shoes for the stairs down to Marina Grande.",
+              "Use the elevator at Villa Comunale to get to the port level.",
+              "Book restaurant tables in Marina Grande in advance.",
+              "Visit Vallone dei Mulini in the morning for the best photo light."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt auf der Piazza Tasso, wo sich die historischen Fassaden unter Ihrem Regenschirm im nassen Kopfsteinpflaster spiegeln. Das Tal der Mühlen wirkt im Nebel besonders üppig und mystisch.\n\nMittags suchen Sie Schutz in der Kathedrale von Sorrent und im Kreuzgang von San Francesco. Die kunstvollen Holzarbeiten bieten einen perfekten trockenen Rückzugsort.\n\nAm Nachmittag besuchen Sie die Villa Comunale für einen kurzen Blick auf die Bucht und steigen dann zur Marina Grande ab. Suchen Sie sich ein überdachtes Restaurant am Meer.\n\nDer Abend endet in der Basilica di Sant'Antonino. Das warme Licht im Inneren bietet einen gemütlichen Abschluss für Ihre verregnete Erkundungstour.",
+            "hu": "A reggel a Piazza Tasso téren indul, ahol a vizes macskakövek tükrözik a történelmi homlokzatokat az esernyőnk alatt. A Malmok Völgye különösen buja és misztikus látványt nyújt a párában.\n\nDélben keressen menedéket a Sorrentói Székesegyházban és a San Francesco kolostorban. Az intarziás famunkák tökéletes száraz menedéket nyújtanak a városnézéshez.\n\nDélután látogasson el a Villa Comunale parkba egy gyors kilátásért, majd ereszkedjen le Marina Grandéba. Keressen egy fedett vízparti éttermet a kikötőben.\n\nAz este a Basilica di Sant'Antonino falai között zárul. A belső tér meleg fényei vigasztaló lezárást kínálnak az esős felfedezéshez.",
+            "ro": "Dimineața începe în Piazza Tasso, unde pavajul umed reflectă fațadele istorice sub umbrela dumneavoastră. Valea Morilor arată deosebit de luxuriantă și mistică în ceață.\n\nLa prânz, căutați adăpost în Catedrala din Sorrento și în Chilia San Francesco. Lucrările în lemn oferă un sanctuar uscat perfect pentru explorare.\n\nDupă-amiaza, mergeți la Villa Comunale pentru o vedere rapidă asupra golfului, apoi coborâți la Marina Grande. Găsiți un restaurant acoperit la malul mării.\n\nSeara se încheie la Basilica di Sant'Antonino. Lumina caldă din interior oferă un final reconfortant explorării ploiase.",
+            "en": "Morning begins at Piazza Tasso, where the wet cobblestones reflect the historical facades under your umbrella. The Deep Valley of the Mills looks particularly lush and mystical in the mist.\n\nAt noon, seek shelter in the Sorrento Cathedral and the Cloister of San Francesco. The intricate woodwork provides a perfect dry sanctuary while you admire the art.\n\nBy afternoon, head to Villa Comunale for a quick view of the Bay, then descend to Marina Grande. The fishing harbor is moody; find a cozy, covered seaside restaurant.\n\nEvening concludes at the Basilica di Sant'Antonino. The warm interior light offers a comforting end to your rainy exploration of Sorrento’s history."
+          },
+          "stops": [
+            {
+              "name": "Piazza Tasso",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Pflaster; die Cafés am Rand bieten trockene Sitzplätze.",
+                "hu": "Vigyázzon a csúszós köveken; a széli kávézók fedett teraszokat kínálnak.",
+                "ro": "Atenție la pavajul alunecos; cafenelele de pe margine oferă locuri uscate.",
+                "en": "Careful on slippery stones; cafés around the edge offer dry seating."
+              }
+            },
+            {
+              "name": "Deep Valley of the Mills",
+              "tip_5lang": {
+                "de": "Der Blick von der Brücke ist bei Regen durch das satte Grün noch beeindruckender.",
+                "hu": "A hídról nyíló kilátás esőben a buja zöld növényzet miatt még lenyűgözőbb.",
+                "ro": "Vederea de pe pod este și mai impresionantă în ploaie datorită verdelui intens.",
+                "en": "The view from the bridge is even more impressive in rain due to the lush greenery."
+              }
+            },
+            {
+              "name": "Sorrento Cathedral",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen Regenschauer abzuwarten und die Intarsien zu bewundern.",
+                "hu": "Ideális hely egy zápor megvárására és az intarziák megcsodálására.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse și pentru a admira incrustațiile.",
+                "en": "An ideal place to wait out a shower and admire the marquetry."
+              }
+            },
+            {
+              "name": "Cloister of San Francesco",
+              "tip_5lang": {
+                "de": "Die Bogengänge bieten guten Schutz vor leichtem Nieselregen.",
+                "hu": "Az árkádos folyosók jó védelmet nyújtanak az enyhe szemerkélő eső ellen.",
+                "ro": "Coridoarele cu arcade oferă o protecție bună împotriva burniței ușoare.",
+                "en": "The arched walkways provide good protection from light drizzle."
+              }
+            },
+            {
+              "name": "Villa Comunale",
+              "tip_5lang": {
+                "de": "Bei starkem Wind kann es hier ungemütlich werden; halten Sie sich am Geländer fest.",
+                "hu": "Erős szélben kellemetlen lehet; kapaszkodjon meg a korlátban a kilátónál.",
+                "ro": "Poate fi neplăcut pe vânt puternic; țineți-vă de balustradă la punctul de belvedere.",
+                "en": "Can be unpleasant in strong wind; hold onto the railing at the viewpoint."
+              }
+            },
+            {
+              "name": "Marina Grande",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit festem Dach statt Markisen für maximale Trockenheit.",
+                "hu": "Válasszon szilárd tetős éttermet a napellenzős helyett a maximális szárazságért.",
+                "ro": "Alegeți un restaurant cu acoperiș fix în locul copertinelor pentru uscare maximă.",
+                "en": "Choose a restaurant with a solid roof instead of awnings for maximum dryness."
+              }
+            },
+            {
+              "name": "Basilica di Sant'Antonino",
+              "tip_5lang": {
+                "de": "Ein ruhiger und warmer Ort, um den Tag entspannt ausklingen zu lassen.",
+                "hu": "Csendes és meleg hely, ahol nyugodtan zárhatja a napot.",
+                "ro": "Un loc liniștit és cald unde puteți încheia ziua relaxat.",
+                "en": "A quiet and warm place to end the day in a relaxed manner."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil für die glatten Marmorstufen.",
+              "Ein stabiler Sturmschirm ist wegen der Meeresbrise besser als ein Knirps.",
+              "Nutzen Sie die Kirchen als kostenlose und kulturell reiche Regenschutzräume.",
+              "Die Steinmauern in den engen Gassen bieten oft Schutz vor Windböen."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt a csúszós márványlépcsők miatt.",
+              "A tengeri szél miatt egy stabilabb esernyő jobb választás, mint az összecsukható.",
+              "Használja a templomokat ingyenes és kulturálisan gazdag esőmenedékként.",
+              "A szűk utcák kőfalai gyakran védelmet nyújtanak a széllökések ellen."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună pentru treptele de marmură alunecoase.",
+              "O umbrelă stabilă este mai bună decât una pliabilă din cauza brizei marine.",
+              "Folosiți bisericile ca adăposturi gratuite și bogate cultural împotriva ploii.",
+              "Zidurile de piatră din străzile înguste oferă adesea protecție împotriva vântului."
+            ],
+            "en": [
+              "Wear shoes with good grip for the slippery marble steps.",
+              "A sturdy umbrella is better than a foldable one due to the sea breeze.",
+              "Use the churches as free and culturally rich rain shelters.",
+              "The stone walls in the narrow streets often provide protection from wind gusts."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Morgenluft an der Piazza Tasso ist klar und belebend. Ohne die Sommermassen wirkt das Herz der Stadt intim und authentisch.\n\nGegen Mittag beleuchtet die tief stehende Wintersonne das Tal der Mühlen und die Kathedrale. Die kühleren Temperaturen machen den Spaziergang angenehm.\n\nDer Nachmittag führt zur Villa Comunale, wo das Winterlicht eine goldene Stunde über dem Golf von Neapel zaubert. Die Marina Grande ist nun herrlich friedlich.\n\nDa es früh dunkel wird, kehren Sie ins Zentrum zurück. Die Straßen sind oft festlich beleuchtet und die Stadt versprüht einen magischen Charme.",
+            "hu": "A reggeli levegő friss és élénkítő a Piazza Tasso téren. A nyári tömeg nélkül a város szíve bensőségesnek és hitelesnek tűnik.\n\nDél körül az alacsonyan járó téli nap megvilágítja a Malmok Völgyét és a Székesegyházat. A hűvösebb idő kellemessé teszi a sétát.\n\nA délután a Villa Comunale-hoz vezet, ahol a téli fények aranyórát varázsolnak a Nápolyi-öböl fölé. Marina Grande ilyenkor csodálatosan békés.\n\nMivel korán sötétedik, térjen vissza a központba. Az utcák gyakran ünnepi díszben úsznak, és a város mágikus bájt áraszt.",
+            "ro": "Aerul dimineții este proaspăt și revigorant în Piazza Tasso. Fără mulțimile de vară, inima orașului pare intimă și autentică.\n\nÎn jurul prânzului, soarele jos de iarnă luminează Valea Morilor și Catedrala. Temperaturile mai scăzute fac plimbarea foarte plăcută.\n\nDupă-amiaza vă duce la Villa Comunale, unde lumina de iarnă creează o oră de aur peste Golful Napoli. Marina Grande este acum minunat de liniștită.\n\nDeoarece se întunecă devreme, reveniți în centru. Străzile sunt adesea iluminate festiv, iar orașul emană un farmec magic.",
+            "en": "Morning air is crisp and invigorating at Piazza Tasso. Without the summer crowds, the heart of the city feels intimate and authentic.\n\nAround midday, the low winter sun illuminates the Deep Valley of the Mills and the Cathedral. The cooler temperatures make the walk pleasant.\n\nAfternoon brings you to Villa Comunale, where the winter light creates a golden hour over the Gulf of Naples. Marina Grande is wonderfully peaceful now.\n\nAs evening falls early, return to the center. The streets are often decorated with seasonal lights, and the town takes on a magical, quiet charm."
+          },
+          "stops": [
+            {
+              "name": "Piazza Tasso",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Espresso im Stehen, um sich wie ein Einheimischer aufzuwärmen.",
+                "hu": "Igyon meg egy forró eszpresszót állva, hogy úgy melegedjen fel, mint a helyiek.",
+                "ro": "Savurați un espresso fierbinte în picioare pentru a vă încălzi ca un localnic.",
+                "en": "Enjoy a hot espresso standing up to warm up like a local."
+              }
+            },
+            {
+              "name": "Deep Valley of the Mills",
+              "tip_5lang": {
+                "de": "Die fehlenden Blätter an einigen Bäumen geben den Blick auf die Ruinen besser frei.",
+                "hu": "A fák ritkább lombkoronája télen jobb rálátást enged a romokra.",
+                "ro": "Lipsa frunzișului unor copaci oferă o vedere mai clară asupra ruinelor.",
+                "en": "The lack of foliage on some trees gives a clearer view of the ruins."
+              }
+            },
+            {
+              "name": "Sorrento Cathedral",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Weihnachtskrippe, die oft bis weit in den Januar hinein ausgestellt ist.",
+                "hu": "Nézze meg a karácsonyi jászlat, amelyet gyakran január végéig kiállítanak.",
+                "ro": "Vizitați ieslea de Crăciun, care este adesea expusă până târziu în ianuarie.",
+                "en": "Visit the Christmas nativity scene, often displayed well into January."
+              }
+            },
+            {
+              "name": "Cloister of San Francesco",
+              "tip_5lang": {
+                "de": "Die Stille des Winters verstärkt die spirituelle Atmosphäre dieses Ortes.",
+                "hu": "A téli csend felerősíti ennek a helynek a spirituális hangulatát.",
+                "ro": "Liniștea iernii accentuează atmosfera spirituală a acestui loc.",
+                "en": "The silence of winter enhances the spiritual atmosphere of this place."
+              }
+            },
+            {
+              "name": "Villa Comunale",
+              "tip_5lang": {
+                "de": "Der beste Ort für den Sonnenuntergang, der im Winter bereits gegen 16:45 Uhr stattfindet.",
+                "hu": "A legjobb hely a naplemente megtekintéséhez, ami télen már 16:45 körül bekövetkezik.",
+                "ro": "Cel mai bun loc pentru apus, care iarna are loc deja în jurul orei 16:45.",
+                "en": "The best place for the sunset, which in winter occurs as early as 16:45."
+              }
+            },
+            {
+              "name": "Marina Grande",
+              "tip_5lang": {
+                "de": "Viele Boote liegen an Land; ein seltener Anblick für Sommerbesucher.",
+                "hu": "Sok csónak a parton pihen; ritka látvány a nyári látogatók számára.",
+                "ro": "Multe bărci sunt trase la mal; o priveliște rară pentru vizitatorii de vară.",
+                "en": "Many boats are pulled up on shore; a rare sight for summer visitors."
+              }
+            },
+            {
+              "name": "Basilica di Sant'Antonino",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Votivgaben in der Krypta in aller Ruhe ohne Drängelei.",
+                "hu": "Csodálja meg a kriptában lévő fogadalmi ajándékokat nyugodtan, lökdösődés nélkül.",
+                "ro": "Admirați ofrandele votive din criptă în liniște, fără îmbulzeală.",
+                "en": "Admire the votive offerings in the crypt in peace without the crowds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip für den Wechsel zwischen Sonne und Schatten.",
+              "Beachten Sie die verkürzten Öffnungszeiten einiger kleinerer Geschäfte.",
+              "Die Sonne wärmt mittags noch gut, aber sobald sie weg ist, wird es kühl.",
+              "Probieren Sie saisonale Spezialitäten wie heiße Kastanien oder Panettone."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a napos és árnyékos helyek közötti hőmérséklet-különbség miatt.",
+              "Ügyeljen a kisebb üzletek rövidített téli nyitvatartására.",
+              "A nap délben még jól melegít, de amint lemegy, hirtelen lehűl a levegő.",
+              "Kóstolja meg a szezonális különlegességeket, mint a sült gesztenye vagy a panettone."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru trecerea de la soare la umbră.",
+              "Rețineți programul redus al unor magazine mai mici pe timp de iarnă.",
+              "Soarele încălzește bine la prânz, dar se răcește brusc imediat ce apune.",
+              "Gustați specialitățile sezoniere, cum ar fi castanele coapte sau panettone."
+            ],
+            "en": [
+              "Dress in layers for the transition between sun and shade.",
+              "Note the shortened winter hours of some smaller shops.",
+              "The sun still warms well at noon, but it cools down quickly once it's gone.",
+              "Try seasonal specialties like roasted chestnuts or panettone."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -605,6 +1073,390 @@
           "A bike lock is mandatory.",
           "Take plenty of water with you."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens radeln Sie von der Piazza Tasso zum Museo Correale, um Kunst und Gärten zu genießen. Danach geht es entlang der Küstenstraße zur Villa Comunale.\n\nMittags führt die Tour hinunter zum malerischen Marina Grande für ein authentisches Fischer-Mittagessen.\n\nNachmittags steht das Highlight an: Eine Fahrt zu den Bagni della Regina Giovanna, einer versteckten Naturbucht mit römischen Ruinen.\n\nAbends endet die Tour am Hafen von Marina Piccola, wo Sie den Tag bei einer Brise Meerluft ausklingen lassen.",
+            "hu": "Reggel a Piazza Tassótól a Museo Correale-hoz tekerünk, ahol művészet és kertek várnak. Ezután a part mentén haladunk a Villa Comunale felé.\n\nDélben a túra levezet a festői Marina Grande-ba egy autentikus halászebédre.\n\nDélután jön a csúcspont: tekerés a Bagni della Regina Giovanna-hoz, egy rejtett természetes öbölhöz római romokkal.\n\nEste a túra a Marina Piccola kikötőjében ér véget, ahol élvezheti a tengeri szellőt.",
+            "ro": "Dimineața pedalați de la Piazza Tasso la Museo Correale pentru artă și grădini. Apoi mergeți pe drumul de coastă spre Villa Comunale.\n\nLa prânz, turul coboară spre pitoreasca Marina Grande pentru un prânz autentic pescăresc.\n\nDupă-amiaza urmează punctul culminant: o cursă până la Bagni della Regina Giovanna, o lagună naturală ascunsă cu ruine romane.\n\nSeara turul se încheie în portul Marina Piccola, unde vă puteți bucura de briza mării.",
+            "en": "Morning ride from Piazza Tasso to Museo Correale to enjoy art and gardens. Then cycle along the coast to Villa Comunale.\n\nAt midday, the tour leads down to the picturesque Marina Grande for an authentic fisherman's lunch.\n\nIn the afternoon, the highlight: a ride to Bagni della Regina Giovanna, a hidden natural lagoon with Roman ruins.\n\nIn the evening, the tour ends at Marina Piccola port, where you can enjoy the sea breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza Tasso",
+                "hu": "Piazza Tasso",
+                "ro": "Piazza Tasso",
+                "en": "Piazza Tasso"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt für Radtouren.",
+                "hu": "Ideális kiindulópont.",
+                "ro": "Punct de plecare ideal.",
+                "en": "Perfect starting point."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Correale",
+                "hu": "Museo Correale",
+                "ro": "Museo Correale",
+                "en": "Museo Correale"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Gärten.",
+                "hu": "Nézze meg a kerteket is.",
+                "ro": "Vizitați și grădinile.",
+                "en": "Visit the gardens too."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Comunale",
+                "hu": "Villa Comunale",
+                "ro": "Villa Comunale",
+                "en": "Villa Comunale"
+              },
+              "tip_5lang": {
+                "de": "Kurze Pause mit Aussicht.",
+                "hu": "Rövid pihenő kilátással.",
+                "ro": "Scurtă pauză cu vedere.",
+                "en": "Short break with a view."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Grande",
+                "hu": "Marina Grande",
+                "ro": "Marina Grande",
+                "en": "Marina Grande"
+              },
+              "tip_5lang": {
+                "de": "Fischspezialitäten genießen.",
+                "hu": "Halételek ebédre.",
+                "ro": "Pește proaspăt la prânz.",
+                "en": "Fresh fish for lunch."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni della Regina Giovanna",
+                "hu": "Bagni della Regina Giovanna",
+                "ro": "Bagni della Regina Giovanna",
+                "en": "Queen Giovanna's Baths"
+              },
+              "tip_5lang": {
+                "de": "Einzigartige Naturbucht.",
+                "hu": "Egyedülálló természetes öböl.",
+                "ro": "O lagună naturală unică.",
+                "en": "A unique natural lagoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Piccola",
+                "hu": "Marina Piccola",
+                "ro": "Marina Piccola",
+                "en": "Marina Piccola"
+              },
+              "tip_5lang": {
+                "de": "Hafentreiben beobachten.",
+                "hu": "Kikötői nyüzsgés.",
+                "ro": "Forfota din port.",
+                "en": "Port atmosphere."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pasta allo Scoglio",
+                "tip": "Frische Meeresfrüchte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pasta allo Scoglio",
+                "tip": "Friss tenger gyümölcsei tészta."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pasta allo Scoglio",
+                "tip": "Paste cu fructe de mare proaspete."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pasta allo Scoglio",
+                "tip": "Fresh seafood pasta."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Regina Giovanna",
+                "tip": "Naturbucht.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Regina Giovanna",
+                "tip": "Természetes öböl.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Regina Giovanna",
+                "tip": "Lagună naturală.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Regina Giovanna",
+                "tip": "Natural lagoon.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Limoncello Factory",
+                "tip": "Direktkauf."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Limoncello gyár",
+                "tip": "Vásárlás a forrásnál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fabrica de Limoncello",
+                "tip": "Cumpărați direct."
+              }
+            ],
+            "en": [
+              {
+                "name": "Limoncello Factory",
+                "tip": "Buy directly from the source."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Vorsicht im Stadtverkehr.",
+              "Die Straße zu Regina Giovanna ist teils steil.",
+              "Fahrradschloss ist Pflicht.",
+              "Genügend Wasser mitnehmen."
+            ],
+            "hu": [
+              "Vigyázzon a városi forgalomban.",
+              "A Regina Giovanna felé vezető út helyenként meredek.",
+              "A kerékpárzár kötelező.",
+              "Vigyen magával elég vizet."
+            ],
+            "ro": [
+              "Atenție la traficul urban.",
+              "Drumul spre Regina Giovanna este parțial abrupt.",
+              "Antifurtul este obligatoriu.",
+              "Luați destulă apă cu voi."
+            ],
+            "en": [
+              "Be careful in city traffic.",
+              "The road to Regina Giovanna is partly steep.",
+              "A bike lock is mandatory.",
+              "Take plenty of water with you."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber leere Straßen. Starten Sie an der Piazza Tasso und radeln Sie zum Museo Correale.\n\nMittags bietet das Museum einen ausgiebigen trockenen Aufenthalt. Danach geht es weiter zur Villa Comunale.\n\nDer Nachmittag führt zur Marina Grande. Das Meeresrauschen mischt sich mit dem Prasseln des Regens auf Ihren Helm.\n\nZum Abschluss radeln Sie zu den Bädern der Königin Giovanna, bevor Sie den Tag an der Marina Piccola ausklingen lassen.",
+            "hu": "A kerékpározás az esőben óvatosságot igényel, de üres utakat kínál. Kezdjen a Piazza Tassónál, és tekerjen a Museo Correale-hoz.\n\nDélben a múzeum bőséges száraz tartózkodást biztosít. Ezután folytassa az utat a Villa Comunale felé.\n\nA délután Marina Grandéba vezet. A tenger zúgása keveredik az eső kopogásával a sisakján.\n\nVégezetül tekerjen el Regina Giovanna fürdőjéhez, mielőtt a napot Marina Piccolában zárná.",
+            "ro": "O plimbare cu bicicleta în ploaie necesită prudență, dar oferă străzi libere. Începeți în Piazza Tasso și pedalați spre Museo Correale.\n\nLa prânz, muzeul oferă un sejur uscat prelungit. Apoi continuați spre Villa Comunale.\n\nDupă-amiaza vă duce la Marina Grande. Sunetul mării se amestecă cu ropotul ploii pe casca dumneavoastră.\n\nLa final, pedalați spre Băile Reginei Giovanna înainte de a încheia ziua la Marina Piccola.",
+            "en": "A bike ride in the rain requires caution but offers empty streets. Start at Piazza Tasso and cycle to Museo Correale.\n\nAt noon, the museum offers an extensive dry stay. Then continue to Villa Comunale.\n\nAfternoon leads to Marina Grande. The sound of the sea mixes with the patter of rain on your helmet.\n\nFinally, cycle to Queen Giovanna's Baths before ending the day at Marina Piccola."
+          },
+          "stops": [
+            {
+              "name": "Piazza Tasso",
+              "tip_5lang": {
+                "de": "Meiden Sie die weißen Marmorstreifen; sie sind bei Nässe extrem rutschig.",
+                "hu": "Kerülje a fehér márványcsíkokat; nedvesen rendkívül csúszósak.",
+                "ro": "Evitați benzile de marmură albă; sunt extrem de alunecoase când sunt ude.",
+                "en": "Avoid the white marble strips; they are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Museo Correale",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich in der Nähe des Eingangs; nutzen Sie die Zeit im Trockenen.",
+                "hu": "Biztonságos kerékpártárolók találhatók a bejárat közelében; használja ki a száraz időt.",
+                "ro": "Suporturi de biciclete sigure se află lângă intrare; profitați de timpul petrecut la adăpost.",
+                "en": "Secure bike racks are near the entrance; take advantage of the dry time indoors."
+              }
+            },
+            {
+              "name": "Villa Comunale",
+              "tip_5lang": {
+                "de": "Der Boden kann schlammig sein; bleiben Sie auf den befestigten Wegen.",
+                "hu": "A talaj sáros lehet; maradjon a burkolt ösvényeken.",
+                "ro": "Solul poate fi noroios; rămâneți pe potecile pavate.",
+                "en": "The ground can be muddy; stay on the paved paths."
+              }
+            },
+            {
+              "name": "Marina Grande",
+              "tip_5lang": {
+                "de": "Der Abstieg ist steil; prüfen Sie Ihre Bremsen vor der Abfahrt im Regen.",
+                "hu": "A leereszkedés meredek; ellenőrizze a fékeket az esőben való indulás előtt.",
+                "ro": "Coborârea este abruptă; verificați frânele înainte de a pleca prin ploaie.",
+                "en": "The descent is steep; check your brakes before heading down in the rain."
+              }
+            },
+            {
+              "name": "Queen Giovanna's Baths",
+              "tip_5lang": {
+                "de": "Der Pfad zu den Ruinen ist unbefestigt und bei Regen rutschig; fahren Sie langsam.",
+                "hu": "A romokhoz vezető út nem burkolt és esőben csúszós; hajtson lassan.",
+                "ro": "Poteca spre ruine este nepavată și alunecoasă în ploaie; mergeți încet.",
+                "en": "The path to the ruins is unpaved and slippery in the rain; ride slowly."
+              }
+            },
+            {
+              "name": "Marina Piccola",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um das Fahrrad abzustellen und mit dem Aufzug ins Zentrum zurückzukehren.",
+                "hu": "Jó hely a bicikli leállítására, és lifttel való visszatérésre a központba.",
+                "ro": "Un loc bun pentru a lăsa bicicleta și a reveni în centru cu liftul.",
+                "en": "A good place to park the bike and return to the center via the elevator."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Bremsen Sie auf nassen Straßen früher und sanfter.",
+              "Tragen Sie eine gut sichtbare Regenjacke wegen der schlechteren Sicht.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können."
+            ],
+            "hu": [
+              "Használjon sárvédőt, hogy megvédje magát a felcsapódó víztől.",
+              "Vizes úton fékezzen korábban és finomabban.",
+              "Viseljen jól látható esőkabátot a rosszabb látási viszonyok miatt.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a vă proteja de stropi.",
+              "Frânați mai devreme și mai ușor pe drumurile ude.",
+              "Purtați o jachetă de ploaie vizibilă din cauza vizibilității reduse.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from splashes.",
+              "Brake earlier and more gently on wet roads.",
+              "Wear a highly visible rain jacket due to reduced visibility.",
+              "Avoid puddles as they can hide deep potholes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine belebende Fahrt in der Wintersonne. Starten Sie an der Piazza Tasso und genießen Sie die kühle Brise auf dem Weg zum Museo Correale.\n\nMittags wärmen Sie sich im Museum auf, während Sie die Aussicht auf den winterlichen Golf genießen.\n\nNachmittags radeln Sie zur Villa Comunale und zur Marina Grande. Das Licht ist perfekt für Fotos ohne Touristenmassen.\n\nBeenden Sie die Tour an den Bädern der Königin Giovanna und der Marina Piccola, bevor die Abendkühle einsetzt.",
+            "hu": "Élénkítő tekerés a téli napsütésben. Kezdjen a Piazza Tassónál, és élvezze a hűvös szellőt a Museo Correale felé vezető úton.\n\nDélben melegedjen fel a múzeumban, miközben a téli öbölre nyíló kilátásban gyönyörködik.\n\nDélután tekerjen el a Villa Comunale-hoz és Marina Grandéba. A fények tökéletesek a fotózáshoz tömeg nélkül.\n\nZárja a túrát Regina Giovanna fürdőjénél és Marina Piccolában, mielőtt beállna az esti hideg.",
+            "ro": "O plimbare revigorantă în soarele de iarnă. Începeți în Piazza Tasso și bucurați-vă de briza răcoroasă în drum spre Museo Correale.\n\nLa prânz, încălziți-vă în muzeu în timp ce admirați vederea asupra golfului iarna.\n\nDupă-amiaza, pedalați spre Villa Comunale și Marina Grande. Lumina este perfectă pentru fotografii fără mulțimi.\n\nÎncheiați turul la Băile Reginei Giovanna și Marina Piccola înainte de lăsarea frigului serii.",
+            "en": "An invigorating ride in the winter sun. Start at Piazza Tasso and enjoy the cool breeze on your way to Museo Correale.\n\nAt noon, warm up in the museum while enjoying the view of the winter bay.\n\nAfternoon leads to Villa Comunale and Marina Grande. The light is perfect for photos without the tourist crowds.\n\nFinish the tour at Queen Giovanna's Baths and Marina Piccola before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Piazza Tasso",
+              "tip_5lang": {
+                "de": "Trinken Sie einen schnellen Kaffee, um die Körpertemperatur vor dem Start zu halten.",
+                "hu": "Igyon egy gyors kávét, hogy fenntartsa testhőmérsékletét az indulás előtt.",
+                "ro": "Beți o cafea rapidă pentru a vă menține temperatura corpului înainte de start.",
+                "en": "Drink a quick coffee to maintain your body temperature before starting."
+              }
+            },
+            {
+              "name": "Museo Correale",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenraum für eine längere Pause vom Fahrtwind.",
+                "hu": "Használja a fűtött belső teret egy hosszabb pihenőre a menetszél után.",
+                "ro": "Folosiți interiorul încălzit pentru o pauză mai lungă de la vântul din timpul mersului.",
+                "en": "Use the heated interior for a longer break from the wind chill."
+              }
+            },
+            {
+              "name": "Villa Comunale",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne kann beim Fahren blenden; Sonnenbrille nicht vergessen.",
+                "hu": "Az alacsonyan járó nap vakíthat kerékpározás közben; ne felejtse el a napszemüveget.",
+                "ro": "Soarele jos poate fi orbitor în timpul mersului; nu uitați ochelarii de soare.",
+                "en": "The low sun can be blinding while riding; don't forget your sunglasses."
+              }
+            },
+            {
+              "name": "Marina Grande",
+              "tip_5lang": {
+                "de": "Am Wasser ist es deutlich kühler; eine zusätzliche Schicht Kleidung ist ratsam.",
+                "hu": "A vízparton jelentősen hűvösebb van; egy plusz réteg ruha tanácsos.",
+                "ro": "La malul mării este mult mai răcoare; se recomandă un strat suplimentar de haine.",
+                "en": "It is significantly cooler by the water; an extra layer of clothing is advisable."
+              }
+            },
+            {
+              "name": "Queen Giovanna's Baths",
+              "tip_5lang": {
+                "de": "Seien Sie vorsichtig auf den schattigen Abschnitten des Weges, dort hält sich die Kälte länger.",
+                "hu": "Legyen óvatos az út árnyékos szakaszain, ott tovább megmarad a hideg.",
+                "ro": "Fiți atenți pe secțiunile umbrite ale drumului, unde frigul persistă mai mult.",
+                "en": "Be careful on the shaded sections of the path; the cold lingers longer there."
+              }
+            },
+            {
+              "name": "Marina Piccola",
+              "tip_5lang": {
+                "de": "Die Fähren fahren seltener; prüfen Sie den Winterfahrplan für die Rückfahrt.",
+                "hu": "A kompok ritkábban járnak; ellenőrizze a téli menetrendet a visszatéréshez.",
+                "ro": "Feriboturile circulă mai rar; verificați programul de iarnă pentru retur.",
+                "en": "Ferries run less frequently; check the winter schedule for the return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe und eine Mütze unter dem Helm gegen den Fahrtwind.",
+              "Die Tage sind kurz; planen Sie Ihre Rückkehr vor 17:00 Uhr.",
+              "Trinken Sie ausreichend, auch wenn Sie weniger Durst verspüren als im Sommer.",
+              "Prüfen Sie den Reifendruck, da er bei Kälte sinken kann."
+            ],
+            "hu": [
+              "Viseljen kesztyűt és sapkát a sisak alatt a menetszél ellen.",
+              "A nappalok rövidek; tervezze meg a visszatérést 17:00 előtt.",
+              "Igyon eleget, még akkor is, ha kevésbé érzi magát szomjasnak, mint nyáron.",
+              "Ellenőrizze a guminyomást, mert a hidegben csökkenhet."
+            ],
+            "ro": [
+              "Purtați mănuși și o căciulă sub cască împotriva vântului.",
+              "Zilele sunt scurte; planificați-vă întoarcerea înainte de ora 17:00.",
+              "Beți suficiente lichide, chiar dacă simțiți mai puțină sete decât vara.",
+              "Verificați presiunea în anvelope, deoarece poate scădea la frig."
+            ],
+            "en": [
+              "Wear gloves and a hat under your helmet against the wind chill.",
+              "Days are short; plan your return before 17:00.",
+              "Drink enough fluids, even if you feel less thirsty than in summer.",
+              "Check tire pressure, as it can drop in the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -844,6 +1696,358 @@
           "Roads are narrow and winding.",
           "Find parking early in the morning."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens besuchen Sie das prachtvolle Museo Correale am Stadtrand von Sorrent, bevor Sie für einen kurzen Spaziergang ins Zentrum zur Piazza Tasso fahren.\n\nMittags steuern Sie Marina Grande an, um die maritime Atmosphäre und ein Meeresfrüchte-Mittagessen zu genießen.\n\nNachmittags geht es weiter zu den römischen Ruinen und der Naturbucht der Regina Giovanna, gefolgt von einer Panoramafahrt nach Massa Lubrense.\n\nAbends genießen Sie den Sonnenuntergang über der Bucht von Neapel, während Sie entlang der Küstenstraße zurückfahren.",
+            "hu": "Reggel látogasson el a pompás Museo Correale-ba Sorrento szélén, mielőtt a központba, a Piazza Tassóra hajtana egy rövid sétára.\n\nDélben Marina Grande felé vesszük az irányt, hogy élvezzük a tengeri hangulatot és a halászebédet.\n\nDélután a Regina Giovanna római romjaihoz és természetes öbléhez utazunk, majd egy panorámás autózás következik Massa Lubrense felé.\n\nEste élvezze a Nápolyi-öböl feletti naplementét, miközben a part menti úton visszatér.",
+            "ro": "Dimineața vizitați splendidul Museo Correale de la marginea orașului, înainte de a merge în centru la Piazza Tasso pentru o scurtă plimbare.\n\nLa prânz vă îndreptați spre Marina Grande pentru a vă bucura de atmosfera maritimă și de un prânz cu fructe de mare.\n\nDupă-amiaza mergeți spre ruinele romane și laguna naturală Regina Giovanna, urmată de o plimbare panoramică spre Massa Lubrense.\n\nSeara bucurați-vă de apusul peste Golful Napoli în timp ce conduceți pe drumul de coastă spre întoarcere.",
+            "en": "Morning visit to the magnificent Museo Correale on the outskirts of Sorrento before driving to the center, Piazza Tasso, for a short walk.\n\nAt midday, head towards Marina Grande to enjoy the maritime atmosphere and a seafood lunch.\n\nIn the afternoon, travel to the Roman ruins and natural lagoon of Regina Giovanna, followed by a panoramic drive to Massa Lubrense.\n\nIn the evening, enjoy the sunset over the Bay of Naples as you drive back along the coastal road."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Correale",
+                "hu": "Museo Correale",
+                "ro": "Museo Correale",
+                "en": "Museo Correale"
+              },
+              "tip_5lang": {
+                "de": "Eigener Parkplatz vorhanden.",
+                "hu": "Saját parkolója van.",
+                "ro": "Are parcare proprie.",
+                "en": "Has its own parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza Tasso",
+                "hu": "Piazza Tasso",
+                "ro": "Piazza Tasso",
+                "en": "Piazza Tasso"
+              },
+              "tip_5lang": {
+                "de": "Parkhaus 'Achille Lauro' nutzen.",
+                "hu": "Használja az 'Achille Lauro' parkolóházat.",
+                "ro": "Folosiți parcarea 'Achille Lauro'.",
+                "en": "Use the 'Achille Lauro' parking garage."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Grande",
+                "hu": "Marina Grande",
+                "ro": "Marina Grande",
+                "en": "Marina Grande"
+              },
+              "tip_5lang": {
+                "de": "Begrenzter Zugang, Parken schwierig.",
+                "hu": "Korlátozott behajtás, nehéz parkolás.",
+                "ro": "Acces limitat, parcare dificilă.",
+                "en": "Limited access, parking is difficult."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni della Regina Giovanna",
+                "hu": "Bagni della Regina Giovanna",
+                "ro": "Bagni della Regina Giovanna",
+                "en": "Queen Giovanna's Baths"
+              },
+              "tip_5lang": {
+                "de": "Parken an der Hauptstraße.",
+                "hu": "Parkolás a főúton.",
+                "ro": "Parcați la strada principală.",
+                "en": "Park on the main road."
+              }
+            },
+            {
+              "name": {
+                "de": "Massa Lubrense (Kirándulás)",
+                "hu": "Massa Lubrense (Kirándulás)",
+                "ro": "Massa Lubrense (Excursie)",
+                "en": "Massa Lubrense (Nearby Trip)"
+              },
+              "tip_5lang": {
+                "de": "Panoramablick auf Capri.",
+                "hu": "Panorámás kilátás Caprira.",
+                "ro": "Vedere panoramică spre Capri.",
+                "en": "Panoramic view of Capri."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Spaghetti alle Vongole",
+                "tip": "Frisch aus der Bucht."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Spagetti kagylóval",
+                "tip": "Frissen az öbölből."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Spaghetti alle Vongole",
+                "tip": "Proaspete din golf."
+              }
+            ],
+            "en": [
+              {
+                "name": "Spaghetti alle Vongole",
+                "tip": "Fresh from the bay."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Massa Lubrense",
+                "tip": "Blick auf Capri.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Massa Lubrense",
+                "tip": "Kilátás Caprira.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Massa Lubrense",
+                "tip": "Vedere spre Capri.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Massa Lubrense",
+                "tip": "View of Capri.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Inlaid Wood Shop",
+                "tip": "Hochwertige Intarsien."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Intarzia bolt",
+                "tip": "Minőségi fafaragványok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de marchetărie",
+                "tip": "Obiecte din lemn încrustat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Inlaid Wood Shop",
+                "tip": "High-quality marquetry."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Zentrum ist ZTL (verkehrsberuhigt).",
+              "Parkgebühren sind hoch.",
+              "Straßen sind eng und kurvig.",
+              "Morgens parken."
+            ],
+            "hu": [
+              "A központ ZTL (forgalomcsillapított övezet).",
+              "A parkolási díjak magasak.",
+              "Az utak szűkek és kanyargósak.",
+              "Érdemes reggel parkolóhelyet keresni."
+            ],
+            "ro": [
+              "Centrul este zonă ZTL (trafic limitat).",
+              "Taxele de parcare sunt mari.",
+              "Drumurile sunt înguste și sinuoase.",
+              "Căutați parcare dimineața devreme."
+            ],
+            "en": [
+              "The center is a ZTL (Restricted Traffic Zone).",
+              "Parking fees are high.",
+              "Roads are narrow and winding.",
+              "Find parking early in the morning."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Sorrent bequem und trocken. Beginnen Sie im Museo Correale, um den ersten Regenschauer im Inneren zu verbringen.\n\nMittags parken Sie in der Nähe der Piazza Tasso und genießen die Stadt ohne nass zu werden.\n\nNachmittags fahren Sie zur Marina Grande und später zu den Bädern der Königin Giovanna, wobei Sie die Aussicht aus dem warmen Auto genießen.\n\nDer Tag endet mit einer Panoramafahrt nach Massa Lubrense, wo Sie den Regen über dem Meer beobachten können.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Sorrentót. Kezdjen a Museo Correale-ban, hogy az első záporokat bent töltse.\n\nDélben parkoljon a Piazza Tasso közelében, és élvezze a várost anélkül, hogy elázna.\n\nDélután hajtson el Marina Grandéba, majd Regina Giovanna fürdőjéhez, élvezve a kilátást a meleg autóból.\n\nA nap egy panorámás úttal zárul Massa Lubrense felé, ahol megfigyelheti az esőt a tenger felett.",
+            "ro": "Cu mașina, explorați Sorrento confortabil și la uscat. Începeți la Museo Correale pentru a petrece primele averse în interior.\n\nLa prânz, parcați aproape de Piazza Tasso și bucurați-vă de oraș fără să vă udați.\n\nDupă-amiaza, conduceți spre Marina Grande și apoi spre Băile Reginei Giovanna, admirând vederea din mașina caldă.\n\nZiua se încheie cu o plimbare panoramică spre Massa Lubrense, unde puteți observa ploaia deasupra mării.",
+            "en": "Explore Sorrento comfortably and dry by car. Start at Museo Correale to spend the first rain showers indoors.\n\nAt noon, park near Piazza Tasso and enjoy the city without getting wet.\n\nAfternoon drives take you to Marina Grande and later to Queen Giovanna's Baths, enjoying the views from your warm car.\n\nThe day ends with a scenic drive to Massa Lubrense, where you can watch the rain over the sea."
+          },
+          "stops": [
+            {
+              "name": "Museo Correale",
+              "tip_5lang": {
+                "de": "Das Museum verfügt über einen eigenen Parkplatz; ideal bei schlechtem Wetter.",
+                "hu": "A múzeumnak saját parkolója van; ideális rossz idő esetén.",
+                "ro": "Muzeul are parcare proprie; ideal în caz de vreme rea.",
+                "en": "The museum has its own parking lot; ideal in bad weather."
+              }
+            },
+            {
+              "name": "Piazza Tasso",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Parcheggio Lauro' für einen kurzen, trockenen Weg ins Zentrum.",
+                "hu": "Használja a 'Parcheggio Lauro' parkolóházat a központba vezető rövid, száraz útért.",
+                "ro": "Folosiți parcarea 'Parcheggio Lauro' pentru un drum scurt și uscat spre centru.",
+                "en": "Use the 'Parcheggio Lauro' parking garage for a short, dry walk to the center."
+              }
+            },
+            {
+              "name": "Marina Grande",
+              "tip_5lang": {
+                "de": "Die Parkmöglichkeiten unten sind begrenzt; fahren Sie vorsichtig auf der schmalen Straße.",
+                "hu": "A lenti parkolási lehetőségek korlátozottak; vezessen óvatosan a szűk úton.",
+                "ro": "Locurile de parcare de jos sunt limitate; conduceți cu atenție pe drumul îngust.",
+                "en": "Parking options below are limited; drive carefully on the narrow road."
+              }
+            },
+            {
+              "name": "Queen Giovanna's Baths",
+              "tip_5lang": {
+                "de": "Vom Parkplatz oben ist es ein kurzer Fußweg; nehmen Sie Ihren Regenschirm mit.",
+                "hu": "A fenti parkolótól rövid séta vezet oda; vigye magával az esernyőjét.",
+                "ro": "De la parcarea de sus este o scurtă plimbare; luați umbrela cu dumneavoastră.",
+                "en": "It's a short walk from the parking lot above; take your umbrella with you."
+              }
+            },
+            {
+              "name": "Massa Lubrense (Nearby Trip)",
+              "tip_5lang": {
+                "de": "Die Küstenstraße bietet spektakuläre Ausblicke auf die aufgewühlte See.",
+                "hu": "A parti út látványos kilátást nyújt a felkorbácsolt tengerre.",
+                "ro": "Drumul de coastă oferă vederi spectaculoase asupra mării agitate.",
+                "en": "The coastal road offers spectacular views of the turbulent sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf beschlagene Scheiben; nutzen Sie die Klimaanlage zur Entfeuchtung.",
+              "Die Straßen können durch Öl und Regen rutschig sein.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche in der Nähe des Zentrums ein.",
+              "Vermeiden Sie Fahrten in die ZTL-Zonen (verdoppelte Aufmerksamkeit bei Regen)."
+            ],
+            "hu": [
+              "Ügyeljen a bepárásodott ablakokra; használja a légkondicionálót a párátlanításhoz.",
+              "Az utak az olaj és az eső miatt csúszósak lehetnek.",
+              "Tervezzen több időt a központ közeli parkolóhely keresésére.",
+              "Kerülje a behajtást a ZTL zónákba (esőben kettőzött figyelem)."
+            ],
+            "ro": [
+              "Atenție la geamurile aburite; folosiți aerul condiționat pentru dezaburire.",
+              "Drumurile pot fi alunecoase din cauza uleiului și a ploii.",
+              "Planificați mai mult timp pentru găsirea unui loc de parcare lângă centru.",
+              "Evitați intrarea în zonele ZTL (atenție sporită pe timp de ploaie)."
+            ],
+            "en": [
+              "Watch out for fogged windows; use the air conditioning for dehumidifying.",
+              "Roads can be slippery due to oil and rain.",
+              "Plan more time for finding parking near the center.",
+              "Avoid driving into ZTL zones (extra attention needed in the rain)."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Fahren in Sorrent entspannt. Starten Sie im Museo Correale und genießen Sie die Ruhe der Nebensaison.\n\nMittags ist es einfach, einen Parkplatz an der Piazza Tasso zu finden. Die Stadt ist klar und weitläufig.\n\nNachmittags führt die Fahrt zur Marina Grande und den Bädern der Königin Giovanna. Die Wintersonne steht tief und glitzert auf dem Wasser.\n\nBeenden Sie den Tag mit einer Fahrt nach Massa Lubrense, um den Sonnenuntergang über dem Horizont zu beobachten.",
+            "hu": "Télen a vezetés Sorrentóban pihentető. Kezdjen a Museo Correale-ban, és élvezze az utószezon nyugalmát.\n\nDélben könnyű parkolóhelyet találni a Piazza Tasso közelében. A város tiszta és tágas.\n\nDélután az út Marina Grandéba és Regina Giovanna fürdőjéhez vezet. A téli nap alacsonyan jár és csillog a vízen.\n\nZárja a napot egy utazással Massa Lubrense felé, hogy megcsodálja a naplementét a horizont felett.",
+            "ro": "Iarna, condusul în Sorrento este relaxant. Începeți la Museo Correale și bucurați-vă de liniștea din extrasezon.\n\nLa prânz este ușor să găsiți un loc de parcare la Piazza Tasso. Orașul este clar și aerisit.\n\nDupă-amiaza, drumul vă duce la Marina Grande și la Băile Reginei Giovanna. Soarele de iarnă este jos și strălucește pe apă.\n\nÎncheiați ziua cu o plimbare spre Massa Lubrense pentru a observa apusul peste orizont.",
+            "en": "Driving in Sorrento is relaxed in winter. Start at Museo Correale and enjoy the tranquility of the off-season.\n\nAt noon, it's easy to find a parking spot near Piazza Tasso. The city is clear and spacious.\n\nAfternoon drives lead to Marina Grande and Queen Giovanna's Baths. The winter sun is low and glitters on the water.\n\nEnd the day with a trip to Massa Lubrense to watch the sunset over the horizon."
+          },
+          "stops": [
+            {
+              "name": "Museo Correale",
+              "tip_5lang": {
+                "de": "Die Gärten sind auch im Winter sehenswert, besonders die Zitrusbäume.",
+                "hu": "A kertek télen is érdemesek a látogatásra, különösen a citrusfák.",
+                "ro": "Grădinile merită vizitate și iarna, în special citricele.",
+                "en": "The gardens are worth visiting even in winter, especially the citrus trees."
+              }
+            },
+            {
+              "name": "Piazza Tasso",
+              "tip_5lang": {
+                "de": "Profitieren Sie von den günstigeren Parkgebühren in einigen privaten Garagen.",
+                "hu": "Használja ki az alacsonyabb parkolási díjakat néhány privát garázsban.",
+                "ro": "Profitați de tarifele de parcare mai mici în unele garaje private.",
+                "en": "Take advantage of lower parking rates in some private garages."
+              }
+            },
+            {
+              "name": "Marina Grande",
+              "tip_5lang": {
+                "de": "Besuchen Sie die lokalen Fischer, die im Winter ihre Netze flicken.",
+                "hu": "Látogassa meg a helyi halászokat, akik télen a hálóikat javítják.",
+                "ro": "Vizitați pescarii locali care își repară plasele iarna.",
+                "en": "Visit the local fishermen who mend their nets in the winter."
+              }
+            },
+            {
+              "name": "Queen Giovanna's Baths",
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht oft eine Sicht bis nach Ischia.",
+                "hu": "A tiszta téli levegő gyakran lehetővé teszi, hogy Ischiáig ellássunk.",
+                "ro": "Aerul clar de iarnă permite adesea o vedere până la Ischia.",
+                "en": "The clear winter air often allows for a view as far as Ischia."
+              }
+            },
+            {
+              "name": "Massa Lubrense (Nearby Trip)",
+              "tip_5lang": {
+                "de": "Idealer Ort für ein frühes Abendessen mit Blick auf Capri.",
+                "hu": "Ideális hely egy korai vacsorához, kilátással Caprira.",
+                "ro": "Locul ideal pentru o cină devreme cu vedere spre Capri.",
+                "en": "Ideal place for an early dinner with a view of Capri."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Genießen Sie die stressfreie Fahrt ohne die vielen Touristenbusse.",
+              "Einige Bergstraßen können morgens glatt sein.",
+              "Prüfen Sie, ob Ihr Mietwagen Winter- oder Ganzjahresreifen hat.",
+              "Nutzen Sie die Gelegenheit für Panoramafotos ohne störenden Verkehr."
+            ],
+            "hu": [
+              "Élvezze a stresszmentes vezetést a sok turistabusz nélkül.",
+              "Néhány hegyi út reggelente csúszós lehet.",
+              "Ellenőrizze, hogy a bérautója téli vagy négyévszakos gumikkal van-e felszerelve.",
+              "Használja ki az alkalmat panorámafotók készítésére zavaró forgalom nélkül."
+            ],
+            "ro": [
+              "Bucurați-vă de condusul fără stres, fără multele autobuze turistice.",
+              "Unele drumuri de munte pot fi alunecoase dimineața.",
+              "Verificați dacă mașina închiriată are anvelope de iarnă sau all-season.",
+              "Profitați de ocazie pentru fotografii panoramice fără trafic deranjant."
+            ],
+            "en": [
+              "Enjoy stress-free driving without the many tourist buses.",
+              "Some mountain roads can be slippery in the morning.",
+              "Check if your rental car has winter or all-season tires.",
+              "Take the opportunity for panoramic photos without disturbing traffic."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1106,6 +2310,390 @@
           "Schedules are approximate.",
           "Buy tickets at 'Tabacchi' shops."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens starten Sie an der Piazza Tasso und erkunden den Kreuzgang von San Francesco mit dem öffentlichen Bus.\n\nMittags genießen Sie den Blick von der Villa Comunale und fahren mit dem Aufzug hinunter zum Hafen von Marina Piccola.\n\nNachmittags bringt Sie ein kleiner Bus nach Marina Grande für ein ausgiebiges Fischessen und Entspannung am Strand.\n\nAbends kehren Sie mit dem Transit ins Zentrum zurück, um die Kathedrale zu besichtigen und durch die belebten Einkaufsstraßen zu schlendern.",
+            "hu": "Reggel a Piazza Tassótól indulva, tömegközlekedéssel fedezzük fel a Szent Ferenc kolostort.\n\nDélben élvezze a kilátást a Villa Comunale-ból, majd lifttel menjen le a Marina Piccola kikötőjébe.\n\nDélután egy kisbusz viszi el Marina Grande-ba egy bőséges halvacsorára és tengerparti pihenésre.\n\nEste busszal térjen vissza a központba, hogy megtekintse a katedrálist és végigsétáljon a nyüzsgő utcákon.",
+            "ro": "Dimineața plecați din Piazza Tasso și explorați mănăstirea San Francesco folosind autobuzul public.\n\nLa prânz bucurați-vă de vederea din Villa Comunale și coborâți cu liftul în portul Marina Piccola.\n\nDupă-amiaza un autobuz mic vă duce la Marina Grande pentru un prânz cu pește și relaxare pe plajă.\n\nSeara reveniți cu transportul public în centru pentru a vizita catedrala și a vă plimba prin zonele comerciale.",
+            "en": "Morning start at Piazza Tasso and explore the San Francesco Cloister using public transit.\n\nAt midday, enjoy the views from Villa Comunale and take the elevator down to the Marina Piccola port.\n\nIn the afternoon, a small bus takes you to Marina Grande for a generous seafood lunch and relaxation on the beach.\n\nIn the evening, return by transit to the center to visit the Cathedral and stroll through the lively shopping streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza Tasso",
+                "hu": "Piazza Tasso",
+                "ro": "Piazza Tasso",
+                "en": "Piazza Tasso"
+              },
+              "tip_5lang": {
+                "de": "Bus-Drehkreuz.",
+                "hu": "Buszközpont.",
+                "ro": "Nod de autobuz.",
+                "en": "Bus hub."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiostro di San Francesco",
+                "hu": "Szent Ferenc kolostor",
+                "ro": "Chiostro di San Francesco",
+                "en": "San Francesco Cloister"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Bus.",
+                "hu": "Rövid séta a busztól.",
+                "ro": "Scurtă plimbare de la bus.",
+                "en": "Short walk from the bus stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Comunale",
+                "hu": "Villa Comunale",
+                "ro": "Villa Comunale",
+                "en": "Villa Comunale"
+              },
+              "tip_5lang": {
+                "de": "Lift zum Hafen nutzen.",
+                "hu": "Használja a liftet a kikötőhöz.",
+                "ro": "Folosiți liftul spre port.",
+                "en": "Use the lift to reach the port."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Piccola",
+                "hu": "Marina Piccola",
+                "ro": "Marina Piccola",
+                "en": "Marina Piccola"
+              },
+              "tip_5lang": {
+                "de": "Fähren nach Capri legen hier ab.",
+                "hu": "Innen indulnak a hajók Caprira.",
+                "ro": "Feriboturile spre Capri pleacă de aici.",
+                "en": "Ferries to Capri depart from here."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Grande",
+                "hu": "Marina Grande",
+                "ro": "Marina Grande",
+                "en": "Marina Grande"
+              },
+              "tip_5lang": {
+                "de": "Lokaler Linienbus hält oben.",
+                "hu": "A helyi busz felül áll meg.",
+                "ro": "Autobuzul local oprește sus.",
+                "en": "Local bus stops at the top."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale von Sorrent",
+                "hu": "Sorrentói székesegyház",
+                "ro": "Catedrala din Sorrento",
+                "en": "Sorrento Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Mitten im historischen Zentrum.",
+                "hu": "A történelmi központ közepén.",
+                "ro": "În centrul istoric.",
+                "en": "In the heart of the old town."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Delizia al Limone",
+                "tip": "Zitronen-Dessert."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Delizia al Limone",
+                "tip": "Citromos desszert különlegesség."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Delizia al Limone",
+                "tip": "Desert cu lămâie specific."
+              }
+            ],
+            "en": [
+              {
+                "name": "Delizia al Limone",
+                "tip": "Local lemon dessert specialty."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Villa Comunale",
+                "tip": "Aussichtspunkt.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Villa Comunale",
+                "tip": "Kilátóhely.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Villa Comunale",
+                "tip": "Punct de belvedere.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Villa Comunale",
+                "tip": "Viewpoint.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Piazza Lauro",
+                "tip": "Markttag beachten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Piazza Lauro",
+                "tip": "Érdemes megnézni a piacot."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piazza Lauro",
+                "tip": "Verificați zilele de piață."
+              }
+            ],
+            "en": [
+              {
+                "name": "Piazza Lauro",
+                "tip": "Check for local market days."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "UnicoCampania-Ticket kaufen.",
+              "Kleine Busse nutzen ('EAV').",
+              "Fahrpläne sind Richtwerte.",
+              "Fahrkarten im Tabacchi kaufen."
+            ],
+            "hu": [
+              "Vásároljon UnicoCampania jegyet.",
+              "Használja a kis 'EAV' buszokat.",
+              "A menetrendek csak tájékoztató jellegűek.",
+              "Jegyet trafikban (Tabacchi) vehet."
+            ],
+            "ro": [
+              "Cumpărați bilet UnicoCampania.",
+              "Folosiți autobuzele mici 'EAV'.",
+              "Orarele sunt orientative.",
+              "Cumpărați bilete de la Tabacchi."
+            ],
+            "en": [
+              "Buy an UnicoCampania ticket.",
+              "Use the small 'EAV' buses.",
+              "Schedules are approximate.",
+              "Buy tickets at 'Tabacchi' shops."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit den EAV-Bussen erreichen Sie alle Ziele trocken. Starten Sie an der Piazza Tasso und nehmen Sie den Bus zum Kreuzgang von San Francesco.\n\nMittags bieten die Villa Comunale und die Marina Piccola gute Unterstände während Sie auf den nächsten Bus warten.\n\nNachmittags bringt Sie der Bus zur Marina Grande. Beobachten Sie das Wetter durch die Fensterscheiben der lokalen Verkehrsmittel.\n\nDer Tag endet in der Kathedrale von Sorrent, die gut an das Busnetz angebunden ist.",
+            "hu": "Az EAV buszokkal minden célpontot szárazon érhet el. Kezdjen a Piazza Tassónál, és szálljon buszra San Francesco kolostorához.\n\nDélben a Villa Comunale és Marina Piccola jó menedéket nyújt, amíg a következő buszra vár.\n\nDélután a busz Marina Grandéba viszi. Figyelje az időjárást a helyi járatok ablakain keresztül.\n\nA nap a Sorrentói Székesegyháznál ér véget, amely jól kapcsolódik a buszhálózathoz.",
+            "ro": "Cu autobuzele EAV ajungeți la toate destinațiile la uscat. Începeți în Piazza Tasso și luați autobuzul spre Chilia San Francesco.\n\nLa prânz, Villa Comunale și Marina Piccola oferă adăposturi bune în timp ce așteptați următorul autobuz.\n\nDupă-amiaza, autobuzul vă duce la Marina Grande. Observați vremea prin geamurile mijloacelor de transport locale.\n\nZiua se încheie la Catedrala din Sorrento, care este bine conectată la rețeaua de autobuze.",
+            "en": "Reach all destinations dry with EAV buses. Start at Piazza Tasso and take the bus to the San Francesco Cloister.\n\nAt noon, Villa Comunale and Marina Piccola provide good shelters while waiting for the next bus.\n\nAfternoon takes the bus to Marina Grande. Watch the weather through the windows of local transport.\n\nThe day ends at Sorrento Cathedral, which is well connected to the bus network."
+          },
+          "stops": [
+            {
+              "name": "Piazza Tasso",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen sind oft nicht überdacht; warten Sie unter den Arkaden in der Nähe.",
+                "hu": "A buszmegállók gyakran nem fedettek; várjon a közeli árkádok alatt.",
+                "ro": "Stațiile de autobuz nu sunt adesea acoperite; așteptați sub arcadele din apropiere.",
+                "en": "Bus stops are often not covered; wait under the nearby arcades."
+              }
+            },
+            {
+              "name": "San Francesco Cloister",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der Bushaltestelle; halten Sie den Schirm bereit.",
+                "hu": "Csak rövid séta a buszmegállótól; tartsa készenlétben az esernyőjét.",
+                "ro": "Doar o scurtă plimbare de la stație; țineți umbrela pregătită.",
+                "en": "Just a short walk from the bus stop; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Villa Comunale",
+              "tip_5lang": {
+                "de": "Der Aufzug zur Marina Piccola ist eine trockene Alternative zum Fußweg.",
+                "hu": "A Marina Piccolába vezető lift száraz alternatíva a gyalogúttal szemben.",
+                "ro": "Liftul spre Marina Piccola este o alternativă uscată la mersul pe jos.",
+                "en": "The elevator to Marina Piccola is a dry alternative to the footpath."
+              }
+            },
+            {
+              "name": "Marina Piccola",
+              "tip_5lang": {
+                "de": "Ein geschäftiger Hafen mit vielen Cafés zum Aufwärmen während Wartezeiten.",
+                "hu": "Nyüzsgő kikötő sok kávézóval, ahol felmelegedhet várakozás közben.",
+                "ro": "Un port aglomerat cu multe cafenele unde vă puteți încălzi în timpul așteptării.",
+                "en": "A busy port with many cafés to warm up in while waiting."
+              }
+            },
+            {
+              "name": "Marina Grande",
+              "tip_5lang": {
+                "de": "Die busse fahren hier seltener; prüfen Sie die Abfahrtszeiten genau.",
+                "hu": "A buszok itt ritkábban járnak; pontosan ellenőrizze az indulási időket.",
+                "ro": "Autobuzele circulă mai rar aici; verificați cu atenție orele de plecare.",
+                "en": "Buses run less frequently here; check the departure times carefully."
+              }
+            },
+            {
+              "name": "Sorrento Cathedral",
+              "tip_5lang": {
+                "de": "Zentral gelegen; viele Buslinien halten in der direkten Umgebung.",
+                "hu": "Központi fekvésű; számos buszjárat megáll a közvetlen közelében.",
+                "ro": "Situată central; multe linii de autobuz opresc în imediata apropiere.",
+                "en": "Centrally located; many bus lines stop in the immediate vicinity."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten im Voraus in einem 'Tabacchi' Laden.",
+              "Die Busse können bei Regen aufgrund des Verkehrs Verspätung haben.",
+              "Nutzen Sie die App 'Unico Campania' für Echtzeit-Informationen.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zwischen den Haltestellen."
+            ],
+            "hu": [
+              "Vásárolja meg a jegyeket előre egy 'Tabacchi' üzletben.",
+              "A buszok esőben a forgalom miatt késhetnek.",
+              "Használja az 'Unico Campania' alkalmazást a valós idejű információkért.",
+              "Viseljen vízálló ruházatot a megállók közötti utakhoz."
+            ],
+            "ro": [
+              "Cumpărați biletele în avans de la un magazin 'Tabacchi'.",
+              "Autobuzele pot avea întârzieri pe timp de ploaie din cauza traficului.",
+              "Folosiți aplicația 'Unico Campania' pentru informații în timp real.",
+              "Purtați haine impermeabile pentru drumurile dintre stații."
+            ],
+            "en": [
+              "Buy tickets in advance at a 'Tabacchi' shop.",
+              "Buses may be delayed in the rain due to traffic.",
+              "Use the 'Unico Campania' app for real-time information.",
+              "Wear waterproof clothing for the walks between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Sorrent im Winter mit den lokalen Bussen. Starten Sie an der Piazza Tasso und genießen Sie die entspannte Fahrt zum Kreuzgang.\n\nMittags bietet die Villa Comunale klare Ausblicke, die Sie nach einer kurzen Busfahrt erreichen.\n\nNachmittags bringt Sie der Transport zur Marina Piccola und Marina Grande. Die Busse sind weniger voll als im Sommer.\n\nDer Tag endet an der Kathedrale, wo Sie bequem in einen bus zurück zu Ihrer Unterkunft steigen können.",
+            "hu": "Fedezze fel Sorrentót télen a helyi buszokkal. Kezdjen a Piazza Tassónál, és élvezze a pihentető utat a kolostorig.\n\nDélben a Villa Comunale tiszta kilátást nyújt, amelyet egy rövid buszozás után érhet el.\n\nDélután a közlekedés Marina Piccolába és Marina Grandéba viszi. A buszok kevésbé zsúfoltak, mint nyáron.\n\nA nap a Székesegyháznál zárul, ahonnan kényelmesen buszra szállhat a szállása felé.",
+            "ro": "Explorați Sorrento iarna cu autobuzele locale. Începeți în Piazza Tasso și bucurați-vă de drumul relaxant spre chilie.\n\nLa prânz, Villa Comunale oferă vederi clare, la care ajungeți după o scurtă plimbare cu autobuzul.\n\nDupă-amiaza, transportul vă duce la Marina Piccola și Marina Grande. Autobuzele sunt mai puțin aglomerate decât vara.\n\nZiua se încheie la Catedrală, de unde puteți lua confortabil un autobuz înapoi spre cazare.",
+            "en": "Explore Sorrento in winter with local buses. Start at Piazza Tasso and enjoy the relaxed ride to the Cloister.\n\nAt noon, Villa Comunale offers clear views, reached after a short bus ride.\n\nAfternoon takes you to Marina Piccola and Marina Grande. The buses are less crowded than in summer.\n\nThe day ends at the Cathedral, where you can easily catch a bus back to your accommodation."
+          },
+          "stops": [
+            {
+              "name": "Piazza Tasso",
+              "tip_5lang": {
+                "de": "Der zentrale Knotenpunkt für alle Buslinien; idealer Startpunkt.",
+                "hu": "Minden buszjárat központi csomópontja; ideális kiindulópont.",
+                "ro": "Nodul central pentru toate liniile de autobuz; punct de start ideal.",
+                "en": "The central hub for all bus lines; ideal starting point."
+              }
+            },
+            {
+              "name": "San Francesco Cloister",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Winter-Öffnungszeiten; sie können kürzer sein.",
+                "hu": "Ügyeljen a téli nyitvatartásra; rövidebb lehet.",
+                "ro": "Atenție la programul de iarnă; poate fi mai scurt.",
+                "en": "Note the winter opening hours; they may be shorter."
+              }
+            },
+            {
+              "name": "Villa Comunale",
+              "tip_5lang": {
+                "de": "Nur wenige Gehminuten von der Bushaltestelle entfernt; genießen Sie die klare Luft.",
+                "hu": "Csak néhány perc séta a buszmegállótól; élvezze a tiszta levegőt.",
+                "ro": "La doar câteva minute de mers pe jos de stație; bucurați-vă de aerul curat.",
+                "en": "Just a few minutes' walk from the bus stop; enjoy the clear air."
+              }
+            },
+            {
+              "name": "Marina Piccola",
+              "tip_5lang": {
+                "de": "Der Hafen ist im Winter viel ruhiger; perfekt für entspannte Beobachtungen.",
+                "hu": "A kikötő télen sokkal nyugodtabb; tökéletes a pihentető nézelődéshez.",
+                "ro": "Portul este mult mai liniștit iarna; perfect pentru observații relaxate.",
+                "en": "The port is much quieter in winter; perfect for relaxed observation."
+              }
+            },
+            {
+              "name": "Marina Grande",
+              "tip_5lang": {
+                "de": "Der 'Sita'-Bus bietet eine zuverlässige Verbindung auch in der Nebensaison.",
+                "hu": "A 'Sita' busz megbízható összeköttetést biztosít az utószezonban is.",
+                "ro": "Autobuzul 'Sita' oferă o conexiune fiabilă chiar și în extrasezon.",
+                "en": "The 'Sita' bus provides a reliable connection even in the off-season."
+              }
+            },
+            {
+              "name": "Sorrento Cathedral",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für den Abschluss des Tages, bevor Sie den Bus nehmen.",
+                "hu": "Meleg hely a nap zárásához, mielőtt felszállna a buszra.",
+                "ro": "Un loc cald pentru încheierea zilei înainte de a lua autobuzul.",
+                "en": "A warm place to end the day before catching your bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan, da einige Linien seltener fahren.",
+              "Die Busse sind im Winter meist pünktlicher, da weniger Verkehr herrscht.",
+              "Warten Sie in Cafés in der Nähe der Haltestellen, wenn es draußen kühl ist.",
+              "Ein Tagesticket ist oft die günstigste Option für mehrere Fahrten."
+            ],
+            "hu": [
+              "Ellenőrizze a téli menetrendet, mert néhány járat ritkábban közlekedik.",
+              "A buszok télen általában pontosabbak a kisebb forgalom miatt.",
+              "Várjon a megállók közeli kávézókban, ha kint hűvös van.",
+              "A napijegy gyakran a legolcsóbb opció több utazáshoz."
+            ],
+            "ro": [
+              "Verificați programul de iarnă, deoarece unele linii circulă mai rar.",
+              "Autobuzele sunt de obicei mai punctuale iarna din cauza traficului redus.",
+              "Așteptați în cafenelele de lângă stații dacă afară este răcoare.",
+              "Un bilet de o zi este adesea cea mai ieftină opțiune pentru mai multe călătorii."
+            ],
+            "en": [
+              "Check the winter timetable as some lines run less frequently.",
+              "Buses are usually more punctual in winter due to less traffic.",
+              "Wait in cafés near the stops if it's cool outside.",
+              "A day ticket is often the cheapest option for multiple trips."
+            ]
+          }
+        }
       }
     }
   },

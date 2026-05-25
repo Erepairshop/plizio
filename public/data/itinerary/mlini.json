@@ -268,6 +268,398 @@
           "Water shoes are recommended for the pebble beach.",
           "Visit in the late afternoon for the best light."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mlini ist ein malerisches Fischerdorf mit einer einzigartigen Atmosphäre. Starten Sie am Hafen, bewundern Sie die namensgebenden Wassermühlen und spazieren Sie entlang der grünen Promenade zum Strand. Eine perfekte Mischung aus Natur, Geschichte und Entspannung an der Adria.",
+            "hu": "Mlini egy festői halászfalu egyedülálló hangulattal. Kezdjen a kikötőben, csodálja meg a névadó vízimalmokat, majd sétáljon végig a zöldellő sétányon a strandig. A természet, a történelem és az adriai pihenés tökéletes elegye.",
+            "ro": "Mlini este un sat pitoresc de pescari cu o atmosferă unică. Începeți la port, admirați morile de apă care dau numele locului și plimbați-vă pe promenada verde spre plajă. Un amestec perfect de natură, istorie și relaxare la Adriatică.",
+            "en": "Mlini is a picturesque fishing village with a unique atmosphere. Start at the harbor, admire the namesake water mills, and walk along the green promenade to the beach. A perfect blend of nature, history, and Adriatic relaxation."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mlini Hafen",
+                "hu": "Mlini kikötő",
+                "ro": "Portul Mlini",
+                "en": "Mlini Harbor"
+              },
+              "tip_5lang": {
+                "de": "Schauen Sie den Fischerbooten zu.",
+                "hu": "Nézze meg a halászhajókat.",
+                "ro": "Priviți bărcile pescărești.",
+                "en": "Watch the fishing boats."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Wassermühlen",
+                "hu": "Régi vízimalmok",
+                "ro": "Vechile mori de apă",
+                "en": "Old Water Mills"
+              },
+              "tip_5lang": {
+                "de": "Namensgeber des Ortes (Mlini = Mühlen).",
+                "hu": "A hely névadói (Mlini = malmok).",
+                "ro": "Sursa numelui localității (Mlini = mori).",
+                "en": "Namesake of the town (Mlini = mills)."
+              }
+            },
+            {
+              "name": {
+                "de": "Fluss Zavrelje",
+                "hu": "Zavrelje-patak",
+                "ro": "Râul Zavrelje",
+                "en": "Zavrelje Stream"
+              },
+              "tip_5lang": {
+                "de": "Kühles Süßwasser trifft auf Meer.",
+                "hu": "Hűvös édesvíz találkozása a tengerrel.",
+                "ro": "Apa dulce rece se întâlnește cu marea.",
+                "en": "Cool freshwater meets the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche des Hl. Hilarius",
+                "hu": "Szent Hiláriusz templom",
+                "ro": "Biserica Sf. Ilarie",
+                "en": "Church of St. Hilary"
+              },
+              "tip_5lang": {
+                "de": "Historische Kirche nahe am Ufer.",
+                "hu": "Történelmi templom a part közelében.",
+                "ro": "Biserică istorică aproape de mal.",
+                "en": "Historical church near the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Uferpromenade",
+                "hu": "Tengerparti sétány",
+                "ro": "Promenada de țărm",
+                "en": "Seafront Promenade"
+              },
+              "tip_5lang": {
+                "de": "Schattiger Weg unter Pinien.",
+                "hu": "Árnyas út a fenyők alatt.",
+                "ro": "Drum umbrit sub pini.",
+                "en": "Shaded path under pine trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Mlini Strand",
+                "hu": "Mlini strand",
+                "ro": "Plaja Mlini",
+                "en": "Mlini Beach"
+              },
+              "tip_5lang": {
+                "de": "Kristallklares Wasser zum Baden.",
+                "hu": "Kristálytiszta víz a fürdéshez.",
+                "ro": "Apă cristalină pentru înot.",
+                "en": "Crystal clear water for swimming."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Marinero",
+                "tip": "Probieren Sie Meeresfrüchte-Risotto."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Marinero Konoba",
+                "tip": "Kóstolja meg a tenger gyümölcsei rizottót."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Marinero",
+                "tip": "Încercați risotto cu fructe de mare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Marinero",
+                "tip": "Try the seafood risotto."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Flussufer Zavrelje",
+                "tip": "Ruhiger Platz im Schatten der Bäume.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Zavrelje-part",
+                "tip": "Csendes pont a fák árnyékában.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul râului Zavrelje",
+                "tip": "Loc liniștit la umbra copacilor.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Zavrelje Riverbank",
+                "tip": "Quiet spot in the shade of trees.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Marktstand",
+                "tip": "Hausgemachte Marmeladen und Liköre."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi piaci stand",
+                "tip": "Házi lekvárok és likőrök."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Stand de piață local",
+                "tip": "Gemuri și lichioruri de casă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Market Stand",
+                "tip": "Homemade jams and liqueurs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Weg entlang der Küste ist flach und sehr angenehm.",
+              "Die Mühlen sind teilweise in Restaurants integriert.",
+              "Badeschuhe sind für den Kiesstrand empfehlenswert.",
+              "Besuchen Sie den Ort am späten Nachmittag für das beste Licht."
+            ],
+            "hu": [
+              "A parti út sík és nagyon kellemes sétára.",
+              "A malmok egy része éttermekbe van beépítve.",
+              "Vízicipő ajánlott a kavicsos strandhoz.",
+              "Látogasson el ide késő délután a legszebb fényekért."
+            ],
+            "ro": [
+              "Drumul de-a lungul coastei este plat și foarte plăcut.",
+              "Morile sunt parțial integrate în restaurante.",
+              "Încălțămintea de apă este recomandată pentru plaja cu pietriș.",
+              "Vizitați locul după-amiaza târziu pentru cea mai bună lumină."
+            ],
+            "en": [
+              "The coastal path is flat and very pleasant for walking.",
+              "Some mills are integrated into restaurants.",
+              "Water shoes are recommended for the pebble beach.",
+              "Visit in the late afternoon for the best light."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regen verleiht Mlini eine mystische Atmosphäre. Starten Sie Ihren Spaziergang am Hafen, wo die Wellen gegen die Kaimauer schlagen. Die alten Mühlen wirken im Regen besonders authentisch, während der Wasserfall des Zavrelje-Baches kräftiger rauscht.\n\nMittags bietet die Kirche des Hl. Hilarius einen trockenen Zufluchtsort für Besinnung. Das Klappern der Mühlen vermischt sich mit dem Prasseln des Regens auf das dichte Laub.\n\nAm Nachmittag führt der Weg entlang der Promenade, die vom Duft der nassen Pinien erfüllt ist. Trotz der Feuchtigkeit bietet der Pfad unter den Bäumen relativen Schutz.\n\nDer Tag endet mit einem dramatischen Blick auf das graue Meer vom Mlini-Strand aus, bevor man sich in ein gemütliches Café zurückzieht.",
+            "hu": "Az eső különleges, misztikus arcát mutatja meg Mlininek. Kezdje a sétát a kikötőben, ahol a hullámok a mólónak csapódnak. A régi vízimalmok az esőben még hitelesebbek, a Zavrelje-patak vízesése pedig hangosabban zúg.\n\nDélben a Szent Hiláriusz-templom nyújt száraz menedéket az elmélkedéshez. A malmok kattogása keveredik a sűrű lombokra hulló eső kopogásával.\n\nDélután a sétányon haladunk tovább, ahol a nedves fenyők illata betölti a levegőt. A fák alatti ösvény részleges védelmet nyújt a csapadék ellen.\n\nA nap a Mlini-strand szürke tengerére nyíló drámai kilátással zárul, mielőtt behúzódnánk egy barátságos kávézóba.",
+            "ro": "Ploaia conferă localității Mlini o atmosferă mistică. Începeți plimbarea în port, unde valurile se lovesc de dig. Vechile mori de apă par extrem de autentice în ploaie, iar cascada pârâului Zavrelje vuiește mai tare.\n\nLa prânz, Biserica Sf. Hilarius oferă un refugiu uscat pentru reflecție. Zgomotul morilor se împletește cu sunetul ploii care cade pe frunzișul dens.\n\nDupă-amiaza, drumul continuă pe faleză, unde mirosul pinilor uzi umple aerul. Poteca de sub copaci oferă o protecție parțială împotriva precipitațiilor.\n\nZiua se încheie cu o vedere dramatică asupra mării cenușii de pe plaja Mlini, înainte de a vă retrage într-o cafenea primitoare.",
+            "en": "The rain gives Mlini a mystical atmosphere. Start your walk at the harbor, where waves crash against the pier. The old water mills look especially authentic in the rain, and the Zavrelje stream's waterfall roars more powerfully.\n\nAt noon, the Church of St. Hilary provides a dry sanctuary for reflection. The clattering of the mills mixes with the patter of rain on the dense foliage.\n\nIn the afternoon, the path leads along the promenade, filled with the scent of wet pine trees. The path under the trees offers some protection from the elements.\n\nThe day ends with a dramatic view of the grey sea from Mlini beach, before retreating into a cozy local cafe."
+          },
+          "stops": [
+            {
+              "name": "Mlini Harbor",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Steinen am Kai.",
+                "hu": "Vigyázz a csúszós kövekre a mólón.",
+                "ro": "Atenție la pietrele alunecoase de pe dig.",
+                "en": "Watch out for slippery stones on the pier."
+              }
+            },
+            {
+              "name": "Old Water Mills",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Dachüberstand.",
+                "hu": "Keress menedéket az eresz alatt.",
+                "ro": "Căutați adăpost sub streșină.",
+                "en": "Seek shelter under the roof overhang."
+              }
+            },
+            {
+              "name": "Zavrelje Stream",
+              "tip_5lang": {
+                "de": "Der Wasserfall ist nach Regen besonders laut.",
+                "hu": "Eső után a vízesés különösen zúg.",
+                "ro": "Cascada este deosebit de zgomotoasă după ploaie.",
+                "en": "The waterfall is especially loud after rain."
+              }
+            },
+            {
+              "name": "Church of St. Hilary",
+              "tip_5lang": {
+                "de": "Idealer Ort, um trocken zu bleiben.",
+                "hu": "Ideális hely a szárazon maradáshoz.",
+                "ro": "Loc ideal pentru a rămâne uscat.",
+                "en": "Ideal place to stay dry for a while."
+              }
+            },
+            {
+              "name": "Seafront Promenade",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Schutz der großen Pinien.",
+                "hu": "Használd a nagy fenyők nyújtotta védelmet.",
+                "ro": "Folosiți protecția oferită de pinii mari.",
+                "en": "Use the protection of the large pine trees."
+              }
+            },
+            {
+              "name": "Mlini Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus einem Strandcafé.",
+                "hu": "Élvezd a kilátást egy tengerparti kávézóból.",
+                "ro": "Bucurați-vă de priveliște dintr-o cafenea.",
+                "en": "Enjoy the view from a beachfront cafe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Steinpfade.",
+              "Die dichten Bäume an der Promenade bieten guten Regenschutz.",
+              "Das Einkaufszentrum in Srebreno ist nah für Notkäufe.",
+              "Regenschirme können bei Wind am Hafen unpraktisch sein.",
+              "Die Cafés am Hafen sind auch bei Regen gemütlich."
+            ],
+            "hu": [
+              "Viselj vízálló cipőt a köves ösvényeken.",
+              "A sétány sűrű fái jó védelmet nyújtanak az eső ellen.",
+              "Srebreno bevásárlóközpontja közel van, ha be kell vásárolni.",
+              "Az esernyő a szeles kikötőben nehézkes lehet.",
+              "A kikötői kávézók esőben is hangulatosak."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru potecile cu piatră.",
+              "Copacii de pe faleză oferă o bună protecție contra ploii.",
+              "Centrul comercial din Srebreno este aproape pentru urgențe.",
+              "Umbrelele pot fi greu de folosit în portul vântos.",
+              "Cafenelele din port sunt primitoare și pe ploaie."
+            ],
+            "en": [
+              "Wear waterproof shoes for the stone paths.",
+              "The dense trees along the promenade provide good shelter.",
+              "Srebreno shopping mall is nearby for any emergencies.",
+              "Umbrellas can be tricky in the windy harbor area.",
+              "Harbor cafes remain cozy even during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Mlini ist ruhig und mild. Am Morgen liegt oft ein feiner Nebel über dem Hafen, während die Fischer ihre Netze flicken. Die alten Mühlen wirken in der kühlen Luft wie aus einer anderen Zeit.\n\nMittags steht die Sonne tief und wirft lange Schatten auf den Zavrelje-Bach. Die Kirche des Hl. Hilarius strahlt in der Wintersonne eine besondere Stille aus.\n\nDer Nachmittag eignet sich hervorragend für einen zügigen Spaziergang entlang der menschenleeren Promenade. Die kristallklare Luft bietet eine weite Sicht bis nach Dubrovnik.\n\nDa die Sonne bereits gegen 16:30 Uhr untergeht, endet der Tag früh mit einem glühenden Horizont über der Adria.",
+            "hu": "A tél Mliniben csendes és enyhe. Reggelente gyakran köd ül a kikötőre, miközben a halászok hálóikat javítják. A régi vízimalmok a hűvös levegőben úgy hatnak, mintha egy másik korból maradtak volna itt.\n\nDélben a nap alacsonyan jár, hosszú árnyékokat vetve a Zavrelje-patakra. A Szent Hiláriusz-templom különleges nyugalmat áraszt a téli napsütésben.\n\nA délután kiválóan alkalmas egy tempós sétára az üres tengerparti sétányon. A kristálytiszta levegőben ellátni egészen Dubrovnikig.\n\nMivel a nap már 16:30 körül nyugszik, a nap korán véget ér egy izzó horizonttal az Adria felett.",
+            "ro": "Iarna în Mlini este liniștită și blândă. Dimineața, ceața stă adesea deasupra portului în timp ce pescarii își repară mrejele. Vechile mori de apă par desprinse din alt timp în aerul răcoros.\n\nLa prânz, soarele stă jos, aruncând umbre lungi peste pârâul Zavrelje. Biserica Sf. Hilarius emană o liniște aparte în lumina iernii.\n\nDupă-amiaza este perfectă pentru o plimbare vioaie pe faleza pustie. Aerul deosebit de clar oferă o vizibilitate excelentă până spre Dubrovnik.\n\nDeoarece soarele apune deja în jur de ora 16:30, ziua se încheie devreme cu un orizont incandescent peste Adriatica.",
+            "en": "Winter in Mlini is quiet and mild. In the morning, mist often hangs over the harbor while fishermen mend their nets. The old water mills feel like they belong to another era in the cool air.\n\nAt noon, the sun stays low, casting long shadows over the Zavrelje stream. The Church of St. Hilary exudes a special tranquility in the winter sunlight.\n\nAfternoon is perfect for a brisk walk along the empty seafront promenade. The crystal-clear air provides far-reaching views all the way to Dubrovnik.\n\nSince the sun sets around 16:30, the day ends early with a glowing horizon over the Adriatic Sea."
+          },
+          "stops": [
+            {
+              "name": "Mlini Harbor",
+              "tip_5lang": {
+                "de": "Achten Sie auf den kalten Bura-Wind.",
+                "hu": "Vigyázz a hideg bóra szélre.",
+                "ro": "Atenție la vântul rece de tip Bura.",
+                "en": "Watch out for the cold Bura wind."
+              }
+            },
+            {
+              "name": "Old Water Mills",
+              "tip_5lang": {
+                "de": "Die Steine können im Schatten frostig sein.",
+                "hu": "Az árnyékos kövek fagyosak lehetnek.",
+                "ro": "Pietrele la umbră pot fi înghețate.",
+                "en": "Stones in the shade can be frosty."
+              }
+            },
+            {
+              "name": "Zavrelje Stream",
+              "tip_5lang": {
+                "de": "Das Wasser ist im Winter eiskalt.",
+                "hu": "A patak vize télen jéghideg.",
+                "ro": "Apa pârâului este înghețată iarna.",
+                "en": "The stream water is ice cold in winter."
+              }
+            },
+            {
+              "name": "Church of St. Hilary",
+              "tip_5lang": {
+                "de": "Drinnen ist es oft kühler als draußen.",
+                "hu": "Bent gyakran hűvösebb van, mint kint.",
+                "ro": "În interior este adesea mai rece ca afară.",
+                "en": "It's often cooler inside than outside."
+              }
+            },
+            {
+              "name": "Seafront Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht ohne Dunst.",
+                "hu": "Élvezd a tiszta kilátást pára nélkül.",
+                "ro": "Bucurați-vă de claritatea vizibilității.",
+                "en": "Enjoy the clear views without summer haze."
+              }
+            },
+            {
+              "name": "Mlini Beach",
+              "tip_5lang": {
+                "de": "Beste Zeit für einen einsamen Strandspaziergang.",
+                "hu": "A legjobb idő egy magányos strandsétához.",
+                "ro": "Momentul ideal pentru o plimbare solitară.",
+                "en": "Best time for a lonely beach walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie das Ende vor Sonnenuntergang (16:30).",
+              "Zwiebelprinzip bei der Kleidung schützt vor Wind.",
+              "Einige Cafés haben im Winter geschlossen.",
+              "Die Bura kann sehr kräftig und kalt wehen.",
+              "Die klare Winterluft ist ideal für Fotografie."
+            ],
+            "hu": [
+              "Tervezd a befejezést naplemente (16:30) előtt.",
+              "A réteges öltözködés véd a szél ellen.",
+              "Néhány kávézó télen zárva tarthat.",
+              "A bóra szél nagyon erős és hideg lehet.",
+              "A tiszta téli levegő ideális a fotózáshoz."
+            ],
+            "ro": [
+              "Planificați finalul înainte de apus (16:30).",
+              "Îmbrăcămintea stratificată protejează de vânt.",
+              "Unele cafenele pot fi închise iarna.",
+              "Vântul Bura poate fi foarte puternic și rece.",
+              "Aerul clar de iarnă este ideal pentru fotografii."
+            ],
+            "en": [
+              "Plan to finish before sunset (around 16:30).",
+              "Layered clothing helps against the coastal wind.",
+              "Some beach cafes may be closed for the season.",
+              "The Bura wind can be very strong and chilly.",
+              "The clear winter air is perfect for photography."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -507,6 +899,366 @@
           "Bring a lock for visiting Kupari.",
           "Ride defensively near the beaches."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Radeln Sie entlang der Župa Dubrovačka Riviera. Starten Sie in Mlini und erkunden Sie die Küste in Richtung Kupari, um die beeindruckenden Hotelruinen zu sehen. Eine abwechslungsreiche Tour zwischen moderner Geschichte und natürlicher Schönheit.",
+            "hu": "Tekerjen végig a dubrovniki riviérán. Kezdje Mliniben, és fedezze fel a partot Kupari irányába, hogy láthassa a lenyűgöző hotelfalakat. Változatos túra a modern történelem és a természeti szépség között.",
+            "ro": "Pedalați de-a lungul rivierei Župa Dubrovačka. Începeți în Mlini și explorați coasta spre Kupari pentru a vedea ruinele impresionante ale hotelurilor. Un tur variat între istoria modernă și frumusețea naturală.",
+            "en": "Cycle along the Župa Dubrovačka Riviera. Start in Mlini and explore the coast towards Kupari to see the impressive hotel ruins. A varied tour between modern history and natural beauty."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Uferpromenade",
+                "hu": "Tengerparti sétány",
+                "ro": "Promenada de țărm",
+                "en": "Seafront Promenade"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt am Wasser.",
+                "hu": "Élvezze a gurulást a víz mellett.",
+                "ro": "Bucurați-vă de plimbarea pe lângă apă.",
+                "en": "Enjoy the ride by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Mlini Hafen",
+                "hu": "Mlini kikötő",
+                "ro": "Portul Mlini",
+                "en": "Mlini Harbor"
+              },
+              "tip_5lang": {
+                "de": "Kurze Pause im Fischerdorf.",
+                "hu": "Rövid pihenő a halászfaluban.",
+                "ro": "Scurtă pauză în satul de pescari.",
+                "en": "Short break in the fishing village."
+              }
+            },
+            {
+              "name": {
+                "de": "Sankt-Rochus-Kapelle",
+                "hu": "Szent Rókus kápolna",
+                "ro": "Capela Sf. Rochus",
+                "en": "St. Roch Chapel"
+              },
+              "tip_5lang": {
+                "de": "Kleine Kapelle am Hügel.",
+                "hu": "Kis kápolna a dombon.",
+                "ro": "Capelă mică pe deal.",
+                "en": "Small chapel on the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Kupari (Ruinen)",
+                "hu": "Kupari (romok)",
+                "ro": "Kupari (ruine)",
+                "en": "Kupari (ruins)"
+              },
+              "tip_5lang": {
+                "de": "Ehemaliges Luxusresort, jetzt Lost Place.",
+                "hu": "Egykori luxusüdülő, ma szellemváros.",
+                "ro": "Fost complex de lux, acum loc abandonat.",
+                "en": "Former luxury resort, now a lost place."
+              }
+            },
+            {
+              "name": {
+                "de": "Mlini Strand",
+                "hu": "Mlini strand",
+                "ro": "Plaja Mlini",
+                "en": "Mlini Beach"
+              },
+              "tip_5lang": {
+                "de": "Entspannung nach der Tour.",
+                "hu": "Pihenés a túra után.",
+                "ro": "Relaxare după tur.",
+                "en": "Relaxation after the tour."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Beach Bar Gusar",
+                "tip": "Erfrischende Cocktails am Strand."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gusar Beach Bar",
+                "tip": "Frissítő koktélok a tengerparton."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Beach Bar Gusar",
+                "tip": "Cocktailuri răcoritoare pe plajă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gusar Beach Bar",
+                "tip": "Refreshing cocktails on the beach."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Srebreno Bucht",
+                "tip": "Ruhigerer Strandabschnitt am Morgen.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Srebreno-öböl",
+                "tip": "Csendesebb strandrész reggelente.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Golful Srebreno",
+                "tip": "Secțiune de plajă mai liniștită dimineața.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Srebreno Bay",
+                "tip": "Quieter stretch of beach in the morning.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Sub City Mall",
+                "tip": "Einkaufszentrum für alle Bedürfnisse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sub City Mall",
+                "tip": "Bevásárlóközpont minden igényre."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sub City Mall",
+                "tip": "Centru comercial pentru toate nevoile."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sub City Mall",
+                "tip": "Shopping mall for all your needs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Achten Sie auf Fußgänger auf der Promenade.",
+              "Der Weg ist größtenteils flach und gut ausgebaut.",
+              "Bringen Sie ein Schloss für die Besichtigung von Kupari mit.",
+              "Fahren Sie defensiv in der Nähe der Strände."
+            ],
+            "hu": [
+              "Figyeljen a gyalogosokra a sétányon.",
+              "Az út nagy része sík és jól kiépített.",
+              "Hozzon lakatot Kupari megtekintéséhez.",
+              "Vezessen óvatosan a strandok közelében."
+            ],
+            "ro": [
+              "Atenție la pietoni pe promenadă.",
+              "Drumul este în mare parte plat și bine amenajat.",
+              "Aduceți un lacăt pentru vizitarea complexului Kupari.",
+              "Conduceți defensiv în apropierea plajelor."
+            ],
+            "en": [
+              "Watch out for pedestrians on the promenade.",
+              "The path is mostly flat and well-maintained.",
+              "Bring a lock for visiting Kupari.",
+              "Ride defensively near the beaches."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber leere Wege. Beginnen Sie auf der Uferpromenade, wo die Gischt der Adria das Gesicht kühlt. Der Hafen von Mlini wirkt unter grauen Wolken sehr dramatisch.\n\nMittags erreichen Sie die St. Rochus Kapelle. Nutzen Sie den kleinen Vorbau für eine kurze Pause im Trockenen. Die Steine der alten Mauern leuchten in sattem Grau.\n\nDer Nachmittag führt zu den Ruinen von Kupari. Die verlassenen Hotels wirken im Regen noch eindrucksvoller und melancholischer. Die Wege können hier schlammig sein.\n\nBeenden Sie die Tour am Mlini-Strand, wo Sie das Fahrrad unter einem Vordach abstellen und den Tag ausklingen lassen können.",
+            "hu": "A kerékpározás esőben óvatosságot igényel, de üres utakat kínál. Kezdje a tengerparti sétányon, ahol az Adria permete hűsíti az arcát. Mlini kikötője drámai képet mutat a szürke felhők alatt.\n\nDélben éri el a Szent Rókus-kápolnát. Használja a kis előtetőt egy rövid, száraz pihenőre. A régi falak kövei telt szürke színben pompáznak.\n\nA délután Kupari romjaihoz vezet. Az elhagyatott szállodák az esőben még lenyűgözőbbek és melankolikusabbak. Az utak itt sárosak lehetnek.\n\nA túrát a Mlini-strandon fejezze be, ahol a kerékpárt egy előtető alá támaszthatja, és lezárhatja a napot.",
+            "ro": "O plimbare cu bicicleta în ploaie necesită atenție, dar oferă drumuri libere. Începeți pe faleză, unde vaporii mării vă răcoresc fața. Portul Mlini arată dramatic sub norii cenușii.\n\nLa prânz ajungeți la Capela Sf. Roch. Folosiți micul pridvor pentru o pauză scurtă la uscat. Pietrele zidurilor vechi strălucesc în nuanțe intense de gri.\n\nDupă-amiaza conduce spre ruinele din Kupari. Hotelurile părăsite par și mai impresionante și melancolice în ploaie. Drumurile pot fi noroioase aici.\n\nÎncheiați turul la plaja Mlini, unde puteți lăsa bicicleta sub o copertină pentru a finaliza ziua.",
+            "en": "Cycling in the rain requires caution but offers empty paths. Start on the seafront promenade, where the Adriatic spray cools your face. Mlini harbor looks dramatic under the grey clouds.\n\nAt noon, you reach St. Roch Chapel. Use the small porch for a short break in the dry. The stones of the old walls shine in deep grey tones.\n\nIn the afternoon, head to the ruins of Kupari. The abandoned hotels look even more impressive and melancholic in the rain. Paths here can get muddy.\n\nThe tour ends at Mlini beach, where you can park your bike under a roof overhang and wrap up the day."
+          },
+          "stops": [
+            {
+              "name": "Seafront Promenade",
+              "tip_5lang": {
+                "de": "Achtung, die Steinfliesen sind extrem rutschig.",
+                "hu": "Vigyázat, a kőlapok rendkívül csúszósak.",
+                "ro": "Atenție, dalele de piatră sunt foarte alunecoase.",
+                "en": "Warning: stone tiles are extremely slippery."
+              }
+            },
+            {
+              "name": "Mlini Harbor",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam im Bereich der Kaimauer.",
+                "hu": "Haladj lassan a móló környékén.",
+                "ro": "Mergeți încet în zona digului.",
+                "en": "Ride slowly near the pier edges."
+              }
+            },
+            {
+              "name": "St. Roch Chapel",
+              "tip_5lang": {
+                "de": "Guter Platz für einen trockenen Stopp.",
+                "hu": "Jó hely egy száraz megállóhoz.",
+                "ro": "Loc bun pentru un popas la uscat.",
+                "en": "Good spot for a dry stopover."
+              }
+            },
+            {
+              "name": "Kupari (ruins)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schlamm auf den unbefestigten Wegen.",
+                "hu": "Vigyázz a sárra a burkolatlan utakon.",
+                "ro": "Atenție la noroi pe drumurile neasfaltate.",
+                "en": "Watch out for mud on unpaved paths."
+              }
+            },
+            {
+              "name": "Mlini Beach",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter Bäumen oder Dächern ab.",
+                "hu": "Támaszd a biciklit fák vagy tető alá.",
+                "ro": "Parcați bicicleta sub copaci sau sub acoperiș.",
+                "en": "Park your bike under trees or overhangs."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Benutzen Sie Schutzbleche, um trocken zu bleiben.",
+              "Vermeiden Sie scharfe Bremsmanöver auf nassem Stein.",
+              "Tragen Sie eine gut sichtbare Regenjacke.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt.",
+              "Die Promenade in Srebreno ist bei Regen fast leer."
+            ],
+            "hu": [
+              "Használj sárvédőt, hogy száraz maradj.",
+              "Kerüld az erős fékezést a nedves kövön.",
+              "Viselj jól látható esőkabátot.",
+              "Indulás előtt ellenőrizd a fékeket.",
+              "A srebrenói sétány esőben szinte üres."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a rămâne uscați.",
+              "Evitați frânările bruște pe piatra umedă.",
+              "Purtați o jachetă de ploaie reflectorizantă.",
+              "Verificați frânele înainte de plecare.",
+              "Faleza din Srebreno este aproape goală pe ploaie."
+            ],
+            "en": [
+              "Use mudguards to stay as dry as possible.",
+              "Avoid sharp braking on wet stone surfaces.",
+              "Wear a high-visibility waterproof jacket.",
+              "Check your brake pads before starting.",
+              "The Srebreno promenade is nearly empty in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Mlini bietet frische Luft und freie Fahrt. Starten Sie auf der Promenade, wo die Wintersonne auf den Wellen glitzert. Der Hafen ist ruhig, nur wenige Boote liegen im Wasser.\n\nMittags führt der Weg zur St. Rochus Kapelle. Die kühle Brise wird durch die Anstrengung des Radfahrens wettgemacht. Die umliegenden Hügel zeigen sich in winterlichem Grün.\n\nDer Nachmittag gehört den Ruinen von Kupari. Ohne die Sommerhitze lässt sich das weitläufige Gelände der verfallenen Hotels entspannt erkunden. Die Wege sind fest und gut befahrbar.\n\nVor Sonnenuntergang erreichen Sie wieder Mlini. Die letzten Sonnenstrahlen färben die Adria in tiefes Blau, bevor die Kälte der Nacht einsetzt.",
+            "hu": "A téli kerékpározás Mliniben friss levegőt és akadálytalan haladást kínál. Kezdje a sétányon, ahol a téli napfény csillog a hullámokon. A kikötő csendes, csak néhány csónak ring a vízen.\n\nDélben az út a Szent Rókus-kápolnához vezet. A hűvös fuvallatot ellensúlyozza a tekerés okozta testmozgás. A környező dombok téli zöldben pompáznak.\n\nA délután Kupari romjaié. A nyári hőség nélkül az elhagyatott szállodák hatalmas területe kényelmesen felfedezhető. Az utak kemények és jól járhatóak.\n\nNaplemente előtt ér vissza Mlinibe. Az utolsó napsugarak mélykékre festik az Adriát, mielőtt beállna az éjszakai hideg.",
+            "ro": "Ciclismul de iarnă în Mlini oferă aer proaspăt și drumuri libere. Începeți pe faleză, unde soarele de iarnă sclipeste pe valuri. Portul este liniștit, cu puține bărci la apă.\n\nLa prânz, drumul duce spre Capela Sf. Roch. Briza rece este compensată de efortul pedalatului. Dealurile din jur se prezintă într-un verde hibernal.\n\nDupă-amiaza aparține ruinelor din Kupari. Fără căldura verii, terenul vast al hotelurilor părăsite poate fi explorat relaxat. Drumurile sunt ferme și ușor de parcurs.\n\nÎnainte de apus reveniți în Mlini. Ultimele raze de soare colorează Adriatica în albastru profund înainte de frigul nopții.",
+            "en": "Winter cycling in Mlini offers fresh air and clear paths. Start on the promenade, where the winter sun glints off the waves. The harbor is quiet, with only a few boats in the water.\n\nAt noon, the path leads to St. Roch Chapel. The cool breeze is balanced by the exertion of cycling. The surrounding hills show off their winter greenery.\n\nIn the afternoon, explore the ruins of Kupari. Without the summer heat, the sprawling grounds of the derelict hotels can be explored comfortably. The paths are firm and easy to ride.\n\nReturn to Mlini before sunset. The last rays of sun turn the Adriatic deep blue before the night chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Seafront Promenade",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe gegen den Fahrtwind.",
+                "hu": "Viselj kesztyűt a menetszél ellen.",
+                "ro": "Purtați mănuși contra vântului.",
+                "en": "Wear gloves to protect against wind chill."
+              }
+            },
+            {
+              "name": "Mlini Harbor",
+              "tip_5lang": {
+                "de": "Die Sonne steht tief, Sonnenbrille hilft.",
+                "hu": "A nap alacsonyan jár, jól jön a napszemüveg.",
+                "ro": "Soarele stă jos, ochelarii de soare ajută.",
+                "en": "The sun is low; sunglasses are helpful."
+              }
+            },
+            {
+              "name": "St. Roch Chapel",
+              "tip_5lang": {
+                "de": "Kurze Rast in der Sonne einlegen.",
+                "hu": "Tarts rövid pihenőt a napsütésben.",
+                "ro": "Faceți un scurt popas la soare.",
+                "en": "Take a short break in the sun."
+              }
+            },
+            {
+              "name": "Kupari (ruins)",
+              "tip_5lang": {
+                "de": "Ideales Wetter für die Erkundung ohne Hitze.",
+                "hu": "Ideális idő a hőség nélküli felfedezéshez.",
+                "ro": "Vreme ideală pentru explorare fără caniculă.",
+                "en": "Ideal weather for exploring without the heat."
+              }
+            },
+            {
+              "name": "Mlini Beach",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor 16:30 Uhr.",
+                "hu": "Fejezd be a túrát 16:30 előtt.",
+                "ro": "Încheiați turul înainte de 16:30.",
+                "en": "Finish your ride before 16:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten (Zwiebelprinzip).",
+              "Warme Handschuhe und Socken sind essenziell.",
+              "Die Bura kann das Radfahren erschweren.",
+              "Nutzen Sie die hellen Stunden um die Mittagszeit.",
+              "Die Wege in Kupari sind im Winter oft trocken."
+            ],
+            "hu": [
+              "Öltözködj rétegesen (hagyma elv).",
+              "A meleg kesztyű és zokni elengedhetetlen.",
+              "A bóra szél megnehezítheti a tekerést.",
+              "Használd ki a déli órák világosságát.",
+              "Kupari útjai télen gyakran szárazak."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi.",
+              "Mănușile și șosetele calde sunt esențiale.",
+              "Vântul Bura poate îngreuna pedalatul.",
+              "Profită de orele luminoase de la prânz.",
+              "Drumurile din Kupari sunt adesea uscate iarna."
+            ],
+            "en": [
+              "Dress in multiple layers (onion principle).",
+              "Warm gloves and socks are essential for winter rides.",
+              "The Bura wind can make cycling quite difficult.",
+              "Make the most of the bright midday hours.",
+              "The paths in Kupari are often dry and firm in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -746,6 +1498,366 @@
           "Drive carefully on narrow side streets.",
           "Combine the trip with a visit to Cavtat."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Mlini und das benachbarte Srebreno und Kupari bequem mit dem Auto. Diese Tour zeigt Ihnen die malerischen Seiten von Mlini und die dramatischen Kontraste in Kupari. Ein Tag voller Entdeckungen entlang der Riviera von Župa.",
+            "hu": "Fedezze fel Mlinit, a szomszédos Srebrenót és Kuparit kényelmesen, autóval. Ez a túra megmutatja Mlini festői oldalát és Kupari drámai kontrasztjait. Felfedezésekkel teli nap a Zsupai riviérán.",
+            "ro": "Descoperiți Mlini și zonele învecinate Srebreno și Kupari confortabil cu mașina. Acest tur vă arată părțile pitorești din Mlini și contrastele dramatice din Kupari. O zi plină de descoperiri de-a lungul rivierei Župa.",
+            "en": "Discover Mlini and neighboring Srebreno and Kupari comfortably by car. This tour shows you the picturesque sides of Mlini and the dramatic contrasts in Kupari. A day full of discoveries along the Župa Riviera."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mlini Hafen",
+                "hu": "Mlini kikötő",
+                "ro": "Portul Mlini",
+                "en": "Mlini Harbor"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie beim Hotel Astarea.",
+                "hu": "Parkoljon az Astarea Hotelnél.",
+                "ro": "Parcați lângă Hotel Astarea.",
+                "en": "Park near Hotel Astarea."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Wassermühlen",
+                "hu": "Régi vízimalmok",
+                "ro": "Vechile mori de apă",
+                "en": "Old Water Mills"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie die versteckten Mühlräder.",
+                "hu": "Keresse meg a rejtett malomkerekeket.",
+                "ro": "Căutați roțile de moară ascunse.",
+                "en": "Look for the hidden mill wheels."
+              }
+            },
+            {
+              "name": {
+                "de": "Kupari Strand",
+                "hu": "Kupari strand",
+                "ro": "Plaja Kupari",
+                "en": "Kupari Beach"
+              },
+              "tip_5lang": {
+                "de": "Großer Kiesstrand mit historischer Kulisse.",
+                "hu": "Nagy kavicsos strand történelmi díszlettel.",
+                "ro": "Plajă mare cu pietriș și decor istoric.",
+                "en": "Large pebble beach with a historical backdrop."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal für die Freiheit",
+                "hu": "Szabadság emlékmű",
+                "ro": "Monumentul Libertății",
+                "en": "Freedom Monument"
+              },
+              "tip_5lang": {
+                "de": "Ehrt die Gefallenen des Heimatkrieges.",
+                "hu": "A honvédő háború áldozatainak emlékműve.",
+                "ro": "Omagiază eroii căzuți în războiul de independență.",
+                "en": "Honors those fallen in the Homeland War."
+              }
+            },
+            {
+              "name": {
+                "de": "Uferpromenade Srebreno",
+                "hu": "Srebreno sétány",
+                "ro": "Promenada Srebreno",
+                "en": "Srebreno Promenade"
+              },
+              "tip_5lang": {
+                "de": "Moderner Küstenabschnitt.",
+                "hu": "Modern parti szakasz.",
+                "ro": "Secțiune de coastă modernă.",
+                "en": "Modern coastal section."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurant Puntizela",
+                "tip": "Hervorragende Pizza und lokale Fleischgerichte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Puntizela Étterem",
+                "tip": "Kiváló pizza és helyi húsételek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurant Puntizela",
+                "tip": "Pizza excelentă și mâncăruri locale din carne."
+              }
+            ],
+            "en": [
+              {
+                "name": "Puntizela Restaurant",
+                "tip": "Excellent pizza and local meat dishes."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kirche des Hl. Hilarius",
+                "tip": "Stiller Ort für innehalten.",
+                "emoji": "⛪"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szent Hiláriusz templom",
+                "tip": "Csendes pont az elmélyüléshez.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Biserica Sf. Ilarie",
+                "tip": "Loc liniștit pentru reculegere.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Church of St. Hilary",
+                "tip": "Quiet place for contemplation.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Sub City Einkaufszentrum",
+                "tip": "Große Auswahl an kroatischen Produkten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sub City bevásárlóközpont",
+                "tip": "Horvát termékek széles választéka."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Centrul comercial Sub City",
+                "tip": "O gamă largă de produse croate."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sub City Mall",
+                "tip": "Wide selection of Croatian products."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "In der Hochsaison kann die Parkplatzsuche schwierig sein.",
+              "Nutzen Sie die Tiefgarage im Sub City Mall für entspanntes Parken.",
+              "Fahren Sie vorsichtig auf den engen Seitenstraßen.",
+              "Kombinieren Sie den Trip mit einem Besuch von Cavtat."
+            ],
+            "hu": [
+              "Főszezonban a parkolás nehézkes lehet.",
+              "Használja a Sub City Mall mélygarázsát a nyugodt parkoláshoz.",
+              "Vezessen óvatosan a szűk mellékutcákban.",
+              "Kombinálja az utat Cavtat meglátogatásával."
+            ],
+            "ro": [
+              "În plin sezon, găsirea unui loc de parcare poate fi dificilă.",
+              "Folosiți parcarea subterană de la Sub City Mall pentru confort.",
+              "Conduceți cu atenție pe străzile secundare înguste.",
+              "Combinați excursia cu o vizită în Cavtat."
+            ],
+            "en": [
+              "Parking can be difficult during peak season.",
+              "Use the Sub City Mall underground parking for stress-free parking.",
+              "Drive carefully on narrow side streets.",
+              "Combine the trip with a visit to Cavtat."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Mlini auch bei Regen komfortabel erkunden. Starten Sie am Hafen, wo Sie nah am Kai parken können. Die Sicht auf die aufgewühlte See ist vom warmen Auto aus besonders eindrucksvoll.\n\nMittags führt die Fahrt zu den alten Mühlen. Der kurze Weg vom Parkplatz ist auch bei Schirmwetter machbar. Das Rauschen des Wassers ist im Regen besonders intensiv.\n\nAm Nachmittag bietet sich Kupari an. Man kann durch das Gelände fahren und die Ruinen aus dem Fenster betrachten, ohne nass zu werden. Der Kontrast der grauen Betonriesen zum grünen Umland ist im Regen stark.\n\nDer Tag endet in Srebreno, wo die Promenade auch bei Regen einen kurzen, geschützten Spaziergang ermöglicht, bevor man wieder ins Trockene zurückkehrt.",
+            "hu": "Autóval Mlini esőben is kényelmesen felfedezhető. Kezdje a kikötőben, ahol közel parkolhat a mólóhoz. A felkorbácsolt tenger látványa a meleg autóból nézve különösen hatásos.\n\nDélben látogasson el a régi malmokhoz. A parkolótól mért rövid távolság esernyővel is könnyen teljesíthető. A víz zúgása esőben még intenzívebb.\n\nDélután Kupari a cél. Végigautózhat a területen, és az ablakból csodálhatja a romokat anélkül, hogy megázna. A szürke betonóriások kontrasztja a zöld környezettel esőben felerősödik.\n\nA nap Srebrenóban zárul, ahol a sétány esőben is alkalmas egy rövid, védett sétára, mielőtt visszatérne a szárazba.",
+            "ro": "Cu mașina, Mlini poate fi explorat confortabil chiar și pe ploaie. Începeți la port, unde puteți parca aproape de dig. Vederea mării agitate din mașina caldă este deosebit de impresionantă.\n\nLa prânz, drumul duce la vechile mori. Distanța scurtă de la parcare este fezabilă chiar și cu umbrela. Susurul apei este deosebit de intens pe ploaie.\n\nDupă-amiaza este rândul stațiunii Kupari. Puteți conduce prin incintă și observa ruinele pe fereastră fără a vă uda. Contrastul giganților de beton gri cu verdele din jur este puternic pe ploaie.\n\nZiua se încheie în Srebreno, unde faleza permite o scurtă plimbare protejată chiar și pe ploaie, înainte de a reveni la adăpost.",
+            "en": "Exploring Mlini by car is comfortable even in the rain. Start at the harbor, where you can park close to the pier. The view of the turbulent sea from the warm car is particularly impressive.\n\nAt noon, drive to the old water mills. The short walk from the parking area is manageable even in umbrella weather. The sound of the rushing water is especially intense in the rain.\n\nIn the afternoon, visit Kupari. You can drive through the grounds and view the ruins from the window without getting wet. The contrast between the grey concrete giants and the green surroundings is striking in the rain.\n\nThe day ends in Srebreno, where the promenade allows for a short, sheltered walk even in rainy weather before returning to the dry."
+          },
+          "stops": [
+            {
+              "name": "Mlini Harbor",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Ufer für beste Sicht.",
+                "hu": "Parkolj közel a parthoz a legjobb kilátásért.",
+                "ro": "Parcați aproape de mal pentru vizibilitate.",
+                "en": "Park close to the shore for the best view."
+              }
+            },
+            {
+              "name": "Old Water Mills",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz, Schirm mitnehmen.",
+                "hu": "Rövid séta a parkolótól, vigyél esernyőt.",
+                "ro": "Drum scurt de la parcare, luați umbrela.",
+                "en": "Short walk from parking; bring an umbrella."
+              }
+            },
+            {
+              "name": "Kupari Beach",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto und genießen Sie die Melancholie.",
+                "hu": "Maradj az autóban, és élvezd a melankóliát.",
+                "ro": "Rămâneți în mașină și savurați atmosfera.",
+                "en": "Stay in the car and soak in the atmosphere."
+              }
+            },
+            {
+              "name": "Freedom Monument",
+              "tip_5lang": {
+                "de": "Direkt an der Straße gelegen, kurzer Halt.",
+                "hu": "Közvetlenül az út mellett, rövid megálló.",
+                "ro": "Situat chiar lângă drum, oprire scurtă.",
+                "en": "Located right by the road; easy short stop."
+              }
+            },
+            {
+              "name": "Srebreno Promenade",
+              "tip_5lang": {
+                "de": "Das Einkaufszentrum bietet Schutz vor Regen.",
+                "hu": "A bevásárlóközpont védelmet nyújt az eső elől.",
+                "ro": "Centrul comercial oferă adăpost contra ploii.",
+                "en": "The shopping center nearby offers shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkplätze sind bei Regen leichter zu finden.",
+              "Vorsicht vor Aquaplaning auf der Küstenstraße.",
+              "Nutzen Sie das Einkaufszentrum in Srebreno zum Trocknen.",
+              "Die Ruinen von Kupari lassen sich gut vom Auto aus sehen.",
+              "Halten Sie die Scheiben beschlagfrei."
+            ],
+            "hu": [
+              "Esőben könnyebb parkolóhelyet találni.",
+              "Vigyázz a vízenfutásra a tengerparti úton.",
+              "Használd a srebrenói plázát, ha megáztál.",
+              "Kupari romjai jól láthatóak az autóból is.",
+              "Ügyelj a szélvédők páramentesítésére."
+            ],
+            "ro": [
+              "Locurile de parcare sunt mai ușor de găsit pe ploaie.",
+              "Atenție la acvaplanare pe drumul de coastă.",
+              "Folosiți centrul comercial din Srebreno pentru a vă usca.",
+              "Ruinele din Kupari se văd bine din mașină.",
+              "Mențineți parbrizul dezaburit."
+            ],
+            "en": [
+              "Parking spots are easier to find in the rain.",
+              "Watch out for aquaplaning on the coastal road.",
+              "Use the Srebreno mall if you need to dry off.",
+              "Kupari ruins can be viewed easily from the car.",
+              "Keep your windows defogged for safety."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch Mlini zeigt die Region von ihrer ruhigen Seite. Starten Sie am Hafen, wo die winterliche Meeresbrise durch das Autofenster spürbar ist. Die Parkplatzsuche ist im Winter völlig stressfrei.\n\nMittags besuchen Sie die alten Mühlen. Das weiche Winterlicht lässt die bemoosten Steine leuchten. Ein kurzer Halt am Freiheitsdenkmal bietet einen weiten Blick über die Küste.\n\nDer Nachmittag führt nach Kupari. Die leeren Straßen im Resort-Gelände erlauben eine entspannte Fahrt zwischen den monumentalen Ruinen. Die klare Luft sorgt für scharfe Kontraste.\n\nZum Abschluss empfiehlt sich die Srebreno-Promenade. Ein kurzer Spaziergang in der tiefstehenden Sonne wärmt auf, bevor Sie die Heimreise im beheizten Auto antreten.",
+            "hu": "A téli autózás Mliniben a régió nyugodt arcát mutatja meg. Kezdje a kikötőben, ahol a téli tengeri szellő az ablakon át is érezhető. A parkolás télen teljesen stresszmentes.\n\nDélben látogasson el a malmokhoz. A lágy téli fényben a mohás kövek szinte világítanak. Egy rövid megálló a Szabadság-emlékműnél pazar kilátást nyújt a partvidékre.\n\nDélután Kupari a cél. Az üdülőtelep üres utcái lehetővé teszik a nyugodt autózást a monumentális romok között. A tiszta levegő éles kontrasztokat teremt.\n\nZárásként a srebrenói sétány javasolt. Egy rövid séta az alacsonyan járó napfényben felfrissít, mielőtt visszaülne a fűtött autóba.",
+            "ro": "O călătorie cu mașina iarna prin Mlini arată latura liniștită a regiunii. Începeți la port, unde briza iernii se simte prin fereastră. Găsirea parcării este lipsită de stres iarna.\n\nLa prânz, vizitați vechile mori. Lumina blândă a iernii face pietrele cu mușchi să strălucească. O oprire scurtă la Monumentul Libertății oferă o panoramă largă asupra coastei.\n\nDupă-amiaza conduce spre Kupari. Străzile pustii din complex permit o plimbare relaxată printre ruinele monumentale. Aerul clar asigură contraste puternice.\n\nLa final se recomandă faleza din Srebreno. O scurtă plimbare în soarele care stă jos vă va încălzi înainte de drumul de întoarcere în mașina încălzită.",
+            "en": "A winter drive through Mlini reveals the region's peaceful side. Start at the harbor, where the winter sea breeze can be felt through the car window. Parking is completely stress-free in winter.\n\nAt noon, visit the old water mills. The soft winter light makes the mossy stones glow. A quick stop at the Freedom Monument offers a wide view over the coastline.\n\nIn the afternoon, head to Kupari. The empty streets within the resort grounds allow for a relaxed drive among the monumental ruins. The clear air creates sharp contrasts.\n\nTo wrap up, the Srebreno promenade is recommended. A short walk in the low sun warms you up before heading home in your heated car."
+          },
+          "stops": [
+            {
+              "name": "Mlini Harbor",
+              "tip_5lang": {
+                "de": "Kein Parkplatzmangel im Winter.",
+                "hu": "Télen nincs parkolóhiány.",
+                "ro": "Fără lipsă de locuri de parcare iarna.",
+                "en": "No parking shortages in winter."
+              }
+            },
+            {
+              "name": "Old Water Mills",
+              "tip_5lang": {
+                "de": "Das Winterlicht ist perfekt für Fotos.",
+                "hu": "A téli fény tökéletes a fotózáshoz.",
+                "ro": "Lumina iernii este perfectă pentru poze.",
+                "en": "Winter light is perfect for photography."
+              }
+            },
+            {
+              "name": "Kupari Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am leeren Strand.",
+                "hu": "Élvezd a nyugalmat az üres strandon.",
+                "ro": "Bucurați-vă de liniștea plajei pustii.",
+                "en": "Enjoy the silence on the empty beach."
+              }
+            },
+            {
+              "name": "Freedom Monument",
+              "tip_5lang": {
+                "de": "Windig, bleiben Sie bei Bedarf im Auto.",
+                "hu": "Szeles hely, szükség esetén maradj az autóban.",
+                "ro": "Vânt puternic, rămâneți în mașină la nevoie.",
+                "en": "Windy spot; stay in the car if needed."
+              }
+            },
+            {
+              "name": "Srebreno Promenade",
+              "tip_5lang": {
+                "de": "Nutzen Sie die letzte Nachmittagssonne.",
+                "hu": "Használd ki az utolsó délutáni napsugarakat.",
+                "ro": "Profită de ultimul soare al după-amiezii.",
+                "en": "Make the most of the late afternoon sun."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkgebühren sind im Winter oft reduziert.",
+              "Die Küstenstraße ist im Winter deutlich leerer.",
+              "Planen Sie die Route so, dass Sie im Hellen ankommen.",
+              "Prüfen Sie den Frostschutz der Waschanlage.",
+              "Nutzen Sie die Sitzheizung für maximale Gemütlichkeit."
+            ],
+            "hu": [
+              "A parkolási díjak télen gyakran alacsonyabbak.",
+              "A tengerparti út télen sokkal üresebb.",
+              "Tervezd úgy az utat, hogy világosban érkezz.",
+              "Ellenőrizd a szélvédőmosó fagyállóságát.",
+              "Használd az ülésfűtést a maximális kényelemért."
+            ],
+            "ro": [
+              "Taxele de parcare sunt adesea reduse iarna.",
+              "Drumul de coastă este mult mai liber iarna.",
+              "Planificați ruta ca să ajungeți pe lumină.",
+              "Verificați antigelul lichidului de parbriz.",
+              "Folosiți încălzirea în scaune pentru confort."
+            ],
+            "en": [
+              "Parking fees are often lower in winter.",
+              "The coastal road is much less crowded in winter.",
+              "Plan your route to arrive during daylight hours.",
+              "Check your windshield washer fluid for frost resistance.",
+              "Use seat heating for maximum coziness."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -985,6 +2097,366 @@
           "The ticket costs about 3 Euros per ride.",
           "Water taxis to Dubrovnik also depart from the harbor."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mlini ist perfekt an das Busnetz von Dubrovnik angeschlossen. Die Linie 10 bringt Sie direkt ins Herz des Ortes. Verbringen Sie einen entspannten Tag am Wasser, ohne sich um Parkplätze kümmern zu müssen. Ein idealer Ausflug für alle, die das Auto stehen lassen wollen.",
+            "hu": "Mlini tökéletesen kapcsolódik a dubrovniki buszhálózathoz. A 10-es járat közvetlenül a falu szívébe viszi. Töltsön el egy nyugodt napot a víznél, anélkül, hogy a parkolás miatt aggódna. Ideális kirándulás autómenteseknek.",
+            "ro": "Mlini este perfect conectat la rețeaua de autobuze din Dubrovnik. Linia 10 vă duce direct în inima localității. Petreceți o zi relaxată la apă, fără a vă face griji pentru parcare. O excursie ideală pentru cei care vor să lase mașina în urmă.",
+            "en": "Mlini is perfectly connected to the Dubrovnik bus network. Line 10 takes you directly to the heart of the village. Spend a relaxed day by the water without worrying about parking. An ideal excursion for those who want to leave the car behind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bushaltestelle Mlini",
+                "hu": "Mlini buszmegálló",
+                "ro": "Stația de autobuz Mlini",
+                "en": "Mlini Bus Stop"
+              },
+              "tip_5lang": {
+                "de": "Linie 10 ab Dubrovnik.",
+                "hu": "10-es busz Dubrovnikból.",
+                "ro": "Linia 10 din Dubrovnik.",
+                "en": "Bus line 10 from Dubrovnik."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Wassermühlen",
+                "hu": "Régi vízimalmok",
+                "ro": "Vechile mori de apă",
+                "en": "Old Water Mills"
+              },
+              "tip_5lang": {
+                "de": "Vom Bus aus bergab laufen.",
+                "hu": "A busztól lefelé kell sétálni.",
+                "ro": "Mergeți la vale de la autobuz.",
+                "en": "Walk downhill from the bus stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Mlini Hafen",
+                "hu": "Mlini kikötő",
+                "ro": "Portul Mlini",
+                "en": "Mlini Harbor"
+              },
+              "tip_5lang": {
+                "de": "Zentrum des Geschehens.",
+                "hu": "A falu központja.",
+                "ro": "Centrul activității.",
+                "en": "The heart of the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Uferpromenade",
+                "hu": "Tengerparti sétány",
+                "ro": "Promenada de țărm",
+                "en": "Seafront Promenade"
+              },
+              "tip_5lang": {
+                "de": "Flacher Spaziergang am Meer.",
+                "hu": "Lapos tengerparti séta.",
+                "ro": "Plimbare plată pe lângă mare.",
+                "en": "Flat walk along the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Mlini Strand",
+                "hu": "Mlini strand",
+                "ro": "Plaja Mlini",
+                "en": "Mlini Beach"
+              },
+              "tip_5lang": {
+                "de": "Letzte Entspannung vor dem Bus.",
+                "hu": "Utolsó pihenő a busz előtt.",
+                "ro": "Ultima relaxare înainte de autobuz.",
+                "en": "Final relaxation before the bus."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bistro G",
+                "tip": "Schnelle und leckere Gerichte nahe der Haltestelle."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bistro G",
+                "tip": "Gyors és ízletes ételek a buszmegálló közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bistro G",
+                "tip": "Mâncăruri rapide și gustoase lângă stație."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bistro G",
+                "tip": "Quick and tasty dishes near the bus stop."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Promenadenbank",
+                "tip": "Setzen Sie sich unter die alten Bäume.",
+                "emoji": "🌳"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sétány menti pad",
+                "tip": "Üljön le a vén fák alá.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bancă pe promenadă",
+                "tip": "Așezați-vă sub copacii bătrâni.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Promenade Bench",
+                "tip": "Sit down under the old trees.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Kiosk im Hafen",
+                "tip": "Postkarten und Zeitschriften."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötői kioszk",
+                "tip": "Képeslapok és újságok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chioșc în port",
+                "tip": "Vederi și reviste."
+              }
+            ],
+            "en": [
+              {
+                "name": "Harbor Kiosk",
+                "tip": "Postcards and magazines."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Busse fahren regelmäßig (alle 30-60 Min).",
+              "Die Haltestelle in Richtung Dubrovnik liegt auf der anderen Straßenseite.",
+              "Das Ticket kostet ca. 3 Euro pro Fahrt.",
+              "Boots-Taxis nach Dubrovnik fahren auch ab dem Hafen."
+            ],
+            "hu": [
+              "A buszok rendszeresen járnak (30-60 percenként).",
+              "A Dubrovnik felé tartó megálló az út túloldalán van.",
+              "A jegy ára kb. 3 euró utanként.",
+              "Vízi taxik is indulnak Dubrovnikba a kikötőből."
+            ],
+            "ro": [
+              "Autobuzele circulă regulat (la fiecare 30-60 min).",
+              "Stația spre Dubrovnik este pe partea opusă a drumului.",
+              "Biletul costă aproximativ 3 euro pe călătorie.",
+              "Taxiurile pe apă spre Dubrovnik pleacă tot din port."
+            ],
+            "en": [
+              "Buses run regularly (every 30-60 min).",
+              "The stop towards Dubrovnik is on the other side of the road.",
+              "The ticket costs about 3 Euros per ride.",
+              "Water taxis to Dubrovnik also depart from the harbor."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus lässt sich Mlini auch bei Regen gut erkunden, da die Haltestellen meist zentral liegen. Starten Sie an der Busstation Mlini, die einen gewissen Schutz bietet. Von dort ist es nur ein kurzer Sprung zu den Mühlen.\n\nMittags erkunden Sie den Hafen. Die Busverbindungen nach Srebreno sind auch bei Regen zuverlässig. Die kurzen Wartezeiten im Trockenen der Haltestelle sind ideal.\n\nAm Nachmittag führt der Weg entlang der Promenade. Da der Bus parallel zur Küste fährt, kann man jederzeit einsteigen, wenn der Regen zu stark wird.\n\nDer Tag endet am Mlini-Strand. Die Rückfahrt mit dem Bus bietet einen warmen und trockenen Abschluss des Ausflugs.",
+            "hu": "Busszal Mlini esőben is jól felfedezhető, mivel a megállók központi helyen vannak. Kezdjen a Mlini buszmegállónál, amely némi védelmet nyújt. Innen csak egy ugrás a malmok területe.\n\nDélben fedezze fel a kikötőt. A srebrenói buszjáratok esőben is megbízhatóak. A megállók fedett részei ideálisak a várakozáshoz.\n\nDélután a sétányon haladhat. Mivel a busz a parttal párhuzamosan közlekedik, bármikor felszállhat, ha túl intenzívvé válna az eső.\n\nA nap a Mlini-strandon zárul. A buszos visszautazás meleg és száraz lezárása a kirándulásnak.",
+            "ro": "Cu autobuzul, Mlini poate fi explorat bine chiar și pe ploaie, stațiile fiind centrale. Începeți la stația de autobuz Mlini, care oferă oarecare protecție. De acolo e doar un pas până la mori.\n\nLa prânz explorați portul. Legăturile spre Srebreno sunt de încredere și pe ploaie. Timpii scurți de așteptare în stațiile acoperite sunt ideali.\n\nDupă-amiaza drumul continuă pe faleză. Deoarece autobuzul circulă paralel cu coasta, puteți urca oricând dacă ploaia devine prea puternică.\n\nZiua se încheie la plaja Mlini. Întoarcerea cu autobuzul oferă un final cald și uscat excursiei.",
+            "en": "Mlini is easily explored by bus even in the rain, as most stops are centrally located. Start at the Mlini bus stop, which provides some cover. From there, it's just a short hop to the water mills.\n\nAt noon, explore the harbor area. Bus connections to Srebreno remain reliable during rainy weather. Short waits in the dry bus shelters are ideal.\n\nIn the afternoon, walk along the promenade. Since the bus runs parallel to the coast, you can hop on at any time if the rain gets too heavy.\n\nThe day ends at Mlini beach. The return bus trip provides a warm and dry conclusion to your outing."
+          },
+          "stops": [
+            {
+              "name": "Mlini Bus Stop",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Unterstand.",
+                "hu": "Várj a fedett megállóban.",
+                "ro": "Așteptați sub adăpostul stației.",
+                "en": "Wait under the bus shelter."
+              }
+            },
+            {
+              "name": "Old Water Mills",
+              "tip_5lang": {
+                "de": "Schneller Weg von der Haltestelle.",
+                "hu": "Gyors út a megállótól.",
+                "ro": "Drum rapid de la stație.",
+                "en": "Quick walk from the bus stop."
+              }
+            },
+            {
+              "name": "Mlini Harbor",
+              "tip_5lang": {
+                "de": "Busse nach Dubrovnik/Cavtat fahren häufig.",
+                "hu": "Gyakori buszjáratok Dubrovnik/Cavtat felé.",
+                "ro": "Autobuze frecvente spre Dubrovnik/Cavtat.",
+                "en": "Frequent buses towards Dubrovnik/Cavtat."
+              }
+            },
+            {
+              "name": "Seafront Promenade",
+              "tip_5lang": {
+                "de": "Nächste Haltestelle ist in Srebreno.",
+                "hu": "A következő megálló Srebrenóban van.",
+                "ro": "Următoarea stație este în Srebreno.",
+                "en": "The next stop is in Srebreno."
+              }
+            },
+            {
+              "name": "Mlini Beach",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg zur Hauptstraße ein.",
+                "hu": "Tervezd meg a visszautat a főúthoz.",
+                "ro": "Planificați drumul înapoi spre șosea.",
+                "en": "Plan your walk back to the main road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan per App bei Regen.",
+              "Die Busse sind im Regen oft voller als sonst.",
+              "Halten Sie Kleingeld oder die Libertas-App bereit.",
+              "Die Haltestellen an der Magistrale sind teils offen.",
+              "Nutzen Sie die Zeit im Bus zum Aufwärmen."
+            ],
+            "hu": [
+              "Esőben ellenőrizd a menetrendet appon.",
+              "A buszok esőben gyakran zsúfoltabbak.",
+              "Készíts elő aprópénzt vagy a Libertas appot.",
+              "A főúti megállók egy része nyitott.",
+              "Használd ki a buszozást a felmelegedésre."
+            ],
+            "ro": [
+              "Verificați orarul pe aplicație când plouă.",
+              "Autobuzele sunt adesea mai aglomerate pe ploaie.",
+              "Pregătiți mărunțiș sau aplicația Libertas.",
+              "Unele stații de pe magistrală sunt deschise.",
+              "Folosiți timpul în autobuz pentru a vă încălzi."
+            ],
+            "en": [
+              "Check the bus schedule via app during rain.",
+              "Buses tend to be more crowded in rainy weather.",
+              "Have exact change or the Libertas app ready.",
+              "Some stops on the main road are partially exposed.",
+              "Use your time on the bus to warm up and dry off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Busverkehr in Mlini ist auch im Winter verlässlich und verbindet die Küstenorte stressfrei. Starten Sie an der Busstation Mlini, wenn die frische Morgenluft über die Berge zieht. Die Fahrt bietet tolle Ausblicke auf die winterliche Adria.\n\nMittags erreichen Sie die alten Mühlen. In der Nebensaison sind die Busse angenehm leer. Das Licht der tiefstehenden Wintersonne begleitet Sie auf dem kurzen Fußweg.\n\nAm Nachmittag führt die Route zum Hafen und weiter zur Promenade. Der öffentliche Nahverkehr ist ideal, um Teilstrecken zu überbrücken und sich zwischendurch aufzuwärmen.\n\nDer Tag endet am Mlini-Strand. Mit dem Bus geht es komfortabel zurück, während draußen die frühe Winterdämmerung einsetzt.",
+            "hu": "A buszközlekedés Mliniben télen is megbízható, és stresszmentesen köti össze a parti településeket. Kezdje a Mlini megállónál, amikor a friss reggeli levegő a hegyek felől érkezik. Az utazás közben nagyszerű kilátás nyílik a téli Adriára.\n\nDélben látogasson el a vízimalmokhoz. Utószezonban a buszok kellemesen üresek. Az alacsonyan járó téli napfény kíséri a rövid gyalogúton.\n\nDélután a kikötő és a sétány a cél. A tömegközlekedés ideális bizonyos szakaszok áthidalására és a közbeni felmelegedésre.\n\nA nap a Mlini-strandon zárul. Busszal kényelmesen utazhat vissza, miközben kint beáll a korai téli szürkület.",
+            "ro": "Transportul cu autobuzul în Mlini este de încredere și iarna, conectând localitățile de coastă fără stres. Începeți la stația Mlini, când aerul proaspăt al dimineții vine de peste munți. Drumul oferă vederi superbe spre Adriatica iernatică.\n\nLa prânz vizitați vechile mori. În extrasezon, autobuzele sunt plăcut de goale. Lumina soarelui de iarnă vă însoțește pe drumul scurt pe jos.\n\nDupă-amiaza ruta conduce spre port și faleză. Transportul public este ideal pentru a acoperi porțiuni de drum și pentru a vă încălzi între timp.\n\nZiua se încheie la plaja Mlini. Întoarcerea cu autobuzul este confortabilă în timp ce afară se lasă amurgul timpuriu de iarnă.",
+            "en": "Bus services in Mlini remain reliable in winter, connecting coastal villages without the stress. Start at the Mlini stop as the fresh morning air moves over the mountains. The ride offers great views of the winter Adriatic.\n\nAt noon, visit the old water mills. In the off-season, buses are pleasantly empty. The soft winter light accompanies you on the short walk.\n\nIn the afternoon, the route leads to the harbor and the promenade. Public transit is ideal for bridging sections of your route and warming up in between. \n\nThe day ends at Mlini beach. The bus provides a comfortable way back as the early winter dusk sets in outside."
+          },
+          "stops": [
+            {
+              "name": "Mlini Bus Stop",
+              "tip_5lang": {
+                "de": "Fahrpläne können im Winter leicht abweichen.",
+                "hu": "A menetrend télen némileg eltérhet.",
+                "ro": "Orarele pot varia ușor iarna.",
+                "en": "Schedules may vary slightly in winter."
+              }
+            },
+            {
+              "name": "Old Water Mills",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne Touristenmassen.",
+                "hu": "Élvezd a nyugalmat turistatömegek nélkül.",
+                "ro": "Bucurați-vă de liniște fără mulțimi.",
+                "en": "Enjoy the peace without the summer crowds."
+              }
+            },
+            {
+              "name": "Mlini Harbor",
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt für die Region.",
+                "hu": "Központi átszállóhely a régióban.",
+                "ro": "Punct central de transfer pentru regiune.",
+                "en": "Central transfer point for the region."
+              }
+            },
+            {
+              "name": "Seafront Promenade",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt an der Hauptstraße.",
+                "hu": "A busz közvetlenül a főúton áll meg.",
+                "ro": "Autobuzul oprește chiar pe drumul principal.",
+                "en": "The bus stops right on the main road."
+              }
+            },
+            {
+              "name": "Mlini Beach",
+              "tip_5lang": {
+                "de": "Letzter Bus im Hellen gegen 16:30 Uhr.",
+                "hu": "Az utolsó busz világosban 16:30 körül van.",
+                "ro": "Ultimul autobuz pe lumină este în jur de 16:30.",
+                "en": "Last bus during daylight is around 16:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne der Linie 10 beachten.",
+              "Busse sind gut beheizt und komfortabel.",
+              "Die Tickets sind oft günstiger als Parkgebühren.",
+              "Vermeiden Sie die Rushhour am frühen Abend.",
+              "Die Haltestellen bieten oft tolle Ausblicke."
+            ],
+            "hu": [
+              "Figyeld a 10-es járat téli menetrendjét.",
+              "A buszok jól fűtöttek és kényelmesek.",
+              "A jegyek gyakran olcsóbbak a parkolásnál.",
+              "Kerüld a kora esti csúcsforgalmat.",
+              "A megállókból gyakran remek a kilátás."
+            ],
+            "ro": [
+              "Respectați orarul de iarnă al liniei 10.",
+              "Autobuzele sunt bine încălzite și confortabile.",
+              "Biletele sunt adesea mai ieftine ca parcarea.",
+              "Evitați ora de vârf de la începutul serii.",
+              "Stațiile oferă adesea vederi panoramice."
+            ],
+            "en": [
+              "Check the winter schedules for line 10.",
+              "Buses are well-heated and very comfortable.",
+              "Tickets are often cheaper than parking fees.",
+              "Try to avoid the early evening rush hour.",
+              "The bus stops often provide excellent views."
+            ]
+          }
+        }
       }
     }
   },

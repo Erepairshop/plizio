@@ -359,6 +359,455 @@
           "The city is especially magical in the evening when lit up.",
           "Drink water from the historical fountains."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen auf der mittelalterlichen Piazza dei Priori und erkunden Sie den Dom mit seinem prächtigen Taufbecken. Tauchen Sie mittags im Guarnacci-Museum tief in die etruskische Geschichte ein und schlendern Sie durch die engen Gassen zur etruskischen Porta all'Arco. Am Nachmittag erwarten Sie die beeindruckenden Ruinen des römischen Theaters und die Kunstschätze der Pinakothek. Den Tag lassen Sie mit einem Spaziergang entlang der gewaltigen Mauern der Medici-Festung ausklingen.",
+            "hu": "Kezdje a reggelt a középkori Piazza dei Priorin, majd fedezze fel a dómot a pompás keresztelőkápolnával. Délben merüljön el az etruszk történelemben a Guarnacci Múzeumban, és sétáljon a szűk utcákon az etruszk Porta all'Arcóig. Délután a római színház lenyűgöző romjai és a Pinakothek kincsei várják. A napot a Medici-erőd hatalmas falai mentén tett sétával zárhatja.",
+            "ro": "Începeți dimineața în medievala Piazza dei Priori și explorați catedrala cu baptisteriul său magnific. La prânz, scufundați-vă în istoria etruscă la Muzeul Guarnacci și plimbați-vă pe străzile înguste până la poarta etruscă Porta all'Arco. După-amiaza vă așteaptă ruinele impresionante ale teatrului roman și comorile de artă de la Pinacotecă. Încheiați ziua cu o plimbare de-a lungul zidurilor masive ale Fortăreței Medici.",
+            "en": "Start your morning at the medieval Piazza dei Priori and explore the cathedral with its magnificent baptistery. At midday, dive deep into Etruscan history at the Guarnacci Museum and stroll through the narrow streets to the Etruscan Porta all'Arco. In the afternoon, the impressive ruins of the Roman theater and the art treasures of the Pinacoteca await. End the day with a walk along the massive walls of the Medici Fortress."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza dei Priori",
+                "hu": "Piazza dei Priori",
+                "ro": "Piazza dei Priori",
+                "en": "Piazza dei Priori"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Cattedrale di Santa Maria Assunta",
+                "hu": "Mária Mennybemenetele székesegyház",
+                "ro": "Catedrala Santa Maria Assunta",
+                "en": "Cathedral of Santa Maria Assunta"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Museo Etrusco Guarnacci",
+                "hu": "Guarnacci Etruszk Múzeum",
+                "ro": "Muzeul Etrusc Guarnacci",
+                "en": "Guarnacci Etruscan Museum"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Porta all'Arco",
+                "hu": "Porta all'Arco",
+                "ro": "Porta all'Arco",
+                "en": "Porta all'Arco"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Teatro Romano",
+                "hu": "Római Színház",
+                "ro": "Teatrul Roman",
+                "en": "Roman Theatre"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Pinacoteca Civica",
+                "hu": "Városi Képtár",
+                "ro": "Pinacoteca Civica",
+                "en": "Civic Picture Gallery"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Fortezza Medicea",
+                "hu": "Medici-erőd",
+                "ro": "Fortăreața Medicea",
+                "en": "Medici Fortress"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pappardelle al Cinghiale",
+                "tip": "Hausgemachte Nudeln mit Wildschweinragout bei 'Don Beta'."
+              },
+              {
+                "name": "Zuppa di Volterra",
+                "tip": "Eine herzhafte Gemüsesuppe mit Brot und lokalen Bohnen."
+              },
+              {
+                "name": "Alabaster-Käse",
+                "tip": "Pecorino-Käse, der in der Region gereift ist."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pappardelle al Cinghiale",
+                "tip": "Házi tészta vaddisznóraguval a 'Don Beta' étteremben."
+              },
+              {
+                "name": "Zuppa di Volterra",
+                "tip": "Kiadós zöldségleves kenyérrel és helyi babbal."
+              },
+              {
+                "name": "Alabástrom sajt",
+                "tip": "Helyi érlelésű pecorino sajt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pappardelle al Cinghiale",
+                "tip": "Paste de casă cu sos de mistreț la 'Don Beta'."
+              },
+              {
+                "name": "Zuppa di Volterra",
+                "tip": "O supă de legume consistentă cu pâine și fasole locală."
+              },
+              {
+                "name": "Brânză Alabastru",
+                "tip": "Brânză pecorino maturată în regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pappardelle al Cinghiale",
+                "tip": "Homemade pasta with wild boar ragout at 'Don Beta'."
+              },
+              {
+                "name": "Zuppa di Volterra",
+                "tip": "A hearty vegetable soup with bread and local beans."
+              },
+              {
+                "name": "Alabaster Cheese",
+                "tip": "Pecorino cheese matured in the region."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parco Enrico Fiumi",
+                "tip": "Ein ruhiger Park innerhalb der Mauern.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Viale dei Ponti",
+                "tip": "Panoramablick über das Tal bei Sonnenuntergang.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parco Enrico Fiumi",
+                "tip": "Csendes park a városfalakon belül.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Viale dei Ponti",
+                "tip": "Panorámás kilátás a völgyre naplementekor.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parco Enrico Fiumi",
+                "tip": "Un parc liniștit în interiorul zidurilor.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Viale dei Ponti",
+                "tip": "Vedere panoramică asupra văii la apus.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parco Enrico Fiumi",
+                "tip": "A quiet park inside the city walls.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Viale dei Ponti",
+                "tip": "Panoramic view over the valley at sunset.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Alabaster-Werkstätten",
+                "tip": "Handgefertigte Skulpturen direkt vom Künstler."
+              },
+              {
+                "name": "L'Isola di Gauguin",
+                "tip": "Einzigartige Keramik und lokale Kunst."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Alabástrom műhelyek",
+                "tip": "Kézzel készített szobrok közvetlenül a művészektől."
+              },
+              {
+                "name": "L'Isola di Gauguin",
+                "tip": "Egyedi kerámiák és helyi művészet."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ateliere de Alabastru",
+                "tip": "Sculpturi lucrate manual direct de la artist."
+              },
+              {
+                "name": "L'Isola di Gauguin",
+                "tip": "Ceramică unică și artă locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Alabaster Workshops",
+                "tip": "Handcrafted sculptures directly from the artist."
+              },
+              {
+                "name": "L'Isola di Gauguin",
+                "tip": "Unique ceramics and local art."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die steilen, kopfsteingepflasterten Gassen.",
+              "Kaufen Sie die Volterra Card für den kombinierten Eintritt in Museen.",
+              "Die Stadt ist abends besonders magisch beleuchtet.",
+              "Trinken Sie Wasser aus den historischen Brunnen."
+            ],
+            "hu": [
+              "Viselj kényelmes cipőt a meredek, macskaköves utcákhoz.",
+              "Vásárolj Volterra Cardot a múzeumi belépők kedvezményes áráért.",
+              "A város este, kivilágítva különösen varázslatos.",
+              "Igyál vizet a történelmi kutakból."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru străzile abrupte cu piatră cubică.",
+              "Cumpărați Volterra Card pentru acces combinat la muzee.",
+              "Orașul este deosebit de magic seara, când este iluminat.",
+              "Beți apă de la fântânile istorice."
+            ],
+            "en": [
+              "Wear comfortable shoes for the steep, cobbled streets.",
+              "Purchase the Volterra Card for combined museum entry.",
+              "The city is especially magical in the evening when lit up.",
+              "Drink water from the historical fountains."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendlicher Spaziergang über den nassen Piazza dei Priori, wo die Steine im Regen glänzen. Ein Besuch im Dom bietet Schutz und spirituelle Ruhe vor dem Mittagessen.\nNachmittags tauchen wir tief in die etruskische Geschichte im Guarnacci-Museum ein, perfekt für regnerische Stunden.\nDer Tag endet mit einem Blick auf das römische Theater, dessen Ruinen im Nebel besonders mystisch wirken.",
+            "hu": "Reggeli séta a Piazza dei Priori kövein, amelyek csillognak az esőben. A székesegyház látogatása menedéket és lelki békét nyújt az ebéd előtt.\nDélután elmerülünk az etruszk történelemben a Guarnacci Múzeumban, amely tökéletes választás a csapadékos órákra.\nA nap a római színház romjai felett zárul, amelyek a ködben különösen misztikus látványt nyújtanak Volterra dombjai között.",
+            "ro": "O plimbare de dimineață prin Piazza dei Priori, unde pietrele strălucesc în ploaie. Vizitarea Catedralei oferă adăpost și liniște înainte de prânz.\nDupă-amiaza ne cufundăm în istoria etruscă la Muzeul Guarnacci, ideal pentru orele ploioase.\nZiua se încheie cu o privire asupra Teatrului Roman, ale cărui ruine par deosebit de mistice în ceața care coboară peste dealuri.",
+            "en": "A morning stroll across Piazza dei Priori, where the stones glisten in the rain. Visiting the Cathedral offers shelter and spiritual peace before lunch.\nIn the afternoon, we dive deep into Etruscan history at the Guarnacci Museum, perfect for rainy hours.\nThe day ends with a view of the Roman Theatre, whose ruins look particularly mystical in the mist descending over Volterra."
+          },
+          "stops": [
+            {
+              "name": "Piazza dei Priori",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem rutschigen Pflaster; die Spiegelungen sind toll für Fotos.",
+                "hu": "Vigyázzon a csúszós macskaköveken; a tükröződések kiválóak fotózáshoz.",
+                "ro": "Atenție la pavajul alunecos; reflexiile sunt superbe pentru fotografii.",
+                "en": "Careful on the slippery pavement; the reflections are great for photos."
+              }
+            },
+            {
+              "name": "Cathedral of Santa Maria Assunta",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den stärksten Regen abzuwarten und die Decke zu bewundern.",
+                "hu": "Ideális hely a legerősebb eső kivárására és a mennyezet megcsodálására.",
+                "ro": "Un loc ideal pentru a aștepta trecerea ploii și pentru a admira tavanul.",
+                "en": "An ideal spot to wait out the heaviest rain and admire the ceiling."
+              }
+            },
+            {
+              "name": "Guarnacci Etruscan Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, um trocken zu bleiben und die Urnen zu sehen.",
+                "hu": "Tervezzen ide több időt, hogy száraz maradjon és megnézze az urnákat.",
+                "ro": "Planificați mai mult timp aici pentru a rămâne uscați și a vedea urnele.",
+                "en": "Plan more time here to stay dry and see the famous Etruscan urns."
+              }
+            },
+            {
+              "name": "Porta all'Arco",
+              "tip_5lang": {
+                "de": "Der Bogen bietet einen kurzen Unterstand vor dem nächsten Regenschauer.",
+                "hu": "A kapu rövid menedéket nyújt a következő zápor előtt.",
+                "ro": "Poarta oferă un scurt adăpost înainte de următoarea aversă.",
+                "en": "The arch provides a brief shelter before the next rain shower."
+              }
+            },
+            {
+              "name": "Roman Theatre",
+              "tip_5lang": {
+                "de": "Von der Straße oben hat man auch bei Regen einen guten Blick auf die Ausgrabungen.",
+                "hu": "A fenti utcáról esőben is jó kilátás nyílik az ásatásokra.",
+                "ro": "De pe strada de sus aveți o vedere bună asupra săpăturilor chiar și pe ploaie.",
+                "en": "From the street above, you have a good view of the excavations even in rain."
+              }
+            },
+            {
+              "name": "Civic Picture Gallery",
+              "tip_5lang": {
+                "de": "Ein wunderbarer Rückzugsort für Kunstliebhaber bei schlechtem Wetter.",
+                "hu": "Csodálatos menedék a művészetkedvelőknek rossz idő esetén.",
+                "ro": "Un refugiu minunat pentru iubitorii de artă în caz de vreme rea.",
+                "en": "A wonderful retreat for art lovers in case of bad weather."
+              }
+            },
+            {
+              "name": "Medici Fortress",
+              "tip_5lang": {
+                "de": "Die Außenmauern können bei Wind und Regen sehr ungemütlich sein.",
+                "hu": "A külső falak szeles és esős időben nagyon barátságtalanok lehetnek.",
+                "ro": "Zidurile exterioare pot fi foarte inconfortabile pe vânt și ploaie.",
+                "en": "The outer walls can be very uncomfortable in wind and rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die engen Gassen als Windschutz.",
+              "Ein stabiler Regenschirm ist bei den Aufwinden am Hügel ratsam.",
+              "Besuchen Sie Alabaster-Werkstätten für trockene Pausen.",
+              "Wasserdichtes Schuhwerk ist für die mittelalterlichen Gassen Pflicht."
+            ],
+            "hu": [
+              "Használja a szűk utcákat szélvédelemként.",
+              "A dombon feltámadó szél miatt erős esernyő javasolt.",
+              "Látogasson el alabástromműhelyekbe a száraz szünetekért.",
+              "Vízálló lábbeli kötelező a középkori utcákon."
+            ],
+            "ro": [
+              "Folosiți străzile înguste ca protecție împotriva vântului.",
+              "Se recomandă o umbrelă rezistentă din cauza vântului de pe deal.",
+              "Vizitați atelierele de alabastru pentru pauze uscate.",
+              "Încălțămintea impermeabilă este obligatorie pentru străzile medievale."
+            ],
+            "en": [
+              "Use narrow alleys as wind protection.",
+              "A sturdy umbrella is advised due to updrafts on the hill.",
+              "Visit alabaster workshops for dry breaks.",
+              "Waterproof footwear is mandatory for the medieval streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft am Morgen lässt die etruskischen Mauern scharf hervortreten. Ein kurzer Stopp auf dem Hauptplatz belebt die Geister.\nMittags wärmen wir uns in der Kathedrale auf, bevor es zu den warmen Ausstellungsräumen des Guarnacci-Museums geht.\nDer frühe Sonnenuntergang taucht die Festung in ein goldenes Licht, gefolgt von einem gemütlichen Abend in den beleuchteten Gassen.",
+            "hu": "A tiszta téli reggeli levegőben élesen kirajzolódnak az etruszk falak. Egy rövid megálló a főtéren felfrissíti a lelket.\nDélben a székesegyházban melegszünk fel, mielőtt a Guarnacci Múzeum fűtött kiállítótermeibe indulnánk.\nA korai naplemente arany fénybe vonja az erődöt, amit hangulatos este követ a kivilágított sikátorokban.",
+            "ro": "Aerul curat de dimineață face ca zidurile etrusce să iasă în evidență. O scurtă oprire în piața principală revigorează spiritul.\nLa prânz ne încălzim în Catedrală înainte de a merge în sălile calde ale Muzeului Guarnacci.\nApusul timpuriu scaldă fortăreața într-o lumină aurie, urmat de o seară primitoare pe străzile iluminate.",
+            "en": "The crisp winter morning air makes the Etruscan walls stand out sharply. A short stop in the main square refreshes the spirit.\nAt noon, we warm up in the Cathedral before heading to the heated exhibition halls of the Guarnacci Museum.\nThe early sunset bathes the fortress in golden light, followed by a cozy evening in the illuminated alleys."
+          },
+          "stops": [
+            {
+              "name": "Piazza dei Priori",
+              "tip_5lang": {
+                "de": "Der Wind kann hier im Winter sehr schneidend sein; warm anziehen.",
+                "hu": "A szél itt télen nagyon metsző lehet; öltözzön fel melegen.",
+                "ro": "Vântul poate fi foarte tăios aici iarna; îmbrăcați-vă bine.",
+                "en": "The wind can be very biting here in winter; dress warmly."
+              }
+            },
+            {
+              "name": "Cathedral of Santa Maria Assunta",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um der Kälte für einen Moment zu entkommen.",
+                "hu": "Csendes hely, ahol egy pillanatra elmenekülhet a hideg elől.",
+                "ro": "Un loc liniștit unde puteți scăpa de frig pentru o clipă.",
+                "en": "A quiet place to escape the cold for a moment."
+              }
+            },
+            {
+              "name": "Guarnacci Etruscan Museum",
+              "tip_5lang": {
+                "de": "Die Innenräume sind gut temperiert und bieten stundenlang Schutz.",
+                "hu": "A belső terek jól fűtöttek és órákig tartó védelmet nyújtanak.",
+                "ro": "Interioarele sunt bine încălzite și oferă protecție timp de ore întregi.",
+                "en": "The interiors are well-tempered and offer protection for hours."
+              }
+            },
+            {
+              "name": "Porta all'Arco",
+              "tip_5lang": {
+                "de": "Das tiefe Winterlicht eignet sich hervorragend für dramatische Fotos.",
+                "hu": "Az alacsony téli napfény kiváló a drámai fotókhoz.",
+                "ro": "Lumina joasă de iarnă este excelentă pentru fotografii dramatice.",
+                "en": "The low winter light is excellent for dramatic photos."
+              }
+            },
+            {
+              "name": "Roman Theatre",
+              "tip_5lang": {
+                "de": "Die Ruinen wirken ohne Vegetation im Winter besonders karg und antik.",
+                "hu": "A romok télen a vegetáció nélkül különösen kopárnak és antiknak tűnnek.",
+                "ro": "Ruinele par deosebit de aride și antice iarna, fără vegetație.",
+                "en": "The ruins look particularly barren and ancient in winter without vegetation."
+              }
+            },
+            {
+              "name": "Civic Picture Gallery",
+              "tip_5lang": {
+                "de": "Perfekt für den späten Nachmittag, wenn es draußen bereits abkühlt.",
+                "hu": "Tökéletes késő délutánra, amikor kint már hűlni kezd az idő.",
+                "ro": "Perfect pentru după-amiaza târzie, când afară începe deja să se răcească.",
+                "en": "Perfect for the late afternoon when it already starts to cool down outside."
+              }
+            },
+            {
+              "name": "Medici Fortress",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang über der Toskana vor der Schließung.",
+                "hu": "Élvezze a Toszkána feletti naplementét a zárás előtt.",
+                "ro": "Bucurați-vă de apusul de soare peste Toscana înainte de închidere.",
+                "en": "Enjoy the sunset over Tuscany before closing time."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne verschwindet gegen 17:00 Uhr hinter den Hügeln.",
+              "Zwiebelprinzip bei der Kleidung ist wegen des Windes wichtig.",
+              "Probieren Sie lokale Spezialitäten wie Wildschwein in warmen Trattorien.",
+              "Einige Außenbereiche schließen im Winter früher."
+            ],
+            "hu": [
+              "A nap 17:00 körül tűnik el a dombok mögött.",
+              "A réteges öltözködés a szél miatt nagyon fontos.",
+              "Kóstolja meg a helyi vadmalac-specialitásokat a meleg trattoriákban.",
+              "Néhány külső terület télen korábban bezár."
+            ],
+            "ro": [
+              "Soarele dispare în spatele dealurilor în jurul orei 17:00.",
+              "Îmbrăcămintea stratificată este importantă din cauza vântului.",
+              "Gustați specialitățile locale de mistreț în trattoriile calde.",
+              "Unele zone exterioare se închid mai devreme iarna."
+            ],
+            "en": [
+              "The sun disappears behind the hills around 17:00.",
+              "Layered clothing is important because of the wind.",
+              "Taste local wild boar specialties in warm trattorias.",
+              "Some outdoor areas close earlier in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -617,6 +1066,356 @@
           "Watch out for strong winds at the Balze cliffs.",
           "Take enough water with you, the climbs are tiring."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour führt Sie zunächst um die antiken Stadtmauern und zum römischen Theater. Der Höhepunkt ist die Fahrt nach Westen zu den Balze-Klippen, wo Sie die dramatische Erosion der Landschaft bestaunen können. Auf dem Rückweg radeln Sie an der Medici-Festung vorbei und beenden den Tag entspannt im historischen Zentrum. Die Strecke bietet ständig wechselnde Panoramablicke auf die toskanischen Hügel.",
+            "hu": "Ez a kerékpártúra először az ősi városfalak körül és a római színházhoz vezet. A csúcspont a nyugati irányba tett út a Balze-sziklákhoz, ahol megcsodálhatja a táj drámai erózióját. Visszafelé a Medici-erőd mellett biciklizik el, és a napot a történelmi központban zárja. Az útvonal folyamatosan változó panorámát kínál a toszkán dombokra.",
+            "ro": "Acest tur cu bicicleta vă poartă mai întâi în jurul zidurilor antice ale orașului și la teatrul roman. Punctul culminant este drumul spre vest către stâncile Balze, unde puteți admira eroziunea dramatică a peisajului. La întoarcere, pedalați pe lângă Fortăreața Medici și încheiați ziua relaxat în centrul istoric. Traseul oferă vederi panoramice în continuă schimbare asupra dealurilor toscane.",
+            "en": "This bike tour first takes you around the ancient city walls and to the Roman theater. The highlight is the ride west to the Balze cliffs, where you can marvel at the dramatic erosion of the landscape. On the way back, cycle past the Medici Fortress and end the day relaxed in the historical center. The route offers constantly changing panoramic views of the Tuscan hills."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porta all'Arco",
+                "hu": "Porta all'Arco",
+                "ro": "Porta all'Arco",
+                "en": "Porta all'Arco"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Teatro Romano",
+                "hu": "Római Színház",
+                "ro": "Teatrul Roman",
+                "en": "Roman Theatre"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Le Balze",
+                "hu": "Le Balze",
+                "ro": "Le Balze",
+                "en": "Le Balze"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "San Giusto",
+                "hu": "San Giusto",
+                "ro": "San Giusto",
+                "en": "San Giusto"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Fortezza Medicea",
+                "hu": "Medici-erőd",
+                "ro": "Fortăreața Medicea",
+                "en": "Medici Fortress"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Piazza dei Priori",
+                "hu": "Piazza dei Priori",
+                "ro": "Piazza dei Priori",
+                "en": "Piazza dei Priori"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Panino con Prosciutto di Volterra",
+                "tip": "Perfekter Snack für unterwegs bei 'L'Incontro'."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Panino con Prosciutto di Volterra",
+                "tip": "Tökéletes útközbeni snack a 'L'Incontro' bárban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Panino con Prosciutto di Volterra",
+                "tip": "Gustare perfectă de luat la pachet de la 'L'Incontro'."
+              }
+            ],
+            "en": [
+              {
+                "name": "Panino con Prosciutto di Volterra",
+                "tip": "Perfect snack for the road at 'L'Incontro'."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Le Balze Aussichtspunkt",
+                "tip": "Völlige Stille vor den gewaltigen Abgründen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Balze kilátópont",
+                "tip": "Teljes csend a hatalmas szakadékok előtt.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punct de belvedere Le Balze",
+                "tip": "Liniște deplină în fața abisurilor uriașe.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Balze Lookout",
+                "tip": "Total silence in front of the massive abysses.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokales Olivenöl",
+                "tip": "Frisch von den umliegenden Bauernhöfen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi olívaolaj",
+                "tip": "Frissen a környező gazdaságokból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline local",
+                "tip": "Proaspăt de la fermele din jur."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Olive Oil",
+                "tip": "Fresh from the surrounding farms."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein E-Bike, da Volterra auf einem sehr hohen Hügel liegt.",
+              "Achten Sie auf die starken Winde bei den Balze-Klippen.",
+              "Nehmen Sie ausreichend Wasser mit, die Steigungen sind anstrengend."
+            ],
+            "hu": [
+              "Bérelj e-bike-ot, mert Volterra egy nagyon magas dombon fekszik.",
+              "Vigyázz az erős szélre a Balze-szikláknál.",
+              "Vigyél magaddal elég vizet, az emelkedők fárasztóak."
+            ],
+            "ro": [
+              "Închiriați o bicicletă electrică, deoarece Volterra se află pe un deal foarte înalt.",
+              "Atenție la vânturile puternice de la stâncile Balze.",
+              "Luați suficientă apă, pantele sunt solicitante."
+            ],
+            "en": [
+              "Rent an e-bike, as Volterra sits on a very high hill.",
+              "Watch out for strong winds at the Balze cliffs.",
+              "Take enough water with you, the climbs are tiring."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein anspruchsvoller Start bei Porta all'Arco, wo die nassen Steine Vorsicht verlangen. Der Blick auf das Theater im Regen ist dennoch lohnend.\nMittags bietet San Giusto eine trockene Zuflucht vor der Fahrt zu den nebligen Balze-Klippen.\nDer Nachmittag wird durch die dramatische Kulisse der Le Balze im Regen geprägt, bevor es zurück zur Festung geht.",
+            "hu": "Kihívást jelentő indulás a Porta all'Arco-nál, ahol a nedves kövek óvatosságot igényelnek. A színház látványa esőben is kifizetődő.\nDélben San Giusto nyújt száraz menedéket a ködös Le Balze sziklákhoz vezető út előtt.\nA délutánt a Le Balze drámai díszletei határozzák meg az esőben, mielőtt visszatérnénk az erődhöz.",
+            "ro": "Un început solicitant la Porta all'Arco, unde pietrele umede cer prudență. Vederea teatrului în ploaie merită totuși efortul.\nLa prânz, San Giusto oferă un refugiu uscat înainte de drumul spre stâncile cețoase Le Balze.\nDupă-amiaza este marcată de decorul dramatic de la Le Balze sub ploaie, înainte de întoarcerea la fortăreață.",
+            "en": "A challenging start at Porta all'Arco, where wet stones demand caution. The view of the theatre in the rain is still rewarding.\nAt noon, San Giusto offers a dry refuge before the ride to the misty Le Balze cliffs.\nThe afternoon is defined by the dramatic backdrop of Le Balze in the rain, before returning to the fortress."
+          },
+          "stops": [
+            {
+              "name": "Porta all'Arco",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf dem nassen etruskischen Pflaster.",
+                "hu": "Vigyázzon a fékezéssel a nedves etruszk macskaköveken.",
+                "ro": "Atenție la frânare pe pavajul etrusc umed.",
+                "en": "Be careful when braking on the wet Etruscan pavement."
+              }
+            },
+            {
+              "name": "Roman Theatre",
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt an der Straße ist bei Regen sicherer als die Ruinen.",
+                "hu": "Az út menti kilátópont esőben biztonságosabb, mint a romok.",
+                "ro": "Punctul de belvedere de la drum este mai sigur pe ploaie decât ruinele.",
+                "en": "The viewpoint by the road is safer in the rain than the ruins."
+              }
+            },
+            {
+              "name": "Le Balze",
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege können sehr schlammig und rutschig sein.",
+                "hu": "A kivilágítatlan ösvények nagyon sárosak és csúszósak lehetnek.",
+                "ro": "Potecile neasfaltate pot fi foarte noroioase și alunecoase.",
+                "en": "The unpaved paths can be very muddy and slippery."
+              }
+            },
+            {
+              "name": "San Giusto",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorraum, um die Regenkleidung kurz zu richten.",
+                "hu": "Használja az előteret a ruházat rövid igazítására.",
+                "ro": "Folosiți vestibulul pentru a vă ajusta scurt echipamentul de ploaie.",
+                "en": "Use the vestibule to briefly adjust your rain gear."
+              }
+            },
+            {
+              "name": "Medici Fortress",
+              "tip_5lang": {
+                "de": "Der Anstieg ist anstrengend; achten Sie auf die Entwässerungsrinnen.",
+                "hu": "Az emelkedő megerőltető; figyeljen a vízelvezető árkokra.",
+                "ro": "Urcarea este obositoare; atenție la rigolele de scurgere.",
+                "en": "The climb is strenuous; watch out for the drainage channels."
+              }
+            },
+            {
+              "name": "Piazza dei Priori",
+              "tip_5lang": {
+                "de": "Das Ziel ist erreicht; trocknen Sie sich in einem der Cafés ab.",
+                "hu": "A cél elérve; szárítkozzon meg az egyik kávézóban.",
+                "ro": "Destinația a fost atinsă; uscați-vă într-una dintre cafenele.",
+                "en": "The destination is reached; dry off in one of the cafes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Scheibenbremsen sind bei Nässe in den Hügeln ein großer Vorteil.",
+              "Vermeiden Sie tiefe Pfützen bei Le Balze wegen möglicher Auswaschungen.",
+              "Wasserdichte Handschuhe halten die Finger für die Bremsen beweglich.",
+              "Nehmen Sie Wechselkleidung in einem wasserdichten Rucksack mit."
+            ],
+            "hu": [
+              "A tárcsafék nagy előny a dombok között nedves időben.",
+              "Kerülje a mély tócsákat a Le Balze-nál az esetleges kimosódások miatt.",
+              "A vízálló kesztyűk mozgékonyan tartják az ujjakat a fékezéshez.",
+              "Vigyen váltóruhát vízálló hátizsákban."
+            ],
+            "ro": [
+              "Frânele pe disc sunt un mare avantaj pe dealuri în condiții de umiditate.",
+              "Evitați bălțile adânci la Le Balze din cauza posibilelor eroziuni.",
+              "Mănușile impermeabile mențin degetele mobile pentru frânare.",
+              "Luați haine de schimb într-un rucsac impermeabil."
+            ],
+            "en": [
+              "Disc brakes are a great advantage in the hills in wet conditions.",
+              "Avoid deep puddles at Le Balze due to possible washouts.",
+              "Waterproof gloves keep fingers mobile for braking.",
+              "Take a change of clothes in a waterproof backpack."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frischer Wintermorgen bei der Porta all'Arco. Die kühle Luft macht die Steigungen weniger schweißtreibend.\nMittags erreichen wir die Balze, wo das kahle Gelände weite Ausblicke auf die toskanische Landschaft ermöglicht.\nDer Nachmittag führt uns zur Festung, während die Sonne bereits tief steht und lange Schatten wirft.",
+            "hu": "Friss téli reggel a Porta all'Arco-nál. A hűvös levegő miatt az emelkedők kevésbé izzasztóak.\nDélben elérjük a Le Balze-t, ahol a kopár terep messzi kilátást enged a toszkán tájra.\nA délután az erődhöz vezet, miközben a nap már alacsonyan jár és hosszú árnyékokat vet.",
+            "ro": "Dimineață proaspătă de iarnă la Porta all'Arco. Aerul răcoros face urcușurile mai puțin obositoare.\nLa prânz ajungem la Le Balze, unde terenul golaș permite vederi largi asupra peisajului toscan.\nDupă-amiaza ne duce la fortăreață, în timp ce soarele este deja jos și aruncă umbre lungi.",
+            "en": "Fresh winter morning at Porta all'Arco. The cool air makes the climbs less sweaty.\nAt noon, we reach Le Balze, where the barren terrain allows wide views over the Tuscan landscape.\nThe afternoon leads us to the fortress, while the sun is already low, casting long shadows."
+          },
+          "stops": [
+            {
+              "name": "Porta all'Arco",
+              "tip_5lang": {
+                "de": "Ein scharfer Wind kann durch das Stadttor ziehen; Hals schützen.",
+                "hu": "Éles szél fújhat át a városkapun; védje a nyakát.",
+                "ro": "Un vânt tăios poate sufla prin poarta orașului; protejați-vă gâtul.",
+                "en": "A sharp wind can blow through the city gate; protect your neck."
+              }
+            },
+            {
+              "name": "Roman Theatre",
+              "tip_5lang": {
+                "de": "Die Steine speichern keine Wärme; eine kurze Pause reicht aus.",
+                "hu": "A kövek nem tartják a hőt; egy rövid szünet is elég.",
+                "ro": "Pietrele nu rețin căldura; o scurtă pauză este suficientă.",
+                "en": "The stones don't hold heat; a short break is enough."
+              }
+            },
+            {
+              "name": "Le Balze",
+              "tip_5lang": {
+                "de": "Die Fernsicht ist an klaren Wintertagen oft phänomenal.",
+                "hu": "A kilátás tiszta téli napokon gyakran fenomenális.",
+                "ro": "Vizibilitatea la distanță este adesea fenomenală în zilele senine de iarnă.",
+                "en": "The long-distance view is often phenomenal on clear winter days."
+              }
+            },
+            {
+              "name": "San Giusto",
+              "tip_5lang": {
+                "de": "Im Inneren ist es oft kälter als draußen; nicht zu lange verweilen.",
+                "hu": "Bent gyakran hidegebb van, mint kint; ne időzzön túl sokat.",
+                "ro": "În interior este adesea mai frig decât afară; nu zăboviți prea mult.",
+                "en": "It's often colder inside than outside; don't linger too long."
+              }
+            },
+            {
+              "name": "Medici Fortress",
+              "tip_5lang": {
+                "de": "Nach dem Anstieg kühlt man in der Winterluft schnell aus.",
+                "hu": "Az emelkedő után a téli levegőben gyorsan lehűlhet az ember.",
+                "ro": "După urcare, vă răciți repede în aerul de iarnă.",
+                "en": "After the climb, you cool down quickly in the winter air."
+              }
+            },
+            {
+              "name": "Piazza dei Priori",
+              "tip_5lang": {
+                "de": "Genießen Sie ein heißes Getränk zum Abschluss der Tour.",
+                "hu": "Élvezzen egy forró italt a túra befejezéseként.",
+                "ro": "Bucurați-vă de o băutură caldă la finalul turului.",
+                "en": "Enjoy a hot drink at the end of the tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Unterwäsche schützt vor dem Fahrtwind in den Abfahrten.",
+              "Die Tage sind kurz; planen Sie das Ende der Tour vor 16:30 Uhr.",
+              "Achten Sie auf Raureif in schattigen Kurven der Landstraßen.",
+              "Warme Schuhüberzüge verhindern taube Zehen bei längeren Fahrten."
+            ],
+            "hu": [
+              "A termo-alsónemű véd a menetszéltől a lejtőkön.",
+              "A nappalok rövidek; tervezze a túra végét 16:30 előtt.",
+              "Ügyeljen a dérre az országutak árnyékos kanyarjaiban.",
+              "A meleg cipővédők megakadályozzák a lábujjak elzsibbadását."
+            ],
+            "ro": [
+              "Lenjeria termică protejează de vântul de pe coborâri.",
+              "Zilele sunt scurte; planificați sfârșitul turului înainte de 16:30.",
+              "Atenție la chiciură în curbele umbrite ale drumurilor rurale.",
+              "Husele călduroase pentru încălțăminte previn amorțirea degetelor."
+            ],
+            "en": [
+              "Thermal underwear protects against wind chill on descents.",
+              "Days are short; plan the end of the tour before 16:30.",
+              "Watch out for hoarfrost in shaded curves of rural roads.",
+              "Warm shoe covers prevent numb toes during longer rides."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -852,6 +1651,329 @@
           "Park in the large parking lot at the bus station ('Il Salotto').",
           "The roads to Volterra are very winding."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Ebenen Volterras. Starten Sie am römischen Theater, erkunden Sie den Palazzo dei Priori im Zentrum und das faszinierende Etruskermuseum. Eine kurze Fahrt bringt Sie zu den Balze-Klippen, bevor Sie den Tag mit einem Besuch im luxuriösen Palazzo Viti abschließen. Das Auto ermöglicht es Ihnen, auch die etwas abgelegeneren landschaftlichen Highlights mühelos zu integrieren.",
+            "hu": "Autóval kényelmesen elérheti Volterra különböző szintjeit. Kezdje a római színháznál, fedezze fel a központban a Palazzo dei Priorit és a lenyűgöző etruszk múzeumot. Egy rövid autóút elviszi a Balze-sziklákhoz, mielőtt a napot a fényűző Palazzo Viti meglátogatásával zárná. Az autó lehetővé teszi, hogy a távolabbi táji látnivalókat is könnyedén beépítse a programba.",
+            "ro": "Cu mașina puteți ajunge convenabil la diferitele niveluri ale Volterrei. Începeți la teatrul roman, explorați Palazzo dei Priori din centru și fascinantul muzeu etrusc. O scurtă plimbare cu mașina vă duce la stâncile Balze, înainte de a încheia ziua cu o vizită la luxosul Palazzo Viti. Mașina vă permite să integrați fără efort și punctele de atracție peisagistice mai îndepărtate.",
+            "en": "By car, you can conveniently reach the different levels of Volterra. Start at the Roman theater, explore Palazzo dei Priori in the center and the fascinating Etruscan museum. A short drive takes you to the Balze cliffs before ending the day with a visit to the luxurious Palazzo Viti. The car allows you to effortlessly integrate the more remote scenic highlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro Romano",
+                "hu": "Római Színház",
+                "ro": "Teatrul Roman",
+                "en": "Roman Theatre"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Palazzo dei Priori",
+                "hu": "Palazzo dei Priori",
+                "ro": "Palazzo dei Priori",
+                "en": "Palazzo dei Priori"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Museo Etrusco Guarnacci",
+                "hu": "Guarnacci Etruszk Múzeum",
+                "ro": "Muzeul Etrusc Guarnacci",
+                "en": "Guarnacci Etruscan Museum"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Le Balze",
+                "hu": "Le Balze",
+                "ro": "Le Balze",
+                "en": "Le Balze"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Palazzo Viti",
+                "hu": "Palazzo Viti",
+                "ro": "Palazzo Viti",
+                "en": "Palazzo Viti"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Trattoria Albana",
+                "tip": "Traditionelle Küche etwas abseits der Hauptwege."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Trattoria Albana",
+                "tip": "Hagyományos konyha kicsit távolabb a főútvonalaktól."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Trattoria Albana",
+                "tip": "Bucătărie tradițională puțin în afara traseelor principale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Trattoria Albana",
+                "tip": "Traditional cuisine slightly off the main paths."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Abtei San Giusto",
+                "tip": "Ruhe am Rande des Abgrunds.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "San Giusto apátság",
+                "tip": "Csend a szakadék szélén.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Abația San Giusto",
+                "tip": "Liniște pe marginea prăpastiei.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "San Giusto Abbey",
+                "tip": "Peace on the edge of the abyss.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Cooperativa Artieri Alabastro",
+                "tip": "Große Auswahl an Alabaster-Kunstwerken."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cooperativa Artieri Alabastro",
+                "tip": "Alabástrom műalkotások széles választéka."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cooperativa Artieri Alabastro",
+                "tip": "O selecție largă de opere de artă din alabastru."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cooperativa Artieri Alabastro",
+                "tip": "Large selection of alabaster artworks."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Achten Sie auf die ZTL-Zonen (eingeschränkter Verkehr) im historischen Zentrum.",
+              "Parken Sie auf dem großen Parkplatz am Busbahnhof ('Il Salotto').",
+              "Die Straßen nach Volterra sind sehr kurvenreich."
+            ],
+            "hu": [
+              "Ügyelj a ZTL zónákra (korlátozott forgalom) a történelmi központban.",
+              "Parkolj a buszpályaudvarnál lévő nagy parkolóban ('Il Salotto').",
+              "A Volterrába vezető utak nagyon kanyargósak."
+            ],
+            "ro": [
+              "Atenție la zonele ZTL (trafic restricționat) din centrul istoric.",
+              "Parcați în parcarea mare de lângă autogară ('Il Salotto').",
+              "Drumurile spre Volterra sunt foarte sinuoase."
+            ],
+            "en": [
+              "Watch out for ZTL zones (restricted traffic) in the historical center.",
+              "Park in the large parking lot at the bus station ('Il Salotto').",
+              "The roads to Volterra are very winding."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequeme Fahrt zum römischen Theater, während die Regentropfen auf das Autodach trommeln. Der Palazzo dei Priori bietet danach ein trockenes kulturelles Erlebnis.\nMittags führt der Weg zum Guarnacci-Museum, wo man das Auto in der Nähe parken kann, um dem Guss zu entgehen.\nDer Tag schließt mit einer Fahrt zu den beeindruckenden Balze-Klippen, die im Regen besonders dramatisch wirken.",
+            "hu": "Kényelmes utazás a római színházhoz, miközben az esőcseppek az autó tetőjén kopognak. A Palazzo dei Priori száraz kulturális élményt nyújt.\nDélben az út a Guarnacci Múzeumhoz vezet, ahol a közelben parkolhatunk, elkerülve az égi áldást.\nA napot a lenyűgöző Le Balze sziklákhoz vezető út zárja, amelyek esőben különösen drámaiak.",
+            "ro": "O călătorie confortabilă spre Teatrul Roman în timp ce picăturile de ploaie bat în plafonul mașinii. Palazzo dei Priori oferă apoi o experiență culturală uscată.\nLa prânz, drumul duce la Muzeul Guarnacci, unde puteți parca în apropiere pentru a evita ploaia.\nZiua se încheie cu o plimbare spre impresionantele stânci Le Balze, care par deosebit de dramatice în ploaie.",
+            "en": "A comfortable drive to the Roman Theatre while raindrops drum on the car roof. Palazzo dei Priori then offers a dry cultural experience.\nAt noon, the path leads to the Guarnacci Museum, where you can park nearby to avoid the downpour.\nThe day concludes with a drive to the impressive Le Balze cliffs, which look particularly dramatic in the rain."
+          },
+          "stops": [
+            {
+              "name": "Roman Theatre",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nahe der Viale Francesco Ferrucci.",
+                "hu": "Használja a Viale Francesco Ferrucci közeli parkolót.",
+                "ro": "Folosiți parcarea de lângă Viale Francesco Ferrucci.",
+                "en": "Use the parking lot near Viale Francesco Ferrucci."
+              }
+            },
+            {
+              "name": "Palazzo dei Priori",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus 'Martiri della Libertà' für kurzen Fußweg.",
+                "hu": "Parkoljon a 'Martiri della Libertà' garázsban a rövid sétáért.",
+                "ro": "Parcați în parcarea 'Martiri della Libertà' pentru un drum scurt pe jos.",
+                "en": "Park in the 'Martiri della Libertà' garage for a short walk."
+              }
+            },
+            {
+              "name": "Guarnacci Etruscan Museum",
+              "tip_5lang": {
+                "de": "Das Ein- und Aussteigen kann bei Wind am Hügel nass werden.",
+                "hu": "A ki- és beszállás szeles időben a dombon vizes lehet.",
+                "ro": "Urcarea și coborârea din mașină pot fi umede din cauza vântului de pe deal.",
+                "en": "Getting in and out of the car can get wet with wind on the hill."
+              }
+            },
+            {
+              "name": "Le Balze",
+              "tip_5lang": {
+                "de": "Man kann den Blick auf die Klippen auch gut aus dem Auto genießen.",
+                "hu": "A sziklákra nyíló kilátást az autóból is jól lehet élvézni.",
+                "ro": "Vă puteți bucura de vederea asupra stâncilor și din mașină.",
+                "en": "You can enjoy the view of the cliffs well even from the car."
+              }
+            },
+            {
+              "name": "Palazzo Viti",
+              "tip_5lang": {
+                "de": "Ein idealer Indoor-Stopp, um prunkvolle Zimmer im Trockenen zu sehen.",
+                "hu": "Ideális fedett megálló a pompás szobák száraz megtekintéséhez.",
+                "ro": "O oprire ideală în interior pentru a vedea camerele somptuoase la adăpost.",
+                "en": "An ideal indoor stop to see splendid rooms in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die kurvigen Straßen um Volterra erfordern bei Nässe hohe Konzentration.",
+              "Parken Sie bevorzugt in Tiefgaragen, um trocken in die Stadt zu gelangen.",
+              "Beschlagene Scheiben sind bei hoher Luftfeuchtigkeit ein Thema.",
+              "Prüfen Sie den Zustand der Wischerblätter vor der Fahrt in die Toskana."
+            ],
+            "hu": [
+              "A Volterra körüli kanyargós utak nedves időben nagy koncentrációt igényelnek.",
+              "Parkoljon inkább mélygarázsokban, hogy szárazon jusson a városba.",
+              "A párásodó szélvédő gyakori probléma magas páratartalomnál.",
+              "Ellenőrizze az ablaktörlők állapotát a toszkán út előtt."
+            ],
+            "ro": [
+              "Drumurile șerpuite din jurul Volterrei necesită concentrare mare pe umiditate.",
+              "Parcați de preferință în garaje subterane pentru a ajunge uscați în oraș.",
+              "Aburirea parbrizului este o problemă în condiții de umiditate ridicată.",
+              "Verificați starea ștergătoarelor înainte de călătoria în Toscana."
+            ],
+            "en": [
+              "The winding roads around Volterra require high concentration in the wet.",
+              "Prefer parking in underground garages to get into the city dry.",
+              "Fogged-up windows are an issue with high humidity.",
+              "Check the condition of wiper blades before the drive to Tuscany."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Start im beheizten Wagen beim römischen Theater. Die klare Sicht bietet weite Panoramen über die Täler.\nMittags erkunden wir den Palazzo dei Priori, dessen alte Säle im Winter eine besondere Atmosphäre verströmen.\nDie Fahrt zu den Balze-Klippen am Nachmittag zeigt die raue Schönheit der Toskana, bevor wir Palazzo Viti besuchen.",
+            "hu": "Indulás a fűtött autóval a római színháznál. A tiszta látási viszonyok távoli panorámát nyújtanak a völgyekre.\nDélben felfedezzük a Palazzo dei Priorit, melynek ódon termei télen különleges hangulatot árasztanak.\nA délutáni utazás a Le Balze sziklákhoz Toszkána nyers szépségét mutatja meg a Palazzo Viti látogatása előtt.",
+            "ro": "Pornire în mașina încălzită de la Teatrul Roman. Vizibilitatea clară oferă panorame largi peste văi.\nLa prânz explorăm Palazzo dei Priori, ale cărui săli vechi emană o atmosferă specială iarna.\nCălătoria spre stâncile Le Balze de după-amiază arată frumusețea aspră a Toscanei înainte de a vizita Palazzo Viti.",
+            "en": "Start in the heated car at the Roman Theatre. Clear visibility offers wide panoramas over the valleys.\nAt noon, we explore Palazzo dei Priori, whose ancient halls exude a special atmosphere in winter.\nThe drive to the Le Balze cliffs in the afternoon shows the raw beauty of Tuscany before visiting Palazzo Viti."
+          },
+          "stops": [
+            {
+              "name": "Roman Theatre",
+              "tip_5lang": {
+                "de": "Die Parkplätze sind im Winter meist leerer und näher am Eingang.",
+                "hu": "A parkolók télen általában üresebbek és közelebb vannak a bejárathoz.",
+                "ro": "Parcările sunt de obicei mai libere iarna și mai aproape de intrare.",
+                "en": "Parking lots are usually emptier in winter and closer to the entrance."
+              }
+            },
+            {
+              "name": "Palazzo dei Priori",
+              "tip_5lang": {
+                "de": "In den Steingebäuden kann es trotz Heizung recht kühl sein.",
+                "hu": "A kőépületekben a fűtés ellenére is elég hűvös lehet.",
+                "ro": "În clădirile din piatră poate fi destul de răcoare în ciuda încălzirii.",
+                "en": "It can be quite cool in the stone buildings despite heating."
+              }
+            },
+            {
+              "name": "Guarnacci Etruscan Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch für eine längere Aufwärmpause.",
+                "hu": "Használja a múzeumlátogatást egy hosszabb melegedő szünetre.",
+                "ro": "Folosiți vizita la muzeu pentru o pauză lungă de încălzire.",
+                "en": "Use the museum visit for a longer warm-up break."
+              }
+            },
+            {
+              "name": "Le Balze",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte auf den Zufahrtsstraßen in schattigen Lagen.",
+                "hu": "Ügyeljen a csúszós utakra az árnyékos bekötőutakon.",
+                "ro": "Atenție la polei pe drumurile de acces în zonele umbrite.",
+                "en": "Watch out for ice on access roads in shaded locations."
+              }
+            },
+            {
+              "name": "Palazzo Viti",
+              "tip_5lang": {
+                "de": "Die prachtvollen Interieurs sind im Winterlicht besonders sehenswert.",
+                "hu": "A pompás belső terek a téli fényben különösen látványosak.",
+                "ro": "Interioarele splendide merită văzute în special în lumina de iarnă.",
+                "en": "The splendid interiors are particularly worth seeing in the winter light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in den Hügeln der Toskana ab November ratsam.",
+              "Frostschutz für die Scheibenwaschanlage nicht vergessen.",
+              "Die Heizung im Stand schont die Batterie bei Kurzstrecken nicht.",
+              "Planen Sie Fahrten bei Dämmerung wegen Wildwechsel ein."
+            ],
+            "hu": [
+              "A téli gumi novembertől tanácsos a toszkán dombok között.",
+              "Ne felejtse el a fagyállót a szélvédőmosóból.",
+              "A rövid utakon a fűtés megterhelheti az akkumulátort.",
+              "Tervezze az utazást alkonyatkor a vadveszély miatt."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt recomandate pe dealurile Toscanei din noiembrie.",
+              "Nu uitați antigelul pentru parbriz.",
+              "Încălzirea în staționare nu protejează bateria la drumuri scurte.",
+              "Planificați călătoriile la amurg având în vedere riscul de animale sălbatice."
+            ],
+            "en": [
+              "Winter tires are advisable in the Tuscan hills from November.",
+              "Don't forget antifreeze for the windshield washer system.",
+              "Heating while stationary doesn't help the battery on short trips.",
+              "Plan drives at dusk considering wildlife crossings."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1087,6 +2209,329 @@
           "Tickets for the local bus can be bought at tobacco shops.",
           "The city bus is small and gets through the narrowest streets."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Nahverkehr und dem Stadtbus 'Volterralinea' erkunden Sie Volterra entspannt ohne Parkplatzsuche. Vom zentralen Busbahnhof erreichen Sie schnell die Piazza dei Priori und das Etruskermuseum. Der Nachmittag ist dem Dombezirk und der Festung gewidmet, die alle gut mit den kleinen Pendelbussen vernetzt sind. So bleibt mehr Zeit für die Geschichte und die Atmosphäre der Stadt.",
+            "hu": "A tömegközlekedéssel és a 'Volterralinea' helyi busszal kényelmesen, parkolási gondok nélkül fedezheti fel Volterrát. A központi buszpályaudvarról gyorsan elérheti a Piazza dei Priorit és az etruszk múzeumot. A délutánt a dóm környékének és az erődnek szentelheti, amelyeket a kis ingajáratok jól összekötnek. Így több idő marad a város történelmére és hangulatára.",
+            "ro": "Cu transportul public și autobuzul local 'Volterralinea', explorați Volterra relaxat, fără grija parcării. De la autogara centrală ajungeți rapid la Piazza dei Priori și la muzeul etrusc. După-amiaza este dedicată zonei catedralei și fortăreței, toate fiind bine conectate prin micile autobuze navetă. Astfel, rămâne mai mult timp pentru istoria și atmosfera orașului.",
+            "en": "With public transport and the 'Volterralinea' local bus, you can explore Volterra relaxed without searching for parking. From the central bus station, you can quickly reach Piazza dei Priori and the Etruscan museum. The afternoon is dedicated to the cathedral district and the fortress, all well-connected by small shuttle buses. This leaves more time for the history and atmosphere of the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Busbahnhof (Piazza Martiri)",
+                "hu": "Buszpályaudvar (Piazza Martiri)",
+                "ro": "Autogara (Piazza Martiri)",
+                "en": "Bus Station (Piazza Martiri)"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Piazza dei Priori",
+                "hu": "Piazza dei Priori",
+                "ro": "Piazza dei Priori",
+                "en": "Piazza dei Priori"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Museo Etrusco Guarnacci",
+                "hu": "Guarnacci Etruszk Múzeum",
+                "ro": "Muzeul Etrusc Guarnacci",
+                "en": "Guarnacci Etruscan Museum"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Battistero di San Giovanni",
+                "hu": "Keresztelőkápolna",
+                "ro": "Baptisteriul San Giovanni",
+                "en": "Baptistery of San Giovanni"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Fortezza Medicea",
+                "hu": "Medici-erőd",
+                "ro": "Fortăreața Medicea",
+                "en": "Medici Fortress"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bar L'Incontro",
+                "tip": "Guter Kaffee und Gebäck direkt an der Bushaltestelle."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bar L'Incontro",
+                "tip": "Jó kávé és sütemények közvetlenül a buszmegállónál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bar L'Incontro",
+                "tip": "Cafea bună și produse de patiserie direct la stația de autobuz."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bar L'Incontro",
+                "tip": "Good coffee and pastries right by the bus stop."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Piazza Martiri de la Libertà",
+                "tip": "Bänke mit Blick auf das Tal.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Piazza Martiri de la Libertà",
+                "tip": "Padok kilátással a völgyre.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piazza Martiri de la Libertà",
+                "tip": "Bănci cu vedere la vale.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Piazza Martiri de la Libertà",
+                "tip": "Benches with a view of the valley.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirläden Via Ricciarelli",
+                "tip": "Klassische Mitbringsel in der Nähe des Zentrums."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szuvenírboltok Via Ricciarelli",
+                "tip": "Klasszikus emléktárgyak a központ közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazine de suveniruri Via Ricciarelli",
+                "tip": "Suveniruri clasice lângă centru."
+              }
+            ],
+            "en": [
+              {
+                "name": "Souvenir Shops Via Ricciarelli",
+                "tip": "Classic souvenirs near the center."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan für die Rückfahrt nach Saline oder Cecina.",
+              "Tickets für den Stadtbus können im Tabakladen gekauft werden.",
+              "Der Stadtbus ist klein und kommt durch die engsten Gassen."
+            ],
+            "hu": [
+              "Ellenőrizd a buszmenetrendet a Saline vagy Cecina felé tartó visszaúthoz.",
+              "A helyi buszra jegyet a dohányboltokban (tabacchi) vehetsz.",
+              "A városi busz kicsi, és átfér a legszűkebb utcákon is."
+            ],
+            "ro": [
+              "Verificați programul autobuzelor pentru întoarcerea spre Saline sau Cecina.",
+              "Biletele pentru autobuzul local pot fi cumpărate de la tutungerie.",
+              "Autobuzul local este mic și trece prin cele mai înguste străzi."
+            ],
+            "en": [
+              "Check the bus schedule for the return trip to Saline or Cecina.",
+              "Tickets for the local bus can be bought at tobacco shops.",
+              "The city bus is small and gets through the narrowest streets."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ankunft am Busbahnhof bei grauem Himmel. Der Piazza dei Priori ist nur eine kurze, nasse Busfahrt entfernt.\nMittags bietet das Guarnacci-Museum die perfekte Zuflucht, um die etruskische Kunst im Trockenen zu bewundern.\nDer Tag endet beim Baptisterium und der Festung, wobei man die Buszeiten im Auge behalten sollte, um nicht im Regen zu warten.",
+            "hu": "Érkezés a buszpályaudvarra szürke égbolt alatt. A Piazza dei Priori csak egy rövid, esős buszútra van.\nDélben a Guarnacci Múzeum tökéletes menedéket nyújt az etruszk művészet szárazon történő megcsodálásához.\nA nap a keresztelőkápolnánál és az erődnél ér véget; figyeljük a buszmenetrendet, hogy ne az esőben várakozzunk.",
+            "ro": "Sosire la autogară sub un cer cenușiu. Piazza dei Priori este la doar o scurtă călătorie cu autobuzul.\nLa prânz, Muzeul Guarnacci oferă refugiul perfect pentru a admira arta etruscă la adăpost.\nZiua se încheie la Baptisteriu și fortăreață; urmăriți orarul autobuzelor pentru a nu aștepta în ploaie.",
+            "en": "Arrival at the bus station under gray skies. Piazza dei Priori is just a short, wet bus ride away.\nAt noon, the Guarnacci Museum offers the perfect refuge to admire Etruscan art in the dry.\nThe day ends at the Baptistery and the fortress; keep an eye on bus times to avoid waiting in the rain."
+          },
+          "stops": [
+            {
+              "name": "Bus Station (Piazza Martiri)",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen bietet begrenzten Schutz vor Wind und Regen.",
+                "hu": "A váróterem korlátozott védelmet nyújt a szél és az eső ellen.",
+                "ro": "Stația oferă protecție limitată împotriva vântului și ploii.",
+                "en": "The shelter offers limited protection from wind and rain."
+              }
+            },
+            {
+              "name": "Piazza dei Priori",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden und Cafés am Platz, um trocken zu bleiben.",
+                "hu": "Használja a téren lévő árkádokat és kávézókat, hogy száraz maradjon.",
+                "ro": "Folosiți arcadele și cafenelele din piață pentru a rămâne uscați.",
+                "en": "Use the arcades and cafes in the square to stay dry."
+              }
+            },
+            {
+              "name": "Guarnacci Etruscan Museum",
+              "tip_5lang": {
+                "de": "Ideal, um die Zeit zwischen zwei Busverbindungen sinnvoll zu nutzen.",
+                "hu": "Ideális a két buszjárat közötti idő hasznos eltöltésére.",
+                "ro": "Ideal pentru a folosi util timpul între două conexiuni de autobuz.",
+                "en": "Ideal for using the time between two bus connections meaningfully."
+              }
+            },
+            {
+              "name": "Baptistery of San Giovanni",
+              "tip_5lang": {
+                "de": "Ein kleiner, aber feiner Ort, um kurz aus dem Regen zu kommen.",
+                "hu": "Kicsi, de szép hely, hogy rövid időre kimeneküljünk az esőből.",
+                "ro": "Un loc mic, dar frumos, pentru a ieși scurt din ploaie.",
+                "en": "A small but fine place to briefly get out of the rain."
+              }
+            },
+            {
+              "name": "Medici Fortress",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt etwas unterhalb; planen Sie den Weg gut ein.",
+                "hu": "A buszmegálló kicsit lejjebb van; jól tervezze meg az utat.",
+                "ro": "Stația de autobuz este puțin mai jos; planificați bine drumul.",
+                "en": "The bus stop is a bit further down; plan your walk well."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren bei Regen oft mit etwas Verspätung durch den Verkehr.",
+              "Halten Sie die Fahrkarte griffbereit, um Verzögerungen beim Einstieg zu vermeiden.",
+              "In Volterra sind die Busse oft klein und können bei Regen schnell voll sein.",
+              "Nutzen Sie Apps für Echtzeit-Infos, falls verfügbar."
+            ],
+            "hu": [
+              "A buszok esőben gyakran késnek a forgalom miatt.",
+              "Tartsa kéznél a jegyét, hogy elkerülje a késedelmet a felszálláskor.",
+              "Volterrában a buszok gyakran kicsik és esőben gyorsan megtelhetnek.",
+              "Használjon applikációkat a valós idejű információkhoz, ha elérhető."
+            ],
+            "ro": [
+              "Autobuzele au adesea întârzieri în trafic atunci când plouă.",
+              "Țineți biletul la îndemână pentru a evita întârzierile la urcare.",
+              "În Volterra, autobuzele sunt adesea mici și se pot umple repede pe ploaie.",
+              "Folosiți aplicații pentru informații în timp real, dacă sunt disponibile."
+            ],
+            "en": [
+              "Buses often run with some delay in traffic when it rains.",
+              "Keep your ticket handy to avoid delays when boarding.",
+              "In Volterra, buses are often small and can fill up quickly in the rain.",
+              "Use apps for real-time info if available."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Start am Piazza Martiri. Die Fahrt in das Zentrum ist kurz und bietet erste Ausblicke auf die kahlen Hügel.\nMittags lockt der Piazza dei Priori mit seiner festlichen Beleuchtung und dem Guarnacci-Museum in der Nähe.\nDer Tag klingt beim Baptisterium und der Festung aus, während die Dämmerung die Stadt in ein sanftes Blau taucht.",
+            "hu": "Téli kezdés a Piazza Martirinál. Az út a központba rövid, és első kilátást nyújt a kopár dombokra.\nDélben a Piazza dei Priori ünnepi kivilágításával és a közeli Guarnacci Múzeummal csábít.\nA nap a keresztelőkápolnánál és az erődnél ér véget, miközben az alkonyat lágy kékbe vonja a várost.",
+            "ro": "Început de iarnă în Piazza Martiri. Călătoria spre centru este scurtă și oferă primele vederi asupra dealurilor golașe.\nLa prânz, Piazza dei Priori atrage cu iluminatul festiv și Muzeul Guarnacci din apropiere.\nZiua se încheie la Baptisteriu și fortăreață, în timp ce amurgul scaldă orașul într-un albastru blând.",
+            "en": "Winter start at Piazza Martiri. The ride to the center is short and offers first views of the barren hills.\nAt noon, Piazza dei Priori beckons with its festive lighting and the Guarnacci Museum nearby.\nThe day fades out at the Baptistery and the fortress, while dusk bathes the city in a soft blue."
+          },
+          "stops": [
+            {
+              "name": "Bus Station (Piazza Martiri)",
+              "tip_5lang": {
+                "de": "Im Winter kann es an der exponierten Haltestelle sehr kalt ziehen.",
+                "hu": "Télen a nyitott megállóban nagyon hideg szél fújhat.",
+                "ro": "Iarna poate fi foarte frig în stația expusă.",
+                "en": "In winter, it can be very cold at the exposed bus stop."
+              }
+            },
+            {
+              "name": "Piazza dei Priori",
+              "tip_5lang": {
+                "de": "Die Cafés rund um den Platz sind im Winter besonders gemütlich.",
+                "hu": "A tér körüli kávézók télen különösen hangulatosak.",
+                "ro": "Cafenelele din jurul pieței sunt deosebit de primitoare iarna.",
+                "en": "The cafes around the square are particularly cozy in winter."
+              }
+            },
+            {
+              "name": "Guarnacci Etruscan Museum",
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um sich zwischen den Fahrten aufzuwärmen.",
+                "hu": "Kiváló hely a melegedésre a járatok között.",
+                "ro": "Un loc excelent pentru a vă încălzi între călătorii.",
+                "en": "An excellent place to warm up between rides."
+              }
+            },
+            {
+              "name": "Baptistery of San Giovanni",
+              "tip_5lang": {
+                "de": "Das Licht im Inneren ist an kurzen Wintertagen sehr stimmungsvoll.",
+                "hu": "A belső fények a rövid téli napokon nagyon hangulatosak.",
+                "ro": "Lumina din interior este foarte sugestivă în zilele scurte de iarnă.",
+                "en": "The light inside is very atmospheric on short winter days."
+              }
+            },
+            {
+              "name": "Medici Fortress",
+              "tip_5lang": {
+                "de": "Beachten Sie die selteneren Busverbindungen in der Nebensaison.",
+                "hu": "Vegye figyelembe a ritkább buszjáratokat a főszezonon kívül.",
+                "ro": "Țineți cont de conexiunile de autobuz mai rare în extrasezon.",
+                "en": "Note the less frequent bus connections during the low season."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Fahrpläne können im Winter von den Sommerplänen abweichen.",
+              "Warten Sie lieber in einem Café als direkt an der zugigen Haltestelle.",
+              "Heizungen in den Bussen sind nicht immer auf höchster Stufe.",
+              "Tragen Sie Reflektoren, wenn Sie im Dunkeln zur Haltestelle gehen."
+            ],
+            "hu": [
+              "A téli menetrendek eltérhetnek a nyáriaktól.",
+              "Várjon inkább egy kávézóban, mint közvetlenül a huzatos megállóban.",
+              "A buszok fűtése nem mindig van a legmagasabb fokozaton.",
+              "Viseljen fényvisszaverőt, ha sötétben megy a megállóhoz."
+            ],
+            "ro": [
+              "Orarele de iarnă pot diferi de cele de vară.",
+              "Așteptați mai degrabă într-o cafenea decât direct în stația cu curent.",
+              "Încălzirea în autobuze nu este întotdeauna la nivel maxim.",
+              "Purtați elemente reflectorizante dacă mergeți spre stație pe întuneric."
+            ],
+            "en": [
+              "Winter schedules may differ from summer schedules.",
+              "Better wait in a cafe than directly at the drafty bus stop.",
+              "Heating in buses is not always at the highest level.",
+              "Wear reflectors if you walk to the bus stop in the dark."
+            ]
+          }
+        }
       }
     }
   },

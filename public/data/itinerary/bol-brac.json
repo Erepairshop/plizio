@@ -348,6 +348,479 @@
           "Buy water at the central supermarket before walking to the beach.",
           "The best harbor photos are taken in the late afternoon."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am lebhaften Hafen von Bol, wo die kalkweißen Steinhäuser der Renaissance-Galerie Dešković im Sonnenlicht strahlen. Ein kurzer Spaziergang führt zum kuriosen 'Haus im Haus', bevor Sie die duftende Pinienpromenade erreichen.\n\nMittags steht Entspannung am Zlatni Rat an, dem wohl berühmtesten Strand Kroatiens, dessen feine Kieselsteine sanft in das kristallblaue Wasser gleiten. Hier können Sie die warme Mittelmeersonne in vollen Zügen genießen.\n\nAm Nachmittag führt der Weg entlang der Küste zum östlichen Ende der Stadt zum Dominikanerkloster. Die abgeschiedene Lage auf der Halbinsel Glavica bietet eine herrliche Ruhe und einen tiefen Einblick in die religiöse Geschichte der Insel.\n\nDer Abend klingt in den malerischen Gassen der Altstadt aus. Vorbei an der Carmen-Kirche kehren Sie zum Hafen zurück, wo die Lichter der Restaurants im Wasser tanzen und lokale Köstlichkeiten auf die hungrigen Wanderer warten.",
+            "hu": "A reggel Bol pezsgő kikötőjében indul, ahol a Dešković Galéria reneszánsz palotájának fehér kövei ragyognak a napfényben. Rövid séta után a különös 'Ház a házban' építményt érintve érjük el az illatos fenyőfákkal övezett parti sétányt.\n\nDélben a pihenésé a főszerep a Zlatni Rat (Aranyszarv) strandon, Horvátország jelképén, amelynek apró kavicsos csúcsa folyamatosan változtatja alakját a tengeri áramlatok hatására a kristálytiszta vízben.\n\nDélután a part mentén a város keleti végébe látogatunk el a Dominikánus kolostorhoz. A Glavica-félszigeten fekvő épületegyüttes nyugodt környezete és múzeuma mély betekintést nyújt a sziget hitéletébe és múltjába.\n\nAz este az óváros festői utcácskáiban zárul. A Carmen-templom mellett elhaladva térünk vissza a kikötőbe, ahol az éttermek fényei táncolnak a vízen, és helyi finomságok várják a megfáradt vándorokat.",
+            "ro": "Dimineața începe în portul plin de viață din Bol, unde pietrele albe ale Galeriei Dešković strălucesc în soare. O scurtă plimbare pe lângă curioasa 'Casă în casă' vă duce pe faleza parfumată cu pini spre cea mai faimoasă plajă.\n\nLa prânz, relaxarea este cuvântul de ordine la Zlatni Rat, perla Croației, unde pietrișul fin se întâlnește cu apa albastră de cristal. Vârful plajei își schimbă constant forma, oferind un spectacol natural unic.\n\nDupă-amiaza ne îndreptăm spre capătul estic al orașului, la Mănăstirea Dominicană. Situată pe peninsula Glavica, aceasta oferă o liniște deplină și un muzeu fascinant cu hărți maritime vechi și obiecte de artă sacră.\n\nSeara se încheie pe străduțele pitorești ale centrului vechi. Trecând pe lângă Biserica Doamnei Noastre din Carmen, revenim în port pentru a ne bucura de luminile reflectate în apă și de aromele bucătăriei dalmate.",
+            "en": "The morning starts at Bol's lively harbor, where the limestone walls of the Dešković Gallery glow in the sunlight. A short walk leads past the curious 'House in a House' before reaching the fragrant pine-lined promenade.\n\nAt midday, enjoy relaxation at Zlatni Rat, Croatia's most iconic beach, where fine pebbles meet crystal blue waters. The ever-changing shape of the horn's tip is a true natural wonder to experience under the Mediterranean sun.\n\nIn the afternoon, head to the eastern edge of town to the Dominican Monastery. Located on the Glavica peninsula, it offers serene views and a museum rich in maritime history and sacred island art.\n\nEvening concludes in the picturesque alleys of the old town. Passing by the Carmen Church, return to the harbor where restaurant lights dance on the water and local specialties await hungry travelers."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Bol",
+              "tip_5lang": {
+                "de": "Beobachten Sie die Fischerboote bei der Ankunft am frühen Morgen.",
+                "hu": "Figyeld meg a kora reggel érkező halászhajókat a kikötőben.",
+                "ro": "Observați bărcile de pescuit care sosesc dimineața devreme.",
+                "en": "Watch the fishing boats arriving in the early morning."
+              }
+            },
+            {
+              "name": "Galerie Branislav Dešković",
+              "tip_5lang": {
+                "de": "Bewundern Sie moderne kroatische Kunst in einem Renaissance-Palast.",
+                "hu": "Csodáld meg a modern horvát művészetet egy reneszánsz palotában.",
+                "ro": "Admirați arta croată modernă într-un palat renascentist.",
+                "en": "Admire modern Croatian art inside a Renaissance palace."
+              }
+            },
+            {
+              "name": "Das Haus im Haus",
+              "tip_5lang": {
+                "de": "Ein bizarres Baudenkmal, das von einem Familienstreit zeugt.",
+                "hu": "Bizar építészeti emlék, amely egy családi viszályról tanúskodik.",
+                "ro": "Un monument bizar care amintește de o dispută familială.",
+                "en": "A bizarre architectural monument born from a family feud."
+              }
+            },
+            {
+              "name": "Uferpromenade von Bol",
+              "tip_5lang": {
+                "de": "Genießen Sie den Schatten der Pinien auf dem Weg zum Horn.",
+                "hu": "Élvezd a fenyőfák árnyékát a szarv felé vezető úton.",
+                "ro": "Bucurați-vă de umbra pinilor în drum spre corn.",
+                "en": "Enjoy the shade of pine trees on the way to the horn."
+              }
+            },
+            {
+              "name": "Zlatni Rat (Goldenes Horn)",
+              "tip_5lang": {
+                "de": "Die Spitze des Strandes verändert sich je nach Meeresströmung.",
+                "hu": "A strand csúcsa a tengeri áramlatoktól függően változik.",
+                "ro": "Vârful plajei se schimbă în funcție de curenții marini.",
+                "en": "The tip of the beach changes shape with the sea currents."
+              }
+            },
+            {
+              "name": "Dominikanerkloster",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Klostermuseum mit alten Seekarten und Kunst.",
+                "hu": "Látogasd meg a kolostormúzeumot régi tengeri térképekkel.",
+                "ro": "Vizitați muzeul mănăstirii cu hărți maritime vechi și artă.",
+                "en": "Visit the monastery museum with old sea charts and art."
+              }
+            },
+            {
+              "name": "Kirche Unserer Lieben Frau von Carmen",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung im barocken Ambiente.",
+                "hu": "Csendes hely az elmélkedésre barokk környezetben.",
+                "ro": "Un loc liniștit pentru reflecție într-un cadru baroc.",
+                "en": "A quiet place for reflection in a baroque setting."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Dalmatino",
+                "tip": "Probieren Sie den gegrillten Oktopus mit lokalem Olivenöl."
+              },
+              {
+                "name": "Vitalac",
+                "tip": "Eine traditionelle Bračer Spezialität aus Lamm-Innereien."
+              },
+              {
+                "name": "Bolski Plavac",
+                "tip": "Ein kräftiger Rotwein aus den Weinbergen direkt über Bol."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba Dalmatino",
+                "tip": "Kóstold meg a grillezett polipot helyi olívaolajjal."
+              },
+              {
+                "name": "Vitalac",
+                "tip": "Hagyományos brači különlegesség báránybelsőségből."
+              },
+              {
+                "name": "Bolski Plavac",
+                "tip": "Erős vörösbor a közvetlenül Bol feletti szőlőültetvényekről."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Dalmatino",
+                "tip": "Încercați caracatița la grătar cu ulei de măsline local."
+              },
+              {
+                "name": "Vitalac",
+                "tip": "O specialitate tradițională din Brač bazată pe miel."
+              },
+              {
+                "name": "Bolski Plavac",
+                "tip": "Un vin roșu robust din podgoriile situate deasupra orașului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Dalmatino",
+                "tip": "Try the grilled octopus with local olive oil."
+              },
+              {
+                "name": "Vitalac",
+                "tip": "A traditional Brač specialty made from lamb offal."
+              },
+              {
+                "name": "Bolski Plavac",
+                "tip": "A bold red wine from the vineyards directly above Bol."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Dominikaner-Garten",
+                "tip": "Ein friedlicher Klostergarten mit Blick auf das Meer.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Martinica Strand",
+                "tip": "Ruhigere Alternative zum Zlatni Rat direkt am Kloster.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Glavica Halbinsel",
+                "tip": "Ideal für einen meditativen Spaziergang bei Sonnenuntergang.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Dominikánus kert",
+                "tip": "Békés kolostorkert kilátással a tengerre.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Martinica strand",
+                "tip": "Csendesebb alternatíva az Aranyszarv helyett a kolostornál.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Glavica-félsziget",
+                "tip": "Ideális egy meditatív sétához naplementekor.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina Dominicană",
+                "tip": "O grădină mănăstirească liniștită cu vedere la mare.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Plaja Martinica",
+                "tip": "Alternativă liniștită la Zlatni Rat, lângă mănăstire.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Peninsula Glavica",
+                "tip": "Ideală pentru o plimbare meditativă la apus.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Dominican Garden",
+                "tip": "A peaceful monastery garden overlooking the sea.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Martinica Beach",
+                "tip": "Quieter alternative to Zlatni Rat right by the monastery.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Glavica Peninsula",
+                "tip": "Ideal for a meditative walk during sunset.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Steinmetz-Souvenirs",
+                "tip": "Produkte aus dem berühmten weißen Bračer Marmor."
+              },
+              {
+                "name": "Bol-Markt",
+                "tip": "Frischer Honig, getrocknete Feigen und Lavendelöl."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kőfaragó ajándéktárgyak",
+                "tip": "Híres fehér brači márványból készült termékek."
+              },
+              {
+                "name": "Boli piac",
+                "tip": "Friss méz, szárított füge és levendulaolaj."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Suveniruri din piatră",
+                "tip": "Produse realizate din celebra marmură albă de Brač."
+              },
+              {
+                "name": "Piața din Bol",
+                "tip": "Miere proaspătă, smochine uscate și ulei de lavandă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Stonecraft souvenirs",
+                "tip": "Products made from the famous white Brač marble."
+              },
+              {
+                "name": "Bol Market",
+                "tip": "Fresh honey, dried figs, and lavender oil."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die Steinpflaster in der Altstadt.",
+              "Die Promenade ist tagsüber schattig, aber am Zlatni Rat ist Sonnenschutz Pflicht.",
+              "Besuchen Sie das Kloster früh, um die Stille zu genießen.",
+              "Kaufen Sie Wasser im Supermarkt im Zentrum, bevor Sie zum Strand laufen.",
+              "Die besten Fotos vom Hafen gelingen am späten Nachmittag."
+            ],
+            "hu": [
+              "Viselj kényelmes cipőt az óváros macskaköves utcáihoz.",
+              "A sétány napközben árnyékos, de az Aranyszarvon kötelező a naptej.",
+              "Látogasd meg korán a kolostort a csend élvezete érdekében.",
+              "Vegyél vizet a központi szupermarketben, mielőtt a strandra indulnál.",
+              "A kikötőről a legjobb fotók késő délután készülnek."
+            ],
+            "ro": [
+              "Purtați încălțăminte confortabilă pentru pavajul din centrul vechi.",
+              "Faleza este umbrită, dar la Zlatni Rat protecția solară este obligatorie.",
+              "Vizitați mănăstirea devreme pentru a vă bucura de liniște.",
+              "Cumpărați apă de la supermarketul din centru înainte de a merge la plajă.",
+              "Cele mai bune fotografii cu portul se fac după-amiaza târziu."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestones in the old town.",
+              "The promenade is shaded, but sunscreen is mandatory at Zlatni Rat.",
+              "Visit the monastery early to enjoy the absolute peace.",
+              "Buy water at the central supermarket before walking to the beach.",
+              "The best harbor photos are taken in the late afternoon."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Hafen beginnt mit sanftem Regen, der die Kalksteine glänzen lässt. Die Dešković-Galerie bietet einen idealen, trockenen Rückzugsort voller Kunst. Mittags spazieren wir mit dem Schirm am Ufer entlang zum mysteriösen 'Haus im Haus'. Der Zlatni Rat wirkt bei Regen besonders dramatisch und menschenleer. Nachmittags finden wir Schutz in den friedlichen Kreuzgängen des Dominikanerklosters, bevor der Tag in einer gemütlichen Hafenbar endet.",
+            "hu": "A reggel a kikötőben halk esővel indul, ami csillogóvá teszi a fehér köveket. A Dešković-galéria tökéletes fedett menedék a művészet kedvelőinek. Délben esernyővel sétálunk a part mentén a különös 'Ház a házban' építményig. Az Arany-szarv ilyenkor drámai és elhagyatott arcát mutatja. Délután a domonkos kolostor kerengője nyújt védelmet, az estét pedig egy meleg kikötői kávézóban zárjuk, figyelve a tengerre hulló esőcseppeket.",
+            "ro": "Dimineața în port începe cu o ploaie ușoară care face pietrele de calcar să strălucească. Galeria Dešković oferă un refugiu uscat ideal, plin de artă locală. La prânz, ne plimbăm cu umbrela pe faleză până la misterioasa 'Casă în Casă'. Plaja Zlatni Rat pare dramatică și pustie sub stropii de ploaie. După-amiaza găsim adăpost în clopotnița liniștită a mănăstirii dominicane, înainte de a încheia ziua într-un bar primitor din port.",
+            "en": "The morning at the harbor begins with gentle rain, making the limestone glisten. The Dešković Gallery provides an ideal dry retreat filled with local art. At noon, we stroll with umbrellas along the waterfront to the mysterious 'House in a House'. Zlatni Rat looks particularly dramatic and deserted in the rain. Afternoon is spent sheltered in the peaceful Dominican monastery, before ending the day in a cozy harbor bar watching the rain fall."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Bol",
+              "tip_5lang": {
+                "de": "Die glatten Steine am Kai können bei Nässe rutschig sein. Vorsicht beim Gehen.",
+                "hu": "A rakpart sima kövei nedvesen csúszhatnak. Óvatosan lépkedjünk.",
+                "ro": "Pietrele netede de pe chei pot fi alunecoase când sunt ude. Atenție la pași.",
+                "en": "The smooth stones on the quay can be slippery when wet. Watch your step."
+              }
+            },
+            {
+              "name": "Galerie Branislav Dešković",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen Regenschauer abzuwarten und Kunst zu genießen.",
+                "hu": "Tökéletes hely egy zápor átvészelésére a műalkotások között.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei ploi printre opere de artă.",
+                "en": "Perfect place to wait out a rain shower while enjoying local art."
+              }
+            },
+            {
+              "name": "Das Haus im Haus",
+              "tip_5lang": {
+                "de": "Betrachten Sie die Architektur von außen unter dem Schutz eines Vordachs.",
+                "hu": "Csodálja meg az építészetet kívülről, egy közeli eresz alól.",
+                "ro": "Admirați arhitectura din exterior, sub protecția unei streșini apropiate.",
+                "en": "Admire the unique architecture from the outside under the cover of a nearby eave."
+              }
+            },
+            {
+              "name": "Uferpromenade von Bol",
+              "tip_5lang": {
+                "de": "Die Pinien bieten einen natürlichen Schutz gegen leichten Nieselregen.",
+                "hu": "A fenyőfák természetes védelmet nyújtanak az enyhe szemerkélő eső ellen.",
+                "ro": "Pinii oferă o protecție naturală împotriva unei ploi ușoare.",
+                "en": "The pine trees provide natural shelter against light drizzling rain."
+              }
+            },
+            {
+              "name": "Zlatni Rat (Goldenes Horn)",
+              "tip_5lang": {
+                "de": "Die Strandbar bietet überdachte Sitzplätze mit Blick auf die aufgewühlte See.",
+                "hu": "A strandbár fedett ülőhelyeket kínál, ahonnan nézhetjük a hullámzó tengert.",
+                "ro": "Barul de pe plajă are locuri acoperite cu vedere la marea agitată.",
+                "en": "The beach bar offers covered seating with views of the churning sea."
+              }
+            },
+            {
+              "name": "Dominikanerkloster",
+              "tip_5lang": {
+                "de": "Das Museum im Inneren ist absolut trocken und geschichtsträchtig.",
+                "hu": "A belső múzeum teljesen száraz és történelmi emlékekben gazdag.",
+                "ro": "Muzeul din interior este complet uscat și plin de istorie.",
+                "en": "The museum inside is completely dry and rich in historical artifacts."
+              }
+            },
+            {
+              "name": "Kirche Unserer Lieben Frau von Carmen",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung, während es draußen regnet.",
+                "hu": "Csendes hely az elmélkedésre, amíg odakint esik az eső.",
+                "ro": "Un loc liniștit pentru reflecție în timp ce afară plouă.",
+                "en": "A quiet place for reflection while it rains outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil, da die Steinwege in Bol bei Nässe sehr glatt werden.",
+              "Nutzen Sie die vielen Cafés am Hafen als Zwischenstopps, um trocken zu bleiben.",
+              "Die Pinienwälder am Weg zum Zlatni Rat bieten guten Schutz vor Wind und Regen.",
+              "Ein Besuch im Dominikanerkloster ist ideal für Regentage, da das Museum überdacht ist."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt, mert Bol kőútjai nedvesen rendkívül csúszósak.",
+              "Használja ki a kikötő számos kávézóját pihenőként, hogy száraz maradjon.",
+              "Az Arany-szarvhoz vezető út menti fenyvesek jól védenek a széltől és az esőtől.",
+              "A domonkos kolostor múzeuma ideális esős napokra, mivel teljesen fedett."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună, deoarece străzile din piatră devin foarte alunecoase.",
+              "Folosiți cafenelele din port ca opriri intermediare pentru a rămâne uscați.",
+              "Pădurile de pini de pe drumul spre Zlatni Rat oferă adăpost bun împotriva vântului.",
+              "Vizitarea mănăstirii dominicane este ideală pentru zilele ploioase datorită muzeului acoperit."
+            ],
+            "en": [
+              "Wear shoes with good grip as the stone paths in Bol become very slick when wet.",
+              "Utilize the many harbor cafes as intermediate stops to stay dry.",
+              "The pine forests along the path to Zlatni Rat offer good shelter from wind and rain.",
+              "A visit to the Dominican monastery is ideal for rainy days as the museum is indoors."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintermorgen in Bol sind frisch und oft von der klaren Bura-Luft geprägt. Am Hafen genießen wir die Ruhe ohne Touristenströme. Die Galerie bietet wohlige Wärme und Inspiration. Mittags wandern wir zum Zlatni Rat, dessen Form sich im Wintersturm oft verändert. Das Dominikanerkloster strahlt in der tiefstehenden Sonne eine besondere Mystik aus. Da die Sonne gegen 16:30 Uhr untergeht, genießen wir das Abendrot früh bei einem Glas lokalen Weins.",
+            "hu": "A téli reggelek Bolban frissek, gyakran a tiszta bóra szél járja át a várost. A kikötőben ilyenkor tömeg nélkül élvezhetjük a csendet. A galéria meleg és inspiráló menedék. Délben elsétálunk az Arany-szarvhoz, amelynek alakját a téli viharok gyakran átformálják. A domonkos kolostor misztikus fényben úszik az alacsonyan járó napban. Mivel a nap fél öt körül nyugszik, a vöröslő eget már korán, egy pohár helyi bor mellett csodáljuk.",
+            "ro": "Diminețile de iarnă în Bol sunt proaspete, adesea marcate de aerul curat al vântului Bura. În port ne bucurăm de liniște fără mulțimile de turiști. Galeria oferă căldură și inspirație. La prânz, mergem spre Zlatni Rat, a cărui formă se schimbă adesea în furtunile de iarnă. Mănăstirea dominicană emană o mistică specială în lumina joasă a soarelui. Deoarece soarele apune pe la 16:30, ne bucurăm de amurg devreme cu un pahar de vin local.",
+            "en": "Winter mornings in Bol are crisp, often filled with the clear air of the Bura wind. We enjoy the silence of the harbor without the tourist crowds. The gallery offers warmth and artistic inspiration. At noon, we hike to Zlatni Rat, whose shape often shifts during winter storms. The Dominican monastery exudes a special mysticism in the low winter sun. Since the sun sets around 4:30 PM, we enjoy the early twilight with a glass of local wine."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Bol",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wichtig, wenn der kalte Bura-Wind vom Gebirge weht.",
+                "hu": "Réteges öltözködés fontos, ha a hideg bóra szél fúj a hegyek felől.",
+                "ro": "Hainele groase sunt esențiale când vântul rece Bura suflă dinspre munte.",
+                "en": "Warm clothing is essential when the cold Bura wind blows from the mountains."
+              }
+            },
+            {
+              "name": "Galerie Branislav Dešković",
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Räume und die beeindruckende moderne Kunst.",
+                "hu": "Élvezze a fűtött termeket és a lenyűgöző modern művészetet.",
+                "ro": "Bucurați-vă de sălile încălzite și de arta modernă impresionantă.",
+                "en": "Enjoy the heated rooms and the impressive modern art collection."
+              }
+            },
+            {
+              "name": "Das Haus im Haus",
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf die alten Mauern.",
+                "hu": "Az alacsony téli nap hosszú árnyékokat vet a régi falakra.",
+                "ro": "Soarele de iarnă aruncă umbre lungi pe zidurile vechi.",
+                "en": "The low winter sun casts long, dramatic shadows on the ancient walls."
+              }
+            },
+            {
+              "name": "Uferpromenade von Bol",
+              "tip_5lang": {
+                "de": "Ein zügiger Spaziergang hält Sie bei den kühleren Temperaturen warm.",
+                "hu": "Egy tempós séta segít melegen tartani a hűvösebb hőmérsékletben.",
+                "ro": "O plimbare alertă vă va menține cald la temperaturile mai scăzute.",
+                "en": "A brisk walk will keep you warm in the cooler temperatures."
+              }
+            },
+            {
+              "name": "Zlatni Rat (Goldenes Horn)",
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der starke Wind die Spitze des Horns zur Seite biegt.",
+                "hu": "Figyelje meg, ahogy az erős szél oldalra hajlítja a szarv csúcsát.",
+                "ro": "Observați cum vântul puternic curbează vârful plajei spre lateral.",
+                "en": "Observe how the strong winds bend the tip of the horn to the side."
+              }
+            },
+            {
+              "name": "Dominikanerkloster",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum früh, bevor es am späten Nachmittag kühler wird.",
+                "hu": "Látogassa meg a múzeumot korán, mielőtt késő délután lehűlne a levegő.",
+                "ro": "Vizitați muzeul devreme, înainte să se răcească aerul spre seară.",
+                "en": "Visit the museum early before it gets cooler in the late afternoon."
+              }
+            },
+            {
+              "name": "Kirche Unserer Lieben Frau von Carmen",
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen ruhigen, windgeschützten Ort der Stille.",
+                "hu": "A templom csendes, széltől védett helyet kínál az elcsendesedéshez.",
+                "ro": "Biserica oferă un loc liniștit și protejat de vânt pentru reculegere.",
+                "en": "The church offers a quiet, wind-sheltered place for tranquility."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Ihren Tag früh, da es bereits gegen 16:30 Uhr dunkel wird.",
+              "Achten Sie auf die Bura; dieser kalte Nordwind kann sehr heftig sein.",
+              "Viele Cafés haben im Winter geschlossen, suchen Sie die im Ortskern auf.",
+              "Die klare Winterluft bietet die beste Fernsicht auf das Festland."
+            ],
+            "hu": [
+              "Tervezze koránra a napját, mert délután fél öt körül már sötétedik.",
+              "Ügyeljen a bórára; ez a hideg északi szél rendkívül erős tud lenni.",
+              "Sok kávézó zárva van télen, keresse a faluközpontban nyitva tartókat.",
+              "A tiszta téli levegő biztosítja a legjobb kilátást a szárazföldre."
+            ],
+            "ro": [
+              "Planificați ziua devreme, deoarece se întunecă deja pe la ora 16:30.",
+              "Atenție la Bura; acest vânt rece de nord poate fi foarte violent.",
+              "Multe cafenele sunt închise iarna, căutați-le pe cele din centrul vechi.",
+              "Aerul curat de iarnă oferă cea mai bună vizibilitate spre continent."
+            ],
+            "en": [
+              "Plan your day early as it gets dark by around 4:30 PM.",
+              "Watch out for the Bura; this cold northern wind can be very fierce.",
+              "Many cafes are closed in winter, look for those in the village center.",
+              "The clear winter air provides the best long-distance views of the mainland."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -600,6 +1073,380 @@
           "The main road above Bol is steep; prefer the coastal paths.",
           "Check your brakes before descending from Murvica."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Morgen auf der schattigen Promenade Richtung Westen. Die kühle Brise vom Meer macht das Radfahren zum Genuss, während Sie den Zlatni Rat passieren.\n\nMittags fordern die Hügel Richtung Murvica Ihre Kondition heraus, belohnen Sie aber mit weiten Panoramen über den Kanal von Hvar. Die unberührte Natur ist hier greifbar.\n\nNachmittags geht es zurück nach Bol. Ein Abstecher zum Dominikanerkloster am flachen Ostufer bildet den entspannten Abschluss der Tour.\n\nDer Abend gehört der Erholung im Hafen, wo Sie die verbrauchten Kalorien mit dalmatinischen Grillgerichten wieder auffüllen können.",
+            "hu": "Indulj reggel az árnyas sétányon nyugat felé. A tenger felől érkező hűvös szellő élvezetessé teszi a tekerést, miközben elhaladsz az Aranyszarv mellett.\n\nDélben a Murvica felé vezető dombok próbára teszik az állóképességet, de a Hvar-csatornára nyíló panoráma mindenért kárpótol. Itt tapintható az érintetlen természet.\n\nDélután gurulj vissza Bolba. Egy kitérő a lapos keleti parton fekvő Dominikánus kolostorhoz tökéletes levezetése a túrának.\n\nAz este a pihenésé a kikötőben, ahol a dalmát grillételekkel pótolhatod az elégetett kalóriákat.",
+            "ro": "Începeți dimineața pe faleza umbrită mergând spre vest. Briza răcoroasă a mării face pedalarea o plăcere în timp ce treceți pe lângă Zlatni Rat.\n\nLa prânz, dealurile spre Murvica vă vor testa condiția fizică, dar vă vor răsplăti cu panorame vaste peste canalul Hvar. Natura virgină este la ea acasă aici.\n\nDupă-amiaza reveniți în Bol. O abatere spre Mănăstirea Dominicană pe malul estic plan reprezintă finalul relaxant al turului.\n\nSeara este dedicată recuperării în port, unde puteți reface caloriile consumate cu preparate dalmate la grătar.",
+            "en": "Start your morning on the shaded promenade heading west. The cool sea breeze makes cycling a joy as you pass the iconic Zlatni Rat beach.\n\nAt midday, the hills towards Murvica will challenge your fitness but reward you with sweeping panoramas over the Hvar Channel. Pure nature is all around you here.\n\nIn the afternoon, cruise back to Bol. A detour to the Dominican Monastery on the flat eastern shore provides a relaxed conclusion to the trip.\n\nEvening is for recovery at the harbor, where you can replenish your calories with hearty Dalmatian grilled dishes."
+          },
+          "stops": [
+            {
+              "name": "Uferpromenade von Bol",
+              "tip_5lang": {
+                "de": "Radfahren ist auf der Hauptpromenade am Vormittag entspannt.",
+                "hu": "A kerékpározás a fősétányon délelőtt még nyugodt.",
+                "ro": "Ciclismul pe faleză este relaxant în cursul dimineții.",
+                "en": "Cycling on the promenade is relaxed during the morning."
+              }
+            },
+            {
+              "name": "Zlatni Rat",
+              "tip_5lang": {
+                "de": "Es gibt Fahrradständer am Eingang des Pinienwaldes.",
+                "hu": "A fenyőerdő bejáratánál kerékpártárolók találhatók.",
+                "ro": "Există suporturi pentru biciclete la intrarea în pădurea de pini.",
+                "en": "There are bike racks at the entrance of the pine forest."
+              }
+            },
+            {
+              "name": "Murvica Dorf",
+              "tip_5lang": {
+                "de": "Steile Fahrt, aber mit atemberaubendem Blick auf Hvar.",
+                "hu": "Meredek út, de lélegzetelállító kilátás nyílik Hvarra.",
+                "ro": "Urcare abruptă, dar cu o vedere spectaculoasă spre Hvar.",
+                "en": "Steep ride but with breathtaking views of Hvar island."
+              }
+            },
+            {
+              "name": "Drachenhöhle (Eingang)",
+              "tip_5lang": {
+                "de": "Stellen Sie die Räder sicher ab; der Weg zur Höhle ist nur zu Fuß.",
+                "hu": "Zárd le a bringát; a barlanghoz vezető út csak gyalogos.",
+                "ro": "Parcați bicicletele sigur; accesul la peșteră este doar pietonal.",
+                "en": "Lock your bikes securely; the cave path is pedestrian only."
+              }
+            },
+            {
+              "name": "Hafen von Bol",
+              "tip_5lang": {
+                "de": "Rückfahrt bergab genießen, aber auf Fußgänger achten.",
+                "hu": "Élvezd a lejtőt visszafelé, de figyelj a gyalogosokra.",
+                "ro": "Bucurați-vă de coborâre, dar atenție la pietoni.",
+                "en": "Enjoy the downhill ride back, but watch out for pedestrians."
+              }
+            },
+            {
+              "name": "Dominikanerkloster",
+              "tip_5lang": {
+                "de": "Der östliche Radweg ist flach und sehr malerisch.",
+                "hu": "A keleti kerékpárút sík és nagyon látványos.",
+                "ro": "Pista de biciclete din est este plană și foarte pitorească.",
+                "en": "The eastern bike path is flat and very scenic."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Mali Raj",
+                "tip": "Direkt am Zlatni Rat gelegen, ideal für einen schnellen Snack."
+              },
+              {
+                "name": "Konoba Pusa",
+                "tip": "Hausgemachte Pasta mit Meeresfrüchten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mali Raj",
+                "tip": "Közvetlenül az Aranyszarvnál, ideális egy gyors snackre."
+              },
+              {
+                "name": "Konoba Pusa",
+                "tip": "Házi tészta tenger gyümölcseivel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mali Raj",
+                "tip": "Situat chiar lângă Zlatni Rat, ideal pentru o gustare rapidă."
+              },
+              {
+                "name": "Konoba Pusa",
+                "tip": "Paste de casă cu fructe de mare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mali Raj",
+                "tip": "Located right by Zlatni Rat, ideal for a quick snack."
+              },
+              {
+                "name": "Konoba Pusa",
+                "tip": "Homemade pasta with fresh seafood."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Murvica Ausblick",
+                "tip": "Ein ruhiger Stopp über den Klippen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Murvicai kilátó",
+                "tip": "Csendes pihenő a sziklák felett.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Belvederea Murvica",
+                "tip": "Un popas liniștit deasupra stâncilor.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Murvica Lookout",
+                "tip": "A quiet stop above the coastal cliffs.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Örtliches Olivenöl",
+                "tip": "Direkt vom Erzeuger in den kleinen Läden."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi olívaolaj",
+                "tip": "Közvetlenül a termelőktől a kisboltokban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline local",
+                "tip": "Direct de la producători în micile magazine."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Olive Oil",
+                "tip": "Direct from producers in the small shops."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein Mountainbike für die Strecke nach Murvica.",
+              "Nehmen Sie ausreichend Wasser mit, es gibt wenig Quellen unterwegs.",
+              "Achten Sie auf Wanderer auf der Promenade zum Zlatni Rat.",
+              "Die Hauptstraße über Bol ist steil, nutzen Sie lieber die Küstenwege.",
+              "Prüfen Sie die Bremsen vor der Abfahrt von Murvica."
+            ],
+            "hu": [
+              "Bérelj hegyi kerékpárt a Murvica felé vezető szakaszhoz.",
+              "Vigyél magaddal elegendő vizet, útközben kevés a forrás.",
+              "Figyelj a gyalogosokra az Aranyszarv felé vezető sétányon.",
+              "A Bol feletti főút meredek, használd inkább a parti utakat.",
+              "Ellenőrizd a fékeket a Murvicából való leereszkedés előtt."
+            ],
+            "ro": [
+              "Închiriați un mountain bike pentru traseul spre Murvica.",
+              "Luați suficientă apă, sunt puține surse pe drum.",
+              "Atenție la pietoni pe faleza spre Zlatni Rat.",
+              "Drumul principal deasupra Bol este abrupt, folosiți potecile de coastă.",
+              "Verificați frânele înainte de coborârea din Murvica."
+            ],
+            "en": [
+              "Rent a mountain bike for the section to Murvica.",
+              "Take enough water, there are few sources along the way.",
+              "Watch out for pedestrians on the promenade to Zlatni Rat.",
+              "The main road above Bol is steep; prefer the coastal paths.",
+              "Check your brakes before descending from Murvica."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen entlang der Promenade erfordert Vorsicht, bietet aber eine erfrischende Brise. Am Zlatni Rat peitscht der Wind die Gischt hoch – ein wilder Anblick. Der Weg nach Murvica führt durch duftende, nasse Pinienwälder. Die Drachenhöhle besuchen wir nur von außen, da die Pfade rutschig sein können. Zurück in Bol wärmen wir uns am Hafen auf, bevor wir das Kloster im sanften Nachmittagsregen besichtigen.",
+            "hu": "Az esőben való biciklizés a korzón óvatosságot igényel, de frissítő tengeri szellőt hoz. Az Arany-szarvnál a szél magasra veri a tajtékot – vad látvány. Murvica felé az út illatos, nedves fenyveseken át vezet. A Sárkány-barlangot csak kívülről nézzük, mert az utak csúszósak lehetnek. Visszatérve Bolba, a kikötőben melegszünk fel, majd megnézzük a kolostort a csendes délutáni esőben.",
+            "ro": "Mersul pe bicicletă în ploaie pe faleză necesită prudență, dar oferă o briză revigorantă. La Zlatni Rat, vântul ridică spuma mării – o priveliște sălbatică. Drumul spre Murvica trece prin păduri de pini umede și parfumate. Vizităm Peștera Dragonului doar din exterior, deoarece potecile pot fi alunecoase. Reveniți în Bol, ne încălzim în port înainte de a vizita mănăstirea în ploaia ușoară de după-amiază.",
+            "en": "Cycling in the rain along the promenade requires caution but offers a refreshing sea breeze. At Zlatni Rat, the wind whips up the spray – a wild sight. The route to Murvica leads through fragrant, wet pine forests. We view the Dragon's Cave only from the entrance as trails can be slippery. Back in Bol, we warm up at the harbor before visiting the monastery in the gentle afternoon rain."
+          },
+          "stops": [
+            {
+              "name": "Uferpromenade von Bol",
+              "tip_5lang": {
+                "de": "Vorsicht bei Pfützen; die Steine unter dem Wasser können locker sein.",
+                "hu": "Vigyázat a tócsákkal; a víz alatti kövek lazák lehetnek.",
+                "ro": "Atenție la bălți; pietrele de sub apă pot fi instabile.",
+                "en": "Be careful with puddles; the stones underneath can be loose."
+              }
+            },
+            {
+              "name": "Zlatni Rat",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem Schotter, er wird bei Regen weich.",
+                "hu": "Hajtson lassan a murván, mert esőben felpuhulhat a talaj.",
+                "ro": "Conduceți încet pe pietriș, acesta devine moale când plouă.",
+                "en": "Ride slowly on the gravel, as it can soften in the rain."
+              }
+            },
+            {
+              "name": "Murvica Dorf",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter einem Vordach im Dorf ab.",
+                "hu": "Hagyja a biciklijét egy falu széli eresz alatt.",
+                "ro": "Lăsați bicicleta sub o streașină la intrarea în sat.",
+                "en": "Park your bike under a protective eave at the village entrance."
+              }
+            },
+            {
+              "name": "Drachenhöhle (Eingang)",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei Regen extrem rutschig. Nur von weitem schauen.",
+                "hu": "Az emelkedő esőben rendkívül csúszós. Csak távolról nézze meg.",
+                "ro": "Urcarea este extrem de alunecoasă pe ploaie. Priviți doar de departe.",
+                "en": "The climb is extremely slippery in the rain. Only view from a distance."
+              }
+            },
+            {
+              "name": "Hafen von Bol",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer nahe der Touristeninformation.",
+                "hu": "Használja a fedett biciklitárolót a turistairoda mellett.",
+                "ro": "Folosiți suportul de biciclete acoperit de lângă centrul de informare.",
+                "en": "Use the covered bike rack near the tourist information center."
+              }
+            },
+            {
+              "name": "Dominikanerkloster",
+              "tip_5lang": {
+                "de": "Binden Sie Ihr Rad im Windschatten der hohen Klostermauern an.",
+                "hu": "Kösse le a kerékpárt a magas kolostorfalak szélárnyékában.",
+                "ro": "Legați bicicleta în zona ferită de vânt a zidurilor mănăstirii.",
+                "en": "Lock your bike in the wind-shadow of the high monastery walls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie scharfe Bremsmanöver auf den nassen Pflastersteinen im Ort.",
+              "Ein kompletter Satz Regenkleidung inklusive Überschuhen ist ratsam.",
+              "Die Küstenstraße nach Murvica kann bei Starkregen kleine Geröllabgänge haben.",
+              "Nutzen Sie Scheibenbremsen vorsichtig, da sie bei Nässe erst verzögert greifen."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a falu nedves macskaköves utcáin.",
+              "Teljes esővédő ruházat és cipővédő használata javasolt.",
+              "A Murvica felé vezető tengerparti úton heves esőben kőfelhordás lehet.",
+              "Óvatosan használja a tárcsaféket, mert nedvesen később foghat."
+            ],
+            "ro": [
+              "Evitați frânările bruște pe pietrele cubice umede din localitate.",
+              "Se recomandă un set complet de haine de ploaie, inclusiv protecții pentru încălțăminte.",
+              "Drumul de coastă spre Murvica poate avea mici căderi de pietre în timpul ploilor torențiale.",
+              "Folosiți frânele cu atenție, deoarece eficiența lor scade pe timp de ploaie."
+            ],
+            "en": [
+              "Avoid sharp braking maneuvers on the wet cobblestones in town.",
+              "A complete set of rain gear including shoe covers is highly recommended.",
+              "The coastal road to Murvica may have small rockfalls during heavy rain.",
+              "Use brakes cautiously as they may have a delayed response when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad startet frisch an der Promenade. Die kühle Luft ist belebend, solange man in Bewegung bleibt. Am Zlatni Rat sind wir fast allein und genießen die raue Schönheit der Adria. Der Weg nach Murvica ist anstrengend, hält aber warm. Die Drachenhöhle am Hang bietet einen fantastischen Blick auf das tiefblaue Wintermeer. Zurück am Hafen genießen wir das goldene Licht der frühen Dämmerung, bevor wir den Tag am Kloster beenden.",
+            "hu": "A téli biciklitúra frissen indul a korzón. A hűvös levegő élénkítő, amíg mozgásban maradunk. Az Arany-szarvnál szinte egyedül vagyunk, élvezve az Adria nyers szépségét. A Murvica felé vezető út fárasztó, de melegen tart. A hegyoldalban lévő Sárkány-barlangtól fantasztikus kilátás nyílik a mélykék téli tengerre. A kikötőbe visszatérve a korai szürkület arany fényeit élvezzük, majd a kolostornál zárjuk a napot.",
+            "ro": "O tură de iarnă cu bicicleta începe proaspăt pe faleză. Aerul rece este revigorant atâta timp cât rămâneți în mișcare. La Zlatni Rat suntem aproape singuri și ne bucurăm de frumusețea brută a Adriaticii. Drumul spre Murvica este solicitant, dar vă menține calzi. Peștera Dragonului de pe versant oferă o vedere fantastică spre marea de un albastru profund. Reveniți în port, ne bucurăm de lumina aurie a amurgului timpuriu.",
+            "en": "A winter bike tour starts fresh at the promenade. The cool air is invigorating as long as you keep moving. At Zlatni Rat, we are almost alone, enjoying the raw beauty of the Adriatic. The route to Murvica is strenuous but keeps you warm. The Dragon's Cave on the slope offers a fantastic view of the deep blue winter sea. Back at the harbor, we enjoy the golden light of the early twilight before ending at the monastery."
+          },
+          "stops": [
+            {
+              "name": "Uferpromenade von Bol",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe gegen den kühlen Fahrtwind.",
+                "hu": "Viseljen szélálló kesztyűt a hűvös menetszél ellen.",
+                "ro": "Purtați mănuși rezistente la vânt împotriva curentului de aer rece.",
+                "en": "Wear windproof gloves to protect against the chilly headwind."
+              }
+            },
+            {
+              "name": "Zlatni Rat",
+              "tip_5lang": {
+                "de": "Im Winter kann der Sand durch den Wind sehr hart gefroren wirken.",
+                "hu": "Télen a homok a szél hatására nagyon keménynek tűnhet.",
+                "ro": "Iarna, nispiul poate părea foarte tare din cauza vântului.",
+                "en": "In winter, the sand can feel very hard-packed due to the wind."
+              }
+            },
+            {
+              "name": "Murvica Dorf",
+              "tip_5lang": {
+                "de": "Die Auffahrt nach Murvica bringt den Kreislauf in Schwung.",
+                "hu": "A Murvica felé vezető emelkedő jól felpörgeti a keringést.",
+                "ro": "Urcarea spre Murvica vă va pune sângele în mișcare.",
+                "en": "The uphill ride to Murvica will definitely get your circulation going."
+              }
+            },
+            {
+              "name": "Drachenhöhle (Eingang)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe; im Winter sind hier keine geführten Touren.",
+                "hu": "Élvezze a csendet; télen itt nincsenek vezetett túrák.",
+                "ro": "Bucurați-vă de liniște; iarna nu sunt tururi ghidate aici.",
+                "en": "Enjoy the solitude; there are no guided tours here in winter."
+              }
+            },
+            {
+              "name": "Hafen von Bol",
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause für einen heißen Tee im Hafenbecken.",
+                "hu": "Tartson szünetet egy forró teára a kikötőben.",
+                "ro": "Faceți o pauză pentru un ceai fierbinte în zona portului.",
+                "en": "Take a break for a hot tea by the harbor basin."
+              }
+            },
+            {
+              "name": "Dominikanerkloster",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Beleuchtung für den Rückweg funktioniert.",
+                "hu": "Ellenőrizze, hogy a lámpái működnek-e a visszaúthoz.",
+                "ro": "Asigurați-vă că luminile funcționează pentru drumul de întoarcere.",
+                "en": "Ensure your bike lights are working for the ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichtenprinzip: Windjacke über Fleece hält die Wärme am besten.",
+              "Achten Sie auf Raureif oder Glätte in schattigen Kurven der Küstenstraße.",
+              "Die Tage sind kurz; starten Sie spätestens um 10:00 Uhr Ihre Tour.",
+              "Nehmen Sie eine Thermoskanne mit einem warmen Getränk mit."
+            ],
+            "hu": [
+              "Réteges öltözködés: a polár feletti szélkabát tartja meg legjobban a hőt.",
+              "Ügyeljen a dérre vagy csúszós szakaszokra a parti út árnyékos kanyarjaiban.",
+              "A nappalok rövidek; legkésőbb délelőtt 10-kor induljon el a túrára.",
+              "Vigyen magával termoszt egy meleg itallal."
+            ],
+            "ro": [
+              "Principiul straturilor: o jachetă de vânt peste fleece menține cel mai bine căldura.",
+              "Atenție la chiciură sau polei în curbele umbrite ale drumului de coastă.",
+              "Zilele sunt scurte; începeți tura cel târziu la ora 10:00.",
+              "Luați un termos cu o băutură caldă la voi."
+            ],
+            "en": [
+              "Layering principle: a windbreaker over fleece holds heat best.",
+              "Watch out for frost or ice in shaded curves of the coastal road.",
+              "Days are short; start your tour by 10:00 AM at the latest.",
+              "Bring a thermos with a warm drink along."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -818,6 +1665,337 @@
           "Refuel in Supetar or Bol before heading into the island's interior.",
           "Book the guided tour for Blaca in advance if possible."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Der Vormittag führt Sie hoch hinaus auf die Vidova Gora, den Gipfel von Brač, von wo aus das Goldene Horn wie eine kleine Nadel im blauen Meer wirkt. Danach geht es zur faszinierenden Eremitage Blaca, einem in den Fels gehauenen Klosterkomplex.\n\nMittags erkunden Sie das verschlafene Murvica, bevor Sie zurück nach Bol fahren, um das Treiben im Hafen zu beobachten und in einer der Konobas zu speisen.\n\nNachmittags entspannen Sie am Zlatni Rat. Mit dem Auto erreichen Sie bequem den strandnahen Parkplatz, was ideal für einen späten Strandbesuch ist.\n\nDer Abend endet mit einer Panoramafahrt entlang der Küstenstraße zurück zu Ihrer Unterkunft, während die Sonne langsam hinter den Bergen versinkt.",
+            "hu": "A délelőtt a Vidova Gorára, Brač csúcsára vezet, ahonnan az Aranyszarv apró tűnek tűnik a kék tengerben. Ezután a lenyűgöző Blaca-remeteséghez látogatunk, amely egy sziklába vájt kolostorkomplexum.\n\nDélben felfedezzük az álmos Murvicát, majd visszahajtunk Bolba, hogy megfigyeljük a kikötő nyüzsgését és ebédeljünk egy helyi konobában.\n\nDélután a Zlatni Rat strandján pihenünk. Autóval kényelmesen elérhető a strand közeli parkoló, ami ideális egy kései strandoláshoz.\n\nAz este egy panorámás autózással zárul a parti úton vissza a szálláshelyre, miközben a nap lassan eltűnik a hegyek mögött.",
+            "ro": "Dimineața vă poartă sus pe Vidova Gora, vârful insulei Brač, de unde Cornul de Aur pare un ac mic în marea albastră. Urmează fascinanta Ermitaj Blaca, un complex mănăstiresc săpat direct în stâncă.\n\nLa prânz explorați liniștitul sat Murvica, înainte de a reveni în Bol pentru a observa agitația din port și a lua masa la o tavernă locală.\n\nDupă-amiaza vă relaxați la Zlatni Rat. Cu mașina ajungeți ușor la parcarea de lângă plajă, fiind ideal pentru o vizită târzie la mare.\n\nSeara se încheie cu o plimbare panoramică pe drumul de coastă înapoi spre cazare, în timp ce soarele apune încet după munți.",
+            "en": "Morning takes you high up to Vidova Gora, the peak of Brač, where the Golden Horn looks like a tiny needle in the vast blue sea. Next, visit the fascinating Blaca Hermitage, a monastery complex carved directly into the rock.\n\nAt midday, explore the sleepy village of Murvica before driving back to Bol to watch the harbor life and dine at a local konoba.\n\nIn the afternoon, relax at Zlatni Rat. By car, you can easily reach the parking lot right behind the beach, perfect for a late-day swim.\n\nEvening ends with a scenic drive along the coastal road back to your accommodation as the sun slowly dips behind the mountains."
+          },
+          "stops": [
+            {
+              "name": "Vidova Gora",
+              "tip_5lang": {
+                "de": "Vom höchsten Punkt der Adria-Inseln hat man den besten Blick auf Bol.",
+                "hu": "Az adriai szigetek legmagasabb pontjáról nyílik a legjobb kilátás Bolra.",
+                "ro": "De la cel mai înalt punct al insulelor adriatice aveți cea mai bună vedere.",
+                "en": "The highest peak of the Adriatic islands offers the best view of Bol."
+              }
+            },
+            {
+              "name": "Eremitage Blaca",
+              "tip_5lang": {
+                "de": "Einzigartiges Felsenkloster; der Fußweg vom Parkplatz dauert 30 Min.",
+                "hu": "Egyedülálló sziklakolostor; a parkolótól 30 perc séta.",
+                "ro": "Mănăstire unică în stâncă; drumul pe jos de la parcare durează 30 min.",
+                "en": "Unique rock monastery; the walk from the parking lot takes 30 mins."
+              }
+            },
+            {
+              "name": "Murvica",
+              "tip_5lang": {
+                "de": "Malersiches Dorf mit alten Steinhäusern und Weinbergen.",
+                "hu": "Festői falu régi kőházakkal és szőlőültetvényekkel.",
+                "ro": "Sat pitoresc cu case vechi de piatră și podgorii.",
+                "en": "Picturesque village with old stone houses and vineyards."
+              }
+            },
+            {
+              "name": "Hafen von Bol",
+              "tip_5lang": {
+                "de": "Parken Sie am Ortseingang und schlendern Sie zum Hafen.",
+                "hu": "Parkolj a város szélén, és sétálj be a kikötőbe.",
+                "ro": "Parcați la intrarea în oraș și plimbați-vă spre port.",
+                "en": "Park at the town entrance and stroll to the harbor."
+              }
+            },
+            {
+              "name": "Zlatni Rat",
+              "tip_5lang": {
+                "de": "Der große Parkplatz ist direkt hinter dem Strand.",
+                "hu": "A nagy parkoló közvetlenül a strand mögött található.",
+                "ro": "Parcarea mare se află chiar în spatele plajei.",
+                "en": "The large parking lot is right behind the beach."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Tomić",
+                "tip": "In Gornji Humac, bekannt für Lamm am Spieß."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba Tomić",
+                "tip": "Gornji Humacban, híres a nyárson sült bárányáról."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Tomić",
+                "tip": "În Gornji Humac, renumită pentru mielul la proțap."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Tomić",
+                "tip": "In Gornji Humac, famous for spit-roasted lamb."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Vidova Gora Wald",
+                "tip": "Kühle Schwarzkieferwälder für ein Picknick.",
+                "emoji": "🌲"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vidova Gora erdő",
+                "tip": "Hűvös feketefenyő erdők egy piknikhez.",
+                "emoji": "🌲"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pădurea Vidova Gora",
+                "tip": "Păduri răcoroase de pin negru pentru un picnic.",
+                "emoji": "🌲"
+              }
+            ],
+            "en": [
+              {
+                "name": "Vidova Gora Forest",
+                "tip": "Cool black pine forests perfect for a picnic.",
+                "emoji": "🌲"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Jakšić Galerie",
+                "tip": "Hochwertige Steinkunst in Donji Humac (kurzer Umweg)."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Jakšić Galéria",
+                "tip": "Kiváló minőségű kőművészet Donji Humacban (kis kitérő)."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Galeria Jakšić",
+                "tip": "Artă în piatră de înaltă calitate în Donji Humac (mic ocol)."
+              }
+            ],
+            "en": [
+              {
+                "name": "Jakšić Gallery",
+                "tip": "High-quality stone art in Donji Humac (short detour)."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straße zur Eremitage Blaca ist teilweise unbefestigt, fahren Sie vorsichtig.",
+              "Parkplätze in Bol sind im Sommer schnell belegt, nutzen Sie die großen Areale.",
+              "Vidova Gora kann auch im Sommer windig und kühl sein.",
+              "Tanken Sie in Supetar oder Bol, bevor Sie ins Inselinnere fahren.",
+              "Buchen Sie die Führung für Blaca im Voraus, falls möglich."
+            ],
+            "hu": [
+              "A Blaca-remeteséghez vezető út részben burkolatlan, vezess óvatosan.",
+              "Bolban a parkolók nyáron hamar megtelnek, használd a nagy területeket.",
+              "A Vidova Gora még nyáron is szeles és hűvös lehet.",
+              "Tankolj Supetarban vagy Bolban, mielőtt a sziget belsejébe indulnál.",
+              "Ha lehet, foglalj előre vezetést a Blaca-remeteségbe."
+            ],
+            "ro": [
+              "Drumul spre Ermitaj Blaca este parțial neasfaltat, conduceți cu atenție.",
+              "Parcările în Bol se ocupă repede vara, folosiți spațiile mari de la intrare.",
+              "Vidova Gora poate fi vântoasă și răcoroasă chiar și vara.",
+              "Alimentați în Supetar sau Bol înainte de a merge spre interiorul insulei.",
+              "Rezervați turul ghidat pentru Blaca în avans, dacă este posibil."
+            ],
+            "en": [
+              "The road to Blaca Hermitage is partly unpaved; drive carefully.",
+              "Parking in Bol fills up fast in summer; use the large designated lots.",
+              "Vidova Gora can be windy and cool even in the middle of summer.",
+              "Refuel in Supetar or Bol before heading into the island's interior.",
+              "Book the guided tour for Blaca in advance if possible."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt zur Vidova Gora im Regen ist mystisch, oft hängen tiefe Wolken über dem Gipfel. Die Sicht kann eingeschränkt sein, was den Berg noch imposanter macht. Mittags erreichen wir die Eremitage Blaca; der Fußweg dorthin kann bei Nässe schlammig sein, Vorsicht ist geboten. Murvica und der Hafen von Bol wirken im Regen friedlich. Zum Abschluss besuchen wir den Zlatni Rat, wo man vom Auto aus die wilden Wellen beobachten kann.",
+            "hu": "Az út a Vidova Gorára esőben misztikus, gyakran alacsony felhők ülik meg a csúcsot. A látótávolság korlátozott lehet, ami még monumentálisabbá teszi a hegyet. Délben elérjük a Blaca-kolostort; az odavezető gyalogút sáros és csúszós lehet. Murvica és Bol kikötője békésen pihen az esőben. Végezetül az Arany-szarvhoz megyünk, ahol az autóból nézhetjük a tenger vad hullámzását.",
+            "ro": "Drumul spre Vidova Gora pe ploaie este mistic, adesea cu nori joși peste vârf. Vizibilitatea poate fi redusă, ceea ce face muntele și mai impunător. La prânz ajungem la Schitul Blaca; poteca spre acesta poate fi noroioasă când plouă. Murvica și portul Bol par liniștite sub ploaie. La final vizităm Zlatni Rat, unde puteți observa valurile sălbatice direct din mașină.",
+            "en": "The drive to Vidova Gora in the rain is mystical, often with low clouds hanging over the summit. Visibility may be limited, making the mountain feel even more imposing. At noon, we reach the Blaca Hermitage; the footpath there can be muddy and slippery, so use caution. Murvica and Bol harbor seem peaceful in the rain. Finally, we visit Zlatni Rat, where you can watch the wild waves from the comfort of your car."
+          },
+          "stops": [
+            {
+              "name": "Vidova Gora",
+              "tip_5lang": {
+                "de": "Bei starkem Regen und Nebel fahren Sie bitte besonders langsam.",
+                "hu": "Heves esőben és ködben kérjük, vezessen különösen lassan.",
+                "ro": "În caz de ploaie torențială și ceață, vă rugăm să conduceți foarte încet.",
+                "en": "In heavy rain and fog, please drive extra slowly."
+              }
+            },
+            {
+              "name": "Eremitage Blaca",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk ist für den rutschigen Abstieg unerlässlich.",
+                "hu": "A csúszós ereszkedéshez elengedhetetlen a stabil túrabakancs.",
+                "ro": "Încălțămintea robustă este esențială pentru coborârea alunecoasă.",
+                "en": "Sturdy footwear is essential for the slippery descent."
+              }
+            },
+            {
+              "name": "Murvica",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz oberhalb des Dorfes für einen schnellen Stopp.",
+                "hu": "Használja a falu feletti parkolót egy gyors megállóhoz.",
+                "ro": "Folosiți parcarea de deasupra satului pentru o oprire rapidă.",
+                "en": "Use the parking area above the village for a quick stop."
+              }
+            },
+            {
+              "name": "Hafen von Bol",
+              "tip_5lang": {
+                "de": "Es gibt Parkmöglichkeiten nahe dem Zentrum, die kurze Wege bieten.",
+                "hu": "Vannak központi parkolóhelyek, ahonnan csak rövid sétát kell tenni.",
+                "ro": "Există locuri de parcare aproape de centru, scurtând distanțele.",
+                "en": "There are parking spots near the center that offer short walking distances."
+              }
+            },
+            {
+              "name": "Zlatni Rat",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Strand, um nicht zu nass zu werden.",
+                "hu": "Parkoljon közel a strandhoz, hogy ne ázzon el túlságosan.",
+                "ro": "Parcați aproape de plajă pentru a nu vă uda prea tare.",
+                "en": "Park close to the beach entrance to minimize getting wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer, bevor Sie in die Berge fahren.",
+              "Die Straße zur Vidova Gora hat viele Kurven; fahren Sie vorsichtig bei Nässe.",
+              "Der Fußweg zur Eremitage Blaca dauert 30-45 Minuten; nehmen Sie Regenzeug mit.",
+              "Im Hafen von Bol gibt es überdachte Parkplätze in einigen privaten Garagen."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket, mielőtt a hegyekbe indulna.",
+              "A Vidova Gorára vezető út kanyargós; nedves aszfalton vezessen óvatosan.",
+              "A Blaca-kolostorhoz vezető út 30-45 perc; vigyen magával esőfelszerelést.",
+              "Bol kikötőjében néhány privát garázsban találhat fedett parkolót."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a pleca spre munte.",
+              "Drumul spre Vidova Gora are multe curbe; conduceți cu prudență pe carosabil umed.",
+              "Poteca spre Schitul Blaca durează 30-45 minute; luați haine de ploaie.",
+              "În portul Bol există locuri de parcare acoperite în unele garaje private."
+            ],
+            "en": [
+              "Check your wipers before heading into the mountains.",
+              "The road to Vidova Gora is very curvy; drive carefully on wet tarmac.",
+              "The hike to Blaca Hermitage takes 30-45 minutes; bring rain gear.",
+              "In Bol harbor, some private garages offer covered parking spaces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt mit der Fahrt zur Vidova Gora, wo man oft bis nach Italien sehen kann. Die Luft ist eiskalt, aber die Sicht spektakulär. Die Wanderung zur Eremitage Blaca ist bei kühlem Wetter angenehmer als im Sommer. Mittags erkunden wir Murvica und den ruhigen Hafen von Bol. Der Zlatni Rat zeigt sich im Winterlicht fast unwirklich schön. Wir genießen den frühen Sonnenuntergang direkt an der Küste, bevor es im Auto wieder gemütlich warm wird.",
+            "hu": "Egy tiszta téli nap a Vidova Gorára való felhajtással indul, ahonnan gyakran Olaszországig is ellátni. A levegő jéghideg, de a kilátás látványos. A Blaca-kolostorhoz való túra hűvös időben kellemesebb, mint nyáron. Délben felfedezzük Murvicát és Bol csendes kikötőjét. Az Arany-szarv szinte szürreálisan szép a téli fényekben. A korai naplementét közvetlenül a parton élvezzük, mielőtt visszatérnénk a meleg autóba.",
+            "ro": "O zi senină de iarnă începe cu drumul spre Vidova Gora, de unde adesea se poate vedea până în Italia. Aerul este înghețat, dar vederea spectaculoasă. Drumeția spre Schitul Blaca este mai plăcută pe vreme răcoroasă decât vara. La prânz explorăm Murvica și portul liniștit Bol. Zlatni Rat pare aproape ireal de frumos în lumina iernii. Ne bucurăm de apusul timpuriu direct pe coastă, înainte de a reveni în mașina încălzită.",
+            "en": "A clear winter day begins with the drive to Vidova Gora, where you can often see as far as Italy. The air is freezing, but the view is spectacular. The hike to Blaca Hermitage is more pleasant in cool weather than in summer. At noon, we explore Murvica and the quiet harbor of Bol. Zlatni Rat looks almost surreal in the winter light. We enjoy the early sunset right on the coast before warming up back in the car."
+          },
+          "stops": [
+            {
+              "name": "Vidova Gora",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf der Fahrbahn in Gipfelnähe.",
+                "hu": "Ügyeljen a jeges foltokra az úttesten a csúcs közelében.",
+                "ro": "Atenție la porțiunile înghețate de pe carosabil în apropierea vârfului.",
+                "en": "Watch out for icy patches on the road near the summit."
+              }
+            },
+            {
+              "name": "Eremitage Blaca",
+              "tip_5lang": {
+                "de": "Nehmen Sie eine Taschenlampe mit, da es im Tal früh schattig wird.",
+                "hu": "Vigyen zseblámpát, mert a völgyben korán árnyékos lesz.",
+                "ro": "Luați o lanternă, deoarece în vale se lasă umbra devreme.",
+                "en": "Bring a flashlight, as it gets shady and dark early in the valley."
+              }
+            },
+            {
+              "name": "Murvica",
+              "tip_5lang": {
+                "de": "Die Wintersonne bringt die Steinhäuser von Murvica zum Leuchten.",
+                "hu": "A téli napfény szépen megvilágítja Murvica kőházait.",
+                "ro": "Soarele de iarnă face casele din piatră din Murvica să strălucească.",
+                "en": "The winter sun makes the stone houses of Murvica glow beautifully."
+              }
+            },
+            {
+              "name": "Hafen von Bol",
+              "tip_5lang": {
+                "de": "Im Winter finden Sie problemlos Parkplätze direkt an der Mole.",
+                "hu": "Télen gond nélkül találhat parkolóhelyet közvetlenül a mólónál.",
+                "ro": "Iarna veți găsi ușor locuri de parcare chiar lângă dig.",
+                "en": "In winter, you'll easily find parking spots right by the pier."
+              }
+            },
+            {
+              "name": "Zlatni Rat",
+              "tip_5lang": {
+                "de": "Die Zufahrt ist im Winter oft gebührenfrei. Genießen Sie die Leere.",
+                "hu": "A behajtás télen gyakran ingyenes. Élvezze az ürességet.",
+                "ro": "Accesul este adesea gratuit iarna. Bucurați-vă de lipsa mulțimii.",
+                "en": "The access road is often toll-free in winter. Enjoy the solitude."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Mietwagen Frostschutzmittel in der Scheibenwaschanlage hat.",
+              "Auf der Vidova Gora kann es 5-10 Grad kälter sein als am Meer.",
+              "Die Wanderung nach Blaca ist im Winter schweißtreibend; Wechselkleidung hilft.",
+              "Nutzen Sie das Tageslicht voll aus und starten Sie gegen 09:00 Uhr."
+            ],
+            "hu": [
+              "Ellenőrizze, hogy az autóban van-e fagyálló szélvédőmosó folyadék.",
+              "A Vidova Gorán 5-10 fokkal is hidegebb lehet, mint a tengerparton.",
+              "A blacai túra télen is izzasztó lehet; a váltóruha jól jöhet.",
+              "Használja ki a nappali fényt, és induljon el reggel 9 óra körül."
+            ],
+            "ro": [
+              "Asigurați-vă că mașina are lichid de parbriz rezistent la îngheț.",
+              "Pe Vidova Gora poate fi cu 5-10 grade mai rece decât la nivelul mării.",
+              "Drumeția spre Blaca poate fi solicitantă; hainele de schimb sunt utile.",
+              "Profitate la maximum de lumina zilei și porniți la drum în jur de ora 09:00."
+            ],
+            "en": [
+              "Ensure your car has anti-freeze windshield washer fluid.",
+              "On Vidova Gora, it can be 5-10 degrees colder than at sea level.",
+              "The hike to Blaca is strenuous even in winter; bring spare clothes.",
+              "Take full advantage of the daylight and start around 09:00 AM."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1036,6 +2214,337 @@
           "Buy train tickets directly from the driver.",
           "Water taxis may be suspended during strong winds (Bura)."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Taxiboote am Morgen, um stilvoll zum Zlatni Rat zu gelangen. Die kurze Überfahrt bietet eine herrliche Perspektive auf die Insel Brač und das glitzernde Meer.\n\nMittags können Sie den kleinen Touristenzug (Bummelzug) nehmen, der regelmäßig zwischen dem Strand und dem Stadtzentrum verkehrt und besonders bei Familien beliebt ist.\n\nNachmittags erkunden Sie das östliche Ende von Bol. Viele Ausflugsboote bieten auch kurze Rundfahrten an, die Sie bequem zum Dominikanerkloster bringen.\n\nDer Abend endet am Hafen, dem zentralen Knotenpunkt für alle Katamarane und Boote, wo Sie das Kommen und Gehen der Reisenden bei einem Eis genießen können.",
+            "hu": "Használd reggel a taxihajókat, hogy stílusosan érkezz az Aranyszarvhoz. A rövid átkelés remek rálátást biztosít Brač szigetére és a csillogó tengerre.\n\nDélben felszállhatsz a turisztikai kisvonatra, amely rendszeresen közlekedik a strand és a városközpont között, és különösen népszerű a családok körében.\n\nDélután fedezd fel Bol keleti végét. Számos kirándulóhajó kínál rövid körutakat, amelyek kényelmesen elvisznek a Dominikánus kolostorig.\n\nAz este a kikötőben zárul, amely minden katamarán és hajó központi csomópontja, ahol egy fagylalt mellett élvezheted az utazók jövés-menését.",
+            "ro": "Folosiți taxi-urile pe apă dimineața pentru a ajunge cu stil la Zlatni Rat. Scurta traversare oferă o perspectivă superbă asupra insulei Brač și a mării sclipitoare.\n\nLa prânz puteți lua trenulețul turistic care circulă regulat între plajă și centrul orașului, fiind foarte apreciat de familii.\n\nDupă-amiaza explorați capătul estic al orașului Bol. Multe bărci de excursie oferă tururi scurte care vă pot lăsa direct la Mănăstirea Dominicană.\n\nSeara se încheie în port, nodul central pentru toate catamaranele și ambarcațiunile, unde puteți urmări agitația călătorilor savurând o înghețată.",
+            "en": "Use the water taxis in the morning to arrive at Zlatni Rat in style. The short crossing offers a wonderful perspective of Brač island and the sparkling Adriatic sea.\n\nAt midday, hop on the little tourist train that runs regularly between the beach and the town center, a favorite option for families and tired swimmers.\n\nIn the afternoon, explore the eastern side of Bol. Many excursion boats offer short hops that can drop you off near the Dominican Monastery.\n\nEvening concludes at the harbor, the central hub for all catamarans and boats, where you can enjoy an ice cream while watching travelers come and go."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Bol",
+              "tip_5lang": {
+                "de": "Hier starten die Taxiboote zum Goldenen Horn.",
+                "hu": "Innen indulnak a taxihajók az Aranyszarvhoz.",
+                "ro": "De aici pleacă taxi-urile pe apă spre Cornul de Aur.",
+                "en": "Water taxis to the Golden Horn start from here."
+              }
+            },
+            {
+              "name": "Zlatni Rat",
+              "tip_5lang": {
+                "de": "Die Bootsfahrt bietet den besten Blick auf die Küstenlinie.",
+                "hu": "A hajóút kínálja a legjobb kilátást a partvonalra.",
+                "ro": "Plimbarea cu barca oferă cea mai bună vedere a coastei.",
+                "en": "The boat ride offers the best views of the coastline."
+              }
+            },
+            {
+              "name": "Uferpromenade von Bol",
+              "tip_5lang": {
+                "de": "Nutzen Sie den touristischen Bummelzug für den Rückweg ins Zentrum.",
+                "hu": "Használd a turisztikai kisvonatot a központba való visszatéréshez.",
+                "ro": "Folosiți trenulețul turistic pentru întoarcerea în centru.",
+                "en": "Use the tourist mini-train for the return trip to the center."
+              }
+            },
+            {
+              "name": "Dominikanerkloster",
+              "tip_5lang": {
+                "de": "Vom Zentrum aus in 15 Min. zu Fuß oder per Boot erreichbar.",
+                "hu": "A központból 15 perc sétával vagy hajóval elérhető.",
+                "ro": "Accesibil din centru în 15 minute pe jos sau cu barca.",
+                "en": "Reach it from the center in 15 mins by foot or boat."
+              }
+            },
+            {
+              "name": "Hafen von Bol",
+              "tip_5lang": {
+                "de": "Idealer Ort, um auf die Katamaran-Fähre zu warten.",
+                "hu": "Ideális hely a katamarán kompra való várakozáshoz.",
+                "ro": "Loc ideal pentru a aștepta feribotul catamarán.",
+                "en": "Ideal spot to wait for the catamaran ferry."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Fruit Land",
+                "tip": "Frische Smoothies direkt am Zlatni Rat."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fruit Land",
+                "tip": "Friss smoothie-k közvetlenül az Aranyszarvnál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fruit Land",
+                "tip": "Smoothie-uri proaspete chiar la Zlatni Rat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fruit Land",
+                "tip": "Fresh smoothies right on the Zlatni Rat beach."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Bord des Taxibootes",
+                "tip": "Genießen Sie die Ruhe auf dem Wasser.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "A taxihajó fedélzete",
+                "tip": "Élvezd a csendet a vízen.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "La bordul taxiului pe apă",
+                "tip": "Bucurați-vă de liniște pe apă.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Deck of the Water Taxi",
+                "tip": "Enjoy the serenity while on the water.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Kioske an der Promenade",
+                "tip": "Badebekleidung und Souvenirs bequem erreichbar."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kioszkok a sétányon",
+                "tip": "Fürdőruha és ajándéktárgyak könnyen elérhető helyen."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chioșcurile de pe faleză",
+                "tip": "Costume de baie și suveniruri la îndemână."
+              }
+            ],
+            "en": [
+              {
+                "name": "Promenade Kiosks",
+                "tip": "Swimwear and souvenirs conveniently located along the path."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Taxiboote fahren in der Hochsaison alle 15-30 Minuten.",
+              "Der Touristenzug ist eine gute Option, wenn die Beine müde sind.",
+              "Prüfen Sie die Fahrpläne der Katamarane nach Split oder Hvar frühzeitig.",
+              "Kaufen Sie Tickets für den Zug direkt beim Fahrer.",
+              "Bootstaxis können bei starkem Wind (Bura) eingestellt werden."
+            ],
+            "hu": [
+              "A taxihajók főszezonban 15-30 percenként indulnak.",
+              "A kisvonat remek opció, ha elfáradt a lábad.",
+              "Időben ellenőrizd a Splitbe vagy Hvarra tartó katamaránok menetrendjét.",
+              "A vonatra a jegyet közvetlenül a vezetőnél vedd meg.",
+              "Erős szél (Bura) esetén a hajójáratok szünetelhetnek."
+            ],
+            "ro": [
+              "Taxi-urile pe apă circulă la fiecare 15-30 minute în sezon.",
+              "Trenulețul turistic este o opțiune bună când picioarele sunt obosite.",
+              "Verificați din timp orarul catamaranelor spre Split sau Hvar.",
+              "Cumpărați biletele pentru trenuleț direct de la șofer.",
+              "Taxi-urile pe apă pot fi suspendate în caz de vânt puternic (Bura)."
+            ],
+            "en": [
+              "Water taxis run every 15-30 minutes during high season.",
+              "The tourist train is a great option when your legs are tired.",
+              "Check the catamaran schedules to Split or Hvar early in the day.",
+              "Buy train tickets directly from the driver.",
+              "Water taxis may be suspended during strong winds (Bura)."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag mit dem Transit startet am Hafen, wo wir schnell Schutz unter den Arkaden suchen. Der Bus bringt uns trocken zum Zlatni Rat, wo wir den Blick auf das graue Meer genießen. Zurück an der Promenade spazieren wir unter Pinien zum Dominikanerkloster, das mit seinem Museum ein perfektes Schlechtwetterziel ist. Den Nachmittag verbringen wir im Trockenen am Hafen, bevor wir die Fähre oder den Bus für den Rückweg nehmen.",
+            "hu": "Egy esős nap a kikötőben indul, ahol gyorsan védelmet keresünk az árkádok alatt. A busz szárazon visz el az Arany-szarvhoz, ahol megcsodáljuk a szürke tengert. Visszatérve a korzóra, a fenyők alatt sétálunk a domonkos kolostorig, amely múzeumával tökéletes rosszidős úticél. A délutánt a kikötő fedett részein töltjük, mielőtt felszállnánk a visszautat jelentő kompra vagy buszra.",
+            "ro": "O zi ploioasă cu transportul public începe în port, unde căutăm rapid adăpost sub arcade. Autobuzul ne duce la Zlatni Rat, unde admirăm marea gri de la adăpost. Reveniți pe faleză, mergem sub pini spre mănăstirea dominicană, o destinație perfectă pentru vreme rea datorită muzeului său. După-amiaza o petrecem la uscat în port, înainte de a lua feribotul sau autobuzul înapoi.",
+            "en": "A rainy day with transit starts at the harbor, where we quickly seek shelter under the arches. The bus takes us dryly to Zlatni Rat, where we enjoy views of the gray sea. Back at the promenade, we walk under the pines to the Dominican monastery, a perfect bad-weather destination with its museum. We spend the afternoon sheltered at the harbor before catching the ferry or bus for the return trip."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Bol",
+              "tip_5lang": {
+                "de": "Das Warten auf den Bus ist unter den umliegenden Markisen angenehmer.",
+                "hu": "A buszra való várakozás kellemesebb a környező árnyékolók alatt.",
+                "ro": "Așteptarea autobuzului este mai plăcută sub copertinele din jur.",
+                "en": "Waiting for the bus is more comfortable under the nearby awnings."
+              }
+            },
+            {
+              "name": "Zlatni Rat",
+              "tip_5lang": {
+                "de": "Der Touristenzug bietet im Regen oft Plastikplanen als Seitenschutz.",
+                "hu": "A kisvonat esőben gyakran műanyag ponyvával védi az utasokat.",
+                "ro": "Trenulețul turistic are adesea prelate de plastic pentru protecție.",
+                "en": "The tourist train often has plastic covers to keep passengers dry."
+              }
+            },
+            {
+              "name": "Uferpromenade von Bol",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Weg durch den Pinienwald als Regenschutz.",
+                "hu": "Használja a fenyőerdőn átvezető utat eső elleni védelemként.",
+                "ro": "Folosiți drumul prin pădurea de pini ca protecție contra ploii.",
+                "en": "Use the path through the pine forest as natural rain protection."
+              }
+            },
+            {
+              "name": "Dominikanerkloster",
+              "tip_5lang": {
+                "de": "Im Inneren des Klosters bleiben Sie garantiert trocken.",
+                "hu": "A kolostor belsejében garantáltan szárazon marad.",
+                "ro": "În interiorul mănăstirii veți rămâne garantat uscați.",
+                "en": "Inside the monastery, you are guaranteed to stay dry."
+              }
+            },
+            {
+              "name": "Hafen von Bol",
+              "tip_5lang": {
+                "de": "Die Wartehalle der Fähre bietet Schutz vor Wind und Wetter.",
+                "hu": "A kompkikötő váróterme védelmet nyújt a szél és az eső elől.",
+                "ro": "Sala de așteptare a feribotului oferă protecție contra vântului.",
+                "en": "The ferry terminal waiting room provides shelter from wind and rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan, da bei starkem Wind Schiffe ausfallen können.",
+              "Der Touristenzug (Bimmelbahn) fährt auch bei Regen, ist aber zugig.",
+              "Kaufen Sie Tickets online oder unter Dach, um langes Stehen im Regen zu vermeiden.",
+              "Nehmen Sie einen stabilen Schirm mit, da der Wind am Meer oft stark ist."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet, mert erős szélben a hajók elmaradhatnak.",
+              "A kisvonat esőben is jár, de meglehetősen huzatos lehet.",
+              "Vegye meg a jegyeket online, hogy elkerülje az esőben való sorban állást.",
+              "Vigyen magával erős esernyőt, mert a tengerparti szél gyakran heves."
+            ],
+            "ro": [
+              "Verificați programul, deoarece navele pot fi anulate la vânt puternic.",
+              "Trenulețul turistic circulă și pe ploaie, dar poate fi curent.",
+              "Cumpărați biletele online pentru a evita statul la coadă în ploaie.",
+              "Luați o umbrelă rezistentă, deoarece vântul de pe coastă este puternic."
+            ],
+            "en": [
+              "Check the schedule as ships may be cancelled during strong winds.",
+              "The tourist train still runs in the rain but can be quite breezy.",
+              "Buy tickets online or under cover to avoid standing in the rain.",
+              "Bring a sturdy umbrella as coastal winds can be quite strong."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein ruhiger Wintertag beginnt am Hafen, wo wir die klare Morgenluft einatmen. Mit dem Bus geht es zum Zlatni Rat, der im Winter fast menschenleer ist. Die Promenade lädt zu einem erfrischenden Spaziergang ein, bevor wir im Dominikanerkloster die Geschichte der Insel erkunden. Der Nachmittag am Hafen ist geprägt von der frühen Dämmerung und der friedlichen Atmosphäre der Nebensaison. Wir genießen die Wärme im Transitfahrzeug auf der Rückfahrt.",
+            "hu": "Egy nyugodt téli nap a kikötőben indul, ahol belélegezzük a friss reggeli levegőt. Busszal megyünk az Arany-szarvhoz, amely télen szinte teljesen néptelen. A korzó frissítő sétára hív, mielőtt a domonkos kolostorban felfedeznénk a sziget történelmét. A délutánt a kikötőben a korai szürkület és a szezonon kívüli béke határozza meg. Élvezzük a busz melegét a hazaúton.",
+            "ro": "O zi liniștită de iarnă începe în port, unde respirăm aerul curat al dimineții. Cu autobuzul mergem la Zlatni Rat, care iarna este aproape pustiu. Faleza ne invită la o plimbare revigorantă înainte de a explora istoria insulei la mănăstirea dominicană. După-amiaza în port este marcată de amurgul timpuriu și atmosfera pașnică. Ne bucurăm de căldura din mijlocul de transport la întoarcere.",
+            "en": "A peaceful winter day starts at the harbor, inhaling the crisp morning air. We take the bus to Zlatni Rat, which is almost deserted in winter. The promenade invites a refreshing stroll before we explore the island's history at the Dominican monastery. Afternoon at the harbor is defined by early twilight and the peaceful off-season atmosphere. We enjoy the warmth of the transit vehicle on the way back."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Bol",
+              "tip_5lang": {
+                "de": "Im Winter verkehren Busse seltener; prüfen Sie den aktuellen Fahrplan.",
+                "hu": "Télen a buszok ritkábban járnak; ellenőrizze az aktuális menetrendet.",
+                "ro": "Iarna autobuzele circulă mai rar; verificați programul actual.",
+                "en": "Buses run less frequently in winter; check the current schedule."
+              }
+            },
+            {
+              "name": "Zlatni Rat",
+              "tip_5lang": {
+                "de": "Der Touristenzug macht im Winter meistens Pause. Nutzen Sie den Bus.",
+                "hu": "A kisvonat télen általában szünetel. Használja a rendes buszjáratot.",
+                "ro": "Trenulețul turistic este adesea oprit iarna. Folosiți autobuzul.",
+                "en": "The tourist train usually doesn't run in winter. Use the local bus."
+              }
+            },
+            {
+              "name": "Uferpromenade von Bol",
+              "tip_5lang": {
+                "de": "Genießen Sie die Sonne, solange sie mittags noch wärmt.",
+                "hu": "Élvezze a napsütést, amíg délben még melegít.",
+                "ro": "Bucurați-vă de soare cât timp încă mai încălzește la amiază.",
+                "en": "Enjoy the sunshine while it's still warm around midday."
+              }
+            },
+            {
+              "name": "Dominikanerkloster",
+              "tip_5lang": {
+                "de": "Das Museum ist ein warmer Ort, um die Zeit bis zum nächsten Bus zu füllen.",
+                "hu": "A múzeum meleg hely, ahol eltöltheti az időt a következő buszig.",
+                "ro": "Muzeul este un loc călduros unde puteți aștepta următorul autobuz.",
+                "en": "The museum is a warm place to spend time until the next bus."
+              }
+            },
+            {
+              "name": "Hafen von Bol",
+              "tip_5lang": {
+                "de": "Die Cafés nahe der Haltestelle bieten heiße Getränke zum Aufwärmen.",
+                "hu": "A megálló közeli kávézók forró italokat kínálnak a felmelegedéshez.",
+                "ro": "Cafenelele de lângă stație oferă băuturi calde pentru încălzire.",
+                "en": "Cafes near the stop offer hot drinks to help you warm up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne für Schiffe ändern sich im Winter oft kurzfristig wetterbedingt.",
+              "Die Katamaran-Verbindungen sind im Winter deutlich reduziert.",
+              "Warten Sie im Inneren von Cafés, wenn der Bura-Wind stark weht.",
+              "Die letzte Busverbindung des Tages ist oft schon am späten Nachmittag."
+            ],
+            "hu": [
+              "A hajók menetrendje télen az időjárás miatt gyakran változik.",
+              "A katamarán járatok száma télen jelentősen csökken.",
+              "Várjon a kávézók belsejében, ha erős bóra szél fúj.",
+              "A nap utolsó buszjárata gyakran már késő délután elindul."
+            ],
+            "ro": [
+              "Orarele navelor se schimbă adesea iarna din cauza vremii.",
+              "Conexiunile cu catamaranul sunt semnificativ reduse iarna.",
+              "Așteptați în interiorul cafenelelor dacă vântul Bura suflă puternic.",
+              "Ultima cursă de autobuz a zilei este adesea spre sfârșitul după-amiezii."
+            ],
+            "en": [
+              "Ship schedules often change on short notice in winter due to weather.",
+              "Catamaran connections are significantly reduced during the winter season.",
+              "Wait inside cafes if the Bura wind is blowing strongly.",
+              "The last bus connection of the day is often in the late afternoon."
+            ]
+          }
+        }
       }
     }
   },

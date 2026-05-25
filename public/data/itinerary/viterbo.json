@@ -254,6 +254,384 @@
           "Museums are often closed on Mondays.",
           "Try the local Est! Est!! Est!!! white wine."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag an der beeindruckenden Fontana Grande, dem Wahrzeichen der Stadt. Schlendern Sie zum politischen Herzen am Piazza del Plebiscito, wo die Löwen von Viterbo die Paläste bewachen.\nMittags tauchen Sie in das magische Viertel San Pellegrino ein, das am besten erhaltene mittelalterliche Viertel Italiens. Genießen Sie die authentische Atmosphäre zwischen Steinbögen und Außentreppen.\nAm Nachmittag erkunden Sie den monumentalen Papstpalast, in dem einst das erste Konklave stattfand. Die angrenzende Kathedrale beeindruckt mit ihrer romanischen Schlichtheit.\nZum Abschluss besuchen Sie das Etruskermuseum in der Festung Rocca Albornoz, um die tiefen Wurzeln dieser antiken Zivilisation in Latium zu verstehen.",
+            "hu": "Kezdd a napot a Fontana Grande monumentális kútjánál, amely a város egyik legrégebbi szimbóluma. Sétálj el a Piazza del Plebiscito-ra, ahol a városháza udvarán Viterbo kőoroszlánjai fogadnak.\nDélidőben merülj el San Pellegrino negyedének varázsában, amely Olaszország egyik legépebben maradt középkori városrésze. A kőívek és külső lépcsősorok között megállt az idő.\nDélután látogass el a Pápai Palotába, az első konklávé helyszínére, majd csodáld meg a San Lorenzo székesegyház román stílusú eleganciáját.\nA nap végén az Albornoz-erődben található Etruszk Múzeum gazdag leletanyaga kalauzol el a térség ókori történelmébe.",
+            "ro": "Începeți ziua la monumentala Fontana Grande, unul dintre cele mai vechi simboluri ale orașului. Mergeți spre Piazza del Plebiscito, unde leii de piatră ai Viterbo păzesc palatele administrative.\nLa prânz, scufundați-vă în magia cartierului San Pellegrino, unul dintre cele mai bine conservate nuclee medievale din Italia. Atmosfera autentică se simte la fiecare pas printre arcadele de piatră.\nDupă-amiaza, explorați Palatul Papal, locul unde a avut loc primul conclav, și admirați simplitatea romanică a Catedralei San Lorenzo.\nÎncheiați ziua la Muzeul Național Etrusc din incinta fortăreței Rocca Albornoz pentru a înțelege rădăcinile antice ale acestei regiuni.",
+            "en": "Start your day at the monumental Fontana Grande, one of the city's oldest symbols. Stroll to Piazza del Plebiscito, where the stone lions of Viterbo guard the administrative palaces.\nAt midday, immerse yourself in the magic of the San Pellegrino district, one of Italy's best-preserved medieval quarters. The authentic atmosphere is palpable among the stone arches and external staircases.\nIn the afternoon, explore the Papal Palace, the site of the first conclave, and admire the Romanesque elegance of the San Lorenzo Cathedral.\nEnd your day at the National Etruscan Museum inside the Albornoz Fortress to understand the deep ancient roots of this region in Lazio."
+          },
+          "stops": [
+            {
+              "name": "Fontana Grande",
+              "tip_5lang": {
+                "de": "Bewundern Sie die gotischen Details des ältesten Brunnens.",
+                "hu": "Csodáld meg a város legrégebbi gótikus szökőkútját.",
+                "ro": "Admirați detaliile gotice ale celei mai vechi fântâni.",
+                "en": "Admire the Gothic details of the city's oldest fountain."
+              }
+            },
+            {
+              "name": "Piazza del Plebiscito",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Innenhöfe der Paläste am Platz.",
+                "hu": "Nézz be a téren álló paloták belső udvaraiba.",
+                "ro": "Vizitați curțile interioare ale palatelor din piață.",
+                "en": "Check out the inner courtyards of the palaces on the square."
+              }
+            },
+            {
+              "name": "Quartiere San Pellegrino",
+              "tip_5lang": {
+                "de": "Verlieren Sie sich in den mittelalterlichen Gassen.",
+                "hu": "Vessz el a tökéletesen megőrzött középkori utcácskákban.",
+                "ro": "Pierdeți-vă pe străduțele medievale perfect conservate.",
+                "en": "Get lost in the perfectly preserved medieval alleys."
+              }
+            },
+            {
+              "name": "Palazzo dei Papi",
+              "tip_5lang": {
+                "de": "Die Loggia ist der perfekte Ort für Fotos.",
+                "hu": "A pápai palota loggiája a legjobb fotóhelyszín.",
+                "ro": "Loggia este locul perfect pentru fotografii.",
+                "en": "The Loggia is the perfect spot for photos."
+              }
+            },
+            {
+              "name": "Cattedrale di San Lorenzo",
+              "tip_5lang": {
+                "de": "Achten Sie auf den markanten schwarz-weißen Glockenturm.",
+                "hu": "Figyeld meg a jellegzetes fekete-fehér harangtornyot.",
+                "ro": "Observați clopotnița distinctivă în alb și negru.",
+                "en": "Notice the distinctive black and white bell tower."
+              }
+            },
+            {
+              "name": "Museo Nazionale Etrusco",
+              "tip_5lang": {
+                "de": "Entdecken Sie die faszinierende etruskische Geschichte der Region.",
+                "hu": "Fedezd fel a régió lenyűgöző etruszk emlékeit.",
+                "ro": "Descoperiți istoria fascinantă a etruscilor din regiune.",
+                "en": "Discover the fascinating Etruscan history of the region."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Lombrichelli alla Viterbese",
+                "tip": "Frische Pasta mit Tomaten und Pecorino im Ristorante Tre Re."
+              },
+              {
+                "name": "Acquacotta",
+                "tip": "Traditionelle Gemüsesuppe bei Il Labirinto."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lombrichelli alla Viterbese",
+                "tip": "Helyi vastag tészta paradicsommal és pecorinóval a Tre Re étteremben."
+              },
+              {
+                "name": "Acquacotta",
+                "tip": "Hagyományos zöldségleves buggyantott tojással az Il Labirinto-ban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lombrichelli alla Viterbese",
+                "tip": "Paste proaspete cu roșii și brânză pecorino la Ristorante Tre Re."
+              },
+              {
+                "name": "Acquacotta",
+                "tip": "Supă tradițională de legume la Il Labirinto."
+              }
+            ],
+            "en": [
+              {
+                "name": "Lombrichelli alla Viterbese",
+                "tip": "Local thick pasta with tomato and pecorino at Ristorante Tre Re."
+              },
+              {
+                "name": "Acquacotta",
+                "tip": "Traditional vegetable soup with poached egg at Il Labirinto."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parco del Colle del Duomo",
+                "tip": "Ruhiger Blick auf die mittelalterlichen Dächer.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parco del Colle del Duomo",
+                "tip": "Csendes pihenőhely kilátással a középkori tetőkre.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parco del Colle del Duomo",
+                "tip": "Vedere liniștită asupra acoperișurilor medievale.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parco del Colle del Duomo",
+                "tip": "Quiet view over the medieval rooftops.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Keramik aus Viterbo",
+                "tip": "Handgefertigte Stücke in den Werkstätten von San Pellegrino."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Viterbói kerámia",
+                "tip": "Kézzel készített tárgyak San Pellegrino műhelyeiben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ceramică de Viterbo",
+                "tip": "Obiecte lucrate manual în atelierele din San Pellegrino."
+              }
+            ],
+            "en": [
+              {
+                "name": "Viterbo Ceramics",
+                "tip": "Handcrafted pieces in the workshops of San Pellegrino."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in San Pellegrino.",
+              "Besuchen Sie die Terme dei Papi außerhalb der Stadt für Entspannung.",
+              "Die Museen sind montags oft geschlossen.",
+              "Probieren Sie den lokalen Est! Est!! Est!!! Weißwein."
+            ],
+            "hu": [
+              "Viselj kényelmes cipőt San Pellegrino macskaköves utcáihoz.",
+              "Látogass el a városon kívüli Terme dei Papi termálfürdőbe pihenni.",
+              "A múzeumok hétfőnként általában zárva tartanak.",
+              "Kóstold meg a közeli Montefiascone híres Est! Est!! Est!!! borát."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru străzile cu piatră cubică din San Pellegrino.",
+              "Vizitați Terme dei Papi în afara orașului pentru relaxare.",
+              "Muzeele sunt adesea închise lunea.",
+              "Gustați vinul local alb Est! Est!! Est!!!"
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestones in San Pellegrino.",
+              "Visit the Terme dei Papi outside the city for relaxation.",
+              "Museums are often closed on Mondays.",
+              "Try the local Est! Est!! Est!!! white wine."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Viterbo im Regen wirkt wie eine Filmkulisse aus dem Mittelalter. Der dunkle Peperino-Stein der Fontana Grande glänzt im nassen Grau. Mittags bieten die Arkaden am Piazza del Plebiscito Schutz vor dem Schauer. Nachmittags erkunden Sie die prächtigen Innenräume des Papstpalastes, während es draußen stürmt. Der Tag endet im etruskischen Museum, wo Sie trocken in die antike Geschichte eintauchen.",
+            "hu": "Viterbo esőben igazi középkori hangulatot áraszt, a vizes peperino kövek sötét csillogása különleges mélységet ad a tereknek. Délelőtt a Fontana Grande környékén érdemes ernyővel sétálni, délben pedig a Piazza del Plebiscito árkádjai alatt találni menedéket. A délutáni órákban a Pápai Palota és a Katedrális belső terei nyújtanak száraz programot, az estét pedig a múzeum falai között tölthetjük.",
+            "ro": "Viterbo pe ploaie are un farmec medieval aparte, piatra de peperino devenind aproape neagră sub stropii de apă. Dimineața începe la Fontana Grande, unde reflexiile în bălți oferă poze superbe. La prânz, arcadele din Piazza del Plebiscito sunt refugiul perfect. După-amiaza este dedicată interiorului Palatului Papal, ferit de intemperii, iar seara se încheie cultural în Muzeul Etrusc, la adăpost.",
+            "en": "Viterbo in the rain feels like a medieval film set, as the wet peperino stone of Fontana Grande takes on a deep, dark glow. By noon, the porticos of Piazza del Plebiscito provide a dry sanctuary. Spend the rainy afternoon exploring the grand halls of the Palazzo dei Papi and the Cathedral. Your day concludes inside the Etruscan Museum, safely sheltered from the weather while exploring ancient history."
+          },
+          "stops": [
+            {
+              "name": "Fontana Grande",
+              "tip_5lang": {
+                "de": "Vorsicht, das Pflaster um den Brunnen kann bei Nässe sehr rutschig sein.",
+                "hu": "A szökőkút körüli macskakő esőben csúszós, óvatosan lépkedjünk a fotózáskor.",
+                "ro": "Pavajul din jurul fântânii devine alunecos când plouă; atenție sporită la pași.",
+                "en": "The cobblestones around the fountain are slippery when wet; watch your step."
+              }
+            },
+            {
+              "name": "Piazza del Plebiscito",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Cafés am Platz, um den Regenschauer trocken abzuwarten.",
+                "hu": "A tér menti kávézók árkádjai kiváló menedéket nyújtanak egy hirtelen zápor elől.",
+                "ro": "Folosiți arcadele cafenelelor din piață pentru a aștepta trecerea ploii la uscat.",
+                "en": "The cafe porticos around the square are perfect for staying dry during a downpour."
+              }
+            },
+            {
+              "name": "Quartiere San Pellegrino",
+              "tip_5lang": {
+                "de": "Die engen Gassen bieten teils Schutz, aber halten Sie Ausschau nach Wasserspeiern.",
+                "hu": "A szűk utcák némi védelmet adnak, de figyeljünk a tetőkről lezúduló vízre.",
+                "ro": "Străzile înguste oferă protecție parțială, dar atenție la apa ce cade de pe jgheaburi.",
+                "en": "Narrow alleys offer some shelter, but watch out for water runoff from the ancient roofs."
+              }
+            },
+            {
+              "name": "Palazzo dei Papi",
+              "tip_5lang": {
+                "de": "Der perfekte Ort für Regentage: Die Loggia ist überdacht und die Säle sind trocken.",
+                "hu": "Ideális esős helyszín: a loggia fedett, a belső termek pedig lenyűgözőek és szárazak.",
+                "ro": "Locația perfectă pentru ploaie: loggia este acoperită, iar sălile interioare sunt uscate.",
+                "en": "A perfect rainy-day spot: the famous loggia is covered and the indoor halls are dry."
+              }
+            },
+            {
+              "name": "Cattedrale di San Lorenzo",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kosmaten-Böden im Inneren, während es draußen ungemütlich ist.",
+                "hu": "Csodálja meg a belső kozmata-padlót, miközben kint zord az időjárás.",
+                "ro": "Admirați mozaicurile interioare tip cosmatesc în timp ce afară plouă torențial.",
+                "en": "Admire the intricate Cosmatesque floors inside while staying sheltered from the storm."
+              }
+            },
+            {
+              "name": "Museo Nazionale Etrusco",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, um das Ende des Regens im Warmen abzuwarten.",
+                "hu": "Szánjon több időt a tárlatra, így megvárhatja a csapadék elállását a falak között.",
+                "ro": "Alocați mai mult timp vizitei pentru a aștepta oprirea ploii într-un mediu cald.",
+                "en": "Allocate extra time here to wait out the rain while exploring the extensive exhibits."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Viterbos grauer Stein wirkt bei Regen dunkler und atmosphärischer.",
+              "Tragen Sie knöchelhohe, wasserfeste Schuhe für das unebene Pflaster.",
+              "Die Arkaden am Hauptplatz sind der beste Treffpunkt bei Schauern.",
+              "Kirchen und Museen sind die idealen 'Safe Spots' der Altstadt.",
+              "Ein stabiler Regenschirm ist wegen der Windböen in den Gassen ratsam."
+            ],
+            "hu": [
+              "Viterbo szürke kövei esőben sötétebbé és misztikusabbá válnak.",
+              "Viseljen vízálló, bokát tartó cipőt a csúszós macskaköveken.",
+              "A főtér árkádjai a legjobb találkozási pontok szakadó esőben.",
+              "A templomok és múzeumok tökéletes menedékek a városnézés közben.",
+              "Erős vázú esernyő ajánlott a szűk utcákban felerősödő szél miatt."
+            ],
+            "ro": [
+              "Piatra cenușie din Viterbo devine mai închisă și mistică pe ploaie.",
+              "Purtați încălțăminte impermeabilă cu talpă aderentă pentru pavajul ud.",
+              "Arcadele din piața principală sunt cel mai bun punct de întâlnire pe ploaie.",
+              "Bisericile și muzeele sunt refugii ideale în centrul istoric.",
+              "O umbrelă rezistentă este necesară din cauza rafalelor de vânt dintre clădiri."
+            ],
+            "en": [
+              "Viterbo's gray peperino stone turns dark and atmospheric when wet.",
+              "Wear waterproof shoes with good grip for the uneven, slippery cobblestones.",
+              "The porticos at the main square are the best meeting points during showers.",
+              "Churches and museums serve as ideal 'safe spots' throughout the old town.",
+              "A sturdy umbrella is recommended as wind can tunnel through the narrow alleys."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen in Viterbo beginnt oft mit mystischem Nebel über der Fontana Grande. Die kalte Luft beißt, wenn man durch das mittelalterliche San Pellegrino spaziert. Mittags wärmt man sich bei einer heißen Suppe nahe dem Papstpalast auf. Da die Sonne bereits gegen 16:30 Uhr sinkt, taucht die Dämmerung die Stadt in ein warmes, künstliches Licht, perfekt für den Abschluss im Museum.",
+            "hu": "A téli reggelek Viterboban gyakran ködösek, ami különleges keretet ad a Fontana Grandénak. A San Pellegrino negyed középkori kövei között ilyenkor harapni lehet a hideg levegőt. Délben érdemes egy forró levest enni a Pápai Palota közelében. Mivel 16:30 után már sötétedik, a város esti fényei korán felgyúlnak, hangulatossá téve az utolsó múzeumi látogatást.",
+            "ro": "Diminețile de iarnă în Viterbo sunt adesea învăluite în ceață, oferind un aspect spectral fântânii Fontana Grande. Aerul rece pătrunde printre clădirile medievale din San Pellegrino. La prânz, o supă caldă lângă Palatul Papal este esențială pentru încălzire. Apusul timpuriu, în jur de ora 16:30, transformă orașul într-un spectacol de lumini calde înainte de vizita la muzeu.",
+            "en": "Winter mornings in Viterbo often start with a mystical mist over the Fontana Grande. The crisp, cold air bites as you wander through the medieval San Pellegrino district. By noon, warm up with a hearty local soup near the Papal Palace. With the sun setting around 4:30 PM, the twilight glow creates a cozy atmosphere for your late afternoon museum visit."
+          },
+          "stops": [
+            {
+              "name": "Fontana Grande",
+              "tip_5lang": {
+                "de": "Morgens kann sich Reif auf dem Stein bilden, gehen Sie besonders vorsichtig.",
+                "hu": "Reggelente dér lepheti be a köveket, ami miatt csúszóssá válik a kút környéke.",
+                "ro": "Dimineața se poate forma polei pe piatră; mergeți cu mare atenție.",
+                "en": "Frost may form on the stone in the early morning; walk with extra care."
+              }
+            },
+            {
+              "name": "Piazza del Plebiscito",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Espresso in einer der historischen Bars am Platz.",
+                "hu": "Igyon egy forró espressót a tér egyik történelmi bárjában a felmelegedéshez.",
+                "ro": "Savurați un espresso fierbinte într-unul dintre barurile istorice din piață.",
+                "en": "Warm up with a hot espresso in one of the historic bars lining the square."
+              }
+            },
+            {
+              "name": "Quartiere San Pellegrino",
+              "tip_5lang": {
+                "de": "Die Steinmauern strahlen Kälte ab; kleiden Sie sich nach dem Zwiebelprinzip.",
+                "hu": "A kőfalak ontják magukból a hideget, öltözzön rétegesen a sétához.",
+                "ro": "Zidurile de piatră emană frig; îmbrăcați-vă în straturi pentru această plimbare.",
+                "en": "The thick stone walls radiate cold; dress in layers for this outdoor section."
+              }
+            },
+            {
+              "name": "Palazzo dei Papi",
+              "tip_5lang": {
+                "de": "In den hohen Sälen kann es zugig sein; behalten Sie Ihren Mantel lieber an.",
+                "hu": "A hatalmas termekben huzat lehet, érdemes magunkon hagyni a kabátot.",
+                "ro": "Sălile înalte pot fi curentate; este mai bine să păstrați haina pe dvs.",
+                "en": "The high-ceilinged halls can be drafty; it's best to keep your coat on inside."
+              }
+            },
+            {
+              "name": "Cattedrale di San Lorenzo",
+              "tip_5lang": {
+                "de": "Die Kirche bietet Schutz vor dem kalten Wind, der oft über den Hügel fegt.",
+                "hu": "A templom jó menedék a dombtetőn gyakran süvítő hideg szél elől.",
+                "ro": "Catedrala oferă un bun adăpost împotriva vântului rece de pe deal.",
+                "en": "The cathedral provides a quiet refuge from the cold winds sweeping the hill."
+              }
+            },
+            {
+              "name": "Museo Nazionale Etrusco",
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Räume, um sich nach dem Stadtgang aufzuwärmen.",
+                "hu": "Használja ki a fűtött termeket, hogy átmelegedjen a városi séta után.",
+                "ro": "Profități de spațiile încălzite pentru a vă încălzi după plimbarea prin oraș.",
+                "en": "Take advantage of the heated galleries to warm up after your outdoor walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Wintersonne geht in Viterbo bereits gegen 16:30 Uhr unter.",
+              "Warme Handschuhe sind für das Fotografieren der Steinfassaden wichtig.",
+              "Probieren Sie lokale Kastaniengerichte, die typisch für den Winter sind.",
+              "Meiden Sie windige Gassen im San Pellegrino Viertel bei Sonnenuntergang.",
+              "Thermalschuhe helfen gegen die vom Boden aufsteigende Kälte der Steine."
+            ],
+            "hu": [
+              "Télen a nap már 16:30 körül nyugovóra tér Viterboban.",
+              "A fotózáshoz vigyen meleg kesztyűt, mert a hideg kőfalak hűtik a levegőt.",
+              "Kóstolja meg a helyi gesztenyés ételeket, amelyek télen a legjobbak.",
+              "Naplemente után kerülje a San Pellegrino negyed szelesebb sikátorait.",
+              "A vastag talpú cipő elengedhetetlen a hideg kövekről felfelé áramló fagy ellen."
+            ],
+            "ro": [
+              "Soarele apune în Viterbo în jur de ora 16:30 în timpul iernii.",
+              "Mănușile groase sunt esențiale pentru a fotografia fațadele reci de piatră.",
+              "Gustați preparatele locale cu castane, specifice sezonului rece.",
+              "Evitați străzile expuse vântului din San Pellegrino după apus.",
+              "Încălțămintea cu talpă groasă vă protejează de frigul ce urcă din pavaj."
+            ],
+            "en": [
+              "The winter sun sets early in Viterbo, usually around 4:30 PM.",
+              "Warm gloves are essential if you plan on taking many photos of the facades.",
+              "Try local chestnut-based dishes, a seasonal specialty in the Tuscia region.",
+              "Avoid wind-tunnel alleys in San Pellegrino once the sun goes down.",
+              "Thick-soled shoes are best to block the cold rising from the stone pavement."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -468,6 +846,341 @@
           "The drive to Bagnaia takes only 15 minutes.",
           "Book in advance for the thermal baths."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Santuario di Santa Rosa, gewidmet der Schutzpatronin von Viterbo. Nach einem kurzen Stopp im mittelalterlichen San Pellegrino fahren Sie zum Papstpalast.\nAm Nachmittag verlassen Sie das Zentrum für einen Besuch der Villa Lante in Bagnaia, berühmt für ihre perfekt symmetrischen Wasserspiele und Gärten.\nZum Abschluss gönnen Sie sich ein Bad in den historischen Terme dei Papi, deren heilendes Wasser schon die Päpste schätzten.",
+            "hu": "Kezdd a napot a Szent Róza szentélynél, amely Viterbo védőszentjének nyughelye. Egy rövid középkori séta után San Pellegrino-ban, látogass el a Pápai Palotához.\nDélután autózz ki a közeli Bagnaia-ba, ahol a Villa Lante tökéletes reneszánsz kertjei és szökőkútjai várnak.\nA napot a híres Pápák Termálfürdőjében (Terme dei Papi) zárhatod, ahol a gyógyvíz évszázadok óta vonzza a látogatókat.",
+            "ro": "Începeți ziua la Sanctuarul Sfânta Rosa, dedicat patroanei orașului. După o scurtă oprire în cartierul medieval San Pellegrino, mergeți spre Palatul Papal.\nDupă-amiaza, părăsiți centrul pentru o vizită la Villa Lante din Bagnaia, faimoasă pentru grădinile sale renascentiste și jocurile de apă simetrice.\nÎncheiați ziua cu o baie relaxantă la Terme dei Papi, ale căror ape termale erau apreciate încă de pe vremea papilor.",
+            "en": "Start your day at the Sanctuary of Santa Rosa, dedicated to Viterbo's patron saint. After a short stroll in the medieval San Pellegrino, drive to the Papal Palace.\nIn the afternoon, head outside the center to visit Villa Lante in Bagnaia, famous for its perfectly symmetrical Renaissance gardens and water features.\nEnd your day with a relaxing soak at the Terme dei Papi, whose healing thermal waters have been appreciated since the time of the Popes."
+          },
+          "stops": [
+            {
+              "name": "Santuario di Santa Rosa",
+              "tip_5lang": {
+                "de": "Hier ruht der unverwesliche Körper der Schutzpatronin.",
+                "hu": "Itt őrzik a város védőszentjének épen maradt testét.",
+                "ro": "Aici se odihnește corpul incoruptibil al patroanei orașului.",
+                "en": "Here lies the incorrupt body of the city's patron saint."
+              }
+            },
+            {
+              "name": "Quartiere San Pellegrino",
+              "tip_5lang": {
+                "de": "Parken Sie am Parcheggio Faul.",
+                "hu": "Parkolj a közeli Parcheggio Faul mélygarázsban.",
+                "ro": "Parcați la Parcheggio Faul din apropiere.",
+                "en": "Park at the nearby Parcheggio Faul."
+              }
+            },
+            {
+              "name": "Palazzo dei Papi",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur des Papstpalastes.",
+                "hu": "Csodáld meg a pápai palota egyedi gótikus építészetét.",
+                "ro": "Admirați arhitectura Palatului Papal.",
+                "en": "Admire the architecture of the Papal Palace."
+              }
+            },
+            {
+              "name": "Villa Lante",
+              "tip_5lang": {
+                "de": "Einer der schönsten Renaissance-Gärten Italiens.",
+                "hu": "Olaszország egyik legszebb reneszánsz kertje Bagnaia-ban.",
+                "ro": "Una dintre cele mai frumoase grădini renascentiste din Italia.",
+                "en": "One of the most beautiful Renaissance gardens in Italy."
+              }
+            },
+            {
+              "name": "Terme dei Papi",
+              "tip_5lang": {
+                "de": "Entspannen Sie im monumentalen Thermalbecken.",
+                "hu": "Lazíts a pápák monumentális termálmedencéjében.",
+                "ro": "Relaxați-vă în bazinul termal monumental.",
+                "en": "Relax in the monumental thermal pool."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Coregone",
+                "tip": "Fisch aus dem nahen Bolsenasee im Hosteria del Grillo."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Coregone",
+                "tip": "Friss halétel a közeli Bolsenai-tóból a Hosteria del Grillo-ban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Coregone",
+                "tip": "Pește din lacul Bolsena la Hosteria del Grillo."
+              }
+            ],
+            "en": [
+              {
+                "name": "Coregone",
+                "tip": "Fresh fish from nearby Lake Bolsena at Hosteria del Grillo."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Villa Lante Gärten",
+                "tip": "Friedliche Renaissance-Atmosphäre.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Villa Lante kertjei",
+                "tip": "Békés reneszánsz hangulat a szökőkutak között.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădinile Villa Lante",
+                "tip": "Atmosferă renascentistă liniștită.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Villa Lante Gardens",
+                "tip": "Peaceful Renaissance atmosphere.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Tuscia Olivenöl",
+                "tip": "Kaufen Sie lokales Olivenöl in Bagnaia."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tuscia olívaolaj",
+                "tip": "Vásárolj helyi extra szűz olívaolajat Bagnaia-ban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline Tuscia",
+                "tip": "Cumpărați ulei de măsline local din Bagnaia."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tuscia Olive Oil",
+                "tip": "Buy local extra virgin olive oil in Bagnaia."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken Sie außerhalb der ZTL (verkehrsberuhigte Zone).",
+              "Für Villa Lante ist eine separate Eintrittskarte erforderlich.",
+              "Die Fahrt nach Bagnaia dauert nur 15 Minuten.",
+              "Reservieren Sie für die Thermen im Voraus."
+            ],
+            "hu": [
+              "Parkolj a ZTL (forgalomcsökkentett övezet) határain kívül.",
+              "A Villa Lante kertjébe külön belépőjegy szükséges.",
+              "Az út Bagnaia-ba mindössze 15 perc autóval.",
+              "Hétvégén érdemes előre foglalni a termálfürdőbe."
+            ],
+            "ro": [
+              "Parcați în afara zonei ZTL (zonă cu trafic limitat).",
+              "Pentru Villa Lante este necesar un bilet de intrare separat.",
+              "Drumul spre Bagnaia durează doar 15 minute.",
+              "Rezervați din timp pentru centrul termal."
+            ],
+            "en": [
+              "Park outside the ZTL (limited traffic zone).",
+              "A separate ticket is required for Villa Lante.",
+              "The drive to Bagnaia takes only 15 minutes.",
+              "Book in advance for the thermal baths."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Fahrt durch Viterbo im Regen bietet Komfort und Schutz. Der Tag beginnt am Santuario di Santa Rosa, wo man fast bis vor die Tür fahren kann. Mittags erkunden Sie San Pellegrino mit dem Schirm in der Hand. Nachmittags ist die Villa Lante im Regen besonders mystisch, da die Brunnen mit dem Regenwasser verschmelzen. Den Abend lassen Sie entspannt im heißen Wasser der Terme dei Papi ausklingen.",
+            "hu": "Viterbo felfedezése autóval esőben kényelmet és védelmet nyújt. A nap a Santa Rosa szentélynél kezdődik, ahol szinte az ajtóig hajthatunk. Délben ernyővel a kézben járjuk be San Pellegrino negyedét. Délután a Villa Lante kertje különleges arcát mutatja, ahogy a vízi játékok keverednek az esővel. Az estet a Terme dei Papi forró vizében pihenve zárhatjuk.",
+            "ro": "O călătorie auto prin Viterbo pe ploaie oferă confort și protecție. Ziua începe la Sanctuarul Santa Rosa, unde puteți parca aproape de intrare. La prânz explorăm San Pellegrino cu umbrela în mână. După-amiaza, Villa Lante devine mistică, fântânile amestecându-se cu ploaia. Seara se încheie relaxant în apele termale calde de la Terme dei Papi.",
+            "en": "Driving through Viterbo in the rain ensures a comfortable and dry journey. Start at the Sanctuary of Santa Rosa, with parking conveniently close. By noon, explore San Pellegrino with an umbrella ready. In the afternoon, the gardens of Villa Lante take on a mystical quality as the fountains blend with the rainfall. Finish your day soaking in the warm outdoor pools of Terme dei Papi."
+          },
+          "stops": [
+            {
+              "name": "Santuario di Santa Rosa",
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahegelegenen Parkplatz, um den Weg im Regen kurzzuhalten.",
+                "hu": "Használja a közeli parkolót, hogy minél kevesebbet kelljen áznia a bejáratig.",
+                "ro": "Folosiți parcarea din apropiere pentru a scurta drumul prin ploaie.",
+                "en": "Use the parking lot closest to the sanctuary to minimize time spent in the rain."
+              }
+            },
+            {
+              "name": "Quartiere San Pellegrino",
+              "tip_5lang": {
+                "de": "Parken Sie außerhalb der ZTL und nutzen Sie einen stabilen Schirm für den Spaziergang.",
+                "hu": "Parkoljon a ZTL zónán kívül, és vigyen szélálló esernyőt a sétához.",
+                "ro": "Parcați în afara zonei ZTL și folosiți o umbrelă rezistentă pentru plimbare.",
+                "en": "Park just outside the ZTL zone and use a sturdy umbrella for your walking loop."
+              }
+            },
+            {
+              "name": "Palazzo dei Papi",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Sicht beim Einparken in den engen Parkbuchten bei Regen.",
+                "hu": "Vigyázzon a látási viszonyokra a szűk parkolóhelyeken az esőben.",
+                "ro": "Atenție la vizibilitate când parcați în locurile strâmte pe timp de ploaie.",
+                "en": "Visibility may be reduced; take extra care when parking in tight historic spots."
+              }
+            },
+            {
+              "name": "Villa Lante",
+              "tip_5lang": {
+                "de": "Die Gartenwege können matschig sein; bleiben Sie auf den befestigten Pfaden.",
+                "hu": "A kerti utak sárosak lehetnek, maradjon a kövezett ösvényeken.",
+                "ro": "Potecile din grădină pot fi noroioase; rămâneți pe traseele pavate.",
+                "en": "Garden paths can get muddy; stick to the paved walkways where possible."
+              }
+            },
+            {
+              "name": "Terme dei Papi",
+              "tip_5lang": {
+                "de": "Das Baden im heißen Außenbecken bei Regen ist ein besonderes Erlebnis.",
+                "hu": "A forró vizű kültéri medencében fürdeni esőben felejthetetlen élmény.",
+                "ro": "Baia în piscina exterioară cu apă termală pe ploaie este o experiență unică.",
+                "en": "Bathing in the hot outdoor thermal pool during rain is a magical experience."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die ZTL-Zonen sind bei Regen oft strenger überwacht; achten Sie auf Schilder.",
+              "Vermeiden Sie das Parken unter Bäumen wegen herabfallender Äste bei Sturm.",
+              "Halten Sie ein Handtuch im Auto bereit, falls Sie beim Aussteigen nass werden.",
+              "Die Straße zur Villa Lante kann bei Starkregen Aquaplaning-Gefahr bieten.",
+              "In der Therme gibt es überdachte Gänge zwischen den Umkleiden und Becken."
+            ],
+            "hu": [
+              "A ZTL zónák tábláira esőben is figyeljen, a kamerák mindig működnek.",
+              "Ne parkoljon fák alá, ha az eső mellé erős szél is társul.",
+              "Legyen a kocsiban törölköző, ha megázna a nevezetességek között.",
+              "A Villa Lante felé vezető úton nagy esőben vízátfolyások lehetnek.",
+              "A termálfürdőben fedett folyosók segítik a közlekedést a medencék felé."
+            ],
+            "ro": [
+              "Atenție la indicatoarele ZTL; camerele funcționează permanent, chiar și pe ploaie.",
+              "Evitați parcarea sub arbori dacă ploaia este însoțită de vânt puternic.",
+              "Păstrați un prosop în mașină pentru cazul în care vă udă ploaia la vizite.",
+              "Drumul spre Villa Lante poate prezenta risc de acvaplanare la ploi torențiale.",
+              "La terme există pasaje acoperite între vestiare și bazine."
+            ],
+            "en": [
+              "ZTL zones are strictly monitored; watch for signs even during heavy rain.",
+              "Avoid parking under large trees if the rain is accompanied by strong winds.",
+              "Keep a spare towel in the car in case you get soaked between stops.",
+              "The road to Villa Lante can have standing water; watch for aquaplaning risks.",
+              "The thermal baths offer some covered walkways between changing areas and pools."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Viterbo im Winter mit dem Auto zu erkunden, verspricht wohlige Wärme zwischen den Stationen. Morgens bewundern Sie Santa Rosa, während die Stadt langsam erwacht. Nach einem kurzen Gang durch das kalte San Pellegrino kehren Sie in das geheizte Auto zurück. Die Villa Lante wirkt im Winterlicht fast wie erstarrt. Das absolute Highlight ist der Abend in den dampfenden Wassern der Terme dei Papi.",
+            "hu": "Viterbo téli bejárása autóval garantálja a meleget a látnivalók között. Reggel a Santa Rosa szentélynél kezdünk, miközben a város lassan ébredezik. A San Pellegrino negyed fagyos utcái után jól esik visszatérni a fűtött utastérbe. A Villa Lante kertje a téli fényekben szinte mozdulatlannak tűnik. A nap csúcspontja a gőzölgő Terme dei Papi lesz.",
+            "ro": "Explorarea iernii în Viterbo cu mașina asigură căldura necesară între obiective. Dimineața vizităm Santa Rosa în timp ce orașul se trezește lent. După o scurtă plimbare prin gerul din San Pellegrino, revenirea în mașina încălzită este ideală. Villa Lante pare încremenită în lumina iernii. Punctul culminant al zilei este seara în apele aburinde de la Terme dei Papi.",
+            "en": "Visiting Viterbo by car in winter allows you to stay warm while hopping between sites. Start your morning at Santa Rosa as the city slowly wakes up. After a brisk walk through freezing San Pellegrino, the heated car interior is a welcome relief. Villa Lante looks ethereal in the low winter light. End your day perfectly in the steaming waters of Terme dei Papi."
+          },
+          "stops": [
+            {
+              "name": "Santuario di Santa Rosa",
+              "tip_5lang": {
+                "de": "Die Heizung im Auto sorgt für eine angenehme Fahrt zum nächsten Halt.",
+                "hu": "Használja ki az autó fűtését, hogy átmelegedjen a következő megállóig.",
+                "ro": "Folosiți încălzirea mașinii pentru a vă dezmorți până la următoarea oprire.",
+                "en": "Enjoy the car's heater to warm up thoroughly before your next stop."
+              }
+            },
+            {
+              "name": "Quartiere San Pellegrino",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe der Aufzüge, um lange Fußwege in der Kälte zu vermeiden.",
+                "hu": "Parkoljon a liftek közelében, hogy elkerülje a hosszú sétát a hidegben.",
+                "ro": "Parcați lângă ascensoarele publice pentru a evita mersul lung prin frig.",
+                "en": "Park near the public elevators to minimize walking time in the freezing air."
+              }
+            },
+            {
+              "name": "Palazzo dei Papi",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte auf den Rampen zum Palastplatz am frühen Morgen.",
+                "hu": "Figyeljen a palota felé vezető rámpákra, amelyek reggel jegesek lehetnek.",
+                "ro": "Atenție la rampele spre piața palatului, care pot fi înghețate dimineața.",
+                "en": "Be careful on the access ramps to the palace square; they can be icy."
+              }
+            },
+            {
+              "name": "Villa Lante",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Gärten früh am Nachmittag, bevor es zu schattig und kalt wird.",
+                "hu": "A kora délutáni órákban látogassa a kertet, mielőtt túl árnyékos és hideg lesz.",
+                "ro": "Vizitați grădinile devreme după-amiaza, înainte să devină prea umbrit și frig.",
+                "en": "Visit the gardens early in the afternoon before they become too shaded and cold."
+              }
+            },
+            {
+              "name": "Terme dei Papi",
+              "tip_5lang": {
+                "de": "Der Kontrast zwischen kalter Winterluft und heißem Dampf ist unvergesslich.",
+                "hu": "A hideg téli levegő és a forró gőz kontrasztja felejthetetlen élményt nyújt.",
+                "ro": "Contrastul dintre aerul rece de iarnă și aburul fierbinte este de neuitat.",
+                "en": "The contrast between the cold winter air and the hot steam is unforgettable."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Frostschutzmittel für die Hügel von Tuscia ausreicht.",
+              "Die Parkplatzsuche ist im Winter deutlich entspannter als im Sommer.",
+              "Ein Eiskratzer ist bei morgendlichen Fahrten in dieser Region oft nötig.",
+              "Die Terme ist im Winter abends besonders beliebt; reservieren Sie vorab.",
+              "Die Sonne geht früh unter, was die Fahrt zur Villa Lante atmosphärisch macht."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót, a Tuscia dombjai között hidegebb lehet az idő.",
+              "A parkolás télen sokkal egyszerűbb, mint a főszezonban.",
+              "A reggeli induláshoz szükség lehet jégkaparóra a szélvédőhöz.",
+              "A termálfürdő téli estéken népszerű, érdemes előre jegyet foglalni.",
+              "A korai naplemente miatt a Villa Lante környéke hamar sötétbe borul."
+            ],
+            "ro": [
+              "Verificați antigelul; în zona deluroasă Tuscia temperaturile scad sub zero.",
+              "Găsirea unui loc de parcare este mult mai ușoară iarna decât vara.",
+              "O racletă pentru gheață este adesea necesară pentru pornirile matinale.",
+              "Termele sunt foarte populare în serile de iarnă; rezervați din timp.",
+              "Soarele apune devreme, făcând drumul spre Villa Lante foarte atmosferic."
+            ],
+            "en": [
+              "Ensure your antifreeze is topped up; the Tuscia hills get colder than Rome.",
+              "Parking is generally much easier to find in winter than in the high season.",
+              "An ice scraper might be necessary for early morning starts in this region.",
+              "The thermal baths are very popular on winter evenings; book in advance.",
+              "With the early sunset, the drive to Villa Lante is very scenic but short."
+            ]
+          }
+        }
       }
     }
   },

@@ -304,6 +304,404 @@
           "Avoid the midday heat on the walls.",
           "Parking is available in front of the city gate."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen von Ston mit der Besichtigung des Fürstenpalastes und der Blasius-Kirche. Tauchen Sie anschließend in die Geschichte der Salzgewinnung ein, die seit der Antike fast unverändert geblieben ist. Der Höhepunkt ist die Wanderung über die 'Europäische Chinesische Mauer' nach Mali Ston, wo Sie mit einem fantastischen Blick auf den Kanal belohnt werden. Den Abend lassen Sie bei frischen Meeresfrüchten ausklingen.",
+            "hu": "Kezdje a napot Ston szívében a hercegi palota és a Szent Balázs templom felfedezésével. Ezután ismerje meg a sólepárlás történetét, amely az ókor óta szinte változatlan formában zajlik itt. A nap csúcspontja a túra az 'Európa kínai falaként' emlegetett erődrendszeren Mali Ston felé, ahonnan pazar kilátás nyílik az öbölre. Az estét töltsön el egy hangulatos tengerparti vacsorával.",
+            "ro": "Începeți ziua în inima localității Ston vizitând Palatul Rectorului și biserica Sfântul Blasiu. Ulterior, descoperiți istoria extracției sării, proces rămas aproape neschimbat din antichitate. Momentul culminant este drumeția pe 'Marele Zid European' către Mali Ston, oferind priveliști superbe asupra canalului. Încheiați seara savurând fructe de mare proaspete, renumite în întreaga regiune.",
+            "en": "Start your day in the heart of Ston by exploring the Rector's Palace and St. Blaise Church. Then, dive into the history of salt production, which has remained nearly unchanged since antiquity. The highlight is the hike over the 'European Great Wall' to Mali Ston, rewarding you with fantastic views of the canal. Finish your evening with fresh seafood, specifically the world-famous local oysters."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fürstenpalast Ston",
+                "hu": "Stoni hercegi palota",
+                "ro": "Palatul Rectorului din Ston",
+                "en": "Rector's Palace Ston"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Kirche St. Blasius",
+                "hu": "Szent Balázs templom",
+                "ro": "Biserica Sfântul Blasiu",
+                "en": "Church of St. Blaise"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Salzgarten von Ston",
+                "hu": "Stoni sólepárló",
+                "ro": "Salina din Ston",
+                "en": "Ston Salt Pans"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Festung Kaštio",
+                "hu": "Kaštio erőd",
+                "ro": "Fortăreața Kaštio",
+                "en": "Kaštio Fortress"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Stadtmauern von Ston",
+                "hu": "Stoni városfalak",
+                "ro": "Zidurile din Ston",
+                "en": "Walls of Ston"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Mali Ston",
+                "hu": "Mali Ston",
+                "ro": "Mali Ston",
+                "en": "Mali Ston"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bota Šare",
+                "tip": "Frische Austern und Muscheln in Mali Ston."
+              },
+              {
+                "name": "Konoba Bakus",
+                "tip": "Bekannt für schwarzen Risotto und Fisch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bota Šare",
+                "tip": "Friss osztriga és kagyló Mali Stonban."
+              },
+              {
+                "name": "Konoba Bakus",
+                "tip": "Híres fekete rizottó és friss halételek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bota Šare",
+                "tip": "Scoici și stridii proaspete în Mali Ston."
+              },
+              {
+                "name": "Konoba Bakus",
+                "tip": "Renumit pentru risotto negru și pește."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bota Šare",
+                "tip": "Fresh oysters and mussels in Mali Ston."
+              },
+              {
+                "name": "Konoba Bakus",
+                "tip": "Known for black risotto and fresh fish."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mauer-Aussichtspunkt",
+                "tip": "Blick über die Salzpfannen bei Sonnenuntergang.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Uferpromenade Mali Ston",
+                "tip": "Ruhiger Spaziergang am Kanal.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Városfal kilátó",
+                "tip": "Kilátás a sólepárlókra naplementekor.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Mali Ston rakpart",
+                "tip": "Csendes séta a csatorna mentén.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Belvedere pe zid",
+                "tip": "Vedere peste saline la apus.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Promenada Mali Ston",
+                "tip": "Plimbare liniștită pe marginea canalului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Wall Viewpoint",
+                "tip": "View over the salt pans at sunset.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Mali Ston Waterfront",
+                "tip": "Quiet walk along the canal.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Salzladen Ston",
+                "tip": "Natürliches Meersalz als Souvenir."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Stoni sóbolt",
+                "tip": "Természetes tengeri só ajándékba."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazinul de sare",
+                "tip": "Sare de mare naturală pentru suvenir."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ston Salt Shop",
+                "tip": "Natural sea salt as a souvenir."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kombinieren Sie das Ticket für Mauer und Museum.",
+              "Die Mauer ist ca. 5km lang, planen Sie genug Wasser ein.",
+              "Vermeiden Sie die Mittagshitze auf den Mauern.",
+              "Parken ist vor dem Stadttor möglich."
+            ],
+            "hu": [
+              "Váltson kombinált jegyet a falra és a múzeumba.",
+              "A fal kb. 5km hosszú, vigyen magával elég vizet.",
+              "Kerülje a déli hőséget a falakon.",
+              "Parkolni a városkapu előtt lehet."
+            ],
+            "ro": [
+              "Cumpărați bilet combinat pentru ziduri și muzeu.",
+              "Zidul are aproximativ 5km, luați destulă apă.",
+              "Evitați căldura de la prânz pe ziduri.",
+              "Parcarea este disponibilă în fața porții orașului."
+            ],
+            "en": [
+              "Get a combined ticket for the walls and museum.",
+              "The wall is about 5km long, bring plenty of water.",
+              "Avoid the midday heat on the walls.",
+              "Parking is available in front of the city gate."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt geschützt im Rektorenpalast, wo man die Architektur bewundern kann, während der Regen auf die Steine trommelt. Mittags besuchen Sie die Kirche des Hl. Blasius und blicken auf die Salzpfannen, die im Regen eine mystische Atmosphäre ausstrahlen. Am Nachmittag erkunden Sie die Festung Kaštio und die unteren Mauerabschnitte. Der Abend klingt gemütlich in einer Taverne in Mali Ston bei einer warmen Austernsuppe aus.",
+            "hu": "A reggel a Rektori Palota védelmében indul, ahol az eső kopogása mellett csodálhatjuk meg a történelmi belsőt. Délben a Szent Balázs-templom és a sólepárlók következnek, melyek ködös, éteri arcukat mutatják a csapadékos időben. Délután a Kaštio erőd és a falak alsóbb, kevésbé szeles szakaszai járhatóak be óvatosan. Az estét egy mali stoni fogadóban zárjuk, élvezve a helyi tenger gyümölcseit és a barátságos menedéket.",
+            "ro": "Dimineața începe la adăpost în Palatul Rectorului, admirând detaliile gotice în timp ce ploaia cade peste oraș. La prânz, vizitați Biserica Sf. Blaise și observați salinele, care capătă o aură mistică sub cerul înnorat. După-amiaza este dedicată Cetății Kaštio și unei plimbări prudente pe porțiunile joase ale zidurilor. Seara se încheie confortabil într-o tavernă din Mali Ston, savurând o supă caldă de scoici.",
+            "en": "Morning starts sheltered in the Rector's Palace, admiring the architecture while the rain taps on the stone. Midday, visit the Church of St. Blaise and observe the salt pans; the rain creates a misty, ethereal look over the basins. Afternoon is for the Kaštio Fortress and a cautious walk on the lower parts of the walls. Evening ends in a cozy Mali Ston tavern with a warm bowl of traditional oyster soup."
+          },
+          "stops": [
+            {
+              "name": "Rector's Palace Ston",
+              "tip_5lang": {
+                "de": "Perfekter Zufluchtsort vor dem Regen mit interessanten Exponaten.",
+                "hu": "Kiváló menedék az eső elől, gazdag történelmi kiállítással.",
+                "ro": "Refugiul perfect împotriva ploii, cu exponate istorice fascinante.",
+                "en": "Perfect shelter from the rain with interesting historical exhibits."
+              }
+            },
+            {
+              "name": "Church of St. Blaise",
+              "tip_5lang": {
+                "de": "Ruhepause im Trockenen, bewundern Sie die sakrale Kunst.",
+                "hu": "Csendes pihenő szárazon, csodálja meg a szakrális művészetet.",
+                "ro": "O pauză liniștită la uscat, admirați arta sacră din interior.",
+                "en": "A quiet break in the dry, admire the sacred art inside."
+              }
+            },
+            {
+              "name": "Ston Salt Pans",
+              "tip_5lang": {
+                "de": "Vorsicht, die Wege zwischen den Becken können rutschig sein.",
+                "hu": "Vigyázat, a medencék közötti utak csúszósak és sárosak lehetnek.",
+                "ro": "Atenție, potecile dintre bazine pot fi alunecoase când sunt ude.",
+                "en": "Caution, the paths between the basins can be slippery when wet."
+              }
+            },
+            {
+              "name": "Kaštio Fortress",
+              "tip_5lang": {
+                "de": "Gutes Schuhwerk ist wichtig für die nassen Steinstufen.",
+                "hu": "A vizes kőlépcsőkön elengedhetetlen a jó tapadású cipő.",
+                "ro": "Încălțămintea aderentă este esențială pentru treptele de piatră ude.",
+                "en": "Good grip footwear is essential for the wet stone steps."
+              }
+            },
+            {
+              "name": "Walls of Ston",
+              "tip_5lang": {
+                "de": "Bei starkem Regen nur die unteren Teile begehen; Rutschgefahr!",
+                "hu": "Erős esőben csak az alsó szakaszokat javasoljuk; csúszásveszély!",
+                "ro": "Pe ploaie torențială vizitați doar porțiunile joase; risc de alunecare.",
+                "en": "In heavy rain, only walk the lower sections; slip hazard!"
+              }
+            },
+            {
+              "name": "Mali Ston",
+              "tip_5lang": {
+                "de": "Genießen Sie frische Austern in einem der überdachten Restaurants.",
+                "hu": "Kóstolja meg a friss osztrigát a fedett éttermek egyikében.",
+                "ro": "Savurați stridii proaspete într-unul dintre restaurantele acoperite.",
+                "en": "Enjoy fresh oysters in one of the cozy covered restaurants."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Wege bei den Salzpfannen.",
+              "Die Stadtmauern können bei Nässe extrem rutschig sein; nutzen Sie die Handläufe.",
+              "Ein stabiler Regenschirm ist wegen des Windes vom Meer her wichtig.",
+              "Planen Sie mehr Zeit für die Innenbesichtigungen im Rektorenpalast ein.",
+              "Die Restaurants in Mali Ston bieten eine warme Flucht vor dem Wetter."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a sólepárlók körüli sáros utak miatt.",
+              "A városfalak kövei vizesen rendkívül csúszósak; használja a korlátokat.",
+              "A tenger felől fújó szél miatt egy stabil esernyő elengedhetetlen.",
+              "Szánjon több időt a Rektori Palota belső kiállításaira.",
+              "Mali Ston éttermei meleg menedéket nyújtanak a csapadék elől."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru zonele din jurul salinei.",
+              "Zidurile orașului pot fi extrem de alunecoase; folosiți balustradele.",
+              "O umbrelă rezistentă este necesară din cauza vântului de coastă.",
+              "Acordați mai mult timp vizitării interiorului Palatului Rectorului.",
+              "Restaurantele din Mali Ston oferă un refugiu cald în fața ploii."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the muddy paths near the salt pans.",
+              "The town walls can be extremely slippery; always use the handrails.",
+              "A sturdy umbrella is essential due to the gusty winds from the sea.",
+              "Plan more time for indoor visits at the Rector's Palace.",
+              "Mali Ston restaurants provide a warm escape from the damp weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Ston ist frisch und klar, ideal für einen Besuch im Rektorenpalast ohne Touristenmassen. Mittags reflektiert die tiefstehende Sonne das Weiß der Kirche des Hl. Blasius. Der Nachmittag eignet sich perfekt für die gesamte Mauerwanderung, wenn der Wind nicht zu stark ist, mit Panoramablick auf Pelješac. Da es früh dunkel wird, endet der Tag bei einem Glas lokalem Rotwein am Kamin in einer gemütlichen Konoba.",
+            "hu": "A téli reggel friss és tiszta Stonban, tökéletes a Rektori Palota tömegmentes bejárásához. Délben az alacsonyan járó nap megvilágítja a Szent Balázs-templom fehér köveit. A délután ideális a teljes fali túrához, ha a szél nem túl erős, kristálytiszta kilátást nyújtva a Pelješac-félszigetre. Mivel korán sötétedik, a napot egy pohár helyi vörösbor mellett, kandalló tűzénél zárjuk.",
+            "ro": "O dimineață de iarnă în Ston este proaspătă și senină, ideală pentru Palatul Rectorului fără mulțimi. La prânz, soarele blând luminează piatra albă a Bisericii Sf. Blaise. După-amiaza este perfectă pentru întreaga drumeție pe ziduri dacă vântul nu e puternic, oferind vederi clare spre Pelješac. Seara vine devreme, așa că relaxați-vă cu un pahar de vin roșu local lângă un șemineu cald.",
+            "en": "The winter morning in Ston is crisp and clear, ideal for visiting the Rector's Palace without the crowds. Midday, the low winter sun reflects off the white stone of St. Blaise's Church. Afternoon is perfect for the full wall hike if the wind is low, offering crystal-clear vistas of the Pelješac peninsula. Since darkness falls early, end the day with a glass of local red wine by a fireplace in a cozy tavern."
+          },
+          "stops": [
+            {
+              "name": "Rector's Palace Ston",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille der Geschichte ohne die Sommerhitze.",
+                "hu": "Élvezze a történelem csendjét a nyári hőség és tömeg nélkül.",
+                "ro": "Bucurați-vă de liniștea istoriei fără căldura verii.",
+                "en": "Enjoy the silence of history without the summer heat and crowds."
+              }
+            },
+            {
+              "name": "Church of St. Blaise",
+              "tip_5lang": {
+                "de": "Ein Ort der Besinnung, oft festlich geschmückt im Winter.",
+                "hu": "Az elcsendesedés helye, télen gyakran ünnepi díszben áll.",
+                "ro": "Un loc de reflecție, adesea decorat festiv în timpul iernii.",
+                "en": "A place for reflection, often festively decorated in winter."
+              }
+            },
+            {
+              "name": "Ston Salt Pans",
+              "tip_5lang": {
+                "de": "Die Salzgewinnung ruht, aber die Anlage ist beeindruckend karg.",
+                "hu": "A sólepárlás szünetel, de a látvány ilyenkor is lenyűgöző.",
+                "ro": "Producția de sare stagnează, dar peisajul este impresionant.",
+                "en": "Salt harvesting is inactive, but the site remains impressive."
+              }
+            },
+            {
+              "name": "Kaštio Fortress",
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen gut vor dem kalten Bura-Wind.",
+                "hu": "A vastag falak jó védelmet nyújtanak a hideg bóra szél ellen.",
+                "ro": "Zidurile groase oferă protecție bună împotriva vântului rece.",
+                "en": "The thick walls provide good shelter from the cold Bura wind."
+              }
+            },
+            {
+              "name": "Walls of Ston",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist Pflicht; der Wind auf dem Grat ist eisig.",
+                "hu": "Réteges öltözet kötelező; a fal tetején metsző lehet a szél.",
+                "ro": "Îmbrăcămintea groasă e obligatorie; vântul pe creastă e tăios.",
+                "en": "Warm layers are mandatory; the wind on the ridge can be icy."
+              }
+            },
+            {
+              "name": "Mali Ston",
+              "tip_5lang": {
+                "de": "Probieren Sie Muscheln, die im Winter besonders schmackhaft sind.",
+                "hu": "Kóstolja meg a feketekagylót, amely télen a legízletesebb.",
+                "ro": "Gustați midiile, care sunt deosebit de gustoase iarna.",
+                "en": "Try the mussels, which are particularly flavorful in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 16:30 Uhr unter; planen Sie die Mauerwanderung früh.",
+              "Der Bura-Wind kann sehr stark sein; prüfen Sie die Wettervorhersage.",
+              "Viele Cafés haben gemütliche Innenbereiche, die im Winter beheizt sind.",
+              "Tragen Sie Windstopper-Kleidung für den Aufenthalt auf den Befestigungsanlagen.",
+              "Genießen Sie die Ruhe, da Ston im Winter fast touristenfrei ist."
+            ],
+            "hu": [
+              "A nap télen 16:30 körül nyugszik; a fali túrát kezdje időben.",
+              "A bóra szél nagyon erős lehet; ellenőrizze az előrejelzést.",
+              "Sok kávézó hangulatos, fűtött belső térrel várja a vendégeket.",
+              "Viseljen szélálló ruházatot az erődítmények látogatásakor.",
+              "Élvezze a nyugalmat, hiszen Ston télen szinte turista mentes."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 16:30; planificați drumeția pe ziduri devreme.",
+              "Vântul Bura poate fi foarte puternic; verificați prognoza meteo.",
+              "Multe cafenele au interioare primitoare și încălzite iarna.",
+              "Purtați haine rezistente la vânt pentru vizitarea fortificațiilor.",
+              "Bucurați-vă de liniște, deoarece Ston este aproape fără turiști iarna."
+            ],
+            "en": [
+              "Sunset is around 4:30 PM in winter; plan your wall hike early.",
+              "The Bura wind can be very strong; check the local forecast.",
+              "Many cafes have cozy, heated interiors during the winter months.",
+              "Wear wind-stopper clothing for your time on the fortifications.",
+              "Enjoy the tranquility, as Ston is nearly tourist-free in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -539,6 +937,337 @@
           "In Prapratno, you can find shade under pine trees.",
           "Rent bicycles in the center of Ston."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die Halbinsel Pelješac auf zwei Rädern. Von den Salzpfannen führt der Weg zur idyllischen Bucht Prapratno, perfekt für eine Abkühlung. Danach geht es zurück über Ston nach Mali Ston, wo Sie die Befestigung Koruna bewundern können. Die flachen Wege um die Salzbecken sind ideal zum Radeln.",
+            "hu": "Fedezze fel a Pelješac-félszigetet két keréken. A sólepárlóktól az út a meseszép Prapratno-öbölhöz vezet, amely tökéletes egy kis frissítőhöz. Ezután Stonon keresztül Mali Stonba tekerhet, ahol megcsodálhatja a Koruna erődöt. A sómedencék körüli sík terep ideális a biciklizéshez.",
+            "ro": "Explorați peninsula Pelješac pe două roți. De la saline, drumul duce spre golful idilic Prapratno, perfect pentru o baie răcoritoare. Apoi, reveniți prin Ston spre Mali Ston, unde puteți admira fortăreața Koruna. Traseele plate din jurul bazinelor de sare sunt ideale pentru ciclism.",
+            "en": "Explore the Pelješac Peninsula on two wheels. From the salt pans, the path leads to the idyllic Prapratno Bay, perfect for a swim. Then, head back through Ston to Mali Ston, where you can admire the Koruna Fortress. The flat paths around the salt basins are ideal for relaxed cycling."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Salzgarten",
+                "hu": "Sólepárló",
+                "ro": "Salina",
+                "en": "Salt Pans"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Prapratno Bucht",
+                "hu": "Prapratno-öböl",
+                "ro": "Golful Prapratno",
+                "en": "Prapratno Bay"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Mali Ston",
+                "hu": "Mali Ston",
+                "ro": "Mali Ston",
+                "en": "Mali Ston"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Festung Koruna",
+                "hu": "Koruna erőd",
+                "ro": "Fortăreața Koruna",
+                "en": "Koruna Fortress"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Ston Altstadt",
+                "hu": "Ston óváros",
+                "ro": "Centrul vechi Ston",
+                "en": "Ston Old Town"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Vila Koruna",
+                "tip": "Austernverkostung direkt am Meer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vila Koruna",
+                "tip": "Osztrigakóstoló közvetlenül a tengerparton."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vila Koruna",
+                "tip": "Degustare de stridii chiar lângă mare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vila Koruna",
+                "tip": "Oyster tasting right by the sea."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Prapratno Strand",
+                "tip": "Ruhiger Platz am Morgen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Prapratno strand",
+                "tip": "Csendes hely reggelente.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Plaja Prapratno",
+                "tip": "Loc liniștit dimineața.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Prapratno Beach",
+                "tip": "Quiet spot in the morning.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokales Olivenöl",
+                "tip": "Überall auf der Halbinsel erhältlich."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi olívaolaj",
+                "tip": "A félszigeten mindenhol kapható."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline local",
+                "tip": "Disponibil peste tot în peninsulă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local olive oil",
+                "tip": "Available all over the peninsula."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Achten Sie auf den Autoverkehr auf der Hauptstraße.",
+              "In Prapratno gibt es Schatten unter Pinien.",
+              "Mieten Sie Fahrräder im Zentrum von Ston."
+            ],
+            "hu": [
+              "Figyeljen az autóforgalomra a főúton.",
+              "Prapratnóban árnyékot talál a fenyőfák alatt.",
+              "Béreljen kerékpárt Ston központjában."
+            ],
+            "ro": [
+              "Atenție la traficul auto pe drumul principal.",
+              "În Prapratno găsiți umbră sub pini.",
+              "Închiriați biciclete din centrul orașului Ston."
+            ],
+            "en": [
+              "Watch out for traffic on the main road.",
+              "In Prapratno, you can find shade under pine trees.",
+              "Rent bicycles in the center of Ston."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Disziplin, belohnt aber mit einsamen Wegen. Am Vormittag geht es zu den Salzpfannen, wobei die Reifen auf dem feuchten Untergrund Grip brauchen. Mittags ist die Fahrt zur Bucht Prapratno erfrischend, der Duft der Pinien ist bei Regen intensiver. Nachmittags führt der Weg nach Mali Ston über nasse Straßen. Der Abend endet im Zentrum von Ston bei einer wohlverdienten warmen Mahlzeit in einer geschützten Ecke.",
+            "hu": "Az esős bringázás fegyelmet igényel, de magányos utakkal jutalmaz. Reggel a sólepárlókhoz tekerünk, ahol a nedves talajon figyelni kell a tapadásra. Délben a Prapratno-öböl felé az út frissítő, a fenyők illata intenzívebb az esőben. Délután Mali Stont vesszük célba a vizes aszfalton óvatosan fékezve. Az estét Ston központjában zárjuk egy jól megérdemelt meleg vacsorával egy fedett teraszon.",
+            "ro": "O plimbare cu bicicleta în ploaie necesită disciplină, dar oferă drumuri pustii. Dimineața mergeți la saline, unde anvelopele au nevoie de aderență pe solul umed. La prânz, drumul spre Prapratno este revigorant, parfumul pinilor fiind mai intens. După-amiaza, pedalați spre Mali Ston pe asfalt ud. Seara se încheie în centrul Stonului cu o masă caldă binemeritată într-un colț ferit.",
+            "en": "A bike ride in the rain requires discipline but rewards you with empty paths. Morning ride to the salt pans requires waterproof gear as tracks can be damp. Midday, the route to Prapratno Bay is refreshing, with the smell of pine trees intensified by the rain. Afternoon, head to Mali Ston; wet asphalt requires careful braking. Evening returns to Ston's center for a well-deserved hot meal in a sheltered corner."
+          },
+          "stops": [
+            {
+              "name": "Salt Pans",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Pfützen; der Boden unter dem Schlamm kann tief sein.",
+                "hu": "Kerülje a tócsákat; az iszap alatti talaj mélyebb lehet a vártnál.",
+                "ro": "Evitați bălțile; solul de sub noroi poate fi înșelător de adânc.",
+                "en": "Avoid deep puddles; the ground beneath the mud can be soft."
+              }
+            },
+            {
+              "name": "Prapratno Bay",
+              "tip_5lang": {
+                "de": "Die Abfahrt zur Bucht ist bei Nässe mit Vorsicht zu genießen.",
+                "hu": "A vizes úton az öbölbe vezető lejtőn fokozott óvatosság kell.",
+                "ro": "Coborârea spre golf trebuie făcută cu prudență pe carosabil ud.",
+                "en": "The descent to the bay requires caution on wet road surfaces."
+              }
+            },
+            {
+              "name": "Mali Ston",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter einem Vordach beim Ortseingang.",
+                "hu": "Parkolja le kerékpárját egy előtető alatt a falu szélén.",
+                "ro": "Parcați bicicleta sub un coronament la intrarea în sat.",
+                "en": "Park your bike under a canopy at the entrance of the village."
+              }
+            },
+            {
+              "name": "Koruna Fortress",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; die Steine sind sehr rutschig für Fahrradschuhe.",
+                "hu": "Rövid megálló; a kövek nagyon csúszósak stoplis cipőben.",
+                "ro": "Oprire scurtă; piatra este alunecoasă pentru pantofii de ciclism.",
+                "en": "Short stop; the stones are very slippery for cycling shoes."
+              }
+            },
+            {
+              "name": "Ston Old Town",
+              "tip_5lang": {
+                "de": "Säubern Sie die Bremsflanken nach der Fahrt durch den Schlamm.",
+                "hu": "Sáros tekerés után érdemes letisztítani a fékfelületeket.",
+                "ro": "Curățați jantele și frânele după plimbarea prin noroi.",
+                "en": "Clean your brake rims after riding through the mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und wasserfeste Überschuhe.",
+              "Verringern Sie den Reifendruck leicht für besseren Grip auf nasser Fahrbahn.",
+              "Bedenken Sie, dass Bremswege auf nassem Asphalt deutlich länger sind.",
+              "Nutzen Sie Schutzbleche, um sich vor aufgewirbeltem Schmutzwasser zu schützen.",
+              "Suchen Sie bei Starkregen Schutz in den Cafés von Ston."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot és vízálló kamáslit a cipőre.",
+              "Csökkentse kissé a guminyomást a jobb tapadás érdekében vizes úton.",
+              "Számoljon azzal, hogy a fékút vizes aszfalton jelentősen megnő.",
+              "Használjon sárvédőt, hogy megvédje magát a felverődő víztől.",
+              "Heves esőzés esetén keressen menedéket Ston kávézóiban."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie completă și protecții impermeabile pentru pantofi.",
+              "Reduceți ușor presiunea în pneuri pentru aderență mai bună pe ud.",
+              "Luați în calcul faptul că distanța de frânare crește considerabil pe ud.",
+              "Folosiți aripi la bicicletă pentru a vă proteja de apa aruncată de roți.",
+              "În caz de ploaie torențială, adăpostiți-vă în cafenelele din Ston."
+            ],
+            "en": [
+              "Wear a full rain jacket and waterproof shoe covers for the ride.",
+              "Slightly reduce tire pressure for better grip on wet road surfaces.",
+              "Keep in mind that braking distances are significantly longer on wet asphalt.",
+              "Use mudguards to protect yourself from road spray and dirt.",
+              "In case of heavy downpours, seek shelter in Ston's cafes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter ist belebend, wenn die kühle Brise bei den Salzpfannen am Vormittag weht. Mittags spendet der Anstieg zur Bucht Prapratno genug Wärme, um die Aussicht zu genießen. Nachmittags ist die Fahrt nach Mali Ston unter dem klaren Winterhimmel zügig. Am Abend sollten Sie vor dem Sonnenuntergang um 17:00 Uhr zurückkehren, da es in den engen Tälern schnell abkühlt und die Sicht sinkt.",
+            "hu": "A téli kerékpározás élénkítő, ahogy a hűvös szellő fúj a sólepárlóknál délelőtt. Délben a Prapratno-öböl felé vezető emelkedő elég hőt termel, hogy élvezzük a kilátást. Délután a tekerés Mali Ston felé gyors a tiszta téli égbolt alatt. Este érdemes a 17:00 órás naplemente előtt visszaérni, mert a szűk völgyekben gyorsan lehűl a levegő és romlik a látótávolság.",
+            "ro": "Ciclismul de iarnă este revigorant cu briza rece de lângă saline dimineața. La prânz, urcarea spre Prapratno oferă suficientă căldură pentru a savura priveliștea. După-amiaza, plimbarea spre Mali Ston este rapidă sub cerul senin. Seara, asigurați-vă că vă întoarceți înainte de apusul de la ora 17:00, deoarece temperatura scade brusc în văi.",
+            "en": "Winter cycling is invigorating with the cool breeze near the salt pans in the morning. Midday, the climb towards Prapratno provides enough warmth to enjoy the view. Afternoon, the ride to Mali Ston is quick under the clear winter sky. Evening, make sure to return before the 5 PM sunset, as the roads become chilly and visibility drops quickly in the narrow valleys."
+          },
+          "stops": [
+            {
+              "name": "Salt Pans",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; der Metalllenker entzieht den Händen Wärme.",
+                "hu": "Viseljen kesztyűt; a fém kormány gyorsan elszívja a hőt a kezéből.",
+                "ro": "Purtați mănuși; ghidonul metalic răcește mâinile rapid iarna.",
+                "en": "Wear gloves; the metal handlebars can make your hands very cold."
+              }
+            },
+            {
+              "name": "Prapratno Bay",
+              "tip_5lang": {
+                "de": "In der verschatteten Bucht ist es deutlich kälter als oben.",
+                "hu": "Az árnyékos öbölben jóval hidegebb van, mint fent a hegyen.",
+                "ro": "În golful umbrit este mult mai frig decât pe porțiunile însorite.",
+                "en": "It is significantly colder in the shaded bay than on the ridge."
+              }
+            },
+            {
+              "name": "Mali Ston",
+              "tip_5lang": {
+                "de": "Kurze Pause; kühlen Sie nicht zu stark aus beim Stehen.",
+                "hu": "Csak rövid pihenőt tartson; ne hűljön ki állás közben.",
+                "ro": "Faceți o pauză scurtă; nu lăsați corpul să se răcească prea mult.",
+                "en": "Keep breaks short; don't let your body cool down too much while stationary."
+              }
+            },
+            {
+              "name": "Koruna Fortress",
+              "tip_5lang": {
+                "de": "Die Aussicht ist im Winter durch die klare Luft fantastisch.",
+                "hu": "A kilátás télen a tiszta levegőnek köszönhetően fantasztikus.",
+                "ro": "Priveliștea este fantastică iarna datorită aerului foarte clar.",
+                "en": "The view is fantastic in winter thanks to the very clear air."
+              }
+            },
+            {
+              "name": "Ston Old Town",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einem heißen Tee in einer Bar auf.",
+                "hu": "Melegedjen fel egy forró teával az egyik helyi bárban.",
+                "ro": "Încălziți-vă cu un ceai fierbinte într-un bar local la final.",
+                "en": "Warm up with a hot tea in a local bar after your ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip mit einer winddichten Außenschicht.",
+              "Verwenden Sie helle Lichter, da die Dämmerung im Winter sehr kurz ist.",
+              "Halten Sie die Flüssigkeitszufuhr aufrecht, auch wenn Sie weniger Durst verspüren.",
+              "Ein Schlauchtuch schützt Hals und Gesicht vor dem eisigen Fahrtwind.",
+              "Überprüfen Sie den Reifendruck; kalte Luft lässt den Druck im Reifen sinken."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, a legkülső réteg legyen szélálló.",
+              "Használjon erős lámpákat, mert a téli szürkület nagyon rövid.",
+              "Figyeljen a hidratálásra, még ha kevésbé is érzi szomjasnak magát.",
+              "Egy csősál megvédi az arcát és nyakát a jeges menetszéltől.",
+              "Ellenőrizze a guminyomást; a hideg levegő miatt csökkenhet a nyomás."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, cu o jachetă exterioară rezistentă la vânt.",
+              "Folosiți lumini puternice, deoarece amurgul este foarte scurt iarna.",
+              "Mențineți hidratarea, chiar dacă nu simțiți senzația de sete.",
+              "Un fular tip tub vă protejează fața și gâtul de vântul înghețat.",
+              "Verificați presiunea în pneuri; aerul rece scade presiunea din roți."
+            ],
+            "en": [
+              "Dress in layers with a windproof outer shell to block the breeze.",
+              "Use bright lights, as winter twilight is very short and dark.",
+              "Maintain hydration even if you feel less thirsty in the cold.",
+              "A neck gaiter protects your face and neck from the icy headwind.",
+              "Check your tire pressure; cold air can cause it to drop significantly."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -774,6 +1503,337 @@
           "The road to Mali Ston is narrow.",
           "Don't drink and drive during wine tastings."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie bequem die schönsten Ecken um Ston. Nach einem Rundgang durch den Ort und die Salzpfannen fahren Sie ins charmante Mali Ston. Mittags bietet sich ein Badestopp in Prapratno an, bevor Sie eines der vielen Weingüter auf der Halbinsel Pelješac besuchen, die für ihren hervorragenden Rotwein bekannt sind.",
+            "hu": "Autóval kényelmesen elérheti Ston környékének legszebb pontjait. A városnézés és a sólepárlók után látogasson el a hangulatos Mali Stonba. Délben iktasson be egy fürdőzést Prapratnóban, majd keressen fel egyet a félsziget híres borászatai közül, amelyek kiváló vörösboraikról ismertek.",
+            "ro": "Cu mașina puteți ajunge ușor la cele mai frumoase colțuri din jurul localității Ston. După un tur al orașului și al salinelor, mergeți în fermecătorul Mali Ston. La prânz, opriți pentru o baie în Prapratno, înainte de a vizita una dintre numeroasele crame din peninsula Pelješac, renumite pentru vinul roșu excelent.",
+            "en": "By car, you can easily reach the most beautiful spots around Ston. After touring the town and salt pans, drive to charming Mali Ston. At midday, enjoy a swim at Prapratno Beach before visiting one of the many wineries on the Pelješac Peninsula, famous for their outstanding red wines."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ston Zentrum",
+                "hu": "Ston központ",
+                "ro": "Centru Ston",
+                "en": "Ston Center"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Salzpfannen",
+                "hu": "Sómedencék",
+                "ro": "Bazinele de sare",
+                "en": "Salt Pans"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Mali Ston",
+                "hu": "Mali Ston",
+                "ro": "Mali Ston",
+                "en": "Mali Ston"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Prapratno Strand",
+                "hu": "Prapratno strand",
+                "ro": "Plaja Prapratno",
+                "en": "Prapratno Beach"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Weingut in der Nähe",
+                "hu": "Közeli borászat",
+                "ro": "Cramă în apropiere",
+                "en": "Nearby Winery"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Kapetanova kuća",
+                "tip": "Erstklassiger Fisch und Austern."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kapetanova kuća",
+                "tip": "Elsőosztályú halételek és osztriga."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Kapetanova kuća",
+                "tip": "Pește și stridii de primă clasă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Kapetanova kuća",
+                "tip": "First-class fish and oysters."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hügel über Prapratno",
+                "tip": "Panoramablick auf die Bucht.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Prapratno feletti domb",
+                "tip": "Panorámás kilátás az öbölre.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Dealul de deasupra Prapratno",
+                "tip": "Vedere panoramică spre golf.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Hill above Prapratno",
+                "tip": "Panoramic view of the bay.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokale Weine",
+                "tip": "Direkt ab Hof kaufen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi borok",
+                "tip": "Vásároljon közvetlenül a termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vinuri locale",
+                "tip": "Cumpărați direct de la producător."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local wines",
+                "tip": "Buy directly from the winery."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parkgebühren in Ston werden per SMS oder Automat gezahlt.",
+              "Die Straße nach Mali Ston ist eng.",
+              "Trinken und fahren Sie nicht bei Weinproben."
+            ],
+            "hu": [
+              "A parkolásért Stonban SMS-ben vagy automatánál fizethet.",
+              "A Mali Stonba vezető út keskeny.",
+              "Ne vezessen, ha bort kóstol."
+            ],
+            "ro": [
+              "Taxele de parcare în Ston se plătesc prin SMS sau automat.",
+              "Drumul spre Mali Ston este îngust.",
+              "Nu conduceți dacă degustați vin."
+            ],
+            "en": [
+              "Parking fees in Ston are paid via SMS or machine.",
+              "The road to Mali Ston is narrow.",
+              "Don't drink and drive during wine tastings."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Vormittagsfahrt beginnt im Zentrum, wobei das Auto als trockene Basis zwischen kurzen Spaziergängen dient. Mittags besuchen Sie die Salzpfannen und genießen danach die malerische, regenbenetzte Küstenstraße nach Mali Ston. Am Nachmittag beobachten Sie das dramatische stürmische Meer bequem vom Auto aus in Prapratno. Der Abend ist perfekt für eine Fahrt zu einem nahe gelegenen Weingut, um einen Dingač zu verkosten, während es draußen regnet.",
+            "hu": "A délelőtti felfedezés a központban indul, az autót száraz bázisként használva a rövid séták között. Délben a sólepárlókat látogatjuk meg, majd élvezzük a festői, eső áztatta parti utat Mali Ston felé. Délután a drámai, viharos tengert figyelhetjük meg az autó kényelméből Prapratnónál. Az este tökéletes egy közeli borászat felkereséséhez, ahol egy pohár Dingač mellett várhatjuk meg az eső végét.",
+            "ro": "Explorarea de dimineață începe în centru, folosind mașina ca bază uscată între plimbările scurte. La prânz vizitați salinele și savurați drumul de coastă spre Mali Ston. După-amiaza, observați marea furtunatică din confortul mașinii la Prapratno. Seara este perfectă pentru o vizită la o cramă din apropiere, degustând un vin Dingač în timp ce ploaia cade afară.",
+            "en": "Morning drive starts at the town center, using the car as a dry base between short walks. Midday, visit the salt pans and then enjoy the scenic, rain-washed coastal road to Mali Ston. Afternoon, watch the dramatic stormy sea from the comfort of your car at Prapratno. Evening is perfect for a drive to a nearby winery to taste some local Dingač wine while the rain pours outside."
+          },
+          "stops": [
+            {
+              "name": "Ston Center",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Tor, um den Weg im Regen kurz zu halten.",
+                "hu": "Parkoljon közel a kapuhoz, hogy lerövidítse az utat az esőben.",
+                "ro": "Parcați aproape de poartă pentru a minimiza mersul prin ploaie.",
+                "en": "Park close to the main gate to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Salt Pans",
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Regenschirme im Kofferraum, um Beschlag zu vermeiden.",
+                "hu": "A vizes ernyőt tartsa a csomagtartóban, hogy ne párásodjon az utastér.",
+                "ro": "Țineți umbrela udă în portbagaj pentru a evita aburirea geamurilor.",
+                "en": "Keep wet umbrellas in the trunk to avoid fogging up the cabin."
+              }
+            },
+            {
+              "name": "Mali Ston",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze direkt am Hafen, nah bei den Restaurants.",
+                "hu": "Közvetlenül a kikötőben vannak parkolók, közel az éttermekhez.",
+                "ro": "Există parcări chiar în port, aproape de restaurante.",
+                "en": "There are parking spots right in the harbor, close to the eateries."
+              }
+            },
+            {
+              "name": "Prapratno Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Wellen vom Parkplatz aus.",
+                "hu": "Élvezze a hullámok látványát közvetlenül a parkolóból.",
+                "ro": "Admirați spectacolul valurilor direct din parcare.",
+                "en": "Enjoy the view of the waves directly from your parking spot."
+              }
+            },
+            {
+              "name": "Nearby Winery",
+              "tip_5lang": {
+                "de": "Ideale Aktivität bei Regen; die Weinlager sind meist unterirdisch.",
+                "hu": "Ideális program esőben; a borospincék többnyire a föld alatt vannak.",
+                "ro": "Activitate ideală pe ploaie; cramele sunt de obicei subterane.",
+                "en": "Ideal rainy day activity; wine cellars are mostly underground."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt über die Halbinsel.",
+              "Die Küstenstraßen können bei den ersten Regentropfen sehr rutschig sein.",
+              "Halten Sie die Klimaanlage eingeschaltet, um beschlagene Scheiben zu vermeiden.",
+              "Achten Sie auf Steinschlag an den Felswänden entlang der Straße.",
+              "Nutzen Sie die Parkplätze in der Nähe von überdachten Eingängen."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a félszigeti autózás előtt.",
+              "A parti utak az első esőcseppektől rendkívül csúszóssá válhatnak.",
+              "Tartsa bekapcsolva a klímát a szélvédő párátlanítása érdekében.",
+              "Figyeljen az esetleges kőomlásokra a sziklás útszakaszok mentén.",
+              "Használja a fedett bejáratokhoz legközelebbi parkolóhelyeket."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a porni la drum pe peninsulă.",
+              "Drumurile de coastă pot fi foarte alunecoase la primele picături de ploaie.",
+              "Porniți aerul condiționat pentru a dezaburi rapid parbrizul.",
+              "Fiți atenți la posibile căderi de pietre pe porțiunile cu stânci.",
+              "Căutați locuri de parcare cât mai aproape de intrările acoperite."
+            ],
+            "en": [
+              "Check your windshield wipers before driving across the peninsula.",
+              "Coastal roads can be very slippery during the first minutes of rain.",
+              "Keep the AC on to prevent the windshield from fogging up.",
+              "Watch out for potential rockfalls along the cliffside road sections.",
+              "Prioritize parking spots that are closest to covered building entrances."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Erkundung des Zentrums von Ston ist im milden Mittelmeerwinter angenehm. Mittags wirken die Salzpfannen in der tiefstehenden Sonne karg und schön. Nachmittags fahren Sie in das ruhige Mali Ston und zum leeren Strand von Prapratno für einen friedlichen Spaziergang. Am Abend macht die kurze Tageslichtdauer einen frühen Besuch in einem Weingut zum perfekten Abschluss, wo die schweren Pelješac-Weine Sie aufwärmen.",
+            "hu": "Ston központjának reggeli felfedezése kellemes az enyhe mediterrán télben. Délben a sólepárlók látványa az alacsony napfényben különlegesen szép. Délután látogasson el a csendes Mali Stonba és az üres Prapratno strandra egy békés sétára. Este a rövid nappalok miatt egy korai borászat-látogatás a tökéletes zárás, ahol a nehéz Pelješac-i borok belülről melegítik fel.",
+            "ro": "Explorarea matinală a centrului este plăcută în iarna mediteraneană blândă. La prânz, salinele arată auster și frumos în lumina soarelui. După-amiaza, conduceți spre liniștitul Mali Ston și spre plaja goală Prapratno pentru o plimbare pașnică. Seara, zilele scurte fac dintr-o vizită timpurie la o cramă finalul perfect, unde vinurile grele de Pelješac vă vor încălzi.",
+            "en": "Morning exploration of Ston's center is pleasant in the mild Mediterranean winter. Midday, the salt pans look stark and beautiful in the low sun. Afternoon, drive to the quiet Mali Ston and the empty Prapratno beach for a peaceful walk. Evening, the short days make an early visit to a local winery the perfect conclusion, where the heavy Pelješac wines warm you up."
+          },
+          "stops": [
+            {
+              "name": "Ston Center",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter im Überfluss vorhanden.",
+                "hu": "Télen bőven talál szabad parkolóhelyet a központban is.",
+                "ro": "Locurile de parcare sunt abundente în timpul iernii.",
+                "en": "Parking spots are plentiful in the center during winter months."
+              }
+            },
+            {
+              "name": "Salt Pans",
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für beeindruckende Fotos.",
+                "hu": "Használja ki a tiszta téli fényeket a látványos fotókhoz.",
+                "ro": "Folosiți lumina clară de iarnă pentru fotografii impresionante.",
+                "en": "Take advantage of the clear winter light for striking photos."
+              }
+            },
+            {
+              "name": "Mali Ston",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang am Hafen ist auch im Winter belebend.",
+                "hu": "Egy rövid séta a kikötőben télen is felfrissíti az embert.",
+                "ro": "O scurtă plimbare prin port este revigorantă și iarna.",
+                "en": "A short stroll by the harbor is invigorating even in winter."
+              }
+            },
+            {
+              "name": "Prapratno Beach",
+              "tip_5lang": {
+                "de": "Die Einsamkeit des Strandes bietet Ruhe und Entspannung.",
+                "hu": "A strand magánya tökéletes nyugalmat és kikapcsolódást nyújt.",
+                "ro": "Singurătatea plajei oferă liniște și relaxare totală.",
+                "en": "The solitude of the empty beach offers peace and relaxation."
+              }
+            },
+            {
+              "name": "Nearby Winery",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einer Führung; im Winter haben die Winzer mehr Zeit.",
+                "hu": "Kérjen idegenvezetést; télen a borászoknak több idejük van.",
+                "ro": "Cereți un tur ghidat; iarna viticultorii au mai mult timp liber.",
+                "en": "Ask for a guided tour; winemakers have more free time in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Bura kann das Fahren in offenen Abschnitten erschweren; Lenkrad festhalten.",
+              "Die Tage sind kurz; planen Sie Ihre Fahrten bei Tageslicht ein.",
+              "Einige Bergstraßen können bei Nachtfrost im Schatten glatt sein.",
+              "Tragen Sie immer eine warme Jacke im Auto für spontane Fotostopps."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosó folyadékban.",
+              "A bóra szél megnehezítheti a vezetést; fogja erősen a kormányt.",
+              "A nappalok rövidek; tervezze az utazást a világos órákra.",
+              "Az árnyékos hegyi utak éjszakai fagy után jegesek lehetnek.",
+              "Mindig tartson meleg kabátot az autóban a fotómegállókhoz."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de spălare a parbrizului.",
+              "Vântul Bura poate îngreuna condusul; țineți bine volanul.",
+              "Zilele sunt scurte; planificați deplasările în timpul luminii naturale.",
+              "Drumurile montane umbrite pot fi alunecoase după înghețul nocturn.",
+              "Țineți întotdeauna o jachetă groasă în mașină pentru opriri foto."
+            ],
+            "en": [
+              "Check the antifreeze levels in your windshield washer fluid.",
+              "Bura winds can make driving tricky; keep a firm grip on the wheel.",
+              "Days are short; try to complete your driving while it is still light.",
+              "Shaded mountain roads can be icy after a cold winter night.",
+              "Always keep a warm jacket in the car for spontaneous photo stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -986,6 +2046,310 @@
           "Tickets can often be bought from the driver.",
           "Fewer buses run on Sundays."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ston ist gut mit dem Bus von Dubrovnik oder Split aus erreichbar. Vom Busstopp gelangen Sie direkt in die Altstadt. Da die Entfernungen zwischen Ston, den Salzpfannen und der Mauer gering sind, lässt sich der Großteil zu Fuß erkunden. Für den Weg nach Mali Ston können Sie den Bus oder ein lokales Taxi nutzen.",
+            "hu": "Ston könnyen elérhető busszal Dubrovnik vagy Split felől. A megállótól közvetlenül az óvárosba juthat. Mivel Ston, a sólepárlók és a városfal közötti távolság kicsi, a legtöbb látnivaló gyalog is bejárható. Mali Ston eléréséhez használhatja a helyközi buszt vagy taxit.",
+            "ro": "Ston este ușor accesibil cu autobuzul din Dubrovnik sau Split. De la stație ajungeți direct în centrul vechi. Deoarece distanțele între Ston, saline și zid sunt mici, majoritatea locurilor pot fi explorate pe jos. Pentru a merge în Mali Ston, puteți folosi autobuzul sau un taxi local.",
+            "en": "Ston is easily accessible by bus from Dubrovnik or Split. From the bus stop, you can enter the old town directly. Since the distances between Ston, the salt pans, and the walls are small, most can be explored on foot. For the trip to Mali Ston, you can use a local bus or a taxi."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bushaltestelle Ston",
+                "hu": "Stoni buszmegálló",
+                "ro": "Stația de autobuz Ston",
+                "en": "Ston Bus Stop"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Altstadt Ston",
+                "hu": "Ston óváros",
+                "ro": "Centrul vechi Ston",
+                "en": "Ston Old Town"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Salzgarten",
+                "hu": "Sólepárló",
+                "ro": "Salina",
+                "en": "Salt Pans"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Mali Ston (via Taxi/Bus)",
+                "hu": "Mali Ston (taxival/busszal)",
+                "ro": "Mali Ston (cu taxi/autobuz)",
+                "en": "Mali Ston (via taxi/bus)"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Sorgo",
+                "tip": "Gutes Preis-Leistungs-Verhältnis im Zentrum."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sorgo",
+                "tip": "Jó ár-érték arány a központban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sorgo",
+                "tip": "Raport bun calitate-preț în centru."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sorgo",
+                "tip": "Good value for money in the center."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Stadtpark Ston",
+                "tip": "Kleine Grünanlage zum Entspannen.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Stoni városi park",
+                "tip": "Kis zöldövezet a kikapcsolódáshoz.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul orașului Ston",
+                "tip": "Mică zonă verde pentru relaxare.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Ston City Park",
+                "tip": "Small green area for relaxing.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Honig",
+                "tip": "Oft an Ständen am Busstopp."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi méz",
+                "tip": "Gyakran kapható a buszmegállónál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere locală",
+                "tip": "Adesea la standuri lângă stație."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local honey",
+                "tip": "Often available at stands near the bus stop."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie die Rückfahrzeiten nach Dubrovnik vorab.",
+              "Tickets können oft beim Fahrer gekauft werden.",
+              "Sonntags fahren weniger Busse."
+            ],
+            "hu": [
+              "Előre ellenőrizze a visszautat Dubrovnikba.",
+              "A jegyeket gyakran a sofőrnél is megveheti.",
+              "Vasárnap ritkábban járnak a buszok."
+            ],
+            "ro": [
+              "Verificați orarul de întoarcere spre Dubrovnik.",
+              "Biletele pot fi cumpărate adesea de la șofer.",
+              "Duminica circulă mai puține autobuze."
+            ],
+            "en": [
+              "Check return bus times to Dubrovnik in advance.",
+              "Tickets can often be bought from the driver.",
+              "Fewer buses run on Sundays."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt mit der Ankunft im Busbahnhof von Ston, wo Cafés Schutz vor Regenschauern bieten. Mittags verbringen Sie mehr Zeit im Rektorenpalast und in lokalen Geschäften. Am Nachmittag nehmen Sie ein kurzes Taxi oder die lokale Busverbindung nach Mali Ston, um die nasse Wanderung zu vermeiden. Den Abend genießen Sie drinnen bei lokaler Gastfreundschaft, bevor der letzte Bus zurückfährt.",
+            "hu": "A délelőtt a stoni buszmegállóba való megérkezéssel indul, ahol a közeli kávézókban várhatjuk meg az eső végét. Délben több időt tölthetünk a Rektori Palotában és a helyi üzletekben. Délután vegyen igénybe egy rövid taxit vagy helyi buszt Mali Stonba, elkerülve a vizes gyaloglást. Az estét töltse egy hangulatos étteremben a busz indulásáig.",
+            "ro": "Dimineața începe cu sosirea la autogara din Ston; zona are cafenele unde puteți aștepta trecerea ploii. La prânz, petreceți mai mult timp în Palatul Rectorului și în magazinele locale. După-amiaza, luați un taxi scurt sau autobuzul local spre Mali Ston, evitând drumeția pe ud. Seara, bucurați-vă de ospitalitatea locală la interior înainte de plecare.",
+            "en": "Morning arrival by bus into Ston; the station area has cafes to wait out heavy showers. Midday, spend more time inside the Rector's Palace and local shops. Afternoon, take a short taxi or the local bus connection to Mali Ston, avoiding the wet hike. Evening, enjoy the local hospitality indoors before the final bus departure back to the main hubs."
+          },
+          "stops": [
+            {
+              "name": "Ston Bus Stop",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen bietet nur begrenzten Schutz; nutzen Sie Cafés.",
+                "hu": "A váróterem kicsi; heves esőben érdemes a közeli kávézókba beülni.",
+                "ro": "Stația oferă adăpost limitat; folosiți cafenelele din apropiere.",
+                "en": "The bus stop has limited cover; use nearby cafes during heavy rain."
+              }
+            },
+            {
+              "name": "Ston Old Town",
+              "tip_5lang": {
+                "de": "Die Gassen sind eng, Schirme können unhandlich sein; Regenponcho!",
+                "hu": "A szűk utcákban az ernyő nehézkes lehet; a regenponcsó praktikusabb.",
+                "ro": "Străzile sunt înguste, umbrelele pot fi incomode; folosiți pelerine.",
+                "en": "The alleys are narrow, umbrellas can be clumsy; a poncho is better."
+              }
+            },
+            {
+              "name": "Salt Pans",
+              "tip_5lang": {
+                "de": "Die Gehwege zur Saline haben bei Regen viele Pfützen.",
+                "hu": "A sólepárlóhoz vezető járdákon sok tócsa gyűlhet össze.",
+                "ro": "Trotuarele spre salină pot avea multe bălți pe ploaie.",
+                "en": "The sidewalks leading to the salt pans often have deep puddles."
+              }
+            },
+            {
+              "name": "Mali Ston (via taxi/bus)",
+              "tip_5lang": {
+                "de": "Ein Taxi ist bei Regen eine komfortable Alternative zum Bus.",
+                "hu": "Esőben a taxi kényelmes és gyors alternatíva a busz helyett.",
+                "ro": "Un taxi este o alternativă confortabilă la autobuz pe ploaie.",
+                "en": "A taxi is a comfortable and fast alternative to the bus in rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den aktuellen Busfahrplan online, da Regen Verzögerungen verursachen kann.",
+              "Halten Sie Kleingeld für das Busticket bereit, um Wartezeiten im Regen zu minimieren.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zwischen den Haltestellen.",
+              "Nutzen Sie lokale Taxi-Apps oder Nummern als Backup bei Zugausfällen.",
+              "Die Cafés in der Nähe der Haltestellen sind gute Treffpunkte im Trockenen."
+            ],
+            "hu": [
+              "Ellenőrizze online a menetrendet, mert az eső késéseket okozhat.",
+              "Készítsen ki aprópénzt a jegyre, hogy ne álljon sokat az esőben.",
+              "Viseljen vízálló ruházatot a megállók közötti gyalogláshoz.",
+              "Mentse el egy helyi taxi telefonszámát tartalék megoldásnak.",
+              "A megállók közeli kávézók jó várakozóhelyek esős időben."
+            ],
+            "ro": [
+              "Verificați orarul online, deoarece ploaia poate cauza întârzieri.",
+              "Pregătiți bani mărunți pentru bilet pentru a scurta timpul în ploaie.",
+              "Purtați haine impermeabile pentru drumul dintre stații.",
+              "Păstrați numărul unui taxi local ca soluție de rezervă la nevoie.",
+              "Cafenelele de lângă stații sunt locuri bune de așteptare la uscat."
+            ],
+            "en": [
+              "Check the schedule online, as heavy rain can cause minor delays.",
+              "Have small change ready for tickets to minimize time spent in the rain.",
+              "Wear waterproof outer layers for the short walks between stops.",
+              "Keep a local taxi number handy as a backup for bus connections.",
+              "Cafes near the bus stops are great places to wait comfortably."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Busreise bietet klare Ausblicke auf die Adriaküste. Mittags erkunden Sie die Altstadt; im Winter gibt es weniger Gedränge und besseren Service in den lokalen Lokalen. Am Nachmittag besuchen Sie die Salzpfannen und nutzen den Transfer nach Mali Ston, um den mittelalterlichen Hafen in seiner ruhigsten Jahreszeit zu erleben. Am Abend wärmen Sie sich in einem Bistro in der Nähe der Bushaltestelle auf, während Sie auf Ihre Verbindung warten.",
+            "hu": "A téli buszozás tiszta kilátást nyújt az adriai partvidékre. Délben fedezze fel az óvárost; télen nincs tömeg és jobb a kiszolgálás a helyi kifőzdékben. Délután látogassa meg a sólepárlókat, majd utazzon át Mali Stonba, hogy láthassa a középkori kikötőt a legnyugodtabb arcával. Este melegedjen fel egy bisztróban a buszmegálló közelében a csatlakozásra várva.",
+            "ro": "Călătoria cu autobuzul iarna oferă vederi clare asupra coastei adriatice. La prânz, explorați orașul vechi; iarna sunt mai puține mulțimi și servicii mai bune. După-amiaza, vizitați salinele și luați transportul spre Mali Ston pentru a vedea portul medieval în cel mai liniștit sezon. Seara, încălziți-vă într-un bistro lângă stație în timp ce așteptați legătura.",
+            "en": "The winter bus trip offers clear views of the Adriatic coastline. Midday, explore the old town; winter means fewer crowds and better service in the local eateries. Afternoon, visit the salt pans and take the transit to Mali Ston to see the medieval harbor in its quietest season. Evening, stay warm in a bistro near the bus stop while waiting for your connection back."
+          },
+          "stops": [
+            {
+              "name": "Ston Bus Stop",
+              "tip_5lang": {
+                "de": "Beachten Sie die ausgedünnten Fahrpläne in der Nebensaison.",
+                "hu": "Ügyeljen a ritkább menetrendre a téli holtszezonban.",
+                "ro": "Atenție la orarul redus de iarnă în afara sezonului turistic.",
+                "en": "Be aware of the reduced bus frequency during the winter off-season."
+              }
+            },
+            {
+              "name": "Ston Old Town",
+              "tip_5lang": {
+                "de": "Die Steinmauern strahlen im Winter Kälte aus; warm anziehen.",
+                "hu": "A kőfalak télen sugározzák a hideget; öltözzön fel melegen.",
+                "ro": "Zidurile de piatră emană frig iarna; îmbrăcați-vă gros.",
+                "en": "The stone walls radiate cold in winter; dress in warm layers."
+              }
+            },
+            {
+              "name": "Salt Pans",
+              "tip_5lang": {
+                "de": "Der Weg ist oft windig; ein Schal ist hier sehr nützlich.",
+                "hu": "Az ide vezető út gyakran szeles; egy sál sokat segíthet.",
+                "ro": "Drumul este adesea vântos; un fular este foarte util aici.",
+                "en": "The path is often windy; a scarf is very useful for this walk."
+              }
+            },
+            {
+              "name": "Mali Ston (via taxi/bus)",
+              "tip_5lang": {
+                "de": "Fragen Sie den Fahrer nach der letzten Rückfahrt nach Ston.",
+                "hu": "Kérdezze meg a sofőrt az utolsó visszainduló járatról.",
+                "ro": "Întrebați șoferul despre ultima cursă de întoarcere spre Ston.",
+                "en": "Ask the driver about the last return trip to Ston for the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Im Winter fahren Busse seltener; planen Sie Ihre Rückreise genau.",
+              "Warten Sie in beheizten Innenräumen statt direkt an der Haltestelle.",
+              "Die Busse sind im Winter meist gut beheizt und komfortabel.",
+              "Informieren Sie sich über Kombi-Tickets, die auch im Winter gelten.",
+              "Tragen Sie helle Kleidung oder Reflektoren für den Weg zur Haltestelle im Dunkeln."
+            ],
+            "hu": [
+              "Télen ritkábban járnak a buszok; pontosan tervezze meg a visszautat.",
+              "A megálló helyett várakozzon a fűtött beltéri helyiségekben.",
+              "A buszok télen általában jól fűtöttek és kényelmesek.",
+              "Tájékozódjon a télen is érvényes kedvezményes jegyekről.",
+              "Viseljen világos ruhát vagy fényvisszaverőt a sötétben a megálló felé."
+            ],
+            "ro": [
+              "Autobuzele circulă mai rar iarna; planificați-vă riguros întoarcerea.",
+              "Așteptați în spații interioare încălzite, nu direct în stație.",
+              "Autobuzele sunt de obicei bine încălzite și confortabile iarna.",
+              "Informați-vă despre biletele combinate valabile și în extrasezon.",
+              "Purtați haine deschise la culoare sau reflectorizante spre stație seara."
+            ],
+            "en": [
+              "Buses run less frequently in winter; plan your return trip carefully.",
+              "Wait in heated indoor spaces instead of standing at the bus stop.",
+              "Buses are usually well-heated and comfortable during the winter.",
+              "Check for any off-season ticket discounts that might be available.",
+              "Wear bright clothing or reflectors when walking to the stop in the dark."
+            ]
+          }
+        }
       }
     }
   },

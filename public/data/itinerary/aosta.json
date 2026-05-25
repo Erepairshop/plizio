@@ -389,6 +389,538 @@
           "Most attractions are located within a very short walking distance of each other.",
           "Don't forget to look up – the mountain scenery is breathtaking from every street."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Aosta, das Rom der Alpen, begrüßt Sie am Vormittag mit dem Augustusbogen und der Stiftskirche Sant'Orso. Mittags erkunden Sie die monumentale Porta Pretoria und das antike Theater. Der Nachmittag gehört dem geheimnisvollen Criptoportico und der Kathedrale. Den Abend lassen Sie bei einem Spaziergang entlang der römischen Stadtmauer und einem Glas Wein ausklingen.",
+            "hu": "Aosta, az Alpok Rómája délelőtt az ókori diadalívvel és a Sant'Orso-templommal köszönti önt. Délben a Porta Pretoria monumentális kapuja és a római színház romjai varázsolják el. Délután merüljön el a titokzatos Criptoportico folyosóin és a székesegyház csendjében. A napot a városfalak mentén tett sétával és egy pohár helyi fehérborral fejezze be.",
+            "ro": "Aosta, Roma Alpilor, vă întâmpină dimineața cu Arcul lui Augustus și biserica Sant'Orso. La prânz, explorați monumentala Porta Pretoria și teatrul antic. După-amiaza este dedicată misteriosului Criptoportico și Catedralei. Încheiați ziua cu o plimbare de-a lungul zidurilor romane și un pahar de vin local de calitate.",
+            "en": "Aosta, the Rome of the Alps, welcomes you in the morning with the Arch of Augustus and the Sant'Orso church. At midday, explore the monumental Porta Pretoria and the ancient Roman Theatre. The afternoon is dedicated to the mysterious Criptoportico and the Cathedral. End your day with a walk along the Roman city walls and a glass of fine local wine."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza Chanoux",
+                "hu": "Piazza Chanoux",
+                "ro": "Piazza Chanoux",
+                "en": "Piazza Chanoux"
+              },
+              "tip_5lang": {
+                "de": "Trinken Sie einen Kaffee in den historischen Arkaden.",
+                "hu": "Igyon egy kávét a történelmi árkádok alatt.",
+                "ro": "Savurați o cafea sub arcadele istorice.",
+                "en": "Enjoy a coffee under the historic arcades."
+              }
+            },
+            {
+              "name": {
+                "de": "Augustusbogen",
+                "hu": "Augustus-ív",
+                "ro": "Arcul lui Augustus",
+                "en": "Arch of Augustus"
+              },
+              "tip_5lang": {
+                "de": "Das Wahrzeichen der römischen Stadtgründung.",
+                "hu": "A római vároosalapítás ikonikus jelképe.",
+                "ro": "Simbolul iconic al fondării romane a orașului.",
+                "en": "The iconic symbol of the city's Roman foundation."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Sant'Orso",
+                "hu": "Sant'Orso-templom",
+                "ro": "Biserica Sant'Orso",
+                "en": "Collegiate Church of Sant'Orso"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den wunderschönen romanischen Kreuzgang.",
+                "hu": "Látogassa meg a gyönyörű román stílusú kolostort.",
+                "ro": "Vizitați superba mănăstire în stil romanic.",
+                "en": "Visit the beautiful Romanesque cloister."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta Pretoria",
+                "hu": "Porta Pretoria",
+                "ro": "Porta Pretoria",
+                "en": "Porta Pretoria"
+              },
+              "tip_5lang": {
+                "de": "Das monumentale Haupttor der römischen Stadt.",
+                "hu": "A római város monumentális főkapuja.",
+                "ro": "Poarta principală monumentală a orașului roman.",
+                "en": "The monumental main gate of the Roman city."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Theater",
+                "hu": "Római Színház",
+                "ro": "Teatrul Roman",
+                "en": "Roman Theatre"
+              },
+              "tip_5lang": {
+                "de": "Die 22 Meter hohe Fassade ist beeindruckend.",
+                "hu": "A 22 méter magas homlokzat lenyűgöző látvány.",
+                "ro": "Fațada de 22 de metri înălțime este impresionantă.",
+                "en": "The 22-meter high facade is impressive."
+              }
+            },
+            {
+              "name": {
+                "de": "Criptoportico Forense",
+                "hu": "Criptoportico Forense",
+                "ro": "Criptoportico Forense",
+                "en": "Cryptoporticus"
+              },
+              "tip_5lang": {
+                "de": "Ein unterirdischer Gang aus der Zeit des Augustus.",
+                "hu": "Föld alatti folyosórendszer Augustus idejéből.",
+                "ro": "Un pasaj subteran din timpul lui Augustus.",
+                "en": "An underground passage from the time of Augustus."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Santa Maria Assunta",
+                "hu": "Santa Maria Assunta-székesegyház",
+                "ro": "Catedrala Santa Maria Assunta",
+                "en": "Aosta Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Mosaiken aus dem 12. Jahrhundert.",
+                "hu": "Csodálja meg a 12. századi mozaikokat.",
+                "ro": "Admirați mozaicurile din secolul al XII-lea.",
+                "en": "Admire the 12th-century mosaics."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul de Arheologie",
+                "en": "Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die prähistorische und römische Geschichte.",
+                "hu": "Fedezze fel az őskori és római történelmet.",
+                "ro": "Descoperiți istoria preistorică și romană.",
+                "en": "Discover prehistoric and Roman history."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Stadtmauer",
+                "hu": "Római városfalak",
+                "ro": "Zidurile orașului roman",
+                "en": "Roman City Walls"
+              },
+              "tip_5lang": {
+                "de": "Spaziergang entlang der fast vollständig erhaltenen Mauern.",
+                "hu": "Séta a szinte teljesen épen maradt falak mentén.",
+                "ro": "Plimbare de-a lungul zidurilor aproape intacte.",
+                "en": "Walk along the almost entirely preserved walls."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Fontina Käse",
+                "tip": "Probieren Sie den echten DOP-Käse in einer lokalen Fromagerie."
+              },
+              {
+                "name": "Carbonada Valdostana",
+                "tip": "Rindfleischschmorbraten in Rotwein, serviert mit Polenta."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fontina sajt",
+                "tip": "Kóstolja meg az eredetvédett sajtot egy helyi szaküzletben."
+              },
+              {
+                "name": "Carbonada Valdostana",
+                "tip": "Vörösborban párolt marhahús, amelyet puliszkával tálalnak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brânză Fontina",
+                "tip": "Gustați brânza autentică DOP într-o fromagerie locală."
+              },
+              {
+                "name": "Carbonada Valdostana",
+                "tip": "Tocăniță de vită în vin roșu, servită cu polenta."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fontina Cheese",
+                "tip": "Taste the authentic DOP cheese in a local fromagerie."
+              },
+              {
+                "name": "Carbonada Valdostana",
+                "tip": "Beef stew cooked in red wine, typically served with polenta."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kreuzgang von Sant'Orso",
+                "tip": "Ein Ort der Stille mit wunderschönen Kapitellen.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Stadtmauern bei Sonnenuntergang",
+                "tip": "Panoramablick auf die umliegenden Alpengipfel.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sant'Orso kolostorkert",
+                "tip": "A nyugalom szigete gyönyörű oszlopfőkkel.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Városfalak naplementekor",
+                "tip": "Panorámás kilátás a környező Alpok csúcsaira.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mănăstirea Sant'Orso",
+                "tip": "Un loc de liniște cu capiteluri sculptate superb.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Zidurile cetății la apus",
+                "tip": "Vedere panoramică asupra vârfurilor alpine.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Sant'Orso Cloister",
+                "tip": "A place of silence with beautiful carved capitals.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "City Walls at Sunset",
+                "tip": "Panoramic views of the surrounding Alpine peaks.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Via de Tillier",
+                "tip": "Die Haupteinkaufsstraße mit Boutiquen und lokalen Produkten."
+              },
+              {
+                "name": "Tegole Valdostane",
+                "tip": "Typische Haselnusskekse, ideal als Souvenir."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Via de Tillier",
+                "tip": "A fő bevásárlóutca butikokkal és helyi termékekkel."
+              },
+              {
+                "name": "Tegole Valdostane",
+                "tip": "Tipikus mogyorós keksz, tökéletes ajándéknak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Via de Tillier",
+                "tip": "Strada principală de cumpărături cu buticuri și produse locale."
+              },
+              {
+                "name": "Tegole Valdostane",
+                "tip": "Biscuiți tipici cu alune, ideali pentru suvenir."
+              }
+            ],
+            "en": [
+              {
+                "name": "Via de Tillier",
+                "tip": "The main shopping street with boutiques and local crafts."
+              },
+              {
+                "name": "Tegole Valdostane",
+                "tip": "Typical hazelnut biscuits, perfect as a souvenir."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Das Stadtzentrum ist fast vollständig verkehrsberuhigt und ideal zu Fuß zu erkunden.",
+              "Tragen Sie bequeme Schuhe für das römische Kopfsteinpflaster.",
+              "Die meisten Sehenswürdigkeiten liegen sehr nah beieinander.",
+              "Vergessen Sie nicht, nach oben zu schauen – die Bergkulisse ist atemberaubend."
+            ],
+            "hu": [
+              "A városközpont szinte teljesen autómentes, így gyalogosan a legkönnyebb felfedezni.",
+              "Viseljen kényelmes cipőt a római kori macskaköves utcákhoz.",
+              "A legtöbb látnivaló sétatávolságra van egymástól.",
+              "Ne felejtsen el felnézni – a hegyi panoráma minden utcából lélegzetelállító."
+            ],
+            "ro": [
+              "Centrul orașului este aproape în întregime pietonal și ideal de explorat la pas.",
+              "Purtați încălțăminte confortabilă pentru pavajul roman original.",
+              "Majoritatea obiectivelor turistice sunt situate foarte aproape una de alta.",
+              "Nu uitați să priviți în sus – decorul montan este absolut spectaculos."
+            ],
+            "en": [
+              "The city center is almost entirely pedestrianized and perfect for walking.",
+              "Wear comfortable shoes for the original Roman cobblestones.",
+              "Most attractions are located within a very short walking distance of each other.",
+              "Don't forget to look up – the mountain scenery is breathtaking from every street."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter den schützenden Arkaden der Piazza Chanoux, die ideal für regnerische Tage sind. Gegen Mittag erkunden Sie die beeindruckende Porta Pretoria und das Römische Theater, wobei die nassen Steine der Ruinen eine besondere Atmosphäre schaffen.\n\nAm Nachmittag bietet der unterirdische Kryptoportikus ein perfektes trockenes Refugium mit antiker Geschichte. Der Tag endet im Archäologischen Museum, wo Sie die römischen Schätze von Aosta in aller Ruhe im Trockenen bewundern können.",
+            "hu": "A reggel az Aosta központjában található Piazza Chanoux árkádjai alatt indul, amelyek kiváló védelmet nyújtanak az eső elől. Délben a Porta Pretoria és a Római Színház monumentális falai között sétálunk, ahol a vizes kövek különleges csillogást adnak a romoknak.\n\nDélután a föld alatti Cryptoporticus nyújt tökéletes menedéket, ahol az eső zaját elnyomja a történelem csendje. Az este az Archeológiai Múzeumban zárul, ahol fedett helyen merülhetünk el a város római kori emlékeiben.",
+            "ro": "Dimineața începe sub arcadele protectoare din Piazza Chanoux, ideale pentru a evita ploaia în centrul orașului Aosta. La prânz, explorăm Porta Pretoria și Teatrul Roman, unde pietrele umede ale ruinelor creează o atmosferă dramatică și autentică.\n\nDupă-amiaza, Criptoporticul subteran oferă un refugiu perfect uscat pentru a descoperi istoria antică. Ziua se încheie la Muzeul Arheologic, unde puteți admira comorile romane fără a vă face griji pentru vremea de afară.",
+            "en": "The morning begins under the protective arcades of Piazza Chanoux, perfect for staying dry while enjoying the city center. By midday, visit Porta Pretoria and the Roman Theatre, where the rain adds a reflective glisten to the ancient stone structures.\n\nIn the afternoon, the underground Cryptoporticus provides a fascinating and completely dry sanctuary from the weather. The day concludes at the Archaeological Museum, allowing for a deep dive into Roman history away from the damp streets."
+          },
+          "stops": [
+            {
+              "name": "Piazza Chanoux",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Arkaden (Portici) an den Seiten, um trocken zu bleiben.",
+                "hu": "Használja a tér oldalán lévő árkádokat, hogy szárazon maradjon.",
+                "ro": "Folosiți arcadele de pe marginile pieței pentru a rămâne uscați.",
+                "en": "Use the arcades (portici) along the sides to stay dry while walking."
+              }
+            },
+            {
+              "name": "Arch of Augustus",
+              "tip_4lang": {
+                "de": "Ein kurzer Fotostopp reicht; es gibt hier wenig Unterstand vor dem Regen.",
+                "hu": "Csak egy rövid fotómegálló, mivel itt kevés a fedett rész az eső elől.",
+                "ro": "O scurtă oprire pentru poze este suficientă, există puțin adăpost aici.",
+                "en": "A quick photo stop is enough as there is limited shelter directly at the arch."
+              }
+            },
+            {
+              "name": "Collegiate Church of Sant'Orso",
+              "tip_4lang": {
+                "de": "Besuchen Sie den Kreuzgang; die überdachten Gänge schützen vor dem Guss.",
+                "hu": "Látogasson el a kolostorkertbe; a fedett folyosók védenek a zápor ellen.",
+                "ro": "Vizitați mănăstirea; coridoarele acoperite vă protejează de ploaie.",
+                "en": "Visit the cloister; the covered walkways provide excellent protection from showers."
+              }
+            },
+            {
+              "name": "Porta Pretoria",
+              "tip_4lang": {
+                "de": "Stellen Sie sich unter die massiven Bögen, wenn der Regen stärker wird.",
+                "hu": "Húzódjon a hatalmas ívek alá, ha felerősödik az eső.",
+                "ro": "Adăpostiți-vă sub arcurile masive dacă ploaia devine mai puternică.",
+                "en": "Take shelter under the massive Roman arches if the rain intensifies."
+              }
+            },
+            {
+              "name": "Roman Theatre",
+              "tip_4lang": {
+                "de": "Der Außenbereich ist ungeschützt, bringen Sie einen festen Regenschirm mit.",
+                "hu": "A szabadtéri rész nem védett, hozzon magával strapabíró esernyőt.",
+                "ro": "Zona exterioară este expusă, aduceți o umbrelă rezistentă.",
+                "en": "The outdoor area is exposed; bring a sturdy umbrella for the visit."
+              }
+            },
+            {
+              "name": "Cryptoporticus",
+              "tip_4lang": {
+                "de": "Der ideale Ort bei Regen, da er komplett unterirdisch und trocken ist.",
+                "hu": "Ideális hely esőben, mivel teljesen a föld alatt van és száraz.",
+                "ro": "Locul ideal pe ploaie, fiind complet subteran și uscat.",
+                "en": "The perfect rainy-day spot as it is entirely underground and dry."
+              }
+            },
+            {
+              "name": "Aosta Cathedral",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Zeit im Inneren, um die Fresken und Mosaike zu bewundern.",
+                "hu": "Töltsön több időt bent a freskók és mozaikok megcsodálásával.",
+                "ro": "Petreceți timp în interior pentru a admira frescele și mozaicurile.",
+                "en": "Spend more time inside admiring the impressive frescoes and mosaics."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_4lang": {
+                "de": "Perfekt für den späten Nachmittag, um dem Regen ganz zu entkommen.",
+                "hu": "Tökéletes késő délutáni program, hogy teljesen elmeneküljön az eső elől.",
+                "ro": "Perfect pentru după-amiaza târzie, pentru a scăpa complet de ploaie.",
+                "en": "Perfect for late afternoon to escape the rain entirely in a heated space."
+              }
+            },
+            {
+              "name": "Roman City Walls",
+              "tip_4lang": {
+                "de": "Die Wege können rutschig sein, achten Sie auf festes Schuhwerk.",
+                "hu": "Az utak csúszósak lehetnek, ügyeljen a megfelelő lábbelire.",
+                "ro": "Potecile pot fi alunecoase, asigurați-vă că aveți încălțăminte adecvată.",
+                "en": "Paths near the walls can be slippery; ensure you have stable footwear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Aostas Zentrum hat viele Arkaden, nutzen Sie diese konsequent als Laufwege.",
+              "Der Kryptoportikus ist bei starkem Regen die beste historische Sehenswürdigkeit.",
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster Pfützen bilden kann.",
+              "Planen Sie Museumsbesuche für die intensivsten Regenstunden am Nachmittag ein."
+            ],
+            "hu": [
+              "Aosta központjában sok az árkád, használja ezeket közlekedési folyosóként.",
+              "A Cryptoporticus a legjobb történelmi látnivaló heves esőzés idején.",
+              "Viseljen vízálló cipőt, mert a macskaköves utcákon könnyen megáll a víz.",
+              "A délutáni intenzív eső idejére időzítse a múzeumlátogatásokat."
+            ],
+            "ro": [
+              "Centrul orașului Aosta are multe arcade, folosiți-le ca rute de deplasare.",
+              "Criptoporticul este cea mai bună atracție istorică în caz de ploaie torențială.",
+              "Purtați încălțăminte impermeabilă, deoarece pe caldarâm se pot forma bălți.",
+              "Planificați vizitele la muzee pentru orele cu ploaie intensă de după-amiază."
+            ],
+            "en": [
+              "Aosta's center features many arcades; use them consistently to stay dry while moving.",
+              "The Cryptoporticus is the best historical site to visit during heavy downpours.",
+              "Wear waterproof shoes as the uneven cobblestone streets tend to form puddles.",
+              "Schedule museum visits for the afternoon when rain is often more persistent."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Aosta verwandelt sich im Winter in eine alpine Märchenstadt, oft mit Blick auf die schneebedeckten Gipfel. Der Morgen beginnt frisch auf der Piazza Chanoux, wo die kalte Bergluft die Sinne belebt.\n\nAm Mittag wärmen Sie sich in den Kirchen von Sant'Orso und der Kathedrale auf, während die Sonne tief über den römischen Ruinen steht. Der Nachmittag ist kurz, da die Sonne gegen 16:45 Uhr hinter den Alpen verschwindet, was das Römische Theater in ein mystisches Licht taucht. Der Abend endet gemütlich in den beheizten Hallen des Archäologischen Museums.",
+            "hu": "Aosta télen igazi alpesi mesevárossá válik, gyakran hófödte csúcsokkal a háttérben. A reggel frissen indul a Piazza Chanoux-n, ahol a hideg hegyi levegő azonnal felébreszti az embert.\n\nDélben Sant'Orso és a Katedrális belső tereiben melegedhetünk fel, miközben a nap alacsonyan jár a római romok felett. A délután rövid, hiszen a nap 16:45 körül már eltűnik az Alpok mögött, misztikus fénybe vonva a Római Színházat. Az este az Archeológiai Múzeum fűtött termeiben ér véget.",
+            "ro": "Aosta se transformă iarna într-un oraș alpin de basm, adesea cu vârfurile înzăpezite vizibile în fundal. Dimineața începe cu aerul proaspăt și rece din Piazza Chanoux.\n\nLa prânz, vă puteți încălzi în interiorul bisericilor Sant'Orso și al Catedralei, în timp ce soarele strălucește slab peste ruinele romane. După-amiaza este scurtă, soarele dispărând după Alpi în jurul orei 16:45, lăsând Teatrul Roman într-o lumină mistică. Seara se încheie confortabil în sălile încălzite ale Muzeului Arheologic.",
+            "en": "In winter, Aosta becomes a stunning alpine town, often framed by snow-capped peaks. The morning starts briskly in Piazza Chanoux, where the crisp mountain air is truly invigorating.\n\nBy midday, seek warmth inside the Collegiate Church of Sant'Orso and the Cathedral as the sun sits low over the ancient ruins. The afternoon is short, with sunset behind the Alps around 16:45, casting a mystical glow on the Roman Theatre. The day ends comfortably within the heated Archaeological Museum."
+          },
+          "stops": [
+            {
+              "name": "Piazza Chanoux",
+              "tip_4lang": {
+                "de": "Genießen Sie einen heißen Kakao in den historischen Cafés am Platz.",
+                "hu": "Élvezzen egy forró kakaót a tér történelmi kávézóinak egyikében.",
+                "ro": "Savurați o ciocolată caldă în cafenelele istorice din piață.",
+                "en": "Enjoy a hot chocolate in one of the historic cafes surrounding the square."
+              }
+            },
+            {
+              "name": "Arch of Augustus",
+              "tip_4lang": {
+                "de": "Achten Sie auf das Eis am Boden rund um das Monument.",
+                "hu": "Ügyeljen a jegesedésre az emlékmű körüli kövezeten.",
+                "ro": "Atenție la gheața de pe solul din jurul monumentului.",
+                "en": "Watch out for icy patches on the ground surrounding the monument."
+              }
+            },
+            {
+              "name": "Collegiate Church of Sant'Orso",
+              "tip_4lang": {
+                "de": "Die Holzschnitzereien im Inneren wirken im Winter besonders gemütlich.",
+                "hu": "A belső fafaragások télen különösen meghitt hangulatot árasztanak.",
+                "ro": "Sculpturile în lemn din interior par deosebit de primitoare iarna.",
+                "en": "The intricate wood carvings inside feel particularly cozy during winter."
+              }
+            },
+            {
+              "name": "Porta Pretoria",
+              "tip_4lang": {
+                "de": "Das antike Gestein kann bei Frost sehr rutschig sein.",
+                "hu": "Az ókori kövek fagy idején nagyon csúszósak lehetnek.",
+                "ro": "Pietrele antice pot fi foarte alunecoase în condiții de îngheț.",
+                "en": "The ancient stonework can be very slippery during freezing conditions."
+              }
+            },
+            {
+              "name": "Roman Theatre",
+              "tip_4lang": {
+                "de": "Besuchen Sie diesen Ort vor 16:30 Uhr, bevor es zu schattig und kalt wird.",
+                "hu": "Látogasson el ide 16:30 előtt, mielőtt túl árnyékos és hideg lenne.",
+                "ro": "Vizitați acest loc înainte de 16:30, înainte să devină prea umbrit și rece.",
+                "en": "Visit before 16:30 before the sun drops behind the mountains and it gets colder."
+              }
+            },
+            {
+              "name": "Cryptoporticus",
+              "tip_4lang": {
+                "de": "Hier herrscht eine konstante Temperatur, oft wärmer als draußen.",
+                "hu": "Itt állandó a hőmérséklet, gyakran melegebb, mint odakint.",
+                "ro": "Aici este o temperatură constantă, adesea mai cald decât afară.",
+                "en": "The temperature here is constant, often feeling warmer than the winter air outside."
+              }
+            },
+            {
+              "name": "Aosta Cathedral",
+              "tip_4lang": {
+                "de": "Ein ruhiger Ort zum Aufwärmen und für besinnliche Momente.",
+                "hu": "Csendes hely a felmelegedéshez és az elmélyüléshez.",
+                "ro": "Un loc liniștit pentru a vă încălzi și pentru momente de reflecție.",
+                "en": "A peaceful place to warm up and enjoy a few quiet moments."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_4lang": {
+                "de": "Planen Sie hier Ihren längsten Aufenthalt ein, wenn es draußen friert.",
+                "hu": "Itt tervezze a leghosszabb tartózkodást, ha odakint fagy.",
+                "ro": "Planificați cea mai lungă vizită aici dacă afară este ger.",
+                "en": "Plan your longest stay here to fully warm up when it is freezing outside."
+              }
+            },
+            {
+              "name": "Roman City Walls",
+              "tip_4lang": {
+                "de": "Frühzeitiger Besuch empfohlen, da die Beleuchtung abends spärlich ist.",
+                "hu": "A korai látogatás javasolt, mert este kevés a világítás.",
+                "ro": "Se recomandă vizitarea timpurie, deoarece iluminarea este slabă seara.",
+                "en": "Early visit recommended as lighting along the walls is sparse after dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne verschwindet im Dezember bereits gegen 16:45 Uhr hinter den Bergen.",
+              "Tragen Sie Thermokleidung, da der Wind aus den Alpen sehr schneidend sein kann.",
+              "Die Pflastersteine in der Altstadt können bei Frost spiegelglatt sein.",
+              "Besuchen Sie den Weihnachtsmarkt auf der Piazza Chanoux oder am Theater."
+            ],
+            "hu": [
+              "A nap decemberben már 16:45 körül eltűnik a hegyek mögött.",
+              "Viseljen termoruházatot, mert az Alpok felől érkező szél metsző lehet.",
+              "Az óváros macskakövei fagyos időben rendkívül csúszósak lehetnek.",
+              "Keresse fel a karácsonyi vásárt a Piazza Chanoux-n vagy a Színháznál."
+            ],
+            "ro": [
+              "Soarele dispare după munți deja în jurul orei 16:45 în decembrie.",
+              "Purtați haine termice, deoarece vântul dinspre Alpi poate fi foarte tăios.",
+              "Pavelele din orașul vechi pot fi extrem de alunecoase în caz de îngheț.",
+              "Vizitați piața de Crăciun din Piazza Chanoux sau de lângă Teatru."
+            ],
+            "en": [
+              "The sun sets behind the mountains as early as 16:45 in December.",
+              "Wear thermal layers as the mountain wind can be very sharp and cold.",
+              "Cobblestones in the old town can be ice-slicked; walk with caution.",
+              "Don't miss the Christmas market stalls at Piazza Chanoux or the Roman Theatre."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -662,6 +1194,410 @@
         "en": [
           "The city is flat and bike-friendly."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Aosta auf zwei Rädern. Die Tour führt vom Augustusbogen durch die antiken Tore bis zum Römischen Theater. Mittags genießen Sie die Atmosphäre auf der Piazza Chanoux. Der Nachmittag bietet eine entspannte Fahrt entlang der gut erhaltenen Stadtmauern bis zum Museum.",
+            "hu": "Fedezze fel Aostát két keréken. A túra az Augustus-ívtől indul, át az antik kapukon a római színházig. Délben élvezze a Piazza Chanoux hangulatát. A délután egy kellemes tekerést kínál a jól megőrzött városfalak mentén egészen a múzeumig.",
+            "ro": "Explorați Aosta pe două roți. Turul pornește de la Arcul lui Augustus, trece prin porțile antice până la Teatrul Roman. La prânz, bucurați-vă de atmosfera din Piazza Chanoux. După-amiaza oferă o plimbare relaxantă de-a lungul zidurilor bine conservate până la muzeu.",
+            "en": "Explore Aosta on two wheels. The tour leads from the Arch of Augustus through ancient gates to the Roman Theatre. At midday, enjoy the atmosphere in Piazza Chanoux. The afternoon offers a relaxed ride along the well-preserved city walls to the museum."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Augustusbogen",
+                "hu": "Augustus-ív",
+                "ro": "Arcul lui Augustus",
+                "en": "Arch of Augustus"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt für die römische Tour.",
+                "hu": "A római túra kezdőpontja.",
+                "ro": "Punctul de plecare pentru turul roman.",
+                "en": "Starting point for the Roman tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant'Orso",
+                "hu": "Sant'Orso",
+                "ro": "Sant'Orso",
+                "en": "Sant'Orso"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den gotischen Chor.",
+                "hu": "Nézze meg a gótikus kórust.",
+                "ro": "Vizitați corul gotic.",
+                "en": "Visit the Gothic choir."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta Pretoria",
+                "hu": "Porta Pretoria",
+                "ro": "Porta Pretoria",
+                "en": "Porta Pretoria"
+              },
+              "tip_5lang": {
+                "de": "Biken durch das antike Tor.",
+                "hu": "Kerékpározás az antik kapun át.",
+                "ro": "Pedalând prin poarta antică.",
+                "en": "Cycling through the ancient gate."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Theater",
+                "hu": "Római Színház",
+                "ro": "Teatrul Roman",
+                "en": "Roman Theatre"
+              },
+              "tip_5lang": {
+                "de": "Fahrrad abstellen und staunen.",
+                "hu": "Tegye le a biciklit és ámuljon el.",
+                "ro": "Lăsați bicicleta și admirați.",
+                "en": "Park the bike and be amazed."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza Chanoux",
+                "hu": "Piazza Chanoux",
+                "ro": "Piazza Chanoux",
+                "en": "Piazza Chanoux"
+              },
+              "tip_5lang": {
+                "de": "Herz der Stadt.",
+                "hu": "A város szíve.",
+                "ro": "Inima orașului.",
+                "en": "The heart of the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Stadtmauer",
+                "hu": "Római városfalak",
+                "ro": "Zidurile orașului",
+                "en": "Roman Walls"
+              },
+              "tip_5lang": {
+                "de": "Rundfahrt entlang der Mauern.",
+                "hu": "Körút a falak mentén.",
+                "ro": "Circuit de-a lungul zidurilor.",
+                "en": "Loop ride along the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul de Arheologie",
+                "en": "Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Abschluss der Tour.",
+                "hu": "A túra lezárása.",
+                "ro": "Încheierea turului.",
+                "en": "End of the tour."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Valle d'Aosta Lard d'Arnad",
+                "tip": "Speckspezialität"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lard d'Arnad",
+                "tip": "Helyi szalonna specialitás"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lard d'Arnad",
+                "tip": "Specialitate locală de slănină"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lard d'Arnad",
+                "tip": "Local bacon specialty"
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Stadtpark",
+                "tip": "Grüne Oase",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Városi park",
+                "tip": "Zöld oázis",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul orașului",
+                "tip": "Oază verde",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "City Park",
+                "tip": "Green oasis",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "L'Artisanà",
+                "tip": "Kunsthandwerk"
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Artisanà",
+                "tip": "Kézműves termékek"
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Artisanà",
+                "tip": "Artizanat local"
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Artisanà",
+                "tip": "Local handicrafts"
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Stadt ist flach und fahrradfreundlich."
+            ],
+            "hu": [
+              "A város sík és biciklibarát."
+            ],
+            "ro": [
+              "Orașul este plat și prietenos cu bicicliștii."
+            ],
+            "en": [
+              "The city is flat and bike-friendly."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Aosta im Regen erfordert Vorsicht auf dem Kopfsteinpflaster. Der Morgen führt zum Augustusbogen, wobei die Pfützen das Monument spiegeln.\n\nMittags erreichen Sie das Römische Theater, bevor Sie sich für eine längere Pause auf der Piazza Chanoux unter die Arkaden flüchten. Der Nachmittag endet beim Archäologischen Museum, wo das Fahrrad sicher abgestellt werden kann, während Sie im Trockenen die Geschichte erkunden.",
+            "hu": "Az esős biciklitúra Aostában óvatosságot igényel a macskaköveken. A reggel az Augustus-diadalívhez vezet, ahol a tócsák tükrözik az emlékművet.\n\nDélben a Római Színházhoz érünk, majd a Piazza Chanoux árkádjai alatt tartunk hosszabb pihenőt. A délután az Archeológiai Múzeumnál zárul, ahol biztonságban lezárhatjuk a gépet, amíg bent kalandozunk a múltban.",
+            "ro": "Un tur cu bicicleta prin Aosta pe ploaie necesită prudență pe caldarâm. Dimineața vă duce la Arcul lui Augustus, unde bălțile reflectă monumentul.\n\nLa prânz ajungeți la Teatrul Roman, înainte de a vă refugia sub arcadele din Piazza Chanoux pentru o pauză lungă. După-amiaza se încheie la Muzeul Arheologic, unde puteți parca bicicleta în siguranță.",
+            "en": "Cycling through Aosta in the rain requires extra care on the wet cobblestones. The morning takes you to the Arch of Augustus, where puddles create beautiful reflections of the monument.\n\nBy midday, reach the Roman Theatre before taking a long break under the arcades of Piazza Chanoux. The afternoon finishes at the Archaeological Museum, where you can park your bike and explore history in a dry environment."
+          },
+          "stops": [
+            {
+              "name": "Arch of Augustus",
+              "tip_4lang": {
+                "de": "Vorsicht beim Bremsen auf den nassen Steinen rund um den Bogen.",
+                "hu": "Vigyázzon a fékezéssel a vizes köveken az ív körül.",
+                "ro": "Atenție la frânare pe pietrele umede din jurul arcului.",
+                "en": "Be cautious when braking on the wet stones surrounding the arch."
+              }
+            },
+            {
+              "name": "Sant'Orso",
+              "tip_4lang": {
+                "de": "Stellen Sie das Rad unter dem Vordach ab, falls möglich.",
+                "hu": "Ha lehetséges, támassza a biciklit az előtető alá.",
+                "ro": "Parcați bicicleta sub acoperiș dacă este posibil.",
+                "en": "Park your bike under a ledge or overhang if possible to keep it dry."
+              }
+            },
+            {
+              "name": "Porta Pretoria",
+              "tip_4lang": {
+                "de": "Fahren Sie langsam durch die engen Passagen der antiken Tore.",
+                "hu": "Hajtson lassan az ókori kapuk szűk átjáróin keresztül.",
+                "ro": "Conduceți încet prin pasajele înguste ale porților antice.",
+                "en": "Ride slowly through the narrow passages of the ancient gates."
+              }
+            },
+            {
+              "name": "Roman Theatre",
+              "tip_4lang": {
+                "de": "Vermeiden Sie es, mit dem Rad direkt auf die Grasflächen zu fahren.",
+                "hu": "Kerülje el, hogy kerékpárral közvetlenül a füves területekre hajtson.",
+                "ro": "Evitați să intrați cu bicicleta direct pe zonele cu iarbă.",
+                "en": "Avoid riding directly onto grassy areas as they get very muddy."
+              }
+            },
+            {
+              "name": "Piazza Chanoux",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Arkaden für eine trockene Pause ohne Rad.",
+                "hu": "Használja az árkádokat egy száraz pihenőre a bicikli nélkül.",
+                "ro": "Folosiți arcadele pentru o pauză uscată fără bicicletă.",
+                "en": "Use the arcades for a dry break, leaving the bike nearby."
+              }
+            },
+            {
+              "name": "Roman Walls",
+              "tip_4lang": {
+                "de": "Die Wege entlang der Mauern können schlammig sein.",
+                "hu": "A falak menti utak sárosak lehetnek.",
+                "ro": "Potecile de-a lungul zidurilor pot fi noroioase.",
+                "en": "The paths along the walls can become muddy; stay on paved sections."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_4lang": {
+                "de": "Ein idealer Ort, um die nasse Kleidung kurz zu trocknen.",
+                "hu": "Ideális hely a vizes ruházat rövid megszárítására.",
+                "ro": "Un loc ideal pentru a vă usca scurt hainele umede.",
+                "en": "An ideal place to take a long break and dry off your gear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nasses Kopfsteinpflaster ist extrem rutschig; fahren Sie mit niedrigem Reifendruck.",
+              "Vermeiden Sie abrupte Lenkmanöver in den engen Gassen der Altstadt.",
+              "Tragen Sie eine auffällige Regenjacke, da die Sicht für Autofahrer schlechter ist.",
+              "Nutzen Sie Fahrradständer in der Nähe von Arkaden für einen trockenen Sattel."
+            ],
+            "hu": [
+              "A vizes macskakő rendkívül csúszós; hajtson alacsonyabb guminyomással.",
+              "Kerülje a hirtelen kormánymozdulatokat az óváros szűk utcáin.",
+              "Viseljen feltűnő esőkabátot, mert az autósok látási viszonyai romlanak.",
+              "Használjon árkádok közeli biciklitárolókat, hogy száraz maradjon a nyereg."
+            ],
+            "ro": [
+              "Caldarâmul umed este extrem de alunecos; conduceți cu presiune scăzută în pneuri.",
+              "Evitați manevrele bruște de direcție pe străzile înguste din centrul vechi.",
+              "Purtați o jachetă de ploaie reflectorizantă, vizibilitatea șoferilor este redusă.",
+              "Folosiți suporturile de biciclete de lângă arcade pentru a păstra șaua uscată."
+            ],
+            "en": [
+              "Wet cobblestones are extremely slippery; consider slightly lower tire pressure for grip.",
+              "Avoid sudden steering movements in the narrow alleys of the old town.",
+              "Wear high-visibility rain gear as driver visibility is significantly reduced.",
+              "Look for bike racks near covered arcades to keep your saddle dry during stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren in Aosta bei Kälte bietet klare Luft und tolle Aussichten. Der Morgen beginnt am Augustusbogen mit Blick auf die schneebedeckten Berge.\n\nMittags wärmen Sie sich kurz in Sant'Orso auf, bevor es zum Römischen Theater geht. Da es früh dunkel wird, sollten Sie die Stadtmauern am Nachmittag besuchen, um die restliche Helligkeit zu nutzen. Der Tag endet beim Museum, wo Sie sich nach der Fahrt im Warmen entspannen können.",
+            "hu": "A hidegben való biciklizés Aostában tiszta levegőt és pazar kilátást kínál. A reggel az Augustus-ívnél indul, háttérben a hófödte hegyekkel.\n\nDélben rövid felmelegedés következik Sant'Orsóban, majd irány a Római Színház. Mivel korán sötétedik, a városfalakat kora délután látogassuk meg. A nap a múzeumnál ér véget, ahol a tekerés után jól esik a benti meleg.",
+            "ro": "Mersul cu bicicleta în Aosta pe frig oferă aer curat și priveliști grozave. Dimineața începe la Arcul lui Augustus cu vederea spre munții înzăpeziți.\n\nLa prânz vă încălziți scurt la Sant'Orso, înainte de a merge la Teatrul Roman. Deoarece se întunecă devreme, vizitați zidurile cetății după-amiaza. Ziua se încheie la muzeu, unde vă puteți relaxa la căldură după cursă.",
+            "en": "Cycling in Aosta during winter offers crisp air and spectacular alpine views. The morning starts at the Arch of Augustus with snow-capped peaks in the background.\n\nAt midday, warm up briefly inside Sant'Orso before heading to the Roman Theatre. Since it gets dark early, visit the Roman Walls in the early afternoon to maximize daylight. The day concludes at the museum, providing a warm escape after your ride."
+          },
+          "stops": [
+            {
+              "name": "Arch of Augustus",
+              "tip_4lang": {
+                "de": "Tragen Sie warme Handschuhe, der Fahrtwind ist eisig.",
+                "hu": "Viseljen meleg kesztyűt, a menetszél jeges lehet.",
+                "ro": "Purtați mănuși groase, vântul în timpul mersului este înghețat.",
+                "en": "Wear warm gloves; the wind chill while riding is significant."
+              }
+            },
+            {
+              "name": "Sant'Orso",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Stopp, um die steifen Finger kurz aufzuwärmen.",
+                "hu": "Használja ki a megállót az elgémberedett ujjak felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi scurt degetele amorțite.",
+                "en": "Use this stop to thaw out your fingers in the warmer interior."
+              }
+            },
+            {
+              "name": "Porta Pretoria",
+              "tip_4lang": {
+                "de": "Achten Sie auf Schattenbereiche, dort hält sich Eis länger.",
+                "hu": "Ügyeljen az árnyékos részekre, ott tovább megmarad a jég.",
+                "ro": "Atenție la zonele umbrite, gheața persistă mai mult acolo.",
+                "en": "Watch for shaded areas where ice patches persist much longer."
+              }
+            },
+            {
+              "name": "Roman Theatre",
+              "tip_4lang": {
+                "de": "Ein tolles Fotomotiv mit Schnee auf den antiken Rängen.",
+                "hu": "Nagyszerű fotótéma a havas ókori lelátókkal.",
+                "ro": "Un subiect foto excelent cu zăpadă pe gradenele antice.",
+                "en": "A great photo opportunity if there's snow on the ancient tiers."
+              }
+            },
+            {
+              "name": "Piazza Chanoux",
+              "tip_4lang": {
+                "de": "Gönnen Sie sich ein warmes Getränk, bevor Sie weiterfahren.",
+                "hu": "Kényeztesse magát egy meleg itallal, mielőtt továbbhajtana.",
+                "ro": "Răsfățați-vă cu o băutură caldă înainte de a continua drumul.",
+                "en": "Treat yourself to a hot drink before continuing your ride."
+              }
+            },
+            {
+              "name": "Roman Walls",
+              "tip_4lang": {
+                "de": "Fahren Sie vorsichtig, die Wege sind oft nicht gestreut.",
+                "hu": "Hajtson óvatosan, az utakat gyakran nem sózzák.",
+                "ro": "Conduceți cu prudență, potecile adesea nu sunt deszăpezite.",
+                "en": "Ride carefully as paths along the walls are often not gritted."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_4lang": {
+                "de": "Hier können Sie sich vor dem Rückweg gründlich aufwärmen.",
+                "hu": "Itt alaposan felmelegedhet a visszaút előtt.",
+                "ro": "Aici vă puteți încălzi bine înainte de drumul de întoarcere.",
+                "en": "A great place to thoroughly warm up before heading back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten (Zwiebelprinzip) gegen den kalten Bergwind.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert; es wird ab 16:30 Uhr dunkel.",
+              "Achten Sie auf Raureif auf den Metallgittern und Kanaldeckeln.",
+              "Ein Thermosbecher mit Tee im Flaschenhalter wirkt Wunder."
+            ],
+            "hu": [
+              "Viseljen több réteg ruhát a hideg hegyi szél ellen.",
+              "Ellenőrizze a világítást; 16:30-tól már erősen sötétedik.",
+              "Ügyeljen a zúzmarára a fémrácsokon és a csatornafedeleken.",
+              "Egy termosz tea a kulacstartóban csodákra képes."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine împotriva vântului rece de munte.",
+              "Asigurați-vă că luminile bicicletei funcționează; se întunecă de la 16:30.",
+              "Atenție la chiciura de pe grătarele metalice și capacele de canal.",
+              "Un termos cu ceai în suportul de bidon face minuni."
+            ],
+            "en": [
+              "Dress in multiple layers to combat the biting mountain wind.",
+              "Ensure your bike lights are working; it gets dark very early (from 16:30).",
+              "Watch out for frost on metal grates and manhole covers.",
+              "A thermos of hot tea in your bottle cage works wonders for morale."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -912,6 +1848,378 @@
         "en": [
           "Park outside the ZTL zone."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie auch das Megalithareal am Stadtrand. Danach geht es ins historische Zentrum zu den römischen Monumenten und Kirchen. Der Tag endet mit einem ausgiebigen Spaziergang entlang der antiken Mauern.",
+            "hu": "Autóval elérheti a város szélén található megalitikus területet is. Ezután a történelmi központ római műemlékei és templomai következnek. A napot a falak mentén tett kiadós sétával zárhatja.",
+            "ro": "Cu mașina puteți ajunge și la aria megalitică de la marginea orașului. Apoi mergeți în centrul istoric la monumentele și bisericile romane. Ziua se încheie cu o plimbare lungă de-a lungul zidurilor antice.",
+            "en": "By car, you can also reach the Megalithic Area on the outskirts. Then head to the historical center for Roman monuments and churches. The day ends with an extensive walk along the ancient walls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Megalithareal",
+                "hu": "Megalitikus terület",
+                "ro": "Aria megalitică",
+                "en": "Megalithic Area"
+              },
+              "tip_5lang": {
+                "de": "Einzigartige prähistorische Stätte.",
+                "hu": "Egyedülálló őskori lelőhely.",
+                "ro": "Sit preistoric unic.",
+                "en": "Unique prehistoric site."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza Chanoux",
+                "hu": "Piazza Chanoux",
+                "ro": "Piazza Chanoux",
+                "en": "Piazza Chanoux"
+              },
+              "tip_5lang": {
+                "de": "Parkhaus im Zentrum nutzen.",
+                "hu": "Használja a központi parkolóházat.",
+                "ro": "Folosiți parcarea centrală.",
+                "en": "Use the central parking garage."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Theater",
+                "hu": "Római Színház",
+                "ro": "Teatrul Roman",
+                "en": "Roman Theatre"
+              },
+              "tip_5lang": {
+                "de": "Muss man gesehen haben.",
+                "hu": "Ezt látni kell.",
+                "ro": "Trebuie vizitat.",
+                "en": "A must-see."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant'Orso",
+                "hu": "Sant'Orso",
+                "ro": "Sant'Orso",
+                "en": "Sant'Orso"
+              },
+              "tip_5lang": {
+                "de": "Historische Stille.",
+                "hu": "Történelmi csend.",
+                "ro": "Liniște istorică.",
+                "en": "Historical silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Augustusbogen",
+                "hu": "Augustus-ív",
+                "ro": "Arcul lui Augustus",
+                "en": "Arch of Augustus"
+              },
+              "tip_5lang": {
+                "de": "Fotomotiv.",
+                "hu": "Fotótéma.",
+                "ro": "Subiect foto.",
+                "en": "Photo spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Stadtmauer",
+                "hu": "Városfal",
+                "ro": "Zidurile",
+                "en": "Walls"
+              },
+              "tip_5lang": {
+                "de": "Langer Spaziergang zum Abschluss.",
+                "hu": "Hosszú séta zárásként.",
+                "ro": "Plimbare lungă la final.",
+                "en": "Long walk to finish."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Polenta Concia",
+                "tip": "Mit Käse überbacken"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Polenta Concia",
+                "tip": "Sajttal sült puliszka"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Polenta Concia",
+                "tip": "Mămăligă cu brânză"
+              }
+            ],
+            "en": [
+              {
+                "name": "Polenta Concia",
+                "tip": "Polenta with melted cheese"
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Megalith-Park",
+                "tip": "Vorgeschichte",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Megalitikus park",
+                "tip": "Őstörténet",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul megalitic",
+                "tip": "Preistorie",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Megalithic Park",
+                "tip": "Prehistory",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Gros Cidac",
+                "tip": "Großer Markt"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gros Cidac",
+                "tip": "Nagy piac"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gros Cidac",
+                "tip": "Piață mare"
+              }
+            ],
+            "en": [
+              {
+                "name": "Gros Cidac",
+                "tip": "Large market"
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken Sie außerhalb der ZTL-Zone."
+            ],
+            "hu": [
+              "A ZTL zónán kívül parkoljon."
+            ],
+            "ro": [
+              "Parcați în afara zonei ZTL."
+            ],
+            "en": [
+              "Park outside the ZTL zone."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Aosta auch bei Regen komfortabel zu erkunden. Der Morgen beginnt trocken im Megalith-Areal, einer großzügigen Indoor-Ausstellung.\n\nMittags parken Sie nahe der Piazza Chanoux, um unter den Arkaden zu essen. Der Besuch des Römischen Theaters und von Sant'Orso erfolgt zwischen den Schauern. Der Tag endet an den Stadtmauern, wobei Sie die kurzen Wege vom Parkplatz schätzen werden.",
+            "hu": "Autóval Aosta esőben is kényelmesen felfedezhető. A reggel szárazon indul a Megalit-területen, amely egy tágas fedett kiállítás.\n\nDélben a Piazza Chanoux közelében parkolunk, hogy az árkádok alatt ebédeljünk. A Római Színház és Sant'Orso meglátogatása két zápor között történik. A nap a városfalaknál zárul, ahol értékelni fogjuk a parkolótól való rövid távolságot.",
+            "ro": "Cu mașina, Aosta poate fi explorată confortabil chiar și pe ploaie. Dimineața începe la cald în Aria Megalitică, o expoziție interioară generoasă.\n\nLa prânz parcați aproape de Piazza Chanoux pentru a mânca sub arcade. Vizitarea Teatrului Roman și a Sant'Orso are loc între reprizele de ploaie. Ziua se încheie la zidurile cetății.",
+            "en": "Exploring Aosta by car is convenient even during rainy spells. Start your morning at the Megalithic Area, an impressive and completely indoor archaeological site.\n\nAt midday, park near Piazza Chanoux to enjoy lunch under the protective arcades. Visit the Roman Theatre and Sant'Orso between showers to stay as dry as possible. The day ends at the City Walls, where the short walk from the parking area is a major advantage."
+          },
+          "stops": [
+            {
+              "name": "Megalithic Area",
+              "tip_4lang": {
+                "de": "Großer Indoor-Parkplatz direkt am Museum vorhanden.",
+                "hu": "Nagy fedett parkoló áll rendelkezésre közvetlenül a múzeumnál.",
+                "ro": "Parcare interioară mare disponibilă direct la muzeu.",
+                "en": "Large indoor parking available directly at the museum entrance."
+              }
+            },
+            {
+              "name": "Piazza Chanoux",
+              "tip_4lang": {
+                "de": "Parkhaus 'Parcheggio Plouves' ist nur 3 Minuten zu Fuß entfernt.",
+                "hu": "A 'Parcheggio Plouves' parkolóház mindössze 3 perc sétára van.",
+                "ro": "Parcarea supraetajată 'Plouves' este la doar 3 minute de mers pe jos.",
+                "en": "The 'Plouves' parking garage is just a 3-minute walk away."
+              }
+            },
+            {
+              "name": "Roman Theatre",
+              "tip_4lang": {
+                "de": "Regenschirm bereithalten für den Weg vom Auto zum Eingang.",
+                "hu": "Készítse elő az esernyőt az autó és a bejárat közötti útra.",
+                "ro": "Pregătiți umbrela pentru drumul de la mașină până la intrare.",
+                "en": "Keep your umbrella ready for the short walk from the car to the entrance."
+              }
+            },
+            {
+              "name": "Sant'Orso",
+              "tip_4lang": {
+                "de": "Parken Sie entlang der Via Sant'Anselmo für kurzen Zugang.",
+                "hu": "Parkoljon a Via Sant'Anselmo mentén a gyors bejutáshoz.",
+                "ro": "Parcați de-a lungul Via Sant'Anselmo pentru acces rapid.",
+                "en": "Park along Via Sant'Anselmo for the quickest access to the site."
+              }
+            },
+            {
+              "name": "Arch of Augustus",
+              "tip_4lang": {
+                "de": "Kurzer Stopp möglich, Parkplätze oft direkt an der Straße.",
+                "hu": "Rövid megálló lehetséges, parkolóhelyek gyakran közvetlenül az úton.",
+                "ro": "Oprire scurtă posibilă, locuri de parcare adesea direct la stradă.",
+                "en": "Short stop possible with street parking often available nearby."
+              }
+            },
+            {
+              "name": "Walls",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Parkplatz am 'Arco d'Augusto' für den Rundgang.",
+                "hu": "Használja az 'Arco d'Augusto' parkolót a sétához.",
+                "ro": "Folosiți parcarea de la 'Arco d'Augusto' pentru tur.",
+                "en": "Use the 'Arco d'Augusto' parking lot for easy access to the wall walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser 'Plouves' oder 'Consolata' für trockenes Aussteigen.",
+              "Achten Sie auf Pfützen in den tiefergelegenen Bereichen der Megalith-Anlage.",
+              "Die Sicht in den Bergpässen rund um Aosta kann bei Regen stark eingeschränkt sein.",
+              "Lassen Sie nasse Regenschirme im Kofferraum, um die Scheiben nicht zu beschlagen."
+            ],
+            "hu": [
+              "Használja a 'Plouves' vagy 'Consolata' parkolóházakat a száraz kiszálláshoz.",
+              "Ügyeljen a tócsákra a Megalit-terület mélyebben fekvő részein.",
+              "Az Aosta körüli hágókon esőben jelentősen romolhatnak a látási viszonyok.",
+              "Hagyja a vizes esernyőt a csomagtartóban, hogy ne párásodjanak az ablakok."
+            ],
+            "ro": [
+              "Folosiți parcările supraetajate 'Plouves' sau 'Consolata' pentru a coborî la uscat.",
+              "Atenție la bălți în zonele mai joase ale sitului megalitic.",
+              "Vizibilitatea în pasurile montane din jurul Aostei poate fi redusă pe ploaie.",
+              "Lăsați umbrelele ude în portbagaj pentru a evita aburirea geamurilor."
+            ],
+            "en": [
+              "Use 'Plouves' or 'Consolata' parking garages for a completely dry exit.",
+              "Watch for standing water in the lower sections of the Megalithic site.",
+              "Visibility on mountain passes around Aosta can drop significantly during rain.",
+              "Store wet umbrellas in the trunk to prevent the windows from fogging up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Aosta mit dem Auto im Winter bietet Flexibilität und Wärme zwischen den Stopps. Der Morgen beginnt am beeindruckenden Megalith-Areal, das gut beheizt ist.\n\nMittags genießen Sie den Blick auf die schneebedeckten Berge vom Auto aus, bevor Sie für einen kurzen Spaziergang zur Piazza Chanoux parken. Der Nachmittag wird genutzt, um die Stadtmauern und den Augustusbogen zu sehen, bevor es zu kalt wird. Der Tag endet bequem, da Sie jederzeit ins warme Auto zurückkehren können.",
+            "hu": "Aostát autóval felfedezni télen rugalmasságot és meleget jelent a megállók között. A reggel a lenyűgöző Megalit-területen indul, amely jól fűtött.\n\nDélben az autóból élvezhetjük a hófödte hegyek látványát, mielőtt leparkolunk egy rövid sétára a Piazza Chanoux-nál. A délutáni időt a városfalak és az Augustus-ív megtekintésére fordítjuk, mielőtt túl hideg lenne. A nap kényelmesen zárul a fűtött kocsiban.",
+            "ro": "Explorarea Aostei cu mașina iarna oferă flexibilitate și căldură între opriri. Dimineața începe la impresionanta Arie Megalitică, care este bine încălzită.\n\nLa prânz vă bucurați de vederea munților înzăpeziți din mașină, înainte de a parca pentru o scurtă plimbare în Piazza Chanoux. După-amiaza este dedicată zidurilor cetății și Arcului lui Augustus. Ziua se încheie confortabil în mașina încălzită.",
+            "en": "Visiting Aosta by car in winter provides flexibility and a warm retreat between stops. Start your morning at the impressive and climate-controlled Megalithic Area.\n\nAt midday, enjoy the snowy mountain views from the comfort of your vehicle before parking for a brisk walk to Piazza Chanoux. Use the afternoon to see the City Walls and Arch of Augustus before the temperature drops significantly at sunset. The day ends conveniently with a heated ride back."
+          },
+          "stops": [
+            {
+              "name": "Megalithic Area",
+              "tip_4lang": {
+                "de": "Das Museum ist angenehm temperiert, ideal zum Starten.",
+                "hu": "A múzeum kellemes hőmérsékletű, ideális kezdésnek.",
+                "ro": "Muzeul are o temperatură plăcută, ideal pentru început.",
+                "en": "The museum is well-heated, making it an ideal starting point for a cold day."
+              }
+            },
+            {
+              "name": "Piazza Chanoux",
+              "tip_4lang": {
+                "de": "Kurze Wege zum Platz minimieren die Zeit in der Kälte.",
+                "hu": "A rövid séta a térig minimalizálja a hidegben töltött időt.",
+                "ro": "Distanța scurtă până la piață minimizează timpul petrecut în frig.",
+                "en": "Short walking distances to the square minimize exposure to the cold."
+              }
+            },
+            {
+              "name": "Roman Theatre",
+              "tip_4lang": {
+                "de": "Besuchen Sie diesen Stopp, solange die Sonne noch scheint.",
+                "hu": "Akkor látogassa meg ezt a pontot, amikor még süt a nap.",
+                "ro": "Vizitați acest punct cât timp soarele încă strălucește.",
+                "en": "Visit this outdoor site while the sun is still up to catch the best light."
+              }
+            },
+            {
+              "name": "Sant'Orso",
+              "tip_4lang": {
+                "de": "Im Inneren der Kirche ist es meist deutlich wärmer.",
+                "hu": "A templom belsejében általában lényegesen melegebb van.",
+                "ro": "În interiorul bisericii este de obicei mult mai cald.",
+                "en": "The church interior is usually significantly warmer than the outdoors."
+              }
+            },
+            {
+              "name": "Arch of Augustus",
+              "tip_4lang": {
+                "de": "Guter Fotostopp direkt vom Parkplatz am Straßenrand.",
+                "hu": "Jó fotómegálló közvetlenül az út menti parkolóból.",
+                "ro": "Punct foto bun direct din parcarea de la marginea drumului.",
+                "en": "Excellent photo opportunity right from the roadside parking spots."
+              }
+            },
+            {
+              "name": "Walls",
+              "tip_4lang": {
+                "de": "Heizen Sie das Auto vor, bevor Sie den letzten Rundgang machen.",
+                "hu": "Fűtse fel az autót, mielőtt megtenné az utolsó kört.",
+                "ro": "Încălziți mașina înainte de a face ultimul tur.",
+                "en": "Pre-heat your car before finishing your final walk around the walls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Auto wintertauglich ist (Winterreifen sind Pflicht).",
+              "Einige Parkplätze können bei Schneefall nur eingeschränkt nutzbar sein.",
+              "Die Sonne verschwindet früh; schalten Sie das Abblendlicht rechtzeitig ein.",
+              "Nutzen Sie die Sitzheizung, um sich nach den Besichtigungen schnell aufzuwärmen."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy autója fel van készítve a télre (téli gumi kötelező).",
+              "Néhány parkoló hóesés esetén korlátozottan használható.",
+              "A nap korán lebukik; kapcsolja be időben a tompított fényszórót.",
+              "Használja az ülésfűtést a gyors felmelegedéshez a városnézés után."
+            ],
+            "ro": [
+              "Asigurați-vă că mașina este pregătită de iarnă (anvelopele de iarnă sunt obligatorii).",
+              "Unele parcări pot fi parțial utilizabile în caz de ninsoare.",
+              "Soarele apune devreme; aprindeți faza scurtă la timp.",
+              "Folosiți încălzirea în scaune pentru a vă încălzi rapid după vizite."
+            ],
+            "en": [
+              "Ensure your car is winter-ready (winter tires are mandatory in the region).",
+              "Some open-air parking lots might have restricted space during heavy snowfall.",
+              "The sun sets early; make sure to turn on your headlights by 16:30.",
+              "Utilize seat heaters to quickly warm up after your outdoor site visits."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1139,6 +2447,346 @@
         "en": [
           "Buy single tickets at tobacco shops."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das lokale Busnetz, um die wichtigsten Punkte schnell zu erreichen. Vom Augustusbogen zum Theater und zur Kathedrale. Der Tag endet im beeindruckenden Museum.",
+            "hu": "Használja a helyi buszhálózatot a legfontosabb pontok gyors eléréséhez. Az Augustus-ívtől a színházig és a katedrálisig. A nap a lenyűgöző múzeumban ér véget.",
+            "ro": "Folosiți rețeaua locală de autobuze pentru a ajunge rapid la punctele principale. De la Arcul lui Augustus la teatru și catedrală. Ziua se încheie la muzeul impresionant.",
+            "en": "Use the local bus network to quickly reach the key points. From the Arch of Augustus to the theatre and the cathedral. The day ends in the impressive museum."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Augustusbogen",
+                "hu": "Augustus-ív",
+                "ro": "Arcul lui Augustus",
+                "en": "Arch of Augustus"
+              },
+              "tip_5lang": {
+                "de": "Buslinie 1.",
+                "hu": "1-es buszvonal.",
+                "ro": "Linia de autobuz 1.",
+                "en": "Bus line 1."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Theater",
+                "hu": "Római Színház",
+                "ro": "Teatrul Roman",
+                "en": "Roman Theatre"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Bus.",
+                "hu": "Rövid séta a busztól.",
+                "ro": "Scurtă plimbare de la autobuz.",
+                "en": "Short walk from the bus."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza Chanoux",
+                "hu": "Piazza Chanoux",
+                "ro": "Piazza Chanoux",
+                "en": "Piazza Chanoux"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt.",
+                "hu": "Központi csomópont.",
+                "ro": "Nod central.",
+                "en": "Central hub."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale",
+                "hu": "Katedrális",
+                "ro": "Catedrala",
+                "en": "Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Stille genießen.",
+                "hu": "Élvezze a csendet.",
+                "ro": "Bucurați-vă de liniște.",
+                "en": "Enjoy the silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul de Arheologie",
+                "en": "Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Viel Zeit für die Geschichte.",
+                "hu": "Sok idő a történelemre.",
+                "ro": "Mult timp pentru istorie.",
+                "en": "Plenty of time for history."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Génépy",
+                "tip": "Likörspezialität"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Génépy",
+                "tip": "Gyógynövény likőr"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Génépy",
+                "tip": "Lichior de plante"
+              }
+            ],
+            "en": [
+              {
+                "name": "Génépy",
+                "tip": "Herbal liqueur"
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Museumsgarten",
+                "tip": "Ruhige Ecke",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Múzeumkert",
+                "tip": "Nyugodt sarok",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina muzeului",
+                "tip": "Colț liniștit",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Museum Garden",
+                "tip": "Quiet corner",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Marktplatz",
+                "tip": "Wochenmarkt"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Piac tér",
+                "tip": "Heti piac"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața centrală",
+                "tip": "Piață săptămânală"
+              }
+            ],
+            "en": [
+              {
+                "name": "Market Square",
+                "tip": "Weekly market"
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Einzeltickets im Tabakladen kaufen."
+            ],
+            "hu": [
+              "Vásároljon jegyet a dohányboltokban."
+            ],
+            "ro": [
+              "Cumpărați bilete de la chioșcurile de ziare."
+            ],
+            "en": [
+              "Buy single tickets at tobacco shops."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Aosta lässt sich bei Regen gut mit dem Stadtbus erkunden. Der Morgen beginnt am Augustusbogen, der nur wenige Schritte von der Bushaltestelle entfernt liegt.\n\nMittags bringt Sie der Bus zur Piazza Chanoux, wo Sie unter den Arkaden trocken bleiben. Der Nachmittag ist für die Kathedrale und das Archäologische Museum reserviert, die beide exzellent an das Verkehrsnetz angebunden sind. So minimieren Sie die Zeit im Regen.",
+            "hu": "Aosta esőben is jól felfedezhető a helyi buszokkal. A reggel az Augustus-ívnél indul, amely csak pár lépésre van a buszmegállótól.\n\nDélben a busz a Piazza Chanoux-hoz visz, ahol az árkádok alatt szárazon maradhatunk. A délután a Katedrálisé és az Archeológiai Múzeumé, amelyek mindketten kiválóan megközelíthetők tömegközlekedéssel, így minimalizálva az esőben töltött időt.",
+            "ro": "Aosta poate fi explorată bine cu autobuzul urban pe ploaie. Dimineața începe la Arcul lui Augustus, aflat la doar câțiva pași de stația de autobuz.\n\nLa prânz, autobuzul vă duce la Piazza Chanoux, unde rămâneți uscați sub arcade. După-amiaza este rezervată Catedralei și Muzeului Arheologic, ambele fiind excelent conectate la rețeaua de transport.",
+            "en": "Aosta is easy to navigate by city bus during rainy weather. Start your morning at the Arch of Augustus, located just steps away from a major bus stop.\n\nAt midday, take the bus to Piazza Chanoux to stay dry under the historic arcades. Reserve your afternoon for the Cathedral and the Archaeological Museum, both of which are excellently connected to the transit network, minimizing your exposure to the rain."
+          },
+          "stops": [
+            {
+              "name": "Arch of Augustus",
+              "tip_4lang": {
+                "de": "Die Bushaltestelle 'Arco d'Augusto' bietet einen kleinen Unterstand.",
+                "hu": "Az 'Arco d'Augusto' buszmegálló kis fedett váróval rendelkezik.",
+                "ro": "Stația de autobuz 'Arco d'Augusto' are un mic adăpost.",
+                "en": "The 'Arco d'Augusto' bus stop has a small shelter to keep you dry."
+              }
+            },
+            {
+              "name": "Roman Theatre",
+              "tip_4lang": {
+                "de": "Nur 5 Minuten Fußweg von der Bushaltestelle 'Via Baillage'.",
+                "hu": "Mindössze 5 perc séta a 'Via Baillage' buszmegállótól.",
+                "ro": "Doar 5 minute de mers pe jos de la stația 'Via Baillage'.",
+                "en": "Just a 5-minute walk from the 'Via Baillage' bus stop."
+              }
+            },
+            {
+              "name": "Piazza Chanoux",
+              "tip_4lang": {
+                "de": "Zentraler Knotenpunkt vieler Linien, ideal für den Umstieg.",
+                "hu": "Számos vonal központi csomópontja, ideális az átszálláshoz.",
+                "ro": "Nod central pentru multe linii, ideal pentru transfer.",
+                "en": "A central hub for many bus lines, perfect for switching routes."
+              }
+            },
+            {
+              "name": "Cathedral",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Bus bis zur Haltestelle 'Piazza Giovanni XXIII'.",
+                "hu": "Használja a buszt a 'Piazza Giovanni XXIII' megállóig.",
+                "ro": "Folosiți autobuzul până la stația 'Piazza Giovanni XXIII'.",
+                "en": "Take the bus directly to the 'Piazza Giovanni XXIII' stop."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_4lang": {
+                "de": "Die Haltestelle 'Piazza Roncas' liegt fast direkt vor dem Eingang.",
+                "hu": "A 'Piazza Roncas' megálló szinte közvetlenül a bejárat előtt van.",
+                "ro": "Stația 'Piazza Roncas' este aproape direct în fața intrării.",
+                "en": "The 'Piazza Roncas' stop is located almost directly in front of the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten vorab in Tabakläden, um nicht im Regen zu suchen.",
+              "Die Busse in Aosta sind meist pünktlich, nutzen Sie die Fahrplan-Apps.",
+              "Tragen Sie eine Regenjacke, da die Haltestellen nicht immer komplett überdacht sind.",
+              "Nutzen Sie die Wartezeiten an großen Knotenpunkten wie 'Piazza Chanoux' unter Arkaden."
+            ],
+            "hu": [
+              "Vásárolja meg a jegyeket előre a trafikokban, hogy ne az esőben kelljen keresgélni.",
+              "Az aostai buszok általában pontosak, használja a menetrendi alkalmazásokat.",
+              "Viseljen esőkabátot, mert a megállók nem mindig teljesen fedettek.",
+              "A várakozási időt a nagy csomópontoknál (pl. Piazza Chanoux) töltse az árkádok alatt."
+            ],
+            "ro": [
+              "Cumpărați biletele în avans de la chioșcurile de ziare pentru a nu căuta pe ploaie.",
+              "Autobuzele din Aosta sunt de obicei punctuale, folosiți aplicațiile cu orarul.",
+              "Purtați o pelerină de ploaie, deoarece stațiile nu sunt întotdeauna complet acoperite.",
+              "Petreceți timpul de așteptare la nodurile mari sub arcade."
+            ],
+            "en": [
+              "Buy your tickets in advance at 'tabacchi' shops to avoid searching in the rain.",
+              "Aosta city buses are generally punctual; use local apps for real-time schedules.",
+              "Wear a rain jacket as bus stop shelters aren't always large enough for everyone.",
+              "Wait for your connections at major hubs like 'Piazza Chanoux' under the arcades."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter sind die beheizten Stadtbusse von Aosta eine willkommene Erleichterung. Der Morgen startet am Augustusbogen, wo der Bus Sie fast direkt vor das Monument bringt.\n\nMittags erreichen Sie bequem das Römische Theater und die Piazza Chanoux. Die Fahrten bieten kurze Pausen zum Aufwärmen zwischen den Außenbesichtigungen. Der Tag endet an der Kathedrale und dem Museum, wobei Sie die kurzen Wege von den Haltestellen in der klirrenden Kälte schätzen werden.",
+            "hu": "Télen Aosta fűtött buszai örömteli könnyebbséget jelentenek. A reggel az Augustus-ívnél indul, ahová a busz szinte közvetlenül az emlékmű elé visz.\n\nDélben kényelmesen elérhető a Római Színház és a Piazza Chanoux. Az utazások rövid pihenőt és felmelegedést kínálnak a külső helyszínek között. A nap a Katedrálisnál és a múzeumnál ér véget, ahol értékelni fogjuk a megállóktól való rövid távolságot a metsző hidegben.",
+            "ro": "Iarna, autobuzele încălzite din Aosta sunt o ușurare binevenită. Dimineața începe la Arcul lui Augustus, unde autobuzul vă lasă aproape direct în fața monumentului.\n\nLa prânz ajungeți confortabil la Teatrul Roman și în Piazza Chanoux. Călătoriile oferă scurte pauze pentru a vă încălzi între vizitele exterioare. Ziua se încheie la Catedrală și la muzeu.",
+            "en": "In winter, Aosta's heated city buses are a welcome relief from the mountain chill. Start your morning at the Arch of Augustus, with the bus dropping you off very close to the site.\n\nAt midday, reach the Roman Theatre and Piazza Chanoux with ease. The short bus rides provide essential moments to warm up between outdoor stops. The day concludes at the Cathedral and the Museum, where you'll appreciate the short walks from the bus stops in the freezing air."
+          },
+          "stops": [
+            {
+              "name": "Arch of Augustus",
+              "tip_4lang": {
+                "de": "Stellen Sie sich in den Windschatten des Haltestellenhäuschens.",
+                "hu": "Álljon a megálló várójának szélvédett oldalára.",
+                "ro": "Stați la adăpostul stației pentru a evita vântul.",
+                "en": "Stand inside the bus shelter to block the biting alpine wind."
+              }
+            },
+            {
+              "name": "Roman Theatre",
+              "tip_4lang": {
+                "de": "Achten Sie beim Aussteigen auf glatte Stellen am Gehweg.",
+                "hu": "Leszálláskor ügyeljen a járdán lévő csúszós szakaszokra.",
+                "ro": "Atenție la porțiunile alunecoase de pe trotuar la coborâre.",
+                "en": "Watch for icy patches on the sidewalk when exiting the bus."
+              }
+            },
+            {
+              "name": "Piazza Chanoux",
+              "tip_4lang": {
+                "de": "Der Busbahnhof 'Autostazione' ist ebenfalls in der Nähe.",
+                "hu": "Az 'Autostazione' buszállomás szintén a közelben van.",
+                "ro": "Autogara 'Autostazione' este de asemenea în apropiere.",
+                "en": "The main 'Autostazione' bus station is also within walking distance."
+              }
+            },
+            {
+              "name": "Cathedral",
+              "tip_4lang": {
+                "de": "In den Abendstunden sind die Busse oft wärmer und leerer.",
+                "hu": "Az esti órákban a buszok gyakran melegebbek és üresebbek.",
+                "ro": "În orele serii, autobuzele sunt adesea mai calde și mai goale.",
+                "en": "In the evenings, buses are often warmer and less crowded."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_4lang": {
+                "de": "Von hier fahren viele Linien zurück zum Bahnhof.",
+                "hu": "Innen számos vonal visszavisz a vasútállomáshoz.",
+                "ro": "De aici pleacă multe linii înapoi spre gară.",
+                "en": "Many lines run from here back to the central train station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter gut beheizt; ideal für kleine Aufwärmpausen.",
+              "Beachten Sie, dass es ab 16:30 Uhr bereits stark dämmert.",
+              "Halten Sie Kleingeld oder kontaktlose Karten für den Fahrkartenkauf bereit.",
+              "Tragen Sie rutschfeste Schuhe für den Weg von der Haltestelle zum Ziel."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek; ideálisak egy kis felmelegedésre.",
+              "Vegye figyelembe, hogy 16:30-tól már erősen szürkül.",
+              "Készítsen elő aprópénzt vagy érintős kártyát a jegyvásárláshoz.",
+              "Viseljen csúszásmentes cipőt a megálló és a célpont közötti szakaszra."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna; ideale pentru scurte pauze de încălzire.",
+              "Rețineți că de la ora 16:30 începe deja să se însereze puternic.",
+              "Aveți pregătit mărunt sau carduri contactless pentru plata biletului.",
+              "Purtați încălțăminte antiderapantă pentru drumul de la stație la destinație."
+            ],
+            "en": [
+              "City buses are well-heated in winter; use them as mobile warming stations.",
+              "Keep in mind that twilight begins as early as 16:30 in the valley.",
+              "Have small change or contactless cards ready for quick ticket purchases.",
+              "Wear non-slip footwear for the short walks between stops and monuments."
+            ]
+          }
+        }
       }
     }
   },

@@ -292,6 +292,423 @@
           "Early morning is the best time for photos at the cathedral.",
           "Notice the fishbone layout of the streets, designed to block winds."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens betreten Sie die Stadt durch das Revelin-Tor. Vormittags erkunden Sie die Kathedrale und die Schatzkammer. Mittags genießen Sie hausgemachte Makaruni in einer schattigen Gasse. Nachmittags spazieren Sie auf den Mauern und besuchen Marco Polos Haus. Abends lassen Sie den Tag am Seetor mit Blick auf den Pelješac-Kanal ausklingen.",
+            "hu": "Reggel a Revelin-tornyon át lépjen be a középkori díszletek közé. Délelőtt a székesegyházat és a kincstárat fedezze fel. Ebédre egyen žrnovski makarunit egy hangulatos kis vendéglőben. Délután járja be a városfalakat és nézze meg Marco Polo házát. Este a Tengeri kapunál fejezze be a sétát, csodálva a tengeri panorámát.",
+            "ro": "Dimineața intrați în oraș prin Poarta Revelin. Vizitați Catedrala și Tezaurul Episcopal înainte de prânz. La amiază, încercați pastele tradiționale makaruni într-o tavernă locală. După-amiaza, plimbați-vă pe zidurile cetății și vizitați casa lui Marco Polo. Seara se încheie la Poarta Mării, privind apusul peste canalul Pelješac.",
+            "en": "Morning starts by entering through the Revelin Gate. Visit the Cathedral and the Treasury before noon. For lunch, savor handmade pasta in a narrow stone alley. In the afternoon, walk the ancient walls and visit Marco Polo's house. End your day at the Sea Gate, watching the boats cross the Pelješac channel."
+          },
+          "stops": [
+            {
+              "name": "Landtor Revelin",
+              "tip_5lang": {
+                "de": "Achten Sie auf das venezianische Wappen über dem Bogendurchgang.",
+                "hu": "Figyelje meg a velencei címert a boltíves bejárat felett.",
+                "ro": "Observați stema venețiană deasupra arcadei de intrare.",
+                "en": "Look for the Venetian coat of arms above the arched entrance."
+              }
+            },
+            {
+              "name": "Stadtmauern von Korčula",
+              "tip_5lang": {
+                "de": "Die Nordmauer bietet den besten Schatten und Blick auf das Meer.",
+                "hu": "Az északi fal kínálja a legjobb árnyékot és kilátást a tengerre.",
+                "ro": "Zidul de nord oferă cea mai bună umbră și vedere la mare.",
+                "en": "The northern wall offers the best shade and sea views."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Markus",
+              "tip_5lang": {
+                "de": "Steigen Sie auf den Glockenturm für ein 360-Grad-Panorama.",
+                "hu": "Másszon fel a harangtoronyba a 360 fokos panorámáért.",
+                "ro": "Urcați în clopotniță pentru o panoramă de 360 de grade.",
+                "en": "Climb the bell tower for a 360-degree panorama."
+              }
+            },
+            {
+              "name": "Bischofsschatzkammer",
+              "tip_5lang": {
+                "de": "Bewundern Sie die venezianischen Gemälde und alten Messgewänder.",
+                "hu": "Csodálja meg a velencei festményeket és a régi miseruhákat.",
+                "ro": "Admirați picturile venețiene și vechile haine bisericești.",
+                "en": "Admire the Venetian paintings and ancient liturgical vestments."
+              }
+            },
+            {
+              "name": "Marco Polos Geburtshaus",
+              "tip_5lang": {
+                "de": "Der kleine Turm des Hauses ist ein perfekter Fotospot.",
+                "hu": "A ház kis tornya tökéletes helyszín a fotózáshoz.",
+                "ro": "Micul turn al casei este un loc perfect pentru fotografii.",
+                "en": "The house's small tower is a perfect photo spot."
+              }
+            },
+            {
+              "name": "Turm des Seetors",
+              "tip_5lang": {
+                "de": "Hier finden Sie oft lokale Künstler, die ihre Werke ausstellen.",
+                "hu": "Itt gyakran találkozhat helyi művészekkel, akik kiállítják műveiket.",
+                "ro": "Aici veți găsi adesea artiști locali care își expun lucrările.",
+                "en": "You'll often find local artists exhibiting their work here."
+              }
+            },
+            {
+              "name": "Allerheiligenkirche",
+              "tip_5lang": {
+                "de": "Besuchen Sie das kleine Ikonenmuseum direkt neben der Kirche.",
+                "hu": "Látogassa meg a templom melletti kis ikonmúzeumot.",
+                "ro": "Vizitați micul muzeu de icoane chiar lângă biserică.",
+                "en": "Visit the small icon museum right next to the church."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Adio Mare",
+                "tip": "Probieren Sie die Žrnovski Makaruni, eine traditionelle Pasta."
+              },
+              {
+                "name": "Lojanica",
+                "tip": "Ein klassisches Dessert mit Mandeln und Zitrusfrüchten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Adio Mare",
+                "tip": "Kóstolja meg a žrnovski makarunit, a hagyományos tésztát."
+              },
+              {
+                "name": "Lojanica",
+                "tip": "Klasszikus mandulás és citrusos desszert."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Adio Mare",
+                "tip": "Încercați žrnovski makaruni, pastele tradiționale."
+              },
+              {
+                "name": "Lojanica",
+                "tip": "Un desert clasic cu migdale și citrice."
+              }
+            ],
+            "en": [
+              {
+                "name": "Adio Mare",
+                "tip": "Try the žrnovski makaruni, a traditional handmade pasta."
+              },
+              {
+                "name": "Lojanica",
+                "tip": "A classic dessert made with almonds and citrus fruits."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Zakerjan Promenade",
+                "tip": "Ruhiger Spaziergang entlang der Ostmauern.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Sankt-Nikolaus-Kirche",
+                "tip": "Ein friedlicher Platz abseits der Massen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Zakerjan sétány",
+                "tip": "Csendes séta a keleti városfalak mentén.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Szent Miklós templom",
+                "tip": "Békés hely a tömegtől távol.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Promenada Zakerjan",
+                "tip": "Plimbare liniștită de-a lungul zidurilor de est.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Biserica Sfântul Nicolae",
+                "tip": "Un loc liniștit departe de mulțime.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Zakerjan Promenade",
+                "tip": "Quiet walk along the eastern city walls.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "St. Nicholas Church",
+                "tip": "A peaceful spot away from the crowds.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Grk Weinkeller",
+                "tip": "Kaufen Sie den einzigartigen Weißwein aus Lumbarda."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Grk borospince",
+                "tip": "Vásároljon az egyedülálló lumbardai fehérborból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Crama Grk",
+                "tip": "Cumpărați vinul alb unic din Lumbarda."
+              }
+            ],
+            "en": [
+              {
+                "name": "Grk Wine Cellar",
+                "tip": "Buy the unique white wine produced in nearby Lumbarda."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen.",
+              "Die Altstadt ist klein, man kann sich kaum verlaufen.",
+              "Früh morgens ist das Licht für Fotos an der Kathedrale am besten.",
+              "Achten Sie auf die Fischgrätenstruktur der Straßen, die vor Wind schützt."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "Az óváros kicsi, szinte lehetetlen eltévedni.",
+              "Kora reggel a legjobb a fény a székesegyháznál való fotózáshoz.",
+              "Figyelje meg az utcák halcsont szerkezetét, amely véd a széltől."
+            ],
+            "ro": [
+              "Purtați pantofi confortabili pentru străzile pietruite.",
+              "Orașul vechi este mic, este aproape imposibil să vă rătăciți.",
+              "Dimineața devreme lumina este cea mai bună pentru fotografii la catedrală.",
+              "Observați structura străzilor în formă de os de pește, care protejează de vânt."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestone streets.",
+              "The old town is small, it's almost impossible to get lost.",
+              "Early morning is the best time for photos at the cathedral.",
+              "Notice the fishbone layout of the streets, designed to block winds."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Revelin-Tor, wo die Steine im Regen glänzen. Der Vormittag gehört den Museen und der Kathedrale, die perfekten Schutz vor den Güssen bieten. Mittags erkunden Sie Marco Polos Erbe in den engen Gassen, die bei Regen besonders atmosphärisch wirken. Den Nachmittag verbringen Sie in der Schatzkammer und beenden den Tag bei einem Glas Wein in einer gemütlichen Bar.",
+            "hu": "Kezdje a napot a Revelin-kapunál, ahol az esőben megcsillannak a kövek. A délelőtt a múzeumoké és a székesegyházé, amelyek tökéletes menedéket nyújtanak. Délben fedezze fel Marco Polo örökségét a szűk utcákon, amelyek esőben különösen hangulatosak. A délutánt töltse a kincstárban, majd zárja a napot egy pohár borral egy barátságos bárban a várfalak tövében.",
+            "ro": "Începeți ziua la Poarta Revelin, unde pietrele strălucesc în ploaie. Dimineața este dedicată muzeelor și catedralei, care oferă adăpost perfect. La prânz, explorați moștenirea lui Marco Polo pe străzile înguste, care sunt deosebit de atmosferice pe ploaie. Petreceți după-amiaza în trezorerie și încheiați ziua cu un pahar de vin într-un bar primitor lângă zidurile cetății.",
+            "en": "Start your day at the Revelin Gate, where the stones glisten in the rain. Spend the morning in the museums and the cathedral, providing perfect shelter from the downpours. At midday, explore Marco Polo's heritage in the narrow streets, which feel especially atmospheric in the rain. Spend the afternoon in the treasury and end the day with a glass of wine in a cozy bar by the walls."
+          },
+          "stops": [
+            {
+              "name": "Landtor Revelin",
+              "tip_5lang": {
+                "de": "Suchen Sie unter dem Torbogen Schutz, während Sie den Aufstieg planen.",
+                "hu": "Keressen menedéket a boltív alatt, amíg megtervezi a belépést.",
+                "ro": "Căutați adăpost sub arcada porții în timp ce vă planificați intrarea.",
+                "en": "Seek shelter under the archway while planning your entry."
+              }
+            },
+            {
+              "name": "Stadtmauern von Korčula",
+              "tip_5lang": {
+                "de": "Vorsicht, die Kalksteinstufen können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat, a mészkő lépcsők nedvesen nagyon csúszósak lehetnek.",
+                "ro": "Atenție, treptele de calcar pot fi foarte alunecoase când sunt ude.",
+                "en": "Caution, the limestone steps can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Markus",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen schweren Regenschauer trocken abzuwarten.",
+                "hu": "Ideális hely egy komolyabb zápor szárazon történő átvészeléséhez.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse puternice.",
+                "en": "An ideal place to wait out a heavy rain shower in the dry."
+              }
+            },
+            {
+              "name": "Bischofsschatzkammer",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenzeit für eine ausführliche Besichtigung der Exponate.",
+                "hu": "Használja ki az esős időt a kiállítási tárgyak alapos megtekintésére.",
+                "ro": "Profitați de timpul ploios pentru o vizitare detaliată a exponatelor.",
+                "en": "Take advantage of the rainy weather for a detailed tour of the exhibits."
+              }
+            },
+            {
+              "name": "Marco Polos Geburtshaus",
+              "tip_5lang": {
+                "de": "Der Turm bietet trotz Regen einen dramatischen Blick auf das Meer.",
+                "hu": "A torony az eső ellenére is drámai kilátást nyújt a tengerre.",
+                "ro": "Turnul oferă o vedere dramatică asupra mării, în ciuda ploii.",
+                "en": "The tower offers a dramatic view of the sea despite the rain."
+              }
+            },
+            {
+              "name": "Turm des Seetors",
+              "tip_5lang": {
+                "de": "Hier kann es bei Wind und Regen recht ungemütlich werden; kurz halten.",
+                "hu": "Itt szélben és esőben kellemetlen lehet; tartson rövid pihenőt.",
+                "ro": "Aici poate fi neplăcut pe vânt și ploaie; faceți o oprire scurtă.",
+                "en": "It can be unpleasant here in wind and rain; keep your visit brief."
+              }
+            },
+            {
+              "name": "Allerheiligenkirche",
+              "tip_5lang": {
+                "de": "Die kleine Kirche bietet eine ruhige, trockene Atmosphäre zum Abschluss.",
+                "hu": "A kis templom csendes, száraz környezetet biztosít a nap végére.",
+                "ro": "Mica biserică oferă o atmosferă liniștită și uscată pentru finalul zilei.",
+                "en": "The small church provides a quiet, dry atmosphere for the end of the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil, da das Pflaster extrem glatt wird.",
+              "Korčulas Gassen sind eng, Regenschirme können andere behindern; Regenjacken sind besser.",
+              "Die meisten Museen befinden sich nah beieinander, was lange Wege im Freien vermeidet.",
+              "Nutzen Sie die Cafés in den Loggien für trockene Pausen mit Aussicht."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt, mert a kövezet rendkívül csúszóssá válik.",
+              "Korčula utcái szűkek, az esernyő akadályozhat másokat; a széldzseki praktikusabb.",
+              "A legtöbb múzeum közel van egymáshoz, így elkerülheti a hosszú kinti sétákat.",
+              "Használja ki a fedett loggiák kávézóit a száraz, de kilátást nyújtó szünetekhez."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună, deoarece pavajul devine extrem de alunecos.",
+              "Străzile din Korčula sunt înguste, umbrelele pot încurca; pelerinele sunt mai practice.",
+              "Majoritatea muzeelor sunt aproape unul de celălalt, evitând drumurile lungi prin exterior.",
+              "Folosiți cafenelele din loggii pentru pauze uscate cu vedere la oraș."
+            ],
+            "en": [
+              "Wear shoes with good grip as the pavement becomes extremely slippery.",
+              "Korčula's streets are narrow, umbrellas can obstruct others; rain jackets are better.",
+              "Most museums are close to each other, avoiding long walks in the open air.",
+              "Use the cafes in the loggias for dry breaks with a view."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das authentische Korčula ohne die Sommermassen. Der Morgen ist frisch und klar, ideal für einen Spaziergang auf den Stadtmauern. Mittags wärmen Sie sich in den geschichtsträchtigen Kirchen und Museen auf. Da die Sonne bereits gegen 16:30 Uhr sinkt, nutzen Sie das goldene Licht am Nachmittag für Fotos am Seetor, bevor Sie den Abend in einer lokalen Konoba verbringen.",
+            "hu": "Tapasztalja meg a hiteles Korčulát a nyári tömeg nélkül. A reggel friss és tiszta, ideális a városfalakon tett sétához. Délben melegedjen fel a történelmi templomokban és múzeumokban. Mivel a nap már 16:30 körül lemegy, használja ki a délutáni aranyfényeket a tengeri kapunál, mielőtt az estét egy helyi konobában töltené.",
+            "ro": "Experimentați Korčula autentică fără mulțimile de vară. Dimineața este proaspătă și senină, ideală pentru o plimbare pe zidurile cetății. La prânz, încălziți-vă în bisericile și muzeele pline de istorie. Deoarece soarele apune deja în jur de 16:30, profitați de lumina aurie de după-amiază la Poarta Mării înainte de a petrece seara într-o konoba locală.",
+            "en": "Experience authentic Korčula without the summer crowds. The morning is fresh and clear, ideal for a walk on the city walls. At midday, warm up in the historic churches and museums. Since the sun sets around 16:30, use the golden afternoon light for photos at the Sea Gate before spending the evening in a local konoba."
+          },
+          "stops": [
+            {
+              "name": "Landtor Revelin",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten für den Aufstieg auf den Turm.",
+                "hu": "Ellenőrizze a téli nyitvatartást a toronyba való feljutáshoz.",
+                "ro": "Verificați programul de iarnă pentru urcarea în turn.",
+                "en": "Check winter opening hours for climbing the tower."
+              }
+            },
+            {
+              "name": "Stadtmauern von Korčula",
+              "tip_5lang": {
+                "de": "Die Fernsicht auf das Pelješac-Gebirge ist im Winter oft klarer.",
+                "hu": "A kilátás a Pelješac-hegységre télen gyakran sokkal tisztább.",
+                "ro": "Vizibilitatea spre munții Pelješac este adesea mai clară iarna.",
+                "en": "The views of the Pelješac mountains are often clearer in winter."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Markus",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, in der Kathedrale kann es sehr kühl sein.",
+                "hu": "Öltözzön rétegesen, a székesegyház belseje ilyenkor hűvös lehet.",
+                "ro": "Îmbrăcați-vă bine, interiorul catedralei poate fi foarte răcoros acum.",
+                "en": "Dress warmly, the interior of the cathedral can be quite chilly now."
+              }
+            },
+            {
+              "name": "Bischofsschatzkammer",
+              "tip_5lang": {
+                "de": "Ein beheizter Raum, ideal um die Kälte für eine Stunde zu vergessen.",
+                "hu": "Fűtött helyiség, ideális a hideg elfelejtésére egy órára.",
+                "ro": "O încăpere încălzită, ideală pentru a uita de frig timp de o oră.",
+                "en": "A heated space, ideal for forgetting the cold for an hour."
+              }
+            },
+            {
+              "name": "Marco Polos Geburtshaus",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die späten Nachmittagsstunden wegen des frühen Schattenwurfs.",
+                "hu": "Kerülje a késő délutáni órákat a korai árnyékok miatt.",
+                "ro": "Evitați orele târzii ale după-amiezii din cauza umbrelor timpurii.",
+                "en": "Avoid late afternoon hours due to early shadows."
+              }
+            },
+            {
+              "name": "Turm des Seetors",
+              "tip_5lang": {
+                "de": "Der Bura-Wind kann hier sehr schneidend sein; Schal nicht vergessen.",
+                "hu": "A bóra szél itt metsző lehet; ne felejtse el a sálat.",
+                "ro": "Vântul Bura poate fi tăios aici; nu uitați fularul.",
+                "en": "The Bura wind can be very biting here; don't forget your scarf."
+              }
+            },
+            {
+              "name": "Allerheiligenkirche",
+              "tip_5lang": {
+                "de": "Die Ikonensammlung ist im sanften Winterlicht besonders sehenswert.",
+                "hu": "Az ikongyűjtemény a lágy téli fényben különösen látványos.",
+                "ro": "Colecția de icoane este remarcabilă în lumina blândă a iernii.",
+                "en": "The icon collection is particularly worth seeing in the soft winter light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht früh unter (ca. 16:30), planen Sie Außenaktivitäten vorab.",
+              "Viele Restaurants haben Winterpause; suchen Sie nach Lokalen für Einheimische.",
+              "Die Bura (Nordwind) kann die gefühlte Temperatur stark senken.",
+              "Genießen Sie die Ruhe; Sie haben die Sehenswürdigkeiten fast für sich allein."
+            ],
+            "hu": [
+              "A nap korán nyugszik (kb. 16:30), a kinti programokat tervezze előre.",
+              "Sok étterem zárva tart télen; keressen a helyiek által kedvelt helyeket.",
+              "A bóra (északi szél) jelentősen csökkentheti a hőérzetet.",
+              "Élvezze a nyugalmat; a látnivalók szinte csak az Öné lesznek."
+            ],
+            "ro": [
+              "Soarele apune devreme (aprox. 16:30), planificați activitățile externe din timp.",
+              "Multe restaurante sunt închise iarna; căutați localurile frecventate de localnici.",
+              "Vântul Bura poate scădea considerabil temperatura resimțită.",
+              "Bucurați-vă de liniște; veți avea obiectivele turistice aproape doar pentru voi."
+            ],
+            "en": [
+              "The sun sets early (approx. 16:30), plan outdoor activities in advance.",
+              "Many restaurants are closed in winter; look for spots favored by locals.",
+              "The Bura (north wind) can significantly lower the perceived temperature.",
+              "Enjoy the peace; you will have the sights almost entirely to yourself."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -524,6 +941,360 @@
           "Bring plenty of water as there is little shade outside town.",
           "Lock your bike securely before entering the pedestrian-only old town."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Fahrrad, um die Umgebung der Altstadt zu erkunden. Starten Sie im Zentrum, besuchen Sie die Kathedrale und das Marco Polo Haus. Mittags radeln Sie zum Sankt-Anton-Hügel für die beste Aussicht. Nachmittags kehren Sie für einen Spaziergang auf den Mauern zurück. Abends genießen Sie ein kühles Getränk am Hafen.",
+            "hu": "Használja a kerékpárt az óváros környékének felfedezéséhez. Kezdjen a központban, nézze meg a székesegyházat és a Marco Polo házat. Ebédidőben tekerjen el a Szent Antal-dombhoz a legjobb kilátásért. Délután térjen vissza a városfalakhoz egy sétára. Este fogyasszon el egy hűsítőt a kikötőben.",
+            "ro": "Folosiți bicicleta pentru a explora împrejurimile orașului vechi. Începeți în centru, vizitați Catedrala și casa lui Marco Polo. La prânz, pedalați spre Dealul Sfântul Anton pentru cea mai bună vedere. După-amiaza, reveniți pentru o plimbare pe ziduri. Seara, savurați o băutură rece în port.",
+            "en": "Use a bike to explore the outskirts of the old town. Start in the center with the Cathedral and Marco Polo's house. At midday, cycle to St. Anthony's Hill for the best panorama. Return in the afternoon to walk the city walls. Spend your evening enjoying a cold drink at the harbor."
+          },
+          "stops": [
+            {
+              "name": "Landtor Revelin",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad vor dem Tor, die Altstadt ist fußläufig.",
+                "hu": "Parkolja le a biciklit a kapu előtt, az óváros gyalogos zóna.",
+                "ro": "Parcați bicicleta în fața porții, orașul vechi este pietonal.",
+                "en": "Park your bike outside the gate, the old town is pedestrian only."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Markus",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade, bevor Sie eintreten.",
+                "hu": "Csodálja meg a homlokzatot, mielőtt belépne.",
+                "ro": "Admirați fațada înainte de a intra.",
+                "en": "Admire the facade before entering."
+              }
+            },
+            {
+              "name": "Marco Polos Geburtshaus",
+              "tip_5lang": {
+                "de": "Ein Muss für Geschichtsinteressierte.",
+                "hu": "Történelemkedvelőknek kötelező látnivaló.",
+                "ro": "O vizită obligatorie pentru pasionații de istorie.",
+                "en": "A must-see for history enthusiasts."
+              }
+            },
+            {
+              "name": "Turm des Seetors",
+              "tip_5lang": {
+                "de": "Genießen Sie die Meeresbrise.",
+                "hu": "Élvezze a tengeri szellőt.",
+                "ro": "Bucurați-vă de briza mării.",
+                "en": "Enjoy the sea breeze."
+              }
+            },
+            {
+              "name": "Sankt-Anton-Hügel",
+              "tip_5lang": {
+                "de": "Fahren Sie die Zypressenallee hinauf zur kleinen Kapelle.",
+                "hu": "Tekerjen fel a ciprusfasoron a kis kápolnához.",
+                "ro": "Pedalați pe aleea cu chiparoși până la mica capelă.",
+                "en": "Cycle up the cypress alley to the small chapel."
+              }
+            },
+            {
+              "name": "Stadtmauern von Korčula",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour mit einem Blick über die Stadt.",
+                "hu": "Zárja a túrát a város feletti kilátással.",
+                "ro": "Încheiați turul cu o vedere asupra orașului.",
+                "en": "End the tour with a view over the city."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Belin",
+                "tip": "In Žrnovo gelegen, ideal für einen Stopp während der Radtour."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba Belin",
+                "tip": "Žrnovóban található, ideális megálló a biciklitúra alatt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Belin",
+                "tip": "Situată în Žrnovo, ideală pentru o oprire în timpul turului cu bicicleta."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Belin",
+                "tip": "Located in Žrnovo, an ideal stop during your bike ride."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Sankt-Anton-Kapelle",
+                "tip": "Ruhiger Aussichtspunkt am Ende der Treppe.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szent Antal kápolna",
+                "tip": "Csendes kilátóhely a lépcsősor tetején.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Capela Sfântul Anton",
+                "tip": "Punct de observație liniștit la capătul scărilor.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "St. Anthony Chapel",
+                "tip": "Quiet viewpoint at the top of the stairs.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokale Olivenöl-Verkäufer",
+                "tip": "Suchen Sie nach Schildern entlang der Landstraßen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi olívaolaj árusok",
+                "tip": "Keresse a táblákat az országutak mentén."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vânzători locali de ulei de măsline",
+                "tip": "Căutați semnele de-a lungul drumurilor de țară."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Olive Oil Sellers",
+                "tip": "Look for signs along the country roads for authentic oil."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein Fahrrad in der Nähe des Hafens.",
+              "Die Küstenstraße nach Lumbarda ist flach und sehr schön.",
+              "Nehmen Sie genügend Wasser mit, es gibt wenig Schatten.",
+              "Sperren Sie Ihr Fahrrad sicher ab, bevor Sie die Altstadt zu Fuß betreten."
+            ],
+            "hu": [
+              "Béreljen kerékpárt a kikötő közelében.",
+              "A Lumbardába vezető parti út sík és gyönyörű.",
+              "Vigyen magával elég vizet, kevés az árnyék.",
+              "Zárja le biztonságosan a biciklit, mielőtt gyalog bemenne az óvárosba."
+            ],
+            "ro": [
+              "Închiriați o bicicletă în apropierea portului.",
+              "Drumul de coastă către Lumbarda este plat și foarte frumos.",
+              "Luați suficientă apă, există puțină umbră.",
+              "Încuiați bine bicicleta înainte de a intra pe jos în orașul vechi."
+            ],
+            "en": [
+              "Rent a bike near the ferry terminal.",
+              "The coastal road to Lumbarda is flat and scenic.",
+              "Bring plenty of water as there is little shade outside town.",
+              "Lock your bike securely before entering the pedestrian-only old town."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den glatten Steinen Korčulas. Starten Sie am Revelin-Tor und bleiben Sie für die wichtigsten Sehenswürdigkeiten im Stadtzentrum. Mittags bietet sich ein Abstecher zum Sankt-Anton-Hügel an, doch achten Sie auf die rutschigen Wege. Den Nachmittag verbringen Sie am besten in den Museen der Altstadt, bevor Sie Ihr Rad sicher abstellen.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel Korčula csúszós kövein. Kezdjen a Revelin-kapunál, és maradjon a központban a főbb látnivalóknál. Délben tehet egy kitérőt a Szent Antal-dombhoz, de ügyeljen a csúszós utakra. A délutánt legjobb az óváros múzeumaiban tölteni, mielőtt biztonságba helyezné a kerékpárt.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe pietrele alunecoase din Korčula. Începeți la Poarta Revelin și rămâneți în centru pentru principalele atracții. La prânz, puteți face o excursie la Dealul Sf. Anton, dar atenție la drumurile alunecoase. Cel mai bine este să petreceți după-amiaza în muzeele din orașul vechi înainte de a parca bicicleta.",
+            "en": "Cycling in the rain requires caution on Korčula's slippery stones. Start at the Revelin Gate and stay in the center for the main sights. At midday, you can take a detour to St. Anthony's Hill, but watch out for slippery paths. It's best to spend the afternoon in the Old Town museums before parking your bike safely."
+          },
+          "stops": [
+            {
+              "name": "Landtor Revelin",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie die abschüssigen Straßen befahren.",
+                "hu": "Ellenőrizze a fékeket, mielőtt a lejtős utcákra hajtana.",
+                "ro": "Verificați frânele înainte de a merge pe străzile în pantă.",
+                "en": "Check your brakes before riding on the sloping streets."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Markus",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem geschützten Ort ab, um den Sattel trocken zu halten.",
+                "hu": "Helyezze a biciklit védett helyre, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați bicicleta într-un loc protejat pentru a păstra șaua uscată.",
+                "en": "Park your bike in a sheltered spot to keep the saddle dry."
+              }
+            },
+            {
+              "name": "Marco Polos Geburtshaus",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit drinnen für eine Pause vom nassen Fahrtwind.",
+                "hu": "Használja ki a bent töltött időt a nedves menetszél utáni pihenésre.",
+                "ro": "Profitați de timpul petrecut în interior pentru o pauză de la vântul umed.",
+                "en": "Use your time inside for a break from the wet wind."
+              }
+            },
+            {
+              "name": "Turm des Seetors",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen und Gischt, die vom Meer heraufwehen können.",
+                "hu": "Ügyeljen a tócsákra és a tenger felől érkező permetre.",
+                "ro": "Atenție la bălți și la vaporii de apă care pot veni dinspre mare.",
+                "en": "Watch out for puddles and spray that can blow up from the sea."
+              }
+            },
+            {
+              "name": "Sankt-Anton-Hügel",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei Regen anstrengender und die Stufen sind rutschig.",
+                "hu": "Az emelkedő esőben fárasztóbb, a lépcsők pedig nagyon csúsznak.",
+                "ro": "Urcarea este mai obositoare pe ploaie, iar treptele sunt alunecoase.",
+                "en": "The climb is more strenuous in the rain and the steps are slippery."
+              }
+            },
+            {
+              "name": "Stadtmauern von Korčula",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in den engen, nassen Gassen der Altstadt lieber.",
+                "hu": "Az óváros szűk, nedves utcáin inkább tolja a kerékpárt.",
+                "ro": "Mai degrabă împingeți bicicleta pe străzile înguste și ude din centru.",
+                "en": "Better to push your bike in the narrow, wet streets of the old town."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Bremsen direkt auf den weißen Kalksteinen; diese werden spiegelglatt.",
+              "Ein Poncho schützt besser vor dem Fahrtwind als ein Regenschirm.",
+              "Reduzieren Sie den Reifendruck minimal für bessere Haftung auf nassem Untergrund.",
+              "Planen Sie mehr Zeit für die Wege ein, da Sie langsamer fahren müssen."
+            ],
+            "hu": [
+              "Kerülje a fékezést közvetlenül a fehér mészköveken; azok tükörsimává válnak.",
+              "A poncsó jobban véd a menetszéltől, mint egy esernyő.",
+              "Minimálisan csökkentse a gumiabroncsok nyomását a jobb tapadás érdekében.",
+              "Tervezzen több időt az utakra, mivel lassabban kell haladnia."
+            ],
+            "ro": [
+              "Evitați frânarea direct pe pietrele albe de calcar; acestea devin extrem de lucioase.",
+              "O pelerină protejează mai bine de vânt decât o umbrelă.",
+              "Reduceți minim presiunea în anvelope pentru o aderență mai bună pe ud.",
+              "Planificați mai mult timp pentru deplasări, deoarece va trebui să mergeți mai încet."
+            ],
+            "en": [
+              "Avoid braking directly on the white limestones; they become mirror-smooth.",
+              "A poncho protects better against the wind than an umbrella.",
+              "Minimally reduce tire pressure for better grip on wet ground.",
+              "Plan more time for your routes as you will need to cycle more slowly."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad bietet klare Luft und leere Straßen. Starten Sie am Revelin-Tor und genießen Sie die kühle Brise. Der Weg zum Sankt-Anton-Hügel ist im Winter weniger schweißtreibend. Mittags wärmen Sie sich bei den kulturellen Stopps in der Altstadt auf. Nutzen Sie das Tageslicht voll aus, da es am späten Nachmittag schnell abkühlt, sobald die Sonne hinter den Bergen verschwindet.",
+            "hu": "A téli kerékpártúra tiszta levegőt és üres utakat kínál. Kezdjen a Revelin-kapunál, és élvezze a hűvös szellőt. A Szent Antal-dombhoz vezető út télen kevésbé izzasztó. Délben melegedjen fel az óvárosi kulturális megállóknál. Használja ki teljesen a nappali fényt, mert késő délután gyorsan lehűl az idő, amint a nap eltűnik a hegyek mögött.",
+            "ro": "O tură de iarnă cu bicicleta oferă aer curat și străzi pustii. Începeți la Poarta Revelin și bucurați-vă de briza răcoroasă. Drumul spre Dealul Sf. Anton este mai puțin obositor iarna. La prânz, încălziți-vă la opririle culturale din oraș. Profitați din plin de lumina zilei, deoarece se răcește rapid după-amiaza, odată ce soarele dispare după munți.",
+            "en": "A winter bike tour offers clear air and empty roads. Start at the Revelin Gate and enjoy the cool breeze. The path to St. Anthony's Hill is less sweaty in winter. At midday, warm up at the cultural stops in the Old Town. Make full use of the daylight, as it cools down quickly in the late afternoon once the sun disappears behind the mountains."
+          },
+          "stops": [
+            {
+              "name": "Landtor Revelin",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe, da der Fahrtwind im Winter sehr kalt sein kann.",
+                "hu": "Viseljen kesztyűt, mert a menetszél télen nagyon hideg lehet.",
+                "ro": "Purtați mănuși, deoarece vântul poate fi foarte rece iarna.",
+                "en": "Wear gloves, as the wind can be very cold in winter."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Markus",
+              "tip_5lang": {
+                "de": "Ein guter Ort für eine Pause vom kalten Wind draußen.",
+                "hu": "Jó hely egy kis pihenőre a kinti hideg szél után.",
+                "ro": "Un loc bun pentru o pauză de la vântul rece de afară.",
+                "en": "A good place for a break from the cold wind outside."
+              }
+            },
+            {
+              "name": "Marco Polos Geburtshaus",
+              "tip_5lang": {
+                "de": "Innen ist es geschützt, ideal um die Durchblutung der Finger anzuregen.",
+                "hu": "Bent védett a hely, ideális az elgémberedett ujjak átmozgatására.",
+                "ro": "În interior este protejat, ideal pentru a vă încălzi degetele.",
+                "en": "It's sheltered inside, ideal for getting the circulation back in your fingers."
+              }
+            },
+            {
+              "name": "Turm des Seetors",
+              "tip_5lang": {
+                "de": "Parken Sie windgeschützt, damit das Rad nicht umgeweht wird.",
+                "hu": "Parkoljon szélvédett helyen, nehogy a szél feldöntse a biciklit.",
+                "ro": "Parcați într-un loc ferit de vânt ca să nu fie răsturnată bicicleta.",
+                "en": "Park in a wind-sheltered spot so the bike doesn't get blown over."
+              }
+            },
+            {
+              "name": "Sankt-Anton-Hügel",
+              "tip_5lang": {
+                "de": "Die Zypressenallee bietet im Winter einen guten Windschutz beim Aufstieg.",
+                "hu": "A ciprusfasor télen jó szélfogót biztosít a felfelé vezető úton.",
+                "ro": "Aleea cu chiparoși oferă un bun adăpost împotriva vântului la urcare.",
+                "en": "The cypress avenue provides good wind protection during the climb in winter."
+              }
+            },
+            {
+              "name": "Stadtmauern von Korčula",
+              "tip_5lang": {
+                "de": "Am Nachmittag fangen die Mauern die letzte Wärme der Wintersonne ein.",
+                "hu": "Délután a falak még magukba szívják a téli nap utolsó melegét.",
+                "ro": "După-amiaza, zidurile captează ultima căldură a soarelui de iarnă.",
+                "en": "In the afternoon, the walls catch the last warmth of the winter sun."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichtenprinzip bei der Kleidung: Bergauf wird es warm, bergab sehr kalt.",
+              "Achten Sie auf Schattenbereiche; dort kann es deutlich kühler sein.",
+              "Die Tage sind kurz; stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert.",
+              "Kombinieren Sie die Tour mit einem Besuch in einer der ganzjährig offenen Weinbars."
+            ],
+            "hu": [
+              "Réteges öltözködés: felfelé meleged lesz, lefelé viszont nagyon lehűlsz.",
+              "Ügyeljen az árnyékos szakaszokra; ott jóval hűvösebb lehet az idő.",
+              "Rövidek a nappalok; győződjön meg róla, hogy a kerékpár lámpái működnek.",
+              "Kombinálja a túrát egy látogatással valamelyik egész évben nyitvatartó borbárba."
+            ],
+            "ro": [
+              "Principiul straturilor: se va face cald la urcare și foarte frig la coborâre.",
+              "Atenție la zonele cu umbră; acolo poate fi mult mai răcoare.",
+              "Zilele sunt scurte; asigurați-vă că luminile bicicletei funcționează.",
+              "Combinați tura cu o vizită la unul dintre barurile de vinuri deschise tot anul."
+            ],
+            "en": [
+              "Layered clothing: it gets warm going uphill, but very cold going downhill.",
+              "Watch out for shaded areas; it can be significantly cooler there.",
+              "Days are short; make sure your bicycle lights are working.",
+              "Combine the tour with a visit to one of the wine bars open year-round."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -756,6 +1527,360 @@
           "The old town itself is entirely pedestrianized.",
           "Explore the wine routes in the island's interior for hidden gems."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto kombinieren Sie Kultur und Entspannung. Starten Sie in der Altstadt, besuchen Sie die Kathedrale und Marco Polos Haus. Mittags fahren Sie zum Sankt-Anton-Hügel und weiter zu den Sandstränden von Lumbarda. Genießen Sie die Sonne an der Vela Przina Bucht. Nachmittags kehren Sie für einen Spaziergang auf den Mauern zurück.",
+            "hu": "Autóval kombinálhatja a kultúrát és a pihenést. Kezdjen az óvárosban a székesegyházzal és Marco Polo házával. Ebédidőben hajtson el a Szent Antal-dombhoz, majd tovább Lumbarda homokos strandjaihoz. Élvezze a napsütést a Vela Przina öbölben. Délután térjen vissza a városfalakhoz egy utolsó sétára.",
+            "ro": "Cu mașina combinați cultura și relaxarea. Începeți în orașul vechi cu Catedrala și casa lui Marco Polo. La prânz, conduceți spre Dealul Sfântul Anton și apoi spre plajele cu nisip din Lumbarda. Bucurați-vă de soare în golful Vela Przina. După-amiaza, reveniți pentru o plimbare pe ziduri.",
+            "en": "By car, you can blend culture and relaxation. Start in the old town with the Cathedral and Marco Polo's house. At midday, drive to St. Anthony's Hill and continue to the sandy beaches of Lumbarda. Soak up the sun at Vela Przina bay. Return in the afternoon for a final stroll along the city walls."
+          },
+          "stops": [
+            {
+              "name": "Landtor Revelin",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem großen Parkplatz am Osthafen.",
+                "hu": "Parkoljon a keleti kikötőnél lévő nagy parkolóban.",
+                "ro": "Parcați în marea parcare de lângă portul de est.",
+                "en": "Park at the large lot by the eastern harbor."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Markus",
+              "tip_5lang": {
+                "de": "Ein Juwel der dalmatinischen Gotik-Renaissance.",
+                "hu": "A dalmát gótikus-reneszánsz egyik gyöngyszeme.",
+                "ro": "O bijuterie a goticului-renașterii dalmate.",
+                "en": "A gem of Dalmatian Gothic-Renaissance architecture."
+              }
+            },
+            {
+              "name": "Marco Polos Geburtshaus",
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über die Reisen des berühmten Entdeckers.",
+                "hu": "Ismerje meg a híres felfedező utazásait.",
+                "ro": "Aflați mai multe despre călătoriile celebrului explorator.",
+                "en": "Learn about the travels of the famous explorer."
+              }
+            },
+            {
+              "name": "Sankt-Anton-Hügel",
+              "tip_5lang": {
+                "de": "Die 101 Stufen lohnen sich für den Blick auf die Inseln.",
+                "hu": "A 101 lépcsőfok megéri a szigetekre nyíló kilátásért.",
+                "ro": "Cele 101 trepte merită pentru vederea asupra insulelor.",
+                "en": "The 101 steps are worth it for the island views."
+              }
+            },
+            {
+              "name": "Vela Przina Beach (Lumbarda)",
+              "tip_5lang": {
+                "de": "Einer der wenigen Sandstrände in Kroatien.",
+                "hu": "Horvátország kevés homokos strandjának egyike.",
+                "ro": "Una dintre puținele plaje cu nisip din Croația.",
+                "en": "One of the few sandy beaches in Croatia."
+              }
+            },
+            {
+              "name": "Stadtmauern von Korčula",
+              "tip_5lang": {
+                "de": "Perfekter Abschluss des Tages vor der Rückreise.",
+                "hu": "A nap tökéletes lezárása a hazautazás előtt.",
+                "ro": "Încheierea perfectă a zilei înainte de plecare.",
+                "en": "Perfect conclusion to the day before heading back."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba More",
+                "tip": "Direkt am Strand in Lumbarda, frischer Fisch garantiert."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba More",
+                "tip": "Közvetlenül a parton Lumbardában, garantáltan friss hal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba More",
+                "tip": "Chiar pe plajă în Lumbarda, pește proaspăt garantat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba More",
+                "tip": "Right on the beach in Lumbarda, fresh seafood guaranteed."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Bilin Zal",
+                "tip": "Ruhiger Strandabschnitt in Lumbarda.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bilin Zal",
+                "tip": "Csendes strandrész Lumbardában.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bilin Zal",
+                "tip": "Secțiune de plajă liniștită în Lumbarda.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Bilin Zal",
+                "tip": "A quieter stretch of beach in Lumbarda.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Popic Winery",
+                "tip": "Probieren Sie den Grk-Wein direkt beim Erzeuger."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Popic borászat",
+                "tip": "Kóstolja meg a Grk bort közvetlenül a termelőnél."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vinăria Popic",
+                "tip": "Gustați vinul Grk direct de la producător."
+              }
+            ],
+            "en": [
+              {
+                "name": "Popic Winery",
+                "tip": "Sample the famous Grk wine directly at the source in Lumbarda."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parkplätze in der Hochsaison sind teuer und schnell belegt.",
+              "Die Fahrt nach Lumbarda dauert nur etwa 10-15 Minuten.",
+              "In der Altstadt selbst gibt es keinen Autoverkehr.",
+              "Besuchen Sie eine der Weinstraßen im Inselinneren."
+            ],
+            "hu": [
+              "Főszezonban a parkolóhelyek drágák és hamar betelnek.",
+              "Az út Lumbardába mindössze 10-15 percet vesz igénybe.",
+              "Az óvároson belül nincs autóforgalom.",
+              "Látogasson el a sziget belsejében található borutak egyikére."
+            ],
+            "ro": [
+              "Parcările în plin sezon sunt scumpe și se ocupă repede.",
+              "Drumul până la Lumbarda durează doar 10-15 minute.",
+              "Nu există trafic auto în interiorul orașului vechi.",
+              "Vizitați una dintre rutele vinului din interiorul insulei."
+            ],
+            "en": [
+              "Parking during high season is expensive and fills up quickly.",
+              "The drive to Lumbarda takes only about 10-15 minutes.",
+              "The old town itself is entirely pedestrianized.",
+              "Explore the wine routes in the island's interior for hidden gems."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto sind Sie bestens für einen regnerischen Tag in Korčula gerüstet. Starten Sie im Zentrum und besuchen Sie die Museen. Mittags fahren Sie nach Lumbarda; statt Strandbesuch bietet sich eine Weinprobe bei einem lokalen Winzer an. Der Nachmittag am Sankt-Anton-Hügel lässt sich bei einer Regenpause kurz halten, bevor Sie bequem im trockenen Auto zurückkehren.",
+            "hu": "Autóval kiválóan felkészülhet egy esős napra Korčulán. Kezdjen a központban a múzeumok meglátogatásával. Délben hajtson el Lumbardába; a strandolás helyett válasszon borkóstolót egy helyi borásznál. A Szent Antal-dombnál tett délutáni látogatást rövidre foghatja egy esőszünetben, mielőtt kényelmesen visszatérne a száraz autóba.",
+            "ro": "Cu mașina sunteți bine echipați pentru o zi ploioasă în Korčula. Începeți în centru cu vizitarea muzeelor. La prânz, mergeți spre Lumbarda; în loc de plajă, alegeți o degustare de vinuri la un producător local. Vizita de după-amiază la Dealul Sf. Anton poate fi scurtă, în timpul unei pauze de ploaie, înainte de a reveni confortabil în mașină.",
+            "en": "By car, you are well-equipped for a rainy day in Korčula. Start in the center by visiting the museums. At midday, drive to Lumbarda; instead of visiting the beach, opt for a wine tasting at a local winery. Keep your afternoon visit to St. Anthony's Hill brief during a break in the rain before returning comfortably in your dry car."
+          },
+          "stops": [
+            {
+              "name": "Landtor Revelin",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus nahe der Altstadt, um kurze Wege im Regen zu haben.",
+                "hu": "Használja az óvároshoz közeli parkolót, hogy keveset kelljen gyalogolni az esőben.",
+                "ro": "Folosiți parcarea de lângă orașul vechi pentru a merge cât mai puțin prin ploaie.",
+                "en": "Use the parking garage near the Old Town to keep walking distances in the rain short."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Markus",
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Schirme im Auto, um die Kathedrale trocken zu halten.",
+                "hu": "Hagyja a vizes ernyőt az autóban, hogy a székesegyház száraz maradjon.",
+                "ro": "Lăsați umbrelele ude în mașină pentru a păstra catedrala uscată.",
+                "en": "Leave wet umbrellas in the car to keep the cathedral dry."
+              }
+            },
+            {
+              "name": "Marco Polos Geburtshaus",
+              "tip_5lang": {
+                "de": "Ideal erreichbar, wenn Sie in der Nähe der Stadtmauern parken.",
+                "hu": "Könnyen elérhető, ha a városfalak közelében parkol.",
+                "ro": "Ușor de accesat dacă parcați în apropierea zidurilor cetății.",
+                "en": "Easily accessible if you park near the city walls."
+              }
+            },
+            {
+              "name": "Sankt-Anton-Hügel",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Fuß des Hügels, um den Aufstieg kurz zu halten.",
+                "hu": "Parkoljon közvetlenül a domb lábánál, hogy lerövidítse a gyaloglást.",
+                "ro": "Parcați direct la baza dealului pentru a scurta urcarea.",
+                "en": "Park directly at the foot of the hill to keep the climb short."
+              }
+            },
+            {
+              "name": "Vela Przina Beach (Lumbarda)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die tosende See aus der Sicherheit des Autos.",
+                "hu": "Élvezze a háborgó tenger látványát az autó biztonságából.",
+                "ro": "Bucurați-vă de vederea mării agitate din siguranța mașinii.",
+                "en": "Enjoy the view of the churning sea from the safety of the car."
+              }
+            },
+            {
+              "name": "Stadtmauern von Korčula",
+              "tip_5lang": {
+                "de": "Ein kurzer Rundgang ist möglich, wenn der Regen nachlässt.",
+                "hu": "Egy rövid séta lehetséges, amint alábbhagy az eső.",
+                "ro": "O scurtă plimbare este posibilă imediat ce ploaia se mai domolește.",
+                "en": "A short walk is possible as soon as the rain lets up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen können bei Regen durch Olivenöl-Rückstände rutschig sein.",
+              "Nutzen Sie die Fahrt nach Lumbarda für einen Stopp bei einer der vielen Weinkellereien.",
+              "Parkplätze sind im Regen oft begehrter; planen Sie etwas Suchzeit ein.",
+              "Halten Sie ein Handtuch im Auto bereit, um sich nach den Besichtigungen abzutrocknen."
+            ],
+            "hu": [
+              "Az utak esőben az olívaolaj-maradványok miatt csúszósak lehetnek.",
+              "Használja ki a lumbardai utat egy megállóra a számos borászat egyikénél.",
+              "Esőben a parkolóhelyek keresettebbek; számoljon egy kis keresési idővel.",
+              "Tartson egy törölközőt az autóban, hogy a városnézés után megszárítkozhasson."
+            ],
+            "ro": [
+              "Drumurile pot fi alunecoase pe ploaie din cauza reziduurilor de ulei de măsline.",
+              "Profitați de drumul spre Lumbarda pentru o oprire la una dintre numeroasele crame.",
+              "Locurile de parcare sunt mai căutate pe ploaie; planificați timp pentru căutare.",
+              "Țineți un prosop în mașină pentru a vă usca după vizite."
+            ],
+            "en": [
+              "Roads can be slippery in the rain due to olive oil residue.",
+              "Use the drive to Lumbarda for a stop at one of the many wineries.",
+              "Parking spots are often more in demand in the rain; plan some search time.",
+              "Keep a towel in the car to dry off after your sightseeing stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Korčula bedeutet freie Fahrt und keine Parkplatzsorgen. Starten Sie entspannt am Revelin-Tor. Die Fahrt nach Lumbarda führt durch ruhige Weinberge, die im Winterlicht silbern schimmern. Mittags erkunden Sie die Altstadt ohne Hitze. Der frühe Sonnenuntergang lässt sich am besten am Vela Przina Strand beobachten, bevor Sie die Heizung im Auto für die Rückfahrt genießen.",
+            "hu": "A tél Korčulán szabad utat és parkolási gondoktól mentes napot jelent. Kezdjen nyugodtan a Revelin-kapunál. A lumbardai út csendes szőlőültetvényeken vezet át, amelyek a téli fényben ezüstösen csillognak. Délben fedezze fel az óvárost hőség nélkül. A korai naplementét legjobb a Vela Przina strandon megvárni, mielőtt élvezné az autó fűtését a visszaúton.",
+            "ro": "Iarna în Korčula înseamnă drum liber și nicio grijă pentru parcare. Începeți relaxat la Poarta Revelin. Drumul spre Lumbarda trece prin podgorii liniștite care sclipesc argintiu în lumina iernii. La prânz, explorați orașul vechi fără caniculă. Apusul timpuriu poate fi observat cel mai bine la plaja Vela Przina înainte de a vă bucura de căldura din mașină la întoarcere.",
+            "en": "Winter in Korčula means open roads and no parking worries. Start relaxed at the Revelin Gate. The drive to Lumbarda takes you through quiet vineyards that shimmer silvery in the winter light. At midday, explore the Old Town without the heat. The early sunset is best observed at Vela Przina Beach before enjoying the car's heater on the drive back."
+          },
+          "stops": [
+            {
+              "name": "Landtor Revelin",
+              "tip_5lang": {
+                "de": "Parken ist im Winter oft direkt am Stadteingang möglich.",
+                "hu": "Télen a parkolás gyakran közvetlenül a városbejáratnál is lehetséges.",
+                "ro": "Parcarea este adesea posibilă chiar la intrarea în oraș pe timp de iarnă.",
+                "en": "Parking is often possible directly at the city entrance in winter."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Markus",
+              "tip_5lang": {
+                "de": "Nutzen Sie die leeren Straßen für eine stressfreie Anfahrt zum Zentrum.",
+                "hu": "Használja ki az üres utakat a stresszmentes bejutáshoz a központba.",
+                "ro": "Profitați de străzile pustii pentru o sosire fără stres în centru.",
+                "en": "Take advantage of the empty roads for a stress-free arrival at the center."
+              }
+            },
+            {
+              "name": "Marco Polos Geburtshaus",
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche in der Nähe ist im Winter kein Problem.",
+                "hu": "A közeli parkolóhely keresése télen egyáltalán nem probléma.",
+                "ro": "Căutarea unui loc de parcare în apropiere nu este o problemă iarna.",
+                "en": "Finding a parking spot nearby is no problem in winter."
+              }
+            },
+            {
+              "name": "Sankt-Anton-Hügel",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die Fahrt bei Dunkelheit auf den schmalen Nebenstraßen.",
+                "hu": "Sötétedés után kerülje a vezetést a szűk mellékutakon.",
+                "ro": "Evitați condusul pe întuneric pe străzile secundare înguste.",
+                "en": "Avoid driving on narrow side roads after dark."
+              }
+            },
+            {
+              "name": "Vela Przina Beach (Lumbarda)",
+              "tip_5lang": {
+                "de": "Ein einsamer Spaziergang am Strand ist im Winter besonders erholsam.",
+                "hu": "Egy magányos séta a strandon télen különösen pihentető.",
+                "ro": "O plimbare solitară pe plajă este deosebit de relaxantă iarna.",
+                "en": "A solitary walk on the beach is particularly restorative in winter."
+              }
+            },
+            {
+              "name": "Stadtmauern von Korčula",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Kanal von Pelješac ohne Touristenströme.",
+                "hu": "Élvezze a Pelješac-csatornára nyíló kilátást a turistaáradat nélkül.",
+                "ro": "Bucurați-vă de vederea spre canalul Pelješac fără fluxul de turiști.",
+                "en": "Enjoy the view of the Pelješac Channel without the tourist crowds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkgebühren sind im Winter oft reduziert oder entfallen ganz.",
+              "Achten Sie auf Wildtiere, die im Winter öfter die Straßen kreuzen.",
+              "Tanken Sie rechtzeitig; einige kleinere Tankstellen haben verkürzte Öffnungszeiten.",
+              "Der Grk-Wein aus Lumbarda ist ein perfektes Mitbringsel für gemütliche Winterabende."
+            ],
+            "hu": [
+              "A parkolási díjak télen gyakran alacsonyabbak vagy teljesen megszűnnek.",
+              "Ügyeljen a vadállatokra, amelyek télen gyakrabban kelnek át az utakon.",
+              "Tankoljon időben; néhány kisebb benzinkút rövidített nyitvatartással üzemel.",
+              "A lumbardai Grk bor tökéletes ajándék a meghitt téli estékre."
+            ],
+            "ro": [
+              "Tarifele de parcare sunt adesea reduse sau eliminate complet iarna.",
+              "Atenție la animalele sălbatice care traversează drumurile mai des iarna.",
+              "Alimentați din timp; unele benzinării mici au program scurt.",
+              "Vinul Grk din Lumbarda este un suvenir perfect pentru serile de iarnă."
+            ],
+            "en": [
+              "Parking fees are often reduced or eliminated entirely in winter.",
+              "Watch out for wildlife, which may cross the roads more often in winter.",
+              "Refuel in good time; some smaller gas stations have shorter opening hours.",
+              "Grk wine from Lumbarda is a perfect souvenir for cozy winter evenings."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -970,6 +2095,333 @@
           "Luggage lockers are available near the main bus terminal.",
           "Use water taxis for quick trips to the nearby Badija island."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Korčula ist per Bus oder Fähre leicht erreichbar. Starten Sie am Revelin-Tor, dem Eingang zur Altstadt. Besuchen Sie die prächtige Kathedrale und das Museum von Marco Polo. Mittags spazieren Sie entlang der Stadtmauern mit Blick auf das Meer. Abends können Sie ein Taxiboot zu den Nachbarinseln oder Stränden nehmen.",
+            "hu": "Korčula könnyen megközelíthető busszal vagy komppal. Kezdjen a Revelin-toronynál, az óváros bejáratánál. Látogassa meg a pompás székesegyházat és Marco Polo múzeumát. Ebédidőben sétáljon a tengerparti városfalak mentén. Este taxihajóval is felfedezheti a szomszédos szigeteket vagy strandokat.",
+            "ro": "Korčula este ușor accesibilă cu autobuzul sau feribotul. Începeți la Poarta Revelin, intrarea în orașul vechi. Vizitați catedrala magnifică și muzeul lui Marco Polo. La prânz, plimbați-vă de-a lungul zidurilor cu vedere la mare. Seara, puteți lua un taxi pe apă către insulele sau plajele vecine.",
+            "en": "Korčula is easily accessible by bus or ferry. Start at the Revelin Gate, the entrance to the old town. Visit the magnificent cathedral and Marco Polo's museum. Around midday, walk along the city walls overlooking the sea. In the evening, consider taking a water taxi to nearby islands or beaches."
+          },
+          "stops": [
+            {
+              "name": "Landtor Revelin",
+              "tip_5lang": {
+                "de": "Der Busbahnhof liegt nur 2 Gehminuten vom Tor entfernt.",
+                "hu": "A buszpályaudvar mindössze 2 perc sétára van a kaputól.",
+                "ro": "Autogara se află la doar 2 minute de mers pe jos de poartă.",
+                "en": "The bus station is just a 2-minute walk from the gate."
+              }
+            },
+            {
+              "name": "Stadtmauern von Korčula",
+              "tip_5lang": {
+                "de": "Folgen Sie der Ringstraße um die Mauern.",
+                "hu": "Kövesse a falakat körülölelő körutat.",
+                "ro": "Urmați drumul circular din jurul zidurilor.",
+                "en": "Follow the ring road around the walls."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Markus",
+              "tip_5lang": {
+                "de": "Das Innere beherbergt Werke von Tintoretto.",
+                "hu": "A belső tér Tintoretto alkotásait rejti.",
+                "ro": "Interiorul adăpostește lucrări de Tintoretto.",
+                "en": "The interior houses works by Tintoretto."
+              }
+            },
+            {
+              "name": "Marco Polos Geburtshaus",
+              "tip_5lang": {
+                "de": "Erkunden Sie die Geschichte Korčulas.",
+                "hu": "Fedezze fel Korčula történelmét.",
+                "ro": "Explorați istoria orașului Korčula.",
+                "en": "Explore the history of Korčula."
+              }
+            },
+            {
+              "name": "Turm des Seetors",
+              "tip_5lang": {
+                "de": "In der Nähe legen viele Taxiboote an.",
+                "hu": "A közelben számos taxihajó köt ki.",
+                "ro": "În apropiere ancorează multe taxiuri pe apă.",
+                "en": "Many water taxis dock near this tower."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gradski Podrum",
+                "tip": "Nahe dem Busbahnhof, ideal für eine schnelle Mahlzeit."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gradski Podrum",
+                "tip": "A buszpályaudvar közelében, ideális egy gyors étkezéshez."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gradski Podrum",
+                "tip": "Lângă autogară, ideal pentru o masă rapidă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gradski Podrum",
+                "tip": "Near the bus station, ideal for a quick and local meal."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hafenpromenade",
+                "tip": "Beobachten Sie das Ein- und Auslaufen der Schiffe.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötői sétány",
+                "tip": "Nézze a hajók érkezését és indulását.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Promenada portului",
+                "tip": "Urmăriți sosirea și plecarea vapoarelor.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Harbor Promenade",
+                "tip": "Watch the boats coming and going in the evening light.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirgeschäfte am Hafen",
+                "tip": "Lokaler Honig und Lavendelprodukte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötői szuvenírboltok",
+                "tip": "Helyi méz és levendula termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazine de suveniruri din port",
+                "tip": "Miere locală și produse din lavandă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Harbor Souvenir Shops",
+                "tip": "Local honey and lavender products are popular here."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busfahrpläne vorab, sie können variieren.",
+              "Die Fähren von Split oder Dubrovnik legen direkt am Zentrum an.",
+              "In der Nähe des Hafens gibt es Schließfächer für Gepäck.",
+              "Nutzen Sie die Wassertaxis für kurze Ausflüge zur Insel Badija."
+            ],
+            "hu": [
+              "Előre ellenőrizze a buszmenetrendet, mert változhat.",
+              "A Splitből vagy Dubrovnikból érkező kompok a központnál kötnek ki.",
+              "A kikötő közelében vannak csomagmegőrző szekrények.",
+              "Használja a taxihajókat rövid kirándulásokhoz Badija szigetére."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor în avans, acesta poate varia.",
+              "Feriboturile de la Split sau Dubrovnik acostează chiar lângă centru.",
+              "Există dulapuri pentru bagaje în apropierea portului.",
+              "Folosiți taxiurile pe apă pentru excursii scurte pe insula Badija."
+            ],
+            "en": [
+              "Check bus schedules in advance as they can change seasonally.",
+              "Ferries from Split or Dubrovnik dock right next to the town center.",
+              "Luggage lockers are available near the main bus terminal.",
+              "Use water taxis for quick trips to the nearby Badija island."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die lokalen Busse, um auch bei Regen flexibel zu bleiben. Starten Sie am zentralen Busbahnhof nahe dem Revelin-Tor. Vormittags und mittags konzentrieren Sie sich auf die Museen und die Kathedrale in der Altstadt, die alle nah beieinander liegen. Der Nachmittag bietet sich für einen Besuch der Schatzkammer an, bevor Sie bequem mit dem Bus zurück zu Ihrer Unterkunft fahren.",
+            "hu": "Használja a helyi buszokat, hogy esőben is rugalmas maradjon. Kezdjen a központi buszpályaudvaron, a Revelin-kapu közelében. Délelőtt és délben koncentráljon az óváros múzeumaira és a székesegyházra, amelyek közel vannak egymáshoz. A délután ideális a kincstár meglátogatására, mielőtt busszal kényelmesen visszatérne a szállására.",
+            "ro": "Folosiți autobuzele locale pentru a rămâne flexibili chiar și pe ploaie. Începeți la autogara centrală de lângă Poarta Revelin. Dimineața și la prânz, concentrați-vă pe muzeele și catedrala din orașul vechi, toate fiind aproape unele de altele. După-amiaza este ideală pentru vizitarea trezoreriei înainte de a reveni confortabil cu autobuzul la cazare.",
+            "en": "Use local buses to stay flexible even in the rain. Start at the central bus station near the Revelin Gate. In the morning and at midday, focus on the museums and the cathedral in the Old Town, which are all close to each other. The afternoon is ideal for visiting the treasury before taking a comfortable bus back to your accommodation."
+          },
+          "stops": [
+            {
+              "name": "Landtor Revelin",
+              "tip_5lang": {
+                "de": "Der Busbahnhof liegt nur wenige Gehminuten vom Tor entfernt.",
+                "hu": "A buszpályaudvar mindössze néhány perc sétára van a kaputól.",
+                "ro": "Autogara se află la doar câteva minute de mers pe jos de poartă.",
+                "en": "The bus station is only a few minutes' walk from the gate."
+              }
+            },
+            {
+              "name": "Stadtmauern von Korčula",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bushaltestellen als trockene Wartepunkte.",
+                "hu": "Használja a buszmegállókat száraz várakozóhelyként.",
+                "ro": "Folosiți stațiile de autobuz ca puncte de așteptare uscate.",
+                "en": "Use the bus stops as dry waiting points."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Markus",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Bus zum Kircheneingang hält Sie trocken.",
+                "hu": "Egy rövid futás a busztól a templomig segít szárazon maradni.",
+                "ro": "Un scurt sprint de la autobuz la intrarea în biserică vă va menține uscat.",
+                "en": "A quick sprint from the bus to the church entrance will keep you dry."
+              }
+            },
+            {
+              "name": "Marco Polos Geburtshaus",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Busverbindungen für die Rückfahrt rechtzeitig bei Regen.",
+                "hu": "Esőben ellenőrizze időben a visszautat biztosító buszjáratokat.",
+                "ro": "Verificați din timp autobuzele pentru întoarcere pe timp de ploaie.",
+                "en": "Check bus connections for your return journey in good time when it's raining."
+              }
+            },
+            {
+              "name": "Turm des Seetors",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle am Hafen bietet Schutz vor Gischt und Regen.",
+                "hu": "A kikötői buszmegálló védelmet nyújt a permet és az eső ellen.",
+                "ro": "Stația de autobuz din port oferă protecție împotriva vaporilor și ploii.",
+                "en": "The bus stop at the harbor provides shelter from spray and rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei extremem Wetter leicht variieren; nutzen Sie Online-Auskünfte.",
+              "Halten Sie Kleingeld für das Busticket bereit, um Verzögerungen zu vermeiden.",
+              "Die Busse sind im Regen oft voll; steigen Sie an der Endstation (Busbahnhof) ein.",
+              "Kombinieren Sie Busfahrten mit kurzen Sprints zwischen den Sehenswürdigkeiten."
+            ],
+            "hu": [
+              "A menetrendek szélsőséges időjárás esetén változhatnak; használja az online tájékoztatást.",
+              "Készítsen elő aprópénzt a buszjegyre a késedelmek elkerülése érdekében.",
+              "Esőben a buszok gyakran zsúfoltak; próbáljon a végállomáson (buszpályaudvar) felszállni.",
+              "Kombinálja a buszozást rövid sprintekkel a látnivalók között."
+            ],
+            "ro": [
+              "Orarele pot varia ușor în caz de vreme extremă; folosiți informațiile online.",
+              "Aveți pregătit mărunt pentru biletul de autobuz pentru a evita întârzierile.",
+              "Autobuzele sunt adesea pline pe ploaie; urcați de la capătul de linie (autogară).",
+              "Combinați călătoriile cu autobuzul cu scurte reprize de mers rapid între obiective."
+            ],
+            "en": [
+              "Schedules may vary slightly in extreme weather; use online info.",
+              "Have small change ready for the bus ticket to avoid delays.",
+              "Buses are often full in the rain; try to board at the terminus (bus station).",
+              "Combine bus rides with short sprints between the sights."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist der öffentliche Nahverkehr in Korčula ruhiger und persönlicher. Starten Sie Ihre Tour am Busbahnhof. Der Vormittag gehört der Altstadt, wo Sie die Sehenswürdigkeiten ohne Drängeln genießen können. Mittags wärmen Sie sich in den Museen auf. Da die Busse im Winter seltener fahren, planen Sie Ihre Rückfahrt passend zum Sonnenuntergang gegen 16:30 Uhr ein.",
+            "hu": "Télen a korčulai tömegközlekedés nyugodtabb és közvetlenebb. Kezdje a túrát a buszpályaudvaron. A délelőtt az óvárosé, ahol tolongás nélkül élvezheti a látnivalókat. Délben melegedjen fel a múzeumokban. Mivel a buszok télen ritkábban járnak, tervezze a visszautat a 16:30 körüli naplementéhez igazítva.",
+            "ro": "Iarna, transportul public în Korčula este mai liniștit și mai personal. Începeți turul la autogară. Dimineața aparține orașului vechi, unde vă puteți bucura de obiective fără aglomerație. La prânz, încălziți-vă în muzee. Deoarece autobuzele circulă mai rar iarna, planificați întoarcerea în funcție de apusul soarelui de la 16:30.",
+            "en": "In winter, public transport in Korčula is quieter and more personal. Start your tour at the bus station. The morning is for the Old Town, where you can enjoy the sights without the crowds. At midday, warm up in the museums. Since buses run less frequently in winter, plan your return trip to coincide with the sunset around 16:30."
+          },
+          "stops": [
+            {
+              "name": "Landtor Revelin",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse oft pünktlicher, da es weniger Verkehr gibt.",
+                "hu": "Télen a buszok gyakran pontosabbak, mivel kisebb a forgalom.",
+                "ro": "Iarna, autobuzele sunt adesea mai punctuale deoarece este mai puțin trafic.",
+                "en": "Buses are often more punctual in winter as there is less traffic."
+              }
+            },
+            {
+              "name": "Stadtmauern von Korčula",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit zwischen zwei Busverbindungen für den Rundgang.",
+                "hu": "Használja ki két buszjárat közötti időt a városfali sétára.",
+                "ro": "Folosiți timpul dintre două autobuze pentru plimbarea pe ziduri.",
+                "en": "Use the time between two bus connections for your walk around the walls."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Markus",
+              "tip_5lang": {
+                "de": "Die Kathedrale liegt zentral und ist von allen Haltestellen gut zu Fuß erreichbar.",
+                "hu": "A székesegyház központi helyen van, minden megállótól könnyen elérhető.",
+                "ro": "Catedrala este centrală și ușor accesibilă de la toate stațiile.",
+                "en": "The cathedral is centrally located and easily reachable on foot from all stops."
+              }
+            },
+            {
+              "name": "Marco Polos Geburtshaus",
+              "tip_5lang": {
+                "de": "Beachten Sie die ausgedünnten Fahrpläne am späten Nachmittag.",
+                "hu": "Ügyeljen a ritkább menetrendre a késő délutáni órákban.",
+                "ro": "Atenție la orarul redus al autobuzelor după-amiaza târziu.",
+                "en": "Note the thinned-out schedules in the late afternoon."
+              }
+            },
+            {
+              "name": "Turm des Seetors",
+              "tip_5lang": {
+                "de": "Die Haltestelle in der Nähe bietet einen guten Blick auf den winterlichen Hafen.",
+                "hu": "A közeli megálló jó kilátást nyújt a téli kikötőre.",
+                "ro": "Stația din apropiere oferă o vedere bună asupra portului iarna.",
+                "en": "The nearby stop offers a good view of the winter harbor."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Winterfahrplan (red vožnje) unterscheidet sich stark vom Sommer; Foto machen!",
+              "Einige Linien (z.B. nach Lumbarda) fahren im Winter seltener.",
+              "Nutzen Sie die Wartezeit am Busbahnhof für einen Kaffee mit den Einheimischen.",
+              "Die Busse sind oft beheizt, was eine willkommene Aufwärmpause bietet."
+            ],
+            "hu": [
+              "A téli menetrend (red vožnje) jelentősen eltér a nyáritól; fotózza le!",
+              "Néhány vonal (pl. Lumbarda felé) télen ritkábban közlekedik.",
+              "Használja ki a buszpályaudvari várakozást egy kávéra a helyiekkel.",
+              "A buszok gyakran fűtöttek, ami kellemes felmelegedési lehetőséget kínál."
+            ],
+            "ro": [
+              "Oruarul de iarnă (red vožnje) diferă mult de cel de vară; faceți-i o poză!",
+              "Unele linii (de ex. spre Lumbarda) circulă mai rar iarna.",
+              "Folosiți timpul de așteptare la autogară pentru o cafea cu localnicii.",
+              "Autobuzele sunt adesea încălzite, oferind o pauză de încălzire binevenită."
+            ],
+            "en": [
+              "The winter schedule (red vožnje) differs greatly from the summer; take a photo!",
+              "Some lines (e.g., to Lumbarda) run less frequently in winter.",
+              "Use the waiting time at the bus station for a coffee with the locals.",
+              "Buses are often heated, providing a welcome warm-up break."
+            ]
+          }
+        }
       }
     }
   },

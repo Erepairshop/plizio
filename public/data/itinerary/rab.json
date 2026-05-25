@@ -246,6 +246,346 @@
           "Climb the bell tower of Mary for the best view.",
           "The alleys of the old town are best in the cool morning."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Rab ist eine Stadt der Geschichte und der Türme. Beginnen Sie am Christophorus-Platz und schlendern Sie durch die Gornja Ulica, wo sich die Silhouette der vier Glockentürme abzeichnet. Entdecken Sie die sakrale Kunst in St. Justina und den prächtigen Fürstenpalast. Nach dem Besuch der Kathedrale bietet der kühle Park Komrčar den idealen Ausklang für Ihren Stadtspaziergang.",
+            "hu": "Rab a történelem és a tornyok városa. Kezdje a Szent Kristóf téren, és sétáljon végig a Gornja Ulicán, ahol kirajzolódik a négy harangtorony sziluettje. Fedezze fel a Szent Jusztina-templom egyházi műkincseit és a pompás Fejedelmi palotát. A székesegyház meglátogatása után a hűvös Komrčar-park ideális helyszín a városi séta lezárásához.",
+            "ro": "Rab este un oraș al istoriei și al turnurilor. Începeți în Piața Sf. Cristofor și plimbați-vă pe Gornja Ulica, unde se profilează silueta celor patru clopotnițe. Descoperiți arta sacră din Sf. Iustina și magnificul Palat al Principelui. După vizitarea catedralei, parcul răcoros Komrčar oferă finalul ideal pentru plimbarea prin oraș.",
+            "en": "Rab is a city of history and towers. Start at St. Christopher's Square and stroll through Gornja Ulica, where the silhouette of the four bell towers stands out. Discover the sacred art in St. Justina and the magnificent Rector's Palace. After visiting the Cathedral, the cool Komrcar Park offers the ideal ending to your city walk."
+          },
+          "stops": [
+            {
+              "name": "Platz des hl. Christophorus",
+              "tip_5lang": null
+            },
+            {
+              "name": "Gornja Ulica",
+              "tip_5lang": null
+            },
+            {
+              "name": "Kirche St. Justina",
+              "tip_5lang": null
+            },
+            {
+              "name": "Fürstenpalast",
+              "tip_5lang": null
+            },
+            {
+              "name": "Kathedrale Mariä Himmelfahrt",
+              "tip_5lang": null
+            },
+            {
+              "name": "Park Komrčar",
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Rabska torta",
+                "tip": "Ein Mandelgebäck mit Maraschino-Likör."
+              },
+              {
+                "name": "Oktopus unter der Peka",
+                "tip": "In der Konoba Rab probieren."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rabska torta",
+                "tip": "Mandulás sütemény Maraschino likőrrel."
+              },
+              {
+                "name": "Polip peka alatt",
+                "tip": "Kóstolja meg a Konoba Rab-ban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rabska torta",
+                "tip": "O prăjitură cu migdale și lichior Maraschino."
+              },
+              {
+                "name": "Caracatiță sub capac (peka)",
+                "tip": "Încercați la Konoba Rab."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rab Cake",
+                "tip": "An almond pastry with Maraschino liqueur."
+              },
+              {
+                "name": "Octopus under the Peka",
+                "tip": "Try it at Konoba Rab."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Ruinen von St. Johannes",
+                "tip": "Ein stimmungsvoller Ort für eine Pause.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szent János romjai",
+                "tip": "Hangulatos hely egy rövid pihenőhöz.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ruinele Sf. Ioan",
+                "tip": "Un loc plin de atmosferă pentru o pauză.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Ruins of St. John",
+                "tip": "An atmospheric spot for a break.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Honig",
+                "tip": "Honig von der Insel Rab ist sehr aromatisch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi méz",
+                "tip": "A Rab-szigeti méz rendkívül aromás."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere locală",
+                "tip": "Mierea de pe insula Rab este foarte aromată."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Honey",
+                "tip": "Honey from the island of Rab is very aromatic."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Klettern Sie auf den Glockenturm der Maria für die beste Aussicht.",
+              "Die Gassen der Altstadt sind am kühlen Vormittag am schönsten."
+            ],
+            "hu": [
+              "Másszon fel a Mária-harangtoronyba a legjobb kilátásért.",
+              "Az óváros utcái a hűvös délelőttön a legszebbek."
+            ],
+            "ro": [
+              "Urcați în clopotnița Mariei pentru cea mai bună vedere.",
+              "Străzile orașului vechi sunt cele mai frumoase în dimineața răcoroasă."
+            ],
+            "en": [
+              "Climb the bell tower of Mary for the best view.",
+              "The alleys of the old town are best in the cool morning."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regen verleiht den Kalksteingassen von Rab einen glänzenden Schimmer. Beginnen Sie morgens am Christophorusplatz, wo die Cafés trockene Zuflucht bieten. Mittags spazieren Sie durch die Gornja Ulica; die hohen Mauern bieten etwas Schutz. Nachmittags laden die Kirchen und der Fürstenpalast zur Innenbesichtigung ein. Abends genießen Sie die Atmosphäre in einer gemütlichen Konoba in der Altstadt, während der Regen gegen die Fenster prasselt.",
+            "hu": "Az eső csillogóvá teszi Rab mészkőutcáit. Reggel kezdjen a Szent Kristóf téren, ahol a kávézók fedett teraszai menedéket nyújtanak. Délben a Gornja Ulica magas falai között sétálhat, melyek némi védelmet adnak a szél ellen. Délután fedezze fel a templomok és a Fejedelmi palota belső tereit. Este élvezze a hangulatot egy óvárosi konobában, miközben kint kopog az eső a macskaköveken.",
+            "ro": "Ploaia conferă străzilor de calcar din Rab o strălucire aparte. Începeți dimineața în Piața Sf. Cristofor, unde cafenelele oferă refugiu. La prânz, plimbați-vă pe Gornja Ulica; zidurile înalte oferă o oarecare protecție. După-amiaza, vizitați interiorul bisericilor și Palatul Rectorului pentru a rămâne uscați. Seara, savurați atmosfera într-o tavernă locală din orașul vechi, ascultând ploaia de afară.",
+            "en": "Rain gives Rab's limestone streets a glossy sheen. Start your morning at St. Christopher Square, where cafes provide dry shelter. At noon, stroll through Gornja Ulica; the high stone walls offer some protection. In the afternoon, explore the interiors of churches and the Rector's Palace. In the evening, enjoy the cozy atmosphere of an old town konoba while the rain patters against the windows."
+          },
+          "stops": [
+            {
+              "name": "Platz des hl. Christophorus",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Cafés als Regenschutz.",
+                "hu": "Használja a környező kávézók árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele cafenelelor din jur pentru a vă adăposti de ploaie.",
+                "en": "Use the arcades of surrounding cafes as shelter from the rain."
+              }
+            },
+            {
+              "name": "Gornja Ulica",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Pflaster; festes Schuhwerk ist bei Nässe wichtig.",
+                "hu": "Vigyázzon a csúszós kövezeten; esőben fontos a tapadós talpú cipő.",
+                "ro": "Atenție pe pavajul alunecos; încălțămintea aderentă este esențială pe ploaie.",
+                "en": "Be careful on the slippery pavement; sturdy footwear is essential in the wet."
+              }
+            },
+            {
+              "name": "Kirche St. Justina",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine trockene Kulturpause im Museumsbereich.",
+                "hu": "Ideális helyszín egy száraz kulturális pihenőhöz a múzeumi részben.",
+                "ro": "Un loc ideal pentru o pauză culturală uscată în zona muzeului.",
+                "en": "An ideal spot for a dry cultural break in the museum area."
+              }
+            },
+            {
+              "name": "Fürstenpalast",
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Innenräume, um dem heftigsten Regen zu entgehen.",
+                "hu": "Látogasson el a belső terekbe, hogy elkerülje a hevesebb esőt.",
+                "ro": "Vizitați interiorul pentru a evita ploaia mai puternică.",
+                "en": "Visit the interior rooms to escape the heaviest rain."
+              }
+            },
+            {
+              "name": "Kathedrale Mariä Himmelfahrt",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kunstschätze im Trockenen.",
+                "hu": "Csodálja meg a művészeti kincseket a száraz belső térben.",
+                "ro": "Admirați comorile de artă în interiorul primitor și uscat.",
+                "en": "Admire the art treasures in the dry interior."
+              }
+            },
+            {
+              "name": "Park Komrčar",
+              "tip_5lang": {
+                "de": "Dichte Pinien bieten natürlichen Schutz vor leichtem Nieselregen.",
+                "hu": "A sűrű fenyvesek természetes védelmet nyújtanak az enyhe szitálás ellen.",
+                "ro": "Pinii deși oferă protecție naturală împotriva burniței ușoare.",
+                "en": "Dense pines offer natural protection against light drizzle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Steinpflaster in der Altstadt wird bei Regen extrem rutschig.",
+              "Kirchen und Museen sind perfekte Zufluchtsorte bei Schauern.",
+              "Tragen Sie eine regenfeste Jacke, da Schirme in engen Gassen unhandlich sind.",
+              "Viele Cafés haben beheizte Außenbereiche mit Markisen.",
+              "Die Aussicht von den Türmen ist bei Regen oft wolkenverhangen."
+            ],
+            "hu": [
+              "Az óvárosi mészkő burkolat esőben rendkívül csúszóssá válik.",
+              "A templomok és múzeumok tökéletes menedékek záporok idején.",
+              "Vízálló dzseki ajánlott, az esernyő nehézkes a szűk utcákban.",
+              "Sok kávézó rendelkezik fűtött, ponyvás kültéri résszel.",
+              "A tornyokból nyíló kilátás esőben gyakran felhős és korlátozott."
+            ],
+            "ro": [
+              "Pavajul de piatră din orașul vechi devine extrem de alunecos la ploaie.",
+              "Bisericile și muzeele sunt refugii perfecte în timpul averselor.",
+              "Purtați o jachetă impermeabilă; umbrelele sunt greu de folosit pe străzile înguste.",
+              "Multe cafenele au zone exterioare încălzite și acoperite.",
+              "Priveliștea din turnuri este adesea limitată de nori în timpul ploii."
+            ],
+            "en": [
+              "Stone pavement in the old town becomes extremely slippery when wet.",
+              "Churches and museums are perfect refuges during rain showers.",
+              "Wear a waterproof jacket; umbrellas are cumbersome in narrow alleys.",
+              "Many cafes have heated outdoor areas with awnings.",
+              "The view from the towers is often clouded over during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Rab im Winter ohne die Sommermassen. Morgens ist die Luft am Hafen kristallklar. Mittags wärmt die tiefstehende Sonne die Steinfassaden der Gornja Ulica. Nachmittags, wenn die Schatten länger werden, bieten die Kirchen eine spirituelle Ruhe. Beachten Sie, dass es ab 16:30 Uhr dämmert. Abends erleuchten die Laternen die fast menschenleeren Gassen und schaffen eine magische, zeitlose Atmosphäre.",
+            "hu": "Ismerje meg Rabot télen, a nyári tömeg nélkül. Reggel a kikötőben a levegő kristálytiszta. Délben az alacsonyan járó nap melegíti a Gornja Ulica kőhomlokzatait. Délután, ahogy a hűvösödik, a templomok spirituális nyugalmat árasztanak. Vegye figyelembe a korai, 16:30-as sötétedést. Este a lámpák fénye világítja meg a néptelen utcákat, varázslatos és időtlen hangulatot teremtve.",
+            "ro": "Experimentați Rab iarna, fără mulțimile de vară. Dimineața, aerul din port este de o claritate cristalină. La prânz, soarele blând încălzește fațadele de piatră de pe Gornja Ulica. După-amiaza, pe măsură ce umbrele se lungesc, bisericile oferă o liniște spirituală. Rețineți că amurgul începe la ora 16:30. Seara, felinarele luminează străzile aproape pustii, creând o atmosferă magică.",
+            "en": "Experience Rab in winter without the summer crowds. In the morning, the harbor air is crystal clear. At noon, the low-lying sun warms the stone facades of Gornja Ulica. In the afternoon, as shadows lengthen, the churches offer spiritual peace. Note that dusk begins as early as 4:30 PM. In the evening, streetlamps illuminate the nearly empty alleys, creating a magical, timeless atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Platz des hl. Christophorus",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am sonst belebten Stadteingang.",
+                "hu": "Élvezze a nyugalmat az egyébként nyüzsgő városkapunál.",
+                "ro": "Bucurați-vă de liniște la intrarea în oraș, de obicei foarte aglomerată.",
+                "en": "Enjoy the tranquility at the otherwise bustling town entrance."
+              }
+            },
+            {
+              "name": "Gornja Ulica",
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet die Glockentürme besonders schön.",
+                "hu": "A téli napfény különösen szépen világítja meg a harangtornyokat.",
+                "ro": "Soarele de iarnă luminează clopotnițele într-un mod deosebit.",
+                "en": "The winter sun illuminates the bell towers particularly beautifully."
+              }
+            },
+            {
+              "name": "Kirche St. Justina",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten des Museums vorab.",
+                "hu": "Előre ellenőrizze a múzeum téli nyitvatartási idejét.",
+                "ro": "Verificați programul de iarnă al muzeului în prealabil.",
+                "en": "Check the museum's winter opening hours in advance."
+              }
+            },
+            {
+              "name": "Fürstenpalast",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur ohne die sommerlichen Warteschlangen.",
+                "hu": "Csodálja meg az építészetet a nyári sorban állás nélkül.",
+                "ro": "Admirați arhitectura fără cozile lungi din timpul verii.",
+                "en": "Admire the architecture without the summer queues."
+              }
+            },
+            {
+              "name": "Kathedrale Mariä Himmelfahrt",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und Wärme an windigen Wintertagen.",
+                "hu": "A csend és a meleg szigete a szeles téli napokon.",
+                "ro": "Un loc de liniște și căldură în zilele de iarnă cu vânt.",
+                "en": "A place of silence and warmth on windy winter days."
+              }
+            },
+            {
+              "name": "Park Komrčar",
+              "tip_5lang": {
+                "de": "Die immergrünen Pinien bewahren auch im Winter ihr sattes Grün.",
+                "hu": "Az örökzöld fenyők télen is megőrzik mélyzöld színüket.",
+                "ro": "Pinii mereu verzi își păstrează culoarea bogată chiar și iarna.",
+                "en": "Evergreen pines keep their lush green even in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung ist wegen des kalten Bura-Windes wichtig.",
+              "Viele touristische Souvenirläden sind im Winter geschlossen.",
+              "Der Sonnenuntergang findet bereits gegen 16:30 Uhr statt.",
+              "Genießen Sie die authentische Ruhe der Inselbewohner.",
+              "Die Glockentürme sind im Winter oft nur eingeschränkt begehbar."
+            ],
+            "hu": [
+              "A hideg Bura szél miatt réteges, meleg öltözet szükséges.",
+              "Sok turisztikai ajándékbolt zárva tart a téli szezonban.",
+              "A naplemente már délután fél 5 körül bekövetkezik.",
+              "Élvezze a szigetlakók autentikus, lassú életvitelét.",
+              "A harangtornyok télen gyakran csak korlátozottan látogathatók."
+            ],
+            "ro": [
+              "Îmbrăcămintea groasă este esențială din cauza vântului rece Bura.",
+              "Multe magazine de suveniruri sunt închise în timpul iernii.",
+              "Apusul are loc devreme, în jurul orei 16:30.",
+              "Bucurați-vă de liniștea autentică a localnicilor de pe insulă.",
+              "Accesul în clopotnițe poate fi restricționat în sezonul rece."
+            ],
+            "en": [
+              "Warm clothing is important due to the cold Bura wind.",
+              "Many tourist souvenir shops are closed during the winter.",
+              "Sunset occurs early, around 4:30 PM.",
+              "Enjoy the authentic peace and quiet of the islanders.",
+              "The bell towers often have limited access in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -452,6 +792,308 @@
           "Cycling is only restrictedly allowed in the pedestrian zone.",
           "Use the coastal path for longer tours."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Rab entspannt mit dem Fahrrad. Vom Christophorus-Platz radeln Sie durch das malerische Viertel Kaldanac und erkunden die historischen Ruinen von St. Johannes. Vorbei am Benediktinerkloster gelangen Sie schließlich in den weiten Park Komrčar, wo schattige Wege zum entspannten Fahren einladen und immer wieder Ausblicke auf das Meer bieten.",
+            "hu": "Fedezze fel Rab-ot kényelmesen kerékpárral. A Szent Kristóf tértől kerekezzen át a festői Kaldanac negyeden, és fedezze fel a Szent János-templom történelmi romjait. A bencés kolostor mellett elhaladva végül a tágas Komrčar-parkba ér, ahol árnyas utak hívogatnak a nyugodt tekerésre, közben pedig újra és újra felbukkan a tenger látványa.",
+            "ro": "Descoperiți Rab într-un mod relaxat cu bicicleta. De la Piața Sf. Cristofor pedalați prin cartierul pitoresc Kaldanac și explorați ruinele istorice ale Sf. Ioan. Trecând pe lângă mănăstirea benedictină, ajungeți în cele din urmă în parcul vast Komrčar, unde potecile umbrite vă invită la o plimbare relaxată, oferind din când în când vederi spre mare.",
+            "en": "Discover Rab in a relaxed way by bike. From St. Christopher's Square, cycle through the picturesque Kaldanac district and explore the historic ruins of St. John. Passing the Benedictine monastery, you finally reach the wide Komrcar Park, where shady paths invite you to ride peacefully, offering occasional views of the sea."
+          },
+          "stops": [
+            {
+              "name": "Platz des hl. Christophorus",
+              "tip_5lang": null
+            },
+            {
+              "name": "Viertel Kaldanac",
+              "tip_5lang": null
+            },
+            {
+              "name": "Ruinen von St. Johannes",
+              "tip_5lang": null
+            },
+            {
+              "name": "Benediktinerkloster St. Andreas",
+              "tip_5lang": null
+            },
+            {
+              "name": "Park Komrčar",
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Getrocknete Feigen",
+                "tip": "Ein gesunder Snack für die Radtour."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Aszalt füge",
+                "tip": "Egészséges snack a biciklitúrához."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Smochine uscate",
+                "tip": "O gustare sănătoasă pentru tura cu bicicleta."
+              }
+            ],
+            "en": [
+              {
+                "name": "Dried Figs",
+                "tip": "A healthy snack for the bike tour."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Bucht am Park Komrčar",
+                "tip": "Perfekter Ort für ein kurzes Bad.",
+                "emoji": "🌊"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Öböl a Komrčar-parknál",
+                "tip": "Tökéletes hely egy gyors mártózáshoz.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Golful de lângă parcul Komrčar",
+                "tip": "Loc perfect pentru o baie scurtă.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Bay near Komrcar Park",
+                "tip": "Perfect spot for a quick swim.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lavendelsäckchen",
+                "tip": "Handgefertigt auf der Insel Rab."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Levendulazsákok",
+                "tip": "Kézzel készített ajándék Rab szigetéről."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Săculeți cu lavandă",
+                "tip": "Lucrați manual pe insula Rab."
+              }
+            ],
+            "en": [
+              {
+                "name": "Lavender Sachets",
+                "tip": "Handmade on the island of Rab."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "In der Fußgängerzone ist das Radfahren nur eingeschränkt erlaubt.",
+              "Nutzen Sie den Weg entlang der Küste für längere Touren."
+            ],
+            "hu": [
+              "A sétálóövezetben a kerékpározás csak korlátozottan megengedett.",
+              "Használja a tengerparti utat hosszabb túrákhoz."
+            ],
+            "ro": [
+              "În zona pietonală ciclismul este permis doar limitat.",
+              "Folosiți drumul de-a lungul coastei pentru tururi mai lungi."
+            ],
+            "en": [
+              "Cycling is only restrictedly allowed in the pedestrian zone.",
+              "Use the coastal path for longer tours."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber leere Wege. Morgens starten Sie am Christophorusplatz; achten Sie auf glatte Kurven. Mittags erkunden Sie das Viertel Kaldanac, wo der Regen die alten Steine reinigt. Nachmittags bieten die Ruinen von St. Johannes einen mystischen Anblick unter grauem Himmel. Beenden Sie die Tour im Park Komrčar, wo die Bäume den stärksten Regen abfangen.",
+            "hu": "Egy esős biciklitúra óvatosságot igényel, de üres utakat kínál. Reggel a Szent Kristóf térről induljon; figyeljen a csúszós kanyarokra. Délben fedezze fel a Kaldanac negyedet, ahol az eső tisztára mossa a régi köveket. Délután a Szent János romok misztikus látványt nyújtanak a szürke ég alatt. Zárja a túrát a Komrčar parkban, ahol a fák felfogják a hevesebb esőt.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită prudență, dar oferă drumuri libere. Dimineața, porniți din Piața Sf. Cristofor; atenție la curbele alunecoase. La prânz, explorați cartierul Kaldanac, unde ploaia curăță pietrele vechi. După-amiaza, ruinele Sf. Ioan au un aspect mistic sub cerul gri. Încheiați turul în Parcul Komrčar, unde copacii vă protejează de ploaia torențială.",
+            "en": "A bike tour in the rain requires caution but offers empty paths. In the morning, start at St. Christopher Square; watch out for slippery corners. At noon, explore the Kaldanac quarter, where rain washes the ancient stones. In the afternoon, the ruins of St. John offer a mystical sight under gray skies. End the tour in Komrčar Park, where the trees catch the heaviest rain."
+          },
+          "stops": [
+            {
+              "name": "Platz des hl. Christophorus",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start auf nassem Untergrund.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a nedves talajon.",
+                "ro": "Verificați frânele înainte de a porni pe carosabilul umed.",
+                "en": "Check your brakes before starting on wet surfaces."
+              }
+            },
+            {
+              "name": "Viertel Kaldanac",
+              "tip_5lang": {
+                "de": "Fahren Sie in den engen Gassen langsam; das Pflaster ist tückisch.",
+                "hu": "Lassan haladjon a szűk utcákban; a kövezet csalóka lehet.",
+                "ro": "Mergeți încet pe străzile înguste; pavajul poate fi trădător.",
+                "en": "Ride slowly in narrow alleys; the pavement is treacherous."
+              }
+            },
+            {
+              "name": "Ruinen von St. Johannes",
+              "tip_5lang": {
+                "de": "Die Mauern bieten kaum Schutz; halten Sie Regenkleidung bereit.",
+                "hu": "A falak alig védenek; legyen kéznél esővédő ruházat.",
+                "ro": "Zidurile oferă puțin adăpost; aveți la îndemână pelerina de ploaie.",
+                "en": "The walls offer little shelter; keep rain gear ready."
+              }
+            },
+            {
+              "name": "Benediktinerkloster St. Andreas",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Eingangsbereich bietet kurzzeitigen Schutz.",
+                "hu": "Egy rövid megálló a bejáratnál átmeneti védelmet nyújt.",
+                "ro": "O scurtă oprire la intrare oferă adăpost temporar.",
+                "en": "A short stop at the entrance area offers brief shelter."
+              }
+            },
+            {
+              "name": "Park Komrčar",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Pfützen auf den unbefestigten Waldwegen.",
+                "hu": "Kerülje el a tócsákat a kiépítetlen erdei utakon.",
+                "ro": "Evitați bălțile de pe potecile de pământ din pădure.",
+                "en": "Avoid puddles on the unpaved forest paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Benutzen Sie Schutzbleche, um Schmutzspritzer zu vermeiden.",
+              "Steinpflaster und Markierungen sind bei Nässe extrem rutschig.",
+              "Vermeiden Sie abrupte Bremsmanöver in Kurven.",
+              "Tragen Sie gut sichtbare, wasserdichte Kleidung.",
+              "Suchen Sie bei starkem Gewitter sofort festes Mauerwerk auf."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz és sár ellen.",
+              "A mészkő burkolat és a festett jelek esőben nagyon csúsznak.",
+              "Kerülje a hirtelen fékezést a kanyarokban.",
+              "Viseljen jól látható, vízhatlan öltözetet.",
+              "Heves vihar esetén azonnal keressen szilárd épületet menedéknek."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a evita stropirea cu noroi.",
+              "Pavajul de piatră și marcajele sunt extrem de alunecoase pe umed.",
+              "Evitați frânările bruște în curbe.",
+              "Purtați haine impermeabile și vizibile.",
+              "În caz de furtună puternică, căutați imediat adăpost solid."
+            ],
+            "en": [
+              "Use mudguards to avoid dirt and water splashes.",
+              "Stone pavement and markings are extremely slippery when wet.",
+              "Avoid abrupt braking in corners.",
+              "Wear high-visibility, waterproof clothing.",
+              "In case of a heavy storm, seek solid shelter immediately."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln auf Rab ist erfrischend und friedlich. Morgens geht es am Hafen los, wo die Luft belebend wirkt. Mittags erkunden Sie Kaldanac; die Sonne steht tief und leuchtet die Gassen golden aus. Nachmittags bei den Ruinen von St. Johannes genießen Sie die weite Sicht. Denken Sie an den frühen Sonnenuntergang um 16:30 Uhr. Die Tour endet im Park Komrčar, der im Winter eine fast mystische Stille ausstrahlt.",
+            "hu": "A téli kerékpározás Rabon frissítő és békés. Reggel a kikötőből indulva az élénkítő levegő fogadja. Délben fedezze fel Kaldanacot; az alacsony nap aranyszínnel világítja meg az utcákat. Délután a Szent János romoknál élvezze a tiszta távlatokat. Gondoljon a korai, 16:30-as naplementére. A túra a Komrčar parkban ér véget, amely télen szinte misztikus csendet áraszt.",
+            "ro": "Ciclismul de iarnă în Rab este revigorant și liniștit. Dimineața porniți din port, unde aerul este revigorant. La prânz, explorați Kaldanac; soarele jos luminează străzile în tonuri aurii. După-amiaza, la ruinele Sf. Ioan, bucurați-vă de vizibilitatea mare. Nu uitați de apusul devreme, la 16:30. Turul se încheie în Parcul Komrčar, care emană o liniște mistică iarna.",
+            "en": "Winter cycling on Rab is refreshing and peaceful. Start in the morning at the harbor, where the air is bracing. At noon, explore Kaldanac; the low sun lights up the alleys in golden tones. In the afternoon at the ruins of St. John, enjoy the clear views. Keep the early sunset at 4:30 PM in mind. The tour ends in Komrčar Park, which radiates a mystical silence in winter."
+          },
+          "stops": [
+            {
+              "name": "Platz des hl. Christophorus",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe gegen den kühlen Fahrtwind.",
+                "hu": "Viseljen kesztyűt a hűvös menetszél ellen.",
+                "ro": "Purtați mănuși împotriva curentului de aer rece.",
+                "en": "Wear gloves to protect against the chilly headwind."
+              }
+            },
+            {
+              "name": "Viertel Kaldanac",
+              "tip_5lang": {
+                "de": "Die Sonne erreicht hier im Winter nur die oberen Etagen.",
+                "hu": "A nap itt télen csak a felsőbb emeleteket éri el.",
+                "ro": "Soarele ajunge aici iarna doar la etajele superioare.",
+                "en": "The sun only reaches the upper floors here in winter."
+              }
+            },
+            {
+              "name": "Ruinen von St. Johannes",
+              "tip_5lang": {
+                "de": "Genießen Sie den ungehinderten Blick auf das winterliche Meer.",
+                "hu": "Élvezze a zavartalan kilátást a téli tengerre.",
+                "ro": "Bucurați-vă de priveliștea neîntreruptă asupra mării iarna.",
+                "en": "Enjoy the unobstructed view of the wintry sea."
+              }
+            },
+            {
+              "name": "Benediktinerkloster St. Andreas",
+              "tip_5lang": {
+                "de": "Die massiven Mauern halten die Kälte oft noch länger.",
+                "hu": "A masszív falak gyakran még tovább tartják a hideget.",
+                "ro": "Zidurile masive păstrează adesea frigul mai mult timp.",
+                "en": "The massive walls often retain the cold even longer."
+              }
+            },
+            {
+              "name": "Park Komrčar",
+              "tip_5lang": {
+                "de": "Die Waldwege sind im Winter oft feucht und weich.",
+                "hu": "Az erdei utak télen gyakran nedvesek és puhák.",
+                "ro": "Potecile din pădure sunt adesea umede și moi iarna.",
+                "en": "The forest paths are often damp and soft in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip gegen den Wind.",
+              "Handschuhe und eine Mütze unter dem Helm sind unverzichtbar.",
+              "Planen Sie Ihre Rückkehr vor 17:00 Uhr ein (Dunkelheit).",
+              "Die Bura kann das Radfahren an exponierten Stellen erschweren.",
+              "Nutzen Sie die leeren Promenaden für entspanntes Fahren."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a szél elleni védekezés érdekében.",
+              "A kesztyű és a sisak alatti sapka nélkülözhetetlen.",
+              "Tervezze meg a visszatérést délután 5 előtt (sötétség).",
+              "A Bura szél a nyitott részeken megnehezítheti a haladást.",
+              "Használja ki az üres sétányokat a nyugodt tekeréshez."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru a vă proteja de vânt.",
+              "Mănușile și o căciulă sub cască sunt indispensabile.",
+              "Plănuiți revenirea înainte de ora 17:00 (întuneric).",
+              "Vântul Bura poate îngreuna ciclismul în zonele expuse.",
+              "Profitați de faleza pustie pentru o plimbare relaxată."
+            ],
+            "en": [
+              "Dress in layers to protect against the wind.",
+              "Gloves and a hat under the helmet are essential.",
+              "Plan your return before 5:00 PM (darkness).",
+              "The Bura wind can make cycling difficult in exposed areas.",
+              "Take advantage of the empty promenades for relaxed riding."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -658,6 +1300,308 @@
           "In high season, the parking lot in Rab fills up quickly.",
           "The drive from Rab to Lopar takes about 15-20 minutes."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto verbinden Sie den Badespaß in Lopar mit der Kultur der Stadt Rab. Starten Sie morgens am Paradiesstrand in Lopar, bevor Sie mittags in die Altstadt von Rab zurückkehren. Dort erkunden Sie den Christophorus-Platz, den Fürstenpalast und steigen schließlich auf den berühmten Glockenturm, um das Panorama über die roten Dächer zu genießen.",
+            "hu": "Autóval összekötheti a lopari strandolást Rab város kultúrájával. Kezdje a reggelt a lopari Paradicsom-parton, mielőtt délben visszatérne Rab óvárosába. Ott fedezze fel a Szent Kristóf teret, a Fejedelmi palotát, és végül másszon fel a híres harangtoronyba, hogy megcsodálja a panorámát a vörös tetők felett.",
+            "ro": "Cu mașina combinați distracția la plajă în Lopar cu cultura orașului Rab. Începeți dimineața pe plaja Paradisului din Lopar, înainte de a reveni la prânz în orașul vechi Rab. Acolo explorați Piața Sf. Cristofor, Palatul Principelui și în cele din urmă urcați în faimoasa clopotniță pentru a admira panorama peste acoperișurile roșii.",
+            "en": "By car, you can combine beach fun in Lopar with the culture of Rab town. Start the morning at Paradise Beach in Lopar before returning to the old town of Rab at midday. There, explore St. Christopher's Square, the Rector's Palace, and finally climb the famous bell tower to enjoy the panorama over the red roofs."
+          },
+          "stops": [
+            {
+              "name": "Rab Altstadt Parkplatz",
+              "tip_5lang": null
+            },
+            {
+              "name": "Lopar (Paradiesstrand)",
+              "tip_5lang": null
+            },
+            {
+              "name": "Platz des hl. Christophorus",
+              "tip_5lang": null
+            },
+            {
+              "name": "Fürstenpalast",
+              "tip_5lang": null
+            },
+            {
+              "name": "Glockenturm der Maria",
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gegrillter Fisch",
+                "tip": "In Lopar gibt es exzellente Strandrestaurants."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Grillezett hal",
+                "tip": "Loparban kiváló tengerparti éttermek találhatók."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pește la grătar",
+                "tip": "În Lopar există restaurante excelente pe plajă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Grilled Fish",
+                "tip": "Lopar has excellent beach restaurants."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Dünen von Lopar",
+                "tip": "Ruhige Orte abseits des Hauptstrandes.",
+                "emoji": "🏖️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lopar dűnéi",
+                "tip": "Csendes helyek a főstrandtól távolabb.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Dunele din Lopar",
+                "tip": "Locuri liniștite departe de plaja principală.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Dunes of Lopar",
+                "tip": "Quiet spots away from the main beach.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Sonnenschutz",
+                "tip": "Lokale Naturkosmetik aus Olivenöl."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Naptej",
+                "hu": "Helyi natúrkozmetikumok olívaolajból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Protecție solară",
+                "tip": "Cosmetice naturale locale din ulei de măsline."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sun Protection",
+                "tip": "Local natural cosmetics made from olive oil."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "In der Hochsaison ist der Parkplatz in Rab schnell voll.",
+              "Die Fahrt von Rab nach Lopar dauert etwa 15-20 Minuten."
+            ],
+            "hu": [
+              "Főszezonban a rabi parkoló hamar megtelik.",
+              "Az út Rab-ból Loparba körülbelül 15-20 percet vesz igénybe."
+            ],
+            "ro": [
+              "În sezonul de vârf, parcarea din Rab se umple repede.",
+              "Drumul de la Rab la Lopar durează aproximativ 15-20 de minute."
+            ],
+            "en": [
+              "In high season, the parking lot in Rab fills up quickly.",
+              "The drive from Rab to Lopar takes about 15-20 minutes."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Rab bei Regen komfortabel. Starten Sie morgens am Altstadt-Parkplatz. Mittags fahren Sie nach Lopar; der Paradiesstrand wirkt bei Regen dramatisch, auch wenn Baden ausfällt. Nachmittags kehren Sie in die Stadt zurück zum Christophorusplatz. Besichtigen Sie den Fürstenpalast und steigen Sie – wenn möglich – auf den Glockenturm, um die Wolken über der Insel zu beobachten.",
+            "hu": "Autóval kényelmesen felfedezheti Rabot esőben is. Kezdje a reggelt az óvárosi parkolóban. Délben autózzon el Loparba; a Paradicsom-part esőben is drámai látvány, még ha a fürdés el is marad. Délután térjen vissza a városba a Szent Kristóf térhez. Látogassa meg a Fejedelmi palotát, és ha lehet, menjen fel a harangtoronyba megfigyelni a sziget feletti felhőket.",
+            "ro": "Cu mașina, explorați Rab în confort chiar și pe ploaie. Începeți dimineața la parcarea din orașul vechi. La prânz, conduceți spre Lopar; Plaja Paradisului arată dramatic pe ploaie, chiar dacă nu puteți înota. După-amiaza, reveniți în oraș la Piața Sf. Cristofor. Vizitați Palatul Rectorului și urcați în clopotniță pentru a vedea norii deasupra insulei.",
+            "en": "By car, you can explore Rab in comfort even in the rain. Start your morning at the old town parking lot. At noon, drive to Lopar; Paradise Beach looks dramatic in the rain, even if swimming is out. In the afternoon, return to town to St. Christopher Square. Visit the Rector's Palace and, if possible, climb the bell tower to watch the clouds over the island."
+          },
+          "stops": [
+            {
+              "name": "Rab Altstadt Parkplatz",
+              "tip_5lang": {
+                "de": "Kurze Wege zum Stadteingang minimieren den Aufenthalt im Regen.",
+                "hu": "A rövid út a városkapuig minimalizálja az esőben töltött időt.",
+                "ro": "Distanța scurtă până la intrarea în oraș minimizează timpul în ploaie.",
+                "en": "Short paths to the town entrance minimize time spent in the rain."
+              }
+            },
+            {
+              "name": "Lopar (Paradiesstrand)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem trockenen Auto oder einem Café.",
+                "hu": "Élvezze a kilátást a száraz autóból vagy egy kávézóból.",
+                "ro": "Bucurați-vă de priveliște din mașină sau de la o cafenea.",
+                "en": "Enjoy the view from the dry car or a nearby cafe."
+              }
+            },
+            {
+              "name": "Platz des hl. Christophorus",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Zentrum, um schnell unter Arkaden zu kommen.",
+                "hu": "Parkoljon a központhoz közel, hogy gyorsan az árkádok alá érjen.",
+                "ro": "Parcați aproape de centru pentru a ajunge rapid sub arcade.",
+                "en": "Park close to the center to quickly reach the arcades."
+              }
+            },
+            {
+              "name": "Fürstenpalast",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Palast als kulturellen Regenschutz.",
+                "hu": "Használja a palotát kulturális esővédőként.",
+                "ro": "Folosiți palatul ca adăpost cultural împotriva ploii.",
+                "en": "Use the palace as a cultural rain shelter."
+              }
+            },
+            {
+              "name": "Glockenturm der Maria",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aufstieg; die Steinstufen können feucht sein.",
+                "hu": "Vigyázzon a felmenetnél; a kőlépcsők nedvesek lehetnek.",
+                "ro": "Atenție la urcare; treptele de piatră pot fi umede.",
+                "en": "Be careful during the ascent; the stone steps may be damp."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Hauptstraßen der Insel sind gut ausgebaut, aber bei Nässe rutschig.",
+              "In Lopar gibt es bei Regen ausreichend freie Parkplätze.",
+              "Ein Auto bietet den besten Schutz bei wechselhaftem Inselwetter.",
+              "Vermeiden Sie das Parken unter Bäumen bei Sturmgefahr.",
+              "Nutzen Sie die Fahrtzeit für Sightseeing entlang der Küstenstraße."
+            ],
+            "hu": [
+              "A sziget főútjai jól kiépítettek, de esőben csúszósak.",
+              "Loparban esős időben bőven akad szabad parkolóhely.",
+              "Az autó nyújtja a legjobb védelmet a változékony szigeti időben.",
+              "Viharveszély esetén kerülje a fák alatti parkolást.",
+              "Használja ki az utazási időt a part menti panoráma megtekintésére."
+            ],
+            "ro": [
+              "Drumurile principale ale insulei sunt bune, dar alunecoase pe umed.",
+              "În Lopar sunt destule locuri de parcare libere pe ploaie.",
+              "Mașina oferă cea mai bună protecție în caz de vreme schimbătoare.",
+              "Evitați parcarea sub copaci dacă există risc de furtună.",
+              "Folosiți timpul de condus pentru vizionarea coastei de-a lungul drumului."
+            ],
+            "en": [
+              "The island's main roads are well-maintained but slippery when wet.",
+              "In Lopar, there are plenty of free parking spaces in rainy weather.",
+              "A car offers the best protection against changeable island weather.",
+              "Avoid parking under trees if there is a risk of a storm.",
+              "Use the driving time for sightseeing along the coastal road."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist eine Autofahrt über die Insel Rab besonders entspannt. Morgens starten Sie stressfrei am Altstadt-Parkplatz. Mittags fahren Sie nach Lopar; der weite Sandstrand gehört Ihnen fast allein. Nachmittags kehren Sie zum Christophorusplatz zurück. Die tiefstehende Sonne bietet ideales Licht für Fotos. Beenden Sie den Tag beim Glockenturm, bevor die Dunkelheit gegen 17:00 Uhr die Insel einhüllt.",
+            "hu": "Télen az autózás a Rab-szigeten különösen pihentető. Reggel stresszmentesen indulhat az óvárosi parkolóból. Délben irány Lopar; a tágas homokos tengerpart szinte csak az Öné. Délután térjen vissza a Szent Kristóf térre. Az alacsony nap tökéletes fényt ad a fotózáshoz. Zárja a napot a harangtoronynál, mielőtt 17 óra körül a sötétség beborítja a szigetet.",
+            "ro": "Iarna, o călătorie cu mașina pe insula Rab este deosebit de relaxantă. Dimineața porniți fără stres din parcarea orașului vechi. La prânz, conduceți spre Lopar; plaja vastă de nisip este aproape doar a dumneavoastră. După-amiaza reveniți în Piața Sf. Cristofor. Soarele jos oferă lumina ideală pentru fotografii. Încheiați ziua la clopotniță înainte ca întunericul să cuprindă insula la ora 17:00.",
+            "en": "In winter, a car trip across Rab island is particularly relaxed. Start stress-free in the morning at the old town parking lot. At noon, drive to Lopar; the vast sandy beach is almost yours alone. In the afternoon, return to St. Christopher Square. The low sun provides ideal light for photos. End the day at the bell tower before darkness envelops the island around 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": "Rab Altstadt Parkplatz",
+              "tip_5lang": {
+                "de": "Im Winter finden Sie hier problemlos einen Parkplatz nah am Zentrum.",
+                "hu": "Télen itt gond nélkül talál parkolóhelyet a központ közelében.",
+                "ro": "Iarna veți găsi fără probleme un loc de parcare aproape de centru.",
+                "en": "In winter, you'll easily find a parking spot close to the center."
+              }
+            },
+            {
+              "name": "Lopar (Paradiesstrand)",
+              "tip_5lang": {
+                "de": "Perfekt für einen einsamen Strandspaziergang in klarer Winterluft.",
+                "hu": "Tökéletes egy magányos tengerparti sétához a tiszta téli levegőben.",
+                "ro": "Perfect pentru o plimbare solitară pe plajă în aerul curat de iarnă.",
+                "en": "Perfect for a lonely beach walk in the clear winter air."
+              }
+            },
+            {
+              "name": "Platz des hl. Christophorus",
+              "tip_5lang": {
+                "de": "Genießen Sie die weihnachtliche Beleuchtung, falls vorhanden.",
+                "hu": "Élvezze az ünnepi kivilágítást, ha van ilyen a téren.",
+                "ro": "Bucurați-vă de iluminatul festiv, dacă este instalat în piață.",
+                "en": "Enjoy the festive lighting, if available in the square."
+              }
+            },
+            {
+              "name": "Fürstenpalast",
+              "tip_5lang": {
+                "de": "Die Steinmauern strahlen im Winter eine kühle Eleganz aus.",
+                "hu": "A kőfalak télen hűvös eleganciát árasztanak.",
+                "ro": "Zidurile de piatră emană o eleganță rece în timpul iernii.",
+                "en": "The stone walls radiate a cool elegance in winter."
+              }
+            },
+            {
+              "name": "Glockenturm der Maria",
+              "tip_5lang": {
+                "de": "Warme Kleidung für die windige Aussichtsplattform nötig.",
+                "hu": "Meleg öltözet szükséges a szeles kilátóteraszhoz.",
+                "ro": "Haine groase necesare pentru platforma de observație cu vânt.",
+                "en": "Warm clothing needed for the windy observation deck."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkgebühren sind im Winter oft reduziert oder entfallen.",
+              "Die Bura kann auf den Brücken und Küstenstraßen stark wehen.",
+              "Stellen Sie sicher, dass Ihr Fahrzeug wintertauglich ist (Frostschutz).",
+              "Lopar ist im Winter sehr ruhig; viele Cafés haben Betriebspause.",
+              "Nutzen Sie die kurzen Wege durch weniger Verkehr."
+            ],
+            "hu": [
+              "A parkolási díjak télen gyakran alacsonyabbak vagy ingyenesek.",
+              "A Bura szél a hidakon és part menti utakon erősen fújhat.",
+              "Győződjön meg róla, hogy autója fel van készítve a télre.",
+              "Lopar télen nagyon csendes, sok kávézó zárva tart.",
+              "Használja ki a kisebb forgalom miatti rövidebb menetidőket."
+            ],
+            "ro": [
+              "Taxele de parcare sunt adesea reduse sau eliminate iarna.",
+              "Vântul Bura poate sufla cu putere pe poduri și drumuri de coastă.",
+              "Asigurați-vă că vehiculul este pregătit pentru iarnă.",
+              "Lopar este foarte liniștit iarna; multe cafenele sunt închise.",
+              "Profitați de traficul redus pentru deplasări rapide."
+            ],
+            "en": [
+              "Parking fees are often reduced or waived in winter.",
+              "The Bura wind can blow strongly on bridges and coastal roads.",
+              "Ensure your vehicle is winter-ready (antifreeze).",
+              "Lopar is very quiet in winter; many cafes are on a seasonal break.",
+              "Take advantage of shorter travel times due to less traffic."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -864,6 +1808,308 @@
           "Buy your ticket in advance at the counter.",
           "The bus station is only about 300 meters from the harbor."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erreichen Sie Rab bequem mit dem Inselbus. Von der Station gelangen Sie direkt zum Christophorus-Platz und tauchen in die Geschichte des Fürstenpalastes ein. Besuchen Sie die Kathedrale und wandern Sie durch die malerischen Gassen, bevor Sie im Park Komrčar neue Energie tanken und schließlich wieder den Bus für Ihre Weiterreise nehmen.",
+            "hu": "Érkezzen Rab-ba kényelmesen a szigeti busszal. Az állomástól közvetlenül a Szent Kristóf térre jut, és elmerülhet a Fejedelmi palota történelmében. Látogassa meg a székesegyházat, barangoljon a festői utcákon, majd tölődjön fel a Komrčar-parkban, mielőtt újra buszra szállna a továbbutazáshoz.",
+            "ro": "Ajungeți în Rab confortabil cu autobuzul de pe insulă. De la stație ajungeți direct în Piața Sf. Cristofor și vă scufundați în istoria Palatului Principelui. Vizitați catedrala și plimbați-vă pe străzile pitorești, înainte de a vă reîncărca bateriile în parcul Komrčar și de a lua din nou autobuzul pentru continuarea călătoriei.",
+            "en": "Reach Rab comfortably by island bus. From the station, you'll reach St. Christopher's Square directly and dive into the history of the Rector's Palace. Visit the Cathedral and wander through the picturesque alleys before recharging in Komrcar Park and finally taking the bus again for your onward journey."
+          },
+          "stops": [
+            {
+              "name": "Busbahnhof Rab",
+              "tip_5lang": null
+            },
+            {
+              "name": "Platz des hl. Christophorus",
+              "tip_5lang": null
+            },
+            {
+              "name": "Fürstenpalast",
+              "tip_5lang": null
+            },
+            {
+              "name": "Kathedrale Mariä Himmelfahrt",
+              "tip_5lang": null
+            },
+            {
+              "name": "Park Komrčar",
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Ziegenkäse",
+                "tip": "Lokale Delikatesse vom Markt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kecskesajt",
+                "tip": "Helyi finomság a piacról."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brânză de capră",
+                "tip": "Delicatesă locală din piață."
+              }
+            ],
+            "en": [
+              {
+                "name": "Goat Cheese",
+                "tip": "Local delicacy from the market."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Schattige Bänke im Park",
+                "tip": "Ideal zum Lesen und Entspannen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Árnyékos padok a parkban",
+                "tip": "Ideális olvasáshoz és pihenéshez.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bănci umbrite în parc",
+                "tip": "Ideal pentru citit și relaxare.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Shady Benches in the Park",
+                "tip": "Ideal for reading and relaxing.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Olivenholz-Produkte",
+                "tip": "Küchenutensilien und Schmuck."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Olajfa termékek",
+                "tip": "Konyhai eszközök és ékszerek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Produse din lemn de măslin",
+                "tip": "Ustensile de bucătărie și bijuterii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Olive Wood Products",
+                "tip": "Kitchen utensils and jewelry."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Ihr Ticket im Voraus am Schalter.",
+              "Der Busbahnhof liegt nur etwa 300 Meter vom Hafen entfernt."
+            ],
+            "hu": [
+              "Vásárolja meg jegyét előre a pénztárnál.",
+              "A buszpályaudvar mindössze 300 méterre található a kikötőtől."
+            ],
+            "ro": [
+              "Cumpărați biletul în avans de la ghișeu.",
+              "Autogara se află la doar aproximativ 300 de metri de port."
+            ],
+            "en": [
+              "Buy your ticket in advance at the counter.",
+              "The bus station is only about 300 meters from the harbor."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bus, um Rab bei Regen trocken zu erkunden. Morgens kommen Sie am Busbahnhof an. Mittags erreichen Sie den Christophorusplatz, wo Sie schnell unter die Arkaden schlüpfen können. Nachmittags bieten der Fürstenpalast und die Kathedrale ein trockenes Kulturprogramm. Beenden Sie den Tag im Park Komrčar; der Bus bringt Sie komfortabel zurück, ohne dass Sie lange durch den Regen laufen müssen.",
+            "hu": "Használja a buszt, hogy Rabot esőben is szárazon fedezhesse fel. Reggel érkezzen meg a buszpályaudvarra. Délben érje el a Szent Kristóf teret, ahol gyorsan az árkádok alá húzódhat. Délután a Fejedelmi palota és a Székesegyház kínál száraz kulturális programot. Zárja a napot a Komrčar parknál; a busz kényelmesen visszaviszi, elkerülve a hosszú esőben gyaloglást.",
+            "ro": "Folosiți autobuzul pentru a explora Rab pe ploaie fără a vă uda. Dimineața sosiți la autogară. La prânz, ajungeți în Piața Sf. Cristofor, unde vă puteți adăposti rapid sub arcade. După-amiaza, Palatul Rectorului și Catedrala oferă un program cultural la adăpost. Încheiați ziua în Parcul Komrčar; autobuzul vă readuce confortabil, evitând mersul lung prin ploaie.",
+            "en": "Use the bus to explore Rab dry during the rain. In the morning, arrive at the bus station. At noon, reach St. Christopher Square, where you can quickly slip under the arcades. In the afternoon, the Rector's Palace and the Cathedral offer a dry cultural program. End the day at Komrčar Park; the bus takes you back comfortably without a long walk in the rain."
+          },
+          "stops": [
+            {
+              "name": "Busbahnhof Rab",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen bietet guten Schutz vor dem ersten Regen.",
+                "hu": "A váróterem jó védelmet nyújt az első eső elől.",
+                "ro": "Stația de autobuz oferă un adăpost bun împotriva ploii.",
+                "en": "The bus shelter provides good protection from the initial rain."
+              }
+            },
+            {
+              "name": "Platz des hl. Christophorus",
+              "tip_5lang": {
+                "de": "Vom Busstopp sind es nur wenige Schritte zum nächsten Café.",
+                "hu": "A buszmegállótól csak pár lépés a legközelebbi kávézó.",
+                "ro": "De la stația de autobuz sunt doar câțiva pași până la cafenea.",
+                "en": "It's only a few steps from the bus stop to the nearest cafe."
+              }
+            },
+            {
+              "name": "Fürstenpalast",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen Regenschauer kulturell zu überbrücken.",
+                "hu": "Ideális hely egy eső zápor kulturális átvészeléséhez.",
+                "ro": "Un loc ideal pentru a aștepta trecerea ploii vizitând un muzeu.",
+                "en": "An ideal place to wait out a rain shower culturally."
+              }
+            },
+            {
+              "name": "Kathedrale Mariä Himmelfahrt",
+              "tip_5lang": {
+                "de": "Der Innenraum ist ein würdevoller und trockener Rückzugsort.",
+                "hu": "A belső tér méltóságteljes és száraz menedék.",
+                "ro": "Interiorul este un refugiu demn și uscat.",
+                "en": "The interior is a dignified and dry retreat."
+              }
+            },
+            {
+              "name": "Park Komrčar",
+              "tip_5lang": {
+                "de": "Die Wege können bei Regen matschig sein; bleiben Sie auf befestigten Pfaden.",
+                "hu": "Az utak esőben sárosak lehetnek; maradjon a kiépített ösvényeken.",
+                "ro": "Potecile pot fi noroioase pe ploaie; rămâneți pe căile pavate.",
+                "en": "Paths can be muddy in the rain; stay on the paved trails."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan, da es bei Regen zu Verzögerungen kommen kann.",
+              "Halten Sie Kleingeld oder eine Karte für das Ticket bereit.",
+              "Busse sind bei Regen oft voll; planen Sie Wartezeiten ein.",
+              "Die Haltestellen liegen meist zentral an den Sehenswürdigkeiten.",
+              "Tragen Sie wasserfeste Schuhe für den Weg zur Haltestelle."
+            ],
+            "hu": [
+              "Ellenőrizze a buszmenetrendet, esőben előfordulhatnak késések.",
+              "Készítsen elő aprópénzt vagy kártyát a jegyvásárláshoz.",
+              "A buszok esőben gyakran zsúfoltak; számoljon várakozási idővel.",
+              "A megállók többnyire központi helyen, a látnivalók közelében vannak.",
+              "Viseljen vízálló cipőt a megállóig tartó gyalogláshoz."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor, pot apărea întârzieri din cauza ploii.",
+              "Aveți pregătiți bani mărunți sau un card pentru bilet.",
+              "Autobuzele sunt adesea aglomerate pe ploaie; planificați timp de așteptare.",
+              "Stațiile sunt situate central, aproape de principalele atracții.",
+              "Purtați încălțăminte impermeabilă pentru drumul până la stație."
+            ],
+            "en": [
+              "Check the bus schedule, as rain may cause delays.",
+              "Have small change or a card ready for the ticket.",
+              "Buses are often crowded in the rain; plan for potential wait times.",
+              "Stops are mostly centrally located near the sights.",
+              "Wear waterproof shoes for the walk to the bus stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erleben Sie das winterliche Rab wie die Einheimischen. Morgens starten Sie am ruhigen Busbahnhof. Mittags erkunden Sie den Christophorusplatz; die Wintersonne steht tief und wirft lange Schatten. Nachmittags bieten der Fürstenpalast und die Kathedrale Stille und Schutz vor dem Wind. Achten Sie auf den ausgedünnten Winterfahrplan und kehren Sie vor Einbruch der Dunkelheit um 17:00 Uhr zum Park Komrčar zurück.",
+            "hu": "Busszal úgy ismerheti meg a téli Rabot, mint a helyiek. Reggel a csendes buszpályaudvarról induljon. Délben fedezze fel a Szent Kristóf teret; a téli nap alacsonyan jár és hosszú árnyékokat vet. Délután a Fejedelmi palota és a Székesegyház nyugalmat és védelmet nyújt a szél ellen. Ügyeljen a ritkább téli menetrendre, és térjen vissza a Komrčar parkhoz a sötétedés előtt.",
+            "ro": "Cu autobuzul, experimentați Rab-ul de iarnă la fel ca localnicii. Dimineața porniți de la autogara liniștită. La prânz, explorați Piața Sf. Cristofor; soarele de iarnă este jos și aruncă umbre lungi. După-amiaza, Palatul Rectorului și Catedrala oferă liniște și protecție împotriva vântului. Atenție la programul de iarnă redus și reveniți la Parcul Komrčar înainte de ora 17:00.",
+            "en": "By bus, you can experience wintry Rab just like the locals. Start in the morning at the quiet bus station. At noon, explore St. Christopher Square; the winter sun is low and casts long shadows. In the afternoon, the Rector's Palace and the Cathedral offer silence and protection from the wind. Watch out for the reduced winter schedule and return to Komrčar Park before dark at 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": "Busbahnhof Rab",
+              "tip_5lang": {
+                "de": "Im Winter ist der Bahnhof ein ruhiger Knotenpunkt.",
+                "hu": "Télen a pályaudvar egy csendes csomópont.",
+                "ro": "Iarna, autogara este un nod de transport liniștit.",
+                "en": "In winter, the station is a quiet transportation hub."
+              }
+            },
+            {
+              "name": "Platz des hl. Christophorus",
+              "tip_5lang": {
+                "de": "Hier treffen sich im Winter die Einheimischen beim Kaffee.",
+                "hu": "Télen itt találkoznak a helyiek egy kávéra.",
+                "ro": "Aici se întâlnesc localnicii la cafea în timpul iernii.",
+                "en": "This is where locals meet for coffee in winter."
+              }
+            },
+            {
+              "name": "Fürstenpalast",
+              "tip_5lang": {
+                "de": "Die Architektur wirkt in der klaren Winterluft besonders scharf.",
+                "hu": "Az építészet a tiszta téli levegőben különösen élesnek hat.",
+                "ro": "Arhitectura pare deosebit de clară în aerul curat de iarnă.",
+                "en": "The architecture looks particularly sharp in the clear winter air."
+              }
+            },
+            {
+              "name": "Kathedrale Mariä Himmelfahrt",
+              "tip_5lang": {
+                "de": "Ein Ort für Besinnung abseits des Sommertrubels.",
+                "hu": "A nyári nyüzsgéstől távoli elmélkedés helyszíne.",
+                "ro": "Un loc pentru reflecție, departe de agitația verii.",
+                "en": "A place for reflection away from the summer bustle."
+              }
+            },
+            {
+              "name": "Park Komrčar",
+              "tip_5lang": {
+                "de": "Ein winterlicher Waldspaziergang direkt am Stadtrand.",
+                "hu": "Téli erdei séta közvetlenül a város szélén.",
+                "ro": "O plimbare de iarnă prin pădure chiar la marginea orașului.",
+                "en": "A wintry forest walk right on the edge of town."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne sind oft deutlich ausgedünnt.",
+              "Der letzte Bus kann bereits am frühen Abend fahren.",
+              "Nutzen Sie die Wärme im Bus für eine kleine Inselrundfahrt.",
+              "Die Haltestellen sind im Winter weniger überlaufen.",
+              "Fragen Sie den Fahrer nach speziellen Winter-Routen."
+            ],
+            "hu": [
+              "A téli menetrendek gyakran jelentősen ritkábbak.",
+              "Az utolsó busz már kora este elindulhat.",
+              "Használja ki a busz melegét egy kis szigeti körutazásra.",
+              "A megállók télen kevésbé zsúfoltak.",
+              "Kérdezze a sofőrt a speciális téli útvonalakról."
+            ],
+            "ro": [
+              "Orarele de iarnă sunt adesea mult mai rare.",
+              "Ultimul autobuz poate pleca încă de la începutul serii.",
+              "Folosiți căldura din autobuz pentru un mic tur al insulei.",
+              "Stațiile sunt mai puțin aglomerate în timpul iernii.",
+              "Întrebați șoferul despre rutele speciale de iarnă."
+            ],
+            "en": [
+              "Winter schedules are often significantly reduced.",
+              "The last bus may depart as early as the start of the evening.",
+              "Use the warmth in the bus for a small tour of the island.",
+              "The bus stops are less crowded in winter.",
+              "Ask the driver about special winter routes."
+            ]
+          }
+        }
       }
     }
   },

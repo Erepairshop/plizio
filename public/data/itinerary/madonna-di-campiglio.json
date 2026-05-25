@@ -253,6 +253,374 @@
           "Buy the lift ticket online to avoid queues.",
           "Wear sturdy hiking shoes even in summer for the cobblestones in the center."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt im lebhaften Zentrum an der Piazza Righi, dem gesellschaftlichen Herzschlag der Stadt. Nach einem Besuch der historischen Kirche Santa Maria Antica geht es hoch hinaus. Die Spinale-Bahn bringt Sie zu atemberaubenden Ausblicken auf die Dolomiten. Der Nachmittag steht im Zeichen der Sportgeschichte am Miramonti-Hang und endet mit einer Panorama-Fahrt zum Pradalago.",
+            "hu": "A nap a nyüzsgő központban, a Piazza Righin kezdődik, amely a város társasági központja. A történelmi Santa Maria Antica templom megtekintése után irány a magaslat. A Spinale felvonó lélegzetelállító kilátást nyújt a Dolomitokra. A délután a sporthistóriáé a Miramonti-lejtőnél, majd egy panorámás utazással zárul a Pradalago felé.",
+            "ro": "Ziua începe în centrul plin de viață din Piazza Righi, inima socială a orașului. După o vizită la biserica istorică Santa Maria Antica, urcați spre înălțimi. Telecabina Spinale vă duce la vederi uluitoare asupra Munților Dolomiți. După-amiaza este dedicată istoriei sportului pe panta Miramonti și se încheie cu o călătorie panoramică spre Pradalago.",
+            "en": "The day begins in the lively center at Piazza Righi, the social heartbeat of the town. After visiting the historic Santa Maria Antica church, head for the heights. The Spinale lift takes you to breathtaking views of the Dolomites. The afternoon is dedicated to sports history at the Miramonti slope and ends with a panoramic trip to Pradalago."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza Righi",
+                "hu": "Piazza Righi",
+                "ro": "Piazza Righi",
+                "en": "Piazza Righi"
+              },
+              "tip_5lang": {
+                "de": "Trinken Sie Ihren Espresso in einer der Bars am Platz.",
+                "hu": "Igyon meg egy eszpresszót a tér egyik bárjában.",
+                "ro": "Savurați un espresso la una dintre cafenelele din piață.",
+                "en": "Enjoy an espresso at one of the bars in the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa Maria Antica",
+                "hu": "Santa Maria Antica templom",
+                "ro": "Biserica Santa Maria Antica",
+                "en": "Santa Maria Antica Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die hölzernen Altäre aus dem 12. Jahrhundert.",
+                "hu": "Csodálja meg a 12. századi faoltárokat.",
+                "ro": "Admirați altarele de lemn din secolul al XII-lea.",
+                "en": "Admire the 12th-century wooden altars."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte Spinale Seilbahn",
+                "hu": "Monte Spinale felvonó",
+                "ro": "Telecabina Monte Spinale",
+                "en": "Monte Spinale Cable Car"
+              },
+              "tip_5lang": {
+                "de": "Die Aussichtsterrasse bietet das beste Panorama auf die Brenta-Gruppe.",
+                "hu": "A kilátóteraszról nyílik a legjobb panoráma a Brenta-csoportra.",
+                "ro": "Terasa panoramică oferă cea mai bună vedere asupra Brenta.",
+                "en": "The panoramic terrace offers the best view of the Brenta group."
+              }
+            },
+            {
+              "name": {
+                "de": "Canalone Miramonti",
+                "hu": "Canalone Miramonti",
+                "ro": "Canalone Miramonti",
+                "en": "Canalone Miramonti"
+              },
+              "tip_5lang": {
+                "de": "Dies ist die legendäre Weltcup-Piste der Stadt.",
+                "hu": "Ez a város legendás világkupa-pályája.",
+                "ro": "Aceasta este legendara pârtie de Cupă Mondială a orașului.",
+                "en": "This is the city's legendary World Cup slope."
+              }
+            },
+            {
+              "name": {
+                "de": "Pradalago Seilbahn",
+                "hu": "Pradalago felvonó",
+                "ro": "Telecabina Pradalago",
+                "en": "Pradalago Cable Car"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang zum See oberhalb der Bergstation.",
+                "hu": "Rövid séta a tónál a felső állomás felett.",
+                "ro": "Scurtă plimbare la lacul de deasupra stației de sus.",
+                "en": "Short walk to the lake above the upper station."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Canederli",
+                "tip": "Knödel mit Speck in Butter und Salbei serviert."
+              },
+              {
+                "name": "Ristorante Belvedere",
+                "tip": "Probieren Sie die Polenta mit Hirschgulasch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Canederli",
+                "tip": "Szalonnás gombóc barna vajjal és zsályával."
+              },
+              {
+                "name": "Ristorante Belvedere",
+                "tip": "Kóstolja meg a polentát szarvaspörkölttel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Canederli",
+                "tip": "Găluște cu speck servite în unt și salvie."
+              },
+              {
+                "name": "Ristorante Belvedere",
+                "tip": "Încercați mămăliga cu gulaș de cerb."
+              }
+            ],
+            "en": [
+              {
+                "name": "Canederli",
+                "tip": "Dumplings with speck served in butter and sage."
+              },
+              {
+                "name": "Ristorante Belvedere",
+                "tip": "Try the polenta with venison goulash."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Monte Spinale Plateau",
+                "tip": "Panorama-Ruheplatz abseits der Lifte.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Monte Spinale fennsík",
+                "tip": "Panorámás pihenőhely a liftektől távol.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Podișul Monte Spinale",
+                "tip": "Loc de odihnă panoramic departe de teleschiuri.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Monte Spinale Plateau",
+                "tip": "Panoramic quiet spot away from the lifts.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lorenzetti",
+                "tip": "Hochwertige Sportbekleidung und Mode."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lorenzetti",
+                "tip": "Kiváló minőségű sportruházat és divat."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lorenzetti",
+                "tip": "Îmbrăcăminte sport și modă de înaltă calitate."
+              }
+            ],
+            "en": [
+              {
+                "name": "Lorenzetti",
+                "tip": "High-quality sportswear and fashion."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie die Liftkarte online, um Warteschlangen zu vermeiden.",
+              "Tragen Sie auch im Sommer feste Wanderschuhe für das Kopfsteinpflaster im Zentrum."
+            ],
+            "hu": [
+              "Vásárolja meg a felvonójegyet online a sorban állás elkerülése érdekében.",
+              "Nyáron is viseljen kényelmes túracipőt a központ macskaköves utcáihoz."
+            ],
+            "ro": [
+              "Cumpărați biletul de teleschi online pentru a evita coada.",
+              "Purtați încălțăminte de drumeție chiar și vara pentru pavajul din centru."
+            ],
+            "en": [
+              "Buy the lift ticket online to avoid queues.",
+              "Wear sturdy hiking shoes even in summer for the cobblestones in the center."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie das Zentrum unter den Arkaden am Piazza Righi. Mittags bietet die Kirche Santa Maria Antica einen ruhigen, trockenen Zufluchtsort. Nachmittags fahren Sie mit der Monte Spinale Seilbahn in die mystischen Wolken. Den Abend lassen Sie bei einem heißen Getränk mit Blick auf den regnerischen Canalone Miramonti ausklingen.",
+            "hu": "Reggel a Piazza Righi árkádjai alatt fedezheti fel a központot. Délben a Santa Maria Antica templom nyújt csendes, száraz menedéket. Délután a Monte Spinale felvonóval emelkedhet a misztikus ködfelhők közé. Az estét egy forró ital mellett, az eső áztatta Canalone Miramonti látványával zárhatja.",
+            "ro": "Dimineața explorați centrul sub arcadele din Piazza Righi. La prânz, biserica Santa Maria Antica oferă un refugiu liniștit și uscat. După-amiaza, urcați cu telecabina Monte Spinale în norii mistici. Seara se încheie cu o băutură caldă, admirând Canalone Miramonti sub ploaie.",
+            "en": "In the morning, explore the center under the arcades of Piazza Righi. At noon, Santa Maria Antica Church offers a quiet, dry refuge. In the afternoon, take the Monte Spinale cable car into the mystical clouds. The evening ends with a hot drink overlooking the rainy Canalone Miramonti."
+          },
+          "stops": [
+            {
+              "name": "Piazza Righi",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Geschäfte, um trocken zu bleiben.",
+                "hu": "Használja az üzletek árkádjait, hogy szárazon maradjon.",
+                "ro": "Folosiți arcadele magazinelor pentru a rămâne uscat.",
+                "en": "Use the shop arcades to stay dry while exploring."
+              }
+            },
+            {
+              "name": "Santa Maria Antica Church",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um den stärksten Regen abzuwarten.",
+                "hu": "Tökéletes hely a hevesebb esőzés kivárására.",
+                "ro": "Un loc perfect pentru a aștepta trecerea ploii abundente.",
+                "en": "A perfect place to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Monte Spinale Cable Car",
+              "tip_5lang": {
+                "de": "Die geschlossene Gondel bietet Schutz vor dem Wind.",
+                "hu": "A zárt gondola védelmet nyújt a szél és az eső ellen.",
+                "ro": "Gondola închisă oferă protecție împotriva vântului.",
+                "en": "The enclosed gondola provides shelter from the wind."
+              }
+            },
+            {
+              "name": "Canalone Miramonti",
+              "tip_5lang": {
+                "de": "Vorsicht, die Grashänge können sehr rutschig sein.",
+                "hu": "Vigyázat, a füves lejtők nagyon csúszósak lehetnek.",
+                "ro": "Atenție, pantele înierbate pot fi foarte alunecoase.",
+                "en": "Caution, the grassy slopes can be very slippery."
+              }
+            },
+            {
+              "name": "Pradalago Cable Car",
+              "tip_5lang": {
+                "de": "Prüfen Sie oben die Sichtweite wegen des Nebels.",
+                "hu": "Ellenőrizze fent a látási viszonyokat a köd miatt.",
+                "ro": "Verificați vizibilitatea sus din cauza ceții.",
+                "en": "Check visibility at the top due to mountain fog."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die gepflasterten Wege.",
+              "Die Arkaden im Zentrum bieten guten Schutz bei kurzen Schauern.",
+              "Berghütten an den Seilbahnstationen sind ideal für lange Pausen.",
+              "Ein Taschenschirm ist bei Wind in den Bergen oft unpraktisch, wählen Sie ein Poncho.",
+              "Prüfen Sie die Webcams, oft liegt die Gipfelstation über den Regenwolken."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a kövezett utakhoz.",
+              "A központ árkádjai jó védelmet nyújtanak rövid záporok idején.",
+              "A felvonóállomások hegyi hüttéi ideálisak a hosszú pihenőkhöz.",
+              "A táskaesernyő szeles időben nem praktikus, válasszon esőponcsót.",
+              "Nézze meg a webkamerákat, gyakran a csúcsállomás az esőfelhők felett van."
+            ],
+            "ro": [
+              "Purtați bocanci impermeabili pentru potecile pavate.",
+              "Arcadele din centru oferă protecție bună în timpul averselor scurte.",
+              "Cabanele de la stațiile de telecabină sunt ideale pentru pauze lungi.",
+              "Umbrela de buzunar e impracticabilă pe vânt, alegeți o pelerină.",
+              "Verificați camerele web, deseori stația de sus este deasupra norilor."
+            ],
+            "en": [
+              "Wear waterproof hiking boots for the paved paths.",
+              "The center's arcades offer good shelter during short showers.",
+              "Mountain huts at lift stations are ideal for long breaks.",
+              "A pocket umbrella is often impractical in mountain winds; choose a poncho.",
+              "Check webcams; often the top station is above the rain clouds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens glitzert der Schnee am Piazza Righi in der Wintersonne. Mittags wärmen Sie sich in der historischen Santa Maria Antica auf. Nachmittags erleben Sie das alpine Winterpanorama auf dem Monte Spinale. Der Tag endet magisch am beleuchteten Canalone Miramonti, wo die Weltcup-Atmosphäre spürbar ist.",
+            "hu": "Reggel a Piazza Righi hava csillog a téli napsütésben. Délben a történelmi Santa Maria Antica templomban melegedhet fel. Délután a Monte Spinale csúcsáról csodálhatja meg az alpesi panorámát. A nap varázslatosan zárul a kivilágított Canalone Miramonti mellett, ahol érezhető a világkupa hangulata.",
+            "ro": "Dimineața zăpada sclipeste în Piazza Righi sub soarele de iarnă. La prânz vă încălziți în biserica istorică Santa Maria Antica. După-amiaza admirați panorama alpină de pe Monte Spinale. Ziua se încheie magic lângă Canalone Miramonti iluminat, unde atmosfera de cupă mondială este prezentă.",
+            "en": "In the morning, the snow sparkles in Piazza Righi under the winter sun. At noon, warm up in the historic Santa Maria Antica Church. In the afternoon, admire the alpine winter panorama from Monte Spinale. The day ends magically by the illuminated Canalone Miramonti, where the World Cup atmosphere is palpable."
+          },
+          "stops": [
+            {
+              "name": "Piazza Righi",
+              "tip_5lang": {
+                "de": "Genießen Sie die festliche Beleuchtung und den Weihnachtsmarkt.",
+                "hu": "Élvezze az ünnepi kivilágítást és a karácsonyi vásárt.",
+                "ro": "Bucurați-vă de iluminatul festiv și de târgul de Crăciun.",
+                "en": "Enjoy the festive lighting and the local Christmas market."
+              }
+            },
+            {
+              "name": "Santa Maria Antica Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Rückzugsort vor dem kalten Winterwind.",
+                "hu": "Csendes menedék a hideg téli szél elől.",
+                "ro": "Un refugiu liniștit împotriva vântului rece de iarnă.",
+                "en": "A quiet retreat from the cold winter wind."
+              }
+            },
+            {
+              "name": "Monte Spinale Cable Car",
+              "tip_5lang": {
+                "de": "Die Bergstation ist der perfekte Ort für eine heiße Schokolade.",
+                "hu": "A hegyi állomás tökéletes hely egy forró csokoládéhoz.",
+                "ro": "Stația de sus este locul perfect pentru o ciocolată caldă.",
+                "en": "The top station is the perfect spot for a hot chocolate."
+              }
+            },
+            {
+              "name": "Canalone Miramonti",
+              "tip_5lang": {
+                "de": "Hier können Sie Skifahrer auf der Weltcup-Piste beobachten.",
+                "hu": "Itt megfigyelheti a síelőket a világkupa-pályán.",
+                "ro": "Aici puteți observa schiorii pe pârtia de cupă mondială.",
+                "en": "Watch skiers descending the famous World Cup slope."
+              }
+            },
+            {
+              "name": "Pradalago Cable Car",
+              "tip_5lang": {
+                "de": "Achten Sie auf die frühen Betriebszeiten im Winter.",
+                "hu": "Ügyeljen a téli korai záróra időpontokra.",
+                "ro": "Atenție la orele de închidere timpurii din timpul iernii.",
+                "en": "Be mindful of earlier closing times during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil, die Gehwege können vereist sein.",
+              "Die Sonne verschwindet im Tal bereits gegen 16:00 Uhr hinter den Gipfeln.",
+              "Nutzen Sie die beheizten Wartebereiche der Seilbahnen.",
+              "Zwiebelprinzip bei der Kleidung ist für den Wechsel zwischen Drinnen und Draußen ideal.",
+              "Besuchen Sie die lokalen Cafés für traditionellen Apfelstrudel zum Aufwärmen."
+            ],
+            "hu": [
+              "Viseljen jó profilú cipőt, a járdák jegesek lehetnek.",
+              "A nap a völgyben már 16:00 körül eltűnik a csúcsok mögött.",
+              "Használja a felvonók fűtött várakozóhelyiségeit.",
+              "A réteges öltözködés ideális a kinti és benti hőmérséklet váltakozásához.",
+              "Látogassa meg a helyi kávézókat egy melegítő almalepényre."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu talpă aderentă, trotuarele pot fi înghețate.",
+              "Soarele dispare în vale deja în jurul orei 16:00 după creste.",
+              "Folosiți zonele de așteptare încălzite ale telecabinelor.",
+              "Îmbrăcămintea în straturi este ideală pentru trecerea de la interior la exterior.",
+              "Vizitați cafenelele locale pentru un ștrudel cu mere cald."
+            ],
+            "en": [
+              "Wear shoes with good tread as sidewalks can be icy.",
+              "The sun disappears behind the peaks as early as 4:00 PM in the valley.",
+              "Take advantage of the heated waiting areas at the cable cars.",
+              "Layered clothing is ideal for transitioning between indoors and outdoors.",
+              "Visit local cafes for traditional apple strudel to warm up."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -500,6 +868,374 @@
           "Check your e-bike battery level before the climb to Nambino.",
           "Weather can change quickly in the mountains, bring a rain jacket."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die Bergwelt rund um Madonna di Campiglio auf zwei Rädern. Starten Sie im Zentrum und radeln Sie durch dichte Nadelwälder zu den beeindruckenden Vallesinella-Wasserfällen. Nach einem schweißtreibenden Anstieg zum kristallklaren Lago Nambino genießen Sie eine wohlverdiente Pause. Die Abfahrt führt Sie über Pradalago und die Miramonti-Piste zurück in den Ort.",
+            "hu": "Fedezze fel Madonna di Campiglio környékét két keréken. Induljon a központból, és tekerjen át a sűrű fenyőerdőkön a lenyűgöző Vallesinella-vízesésekhez. A kristálytiszta Nambino-tóhoz vezető izzasztó emelkedő után élvezze a megérdemelt pihenőt. A lejtmenet a Pradalago-n és a Miramonti-pályán keresztül vezet vissza a faluba.",
+            "ro": "Explorați împrejurimile orașului Madonna di Campiglio pe două roți. Porniți din centru și pedalați prin păduri dese de conifere până la impresionantele cascade Vallesinella. După o urcare solicitantă către lacul cristalin Nambino, bucurați-vă de o pauză binemeritată. Coborârea vă poartă prin Pradalago și pârtia Miramonti înapoi în localitate.",
+            "en": "Explore the mountain world around Madonna di Campiglio on two wheels. Start in the center and cycle through dense coniferous forests to the impressive Vallesinella waterfalls. After a sweaty climb to the crystal-clear Lake Nambino, enjoy a well-deserved break. The descent takes you via Pradalago and the Miramonti slope back into town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza Righi",
+                "hu": "Piazza Righi",
+                "ro": "Piazza Righi",
+                "en": "Piazza Righi"
+              },
+              "tip_5lang": {
+                "de": "Mieten Sie hier Ihr E-MTB für die Tour.",
+                "hu": "Bérelje ki itt az E-MTB-t a túrához.",
+                "ro": "Închiriați un E-MTB aici pentru tur.",
+                "en": "Rent your E-MTB here for the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Vallesinella-Wasserfälle",
+                "hu": "Vallesinella-vízesések",
+                "ro": "Cascadele Vallesinella",
+                "en": "Vallesinella Waterfalls"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad am Parkplatz ab und wandern Sie zu den Kaskaden.",
+                "hu": "Hagyja a biciklit a parkolóban, és sétáljon el a vízesésekhez.",
+                "ro": "Lăsați bicicleta în parcare și mergeți la cascade.",
+                "en": "Park the bike and walk to the cascades."
+              }
+            },
+            {
+              "name": {
+                "de": "Lago Nambino",
+                "hu": "Nambino-tó",
+                "ro": "Lacul Nambino",
+                "en": "Lago Nambino"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum See ist steil, ein E-Bike ist sehr empfehlenswert.",
+                "hu": "A tóhoz vezető út meredek, az e-bike erősen ajánlott.",
+                "ro": "Drumul spre lac este abrupt, un e-bike este recomandat.",
+                "en": "The path to the lake is steep, an e-bike is highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Pradalago",
+                "hu": "Pradalago",
+                "ro": "Pradalago",
+                "en": "Pradalago"
+              },
+              "tip_5lang": {
+                "de": "Gießen Sie Ihre Beine im kalten Bergsee ab.",
+                "hu": "Mártsa meg a lábát a hideg hegyi tóban.",
+                "ro": "Răcoriți-vă picioarele în lacul rece de munte.",
+                "en": "Cool your legs in the cold mountain lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Canalone Miramonti",
+                "hu": "Canalone Miramonti",
+                "ro": "Canalone Miramonti",
+                "en": "Canalone Miramonti"
+              },
+              "tip_5lang": {
+                "de": "Letzter Fotostopp vor der Rückkehr ins Zentrum.",
+                "hu": "Utolsó fotómegálló a központba való visszatérés előtt.",
+                "ro": "Ultima oprire foto înainte de întoarcerea în centru.",
+                "en": "Last photo stop before returning to the center."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Rifugio Lago Nambino",
+                "tip": "Hausgemachte Pasta mit Pilzen der Saison."
+              },
+              {
+                "name": "Spressa delle Giudicarie",
+                "tip": "Lokaler fettarmer Käse, ideal zum Wandern."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rifugio Lago Nambino",
+                "tip": "Házias tészta szezonális gombával."
+              },
+              {
+                "name": "Spressa delle Giudicarie",
+                "tip": "Helyi zsírszegény sajt, ideális túrázáshoz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rifugio Lago Nambino",
+                "tip": "Paste de casă cu ciuperci de sezon."
+              },
+              {
+                "name": "Spressa delle Giudicarie",
+                "tip": "Brânză locală slabă, ideală pentru drumeții."
+              }
+            ],
+            "en": [
+              {
+                "name": "Rifugio Lago Nambino",
+                "tip": "Homemade pasta with seasonal mushrooms."
+              },
+              {
+                "name": "Spressa delle Giudicarie",
+                "tip": "Local low-fat cheese, ideal for hiking."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Cascata di Sotto",
+                "tip": "Ruhigerer Teil der Vallesinella-Fälle.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cascata di Sotto",
+                "tip": "A Vallesinella-vízesés csendesebb része.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cascata di Sotto",
+                "tip": "Partea mai liniștită a cascadelor Vallesinella.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cascata di Sotto",
+                "tip": "Quieter part of the Vallesinella falls.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Hönig und Bergkräuter",
+                "tip": "In den kleinen Läden an der Piazza."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Méz és hegyi gyógynövények",
+                "tip": "A Piazza körüli kisboltokban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere și ierburi de munte",
+                "tip": "În micile magazine de lângă Piazza."
+              }
+            ],
+            "en": [
+              {
+                "name": "Honey and Alpine Herbs",
+                "tip": "In the small shops around the Piazza."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie den Akkuladestand Ihres E-Bikes vor dem Anstieg zum Nambino.",
+              "In den Bergen kann das Wetter schnell umschlagen, nehmen Sie eine Regenjacke mit."
+            ],
+            "hu": [
+              "Ellenőrizze az e-bike akkumulátorát a Nambino-tó előtti emelkedőnél.",
+              "A hegyekben az időjárás gyorsan változhat, vigyen magával esőkabátot."
+            ],
+            "ro": [
+              "Verificați nivelul bateriei e-bike-ului înainte de urcarea spre Nambino.",
+              "Vremea se poate schimba rapid în munți, luați o jachetă de ploaie."
+            ],
+            "en": [
+              "Check your e-bike battery level before the climb to Nambino.",
+              "Weather can change quickly in the mountains, bring a rain jacket."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens starten Sie vorsichtig am Piazza Righi. Mittags erreichen Sie die Vallesinella-Wasserfälle, die bei Regen besonders imposant wirken. Nachmittags fordert der schlammige Pfad zum Lago Nambino Ihre Fahrtechnik heraus. Der Tag endet mit einer verdienten Abkühlung und Reinigung der Ausrüstung im Tal.",
+            "hu": "Reggel óvatosan induljon a Piazza Righi-ről. Délben eléri a Vallesinella vízeséseket, amelyek esőben különösen látványosak. Délután a Lago Nambino felé vezető sáros ösvény próbára teszi a technikáját. A nap a felszerelés alapos tisztításával és egy megérdemelt pihenővel zárul a völgyben.",
+            "ro": "Dimineața porniți cu prudență din Piazza Righi. La prânz ajungeți la cascadele Vallesinella, care sunt impresionante pe ploaie. După-amiaza, poteca noroioasă spre Lago Nambino vă provoacă tehnica. Ziua se încheie cu o curățare binemeritată a echipamentului în vale.",
+            "en": "In the morning, start cautiously from Piazza Righi. At noon, reach the Vallesinella Waterfalls, which look particularly impressive in the rain. In the afternoon, the muddy path to Lago Nambino challenges your skills. The day ends with a well-deserved cleanup and rest in the valley."
+          },
+          "stops": [
+            {
+              "name": "Piazza Righi",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt im nassen Gelände.",
+                "hu": "Ellenőrizze a fékeket a nedves terepen való indulás előtt.",
+                "ro": "Verificați frânele înainte de plecarea pe teren umed.",
+                "en": "Check your brakes before heading out into wet terrain."
+              }
+            },
+            {
+              "name": "Vallesinella Waterfalls",
+              "tip_5lang": {
+                "de": "Holzstege sind bei Nässe extrem rutschig – schieben Sie das Rad.",
+                "hu": "A fapallók vizesen rendkívül csúszósak – tolja a bringát.",
+                "ro": "Podețele de lemn sunt extrem de alunecoase – împingeți bicicleta.",
+                "en": "Wooden bridges are extremely slippery when wet – walk your bike."
+              }
+            },
+            {
+              "name": "Lago Nambino",
+              "tip_5lang": {
+                "de": "Der Pfad kann matschig sein, halten Sie die Kette sauber.",
+                "hu": "Az ösvény sáros lehet, tartsa tisztán a láncot.",
+                "ro": "Poteca poate fi noroioasă, păstrați lanțul curat.",
+                "en": "The path can be muddy; try to keep your drivetrain clean."
+              }
+            },
+            {
+              "name": "Pradalago",
+              "tip_5lang": {
+                "de": "Bei Nebel auf den Forststraßen bleiben, nicht auf die Trails.",
+                "hu": "Köd esetén maradjon az erdészeti utakon, ne menjen az ösvényekre.",
+                "ro": "În caz de ceață rămâneți pe drumurile forestiere, nu pe poteci.",
+                "en": "In case of fog, stay on forest roads rather than single trails."
+              }
+            },
+            {
+              "name": "Canalone Miramonti",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Bremsmanöver auf nassem Asphalt.",
+                "hu": "Kerülje az erős fékezést a vizes aszfalton.",
+                "ro": "Evitați frânările bruște pe asfaltul umed.",
+                "en": "Avoid sharp braking maneuvers on wet asphalt."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um sich vor aufwirbelndem Schlamm zu schützen.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassen Wurzeln.",
+              "Vermeiden Sie technische Single-Trails bei starkem Regen.",
+              "Wasserdichte Socken halten Ihre Füße warm und trocken.",
+              "Nutzen Sie die Bikewash-Stationen bei den Bergbahnen nach der Tour."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó sár ellen.",
+              "Kicsit csökkentse a guminyomást a jobb tapadásért a vizes gyökereken.",
+              "Heves esőben kerülje a technikás egynyomos ösvényeket.",
+              "A vízálló zoknik melegen és szárazon tartják a lábat.",
+              "A túra után használja a felvonóknál található kerékpármosókat."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a vă proteja de noroiul împroșcat.",
+              "Reduceți ușor presiunea în pneuri pentru aderență pe rădăcini ude.",
+              "Evitați potecile tehnice înguste în timpul ploii abundente.",
+              "Șosetele impermeabile vă mențin picioarele calde și uscate.",
+              "Folosiți stațiile de spălare a bicicletelor de la telecabine după tură."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from splashing mud.",
+              "Slightly reduce tire pressure for better grip on wet roots.",
+              "Avoid technical single-trails during heavy rain.",
+              "Waterproof socks will keep your feet warm and dry.",
+              "Utilize the bike wash stations at the cable car bases after your ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens rüsten Sie sich am Piazza Righi für das Winterbiking aus. Mittags erreichen Sie die gefrorenen Vallesinella-Wasserfälle auf festem Schnee. Nachmittags bietet die Fahrt zum Lago Nambino eine stille, weiße Märchenlandschaft. Der Tag endet mit einem heißen Drink in einer gemütlichen Hütte im Tal.",
+            "hu": "Reggel a Piazza Righi-n készüljön fel a téli bringázásra. Délben eléri a befagyott Vallesinella vízeséseket a tömör havon. Délután a Lago Nambino felé vezető út egy csendes, fehér mesevilágot tár Ön elé. A nap egy forró itallal zárul egy hangulatos völgyi hüttében.",
+            "ro": "Dimineața vă echipați în Piazza Righi pentru ciclism de iarnă. La prânz ajungeți la cascadele înghețate Vallesinella pe zăpadă bătătorită. După-amiaza drumul spre Lago Nambino oferă un peisaj alb de basm. Ziua se încheie cu o băutură caldă într-o cabană primitoare.",
+            "en": "In the morning, gear up at Piazza Righi for winter biking. At noon, reach the frozen Vallesinella Waterfalls on packed snow. In the afternoon, the ride to Lago Nambino offers a silent, white fairytale landscape. The day ends with a hot drink in a cozy valley hut."
+          },
+          "stops": [
+            {
+              "name": "Piazza Righi",
+              "tip_5lang": {
+                "de": "Mieten Sie ein E-Fatbike für besseres Vorankommen im Schnee.",
+                "hu": "Béreljen E-Fatbike-ot a könnyebb haladáshoz a hóban.",
+                "ro": "Închiriați un E-Fatbike pentru o înaintare mai ușoară prin zăpadă.",
+                "en": "Rent an E-Fatbike for better traction and easier riding in snow."
+              }
+            },
+            {
+              "name": "Vallesinella Waterfalls",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisplatten unter dem Neuschnee.",
+                "hu": "Vigyázzon a friss hó alatt megbújó jégfoltokkal.",
+                "ro": "Atenție la plăcile de gheață de sub zăpada proaspătă.",
+                "en": "Watch out for ice patches hidden under fresh snow."
+              }
+            },
+            {
+              "name": "Lago Nambino",
+              "tip_5lang": {
+                "de": "Der See ist meist zugefroren, betreten Sie ihn nicht mit dem Rad.",
+                "hu": "A tó többnyire befagyott, ne hajtson rá bringával.",
+                "ro": "Lacul este de obicei înghețat, nu intrați pe el cu bicicleta.",
+                "en": "The lake is usually frozen; do not ride onto the ice."
+              }
+            },
+            {
+              "name": "Pradalago",
+              "tip_5lang": {
+                "de": "Halten Sie sich strikt an die für Biker freigegebenen Winterwege.",
+                "hu": "Szigorúan tartsa magát a bringásoknak kijelölt téli utakhoz.",
+                "ro": "Respectați cu strictețe drumurile de iarnă deschise bicicliștilor.",
+                "en": "Strictly follow the winter paths designated for bikers."
+              }
+            },
+            {
+              "name": "Canalone Miramonti",
+              "tip_5lang": {
+                "de": "Beachten Sie die Skifahrer beim Überqueren von Pistenabschnitten.",
+                "hu": "Ügyeljen a síelőkre a pályaszakaszok keresztezésekor.",
+                "ro": "Atenție la schiori când traversați porțiunile de pârtie.",
+                "en": "Be mindful of skiers when crossing designated slope sections."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Fatbikes mit extrem niedrigem Reifendruck für den Schnee.",
+              "Tragen Sie warme Winterschuhe und winddichte Handschuhe.",
+              "Die Akkuleistung von E-Bikes sinkt bei Kälte deutlich schneller.",
+              "Vermeiden Sie Schweißbildung durch moderates Tempo, um nicht auszukühlen.",
+              "Bleiben Sie auf gewalzten Winterwanderwegen für optimale Stabilität."
+            ],
+            "hu": [
+              "Használjon Fatbike-ot rendkívül alacsony guminyomással a hóban.",
+              "Viseljen meleg téli cipőt és szélálló kesztyűt.",
+              "Az E-bike akkumulátorának teljesítménye hidegben gyorsabban csökken.",
+              "Kerülje az izzadást mérsékelt tempóval, hogy ne hűljön ki.",
+              "Maradjon a taposott téli utakon az optimális stabilitásért."
+            ],
+            "ro": [
+              "Folosiți Fatbike-uri cu presiune extrem de joasă în pneuri pentru zăpadă.",
+              "Purtați încălțăminte de iarnă caldă și mănuși rezistente la vânt.",
+              "Performanța bateriei E-bike-ului scade mult mai repede la frig.",
+              "Evitați transpirația printr-un ritm moderat pentru a nu răci.",
+              "Rămâneți pe traseele de iarnă amenajate pentru stabilitate optimă."
+            ],
+            "en": [
+              "Use fatbikes with extremely low tire pressure for snow riding.",
+              "Wear warm winter boots and windproof gloves.",
+              "E-bike battery range decreases significantly in cold temperatures.",
+              "Avoid sweating by keeping a moderate pace to prevent chilling.",
+              "Stick to groomed winter paths for the best stability."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -747,6 +1483,374 @@
           "The road to Val di Genova is a toll road in summer.",
           "Watch out for the tight curves on the road to Vallesinella."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Autotour führt Sie in die tiefsten Täler und zu den höchsten Pässen. Beginnen Sie im Val di Genova, dem \"Tal der Wasserfälle\". Danach geht es zurück nach Vallesinella, bevor Sie die Grostè-Bahn besteigen, um die alpine Wüste der Brenta-Dolomiten zu erleben. Der Tag endet gemütlich im Ortskern von Madonna di Campiglio.",
+            "hu": "Ez az autós túra a legmélyebb völgyekbe és a legmagasabb hágókhoz vezet. Kezdje a Val di Genova-ban, a vízesések völgyében. Ezután térjen vissza Vallesinella-ba, mielőtt felszállna a Grostè felvonóra, hogy megtapasztalja a Brenta-Dolomitok alpesi sivatagát. A nap kellemesen zárul Madonna di Campiglio központjában.",
+            "ro": "Acest tur cu mașina vă duce în cele mai adânci văi și pe cele mai înalte trecători. Începeți în Val di Genova, valea cascadelor. Apoi reveniți în Vallesinella înainte de a urca cu telecabina Grostè pentru a experimenta deșertul alpin al Dolomiților Brenta. Ziua se încheie plăcut în centrul localității Madonna di Campiglio.",
+            "en": "This car tour takes you into the deepest valleys and to the highest passes. Begin in Val di Genova, the \"valley of waterfalls\". Then return to Vallesinella before boarding the Grostè lift to experience the alpine desert of the Brenta Dolomites. The day ends pleasantly in the center of Madonna di Campiglio."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Val di Genova",
+                "hu": "Val di Genova",
+                "ro": "Val di Genova",
+                "en": "Val di Genova"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Nardis-Wasserfälle am Taleingang.",
+                "hu": "Látogassa meg a Nardis-vízesést a völgy bejáratánál.",
+                "ro": "Vizitați cascadele Nardis la intrarea în vale.",
+                "en": "Visit the Nardis waterfalls at the valley entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Vallesinella",
+                "hu": "Vallesinella",
+                "ro": "Vallesinella",
+                "en": "Vallesinella"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Sommer oft begrenzt, kommen Sie früh.",
+                "hu": "A parkoló nyáron gyakran telített, érkezzen korán.",
+                "ro": "Parcarea este adesea limitată vara, veniți devreme.",
+                "en": "Parking is often limited in summer, arrive early."
+              }
+            },
+            {
+              "name": {
+                "de": "Grostè Seilbahn",
+                "hu": "Grostè felvonó",
+                "ro": "Telecabina Grostè",
+                "en": "Grostè Cable Car"
+              },
+              "tip_5lang": {
+                "de": "Die Bergstation liegt auf über 2400 Metern in einer bizarren Mondlandschaft.",
+                "hu": "A felső állomás 2400 méter felett található, bizarr holdbéli tájon.",
+                "ro": "Stația de sus se află la peste 2400 de metri, într-un peisaj selenar.",
+                "en": "The upper station is at over 2400 meters in a bizarre lunar landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza Righi",
+                "hu": "Piazza Righi",
+                "ro": "Piazza Righi",
+                "en": "Piazza Righi"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im unterirdischen Parkplatz direkt unter dem Zentrum.",
+                "hu": "Parkoljon a közvetlenül a központ alatti mélygarázsban.",
+                "ro": "Parcați în parcarea subterană chiar sub centru.",
+                "en": "Park in the underground parking lot right under the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa Maria Antica",
+                "hu": "Santa Maria Antica templom",
+                "ro": "Biserica Santa Maria Antica",
+                "en": "Santa Maria Antica Church"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss für den kulturellen Aspekt der Reise.",
+                "hu": "Szép lezárása az utazás kulturális részének.",
+                "ro": "Un final frumos pentru aspectul cultural al călătoriei.",
+                "en": "A nice conclusion to the cultural aspect of the trip."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Chalet Fiat",
+                "tip": "Gourmet-Mittagessen auf dem Grostè-Gipfel."
+              },
+              {
+                "name": "Strudel di mele",
+                "tip": "Probieren Sie den hausgemachten Apfelstrudel der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Chalet Fiat",
+                "tip": "Gourmet ebéd a Grostè csúcsán."
+              },
+              {
+                "name": "Strudel di mele",
+                "tip": "Kóstolja meg a régió házi almás rétesét."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chalet Fiat",
+                "tip": "Prânz gourmet pe vârful Grostè."
+              },
+              {
+                "name": "Strudel di mele",
+                "tip": "Încercați ștrudelul de mere de casă al regiunii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Chalet Fiat",
+                "tip": "Gourmet lunch at the Grostè summit."
+              },
+              {
+                "name": "Strudel di mele",
+                "tip": "Try the region's homemade apple strudel."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Val di Genova",
+                "tip": "Abseits der Nardis-Fälle wird es im Tal sehr ruhig.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Val di Genova",
+                "tip": "A Nardis-vízeséstől távolabb a völgy nagyon csendes.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Val di Genova",
+                "tip": "Departe de cascadele Nardis, valea devine foarte liniștită.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Val di Genova",
+                "tip": "Away from the Nardis falls, the valley becomes very quiet.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "L'Artigianato",
+                "tip": "Holzschnitzereien und lokale Handwerkskunst."
+              }
+            ],
+            "hu": [
+              {
+                "name": "L'Artigianato",
+                "tip": "Fafaragások és helyi kézműves termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Artigianato",
+                "tip": "Sculpturi în lemn și meșteșuguri locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "L'Artigianato",
+                "tip": "Wood carvings and local handicrafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straße ins Val di Genova ist im Sommer mautpflichtig.",
+              "Achten Sie auf die engen Kurven auf dem Weg nach Vallesinella."
+            ],
+            "hu": [
+              "A Val di Genova-ba vezető út nyáron útdíjköteles.",
+              "Ügyeljen a szűk kanyarokra a Vallesinella felé vezető úton."
+            ],
+            "ro": [
+              "Drumul spre Val di Genova este cu taxă în timpul verii.",
+              "Atenție la curbele strânse de pe drumul spre Vallesinella."
+            ],
+            "en": [
+              "The road to Val di Genova is a toll road in summer.",
+              "Watch out for the tight curves on the road to Vallesinella."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren Sie ins mystisch vernebelte Val di Genova. Mittags erleben Sie die tosende Gischt der Wasserfälle in Vallesinella. Nachmittags bietet die Grostè-Seilbahn eine Fahrt über die Regenwolken. Den Tag beschließen Sie gemütlich in der Altstadt bei der Santa Maria Antica Kirche.",
+            "hu": "Reggel a misztikus ködbe burkolózó Val di Genova-ba autózzon. Délben a Vallesinella vízesések dübörgő permetét csodálhatja meg. Délután a Grostè felvonóval az esőfelhők fölé emelkedhet. A napot az óvárosban, a Santa Maria Antica templom környékén zárhatja.",
+            "ro": "Dimineața conduceți spre Val di Genova învăluită în ceață mistică. La prânz admirați spuma cascadelor din Vallesinella. După-amiaza, telecabina Grostè vă duce deasupra norilor de ploaie. Încheiați ziua relaxat în centrul vechi, lângă biserica Santa Maria Antica.",
+            "en": "In the morning, drive into the mystically foggy Val di Genova. At noon, experience the thundering spray of the Vallesinella waterfalls. In the afternoon, the Grostè cable car takes you above the rain clouds. End the day comfortably in the old town near Santa Maria Antica Church."
+          },
+          "stops": [
+            {
+              "name": "Val di Genova",
+              "tip_5lang": {
+                "de": "Vorsicht vor Steinschlag auf den engen Bergstraßen bei Regen.",
+                "hu": "Esőben vigyázzon a kőomlásra a szűk hegyi utakon.",
+                "ro": "Atenție la căderile de pietre pe drumurile înguste de munte.",
+                "en": "Watch out for rockfall on narrow mountain roads during rain."
+              }
+            },
+            {
+              "name": "Vallesinella",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Nässe rutschig sein.",
+                "hu": "A parkoló vizesen csúszós lehet.",
+                "ro": "Parcarea poate fi alunecoasă pe timp de ploaie.",
+                "en": "The parking area can be slippery when wet."
+              }
+            },
+            {
+              "name": "Grostè Cable Car",
+              "tip_5lang": {
+                "de": "Die Sicht von oben ist oft besser als im Tal.",
+                "hu": "Fentről a kilátás gyakran jobb, mint a völgyben.",
+                "ro": "Vizibilitatea de sus este deseori mai bună decât în vale.",
+                "en": "Visibility from the top is often better than in the valley."
+              }
+            },
+            {
+              "name": "Piazza Righi",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgaragen im Zentrum, um trocken auszusteigen.",
+                "hu": "Használja a belvárosi mélygarázsokat, hogy szárazon szálljon ki.",
+                "ro": "Folosiți parcările subterane din centru pentru a coborî la uscat.",
+                "en": "Use underground parking in the center to stay dry when exiting."
+              }
+            },
+            {
+              "name": "Santa Maria Antica Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg vom Parkplatz reicht aus.",
+                "hu": "A parkolótól csak egy rövid séta szükséges.",
+                "ro": "O scurtă plimbare de la parcare este suficientă.",
+                "en": "Only a short walk from the parking area is needed."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie in den Kurven besonders vorsichtig wegen Aquaplaning-Gefahr.",
+              "Bergeinschlüsse können bei starkem Regen Nebelbänke bilden.",
+              "Das Val di Genova ist eine Einbahnstraße mit Maut, prüfen Sie die Öffnung.",
+              "Nutzen Sie die Parkhäuser 'Brenta' oder 'Spinale' im Zentrum.",
+              "Halten Sie die Scheinwerfer sauber für bessere Sicht im Nebel."
+            ],
+            "hu": [
+              "A kanyarokban vezessen óvatosan a vízenfutás veszélye miatt.",
+              "Heves esőben a hegyoldalakon ködfoltok alakulhatnak ki.",
+              "A Val di Genova útdíjas egyirányú út, ellenőrizze a nyitvatartást.",
+              "Használja a belvárosi 'Brenta' vagy 'Spinale' parkolóházakat.",
+              "Tartsa tisztán a fényszórókat a ködben való jobb láthatóságért."
+            ],
+            "ro": [
+              "Conduceți prudent în curbe din cauza riscului de acvaplanare.",
+              "În timpul ploii abundente se pot forma bănci de ceață pe versanți.",
+              "Val di Genova este un drum cu sens unic și taxă, verificați programul.",
+              "Folosiți parcările supraetajate 'Brenta' sau 'Spinale' din centru.",
+              "Păstrați farurile curate pentru o vizibilitate mai bună în ceață."
+            ],
+            "en": [
+              "Drive extra carefully in curves due to aquaplaning risks.",
+              "Fog banks can form quickly along the mountainsides during heavy rain.",
+              "Val di Genova is a toll road; check its operational status in rain.",
+              "Utilize the 'Brenta' or 'Spinale' parking garages in the center.",
+              "Keep your headlights clean for better visibility in foggy conditions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie das verschneite Val di Genova mit dem Auto. Mittags bewundern Sie das Winterpanorama in Vallesinella. Nachmittags führt die Grostè-Seilbahn zum höchsten Punkt für Skifahrer-Beobachtungen. Der Tag endet festlich beleuchtet im Zentrum beim Piazza Righi.",
+            "hu": "Reggel autózzon a havas Val di Genova-ba. Délben a téli panorámában gyönyörködhet Vallesinella-ban. Délután a Grostè felvonóval a legmagasabb pontra juthat, ahonnan megfigyelheti a síelőket. A nap ünnepi kivilágításban zárul a belvárosi Piazza Righi-n.",
+            "ro": "Dimineața explorați Val di Genova înzăpezită cu mașina. La prânz admirați panorama de iarnă în Vallesinella. După-amiaza, telecabina Grostè vă duce în cel mai înalt punct pentru a vedea schiorii. Ziua se încheie festiv în centrul iluminat din Piazza Righi.",
+            "en": "In the morning, explore the snow-covered Val di Genova by car. At noon, admire the winter panorama in Vallesinella. In the afternoon, the Grostè cable car takes you to the highest point to watch the skiers. The day ends with festive lighting in the center at Piazza Righi."
+          },
+          "stops": [
+            {
+              "name": "Val di Genova",
+              "tip_5lang": {
+                "de": "Winterreifen und Schneeketten sind hier absolut Pflicht.",
+                "hu": "A téli gumi és a hólánc itt abszolút kötelező.",
+                "ro": "Anvelopele de iarnă și lanțurile sunt absolut obligatorii aici.",
+                "en": "Winter tires and snow chains are strictly mandatory here."
+              }
+            },
+            {
+              "name": "Vallesinella",
+              "tip_5lang": {
+                "de": "Die Straße kann bei Neuschnee gesperrt sein, prüfen Sie den Status.",
+                "hu": "Friss hó esetén az út lezárható, ellenőrizze az állapotát.",
+                "ro": "Drumul poate fi închis la zăpadă proaspătă, verificați statusul.",
+                "en": "The road may be closed during heavy snowfall; check the status."
+              }
+            },
+            {
+              "name": "Grostè Cable Car",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden, oft von Skifahrern stark belegt.",
+                "hu": "Nagy parkoló áll rendelkezésre, gyakran tele van síelőkkel.",
+                "ro": "Parcare mare disponibilă, deseori ocupată de schiori.",
+                "en": "Large parking area available, often busy with skiers' cars."
+              }
+            },
+            {
+              "name": "Piazza Righi",
+              "tip_5lang": {
+                "de": "Das Parken im Freien ist wegen Schneeräumung oft eingeschränkt.",
+                "hu": "A kinti parkolás a hóeltakarítás miatt gyakran korlátozott.",
+                "ro": "Parcarea în aer liber este limitată din cauza deszăpezirii.",
+                "en": "Outdoor parking is often restricted due to snow removal operations."
+              }
+            },
+            {
+              "name": "Santa Maria Antica Church",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eiszapfen an den historischen Dächern.",
+                "hu": "Vigyázzon a történelmi tetőkről lelógó jégcsapokkal.",
+                "ro": "Atenție la țurțurii de pe acoperișurile istorice.",
+                "en": "Watch out for icicles hanging from the historic roofs."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer und einen kleinen Besen mit.",
+              "Vermeiden Sie abruptes Bremsen auf verschneiten Bergstraßen.",
+              "Parken Sie vorzugsweise in Tiefgaragen, um das Auto schnee- und eisfrei zu halten.",
+              "Frostschutzmittel in der Scheibenwaschanlage ist lebenswichtig.",
+              "Einige Passstraßen können im Winter nachts gesperrt sein."
+            ],
+            "hu": [
+              "Mindig legyen Önnel jégkaparó és egy kis kefe.",
+              "Kerülje a hirtelen fékezést a havas hegyi utakon.",
+              "Lehetőleg mélygarázsban parkoljon, hogy autója hó- és jégmentes maradjon.",
+              "Az ablakmosó fagyálló folyadéka létfontosságú.",
+              "Néhány hágó éjszakára lezárásra kerülhet télen."
+            ],
+            "ro": [
+              "Aveți întotdeauna la îndemână o racletă și o perie mică.",
+              "Evitați frânarea bruscă pe drumurile montane înzăpezite.",
+              "Parcați preferabil în garaje subterane pentru a păstra mașina fără gheață.",
+              "Lichidul de parbriz antigel este vital.",
+              "Unele pasuri montane pot fi închise noaptea în timpul iernii."
+            ],
+            "en": [
+              "Always carry an ice scraper and a small snow brush.",
+              "Avoid sudden braking on snowy mountain roads.",
+              "Prefer parking in underground garages to keep the car snow-free.",
+              "Antifreeze in the windshield washer fluid is essential.",
+              "Some mountain passes may close at night during winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -994,6 +2098,374 @@
           "Get the DoloMeetCard for free use of buses and lifts.",
           "Shuttle bus schedules vary depending on the season."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem effizienten Shuttle-System und den Bergbahnen erleben Sie Madonna di Campiglio stressfrei. Starten Sie hoch oben am Grostè-Pass, wandern Sie zum Monte Spinale und nutzen Sie die Busse, um zurück ins kulturelle Herz der Stadt zu gelangen. Der Tag gipfelt in einem entspannten Besuch der Vallesinella-Fälle, bequem erreichbar mit dem Park-Shuttle.",
+            "hu": "A hatékony transzferrendszerrel és a felvonókkal stresszmentesen fedezheti fel Madonna di Campiglio-t. Kezdje magasan a Grostè-hágónál, túrázzon a Monte Spinale-hez, majd busszal térjen vissza a város kulturális szívébe. A nap a Vallesinella-vízesések megtekintésével zárul, amely kényelmesen elérhető a parki transzferrel.",
+            "ro": "Cu sistemul eficient de transfer și telecabinele, experimentați Madonna di Campiglio fără stres. Începeți sus în pasul Grostè, mergeți pe jos la Monte Spinale și folosiți autobuzele pentru a reveni în inima culturală a orașului. Ziua culminează cu o vizită relaxată la cascadele Vallesinella, ușor accesibile cu autobuzul parcului.",
+            "en": "With the efficient shuttle system and mountain lifts, you can experience Madonna di Campiglio stress-free. Start high up at the Grostè Pass, hike to Monte Spinale, and use the buses to get back to the cultural heart of the town. The day culminates in a relaxed visit to the Vallesinella falls, easily accessible by the park shuttle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grostè Seilbahn",
+                "hu": "Grostè felvonó",
+                "ro": "Telecabina Grostè",
+                "en": "Grostè Cable Car"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Shuttle-Bus vom Zentrum zur Talstation.",
+                "hu": "Használja a transzferbuszt a központból az alsó állomásig.",
+                "ro": "Utilizați autobuzul de transfer din centru până la stația de jos.",
+                "en": "Use the shuttle bus from the center to the base station."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte Spinale",
+                "hu": "Monte Spinale",
+                "ro": "Monte Spinale",
+                "en": "Monte Spinale"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Presanella-Gruppe im Westen.",
+                "hu": "Élvezze a kilátást nyugatra a Presanella-csoportra.",
+                "ro": "Bucurați-vă de vederea spre grupul Presanella la vest.",
+                "en": "Enjoy the view of the Presanella group to the west."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza Righi",
+                "hu": "Piazza Righi",
+                "ro": "Piazza Righi",
+                "en": "Piazza Righi"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt für alle Buslinien.",
+                "hu": "Központi átszállási pont minden buszjárat számára.",
+                "ro": "Punct central de transfer pentru toate liniile de autobuz.",
+                "en": "Central transfer point for all bus lines."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa Maria Antica",
+                "hu": "Santa Maria Antica templom",
+                "ro": "Biserica Santa Maria Antica",
+                "en": "Santa Maria Antica Church"
+              },
+              "tip_5lang": {
+                "de": "Nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
+                "hu": "Csak egy rövid séta a buszmegállótól.",
+                "ro": "La doar o scurtă plimbare de stația de autobuz.",
+                "en": "Just a short walk from the bus stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Vallesinella",
+                "hu": "Vallesinella",
+                "ro": "Vallesinella",
+                "en": "Vallesinella"
+              },
+              "tip_5lang": {
+                "de": "Der Park-Bus verkehrt regelmäßig zwischen dem Zentrum und Vallesinella.",
+                "hu": "A park-busz rendszeresen közlekedik a központ és Vallesinella között.",
+                "ro": "Autobuzul parcului circulă regulat între centru și Vallesinella.",
+                "en": "The park bus runs regularly between the center and Vallesinella."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bar Suisse",
+                "tip": "Traditionsreiches Café an der Piazza Righi."
+              },
+              {
+                "name": "Grappa al pino mugo",
+                "tip": "Lokaler Grappa mit Latschenkiefer-Aroma."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bar Suisse",
+                "tip": "Hagyományőrző kávézó a Piazza Righin."
+              },
+              {
+                "name": "Grappa al pino mugo",
+                "tip": "Helyi grappa törpefenyő aromával."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bar Suisse",
+                "tip": "Cafenea tradițională în Piazza Righi."
+              },
+              {
+                "name": "Grappa al pino mugo",
+                "tip": "Grappa locală cu aromă de jneapăn."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bar Suisse",
+                "tip": "Traditional café in Piazza Righi."
+              },
+              {
+                "name": "Grappa al pino mugo",
+                "tip": "Local grappa with mountain pine aroma."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Terrasse der Bergstation",
+                "tip": "Sonniger Ruheplatz mit Dolomiten-Blick.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "A hegyi állomás terasza",
+                "tip": "Napsütötte pihenőhely kilátással a Dolomitokra.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Terasa stației de sus",
+                "tip": "Loc de odihnă însorit cu vedere la Dolomiți.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mountain Station Terrace",
+                "tip": "Sunny quiet spot with a view of the Dolomites.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Markt",
+                "tip": "Frische Produkte aus dem Trentino (saisonal)."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi piac",
+                "tip": "Friss termékek Trentinóból (szezonális)."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața locală",
+                "tip": "Produse proaspete din Trentino (sezonier)."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Market",
+                "tip": "Fresh products from Trentino (seasonal)."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Holen Sie sich die DoloMeetCard für kostenlose Nutzung der Busse und Lifte.",
+              "Die Fahrpläne der Shuttle-Busse variieren je nach Saison."
+            ],
+            "hu": [
+              "Szerezze be a DoloMeetCard-ot a buszok és felvonók ingyenes használatához.",
+              "A transzferbuszok menetrendje szezontól függően változik."
+            ],
+            "ro": [
+              "Obțineți DoloMeetCard pentru utilizarea gratuită a autobuzelor și telecabinelor.",
+              "Orarele autobuzelor de transfer variază în funcție de sezon."
+            ],
+            "en": [
+              "Get the DoloMeetCard for free use of buses and lifts.",
+              "Shuttle bus schedules vary depending on the season."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bringt Sie der Bus trocken zur Grostè-Seilbahn. Mittags schweben Sie mit der Spinale-Gondel über die verregneten Hänge. Nachmittags erkunden Sie den Piazza Righi und die Kirche im Schutz des Zentrums. Der Tag endet entspannt mit dem Skibus-Shuttle zurück zu Ihrer Unterkunft.",
+            "hu": "Reggel a busz szárazon viszi Önt a Grostè felvonóhoz. Délben a Spinale gondolával az esőáztatta lejtők fölé emelkedhet. Délután a Piazza Righi-t és a templomot fedezheti fel a központ védelmében. A nap kényelmesen, a buszjáratokkal zárul vissza a szálláshelyére.",
+            "ro": "Dimineața autobuzul vă duce la adăpost spre telecabina Grostè. La prânz plutiți cu gondola Spinale deasupra versanților ploioși. După-amiaza explorați Piazza Righi și biserica sub protecția centrului. Ziua se încheie relaxat cu autobuzul înapoi spre cazare.",
+            "en": "In the morning, the bus takes you dry to the Grostè cable car. At noon, glide over the rainy slopes with the Spinale gondola. In the afternoon, explore Piazza Righi and the church under the protection of the center. The day ends with a convenient shuttle bus back to your accommodation."
+          },
+          "stops": [
+            {
+              "name": "Grostè Cable Car",
+              "tip_5lang": {
+                "de": "Die Busstation befindet sich direkt am Eingang der Seilbahn.",
+                "hu": "A buszmegálló közvetlenül a felvonó bejáratánál található.",
+                "ro": "Stația de autobuz este chiar la intrarea telecabinei.",
+                "en": "The bus stop is located directly at the cable car entrance."
+              }
+            },
+            {
+              "name": "Monte Spinale",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Busstopp und Gondelstation minimieren Nässe.",
+                "hu": "A buszmegálló és a gondola közötti rövid út minimalizálja az elázást.",
+                "ro": "Distanța scurtă între stație și gondolă minimizează contactul cu ploaia.",
+                "en": "Short walking distances between stops minimize exposure to rain."
+              }
+            },
+            {
+              "name": "Piazza Righi",
+              "tip_5lang": {
+                "de": "Der zentrale Knotenpunkt für alle Buslinien im Ort.",
+                "hu": "Minden helyi buszjárat központi csomópontja.",
+                "ro": "Nodul central pentru toate liniile de autobuz din localitate.",
+                "en": "The central hub for all bus lines in the village."
+              }
+            },
+            {
+              "name": "Santa Maria Antica Church",
+              "tip_5lang": {
+                "de": "Wenige Meter Fußweg von der Haltestelle Piazza Righi.",
+                "hu": "Csak pár méter séta a Piazza Righi megállótól.",
+                "ro": "Câțiva metri de mers pe jos de la stația Piazza Righi.",
+                "en": "Just a few meters walk from the Piazza Righi bus stop."
+              }
+            },
+            {
+              "name": "Vallesinella",
+              "tip_5lang": {
+                "de": "Der Shuttlebus ist bei Regen die beste Wahl statt zu Fuß.",
+                "hu": "Esőben a gyaloglás helyett a legjobb választás az ingajárat.",
+                "ro": "Autobuzul de transfer este cea mai bună alegere pe ploaie.",
+                "en": "The shuttle bus is the best choice over walking in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Infos zu Busverspätungen bei Regen.",
+              "Die Skibusse sind oft beheizt und bieten einen guten Rückzugsort.",
+              "Warten Sie in den überdachten Wartebereichen der Talstationen.",
+              "Ein Mehrtagesticket (DoloBus) spart das Suchen nach Kleingeld im Nassen.",
+              "Die Fahrpläne können bei extremem Wetter leicht variieren."
+            ],
+            "hu": [
+              "Használja az alkalmazást a buszok eső miatti késésének követéséhez.",
+              "A buszok gyakran fűtöttek, így jó menedéket nyújtanak.",
+              "Várjon a völgyállomások fedett várakozóhelyiségeiben.",
+              "A többnapos jegy (DoloBus) megkíméli a vizes aprópénz-keresgéléstől.",
+              "A menetrendek extrém időjárás esetén kissé módosulhatnak."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru informații în timp real despre întârzieri.",
+              "Autobuzele sunt deseori încălzite și oferă un refugiu bun.",
+              "Așteptați în zonele acoperite ale stațiilor de plecare.",
+              "Un abonament (DoloBus) vă scutește de căutarea banilor gheață pe ploaie.",
+              "Orarele pot varia ușor în funcție de condițiile meteo extreme."
+            ],
+            "en": [
+              "Use the local app for real-time updates on bus delays during rain.",
+              "The shuttle buses are often heated and provide a good refuge.",
+              "Wait in the covered areas of the valley lift stations.",
+              "A multi-day pass (DoloBus) saves the hassle of finding coins in the rain.",
+              "Schedules may vary slightly during extreme weather conditions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens nutzen Sie den bequemen Skibus zur Grostè-Seilbahn. Mittags genießen Sie die Fahrt mit der Spinale-Gondel über die verschneite Märchenwelt. Nachmittags ist der Piazza Righi das belebte Winterzentrum für alle Transit-Gäste. Der Tag endet entspannt mit der letzten Busfahrt durch den glitzernden Schnee.",
+            "hu": "Reggel használja a kényelmes síbuszt a Grostè felvonóhoz. Délben a Spinale gondolából csodálhatja meg a havas mesevilágot. Délután a Piazza Righi a központ, ahol minden járat összefut. A nap egy utolsó buszos utazással zárul a csillogó hóban.",
+            "ro": "Dimineața folosiți autobuzul de schi spre telecabina Grostè. La prânz admirați lumea de basm înzăpezită din gondola Spinale. După-amiaza Piazza Righi devine centrul animat pentru toți călătorii. Ziua se încheie relaxat cu o ultimă cursă prin zăpada sclipitoare.",
+            "en": "In the morning, use the convenient ski bus to reach the Grostè cable car. At noon, enjoy the Spinale gondola ride over a snowy fairytale world. In the afternoon, Piazza Righi is the bustling winter center for all transit users. The day ends with a final bus ride through the sparkling snow."
+          },
+          "stops": [
+            {
+              "name": "Grostè Cable Car",
+              "tip_5lang": {
+                "de": "Beachten Sie die hohe Auslastung durch Skifahrer am Morgen.",
+                "hu": "Ügyeljen a reggeli nagy síelőforgalomra a buszokon.",
+                "ro": "Atenție la numărul mare de schiori de la primele ore.",
+                "en": "Be mindful of high occupancy by skiers during the morning rush."
+              }
+            },
+            {
+              "name": "Monte Spinale",
+              "tip_5lang": {
+                "de": "Die Seilbahn ist der Hauptzubringer zum Skigebiet.",
+                "hu": "A felvonó a síterület fő megközelítési útvonala.",
+                "ro": "Telecabina este principalul mijloc de acces spre zona de schi.",
+                "en": "The cable car is the primary access point to the ski area."
+              }
+            },
+            {
+              "name": "Piazza Righi",
+              "tip_5lang": {
+                "de": "Im Winter herrscht hier reges Treiben durch Après-Ski-Gäste.",
+                "hu": "Télen itt nagy az élet az Après-Ski vendégek miatt.",
+                "ro": "Iarna aici este forfotă mare datorită turiștilor Après-Ski.",
+                "en": "In winter, this area is bustling with Après-Ski visitors."
+              }
+            },
+            {
+              "name": "Santa Maria Antica Church",
+              "tip_5lang": {
+                "de": "Ein kurzer, gut geräumter Weg führt von der Haltestelle weg.",
+                "hu": "A megállótól rövid, jól letakarított út vezet a templomhoz.",
+                "ro": "Un drum scurt și bine deszăpezit duce de la stație spre biserică.",
+                "en": "A short, well-cleared path leads from the stop to the church."
+              }
+            },
+            {
+              "name": "Vallesinella",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der Winter-Shuttlebus planmäßig verkehrt.",
+                "hu": "Ellenőrizze, hogy a téli ingajárat a menetrend szerint közlekedik-e.",
+                "ro": "Verificați dacă transferul de iarnă circulă conform orarului.",
+                "en": "Check if the winter shuttle bus is operating on schedule."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Ihre Gästekarte bereit, der Skibus ist oft kostenlos.",
+              "Vorsicht beim Ein- und Aussteigen, der Boden kann glatt sein.",
+              "Die Busse sind im Winter oft stark geheizt – tragen Sie Schichten.",
+              "Stellen Sie Ihre Skiausrüstung sicher in die dafür vorgesehenen Halter.",
+              "Planen Sie mehr Zeit ein, da Schneeräumfahrzeuge den Transit verlangsamen."
+            ],
+            "hu": [
+              "Tartsa készenlétben vendégkártyáját, a síbusz gyakran ingyenes.",
+              "Vigyázzon a fel- és leszállásnál, a talaj csúszós lehet.",
+              "A buszok télen gyakran erősen fűtöttek – öltözzön rétegesen.",
+              "Helyezze el sífelszerelését biztonságosan a kijelölt tartókba.",
+              "Tervezzen több időt, mert a hókotrók lassíthatják a forgalmat."
+            ],
+            "ro": [
+              "Aveți cardul de oaspete la îndemână, autobuzul de schi e deseori gratuit.",
+              "Atenție la urcare și coborâre, podeaua poate fi lunecoasă.",
+              "Autobuzele sunt deseori foarte încălzite iarna – purtați straturi.",
+              "Depozitați echipamentul de schi în siguranță în suporturile speciale.",
+              "Rezervați-vă mai mult timp, deoarece plugurile pot încetini traficul."
+            ],
+            "en": [
+              "Have your guest card ready, as the ski bus is often free of charge.",
+              "Be careful when boarding and exiting; the ground may be slippery.",
+              "Buses are often heavily heated in winter – dress in layers.",
+              "Secure your ski equipment in the designated exterior racks.",
+              "Allow extra travel time as snowplows may slow down transit."
+            ]
+          }
+        }
       }
     }
   },

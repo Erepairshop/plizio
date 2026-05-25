@@ -228,6 +228,341 @@
           "Wear comfortable shoes for the cobblestone streets.",
           "Book restaurants on the bastions in advance."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag an der Torre di Sulis und schlendern Sie entlang der beeindruckenden Bastionen. Mittags besuchen Sie die Kathedrale im Herzen der Altstadt. Am Nachmittag tauchen Sie im Korallenmuseum in die lokale Handwerkskunst ein. Beenden Sie den Tag entspannt am Lido-Strand.",
+            "hu": "Kezdje a napot a Torre di Sulis toronynál, majd sétáljon végig a lenyűgöző bástyákon. Délben látogassa meg az óváros szívében álló katedrálist. Délután merüljön el a helyi kézművesség titkaiban a Korallmúzeumban. A napot pihenéssel zárja a Lido homokos strandján.",
+            "ro": "Începeți ziua la Torre di Sulis și plimbați-vă de-a lungul bastioanelor impresionante. La prânz, vizitați catedrala din inima orașului vechi. După-amiaza, descoperiți secretele meșteșugului local la Muzeul Coralului. Încheiați ziua relaxându-vă pe plaja de nisip Lido.",
+            "en": "Start your day at the Torre di Sulis and stroll along the impressive bastions. At noon, visit the cathedral in the heart of the old town. In the afternoon, dive into the secrets of local craftsmanship at the Coral Museum. End the day relaxing on the sandy Lido beach."
+          },
+          "stops": [
+            {
+              "name": "Torre di Sulis",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Hafen am Morgen.",
+                "hu": "Élvezze a kikötőre nyíló kilátást a reggeli fényekben.",
+                "ro": "Bucurați-vă de vederea spre port în lumina dimineții.",
+                "en": "Enjoy the harbor view in the morning light."
+              }
+            },
+            {
+              "name": "Bastioni di Alghero",
+              "tip_5lang": {
+                "de": "Ein Spaziergang entlang der mittelalterlichen Mauern.",
+                "hu": "Séta a középkori várfalak mentén a tenger felett.",
+                "ro": "O plimbare de-a lungul zidurilor medievale deasupra mării.",
+                "en": "A walk along the medieval walls above the sea."
+              }
+            },
+            {
+              "name": "Cattedrale di Santa Maria",
+              "tip_5lang": {
+                "de": "Bewundern Sie die katalanisch-gotische Architektur.",
+                "hu": "Csodálja meg a katalán gótikus építészetet.",
+                "ro": "Admirați arhitectura gotică catalană.",
+                "en": "Admire the Catalan-Gothic architecture."
+              }
+            },
+            {
+              "name": "Museo del Corallo",
+              "tip_5lang": {
+                "de": "Entdecken Sie die Geschichte der roten Koralle.",
+                "hu": "Ismerje meg a vörös korall halászatának történetét.",
+                "ro": "Descoperiți istoria pescuitului de corali roșii.",
+                "en": "Discover the history of red coral fishing."
+              }
+            },
+            {
+              "name": "Spiaggia del Lido di Alghero",
+              "tip_5lang": {
+                "de": "Perfekt für ein erfrischendes Bad am Nachmittag.",
+                "hu": "Tökéletes hely egy frissítő délutáni csobbanáshoz.",
+                "ro": "Locul perfect pentru o baie răcoritoare după-amiaza.",
+                "en": "The perfect place for a refreshing afternoon dip."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Aragosta alla Catalana",
+                "tip": "Frischer Hummer mit Zwiebeln und Tomaten."
+              },
+              {
+                "name": "Trattoria Marco Polo",
+                "tip": "Direkt an den Bastionen mit Meerblick."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Aragosta alla Catalana",
+                "tip": "Friss homár hagymával és paradicsommal."
+              },
+              {
+                "name": "Trattoria Marco Polo",
+                "tip": "Közvetlenül a bástyákon, tengeri kilátással."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Aragosta alla Catalana",
+                "tip": "Homar proaspăt cu ceapă și roșii."
+              },
+              {
+                "name": "Trattoria Marco Polo",
+                "tip": "Chiar pe bastioane, cu vedere la mare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Aragosta alla Catalana",
+                "tip": "Fresh lobster with onions and tomatoes."
+              },
+              {
+                "name": "Trattoria Marco Polo",
+                "tip": "Right on the bastions with a sea view."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Bastioni Marco Polo",
+                "tip": "Bester Ort für den Sonnenuntergang.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bastioni Marco Polo",
+                "tip": "A legjobb hely a naplemente megtekintéséhez.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bastioni Marco Polo",
+                "tip": "Cel mai bun loc pentru apusul soarelui.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Bastioni Marco Polo",
+                "tip": "Best spot for watching the sunset.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Via Gilbert Ferret",
+                "tip": "Viele kleine Läden mit handgefertigtem Korallenschmuck."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Via Gilbert Ferret",
+                "tip": "Számos kis bolt kézzel készített korall ékszerekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Via Gilbert Ferret",
+                "tip": "Multe magazine mici cu bijuterii din corali lucrate manual."
+              }
+            ],
+            "en": [
+              {
+                "name": "Via Gilbert Ferret",
+                "tip": "Many small shops with handmade coral jewelry."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Reservieren Sie Restaurants an den Bastionen im Voraus."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "Foglaljon előre asztalt a bástya menti éttermekbe."
+            ],
+            "ro": [
+              "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+              "Rezervați din timp masa la restaurantele de pe bastioane."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestone streets.",
+              "Book restaurants on the bastions in advance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die Türme Schutz vor Regenschauern. Mittags laden die schmalen Gassen der Altstadt zum Flanieren unter Arkaden ein. Nachmittags ist das Korallenmuseum ein idealer Rückzugsort. Abends glänzt das Kopfsteinpflaster im Regenlicht, perfekt für stimmungsvolle Fotos.",
+            "hu": "Reggel a tornyok tövében keresünk menedéket a záporok elől. Délben az óváros szűk utcái és árkádjai védenek a széltől. Délután a Korallmúzeum nyújt fedett kulturális élményt. Este a vizes macskaköveken megcsillanó fények különleges hangulatot adnak a városfal menti sétának.",
+            "ro": "Dimineața, turnurile oferă adăpost împotriva averselor. La prânz, străzile înguste ale centrului vechi protejează de vânt. După-amiaza, Muzeul Coraleului este refugiul ideal. Seara, pavajul umed reflectă luminile orașului, creând o atmosferă magică pe bastioane.",
+            "en": "Morning starts with tower views between showers. At noon, the narrow old town alleys provide some shelter from the wind. Afternoon is perfect for the indoor Coral Museum. In the evening, the wet cobblestones create a beautiful reflection of the city lights during a coastal stroll."
+          },
+          "stops": [
+            {
+              "name": "Torre di Sulis",
+              "tip_5lang": {
+                "de": "Unter dem Turmvorsprung trocken bleiben.",
+                "hu": "A torony tövében védett maradhatsz az esőtől.",
+                "ro": "Rămâneți la adăpost sub cornișa turnului.",
+                "en": "Stay dry under the tower's overhang."
+              }
+            },
+            {
+              "name": "Bastioni di Alghero",
+              "tip_5lang": {
+                "de": "Vorsicht, rutschige Steine bei Nässe.",
+                "hu": "Vigyázat, a kövek csúszósak lehetnek esőben.",
+                "ro": "Atenție, pietrele sunt alunecoase când sunt ude.",
+                "en": "Caution, the stones can be slippery when wet."
+              }
+            },
+            {
+              "name": "Cattedrale di Santa Maria",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine Regenpause.",
+                "hu": "Tökéletes hely egy esőszünetre.",
+                "ro": "Locul perfect pentru o pauză de ploaie.",
+                "en": "Perfect place for a rain break."
+              }
+            },
+            {
+              "name": "Museo del Corallo",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ausstellung im Trockenen.",
+                "hu": "Élvezze a kiállítást teljesen fedett helyen.",
+                "ro": "Bucurați-vă de expoziție la interior.",
+                "en": "Enjoy the exhibition in a dry environment."
+              }
+            },
+            {
+              "name": "Spiaggia del Lido di Alghero",
+              "tip_5lang": {
+                "de": "Die Cafés am Strand bieten guten Schutz.",
+                "hu": "A strand menti kávézók jó menedéket nyújtanak.",
+                "ro": "Cafenelele de pe plajă oferă adăpost bun.",
+                "en": "Beachfront cafes offer good shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe wegen der Pfützen in der Altstadt.",
+              "Die Bastionen können bei Regen sehr windig sein.",
+              "Nutzen Sie die Kirchen als kostenlose Unterstellmöglichkeit.",
+              "Ein stabiler Regenschirm ist wegen der Meeresbrise wichtig."
+            ],
+            "hu": [
+              "Viselj vízálló cipőt az óvárosi tócsák miatt.",
+              "A bástyák esőben nagyon szelesek lehetnek.",
+              "Használd a templomokat ingyenes menedékként.",
+              "Az erős tengeri szél miatt a stabil esernyő elengedhetetlen."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru bălțile din centrul vechi.",
+              "Bastioanele pot fi foarte vântoase în timpul ploii.",
+              "Folosiți bisericile ca locuri de refugiu gratuite.",
+              "O umbrelă rezistentă este necesară din cauza brizelor marine."
+            ],
+            "en": [
+              "Wear waterproof shoes due to puddles in the old town.",
+              "The bastions can be very windy during rain.",
+              "Use the churches as free shelter spots.",
+              "A sturdy umbrella is essential due to the sea breeze."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist mild und ruhig in Alghero. Mittags genießen Sie die Sonne auf den Bastionen ohne Sommertrubel. Nachmittags wärmt die Kunst im Korallenmuseum Geist und Körper. Den Sonnenuntergang erleben Sie bereits gegen 17:00 Uhr spektakulär über dem Meer.",
+            "hu": "A téli reggel enyhe és csendes Algheróban. Délben a bástyákon élvezhetjük a napsütést a nyári tömeg nélkül. Délután a Korallmúzeum művészete melengeti a lelket. A naplemente már 17:00 körül bekövetkezik, látványos színekbe öltöztetve a tengert.",
+            "ro": "Dimineața de iarnă este blândă și liniștită în Alghero. La prânz, bucurați-vă de soare pe bastioane fără aglomerația verii. După-amiaza, arta din Muzeul Coraleului încălzește spiritul. Apusul are loc deja în jurul orei 17:00, spectaculos peste mare.",
+            "en": "The winter morning is mild and peaceful in Alghero. At noon, enjoy the sun on the bastions without the summer crowds. Afternoon is a great time for the cozy Coral Museum. Experience a spectacular sunset over the sea as early as 17:00."
+          },
+          "stops": [
+            {
+              "name": "Torre di Sulis",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Wind am Turm nötig.",
+                "hu": "Meleg ruha kell a toronynál fújó szél miatt.",
+                "ro": "Haine groase necesare pentru vântul de la turn.",
+                "en": "Warm clothes needed for the wind at the tower."
+              }
+            },
+            {
+              "name": "Bastioni di Alghero",
+              "tip_5lang": {
+                "de": "Bester Platz für die tiefe Wintersonne.",
+                "hu": "A legjobb hely az alacsony téli napfényhez.",
+                "ro": "Cel mai bun loc pentru soarele slab de iarnă.",
+                "en": "Best spot for the low winter sun."
+              }
+            },
+            {
+              "name": "Cattedrale di Santa Maria",
+              "tip_5lang": {
+                "de": "Innere Ruhe abseits der kühlen Meeresbrise.",
+                "hu": "Belső nyugalom a hűvös tengeri szellőtől távol.",
+                "ro": "Liniște interioară departe de briza rece.",
+                "en": "Interior peace away from the cool sea breeze."
+              }
+            },
+            {
+              "name": "Museo del Corallo",
+              "tip_5lang": {
+                "de": "Ein angenehm warmer Rückzugsort am Nachmittag.",
+                "hu": "Kellemesen meleg menedék délutánra.",
+                "ro": "Un refugiu plăcut și cald după-amiaza.",
+                "en": "A pleasantly warm retreat for the afternoon."
+              }
+            },
+            {
+              "name": "Spiaggia del Lido di Alghero",
+              "tip_5lang": {
+                "de": "Ideal für einen erfrischenden Winterspaziergang.",
+                "hu": "Ideális egy frissítő téli sétához a homokban.",
+                "ro": "Ideal pentru o plimbare revigorantă de iarnă.",
+                "en": "Ideal for a refreshing winter walk on the sand."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht bereits gegen 17:00 Uhr unter.",
+              "Zwiebelprinzip bei der Kleidung schützt vor kühlem Wind.",
+              "Viele Cafés haben im Winter Heizstrahler im Außenbereich.",
+              "Die Stadt ist wesentlich leerer und authentischer."
+            ],
+            "hu": [
+              "A nap már 17:00 óra körül lemegy.",
+              "A réteges öltözködés véd a hűvös tengeri széltől.",
+              "Sok kávézó hősugárzóval várja a vendégeket a teraszon.",
+              "A város ilyenkor sokkal üresebb és hitelesebb."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 17:00.",
+              "Îmbrăcămintea în straturi protejează de vântul rece.",
+              "Multe cafenele au încălzitoare exterioare iarna.",
+              "Orașul este mult mai gol și autentic acum."
+            ],
+            "en": [
+              "The sun sets as early as 17:00.",
+              "Layered clothing protects against the cool sea wind.",
+              "Many cafes have outdoor heaters in winter.",
+              "The city is much emptier and more authentic now."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -434,6 +769,325 @@
           "Rent a bike with a lock.",
           "Take enough water for the ride to Palmavera."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Alghero auf zwei Rädern! Fahren Sie entlang der Küste zum Lido und weiter zur archäologischen Stätte Palmavera. Am Nachmittag kehren Sie in die Stadt zurück, um die markante San-Michele-Kirche zu bewundern.",
+            "hu": "Fedezze fel Algherót két keréken! Tekerjen a part mentén a Lidóhoz, majd tovább a Palmavera régészeti lelőhelyhez. Délután térjen vissza a városba, hogy megcsodálja a San Michele templom különleges kupoláját.",
+            "ro": "Explorați Alghero pe două roți! Mergeți de-a lungul coastei spre Lido, apoi mai departe spre situl arheologic Palmavera. După-amiaza reveniți în oraș pentru a admira cupola deosebită a bisericii San Michele.",
+            "en": "Explore Alghero on two wheels! Ride along the coast to Lido and further to the Palmavera archaeological site. In the afternoon, return to the city to admire the unique dome of the San Michele church."
+          },
+          "stops": [
+            {
+              "name": "Bastioni di Alghero",
+              "tip_5lang": {
+                "de": "Morgendliche Fahrt mit frischer Meeresbrise.",
+                "hu": "Reggeli tekerés a friss tengeri szellőben.",
+                "ro": "O plimbare de dimineață în briza proaspătă a mării.",
+                "en": "Morning ride in the fresh sea breeze."
+              }
+            },
+            {
+              "name": "Spiaggia del Lido di Alghero",
+              "tip_5lang": {
+                "de": "Flacher Radweg entlang der Küste.",
+                "hu": "Lapos kerékpárút a part mentén.",
+                "ro": "Pistă de biciclete plană de-a lungul coastei.",
+                "en": "Flat bike path along the coast."
+              }
+            },
+            {
+              "name": "Complesso Nuragico di Palmavera",
+              "tip_5lang": {
+                "de": "Beeindruckende prähistorische Nuraghen-Siedlung.",
+                "hu": "Lenyűgöző őskori nurághe település.",
+                "ro": "Așezare nuragică preistorică impresionantă.",
+                "en": "Impressive prehistoric Nuragic settlement."
+              }
+            },
+            {
+              "name": "Torre di Sulis",
+              "tip_5lang": {
+                "de": "Wichtiger Treffpunkt in der Stadt.",
+                "hu": "Fontos találkozópont a városban.",
+                "ro": "Punct important de întâlnire în oraș.",
+                "en": "Important meeting point in the city."
+              }
+            },
+            {
+              "name": "Chiesa di San Michele",
+              "tip_5lang": {
+                "de": "Berühmt für seine farbenfrohe Majolika-Kuppel.",
+                "hu": "Híres a színes majolika kupolájáról.",
+                "ro": "Faimoasă pentru cupola sa colorată din majolică.",
+                "en": "Famous for its colorful majolica dome."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Seadas",
+                "tip": "Sardisches Gebäck mit Käse und Honig."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Seadas",
+                "tip": "Szardíniai sütemény sajttal és mézzel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Seadas",
+                "tip": "Desert sardinian cu brânză și miere."
+              }
+            ],
+            "en": [
+              {
+                "name": "Seadas",
+                "tip": "Sardinian pastry with cheese and honey."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parco di Porto Conte",
+                "tip": "Natur pur außerhalb der Stadt.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parco di Porto Conte",
+                "tip": "Tiszta természet a városon kívül.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parco di Porto Conte",
+                "tip": "Natură pură în afara orașului.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parco di Porto Conte",
+                "tip": "Pure nature outside the city.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercato Civico",
+                "tip": "Lokaler Markt für frische Produkte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mercato Civico",
+                "tip": "Helyi piac friss termékekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mercato Civico",
+                "tip": "Piață locală pentru produse proaspete."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mercato Civico",
+                "tip": "Local market for fresh produce."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein Fahrrad mit Schloss.",
+              "Nehmen Sie ausreichend Wasser für die Fahrt nach Palmavera mit."
+            ],
+            "hu": [
+              "Béreljen lakattal ellátott kerékpárt.",
+              "Vigyen magával elég vizet a Palmavera felé vezető útra."
+            ],
+            "ro": [
+              "Închiriați o bicicletă cu lacăt.",
+              "Luați suficientă apă pentru drumul spre Palmavera."
+            ],
+            "en": [
+              "Rent a bike with a lock.",
+              "Take enough water for the ride to Palmavera."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig auf den nassen Bastionen. Mittags führt die Fahrt am Lido entlang, wo Strandbars Schutz bieten. Nachmittags ist die Tour nach Palmavera bei leichtem Regen mystisch, aber achten Sie auf rutschige Straßen. Abends endet die Tour sicher in der beleuchteten Altstadt.",
+            "hu": "Induljon óvatosan a vizes bástyákon. Délben a Lido mentén kerékpározhatunk, ahol a bárok védelmet nyújtanak. Délután a palmaverai út ködös-esős időben misztikus, de ügyeljen a csúszós aszfaltra. Este a kivilágított óvárosban fejezzük be a biztonságos túrát.",
+            "ro": "Porniți cu atenție pe bastioanele umede. La prânz, drumul pe lângă Lido oferă baruri pentru adăpost. După-amiaza, drumul spre Palmavera este mistic pe ploaie, dar atenție la asfaltul alunecos. Seara, turul se încheie în siguranță în centrul vechi luminat.",
+            "en": "Start carefully on the wet bastions. At noon, cycle along the Lido where beach bars offer shelter. Afternoon trip to Palmavera feels mystical in light rain, but watch for slippery roads. End your tour safely in the illuminated old town in the evening."
+          },
+          "stops": [
+            {
+              "name": "Bastioni di Alghero",
+              "tip_5lang": {
+                "de": "Langsam fahren, das Pflaster ist spiegelglatt.",
+                "hu": "Lassan haladj, a burkolat tükörsima lehet.",
+                "ro": "Mergeți încet, pavajul poate fi foarte alunecos.",
+                "en": "Ride slowly, the pavement can be very slippery."
+              }
+            },
+            {
+              "name": "Spiaggia del Lido di Alghero",
+              "tip_5lang": {
+                "de": "Nutzen Sie den festen Radweg am Ufer.",
+                "hu": "Használd a szilárd kerékpárutat a parton.",
+                "ro": "Folosiți pista de biciclete de pe faleză.",
+                "en": "Use the solid bike path along the shore."
+              }
+            },
+            {
+              "name": "Complesso Nuragico di Palmavera",
+              "tip_5lang": {
+                "de": "Regencape für die Außenbesichtigung nutzen.",
+                "hu": "Használj esőköpenyt a külső helyszínhez.",
+                "ro": "Folosiți o pelerină pentru vizita exterioară.",
+                "en": "Use a rain poncho for the outdoor site visit."
+              }
+            },
+            {
+              "name": "Torre di Sulis",
+              "tip_5lang": {
+                "de": "Fahrrad sicher unter einem Dach abstellen.",
+                "hu": "Parkold a bringát fedett helyre.",
+                "ro": "Parcați bicicleta într-un loc acoperit.",
+                "en": "Park your bike in a covered spot."
+              }
+            },
+            {
+              "name": "Chiesa di San Michele",
+              "tip_5lang": {
+                "de": "Trockener Ort für eine finale Pause.",
+                "hu": "Száraz hely egy utolsó pihenőhöz.",
+                "ro": "Loc uscat pentru o ultimă pauză.",
+                "en": "A dry place for a final break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt im Regen.",
+              "Vermeiden Sie Pfützen, die Schlaglöcher verbergen könnten.",
+              "Schutzbleche sind bei diesem Wetter unverzichtbar.",
+              "Die Küstenstraße kann bei Seitenwind tückisch sein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizd a fékeket az esőben.",
+              "Kerüld a kátyúkat rejtő tócsákat.",
+              "A sárvédő ilyenkor nélkülözhetetlen tartozék.",
+              "A parti út oldalszélben trükkös lehet."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare pe ploaie.",
+              "Evitați bălțile care pot ascunde gropi.",
+              "Apărătorile de noroi sunt indispensabile acum.",
+              "Drumul de coastă poate fi periculos la vânt lateral."
+            ],
+            "en": [
+              "Check your brakes before starting in the rain.",
+              "Avoid puddles that might hide potholes.",
+              "Mudguards are indispensable in this weather.",
+              "The coastal road can be tricky with crosswinds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen auf dem Rad belebt die Sinne. Mittags ist die Fahrt zum Lido bei klarem Himmel ein Genuss. Nachmittags erreichen Sie Palmavera vor der frühen Dämmerung. Abends kehren Sie rechtzeitig zurück, bevor es um 17:30 Uhr merklich abkühlt.",
+            "hu": "A friss téli reggel a kerékpáron felpezsdíti az érzékeket. Délben a Lido menti tekerés tiszta égbolt mellett élvezet. Délután még a szürkület előtt érjük el Palmaverát. Este térjünk vissza időben, mielőtt 17:30 után érezhetően lehűl az idő.",
+            "ro": "O dimineață răcoroasă pe bicicletă înviorează simțurile. La prânz, drumul spre Lido pe cer senin este o plăcere. După-amiaza ajungeți la Palmavera înainte de amurg. Seara reveniți la timp, înainte de răcirea accentuată de după 17:30.",
+            "en": "A crisp winter morning on a bike invigorates the senses. At noon, cycling to the Lido under clear skies is a joy. Reach Palmavera in the afternoon before early twilight. Return in the evening before it cools down significantly after 17:30."
+          },
+          "stops": [
+            {
+              "name": "Bastioni di Alghero",
+              "tip_5lang": {
+                "de": "Handschuhe gegen den kalten Fahrtwind tragen.",
+                "hu": "Viselj kesztyűt a hideg menetszél ellen.",
+                "ro": "Purtați mănuși împotriva vântului rece.",
+                "en": "Wear gloves against the cold wind while riding."
+              }
+            },
+            {
+              "name": "Spiaggia del Lido di Alghero",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten, leeren Strandblick.",
+                "hu": "Élvezd a tágas, üres strand látványát.",
+                "ro": "Bucurați-vă de priveliștea plajei goale.",
+                "en": "Enjoy the wide, empty beach view."
+              }
+            },
+            {
+              "name": "Complesso Nuragico di Palmavera",
+              "tip_5lang": {
+                "de": "Besuch am frühen Nachmittag wegen Licht planen.",
+                "hu": "A fényviszonyok miatt kora délutánra tervezd.",
+                "ro": "Planificați vizita devreme pentru lumină.",
+                "en": "Plan your visit early for better light."
+              }
+            },
+            {
+              "name": "Torre di Sulis",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Wintersonne zu fangen.",
+                "hu": "Rövid megálló a téli napsütésben.",
+                "ro": "Scurt popas pentru a prinde soarele de iarnă.",
+                "en": "Short stop to catch the winter sun."
+              }
+            },
+            {
+              "name": "Chiesa di San Michele",
+              "tip_5lang": {
+                "de": "Die farbige Kuppel leuchtet auch im Winter.",
+                "hu": "A színes kupola télen is ragyog.",
+                "ro": "Cupola colorată strălucește și iarna.",
+                "en": "The colorful dome shines even in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Das Tageslicht endet im Winter sehr früh (ca. 17:00).",
+              "Achten Sie auf funktionierendes Licht am Fahrrad.",
+              "Winddichte Kleidung ist an der Küste sehr wichtig.",
+              "Die Wege sind im Winter viel freier von Fußgängern."
+            ],
+            "hu": [
+              "A nappali fény télen korán véget ér (kb. 17:00).",
+              "Ügyelj a kerékpár világításának működésére.",
+              "A szélálló ruházat kulcsfontosságú a parton.",
+              "Az utak télen sokkal szabadabbak a gyalogosoktól."
+            ],
+            "ro": [
+              "Lumina zilei se termină foarte devreme (cca. 17:00).",
+              "Asigurați-vă că luminile bicicletei funcționează.",
+              "Hainele rezistente la vânt sunt esențiale pe coastă.",
+              "Traseele sunt mult mai libere de pietoni iarna."
+            ],
+            "en": [
+              "Daylight ends very early in winter (around 17:00).",
+              "Ensure your bike lights are working properly.",
+              "Windproof clothing is crucial along the coast.",
+              "Paths are much freer from pedestrians in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -640,6 +1294,325 @@
           "Avoid driving into the old town (ZTL).",
           "Book the grotto in advance."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie die spektakuläre Neptungrotte am Capo Caccia. Nach der Besichtigung der antiken Palmavera-Nuraghen kehren Sie nach Alghero zurück, um den Palazzo d'Albis und die Bastionen zu erkunden.",
+            "hu": "Autóval könnyen elérheti a látványos Neptun-barlangot a Capo Cacciánál. A Palmavera nurághe megtekintése után térjen vissza Algheróba, hogy felfedezze a Palazzo d'Albist és a várfalakat.",
+            "ro": "Cu mașina puteți ajunge ușor la spectaculoasa Grotă a lui Neptun de la Capo Caccia. După vizitarea nuragilor din Palmavera, reveniți în Alghero pentru a explora Palazzo d'Albis și bastioanele.",
+            "en": "By car, you can easily reach the spectacular Neptune's Grotto at Capo Caccia. After visiting the ancient Palmavera Nuraghe, return to Alghero to explore Palazzo d'Albis and the bastions."
+          },
+          "stops": [
+            {
+              "name": "Complesso Nuragico di Palmavera",
+              "tip_5lang": {
+                "de": "Früh am Morgen ist es weniger heiß.",
+                "hu": "Kora reggel még nincs olyan meleg.",
+                "ro": "Dimineața devreme nu este atât de cald.",
+                "en": "It's less hot early in the morning."
+              }
+            },
+            {
+              "name": "Grotta di Nettuno",
+              "tip_5lang": {
+                "de": "Über 600 Stufen führen hinunter zur Grotte.",
+                "hu": "Több mint 600 lépcső vezet le a barlanghoz.",
+                "ro": "Peste 600 de trepte duc jos la peșteră.",
+                "en": "Over 600 steps lead down to the cave."
+              }
+            },
+            {
+              "name": "Palazzo d'Albis",
+              "tip_5lang": {
+                "de": "Historischer Palast im Stadtzentrum.",
+                "hu": "Történelmi palota a városközpontban.",
+                "ro": "Palat istoric în centrul orașului.",
+                "en": "Historic palace in the city center."
+              }
+            },
+            {
+              "name": "Chiesa di San Francesco",
+              "tip_5lang": {
+                "de": "Besuchen Sie den wunderschönen Kreuzgang.",
+                "hu": "Látogassa meg a gyönyörű kolostorkertet.",
+                "ro": "Vizitați frumoasa grădină a mănăstirii.",
+                "en": "Visit the beautiful cloister."
+              }
+            },
+            {
+              "name": "Bastioni di Alghero",
+              "tip_5lang": {
+                "de": "Parken Sie außerhalb der ZTL-Zone.",
+                "hu": "Parkoljon a ZTL-zónán kívül.",
+                "ro": "Parcați în afara zonei ZTL.",
+                "en": "Park outside the ZTL zone."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pane Carasau",
+                "tip": "Traditionelles dünnes Fladenbrot."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pane Carasau",
+                "tip": "Hagyományos vékony lepénykenyér."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pane Carasau",
+                "tip": "Lipie tradițională subțire."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pane Carasau",
+                "tip": "Traditional thin flatbread."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Capo Caccia",
+                "tip": "Atemberaubender Blick auf die Klippen.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Capo Caccia",
+                "tip": "Lélegzetelállító kilátás a sziklákról.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Capo Caccia",
+                "tip": "Vedere uluitoare de pe stânci.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Capo Caccia",
+                "tip": "Breathtaking view from the cliffs.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Sella & Mosca",
+                "tip": "Besuchen Sie das Weingut für lokale Weine."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sella & Mosca",
+                "tip": "Látogasson el a borászatba helyi borokért."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sella & Mosca",
+                "tip": "Vizitați crama pentru vinuri locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Sella & Mosca",
+                "tip": "Visit the winery for local wines."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Fahren in die Altstadt (ZTL).",
+              "Buchen Sie die Grotte im Voraus."
+            ],
+            "hu": [
+              "Kerülje az autóval való behajtást az óvárosba (ZTL).",
+              "Foglaljon előre jegyet a barlangba."
+            ],
+            "ro": [
+              "Evitați intrarea cu mașina în orașul vechi (ZTL).",
+              "Rezervați biletul pentru peșteră în avans."
+            ],
+            "en": [
+              "Avoid driving into the old town (ZTL).",
+              "Book the grotto in advance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens entspannt nach Palmavera. Mittags bietet die Neptungrotte Schutz, sofern der Zugang über die Treppen sicher ist. Nachmittags sind die Paläste der Altstadt trockene Kulturziele. Abends genießen Sie den Blick auf die regenfeuchten Bastionen bequem vom Auto aus.",
+            "hu": "Reggel kényelmesen hajtson ki Palmaverába. Délben a Neptun-barlang nyújt fedezéket, ha a lépcsőn való lejutás biztonságos. Délután az óvárosi paloták száraz kulturális célpontok. Este a kocsiból nézve is élvezheti az esőáztatta bástyák látványát.",
+            "ro": "Conduceți relaxat dimineața spre Palmavera. La prânz, Grota lui Neptun oferă adăpost, dacă accesul pe scări este sigur. După-amiaza, palatele din centrul vechi sunt ținte culturale uscate. Seara, admirați bastioanele umede confortabil din mașină.",
+            "en": "Drive comfortably to Palmavera in the morning. At noon, Neptune's Grotto provides shelter, provided the stair access is safe. Afternoon is for exploring dry indoor palaces. In the evening, enjoy the view of the rain-washed bastions from the comfort of your car."
+          },
+          "stops": [
+            {
+              "name": "Complesso Nuragico di Palmavera",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Eingang, kurzer Weg.",
+                "hu": "Parkoló közvetlenül a bejáratnál, rövid séta.",
+                "ro": "Parcare chiar la intrare, drum scurt.",
+                "en": "Parking right at the entrance, short walk."
+              }
+            },
+            {
+              "name": "Grotta di Nettuno",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Treppe bei Sturm offen ist.",
+                "hu": "Ellenőrizd, nyitva van-e a lépcső viharban.",
+                "ro": "Verificați dacă scările sunt deschise pe furtună.",
+                "en": "Check if the stairs are open during storms."
+              }
+            },
+            {
+              "name": "Palazzo d'Albis",
+              "tip_5lang": {
+                "de": "Zentral parken und schnell ins Trockene.",
+                "hu": "Parkolj központilag, és siess fedett helyre.",
+                "ro": "Parcați central și intrați rapid la adăpost.",
+                "en": "Park centrally and get to cover quickly."
+              }
+            },
+            {
+              "name": "Chiesa di San Francesco",
+              "tip_5lang": {
+                "de": "Der Kreuzgang bietet Schutz vor Regen.",
+                "hu": "A kolostorudvar védelmet nyújt az esőtől.",
+                "ro": "Claustrul oferă protecție împotriva ploii.",
+                "en": "The cloister provides protection from the rain."
+              }
+            },
+            {
+              "name": "Bastioni di Alghero",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, dann zurück ins warme Auto.",
+                "hu": "Gyors fotó, aztán vissza a meleg autóba.",
+                "ro": "Stop rapid pentru poze, apoi înapoi în mașină.",
+                "en": "Quick photo stop, then back to the warm car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen können bei dem ersten Regen sehr rutschig sein.",
+              "Nutzen Sie die Parkhäuser nahe der Altstadt.",
+              "Bei starkem Seegang sind Bootsfahrten zur Grotte gestrichen.",
+              "Halten Sie die Scheibenbeschlagsentfernung bereit."
+            ],
+            "hu": [
+              "Az utak az első esőnél nagyon csúszósak lehetnek.",
+              "Használd az óváros közeli parkolóházakat.",
+              "Erős hullámzásnál a barlangi hajójáratok elmaradnak.",
+              "Készülj fel a szélvédő páramentesítésére."
+            ],
+            "ro": [
+              "Drumurile pot fi foarte alunecoase la prima ploaie.",
+              "Folosiți parcările etajate de lângă centrul vechi.",
+              "La mare agitată, bărcile spre grotă sunt anulate.",
+              "Pregătiți sistemul de dezaburire a parbrizului."
+            ],
+            "en": [
+              "Roads can be very slippery during the first rain.",
+              "Use parking garages near the old town.",
+              "Boat trips to the grotto are cancelled in rough seas.",
+              "Keep the window defogger ready."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Fahrt zum Capo Caccia bei Winterlicht traumhaft. Mittags erkunden Sie die Grotte ohne Warteschlangen. Nachmittags parken Sie leicht in Stadtnähe für einen Museumsbesuch. Abends leuchten die Lichter der Stadt in der frühen Dunkelheit besonders stimmungsvoll.",
+            "hu": "Reggel a Capo Caccia felé vezető út téli fényekben álomszép. Délben sorban állás nélkül fedezhetjük fel a barlangot. Délután könnyen parkolhatunk a városban egy múzeumlátogatáshoz. Este a város fényei a korai sötétségben különösen hangulatosak.",
+            "ro": "Dimineața, drumul spre Capo Caccia în lumina iernii este de vis. La prânz, explorați grota fără cozi. După-amiaza, parcați ușor lângă oraș pentru un muzeu. Seara, luminile orașului în întunericul timpuriu sunt foarte primitoare.",
+            "en": "The drive to Capo Caccia in winter light is dreamy in the morning. At noon, explore the grotto without queues. Afternoon parking is much easier near the city for museum visits. In the evening, the city lights look especially atmospheric in the early dark."
+          },
+          "stops": [
+            {
+              "name": "Complesso Nuragico di Palmavera",
+              "tip_5lang": {
+                "de": "Kein Sommertrubel, genießen Sie die Stille.",
+                "hu": "Nincs nyári tolongás, élvezd a csendet.",
+                "ro": "Fără aglomerație, bucurați-vă de liniște.",
+                "en": "No summer rush, enjoy the silence."
+              }
+            },
+            {
+              "name": "Grotta di Nettuno",
+              "tip_5lang": {
+                "de": "Konstante Temperatur in der Grotte ist mild.",
+                "hu": "A barlang hőmérséklete télen is enyhe.",
+                "ro": "Temperatura din grotă este constant blândă.",
+                "en": "The temperature inside the grotto is mild."
+              }
+            },
+            {
+              "name": "Palazzo d'Albis",
+              "tip_5lang": {
+                "de": "Im Winter sind Parkplätze direkt davor frei.",
+                "hu": "Télen közvetlenül előtte is van parkolóhely.",
+                "ro": "Iarna sunt locuri de parcare chiar în față.",
+                "en": "In winter, parking spots right in front are free."
+              }
+            },
+            {
+              "name": "Chiesa di San Francesco",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung im Winter.",
+                "hu": "Csendes hely az elmélyüléshez télen.",
+                "ro": "Un loc liniștit pentru reflecție iarna.",
+                "en": "A quiet place for reflection in winter."
+              }
+            },
+            {
+              "name": "Bastioni di Alghero",
+              "tip_5lang": {
+                "de": "Parken Sie am Hafen für einen kurzen Gang.",
+                "hu": "Parkolj a kikötőben egy rövid sétához.",
+                "ro": "Parcați la port pentru o plimbare scurtă.",
+                "en": "Park at the port for a short stroll."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkplatzsuche ist im Winter völlig unproblematisch.",
+              "Beachten Sie die frühen Schließzeiten der Sehenswürdigkeiten.",
+              "Die Küstenstraßen sind leer und ideal für Fotostopps.",
+              "Heizung im Auto sorgt für Komfort bei kühlem Wind."
+            ],
+            "hu": [
+              "A parkolóhely-keresés télen teljesen problémamentes.",
+              "Ügyelj a látnivalók korai zárórájára.",
+              "A parti utak üresek, ideálisak fotómegállókhoz.",
+              "Az autó fűtése kényelmet nyújt a hűvös szélben."
+            ],
+            "ro": [
+              "Găsirea parcării este fără probleme iarna.",
+              "Atenție la orele de închidere timpurii ale obiectivelor.",
+              "Drumurile de coastă sunt goale și ideale pentru poze.",
+              "Încălzirea din mașină oferă confort la vânt rece."
+            ],
+            "en": [
+              "Finding parking is completely trouble-free in winter.",
+              "Be aware of the early closing times of attractions.",
+              "Coastal roads are empty and ideal for photo stops.",
+              "Car heating provides comfort against the cool wind."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -846,6 +1819,325 @@
           "Buy bus tickets at a 'Tabacchi' shop.",
           "The 'Beach Bus' is ideal in summer."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das lokale Busnetz, um zwischen der historischen Altstadt und den Stränden zu pendeln. Vormittags erkunden Sie die Kathedrale und das Korallenmuseum, den Nachmittag verbringen Sie am weitläufigen Lido-Strand.",
+            "hu": "Használja a helyi buszhálózatot a történelmi óváros és a strandok közötti közlekedéshez. Délelőtt fedezze fel a katedrálist és a Korallmúzeumot, a délutánt pedig töltse a tágas Lido strandon.",
+            "ro": "Folosiți rețeaua locală de autobuze pentru a circula între orașul vechi istoric și plaje. Dimineața explorați catedrala și Muzeul Coralului, iar după-amiaza petreceți-o pe plaja spațioasă Lido.",
+            "en": "Use the local bus network to travel between the historic old town and the beaches. In the morning explore the cathedral and the Coral Museum, and spend the afternoon at the spacious Lido beach."
+          },
+          "stops": [
+            {
+              "name": "Torre di Sulis",
+              "tip_5lang": {
+                "de": "Bushaltestelle in der Nähe von Piazza Sulis.",
+                "hu": "Buszmegálló a Piazza Sulis közelében.",
+                "ro": "Stație de autobuz lângă Piazza Sulis.",
+                "en": "Bus stop near Piazza Sulis."
+              }
+            },
+            {
+              "name": "Cattedrale di Santa Maria",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang von der Haltestelle.",
+                "hu": "Rövid séta a megállótól.",
+                "ro": "O scurtă plimbare de la stație.",
+                "en": "A short walk from the stop."
+              }
+            },
+            {
+              "name": "Museo del Corallo",
+              "tip_5lang": {
+                "de": "Gut erreichbar mit den Linienbussen.",
+                "hu": "Jól elérhető helyi buszokkal.",
+                "ro": "Ușor accesibil cu autobuzele locale.",
+                "en": "Easily accessible by local buses."
+              }
+            },
+            {
+              "name": "Spiaggia del Lido di Alghero",
+              "tip_5lang": {
+                "de": "Bus AF fährt direkt zum Strand.",
+                "hu": "Az AF busz közvetlenül a strandra visz.",
+                "ro": "Autobuzul AF merge direct la plajă.",
+                "en": "Bus AF goes directly to the beach."
+              }
+            },
+            {
+              "name": "Chiesa di San Michele",
+              "tip_5lang": {
+                "de": "Rückfahrt ins Stadtzentrum am Abend.",
+                "hu": "Esti visszatérés a városközpontba.",
+                "ro": "Întoarcerea în centrul orașului seara.",
+                "en": "Evening return to the city center."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Culurgiones",
+                "tip": "Gefüllte Teigtaschen aus Sardinien."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Culurgiones",
+                "tip": "Szardíniai töltött tészta."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Culurgiones",
+                "tip": "Paste sardiniene umplute."
+              }
+            ],
+            "en": [
+              {
+                "name": "Culurgiones",
+                "tip": "Sardinian stuffed pasta."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Lido di Alghero",
+                "tip": "Lange Spaziergänge im Sand.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lido di Alghero",
+                "tip": "Hosszú séták a homokban.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lido di Alghero",
+                "tip": "Plimbări lungi pe nisip.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lido di Alghero",
+                "tip": "Long walks in the sand.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Piazza Civica",
+                "tip": "Zentraler Platz mit exklusiven Boutiquen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Piazza Civica",
+                "tip": "Központi tér exkluzív butikokkal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piazza Civica",
+                "tip": "Piață centrală cu buticuri exclusive."
+              }
+            ],
+            "en": [
+              {
+                "name": "Piazza Civica",
+                "tip": "Central square with exclusive boutiques."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Busfahrkarten im Tabacchi-Laden.",
+              "Der 'Beach Bus' ist im Sommer ideal."
+            ],
+            "hu": [
+              "Vásároljon buszjegyet a 'Tabacchi' üzletekben.",
+              "A 'Beach Bus' nyáron ideális választás."
+            ],
+            "ro": [
+              "Cumpărați bilete de autobuz de la 'Tabacchi'.",
+              "Autobuzul 'Beach Bus' este ideal vara."
+            ],
+            "en": [
+              "Buy bus tickets at a 'Tabacchi' shop.",
+              "The 'Beach Bus' is ideal in summer."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie morgens den Bus, um trocken zum Sulis-Turm zu kommen. Mittags bieten Kathedrale und Mussen Schutz. Nachmittags ist die Fahrt zum Lido im Bus gemütlicher als zu Fuß. Abends bringt Sie der öffentliche Nahverkehr sicher zurück zu Ihrer Unterkunft.",
+            "hu": "Reggel használd a buszt, hogy szárazon juss a Sulis-toronyhoz. Délben a székesegyház és a múzeumok adnak menedéket. Délután a buszozás a Lidóhoz kényelmesebb, mint a gyaloglás az esőben. Este a tömegközlekedés biztonságban visszavisz a szállásodra.",
+            "ro": "Folosiți autobuzul dimineața pentru a ajunge uscat la turn. La prânz, catedrala și muzeele oferă adăpost. După-amiaza, drumul spre Lido cu autobuzul e mai plăcut decât pe jos. Seara, transportul public vă duce în siguranță la cazare.",
+            "en": "Use the bus in the morning to reach Sulis Tower dry. At noon, the cathedral and museums provide shelter. In the afternoon, taking the bus to the Lido is more comfortable than walking in the rain. Public transport gets you back safely in the evening."
+          },
+          "stops": [
+            {
+              "name": "Torre di Sulis",
+              "tip_5lang": {
+                "de": "Bushaltestelle ist nur wenige Schritte entfernt.",
+                "hu": "A buszmegálló csak pár lépésre van.",
+                "ro": "Stația de autobuz este la doar câțiva pași.",
+                "en": "The bus stop is just a few steps away."
+              }
+            },
+            {
+              "name": "Cattedrale di Santa Maria",
+              "tip_5lang": {
+                "de": "Warten Sie den Schauer im Inneren ab.",
+                "hu": "Várd meg a zápor végét a templomban.",
+                "ro": "Așteptați trecerea ploii în interior.",
+                "en": "Wait for the rain shower to pass inside."
+              }
+            },
+            {
+              "name": "Museo del Corallo",
+              "tip_5lang": {
+                "de": "Idealer Stopp bei schlechtem Wetter.",
+                "hu": "Ideális megálló rossz idő esetén.",
+                "ro": "Oprire ideală pe vreme rea.",
+                "en": "Ideal stop during bad weather."
+              }
+            },
+            {
+              "name": "Spiaggia del Lido di Alghero",
+              "tip_5lang": {
+                "de": "Busse fahren regelmäßig direkt zum Strand.",
+                "hu": "A buszok rendszeresen járnak a strandra.",
+                "ro": "Autobuzele circulă regulat direct la plajă.",
+                "en": "Buses run regularly directly to the beach."
+              }
+            },
+            {
+              "name": "Chiesa di San Michele",
+              "tip_5lang": {
+                "de": "Nahegelegene Haltestelle für die Heimfahrt.",
+                "hu": "Közeli megálló a hazautazáshoz.",
+                "ro": "Stație apropiată pentru drumul spre casă.",
+                "en": "Nearby stop for the journey home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrkarten vorab in Tabakläden kaufen.",
+              "Die Busse sind im Regen oft voller als sonst.",
+              "Halten Sie die Fahrpläne per App bereit.",
+              "Einige Haltestellen haben kleine Unterstände."
+            ],
+            "hu": [
+              "Vegyél jegyet előre a dohányboltokban (tabacchi).",
+              "A buszok esőben gyakran zsúfoltabbak a szokásosnál.",
+              "Legyen kéznél a menetrend egy applikációban.",
+              "Néhány megállóban van kis esőbeálló."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans de la chioșcurile de ziare.",
+              "Autobuzele sunt adesea mai pline când plouă.",
+              "Aveți orarele la îndemână pe o aplicație.",
+              "Unele stații au mici adăposturi."
+            ],
+            "en": [
+              "Buy tickets in advance from tobacco shops (tabacchi).",
+              "Buses are often more crowded than usual during rain.",
+              "Keep schedules ready via a mobile app.",
+              "Some stops have small rain shelters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter sind die Busse in Alghero angenehm leer. Morgens erreichen Sie die Altstadt entspannt. Mittags erkunden Sie die Sehenswürdigkeiten ohne Drängeln. Nachmittags ist die Fahrt am Meer entlang im warmen Bus erholsam. Abends kehren Sie bequem zurück, wenn die Stadtlichter angehen.",
+            "hu": "Télen az algherói buszok kellemesen üresek. Reggel nyugodtan érhetjük el az óvárost. Délben lökdösődés nélkül fedezhetjük fel a látnivalókat. Délután a tengerparti buszozás a meleg járaton pihentető. Este kényelmesen térhetünk vissza, amikor felgyúlnak a fények.",
+            "ro": "Iarna, autobuzele din Alghero sunt plăcut de goale. Dimineața ajungeți relaxat în orașul vechi. La prânz explorați obiectivele fără aglomerație. După-amiaza, drumul pe malul mării în autobuz e odihnitor. Seara reveniți confortabil când se aprind luminile.",
+            "en": "In winter, Alghero's buses are pleasantly uncrowded. Reach the old town relaxed in the morning. Explore attractions without the rush at noon. An afternoon bus ride along the coast is warm and restful. Return comfortably in the evening as the city lights come on."
+          },
+          "stops": [
+            {
+              "name": "Torre di Sulis",
+              "tip_5lang": {
+                "de": "Winterfahrplan beachten, weniger Fahrten.",
+                "hu": "Figyeld a téli menetrendet, kevesebb a járat.",
+                "ro": "Atenție la orarul de iarnă, mai puține curse.",
+                "en": "Check the winter schedule, fewer trips."
+              }
+            },
+            {
+              "name": "Cattedrale di Santa Maria",
+              "tip_5lang": {
+                "de": "Zentraler Punkt, von dem alle Busse abfahren.",
+                "hu": "Központi pont, ahonnan minden busz indul.",
+                "ro": "Punct central de unde pleacă toate autobuzele.",
+                "en": "Central point from which all buses depart."
+              }
+            },
+            {
+              "name": "Museo del Corallo",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haupthaltestelle.",
+                "hu": "Rövid séta a fő buszmegállótól.",
+                "ro": "Scurtă plimbare de la stația principală.",
+                "en": "Short walk from the main bus stop."
+              }
+            },
+            {
+              "name": "Spiaggia del Lido di Alghero",
+              "tip_5lang": {
+                "de": "Busse enden hier im Winter seltener.",
+                "hu": "A buszok télen ritkábban végállomásoznak itt.",
+                "ro": "Autobuzele opresc mai rar aici iarna.",
+                "en": "Buses terminate here less frequently in winter."
+              }
+            },
+            {
+              "name": "Chiesa di San Michele",
+              "tip_5lang": {
+                "de": "Guter Anschluss zurück ins Stadtzentrum.",
+                "hu": "Jó összeköttetés vissza a városközpontba.",
+                "ro": "Conexiune bună înapoi spre centru.",
+                "en": "Good connection back to the city center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne ändern sich im Winter deutlich.",
+              "Die Busse sind im Winter meist pünktlicher.",
+              "Einige Überlandlinien fahren im Winter seltener.",
+              "Nutzen Sie die Wartezeit für einen schnellen Espresso."
+            ],
+            "hu": [
+              "A menetrendek télen jelentősen megváltoznak.",
+              "A buszok télen általában pontosabbak.",
+              "Néhány távolsági járat ritkábban közlekedik.",
+              "Használd ki a várakozási időt egy gyors eszpresszóra."
+            ],
+            "ro": [
+              "Orarele se schimbă semnificativ iarna.",
+              "Autobuzele sunt de obicei mai punctuale iarna.",
+              "Unele linii interurbane circulă mai rar.",
+              "Folosiți timpul de așteptare pentru un espresso rapid."
+            ],
+            "en": [
+              "Schedules change significantly in winter.",
+              "Buses are usually more punctual in winter.",
+              "Some intercity lines run less frequently.",
+              "Use the waiting time for a quick espresso."
+            ]
+          }
+        }
       }
     }
   },

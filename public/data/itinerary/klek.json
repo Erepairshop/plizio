@@ -260,6 +260,382 @@
           "The beach is ideal for small children.",
           "Visit the gallery for a special souvenir."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "In Klek entdecken Sie eine Mischung aus Wehrtürmen und moderner Kunst. Der Spaziergang führt vom Nonković-Turm zur charmanten Peter-und-Paul-Kirche und weiter zur Galerie Stećak.\nMittags entspannen Sie am Hauptstrand, der für sein seichtes Wasser bekannt ist. Den späten Nachmittag verbringen Sie am Hafen und bei der malerischen St. Liberan Kapelle, wo Sie die Ruhe der Adria genießen.",
+            "hu": "Klekben a védőtornyok és a modern művészet keverékét fedezzük fel. A séta a Nonković-toronytól a bájos Szent Péter és Pál templomhoz, majd a Stećak Galériához vezet.\nDélben a sekély vizéről ismert főstrandon pihenünk. A késő délutánt a kikötőben és a festői Szent Liberan kápolnánál töltjük, élvezve az Adria nyugalmát.",
+            "ro": "În Klek descoperiți un amestec de turnuri de apărare și artă modernă. Plimbarea duce de la Turnul Nonković la biserica Sf. Petru și Pavel și mai departe la Galeria Stećak.\nLa prânz vă relaxați pe plaja principală, cunoscută pentru apa sa puțin adâncă. După-amiaza târziu o petreceți în port și la capela pitorească Sf. Liberan, savurând liniștea Adriaticii.",
+            "en": "In Klek, discover a mix of defensive towers and modern art. The walk leads from the Nonković Tower to the charming Peter and Paul Church and on to the Stećak Gallery.\nAt noon, relax at the main beach, known for its shallow water. Spend the late afternoon at the port and the picturesque St. Liberan chapel, enjoying the peace of the Adriatic."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nonković-Turm",
+                "hu": "Nonković-torony",
+                "ro": "Turnul Nonković",
+                "en": "Nonković Tower"
+              },
+              "tip_5lang": {
+                "de": "Ein Wehrturm aus der Zeit der Venezianer.",
+                "hu": "Védőtorony a velencei időkből.",
+                "ro": "Un turn de apărare din epoca venețiană.",
+                "en": "A defensive tower from the Venetian era."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Peter und Paul",
+                "hu": "Szent Péter és Pál templom",
+                "ro": "Biserica Sf. Petru și Pavel",
+                "en": "Church of St. Peter and Paul"
+              },
+              "tip_5lang": {
+                "de": "Die charmante Hauptkirche des Ortes.",
+                "hu": "A település bájos főtemploma.",
+                "ro": "Biserica principală fermecătoare a satului.",
+                "en": "The charming main church of the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerie Stećak",
+                "hu": "Stećak Galéria",
+                "ro": "Galeria Stećak",
+                "en": "Stećak Gallery"
+              },
+              "tip_5lang": {
+                "de": "Zeitgenössische Kunst in historischem Ambiente.",
+                "hu": "Kortárs művészet történelmi környezetben.",
+                "ro": "Artă contemporană într-un cadru istoric.",
+                "en": "Contemporary art in a historic setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Hauptstrand Klek",
+                "hu": "Klek főstrand",
+                "ro": "Plaja principală Klek",
+                "en": "Klek Main Beach"
+              },
+              "tip_5lang": {
+                "de": "Kiesstrand mit sehr sauberem Wasser.",
+                "hu": "Kavicsos strand nagyon tiszta vízzel.",
+                "ro": "Plajă cu pietriș și apă foarte curată.",
+                "en": "Pebble beach with very clean water."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Klek",
+                "hu": "Klek kikötője",
+                "ro": "Portul Klek",
+                "en": "Port of Klek"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Fischerboote.",
+                "hu": "Figyelje meg a halászhajókat.",
+                "ro": "Urmăriți bărcile de pescuit.",
+                "en": "Watch the fishing boats."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle St. Liberan",
+                "hu": "Szent Liberan kápolna",
+                "ro": "Capela Sf. Liberan",
+                "en": "St. Liberan Chapel"
+              },
+              "tip_5lang": {
+                "de": "Kleine Kapelle am Ende der Bucht.",
+                "hu": "Kis kápolna az öböl végén.",
+                "ro": "Capelă mică la capătul golfului.",
+                "en": "Small chapel at the end of the bay."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurant Plaža",
+                "tip": "Frisch gegrillte Calamari."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Plaža Étterem",
+                "tip": "Frissen grillezett kalamári."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurant Plaža",
+                "tip": "Calamari la grătar proaspeți."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restaurant Plaža",
+                "tip": "Freshly grilled calamari."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Promenade nach Liberan",
+                "tip": "Ruhiger Weg entlang der Felsen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sétány Liberan felé",
+                "tip": "Csendes út a sziklák mentén.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Promenada spre Liberan",
+                "tip": "Drum liniștit de-a lungul stâncilor.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Promenade to Liberan",
+                "tip": "Quiet path along the rocks.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mini-Markt Klek",
+                "tip": "Lokaler Wein und Oliven."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Klek Mini-Market",
+                "tip": "Helyi bor és olajbogyó."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mini-Market Klek",
+                "tip": "Vin local și măsline."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mini-Market Klek",
+                "tip": "Local wine and olives."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Strand ist ideal für kleine Kinder.",
+              "Besuchen Sie die Galerie für ein besonderes Souvenir."
+            ],
+            "hu": [
+              "A strand ideális kisgyermekeknek.",
+              "Látogasson el a galériába egy különleges szuvenírért."
+            ],
+            "ro": [
+              "Plaja este ideală pentru copii mici.",
+              "Vizitați galeria pentru un suvenir deosebit."
+            ],
+            "en": [
+              "The beach is ideal for small children.",
+              "Visit the gallery for a special souvenir."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Nonković-Turm, dessen dicke Mauern Schutz vor dem dalmatinischen Regen bieten. Später besuchen Sie die Kirche St. Peter und Paul für einen Moment der Stille.\r\n\r\nMittags erkunden Sie die Stećak-Galerie, der ideale Ort, um trocken zu bleiben und mittelalterliche Kunst zu bewundern.\r\n\r\nDer Nachmittag am Strand von Klek ist auch im Regen reizvoll, wenn der Nebel über das Meer zieht. Beobachten Sie die Schiffe im Hafen unter Ihrem Regenschirm.\r\n\r\nBeenden Sie die Tour an der St. Liberan Kapelle, während das Licht in den grauen Wolken verblasst.",
+            "hu": "Kezdje a napot a Nonković-toronynál, ahol a vastag falak menedéket nyújtanak az adriai eső elől. Később látogasson el a Szent Péter és Pál templomba egy csendes elmélyülésre.\r\n\r\nDélben a Stećak Galéria a legjobb választás, hogy fedél alatt maradva ismerje meg a középkori sírkövek titkait.\r\n\r\nDélután a Klek strand és a kikötő ködbe burkolózó látványa különleges hangulatot áraszt az esernyő alól szemlélve.\r\n\r\nA napot a Szent Liberan kápolnánál zárja, ahol a tenger szürke hullámai felett lassan sötétedni kezd.",
+            "ro": "Începeți ziua la Turnul Nonković, ale cărui ziduri groase oferă adăpost împotriva ploii dalmate. Mai târziu, vizitați Biserica Sf. Petru și Pavel pentru un moment de liniște.\r\n\r\nLa prânz, explorați Galeria Stećak, locul ideal pentru a rămâne la adăpost în timp ce admirați arta medievală.\r\n\r\nDupă-amiaza pe plaja Klek este fascinantă chiar și în ploaie, când marea este acoperită de ceață. Priviți bărcile din port protejați de umbrelă.\r\n\r\nÎncheiați turul la Capela Sf. Liberan, în timp ce lumina dispare printre norii cenușii.",
+            "en": "Start your day at the Nonković Tower, where thick walls provide shelter from the Dalmatian rain. Later, visit the Church of St. Peter and Paul for a quiet moment.\r\n\r\nAt noon, explore the Stećak Gallery, the perfect indoor spot to stay dry while admiring medieval art.\r\n\r\nAn afternoon at Klek beach is atmospheric even in the rain as mist rolls over the sea. Watch the boats in the port from under your umbrella.\r\n\r\nEnd the tour at St. Liberan Chapel as the light fades into the grey clouds."
+          },
+          "stops": [
+            {
+              "name": "Nonković Tower",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den massiven Steinbögen am Eingang.",
+                "hu": "Keressen menedéket a bejárat masszív kőívei alatt.",
+                "ro": "Căutați adăpost sub arcadele masive de piatră de la intrare.",
+                "en": "Seek shelter under the massive stone arches at the entrance."
+              }
+            },
+            {
+              "name": "Church of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Rückzugsort während starker Regenschauer.",
+                "hu": "Csendes, száraz menedék a hevesebb záporok idejére.",
+                "ro": "Un refugiu liniștit și uscat în timpul averselor puternice.",
+                "en": "A quiet, dry retreat during heavy rain showers."
+              }
+            },
+            {
+              "name": "Stećak Gallery",
+              "tip_5lang": {
+                "de": "Ideale Indoor-Aktivität; nehmen Sie sich Zeit für die Details.",
+                "hu": "Ideális fedett program; szánjon időt a részletek megfigyelésére.",
+                "ro": "Activitate ideală în interior; acordați timp detaliilor.",
+                "en": "Ideal indoor activity; take your time with the details."
+              }
+            },
+            {
+              "name": "Klek Main Beach",
+              "tip_5lang": {
+                "de": "Die Cafés an der Promenade bieten überdachte Sitzplätze mit Meerblick.",
+                "hu": "A sétány kávézói fedett teraszokat kínálnak kilátással a tengerre.",
+                "ro": "Cafenelele de pe faleză oferă locuri acoperite cu vedere la mare.",
+                "en": "Promenade cafes offer covered seating with sea views."
+              }
+            },
+            {
+              "name": "Port of Klek",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen, rutschigen Steinpflastern am Kai.",
+                "hu": "Vigyázzon a vizes, csúszós kövekre a rakparton.",
+                "ro": "Atenție la pietrele ude și alunecoase de pe chei.",
+                "en": "Be careful on the wet, slippery stone pavements on the quay."
+              }
+            },
+            {
+              "name": "St. Liberan Chapel",
+              "tip_5lang": {
+                "de": "Kleiner Unterstand vorhanden, perfekt für ein kurzes Gewitter.",
+                "hu": "Kis beugró található itt, tökéletes egy rövid vihar átvészelésére.",
+                "ro": "Există un mic adăpost, perfect pentru o furtună scurtă.",
+                "en": "Small shelter available, perfect for a short storm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die rutschigen Gassen.",
+              "Regenschirme sind bei Wind oft unpraktisch, wählen Sie ein Regenponcho.",
+              "Die Stećak-Galerie ist der beste Ort für längere Regengüsse.",
+              "Planen Sie Pausen in den Cafés an der Promenade ein."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a csúszós utcák miatt.",
+              "A szél miatt az esernyő helyett néha praktikusabb egy esőponcsó.",
+              "A Stećak Galéria a legjobb hely a hosszabb záporok idejére.",
+              "Tervezzen pihenőket a sétány fedett kávézóiba."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile alunecoase.",
+              "Umbrelele sunt adesea ineficiente din cauza vântului; alegeți o pelerină.",
+              "Galeria Stećak este cel mai bun loc pentru averse prelungite.",
+              "Planificați pauze în cafenelele acoperite de pe faleză."
+            ],
+            "en": [
+              "Wear waterproof shoes for the slippery streets.",
+              "Umbrellas can be impractical in coastal winds; choose a rain poncho.",
+              "The Stećak Gallery is the best spot during prolonged downpours.",
+              "Plan breaks in the covered cafes along the promenade."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft am Nonković-Turm ohne die Sommermassen. Besuchen Sie die Kirche St. Peter und Paul für einen Moment der inneren Einkehr.\r\n\r\nMittags bietet die Stećak-Galerie Einblicke in die Geschichte, wobei die kühlen Temperaturen die mystische Atmosphäre verstärken.\r\n\r\nEin Spaziergang am leeren Strand von Klek ist belebend. Beobachten Sie den frühen Sonnenuntergang über der Pelješac-Brücke vom Hafen aus.\r\n\r\nBeenden Sie den Tag an der St. Liberan Kapelle, während die Winterdämmerung den Horizont in Violett taucht.",
+            "hu": "Élvezze a tiszta téli levegőt a Nonković-toronynál a nyári tömeg nélkül. Látogasson el a Szent Péter és Pál templomba egy csendes elmélyülésre.\r\n\r\nDélben a Stećak Galéria betekintést nyújt a történelembe, a hűvös idő pedig csak fokozza a középkori emlékek misztikus hangulatát.\r\n\r\nEgy séta az üres Klek strandon felfrissítő élmény. Figyelje a korai naplementét a Pelješac-híd felett a kikötőből.\r\n\r\nA napot a Szent Liberan kápolnánál zárja, miközben a téli szürkület lilára festi a horizontot.",
+            "ro": "Bucurați-vă de aerul curat de iarnă la Turnul Nonković, fără mulțimile de vară. Vizitați Biserica Sf. Petru și Pavel pentru un moment de reflecție.\r\n\r\nLa prânz, Galeria Stećak oferă o incursiune în istorie, temperaturile scăzute sporind atmosfera mistică.\r\n\r\nO plimbare pe plaja pustie din Klek este revigorantă. Admirați apusul timpuriu peste podul Pelješac din port.\r\n\r\nÎncheiați ziua la Capela Sf. Liberan, în timp ce amurgul de iarnă colorează orizontul în nuanțe de violet.",
+            "en": "Enjoy the crisp winter air at the Nonković Tower without the summer crowds. Visit the Church of St. Peter and Paul for a moment of reflection.\r\n\r\nAt noon, the Stećak Gallery offers a dive into history, with the cool temperatures enhancing the mystical atmosphere.\r\n\r\nA walk on the empty Klek beach is refreshing. Watch the early sunset over the Pelješac bridge from the port.\r\n\r\nEnd the day at St. Liberan Chapel as the winter twilight paints the horizon in violet."
+          },
+          "stops": [
+            {
+              "name": "Nonković Tower",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wichtig, da der Wind am Turm kühlen kann.",
+                "hu": "Réteges öltözködés javasolt, mert a toronynál fújhat a szél.",
+                "ro": "Îmbrăcămintea groasă este esențială, deoarece vântul poate fi rece la turn.",
+                "en": "Warm clothing is essential as the wind can be chilly at the tower."
+              }
+            },
+            {
+              "name": "Church of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte gut ab.",
+                "hu": "A vastag falak jól tartják a benti hőt.",
+                "ro": "Zidurile groase izolează bine împotriva frigului.",
+                "en": "The thick walls keep the cold out effectively."
+              }
+            },
+            {
+              "name": "Stećak Gallery",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten vorab online.",
+                "hu": "Ellenőrizze a téli nyitvatartást indulás előtt.",
+                "ro": "Verificați programul de iarnă în prealabil.",
+                "en": "Check winter opening hours in advance."
+              }
+            },
+            {
+              "name": "Klek Main Beach",
+              "tip_5lang": {
+                "de": "Perfekt für einen zügigen Spaziergang, um warm zu bleiben.",
+                "hu": "Tökéletes egy gyors sétához, hogy mozgásban maradjon.",
+                "ro": "Perfect pentru o plimbare rapidă pentru a vă menține cald.",
+                "en": "Perfect for a brisk walk to keep warm."
+              }
+            },
+            {
+              "name": "Port of Klek",
+              "tip_5lang": {
+                "de": "Bester Ort, um den Sonnenuntergang gegen 16:30 Uhr zu sehen.",
+                "hu": "A legjobb hely a naplemente megtekintésére 16:30 körül.",
+                "ro": "Cel mai bun loc pentru a vedea apusul în jurul orei 16:30.",
+                "en": "Best spot to watch the sunset around 4:30 PM."
+              }
+            },
+            {
+              "name": "St. Liberan Chapel",
+              "tip_5lang": {
+                "de": "Das goldene Licht am späten Nachmittag ist ideal für Fotos.",
+                "hu": "A késő délutáni aranyló fények ideálisak fotózáshoz.",
+                "ro": "Lumina aurie de după-amiază târziu este ideală pentru fotografii.",
+                "en": "The golden late afternoon light is ideal for photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Einige Restaurants könnten saisonal geschlossen sein.",
+              "Tragen Sie windfeste Jacken für den Küstenbereich.",
+              "Genießen Sie die Ruhe eines Ortes ohne Sommermassen."
+            ],
+            "hu": [
+              "A nap télen már 16:30 körül lenyugszik.",
+              "Néhány étterem szezonálisan zárva tarthat.",
+              "Viseljen szélálló kabátot a tengerparti részeken.",
+              "Élvezze a turisták nélküli város nyugalmát."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:30 iarna.",
+              "Unele restaurante pot fi închise sezonier.",
+              "Purtați jachete rezistente la vânt pentru zona de coastă.",
+              "Bucurați-vă de liniștea unui loc fără mulțimile de vară."
+            ],
+            "en": [
+              "The sun sets as early as 4:30 PM in winter.",
+              "Some restaurants might be closed seasonally.",
+              "Wear windproof jackets for the coastal area.",
+              "Enjoy the peace of a location without summer crowds."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -491,6 +867,350 @@
           "The paths are mostly flat and easy.",
           "Watch out for pedestrians on the promenade."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die flache Halbinsel Klek bequem mit dem Rad. Der Weg führt am Hafen vorbei zu den kulturellen Highlights wie dem Turm und der Galerie.\nAnschließend radeln Sie zur abgelegenen St. Liberan Kapelle, wobei Sie stets die Adria im Blick haben. Der Ausflug endet mit einer wohlverdienten Badepause am lebhaften Hauptstrand von Klek.",
+            "hu": "Fedezze fel Klek sík félszigetét kényelmesen kerékpárral. Az út a kikötő mellett halad el olyan kulturális látnivalókhoz, mint a torony és a galéria.\nEzt követően a távoli Szent Liberan kápolnához tekerünk, folyamatos kilátással az Adriára. A túra egy jól megérdemelt fürdőzéssel zárul Klek élénk főstrandján.",
+            "ro": "Explorați peninsula plată Klek confortabil cu bicicleta. Drumul trece pe lângă port către punctele culturale, cum ar fi turnul și galeria.\nUlterior, pedalați spre capela izolată Sf. Liberan, având mereu Adria în vedere. Excursia se încheie cu o pauză de înot binemeritată pe plaja principală animată din Klek.",
+            "en": "Explore the flat Klek peninsula comfortably by bike. The path leads past the harbor to cultural highlights like the tower and the gallery.\nAfterwards, cycle to the remote St. Liberan chapel, always keeping the Adriatic in view. The trip ends with a well-deserved swim break at Klek's lively main beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Klek",
+                "hu": "Klek kikötője",
+                "ro": "Portul Klek",
+                "en": "Port of Klek"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihre Tour am Wasser.",
+                "hu": "Kezdje a túrát a víznél.",
+                "ro": "Începeți turul lângă apă.",
+                "en": "Start your tour by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Nonković-Turm",
+                "hu": "Nonković-torony",
+                "ro": "Turnul Nonković",
+                "en": "Nonković Tower"
+              },
+              "tip_5lang": {
+                "de": "Wahrzeichen des Dorfes.",
+                "hu": "A falu jelképe.",
+                "ro": "Simbolul satului.",
+                "en": "Landmark of the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerie Stećak",
+                "hu": "Stećak Galéria",
+                "ro": "Galeria Stećak",
+                "en": "Stećak Gallery"
+              },
+              "tip_5lang": {
+                "de": "Kurze Pause für Kunstliebhaber.",
+                "hu": "Rövid szünet a művészetkedvelőknek.",
+                "ro": "Scurtă pauză pentru iubitorii de artă.",
+                "en": "Short break for art lovers."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle St. Liberan",
+                "hu": "Szent Liberan kápolna",
+                "ro": "Capela Sf. Liberan",
+                "en": "St. Liberan Chapel"
+              },
+              "tip_5lang": {
+                "de": "Schöner Radweg entlang der Bucht.",
+                "hu": "Szép kerékpárút az öböl mentén.",
+                "ro": "Pistă de biciclete frumoasă pe malul golfului.",
+                "en": "Beautiful bike path along the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Hauptstrand Klek",
+                "hu": "Klek főstrand",
+                "ro": "Plaja principală Klek",
+                "en": "Klek Main Beach"
+              },
+              "tip_5lang": {
+                "de": "Belohnung nach der Fahrt.",
+                "hu": "Jutalom a tekerés után.",
+                "ro": "Răsplată după plimbare.",
+                "en": "Reward after the ride."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bistro Klek",
+                "tip": "Pizza und kühles Bier direkt am Meer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bistro Klek",
+                "tip": "Pizza és hűs sör közvetlenül a tengernél."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bistro Klek",
+                "tip": "Pizza și bere rece direct la mare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bistro Klek",
+                "tip": "Pizza and cool beer directly by the sea."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Felsenbucht",
+                "tip": "Abgelegene Stelle zum Meditieren.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sziklás öböl",
+                "tip": "Elszigetelt hely meditációhoz.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Golf stâncos",
+                "tip": "Loc izolat pentru meditație.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Rocky Bay",
+                "tip": "Secluded spot for meditation.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirstand",
+                "tip": "Muscheln und handgemachter Schmuck."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szuvenírbódé",
+                "tip": "Kagylók és kézzel készített ékszerek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Stand de suveniruri",
+                "tip": "Scoici și bijuterii handmade."
+              }
+            ],
+            "en": [
+              {
+                "name": "Souvenir Stand",
+                "tip": "Shells and handmade jewelry."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Wege sind weitgehend eben und einfach.",
+              "Achten Sie auf Fußgänger auf der Promenade."
+            ],
+            "hu": [
+              "Az utak nagyjából síkok és könnyűek.",
+              "Figyeljen a gyalogosokra a sétányon."
+            ],
+            "ro": [
+              "Drumurile sunt în mare parte plate și ușoare.",
+              "Atenție la pietonii de pe promenadă."
+            ],
+            "en": [
+              "The paths are mostly flat and easy.",
+              "Watch out for pedestrians on the promenade."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Hafen von Klek und radeln Sie zum Nonković-Turm, während der Regen die Steine glänzen lässt.\r\n\r\nMittags bietet die Stećak-Galerie eine willkommene Pause im Trockenen, um die Räder kurz abzustellen.\r\n\r\nAm Nachmittag geht es zur St. Liberan Kapelle. Der Küstenweg ist bei Regen dramatisch, aber achten Sie auf Pfützen.\r\n\r\nBeenden Sie die Tour am Strand von Klek, wo die Brandung unter dem bewölkten Himmel lauter wirkt.",
+            "hu": "Induljon óvatosan a kikötőből, és tekerjen a Nonković-toronyhoz, miközben az eső fényesre festi a köveket.\r\n\r\nDélben a Stećak Galéria nyújt menedéket, ahol megpihenhet és szárazon töltheti az időt.\r\n\r\nDélután a Szent Liberan kápolna felé vegye az irányt. A tengerparti út esőben is látványos, de ügyeljen a tócsákra.\r\n\r\nA napot a Klek strandon zárja, ahol a hullámverés felerősödik a borús égbolt alatt.",
+            "ro": "Porniți cu atenție din port și pedalați spre Turnul Nonković, în timp ce ploaia face pietrele să strălucească.\r\n\r\nLa prânz, Galeria Stećak oferă o pauză binemeritată la uscat pentru a vă lăsa bicicletele pentru scurt timp.\r\n\r\nDupă-amiaza, îndreptați-vă spre Capela Sf. Liberan. Drumul de coastă este dramatic pe ploaie, dar fiți atenți la bălți.\r\n\r\nÎncheiați turul la plaja Klek, unde sunetul valurilor pare mai puternic sub cerul înnorat.",
+            "en": "Start carefully at the port and cycle to the Nonković Tower as the rain makes the stones glisten.\r\n\r\nAt noon, the Stećak Gallery provides a welcome dry break to park your bikes for a while.\r\n\r\nIn the afternoon, head towards St. Liberan Chapel. The coastal path is dramatic in the rain, but watch out for puddles.\r\n\r\nEnd the tour at Klek beach, where the surf sounds louder under the cloudy sky."
+          },
+          "stops": [
+            {
+              "name": "Port of Klek",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Kurven auf dem nassen Kai.",
+                "hu": "Kerülje az éles kanyarokat a vizes rakparton.",
+                "ro": "Evitați virajele bruște pe cheiul ud.",
+                "en": "Avoid sharp turns on the wet quay."
+              }
+            },
+            {
+              "name": "Nonković Tower",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Mauervorsprung ab.",
+                "hu": "Támassza le a biciklit a fal kiszögellése alá.",
+                "ro": "Parcați bicicleta sub proeminența zidului.",
+                "en": "Park your bike under the wall overhang."
+              }
+            },
+            {
+              "name": "Stećak Gallery",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Regenkleidung zu richten.",
+                "hu": "Használja ki a megállót az esővédő ruházat igazítására.",
+                "ro": "Folosiți oprirea pentru a vă ajusta echipamentul de ploaie.",
+                "en": "Use the stop to adjust your rain gear."
+              }
+            },
+            {
+              "name": "St. Liberan Chapel",
+              "tip_5lang": {
+                "de": "Der Weg hierher kann bei Regen schlammig sein.",
+                "hu": "Az idevezető út esőben sáros lehet.",
+                "ro": "Drumul până aici poate fi noroios pe ploaie.",
+                "en": "The path here can be muddy in the rain."
+              }
+            },
+            {
+              "name": "Klek Main Beach",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf der rutschigen Uferpromenade.",
+                "hu": "Hajtson lassan a csúszós parti sétányon.",
+                "ro": "Mergeți încet pe faleza alunecoasă.",
+                "en": "Ride slowly on the slippery waterfront promenade."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht vor rutschigen Markierungen auf dem Asphalt.",
+              "Verwenden Sie Schutzbleche, um Schmutzspritzer zu vermeiden.",
+              "Bringen Sie ein trockenes Tuch für den Sattel mit.",
+              "Vorder- und Rücklicht sind bei schlechter Sicht Pflicht."
+            ],
+            "hu": [
+              "Vigyázzon a csúszós útburkolati jelekre.",
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "Vigyen magával száraz rongyot a nyereg letörléséhez.",
+              "A lámpa használata kötelező rossz látási viszonyok között."
+            ],
+            "ro": [
+              "Atenție la marcajele rutiere alunecoase pe asfalt.",
+              "Folosiți aripi pentru a evita stropirea cu noroi.",
+              "Aduceți o cârpă uscată pentru șa.",
+              "Luminile față și spate sunt obligatorii în condiții de vizibilitate redusă."
+            ],
+            "en": [
+              "Beware of slippery road markings on the asphalt.",
+              "Use mudguards to avoid splashes.",
+              "Bring a dry cloth for the saddle.",
+              "Front and rear lights are mandatory in low visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie den Hafen von Klek am frühen Morgen, wenn der Frost die Boote überzieht. Radeln Sie weiter zum Nonković-Turm.\r\n\r\nMittags bietet die Stećak-Galerie eine Pause vom kühlen Fahrtwind, während Sie die Geschichte Dalmatiens entdecken.\r\n\r\nAm Nachmittag führt die Fahrt zur St. Liberan Kapelle. Die klare Winterluft ermöglicht weite Sicht auf die Adria.\r\n\r\nLassen Sie den Tag am Strand von Klek ausklingen, bevor es zu kalt wird. Die Stille des Winters ist hier am intensivsten.",
+            "hu": "Fedezze fel a kikötőt kora reggel, amikor a dér belepi a csónakokat. Tekerjen tovább a Nonković-toronyhoz.\r\n\r\nDélben a Stećak Galéria pihenőt nyújt a menetszél elől, miközben Dalmácia történelmét kutatja.\r\n\r\nDélután az út a Szent Liberan kápolnához vezet. A tiszta téli levegő messzi kilátást enged az Adriára.\r\n\r\nA napot a Klek strandon zárja, mielőtt túl hideg lenne. A tél csendje itt a legérezhetőbb.",
+            "ro": "Explorați portul dis-de-dimineață, când bruma acoperă bărcile. Pedalați mai departe spre Turnul Nonković.\r\n\r\nLa prânz, Galeria Stećak oferă o pauză de la vântul rece în timp ce descoperiți istoria Dalmației.\r\n\r\nDupă-amiaza, drumul duce spre Capela Sf. Liberan. Aerul curat de iarnă oferă o vizibilitate excelentă asupra Adriaticii.\r\n\r\nÎncheiați ziua la plaja Klek înainte de a se face prea frig. Liniștea iernii este cea mai intensă aici.",
+            "en": "Explore the port early in the morning when frost covers the boats. Cycle on to the Nonković Tower.\r\n\r\nAt noon, the Stećak Gallery offers a break from the cool wind while you discover Dalmatia's history.\r\n\r\nIn the afternoon, the ride leads to St. Liberan Chapel. The clear winter air allows for distant views over the Adriatic.\r\n\r\nEnd the day at Klek beach before it gets too cold. The silence of winter is most intense here."
+          },
+          "stops": [
+            {
+              "name": "Port of Klek",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glätte auf den Steinflächen am Morgen.",
+                "hu": "Vigyázzon a reggeli jegesedésre a köveken.",
+                "ro": "Atenție la polei pe suprafețele de piatră dimineața.",
+                "en": "Beware of morning frost on the stone surfaces."
+              }
+            },
+            {
+              "name": "Nonković Tower",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Fahrt zwischen den Stationen ratsam.",
+                "hu": "A megállók közötti tekeréshez ajánlott a kesztyű.",
+                "ro": "Mănușile sunt recomandate pentru deplasarea între stații.",
+                "en": "Gloves are advisable for the ride between stops."
+              }
+            },
+            {
+              "name": "Stećak Gallery",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Hände aufzuwärmen.",
+                "hu": "Jó hely a kezek felmelegítésére.",
+                "ro": "Un loc bun pentru a vă încălzi mâinile.",
+                "en": "A good place to warm up your hands."
+              }
+            },
+            {
+              "name": "St. Liberan Chapel",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick ohne das sommerliche Flimmern.",
+                "hu": "Élvezze a távoli kilátást a nyári hőség okozta remegés nélkül.",
+                "ro": "Bucurați-vă de vederea panoramică fără tremurul aerului de vară.",
+                "en": "Enjoy the distant view without the summer haze."
+              }
+            },
+            {
+              "name": "Klek Main Beach",
+              "tip_5lang": {
+                "de": "Der Wind kann hier im Winter sehr schneidend sein.",
+                "hu": "A szél itt télen nagyon metsző lehet.",
+                "ro": "Vântul poate fi foarte tăios aici în timpul iernii.",
+                "en": "The wind can be very biting here in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, um den Windchill zu minimieren.",
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte sinken kann.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee mit.",
+              "Planen Sie die Tour so, dass Sie vor Dunkelheit zurück sind."
+            ],
+            "hu": [
+              "Viseljen szélálló ruhát a menetszél hűtő hatása ellen.",
+              "Ellenőrizze a guminyomást, mert hidegben csökkenhet.",
+              "Vigyen magával termoszban meleg teát.",
+              "Úgy tervezze a túrát, hogy sötétedés előtt visszaérjen."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt pentru a minimiza senzația de frig.",
+              "Verificați presiunea anvelopelor, deoarece poate scădea la frig.",
+              "Luați un termos cu ceai cald.",
+              "Planificați turul astfel încât să vă întoarceți înainte de întuneric."
+            ],
+            "en": [
+              "Wear windproof clothing to minimize wind chill.",
+              "Check tire pressure, as it can drop in the cold.",
+              "Take a thermos with warm tea.",
+              "Plan the tour to return before dark."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -745,6 +1465,382 @@
           "The road to Smrdan grad is steep and narrow.",
           "Use the shade under the tamarisk trees at the beach."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie die beeindruckenden Ruinen von Smrdan grad hoch über Klek, von wo aus Sie ein unvergleichliches Panorama genießen. Zuvor besichtigen Sie das historische Zentrum mit dem Nonković-Turm.\nDen Nachmittag verbringen Sie entspannt am Hauptstrand oder besuchen die Galerie Stećak. Der Tag endet ruhig an der St. Liberan Kapelle, die mit dem Wagen gut erreichbar ist.",
+            "hu": "Autóval elérjük Smrdan grad lenyűgöző romjait magasan Klek felett, ahonnan páratlan panoráma nyílik. Előtte megtekintjük a történelmi központot a Nonković-toronnyal.\nA délutánt pihenéssel töltjük a főstrandon, vagy meglátogatjuk a Stećak Galériát. A nap nyugodtan zárul a Szent Liberan kápolnánál, amely kocsival jól megközelíthető.",
+            "ro": "Cu mașina ajungeți la ruinele impresionante ale Smrdan grad deasupra Klek, de unde vă bucurați de o panoramă inegalabilă. Înainte, vizitați centrul istoric cu Turnul Nonković.\nDupă-amiaza o petreceți relaxat pe plaja principală sau vizitând Galeria Stećak. Ziua se încheie liniștit la capela Sf. Liberan, ușor accesibilă cu mașina.",
+            "en": "By car, reach the impressive ruins of Smrdan grad high above Klek, from where you can enjoy an incomparable panorama. Before that, visit the historic center with the Nonković Tower.\nSpend the afternoon relaxing at the main beach or visiting the Stećak Gallery. The day ends quietly at the St. Liberan chapel, which is easily accessible by car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nonković-Turm",
+                "hu": "Nonković-torony",
+                "ro": "Turnul Nonković",
+                "en": "Nonković Tower"
+              },
+              "tip_5lang": {
+                "de": "Parken am Dorfeingang empfohlen.",
+                "hu": "Parkolás a falu bejáratánál ajánlott.",
+                "ro": "Parcare recomandată la intrarea în sat.",
+                "en": "Parking recommended at the village entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Smrdan grad",
+                "hu": "Smrdan grad erőd",
+                "ro": "Cetatea Smrdan grad",
+                "en": "Smrdan grad Fortress"
+              },
+              "tip_5lang": {
+                "de": "Ruinen einer alten Stadt oberhalb von Klek.",
+                "hu": "Egy régi város romjai Klek felett.",
+                "ro": "Ruinele unui oraș vechi deasupra Klek.",
+                "en": "Ruins of an old town above Klek."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Smrdan grad",
+                "hu": "Smrdan grad kilátópont",
+                "ro": "Punct panoramic Smrdan grad",
+                "en": "Smrdan grad Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Spektakulärer Blick auf die Halbinsel Pelješac.",
+                "hu": "Látványos kilátás a Pelješac-félszigetre.",
+                "ro": "Vedere spectaculoasă spre peninsula Pelješac.",
+                "en": "Spectacular view of the Pelješac peninsula."
+              }
+            },
+            {
+              "name": {
+                "de": "Hauptstrand Klek",
+                "hu": "Klek főstrand",
+                "ro": "Plaja principală Klek",
+                "en": "Klek Main Beach"
+              },
+              "tip_5lang": {
+                "de": "Einfaches Parken am großen Platz.",
+                "hu": "Könnyű parkolás a nagy téren.",
+                "ro": "Parcare ușoară în piața mare.",
+                "en": "Easy parking at the large square."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerie Stećak",
+                "hu": "Stećak Galéria",
+                "ro": "Galeria Stećak",
+                "en": "Stećak Gallery"
+              },
+              "tip_5lang": {
+                "de": "Ein kultureller Zwischenstopp.",
+                "hu": "Egy kulturális pihenő.",
+                "ro": "O oprire culturală.",
+                "en": "A cultural stopover."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle St. Liberan",
+                "hu": "Szent Liberan kápolna",
+                "ro": "Capela Sf. Liberan",
+                "en": "St. Liberan Chapel"
+              },
+              "tip_5lang": {
+                "de": "Abschluss des Tages am Wasser.",
+                "hu": "A nap zárása a víznél.",
+                "ro": "Încheierea zilei lângă apă.",
+                "en": "Ending the day by the water."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Adriana",
+                "tip": "Traditionelles Fleischgericht 'Peka'."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba Adriana",
+                "tip": "Hagyományos 'Peka' húsétel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Adriana",
+                "tip": "Preparat tradițional de carne 'Peka'."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Adriana",
+                "tip": "Traditional 'Peka' meat dish."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Aussichtspunkt Smrdan grad",
+                "tip": "Bester Platz für Fotos.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Smrdan grad kilátópont",
+                "tip": "A legjobb hely fotózáshoz.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Belvedere Smrdan grad",
+                "tip": "Cel mai bun loc pentru fotografii.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Smrdan grad Viewpoint",
+                "tip": "Best spot for photos.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokalprodukt-Shop",
+                "tip": "Hausgemachter Schnaps (Rakija)."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi termék bolt",
+                "tip": "Házi pálinka (Rakija)."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de produse locale",
+                "tip": "Rachiu de casă (Rakija)."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Product Shop",
+                "tip": "Homemade brandy (Rakija)."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straße nach Smrdan grad ist steil und schmal.",
+              "Nutzen Sie den Schatten unter den Tamarisken am Strand."
+            ],
+            "hu": [
+              "A Smrdan gradhoz vezető út meredek és keskeny.",
+              "Használja a tamariszkuszfák árnyékát a strandon."
+            ],
+            "ro": [
+              "Drumul spre Smrdan grad este abrupt și îngust.",
+              "Folosiți umbra tamaricilor de pe plajă."
+            ],
+            "en": [
+              "The road to Smrdan grad is steep and narrow.",
+              "Use the shade under the tamarisk trees at the beach."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie zum Nonković-Turm und genießen Sie den Komfort Ihres Autos während der Regenschauer. Weiter geht es zur Festung Smrdan grad.\r\n\r\nMittags bietet der Aussichtspunkt Smrdan grad einen dramatischen Blick auf das graue Meer, bevor Sie zum Strand von Klek hinunterfahren.\r\n\r\nAm Nachmittag ist die Stećak-Galerie ein perfekter Rückzugsort im Trockenen. Parken Sie in der Nähe der St. Liberan Kapelle.\r\n\r\nBeenden Sie die Fahrt gemütlich, während der Regen gegen die Scheiben prasselt.",
+            "hu": "Hajtson a Nonković-toronyhoz, élvezve az autó kényelmét a záporok idején. Folytassa az utat a Smrdan grad erőd felé.\r\n\r\nDélben a Smrdan grad kilátópont drámai képet fest a szürke tengerről, mielőtt leereszkedne a Klek strandra.\r\n\r\nDélután a Stećak Galéria tökéletes fedett úti cél. Parkoljon le a Szent Liberan kápolna közelében.\r\n\r\nZárja a napot kényelmesen, miközben az eső kopog a szélvédőn.",
+            "ro": "Conduceți spre Turnul Nonković, bucurându-vă de confortul mașinii în timpul averselor. Continuați spre Cetatea Smrdan grad.\r\n\r\nLa prânz, punctul de belvedere Smrdan grad oferă o vedere dramatică asupra mării cenușii, înainte de a coborî spre plaja Klek.\r\n\r\nDupă-amiaza, Galeria Stećak este refugiul perfect la uscat. Parcați în apropierea Capelei Sf. Liberan.\r\n\r\nÎncheiați călătoria relaxat, în timp ce ploaia bate în parbriz.",
+            "en": "Drive to Nonković Tower, enjoying the comfort of your car during the showers. Continue to the Smrdan grad Fortress.\r\n\r\nAt noon, the Smrdan grad viewpoint offers a dramatic view of the grey sea before heading down to Klek beach.\r\n\r\nIn the afternoon, the Stećak Gallery is a perfect dry retreat. Park near the St. Liberan Chapel.\r\n\r\nEnd the drive comfortably while the rain drums against the windows."
+          },
+          "stops": [
+            {
+              "name": "Nonković Tower",
+              "tip_5lang": {
+                "de": "Parkplätze sind direkt in der Nähe vorhanden.",
+                "hu": "Parkolóhelyek közvetlenül a közelben találhatók.",
+                "ro": "Locuri de parcare sunt disponibile în imediata apropiere.",
+                "en": "Parking spaces are available directly nearby."
+              }
+            },
+            {
+              "name": "Smrdan grad Fortress",
+              "tip_5lang": {
+                "de": "Der Aufstieg kann bei Regen rutschig sein; fahren Sie vorsichtig.",
+                "hu": "A felvezető út esőben csúszós lehet; vezessen óvatosan.",
+                "ro": "Urcarea poate fi alunecoasă pe ploaie; conduceți cu atenție.",
+                "en": "The ascent can be slippery in the rain; drive carefully."
+              }
+            },
+            {
+              "name": "Smrdan grad Viewpoint",
+              "tip_5lang": {
+                "de": "Bleiben Sie für den Ausblick einfach im Auto sitzen.",
+                "hu": "A kilátásért maradjon nyugodtan az autóban.",
+                "ro": "Rămâneți în mașină pentru a admira priveliștea.",
+                "en": "Stay in the car to enjoy the view."
+              }
+            },
+            {
+              "name": "Klek Main Beach",
+              "tip_5lang": {
+                "de": "Parken Sie nah an der Promenade, um den Laufweg zu verkürzen.",
+                "hu": "Parkoljon közel a sétányhoz, hogy lerövidítse a gyalogutat.",
+                "ro": "Parcați aproape de faleză pentru a sccurta drumul pe jos.",
+                "en": "Park close to the promenade to shorten the walk."
+              }
+            },
+            {
+              "name": "Stećak Gallery",
+              "tip_5lang": {
+                "de": "Guter Stopp, um die Scheibenwischer kurz zu entlasten.",
+                "hu": "Jó megálló, hogy rövid időre pihentesse az ablaktörlőket.",
+                "ro": "Oprire bună pentru a lăsa ștergătoarele să se odihnească puțin.",
+                "en": "Good stop to give the wipers a short break."
+              }
+            },
+            {
+              "name": "St. Liberan Chapel",
+              "tip_5lang": {
+                "de": "Die Zufahrt ist schmal; bei Nässe doppelt aufpassen.",
+                "hu": "Az út ide keskeny; nedves időben dupla figyelmet igényel.",
+                "ro": "Drumul de acces este îngust; atenție sporită pe carosabil umed.",
+                "en": "The access road is narrow; pay double attention when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie unbefestigte Seitenstreifen bei starkem Regen.",
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer.",
+              "Achten Sie auf Steinschlagrisiko an den Hängen bei Unwettern.",
+              "Halten Sie die Fenster leicht geöffnet gegen Beschlagen."
+            ],
+            "hu": [
+              "Heves esőben kerülje a burkolatlan útpadkát.",
+              "Ellenőrizze az ablaktörlők állapotát.",
+              "Viharos időben figyeljen a kőomlás veszélyére a hegyoldalaknál.",
+              "Tartsa résnyire nyitva az ablakot a párásodás ellen."
+            ],
+            "ro": [
+              "Evitați marginile neasfaltate ale drumului pe ploaie torențială.",
+              "Verificați starea ștergătoarelor.",
+              "Atenție la riscul de căderi de pietre pe versanți în timpul furtunilor.",
+              "Țineți ferestrele ușor deschise pentru a preveni aburirea."
+            ],
+            "en": [
+              "Avoid unpaved road shoulders during heavy rain.",
+              "Check the condition of your windshield wipers.",
+              "Watch for rockfall risks on slopes during storms.",
+              "Keep windows slightly open to prevent fogging."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Nonković-Turm und genießen Sie die klare Sicht von der Festung Smrdan grad.\r\n\r\nMittags bietet der Aussichtspunkt Smrdan grad ein beeindruckendes Panorama der winterlichen Küste.\r\n\r\nAm Nachmittag besuchen Sie die Stećak-Galerie, bevor Sie zur St. Liberan Kapelle weiterfahren, während das Licht weicher wird.\r\n\r\nBeenden Sie Ihre Tour am Strand von Klek. Die Heizung im Auto sorgt nach den kurzen Spaziergängen für wohlige Wärme.",
+            "hu": "Kezdje a napot a Nonković-toronynál, majd élvezze a tiszta kilátást a Smrdan grad erődtől.\r\n\r\nDélben a Smrdan grad kilátópont lenyűgöző panorámát nyújt a téli tengerpartra.\r\n\r\nDélután látogassa meg a Stećak Galériát, majd hajtson tovább a Szent Liberan kápolnához a lágyuló fényekben.\r\n\r\nZárja a túrát a Klek strandon. Az autó fűtése jól esik majd a rövid séták után.",
+            "ro": "Începeți la Turnul Nonković și bucurați-vă de vizibilitatea clară de la Cetatea Smrdan grad.\r\n\r\nLa prânz, punctul de belvedere Smrdan grad oferă o panoramă impresionantă a coastei pe timp de iarnă.\r\n\r\nDupă-amiaza, vizitați Galeria Stećak înainte de a merge la Capela Sf. Liberan, în timp ce lumina devine mai blândă.\r\n\r\nÎncheiați turul la plaja Klek. Încălzirea din mașină vă va oferi confort după scurte plimbări.",
+            "en": "Start at the Nonković Tower and enjoy the clear view from Smrdan grad Fortress.\r\n\r\nAt noon, the Smrdan grad viewpoint offers an impressive panorama of the winter coast.\r\n\r\nIn the afternoon, visit the Stećak Gallery before driving to St. Liberan Chapel as the light softens.\r\n\r\nEnd your tour at Klek beach. The car heater will provide cozy warmth after your short walks."
+          },
+          "stops": [
+            {
+              "name": "Nonković Tower",
+              "tip_5lang": {
+                "de": "Parken ist im Winter stressfrei möglich.",
+                "hu": "A parkolás télen teljesen stresszmentes.",
+                "ro": "Parcarea este posibilă fără stres în timpul iernii.",
+                "en": "Parking is stress-free in winter."
+              }
+            },
+            {
+              "name": "Smrdan grad Fortress",
+              "tip_5lang": {
+                "de": "Die Auffahrt bietet im Winter oft eine bessere Fernsicht.",
+                "hu": "A felvezető útról télen gyakran jobb a távoli kilátás.",
+                "ro": "Drumul de urcare oferă adesea o vizibilitate mai bună iarna.",
+                "en": "The ascent often offers better distant views in winter."
+              }
+            },
+            {
+              "name": "Smrdan grad Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht vor starkem Wind beim Öffnen der Autotüren.",
+                "hu": "Vigyázzon az erős szélre az ajtónyitáskor.",
+                "ro": "Atenție la vântul puternic când deschideți ușile mașinii.",
+                "en": "Watch out for strong winds when opening car doors."
+              }
+            },
+            {
+              "name": "Klek Main Beach",
+              "tip_5lang": {
+                "de": "Nutzen Sie den leeren Parkplatz direkt am Meer.",
+                "hu": "Használja az üres parkolót közvetlenül a tengerparton.",
+                "ro": "Folosiți parcarea goală direct lângă mare.",
+                "en": "Use the empty parking lot directly by the sea."
+              }
+            },
+            {
+              "name": "Stećak Gallery",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um kurz aus der Kälte zu kommen.",
+                "hu": "Remek hely, hogy rövid időre kijöjjön a hidegről.",
+                "ro": "Un loc plăcut pentru a ieși puțin din frig.",
+                "en": "A nice place to get out of the cold for a bit."
+              }
+            },
+            {
+              "name": "St. Liberan Chapel",
+              "tip_5lang": {
+                "de": "Die schmale Straße ist im Winter wenig befahren.",
+                "hu": "A keskeny út télen alig forgalmas.",
+                "ro": "Drumul îngust este puțin circulat iarna.",
+                "en": "The narrow road is lightly trafficked in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutz für die Scheibenwischanlage nicht vergessen.",
+              "Prüfen Sie die Batterieleistung Ihres Fahrzeugs.",
+              "Nehmen Sie Decken für längere Aufenthalte an Aussichtspunkten mit.",
+              "Die Straßen können am frühen Morgen glatt sein."
+            ],
+            "hu": [
+              "Ne felejtse el a fagyállót a szélvédőmosóból.",
+              "Ellenőrizze az autó akkumulátorát.",
+              "Vigyen magával takarót a kilátópontoknál való időzéshez.",
+              "Az utak kora reggel csúszósak lehetnek."
+            ],
+            "ro": [
+              "Nu uitați lichidul de parbriz antigel.",
+              "Verificați capacitatea bateriei vehiculului.",
+              "Luați pături pentru staționările lungi la punctele de belvedere.",
+              "Drumurile pot fi alunecoase dis-de-dimineață."
+            ],
+            "en": [
+              "Don't forget antifreeze for the windshield washer.",
+              "Check your vehicle's battery performance.",
+              "Take blankets for longer stays at viewpoints.",
+              "Roads can be slippery in the early morning."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -976,6 +2072,350 @@
           "Signal the bus driver in time.",
           "The stop is right at the bend."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Klek liegt direkt an der Adria-Magistrale und ist mit Fernbussen gut vernetzt. Von der Haltestelle gelangen Sie schnell zum Nonković-Turm und in den charmanten Dorfkern.\nNach einem Besuch der Galerie Stećak genießen Sie ein lokales Mittagessen am Hafen. Der Nachmittag gehört dem Strand, bevor Sie wieder den Bus in Richtung Dubrovnik oder Split nehmen.",
+            "hu": "Klek közvetlenül az Adria-főút mentén fekszik, és távolsági buszokkal jól megközelíthető. A megállótól gyorsan elérjük a Nonković-tornyot és a bájos faluközpontot.\nA Stećak Galéria meglátogatása után élvezze a helyi ebédet a kikötőben. A délután a strandé, mielőtt ismét felszállna a Dubrovnik vagy Split felé tartó buszra.",
+            "ro": "Klek este situat direct pe Magistrala Adriatică și are conexiuni bune cu autocarul. De la stație ajungeți rapid la Turnul Nonković și în centrul fermecător al satului.\nDupă o vizită la Galeria Stećak, savurați un prânz local în port. După-amiaza aparține plajei, înainte de a lua din nou autobuzul spre Dubrovnik sau Split.",
+            "en": "Klek is located directly on the Adriatic Highway and is well-connected by long-distance buses. From the stop, you quickly reach the Nonković Tower and the charming village center.\nAfter a visit to the Stećak Gallery, enjoy a local lunch at the harbor. The afternoon belongs to the beach before you take the bus towards Dubrovnik or Split again."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bushaltestelle Klek (Magistrale)",
+                "hu": "Klek buszmegálló (Magisztrálé)",
+                "ro": "Stație de autobuz Klek (Magistrală)",
+                "en": "Klek Bus Stop (Magistral)"
+              },
+              "tip_5lang": {
+                "de": "Halt an der Hauptstraße D8.",
+                "hu": "Megálló a D8-as főúton.",
+                "ro": "Oprire pe drumul principal D8.",
+                "en": "Stop on the main road D8."
+              }
+            },
+            {
+              "name": {
+                "de": "Nonković-Turm",
+                "hu": "Nonković-torony",
+                "ro": "Turnul Nonković",
+                "en": "Nonković Tower"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Abstieg zum Meer.",
+                "hu": "Rövid lemenet a tengerhez.",
+                "ro": "Scurtă coborâre spre mare.",
+                "en": "Short descent to the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerie Stećak",
+                "hu": "Stećak Galéria",
+                "ro": "Galeria Stećak",
+                "en": "Stećak Gallery"
+              },
+              "tip_5lang": {
+                "de": "Ideal für die Mittagshitze.",
+                "hu": "Ideális a déli hőségben.",
+                "ro": "Ideal pentru canicula de la prânz.",
+                "en": "Ideal for the midday heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Klek",
+                "hu": "Klek kikötője",
+                "ro": "Portul Klek",
+                "en": "Port of Klek"
+              },
+              "tip_5lang": {
+                "de": "Mittagessen in Hafennähe.",
+                "hu": "Ebéd a kikötő közelében.",
+                "ro": "Prânz în apropierea portului.",
+                "en": "Lunch near the port."
+              }
+            },
+            {
+              "name": {
+                "de": "Hauptstrand Klek",
+                "hu": "Klek főstrand",
+                "ro": "Plaja principală Klek",
+                "en": "Klek Main Beach"
+              },
+              "tip_5lang": {
+                "de": "Entspannung bis zur Abfahrt.",
+                "hu": "Pihenés az indulásig.",
+                "ro": "Relaxare până la plecare.",
+                "en": "Relaxation until departure."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Fast Food Klek",
+                "tip": "Gute Burger und Snacks."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Klek Gyorsétterem",
+                "tip": "Jó hamburgerek és snackek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fast Food Klek",
+                "tip": "Burgeri buni și gustări."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fast Food Klek",
+                "tip": "Good burgers and snacks."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parkbank am Hafen",
+                "tip": "Schattenplatz zum Lesen.",
+                "emoji": "📖"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pad a kikötőben",
+                "tip": "Árnyékos hely olvasáshoz.",
+                "emoji": "📖"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bancă în port",
+                "tip": "Loc la umbră pentru citit.",
+                "emoji": "📖"
+              }
+            ],
+            "en": [
+              {
+                "name": "Park Bench at the Port",
+                "tip": "Shaded spot for reading.",
+                "emoji": "📖"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Kiosk Magistrale",
+                "tip": "Getränke und Snacks für die Weiterreise."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Magisztrálé újságárus",
+                "tip": "Italok és snackek a továbbutazáshoz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chioșc Magistrală",
+                "tip": "Băuturi și gustări pentru drum."
+              }
+            ],
+            "en": [
+              {
+                "name": "Magistral Kiosk",
+                "tip": "Drinks and snacks for the journey."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Geben Sie dem Busfahrer rechtzeitig Handzeichen.",
+              "Die Haltestelle ist direkt an der Kurve."
+            ],
+            "hu": [
+              "Időben intsen a buszsofőrnek.",
+              "A megálló közvetlenül a kanyarban van."
+            ],
+            "ro": [
+              "Faceți semn șoferului de autobuz din timp.",
+              "Stația este chiar în curbă."
+            ],
+            "en": [
+              "Signal the bus driver in time.",
+              "The stop is right at the bend."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Kommen Sie an der Bushaltestelle Klek an und nutzen Sie das Wartehäuschen als Schutz. Gehen Sie zum Nonković-Turm.\r\n\r\nMittags bietet die Stećak-Galerie eine Flucht vor dem Regen, während Sie auf den nächsten Bus oder Ihre Weiterreise warten.\r\n\r\nAm Nachmittag erkunden Sie den Hafen. Die Nähe der Haltestellen macht das Pendeln im Regen einfacher.\r\n\r\nBeenden Sie den Tag am Strand von Klek, bevor Sie den Bus für die Rückreise nehmen.",
+            "hu": "Érkezzen a kleki buszmegállóba, és használja a várót első menedékként. Sétáljon át a Nonković-toronyhoz.\r\n\r\nDélben a Stećak Galéria tökéletes menekülést kínál az eső elől, miközben a következő buszra vagy a folytatásra vár.\r\n\r\nDélután fedezze fel a kikötőt. A megállók közelsége megkönnyíti a közlekedést esőben is.\r\n\r\nZárja a napot a Klek strandon, mielőtt felszállna a visszaútra tartó buszra.",
+            "ro": "Sosiți în stația de autobuz Klek și folosiți adăpostul stației ca refugiu. Mergeți spre Turnul Nonković.\r\n\r\nLa prânz, Galeria Stećak oferă o evadare din calea ploii în timp ce așteptați următorul autobuz.\r\n\r\nDupă-amiaza, explorați portul. Proximitatea stațiilor face deplasarea pe ploaie mai ușoară.\r\n\r\nÎncheiați ziua la plaja Klek înainte de a lua autobuzul pentru întoarcere.",
+            "en": "Arrive at the Klek bus stop and use the shelter as your first refuge. Walk to the Nonković Tower.\r\n\r\nAt noon, the Stećak Gallery offers a perfect escape from the rain while you wait for your next connection.\r\n\r\nIn the afternoon, explore the port. The proximity of the stops makes commuting in the rain easier.\r\n\r\nEnd the day at Klek beach before taking the bus back."
+          },
+          "stops": [
+            {
+              "name": "Klek Bus Stop (Magistral)",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen bietet soliden Schutz vor Wind und Regen.",
+                "hu": "A buszváró megbízható védelmet nyújt a szél és eső ellen.",
+                "ro": "Adăpostul stației oferă o protecție solidă împotriva vântului și ploii.",
+                "en": "The bus shelter offers solid protection from wind and rain."
+              }
+            },
+            {
+              "name": "Nonković Tower",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der Hauptstraße entfernt.",
+                "hu": "Csak egy rövid séta a főúttól.",
+                "ro": "La doar o scurtă plimbare de drumul principal.",
+                "en": "Just a short walk from the main road."
+              }
+            },
+            {
+              "name": "Stećak Gallery",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Wartezeit trocken zu verbringen.",
+                "hu": "Ideális hely a várakozási idő szárazon való eltöltésére.",
+                "ro": "Loc ideal pentru a petrece timpul de așteptare la uscat.",
+                "en": "Ideal place to spend the waiting time in the dry."
+              }
+            },
+            {
+              "name": "Port of Klek",
+              "tip_5lang": {
+                "de": "Nahegelegene Cafés informieren oft über Busverspätungen.",
+                "hu": "A közeli kávézókban gyakran tudnak a buszok késéséről.",
+                "ro": "Cafenelele din apropiere au adesea informații despre întârzieri.",
+                "en": "Nearby cafes often have info about bus delays."
+              }
+            },
+            {
+              "name": "Klek Main Beach",
+              "tip_5lang": {
+                "de": "Halten Sie den Fahrplan im Auge, um nicht im Regen zu warten.",
+                "hu": "Figyelje a menetrendet, hogy ne kelljen az esőben várakoznia.",
+                "ro": "Urmăriți orarul pentru a nu aștepta în ploaie.",
+                "en": "Keep an eye on the schedule app to avoid waiting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Arriva' oder 'Promet' App für Echtzeitdaten.",
+              "Haben Sie passendes Kleingeld für den Busfahrer bereit.",
+              "Fahrpläne können bei Unwetter leicht abweichen.",
+              "Wartehäuschen an der Magistrale sind oft zugig."
+            ],
+            "hu": [
+              "Használja az 'Arriva' vagy 'Promet' alkalmazást a valós idejű adatokhoz.",
+              "Készítsen ki aprópénzt a buszsofőrnek.",
+              "Viharos időben a menetrend kismértékben változhat.",
+              "A főút menti megállók huzatosak lehetnek."
+            ],
+            "ro": [
+              "Utilizați aplicația 'Arriva' sau 'Promet' pentru date în timp real.",
+              "Aveți mărunțiș pregătit pentru șoferul de autobuz.",
+              "Orarele pot varia ușor în caz de vreme nefavorabilă.",
+              "Adăposturile de pe magistrală pot avea curent."
+            ],
+            "en": [
+              "Use the 'Arriva' or 'Promet' app for real-time data.",
+              "Have exact change ready for the bus driver.",
+              "Schedules may vary slightly during storms.",
+              "Shelters on the main road can be drafty."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erreichen Sie Klek mit dem Bus und atmen Sie die frische Winterluft an der Haltestelle Magistral. Besuchen Sie den Nonković-Turm.\r\n\r\nMittags bietet die Stećak-Galerie eine kulturelle Pause in einer ruhigen Umgebung ohne Touristen.\r\n\r\nAm Nachmittag schlendern Sie zum Hafen. Der Winterfahrplan bietet weniger Frequenzen, planen Sie dies ein.\r\n\r\nBeenden Sie den Tag am Strand von Klek und genießen Sie die friedliche Atmosphäre, bevor der Abendbus eintrifft.",
+            "hu": "Érkezzen Klekbe busszal, és szippantson a friss téli levegőbe a főúti megállónál. Látogasson el a Nonković-toronyhoz.\r\n\r\nDélben a Stećak Galéria kulturális kikapcsolódást nyújt a csendes, turistáktól mentes környezetben.\r\n\r\nDélután sétáljon le a kikötőbe. A téli menetrend ritkább járatokat jelent, kalkuláljon ezzel.\r\n\r\nZárja a napot a Klek strandon, és élvezze a békés hangulatot az esti busz érkezéséig.",
+            "ro": "Ajungeți în Klek cu autobuzul și respirați aerul proaspăt de iarnă în stația de pe magistrală. Vizitați Turnul Nonković.\r\n\r\nLa prânz, Galeria Stećak oferă o pauză culturală într-un mediu liniștit, fără turiști.\r\n\r\nDupă-amiaza, plimbați-vă spre port. Mersul autobuzelor de iarnă are frecvențe reduse, planificați din timp.\r\n\r\nÎncheiați ziua la plaja Klek și bucurați-vă de atmosfera pașnică până la sosirea autobuzului de seară.",
+            "en": "Reach Klek by bus and breathe in the fresh winter air at the Magistral stop. Visit the Nonković Tower.\r\n\r\nAt noon, the Stećak Gallery offers a cultural break in a quiet, tourist-free environment.\r\n\r\nIn the afternoon, stroll to the port. The winter schedule has fewer frequencies, so plan accordingly.\r\n\r\nEnd the day at Klek beach and enjoy the peaceful atmosphere until the evening bus arrives."
+          },
+          "stops": [
+            {
+              "name": "Klek Bus Stop (Magistral)",
+              "tip_5lang": {
+                "de": "Tragen Sie eine Mütze, da es an der Straße windig sein kann.",
+                "hu": "Viseljen sapkát, mert az út mentén szeles lehet az idő.",
+                "ro": "Purtați o căciulă, deoarece poate fi vânt de-a lungul drumului.",
+                "en": "Wear a hat as it can be windy along the road."
+              }
+            },
+            {
+              "name": "Nonković Tower",
+              "tip_5lang": {
+                "de": "Im Winter ist der Turm oft nur von außen zu besichtigen.",
+                "hu": "Télen a torony gyakran csak kívülről tekinthető meg.",
+                "ro": "Iarna, turnul poate fi adesea vizitat doar din exterior.",
+                "en": "In winter, the tower can often only be viewed from the outside."
+              }
+            },
+            {
+              "name": "Stećak Gallery",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um kurz der Kälte zu entfliehen.",
+                "hu": "Jó hely, hogy rövid időre elmeneküljön a hideg elől.",
+                "ro": "Un loc bun pentru a scăpa scurt de frig.",
+                "en": "A good place to briefly escape the cold."
+              }
+            },
+            {
+              "name": "Port of Klek",
+              "tip_5lang": {
+                "de": "Die Cafés haben im Winter oft eingeschränkt geöffnet.",
+                "hu": "A kávézók télen gyakran csak korlátozottan vannak nyitva.",
+                "ro": "Cafenelele au adesea program limitat în timpul iernii.",
+                "en": "Cafes often have limited opening hours in winter."
+              }
+            },
+            {
+              "name": "Klek Main Beach",
+              "tip_5lang": {
+                "de": "Ideal, um die Ruhe der Adria im Winter zu spüren.",
+                "hu": "Ideális az Adria téli nyugalmának átéléséhez.",
+                "ro": "Ideal pentru a simți liniștea Adriaticii iarna.",
+                "en": "Ideal to feel the peace of the Adriatic in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie den Winterfahrplan vorab online.",
+              "Busse sind im Winter oft pünktlicher als im Sommerstau.",
+              "Tragen Sie reflektierende Kleidung für die Wartezeit im Dunkeln.",
+              "Kaufen Sie Tickets nach Möglichkeit vorab online."
+            ],
+            "hu": [
+              "Ellenőrizze előre a téli menetrendet online.",
+              "Télen a buszok pontosabbak lehetnek a nyári dugók hiánya miatt.",
+              "Viseljen fényvisszaverő elemeket a sötétben való várakozáshoz.",
+              "Lehetőség szerint vegye meg a jegyet előre online."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă în prealabil online.",
+              "Autobuzele pot fi mai punctuale iarna fără ambuteiaje.",
+              "Purtați haine reflectorizante pentru așteptarea în întuneric.",
+              "Cumpărați biletele online în prealabil, dacă este posibil."
+            ],
+            "en": [
+              "Check the winter schedule online in advance.",
+              "Buses can be more punctual in winter without summer traffic.",
+              "Wear reflective gear for waiting in the dark.",
+              "Buy tickets online in advance if possible."
+            ]
+          }
+        }
       }
     }
   },

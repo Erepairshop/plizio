@@ -230,6 +230,352 @@
           "Wear comfortable shoes for the cobblestone streets.",
           "Use the seaside promenade to move between the castles."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in Kaštel Novi, wo die Geschichte in den engen Gassen lebendig wird. Bestaunen Sie den wehrhaften Turm Rotondo und den imposanten alten Olivenbaum, der seit der Römerzeit steht.\n\nMittags erreichen Sie das prächtige Schloss Vitturi in Kaštel Lukšić. Tauchen Sie in die tragische Liebesgeschichte von Miljenko und Dobrila ein, während Sie die Museumsräume erkunden.\n\nAm Nachmittag bietet die Kirche des Heiligen Johannes einen Moment der Stille. Der Weg entlang der Küste verbindet die historischen Perlen mit sanftem Meeresrauschen.\n\nLassen Sie den Tag am Strand Gabine ausklingen. Genießen Sie die warme dalmatinische Brise und den Blick auf die Bucht von Kaštela bei einem Glas lokalem Crljenak.",
+            "hu": "Kezdje a napot Kaštel Noviban, ahol a történelem megelevenedik a szűk utcákon. Csodálja meg a Rotondo-torony erődítményét és az impozáns öreg olajfát, amely a római kor óta rendületlenül áll.\n\nDélben érkezzen meg a pazar Vitturi-kastélyhoz Kaštel Lukšićban. Merüljön el Miljenko és Dobrila tragikus szerelmi történetében, miközben bejárja a múzeum termeit.\n\nDélután a Szent János-templom nyújt egy pillanatnyi csendet. A tengerparti sétány lágy hullámzással kísérve köti össze a történelmi gyöngyszemeket.\n\nZárja a napot a Gabine strandon. Élvezze a meleg dalmát szellőt és a Kaštelai-öbölre nyíló kilátást egy pohár helyi Crljenak bor társaságában.",
+            "ro": "Începeți ziua în Kaštel Novi, unde istoria prinde viață pe străzile înguste. Admirați fortificația Turnului Rotondo și impunătorul măslin vechi, care stă neclintit încă din epoca romană.\n\nLa prânz, ajungeți la somptuosul Castel Vitturi din Kaštel Lukšić. Scufundați-vă în povestea tragică de dragoste a lui Miljenko și Dobrila în timp ce explorați sălile muzeului.\n\nDupă-amiaza, Biserica Sfântul Ioan oferă un moment de liniște. Promenada de pe malul mării leagă perlele istorice, însoțită de susurul blând al valurilor.\n\nÎncheiați ziua pe plaja Gabine. Bucurați-vă de briza caldă dalmată și de vederea spre golful Kaštela cu un pahar de vin local Crljenak.",
+            "en": "Start your day in Kaštel Novi, where history comes alive in the narrow streets. Admire the fortification of the Rotondo Tower and the imposing old olive tree, which has stood since Roman times.\n\nAt noon, reach the magnificent Vitturi Castle in Kaštel Lukšić. Immerse yourself in the tragic love story of Miljenko and Dobrila while exploring the museum rooms.\n\nIn the afternoon, the Church of Saint John offers a moment of silence. The seaside promenade connects the historical gems accompanied by the gentle sound of the waves.\n\nEnd the day at Gabine beach. Enjoy the warm Dalmatian breeze and the view of the Kaštela Bay with a glass of local Crljenak wine."
+          },
+          "stops": [
+            {
+              "name": "Altstadt Kaštel Novi",
+              "tip_5lang": {
+                "de": "Frühmorgens ist der Markt am lebhaftesten.",
+                "hu": "Kora reggel a legpezsgőbb itt a piaci élet.",
+                "ro": "Piața este cea mai plină de viață dimineața devreme.",
+                "en": "The market is most lively early in the morning."
+              }
+            },
+            {
+              "name": "Turm Rotondo",
+              "tip_5lang": {
+                "de": "Bewundern Sie das Wappen der Familie Rossi.",
+                "hu": "Csodálja meg a Rossi család címerét a falon.",
+                "ro": "Admirați blazonul familiei Rossi pe zid.",
+                "en": "Admire the coat of arms of the Rossi family."
+              }
+            },
+            {
+              "name": "Der alte Olivenbaum",
+              "tip_5lang": {
+                "de": "Über 1500 Jahre alter Naturdenkmal.",
+                "hu": "Több mint 1500 éves természeti emlék.",
+                "ro": "Monument natural de peste 1500 de ani.",
+                "en": "A natural monument over 1500 years old."
+              }
+            },
+            {
+              "name": "Burg Vitturi",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Stadtmuseum im Inneren.",
+                "hu": "Látogassa meg a bent működő városi múzeumot.",
+                "ro": "Vizitați muzeul orașului aflat în interior.",
+                "en": "Visit the city museum located inside."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Johannes",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für innere Einkehr.",
+                "hu": "Csendes hely az elmélyüléshez.",
+                "ro": "Un loc liniștit pentru meditație.",
+                "en": "A quiet place for reflection."
+              }
+            },
+            {
+              "name": "Strand Gabine",
+              "tip_5lang": {
+                "de": "Perfekt für einen Drink zum Sonnenuntergang.",
+                "hu": "Tökéletes hely egy italra naplementekor.",
+                "ro": "Perfect pentru o băutură la apus.",
+                "en": "Perfect for a drink at sunset."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Intrada",
+                "tip": "Frischer Fisch und lokaler Wein Crljenak Kaštelanski."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba Intrada",
+                "tip": "Friss halak és a híres helyi Crljenak bor."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Intrada",
+                "tip": "Pește proaspăt și celebrul vin local Crljenak."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Intrada",
+                "tip": "Fresh fish and the famous local Crljenak wine."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Biblischer Garten",
+                "tip": "Ein Ort der Ruhe mit mediterranen Pflanzen.",
+                "emoji": "🌿"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bibliai kert",
+                "tip": "A nyugalom szigete mediterrán növényekkel.",
+                "emoji": "🌿"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina Biblică",
+                "tip": "O oază de liniște cu plante mediteraneene.",
+                "emoji": "🌿"
+              }
+            ],
+            "en": [
+              {
+                "name": "Biblical Garden",
+                "tip": "An oasis of peace with Mediterranean plants.",
+                "emoji": "🌿"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Markt",
+                "tip": "Kaufen Sie Olivenöl direkt von den Erzeugern."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi piac",
+                "tip": "Vásároljon olívaolajat közvetlenül a termelőktől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața locală",
+                "tip": "Cumpărați ulei de măsline direct de la producători."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Market",
+                "tip": "Buy olive oil directly from the producers."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Nutzen Sie die Strandpromenade für den Weg zwischen den Kastellen."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "Használja a tengerparti sétányt a várkastélyok közötti közlekedésre."
+            ],
+            "ro": [
+              "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+              "Folosiți promenada de pe litoral pentru a vă deplasa între castele."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestone streets.",
+              "Use the seaside promenade to move between the castles."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in Kaštel Novi mit einem Regenschirm; die engen Gassen bieten Schutz vor dem Wind. Mittags erkunden Sie die Burg Vitturi, die als Museum trockenes Programm bietet. Am Nachmittag besuchen Sie die Johanneskirche und lassen den Tag in einer gemütlichen Konoba am Meer ausklingen, während der Regen gegen die Scheiben peitscht und die Adria eine mystische Stimmung ausstrahlt.",
+            "hu": "Kezdje a napot Kaštel Noviban esernyővel; a szűk utcák némi védelmet nyújtanak a szél elől. Délben fedezze fel a Vitturi-várat, amely múzeumként száraz programot kínál. Délután látogassa meg a Szent János-templomot, majd zárja a napot egy hangulatos tengerparti konobában, miközben az eső kopog az ablakon, és az Adria misztikus hangulatot áraszt a szürke fényekben.",
+            "ro": "Începeți ziua în Kaštel Novi cu o umbrelă; străzile înguste oferă protecție împotriva vântului. La prânz, explorați Castelul Vitturi, care oferă un program uscat ca muzeu. După-amiaza vizitați Biserica Sfântului Ioan și încheiați ziua într-o tavernă primitoare de pe malul mării, în timp ce ploaia bate în geamuri, iar Adriatica emană o atmosferă mistică sub cerul plumburiu.",
+            "en": "Start the day in Kaštel Novi with an umbrella; the narrow streets provide some shelter from the wind. At noon, explore Vitturi Castle, which offers a dry program as a museum. In the afternoon, visit St. John's Church and end the day in a cozy seaside tavern while the rain taps on the windows and the Adriatic exudes a mystical atmosphere in the gray light."
+          },
+          "stops": [
+            {
+              "name": "Altstadt Kaštel Novi",
+              "tip_5lang": {
+                "de": "Die schmalen Gassen schützen gut vor seitlichem Regen.",
+                "hu": "A szűk utcák jól védenek az oldalszélben érkező esőtől.",
+                "ro": "Străzile înguste protejează bine de ploaia laterală.",
+                "en": "The narrow alleys protect well from sideways rain."
+              }
+            },
+            {
+              "name": "Turm Rotondo",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, danach schnell unter das nächste Vordach.",
+                "hu": "Gyors fotómegálló, utána keressen fedett részt a közelben.",
+                "ro": "Oprire scurtă pentru poze, apoi căutați un adăpost apropiat.",
+                "en": "Quick photo stop, then find shelter nearby."
+              }
+            },
+            {
+              "name": "Der alte Olivenbaum",
+              "tip_5lang": {
+                "de": "Die Baumkrone bietet nur begrenzten Schutz, großer Schirm nötig.",
+                "hu": "A lombkorona csak minimális védelmet nyújt, nagy ernyő kell.",
+                "ro": "Coroana oferă protecție limitată, aveți nevoie de o umbrelă mare.",
+                "en": "The canopy offers limited protection; a large umbrella is needed."
+              }
+            },
+            {
+              "name": "Burg Vitturi",
+              "tip_5lang": {
+                "de": "Perfekter Ort bei Regen, das Museum ist komplett überdacht.",
+                "hu": "Tökéletes hely esőben, a múzeum teljesen fedett és száraz.",
+                "ro": "Loc perfect pe ploaie, muzeul este complet acoperit.",
+                "en": "Perfect place in the rain; the museum is fully indoor and dry."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Johannes",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum für eine besinnliche, trockene Pause.",
+                "hu": "Használja a belső teret egy elmélyült, száraz pihenőre.",
+                "ro": "Folosiți interiorul pentru o pauză spirituală și uscată.",
+                "en": "Use the interior for a contemplative, dry break."
+              }
+            },
+            {
+              "name": "Strand Gabine",
+              "tip_5lang": {
+                "de": "Die Cafés am Strand bieten überdachte Plätze mit Meeresblick.",
+                "hu": "A tengerparti kávézók fedett teraszáról nézheti a hullámokat.",
+                "ro": "Cafenelele de pe plajă au terase acoperite cu vedere la mare.",
+                "en": "Beach cafes have covered terraces to watch the waves."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die oft rutschigen Steinpflaster.",
+              "Der Küstenwind 'Jugo' kann Schirme umknicken, eine Regenjacke ist sicherer.",
+              "Die Burg Vitturi ist die beste Option für eine längere Regenpause.",
+              "Viele Cafés entlang der Riva haben Glasfronten für trockenen Meerblick."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a gyakran csúszós kőburkolatok miatt.",
+              "A 'Jugo' szél kifordíthatja az ernyőt, egy jó esőkabát praktikusabb.",
+              "A Vitturi-vár a legjobb opció egy hosszabb esőszünetre.",
+              "A Riva menti kávézók üvegfalai mögül szárazon élvezheti a tenger látványát."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru pavajele de piatră alunecoase.",
+              "Vântul 'Jugo' poate distruge umbrelele, o pelerină este mai sigură.",
+              "Castelul Vitturi este cea mai bună opțiune pentru o pauză lungă de ploaie.",
+              "Cafenelele de pe Riva au pereți de sticlă pentru vedere uscată la mare."
+            ],
+            "en": [
+              "Wear waterproof shoes for the often slippery stone pavements.",
+              "The 'Jugo' wind can flip umbrellas; a raincoat is a safer bet.",
+              "Vitturi Castle is your best option for a longer rain break.",
+              "Many cafes along the Riva have glass fronts for dry sea views."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die Stille von Kaštela im milden Winterlicht. Der Morgen beginnt frisch in der Altstadt, gefolgt von einem Besuch der Burg Vitturi. Da die Sonne bereits gegen 16:30 Uhr untergeht, besuchen Sie den 1500 Jahre alten Olivenbaum im goldenen Nachmittagslicht. Der Tag endet mit einem kühlen Spaziergang am Strand Gabine, wo Sie die klare Winterluft und den weiten Horizont ohne Sommertouristen genießen.",
+            "hu": "Élje át Kaštela nyugalmát az enyhe téli fényekben. A reggel frissen indul az óvárosban, majd a Vitturi-vár látogatása következik. Mivel a nap már 16:30 körül nyugszik, látogassa meg az 1500 éves olajfát az aranyló délutáni fényekben. A nap egy hűvös sétával zárul a Gabine-strandon, ahol élvezheti a tiszta téli levegőt és a tágas horizontot a nyári tömeg nélkül.",
+            "ro": "Experimentați liniștea orașului Kaštela în lumina blândă de iarnă. Dimineața începe proaspăt în orașul vechi, urmată de o vizită la Castelul Vitturi. Deoarece soarele apune în jur de 16:30, vizitați măslinul vechi de 1500 de ani în lumina aurie a după-amiezii. Ziua se încheie cu o plimbare răcoroasă pe plaja Gabine, unde vă bucurați de aerul curat și orizontul larg fără turiștii de vară.",
+            "en": "Experience the silence of Kaštela in the mild winter light. The morning starts fresh in the old town, followed by a visit to Vitturi Castle. Since the sun sets around 16:30, visit the 1500-year-old olive tree in the golden afternoon light. The day ends with a cool walk at Gabine Beach, where you enjoy the crisp winter air and the wide horizon without the summer crowds."
+          },
+          "stops": [
+            {
+              "name": "Altstadt Kaštel Novi",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne die Hitze des Sommers.",
+                "hu": "Élvezze a nyugalmat a nyári hőség és tömeg nélkül.",
+                "ro": "Bucurați-vă de liniște fără căldura sufocantă a verii.",
+                "en": "Enjoy the tranquility without the summer heat and crowds."
+              }
+            },
+            {
+              "name": "Turm Rotondo",
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die Steinstrukturen besonders hervor.",
+                "hu": "A téli fények szépen kiemelik a kövek textúráját.",
+                "ro": "Lumina de iarnă scoate în evidență textura pietrei.",
+                "en": "Winter light beautifully emphasizes the stone textures."
+              }
+            },
+            {
+              "name": "Der alte Olivenbaum",
+              "tip_5lang": {
+                "de": "Im Winter wirkt der 1500 Jahre alte Baum besonders ehrwürdig.",
+                "hu": "Télen az 1500 éves fa különösen tiszteletreméltó látvány.",
+                "ro": "Iarna, măslinul milenar arată deosebit de maiestuos.",
+                "en": "In winter, the 1500-year-old tree looks particularly venerable."
+              }
+            },
+            {
+              "name": "Burg Vitturi",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten des Stadtmuseums.",
+                "hu": "Ellenőrizze a városi múzeum téli nyitvatartását.",
+                "ro": "Verificați programul de iarnă al muzeului orașului.",
+                "en": "Check the city museum's winter opening hours."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Johannes",
+              "tip_5lang": {
+                "de": "Oft Schauplatz lokaler Krippenausstellungen im Dezember.",
+                "hu": "Decemberben gyakran helyi betlehemes kiállítások helyszíne.",
+                "ro": "Deseori găzduiește expoziții de Crăciun în decembrie.",
+                "en": "Often hosts local nativity scenes in December."
+              }
+            },
+            {
+              "name": "Strand Gabine",
+              "tip_5lang": {
+                "de": "Ideal für einen meditativen Spaziergang am leeren Ufer.",
+                "hu": "Ideális egy meditatív sétára az üres tengerparton.",
+                "ro": "Ideal pentru o plimbare meditativă pe malul pustiu.",
+                "en": "Ideal for a meditative walk on the empty shore."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip gegen den kühlen Seewind.",
+              "Beachten Sie den frühen Sonnenuntergang gegen 16:30 Uhr.",
+              "Einige Cafés schließen im Winter früher oder ganz.",
+              "Die Bura-Winde können die gefühlte Temperatur stark senken."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a hűvös tengeri szél miatt.",
+              "Vegye figyelembe a korai, fél 5 körüli naplementét.",
+              "Néhány kávézó télen korábban zár vagy teljesen bezár.",
+              "A Bóra szél jelentősen csökkentheti a hőérzetet."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi împotriva vântului rece de coastă.",
+              "Rețineți că soarele apune devreme, în jur de ora 16:30.",
+              "Unele cafenele se închid mai devreme sau de tot iarna.",
+              "Vântul Bura poate scădea drastic temperatura resimțită."
+            ],
+            "en": [
+              "Dress in layers against the cool coastal breeze.",
+              "Note the early sunset around 16:30.",
+              "Some cafes close earlier or entirely during winter.",
+              "Bura winds can significantly lower the perceived temperature."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -454,6 +800,352 @@
           "Avoid the main road (Magistrale), stay on the coastal roads.",
           "Take enough water for the climb to Stomorija."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie in Kaštel Gomilica bei der Festung Kaštilac, einem Juwel auf einer kleinen Insel. Radeln Sie entlang der Küste nach Westen durch die verschiedenen Kastelle.\n\nBesuchen Sie die Burg Vitturi und erkunden Sie die Geschichte von Kaštel Lukšić. Die flache Küstenstraße ist ideal für eine entspannte Fahrt unter Pinien.\n\nFahren Sie hinauf zum Biblischen Garten Stomorija am Hang des Kozjak-Gebirges. Der Weg bietet fantastische Panoramablicke über die gesamte Bucht und die Inseln.\n\nBeenden Sie Ihre Tour mit einer rasanten Abfahrt zum Strand Gabine. Ein Sprung ins kristallklare Wasser ist die beste Belohnung für die geleisteten Kilometer.",
+            "hu": "Induljon Kaštel Gomilicából a Kaštilac-erődtől, amely egy apró szigeten fekvő ékszerdoboz. Tekerjen nyugat felé a tengerpart mentén, érintve a különböző településrészeket.\n\nLátogasson el a Vitturi-kastélyhoz és fedezze fel Kaštel Lukšić történetét. A sík tengerparti út ideális egy pihentető tekeréshez a fenyőfák alatt.\n\nKerekezzen fel a Kozjak-hegység oldalában fekvő Bibliai kerthez. Az út fantasztikus panorámát kínál az egész öbölre és a szemközti szigetekre.\n\nZárja a túrát egy gyors legurulással a Gabine strandhoz. Egy csobbanás a kristálytiszta vízben a legjobb jutalom a megtett kilométerekért.",
+            "ro": "Începeți din Kaštel Gomilica de la fortăreața Kaštilac, o bijuterie pe o mică insulă. Pedalați spre vest de-a lungul coastei, trecând prin diversele așezări.\n\nVizitați Castelul Vitturi și descoperiți istoria din Kaštel Lukšić. Drumul plat de pe coastă este ideal pentru o plimbare relaxantă sub pini.\n\nUrcați spre Grădina Biblică Stomorija de pe versantul muntelui Kozjak. Drumul oferă vederi panoramice fantastice peste întreg golful și insule.\n\nÎncheiați turul cu o coborâre rapidă spre plaja Gabine. O săritură în apa cristalina este cea mai bună recompensă pentru kilometrii parcurși.",
+            "en": "Start in Kaštel Gomilica at the Kaštilac fortress, a gem on a tiny island. Cycle west along the coast through the various settlements.\n\nVisit Vitturi Castle and discover the history of Kaštel Lukšić. The flat coastal road is ideal for a relaxed ride under the pine trees.\n\nCycle up to the Biblical Garden Stomorija on the slopes of Mount Kozjak. The path offers fantastic panoramic views over the entire bay and the islands.\n\nEnd your tour with a quick descent to Gabine beach. A dip in the crystal-clear water is the best reward for the kilometers traveled."
+          },
+          "stops": [
+            {
+              "name": "Kaštilac Festung",
+              "tip_5lang": {
+                "de": "Bekannt als Drehort für Game of Thrones.",
+                "hu": "Ismert Trónok harca forgatási helyszín.",
+                "ro": "Cunoscut ca locație de filmare pentru Game of Thrones.",
+                "en": "Known as a filming location for Game of Thrones."
+              }
+            },
+            {
+              "name": "Burg Vitturi",
+              "tip_5lang": {
+                "de": "Ein Muss für Architektur-Liebhaber.",
+                "hu": "Az építészet kedvelőinek kötelező látnivaló.",
+                "ro": "O vizită obligatorie pentru iubitorii de arhitectură.",
+                "en": "A must-see for architecture lovers."
+              }
+            },
+            {
+              "name": "Altstadt Kaštel Novi",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig durch die engen Gassen.",
+                "hu": "Óvatosan kerekezzen a szűk sikátorokban.",
+                "ro": "Pedalați cu atenție pe străzile înguste.",
+                "en": "Cycle carefully through the narrow alleys."
+              }
+            },
+            {
+              "name": "Der alte Olivenbaum",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto.",
+                "hu": "Egy rövid megálló egy fotó erejéig.",
+                "ro": "O scurtă oprire pentru o fotografie.",
+                "en": "A short stop for a photo."
+              }
+            },
+            {
+              "name": "Biblischer Garten Stomorija",
+              "tip_5lang": {
+                "de": "Der Anstieg lohnt sich für die Aussicht.",
+                "hu": "A kaptató megéri a kilátás miatt.",
+                "ro": "Urcarea merită pentru priveliște.",
+                "en": "The climb is worth it for the view."
+              }
+            },
+            {
+              "name": "Strand Gabine",
+              "tip_5lang": {
+                "de": "Kühlen Sie sich nach der Fahrt ab.",
+                "hu": "Frissüljön fel a tekerés után.",
+                "ro": "Răcoriți-vă după plimbare.",
+                "en": "Refresh yourself after the ride."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bistro Jidro",
+                "tip": "Snacks und Erfrischungen direkt am Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bistro Jidro",
+                "tip": "Snackek és frissítők közvetlenül a kikötőben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bistro Jidro",
+                "tip": "Gustări și băuturi răcoritoare direct în port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bistro Jidro",
+                "tip": "Snacks and refreshments right in the harbor."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Park Vitturi",
+                "tip": "Schattige Bänke hinter dem Schloss.",
+                "emoji": "🌳"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vitturi park",
+                "tip": "Árnyas padok a kastély mögött.",
+                "emoji": "🌳"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul Vitturi",
+                "tip": "Bănci umbrite în spatele castelului.",
+                "emoji": "🌳"
+              }
+            ],
+            "en": [
+              {
+                "name": "Vitturi Park",
+                "tip": "Shaded benches behind the castle.",
+                "emoji": "🌳"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirshop im Schloss",
+                "tip": "Handgefertigte Keramik und lokale Kräuter."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ajándékbolt a kastélyban",
+                "tip": "Kézzel készített kerámiák és helyi gyógynövények."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de suveniruri în castel",
+                "tip": "Ceramică lucrată manual și ierburi locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Souvenir Shop in the Castle",
+                "tip": "Handmade ceramics and local herbs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Vermeiden Sie die Hauptstraße (Magistrale), bleiben Sie am Meer.",
+              "Nehmen Sie ausreichend Wasser für den Anstieg zur Stomorija mit."
+            ],
+            "hu": [
+              "Kerülje a főutat (Magistrale), maradjon a tengerparti utakon.",
+              "Vigyen magával elég vizet a Stomorija felé vezető emelkedőhöz."
+            ],
+            "ro": [
+              "Evitați drumul principal (Magistrale), rămâneți pe drumurile de coastă.",
+              "Luați suficientă apă pentru urcarea spre Stomorija."
+            ],
+            "en": [
+              "Avoid the main road (Magistrale), stay on the coastal roads.",
+              "Take enough water for the climb to Stomorija."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie mit Regenkleidung entlang der Küste von Kastilac nach Vitturi. Die Wege sind flach, aber bei Nässe rutschig. Mittags finden Sie Schutz in Kaštel Novi und besuchen den alten Olivenbaum. Am Nachmittag geht es zum Biblischen Garten, wo die Pflanzen im Regen besonders intensiv duften. Den Tag schließen Sie bei einem warmen Getränk in einer Bar am Strand Gabine ab, während Sie das graue Meer beobachten.",
+            "hu": "Tekerjen esővédő felszerelésben a part mentén Kastilactól Vitturiig. Az utak síkak, de nedvesen csúszósak. Délben keressen menedéket Kaštel Noviban, és nézze meg az öreg olajfát. Délután irány a Bibliai kert, ahol a növények az esőben különösen intenzív illatot árasztanak. A napot egy meleg ital mellett zárja a Gabine-strand egyik bárjában, a szürke tengert figyelve.",
+            "ro": "Pedalați cu echipament de ploaie de-a lungul coastei de la Kastilac la Vitturi. Drumurile sunt plate, dar alunecoase pe ud. La prânz, găsiți adăpost în Kaštel Novi și vizitați măslinul vechi. După-amiaza mergeți la Grădina Biblică, unde plantele miros intens în ploaie. Încheiați ziua cu o băutură caldă într-un bar de pe plaja Gabine, privind marea cenușie.",
+            "en": "Cycle with rain gear along the coast from Kastilac to Vitturi. The paths are flat but slippery when wet. At noon, find shelter in Kaštel Novi and visit the old olive tree. In the afternoon, head to the Biblical Garden, where the plants smell particularly intense in the rain. End the day with a warm drink at a bar at Gabine Beach, watching the gray sea."
+          },
+          "stops": [
+            {
+              "name": "Kaštilac Festung",
+              "tip_5lang": {
+                "de": "Achtung: Das Kopfsteinpflaster in der Festung ist extrem glatt.",
+                "hu": "Vigyázat: az erőd macskaköves burkolata esőben rendkívül csúszós.",
+                "ro": "Atenție: pavajul de piatră din fortăreață este extrem de alunecos.",
+                "en": "Caution: the cobblestones in the fortress are extremely slippery."
+              }
+            },
+            {
+              "name": "Burg Vitturi",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Innenhof zum Abstellen der Räder.",
+                "hu": "Használja a fedett belső udvart a biciklik tárolására.",
+                "ro": "Folosiți curtea interioară acoperită pentru a lăsa bicicletele.",
+                "en": "Use the covered inner courtyard to park your bikes."
+              }
+            },
+            {
+              "name": "Altstadt Kaštel Novi",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig durch die engen, nassen Kurven.",
+                "hu": "Óvatosan közlekedjen a szűk, nedves kanyarokban.",
+                "ro": "Conduceți cu atenție în curbele înguste și umede.",
+                "en": "Ride carefully through the narrow, wet corners."
+              }
+            },
+            {
+              "name": "Der alte Olivenbaum",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, der Boden um den Baum kann schlammig sein.",
+                "hu": "Rövid megálló, a fa körüli talaj sáros lehet.",
+                "ro": "Oprire scurtă, solul din jurul pomului poate fi noroios.",
+                "en": "Short stop; the ground around the tree can be muddy."
+              }
+            },
+            {
+              "name": "Biblischer Garten Stomorija",
+              "tip_5lang": {
+                "de": "Die Wege im Garten sind bei Regen weich, bleiben Sie auf Kies.",
+                "hu": "A kert útjai felázhatnak, maradjon a kavicsos részeken.",
+                "ro": "Potecile din grădină sunt moi, rămâneți pe pietriș.",
+                "en": "Garden paths get soft; stay on the gravel parts."
+              }
+            },
+            {
+              "name": "Strand Gabine",
+              "tip_5lang": {
+                "de": "Suchen Sie eine Bar mit Fahrradständer im Sichtbereich.",
+                "hu": "Keressen olyan bárt, ahol rálát a kerékpártárolóra.",
+                "ro": "Căutați un bar cu suport de biciclete vizibil de la masă.",
+                "en": "Find a bar where you can keep an eye on the bike rack."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie schnelle Bremsmanöver auf nassem Naturstein.",
+              "Vollständige Regenbekleidung (Hose + Jacke) ist essentiell.",
+              "Die Küstenstraße ist flach, was das Fahren bei Wind erleichtert.",
+              "Beleuchtung einschalten, da die Sicht oft getrübt ist."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a nedves természetes kövön.",
+              "A teljes esőruházat (nadrág + kabát) elengedhetetlen.",
+              "A parti út sík, ami szélben is könnyebbé teszi a haladást.",
+              "Kapcsolja be a világítást, mert a látási viszonyok korlátozottak."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe piatra naturală umedă.",
+              "Echipamentul complet de ploaie (pantaloni + jachetă) e esențial.",
+              "Drumul de coastă e plat, facilitând deplasarea pe vânt.",
+              "Aprindeți luminile, deoarece vizibilitatea este adesea redusă."
+            ],
+            "en": [
+              "Avoid sudden braking on wet natural stone.",
+              "Full rain gear (trousers + jacket) is essential.",
+              "The coastal road is flat, making it easier to ride in wind.",
+              "Turn on your lights as visibility is often poor."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Winterausflug mit dem Rad durch alle sieben Kaštela. Starten Sie morgens in Kastilac und genießen Sie die klare Sicht über die Bucht. Mittags besichtigen Sie die Burg Vitturi und den alten Olivenbaum. Am Nachmittag radeln Sie zum Biblischen Garten Stomorija, der im Winter eine besondere Ruhe ausstrahlt. Beenden Sie die Tour am Strand Gabine, bevor die Kälte nach Sonnenuntergang spürbar anzieht.",
+            "hu": "Frissítő téli kerékpártúra mind a hét Kaštelán keresztül. Kezdje reggel Kastilacban, és élvezze a tiszta kilátást az öbölre. Délben látogassa meg a Vitturi-várat és az öreg olajfát. Délután tekerjen el a Stomorija Bibliai kertbe, amely télen különleges nyugalmat áraszt. Fejezze be a túrát a Gabine-strandon, mielőtt a naplemente utáni hideg érezhetővé válik.",
+            "ro": "O excursie revigorantă de iarnă cu bicicleta prin toate cele șapte Kaštela. Începeți dimineața în Kastilac și bucurați-vă de vederea clară asupra golfului. La prânz vizitați Castelul Vitturi și măslinul vechi. După-amiaza pedalați spre Grădina Biblică Stomorija, care emană o liniște aparte iarna. Încheiați turul la plaja Gabine înainte ca frigul să se lase după apus.",
+            "en": "A refreshing winter bike trip through all seven Kaštelas. Start in the morning in Kastilac and enjoy the clear view over the bay. At noon, visit Vitturi Castle and the old olive tree. In the afternoon, cycle to the Stomorija Biblical Garden, which radiates a special calm in winter. Finish the tour at Gabine Beach before the post-sunset cold sets in."
+          },
+          "stops": [
+            {
+              "name": "Kaštilac Festung",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe, der Wind an der Festung ist kühl.",
+                "hu": "Viseljen kesztyűt, az erődnél hűvös a tengeri szél.",
+                "ro": "Purtați mănuși, vântul la fortăreață este tăios.",
+                "en": "Wear gloves; the wind at the fortress is chilly."
+              }
+            },
+            {
+              "name": "Burg Vitturi",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen bei einem Museumsbesuch.",
+                "hu": "Ideális hely a felmelegedésre egy múzeumlátogatás során.",
+                "ro": "Ideal pentru a vă încălzi în timpul vizitei la muzeu.",
+                "en": "Ideal for warming up during a museum visit."
+              }
+            },
+            {
+              "name": "Altstadt Kaštel Novi",
+              "tip_5lang": {
+                "de": "Die Gassen bieten guten Schutz vor der kalten Bura.",
+                "hu": "A szűk utcák jó védelmet nyújtanak a hideg Bóra szél ellen.",
+                "ro": "Străzile oferă protecție bună împotriva vântului rece Bura.",
+                "en": "The alleys provide good protection from the cold Bura wind."
+              }
+            },
+            {
+              "name": "Der alte Olivenbaum",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für ein kurzes Picknick in der Wintersonne.",
+                "hu": "Szép hely egy rövid piknikhez a téli napsütésben.",
+                "ro": "Un loc frumos pentru un scurt picnic în soarele de iarnă.",
+                "en": "A nice spot for a short picnic in the winter sun."
+              }
+            },
+            {
+              "name": "Biblischer Garten Stomorija",
+              "tip_5lang": {
+                "de": "Besuch am frühen Nachmittag empfohlen (Sonne!).",
+                "hu": "Kora délutáni látogatás ajánlott a napsütés miatt.",
+                "ro": "Vizită recomandată după-amiaza devreme (pentru soare).",
+                "en": "Early afternoon visit recommended to catch the sun."
+              }
+            },
+            {
+              "name": "Strand Gabine",
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt hier spätestens bei Sonnenuntergang.",
+                "hu": "Legkésőbb naplementekor fejezze be itt a túrát.",
+                "ro": "Încheiați tura aici cel târziu la apusul soarelui.",
+                "en": "End your ride here at sunset at the latest."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und Ohrenschutz sind wegen des Fahrtwinds wichtig.",
+              "Die Tage sind kurz; planen Sie das Ende der Tour für 16:00 Uhr.",
+              "Achten Sie auf vereiste Stellen in schattigen Gassen.",
+              "Trinken Sie ausreichend, auch wenn Sie weniger schwitzen."
+            ],
+            "hu": [
+              "A menetszél miatt fontos a meleg kesztyű és fülvédő.",
+              "A nappalok rövidek; tervezze a túra végét délután 4 órára.",
+              "Ügyeljen a jeges foltokra az árnyékos utcákban.",
+              "Igyon eleget, még ha kevésbé is érzi szomjasnak magát."
+            ],
+            "ro": [
+              "Mănușile calde și protecția pentru urechi sunt vitale din cauza vântului.",
+              "Zilele sunt scurte; planificați finalul turei pentru ora 16:00.",
+              "Atenție la porțiunile înghețate în străzile umbrite.",
+              "Hidratați-vă suficient, chiar dacă transpirați mai puțin."
+            ],
+            "en": [
+              "Warm gloves and ear protection are important due to the wind chill.",
+              "Days are short; plan to finish the tour by 16:00.",
+              "Watch out for icy patches in shaded alleys.",
+              "Drink enough fluids even if you don't feel thirsty."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -696,6 +1388,379 @@
           "Parking in the old town centers is often difficult, use marked spots.",
           "The drive to Klis takes about 20 minutes."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto entdecken Sie die gesamte Küste von Kaštela mühelos. Beginnen Sie bei der fotogenen Kaštilac-Festung in Gomilica und fahren Sie weiter zum historischen Zentrum von Lukšić.\n\nNach dem Besuch von Burg Vitturi und dem 1500 Jahre alten Olivenbaum in Štafilić führt Sie die Fahrt hinauf zum Biblischen Garten Stomorija für eine Pause im Grünen.\n\nAm Nachmittag machen Sie einen Ausflug zur nahegelegenen Festung Klis. Diese strategische Burg bietet den wohl besten Ausblick über Dalmatien und ist weltberühmt aus Film und Fernsehen.\n\nKehren Sie rechtzeitig zurück, um den Abend in einem der gemütlichen Restaurants am Meer in Kaštel Novi zu verbringen. Ein perfekter Mix aus Kultur, Geschichte und Natur.",
+            "hu": "Autóval könnyedén felfedezheti Kaštela teljes partvidékét. Kezdjen a fotogén Kaštilac-erődnél Gomilicában, majd haladjon tovább Lukšić történelmi központja felé.\n\nA Vitturi-kastély és a 1500 éves štafilići olajfa megtekintése után az út felvezet a Bibliai kerthez egy rövid zöld pihenőre.\n\nDélután tegyen egy kitérőt a közeli Klis erődjéhez. Ez a stratégiai vár kínálja Dalmácia talán legszebb kilátását, és világszerte ismert filmekből.\n\nTérjen vissza időben, hogy az estét Kaštel Novi egyik hangulatos tengerparti éttermében töltse. A kultúra, a történelem és a természet tökéletes keveréke.",
+            "ro": "Cu mașina, veți descoperi cu ușurință întreaga coastă a orașului Kaštela. Începeți de la fotogenica fortăreață Kaštilac din Gomilica și continuați spre centrul istoric din Lukšić.\n\nDupă vizitarea Castelului Vitturi și a măslinului de 1500 de ani din Štafilić, drumul vă duce sus, la Grădina Biblică Stomorija, pentru o pauză în natură.\n\nDupă-amiaza, faceți o excursie la cetatea Klis din apropiere. Această fortăreață strategică oferă probabil cea mai bună vedere asupra Dalmației și este faimoasă în întreaga lume.\n\nÎntoarceți-vă la timp pentru a petrece seara într-unul dintre restaurantele primitoare de pe malul mării din Kaštel Novi. Un amestec perfect de cultură, istorie și natură.",
+            "en": "By car, you will easily discover the entire coast of Kaštela. Start at the photogenic Kaštilac fortress in Gomilica and continue to the historical center of Lukšić.\n\nAfter visiting Vitturi Castle and the 1500-year-old olive tree in Štafilić, the drive takes you up to the Biblical Garden Stomorija for a break in the greenery.\n\nIn the afternoon, take a trip to the nearby Klis fortress. This strategic castle offers perhaps the best view over Dalmatia and is world-famous from movies and TV.\n\nReturn in time to spend the evening in one of the cozy seaside restaurants in Kaštel Novi. A perfect mix of culture, history, and nature."
+          },
+          "stops": [
+            {
+              "name": "Kaštilac Festung",
+              "tip_5lang": {
+                "de": "Parken Sie am Eingang von Gomilica.",
+                "hu": "Parkoljon Gomilica bejáratánál.",
+                "ro": "Parcați la intrarea în Gomilica.",
+                "en": "Park at the entrance of Gomilica."
+              }
+            },
+            {
+              "name": "Burg Vitturi",
+              "tip_5lang": {
+                "de": "Ein Rundgang durch das Museum ist lohnenswert.",
+                "hu": "Érdemes körbejárni a múzeumot.",
+                "ro": "Merită să faceți un tur al muzeului.",
+                "en": "It's worth taking a tour of the museum."
+              }
+            },
+            {
+              "name": "Altstadt Kaštel Novi",
+              "tip_5lang": {
+                "de": "Bestaunen Sie den Wehrturm Rotondo.",
+                "hu": "Csodálja meg a Rotondo erődített tornyot.",
+                "ro": "Admirați turnul fortificat Rotondo.",
+                "en": "Admire the fortified Rotondo tower."
+              }
+            },
+            {
+              "name": "Der alte Olivenbaum",
+              "tip_5lang": {
+                "de": "Parkplätze direkt an der Straße vorhanden.",
+                "hu": "Parkolóhelyek közvetlenül az út mentén.",
+                "ro": "Locuri de parcare disponibile direct lângă drum.",
+                "en": "Parking spaces available right by the road."
+              }
+            },
+            {
+              "name": "Biblischer Garten Stomorija",
+              "tip_5lang": {
+                "de": "Ideal für ein Picknick im Grünen.",
+                "hu": "Ideális egy piknikhez a zöldben.",
+                "ro": "Ideal pentru un picnic în natură.",
+                "en": "Ideal for a picnic in the countryside."
+              }
+            },
+            {
+              "name": "Kliške tvrđava (Klis)",
+              "tip_5lang": {
+                "de": "Spektakuläre Festung oberhalb von Split.",
+                "hu": "Látványos erőd Split felett.",
+                "ro": "Cetate spectaculoasă deasupra orașului Split.",
+                "en": "Spectacular fortress above Split."
+              }
+            },
+            {
+              "name": "Strand Gabine",
+              "tip_5lang": {
+                "de": "Entspannen Sie nach der Tour am Meer.",
+                "hu": "Pihenjen meg a túra után a tengerparton.",
+                "ro": "Relaxați-vă pe malul mării după tur.",
+                "en": "Relax by the sea after the tour."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restoran Perlica (Klis)",
+                "tip": "Berühmtes Lamm am Spieß."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Restoran Perlica (Klis)",
+                "tip": "Híres nyárson sült bárány."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restoran Perlica (Klis)",
+                "tip": "Celebru miel la proțap."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restoran Perlica (Klis)",
+                "tip": "Famous spit-roasted lamb."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kozjak Aussichtspunkt",
+                "tip": "Stoppen Sie für ein Foto der Bucht.",
+                "emoji": "📸"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kozjak kilátópont",
+                "tip": "Álljon meg egy fotóra az öböl felett.",
+                "emoji": "📸"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punct de belvedere Kozjak",
+                "tip": "Opriți-vă pentru o fotografie deasupra golfului.",
+                "emoji": "📸"
+              }
+            ],
+            "en": [
+              {
+                "name": "Kozjak Viewpoint",
+                "tip": "Stop for a photo above the bay.",
+                "emoji": "📸"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Weingut Bedalov",
+                "tip": "Probieren und kaufen Sie erstklassigen Wein."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bedalov borászat",
+                "tip": "Kóstoljon és vásároljon prémium borokat."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Crama Bedalov",
+                "tip": "Degustați și cumpărați vinuri premium."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bedalov Winery",
+                "tip": "Taste and buy premium wines."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken in den alten Stadtkernen ist oft schwierig, nutzen Sie markierte Plätze.",
+              "Die Fahrt nach Klis dauert ca. 20 Minuten."
+            ],
+            "hu": [
+              "Az óvárosi részeken nehéz a parkolás, használja a kijelölt helyeket.",
+              "A Klis felé vezető út kb. 20 percet vesz igénybe."
+            ],
+            "ro": [
+              "Parcarea în centrele vechi este adesea dificilă, folosiți locurile marcate.",
+              "Drumul spre Klis durează aproximativ 20 de minute."
+            ],
+            "en": [
+              "Parking in the old town centers is often difficult, use marked spots.",
+              "The drive to Klis takes about 20 minutes."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Flexibilität des Autos, um die sieben Kaštela trocken zu erkunden. Vormittags besuchen Sie Kastilac und Vitturi. Mittags geht es durch die Altstadt von Kaštel Novi. Am Nachmittag fahren Sie hinauf zur Festung Klis, wo der Regen und Nebel eine dramatische Atmosphäre über dem Tal schaffen. Zum Abschluss entspannen Sie in einem Café am Strand Gabine, während das Auto direkt daneben parkt.",
+            "hu": "Élvezze az autó rugalmasságát a hét Kaštela száraz felfedezéséhez. Délelőtt látogassa meg Kastilacot és Vitturit. Délben irány Kaštel Novi óvárosa. Délután autózzon fel a Klis-erődbe, ahol az eső és a köd drámai hangulatot áraszt a völgy felett. Zárásként pihenjen meg a Gabine-strand egyik kávézójában, miközben az autó közvetlenül a közelben parkol.",
+            "ro": "Bucurați-vă de flexibilitatea mașinii pentru a explora cele șapte Kaštela la uscat. Dimineața vizitați Kastilac și Vitturi. La prânz treceți prin orașul vechi Kaštel Novi. După-amiaza conduceți până la cetatea Klis, unde ploaia și ceața creează o atmosferă dramatică. La final, relaxați-vă într-o cafenea de pe plaja Gabine, cu mașina parcată chiar lângă.",
+            "en": "Enjoy the flexibility of the car to explore the seven Kaštelas while staying dry. In the morning, visit Kastilac and Vitturi. At noon, head through the old town of Kaštel Novi. In the afternoon, drive up to Klis Fortress, where the rain and mist create a dramatic atmosphere over the valley. Finally, relax in a cafe at Gabine Beach with the car parked right nearby."
+          },
+          "stops": [
+            {
+              "name": "Kaštilac Festung",
+              "tip_5lang": {
+                "de": "Parkplätze sind direkt am Eingang vorhanden.",
+                "hu": "Parkolóhelyek közvetlenül a bejáratnál találhatók.",
+                "ro": "Locuri de parcare disponibile chiar la intrare.",
+                "en": "Parking spaces are available right at the entrance."
+              }
+            },
+            {
+              "name": "Burg Vitturi",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz an der Riva für kurzen Fußweg.",
+                "hu": "Használja a Riva melletti parkolót a rövid séta érdekében.",
+                "ro": "Folosiți parcarea de pe Riva pentru a merge puțin pe jos.",
+                "en": "Use the parking lot on the Riva for a short walk."
+              }
+            },
+            {
+              "name": "Altstadt Kaštel Novi",
+              "tip_5lang": {
+                "de": "Fahren Sie nicht in die engsten Gassen, parken Sie außerhalb.",
+                "hu": "Ne hajtson be a legszűkebb utcákba, parkoljon kívül.",
+                "ro": "Nu intrați în străzile cele mai înguste, parcați la exterior.",
+                "en": "Don't drive into the narrowest alleys; park outside."
+              }
+            },
+            {
+              "name": "Der alte Olivenbaum",
+              "tip_5lang": {
+                "de": "Direkte Zufahrt möglich, ideal für einen schnellen Stopp.",
+                "hu": "Közvetlen behajtás lehetséges, ideális egy gyors megállóhoz.",
+                "ro": "Acces auto direct, ideal pentru o oprire rapidă.",
+                "en": "Direct car access possible, ideal for a quick stop."
+              }
+            },
+            {
+              "name": "Biblischer Garten Stomorija",
+              "tip_5lang": {
+                "de": "Der Weg zum Garten ist asphaltiert und gut befahrbar.",
+                "hu": "A kerthez vezető út aszfaltozott és jól járható.",
+                "ro": "Drumul spre grădină este asfaltat și ușor accesibil.",
+                "en": "The road to the garden is paved and easy to drive."
+              }
+            },
+            {
+              "name": "Kliške tvrđava (Klis)",
+              "tip_5lang": {
+                "de": "Die Auffahrt bietet spektakuläre, nasse Panorama-Aussichten.",
+                "hu": "A felvezető út látványos panorámát kínál az esőben is.",
+                "ro": "Urcarea oferă vederi panoramice spectaculoase pe ploaie.",
+                "en": "The drive up offers spectacular, misty panoramic views."
+              }
+            },
+            {
+              "name": "Strand Gabine",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden, man bleibt fast bis zum Café trocken.",
+                "hu": "Nagy parkoló van, szinte a kávézóig szárazon eljuthat.",
+                "ro": "Parcare mare, puteți ajunge la cafenea aproape uscat.",
+                "en": "Large parking lot available; you can stay dry almost to the cafe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht auf der Küstenstraße bei Starkregen (Aquaplaning).",
+              "Nutzen Sie das Auto als Basis, um Regenschauer abzuwarten.",
+              "Parken Sie in Klis direkt am oberen Parkplatz.",
+              "Die Sicht von Klis kann bei tiefen Wolken eingeschränkt sein."
+            ],
+            "hu": [
+              "Vigyázzon a parti úton heves esőzéskor (vízfelúszás veszélye).",
+              "Használja az autót bázisként az eső elől való meneküléshez.",
+              "Klisben parkoljon közvetlenül a felső parkolóban.",
+              "Alacsony felhőzet esetén Klisből a kilátás korlátozott lehet."
+            ],
+            "ro": [
+              "Atenție pe drumul de coastă la ploi torențiale (acvaplanare).",
+              "Folosiți mașina ca bază pentru a aștepta trecerea ploii.",
+              "În Klis, parcați direct în parcarea superioară.",
+              "Vizibilitatea din Klis poate fi redusă dacă norii sunt joși."
+            ],
+            "en": [
+              "Be careful on the coastal road during heavy rain (hydroplaning).",
+              "Use the car as a base to wait out rain showers.",
+              "In Klis, park directly in the upper parking lot.",
+              "Visibility from Klis may be limited during low cloud cover."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die historischen Schätze von Kaštela und Klis im komfortablen Auto. Der Wintermorgen bietet klare Sichten von den Festungen Kastilac und Vitturi. Mittags besuchen Sie die Altstadt und den uralten Olivenbaum. Das Highlight ist die Fahrt zur Festung Klis am Nachmittag, wo Sie den Sonnenuntergang über Split und den Inseln erleben. Den Tag lassen Sie am ruhigen Strand Gabine bei einem Tee ausklingen.",
+            "hu": "Fedezze fel Kaštela és Klis történelmi kincseit kényelmesen, autóval. A téli reggel tiszta kilátást kínál Kastilac és Vitturi erődjeiből. Délben látogassa meg az óvárost és az ősi olajfát. A nap fénypontja a Klis-erőd délután, ahonnan csodás naplementét láthat Splitre és a szigetekre. A napot a csendes Gabine-strandon zárja egy meleg teával.",
+            "ro": "Explorați comorile istorice din Kaštela și Klis în confortul mașinii. Dimineața de iarnă oferă vederi clare din fortărețele Kastilac și Vitturi. La prânz vizitați orașul vechi și măslinul secular. Punctul culminant este vizita la cetatea Klis după-amiaza, pentru apusul peste Split și insule. Încheiați ziua la plaja liniștită Gabine cu un ceai cald.",
+            "en": "Explore the historical treasures of Kaštela and Klis in the comfort of your car. The winter morning offers clear views from the Kastilac and Vitturi fortresses. At noon, visit the old town and the ancient olive tree. The highlight is the trip to Klis Fortress in the afternoon, where you can witness the sunset over Split and the islands. End the day with a tea at the quiet Gabine Beach."
+          },
+          "stops": [
+            {
+              "name": "Kaštilac Festung",
+              "tip_5lang": {
+                "de": "Im Winter finden Sie hier problemlos einen Parkplatz.",
+                "hu": "Télen itt minden gond nélkül talál parkolóhelyet.",
+                "ro": "Iarna veți găsi loc de parcare fără nicio problemă aici.",
+                "en": "In winter, you'll find a parking spot here without any trouble."
+              }
+            },
+            {
+              "name": "Burg Vitturi",
+              "tip_5lang": {
+                "de": "Das Auto bleibt in der kühlen Meeresbrise gut gelüftet.",
+                "hu": "Az autó a hűvös tengeri szélben is jól szellőzik.",
+                "ro": "Mașina rămâne bine ventilată în briza rece a mării.",
+                "en": "The car stays well-ventilated in the cool sea breeze."
+              }
+            },
+            {
+              "name": "Altstadt Kaštel Novi",
+              "tip_5lang": {
+                "de": "Parken Sie an der Hauptstraße, um schnell weiterzukommen.",
+                "hu": "Parkoljon a főúton a gyorsabb haladás érdekében.",
+                "ro": "Parcați pe drumul principal pentru a pleca rapid mai departe.",
+                "en": "Park on the main road for a quicker departure."
+              }
+            },
+            {
+              "name": "Der alte Olivenbaum",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Baum im warmen Licht der tiefstehenden Sonne.",
+                "hu": "Látogassa meg a fát az alacsonyan járó nap meleg fényében.",
+                "ro": "Vizitați măslinul în lumina caldă a soarelui de iarnă.",
+                "en": "Visit the tree in the warm light of the low-lying sun."
+              }
+            },
+            {
+              "name": "Biblischer Garten Stomorija",
+              "tip_5lang": {
+                "de": "Die Anfahrt ist im Winter besonders malerisch und leer.",
+                "hu": "A kerthez vezető út télen különösen festői és néptelen.",
+                "ro": "Drumul spre grădină este pitoresc și pustiu iarna.",
+                "en": "The drive to the garden is particularly scenic and empty in winter."
+              }
+            },
+            {
+              "name": "Kliške tvrđava (Klis)",
+              "tip_5lang": {
+                "de": "Achtung: Oben auf der Festung ist es im Winter sehr windig.",
+                "hu": "Vigyázat: télen az erőd tetején nagyon erős a szél.",
+                "ro": "Atenție: iarna vântul suflă foarte tare sus pe cetate.",
+                "en": "Caution: it's very windy on top of the fortress in winter."
+              }
+            },
+            {
+              "name": "Strand Gabine",
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt am Meer lädt zum Verweilen im Auto ein.",
+                "hu": "A tengerparti parkoló hívogató, ha az autóból nézné a vizet.",
+                "ro": "Parcarea de pe plajă e perfectă pentru a privi marea din mașină.",
+                "en": "The beachside parking is perfect for watching the sea from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straße nach Klis kann bei Frost glatt sein.",
+              "Nutzen Sie die Heizung zwischen den Stopps zum Aufwärmen.",
+              "In Klis ist der Sonnenuntergang im Winter spektakulär.",
+              "Prüfen Sie, ob Klis im Winter früher schließt."
+            ],
+            "hu": [
+              "A Klisbe vezető út fagy esetén csúszós lehet.",
+              "Használja a fűtést a megállók közötti felmelegedéshez.",
+              "Klisben a téli naplemente lenyűgöző látvány.",
+              "Ellenőrizze, hogy Klis télen korábban zár-e."
+            ],
+            "ro": [
+              "Drumul spre Klis poate fi alunecos în caz de îngheț.",
+              "Folosiți căldura din mașină pentru a vă încălzi între opriri.",
+              "Apusul de iarnă în Klis este absolut spectaculos.",
+              "Verificați dacă cetatea Klis se închide mai devreme iarna."
+            ],
+            "en": [
+              "The road to Klis can be slippery in case of frost.",
+              "Use the car heater to warm up between stops.",
+              "The winter sunset at Klis is spectacular.",
+              "Check if Klis fortress closes earlier in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -920,6 +1985,352 @@
           "Buy bus tickets from the driver or via app.",
           "Pay attention to the direction of travel (Split or Trogir)."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den legendären '37er' Bus, der Split mit Trogir verbindet und an allen Kastellen hält. Beginnen Sie in Gomilica bei der beeindruckenden Kaštilac-Festung.\n\nFahren Sie weiter nach Kaštel Lukšić zum Schloss Vitturi. Der öffentliche Nahverkehr ist effizient und bietet einen authentischen Einblick in das lokale Leben.\n\nNachmittags erkunden Sie die Gassen von Kaštel Novi und besuchen den alten Olivenbaum in Štafilić. Die Haltestellen befinden sich meist an der Hauptstraße, nur wenige Gehminuten vom Meer entfernt.\n\nBeenden Sie den Tag am Strand Gabine, bevor Sie entspannt mit dem Bus zurückfahren. Eine stressfreie Art, die Vielfalt der sieben Kastelle ohne Parkplatzsorgen zu erleben.",
+            "hu": "Használja a legendás 37-es buszt, amely összeköti Splitet és Trogirt, és minden településrészen megáll. Kezdjen Gomilicában a lenyűgöző Kaštilac-erődnél.\n\nUtazzon tovább Kaštel Lukšićba a Vitturi-kastélyhoz. A tömegközlekedés hatékony és autentikus betekintést nyújt a helyi életbe.\n\nDélután fedezze fel Kaštel Novi utcáit és látogassa meg a štafilići öreg olajfát. A megállók többnyire a főúton vannak, pár perc sétára a tengertől.\n\nZárja a napot a Gabine strandon, mielőtt kényelmesen visszabuszozna. Stresszmentes módja a hét kastély felfedezésének parkolási gondok nélkül.",
+            "ro": "Folosiți legendarul autobuz „37”, care leagă Split de Trogir și oprește în toate zonele. Începeți în Gomilica la impresionanta fortăreață Kaštilac.\n\nContinuați spre Kaštel Lukšić la Castelul Vitturi. Transportul public este eficient și oferă o perspectivă autentică asupra vieții locale.\n\nDupă-amiaza, explorați străzile din Kaštel Novi și vizitați măslinul vechi din Štafilić. Stațiile sunt în mare parte pe drumul principal, la doar câteva minute de mers pe jos de mare.\n\nÎncheiați ziua pe plaja Gabine înainte de a vă întoarce relaxat cu autobuzul. O modalitate fără stres de a experimenta diversitatea celor șapte castele fără grija parcării.",
+            "en": "Use the legendary '37' bus, which connects Split and Trogir and stops at all the settlements. Start in Gomilica at the impressive Kaštilac fortress.\n\nContinue to Kaštel Lukšić to Vitturi Castle. Public transport is efficient and offers an authentic insight into local life.\n\nIn the afternoon, explore the streets of Kaštel Novi and visit the old olive tree in Štafilić. The stops are mostly on the main road, just a few minutes' walk from the sea.\n\nEnd the day at Gabine beach before taking a relaxed bus ride back. A stress-free way to experience the variety of the seven castles without parking worries."
+          },
+          "stops": [
+            {
+              "name": "Kaštilac Festung",
+              "tip_5lang": {
+                "de": "Buslinie 37 hält in der Nähe.",
+                "hu": "A 37-es busz megállója a közelben van.",
+                "ro": "Linia de autobuz 37 oprește în apropiere.",
+                "en": "Bus line 37 stops nearby."
+              }
+            },
+            {
+              "name": "Burg Vitturi",
+              "tip_5lang": {
+                "de": "Das Schloss liegt direkt am Wasser.",
+                "hu": "A kastély közvetlenül a vízparton található.",
+                "ro": "Castelul este situat direct pe malul apei.",
+                "en": "The castle is located directly on the waterfront."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Johannes",
+              "tip_5lang": {
+                "de": "Ein kurzes Stück zu Fuß von der Haltestelle.",
+                "hu": "Egy rövid sétára a megállótól.",
+                "ro": "La scurtă distanță de mers pe jos de stație.",
+                "en": "A short walk from the stop."
+              }
+            },
+            {
+              "name": "Altstadt Kaštel Novi",
+              "tip_5lang": {
+                "de": "Genießen Sie ein Eis auf dem Hauptplatz.",
+                "hu": "Egyen egy fagyit a főtéren.",
+                "ro": "Savurați o înghețată în piața principală.",
+                "en": "Enjoy an ice cream in the main square."
+              }
+            },
+            {
+              "name": "Der alte Olivenbaum",
+              "tip_5lang": {
+                "de": "In Kaštel Štafilić aussteigen.",
+                "hu": "Kaštel Štafilićnál kell leszállni.",
+                "ro": "Coborâți la Kaštel Štafilić.",
+                "en": "Get off at Kaštel Štafilić."
+              }
+            },
+            {
+              "name": "Strand Gabine",
+              "tip_5lang": {
+                "de": "Endstation für Entspannung.",
+                "hu": "A kikapcsolódás végállomása.",
+                "ro": "Stația finală pentru relaxare.",
+                "en": "The final stop for relaxation."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pizzeria Laguna",
+                "tip": "Beliebt bei Einheimischen, große Portionen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pizzeria Laguna",
+                "tip": "A helyiek kedvence, hatalmas adagok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pizzeria Laguna",
+                "tip": "Favorita localnicilor, porții generoase."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pizzeria Laguna",
+                "tip": "A local favorite, huge portions."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Uferpromenade Gomilica",
+                "tip": "Ruhiger Spaziergang am Abend.",
+                "emoji": "🌊"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gomilicai tengerparti sétány",
+                "tip": "Csendes esti séta a vízparton.",
+                "emoji": "🌊"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Faleza din Gomilica",
+                "tip": "O plimbare liniștită de seară.",
+                "emoji": "🌊"
+              }
+            ],
+            "en": [
+              {
+                "name": "Gomilica Waterfront",
+                "tip": "A quiet evening stroll by the water.",
+                "emoji": "🌊"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bäckerei Kaštel Lukšić",
+                "tip": "Probieren Sie frisches Burek."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pékség Kaštel Lukšićban",
+                "tip": "Kóstolja meg a friss bureket."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brutăria Kaštel Lukšić",
+                "tip": "Încercați burek proaspăt."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bakery in Kaštel Lukšić",
+                "tip": "Try fresh burek."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Bustickets beim Fahrer oder per App.",
+              "Achten Sie auf die Fahrtrichtung (Split oder Trogir)."
+            ],
+            "hu": [
+              "Vásároljon buszjegyet a sofőrnél vagy alkalmazáson keresztül.",
+              "Ügyeljen a menetirányra (Split vagy Trogir)."
+            ],
+            "ro": [
+              "Cumpărați bilete de la șofer sau prin aplicație.",
+              "Atenție la direcția de deplasare (Split sau Trogir)."
+            ],
+            "en": [
+              "Buy bus tickets from the driver or via app.",
+              "Pay attention to the direction of travel (Split or Trogir)."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den lokalen Bus (Linie 37), um trocken zwischen den Kaštelas zu pendeln. Starten Sie in Kastilac und fahren Sie weiter zur Burg Vitturi, die idealen Regenschutz bietet. Nach dem Besuch der Johanneskirche erkunden Sie Kaštel Novi. Am Nachmittag besuchen Sie den alten Olivenbaum und beenden den Tag am Strand Gabine, wo Sie in einem gemütlichen Strandcafé den Regen an der Küste beobachten.",
+            "hu": "Használja a helyi buszt (37-es vonal) a Kaštelák közötti száraz közlekedéshez. Kezdje Kastilacban, majd menjen tovább a Vitturi-várhoz, amely ideális védelmet nyújt az eső elől. A Szent János-templom után fedezze fel Kaštel Novit. Délután látogassa meg az öreg olajfát, majd zárja a napot a Gabine-strandon egy hangulatos kávézóban, figyelve a parti esőt.",
+            "ro": "Folosiți autobuzul local (linia 37) pentru a circula între Kaštela fără să vă udați. Începeți în Kastilac și continuați spre Castelul Vitturi, ideal pentru adăpost. După Biserica Sfântului Ioan, explorați Kaštel Novi. După-amiaza vizitați măslinul vechi și încheiați ziua la plaja Gabine, privind ploaia de coastă dintr-o cafenea primitoare.",
+            "en": "Use the local bus (line 37) to commute dryly between the Kaštelas. Start in Kastilac and continue to Vitturi Castle, which provides ideal rain shelter. After visiting St. John's Church, explore Kaštel Novi. In the afternoon, visit the old olive tree and end the day at Gabine Beach, watching the coastal rain from a cozy cafe."
+          },
+          "stops": [
+            {
+              "name": "Kaštilac Festung",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nur wenige Gehminuten entfernt.",
+                "hu": "A buszmegálló mindössze pár perc sétára található.",
+                "ro": "Stația de autobuz este la doar câteva minute de mers pe jos.",
+                "en": "The bus stop is just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Burg Vitturi",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um eine längere Regenfront abzuwarten.",
+                "hu": "Tökéletes hely egy hosszabb esőzés kivárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea unui front de ploaie.",
+                "en": "Perfect spot to wait out a longer rain front."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Johannes",
+              "tip_5lang": {
+                "de": "Kurzer, aber nasser Fußweg von der Hauptstraße.",
+                "hu": "Rövid, de esős séta a főúttól.",
+                "ro": "Drum scurt, dar ud, de la strada principală.",
+                "en": "Short but wet walk from the main road."
+              }
+            },
+            {
+              "name": "Altstadt Kaštel Novi",
+              "tip_5lang": {
+                "de": "Die Busfrequenz ist hoch, man muss nicht lange im Regen warten.",
+                "hu": "A buszok gyakran járnak, nem kell sokat várni az esőben.",
+                "ro": "Autobuzele circulă des, nu veți aștepta mult în ploaie.",
+                "en": "Buses run frequently; you won't wait long in the rain."
+              }
+            },
+            {
+              "name": "Der alte Olivenbaum",
+              "tip_5lang": {
+                "de": "Ein Schirm ist für den Weg von der Haltestelle unerlässlich.",
+                "hu": "Esernyő elengedhetetlen a megállótól vezető úton.",
+                "ro": "O umbrelă este indispensabilă de la stație până la pom.",
+                "en": "An umbrella is essential for the walk from the stop."
+              }
+            },
+            {
+              "name": "Strand Gabine",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café nahe der Rückfahrt-Haltestelle.",
+                "hu": "Válasszon egy kávézót a visszafelé tartó busz megállója közelében.",
+                "ro": "Alegeți o cafenea aproape de stația de retur.",
+                "en": "Choose a cafe near the return bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab per App oder beim Fahrer.",
+              "Die Linie 37 fährt alle 20-30 Minuten entlang der Hauptstraße.",
+              "Nutzen Sie Google Maps für Echtzeit-Buszeiten bei Regen.",
+              "Die Haltestellen sind meist überdacht, bieten aber wenig Windschutz."
+            ],
+            "hu": [
+              "Vegye meg a jegyet előre applikációban vagy a sofőrnél.",
+              "A 37-es busz 20-30 percenként jár a főút mentén.",
+              "Használja a Google Mapset a buszok valós idejű követéséhez.",
+              "A megállók többnyire fedettek, de szél ellen kevésbé védenek."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans prin aplicație sau de la șofer.",
+              "Linia 37 circulă la fiecare 20-30 de minute pe drumul principal.",
+              "Folosiți Google Maps pentru orele în timp real pe ploaie.",
+              "Stațiile sunt în general acoperite, dar oferă puțin adăpost la vânt."
+            ],
+            "en": [
+              "Buy tickets in advance via app or from the driver.",
+              "Line 37 runs every 20-30 minutes along the main road.",
+              "Use Google Maps for real-time bus tracking in the rain.",
+              "Stops are mostly covered but offer little wind protection."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Wintertag in Kaštela mit den öffentlichen Verkehrsmitteln. Beginnen Sie morgens in Kastilac und nehmen Sie den Bus zur Burg Vitturi. Genießen Sie die winterliche Ruhe in der Kirche des Heiligen Johannes und der Altstadt von Kaštel Novi. Am Nachmittag besuchen Sie den 1500 Jahre alten Olivenbaum. Da es früh dunkel wird, beenden Sie Ihren Ausflug am Strand Gabine und kehren bequem mit dem Bus zurück.",
+            "hu": "Nyugodt téli nap Kaštelában tömegközlekedéssel. Kezdje reggel Kastilacban, majd busszal menjen a Vitturi-várhoz. Élvezze a téli nyugalmat a Szent János-templomnál és Kaštel Novi óvárosában. Délután látogassa meg az 1500 éves olajfát. Mivel korán sötétedik, fejezze be a kirándulást a Gabine-strandon, majd térjen vissza kényelmesen busszal.",
+            "ro": "O zi de iarnă relaxată în Kaštela folosind transportul public. Începeți dimineața în Kastilac și luați autobuzul spre Castelul Vitturi. Bucurați-vă de liniștea iernii la Biserica Sfântului Ioan și în orașul vechi Kaštel Novi. După-amiaza vizitați măslinul milenar. Deoarece se întunecă devreme, încheiați excursia la plaja Gabine și reveniți confortabil cu autobuzul.",
+            "en": "A relaxed winter day in Kaštela using public transport. Start in the morning in Kastilac and take the bus to Vitturi Castle. Enjoy the winter peace at St. John's Church and in the old town of Kaštel Novi. In the afternoon, visit the 1500-year-old olive tree. Since it gets dark early, finish your excursion at Gabine Beach and return comfortably by bus."
+          },
+          "stops": [
+            {
+              "name": "Kaštilac Festung",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse weniger überfüllt.",
+                "hu": "Télen a buszok kevésbé zsúfoltak.",
+                "ro": "Iarna autobuzele sunt mult mai puțin aglomerate.",
+                "en": "In winter, buses are much less crowded."
+              }
+            },
+            {
+              "name": "Burg Vitturi",
+              "tip_5lang": {
+                "de": "Das beheizte Museum ist ein guter Stopp zum Aufwärmen.",
+                "hu": "A fűtött múzeum remek hely a felmelegedésre.",
+                "ro": "Muzeul încălzit este o oprire bună pentru a vă dezmorți.",
+                "en": "The heated museum is a good stop to warm up."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Johannes",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille in der kühlen Winterluft.",
+                "hu": "Élvezze a csendet a hűvös téli levegőben.",
+                "ro": "Bucurați-vă de liniște în aerul rece de iarnă.",
+                "en": "Enjoy the silence in the cool winter air."
+              }
+            },
+            {
+              "name": "Altstadt Kaštel Novi",
+              "tip_5lang": {
+                "de": "Viele Einheimische treffen sich hier im Winter in den Cafés.",
+                "hu": "Sok helyi lakos ilyenkor a benti kávézókban találkozik.",
+                "ro": "Mulți localnici se întâlnesc iarna în cafenelele de aici.",
+                "en": "Many locals meet in the indoor cafes here during winter."
+              }
+            },
+            {
+              "name": "Der alte Olivenbaum",
+              "tip_5lang": {
+                "de": "Ein schöner Fotostopp im klaren Nachmittagslicht.",
+                "hu": "Szép fotómegálló a tiszta délutáni fényekben.",
+                "ro": "O oprire foto frumoasă în lumina clară a după-amiezii.",
+                "en": "A beautiful photo stop in the clear afternoon light."
+              }
+            },
+            {
+              "name": "Strand Gabine",
+              "tip_5lang": {
+                "de": "Die letzte Haltestelle vor der Rückfahrt im Dunkeln.",
+                "hu": "Az utolsó állomás a sötétben való visszautazás előtt.",
+                "ro": "Ultima oprire înainte de întoarcerea pe întuneric.",
+                "en": "The last stop before the return journey in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan der Linie 37.",
+              "Tragen Sie warme Kleidung für die Wartezeiten an Haltestellen.",
+              "Die Busse sind im Winter meist gut beheizt.",
+              "Planen Sie die Rückfahrt vor 17:00 Uhr ein."
+            ],
+            "hu": [
+              "Ellenőrizze a 37-es busz téli menetrendjét.",
+              "Öltözzön melegen a megállókban való várakozáshoz.",
+              "A buszok télen általában jól fűtöttek.",
+              "Tervezze a visszautat délután 5 óra előttre."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă al liniei 37.",
+              "Îmbrăcați-vă gros pentru timpii de așteptare în stații.",
+              "Autobuzele sunt de regulă bine încălzite iarna.",
+              "Planificați întoarcerea înainte de ora 17:00."
+            ],
+            "en": [
+              "Check the winter schedule for line 37.",
+              "Dress warmly for waiting times at bus stops.",
+              "Buses are usually well-heated in winter.",
+              "Plan your return journey before 17:00."
+            ]
+          }
+        }
       }
     }
   },

@@ -276,6 +276,406 @@
           "The fortress often closes during midday.",
           "Park outside the town center if possible."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie den malerischen Porto Santo Stefano zu Fuß. Starten Sie am lebhaften Porto Vecchio und flanieren Sie entlang des Lungomare dei Navigatori zum modernen Aquarium. Steigen Sie zur imposanten Spanischen Festung hinauf, die über der Stadt thront, und genießen Sie den weiten Blick über den Golf von Talamone.",
+            "hu": "Fedezze fel Porto Santo Stefanót gyalogosan. Kezdje a nyüzsgő Porto Vecchiónál, és sétáljon végig a Lungomare dei Navigatori sétányon a modern Akváriumig. Másszon fel az impozáns Spanyol Erődbe, amely a város felett magasodik, és élvezze a Talamone-öbölre nyíló tágas kilátást.",
+            "ro": "Descoperiți pitorescul Porto Santo Stefano la pas. Începeți în vibrantul Porto Vecchio și flanați pe Lungomare dei Navigatori spre acvariu. Urcați la impunătoarea Fortăreață Spaniolă care veghează asupra orașului și bucurați-vă de vederea largă asupra Golfului Talamone.",
+            "en": "Discover picturesque Porto Santo Stefano on foot. Start at the lively Porto Vecchio and stroll along the Lungomare dei Navigatori to the modern Aquarium. Climb up to the imposing Spanish Fortress overlooking the town and enjoy sweeping views of the Gulf of Talamone."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alter Hafen (Porto Vecchio)",
+                "hu": "Régi kikötő (Porto Vecchio)",
+                "ro": "Portul Vechi (Porto Vecchio)",
+                "en": "Old Harbor (Porto Vecchio)"
+              },
+              "tip_5lang": {
+                "de": "Bunter Fischerhafen.",
+                "hu": "Színes halászkikötő.",
+                "ro": "Port pescăresc colorat.",
+                "en": "Colorful fishing harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Lungomare dei Navigatori",
+                "hu": "Lungomare dei Navigatori",
+                "ro": "Lungomare dei Navigatori",
+                "en": "Lungomare dei Navigatori"
+              },
+              "tip_5lang": {
+                "de": "Sonniger Spaziergang.",
+                "hu": "Napsütötte sétány.",
+                "ro": "Plimbare însorită.",
+                "en": "Sunny promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittelmeer-Aquarium",
+                "hu": "Földközi-tengeri Akvárium",
+                "ro": "Acvariul Mediteranean",
+                "en": "Mediterranean Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Lokale Meeresbewohner.",
+                "hu": "Helyi tengeri élővilág.",
+                "ro": "Creaturi marine locale.",
+                "en": "Local sea creatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santo Stefano",
+                "hu": "Santo Stefano templom",
+                "ro": "Biserica Santo Stefano",
+                "en": "Santo Stefano Church"
+              },
+              "tip_5lang": {
+                "de": "Kühle Atmosphäre.",
+                "hu": "Hűvös atmoszféra.",
+                "ro": "Atmosferă răcoroasă.",
+                "en": "Cool atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Spanische Festung",
+                "hu": "Spanyol Erőd",
+                "ro": "Fortăreața Spaniolă",
+                "en": "Spanish Fortress"
+              },
+              "tip_5lang": {
+                "de": "Gigantische Aussicht.",
+                "hu": "Hatalmas kilátás.",
+                "ro": "Vedere gigantică.",
+                "en": "Gigantic views."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal für die Gefallenen",
+                "hu": "Hősi emlékmű",
+                "ro": "Monumentul Eroilor",
+                "en": "Monument to the Fallen"
+              },
+              "tip_5lang": {
+                "de": "Historischer Platz.",
+                "hu": "Történelmi tér.",
+                "ro": "Piață istorică.",
+                "en": "Historical square."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Caldaro",
+                "tip": "Fischsuppe aus dem Argentario."
+              },
+              {
+                "name": "Fritto Misto",
+                "tip": "Frittierte Meeresfrüchte am Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Caldaro",
+                "tip": "Argentario halleves specialitás."
+              },
+              {
+                "name": "Fritto Misto",
+                "tip": "Sült tenger gyümölcsei a parton."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Caldaro",
+                "tip": "Supă de pește din Argentario."
+              },
+              {
+                "name": "Fritto Misto",
+                "tip": "Fructe de mare prăjite în port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Caldaro",
+                "tip": "Argentario fish soup specialty."
+              },
+              {
+                "name": "Fritto Misto",
+                "tip": "Fried seafood by the harbor."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Fortezza Bastion",
+                "tip": "Ruhige Ecke mit Fernsicht.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Erődbástya",
+                "tip": "Csendes sarok kilátással.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bastionul Cetății",
+                "tip": "Colț liniștit cu panoramă.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Fortress Bastion",
+                "tip": "Quiet spot with great views.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Fischmarkt",
+                "tip": "Frischer Fang am Morgen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi halpiac",
+                "tip": "Friss fogás reggelente."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața de pește",
+                "tip": "Captură proaspătă dimineața."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Fish Market",
+                "tip": "Fresh catch in the morning."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Festung hat mittags oft Schließzeiten.",
+              "Parken Sie außerhalb des Zentrums."
+            ],
+            "hu": [
+              "Az erőd délben gyakran zárva tart.",
+              "A központon kívül parkolj."
+            ],
+            "ro": [
+              "Cetatea este adesea închisă la prânz.",
+              "Parcați în afara centrului."
+            ],
+            "en": [
+              "The fortress often closes during midday.",
+              "Park outside the town center if possible."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am Hafen unter dem Regenschirm, während die Wellen gegen die Kaimauer schlagen. Mittags bietet das Aquarium den perfekten Schutz vor dem Guss. Am Nachmittag erkunden wir die Festung, deren Mauern bei Regen besonders düster und historisch wirken. Den Abend lassen wir bei den Lichtern des nassen Lungomare ausklingen, wo sich die Masten der Boote im Asphalt spiegeln.",
+            "hu": "Kezdje a reggelt a kikötőben esernyővel, figyelve a szürke tenger morajlását. Délben az akvárium nyújt fedett menedéket a zápor elől. Délután a spanyol erőd falai között barangolunk, melyek ilyenkor még komorabb történelmi hangulatot árasztanak. Az estét a vizes aszfalton megcsillanó kikötői fények és a Lungomare menti párás tengeri levegő zárja le.",
+            "ro": "Începeți dimineața în port cu o umbrelă, privind marea agitată. La prânz, acvariul oferă adăpostul perfect împotriva ploii. După-amiaza explorăm cetatea spaniolă, ale cărei ziduri par și mai impunătoare sub cerul plumburiu. Seara se încheie pe Lungomare, unde luminile portului se reflectă în bălțile de pe asfalt, creând o atmosferă melancolică.",
+            "en": "Start the morning at the harbor with an umbrella, watching the waves crash against the stone. At noon, the aquarium provides the perfect indoor shelter. In the afternoon, explore the Spanish fortress, where the wet stone adds a moody, historical atmosphere. The evening concludes with the harbor lights reflecting on the wet pavement along the Lungomare."
+          },
+          "stops": [
+            {
+              "name": "Old Harbor (Porto Vecchio)",
+              "tip_5lang": {
+                "de": "Unter den Arkaden der Cafés am Hafen trocken bleiben.",
+                "hu": "Húzódjon be a kikötő menti kávézók árkádjai alá.",
+                "ro": "Adăpostiți-vă sub arcadele cafenelelor din port.",
+                "en": "Stay dry under the arcades of the harbor cafes."
+              }
+            },
+            {
+              "name": "Lungomare dei Navigatori",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf dem gepflasterten Gehweg.",
+                "hu": "Vigyázzon a tócsákra a kövezett sétányon.",
+                "ro": "Atenție la bălțile de pe trotuarul pavat.",
+                "en": "Watch out for puddles on the paved walkway."
+              }
+            },
+            {
+              "name": "Mediterranean Aquarium",
+              "tip_5lang": {
+                "de": "Idealer Ort, um einen starken Regenschauer abzuwarten.",
+                "hu": "Ideális helyszín egy nagyobb zápor átvészelésére.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei averse.",
+                "en": "Ideal spot to wait out a heavy rain shower."
+              }
+            },
+            {
+              "name": "Santo Stefano Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für eine kurze Rast.",
+                "hu": "Csendes, száraz helyszín egy rövid pihenőhöz.",
+                "ro": "Un loc liniștit și uscat pentru un scurt popas.",
+                "en": "A quiet, dry place for a short rest."
+              }
+            },
+            {
+              "name": "Spanish Fortress",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Außenstufen der Festung.",
+                "hu": "Vigyázat, az erőd külső lépcsői esőben csúszósak.",
+                "ro": "Atenție, scările exterioare sunt alunecoase pe ploaie.",
+                "en": "Caution, the fortress exterior steps are slippery when wet."
+              }
+            },
+            {
+              "name": "Monument to the Fallen",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Stopp, da es keinen Unterstand gibt.",
+                "hu": "Csak rövid megálló, mivel nincs fedett rész.",
+                "ro": "Doar un popas scurt, nefiind zonă acoperită.",
+                "en": "Only a brief stop as there is no shelter here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Hafenspaziergänge.",
+              "Das Aquarium ist der beste Rückzugsort bei Starkregen.",
+              "Die Festungsmauern können bei Nässe sehr rutschig sein.",
+              "Nutzen Sie die Arkaden am Porto Vecchio als Schutz.",
+              "Ein Taschenschirm ist bei dem Küstenwind unerlässlich."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a kikötői sétákhoz.",
+              "Az akvárium a legjobb menedék heves esőzés esetén.",
+              "Az erőd falai és lépcsői nedvesen nagyon csúszhatnak.",
+              "Használja a Porto Vecchio árkádjait esővédőként.",
+              "A tengeri szél miatt az összecsukható esernyő kötelező."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru plimbările în port.",
+              "Acvariul este cel mai bun refugiu în caz de ploaie torențială.",
+              "Zidurile și scările cetății pot fi foarte alunecoase.",
+              "Folosiți arcadele din Porto Vecchio pentru a rămâne uscați.",
+              "O umbrelă rezistentă la vânt este indispensabilă pe coastă."
+            ],
+            "en": [
+              "Wear waterproof shoes for the harbor walks.",
+              "The aquarium is the best refuge during heavy downpours.",
+              "Fortress walls and steps can be very slippery when wet.",
+              "Use the arcades at Porto Vecchio as rain shelter.",
+              "A wind-resistant umbrella is essential on the coast."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne geht klar über dem alten Hafen auf, während die Tramontana-Winde wehen. Mittags wärmen wir uns im Aquarium auf und beobachten die Meeresbewohner. Der Nachmittag gehört der Festung, von der aus man eine weite Sicht auf das glitzernde, kalte Meer hat. Da es früh dunkel wird, genießen wir den Sonnenuntergang gegen 17:00 Uhr direkt von der Kaimauer aus.",
+            "hu": "A téli nap tisztán kél a régi kikötő felett, miközben fúj a hideg Tramontana szél. Délben az akvárium melegében pihenünk meg. Délután az erőd látogatása során elénk tárul a csillogó, jéghideg tenger és Giglio szigete. A korai sötétedés miatt a naplementét már 17:00 körül megcsodálhatjuk a mólóról.",
+            "ro": "Soarele de iarnă răsare clar peste portul vechi, în timp ce vântul Tramontana bate rece. La prânz ne încălzim în acvariu, observând creaturile marine. După-amiaza vizităm cetatea, de unde avem o vedere panoramică asupra mării reci și sclipitoare. Deoarece se întunecă devreme, admirăm apusul în jurul orei 17:00 direct de pe chei.",
+            "en": "The winter sun rises clearly over the old harbor while the cold Tramontana wind blows. At noon, warm up inside the aquarium. The afternoon is spent at the fortress, offering crystal-clear views of the sparkling cold sea. Since it gets dark early, enjoy the sunset around 17:00 directly from the harbor pier."
+          },
+          "stops": [
+            {
+              "name": "Old Harbor (Porto Vecchio)",
+              "tip_5lang": {
+                "de": "Warme Kleidung wegen des kalten Seewinds nötig.",
+                "hu": "Meleg öltözet szükséges a hideg tengeri szél miatt.",
+                "ro": "Haine groase necesare din cauza vântului rece de mare.",
+                "en": "Warm clothing needed due to the cold sea breeze."
+              }
+            },
+            {
+              "name": "Lungomare dei Navigatori",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht auf die Insel Giglio.",
+                "hu": "Élvezze a kristálytiszta kilátást Giglio szigetére.",
+                "ro": "Bucurați-vă de vederea clară spre insula Giglio.",
+                "en": "Enjoy the crystal-clear view of Giglio Island."
+              }
+            },
+            {
+              "name": "Mediterranean Aquarium",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Ort für die Mittagszeit.",
+                "hu": "Jól fűtött helyszín a déli órákra.",
+                "ro": "Un loc bine încălzit pentru orele prânzului.",
+                "en": "A well-heated location for midday."
+              }
+            },
+            {
+              "name": "Santo Stefano Church",
+              "tip_5lang": {
+                "de": "Häufig finden hier im Winter kleine Konzerte statt.",
+                "hu": "Télen gyakran tartanak itt kisebb koncerteket.",
+                "ro": "Iarna se organizează adesea mici concerte aici.",
+                "en": "Small concerts are often held here in winter."
+              }
+            },
+            {
+              "name": "Spanish Fortress",
+              "tip_5lang": {
+                "de": "Prüfen Sie die kürzeren Winter-Öffnungszeiten.",
+                "hu": "Ellenőrizze a rövidebb téli nyitvatartást.",
+                "ro": "Verificați programul de iarnă, care este mai scurt.",
+                "en": "Check the shorter winter opening hours."
+              }
+            },
+            {
+              "name": "Monument to the Fallen",
+              "tip_5lang": {
+                "de": "Bester Platz für den frühen Sonnenuntergang (17:00).",
+                "hu": "Legjobb hely a korai naplemente (17:00) nézésére.",
+                "ro": "Cel mai bun loc pentru apusul timpuriu (17:00).",
+                "en": "Best spot for the early sunset (17:00)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Wind (Tramontana) kann im Winter sehr schneidend sein.",
+              "Die Sonne geht bereits gegen 17:00 Uhr unter.",
+              "Viele Restaurants am Hafen haben Winterpause.",
+              "Die Sicht auf die Inseln ist im Winter oft klarer.",
+              "Zwiebelprinzip bei der Kleidung ist empfehlenswert."
+            ],
+            "hu": [
+              "A Tramontana szél télen nagyon metsző lehet.",
+              "A nap már 17:00 körül lemegy, tervezzen korábbra.",
+              "Számos kikötői étterem zárva tarthat télen.",
+              "A kilátás a szigetekre télen gyakran sokkal tisztább.",
+              "Réteges öltözködés javasolt a kinti sétákhoz."
+            ],
+            "ro": [
+              "Vântul Tramontana poate fi foarte tăios iarna.",
+              "Soarele apune deja în jurul orei 17:00.",
+              "Multe restaurante din port au pauză de iarnă.",
+              "Vizibilitatea spre insule este adesea mai clară iarna.",
+              "Se recomandă îmbrăcămintea în straturi pentru plimbări."
+            ],
+            "en": [
+              "The Tramontana wind can be very biting in winter.",
+              "Sunset occurs early, around 17:00.",
+              "Many harbor restaurants may be closed for winter.",
+              "Visibility to the islands is often clearer in winter.",
+              "Layered clothing is recommended for outdoor walks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -484,6 +884,326 @@
           "The route to Cala Piccola has steep inclines.",
           "Bring plenty of water."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Eine sportliche Fahrradtour entlang der Panoramastraße des Argentario. Nach dem Besuch der Festung führt der Weg zur versteckten Bucht Cala Piccola, einem der exklusivsten Badestellen der Region. Genießen Sie die wilde Natur und die Meeresbrise, bevor Sie zum Hafen zurückkehren.",
+            "hu": "Sportos biciklitúra az Argentario panorámaútján. Az erőd meglátogatása után az út a rejtett Cala Piccola öbölhöz vezet, amely a régió egyik legexkluzívabb fürdőhelye. Élvezze a vad természetet és a tengeri szellőt, mielőtt visszatérne a kikötőbe.",
+            "ro": "Un tur sportiv cu bicicleta pe drumul panoramic din Argentario. După vizita la cetate, drumul duce spre golful ascuns Cala Piccola, unul dintre cele mai exclusive locuri de baie din regiune. Bucurați-vă de natura sălbatică și briza mării înainte de a reveni în port.",
+            "en": "A sporty bike tour along the panoramic road of Argentario. After visiting the fortress, the path leads to the hidden Cala Piccola cove, one of the region's most exclusive swimming spots. Enjoy the wild nature and sea breeze before returning to the harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lungomare dei Navigatori",
+                "hu": "Lungomare dei Navigatori",
+                "ro": "Lungomare dei Navigatori",
+                "en": "Lungomare dei Navigatori"
+              },
+              "tip_5lang": {
+                "de": "Fahrt am Meer entlang.",
+                "hu": "Bringázás a tengerparton.",
+                "ro": "Pedalat de-a lungul mării.",
+                "en": "Ride along the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Spanische Festung",
+                "hu": "Spanyol Erőd",
+                "ro": "Fortăreața Spaniolă",
+                "en": "Spanish Fortress"
+              },
+              "tip_5lang": {
+                "de": "Steile Anfahrt.",
+                "hu": "Meredek felfelé út.",
+                "ro": "Urcare abruptă.",
+                "en": "Steep climb up."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Piccola",
+                "hu": "Cala Piccola",
+                "ro": "Cala Piccola",
+                "en": "Cala Piccola"
+              },
+              "tip_5lang": {
+                "de": "Baden in der Bucht.",
+                "hu": "Fürdés az öbölben.",
+                "ro": "Baie în golf.",
+                "en": "Swim in the cove."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Hafen",
+                "hu": "Régi kikötő",
+                "ro": "Portul Vechi",
+                "en": "Old Harbor"
+              },
+              "tip_5lang": {
+                "de": "Tour-Ausklang.",
+                "hu": "Túra zárása.",
+                "ro": "Finalul turului.",
+                "en": "Tour finale."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Panificati locali",
+                "tip": "Hefegebäck für das Picknick."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Panificati locali",
+                "tip": "Helyi péksütemények piknikhez."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Panificati locali",
+                "tip": "Patiserie locală pentru picnic."
+              }
+            ],
+            "en": [
+              {
+                "name": "Panificati locali",
+                "tip": "Local pastries for your picnic."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Küstenstraße",
+                "tip": "Wildes Panorama.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parti út",
+                "tip": "Vadon élő panoráma.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Drumul de coastă",
+                "tip": "Panoramă sălbatică.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Coastal Road",
+                "tip": "Wild panoramic views.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bike-Zubehör",
+                "tip": "Läden am Lungomare."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bringás kiegészítők",
+                "tip": "Boltok a sétányon."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Accesorii biciclete",
+                "tip": "Magazine pe Lungomare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bike Gear",
+                "tip": "Shops along the Lungomare."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Strecke nach Cala Piccola hat starke Steigungen.",
+              "Viel Wasser mitnehmen."
+            ],
+            "hu": [
+              "A Cala Piccola felé vezető út meredek.",
+              "Vigyél sok vizet."
+            ],
+            "ro": [
+              "Traseul spre Cala Piccola are pante mari.",
+              "Luați multă apă."
+            ],
+            "en": [
+              "The route to Cala Piccola has steep inclines.",
+              "Bring plenty of water."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf dem glitschigen Lungomare. Wir fahren hinauf zur Festung, wo der nasse Asphalt volle Konzentration verlangt. Die Fahrt nach Cala Piccola bietet dramatische Ausblicke auf die stürmische Küste, bevor wir völlig durchnässt zum Hafen zurückkehren, um uns in einem Café zu trocknen.",
+            "hu": "Az esős biciklizés óvatosságot igényel a csúszós Lungomare sétányon. Feltekerünk az erődhöz, ahol a nedves aszfalt teljes koncentrációt követel. A Cala Piccola felé vezető út drámai kilátást nyújt a viharos partra, mielőtt bőrig ázva visszatérnénk a kikötőbe egy forró italra.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe Lungomare. Urcăm spre cetate, unde asfaltul ud cere concentrare maximă. Drumul spre Cala Piccola oferă vederi dramatice asupra coastei agitate, înainte de a ne întoarce în port pentru a ne usca la o cafenea.",
+            "en": "Cycling in the rain requires caution on the slippery Lungomare. We pedal up to the fortress, where the wet asphalt demands full focus. The ride to Cala Piccola offers dramatic views of the stormy coast before returning soaked to the harbor for a warm drink."
+          },
+          "stops": [
+            {
+              "name": "Lungomare dei Navigatori",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Markierungen auf dem Boden.",
+                "hu": "Vigyázzon a csúszós felfestésekre az úton.",
+                "ro": "Atenție la marcajele rutiere alunecoase.",
+                "en": "Beware of slippery road markings."
+              }
+            },
+            {
+              "name": "Spanish Fortress",
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Regen anstrengend und rutschig.",
+                "hu": "Az emelkedő esőben fárasztó és csúszós.",
+                "ro": "Urcarea este obositoare și alunecoasă pe ploaie.",
+                "en": "The climb is strenuous and slippery in the rain."
+              }
+            },
+            {
+              "name": "Cala Piccola",
+              "tip_5lang": {
+                "de": "Schutz suchen unter den Felsvorsprüngen möglich.",
+                "hu": "Menedéket kereshet a sziklakiszögellések alatt.",
+                "ro": "Vă puteți adăposti sub proeminențele stâncoase.",
+                "en": "Shelter can be found under rocky overhangs."
+              }
+            },
+            {
+              "name": "Old Harbor",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter den Arkaden ab.",
+                "hu": "Parkolja le a biciklit az árkádok alatt.",
+                "ro": "Parcați bicicleta sub arcade.",
+                "en": "Park your bike under the arcades."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei Regen unerlässlich.",
+              "Vermeiden Sie scharfe Bremsmanöver auf nassem Asphalt.",
+              "Tragen Sie eine gut sichtbare Regenjacke.",
+              "Die Küstenstraße kann bei Sturm Gischt abbekommen.",
+              "Prüfen Sie den Reifendruck für besseren Grip."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen az esős tekeréshez.",
+              "Kerülje a hirtelen fékezést a nedves aszfalton.",
+              "Viseljen jól látható, fényvisszaverős esőkabátot.",
+              "A parti úton viharban kicsaphat a tengeri permet.",
+              "Ellenőrizze a guminyomást a jobb tapadás érdekében."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pe ploaie.",
+              "Evitați frânările bruște pe asfaltul ud.",
+              "Purtați o pelerină de ploaie reflectorizantă.",
+              "Pe drumul de coastă pot apărea stropi de la valuri.",
+              "Verificați presiunea anvelopelor pentru aderență."
+            ],
+            "en": [
+              "Mudguards are essential for riding in the rain.",
+              "Avoid sudden braking on wet asphalt.",
+              "Wear a high-visibility rain jacket.",
+              "Sea spray may blow onto the coastal road during storms.",
+              "Check tire pressure for better grip on wet surfaces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Morgenluft begleitet uns auf dem Weg entlang des Lungomare. Der Anstieg zur Festung bringt den Kreislauf in Schwung und belohnt mit glasklarer Fernsicht. Die Fahrt nach Cala Piccola ist im Winter einsam und friedlich, mit dem Rauschen der Wellen als einzigem Begleiter. Wir beenden die Tour im Hafen, bevor die Kälte nach Sonnenuntergang einsetzt.",
+            "hu": "Friss reggeli levegő kísér minket a Lungomare mentén. Az erődöz vezető emelkedő segít bemelegedni, a jutalom pedig a kristálytiszta kilátás. A Cala Piccola felé vezető út télen néptelen és békés, csak a hullámok morajlása hallatszik. A túrát a kikötőben fejezzük be, mielőtt a naplemente utáni hideg beállna.",
+            "ro": "Aerul proaspăt de dimineață ne însoțește de-a lungul Lungomare. Urcarea spre cetate ne ajută să ne încălzim, iar recompensa este vizibilitatea perfectă. Drumul spre Cala Piccola este pustiu și liniștit iarna, cu sunetul valurilor ca unic însoțitor. Încheiem turul în port înainte de lăsarea frigului de după apus.",
+            "en": "Fresh morning air accompanies us along the Lungomare. The climb to the fortress gets the blood pumping, rewarded with crystal-clear views. The ride to Cala Piccola is deserted and peaceful in winter, with only the sound of waves. We finish the tour at the harbor before the post-sunset chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Lungomare dei Navigatori",
+              "tip_5lang": {
+                "de": "Handschuhe gegen den eisigen Fahrtwind tragen.",
+                "hu": "Viseljen kesztyűt a fagyos menetszél ellen.",
+                "ro": "Purtați mănuși împotriva vântului înghețat.",
+                "en": "Wear gloves against the biting headwind."
+              }
+            },
+            {
+              "name": "Spanish Fortress",
+              "tip_5lang": {
+                "de": "Oben ist es deutlich windiger als im Hafen.",
+                "hu": "Fent sokkal szelesebb az idő, mint a kikötőben.",
+                "ro": "Sus vântul este mult mai puternic decât în port.",
+                "en": "It is significantly windier up here than in the harbor."
+              }
+            },
+            {
+              "name": "Cala Piccola",
+              "tip_5lang": {
+                "de": "Die Straße ist im Winter fast verkehrsfrei.",
+                "hu": "Az út télen szinte forgalommentes.",
+                "ro": "Drumul este aproape liber de trafic iarna.",
+                "en": "The road is almost traffic-free in winter."
+              }
+            },
+            {
+              "name": "Old Harbor",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor 16:30 Uhr.",
+                "hu": "Fejezze be a túrát 16:30 előtt.",
+                "ro": "Încheiați tura înainte de ora 16:30.",
+                "en": "Finish your ride before 16:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Windstopper-Kleidung für die Abfahrten.",
+              "Das Licht wird im Winter schon früh schwach.",
+              "Achten Sie auf vereiste Stellen in schattigen Kurven.",
+              "Ein heißer Tee in der Thermoskanne ist ideal.",
+              "Stirnlampe mitnehmen, falls es später wird."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot a lejtőkhöz.",
+              "A látási viszonyok korán romlanak télen.",
+              "Ügyeljen a jeges foltokra az árnyékos kanyarokban.",
+              "Egy termosz forró tea ideális kísérő.",
+              "Vigyen fejlámpát, ha elhúzódna a túra."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt pentru coborâri.",
+              "Lumina scade rapid în intensitate iarna.",
+              "Atenție la porțiunile înghețate în curbele umbrite.",
+              "Un termos cu ceai fierbinte este ideal.",
+              "Luați o lanternă frontală în caz că se întunecă."
+            ],
+            "en": [
+              "Wear windstopper clothing for the descents.",
+              "Light levels drop quickly in the afternoon.",
+              "Watch out for icy patches in shaded corners.",
+              "A thermos of hot tea is ideal for the trip.",
+              "Take a headlamp in case you get delayed."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -692,6 +1412,326 @@
           "The panoramic road is very narrow, drive carefully.",
           "Public parking at Cala Piccola is very limited."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie den Monte Argentario mit dem Auto. Von der Festung in Porto Santo Stefano geht es hinauf zum abgelegenen Passionistenkloster mit Blick auf den Orbetello-Tombolo. Danach führt die Panoramastraße zur idyllischen Cala Piccola, perfekt für einen ausgedehnten Badestopp in azurblauem Wasser.",
+            "hu": "Fedezze fel a Monte Argentariót autóval. A Porto Santo Stefanó-i erődtől menjen fel az elszigetelt Passzionista kolostorhoz, ahonnan kilátás nyílik az Orbetello-tombolóra. Ezután a panorámaút az idilli Cala Piccolához vezet, amely tökéletes egy hosszabb fürdőzésre az azúrkék vízben.",
+            "ro": "Explorați Monte Argentario cu mașina. De la fortăreața din Porto Santo Stefano urcați la mănăstirea izolată a Passioniștilor, cu vedere spre limba de pământ Orbetello. Apoi, drumul panoramic duce la idilica Cala Piccola, perfectă pentru o oprire lungă de baie în apa azurie.",
+            "en": "Explore Mount Argentario by car. From the fortress in Porto Santo Stefano, head up to the secluded Passionist Monastery with views over the Orbetello tombolo. Then, the panoramic road leads to the idyllic Cala Piccola, perfect for an extended swim in azure waters."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spanische Festung",
+                "hu": "Spanyol Erőd",
+                "ro": "Fortăreața Spaniolă",
+                "en": "Spanish Fortress"
+              },
+              "tip_5lang": {
+                "de": "Parkplatz direkt unterhalb.",
+                "hu": "Parkoló közvetlenül alatta.",
+                "ro": "Parcare chiar dedesubt.",
+                "en": "Parking right below."
+              }
+            },
+            {
+              "name": {
+                "de": "Passonistenkloster",
+                "hu": "Passzionisták kolostora",
+                "ro": "Mănăstirea Passioniștilor",
+                "en": "Passionist Monastery"
+              },
+              "tip_5lang": {
+                "de": "Ruhe am Berg Monte Argentario.",
+                "hu": "Csend a Monte Argentario hegyen.",
+                "ro": "Liniște pe muntele Argentario.",
+                "en": "Peace on Mount Argentario."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Piccola",
+                "hu": "Cala Piccola",
+                "ro": "Cala Piccola",
+                "en": "Cala Piccola"
+              },
+              "tip_5lang": {
+                "de": "Exklusiver Strandzugang.",
+                "hu": "Exkluzív strandbelépés.",
+                "ro": "Acces exclusiv la plajă.",
+                "en": "Exclusive beach access."
+              }
+            },
+            {
+              "name": {
+                "de": "Lungomare dei Navigatori",
+                "hu": "Lungomare dei Navigatori",
+                "ro": "Lungomare dei Navigatori",
+                "en": "Lungomare dei Navigatori"
+              },
+              "tip_5lang": {
+                "de": "Abendspaziergang.",
+                "hu": "Esti séta.",
+                "ro": "Plimbare de seară.",
+                "en": "Evening stroll."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bostrengo",
+                "tip": "Süße Spezialität aus Reis."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bostrengo",
+                "tip": "Édes rizsspecialitás."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bostrengo",
+                "tip": "Specialitate dulce cu orez."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bostrengo",
+                "tip": "Sweet rice specialty."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Klostergarten",
+                "tip": "Spirituelle Stille.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kolostorkert",
+                "tip": "Spirituális csend.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina mănăstirii",
+                "tip": "Liniște spirituală.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Monastery Garden",
+                "tip": "Spiritual silence.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Klosterlikör",
+                "tip": "Verkauf im Klosterladen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kolostori likőr",
+                "tip": "Kapható a kolostori boltban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lichior monahal",
+                "tip": "Vândut la magazinul mănăstirii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Monastery Liqueur",
+                "tip": "Available at the monastery shop."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Panoramastraße ist sehr eng, vorsichtig fahren.",
+              "In Cala Piccola gibt es nur wenig öffentliche Parkplätze."
+            ],
+            "hu": [
+              "A panorámaút nagyon szűk, vezess óvatosan.",
+              "Cala Piccolán kevés a nyilvános parkolóhely."
+            ],
+            "ro": [
+              "Drumul panoramic este foarte îngust, conduceți prudent.",
+              "În Cala Piccola sunt puține locuri de parcare publice."
+            ],
+            "en": [
+              "The panoramic road is very narrow, drive carefully.",
+              "Public parking at Cala Piccola is very limited."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Panoramafahrt durch den Regen. Von der Festung aus blicken wir auf die wolkenverhangene Küste. Der Aufstieg zum Kloster bietet mystische Ansichten im Nebel. In Cala Piccola peitschen die Wellen gegen die Felsen, ein Schauspiel, das man gemütlich vom trockenen Auto aus beobachten kann, bevor wir zum Hafen zurückkehren.",
+            "hu": "Élvezze a panorámaautózást az esőben. Az erődből a felhőkbe burkolózott partvonalat figyelhetjük meg. A kolostorhoz vezető út misztikus látványt nyújt a ködben. Cala Piccolánál a hullámok a szikláknak csapódnak, amit a száraz autóból is kényelmesen nézhetünk, mielőtt visszatérnénk a kikötőbe.",
+            "ro": "Bucurați-vă de drumul panoramic prin ploaie. De la cetate admirăm coasta învăluită în nori. Urcarea spre mănăstire oferă vederi mistice prin ceață. La Cala Piccola, valurile se sparg de stânci, un spectacol ce poate fi admirat din mașină înainte de revenirea în port.",
+            "en": "Enjoy the scenic drive through the rain. From the fortress, observe the cloud-covered coastline. The climb to the monastery offers mystical views in the mist. At Cala Piccola, the waves crash against the rocks, a spectacle you can watch comfortably from your dry car before returning to the harbor."
+          },
+          "stops": [
+            {
+              "name": "Spanish Fortress",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Eingang sind bei Regen meist frei.",
+                "hu": "Az esőben a bejáratnál lévő parkolók általában üresek.",
+                "ro": "Parcările de la intrare sunt de obicei libere pe ploaie.",
+                "en": "Parking spots near the entrance are usually available in the rain."
+              }
+            },
+            {
+              "name": "Passionist Monastery",
+              "tip_5lang": {
+                "de": "Vorsicht vor Nebel auf der schmalen Bergstraße.",
+                "hu": "Vigyázzon a ködre a szűk hegyi úton.",
+                "ro": "Atenție la ceață pe drumul îngust de munte.",
+                "en": "Beware of fog on the narrow mountain road."
+              }
+            },
+            {
+              "name": "Cala Piccola",
+              "tip_5lang": {
+                "de": "Bester Blick auf die Brandung aus dem Auto.",
+                "hu": "A legjobb kilátás a hullámtörésre az autóból.",
+                "ro": "Cea mai bună vedere la valuri din mașină.",
+                "en": "Best view of the surf from inside the car."
+              }
+            },
+            {
+              "name": "Lungomare dei Navigatori",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus am Hafen, um trocken zu bleiben.",
+                "hu": "Használja a kikötői parkolóházat a száraz kijutáshoz.",
+                "ro": "Folosiți parcarea acoperită din port.",
+                "en": "Use the covered parking at the harbor to stay dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Die Bergstraßen können bei Nässe rutschig sein.",
+              "Vermeiden Sie tiefe Pfützen am Straßenrand.",
+              "Das Licht am Tag einschalten für bessere Sichtbarkeit.",
+              "Parkplätze sind im Regen deutlich einfacher zu finden."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "A hegyi utak nedvesen csúszósak lehetnek.",
+              "Kerülje a mély tócsákat az út szélén.",
+              "Kapcsolja be a fényszórót a jobb láthatóságért.",
+              "Esőben sokkal könnyebb parkolóhelyet találni."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de plecare.",
+              "Drumurile de munte pot fi alunecoase pe ploaie.",
+              "Evitați bălțile adânci de pe marginea drumului.",
+              "Aprindeți farurile pentru o mai bună vizibilitate.",
+              "Locurile de parcare sunt mult mai ușor de găsit pe ploaie."
+            ],
+            "en": [
+              "Check your windshield wipers before setting off.",
+              "Mountain roads can be slippery when wet.",
+              "Avoid deep puddles at the road edge.",
+              "Turn on your headlights for better visibility.",
+              "Parking is much easier to find in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Klare Winterluft sorgt für perfekte Sicht auf der Panorama-Route. Die Festung wirkt im kalten Sonnenlicht majestätisch. Der Weg zum Kloster führt durch stille Wälder hinauf zu einem spektakulären Aussichtspunkt. In Cala Piccola genießen wir die Einsamkeit der Nebensaison, bevor wir pünktlich zum Sonnenuntergang am Lungomare ankommen.",
+            "hu": "A tiszta téli levegő tökéletes látási viszonyokat biztosít a panorámaúton. Az erőd fenséges látvány a hideg napsütésben. A kolostorhoz vezető út csendes erdőkön át visz fel a kilátóhoz. Cala Piccolánál élvezzük a holtszezon nyugalmát, majd pont naplementére érünk vissza a Lungomare sétányhoz.",
+            "ro": "Aerul curat de iarnă asigură vizibilitate perfectă pe ruta panoramică. Cetatea pare maiestuoasă în lumina rece a soarelui. Drumul spre mănăstire trece prin păduri liniștite până la un punct de belvedere. La Cala Piccola ne bucurăm de liniștea sezonului rece, revenind pe Lungomare exact la apus.",
+            "en": "The crisp winter air ensures perfect visibility on the panoramic route. The fortress looks majestic in the cold sunlight. The road to the monastery leads through quiet forests to a spectacular viewpoint. At Cala Piccola, enjoy the off-season solitude before returning to the Lungomare just in time for sunset."
+          },
+          "stops": [
+            {
+              "name": "Spanish Fortress",
+              "tip_5lang": {
+                "de": "Fantastische Fernsicht bis zur Insel Elba möglich.",
+                "hu": "Fantasztikus kilátás nyílhat akár Elba szigetéig.",
+                "ro": "Vedere panoramică până la insula Elba.",
+                "en": "Fantastic views as far as Elba Island are possible."
+              }
+            },
+            {
+              "name": "Passionist Monastery",
+              "tip_5lang": {
+                "de": "Hier oben liegt oft Frost; Vorsicht in schattigen Kurven.",
+                "hu": "Itt fent gyakori a dér; vigyázat az árnyékos kanyarokban.",
+                "ro": "Aici sus apare adesea bruma; atenție în curbe.",
+                "en": "Frost is common up here; be careful in shaded corners."
+              }
+            },
+            {
+              "name": "Cala Piccola",
+              "tip_5lang": {
+                "de": "Perfekter Ort für Naturfotografie ohne Touristenmassen.",
+                "hu": "Tökéletes hely természetfotózáshoz tömegek nélkül.",
+                "ro": "Locul perfect pentru fotografii fără turiști.",
+                "en": "Perfect spot for nature photography without the crowds."
+              }
+            },
+            {
+              "name": "Lungomare dei Navigatori",
+              "tip_5lang": {
+                "de": "Abends sind viele Parkplätze an der Straße frei.",
+                "hu": "Este sok utcai parkolóhely szabadon áll.",
+                "ro": "Seara sunt multe locuri de parcare libere pe stradă.",
+                "en": "Many street parking spots are free in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Raureif auf den Bergstraßen morgens.",
+              "Die Fernsicht ist im Winter oft außergewöhnlich gut.",
+              "Heizung im Auto sorgt für Komfort bei Fotostopps.",
+              "Nutzen Sie das klare Licht für Landschaftsaufnahmen.",
+              "Achten Sie auf Wildtiere, die im Winter die Straße queren."
+            ],
+            "hu": [
+              "Reggelente ügyeljen a zúzmarára a hegyi utakon.",
+              "A távoli kilátás télen gyakran kivételesen jó.",
+              "Az autó fűtése kényelmessé teszi a fotómegállókat.",
+              "Használja ki a tiszta fényt a tájképfotózáshoz.",
+              "Vigyázzon a télen az úton átkelő vadállatokra."
+            ],
+            "ro": [
+              "Atenție la chiciura de pe drumurile de munte dimineața.",
+              "Vizibilitatea la distanță este adesea excelentă iarna.",
+              "Căldura din mașină oferă confort la opririle foto.",
+              "Profitați de lumina clară pentru fotografii de peisaj.",
+              "Atenție la animalele sălbatice care pot traversa drumul."
+            ],
+            "en": [
+              "Watch out for frost on mountain roads in the morning.",
+              "Distant visibility is often exceptionally good in winter.",
+              "Car heating ensures comfort during photo stops.",
+              "Take advantage of the clear light for landscape shots.",
+              "Watch for wildlife crossing the road in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -900,6 +1940,326 @@
           "Tickets are available at the harbor bar.",
           "The bus connects Porto Santo Stefano with Orbetello."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Porto Santo Stefano lässt sich gut mit dem lokalen Linienbus und zu Fuß erkunden. Besuchen Sie das Aquarium am Lungomare und steigen Sie dann zur historischen Festung hinauf. Ein entspannter Nachmittag am Porto Vecchio erlaubt es, die Seele baumeln zu lassen, während die Fischer ihren Fang ausladen.",
+            "hu": "Porto Santo Stefano jól felfedezhető helyi buszokkal és gyalog. Látogassa meg az Akváriumot a Lungomarén, majd menjen fel a történelmi erődhöz. Egy pihentető délután a Porto Vecchión lehetővé teszi a kikapcsolódást, miközben a halászok kirakodják fogásukat.",
+            "ro": "Porto Santo Stefano poate fi explorat bine cu autobuzul local și pe jos. Vizitați acvariul de pe Lungomare și urcați apoi la fortăreața istorică. O după-amiază relaxantă în Porto Vecchio vă permite să vă deconectați în timp ce pescarii își descarcă prada.",
+            "en": "Porto Santo Stefano is easy to explore using local buses and on foot. Visit the Aquarium on the Lungomare and then head up to the historic fortress. A relaxed afternoon at Porto Vecchio lets you unwind while watching fishermen unload their daily catch."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lungomare dei Navigatori",
+                "hu": "Lungomare dei Navigatori",
+                "ro": "Lungomare dei Navigatori",
+                "en": "Lungomare dei Navigatori"
+              },
+              "tip_5lang": {
+                "de": "Zentrale Bushaltestelle.",
+                "hu": "Központi buszmegálló.",
+                "ro": "Stație centrală de bus.",
+                "en": "Central bus stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittelmeer-Aquarium",
+                "hu": "Földközi-tengeri Akvárium",
+                "ro": "Acvariul Mediteranean",
+                "en": "Mediterranean Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Ideal für Familien.",
+                "hu": "Ideális családoknak.",
+                "ro": "Ideal pentru familii.",
+                "en": "Ideal for families."
+              }
+            },
+            {
+              "name": {
+                "de": "Spanische Festung",
+                "hu": "Spanyol Erőd",
+                "ro": "Fortăreața Spaniolă",
+                "en": "Spanish Fortress"
+              },
+              "tip_5lang": {
+                "de": "Vom Zentrum aus erreichbar.",
+                "hu": "A központból elérhető.",
+                "ro": "Accesibil din centru.",
+                "en": "Accessible from the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Hafen",
+                "hu": "Régi kikötő",
+                "ro": "Portul Vechi",
+                "en": "Old Harbor"
+              },
+              "tip_5lang": {
+                "de": "Gelato genießen.",
+                "hu": "Fagyizz a kikötőben.",
+                "ro": "Mănâncă înghețată în port.",
+                "en": "Enjoy some gelato."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Scampi local",
+                "tip": "Frisch zubereitet am Lungomare."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi scampi",
+                "tip": "Frissen készítve a Lungomarén."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Scampi locali",
+                "tip": "Gătiți proaspăt pe Lungomare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Scampi",
+                "tip": "Freshly prepared on the Lungomare."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Molo Turistico",
+                "tip": "Sicht auf die Yachten.",
+                "emoji": "🚢"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Molo Turistico",
+                "tip": "Kilátás a jachtokra.",
+                "emoji": "🚢"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Molo Turistico",
+                "tip": "Vedere la iahturi.",
+                "emoji": "🚢"
+              }
+            ],
+            "en": [
+              {
+                "name": "Tourist Pier",
+                "tip": "Watch the yachts.",
+                "emoji": "🚢"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Korallenschmuck",
+                "tip": "In den kleinen Gassen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Korall ékszerek",
+                "tip": "A kis utcákban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bijuterii din corali",
+                "tip": "În străduțele mici."
+              }
+            ],
+            "en": [
+              {
+                "name": "Coral Jewelry",
+                "tip": "In the small alleys."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Fahrkarten gibt es in der Bar am Hafen.",
+              "Der Bus verbindet Porto Santo Stefano mit Orbetello."
+            ],
+            "hu": [
+              "Jegyeket a kikötői bárban vehetsz.",
+              "A busz összeköti Porto Santo Stefanót Orbetellóval."
+            ],
+            "ro": [
+              "Bilete găsiți la barul din port.",
+              "Autobuzul leagă Porto Santo Stefano de Orbetello."
+            ],
+            "en": [
+              "Tickets are available at the harbor bar.",
+              "The bus connects Porto Santo Stefano with Orbetello."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir bequem die Sehenswürdigkeiten, während der Regen gegen die Scheiben prasselt. Das Aquarium ist der ideale trockene Stopp am Mittag. Nachmittags bringt uns der Transit hoch zur Festung, sodass wir den steilen, nassen Weg nicht zu Fuß bewältigen müssen. Wir beenden den Tag sicher und trocken am alten Hafen.",
+            "hu": "Busszal kényelmesen elérjük a látnivalókat, miközben az eső veri az ablakot. Az akvárium ideális száraz megálló délben. Délután a tömegközlekedés felvisz minket az erődhöz, így megspóroljuk a meredek, vizes gyalogutat. A napot biztonságban és szárazon fejezzük be a régi kikötőnél.",
+            "ro": "Cu autobuzul ajungem confortabil la obiective în timp ce plouă. Acvariul este oprirea ideală la prânz. După-amiaza, transportul public ne duce sus la cetate, evitând drumul abrupt și ud pe jos. Încheiem ziua la adăpost în portul vechi.",
+            "en": "By bus, we reach the sights comfortably while the rain beats against the windows. The aquarium is the ideal dry stop at noon. In the afternoon, transit takes us up to the fortress, saving us from the steep, wet walk. We finish the day safe and dry at the old harbor."
+          },
+          "stops": [
+            {
+              "name": "Lungomare dei Navigatori",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen haben meist ein schützendes Dach.",
+                "hu": "A buszmegállók többnyire fedettek, védenek az esőtől.",
+                "ro": "Stațiile de autobuz sunt în mare parte acoperite.",
+                "en": "The bus stops mostly have protective roofs."
+              }
+            },
+            {
+              "name": "Mediterranean Aquarium",
+              "tip_5lang": {
+                "de": "Direkt vor dem Eingang gibt es eine Haltestelle.",
+                "hu": "Közvetlenül a bejárat előtt található egy megálló.",
+                "ro": "Există o stație chiar în fața intrării.",
+                "en": "There is a stop right in front of the entrance."
+              }
+            },
+            {
+              "name": "Spanish Fortress",
+              "tip_5lang": {
+                "de": "Der Bus spart Ihnen den rutschigen Aufstieg.",
+                "hu": "A busz megkíméli önt a csúszós emelkedőtől.",
+                "ro": "Autobuzul vă scutește de urcarea alunecoasă.",
+                "en": "The bus saves you from the slippery climb."
+              }
+            },
+            {
+              "name": "Old Harbor",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Haltestelle zu den Arkaden.",
+                "hu": "Rövid séta a megállótól az árkádokig.",
+                "ro": "Drum scurt de la stație până la arcade.",
+                "en": "Short walk from the stop to the arcades."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan online bei Regen.",
+              "Tragen Sie Kleidung, die schnell trocknet.",
+              "Halten Sie Kleingeld oder eine App für Tickets bereit.",
+              "Busse können bei starkem Regen etwas Verspätung haben.",
+              "Nutzen Sie die Wartezeiten für einen Kaffee im Trockenen."
+            ],
+            "hu": [
+              "Esőben ellenőrizze online a buszmenetrendet.",
+              "Viseljen gyorsan száradó ruházatot.",
+              "Készítsen elő aprópénzt vagy mobilappot a jegyhez.",
+              "Heves esőben a buszok kicsit késhetnek.",
+              "Használja ki a várakozási időt egy kávéra fedett helyen."
+            ],
+            "ro": [
+              "Verificați programul autobuzelor online pe ploaie.",
+              "Purtați haine care se usucă rapid.",
+              "Pregătiți mărunt sau o aplicație pentru bilete.",
+              "Autobuzele pot avea întârzieri pe ploaie torențială.",
+              "Folosiți timpul de așteptare pentru o cafea la adăpost."
+            ],
+            "en": [
+              "Check the bus schedule online when it rains.",
+              "Wear clothing that dries quickly.",
+              "Have small change or a mobile app ready for tickets.",
+              "Buses may experience slight delays in heavy rain.",
+              "Use waiting times for a coffee in a dry spot."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winterbus bringt uns durch die ruhigen Straßen von Porto Santo Stefano. Das Aquarium bietet mittags einen angenehm temperierten Aufenthalt. Die Fahrt zur Festung am Nachmittag eröffnet weite Ausblicke auf das winterliche Mittelmeer. Da die Busse seltener fahren, planen wir unsere Rückkehr zum Hafen pünktlich vor der Abendkälte.",
+            "hu": "A téli busz Porto Santo Stefano csendes utcáin visz keresztül minket. Az akvárium délben kellemes hőmérsékletű pihenőt nyújt. Az erődöz tartó délutáni út során csodás kilátás nyílik a téli tengerre. Mivel a buszok ritkábban járnak, tervezzük meg a visszautat a kikötőbe az esti hideg előtt.",
+            "ro": "Autobuzul de iarnă ne poartă prin străzile liniștite din Porto Santo Stefano. Acvariul oferă un popas cu temperatură plăcută la prânz. Drumul spre cetate oferă vederi spectaculoase spre marea de iarnă. Deoarece autobuzele circulă mai rar, planificăm revenirea în port înainte de frigul serii.",
+            "en": "The winter bus takes us through the quiet streets of Porto Santo Stefano. The aquarium offers a pleasantly tempered stay at noon. The afternoon trip to the fortress opens up wide views of the wintry Mediterranean. Since buses run less frequently, plan your return to the harbor before the evening chill."
+          },
+          "stops": [
+            {
+              "name": "Lungomare dei Navigatori",
+              "tip_5lang": {
+                "de": "Warten Sie in einem nahen Café auf den Bus.",
+                "hu": "Várja a buszt egy közeli kávézóban.",
+                "ro": "Așteptați autobuzul într-o cafenea din apropiere.",
+                "en": "Wait for the bus in a nearby cafe."
+              }
+            },
+            {
+              "name": "Mediterranean Aquarium",
+              "tip_5lang": {
+                "de": "Idealer Ort, um sich zwischen zwei Bussen aufzuwärmen.",
+                "hu": "Ideális helyszín felmelegedni két busz között.",
+                "ro": "Locul ideal pentru a vă încălzi între două autobuze.",
+                "en": "Ideal spot to warm up between two buses."
+              }
+            },
+            {
+              "name": "Spanish Fortress",
+              "tip_5lang": {
+                "de": "Beachten Sie die selteneren Busverbindungen im Winter.",
+                "hu": "Ügyeljen a ritkább téli buszjáratokra.",
+                "ro": "Atenție la frecvența redusă a autobuzelor iarna.",
+                "en": "Note the less frequent bus connections in winter."
+              }
+            },
+            {
+              "name": "Old Harbor",
+              "tip_5lang": {
+                "de": "Letzte Busse fahren oft schon gegen 19:00 Uhr.",
+                "hu": "Az utolsó buszok gyakran már 19:00 körül elmennek.",
+                "ro": "Ultimele autobuze pleacă adesea în jurul orei 19:00.",
+                "en": "Last buses often depart around 19:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Winterfahrplan (Orario Invernale) gilt.",
+              "Busse sind im Winter gut beheizt.",
+              "Planen Sie Pufferzeiten für die Rückfahrt ein.",
+              "Nach 17:00 Uhr sinken die Temperaturen stark.",
+              "Fragen Sie den Fahrer nach der letzten Rückfahrt."
+            ],
+            "hu": [
+              "A téli menetrend (Orario Invernale) van érvényben.",
+              "A buszok télen jól fűtöttek.",
+              "Hagyjon rá időt a visszautazásra a ritkább járatok miatt.",
+              "17:00 után a hőmérséklet hirtelen leesik.",
+              "Kérdezze meg a sofőrt az utolsó visszajáratról."
+            ],
+            "ro": [
+              "Se aplică programul de iarnă (Orario Invernale).",
+              "Autobuzele sunt bine încălzite iarna.",
+              "Planificați timp suplimentar pentru drumul de întoarcere.",
+              "După ora 17:00 temperaturile scad brusc.",
+              "Întrebați șoferul despre ultima cursă de întoarcere."
+            ],
+            "en": [
+              "The winter schedule (Orario Invernale) is in effect.",
+              "Buses are well-heated in winter.",
+              "Allow extra time for return trips due to fewer services.",
+              "Temperatures drop sharply after 17:00.",
+              "Confirm the time of the last return bus with the driver."
+            ]
+          }
+        }
       }
     }
   }

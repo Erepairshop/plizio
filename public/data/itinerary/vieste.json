@@ -303,6 +303,434 @@
           "The afternoon siesta is strictly observed here.",
           "Sunsets at Pizzomunno are truly magical."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am legendären Pizzomunno-Felsen. Der Vormittag führt Sie hinauf zum Svevo-Schloss und in die romanische Kathedrale.\n\nMittags schlendern Sie durch die kalkweißen Gassen der Altstadt und besuchen das faszinierende Muschelmuseum. Kosten Sie lokale Olivenöl-Spezialitäten.\n\nDer Nachmittag bringt Sie zur Kirche San Francesco, die dramatisch über der Adria thront.\n\nBeenden Sie Ihre Wanderung mit einem Blick auf den Leuchtturm bei Sonnenuntergang, während die Lichter der Stadt zu funkeln beginnen.",
+            "hu": "Kezdje a napot a legendás Pizzomunno sziklánál. A délelőtt a Svevo várhoz és a román stílusú székesegyházhoz vezet.\n\nDélben sétáljon az óváros hófehér házai között, és látogassa meg a különleges kagylómúzeumot. Kóstolja meg a helyi olívaolajat.\n\nA délután a Szent Ferenc-templomhoz kalauzolja, amely drámaian magasodik az Adriai-tenger fölé.\n\nZárja a túrát a világítótorony látványával a naplementében, ahogy a város fényei lassan kigyúlnak.",
+            "ro": "Începeți ziua la legendara stâncă Pizzomunno. Dimineața vă poartă spre Castelul Svevo și catedrala romanică.\n\nLa prânz, plimbați-vă pe străduțele albe ca varul ale centrului vechi și vizitați fascinantul muzeu de scoici. Gustați specialitățile locale cu ulei de măsline.\n\nDupă-amiaza vă aduce la biserica San Francesco, cocoțată dramatic deasupra Mării Adriatice.\n\nÎncheiați plimbarea cu o vedere spre far la apus, în timp ce luminile orașului încep să sclipească.",
+            "en": "Start your day at the legendary Pizzomunno rock. Spend your morning climbing up to the Svevo Castle and visiting the Romanesque Cathedral.\n\nAt midday, stroll through the lime-white alleys of the old town and visit the fascinating shell museum. Taste local olive oil specialties.\n\nIn the afternoon, head to the Church of San Francesco, dramatically perched over the Adriatic Sea.\n\nEnd your walk with a view of the lighthouse at sunset, as the city lights begin to twinkle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pizzomunno",
+                "hu": "Pizzomunno szikla",
+                "ro": "Stânca Pizzomunno",
+                "en": "Pizzomunno"
+              },
+              "tip_5lang": {
+                "de": "Das Wahrzeichen von Vieste am Strand.",
+                "hu": "Vieste jelképe a tengerparton.",
+                "ro": "Simbolul orașului Vieste pe plajă.",
+                "en": "The iconic limestone monolith on the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Svevo Schloss",
+                "hu": "Svevo vár",
+                "ro": "Castelul Svevo",
+                "en": "Castello Svevo"
+              },
+              "tip_5lang": {
+                "de": "Militärfestung mit Panoramablick.",
+                "hu": "Katonai erőd panorámás kilátással.",
+                "ro": "Fortăreață militară cu vedere panoramică.",
+                "en": "Military fortress offering panoramic views."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Santa Maria Assunta",
+                "hu": "Szűz Mária Mennybevétele székesegyház",
+                "ro": "Catedrala Sfânta Maria",
+                "en": "Cattedrale di Santa Maria Assunta"
+              },
+              "tip_5lang": {
+                "de": "Eine der ältesten romanischen Kirchen Apuliens.",
+                "hu": "Puglia egyik legrégebbi román stílusú temploma.",
+                "ro": "Una dintre cele mai vechi biserici romanice din Puglia.",
+                "en": "One of the oldest Romanesque churches in Puglia."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Zentrum",
+                "hu": "Óváros (Centro Storico)",
+                "ro": "Centrul Istoric",
+                "en": "Old Town (Centro Storico)"
+              },
+              "tip_5lang": {
+                "de": "Weiße Häuser und enge Treppen zum Meer.",
+                "hu": "Fehér házak és szűk lépcsők a tenger felé.",
+                "ro": "Case albe și scări înguste spre mare.",
+                "en": "White houses and narrow stairs leading to the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Malakologisches Museum",
+                "hu": "Kagylómúzeum",
+                "ro": "Muzeul Malacologic",
+                "en": "Malacological Museum"
+              },
+              "tip_5lang": {
+                "de": "Beeindruckende Sammlung von Muscheln aus aller Welt.",
+                "hu": "Lenyűgöző kagylógyűjtemény a világ minden tájáról.",
+                "ro": "Colecție impresionantă de scoici din toată lumea.",
+                "en": "Impressive collection of shells from all over the world."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Francesco",
+                "hu": "Szent Ferenc-templom",
+                "ro": "Biserica Sfântul Francisc",
+                "en": "Church of San Francesco"
+              },
+              "tip_5lang": {
+                "de": "Ein altes Kloster auf einem Felsvorsprung.",
+                "hu": "Régi kolostor egy sziklás kiszögellésen.",
+                "ro": "O mănăstire veche pe o proeminență stâncoasă.",
+                "en": "An ancient monastery perched on a rocky point."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Vieste",
+                "hu": "Viestei világítótorony",
+                "ro": "Farul din Vieste",
+                "en": "Vieste Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Schöner Blick auf den Leuchtturm von der Landzunge.",
+                "hu": "Gyönyörű kilátás a világítótoronyra a földnyelvről.",
+                "ro": "Vedere frumoasă spre far de pe promontoriu.",
+                "en": "Beautiful view of the lighthouse from the headland."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Orecchiette al ragù di seppia",
+                "tip": "Nudeln mit Tintenfischragout."
+              },
+              {
+                "name": "Bruschetta Garganica",
+                "tip": "Mit lokalem Olivenöl und Tomaten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Orecchiette al ragù di seppia",
+                "tip": "Tészta tintahalraguval, helyi kedvenc."
+              },
+              {
+                "name": "Bruschetta Garganica",
+                "tip": "Helyi olívaolajjal és paradicsommal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Orecchiette al ragù di seppia",
+                "tip": "Paste cu ragu de sepie, deliciu local."
+              },
+              {
+                "name": "Bruschetta Garganica",
+                "tip": "Cu ulei de măsline local și roșii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Orecchiette al ragù di seppia",
+                "tip": "Pasta with cuttlefish ragu, a local favorite."
+              },
+              {
+                "name": "Bruschetta Garganica",
+                "tip": "Topped with local olive oil and tomatoes."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Punta San Francesco",
+                "tip": "Ruhiger Ort mit Meeresbrise.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Punta San Francesco",
+                "tip": "Csendes hely friss tengeri szellővel.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punta San Francesco",
+                "tip": "Loc liniștit cu briză marină.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Punta San Francesco",
+                "tip": "Quiet spot with a refreshing sea breeze.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Olivenholz-Werkstatt",
+                "tip": "Handgeschnitzte Küchenutensilien."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Olívafa műhely",
+                "tip": "Kézzel faragott konyhai eszközök."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Atelier de lemn de măslin",
+                "tip": "Ustensile de bucătărie sculptate manual."
+              }
+            ],
+            "en": [
+              {
+                "name": "Olive Wood Workshop",
+                "tip": "Hand-carved kitchen utensils and decor."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Vieste ist sehr hügelig, stellen Sie sich auf Treppen ein.",
+              "Die Nachmittagsruhe (Siesta) wird hier strikt eingehalten.",
+              "Die Sonnenuntergänge am Pizzomunno sind magisch."
+            ],
+            "hu": [
+              "Vieste nagyon dombos, készüljön sok lépcsőre.",
+              "A délutáni pihenőt (szieszta) itt szigorúan betartják.",
+              "A naplementék a Pizzomunnónál varázslatosak."
+            ],
+            "ro": [
+              "Vieste este foarte deluros, pregătiți-vă pentru multe scări.",
+              "Siesta de după-amiază este respectată cu strictețe aici.",
+              "Apusurile la Pizzomunno sunt magice."
+            ],
+            "en": [
+              "Vieste is very hilly, expect many stairs.",
+              "The afternoon siesta is strictly observed here.",
+              "Sunsets at Pizzomunno are truly magical."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am mystischen Pizzomunno im Regen. Das Castello Svevo und die Kathedrale bieten danach idealen Schutz vor dem Wetter. Mittags laden die überdachten Gassen der Altstadt zum Verweilen ein. Am Nachmittag ist das Malakologische Museum der perfekte Ort im Trockenen. Den Abschluss bildet ein windiger Blick auf den Leuchtturm.",
+            "hu": "Kezdje a napot a ködös Pizzomunno sziklánál. A Castello Svevo és a Katedrális belső terei kiváló menedéket nyújtanak az eső elől. Délben az óváros keskeny, védett utcáin sétálhatunk. Délután a kagylómúzeum kínál száraz és izgalmas programot. A napot a világítótorony látványa zárja a viharos tengerparton.",
+            "ro": "Începeți ziua la Pizzomunno sub ploaie. Castello Svevo și Catedrala oferă apoi adăpostul ideal. La prânz, explorați străzile înguste și parțial acoperite din Centrul Vechi. După-amiaza, Muzeul Malacologic este locul perfect pentru a rămâne la adăpost. Finalul zilei aduce o priveliște vântoasă spre far.",
+            "en": "Start your day at the mystical Pizzomunno in the rain. Castello Svevo and the Cathedral offer ideal shelter afterwards. At noon, the narrow, sheltered alleys of the Old Town are perfect for a stroll. In the afternoon, the Malacological Museum is the best indoor spot. The day concludes with a windy view of the lighthouse."
+          },
+          "stops": [
+            {
+              "name": "Pizzomunno",
+              "tip_5lang": {
+                "de": "Der weiße Monolith wirkt bei grauem Himmel besonders dramatisch.",
+                "hu": "A fehér sziklafal különösen látványos a drámai szürke égbolt alatt.",
+                "ro": "Monolitul alb arată spectaculos sub cerul dramatic de furtună.",
+                "en": "The white monolith looks particularly dramatic under a gray sky."
+              }
+            },
+            {
+              "name": "Castello Svevo",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenhöfe, um dem stärksten Regen zu entgehen.",
+                "hu": "Használja a belső udvarokat, hogy elkerülje a hevesebb esőzést.",
+                "ro": "Folosiți curțile interioare pentru a evita ploaia puternică.",
+                "en": "Use the inner courtyards to escape the heaviest rain."
+              }
+            },
+            {
+              "name": "Cattedrale di Santa Maria Assunta",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und ein perfekter trockener Rückzugsort.",
+                "hu": "A nyugalom szigete és tökéletes száraz menedék a városközpontban.",
+                "ro": "Un loc de liniște și un refugiu uscat perfect în centrul orașului.",
+                "en": "A place of silence and a perfect dry retreat in the city center."
+              }
+            },
+            {
+              "name": "Old Town (Centro Storico)",
+              "tip_5lang": {
+                "de": "Die engen Gassen bieten überraschend guten Schutz vor Wind.",
+                "hu": "A szűk utcák meglepően jó szélvédelmet nyújtanak séta közben.",
+                "ro": "Străzile înguste oferă o protecție surprinzător de bună împotriva vântului.",
+                "en": "The narrow streets offer surprisingly good protection from the wind."
+              }
+            },
+            {
+              "name": "Malacological Museum",
+              "tip_5lang": {
+                "de": "Idealer Zeitpunkt, um die riesige Muschelsammlung ausgiebig zu studieren.",
+                "hu": "Ideális időpont a hatalmas kagylógyűjtemény alapos áttanulmányozására.",
+                "ro": "Moment ideal pentru a studia pe îndelete vasta colecție de scoici.",
+                "en": "Ideal time to thoroughly study the vast shell collection."
+              }
+            },
+            {
+              "name": "Church of San Francesco",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kunstwerke im Inneren, während es draußen regnet.",
+                "hu": "Csodálja meg a belső műalkotásokat, amíg kint esik az eső.",
+                "ro": "Admirați operele de artă din interior în timp ce afară plouă.",
+                "en": "Admire the artworks inside while it rains outside."
+              }
+            },
+            {
+              "name": "Vieste Lighthouse",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Felsen am Hafen bei Nässe.",
+                "hu": "Vigyázzon a kikötő csúszós szikláira nedves időben.",
+                "ro": "Atenție la stâncile alunecoase din port când este umezeală.",
+                "en": "Be careful on the slippery rocks at the harbor when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster in der Altstadt.",
+              "Viele kleine Cafés in der Via Pola bieten gemütliche Plätze bei Regen.",
+              "Die Kathedrale ist ein ausgezeichneter Ort, um einen Schauer abzuwarten.",
+              "Regenschirme können bei starkem Meereswind instabil sein; Regenponchos sind besser."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt az óváros csúszós macskakövei miatt.",
+              "A Via Pola kis kávézói barátságos menedéket nyújtanak esőben.",
+              "A Katedrális kiváló hely egy hirtelen zápor átvészelésére.",
+              "Az erős tengeri szélben az esernyő instabil lehet, a poncsó praktikusabb."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru pietrele alunecoase din Centrul Vechi.",
+              "Micile cafenele de pe Via Pola oferă locuri primitoare pe timp de ploaie.",
+              "Catedrala este un loc excelent pentru a aștepta trecerea unei averse.",
+              "Umbrelele pot fi instabile în vântul puternic de mare; pelerinele sunt mai bune."
+            ],
+            "en": [
+              "Wear waterproof shoes for the slippery cobblestones in the Old Town.",
+              "Small cafés on Via Pola offer cozy spots during the rain.",
+              "The Cathedral is an excellent place to wait out a sudden shower.",
+              "Umbrellas can be unstable in strong sea winds; rain ponchos are better."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie ein einsames Pizzomunno am frischen Wintermorgen. Das Schloss und die Kathedrale strahlen in der tiefstehenden Sonne eine besondere Ruhe aus. Mittags genießen Sie die leere Altstadt ohne Touristenströme. Nachmittags wärmen Sie sich im Muschelmuseum auf. Der Tag endet mit einem klaren Blick auf den Leuchtturm in der frühen Dämmerung.",
+            "hu": "Élje át a Pizzomunno magányát a friss téli reggelen. A vár és a katedrális különleges nyugalmat áraszt az alacsonyan járó napfényben. Délben élvezze az üres óvárost a turistaáradat nélkül. Délután melegedjen fel a kagylómúzeumban. A nap tiszta kilátással zárul a világítótoronyra a korai szürkületben.",
+            "ro": "Experimentați un Pizzomunno solitar într-o dimineață proaspătă de iarnă. Castelul și Catedrala emană o liniște deosebită sub soarele blând. La prânz, bucurați-vă de Centrul Vechi pustiu, fără mulțimi. După-amiaza, încălziți-vă în Muzeul Malacologic. Ziua se încheie cu o vedere clară spre far la amurg.",
+            "en": "Experience a solitary Pizzomunno on a fresh winter morning. The castle and Cathedral radiate a special peace in the low winter sun. At noon, enjoy the empty Old Town without the tourist crowds. In the afternoon, warm up inside the Shell Museum. The day ends with a clear view of the lighthouse in the early twilight."
+          },
+          "stops": [
+            {
+              "name": "Pizzomunno",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wichtig, da der Wind hier im Winter schneidend sein kann.",
+                "hu": "Öltözzön melegen, mert a szél itt télen metsző lehet.",
+                "ro": "Îmbrăcați-vă gros, deoarece vântul poate fi tăios aici iarna.",
+                "en": "Dress warmly, as the wind here can be piercing in winter."
+              }
+            },
+            {
+              "name": "Castello Svevo",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht über die Adria von den Mauern aus.",
+                "hu": "Élvezze a tiszta kilátást az Adriára a várfalakról.",
+                "ro": "Bucurați-vă de vizibilitatea clară peste Marea Adriatică de pe ziduri.",
+                "en": "Enjoy the clear views over the Adriatic from the castle walls."
+              }
+            },
+            {
+              "name": "Cattedrale di Santa Maria Assunta",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier besonders friedlich für eine kurze Rast.",
+                "hu": "Télen különösen békés itt a hangulat egy rövid pihenőhöz.",
+                "ro": "Iarna este o atmosferă deosebit de pașnică pentru un scurt popas.",
+                "en": "In winter, it is particularly peaceful here for a short rest."
+              }
+            },
+            {
+              "name": "Old Town (Centro Storico)",
+              "tip_5lang": {
+                "de": "Suchen Sie Cafés, die 'Cioccolata Calda' anbieten, um sich aufzuwärmen.",
+                "hu": "Keressen forró csokoládét kínáló kávézókat a felmelegedéshez.",
+                "ro": "Căutați cafenele care oferă 'Cioccolata Calda' pentru a vă încălzi.",
+                "en": "Look for cafés offering 'Cioccolata Calda' to warm up."
+              }
+            },
+            {
+              "name": "Malacological Museum",
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um der Kälte für eine Stunde zu entfliehen.",
+                "hu": "Kiváló hely, hogy egy órára elmeneküljön a kinti hideg elől.",
+                "ro": "Un loc excelent pentru a scăpa de frig timp de o oră.",
+                "en": "An excellent place to escape the cold for an hour."
+              }
+            },
+            {
+              "name": "Church of San Francesco",
+              "tip_5lang": {
+                "de": "Die Abendsonne beleuchtet die Kirche im Winter in warmen Farben.",
+                "hu": "Az esti napfény télen meleg színekkel világítja meg a templomot.",
+                "ro": "Soarele de seară luminează biserica în culori calde iarna.",
+                "en": "The evening sun illuminates the church in warm colors during winter."
+              }
+            },
+            {
+              "name": "Vieste Lighthouse",
+              "tip_5lang": {
+                "de": "Die Sonne geht bereits gegen 16:45 Uhr unter; kommen Sie rechtzeitig.",
+                "hu": "A nap már 16:45 körül nyugszik, érkezzen időben.",
+                "ro": "Soarele apune deja în jurul orei 16:45; veniți din timp.",
+                "en": "Sunset is already around 4:45 PM; arrive on time."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Wintersonne ist stark; eine Sonnenbrille ist trotz Kälte ratsam.",
+              "Viele Restaurants haben reduzierte Öffnungszeiten; prüfen Sie vorab.",
+              "Zwiebelprinzip bei der Kleidung schützt vor dem wechselhaften Küstenwind.",
+              "Genießen Sie die authentische Ruhe von Vieste außerhalb der Saison."
+            ],
+            "hu": [
+              "A téli nap erős lehet, a napszemüveg a hideg ellenére is ajánlott.",
+              "Sok étterem korlátozottan van nyitva, ellenőrizze előre.",
+              "A réteges öltözködés véd a változékony tengerparti széltől.",
+              "Élvezze Vieste hiteles nyugalmát a főszezonon kívül."
+            ],
+            "ro": [
+              "Soarele de iarnă poate fi puternic; ochelarii de soare sunt recomandați.",
+              "Multe restaurante au program redus; verificați în prealabil.",
+              "Îmbrăcămintea stratificată protejează împotriva vântului schimbător.",
+              "Bucurați-vă de liniștea autentică a Vieste în afara sezonului."
+            ],
+            "en": [
+              "The winter sun can be strong; sunglasses are recommended despite the cold.",
+              "Many restaurants have reduced hours; check in advance.",
+              "Layered clothing protects against the variable coastal wind.",
+              "Enjoy the authentic tranquility of Vieste outside of peak season."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -484,6 +912,282 @@
         "en": [
           "The coastal road can be windy."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die Küste des Gargano mit dem Fahrrad.",
+            "hu": "Fedezze fel a Gargano-partvidéket kerékpárral.",
+            "ro": "Explorați coasta Gargano cu bicicleta.",
+            "en": "Explore the Gargano coastline by bike."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lungomare Enrico Mattei",
+                "hu": "Enrico Mattei sétány",
+                "ro": "Faleza Enrico Mattei",
+                "en": "Lungomare Enrico Mattei"
+              },
+              "tip_5lang": {
+                "de": "Flache Strecke entlang des goldenen Sandstrandes.",
+                "hu": "Lapos útvonal az aranyszínű homokos strand mentén.",
+                "ro": "Traseu plan de-a lungul plajei cu nisip auriu.",
+                "en": "Flat route along the golden sandy beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Arco di San Felice",
+                "hu": "San Felice sziklakapu",
+                "ro": "Arcul San Felice",
+                "en": "Arco di San Felice"
+              },
+              "tip_5lang": {
+                "de": "Ein natürlicher Felsbogen im Meer.",
+                "hu": "Természetes sziklakapu a tengerben.",
+                "ro": "Un arc natural de stâncă în mare.",
+                "en": "A natural rock arch carved by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Trabucchi del Gargano",
+                "hu": "Garganói halászépítmények (Trabucchi)",
+                "ro": "Trabucchi din Gargano",
+                "en": "Trabucchi of Gargano"
+              },
+              "tip_5lang": {
+                "de": "Traditionelle hölzerne Angelmaschinen.",
+                "hu": "Hagyományos fa halászati szerkezetek.",
+                "ro": "Instalații tradiționale de pescuit din lemn.",
+                "en": "Traditional wooden fishing structures."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Caciocavallo Podolico",
+                "tip": "Hiesiger Käse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Caciocavallo Podolico",
+                "tip": "Helyi érlelt sajt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Caciocavallo Podolico",
+                "tip": "Brânză locală maturată."
+              }
+            ],
+            "en": [
+              {
+                "name": "Caciocavallo Podolico",
+                "tip": "Local aged cheese."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Baia di San Felice",
+                "tip": "Ruhige Bucht.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Baia di San Felice",
+                "tip": "Csendes öböl.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Baia di San Felice",
+                "tip": "Golf liniștit.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Baia di San Felice",
+                "tip": "Quiet bay.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Vieste Wein",
+                "tip": "Primitivo und Negroamaro."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Viestei bor",
+                "tip": "Helyi vörösborok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vin de Vieste",
+                "tip": "Vinuri locale roșii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vieste Wine",
+                "tip": "Local red wines."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Küstenstraße kann windig sein."
+            ],
+            "hu": [
+              "A parti út szeles lehet."
+            ],
+            "ro": [
+              "Drumul de coastă poate fi vântos."
+            ],
+            "en": [
+              "The coastal road can be windy."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Fahrt am nassen Lungomare beginnt den Tag. Trotz Regen ist die Küstenstraße zum Arco di San Felice atemberaubend und leer. Mittags erreichen Sie die Trabucchi, die bei grauem Wetter besonders ursprünglich wirken. Nachmittags Rückkehr nach Vieste durch den feuchten Küstenwald.",
+            "hu": "Frissítő tekerés a vizes Lungomare mentén. Az eső ellenére a San Felice ívhez vezető út lenyűgöző és néptelen. Délben érkezés a Trabucchi-khoz, melyek szürke időben még archaikusabbnak tűnnek. Délután visszatérés Viestébe a párás parti erdőn keresztül.",
+            "ro": "O plimbare revigorantă pe Lungomare umed începe ziua. În ciuda ploii, drumul spre Arco di San Felice este uluitor și gol. La prânz ajungeți la Trabucchi, care arată foarte autentic pe vreme gri. După-amiaza, revenire în Vieste prin pădurea de coastă umedă.",
+            "en": "A refreshing ride along the wet Lungomare starts the day. Despite the rain, the coastal road to Arco di San Felice is breathtaking and empty. At noon, reach the Trabucchi, which look particularly primal in gray weather. In the afternoon, return to Vieste through the damp coastal forest."
+          },
+          "stops": [
+            {
+              "name": "Lungomare Enrico Mattei",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen und rutschigen Stellen auf dem Radweg.",
+                "hu": "Vigyázzon a tócsákra és a csúszós szakaszokra a kerékpárúton.",
+                "ro": "Atenție la bălți și porțiuni alunecoase pe pista de biciclete.",
+                "en": "Watch out for puddles and slippery spots on the bike path."
+              }
+            },
+            {
+              "name": "Arco di San Felice",
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt bietet bei Regen eine dramatische Perspektive auf den Felsbogen.",
+                "hu": "A kilátópont esőben drámai perspektívát kínál a sziklaívre.",
+                "ro": "Punctul de belvedere oferă o perspectivă dramatică asupra arcadei pe ploaie.",
+                "en": "The viewpoint offers a dramatic perspective of the arch in the rain."
+              }
+            },
+            {
+              "name": "Trabucchi of Gargano",
+              "tip_5lang": {
+                "de": "Die Holzkonstruktionen sind bei Nässe extrem rutschig; bleiben Sie auf den Wegen.",
+                "hu": "A faszerkezetek nedvesen rendkívül csúszósak; maradjon a kijelölt úton.",
+                "ro": "Structurile de lemn sunt extrem de alunecoase; rămâneți pe poteci.",
+                "en": "The wooden structures are extremely slippery when wet; stay on the paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt, da die Bremswege bei Nässe länger sind.",
+              "Vermeiden Sie schnelle Kurvenfahrten auf den Küstenstraßen.",
+              "Tragen Sie gut sichtbare, wasserfeste Kleidung.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter sehr empfehlenswert."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékeket, mert nedves úton hosszabb a féktáv.",
+              "Kerülje a gyors kanyarodást a parti utakon.",
+              "Viseljen jól látható, vízálló ruházatot.",
+              "A sárvédő használata kifejezetten ajánlott ilyen időben."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare, distanța de frânare e mai mare pe ud.",
+              "Evitați virajele rapide pe drumurile de coastă.",
+              "Purtați haine reflectorizante și impermeabile.",
+              "Apărătorile de noroi sunt foarte recomandate pe acest tip de vreme."
+            ],
+            "en": [
+              "Check your brakes before starting, as stopping distances are longer when wet.",
+              "Avoid taking fast curves on the coastal roads.",
+              "Wear high-visibility, waterproof clothing.",
+              "Mudguards on your bike are highly recommended in this weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die kühle Meeresbrise auf einer Radtour am Lungomare. Der Weg zum Arco di San Felice ist im Winter frei von Autos und Touristenbussen. Mittags bietet die Küste spektakuläre Lichtspiele auf dem Wasser. Nachmittags ist die Rückfahrt bei tiefstehender Sonne besonders malerisch.",
+            "hu": "Élvezze a hűvös tengeri szellőt egy kerékpártúrán a Lungomare mentén. A San Felice ívhez vezető út télen mentes az autóktól és turistabuszoktól. Délben a partvidék látványos fényjátékot kínál a vízen. Délután a visszaút a lemenő napfényben különösen festői.",
+            "ro": "Bucurați-vă de briza rece a mării într-o tură cu bicicleta pe Lungomare. Drumul spre Arco di San Felice este liber de mașini iarna. La prânz, coasta oferă jocuri de lumini spectaculoase pe apă. După-amiaza, drumul de întoarcere e pitoresc sub soarele blând.",
+            "en": "Enjoy the cool sea breeze on a bike tour along the Lungomare. The road to Arco di San Felice is free of cars and tourist buses in winter. At noon, the coast offers spectacular light displays on the water. In the afternoon, the ride back is especially picturesque in the low sun."
+          },
+          "stops": [
+            {
+              "name": "Lungomare Enrico Mattei",
+              "tip_5lang": {
+                "de": "Handschuhe sind bei der schnellen Fahrt am Meer unerlässlich.",
+                "hu": "A kesztyű használata elengedhetetlen a gyors tengerparti tekerésnél.",
+                "ro": "Mănușile sunt esențiale la viteza de croazieră pe malul mării.",
+                "en": "Gloves are essential for the fast ride along the sea."
+              }
+            },
+            {
+              "name": "Arco di San Felice",
+              "tip_5lang": {
+                "de": "Im Winter haben Sie diesen ikonischen Ort oft ganz für sich allein.",
+                "hu": "Télen ezt az ikonikus helyet gyakran teljesen egyedül élvezheti.",
+                "ro": "Iarna aveți adesea acest loc iconic doar pentru dumneavoastră.",
+                "en": "In winter, you often have this iconic spot all to yourself."
+              }
+            },
+            {
+              "name": "Trabucchi of Gargano",
+              "tip_5lang": {
+                "de": "Die raue Wintersee zeigt die Trabucchi in ihrer vollen funktionalen Pracht.",
+                "hu": "A zord téli tenger teljes funkcionális pompájában mutatja meg a Trabucchikat.",
+                "ro": "Marea agitată de iarnă arată Trabucchi în toată splendoarea lor funcțională.",
+                "en": "The rough winter sea shows the Trabucchi in their full functional glory."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich winddicht, besonders für die exponierten Küstenabschnitte.",
+              "Prüfen Sie den Reifendruck; kalte Luft lässt ihn leicht sinken.",
+              "Die Tage sind kurz; sorgen Sie für eine funktionierende Beleuchtung.",
+              "Ein heißer Espresso in Vieste nach der Tour wirkt Wunder gegen die Kälte."
+            ],
+            "hu": [
+              "Öltözzön szélállóan, különösen a kitett tengerparti szakaszokon.",
+              "Ellenőrizze a guminyomást, a hideg levegő miatt csökkenhet.",
+              "A nappalok rövidek, gondoskodjon a működő világításról.",
+              "Egy forró eszpresszó Viestében a túra után csodákra képes a hideg ellen."
+            ],
+            "ro": [
+              "Îmbrăcați-vă cu haine rezistente la vânt, mai ales pentru zonele expuse.",
+              "Verificați presiunea în pneuri; aerul rece o face să scadă ușor.",
+              "Zilele sunt scurte; asigurați-vă că aveți lumini funcționale.",
+              "Un espresso fierbinte în Vieste după tură face minuni împotriva frigului."
+            ],
+            "en": [
+              "Dress in windproof gear, especially for the exposed coastal sections.",
+              "Check tire pressure; cold air causes it to drop slightly.",
+              "Days are short; ensure you have working lights.",
+              "A hot espresso in Vieste after the tour works wonders against the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -619,6 +1323,218 @@
         "en": [
           "The roads are narrow and winding."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ein Ausflug in die wilde Natur des Gargano-Nationalparks.",
+            "hu": "Kirándulás a Gargano Nemzeti Park vadregényes tájaira.",
+            "ro": "O excursie în natura sălbatică a Parcului Național Gargano.",
+            "en": "An excursion into the wild nature of the Gargano National Park."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Foresta Umbra",
+                "hu": "Umbra erdő",
+                "ro": "Pădurea Umbra",
+                "en": "Foresta Umbra"
+              },
+              "tip_5lang": {
+                "de": "Schattiger Buchenwald im Herzen des Gargano.",
+                "hu": "Árnyas bükkerdő a Gargano szívében.",
+                "ro": "Pădure de fagi umbroasă în inima Gargano.",
+                "en": "Shady beech forest in the heart of Gargano."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Agriturismo",
+                "tip": "Hofküche im Wald."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Agriturismo",
+                "tip": "Helyi háztáji konyha az erdőben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Agriturismo",
+                "tip": "Bucătărie tradițională în pădure."
+              }
+            ],
+            "en": [
+              {
+                "name": "Agriturismo",
+                "tip": "Farm-to-table dining in the forest."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Lago d'Umbra",
+                "tip": "Kleiner See im Wald.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lago d'Umbra",
+                "tip": "Kis tó az erdő mélyén.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lago d'Umbra",
+                "tip": "Lac mic în pădure.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lago d'Umbra",
+                "tip": "Small lake deep in the forest.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Gargano Honig",
+                "tip": "Waldhonig-Spezialitäten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Garganói méz",
+                "tip": "Erdei mézkülönlegességek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere de Gargano",
+                "tip": "Miere de pădure locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gargano Honey",
+                "tip": "Local forest honey."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straßen sind eng und kurvenreich."
+            ],
+            "hu": [
+              "Az utak szűkek és kanyargósak."
+            ],
+            "ro": [
+              "Drumurile sunt înguste și șerpuite."
+            ],
+            "en": [
+              "The roads are narrow and winding."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt in die Foresta Umbra ist bei Regen besonders mystisch, wenn Nebel durch die Buchen zieht. Mittags erleben Sie den Wald in sattem Grün und vollkommener Ruhe. Nachmittags ist die Rückfahrt an die Küste bei Regen eine landschaftlich reizvolle Panoramafahrt. Den Abend genießen Sie trocken in einem Restaurant in Vieste.",
+            "hu": "Az út a Foresta Umbra felé esőben különösen misztikus, ahogy a köd gomolyog a bükkfák között. Délben aerdő mélyzöld színeiben és tökéletes csendjében gyönyörködhet. Délután a visszaút a tengerparthoz látványos panorámaút az esőben is. Az estét töltheti egy kellemes viestei étteremben.",
+            "ro": "Drumul spre Foresta Umbra este mistic pe ploaie, cu ceața plutind printre fagi. La prânz, experimentați pădurea într-un verde intens și o liniște deplină. După-amiaza, drumul de întoarcere spre coastă este o călătorie panoramică superbă. Seara o puteți petrece într-un restaurant din Vieste.",
+            "en": "The drive into Foresta Umbra is especially mystical in the rain, with mist swirling through the beech trees. At noon, experience the forest in deep green and complete tranquility. In the afternoon, the drive back to the coast is a scenic panoramic route. Enjoy the evening dry in a Vieste restaurant."
+          },
+          "stops": [
+            {
+              "name": "Foresta Umbra",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den kurvigen Waldstraßen bei Nässe.",
+                "hu": "Vezessen óvatosan a kanyargós erdei utakon a nedves aszfalton.",
+                "ro": "Conduceți cu prudență pe drumurile șerpuite de pădure când este ud.",
+                "en": "Drive carefully on the winding forest roads when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schalten Sie das Licht ein, da der Nebel im Wald die Sicht stark einschränken kann.",
+              "Achten Sie auf Wildtiere, die bei Regen oft die Straße überqueren.",
+              "Parkplätze im Wald können bei starkem Regen matschig sein.",
+              "Ein Allradfahrzeug ist nicht nötig, aber gute Reifen sind wichtig."
+            ],
+            "hu": [
+              "Kapcsolja be a fényszórókat, mert az erdei köd erősen korlátozhatja a látást.",
+              "Ügyeljen a vadon élő állatokra, amelyek esőben gyakran átkelnek az úton.",
+              "Az erdei parkolók heves esőzéskor sárosak lehetnek.",
+              "Összkerékhajtás nem szükséges, de a jó gumik fontosak."
+            ],
+            "ro": [
+              "Aprindeți farurile, deoarece ceața din pădure poate reduce vizibilitatea.",
+              "Atenție la animalele sălbatice care traversează des drumul pe ploaie.",
+              "Parcările din pădure pot deveni noroioase după ploi abundente.",
+              "Nu e nevoie de 4x4, dar anvelopele bune sunt importante."
+            ],
+            "en": [
+              "Turn on your headlights as forest fog can significantly limit visibility.",
+              "Watch out for wildlife, which often crosses the road during rain.",
+              "Forest parking areas can be muddy after heavy rain.",
+              "A 4WD is not necessary, but good tires are important."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft bei der Fahrt in das Herz des Gargano. Die Foresta Umbra zeigt sich im Winter mit kahlen Baumkronen und weiten Ausblicken. Mittags ist der Wald ein Ort der totalen Entschleunigung. Nachmittags kehren Sie rechtzeitig vor Sonnenuntergang über die Küstenstraße nach Vieste zurück.",
+            "hu": "Élvezze a tiszta téli levegőt a Gargano szívébe vezető úton. A Foresta Umbra télen a kopár lombkoronákkal és távoli kilátással mutatkozik be. Délben az erdő a teljes lelassulás helyszíne. Délután térjen vissza időben, naplemente előtt a tengerparti úton Viestébe.",
+            "ro": "Bucurați-vă de aerul curat de iarnă în drum spre inima Gargano. Foresta Umbra se prezintă iarna cu coroane golașe și vederi largi. La prânz, pădurea este un loc de relaxare totală. După-amiaza, reveniți în Vieste pe drumul de coastă înainte de apus.",
+            "en": "Enjoy the crisp winter air on a drive into the heart of Gargano. Foresta Umbra reveals itself in winter with bare treetops and expansive views. At noon, the forest is a place of total deceleration. In the afternoon, return to Vieste via the coastal road well before sunset."
+          },
+          "stops": [
+            {
+              "name": "Foresta Umbra",
+              "tip_5lang": {
+                "de": "Im Winter kann es in den höheren Lagen des Waldes deutlich kälter sein.",
+                "hu": "Télen az erdő magasabb területein jelentősen hidegebb lehet.",
+                "ro": "Iarna poate fi mult mai frig în zonele înalte ale pădurii.",
+                "en": "In winter, it can be significantly colder in the higher forest areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vorab die Wettervorhersage; Frost ist in der Foresta Umbra möglich.",
+              "Die Tankstellen im Waldgebiet könnten im Winter geschlossen sein.",
+              "Genießen Sie die freien Straßen ohne den sommerlichen Verkehr.",
+              "Nehmen Sie warme Getränke im Auto mit für Pausen im Wald."
+            ],
+            "hu": [
+              "Ellenőrizze az időjárást, a Foresta Umbra területén fagy is előfordulhat.",
+              "Az erdei területen lévő benzinkutak télen zárva tarthatnak.",
+              "Élvezze a szabad utakat a nyári forgalom nélkül.",
+              "Vigyen magával meleg italokat az autóban az erdei pihenőkhöz."
+            ],
+            "ro": [
+              "Verificați prognoza; înghețul este posibil în Foresta Umbra.",
+              "Benzinăriile din zona pădurii ar putea fi închise iarna.",
+              "Bucurați-vă de drumurile libere, fără traficul de vară.",
+              "Luați băuturi calde în mașină pentru pauzele în pădure."
+            ],
+            "en": [
+              "Check the forecast beforehand; frost is possible in Foresta Umbra.",
+              "Gas stations in the forest area might be closed in winter.",
+              "Enjoy the clear roads without the summer traffic.",
+              "Take warm drinks in the car for breaks in the forest."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -754,6 +1670,218 @@
         "en": [
           "Buses can be irregular."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Shuttle zu den Stränden.",
+            "hu": "Használja a strandjáratokat a távolabbi öblökhöz.",
+            "ro": "Folosiți naveta către plaje.",
+            "en": "Use the local shuttles to reach nearby bays."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Busbahnhof Vieste",
+                "hu": "Viestei buszpályaudvar",
+                "ro": "Autogara Vieste",
+                "en": "Vieste Bus Station"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Punkt für Überlandbusse.",
+                "hu": "Központi csomópont a távolsági buszokhoz.",
+                "ro": "Punct central pentru autobuzele interurbane.",
+                "en": "Central hub for intercity buses."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Paposcia",
+                "tip": "Gargano-Sandwich."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Paposcia",
+                "tip": "Helyi töltött lepény."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Paposcia",
+                "tip": "Sandviș tradițional din Gargano."
+              }
+            ],
+            "en": [
+              {
+                "name": "Paposcia",
+                "tip": "Traditional Gargano flatbread sandwich."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Strand-Shuttle-Weg",
+                "tip": "Blick aus dem Fenster.",
+                "emoji": "🚌"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Buszos út",
+                "tip": "Kilátás az ablakból.",
+                "emoji": "🚌"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Traseul autobuzului",
+                "tip": "Vedere pe fereastră.",
+                "emoji": "🚌"
+              }
+            ],
+            "en": [
+              {
+                "name": "Shuttle Route",
+                "tip": "Window views of the coast.",
+                "emoji": "🚌"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Markt",
+                "tip": "Frisches Obst und Gemüse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi piac",
+                "tip": "Friss gyümölcs és zöldség."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața locală",
+                "tip": "Fructe și legume proaspete."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Market",
+                "tip": "Fresh fruit and vegetables."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Busse können unregelmäßig fahren."
+            ],
+            "hu": [
+              "A buszok rendszertelenek lehetnek."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri."
+            ],
+            "en": [
+              "Buses can be irregular."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Busbahnhof und nutzen Sie den Nahverkehr, um Vieste im Regen zu erkunden. Der Bus bietet eine trockene Möglichkeit, zwischen den Vierteln zu pendeln. Mittags können Sie nahegelegene Ziele im Gargano erreichen, ohne nass zu werden. Nachmittags Rückkehr ins Stadtzentrum für Indoor-Besichtigungen.",
+            "hu": "Kezdje a buszállomáson, és használja a tömegközlekedést Vieste felfedezéséhez az esőben. A busz száraz utazást biztosít a városrészek között. Délben távolabbi célpontokat is elérhet a Gargano területén anélkül, hogy megázna. Délután térjen vissza a központba fedett látnivalókhoz.",
+            "ro": "Începeți la autogară și folosiți transportul public pentru a explora Vieste pe ploaie. Autobuzul oferă o modalitate uscată de a face naveta între cartiere. La prânz puteți ajunge la destinații din apropiere în Gargano fără să vă udați. După-amiaza reveniți în centru pentru vizite la interior.",
+            "en": "Start at the bus station and use public transport to explore Vieste in the rain. The bus provides a dry way to commute between neighborhoods. At noon, you can reach nearby destinations in Gargano without getting wet. In the afternoon, return to the city center for indoor sightseeing."
+          },
+          "stops": [
+            {
+              "name": "Vieste Bus Station",
+              "tip_5lang": {
+                "de": "Der Wartebereich ist überdacht und bietet Schutz vor Schauern.",
+                "hu": "A várakozóhely fedett, így védelmet nyújt a záporok ellen.",
+                "ro": "Zona de așteptare este acoperită și oferă protecție împotriva ploii.",
+                "en": "The waiting area is covered and offers protection from showers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie die Fahrpläne digital dabei, um Wartezeiten im Freien zu minimieren.",
+              "Fahrkarten sollten vorab in Tabakläden (Tabacchi) gekauft werden.",
+              "Busse können bei starkem Regen aufgrund der Straßenverhältnisse Verspätung haben.",
+              "Die SITA-Busse sind die Hauptverbindung in die umliegenden Orte."
+            ],
+            "hu": [
+              "Legyen Önnél a menetrend digitálisan, hogy minimalizálja a kinti várakozást.",
+              "A jegyeket érdemes előre megvenni a trafikokban (Tabacchi).",
+              "Heves esőzéskor a buszok késhetnek az útviszonyok miatt.",
+              "A SITA buszok jelentik a fő összeköttetést a környező településekkel."
+            ],
+            "ro": [
+              "Aveți orarul în format digital pentru a minimiza așteptarea în aer liber.",
+              "Biletele trebuie cumpărate în avans de la chioșcurile de ziare sau tutungerii.",
+              "Autobuzele pot avea întârzieri pe ploaie din cauza condițiilor de drum.",
+              "Autobuzele SITA sunt principala conexiune cu orașele din jur."
+            ],
+            "en": [
+              "Have the schedules digitally to minimize outdoor waiting times.",
+              "Tickets should be purchased in advance at tobacco shops (Tabacchi).",
+              "Buses may be delayed during heavy rain due to road conditions.",
+              "SITA buses are the main connection to surrounding towns."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den winterlichen Busfahrplan für entspannte Fahrten durch die Region. Die Busse sind im Winter leerer und bieten eine gute Sicht auf die Landschaft. Mittags können Sie kleinere Bergdörfer besuchen. Nachmittags rechtzeitige Rückkehr nach Vieste, bevor es dunkel und kühler wird.",
+            "hu": "Használja ki a téli buszmenetrendet a régió nyugodt felfedezéséhez. A buszok télen kevésbé zsúfoltak, így jó kilátást nyújtanak a tájra. Délben kisebb hegyi falvakat is meglátogathat. Délután térjen vissza időben Viestébe, mielőtt besötétedik és lehűl az idő.",
+            "ro": "Folosiți orarul de iarnă al autobuzelor pentru călătorii relaxate prin regiune. Autobuzele sunt mai libere iarna și oferă o vedere bună asupra peisajului. La prânz puteți vizita sate montane mici. După-amiaza reveniți la timp în Vieste înainte de lăsarea întunericului.",
+            "en": "Utilize the winter bus schedule for relaxed trips through the region. Buses are emptier in winter and offer a good view of the landscape. At noon, you can visit smaller mountain villages. In the afternoon, return to Vieste on time before it gets dark and cooler."
+          },
+          "stops": [
+            {
+              "name": "Vieste Bus Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan genau, da weniger Verbindungen bestehen.",
+                "hu": "Ellenőrizze pontosan a téli menetrendet, mert kevesebb járat indul.",
+                "ro": "Verificați cu atenție orarul de iarnă, sunt mai puține conexiuni.",
+                "en": "Check the winter schedule carefully as there are fewer connections."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie, dass sonntags im Winter fast kein Busverkehr stattfindet.",
+              "Die Busse sind im Winter beheizt und bieten eine komfortable Fahrt.",
+              "Nutzen Sie die App der Verkehrsbetriebe für Echtzeit-Infos, falls verfügbar.",
+              "Fragen Sie Einheimische nach aktuellen Änderungen im Winterfahrplan."
+            ],
+            "hu": [
+              "Vegye figyelembe, hogy télen vasárnaponként alig van buszközlekedés.",
+              "A buszok télen fűtöttek, így kényelmes utazást biztosítanak.",
+              "Használja a közlekedési társaság alkalmazását a valós idejű infókért.",
+              "Kérdezze a helyieket a téli menetrend esetleges változásairól."
+            ],
+            "ro": [
+              "Rețineți că duminica, iarna, transportul cu autobuzul este aproape inexistent.",
+              "Autobuzele sunt încălzite iarna și oferă o călătorie confortabilă.",
+              "Folosiți aplicația companiei de transport pentru informații în timp real.",
+              "Întrebați localnicii despre eventualele modificări ale orarului de iarnă."
+            ],
+            "en": [
+              "Note that on Sundays in winter, there is almost no bus service.",
+              "Buses are heated in winter and provide a comfortable ride.",
+              "Use the transport company's app for real-time info if available.",
+              "Ask locals about any recent changes to the winter schedule."
+            ]
+          }
+        }
       }
     }
   },

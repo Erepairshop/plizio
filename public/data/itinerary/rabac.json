@@ -274,6 +274,404 @@
           "Take snorkeling gear for the Lanterna bay.",
           "A small tourist train connects the outskirts with the center."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am malerischen Hafen, wo Fischerboote im klaren Wasser schaukeln. Ein kurzer Aufstieg führt zur bescheidenen St.-Andreas-Kirche, dem ältesten Gebäude der Stadt. Mittags schlendern Sie entlang der Lungomare-Promenade im Schatten der Pinien zum Strand Lanterna für ein erfrischendes Bad. Am Nachmittag geht es weiter zur Girandella-Küste, die für ihre weißen Kieselsteine und lebhafte Atmosphäre bekannt ist. Gegen Abend überqueren Sie die Bucht zu den Teleferika-Ruinen für einen dramatischen Blick auf den Sonnenuntergang über Rabac.",
+            "hu": "A reggel a festői kikötőben indul, ahol halászhajók ringatóznak a tiszta vízben. Rövid séta vezet a Szent András-templomhoz, a város legrégebbi épületéhez. Délben a Lungomare sétányon, fenyők árnyékában haladunk a Lanterna strand felé egy frissítő csobbanásra. Délután a Girandella-part következik, amely fehér kavicsairól és élénk hangulatáról ismert. Este a Teleferika romjaihoz látogatunk el az öböl túloldalán, ahonnan lélegzetelállító naplementét láthatunk a város felett.",
+            "ro": "Dimineața începe în portul pitoresc, unde bărcile de pescuit plutesc în apa limpede. O scurtă urcare duce la biserica Sf. Andrei, cea mai veche clădire din oraș. La prânz, plimbați-vă pe faleza Lungomare, la umbra pinilor, spre plaja Lanterna pentru o baie răcoritoare. După-amiaza continuă pe coasta Girandella, cunoscută pentru pietricelele albe și atmosfera vibrantă. Spre seară, traversați golful spre ruinele Teleferika pentru o vedere dramatică a apusului peste Rabac.",
+            "en": "Morning begins at the picturesque harbor where fishing boats sway in the clear water. A short climb leads to the humble St. Andrew\"s Church, the town\"s oldest building. By midday, stroll along the Lungomare promenade, shaded by pine trees, towards the crystal waters of Lanterna beach for a refreshing dip. In the afternoon, continue to the Girandella coast, known for its white pebbles and vibrant summer atmosphere. As evening approaches, cross the bay to the Teleferika ruins for a dramatic view of the sunset over Rabac."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Rabac",
+              "tip_5lang": {
+                "de": "Beobachten Sie die Fischerboote bei einem morgendlichen Espresso am Kai.",
+                "hu": "Figyelje a halászhajókat egy reggeli eszpresszó mellett a rakparton.",
+                "ro": "Priviți bărcile de pescuit la un espresso de dimineață pe chei.",
+                "en": "Watch the fishing boats over a morning espresso on the quay."
+              }
+            },
+            {
+              "name": "Kirche des hl. Andreas",
+              "tip_5lang": {
+                "de": "Das älteste Bauwerk des Ortes aus dem 15. Jahrhundert bietet kühle Stille.",
+                "hu": "A település legöregebb, 15. századi épülete hűvös csendet áraszt.",
+                "ro": "Cea mai veche clădire din oraș, din secolul XV, oferă o liniște răcoroasă.",
+                "en": "The town\"s oldest building from the 15th century offers cool silence."
+              }
+            },
+            {
+              "name": "Lungomare Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie den Duft der Pinien auf dem Weg zu den Badebuchten.",
+                "hu": "Élvezze a fenyők illatát a fürdőöblök felé vezető úton.",
+                "ro": "Bucurați-vă de mirosul pinilor în drum spre golfurile de înot.",
+                "en": "Enjoy the scent of pine trees on the way to the swimming bays."
+              }
+            },
+            {
+              "name": "Strand Lanterna",
+              "tip_5lang": {
+                "de": "Ein Träger der Blauen Flagge mit kristallklarem Wasser für Schnorchler.",
+                "hu": "Kék zászlós strand kristálytiszta vízzel, kiváló a búvárkodáshoz.",
+                "ro": "O plajă cu Steag Albastru și apă cristalină pentru amatorii de snorkeling.",
+                "en": "A Blue Flag beach with crystal clear water perfect for snorkelers."
+              }
+            },
+            {
+              "name": "Strand Girandella",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Beach-Bars für einen erfrischenden Cocktail am Nachmittag.",
+                "hu": "Látogasson el a strandbárokba egy frissítő délutáni koktélra.",
+                "ro": "Vizitați barurile de pe plajă pentru un cocktail revigorant de după-amiază.",
+                "en": "Visit the beach bars for a refreshing afternoon cocktail."
+              }
+            },
+            {
+              "name": "Teleferika Ruinen",
+              "tip_5lang": {
+                "de": "Die Überreste der Erzseilbahn sind ein Geheimtipp für Lost-Place-Fotografen.",
+                "hu": "Az ércszállító kötélpálya maradványai igazi csemege a fotósoknak.",
+                "ro": "Rămășițele telefericului minier sunt un pont pentru fotografii de locuri părăsite.",
+                "en": "The remains of the ore cableway are a tip for lost-place photographers."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Labinski Krafi",
+                "tip": "Süße oder herzhafte Ravioli, serviert in lokalen Konobas."
+              },
+              {
+                "name": "Restaurant Nostromo",
+                "tip": "Direkt am Hafen, berühmt für fangfrischen Fisch und Meeresfrüchte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Labinski krafi",
+                "tip": "Édes vagy sós töltött tészta, a helyi konobák specialitása."
+              },
+              {
+                "name": "Nostromo Étterem",
+                "tip": "Közvetlenül a kikötőben, híres a friss halairól és tenger gyümölcseiről."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Labinski krafi",
+                "tip": "Ravioli dulci sau sărați, serviți în tavernele locale."
+              },
+              {
+                "name": "Restaurant Nostromo",
+                "tip": "Chiar în port, renumit pentru pește proaspăt și fructe de mare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Labinski krafi",
+                "tip": "Sweet or savory ravioli, a specialty in local konobas."
+              },
+              {
+                "name": "Restaurant Nostromo",
+                "tip": "Right in the harbor, famous for fresh fish and seafood."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Teleferika Aussichtspunkt",
+                "tip": "Perfekter Ort für den Sonnenuntergang über der Bucht.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Wasserfall Sentona",
+                "tip": "Ein ruhiger Pfad im Grünen abseits der Strände.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Teleferika kilátópont",
+                "tip": "Tökéletes helyszín a naplemente megcsodálására.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Sentona-vízesés",
+                "tip": "Csendes ösvény a zöldben, távol a strandoktól.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punctul de belvedere Teleferika",
+                "tip": "Locul perfect pentru a admira apusul peste golf.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Cascada Sentona",
+                "tip": "O potecă liniștită în natură, departe de plaje.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Teleferika viewpoint",
+                "tip": "Perfect spot for the sunset over the bay.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Sentona Waterfall",
+                "tip": "A quiet path in the greenery away from the beaches.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Istrisches Olivenöl",
+                "tip": "Kaufen Sie direkt bei lokalen Erzeugern in der Nähe von Labin."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Isztriai olívaolaj",
+                "tip": "Vásároljon közvetlenül a helyi termelőktől Labin környékén."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline istrian",
+                "tip": "Cumpărați direct de la producătorii locali de lângă Labin."
+              }
+            ],
+            "en": [
+              {
+                "name": "Istrian olive oil",
+                "tip": "Buy directly from local producers near Labin."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie feste Schuhe für den Weg zu den Teleferika-Ruinen.",
+              "Die Parkplätze am Hafen sind im Sommer schnell belegt.",
+              "Nehmen Sie Schnorchelausrüstung für die Lanterna-Bucht mit.",
+              "Ein kleiner Touristenzug verbindet die Außenbezirke mit dem Zentrum."
+            ],
+            "hu": [
+              "Viseljen zárt cipőt a Teleferika romjaihoz vezető úton.",
+              "A kikötői parkolók nyáron hamar megtelnek.",
+              "Vigyen búvárszemüveget a Lanterna-öbölbe.",
+              "Kis gumikerekes kisvonat köti össze a külső részeket a központtal."
+            ],
+            "ro": [
+              "Purtați încălțăminte stabilă pentru drumul spre ruinele Teleferika.",
+              "Parcările din port se ocupă rapid în timpul verii.",
+              "Luați echipament de snorkeling pentru golful Lanterna.",
+              "Un trenuleț turistic face legătura între periferie și centru."
+            ],
+            "en": [
+              "Wear sturdy shoes for the path to the Teleferika ruins.",
+              "Harbor parking spots fill up quickly during summer.",
+              "Take snorkeling gear for the Lanterna bay.",
+              "A small tourist train connects the outskirts with the center."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am nebligen Hafen von Rabac starten. Mittags bietet die St.-Andreas-Kirche trockenen Unterschlupf. Nachmittags ist die Promenade menschenleer, aber die stürmische Adria wirkt beeindruckend. Abends verleiht der Regen den Teleferika-Ruinen eine mystische, fast geisterhafte Atmosphäre.",
+            "hu": "Reggel a ködös kikötőben kezdünk. Délben a Szent András-templom nyújt menedéket az eső elől. Délután a sétány kihalt, de a viharos tenger látványa lenyűgöző. Este az eső misztikus, kísérteties hangulatot kölcsönöz a Teleferika romjainak a szürkületben.",
+            "ro": "Dimineața începe în portul învăluit în ceață. La prânz, biserica Sf. Andrei oferă un adăpost uscat. După-amiaza, faleza este pustie, dar marea agitată oferă un spectacol grandios. Seara, ploaia transformă ruinele Teleferika într-un loc mistic și plin de mister.",
+            "en": "Start the morning at the misty harbor. At noon, St. Andrew's Church provides a dry refuge. In the afternoon, the promenade is empty, but the stormy Adriatic looks impressive. By evening, the rain adds a mystical, almost ghostly atmosphere to the Teleferika ruins."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Rabac",
+              "tip_5lang": {
+                "de": "Regenschirm fest halten, am Hafen windet es oft stark.",
+                "hu": "Erősen fogja az esernyőt, a kikötőben gyakran fúj a szél.",
+                "ro": "Țineți umbrela bine, vântul suflă tare în port.",
+                "en": "Hold your umbrella tight, it's often windy at the harbor."
+              }
+            },
+            {
+              "name": "Kirche des hl. Andreas",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um kurz trocken zu werden und innezuhalten.",
+                "hu": "Kiváló hely egy rövid pihenőre, amíg eláll az eső.",
+                "ro": "Un loc bun pentru a sta la adăpost și a vă reculege.",
+                "en": "A great place to dry off for a bit and find peace."
+              }
+            },
+            {
+              "name": "Lungomare Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Steinen, Rutschgefahr!",
+                "hu": "Vigyázzon a vizes köveken, könnyen megcsúszhat!",
+                "ro": "Atenție pe pietrele ude, pericol de alunecare!",
+                "en": "Watch your step on the wet stones, they can be slippery."
+              }
+            },
+            {
+              "name": "Strand Lanterna",
+              "tip_5lang": {
+                "de": "Genießen Sie das tosende Meer unter einem festen Vordach.",
+                "hu": "Élvezze a háborgó tenger látványát egy fedett teraszról.",
+                "ro": "Admirați marea învolburată de sub un acoperiș fix.",
+                "en": "Enjoy the roaring sea from under a solid roof."
+              }
+            },
+            {
+              "name": "Strand Girandella",
+              "tip_5lang": {
+                "de": "Die Cafés hier sind im Regen besonders gemütlich.",
+                "hu": "Az itteni kávézók esőben kifejezetten hangulatosak.",
+                "ro": "Cafenelele de aici sunt foarte primitoare pe ploaie.",
+                "en": "The cafes here are especially cozy during the rain."
+              }
+            },
+            {
+              "name": "Teleferika Ruinen",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk nötig, der Weg kann schlammig sein.",
+                "hu": "Zárt cipő ajánlott, az ösvény sáros lehet.",
+                "ro": "Încălțăminte solidă necesară, poteca poate fi noroioasă.",
+                "en": "Sturdy shoes needed, the path can be muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine windfeste Regenjacke statt eines Schirms.",
+              "Die Hafenmauer bietet bei Wellengang tolle Fotomotive.",
+              "Nutzen Sie die Kirchenbesichtigung für eine Regenpause.",
+              "Einkehrmöglichkeiten am Hafen sind ideal zum Aufwärmen.",
+              "Achten Sie auf spritzendes Salzwasser an der Promenade."
+            ],
+            "hu": [
+              "Szélálló esőkabátot válasszon az esernyő helyett.",
+              "A kikötői gátnál a hullámzás remek fotótéma esőben.",
+              "Használja ki a templomlátogatást egy esőszünetre.",
+              "A kikötői éttermek ideálisak a felmelegedéshez.",
+              "Vigyázzon a sétányon felcsapó sós vízpermetre."
+            ],
+            "ro": [
+              "Purtați o pelerină de ploaie rezistentă la vânt.",
+              "Digul portului oferă ocazii bune de fotografiat valurile.",
+              "Folosiți vizita la biserică pentru o pauză de ploaie.",
+              "Restaurantele din port sunt ideale pentru a vă încălzi.",
+              "Atenție la stropii de apă sărată de pe faleză."
+            ],
+            "en": [
+              "Wear a windproof rain jacket instead of an umbrella.",
+              "The harbor wall offers great photo ops when waves are high.",
+              "Use the church visit as a break from the rain.",
+              "Harbor-side eateries are perfect for warming up.",
+              "Watch out for salt water spray on the promenade."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am ruhigen Hafen. Mittags wärmt die tiefstehende Sonne die Kirchenmauer. Nachmittags leuchten die Strände in klarem Winterlicht, weit weg vom Sommertrubel. Den Abend lässt man in den belebten Cafés im Ortskern ausklingen, während es früh dunkel wird.",
+            "hu": "Friss téli reggel a csendes kikötőben. Délben az alacsonyan járó nap sugarai melengetik a templom falát. Délután a strandok kristálytiszta téli fényben tündökölnek, messze a nyári tömegtől. Az estét a helyiek által kedvelt kávézókban zárjuk, ahogy korán sötétedik.",
+            "ro": "O dimineață răcoroasă de iarnă în portul liniștit. La prânz, soarele blând încălzește zidurile bisericii. După-amiaza, plajele strălucesc într-o lumină clară, departe de agitația verii. Seara se încheie în cafenelele din centru, pe măsură ce se înserează devreme.",
+            "en": "A crisp winter morning at the quiet harbor. At noon, the low sun warms the church walls. In the afternoon, the beaches glow in clear winter light, far from the summer crowds. The evening ends in the lively cafes of the town center as darkness falls early."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Rabac",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kaffee wie ein Local in der Sonne.",
+                "hu": "Élvezze a kávét úgy, mint a helyiek, a téli napfényben.",
+                "ro": "Savurați o cafea la soare, exact ca localnicii.",
+                "en": "Enjoy a coffee in the sun just like the locals do."
+              }
+            },
+            {
+              "name": "Kirche des hl. Andreas",
+              "tip_5lang": {
+                "de": "Oft nur zu Gottesdiensten geöffnet, Fassade bewundern.",
+                "hu": "Gyakran csak misék idején van nyitva, nézze meg kívülről.",
+                "ro": "Deschisă des doar pentru slujbe, admirați fațada.",
+                "en": "Often open only for services, admire the facade."
+              }
+            },
+            {
+              "name": "Lungomare Promenade",
+              "tip_5lang": {
+                "de": "Perfekt für zügiges Wandern bei kühlen Temperaturen.",
+                "hu": "Tökéletes tempós sétához a hűvös időben.",
+                "ro": "Ideală pentru o plimbare energică pe temperaturi scăzute.",
+                "en": "Perfect for brisk walking in the cool temperatures."
+              }
+            },
+            {
+              "name": "Strand Lanterna",
+              "tip_5lang": {
+                "de": "Die Einsamkeit hier ist im Winter unbezahlbar.",
+                "hu": "A téli magány itt megfizethetetlen élmény.",
+                "ro": "Liniștea de aici pe timp de iarnă este de neprețuit.",
+                "en": "The solitude here in winter is priceless."
+              }
+            },
+            {
+              "name": "Strand Girandella",
+              "tip_5lang": {
+                "de": "Ideal für Fotos vom Sonnenuntergang gegen 16:30 Uhr.",
+                "hu": "Ideális hely naplementés fotókhoz 16:30 körül.",
+                "ro": "Loc ideal pentru fotografii la apus, în jur de 16:30.",
+                "en": "Ideal spot for sunset photos around 4:30 PM."
+              }
+            },
+            {
+              "name": "Teleferika Ruinen",
+              "tip_5lang": {
+                "de": "Klare Sicht auf die Insel Cres genießen.",
+                "hu": "Élvezze a tiszta kilátást a szemközti Cres-szigetre.",
+                "ro": "Bucurați-vă de vizibilitatea clară spre insula Cres.",
+                "en": "Enjoy the clear views towards Cres Island."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung schützt vor Wind.",
+              "Die Sonne verschwindet im Winter früh hinter den Bergen.",
+              "Viele Strandbars haben Winterpause, im Zentrum suchen.",
+              "Die Luft ist im Winter besonders sauber und gesund.",
+              "Warme Getränke in der Thermoskanne mitnehmen."
+            ],
+            "hu": [
+              "Réteges öltözködés javasolt a hideg szél miatt.",
+              "A nap télen korán eltűnik a hegyek mögött.",
+              "Sok strandbár zárva van, keressen helyet a központban.",
+              "A levegő télen különösen tiszta és egészséges.",
+              "Vigyen magával meleg italt termoszban."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în mai multe straturi contra vântului.",
+              "Iarna, soarele apune devreme după munți.",
+              "Multe baruri de pe plajă sunt închise, căutați în centru.",
+              "Aerul este extrem de curat și sănătos iarna.",
+              "Luați cu voi băuturi calde într-un termos."
+            ],
+            "en": [
+              "Dress in layers to protect against the cold wind.",
+              "In winter, the sun disappears early behind the hills.",
+              "Many beach bars are closed, look for places in the center.",
+              "The air is exceptionally clean and healthy in winter.",
+              "Bring warm drinks in a thermos for the walk."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -484,6 +882,337 @@
           "Be careful with pedestrians on the promenade.",
           "Take enough water for the climbs."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Hafen und genießen Sie die kühle Meeresbrise auf der Lungomare-Promenade. Der Weg führt Sie weiter zur Teleferika, wo Sie die industrielle Geschichte der Region entdecken. Anschließend radeln Sie bergauf zum Sentona-Wasserfall, einer grünen Oase zwischen Rabac und Labin. Den Abschluss bildet die Maslinica-Bucht, wo Sie sich nach der Tour im Meer abkühlen können.",
+            "hu": "Induljon a kikötőből, és élvezze a hűs tengeri szellőt a Lungomare sétányon. Az út továbbvezet a Teleferika felé, ahol felfedezheti a régió ipari múltját. Ezután tekerjen fel a Sentona-vízeséshez, amely egy zöld oázis Rabac és Labin között. A túrát a Maslinica-öbölben zárjuk, ahol a tekerés után megmártózhat a tengerben.",
+            "ro": "Porniți din port și bucurați-vă de briza mării pe faleza Lungomare. Drumul vă duce mai departe spre Teleferika, unde descoperiți istoria industrială a regiunii. Apoi pedalați spre cascada Sentona, o oază verde între Rabac și Labin. Încheiați turul în golful Maslinica, unde vă puteți răcori în mare după efort.",
+            "en": "Start at the harbor and enjoy the cool sea breeze on the Lungomare promenade. The path leads you further to Teleferika, where you discover the region\"s industrial history. Then pedal uphill to the Sentona Waterfall, a green oasis between Rabac and Labin. The tour concludes at Maslinica Bay, where you can cool off in the sea after the ride."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Rabac",
+              "tip_5lang": {
+                "de": "Guter Ausgangspunkt für Touren entlang der Küste.",
+                "hu": "Kiváló kiindulópont a tengerparti túrákhoz.",
+                "ro": "Punct bun de plecare pentru tururi de-a lungul coastei.",
+                "en": "Good starting point for tours along the coast."
+              }
+            },
+            {
+              "name": "Lungomare Promenade",
+              "tip_5lang": {
+                "de": "Ebener Weg, ideal zum gemütlichen Radeln am Morgen.",
+                "hu": "Sík útvonal, ideális a reggeli könnyed tekeréshez.",
+                "ro": "Traseu plat, ideal pentru o plimbare ușoară cu bicicleta dimineața.",
+                "en": "Flat path, ideal for a leisurely morning ride."
+              }
+            },
+            {
+              "name": "Teleferika Ruinen",
+              "tip_5lang": {
+                "de": "Erfordert kurze Bergauffahrt, belohnt mit toller Aussicht.",
+                "hu": "Rövid emelkedőt igényel, de a kilátás kárpótol.",
+                "ro": "Necesită o scurtă urcare, dar răsplătește cu o vedere superbă.",
+                "en": "Requires a short uphill ride, rewards with great views."
+              }
+            },
+            {
+              "name": "Wasserfall Sentona",
+              "tip_5lang": {
+                "de": "Teil des Labin-Rabac Wanderwegs, schattig und grün.",
+                "hu": "A Labin-Rabac túraútvonal része, árnyékos és zöld.",
+                "ro": "Parte a traseului Labin-Rabac, umbros și verde.",
+                "en": "Part of the Labin-Rabac trail, shady and green."
+              }
+            },
+            {
+              "name": "Bucht von Maslinica",
+              "tip_5lang": {
+                "de": "Große Bucht mit vielen Sportmöglichkeiten und Restaurants.",
+                "hu": "Nagy öböl számos sportolási lehetőséggel és étteremmel.",
+                "ro": "Golf mare cu multe facilități sportive și restaurante.",
+                "en": "Large bay with many sports facilities and restaurants."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Rabac",
+                "tip": "Probieren Sie die hausgemachte Pasta Fuži."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba Rabac",
+                "tip": "Kóstolja meg a házi készítésű fuži tésztát."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Rabac",
+                "tip": "Încercați pastele de casă Fuži."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Rabac",
+                "tip": "Try the homemade Fuži pasta."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Waldwege bei Sentona",
+                "tip": "Stille Natur pur.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sentona erdei ösvényei",
+                "tip": "Tiszta, csendes természet.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Potecile din pădure la Sentona",
+                "tip": "Natură pură și liniște.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Forest paths near Sentona",
+                "tip": "Pure quiet nature.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Honig",
+                "tip": "Erhältlich an Ständen oberhalb von Rabac."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi méz",
+                "tip": "Kapható a Rabac feletti árusoknál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere locală",
+                "tip": "Disponibilă la tarabele de deasupra stațiunii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local honey",
+                "tip": "Available at stalls above Rabac."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mountainbikes sind für die Wege nach Labin empfehlenswert.",
+              "Vorsicht bei Fußgängern auf der Promenade.",
+              "Genügend Wasser für den Aufstieg mitnehmen."
+            ],
+            "hu": [
+              "A Labinba vezető utakhoz hegyi kerékpár ajánlott.",
+              "Vigyázzon a gyalogosokra a sétányon.",
+              "Vigyen elég vizet az emelkedőkhöz."
+            ],
+            "ro": [
+              "Se recomandă biciclete mountain bike pentru drumurile spre Labin.",
+              "Atenție la pietoni pe faleză.",
+              "Luați destulă apă pentru urcare."
+            ],
+            "en": [
+              "Mountain bikes are recommended for the paths to Labin.",
+              "Be careful with pedestrians on the promenade.",
+              "Take enough water for the climbs."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens vorsichtig am nassen Kai starten. Mittags führt die Tour über bewaldete Wege zur Promenade. Nachmittags sind die Teleferika-Ruinen im Nebel ein Highlight. Der Wasserfall Sentona führt bei Regen besonders viel Wasser. Den Tag beendet man in der geschützten Bucht von Maslinica.",
+            "hu": "Reggel óvatos indulás a vizes rakparton. Délben erdős utakon tekerünk a sétány felé. Délután a ködös Teleferika-romok különleges látványt nyújtanak. A Sentona-vízesés esőben bővizű és lenyűgöző. A napot a Maslinica-öböl védett részén zárjuk.",
+            "ro": "Dimineața începe cu prudență pe cheiul umed. La prânz, traseul trece prin zone împădurite spre faleză. După-amiaza, ruinele Teleferika în ceață sunt un punct forte. Cascada Sentona are un debit mare pe ploaie. Ziua se încheie în golful protejat Maslinica.",
+            "en": "Start cautiously in the morning on the wet quay. At noon, the tour leads through forested paths to the promenade. In the afternoon, the Teleferika ruins in the fog are a highlight. The Sentona waterfall is especially powerful in the rain. End the day in the sheltered Maslinica Bay."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Rabac",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster.",
+                "hu": "Vigyázzon a csúszós macskaköveken.",
+                "ro": "Atenție pe piatra cubică alunecoasă.",
+                "en": "Be careful on the slippery cobblestones."
+              }
+            },
+            {
+              "name": "Lungomare Promenade",
+              "tip_5lang": {
+                "de": "Tempo drosseln, da Fußgänger Schirme tragen.",
+                "hu": "Lassítson, a gyalogosok esernyővel közlekednek.",
+                "ro": "Reduceți viteza, pietonii poartă umbrele.",
+                "en": "Slow down, pedestrians are carrying umbrellas."
+              }
+            },
+            {
+              "name": "Teleferika Ruinen",
+              "tip_5lang": {
+                "de": "Der Boden ist hier bei Regen sehr rutschig.",
+                "hu": "A talaj itt esőben nagyon csúszós.",
+                "ro": "Terenul este foarte alunecos aici pe ploaie.",
+                "en": "The ground is very slippery here when wet."
+              }
+            },
+            {
+              "name": "Wasserfall Sentona",
+              "tip_5lang": {
+                "de": "Achtung, der Trail ist technisch anspruchsvoll und matschig.",
+                "hu": "Figyelem, az ösvény technikás és sáros lehet.",
+                "ro": "Atenție, poteca este tehnică și noroioasă.",
+                "en": "Caution, the trail is technical and muddy."
+              }
+            },
+            {
+              "name": "Bucht von Maslinica",
+              "tip_5lang": {
+                "de": "Unterstand am Campingplatz für eine Pause nutzen.",
+                "hu": "Használja a kemping fedett részeit egy pihenőre.",
+                "ro": "Folosiți adăpostul din camping pentru o pauză.",
+                "en": "Use the shelter at the campsite for a break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Bike sind bei Regen unverzichtbar.",
+              "Vermeiden Sie scharfe Kurven auf nasser Fahrbahn.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Abfahrt.",
+              "Neongelbe Regenkleidung erhöht die Sichtbarkeit.",
+              "Warme Dusche nach der Tour fest einplanen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen az esős tekeréshez.",
+              "Kerülje az éles kanyarodást vizes útfelületen.",
+              "Indulás előtt ellenőrizze a fékbetéteket.",
+              "A neon esőruházat növeli a láthatóságot.",
+              "A túra után tervezzen be egy forró zuhanyt."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt indispensabile pe ploaie.",
+              "Evitați virajele strânse pe carosabilul umed.",
+              "Verificați plăcuțele de frână înainte de plecare.",
+              "Îmbrăcămintea reflectorizantă sporește vizibilitatea.",
+              "Planificați un duș fierbinte imediat după tură."
+            ],
+            "en": [
+              "Mudguards on your bike are essential in the rain.",
+              "Avoid sharp turns on wet road surfaces.",
+              "Check your brake pads before starting the trip.",
+              "Neon rain gear increases your visibility to others.",
+              "Plan for a hot shower immediately after the tour."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frühmorgens startet die tour bei klarer, kalter Luft am Hafen. Mittags genießt man die Ruhe auf der Promenade. Nachmittags geht es hinauf zu den Ruinen mit fantastischem Fernblick. Der Wasserfall Sentona bietet ein tolles Naturschauspiel. In der Bucht von Maslinica genießt man die friedliche Winterstimmung.",
+            "hu": "Kora reggel indul a túra a tiszta, hideg levegőben. Délben a sétány nyugalmát élvezhetjük. Délután feltekerünk a romokhoz, ahonnan fantasztikus a kilátás. A Sentona-vízesés télen is lenyűgöző látvány. A Maslinica-öbölben a békés téli hangulat uralkodik.",
+            "ro": "Turul începe dimineața devreme în aerul curat și rece. La prânz, bucurați-vă de liniștea de pe faleză. După-amiaza, urcați la ruine pentru o vedere panoramică. Cascada Sentona este un spectacol natural superb. În golful Maslinica, savurați atmosfera pașnică.",
+            "en": "Start the tour early in the clear, cold morning air. At noon, enjoy the tranquility on the promenade. In the afternoon, ride up to the ruins for fantastic distant views. The Sentona waterfall offers a great natural spectacle. Enjoy the peaceful winter mood in Maslinica Bay."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Rabac",
+              "tip_5lang": {
+                "de": "Ganzkörper-Windschutz ist morgens wichtig.",
+                "hu": "Reggel fontos a teljes testet védő szélfogó ruha.",
+                "ro": "Protecția contra vântului e vitală dimineața.",
+                "en": "Full-body wind protection is vital in the morning."
+              }
+            },
+            {
+              "name": "Lungomare Promenade",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht hier mittags perfekt.",
+                "hu": "A téli nap délben itt pont szemből süt.",
+                "ro": "Soarele de iarnă pică perfect aici la prânz.",
+                "en": "The winter sun is perfectly positioned here at noon."
+              }
+            },
+            {
+              "name": "Teleferika Ruinen",
+              "tip_5lang": {
+                "de": "Der Anstieg hält Sie auch im Winter warm.",
+                "hu": "Az emelkedő télen is melegen tartja a testet.",
+                "ro": "Urcarea vă va ține de cald chiar și iarna.",
+                "en": "The climb will keep you warm even in winter."
+              }
+            },
+            {
+              "name": "Wasserfall Sentona",
+              "tip_5lang": {
+                "de": "Waldwege können gefroren und glatt sein.",
+                "hu": "Az erdei utak jegesek és csúszósak lehetnek.",
+                "ro": "Potecile din pădure pot fi înghețate și fine.",
+                "en": "Forest paths may be frozen and slippery."
+              }
+            },
+            {
+              "name": "Bucht von Maslinica",
+              "tip_5lang": {
+                "de": "Suchen Sie ein sonniges Plätzchen für die Pause.",
+                "hu": "Keressen egy napos helyet a pihenőhöz.",
+                "ro": "Căutați un loc însorit pentru pauză.",
+                "en": "Find a sunny spot for your break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterhandschuhe sind bei Abfahrten Pflicht.",
+              "Die Batterien von E-Bikes entladen sich schneller.",
+              "Nutzen Sie die hellen Stunden zwischen 10 und 15 Uhr.",
+              "Vermeiden Sie schattige Waldstücke bei Frost.",
+              "Ein Schlauchtuch schützt Hals und Gesicht."
+            ],
+            "hu": [
+              "A téli kesztyű kötelező a lejtőkön.",
+              "Az e-bike akkumulátorok gyorsabban merülnek.",
+              "Használja ki a világos órákat 10 és 15 óra között.",
+              "Fagy esetén kerülje az árnyékos erdőrészeket.",
+              "A csősál védi a nyakat és az arcot."
+            ],
+            "ro": [
+              "Mănușile de iarnă sunt obligatorii la coborâri.",
+              "Bateriile bicicletelor electrice se descarcă mai repede.",
+              "Folosiți orele cu lumină între 10 și 15.",
+              "Evitați porțiunile umbrite de pădure la îngheț.",
+              "Un fular tip tub protejează gâtul și fața."
+            ],
+            "en": [
+              "Winter gloves are mandatory for descents.",
+              "E-bike batteries drain faster in cold weather.",
+              "Make the most of daylight between 10 AM and 3 PM.",
+              "Avoid shaded forest sections during frost.",
+              "A neck warmer protects both neck and face."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -690,6 +1419,333 @@
           "The streets in Rabac are often steep and narrow.",
           "Pay parking fees via app."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie bequem die Highlights rund um Rabac. Nach dem Hafen besuchen Sie die Teleferika und den Sentona-Wasserfall. Den Mittag verbringen Sie in der weitläufigen Maslinica-Bucht, bevor Sie zum Girandella-Strand fahren.",
+            "hu": "Autóval kényelmesen felfedezheti Rabac környékének legfontosabb látnivalóit. A kikötő után a Teleferika és a Sentona-vízesés következik. A delet a tágas Maslinica-öbölben töltheti, majd a Girandella strandra autózhat.",
+            "ro": "Cu mașina puteți explora confortabil cele mai importante puncte din jurul stațiunii Rabac. După port, vizitați Teleferika și cascada Sentona. Prânzul îl petreceți în golful spațios Maslinica, înainte de a conduce spre plaja Girandella.",
+            "en": "By car, you can comfortably explore the highlights around Rabac. After the harbor, visit Teleferika and the Sentona Waterfall. Spend midday in the spacious Maslinica Bay before driving to Girandella Beach."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Rabac",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz oft kostenpflichtig.",
+                "hu": "A központi parkoló gyakran fizetős.",
+                "ro": "Parcarea centrală este adesea cu plată.",
+                "en": "Central parking is often paid."
+              }
+            },
+            {
+              "name": "Teleferika Ruinen",
+              "tip_5lang": {
+                "de": "Parken am Straßenrand möglich.",
+                "hu": "Parkolás az út szélén lehetséges.",
+                "ro": "Parcarea este posibilă pe marginea drumului.",
+                "en": "Parking possible on the roadside."
+              }
+            },
+            {
+              "name": "Wasserfall Sentona",
+              "tip_5lang": {
+                "de": "Parken Sie beim Wasserfall-Einstieg an der Hauptstraße.",
+                "hu": "Parkoljon a vízesés bejáratánál a főúton.",
+                "ro": "Parcați la intrarea spre cascadă de pe drumul principal.",
+                "en": "Park at the waterfall entrance on the main road."
+              }
+            },
+            {
+              "name": "Bucht von Maslinica",
+              "tip_5lang": {
+                "de": "Großer Parkplatz in der Nähe der Hotels.",
+                "hu": "Nagy parkoló a szállodák közelében.",
+                "ro": "Parcare mare în apropierea hotelurilor.",
+                "en": "Large parking lot near the hotels."
+              }
+            },
+            {
+              "name": "Strand Girandella",
+              "tip_5lang": {
+                "de": "Öffentlicher Parkplatz oberhalb der Ferienanlage.",
+                "hu": "Nyilvános parkoló az üdülőtelep felett.",
+                "ro": "Parcare publică deasupra complexului turistic.",
+                "en": "Public parking above the resort."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Trattoria La Pentola",
+                "tip": "Moderne Küche direkt am Meer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Trattoria La Pentola",
+                "tip": "Modern konyha közvetlenül a tengerparton."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Trattoria La Pentola",
+                "tip": "Bucătărie modernă chiar pe malul mării."
+              }
+            ],
+            "en": [
+              {
+                "name": "Trattoria La Pentola",
+                "tip": "Modern cuisine right by the sea."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Bucht von Maslinica",
+                "tip": "Ruhige Ecken am Rand des Parks.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Maslinica-öböl",
+                "tip": "Csendes zugok a park szélén.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Golful Maslinica",
+                "tip": "Colțuri liniștite la marginea parcului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Maslinica Bay",
+                "tip": "Quiet corners at the edge of the park.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Einkaufszentrum Labin",
+                "tip": "Kurze Fahrt bergauf für größere Einkäufe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Labin bevásárlóközpont",
+                "tip": "Rövid autóút felfelé a nagyobb bevásárlásokhoz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Centrul comercial Labin",
+                "tip": "O scurtă plimbare cu mașina pentru cumpărături mari."
+              }
+            ],
+            "en": [
+              {
+                "name": "Labin Shopping Center",
+                "tip": "Short drive uphill for larger shopping needs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straßen in Rabac sind oft steil und eng.",
+              "Parkgebühren per App bezahlen."
+            ],
+            "hu": [
+              "Rabac utcái gyakran meredekek és szűkek.",
+              "A parkolási díjat applikáción keresztül is fizetheti."
+            ],
+            "ro": [
+              "Străzile din Rabac sunt adesea abrupte și înguste.",
+              "Plătiți taxele de parcare prin aplicație."
+            ],
+            "en": [
+              "The streets in Rabac are often steep and narrow.",
+              "Pay parking fees via app."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bequem am Hafen parken und den Regen beobachten. Mittags geht es trocken zu den Ruinen und zum Sentona Wasserfall. Die Bucht von Maslinica ist auch im Regen gut erreichbar. Den Nachmittag verbringt man bei den Girandella-Stränden, wo die Infrastruktur Schutz bietet.",
+            "hu": "Reggel kényelmes parkolás a kikötőben, figyeljük az esőt. Délben szárazon jutunk el a romokhoz és a Sentona-vízeséshez. A Maslinica-öböl esőben is könnyen megközelíthető autóval. A délutánt a Girandella-strandoknál töltjük, ahol van fedett infrastruktúra.",
+            "ro": "Dimineața parcați comod în port și priviți ploaia. La prânz ajungeți la ruine și la cascadă stând la uscat în mașină. Golful Maslinica este ușor accesibil și pe ploaie. După-amiaza la plajele Girandella, unde găsiți adăpost.",
+            "en": "Park comfortably at the harbor in the morning and watch the rain. At noon, head to the ruins and the Sentona waterfall while staying dry. Maslinica Bay is easily accessible by car even in the rain. Spend the afternoon at the Girandella beaches, where the infrastructure provides shelter."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Rabac",
+              "tip_5lang": {
+                "de": "Parkplätze sind bei Regen direkt am Kai frei.",
+                "hu": "Esőben közvetlenül a parton is találni parkolót.",
+                "ro": "Locurile de parcare de pe chei sunt libere pe ploaie.",
+                "en": "Parking spots right on the quay are available in the rain."
+              }
+            },
+            {
+              "name": "Teleferika Ruinen",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Aussichtspunkt für kurze Wege.",
+                "hu": "Parkoljon közel a kilátóhoz a rövid séta érdekében.",
+                "ro": "Parcați aproape de punctul de belvedere.",
+                "en": "Park close to the viewpoint to minimize walking."
+              }
+            },
+            {
+              "name": "Wasserfall Sentona",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum unteren Wasserfall.",
+                "hu": "Rövid séta a parkolótól az alsó vízesésig.",
+                "ro": "Drum scurt pe jos de la parcare la cascadă.",
+                "en": "Short walk from the parking lot to the lower waterfall."
+              }
+            },
+            {
+              "name": "Bucht von Maslinica",
+              "tip_5lang": {
+                "de": "Ideal, um das Meer aus dem Auto zu beobachten.",
+                "hu": "Ideális hely a tenger megfigyelésére az autóból.",
+                "ro": "Loc ideal pentru a privi marea din mașină.",
+                "en": "Ideal spot for watching the sea from your car."
+              }
+            },
+            {
+              "name": "Strand Girandella",
+              "tip_5lang": {
+                "de": "Viele überdachte Parkmöglichkeiten in der Nähe.",
+                "hu": "Sok fedett parkolási lehetőség a közelben.",
+                "ro": "Multe posibilități de parcare acoperită în apropiere.",
+                "en": "Many covered parking options nearby."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Scheibenheizung gegen Beschlagen.",
+              "Vorsicht vor Aquaplaning auf der Küstenstraße.",
+              "Halten Sie Abstand zu anderen Fahrzeugen.",
+              "Ein Regenschirm im Kofferraum ist Pflicht.",
+              "Die Lichtautomatik bei Regen manuell prüfen."
+            ],
+            "hu": [
+              "Használja a szélvédőfűtést a párosodás ellen.",
+              "Vigyázzon a vízenfutásra a parti úton.",
+              "Tartson nagyobb követési távolságot.",
+              "Egy esernyő a csomagtartóban kötelező.",
+              "Esőben ellenőrizze az automata világítást."
+            ],
+            "ro": [
+              "Folosiți dezaburirea pentru parbriz.",
+              "Atenție la acvaplanare pe drumul de coastă.",
+              "Păstrați o distanță mai mare față de restul mașinilor.",
+              "O umbrelă în portbagaj este obligatorie.",
+              "Verificați manual luminile pe timp de ploaie."
+            ],
+            "en": [
+              "Use the windshield defroster to prevent fogging.",
+              "Watch out for aquaplaning on the coastal road.",
+              "Keep a larger distance from other vehicles.",
+              "An umbrella in the trunk is a must.",
+              "Check automatic lights manually during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens geht es entspannt zum Hafen, wo im Winter viel Platz ist. Mittags erkunden wir die Teleferika-Ruinen und den Sentona Wasserfall. Die Fahrt zur Maslinica-Bucht bietet tolle Ausblicke. Der Nachmittag an den Girandella-Stränden ist perfekt für einen Spaziergang im goldenen Licht, bevor man im warmen Auto zurückkehrt.",
+            "hu": "Reggel nyugodt érkezés a kikötőbe, télen bőven van hely. Délben felfedezzük a Teleferika-romokat és a Sentona-vízesést. A Maslinica-öbölhöz vezető út csodás kilátást nyújt. A délután a Girandella-strandokon tökéletes egy sétához az aranyló fényekben.",
+            "ro": "Dimineața ajungeți relaxați în port, unde e mult loc iarna. La prânz explorăm ruinele și cascada. Drumul spre golful Maslinica oferă vederi superbe. După-amiaza la plajele Girandella este ideală pentru o plimbare în lumina aurie.",
+            "en": "A relaxed morning drive to the harbor with plenty of winter parking. At noon, explore the ruins and Sentona waterfall. The drive to Maslinica Bay offers great views. The afternoon at Girandella beaches is perfect for a walk in the golden light before returning to the warm car."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Rabac",
+              "tip_5lang": {
+                "de": "Parken ist im Winter oft kostenlos oder günstiger.",
+                "hu": "A parkolás télen gyakran ingyenes vagy olcsóbb.",
+                "ro": "Parcarea este adesea gratuită sau mai ieftină iarna.",
+                "en": "Parking is often free or cheaper in winter."
+              }
+            },
+            {
+              "name": "Teleferika Ruinen",
+              "tip_5lang": {
+                "de": "Beste Zeit für Fotos ohne störende Autos.",
+                "hu": "A legjobb időpont fotózásra zavaró autók nélkül.",
+                "ro": "Cel mai bun moment pentru poze fără mașini în jur.",
+                "en": "Best time for photos without other cars around."
+              }
+            },
+            {
+              "name": "Wasserfall Sentona",
+              "tip_5lang": {
+                "de": "Guter Ausgangspunkt für eine kurze Winterwanderung.",
+                "hu": "Remek kiindulópont egy rövid téli túrához.",
+                "ro": "Punct bun de plecare pentru o scurtă drumeție.",
+                "en": "A good starting point for a short winter hike."
+              }
+            },
+            {
+              "name": "Bucht von Maslinica",
+              "tip_5lang": {
+                "de": "Im Winter herrscht hier wunderbare Stille.",
+                "hu": "Télen csodálatos csend honol az öbölben.",
+                "ro": "Iarna aici domnește o liniște minunată.",
+                "en": "Wonderful silence prevails in the bay during winter."
+              }
+            },
+            {
+              "name": "Strand Girandella",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang direkt vom Parkplatz.",
+                "hu": "Élvezze a naplementét közvetlenül a parkolóból.",
+                "ro": "Savurați apusul chiar din locul de parcare.",
+                "en": "Enjoy the sunset directly from the parking lot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Waschanlage.",
+              "Die Straßen können in schattigen Lagen glatt sein.",
+              "Parken Sie in der Sonne, um das Auto aufzuwärmen.",
+              "Winterreifen sind in Kroatien teils vorgeschrieben.",
+              "Eiskratzer für die frühen Morgenstunden bereit halten."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Az utak árnyékos részei jegesek lehetnek.",
+              "Parkoljon a napon, hogy felmelegedjen az autó.",
+              "A téli gumi Horvátországban néhol kötelező.",
+              "Legyen kéznél jégkaparó a kora reggeli órákban."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de parbriz.",
+              "Drumurile pot fi alunecoase în zonele umbrite.",
+              "Parcați la soare pentru a încălzi mașina.",
+              "Anvelopele de iarnă sunt parțial obligatorii în Croația.",
+              "Țineți racleta la îndemână pentru orele dimineții."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer.",
+              "Roads can be slippery in shaded areas.",
+              "Park in the sun to help warm up the car.",
+              "Winter tires are mandatory in parts of Croatia.",
+              "Keep an ice scraper handy for the early morning."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -860,6 +1916,279 @@
           "The tourist train runs every half hour.",
           "Buy tickets directly from the driver."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den bunten Touristenzug, um die verschiedenen Strandabschnitte von Rabac stressfrei zu erreichen.",
+            "hu": "Használja a színes kisvonatot, hogy stresszmentesen elérje Rabac különböző strandjait.",
+            "ro": "Folosiți trenulețul turistic colorat pentru a ajunge fără stres la diferitele secțiuni de plajă din Rabac.",
+            "en": "Use the colorful tourist train to reach the different beach sections of Rabac stress-free."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Rabac",
+              "tip_5lang": {
+                "de": "Zentraler Umstiegspunkt.",
+                "hu": "Központi átszállási pont.",
+                "ro": "Punct central de transfer.",
+                "en": "Central transfer point."
+              }
+            },
+            {
+              "name": "Strand Girandella",
+              "tip_5lang": {
+                "de": "Mit dem Touristenzug erreichbar.",
+                "hu": "Kisvonattal megközelíthető.",
+                "ro": "Accesibil cu trenulețul turistic.",
+                "en": "Accessible by tourist train."
+              }
+            },
+            {
+              "name": "Bucht von Maslinica",
+              "tip_5lang": {
+                "de": "Endstation der Bimmelbahn.",
+                "hu": "A kisvonat végállomása.",
+                "ro": "Capătul de linie al trenulețului.",
+                "en": "Terminal station of the shuttle train."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Buffet Pingo",
+                "tip": "Beliebt für Eis und schnelle Snacks."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pingo büfé",
+                "tip": "Népszerű fagylaltozó és gyorsbüfé."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Buffet Pingo",
+                "tip": "Popular pentru înghețată și gustări rapide."
+              }
+            ],
+            "en": [
+              {
+                "name": "Buffet Pingo",
+                "tip": "Popular for ice cream and quick snacks."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Strandpromenade",
+                "tip": "Abendspaziergang bei Sonnenuntergang.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tengerparti sétány",
+                "tip": "Esti séta naplementekor.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Faleza",
+                "tip": "O plimbare de seară la apus.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Beach promenade",
+                "tip": "Evening walk at sunset.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirshops am Hafen",
+                "tip": "Typische Urlaubsmitbringsel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötői ajándékboltok",
+                "tip": "Tipikus nyaralási emléktárgyak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazine de suveniruri în port",
+                "tip": "Suveniruri tipice de vacanță."
+              }
+            ],
+            "en": [
+              {
+                "name": "Souvenir shops at the harbor",
+                "tip": "Typical holiday souvenirs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Touristenzug fährt im Halbstundentakt.",
+              "Fahrkarten direkt beim Fahrer kaufen."
+            ],
+            "hu": [
+              "A kisvonat félóránként közlekedik.",
+              "Jegyet közvetlenül a vezetőnél vehet."
+            ],
+            "ro": [
+              "Trenulețul turistic circulă la fiecare jumătate de oră.",
+              "Cumpărați biletele direct de la șofer."
+            ],
+            "en": [
+              "The tourist train runs every half hour.",
+              "Buy tickets directly from the driver."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Hafen starten, wo die Busse Schutz bieten. Mittags geht es mit dem Nahverkehr zu den Girandella-Stränden. Den Nachmittag verbringt man geschützt in der Maslinica-Bucht. Die kurzen Wege zwischen den Haltestellen minimieren die Zeit im Regen.",
+            "hu": "Reggel a kikötőben kezdünk, ahol a buszokon nincs eső. Délben tömegközlekedéssel megyünk a Girandella-strandokhoz. A délutánt védetten töltjük a Maslinica-öbölben. A megállók közötti rövid séta miatt alig ázunk meg.",
+            "ro": "Începeți în port, unde autobuzele vă oferă adăpost. La prânz mergeți cu transportul local spre plajele Girandella. După-amiaza în golful Maslinica, la adăpost. Distanțele scurte dintre stații reduc timpul petrecut în ploaie.",
+            "en": "Start at the harbor in the morning, where the buses provide shelter. At noon, take public transport to the Girandella beaches. Spend the afternoon sheltered in Maslinica Bay. Short distances between stops minimize your time in the rain."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Rabac",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen bietet guten Schutz vor Regen.",
+                "hu": "A buszváró jó védelmet nyújt az eső ellen.",
+                "ro": "Stația de autobuz oferă protecție bună contra ploii.",
+                "en": "The bus shelter provides good protection from the rain."
+              }
+            },
+            {
+              "name": "Strand Girandella",
+              "tip_5lang": {
+                "de": "Nahegelegene Hotels haben oft öffentliche Cafés.",
+                "hu": "A közeli szállodákban gyakran vannak nyilvános kávézók.",
+                "ro": "Hotelurile din apropiere au adesea cafenele publice.",
+                "en": "Nearby hotels often have public cafes inside."
+              }
+            },
+            {
+              "name": "Bucht von Maslinica",
+              "tip_5lang": {
+                "de": "Vom Busstop ist es nur ein kurzer Sprung ins Trockene.",
+                "hu": "A buszmegállótól csak egy ugrás a fedett rész.",
+                "ro": "De la stația de autobuz e doar un pas până la adăpost.",
+                "en": "It's just a short dash to shelter from the bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren bei Regen oft pünktlicher als Autos.",
+              "Nutzen Sie Apps für Echtzeit-Fahrpläne.",
+              "Kleingeld für den Fahrkartenkauf bereithalten.",
+              "Die Busse sind im Winter gut beheizt.",
+              "Regenschirm beim Einsteigen bitte einklappen."
+            ],
+            "hu": [
+              "A buszok esőben gyakran pontosabbak az autóknál.",
+              "Használjon applikációt a valós idejű menetrendhez.",
+              "Legyen Önnél aprópénz a jegyvásárláshoz.",
+              "A buszok télen jól fűtöttek.",
+              "Felszálláskor kérjük, csukja össze az esernyőt."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea mai punctuale decât mașinile.",
+              "Folosiți aplicații pentru mersul trenurilor în timp real.",
+              "Aveți mărunt la voi pentru bilet.",
+              "Autobuzele sunt bine încălzite iarna.",
+              "Vă rugăm să închideți umbrela la urcare."
+            ],
+            "en": [
+              "Buses are often more punctual than cars in the rain.",
+              "Use apps for real-time schedule updates.",
+              "Keep small change ready for buying tickets.",
+              "The buses are well-heated in winter.",
+              "Please fold your umbrella before boarding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein ruhiger Wintermorgen am Hafen, die Busse fahren nach Fahrplan. Mittags geht es zu den Girandella-Stränden, die im Winterlicht glänzen. Den Nachmittag genießt man in der friedlichen Maslinica-Bucht, bevor der Bus einen zurück in den belebten Ortskern bringt.",
+            "hu": "Csendes téli reggel a kikötőben, a buszok menetrend szerint járnak. Délben a Girandella-strandokhoz utazunk, melyek ragyognak a téli fényben. A délutánt a békés Maslinica-öbölben töltjük, mielőtt visszatérnünk a központba.",
+            "ro": "O dimineață liniștită de iarnă în port, autobuzele circulă conform orarului. La prânz mergem spre plajele Girandella. După-amiaza în golful Maslinica, înainte de a reveni în centrul animat.",
+            "en": "A quiet winter morning at the harbor, with buses running on schedule. At noon, travel to the Girandella beaches, shining in the winter light. Enjoy the afternoon in peaceful Maslinica Bay before the bus takes you back to the lively center."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Rabac",
+              "tip_5lang": {
+                "de": "Winterfahrplan beachten, weniger Fahrten als im Sommer.",
+                "hu": "Figyelje a téli menetrendet, ritkábban járnak a buszok.",
+                "ro": "Atenție al orarul de iarnă, sunt mai puține curse.",
+                "en": "Check the winter schedule, there are fewer trips."
+              }
+            },
+            {
+              "name": "Strand Girandella",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt oberhalb der Strandanlagen.",
+                "hu": "A busz közvetlenül a strandkomplexum felett áll meg.",
+                "ro": "Autobuzul oprește chiar deasupra zonei de plajă.",
+                "en": "The bus stops directly above the beach facilities."
+              }
+            },
+            {
+              "name": "Bucht von Maslinica",
+              "tip_5lang": {
+                "de": "Die letzte Rückfahrt findet im Winter oft früher statt.",
+                "hu": "Télen az utolsó járat gyakran korábban indul vissza.",
+                "ro": "Ultima cursă de retur pleacă adesea mai devreme iarna.",
+                "en": "The last return trip often leaves earlier in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Im Winter sind die Busse fast leer und entspannt.",
+              "Ein warmes Getränk verkürzt die Wartezeit.",
+              "Fragen Sie den Fahrer nach dem letzten Bus zurück.",
+              "Sitzplätze sind im Winter garantiert vorhanden.",
+              "Genießen Sie die Aussicht aus dem warmen Bus."
+            ],
+            "hu": [
+              "Télen a buszok szinte üresek és nyugodtak.",
+              "Egy meleg ital lerövidíti a várakozási időt.",
+              "Kérdezze meg a sofőrt az utolsó visszainduló járatról.",
+              "Télen az ülőhely garantált a járatokon.",
+              "Élvezze a kilátást a fűtött buszból."
+            ],
+            "ro": [
+              "Iarna autobuzele sunt aproape goale și relaxante.",
+              "O băutură caldă face așteptarea mai ușoară.",
+              "Întrebați șoferul despre ultimul autobuz de retur.",
+              "Locurile pe scaun sunt garantate iarna.",
+              "Bucurați-vă de priveliște din autobuzul încălzit."
+            ],
+            "en": [
+              "In winter, the buses are almost empty and relaxed.",
+              "A warm drink makes the waiting time go by faster.",
+              "Ask the driver about the last bus back to the center.",
+              "Seats are available in winter without reservation.",
+              "Enjoy the views from the comfort of the heated bus."
+            ]
+          }
+        }
       }
     }
   },

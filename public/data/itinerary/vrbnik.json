@@ -327,6 +327,458 @@
           "Potovošće Beach is best reached by car or a long walk.",
           "Book a spot in the library in advance."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vrbnik thront majestätisch auf einem Felsen über dem Meer. Morgens verlieren Sie sich in den engen Gassen und testen Ihre Schlankheit in der Klančić-Gasse. Mittags besuchen Sie die wertvolle Bibliothek und genießen lokale Spezialitäten in einer Konoba. Der Nachmittag bietet spektakuläre Ausblicke entlang des Klippenpfads, bevor Sie den Tag am kristallklaren Wasser des Potovošće-Strands beenden.",
+            "hu": "Vrbnik fenségesen trónol a tenger feletti sziklán. Reggel vesszen el a szűk utcákban és tesztelje karcsúságát a Klančić közben. Délben látogassa meg az értékes könyvtárat és élvezze a helyi specialitásokat egy konobában. A délután látványos kilátást kínál a sziklaösvény mentén, mielőtt a napot a Potovošće strand kristálytiszta vizénél zárná.",
+            "ro": "Vrbnik tronează maiestuos pe o stâncă deasupra mării. Dimineața, pierdeți-vă pe străduțele înguste și testați-vă silueta în strada Klančić. La prânz, vizitați biblioteca valoroasă și savurați specialități locale într-o konoba. După-amiaza oferă vederi spectaculoase de-a lungul potecii de pe stânci, înainte de a încheia ziua la apa cristalină a plajei Potovošće.",
+            "en": "Vrbnik sits majestically on a cliff above the sea. In the morning, lose yourself in the narrow streets and test your slimness in Klančić Alley. At noon, visit the valuable library and enjoy local specialties in a tavern. The afternoon offers spectacular views along the cliff path before ending the day at the crystal-clear water of Potovošće Beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altstadt von Vrbnik",
+                "hu": "Vrbnik óvárosa",
+                "ro": "Centrul vechi din Vrbnik",
+                "en": "Vrbnik Old Town"
+              },
+              "tip_5lang": {
+                "de": "Labyrinthartige Gassen auf einem hohen Felsen.",
+                "hu": "Labirintusszerű utcák egy magas sziklán.",
+                "ro": "Străduțe labirintice pe o stâncă înaltă.",
+                "en": "Labyrinthine alleys on a high cliff."
+              }
+            },
+            {
+              "name": {
+                "de": "Klančić Gasse",
+                "hu": "Klančić köz",
+                "ro": "Strada Klančić",
+                "en": "Klančić Alley"
+              },
+              "tip_5lang": {
+                "de": "Versuchen Sie, durch die engste Gasse der Welt zu gehen.",
+                "hu": "Próbáljon meg átmenni a világ legszűkebb utcáján.",
+                "ro": "Încearcă să treci prin cea mai îngustă stradă din lume.",
+                "en": "Try walking through the narrowest street in the world."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfarrkirche Mariä Himmelfahrt",
+                "hu": "Mária mennybemenetele plébániatemplom",
+                "ro": "Biserica parohială Sfânta Maria",
+                "en": "Parish Church of the Assumption"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie den freistehenden Glockenturm.",
+                "hu": "Figyelje meg a különálló harangtornyot.",
+                "ro": "Observați clopotnița separată.",
+                "en": "Note the free-standing bell tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Bibliothek der Familie Vitezić",
+                "hu": "Vitezić család könyvtára",
+                "ro": "Biblioteca familiei Vitezić",
+                "en": "Vitezić Family Library"
+              },
+              "tip_5lang": {
+                "de": "Hier wird der berühmte Atlas von Kohler aufbewahrt.",
+                "hu": "Itt őrzik a híres Kohler-atlaszt.",
+                "ro": "Aici este păstrat faimosul atlas al lui Kohler.",
+                "en": "The famous Kohler Atlas is kept here."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittagessen mit Meerblick",
+                "hu": "Ebéd tengeri kilátással",
+                "ro": "Prânz cu vedere la mare",
+                "en": "Lunch with Sea View"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie Šurlice mit Lammgulasch.",
+                "hu": "Kóstolja meg a Šurlicét báránygulyással.",
+                "ro": "Gustați Šurlice cu gulaș de miel.",
+                "en": "Try Šurlice pasta with lamb stew."
+              }
+            },
+            {
+              "name": {
+                "de": "Klippenpfad von Vrbnik",
+                "hu": "Vrbniki sziklaösvény",
+                "ro": "Poteca de pe stânci din Vrbnik",
+                "en": "Vrbnik Cliff Path"
+              },
+              "tip_5lang": {
+                "de": "Atemberaubender Blick auf die Adria.",
+                "hu": "Lélegzetelállító kilátás az Adriára.",
+                "ro": "Vedere uluitoare asupra Mării Adriatice.",
+                "en": "Breathtaking view of the Adriatic Sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Potovošće",
+                "hu": "Potovošće strand",
+                "ro": "Plaja Potovošće",
+                "en": "Potovošće Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Kieselstrand, ideal zum Abkühlen.",
+                "hu": "Szép kavicsos strand, ideális a hűsölésre.",
+                "ro": "O plajă frumoasă cu pietriș, ideală pentru răcorire.",
+                "en": "A beautiful pebble beach, ideal for cooling off."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Žlahtina Wein",
+                "tip": "Der berühmte Weißwein, der nur hier wächst."
+              },
+              {
+                "name": "Šurlice",
+                "tip": "Hausgemachte Nudeln mit Meeresfrüchten oder Fleisch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Žlahtina bor",
+                "tip": "A híres fehérbor, amely csak itt terem."
+              },
+              {
+                "name": "Šurlice",
+                "tip": "Házi tészta tenger gyümölcseivel vagy hússal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vin Žlahtina",
+                "tip": "Faimosul vin alb care crește doar aici."
+              },
+              {
+                "name": "Šurlice",
+                "tip": "Paste de casă cu fructe de mare sau carne."
+              }
+            ],
+            "en": [
+              {
+                "name": "Žlahtina Wine",
+                "tip": "The famous white wine that grows only here."
+              },
+              {
+                "name": "Šurlice",
+                "tip": "Homemade pasta with seafood or meat."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Klippenpfad",
+                "tip": "Unendliche Weite des blauen Meeres.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Baćin dvor Garten",
+                "tip": "Ein ruhiger historischer Komplex.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sziklaösvény",
+                "tip": "A kék tenger végtelen tágassága.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Baćin dvor kert",
+                "tip": "Egy nyugodt történelmi komplexum.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Poteca de pe stânci",
+                "tip": "Vastitatea infinită a mării albastre.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Grădina Baćin dvor",
+                "tip": "Un complex istoric liniștit.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cliff Path",
+                "tip": "Infinite expanse of the blue sea.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Baćin dvor Garden",
+                "tip": "A quiet historical complex.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Vinothek Gospoja",
+                "tip": "Kaufen Sie eine Flasche Žlahtina direkt vom Erzeuger."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gospoja vinotéka",
+                "tip": "Vásároljon egy üveg Žlahtinát közvetlenül a termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vinoteca Gospoja",
+                "tip": "Cumpărați o sticlă de Žlahtina direct de la producător."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gospoja Winery",
+                "tip": "Buy a bottle of Žlahtina directly from the producer."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie rutschfeste Schuhe, die Steine in der Altstadt sind glatt poliert.",
+              "Vrbnik ist berühmt für seine Glagoliza-Inschriften, halten Sie Ausschau danach.",
+              "Der Strand Potovošće ist am besten mit dem Auto oder einem längeren Spaziergang erreichbar.",
+              "Buchen Sie im Voraus einen Platz in der Bibliothek."
+            ],
+            "hu": [
+              "Viseljen csúszásmentes cipőt, az óváros kövei simára koptak.",
+              "Vrbnik híres a glagolita feliratokról, keresse őket a falakon.",
+              "A Potovošće strand autóval vagy hosszabb sétával érhető el legjobban.",
+              "Foglaljon előre helyet a könyvtárlátogatáshoz."
+            ],
+            "ro": [
+              "Purtați încălțăminte aderentă, pietrele din centrul vechi sunt șlefuite și alunecoase.",
+              "Vrbnik este faimos pentru inscripțiile glagolitice, căutați-le.",
+              "Plaja Potovošće este cel mai bine accesibilă cu mașina sau printr-o plimbare lungă.",
+              "Rezervați din timp un loc pentru bibliotecă."
+            ],
+            "en": [
+              "Wear non-slip shoes; the stones in the old town are polished smooth.",
+              "Vrbnik is famous for its Glagolitic inscriptions; look out for them.",
+              "Potovošće Beach is best reached by car or a long walk.",
+              "Book a spot in the library in advance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Morgen in den engen Gassen, wo die glänzenden Steine eine mystische Atmosphäre schaffen. Ein Schirm ist in der Altstadt unverzichtbar.\n\nMittags bieten die Kirche und die Bibliothek trockene Zuflucht und kulturelle Tiefe.\n\nNachmittags genießen Sie lokale Žlahtina in einer gemütlichen Taverne, während der Regen draußen prasselt.\n\nDer Tag endet mit einem Blick auf die stürmische Adria von den geschützten Aussichtspunkten.",
+            "hu": "Esős reggel az óváros szűk utcáin, ahol a vizes kövek misztikus fényt árasztanak. Az esernyő kötelező kellék.\n\nDélben a plébániatemplom és a Vitezić könyvtár nyújt száraz menedéket a történelmi falak között.\n\nDélután egy pohár helyi Žlahtina mellett pihenhetünk meg egy meleg vendéglőben, figyelve a kinti esőt.\n\nA napot a viharos tenger látványa zárja a sziklák feletti védett pontokról.",
+            "ro": "O dimineață ploioasă pe străzile înguste, unde pietrele lucioase creează o atmosferă mistică. Umbrela este indispensabilă.\n\nLa prânz, biserica și biblioteca oferă un refugiu uscat printre zidurile istorice.\n\nDupă-amiaza, savurați un pahar de Žlahtina locală într-o tavernă primitoare, în timp ce ploaia cade afară.\n\nZiua se încheie cu o priveliște asupra Adriaticii învolburate de pe punctele de observație protejate.",
+            "en": "A rainy morning in the narrow alleys, where the wet stones create a mystical atmosphere. An umbrella is essential in the old town.\n\nAt noon, the church and library provide dry shelter and cultural depth within historic walls.\n\nAfternoon is spent enjoying local Žlahtina wine in a cozy tavern while the rain patters outside.\n\nThe day ends with a view of the stormy Adriatic from sheltered viewpoints above the cliffs."
+          },
+          "stops": [
+            {
+              "name": "Vrbnik Old Town",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Pflaster.",
+                "hu": "Vigyázat, a nedves kövek csúsznak.",
+                "ro": "Atenție la pavajul alunecos.",
+                "en": "Careful, wet stones are slippery."
+              }
+            },
+            {
+              "name": "Klančić Alley",
+              "tip_5lang": {
+                "de": "Engste Gasse als Windschutz nutzen.",
+                "hu": "Használja szélfogónak a szűk utcát.",
+                "ro": "Folosiți aleea ca adăpost contra vântului.",
+                "en": "Use the narrow alley as wind shelter."
+              }
+            },
+            {
+              "name": "Parish Church of the Assumption",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den Schauer abzuwarten.",
+                "hu": "Ideális hely az eső kivárására.",
+                "ro": "Loc ideal pentru a aștepta trecerea ploii.",
+                "en": "Ideal place to wait out the shower."
+              }
+            },
+            {
+              "name": "Vitezić Family Library",
+              "tip_5lang": {
+                "de": "Perfektes Indoor-Programm bei Regen.",
+                "hu": "Tökéletes beltéri program esőben.",
+                "ro": "Program interior perfect pentru ploaie.",
+                "en": "Perfect indoor activity for rainy days."
+              }
+            },
+            {
+              "name": "Lunch with Sea View",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick von drinnen.",
+                "hu": "Élvezze a kilátást a beltérből.",
+                "ro": "Bucurați-vă de priveliște din interior.",
+                "en": "Enjoy the view from the warm interior."
+              }
+            },
+            {
+              "name": "Vrbnik Cliff Path",
+              "tip_5lang": {
+                "de": "Gute Regenjacke gegen die Gischt nötig.",
+                "hu": "Vízálló kabát kell a sós permet ellen.",
+                "ro": "Geacă impermeabilă necesară contra spray-ului marin.",
+                "en": "Waterproof jacket needed against sea spray."
+              }
+            },
+            {
+              "name": "Potovošće Beach",
+              "tip_5lang": {
+                "de": "Kurzer Stopp nur für das Panorama.",
+                "hu": "Rövid megálló csak a panoráma miatt.",
+                "ro": "Oprire scurtă doar pentru panoramă.",
+                "en": "Short stop only for the panorama."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Kalksteinpflaster werden bei Nässe extrem rutschig.",
+              "Tragen Sie Schuhe mit gutem Profil.",
+              "Viele Cafés haben überdachte Terrassen.",
+              "Die Bura kann Regenschirme zerstören, Regenponchos sind besser."
+            ],
+            "hu": [
+              "A mészkő burkolat vizesen rendkívül csúszós.",
+              "Használjon tapadós talpú cipőt.",
+              "Sok kávézó rendelkezik fedett terasszal.",
+              "A Bura szél tönkreteheti az esernyőt, az esőponcsó jobb választás."
+            ],
+            "ro": [
+              "Pavajul de calcar devine extrem de alunecos când este ud.",
+              "Purtați pantofi cu talpă aderentă.",
+              "Multe cafenele au terase acoperite.",
+              "Vântul Bura poate distruge umbrelele, pelerinele sunt mai bune."
+            ],
+            "en": [
+              "Limestone pavements become extremely slippery when wet.",
+              "Wear shoes with good grip.",
+              "Many cafes have covered terraces.",
+              "The Bura wind can destroy umbrellas; rain ponchos are better."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen in der stillen Altstadt. Die Bura weht frisch durch die Gassen, was den Besuch besonders authentisch macht.\n\nMittags wärmen die dicken Mauern der Kirche und die ruhige Atmosphäre der Bibliothek Geist und Körper.\n\nNachmittags lockt ein herzhaftes Mittagessen mit lokalem Schinken und Wein in den wenigen geöffneten Tavernen.\n\nDa die Sonne früh untergeht, genießen Sie das goldene Licht auf den Klippen gegen 16:00 Uhr, bevor es gemütlich wird.",
+            "hu": "Hűvös téli reggel a csendes óvárosban. A bura szél frissen fúj át a sikátorokon, különleges hangulatot árasztva.\n\nDélben a templom vastag falai és a könyvtár nyugalma melengeti meg a látogatót.\n\nDélután egy kiadós ebéd helyi sonkával és borral a kevés nyitva tartó vendéglő egyikében ad energiát.\n\nA korai naplemente miatt 16:00 körül érdemes a sziklákon csodálni az aranyló fényeket, mielőtt leszáll az est.",
+            "ro": "O dimineață răcoroasă de iarnă în orașul vechi liniștit. Vântul Bura suflă proaspăt prin alei, oferind o experiență autentică.\n\nLa prânz, zidurile groase ale bisericii și atmosfera calmă a bibliotecii încălzesc spiritul.\n\nDupă-amiaza, un prânz copios cu șuncă locală și vin într-una dintre puținele taverne deschise oferă energie.\n\nDeoarece soarele apune devreme, bucurați-vă de lumina aurie pe stânci în jurul orei 16:00.",
+            "en": "A cool winter morning in the quiet old town. The Bura wind blows fresh through the alleys, making the visit truly authentic.\n\nAt noon, the thick church walls and the calm atmosphere of the library warm the spirit.\n\nAfternoon features a hearty lunch with local ham and wine in one of the few open taverns.\n\nSince the sun sets early, enjoy the golden light on the cliffs around 16:00 before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Vrbnik Old Town",
+              "tip_5lang": {
+                "de": "Windgeschützte Ecken in den Gassen suchen.",
+                "hu": "Keresse a szélvédett sarkokat.",
+                "ro": "Căutați colțurile ferite de vânt.",
+                "en": "Look for wind-sheltered corners."
+              }
+            },
+            {
+              "name": "Klančić Alley",
+              "tip_5lang": {
+                "de": "Hier zieht der Wind kaum durch.",
+                "hu": "Itt alig fúj át a szél.",
+                "ro": "Vântul abia pătrunde aici.",
+                "en": "The wind barely blows through here."
+              }
+            },
+            {
+              "name": "Parish Church of the Assumption",
+              "tip_5lang": {
+                "de": "Angenehme Kühle, aber windstill.",
+                "hu": "Kellemes hűvös, de szélcsendes.",
+                "ro": "Răcoare plăcută, dar fără vânt.",
+                "en": "Pleasantly cool but windless."
+              }
+            },
+            {
+              "name": "Vitezić Family Library",
+              "tip_5lang": {
+                "de": "Bester Ort zum Aufwärmen.",
+                "hu": "A legjobb hely a felmelegedésre.",
+                "ro": "Cel mai bun loc pentru încălzire.",
+                "en": "Best place to warm up."
+              }
+            },
+            {
+              "name": "Lunch with Sea View",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Platz am Ofen.",
+                "hu": "Kérjen helyet a kályha közelében.",
+                "ro": "Cereți un loc lângă sobă.",
+                "en": "Ask for a seat near the heater."
+              }
+            },
+            {
+              "name": "Vrbnik Cliff Path",
+              "tip_5lang": {
+                "de": "Warme Mütze gegen die Bura nötig.",
+                "hu": "Meleg sapka kell a bura ellen.",
+                "ro": "Căciulă groasă necesară contra vântului Bura.",
+                "en": "Warm hat needed against the Bura wind."
+              }
+            },
+            {
+              "name": "Potovošće Beach",
+              "tip_5lang": {
+                "de": "Einsame, raue Schönheit im Winter.",
+                "hu": "Kihalt, vad szépség télen.",
+                "ro": "Frumusețe sălbatică și pustie iarna.",
+                "en": "Desolate, wild beauty in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bura kann die gefühlte Temperatur stark senken.",
+              "Zwiebelprinzip bei der Kleidung ist ratsam.",
+              "Sonnenuntergang ist bereits gegen 16:30 Uhr.",
+              "Prüfen Sie Öffnungszeiten, da Saisonpause herrscht."
+            ],
+            "hu": [
+              "A bura szél jelentősen csökkenti a hőérzetet.",
+              "Réteges öltözködés javasolt.",
+              "A naplemente már 16:30 körül bekövetkezik.",
+              "Ellenőrizze a nyitvatartást, sok hely zárva van."
+            ],
+            "ro": [
+              "Vântul Bura poate scădea mult temperatura resimțită.",
+              "Se recomandă îmbrăcămintea în straturi.",
+              "Apusul are loc deja în jurul orei 16:30.",
+              "Verificați programul, multe locuri sunt închise în extrasezon."
+            ],
+            "en": [
+              "The Bura wind can significantly lower the perceived temperature.",
+              "Layered clothing is highly recommended.",
+              "Sunset is already around 16:30.",
+              "Check opening hours as many places are closed off-season."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -589,6 +1041,390 @@
           "Some paths are gravel; watch your tires.",
           "Cycling is prohibited in the old town; please push your bike."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Vrbnik und seine umliegenden Weinberge mit dem Rad. Nach einem kurzen Besuch im historischen Kern radeln Sie durch das malerische Hinterland zum abgelegenen Strand Potovošće. Die Route führt Sie direkt durch die Felder, auf denen die Žlahtina-Trauben reifen. Zum Abschluss kehren Sie für ein wohlverdientes Essen ins Zentrum zurück.",
+            "hu": "Fedezze fel Vrbniket és a környező szőlőültetvényeket biciklivel. A történelmi mag rövid meglátogatása után tekerjen át a festői hátországon a félreeső Potovošće strandhoz. Az útvonal közvetlenül azokon a földeken vezet keresztül, ahol a Žlahtina szőlő érik. Végezetül térjen vissza a központba egy jól megérdemelt ebédre.",
+            "ro": "Explorați Vrbnik și podgoriile înconjurătoare cu bicicleta. După o scurtă vizită în nucleul istoric, pedalați prin hinterlandul pitoresc spre plaja retrasă Potovošće. Traseul trece direct prin câmpurile unde se coc strugurii Žlahtina. La final, reveniți în centru pentru o masă binemeritată.",
+            "en": "Explore Vrbnik and its surrounding vineyards by bike. After a short visit to the historical core, cycle through the picturesque hinterland to the secluded Potovošće Beach. The route leads you directly through the fields where the Žlahtina grapes ripen. Finally, return to the center for a well-deserved meal."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vrbnik Altstadt-Eingang",
+                "hu": "Vrbnik óváros bejárat",
+                "ro": "Intrarea în centrul vechi Vrbnik",
+                "en": "Vrbnik Old Town Entrance"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad am Parkplatz ab, bevor Sie die Gassen betreten.",
+                "hu": "Parkolja le a biciklit a parkolóban, mielőtt belép a szűk utcákba.",
+                "ro": "Lăsați bicicleta în parcare înainte de a intra pe străduțe.",
+                "en": "Park your bike in the parking lot before entering the alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Glockenturm von Vrbnik",
+                "hu": "Vrbniki harangtorony",
+                "ro": "Clopotnița din Vrbnik",
+                "en": "Vrbnik Bell Tower"
+              },
+              "tip_5lang": {
+                "de": "Wahrzeichen der Stadt mit toller Aussicht.",
+                "hu": "A város jelképe remek kilátással.",
+                "ro": "Simbolul orașului cu o vedere excelentă.",
+                "en": "Landmark of the town with a great view."
+              }
+            },
+            {
+              "name": {
+                "de": "Baćin dvor Komplex",
+                "hu": "Baćin dvor komplexum",
+                "ro": "Complexul Baćin dvor",
+                "en": "Baćin dvor Complex"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über die lokale Kulturgeschichte.",
+                "hu": "Tudjon meg többet a helyi kultúrtörténetről.",
+                "ro": "Aflați mai multe despre istoria culturală locală.",
+                "en": "Learn more about local cultural history."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Potovošće (Radtour)",
+                "hu": "Potovošće strand (biciklitúra)",
+                "ro": "Plaja Potovošće (tur bicicletă)",
+                "en": "Potovošće Beach (bike tour)"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt dorthin führt durch Weinberge.",
+                "hu": "Az odaút szőlőültetvényeken keresztül vezet.",
+                "ro": "Drumul până acolo trece prin podgorii.",
+                "en": "The ride there leads through vineyards."
+              }
+            },
+            {
+              "name": {
+                "de": "Weinberge von Vrbnik",
+                "hu": "Vrbniki szőlőskertek",
+                "ro": "Podgoriile din Vrbnik",
+                "en": "Vrbnik Vineyards"
+              },
+              "tip_5lang": {
+                "de": "Hier wächst die berühmte Žlahtina-Traube.",
+                "hu": "Itt terem a híres Žlahtina szőlő.",
+                "ro": "Aici crește faimosul strugure Žlahtina.",
+                "en": "The famous Žlahtina grape grows here."
+              }
+            },
+            {
+              "name": {
+                "de": "Spätes Mittagessen im Zentrum",
+                "hu": "Késői ebéd a központban",
+                "ro": "Prânz târziu în centru",
+                "en": "Late Lunch in Center"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie ein Glas Wein zum Abschluss.",
+                "hu": "Élvezzen egy pohár bort lezárásként.",
+                "ro": "Savurați un pahar de vin la final.",
+                "en": "Enjoy a glass of wine to finish."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Akvarij",
+                "tip": "Frischer Fisch und lokale Pasta-Spezialitäten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Akvarij konoba",
+                "tip": "Friss hal és helyi tészta különlegességek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Akvarij",
+                "tip": "Pește proaspăt și specialități locale de paste."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Akvarij",
+                "tip": "Fresh fish and local pasta specialties."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Vrbnik-Feld",
+                "tip": "Ruhe inmitten der Weinstöcke.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vrbniki mező",
+                "tip": "Csend a tőkék között.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Câmpul Vrbnik",
+                "tip": "Liniște în mijlocul viței de vie.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Vrbnik Field",
+                "tip": "Peace among the vines.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Hausgemachter Käse",
+                "tip": "Kaufen Sie Schafskäse von lokalen Bauern."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Házi sajt",
+                "tip": "Vásároljon juhsajtot a helyi gazdáktól."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brânză de casă",
+                "tip": "Cumpărați brânză de oaie de la fermierii locali."
+              }
+            ],
+            "en": [
+              {
+                "name": "Homemade Cheese",
+                "tip": "Buy sheep cheese from local farmers."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "E-Bikes werden für die Hügel um Vrbnik empfohlen.",
+              "Nehmen Sie ausreichend Wasser für die Fahrt durch die Weinberge mit.",
+              "Einige Wege sind geschottert, achten Sie auf Ihre Reifen.",
+              "In der Altstadt ist das Radfahren verboten, bitte schieben."
+            ],
+            "hu": [
+              "E-bike ajánlott a Vrbnik körüli dombokhoz.",
+              "Vigyen elegendő vizet a szőlőültetvényeken való tekeréshez.",
+              "Néhány út murvás, ügyeljen a gumikra.",
+              "Az óvárosban tilos biciklizni, kérjük tolja a kerékpárt."
+            ],
+            "ro": [
+              "Se recomandă biciclete electrice pentru dealurile din jurul Vrbnikului.",
+              "Luați suficientă apă pentru drumul prin podgorii.",
+              "Unele drumuri sunt cu pietriș, atenție la anvelope.",
+              "Biciclismul este interzis în centrul vechi, vă rugăm să mergeți pe lângă."
+            ],
+            "en": [
+              "E-bikes are recommended for the hills around Vrbnik.",
+              "Take enough water for the ride through the vineyards.",
+              "Some paths are gravel; watch your tires.",
+              "Cycling is prohibited in the old town; please push your bike."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein herausfordernder Morgen für Radfahrer. Die Pfade sind rutschig, aber die Weinberge wirken im Nebel mystisch.\n\nMittags suchen wir Schutz im Turm und bei den historischen Gebäuden im Zentrum.\n\nNachmittags führt die Tour durch die nassen Weinreben direkt zu einer trockenen Weinverkostung.\n\nDer Tag endet mit einem heißen Getränk im Ortskern nach der nassen Rückfahrt.",
+            "hu": "Kihívásokkal teli reggel a kerékpárosoknak. Az utak csúszósak, de a szőlőültetvények ködbe burkolózva misztikusak.\n\nDélben a várfalak és a központ történelmi épületei nyújtanak menedéket.\n\nDélután a túra a nedves tőkéktől egyenesen egy száraz borkóstolóra vezet.\n\nA nap egy forró itallal zárul a faluban a vizes visszaút után.",
+            "ro": "O dimineață provocatoare pentru bicicliști. Potecile sunt alunecoase, dar podgoriile par mistice în ceață.\n\nLa prânz, căutăm adăpost în turn și lângă clădirile istorice din centru.\n\nDupă-amiaza, turul printre viile ude duce direct la o degustare de vinuri la adăpost.\n\nZiua se încheie cu o băutură caldă în centru după drumul umed de întoarcere.",
+            "en": "A challenging morning for cyclists. Trails are slippery, but the vineyards look mystical shrouded in mist.\n\nAt noon, seek shelter in the tower and historical buildings in the center.\n\nIn the afternoon, the tour through wet vines leads straight to a dry wine tasting.\n\nThe day ends with a hot drink in the village after the wet ride back."
+          },
+          "stops": [
+            {
+              "name": "Vrbnik Old Town Entrance",
+              "tip_5lang": {
+                "de": "Fahrrad sicher und trocken abstellen.",
+                "hu": "Parkoljon le biztonságos, fedett helyen.",
+                "ro": "Parcați bicicleta într-un loc sigur și uscat.",
+                "en": "Park your bike in a safe, dry spot."
+              }
+            },
+            {
+              "name": "Vrbnik Bell Tower",
+              "tip_5lang": {
+                "de": "Schutz vor vertikalem Regen suchen.",
+                "hu": "Keressen menedéket a függőleges eső elől.",
+                "ro": "Căutați adăpost contra ploii verticale.",
+                "en": "Seek shelter from the vertical rain."
+              }
+            },
+            {
+              "name": "Baćin dvor Complex",
+              "tip_5lang": {
+                "de": "Besichtigung der Innenräume nutzen.",
+                "hu": "Használja ki a belső terek látogatását.",
+                "ro": "Vizitați spațiile interioare.",
+                "en": "Take advantage of visiting the interiors."
+              }
+            },
+            {
+              "name": "Potovošće Beach (bike tour)",
+              "tip_5lang": {
+                "de": "Schlammiger Weg, langsam fahren.",
+                "hu": "Saras út, vezessen lassan.",
+                "ro": "Drum noroios, conduceți încet.",
+                "en": "Muddy path, ride slowly."
+              }
+            },
+            {
+              "name": "Vrbnik Vineyards",
+              "tip_5lang": {
+                "de": "Atmosphärisch, aber nass.",
+                "hu": "Hangulatos, de vizes.",
+                "ro": "Atmosferic, dar umed.",
+                "en": "Atmospheric but wet."
+              }
+            },
+            {
+              "name": "Late Lunch in Center",
+              "tip_5lang": {
+                "de": "Aufwärmen und Kleidung trocknen.",
+                "hu": "Melegedjen fel és szárítsa meg ruháit.",
+                "ro": "Încălziți-vă și uscați-vă hainele.",
+                "en": "Warm up and dry your clothes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen unerlässlich.",
+              "Bremsweg auf nassem Asphalt deutlich länger.",
+              "Tragen Sie leuchtende Regenbekleidung.",
+              "Vermeiden Sie unbefestigte Wege in den Weinbergen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen esőben.",
+              "A fékút vizes aszfalton jelentősen megnő.",
+              "Viseljen feltűnő esőruházatot.",
+              "Kerülje a kiépítetlen utakat a szőlőben."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pe ploaie.",
+              "Distanța de frânare pe asfalt ud este mult mai mare.",
+              "Purtați echipament de ploaie reflectorizant.",
+              "Evitați drumurile neasfaltate printre vii."
+            ],
+            "en": [
+              "Mudguards are essential in the rain.",
+              "Braking distance is significantly longer on wet asphalt.",
+              "Wear high-visibility rain gear.",
+              "Avoid unpaved paths in the vineyards."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein eiskalter, aber klarer Morgen. Die Luft ist rein, perfekt für eine sportliche Runde durch die leeren Hügel.\n\nMittags bietet der Glockenturm einen weiten Blick über die schneefreie, aber raue Winterlandschaft.\n\nNachmittags wärmt die Sonne nur kurz in den Weinbergen; die Rückfahrt erfolgt im zügigen Tempo.\n\nDer Tag endet früh mit einem warmen Essen im Dorf, bevor die Winterkälte übernimmt.",
+            "hu": "Dermesztő, de tiszta reggel. A levegő friss, tökéletes egy sportos körre a néptelen dombok között.\n\nDélben a harangtorony messzi kilátást nyújt a hómentes, de zord téli tájra.\n\nDélután a nap csak rövid ideig melegít a szőlőben; a visszaút gyors tempóban zajlik.\n\nA nap korán, egy meleg étellel zárul a faluban, mielőtt beáll a téli fagy.",
+            "ro": "O dimineață geroasă, dar senină. Aerul este curat, perfect pentru o tură sportivă printre dealurile pustii.\n\nLa prânz, clopotnița oferă o vedere largă asupra peisajului de iarnă aspru, dar fără zăpadă.\n\nDupă-amiaza, soarele încălzește doar scurt timp în vii; întoarcerea se face în ritm susținut.\n\nZiua se încheie devreme cu o masă caldă în sat.",
+            "en": "A freezing but clear morning. The air is pure, perfect for a sporty ride through the empty hills.\n\nAt noon, the bell tower offers a wide view over the snow-free but harsh winter landscape.\n\nIn the afternoon, the sun warms only briefly in the vineyards; the return trip is done at a brisk pace.\n\nThe day ends early with a warm meal in the village before the winter cold takes over."
+          },
+          "stops": [
+            {
+              "name": "Vrbnik Old Town Entrance",
+              "tip_5lang": {
+                "de": "Handschuhe beim Absteigen anlassen.",
+                "hu": "Maradjon kesztyűben leszállás után is.",
+                "ro": "Păstrați mănușile după ce coborâți.",
+                "en": "Keep your gloves on after dismounting."
+              }
+            },
+            {
+              "name": "Vrbnik Bell Tower",
+              "tip_5lang": {
+                "de": "Windig da oben, kurz halten.",
+                "hu": "Szeles a tetőn, ne maradjon sokáig.",
+                "ro": "Vânt puternic sus, stați puțin.",
+                "en": "Windy up there, keep it short."
+              }
+            },
+            {
+              "name": "Baćin dvor Complex",
+              "tip_5lang": {
+                "de": "Kulturstopp zum Aufwärmen nutzen.",
+                "hu": "Használja felmelegedésre a kulturális megállót.",
+                "ro": "Folosiți oprirea culturală pentru încălzire.",
+                "en": "Use the cultural stop to warm up."
+              }
+            },
+            {
+              "name": "Potovošće Beach (bike tour)",
+              "tip_5lang": {
+                "de": "Kalter Seewind, Schutzkleidung nötig.",
+                "hu": "Hideg tengeri szél, védőruházat kell.",
+                "ro": "Vânt marin rece, echipament de protecție necesar.",
+                "en": "Cold sea wind, protective gear needed."
+              }
+            },
+            {
+              "name": "Vrbnik Vineyards",
+              "tip_5lang": {
+                "de": "Kahle Reben in tiefstehender Sonne.",
+                "hu": "Kopasz tőkék az alacsony napállásban.",
+                "ro": "Vițe golașe în lumina joasă a soarelui.",
+                "en": "Bare vines in the low sun."
+              }
+            },
+            {
+              "name": "Late Lunch in Center",
+              "tip_5lang": {
+                "de": "Kalorienspeicher wieder auffüllen.",
+                "hu": "Töltse fel az energiaraktárait.",
+                "ro": "Reîncărcați-vă rezervele de energie.",
+                "en": "Refill your energy reserves."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Unterwäsche und Windstopper sind Pflicht.",
+              "Achten Sie auf gefrierende Nässe im Schatten.",
+              "Tageslicht nutzen, ab 16:30 wird es dunkel.",
+              "Warme Getränke in Thermosflaschen mitnehmen."
+            ],
+            "hu": [
+              "A termo-aláöltözet és szélfogó kötelező.",
+              "Ügyeljen a fagyos foltokra az árnyékos részeken.",
+              "Használja ki a nappali fényt, 16:30-kor sötétedik.",
+              "Vigyen magával meleg italt termoszhordozóban."
+            ],
+            "ro": [
+              "Lenjeria termică și jacheta windstopper sunt obligatorii.",
+              "Atenție la zonele umede înghețate la umbră.",
+              "Profitate de lumina zilei, se întunecă la 16:30.",
+              "Luați băuturi calde în termos."
+            ],
+            "en": [
+              "Thermal underwear and windstoppers are mandatory.",
+              "Watch out for freezing moisture in shaded areas.",
+              "Make use of daylight; it gets dark from 16:30.",
+              "Take warm drinks in thermos flasks."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -828,6 +1664,358 @@
           "Drive carefully as there are many hikers on the roads.",
           "Visit a winery for an organized tasting."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto genießen Sie Vrbnik stressfrei. Morgens erkunden Sie die historische Altstadt und ihre wertvolle Bibliothek. Nach einem ausgiebigen Mittagessen im Herzen des Ortes fahren Sie zum wunderschönen Strand Potovošće. Dort können Sie die Sonne und das klare Meer genießen, bevor Sie den Tag entspannt ausklingen lassen.",
+            "hu": "Autóval stresszmentesen élvezheti Vrbniket. Reggel fedezze fel a történelmi óvárost és annak értékes könyvtárát. Egy bőséges ebéd után a falu szívében, hajtson el a gyönyörű Potovošće strandhoz. Ott élvezheti a napsütést és a tiszta tengert, mielőtt pihentetően zárná a napot.",
+            "ro": "Cu mașina vă bucurați de Vrbnik fără stres. Dimineața, explorați centrul istoric și biblioteca sa valoroasă. După un prânz copios în inima localității, conduceți spre frumoasa plajă Potovošće. Acolo vă puteți bucura de soare și de marea curată înainte de a încheia ziua relaxat.",
+            "en": "With a car, you can enjoy Vrbnik stress-free. In the morning, explore the historical old town and its valuable library. After a hearty lunch in the heart of the village, drive to the beautiful Potovošće Beach. There you can enjoy the sun and the clear sea before ending the day relaxed."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altstadt von Vrbnik",
+                "hu": "Vrbnik óvárosa",
+                "ro": "Centrul vechi din Vrbnik",
+                "en": "Vrbnik Old Town"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Ortseingang auf den markierten Flächen.",
+                "hu": "Parkoljon a falu bejáratánál a jelzett helyeken.",
+                "ro": "Parcați la intrarea în localitate în zonele marcate.",
+                "en": "Park at the town entrance in the marked areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Bibliothek der Familie Vitezić",
+                "hu": "Vitezić család könyvtára",
+                "ro": "Biblioteca familiei Vitezić",
+                "en": "Vitezić Family Library"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss für Kulturliebhaber.",
+                "hu": "Kulturális rajongóknak kötelező.",
+                "ro": "O necesitate pentru iubitorii de cultură.",
+                "en": "A must for culture lovers."
+              }
+            },
+            {
+              "name": {
+                "de": "Glockenturm von Vrbnik",
+                "hu": "Vrbniki harangtorony",
+                "ro": "Clopotnița din Vrbnik",
+                "en": "Vrbnik Bell Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf das Festland ist hervorragend.",
+                "hu": "A szárazföldre nyíló kilátás kiváló.",
+                "ro": "Vederea spre continent este excelentă.",
+                "en": "The view of the mainland is excellent."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittagessen in einer Konoba",
+                "hu": "Ebéd egy konobában",
+                "ro": "Prânz într-o konoba",
+                "en": "Lunch in a Tavern"
+              },
+              "tip_5lang": {
+                "de": "Bestellen Sie eine Platte mit Krk-Käse und Schinken.",
+                "hu": "Rendeljen egy tál Krk-szigeti sajtot és sonkát.",
+                "ro": "Comandați un platou cu brânză de Krk și pršut.",
+                "en": "Order a platter of Krk cheese and prosciutto."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Potovošće",
+                "hu": "Potovošće strand",
+                "ro": "Plaja Potovošće",
+                "en": "Potovošće Beach"
+              },
+              "tip_5lang": {
+                "de": "Mit dem Auto sind es nur 5-10 Minuten Fahrt.",
+                "hu": "Autóval csak 5-10 perc út.",
+                "ro": "Cu mașina sunt doar 5-10 minute de mers.",
+                "en": "It is only a 5-10 minute drive by car."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurant Nada",
+                "tip": "Bekannt für gehobene Küche und tolle Terrasse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Nada étterem",
+                "tip": "Ismert a kifinomult konyhájáról és remek teraszáról."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurant Nada",
+                "tip": "Cunoscut pentru bucătăria rafinată și terasa superbă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restaurant Nada",
+                "tip": "Known for fine dining and a great terrace."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Aussichtspunkt Sveti Ivan",
+                "tip": "Kurze Fahrt zu einer kleinen Kapelle mit Panoramablick.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szent Iván kilátó",
+                "tip": "Rövid út egy kis kápolnához panorámás kilátással.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Belvederea Sfântul Ioan",
+                "tip": "Drum scurt până la o capelă cu vedere panoramică.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Sveti Ivan Viewpoint",
+                "tip": "Short drive to a small chapel with panoramic views.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokal hergestelltes Olivenöl",
+                "tip": "Direkt bei den Mühlen oder Weingütern erhältlich."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi olívaolaj",
+                "tip": "Közvetlenül a préseknél vagy borászatoknál kapható."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline local",
+                "tip": "Disponibil direct la mori sau crame."
+              }
+            ],
+            "en": [
+              {
+                "name": "Locally produced olive oil",
+                "tip": "Available directly at the mills or wineries."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Parkplatz in der Nähe des Zentrums ist im Sommer schnell voll.",
+              "Die Straße zum Strand Potovošće ist schmal.",
+              "Fahren Sie vorsichtig, da viele Wanderer auf den Straßen unterwegs sind.",
+              "Besuchen Sie eine Weinkellerei für eine organisierte Verkostung."
+            ],
+            "hu": [
+              "A központ közeli parkoló nyáron gyorsan megtelik.",
+              "A Potovošće strandhoz vezető út szűk.",
+              "Vezessen óvatosan, mert sok a túrázó az utakon.",
+              "Látogasson el egy borászatba szervezett kóstolóra."
+            ],
+            "ro": [
+              "Parcarea de lângă centru se umple repede vara.",
+              "Drumul spre plaja Potovošće este îngust.",
+              "Conduceți cu atenție, deoarece sunt mulți drumeți pe drum.",
+              "Vizitați o cramă pentru o degustare organizată."
+            ],
+            "en": [
+              "The parking lot near the center fills up quickly in summer.",
+              "The road to Potovošće Beach is narrow.",
+              "Drive carefully as there are many hikers on the roads.",
+              "Visit a winery for an organized tasting."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequemer Start im trockenen Auto. Die Fahrt durch den Regen bietet dramatische Ausblicke auf die Küste.\n\nMittags besuchen wir die Bibliothek und die Altstadt, wobei wir nah am Zentrum parken.\n\nNachmittags genießen wir ein langes Mittagessen, während wir den Regentropfen am Fenster zusehen.\n\nDer Tag endet mit einer Panoramafahrt zum Strand, um die Wellen sicher aus dem Auto zu beobachten.",
+            "hu": "Kényelmes kezdés a száraz autóban. Az esős vezetés drámai kilátást nyújt a tengerpartra.\n\nDélben a könyvtárat és az óvárost látogatjuk meg, a központhoz közel parkolva.\n\nDélután egy hosszú ebédet élvezünk, figyelve az ablakon lefutó esőcseppeket.\n\nA nap egy panoráma autózással zárul a strandhoz, a hullámokat az autóból figyelve.",
+            "ro": "Început confortabil în mașina uscată. Drumul prin ploaie oferă vederi dramatice asupra coastei.\n\nLa prânz vizităm biblioteca și orașul vechi, parcând aproape de centru.\n\nDupă-amiaza ne bucurăm de un prânz lung, privind picăturile de ploaie pe geam.\n\nZiua se încheie cu o plimbare panoramică spre plajă, observând valurile din mașină.",
+            "en": "A comfortable start in a dry car. The drive through the rain offers dramatic views of the coast.\n\nAt noon, we visit the library and the old town, parking close to the center.\n\nAfternoon is spent over a long lunch, watching the raindrops on the window.\n\nThe day ends with a panoramic drive to the beach to observe the waves safely from the car."
+          },
+          "stops": [
+            {
+              "name": "Vrbnik Old Town",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Eingang suchen.",
+                "hu": "Keressen parkolót közvetlenül a bejáratnál.",
+                "ro": "Căutați parcare chiar la intrare.",
+                "en": "Look for parking right at the entrance."
+              }
+            },
+            {
+              "name": "Vitezić Family Library",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto zum Eingang.",
+                "hu": "Rövid sprint az autótól a bejáratig.",
+                "ro": "Sprint scurt de la mașină la intrare.",
+                "en": "Short sprint from the car to the entrance."
+              }
+            },
+            {
+              "name": "Vrbnik Bell Tower",
+              "tip_5lang": {
+                "de": "Nur bei Regenpause hochsteigen.",
+                "hu": "Csak esőszünetben menjen fel.",
+                "ro": "Urcați doar în timpul unei pauze de ploaie.",
+                "en": "Only climb up during a rain break."
+              }
+            },
+            {
+              "name": "Lunch in a Tavern",
+              "tip_5lang": {
+                "de": "Gemütlichstes Ziel bei Dauerregen.",
+                "hu": "A legjobb célpont tartós esőben.",
+                "ro": "Cea mai confortabilă destinație pe ploaie.",
+                "en": "Coziest destination during steady rain."
+              }
+            },
+            {
+              "name": "Potovošće Beach",
+              "tip_5lang": {
+                "de": "Blick aus dem Auto auf die Brandung.",
+                "hu": "Kilátás az autóból a tajtékzó tengerre.",
+                "ro": "Priviți valurile direct din mașină.",
+                "en": "Watch the surf directly from your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkplätze im Zentrum sind bei Regen sehr begehrt.",
+              "Nutzen Sie Park-Apps, um im Trockenen zu bezahlen.",
+              "Vermeiden Sie das Parken unter instabilen Klippen.",
+              "Scheibenbeschlag durch Klimaanlage verhindern."
+            ],
+            "hu": [
+              "A központi parkolók esőben hamar megtelnek.",
+              "Használjon parkoló-alkalmazást a fizetéshez.",
+              "Kerülje a parkolást instabil sziklák alatt.",
+              "Használja a klímát a szélvédő párátlanítására."
+            ],
+            "ro": [
+              "Locurile de parcare centrale sunt căutate pe ploaie.",
+              "Folosiți aplicații de parcare pentru a plăti la adăpost.",
+              "Evitați parcarea sub stânci instabile.",
+              "Preveniți aburirea geamurilor folosind AC."
+            ],
+            "en": [
+              "Central parking spaces are in high demand when it rains.",
+              "Use parking apps to pay while staying dry.",
+              "Avoid parking under unstable cliffs.",
+              "Prevent window fogging by using the AC."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Roadtrip durch das ruhige Krk. Die Straßen nach Vrbnik sind leer und bieten tolle Fotomotive.\n\nMittags erkunden wir die historischen Stätten, während das Auto als warme Basis dient.\n\nNachmittags lockt die traditionelle Küche; Parken ist im Winter kein Problem.\n\nDer Tag endet mit einem weiten Blick auf das Festland im klaren Winterlicht, bevor die Heizung im Auto wieder läuft.",
+            "hu": "Téli autós kirándulás a csendes Krk-szigeten. A Vrbnikbe vezető utak üresek és fotogének.\n\nDélben a történelmi helyszíneket fedezzük fel, az autó meleg bázisként szolgál.\n\nDélután a hagyományos konyha vár; a parkolás télen nem okoz gondot.\n\nA nap a szárazföld tiszta téli látványával zárul, mielőtt újra indul a fűtés az autóban.",
+            "ro": "Roadtrip de iarnă prin insula Krk liniștită. Drumurile spre Vrbnik sunt libere și fotogenice.\n\nLa prânz explorăm siturile istorice, mașina servind drept bază caldă.\n\nDupă-amiaza, bucătăria tradițională atrage vizitatorii; parcarea nu e o problemă iarna.\n\nZiua se încheie cu o vedere clară spre continent în lumina iernii.",
+            "en": "A winter road trip through quiet Krk. The roads to Vrbnik are empty and offer great photo ops.\n\nAt noon, explore historical sites while the car serves as your warm base.\n\nAfternoon features traditional cuisine; parking is no problem in winter.\n\nThe day ends with a vast view of the mainland in clear winter light before heating up the car again."
+          },
+          "stops": [
+            {
+              "name": "Vrbnik Old Town",
+              "tip_5lang": {
+                "de": "Parkplätze im Winter oft kostenlos.",
+                "hu": "A parkolás télen gyakran ingyenes.",
+                "ro": "Parcarea este adesea gratuită iarna.",
+                "en": "Parking is often free in winter."
+              }
+            },
+            {
+              "name": "Vitezić Family Library",
+              "tip_5lang": {
+                "de": "Kulturgenuss ohne Touristenmassen.",
+                "hu": "Kulturális élmény tömeg nélkül.",
+                "ro": "Bucurați-vă de cultură fără mulțimi.",
+                "en": "Enjoy culture without the crowds."
+              }
+            },
+            {
+              "name": "Vrbnik Bell Tower",
+              "tip_5lang": {
+                "de": "Herrliche Fernsicht bei klarer Luft.",
+                "hu": "Pompás kilátás a tiszta levegőben.",
+                "ro": "Vedere excelentă datorită aerului curat.",
+                "en": "Splendid views through the clear air."
+              }
+            },
+            {
+              "name": "Lunch in a Tavern",
+              "tip_5lang": {
+                "de": "Lokale Spezialitäten in Ruhe genießen.",
+                "hu": "Élvezze nyugodtan a helyi ételeket.",
+                "ro": "Savurați specialitățile locale în liniște.",
+                "en": "Enjoy local specialties in peace."
+              }
+            },
+            {
+              "name": "Potovošće Beach",
+              "tip_5lang": {
+                "de": "Einfache Anfahrt über die leere Straße.",
+                "hu": "Könnyű megközelítés az üres úton.",
+                "ro": "Acces ușor pe drumul liber.",
+                "en": "Easy access via the empty road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind auf Krk ratsam (Bura-Glatteis).",
+              "Kostenlose Parkplätze in der Nebensaison nutzen.",
+              "Vorsicht vor starken Windböen auf Brücken.",
+              "Batterie bei Kälte im Auge behalten."
+            ],
+            "hu": [
+              "Téli gumi ajánlott Krk-n (fagyos bura miatt).",
+              "Használja ki az ingyenes parkolást szezonon kívül.",
+              "Vigyázat az erős széllökésekkel a hidakon.",
+              "Figyeljen az akkumulátorra a hidegben."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt recomandate pe Krk.",
+              "Profitate de parcările gratuite în extrasezon.",
+              "Atenție la rafalele de vânt pe poduri.",
+              "Monitorizați bateria mașinii pe timp de frig."
+            ],
+            "en": [
+              "Winter tires are recommended on Krk (due to ice).",
+              "Take advantage of free parking in the off-season.",
+              "Beware of strong wind gusts on bridges.",
+              "Keep an eye on the battery in cold weather."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1067,6 +2255,358 @@
           "Buy tickets online in advance if possible.",
           "The walk to the center is slightly uphill."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Bus erreichen Sie Vrbnik bequem von anderen Orten auf der Insel. Von der Haltestelle ist es ein kurzer Spaziergang ins Zentrum. Vormittags erkunden Sie die Gassen und die berühmte Klančić-Gasse. Mittags widmen Sie sich der Kultur in der Bibliothek und beenden den Ausflug mit einem entspannten Mittagessen, bevor der Bus Sie wieder abholt.",
+            "hu": "Tömegközlekedéssel kényelmesen elérheti Vrbniket a sziget más helyeiről. A megállótól rövid séta vezet a központba. Délelőtt fedezze fel a sikátorokat és a híres Klančić közt. Délben szentelje idejét a kultúrának a könyvtárban, és fejezze be a kirándulást egy pihentető ebéddel, mielőtt a busz visszavinné.",
+            "ro": "Cu autobuzul public ajungeți confortabil în Vrbnik din alte localități de pe insulă. De la stație este o scurtă plimbare spre centru. Dimineața, explorați străduțele și faimoasa stradă Klančić. La prânz, dedicați-vă culturii la bibliotecă și încheiați excursia cu un prânz relaxat înainte de plecarea autobuzului.",
+            "en": "By public bus, you can easily reach Vrbnik from other places on the island. It is a short walk from the stop to the center. In the morning, explore the alleys and the famous Klančić Alley. At noon, dedicate your time to culture at the library and finish the trip with a relaxed lunch before the bus picks you up."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bushaltestelle Vrbnik",
+                "hu": "Vrbnik buszmegálló",
+                "ro": "Stația de autobuz Vrbnik",
+                "en": "Vrbnik Bus Stop"
+              },
+              "tip_5lang": {
+                "de": "Ankunft der Busse aus der Stadt Krk oder Rijeka.",
+                "hu": "Érkezés Krk városából vagy Fiuméből.",
+                "ro": "Sosirea autobuzelor din orașul Krk sau Rijeka.",
+                "en": "Arrival of buses from Krk town or Rijeka."
+              }
+            },
+            {
+              "name": {
+                "de": "Altstadt von Vrbnik",
+                "hu": "Vrbnik óvárosa",
+                "ro": "Centrul vechi din Vrbnik",
+                "en": "Vrbnik Old Town"
+              },
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg von der Haltestelle.",
+                "hu": "Csak 5 perc séta a megállótól.",
+                "ro": "Doar 5 minute de mers de la stație.",
+                "en": "Only a 5-minute walk from the stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Klančić Gasse",
+                "hu": "Klančić köz",
+                "ro": "Strada Klančić",
+                "en": "Klančić Alley"
+              },
+              "tip_5lang": {
+                "de": "Ein lustiges Erlebnis für jeden Besucher.",
+                "hu": "Vidám élmény minden látogató számára.",
+                "ro": "O experiență amuzantă pentru orice vizitator.",
+                "en": "A fun experience for every visitor."
+              }
+            },
+            {
+              "name": {
+                "de": "Bibliothek der Familie Vitezić",
+                "hu": "Vitezić család könyvtára",
+                "ro": "Biblioteca familiei Vitezić",
+                "en": "Vitezić Family Library"
+              },
+              "tip_5lang": {
+                "de": "Wichtiger Ort des kroatischen Kulturerbes.",
+                "hu": "A horvát kulturális örökség fontos helyszíne.",
+                "ro": "Loc important al moștenirii culturale croate.",
+                "en": "Important site of Croatian cultural heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittagessen und Spaziergang",
+                "hu": "Ebéd és séta",
+                "ro": "Prânz și plimbare",
+                "en": "Lunch and Stroll"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Atmosphäre vor der Abfahrt.",
+                "hu": "Élvezze a hangulatot az indulás előtt.",
+                "ro": "Bucurați-vă de atmosferă înainte de plecare.",
+                "en": "Enjoy the atmosphere before departure."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Luce",
+                "tip": "Traditionelle Gerichte in gemütlichem Ambiente."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Luce konoba",
+                "tip": "Hagyományos ételek hangulatos környezetben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Luce",
+                "tip": "Preparate tradiționale într-o ambianță primitoare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Luce",
+                "tip": "Traditional dishes in a cozy atmosphere."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pfarrgarten",
+                "tip": "Ein ruhiger Winkel hinter der Kirche.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Plébániakert",
+                "tip": "Egy nyugodt sarok a templom mögött.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina parohială",
+                "tip": "Un colț liniștit în spatele bisericii.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parish Garden",
+                "tip": "A quiet corner behind the church.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirladen Vrbnik",
+                "tip": "Glagolitische Andenken und lokaler Honig."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vrbnik ajándékbolt",
+                "tip": "Glagolita emlékek és helyi méz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de suveniruri Vrbnik",
+                "tip": "Amintiri glagolitice și miere locală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vrbnik Souvenir Shop",
+                "tip": "Glagolitic souvenirs and local honey."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan sorgfältig, da die Verbindungen seltener sein können.",
+              "Die Bushaltestelle bietet eine gute Aussicht auf die Weinstöcke.",
+              "Kaufen Sie Tickets nach Möglichkeit vorab online.",
+              "Der Fußweg ins Zentrum ist leicht ansteigend."
+            ],
+            "hu": [
+              "Ellenőrizze alaposan a buszmenetrendet, mert a járatok ritkábbak lehetnek.",
+              "A buszmegállóból szép kilátás nyílik a szőlőültetvényekre.",
+              "Lehetőség szerint vegye meg a jegyet előre online.",
+              "A központba vezető gyalogút enyhén emelkedik."
+            ],
+            "ro": [
+              "Verificați cu atenție orarul autobuzelor, deoarece conexiunile pot fi rare.",
+              "Stația de autobuz oferă o vedere frumoasă asupra viței de vie.",
+              "Cumpărați biletele online în prealabil, dacă este posibil.",
+              "Drumul pe jos spre centru este ușor în urcare."
+            ],
+            "en": [
+              "Check the bus timetable carefully as connections can be infrequent.",
+              "The bus stop offers a good view of the vineyards.",
+              "Buy tickets online in advance if possible.",
+              "The walk to the center is slightly uphill."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Start an der Bushaltestelle im Regen. Die kurze Wartezeit erfordert gute Kleidung.\n\nMittags konzentriert sich das Programm auf die Altstadt und die Bibliothek, alles nah beieinander.\n\nNachmittags genießen wir die Gastronomie, bis der nächste Bus zur Rückfahrt eintrifft.\n\nDer Tag endet mit einer gemütlichen Busfahrt zurück, während der Regen gegen die Scheiben trommelt.",
+            "hu": "Kezdés a buszmegállóban az esőben. A rövid várakozás jó ruházatot igényel.\n\nDélben a program az óvárosra és a könyvtárra összpontosul, minden közel van.\n\nDélután a gasztronómiát élvezzük a következő busz érkezéséig.\n\nA nap egy kényelmes buszos visszautazással zárul, miközben az eső veri az ablakot.",
+            "ro": "Început la stația de autobuz pe ploaie. Așteptarea scurtă necesită haine bune.\n\nLa prânz, programul se concentrează pe orașul vechi și bibliotecă, totul fiind aproape.\n\nDupă-amiaza ne bucurăm de gastronomie până la sosirea următorului autobuz.\n\nZiua se încheie cu o călătorie relaxantă cu autobuzul înapoi.",
+            "en": "Start at the bus stop in the rain. The short wait requires good clothing.\n\nAt noon, the program focuses on the old town and the library, everything is close together.\n\nAfternoon is for enjoying local food until the next bus arrives for the return trip.\n\nThe day ends with a cozy bus ride back while the rain drums against the windows."
+          },
+          "stops": [
+            {
+              "name": "Vrbnik Bus Stop",
+              "tip_5lang": {
+                "de": "Unterstand gegen Regen nutzen.",
+                "hu": "Használja az eső elleni beállót.",
+                "ro": "Folosiți adăpostul contra ploii.",
+                "en": "Use the shelter against the rain."
+              }
+            },
+            {
+              "name": "Vrbnik Old Town",
+              "tip_5lang": {
+                "de": "Nah gelegene Ziele bevorzugen.",
+                "hu": "Preferálja a közeli célpontokat.",
+                "ro": "Preferați destinațiile apropiate.",
+                "en": "Prefer nearby destinations."
+              }
+            },
+            {
+              "name": "Klančić Alley",
+              "tip_5lang": {
+                "de": "Nur kurz für ein schnelles Foto.",
+                "hu": "Csak egy gyors fotóra ugorjon be.",
+                "ro": "Intrați doar pentru o poză rapidă.",
+                "en": "Just pop in for a quick photo."
+              }
+            },
+            {
+              "name": "Vitezić Family Library",
+              "tip_5lang": {
+                "de": "Idealer Zeitvertreib bis zum Bus.",
+                "hu": "Ideális időtöltés a buszig.",
+                "ro": "Mod ideal de a trece timpul până la autobuz.",
+                "en": "Ideal way to pass time until the bus."
+              }
+            },
+            {
+              "name": "Lunch and Stroll",
+              "tip_5lang": {
+                "de": "In Busnähe bleiben.",
+                "hu": "Maradjon a buszmegálló közelében.",
+                "ro": "Rămâneți aproape de stația de autobuz.",
+                "en": "Stay near the bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei Starkregen Verspätung haben.",
+              "Prüfen Sie den Fahrplan online (Arriva).",
+              "Haben Sie Kleingeld für das Ticket bereit.",
+              "Wartezeiten in Cafés nahe der Haltestelle verbringen."
+            ],
+            "hu": [
+              "A buszok heves esőzésben késhetnek.",
+              "Ellenőrizze a menetrendet online (Arriva).",
+              "Legyen Önnél aprópénz a jegyhez.",
+              "A várakozási időt töltse a közeli kávézókban."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri pe ploaie torențială.",
+              "Verificați programul online (Arriva).",
+              "Aveți bani mărunți pregătiți pentru bilet.",
+              "Petreceți timpul de așteptare în cafenelele de lângă stație."
+            ],
+            "en": [
+              "Buses may be delayed during heavy rain.",
+              "Check the schedule online (Arriva).",
+              "Have small change ready for the ticket.",
+              "Spend wait times in cafes near the stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frischer Start am Morgen. Der Bus bringt uns bequem in das verschlafene Winter-Vrbnik.\n\nMittags erkunden wir die kulturellen Schätze ohne Eile und ohne Drängeln.\n\nNachmittags wärmen wir uns bei einer Mahlzeit auf, bevor der frühe Abendbus zur Abfahrt bereitsteht.\n\nDer Tag endet mit einer Fahrt durch die dämmrige Inselfläche zurück zum Ausgangspunkt.",
+            "hu": "Friss reggeli kezdés. A busz kényelmesen visz be az álmos téli Vrbnikbe.\n\nDélben a kulturális kincseket fedezzük fel sietség és lökdösődés nélkül.\n\nDélután egy étkezés mellett melegszünk fel a korai esti busz indulásáig.\n\nA nap az alkonyatba hajló sziget látványával zárul a busz ablakából.",
+            "ro": "Început proaspăt de dimineață. Autobuzul ne duce confortabil în Vrbnikul adormit de iarnă.\n\nLa prânz explorăm comorile culturale fără grabă și fără aglomerație.\n\nDupă-amiaza ne încălzim la o masă înainte de plecarea autobuzului de seară.\n\nZiua se încheie cu o călătorie prin peisajul înserat al insulei.",
+            "en": "A fresh morning start. The bus takes us comfortably into sleepy winter Vrbnik.\n\nAt noon, we explore cultural treasures without haste or crowds.\n\nAfternoon is for warming up with a meal before the early evening bus is ready for departure.\n\nThe day ends with a ride through the twilight island landscape back to the starting point."
+          },
+          "stops": [
+            {
+              "name": "Vrbnik Bus Stop",
+              "tip_5lang": {
+                "de": "Pünktlich sein, weniger Busse im Winter.",
+                "hu": "Legyen pontos, télen kevesebb busz jár.",
+                "ro": "Fiți punctuali, sunt mai puține autobuze iarna.",
+                "en": "Be punctual; there are fewer buses in winter."
+              }
+            },
+            {
+              "name": "Vrbnik Old Town",
+              "tip_5lang": {
+                "de": "Besuch in der stillen Nebensaison.",
+                "hu": "Látogatás a csendes utószezonban.",
+                "ro": "Vizită în extrasezonul liniștit.",
+                "en": "Visit during the quiet off-season."
+              }
+            },
+            {
+              "name": "Klančić Alley",
+              "tip_5lang": {
+                "de": "Kein Warten für Fotos nötig.",
+                "hu": "Nem kell várni a fotózáshoz.",
+                "ro": "Nu e nevoie de așteptare pentru poze.",
+                "en": "No waiting needed for photos."
+              }
+            },
+            {
+              "name": "Vitezić Family Library",
+              "tip_5lang": {
+                "de": "Warmer Rückzugsort für Kulturfans.",
+                "hu": "Meleg menedék a kultúra kedvelőinek.",
+                "ro": "Refugiu cald pentru fanii culturii.",
+                "en": "Warm retreat for culture fans."
+              }
+            },
+            {
+              "name": "Lunch and Stroll",
+              "tip_5lang": {
+                "de": "Zeitplan für den letzten Bus beachten.",
+                "hu": "Ügyeljen az utolsó busz idejére.",
+                "ro": "Atenție la ora ultimului autobuz.",
+                "en": "Keep an eye on the last bus time."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrplan ist stark reduziert.",
+              "Wochenendverbindungen sind sehr selten.",
+              "Busstation ist dem Wind ausgesetzt, warm anziehen.",
+              "Fahrkarten beim Fahrer oder per App kaufen."
+            ],
+            "hu": [
+              "A téli menetrend jelentősen ritkább.",
+              "Hétvégi járatok nagyon ritkák.",
+              "A buszmegálló szeles, öltözzön melegen.",
+              "Jegyet a sofőrnél vagy applikációban vehet."
+            ],
+            "ro": [
+              "Programul de iarnă este mult redus.",
+              "Legăturile de weekend sunt foarte rare.",
+              "Stația de autobuz este expusă vântului.",
+              "Cumpărați bilete de la șofer sau prin aplicație."
+            ],
+            "en": [
+              "The winter schedule is significantly reduced.",
+              "Weekend connections are very rare.",
+              "The bus station is exposed to the wind; dress warmly.",
+              "Buy tickets from the driver or via the app."
+            ]
+          }
+        }
       }
     }
   },

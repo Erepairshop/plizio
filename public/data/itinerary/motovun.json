@@ -307,6 +307,403 @@
           "Visit the town in the early morning.",
           "The combined ticket for the walls is worth it."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Aufstieg in die bezaubernde Hügelstadt Motovun am unteren Stadttor. Schlendern Sie durch die Loggia und über den zentralen Platz zur St. Stephan Kirche. Nach einer Pause in einem der Paläste ist der Rundgang auf der Stadtmauer das absolute Highlight, mit spektakulären Ausblicken auf das Mirna-Tal und den berühmten Wald von Motovun, die Heimat der Trüffel.",
+            "hu": "Kezdje meg az emelkedést a varázslatos dombtetőre épült Motovunba az alsó városkapunál. Sétáljon át a loggián a központi térre a Szent István templomhoz. A paloták megtekintése után a városfalakon tett körséta a nap fénypontja, ahonnan látványos kilátás nyílik a Mirna-völgyre és a híres motovuni erdőre, a szarvasgombák hazájára.",
+            "ro": "Începeți urcarea în încântătorul oraș de pe deal, Motovun, de la poarta de jos. Plimbați-vă prin loggia și prin piața centrală spre biserica Sfântul Ștefan. După o pauză la palatele istorice, turul pe zidurile orașului este atracția principală, oferind vederi spectaculoase asupra văii Mirna și a pădurii Motovun, tărâmul trufelor.",
+            "en": "Start your ascent into the enchanting hilltop town of Motovun at the lower city gate. Stroll through the loggia and across the central square to St. Stephen's Church. After a break exploring the historic palaces, the walk on the city walls is the absolute highlight, offering spectacular views of the Mirna Valley and the famous Motovun Forest, home of the truffles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Unteres Stadttor",
+                "hu": "Alsó városkapu",
+                "ro": "Poarta de jos a orașului",
+                "en": "Lower City Gate"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Stadtloggia",
+                "hu": "Városi loggia",
+                "ro": "Loggia orașului",
+                "en": "City Loggia"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Platz Andrea Antico",
+                "hu": "Andrea Antico tér",
+                "ro": "Piața Andrea Antico",
+                "en": "Andrea Antico Square"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Kirche St. Stephan",
+                "hu": "Szent István templom",
+                "ro": "Biserica Sfântul Ștefan",
+                "en": "Church of St. Stephen"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Kommunalpalast",
+                "hu": "Közösségi palota",
+                "ro": "Palatul Municipal",
+                "en": "Municipal Palace"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Stadtmauern",
+                "hu": "Városfalak",
+                "ro": "Zidurile orașului",
+                "en": "City Walls"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Oberes Stadttor",
+                "hu": "Felső városkapu",
+                "ro": "Poarta de sus a orașului",
+                "en": "Upper City Gate"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Mondo",
+                "tip": "Probieren Sie Pasta mit frischem Trüffel."
+              },
+              {
+                "name": "Konoba Mondo",
+                "tip": "Bekannt durch Anthony Bourdain."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mondo",
+                "tip": "Kóstolja meg a tésztát friss szarvasgombával."
+              },
+              {
+                "name": "Konoba Mondo",
+                "tip": "Anthony Bourdain által híressé tett hely."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mondo",
+                "tip": "Gustați paste cu trufe proaspete."
+              },
+              {
+                "name": "Konoba Mondo",
+                "tip": "Local făcut celebru de Anthony Bourdain."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mondo",
+                "tip": "Try the pasta with fresh truffles."
+              },
+              {
+                "name": "Konoba Mondo",
+                "tip": "Made famous by Anthony Bourdain."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Südliche Stadtmauer",
+                "tip": "Ruhiger Blick über die Weinberge.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Déli városfal",
+                "tip": "Csendes kilátás a szőlőültetvényekre.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Zidul de sud",
+                "tip": "Vedere liniștită peste podgorii.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Southern City Wall",
+                "tip": "Quiet view over the vineyards.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Trüffel-Shop",
+                "tip": "Trüffelöl und Pasten als Mitbringsel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szarvasgomba bolt",
+                "tip": "Szarvasgombaolaj és krémek ajándékba."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de trufe",
+                "tip": "Ulei de trufe și paste pentru acasă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Truffle Shop",
+                "tip": "Truffle oil and pastes as souvenirs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken Sie unten und nutzen Sie den Shuttle-Bus.",
+              "Die Gassen sind steil und oft rutschig.",
+              "Besuchen Sie die Stadt am frühen Vormittag.",
+              "Das Kombiticket für Mauern lohnt sich."
+            ],
+            "hu": [
+              "Parkoljon lent és használja a transzferbuszt.",
+              "Az utcák meredekek és gyakran csúszósak.",
+              "Látogasson el a városba korán délelőtt.",
+              "Érdemes kombinált jegyet venni a falakra."
+            ],
+            "ro": [
+              "Parcați jos și folosiți autobuzul de transfer.",
+              "Străzile sunt abrupte și adesea alunecoase.",
+              "Vizitați orașul dimineața devreme.",
+              "Merită să luați biletul combinat pentru ziduri."
+            ],
+            "en": [
+              "Park at the bottom and use the shuttle bus.",
+              "The alleys are steep and often slippery.",
+              "Visit the town in the early morning.",
+              "The combined ticket for the walls is worth it."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am nebligen Stadttor. Mittags bieten die Loggia und der Palast Schutz vor dem Regen. Am Nachmittag glänzen die alten Pflastersteine auf dem Andrea-Antico-Platz. Den Abend lassen Sie gemütlich in einer der Weinstuben in den Mauern ausklingen.",
+            "hu": "Kezdje a napot a ködös várkapunál. Délben a Loggia és a palota nyújt menedéket az eső elől. Délután a vizes macskakövek csillognak az Andrea Antico téren. Az estét töltse egy hangulatos borozóban a várfalak védelmében.",
+            "ro": "Începeți ziua la poarta cetății învăluită în ceață. La prânz, Loggia și palatul oferă adăpost împotriva ploii. După-amiaza, dalele umede strălucesc în piața Andrea Antico. Seara se încheie plăcut într-o vinărie protejată de zidurile vechi.",
+            "en": "Start your day at the misty city gate. At noon, the Loggia and the palace provide shelter from the rain. In the afternoon, the wet cobblestones glisten on Andrea Antico Square. End the evening in a cozy wine cellar protected by the ancient walls."
+          },
+          "stops": [
+            {
+              "name": "Lower City Gate",
+              "tip_5lang": {
+                "de": "Das massive Tor bietet den ersten trockenen Unterstand beim Aufstieg.",
+                "hu": "A masszív kapu az első száraz menedék a felfelé vezető úton.",
+                "ro": "Poarta masivă oferă primul adăpost uscat în timpul urcării.",
+                "en": "The massive gate offers the first dry shelter on the way up."
+              }
+            },
+            {
+              "name": "City Loggia",
+              "tip_5lang": {
+                "de": "Ein perfekter überdachter Aussichtspunkt, um das Tal im Regen zu sehen.",
+                "hu": "Tökéletes fedett kilátópont a völgy megtekintéséhez esőben is.",
+                "ro": "Un punct de observație acoperit perfect pentru a vedea valea pe ploaie.",
+                "en": "A perfect covered viewpoint to see the valley even in the rain."
+              }
+            },
+            {
+              "name": "Andrea Antico Square",
+              "tip_5lang": {
+                "de": "Vorsicht auf den glatten Steinen; die Cafés hier haben Markisen.",
+                "hu": "Vigyázat a csúszós köveken; az itteni kávézók ponyvával védettek.",
+                "ro": "Atenție la pietrele alunecoase; cafenelele de aici au copertine.",
+                "en": "Watch out for slippery stones; the cafes here have awnings."
+              }
+            },
+            {
+              "name": "Church of St. Stephen",
+              "tip_5lang": {
+                "de": "Der Innenraum ist ein idealer Ort für eine ruhige, trockene Pause.",
+                "hu": "A belső tér ideális hely egy csendes, száraz pihenőre.",
+                "ro": "Interiorul este un loc ideal pentru o pauză liniștită și uscată.",
+                "en": "The interior is an ideal place for a quiet, dry break."
+              }
+            },
+            {
+              "name": "Municipal Palace",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im Inneren, um dem Guss zu entgehen.",
+                "hu": "Látogassa meg a belső kiállításokat, hogy elkerülje a felhőszakadást.",
+                "ro": "Vizitați expozițiile din interior pentru a evita aversa.",
+                "en": "Visit the indoor exhibitions to escape the downpour."
+              }
+            },
+            {
+              "name": "City Walls",
+              "tip_5lang": {
+                "de": "Gehen Sie vorsichtig; der Wind kann auf den Mauern bei Regen stark sein.",
+                "hu": "Sétáljon óvatosan; a szél erős lehet a falakon esőben.",
+                "ro": "Mergeți cu atenție; vântul poate fi puternic pe ziduri pe ploaie.",
+                "en": "Walk carefully; the wind can be strong on the walls during rain."
+              }
+            },
+            {
+              "name": "Upper City Gate",
+              "tip_5lang": {
+                "de": "Ein letzter Schutzraum, bevor Sie den Abstieg antreten.",
+                "hu": "Egy utolsó védett hely, mielőtt megkezdené a leereszkedést.",
+                "ro": "Un ultim spațiu protejat înainte de a începe coborârea.",
+                "en": "A final sheltered spot before starting your descent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil wegen der rutschigen Gassen.",
+              "Die Loggia ist der beste kostenlose Regenunterstand.",
+              "Besuchen Sie die Trüffelgeschäfte für Kostproben im Trockenen.",
+              "Ein Regenschirm ist bei Wind auf den Mauern unpraktisch, nutzen Sie Regenjacken."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt a csúszós sikátorok miatt.",
+              "A Loggia a legjobb ingyenes esőbeálló a városban.",
+              "Látogassa meg a szarvasgomba boltokat kóstolóra a szárazban.",
+              "A falakon az ernyő a szél miatt nem praktikus, használjon esőkabátot."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună din cauza străzilor alunecoase.",
+              "Loggia este cel mai bun adăpost gratuit împotriva ploii.",
+              "Vizitați magazinele de trufe pentru degustări la adăpost.",
+              "Umbrela este nepractică pe ziduri din cauza vântului, folosiți pelerine."
+            ],
+            "en": [
+              "Wear shoes with good grip due to the slippery alleys.",
+              "The Loggia is the best free rain shelter in town.",
+              "Visit truffle shops for tastings while staying dry.",
+              "An umbrella is impractical on the walls due to wind; use a raincoat."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft am Stadttor. Mittags wärmen Sie sich in den Cafés am Andrea-Antico-Platz auf. Da die Sonne gegen 16:30 Uhr untergeht, bieten die Stadtmauern ein magisches Zwielicht. Den Abend verbringen Sie bei regionalem Wein am Kamin einer Konoba.",
+            "hu": "Élvezze a tiszta téli levegőt a várkapunál. Délben melegedjen fel az Andrea Antico tér kávézóiban. Mivel a nap 16:30 körül nyugszik, a várfalak mágikus szürkületi fényt kapnak. Az estét töltse egy konoba kandallója mellett, helyi bort kortyolgatva.",
+            "ro": "Bucurați-vă de aerul curat de iarnă la poarta cetății. La prânz, încălziți-vă în cafenelele din piața Andrea Antico. Deoarece soarele apune în jur de 16:30, zidurile oferă o lumină magică de amurg. Seara, stați lângă șemineul unei konoba cu un vin local.",
+            "en": "Enjoy the crisp winter air at the city gate. At noon, warm up in the cafes on Andrea Antico Square. As the sun sets around 4:30 PM, the walls offer a magical twilight glow. Spend the evening by the fireplace of a konoba, sipping local wine."
+          },
+          "stops": [
+            {
+              "name": "Lower City Gate",
+              "tip_5lang": {
+                "de": "Die schattigen Bereiche sind hier im Winter besonders kühl.",
+                "hu": "Az árnyékos részek itt télen különösen hűvösek.",
+                "ro": "Zonele umbroase de aici sunt deosebit de reci iarna.",
+                "en": "The shaded areas here are especially chilly in winter."
+              }
+            },
+            {
+              "name": "City Loggia",
+              "tip_5lang": {
+                "de": "Ideal, um die Fernsicht auf die schneebedeckten Gipfel zu genießen.",
+                "hu": "Ideális a távoli, havas hegycsúcsok látványának megtekintéséhez.",
+                "ro": "Ideal pentru a savura vederea spre vârfurile muntoase înzăpezite.",
+                "en": "Ideal for enjoying the distant views of snow-capped peaks."
+              }
+            },
+            {
+              "name": "Andrea Antico Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne auf den Außenplätzen mit Decken.",
+                "hu": "Használja ki a déli napsütést a kültéri helyeken, plédekkel.",
+                "ro": "Profitați de soarele de prânz pe terasele dotate cu pături.",
+                "en": "Take advantage of the midday sun at outdoor spots with blankets."
+              }
+            },
+            {
+              "name": "Church of St. Stephen",
+              "tip_5lang": {
+                "de": "Ein windgeschützter Ort, um kurz zur Ruhe zu kommen.",
+                "hu": "Szélvédett hely, ahol rövid időre megpihenhet.",
+                "ro": "Un loc ferit de vânt, unde vă puteți odihni scurt.",
+                "en": "A wind-sheltered spot to rest for a short while."
+              }
+            },
+            {
+              "name": "Municipal Palace",
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte draußen.",
+                "hu": "A vastag kőfalak kívül tartják a téli hideget.",
+                "ro": "Zidurile groase de piatră țin frigul afară.",
+                "en": "The thick stone walls keep the winter cold out."
+              }
+            },
+            {
+              "name": "City Walls",
+              "tip_5lang": {
+                "de": "Bester Platz für den frühen Sonnenuntergang über dem Mirna-Tal.",
+                "hu": "A legjobb hely a korai naplemente megtekintéséhez a Mirna-völgy felett.",
+                "ro": "Cel mai bun loc pentru apusul timpuriu peste valea Mirna.",
+                "en": "Best spot for the early sunset over the Mirna valley."
+              }
+            },
+            {
+              "name": "Upper City Gate",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, bevor es zur Aufwärmpause ins nächste Restaurant geht.",
+                "hu": "Rövid megálló, mielőtt beülne melegedni a következő étterembe.",
+                "ro": "Scurt popas înainte de a merge la încălzit în următorul restaurant.",
+                "en": "Short stop before heading to the next restaurant to warm up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist wegen des Anstiegs ratsam.",
+              "Die Sonne verschwindet früh hinter den Hügeln, planen Sie Fotos vor 15:30.",
+              "Viele Souvenirläden haben im Winter verkürzte Öffnungszeiten.",
+              "Genießen Sie 'Biska' (Mistelschnaps) zum Aufwärmen."
+            ],
+            "hu": [
+              "A réteges öltözködés javasolt a kaptató miatti kimelegedés ellen.",
+              "A nap korán eltűnik a dombok mögött, 15:30 előtt fotózzon.",
+              "Sok ajándékbolt télen rövidített nyitvatartással üzemel.",
+              "Kóstoljon 'Biska'-t (fagyöngypálinka) a felmelegedéshez."
+            ],
+            "ro": [
+              "Îmbrăcămintea stratificată este recomandată pentru efortul urcării.",
+              "Soarele dispare devreme după dealuri, faceți poze înainte de 15:30.",
+              "Multe magazine de suveniruri au program redus iarna.",
+              "Savurați 'Biska' (rachiu de vâsc) pentru a vă încălzi."
+            ],
+            "en": [
+              "Layered clothing is advised due to the physical effort of the climb.",
+              "The sun disappears early behind the hills; take photos before 3:30 PM.",
+              "Many souvenir shops have shorter opening hours in winter.",
+              "Enjoy 'Biska' (mistletoe brandy) to warm up."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -542,6 +939,329 @@
           "It's cool inside the Parenzana tunnels.",
           "Bring insect repellent for the forest."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Für Radfahrer ist der Parenzana-Weg ein Muss. Die flache Route führt durch Tunnel und über Viadukte rund um Motovun. Erkunden Sie den schattigen Motovun-Wald und radeln Sie entlang des Flusses Mirna bis nach Livade. Der Aufstieg in die Stadt selbst ist steil, aber das Umland bietet entspanntes Radeln in der Natur.",
+            "hu": "A kerékpárosok számára a Parenzana-út kötelező. A sík útvonal alagutakon és viaduktokon vezet keresztül Motovun körül. Fedezze fel az árnyas motovuni erdőt, és tekerjen a Mirna folyó mentén egészen Livade-ig. Maga a városba vezető út meredek, de a környék nyugodt biciklizést kínál a természetben.",
+            "ro": "Pentru bicicliști, traseul Parenzana este obligatoriu. Ruta plată trece prin tuneluri și peste viaducte în jurul Motovunului. Explorați pădurea umbrită Motovun și pedalați de-a lungul râului Mirna până la Livade. Urcarea în orașul propriu-zis este abruptă, dar împrejurimile oferă ciclism relaxat în natură.",
+            "en": "For cyclists, the Parenzana Trail is a must. This flat route leads through tunnels and across viaducts around Motovun. Explore the shaded Motovun Forest and cycle along the Mirna River to Livade. While the ascent to the town itself is steep, the surrounding area offers relaxed cycling in nature."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parenzana-Weg",
+                "hu": "Parenzana-út",
+                "ro": "Traseul Parenzana",
+                "en": "Parenzana Trail"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Wald von Motovun",
+                "hu": "Motovuni erdő",
+                "ro": "Pădurea Motovun",
+                "en": "Motovun Forest"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Kanal Mirna",
+                "hu": "Mirna-csatorna",
+                "ro": "Canalul Mirna",
+                "en": "Mirna Canal"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Motovun Bergfuß",
+                "hu": "Motovun hegy lába",
+                "ro": "Baza dealului Motovun",
+                "en": "Foot of Motovun Hill"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Livade",
+                "hu": "Livade",
+                "ro": "Livade",
+                "en": "Livade"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Zigante Trüffel",
+                "tip": "In Livade, Weltklasse-Trüffelgerichte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Zigante szarvasgomba",
+                "tip": "Livade-ban, világszínvonalú fogások."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Zigante Trufe",
+                "tip": "În Livade, preparate cu trufe de talie mondială."
+              }
+            ],
+            "en": [
+              {
+                "name": "Zigante Truffles",
+                "tip": "In Livade, world-class truffle dishes."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mirna Flussufer",
+                "tip": "Sehr ruhig und naturnah.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mirna folyópart",
+                "tip": "Nagyon csendes és közeli a természethez.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul râului Mirna",
+                "tip": "Foarte liniștit și aproape de natură.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mirna Riverbank",
+                "tip": "Very quiet and close to nature.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bauernmarkt",
+                "tip": "Lokaler Käse und Honig."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Termelői piac",
+                "tip": "Helyi sajt és méz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața producătorilor",
+                "tip": "Brânză locală și miere."
+              }
+            ],
+            "en": [
+              {
+                "name": "Farmers Market",
+                "tip": "Local cheese and honey."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Ein Mountainbike wird empfohlen.",
+              "In den Tunneln der Parenzana ist es kühl.",
+              "Nehmen Sie Insektenschutz für den Wald mit."
+            ],
+            "hu": [
+              "Hegyi kerékpár ajánlott.",
+              "A Parenzana alagutakban hűvös van.",
+              "Vigyen rovarriasztót az erdőbe."
+            ],
+            "ro": [
+              "Se recomandă o bicicletă de munte.",
+              "În tunelurile Parenzana este răcoare.",
+              "Luați repelent de insecte pentru pădure."
+            ],
+            "en": [
+              "A mountain bike is recommended.",
+              "It's cool inside the Parenzana tunnels.",
+              "Bring insect repellent for the forest."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie den Parenzana-Weg auf schlammigen Pfaden. Mittags bietet der Motovun-Wald ein natürliches Dach, doch Vorsicht vor rutschigem Laub. Am Nachmittag führt die Route am Mirna-Kanal entlang, wo der Nebel mystisch aufsteigt. Der Tag endet im Tal bei Livade mit einer warmen Suppe.",
+            "hu": "Fedezze fel a Parenzana útvonalat a saras ösvényeken. Délben a Motovuni erdő természetes tetőt nyújt, de vigyázzon a csúszós avarra. Délután az út a Mirna-csatorna mentén halad, ahol misztikusan száll fel a köd. A nap a völgyben, Livade-ben ér véget egy meleg levessel.",
+            "ro": "Explorați traseul Parenzana pe poteci noroioase. La prânz, pădurea Motovun oferă un acoperiș natural, dar atenție la frunzele alunecoase. După-amiaza, ruta trece pe lângă canalul Mirna, unde ceața se ridică mistic. Ziua se încheie în vale la Livade cu o supă caldă.",
+            "en": "Explore the Parenzana trail on muddy paths. At noon, the Motovun Forest provides a natural canopy, but watch out for slippery leaves. In the afternoon, the route follows the Mirna canal, where mist rises mystically. The day ends in the valley at Livade with a warm soup."
+          },
+          "stops": [
+            {
+              "name": "Parenzana Trail",
+              "tip_5lang": {
+                "de": "Schutzbleche sind bei diesem Wetter auf dem Schotter unerlässlich.",
+                "hu": "Sárvédők nélkülözhetetlenek ezen az időben a murvás úton.",
+                "ro": "Apărătorile de noroi sunt esențiale pe pietriș pe această vreme.",
+                "en": "Mudguards are essential on the gravel in this weather."
+              }
+            },
+            {
+              "name": "Motovun Forest",
+              "tip_5lang": {
+                "de": "Die Bäume fangen den ersten Regen ab, aber Wurzeln sind extrem glatt.",
+                "hu": "A fák felfogják az eső elejét, de a gyökerek rendkívül csúszósak.",
+                "ro": "Copacii opresc prima ploaie, dar rădăcinile sunt extrem de alunecoase.",
+                "en": "Trees intercept the first rain, but roots are extremely slippery."
+              }
+            },
+            {
+              "name": "Mirna Canal",
+              "tip_5lang": {
+                "de": "Der Weg am Wasser kann bei starkem Regen aufweichen.",
+                "hu": "A vízparti út heves esőzéskor felázhat.",
+                "ro": "Drumul de lângă apă se poate înmuia la ploi abundente.",
+                "en": "The path by the water can become soft during heavy rain."
+              }
+            },
+            {
+              "name": "Foot of Motovun Hill",
+              "tip_5lang": {
+                "de": "Kurze Pause unter dem Vordach der Gebäude im Tal.",
+                "hu": "Rövid pihenő a völgyben lévő épületek eresze alatt.",
+                "ro": "Scurtă pauză sub streșinile clădirilor din vale.",
+                "en": "Short break under the eaves of the buildings in the valley."
+              }
+            },
+            {
+              "name": "Livade",
+              "tip_5lang": {
+                "de": "Idealer Ort, um nasse Kleidung bei einer Pause zu wechseln.",
+                "hu": "Ideális hely a vizes ruhák cseréjéhez egy pihenő során.",
+                "ro": "Loc ideal pentru a schimba hainele ude în timpul unei pauze.",
+                "en": "Ideal spot to change wet clothes during a break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie wasserfeste Packtaschen für Ihre Ausrüstung.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf Schlamm.",
+              "Die Tunnel der Parenzana bieten trockene Durchfahrten.",
+              "Reinigen Sie die Kette nach der Fahrt vom sandigen Schlamm."
+            ],
+            "hu": [
+              "Használjon vízálló táskákat a felszereléséhez.",
+              "Csökkentse kissé a guminyomást a jobb tapadásért a sáron.",
+              "A Parenzana alagútjai száraz áthaladást biztosítanak.",
+              "A túra után tisztítsa meg a láncot a homokos sártól."
+            ],
+            "ro": [
+              "Folosiți genți impermeabile pentru echipament.",
+              "Reduceți ușor presiunea în pneuri pentru aderență mai bună pe noroi.",
+              "Tunelurile Parenzana oferă treceri uscate.",
+              "Curățați lanțul după cursă de noroiul nisipos."
+            ],
+            "en": [
+              "Use waterproof panniers for your gear.",
+              "Slightly reduce tire pressure for better grip on mud.",
+              "The Parenzana tunnels provide dry passages.",
+              "Clean the chain after the ride to remove sandy mud."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie auf der Parenzana bei frostigen Temperaturen. Mittags führt die Tour durch den kahlen Motovun-Wald, der weite Ausblicke ermöglicht. Am Nachmittag radeln Sie am Mirna-Kanal in der tiefstehenden Wintersonne. Der Tag endet im Zentrum von Livade, bevor die Kälte des Abends einsetzt.",
+            "hu": "Induljon a Parenzanán fagyos hőmérsékletben. Délben a túra a kopár Motovuni erdőn át vezet, amely távoli kilátást enged. Délután a Mirna-csatorna mentén kerekezhet az alacsonyan járó téli napsütésben. A nap Livade központjában ér véget, még az esti lehűlés előtt.",
+            "ro": "Porniți pe Parenzana la temperaturi de îngheț. La prânz, turul trece prin pădurea golașă Motovun, care permite vederi largi. După-amiaza, pedalați pe lângă canalul Mirna în soarele slab de iarnă. Ziua se încheie în centrul satului Livade, înainte de gerul serii.",
+            "en": "Start on the Parenzana in freezing temperatures. At noon, the tour leads through the bare Motovun Forest, allowing wide views. In the afternoon, cycle along the Mirna canal in the low winter sun. The day ends in the center of Livade before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Parenzana Trail",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen in den schattigen Kurven.",
+                "hu": "Ügyeljen a fagyott tócsákra az árnyékos kanyarokban.",
+                "ro": "Atenție la bălțile înghețate în curbele umbroase.",
+                "en": "Watch out for frozen puddles in shaded corners."
+              }
+            },
+            {
+              "name": "Motovun Forest",
+              "tip_5lang": {
+                "de": "Ohne Laub ist der Wald viel heller, aber auch windanfälliger.",
+                "hu": "Lombok nélkül az erdő sokkal világosabb, de szelesebb is.",
+                "ro": "Fără frunze, pădurea este mult mai luminoasă, dar și mai expusă vântului.",
+                "en": "Without leaves, the forest is much brighter but also windier."
+              }
+            },
+            {
+              "name": "Mirna Canal",
+              "tip_5lang": {
+                "de": "Die kalte Luft steht hier im Tal oft besonders lange.",
+                "hu": "A hideg levegő itt a völgyben gyakran megül.",
+                "ro": "Aerul rece stagnează adesea în vale pentru mult timp.",
+                "en": "The cold air often lingers in the valley for a long time."
+              }
+            },
+            {
+              "name": "Foot of Motovun Hill",
+              "tip_5lang": {
+                "de": "Machen Sie Lockerungsübungen, um die Durchblutung zu fördern.",
+                "hu": "Végezzen lazító gyakorlatokat a vérkeringés serkentésére.",
+                "ro": "Faceți exerciții de relaxare pentru a stimula circulația.",
+                "en": "Do some loosening exercises to stimulate circulation."
+              }
+            },
+            {
+              "name": "Livade",
+              "tip_5lang": {
+                "de": "Belohnen Sie sich mit warmen Nudeln mit Trüffeln.",
+                "hu": "Jutalmazza meg magát egy tál meleg szarvasgombás tésztával.",
+                "ro": "Răsplătiți-vă cu o porție de paste calde cu trufe.",
+                "en": "Reward yourself with a bowl of warm pasta with truffles."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Handschuhe; die Finger kühlen beim Bremsen schnell aus.",
+              "Die Sonne geht im Tal gegen 16:00 Uhr unter, Licht ist Pflicht.",
+              "Trinken Sie lauwarmen Tee aus einer Thermoskanne.",
+              "Die Parenzana-Tunnel sind im Winter oft wärmer als die Außenluft."
+            ],
+            "hu": [
+              "Viseljen termokesztyűt; az ujjak fékezéskor gyorsan lehűlnek.",
+              "A völgyben a nap 16:00 körül lemegy, a lámpa kötelező.",
+              "Igyon langyos teát termoszból.",
+              "A Parenzana alagútjai télen gyakran melegebbek a külső levegőnél."
+            ],
+            "ro": [
+              "Purtați mănuși termice; degetele îngheață repede la frânare.",
+              "Soarele apune în vale în jur de 16:00, lumina este obligatorie.",
+              "Beți ceai călduț dintr-un termos.",
+              "Tunelurile Parenzana sunt adesea mai calde decât aerul exterior iarna."
+            ],
+            "en": [
+              "Wear thermal gloves; fingers cool down quickly when braking.",
+              "The sun sets in the valley around 4:00 PM; lights are mandatory.",
+              "Drink lukewarm tea from a thermos.",
+              "The Parenzana tunnels are often warmer than the outside air in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -777,6 +1497,329 @@
           "The parking at the bottom is paid.",
           "The roads between the villages are winding."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Das Auto bietet die Freiheit, Motovun und die umliegenden Hügelstädte zu erkunden. Besuchen Sie zuerst das Herz von Motovun und fahren Sie dann ins nahegelegene Grožnjan, ein wunderschönes Dorf der Künstler. Beenden Sie den Tag bei einem Glas Wein in einem der renommierten Weingüter Istriens, während die Sonne hinter den Hügeln versinkt.",
+            "hu": "Az autó szabadságot ad Motovun és a környező dombtetőre épült városok felfedezéséhez. Látogasson el először Motovun szívébe, majd autózzon át a közeli Grožnjanba, a művészek festői falujába. Zárja a napot egy pohár borral Isztria egyik neves borászatában, miközben a nap lemegy a dombok mögött.",
+            "ro": "Mașina vă oferă libertatea de a explora Motovun și orașele din jur. Vizitați mai întâi inima Motovunului, apoi mergeți în Grožnjanul din apropiere, un sat superb al artiștilor. Încheiați ziua cu un pahar de vin la una dintre cramele renumite ale Istriei, în timp ce soarele apune după dealuri.",
+            "en": "A car gives you the freedom to explore Motovun and the surrounding hilltop towns. Visit the heart of Motovun first, then drive to nearby Grožnjan, a beautiful village of artists. End the day with a glass of wine at one of Istria's renowned wineries as the sun sets behind the rolling hills."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parkplatz Motovun (unten)",
+                "hu": "Motovun parkoló (lent)",
+                "ro": "Parcare Motovun (jos)",
+                "en": "Motovun Parking (bottom)"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Motovun Altstadt",
+                "hu": "Motovun óváros",
+                "ro": "Centrul vechi Motovun",
+                "en": "Motovun Old Town"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Motovun Wald",
+                "hu": "Motovuni erdő",
+                "ro": "Pădurea Motovun",
+                "en": "Motovun Forest"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Grožnjan",
+                "hu": "Grožnjan",
+                "ro": "Grožnjan",
+                "en": "Grožnjan"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Boutique-Weingut",
+                "hu": "Butik borászat",
+                "ro": "Cramă boutique",
+                "en": "Boutique Winery"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pod Napon",
+                "tip": "Traditionelle istrische Küche."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pod Napon",
+                "tip": "Hagyományos isztriai konyha."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pod Napon",
+                "tip": "Bucătărie tradițională istriana."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pod Napon",
+                "tip": "Traditional Istrian cuisine."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Aussichtspunkt Zamask",
+                "tip": "Blick auf Motovun aus der Ferne.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Zamaszk kilátópont",
+                "tip": "Kilátás Motovunra a távolból.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Belvedere Zamask",
+                "tip": "Vedere spre Motovun de la distanță.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Zamask Viewpoint",
+                "tip": "View of Motovun from a distance.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Istrisches Olivenöl",
+                "tip": "Direkt bei den Erzeugern kaufen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Isztriai olívaolaj",
+                "tip": "Vásároljon közvetlenül a termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline istrian",
+                "tip": "Cumpărați direct de la producători."
+              }
+            ],
+            "en": [
+              {
+                "name": "Istrian Olive Oil",
+                "tip": "Buy directly from the producers."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nur Anwohner dürfen in die Oberstadt fahren.",
+              "Der Parkplatz unten ist kostenpflichtig.",
+              "Die Straßen zwischen den Dörfern sind kurvig."
+            ],
+            "hu": [
+              "Csak a lakók hajthatnak be a felsővárosba.",
+              "A lenti parkoló fizetős.",
+              "A falvak közötti utak kanyargósak."
+            ],
+            "ro": [
+              "Doar rezidenții pot intra în orașul de sus.",
+              "Parcarea de jos este cu plată.",
+              "Drumurile între sate sunt sinuoase."
+            ],
+            "en": [
+              "Only residents can drive into the upper town.",
+              "The parking at the bottom is paid.",
+              "The roads between the villages are winding."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie vorsichtig zum Parkplatz im Tal. Den Vormittag verbringen Sie in den überdachten Gassen der Altstadt. Mittags führt die Fahrt durch den nebligen Wald nach Grožnjan, wo die Künstlerateliers trockenen Unterschlupf bieten. Der Tag endet bei einer Weinprobe in einem warmen Keller.",
+            "hu": "Vezessen óvatosan a völgyi parkolóhoz. A délelőttöt az óváros fedett sikátoraiban töltse. Délben az út a ködös erdőn át Grožnjanba vezet, ahol a művészműhelyek száraz menedéket nyújtanak. A nap egy borpincében ér véget egy hangulatos kóstolóval.",
+            "ro": "Conduceți cu atenție către parcarea din vale. Petreceți dimineața pe străzile acoperite ale orașului vechi. La prânz, drumul trece prin pădurea cețoasă spre Grožnjan, unde atelierele oferă adăpost uscat. Ziua se încheie cu o degustare de vinuri într-o cramă caldă.",
+            "en": "Drive carefully to the parking lot in the valley. Spend the morning in the sheltered alleys of the old town. At noon, the drive leads through the misty forest to Grožnjan, where art studios offer dry refuge. The day ends with a wine tasting in a warm cellar."
+          },
+          "stops": [
+            {
+              "name": "Motovun Parking (bottom)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Shuttle-Bus, um nicht im Regen laufen zu müssen.",
+                "hu": "Használja a transzferbuszt, hogy ne kelljen esőben gyalogolnia.",
+                "ro": "Folosiți autobuzul shuttle pentru a nu merge prin ploaie.",
+                "en": "Use the shuttle bus to avoid walking in the rain."
+              }
+            },
+            {
+              "name": "Motovun Old Town",
+              "tip_5lang": {
+                "de": "Die Durchgänge unter den Palästen bieten guten Schutz.",
+                "hu": "A paloták alatti átjárók jó védelmet nyújtanak.",
+                "ro": "Pasajele de sub palate oferă o protecție bună.",
+                "en": "The passageways under the palaces offer good protection."
+              }
+            },
+            {
+              "name": "Motovun Forest",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam; Äste können auf die Fahrbahn ragen.",
+                "hu": "Vezessen lassan; ágak lóghatnak az úttestre.",
+                "ro": "Conduceți încet; ramurile pot atârna deasupra carosabilului.",
+                "en": "Drive slowly; branches may hang over the roadway."
+              }
+            },
+            {
+              "name": "Grožnjan",
+              "tip_5lang": {
+                "de": "Die vielen kleinen Galerien sind perfekt für einen Regentag.",
+                "hu": "A sok kis galéria tökéletes egy esős napra.",
+                "ro": "Multe galerii mici sunt perfecte pentru o zi ploioasă.",
+                "en": "The many small galleries are perfect for a rainy day."
+              }
+            },
+            {
+              "name": "Boutique Winery",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort, um das Ende des Regens abzuwarten.",
+                "hu": "Hangulatos hely az eső végének megvárására.",
+                "ro": "Un loc primitor pentru a aștepta oprirea ploii.",
+                "en": "A cozy spot to wait for the rain to stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die engen Serpentinen sind bei Nässe rutschig.",
+              "Parken Sie in Grožnjan nah am Eingang, um Gehwege im Regen zu minimieren.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt durch die Berge.",
+              "Das Licht am Auto sollte auch tagsüber eingeschaltet sein."
+            ],
+            "hu": [
+              "A szűk szerpentinek nedvesen csúszósak.",
+              "Grožnjanban parkoljon a bejárathoz közel az ázás elkerülésére.",
+              "Ellenőrizze az ablaktörlőket a hegyi menet előtt.",
+              "Az autó világítását nappal is érdemes bekapcsolni."
+            ],
+            "ro": [
+              "Serpentinele înguste sunt alunecoase pe carosabil umed.",
+              "În Grožnjan, parcați aproape de intrare pentru a minimiza mersul prin ploaie.",
+              "Verificați ștergătoarele înainte de drumul prin munți.",
+              "Luminile mașinii ar trebui să fie aprinse și în timpul zilei."
+            ],
+            "en": [
+              "The narrow serpentines are slippery when wet.",
+              "In Grožnjan, park close to the entrance to minimize walking in rain.",
+              "Check your wipers before the mountain drive.",
+              "Keep your car lights on even during the day."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die winterliche Ruhe auf dem Weg nach Motovun. Nach dem Rundgang in der klaren Luft fahren Sie durch den schlafenden Wald nach Grožnjan. Die mittelalterlichen Gassen wirken im Winterlicht besonders authentisch. Den Abschluss bildet ein Besuch im Weingut, bevor die Frostnacht beginnt.",
+            "hu": "Élje át a téli nyugalmat a Motovun felé vezető úton. A tiszta levegőn tett séta után vezessen át az alvó erdőn Grožnjanba. A középkori utcák a téli fényben különösen hitelesnek tűnnek. A napot egy borászati látogatás zárja, még a fagyos éjszaka beállta előtt.",
+            "ro": "Experimentați liniștea iernii pe drumul spre Motovun. După plimbarea în aerul curat, conduceți prin pădurea adormită spre Grožnjan. Străzile medievale par deosebit de autentice în lumina iernii. Ziua se încheie cu o vizită la cramă, înainte de noaptea geroasă.",
+            "en": "Experience the winter tranquility on the way to Motovun. After a walk in the crisp air, drive through the sleeping forest to Grožnjan. The medieval streets look especially authentic in the winter light. The day concludes with a winery visit before the frosty night begins."
+          },
+          "stops": [
+            {
+              "name": "Motovun Parking (bottom)",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter oft leerer, aber Vorsicht vor Reifglätte.",
+                "hu": "A parkoló télen gyakran üresebb, de vigyázzon a zúzmarára.",
+                "ro": "Parcarea este adesea mai goală iarna, dar atenție la chiciură.",
+                "en": "The parking lot is often emptier in winter, but watch out for frost."
+              }
+            },
+            {
+              "name": "Motovun Old Town",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht ohne die üblichen Touristenmassen.",
+                "hu": "Élvezze a kilátást a szokásos turistaáradat nélkül.",
+                "ro": "Bucurați-vă de priveliște fără mulțimile obișnuite de turiști.",
+                "en": "Enjoy the view without the usual tourist crowds."
+              }
+            },
+            {
+              "name": "Motovun Forest",
+              "tip_5lang": {
+                "de": "In schattigen Tallagen kann es ganztägig gefroren sein.",
+                "hu": "Az árnyékos völgyekben egész nap fagyott maradhat az út.",
+                "ro": "În zonele umbroase de vale poate fi înghețat pe tot parcursul zilei.",
+                "en": "In shaded valley areas, it can stay frozen all day long."
+              }
+            },
+            {
+              "name": "Grožnjan",
+              "tip_5lang": {
+                "de": "Viele Ateliers haben im Winter nur auf Anfrage geöffnet.",
+                "hu": "Sok műhely télen csak előzetes bejelentkezésre nyit ki.",
+                "ro": "Multe ateliere sunt deschise doar la cerere iarna.",
+                "en": "Many studios are only open by appointment in winter."
+              }
+            },
+            {
+              "name": "Boutique Winery",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um lokale Weine am warmen Ofen zu probieren.",
+                "hu": "Tökéletes hely a helyi borok kóstolására a meleg kályha mellett.",
+                "ro": "Locul perfect pentru a degusta vinuri locale lângă soba caldă.",
+                "en": "The perfect place to sample local wines by the warm stove."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in den Hügeln Istriens ab November ratsam.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Planen Sie die Rückfahrt vor 17:00 Uhr, um Wildwechsel zu vermeiden.",
+              "Einige Nebenstraßen werden bei Schnee nicht sofort geräumt."
+            ],
+            "hu": [
+              "Isztria dombjai között novembertől javasolt a téli gumi.",
+              "Töltsön fagyállót a szélvédőmosóba.",
+              "Tervezze a visszautat 17:00 előtt a vadveszély miatt.",
+              "Néhány mellékutat hóeséskor nem takarítanak azonnal."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt recomandate în dealurile Istriei din noiembrie.",
+              "Puneți antigel în lichidul de spălare a parbrizului.",
+              "Planificați drumul de întoarcere înainte de 17:00 pentru a evita animalele sălbatice.",
+              "Unele drumuri secundare nu sunt curățate imediat în caz de zăpadă."
+            ],
+            "en": [
+              "Winter tires are advised in the Istrian hills from November.",
+              "Add anti-freeze to your windshield washer fluid.",
+              "Plan your return trip before 5:00 PM to avoid wildlife on the road.",
+              "Some side roads are not cleared immediately during snowfall."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -966,6 +2009,275 @@
           "The shuttle runs approximately every 20 minutes.",
           "Pay attention to the last return bus."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Motovun ist seltener per Linienbus erreichbar, meist von Pazin oder Buje aus. Nach der Ankunft am Fuße des Hügels nutzen Sie am besten den Shuttle-Bus, um die steile Auffahrt zu überbrücken. Oben angekommen, liegt die gesamte historische Stadt vor Ihnen, die man ideal zu Fuß an einem Nachmittag erkunden kann.",
+            "hu": "Motovun ritkábban érhető el menetrend szerinti busszal, főleg Pazin vagy Buje felől. A domb lábához érkezve a legjobb transzferbuszt használni a meredek szakasz leküzdéséhez. Felérve az egész történelmi város Ön előtt hever, amely gyalogosan egy délután alatt kényelmesen bejárható.",
+            "ro": "Motovun este accesibil mai rar cu autobuzul de linie, de obicei din Pazin sau Buje. După sosirea la baza dealului, cel mai bine este să folosiți autobuzul de transfer pentru a urca panta abruptă. Odată ajunși sus, întregul oraș istoric este în fața voastră, putând fi explorat ideal pe jos într-o după-amiază.",
+            "en": "Motovun is less frequently reachable by public bus, mostly from Pazin or Buje. After arriving at the foot of the hill, it's best to use the shuttle bus to bridge the steep ascent. Once at the top, the entire historic town is before you, ideal for exploring on foot in one afternoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bushaltestelle Motovun",
+                "hu": "Motovuni buszmegálló",
+                "ro": "Stația de autobuz Motovun",
+                "en": "Motovun Bus Stop"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Shuttle-Abfahrt",
+                "hu": "Transzferbusz indulás",
+                "ro": "Plecare transfer",
+                "en": "Shuttle Departure"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Altstadt Motovun",
+                "hu": "Motovun óváros",
+                "ro": "Centrul vechi Motovun",
+                "en": "Motovun Old Town"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pod Voltom",
+                "tip": "Terrasse mit Blick auf das Tal."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pod Voltom",
+                "tip": "Terasz kilátással a völgyre."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pod Voltom",
+                "tip": "Terasă cu vedere spre vale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pod Voltom",
+                "tip": "Terrace with a view of the valley."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hinterhof-Gärten",
+                "tip": "Kleine Oasen in der Altstadt.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Belső udvari kertek",
+                "tip": "Kis oázisok az óvárosban.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădini interioare",
+                "tip": "Mici oaze în centrul vechi.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Courtyard Gardens",
+                "tip": "Small oases in the old town.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirladen",
+                "tip": "Handgefertigte Keramik."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ajándékbolt",
+                "tip": "Kézzel készített kerámia."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de suveniruri",
+                "tip": "Ceramică lucrată manual."
+              }
+            ],
+            "en": [
+              {
+                "name": "Souvenir Shop",
+                "tip": "Handmade ceramics."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Bustickets online oder im Bus prüfen.",
+              "Der Shuttle fährt ca. alle 20 Minuten.",
+              "Achten Sie auf den letzten Bus zurück."
+            ],
+            "hu": [
+              "Ellenőrizze a buszjegyeket online.",
+              "A transzferbusz kb. 20 percenként jár.",
+              "Figyeljen az utolsó visszajáratra."
+            ],
+            "ro": [
+              "Verificați biletele de autobuz online.",
+              "Transferul circulă la aproximativ 20 de minute.",
+              "Atenție la ultimul autobuz de întoarcere."
+            ],
+            "en": [
+              "Check bus tickets online or on board.",
+              "The shuttle runs approximately every 20 minutes.",
+              "Pay attention to the last return bus."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Kommen Sie entspannt mit dem Bus im Tal an. Der Shuttle bringt Sie trocken direkt nach oben. Den Vormittag verbringen Sie geschützt in der Altstadt von Motovun. Da weniger Betrieb herrscht, genießen Sie die Ruhe in den Cafés, während der Regen gegen die alten Scheiben prasselt.",
+            "hu": "Érkezzen pihenten busszal a völgybe. A transzferbusz szárazon viszi fel közvetlenül a várba. A délelőttöt védett helyen töltse Motovun óvárosában. Mivel kevesebben vannak, élvezze a nyugalmat a kávézókban, miközben az eső veri a régi ablakokat.",
+            "ro": "Sosiți relaxat cu autobuzul în vale. Shuttle-ul vă duce uscat direct sus. Petreceți dimineața la adăpost în orașul vechi Motovun. Fiind mai puțină agitație, savurați liniștea în cafenele în timp ce ploaia bate în geamurile vechi.",
+            "en": "Arrive relaxed by bus in the valley. The shuttle takes you straight up while staying dry. Spend the morning sheltered in Motovun's old town. With fewer crowds, enjoy the peace in the cafes while the rain drums against the old windows."
+          },
+          "stops": [
+            {
+              "name": "Motovun Bus Stop",
+              "tip_5lang": {
+                "de": "Ein kleiner Unterstand am Straßenrand bietet Schutz beim Warten.",
+                "hu": "Az útmenti kis váróhely védelmet nyújt várakozás közben.",
+                "ro": "Un mic adăpost la marginea drumului oferă protecție în timpul așteptării.",
+                "en": "A small shelter at the roadside offers protection while waiting."
+              }
+            },
+            {
+              "name": "Shuttle Departure",
+              "tip_5lang": {
+                "de": "Der Shuttle fährt bei Regen oft häufiger, um Wanderer zu entlasten.",
+                "hu": "A transzferbusz esőben gyakrabban járhat a gyalogosok segítésére.",
+                "ro": "Shuttle-ul circulă adesea mai des pe ploaie pentru a ajuta pietonii.",
+                "en": "The shuttle often runs more frequently in the rain to help hikers."
+              }
+            },
+            {
+              "name": "Motovun Old Town",
+              "tip_5lang": {
+                "de": "Bleiben Sie in der Nähe der Shuttle-Haltestelle für die Rückfahrt.",
+                "hu": "Maradjon a transzfermegálló közelében a visszainduláshoz.",
+                "ro": "Rămâneți aproape de stația de shuttle pentru întoarcere.",
+                "en": "Stay near the shuttle stop for your return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan, da Busse bei Unwetter Verspätung haben können.",
+              "Der Shuttle-Bus ist die beste Wahl, um trocken nach oben zu kommen.",
+              "Nutzen Sie die Wartezeit im Tal für einen Kaffee in Livade.",
+              "Tragen Sie wasserfeste Schuhe für den Weg zum Bus."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet, viharban a buszok késhetnek.",
+              "A transzferbusz a legjobb választás, hogy szárazon jusson fel.",
+              "Használja ki a völgyi várakozási időt egy kávéra Livade-ben.",
+              "Viseljen vízálló cipőt a buszhoz vezető úton."
+            ],
+            "ro": [
+              "Verificați programul, autobuzele pot întârzia în caz de furtună.",
+              "Autobuzul shuttle este cea mai bună alegere pentru a ajunge sus uscat.",
+              "Folosiți timpul de așteptare din vale pentru o cafea în Livade.",
+              "Purtați încălțăminte impermeabilă pentru drumul spre autobuz."
+            ],
+            "en": [
+              "Check the schedule; buses may be delayed during storms.",
+              "The shuttle bus is the best way to reach the top while staying dry.",
+              "Use the waiting time in the valley for a coffee in Livade.",
+              "Wear waterproof shoes for the walk to the bus stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Busfahrt ins Hinterland bietet weite Blicke über die winterliche Landschaft. Oben in Motovun ist es im Winter ruhig und besinnlich. Genießen Sie die klare Sicht von den Mauern, bevor Sie sich in ein warmes Restaurant zurückziehen. Die Rückfahrt im beheizten Bus bildet den Abschluss des Tages.",
+            "hu": "A buszozás a hátországba tágas kilátást nyújt a téli tájra. Fent Motovunban ilyenkor csend és nyugalom honol. Élvezze a tiszta kilátást a várfalakról, mielőtt visszahúzódna egy meleg étterembe. A napot a fűtött buszon tett visszautazás zárja.",
+            "ro": "Călătoria cu autobuzul spre interiorul țării oferă vederi largi peste peisajul de iarnă. Sus în Motovun este liniște și pace iarna. Bucurați-vă de vederea clară de pe ziduri înainte de a vă retrage într-un restaurant cald. Ziua se încheie cu drumul de întoarcere în autobuzul încălzit.",
+            "en": "The bus ride into the hinterland offers wide views over the winter landscape. Up in Motovun, it is quiet and contemplative in winter. Enjoy the clear views from the walls before retreating to a warm restaurant. The return trip in a heated bus concludes the day."
+          },
+          "stops": [
+            {
+              "name": "Motovun Bus Stop",
+              "tip_5lang": {
+                "de": "Die Wartezeit im Freien sollte im Winter minimiert werden.",
+                "hu": "A szabadban történő várakozást télen érdemes minimalizálni.",
+                "ro": "Timpul de așteptare în aer liber ar trebui minimizat iarna.",
+                "en": "Waiting time outdoors should be minimized in winter."
+              }
+            },
+            {
+              "name": "Shuttle Departure",
+              "tip_5lang": {
+                "de": "Der Shuttle ist beheizt und eine komfortable Aufstiegshilfe.",
+                "hu": "A transzferbusz fűtött és kényelmes segítség a feljutáshoz.",
+                "ro": "Autobuzul shuttle este încălzit și reprezintă un ajutor confortabil pentru urcare.",
+                "en": "The shuttle is heated and a comfortable aid for the climb."
+              }
+            },
+            {
+              "name": "Motovun Old Town",
+              "tip_5lang": {
+                "de": "Achten Sie auf die früheren Abfahrtszeiten der Busse am Abend.",
+                "hu": "Ügyeljen a buszok korábbi esti indulási időpontjaira.",
+                "ro": "Fiți atenți la orele de plecare mai timpurii ale autobuzelor seara.",
+                "en": "Pay attention to the earlier bus departure times in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Im Winter verkehren weniger Busse, Vorab-Check ist wichtig.",
+              "Der Shuttle-Bus schützt vor dem eisigen Wind beim Aufstieg.",
+              "Die Bushaltestelle im Tal hat keinen beheizten Wartesaal.",
+              "Kaufen Sie Tickets nach Möglichkeit vorab online."
+            ],
+            "hu": [
+              "Télen kevesebb busz jár, az előzetes ellenőrzés fontos.",
+              "A transzferbusz védelmet nyújt a jeges szél ellen felfelé menet.",
+              "A völgyi buszmegállónak nincs fűtött váróterme.",
+              "Lehetőség szerint vegye meg a jegyeket előre online."
+            ],
+            "ro": [
+              "Iarna circulă mai puține autobuze, verificarea prealabilă este importantă.",
+              "Autobuzul shuttle protejează de vântul înghețat în timpul urcării.",
+              "Stația de autobuz din vale nu are sală de așteptare încălzită.",
+              "Cumpărați biletele online în prealabil, dacă este posibil."
+            ],
+            "en": [
+              "Fewer buses run in winter; a prior check is important.",
+              "The shuttle bus protects against the icy wind during the climb.",
+              "The bus stop in the valley does not have a heated waiting room.",
+              "Buy tickets online in advance if possible."
+            ]
+          }
+        }
       }
     }
   },

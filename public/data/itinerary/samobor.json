@@ -327,6 +327,466 @@
           "Try Bermet, a local herbal wine.",
           "The town is famous for its handicrafts, especially glass."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens genießen Sie den Charme des Hauptplatzes bei einem Kaffee und dem berühmten Kuchenspezialität, bevor Sie in die Geschichte im Barockschloss eintauchen. Mittags erkunden Sie die barocke Pracht der Anastasia-Kirche und genießen die lokale Gastronomie. Nachmittags führt Sie ein schöner Waldweg hinauf zur geheimnisvollen Burgruine. Den Abend lassen Sie entspannt im Anindol-Park ausklingen.",
+            "hu": "Reggel élvezze a főtér báját egy kávé és a híres krémes mellett, majd merüljön el a történelemben a barokk kastélyban. Délben fedezze fel a Szent Anasztázia-templom pompáját és kóstolja meg a helyi gasztronómiát. Délután egy szép erdei út vezet fel a titokzatos várromhoz. Az estét töltse pihentetően az Anindol erdőparkban, távol a város zajától.",
+            "ro": "Dimineața, bucurați-vă de farmecul pieței centrale cu o cafea și faimoasa prăjitură, înainte de a pătrunde în istorie la castelul baroc. La prânz, explorați splendoarea barocă a bisericii Anastasia și savurați gastronomia locală. După-amiaza, o potecă frumoasă prin pădure vă conduce spre ruinele misterioase ale cetății. Seara se încheie relaxant în parcul forestier Anindol.",
+            "en": "In the morning, enjoy the charm of the main square with a coffee and the famous cream cake before diving into history at the Baroque castle. At noon, explore the Baroque splendor of Anastasia Church and enjoy local gastronomy. In the afternoon, a beautiful forest path leads you up to the mysterious castle ruins. Spend the evening relaxing in the Anindol Forest Park."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "König-Tomislav-Platz",
+                "hu": "III. Tomiszláv király tér",
+                "ro": "Piața Regele Tomislav",
+                "en": "King Tomislav Square"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie die berühmte Samoborska kremšnita.",
+                "hu": "Kóstolja meg a híres samobori krémes süteményt.",
+                "ro": "Gustați faimoasa prăjitură Samoborska kremšnita.",
+                "en": "Try the famous Samoborska kremšnita cream cake."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtmuseum Samobor",
+                "hu": "Samobori Városi Múzeum",
+                "ro": "Muzeul Orașului Samobor",
+                "en": "Samobor City Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum befindet sich in einem Barockschloss.",
+                "hu": "A múzeum egy barokk kastélyban található.",
+                "ro": "Muzeul este situat într-un castel baroc.",
+                "en": "The museum is located in a Baroque castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche der Heiligen Anastasia",
+                "hu": "Szent Anasztázia-templom",
+                "ro": "Biserica Sfânta Anastasia",
+                "en": "Church of Saint Anastasia"
+              },
+              "tip_5lang": {
+                "de": "Eine der schönsten Barockkirchen der Region.",
+                "hu": "A régió egyik legszebb barokk temploma.",
+                "ro": "Una dintre cele mai frumoase biserici baroce din regiune.",
+                "en": "One of the most beautiful Baroque churches in the region."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittagessen in der Altstadt",
+                "hu": "Ebéd az óvárosban",
+                "ro": "Prânz în orașul vechi",
+                "en": "Lunch in the Old Town"
+              },
+              "tip_5lang": {
+                "de": "Bestellen Sie Muštarda zu Ihrem Fleischgericht.",
+                "hu": "Rendeljen Muštardát a húsétel mellé.",
+                "ro": "Comandă Muštarda alături de preparatul din carne.",
+                "en": "Order Muštarda mustard with your meat dish."
+              }
+            },
+            {
+              "name": {
+                "de": "Burgruine Samobor",
+                "hu": "Samobori várrom",
+                "ro": "Ruinele Cetății Samobor",
+                "en": "Samobor Castle Ruins"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg bietet tolle Fotomotive der Ruinen.",
+                "hu": "A felmenetel remek fotótémákat kínál a romokról.",
+                "ro": "Urcarea oferă oportunități foto deosebite cu ruinele.",
+                "en": "The climb offers great photo opportunities of the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Waldpark Anindol",
+                "hu": "Anindol erdőpark",
+                "ro": "Parcul Forestier Anindol",
+                "en": "Anindol Forest Park"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Spazierweg durch den dichten Wald.",
+                "hu": "Csendes sétaút a sűrű erdőn keresztül.",
+                "ro": "O potecă liniștită de plimbare prin pădurea deasă.",
+                "en": "A quiet walking path through the dense forest."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Heiligen Anna",
+                "hu": "Szent Anna-kápolna",
+                "ro": "Capela Sfânta Ana",
+                "en": "Chapel of Saint Anna"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Abschluss des Tages im Wald.",
+                "hu": "A nap békés lezárása az erdőben.",
+                "ro": "Un final de zi liniștit în mijlocul pădurii.",
+                "en": "A peaceful end to the day in the forest."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Kremšnita im U Prolazu",
+                "tip": "Die authentischste Sahnetorte der Stadt."
+              },
+              {
+                "name": "Gablanc im Gabreku 1929",
+                "tip": "Traditionelle Fleischgerichte seit Generationen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Krémes az U Prolazuban",
+                "tip": "A város legautentikusabb krémes süteménye."
+              },
+              {
+                "name": "Gabreku 1929",
+                "tip": "Hagyományos húsételek generációk óta."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Kremšnita la U Prolazu",
+                "tip": "Cea mai autentică prăjitură cu cremă din oraș."
+              },
+              {
+                "name": "Gabreku 1929",
+                "tip": "Preparate tradiționale din carne de generații."
+              }
+            ],
+            "en": [
+              {
+                "name": "Kremšnita at U Prolazu",
+                "tip": "The most authentic cream cake in town."
+              },
+              {
+                "name": "Gabreku 1929",
+                "tip": "Traditional meat dishes for generations."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Waldpark Anindol",
+                "tip": "Vogelgezwitscher und frische Waldluft.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Aussichtspunkt Tepec",
+                "tip": "Blick über die Dächer von Samobor.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Anindol erdőpark",
+                "tip": "Madárcsicsergés és friss erdei levegő.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Tepec kilátó",
+                "tip": "Kilátás Samobor háztetőire.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul Anindol",
+                "tip": "Cântecul păsărilor și aer curat de pădure.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Punctul Tepec",
+                "tip": "Vedere peste acoperișurile din Samobor.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Anindol Forest Park",
+                "tip": "Birdsong and fresh forest air.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Tepec Viewpoint",
+                "tip": "View over the roofs of Samobor.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bermet & Muštarda Filipec",
+                "tip": "Hausgemachter Likörwein und scharfer Senf."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bermet & Muštarda Filipec",
+                "tip": "Házi likőrbor és csípős mustár."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bermet & Muštarda Filipec",
+                "tip": "Vin licoros de casă și muștar iute."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bermet & Muštarda Filipec",
+                "tip": "Homemade liqueur wine and spicy mustard."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Samobor ist am Wochenende sehr belebt, besuchen Sie es unter der Woche für Ruhe.",
+              "Bequeme Schuhe sind für den Weg zur Burgruine unerlässlich.",
+              "Probieren Sie den Bermet, einen lokalen Kräuterwein.",
+              "Die Stadt ist berühmt für ihr Kunsthandwerk, besonders Glas."
+            ],
+            "hu": [
+              "Samobor hétvégén nagyon zsúfolt, a nyugalomért látogasson el hétköznap.",
+              "Kényelmes cipő elengedhetetlen a várromhoz vezető úthoz.",
+              "Kóstolja meg a Bermetet, a helyi gyógynövényes bort.",
+              "A város híres kézművesiparáról, különösen az üvegről."
+            ],
+            "ro": [
+              "Samobor este foarte aglomerat în weekend, vizitați în timpul săptămânii pentru liniște.",
+              "Încălțămintea comodă este esențială pentru drumul spre ruine.",
+              "Gustați Bermet, un vin local cu ierburi.",
+              "Orașul este faimos pentru meșteșugurile sale, în special sticlăria."
+            ],
+            "en": [
+              "Samobor is very busy on weekends; visit during the week for peace.",
+              "Comfortable shoes are essential for the path to the castle ruins.",
+              "Try Bermet, a local herbal wine.",
+              "The town is famous for its handicrafts, especially glass."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen auf dem Hauptplatz unter den Markisen der Cafés bei einer Kremšnita, während der Regen auf das Pflaster trommelt. Mittags locken die gemütlichen Konobas der Altstadt mit deftigen kroatischen Eintöpfen.\n\nAm Nachmittag bietet das Stadtmuseum den perfekten Zufluchtsort im Trockenen, um in die lokale Geschichte einzutauchen. Der Aufstieg zur Burgruine erfordert nun Vorsicht, da die Waldwege durch den Regen rutschig sein können.\n\nZum Abendessen kehren Sie in die beleuchtete Altstadt zurück, wo die feuchten Steine das Licht der Laternen stimmungsvoll reflektieren.",
+            "hu": "Kezdje a reggelt a főtéren, egy kávézó terasza alatt, egy szelet krémes mellett figyelve az eső kopogását. Délben a váró városka hangulatos vendéglői kínálnak menedéket és laktató horvát ételeket.\n\nDélután a Városi Múzeum falai között maradhat szárazon, miközben megismeri a környék múltját. A várromhoz vezető erdei út ilyenkor sáros és csúszós, ezért legyen óvatos a kaptatón.\n\nEste a kivilágított óváros fényei megcsillannak a vizes aszfalton, különleges hangulatot árasztva a vacsorához.",
+            "ro": "Începeți dimineața în piața centrală sub copertinele cafenelelor, savurând o Kremšnita în timp ce ploaia bate în pavaj. La prânz, tavernele primitoare din orașul vechi oferă adăpost și mâncăruri tradiționale calde.\n\nDupă-amiaza, Muzeul Orașului este refugiul perfect pentru a rămâne uscat și a explora istoria locală. Urcarea spre ruinele castelului necesită atenție sporită, deoarece potecile pot fi noroioase.\n\nSeara, luminile orașului vechi se reflectă frumos pe străzile umede, creând o atmosferă romantică pentru cină.",
+            "en": "Start your morning on the main square under cafe awnings with a Kremšnita, watching the rain hit the pavement. At noon, cozy old town taverns offer shelter and hearty Croatian stews.\n\nIn the afternoon, the City Museum provides the perfect indoor retreat to dive into local history. The walk up to the castle ruins requires caution as forest paths can be slippery when wet.\n\nBy evening, the lights of the old town reflect beautifully on the damp stones, creating a atmospheric setting for dinner."
+          },
+          "stops": [
+            {
+              "name": "King Tomislav Square",
+              "tip_4lang": {
+                "de": "Suchen Sie Schutz unter den breiten Café-Markisen.",
+                "hu": "Keressen menedéket a kávézók széles napellenzői alatt.",
+                "ro": "Căutați adăpost sub copertinele largi ale cafenelelor.",
+                "en": "Find shelter under the wide cafe awnings."
+              }
+            },
+            {
+              "name": "Samobor City Museum",
+              "tip_4lang": {
+                "de": "Idealer Ort, um die stärksten Regenschauer abzuwarten.",
+                "hu": "Ideális helyszín a nagyobb záporok átvészelésére.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploii.",
+                "en": "Ideal place to wait out the heavy rain showers."
+              }
+            },
+            {
+              "name": "Church of Saint Anastasia",
+              "tip_4lang": {
+                "de": "Der Innenraum bietet Ruhe und Schutz vor dem Wetter.",
+                "hu": "A belső tér csendet és védelmet nyújt az időjárás elől.",
+                "ro": "Interiorul oferă liniște și protecție împotriva vremii.",
+                "en": "The interior offers peace and shelter from the weather."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_4lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Válasszon ruhatárral rendelkező éttermet a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru haine ude.",
+                "en": "Choose a restaurant with a coat rack for wet jackets."
+              }
+            },
+            {
+              "name": "Samobor Castle Ruins",
+              "tip_4lang": {
+                "de": "Vorsicht auf den rutschigen Steinen und Erdwegen.",
+                "hu": "Vigyázat a csúszós köveken és a földutakon.",
+                "ro": "Atenție la pietrele și potecile de pământ alunecoase.",
+                "en": "Be careful on the slippery stones and dirt paths."
+              }
+            },
+            {
+              "name": "Anindol Forest Park",
+              "tip_4lang": {
+                "de": "Gute Wanderschuhe sind bei Matsch unerlässlich.",
+                "hu": "A sárban elengedhetetlen a jó túrabakancs.",
+                "ro": "Încălțămintea de drumeție este esențială pe noroi.",
+                "en": "Good hiking boots are essential in muddy conditions."
+              }
+            },
+            {
+              "name": "Chapel of Saint Anna",
+              "tip_4lang": {
+                "de": "Ein kleiner, trockener Rückzugsort am Waldrand.",
+                "hu": "Egy kis, száraz menedék az erdő szélén.",
+                "ro": "Un mic refugiu uscat la marginea pădurii.",
+                "en": "A small, dry retreat at the edge of the forest."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Steinpflaster in der Altstadt werden bei Nässe sehr rutschig.",
+              "Kremšnita schmeckt in einem warmen Café bei Regen doppelt so gut.",
+              "Packen Sie einen stabilen Regenschirm ein, da es am Hügel windig sein kann.",
+              "Die Museen sind montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Nutzen Sie die Regenpausen für Fotos von den Burgruinen im Nebel."
+            ],
+            "hu": [
+              "Az óváros macskakövei vizesen rendkívül csúszóssá válnak.",
+              "A krémes egy meleg cukrászdában, esőben még finomabb.",
+              "Vigyen erős esernyőt, mert a dombon szeles lehet az idő.",
+              "A múzeumok hétfőn gyakran zárva tartanak, ellenőrizze az időpontokat.",
+              "Használja ki az esőszüneteket a ködös várrom fotózásához."
+            ],
+            "ro": [
+              "Pavajul de piatră din orașul vechi devine foarte alunecos când este ud.",
+              "Kremšnita are un gust mai bun într-o cafenea caldă când plouă.",
+              "Luați o umbrelă rezistentă, deoarece pe deal poate fi vânt.",
+              "Muzeele sunt adesea închise lunea, verificați programul.",
+              "Folosiți pauzele de ploaie pentru poze cu ruinele în ceață."
+            ],
+            "en": [
+              "The cobblestones in the old town become very slippery when wet.",
+              "Kremšnita tastes even better in a warm cafe during rain.",
+              "Pack a sturdy umbrella as it can get windy on the hill.",
+              "Museums are often closed on Mondays, check the hours beforehand.",
+              "Use rain breaks to photograph the castle ruins in the mist."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Atmen Sie die klare Winterluft auf dem weihnachtlich geschmückten Hauptplatz ein. Ein heißer Tee und eine frische Kremšnita wärmen Sie am Vormittag auf.\n\nMittags genießen Sie die Wärme einer traditionellen Gaststätte bei herzhaften Fleischgerichten. Da die Sonne bereits gegen 16:30 Uhr untergeht, planen Sie den Besuch der Burgruine für den frühen Nachmittag ein.\n\nWenn die Dämmerung einsetzt, verwandelt sich der Anindol-Wald in eine stille Winterlandschaft. Den Abend lassen Sie in der hell erleuchteten Altstadt bei einem Glas lokalem Bermet ausklingen.",
+            "hu": "Szívja be a friss téli levegőt a karácsonyi díszbe öltözött főtéren. Egy forró tea és a friss krémes kellemesen felmelegíti a délelőtt folyamán.\n\nDélben élvezze egy hagyományos vendéglő melegét és a bőséges húsételeket. Mivel a nap már 16:30 körül nyugszik, a várromot kora délutánra ütemezze.\n\nAhogy alkonyodik, az Anindol erdő csendes téli tájjá változik. Az estét a fényárban úszó óvárosban zárja, egy pohár helyi Bermet társaságában.",
+            "ro": "Respirați aerul proaspăt de iarnă în piața centrală decorată de sărbătoare. Un ceai fierbinte și o Kremšnita proaspătă vă vor încălzi în timpul dimineții.\n\nLa prânz, bucurați-vă de căldura unei taverne tradiționale și de preparate din carne consistente. Deoarece soarele apune în jurul orei 16:30, planificați vizita la castel devreme.\n\nPe măsură ce se lasă amurgul, pădurea Anindol devine un peisaj de iarnă liniștit. Încheiați seara în orașul vechi luminat, cu un pahar de Bermet local.",
+            "en": "Breathe in the crisp winter air on the festively decorated main square. A hot tea and fresh Kremšnita will warm you up during the morning.\n\nAt noon, enjoy the warmth of a traditional tavern with hearty meat dishes. Since the sun sets around 16:30, schedule your castle visit for the early afternoon.\n\nAs dusk falls, Anindol forest turns into a quiet winter landscape. End your evening in the brightly lit old town with a glass of local Bermet aperitif."
+          },
+          "stops": [
+            {
+              "name": "King Tomislav Square",
+              "tip_4lang": {
+                "de": "Genießen Sie die festliche Beleuchtung am Morgen.",
+                "hu": "Élvezze az ünnepi kivilágítást a reggeli órákban.",
+                "ro": "Bucurați-vă de iluminatul festiv în timpul dimineții.",
+                "en": "Enjoy the festive lights during the morning hours."
+              }
+            },
+            {
+              "name": "Samobor City Museum",
+              "tip_4lang": {
+                "de": "Ein gut beheizter Ort für eine Kulturpause.",
+                "hu": "Jól fűtött helyszín egy kis kulturális szünethez.",
+                "ro": "Un loc bine încălzit pentru o pauză culturală.",
+                "en": "A well-heated place for a cultural break."
+              }
+            },
+            {
+              "name": "Church of Saint Anastasia",
+              "tip_4lang": {
+                "de": "Achten Sie auf eventuelle Eismelodien bei Gottesdiensten.",
+                "hu": "Figyeljen az ünnepi szertartások idejére.",
+                "ro": "Atenție la orele slujbelor de sărbătoare.",
+                "en": "Check the times for holiday services."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_4lang": {
+                "de": "Probieren Sie Samobors berühmte Würste (Chemušnice).",
+                "hu": "Kóstolja meg a híres szamobori kolbászt (Chemušnice).",
+                "ro": "Gustați celebrii cârnați de Samobor (Chemušnice).",
+                "en": "Try the famous Samobor sausages (Chemušnice)."
+              }
+            },
+            {
+              "name": "Samobor Castle Ruins",
+              "tip_4lang": {
+                "de": "Besuch vor Sonnenuntergang (16:30 Uhr) einplanen.",
+                "hu": "Tervezze a látogatást naplemente (16:30) elé.",
+                "ro": "Planificați vizita înainte de apus (ora 16:30).",
+                "en": "Plan your visit before sunset (16:30)."
+              }
+            },
+            {
+              "name": "Anindol Forest Park",
+              "tip_4lang": {
+                "de": "Die Wege können bei Frost sehr glatt sein.",
+                "hu": "A fagyott utak nagyon csúszósak lehetnek.",
+                "ro": "Potecile pot fi foarte alunecoase în caz de îngheț.",
+                "en": "Paths can be very slippery in freezing conditions."
+              }
+            },
+            {
+              "name": "Chapel of Saint Anna",
+              "tip_4lang": {
+                "de": "Ein schöner Ort für Fotos in der Wintersonne.",
+                "hu": "Gyönyörű helyszín fotózáshoz a téli napsütésben.",
+                "ro": "Un loc frumos pentru fotografii în soarele de iarnă.",
+                "en": "A beautiful spot for photos in the winter sun."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung für den windigen Hügel.",
+              "Der Sonnenuntergang ist im Dezember bereits gegen 16:00-16:30 Uhr.",
+              "Probieren Sie Bermet, den lokalen Kräuterwein, zum Aufwärmen.",
+              "Einige Wanderwege im Wald können bei Schnee schwer passierbar sein.",
+              "Die Konditoreien sind im Winter beliebte Treffpunkte, reservieren Sie ggf."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a szeles dombtető miatt.",
+              "A naplemente decemberben már 16:00-16:30 körül bekövetkezik.",
+              "Kóstolja meg a Bermetet, a helyi gyógynövényes bort melegítőnek.",
+              "Néhány erdei ösvény hóban nehezen járható lehet.",
+              "A cukrászdák télen népszerűek, érdemes asztalt nézni."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru vârful dealului vântos.",
+              "Apusul soarelui în decembrie este deja în jurul orei 16:00-16:30.",
+              "Încercați Bermet, vinul local cu plante, pentru a vă încălzi.",
+              "Unele poteci din pădure pot fi greu practicabile pe zăpadă.",
+              "Cofetăriile sunt locuri populare iarna, rezervați dacă e posibil."
+            ],
+            "en": [
+              "Wear multiple layers for the windy hilltop.",
+              "Sunset in December is as early as 16:00-16:30.",
+              "Try Bermet, the local herbal wine, to warm up.",
+              "Some forest trails might be difficult to navigate in snow.",
+              "Pastry shops are popular meeting spots in winter, book a table if possible."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -589,6 +1049,398 @@
           "Refill your water bottle at the public fountains.",
           "The bike path along the stream is flat and relaxing."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Biketour kombiniert städtisches Flair mit den grünen Hügeln um Samobor. Nach einem kurzen Stopp im Zentrum radeln Sie durch den dichten Anindol-Wald hinauf zum Tepec-Hügel. Der Blick über die Region ist die Anstrengung wert. Vorbei an der alten Burgruine geht es bergab zurück ins Tal, wo ein herzhaftes Mittagessen am plätschernden Bach auf Sie wartet.",
+            "hu": "Ez a biciklitúra ötvözi a városi hangulatot Samobor zöld dombjaival. Egy rövid központi megálló után az Anindol erdőn keresztül teker fel a Tepec-dombra. A környékre nyíló kilátás megéri a fáradtságot. Az öreg várrom mellett elhaladva guruljon vissza a völgybe, ahol a csobogó patak partján kiadós ebéd várja.",
+            "ro": "Acest tur cu bicicleta combină atmosfera urbană cu dealurile verzi din jurul Samoborului. După o scurtă oprire în centru, pedalați prin pădurea Anindol până pe dealul Tepec. Vederea asupra regiunii merită efortul. Trecând pe lângă vechea cetate, coborâți înapoi în vale, unde vă așteaptă un prânz copios lângă pârâul susurând.",
+            "en": "This bike tour combines urban flair with the green hills around Samobor. After a short stop in the center, cycle through the dense Anindol forest up to Tepec Hill. The view over the region is worth the effort. Passing by the old castle ruins, roll back down into the valley where a hearty lunch by the babbling stream awaits."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "König-Tomislav-Platz",
+                "hu": "III. Tomiszláv király tér",
+                "ro": "Piața Regele Tomislav",
+                "en": "King Tomislav Square"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit einem schnellen Espresso.",
+                "hu": "Kezdjen egy gyors eszpresszóval.",
+                "ro": "Începeți cu un espresso rapid.",
+                "en": "Start with a quick espresso."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtmuseum Samobor",
+                "hu": "Samobori Városi Múzeum",
+                "ro": "Muzeul Orașului Samobor",
+                "en": "Samobor City Museum"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad im Hof sicher ab.",
+                "hu": "Parkolja le biciklijét biztonságosan az udvaron.",
+                "ro": "Parcați bicicleta în siguranță în curte.",
+                "en": "Park your bike safely in the courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Waldpark Anindol (Radweg)",
+                "hu": "Anindol erdőpark (bicikliút)",
+                "ro": "Parcul Anindol (pistă biciclete)",
+                "en": "Anindol Forest Park (bike path)"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kühle Luft unter den Bäumen.",
+                "hu": "Élvezze a hűvös levegőt a fák alatt.",
+                "ro": "Bucurați-vă de aerul răcoros sub copaci.",
+                "en": "Enjoy the cool air under the trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Tepec",
+                "hu": "Tepec kilátó",
+                "ro": "Punctul Tepec",
+                "en": "Tepec Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Ein steiler Anstieg, aber der Blick lohnt sich.",
+                "hu": "Meredek emelkedő, de a kilátás megéri.",
+                "ro": "O urcare abruptă, dar vederea merită.",
+                "en": "A steep climb, but the view is worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Burgruine Samobor",
+                "hu": "Samobori várrom",
+                "ro": "Ruinele Cetății Samobor",
+                "en": "Samobor Castle Ruins"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Abstieg mit dem Rad.",
+                "hu": "Vigyázat a leereszkedésnél biciklivel.",
+                "ro": "Atenție la coborâre cu bicicleta.",
+                "en": "Careful on the descent with the bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Spätes Mittagessen am Bach",
+                "hu": "Késői ebéd a pataknál",
+                "ro": "Prânz târziu lângă râu",
+                "en": "Late lunch by the stream"
+              },
+              "tip_5lang": {
+                "de": "Forelle ist hier eine lokale Spezialität.",
+                "hu": "A pisztráng itt helyi specialitás.",
+                "ro": "Păstrăvul este o specialitate locală aici.",
+                "en": "Trout is a local specialty here."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Samoborska klet",
+                "tip": "Rustikales Ambiente und Wildgerichte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Samoborska klet",
+                "tip": "Rusztikus környezet és vadételek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Samoborska klet",
+                "tip": "Ambianță rustică și preparate din vânat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Samoborska klet",
+                "tip": "Rustic ambiance and game dishes."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Bach Gradna",
+                "tip": "Ruhiges Plätschern direkt im Stadtzentrum.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gradna-patak",
+                "tip": "Nyugodt csobogás közvetlenül a városközpontban.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Râul Gradna",
+                "tip": "Susur liniștit chiar în centrul orașului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Gradna Stream",
+                "tip": "Calm babbling right in the city center.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lebkuchen-Handwerk Arko",
+                "tip": "Traditionelle Licitar-Herzen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arko mézeskalács",
+                "tip": "Hagyományos licitár szívek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Artesanat Arko",
+                "tip": "Inimi tradiționale din turtă dulce (Licitar)."
+              }
+            ],
+            "en": [
+              {
+                "name": "Arko Gingerbread",
+                "tip": "Traditional Licitar hearts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein Mountainbike, da einige Wege im Wald steil sind.",
+              "Achten Sie auf Wanderer im Anindol-Park.",
+              "Füllen Sie Ihre Wasserflasche an den öffentlichen Brunnen auf.",
+              "Der Radweg entlang des Baches ist flach und entspannend."
+            ],
+            "hu": [
+              "Béreljen hegyi kerékpárt, mert az erdei utak néhol meredekek.",
+              "Ügyeljen a túrázókra az Anindol parkban.",
+              "Töltse meg kulacsát a nyilvános kutaknál.",
+              "A patak menti kerékpárút sík és pihentető."
+            ],
+            "ro": [
+              "Închiriați o bicicletă montană, deoarece unele poteci din pădure sunt abrupte.",
+              "Atenție la drumeți în parcul Anindol.",
+              "Umpleți sticla de apă la fântânile publice.",
+              "Pista de biciclete de-a lungul râului este plată și relaxantă."
+            ],
+            "en": [
+              "Rent a mountain bike as some paths in the forest are steep.",
+              "Watch out for hikers in Anindol Park.",
+              "Refill your water bottle at the public fountains.",
+              "The bike path along the stream is flat and relaxing."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bereiten Sie sich auf eine nasse Fahrt vor. Der Vormittag auf dem Hauptplatz bietet Zeit für einen schnellen Espresso unter dem Schirm. Danach geht es auf befestigten Wegen zum Museum.\n\nMittags ist eine längere Pause im Trockenen ratsam, um die Ausrüstung zu lüften. Die Fahrt zum Tepec-Aussichtspunkt auf unbefestigten Waldwegen wird zur Herausforderung und erfordert volle Konzentration.\n\nNach dem Besuch der Burgruine führt die Route zurück zum Bach. Ein spätes Mittagessen in Ufernähe lässt Sie die dynamische Kraft des angeschwollenen Wassers erleben.",
+            "hu": "Készüljön fel egy vizes tekerésre. A délelőtti kávé a főtéren egy napernyő alatt ad alkalmat a terv áttekintésére, mielőtt a múzeumhoz indulna aszfaltozott úton.\n\nDélben érdemes hosszabb pihenőt tartani fedett helyen az öltözet szárításához. A Tepec kilátóhoz vezető erdei út ilyenkor komoly kihívás és nagy figyelmet igényel.\n\nA várrom után az út visszavezet a patakhoz. A késői ebéd a vízparton lehetővé teszi, hogy megfigyelje a megduzzadt patak sodrását.",
+            "ro": "Pregătiți-vă pentru o plimbare umedă. Dimineața în piață oferă timp pentru un espresso rapid sub umbrelă, înainte de a pleca spre muzeu pe drumuri asfaltate.\n\nLa prânz, se recomandă o pauză mai lungă la adăpost pentru a vă usca echipamentul. Drumul spre punctul de belvedere Tepec pe poteci de pădure devine o provocare.\n\nDupă vizitarea castelului, ruta revine spre pârâu. Un prânz târziu pe malul apei vă permite să vedeți forța pârâului umflat de ploaie.",
+            "en": "Prepare for a wet ride. The morning on the main square allows for a quick espresso under a canopy before heading to the museum on paved roads.\n\nAt noon, a longer break indoors is advised to dry your gear. The ride to Tepec viewpoint on unpaved forest paths becomes a challenge and requires full concentration.\n\nAfter visiting the castle ruins, the route leads back to the stream. A late lunch by the water lets you witness the dynamic power of the swollen stream."
+          },
+          "stops": [
+            {
+              "name": "King Tomislav Square",
+              "tip_4lang": {
+                "de": "Parken Sie das Rad unter einem Vordach.",
+                "hu": "Parkolja a bringát egy előtető alá.",
+                "ro": "Parcați bicicleta sub un acoperiș.",
+                "en": "Park your bike under an overhang."
+              }
+            },
+            {
+              "name": "Samobor City Museum",
+              "tip_4lang": {
+                "de": "Fahrradständer sind meist nicht überdacht.",
+                "hu": "A kerékpártárolók többsége nem fedett.",
+                "ro": "Suporturile de biciclete nu sunt de obicei acoperite.",
+                "en": "Bike racks are mostly not covered."
+              }
+            },
+            {
+              "name": "Anindol Forest Park (bike path)",
+              "tip_4lang": {
+                "de": "Vorsicht vor tiefen Pfützen und Matsch.",
+                "hu": "Vigyázzon a mély tócsákkal és a sárral.",
+                "ro": "Atenție la bălțile adânci și noroi.",
+                "en": "Watch out for deep puddles and mud."
+              }
+            },
+            {
+              "name": "Tepec Viewpoint",
+              "tip_4lang": {
+                "de": "Extrem rutschiger Aufstieg bei Regen.",
+                "hu": "Rendkívül csúszós emelkedő esőben.",
+                "ro": "Urcare extrem de alunecoasă pe ploaie.",
+                "en": "Extremely slippery climb during rain."
+              }
+            },
+            {
+              "name": "Samobor Castle Ruins",
+              "tip_4lang": {
+                "de": "Tragen Sie das Rad über die steilsten Abschnitte.",
+                "hu": "A meredek szakaszokon tolja a bringát.",
+                "ro": "Împingeți bicicleta pe secțiunile abrupte.",
+                "en": "Push your bike over the steepest sections."
+              }
+            },
+            {
+              "name": "Late lunch by the stream",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf das tosende Wasser.",
+                "hu": "Élvezze a látványt a zúgó patak mellett.",
+                "ro": "Bucurați-vă de vederea pârâului învolburat.",
+                "en": "Enjoy the view of the rushing water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung und Schutzbleche sind ein Muss.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf Matsch.",
+              "Scheibenbremsen sind bei Nässe wesentlich zuverlässiger.",
+              "Die Waldwege oberhalb von Samobor können sehr lehmig sein.",
+              "Vermeiden Sie schnelle Kurvenfahrten auf dem nassen Kopfsteinpflaster."
+            ],
+            "hu": [
+              "A teljes esőruházat és a sárvédő elengedhetetlen.",
+              "Csökkentse kicsit a guminyomást a jobb tapadásért a sárban.",
+              "A tárcsafékek nedves időben sokkal megbízhatóbbak.",
+              "A Szamobor feletti erdei utak nagyon agyagosak lehetnek.",
+              "Kerülje a gyors kanyarodást a nedves macskakövön."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie și aripile sunt obligatorii.",
+              "Reduceți puțin presiunea în anvelope pentru aderență pe noroi.",
+              "Frânele pe disc sunt mult mai fiabile pe timp de ploaie.",
+              "Potecile de pădure deasupra Samoborului pot fi argiloase.",
+              "Evitați virajele rapide pe pavajul de piatră ud."
+            ],
+            "en": [
+              "Full rain gear and mudguards are a must.",
+              "Lower your tire pressure slightly for better grip on mud.",
+              "Disc brakes are much more reliable in wet conditions.",
+              "The forest paths above Samobor can be very clayey.",
+              "Avoid sharp turns on wet cobblestones in the town center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie dick eingepackt in den frostigen Morgen. Der Hauptplatz wirkt im Winterlicht besonders weitläufig. Ein kurzer Stopp im Museum bietet Gelegenheit zum Aufwärmen der Hände.\n\nMittags führt die Radtour durch den kahlen Anindol-Wald. Die Luft ist klar und die Sicht zum Tepec-Aussichtspunkt oft besser als im Sommer, da kein Laub die Sicht versperrt.\n\nNach der Erkundung der Burgruine geht es zügig bergab. Ein spätes Mittagessen in einer warmen Gaststätte am Gradna-Bach ist die Belohnung für die winterliche Anstrengung.",
+            "hu": "Induljon vastagon felöltözve a fagyos reggelen. A főtér a téli fényekben különösen tágasnak hat. Egy rövid megálló a múzeumban lehetőséget ad a kezek felmelegítésére.\n\nDélben a túra a kopár Anindol erdőn át vezet. A levegő tiszta, és a kilátás a Tepecről gyakran jobb, mint nyáron, mert a lombok nem takarják el a tájat.\n\nA várrom felfedezése után gyors gurulás következik lefelé. Egy késői ebéd a Gradna-patak menti meleg vendéglőben a jutalom a téli erőfeszítésért.",
+            "ro": "Începeți dimineața geroasă bine îmbrăcat. Piața centrală pare deosebit de vastă în lumina iernii. O scurtă oprire la muzeu oferă ocazia de a vă încălzi mâinile.\n\nLa prânz, tura cu bicicleta trece prin pădurea Anindol desfrunzită. Aerul este curat, iar vizibilitatea spre Tepec este adesea mai bună decât vara.\n\nDupă explorarea ruinelor, urmează o coborâre rapidă. Un prânz târziu într-o tavernă caldă de lângă pârâul Gradna este recompensa pentru efortul depus.",
+            "en": "Start the frosty morning bundled up in layers. The main square feels especially spacious in the winter light. A short stop at the museum offers a chance to warm up your hands.\n\nAt noon, the bike tour leads through the bare Anindol forest. The air is clear, and the view from Tepec is often better than in summer as no leaves block the vista.\n\nAfter exploring the castle ruins, enjoy a quick downhill ride. A late lunch in a warm restaurant by the Gradna stream is the reward for your winter exertion."
+          },
+          "stops": [
+            {
+              "name": "King Tomislav Square",
+              "tip_4lang": {
+                "de": "Vorsicht vor Glatteis auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a jegesedésre a macskakövön.",
+                "ro": "Atenție la polei pe pavajul de piatră.",
+                "en": "Watch out for black ice on the cobblestones."
+              }
+            },
+            {
+              "name": "Samobor City Museum",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Innenraum zum Aufwärmen.",
+                "hu": "Használja a belső teret melegedésre.",
+                "ro": "Folosiți interiorul pentru a vă încălzi.",
+                "en": "Use the indoor space to warm up."
+              }
+            },
+            {
+              "name": "Anindol Forest Park (bike path)",
+              "tip_4lang": {
+                "de": "Gefrorener Boden bietet oft guten Grip.",
+                "hu": "A fagyott talaj gyakran jó tapadást biztosít.",
+                "ro": "Pământul înghețat oferă adesea o aderență bună.",
+                "en": "Frozen ground often provides surprisingly good grip."
+              }
+            },
+            {
+              "name": "Tepec Viewpoint",
+              "tip_4lang": {
+                "de": "Kalte Luft macht den Aufstieg anstrengender.",
+                "hu": "A hideg levegő fárasztóbbá teszi az emelkedőt.",
+                "ro": "Aerul rece face urcarea mai obositoare.",
+                "en": "Cold air makes the climb feel more strenuous."
+              }
+            },
+            {
+              "name": "Samobor Castle Ruins",
+              "tip_4lang": {
+                "de": "Vorsicht bei der Abfahrt auf gefrorenem Laub.",
+                "hu": "Vigyázzon a gurulásnál a fagyott leveleken.",
+                "ro": "Atenție la coborâre pe frunzele înghețate.",
+                "en": "Be careful when descending over frozen leaves."
+              }
+            },
+            {
+              "name": "Late lunch by the stream",
+              "tip_4lang": {
+                "de": "Suchen Sie einen Platz nah am Heizkörper.",
+                "hu": "Keressen helyet a fűtőtest közelében.",
+                "ro": "Căutați un loc aproape de calorifer.",
+                "en": "Look for a table near the heater."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe und Überschuhe sind lebenswichtig.",
+              "Achten Sie auf vereiste Stellen in schattigen Waldabschnitten.",
+              "Die Akkulaufzeit von E-Bikes ist bei Kälte deutlich geringer.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee mit.",
+              "Beenden Sie die Tour vor 16:30 Uhr, um im Hellen anzukommen."
+            ],
+            "hu": [
+              "A szélálló kesztyű és a kamásli elengedhetetlen.",
+              "Ügyeljen a jeges foltokra az erdő árnyékos részein.",
+              "Az elektromos kerékpárok hatótávja hidegben jelentősen csökken.",
+              "Vigyen magával termoszban meleg teát.",
+              "Fejezze be a túrát 16:30 előtt, hogy még világosban beérjen."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt și protecțiile pentru pantofi sunt vitale.",
+              "Atenție la porțiunile înghețate în zonele umbrite de pădure.",
+              "Autonomia bateriei la bicicletele electrice scade mult la frig.",
+              "Luați un termos cu ceai cald la voi.",
+              "Încheiați tura înainte de 16:30 pentru a ajunge pe lumină."
+            ],
+            "en": [
+              "Windproof gloves and shoe covers are essential.",
+              "Watch out for icy patches in shaded forest sections.",
+              "E-bike battery life is significantly shorter in cold weather.",
+              "Carry a thermos with warm tea for the breaks.",
+              "Finish your tour before 16:30 to arrive while it's still light."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -851,6 +1703,398 @@
           "Combine the cave visit with a local lunch on-site.",
           "Tepec parking is often full; arrive early."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie auch die spektakuläre Grgos-Höhle etwas außerhalb der Stadt. Danach kehren Sie ins Zentrum zurück, um den historischen Kern zu genießen. Mittags verwöhnen Sie sich mit der exzellenten lokalen Küche. Der Nachmittag steht im Zeichen der barocken Anastasia-Kirche und einer kurzen Fahrt zum Aussichtspunkt Tepec, bevor Sie den Tag mit Kultur im Stadtmuseum abrunden.",
+            "hu": "Autóval a városon kívüli látványos Grgos-barlangot is elérheti. Ezután térjen vissza a centrumba, hogy élvezze a történelmi magot. Délben kényeztesse magát a kiváló helyi konyhával. A délután a barokk Anasztázia-templomról és egy rövid autózásról szól a Tepec kilátóhoz, mielőtt a napot kultúrával zárná a Városi Múzeumban.",
+            "ro": "Cu mașina puteți ajunge și la spectaculoasa peșteră Grgos, situată puțin în afara orașului. Apoi reveniți în centru pentru a vă bucura de nucleul istoric. La prânz, răsfățați-vă cu excelenta bucătărie locală. După-amiaza este dedicată bisericii baroce Anastasia și unei scurte călătorii la punctul de belvedere Tepec, înainte de a încheia ziua cu cultură la Muzeul Orașului.",
+            "en": "By car, you can also reach the spectacular Grgos Cave just outside the city. Then return to the center to enjoy the historical core. At noon, pamper yourself with excellent local cuisine. The afternoon is dedicated to the Baroque Anastasia Church and a short drive to the Tepec viewpoint before rounding off the day with culture at the City Museum."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grgos-Höhle",
+                "hu": "Grgos-barlang",
+                "ro": "Peștera Grgos",
+                "en": "Grgos Cave"
+              },
+              "tip_5lang": {
+                "de": "Eine der schönsten Höhlen Kroatiens, Jacke mitnehmen.",
+                "hu": "Horvátország egyik legszebb barlangja, vigyen kabátot.",
+                "ro": "Una dintre cele mai frumoase peșteri din Croația, luați o jachetă.",
+                "en": "One of Croatia's most beautiful caves; bring a jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "König-Tomislav-Platz",
+                "hu": "III. Tomiszláv király tér",
+                "ro": "Piața Regele Tomislav",
+                "en": "King Tomislav Square"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem großen Parkplatz hinter dem Museum.",
+                "hu": "Parkoljon a múzeum mögötti nagy parkolóban.",
+                "ro": "Parcați în parcarea mare din spatele muzeului.",
+                "en": "Park in the large parking lot behind the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Gourmet-Mittagessen",
+                "hu": "Gourmet ebéd",
+                "ro": "Prânz gourmet",
+                "en": "Gourmet Lunch"
+              },
+              "tip_5lang": {
+                "de": "Fragen Sie nach dem Tagesmenü mit lokalen Zutaten.",
+                "hu": "Kérdezze a napi menüt helyi alapanyagokból.",
+                "ro": "Întrebați de meniul zilei cu ingrediente locale.",
+                "en": "Ask for the daily menu with local ingredients."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche der Heiligen Anastasia",
+                "hu": "Szent Anasztázia-templom",
+                "ro": "Biserica Sfânta Anastasia",
+                "en": "Church of Saint Anastasia"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die vergoldeten Altäre.",
+                "hu": "Csodálja meg az aranyozott oltárokat.",
+                "ro": "Admirați altarele aurite.",
+                "en": "Admire the gilded altars."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Tepec",
+                "hu": "Tepec kilátó",
+                "ro": "Punctul Tepec",
+                "en": "Tepec Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus sind es nur wenige Minuten zu Fuß.",
+                "hu": "A parkolótól csak pár perc gyalog.",
+                "ro": "De la parcare sunt doar câteva minute de mers pe jos.",
+                "en": "It is only a few minutes' walk from the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtmuseum Samobor",
+                "hu": "Samobori Városi Múzeum",
+                "ro": "Muzeul Orașului Samobor",
+                "en": "Samobor City Museum"
+              },
+              "tip_5lang": {
+                "de": "Schöner Abschluss im Museumsgarten.",
+                "hu": "Szép lezárás a múzeumkertben.",
+                "ro": "Un final frumos în grădina muzeului.",
+                "en": "A nice ending in the museum garden."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Kod špilje",
+                "tip": "Direkt bei der Grgos-Höhle gelegen, hervorragendes Wild."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kod špilje",
+                "tip": "Közvetlenül a Grgos-barlangnál, kiváló vadételek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Kod špilje",
+                "tip": "Situat chiar lângă peșteră, vânat excelent."
+              }
+            ],
+            "en": [
+              {
+                "name": "Kod špilje",
+                "tip": "Located right by the cave, excellent game."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Waldkapelle St. Anna",
+                "tip": "Ein Ort der Stille oberhalb der Stadt.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szent Anna erdei kápolna",
+                "tip": "A csend helye a város felett.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Capela Sf. Ana",
+                "tip": "Un loc de liniște deasupra orașului.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "St. Anna Chapel",
+                "tip": "A place of silence above the city.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Kristallschleiferei Tuk",
+                "tip": "Echter Samobor-Kristall."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tuk kristálycsiszoló",
+                "tip": "Valódi samobori kristály."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Atelierul de cristal Tuk",
+                "tip": "Cristal veritabil de Samobor."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tuk Crystal Shop",
+                "tip": "Real Samobor crystal."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Das Parken im Zentrum ist kostenpflichtig, halten Sie Kleingeld bereit.",
+              "Die Straßen zur Höhle sind schmal, aber gut ausgebaut.",
+              "Kombinieren Sie den Besuch der Höhle mit einem Mittagessen vor Ort.",
+              "Der Parkplatz Tepec ist oft belegt, kommen Sie früh."
+            ],
+            "hu": [
+              "A parkolás a központban fizetős, legyen Önnél aprópénz.",
+              "A barlanghoz vezető utak szűkek, de jól karbantartottak.",
+              "Kösse össze a barlanglátogatást egy helyi ebéddel.",
+              "A Tepec parkoló gyakran tele van, érkezzen korán."
+            ],
+            "ro": [
+              "Parcarea în centru este cu plată, pregătiți mărunțiș.",
+              "Drumurile spre peșteră sunt înguste, dar bine întreținute.",
+              "Combinați vizita la peșteră cu un prânz la fața locului.",
+              "Parcarea Tepec este adesea plină, veniți devreme."
+            ],
+            "en": [
+              "Parking in the center is paid; keep small change ready.",
+              "The roads to the cave are narrow but well-maintained.",
+              "Combine the cave visit with a local lunch on-site.",
+              "Tepec parking is often full; arrive early."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Grgos-Höhle ist am regnerischen Vormittag ein perfektes Ziel, da das Klima unter Tage stabil bleibt. Danach fahren Sie bequem zum Hauptplatz, ohne nass zu werden.\n\nMittags genießen Sie ein Gourmet-Essen in Samobor, während draußen der Regen fällt. Die Fahrt zum Tepec-Aussichtspunkt ist auch bei schlechtem Wetter lohnenswert, da man den Blick direkt aus dem Auto genießen kann.\n\nAm Nachmittag bietet das Stadtmuseum Kultur pur im Trockenen. Der Tag endet entspannt mit einer kurzen Fahrt zurück durch die verregneten Gassen.",
+            "hu": "A Grgos-barlang tökéletes célpont esős délelőttön, mivel a föld alatt állandó a klíma. Ezután kényelmesen, ázás nélkül hajthat a főtérre.\n\nDélben élvezze a gourmet ebédet Szamoborban, miközben kint esik. A Tepec kilátóhoz vezető út rossz időben is megéri, hiszen az autóból is gyönyörködhet a kilátásban.\n\nDélután a Városi Múzeum kínál kulturális feltöltődést szárazon. A nap kényelmesen zárul egy rövid autózással az eső áztatta utcákon át.",
+            "ro": "Peștera Grgos este o destinație perfectă într-o dimineață ploioasă, deoarece climatul subteran rămâne stabil. Apoi, conduceți confortabil spre piața centrală fără a vă uda.\n\nLa prânz, savurați o masă gourmet în Samobor în timp ce afară plouă. Drumul spre punctul de belvedere Tepec merită chiar și pe vreme rea, putând admira priveliștea din mașină.\n\nDupă-amiaza, Muzeul Orașului oferă cultură la adăpost. Ziua se încheie relaxat cu o scurtă plimbare prin străzile ploioase.",
+            "en": "Grgos Cave is a perfect destination on a rainy morning as the underground climate remains stable. Afterwards, drive comfortably to the main square without getting wet.\n\nAt noon, enjoy a gourmet lunch in Samobor while it rains outside. The drive to Tepec viewpoint is worthwhile even in bad weather, as you can enjoy the view directly from the car.\n\nIn the afternoon, the City Museum offers culture in a dry environment. The day ends relaxedly with a short drive through the rainy streets."
+          },
+          "stops": [
+            {
+              "name": "Grgos Cave",
+              "tip_4lang": {
+                "de": "Konstante Temperatur, ideal bei Regen.",
+                "hu": "Állandó hőmérséklet, ideális esőben.",
+                "ro": "Temperatură constantă, ideal pe ploaie.",
+                "en": "Constant temperature, ideal during rain."
+              }
+            },
+            {
+              "name": "King Tomislav Square",
+              "tip_4lang": {
+                "de": "Parken Sie im Parkhaus nahe dem Platz.",
+                "hu": "Parkoljon a tér közeli parkolóházban.",
+                "ro": "Parcați în garajul de lângă piață.",
+                "en": "Park in the garage near the square."
+              }
+            },
+            {
+              "name": "Gourmet Lunch",
+              "tip_4lang": {
+                "de": "Reservieren Sie einen Tisch am Fenster.",
+                "hu": "Foglaljon asztalt az ablak mellett.",
+                "ro": "Rezervați o masă lângă fereastră.",
+                "en": "Reserve a table by the window."
+              }
+            },
+            {
+              "name": "Church of Saint Anastasia",
+              "tip_4lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zur Kirche.",
+                "hu": "Rövid séta a parkolótól a templomig.",
+                "ro": "Drum scurt de la parcare la biserică.",
+                "en": "Short walk from the parking lot to the church."
+              }
+            },
+            {
+              "name": "Tepec Viewpoint",
+              "tip_4lang": {
+                "de": "Blick aus dem Auto bei starkem Regen.",
+                "hu": "Kilátás az autóból erős eső esetén.",
+                "ro": "Vedere din mașină în caz de ploaie torențială.",
+                "en": "View from the car in case of heavy rain."
+              }
+            },
+            {
+              "name": "Samobor City Museum",
+              "tip_4lang": {
+                "de": "Parkplätze direkt vor dem Eingang vorhanden.",
+                "hu": "Parkolóhelyek közvetlenül a bejáratnál.",
+                "ro": "Locuri de parcare chiar în fața intrării.",
+                "en": "Parking spaces available right in front of the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze in der Nähe der Sehenswürdigkeiten.",
+              "Die Straßen zum Tepec können bei Nässe rutschig sein.",
+              "Grgos Cave bietet Schutz vor Wind und Wetter.",
+              "Prüfen Sie die Scheibenwischer vor der Fahrt in die Hügel.",
+              "In Samobor ist das Parken am Wochenende oft eingeschränkt."
+            ],
+            "hu": [
+              "Használja a látnivalókhoz közeli parkolóhelyeket.",
+              "A Tepecre vezető utak vizesen csúszósak lehetnek.",
+              "A Grgos-barlang védelmet nyújt a szél és az eső elől.",
+              "Ellenőrizze az ablaktörlőket a dombvidéki út előtt.",
+              "Szamoborban a parkolás hétvégén gyakran korlátozott."
+            ],
+            "ro": [
+              "Folosiți locurile de parcare din apropierea obiectivelor.",
+              "Drumurile spre Tepec pot fi alunecoase pe timp de ploaie.",
+              "Peștera Grgos oferă protecție împotriva vântului și ploii.",
+              "Verificați ștergătoarele înainte de a pleca spre dealuri.",
+              "În Samobor, parcarea este adesea limitată în weekend."
+            ],
+            "en": [
+              "Use parking spots close to the main attractions.",
+              "The roads to Tepec can be slippery when wet.",
+              "Grgos Cave provides shelter from wind and weather.",
+              "Check your wipers before heading into the hills.",
+              "Parking in Samobor is often restricted on weekends."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der beheizten Grgos-Höhle, die im Winter oft wärmer ist als die Außenluft. Danach fahren Sie zum festlich geschmückten Hauptplatz für einen heißen Snack.\n\nMittags wärmen Sie sich bei einem exzellenten Gourmet-Essen auf. Die Fahrt zum Tepec-Aussichtspunkt bietet im Winter oft spektakuläre Fernsichten über das verschneite Umland.\n\nDer Nachmittag im Stadtmuseum ist eine gemütliche Zeitreise. Den Tag beenden Sie mit einer Panoramafahrt durch die weihnachtlich beleuchteten Vororte von Samobor.",
+            "hu": "Kezdje a napot a fűtött Grgos-barlangban, amely télen gyakran melegebb, mint a kinti levegő. Ezután hajtson az ünnepi díszbe öltözött főtérre egy forró falatért.\n\nDélben melegedjen fel egy kiváló gourmet ebéd mellett. A Tepec kilátóhoz vezető út télen gyakran látványos távlati kilátást nyújt a havas környékre.\n\nA délután a Városi Múzeumban egy hangulatos időutazás. A napot a karácsonyi fényekkel kivilágított szamobori elővárosokon át vezető panorámaúttal zárja.",
+            "ro": "Începeți ziua în Peștera Grgos, care iarna este adesea mai caldă decât aerul de afară. Apoi, conduceți spre piața centrală decorată festiv pentru o gustare caldă.\n\nLa prânz, încălziți-vă cu o masă gourmet excelentă. Drumul spre Tepec oferă iarna vederi panoramice spectaculoase asupra împrejurimilor înzăpezite.\n\nDupă-amiaza la Muzeul Orașului este o călătorie în timp primitoare. Încheiați ziua cu o plimbare panoramică prin suburbiile luminate de Crăciun ale Samoborului.",
+            "en": "Start the day in the sheltered Grgos Cave, which is often warmer than the outside air in winter. Then drive to the festively decorated main square for a hot snack.\n\nAt noon, warm up with an excellent gourmet meal. The drive to Tepec viewpoint often offers spectacular long-distance views over the snowy surroundings in winter.\n\nAn afternoon at the City Museum is a cozy time travel. End the day with a panoramic drive through the Christmas-lit outskirts of Samobor."
+          },
+          "stops": [
+            {
+              "name": "Grgos Cave",
+              "tip_4lang": {
+                "de": "Oft wärmer als die Außentemperatur.",
+                "hu": "Gyakran melegebb, mint a kinti hőmérséklet.",
+                "ro": "Adesea mai caldă decât temperatura exterioară.",
+                "en": "Often warmer than the outside temperature."
+              }
+            },
+            {
+              "name": "King Tomislav Square",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem Spaziergang.",
+                "hu": "Használja az ülésfűtést a séta után.",
+                "ro": "Folosiți încălzirea în scaune după plimbare.",
+                "en": "Use seat heating after the walk."
+              }
+            },
+            {
+              "name": "Gourmet Lunch",
+              "tip_4lang": {
+                "de": "Fragen Sie nach saisonalen Wildgerichten.",
+                "hu": "Kérdezzen rá a szezonális vadételekre.",
+                "ro": "Întrebați de preparatele sezoniere din vânat.",
+                "en": "Ask for seasonal game dishes."
+              }
+            },
+            {
+              "name": "Church of Saint Anastasia",
+              "tip_4lang": {
+                "de": "Vorsicht vor Eis auf den Parkplatzstufen.",
+                "hu": "Vigyázzon a jégre a parkoló lépcsőin.",
+                "ro": "Atenție la gheață pe treptele parcării.",
+                "en": "Watch out for ice on the parking lot steps."
+              }
+            },
+            {
+              "name": "Tepec Viewpoint",
+              "tip_4lang": {
+                "de": "Beste Sicht bei klarem Frostwetter.",
+                "hu": "A legjobb kilátás tiszta fagyos időben.",
+                "ro": "Cea mai bună vedere pe vreme geroasă și senină.",
+                "en": "Best view during clear frosty weather."
+              }
+            },
+            {
+              "name": "Samobor City Museum",
+              "tip_4lang": {
+                "de": "Parkplatz oft geräumt, aber Vorsicht.",
+                "hu": "A parkolót takarítják, de legyen óvatos.",
+                "ro": "Parcarea este de obicei curățată, dar fiți atenți.",
+                "en": "Parking lot is usually cleared, but be cautious."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser hügeligen Region Pflicht.",
+              "Führen Sie bei starkem Schneefall Schneeketten mit.",
+              "Die Batterieleistung des Autos kann bei extremer Kälte sinken.",
+              "Genießen Sie die weihnachtliche Beleuchtung in den Dörfern.",
+              "Die Grgos-Höhle ist ein guter Ort, um Frostperioden zu entkommen."
+            ],
+            "hu": [
+              "A téli gumi kötelező ebben a dombos régióban.",
+              "Erős havazás esetén legyen Önöknél hólánc.",
+              "Az autó akkumulátora gyengülhet extrém hidegben.",
+              "Élvezze a környező falvak karácsonyi kivilágítását.",
+              "A Grgos-barlang remek hely a fagy elől való menekülésre."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în această regiune deluroasă.",
+              "Aveți lanțuri antiderapante în caz de ninsoare puternică.",
+              "Performanța bateriei mașinii poate scădea la frig extrem.",
+              "Bucurați-vă de iluminatul de Crăciun din satele din jur.",
+              "Peștera Grgos este un loc bun pentru a scăpa de ger."
+            ],
+            "en": [
+              "Winter tires are mandatory in this hilly region.",
+              "Carry snow chains in case of heavy snowfall.",
+              "Car battery performance can drop in extreme cold.",
+              "Enjoy the Christmas lighting in the surrounding villages.",
+              "Grgos Cave is a great place to escape freezing temperatures."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1090,6 +2334,366 @@
           "All sights are easily accessible on foot from the center.",
           "Check the timetable for the return trip to Zagreb."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Samobor ist ideal mit dem Bus von Zagreb aus erreichbar. Vom Busbahnhof spazieren Sie direkt zum belebten Hauptplatz. Nach der Besichtigung der Anastasia-Kirche bietet der Anindol-Park eine grüne Oase direkt am Stadtzentrum. Den kulturellen Abschluss bildet das Stadtmuseum, bevor es zu Fuß zurück zum Busbahnhof geht.",
+            "hu": "Samobor ideálisan elérhető busszal Zágrábból. Az autóbusz-állomástól közvetlenül a nyüzsgő főtérre sétálhat. Az Anasztázia-templom megtekintése után az Anindol park kínál zöld oázist a városközpont mellett. A kulturális zárást a Városi Múzeum jelenti, mielőtt gyalog visszatérne az állomásra.",
+            "ro": "Samobor este ideal accesibil cu autobuzul din Zagreb. De la autogară mergeți direct spre piața centrală plină de viață. După vizitarea bisericii Anastasia, parcul Anindol oferă o oază verde chiar lângă centrul orașului. Finalul cultural este marcat de Muzeul Orașului, înainte de a reveni pe jos la autogară.",
+            "en": "Samobor is ideally accessible by bus from Zagreb. From the bus station, walk directly to the bustling main square. After visiting Anastasia Church, Anindol Park offers a green oasis right next to the city center. The cultural conclusion is the City Museum before walking back to the station."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Busbahnhof Samobor",
+                "hu": "Samobor autóbusz-állomás",
+                "ro": "Autogara Samobor",
+                "en": "Samobor Bus Station"
+              },
+              "tip_5lang": {
+                "de": "Hier kommen Busse aus Zagreb im 20-Minuten-Takt an.",
+                "hu": "Ide Zágrábból 20 percenként érkeznek buszok.",
+                "ro": "Autobuzele din Zagreb sosesc aici la fiecare 20 de minute.",
+                "en": "Buses from Zagreb arrive here every 20 minutes."
+              }
+            },
+            {
+              "name": {
+                "de": "König-Tomislav-Platz",
+                "hu": "III. Tomiszláv király tér",
+                "ro": "Piața Regele Tomislav",
+                "en": "King Tomislav Square"
+              },
+              "tip_5lang": {
+                "de": "Vom Bahnhof sind es 10 Minuten Fußweg.",
+                "hu": "Az állomástól 10 perc séta.",
+                "ro": "De la autogară sunt 10 minute de mers pe jos.",
+                "en": "It is a 10-minute walk from the station."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche der Heiligen Anastasia",
+                "hu": "Szent Anasztázia-templom",
+                "ro": "Biserica Sfânta Anastasia",
+                "en": "Church of Saint Anastasia"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Reflexion.",
+                "hu": "Nyugodt hely az elmélkedésre.",
+                "ro": "Un loc liniștit pentru reflecție.",
+                "en": "A quiet place for reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Waldpark Anindol",
+                "hu": "Anindol erdőpark",
+                "ro": "Parcul Forestier Anindol",
+                "en": "Anindol Forest Park"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die gut markierten Wanderwege.",
+                "hu": "Használja a jól jelzett túraútvonalakat.",
+                "ro": "Folosiți traseele de drumeție bine marcate.",
+                "en": "Use the well-marked hiking trails."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtmuseum Samobor",
+                "hu": "Samobori Városi Múzeum",
+                "ro": "Muzeul Orașului Samobor",
+                "en": "Samobor City Museum"
+              },
+              "tip_5lang": {
+                "de": "Informieren Sie sich über die Glasmachertradition.",
+                "hu": "Tájékozódjon az üvegkészítés hagyományairól.",
+                "ro": "Informați-vă despre tradiția sticlăriei.",
+                "en": "Learn about the glassmaking tradition."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konditorei Livadić",
+                "tip": "Historisches Café am Hauptplatz."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Livadić cukrászda",
+                "tip": "Történelmi kávézó a főtéren."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cofetăria Livadić",
+                "tip": "Cafenea istorică în piața centrală."
+              }
+            ],
+            "en": [
+              {
+                "name": "Livadić Pastry Shop",
+                "tip": "Historical café on the main square."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Museumsgarten",
+                "tip": "Ein versteckter Park hinter dem Barockbau.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Múzeumkert",
+                "tip": "Egy rejtett park a barokk épület mögött.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina muzeului",
+                "tip": "Un parc ascuns în spatele clădirii baroce.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Museum Garden",
+                "tip": "A hidden park behind the Baroque building.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Samobor-Souvenirshop",
+                "tip": "Lokale Weine und Kräuterschnäpse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Samobor ajándékbolt",
+                "tip": "Helyi borok és gyógynövényes pálinkák."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de suveniruri Samobor",
+                "tip": "Vinuri locale și rachiuri cu ierburi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Samobor Souvenir Shop",
+                "tip": "Local wines and herbal brandies."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Ihr Busticket direkt beim Fahrer.",
+              "Die Busse der Linie 151/153 sind die schnellsten.",
+              "Alle Sehenswürdigkeiten sind vom Zentrum aus gut zu Fuß erreichbar.",
+              "Prüfen Sie den Fahrplan für die Rückfahrt nach Zagreb."
+            ],
+            "hu": [
+              "Vásárolja meg jegyét közvetlenül a sofőrnél.",
+              "A 151/153-as vonal buszai a leggyorsabbak.",
+              "Minden látnivaló jól elérhető gyalog a központból.",
+              "Ellenőrizze a menetrendet a Zágrábba való visszatéréshez."
+            ],
+            "ro": [
+              "Cumpărați biletul direct de la șofer.",
+              "Autobuzele liniilor 151/153 sunt cele mai rapide.",
+              "Toate atracțiile sunt ușor accesibile pe jos din centru.",
+              "Verificați orarul pentru întoarcerea spre Zagreb."
+            ],
+            "en": [
+              "Buy your bus ticket directly from the driver.",
+              "Buses on lines 151/153 are the fastest.",
+              "All sights are easily accessible on foot from the center.",
+              "Check the timetable for the return trip to Zagreb."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Kommen Sie am Samoborer Busbahnhof an und nutzen Sie den kurzen, überdachten Weg zum Stadtzentrum. Der Vormittag am Hauptplatz lässt sich am besten bei einer Kremšnita verbringen.\n\nMittags bietet die Altstadt viele Möglichkeiten, trocken von einer Sehenswürdigkeit zur nächsten zu gelangen. Die Kirche St. Anastasia ist nur einen kurzen Sprint durch den Regen entfernt.\n\nNachmittags ist das Stadtmuseum der ideale Ort für einen längeren Aufenthalt. Da die Wege zum Park Anindol bei Regen mühsam sind, bietet das Museum eine hervorragende Alternative im Trockenen.",
+            "hu": "Érkezzen meg a szamobori autóbusz-állomásra, és használja a rövid, védett utat a városközpont felé. A délelőtt a főtéren tölthető el legkellemesebben egy krémes mellett.\n\nDélben az óváros számos lehetőséget kínál, hogy szárazon jusson el egyik látnivalótól a másikig. A Szent Anasztázia-templom csak egy rövid vágta az esőben.\n\nDélután a Városi Múzeum ideális hely a hosszabb időzésre. Mivel az Anindol parkba vezető utak esőben nehezek, a múzeum kiváló alternatívát kínál szárazon.",
+            "ro": "Sosiți la autogara din Samobor și folosiți drumul scurt și parțial acoperit spre centru. Dimineața în piață este cel mai bine petrecută cu o Kremšnita.\n\nLa prânz, orașul vechi oferă multe opțiuni pentru a trece de la un obiectiv la altul fără a vă uda prea tare. Biserica Sf. Anastasia e aproape.\n\nDupă-amiaza, Muzeul Orașului este locul ideal pentru o ședere mai lungă. Deoarece potecile spre Anindol sunt dificile pe ploaie, muzeul e o alternativă excelentă.",
+            "en": "Arrive at Samobor Bus Station and use the short, partially sheltered path towards the center. The morning on the main square is best spent with a Kremšnita.\n\nAt noon, the old town offers many options to move between sights while staying relatively dry. St. Anastasia's Church is just a short dash through the rain.\n\nIn the afternoon, the City Museum is the ideal place for a longer stay. Since the paths to Anindol Park are difficult in the rain, the museum provides a great dry alternative."
+          },
+          "stops": [
+            {
+              "name": "Samobor Bus Station",
+              "tip_4lang": {
+                "de": "Überdachter Wartebereich vorhanden.",
+                "hu": "Fedett váróterem áll rendelkezésre.",
+                "ro": "Zonă de așteptare acoperită disponibilă.",
+                "en": "Covered waiting area available."
+              }
+            },
+            {
+              "name": "King Tomislav Square",
+              "tip_4lang": {
+                "de": "Kurzer Fußweg vom Busbahnhof (ca. 5-7 Min).",
+                "hu": "Rövid séta a buszállomástól (kb. 5-7 perc).",
+                "ro": "Drum scurt de la autogară (cca. 5-7 min).",
+                "en": "Short walk from the bus station (approx. 5-7 min)."
+              }
+            },
+            {
+              "name": "Church of Saint Anastasia",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Kircheneingang als Regenschutz.",
+                "hu": "Használja a templombejáratot esővédőnek.",
+                "ro": "Folosiți intrarea bisericii ca protecție.",
+                "en": "Use the church entrance as rain cover."
+              }
+            },
+            {
+              "name": "Anindol Forest Park",
+              "tip_4lang": {
+                "de": "Nur bei leichtem Regen zu empfehlen.",
+                "hu": "Csak enyhe esőben ajánlott.",
+                "ro": "Recomandat doar pe ploaie ușoară.",
+                "en": "Recommended only during light rain."
+              }
+            },
+            {
+              "name": "Samobor City Museum",
+              "tip_4lang": {
+                "de": "Garderobe für nasse Regenschirme vorhanden.",
+                "hu": "Van ruhatár a vizes esernyőknek.",
+                "ro": "Garderobă disponibilă pentru umbrele ude.",
+                "en": "Cloakroom available for wet umbrellas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse von Zagreb (Autotransport Samobor) fahren sehr regelmäßig.",
+              "Kaufen Sie Tickets beim Fahrer oder am Schalter.",
+              "Der Fußweg vom Bahnhof zum Zentrum ist flach und einfach.",
+              "Die Museen bieten einen guten Kontrast zum nassen Wetter draußen.",
+              "Achten Sie auf die Busfahrpläne für die Rückfahrt am Abend."
+            ],
+            "hu": [
+              "A zágrábi buszok (Autotransport Samobor) nagyon sűrűn járnak.",
+              "Vegye meg a jegyet a sofőrnél vagy a pénztárnál.",
+              "A buszállomástól a központig tartó út sík és könnyű.",
+              "A múzeumok jó kontrasztot nyújtanak a kinti vizes időhöz képest.",
+              "Ügyeljen a visszaúti buszmenetrendre az esti órákban."
+            ],
+            "ro": [
+              "Autobuzele din Zagreb (Autotransport Samobor) circulă regulat.",
+              "Cumpărați bilete de la șofer sau de la ghișeu.",
+              "Drumul de la autogară spre centru este plat și ușor.",
+              "Muzeele oferă un contrast bun cu vremea udă de afară.",
+              "Atenție la orarul autobuzelor pentru întoarcerea de seară."
+            ],
+            "en": [
+              "Buses from Zagreb (Autotransport Samobor) run very frequently.",
+              "Buy tickets from the driver or at the counter.",
+              "The walk from the bus station to the center is flat and easy.",
+              "Museums offer a good contrast to the wet weather outside.",
+              "Check the bus schedules for the return trip in the evening."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kommen Sie im winterlichen Samobor an. Der Weg vom Busbahnhof zum Hauptplatz führt an beleuchteten Schaufenstern vorbei. Ein heißes Getränk am Vormittag ist Pflicht.\n\nMittags genießen Sie die weihnachtliche Atmosphäre in den Gassen der Altstadt. Die Wege sind meist geräumt, sodass der Besuch der Kirche St. Anastasia problemlos möglich ist.\n\nDer Nachmittag im Anindol-Wald bietet Ruhe in der Wintersonne, bevor es dunkel wird. Bevor Sie Ihren Bus zurück nehmen, wärmen Sie sich im Stadtmuseum noch einmal richtig auf.",
+            "hu": "Érkezzen meg a téli Szamoborba. Az út a buszállomástól a főtérig kivilágított kirakatok mellett vezet el. Egy forró ital délelőtt kötelező.\n\nDélben élvezze a karácsonyi hangulatot az óváros utcáin. Az utakat általában takarítják, így a Szent Anasztázia-templom látogatása zökkenőmentes.\n\nAz Anindol erdőben töltött délután nyugalmat áraszt a téli napsütésben, mielőtt besötétedik. Mielőtt visszaszállna a buszra, melegedjen fel a Városi Múzeumban.",
+            "ro": "Sosiți în Samoborul de iarnă. Drumul de la autogară spre piață trece pe lângă vitrine luminate. O băutură caldă dimineața este obligatorie.\n\nLa prânz, bucurați-vă de atmosfera de Crăciun pe străzile orașului vechi. Drumurile sunt de obicei curățate, deci vizita la biserică e ușoară.\n\nDupă-amiaza în pădurea Anindol oferă liniște în soarele de iarnă înainte de lăsarea întunericului. Înainte de autobuzul de întoarcere, încălziți-vă la muzeu.",
+            "en": "Arrive in wintry Samobor. The walk from the bus station to the main square passes by lit-up shop windows. A hot drink in the morning is a must.\n\nAt noon, enjoy the Christmas atmosphere in the old town streets. The paths are usually cleared, making a visit to St. Anastasia's Church easy. \n\nAn afternoon in Anindol forest offers peace in the winter sun before it gets dark. Before taking your bus back, warm up once more at the City Museum."
+          },
+          "stops": [
+            {
+              "name": "Samobor Bus Station",
+              "tip_4lang": {
+                "de": "Warteraum ist im Winter beheizt.",
+                "hu": "A váróterem télen fűtött.",
+                "ro": "Sala de așteptare este încălzită iarna.",
+                "en": "The waiting room is heated in winter."
+              }
+            },
+            {
+              "name": "King Tomislav Square",
+              "tip_4lang": {
+                "de": "Besuchen Sie die Weihnachtshütten am Platz.",
+                "hu": "Látogassa meg a karácsonyi bódékat a téren.",
+                "ro": "Vizitați căsuțele de Crăciun din piață.",
+                "en": "Visit the Christmas stalls on the square."
+              }
+            },
+            {
+              "name": "Church of Saint Anastasia",
+              "tip_4lang": {
+                "de": "Bewundern Sie die Krippe in der Weihnachtszeit.",
+                "hu": "Csodálja meg a betlehemet karácsonykor.",
+                "ro": "Admirați ieslea de Crăciun în timpul sărbătorilor.",
+                "en": "Admire the nativity scene during the holiday season."
+              }
+            },
+            {
+              "name": "Anindol Forest Park",
+              "tip_4lang": {
+                "de": "Rückweg antreten, sobald die Dämmerung beginnt.",
+                "hu": "Induljon vissza, amint elkezd alkonyodni.",
+                "ro": "Întoarceți-vă imediat ce începe amurgul.",
+                "en": "Head back as soon as dusk begins."
+              }
+            },
+            {
+              "name": "Samobor City Museum",
+              "tip_4lang": {
+                "de": "Perfekter Ort, um auf den nächsten Bus zu warten.",
+                "hu": "Tökéletes hely a következő busz megvárására.",
+                "ro": "Locul perfect pentru a aștepta următorul autobuz.",
+                "en": "Perfect place to wait for the next bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busfrequenz kann an Feiertagen reduziert sein.",
+              "Tragen Sie warme Schuhe für die Wartezeiten am Busbahnhof.",
+              "Samobor ist bekannt für seine festliche Winterbeleuchtung.",
+              "Nutzen Sie die beheizten Warteräume, wenn vorhanden.",
+              "Ein heißer Bermet am Abend wärmt vor der Rückfahrt auf."
+            ],
+            "hu": [
+              "A buszjáratok sűrűsége ünnepnapokon csökkenhet.",
+              "Viseljen meleg cipőt a buszmegállóban való várakozáshoz.",
+              "Szamobor híres az ünnepi téli kivilágításáról.",
+              "Használja a fűtött várótermeket, ahol elérhetőek.",
+              "Egy forró Bermet este felmelegíti a visszaút előtt."
+            ],
+            "ro": [
+              "Frecvența autobuzelor poate fi redusă de sărbători.",
+              "Purtați încălțăminte călduroasă pentru așteptarea în autogară.",
+              "Samoborul este faimos pentru iluminatul festiv de iarnă.",
+              "Folosiți sălile de așteptare încălzite unde există.",
+              "Un Bermet fierbinte seara vă va încălzi înainte de plecare."
+            ],
+            "en": [
+              "Bus frequency might be reduced during public holidays.",
+              "Wear warm shoes for the waiting periods at the bus station.",
+              "Samobor is known for its festive winter lighting.",
+              "Make use of heated waiting rooms where available.",
+              "A hot Bermet in the evening warms you up before the ride back."
+            ]
+          }
+        }
       }
     }
   },

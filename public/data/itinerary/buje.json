@@ -260,6 +260,392 @@
           "Buje has many steep alleys, so be prepared for stairs.",
           "On clear days, the bell tower offers views as far as the Alps."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Buje, die 'Wächterin Istriens', thront majestätisch auf einem Hügel. Unser Rundgang beginnt in der mittelalterlichen Altstadt, führt zur Kathedrale des Hl. Servulus und hinauf auf den Glockenturm. Nach einem Besuch im Ethnographischen Museum erkunden wir die venezianischen Verteidigungsanlagen. Die Tour endet an der prächtigen Wallfahrtskirche am Fuße des Altstadthügels.",
+            "hu": "Buje, 'Isztria őrzője', fenségesen trónol a dombtetőn. Sétánk a középkori óvárosban kezdődik, érintve a Szent Servulus-székesegyházat és a harangtornyot. A Néprajzi Múzeum kincsei után a velencei bástyát keressük fel. A napot az Irgalmas Boldogasszony templom megtekintésével zárjuk az óváros lábánál.",
+            "ro": "Buje, 'păzitorul Istriei', tronează maiestuos pe un deal. Turul nostru începe în orașul vechi medieval, trece pe la Catedrala Sf. Servulus și urcă în turnul cu clopotniță. După o vizită la Muzeul Etnografic, explorăm fortificațiile venețiene. Turul se încheie la superba biserică de pelerinaj de la poalele dealului.",
+            "en": "Buje, the 'Sentinel of Istria', sits majestically on a hill. Our walk begins in the medieval old town, leads to the Cathedral of St. Servulus, and up the bell tower. After a visit to the Ethnographic Museum, we explore the Venetian fortifications. The tour ends at the magnificent pilgrimage church at the foot of the old town hill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Die Altstadt von Buje",
+                "hu": "Buje óvárosa",
+                "ro": "Orașul vechi Buje",
+                "en": "Buje Old Town"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie am zentralen Platz mit einem Kaffee.",
+                "hu": "Kezdjen a főtéren egy jó kávéval.",
+                "ro": "Începeți în piața centrală cu o cafea.",
+                "en": "Start with a coffee in the main square."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale des Hl. Servulus",
+                "hu": "Szent Servulus-székesegyház",
+                "ro": "Catedrala Sfântul Servulus",
+                "en": "Cathedral of St. Servulus"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die prachtvolle Barockorgel.",
+                "hu": "Csodálja meg a pompás barokk orgonát.",
+                "ro": "Admirați orga barocă magnifică.",
+                "en": "Admire the magnificent baroque organ."
+              }
+            },
+            {
+              "name": {
+                "de": "Glockenturm von Buje",
+                "hu": "Bujei harangtorony",
+                "ro": "Turnul cu clopotniță din Buje",
+                "en": "Buje Bell Tower"
+              },
+              "tip_5lang": {
+                "de": "Einer der höchsten Türme Istriens mit Weitblick.",
+                "hu": "Isztria egyik legmagasabb tornya, pazar kilátással.",
+                "ro": "Unul dintre cele mai înalte turnuri din Istria.",
+                "en": "One of the tallest towers in Istria with a great view."
+              }
+            },
+            {
+              "name": {
+                "de": "Ethnographisches Museum",
+                "hu": "Néprajzi Múzeum",
+                "ro": "Muzeul Etnografic",
+                "en": "Ethnographic Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in das traditionelle istrische Leben.",
+                "hu": "Merüljön el a hagyományos isztriai életmódban.",
+                "ro": "Descoperiți viața tradițională istriană.",
+                "en": "Dive into traditional Istrian life."
+              }
+            },
+            {
+              "name": {
+                "de": "Venezianischer Turm",
+                "hu": "Velencei bástya",
+                "ro": "Turnul Venețian",
+                "en": "Venetian Tower"
+              },
+              "tip_5lang": {
+                "de": "Teil der alten Stadtbefestigung.",
+                "hu": "A régi városfalrendszer része.",
+                "ro": "Parte a vechii fortificații a orașului.",
+                "en": "Part of the old city fortifications."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche der Muttergottes der Barmherzigkeit",
+                "hu": "Irgalmas Boldogasszony templom",
+                "ro": "Biserica Maicii Domnului a Milei",
+                "en": "Church of the Mother of Mercy"
+              },
+              "tip_5lang": {
+                "de": "Beachtenswerte Kunstwerke im Innenraum.",
+                "hu": "Figyelemre méltó műalkotások a belső térben.",
+                "ro": "Opere de artă remarcabile în interior.",
+                "en": "Notable artworks in the interior."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Buje Bier",
+                "tip": "Probieren Sie das lokale Craft-Bier von San Servolo."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bujei sör",
+                "tip": "Kóstolja meg a San Servolo helyi kézműves sörét."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Berea Buje",
+                "tip": "Încercați berea artizanală locală San Servolo."
+              }
+            ],
+            "en": [
+              {
+                "name": "Buje Beer",
+                "tip": "Try the local San Servolo craft beer."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Stadtmauer-Promenade",
+                "tip": "Stiller Weg mit Blick auf die Olivenhaine.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Városfal-sétány",
+                "tip": "Csendes út kilátással az olajfaligetekre.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Promenada zidului cetății",
+                "tip": "Drum liniștit cu vedere spre livezile de măslini.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "City Wall Promenade",
+                "tip": "Quiet path with a view of olive groves.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Trüffel-Spezialitäten",
+                "tip": "Buje liegt am Rande der Trüffelregion."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szarvasgomba",
+                "tip": "Buje a szarvasgomba-régió peremén fekszik."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Specialități cu trufe",
+                "tip": "Buje se află la marginea regiunii trufelor."
+              }
+            ],
+            "en": [
+              {
+                "name": "Truffle Specialties",
+                "tip": "Buje is located at the edge of the truffle region."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Buje hat viele steile Gassen, stellen Sie sich auf Treppen ein.",
+              "Der Glockenturm bietet bei klarem Wetter Sicht bis zu den Alpen."
+            ],
+            "hu": [
+              "Buje utcái meredekek, készüljön sok lépcsőre.",
+              "Tiszta időben a harangtoronyból az Alpokig is ellátni."
+            ],
+            "ro": [
+              "Buje are multe străduțe abrupte, pregătiți-vă pentru trepte.",
+              "Turnul cu clopotniță oferă vedere până la Alpi în zilele senine."
+            ],
+            "en": [
+              "Buje has many steep alleys, so be prepared for stairs.",
+              "On clear days, the bell tower offers views as far as the Alps."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag unter den steinernen Torbögen der Altstadt von Buje, die guten Schutz vor dem Regen bieten. Der Vormittag in der Kathedrale des hl. Servulus ist ideal, um trocken zu bleiben. Mittags bietet das Ethnographische Museum einen tiefen Einblick in die Geschichte. Am Nachmittag besuchen Sie die Kirche der Mutter der Barmherzigkeit, bevor Sie den Tag in einer gemütlichen lokalen Konoba ausklingen lassen.",
+            "hu": "Kezdje a napot Buje óvárosának kőívei alatt, amelyek védelmet nyújtanak az eső ellen. A délelőtt a Szent Servulus-székesegyház belső terében telik, távol a víztől. Délben a Néprajzi Múzeum kínál tartalmas menedéket. Délután az Irgalmas Anya-templom látogatása után fejezze be a napot egy hangulatos helyi konobában, élvezve az isztriai vendégszeretetet.",
+            "ro": "Începeți ziua sub arcadele de piatră ale orașului vechi Buje, care oferă un bun adăpost împotriva ploii. Dimineața în interiorul Catedralei Sf. Servulus este ideală pentru a rămâne uscat. La prânz, Muzeul Etnografic oferă o incursiune fascinantă în istorie. După-amiaza vizitați Biserica Maicii Milei, înainte de a încheia ziua într-o tavernă locală primitoare.",
+            "en": "Start your day under the stone porticos of Buje's old town, offering good shelter from the rain. Spend the morning inside the Cathedral of St. Servulus, staying dry while admiring the art. At noon, the Ethnographic Museum provides a perfect indoor retreat. In the afternoon, visit the Church of the Mother of Mercy before ending the day in a cozy local tavern."
+          },
+          "stops": [
+            {
+              "name": "Buje Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Durchgänge und Torbögen als Regenschutz.",
+                "hu": "Használja az átjárókat és boltíveket esővédőként.",
+                "ro": "Folosiți pasajele și arcadele ca adăpost împotriva ploii.",
+                "en": "Use the passages and archways as rain shelter."
+              }
+            },
+            {
+              "name": "Cathedral of St. Servulus",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um den stärksten Regen abzuwarten.",
+                "hu": "Tökéletes hely a legerősebb eső kivárására.",
+                "ro": "Un loc perfect pentru a aștepta trecerea ploii torențiale.",
+                "en": "A perfect place to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Buje Bell Tower",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steinstufen können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a kőlépcsők nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, treptele de piatră pot fi alunecoase când sunt ude.",
+                "en": "Caution, the stone steps can be slippery when wet."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Ideales Ziel für eine längere Indoor-Aktivität.",
+                "hu": "Ideális úti cél egy hosszabb beltéri programhoz.",
+                "ro": "Destinație ideală pentru o activitate prelungită în interior.",
+                "en": "Ideal destination for a longer indoor activity."
+              }
+            },
+            {
+              "name": "Venetian Tower",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt empfohlen, da der Außenbereich nass ist.",
+                "hu": "Rövid tartózkodás javasolt, mivel a külső rész vizes.",
+                "ro": "Se recomandă o oprire scurtă, zona exterioară fiind udă.",
+                "en": "Short stay recommended as the exterior area is wet."
+              }
+            },
+            {
+              "name": "Church of the Mother of Mercy",
+              "tip_5lang": {
+                "de": "Die Vorhalle bietet Schutz beim Zusammenfalten des Schirms.",
+                "hu": "Az előtér védelmet nyújt az esernyő összecsukásakor.",
+                "ro": "Pridvorul oferă protecție la închiderea umbrelei.",
+                "en": "The porch offers protection when folding your umbrella."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil, da das Kopfsteinpflaster rutschig wird.",
+              "Ein stabiler Regenschirm ist wegen des Windes besser als ein Knirps.",
+              "Planen Sie mehr Zeit für die Museen ein, um trocken zu bleiben.",
+              "Die Steinportale der Altstadt sind natürliche Regendächer.",
+              "Wasserdichte Kleidung schützt vor dem oft seitlich peitschenden Regen."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt, mert a macskakövek csúszóssá válnak.",
+              "A szél miatt egy stabil esernyő jobb választás, mint egy összecsukható.",
+              "Tervezzen több időt a múzeumokra, hogy szárazon maradjon.",
+              "Az óváros kőkapui természetes esővédőként szolgálnak.",
+              "A vízálló ruházat véd az isztriai széllel párosuló esőtől.",
+              "Készüljön fel a páradús levegőre a szűk utcákban."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună, deoarece pavajul devine alunecos.",
+              "O umbrelă stabilă este preferabilă uneia pliabile din cauza vântului.",
+              "Alocați mai mult timp muzeelor pentru a rămâne la adăpost.",
+              "Arcadele din orașul vechi sunt adăposturi naturale împotriva ploii.",
+              "Îmbrăcămintea impermeabilă este esențială în zilele cu vânt și ploaie."
+            ],
+            "en": [
+              "Wear shoes with good grip as the cobblestones become very slippery.",
+              "A sturdy umbrella is better than a small foldable one due to the wind.",
+              "Plan more time for museums to stay dry and comfortable.",
+              "The stone portals in the old town act as natural rain shelters.",
+              "Waterproof clothing is essential for the often wind-driven rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft in den Gassen von Buje. Der Vormittag bietet fantastische Fernsichten vom Glockenturm aus. Mittags wärmen Sie sich in der Kathedrale und im Museum auf. Da die Sonne früh hinter den Hügeln versinkt, nutzen Sie den Nachmittag für die äußeren Kirchen. Der Abend gehört der warmen Atmosphäre einer lokalen Weinstube.",
+            "hu": "Élvezze a tiszta téli levegőt Buje szűk utcáin. A délelőtt fantasztikus kilátást ígér a harangtoronyból a környező dombokra. Délben melegedjen fel a székesegyházban és a múzeumban. Mivel a nap korán nyugszik a dombok mögött, használja ki a délutánt a külső templomok felkeresésére. Az estét töltse egy helyi borozó melegében.",
+            "ro": "Bucurați-vă de aerul curat de iarnă pe străduțele din Buje. Dimineața oferă vederi panoramice superbe din turnul cu clopotniță. La prânz, încălziți-vă în catedrală și la muzeu. Deoarece soarele apune devreme după dealuri, profitați de după-amiază pentru bisericile exterioare. Seara aparține atmosferei calde dintr-o vinotecă locală.",
+            "en": "Enjoy the crisp winter air in the alleys of Buje. The morning offers fantastic long-distance views from the bell tower. At noon, warm up inside the cathedral and the museum. As the sun sets early behind the hills, use the afternoon for the outer churches. The evening belongs to the warm atmosphere of a local wine cellar."
+          },
+          "stops": [
+            {
+              "name": "Buje Old Town",
+              "tip_5lang": {
+                "de": "Die engen Gassen schützen gut vor dem kalten Wind.",
+                "hu": "A szűk utcák jól védenek a hideg széltől.",
+                "ro": "Străduțele înguste oferă protecție bună împotriva vântului rece.",
+                "en": "The narrow alleys provide good shelter from the cold wind."
+              }
+            },
+            {
+              "name": "Cathedral of St. Servulus",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, da Kirchen im Winter kühl sind.",
+                "hu": "Öltözzön rétegesen, mert a templomok télen hűvösek.",
+                "ro": "Îmbrăcați-vă bine, bisericile sunt reci în timpul iernii.",
+                "en": "Dress warmly as churches are quite cool in winter."
+              }
+            },
+            {
+              "name": "Buje Bell Tower",
+              "tip_5lang": {
+                "de": "Beste Zeit für klare Sicht bis zum Meer und zu den Alpen.",
+                "hu": "A legjobb időszak a tiszta kilátáshoz a tengerig és az Alpokig.",
+                "ro": "Cel mai bun moment pentru vizibilitate până la mare și Alpi.",
+                "en": "Best time for clear views to the sea and the Alps."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort, um der Kälte für eine Weile zu entfliehen.",
+                "hu": "Hangulatos hely, hogy egy időre elmeneküljön a hideg elől.",
+                "ro": "Un loc primitor pentru a scăpa de frig pentru o vreme.",
+                "en": "A cozy place to escape the cold for a while."
+              }
+            },
+            {
+              "name": "Venetian Tower",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor dem frühen Sonnenuntergang.",
+                "hu": "Látogasson el ide a korai naplemente előtt.",
+                "ro": "Vizitați acest loc înainte de apusul soarelui timpuriu.",
+                "en": "Visit this spot before the early sunset."
+              }
+            },
+            {
+              "name": "Church of the Mother of Mercy",
+              "tip_5lang": {
+                "de": "Abends schön beleuchtet und stimmungsvoll.",
+                "hu": "Este szépen megvilágított és hangulatos.",
+                "ro": "Frumos iluminată și plină de atmosferă seara.",
+                "en": "Beautifully lit and atmospheric in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist wegen des Windes ratsam.",
+              "Die Sonne geht im Dezember bereits gegen 16:30 Uhr unter.",
+              "Museen haben im Winter oft verkürzte Öffnungszeiten.",
+              "Warme Getränke in den Cafés am Hauptplatz einplanen.",
+              "Gute Handschuhe sind für den Aufstieg auf den Glockenturm wichtig."
+            ],
+            "hu": [
+              "A szél miatt a réteges öltözködés erősen ajánlott.",
+              "A nap decemberben már 16:30 körül nyugovóra tér.",
+              "A múzeumok télen gyakran rövidített nyitvatartással üzemelnek.",
+              "Tervezzen be meleg italokat a főtér kávézóiban.",
+              "A harangtoronyba való feljutáshoz jó kesztyű szükséges.",
+              "A tiszta idő miatt a fotózáshoz ez a legjobb időszak."
+            ],
+            "ro": [
+              "Se recomandă îmbrăcămintea în straturi din cauza vântului.",
+              "Soarele apune deja în jurul orei 16:30 în decembrie.",
+              "Muzeele au adesea program redus în timpul iernii.",
+              "Planificați pauze pentru băuturi calde în cafenelele din piață.",
+              "Mănușile bune sunt importante pentru urcarea în clopotniță."
+            ],
+            "en": [
+              "Layered clothing is advisable due to the potential cold wind.",
+              "The sun sets as early as 4:30 PM in December.",
+              "Museums often have shorter opening hours during winter.",
+              "Plan for warm drinks in the cafes on the main square.",
+              "Good gloves are important for climbing the bell tower."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -491,6 +877,360 @@
           "The region is part of the Parenzana bike trail.",
           "Plan time for wine tastings, but cycle carefully."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour führt uns durch das Herz des istrischen Weinlandes. Von der Altstadt Buje radeln wir hinaus zu den berühmten Weinstraßen und weiter zum malerischen Schloss Momjan. Die Route bietet anspruchsvolle Anstiege, wird aber mit grandiosen Panoramablicken belohnt. Auf dem Rückweg genießen wir die typische Hügellandschaft und die historische Architektur Bujes.",
+            "hu": "Ez a kerékpártúra az isztriai borvidék szívébe vezet. Buje óvárosából indulva a híres borutakon tekerünk egészen a festői momjani várig. Az útvonal tartogat emelkedőket, de a panoráma mindenért kárpótol. Visszafelé élvezzük a jellegzetes domvidéket és Buje történelmi építészetét.",
+            "ro": "Această tură cu bicicleta ne poartă prin inima regiunii viticole istriene. Din orașul vechi Buje pedalăm spre faimoasele drumuri ale vinului și mai departe spre pitorescul castel Momjan. Traseul oferă urcări provocatoare, dar este răsplătit cu panorame grandioase. La întoarcere ne bucurăm de peisajul deluros tipic și de arhitectura istorică a orașului Buje.",
+            "en": "This bike tour takes us through the heart of Istrian wine country. From Buje's old town, we cycle out to the famous wine roads and on to the picturesque Momjan Castle. The route offers challenging climbs but rewards you with magnificent panoramic views. On the way back, we enjoy the typical hilly landscape and historical architecture of Buje."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Die Altstadt von Buje",
+                "hu": "Buje óvárosa",
+                "ro": "Orașul vechi Buje",
+                "en": "Buje Old Town"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihre Tour am oberen Platz.",
+                "hu": "Kezdje a túrát a felső téren.",
+                "ro": "Începeți turul în piața de sus.",
+                "en": "Start your tour in the upper square."
+              }
+            },
+            {
+              "name": {
+                "de": "Buje Weinstraßen",
+                "hu": "Bujei borutak",
+                "ro": "Drumurile vinului din Buje",
+                "en": "Buje Wine Roads"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie durch die sanften Weinberge.",
+                "hu": "Tekerjen a lankás szőlőültetvények között.",
+                "ro": "Pedalați printre podgoriile line.",
+                "en": "Cycle through the gentle vineyards."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Momjan",
+                "hu": "Momjani vár",
+                "ro": "Castelul Momjan",
+                "en": "Momjan Castle"
+              },
+              "tip_5lang": {
+                "de": "Beeindruckende Ruine auf einem Felsvorsprung.",
+                "hu": "Lenyűgöző várrom egy sziklakiszögellésen.",
+                "ro": "Ruine impresionante pe o proeminență stâncoasă.",
+                "en": "Impressive ruins on a rocky outcrop."
+              }
+            },
+            {
+              "name": {
+                "de": "Venezianischer Turm",
+                "hu": "Velencei bástya",
+                "ro": "Turnul Venețian",
+                "en": "Venetian Tower"
+              },
+              "tip_5lang": {
+                "de": "Schöner Rückweg nach Buje über Feldwege.",
+                "hu": "Szép visszavezető út Bujéba mezei utakon.",
+                "ro": "Drum frumos de întoarcere spre Buje pe poteci.",
+                "en": "Nice way back to Buje via field paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche der Muttergottes der Barmherzigkeit",
+                "hu": "Irgalmas Boldogasszony templom",
+                "ro": "Biserica Maicii Domnului a Milei",
+                "en": "Church of the Mother of Mercy"
+              },
+              "tip_5lang": {
+                "de": "Entspannter Abschluss im unteren Teil der Stadt.",
+                "hu": "Pihentető befejezés a város alsó részén.",
+                "ro": "Încheiere relaxată în partea de jos a orașului.",
+                "en": "Relaxed ending in the lower part of town."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Momjan Malvasia",
+                "tip": "Verpassen Sie nicht den Muskatwein in Momjan."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Momjani Malvazija",
+                "tip": "Ne hagyja ki a momjani muskotályt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Momjan Malvasia",
+                "tip": "Nu ratați vinul muscat în Momjan."
+              }
+            ],
+            "en": [
+              {
+                "name": "Momjan Malvasia",
+                "tip": "Don't miss the Muscat wine in Momjan."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Schloss Momjan Ruine",
+                "tip": "Ein mystischer Ort zum Innehalten.",
+                "emoji": "🏰"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Momjani várrom",
+                "tip": "Misztikus hely az elcsendesedéshez.",
+                "emoji": "🏰"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ruinele castelului Momjan",
+                "tip": "Un loc mistic pentru reculegere.",
+                "emoji": "🏰"
+              }
+            ],
+            "en": [
+              {
+                "name": "Momjan Castle Ruins",
+                "tip": "A mystical place to pause and reflect.",
+                "emoji": "🏰"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Weingut Kozlović",
+                "tip": "Prämierte Weine direkt beim Erzeuger kaufen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kozlović borászat",
+                "tip": "Díjnyertes borok közvetlenül a termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Crama Kozlović",
+                "tip": "Cumpărați vinuri premiate direct de la producător."
+              }
+            ],
+            "en": [
+              {
+                "name": "Kozlović Winery",
+                "tip": "Buy award-winning wines directly from the producer."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Region ist Teil der Parenzana-Radstrecke.",
+              "Planen Sie Zeit für Weinproben ein, aber fahren Sie vorsichtig."
+            ],
+            "hu": [
+              "A régió a Parenzana kerékpárút része.",
+              "Tervezzen időt borkóstolóra, de tekerjen óvatosan."
+            ],
+            "ro": [
+              "Regiunea face parte din traseul de biciclete Parenzana.",
+              "Rezervați timp pentru degustări de vin, dar pedalați cu atenție."
+            ],
+            "en": [
+              "The region is part of the Parenzana bike trail.",
+              "Plan time for wine tastings, but cycle carefully."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Buje im Regen erfordert Vorsicht auf dem glatten Kopfsteinpflaster der Altstadt. Der Vormittag auf den Weinstraßen bietet mystische Ausblicke durch den Nebel. Mittags bietet die Burg Momjan einen historischen Schutz. Der Rückweg führt über befestigte Wege, um Matsch zu vermeiden. Der Tag endet mit einer wohlverdienten warmen Dusche in Ihrer Unterkunft.",
+            "hu": "Az esős kerékpározás Bujéban óvatosságot igényel a csúszós macskaköveken. A délelőtt a borutakon misztikus kilátást nyújt a ködön keresztül. Délben a momjani vár nyújt történelmi menedéket. A visszaút szilárd burkolatú utakon vezet, elkerülve a sarat. A nap egy jól megérdemelt meleg zuhannyal zárul a szálláson.",
+            "ro": "O tură cu bicicleta prin Buje pe ploaie necesită prudență pe pavajul alunecos. Dimineața pe drumurile vinului oferă vederi mistice prin ceață. La prânz, castelul Momjan oferă un adăpost istoric. Drumul de întoarcere urmează căi pavate pentru a evita noroiul. Ziua se încheie cu un duș cald binemeritat la cazare.",
+            "en": "Cycling through Buje in the rain requires caution on the slippery cobblestones. The morning on the wine roads offers mystical views through the mist. At noon, Momjan Castle provides a historic shelter. The return trip follows paved paths to avoid mud. The day ends with a well-deserved warm shower at your accommodation."
+          },
+          "stops": [
+            {
+              "name": "Buje Old Town",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Bremsmanöver auf dem nassen Pflaster.",
+                "hu": "Kerülje az éles fékezést a nedves köveken.",
+                "ro": "Evitați frânările bruște pe pavajul ud.",
+                "en": "Avoid sharp braking on the wet pavement."
+              }
+            },
+            {
+              "name": "Buje Wine Roads",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf asphaltierten Abschnitten, um Matsch zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott szakaszokon a sár elkerülése végett.",
+                "ro": "Rămâneți pe secțiunile asfaltate pentru a evita noroiul.",
+                "en": "Stay on paved sections to avoid mud."
+              }
+            },
+            {
+              "name": "Momjan Castle",
+              "tip_5lang": {
+                "de": "Die Ruinen bieten unter Bögen Schutz vor Schauern.",
+                "hu": "A romok boltívei védelmet nyújtanak a záporok elől.",
+                "ro": "Ruinele oferă adăpost sub arcade în timpul averselor.",
+                "en": "The ruins offer shelter under arches during showers."
+              }
+            },
+            {
+              "name": "Venetian Tower",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen in der Nähe des Turmeingangs.",
+                "hu": "Ügyeljen a tócsákra a torony bejárata közelében.",
+                "ro": "Atenție la bălți în apropierea intrării în turn.",
+                "en": "Watch out for puddles near the tower entrance."
+              }
+            },
+            {
+              "name": "Church of the Mother of Mercy",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder im geschützten Bereich.",
+                "hu": "Biztonságos kerékpártároló a védett részen.",
+                "ro": "Loc sigur de parcare pentru biciclete în zona protejată.",
+                "en": "Safe bicycle parking in the sheltered area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen in Istrien unerlässlich.",
+              "Vorsicht auf Feldwegen, der rote Lehmboden klebt stark am Reifen.",
+              "Tragen Sie gut sichtbare, wasserdichte Kleidung.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt nach Momjan.",
+              "Nehmen Sie Plastiktüten für Wertsachen und Handy mit."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen az esős isztriai utakon.",
+              "Vigyázat a földutakon, a vörös agyag nagyon tapad a gumikra.",
+              "Viseljen jól látható, vízálló ruházatot.",
+              "Ellenőrizze a fékeket a Momjan felé tartó lejtő előtt.",
+              "Vigyen műanyag zacskót az értékek és a telefon védelmére.",
+              "Kerülje a mély tócsákat, mert kátyúkat rejthetnek."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe ploaie în Istria.",
+              "Atenție pe drumurile de pământ, solul argilos roșu se lipește de anvelope.",
+              "Purtați îmbrăcăminte impermeabilă cu vizibilitate ridicată.",
+              "Verificați frânele înainte de coborârea spre Momjan.",
+              "Luați pungi de plastic pentru obiectele de valoare și telefon."
+            ],
+            "en": [
+              "Fenders are essential when cycling in the rain in Istria.",
+              "Be careful on dirt tracks, the red clay soil sticks heavily to tires.",
+              "Wear high-visibility, waterproof clothing.",
+              "Check your brakes before the descent to Momjan.",
+              "Take plastic bags to protect valuables and your phone."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Brisen begleiten Ihre Radtour durch das winterliche Hinterland von Buje. Der Vormittag in der Altstadt ist ruhig und stimmungsvoll. Auf den Weinstraßen genießen Sie die weiten, klaren Horizonte. Mittags wärmt eine kräftige Suppe in Momjan Geist und Körper. Die Rückfahrt im goldenen Licht des frühen Nachmittags ist ein optisches Highlight.",
+            "hu": "Friss szellők kísérik kerékpártúráját Buje téli hátországában. A délelőtt az óvárosban csendes és hangulatos. A borutakon élvezheti a tágas, tiszta horizontot. Délben egy sűrű leves Momjanban felmelegíti a lelket és a testet. A kora délutáni aranyfényben való visszaút igazi vizuális élmény.",
+            "ro": "Brize proaspete vă însoțesc tura cu bicicleta prin hinterlandul hibernal al orașului Buje. Dimineața în orașul vechi este liniștită și plină de atmosferă. Pe drumurile vinului vă bucurați de orizonturi largi și senine. La prânz, o supă caldă în Momjan reîncărcă bateriile. Întoarcerea în lumina aurie a după-amiezii devreme este superbă.",
+            "en": "Fresh breezes accompany your bike tour through the wintry hinterland of Buje. The morning in the old town is quiet and atmospheric. On the wine roads, enjoy the wide, clear horizons. At noon, a hearty soup in Momjan warms both spirit and body. The ride back in the golden light of early afternoon is a visual highlight."
+          },
+          "stops": [
+            {
+              "name": "Buje Old Town",
+              "tip_5lang": {
+                "de": "Kalte Luft in den schattigen Gassen, ziehen Sie sich warm an.",
+                "hu": "Hideg levegő az árnyékos utcákban, öltözzön melegen.",
+                "ro": "Aer rece pe străduțele umbrite, îmbrăcați-vă gros.",
+                "en": "Cold air in the shaded alleys, dress warmly."
+              }
+            },
+            {
+              "name": "Buje Wine Roads",
+              "tip_5lang": {
+                "de": "Der Wind kann auf den Anhöhen recht kräftig sein.",
+                "hu": "A dombtetőkön a szél elég erős lehet.",
+                "ro": "Vântul poate fi destul de puternic pe înălțimi.",
+                "en": "The wind can be quite strong on the ridges."
+              }
+            },
+            {
+              "name": "Momjan Castle",
+              "tip_5lang": {
+                "de": "Wunderschönes Licht für Fotos in der tiefstehenden Sonne.",
+                "hu": "Gyönyörű fények a fotózáshoz az alacsonyan járó napnál.",
+                "ro": "Lumină superbă pentru fotografii datorită soarelui jos.",
+                "en": "Beautiful light for photos with the low sun."
+              }
+            },
+            {
+              "name": "Venetian Tower",
+              "tip_5lang": {
+                "de": "Kurze Pause einlegen, bevor es schattig und kühler wird.",
+                "hu": "Tartson rövid szünetet, mielőtt árnyékos és hűvösebb lesz.",
+                "ro": "Faceți o scurtă pauză înainte să devină umbrit și răcoare.",
+                "en": "Take a short break before it gets shady and cooler."
+              }
+            },
+            {
+              "name": "Church of the Mother of Mercy",
+              "tip_5lang": {
+                "de": "Idealer Abschluss der Tour vor dem frühen Dunkelwerden.",
+                "hu": "A túra ideális lezárása a korai sötétedés előtt.",
+                "ro": "Final ideal al turului înainte de lăsarea serii timpurii.",
+                "en": "Ideal end to the tour before the early darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und eine winddichte Jacke sind Pflicht.",
+              "Nutzen Sie das Tageslicht, es wird ab 16:00 Uhr spürbar kälter.",
+              "Achten Sie auf Reifglätte in schattigen Kurven der Weinstraßen.",
+              "Trinken Sie ausreichend, auch wenn Sie weniger Durst verspüren.",
+              "Vorder- und Rücklicht für den Fall der Dämmerung mitnehmen."
+            ],
+            "hu": [
+              "A meleg kesztyű és a szélálló kabát kötelező.",
+              "Használja ki a nappali fényt, 16:00 után érezhetően lehűl a levegő.",
+              "Ügyeljen a dér okozta csúszósságra a borutak árnyékos kanyarjaiban.",
+              "Igyon eleget, még akkor is, ha kevésbé érzi magát szomjasnak.",
+              "Vigyen első és hátsó világítást a korai szürkület esetére.",
+              "A téli táj tisztasága miatt a látótávolság ilyenkor a legnagyobb."
+            ],
+            "ro": [
+              "Mănușile groase și o jachetă rezistentă la vânt sunt obligatorii.",
+              "Profitați de lumina zilei, se face mult mai frig după ora 16:00.",
+              "Atenție la chiciură în curbele umbrite ale drumurilor vinului.",
+              "Hidratați-vă suficient, chiar dacă simțiți mai puțin setea.",
+              "Luați lumini pentru față și spate în caz de amurg timpuriu."
+            ],
+            "en": [
+              "Warm gloves and a windproof jacket are mandatory.",
+              "Make the most of daylight; it gets noticeably colder after 4 PM.",
+              "Watch out for frost in shaded curves of the wine roads.",
+              "Drink enough water, even if you feel less thirsty in the cold.",
+              "Bring front and rear lights in case of early dusk."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -722,6 +1462,360 @@
           "Park at the entrance to the town; the old town is narrow.",
           "The roads to Momjan are narrow, so drive carefully."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Das Auto ermöglicht es, sowohl die Kulturdenkmäler Bujes als auch die malerische Umgebung mühelos zu erkunden. Wir starten in der Oberstadt mit Kathedrale und Museum, fahren dann hinaus zum Schloss Momjan und kehren über die Panoramastraßen der Weinregion zurück. Ein perfekter Tag für Genießer von Geschichte und istrischer Lebensart.",
+            "hu": "Az autó lehetővé teszi, hogy Buje kulturális emlékeit és festői környékét is könnyedén felfedezzük. A felsővárosban kezdünk a székesegyházzal és múzeummal, majd a momjani várhoz autózunk. A borvidék panorámaútjain térünk vissza, lezárva a napot. Tökéletes program a történelem és az isztriai életmód kedvelőinek.",
+            "ro": "Mașina ne permite să explorăm fără efort atât monumentele culturale din Buje, cât și împrejurimile pitorești. Începem în orașul de sus cu catedrala și muzeul, apoi conducem spre castelul Momjan și ne întoarcem pe drumurile panoramice ale regiunii viticole. O zi perfectă pentru iubitorii de istorie și de stil de viață istrian.",
+            "en": "The car makes it easy to explore both Buje's cultural monuments and its picturesque surroundings. We start in the upper town with the cathedral and museum, then drive out to Momjan Castle and return via the scenic roads of the wine region. A perfect day for lovers of history and the Istrian way of life."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale des Hl. Servulus",
+                "hu": "Szent Servulus-székesegyház",
+                "ro": "Catedrala Sfântul Servulus",
+                "en": "Cathedral of St. Servulus"
+              },
+              "tip_5lang": {
+                "de": "Parkplatz an der Stadtmauer nutzen.",
+                "hu": "Használja a városfal melletti parkolót.",
+                "ro": "Folosiți parcarea de lângă zidul cetății.",
+                "en": "Use the parking lot by the city wall."
+              }
+            },
+            {
+              "name": {
+                "de": "Ethnographisches Museum",
+                "hu": "Néprajzi Múzeum",
+                "ro": "Muzeul Etnografic",
+                "en": "Ethnographic Museum"
+              },
+              "tip_5lang": {
+                "de": "Kompakte Ausstellung im Herzen der Altstadt.",
+                "hu": "Kompakt kiállítás az óváros szívében.",
+                "ro": "Expoziție compactă în inima orașului vechi.",
+                "en": "Compact exhibition in the heart of the old town."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Momjan",
+                "hu": "Momjani vár",
+                "ro": "Castelul Momjan",
+                "en": "Momjan Castle"
+              },
+              "tip_5lang": {
+                "de": "Kurze Fahrt durch die Weinberge nach Momjan.",
+                "hu": "Rövid autózás Momjanba a szőlők között.",
+                "ro": "Drum scurt prin podgorii spre Momjan.",
+                "en": "Short drive through the vineyards to Momjan."
+              }
+            },
+            {
+              "name": {
+                "de": "Buje Weinstraßen",
+                "hu": "Bujei borutak",
+                "ro": "Drumurile vinului din Buje",
+                "en": "Buje Wine Roads"
+              },
+              "tip_5lang": {
+                "de": "Besuch eines renommierten Weinguts.",
+                "hu": "Látogatás egy neves borászatnál.",
+                "ro": "Vizită la o cramă renumită.",
+                "en": "Visit to a renowned winery."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche der Muttergottes der Barmherzigkeit",
+                "hu": "Irgalmas Boldogasszony templom",
+                "ro": "Biserica Maicii Domnului a Milei",
+                "en": "Church of the Mother of Mercy"
+              },
+              "tip_5lang": {
+                "de": "Gute Erreichbarkeit am Fuße Bujes.",
+                "hu": "Könnyen megközelíthető Buje lábánál.",
+                "ro": "Acces ușor la poalele orașului Buje.",
+                "en": "Easily accessible at the foot of Buje."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Staroštit",
+                "tip": "Traditionelle Jota und Wildgerichte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Staroštit",
+                "tip": "Hagyományos jota (bableves) és vadételek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Staroštit",
+                "tip": "Jota tradițională și preparate din vânat."
+              }
+            ],
+            "en": [
+              {
+                "name": "Staroštit",
+                "tip": "Traditional 'jota' stew and wild game dishes."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Aussichtspunkt Buje",
+                "tip": "Blick über die Hügel bis zur Adria.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bujei kilátópont",
+                "tip": "Kilátás a dombokon át az Adriáig.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punctul de belvedere Buje",
+                "tip": "Vedere peste dealuri până la Adriatica.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Buje Viewpoint",
+                "tip": "View over the hills to the Adriatic Sea.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Hiesiges Olivenöl",
+                "tip": "Besuchen Sie die Ölmühle Basiaco."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi olívaolaj",
+                "tip": "Látogassa meg a Basiaco olajütőt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline local",
+                "tip": "Vizitați moara de ulei Basiaco."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Olive Oil",
+                "tip": "Visit the Basiaco oil mill."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken Sie am Ortseingang, die Altstadt ist eng.",
+              "Die Straßen nach Momjan sind schmal, fahren Sie vorausschauend."
+            ],
+            "hu": [
+              "Parkoljon a város szélén, az óváros szűk.",
+              "A Momjanba vezető utak keskenyek, vezessen elővigyázatosan."
+            ],
+            "ro": [
+              "Parcați la intrarea în localitate, orașul vechi este strâmt.",
+              "Drumurile spre Momjan sunt înguste, conduceți cu atenție."
+            ],
+            "en": [
+              "Park at the entrance to the town; the old town is narrow.",
+              "The roads to Momjan are narrow, so drive carefully."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort Ihres Autos während eines regnerischen Tages in Buje. Vormittags besuchen Sie die Kathedrale und das Museum trocken und entspannt. Die Fahrt nach Momjan bietet dramatische Ausblicke auf die nebelverhangenen Weinberge. Mittags kehren Sie in ein Restaurant mit Panoramablick ein, bevor Sie den Nachmittag bei den Weinstraßen und Kirchen verbringen.",
+            "hu": "Élvezze autója kényelmét egy esős napon Bujéban. Délelőtt szárazon és pihenten látogathatja meg a székesegyházat és a múzeumot. A Momjan felé tartó út drámai kilátást nyújt a ködbe burkolózó szőlőültetvényekre. Délben térjen be egy panorámás étterembe, majd töltse a délutánt a borutak és templomok felfedezésével.",
+            "ro": "Bucurați-vă de confortul mașinii în timpul unei zile ploioase în Buje. Dimineața vizitați catedrala și muzeul fără a vă uda. Drumul spre Momjan oferă vederi dramatice asupra podgoriilor învăluite în ceață. La prânz, opriți-vă la un restaurant cu vedere panoramică, înainte de a continua spre drumurile vinului și biserici.",
+            "en": "Enjoy the comfort of your car during a rainy day in Buje. In the morning, visit the cathedral and museum stay dry and relaxed. The drive to Momjan offers dramatic views of mist-covered vineyards. At noon, stop by a restaurant with a panoramic view before spending the afternoon exploring the wine roads and churches."
+          },
+          "stops": [
+            {
+              "name": "Cathedral of St. Servulus",
+              "tip_5lang": {
+                "de": "Parkplätze in der Nähe ermöglichen einen kurzen Weg im Regen.",
+                "hu": "A közeli parkolók rövid utat tesznek lehetővé az esőben.",
+                "ro": "Parcările din apropiere permit un drum scurt prin ploaie.",
+                "en": "Nearby parking allows for a short walk in the rain."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Perfekt für einen längeren Aufenthalt bei starkem Regen.",
+                "hu": "Tökéletes választás erős eső esetén hosszabb időtöltésre.",
+                "ro": "Perfect pentru o ședere mai lungă în caz de ploaie puternică.",
+                "en": "Perfect for a longer stay during heavy rain."
+              }
+            },
+            {
+              "name": "Momjan Castle",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Fahrt auf den schmalen, nassen Straßen.",
+                "hu": "Vigyázat a vezetésnél a szűk, nedves utakon.",
+                "ro": "Atenție la condus pe drumurile înguste și ude.",
+                "en": "Exercise caution when driving on narrow, wet roads."
+              }
+            },
+            {
+              "name": "Buje Wine Roads",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht sicher aus dem trockenen Auto.",
+                "hu": "Élvezze a kilátást biztonságban a száraz autóból.",
+                "ro": "Bucurați-vă de priveliște în siguranță din mașina uscată.",
+                "en": "Enjoy the views safely from your dry car."
+              }
+            },
+            {
+              "name": "Church of the Mother of Mercy",
+              "tip_5lang": {
+                "de": "Einfacher Zugang direkt von der Straße aus.",
+                "hu": "Könnyű hozzáférés közvetlenül az út felől.",
+                "ro": "Acces ușor direct de la drum.",
+                "en": "Easy access directly from the road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Vermeiden Sie unbefestigte Seitenstreifen auf den Weinstraßen.",
+              "Parken Sie in Buje am besten auf befestigten Parkplätzen.",
+              "Die Sicht kann in den Hügeln durch Nebel stark eingeschränkt sein.",
+              "Nutzen Sie die Sitzheizung für zusätzlichen Komfort."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Kerülje a burkolatlan útpadkát a borutakon.",
+              "Bujéban lehetőleg szilárd burkolatú parkolót válasszon.",
+              "A köd miatt a dombok között a látótávolság erősen lecsökkenhet.",
+              "Használja az ülésfűtést a plusz kényelem érdekében.",
+              "Vigyázzon az útra kifutó vadakra a ködös erdős szakaszokon."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de plecare.",
+              "Evitați marginile neasfaltate ale drumurilor vinului.",
+              "În Buje, parcați de preferință în parcări amenajate.",
+              "Vizibilitatea poate fi redusă semnificativ de ceață în zonele deluroase.",
+              "Folosiți încălzirea în scaune pentru un plus de confort."
+            ],
+            "en": [
+              "Check your wipers before starting your trip.",
+              "Avoid unpaved road shoulders on the wine roads.",
+              "Park on paved surfaces in Buje whenever possible.",
+              "Visibility can be greatly reduced by fog in the hills.",
+              "Use seat heating for extra comfort."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie das winterliche Buje entspannt mit dem Auto. Vormittags bietet die Fahrt klare Sichten bis zur Adria. Besuchen Sie die historischen Stätten und wärmen Sie sich dazwischen im Fahrzeug auf. Mittags ist ein Stopp in Momjan bei Kaminfeuer sehr zu empfehlen. Der Nachmittag führt Sie durch die stille Landschaft der Weinstraßen zurück in die Stadt.",
+            "hu": "Fedezze fel a téli Bujét kényelmesen, autóval. Délelőtt az út során tiszta kilátás nyílik az Adriáig. Látogassa meg a történelmi helyszíneket, közben pedig melegedjen fel a járműben. Délben egy momjani megálló kandallótűz mellett erősen ajánlott. A délután a borutak csendes tájain keresztül vezet vissza a városba.",
+            "ro": "Descoperiți Buje în straie de iarnă, relaxat, cu mașina. Dimineața, drumul oferă vederi clare până la Marea Adriatică. Vizitați siturile istorice și încălziți-vă în vehicul între opriri. La prânz, o oprire în Momjan lângă un șemineu este foarte recomandată. După-amiaza vă poartă prin peisajul liniștit al drumurilor vinului înapoi în oraș.",
+            "en": "Discover wintry Buje at your leisure by car. In the morning, the drive offers clear views all the way to the Adriatic. Visit historic sites and warm up in your vehicle in between. At noon, a stop in Momjan by a fireplace is highly recommended. The afternoon takes you through the quiet landscape of the wine roads back to town."
+          },
+          "stops": [
+            {
+              "name": "Cathedral of St. Servulus",
+              "tip_5lang": {
+                "de": "Das Auto bleibt in der Sonne geparkt schön warm.",
+                "hu": "A napon parkoló autó kellemesen meleg marad.",
+                "ro": "Mașina parcată la soare rămâne frumos de caldă.",
+                "en": "A car parked in the sun stays pleasantly warm."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen.",
+                "hu": "Használja ki a múzeumlátogatást a felmelegedésre.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi.",
+                "en": "Use the museum visit as a chance to warm up."
+              }
+            },
+            {
+              "name": "Momjan Castle",
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisglätte in schattigen Tälern.",
+                "hu": "Ügyeljen az esetleges jegesedésre az árnyékos völgyekben.",
+                "ro": "Atenție la posibila gheață în văile umbrite.",
+                "en": "Watch out for potential ice in shaded valleys."
+              }
+            },
+            {
+              "name": "Buje Wine Roads",
+              "tip_5lang": {
+                "de": "Beste Zeit für Panoramafotos ohne sommerlichen Dunst.",
+                "hu": "A legjobb idő a panorámafotókhoz nyári pára nélkül.",
+                "ro": "Cel mai bun moment pentru fotografii panoramice fără negura verii.",
+                "en": "Best time for panoramic photos without the summer haze."
+              }
+            },
+            {
+              "name": "Church of the Mother of Mercy",
+              "tip_5lang": {
+                "de": "Parkplatz direkt gegenüber für minimalen Aufenthalt im Freien.",
+                "hu": "Parkoló közvetlenül szemben a minimális kinti tartózkodáshoz.",
+                "ro": "Parcare chiar vizavi pentru ședere minimă în aer liber.",
+                "en": "Parking right opposite for minimal time spent outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutzmittel in der Scheibenwaschanlage nicht vergessen.",
+              "Achten Sie auf Wildwechsel in der Dämmerung.",
+              "Die Weinstraßen sind im Winter sehr ruhig und verkehrsarm.",
+              "Einige Weingüter haben im Winter nur nach Anmeldung offen.",
+              "Prüfen Sie den Reifendruck bei fallenden Temperaturen."
+            ],
+            "hu": [
+              "Ne felejtse el a fagyállót a szélvédőmosóból.",
+              "Ügyeljen a szürkületben az útra kifutó vadakra.",
+              "A borutak télen nagyon csendesek és forgalommentesek.",
+              "Néhány borászat télen csak előzetes bejelentkezéssel fogad.",
+              "Ellenőrizze a guminyomást a csökkenő hőmérséklet mellett.",
+              "Élvezze a kristálytiszta kilátást, ami csak télen adatik meg."
+            ],
+            "ro": [
+              "Nu uitați antigelul în instalația de spălare a parbrizului.",
+              "Atenție la animalele sălbatice în amurg.",
+              "Drumurile vinului sunt foarte liniștite și libere iarna.",
+              "Unele crame sunt deschise iarna doar cu programare.",
+              "Verificați presiunea în anvelope când temperaturile scad."
+            ],
+            "en": [
+              "Don't forget antifreeze in your windshield washer system.",
+              "Watch out for wildlife crossing the road at dusk.",
+              "The wine roads are very quiet and have little traffic in winter.",
+              "Some wineries are only open by appointment in winter.",
+              "Check your tire pressure as temperatures drop."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -953,6 +2047,360 @@
           "Buses run regularly to Umag and Novigrad.",
           "The walk from the station to the upper town takes about 15 minutes."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Buje ist gut in das istrische Busnetz integriert. Vom Busbahnhof aus steigen wir den Hügel hinauf, besuchen die Kirche der Barmherzigkeit und tauchen in die Gassen der Altstadt ein. Nach einer ausführlichen Erkundung der Kathedrale und des venezianischen Turms genießen wir das Treiben auf dem Hauptplatz, bevor es zurück zum Bahnhof geht.",
+            "hu": "Buje jól kapcsolódik az isztriai buszhálózathoz. A pályaudvartól felfelé haladunk a dombon, érintve az Irgalmas Boldogasszony templomot, majd elmerülünk az óváros utcáiban. A székesegyház és a velencei bástya megtekintése után a főtér nyüzsgését élvezzük, mielőtt visszatérnénk a buszunkhoz.",
+            "ro": "Buje este bine integrat în rețeaua de autobuze istriană. De la autogară urcăm dealul, vizităm biserica Milei și ne pierdem pe străduțele orașului vechi. După o explorare amănunțită a catedralei și a turnului venețian, ne bucurăm de atmosfera din piața principală înainte de a ne întoarce la gară.",
+            "en": "Buje is well integrated into the Istrian bus network. From the bus station, we climb the hill, visit the Church of Mercy, and dive into the alleys of the old town. After exploring the cathedral and the Venetian tower, we enjoy the bustle of the main square before heading back to the station."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Busbahnhof Buje",
+                "hu": "Bujei buszpályaudvar",
+                "ro": "Autogara Buje",
+                "en": "Buje Bus Station"
+              },
+              "tip_5lang": {
+                "de": "Knotenpunkt für Busse aus Umag und Pazin.",
+                "hu": "Csomópont az Umag és Pazin felől érkező buszoknak.",
+                "ro": "Nod rutier pentru autobuzele din Umag și Pazin.",
+                "en": "Hub for buses from Umag and Pazin."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche der Muttergottes der Barmherzigkeit",
+                "hu": "Irgalmas Boldogasszony templom",
+                "ro": "Biserica Maicii Domnului a Milei",
+                "en": "Church of the Mother of Mercy"
+              },
+              "tip_5lang": {
+                "de": "Direkt am Weg vom Bahnhof in die Altstadt.",
+                "hu": "Közvetlenül a pályaudvartól az óvárosba vezető úton.",
+                "ro": "Chiar pe drumul de la gară spre orașul vechi.",
+                "en": "Right on the way from the station to the old town."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Altstadt von Buje",
+                "hu": "Buje óvárosa",
+                "ro": "Orașul vechi Buje",
+                "en": "Buje Old Town"
+              },
+              "tip_5lang": {
+                "de": "Mittagspause in einem der Cafés am Platz.",
+                "hu": "Ebédszünet a tér egyik kávézójában.",
+                "ro": "Pauză de prânz la una dintre cafenelele din piață.",
+                "en": "Lunch break at one of the cafes in the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale des Hl. Servulus",
+                "hu": "Szent Servulus-székesegyház",
+                "ro": "Catedrala Sfântul Servulus",
+                "en": "Cathedral of St. Servulus"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Punkt der Oberstadt.",
+                "hu": "A felsőváros központi pontja.",
+                "ro": "Punctul central al orașului de sus.",
+                "en": "Central point of the upper town."
+              }
+            },
+            {
+              "name": {
+                "de": "Venezianischer Turm",
+                "hu": "Velencei bástya",
+                "ro": "Turnul Venețian",
+                "en": "Venetian Tower"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Schatten der alten Mauern.",
+                "hu": "Élvezze a régi falak árnyékát.",
+                "ro": "Bucurați-vă de umbra vechilor ziduri.",
+                "en": "Enjoy the shade of the old walls."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Trattoria Malvasia",
+                "tip": "Hausgemachte Pasta mit Trüffeln."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Malvasia trattoria",
+                "tip": "Házias tészta szarvasgombával."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Trattoria Malvasia",
+                "tip": "Paste de casă cu trufe."
+              }
+            ],
+            "en": [
+              {
+                "name": "Trattoria Malvasia",
+                "tip": "Homemade pasta with truffles."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Pfarrgarten",
+                "tip": "Ruhiges Plätzchen hinter der Kathedrale.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Plébániakert",
+                "tip": "Csendes zug a székesegyház mögött.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina parohială",
+                "tip": "Un loc liniștit în spatele catedralei.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parish Garden",
+                "tip": "A quiet spot behind the cathedral.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokale Vinothek",
+                "tip": "Große Auswahl an Weinen aus der Region Buje."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi vinotéka",
+                "tip": "Széles választék a bujei régió boraiból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vinoteca locală",
+                "tip": "O selecție largă de vinuri din regiunea Buje."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Vinotheque",
+                "tip": "Large selection of wines from the Buje region."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Busse verkehren regelmäßig nach Umag und Novigrad.",
+              "Der Fußweg vom Bahnhof in die Oberstadt dauert etwa 15 Minuten."
+            ],
+            "hu": [
+              "A buszok rendszeresen járnak Umagba és Novigradba.",
+              "A gyalogút a pályaudvartól a felsővárosba kb. 15 perc."
+            ],
+            "ro": [
+              "Autobuzele circulă regulat spre Umag și Novigrad.",
+              "Drumul pe jos de la gară spre orașul de sus durează aproximativ 15 minute."
+            ],
+            "en": [
+              "Buses run regularly to Umag and Novigrad.",
+              "The walk from the station to the upper town takes about 15 minutes."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Busverbindungen, um Buje bei Regen zu erkunden. Der Vormittag beginnt geschützt an der Busstation. Besuchen Sie die Kirchen und das historische Zentrum, wobei Sie die Buswartezeiten für kleine Kaffeepausen nutzen. Mittags bietet das Stadtzentrum viele Möglichkeiten, trocken zu bleiben. Der Nachmittag führt Sie zu weiteren Sehenswürdigkeiten, bevor Sie den Bus zurück nehmen.",
+            "hu": "Használja a buszjáratokat Buje felfedezéséhez esőben. A délelőtt védett helyen, a buszállomáson kezdődik. Látogassa meg a templomokat és a történelmi központot, a busz várakozási idejét pedig használja ki egy kis kávészünetre. Délben a városközpont számos lehetőséget kínál a szárazon maradásra. A délután további látnivalókhoz vezet, mielőtt visszatérne a busszal.",
+            "ro": "Folosiți conexiunile de autobuz pentru a explora Buje pe ploaie. Dimineața începe la adăpost în autogară. Vizitați bisericile și centrul istoric, folosind timpii de așteptare pentru pauze de cafea. La prânz, centrul orașului oferă multe opțiuni pentru a rămâne uscat. După-amiaza vă poartă spre alte obiective înainte de a lua autobuzul înapoi.",
+            "en": "Use bus connections to explore Buje in the rain. The morning starts sheltered at the bus station. Visit the churches and the historic center, using bus waiting times for short coffee breaks. At noon, the city center offers many ways to stay dry. The afternoon leads you to more sights before you take the bus back."
+          },
+          "stops": [
+            {
+              "name": "Buje Bus Station",
+              "tip_5lang": {
+                "de": "Überdachter Wartebereich schützt vor Regen.",
+                "hu": "Fedett váróterem véd az esőtől.",
+                "ro": "Zona de așteptare acoperită protejează de ploaie.",
+                "en": "Covered waiting area protects from rain."
+              }
+            },
+            {
+              "name": "Church of the Mother of Mercy",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der nächsten Haltestelle.",
+                "hu": "Csak rövid séta a legközelebbi megállótól.",
+                "ro": "Doar o scurtă plimbare de la cea mai apropiată stație.",
+                "en": "Just a short walk from the nearest stop."
+              }
+            },
+            {
+              "name": "Buje Old Town",
+              "tip_5lang": {
+                "de": "Zentral gelegen, viele Cafés zum Unterstellen.",
+                "hu": "Központi elhelyezkedés, sok kávézó a behúzódáshoz.",
+                "ro": "Situat central, multe cafenele pentru adăpost.",
+                "en": "Centrally located with many cafes for shelter."
+              }
+            },
+            {
+              "name": "Cathedral of St. Servulus",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere Regenpause.",
+                "hu": "Ideális hely egy hosszabb esőszünethez.",
+                "ro": "Un loc ideal pentru o pauză mai lungă în caz de ploaie.",
+                "en": "An ideal place for a longer rain break."
+              }
+            },
+            {
+              "name": "Venetian Tower",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Busplan für die Rückfahrt rechtzeitig.",
+                "hu": "Időben ellenőrizze a visszaúti buszmenetrendet.",
+                "ro": "Verificați din timp programul autobuzelor pentru întoarcere.",
+                "en": "Check the return bus schedule in good time."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie eine Fahrplan-App für Echtzeit-Infos herunter.",
+              "Halten Sie Kleingeld oder eine Fahrkarte bereit.",
+              "Wasserdichte Schuhe sind wichtig für den Weg zur Haltestelle.",
+              "Die Busse können bei starkem Regen leichte Verspätungen haben.",
+              "Nutzen Sie die Wartehäuschen konsequent als Regenschutz."
+            ],
+            "hu": [
+              "Töltsön le menetrendi alkalmazást a valós idejű információkért.",
+              "Legyen kéznél aprópénz vagy menetjegy.",
+              "A vízálló cipő fontos a megállóig tartó úton.",
+              "Erős esőben a buszok kisebb késéssel közlekedhetnek.",
+              "Következetesen használja a várótermeket esővédelemként.",
+              "A buszjegyek ára a sofőrnél készpénzzel is fizethető."
+            ],
+            "ro": [
+              "Descărcați o aplicație cu orarul autobuzelor pentru info în timp real.",
+              "Aveți pregătit mărunt sau biletul de călătorie.",
+              "Încălțămintea impermeabilă este importantă pentru drumul spre stație.",
+              "Autobuzele pot avea mici întârzieri în caz de ploaie torențială.",
+              "Folosiți constant refugiile din stații ca adăpost."
+            ],
+            "en": [
+              "Download a schedule app for real-time information.",
+              "Keep small change or your ticket ready.",
+              "Waterproof shoes are important for the walk to the stop.",
+              "Buses may experience slight delays during heavy rain.",
+              "Make consistent use of bus shelters for rain protection."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Buje entspannt mit öffentlichen Verkehrsmitteln. Der Vormittag beginnt an der Busstation, gefolgt von Besuchen in den Kirchen, wo Sie die Stille genießen können. Mittags wärmen Sie sich in einem gemütlichen Restaurant im Zentrum auf. Da es früh dunkel wird, nutzen Sie den Nachmittag für das historische Viertel, bevor Sie den Abendbus nehmen.",
+            "hu": "Fedezze fel a téli Bujét kényelmesen tömegközlekedéssel. A délelőtt a buszállomáson kezdődik, majd a templomok látogatása következik, ahol élvezheti a csendet. Délben melegedjen fel egy barátságos központi étteremben. Mivel korán sötétedik, használja ki a délutánt a történelmi negyedre, mielőtt felszállna az esti buszra.",
+            "ro": "Experimentați Buje în timpul iernii, relaxat, cu transportul public. Dimineața începe la autogară, urmată de vizite la biserici unde vă puteți bucura de liniște. La prânz, încălziți-vă într-un restaurant primitor din centru. Deoarece se întunecă devreme, profitați de după-amiază pentru cartierul istoric înainte de a lua autobuzul de seară.",
+            "en": "Experience wintry Buje at a relaxed pace using public transport. The morning starts at the bus station, followed by visits to the churches where you can enjoy the silence. At noon, warm up in a cozy restaurant in the center. As it gets dark early, use the afternoon for the historic district before catching the evening bus."
+          },
+          "stops": [
+            {
+              "name": "Buje Bus Station",
+              "tip_5lang": {
+                "de": "Wartesaal bietet Schutz vor dem kalten Wind.",
+                "hu": "A váróterem védelmet nyújt a hideg szél ellen.",
+                "ro": "Sala de așteptare oferă protecție împotriva vântului rece.",
+                "en": "The waiting room provides shelter from the cold wind."
+              }
+            },
+            {
+              "name": "Church of the Mother of Mercy",
+              "tip_5lang": {
+                "de": "Kurze Wege halten die Zeit im Freien gering.",
+                "hu": "A rövid utak segítenek a kinti időt minimálisra csökkenteni.",
+                "ro": "Traseele scurte mențin timpul petrecut afară la minimum.",
+                "en": "Short routes help keep your time outdoors to a minimum."
+              }
+            },
+            {
+              "name": "Buje Old Town",
+              "tip_5lang": {
+                "de": "Die Cafés hier sind im Winter besonders gemütlich.",
+                "hu": "Az itteni kávézók télen különösen hangulatosak.",
+                "ro": "Cafenelele de aici sunt deosebit de primitoare iarna.",
+                "en": "The cafes here are especially cozy in winter."
+              }
+            },
+            {
+              "name": "Cathedral of St. Servulus",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille ohne die sommerlichen Massen.",
+                "hu": "Élvezze a csendet a nyári tömeg nélkül.",
+                "ro": "Bucurați-vă de liniște fără mulțimile de vară.",
+                "en": "Enjoy the silence without the summer crowds."
+              }
+            },
+            {
+              "name": "Venetian Tower",
+              "tip_5lang": {
+                "de": "Besuch am Nachmittag für bestes Winterlicht.",
+                "hu": "Délutáni látogatás a legjobb téli fényekért.",
+                "ro": "Vizită după-amiaza pentru cea mai bună lumină de iarnă.",
+                "en": "Afternoon visit for the best winter light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie den Winterfahrplan, einige Linien fahren seltener.",
+              "Tragen Sie warme Kleidung für die Wartezeiten an Haltestellen.",
+              "Ein heißer Tee in der Thermoskanne ist ein guter Begleiter.",
+              "Die Busse sind im Winter meist gut beheizt.",
+              "Prüfen Sie die letzte Rückfahrt, da es früh dunkel wird."
+            ],
+            "hu": [
+              "Ügyeljen a téli menetrendre, néhány járat ritkábban közlekedik.",
+              "Viseljen meleg ruhát a megállókban való várakozáshoz.",
+              "Egy termoszban lévő forró tea jó társ lehet.",
+              "A buszok télen általában jól fűtöttek.",
+              "Ellenőrizze az utolsó járatot, mert korán sötétedik.",
+              "A központi buszmegálló közel van a fűtött kávézókhoz."
+            ],
+            "ro": [
+              "Respectați orarul de iarnă, unele linii circulă mai rar.",
+              "Purtați haine groase pentru timpii de așteptare în stații.",
+              "Un ceai cald într-un termos este un companion bun.",
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Verificați ultima cursă de întoarcere, se întunecă devreme."
+            ],
+            "en": [
+              "Note the winter schedule; some lines may run less frequently.",
+              "Wear warm clothing for waiting times at the stops.",
+              "A hot tea in a thermos is a good companion.",
+              "Buses are usually well-heated during the winter months.",
+              "Check the last return trip as it gets dark early."
+            ]
+          }
+        }
       }
     }
   },

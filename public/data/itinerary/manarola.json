@@ -284,6 +284,406 @@
           "Early morning light is best for photography.",
           "Avoid midday in summer due to the heat."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag oben im Dorf bei der Kirche San Lorenzo und dem ruhigen Platz, bevor Sie durch die engen Gassen bergab schlendern. Mittags erreichen Sie den belebten Hafen, wo die bunten Häuser wie an die Felsen geklebt wirken. Der Nachmittag führt Sie zum berühmten Aussichtspunkt Punta Bonfiglio für unvergessliche Panoramablicke. Zum Abschluss genießen Sie die Meeresbrise an der Bastion und der Via dell'Amore.",
+            "hu": "Kezdje a napot a falu felső részén a Szent Lőrinc-templomnál és a csendes téren, majd sétáljon lefelé a szűk utcákon. Délben érje el a nyüzsgő kikötőt, ahol a színes házak szinte a sziklákhoz tapadnak. A délután a híres Punta Bonfiglio kilátóhoz vezet a felejthetetlen panorámáért. Végezetül élvezze a tengeri szellőt a bástyánál és a Szerelem útjának kezdeténél.",
+            "ro": "Începeți ziua în partea de sus a satului, la biserica San Lorenzo și piața liniștită, înainte de a coborî pe străzile înguste. La prânz ajungeți în portul plin de viață, unde casele colorate par lipite de stânci. După-amiaza vă conduce la faimosul punct de belvedere Punta Bonfiglio pentru vederi panoramice de neuitat. În final, bucurați-vă de briza mării la bastion și la începutul drumului Via dell'Amore.",
+            "en": "Start your day in the upper village at San Lorenzo Church and its quiet square before strolling down the narrow alleys. By midday, reach the bustling harbor where colorful houses seem glued to the cliffs. The afternoon leads you to the famous Punta Bonfiglio viewpoint for unforgettable panoramas. Finally, enjoy the sea breeze at the bastion and the start of the Via dell'Amore."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche San Lorenzo",
+                "hu": "Szent Lőrinc-templom",
+                "ro": "Biserica San Lorenzo",
+                "en": "Church of San Lorenzo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das gotische Rosettenfenster aus dem Jahr 1375.",
+                "hu": "Csodálja meg az 1375-ből származó gótikus rózsaablakot.",
+                "ro": "Admirați fereastra gotică în formă de rozetă din 1375.",
+                "en": "Admire the Gothic rose window dating back to 1375."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza Papa Innocenzo IV",
+                "hu": "IV. Ince pápa tér",
+                "ro": "Piața Papa Innocenzo IV",
+                "en": "Piazza Papa Innocenzo IV"
+              },
+              "tip_5lang": {
+                "de": "Das religiöse Herz des Dorfes mit tollem Glockenturm.",
+                "hu": "A falu vallási szíve egy különálló harangtoronnyal.",
+                "ro": "Inima religioasă a satului, cu o clopotniță separată.",
+                "en": "The religious heart of the village with a separate bell tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Manarola",
+                "hu": "Manarola kikötője",
+                "ro": "Portul din Manarola",
+                "en": "Manarola Harbor"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie Boote mit Kränen aus dem Wasser gehoben werden.",
+                "hu": "Nézze meg, ahogy a csónakokat darukkal emelik ki a vízből.",
+                "ro": "Urmăriți cum bărcile sunt ridicate din apă cu macarale.",
+                "en": "Watch boats being lifted out of the water by cranes."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Punta Bonfiglio",
+                "hu": "Punta Bonfiglio kilátó",
+                "ro": "Punctul de belvedere Punta Bonfiglio",
+                "en": "Punta Bonfiglio Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der klassische Ort für das perfekte Postkartenfoto von Manarola.",
+                "hu": "A klasszikus helyszín a tökéletes Manarola-képeslapfotóhoz.",
+                "ro": "Locul clasic pentru fotografia perfectă de carte poștală din Manarola.",
+                "en": "The classic spot for the perfect Manarola postcard photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Via dell'Amore (Anfang)",
+                "hu": "Szerelem útja (kezdet)",
+                "ro": "Via dell'Amore (început)",
+                "en": "Via dell'Amore (start)"
+              },
+              "tip_5lang": {
+                "de": "Ein romantischer Pfad direkt über den Klippen zum Meer.",
+                "hu": "Romantikus ösvény közvetlenül a sziklák felett a tenger mentén.",
+                "ro": "O potecă romantică chiar deasupra stâncilor de lângă mare.",
+                "en": "A romantic path right above the cliffs along the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastion der Burg",
+                "hu": "A vár bástyája",
+                "ro": "Bastionul castelului",
+                "en": "Bastion of the Castle"
+              },
+              "tip_5lang": {
+                "de": "Überreste der alten Verteidigungsanlagen gegen Piraten.",
+                "hu": "A kalózok elleni régi védelmi rendszer maradványai.",
+                "ro": "Rămășițele vechilor fortificații de apărare împotriva piraților.",
+                "en": "Remnants of the old defensive fortifications against pirates."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Focaccia ligure",
+                "tip": "Probieren Sie sie warm bei La Cambusa."
+              },
+              {
+                "name": "Sciacchetrà",
+                "tip": "Der berühmte Dessertwein aus lokalen Weinbergen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Liguriai focaccia",
+                "tip": "Kóstolja meg melegen a La Cambusa-ban."
+              },
+              {
+                "name": "Sciacchetrà",
+                "tip": "A híres helyi desszertbor a környékbeli szőlőkből."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Focaccia liguriana",
+                "tip": "Gustați-o caldă la La Cambusa."
+              },
+              {
+                "name": "Sciacchetrà",
+                "tip": "Celebrul vin de desert din podgoriile locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ligurian Focaccia",
+                "tip": "Try it warm at La Cambusa."
+              },
+              {
+                "name": "Sciacchetrà",
+                "tip": "The famous dessert wine from local vineyards."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Friedhof von Manarola",
+                "tip": "Unglaublich friedlicher Ort über dem Meer.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Manarolai temető",
+                "tip": "Hihetetlenül békés hely a tenger felett.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cimitirul din Manarola",
+                "tip": "Un loc incredibil de liniștit deasupra mării.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Manarola Cemetery",
+                "tip": "Incredibly peaceful spot overlooking the sea.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokales Pesto",
+                "tip": "Frisch zubereitet in den kleinen Feinkostläden."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi pesto",
+                "tip": "Frissen készítve a kis csemegeboltokban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pesto local",
+                "tip": "Proaspăt preparat în micile magazine de delicatese."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Pesto",
+                "tip": "Freshly made in the small deli shops."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe, da es viele Stufen gibt.",
+              "Buchen Sie den Cinque Terre Trekking Card im Voraus.",
+              "Frühmorgens ist das Licht für Fotos am besten.",
+              "Vermeiden Sie die Mittagszeit im Sommer wegen der Hitze."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a sok lépcső miatt.",
+              "Foglalja le előre a Cinque Terre Trekking kártyát.",
+              "Kora reggel a legjobbak a fények a fotózáshoz.",
+              "Nyáron kerülje a déli órákat a hőség miatt."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă din cauza numeroaselor trepte.",
+              "Rezervați cardul de trekking Cinque Terre în avans.",
+              "Dimineața devreme lumina este cea mai bună pentru fotografii.",
+              "Evitați orele prânzului vara din cauza căldurii."
+            ],
+            "en": [
+              "Wear comfortable shoes as there are many steps.",
+              "Book the Cinque Terre Trekking Card in advance.",
+              "Early morning light is best for photography.",
+              "Avoid midday in summer due to the heat."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Manarola lässt die bunten Häuser vor dem grauen Himmel erstrahlen. Beginnen Sie in der Kirche San Lorenzo. Mittags können Sie am Hafen die Wellen beobachten. Nachmittags geht es zu den Wegen und zur Bastion. Beenden Sie den Tag gemütlich in einer Taverne.",
+            "hu": "Manarola esőben is lenyűgöző, ahogy a színes házak elütnek a szürke égtől. Kezdd a reggelt a San Lorenzo templom nyugalmával. Délben nézd meg a hullámokat a kikötőben. Délután fedezd fel az ösvényeket és a bástyát. Este melegedj fel egy helyi tavernában.",
+            "ro": "O zi ploioasă în Manarola scoate în evidență culorile caselor pe cerul gri. Începeți la Biserica San Lorenzo. La prânz, priviți valurile care se sparg de stânci în port. După-amiaza vă duce pe poteci și la Bastion. Încheiați ziua într-o tavernă locală.",
+            "en": "A rainy day in Manarola brings out the dramatic colors of the houses against the grey sky. Start at the Church of San Lorenzo for a quiet morning. Midday, explore the harbor area where the waves crash. Afternoon takes you along the paths and to the Bastion. End in a cozy tavern."
+          },
+          "stops": [
+            {
+              "name": "Church of San Lorenzo",
+              "tip_5lang": {
+                "de": "Suchen Sie hier Schutz und bewundern Sie die gotische Rosette.",
+                "hu": "Keress menedéket bent és csodáld meg a gótikus rózsaablakot.",
+                "ro": "Adăpostiți-vă înăuntru pentru a admira rozeta gotică.",
+                "en": "Shelter inside to admire the gothic rose window away from the rain."
+              }
+            },
+            {
+              "name": "Piazza Papa Innocenzo IV",
+              "tip_5lang": {
+                "de": "Suchen Sie bei starkem Regen die umliegenden Cafés auf.",
+                "hu": "Nézz be a tér körüli kávézókba, ha rákezdenek az esőre.",
+                "ro": "Căutați cafenele în jurul pieței dacă ploaia devine puternică.",
+                "en": "Look for cafes around the square if the rain gets heavy."
+              }
+            },
+            {
+              "name": "Manarola Harbor",
+              "tip_5lang": {
+                "de": "Vorsicht auf der nassen Helling, es wird sehr rutschig.",
+                "hu": "Vigyázz a vizes rámpán, mert nagyon csúszós lehet.",
+                "ro": "Atenție pe rampa umedă, devine foarte alunecoasă.",
+                "en": "Watch your step on the wet slipway, it gets very slippery."
+              }
+            },
+            {
+              "name": "Punta Bonfiglio Viewpoint",
+              "tip_5lang": {
+                "de": "Bringen Sie einen stabilen Regenschirm mit, der Wind kann stark sein.",
+                "hu": "Hozz erős esernyőt, mert a szél erős lehet itt.",
+                "ro": "Aduceți o umbrelă rezistentă, vântul poate fi puternic.",
+                "en": "Bring a sturdy umbrella as winds can be strong here."
+              }
+            },
+            {
+              "name": "Via dell'Amore (start)",
+              "tip_5lang": {
+                "de": "Prüfen Sie Wegsperrungen, starker Regen kann den Zugang beeinträchtigen.",
+                "hu": "Ellenőrizd az útlezárásokat, heves eső miatt lezárhatják.",
+                "ro": "Verificați închiderile, ploaia abundentă poate afecta accesul.",
+                "en": "Check for path closures, heavy rain might affect access."
+              }
+            },
+            {
+              "name": "Bastion of the Castle",
+              "tip_5lang": {
+                "de": "Suchen Sie in den engen Gassen Schutz vor Schauern.",
+                "hu": "Keress menedéket a szűk sikátorokban, ha jön egy zápor.",
+                "ro": "Căutați refugiu în aleile înguste din apropiere.",
+                "en": "Seek refuge in the nearby narrow alleys if a shower passes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bringen Sie eine gute Regenjacke und wasserdichte Schuhe für die steilen Treppen mit.",
+              "Erwarten Sie dramatische Wellen, aber bleiben Sie am Hafen vom Rand fern.",
+              "Einige Küstenwege können bei starkem Regen aus Sicherheitsgründen geschlossen werden.",
+              "Nutzen Sie die Cafés und kleinen Geschäfte, um sich zwischen den Stopps abzutrocknen."
+            ],
+            "hu": [
+              "Hozz jó esőkabátot és vízálló cipőt a meredek lépcsőkhöz.",
+              "Számíts drámai hullámokra, de maradj távol a peremtől a kikötőben.",
+              "Néhány parti ösvény lezárható heves esőzés esetén.",
+              "Használd ki a kávézókat és kis boltokat, hogy megszáradj a megállók között."
+            ],
+            "ro": [
+              "Aduceți o haină de ploaie bună și pantofi impermeabili pentru scările abrupte.",
+              "Așteptați-vă la valuri dramatice, dar stați departe de margine în port.",
+              "Unele poteci de coastă se pot închide în timpul ploilor abundente.",
+              "Folosiți cafenelele și magazinele mici pentru a vă usca între opriri."
+            ],
+            "en": [
+              "Bring a good raincoat and waterproof shoes for the steep stairs.",
+              "Expect dramatic waves, but stay away from the edge at the harbor.",
+              "Some coastal paths may close during heavy rain for safety.",
+              "Utilize the cafes and small shops to dry off between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter bietet ein friedliches Manarola ohne Menschenmassen. Die klare Morgenluft bei San Lorenzo ist erfrischend. Mittags beleuchtet die Wintersonne den Hafen. Genießen Sie nachmittags freie Sicht von der Punta Bonfiglio. Schließen Sie mit einem ligurischen Abendessen ab.",
+            "hu": "A tél békés, tömegmentes élményt nyújt Manarolában. A friss reggeli levegő a San Lorenzo-nál frissítő. Délben a téli nap gyönyörűen megvilágítja a kikötőt. Délután élvezd a zavartalan kilátást a Punta Bonfiglio-ról. Zárj egy kiadós ligur vacsorával.",
+            "ro": "Iarna oferă o experiență liniștită în Manarola. Aerul proaspăt de dimineață la San Lorenzo este revigorant. La prânz, soarele luminează portul. După-amiaza, bucurați-vă de priveliști clare de la Punta Bonfiglio. Încheiați cu o cină ligurică.",
+            "en": "Winter offers a peaceful, crowd-free experience in Manarola. The crisp morning air at San Lorenzo is refreshing. By midday, the winter sun illuminates the harbor beautifully. In the afternoon, enjoy unobstructed views from Punta Bonfiglio. Conclude with a hearty dinner."
+          },
+          "stops": [
+            {
+              "name": "Church of San Lorenzo",
+              "tip_5lang": {
+                "de": "Das Morgenlicht ist perfekt, um die Fassade zu fotografieren.",
+                "hu": "A reggeli fény tökéletes a homlokzat fotózásához.",
+                "ro": "Lumina dimineții este perfectă pentru a fotografia fațada.",
+                "en": "The morning light is perfect for photographing the facade."
+              }
+            },
+            {
+              "name": "Piazza Papa Innocenzo IV",
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Atmosphäre, ein starker Kontrast zum Sommer.",
+                "hu": "Élvezd a csendes atmoszférát, ami éles kontraszt a nyárral.",
+                "ro": "Bucurați-vă de atmosfera liniștită, un contrast cu vara.",
+                "en": "Enjoy the quiet atmosphere, a stark contrast to summer."
+              }
+            },
+            {
+              "name": "Manarola Harbor",
+              "tip_5lang": {
+                "de": "Das Wintermeer ist oft ruhig, ideal für friedliche Momente.",
+                "hu": "A téli tenger gyakran nyugodt, ideális egy kis elmélkedésre.",
+                "ro": "Marea de iarnă este adesea calmă, excelentă pentru reflecție.",
+                "en": "The winter sea is often calm, great for peaceful reflection."
+              }
+            },
+            {
+              "name": "Punta Bonfiglio Viewpoint",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, die Meeresbrise ist im Winter kühl.",
+                "hu": "Öltözz melegen, a tengeri szél hűvös télen.",
+                "ro": "Îmbrăcați-vă călduros, briza mării este rece iarna.",
+                "en": "Dress warmly, the sea breeze is chilly in winter."
+              }
+            },
+            {
+              "name": "Via dell'Amore (start)",
+              "tip_5lang": {
+                "de": "Genießen Sie es, den Start dieses berühmten Weges für sich zu haben.",
+                "hu": "Élvezd, hogy ezen a híres ösvényen most szinte egyedül vagy.",
+                "ro": "Bucurați-vă să aveți începutul acestei poteci doar pentru voi.",
+                "en": "Enjoy having the start of this famous path mostly to yourself."
+              }
+            },
+            {
+              "name": "Bastion of the Castle",
+              "tip_5lang": {
+                "de": "Fangen Sie von hier aus die Farben des frühen Sonnenuntergangs ein.",
+                "hu": "Kapd el a korai naplemente színeit erről a pontról.",
+                "ro": "Surprindeți culorile apusului devreme din acest punct.",
+                "en": "Catch the early sunset colors from this vantage point."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten, da die Morgen kalt sind, die Nachmittage aber mild sein können.",
+              "Sonnenuntergang ist gegen 17:00 Uhr, planen Sie Ihre Aussichtspunkte entsprechend.",
+              "Viele Restaurants machen Winterpause, prüfen Sie vorher geöffnete Lokale.",
+              "Genießen Sie die einzigartige Atmosphäre der Manarola-Krippe im Dezember oder Januar."
+            ],
+            "hu": [
+              "Öltözz rétegesen, mivel a reggelek hidegek, de a délutánok enyhék lehetnek.",
+              "A naplemente 17:00 körül van, tervezd a kilátók látogatását eszerint.",
+              "Sok étterem téli szünetet tart, előre ellenőrizd a nyitvatartást.",
+              "Élvezd a Manarola Betlehem egyedi hangulatát, ha decemberben vagy januárban jössz."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, diminețile sunt reci, dar după-amiezile pot fi blânde.",
+              "Apusul este în jur de 17:00, planificați-vă vizitele în consecință.",
+              "Multe restaurante iau pauză de iarnă, verificați locurile deschise în prealabil.",
+              "Bucurați-vă de Scena Nașterii din Manarola dacă vizitați în decembrie sau ianuarie."
+            ],
+            "en": [
+              "Layer your clothing, as mornings are cold but sunny afternoons can be mild.",
+              "Sunset is around 17:00, plan your viewpoint visits accordingly.",
+              "Many restaurants may take their winter break, check open places in advance.",
+              "Enjoy the unique atmosphere of the Manarola Nativity Scene in December or January."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -523,6 +923,358 @@
           "The roads are narrow, watch out for buses.",
           "Park your bike only in designated areas."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die Umgebung von Manarola mit dem E-Bike, um die steilen Hänge zu bezwingen. Beginnen Sie am oberen Dorfplatz und fahren Sie hinauf zum Weiler Groppo, dem Zentrum der Weinproduktion. Bewundern Sie den Blick auf den Presepe-Hügel, bevor Sie vorsichtig zum Hafen hinunterrollen. Ein abschließender Besuch am Aussichtspunkt Punta Bonfiglio belohnt Sie mit der besten Sicht auf das Dorf.",
+            "hu": "Fedezze fel Manarola környékét elektromos kerékpárral a meredek emelkedők miatt. Kezdje a felső falutéren, majd tekerjen fel Groppo falucskába, a bortermelés központjába. Csodálja meg a betlehem-domb látványát, mielőtt óvatosan legurulna a kikötőbe. A záró látogatás a Punta Bonfiglio kilátónál a legjobb rálátást nyújtja a falura.",
+            "ro": "Explorați împrejurimile orașului Manarola cu o bicicletă electrică pentru a cuceri pantele abrupte. Începeți în piața de sus a satului și pedalați până în cătunul Groppo, centrul producției de vin. Admirați vederea spre dealul Presepe înainte de a coborî cu grijă spre port. O vizită finală la punctul de belvedere Punta Bonfiglio vă recompensează cu cea mai bună vedere asupra satului.",
+            "en": "Explore Manarola's surroundings by e-bike to conquer the steep slopes. Start at the upper village square and ride up to the hamlet of Groppo, the center of wine production. Admire the view of the Presepe hill before rolling down carefully to the harbor. A final visit to the Punta Bonfiglio viewpoint rewards you with the best view of the village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza Papa Innocenzo IV",
+                "hu": "IV. Ince pápa tér",
+                "ro": "Piața Papa Innocenzo IV",
+                "en": "Piazza Papa Innocenzo IV"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Startpunkt oberhalb des Verkehrs.",
+                "hu": "Tökéletes kiindulópont a forgalom felett.",
+                "ro": "Punctul de plecare perfect deasupra traficului.",
+                "en": "Perfect starting point above the traffic."
+              }
+            },
+            {
+              "name": {
+                "de": "Groppo",
+                "hu": "Groppo",
+                "ro": "Groppo",
+                "en": "Groppo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Winzergenossenschaft der Cinque Terre.",
+                "hu": "Látogassa meg a Cinque Terre borászati szövetkezetét.",
+                "ro": "Vizitați cooperativa vinicolă din Cinque Terre.",
+                "en": "Visit the Cinque Terre wine cooperative."
+              }
+            },
+            {
+              "name": {
+                "de": "Presepe di Manarola",
+                "hu": "Manarolai betlehem",
+                "ro": "Ieslea din Manarola",
+                "en": "Manarola Nativity Scene"
+              },
+              "tip_5lang": {
+                "de": "Blick auf den Hügel der weltweit größten Krippe.",
+                "hu": "Kilátás a világ legnagyobb betlehemének dombjára.",
+                "ro": "Vedere spre dealul celei mai mari iesle din lume.",
+                "en": "View of the hill of the world's largest nativity scene."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Manarola",
+                "hu": "Manarola kikötője",
+                "ro": "Portul din Manarola",
+                "en": "Manarola Harbor"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad oben ab und gehen Sie zum Wasser.",
+                "hu": "Zárja le a biciklit fent, és sétáljon le a vízhez.",
+                "ro": "Încuiați bicicleta sus și coborâți la apă.",
+                "en": "Lock your bike above and walk down to the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Punta Bonfiglio",
+                "hu": "Punta Bonfiglio kilátó",
+                "ro": "Punctul de belvedere Punta Bonfiglio",
+                "en": "Punta Bonfiglio Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang vom Hafen entfernt.",
+                "hu": "Rövid séta a kikötőtől.",
+                "ro": "O scurtă plimbare de la port.",
+                "en": "A short walk from the harbor."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Anchovis aus Monterosso",
+                "tip": "Gesalzen oder in Zitrone mariniert."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Monterosso-i szardella",
+                "tip": "Sózva vagy citromban pácolva."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Anșoa din Monterosso",
+                "tip": "Sărat sau marinat în lămâie."
+              }
+            ],
+            "en": [
+              {
+                "name": "Monterosso Anchovies",
+                "tip": "Salted or marinated in lemon."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Weinberge über Groppo",
+                "tip": "Ruhe inmitten der Terrassen.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szőlőültetvények Groppo felett",
+                "tip": "Csend a teraszok között.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Podgoriile de deasupra Groppo",
+                "tip": "Liniște în mijlocul teraselor.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Vineyards above Groppo",
+                "tip": "Quietness amidst the terraces.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Cantina Sociale",
+                "tip": "Kaufen Sie Wein direkt beim Erzeuger."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cantina Sociale",
+                "tip": "Vásároljon bort közvetlenül a termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cantina Sociale",
+                "tip": "Cumpărați vin direct de la producător."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cantina Sociale",
+                "tip": "Buy wine directly from the producer."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "E-Bikes sind aufgrund der Steigung dringend empfohlen.",
+              "Nehmen Sie ausreichend Wasser mit.",
+              "Die Straßen sind schmal, achten Sie auf Busse.",
+              "Parken Sie Ihr Rad nur an ausgewiesenen Stellen."
+            ],
+            "hu": [
+              "Az e-bike-ok használata erősen ajánlott az emelkedők miatt.",
+              "Vigyen magával elegendő vizet.",
+              "Az utak szűkek, figyeljen a buszokra.",
+              "Csak a kijelölt helyeken parkolja le a kerékpárt."
+            ],
+            "ro": [
+              "Bicicletele electrice sunt recomandate din cauza pantei.",
+              "Luați suficientă apă cu voi.",
+              "Drumurile sunt înguste, atenție la autobuze.",
+              "Parcați bicicleta doar în locurile special amenajate."
+            ],
+            "en": [
+              "E-bikes are highly recommended due to the incline.",
+              "Carry enough water with you.",
+              "The roads are narrow, watch out for buses.",
+              "Park your bike only in designated areas."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Manarola im Regen zu radeln ist ein Abenteuer. Beginnen Sie am Platz und fahren Sie nach Groppo in die nebligen Hügel. Mittags sehen Sie sich die Krippen-Gegend an, bevor Sie zum Hafen hinunterrollen. Beenden Sie die Fahrt an der Punta Bonfiglio.",
+            "hu": "Manarola kerékpározása esőben igazi kaland. Kezdd a téren, majd tekerj fel Groppo-ba a ködös dombok között. Délben nézd meg a betlehemes területét, mielőtt legurulsz a kikötőbe. Fejezd be az utat a Punta Bonfiglio-nál.",
+            "ro": "Ciclismul în Manarola pe ploaie este o aventură. Începeți în piață, apoi urcați spre Groppo prin dealurile cețoase. La prânz, vizitați zona Scenei Nașterii înainte de a coborî în port. Terminați la Punta Bonfiglio.",
+            "en": "Cycling Manarola in the rain is an adventure. Start at the square, then head up to Groppo as the misty hills create a moody backdrop. Midday, check out the Nativity Scene area before rolling down to the wet harbor. End the ride at Punta Bonfiglio."
+          },
+          "stops": [
+            {
+              "name": "Piazza Papa Innocenzo IV",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie im Nassen losfahren.",
+                "hu": "Ellenőrizd a fékeidet, mielőtt elindulsz a vizes utakon.",
+                "ro": "Asigurați-vă că frânele funcționează bine înainte de a pleca.",
+                "en": "Ensure your brakes are working well before heading out in the wet."
+              }
+            },
+            {
+              "name": "Groppo",
+              "tip_5lang": {
+                "de": "Die Straße bergauf kann rutschig sein, fahren Sie vorsichtig.",
+                "hu": "A felfelé vezető út csúszós lehet, tarts egyenletes tempót.",
+                "ro": "Drumul în sus poate fi alunecos, mențineți un ritm constant.",
+                "en": "The road up can be slippery, maintain a steady, cautious pace."
+              }
+            },
+            {
+              "name": "Manarola Nativity Scene",
+              "tip_5lang": {
+                "de": "Die Wege können schlammig sein, bleiben Sie auf befestigten Flächen.",
+                "hu": "A domboldali ösvények sárban úszhatnak, maradj a burkolaton.",
+                "ro": "Potecile pot fi noroioase, rămâneți pe zonele pavate.",
+                "en": "The hillside paths might be muddy, stick to paved areas."
+              }
+            },
+            {
+              "name": "Manarola Harbor",
+              "tip_5lang": {
+                "de": "Steigen Sie ab und schieben Sie das Rad an der rutschigen Rampe.",
+                "hu": "Szállj le és told a biciklit a csúszós rámpa közelében.",
+                "ro": "Descălecați și mergeți pe jos lângă rampa alunecoasă.",
+                "en": "Dismount and walk your bike near the slippery boat ramp."
+              }
+            },
+            {
+              "name": "Punta Bonfiglio Viewpoint",
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad und machen Sie zwischen den Schauern ein Foto.",
+                "hu": "Tedd le a biciklit és lőjj egy képet a záporok között.",
+                "ro": "Asigurați-vă bicicleta și faceți o fotografie rapidă.",
+                "en": "Secure your bike and take a quick photo between showers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um das nasse Spritzwasser fernzuhalten.",
+              "Senken Sie den Reifendruck leicht für besseren Halt auf nassem Kopfsteinpflaster.",
+              "Tragen Sie gut sichtbare Kleidung, da Regen die Sichtbarkeit auf Straßen verringert.",
+              "Halten Sie eine wasserdichte Abdeckung für Ihren Sattel bereit."
+            ],
+            "hu": [
+              "Használj sárvédőt, hogy távol tartsd a felverődő vizet a hátadtól.",
+              "Csökkentsd kicsit a guminyomást a jobb tapadásért a vizes macskaköveken.",
+              "Viselj jól látható ruházatot, mert az eső rontja a látási viszonyokat.",
+              "Legyen nálad egy vízálló huzat a nyeregre, amíg parkolsz."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a vă proteja de stropii de pe drum.",
+              "Scădeți presiunea anvelopelor pentru o aderență mai bună pe piatra cubică umedă.",
+              "Purtați haine cu vizibilitate ridicată, deoarece ploaia reduce vizibilitatea.",
+              "Păstrați o husă impermeabilă pentru șa atunci când este parcată."
+            ],
+            "en": [
+              "Use mudguards to keep the wet road spray off your back.",
+              "Lower your tire pressure slightly for better grip on wet cobblestones.",
+              "Wear high-visibility clothing as rain reduces driver visibility on coastal roads.",
+              "Keep a waterproof cover for your saddle when parked."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour bietet klare Luft und leere Straßen. Beginnen Sie am Hauptplatz und fahren Sie nach Groppo, um sich aufzuwärmen. Mittags sind die Hügel ruhig. Rollen Sie nachmittags zum Hafen. Enden Sie an der Punta Bonfiglio im tiefen Sonnenlicht.",
+            "hu": "Egy téli bringázás friss levegőt és üres utakat kínál. Kezdd a főtéren és mássz fel Groppo-ba, hogy bemelegedj. Délben a betlehem körüli dombok békések. Gurulj le a csendes kikötőbe kora délután. Fejezd be a Punta Bonfiglio-nál, a lemenő napnál.",
+            "ro": "O plimbare de iarnă cu bicicleta oferă aer curat și drumuri goale. Începeți în piața principală și urcați spre Groppo pentru a vă încălzi. La prânz, dealurile sunt pașnice. Coborâți spre portul liniștit după-amiaza. Terminați la Punta Bonfiglio la apus.",
+            "en": "A winter bike ride offers crisp air and empty roads. Start at the main square and tackle the climb to Groppo to warm up. Midday, the hills around the Nativity Scene are peaceful. Coast down to the quiet harbor in the early afternoon. Finish at Punta Bonfiglio."
+          },
+          "stops": [
+            {
+              "name": "Piazza Papa Innocenzo IV",
+              "tip_5lang": {
+                "de": "Ein toller Ausgangspunkt, um sich in der Morgensonne zu dehnen.",
+                "hu": "Nagyszerű kiindulópont, hogy nyújts egyet a reggeli napsütésben.",
+                "ro": "Un punct de plecare excelent pentru a vă întinde la soare.",
+                "en": "A great starting point to stretch in the morning sun."
+              }
+            },
+            {
+              "name": "Groppo",
+              "tip_5lang": {
+                "de": "Der Anstieg wird Sie in der kühlen Luft schnell aufwärmen.",
+                "hu": "Az emelkedő gyorsan bemelegít a hűvös levegőn.",
+                "ro": "Urcarea vă va încălzi rapid în aerul rece.",
+                "en": "The climb will warm you up quickly in the cool air."
+              }
+            },
+            {
+              "name": "Manarola Nativity Scene",
+              "tip_5lang": {
+                "de": "Im Winter können Sie vielleicht die beleuchtete Szene sehen.",
+                "hu": "Télen talán az igazi, kivilágított betlehemet is láthatod.",
+                "ro": "Iarna, s-ar putea să vedeți scena iluminată.",
+                "en": "If visited in winter, you might see the actual illuminated scene."
+              }
+            },
+            {
+              "name": "Manarola Harbor",
+              "tip_5lang": {
+                "de": "Genießen Sie den fehlenden Trubel, um leicht zu navigieren.",
+                "hu": "Élvezd, hogy nincs nyári tömeg, így könnyen navigálhatsz.",
+                "ro": "Bucurați-vă de lipsa aglomerației pentru a naviga ușor.",
+                "en": "Enjoy the lack of summer crowds to easily navigate your bike."
+              }
+            },
+            {
+              "name": "Punta Bonfiglio Viewpoint",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen an schattigen Wegen.",
+                "hu": "Vigyázz a jeges foltokra az ösvény árnyékos részein.",
+                "ro": "Atenție la porțiunile înghețate de pe poteca umbrită.",
+                "en": "Watch out for icy patches on the shaded parts of the path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Schichten, besonders für die Abfahrten zurück ins Dorf.",
+              "Die Straßen sind weniger von Touristenbussen befahren, was die Fahrt sicherer macht.",
+              "Bringen Sie ein gutes Lichtset mit, da die Sonne früh hinter den Hügeln untergeht.",
+              "Packen Sie eine Thermoskanne mit heißem Tee für die Aussichtspunkte ein."
+            ],
+            "hu": [
+              "Viselj szélálló rétegeket, különösen a falu felé vezető lejtőkön.",
+              "Az utakon kevesebb a turistabusz, ami biztonságosabbá teszi az utat.",
+              "Hozz jó világítást, mert a nap korán lenyugszik a dombok mögött.",
+              "Csomagolj egy termosznyi forró teát a kilátópontokhoz."
+            ],
+            "ro": [
+              "Purtați straturi rezistente la vânt, în special la coborârea spre sat.",
+              "Drumurile sunt mai puțin aglomerate de autobuze, fiind mai sigure.",
+              "Aduceți un set bun de lumini, deoarece soarele apune devreme.",
+              "Luați un termos cu ceai fierbinte pentru punctele de belvedere."
+            ],
+            "en": [
+              "Wear windproof layers, especially for the descents back to the village.",
+              "The roads are less busy with tourist buses, making for a safer ride.",
+              "Bring a good set of lights, as the sun sets early behind the hills.",
+              "Pack a thermos with hot tea for the viewpoints."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -785,6 +1537,390 @@
           "Parking fees are high (approx. 25€/day).",
           "Navigate to 'Parcheggio Manarola'."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie nicht nur Manarola, sondern auch die höher gelegenen Weiler. Nach dem Parken am Dorfeingang erkunden Sie den Hafen und die Kirche. Danach fahren Sie hinauf nach Groppo und weiter in das antike Volastra, um die Olivenhaine und spektakuläre Ausblicke abseits der Massen zu genießen. Ein Stopp an der Panoramastraße SP51 rundet den Tag ab.",
+            "hu": "Autóval nemcsak Manarolát, hanem a magasabban fekvő falvakat is felfedezheti. A falu bejáratánál történő parkolás után nézze meg a kikötőt és a templomot. Ezután hajtson fel Groppóba, majd a patinás Volastrába, hogy élvezze az olajfaligeteket és a tömegtől távol eső látványt. Az SP51 panorámaúton tett megálló teljessé teszi a napot.",
+            "ro": "Cu mașina, explorați nu doar Manarola, ci și cătunele situate mai sus. După parcarea la intrarea în sat, explorați portul și biserica. Apoi conduceți până la Groppo și mai departe spre anticul Volastra pentru a vă bucura de livezile de măslini și de priveliștile spectaculoase departe de mulțime. O oprire pe drumul panoramic SP51 completează ziua.",
+            "en": "By car, you explore not only Manarola but also the higher hamlets. After parking at the village entrance, explore the harbor and the church. Then drive up to Groppo and further to ancient Volastra to enjoy the olive groves and spectacular views away from the crowds. A stop on the SP51 panoramic road rounds off the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Manarola Parkplatz",
+                "hu": "Manarola parkoló",
+                "ro": "Parcare Manarola",
+                "en": "Manarola Parking"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie früh, die Parkplätze sind sehr begrenzt.",
+                "hu": "Érkezzen korán, a parkolóhelyek száma nagyon korlátozott.",
+                "ro": "Veniți devreme, locurile de parcare sunt foarte limitate.",
+                "en": "Arrive early, parking spaces are very limited."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Lorenzo",
+                "hu": "Szent Lőrinc-templom",
+                "ro": "Biserica San Lorenzo",
+                "en": "Church of San Lorenzo"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus ein kurzer Spaziergang bergab.",
+                "hu": "A parkolótól rövid séta lefelé.",
+                "ro": "O scurtă plimbare la vale de la parcare.",
+                "en": "A short walk downhill from the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Manarola",
+                "hu": "Manarola kikötője",
+                "ro": "Portul din Manarola",
+                "en": "Manarola Harbor"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie ein Eis am Wasser.",
+                "hu": "Élvezzen egy fagyit a vízparton.",
+                "ro": "Bucurați-vă de o înghețată lângă apă.",
+                "en": "Enjoy an ice cream by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Groppo",
+                "hu": "Groppo",
+                "ro": "Groppo",
+                "en": "Groppo"
+              },
+              "tip_5lang": {
+                "de": "Leicht erreichbar mit dem Auto oberhalb des Dorfes.",
+                "hu": "Autóval könnyen elérhető a falu felett.",
+                "ro": "Ușor accesibil cu mașina deasupra satului.",
+                "en": "Easily accessible by car above the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Volastra",
+                "hu": "Volastra",
+                "ro": "Volastra",
+                "en": "Volastra"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die antike Kirche Nostra Signora della Salute.",
+                "hu": "Látogassa meg a Nostra Signora della Salute ősi templomot.",
+                "ro": "Vizitați biserica antică Nostra Signora della Salute.",
+                "en": "Visit the ancient Church of Nostra Signora della Salute."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt SP51",
+                "hu": "SP51 kilátóhely",
+                "ro": "Punct de belvedere SP51",
+                "en": "SP51 Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Toller Blick auf die Küste von der Hauptstraße.",
+                "hu": "Nagyszerű kilátás a partvidékre a főútról.",
+                "ro": "O vedere excelentă asupra coastei de la drumul principal.",
+                "en": "Great view of the coastline from the main road."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pasta mit Pesto",
+                "tip": "Probieren Sie sie in einer Trattoria in Volastra."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pesztós tészta",
+                "tip": "Kóstolja meg egy Volastra-i trattoriában."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Paste cu pesto",
+                "tip": "Încercați-le într-o trattoria din Volastra."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pasta with Pesto",
+                "tip": "Try it in a trattoria in Volastra."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Olivenhaine in Volastra",
+                "tip": "Sehr ruhig und authentisch.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Olajfaligetek Volastrában",
+                "tip": "Nagyon csendes és autentikus.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Livezile de măslini din Volastra",
+                "tip": "Foarte liniștit și autentic.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Olive groves in Volastra",
+                "tip": "Very quiet and authentic.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Olivenöl",
+                "tip": "Frisch gepresst in den Hügeln über Manarola."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Olívaolaj",
+                "tip": "Frissen préselve a Manarola feletti dombokon."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline",
+                "tip": "Proaspăt presat în dealurile de deasupra Manarolei."
+              }
+            ],
+            "en": [
+              {
+                "name": "Olive Oil",
+                "tip": "Freshly pressed in the hills above Manarola."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Autofahren in Cinque Terre ist schwierig; nutzen Sie Parkplätze außerhalb.",
+              "Die Straßen sind extrem kurvenreich.",
+              "Parkgebühren sind hoch (ca. 25€/Tag).",
+              "Navigieren Sie zum 'Parcheggio Manarola'."
+            ],
+            "hu": [
+              "A Cinque Terrében az autózás nehézkes; használja a külső parkolókat.",
+              "Az utak rendkívül kanyargósak.",
+              "A parkolási díjak magasak (kb. 25€/nap).",
+              "Navigáljon a 'Parcheggio Manarola' felé."
+            ],
+            "ro": [
+              "Condusul în Cinque Terre este dificil; folosiți parcările exterioare.",
+              "Drumurile sunt extrem de virajate.",
+              "Taxele de parcare sunt mari (aprox. 25€/zi).",
+              "Navigați către 'Parcheggio Manarola'."
+            ],
+            "en": [
+              "Driving in Cinque Terre is difficult; use outside parking lots.",
+              "The roads are extremely winding.",
+              "Parking fees are high (approx. 25€/day).",
+              "Navigate to 'Parcheggio Manarola'."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt nach Manarola im Regen erfordert Vorsicht, bietet aber eine dramatische Landschaft. Parken Sie sicher und beginnen Sie bei San Lorenzo. Gehen Sie zum Hafen. Nachmittags fahren Sie vorsichtig durch neblige Weinberge nach Groppo und Volastra.",
+            "hu": "Manarolába vezetni esőben figyelmet igényel, de drámai látványt nyújt. Parkolj le és kezdd a túrát a San Lorenzo-nál. Menj le a kikötőbe a hullámokért. Délután vezess óvatosan Groppo és Volastra felé a ködös szőlők között.",
+            "ro": "Conducerea spre Manarola pe ploaie necesită atenție. Parcați în siguranță și începeți la San Lorenzo. Mergeți în port pentru valuri. După-amiaza, conduceți cu grijă spre Groppo și Volastra prin podgoriile cețoase.",
+            "en": "Driving to Manarola on a rainy day requires care but offers dramatic scenery. Park safely and start your wet-weather exploration at San Lorenzo. Head down to the harbor for the crashing waves. In the afternoon, drive carefully up to Groppo and Volastra."
+          },
+          "stops": [
+            {
+              "name": "Manarola Parking",
+              "tip_5lang": {
+                "de": "Halten Sie Ihren Regenschirm bereit, wenn Sie das Auto verlassen.",
+                "hu": "Készítsd elő az esernyőt, mielőtt kiszállsz az autóból.",
+                "ro": "Țineți umbrela pregătită când ieșiți din mașină.",
+                "en": "Have your umbrella ready as you exit the car."
+              }
+            },
+            {
+              "name": "Church of San Lorenzo",
+              "tip_5lang": {
+                "de": "Ein toller erster Stopp im Haus, um dem Regen zu entkommen.",
+                "hu": "Remek első beltéri megálló, hogy elmenekülj az eső elől.",
+                "ro": "O primă oprire interioară excelentă pentru a scăpa de ploaie.",
+                "en": "A great first indoor stop to escape the rain."
+              }
+            },
+            {
+              "name": "Manarola Harbor",
+              "tip_5lang": {
+                "de": "Parken Sie oben, der Weg nach unten ist steil und nass.",
+                "hu": "Parkolj fenn, a lefelé vezető út meredek és vizes.",
+                "ro": "Parcați mașina sus, drumul în jos este abrupt și umed.",
+                "en": "Park your car up top, the walk down is steep and wet."
+              }
+            },
+            {
+              "name": "Groppo",
+              "tip_5lang": {
+                "de": "Achten Sie auf abfließendes Wasser auf den schmalen Straßen.",
+                "hu": "Vigyázz a keskeny, kanyargós utakon átfolyó vízzel.",
+                "ro": "Atenție la scurgerile de apă pe drumurile înguste.",
+                "en": "Watch out for runoff water on the narrow winding roads."
+              }
+            },
+            {
+              "name": "Volastra",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, Nebel kann hier schnell aufziehen.",
+                "hu": "Vezess lassan, a köd gyorsan leszállhat ebben a felső faluban.",
+                "ro": "Conduceți încet; ceața poate coborî rapid pe acest sat.",
+                "en": "Drive slowly; fog can quickly descend on this higher village."
+              }
+            },
+            {
+              "name": "SP51 Viewpoint",
+              "tip_5lang": {
+                "de": "Fahren Sie ganz rechts ran, die Sicht kann schlecht sein.",
+                "hu": "Húzódj le teljesen, az elhaladó autók látótávolsága rossz lehet.",
+                "ro": "Trageți pe dreapta complet; vizibilitatea poate fi slabă.",
+                "en": "Pull over completely; visibility for passing cars may be poor."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Nebelscheinwerfer, wenn die Küstenstraßen wolkenverhangen sind.",
+              "Achten Sie bei starkem Regen auf kleine Steinschläge auf der SP51.",
+              "Parken ist im Regen einfacher, da es weniger Besucher gibt.",
+              "Halten Sie ein Handtuch im Auto bereit, um sich nach dem Spaziergang abzutrocknen."
+            ],
+            "hu": [
+              "Használj ködlámpát, ha a parti utakat alacsony felhők borítják.",
+              "Légy tudatában a lehetséges kőomlásoknak az SP51-en heves esőben.",
+              "A parkolás könnyebb esőben, mivel kevesebb a látogató.",
+              "Tarts egy törölközőt az autóban, hogy megszáradj a falusi séta után."
+            ],
+            "ro": [
+              "Folosiți proiectoarele de ceață dacă drumurile sunt învăluite de nori.",
+              "Atenție la posibile căderi mici de pietre pe SP51 în timpul ploii.",
+              "Parcarea este mai ușoară pe ploaie, deoarece sunt mai puțini vizitatori.",
+              "Păstrați un prosop în mașină pentru a vă usca după plimbare."
+            ],
+            "en": [
+              "Use fog lights if the coastal roads get enveloped in low clouds.",
+              "Be aware of potential small rockfalls on the SP51 during heavy rain.",
+              "Parking is easier in the rain as there are fewer visitors.",
+              "Keep a towel in the car to dry off after the village walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Fahrt nach Manarola ist entspannend. Kommen Sie leicht am Parkplatz an und genießen Sie die klare Luft. Spazieren Sie mittags durch den Hafen. Die Fahrt nach Groppo und Volastra bietet klare Sicht. Beenden Sie die Tour auf der SP51 zum Sonnenuntergang.",
+            "hu": "Egy téli autózás Manarolába pihentető az üres utakon. Érkezz könnyedén a parkolóba és élvezd a friss levegőt. Sétálj a csendes kikötőben délben. A délutáni út Groppo és Volastra felé tiszta kilátást nyújt. Fejezd be az utat az SP51-en.",
+            "ro": "Un drum de iarnă spre Manarola este relaxant cu drumuri goale. Ajungeți ușor în parcare și bucurați-vă de aerul proaspăt. Plimbați-vă prin port la prânz. Drumul de după-amiază spre Groppo și Volastra oferă priveliști clare.",
+            "en": "A winter drive to Manarola is relaxing with empty roads. Arrive easily at the parking and enjoy the crisp air at San Lorenzo. Wander the peaceful harbor at midday. The afternoon drive up to Groppo and Volastra offers clear views of the coast."
+          },
+          "stops": [
+            {
+              "name": "Manarola Parking",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter praktisch garantiert, ein seltener Luxus.",
+                "hu": "A parkolóhely szinte garantált télen, igazi ritkaság.",
+                "ro": "Parcarea este garantată iarna, un lux rar.",
+                "en": "Parking is practically guaranteed in winter, a rare treat."
+              }
+            },
+            {
+              "name": "Church of San Lorenzo",
+              "tip_5lang": {
+                "de": "Treten Sie ein, um sich vor der kühlen Morgenluft aufzuwärmen.",
+                "hu": "Lépj be, hogy felmelegedj a hűvös reggeli levegőből.",
+                "ro": "Intrați pentru a vă încălzi de aerul rece al dimineții.",
+                "en": "Step inside to warm up from the chilly morning air."
+              }
+            },
+            {
+              "name": "Manarola Harbor",
+              "tip_5lang": {
+                "de": "Der Spaziergang zurück zum Auto wird Sie warm halten.",
+                "hu": "A séta vissza az autóhoz biztosan felmelegít.",
+                "ro": "Plimbarea înapoi spre mașină vă va ține de cald.",
+                "en": "The walk back up to the car will keep you warm."
+              }
+            },
+            {
+              "name": "Groppo",
+              "tip_5lang": {
+                "de": "Die kahlen Reben verleihen der Landschaft ein raues Aussehen.",
+                "hu": "A csupasz szőlők más, zord külsőt kölcsönöznek a tájnak.",
+                "ro": "Viile goale conferă peisajului un aspect diferit, accidentat.",
+                "en": "The bare vines give a different, rugged look to the landscape."
+              }
+            },
+            {
+              "name": "Volastra",
+              "tip_5lang": {
+                "de": "Genießen Sie die makellose Ruhe dieses Bergdorfs.",
+                "hu": "Élvezd ennek a hegytetői falunak a tiszta csendjét.",
+                "ro": "Bucurați-vă de liniștea acestui sat de pe deal.",
+                "en": "Enjoy the pristine quietness of this hilltop village."
+              }
+            },
+            {
+              "name": "SP51 Viewpoint",
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne sorgt für spektakuläres Licht.",
+                "hu": "Az alacsony téli nap látványos megvilágítást ad a fotókhoz.",
+                "ro": "Soarele de iarnă creează o lumină spectaculoasă pentru fotografii.",
+                "en": "The low winter sun creates spectacular lighting for photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vor der Fahrt, ob winterliche Straßenarbeiten stattfinden.",
+              "Winterreifen sind am Meer selten nötig, aber oben ist Morgenfrost möglich.",
+              "Tankstellen sind rar; stellen Sie sicher, dass Sie genug Kraftstoff haben.",
+              "Nutzen Sie das einfache Parken, um in Ihrem eigenen Tempo zu erkunden."
+            ],
+            "hu": [
+              "Utazás előtt ellenőrizd a téli útkarbantartási munkálatokat.",
+              "Téli gumi ritkán kell a tengernél, de feljebb reggeli fagy előfordulhat.",
+              "A benzinkutak ritkák; győződj meg róla, hogy van elég üzemanyagod.",
+              "Használd ki a könnyű parkolást, és fedezd fel a környéket a saját tempódban."
+            ],
+            "ro": [
+              "Verificați programele de întreținere a drumurilor de iarnă înainte de călătorie.",
+              "Anvelopele de iarnă sunt rar necesare, dar înghețul e posibil mai sus.",
+              "Benzinăriile sunt rare; asigurați-vă că aveți suficient combustibil.",
+              "Profitați de parcarea ușoară pentru a explora în propriul ritm."
+            ],
+            "en": [
+              "Check for any winter road maintenance schedules before your trip.",
+              "Winter tires are rarely needed by the sea, but morning frost is possible higher up.",
+              "Gas stations are sparse; ensure you have enough fuel before exploring the hills.",
+              "Take advantage of the easy parking to explore at your own pace."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1024,6 +2160,358 @@
           "The tunnel is cool, great during heat.",
           "Watch out for station announcements."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Reisen Sie mit dem Cinque Terre Express entspannt an. Vom Bahnhof gelangen Sie durch einen malerischen Tunnel direkt ins Herz des Dorfes. Erkunden Sie den Hafen und wandern Sie zum Aussichtspunkt Punta Bonfiglio. Der Tag endet im oberen Teil des Dorfes an der Piazza und der San Lorenzo Kirche, bevor Sie bequem mit dem Zug zum nächsten Dorf weiterreisen.",
+            "hu": "Érkezzen kényelmesen a Cinque Terre Expresszel. Az állomástól egy festői alagúton keresztül juthat el közvetlenül a falu szívébe. Fedezze fel a kikötőt, és sétáljon el a Punta Bonfiglio kilátóhoz. A nap a falu felső részén, a főtéren és a Szent Lőrinc-templomnál ér véget, mielőtt vonattal továbbutazna a következő faluba.",
+            "ro": "Sosiți relaxat cu Cinque Terre Express. De la gară ajungeți printr-un tunel pitoresc direct în inima satului. Explorați portul și mergeți până la punctul de belvedere Punta Bonfiglio. Ziua se termină în partea de sus a satului, în piață și la biserica San Lorenzo, înainte de a continua călătoria cu trenul spre următorul sat.",
+            "en": "Arrive relaxed with the Cinque Terre Express. From the station, you reach the heart of the village through a scenic tunnel. Explore the harbor and walk to the Punta Bonfiglio viewpoint. The day ends in the upper part of the village at the piazza and San Lorenzo Church, before you comfortably travel on by train to the next village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Manarola",
+                "hu": "Manarola vasútállomás",
+                "ro": "Gara Manarola",
+                "en": "Manarola Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Durchqueren Sie den Tunnel vom Bahnhof zum Dorf.",
+                "hu": "Menjen át az alagúton az állomástól a faluig.",
+                "ro": "Traversați tunelul de la gară spre sat.",
+                "en": "Go through the tunnel from the station to the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Manarola",
+                "hu": "Manarola kikötője",
+                "ro": "Portul din Manarola",
+                "en": "Manarola Harbor"
+              },
+              "tip_5lang": {
+                "de": "Vom Hafen aus fahren im Sommer auch Boote.",
+                "hu": "A kikötőből nyáron hajók is indulnak.",
+                "ro": "Din port pleacă și bărci pe timpul verii.",
+                "en": "Boats also depart from the harbor in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Punta Bonfiglio",
+                "hu": "Punta Bonfiglio kilátó",
+                "ro": "Punctul de belvedere Punta Bonfiglio",
+                "en": "Punta Bonfiglio Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine Pause nach der Zugfahrt.",
+                "hu": "Tökéletes egy pihenőhöz a vonatút után.",
+                "ro": "Perfect pentru o pauză după călătoria cu trenul.",
+                "en": "Perfect for a break after the train journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Lorenzo",
+                "hu": "Szent Lőrinc-templom",
+                "ro": "Biserica San Lorenzo",
+                "en": "Church of San Lorenzo"
+              },
+              "tip_5lang": {
+                "de": "Ein steiler aber kurzer Weg bergauf.",
+                "hu": "Meredek, de rövid út felfelé.",
+                "ro": "Un drum abrupt dar scurt la deal.",
+                "en": "A steep but short walk uphill."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza Papa Innocenzo IV",
+                "hu": "IV. Ince pápa tér",
+                "ro": "Piața Papa Innocenzo IV",
+                "en": "Piazza Papa Innocenzo IV"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Atmosphäre am Dorfplatz.",
+                "hu": "Élvezze a hangulatot a falu főterén.",
+                "ro": "Bucurați-vă de atmosfera din piața satului.",
+                "en": "Enjoy the atmosphere at the village square."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Fisch-Frittüre",
+                "tip": "In der Tüte zum Mitnehmen am Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sült hal",
+                "tip": "Papírtölcsérben a kikötőnél elvitelre."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fritto Misto",
+                "tip": "La cornet, de luat la pachet în port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fried Fish",
+                "tip": "In a paper cone to go at the harbor."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Felsen am Hafen",
+                "tip": "Sich auf die Felsen setzen und dem Meer lauschen.",
+                "emoji": "🌊"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötői sziklák",
+                "tip": "Üljön le a sziklákra és hallgassa a tengert.",
+                "emoji": "🌊"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Stâncile din port",
+                "tip": "Așezați-vă pe stânci și ascultați marea.",
+                "emoji": "🌊"
+              }
+            ],
+            "en": [
+              {
+                "name": "Harbor Rocks",
+                "tip": "Sit on the rocks and listen to the sea.",
+                "emoji": "🌊"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Cinque Terre Postkarten",
+                "tip": "In den kleinen Läden im Haupttunnel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cinque Terre képeslapok",
+                "tip": "A fő alagút menti kis boltokban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vederi Cinque Terre",
+                "tip": "În micile magazine de pe tunelul principal."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cinque Terre Postcards",
+                "tip": "In the small shops along the main tunnel."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Cinque Terre Express fährt alle 20-30 Minuten.",
+              "Validieren Sie Ihr Ticket vor dem Einsteigen.",
+              "Der Tunnel ist kühl, gut bei Hitze.",
+              "Achten Sie auf die Ansagen am Bahnhof."
+            ],
+            "hu": [
+              "A Cinque Terre Express 20-30 percenként közlekedik.",
+              "Felszállás előtt érvényesítse a jegyét.",
+              "Az alagút hűvös, jól esik a hőségben.",
+              "Figyelje az állomási bemondásokat."
+            ],
+            "ro": [
+              "Cinque Terre Express circulă la fiecare 20-30 de minute.",
+              "Validați biletul înainte de îmbarcare.",
+              "Tunelul este răcoros, prinde bine pe căldură.",
+              "Fiți atenți la anunțurile din gară."
+            ],
+            "en": [
+              "The Cinque Terre Express runs every 20-30 minutes.",
+              "Validate your ticket before boarding.",
+              "The tunnel is cool, great during heat.",
+              "Watch out for station announcements."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Anreise mit dem Zug im Regen ist praktisch. Verlassen Sie den Bahnhof und gehen Sie zum Hafen. Mittags trotzen Sie dem Wetter an der Punta Bonfiglio. Suchen Sie nachmittags Schutz in San Lorenzo, bevor Sie auf dem Platz etwas Heißes trinken.",
+            "hu": "Esőben vonattal érkezni kényelmes. Lépj ki az állomásról és menj a kikötőbe megnézni a viharos tengert. Délben dacolj az idővel a Punta Bonfiglio-nál. Délután keress menedéket a San Lorenzo-ban, majd igyál valami meleget a téren.",
+            "ro": "Sosirea cu trenul pe ploaie este convenabilă. Ieșiți din stație și mergeți în port pentru marea furtunoasă. La prânz, înfruntați vremea la Punta Bonfiglio. După-amiaza, căutați adăpost la San Lorenzo, apoi beți ceva cald în piață.",
+            "en": "Arriving by train in the rain is convenient. Step out of the station and head to the harbor to see the stormy sea. Midday, brave the weather at Punta Bonfiglio. In the afternoon, seek shelter in San Lorenzo before having a warm drink at the square."
+          },
+          "stops": [
+            {
+              "name": "Manarola Railway Station",
+              "tip_5lang": {
+                "de": "Warten Sie starke Regengüsse im überdachten Bahnhofstunnel ab.",
+                "hu": "Várd ki a heves záporokat a fedett állomási alagútban.",
+                "ro": "Așteptați să treacă ploile puternice în tunelul acoperit al gării.",
+                "en": "Wait out heavy downpours in the covered station tunnel."
+              }
+            },
+            {
+              "name": "Manarola Harbor",
+              "tip_5lang": {
+                "de": "Der Tunnel vom Bahnhof führt fast direkt hierher, ideal bei Regen.",
+                "hu": "Az alagút az állomásról majdnem ide vezet, védve az esőtől.",
+                "ro": "Tunelul din gară duce aproape direct aici, minimizând ploaia.",
+                "en": "The tunnel from the station leads almost directly here, minimizing rain exposure."
+              }
+            },
+            {
+              "name": "Punta Bonfiglio Viewpoint",
+              "tip_5lang": {
+                "de": "Ein schneller Lauf den Weg hinauf bietet dramatische Aussichten.",
+                "hu": "Egy gyors séta az ösvényen drámai kilátást nyújt a tengerre.",
+                "ro": "O urcare rapidă pe potecă oferă vederi dramatice asupra mării.",
+                "en": "A quick dash up the path gives dramatic views of the stormy sea."
+              }
+            },
+            {
+              "name": "Church of San Lorenzo",
+              "tip_5lang": {
+                "de": "Ein friedlicher und trockener Zufluchtsort im oberen Teil der Stadt.",
+                "hu": "Békés és száraz menedék a város felső részén.",
+                "ro": "Un refugiu pașnic și uscat în partea superioară a orașului.",
+                "en": "A peaceful and dry refuge in the upper part of town."
+              }
+            },
+            {
+              "name": "Piazza Papa Innocenzo IV",
+              "tip_5lang": {
+                "de": "Suchen Sie sich eine Bar, um bequem auf den Zug zu warten.",
+                "hu": "Keress egy bárt a közelben, ahol kényelmesen megvárhatod a vonatot.",
+                "ro": "Găsiți un bar local pentru a aștepta confortabil trenul.",
+                "en": "Find a local bar near here to wait comfortably for your train."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge fahren regelmäßig, Sie können den Ausflug bei schlechtem Wetter abkürzen.",
+              "Der Fußgängertunnel ist ideal, um zwischen den Bereichen trocken zu bleiben.",
+              "Bringen Sie einen kompakten Regenschirm mit, der sich leicht zusammenklappen lässt.",
+              "Prüfen Sie die Trenitalia-App, da Stürme leichte Verzögerungen verursachen können."
+            ],
+            "hu": [
+              "A vonatok rendszeresen járnak, így könnyen lerövidítheted az utat, ha az idő rosszra fordul.",
+              "A fő gyalogos alagút remek hely, hogy száraz maradj az átszállások között.",
+              "Hozz magaddal egy kompakt esernyőt, amit könnyen eltehetsz felszálláskor.",
+              "Ellenőrizd a Trenitalia appot, mivel a viharok kisebb késéseket okozhatnak."
+            ],
+            "ro": [
+              "Trenurile circulă regulat, permițându-vă să scurtați excursia dacă vremea se strică.",
+              "Tunelul principal pietonal este minunat pentru a rămâne uscat.",
+              "Aduceți o umbrelă compactă care se pliază ușor la urcarea în tren.",
+              "Verificați aplicația Trenitalia, furtunile puternice pot cauza mici întârzieri."
+            ],
+            "en": [
+              "Trains run regularly, allowing you to easily cut the trip short if the weather turns bad.",
+              "The main pedestrian tunnel is a great place to stay dry while moving between sections.",
+              "Bring a compact umbrella that easily folds away when boarding the train.",
+              "Check the Trenitalia app as heavy storms can occasionally cause slight delays."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Zugfahrt ist ruhig. Kommen Sie in Manarola an und spazieren Sie morgens zum Hafen. Der Mittag bietet klare Sicht von der Punta Bonfiglio. Verbringen Sie den Nachmittag in San Lorenzo und entspannen Sie sich auf dem Platz.",
+            "hu": "A téli vonatút csendes és festői. Érkezz Manarolába és tegyél egy békés reggeli sétát a kikötőben. A dél tiszta kilátást nyújt a Punta Bonfiglio-ról. A délutánt töltsd a San Lorenzo megcsodálásával és a téren pihenéssel.",
+            "ro": "Călătoria de iarnă cu trenul este liniștită. Ajungeți în Manarola și faceți o plimbare spre port. Prânzul oferă priveliști clare de la Punta Bonfiglio. Petreceți după-amiaza admirând Biserica San Lorenzo și relaxându-vă în piață.",
+            "en": "The winter train journey is quiet and scenic. Arrive in Manarola and take a peaceful morning stroll to the harbor. Midday offers clear, bright views from Punta Bonfiglio. Spend the afternoon admiring the Church of San Lorenzo and relaxing."
+          },
+          "stops": [
+            {
+              "name": "Manarola Railway Station",
+              "tip_5lang": {
+                "de": "Der Bahnsteig kann windig sein, ziehen Sie sich beim Warten warm an.",
+                "hu": "A peron szeles lehet, öltözz melegen várakozás közben.",
+                "ro": "Peronul poate fi bătut de vânt, îmbrăcați-vă gros în timp ce așteptați.",
+                "en": "The platform can be windy, dress warmly while waiting."
+              }
+            },
+            {
+              "name": "Manarola Harbor",
+              "tip_5lang": {
+                "de": "Genießen Sie den seltenen Anblick des Hafens ohne die Sommerboote.",
+                "hu": "Élvezd a kikötő ritka látványát a nyári hajók nélkül.",
+                "ro": "Bucurați-vă de priveliștea rară a portului fără bărcile de vară.",
+                "en": "Enjoy the rare sight of the harbor without the summer boats."
+              }
+            },
+            {
+              "name": "Punta Bonfiglio Viewpoint",
+              "tip_5lang": {
+                "de": "Perfekter Ort für die winterliche Mittagssonne.",
+                "hu": "Tökéletes hely a téli déli napsütés élvezetére.",
+                "ro": "Locul perfect pentru soarele de iarnă de la amiază.",
+                "en": "Perfect spot for midday winter sunshine."
+              }
+            },
+            {
+              "name": "Church of San Lorenzo",
+              "tip_5lang": {
+                "de": "Der Aufstieg wird Sie an einem kühlen Tag warm halten.",
+                "hu": "A felfelé vezető út melegen tart egy hűvös napon.",
+                "ro": "Urcarea vă va ține de cald într-o zi rece.",
+                "en": "The climb up will keep you warm on a chilly day."
+              }
+            },
+            {
+              "name": "Piazza Papa Innocenzo IV",
+              "tip_5lang": {
+                "de": "Genießen Sie hier einen ruhigen Kaffee; im Winter ist es wunderbar friedlich.",
+                "hu": "Igyál meg itt egy kávét, télen csodálatosan nyugodt.",
+                "ro": "Savurați o cafea liniștită aici; este minunat de senin iarna.",
+                "en": "Enjoy a quiet coffee here; it’s wonderfully serene in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Zugfahrpläne könnten im Winter etwas reduziert sein, prüfen Sie die Zeiten.",
+              "Die Frequenz des Cinque Terre Express ist geringer, planen Sie Ihre Abfahrtszeit.",
+              "Bahnhofscafés könnten geschlossen sein, bringen Sie ein Heißgetränk in der Thermoskanne mit.",
+              "Der Winter bietet das entspannteste Zugerlebnis mit vielen Sitzplätzen."
+            ],
+            "hu": [
+              "A vonatmenetrendek kissé ritkábbak lehetnek télen, előre ellenőrizd az időpontokat.",
+              "A Cinque Terre Express járatsűrűsége kisebb, tervezd meg az indulási időt.",
+              "Az állomási kávézók zárva lehetnek, hozz magaddal forró italt egy termoszban.",
+              "A tél kínálja a legpihentetőbb vonatos élményt rengeteg ülőhellyel."
+            ],
+            "ro": [
+              "Orarele trenurilor pot fi reduse iarna, verificați orele în avans.",
+              "Frecvența Cinque Terre Express este mai mică, planificați-vă ora de plecare.",
+              "Cafenelele din gară pot fi închise, aduceți o băutură caldă într-un termos.",
+              "Iarna oferă cea mai relaxată experiență cu trenul, cu multe locuri pe scaune."
+            ],
+            "en": [
+              "Train schedules might be slightly reduced in winter, check times in advance.",
+              "The Cinque Terre Express frequency is lower, so plan your departure time.",
+              "Station cafes might be closed, so bring a hot drink in a thermos.",
+              "Winter offers the most relaxed train experience with plenty of seating."
+            ]
+          }
+        }
       }
     }
   },

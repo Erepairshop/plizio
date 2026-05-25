@@ -343,6 +343,482 @@
           "The sunset is most photogenic at Porto Vecchio.",
           "Public toilets are located near the parking lot by the Castle."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen von Lazise auf der Piazza Vittorio Emanuele, wo Sie das geschäftige Treiben bei einem Kaffee beobachten können. Ein kurzer Spaziergang führt Sie zum Castello Scaligero, dessen Mauern die reiche Geschichte des Gardasees erzählen. Mittags erkunden Sie die alten Stadtmauern und die romanische Kirche San Nicolò, bevor Sie die Dogana Veneta besuchen. Am Nachmittag schlendern Sie durch den alten Hafen und beenden den Tag entspannt auf dem Lungolago Marconi, während die Sonne langsam hinter den Bergen untergeht.",
+            "hu": "Kezdje a napot Lazise szívében, a Piazza Vittorio Emanuele téren, ahol egy kávé mellett figyelheti a nyüzsgést. Egy rövid séta elvezeti a Castello Scaligerohoz, amelynek falai a Garda-tó gazdag történelméről mesélnek. Délben fedezze fel a régi városfalakat és a román stílusú San Nicolò templomot, mielőtt meglátogatná a Dogana Venetát. Délután sétáljon végig a régi kikötőben, és zárja a napot pihentetően a Lungolago Marconin, miközben a nap lassan lenyugszik a hegyek mögött.",
+            "ro": "Începeți ziua în inima localității Lazise, în Piazza Vittorio Emanuele, unde puteți observa agitația la o cafea. O scurtă plimbare vă duce la Castello Scaligero, ale cărui ziduri spun istoria bogată a Lacului Garda. La prânz, explorați vechile ziduri ale orașului și biserica romanică San Nicolò, înainte de a vizita Dogana Veneta. După-amiaza, plimbați-vă prin portul vechi și încheiați ziua relaxându-vă pe Lungolago Marconi, în timp ce soarele apune încet după munți.",
+            "en": "Start your day in the heart of Lazise at Piazza Vittorio Emanuele, where you can watch the hustle and bustle over a coffee. A short walk takes you to the Scaliger Castle, whose walls tell the rich history of Lake Garda. At noon, explore the old city walls and the Romanesque Church of San Nicolò before visiting the Dogana Veneta. In the afternoon, stroll through the old port and end the day relaxingly on Lungolago Marconi as the sun slowly sets behind the mountains."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza Vittorio Emanuele",
+                "hu": "Piazza Vittorio Emanuele",
+                "ro": "Piazza Vittorio Emanuele",
+                "en": "Piazza Vittorio Emanuele"
+              },
+              "tip_5lang": {
+                "de": "Frühstücken Sie hier mit Blick auf den Hafen.",
+                "hu": "Reggelizzen itt a kikötőre néző teraszok egyikén.",
+                "ro": "Luați micul dejun aici, la una dintre terasele cu vedere la port.",
+                "en": "Have breakfast here at one of the terraces overlooking the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Scaligero",
+                "hu": "Castello Scaligero",
+                "ro": "Castello Scaligero",
+                "en": "Scaliger Castle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die imposanten Mauern von außen.",
+                "hu": "Csodálja meg az impozáns falakat kívülről.",
+                "ro": "Admirați zidurile impunătoare din exterior.",
+                "en": "Admire the imposing walls from the outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Mura di Lazise",
+                "hu": "Lazise városfalai",
+                "ro": "Zidurile din Lazise",
+                "en": "Walls of Lazise"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie entlang der gut erhaltenen Wehranlagen.",
+                "hu": "Sétáljon végig a jól megőrzött védművek mentén.",
+                "ro": "Plimbați-vă de-a lungul fortificațiilor bine conservate.",
+                "en": "Walk along the well-preserved defensive structures."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Nicolò",
+                "hu": "San Nicolò templom",
+                "ro": "Biserica San Nicolò",
+                "en": "Church of San Nicolò"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die romanischen Fresken im Inneren.",
+                "hu": "Tekintse meg a belső tér román stílusú freskóit.",
+                "ro": "Vizitați frescele romanice din interior.",
+                "en": "Visit the Romanesque frescoes inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Dogana Veneta",
+                "hu": "Dogana Veneta",
+                "ro": "Dogana Veneta",
+                "en": "Dogana Veneta"
+              },
+              "tip_5lang": {
+                "de": "Ein historisches Gebäude direkt am Wasser.",
+                "hu": "Történelmi épület közvetlenül a vízparton.",
+                "ro": "O clădire istorică situată chiar pe malul apei.",
+                "en": "A historic building located right on the waterfront."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto Vecchio",
+                "hu": "Régi kikötő",
+                "ro": "Portul Vechi",
+                "en": "Old Port"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für ein Eis am Nachmittag.",
+                "hu": "Tökéletes hely egy délutáni fagylaltozáshoz.",
+                "ro": "Perfect pentru o înghețată după-amiaza.",
+                "en": "Perfect for an afternoon ice cream."
+              }
+            },
+            {
+              "name": {
+                "de": "Lungolago Marconi",
+                "hu": "Lungolago Marconi",
+                "ro": "Lungolago Marconi",
+                "en": "Lungolago Marconi"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang am Seeufer.",
+                "hu": "Élvezze a naplementét a tóparti sétányon.",
+                "ro": "Bucurați-vă de apusul soarelui pe faleză.",
+                "en": "Enjoy the sunset on the lakeside promenade."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bigoli con le Sarde",
+                "tip": "Probieren Sie diese traditionelle Pasta mit See-Sardinen im Ristorante Classique."
+              },
+              {
+                "name": "Lavarello",
+                "tip": "Frischer Felchen aus dem See, am besten gegrillt in der Trattoria Oreste."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bigoli con le Sarde",
+                "tip": "Kóstolja meg ezt a hagyományos tésztaételt tavi szardíniával a Ristorante Classique-ban."
+              },
+              {
+                "name": "Lavarello",
+                "tip": "Friss tavi maréna, legjobb grillezve a Trattoria Oreste-ben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bigoli con le Sarde",
+                "tip": "Încercați aceste paste tradiționale cu sardine de lac la Ristorante Classique."
+              },
+              {
+                "name": "Lavarello",
+                "tip": "Coregon proaspăt din lac, cel mai bine preparat la grătar la Trattoria Oreste."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bigoli con le Sarde",
+                "tip": "Try this traditional pasta with lake sardines at Ristorante Classique."
+              },
+              {
+                "name": "Lavarello",
+                "tip": "Fresh whitefish from the lake, best grilled at Trattoria Oreste."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hinterer Lungolago",
+                "tip": "Ein ruhigerer Abschnitt der Uferpromenade Richtung Süden.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Mura di Lazise",
+                "tip": "Schatten und Ruhe entlang der alten Befestigungsanlagen.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Hátsó Lungolago",
+                "tip": "A tóparti sétány csendesebb szakasza déli irányban.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Lazise városfalai",
+                "tip": "Árnyék és nyugalom a régi erődítmények mentén.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Lungolago posterior",
+                "tip": "O secțiune mai liniștită a falezei, spre sud.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Zidurile din Lazise",
+                "tip": "Umbră și liniște de-a lungul vechilor fortificații.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Back Lungolago",
+                "tip": "A quieter section of the lakeside promenade towards the south.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Walls of Lazise",
+                "tip": "Shade and peace along the old fortifications.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Wochenmarkt",
+                "tip": "Mittwochs vormittags gibt es lokale Spezialitäten und Lederwaren."
+              },
+              {
+                "name": "Boutiquen in der Altstadt",
+                "tip": "Kleine Läden für italienische Mode und Olivenölprodukte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Heti piac",
+                "tip": "Szerda délelőttönként helyi különlegességek és bőráruk kaphatók."
+              },
+              {
+                "name": "Óvárosi butikok",
+                "tip": "Kis üzletek olasz divattal és olívaolaj-termékekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața săptămânală",
+                "tip": "Miercuri dimineața găsiți specialități locale și articole din piele."
+              },
+              {
+                "name": "Boutique-uri în orașul vechi",
+                "tip": "Magazine mici cu modă italiană și produse din ulei de măsline."
+              }
+            ],
+            "en": [
+              {
+                "name": "Weekly Market",
+                "tip": "On Wednesday mornings for local specialties and leather goods."
+              },
+              {
+                "name": "Old Town Boutiques",
+                "tip": "Small shops for Italian fashion and olive oil products."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in der Altstadt.",
+              "Besuchen Sie die Stadt am frühen Morgen, um die Massen zu vermeiden.",
+              "Der Sonnenuntergang ist am Porto Vecchio am fotogensten.",
+              "Öffentliche Toiletten befinden sich in der Nähe des Parkplatzes am Castello."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt az óváros macskaköves utcáihoz.",
+              "Érkezzen kora reggel, hogy elkerülje a tömeget.",
+              "A naplemente a Porto Vecchionál a legfotogénebb.",
+              "Nyilvános WC-k a Castello melletti parkoló közelében találhatók."
+            ],
+            "ro": [
+              "Purtați pantofi confortabili pentru străzile pietruite din orașul vechi.",
+              "Vizitați orașul dimineața devreme pentru a evita aglomerația.",
+              "Apusul este cel mai fotogenic în Porto Vecchio.",
+              "Toaletele publice se află lângă parcarea de la Castello."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestone streets in the old town.",
+              "Visit the city early in the morning to avoid the crowds.",
+              "The sunset is most photogenic at Porto Vecchio.",
+              "Public toilets are located near the parking lot by the Castle."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Piazza Vittorio Emanuele, wo die umliegenden Cafés Schutz vor dem ersten Regen bieten. Der Besuch des Scaliger-Schlosses ist ideal, da die massiven Mauern und Innenräume trocken bleiben. Mittags bietet die Kirche San Nicolò einen friedlichen und trockenen Rückzugsort. Den Nachmittag verbringen wir in der Dogana Veneta, die heute als Veranstaltungsort und Museum dient. Ein kurzer Spaziergang am Hafen zeigt den Gardasee in einer mystischen, nebligen Atmosphäre, bevor der Tag in einem gemütlichen Restaurant endet.",
+            "hu": "A reggel a Piazza Vittorio Emanuele téren indul, ahol a kávézók ereszei alatt figyelhetjük az esőt. A Scaliger-vár meglátogatása tökéletes esős program, hiszen a belső terek védelmet nyújtanak. Délben a San Nicolò templom csendje és fedett terei fogadnak minket. A délutánt a Dogana Veneta épületében töltjük, amely kulturális központként működik. Egy rövid séta a kikötőben a tó ködös, drámai arcát mutatja meg, majd az estét egy hangulatos helyi trattoriában zárjuk.",
+            "ro": "Dimineața începe în Piazza Vittorio Emanuele, unde cafenelele din jur oferă adăpost împotriva primei ploi. Vizitarea Castelului Scaliger este ideală, deoarece zidurile masive și spațiile interioare rămân uscate. La prânz, Biserica San Nicolò oferă un refugiu liniștit și ferit de ploaie. După-amiaza o petrecem în Dogana Veneta, care astăzi servește ca spațiu de evenimente și muzeu. O scurtă plimbare în port dezvăluie Lacul Garda într-o atmosferă mistică și cețoasă, înainte de a încheia ziua într-un restaurant primitor.",
+            "en": "The morning starts at Piazza Vittorio Emanuele, where surrounding cafes offer shelter from the early rain. Visiting the Scaliger Castle is ideal as the massive walls and interior spaces keep you dry. At noon, the Church of San Nicolò provides a peaceful and dry retreat. The afternoon is spent inside Dogana Veneta, which today serves as an event venue and museum. A short walk by the port shows Lake Garda in a mystical, misty atmosphere before the day ends in a cozy local restaurant."
+          },
+          "stops": [
+            {
+              "name": "Piazza Vittorio Emanuele",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Markisen der Cafés, um trocken zu bleiben.",
+                "hu": "Használja a kávézók előtetőit, hogy száraz maradjon.",
+                "ro": "Folosiți copertinele cafenelelor pentru a rămâne uscat.",
+                "en": "Use the cafe awnings to stay dry while people-watching."
+              }
+            },
+            {
+              "name": "Scaliger Castle",
+              "tip_5lang": {
+                "de": "Die Innenräume bieten hervorragenden Schutz vor Regenschauern.",
+                "hu": "A belső terek kiváló védelmet nyújtanak a záporok elől.",
+                "ro": "Spațiile interioare oferă protecție excelentă împotriva ploii.",
+                "en": "The interior rooms offer excellent protection from rain showers."
+              }
+            },
+            {
+              "name": "Walls of Lazise",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster entlang der Stadtmauern.",
+                "hu": "Vigyázzon a vizes macskakövön a városfalak mentén.",
+                "ro": "Atenție la pavajul umed de-a lungul zidurilor orașului.",
+                "en": "Be careful on the wet cobblestones along the town walls."
+              }
+            },
+            {
+              "name": "Church of San Nicolò",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um einen starken Regenguss abzuwarten.",
+                "hu": "Csendes hely egy nagyobb zápor átvészelésére.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "A quiet place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Dogana Veneta",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine längere Indoor-Besichtigung.",
+                "hu": "Tökéletes helyszín egy hosszabb beltéri látogatáshoz.",
+                "ro": "Locul perfect pentru o vizită interioară prelungită.",
+                "en": "Perfect spot for an extended indoor visit out of the wind."
+              }
+            },
+            {
+              "name": "Old Port",
+              "tip_5lang": {
+                "de": "Genießen Sie die melancholische Aussicht auf den See unter einem Schirm.",
+                "hu": "Élvezze a melankolikus kilátást a tóra egy esernyő alatt.",
+                "ro": "Bucurați-vă de priveliștea melancolică a lacului sub o umbrelă.",
+                "en": "Enjoy the melancholic lake view from under an umbrella."
+              }
+            },
+            {
+              "name": "Lungolago Marconi",
+              "tip_5lang": {
+                "de": "Die Spiegelungen auf dem nassen Boden sind ein tolles Fotomotiv.",
+                "hu": "A vizes kövezeten megcsillanó fények remek fotótémát adnak.",
+                "ro": "Reflexiile pe pavajul umed sunt motive fotografice superbe.",
+                "en": "The reflections on the wet pavement make for great photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster Pfützen bilden kann.",
+              "Die Dogana Veneta bietet oft Ausstellungen, die ideal für Regentage sind.",
+              "Nutzen Sie die Zeit für eine ausgedehnte Mittagspause in einer Pizzeria.",
+              "Ein großer Schirm ist bei See-Winden stabiler als ein kleiner Knirps.",
+              "Der Regen verleiht dem Gardasee eine ganz besondere, ruhige Ästhetik."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskaköveken megállhat a víz.",
+              "A Dogana Veneta gyakran ad otthont kiállításoknak, ami ideális esőben.",
+              "Használja ki az időt egy hosszabb ebédszünetre egy helyi pizzériában.",
+              "Egy nagyobb esernyő stabilabb a tavi szélben, mint az összecsukható verziók.",
+              "Az eső különleges, nyugodt esztétikát kölcsönöz a Garda-tónak."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți pe pavaj.",
+              "Dogana Veneta găzduiește adesea expoziții ideale pentru zilele ploioase.",
+              "Profitați de timp pentru o pauză de prânz prelungită într-o pizzerie.",
+              "O umbrelă mare este mai stabilă în vântul de pe lac decât una mică.",
+              "Ploaia oferă Lacului Garda o estetică specială și foarte liniștită."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles can form quickly on the uneven stones.",
+              "Dogana Veneta often hosts exhibitions, perfect for rainy day schedules.",
+              "Use the weather as an excuse for a long, relaxed lunch in a trattoria.",
+              "A large, sturdy umbrella is better against lake winds than a foldable one.",
+              "Rain gives Lake Garda a unique, serene, and almost poetic aesthetic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Lazise beginnt mit der frischen Brise vom See am Hauptplatz. Die Besteigung des Scaliger-Schlosses bietet eine weite Sicht über die schneebedeckten Gipfel in der Ferne. Mittags wärmen wir uns in der geschichtsträchtigen Kirche San Nicolò auf. Der Nachmittag führt uns zur Dogana Veneta, wo oft festliche Dekorationen zu finden sind. Der Spaziergang am Lungolago Marconi endet pünktlich zum frühen Sonnenuntergang gegen 17:00 Uhr, wenn die Lichter der Stadt den Hafen in ein warmes Gold tauchen.",
+            "hu": "A tiszta téli reggel Lazisében friss tavi szellővel indul a főtéren. A Scaliger-vár tornyaiból ilyenkor látni a távoli, hófödte csúcsokat is. Délben a történelmi San Nicolò templom békéje nyújt testi-lelki felmelegedést. A délutáni séta a Dogana Veneta felé vezet, ahol gyakran ünnepi díszítéssel találkozhatunk. A Lungolago Marconi sétányon tett látogatás pont a korai, 17:00 óra körüli naplementére ér véget, amikor a város fényei aranyba borítják a kikötőt.",
+            "ro": "O dimineață senină de iarnă în Lazise începe cu briza proaspătă a lacului în piața centrală. Urcarea în Castelul Scaliger oferă o vedere largă asupra vârfurilor înzăpezite din depărtare. La prânz, ne încălzim în istorica Biserică San Nicolò. După-amiaza ne poartă spre Dogana Veneta, unde găsim adesea decorațiuni festive. Plimbarea pe Lungolago Marconi se încheie exact la apusul timpuriu, în jurul orei 17:00, când luminile orașului scaldă portul într-un auriu cald.",
+            "en": "A crisp winter morning in Lazise starts with a fresh lake breeze at the main square. Climbing the Scaliger Castle offers clear views of the distant snow-capped peaks. At noon, we warm up inside the historic Church of San Nicolò. The afternoon leads us to Dogana Veneta, which is often adorned with festive decorations. The walk along Lungolago Marconi concludes just in time for the early sunset around 17:00, when the city lights bathe the old port in warm gold."
+          },
+          "stops": [
+            {
+              "name": "Piazza Vittorio Emanuele",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Espresso in einer beheizten Bar.",
+                "hu": "Élvezzen egy forró eszpresszót egy fűtött bárban.",
+                "ro": "Savurați un espresso fierbinte într-un bar încălzit.",
+                "en": "Enjoy a hot espresso in a heated bar overlooking the square."
+              }
+            },
+            {
+              "name": "Scaliger Castle",
+              "tip_5lang": {
+                "de": "Die Wintersonne bringt die Zinnen des Schlosses zum Leuchten.",
+                "hu": "A téli napsütés gyönyörűen megvilágítja a vár bástyáit.",
+                "ro": "Soarele de iarnă luminează superb crenelurile castelului.",
+                "en": "Winter sun makes the castle battlements glow beautifully."
+              }
+            },
+            {
+              "name": "Walls of Lazise",
+              "tip_5lang": {
+                "de": "Die Mauern schützen gut vor dem kalten Nordwind.",
+                "hu": "A városfalak jól védenek a hideg északi szél ellen.",
+                "ro": "Zidurile oferă o bună protecție împotriva vântului rece de nord.",
+                "en": "The high walls provide good shelter from the cold north wind."
+              }
+            },
+            {
+              "name": "Church of San Nicolò",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Krippe, die hier oft im Winter ausgestellt ist.",
+                "hu": "Csodálja meg a betlehemet, amelyet télen gyakran kiállítanak.",
+                "ro": "Admirați ieslea de Crăciun, expusă adesea aici în timpul iernii.",
+                "en": "Admire the nativity scene often displayed here in winter."
+              }
+            },
+            {
+              "name": "Dogana Veneta",
+              "tip_5lang": {
+                "de": "Achten Sie auf lokale Winterveranstaltungen in der Halle.",
+                "hu": "Keressen helyi téli eseményeket az épület nagycsarnokában.",
+                "ro": "Căutați evenimente locale de iarnă în sala principală.",
+                "en": "Look for local winter events or markets held inside the hall."
+              }
+            },
+            {
+              "name": "Old Port",
+              "tip_5lang": {
+                "de": "Die Fischerboote wirken im klaren Winterlicht fast wie gemalt.",
+                "hu": "A halászhajók a tiszta téli fényben szinte festményszerűek.",
+                "ro": "Bărcile de pescuit par pictate în lumina clară de iarnă.",
+                "en": "The fishing boats look like a painting in the clear winter light."
+              }
+            },
+            {
+              "name": "Lungolago Marconi",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang über dem See ist im Winter besonders farbenfroh.",
+                "hu": "A naplemente a tó felett télen különösen színpompás.",
+                "ro": "Apusul de soare peste lac este extrem de colorat în timpul iernii.",
+                "en": "Sunset over the lake is particularly colorful during winter months."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Kleidung nach dem Zwiebelprinzip wegen der Seebrise.",
+              "Der Sonnenuntergang findet im Dezember bereits gegen 16:30-17:00 statt.",
+              "Probieren Sie Panettone oder Pandoro in den lokalen Konditoreien.",
+              "Die Stadt ist im Winter viel ruhiger und authentischer als im Sommer.",
+              "Handschuhe sind bei einem Spaziergang am Ufer unbedingt notwendig."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a tavi szél miatt.",
+              "A naplemente decemberben már 16:30 és 17:00 között bekövetkezik.",
+              "Kóstolja meg a Panettone-t a helyi cukrászdákban.",
+              "A város télen sokkal csendesebb és autentikusabb, mint nyáron.",
+              "A parton tett sétához a kesztyű mindenképpen ajánlott."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi din cauza brizei reci a lacului.",
+              "Apusul de soare are loc în decembrie deja în jurul orei 16:30-17:00.",
+              "Gustați Panettone sau Pandoro în cofetăriile locale.",
+              "Orașul este mult mai liniștit și autentic iarna decât vara.",
+              "Mănușile sunt absolut necesare pentru o plimbare pe malul apei."
+            ],
+            "en": [
+              "Dress in layers to adjust to the biting lake breeze and indoor heating.",
+              "Be aware that sunset occurs as early as 16:30-17:00 in December.",
+              "Try traditional Panettone or Pandoro in local pastry shops.",
+              "The town is much quieter and feels more authentic in the winter season.",
+              "Gloves are essential if you plan to walk along the exposed waterfront."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -605,6 +1081,398 @@
           "Rent e-bikes for longer excursions into the hinterland.",
           "Watch out for strong winds by the lake."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Lazise auf zwei Rädern! Beginnen Sie am Castello Scaligero und folgen Sie der Stadtmauer nach Norden. Eine kurze Fahrt bringt Sie zur Villa Pergolana, wo Sie die elegante Architektur bewundern können. Zur Mittagszeit erreichen Sie den Lungolago Marconi für eine ausgiebige Pause am See. Am Nachmittag radeln Sie zurück zum Porto Vecchio und beenden die Tour gemütlich auf der Piazza Vittorio Emanuele, während Sie den Tag Revue passieren lassen.",
+            "hu": "Fedezze fel Lazisét két keréken! Kezdjen a Castello Scaligeronál, és kövesse a városfalat észak felé. Egy rövid út elviszi a Villa Pergolana-hoz, ahol megcsodálhatja az elegáns építészetet. Ebédidőben érje el a Lungolago Marconit egy bőséges tavi pihenőre. Délután tekerjen vissza a Porto Vecchio-hoz, és zárja a túrát kényelmesen a Piazza Vittorio Emanuele-n, miközben felidézi a nap eseményeit.",
+            "ro": "Descoperiți Lazise pe două roți! Începeți la Castello Scaligero și urmați zidul orașului spre nord. O scurtă plimbare vă duce la Villa Pergolana, unde puteți admira arhitectura elegantă. La prânz, ajungeți la Lungolago Marconi pentru o pauză lungă pe malul lacului. După-amiaza, pedalați înapoi spre Porto Vecchio și încheiați turul relaxat în Piazza Vittorio Emanuele, trecând în revistă evenimentele zilei.",
+            "en": "Discover Lazise on two wheels! Start at the Scaliger Castle and follow the city walls north. A short ride takes you to Villa Pergolana, where you can admire the elegant architecture. At lunchtime, reach Lungolago Marconi for an extensive break by the lake. In the afternoon, cycle back to Porto Vecchio and end the tour comfortably at Piazza Vittorio Emanuele while reflecting on the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello Scaligero",
+                "hu": "Castello Scaligero",
+                "ro": "Castello Scaligero",
+                "en": "Scaliger Castle"
+              },
+              "tip_5lang": {
+                "de": "Fahrräder vor dem Eingang abstellen.",
+                "hu": "Hagyja a kerékpárokat a bejárat előtt.",
+                "ro": "Lăsați bicicletele în fața intrării.",
+                "en": "Leave bikes outside the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Mura di Lazise",
+                "hu": "Lazise városfalai",
+                "ro": "Zidurile din Lazise",
+                "en": "Walls of Lazise"
+              },
+              "tip_5lang": {
+                "de": "Radweg entlang der Stadtmauer nutzen.",
+                "hu": "Használja a városfal menti kerékpárutat.",
+                "ro": "Folosiți pista de biciclete de-a lungul zidului.",
+                "en": "Use the bike path along the city wall."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Pergolana",
+                "hu": "Villa Pergolana",
+                "ro": "Villa Pergolana",
+                "en": "Villa Pergolana"
+              },
+              "tip_5lang": {
+                "de": "Schöne Villa im Norden von Lazise.",
+                "hu": "Gyönyörű villa Lazise északi részén.",
+                "ro": "O vilă frumoasă în nordul localității Lazise.",
+                "en": "A beautiful villa in the north of Lazise."
+              }
+            },
+            {
+              "name": {
+                "de": "Lungolago Marconi",
+                "hu": "Lungolago Marconi",
+                "ro": "Lungolago Marconi",
+                "en": "Lungolago Marconi"
+              },
+              "tip_5lang": {
+                "de": "Achtung: Im Zentrum Rad schieben!",
+                "hu": "Figyelem: a központban tolja a biciklit!",
+                "ro": "Atenție: în centru mergeți pe lângă bicicletă!",
+                "en": "Note: Walk your bike in the center!"
+              }
+            },
+            {
+              "name": {
+                "de": "Porto Vecchio",
+                "hu": "Régi kikötő",
+                "ro": "Portul Vechi",
+                "en": "Old Port"
+              },
+              "tip_5lang": {
+                "de": "Sichere Abstellplätze in der Nähe.",
+                "hu": "Biztonságos tárolók a közelben.",
+                "ro": "Locuri de parcare sigure în apropiere.",
+                "en": "Safe bike racks nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza Vittorio Emanuele",
+                "hu": "Piazza Vittorio Emanuele",
+                "ro": "Piazza Vittorio Emanuele",
+                "en": "Piazza Vittorio Emanuele"
+              },
+              "tip_5lang": {
+                "de": "Abschlussgetränk am Ende der Tour.",
+                "hu": "Záróital a túra végén.",
+                "ro": "O băutură la finalul turului.",
+                "en": "Final drink at the end of the tour."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Aperol Spritz",
+                "tip": "Der Klassiker nach einer Radtour in der Bar Porto."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Aperol Spritz",
+                "tip": "Klasszikus ital a biciklitúra után a Bar Portóban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Aperol Spritz",
+                "tip": "Clasicul de după tura cu bicicleta, la Bar Porto."
+              }
+            ],
+            "en": [
+              {
+                "name": "Aperol Spritz",
+                "tip": "The classic after a bike ride at Bar Porto."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Park Villa Pergolana",
+                "tip": "Ruhige Gärten abseits des Trubels.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Villa Pergolana parkja",
+                "tip": "Csendes kertek a tömegtől távol.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul Villa Pergolana",
+                "tip": "Grădini liniștite, departe de agitație.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Villa Pergolana Park",
+                "tip": "Quiet gardens away from the crowds.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Ölmühle Paolo Bonomelli",
+                "tip": "Exzellentes Olivenöl direkt vom Erzeuger."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Paolo Bonomelli olajmalom",
+                "tip": "Kiváló olívaolaj közvetlenül a termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Moara de ulei Paolo Bonomelli",
+                "tip": "Ulei de măsline excelent direct de la producător."
+              }
+            ],
+            "en": [
+              {
+                "name": "Paolo Bonomelli Oil Mill",
+                "tip": "Excellent olive oil directly from the producer."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie den Radweg 'Ciclabile del Garda'.",
+              "In der Fußgängerzone herrscht strenges Fahrverbot.",
+              "Mieten Sie E-Bikes für längere Ausflüge ins Hinterland.",
+              "Vorsicht bei starkem Wind am Seeufer."
+            ],
+            "hu": [
+              "Használja a 'Ciclabile del Garda' kerékpárutat.",
+              "A sétálóövezetben szigorúan tilos kerékpározni.",
+              "Béreljen elektromos kerékpárt a hátországi kirándulásokhoz.",
+              "Vigyázzon az erős széllel a tóparton."
+            ],
+            "ro": [
+              "Folosiți pista de biciclete 'Ciclabile del Garda'.",
+              "În zona pietonală ciclismul este strict interzis.",
+              "Închiriați biciclete electrice pentru excursii mai lungi în hinterland.",
+              "Atenție la vântul puternic pe malul lacului."
+            ],
+            "en": [
+              "Use the 'Ciclabile del Garda' bike path.",
+              "Bicycles are strictly forbidden in the pedestrian zone.",
+              "Rent e-bikes for longer excursions into the hinterland.",
+              "Watch out for strong winds by the lake."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt am Scaliger-Schloss, wo wir die erste Regenpause abwarten. Entlang der Stadtmauern fahren wir vorsichtig auf dem nassen Grund. Ein kurzer Abstecher führt zur Villa Pergolana, deren Garten im Regen besonders sattgrün leuchtet. Mittags erreichen wir den Lungolago Marconi, wo wir das Fahrrad sicher abstellen und einkehren. Den Abschluss bildet der Alte Hafen und der Piazza Vittorio Emanuele, wobei wir stets auf rutschige Kurven achten.",
+            "hu": "A kerékpártúra a Scaliger-várnál indul, ahol megvárjuk az első esőszünetet. A városfalak mentén óvatosan haladunk a vizes talajon. Egy rövid kitérő a Villa Pergolana felé vezet, melynek kertje az esőben különösen élénkzöld. Délben elérjük a Lungolago Marconit, ahol biztonságban lezárjuk a bicikliket és betérünk valahová. A túrát a Régi Kikötő és a Piazza Vittorio Emanuele zárja, ügyelve a csúszós kanyarokra.",
+            "ro": "Turul cu bicicleta începe la Castelul Scaliger, unde așteptăm prima pauză de ploaie. De-a lungul zidurilor orașului pedalăm cu atenție pe solul umed. O scurtă abatere ne duce la Villa Pergolana, a cărei grădină strălucește într-un verde intens în ploaie. La prânz ajungem la Lungolago Marconi, unde parcăm bicicleta în siguranță și luăm masa. Finalul aparține Portului Vechi și Pieței Vittorio Emanuele, având grijă la curbele alunecoase.",
+            "en": "The bike tour starts at Scaliger Castle, where we wait for the first break in the rain. Along the city walls, we cycle carefully on the wet ground. A short detour leads to Villa Pergolana, whose garden glows in a vibrant green under the rain. At noon, we reach Lungolago Marconi, where we park the bikes securely and find a place to eat. The tour ends at the Old Port and Piazza Vittorio Emanuele, always watching out for slippery turns."
+          },
+          "stops": [
+            {
+              "name": "Scaliger Castle",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Torbögen unter, wenn es stark regnet.",
+                "hu": "Állítsa a biciklit a kapualjak alá, ha erősen esik.",
+                "ro": "Parcați bicicleta sub arcade dacă plouă torențial.",
+                "en": "Park your bike under the archways if the rain gets too heavy."
+              }
+            },
+            {
+              "name": "Walls of Lazise",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Bremsmanöver auf dem nassen Asphalt.",
+                "hu": "Kerülje az erős fékezést a vizes aszfalton.",
+                "ro": "Evitați frânările bruște pe asfaltul umed.",
+                "en": "Avoid sharp braking on the wet asphalt along the walls."
+              }
+            },
+            {
+              "name": "Villa Pergolana",
+              "tip_5lang": {
+                "de": "Der Radweg hierher ist bei Regen oft weniger befahren.",
+                "hu": "A kerékpárút idefelé esőben gyakran kevésbé forgalmas.",
+                "ro": "Pista de biciclete spre vilă este mai puțin circulată pe ploaie.",
+                "en": "The bike path here is often less crowded when it rains."
+              }
+            },
+            {
+              "name": "Lungolago Marconi",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger mit Schirmen, die Ihre Sicht einschränken.",
+                "hu": "Figyeljen az esernyős gyalogosokra, akik korlátozzák a kilátást.",
+                "ro": "Atenție la pietonii cu umbrele care vă pot bloca vizibilitatea.",
+                "en": "Watch out for pedestrians with umbrellas blocking your view."
+              }
+            },
+            {
+              "name": "Old Port",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für ein Foto, bevor es wieder ins Trockene geht.",
+                "hu": "Rövid megálló egy fotóra, mielőtt újra fedett helyre megy.",
+                "ro": "O scurtă oprire pentru o poză înainte de a reveni la adăpost.",
+                "en": "A quick stop for a photo before heading back to cover."
+              }
+            },
+            {
+              "name": "Piazza Vittorio Emanuele",
+              "tip_5lang": {
+                "de": "Fahren Sie im Ortskern besonders langsam, da Steinplatten glatt sind.",
+                "hu": "A központban haladjon lassan, mert a kőlapok csúszósak.",
+                "ro": "Pedalați foarte încet în centru, plăcile de piatră sunt alunecoase.",
+                "en": "Ride very slowly in the center as the stone slabs get slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Überschuhen wird empfohlen.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt, da Nässe die Wirkung verzögert.",
+              "Meiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Ein Helm mit Visier hilft, die Regentropfen aus den Augen zu halten."
+            ],
+            "hu": [
+              "Teljes esőruházat, beleértve a kamáslit is, erősen ajánlott.",
+              "Indulás előtt ellenőrizze a fékeket, mert a nedvesség késleltetheti a hatást.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek.",
+              "A sárvédő használata ilyen időben elengedhetetlen.",
+              "A sisakellenző segít távol tartani az esőcseppeket a szemétől."
+            ],
+            "ro": [
+              "Se recomandă echipament complet de ploaie, inclusiv protecții pentru pantofi.",
+              "Verificați frânele înainte de plecare, umezeala poate întârzia oprirea.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci.",
+              "Apărătorile de noroi sunt obligatorii pe această vreme.",
+              "O cască cu vizieră ajută la menținerea picăturilor de ploaie departe de ochi."
+            ],
+            "en": [
+              "Full waterproof gear including shoe covers is highly recommended.",
+              "Check your brakes before starting as wet rims delay stopping power.",
+              "Avoid riding through puddles as they can hide deep potholes.",
+              "Fenders (mudguards) are a must-have for biking in these conditions.",
+              "A helmet with a visor helps keep raindrops out of your eyes while riding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour per Rad startet am kühlen Morgen beim Scaliger-Schloss. Die Luft ist klar und bietet beste Sichtverhältnisse auf die umliegenden Mauern. Wir radeln weiter zur Villa Pergolana, wobei die Bewegung uns warm hält. Mittags genießen wir die Ruhe am Lungolago Marconi, der im Winter fast leer ist. Nach einem Abstecher zum Alten Hafen beenden wir die Tour am Piazza Vittorio Emanuele mit einem wärmenden Getränk, bevor die Kälte des Abends einsetzt.",
+            "hu": "A téli biciklis túra a hűvös reggelen indul a Scaliger-várnál. A levegő tiszta, kiváló látási viszonyokat biztosítva a városfalakra. Tovább kerekezünk a Villa Pergolana felé, a mozgás pedig segít melegen tartani minket. Délben a Lungolago Marconi sétány nyugalmát élvezzük, amely télen szinte üres. A Régi Kikötő érintése után a Piazza Vittorio Emanuele téren fejezzük be a kört egy meleg itallal.",
+            "ro": "Turul de iarnă cu bicicleta începe în dimineața rece la Castelul Scaliger. Aerul este clar, oferind cele mai bune condiții de vizibilitate asupra zidurilor. Pedalăm mai departe spre Villa Pergolana, mișcarea ajutându-ne să ne menținem temperatura. La prânz ne bucurăm de liniștea de pe Lungolago Marconi, aproape pustiu iarna. După o vizită la Portul Vechi, încheiem turul în Piazza Vittorio Emanuele cu o băutură caldă.",
+            "en": "The winter bike tour starts on a chilly morning at Scaliger Castle. The air is crisp, offering the best visibility of the surrounding walls. We cycle on to Villa Pergolana, with the movement helping to keep us warm. At noon, we enjoy the peace of Lungolago Marconi, which is almost empty in winter. After a detour to the Old Port, we finish the tour at Piazza Vittorio Emanuele with a warming drink before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Scaliger Castle",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe für die Fahrt zum Schloss.",
+                "hu": "Viseljen meleg kesztyűt a várhoz vezető úton.",
+                "ro": "Purtați mănuși groase pentru drumul spre castel.",
+                "en": "Wear warm gloves for the ride to the castle."
+              }
+            },
+            {
+              "name": "Walls of Lazise",
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle glatte Stellen im Schatten der Mauern.",
+                "hu": "Figyeljen az esetleges jeges foltokra a falak árnyékában.",
+                "ro": "Atenție la eventualele porțiuni alunecoase la umbra zidurilor.",
+                "en": "Watch out for potential icy patches in the shade of the walls."
+              }
+            },
+            {
+              "name": "Villa Pergolana",
+              "tip_5lang": {
+                "de": "Die winterliche Ruhe hier ist ideal für entspanntes Radfahren.",
+                "hu": "A téli nyugalom itt ideális a pihentető kerékpározáshoz.",
+                "ro": "Liniștea hibernală de aici este ideală pentru pedalat relaxat.",
+                "en": "The winter tranquility here is ideal for relaxed cycling."
+              }
+            },
+            {
+              "name": "Lungolago Marconi",
+              "tip_5lang": {
+                "de": "Der Wind vom See kann im Winter sehr schneidend sein.",
+                "hu": "A tavi szél télen nagyon metsző lehet.",
+                "ro": "Vântul de pe lac poate fi foarte tăios în timpul iernii.",
+                "en": "The wind from the lake can be very biting in winter."
+              }
+            },
+            {
+              "name": "Old Port",
+              "tip_5lang": {
+                "de": "Perfekter Ort für ein kurzes Päuschen in der Wintersonne.",
+                "hu": "Tökéletes hely egy rövid pihenőre a téli napsütésben.",
+                "ro": "Locul perfect pentru o scurtă pauză la soarele de iarnă.",
+                "en": "Perfect spot for a short break in the winter sun."
+              }
+            },
+            {
+              "name": "Piazza Vittorio Emanuele",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad ab und gönnen Sie sich eine heiße Schokolade.",
+                "hu": "Zárja le a biciklit és jutalmazza meg magát egy forró csokival.",
+                "ro": "Parcați bicicleta și răsfățați-vă cu o ciocolată caldă.",
+                "en": "Lock your bike and treat yourself to a thick hot chocolate."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders für die Brustpartie.",
+              "Die Reifen sollten einen guten Grip für kalten Asphalt haben.",
+              "Vergewissern Sie sich, dass Ihre Fahrradbeleuchtung funktioniert.",
+              "Planen Sie mehr Zeit für Aufwärmpausen in Cafés ein.",
+              "Ein Stirnband unter dem Helm schützt die Ohren vor dem kalten Fahrtwind."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, különösen a mellkasi részen.",
+              "A gumiabroncsoknak jó tapadással kell rendelkezniük a hideg aszfalthoz.",
+              "Győződjön meg róla, hogy a kerékpár világítása megfelelően működik.",
+              "Tervezzen be több időt a kávézókban való felmelegedésre.",
+              "A sisak alatti fejpánt védi a fület a hideg menetszéltől."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, în special în zona pieptului.",
+              "Anvelopele trebuie să aibă o aderență bună pentru asfaltul rece.",
+              "Asigurați-vă că luminile bicicletelei funcționează corect.",
+              "Planificați mai mult timp pentru pauze de încălzire în cafenele.",
+              "O bentiță sub cască protejează urechile de vântul rece din timpul mersului."
+            ],
+            "en": [
+              "Wear windproof clothing, focusing on the chest and neck area.",
+              "Ensure your tires have good tread for cold, hardened asphalt.",
+              "Double-check that your bike lights are working for the early dusk.",
+              "Schedule more frequent warm-up breaks in local cafes.",
+              "A headband under the helmet protects ears from the cold wind."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -844,6 +1712,366 @@
           "Refuel in the hinterland, it's often cheaper there.",
           "The coastal road 'Gardesana' can be prone to traffic jams."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto sind Sie flexibel. Starten Sie beim Castello Scaligero und der Dogana Veneta in Lazise. Nutzen Sie die Freiheit für einen Abstecher in das benachbarte Bardolino, bekannt für seinen Wein. Nach einer Verkostung und einem Mittagessen kehren Sie über die Villa Pergolana zurück nach Lazise, um den Tag entspannt an der Uferpromenade Lungolago Marconi ausklingen zu lassen.",
+            "hu": "Autóval rugalmasan mozoghat. Kezdjen a Castello Scaligeronál és a Dogana Venetánál Lazisében. Használja ki a szabadságot egy kitérőre a szomszédos Bardolinóba, amely boráról híres. Egy kóstoló és ebéd után a Villa Pergolana érintésével térjen vissza Lazisébe, hogy a napot pihentetően zárja a Lungolago Marconi sétányon.",
+            "ro": "Cu mașina sunteți flexibili. Începeți la Castello Scaligero și Dogana Veneta în Lazise. Profitați de libertate pentru o excursie în localitatea vecină Bardolino, renumită pentru vinul său. După o degustare și un prânz, întoarceți-vă în Lazise via Villa Pergolana, pentru a încheia ziua relaxat pe faleza Lungolago Marconi.",
+            "en": "You are flexible by car. Start at the Scaliger Castle and the Dogana Veneta in Lazise. Use the freedom for a detour to neighboring Bardolino, famous for its wine. After a tasting and lunch, return to Lazise via Villa Pergolana to end the day relaxingly on the Lungolago Marconi promenade."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello Scaligero",
+                "hu": "Castello Scaligero",
+                "ro": "Castello Scaligero",
+                "en": "Scaliger Castle"
+              },
+              "tip_5lang": {
+                "de": "Parkplatz 'Marconi' direkt daneben.",
+                "hu": "Marconi parkoló közvetlenül mellette.",
+                "ro": "Parcarea 'Marconi' chiar alături.",
+                "en": "Marconi parking lot right next to it."
+              }
+            },
+            {
+              "name": {
+                "de": "Dogana Veneta",
+                "hu": "Dogana Veneta",
+                "ro": "Dogana Veneta",
+                "en": "Dogana Veneta"
+              },
+              "tip_5lang": {
+                "de": "Zu Fuß vom Parkplatz erreichbar.",
+                "hu": "Gyalogosan elérhető a parkolótól.",
+                "ro": "Accesibil pe jos din parcare.",
+                "en": "Accessible on foot from the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Bardolino (Kirándulás)",
+                "hu": "Bardolino (Kirándulás)",
+                "ro": "Bardolino (Excursie)",
+                "en": "Bardolino (Trip)"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie ein Weingut für eine Verkostung.",
+                "hu": "Látogasson el egy borászatba kóstolóra.",
+                "ro": "Vizitați o cramă pentru o degustare.",
+                "en": "Visit a winery for a tasting."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Pergolana",
+                "hu": "Villa Pergolana",
+                "ro": "Villa Pergolana",
+                "en": "Villa Pergolana"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos.",
+                "hu": "Rövid megálló fotózáshoz.",
+                "ro": "Scurtă oprire pentru fotografii.",
+                "en": "Short stop for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Lungolago Marconi",
+                "hu": "Lungolago Marconi",
+                "ro": "Lungolago Marconi",
+                "en": "Lungolago Marconi"
+              },
+              "tip_5lang": {
+                "de": "Abendessen in Seenähe.",
+                "hu": "Vacsora a tó közelében.",
+                "ro": "Cină lângă lac.",
+                "en": "Dinner near the lake."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bardolino Wein",
+                "tip": "Ein Muss in der Region, direkt beim Winzer kaufen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bardolino bor",
+                "tip": "Kötelező a régióban, vásárolja közvetlenül a borásznál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vin Bardolino",
+                "tip": "Un must în regiune, cumpărați direct de la producător."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bardolino Wine",
+                "tip": "A must in the region, buy directly from the winemaker."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Weingärten",
+                "tip": "Ruhige Spaziergänge zwischen den Reben bei Bardolino.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szőlőültetvények",
+                "tip": "Csendes séták a tőkék között Bardolino közelében.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Podgorii",
+                "tip": "Plimbări liniștite printre vii lângă Bardolino.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Vineyards",
+                "tip": "Quiet walks among the vines near Bardolino.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Weinshop Zeni",
+                "tip": "Große Auswahl an lokalen Weinen und ein Weinmuseum."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Zeni borbolt",
+                "tip": "Helyi borok széles választéka és bormúzeum."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de vinuri Zeni",
+                "tip": "O selecție largă de vinuri locale și un muzeu al vinului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Zeni Wine Shop",
+                "tip": "Large selection of local wines and a wine museum."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parkplätze sind im Sommer schnell belegt, kommen Sie früh.",
+              "Achten Sie auf ZTL-Zonen (verkehrsberuhigt) im Zentrum.",
+              "Tanken Sie im Hinterland, dort ist es oft günstiger.",
+              "Die Uferstraße 'Gardesana' kann staugefährdet sein."
+            ],
+            "hu": [
+              "A parkolóhelyek nyáron hamar megtelnek, érkezzen korán.",
+              "Figyeljen a ZTL (korlátozott forgalmú) zónákra a központban.",
+              "Tankoljon a hátországban, ott gyakran olcsóbb.",
+              "A 'Gardesana' parti úton gyakoriak a dugók."
+            ],
+            "ro": [
+              "Locurile de parcare se ocupă repede vara, veniți devreme.",
+              "Atenție la zonele ZTL (trafic limitat) din centru.",
+              "Alimentați în hinterland, este adesea mai ieftin.",
+              "Drumul de coastă 'Gardesana' poate fi aglomerat."
+            ],
+            "en": [
+              "Parking spaces fill up quickly in summer, arrive early.",
+              "Watch out for ZTL (limited traffic) zones in the center.",
+              "Refuel in the hinterland, it's often cheaper there.",
+              "The coastal road 'Gardesana' can be prone to traffic jams."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag in Lazise lässt sich am besten mit dem Auto bewältigen. Wir parken nahe dem Scaliger-Schloss für einen kurzen, geschützten Besuch. Danach geht es zur Dogana Veneta, die bequem erreichbar ist. Mittags fahren wir ins nahegelegene Bardolino, wo wir die Weinkeller im Trockenen erkunden können. Am Nachmittag führt die Fahrt zur Villa Pergolana, bevor wir den Tag am Lungolago Marconi bei einem Seeblick aus dem warmen Auto oder einem ufernahen Lokal ausklingen lassen.",
+            "hu": "Egy esős nap Lazisében autóval a legkényelmesebb. A Scaliger-vár közelében parkolunk egy rövid, védett látogatáshoz. Ezután a Dogana Veneta felé vesszük az irányt, amely könnyen elérhető. Délben a közeli Bardolinóba látogatunk, ahol a borospincéket fedett helyen fedezhetjük fel. Délután a Villa Pergolana felé autózunk, majd a napot a Lungolago Marconinál zárjuk, élvezve a tó látványát az autóból vagy egy vízparti étteremből.",
+            "ro": "O zi ploioasă în Lazise este cel mai ușor de gestionat cu mașina. Parcăm aproape de Castelul Scaliger pentru o vizită scurtă și protejată. Apoi mergem spre Dogana Veneta, care este ușor accesibilă. La prânz conducem spre Bardolino, unde putem explora cramele la adăpost. După-amiaza, drumul ne duce la Villa Pergolana, înainte de a încheia ziua la Lungolago Marconi, admirând lacul din mașina caldă sau dintr-un local de pe mal.",
+            "en": "A rainy day in Lazise is best managed by car. We park near the Scaliger Castle for a quick, sheltered visit. Next, we head to Dogana Veneta, which is easily accessible. At noon, we drive to nearby Bardolino to explore the wine cellars indoors. In the afternoon, the drive takes us to Villa Pergolana before ending the day at Lungolago Marconi, enjoying the lake view from the warmth of the car or a nearby lakeside restaurant."
+          },
+          "stops": [
+            {
+              "name": "Scaliger Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor der Stadtmauer.",
+                "hu": "Használja a közvetlenül a városfal előtti parkolót.",
+                "ro": "Folosiți parcarea situată direct în fața zidurilor orașului.",
+                "en": "Use the parking lot located directly outside the town walls."
+              }
+            },
+            {
+              "name": "Dogana Veneta",
+              "tip_5lang": {
+                "de": "Die Anfahrt ist bis nah an den Fußgängerbereich möglich.",
+                "hu": "Az autóval való megközelítés a sétálóövezet közeléig lehetséges.",
+                "ro": "Accesul auto este posibil până aproape de zona pietonală.",
+                "en": "Car access is possible close to the edge of the pedestrian zone."
+              }
+            },
+            {
+              "name": "Bardolino (Trip)",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Weinmuseum, um dem Regen zu entfliehen.",
+                "hu": "Látogassa meg a bormúzeumot, hogy elkerülje az esőt.",
+                "ro": "Vizitați muzeul vinului pentru a scăpa de ploaie.",
+                "en": "Visit the wine museum to escape the rain and learn history."
+              }
+            },
+            {
+              "name": "Villa Pergolana",
+              "tip_5lang": {
+                "de": "Perfekt für eine Sightseeing-Runde aus dem Autofenster.",
+                "hu": "Tökéletes egy kis városnézéshez az autó ablakából.",
+                "ro": "Perfect pentru o sesiune de vizitare din geamul mașinii.",
+                "en": "Perfect for a sightseeing loop from the comfort of your car."
+              }
+            },
+            {
+              "name": "Lungolago Marconi",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz mit Seeblick für eine Kaffeepause.",
+                "hu": "Keressen tóra néző parkolóhelyet egy kávészünethez.",
+                "ro": "Căutați un loc de parcare cu vedere la lac pentru o pauză.",
+                "en": "Find a parking spot with a lake view for a coffee break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkhäuser sind bei Regen oft schneller belegt.",
+              "Vermeiden Sie Fahrten in die engen ZTL-Zonen (eingeschränkter Verkehr).",
+              "Regenschirme griffbereit im Kofferraum verstauen.",
+              "Die Küstenstraße kann bei starkem Regen rutschig sein.",
+              "Nutzen Sie das Auto, um entlegenere Agriturismi zu besuchen."
+            ],
+            "hu": [
+              "Az esőben a parkolóházak gyakran hamarabb megtelnek.",
+              "Kerülje a szűk ZTL (korlátozott forgalmú) zónákba való behajtást.",
+              "Tartsa az esernyőket könnyen elérhető helyen a csomagtartóban.",
+              "A parti út heves esőzéskor csúszós lehet.",
+              "Használja az autót a távolabb eső agroturizmusok meglátogatására."
+            ],
+            "ro": [
+              "Parcările acoperite se umplu mai repede când plouă.",
+              "Evitați intrarea în zonele înguste ZTL (trafic restricționat).",
+              "Țineți umbrelele la îndemână în portbagaj.",
+              "Drumul de coastă poate fi alunecos în timpul ploilor abundente.",
+              "Folosiți mașina pentru a vizita agroturismele mai îndepărtate."
+            ],
+            "en": [
+              "Indoor parking garages often fill up faster on rainy days.",
+              "Be careful not to enter the narrow ZTL (Restricted Traffic) zones.",
+              "Keep your umbrellas easily accessible in the trunk.",
+              "The lakeside road can be slippery during heavy rainfall.",
+              "Use the car to reach more remote farm-stays (agriturismi) for lunch."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit dem Auto beginnt entspannt am Scaliger-Schloss, wobei wir die Heizung voll genießen. Danach führt die Fahrt zur Dogana Veneta, wo wir die ruhige Winterstimmung im Hafen bewundern. Mittags machen wir einen Ausflug nach Bardolino, um die weihnachtliche Beleuchtung zu sehen. Am Nachmittag passieren wir die Villa Pergolana und beenden die Tour am Lungolago Marconi, wo wir den Sonnenuntergang bequem vom Auto aus beobachten können.",
+            "hu": "A téli autós nap Lazisében kényelmesen indul a Scaliger-várnál, élvezve a fűtést. Ezután a Dogana Veneta felé autózunk, megcsodálva a kikötő nyugodt téli hangulatát. Délben Bardolinóba látogatunk, hogy megnézzük a karácsonyi fényeket. Délután elhaladunk a Villa Pergolana mellett, majd a túrát a Lungolago Marconinál zárjuk, ahol a naplementét az autó kényelméből nézhetjük végig.",
+            "ro": "O zi de iarnă cu mașina începe relaxat la Castelul Scaliger, bucurându-ne de căldură. Apoi mergem spre Dogana Veneta, admirând atmosfera liniștită de iarnă din port. La prânz facem o excursie la Bardolino pentru a vedea luminile de Crăciun. După-amiaza trecem pe lângă Villa Pergolana și încheiem turul la Lungolago Marconi, unde putem urmări apusul confortabil din mașină.",
+            "en": "A winter day by car starts in a relaxed manner at Scaliger Castle, enjoying the vehicle's heating. Then, the drive goes to Dogana Veneta, where we admire the quiet winter atmosphere of the port. At noon, we take a trip to Bardolino to see the Christmas lights. In the afternoon, we pass Villa Pergolana and finish the tour at Lungolago Marconi, where we can watch the sunset comfortably from the car."
+          },
+          "stops": [
+            {
+              "name": "Scaliger Castle",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter reichlich vorhanden und oft günstiger.",
+                "hu": "Télen bőségesen van parkolóhely, és gyakran olcsóbb is.",
+                "ro": "Locurile de parcare sunt din abundență iarna și adesea mai ieftine.",
+                "en": "Parking spaces are plentiful in winter and often cheaper."
+              }
+            },
+            {
+              "name": "Dogana Veneta",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum beheizten Gebäude.",
+                "hu": "Rövid séta a parkolótól a fűtött épületig.",
+                "ro": "Scurtă plimbare de la parcare până la clădirea încălzită.",
+                "en": "Short walk from the parking lot to the heated building."
+              }
+            },
+            {
+              "name": "Bardolino (Trip)",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Weihnachtsmarkt im Stadtzentrum.",
+                "hu": "Látogassa meg a karácsonyi vásárt a városközpontban.",
+                "ro": "Vizitați piața de Crăciun din centrul orașului.",
+                "en": "Visit the charming Christmas market in the town center."
+              }
+            },
+            {
+              "name": "Villa Pergolana",
+              "tip_5lang": {
+                "de": "Hinter den Mauern der Villa ist es im Winter besonders ruhig.",
+                "hu": "A villa falai mögött télen különösen nagy a csend.",
+                "ro": "În spatele zidurilor vilei este extrem de liniște iarna.",
+                "en": "It is exceptionally quiet behind the villa walls in winter."
+              }
+            },
+            {
+              "name": "Lungolago Marconi",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneiten Berge am Horizont.",
+                "hu": "Élvezze a kilátást a távoli havas hegyekre a horizonton.",
+                "ro": "Bucurați-vă de vederea munților înzăpeziți de la orizont.",
+                "en": "Enjoy the view of the snow-capped mountains on the horizon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen oder Schneeketten sind gesetzlich vorgeschrieben.",
+              "Die Parkgebühren sind in der Nebensaison oft reduziert.",
+              "Vorsicht vor morgendlichem Glatteis auf den Brücken.",
+              "Nutzen Sie die Sitzheizung für maximale Gemütlichkeit.",
+              "Die Sonnenuntergänge sind im Winter oft intensiver in der Farbe."
+            ],
+            "hu": [
+              "A téli gumi vagy a hólánc használata kötelező.",
+              "A parkolási díjak utószezonban gyakran alacsonyabbak.",
+              "Vigyázzon a reggeli jegesedésre a hidakon.",
+              "Használja az ülésfűtést a maximális kényelem érdekében.",
+              "A naplementék télen gyakran intenzívebb színűek."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sau lanțurile sunt obligatorii prin lege.",
+              "Tarifele de parcare sunt adesea reduse în extrasezon.",
+              "Atenție la poleiul de dimineață de pe poduri.",
+              "Folosiți încălzirea în scaune pentru confort maxim.",
+              "Apusurile de soare sunt adesea mai intense ca culoare iarna."
+            ],
+            "en": [
+              "Winter tires or snow chains are legally required in this region.",
+              "Parking fees are often significantly reduced during the off-season.",
+              "Watch out for black ice on bridges during early morning drives.",
+              "Utilize seat heating for maximum coziness while traveling.",
+              "Winter sunsets over the lake often feature more intense colors."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1083,6 +2311,366 @@
           "Check the timetable for the return journey; buses run less frequently in the evening.",
           "Download the 'Moovit' app for real-time info."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie Busse und Fähren, um Lazise stressfrei zu erkunden. Beginnen Sie beim beeindruckenden Castello Scaligero und spazieren Sie zur Piazza Vittorio Emanuele. Nach einem Besuch der Dogana Veneta können Sie das maritime Flair am Porto Vecchio genießen. Beenden Sie Ihren Ausflug mit einem entspannten Spaziergang am Lungolago Marconi, bevor Sie bequem mit dem öffentlichen Nahverkehr zurückfahren.",
+            "hu": "Használja a buszokat és kompokat Lazise stresszmentes felfedezéséhez. Kezdjen a lenyűgöző Castello Scaligeronál, majd sétáljon át a Piazza Vittorio Emanuele térre. A Dogana Veneta meglátogatása után élvezheti a tengerparti hangulatot a Porto Vecchionál. Zárja kirándulását egy pihentető sétával a Lungolago Marconin, mielőtt kényelmesen visszautazna tömegközlekedéssel.",
+            "ro": "Folosiți autobuzele și feriboturile pentru a explora Lazise fără stres. Începeți la impresionantul Castello Scaligero și mergeți spre Piazza Vittorio Emanuele. După o vizită la Dogana Veneta, vă puteți bucura de atmosfera maritimă din Porto Vecchio. Încheiați excursia cu o plimbare relaxantă pe Lungolago Marconi, înainte de a vă întoarce confortabil cu transportul public.",
+            "en": "Use buses and ferries to explore Lazise stress-free. Start at the impressive Scaliger Castle and walk to Piazza Vittorio Emanuele. After visiting Dogana Veneta, you can enjoy the maritime atmosphere at Porto Vecchio. End your trip with a relaxing stroll on Lungolago Marconi before returning comfortably by public transport."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello Scaligero",
+                "hu": "Castello Scaligero",
+                "ro": "Castello Scaligero",
+                "en": "Scaliger Castle"
+              },
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt an der Hauptstraße.",
+                "hu": "Buszmegálló közvetlenül a főúton.",
+                "ro": "Stație de autobuz chiar pe strada principală.",
+                "en": "Bus stop right on the main road."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza Vittorio Emanuele",
+                "hu": "Piazza Vittorio Emanuele",
+                "ro": "Piazza Vittorio Emanuele",
+                "en": "Piazza Vittorio Emanuele"
+              },
+              "tip_5lang": {
+                "de": "Zentrum für Erfrischungen.",
+                "hu": "Központ felfrissüléshez.",
+                "ro": "Centru pentru răcoritoare.",
+                "en": "Center for refreshments."
+              }
+            },
+            {
+              "name": {
+                "de": "Dogana Veneta",
+                "hu": "Dogana Veneta",
+                "ro": "Dogana Veneta",
+                "en": "Dogana Veneta"
+              },
+              "tip_5lang": {
+                "de": "In der Nähe der Fähre.",
+                "hu": "A komp közelében.",
+                "ro": "Lângă feribot.",
+                "en": "Near the ferry."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto Vecchio",
+                "hu": "Régi kikötő",
+                "ro": "Portul Vechi",
+                "en": "Old Port"
+              },
+              "tip_5lang": {
+                "de": "Ideal zum Beobachten der Boote.",
+                "hu": "Ideális a hajók megfigyeléséhez.",
+                "ro": "Ideal pentru a observa bărcile.",
+                "en": "Ideal for watching the boats."
+              }
+            },
+            {
+              "name": {
+                "de": "Lungolago Marconi",
+                "hu": "Lungolago Marconi",
+                "ro": "Lungolago Marconi",
+                "en": "Lungolago Marconi"
+              },
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Rückreise.",
+                "hu": "Utolsó megálló a hazautazás előtt.",
+                "ro": "Ultima oprire înainte de întoarcere.",
+                "en": "Last stop before the return trip."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gelato",
+                "tip": "In der Gelateria La Romana gibt es hausgemachtes Eis."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Gelato",
+                "tip": "A Gelateria La Romana házi készítésű fagyit kínál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gelato",
+                "tip": "La Gelateria La Romana găsiți înghețată de casă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gelato",
+                "tip": "Homemade ice cream at Gelateria La Romana."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Fährfahrt",
+                "tip": "Eine Bootsfahrt auf dem See ist entspannend.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kompút",
+                "tip": "Egy hajóút a tavon pihentető élmény.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Călătoria cu feribotul",
+                "tip": "O plimbare cu barca pe lac este relaxantă.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Ferry Ride",
+                "tip": "A boat trip on the lake is relaxing.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Ledergeschäfte",
+                "tip": "Qualitätslederwaren in der Nähe des Hafens."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bőrüzletek",
+                "tip": "Minőségi bőráruk a kikötő közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazine de piele",
+                "tip": "Articole din piele de calitate lângă port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Leather Shops",
+                "tip": "Quality leather goods near the port."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten im Voraus in einem Tabacchi-Laden.",
+              "Die Fähren ('Navigarda') bieten tolle Ausblicke vom Wasser.",
+              "Prüfen Sie den Fahrplan für die Rückfahrt, Busse fahren abends seltener.",
+              "Laden Sie die 'Moovit' App für Echtzeit-Infos herunter."
+            ],
+            "hu": [
+              "Vásárolja meg jegyeit előre egy Tabacchi üzletben.",
+              "A kompok ('Navigarda') remek kilátást nyújtanak a vízről.",
+              "Ellenőrizze a menetrendet a visszautazáshoz, a buszok este ritkábban járnak.",
+              "Töltse le a 'Moovit' alkalmazást a valós idejű infókért."
+            ],
+            "ro": [
+              "Cumpărați biletele în avans de la un magazin Tabacchi.",
+              "Feriboturile ('Navigarda') oferă priveliști superbe de pe apă.",
+              "Verificați orarul pentru întoarcere, autobuzele circulă mai rar seara.",
+              "Descărcați aplicația 'Moovit' pentru informații în timp real."
+            ],
+            "en": [
+              "Buy tickets in advance at a Tabacchi shop.",
+              "The ferries ('Navigarda') offer great views from the water.",
+              "Check the timetable for the return journey; buses run less frequently in the evening.",
+              "Download the 'Moovit' app for real-time info."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag mit öffentlichen Verkehrsmitteln startet am Scaliger-Schloss, das gut an die Buslinien angebunden ist. Von dort spazieren wir kurz zum Piazza Vittorio Emanuele, um in den Cafés Schutz zu suchen. Mittags verbringen wir viel Zeit in der Dogana Veneta, um trocken zu bleiben. Der Nachmittag gehört dem Alten Hafen, bevor wir den Tag am Lungolago Marconi ausklingen lassen und den Bus zurück nehmen, wobei wir die Wartezeiten in überdachten Bereichen verbringen.",
+            "hu": "Az esős nap tömegközlekedéssel a Scaliger-várnál indul, amely jól kapcsolódik a buszjáratokhoz. Innen rövid sétát teszünk a Piazza Vittorio Emanuele térre, ahol a kávézókban keresünk menedéket. Délben sok időt töltünk a Dogana Veneta épületében, hogy szárazon maradjunk. A délután a Régi Kikötőé, majd a napot a Lungolago Marconinál zárjuk, a buszra pedig fedett helyen várakozunk.",
+            "ro": "O zi ploioasă cu transportul public începe la Castelul Scaliger, bine conectat la liniile de autobuz. De acolo mergem scurt până în Piazza Vittorio Emanuele pentru a căuta adăpost în cafenele. La prânz petrecem mult timp în Dogana Veneta pentru a rămâne uscați. După-amiaza aparține Portului Vechi, înainte de a încheia ziua la Lungolago Marconi și de a lua autobuzul înapoi, așteptând în zone acoperite.",
+            "en": "A rainy day using public transit starts at Scaliger Castle, which is well-connected to bus lines. From there, we take a short walk to Piazza Vittorio Emanuele to seek shelter in the cafes. At noon, we spend plenty of time inside Dogana Veneta to stay dry. The afternoon belongs to the Old Port before ending the day at Lungolago Marconi, spending our waiting time for the return bus in covered areas."
+          },
+          "stops": [
+            {
+              "name": "Scaliger Castle",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle befindet sich ganz in der Nähe des Schlosses.",
+                "hu": "A buszmegálló nagyon közel van a várhoz.",
+                "ro": "Stația de autobuz se află foarte aproape de castel.",
+                "en": "The bus stop is located very close to the castle entrance."
+              }
+            },
+            {
+              "name": "Piazza Vittorio Emanuele",
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Arkaden Schutz vor Regenschauern.",
+                "hu": "Keressen menedéket a záporok elől az árkádok alatt.",
+                "ro": "Căutați adăpost sub arcade în timpul averselor.",
+                "en": "Seek shelter under the porticos during sudden showers."
+              }
+            },
+            {
+              "name": "Dogana Veneta",
+              "tip_5lang": {
+                "de": "Ideal, um eine längere Regenpause im Trockenen einzulegen.",
+                "hu": "Ideális egy hosszabb esőszünet tartására fedett helyen.",
+                "ro": "Ideal pentru o pauză mai lungă de ploaie la adăpost.",
+                "en": "Ideal for taking a longer break from the rain indoors."
+              }
+            },
+            {
+              "name": "Old Port",
+              "tip_5lang": {
+                "de": "Das Terminal für die Fähren bietet Schutz vor Wind und Regen.",
+                "hu": "A kompkikötő terminálja védelmet nyújt a szél és az eső ellen.",
+                "ro": "Terminalul de feribot oferă protecție împotriva vântului și ploii.",
+                "en": "The ferry terminal provides shelter from the wind and rain."
+              }
+            },
+            {
+              "name": "Lungolago Marconi",
+              "tip_5lang": {
+                "de": "Überprüfen Sie die Busfahrzeiten per App, um nicht im Regen zu warten.",
+                "hu": "Ellenőrizze a buszmenetrendet applikáción, hogy ne várjon az esőben.",
+                "ro": "Verificați programul autobuzelor pe aplicație pentru a nu aștepta în ploaie.",
+                "en": "Check bus times via app to avoid waiting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Moovit' App für Echtzeit-Businformationen.",
+              "Die Busse können bei Regen aufgrund des Verkehrs Verspätung haben.",
+              "Halten Sie Kleingeld oder eine kontaktlose Karte für den Fahrkartenkauf bereit.",
+              "Einige Haltestellen haben nur kleine Unterstände.",
+              "Die Fähren auf dem See fahren auch bei leichtem Regen."
+            ],
+            "hu": [
+              "Használja a 'Moovit' alkalmazást a valós idejű buszinformációkhoz.",
+              "A buszok esőben a forgalom miatt késhetnek.",
+              "Készítsen elő aprópénzt vagy érintős kártyát a jegyvásárláshoz.",
+              "Néhány megállóban csak kisméretű váróterem van.",
+              "A tavi kompok gyenge esőben is közlekednek."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Moovit' pentru informații în timp real despre autobuze.",
+              "Autobuzele pot avea întârzieri pe ploaie din cauza traficului.",
+              "Aveți pregătit mărunt sau un card contactless pentru bilete.",
+              "Unele stații au doar adăposturi mici.",
+              "Feriboturile de pe lac circulă și pe ploaie ușoară."
+            ],
+            "en": [
+              "Use the 'Moovit' app for real-time bus tracking and updates.",
+              "Buses may be delayed due to increased traffic in rainy weather.",
+              "Have small change or a contactless card ready for ticket purchase.",
+              "Note that some bus stops have very limited shelter from rain.",
+              "Lake ferries usually continue to operate during light rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit Bus und Bahn beginnt am Scaliger-Schloss. Wir nutzen die gut beheizten Busse der Linie 163 oder 164. Am Piazza Vittorio Emanuele genießen wir die weihnachtliche Stimmung. Mittags kehren wir in der Dogana Veneta ein, wo es oft gemütlich ist. Der Nachmittag am Alten Hafen und am Lungolago Marconi ist besonders ruhig, bevor wir mit dem letzten Tageslicht den Bus zurück nehmen.",
+            "hu": "A téli nap tömegközlekedéssel a Scaliger-várnál indul. A 163-as vagy 164-es vonal jól fűtött buszait használjuk. A Piazza Vittorio Emanuele téren élvezzük a karácsonyi hangulatot. Délben betérünk a Dogana Veneta épületébe, amely ilyenkor is barátságos. A délután a Régi Kikötőnél és a Lungolago Marconinál különösen csendes, mielőtt az utolsó fényekkel visszabuszoznánk.",
+            "ro": "O zi de iarnă cu transportul public începe la Castelul Scaliger. Folosim autobuzele bine încălzite de pe linia 163 sau 164. În Piazza Vittorio Emanuele ne bucurăm de atmosfera de Crăciun. La prânz intrăm în Dogana Veneta, unde este adesea foarte plăcut. După-amiaza la Portul Vechi și pe Lungolago Marconi este deosebit de liniștită, înainte de a lua autobuzul înapoi.",
+            "en": "A winter day using public transit starts at Scaliger Castle. We use the well-heated buses of line 163 or 164. At Piazza Vittorio Emanuele, we enjoy the festive Christmas atmosphere. At noon, we visit Dogana Veneta, which is often cozy. The afternoon at the Old Port and Lungolago Marconi is particularly peaceful before we take the bus back as the daylight fades."
+          },
+          "stops": [
+            {
+              "name": "Scaliger Castle",
+              "tip_5lang": {
+                "de": "Der Busbahnhof von Lazise liegt nur wenige Gehminuten entfernt.",
+                "hu": "Lazise buszpályaudvara csak néhány perc sétára van.",
+                "ro": "Autogara din Lazise se află la doar câteva minute de mers pe jos.",
+                "en": "The main bus station in Lazise is just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Piazza Vittorio Emanuele",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in einem der Cafés nahe der Haltestelle auf.",
+                "hu": "Melegedjen fel a megállóhoz közeli kávézók egyikében.",
+                "ro": "Încălziți-vă într-una dintre cafenelele de lângă stație.",
+                "en": "Warm up in one of the cafes located near the bus stop."
+              }
+            },
+            {
+              "name": "Dogana Veneta",
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte, tragen Sie warme Kleidung.",
+                "hu": "A vastag falak tartják a hideget, viseljen meleg ruhát.",
+                "ro": "Zidurile groase rețin frigul, purtați haine groase.",
+                "en": "The thick stone walls hold the cold; keep your coat on."
+              }
+            },
+            {
+              "name": "Old Port",
+              "tip_5lang": {
+                "de": "Der Fahrplan der Fähren ist im Winter stark reduziert.",
+                "hu": "A kompok menetrendje télen jelentősen ritkább.",
+                "ro": "Programul feriboturilor este mult redus în timpul iernii.",
+                "en": "The ferry schedule is significantly reduced during winter."
+              }
+            },
+            {
+              "name": "Lungolago Marconi",
+              "tip_5lang": {
+                "de": "Die Busse fahren im Winter seltener, planen Sie genau.",
+                "hu": "Télen a buszok ritkábban járnak, tervezzen pontosan.",
+                "ro": "Autobuzele circulă mai rar iarna, planificați-vă timpul atent.",
+                "en": "Buses run less frequently in winter; plan your return carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie den Winterfahrplan (Orario Invernale).",
+              "Die Wartezeiten an den Haltestellen können bei Kälte lang wirken.",
+              "Kaufen Sie Tickets vorab im Tabakladen (Tabaccheria).",
+              "Ab 17:00 Uhr wird es merklich kühler, planen Sie die Rückfahrt ein.",
+              "Die Busse sind im Winter meist nicht überfüllt."
+            ],
+            "hu": [
+              "Ügyeljen a téli menetrendre (Orario Invernale).",
+              "A várakozási idő a megállókban a hidegben hosszabbnak tűnhet.",
+              "Vásárolja meg a jegyeket előre a dohányboltban (Tabaccheria).",
+              "17:00 után érezhetően hűvösebb lesz, tervezze meg a hazautat.",
+              "A buszok télen általában nem zsúfoltak."
+            ],
+            "ro": [
+              "Respectați orarul de iarnă (Orario Invernale).",
+              "Timpul de așteptare în stații poate părea lung pe frig.",
+              "Cumpărați biletele în avans de la chioșcurile de ziare (Tabaccheria).",
+              "După ora 17:00 se face mult mai frig, planificați întoarcerea.",
+              "Autobuzele nu sunt de obicei supraaglomerate iarna."
+            ],
+            "en": [
+              "Always consult the winter schedule (Orario Invernale) for changes.",
+              "Waiting at stops can feel much longer in the winter cold.",
+              "Purchase your tickets in advance at a local 'Tabaccheria'.",
+              "Temperature drops quickly after 17:00; time your return well.",
+              "Buses are rarely crowded during the winter off-season."
+            ]
+          }
+        }
       }
     }
   },

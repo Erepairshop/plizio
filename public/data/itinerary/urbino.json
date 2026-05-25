@@ -320,6 +320,442 @@
           "Try to arrive early in the morning to avoid the crowds.",
           "Urbino is a university town, it is very lively in the evening."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen von Urbino auf der Piazza della Repubblica, bevor Sie den prächtigen Palazzo Ducale besichtigen. Mittags erkunden Sie den Dom und tauchen in die Welt der Renaissance ein. Am Nachmittag besuchen Sie das Geburtshaus von Raffael und die beeindruckenden Fresken im Oratorium San Giovanni. Beenden Sie den Tag mit einem Spaziergang zur Albornoz-Festung, um den Sonnenuntergang über der Stadt zu genießen.",
+            "hu": "Kezdje a napot Urbino szívében, a Piazza della Repubblica téren, majd látogasson el a lenyűgöző Ducale palotába. Délben fedezze fel a dómot, és merüljön el a reneszánsz világában. Délután keresse fel Raffaello szülőházát és a Szent János oratórium lenyűgöző freskóit. A napot zárja egy sétával az Albornoz-erődhöz, ahonnan megcsodálhatja a város feletti naplementét.",
+            "ro": "Începeți ziua în inima Urbinoului, în Piazza della Repubblica, înainte de a vizita magnificul Palazzo Ducale. La prânz, explorați Domul și scufundați-vă în lumea Renașterii. După-amiaza, vizitați casa natală a lui Rafael și frescele impresionante din Oratoriul San Giovanni. Încheiați ziua cu o plimbare la Fortăreața Albornoz pentru a admira apusul de soare deasupra orașului.",
+            "en": "Start your day in the heart of Urbino at Piazza della Repubblica before visiting the magnificent Ducal Palace. At midday, explore the Cathedral and immerse yourself in the world of the Renaissance. In the afternoon, visit Raphael's birthplace and the impressive frescoes in the Oratory of San Giovanni. End the day with a walk to the Albornoz Fortress to enjoy the sunset over the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza della Repubblica",
+                "hu": "Piazza della Repubblica",
+                "ro": "Piazza della Repubblica",
+                "en": "Piazza della Repubblica"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Treffpunkt für einen Kaffee am Morgen.",
+                "hu": "A tökéletes találkozóhely egy reggeli kávéhoz.",
+                "ro": "Locul ideal de întâlnire pentru o cafea de dimineață.",
+                "en": "The perfect meeting spot for a morning coffee."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Ducale",
+                "hu": "Ducale palota",
+                "ro": "Palatul Ducal",
+                "en": "Ducal Palace"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Innenhof für großartige Fotos.",
+                "hu": "Látogasson el a belső udvarra a remek fotókért.",
+                "ro": "Vizitați curtea interioară pentru fotografii superbe.",
+                "en": "Visit the inner courtyard for great photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di Urbino",
+                "hu": "Urbinoi dóm",
+                "ro": "Domul din Urbino",
+                "en": "Urbino Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die neoklassizistische Fassade.",
+                "hu": "Figyelje meg a neoklasszicista homlokzatot.",
+                "ro": "Observați fațada neoclasică.",
+                "en": "Notice the neoclassical facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Natale di Raffaello",
+                "hu": "Raffaello szülőháza",
+                "ro": "Casa natală a lui Rafael",
+                "en": "Raphael's Birthplace"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie das Zimmer, in dem der Maler geboren wurde.",
+                "hu": "Nézze meg a szobát, ahol a festő született.",
+                "ro": "Vedeți camera în care s-a născut pictorul.",
+                "en": "See the room where the painter was born."
+              }
+            },
+            {
+              "name": {
+                "de": "Oratorio di San Giovanni Battista",
+                "hu": "Keresztelő Szent János oratórium",
+                "ro": "Oratoriul San Giovanni Battista",
+                "en": "Oratory of St John the Baptist"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtigen Fresken der Gebrüder Salimbeni.",
+                "hu": "Csodálja meg a Salimbeni fivérek pompás freskóit.",
+                "ro": "Admirați frescele superbe ale fraților Salimbeni.",
+                "en": "Admire the magnificent frescoes by the Salimbeni brothers."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortezza Albornoz",
+                "hu": "Albornoz erőd",
+                "ro": "Fortăreața Albornoz",
+                "en": "Albornoz Fortress"
+              },
+              "tip_5lang": {
+                "de": "Der beste Ort für einen Panoramablick auf die Stadt.",
+                "hu": "A legjobb hely a városi panorámához.",
+                "ro": "Cel mai bun loc pentru o vedere panoramică a orașului.",
+                "en": "The best spot for a panoramic view of the city."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Crescia Sfogliata",
+                "tip": "Ein lokales Fladenbrot, oft mit Wurst oder Käse gefüllt."
+              },
+              {
+                "name": "Casciotta d'Urbino",
+                "tip": "Ein milder Schafskäse, der schon von Michelangelo geschätzt wurde."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Crescia Sfogliata",
+                "tip": "Helyi lepénykenyér, gyakran felvágottal vagy sajttal töltve."
+              },
+              {
+                "name": "Casciotta d'Urbino",
+                "tip": "Enyhe juhsajt, amelyet már Michelangelo is nagyra értékelt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Crescia Sfogliata",
+                "tip": "O lipie locală, adesea umplută cu mezeluri sau brânză."
+              },
+              {
+                "name": "Casciotta d'Urbino",
+                "tip": "O brânză ușoară de oaie, apreciată chiar și de Michelangelo."
+              }
+            ],
+            "en": [
+              {
+                "name": "Crescia Sfogliata",
+                "tip": "A local flatbread, often filled with cold cuts or cheese."
+              },
+              {
+                "name": "Casciotta d'Urbino",
+                "tip": "A mild sheep's cheese, appreciated even by Michelangelo."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parco della Resistenza",
+                "tip": "Ruhiger Park unterhalb der Festung.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Orto Botanico",
+                "tip": "Ein friedlicher Garten der Universität.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parco della Resistenza",
+                "tip": "Csendes park az erőd alatt.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Orto Botanico",
+                "tip": "Az egyetem békés füvészkertje.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parco della Resistenza",
+                "tip": "Parc liniștit sub fortăreață.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Orto Botanico",
+                "tip": "O grădină liniștită a universității.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parco della Resistenza",
+                "tip": "Quiet park below the fortress.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Orto Botanico",
+                "tip": "A peaceful university botanical garden.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Keramik-Ateliers",
+                "tip": "Urbino ist berühmt für seine Majolika-Keramik."
+              },
+              {
+                "name": "L'Artigianato",
+                "tip": "Lokales Kunsthandwerk in der Via Raffaello."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kerámia műhelyek",
+                "tip": "Urbino híres a majolika kerámiáiról."
+              },
+              {
+                "name": "L'Artigianato",
+                "tip": "Helyi kézműves termékek a Via Raffaello-n."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ateliere de ceramică",
+                "tip": "Urbino este faimos pentru ceramica Majolica."
+              },
+              {
+                "name": "L'Artigianato",
+                "tip": "Artizanat local pe Via Raffaello."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ceramic Workshops",
+                "tip": "Urbino is famous for its Majolica ceramics."
+              },
+              {
+                "name": "L'Artigianato",
+                "tip": "Local handicrafts in Via Raffaello."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe, da die Stadt sehr steil ist.",
+              "Die Palazzo Ducale Karte beinhaltet oft auch andere Museen.",
+              "Versuchen Sie, früh am Morgen zu kommen, um die Massen zu vermeiden.",
+              "Urbino ist eine Universitätsstadt, abends ist viel los."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt, mert a város nagyon meredek.",
+              "A Palazzo Ducale jegy gyakran más múzeumokba is érvényes.",
+              "Próbáljon korán reggel érkezni, hogy elkerülje a tömeget.",
+              "Urbino egyetemi város, este nagy az élet."
+            ],
+            "ro": [
+              "Purtați pantofi confortabili, deoarece orașul este foarte abrupt.",
+              "Biletul pentru Palazzo Ducale include adesea și alte muzee.",
+              "Încercați să veniți devreme dimineața pentru a evita aglomerația.",
+              "Urbino este un oraș universitar, seara este multă animație."
+            ],
+            "en": [
+              "Wear comfortable shoes as the city is very steep.",
+              "The Palazzo Ducale ticket often includes other museums.",
+              "Try to arrive early in the morning to avoid the crowds.",
+              "Urbino is a university town, it is very lively in the evening."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen auf der Piazza della Repubblica und nutzen Sie die Arkaden als Schutz. Der Vormittag gehört dem Herzogspalast, dessen riesige Säle Sie trocken halten.\n\nMittags bietet der Dom von Urbino eine spirituelle und trockene Pause. Genießen Sie die Stille, während draußen der Regen auf das Pflaster peitscht.\n\nAm Nachmittag erkunden Sie das Geburtshaus von Raffael und das Oratorium, beides gemütliche Innenräume voller Kunstgeschichte.\n\nDer Abend endet an der Albornoz-Festung; der Aufstieg ist zwar nass, aber der Blick auf die neblige Stadt ist mystisch und unvergesslich.",
+            "hu": "Kezdje a reggelt a Piazza della Republicán, az árkádok alatt védve az esőtől. A délelőtt a hercegi palotáé, amelynek hatalmas termei száraz menedéket nyújtanak.\n\nDélben az Urbino-székesegyház kínál spirituális és esőmentes pihenőt. Élvezze a csendet, miközben kint az eső kopog a macskaköveken.\n\nDélután Raffaello szülőházát és az Oratóriumot fedezze fel, mindkettő meghitt beltéri helyszín, tele művészettörténettel.\n\nAz este az Albornoz-erődnél zárul; a felfelé vezető út ugyan vizes, de a ködbe burkolózó város látványa misztikus és felejthetetlen élmény.",
+            "ro": "Începeți dimineața în Piazza della Repubblica, folosind arcadele pentru protecție. Dimineața aparține Palatului Ducal, ale cărui săli imense vă mențin uscat.\n\nLa prânz, Catedrala din Urbino oferă o pauză spirituală și ferită de ploaie. Bucurați-vă de liniște în timp ce afară ploaia bate pe caldarâm.\n\nDupă-amiaza, explorați casa natală a lui Rafael și Oratoriul, ambele spații interioare primitoare, pline de istoria artei.\n\nSeara se încheie la Cetatea Albornoz; deși drumul este umed, vederea asupra orașului învăluit în ceață este mistică și de neuitat.",
+            "en": "Start the morning at Piazza della Repubblica, using the porticos for shelter. Spend the morning in the Ducal Palace, whose vast halls keep you dry.\n\nAt noon, Urbino Cathedral offers a spiritual and rain-free break. Enjoy the silence while the rain taps on the cobblestones outside.\n\nIn the afternoon, explore Raphael's Birthplace and the Oratory, both cozy indoor venues filled with art history.\n\nThe evening ends at the Albornoz Fortress; though the walk up is wet, the view of the misty city is mystical and unforgettable."
+          },
+          "stops": [
+            {
+              "name": "Piazza della Repubblica",
+              "tip_5lang": {
+                "de": "Nutzen Sie die umliegenden Arkaden, um bei Schauern trocken zu bleiben.",
+                "hu": "Használja a környező árkádokat, hogy száraz maradjon a záporok alatt.",
+                "ro": "Folosiți arcadele din jur pentru a rămâne uscați în timpul averselor.",
+                "en": "Use the surrounding porticos to stay dry during showers."
+              }
+            },
+            {
+              "name": "Ducal Palace",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für Regentage; planen Sie hier viel Zeit im Inneren ein.",
+                "hu": "Tökéletes helyszín esős napokra; tervezzen ide sok benti időt.",
+                "ro": "Un loc perfect pentru zilele ploioase; planificați mult timp în interior.",
+                "en": "A perfect location for rainy days; plan plenty of indoor time here."
+              }
+            },
+            {
+              "name": "Urbino Cathedral",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur, während Sie auf das Ende des Regens warten.",
+                "hu": "Csodálja meg az építészetet, miközben megvárja az eső elálltát.",
+                "ro": "Admirați arhitectura în timp ce așteptați oprirea ploii.",
+                "en": "Admire the architecture while waiting for the rain to stop."
+              }
+            },
+            {
+              "name": "Raphael's Birthplace",
+              "tip_5lang": {
+                "de": "Dieses kleine Museum bietet eine gemütliche Flucht vor dem nassen Wetter.",
+                "hu": "Ez a kis múzeum hangulatos menekülést kínál a vizes időjárás elől.",
+                "ro": "Acest mic muzeu oferă o evadare primitoare din calea vremii umede.",
+                "en": "This small museum offers a cozy escape from the wet weather."
+              }
+            },
+            {
+              "name": "Oratory of St John the Baptist",
+              "tip_5lang": {
+                "de": "Die Fresken im Inneren leuchten auch bei grauem Himmel wunderschön.",
+                "hu": "A benti freskók szürke égbolt mellett is csodálatosan ragyognak.",
+                "ro": "Frescele din interior strălucesc frumos chiar și sub cerul gri.",
+                "en": "The interior frescoes glow beautifully even under grey skies."
+              }
+            },
+            {
+              "name": "Albornoz Fortress",
+              "tip_5lang": {
+                "de": "Achtung, die Wege zur Festung können bei Regen sehr rutschig sein.",
+                "hu": "Vigyázat, az erődhöz vezető utak esőben nagyon csúszósak lehetnek.",
+                "ro": "Atenție, potecile spre cetate pot fi foarte alunecoase pe ploaie.",
+                "en": "Caution, the paths to the fortress can be very slippery in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster in Urbino rutschig wird.",
+              "Die Portiken an der Piazza della Repubblica bieten guten Schutz vor plötzlichen Schauern.",
+              "Nutzen Sie die langen Besuchszeiten im Palazzo Ducale für die stärksten Regenstunden.",
+              "Ein Regenschirm ist bei den steilen Gassen oft unpraktisch, eine Regenjacke ist besser."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert Urbino macskaköves utcái csúszóssá válnak.",
+              "A Piazza della Repubblica árkádjai jó menedéket nyújtanak a hirtelen záporok elől.",
+              "Használja ki a hercegi palota hosszú látogatási idejét a legerősebb eső idején.",
+              "Az esernyő a meredek sikátorokban gyakran kényelmetlen, egy esőkabát praktikusabb."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pavajul din Urbino devine alunecos.",
+              "Arcadele din Piazza della Repubblica oferă un adăpost bun împotriva averselor bruște.",
+              "Profită de timpul lung de vizitare la Palazzo Ducale în orele cu ploaie torențială.",
+              "O umbrelă este adesea incomodă pe străzile înguste; o pelerină de ploaie este mai bună."
+            ],
+            "en": [
+              "Wear waterproof shoes as Urbino's cobblestones become slippery when wet.",
+              "The porticos at Piazza della Repubblica provide good shelter from sudden showers.",
+              "Take advantage of the long visiting hours at the Ducal Palace during heavy rain.",
+              "An umbrella is often impractical in the steep alleys; a raincoat is more useful."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Morgenluft am Hauptplatz belebt die Sinne. Der Vormittag im Herzogspalast bietet angenehme Wärme in den beheizten Ausstellungsräumen.\n\nMittags suchen Sie die Ruhe des Doms auf, bevor Sie in einem lokalen Café eine heiße Schokolade genießen, um sich für den Nachmittag aufzuwärmen.\n\nDer Nachmittag ist ideal für die Museen, während das goldene Winterlicht die Ziegelwände der Stadt in ein warmes Rot taucht.\n\nBeenden Sie den Tag früh an der Albornoz-Festung, um den Sonnenuntergang über den schneebedeckten Apenninen zu beobachten, bevor die Kälte der Nacht einzieht.",
+            "hu": "A főtér hideg reggeli levegője felfrissíti az érzékeket. A délelőtt a hercegi palotában telik, ahol a fűtött kiállítótermek kellemes meleget adnak.\n\nDélben keresse fel a katedrális nyugalmát, majd egy helyi kávézóban igyon egy forró csokoládét, hogy felmelegedjen a délutánra.\n\nA délután ideális a múzeumlátogatásra, miközben az aranyló téli fények meleg vörösre festik a város téglafalait.\n\nZárja a napot korán az Albornoz-erődnél, hogy megcsodálja a naplementét a havas Appenninek felett, mielőtt beáll az éjszakai fagy.",
+            "ro": "Aerul rece de dimineață din piața principală revigorează simțurile. Dimineața la Palatul Ducal oferă o căldură plăcută în sălile de expoziție încălzite.\n\nLa prânz, vizitați liniștea catedralei, apoi savurați o ciocolată caldă într-o cafenea locală pentru a vă încălzi pentru după-amiază.\n\nDupă-amiaza este ideală pentru muzee, în timp ce lumina aurie de iarnă pictează zidurile de cărămidă ale orașului în roșu cald.\n\nÎncheiați ziua devreme la Cetatea Albornoz pentru a vedea apusul peste Apeninii înzăpeziți, înainte ca gerul nopții să se instaleze.",
+            "en": "The cold morning air at the main square invigorates the senses. Spend the morning in the Ducal Palace, which offers warmth in its heated exhibition rooms.\n\nAt noon, seek the peace of the Cathedral, then enjoy a hot chocolate in a local cafe to warm up for the afternoon.\n\nIn the afternoon, museums are ideal while the golden winter light paints the city's brick walls in warm red.\n\nFinish the day early at the Albornoz Fortress to watch the sunset over the snowy Apennines before the night chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Piazza della Repubblica",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft, bevor Sie sich in ein warmes Café flüchten.",
+                "hu": "Élvezze a tiszta téli levegőt, mielőtt behúzódna egy meleg kávézóba.",
+                "ro": "Bucurați-vă de aerul curat de iarnă înainte de a vă refugia într-o cafenea caldă.",
+                "en": "Enjoy the crisp winter air before retreating to a warm cafe."
+              }
+            },
+            {
+              "name": "Ducal Palace",
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen gut vor Wind; ideal für einen langen Winterbesuch.",
+                "hu": "A vastag falak jól védenek a széltől; ideális egy hosszú téli látogatáshoz.",
+                "ro": "Zidurile groase protejează bine de vânt; ideal pentru o vizită lungă de iarnă.",
+                "en": "The thick walls protect well from wind; ideal for a long winter visit."
+              }
+            },
+            {
+              "name": "Urbino Cathedral",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und Besinnung während der kalten Mittagsstunden.",
+                "hu": "A csend és az elmélkedés helye a hideg déli órákban.",
+                "ro": "Un loc de liniște și reflexie în timpul orelor reci de prânz.",
+                "en": "A place of silence and reflection during the cold midday hours."
+              }
+            },
+            {
+              "name": "Raphael's Birthplace",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den historischen Räumen des berühmten Malers auf.",
+                "hu": "Melegedjen fel a híres festő történelmi szobáiban.",
+                "ro": "Încălziți-vă în camerele istorice ale celebrului pictor.",
+                "en": "Warm up inside the historical rooms of the famous painter."
+              }
+            },
+            {
+              "name": "Oratory of St John the Baptist",
+              "tip_5lang": {
+                "de": "Die prächtigen Farben bieten einen tollen Kontrast zum grauen Wintertag.",
+                "hu": "A pompás színek remek kontrasztot adnak a szürke téli naphoz.",
+                "ro": "Culorile splendide oferă un contrast excelent cu ziua gri de iarnă.",
+                "en": "The splendid colors provide a great contrast to the grey winter day."
+              }
+            },
+            {
+              "name": "Albornoz Fortress",
+              "tip_5lang": {
+                "de": "Der Wind kann hier oben eisig sein; ziehen Sie sich sehr warm an.",
+                "hu": "A szél itt fent jeges lehet; öltözzön fel nagyon melegen.",
+                "ro": "Vântul poate fi înghețat aici sus; îmbrăcați-vă foarte gros.",
+                "en": "The wind can be icy up here; dress very warmly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:45 Uhr unter.",
+              "Die Hügellage von Urbino macht die Stadt anfällig für kalte Winde aus den Bergen.",
+              "Viele Cafés bieten 'Cioccolata Calda Densissima' an – perfekt zum Aufwärmen.",
+              "Vorsicht vor Glatteis auf den steilen Ziegelstraßen am frühen Morgen."
+            ],
+            "hu": [
+              "A nap télen már 16:45 körül lenyugszik.",
+              "Urbino dombi fekvése miatt kitett a hegyek felől érkező hideg szeleknek.",
+              "Sok kávézó kínál sűrű forró csokoládét, ami tökéletes a felmelegedéshez.",
+              "Vigyázzon a jegesedésre a meredek téglafalú utcákon kora reggel."
+            ],
+            "ro": [
+              "Soarele apune iarna deja în jurul orei 16:45.",
+              "Locația pe deal a orașului Urbino îl face vulnerabil la vânturile reci din munți.",
+              "Multe cafenele oferă ciocolată caldă densă, perfectă pentru încălzire.",
+              "Atenție la polei pe străzile abrupte de cărămidă la primele ore ale dimineții."
+            ],
+            "en": [
+              "The sun sets around 4:45 PM in winter.",
+              "Urbino's hilltop location makes it susceptible to cold winds from the mountains.",
+              "Many cafes offer 'Cioccolata Calda Densissima' – perfect for warming up.",
+              "Watch out for ice on the steep brick streets in the early morning."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -551,6 +987,350 @@
           "Use e-bikes because of the steep slopes.",
           "Watch out for pedestrians in the narrow streets."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Urbino sportlich mit dem Fahrrad, beginnend an den Stadtmauern. Nach einer kulturellen Pause im Palazzo Ducale und im Dom fordern Sie sich mit dem Aufstieg zur Fortezza Albornoz heraus. Genießen Sie die frische Luft und die grünen Parks am Stadtrand.",
+            "hu": "Fedezze fel Urbinót sportosan, kerékpárral, a városfalaktól indulva. A Palazzo Ducale és a dóm megtekintése után tegye próbára magát az Albornoz-erődhöz vezető emelkedővel. Élvezze a friss levegőt és a város széli zöld parkokat.",
+            "ro": "Explorați Urbinoul într-un mod sportiv cu bicicleta, începând de la zidurile orașului. După o pauză culturală la Palazzo Ducale și Dom, provocați-vă cu urcarea spre Fortăreața Albornoz. Bucurați-vă de aerul curat și de parcurile verzi de la marginea orașului.",
+            "en": "Explore Urbino in a sporty way by bike, starting from the city walls. After a cultural break at the Ducal Palace and the Cathedral, challenge yourself with the climb to the Albornoz Fortress. Enjoy the fresh air and the green parks on the outskirts of the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Viale delle Mura",
+                "hu": "Városfal menti sétány",
+                "ro": "Viale delle Mura",
+                "en": "Viale delle Mura"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt entlang der alten Stadtmauern.",
+                "hu": "Élvezze a tekerést a régi városfalak mentén.",
+                "ro": "Bucurați-vă de plimbarea de-a lungul vechilor ziduri ale orașului.",
+                "en": "Enjoy the ride along the ancient city walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Ducale",
+                "hu": "Ducale palota",
+                "ro": "Palatul Ducal",
+                "en": "Ducal Palace"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher in der Nähe des Eingangs.",
+                "hu": "Parkolja le biztonságosan a biciklit a bejárat közelében.",
+                "ro": "Parcați bicicleta în siguranță lângă intrare.",
+                "en": "Park your bike safely near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di Urbino",
+                "hu": "Urbinoi dóm",
+                "ro": "Domul din Urbino",
+                "en": "Urbino Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Ein kühler Ort für eine Pause während der Fahrt.",
+                "hu": "Hűvös hely egy kis szünethez tekerés közben.",
+                "ro": "Un loc răcoros pentru o pauză în timpul plimbării.",
+                "en": "A cool spot for a break during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortezza Albornoz",
+                "hu": "Albornoz erőd",
+                "ro": "Fortăreața Albornoz",
+                "en": "Albornoz Fortress"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg ist steil, aber die Aussicht lohnt sich.",
+                "hu": "Meredek az emelkedő, de a kilátás megéri.",
+                "ro": "Urcarea este abruptă, dar vederea merită.",
+                "en": "The climb is steep, but the view is worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco della Resistenza",
+                "hu": "Ellenállás parkja",
+                "ro": "Parco della Resistenza",
+                "en": "Resistance Park"
+              },
+              "tip_5lang": {
+                "de": "Ideal für ein entspanntes Picknick am Ende der Tour.",
+                "hu": "Ideális egy nyugodt piknikhez a túra végén.",
+                "ro": "Ideal pentru un picnic relaxat la sfârșitul turului.",
+                "en": "Ideal for a relaxed picnic at the end of the tour."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pasta alla Carbonara di Urbino",
+                "tip": "Eine lokale Variation mit Trüffeln."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pasta alla Carbonara di Urbino",
+                "tip": "Helyi változat szarvasgombával."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pasta alla Carbonara di Urbino",
+                "tip": "O variantă locală cu trufe."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pasta alla Carbonara di Urbino",
+                "tip": "A local variation with truffles."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Colle delle Vigne",
+                "tip": "Ruhiger Hügel mit Blick auf die Stadt.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Colle delle Vigne",
+                "tip": "Csendes domb kilátással a városra.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Colle delle Vigne",
+                "tip": "Deal liniștit cu vedere spre oraș.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Colle delle Vigne",
+                "tip": "Quiet hill with city views.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Urbino Bike",
+                "tip": "Fahrradverleih und Zubehör."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Urbino Bike",
+                "tip": "Kerékpárkölcsönző és kiegészítők."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Urbino Bike",
+                "tip": "Închirieri biciclete și accesorii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Urbino Bike",
+                "tip": "Bike rentals and accessories."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie E-Bikes wegen der starken Steigungen.",
+              "Achten Sie auf Fußgänger in den engen Gassen."
+            ],
+            "hu": [
+              "Használjon elektromos kerékpárt a meredek emelkedők miatt.",
+              "Figyeljen a gyalogosokra a szűk utcákban."
+            ],
+            "ro": [
+              "Folosiți biciclete electrice din cauza pantelor abrupte.",
+              "Atenție la pietoni în străzile înguste."
+            ],
+            "en": [
+              "Use e-bikes because of the steep slopes.",
+              "Watch out for pedestrians in the narrow streets."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den Stadtmauern. Der Vormittag bietet trotz Nässe tolle Ausblicke, solange Sie langsam fahren.\n\nMittags suchen Sie Schutz im Herzogspalast und im Dom, wo Sie Ihre Kleidung etwas trocknen können, während Sie die Kunst bewundern.\n\nDer Nachmittag führt zur Albornoz-Festung; der Aufstieg ist anstrengend, aber die Bewegung hält warm.\n\nDer Tag endet im Stadtpark, wo die Bäume etwas Schutz bieten, bevor Sie die Tour sicher abschließen.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel a városfalakon. A délelőtt a vizes út ellenére is szép kilátást nyújt, ha lassan halad.\n\nDélben keresse a hercegi palota és a katedrális oltalmát, ahol kicsit megszáríthatja ruháit a művészet élvezete közben.\n\nA délután az Albornoz-erődhöz vezet; a felkapaszkodás fárasztó, de a mozgás melegen tartja.\n\nA nap a városi parkban zárul, ahol a fák némi védelmet nyújtanak, mielőtt biztonságban befejezné a túrát.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită prudență pe zidurile orașului. Dimineața oferă priveliști grozave în ciuda umezelii, atâta timp cât mergeți încet.\n\nLa prânz, căutați adăpost la Palatul Ducal și la Catedrală, unde vă puteți usca puțin hainele în timp ce admirați arta.\n\nDupă-amiaza duce la Cetatea Albornoz; urcarea este obositoare, dar mișcarea vă va ține de cald.\n\nZiua se încheie în parcul orașului, unde copacii oferă puțină protecție înainte de a termina turul în siguranță.",
+            "en": "A bike ride in the rain requires caution on the city walls. The morning offers great views despite the wetness, as long as you ride slowly.\n\nAt noon, seek shelter at the Ducal Palace and the Cathedral, where you can dry your clothes a bit while admiring the art.\n\nThe afternoon leads to the Albornoz Fortress; the climb is tiring, but the movement keeps you warm.\n\nThe day ends in the city park, where the trees provide some protection before you safely finish the tour."
+          },
+          "stops": [
+            {
+              "name": "Viale delle Mura",
+              "tip_5lang": {
+                "de": "Vorsicht bei Pfützen; die Ziegelsteine können extrem rutschig sein.",
+                "hu": "Vigyázzon a tócsákkal; a téglák rendkívül csúszósak lehetnek.",
+                "ro": "Atenție la bălți; cărămizile pot fi extrem de alunecoase.",
+                "en": "Watch out for puddles; the bricks can be extremely slippery."
+              }
+            },
+            {
+              "name": "Ducal Palace",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und genießen Sie die Wärme.",
+                "hu": "Parkolja le kerékpárját védett helyen, és élvezze a meleget.",
+                "ro": "Parcați bicicleta într-un loc protejat și bucurați-vă de căldură.",
+                "en": "Park your bike in a sheltered spot and enjoy the warmth."
+              }
+            },
+            {
+              "name": "Urbino Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für eine kurze Trockenpause im Inneren.",
+                "hu": "Használja ki a megállót egy rövid szárítkozásra odabent.",
+                "ro": "Folosiți oprirea pentru o scurtă pauză de uscare în interior.",
+                "en": "Use the stop for a quick drying break inside."
+              }
+            },
+            {
+              "name": "Albornoz Fortress",
+              "tip_5lang": {
+                "de": "Der Boden ist hier oft matschig; fahren Sie besonders vorsichtig.",
+                "hu": "A talaj itt gyakran sáros; közlekedjen különösen óvatosan.",
+                "ro": "Terenul este adesea noroios aici; conduceți cu deosebită atenție.",
+                "en": "The ground is often muddy here; ride with extra caution."
+              }
+            },
+            {
+              "name": "Resistance Park",
+              "tip_5lang": {
+                "de": "Die Bäume bieten etwas Schutz vor leichtem Nieselregen.",
+                "hu": "A fák némi védelmet nyújtanak az enyhe szemerkélő eső ellen.",
+                "ro": "Copacii oferă puțină protecție împotriva burniței ușoare.",
+                "en": "The trees provide some protection from light drizzle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenmontur, da der Fahrtwind die Nässe verstärkt.",
+              "Prüfen Sie Ihre Bremsen vorab; auf nassen Ziegeln verlängert sich der Bremsweg massiv.",
+              "Meiden Sie die steilsten Gassen und bleiben Sie auf den Hauptwegen.",
+              "Ein Schutzblech ist bei dem historischen Pflaster unerlässlich gegen Spritzwasser."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot, mert a menetszél felerősíti a nedvességet.",
+              "Előre ellenőrizze a fékeket; a vizes téglákon a fékút jelentősen megnő.",
+              "Kerülje a legmeredekebb sikátorokat, maradjon a főbb útvonalakon.",
+              "A sárvédő elengedhetetlen a történelmi burkolaton a felfröccsenő víz ellen."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, deoarece vântul intensifică umezeala.",
+              "Verificați frânele în prealabil; pe cărămizile ude distanța de frânare crește masiv.",
+              "Evitați străzile cele mai abrupte și rămâneți pe drumurile principale.",
+              "O apărătoare de noroi este esențială pe pavajul istoric împotriva stropirii."
+            ],
+            "en": [
+              "Wear full rain gear, as the wind while riding intensifies the wetness.",
+              "Check your brakes beforehand; braking distance increases massively on wet bricks.",
+              "Avoid the steepest alleys and stay on the main paths.",
+              "A mudguard is essential on historical pavement against splashing water."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start auf den Stadtmauern bietet klare Sichten auf die Berge. Der Vormittag am Palast ist eine willkommene Gelegenheit, die Hände aufzuwärmen.\n\nMittags ist der Dom ein friedlicher Rückzugsort, bevor Sie sich mit einem heißen Getränk stärken.\n\nAm Nachmittag erfordert die Fahrt zur Festung bei winterlichen Temperaturen volle Konzentration auf den Untergrund.\n\nDer Tag endet früh im Resistance Park, da die Kälte nach Sonnenuntergang schnell zunimmt und die Straßen glatt werden können.",
+            "hu": "A fagyos kezdés a városfalakon tiszta kilátást nyújt a hegyekre. A délelőtt a palotánál szívesen látott alkalom a kezek felmelegítésére.\n\nDélben a székesegyház békés menedék, mielőtt egy forró itallal erőt gyűjtene.\n\nDélután az erődhöz vezető út téli hőmérséklet mellett teljes koncentrációt igényel az útfelületre.\n\nA nap korán ér véget a Resistance Parkban, mivel a hideg naplemente után gyorsan fokozódik, és az utak csúszóssá válhatnak.",
+            "ro": "Un început înghețat pe zidurile orașului oferă vederi clare asupra munților. Dimineața la palat este o ocazie binevenită de a vă încălzi mâinile.\n\nLa prânz, catedrala este un refugiu pașnic înainte de a vă întări cu o băutură caldă.\n\nDupă-amiaza, drumul spre cetate la temperaturi de iarnă necesită concentrare maximă asupra suprafeței drumului.\n\nZiua se încheie devreme în Resistance Park, deoarece frigul crește rapid după apus, iar străzile pot deveni alunecoase.",
+            "en": "A frosty start on the city walls offers clear views of the mountains. The morning at the palace is a welcome chance to warm up your hands.\n\nAt noon, the cathedral is a peaceful retreat before you recharge with a hot drink.\n\nIn the afternoon, the ride to the fortress in winter temperatures requires full concentration on the road surface.\n\nThe day ends early in Resistance Park as the cold increases rapidly after sunset and the streets can become slippery."
+          },
+          "stops": [
+            {
+              "name": "Viale delle Mura",
+              "tip_5lang": {
+                "de": "Achtung bei Schattenstellen; hier kann sich Reif oder Eis halten.",
+                "hu": "Vigyázzon az árnyékos helyeken; itt zúzmara vagy jég maradhat meg.",
+                "ro": "Atenție în zonele umbrite; aici se poate menține brumă sau gheață.",
+                "en": "Watch out in shaded areas; frost or ice can linger here."
+              }
+            },
+            {
+              "name": "Ducal Palace",
+              "tip_5lang": {
+                "de": "Gönnen Sie sich eine lange Pause in den warmen Innenräumen.",
+                "hu": "Engedjen meg magának egy hosszú szünetet a meleg belső terekben.",
+                "ro": "Acordați-vă o pauză lungă în spațiile interioare calde.",
+                "en": "Treat yourself to a long break in the warm indoor spaces."
+              }
+            },
+            {
+              "name": "Urbino Cathedral",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um der schneidenden Winterluft kurz zu entfliehen.",
+                "hu": "Csendes hely, hogy rövid időre elmeneküljön a metsző téli levegő elől.",
+                "ro": "Un loc liniștit pentru a evada scurt din aerul tăios de iarnă.",
+                "en": "A quiet place to briefly escape the cutting winter air."
+              }
+            },
+            {
+              "name": "Albornoz Fortress",
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick, aber schützen Sie Ihre Hände vor dem Wind.",
+                "hu": "Élvezze a panorámát, de védje a kezét a széltől.",
+                "ro": "Bucurați-vă de panorama, dar protejați-vă mâinile de vânt.",
+                "en": "Enjoy the panoramic view, but protect your hands from the wind."
+              }
+            },
+            {
+              "name": "Resistance Park",
+              "tip_5lang": {
+                "de": "Im Winter kahl, aber bei klarem Wetter mit herrlicher Weitsicht.",
+                "hu": "Télen kopár, de tiszta időben csodálatos távoli kilátással.",
+                "ro": "Golaș iarna, dar cu o vedere superbă la distanță pe vreme senină.",
+                "en": "Bare in winter, but with magnificent long-distance views in clear weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe; die Hände kühlen beim Bremsen schnell aus.",
+              "Die steilen Abfahrten in Urbino können bei Frost gefährlich glatt sein.",
+              "Warme Thermokleidung unter der Sportwäsche ist bei Bergluft notwendig.",
+              "Planen Sie das Ende der Tour vor 16:30 Uhr ein, wenn das Licht schwindet."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt; a kezek fékezés közben gyorsan áthűlnek.",
+              "Urbino meredek lejtői fagyban veszélyesen csúszósak lehetnek.",
+              "A hegyi levegő miatt meleg aláöltözet szükséges a sportruházat alá.",
+              "Tervezze a túra végét 16:30 előttre, amikor a fény fogyni kezd."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt; mâinile se răcesc rapid la frânare.",
+              "Coborârile abrupte din Urbino pot fi periculos de alunecoase în caz de îngheț.",
+              "Îmbrăcămintea termică caldă este necesară din cauza aerului de munte.",
+              "Planificați sfârșitul turului înainte de ora 16:30, când lumina dispare."
+            ],
+            "en": [
+              "Wear windproof gloves; hands cool down quickly while braking.",
+              "Urbino's steep descents can be dangerously slippery in case of frost.",
+              "Warm thermal clothing is necessary due to the mountain air.",
+              "Plan to end the tour before 4:30 PM when the light begins to fade."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -782,6 +1562,350 @@
           "Access to Urbino center is for residents only (ZTL).",
           "Use the large parking lots on the outskirts."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Autotour kombiniert die Highlights von Urbino mit einem Ausflug in das nahe gelegene Urbania. Nach der Besichtigung des Palazzo Ducale und des Geburtshauses von Raffael fahren Sie durch die malerische Hügellandschaft nach Urbania, um dort das zweite herzogliche Schloss und die berühmte Chiesa dei Morti zu entdecken.",
+            "hu": "Ez az autós túra Urbino legfontosabb látnivalóit ötvözi a közeli Urbania meglátogatásával. A Palazzo Ducale és Raffaello szülőháza után a festői dombokon át Urbania felé veszi az irányt, ahol felfedezheti a második hercegi kastélyt és a híres Holtak templomát.",
+            "ro": "Acest tur auto combină punctele de atracție din Urbino cu o excursie în apropiatul Urbania. După vizitarea Palazzo Ducale și a casei natale a lui Rafael, conduceți prin dealurile pitorești spre Urbania pentru a descoperi al doilea castel ducal și celebra Chiesa dei Morti.",
+            "en": "This car tour combines Urbino's highlights with a trip to nearby Urbania. After visiting the Ducal Palace and Raphael's birthplace, drive through the picturesque hills to Urbania to discover the second ducal castle and the famous Church of the Dead."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo Ducale di Urbino",
+                "hu": "Urbinoi Ducale palota",
+                "ro": "Palazzo Ducale din Urbino",
+                "en": "Ducal Palace of Urbino"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Borgo Mercatale Parkhaus.",
+                "hu": "Parkoljon a Borgo Mercatale parkolóházban.",
+                "ro": "Parcați în parcarea Borgo Mercatale.",
+                "en": "Park in the Borgo Mercatale parking garage."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Natale di Raffaello",
+                "hu": "Raffaello szülőháza",
+                "ro": "Casa natală a lui Rafael",
+                "en": "Raphael's Birthplace"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkhaus.",
+                "hu": "Rövid séta a parkolótól.",
+                "ro": "Scurtă plimbare de la parcare.",
+                "en": "Short walk from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortezza Albornoz",
+                "hu": "Albornoz erőd",
+                "ro": "Fortăreața Albornoz",
+                "en": "Albornoz Fortress"
+              },
+              "tip_5lang": {
+                "de": "Bester Fotostopp vor der Weiterfahrt.",
+                "hu": "A legjobb fotómegálló az utazás folytatása előtt.",
+                "ro": "Cea mai bună oprire pentru fotografii înainte de a continua.",
+                "en": "Best photo stop before continuing the journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Ducale di Urbania",
+                "hu": "Urbaniai Ducale palota",
+                "ro": "Palatul Ducal din Urbania",
+                "en": "Ducal Palace of Urbania"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Mumiengruft in der Nähe.",
+                "hu": "Látogassa meg a közeli múmiák kriptáját.",
+                "ro": "Vizitați cripta mumiilor din apropiere.",
+                "en": "Visit the nearby mummy crypt."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dei Morti (Urbania)",
+                "hu": "Holtak temploma (Urbania)",
+                "ro": "Chiesa dei Morti (Urbania)",
+                "en": "Church of the Dead (Urbania)"
+              },
+              "tip_5lang": {
+                "de": "Ein faszinierender und etwas schauriger Ort.",
+                "hu": "Lenyűgöző és egyben borzongató hely.",
+                "ro": "Un loc fascinant și puțin înfricoșător.",
+                "en": "A fascinating and slightly eerie place."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Trüffelgerichte",
+                "tip": "Die Region ist berühmt für weißen und schwarzen Trüffel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szarvasgombás ételek",
+                "tip": "A régió híres a fehér és fekete szarvasgombáról."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Preparate cu trufe",
+                "tip": "Regiunea este faimoasă pentru trufele albe și negre."
+              }
+            ],
+            "en": [
+              {
+                "name": "Truffle Dishes",
+                "tip": "The region is famous for white and black truffles."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Furlo-Schlucht",
+                "tip": "Spektakuläre Natur in der Nähe.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Furlo-szurdok",
+                "tip": "Látványos természet a közelben.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cheile Furlo",
+                "tip": "Natură spectaculoasă în apropiere.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Furlo Gorge",
+                "tip": "Spectacular nature nearby.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Outlets",
+                "tip": "In der Umgebung gibt es viele Schuh-Outlets."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Outlet üzletek",
+                "tip": "A környéken sok cipő-outlet található."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Outlet-uri",
+                "tip": "În zonă există multe outlet-uri de încălțăminte."
+              }
+            ],
+            "en": [
+              {
+                "name": "Outlets",
+                "tip": "There are many shoe outlets in the surrounding area."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Zufahrt in das Zentrum von Urbino ist nur für Anwohner (ZTL).",
+              "Nutzen Sie die großen Parkplätze am Stadtrand."
+            ],
+            "hu": [
+              "Urbino belvárosába csak a helyiek hajthatnak be (ZTL).",
+              "Használja a város szélén lévő nagy parkolókat."
+            ],
+            "ro": [
+              "Accesul în centrul Urbinoului este doar pentru rezidenți (ZTL).",
+              "Folosiți parcările mari de la marginea orașului."
+            ],
+            "en": [
+              "Access to Urbino center is for residents only (ZTL).",
+              "Use the large parking lots on the outskirts."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Dank des Autos bleiben Sie zwischen den Zielen trocken. Der Vormittag im Herzogspalast von Urbino ist der perfekte Startpunkt für einen Regentag.\n\nMittags besuchen Sie Raffael und die Festung, wobei Sie die kurzen Wege zwischen Parkplatz und Eingang schätzen werden.\n\nDer Nachmittag führt Sie ins nahegelegene Urbania, wo der Herzogspalast weitere kulturelle Schätze im Trockenen bietet.\n\nDer Tag endet in der Totenkirche von Urbania, einem faszinierenden Ort, der unabhängig vom Wetter seine Wirkung entfaltet.",
+            "hu": "Az autónak köszönhetően száraz marad a célpontok között. Az urbinói hercegi palota délelőttje tökéletes kezdőpont egy esős naphoz.\n\nDélben látogassa meg Raffaellót és az erődöt, értékelve a parkoló és a bejárat közötti rövid távolságokat.\n\nA délután a közeli Urbaniába vezet, ahol a hercegi palota további kulturális kincseket kínál fedett helyen.\n\nA nap az urbaniai Holtak Templomában zárul, amely az időjárástól függetlenül lenyűgöző helyszín.",
+            "ro": "Datorită mașinii, rămâneți uscat între destinații. Dimineața la Palatul Ducal din Urbino este punctul perfect de plecare pentru o zi ploioasă.\n\nLa prânz vizitați casa lui Rafael și cetatea, apreciind distanțele scurte între parcare și intrare.\n\nDupă-amiaza vă conduce în apropiere, la Urbania, unde Palatul Ducal oferă alte comori culturale la adăpost.\n\nZiua se încheie la Biserica Morților din Urbania, un loc fascinant care își păstrează impactul indiferent de vreme.",
+            "en": "Thanks to the car, you stay dry between destinations. The morning at the Ducal Palace of Urbino is the perfect starting point for a rainy day.\n\nAt noon, visit Raphael's house and the fortress, appreciating the short distances between the parking and the entrance.\n\nThe afternoon leads you to nearby Urbania, where the Ducal Palace offers further cultural treasures indoors.\n\nThe day ends at the Church of the Dead in Urbania, a fascinating place that holds its impact regardless of the weather."
+          },
+          "stops": [
+            {
+              "name": "Ducal Palace of Urbino",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkhäuser in der Nähe, um direkt ins Trockene zu gelangen.",
+                "hu": "Használja a közeli parkolóházakat, hogy közvetlenül fedett helyre jusson.",
+                "ro": "Folosiți parcările supraetajate din apropiere pentru a ajunge direct la adăpost.",
+                "en": "Use the nearby parking garages to get directly into the dry."
+              }
+            },
+            {
+              "name": "Raphael's Birthplace",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; halten Sie den Schirm bereit.",
+                "hu": "Rövid séta a parkolótól; tartsa készenlétben az esernyőt.",
+                "ro": "Scurtă plimbare de la parcare; țineți umbrela la îndemână.",
+                "en": "Short walk from the parking; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Albornoz Fortress",
+              "tip_5lang": {
+                "de": "Vom Parkplatz oben ist man schnell im geschützten Bereich.",
+                "hu": "A fenti parkolótól gyorsan be lehet érni a védett területre.",
+                "ro": "De la parcarea de sus se ajunge rapid în zona protejată.",
+                "en": "From the upper parking, you can quickly reach the sheltered area."
+              }
+            },
+            {
+              "name": "Ducal Palace of Urbania",
+              "tip_5lang": {
+                "de": "Ideal für einen regnerischen Nachmittag außerhalb von Urbino.",
+                "hu": "Ideális egy esős délutánra Urbinón kívül.",
+                "ro": "Ideal pentru o după-amiază ploioasă în afara orașului Urbino.",
+                "en": "Ideal for a rainy afternoon outside of Urbino."
+              }
+            },
+            {
+              "name": "Church of the Dead (Urbania)",
+              "tip_5lang": {
+                "de": "Die Besichtigung findet komplett im Inneren statt.",
+                "hu": "A látogatás teljesen fedett helyen zajlik.",
+                "ro": "Vizita are loc în întregime în interior.",
+                "en": "The visit takes place entirely indoors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Landstraße nach Urbania kann bei Starkregen rutschig sein.",
+              "Nutzen Sie das Parkhaus 'Santa Lucia' für einen direkten Aufzugszugang zur Stadt.",
+              "Achten Sie auf Sichtbehinderungen durch Nebel in den Tälern des Metauro.",
+              "Die Parkplätze direkt an der Stadtmauer sind bei Regen oft schnell belegt."
+            ],
+            "hu": [
+              "Az Urbaniába vezető országút heves esőzéskor csúszós lehet.",
+              "Használja a 'Santa Lucia' parkolóházat a városba vezető közvetlen lifthez.",
+              "Ügyeljen a Metauro-völgyben az eső miatti korlátozott látási viszonyokra.",
+              "A városfal melletti parkolóhelyek esőben gyakran gyorsan megtelnek."
+            ],
+            "ro": [
+              "Drumul național spre Urbania poate fi alunecos în caz de ploaie torențială.",
+              "Folosiți parcarea 'Santa Lucia' pentru acces direct cu liftul în oraș.",
+              "Atenție la vizibilitatea redusă din cauza ceții în văile râului Metauro.",
+              "Locurile de parcare de lângă zidul orașului se ocupă rapid pe ploaie."
+            ],
+            "en": [
+              "The road to Urbania can be slippery during heavy rain.",
+              "Use the 'Santa Lucia' parking garage for direct elevator access to the city.",
+              "Watch out for limited visibility due to mist in the Metauro valleys.",
+              "Parking spots directly by the city walls often fill up quickly in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen in Urbino lässt sich im beheizten Auto gut überbrücken. Der Herzogspalast am Vormittag bietet Kultur in angenehmer Temperatur.\n\nMittags erkunden Sie die Altstadt, wobei das Auto als Basis dient, um schwere Winterkleidung zwischendurch abzulegen.\n\nNachmittags genießen Sie die malerische Fahrt durch die hügelige Winterlandschaft nach Urbania.\n\nDer Tag endet in der Stille von Urbania, wo die Totenkirche eine schaurig-schöne Winteratmosphäre vermittelt, bevor Sie im Dunkeln zurückfahren.",
+            "hu": "Az urbinói fagyos reggel a fűtött autóban jól átvészelhető. A hercegi palota délelőtt kellemes hőmérsékleten kínál kultúrát.\n\nDélben fedezze fel az óvárost, miközben az autó bázisként szolgál a nehéz téli ruhák átmeneti letételéhez.\n\nDélután élvezze a festői autózást a dombos téli tájon keresztül Urbania felé.\n\nA nap Urbania csendjében zárul, ahol a Holtak Temploma kísértetiesen szép téli hangulatot áraszt, mielőtt sötétben visszaindulna.",
+            "ro": "Dimineața geroasă din Urbino poate fi gestionată bine în mașina încălzită. Palatul Ducal oferă cultură la o temperatură plăcută în cursul dimineții.\n\nLa prânz explorați centrul vechi, mașina servind drept bază pentru a lăsa hainele groase de iarnă între vizite.\n\nDupă-amiaza bucurați-vă de drumul pitoresc prin peisajul deluros de iarnă spre Urbania.\n\nZiua se încheie în liniștea din Urbania, unde Biserica Morților oferă o atmosferă de iarnă bizar de frumoasă înainte de întoarcerea pe întuneric.",
+            "en": "The frosty morning in Urbino is easily managed in a heated car. The Ducal Palace in the morning offers culture at a pleasant temperature.\n\nAt noon, explore the old town using the car as a base to store heavy winter clothing between stops.\n\nIn the afternoon, enjoy the scenic drive through the hilly winter landscape towards Urbania.\n\nThe day ends in the silence of Urbania, where the Church of the Dead conveys a hauntingly beautiful winter atmosphere before driving back in the dark."
+          },
+          "stops": [
+            {
+              "name": "Ducal Palace of Urbino",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme der Galerien, während draußen der Wind weht.",
+                "hu": "Élvezze a galériák melegét, miközben kint fúj a szél.",
+                "ro": "Bucurați-vă de căldura galeriilor în timp ce afară bate vântul.",
+                "en": "Enjoy the warmth of the galleries while the wind blows outside."
+              }
+            },
+            {
+              "name": "Raphael's Birthplace",
+              "tip_5lang": {
+                "de": "Ein kurzer, knackiger Winterspaziergang vom nahen Parkplatz.",
+                "hu": "Rövid, frissítő téli séta a közeli parkolótól.",
+                "ro": "O plimbare scurtă și revigorantă de iarnă de la parcarea apropiată.",
+                "en": "A short, crisp winter walk from the nearby parking."
+              }
+            },
+            {
+              "name": "Albornoz Fortress",
+              "tip_5lang": {
+                "de": "Ideal für ein schnelles Foto der verschneiten Dächer von Urbino.",
+                "hu": "Ideális egy gyors fotóhoz Urbino havas háztetőiről.",
+                "ro": "Ideal pentru o fotografie rapidă a acoperișurilor înzăpezite din Urbino.",
+                "en": "Ideal for a quick photo of Urbino's snowy rooftops."
+              }
+            },
+            {
+              "name": "Ducal Palace of Urbania",
+              "tip_5lang": {
+                "de": "Die Fahrt dorthin zeigt die Schönheit der Marken im Winter.",
+                "hu": "Az odaút megmutatja Marche tartomány téli szépségét.",
+                "ro": "Drumul până acolo arată frumusețea regiunii Marche iarna.",
+                "en": "The drive there shows the beauty of the Marche region in winter."
+              }
+            },
+            {
+              "name": "Church of the Dead (Urbania)",
+              "tip_5lang": {
+                "de": "Die kühle Krypta passt perfekt zur frostigen Jahreszeit.",
+                "hu": "A hűvös kripta tökéletesen illik a fagyos évszakhoz.",
+                "ro": "Cripta răcoroasă se potrivește perfect cu sezonul geros.",
+                "en": "The cool crypt fits perfectly with the frosty season."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen oder Schneeketten sind in dieser Hügelregion gesetzlich vorgeschrieben.",
+              "Die Landstraßen können am frühen Morgen oder späten Abend vereist sein.",
+              "Tanken Sie rechtzeitig; im Winter verbraucht die Heizung mehr Energie.",
+              "Besuchen Sie Urbania am frühen Nachmittag, um das Tageslicht für die Fahrt zu nutzen."
+            ],
+            "hu": [
+              "A téli gumi vagy hólánc kötelező ebben a dombos régióban.",
+              "Az országutak kora reggel vagy késő este jegesek lehetnek.",
+              "Tankoljon időben; télen a fűtés több energiát fogyaszt.",
+              "Látogasson el Urbaniába kora délután, hogy kihasználja a nappali fényt az úthoz."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sau lanțurile sunt obligatorii prin lege în această regiune deluroasă.",
+              "Drumurile naționale pot fi înghețate dimineața devreme sau seara târziu.",
+              "Alimentați la timp; iarna încălzirea consumă mai multă energie.",
+              "Vizitați Urbania după-amiaza devreme pentru a profita de lumina zilei la drum."
+            ],
+            "en": [
+              "Winter tires or snow chains are legally required in this hilly region.",
+              "Country roads can be icy in the early morning or late evening.",
+              "Refuel in time; the heater consumes more energy in winter.",
+              "Visit Urbania in the early afternoon to use the daylight for the drive."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1013,6 +2137,350 @@
           "Buy tickets in advance at bars or tobacco shops.",
           "Buses run less frequently on Sundays."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das lokale Busnetz, um sich bequem in Urbino zu bewegen. Starten Sie an der Porta Santa Lucia und fahren Sie ins Zentrum zur Piazza della Repubblica. Nach dem Besuch des Palazzo Ducale und des Klosters Santa Chiara bringt Sie der Bus hinauf zur Festung, von wo aus Sie den Abstieg zu Fuß genießen können.",
+            "hu": "Használja a helyi buszhálózatot Urbino kényelmes felfedezéséhez. Kezdjen a Porta Santa Lucia-nál, és menjen be a központba, a Piazza della Repubblica térre. A Palazzo Ducale és a Szent Klára kolostor után a busz felviszi az erődhöz, ahonnan gyalogosan ereszkedhet vissza.",
+            "ro": "Folosiți rețeaua locală de autobuze pentru a vă deplasa confortabil în Urbino. Începeți de la Porta Santa Lucia și mergeți în centru, la Piazza della Repubblica. După vizitarea Palazzo Ducale și a mănăstirii Santa Chiara, autobuzul vă va duce sus la fortăreață, de unde vă puteți bucura de coborârea pe jos.",
+            "en": "Use the local bus network to get around Urbino comfortably. Start at Porta Santa Lucia and go to the center at Piazza della Repubblica. After visiting the Ducal Palace and the Monastery of Santa Chiara, the bus will take you up to the fortress, from where you can enjoy the walk back down."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porta Santa Lucia",
+                "hu": "Szent Lúcia kapu",
+                "ro": "Porta Santa Lucia",
+                "en": "Porta Santa Lucia"
+              },
+              "tip_5lang": {
+                "de": "Wichtiger Busknotenpunkt am Stadtrand.",
+                "hu": "Fontos buszcsomópont a város szélén.",
+                "ro": "Nod de transport important la marginea orașului.",
+                "en": "Important bus hub on the outskirts."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza della Repubblica",
+                "hu": "Piazza della Repubblica",
+                "ro": "Piazza della Repubblica",
+                "en": "Piazza della Repubblica"
+              },
+              "tip_5lang": {
+                "de": "Das Zentrum ist gut mit dem Minibus erreichbar.",
+                "hu": "A belváros jól elérhető kisbusszal.",
+                "ro": "Centrul este ușor accesibil cu microbuzul.",
+                "en": "The center is easily accessible by minibus."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Ducale",
+                "hu": "Ducale palota",
+                "ro": "Palatul Ducal",
+                "en": "Ducal Palace"
+              },
+              "tip_5lang": {
+                "de": "Nur ein kurzer Spaziergang von der Bushaltestelle.",
+                "hu": "Csak rövid séta a buszmegállótól.",
+                "ro": "Doar o scurtă plimbare de la stația de autobuz.",
+                "en": "Only a short walk from the bus stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Monastero di Santa Chiara",
+                "hu": "Szent Klára kolostor",
+                "ro": "Mănăstirea Santa Chiara",
+                "en": "Monastery of Santa Chiara"
+              },
+              "tip_5lang": {
+                "de": "Fragen Sie den Fahrer nach der nächsten Haltestelle.",
+                "hu": "Kérdezze a sofőrt a legközelebbi megállóról.",
+                "ro": "Întrebați șoferul despre cea mai apropiată stație.",
+                "en": "Ask the driver for the nearest stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortezza Albornoz",
+                "hu": "Albornoz erőd",
+                "ro": "Fortăreața Albornoz",
+                "en": "Albornoz Fortress"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie den Bus bergauf, um Kraft zu sparen.",
+                "hu": "Menjen busszal felfelé, hogy erőt spóroljon.",
+                "ro": "Luați autobuzul la urcare pentru a economisi energie.",
+                "en": "Take the bus uphill to save energy."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Biscotti di Urbino",
+                "tip": "Hervorragendes lokales Gebäck."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Urbinoi kekszek",
+                "tip": "Kiváló helyi aprósütemények."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Biscuiți de Urbino",
+                "tip": "Produse de patiserie locale excelente."
+              }
+            ],
+            "en": [
+              {
+                "name": "Urbino Biscuits",
+                "tip": "Excellent local pastries."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Klostergärten",
+                "tip": "Stille Oasen in der Stadt.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kolostorkertek",
+                "tip": "Csendes oázisok a városban.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădinile mănăstirii",
+                "tip": "Oaze de liniște în oraș.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Monastery Gardens",
+                "tip": "Quiet oases in the city.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Tabacchi",
+                "tip": "Hier können Sie Busfahrkarten kaufen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Tabacchi",
+                "tip": "Itt vásárolhat buszjegyeket."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tabacchi",
+                "tip": "Aici puteți cumpăra bilete de autobuz."
+              }
+            ],
+            "en": [
+              {
+                "name": "Tabacchi",
+                "tip": "You can buy bus tickets here."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten im Voraus in Bars oder Tabakläden.",
+              "Die Busse verkehren seltener an Sonntagen."
+            ],
+            "hu": [
+              "Vásároljon jegyet előre bárokban vagy trafikokban.",
+              "A buszok ritkábban járnak vasárnap."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans de la baruri sau tutungerii.",
+              "Autobuzele circulă mai rar duminica."
+            ],
+            "en": [
+              "Buy tickets in advance at bars or tobacco shops.",
+              "Buses run less frequently on Sundays."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Stadtbusse, um den Regen auf den steilen Wegen zu vermeiden. Der Vormittag startet trocken an der Porta Santa Lucia.\n\nMittags erreichen Sie bequem den Hauptplatz und den Herzogspalast, wo Sie Stunden im Trockenen verbringen können.\n\nNachmittags bringt Sie der Transit zum Kloster Santa Chiara, einem Ort der Ruhe fernab des nassen Trubels.\n\nDer Tag endet an der Albornoz-Festung; nutzen Sie den Bus so weit wie möglich, um nicht im Regen bergauf laufen zu müssen.",
+            "hu": "Használja a városi buszokat, hogy elkerülje az esőt a meredek utakon. A délelőtt szárazon indul a Porta Santa Luciánál.\n\nDélben kényelmesen eléri a főteret és a hercegi palotát, ahol órákat tölthet fedett helyen.\n\nDélután a tömegközlekedés elviszi a Santa Chiara kolostorhoz, a nyugalom helyére a vizes nyüzsgéstől távol.\n\nA nap az Albornoz-erődnél zárul; használja a buszt, ameddig csak lehet, hogy ne kelljen esőben hegynek felfelé gyalogolnia.",
+            "ro": "Folosiți autobuzele urbane pentru a evita ploaia pe drumurile abrupte. Dimineața începe uscat la Porta Santa Lucia.\n\nLa prânz ajungeți confortabil în piața principală și la Palatul Ducal, unde puteți petrece ore întregi la adăpost.\n\nDupă-amiaza tranzitul vă duce la Mănăstirea Santa Chiara, un loc de liniște departe de agitația umedă.\n\nZiua se încheie la Cetatea Albornoz; folosiți autobuzul cât mai mult posibil pentru a nu merge prin ploaie la deal.",
+            "en": "Use the city buses to avoid the rain on the steep paths. The morning starts dry at Porta Santa Lucia.\n\nAt noon, comfortably reach the main square and the Ducal Palace, where you can spend hours indoors.\n\nIn the afternoon, transit takes you to the Monastery of Santa Chiara, a place of peace away from the wet bustle.\n\nThe day ends at the Albornoz Fortress; use the bus as far as possible to avoid walking uphill in the rain."
+          },
+          "stops": [
+            {
+              "name": "Porta Santa Lucia",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet einen Unterstand für die Wartezeit.",
+                "hu": "A buszmegálló fedett váróhelyet kínál a várakozáshoz.",
+                "ro": "Stația de autobuz oferă un adăpost pentru timpul de așteptare.",
+                "en": "The bus stop provides a shelter for the waiting time."
+              }
+            },
+            {
+              "name": "Piazza della Repubblica",
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt mit vielen Cafés zum Unterstellen.",
+                "hu": "Központi átszállási pont sok kávézóval a környéken.",
+                "ro": "Punct central de transfer cu multe cafenele pentru adăpost.",
+                "en": "Central transfer point with many cafes nearby for shelter."
+              }
+            },
+            {
+              "name": "Ducal Palace",
+              "tip_5lang": {
+                "de": "In unmittelbarer Nähe zur Bushaltestelle im Zentrum.",
+                "hu": "Közvetlenül a belvárosi buszmegálló közelében található.",
+                "ro": "În imediata apropiere a stației de autobuz din centru.",
+                "en": "In the immediate vicinity of the downtown bus stop."
+              }
+            },
+            {
+              "name": "Monastery of Santa Chiara",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Bus ins trockene Gebäude genügt.",
+                "hu": "Egy rövid sprint a busztól a száraz épületig elég.",
+                "ro": "Un scurt sprint de la autobuz până la clădirea uscată este suficient.",
+                "en": "A short sprint from the bus to the dry building is enough."
+              }
+            },
+            {
+              "name": "Albornoz Fortress",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Fahrpläne für die Rückfahrt, um nicht im Regen zu warten.",
+                "hu": "Ellenőrizze a menetrendet a visszaúthoz, hogy ne várjon az esőben.",
+                "ro": "Verificați orarul pentru retur ca să nu așteptați în ploaie.",
+                "en": "Check the return schedules to avoid waiting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Bustickets vorab in Tabakläden, um Stress im Regen zu vermeiden.",
+              "Die Linie 'Circolare' verbindet die wichtigsten Punkte im 20-Minuten-Takt.",
+              "Nutzen Sie die Bus-App für Live-Abfahrten bei unbeständigem Wetter.",
+              "An Regentagen sind die Busse oft voller als gewöhnlich."
+            ],
+            "hu": [
+              "Vásároljon buszjegyet előre dohányboltokban, hogy elkerülje a stresszt az esőben.",
+              "A 'Circolare' vonal 20 percenként összeköti a legfontosabb pontokat.",
+              "Használja a buszos alkalmazást az élő indulásokhoz változékony időben.",
+              "Esős napokon a buszok gyakran zsúfoltabbak a szokásosnál."
+            ],
+            "ro": [
+              "Cumpărați bilete de autobuz în avans de la tutungerii pentru a evita stresul pe ploaie.",
+              "Linia 'Circolare' conectează punctele principale la fiecare 20 de minute.",
+              "Folosiți aplicația de autobuz pentru plecări live în caz de vreme instabilă.",
+              "În zilele ploioase, autobuzele sunt adesea mai pline decât de obicei."
+            ],
+            "en": [
+              "Buy bus tickets in advance at tobacco shops to avoid stress in the rain.",
+              "The 'Circolare' line connects the main points every 20 minutes.",
+              "Use the bus app for live departures during unsettled weather.",
+              "Buses are often more crowded than usual on rainy days."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die warmen Busse sind im Winter ein Segen für den Weg durch Urbino. Der Vormittag an der Porta Santa Lucia bietet einen klaren, frostigen Start.\n\nMittags erreichen Sie den Palast, wo Sie die beheizten Räume genießen, während der Transit Sie vor dem kalten Wind schützt.\n\nNachmittags geht es zum Kloster Santa Chiara, dessen dicke Mauern eine behagliche Atmosphäre im Winter ausstrahlen.\n\nDer Tag endet an der Festung, wobei Sie rechtzeitig den letzten Bus vor dem frühen Einbruch der Dunkelheit nehmen sollten.",
+            "hu": "A meleg buszok télen áldást jelentenek az urbinói közlekedésben. A délelőtt a Porta Santa Luciánál tiszta, fagyos kezdést kínál.\n\nDélben eléri a palotát, ahol élvezheti a fűtött termeket, miközben a busz megvédi a hideg széltől.\n\nDélután a Santa Chiara kolostor felé veszi az irányt, amelynek vastag falai otthonos hangulatot árasztanak télen.\n\nA nap az erődnél zárul; ügyeljen rá, hogy időben érje el az utolsó buszt a korai sötétedés előtt.",
+            "ro": "Autobuzele calde sunt o binecuvântare iarna pentru deplasarea prin Urbino. Dimineața la Porta Santa Lucia oferă un început senin și geros.\n\nLa prânz ajungeți la palat, unde vă bucurați de sălile încălzite, în timp ce tranzitul vă protejează de vântul rece.\n\nDupă-amiaza mergeți spre Mănăstirea Santa Chiara, ale cărei ziduri groase emană o atmosferă primitoare iarna.\n\nZiua se încheie la cetate; aveți grijă să luați ultimul autobuz înainte de lăsarea timpurie a întunericului.",
+            "en": "The warm buses are a blessing for getting around Urbino in winter. The morning at Porta Santa Lucia offers a clear, frosty start.\n\nAt noon, reach the palace where you can enjoy the heated rooms while transit protects you from the cold wind.\n\nIn the afternoon, head to the Monastery of Santa Chiara, whose thick walls radiate a cozy atmosphere in winter.\n\nThe day ends at the fortress; make sure to catch the last bus before the early onset of darkness."
+          },
+          "stops": [
+            {
+              "name": "Porta Santa Lucia",
+              "tip_5lang": {
+                "de": "Warten Sie im Inneren des Wartehäuschens, um dem Wind zu entgehen.",
+                "hu": "Várjon a buszváró belsejében, hogy elkerülje a szelet.",
+                "ro": "Așteptați în interiorul refugiului pentru a evita vântul.",
+                "en": "Wait inside the bus shelter to escape the wind."
+              }
+            },
+            {
+              "name": "Piazza della Repubblica",
+              "tip_5lang": {
+                "de": "Ein lebendiger Ort, auch im Winter; ideal für eine kurze Kaffeepause.",
+                "hu": "Élettel teli hely télen is; ideális egy rövid kávészünetre.",
+                "ro": "Un loc plin de viață chiar și iarna; ideal pentru o scurtă pauză de cafea.",
+                "en": "A lively place even in winter; ideal for a quick coffee break."
+              }
+            },
+            {
+              "name": "Ducal Palace",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt sehr nah am warmen Eingangsbereich.",
+                "hu": "A buszmegálló nagyon közel van a meleg bejárati részhez.",
+                "ro": "Stația de autobuz este foarte aproape de zona caldă de intrare.",
+                "en": "The bus stop is very close to the warm entrance area."
+              }
+            },
+            {
+              "name": "Monastery of Santa Chiara",
+              "tip_5lang": {
+                "de": "Ein friedlicher, warmer Ort während der kalten Nachmittagsstunden.",
+                "hu": "Békés, meleg hely a hideg délutáni órákban.",
+                "ro": "Un loc pașnic și cald în timpul orelor reci de după-amiază.",
+                "en": "A peaceful, warm place during the cold afternoon hours."
+              }
+            },
+            {
+              "name": "Albornoz Fortress",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus für den Rückweg, wenn es nach Sonnenuntergang kalt wird.",
+                "hu": "Használja a buszt a visszaúthoz, amikor naplemente után lehűl a levegő.",
+                "ro": "Folosiți autobuzul pentru retur când se face frig după apus.",
+                "en": "Use the bus for the return trip when it gets cold after sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter gut beheizt und eine tolle Aufwärmmöglichkeit.",
+              "Beachten Sie den Winterfahrplan, der an Feiertagen abweichen kann.",
+              "Die Sicht aus dem Bus kann bei beschlagenen Scheiben eingeschränkt sein.",
+              "Tragen Sie Zwiebellook, da es im Bus warm, draußen aber eisig ist."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek, remek lehetőséget adnak a felmelegedésre.",
+              "Ügyeljen a téli menetrendre, amely ünnepnapokon eltérhet.",
+              "A buszból való kilátás a párás ablakok miatt korlátozott lehet.",
+              "Öltözködjön rétegesen, mert a buszon meleg van, kint viszont jeges a levegő."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna și reprezintă o modalitate excelentă de încălzire.",
+              "Respectați programul de iarnă, care poate varia în zilele de sărbătoare.",
+              "Vizibilitatea din autobuz poate fi limitată din cauza geamurilor aburite.",
+              "Îmbrăcați-vă în straturi, deoarece în autobuz este cald, dar afară este ger."
+            ],
+            "en": [
+              "Buses are well-heated in winter and are a great way to warm up.",
+              "Note the winter schedule, which may differ on public holidays.",
+              "Visibility from the bus can be limited due to fogged windows.",
+              "Wear layers, as it's warm on the bus but icy outside."
+            ]
+          }
+        }
       }
     }
   },

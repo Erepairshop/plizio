@@ -290,6 +290,412 @@
           "Sunscreen is essential in summer as the promenade offers little shade.",
           "Visit the harbor in the late afternoon for the best lighting mood."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Pakoštane besticht durch seine Lage zwischen dem Meer und dem Vrana-See. Der Vormittag beginnt am belebten Hafen, wo die Meeresbrise die Sinne weckt. Ein Spaziergang führt zur monumentalen Pfarrkirche und zur kleinen Insel St. Justina, die wie ein Wächter in der Bucht liegt. Mittags lädt der Strand Janice zum Entspannen ein, bevor der Tag im schattigen Pinienwald des Resorts ausklingt.",
+            "hu": "Pakoštane varázsát a tenger és a Vrana-tó közötti fekvése adja. A délelőtt a pezsgő kikötőben indul, ahol a tengeri szellő ébreszti az érzékeket. Rövid séta vezet a monumentális plébániatemplomhoz és a Szent Jusztina-szigethez, amely őrszemként áll az öbölben. Délben a Janice strand hívogat pihenésre, mielőtt a napot az üdülőhely árnyas fenyvesében zárnánk.",
+            "ro": "Pakoštane captivează prin locația sa între mare și Lacul Vrana. Dimineața începe în portul plin de viață, unde briza mării trezește simțurile. O plimbare duce la biserica parohială monumentală și la mica insulă Sfânta Iustina, care stă ca o santinelă în golf. La prânz, plaja Janice vă invită la relaxare, înainte ca ziua să se încheie în pădurea de pini umbrită a complexului.",
+            "en": "Pakoštane charms with its position between the sea and Lake Vrana. The morning starts at the bustling harbor, where the sea breeze wakes the senses. A stroll leads to the monumental parish church and the small islet of St. Justina, standing like a sentinel in the bay. At noon, Janice Beach invites relaxation before the day concludes in the shaded pine forest of the resort."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Pakoštane",
+              "tip_5lang": {
+                "de": "Frühmorgens den Fischern beim Entladen zusehen.",
+                "hu": "Kora reggel nézze meg a halászok érkezését.",
+                "ro": "Priviți pescarii descărcând captura dimineața devreme.",
+                "en": "Watch the fishermen unload their catch early in the morning."
+              }
+            },
+            {
+              "name": "Franjo Tuđman Denkmal",
+              "tip_5lang": {
+                "de": "Ein zentraler Treffpunkt mit Blick auf das Meer.",
+                "hu": "Központi találkozóhely kilátással a tengerre.",
+                "ro": "Un punct de întâlnire central cu vedere la mare.",
+                "en": "A central meeting point with a view of the sea."
+              }
+            },
+            {
+              "name": "Pfarrkirche Christi Himmelfahrt",
+              "tip_5lang": {
+                "de": "Bewundern Sie die lokale Steinmetzkunst der Fassade.",
+                "hu": "Csodálja meg a homlokzat helyi kőfaragásait.",
+                "ro": "Admirați lucrările locale în piatră ale fațadei.",
+                "en": "Admire the local stonework of the facade."
+              }
+            },
+            {
+              "name": "Insel und Kirche St. Justina",
+              "tip_5lang": {
+                "de": "Nur mit dem Boot oder schwimmend erreichbar, tolles Fotomotiv.",
+                "hu": "Csak csónakkal vagy úszva érhető el, kiváló fotótéma.",
+                "ro": "Accesibilă doar cu barca sau înotând, un subiect foto grozav.",
+                "en": "Accessible only by boat or swimming, great photo spot."
+              }
+            },
+            {
+              "name": "Strand Janice",
+              "tip_5lang": {
+                "de": "Flaches Wasser, ideal für Familien mit Kindern.",
+                "hu": "Sekély víz, ideális kisgyermekes családoknak.",
+                "ro": "Apă puțin adâncă, ideală pentru familii cu copii.",
+                "en": "Shallow water, ideal for families with children."
+              }
+            },
+            {
+              "name": "Pine Beach Resort",
+              "tip_5lang": {
+                "de": "Einzigartige Strohhütten im dichten Pinienwald.",
+                "hu": "Egyedülálló nádtetős kunyhók a sűrű fenyvesben.",
+                "ro": "Colibe de stuf unice în pădurea de pini densă.",
+                "en": "Unique straw huts in the dense pine forest."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Pakostane",
+                "tip": "Probieren Sie den Oktopussalat mit lokalem Olivenöl."
+              },
+              {
+                "name": "Restoran Tri Feral",
+                "tip": "Frisch gefangener Fisch vom Grill ist hier Pflicht."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba Pakostane",
+                "tip": "Kóstolja meg a polipsalátát helyi olívaolajjal."
+              },
+              {
+                "name": "Restoran Tri Feral",
+                "tip": "A frissen fogott grillezett hal itt kötelező."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Pakostane",
+                "tip": "Încercați salata de caracatiță cu ulei de măsline local."
+              },
+              {
+                "name": "Restoran Tri Feral",
+                "tip": "Peștele proaspăt prins la grătar este obligatoriu aici."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Pakostane",
+                "tip": "Try the octopus salad with local olive oil."
+              },
+              {
+                "name": "Restoran Tri Feral",
+                "tip": "Freshly caught grilled fish is a must here."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Klippenweg nach Drage",
+                "tip": "Panoramablick auf die Kornaten.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "St. Justina Aussichtspunkt",
+                "tip": "Stille am Meeresufer genießen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sziklás ösvény Drage felé",
+                "tip": "Panorámás kilátás a Kornati-szigetekre.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Szent Jusztina kilátópont",
+                "tip": "Élvezze a csendet a tengerparton.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cărarea pe stânci spre Drage",
+                "tip": "Vedere panoramică asupra insulelor Kornati.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Punctul de belvedere Sf. Iustina",
+                "tip": "Bucurați-vă de liniște pe malul mării.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cliff path to Drage",
+                "tip": "Panoramic view of the Kornati islands.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "St. Justina Viewpoint",
+                "tip": "Enjoy the silence by the seashore.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Markt",
+                "tip": "Getrocknete Feigen und Honig aus der Region."
+              },
+              {
+                "name": "Souvenirshop Riva",
+                "tip": "Handgefertigter Schmuck aus Korallen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi piac",
+                "tip": "Szárított füge és méz a környékről."
+              },
+              {
+                "name": "Riva ajándékbolt",
+                "tip": "Kézzel készített korall ékszerek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața locală",
+                "tip": "Smochine uscate și miere din regiune."
+              },
+              {
+                "name": "Magazinul de suveniruri Riva",
+                "tip": "Bijuterii din corali lucrate manual."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Market",
+                "tip": "Dried figs and honey from the region."
+              },
+              {
+                "name": "Riva Souvenir Shop",
+                "tip": "Handmade coral jewelry."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Sandalen für den Spaziergang entlang der Küste.",
+              "Ein kleines Boot zur Insel St. Justina zu mieten lohnt sich.",
+              "Sonnenschutz ist im Sommer unerlässlich, da die Promenade wenig Schatten bietet.",
+              "Besuchen Sie den Hafen am späten Nachmittag für die beste Lichtstimmung."
+            ],
+            "hu": [
+              "Viseljen kényelmes szandált a tengerparti sétához.",
+              "Érdemes bérelni egy kis csónakot a Szent Jusztina-szigethez.",
+              "A fényvédő használata nyáron elengedhetetlen, mivel a sétányon kevés az árnyék.",
+              "Látogasson el a kikötőbe késő délután a legjobb fényekért."
+            ],
+            "ro": [
+              "Purtați sandale confortabile pentru plimbarea de-a lungul coastei.",
+              "Merită să închiriați o barcă mică spre insula Sfânta Iustina.",
+              "Protecția solară este esențială vara, deoarece faleza oferă puțină umbră.",
+              "Vizitați portul după-amiaza târziu pentru cea mai bună lumină."
+            ],
+            "en": [
+              "Wear comfortable sandals for the walk along the coast.",
+              "Renting a small boat to St. Justina islet is worth it.",
+              "Sunscreen is essential in summer as the promenade offers little shade.",
+              "Visit the harbor in the late afternoon for the best lighting mood."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Hafen von Pakoštane, wo die Fischerboote im Regen tanzen. Ein kurzer Spaziergang führt Sie zum Tuđman-Denkmal und zur schützenden Pfarrkirche. Mittags bietet die Kirche St. Justina auf ihrer kleinen Insel einen mystischen Anblick durch den Regenschleier. Den Nachmittag verbringen Sie am Strand Janice, bevor Sie den Tag gemütlich im Pine Beach Resort ausklingen lassen.",
+            "hu": "Kezdje a napot a pakoštanei kikötőben, ahol az esőben ringatózó halászhajók látványa fogadja. Egy rövid séta elviszi a Tuđman-emlékműhöz és a menedéket nyújtó plébániatemplomhoz. Délben a Szent Jusztina-templom misztikus látványt nyújt a ködös tengeren. A délutánt a Janice-strandon töltheti, majd a napot a Pine Beach Resort fenyvesei között, az eső illatával zárhatja.",
+            "ro": "Începeți ziua în portul Pakoštane, unde bărcile de pescuit dansează în ploaie. O scurtă plimbare vă duce la monumentul Tuđman și la biserica parohială protectoare. La prânz, biserica Sf. Iustina de pe mica insulă oferă o vedere mistică prin perdeaua de ploaie. Petreceți după-amiaza la plaja Janice, înainte de a încheia ziua confortabil în zona Pine Beach Resort.",
+            "en": "Start your day at Pakoštane harbor, where fishing boats sway in the rain. A short walk leads you to the Tuđman monument and the sheltering parish church. At noon, St. Justina church on its islet offers a mystic sight through the rain veil. Spend the afternoon near Janice beach, then wrap up your day at the Pine Beach Resort area, enjoying the scent of wet pine trees."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Pakoštane",
+              "tip_4lang": {
+                "de": "Die Cafés am Hafen bieten trockene Sitzplätze mit Blick auf die Adria.",
+                "hu": "A kikötői kávézók fedett teraszairól figyelheti az adriai esőt.",
+                "ro": "Cafenelele din port oferă locuri uscate cu vedere la Marea Adriatică.",
+                "en": "Harbor cafes provide dry seating with views of the rainy Adriatic."
+              }
+            },
+            {
+              "name": "Franjo Tuđman Denkmal",
+              "tip_4lang": {
+                "de": "Ein schneller Fotostopp; der Platz ist bei Regen oft menschenleer.",
+                "hu": "Gyors fotómegálló; esőben a tér gyakran teljesen néptelen.",
+                "ro": "O oprire rapidă pentru fotografii; piața este adesea goală pe ploaie.",
+                "en": "A quick photo stop; the square is often deserted during rain."
+              }
+            },
+            {
+              "name": "Pfarrkirche Christi Himmelfahrt",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Innenraum für eine trockene Besichtigungspause.",
+                "hu": "Használja ki a belső teret egy száraz városnéző szünetre.",
+                "ro": "Folosiți interiorul pentru o pauză de vizitare la adăpost de ploaie.",
+                "en": "Utilize the interior for a dry sightseeing break."
+              }
+            },
+            {
+              "name": "Insel und Kirche St. Justina",
+              "tip_4lang": {
+                "de": "Bei starkem Wind und Regen ist die Bootsfahrt zur Insel nicht ratsam.",
+                "hu": "Erős szélben és esőben a csónakázás a szigetre nem ajánlott.",
+                "ro": "În caz de vânt puternic și ploaie, plimbarea cu barca spre insulă nu este recomandată.",
+                "en": "In case of strong wind and rain, the boat trip to the islet is not advised."
+              }
+            },
+            {
+              "name": "Strand Janice",
+              "tip_4lang": {
+                "de": "Das Meer wirkt bei Regen besonders dramatisch; ideal für Fotos.",
+                "hu": "A tenger esőben különösen drámai; ideális fotózáshoz.",
+                "ro": "Marea pare deosebit de dramatică pe ploaie; ideal pentru fotografii.",
+                "en": "The sea looks particularly dramatic in the rain; ideal for photography."
+              }
+            },
+            {
+              "name": "Pine Beach Resort",
+              "tip_4lang": {
+                "de": "Die Pinien bieten einen natürlichen Schutz vor leichtem Nieselregen.",
+                "hu": "A fenyőfák természetes védelmet nyújtanak az enyhe szemerkélő eső ellen.",
+                "ro": "Pinii oferă o protecție naturală împotriva burniței ușoare.",
+                "en": "The pine trees offer natural protection against light drizzle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen der Meeresbrise unerlässlich.",
+              "Die Steinpflaster am Hafen können bei Nässe rutschig sein.",
+              "Suchen Sie bei starkem Regen Schutz in der Pfarrkirche.",
+              "Tragen Sie wasserfeste Schuhe für den Strandspaziergang."
+            ],
+            "hu": [
+              "A tengeri szellő miatt egy strapabíró esernyő elengedhetetlen.",
+              "A kikötői kőburkolat vizesen csúszós lehet.",
+              "Heves eső esetén keressen menedéket a plébániatemplomban.",
+              "A tengerparti sétához viseljen vízálló cipőt."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza brizei marine.",
+              "Pavajul de piatră din port poate fi alunecos când este ud.",
+              "În caz de ploaie torențială, căutați adăpost în biserica parohială.",
+              "Purtați încălțăminte impermeabilă pentru plimbarea pe plajă."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to the sea breeze.",
+              "The stone pavement at the harbor can be slippery when wet.",
+              "Seek shelter in the parish church during heavy downpours.",
+              "Wear waterproof shoes for the beach walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die Stille des winterlichen Pakoštane am Hafen, wo die Luft klar und salzig ist. Besuchen Sie das Tuđman-Denkmal und die Pfarrkirche in der milden Wintersonne. Mittags blicken Sie zur einsamen Insel St. Justina hinüber. Der Nachmittag am Strand Janice bietet Ruhe pur, bevor Sie im Pine Beach Resort die frühe Dämmerung zwischen den duftenden Pinien genießen.",
+            "hu": "Tapasztalja meg a téli Pakoštane csendjét a kikötőben, ahol a levegő tiszta és sós. Látogasson el a Tuđman-emlékműhöz és a plébániatemplomhoz a lágy téli napsütésben. Délben a magányos Szent Jusztina-sziget látványában gyönyörködhet. A Janice-strandon töltött délután tiszta nyugalmat áraszt, mielőtt a Pine Beach Resort fenyői között élvezné a korai alkonyt.",
+            "ro": "Experimentați liniștea orașului Pakoštane iarna în port, unde aerul este proaspăt și sărat. Vizitați monumentul Tuđman și biserica parohială sub soarele blând de iarnă. La prânz, priviți spre insula solitară Sf. Iustina. După-amiaza la plaja Janice oferă relaxare pură, înainte de a vă bucura de amurgul timpuriu printre pinii parfumați din Pine Beach Resort.",
+            "en": "Experience the silence of winter Pakoštane at the harbor, where the air is crisp and salty. Visit the Tuđman monument and the parish church in the mild winter sun. At noon, gaze across to the lonely St. Justina islet. The afternoon at Janice beach offers pure tranquility before enjoying the early dusk among the fragrant pines at Pine Beach Resort."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Pakoštane",
+              "tip_4lang": {
+                "de": "Die Wintersonne wärmt hier mittags am besten; windfeste Kleidung wichtig.",
+                "hu": "A téli nap itt melegít legjobban délben; a szélálló ruházat fontos.",
+                "ro": "Soarele de iarnă încălzește cel mai bine aici la prânz; hainele rezistente la vânt sunt importante.",
+                "en": "The winter sun warms best here at noon; windproof clothing is important."
+              }
+            },
+            {
+              "name": "Franjo Tuđman Denkmal",
+              "tip_4lang": {
+                "de": "Ein ruhiger Ort für Reflexion ohne die sommerlichen Touristenmassen.",
+                "hu": "Csendes hely az elmélkedésre a nyári turistaáradat nélkül.",
+                "ro": "Un loc liniștit pentru reflecție, fără mulțimile de turiști din vară.",
+                "en": "A quiet place for reflection without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Pfarrkirche Christi Himmelfahrt",
+              "tip_4lang": {
+                "de": "Prüfen Sie die Zeiten für die Wintermessen; die Kirche ist oft beheizt.",
+                "hu": "Ellenőrizze a téli misék időpontját; a templom gyakran fűtött.",
+                "ro": "Verificați orele slujbelor de iarnă; biserica este adesea încălzită.",
+                "en": "Check the winter mass times; the church is often heated."
+              }
+            },
+            {
+              "name": "Insel und Kirche St. Justina",
+              "tip_4lang": {
+                "de": "Die Insel wirkt im Winterlicht besonders malerisch und einsam.",
+                "hu": "A sziget a téli fényben különösen festői és magányos látványt nyújt.",
+                "ro": "Insula arată deosebit de pitorească și solitară în lumina iernii.",
+                "en": "The islet looks particularly picturesque and lonely in the winter light."
+              }
+            },
+            {
+              "name": "Strand Janice",
+              "tip_4lang": {
+                "de": "Perfekt für einen langen, einsamen Strandspaziergang bei kühler Luft.",
+                "hu": "Tökéletes egy hosszú, magányos tengerparti sétához a hűvös levegőn.",
+                "ro": "Perfect pentru o plimbare lungă și solitară pe plajă în aerul răcoros.",
+                "en": "Perfect for a long, lonely beach walk in the cool air."
+              }
+            },
+            {
+              "name": "Pine Beach Resort",
+              "tip_4lang": {
+                "de": "Beachten Sie, dass das Resort im Winter geschlossen ist; nur Außenbesichtigung.",
+                "hu": "Vegye figyelembe, hogy a resort télen zárva tart; csak kívülről nézhető meg.",
+                "ro": "Rețineți că resortul este închis iarna; este posibilă doar vizitarea exterioară.",
+                "en": "Note that the resort is closed in winter; only external viewing is possible."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:30 Uhr unter.",
+              "Der Bura-Wind kann die gefühlte Temperatur stark senken.",
+              "Viele Strandcafés haben im Winter eingeschränkte Öffnungszeiten.",
+              "Zwiebelprinzip bei der Kleidung schützt vor dem kühlen Seewind."
+            ],
+            "hu": [
+              "Decemberben a nap már 16:30 körül lenyugszik.",
+              "A bóra szél jelentősen csökkentheti a hőérzetet.",
+              "Sok tengerparti kávézó télen korlátozott nyitvatartással üzemel.",
+              "A réteges öltözködés véd a hűvös tengeri széltől."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:30 în decembrie.",
+              "Vântul Bura poate scădea considerabil temperatura resimțită.",
+              "Multe cafenele de pe plajă au program limitat iarna.",
+              "Îmbrăcămintea stratificată protejează împotriva vântului rece de mare."
+            ],
+            "en": [
+              "The sun sets as early as 16:30 in December.",
+              "The Bura wind can significantly lower the perceived temperature.",
+              "Many beach cafes have limited opening hours in winter.",
+              "Layered clothing protects against the cool sea wind."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -504,6 +910,333 @@
           "Take enough water, there are few springs along the way.",
           "Binoculars are highly recommended at the lake."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Die Fahrradtour verbindet das mediterrane Flair der Küste mit der wilden Natur des Hinterlandes. Der Weg führt entlang des Vrana-Sees, einem Paradies für Ornithologen. Das Highlight ist der Maškovića Han, eine beeindruckende Karawanserei aus dem 17. Jahrhundert. Nach der historischen Entdeckung führt der Weg zurück ans Meer, wo eine Erfrischung am Strand Janice auf die Radfahrer wartet.",
+            "hu": "A kerékpártúra összeköti a tengerpart mediterrán hangulatát a hátország vad természetével. Az út a Vrana-tó mentén vezet, amely az ornitológusok paradicsoma. A csúcspont a Maškovića Han, egy lenyűgöző 17. századi karavánszeráj. A történelmi felfedezés után az út visszavezet a tengerhez, ahol a Janice strandon frissítő várja a bringásokat.",
+            "ro": "Turul cu bicicleta combină flerul mediteranean al coastei cu natura sălbatică a hinterlandului. Drumul duce de-a lungul Lacului Vrana, un paradis pentru ornitologi. Punctul culminant este Hanul Maškovića, un caravanserai impresionant din secolul al XVII-lea. După descoperirea istorică, drumul se întoarce la mare, unde o răcorire pe plaja Janice îi așteaptă pe bicicliști.",
+            "en": "The bike tour combines the Mediterranean flair of the coast with the wild nature of the hinterland. The path leads along Lake Vrana, a paradise for ornithologists. The highlight is Maškovića Han, an impressive 17th-century caravanserai. After the historical discovery, the path returns to the sea, where a refreshment at Janice Beach awaits the cyclists."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Pakoštane",
+              "tip_5lang": {
+                "de": "Startpunkt für die Tour um den See.",
+                "hu": "A tó körüli túra kiindulópontja.",
+                "ro": "Punctul de plecare pentru turul în jurul lacului.",
+                "en": "Starting point for the tour around the lake."
+              }
+            },
+            {
+              "name": "Naturpark Vrana-See",
+              "tip_5lang": {
+                "de": "Vogelbeobachtungsturm am Nordufer besuchen.",
+                "hu": "Látogassa meg a madármegfigyelő tornyot az északi parton.",
+                "ro": "Vizitați turnul de observare a păsărilor de pe malul nordic.",
+                "en": "Visit the birdwatching tower on the north shore."
+              }
+            },
+            {
+              "name": "Maškovića Han",
+              "tip_5lang": {
+                "de": "Die nördlichste osmanische Festung Europas.",
+                "hu": "Európa legészakibb oszmán erődítménye.",
+                "ro": "Cea mai nordică fortăreață otomană din Europa.",
+                "en": "The northernmost Ottoman fortress in Europe."
+              }
+            },
+            {
+              "name": "Pfarrkirche Christi Himmelfahrt",
+              "tip_5lang": {
+                "de": "Ein kühler Rückzugsort nach der Fahrt.",
+                "hu": "Hűvös menedék a biciklizés után.",
+                "ro": "Un refugiu răcoros după plimbare.",
+                "en": "A cool retreat after the ride."
+              }
+            },
+            {
+              "name": "Strand Janice",
+              "tip_5lang": {
+                "de": "Sprung ins kühle Nass zur Belohnung.",
+                "hu": "Jutalomként csobbanjon egyet a hűvös vízben.",
+                "ro": "Săriți în apa rece ca recompensă.",
+                "en": "Jump into the cool water as a reward."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Han Restaurant",
+                "tip": "Traditionelles Brot und Fleischgerichte im historischen Ambiente."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Han Restaurant",
+                "tip": "Hagyományos kenyér és húsételek történelmi környezetben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Han Restaurant",
+                "tip": "Pâine tradițională și preparate din carne într-un cadru istoric."
+              }
+            ],
+            "en": [
+              {
+                "name": "Han Restaurant",
+                "tip": "Traditional bread and meat dishes in a historical setting."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Vogelschutzgebiet",
+                "tip": "Vogelstimmen am Seeufer lauschen.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Madárvédelmi terület",
+                "tip": "Hallgassa a madárdalt a tóparton.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Rezervația ornitologică",
+                "tip": "Ascultați cântecul păsărilor pe malul lacului.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Bird Sanctuary",
+                "tip": "Listen to bird calls on the lakeshore.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Vrana-See Infozentrum",
+                "tip": "Naturführer und lokale Produkte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vrana-tó látogatóközpont",
+                "tip": "Természetjáró kalauzok és helyi termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Centrul de informare Lacul Vrana",
+                "tip": "Ghiduri naturale și produse locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vrana Lake Info Center",
+                "tip": "Nature guides and local products."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck vor der Fahrt zum See.",
+              "Die Wege am Vrana-See sind teilweise geschottert.",
+              "Nehmen Sie ausreichend Wasser mit, es gibt wenig Quellen unterwegs.",
+              "Ein Fernglas ist am See sehr zu empfehlen."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást a tóhoz indulás előtt.",
+              "A Vrana-tó körüli utak részben kavicsosak.",
+              "Vigyen elegendő vizet, útközben kevés a forrás.",
+              "A tónál nagyon ajánlott a távcső használata."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope înainte de plecare.",
+              "Drumurile de la Lacul Vrana sunt parțial pietruite.",
+              "Luați suficientă apă, sunt puține surse pe drum.",
+              "Un binoclu este foarte recomandat la lac."
+            ],
+            "en": [
+              "Check tire pressure before heading to the lake.",
+              "The paths at Lake Vrana are partially graveled.",
+              "Take enough water, there are few springs along the way.",
+              "Binoculars are highly recommended at the lake."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Hafen und radeln Sie vorsichtig zum Naturpark Vrana-See, wo die Natur im Regen auflebt. Das Maškovića Han bietet den perfekten trockenen Rückzugsort für eine geschichtsträchtige Pause. Zurück im Ort besuchen Sie die Pfarrkirche, bevor Sie am Strand Janice die Gischt des stürmischen Meeres bewundern.",
+            "hu": "Induljon a kikötőből, és biciklizzen óvatosan a Vrana-tavi Natúrparkba, ahol a természet újjáéled az esőben. A Maškovića Han tökéletes száraz menedéket nyújt egy történelmi szünethez. A faluba visszatérve látogassa meg a plébániatemplomot, majd a Janice-strandon csodálja meg a viharos tenger habjait.",
+            "ro": "Porniți din port și pedalați cu atenție spre Parcul Natural Lacul Vrana, unde natura prinde viață sub ploaie. Maškovića Han oferă refugiul uscat perfect pentru o pauză istorică. Revenind în localitate, vizitați biserica parohială înainte de a admira spuma mării agitate la plaja Janice.",
+            "en": "Start at the harbor and cycle carefully to Vrana Lake Nature Park, where nature revives in the rain. Maškovića Han provides the perfect dry retreat for a historical break. Returning to town, visit the parish church before admiring the spray of the stormy sea at Janice beach."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Pakoštane",
+              "tip_4lang": {
+                "de": "Prüfen Sie den Reifendruck; nasser Asphalt erfordert mehr Grip.",
+                "hu": "Ellenőrizze a guminyomást; a vizes aszfalt több tapadást igényel.",
+                "ro": "Verificați presiunea în anvelope; asfaltul ud necesită mai multă aderență.",
+                "en": "Check tire pressure; wet asphalt requires more grip."
+              }
+            },
+            {
+              "name": "Naturpark Vrana-See",
+              "tip_4lang": {
+                "de": "Die unbefestigten Wege können schlammig sein; Schutzbleche sind ratsam.",
+                "hu": "A burkolatlan utak sarasak lehetnek; a sárvédő ajánlott.",
+                "ro": "Drumurile neasfaltate pot fi noroioase; aripile de protecție sunt recomandate.",
+                "en": "Unpaved paths can be muddy; mudguards are advisable."
+              }
+            },
+            {
+              "name": "Maškovića Han",
+              "tip_4lang": {
+                "de": "Ideal, um das Fahrrad sicher abzustellen und sich im Inneren aufzuwärmen.",
+                "hu": "Ideális a kerékpár biztonságos leállítására és a benti bemelegedésre.",
+                "ro": "Ideal pentru a lăsa bicicleta în siguranță și pentru a vă încălzi în interior.",
+                "en": "Ideal for parking the bike safely and warming up inside."
+              }
+            },
+            {
+              "name": "Pfarrkirche Christi Himmelfahrt",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Kirchenmauern als Wind- und Regenschutz beim Abstellen.",
+                "hu": "Használja a templomfalakat szél- és esővédelemként a parkolásnál.",
+                "ro": "Folosiți zidurile bisericii ca protecție împotriva vântului și ploii la parcare.",
+                "en": "Use the church walls as wind and rain protection when parking."
+              }
+            },
+            {
+              "name": "Strand Janice",
+              "tip_4lang": {
+                "de": "Kurzer Stopp; salzige Gischt bei Regen kann die Kette korrodieren.",
+                "hu": "Rövid megálló; a sós permet esőben korrodálhatja a láncot.",
+                "ro": "Oprire scurtă; spray-ul sărat pe ploaie poate coroda lanțul.",
+                "en": "Short stop; salty spray in the rain can corrode the chain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und wasserfeste Überhosen.",
+              "Vermeiden Sie scharfe Kurven auf den glitschigen Uferwegen des Vrana-Sees.",
+              "Ein helles Rücklicht ist bei schlechter Sicht durch Regen Pflicht.",
+              "Reinigen Sie Ihr Fahrrad nach der Tour von Schlamm und Salz."
+            ],
+            "hu": [
+              "Viseljen teljes esőkabátot és vízálló nadrágot.",
+              "Kerülje az éles kanyarokat a Vrana-tó csúszós parti útjain.",
+              "Eső miatti rossz látási viszonyoknál a fényes hátsó lámpa kötelező.",
+              "A túra után tisztítsa meg kerékpárját a sártól és a sótól."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie completă și suprapantaloni impermeabili.",
+              "Evitați virajele strânse pe potecile alunecoase de pe malul lacului Vrana.",
+              "Un stop luminos este obligatoriu în condiții de vizibilitate redusă din cauza ploii.",
+              "Curățați bicicleta de noroi și sare după tură."
+            ],
+            "en": [
+              "Wear a full raincoat and waterproof overtrousers.",
+              "Avoid sharp turns on the slippery shore paths of Vrana Lake.",
+              "A bright tail light is mandatory during poor visibility caused by rain.",
+              "Clean your bike from mud and salt after the tour."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie erfrischt am Hafen und nutzen Sie das klare Winterlicht für eine Tour zum Vrana-See. Das historische Ambiente des Maškovića Han wärmt Körper und Geist. Zurück im Ort bietet die Pfarrkirche einen Moment der Stille, bevor Sie die winterliche Einsamkeit am Strand Janice bei einer kurzen Radpause genießen.",
+            "hu": "Frissen induljon a kikötőből, és használja ki a tiszta téli fényt egy túrához a Vrana-tóhoz. A Maškovića Han történelmi környezete felmelegíti a testet és a lelket. A faluba visszatérve a plébániatemplom csendes pillanatot kínál, mielőtt a Janice-strandon élvezné a téli magányt.",
+            "ro": "Porniți revigorați din port și profitați de lumina clară de iarnă pentru o tură la lacul Vrana. Ambianța istorică de la Maškovića Han încălzește corpul și spiritul. Revenind în localitate, biserica parohială oferă un moment de liniște înainte de a vă bucura de singurătatea iernii la plaja Janice.",
+            "en": "Start refreshed at the harbor and take advantage of the clear winter light for a tour to Vrana Lake. The historical ambiance of Maškovića Han warms body and soul. Returning to town, the parish church offers a moment of silence before enjoying winter solitude at Janice beach during a brief bike break."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Pakoštane",
+              "tip_4lang": {
+                "de": "Kalte Luft beim Start; Handschuhe und Stirnband sind sehr zu empfehlen.",
+                "hu": "Hideg levegő induláskor; kesztyű és fejpánt erősen ajánlott.",
+                "ro": "Aer rece la plecare; mănușile și bentița sunt foarte recomandate.",
+                "en": "Cold air at the start; gloves and a headband are highly recommended."
+              }
+            },
+            {
+              "name": "Naturpark Vrana-See",
+              "tip_4lang": {
+                "de": "Vogelbeobachtung im Winter ist fantastisch; Fernglas nicht vergessen.",
+                "hu": "A téli madármegfigyelés fantasztikus; ne felejtse el a távcsövet.",
+                "ro": "Observarea păsărilor iarna este fantastică; nu uitați binoclul.",
+                "en": "Bird watching in winter is fantastic; don't forget your binoculars."
+              }
+            },
+            {
+              "name": "Maškovića Han",
+              "tip_4lang": {
+                "de": "Perfekt für eine warme Suppe oder einen Tee in historischem Gemäuer.",
+                "hu": "Tökéletes egy meleg leveshez vagy teához a történelmi falak között.",
+                "ro": "Perfect pentru o supă caldă sau un ceai între zidurile istorice.",
+                "en": "Perfect for a warm soup or tea within historical walls."
+              }
+            },
+            {
+              "name": "Pfarrkirche Christi Himmelfahrt",
+              "tip_4lang": {
+                "de": "Kurzer Stopp; achten Sie auf glatte Stellen im Schatten der Kirche.",
+                "hu": "Rövid megálló; ügyeljen a jeges foltokra a templom árnyékában.",
+                "ro": "Oprire scurtă; atenție la porțiunile alunecoase la umbra bisericii.",
+                "en": "Short stop; watch out for icy patches in the shadow of the church."
+              }
+            },
+            {
+              "name": "Strand Janice",
+              "tip_4lang": {
+                "de": "Die Meeresbrise ist im Winter eisig; halten Sie den Stopp kurz.",
+                "hu": "A tengeri szellő télen jeges; tartsa röviden a megállót.",
+                "ro": "Briza mării este geroasă iarna; păstrați oprirea scurtă.",
+                "en": "The sea breeze is icy in winter; keep the stop short."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Ihre Rückkehr vor 16:30 Uhr ein, um im Hellen anzukommen.",
+              "Tragen Sie Thermo-Fahrradbekleidung, besonders für die Beine.",
+              "Die Wege am See können bei Frost sehr hart und uneben sein.",
+              "Ein heißes Getränk in einer Thermoskanne hält Sie von innen warm."
+            ],
+            "hu": [
+              "Tervezze a visszatérést 16:30 elé, hogy még világosban érkezzen.",
+              "Viseljen termo-kerékpáros ruházatot, különösen a lábakra.",
+              "A tóparti utak fagy esetén nagyon kemények és egyenetlenek lehetnek.",
+              "Egy forró ital a termosztoszban melegen tartja belülről."
+            ],
+            "ro": [
+              "Planificați întoarcerea înainte de ora 16:30 pentru a ajunge pe lumină.",
+              "Purtați îmbrăcăminte termică de ciclism, în special pentru picioare.",
+              "Potecile de lângă lac pot fi foarte dure și denivelate în caz de îngheț.",
+              "O băutură caldă într-un termos vă va menține cald pe interior."
+            ],
+            "en": [
+              "Plan your return before 16:30 to arrive while it's still light.",
+              "Wear thermal cycling clothing, especially for the legs.",
+              "The paths by the lake can be very hard and uneven in case of frost.",
+              "A hot drink in a thermos will keep you warm from the inside."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -736,6 +1469,360 @@
           "Combine the visit to Vrana with lunch at the Han.",
           "Refuel in Pakoštane before heading inland."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lassen sich die Kontraste von Pakoštane am besten erkunden. Die Reise beginnt im Landesinneren bei der osmanischen Festung Maškovića Han und führt zum spektakulären Aussichtspunkt Kamenjak über dem Vrana-See. Danach kehrt man zur Küste zurück, um das pulsierende Leben im Hafen und die Entspannung an den weiten Stränden zu genießen. Ein Tag voller Geschichte und Natur.",
+            "hu": "Autóval fedezhetők fel legjobban Pakoštane kontrasztjai. Az utazás a hátországban kezdődik a Maškovića Han oszmán erődítményénél, majd a Vrana-tó feletti látványos Kamenjak kilátóhoz vezet. Ezután visszatérünk a partra, hogy élvezzük a kikötő lüktető életét és a pihenést a tágas strandokon. Történelemmel és természettel teli nap.",
+            "ro": "Cu mașina, contrastele din Pakoštane pot fi explorate cel mai bine. Călătoria începe în interiorul țării, la fortăreața otomană Hanul Maškovića, și duce la spectaculosul punct de belvedere Kamenjak deasupra Lacului Vrana. Apoi, vă întoarceți la coastă pentru a vă bucura de viața vibrantă din port și de relaxarea pe plajele întinse. O zi plină de istorie și natură.",
+            "en": "By car, the contrasts of Pakoštane can be explored best. The journey begins inland at the Ottoman fortress Maškovića Han and leads to the spectacular Kamenjak viewpoint over Lake Vrana. Then you return to the coast to enjoy the vibrant life in the harbor and relaxation on the wide beaches. A day full of history and nature."
+          },
+          "stops": [
+            {
+              "name": "Maškovića Han",
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Museum im Inneren des Han.",
+                "hu": "Látogassa meg a Han belső múzeumát.",
+                "ro": "Vizitați muzeul din interiorul hanului.",
+                "en": "Visit the museum inside the Han."
+              }
+            },
+            {
+              "name": "Naturpark Vrana-See",
+              "tip_5lang": {
+                "de": "Fahrt zum Aussichtspunkt Kamenjak für den besten Blick.",
+                "hu": "Hajtson fel a Kamenjak kilátóhoz a legjobb kilátásért.",
+                "ro": "Mergeți la punctul de belvedere Kamenjak pentru cea mai bună vedere.",
+                "en": "Drive to the Kamenjak viewpoint for the best view."
+              }
+            },
+            {
+              "name": "Franjo Tuđman Denkmal",
+              "tip_5lang": {
+                "de": "Kurzer Halt im Stadtzentrum.",
+                "hu": "Rövid megálló a városközpontban.",
+                "ro": "Scurtă oprire în centrul orașului.",
+                "en": "Short stop in the city center."
+              }
+            },
+            {
+              "name": "Hafen von Pakoštane",
+              "tip_5lang": {
+                "de": "Mittagessen in Hafennähe genießen.",
+                "hu": "Élvezze az ebédet a kikötő közelében.",
+                "ro": "Bucurați-vă de prânz în apropierea portului.",
+                "en": "Enjoy lunch near the harbor."
+              }
+            },
+            {
+              "name": "Strand Janice",
+              "tip_5lang": {
+                "de": "Parkplatz direkt hinter dem Strand nutzen.",
+                "hu": "Használja a strand közvetlen mögötti parkolót.",
+                "ro": "Folosiți parcarea situată direct în spatele plajei.",
+                "en": "Use the parking lot directly behind the beach."
+              }
+            },
+            {
+              "name": "Pine Beach Resort",
+              "tip_5lang": {
+                "de": "Abendspaziergang durch das Resortgelände.",
+                "hu": "Esti séta az üdülőhely területén.",
+                "ro": "Plimbare de seară prin zona complexului.",
+                "en": "Evening walk through the resort grounds."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restoran Kamenjak",
+                "tip": "Hauseigener Pršut mit Blick über die Inselwelt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Restoran Kamenjak",
+                "tip": "Helyi sonka (pršut) kilátással a szigetvilágra."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restoran Kamenjak",
+                "tip": "Pršut de casă cu vedere peste lumea insulară."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restoran Kamenjak",
+                "tip": "Homemade pršut with a view over the islands."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kamenjak Aussichtspunkt",
+                "tip": "Sonnenuntergang über den Kornaten.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kamenjak kilátópont",
+                "tip": "Naplemente a Kornati-szigetek felett.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punctul de belvedere Kamenjak",
+                "tip": "Apus de soare peste insulele Kornati.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Kamenjak Viewpoint",
+                "tip": "Sunset over the Kornati islands.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Vrana Olivenöl",
+                "tip": "Direktverkauf bei den Bauern in Vrana."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vrana olívaolaj",
+                "tip": "Közvetlen vásárlás a vranai gazdáktól."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline Vrana",
+                "tip": "Vânzare directă de la fermierii din Vrana."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vrana Olive Oil",
+                "tip": "Direct sale from farmers in Vrana."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straße zum Kamenjak ist schmal, fahren Sie vorsichtig.",
+              "Parken im Hafenbereich ist im Sommer kostenpflichtig.",
+              "Kombinieren Sie den Besuch in Vrana mit einem Mittagessen im Han.",
+              "Tanken Sie in Pakoštane, bevor Sie ins Hinterland fahren."
+            ],
+            "hu": [
+              "A Kamenjakhoz vezető út keskeny, vezessen óvatosan.",
+              "A kikötő környékén a parkolás nyáron fizetős.",
+              "Kombinálja a vranai látogatást egy ebéddel a Hanban.",
+              "Tankoljon Pakoštanéban, mielőtt a hátországba indul."
+            ],
+            "ro": [
+              "Drumul spre Kamenjak este îngust, conduceți cu prudență.",
+              "Parcarea în zona portului este cu plată vara.",
+              "Combinați vizita la Vrana cu un prânz la Han.",
+              "Alimentați în Pakoštane înainte de a pleca spre interiorul țării."
+            ],
+            "en": [
+              "The road to Kamenjak is narrow, drive carefully.",
+              "Parking in the harbor area is paid in summer.",
+              "Combine the visit to Vrana with lunch at the Han.",
+              "Refuel in Pakoštane before heading inland."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Tour bequem im Maškovića Han, wo Sie dem Regen in historischer Pracht entfliehen. Ein Abstecher zum Vrana-See zeigt die Natur in satten Farben. Im Ort Pakoštane besuchen Sie das Tuđman-Denkmal und den Hafen, bevor Sie den Tag am Strand Janice und dem Pine Beach Resort mit Blick auf die stürmische See beschließen.",
+            "hu": "Kezdje túráját kényelmesen a Maškovića Hanban, ahol történelmi pompában menekülhet az eső elől. Egy kitérő a Vrana-tóhoz megmutatja a természet telt színeit. Pakoštanéban látogasson el a Tuđman-emlékműhöz és a kikötőbe, majd zárja a napot a Janice-strandon és a Pine Beach Resortnál.",
+            "ro": "Începeți turul confortabil la Maškovića Han, unde scăpați de ploaie în splendoarea istorică. O excursie la lacul Vrana arată natura în culori bogate. În Pakoštane, vizitați monumentul Tuđman și portul, înainte de a încheia ziua la plaja Janice și Pine Beach Resort cu vedere la marea agitată.",
+            "en": "Start your tour comfortably at Maškovića Han, escaping the rain in historical splendor. A detour to Vrana Lake shows nature in rich colors. In Pakoštane, visit the Tuđman monument and the harbor before ending the day at Janice beach and Pine Beach Resort with a view of the stormy sea."
+          },
+          "stops": [
+            {
+              "name": "Maškovića Han",
+              "tip_4lang": {
+                "de": "Parkplätze befinden sich direkt am Eingang, ideal bei Regen.",
+                "hu": "A parkolók közvetlenül a bejáratnál vannak, ideális esőben.",
+                "ro": "Parcările se află direct la intrare, ideal pe timp de ploaie.",
+                "en": "Parking spaces are located directly at the entrance, ideal during rain."
+              }
+            },
+            {
+              "name": "Naturpark Vrana-See",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick vom Aussichtspunkt Kamenjak aus dem trockenen Auto.",
+                "hu": "Élvezze a kilátást a Kamenjak kilátópontról a száraz autóból.",
+                "ro": "Bucurați-vă de priveliștea de la punctul de observație Kamenjak din mașina uscată.",
+                "en": "Enjoy the view from the Kamenjak viewpoint from the dry car."
+              }
+            },
+            {
+              "name": "Franjo Tuđman Denkmal",
+              "tip_4lang": {
+                "de": "Kurzer Ausstieg für ein Foto; Parken meist in der Nähe möglich.",
+                "hu": "Rövid kiszállás egy fotóért; a parkolás általában a közelben megoldható.",
+                "ro": "Coborâre scurtă pentru o fotografie; parcarea este de obicei posibilă în apropiere.",
+                "en": "Short exit for a photo; parking is usually possible nearby."
+              }
+            },
+            {
+              "name": "Hafen von Pakoštane",
+              "tip_4lang": {
+                "de": "Die Hafenpromenade ist bei Regen befahrbar; ideal für 'Drive-by'-Sightseeing.",
+                "hu": "A kikötői sétány esőben is megközelíthető; ideális az autós városnézéshez.",
+                "ro": "Promenada portului este accesibilă cu mașina; ideală pentru vizitarea din mers.",
+                "en": "The harbor promenade is accessible by car; ideal for 'drive-by' sightseeing."
+              }
+            },
+            {
+              "name": "Strand Janice",
+              "tip_4lang": {
+                "de": "Parken Sie nah am Strand, um die Wellen im Trockenen zu beobachten.",
+                "hu": "Parkoljon közel a strandhoz, hogy a szárazból figyelhesse a hullámokat.",
+                "ro": "Parcați aproape de plajă pentru a observa valurile la adăpost.",
+                "en": "Park close to the beach to watch the waves from the dry."
+              }
+            },
+            {
+              "name": "Pine Beach Resort",
+              "tip_4lang": {
+                "de": "Das Gelände ist weitläufig; bleiben Sie für einen kurzen Blick im Auto.",
+                "hu": "A terület kiterjedt; egy rövid pillantásra maradjon az autóban.",
+                "ro": "Zona este vastă; rămâneți în mașină pentru o scurtă privire.",
+                "en": "The area is extensive; stay in the car for a short look."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sicht kann bei starkem Regen auf der Küstenstraße eingeschränkt sein.",
+              "Nutzen Sie die Parkplätze in Hafennähe für kurze Wege zu den Cafés.",
+              "Maškovića Han bietet exzellente Innenräume für regnerische Stunden.",
+              "Achten Sie auf Aquaplaning auf der Jadranska Magistrala."
+            ],
+            "hu": [
+              "Heves esőben a látási viszonyok korlátozottak lehetnek a parti úton.",
+              "Használja a kikötő közeli parkolókat a kávézók gyors eléréséhez.",
+              "A Maškovića Han kiváló belső tereket kínál az esős órákra.",
+              "Ügyeljen a vízenfutásra (aquaplaning) az Adriai főúton."
+            ],
+            "ro": [
+              "Vizibilitatea poate fi limitată pe drumul de coastă în caz de ploaie torențială.",
+              "Utilizați parcările din apropierea portului pentru acces rapid la cafenele.",
+              "Maškovića Han oferă spații interioare excelente pentru orele ploioase.",
+              "Atenție la acvaplanare pe Magistrala Adriatică."
+            ],
+            "en": [
+              "Visibility can be limited on the coastal road during heavy rain.",
+              "Use parking lots near the harbor for short walks to cafes.",
+              "Maškovića Han offers excellent interior spaces for rainy hours.",
+              "Watch out for aquaplaning on the Jadranska Magistrala."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintertag im geschichtsträchtigen Maškovića Han, gefolgt von einer Panoramafahrt entlang des Vrana-Sees. Im ruhigen Pakoštane besuchen Sie das Tuđman-Denkmal und den Hafen unter der tiefstehenden Sonne. Der Nachmittag am Strand Janice und ein Blick auf das winterliche Pine Beach Resort runden die Tour ab.",
+            "hu": "Kezdje téli napját a történelmi Maškovića Hanban, majd tegyen panorámás utat a Vrana-tó mentén. A csendes Pakoštanéban látogasson el a Tuđman-emlékműhöz és a kikötőbe az alacsonyan járó nap fényében. A Janice-strand és a téli Pine Beach Resort megtekintése zárja a túrát.",
+            "ro": "Începeți ziua de iarnă la istoricul Maškovića Han, urmat de o plimbare panoramică de-a lungul lacului Vrana. În liniștitul Pakoštane, vizitați monumentul Tuđman și portul sub soarele de joasă altitudine. După-amiaza la plaja Janice și o privire spre Pine Beach Resort iarna completează turul.",
+            "en": "Start your winter day at the historic Maškovića Han, followed by a panoramic drive along Vrana Lake. In quiet Pakoštane, visit the Tuđman monument and the harbor under the low-lying sun. The afternoon at Janice beach and a look at the wintery Pine Beach Resort round off the tour."
+          },
+          "stops": [
+            {
+              "name": "Maškovića Han",
+              "tip_4lang": {
+                "de": "Das Museum im Inneren ist im Winter angenehm temperiert.",
+                "hu": "A benti múzeum télen is kellemes hőmérsékletű.",
+                "ro": "Muzeul din interior are o temperatură plăcută iarna.",
+                "en": "The museum inside is pleasantly tempered in winter."
+              }
+            },
+            {
+              "name": "Naturpark Vrana-See",
+              "tip_4lang": {
+                "de": "Die Straßen im Park können im Winter vereinzelt glatt sein.",
+                "hu": "A parkban az utak télen helyenként csúszósak lehetnek.",
+                "ro": "Drumurile din parc pot fi izolat alunecoase iarna.",
+                "en": "The roads in the park can be sporadically slippery in winter."
+              }
+            },
+            {
+              "name": "Franjo Tuđman Denkmal",
+              "tip_4lang": {
+                "de": "Parken direkt am Platz möglich; ideal bei kühlen Temperaturen.",
+                "hu": "Parkolás közvetlenül a térnél lehetséges; ideális hűvös időben.",
+                "ro": "Parcarea este posibilă direct în piață; ideal la temperaturi scăzute.",
+                "en": "Parking possible directly at the square; ideal during cool temperatures."
+              }
+            },
+            {
+              "name": "Hafen von Pakoštane",
+              "tip_4lang": {
+                "de": "Genießen Sie den Meerblick aus dem beheizten Auto am Kai.",
+                "hu": "Élvezze a tengeri kilátást a fűtött autóból a rakparton.",
+                "ro": "Bucurați-vă de vederea la mare din mașina încălzită de pe chei.",
+                "en": "Enjoy the sea view from the heated car at the quay."
+              }
+            },
+            {
+              "name": "Strand Janice",
+              "tip_4lang": {
+                "de": "Die Winterruhe hier ist herrlich; fast keine Parkplatzprobleme.",
+                "hu": "A téli nyugalom itt csodálatos; szinte nincs parkolási probléma.",
+                "ro": "Liniștea iernii aici este minunată; aproape nicio problemă de parcare.",
+                "en": "The winter peace here is wonderful; almost no parking issues."
+              }
+            },
+            {
+              "name": "Pine Beach Resort",
+              "tip_4lang": {
+                "de": "Kurzer Fotostopp; das Resort wirkt im Winterschlaf sehr friedlich.",
+                "hu": "Gyors fotómegálló; a resort téli álma során nagyon békés.",
+                "ro": "Oprire scurtă pentru fotografii; resortul pare foarte liniștit în hibernare.",
+                "en": "Quick photo stop; the resort looks very peaceful in its winter sleep."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie die Heizung Ihres Mietwagens vor der Fahrt.",
+              "Nutzen Sie das Tageslicht bis 16:30 Uhr für die besten Fotos.",
+              "Die Straßen sind im Winter leer, aber Vorsicht bei Schattenplätzen.",
+              "Viele Restaurants im Ort haben im Winter geschlossen; Maškovića Han ist eine sichere Wahl."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a bérautó fűtését.",
+              "Használja ki a nappali fényt 16:30-ig a legjobb fotókhoz.",
+              "Az utak télen üresek, de legyen óvatos az árnyékos helyeken.",
+              "A faluban sok étterem télen zárva van; a Maškovića Han biztos választás."
+            ],
+            "ro": [
+              "Verificați încălzirea mașinii închiriate înainte de drum.",
+              "Profitați de lumina zilei până la ora 16:30 pentru cele mai bune fotografii.",
+              "Drumurile sunt libere iarna, dar atenție la zonele umbrite.",
+              "Multe restaurante din localitate sunt închise iarna; Maškovića Han este o alegere sigură."
+            ],
+            "en": [
+              "Check your rental car's heater before the trip.",
+              "Utilize daylight until 16:30 for the best photos.",
+              "Roads are empty in winter, but be careful in shaded areas.",
+              "Many restaurants in town are closed in winter; Maškovića Han is a safe bet."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -950,6 +2037,333 @@
           "Stops are often simply marked, ask locals.",
           "Plan buffer time as buses can be delayed."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Pakoštane ist über die Küstenstraße gut an das regionale Busnetz angebunden. Der Tag beginnt im Zentrum, von wo aus alle wichtigen Sehenswürdigkeiten und Strände bequem zu Fuß oder mit kurzen Fahrten erreichbar sind. Die entspannte Atmosphäre des Ortes lässt sich wunderbar ohne eigenes Auto genießen, besonders bei einem Tag am Strand Janice oder einem Besuch der historischen Kirchen.",
+            "hu": "Pakoštane a tengerparti út révén jól kapcsolódik a regionális buszhálózathoz. A nap a központban indul, ahonnan minden fontos látnivaló és strand kényelmesen elérhető gyalog vagy rövid utazással. A település nyugodt légköre remekül élvezhető saját autó nélkül is, különösen egy Janice strandos nap vagy a történelmi templomok meglátogatása során.",
+            "ro": "Pakoštane este bine conectat la rețeaua regională de autobuze prin drumul de coastă. Ziua începe în centru, de unde toate atracțiile importante și plajele sunt ușor accesibile pe jos sau cu călătorii scurte. Atmosfera relaxată a localității poate fi savurată minunat fără mașină proprie, în special în timpul unei zile pe plaja Janice sau a unei vizite la bisericile istorice.",
+            "en": "Pakoštane is well-connected to the regional bus network via the coastal road. The day starts in the center, from where all important sights and beaches are easily accessible on foot or with short rides. The relaxed atmosphere of the place can be wonderfully enjoyed without a car, especially during a day at Janice Beach or a visit to the historical churches."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Pakoštane",
+              "tip_5lang": {
+                "de": "Zentraler Busstopp an der Magistrale.",
+                "hu": "Központi buszmegálló a főút mentén.",
+                "ro": "Stație de autobuz centrală pe magistrală.",
+                "en": "Central bus stop on the main road."
+              }
+            },
+            {
+              "name": "Pfarrkirche Christi Himmelfahrt",
+              "tip_5lang": {
+                "de": "Leicht zu Fuß vom Busstopp erreichbar.",
+                "hu": "Könnyen elérhető gyalog a buszmegállótól.",
+                "ro": "Ușor accesibilă pe jos de la stația de autobuz.",
+                "en": "Easily accessible on foot from the bus stop."
+              }
+            },
+            {
+              "name": "Strand Janice",
+              "tip_5lang": {
+                "de": "Ideal für einen langen Strandvormittag.",
+                "hu": "Ideális egy hosszú délelőtti strandoláshoz.",
+                "ro": "Ideal pentru o dimineață lungă la plajă.",
+                "en": "Ideal for a long morning at the beach."
+              }
+            },
+            {
+              "name": "Franjo Tuđman Denkmal",
+              "tip_5lang": {
+                "de": "Nahe der Gastronomie im Zentrum.",
+                "hu": "Közel a központi éttermekhez.",
+                "ro": "Aproape de restaurantele din centru.",
+                "en": "Near the restaurants in the center."
+              }
+            },
+            {
+              "name": "Pine Beach Resort",
+              "tip_5lang": {
+                "de": "Kurzer lokaler Bustransfer möglich.",
+                "hu": "Rövid helyi buszos transzfer lehetséges.",
+                "ro": "Scurt transfer cu autobuzul local disponibil.",
+                "en": "Short local bus transfer possible."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pizzeria Libero",
+                "tip": "Beliebt bei Einheimischen, direkt an der Hauptstraße."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pizzeria Libero",
+                "tip": "A helyiek körében népszerű, közvetlenül a főút mellett."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pizzeria Libero",
+                "tip": "Populară printre localnici, direct pe drumul principal."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pizzeria Libero",
+                "tip": "Popular with locals, right on the main road."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Schattenpark",
+                "tip": "Kühle Bänke nahe der Kirche.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Árnyas park",
+                "tip": "Hűvös padok a templom közelében.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul umbrit",
+                "tip": "Bănci răcoroase lângă biserică.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Shaded Park",
+                "tip": "Cool benches near the church.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Konzum Supermarkt",
+                "tip": "Für Reiseverpflegung und Snacks."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konzum szupermarket",
+                "tip": "Úti elemózsia és rágcsálnivalók beszerzéséhez."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Supermarket Konzum",
+                "tip": "Pentru provizii de drum și gustări."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konzum Supermarket",
+                "tip": "For travel provisions and snacks."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busfahrpläne online bei Arriva oder Liburnija.",
+              "Kaufen Sie Tickets direkt beim Fahrer für lokale Fahrten.",
+              "Die Haltestellen sind oft einfach markiert, fragen Sie Einheimische.",
+              "Planen Sie Pufferzeit ein, da Busse Verspätung haben können."
+            ],
+            "hu": [
+              "Ellenőrizze a buszmenetrendeket online az Arriva vagy Liburnija oldalán.",
+              "Helyi járatokra vegyen jegyet közvetlenül a sofőrtől.",
+              "A megállók gyakran egyszerűen vannak jelölve, kérdezze a helyieket.",
+              "Tervezzen be tartalékidőt, mert a buszok késhetnek."
+            ],
+            "ro": [
+              "Verificați orarele autobuzelor online pe Arriva sau Liburnija.",
+              "Cumpărați bilete direct de la șofer pentru călătoriile locale.",
+              "Stațiile sunt adesea marcate simplu, întrebați localnicii.",
+              "Planificați timp de rezervă, deoarece autobuzele pot avea întârzieri."
+            ],
+            "en": [
+              "Check bus schedules online at Arriva or Liburnija.",
+              "Buy tickets directly from the driver for local rides.",
+              "Stops are often simply marked, ask locals.",
+              "Plan buffer time as buses can be delayed."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Hafen, wo die Busse in Meeresnähe halten. Besuchen Sie die schützende Pfarrkirche, bevor Sie den Strand Janice erreichen. Das Tuđman-Denkmal lässt sich bei einem kurzen Spaziergang besichtigen, bevor Sie den Tag am Pine Beach Resort ausklingen lassen, während der Regen auf das Meer prasselt.",
+            "hu": "Kezdje a kikötőben, ahol a buszok a tenger közelében állnak meg. Látogassa meg a menedéket nyújtó plébániatemplomot, mielőtt elérné a Janice-strandot. A Tuđman-emlékmű egy rövid séta alatt megtekinthető, majd zárja a napot a Pine Beach Resortnál, miközben az eső a tengerre hull.",
+            "ro": "Începeți în port, unde autobuzele opresc aproape de mare. Vizitați biserica parohială protectoare înainte de a ajunge la plaja Janice. Monumentul Tuđman poate fi vizitat în timpul unei scurte plimbări, înainte de a încheia ziua la Pine Beach Resort în timp ce ploaia cade peste mare.",
+            "en": "Start at the harbor where buses stop near the sea. Visit the sheltering parish church before reaching Janice beach. The Tuđman monument can be seen during a short walk before ending the day at Pine Beach Resort as rain patters on the sea."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Pakoštane",
+              "tip_4lang": {
+                "de": "Die Bushaltestelle bietet oft nur begrenzten Regenschutz; Schirm bereit halten.",
+                "hu": "A buszmegálló gyakran csak korlátozott esővédelmet nyújt; tartson készenlétben esernyőt.",
+                "ro": "Stația de autobuz oferă adesea protecție limitată împotriva ploii; țineți umbrela la îndemână.",
+                "en": "The bus stop often provides limited rain protection; keep an umbrella ready."
+              }
+            },
+            {
+              "name": "Pfarrkirche Christi Himmelfahrt",
+              "tip_4lang": {
+                "de": "Ein guter Ort, um auf den nächsten Bus zu warten und dabei trocken zu bleiben.",
+                "hu": "Jó hely a következő busz megvárására, miközben szárazon marad.",
+                "ro": "Un loc bun pentru a aștepta următorul autobuz rămânând uscat.",
+                "en": "A good place to wait for the next bus while staying dry."
+              }
+            },
+            {
+              "name": "Strand Janice",
+              "tip_4lang": {
+                "de": "Die Bushaltestelle liegt an der Hauptstraße; kurzer Weg zum Strand.",
+                "hu": "A buszmegálló a főúton van; rövid út vezet a strandhoz.",
+                "ro": "Stația de autobuz este pe drumul principal; drum scurt până la plajă.",
+                "en": "The bus stop is on the main road; short walk to the beach."
+              }
+            },
+            {
+              "name": "Franjo Tuđman Denkmal",
+              "tip_4lang": {
+                "de": "Vom Bus aus gut sichtbar; für einen Stopp müssen Sie rechtzeitig aussteigen.",
+                "hu": "A buszból jól látható; a megálláshoz időben le kell szállnia.",
+                "ro": "Bine vizibil din autobuz; pentru o oprire, trebuie să coborâți la timp.",
+                "en": "Well visible from the bus; for a stop, you must get off in time."
+              }
+            },
+            {
+              "name": "Pine Beach Resort",
+              "tip_4lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten genau; bei Regen fährt man ungern zu spät.",
+                "hu": "Pontosan ellenőrizze a visszautat; esőben nem szívesen késik le az ember.",
+                "ro": "Verificați cu atenție orele de întoarcere; pe ploaie nu este plăcut să întârziați.",
+                "en": "Check return times carefully; one doesn't like to be late in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Regen leichte Verspätungen haben.",
+              "Die App 'Arriva' hilft bei der Verfolgung der Linien in Echtzeit.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zwischen Haltestelle und Ziel.",
+              "Halten Sie Kleingeld für das Ticket bereit, falls die Kartenzahlung streikt."
+            ],
+            "hu": [
+              "Heves esőben a buszok kismértékben késhetnek.",
+              "Az 'Arriva' alkalmazás segít a vonalak valós idejű követésében.",
+              "Viseljen vízálló ruhát a megálló és a célpont közötti szakaszokra.",
+              "Legyen Önnél aprópénz a jegyhez, ha a kártyás fizetés nem működne."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri ușoare în caz de ploaie torențială.",
+              "Aplicația 'Arriva' ajută la urmărirea liniilor în timp real.",
+              "Purtați haine impermeabile pentru drumul dintre stație și destinație.",
+              "Aveți mărunțiș pentru bilet în cazul în care plata cu cardul nu funcționează."
+            ],
+            "en": [
+              "Buses may have slight delays during heavy rain.",
+              "The 'Arriva' app helps tracking the lines in real time.",
+              "Wear waterproof clothing for the walks between stops and destinations.",
+              "Keep change ready for the ticket in case card payment fails."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Hafen von Pakoštane im Winterlicht, bequem erreichbar mit dem Bus. Besuchen Sie die Pfarrkirche und schlendern Sie zum Strand Janice, wo die Brandung das einzige Geräusch ist. Ein kurzer Besuch am Tuđman-Denkmal und beim winterlichen Pine Beach Resort rundet Ihren entspannten Ausflug ab.",
+            "hu": "Élvezze a pakoštanei kikötőt a téli fényben, busszal kényelmesen megközelítve. Látogassa meg a plébániatemplomot, és sétáljon el a Janice-strandra, ahol csak a hullámverés hallatszik. Rövid látogatás a Tuđman-emlékműnél és a téli Pine Beach Resortnál zárja a pihentető kirándulást.",
+            "ro": "Bucurați-vă de portul Pakoštane în lumina iernii, accesibil confortabil cu autobuzul. Vizitați biserica parohială și plimbați-vă până la plaja Janice, unde valurile sunt singurul sunet. O scurtă vizită la monumentul Tuđman și la Pine Beach Resort iarna vă completează excursia relaxantă.",
+            "en": "Enjoy Pakoštane harbor in the winter light, easily accessible by bus. Visit the parish church and stroll to Janice beach, where the surf is the only sound. A short visit to the Tuđman monument and the wintery Pine Beach Resort rounds off your relaxed excursion."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Pakoštane",
+              "tip_4lang": {
+                "de": "Die Frequenz der Überlandbusse ist im Winter stark reduziert.",
+                "hu": "A távolsági buszok gyakorisága télen jelentősen csökken.",
+                "ro": "Frecvența autobuzelor interurbane este mult redusă iarna.",
+                "en": "The frequency of intercity buses is significantly reduced in winter."
+              }
+            },
+            {
+              "name": "Pfarrkirche Christi Himmelfahrt",
+              "tip_4lang": {
+                "de": "In der Nähe der Kirche gibt es Cafés, die im Winter beheizt sind.",
+                "hu": "A templom közelében vannak kávézók, amelyek télen fűtöttek.",
+                "ro": "În apropierea bisericii există cafenele care sunt încălzite iarna.",
+                "en": "Near the church, there are cafes that are heated in winter."
+              }
+            },
+            {
+              "name": "Strand Janice",
+              "tip_4lang": {
+                "de": "Im Winter fast menschenleer; genießen Sie die totale Ruhe am Meer.",
+                "hu": "Télen szinte néptelen; élvezze a teljes nyugalmat a tengerparton.",
+                "ro": "Aproape pustiu iarna; bucurați-vă de liniștea totală de la malul mării.",
+                "en": "Almost deserted in winter; enjoy the total peace by the sea."
+              }
+            },
+            {
+              "name": "Franjo Tuđman Denkmal",
+              "tip_4lang": {
+                "de": "Ein schneller Stopp zwischen zwei Busabfahrten reicht völlig aus.",
+                "hu": "Egy gyors megálló két buszindítás között teljesen elegendő.",
+                "ro": "O oprire rapidă între două plecări de autobuz este suficientă.",
+                "en": "A quick stop between two bus departures is quite enough."
+              }
+            },
+            {
+              "name": "Pine Beach Resort",
+              "tip_4lang": {
+                "de": "Beachten Sie die frühen Rückfahrten; nach 17:00 Uhr wird es einsam.",
+                "hu": "Ügyeljen a korai visszautakra; 17:00 után elnéptelenedik a környék.",
+                "ro": "Atenție la orele de întoarcere timpurii; după ora 17:00 zona devine pustie.",
+                "en": "Note the early return trips; after 17:00 the area becomes lonely."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan vorab online bei 'GetByBus'.",
+              "Busse können im Winter auf Langstrecken sehr kalt sein; warm anziehen.",
+              "Nutzen Sie die Mittagsstunden für Ihre Ausflüge, um das Licht zu nutzen.",
+              "Die Haltestellen sind im Winter oft windig; suchen Sie Windschutz hinter Gebäuden."
+            ],
+            "hu": [
+              "Előzetesen ellenőrizze a téli menetrendet a 'GetByBus' oldalon.",
+              "A buszok télen a hosszú távokon hidegek lehetnek; öltözzön melegen.",
+              "Használja ki a déli órákat a kirándulásokhoz a fény miatt.",
+              "A megállók télen gyakran szelesek; keressen szélvédett helyet az épületek mögött."
+            ],
+            "ro": [
+              "Verificați în prealabil programul de iarnă online pe 'GetByBus'.",
+              "Autobuzele pot fi foarte reci iarna pe distanțe lungi; îmbrăcați-vă gros.",
+              "Folosiți orele amiezii pentru excursii pentru a profita de lumină.",
+              "Stațiile sunt adesea vântoase iarna; căutați adăpost în spatele clădirilor."
+            ],
+            "en": [
+              "Check the winter timetable in advance online at 'GetByBus'.",
+              "Buses can be very cold on long distances in winter; dress warmly.",
+              "Utilize the midday hours for your excursions to catch the light.",
+              "Stops are often windy in winter; seek wind protection behind buildings."
+            ]
+          }
+        }
       }
     }
   },

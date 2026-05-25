@@ -314,6 +314,414 @@
           "Visit San Pietro at sunset for the best atmosphere.",
           "Avoid the peak visiting hours of cruise ships."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie das Juwel am Golf der Poeten zu Fuß. Starten Sie auf der Piazza Bastreri und bewundern Sie die Palazzata-Häuserfront. Besuchen Sie die historischen Kirchen San Lorenzo und San Pietro, die majestätisch über dem Meer thront. Nach der Erkundung des Castello Doria und der Byron-Grotte beenden Sie den Tag im Regionalpark mit Blick auf die Insel Palmaria.",
+            "hu": "Fedezze fel gyalog a Költők Öblének ékkövét. Kezdjen a Piazza Bastrerin, és csodálja meg a Palazzata házsorát. Látogassa meg a San Lorenzo és a tenger felett magasodó San Pietro templomokat. A Castello Doria és a Byron-barlang felfedezése után zárja a napot a regionális parkban, kilátással a Palmaria-szigetre.",
+            "ro": "Descoperiți perla Golfului Poeților la pas. Începeți în Piazza Bastreri și admirați fațada caselor Palazzata. Vizitați bisericile istorice San Lorenzo și San Pietro, care tronează maiestuos deasupra mării. După explorarea Castelului Doria și a Grotei lui Byron, încheiați ziua în parcul regional cu vedere spre insula Palmaria.",
+            "en": "Explore the jewel of the Gulf of Poets on foot. Start at Piazza Bastreri and admire the iconic Palazzata housefront. Visit the historic San Lorenzo and San Pietro churches, the latter perched dramatically over the sea. After exploring Castello Doria and Byron's Grotto, end your day in the regional park with views of Palmaria Island."
+          },
+          "stops": [
+            {
+              "name": "Piazza Bastreri",
+              "tip_5lang": null
+            },
+            {
+              "name": "Die Palazzata",
+              "tip_5lang": null
+            },
+            {
+              "name": "Kirche San Lorenzo",
+              "tip_5lang": null
+            },
+            {
+              "name": "Castello Doria",
+              "tip_5lang": null
+            },
+            {
+              "name": "Kirche San Pietro",
+              "tip_5lang": null
+            },
+            {
+              "name": "Grotta di Byron",
+              "tip_5lang": null
+            },
+            {
+              "name": "Portovenere Regionalpark",
+              "tip_5lang": null
+            },
+            {
+              "name": "Torre Capitolare",
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Muscoli alla Portovenerese",
+                "tip": "Gefüllte Miesmuscheln, eine lokale Spezialität."
+              },
+              {
+                "name": "Pesto Genovese",
+                "tip": "Frisch zubereitet, am besten mit Trofie-Nudeln."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Muscoli alla Portovenerese",
+                "tip": "Töltött fekete kagyló, helyi specialitás."
+              },
+              {
+                "name": "Pesto Genovese",
+                "tip": "Frissen készítve, a legjobb trofie tésztával."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Muscoli alla Portovenerese",
+                "tip": "Midi umplute, o specialitate locală."
+              },
+              {
+                "name": "Pesto Genovese",
+                "tip": "Proaspăt preparat, cel mai bine cu paste trofie."
+              }
+            ],
+            "en": [
+              {
+                "name": "Muscoli alla Portovenerese",
+                "tip": "Stuffed mussels, a signature local dish."
+              },
+              {
+                "name": "Pesto Genovese",
+                "tip": "Freshly made, best enjoyed with trofie pasta."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "San Pietro Terrasse",
+                "tip": "Spektakulärer Blick auf die offene See.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Byron-Grotte Felsen",
+                "tip": "Lauschen Sie dem Rauschen der Wellen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "San Pietro terasz",
+                "tip": "Látványos kilátás a nyílt tengerre.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Byron-barlang sziklái",
+                "tip": "Hallgassa a hullámok zúgását.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Terasa San Pietro",
+                "tip": "Vedere spectaculoasă spre marea deschisă.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Stâncile Grotei Byron",
+                "tip": "Ascultați sunetul valurilor.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "San Pietro Terrace",
+                "tip": "Spectacular views of the open sea.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Byron Grotto rocks",
+                "tip": "Listen to the soothing sound of the waves.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Via Capellini",
+                "tip": "Die Haupteinkaufsstraße mit lokalem Kunsthandwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Via Capellini",
+                "tip": "A fő bevásárlóutca helyi kézműves termékekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Via Capellini",
+                "tip": "Strada principală de cumpărături cu artizanat local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Via Capellini",
+                "tip": "The main shopping street with local handicrafts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie rutschfeste Schuhe für die Felsen.",
+              "Der Aufstieg zum Schloss ist steil, aber lohnenswert.",
+              "Buchen Sie die Fähre nach Palmaria im Voraus.",
+              "Besuchen Sie San Pietro zum Sonnenuntergang.",
+              "Meiden Sie die Hauptbesuchszeiten der Kreuzfahrtschiffe."
+            ],
+            "hu": [
+              "Viseljen csúszásmentes cipőt a sziklákhoz.",
+              "A várba vezető út meredek, de megéri.",
+              "Foglalja le előre a kompot Palmariára.",
+              "Látogasson el a San Pietro templomhoz naplementekor.",
+              "Kerülje a tengerjáró hajók fő látogatási idejét."
+            ],
+            "ro": [
+              "Purtați încălțăminte antiderapantă pentru stânci.",
+              "Urcarea la castel este abruptă, dar merită.",
+              "Rezervați din timp feribotul spre Palmaria.",
+              "Vizitați San Pietro la apus.",
+              "Evitați orele de vârf ale navelor de croazieră."
+            ],
+            "en": [
+              "Wear non-slip shoes for the rocky areas.",
+              "The climb to the castle is steep but rewarding.",
+              "Book the ferry to Palmaria in advance.",
+              "Visit San Pietro at sunset for the best atmosphere.",
+              "Avoid the peak visiting hours of cruise ships."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Piazza Bastreri Schutz unter den Arkaden, während die bunten Fassaden im Regen glänzen. Mittags finden Sie in der San Lorenzo Kirche Ruhe vor dem Prasseln. Nachmittags zeigt sich die Natur an der Byron-Grotte von ihrer wilden, stürmischen Seite. Abends genießt man den Blick auf die peitschenden Wellen von der geschützten Loggia der San Pietro Kirche aus.",
+            "hu": "A reggel a Piazza Bastrerin indul, ahol a színes házak az esőben is ragyognak. Délben a San Lorenzo templom nyújt menedéket a zápor elől. Délután a Byron-szikláknál a tenger ereje és a sötét égbolt drámai látványt nyújt. Az estét a San Pietro templom védett boltívei alatt zárjuk, figyelve a szikláknak csapódó hullámokat.",
+            "ro": "Dimineața, Piazza Bastreri oferă adăpost sub arcade, în timp ce fațadele colorate strălucesc în ploaie. La prânz, biserica San Lorenzo oferă liniște departe de stropi. După-amiaza, natura de la Grota lui Byron își arată partea sălbatică și furtunoasă. Seara, vă puteți bucura de vederea valurilor din loggia protejată a bisericii San Pietro.",
+            "en": "In the morning, Piazza Bastreri offers shelter under the arches while the colorful houses glisten in the rain. At noon, San Lorenzo Church provides a peaceful refuge from the downpour. In the afternoon, Byron's Grotto reveals its wild side with crashing waves. The evening ends at San Pietro Church, where the sheltered loggia offers a safe view of the stormy Ligurian Sea."
+          },
+          "stops": [
+            {
+              "name": "Piazza Bastreri",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Cafés als trockenen Ausgangspunkt.",
+                "hu": "A kávézók árkádjai alatt szárazon figyelheted a főteret.",
+                "ro": "Folosiți arcadele cafenelelor ca punct de plecare uscat.",
+                "en": "Use the cafe arches as a dry starting point for your tour."
+              }
+            },
+            {
+              "name": "Die Palazzata",
+              "tip_5lang": {
+                "de": "Die schmalen Gassen (Caruggi) bieten natürlichen Schutz vor Wind.",
+                "hu": "A szűk sikátorok (caruggi) természetes szélfogóként szolgálnak.",
+                "ro": "Străzile înguste oferă protecție naturală împotriva vântului.",
+                "en": "The narrow alleys (caruggi) provide natural shelter from the wind."
+              }
+            },
+            {
+              "name": "Kirche San Lorenzo",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen heftigen Regenschauer abzuwarten.",
+                "hu": "Ideális helyszín egy hevesebb zápor kivárására.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "An ideal place to wait out a heavy rain shower."
+              }
+            },
+            {
+              "name": "Castello Doria",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Außenstufen, der Stein kann rutschig sein.",
+                "hu": "Vigyázat a külső lépcsőkön, a kőburkolat csúszóssá válhat.",
+                "ro": "Atenție pe treptele exterioare, piatra poate fi alunecoasă.",
+                "en": "Be careful on the outer steps; the stones can get slippery."
+              }
+            },
+            {
+              "name": "Kirche San Pietro",
+              "tip_5lang": {
+                "de": "Die Loggia bietet einen spektakulären, trockenen Blick auf das Meer.",
+                "hu": "A loggia látványos és száraz kilátást nyújt a tajtékzó tengerre.",
+                "ro": "Loggia oferă o vedere spectaculoasă și uscată spre mare.",
+                "en": "The loggia offers a spectacular, dry view of the crashing waves."
+              }
+            },
+            {
+              "name": "Grotta di Byron",
+              "tip_5lang": {
+                "de": "Bei starkem Wellengang ist der Zugang aus Sicherheitsgründen gesperrt.",
+                "hu": "Erős hullámzás esetén a partközeli rész biztonsági okokból lezárható.",
+                "ro": "În caz de valuri mari, accesul poate fi închis pentru siguranță.",
+                "en": "In case of high swells, access may be restricted for safety."
+              }
+            },
+            {
+              "name": "Portovenere Regionalpark",
+              "tip_5lang": {
+                "de": "Die Pfade im Park können schlammig sein, festes Schuhwerk nutzen.",
+                "hu": "A park ösvényei sárosak lehetnek, használj vízálló túracipőt.",
+                "ro": "Potecile din parc pot fi noroioase, folosiți încălțăminte adecvată.",
+                "en": "Park trails can be muddy; wear sturdy, waterproof footwear."
+              }
+            },
+            {
+              "name": "Torre Capitolare",
+              "tip_5lang": {
+                "de": "Der alte Turm wirkt bei grauem Himmel besonders mittelalterlich.",
+                "hu": "Az ősi torony a szürke égbolt alatt még középkoribb hangulatot áraszt.",
+                "ro": "Turnul vechi pare deosebit de medieval sub cerul cenușiu.",
+                "en": "The ancient tower looks especially medieval under grey skies."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine windfeste Regenjacke, da es am Kap sehr böig sein kann.",
+              "Die Fähren nach Palmaria fallen bei starkem Regen oft aus.",
+              "Suchen Sie in den schmalen Caruggi Schutz vor plötzlichen Güssen.",
+              "Viele Restaurants in der Palazzata haben überdachte Terrassen."
+            ],
+            "hu": [
+              "Viselj szélálló esőkabátot, mert a foknál gyakoriak az erős lökések.",
+              "Heves esőben a Palmaria-szigetre tartó hajójáratok elmaradhatnak.",
+              "A szűk sikátorok (caruggi) jó menedéket nyújtanak a záporok elől.",
+              "A parti Palazzata éttermei közül sok rendelkezik fedett terasszal."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie rezistentă la vânt, poate fi vijelios la cap.",
+              "Feriboturile către Palmaria sunt adesea anulate pe ploaie abundentă.",
+              "Căutați adăpost în caruggi-urile înguste în timpul averselor.",
+              "Multe restaurante de pe Palazzata au terase acoperite."
+            ],
+            "en": [
+              "Wear a windproof raincoat as it can be very gusty at the promontory.",
+              "Ferries to Palmaria are often cancelled during heavy rain or swells.",
+              "Seek shelter in the narrow caruggi during sudden downpours.",
+              "Many restaurants along the Palazzata have covered terrace seating."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens liegt eine friedliche Stille über dem Hafen von Portovenere. Mittags wärmt die tiefstehende Sonne die Steine der San Pietro Kirche. Nachmittags erkunden Sie die Festung fast alleine, ohne die sommerlichen Menschenmassen. Abends taucht der frühe Sonnenuntergang den Golf der Poeten in ein sanftes, goldenes Licht.",
+            "hu": "Reggel békés csend honol a kikötőben, a turisták tömegei nélkül. Délben az alacsonyan járó nap sugarai kellemesen melegítik a San Pietro templom köveit. Délután a várat szinte egyedül fedezhetjük fel, élvezve a magányt. Este a korai naplemente aranyló fénybe vonja a Költők Öblét.",
+            "ro": "Dimineața, o liniște pașnică stăpânește portul din Portovenere. La prânz, soarele blând încălzește pietrele bisericii San Pietro. După-amiaza, explorați cetatea aproape singur, fără mulțimile de vară. Seara, apusul timpuriu scaldă Golful Poeților într-o lumină aurie delicată.",
+            "en": "In the morning, a peaceful silence hangs over the harbor. At noon, the low winter sun warms the ancient stones of San Pietro Church. In the afternoon, you can explore the castle almost entirely alone, free from summer crowds. In the evening, the early sunset bathes the Gulf of Poets in a soft, golden glow."
+          },
+          "stops": [
+            {
+              "name": "Piazza Bastreri",
+              "tip_5lang": {
+                "de": "Genießen Sie einen Cappuccino im Freien in der milden Wintersonne.",
+                "hu": "Élvezz egy cappuccinót a szabadban a lágy téli napsütésben.",
+                "ro": "Savurați un cappuccino în aer liber sub soarele blând de iarnă.",
+                "en": "Enjoy a cappuccino outdoors in the mild winter sunshine."
+              }
+            },
+            {
+              "name": "Die Palazzata",
+              "tip_5lang": {
+                "de": "Viele Fensterläden sind geschlossen, was den Ort sehr authentisch macht.",
+                "hu": "Sok spaletta zárva van, ami nagyon autentikus, néptelen hangulatot ad.",
+                "ro": "Multe obloane sunt închise, oferind locului un aspect autentic.",
+                "en": "Many shutters are closed, giving the place an authentic, quiet feel."
+              }
+            },
+            {
+              "name": "Kirche San Lorenzo",
+              "tip_5lang": {
+                "de": "In der Kirche ist es oft kühler als draußen, behalten Sie die Jacke an.",
+                "hu": "A templomban gyakran hűvösebb van, mint kint, ne vedd le a kabátot.",
+                "ro": "În interior este adesea mai răcoare decât afară, păstrați jacheta.",
+                "en": "It is often cooler inside the church than outside; keep your coat on."
+              }
+            },
+            {
+              "name": "Castello Doria",
+              "tip_5lang": {
+                "de": "Die Winterluft sorgt für eine extrem klare Fernsicht über den Golf.",
+                "hu": "A téli levegő rendkívül tiszta kilátást biztosít az öbölre.",
+                "ro": "Aerul de iarnă oferă o vizibilitate extrem de clară peste golf.",
+                "en": "The winter air provides extremely clear views across the gulf."
+              }
+            },
+            {
+              "name": "Kirche San Pietro",
+              "tip_5lang": {
+                "de": "Der beste Ort für den Sonnenuntergang, der im Winter gegen 16:45 ist.",
+                "hu": "A legjobb hely a naplementéhez, ami télen 16:45 körül van.",
+                "ro": "Cel mai bun loc pentru apus, care iarna este în jur de 16:45.",
+                "en": "The best spot for sunset, which occurs around 4:45 PM in winter."
+              }
+            },
+            {
+              "name": "Grotta di Byron",
+              "tip_5lang": {
+                "de": "Die Felsen speichern mittags die Wärme der Sonne.",
+                "hu": "A sziklák délben jól tárolják a nap melegét, kellemes itt megállni.",
+                "ro": "Stâncile rețin căldura soarelui la prânz, fiind plăcut aici.",
+                "en": "The rocks absorb the sun's warmth at noon, making it pleasant here."
+              }
+            },
+            {
+              "name": "Portovenere Regionalpark",
+              "tip_5lang": {
+                "de": "Die Vegetation ist auch im Winter grün (mediterrane Macchia).",
+                "hu": "A növényzet télen is zöld marad (mediterrán macchia).",
+                "ro": "Vegetația rămâne verde și iarna (macchia mediteraneană).",
+                "en": "The vegetation remains green even in winter (Mediterranean macchia)."
+              }
+            },
+            {
+              "name": "Torre Capitolare",
+              "tip_5lang": {
+                "de": "Kurze Wartezeiten, da kaum Touristen unterwegs sind.",
+                "hu": "Rövid várakozási idő, mivel alig vannak turisták ilyenkor.",
+                "ro": "Timp scurt de așteptare, deoarece sunt puțini turiști.",
+                "en": "Zero waiting times as there are very few tourists around."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bedenken Sie den frühen Sonnenuntergang gegen 17:00 Uhr.",
+              "Manche Cafés haben im Winter reduzierte Öffnungszeiten.",
+              "Kleiden Sie sich im Zwiebelprinzip für Sonne und Schatten.",
+              "Die Fähren fahren seltener, prüfen Sie den Winterfahrplan."
+            ],
+            "hu": [
+              "Számolj a korai, 17:00 óra körüli naplementével.",
+              "Néhány kávézó télen rövidített nyitvatartással üzemel.",
+              "Öltözz rétegesen, mert az árnyékban hirtelen lehűl a levegő.",
+              "A hajók ritkábban járnak, ellenőrizd a téli menetrendet."
+            ],
+            "ro": [
+              "Țineți cont de apusul timpuriu, în jurul orei 17:00.",
+              "Unele cafenele au program redus pe timpul iernii.",
+              "Îmbrăcați-vă în straturi pentru diferențele de soare/umbră.",
+              "Feriboturile circulă mai rar, verificați orarul de iarnă."
+            ],
+            "en": [
+              "Be aware of the early sunset around 5:00 PM.",
+              "Some cafes and shops may have reduced winter opening hours.",
+              "Dress in layers to adjust between sunny spots and chilly shadows.",
+              "Ferry services are limited; always check the winter schedule."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -566,6 +974,350 @@
           "Carry plenty of water with you.",
           "Use the bike racks at the town entrance."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die Umgebung von Portovenere mit dem Fahrrad. Die Küstenstraße bietet atemberaubende Ausblicke auf das Meer und führt Sie zum Nachbarort Le Grazie. Über Panoramastraßen kehren Sie zurück nach Portovenere, wo Sie den Regionalpark und die historischen Festungsanlagen entdecken, bevor Sie Ihre Tour an der berühmten Kirche San Pietro abschließen.",
+            "hu": "Fedezze fel Portovenere környékét kerékpárral. A parti út lélegzetelállító kilátást nyújt a tengerre, és elvezeti Önt a szomszédos Le Grazie faluba. Panorámautakon tér vissza Portovenerébe, ahol felfedezi a regionális parkot és a történelmi erődítményeket, mielőtt túráját a híres San Pietro templomnál zárná.",
+            "ro": "Explorați împrejurimile orașului Portovenere cu bicicleta. Drumul de coastă oferă vederi uluitoare spre mare și vă duce la satul vecin Le Grazie. Reveniți în Portovenere pe drumuri panoramice, unde descoperiți parcul regional și fortificațiile istorice, înainte de a încheia turul la faimoasa biserică San Pietro.",
+            "en": "Explore the surroundings of Portovenere by bike. The coastal road offers breathtaking sea views and takes you to the neighboring village of Le Grazie. Return to Portovenere via panoramic roads to discover the regional park and historic fortifications, before ending your tour at the famous San Pietro church."
+          },
+          "stops": [
+            {
+              "name": "Piazza Bastreri",
+              "tip_5lang": null
+            },
+            {
+              "name": "Le Grazie",
+              "tip_5lang": null
+            },
+            {
+              "name": "Panoramastraße nach La Spezia",
+              "tip_5lang": null
+            },
+            {
+              "name": "Portovenere Regionalpark",
+              "tip_5lang": null
+            },
+            {
+              "name": "Castello Doria",
+              "tip_5lang": null
+            },
+            {
+              "name": "Kirche San Pietro",
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Farinata",
+                "tip": "Kichererbsenfladen, idealer Snack."
+              },
+              {
+                "name": "Ligurisches Olivenöl",
+                "tip": "Probieren Sie es in Le Grazie."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Farinata",
+                "tip": "Csicseriborsó lepény, ideális falat."
+              },
+              {
+                "name": "Liguriai olívaolaj",
+                "tip": "Kóstolja meg Le Graziéban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Farinata",
+                "tip": "Plăcintă de năut, gustarea ideală."
+              },
+              {
+                "name": "Ulei de măsline ligur",
+                "tip": "Degustați-l în Le Grazie."
+              }
+            ],
+            "en": [
+              {
+                "name": "Farinata",
+                "tip": "Chickpea flatbread, an ideal snack."
+              },
+              {
+                "name": "Ligurian olive oil",
+                "tip": "Try it in the village of Le Grazie."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Le Grazie Bucht",
+                "tip": "Ruhigerer Hafen als in Portovenere.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Le Grazie öböl",
+                "tip": "Csendesebb kikötő, mint Portovenerében.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Golful Le Grazie",
+                "tip": "Port mai liniștit decât cel din Portovenere.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Le Grazie bay",
+                "tip": "A quieter harbor than Portovenere.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokale Kooperativen",
+                "tip": "Verkauf von Pesto und Wein."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi szövetkezetek",
+                "tip": "Pesto és bor árusítása."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cooperative locale",
+                "tip": "Vânzare de pesto și vin."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local cooperatives",
+                "tip": "Selling local pesto and wine."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Achten Sie auf den Verkehr auf der Hauptstraße.",
+              "In der Altstadt herrscht Radfahrverbot.",
+              "Ein E-Bike hilft bei den Steigungen.",
+              "Nehmen Sie ausreichend Wasser mit.",
+              "Nutzen Sie den Fahrradständer am Eingang."
+            ],
+            "hu": [
+              "Figyeljen a forgalomra a főúton.",
+              "Az óvárosban tilos a kerékpározás.",
+              "Az e-bike segít az emelkedőkön.",
+              "Vigyen magával elegendő vizet.",
+              "Használja a biciklitárolót a bejáratnál."
+            ],
+            "ro": [
+              "Atenție la trafic pe drumul principal.",
+              "Ciclismul este interzis în orașul vechi.",
+              "O bicicletă electrică ajută la urcări.",
+              "Luați suficientă apă.",
+              "Folosiți suportul de biciclete de la intrare."
+            ],
+            "en": [
+              "Watch out for traffic on the main road.",
+              "Cycling is prohibited in the old town.",
+              "An e-bike helps with the steep climbs.",
+              "Carry plenty of water with you.",
+              "Use the bike racks at the town entrance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens starten Sie vorsichtig auf der Piazza Bastreri. Mittags radeln Sie durch das malerische Le Grazie, wo die Fischerboote im Regen tanzen. Nachmittags bietet die Panoramastraße dramatische Ausblicke auf das neblige Meer. Abends endet die Tour im Regionalpark, wo die salzige Luft besonders frisch riecht.",
+            "hu": "Reggel óvatosan indulunk a Piazza Bastreriről a vizes aszfalton. Délben Le Grazie falujában a halászhajók látványa kárpótol az esőért. Délután a panorámaút ködbe burkolózó sziklái misztikus hangulatot árasztanak. Az este a vár környékén ér minket, ahol a sós tengeri levegő ilyenkor a legfrissebb.",
+            "ro": "Dimineața porniți cu atenție din Piazza Bastreri. La prânz pedalați prin pitorescul Le Grazie, unde bărcile dansează în ploaie. După-amiaza, drumul panoramic oferă vederi dramatice asupra mării cețoase. Seara, turul se încheie în parcul regional, unde aerul sărat este extrem de proaspăt.",
+            "en": "In the morning, start cautiously from Piazza Bastreri. At noon, cycle through Le Grazie, where fishing boats bob in the rain. In the afternoon, the panoramic road offers dramatic views of the misty coastline. The evening ends near the Regional Park, where the salt air feels particularly invigorating."
+          },
+          "stops": [
+            {
+              "name": "Piazza Bastreri",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster, es ist bei Nässe sehr rutschig.",
+                "hu": "Vigyázz a macskaköveken, nedvesen rendkívül csúszósak.",
+                "ro": "Atenție pe piatra cubică, este foarte alunecoasă când e udă.",
+                "en": "Be careful on the cobblestones; they are very slippery when wet."
+              }
+            },
+            {
+              "name": "Le Grazie",
+              "tip_5lang": {
+                "de": "Finden Sie Unterschlupf in den Bars am Hafenbecken.",
+                "hu": "Keress menedéket a kikötő melletti bárokban egy kávéra.",
+                "ro": "Găsiți adăpost în barurile de lângă bazinul portului.",
+                "en": "Find shelter in the bars along the harbor basin."
+              }
+            },
+            {
+              "name": "Panoramastraße nach La Spezia",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen und reduzierten Grip in den Kurven.",
+                "hu": "Ügyelj a tócsákra és a csökkent tapadásra a kanyarokban.",
+                "ro": "Atenție la bălți și aderența redusă în curbe.",
+                "en": "Watch out for puddles and reduced grip in the bends."
+              }
+            },
+            {
+              "name": "Portovenere Regionalpark",
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege können sehr schlammig sein.",
+                "hu": "A burkolatlan utak ilyenkor nagyon sárossá válhatnak.",
+                "ro": "Drumurile neasfaltate pot fi foarte noroioase.",
+                "en": "The unpaved paths can become very muddy in the rain."
+              }
+            },
+            {
+              "name": "Castello Doria",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab, bevor Sie die Treppen steigen.",
+                "hu": "Zárd le biztonságosan a biciklit, mielőtt felmész a lépcsőkön.",
+                "ro": "Parcați bicicleta în siguranță înainte de a urca treptele.",
+                "en": "Secure your bike at the bottom before climbing the stairs."
+              }
+            },
+            {
+              "name": "Kirche San Pietro",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Fahren direkt auf den Felsen am Kap.",
+                "hu": "Kerüld a biciklizést közvetlenül a foknál lévő sziklákon.",
+                "ro": "Evitați să pedalați direct pe stâncile de la cap.",
+                "en": "Avoid riding directly on the rocks near the promontory."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie riskante Bremsmanöver auf nassem Asphalt.",
+              "Nutzen Sie ein Schutzblech, um sich vor Spritzwasser zu schützen.",
+              "Beleuchtung einschalten, da die Sicht im Regen stark abnimmt.",
+              "Tragen Sie wasserdichte Handschuhe für besseren Grip."
+            ],
+            "hu": [
+              "Kerüld a hirtelen fékezést a nedves aszfalton.",
+              "Használj sárvédőt a felcsapódó víz ellen.",
+              "Kapcsold be a világítást, mert esőben sokat romlik a láthatóság.",
+              "Viselj vízálló kesztyűt a biztosabb fogás érdekében."
+            ],
+            "ro": [
+              "Evitați manevrele de frânare riscante pe asfalt ud.",
+              "Folosiți o aripă pentru a vă proteja de stropii de apă.",
+              "Aprindeți luminile, vizibilitatea scade mult pe ploaie.",
+              "Purtați mănuși impermeabile pentru o aderență mai bună."
+            ],
+            "en": [
+              "Avoid sudden braking maneuvers on wet asphalt.",
+              "Use mudguards to protect yourself from road spray.",
+              "Turn on your lights as visibility drops significantly in the rain.",
+              "Wear waterproof gloves for a better grip on the handlebars."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen Sie die klare Luft auf der Fahrt nach Le Grazie. Mittags scheint die Sonne hell auf die Panoramastraße, ideal zum Radeln. Nachmittags erkunden Sie den Regionalpark in herrlicher Ruhe. Abends erreichen Sie das Kap von San Pietro pünktlich zum spektakulären Wintersonnenuntergang.",
+            "hu": "Reggel a friss, tiszta levegőben indulunk Le Grazie felé. Délben a napsütötte panorámaút tökéletes a biciklizéshez. Délután a regionális parkot teljes nyugalomban fedezhetjük fel. Este a San Pietro templomhoz érkezünk, épp időben a lenyűgöző téli naplementéhez.",
+            "ro": "Dimineața vă bucurați de aerul curat în drum spre Le Grazie. La prânz soarele strălucește pe drumul panoramic, ideal pentru pedalat. După-amiaza explorați parcul regional în liniște deplină. Seara ajungeți la San Pietro exact la timp pentru apusul spectaculos.",
+            "en": "In the morning, enjoy the crisp air on the ride to Le Grazie. At noon, the sun shines brightly on the panoramic road, perfect for cycling. In the afternoon, explore the Regional Park in blissful solitude. The evening brings you to the San Pietro promontory just in time for a spectacular winter sunset."
+          },
+          "stops": [
+            {
+              "name": "Piazza Bastreri",
+              "tip_5lang": {
+                "de": "Starten Sie nicht zu früh, um Frost auf dem Boden zu vermeiden.",
+                "hu": "Ne indulj túl korán, hogy elkerüld a talajmenti fagyot.",
+                "ro": "Nu porniți prea devreme pentru a evita bruma de pe sol.",
+                "en": "Don't start too early to avoid any morning frost on the road."
+              }
+            },
+            {
+              "name": "Le Grazie",
+              "tip_5lang": {
+                "de": "Die Sonne wärmt das Hafenbecken zur Mittagszeit angenehm auf.",
+                "hu": "A nap délidőben kellemesen felmelegíti a kikötő környékét.",
+                "ro": "Soarele încălzește plăcut bazinul portului la prânz.",
+                "en": "The sun warms the harbor area pleasantly around lunchtime."
+              }
+            },
+            {
+              "name": "Panoramastraße nach La Spezia",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Anstieg, um warm zu bleiben.",
+                "hu": "Használd ki az emelkedőt, hogy mozgásban maradj és ne fázz.",
+                "ro": "Folosiți urcarea pentru a vă menține temperatura corpului.",
+                "en": "Use the uphill climb to generate some body heat and stay warm."
+              }
+            },
+            {
+              "name": "Portovenere Regionalpark",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe, Sie haben die Wege fast für sich.",
+                "hu": "Élvezd a csendet, az utak szinte csak a tieid ilyenkor.",
+                "ro": "Bucurați-vă de liniște, aveți potecile aproape doar pentru voi.",
+                "en": "Enjoy the silence; you'll have the paths almost to yourself."
+              }
+            },
+            {
+              "name": "Castello Doria",
+              "tip_5lang": {
+                "de": "Kurze Pause hier, um die Aussicht ohne Wind zu genießen.",
+                "hu": "Tarts itt egy rövid szünetet, élvezd a szélmentes kilátást.",
+                "ro": "Faceți o scurtă pauză aici pentru vederea fără vânt.",
+                "en": "Take a short break here to enjoy the views away from the wind."
+              }
+            },
+            {
+              "name": "Kirche San Pietro",
+              "tip_5lang": {
+                "de": "Vorsicht vor dem kalten Seewind direkt am Kap.",
+                "hu": "Vigyázz a hideg tengeri széllel közvetlenül a foknál.",
+                "ro": "Atenție la vântul rece de mare direct la cap.",
+                "en": "Watch out for the cold sea wind right at the promontory."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders für die Abfahrten.",
+              "Die Sonne verschwindet früh hinter den Bergen, es wird schnell kalt.",
+              "Nutzen Sie Thermoflaschen für warme Getränke unterwegs.",
+              "Prüfen Sie den Reifendruck, kalte Luft mindert ihn leicht."
+            ],
+            "hu": [
+              "Viselj szélálló ruházatot, különösen a lejtőkön.",
+              "A nap korán eltűnik a hegyek mögött, utána hirtelen hűl le az idő.",
+              "Vigyél magaddal termoszban meleg italt az útra.",
+              "Ellenőrizd a guminyomást, a hideg levegő miatt csökkenhet."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, mai ales pentru coborâri.",
+              "Soarele dispare devreme după munți, se face frig rapid.",
+              "Folosiți termosuri pentru băuturi calde pe drum.",
+              "Verificați presiunea roților, aerul rece o scade ușor."
+            ],
+            "en": [
+              "Wear windproof clothing, especially for the descents.",
+              "The sun disappears early behind the mountains; it cools down fast.",
+              "Take a thermos with a hot drink for the journey.",
+              "Check your tire pressure as cold air slightly reduces it."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -818,6 +1570,350 @@
           "Bring coins for the parking meters.",
           "Watch out for ZTL (restricted traffic) zones."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Das Auto ermöglicht Ihnen einen Ausflug in das spektakuläre Bergdorf Campiglia, von dem aus Sie Portovenere und die Cinque Terre gleichzeitig sehen können. Nach der Ankunft in Portovenere erkunden Sie die historische Palazzata und das Castello Doria. Der Tag endet an der markanten Kirche San Pietro und der Byron-Grotte, wo die Wellen an die Felsen schlagen.",
+            "hu": "Az autó lehetővé teszi egy kirándulást a látványos Campiglia hegyi faluba, ahonnan Portovenerét és a Cinque Terrét egyszerre láthatja. Portovenerébe érkezve fedezze fel a történelmi Palazzatát és a Castello Doriát. A nap a jellegzetes San Pietro templomnál és a Byron-barlangnál ér véget, ahol a hullámok a szikláknak csapódnak.",
+            "ro": "Mașina vă permite o excursie în satul de munte spectaculos Campiglia, de unde puteți vedea Portovenere și Cinque Terre în același timp. La sosirea în Portovenere, explorați istorica Palazzata și Castelul Doria. Ziua se încheie la biserica San Pietro și Grota Byron, unde valurile se sparg de stânci.",
+            "en": "Having a car allows for a trip to the spectacular mountain village of Campiglia, offering views of Portovenere and Cinque Terre simultaneously. Upon arriving in Portovenere, explore the historic Palazzata and Castello Doria. The day ends at the iconic San Pietro church and Byron's Grotto, where the waves crash against the rocks."
+          },
+          "stops": [
+            {
+              "name": "Parkplatz Portovenere",
+              "tip_5lang": null
+            },
+            {
+              "name": "Die Palazzata",
+              "tip_5lang": null
+            },
+            {
+              "name": "Castello Doria",
+              "tip_5lang": null
+            },
+            {
+              "name": "Campiglia (Aussichtsdorf)",
+              "tip_5lang": null
+            },
+            {
+              "name": "Kirche San Pietro",
+              "tip_5lang": null
+            },
+            {
+              "name": "Grotta di Byron",
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Wildschwein-Spezialitäten",
+                "tip": "In Campiglia probieren."
+              },
+              {
+                "name": "Ligurischer Weißwein",
+                "tip": "Besonders gut in der Region."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vaddisznó ételek",
+                "tip": "Próbálja ki Campigliában."
+              },
+              {
+                "name": "Liguriai fehérbor",
+                "tip": "Különösen jó ebben a régióban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Specialități din mistreț",
+                "tip": "Încercați-le în Campiglia."
+              },
+              {
+                "name": "Vin alb ligur",
+                "tip": "Deosebit de bun în regiune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Wild boar specialties",
+                "tip": "Try them in Campiglia village."
+              },
+              {
+                "name": "Ligurian white wine",
+                "tip": "Particularly good in this region."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kirche von Campiglia",
+                "tip": "Ruhiger Platz mit Panoramablick.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Campiglia temploma",
+                "tip": "Csendes tér panoráma kilátással.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Biserica din Campiglia",
+                "tip": "Loc liniștit cu vedere panoramică.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Campiglia church",
+                "tip": "Quiet square with panoramic views.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokales Kunsthandwerk",
+                "tip": "Kleine Läden in Campiglia."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi kézműves termékek",
+                "tip": "Kis boltok Campigliában."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Artizanat local",
+                "tip": "Magazine mici în Campiglia."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local crafts",
+                "tip": "Small shops in Campiglia village."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken im Zentrum ist fast unmöglich.",
+              "Nutzen Sie den Shuttle-Dienst (Girobus).",
+              "Die Straße nach Campiglia ist sehr eng.",
+              "Bringen Sie Kleingeld für Parkgebühren.",
+              "Achten Sie auf ZTL-Zonen (Einfahrtverbot)."
+            ],
+            "hu": [
+              "A központban szinte lehetetlen parkolni.",
+              "Használja a transzferbuszt (Girobus).",
+              "A Campigliába vezető út nagyon szűk.",
+              "Vigyen aprót a parkolási díjhoz.",
+              "Figyeljen a ZTL (behajtási tilalom) zónákra."
+            ],
+            "ro": [
+              "Parcarea în centru este aproape imposibilă.",
+              "Folosiți serviciul de shuttle (Girobus).",
+              "Drumul spre Campiglia este foarte îngust.",
+              "Aduceți mărunțiș pentru taxele de parcare.",
+              "Atenție la zonele ZTL (acces interzis)."
+            ],
+            "en": [
+              "Parking in the center is nearly impossible.",
+              "Use the shuttle service (Girobus).",
+              "The road to Campiglia is very narrow.",
+              "Bring coins for the parking meters.",
+              "Watch out for ZTL (restricted traffic) zones."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens parken Sie bequem direkt am Ortseingang. Mittags bewundern Sie die Palazzata und finden schnell einen trockenen Platz in einem Restaurant. Nachmittags fahren Sie hoch nach Campiglia, wo die Wolken tief über den Klippen hängen. Abends erleben Sie die raue Schönheit des Kaps von San Pietro gemütlich vorbereitet.",
+            "hu": "Reggel kényelmesen parkolhatunk közvetlenül a város szélén. Délben a Palazzata színeit csodáljuk, majd gyorsan behúzódunk egy étterembe az eső elől. Délután felautózunk Campigliába, ahol a felhők szinte súrolják a sziklákat. Este a San Pietro templomnál zárjuk a napot, figyelve a viharos tengert.",
+            "ro": "Dimineața parcați confortabil chiar la intrarea în localitate. La prânz admirați Palazzata și găsiți rapid un loc uscat la restaurant. După-amiaza conduceți până la Campiglia, unde norii stau jos peste stânci. Seara experimentați frumusețea brută a capului San Pietro.",
+            "en": "In the morning, park conveniently right at the entrance to the town. At noon, admire the Palazzata and quickly find a dry spot in a local restaurant. In the afternoon, drive up to Campiglia, where the clouds hang low over the cliffs. The evening ends with the raw beauty of San Pietro in the rain."
+          },
+          "stops": [
+            {
+              "name": "Parkplatz Portovenere",
+              "tip_5lang": {
+                "de": "Bei Regen gibt es meist viele freie Plätze nah am Zentrum.",
+                "hu": "Esőben általában sok szabad hely van közel a központhoz.",
+                "ro": "Pe ploaie sunt de obicei multe locuri libere aproape de centru.",
+                "en": "In the rain, there are usually plenty of free spots near the center."
+              }
+            },
+            {
+              "name": "Die Palazzata",
+              "tip_5lang": {
+                "de": "Kurzer Laufweg vom Auto zu den überdachten Bereichen.",
+                "hu": "Rövid séta az autótól a fedett árkádokig.",
+                "ro": "Distanță scurtă de mers pe jos de la mașină la zonele acoperite.",
+                "en": "Short walking distance from the car to covered areas."
+              }
+            },
+            {
+              "name": "Castello Doria",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Parkplatz oberhalb spart Zeit im Regen.",
+                "hu": "A felső parkoló használatával időt spórolhatsz az esőben.",
+                "ro": "Utilizarea parcării de sus economisește timp în ploaie.",
+                "en": "Using the upper parking area saves time walking in the rain."
+              }
+            },
+            {
+              "name": "Campiglia (Aussichtsdorf)",
+              "tip_5lang": {
+                "de": "Die Straße ist schmal; bei Nässe besonders vorsichtig fahren.",
+                "hu": "Az út keskeny; nedves időben vezess különösen óvatosan.",
+                "ro": "Drumul este îngust; conduceți cu mare atenție pe carosabil ud.",
+                "en": "The road is narrow; drive with extra caution on wet pavement."
+              }
+            },
+            {
+              "name": "Kirche San Pietro",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Basis, um sich zwischendurch aufzuwärmen.",
+                "hu": "Használd az autót bázisként, ahol bármikor felmelegedhetsz.",
+                "ro": "Folosiți mașina ca bază pentru a vă încălzi între vizite.",
+                "en": "Use the car as a base to warm up between sightseeing stops."
+              }
+            },
+            {
+              "name": "Grotta di Byron",
+              "tip_5lang": {
+                "de": "Spektakuläre Fotomotive bei stürmischer See direkt vom Weg aus.",
+                "hu": "Látványos fotótémák a viharos tengerről közvetlenül az út mellől.",
+                "ro": "Motive fotografice spectaculoase cu marea agitată chiar de pe drum.",
+                "en": "Spectacular photo ops of the stormy sea right from the path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken in tiefgelegenen Zonen bei Flutgefahr.",
+              "Die schmalen Straßen nach Campiglia können bei Regen rutschig sein.",
+              "Halten Sie einen Regenschirm im Auto für die kurzen Wege bereit.",
+              "Genießen Sie die Aussichtspunkte direkt aus dem trockenen Fahrzeug."
+            ],
+            "hu": [
+              "Kerüld az alacsonyan fekvő parkolókat dagályveszély esetén.",
+              "A Campigliába vezető szűk utak esőben csúszósak lehetnek.",
+              "Tarts esernyőt az autóban a rövid sétákhoz.",
+              "Élvezd a kilátópontokat közvetlenül a száraz autóból."
+            ],
+            "ro": [
+              "Evitați parcarea în zonele joase dacă există risc de flux.",
+              "Drumurile înguste spre Campiglia pot fi alunecoase pe ploaie.",
+              "Țineți o umbrelă în mașină pentru distanțele scurte de mers.",
+              "Bucurați-vă de punctele de belvedere direct din mașina uscată."
+            ],
+            "en": [
+              "Avoid parking in low-lying zones if there is a risk of high tide.",
+              "The narrow roads to Campiglia can be slippery when wet.",
+              "Keep an umbrella in the car for short walks to the sights.",
+              "Enjoy the panoramic viewpoints directly from your dry vehicle."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens finden Sie mühelos einen Parkplatz mit bestem Blick. Mittags schlendern Sie durch die sonnige Palazzata, die im Winterlicht besonders strahlt. Nachmittags bietet Campiglia eine Fernsicht bis zu den Inseln. Abends genießen Sie den Sonnenuntergang am Kap, bevor Sie im beheizten Auto gemütlich zurückfahren.",
+            "hu": "Reggel erőfeszítés nélkül találunk parkolót a legjobb kilátással. Délben a napfényes Palazzatán sétálunk, ami a téli fényben ragyog. Délután Campigliából ellátni egészen a távoli szigetekig. Este a foknál nézzük a naplementét, majd a fűtött autóban indulunk vissza.",
+            "ro": "Dimineața găsiți fără efort un loc de parcare cu cea mai bună vedere. La prânz vă plimbați pe Palazzata însorită, care strălucește. După-amiaza Campiglia oferă o vedere până la insulele îndepărtate. Seara admirați apusul la cap, înainte de a pleca în mașina încălzită.",
+            "en": "In the morning, find a parking spot with the best view without any effort. At noon, stroll along the sunny Palazzata, glowing in the winter light. In the afternoon, Campiglia offers views as far as the distant islands. In the evening, watch the sunset at the promontory before driving back in your warm car."
+          },
+          "stops": [
+            {
+              "name": "Parkplatz Portovenere",
+              "tip_5lang": {
+                "de": "Parkgebühren sind im Winter oft deutlich niedriger.",
+                "hu": "A parkolási díjak télen gyakran lényegesen alacsonyabbak.",
+                "ro": "Taxele de parcare sunt adesea mult mai mici iarna.",
+                "en": "Parking fees are often significantly lower during the winter season."
+              }
+            },
+            {
+              "name": "Die Palazzata",
+              "tip_5lang": {
+                "de": "Das Winterlicht ist perfekt für Fotos ohne harten Schatten.",
+                "hu": "A téli fények tökéletesek a fotózáshoz, nincsenek erős árnyékok.",
+                "ro": "Lumina de iarnă este perfectă pentru fotografii fără umbre dure.",
+                "en": "The winter light is perfect for photography without harsh shadows."
+              }
+            },
+            {
+              "name": "Castello Doria",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Burg mittags, wenn es am wärmsten ist.",
+                "hu": "Délben látogasd meg a várat, amikor a legmelegebb az idő.",
+                "ro": "Vizitați castelul la prânz, când este cel mai cald.",
+                "en": "Visit the castle at noon when the temperature is at its highest."
+              }
+            },
+            {
+              "name": "Campiglia (Aussichtsdorf)",
+              "tip_5lang": {
+                "de": "Die klare Winterluft lässt Sie oft bis nach Korsika blicken.",
+                "hu": "A tiszta téli levegőben gyakran Korzikáig is ellátni.",
+                "ro": "Aerul clar de iarnă vă permite adesea să vedeți până în Corsica.",
+                "en": "The clear winter air often allows you to see as far as Corsica."
+              }
+            },
+            {
+              "name": "Kirche San Pietro",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier viel ruhiger, ideal für Meditation.",
+                "hu": "Télen itt sokkal nagyobb a csend, ideális az elmélyülésre.",
+                "ro": "Iarna este mult mai liniște aici, ideal pentru meditație.",
+                "en": "It's much quieter here in winter, ideal for some quiet reflection."
+              }
+            },
+            {
+              "name": "Grotta di Byron",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne leuchtet die Grotte golden aus.",
+                "hu": "Az alacsonyan járó nap aranyló fénnyel világítja meg a sziklákat.",
+                "ro": "Soarele jos luminează grota în nuanțe aurii.",
+                "en": "The low sun illuminates the grotto in beautiful golden hues."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Profitieren Sie von den günstigeren Winter-Parktarifen.",
+              "Achten Sie auf eventuelle Straßensperrungen wegen Wartungsarbeiten.",
+              "Genießen Sie die leeren Straßen rund um Portovenere.",
+              "Die Fernsicht in Campiglia ist im Winter am besten."
+            ],
+            "hu": [
+              "Használd ki az olcsóbb téli parkolási tarifákat.",
+              "Figyelj az esetleges karbantartási munkálatok miatti útlezárásokra.",
+              "Élvezd az üres utakat Portovenere környékén.",
+              "Campigliában a kilátás télen a legtisztább."
+            ],
+            "ro": [
+              "Profitați de tarifele de parcare mai mici pe timp de iarnă.",
+              "Atenție la eventualele drumuri închise pentru întreținere.",
+              "Bucurați-vă de drumurile goale din jurul Portovenere.",
+              "Vizibilitatea la distanță în Campiglia este optimă iarna."
+            ],
+            "en": [
+              "Take advantage of the lower winter parking rates.",
+              "Keep an eye out for potential road closures due to maintenance.",
+              "Enjoy the traffic-free roads around Portovenere.",
+              "The long-distance visibility in Campiglia is best in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1070,6 +2166,350 @@
           "Use the Girobus for getting around town.",
           "Validate your ticket on the bus."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Portovenere ist hervorragend mit dem Bus oder der Fähre erreichbar. Starten Sie im historischen Zentrum und setzen Sie mit dem Boot zur Insel Palmaria über, um die Natur zu genießen. Zurück an Land erkunden Sie die San Pietro Kirche und das Castello Doria. Genießen Sie die entspannte Atmosphäre am Wasser, bevor Sie den Abendbus zurück nach La Spezia nehmen.",
+            "hu": "Portovenere kiválóan elérhető busszal vagy komppal. Kezdjen a történelmi központban, majd hajózzon át a Palmaria-szigetre, hogy élvezze a természetet. Visszatérve a szárazföldre fedezze fel a San Pietro templomot és a Castello Doriát. Élvezze a pihentető vízparti hangulatot, mielőtt felszállna az esti buszra La Spezia felé.",
+            "ro": "Portovenere este ușor accesibil cu autobuzul sau feribotul. Începeți în centrul istoric și traversați cu barca spre insula Palmaria pentru a vă bucura de natură. Reveniți pe uscat pentru a explora biserica San Pietro și Castelul Doria. Bucurați-vă de atmosfera relaxantă de pe malul mării înainte de a lua autobuzul de seară spre La Spezia.",
+            "en": "Portovenere is easily accessible by bus or ferry. Start in the historic center and take a boat trip to Palmaria Island to enjoy its natural beauty. Back on the mainland, explore San Pietro Church and Castello Doria. Soak in the relaxed waterfront atmosphere before taking the evening bus back to La Spezia."
+          },
+          "stops": [
+            {
+              "name": "Busstation Portovenere",
+              "tip_5lang": null
+            },
+            {
+              "name": "Die Palazzata",
+              "tip_5lang": null
+            },
+            {
+              "name": "Insel Palmaria",
+              "tip_5lang": null
+            },
+            {
+              "name": "Kirche San Pietro",
+              "tip_5lang": null
+            },
+            {
+              "name": "Castello Doria",
+              "tip_5lang": null
+            },
+            {
+              "name": "Grotta di Byron",
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Schwertfisch-Pasta",
+                "tip": "In den Restaurants am Kai probieren."
+              },
+              {
+                "name": "Schiacciata",
+                "tip": "Gefülltes Fladenbrot, perfekt für die Insel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kardhalas tészta",
+                "tip": "Próbálja ki a rakparti éttermekben."
+              },
+              {
+                "name": "Schiacciata",
+                "tip": "Töltött lepénykenyér, tökéletes a szigetre."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Paste cu pește-spadă",
+                "tip": "Încercați la restaurantele de pe chei."
+              },
+              {
+                "name": "Schiacciata",
+                "tip": "Lipie umplută, perfectă pentru insulă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Swordfish pasta",
+                "tip": "Try it at the waterfront restaurants."
+              },
+              {
+                "name": "Schiacciata",
+                "tip": "Stuffed flatbread, perfect for the island."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Strände von Palmaria",
+                "tip": "Ruhe abseits des Festlandtrubels.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Palmaria strandjai",
+                "tip": "Csend a szárazföldi nyüzsgésen túl.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Plajele de pe Palmaria",
+                "tip": "Liniște departe de agitația orașului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Palmaria beaches",
+                "tip": "Peace away from the mainland hustle.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Pesto-Laden",
+                "tip": "Authentische Saucen zum Mitnehmen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi pestóbolt",
+                "tip": "Eredeti szószok elvitelre."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin local de pesto",
+                "tip": "Sosuri autentice la pachet."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local pesto shop",
+                "tip": "Authentic sauces to take home."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Bustickets vorab im Tabakladen.",
+              "Die Fähren haben einen festen Fahrplan.",
+              "Prüfen Sie die letzte Busabfahrt am Abend.",
+              "Nutzen Sie den Girobus für interne Wege.",
+              "Validieren Sie Ihr Ticket im Bus."
+            ],
+            "hu": [
+              "Vegyen buszjegyet előre a dohányboltban.",
+              "A kompoknak rögzített menetrendjük van.",
+              "Ellenőrizze az utolsó busz indulását este.",
+              "Használja a Girobuszt a belső közlekedéshez.",
+              "Érvényesítse a jegyét a buszon."
+            ],
+            "ro": [
+              "Cumpărați bilete de autobuz de la tabacherie.",
+              "Feriboturile au un program fix.",
+              "Verificați ultima plecare a autobuzului.",
+              "Folosiți Girobus pentru transport intern.",
+              "Validați biletul în autobuz."
+            ],
+            "en": [
+              "Buy bus tickets in advance at a 'Tabacchi'.",
+              "Ferries run on a fixed schedule.",
+              "Check the time for the last bus in the evening.",
+              "Use the Girobus for getting around town.",
+              "Validate your ticket on the bus."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens kommen Sie mit dem Bus 11 aus La Spezia an. Mittags bewundern Sie die Palazzata und finden Schutz in den gemütlichen Trattorien. Nachmittags ist die Insel Palmaria mystisch vernebelt, falls die Boote fahren. Abends bietet das Kap von San Pietro einen dramatischen Abschluss im Regen.",
+            "hu": "Reggel a 11-es busszal érkezünk La Speziából Portovenerébe. Délben a Palazzata színeit csodáljuk, majd egy trattoriában várunk a zápor végéig. Délután Palmaria szigete ködbe burkolózik, ha a hajók járnak. Este a San Pietro templomnál zárjuk a napot, figyelve az esőtől szürke tengert.",
+            "ro": "Dimineața sosiți cu autobuzul 11 din La Spezia. La prânz admirați Palazzata și găsiți adăpost în trattoriile primitoare. După-amiaza insula Palmaria este învăluită în ceață, dacă bărcile circulă. Seara capul San Pietro oferă un final dramatic pe ploaie.",
+            "en": "In the morning, arrive by bus 11 from La Spezia. At noon, admire the Palazzata and find shelter in a cozy local trattoria. In the afternoon, Palmaria Island is shrouded in mystical mist, provided the boats are running. In the evening, the San Pietro promontory offers a dramatic finale in the rain."
+          },
+          "stops": [
+            {
+              "name": "Busstation Portovenere",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen bietet Schutz vor dem ersten Regen.",
+                "hu": "A buszmegálló várója védelmet nyújt az első esőcseppek elől.",
+                "ro": "Adăpostul din stație oferă protecție împotriva ploii.",
+                "en": "The bus stop shelter provides protection from the initial rain."
+              }
+            },
+            {
+              "name": "Die Palazzata",
+              "tip_5lang": {
+                "de": "Restaurants hier sind ideal, um auf den nächsten Bus zu warten.",
+                "hu": "Az itteni éttermek ideálisak a következő busz megvárására.",
+                "ro": "Restaurantele de aici sunt ideale pentru a aștepta autobuzul.",
+                "en": "Restaurants here are perfect for waiting for the next bus."
+              }
+            },
+            {
+              "name": "Insel Palmaria",
+              "tip_5lang": {
+                "de": "Prüfen Sie vor Abfahrt, ob die Rückfahrt garantiert ist.",
+                "hu": "Indulás előtt ellenőrizd, hogy garantált-e a visszautat biztosító hajó.",
+                "ro": "Verificați înainte de plecare dacă returul este garantat.",
+                "en": "Check before departure if the return boat is guaranteed."
+              }
+            },
+            {
+              "name": "Kirche San Pietro",
+              "tip_5lang": {
+                "de": "Der Weg vom Bus hierher ist kurz und meist windgeschützt.",
+                "hu": "A busztól idáig vezető út rövid és többnyire szélvédett.",
+                "ro": "Drumul de la autobuz până aici este scurt și protejat de vânt.",
+                "en": "The walk from the bus stop is short and mostly sheltered from wind."
+              }
+            },
+            {
+              "name": "Castello Doria",
+              "tip_5lang": {
+                "de": "Vom Schloss hat man den Busparkplatz gut im Blick.",
+                "hu": "A várból jól rálátni a buszok indulási helyére.",
+                "ro": "De la castel aveți o vedere bună asupra stației de autobuz.",
+                "en": "From the castle, you have a good view of the bus departure area."
+              }
+            },
+            {
+              "name": "Grotta di Byron",
+              "tip_5lang": {
+                "de": "Bei Regen ist die Sicht auf die Grotte oft verwaschen.",
+                "hu": "Esőben a barlang látványa gyakran elmosódott a pára miatt.",
+                "ro": "Pe ploaie, vederea spre grotă este adesea neclară.",
+                "en": "In the rain, the view of the grotto is often hazy due to mist."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Bus 11/P verkehrt auch bei Regen regelmäßig.",
+              "Kaufen Sie Tickets vorab in La Spezia (Tabacchi).",
+              "Fähren nach Palmaria können bei Seegang eingestellt werden.",
+              "Halten Sie die App 'ATC La Spezia' für Echtzeit-Infos bereit."
+            ],
+            "hu": [
+              "A 11/P busz esőben is rendszeresen közlekedik.",
+              "Vegyél jegyet előre La Speziában egy dohányboltban (Tabacchi).",
+              "Erős hullámzás esetén a Palmaria-szigeti hajókat leállíthatják.",
+              "Használd az 'ATC La Spezia' appot a valós idejű infókért."
+            ],
+            "ro": [
+              "Autobuzul 11/P circulă regulat chiar și pe ploaie.",
+              "Cumpărați bilete în avans din La Spezia (Tabacchi).",
+              "Feriboturile spre Palmaria pot fi suspendate dacă marea e agitată.",
+              "Folosiți aplicația 'ATC La Spezia' pentru informații în timp real."
+            ],
+            "en": [
+              "Bus 11/P runs regularly even during rainy weather.",
+              "Purchase your tickets in advance in La Spezia (at a Tabacchi shop).",
+              "Ferries to Palmaria may be suspended if the sea is rough.",
+              "Keep the 'ATC La Spezia' app ready for real-time bus info."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erreichen Sie das ruhige Portovenere entspannt mit dem Bus. Mittags genießen Sie die Sonne an der Palazzata ohne den sommerlichen Lärm. Nachmittags ist die Insel Palmaria ein Refugium der Stille. Abends fängt der Bus Sie nach einem kühlen Sonnenuntergang am Kap wieder auf.",
+            "hu": "Reggel a nyugodt Portovenerébe érkezünk busszal, elkerülve a forgalmat. Délben a napsütötte Palazzatán sétálunk a tömeg nélkül. Délután Palmaria szigete a csend birodalma. Este a busz kényelmében pihenhetünk meg a foknál töltött hűvös naplemente után.",
+            "ro": "Dimineața ajungeți în Portovenere liniștit cu autobuzul. La prânz vă bucurați de soare pe Palazzata fără zgomotul verii. După-amiaza insula Palmaria este un refugiu al liniștii. Seara autobuzul vă preia după un apus răcoros la cap.",
+            "en": "In the morning, reach the quiet Portovenere relaxed by bus. At noon, enjoy the sun along the Palazzata without the summer noise. In the afternoon, Palmaria Island is a sanctuary of silence. In the evening, catch the bus back after a chilly but beautiful sunset at the promontory."
+          },
+          "stops": [
+            {
+              "name": "Busstation Portovenere",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan, Busse fahren etwas seltener.",
+                "hu": "Ellenőrizd a téli menetrendet, a buszok kicsit ritkábban járnak.",
+                "ro": "Verificați orarul de iarnă, autobuzele circulă mai rar.",
+                "en": "Check the winter timetable; buses run slightly less frequently."
+              }
+            },
+            {
+              "name": "Die Palazzata",
+              "tip_5lang": {
+                "de": "Ideal, um die Wintersonne bei einem Kaffee zu genießen.",
+                "hu": "Ideális hely a téli napsütés élvezetére egy kávé mellett.",
+                "ro": "Ideal pentru a savura soarele de iarnă la o cafea.",
+                "en": "The perfect spot to soak up the winter sun with a coffee."
+              }
+            },
+            {
+              "name": "Insel Palmaria",
+              "tip_5lang": {
+                "de": "Nur wenige Boote verkehren im Winter, Zeiten genau planen.",
+                "hu": "Télen csak kevés hajó jár, tervezd meg pontosan az idődet.",
+                "ro": "Doar câteva bărci circulă iarna, planificați timpul exact.",
+                "en": "Only a few boats operate in winter; plan your timing carefully."
+              }
+            },
+            {
+              "name": "Kirche San Pietro",
+              "tip_5lang": {
+                "de": "Genießen Sie den Ort fast alleine, ein seltener Winter-Luxus.",
+                "hu": "Élvezd a helyet szinte egyedül, ami ritka téli luxus.",
+                "ro": "Bucurați-vă de loc aproape singuri, un lux rar de iarnă.",
+                "en": "Enjoy the site almost entirely to yourself, a rare winter luxury."
+              }
+            },
+            {
+              "name": "Castello Doria",
+              "tip_5lang": {
+                "de": "Im Winter sind die Besichtigungszeiten oft verkürzt.",
+                "hu": "Télen a látogatási idő gyakran rövidebb, nézz utána előre.",
+                "ro": "Iarna, orele de vizitare sunt adesea reduse.",
+                "en": "Visiting hours for the castle are often shorter in the winter."
+              }
+            },
+            {
+              "name": "Grotta di Byron",
+              "tip_5lang": {
+                "de": "Ein windstiller Platz zum Aufwärmen in der Sonne.",
+                "hu": "Szélvédett hely, ahol felmelegedhetsz a napon.",
+                "ro": "Un loc ferit de vânt pentru a vă încălzi la soare.",
+                "en": "A wind-sheltered spot to warm up in the sunshine."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf den Winterfahrplan der Linie 11/P.",
+              "Die Boote nach Palmaria fahren nur bei gutem Wetter.",
+              "Kaufen Sie Rückfahrtickets am besten gleich in La Spezia.",
+              "Abends kühlt es an der Bushaltestelle schnell ab."
+            ],
+            "hu": [
+              "Ügyelj a 11/P járat téli menetrendjére.",
+              "A Palmaria-szigetre tartó hajók csak jó időben járnak.",
+              "A visszautat is tervezd meg, vegyél jegyet előre.",
+              "Este a buszmegállóban várakozva gyorsan lehűl a levegő."
+            ],
+            "ro": [
+              "Atenție la orarul de iarnă al liniei 11/P.",
+              "Bărcile spre Palmaria circulă doar pe vreme bună.",
+              "Cumpărați biletele de întoarcere de preferat din La Spezia.",
+              "Seara se face frig rapid în stația de autobuz."
+            ],
+            "en": [
+              "Be sure to check the winter schedule for line 11/P.",
+              "Boats to Palmaria only run during favorable weather conditions.",
+              "It's best to buy your return tickets in La Spezia beforehand.",
+              "The temperature drops quickly at the bus stop after sunset."
+            ]
+          }
+        }
       }
     }
   },

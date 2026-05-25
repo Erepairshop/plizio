@@ -330,6 +330,460 @@
           "The panoramic viewpoints (balconi) offer the best photo opportunities.",
           "Book restaurants in advance, especially on weekends."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Tag in der Altstadt auf der Piazza Vittorio Emanuele II, wo das Leben pulsiert. Besuchen Sie die Chiesa Matrice und spazieren Sie dann zur berühmten Bourbonen-Brücke. Mittags genießen Sie den Blick auf die Grotta Palazzese, bevor Sie den Nachmittag am ikonischen Strand Lama Monachile verbringen. Den Abend lassen Sie am Denkmal von Domenico Modugno ausklingen, während Sie den Sonnenuntergang über der Adria bewundern.",
+            "hu": "Kezdje a napot az óváros szívében, a Piazza Vittorio Emanuele II téren, majd látogasson el a Chiesa Matrice templomba. Sétáljon át a Bourbon-hídon, ahonnan lélegzetelállító kilátás nyílik a sziklákra. Délben csodálja meg a Grotta Palazzese barlangéttermet, majd töltse a délutánt a festői Lama Monachile strandon. Az estét a Domenico Modugno emlékműnél zárja, ahol a tenger feletti naplemente és a Volare dallama kíséri az utazót.",
+            "ro": "Începeți ziua în centrul vechi, în Piazza Vittorio Emanuele II, apoi vizitați Chiesa Matrice. Traversați Podul Bourbon pentru o vedere panoramică asupra falezei. La prânz, admirați celebra Grotta Palazzese, iar după-amiaza relaxați-vă pe plaja iconică Lama Monachile. Încheiați seara la monumentul lui Domenico Modugno, fredonând Volare în timp ce soarele apune peste Marea Adriatică, oferind un spectacol de neuitat.",
+            "en": "Start your day in the heart of the old town at Piazza Vittorio Emanuele II, followed by a visit to the Chiesa Matrice. Walk across the Bourbon Bridge for stunning cliff views. At midday, marvel at the Grotta Palazzese sea cave before spending a relaxing afternoon at the iconic Lama Monachile beach. End your evening at the Domenico Modugno monument, humming Volare as the sun sets over the Adriatic Sea."
+          },
+          "stops": [
+            {
+              "name": "Piazza Vittorio Emanuele II",
+              "tip_5lang": {
+                "de": "Trinken Sie den berühmten Caffè Speciale in einer der Bars am Platz.",
+                "hu": "Kóstolja meg a híres Caffè Speciale-t a tér egyik bárjában.",
+                "ro": "Savurați celebra Caffè Speciale la una dintre cafenelele din piață.",
+                "en": "Try the famous Caffè Speciale at one of the bars in the square."
+              }
+            },
+            {
+              "name": "Chiesa Matrice di Santa Maria Assunta",
+              "tip_5lang": {
+                "de": "Bewundern Sie das Polyptychon von Vivarini im Inneren der Kirche.",
+                "hu": "Csodálja meg a templom belsejében található Vivarini-poliptichont.",
+                "ro": "Admirați polipticul lui Vivarini din interiorul bisericii.",
+                "en": "Admire the Vivarini polyptych inside the church."
+              }
+            },
+            {
+              "name": "Ponte Borbonico",
+              "tip_5lang": {
+                "de": "Der beste Ort für das klassische Panoramafoto von Lama Monachile.",
+                "hu": "A legjobb hely a klasszikus panorámakép elkészítéséhez Lama Monachile-ról.",
+                "ro": "Cel mai bun loc pentru fotografia panoramică clasică a plajei Lama Monachile.",
+                "en": "The best spot for the classic panoramic photo of Lama Monachile."
+              }
+            },
+            {
+              "name": "Grotta Palazzese",
+              "tip_5lang": {
+                "de": "Schauen Sie von der Aussichtsplattform auf das weltberühmte Höhlenrestaurant.",
+                "hu": "Nézzen le a kilátóról a világhírű barlangétteremre.",
+                "ro": "Priviți de pe platforma panoramică spre celebrul restaurant din peșteră.",
+                "en": "Look down from the viewpoint at the world-famous cave restaurant."
+              }
+            },
+            {
+              "name": "Lama Monachile",
+              "tip_5lang": {
+                "de": "Bringen Sie Badeschuhe mit, da der Strand aus Kieselsteinen besteht.",
+                "hu": "Vigyen magával úszócipőt, mert a strand kavicsos.",
+                "ro": "Luați încălțăminte de apă, deoarece plaja este cu pietriș.",
+                "en": "Bring water shoes as the beach is pebbly."
+              }
+            },
+            {
+              "name": "Monumento a Domenico Modugno",
+              "tip_5lang": {
+                "de": "Breiten Sie die Arme aus wie Modugno und singen Sie Volare.",
+                "hu": "Tárja szét a karját, mint Modugno, és énekelje a Volare-t.",
+                "ro": "Deschideți brațele ca Modugno și fredonați melodia Volare.",
+                "en": "Spread your arms like Modugno and sing Volare."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Caffè Speciale",
+                "tip": "Kaffee mit Zitronenschale und Amaretto im Super Mago del Gelo."
+              },
+              {
+                "name": "Panino con Polpo",
+                "tip": "Legendäres Oktopus-Sandwich bei Pescaria."
+              },
+              {
+                "name": "Focaccia Barese",
+                "tip": "Frisch gebacken aus der lokalen Bäckerei im Zentrum."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Caffè Speciale",
+                "tip": "Citromhéjas, amaretto ízű kávé a Super Mago del Gelo-ban."
+              },
+              {
+                "name": "Panino con Polpo",
+                "tip": "Legendás polipos szendvics a Pescaria-ban."
+              },
+              {
+                "name": "Focaccia Barese",
+                "tip": "Frissen sült focaccia a belvárosi pékségekből."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Caffè Speciale",
+                "tip": "Cafea cu coajă de lămâie și amaretto la Super Mago del Gelo."
+              },
+              {
+                "name": "Panino con Polpo",
+                "tip": "Sandviș legendar cu caracatiță la Pescaria."
+              },
+              {
+                "name": "Focaccia Barese",
+                "tip": "Focaccia proaspătă de la brutăriile locale din centru."
+              }
+            ],
+            "en": [
+              {
+                "name": "Caffè Speciale",
+                "tip": "Coffee with lemon zest and amaretto at Super Mago del Gelo."
+              },
+              {
+                "name": "Panino con Polpo",
+                "tip": "Legendary octopus sandwich at Pescaria."
+              },
+              {
+                "name": "Focaccia Barese",
+                "tip": "Freshly baked focaccia from local bakeries."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Scoglio dell'Eremita",
+                "tip": "Beobachten Sie den Felsen im Meer bei Sonnenuntergang.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Lungomare Grotta Ardito",
+                "tip": "Ein ruhiger Spaziergang entlang der Klippen abseits der Massen.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Abbazia di San Vito",
+                "tip": "Ein friedlicher Ort am kleinen Hafen nördlich der Stadt.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Scoglio dell'Eremita",
+                "tip": "Figyelje a tengerből kiemelkedő sziklát naplementekor.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Lungomare Grotta Ardito",
+                "tip": "Csendes séta a sziklák mentén, távol a tömegtől.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Abbazia di San Vito",
+                "tip": "Békés hely a kis kikötőnél, a várostól északra.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Scoglio dell'Eremita",
+                "tip": "Priviți stânca din mijlocul mării la apus.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Lungomare Grotta Ardito",
+                "tip": "O plimbare liniștită pe faleză, departe de aglomerație.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Abbazia di San Vito",
+                "tip": "Un loc liniștit lângă micul port la nord de oraș.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Scoglio dell'Eremita",
+                "tip": "Watch the rock islet at sunset.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Lungomare Grotta Ardito",
+                "tip": "A quiet walk along the cliffs away from the crowds.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Abbazia di San Vito",
+                "tip": "A peaceful spot by the small harbor north of town.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokale Keramik",
+                "tip": "Handbemalte apulische Keramik in der Altstadt."
+              },
+              {
+                "name": "Olivenöl & Taralli",
+                "tip": "Typische Spezialitäten der Region als Souvenir."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi kerámiák",
+                "tip": "Kézzel festett apuliai kerámiák az óvárosban."
+              },
+              {
+                "name": "Olívaolaj és Taralli",
+                "tip": "Tipikus regionális finomságok szuvenírnek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ceramică locală",
+                "tip": "Ceramică apuliană pictată manual în centrul vechi."
+              },
+              {
+                "name": "Ulei de măsline și Taralli",
+                "tip": "Specialități tipice regionale pentru suveniruri."
+              },
+              {
+                "name": "Artesanato",
+                "tip": "Obiecte artizanale din lemn de măslin."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Ceramics",
+                "tip": "Hand-painted Apulian ceramics in the old town."
+              },
+              {
+                "name": "Olive Oil & Taralli",
+                "tip": "Typical regional specialties as souvenirs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster der Altstadt.",
+              "Besuchen Sie Lama Monachile früh am Morgen, um die Massen zu vermeiden.",
+              "Die Aussichtspunkte (Balconi) bieten die besten Fotomotive.",
+              "Reservieren Sie Restaurants im Voraus, besonders am Wochenende."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt az óváros macskaköves utcáihoz.",
+              "Látogasson el a Lama Monachile strandra korán reggel a tömeg elkerülése végett.",
+              "A sziklafalon található kilátóteraszok (balconi) kínálják a legjobb fotótémákat.",
+              "Foglaljon asztalt előre az éttermekbe, különösen hétvégén."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă pentru străzile pietruite din centrul vechi.",
+              "Vizitați plaja Lama Monachile dimineața devreme pentru a evita aglomerația.",
+              "Terasele panoramice (balconi) oferă cele mai bune unghiuri pentru fotografii.",
+              "Rezervați masa la restaurant în avans, mai ales în weekend."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestone streets of the old town.",
+              "Visit Lama Monachile early in the morning to avoid the crowds.",
+              "The panoramic viewpoints (balconi) offer the best photo opportunities.",
+              "Book restaurants in advance, especially on weekends."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Morgen auf der Piazza Vittorio Emanuele II, wo Cafés Schutz bieten. Mittags besuchen wir die trockene Chiesa Matrice. Nachmittags beobachten wir das stürmische Meer vom Ponte Borbonico aus. Den Abend verbringen wir gemütlich in den überdachten Gassen der Altstadt bei einem Glas Wein.",
+            "hu": "Esős délelőtt a Piazza Vittorio Emanuele II árkádjai alatt, ahol a kávézók nyújtanak menedéket. Délben a Chiesa Matrice száraz falai között pihenünk. Délután a Ponte Borbonico felett nézzük a hullámzó tengert. Az estét az óváros fedett éttermeiben, meghitt hangulatban zárjuk.",
+            "ro": "O dimineață ploioasă în Piazza Vittorio Emanuele II, unde cafenelele oferă adăpost. La prânz vizităm interiorul uscat al Chiesa Matrice. După-amiaza admirăm marea agitată de pe Ponte Borbonico. Seara ne retragem în restaurantele primitoare din centrul vechi.",
+            "en": "A rainy morning at Piazza Vittorio Emanuele II, where cafes provide shelter. At noon, we explore the dry interior of Chiesa Matrice. In the afternoon, watch the stormy sea from Ponte Borbonico. End the evening cozying up in a traditional restaurant in the old town."
+          },
+          "stops": [
+            {
+              "name": "Piazza Vittorio Emanuele II",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Markisen der Cafés als Regenschutz.",
+                "hu": "Használja a kávézók napellenzőit eső elleni védelemként.",
+                "ro": "Folosiți copertinele cafenelelor pentru a vă adăposti de ploaie.",
+                "en": "Use the cafe awnings as temporary shelter from the rain."
+              }
+            },
+            {
+              "name": "Chiesa Matrice di Santa Maria Assunta",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um trocken zu bleiben und Kunst zu genießen.",
+                "hu": "Tökéletes hely, hogy szárazon maradjon és élvezze a művészetet.",
+                "ro": "Un loc perfect pentru a rămâne uscat și a admira arta.",
+                "en": "A perfect spot to stay dry while admiring religious art."
+              }
+            },
+            {
+              "name": "Ponte Borbonico",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steine können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat, a kövek nedvesen nagyon csúszósak lehetnek.",
+                "ro": "Atenție, pietrele pot fi foarte alunecoase când sunt ude.",
+                "en": "Be careful, the stone pavement can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Grotta Palazzese",
+              "tip_5lang": {
+                "de": "Die Höhle bietet einen spektakulären Blick auf die Gischt.",
+                "hu": "A barlang látványos kilátást nyújt a tengeri permetre.",
+                "ro": "Peștera oferă o vedere spectaculoasă asupra valurilor.",
+                "en": "The cave offers a spectacular view of the crashing waves."
+              }
+            },
+            {
+              "name": "Lama Monachile",
+              "tip_5lang": {
+                "de": "Besser von der Brücke aus betrachten, der Strand ist matschig.",
+                "hu": "Jobb a hídról nézni, a strand ilyenkor sáros és vizes.",
+                "ro": "Mai bine priviți de pe pod, plaja este noroioasă acum.",
+                "en": "Best viewed from the bridge as the beach can be muddy."
+              }
+            },
+            {
+              "name": "Monumento a Domenico Modugno",
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp mit Regenschirm ist lohnenswert.",
+                "hu": "Egy gyors fotómegálló esernyővel is megéri a látványt.",
+                "ro": "O oprire rapidă pentru poze cu umbrela merită efortul.",
+                "en": "A quick photo stop with an umbrella is still worth it."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Grip für den rutschigen Kalkstein.",
+              "Ein stabiler Regenschirm ist wegen der Meeresbrise wichtig.",
+              "Besuchen Sie die kleinen Handwerksläden, um trocken zu bleiben.",
+              "Die Aussichtspunkte in der Altstadt sind oft überdacht.",
+              "Nutzen Sie die Zeit für eine ausgedehnte italienische Kaffeepause."
+            ],
+            "hu": [
+              "Viseljen tapadós talpú cipőt a csúszós mészkő burkolat miatt.",
+              "A tengeri szél miatt érdemes erős, szélálló esernyőt vinni.",
+              "Használja ki az időt a kis kézműves boltok felfedezésére.",
+              "Az óváros kilátópontjai gyakran részben fedettek.",
+              "Ilyenkor a legjobb egy hosszú, olasz kávézásba menekülni."
+            ],
+            "ro": [
+              "Purtați încălțăminte antiderapantă pentru pavajul de calcar.",
+              "O umbrelă rezistentă este necesară din cauza vântului marin.",
+              "Explorați micile magazine de artizanat pentru a sta la adăpost.",
+              "Punctele de belvedere din orașul vechi sunt adesea acoperite.",
+              "Profitați de ploaie pentru o pauză lungă de cafea italiană."
+            ],
+            "en": [
+              "Wear shoes with good grip due to the slippery limestone pavement.",
+              "A sturdy umbrella is essential because of the coastal wind.",
+              "Spend more time in small craft shops to stay dry.",
+              "Many balconies in the old town offer some overhead cover.",
+              "Take advantage of the rain for a long, relaxed Italian coffee break."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frischer Wintermorgen auf der Piazza, die Sonne wärmt die weißen Mauern. Mittags genießen wir die Stille in der Chiesa Matrice ohne Sommertouristen. Nachmittags spazieren wir zum Monumento, während die Sonne früh über der Adria versinkt. Der Abend endet warm bei lokaler Pasta in einer Trattoria.",
+            "hu": "Friss téli reggel a főtéren, ahol a nap melegíti a fehér falakat. Délben élvezzük a Chiesa Matrice csendjét a nyári tömeg nélkül. Délután a Domenico Modugno emlékműnél nézzük a korai naplementét az Adria felett. Az estét egy meleg trattoriában, helyi tésztákkal zárjuk.",
+            "ro": "O dimineață răcoroasă de iarnă în piață, cu soarele încălzind zidurile albe. La prânz ne bucurăm de liniștea din Chiesa Matrice. După-amiaza mergem la monument pentru un apus timpuriu peste marea Adriatică. Seara se încheie cu paste calde într-o trattoria locală.",
+            "en": "A crisp winter morning in the square, with the sun warming the white walls. At noon, enjoy the peace of Chiesa Matrice without the crowds. In the afternoon, head to the monument for an early sunset over the Adriatic. End the day with warm local pasta in a cozy trattoria."
+          },
+          "stops": [
+            {
+              "name": "Piazza Vittorio Emanuele II",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz in der Sonne für die Wärme.",
+                "hu": "Keressen egy napsütötte helyet a reggeli melegedéshez.",
+                "ro": "Căutați un loc la soare pentru a vă încălzi dimineața.",
+                "en": "Find a sunny spot in the square to catch the morning warmth."
+              }
+            },
+            {
+              "name": "Chiesa Matrice di Santa Maria Assunta",
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kühle, ziehen Sie sich warm an.",
+                "hu": "A vastag falak tartják a hideget, öltözzön fel rétegesen.",
+                "ro": "Zidurile groase păstrează răcoarea, îmbrăcați-vă bine.",
+                "en": "The thick stone walls retain the cold; dress in layers."
+              }
+            },
+            {
+              "name": "Ponte Borbonico",
+              "tip_5lang": {
+                "de": "Genießen Sie den klaren Winterblick auf die Bucht.",
+                "hu": "Élvezze a tiszta téli kilátást az alatta fekvő öbölre.",
+                "ro": "Bucurați-vă de vederea clară de iarnă asupra golfului.",
+                "en": "Enjoy the crisp, clear winter views over the cove below."
+              }
+            },
+            {
+              "name": "Grotta Palazzese",
+              "tip_5lang": {
+                "de": "Im Winter oft geschlossen, aber der Blick von oben bleibt toll.",
+                "hu": "Télen gyakran zárva, de a fenti kilátás továbbra is pazar.",
+                "ro": "Adesea închis iarna, dar vederea de sus rămâne superbă.",
+                "en": "Often closed in winter, but the view from above is still great."
+              }
+            },
+            {
+              "name": "Lama Monachile",
+              "tip_5lang": {
+                "de": "Perfekt für einen einsamen Spaziergang am leeren Strand.",
+                "hu": "Tökéletes egy magányos sétához az üres tengerparton.",
+                "ro": "Perfect pentru o plimbare solitară pe plaja goală.",
+                "en": "Perfect for a solitary walk on the empty beach."
+              }
+            },
+            {
+              "name": "Monumento a Domenico Modugno",
+              "tip_5lang": {
+                "de": "Seien Sie gegen 16:30 Uhr hier für den Sonnenuntergang.",
+                "hu": "Érkezzen 16:30 körül a csodás téli naplementéhez.",
+                "ro": "Fiți aici în jur de ora 16:30 pentru apusul soarelui.",
+                "en": "Be here around 4:30 PM to catch the beautiful winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 17:00 Uhr unter.",
+              "Der Wind vom Meer kann sehr schneidend sein, Windjacke nutzen.",
+              "Viele Cafés haben Heizstrahler im Außenbereich.",
+              "Profitieren Sie von den deutlich geringeren Wartezeiten.",
+              "Probieren Sie den berühmten 'Caffè Speciale' zum Aufwärmen."
+            ],
+            "hu": [
+              "Télen a nap már 17:00 óra körül lemegy.",
+              "A tenger felőli szél metsző lehet, vigyen szélálló kabátot.",
+              "Sok kávézó teraszán van kültéri fűtőtest.",
+              "Élvezze a jelentősen rövidebb sorban állási időket.",
+              "Próbálja ki a híres 'Caffè Speciale'-t a felmelegedéshez."
+            ],
+            "ro": [
+              "Iarna, soarele apune deja în jurul orei 17:00.",
+              "Vântul de pe mare poate fi tăios, folosiți o jachetă de vânt.",
+              "Multe cafenele au încălzitoare exterioare pe terase.",
+              "Profitați de cozile mult mai scurte la atracții.",
+              "Încercați celebrul 'Caffè Speciale' pentru a vă încălzi."
+            ],
+            "en": [
+              "Sunset occurs early in winter, usually around 5:00 PM.",
+              "Sea breezes can be very cold; bring a windproof jacket.",
+              "Many cafe terraces are equipped with outdoor heaters.",
+              "Enjoy much shorter wait times at popular photo spots.",
+              "Try the famous local 'Caffè Speciale' to warm up."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -588,6 +1042,403 @@
           "Rent an e-bike for the coastal slopes.",
           "Watch out for cars in the narrow streets."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Polignano auf zwei Rädern. Nach der Besichtigung des Zentrums führt Sie eine malerische Küstenfahrt zur Abtei von San Vito. Genießen Sie die frische Meeresbrise, während Sie zu den abgelegeneren Felsformationen wie dem Scoglio dell'Eremita radeln.",
+            "hu": "Fedezze fel Polignanót két keréken. A központ megtekintése után egy festői parti út vezet a San Vito apátsághoz. Élvezze a friss tengeri szellőt, miközben a távolabbi sziklaalakzatokhoz, például a Scoglio dell'Eremitához teker.",
+            "ro": "Explorați Polignano pe două roți. După vizitarea centrului, un traseu de coastă pitoresc vă conduce la Abația San Vito. Bucurați-vă de briza mării în timp ce pedalați spre formațiunile stâncoase mai retrase, precum Scoglio dell'Eremita.",
+            "en": "Explore Polignano on two wheels. After visiting the center, a scenic coastal ride leads you to the Abbey of San Vito. Enjoy the fresh sea breeze as you cycle to the more secluded rock formations like the Scoglio dell'Eremita."
+          },
+          "stops": [
+            {
+              "name": "Piazza Vittorio Emanuele II",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad sicher, bevor Sie die Fußgängerzone betreten.",
+                "hu": "Zárja le biztonságosan a biciklit, mielőtt belép a sétálóövezetbe.",
+                "ro": "Parcați bicicleta în siguranță înainte de a intra în zona pietonală.",
+                "en": "Park your bike securely before entering the pedestrian zone."
+              }
+            },
+            {
+              "name": "Chiesa Matrice",
+              "tip_5lang": {
+                "de": "Ein kühler Rückzugsort am Vormittag.",
+                "hu": "Hűvös menedék délelőtt.",
+                "ro": "Un refugiu răcoros în timpul dimineții.",
+                "en": "A cool retreat in the morning."
+              }
+            },
+            {
+              "name": "Ponte Borbonico",
+              "tip_5lang": {
+                "de": "Blick auf die Klippenspringer im Sommer.",
+                "hu": "Nézze a sziklaugrókat nyáron.",
+                "ro": "Priviți săritorii de pe stânci în timpul verii.",
+                "en": "Watch the cliff divers during summer."
+              }
+            },
+            {
+              "name": "Lama Monachile",
+              "tip_5lang": {
+                "de": "Kurze Erfrischung im Meer.",
+                "hu": "Gyors felfrissülés a tengerben.",
+                "ro": "O scurtă revigorare în mare.",
+                "en": "A quick refresh in the sea."
+              }
+            },
+            {
+              "name": "Monumento a Domenico Modugno",
+              "tip_5lang": {
+                "de": "Startpunkt für die Küstenfahrt nach Norden.",
+                "hu": "Kiindulópont az északi parti úthoz.",
+                "ro": "Punct de plecare pentru traseul de coastă spre nord.",
+                "en": "Starting point for the coastal ride north."
+              }
+            },
+            {
+              "name": "Abbazia di San Vito",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am kleinen Hafen vor der Abtei.",
+                "hu": "Élvezze a nyugalmat az apátság előtti kis kikötőben.",
+                "ro": "Bucurați-vă de liniște în micul port din fața abației.",
+                "en": "Enjoy the peace at the small harbor in front of the abbey."
+              }
+            },
+            {
+              "name": "Scoglio dell'Eremita",
+              "tip_5lang": {
+                "de": "Ein einsamer Felsen mit spiritueller Geschichte.",
+                "hu": "Egy magányos szikla spirituális múlttal.",
+                "ro": "O stâncă solitară cu o istorie spirituală.",
+                "en": "A lonely rock with a spiritual history."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Fisch-Streetfood",
+                "tip": "Holen Sie sich eine Tüte frittierte Meeresfrüchte."
+              },
+              {
+                "name": "Taralli",
+                "tip": "Der perfekte Snack für die Radpause."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Halas street food",
+                "tip": "Vegyél egy tölcsér rántott tengeri gyümölcsöt."
+              },
+              {
+                "name": "Taralli",
+                "tip": "Tökéletes rágcsálnivaló a bringás pihenőhöz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Street food cu pește",
+                "tip": "Luați un cornet cu fructe de mare prăjite."
+              },
+              {
+                "name": "Taralli",
+                "tip": "Gustarea perfectă pentru pauza de bicicletă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fish Street Food",
+                "tip": "Get a cone of fried seafood."
+              },
+              {
+                "name": "Taralli",
+                "tip": "The perfect snack for a cycling break."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Cala San Giovanni",
+                "tip": "Ruhiger Strandabschnitt nördlich vom Zentrum.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cala San Giovanni",
+                "tip": "Csendes partszakasz a központtól északra.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cala San Giovanni",
+                "tip": "O porțiune de plajă liniștită la nord de centru.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cala San Giovanni",
+                "tip": "Quiet beach area north of the center.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Wein",
+                "tip": "Ein Fläschchen Primitivo für den Abend."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi bor",
+                "tip": "Egy üveg Primitivo az estére."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vin local",
+                "tip": "O sticlă de Primitivo pentru seară."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Wine",
+                "tip": "A bottle of Primitivo for the evening."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein E-Bike für die Steigungen an der Küste.",
+              "Achten Sie auf Autos in den engen Gassen."
+            ],
+            "hu": [
+              "Béreljen elektromos kerékpárt a parti emelkedőkhöz.",
+              "Ügyeljen az autókra a szűk utcákban."
+            ],
+            "ro": [
+              "Închiriați o bicicletă electrică pentru pantele de pe coastă.",
+              "Atenție la mașini pe străzile înguste."
+            ],
+            "en": [
+              "Rent an e-bike for the coastal slopes.",
+              "Watch out for cars in the narrow streets."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Ritt im Regen durch das Zentrum. Wir starten an der Piazza und suchen Schutz in der Chiesa Matrice. Mittags radeln wir vorsichtig zum Ponte Borbonico. Am Nachmittag erreichen wir die Abbazia di San Vito, wo das Meer dramatisch gegen die Mauern peitscht.",
+            "hu": "Frissítő tekerés az esőben a központon át. A főtérről indulva a Chiesa Matrice falai közt keresünk menedéket. Délben óvatosan gurulunk a Ponte Borbonico felé. Délutánra elérjük a San Vito apátságot, ahol a tenger drámaian csapkodja a falakat.",
+            "ro": "O plimbare revigorantă pe ploaie prin centru. Pornim din piață și căutăm adăpost în Chiesa Matrice. La prânz pedalăm cu grijă spre Ponte Borbonico. După-amiaza ajungem la Abbazia di San Vito, unde marea lovește dramatic zidurile.",
+            "en": "A refreshing rainy ride through the center. Starting at the square, we seek shelter in Chiesa Matrice. At noon, we pedal carefully towards Ponte Borbonico. By afternoon, we reach Abbazia di San Vito, where the sea crashes dramatically against the stone."
+          },
+          "stops": [
+            {
+              "name": "Piazza Vittorio Emanuele II",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Arkaden für eine kurze Pause.",
+                "hu": "Parkolja le a bringát az árkádok alá egy rövid szünetre.",
+                "ro": "Parcați bicicleta sub arcade pentru o scurtă pauză.",
+                "en": "Park your bike under the arches for a quick dry break."
+              }
+            },
+            {
+              "name": "Chiesa Matrice",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Regenkleidung zu richten.",
+                "hu": "Használja ki a megállót az esőruházat igazítására.",
+                "ro": "Folosiți oprirea pentru a vă ajusta pelerina de ploaie.",
+                "en": "Use this stop to adjust your rain gear and dry off."
+              }
+            },
+            {
+              "name": "Ponte Borbonico",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf dem nassen Kopfsteinpflaster.",
+                "hu": "Vigyázzon a fékezéssel a vizes macskakövön.",
+                "ro": "Atenție la frânare pe pavajul umed de piatră.",
+                "en": "Be very careful when braking on wet cobblestones."
+              }
+            },
+            {
+              "name": "Lama Monachile",
+              "tip_5lang": {
+                "de": "Die Abfahrt zur Bucht kann bei Regen rutschig sein.",
+                "hu": "Az öbölbe vezető lejtő esőben csúszós lehet.",
+                "ro": "Coborârea spre golf poate fi alunecoasă pe ploaie.",
+                "en": "The descent towards the cove can be slick in the rain."
+              }
+            },
+            {
+              "name": "Monumento a Domenico Modugno",
+              "tip_5lang": {
+                "de": "Ein windiger Ort, halten Sie den Lenker gut fest.",
+                "hu": "Szeles pont, tartsa erősen a kormányt a széllökésekben.",
+                "ro": "Un loc vântos, țineți bine de ghidon în rafale.",
+                "en": "A windy spot; keep a firm grip on your handlebars."
+              }
+            },
+            {
+              "name": "Abbazia di San Vito",
+              "tip_5lang": {
+                "de": "Der Hafenbereich bietet wenig Schutz, Kleidung prüfen.",
+                "hu": "A kikötő környéke kevés védelmet nyújt, ellenőrizze ruházatát.",
+                "ro": "Zona portului oferă puțin adăpost, verificați echipamentul.",
+                "en": "The harbor area lacks shelter; check your waterproofs."
+              }
+            },
+            {
+              "name": "Scoglio dell'Eremita",
+              "tip_5lang": {
+                "de": "Ein rauer Anblick bei Regen, ideal für kurze Fotos.",
+                "hu": "Zord látvány esőben, ideális egy gyors fotóhoz.",
+                "ro": "O priveliște aspră pe ploaie, ideală pentru poze rapide.",
+                "en": "A rugged sight in the rain; perfect for quick photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie abrupte Manöver auf nassem Pflaster.",
+              "Vollständige Regenbekleidung inklusive Überschuhen empfohlen.",
+              "Die Küstenstraße kann bei starkem Wind anstrengend sein.",
+              "Achten Sie auf Pfützen, die tiefe Löcher verbergen könnten.",
+              "Bremsen Sie frühzeitig, da die Bremswirkung bei Nässe nachlässt."
+            ],
+            "hu": [
+              "Kerülje a hirtelen manővereket a nedves burkolaton.",
+              "Teljes esőruházat és kamásli használata javasolt.",
+              "A parti út erős szélben komoly fizikai kihívást jelenthet.",
+              "Ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek.",
+              "Fékezzen időben, mert vizes felnin lassabb a fékhatás."
+            ],
+            "ro": [
+              "Evitați manevrele bruște pe pavajul umed.",
+              "Se recomandă echipament complet de ploaie și protecții pantofi.",
+              "Drumul de coastă poate fi solicitant în condiții de vânt.",
+              "Atenție la bălțile care pot ascunde gropi adânci.",
+              "Frânați din timp, eficiența frânelor scade pe ud."
+            ],
+            "en": [
+              "Avoid sudden maneuvers on the wet stone surfaces.",
+              "Full waterproof gear and shoe covers are highly recommended.",
+              "The coastal road can be challenging during strong winds.",
+              "Watch out for puddles that might hide deep potholes.",
+              "Brake earlier as wet rims significantly reduce stopping power."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Klare Winterluft auf zwei Rädern. Wir starten an der Piazza und nutzen die leeren Wege. Mittags erreichen wir die Abtei San Vito, die im Winterlicht fast mystisch wirkt. Nachmittags radeln wir zurück zum Monumento für den Sonnenuntergang, bevor die Kälte des Abends einsetzt.",
+            "hu": "Tiszta téli levegő két keréken. A főtérről indulva élvezzük az üres utakat. Délben érjük el a San Vito apátságot, amely a téli fényekben szinte misztikus. Délután visszatekerünk a Domenico Modugno emlékműhöz a naplementére, mielőtt beáll az esti fagy.",
+            "ro": "Aer curat de iarnă pe două roți. Pornim din piață și profităm de drumurile libere. La prânz ajungem la abația San Vito, care pare mistică în lumina iernii. După-amiaza pedalăm înapoi la monument pentru apus, înainte de lăsarea frigului.",
+            "en": "Crisp winter air on two wheels. Starting at the square, we enjoy the empty roads. At noon, we reach the San Vito Abbey, looking almost mystical in the winter light. In the afternoon, pedal back to the monument for sunset before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Piazza Vittorio Emanuele II",
+              "tip_5lang": {
+                "de": "Starten Sie erst, wenn der Raureif abgetaut ist.",
+                "hu": "Csak azután induljon el, hogy a dér már felszáradt.",
+                "ro": "Porniți la drum doar după ce bruma s-a topit.",
+                "en": "Wait for any morning frost to melt before starting."
+              }
+            },
+            {
+              "name": "Chiesa Matrice",
+              "tip_5lang": {
+                "de": "Kurze Pause im Inneren, um die Hände aufzuwärmen.",
+                "hu": "Rövid szünet bent, hogy felmelegítse a kezeit.",
+                "ro": "O scurtă pauză în interior pentru a vă încălzi mâinile.",
+                "en": "Take a quick break inside to warm up your hands."
+              }
+            },
+            {
+              "name": "Ponte Borbonico",
+              "tip_5lang": {
+                "de": "Die Brücke ist im Winter oft zugig, Windjacke zu.",
+                "hu": "A híd télen gyakran huzatos, húzza fel a cipzárt.",
+                "ro": "Podul este adesea vântos iarna, închideți jacheta.",
+                "en": "The bridge is often drafty in winter; zip up your jacket."
+              }
+            },
+            {
+              "name": "Lama Monachile",
+              "tip_5lang": {
+                "de": "Sichern Sie das Rad oben, unten ist es kälter.",
+                "hu": "Lent az öbölben hidegebb van, láncolja le fent a gépet.",
+                "ro": "Jos în golf e mai frig, asigurați bicicleta sus.",
+                "en": "It's colder down in the cove; lock your bike up top."
+              }
+            },
+            {
+              "name": "Monumento a Domenico Modugno",
+              "tip_5lang": {
+                "de": "Der ideale Punkt, um die Wintersonne aufzusaugen.",
+                "hu": "Ideális pont a téli napsütés élvezetére.",
+                "ro": "Punctul ideal pentru a profita de soarele de iarnă.",
+                "en": "The ideal spot to soak up the last of the winter sun."
+              }
+            },
+            {
+              "name": "Abbazia di San Vito",
+              "tip_5lang": {
+                "de": "Wenig Verkehr auf dem Weg hierher, genießen Sie die Ruhe.",
+                "hu": "Kevés a forgalom idefelé, élvezze a csendes utat.",
+                "ro": "Trafic redus pe drumul spre abație, savurați liniștea.",
+                "en": "Very little traffic on the way here; enjoy the quiet road."
+              }
+            },
+            {
+              "name": "Scoglio dell'Eremita",
+              "tip_5lang": {
+                "de": "Gutes Ziel für die Durchblutung an kalten Tagen.",
+                "hu": "Jó célpont a vérkeringés pezsdítésére a hidegben.",
+                "ro": "O destinație bună pentru a pune sângele în mișcare.",
+                "en": "A good destination to keep your circulation going."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Handschuhe sind bei Fahrtwind unerlässlich.",
+              "Die Sonne verschwindet früh, Licht am Rad prüfen.",
+              "Schattige Gassen bleiben auch tagsüber sehr kühl.",
+              "Trinken Sie warmen Tee aus einer Thermoskanne.",
+              "Nutzen Sie die Radwege entlang der Küste, sie sind nun leer."
+            ],
+            "hu": [
+              "A menetszél miatt a hőszigetelt kesztyű elengedhetetlen.",
+              "A nap korán lemegy, ellenőrizze a világítást.",
+              "Az árnyékos szűk utcák napközben is nagyon hűvösek.",
+              "Vigyen magával meleg teát termoszban a pihenőkhöz.",
+              "Használja a parti kerékpárutakat, ilyenkor üresek."
+            ],
+            "ro": [
+              "Mănușile termice sunt esențiale din cauza curentului.",
+              "Soarele apune devreme, verificați luminile bicicletei.",
+              "Străzile înguste și umbroase rămân reci tot timpul zilei.",
+              "Luați un ceai cald într-un termos pentru pauze.",
+              "Folosiți pistele de biciclete de pe coastă, acum sunt libere."
+            ],
+            "en": [
+              "Thermal gloves are a must due to the cold wind chill.",
+              "Check your bike lights as it gets dark very early.",
+              "Shadowy narrow streets stay very cool even during the day.",
+              "Carry warm tea in a thermos for your rest stops.",
+              "Take advantage of the coastal bike paths; they are empty now."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -812,6 +1663,360 @@
           "Use the guarded parking lots on the outskirts.",
           "Avoid driving into the very center."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie bequem die nördliche Abtei von San Vito und die südlichen Küstenausläufer. Das historische Zentrum von Polignano ist jedoch autofrei, also planen Sie Zeit für den Fußweg vom Parkplatz ein.",
+            "hu": "Autóval kényelmesen elérheti a San Vito apátságot és a déli parti szakaszokat. Polignano történelmi központja azonban autómentes, így számoljon a parkolótól való gyalogúttal.",
+            "ro": "Cu mașina puteți ajunge ușor la Abația San Vito și la zonele de coastă din sud. Centrul istoric din Polignano este însă pietonal, așa că planificați timp pentru mersul pe jos de la parcare.",
+            "en": "By car, you can easily reach the northern Abbey of San Vito and the southern coastal stretches. However, Polignano's historical center is car-free, so plan time for the walk from the parking lot."
+          },
+          "stops": [
+            {
+              "name": "Abbazia di San Vito",
+              "tip_5lang": {
+                "de": "Großer Parkplatz in der Nähe der Abtei.",
+                "hu": "Nagy parkoló az apátság közelében.",
+                "ro": "Parcare mare în apropierea abației.",
+                "en": "Large parking lot near the abbey."
+              }
+            },
+            {
+              "name": "Monumento a Domenico Modugno",
+              "tip_5lang": {
+                "de": "Parken Sie am Stadtrand und gehen Sie zu Fuß weiter.",
+                "hu": "Parkoljon a város szélén, és menjen gyalog tovább.",
+                "ro": "Parcați la marginea orașului și continuați pe jos.",
+                "en": "Park on the outskirts and continue on foot."
+              }
+            },
+            {
+              "name": "Lama Monachile",
+              "tip_5lang": {
+                "de": "Die Aussicht von der Brücke ist ein Muss.",
+                "hu": "A hídról nyíló kilátás kihagyhatatlan.",
+                "ro": "Vederea de pe pod este obligatorie.",
+                "en": "The view from the bridge is a must."
+              }
+            },
+            {
+              "name": "Piazza Vittorio Emanuele II",
+              "tip_5lang": {
+                "de": "Ideal für ein schnelles Mittagessen.",
+                "hu": "Ideális egy gyors ebédhez.",
+                "ro": "Ideal pentru un prânz rapid.",
+                "en": "Ideal for a quick lunch."
+              }
+            },
+            {
+              "name": "Chiesa Matrice",
+              "tip_5lang": {
+                "de": "Die Kirche liegt mitten im Labyrinth der Altstadt.",
+                "hu": "A templom az óváros labirintusának közepén található.",
+                "ro": "Biserica se află în mijlocul labirintului din centrul vechi.",
+                "en": "The church is in the middle of the old town labyrinth."
+              }
+            },
+            {
+              "name": "Scoglio dell'Eremita",
+              "tip_5lang": {
+                "de": "Ein schöner Stop auf dem Weg Richtung Monopoli.",
+                "hu": "Szép megálló Monopoli irányába.",
+                "ro": "O oprire frumoasă în drum spre Monopoli.",
+                "en": "A nice stop on the way towards Monopoli."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Frischer Fisch",
+                "tip": "In den Restaurants direkt am Hafen von San Vito."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Friss hal",
+                "tip": "A San Vito kikötőjében található éttermekben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pește proaspăt",
+                "tip": "La restaurantele direct din portul San Vito."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fresh Fish",
+                "tip": "At the restaurants directly in the harbor of San Vito."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Porto Contessa",
+                "tip": "Kleiner Sandstrand in der Nähe von San Vito.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Porto Contessa",
+                "tip": "Kis homokos strand San Vito közelében.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Porto Contessa",
+                "tip": "O mică plajă cu nisip lângă San Vito.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Porto Contessa",
+                "tip": "Small sandy beach near San Vito.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Feinkost",
+                "tip": "Kaufen Sie lokales Olivenöl direkt beim Erzeuger in der Nähe."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Csemege",
+                "tip": "Vásároljon helyi olívaolajat közvetlenül a közeli termelőktől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Delicatese",
+                "tip": "Cumpărați ulei de măsline local direct de la producătorii din apropiere."
+              }
+            ],
+            "en": [
+              {
+                "name": "Delicatessen",
+                "tip": "Buy local olive oil directly from nearby producers."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die bewachten Parkplätze am Stadtrand.",
+              "Vermeiden Sie die Fahrt ins absolute Zentrum."
+            ],
+            "hu": [
+              "Használja az őrzött parkolókat a város szélén.",
+              "Kerülje az autóval való behajtást a közvetlen központba."
+            ],
+            "ro": [
+              "Folosiți parcările păzite de la marginea orașului.",
+              "Evitați să conduceți în centrul propriu-zis."
+            ],
+            "en": [
+              "Use the guarded parking lots on the outskirts.",
+              "Avoid driving into the very center."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Tag im Auto, geschützt vor dem Regen. Wir starten an der Abbazia di San Vito und fahren zum Monumento. Mittags parken wir nahe der Piazza für einen Besuch im Zentrum. Den Nachmittag verbringen wir in der Chiesa Matrice, bevor wir zum stürmischen Scoglio dell'Eremita fahren.",
+            "hu": "Pihentető autós nap az esőtől védetten. A San Vito apátságtól indulunk a Domenico Modugno emlékműhöz. Délben a főtér közelében parkolunk a belvárosi sétához. Délután a Chiesa Matrice hűvösében időzünk, majd a viharos Scoglio dell'Eremitához hajtunk.",
+            "ro": "O zi relaxantă cu mașina, protejați de ploaie. Pornim de la Abbazia di San Vito spre monument. La prânz parcăm lângă piață pentru o plimbare în centru. După-amiaza vizităm Chiesa Matrice, apoi mergem spre Scoglio dell'Eremita.",
+            "en": "A relaxed day by car, protected from the rain. Start at Abbazia di San Vito and head to the monument. At noon, park near the square for a city walk. Spend the afternoon in Chiesa Matrice before driving to the stormy Scoglio dell'Eremita."
+          },
+          "stops": [
+            {
+              "name": "Abbazia di San Vito",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Wasser für den Blick aus dem Fenster.",
+                "hu": "Parkoljon közvetlenül a víznél a kilátásért az ablakból.",
+                "ro": "Parcați chiar lângă apă pentru vederea din mașină.",
+                "en": "Park right by the water for a great view from the car window."
+              }
+            },
+            {
+              "name": "Monumento a Domenico Modugno",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz zum Denkmal im Regen.",
+                "hu": "Gyors sprint a parkolótól az emlékműig az esőben.",
+                "ro": "Un sprint scurt de la parcare la monument prin ploaie.",
+                "en": "A quick sprint from the parking spot to the monument."
+              }
+            },
+            {
+              "name": "Lama Monachile",
+              "tip_5lang": {
+                "de": "Vom Auto aus ist die Aussicht auf die Bucht grandios.",
+                "hu": "Az autóból is nagyszerű kilátás nyílik az öbölre.",
+                "ro": "Vederea asupra golfului este grandioasă chiar și din mașină.",
+                "en": "The view of the cove is magnificent even from your car."
+              }
+            },
+            {
+              "name": "Piazza Vittorio Emanuele II",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser, um trocken ins Zentrum zu kommen.",
+                "hu": "Használja a parkolóházakat, hogy szárazon jusson a központba.",
+                "ro": "Folosiți parcările acoperite pentru a ajunge uscat în centru.",
+                "en": "Use covered parking to reach the center while staying dry."
+              }
+            },
+            {
+              "name": "Chiesa Matrice",
+              "tip_5lang": {
+                "de": "Ein guter Stopp, um dem heftigen Regen zu entfliehen.",
+                "hu": "Jó megálló, hogy elmeneküljön a heves eső elől.",
+                "ro": "O oprire bună pentru a scăpa de ploaia torențială.",
+                "en": "A good stop to escape heavy rain and see the architecture."
+              }
+            },
+            {
+              "name": "Scoglio dell'Eremita",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Wind lieber im Fahrzeug.",
+                "hu": "Erős szélben érdemesebb a járműben maradni.",
+                "ro": "În caz de vânt puternic, e mai bine să rămâneți în mașină.",
+                "en": "It is safer to stay in the car during very strong winds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sicht an der Küste kann bei Regen eingeschränkt sein.",
+              "Vermeiden Sie Parkplätze direkt an unbefestigten Klippen.",
+              "Halten Sie die Fenster leicht offen gegen das Beschlagen.",
+              "Parkhäuser in der Altstadt sind bei Regen Gold wert.",
+              "Prüfen Sie den Zustand der Scheibenwischer vor der Fahrt."
+            ],
+            "hu": [
+              "A látási viszonyok a parton esőben korlátozottak lehetnek.",
+              "Kerülje a parkolást a közvetlen, kiépítetlen sziklaszéleken.",
+              "Tartsa résnyire nyitva az ablakot a párásodás ellen.",
+              "Az óvárosi parkolóházak aranyat érnek szakadó esőben.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát."
+            ],
+            "ro": [
+              "Vizibilitatea pe coastă poate fi redusă în timpul ploii.",
+              "Evitați parcarea direct pe marginile neamenajate ale falezei.",
+              "Lăsați geamurile ușor deschise pentru a preveni aburirea.",
+              "Parcările acoperite din centru sunt ideale pe ploaie.",
+              "Verificați starea ștergătoarelor înainte de a porni la drum."
+            ],
+            "en": [
+              "Coastal visibility can be limited during heavy rain.",
+              "Avoid parking too close to unpaved cliff edges.",
+              "Keep windows slightly cracked to prevent fogging up.",
+              "Covered parking garages near the old town are worth the cost.",
+              "Ensure your windshield wipers are in good condition."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Küstenfahrt mit herrlicher Weitsicht. Von San Vito geht es zum Modugno-Denkmal. Mittags erkunden wir das ruhige Zentrum rund um die Piazza. Den Nachmittag nutzen wir für die Chiesa Matrice, bevor wir zum Scoglio dell'Eremita fahren, um den Sonnenuntergang im Warmen zu genießen.",
+            "hu": "Téli parti autózás pazar kilátással. San Vitótól indulunk a Modugno-emlékműhöz. Délben a Piazza körüli csendes központot fedezzük fel. Délután a Chiesa Matricét látogatjuk meg, majd a Scoglio dell'Eremitához hajtunk a naplementéért.",
+            "ro": "Drum de iarnă pe coastă cu vizibilitate excelentă. De la San Vito mergem la monumentul Modugno. La prânz explorăm centrul liniștit. După-amiaza vizităm Chiesa Matrice, apoi mergem la Scoglio dell'Eremita pentru apus.",
+            "en": "A winter coastal drive with excellent visibility. From San Vito, head to the Modugno monument. Explore the quiet center around the square at noon. Visit Chiesa Matrice in the afternoon, then drive to Scoglio dell'Eremita for sunset."
+          },
+          "stops": [
+            {
+              "name": "Abbazia di San Vito",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick bei eingeschalteter Heizung.",
+                "hu": "Élvezze a kilátást a bekapcsolt fűtés mellett.",
+                "ro": "Bucurați-vă de priveliște cu căldura pornită în mașină.",
+                "en": "Enjoy the view from the comfort of your heated car."
+              }
+            },
+            {
+              "name": "Monumento a Domenico Modugno",
+              "tip_5lang": {
+                "de": "Im Winter finden Sie hier leichter einen Parkplatz.",
+                "hu": "Télen sokkal könnyebben talál itt parkolóhelyet.",
+                "ro": "Iarna veți găsi mult mai ușor un loc de parcare aici.",
+                "en": "Parking is much easier to find here during the winter months."
+              }
+            },
+            {
+              "name": "Lama Monachile",
+              "tip_5lang": {
+                "de": "Der Blick von der Brücke ist im klaren Winterlicht am besten.",
+                "hu": "A hídról nyíló kilátás télen a legtisztább.",
+                "ro": "Vederea de pe pod este cea mai clară în lumina iernii.",
+                "en": "The view from the bridge is best in the clear winter light."
+              }
+            },
+            {
+              "name": "Piazza Vittorio Emanuele II",
+              "tip_5lang": {
+                "de": "Weniger Verkehr in den ZTL-Zonen (auf Schilder achten).",
+                "hu": "Kisebb a forgalom a ZTL zónákban (ügyeljen a táblákra).",
+                "ro": "Trafic redus în zonele ZTL (atenție la indicatoare).",
+                "en": "Less traffic in ZTL zones; check local signs carefully."
+              }
+            },
+            {
+              "name": "Chiesa Matrice",
+              "tip_5lang": {
+                "de": "Ein ruhiger Besuch ohne die Sommerhitze im Gebäude.",
+                "hu": "Csendes látogatás a nyári hőség nélkül az épületben.",
+                "ro": "O vizită liniștită fără căldura verii în interior.",
+                "en": "Enjoy a peaceful visit without the summer heat inside."
+              }
+            },
+            {
+              "name": "Scoglio dell'Eremita",
+              "tip_5lang": {
+                "de": "Perfekter Ort für das 'Drive-in'-Sonnenuntergangserlebnis.",
+                "hu": "Tökéletes hely egy autós naplemente-élményhez.",
+                "ro": "Locul perfect pentru un apus văzut direct din mașină.",
+                "en": "The perfect spot for a 'drive-in' sunset experience."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkplätze sind im Winter oft kostenlos oder günstiger.",
+              "Die Küstenstraßen sind deutlich leerer als im Sommer.",
+              "Achten Sie auf mögliche Straßensperrungen wegen Sturm.",
+              "Die klare Winterluft sorgt für weite Sicht bis zum Horizont.",
+              "Ein heißer Espresso im Stehen ist die beste Fahrpause."
+            ],
+            "hu": [
+              "A parkolóhelyek télen gyakran ingyenesek vagy olcsóbbak.",
+              "A parti utak sokkal üresebbek, mint nyáron.",
+              "Figyelje az esetleges vihar miatti útlezárásokat.",
+              "A tiszta téli levegő miatt a látótávolság óriási.",
+              "Egy forró espresso a legjobb pihenő vezetés közben."
+            ],
+            "ro": [
+              "Locurile de parcare sunt adesea gratuite sau mai ieftine.",
+              "Drumurile de coastă sunt mult mai libere decât vara.",
+              "Fiți atenți la posibile închideri de drumuri din cauza furtunilor.",
+              "Aerul curat de iarnă oferă o vizibilitate excelentă.",
+              "Un espresso fierbinte este cea mai bună pauză de condus."
+            ],
+            "en": [
+              "Parking spots are often free or cheaper during winter.",
+              "Coastal roads are significantly less crowded than in summer.",
+              "Keep an eye out for potential road closures due to storms.",
+              "Crisp winter air provides amazing visibility to the horizon.",
+              "A quick hot espresso is the best driving break."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1018,6 +2223,333 @@
           "Check the Trenitalia train schedules in advance.",
           "Buy tickets online to avoid queues."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Polignano ist hervorragend per Zug vernetzt. Vom Bahnhof erreichen Sie alle wichtigen Sehenswürdigkeiten bequem zu Fuß. Für weiter entfernte Ziele wie San Vito gibt es im Sommer praktische Shuttlebusse.",
+            "hu": "Polignano kiváló vasúti összeköttetéssel rendelkezik. Az állomástól minden fontos látnivaló kényelmesen elérhető gyalog. A távolabbi célpontokhoz, mint San Vito, nyáron praktikus transzferbuszok közlekednek.",
+            "ro": "Polignano este excelent conectat prin rețeaua feroviară. De la gară, toate atracțiile importante sunt ușor accesibile pe jos. Pentru destinații mai îndepărtate, cum ar fi San Vito, există autobuze tip shuttle pe timp de vară.",
+            "en": "Polignano is excellently connected by train. From the station, all major sights are easily accessible on foot. For further destinations like San Vito, there are practical shuttle buses in summer."
+          },
+          "stops": [
+            {
+              "name": "Bahnhof Polignano a Mare",
+              "tip_5lang": {
+                "de": "Der perfekte Ankunftspunkt mit dem Zug aus Bari.",
+                "hu": "Tökéletes érkezési pont a Bariból induló vonattal.",
+                "ro": "Punctul perfect de sosire cu trenul din Bari.",
+                "en": "The perfect arrival point by train from Bari."
+              }
+            },
+            {
+              "name": "Piazza Vittorio Emanuele II",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang vom Bahnhof ins Zentrum.",
+                "hu": "Rövid séta a vasútállomástól a központig.",
+                "ro": "O scurtă plimbare de la gară spre centru.",
+                "en": "A short walk from the station to the center."
+              }
+            },
+            {
+              "name": "Lama Monachile",
+              "tip_5lang": {
+                "de": "Direkt unter der großen Brücke erreichbar.",
+                "hu": "Közvetlenül a nagy híd alatt érhető el.",
+                "ro": "Accesibil direct de sub podul mare.",
+                "en": "Accessible directly under the big bridge."
+              }
+            },
+            {
+              "name": "Monumento a Domenico Modugno",
+              "tip_5lang": {
+                "de": "Genießen Sie das Panorama vor der Rückfahrt.",
+                "hu": "Élvezze a panorámát a visszaindulás előtt.",
+                "ro": "Bucurați-vă de panoramă înainte de plecare.",
+                "en": "Enjoy the panorama before heading back."
+              }
+            },
+            {
+              "name": "Abbazia di San Vito (Bus)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den lokalen Shuttlebus 'Polignano Easy'.",
+                "hu": "Használja a helyi 'Polignano Easy' buszjáratot.",
+                "ro": "Folosiți autobuzul local 'Polignano Easy'.",
+                "en": "Use the local 'Polignano Easy' shuttle bus."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Gelato",
+                "tip": "Ein Eisbecher am Bahnhof vor der Abfahrt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fagylalt",
+                "tip": "Egy pohár fagylalt az állomásnál indulás előtt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Gelato",
+                "tip": "O cupă de înghețată la gară înainte de plecare."
+              }
+            ],
+            "en": [
+              {
+                "name": "Gelato",
+                "tip": "An ice cream at the station before departure."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Piazza Aldo Moro",
+                "tip": "Ein ruhigerer Platz in Bahnhofsnähe.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Piazza Aldo Moro",
+                "tip": "Egy csendesebb tér az állomás közelében.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piazza Aldo Moro",
+                "tip": "O piață mai liniștită aproape de gară.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Piazza Aldo Moro",
+                "tip": "A quieter square near the station.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Postkarten",
+                "tip": "In den Kiosken rund um den Bahnhof."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Képeslapok",
+                "tip": "A vasútállomás körüli újságárusoknál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cărți poștale",
+                "tip": "La chioșcurile din jurul gării."
+              }
+            ],
+            "en": [
+              {
+                "name": "Postcards",
+                "tip": "At the kiosks around the station."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie die Zugfahrpläne von Trenitalia vorab.",
+              "Kaufen Sie Tickets online, um Schlangen zu vermeiden."
+            ],
+            "hu": [
+              "Ellenőrizze előre a Trenitalia menetrendjét.",
+              "Vásárolja meg a jegyeket online a sorban állás elkerülése végett."
+            ],
+            "ro": [
+              "Verificați mersul trenurilor Trenitalia în avans.",
+              "Cumpărați biletele online pentru a evita cozile."
+            ],
+            "en": [
+              "Check the Trenitalia train schedules in advance.",
+              "Buy tickets online to avoid queues."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Zug und Bus durch den Regen. Wir starten am Bahnhof und fahren zur Piazza. Mittags bietet die Lama Monachile von der Brücke aus einen wilden Anblick. Den Nachmittag verbringen wir am Denkmal und fahren dann mit dem Bus zur Abbazia di San Vito, um die Wellen zu beobachten.",
+            "hu": "Vonattal és busszal az esőben. A vasútállomásról indulunk a főtérre. Délben a Lama Monachile a hídról nézve vad látványt nyújt. Délután az emlékműnél időzünk, majd busszal megyünk a San Vito apátsághoz, hogy a hullámokat figyeljük.",
+            "ro": "Cu trenul și autobuzul prin ploaie. Pornim de la gară spre piață. La prânz, Lama Monachile oferă o priveliște sălbatică de pe pod. După-amiaza stăm la monument, apoi luăm autobuzul spre San Vito.",
+            "en": "Traveling by train and bus through the rain. Start at the station and head to the square. At noon, Lama Monachile offers a wild view from the bridge. Spend the afternoon at the monument, then take the bus to San Vito."
+          },
+          "stops": [
+            {
+              "name": "Bahnhof Polignano a Mare",
+              "tip_5lang": {
+                "de": "Der Warteraum ist ein guter Ort, um den Regen abzuwarten.",
+                "hu": "A váróterem jó hely az eső elkerülésére.",
+                "ro": "Sala de așteptare este un loc bun pentru a scăpa de ploaie.",
+                "en": "The waiting room is a good place to dodge the rain."
+              }
+            },
+            {
+              "name": "Piazza Vittorio Emanuele II",
+              "tip_5lang": {
+                "de": "Bushaltestellen bieten oft nur wenig Schutz, Schirm bereit.",
+                "hu": "A buszmegállók kevés védelmet adnak, legyen kéznél az ernyő.",
+                "ro": "Stațiile de autobuz au puțin adăpost, țineți umbrela gata.",
+                "en": "Bus stops offer little cover; keep your umbrella handy."
+              }
+            },
+            {
+              "name": "Lama Monachile",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg vom Bus, achten Sie auf Pfützen.",
+                "hu": "Rövid séta a busztól, ügyeljen a tócsákra.",
+                "ro": "O scurtă plimbare de la autobuz, atenție la bălți.",
+                "en": "Short walk from the bus stop; watch out for puddles."
+              }
+            },
+            {
+              "name": "Monumento a Domenico Modugno",
+              "tip_5lang": {
+                "de": "Der nächste Bus hält etwa 5 Minuten entfernt.",
+                "hu": "A legközelebbi buszmegálló kb. 5 perc sétára van.",
+                "ro": "Cea mai apropiată stație este la aproximativ 5 minute.",
+                "en": "The nearest bus stop is about a 5-minute walk away."
+              }
+            },
+            {
+              "name": "Abbazia di San Vito (Bus)",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Rückfahrplan bei schlechtem Wetter.",
+                "hu": "Rossz időben ellenőrizze kétszer is a visszautat.",
+                "ro": "Verificați programul de întoarcere pe timp de ploaie.",
+                "en": "Double-check the return schedule during bad weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge sind bei Regen oft pünktlicher als Busse.",
+              "Laden Sie die Verkehrs-App für Echtzeit-Updates.",
+              "Halten Sie Kleingeld für das Ticket im Bus bereit.",
+              "Tragen Sie wasserfeste Schuhe für die Wege zu den Haltestellen.",
+              "Ein Platz am Fenster im Zug bietet tolle Küstenpanoramen."
+            ],
+            "hu": [
+              "A vonatok esőben gyakran pontosabbak, mint a buszok.",
+              "Töltse le a közlekedési alkalmazást az élő frissítésekért.",
+              "Legyen kéznél aprópénz a buszjegyehez.",
+              "Viseljen vízálló cipőt a megállókig tartó sétákhoz.",
+              "A vonaton az ablak melletti hely szép parti panorámát ad."
+            ],
+            "ro": [
+              "Trenurile sunt adesea mai punctuale decât autobuzele pe ploaie.",
+              "Descărcați aplicația de transport pentru actualizări live.",
+              "Aveți mărunt pregătit pentru biletul de autobuz.",
+              "Purtați încălțăminte impermeabilă pentru drumul spre stație.",
+              "Un loc la geam în tren oferă panorame frumoase ale coastei."
+            ],
+            "en": [
+              "Trains are often more reliable than buses during rain.",
+              "Download the local transit app for real-time updates.",
+              "Keep small change ready for buying tickets on the bus.",
+              "Wear waterproof shoes for the walks between stops.",
+              "A window seat on the train offers great coastal views."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Gemütlicher Wintertag mit öffentlichen Verkehrsmitteln. Wir starten am Bahnhof und gehen zur Piazza. Mittags genießen wir die klare Sicht von der Brücke über der Lama Monachile. Nachmittags besuchen wir das Denkmal und fahren mit dem Bus zur friedlichen Abbazia di San Vito.",
+            "hu": "Hangulatos téli nap tömegközlekedéssel. A vasútállomásról indulunk a főtérre. Délben élvezzük a tiszta kilátást a Lama Monachile feletti hídról. Délután az emlékművet látogatjuk meg, majd busszal megyünk a békés San Vito apátsághoz.",
+            "ro": "O zi plăcută de iarnă cu transportul public. Pornim de la gară spre piață. La prânz admirăm vederea clară de pe pod. După-amiaza vizităm monumentul, apoi luăm autobuzul spre liniștita abație San Vito.",
+            "en": "A cozy winter day using public transit. Start at the station and walk to the square. Enjoy the clear views from the bridge over Lama Monachile at noon. Visit the monument in the afternoon before taking the bus to San Vito."
+          },
+          "stops": [
+            {
+              "name": "Bahnhof Polignano a Mare",
+              "tip_5lang": {
+                "de": "Züge fahren im Winter seltener, Fahrplan prüfen.",
+                "hu": "Télen ritkábbak a vonatok, ellenőrizze a menetrendet.",
+                "ro": "Trenurile circulă mai rar iarna, verificați orarul.",
+                "en": "Trains may run less frequently in winter; check the schedule."
+              }
+            },
+            {
+              "name": "Piazza Vittorio Emanuele II",
+              "tip_5lang": {
+                "de": "Die Haltestellen liegen im Schatten, ziehen Sie sich warm an.",
+                "hu": "A megállók árnyékban vannak, öltözzön fel jól.",
+                "ro": "Stațiile sunt la umbră, îmbrăcați-vă gros.",
+                "en": "Bus stops are often in the shade; dress warmly while waiting."
+              }
+            },
+            {
+              "name": "Lama Monachile",
+              "tip_5lang": {
+                "de": "Wenig Betrieb an der Haltestelle, ideal für Fotos.",
+                "hu": "Alig van forgalom a megállóban, ideális fotózáshoz.",
+                "ro": "Puțină lume în stație, ideal pentru a face poze.",
+                "en": "Very quiet at the stop, perfect for taking photos."
+              }
+            },
+            {
+              "name": "Monumento a Domenico Modugno",
+              "tip_5lang": {
+                "de": "Der Bus zurück ins Zentrum fährt pünktlich.",
+                "hu": "A központba visszatérő busz pontosan indul.",
+                "ro": "Autobuzul spre centru pleacă la fix.",
+                "en": "The bus back to the center usually runs on time."
+              }
+            },
+            {
+              "name": "Abbazia di San Vito (Bus)",
+              "tip_5lang": {
+                "de": "Die letzte Rückfahrt ist im Winter oft früher.",
+                "hu": "Télen az utolsó járat gyakran korábban indul vissza.",
+                "ro": "Iarna, ultimul autobuz pleacă adesea mai devreme.",
+                "en": "The last return bus often departs earlier in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne gelten ab Oktober, bitte prüfen.",
+              "In den Zügen ist es angenehm geheizt.",
+              "Bahnhöfe sind im Winter deutlich weniger überlaufen.",
+              "Kaufen Sie Tickets vorab am Automaten oder per App.",
+              "Nutzen Sie die Wartezeit für einen schnellen Kaffee am Kiosk."
+            ],
+            "hu": [
+              "A téli menetrend októberben lép életbe, ellenőrizze.",
+              "A vonatokon kellemes fűtés várja az utazókat.",
+              "A vasútállomások télen sokkal kevésbé zsúfoltak.",
+              "Vegye meg a jegyeket előre automatából vagy alkalmazásból.",
+              "Használja ki a várakozást egy gyors kávéra a büfében."
+            ],
+            "ro": [
+              "Programul de iarnă intră în vigoare din octombrie.",
+              "Trenurile sunt încălzite corespunzător iarna.",
+              "Gările sunt mult mai puțin aglomerate în acest sezon.",
+              "Cumpărați biletele în avans de la automate sau prin aplicație.",
+              "Folosiți timpul de așteptare pentru o cafea rapidă la chioșc."
+            ],
+            "en": [
+              "Winter schedules start in October; verify your times.",
+              "Trains are comfortably heated during the winter months.",
+              "Stations are much less crowded than in the peak season.",
+              "Buy your tickets in advance via app or at the station machines.",
+              "Use waiting time for a quick hot coffee at a station kiosk."
+            ]
+          }
+        }
       }
     }
   },

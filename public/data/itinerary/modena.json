@@ -340,6 +340,470 @@
           "Use the arcades for shade during the summer.",
           "Try Lambrusco – the region's typical red wine."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Modena besticht durch seine kompakte Altstadt. Beginnen Sie auf der Piazza Grande, dem UNESCO-geschützten Kern. Bestaunen Sie den romanischen Dom und besteigen Sie die Ghirlandina. Mittags tauchen Sie in die Aromen des Mercato Albinelli ein. Nach dem Besuch des prächtigen Palazzo Ducale genießen Sie die Ruhe im Estense-Garten, bevor Sie den Tag in einer traditionellen Osteria beenden.",
+            "hu": "Modena lenyűgözi látogatóit kompakt óvárosával. Kezdjen a Piazza Grande-n, az UNESCO védelme alatt álló magban. Csodálja meg a román stílusú Dómot, és másszon fel a Ghirlandina-toronyba. Délben merüljön el az Albinelli piac illataiban. A pompás hercegi palota megtekintése után élvezze a nyugalmat az Estense-kertben, majd zárja a napot egy tradicionális ostériában.",
+            "ro": "Modena impresionează prin centrul său istoric compact. Începeți în Piazza Grande, nucleul protejat de UNESCO. Admirați Domul romanic și urcați în Turnul Ghirlandina. La prânz, lăsați-vă purtați de aromele Pieței Albinelli. După vizitarea magnificului Palat Ducal, bucurați-vă de liniște în Grădina Estense, înainte de a încheia ziua într-o osteria tradițională.",
+            "en": "Modena charms with its compact old town. Start in Piazza Grande, the UNESCO-protected core. Marvel at the Romanesque Cathedral and climb the Ghirlandina tower. At midday, immerse yourself in the aromas of the Albinelli Market. After visiting the grand Ducal Palace, enjoy the peace of the Estense Garden before ending the day in a traditional osteria."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza Grande",
+                "hu": "Piazza Grande",
+                "ro": "Piazza Grande",
+                "en": "Piazza Grande"
+              },
+              "tip_5lang": {
+                "de": "UNESCO-Weltkulturerbe im Herzen der Stadt.",
+                "hu": "UNESCO Világörökségi helyszín a város szívében.",
+                "ro": "Sit din patrimoniul mondial UNESCO în inima orașului.",
+                "en": "UNESCO World Heritage site in the heart of the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di Santa Maria Assunta (Duomo)",
+                "hu": "Modenai dóm",
+                "ro": "Catedrala din Modena",
+                "en": "Modena Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Ein Meisterwerk der Romanik.",
+                "hu": "A román stílusú építészet mesterműve.",
+                "ro": "O capodoperă a stilului romanic.",
+                "en": "A masterpiece of Romanesque architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Ghirlandina",
+                "hu": "Ghirlandina-torony",
+                "ro": "Turnul Ghirlandina",
+                "en": "Ghirlandina Tower"
+              },
+              "tip_5lang": {
+                "de": "Wahrzeichen mit fantastischer Aussicht.",
+                "hu": "A város jelképe fantasztikus kilátással.",
+                "ro": "Simbolul orașului cu o vedere fantastică.",
+                "en": "The symbol of the city with a fantastic view."
+              }
+            },
+            {
+              "name": {
+                "de": "Mercato Albinelli",
+                "hu": "Albinelli piac",
+                "ro": "Piața Albinelli",
+                "en": "Albinelli Market"
+              },
+              "tip_5lang": {
+                "de": "Halle im Jugendstil für Feinschmecker.",
+                "hu": "Szecessziós csarnok az ínyenceknek.",
+                "ro": "Hală în stil Art Nouveau pentru gurmanzi.",
+                "en": "Art Nouveau hall for foodies."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Ducale di Modena",
+                "hu": "Modenai hercegi palota",
+                "ro": "Palatul Ducal din Modena",
+                "en": "Ducal Palace of Modena"
+              },
+              "tip_5lang": {
+                "de": "Sitz der Militärakademie.",
+                "hu": "A Katonai Akadémia székhelye.",
+                "ro": "Sediul Academiei Militare.",
+                "en": "Home of the Military Academy."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Giardino Ducale Estense",
+                "hu": "Hercegi kert",
+                "ro": "Parcul Ducal Estense",
+                "en": "Ducal Estense Garden"
+              },
+              "tip_5lang": {
+                "de": "Elegante Parkanlage im englischen Stil.",
+                "hu": "Elegáns angolkert stílusú park.",
+                "ro": "Parc elegant în stil englezesc.",
+                "en": "Elegant English-style park."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Aceto Balsamico Tradizionale",
+                "tip": "Das schwarze Gold von Modena."
+              },
+              {
+                "name": "Tortellini in Brodo",
+                "tip": "Die Wiege der Tortellini."
+              },
+              {
+                "name": "Gnocco Fritto e Tigelle",
+                "tip": "Typische Begleiter zu Wurst und Käse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Aceto Balsamico Tradizionale",
+                "tip": "Modena fekete aranya."
+              },
+              {
+                "name": "Tortellini in Brodo",
+                "tip": "A tortellini bölcsője."
+              },
+              {
+                "name": "Gnocco Fritto és Tigelle",
+                "tip": "Tipikus kísérők felvágottakhoz és sajtokhoz."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Aceto Balsamico Tradizionale",
+                "tip": "Aurul negru din Modena."
+              },
+              {
+                "name": "Tortellini in Brodo",
+                "tip": "Leagănul tortellini-ului."
+              },
+              {
+                "name": "Gnocco Fritto și Tigelle",
+                "tip": "Acompaniamente tipice pentru mezeluri și brânzeturi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Aceto Balsamico Tradizionale",
+                "tip": "The black gold of Modena."
+              },
+              {
+                "name": "Tortellini in Brodo",
+                "tip": "The cradle of tortellini."
+              },
+              {
+                "name": "Gnocco Fritto and Tigelle",
+                "tip": "Typical accompaniments for cold cuts and cheeses."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Palazzina Vigarani",
+                "tip": "Ruhiger Blick im herzoglichen Garten.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Abbazia di San Pietro",
+                "tip": "Stille Kontemplation in der Kirche.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Palazzina Vigarani",
+                "tip": "Csendes kilátás a hercegi kertben.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Szt. Péter apátság",
+                "tip": "Csendes elmélyülés a templomban.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Palazzina Vigarani",
+                "tip": "Vedere liniștită în grădina ducală.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Abbazia di San Pietro",
+                "tip": "Contemplare liniștită în biserică.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Palazzina Vigarani",
+                "tip": "Quiet view in the ducal garden.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Abbazia di San Pietro",
+                "tip": "Silent contemplation in the church.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Via Emilia Centro",
+                "tip": "Elegante Geschäfte unter Arkaden."
+              },
+              {
+                "name": "Balsamico-Essigläden",
+                "tip": "Verkostung und Kauf von lokalem Balsamico."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Via Emilia Centro",
+                "tip": "Elegáns üzletek az árkádok alatt."
+              },
+              {
+                "name": "Balsamecet szaküzletek",
+                "tip": "Kóstolás és vásárlás helyi termelőktől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Via Emilia Centro",
+                "tip": "Magazine elegante sub arcade."
+              },
+              {
+                "name": "Magazine de oțet balsamic",
+                "tip": "Degustare și cumpărare de balsamico local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Via Emilia Centro",
+                "tip": "Elegant shops under the arcades."
+              },
+              {
+                "name": "Balsamic vinegar shops",
+                "tip": "Tasting and buying local balsamic vinegar."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Altstadt ist klein und lässt sich wunderbar zu Fuß erkunden.",
+              "Der Mercato Albinelli schließt meist gegen 14 Uhr.",
+              "Kleiden Sie sich angemessen für den Besuch des Doms.",
+              "Nutzen Sie die Arkaden als Sonnenschutz im Sommer.",
+              "Probieren Sie Lambrusco – den typischen Rotwein der Region."
+            ],
+            "hu": [
+              "Az óváros kicsi, kiválóan bejárható gyalog.",
+              "Az Albinelli piac általában délután 2 óra körül bezár.",
+              "A Dóm látogatásához öltözzön illendően.",
+              "Használja az árkádokat árnyékként a nyári melegben.",
+              "Kóstolja meg a Lambruscót, a régió tipikus vörösborát."
+            ],
+            "ro": [
+              "Centrul istoric este mic și se poate explora minunat la pas.",
+              "Piața Albinelli se închide de obicei în jurul orei 14:00.",
+              "Îmbrăcați-vă adecvat pentru vizitarea Domului.",
+              "Folosiți arcadele ca protecție solară în timpul verii.",
+              "Gustați Lambrusco – vinul roșu tipic al regiunii."
+            ],
+            "en": [
+              "The old town is small and can be explored wonderfully on foot.",
+              "Albinelli Market usually closes around 2 PM.",
+              "Dress appropriately for visiting the Cathedral.",
+              "Use the arcades for shade during the summer.",
+              "Try Lambrusco – the region's typical red wine."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie unter den schützenden Bogengängen am Piazza Grande. Mittags bietet der Albinelli-Markt ein trockenes Paradies für Feinschmecker. Nachmittags bewundern Sie den Dom und den Herzogspalast, wobei Sie die Portici geschickt als Regenschutz nutzen. Den Abend lassen Sie gemütlich in einer Weinstube ausklingen, während der Regen auf das Kopfsteinpflaster prasselt.",
+            "hu": "Kezdje a napot a Piazza Grande védett árkádjai alatt. Délben az Albinelli piac kínál száraz menedéket és gasztronómiai élményeket. Délután a dóm és a hercegi palota belső tereit fedezze fel, az utcák mentén végigfutó portikuszokat esernyő helyett használva. Az estét töltse egy hangulatos borozóban, hallgatva az eső kopogását a macskaköveken.",
+            "ro": "Începeți ziua sub arcadele protectoare din Piazza Grande. La prânz, piața Albinelli oferă un refugiu uscat și delicii culinare. După-amiaza, vizitați Domul și Palatul Ducal, folosind porticurile orașului pentru a rămâne uscat. Încheiați seara într-o tavernă primitoare, în timp ce ploaia spală străzile vechiului centru.",
+            "en": "Start your day under the protective porticos of Piazza Grande. At noon, Albinelli Market provides a dry haven for foodies. Spend the afternoon exploring the Cathedral and Ducal Palace, utilizing the city's extensive arcades to stay dry. End the evening in a cozy wine bar while the rain patters against the ancient cobblestones."
+          },
+          "stops": [
+            {
+              "name": "Piazza Grande",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bogengänge der Stadtverwaltung, um trocken zu bleiben.",
+                "hu": "Használja a városháza alatti árkádokat a száraz közlekedéshez.",
+                "ro": "Folosiți arcadele primăriei pentru a vă adăposti de ploaie.",
+                "en": "Use the town hall's porticos to navigate the square without an umbrella."
+              }
+            },
+            {
+              "name": "Modena Cathedral",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Regenpause für spirituelle Kunst zu nutzen.",
+                "hu": "Tökéletes helyszín a belső művészet megcsodálására eső közben.",
+                "ro": "Locul ideal pentru a admira arta sacră în timp ce afară plouă.",
+                "en": "A perfect spot to admire sacred art while waiting for the rain to ease."
+              }
+            },
+            {
+              "name": "Ghirlandina Tower",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Stufen, bei Nässe können diese rutschig sein.",
+                "hu": "Vigyázzon a lépcsőkön, nedves időben csúszósak lehetnek.",
+                "ro": "Atenție pe trepte, pot fi alunecoase când este umezeală.",
+                "en": "Be careful on the steps; they can be slippery in wet weather."
+              }
+            },
+            {
+              "name": "Albinelli Market",
+              "tip_5lang": {
+                "de": "Der ideale überdachte Stopp für eine ausgiebige Mittagspause.",
+                "hu": "Ideális fedett megálló egy bőséges és száraz ebédszünethez.",
+                "ro": "Oprirea acoperită ideală pentru o pauză de prânz prelungită.",
+                "en": "The ideal covered stop for a long and dry lunch break."
+              }
+            },
+            {
+              "name": "Ducal Palace of Modena",
+              "tip_5lang": {
+                "de": "Genießen Sie die prunkvollen Innenräume fernab vom Regen.",
+                "hu": "Élvezze a pompás belső tereket távol az esőtől.",
+                "ro": "Bucurați-vă de interioarele somptuoase, departe de ploaie.",
+                "en": "Enjoy the magnificent interiors far away from the rain."
+              }
+            },
+            {
+              "name": "Ducal Estense Garden",
+              "tip_5lang": {
+                "de": "Die Wege können matschig sein, bleiben Sie auf den befestigten Pfaden.",
+                "hu": "Az utak sarasak lehetnek, maradjon a kikövezett ösvényeken.",
+                "ro": "Aleile pot fi noroioase, rămâneți pe potecile pavate.",
+                "en": "Paths can be muddy; stick to the paved walkways near the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Modenas Bogengänge (Portici) sind Ihre besten Freunde bei Regen.",
+              "Tragen Sie wasserfeste Schuhe für die Überquerung der Piazza Grande.",
+              "Die Markthalle Albinelli ist komplett überdacht und perfekt für Pausen.",
+              "Museen wie das Ferrari-Museum bieten stundenlangen trockenen Aufenthalt.",
+              "Die Züge und Busse sind bei starkem Regen oft etwas voller."
+            ],
+            "hu": [
+              "Modena árkádjai (Portici) a legjobb barátai esős időben.",
+              "Viseljen vízálló cipőt a Piazza Grande macskaköveihez.",
+              "Az Albinelli piac teljesen fedett, kiváló menedék esőben.",
+              "A Ferrari múzeum órákig tartó száraz programot kínál.",
+              "Erős esőben a buszok és vonatok zsúfoltabbak lehetnek."
+            ],
+            "ro": [
+              "Porticurile din Modena sunt cei mai buni prieteni ai tăi pe ploaie.",
+              "Poartă încălțăminte impermeabilă pentru a traversa Piazza Grande.",
+              "Piața Albinelli este complet acoperită, perfectă pentru pauze.",
+              "Muzeele precum Enzo Ferrari oferă ore întregi de adăpost uscat.",
+              "Autobuzele pot fi mai aglomerate în timpul averselor puternice."
+            ],
+            "en": [
+              "Modena's porticos are your best friends during rainy weather.",
+              "Wear waterproof shoes for crossing the cobblestones of Piazza Grande.",
+              "The Albinelli Market is completely covered and perfect for breaks.",
+              "Museums like the Enzo Ferrari Museum offer hours of dry entertainment.",
+              "Public transport can be slightly more crowded during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt am frostigen Piazza Grande. Mittags wärmen Sie sich im Albinelli-Markt bei einer heißen Portion Tortellini in Brodo auf. Am Nachmittag leuchten die Ziegel des Doms im sanften Winterlicht, bevor die Dämmerung früh einsetzt. Den Abend verbringen Sie bei einem Glas Lambrusco in einer geheizten Osteria, während draußen der Winternebel aufzieht.",
+            "hu": "Tiszta téli reggel kezdődik a deres Piazza Grandén. Délben az Albinelli piacon melegedjen fel egy tál gőzölgő húsleveses tortellinivel. Délután a dóm téglái lágy téli fényben úsznak, mielőtt korán leszállna az alkony. Az estét töltse egy fűtött ostériában egy pohár Lambrusco mellett, miközben odakint felszáll a téli köd.",
+            "ro": "O dimineață senină de iarnă începe în Piazza Grande brumată. La prânz, încălziți-vă în piața Albinelli cu o porție fierbinte de tortellini în brodo. După-amiaza, cărămizile Domului strălucesc în lumina blândă a iernii înainte de amurgul timpuriu. Seara, retrageți-vă într-o osteria încălzită cu un pahar de Lambrusco.",
+            "en": "A crisp winter morning starts at the frosty Piazza Grande. At noon, warm up at Albinelli Market with a steaming bowl of tortellini in brodo. In the afternoon, the Cathedral's bricks glow in the soft winter light before the early sunset. Spend the evening in a heated osteria with a glass of Lambrusco as the winter mist rolls in."
+          },
+          "stops": [
+            {
+              "name": "Piazza Grande",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Steinen am frühen Morgen.",
+                "hu": "Kora reggel ügyeljen a köveken lévő zúzmarára.",
+                "ro": "Atenție la chiciura de pe pietre la primele ore ale dimineții.",
+                "en": "Watch out for frost on the cobblestones in the early morning."
+              }
+            },
+            {
+              "name": "Modena Cathedral",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte, ziehen Sie sich warm an.",
+                "hu": "A vastag falak tartják a hideget, öltözzön fel melegen.",
+                "ro": "Zidurile groase rețin frigul, îmbrăcați-vă bine în interior.",
+                "en": "The thick stone walls retain the cold; keep your coat on inside."
+              }
+            },
+            {
+              "name": "Ghirlandina Tower",
+              "tip_5lang": {
+                "de": "Oben weht ein kalter Wind, Handschuhe sind sehr empfehlenswert.",
+                "hu": "Fent hideg szél fúj, a kesztyű használata erősen ajánlott.",
+                "ro": "Sus bate un vânt rece, mănușile sunt foarte recomandate.",
+                "en": "A cold wind blows at the top; gloves are highly recommended."
+              }
+            },
+            {
+              "name": "Albinelli Market",
+              "tip_5lang": {
+                "de": "Probieren Sie heiße Spezialitäten, um die Körpertemperatur zu halten.",
+                "hu": "Kóstolja meg a forró különlegességeket a testhőmérséklet fenntartásához.",
+                "ro": "Gustați specialitățile calde pentru a vă menține temperatura corpului.",
+                "en": "Try hot local specialties to keep your body temperature up."
+              }
+            },
+            {
+              "name": "Ducal Palace of Modena",
+              "tip_5lang": {
+                "de": "Die Innenbesichtigung ist eine willkommene Aufwärmpause.",
+                "hu": "A belső látogatás kellemes felmelegedési szünetet jelent.",
+                "ro": "Vizita în interior este o pauză de încălzire binevenită.",
+                "en": "The indoor tour provides a welcome break from the winter chill."
+              }
+            },
+            {
+              "name": "Ducal Estense Garden",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Garten vor 16:30 Uhr, bevor es dunkel wird.",
+                "hu": "Látogasson el a kertbe 16:30 előtt, mielőtt besötétedik.",
+                "ro": "Vizitați grădina înainte de ora 16:30, înainte de lăsarea întunericului.",
+                "en": "Visit the garden before 4:30 PM, as it gets dark early in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:45 Uhr unter.",
+              "Genießen Sie 'Tortellini in Brodo' – das ultimative Winteressen in Modena.",
+              "Die Bogengänge bieten Schutz vor dem kalten Wind.",
+              "Kopfsteinpflaster kann bei Frost sehr glatt sein.",
+              "In vielen Cafés gibt es hervorragende heiße Schokolade."
+            ],
+            "hu": [
+              "A nap télen már 16:45 körül lemegy.",
+              "Kóstolja meg a 'Tortellini in Brodo'-t, a legjobb téli ételt Modenában.",
+              "Az árkádok védelmet nyújtanak a hideg szél ellen.",
+              "A macskakő fagyban nagyon csúszós lehet.",
+              "Sok kávézóban kiváló forró csokoládét szolgálnak fel."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:45 în timpul iernii.",
+              "Savurați 'Tortellini in Brodo' – mâncarea supremă de iarnă în Modena.",
+              "Arcadele oferă protecție împotriva vântului tăios de iarnă.",
+              "Pavelele pot fi foarte alunecoase în caz de îngheț.",
+              "Multe cafenele servesc o ciocolată caldă densă și excelentă."
+            ],
+            "en": [
+              "Sunset occurs around 4:45 PM during the winter months.",
+              "Enjoy 'Tortellini in Brodo' – the ultimate winter comfort food in Modena.",
+              "The porticos provide decent protection from the biting winter wind.",
+              "Cobblestones can be very slippery when frost is present.",
+              "Many local cafes serve excellent, thick Italian hot chocolate."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -583,6 +1047,370 @@
           "Watch out for pedestrians in the narrow streets.",
           "Only park your bike in designated areas."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Modena dynamisch mit dem Rad. Beginnen Sie beim hochmodernen Enzo Ferrari Museum und radeln Sie dann gemütlich ins historische Zentrum zur Ghirlandina. Mit dem Fahrrad erreichen Sie problemlos die Galleria Estense und können den Nachmittag entspannt im weitläufigen herzoglichen Garten verbringen, wo Radfahrer willkommen sind.",
+            "hu": "Fedezze fel Modenát dinamikusan: kerékpárral. Kezdjen a ultramodern Enzo Ferrari múzeumnál, majd kerekezzen be kényelmesen a történelmi központba, a Ghirlandina-toronyhoz. Biciklivel könnyedén elérheti a Galleria Estense-t, a délutánt pedig töltse pihenéssel a tágas hercegi kertben, ahol a kerékpárosokat is szívesen látják.",
+            "ro": "Explorați Modena în mod dinamic: cu bicicleta. Începeți la ultramodernul Muzeu Enzo Ferrari, apoi pedalați relaxat spre centrul istoric, la Turnul Ghirlandina. Cu bicicleta puteți ajunge ușor la Galleria Estense, iar după-amiaza o puteți petrece relaxându-vă în spațioasa grădină ducală, unde bicicliștii sunt bineveniți.",
+            "en": "Explore Modena dynamically: by bike. Start at the ultra-modern Enzo Ferrari Museum, then cycle comfortably into the historic center to the Ghirlandina tower. With a bike, you can easily reach the Galleria Estense and spend the afternoon relaxing in the spacious Ducal Garden, where cyclists are welcome."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Enzo Ferrari",
+                "hu": "Enzo Ferrari múzeum",
+                "ro": "Muzeul Enzo Ferrari",
+                "en": "Enzo Ferrari Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss für Fans der gelben Marke.",
+                "hu": "Kihagyhatatlan a sárga márka rajongóinak.",
+                "ro": "Obligatoriu pentru fanii mărcii galbene.",
+                "en": "A must-see for fans of the yellow brand."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Ghirlandina",
+                "hu": "Ghirlandina-torony",
+                "ro": "Turnul Ghirlandina",
+                "en": "Ghirlandina Tower"
+              },
+              "tip_5lang": {
+                "de": "Bequemes Radeln in der Fußgängerzone.",
+                "hu": "Kényelmes kerekezés a sétálóövezetben.",
+                "ro": "Pedalat confortabil în zona pietonală.",
+                "en": "Comfortable cycling in the pedestrian zone."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza Grande",
+                "hu": "Piazza Grande",
+                "ro": "Piazza Grande",
+                "en": "Piazza Grande"
+              },
+              "tip_5lang": {
+                "de": "Sicherer Fahrradständer vorhanden.",
+                "hu": "Biztonságos biciklitárolók a közelben.",
+                "ro": "Rastel de biciclete sigur disponibil.",
+                "en": "Safe bike racks available nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Galleria Estense",
+                "hu": "Galleria Estense",
+                "ro": "Galleria Estense",
+                "en": "Galleria Estense"
+              },
+              "tip_5lang": {
+                "de": "Bedeutende Kunstsammlung der Herzöge.",
+                "hu": "A hercegek jelentős művészeti gyűjteménye.",
+                "ro": "Colecție importantă de artă a ducilor.",
+                "en": "Important art collection of the dukes."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Giardino Ducale Estense",
+                "hu": "Hercegi kert",
+                "ro": "Parcul Ducal Estense",
+                "en": "Ducal Estense Garden"
+              },
+              "tip_5lang": {
+                "de": "Schöne Radwege durch das Grüne.",
+                "hu": "Szép kerékpárutak a zöldben.",
+                "ro": "Piste frumoase de biciclete prin verdeață.",
+                "en": "Beautiful cycling paths through the greenery."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Cotechino di Modena",
+                "tip": "Herzhafte Wurstspezialität."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cotechino di Modena",
+                "tip": "Kiadós helyi kolbászkülönlegesség."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cotechino di Modena",
+                "tip": "Specialitate de cârnat consistentă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cotechino di Modena",
+                "tip": "Hearty local sausage specialty."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parco Novi Sad",
+                "tip": "Großes Areal für entspanntes Radeln.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parco Novi Sad",
+                "tip": "Nagy terület a nyugodt kerekezéshez.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parco Novi Sad",
+                "tip": "Zonă mare pentru pedalat relaxat.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Parco Novi Sad",
+                "tip": "Large area for relaxed cycling.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Modena Shop",
+                "tip": "Lokale Produkte und Ferrari-Merchandising."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Modena Shop",
+                "tip": "Helyi termékek és Ferrari relikviák."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Modena Shop",
+                "tip": "Produse locale și suveniruri Ferrari."
+              }
+            ],
+            "en": [
+              {
+                "name": "Modena Shop",
+                "tip": "Local products and Ferrari merchandising."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie den Fahrradverleih 'C'entro in bici'.",
+              "Radfahren ist in der gesamten Innenstadt erlaubt.",
+              "Die Stadt ist flach und sehr radfahrerfreundlich.",
+              "Achten Sie auf Fußgänger in den engen Gassen.",
+              "Parken Sie Ihr Rad nur an dafür vorgesehenen Plätzen."
+            ],
+            "hu": [
+              "Használja a 'C'entro in bici' kerékpárkölcsönzőt.",
+              "A kerékpározás az egész belvárosban megengedett.",
+              "A város sík és nagyon biciklisbarát.",
+              "Figyeljen a gyalogosokra a szűk utcákban.",
+              "Csak a kijelölt helyeken parkolja le a kerékpárt."
+            ],
+            "ro": [
+              "Folosiți serviciul de închiriere de biciclete 'C'entro in bici'.",
+              "Mersul pe bicicletă este permis în tot centrul orașului.",
+              "Orașul este plat și foarte prietenos cu bicicliștii.",
+              "Fiți atenți la pietoni pe străzile înguste.",
+              "Parcați bicicleta doar în locurile special amenajate."
+            ],
+            "en": [
+              "Use the 'C'entro in bici' bike rental service.",
+              "Cycling is permitted throughout the entire city center.",
+              "The city is flat and very bike-friendly.",
+              "Watch out for pedestrians in the narrow streets.",
+              "Only park your bike in designated areas."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig zum Ferrari-Museum, wo Sie den Vormittag im Trockenen verbringen. Mittags geht es durch die nassen Gassen zum Ghirlandina-Turm. Nach dem Museumsbesuch in der Galleria Estense bietet der Herzogsgarten eine mystische Atmosphäre im Regen. Beenden Sie die Tour mit einer heißen Dusche und einem herzhaften Abendessen.",
+            "hu": "Tekerjen óvatosan a Ferrari múzeumhoz, ahol a délelőttöt szárazon töltheti. Délben a vizes utcákon át haladjon a Ghirlandina toronyhoz. A Galleria Estense után a hercegi kert misztikus hangulatot áraszt az esőben. Zárja a túrát egy forró zuhany utáni bőséges vacsorával.",
+            "ro": "Pedalați cu atenție spre Muzeul Ferrari, unde veți petrece dimineața la adăpost. La prânz, treceți prin străzile umede spre Turnul Ghirlandina. După Galleria Estense, Grădina Ducală oferă o atmosferă mistică prin ploaie. Încheiați turul cu o cină caldă și consistentă.",
+            "en": "Cycle carefully to the Enzo Ferrari Museum to spend a dry morning among cars. At noon, navigate the wet streets toward the Ghirlandina Tower. After visiting Galleria Estense, the Ducal Garden offers a misty atmosphere in the rain. End your cycling tour with a warm shower and a hearty local dinner."
+          },
+          "stops": [
+            {
+              "name": "Enzo Ferrari Museum",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradständer vorhanden, idealer Stopp bei Schauern.",
+                "hu": "Biztonságos kerékpártároló elérhető, ideális megálló zápor esetén.",
+                "ro": "Suporturi de biciclete sigure disponibile, oprire ideală în caz de aversă.",
+                "en": "Secure bike racks available; an ideal spot to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Ghirlandina Tower",
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig auf dem nassen Pflaster davor.",
+                "hu": "Fékezzen időben a torony előtti nedves kövezeten.",
+                "ro": "Frânați din timp pe pavajul umed din fața turnului.",
+                "en": "Brake early on the wet pavement in front of the tower."
+              }
+            },
+            {
+              "name": "Piazza Grande",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, die Steine können extrem rutschig sein.",
+                "hu": "Hajtson lassan, a kövek rendkívül csúszósak lehetnek.",
+                "ro": "Mergeți încet, pietrele pot fi extrem de alunecoase.",
+                "en": "Ride slowly; the ancient stones can be extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Galleria Estense",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenhof zum Abstellen Ihres Rades.",
+                "hu": "Használja a belső udvart a kerékpár leállításához.",
+                "ro": "Folosiți curtea interioară pentru a lăsa bicicleta la adăpost.",
+                "en": "Use the inner courtyard area to park your bike securely."
+              }
+            },
+            {
+              "name": "Ducal Estense Garden",
+              "tip_5lang": {
+                "de": "Vermeiden Sie schnelle Kurven auf den nassen Parkwegen.",
+                "hu": "Kerülje a gyors kanyarodást a nedves parki utakon.",
+                "ro": "Evitați virajele bruște pe aleile umede din parc.",
+                "en": "Avoid sharp turns on the wet and potentially muddy park paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor dem Start bei Regen.",
+              "Schutzbleche sind bei den Pfützen in der Altstadt unerlässlich.",
+              "Nutzen Sie die Portici zum Unterstellen bei plötzlichen Güssen.",
+              "Vermeiden Sie lackierte Markierungen auf der Straße, sie sind glatt.",
+              "Wasserdichte Packtaschen schützen Ihre Ausrüstung."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékeket esős időben.",
+              "A sárvédő elengedhetetlen az óvárosi tócsák miatt.",
+              "Hirtelen zivatar esetén használja az árkádokat menedékként.",
+              "Kerülje az útra festett jeleket, mert nedvesen csúsznak.",
+              "A vízálló táskák megvédik felszerelését az elázástól."
+            ],
+            "ro": [
+              "Verificați frânele înainte de a pleca pe ploaie.",
+              "Apărătorile de noroi sunt esențiale pentru bălțile din centrul vechi.",
+              "Folosiți porticurile pentru a vă adăposti în caz de aversă bruscă.",
+              "Evitați marcajele rutiere vopsite, sunt foarte alunecoase.",
+              "Geantele de bicicletă impermeabile vă vor proteja bunurile."
+            ],
+            "en": [
+              "Check your brakes before starting your ride in the rain.",
+              "Mudguards are essential for the puddles in the old town.",
+              "Use the porticos as shelter during sudden heavy downpours.",
+              "Avoid painted road markings; they become very slick when wet.",
+              "Waterproof panniers will keep your belongings dry throughout the trip."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start führt Sie zum Ferrari-Museum, wo die Motorenwärme (symbolisch) lockt. Die Fahrt zum Ghirlandina-Turm belebt bei kalter Luft die Sinne. Nach der Galleria Estense genießen Sie die stille Winterruhe im Herzogsgarten, bevor Sie bei Einbruch der Dunkelheit Ihr Rad abstellen. Der Tag endet mit einem wärmenden Glas lokalen Weins.",
+            "hu": "Deres indulás után a Ferrari múzeum felé vegye az irányt. A hideg levegőn való tekerés a Ghirlandina torony felé felfrissíti az érzékeket. A Galleria Estense után élvezze a hercegi kert csendes téli nyugalmát, mielőtt sötétedéskor letenné a biciklit. A napot egy melengető pohár helyi borral zárja.",
+            "ro": "Un început geros vă duce spre Muzeul Ferrari. Călătoria spre Turnul Ghirlandina prin aerul rece vă va înviora simțurile. După Galleria Estense, bucurați-vă de liniștea iernii în Grădina Ducală, înainte de a lăsa bicicleta la lăsarea serii. Ziua se încheie cu un pahar de vin local.",
+            "en": "A frosty start leads you to the Enzo Ferrari Museum. Cycling to the Ghirlandina Tower through the cold air is invigorating. After Galleria Estense, enjoy the quiet winter stillness of the Ducal Garden before parking your bike as darkness falls. The day concludes with a warming glass of local red wine."
+          },
+          "stops": [
+            {
+              "name": "Enzo Ferrari Museum",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um schnell ins Warme zu kommen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy gyorsan beérjen a melegre.",
+                "ro": "Parcați aproape de intrare pentru a ajunge rapid la căldură.",
+                "en": "Park close to the entrance to get into the warm building quickly."
+              }
+            },
+            {
+              "name": "Ghirlandina Tower",
+              "tip_5lang": {
+                "de": "Der Metallständer für Räder kann eiskalt sein, nutzen Sie Handschuhe.",
+                "hu": "A fém kerékpártároló jéghideg lehet, használjon kesztyűt.",
+                "ro": "Suportul metalic poate fi înghețat, folosiți mănuși când legați bicicleta.",
+                "en": "The metal bike racks can be freezing; keep your gloves on while locking."
+              }
+            },
+            {
+              "name": "Piazza Grande",
+              "tip_5lang": {
+                "de": "Vorsicht bei Raureif auf dem historischen Pflaster.",
+                "hu": "Ügyeljen a zúzmarára a történelmi macskaköveken.",
+                "ro": "Atenție la brumă pe pavajul istoric al pieței.",
+                "en": "Be careful of frost or black ice on the historic cobblestones."
+              }
+            },
+            {
+              "name": "Galleria Estense",
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort, um die Hände an den Heizkörpern aufzuwärmen.",
+                "hu": "Csodálatos hely a kezek felmelegítésére a fűtőtesteknél.",
+                "ro": "Un loc minunat pentru a vă încălzi mâinile la calorifere.",
+                "en": "A wonderful place to warm up your hands near the radiators."
+              }
+            },
+            {
+              "name": "Ducal Estense Garden",
+              "tip_5lang": {
+                "de": "Beleuchtung am Rad ist ab 16:30 Uhr zwingend erforderlich.",
+                "hu": "A kerékpáros világítás 16:30 után kötelező.",
+                "ro": "Luminile bicicletei sunt obligatorii începând cu ora 16:30.",
+                "en": "Bike lights are mandatory as visibility drops after 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip).",
+              "Handschuhe und eine Mütze unter dem Helm sind im Winter Pflicht.",
+              "Prüfen Sie den Reifendruck, er sinkt bei Kälte oft ab.",
+              "Die Wege im Herzogsgarten können morgens überfroren sein.",
+              "Nutzen Sie die kurzen Wege im Zentrum, um nicht auszukühlen."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen (hagyma-elv).",
+              "A kesztyű és a sisak alatti sapka kötelező télen.",
+              "Ellenőrizze a guminyomást, hidegben gyakran csökken.",
+              "A hercegi kert útjai reggelente jegesek lehetnek.",
+              "Használja a rövid útvonalakat a központban, hogy ne hűljön ki."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine (principiul cepei).",
+              "Mănușile și o căciulă sub cască sunt obligatorii iarna.",
+              "Verificați presiunea în pneuri, scade adesea la frig.",
+              "Aleile din Grădina Ducală pot fi înghețate dimineața.",
+              "Folosiți trasee scurte în centru pentru a nu răci prea tare."
+            ],
+            "en": [
+              "Wear multiple layers of clothing (the onion principle).",
+              "Gloves and a thin hat under your helmet are essential in winter.",
+              "Check your tire pressure; it often drops in cold temperatures.",
+              "Paths in the Ducal Garden may be frozen over in the early morning.",
+              "Stick to short routes in the center to avoid getting too cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -826,6 +1654,370 @@
           "Blue lines mean paid parking.",
           "A car is perfect for visiting balsamic vinegar producers (Acetaia)."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Das Auto erlaubt Ihnen einen Ausflug nach Maranello, dem Herz von Ferrari. Danach kehren Sie nach Modena zurück und parken im Zentrum. Erkunden Sie die Piazza Grande und den beeindruckenden Dom. Ein Besuch des Enzo Ferrari Museums in Modena rundet das automobile Thema ab, bevor Sie den Tag entspannt im herzoglichen Garten ausklingen lassen.",
+            "hu": "Az autó lehetővé teszi a kirándulást Maranellóba, a Ferrari szívébe. Ezután térjen vissza Modenába, és parkoljon a belvárosban. Fedezze fel a Piazza Grandét és a lenyűgöző Dómot. A modenai Enzo Ferrari múzeum meglátogatása teljessé teszi az autós témát, majd a napot töltse pihenéssel a hercegi kertben.",
+            "ro": "Mașina vă permite o excursie la Maranello, inima Ferrari. Apoi reveniți la Modena și parcați în centru. Explorați Piazza Grande și impresionantul Dom. O vizită la Muzeul Enzo Ferrari din Modena completează tema automobilistică, înainte de a încheia ziua relaxându-vă în grădina ducală.",
+            "en": "A car allows you to take a trip to Maranello, the heart of Ferrari. Then return to Modena and park in the center. Explore Piazza Grande and the impressive Cathedral. A visit to the Enzo Ferrari Museum in Modena rounds out the automotive theme before ending the day relaxing in the Ducal Garden."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maranello - Museo Ferrari",
+                "hu": "Maranello - Ferrari múzeum",
+                "ro": "Maranello - Muzeul Ferrari",
+                "en": "Maranello - Ferrari Museum"
+              },
+              "tip_5lang": {
+                "de": "Die Heimat der Scuderia Ferrari.",
+                "hu": "A Scuderia Ferrari otthona.",
+                "ro": "Casa echipei Scuderia Ferrari.",
+                "en": "The home of Scuderia Ferrari."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza Grande",
+                "hu": "Piazza Grande",
+                "ro": "Piazza Grande",
+                "en": "Piazza Grande"
+              },
+              "tip_5lang": {
+                "de": "Parkhaus 'Parcheggio del Centro' nutzen.",
+                "hu": "Használja a 'Parcheggio del Centro' parkolót.",
+                "ro": "Folosiți parcarea 'Parcheggio del Centro'.",
+                "en": "Use the 'Parcheggio del Centro' parking garage."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di Modena",
+                "hu": "Modenai dóm",
+                "ro": "Catedrala din Modena",
+                "en": "Modena Cathedral"
+              },
+              "tip_5lang": {
+                "de": " UNESCO-Kulturdenkmal.",
+                "hu": "UNESCO kulturális emlékhely.",
+                "ro": "Monument cultural UNESCO.",
+                "en": "UNESCO cultural monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Enzo Ferrari",
+                "hu": "Enzo Ferrari múzeum",
+                "ro": "Muzeul Enzo Ferrari",
+                "en": "Enzo Ferrari Museum"
+              },
+              "tip_5lang": {
+                "de": "Besuch des Geburtshauses von Enzo.",
+                "hu": "Enzo szülőházának meglátogatása.",
+                "ro": "Vizitați casa natală a lui Enzo.",
+                "en": "Visit Enzo's birthplace."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Giardino Ducale Estense",
+                "hu": "Hercegi kert",
+                "ro": "Parcul Ducal Estense",
+                "en": "Ducal Estense Garden"
+              },
+              "tip_5lang": {
+                "de": "Kurze Pause vor der Abfahrt.",
+                "hu": "Rövid szünet az elindulás előtt.",
+                "ro": "Scurtă pauză înainte de plecare.",
+                "en": "Short break before departure."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Zampone di Modena",
+                "tip": "Gefüllter Schweinefuß (Spezialität)."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Zampone di Modena",
+                "tip": "Töltött sertésköröm (különlegesség)."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Zampone di Modena",
+                "tip": "Picior de porc umplut (specialitate)."
+              }
+            ],
+            "en": [
+              {
+                "name": "Zampone di Modena",
+                "tip": "Stuffed pig's trotter (specialty)."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Weinberge um Maranello",
+                "tip": "Schöne Aussichten während der Fahrt.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Maranello környéki szőlők",
+                "tip": "Szép kilátás útközben.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Podgoriile din jurul Maranello",
+                "tip": "Vederi frumoase în timpul drumului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Vineyards around Maranello",
+                "tip": "Beautiful views during the drive.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Ferrari Store Maranello",
+                "tip": "Alles rund um den Rennstall."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ferrari Store Maranello",
+                "tip": "Minden, ami az istállóval kapcsolatos."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ferrari Store Maranello",
+                "tip": "Totul despre echipa de curse."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ferrari Store Maranello",
+                "tip": "Everything related to the racing team."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Achtung: Modena Zentrum ist ZTL (begrenzter Verkehr).",
+              "Nutzen Sie die Tiefgarage 'Novi Park'.",
+              "Maranello ist etwa 20-30 Minuten entfernt.",
+              "Blaue Linien bedeuten gebührenpflichtiges Parken.",
+              "Ein Auto ist perfekt, um Balsamico-Produzenten (Acetaia) zu besuchen."
+            ],
+            "hu": [
+              "Figyelem: Modena belvárosa ZTL (korlátozott forgalmú).",
+              "Használja a 'Novi Park' mélygarázst.",
+              "Maranello kb. 20-30 percre van.",
+              "A kék vonalak fizetős parkolást jelentenek.",
+              "Az autó tökéletes a környékbeli balzsamecet-termelők (Acetaia) felkereséséhez."
+            ],
+            "ro": [
+              "Atenție: Centrul Modenei este ZTL (trafic restricționat).",
+              "Folosiți parcarea subterană 'Novi Park'.",
+              "Maranello se află la aproximativ 20-30 de minute distanță.",
+              "Liniile albastre indică parcare cu plată.",
+              "Mașina este perfectă pentru a vizita producătorii de balsamico (Acetaia)."
+            ],
+            "en": [
+              "Attention: Modena center is a ZTL (restricted traffic zone).",
+              "Use the 'Novi Park' underground garage.",
+              "Maranello is about 20-30 minutes away.",
+              "Blue lines mean paid parking.",
+              "A car is perfect for visiting balsamic vinegar producers (Acetaia)."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens entspannt zum Ferrari-Museum in Maranello. Zurück in Modena parken Sie am besten in einer Tiefgarage nahe der Piazza Grande. Der Dom und das Enzo-Ferrari-Museum sind perfekte Ziele für einen verregneten Nachmittag. Genießen Sie den Komfort Ihres Autos für die Fahrten zwischen den Highlights, während es draußen stürmt.",
+            "hu": "Reggel induljon kényelmesen a maranellói Ferrari múzeumba. Visszatérve Modenába, parkoljon egy mélygarázsban a Piazza Grande közelében. A dóm és az Enzo Ferrari múzeum tökéletes célpontok egy esős délutánra. Élvezze autója kényelmét a látnivalók közötti közlekedés során, miközben odakint viharos az idő.",
+            "ro": "Conduceți relaxat spre Muzeul Ferrari din Maranello dimineața. Revenind în Modena, parcați într-o parcare subterană lângă Piazza Grande. Domul și Muzeul Enzo Ferrari sunt destinații perfecte pentru o după-amiază ploioasă. Bucurați-vă de confortul mașinii între obiective, în timp ce afară plouă.",
+            "en": "Take a relaxed morning drive to the Ferrari Museum in Maranello. Back in Modena, park in a covered garage near Piazza Grande. The Cathedral and the Enzo Ferrari Museum are perfect destinations for a rainy afternoon. Enjoy the comfort of your car while traveling between highlights during the storm."
+          },
+          "stops": [
+            {
+              "name": "Maranello - Ferrari Museum",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt vor dem Eingang vorhanden.",
+                "hu": "Nagy parkoló áll rendelkezésre közvetlenül a bejárat előtt.",
+                "ro": "Parcare mare disponibilă chiar în fața intrării.",
+                "en": "Ample parking available directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Piazza Grande",
+              "tip_5lang": {
+                "de": "Parken Sie im 'Parcheggio del Centro' für einen trockenen Weg.",
+                "hu": "Parkoljon a 'Parcheggio del Centro'-ban a száraz út érdekében.",
+                "ro": "Parcați în 'Parcheggio del Centro' pentru un acces mai uscat.",
+                "en": "Park at 'Parcheggio del Centro' for covered access to the square."
+              }
+            },
+            {
+              "name": "Modena Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz unter die Bogengänge möglich.",
+                "hu": "Rövid sprint a parkolóból az árkádok alá lehetséges.",
+                "ro": "Sprint scurt de la parcare până sub arcadele de lângă Dom.",
+                "en": "A short dash from the parking spot to the porticos is possible."
+              }
+            },
+            {
+              "name": "Enzo Ferrari Museum",
+              "tip_5lang": {
+                "de": "Überdachter Parkbereich oft verfügbar, ideal bei Regen.",
+                "hu": "Fedett parkolóhely gyakran elérhető, ideális esőben.",
+                "ro": "Locuri de parcare acoperite disponibile adesea, ideal pe ploaie.",
+                "en": "Covered parking spaces are often available; ideal for rainy days."
+              }
+            },
+            {
+              "name": "Ducal Estense Garden",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie den Anblick.",
+                "hu": "Erős esőben maradjon az autóban, és onnan csodálja a látványt.",
+                "ro": "În caz de ploaie torențială, admirați grădinile din mașină.",
+                "en": "In case of heavy downpours, enjoy the garden views from your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Parkhäuser statt Außenparkplätzen, um trocken zu bleiben.",
+              "Achten Sie auf die ZTL-Zonen, besonders bei eingeschränkter Sicht.",
+              "Die Straße nach Maranello kann bei Regen rutschig sein.",
+              "Halten Sie einen Regenschirm im Auto für den Weg zum Restaurant bereit.",
+              "Vermeiden Sie das Parken unter großen Bäumen bei Sturmgefahr."
+            ],
+            "hu": [
+              "Használjon parkolóházakat a szabadtéri parkolók helyett.",
+              "Ügyeljen a ZTL zónákra, különösen korlátozott látási viszonyoknál.",
+              "A Maranello felé vezető út esőben csúszós lehet.",
+              "Tartson esernyőt az autóban az étteremig tartó útra.",
+              "Viharveszély esetén kerülje a nagy fák alatti parkolást."
+            ],
+            "ro": [
+              "Folosiți parcările etajate în locul celor în aer liber.",
+              "Atenție la zonele ZTL, mai ales când vizibilitatea e redusă.",
+              "Drumul spre Maranello poate fi alunecos pe timp de ploaie.",
+              "Țineți o umbrelă în mașină pentru drumul scurt spre restaurant.",
+              "Evitați parcarea sub arbori mari în caz de risc de furtună."
+            ],
+            "en": [
+              "Use multi-story parking garages instead of open-air lots to stay dry.",
+              "Be extra mindful of ZTL zones when visibility is poor due to rain.",
+              "The road to Maranello can be slippery during heavy rainfall.",
+              "Keep an umbrella in the car for the walk from the garage to highlights.",
+              "Avoid parking under large trees if there's a risk of high winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie morgens mit Sitzheizung Richtung Maranello. Das Ferrari-Museum bietet eine warme Zuflucht vor der Winterkälte. Zurück in Modena erstrahlt die Stadt im festlichen Winterlicht. Genießen Sie die Fahrt durch die neblige Po-Ebene, bevor Sie den Abend bei einem warmen Abendessen im Stadtzentrum verbringen. Ihr Auto ist die perfekte Basis für diesen kalten Tag.",
+            "hu": "Reggel üljön a fűtött autóba és induljon Maranello felé. A Ferrari múzeum meleg menedéket nyújt a téli hideg elől. Visszatérve Modenába, a város ünnepi téli fényekben pompázik. Élvezze az autózást a ködös Pó-síkságon, mielőtt a napot egy meleg vacsorával zárná a belvárosban. Az autó tökéletes bázis ezen a hideg napon.",
+            "ro": "Porniți dimineața spre Maranello cu încălzirea pornită. Muzeul Ferrari oferă un refugiu cald împotriva gerului. Revenind în Modena, orașul strălucește în lumini festive de iarnă. Bucurați-vă de drumul prin câmpia Padului cețoasă înainte de o cină caldă în centru.",
+            "en": "Start your morning with seat heaters on, heading toward Maranello. The Ferrari Museum offers a warm escape from the winter chill. Back in Modena, the city shines in its festive winter lighting. Enjoy the drive through the misty Po Valley before concluding with a warm dinner in the city center."
+          },
+          "stops": [
+            {
+              "name": "Maranello - Ferrari Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Garderobenservice für Ihre schweren Wintermäntel.",
+                "hu": "Használja a ruhatárat a nehéz téli kabátok leadásához.",
+                "ro": "Folosiți serviciul de garderobă pentru hainele groase de iarnă.",
+                "en": "Use the cloakroom service to store your heavy winter coats."
+              }
+            },
+            {
+              "name": "Piazza Grande",
+              "tip_5lang": {
+                "de": "Kurze Parkdauer einplanen, um die Kälte draußen zu minimieren.",
+                "hu": "Tervezzen rövid parkolást a kinti hideg minimalizálása érdekében.",
+                "ro": "Planificați o oprire scurtă pentru a minimiza timpul petrecut în ger.",
+                "en": "Plan for a short stop to minimize time spent in the freezing air."
+              }
+            },
+            {
+              "name": "Modena Cathedral",
+              "tip_5lang": {
+                "de": "Die Heizung in der Nähe des Altars ist oft in Betrieb.",
+                "hu": "Az oltár közelében lévő fűtés gyakran üzemel.",
+                "ro": "Încălzirea de lângă altar este adesea funcțională iarna.",
+                "en": "Heating units near the altar are often active during winter."
+              }
+            },
+            {
+              "name": "Enzo Ferrari Museum",
+              "tip_5lang": {
+                "de": "Perfekt temperierte Hallen laden zum langen Verweilen ein.",
+                "hu": "A tökéletesen temperált csarnokok hosszú tartózkodásra hívnak.",
+                "ro": "Halele bine încălzite vă invită la o vizită prelungită.",
+                "en": "The perfectly climate-controlled halls are great for a long visit."
+              }
+            },
+            {
+              "name": "Ducal Estense Garden",
+              "tip_5lang": {
+                "de": "Fahren Sie bei Sonnenuntergang (ca. 16:45 Uhr) langsam vorbei.",
+                "hu": "Naplementekor (kb. 16:45) lassan hajtson el mellette.",
+                "ro": "Treceți pe lângă grădini la apus (aprox. ora 16:45).",
+                "en": "Drive past the gardens slowly at sunset (around 4:45 PM)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Region von November bis April Pflicht.",
+              "Achten Sie auf Nebel (Nebbia) auf der Strecke nach Maranello.",
+              "Lassen Sie keine Flüssigkeiten im Auto, die gefrieren könnten.",
+              "Nutzen Sie die Tiefgaragen, damit Ihr Auto nicht einfriert.",
+              "Die Dämmerung setzt im Dezember bereits ab 16:15 Uhr ein."
+            ],
+            "hu": [
+              "Téli gumi használata kötelező a régióban novembertől áprilisig.",
+              "Ügyeljen a ködre (Nebbia) a Maranello felé vezető úton.",
+              "Ne hagyjon az autóban folyadékot, ami megfagyhat.",
+              "Használjon mélygarázst, hogy az autó ne fagyjon le.",
+              "Decemberben az alkonyat már 16:15-kor elkezdődik."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în regiune până în aprilie.",
+              "Atenție la ceață (Nebbia) pe drumul spre Maranello.",
+              "Nu lăsați lichide în mașină care ar putea îngheța peste noapte.",
+              "Folosiți parcări subterane pentru a evita înghețarea parbrizului.",
+              "Amurgul începe încă de la ora 16:15 în luna decembrie."
+            ],
+            "en": [
+              "Winter tires are mandatory in this region from November to April.",
+              "Watch out for heavy fog (Nebbia) on the route to Maranello.",
+              "Do not leave liquids in the car that could freeze overnight.",
+              "Use underground parking to avoid a frozen windshield in the evening.",
+              "Twilight starts as early as 4:15 PM during the month of December."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1092,6 +2284,402 @@
           "Avoid the morning rush hours.",
           "The railway station is a good landmark for orientation."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die bequemen Busverbindungen in Modena. Vom Bahnhof erreichen Sie schnell das Enzo Ferrari Museum. Die Linien ins Zentrum bringen Sie direkt zur Piazza Grande und dem Dom. Besuchen Sie das nach Pavarotti benannte Theater und die Abtei San Pietro. Der öffentliche Verkehr ist eine stressfreie Möglichkeit, die kulturellen Höhepunkte der Stadt zu erleben.",
+            "hu": "Használja ki Modena kényelmes buszjáratatait. A vasútállomástól gyorsan elérheti az Enzo Ferrari múzeumot. A belvárosi járatok közvetlenül a Piazza Grandéhoz és a Dómhoz viszik. Látogassa meg a Pavarottiról elnevezett színházat és a Szt. Péter apátságot. A tömegközlekedés stresszmentes módja a város kulturális fénypontjainak megismeréséhez.",
+            "ro": "Profită de conexiunile confortabile de autobuz din Modena. De la gară poți ajunge rapid la Muzeul Enzo Ferrari. Liniile spre centru te duc direct la Piazza Grande și la Dom. Vizitează teatrul numit după Pavarotti și mănăstirea San Pietro. Transportul public este o modalitate fără stres de a experimenta punctele culturale forte ale orașului.",
+            "en": "Take advantage of Modena's convenient bus connections. From the station, you can quickly reach the Enzo Ferrari Museum. Lines to the center take you directly to Piazza Grande and the Cathedral. Visit the theatre named after Pavarotti and the Abbey of San Pietro. Public transport is a stress-free way to experience the city's cultural highlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Modena",
+                "hu": "Modena vasútállomás",
+                "ro": "Gara Modena",
+                "en": "Modena Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Ankunft mit dem Zug.",
+                "hu": "Érkezés vonattal.",
+                "ro": "Sosirea cu trenul.",
+                "en": "Arrival by train."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Enzo Ferrari",
+                "hu": "Enzo Ferrari múzeum",
+                "ro": "Muzeul Enzo Ferrari",
+                "en": "Enzo Ferrari Museum"
+              },
+              "tip_5lang": {
+                "de": "Nur 5 Minuten zu Fuß vom Bahnhof.",
+                "hu": "Csak 5 perc séta az állomástól.",
+                "ro": "La doar 5 minute de mers pe jos de gară.",
+                "en": "Only a 5-minute walk from the station."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza Grande",
+                "hu": "Piazza Grande",
+                "ro": "Piazza Grande",
+                "en": "Piazza Grande"
+              },
+              "tip_5lang": {
+                "de": "Buslinien 7, 11 führen ins Zentrum.",
+                "hu": "A 7, 11-es buszok a központba visznek.",
+                "ro": "Liniile de autobuz 7, 11 duc spre centru.",
+                "en": "Bus lines 7, 11 take you to the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di Modena",
+                "hu": "Modenai dóm",
+                "ro": "Catedrala din Modena",
+                "en": "Modena Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Anlaufpunkt.",
+                "hu": "Központi találkozóhely.",
+                "ro": "Punct central de vizită.",
+                "en": "Central meeting point."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Comunale Luciano Pavarotti",
+                "hu": "Luciano Pavarotti színház",
+                "ro": "Teatrul Comunal Luciano Pavarotti",
+                "en": "Luciano Pavarotti Municipal Theatre"
+              },
+              "tip_5lang": {
+                "de": "Benannt nach dem berühmten Tenor.",
+                "hu": "A híres tenorról nevezték el.",
+                "ro": "Numit după faimosul tenor.",
+                "en": "Named after the famous tenor."
+              }
+            },
+            {
+              "name": {
+                "de": "Abbazia di San Pietro",
+                "hu": "Szt. Péter apátság",
+                "ro": "Abbazia di San Pietro",
+                "en": "Abbey of San Pietro"
+              },
+              "tip_5lang": {
+                "de": "Kurze Busfahrt zurück zum Bahnhof.",
+                "hu": "Rövid buszút vissza az állomásra.",
+                "ro": "Scurtă călătorie cu autobuzul înapoi la gară.",
+                "en": "Short bus ride back to the station."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Borlengo",
+                "tip": "Dünner, knuspriger Fladen mit Schmalz."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Borlengo",
+                "tip": "Vékony, ropogós lepény fűszeres zsírral."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Borlengo",
+                "tip": "Lipie subțire și crocantă cu untură."
+              }
+            ],
+            "en": [
+              {
+                "name": "Borlengo",
+                "tip": "Thin, crispy flatbread with lard."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Klostergarten San Pietro",
+                "tip": "Oase der Ruhe im Stadtzentrum.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szt. Péter kolostorkert",
+                "tip": "A nyugalom szigete a belvárosban.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina mănăstirii San Pietro",
+                "tip": "Oază de liniște în centrul orașului.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "San Pietro cloister garden",
+                "tip": "Oasis of peace in the city center.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Via Taglio",
+                "tip": "Charmante Gasse mit lokalen Läden."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Via Taglio",
+                "tip": "Bájos utca helyi üzletekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Via Taglio",
+                "tip": "Stradă fermecătoare cu magazine locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Via Taglio",
+                "tip": "Charming street with local shops."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Fahrkarten sind an Kiosken oder via App erhältlich.",
+              "Die Busse sind pünktlich und sauber.",
+              "Die Linien 7 und 11 sind die wichtigsten für Besucher.",
+              "Vermeiden Sie die Stoßzeiten am Morgen.",
+              "Der Bahnhof ist ein guter Orientierungspunkt."
+            ],
+            "hu": [
+              "Jegyeket újságosnál vagy alkalmazáson keresztül vehet.",
+              "A buszok pontosak és tiszták.",
+              "A 7-es és 11-es vonal a legfontosabb a látogatóknak.",
+              "Kerülje a reggeli csúcsidőszakot.",
+              "A vasútállomás jó tájékozódási pont."
+            ],
+            "ro": [
+              "Biletele sunt disponibile la chioșcuri sau prin aplicație.",
+              "Autobuzele sunt punctuale și curate.",
+              "Liniile 7 și 11 sunt cele mai importante pentru vizitatori.",
+              "Evitați orele de vârf de dimineață.",
+              "Gara este un punct bun de orientare."
+            ],
+            "en": [
+              "Tickets are available at kiosks or via app.",
+              "Buses are punctual and clean.",
+              "Lines 7 and 11 are the most important for visitors.",
+              "Avoid the morning rush hours.",
+              "The railway station is a good landmark for orientation."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bahnhof als trockenen Startpunkt. Die Busse bringen Sie direkt zum Enzo-Ferrari-Museum und ins Stadtzentrum. Mittags bietet die Piazza Grande unter den Arkaden Schutz, bevor Sie das Stadttheater besuchen. Beenden Sie den Tag bei der Abtei von San Pietro, die bequem mit dem Stadtbus erreichbar ist, während draußen der Regen fällt.",
+            "hu": "Használja a vasútállomást száraz kezdőpontként. A buszok közvetlenül az Enzo Ferrari múzeumhoz és a városközpontba viszik. Délben a Piazza Grande árkádjai nyújtanak menedéket, mielőtt meglátogatná a városi színházat. Zárja a napot a San Pietro apátságnál, amely kényelmesen elérhető busszal esős időben is.",
+            "ro": "Folosiți gara ca punct de plecare uscat. Autobuzele vă duc direct la Muzeul Enzo Ferrari și în centru. La prânz, arcadele din Piazza Grande vă oferă adăpost, înainte de a vizita teatrul municipal. Încheiați ziua la Abația San Pietro, accesibilă ușor cu autobuzul.",
+            "en": "Use the railway station as your dry starting point. Buses will take you directly to the Enzo Ferrari Museum and the city center. At noon, the porticos of Piazza Grande offer shelter before you visit the Municipal Theatre. End the day at the Abbey of San Pietro, easily reachable by bus despite the rain."
+          },
+          "stops": [
+            {
+              "name": "Modena Railway Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle im Trockenen auf Ihren Bus.",
+                "hu": "Várja a buszt a vasútállomás száraz várótermében.",
+                "ro": "Așteptați autobuzul în holul gării pentru a rămâne uscat.",
+                "en": "Wait inside the station hall to stay dry while waiting for your bus."
+              }
+            },
+            {
+              "name": "Enzo Ferrari Museum",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle befindet sich ganz in der Nähe des Eingangs.",
+                "hu": "A buszmegálló nagyon közel található a bejárathoz.",
+                "ro": "Stația de autobuz este situată foarte aproape de intrare.",
+                "en": "The bus stop is located very close to the museum entrance."
+              }
+            },
+            {
+              "name": "Piazza Grande",
+              "tip_5lang": {
+                "de": "Vom Busstopp führen Bogengänge fast bis zum Platz.",
+                "hu": "A buszmegállótól árkádok vezetnek szinte egészen a térig.",
+                "ro": "De la stația de autobuz, arcadele vă duc aproape până în piață.",
+                "en": "From the bus stop, porticos lead almost all the way to the square."
+              }
+            },
+            {
+              "name": "Modena Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Seiteneingang, um Regenpfützen zu vermeiden.",
+                "hu": "Használja az oldalsó bejáratot az esővizes tócsák elkerülésére.",
+                "ro": "Folosiți intrarea laterală pentru a evita bălțile de la intrare.",
+                "en": "Use the side entrance to avoid the largest puddles at the main door."
+              }
+            },
+            {
+              "name": "Luciano Pavarotti Municipal Theatre",
+              "tip_5lang": {
+                "de": "Ein idealer Indoor-Stopp mit kulturellem Tiefgang.",
+                "hu": "Ideális fedett megálló kulturális tartalommal.",
+                "ro": "O oprire ideală la interior, cu o bogată încărcătură culturală.",
+                "en": "An ideal indoor stop offering a deep cultural experience."
+              }
+            },
+            {
+              "name": "Abbey of San Pietro",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist direkt vor der Kirche, kaum nasser Weg.",
+                "hu": "A megálló közvetlenül a templom előtt van, alig kell áznia.",
+                "ro": "Stația este chiar în fața bisericii, drumul prin ploaie e minim.",
+                "en": "The stop is right in front of the church; minimal walking in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab über die Seta-App, um Regen am Automaten zu vermeiden.",
+              "Die Buslinien 7 und 11 verbinden die wichtigsten Sehenswürdigkeiten.",
+              "Haltestellen mit Überdachung sind im Zentrum zahlreich vorhanden.",
+              "Busse können bei Regen aufgrund des Verkehrs Verspätung haben.",
+              "Nutzen Sie die Wartezeit in den Cafés nahe der Haltestellen."
+            ],
+            "hu": [
+              "Vegye meg a jegyét előre a Seta alkalmazásban, hogy ne kelljen áznia az automatánál.",
+              "A 7-es és 11-es buszjáratok kötik össze a főbb látnivalókat.",
+              "A központban számos fedett buszmegálló található.",
+              "Esőben a buszok a forgalom miatt késhetnek.",
+              "Használja ki a várakozási időt a megállók közeli kávézókban."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans prin aplicația Seta pentru a evita automatele.",
+              "Liniile 7 și 11 fac legătura între principalele puncte de interes.",
+              "Există numeroase stații de autobuz acoperite în centrul orașului.",
+              "Autobuzele pot avea întârzieri pe ploaie din cauza traficului.",
+              "Folosiți cafenelele de lângă stații pentru a aștepta autobuzul la căldură."
+            ],
+            "en": [
+              "Buy tickets in advance via the Seta app to avoid using outdoor machines.",
+              "Bus lines 7 and 11 connect the most important sights efficiently.",
+              "Many bus stops in the city center are covered and provide shelter.",
+              "Buses may experience slight delays during heavy rain due to traffic.",
+              "Wait for your next connection in one of the many cafes near the stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Bahnhof von Modena. Die gut beheizten Busse bringen Sie schnell zum Enzo-Ferrari-Museum. Mittags wärmen Sie sich in den Cafés rund um die Piazza Grande auf. Am Nachmittag bietet das Stadttheater eine prachtvolle Kulisse im warmen Innenraum. Der Tag endet an der Abtei San Pietro, bevor Sie gemütlich mit dem Bus zurückfahren.",
+            "hu": "Deres reggel a modenai vasútállomáson. A jól fűtött buszok gyorsan az Enzo Ferrari múzeumhoz viszik. Délben melegedjen fel a Piazza Grande környéki kávézókban. Délután a városi színház nyújt pompás és meleg belső teret. A nap a San Pietro apátságnál zárul, mielőtt kényelmesen visszabuszozna.",
+            "ro": "O dimineață geroasă la gara din Modena. Autobuzele bine încălzite vă duc rapid la Muzeul Enzo Ferrari. La prânz, încălziți-vă în cafenelele din jurul Piazza Grande. După-amiaza, teatrul municipal oferă un cadru somptuos la interior. Ziua se încheie la Abația San Pietro.",
+            "en": "A frosty morning at Modena Railway Station. Well-heated buses quickly take you to the Enzo Ferrari Museum. At noon, warm up in the cafes around Piazza Grande. In the afternoon, the Municipal Theatre provides a magnificent and warm indoor setting. The day concludes at the Abbey of San Pietro before a cozy bus ride back."
+          },
+          "stops": [
+            {
+              "name": "Modena Railway Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Warteraum im Bahnhof.",
+                "hu": "Használja a vasútállomás fűtött várótermét.",
+                "ro": "Folosiți sala de așteptare încălzită din interiorul gării.",
+                "en": "Make use of the heated waiting room inside the station building."
+              }
+            },
+            {
+              "name": "Enzo Ferrari Museum",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier drinnen herrlich warm und hell.",
+                "hu": "Télen itt bent kellemesen meleg és világos van.",
+                "ro": "Iarna, interiorul este minunat de cald și bine luminat.",
+                "en": "The museum interior is wonderfully warm and bright during winter."
+              }
+            },
+            {
+              "name": "Piazza Grande",
+              "tip_5lang": {
+                "de": "Der Busstopp 'Piazza Roma' ist oft der beste Einstieg.",
+                "hu": "A 'Piazza Roma' buszmegálló gyakran a legjobb felszállóhely.",
+                "ro": "Stația 'Piazza Roma' este adesea cel mai bun punct de acces.",
+                "en": "The 'Piazza Roma' bus stop is often the best access point nearby."
+              }
+            },
+            {
+              "name": "Modena Cathedral",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Krypta, dort ist es oft etwas wärmer.",
+                "hu": "Látogassa meg a kriptát, ott gyakran valamivel melegebb van.",
+                "ro": "Vizitați cripta, acolo este adesea puțin mai cald decât sus.",
+                "en": "Visit the crypt; it is often slightly warmer than the main nave."
+              }
+            },
+            {
+              "name": "Luciano Pavarotti Municipal Theatre",
+              "tip_5lang": {
+                "de": "Ein prachtvoller Ort, um der Winterkälte zu entfliehen.",
+                "hu": "Pompás hely a téli hideg elől való menekülésre.",
+                "ro": "Un loc magnific pentru a scăpa de frigul iernii.",
+                "en": "A magnificent place to escape the biting winter cold."
+              }
+            },
+            {
+              "name": "Abbey of San Pietro",
+              "tip_5lang": {
+                "de": "Beachten Sie die frühen Schließzeiten im Winter.",
+                "hu": "Ügyeljen a korai téli zárvatartási időkre.",
+                "ro": "Atenție la orele de închidere timpurii în timpul iernii.",
+                "en": "Be mindful of the earlier closing times during the winter season."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter eine warme Alternative zum Laufen.",
+              "Die Fahrpläne können an Feiertagen im Winter abweichen.",
+              "Warten Sie innerhalb von Geschäften oder Cafés auf den Bus.",
+              "Achten Sie auf vereiste Flächen an den Haltestellen.",
+              "Nutzen Sie die Abendstunden für Busfahrten durch die beleuchtete Stadt."
+            ],
+            "hu": [
+              "Télen a buszok meleg alternatívát jelentenek a gyalogláshoz képest.",
+              "A menetrendek téli ünnepnapokon eltérőek lehetnek.",
+              "Várja a buszt üzletekben vagy kávézókban a megálló közelében.",
+              "Ügyeljen a jeges felületekre a buszmegállók környékén.",
+              "Használja ki az esti órákat a kivilágított városon átvezető buszozásra."
+            ],
+            "ro": [
+              "Autobuzele sunt o alternativă caldă la mersul pe jos în timpul iernii.",
+              "Orarele pot varia în timpul sărbătorilor de iarnă.",
+              "Așteptați autobuzul în interiorul magazinelor sau cafenelelor din stații.",
+              "Atenție la porțiunile înghețate din zona stațiilor de autobuz.",
+              "Bucurați-vă de plimbările cu autobuzul prin orașul luminat festiv seara."
+            ],
+            "en": [
+              "Buses provide a warm and cozy alternative to walking in winter.",
+              "Check for special holiday schedules during the winter months.",
+              "Wait for your bus inside shops or cafes near the designated stops.",
+              "Watch out for icy patches on the pavement near the bus platforms.",
+              "Enjoy evening bus rides to see the city's beautiful winter illuminations."
+            ]
+          }
+        }
       }
     }
   },

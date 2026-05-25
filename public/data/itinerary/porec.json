@@ -326,6 +326,466 @@
           "Park outside the old town pedestrian zone.",
           "Tourist trains connect the center with the lagoons."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vormittag: Spaziergang durch die Decumanus-Straße und Besichtigung der Türme.\n\nMittag: Besuch der Euphrasius-Basilika, ein UNESCO-Weltkulturerbe.\n\nNachmittag: Entdeckung der römischen Ruinen am Marafor-Platz.\n\nAbend: Sonnenuntergang an der Uferpromenade und Abendessen in der Altstadt.",
+            "hu": "Délelőtt: Séta a Decumanus főutcán és a bástyák felfedezése.\n\nDélben: A világörökség részét képező Euphrasius-bazilika megtekintése.\n\nDélután: A Marafor tér római emlékei és a román stílusú házak.\n\nEste: Naplemente a kikötőben és vacsora egy hangulatos teraszon.",
+            "ro": "Dimineața: Plimbare pe strada Decumanus și explorarea turnurilor medievale.\n\nLa prânz: Vizitarea Bazilicii Eufraziene, sit inclus în patrimoniul UNESCO.\n\nDupă-amiaza: Descoperirea ruinelor romane din Piața Marafor.\n\nSeara: Apus de soare pe faleză și cină într-un restaurant tradițional.",
+            "en": "Morning: Walk along the Decumanus main street and explore the towers.\n\nMidday: Visit the Euphrasian Basilica, a stunning UNESCO World Heritage site.\n\nAfternoon: Discover Roman ruins at Marafor Square and old stone houses.\n\nEvening: Enjoy the sunset at the harbor followed by dinner in the old town."
+          },
+          "stops": [
+            {
+              "name": "Decumanus-Straße",
+              "tip_5lang": {
+                "de": "Bester Ort für den Morgenkaffee in der Altstadt.",
+                "hu": "A legjobb hely egy reggeli kávéhoz az óvárosban.",
+                "ro": "Cel mai bun loc pentru cafeaua de dimineață în orașul vechi.",
+                "en": "Best spot for morning coffee in the old town."
+              }
+            },
+            {
+              "name": "Fünfeckiger Turm",
+              "tip_5lang": {
+                "de": "Oben gibt es ein Restaurant mit toller Aussicht.",
+                "hu": "A tetején étterem működik, remek kilátással.",
+                "ro": "Există un restaurant în partea de sus cu o vedere excelentă.",
+                "en": "There is a restaurant at the top with a great view."
+              }
+            },
+            {
+              "name": "Zuccato-Palast",
+              "tip_5lang": {
+                "de": "Wunderschöne gotische Fassade, oft Kunstgalerie.",
+                "hu": "Gyönyörű gótikus homlokzat, gyakran művészeti galéria.",
+                "ro": "Fațadă gotică superbă, adesea galerie de artă.",
+                "en": "Beautiful Gothic facade, often hosts art galleries."
+              }
+            },
+            {
+              "name": "Euphrasius-Basilika",
+              "tip_5lang": {
+                "de": "UNESCO-Weltkulturerbe, die Mosaike sind ein Muss.",
+                "hu": "UNESCO Világörökség, a mozaikokat látni kell.",
+                "ro": "Patrimoniu UNESCO, mozaicurile sunt obligatorii.",
+                "en": "UNESCO Heritage site, the mosaics are a must-see."
+              }
+            },
+            {
+              "name": "Marafor-Platz",
+              "tip_5lang": {
+                "de": "Das alte römische Forum der Stadt.",
+                "hu": "A város egykori római fóruma.",
+                "ro": "Vechiul forum roman al orașului.",
+                "en": "The former Roman forum of the city."
+              }
+            },
+            {
+              "name": "Neptuntempel-Ruinen",
+              "tip_5lang": {
+                "de": "Überreste eines Tempels aus dem 1. Jahrhundert.",
+                "hu": "Egy 1. századi templom maradványai.",
+                "ro": "Rămășițele unui templu din secolul I.",
+                "en": "Remains of a 1st-century temple."
+              }
+            },
+            {
+              "name": "Romanisches Haus",
+              "tip_5lang": {
+                "de": "Markantes Gebäude mit Holzbalkon aus dem 13. Jh.",
+                "hu": "Jellegzetes 13. századi ház fafogattal.",
+                "ro": "Clădire distinctivă din sec. XIII cu balcon de lemn.",
+                "en": "Distinctive 13th-century house with a wooden balcony."
+              }
+            },
+            {
+              "name": "Runder Turm",
+              "tip_5lang": {
+                "de": "Teil der venezianischen Verteidigungsanlagen.",
+                "hu": "A velencei védelmi rendszer része.",
+                "ro": "Parte a fortificațiilor venețiene.",
+                "en": "Part of the Venetian defense system."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Fuži mit Trüffeln",
+                "tip": "Probieren Sie diese lokale Pasta im Restaurant Sv. Nikola."
+              },
+              {
+                "name": "Istrischer Schinken",
+                "tip": "In einer Konaba mit lokalem Olivenöl genießen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fuži szarvasgombával",
+                "tip": "Kóstolja meg a helyi tésztát a Sv. Nikola étteremben."
+              },
+              {
+                "name": "Isztriai pršut",
+                "tip": "Helyi olívaolajjal kísért füstölt sonka."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Fuži cu trufe",
+                "tip": "Gustați aceste paste locale la restaurantul Sv. Nikola."
+              },
+              {
+                "name": "Pršut istrian",
+                "tip": "Șuncă afumată servită cu ulei de măsline local."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fuži with truffles",
+                "tip": "Try this local pasta at Restaurant Sv. Nikola."
+              },
+              {
+                "name": "Istrian pršut",
+                "tip": "Smoked ham best enjoyed with local olive oil."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Insel Sveti Nikola",
+                "tip": "Kurze Bootsfahrt für ruhige Strände.",
+                "emoji": "🏝️"
+              },
+              {
+                "name": "Marafor-Ruinen",
+                "tip": "Ein stiller Ort am Ende der Halbinsel.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szent Miklós sziget",
+                "tip": "Rövid hajóút a nyugodt strandokért.",
+                "emoji": "🏝️"
+              },
+              {
+                "name": "Marafor romok",
+                "tip": "Csendes pont a félsziget végén.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Insula Sveti Nikola",
+                "tip": "O scurtă călătorie cu barca pentru plaje liniștite.",
+                "emoji": "🏝️"
+              },
+              {
+                "name": "Ruinele Marafor",
+                "tip": "Un loc liniștit la capătul peninsulei.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Sveti Nikola Island",
+                "tip": "Short boat trip for quiet beaches.",
+                "emoji": "🏝️"
+              },
+              {
+                "name": "Marafor Ruins",
+                "tip": "A quiet spot at the tip of the peninsula.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Poreč Markt",
+                "tip": "Lokaler Käse, Honig und Olivenöl."
+              },
+              {
+                "name": "Souvenirs aus Ton",
+                "tip": "Traditionelle istrische Keramik."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Poreči piac",
+                "tip": "Helyi sajtok, méz és olívaolaj."
+              },
+              {
+                "name": "Agyag ajándéktárgyak",
+                "tip": "Hagyományos isztriai kerámiák."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața din Poreč",
+                "tip": "Brânzeturi locale, miere și ulei de măsline."
+              },
+              {
+                "name": "Suveniruri din lut",
+                "tip": "Ceramică tradițională istriană."
+              }
+            ],
+            "en": [
+              {
+                "name": "Poreč Market",
+                "tip": "Local cheeses, honey, and olive oil."
+              },
+              {
+                "name": "Clay Souvenirs",
+                "tip": "Traditional Istrian ceramics."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Basilika schließt sonntags für Besichtigungen.",
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Parken Sie außerhalb der Altstadtzone.",
+              "Die touristischen Züge verbinden das Zentrum mit den Lagunen."
+            ],
+            "hu": [
+              "A bazilika vasárnap délután zárva van a látogatók előtt.",
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "Parkoljon az óvárosi zónán kívül.",
+              "A kisvasút összeköti a központot a lagúnákkal."
+            ],
+            "ro": [
+              "Bazilica este închisă pentru vizitare duminica.",
+              "Purtați încălțăminte comodă pentru străzile pietruite.",
+              "Parcați în afara zonei orașului vechi.",
+              "Trenulețele turistice fac legătura între centru și lagune."
+            ],
+            "en": [
+              "The Basilica is closed for tourists during Sunday services.",
+              "Wear comfortable shoes for the cobblestone streets.",
+              "Park outside the old town pedestrian zone.",
+              "Tourist trains connect the center with the lagoons."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens glänzen die Steine der Decumanus-Straße im Regen, während Sie unter Markisen Schutz suchen. Mittags bewundern Sie die Mosaike der Basilika, die im diffusen Licht besonders intensiv leuchten.\n\nNachmittags führt der Weg vorbei an den Neptun-Ruinen zu gemütlichen Cafés in historischen Mauern. Abends genießen Sie den Blick auf die peitschende Adria aus dem trockenen Inneren eines Wehrturms.",
+            "hu": "Reggel a Decumanus utca kövei csillognak az esőben, miközben az ereszek alatt keresünk menedéket. Délben a bazilika mozaikjai a szűrt fényben különleges intenzitással ragyognak.\n\nDélután a Neptun-templom romjai mellett elhaladva történelmi falak közé zárt kávézókba húzódunk. Este a tenger morajlását egy védett bástyatorony száraz belső teréből csodálhatjuk meg.",
+            "ro": "Dimineața, pietrele de pe strada Decumanus strălucesc în ploaie în timp ce căutați adăpost sub copertine. La prânz, admirați mozaicurile basilicii, care strălucesc intens în lumina difuză.\n\nDupă-amiaza, drumul trece pe lângă ruinele templului lui Neptun spre cafenele primitoare. Seara, admirați marea agitată din interiorul uscat al unui turn de apărare istoric.",
+            "en": "In the morning, the stones of Decumanus Street glisten in the rain as you find shelter under awnings. At noon, admire the mosaics of the Basilica, which glow intensely in the diffused light.\n\nIn the afternoon, pass the Neptune ruins toward cozy cafes hidden within historic walls. In the evening, enjoy the view of the lashing Adriatic from the dry interior of a historic defensive tower."
+          },
+          "stops": [
+            {
+              "name": "Decumanus-Straße",
+              "tip_5lang": {
+                "de": "Vorsicht, die glatten Kalksteine werden bei Nässe extrem rutschig.",
+                "hu": "Vigyázat, a sima mészkő burkolat vizesen rendkívül csúszóssá válik.",
+                "ro": "Atenție, pietrele de calcar devin extrem de alunecoase când sunt ude.",
+                "en": "Caution, the smooth limestone pavement becomes extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Fünfeckiger Turm",
+              "tip_5lang": {
+                "de": "Das Restaurant im Inneren bietet einen trockenen Rückzugsort mit Geschichte.",
+                "hu": "A toronyban működő étterem száraz és történelmi menedéket nyújt.",
+                "ro": "Restaurantul din interior oferă un refugiu uscat și plin de istorie.",
+                "en": "The restaurant inside provides a dry and historic retreat."
+              }
+            },
+            {
+              "name": "Zuccato-Palast",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für einen Besuch der Kunstgalerie im Inneren.",
+                "hu": "Használja ki az esőszünetet a bent működő művészeti galéria megtekintésére.",
+                "ro": "Profită de ploaie pentru a vizita galeria de artă din interior.",
+                "en": "Use the rain break to visit the art gallery located inside."
+              }
+            },
+            {
+              "name": "Euphrasius-Basilika",
+              "tip_5lang": {
+                "de": "Perfekter Ort bei Regen; die Innenräume und das Museum sind überdacht.",
+                "hu": "Tökéletes helyszín esőben; a belső terek és a múzeum fedettek.",
+                "ro": "Locație perfectă pe ploaie; interioarele și muzeul sunt acoperite.",
+                "en": "Perfect spot during rain; the interiors and museum are covered."
+              }
+            },
+            {
+              "name": "Marafor-Platz",
+              "tip_5lang": {
+                "de": "Die umliegenden Arkaden bieten Schutz vor kurzen Regenschauern.",
+                "hu": "A környező árkádok védelmet nyújtanak a rövid záporok elől.",
+                "ro": "Arcadele din jur oferă protecție împotriva ploilor scurte.",
+                "en": "The surrounding arcades offer protection from short rain showers."
+              }
+            },
+            {
+              "name": "Neptuntempel-Ruinen",
+              "tip_5lang": {
+                "de": "Betrachten Sie die antiken Säulen schnell von der gegenüberliegenden Bar.",
+                "hu": "Tekintse meg az ókori oszlopokat gyorsan a szemközti bár védelméből.",
+                "ro": "Observați coloanele antice rapid din barul de vizavi.",
+                "en": "View the ancient columns quickly from the shelter of the bar opposite."
+              }
+            },
+            {
+              "name": "Romanisches Haus",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im Obergeschoss, um trocken zu bleiben.",
+                "hu": "Látogasson el a felső emeleti kiállításokra, hogy szárazon maradjon.",
+                "ro": "Vizitați expozițiile de la etaj pentru a rămâne uscat.",
+                "en": "Visit the exhibitions upstairs to stay dry."
+              }
+            },
+            {
+              "name": "Runder Turm",
+              "tip_5lang": {
+                "de": "Die Bar auf der Terrasse ist teils überdacht, das Innere ist sicher.",
+                "hu": "A teraszon lévő bár részben fedett, a belső rész teljesen védett.",
+                "ro": "Barul de pe terasă este parțial acoperit, interiorul este sigur.",
+                "en": "The terrace bar is partially covered, the interior is safe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil wegen der rutschigen Gassen.",
+              "Die Basilika ist der beste Ort für längere Regenschauer.",
+              "Viele Cafés in der Altstadt haben gemütliche Innenräume.",
+              "Ein Regenschirm ist bei Wind oft unpraktisch, Regenjacken sind besser."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt a csúszós sikátorok miatt.",
+              "A bazilika a legjobb hely a hosszabb esőzések idejére.",
+              "Az óváros számos kávézója barátságos belső térrel vár.",
+              "Az esernyő a szél miatt gyakran kényelmetlen, az esőkabát jobb."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună din cauza străzilor alunecoase.",
+              "Basilica este cel mai bun loc în timpul ploilor prelungite.",
+              "Multe cafenele din orașul vechi au interioare primitoare.",
+              "O umbrelă este adesea impracticabilă pe vânt; pelerinele sunt mai bune."
+            ],
+            "en": [
+              "Wear shoes with good grip due to the slippery alleys.",
+              "The Basilica is the best place during prolonged rainfall.",
+              "Many cafes in the old town have cozy interiors.",
+              "An umbrella is often impractical due to wind; rain jackets are better."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am klaren Wintermorgen weht die Bora frisch durch den Decumanus, während die Stadt fast Ihnen allein gehört. Mittags bietet die Basilika eine andächtige Stille ohne die üblichen Touristenströme.\n\nDer Nachmittag am Hafen ist geprägt von scharfem Licht und weiten Horizonten. Den frühen Sonnenuntergang erleben Sie am besten bei einem heißen Getränk in einer der wenigen geöffneten Hafenbars.",
+            "hu": "A tiszta téli reggelen frissen fúj a bóra a Decumanus-on, miközben a város szinte csak az Öné. Délben a bazilika áhítatos csendet kínál a szokásos turistatömeg nélkül.\n\nA délután a kikötőben éles fényekkel és tágas távlatokkal telik. A korai naplementét leginkább egy forró ital mellett élvezhetjük a kevés nyitva tartó parti bár egyikében.",
+            "ro": "În dimineața senină de iarnă, vântul Bora suflă rece prin Decumanus, în timp ce orașul vă aparține aproape în întregime. La prânz, basilica oferă o liniște profundă, fără mulțimile obișnuite de turiști.\n\nDupă-amiaza în port este marcată de o lumină clară și orizonturi largi. Apusul devreme este savurat cel mai bine cu o băutură caldă într-unul dintre barurile deschise din port.",
+            "en": "On a clear winter morning, the Bora wind blows freshly through Decumanus while the city is almost yours alone. At noon, the Basilica offers a prayerful silence without the usual crowds.\n\nThe afternoon at the harbor is characterized by sharp light and wide horizons. The early sunset is best experienced with a hot drink in one of the few open harbor bars."
+          },
+          "stops": [
+            {
+              "name": "Decumanus-Straße",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich winddicht an, die Bora kann in den Gassen kühl sein.",
+                "hu": "Öltözzön szélállóan, a bóra hideg lehet a sikátorokban.",
+                "ro": "Îmbrăcați-vă cu haine rezistente la vânt, vântul Bora poate fi rece.",
+                "en": "Dress windproof, as the Bora wind can be chilly in the alleys."
+              }
+            },
+            {
+              "name": "Fünfeckiger Turm",
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick ohne Warteschlangen.",
+                "hu": "Élvezze a panorámát sorban állás nélkül.",
+                "ro": "Bucurați-vă de vederea panoramică fără cozi.",
+                "en": "Enjoy the panoramic view without the queues."
+              }
+            },
+            {
+              "name": "Zuccato-Palast",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um moderne kroatische Kunst zu entdecken.",
+                "hu": "Meleg hely a modern horvát művészet felfedezéséhez.",
+                "ro": "Un loc cald pentru a descoperi arta croată modernă.",
+                "en": "A warm place to discover modern Croatian art."
+              }
+            },
+            {
+              "name": "Euphrasius-Basilika",
+              "tip_5lang": {
+                "de": "In der Basilika ist es kühl, aber die Atmosphäre ist im Winter magisch.",
+                "hu": "A bazilikában hűvös van, de télen a hangulata varázslatos.",
+                "ro": "Este răcoare în basilică, dar atmosfera este magică iarna.",
+                "en": "It is cool inside the Basilica, but the atmosphere is magical in winter."
+              }
+            },
+            {
+              "name": "Marafor-Platz",
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist ideal für Fotos der antiken Pflaster.",
+                "hu": "A délutáni fény ideális az ókori kövezetről készült fotókhoz.",
+                "ro": "Lumina de după-amiază este ideală pentru fotografii ale pavajului antic.",
+                "en": "The afternoon light is ideal for photos of the ancient pavement."
+              }
+            },
+            {
+              "name": "Neptuntempel-Ruinen",
+              "tip_5lang": {
+                "de": "Kein Sommertrubel stört den Blick auf die korinthischen Kapitelle.",
+                "hu": "Semmi nyári nyüzsgés nem zavarja a korinthoszi oszlopfők látványát.",
+                "ro": "Nicio agitație de vară nu deranjează vederea capitelurilor corintice.",
+                "en": "No summer bustle disturbs the view of the Corinthian capitals."
+              }
+            },
+            {
+              "name": "Romanisches Haus",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten des kleinen Museums.",
+                "hu": "Ellenőrizze a kis múzeum téli nyitvatartását.",
+                "ro": "Verificați programul de iarnă al micului muzeu.",
+                "en": "Check the winter opening hours of the small museum."
+              }
+            },
+            {
+              "name": "Runder Turm",
+              "tip_5lang": {
+                "de": "Ein perfekter Abschluss mit Blick auf das winterliche Meer.",
+                "hu": "Tökéletes zárás kilátással a téli tengerre.",
+                "ro": "Un final perfect cu vedere la marea de iarnă.",
+                "en": "A perfect finish with a view of the wintry sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Einige Restaurants haben Winterpause, halten Sie sich an die Hauptstraße.",
+              "Zwiebelprinzip bei der Kleidung schützt vor dem Seewind.",
+              "Besuchen Sie die Basilika früh für das beste Tageslicht."
+            ],
+            "hu": [
+              "A nap télen már 16:30 körül lenyugszik.",
+              "Néhány étterem téli szünetet tart, maradjon a főutcán.",
+              "A réteges öltözködés véd a tengeri széltől.",
+              "Látogassa meg a bazilikát korán a legjobb fényért."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:30 iarna.",
+              "Unele restaurante sunt închise iarna, rămâneți pe strada principală.",
+              "Îmbrăcămintea în straturi protejează împotriva vântului marin.",
+              "Vizitați basilica devreme pentru cea mai bună lumină."
+            ],
+            "en": [
+              "The sun sets as early as 4:30 PM in winter.",
+              "Some restaurants take a winter break; stick to the main street.",
+              "Layered clothing protects against the sea wind.",
+              "Visit the Basilica early for the best daylight."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -532,6 +992,325 @@
           "Use the marked coastal bike paths.",
           "Be careful with pedestrians on the promenade."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vormittag: Kurzer Stopp in der Altstadt und dann Fahrt entlang der Küste.\n\nMittag: Entspannung und Schwimmen in der Plava Laguna.\n\nNachmittag: Rückfahrt auf dem Kiefernbeschatteten Lungomare.\n\nAbend: Rückgabe der Räder und Drink im Hafen.",
+            "hu": "Délelőtt: Rövid megálló az óvárosban, majd tekerés a part mentén.\n\nDélben: Pihenés és fürdés a Kék Lagúnánál (Plava Laguna).\n\nDélután: Visszaút a fenyőerdőkkel övezett Lungomare sétányon.\n\nEste: Biciklik leadása és egy ital a kikötőben.",
+            "ro": "Dimineața: Scurtă oprire în orașul vechi, apoi pedalare de-a lungul coastei.\n\nLa prânz: Relaxare și înot la Plava Laguna.\n\nDupă-amiaza: Întoarcere pe faleza Lungomare umbrită de pini.\n\nSeara: Returnarea bicicletelor și o băutură în port.",
+            "en": "Morning: Quick stop in the old town, then ride along the coast.\n\nMidday: Relax and swim at Plava Laguna.\n\nAfternoon: Return journey via the pine-shaded Lungomare promenade.\n\nEvening: Return the bikes and enjoy a drink at the harbor."
+          },
+          "stops": [
+            {
+              "name": "Fünfeckiger Turm",
+              "tip_5lang": {
+                "de": "Startpunkt an den Stadtmauern.",
+                "hu": "Kiindulópont a városfalaknál.",
+                "ro": "Punct de plecare la zidurile orașului.",
+                "en": "Starting point by the city walls."
+              }
+            },
+            {
+              "name": "Euphrasius-Basilika",
+              "tip_5lang": {
+                "de": "Fahrräder müssen draußen bleiben.",
+                "hu": "A bicikliket kint kell hagyni.",
+                "ro": "Bicicletele trebuie lăsate afară.",
+                "en": "Bikes must be left outside."
+              }
+            },
+            {
+              "name": "Lungomare",
+              "tip_5lang": {
+                "de": "Schöne Küstenfahrt Richtung Süden.",
+                "hu": "Szép parti út déli irányba.",
+                "ro": "Drum frumos pe coastă spre sud.",
+                "en": "Beautiful coastal ride heading south."
+              }
+            },
+            {
+              "name": "Plava Laguna",
+              "tip_5lang": {
+                "de": "Perfekt für eine Badepause.",
+                "hu": "Tökéletes egy fürdőzési szünethez.",
+                "ro": "Perfect pentru o pauză de înot.",
+                "en": "Perfect for a swimming break."
+              }
+            },
+            {
+              "name": "Runder Turm",
+              "tip_5lang": {
+                "de": "Zurück in der Stadt für einen Snack.",
+                "hu": "Vissza a városba egy kis harapnivalóra.",
+                "ro": "Înapoi în oraș pentru o gustare.",
+                "en": "Back in town for a snack."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Aba",
+                "tip": "Frische Meeresfrüchte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba Aba",
+                "tip": "Friss tengeri ételek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Aba",
+                "tip": "Fructe de mare proaspete."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Aba",
+                "tip": "Fresh seafood specialties."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Zelena Laguna",
+                "tip": "Ruhigere Buchten weiter südlich.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Zelena Laguna",
+                "tip": "Csendesebb öblök délebbre.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Zelena Laguna",
+                "tip": "Golfuri mai liniștite spre sud.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Zelena Laguna",
+                "tip": "Quieter bays further south.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bike Point",
+                "tip": "Ersatzteile und Verleih."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bike Point",
+                "tip": "Alkatrészek és kölcsönzés."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bike Point",
+                "tip": "Piese și închiriere."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bike Point",
+                "tip": "Parts and rental services."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die markierten Küstenwege.",
+              "Achten Sie auf Fußgänger am Lungomare."
+            ],
+            "hu": [
+              "Használja a kijelölt parti utakat.",
+              "Figyeljen a gyalogosokra a sétányon."
+            ],
+            "ro": [
+              "Folosiți pistele de coastă marcate.",
+              "Atenție la pietoni pe faleză."
+            ],
+            "en": [
+              "Use the marked coastal bike paths.",
+              "Be careful with pedestrians on the promenade."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den Küstenwegen, bietet aber leere Promenaden. Vormittags erkunden Sie die Altstadtfelsen, bevor Sie zur Basilika ausweichen.\n\nNachmittags radeln Sie entlang des Lungomare, wo die salzige Gischt und der Regen eins werden. Der Tag endet sicher in einer Fahrrad-freundlichen Garage oder Bar.",
+            "hu": "Az esőben tett biciklitúra óvatosságot igényel a parti utakon, de cserébe üres sétányokat kínál. Délelőtt az óvárosi sziklákat fedezzük fel, mielőtt a bazilikába húzódnánk.\n\nDélután a Lungomare mentén kerekezünk, ahol a sós tengeri permet és az eső eggyé válik. A napot biztonságban, egy kerékpáros-barát helyen zárjuk.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe drumurile de coastă, dar oferă promenade pustii. Dimineața explorați stâncile orașului vechi înainte de a vă refugia la basilică.\n\nDupă-amiaza pedalați de-a lungul Lungomare, unde stropii sărați și ploaia devin una. Ziua se încheie în siguranță într-un loc prietenos cu bicicliștii.",
+            "en": "A bike tour in the rain requires caution on coastal paths but offers empty promenades. In the morning, explore the old town rocks before retreating to the Basilica.\n\nIn the afternoon, cycle along the Lungomare, where salty spray and rain become one. The day ends safely in a bike-friendly spot."
+          },
+          "stops": [
+            {
+              "name": "Fünfeckiger Turm",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nah am Turm, um schnell ins Trockene zu kommen.",
+                "hu": "Parkoljon közel a toronyhoz, hogy gyorsan fedett helyre érjen.",
+                "ro": "Parcați bicicleta aproape de turn pentru a ajunge rapid la adăpost.",
+                "en": "Park your bike close to the tower to get under cover quickly."
+              }
+            },
+            {
+              "name": "Euphrasius-Basilika",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad auf dem gepflasterten Vorplatz sicher ab.",
+                "hu": "Helyezze le a biciklit biztonságosan a kövezett előtéren.",
+                "ro": "Lăsați bicicleta în siguranță în piațeta pavată.",
+                "en": "Park your bike safely in the paved forecourt."
+              }
+            },
+            {
+              "name": "Lungomare",
+              "tip_5lang": {
+                "de": "Achtung bei Pfützen, der Belag kann rutschig sein.",
+                "hu": "Vigyázat a tócsákkal, a burkolat csúszós lehet.",
+                "ro": "Atenție la bălți, suprafața poate fi alunecoasă.",
+                "en": "Watch out for puddles; the surface can be slippery."
+              }
+            },
+            {
+              "name": "Plava Laguna",
+              "tip_5lang": {
+                "de": "Die Pinien bieten einen natürlichen Schutz bei leichtem Nieselregen.",
+                "hu": "A fenyőfák természetes védelmet nyújtanak gyenge szemerkélésnél.",
+                "ro": "Pinii oferă o protecție naturală în caz de burniță ușoară.",
+                "en": "The pine trees offer natural protection during light drizzle."
+              }
+            },
+            {
+              "name": "Runder Turm",
+              "tip_5lang": {
+                "de": "Sichern Sie das Rad und wärmen Sie sich im Inneren des Turms auf.",
+                "hu": "Zárja le a biciklit és melegedjen fel a torony belsejében.",
+                "ro": "Asigurați bicicleta și încălziți-vă în interiorul turnului.",
+                "en": "Secure your bike and warm up inside the tower."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Bremsen, Nässe verlängert den Bremsweg.",
+              "Tragen Sie leuchtende Regenbekleidung für bessere Sichtbarkeit.",
+              "Meiden Sie sandige Wege, diese werden schnell schlammig.",
+              "Halten Sie sich an asphaltierte Küstenradwege."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, a víz meghosszabbítja a féktávot.",
+              "Viseljen élénk esőruházatot a jobb láthatóságért.",
+              "Kerülje a homokos utakat, ezek gyorsan sárossá válnak.",
+              "Maradjon az aszfaltozott parti kerékpárutakon."
+            ],
+            "ro": [
+              "Verificați frânele, umezeala prelungește distanța de frânare.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate.",
+              "Evitați potecile cu nisip, acestea devin rapid noroioase.",
+              "Rămâneți pe pistele de biciclete asfaltate de pe coastă."
+            ],
+            "en": [
+              "Check brakes; wetness increases braking distance.",
+              "Wear bright rain gear for better visibility.",
+              "Avoid sandy paths; they quickly become muddy.",
+              "Stick to paved coastal bike paths."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Poreč ist erfrischend und bietet ungehinderte Ausblicke auf die Adria. Vormittags erkunden Sie die historischen Türme bei kühler, klarer Luft.\n\nNachmittags führt die Tour zur Plava Laguna durch duftende Pinienwälder, die auch im Winter grün leuchten. Die Rückfahrt bei Sonnenuntergang bietet spektakuläre Farben über dem Meer.",
+            "hu": "A téli kerékpározás Porečben frissítő és akadálytalan kilátást nyújt az Adriára. Délelőtt a történelmi tornyokat fedezzük fel a hűvös, tiszta levegőben.\n\nDélután a túra a Plava Laguna felé vezet az illatos fenyőerdőkön át, melyek télen is zöldellnek. A naplementekor tett visszaút látványos színeket kínál a tenger felett.",
+            "ro": "Ciclismul de iarnă în Poreč este revigorant și oferă vederi asupra Adriaticii. Dimineața explorați turnurile istorice în aerul rece și curat.\n\nDupă-amiaza, turul duce spre Plava Laguna prin păduri de pini parfumate, care rămân verzi și iarna. Drumul de întoarcere la apus oferă culori spectaculoase deasupra mării.",
+            "en": "Winter cycling in Poreč is refreshing and offers clear views of the Adriatic. In the morning, explore the historic towers in the cool, clear air.\n\nIn the afternoon, the tour leads to Plava Laguna through fragrant pine forests that stay green in winter. The ride back at sunset offers spectacular colors over the sea."
+          },
+          "stops": [
+            {
+              "name": "Fünfeckiger Turm",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für Fotos der leeren Altstadtgassen.",
+                "hu": "Rövid megálló az üres óvárosi utcák fotózásához.",
+                "ro": "O scurtă oprire pentru fotografii ale străzilor pustii din orașul vechi.",
+                "en": "A short stop for photos of the empty old town streets."
+              }
+            },
+            {
+              "name": "Euphrasius-Basilika",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad und genießen Sie die Stille im Atrium.",
+                "hu": "Parkolja le a biciklit és élvezze az átrium csendjét.",
+                "ro": "Parcați bicicleta și bucurați-vă de liniștea din atrium.",
+                "en": "Park your bike and enjoy the silence in the atrium."
+              }
+            },
+            {
+              "name": "Lungomare",
+              "tip_5lang": {
+                "de": "Der Wind kann kräftig wehen; halten Sie den Lenker fest.",
+                "hu": "A szél erős lehet; fogja szorosan a kormányt.",
+                "ro": "Vântul poate sufla tare aici; țineți bine ghidonul.",
+                "en": "The wind can blow strongly; keep a firm grip on the handlebars."
+              }
+            },
+            {
+              "name": "Plava Laguna",
+              "tip_5lang": {
+                "de": "Genießen Sie den einsamen Strand und die klare Winterluft.",
+                "hu": "Élvezze a magányos strandot és a tiszta téli levegőt.",
+                "ro": "Bucurați-vă de plaja pustie și aerul curat de iarnă.",
+                "en": "Enjoy the lonely beach and the clear winter air."
+              }
+            },
+            {
+              "name": "Runder Turm",
+              "tip_5lang": {
+                "de": "Letzte Etappe; danach wartet ein heißer Tee in der Nähe.",
+                "hu": "Utolsó szakasz; utána egy forró tea vár a közelben.",
+                "ro": "Ultima etapă; după aceea vă așteaptă un ceai cald în apropiere.",
+                "en": "Final leg; a hot tea awaits nearby afterward."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Handschuhe, der Fahrtwind ist eisig.",
+              "Planen Sie die Rückkehr vor 16:30 Uhr ein.",
+              "Ein Buff oder Schal schützt den Hals vor der Meeresbrise.",
+              "Achten Sie auf Schattenbereiche, dort ist es kälter."
+            ],
+            "hu": [
+              "Viseljen meleg kesztyűt, a menetszél jeges.",
+              "Tervezze meg a visszaérkezést 16:30 előtt.",
+              "Egy csősál védi a nyakat a tengeri fuvallattól.",
+              "Ügyeljen az árnyékos szakaszokra, ott hidegebb lehet."
+            ],
+            "ro": [
+              "Purtați mănuși groase, vântul de deplasare este înghețat.",
+              "Planificați întoarcerea înainte de ora 16:30.",
+              "Un fular tip tub protejează gâtul de briza mării.",
+              "Atenție la zonele umbrite, acolo este mai frig."
+            ],
+            "en": [
+              "Wear warm gloves; the wind chill is icy.",
+              "Plan your return before 4:30 PM.",
+              "A buff or scarf protects your neck from the sea breeze.",
+              "Watch out for shaded areas; it is colder there."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -702,6 +1481,271 @@
           "Parking in the old town is almost impossible.",
           "Inland roads are curvy but scenic."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vormittag: Ausflug zur Baredine-Höhle im Hinterland.\n\nMittag: Rückkehr nach Poreč und Besuch der Altstadt.\n\nNachmittag: Fahrt zum Lim-Fjord für Austern.\n\nAbend: Dinner in einem Agroturizam außerhalb der Stadt.",
+            "hu": "Délelőtt: Kirándulás a Baredine-barlangba a hátországban.\n\nDélben: Visszatérés Porečbe és az óváros megtekintése.\n\nDélután: Autózás a Lim-fjordhoz osztrigát kóstolni.\n\nEste: Vacsora egy városon kívüli agroturizmusban.",
+            "ro": "Dimineața: Excursie la peștera Baredine din hinterland.\n\nLa prânz: Revenire în Poreč și vizitarea centrului vechi.\n\nDupă-amiaza: Conducere spre fiordul Lim pentru stridii.\n\nSeara: Cină la un agroturism în afara orașului.",
+            "en": "Morning: Trip to the Baredine Cave in the hinterland.\n\nMidday: Return to Poreč and explore the old town.\n\nAfternoon: Drive to Lim Fjord for fresh oysters.\n\nEvening: Dinner at an 'agroturizam' outside the city."
+          },
+          "stops": [
+            {
+              "name": "Baredine Höhle",
+              "tip_5lang": {
+                "de": "Höhle bei Poreč, kühl und beeindruckend.",
+                "hu": "Barlang Poreč mellett, hűvös és lenyűgöző.",
+                "ro": "Peșteră lângă Poreč, răcoroasă și impresionantă.",
+                "en": "Cave near Poreč, cool and impressive."
+              }
+            },
+            {
+              "name": "Euphrasius-Basilika",
+              "tip_5lang": {
+                "de": "Parken Sie beim großen Parkplatz 'Vrtovi'.",
+                "hu": "Parkoljon a nagy 'Vrtovi' parkolóban.",
+                "ro": "Parcați la parcarea mare 'Vrtovi'.",
+                "en": "Park at the large 'Vrtovi' parking lot."
+              }
+            },
+            {
+              "name": "Marafor-Platz",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz.",
+                "hu": "Rövid séta a parkolótól.",
+                "ro": "Scurtă plimbare de la parcare.",
+                "en": "Short walk from the parking area."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Lim Fjord Austern",
+                "tip": "Direkt am Wasser genießen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lim-fjordi osztriga",
+                "tip": "Közvetlenül a parton fogyasztva."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Stridii de Fiord Lim",
+                "tip": "Gustați-le direct pe malul apei."
+              }
+            ],
+            "en": [
+              {
+                "name": "Lim Fjord Oysters",
+                "tip": "Enjoy them fresh right by the water."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Lim-Kanal Aussicht",
+                "tip": "Toller Stopp an der Straße.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Lim-csatorna kilátó",
+                "tip": "Remek megálló az út mentén.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Belvedere Canal Lim",
+                "tip": "O oprire excelentă pe marginea drumului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Lim Canal Viewpoint",
+                "tip": "Great stop along the road.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Hinterland Olivenöl",
+                "tip": "Kauf direkt beim Erzeuger."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Hátországi olívaolaj",
+                "tip": "Vásárlás közvetlenül a termelőtől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline local",
+                "tip": "Cumpărați direct de la producător."
+              }
+            ],
+            "en": [
+              {
+                "name": "Hinterland Olive Oil",
+                "tip": "Buy directly from the producers."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parken in der Altstadt ist fast unmöglich.",
+              "Inland-Straßen sind kurvig aber schön."
+            ],
+            "hu": [
+              "Az óvárosi parkolás szinte lehetetlen.",
+              "A belső utak kanyargósak, de szépek."
+            ],
+            "ro": [
+              "Parcarea în orașul vechi e aproape imposibilă.",
+              "Drumurile interioare sunt virajate, dar frumoase."
+            ],
+            "en": [
+              "Parking in the old town is almost impossible.",
+              "Inland roads are curvy but scenic."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist die Baredine-Höhle das ideale Ziel bei Regen, da sie unter der Erde völlig wetterunabhängig ist. Danach parken Sie bequem nah an der Altstadt für die Basilika.\n\nDen Nachmittag verbringen Sie auf dem Marafor-Platz, wo Sie aus dem Autofenster oder einem nahen Café das historische Ambiente genießen. Die Fahrt durch die regnerische istrische Landschaft hat ihren ganz eigenen Charme.",
+            "hu": "Autóval a Baredine-barlang ideális célpont esőben, mivel a föld alatt teljesen időjárásfüggetlen. Ezután kényelmesen parkolhat az óváros közelében a bazilikához.\n\nA délutánt a Marafor-téren töltjük, ahol az autóablakból vagy egy közeli kávézóból élvezhetjük a történelmi környezetet. Az esős isztriai tájon való autózásnak megvan a maga sajátos bája.",
+            "ro": "Cu mașina, peștera Baredine este destinația ideală pe ploaie, fiind total independentă de vreme sub pământ. Apoi parcați confortabil lângă orașul vechi pentru basilică.\n\nDupă-amiaza o petreceți în piața Marafor, unde vă puteți bucura de ambianța istorică din mașină vagy dintr-o cafenea. Drumul prin peisajul istrian ploios are un farmec aparte.",
+            "en": "By car, the Baredine Cave is the ideal destination in rain, being completely weather-independent underground. Afterward, park conveniently near the old town for the Basilica.\n\nSpend the afternoon at Marafor Square, enjoying the historic ambiance from your car or a nearby cafe. Driving through the rainy Istrian countryside has its own unique charm."
+          },
+          "stops": [
+            {
+              "name": "Baredine Höhle",
+              "tip_5lang": {
+                "de": "Absolut wetterfest; die Temperatur in der Höhle ist immer konstant.",
+                "hu": "Teljesen időjárásálló; a barlang hőmérséklete mindig állandó.",
+                "ro": "Absolut rezistent la vreme; temperatura în peșteră este constantă.",
+                "en": "Completely weather-proof; the cave temperature is always constant."
+              }
+            },
+            {
+              "name": "Euphrasius-Basilika",
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz 'Viale' für einen kurzen Fußweg.",
+                "hu": "Használja a 'Viale' nagy parkolót a rövid séta érdekében.",
+                "ro": "Folosiți parcarea mare 'Viale' pentru o plimbare scurtă.",
+                "en": "Use the large 'Viale' parking lot for a short walk."
+              }
+            },
+            {
+              "name": "Marafor-Platz",
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Rand der Fußgängerzone für einen schnellen Blick.",
+                "hu": "Hajtson a sétálóövezet széléig egy gyors körbetekintéshez.",
+                "ro": "Conduceți până la marginea zonei pietonale pentru o privire rapidă.",
+                "en": "Drive to the edge of the pedestrian zone for a quick look."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Hauptparkplatz ist bei Regen oft weniger überfüllt.",
+              "Die Höhlenbesichtigung dauert etwa 40 Minuten und ist überdacht.",
+              "Fahren Sie vorsichtig auf den kurvigen Landstraßen bei Nässe.",
+              "In der Stadt gibt es mehrere Parkhäuser als trockene Alternative."
+            ],
+            "hu": [
+              "A főparkoló esőben gyakran kevésbé zsúfolt.",
+              "A barlangtúra kb. 40 percet vesz igénybe és fedett.",
+              "Vezessen óvatosan a kanyargós országutakon vizes időben.",
+              "A városban több parkolóház is kínál száraz alternatívát."
+            ],
+            "ro": [
+              "Parcarea principală este adesea mai puțin aglomerată pe ploaie.",
+              "Turul peșterii durează aproximativ 40 de minute și este acoperit.",
+              "Conduceți cu prudență pe drumurile rurale când sunt ude.",
+              "În oraș există mai multe parcări etajate ca alternativă uscată."
+            ],
+            "en": [
+              "The main parking lot is often less crowded in the rain.",
+              "The cave tour takes about 40 minutes and is covered.",
+              "Drive carefully on curvy country roads in wet conditions.",
+              "There are several parking garages in town as dry alternatives."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Fahrt nach Poreč bietet klare Sicht und stressfreie Parkplatzsuche. Vormittags ist die Baredine-Höhle mit ihren 14 Grad fast wärmer als die Außenluft.\n\nMittags erkunden Sie die Basilika in aller Ruhe. Der Nachmittag gehört der Fahrt entlang der Küste, wo die Wintersonne das Meer in tiefem Blau erstrahlen lässt, bevor Sie den Tag in der Altstadt ausklingen lassen.",
+            "hu": "A téli autózás Porečbe tiszta látási viszonyokat és stresszmentes parkolást kínál. Délelőtt a Baredine-barlang a maga 14 fokával szinte melegebb a kinti levegőnél.\n\nDélben teljes nyugalomban fedezzük fel a bazilikát. A délután a parti autózásé, ahol a téli nap mélykékre festi a tengert, mielőtt a napot az óvárosban zárnánk.",
+            "ro": "O călătorie de iarnă la Poreč oferă vizibilitate clară și parcare fără stres. Dimineața, peștera Baredine, cu cele 14 grade, este aproape mai caldă decât aerul de afară.\n\nLa prânz explorați basilica în liniște deplină. După-amiaza este dedicată drumului de-a lungul coastei, unde soarele de iarnă face marea să strălucească în albastru profund.",
+            "en": "A winter drive to Poreč offers clear views and stress-free parking. In the morning, the Baredine Cave, at 14 degrees, is almost warmer than the outside air.\n\nAt noon, explore the Basilica in total peace. The afternoon is dedicated to driving along the coast, where the winter sun turns the sea a deep blue, before finishing the day in town."
+          },
+          "stops": [
+            {
+              "name": "Baredine Höhle",
+              "tip_5lang": {
+                "de": "Angenehme 14 Grad das ganze Jahr über; ideal zum Aufwärmen.",
+                "hu": "Egész évben kellemes 14 fok; ideális felmelegedni.",
+                "ro": "14 grade plăcute tot anul; ideal pentru a vă încălzi.",
+                "en": "A pleasant 14 degrees year-round; ideal for warming up."
+              }
+            },
+            {
+              "name": "Euphrasius-Basilika",
+              "tip_5lang": {
+                "de": "Kostenlose Parkmöglichkeiten in der Nähe in der Nebensaison.",
+                "hu": "Ingyenes parkolási lehetőség a közelben a főszezonon kívül.",
+                "ro": "Posibilități de parcare gratuită în apropiere în extrasezon.",
+                "en": "Free parking options nearby during the off-season."
+              }
+            },
+            {
+              "name": "Marafor-Platz",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Rand und spazieren Sie kurz zum Tempel.",
+                "hu": "Parkoljon közvetlenül a szélen és sétáljon egyet a templomhoz.",
+                "ro": "Parcați chiar la margine și mergeți pe jos până la templu.",
+                "en": "Park right at the edge and take a short walk to the temple."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Viele Parkplätze sind im Winter kostenlos oder günstiger.",
+              "Die Höhle hat im Winter eingeschränkte Öffnungszeiten.",
+              "Achten Sie auf Wildwechsel auf den Landstraßen in der Dämmerung.",
+              "Nutzen Sie die Heizung im Auto zwischen den Stopps."
+            ],
+            "hu": [
+              "Sok parkoló télen ingyenes vagy olcsóbb.",
+              "A barlang télen korlátozottan van nyitva, ellenőrizze.",
+              "Ügyeljen a vadakra az országutakon a szürkületi órákban.",
+              "Használja az autó fűtését a megállók között."
+            ],
+            "ro": [
+              "Multe parcări sunt gratuite sau mai ieftine iarna.",
+              "Peștera are program redus iarna, verificați în prealabil.",
+              "Atenție la animalele sălbatice pe drumuri la amurg.",
+              "Folosiți încălzirea mașinii între opriri."
+            ],
+            "en": [
+              "Many parking spots are free or cheaper in winter.",
+              "The cave has limited opening hours in winter; check ahead.",
+              "Watch out for wildlife on country roads during twilight.",
+              "Use the car heater between stops to warm up."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -872,6 +1916,271 @@
           "The tourist train runs every 30 mins.",
           "Buy tickets from the driver."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vormittag: Ankunft mit dem Bus und Start in der Altstadt.\n\nMittag: Besuch der Basilika.\n\nNachmittag: Fahrt mit dem Touristenzug in den Süden.\n\nAbend: Rückkehr zum Bahnhof oder Fähre nach Venedig.",
+            "hu": "Délelőtt: Érkezés busszal, séta az óvárosban.\n\nDélben: A bazilika megtekintése.\n\nDélután: Utazás a kisvonattal délre a strandokhoz.\n\nEste: Visszatérés az állomásra vagy komp Velencébe.",
+            "ro": "Dimineața: Sosire cu autobuzul și start în orașul vechi.\n\nLa prânz: Vizitarea bazilicii.\n\nDupă-amiaza: Călătorie cu trenulețul turistic spre sud.\n\nSeara: Întoarcere la autogară sau feribot spre Veneția.",
+            "en": "Morning: Arrival by bus and start in the old town.\n\nMidday: Visit the Basilica.\n\nAfternoon: Ride the tourist train south to the beaches.\n\nEvening: Return to the station or ferry to Venice."
+          },
+          "stops": [
+            {
+              "name": "Busbahnhof Poreč",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt.",
+                "hu": "Központi csomópont.",
+                "ro": "Nod central de transport.",
+                "en": "Central transport hub."
+              }
+            },
+            {
+              "name": "Decumanus-Straße",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Busbahnhof.",
+                "hu": "Rövid séta a buszállomástól.",
+                "ro": "Scurtă plimbare de la autogară.",
+                "en": "Short walk from the bus station."
+              }
+            },
+            {
+              "name": "Touristenzug Haltestelle",
+              "tip_5lang": {
+                "de": "Nimmt Sie mit zu den Hotels und Stränden.",
+                "hu": "Elviszi a szállodákhoz és strandokhoz.",
+                "ro": "Vă duce la hoteluri și plaje.",
+                "en": "Takes you to hotels and beaches."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bistro Fontana",
+                "tip": "Günstig und gut am Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bistro Fontana",
+                "tip": "Olcsó és jó a kikötőben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bistro Fontana",
+                "tip": "Ieftin și bun în port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bistro Fontana",
+                "tip": "Good value near the harbor."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hafenmole",
+                "tip": "Ruhiger Blick aufs Meer.",
+                "emoji": "🌊"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötői móló",
+                "tip": "Nyugodt kilátás a tengerre.",
+                "emoji": "🌊"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Digul portului",
+                "tip": "Vedere liniștită spre mare.",
+                "emoji": "🌊"
+              }
+            ],
+            "en": [
+              {
+                "name": "Harbor Mole",
+                "tip": "Quiet sea views.",
+                "emoji": "🌊"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Duty Free",
+                "tip": "Am Fährterminal."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Duty Free",
+                "tip": "A kompterminálnál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Duty Free",
+                "tip": "La terminalul de feribot."
+              }
+            ],
+            "en": [
+              {
+                "name": "Duty Free",
+                "tip": "At the ferry terminal."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Touristenzug fährt alle 30 Min.",
+              "Fahrkarten beim Fahrer kaufen."
+            ],
+            "hu": [
+              "A kisvonat 30 percenként jár.",
+              "Jegyet a vezetőnél lehet venni."
+            ],
+            "ro": [
+              "Trenulețul circulă la 30 min.",
+              "Cumpărați bilete de la șofer."
+            ],
+            "en": [
+              "The tourist train runs every 30 mins.",
+              "Buy tickets from the driver."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Busbahnhof Poreč ist ein guter Startpunkt mit überdachten Wartebereichen. Von dort aus erreichen Sie schnell die Decumanus-Straße, während Sie den Regenpausen folgen.\n\nMittags bietet die Fahrt mit dem Touristenzug eine halbwegs trockene Möglichkeit, die Küste zu sehen. Den Nachmittag verbringen Sie in den Museen der Altstadt, bevor Sie den Bus zurück nehmen.",
+            "hu": "A poreči buszpályaudvar jó kiindulópont fedett váróterekkel. Innen gyorsan elérhető a Decumanus utca, követve az esőszüneteket.\n\nDélben a turistavonattal való utazás félig-meddig száraz módot kínál a part megtekintésére. A délutánt az óvárosi múzeumokban töltjük, mielőtt visszabuszoznánk.",
+            "ro": "Autogara Poreč este un punct de plecare bun, cu zone de așteptare acoperite. De acolo ajungeți rapid pe strada Decumanus, profitând de pauzele de ploaie.\n\nLa prânz, o călătorie cu trenulețul turistic oferă o variantă relativ uscată de a vedea coasta. După-amiaza o petreceți în muzeele orașului vechi.",
+            "en": "Poreč bus station is a good starting point with covered waiting areas. From there, you can quickly reach Decumanus Street by timing your moves with the rain breaks.\n\nAt noon, a ride on the tourist train offers a semi-dry way to see the coast. Spend the afternoon in the old town museums before taking the bus back."
+          },
+          "stops": [
+            {
+              "name": "Busbahnhof Poreč",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachte Wartehalle bei starkem Regen.",
+                "hu": "Használja a fedett várócsarnokot erős eső esetén.",
+                "ro": "Folosiți sala de așteptare acoperită în caz de ploaie torențială.",
+                "en": "Use the covered waiting hall during heavy rain."
+              }
+            },
+            {
+              "name": "Decumanus-Straße",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg vom Busbahnhof, ideal für Regenpausen.",
+                "hu": "Csak 5 perc séta a buszpályaudvartól, ideális az esőszünetekhez.",
+                "ro": "La doar 5 minute de mers de la autogară, ideal între ploi.",
+                "en": "Only a 5-minute walk from the bus station, ideal for rain breaks."
+              }
+            },
+            {
+              "name": "Touristenzug Haltestelle",
+              "tip_5lang": {
+                "de": "Der Zug ist teils seitlich offen; wählen Sie einen Innenplatz.",
+                "hu": "A vonat oldalt részben nyitott; válasszon belső ülőhelyet.",
+                "ro": "Trenulețul este parțial deschis; alegeți un loc în interior.",
+                "en": "The train is partially open on the sides; choose an inner seat."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan online, Züge können bei Sturm ausfallen.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zwischen den Haltestellen.",
+              "Die Busse sind im Winter und bei Regen oft beheizt.",
+              "Halten Sie Kleingeld oder eine Karte für das Ticket bereit."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet, viharban kimaradhatnak járatok.",
+              "Viseljen vízálló ruhát a megállók közötti szakaszokra.",
+              "A buszok télen és esőben gyakran fűtöttek.",
+              "Legyen kéznél aprópénz vagy kártya a jegyhez."
+            ],
+            "ro": [
+              "Verificați programul online, cursele pot fi anulate pe furtună.",
+              "Purtați haine impermeabile pentru drumul între stații.",
+              "Autobuzele sunt adesea încălzite iarna și pe ploaie.",
+              "Aveți pregătite mărunt sau un card pentru bilet."
+            ],
+            "en": [
+              "Check the schedule online; services may be cancelled in storms.",
+              "Wear waterproof clothing for the walks between stops.",
+              "Buses are often heated in winter and during rain.",
+              "Have change or a card ready for the ticket."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Öffentlicher Verkehr im winterlichen Poreč ist ruhig und zuverlässig. Vormittags starten Sie am Busbahnhof und genießen den kurzen Spaziergang in die windgeschützte Altstadt.\n\nMittags erkunden Sie die Decumanus-Straße ohne das Sommergedränge. Da der Touristenzug im Winter oft pausiert, nutzen Sie den Nachmittag für ausgiebige Besuche der Basilika und lokaler Galerien, bevor die Dämmerung einsetzt.",
+            "hu": "A tömegközlekedés a téli Porečben nyugodt és megbízható. Délelőtt a buszpályaudvarról indulva élvezzük a rövid sétát a szélvédett óvárosba.\n\nDélben a Decumanus utcát fedezzük fel a nyári tolongás nélkül. Mivel a turistavonat télen gyakran szünetel, a délutánt a bazilika és a galériák látogatására szánjuk.",
+            "ro": "Transportul public în Poreč iarna este liniștit și de încredere. Dimineața porniți de la autogară și vă bucurați de plimbarea scurtă spre orașul vechi ferit de vânt.\n\nLa prânz explorați strada Decumanus fără aglomerația de vară. Deoarece trenulețul turistic este adesea oprit iarna, folosiți după-amiaza pentru vizite la basilică.",
+            "en": "Public transport in winter Poreč is quiet and reliable. In the morning, start at the bus station and enjoy the short walk into the wind-sheltered old town.\n\nAt noon, explore Decumanus Street without the summer crowds. Since the tourist train often pauses in winter, use the afternoon for extensive visits to the Basilica and galleries."
+          },
+          "stops": [
+            {
+              "name": "Busbahnhof Poreč",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt, um schnell in die Wärme zu kommen.",
+                "hu": "Központi csomópont, ahonnan gyorsan meleg helyre érhetünk.",
+                "ro": "Punct central pentru a ajunge rapid la căldură.",
+                "en": "Central hub to get into the warmth quickly."
+              }
+            },
+            {
+              "name": "Decumanus-Straße",
+              "tip_5lang": {
+                "de": "Genießen Sie die weihnachtliche Beleuchtung in der Winterzeit.",
+                "hu": "Élvezze a karácsonyi kivilágítást a téli időszakban.",
+                "ro": "Bucurați-vă de iluminatul festiv în perioada de iarnă.",
+                "en": "Enjoy the Christmas lights during the winter season."
+              }
+            },
+            {
+              "name": "Touristenzug Haltestelle",
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab, ob der Zug im Winter überhaupt fährt.",
+                "hu": "Ellenőrizze előre, hogy a vonat közlekedik-e egyáltalán télen.",
+                "ro": "Verificați din timp dacă trenulețul circula iarna.",
+                "en": "Check in advance if the train runs at all in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Im Winter gelten reduzierte Fahrpläne, planen Sie Pufferzeiten ein.",
+              "Die Wartehäuschen bieten Schutz vor der kalten Bora.",
+              "Nutzen Sie regionale Busverbindungen für Ausflüge ins Umland.",
+              "Tickets können meist direkt beim Fahrer gekauft werden."
+            ],
+            "hu": [
+              "Télen ritkított menetrend érvényes, tervezzen ráhagyással.",
+              "A várók védelmet nyújtanak a hideg bóra elől.",
+              "Használja a helyközi buszokat a környékbeli kirándulásokhoz.",
+              "A jegyeket általában közvetlenül a vezetőnél lehet megvenni."
+            ],
+            "ro": [
+              "Iarna se aplică orare reduse, planificați timp suplimentar.",
+              "Stațiile oferă protecție împotriva vântului rece Bora.",
+              "Folosiți autobuzele regionale pentru excursii în împrejurimi.",
+              "Biletele pot fi cumpărate de obicei direct de la șofer."
+            ],
+            "en": [
+              "Reduced schedules apply in winter; allow for extra time.",
+              "The shelters provide protection from the cold Bora wind.",
+              "Use regional bus connections for excursions to the surrounding area.",
+              "Tickets can usually be bought directly from the driver."
+            ]
+          }
+        }
       }
     }
   },

@@ -230,6 +230,360 @@
           "The old town is almost entirely pedestrianized.",
           "Wear comfortable shoes for the cobblestone streets."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie das Herz von Trient auf dem Piazza Duomo und in der Kathedrale. Mittags bestaunen Sie die prächtigen bemalten Fassaden der Renaissance-Häuser. Nachmittags tauchen Sie in die Geschichte im Schloss Buonconsiglio ein. Abends lassen Sie den Tag in der stillen Abtei San Lorenzo ausklingen.",
+            "hu": "Reggel Trento szívét fedezi fel a Piazza Duomón és a katedrálisban. Délben a reneszánsz házak pompás festett homlokzatait csodálhatja meg. Délután elmerül a történelemben a Buonconsiglio kastélyban. Este a napot a csendes San Lorenzo apátságban zárja.",
+            "ro": "Dimineața explorați inima orașului Trento în Piazza Duomo și în catedrală. La prânz admirați fațadele pictate splendide ale caselor renascentiste. După-amiaza vă scufundați în istorie la Castelul Buonconsiglio. Seara încheiați ziua în liniștita abație San Lorenzo.",
+            "en": "In the morning, explore the heart of Trento at Piazza Duomo and the cathedral. At midday, admire the magnificent painted facades of the Renaissance houses. In the afternoon, immerse yourself in history at Buonconsiglio Castle. In the evening, end the day at the peaceful San Lorenzo Abbey."
+          },
+          "stops": [
+            {
+              "name": "Piazza Duomo",
+              "tip_5lang": {
+                "de": "Bewundern Sie den Neptunbrunnen.",
+                "hu": "Csodálja meg a Neptun-kutat.",
+                "ro": "Admirați Fântâna lui Neptun.",
+                "en": "Admire the Neptune Fountain."
+              }
+            },
+            {
+              "name": "Kathedrale San Vigilio",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Krypta.",
+                "hu": "Látogasson el a kriptába.",
+                "ro": "Vizitați cripta.",
+                "en": "Visit the crypt."
+              }
+            },
+            {
+              "name": "Torre Civica",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick von oben.",
+                "hu": "Élvezze a kilátást fentről.",
+                "ro": "Bucurați-vă de priveliștea de sus.",
+                "en": "Enjoy the view from the top."
+              }
+            },
+            {
+              "name": "Case Cazuffi-Rella",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Fresken.",
+                "hu": "Figyelje meg a freskókat.",
+                "ro": "Observați frescele.",
+                "en": "Look at the frescoes."
+              }
+            },
+            {
+              "name": "Castello del Buonconsiglio",
+              "tip_5lang": {
+                "de": "Der Adlerturm ist ein Muss.",
+                "hu": "A Sas-torony kötelező látnivaló.",
+                "ro": "Turnul Vulturului este obligatoriu.",
+                "en": "The Eagle Tower is a must-see."
+              }
+            },
+            {
+              "name": "Abtei San Lorenzo",
+              "tip_5lang": {
+                "de": "Ein Ort der Ruhe.",
+                "hu": "A nyugalom szigete.",
+                "ro": "Un loc de liniște.",
+                "en": "A place of peace."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Canederli",
+                "tip": "Probieren Sie diese Knödel bei 'Scrigno del Duomo'."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Canederli",
+                "tip": "Kóstolja meg ezeket a gombócokat a 'Scrigno del Duomo' étteremben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Canederli",
+                "tip": "Încercați aceste găluște la 'Scrigno del Duomo'."
+              }
+            ],
+            "en": [
+              {
+                "name": "Canederli",
+                "tip": "Try these dumplings at 'Scrigno del Duomo'."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Abtei San Lorenzo",
+                "tip": "Ein ruhiger Rückzugsort im Zentrum.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "San Lorenzo apátság",
+                "tip": "Csendes menedék a központban.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Abația San Lorenzo",
+                "tip": "Un refugiu liniștit în centru.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "San Lorenzo Abbey",
+                "tip": "A quiet retreat in the center.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Piazza Erbe",
+                "tip": "Lokaler Markt für frische Produkte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Piazza Erbe",
+                "tip": "Helyi piac friss termékekkel."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piazza Erbe",
+                "tip": "Piață locală pentru produse proaspete."
+              }
+            ],
+            "en": [
+              {
+                "name": "Piazza Erbe",
+                "tip": "Local market for fresh products."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Altstadt ist fast vollständig Fußgängerzone.",
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster."
+            ],
+            "hu": [
+              "Az óváros szinte teljesen sétálóövezet.",
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz."
+            ],
+            "ro": [
+              "Centrul vechi este aproape în întregime pietonal.",
+              "Purtați pantofi confortabili pentru pavajul cu piatră cubică."
+            ],
+            "en": [
+              "The old town is almost entirely pedestrianized.",
+              "Wear comfortable shoes for the cobblestone streets."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt auf der Piazza Duomo, wo die umliegenden Arkaden einen trockenen Weg zur Kathedrale bieten. Genießen Sie den Anblick des Neptunbrunnens aus dem Schutz der historischen Bogengänge.\n\nMittags bewundern Sie die freskierten Fassaden der Case Cazuffi-Rella. Die engen Gassen der Altstadt bieten hier oft natürlichen Schutz vor dem schlimmsten Regen.\n\nDer Nachmittag gehört ganz dem Castello del Buonconsiglio. Die weitläufigen Innenräume und Museen sind der ideale Ort, um Stunden im Trockenen zu verbringen und Kunst zu genießen.\n\nAm Abend glänzt das nasse Kopfsteinpflaster im Licht der Straßenlaternen bei der Abtei San Lorenzo. Ein stimmungsvoller Abschluss unter dem Regenschirm in der ruhigen Altstadt.",
+            "hu": "A reggel a Piazza Duomo árkádjai alatt indul, ahol szárazon közelíthetjük meg a székesegyházat. A Neptun-kút látványa az esőben is fenséges a történelmi boltívek oltalmából.\n\nDélben a Case Cazuffi-Rella freskókkal díszített homlokzatait csodálhatjuk meg, miközben a közeli beugrókban keresünk menedéket a zápor elől.\n\nA délutánt a Buonconsiglio-kastély vastag falai között töltjük. A múzeumi termek és folyosók tökéletes helyszínt biztosítanak a hosszú, tartalmas és száraz kikapcsolódáshoz.\n\nEste a vizes macskaköveken megcsillanó fények kísérnek utunkon a San Lorenzo apátság felé. A párás levegő különleges, misztikus hangulatot kölcsönöz a város középkori negyedének.",
+            "ro": "Dimineața începe în Piazza Duomo, unde porticurile din jur oferă o cale uscată către Catedrală. Admirați Fântâna lui Neptun din adăpostul arcadelor istorice.\n\nLa prânz, priviți fațadele pictate de la Case Cazuffi-Rella. Străzile înguste ale centrului vechi oferă protecție naturală împotriva ploii trecătoare.\n\nDupă-amiaza este dedicată Castelului Buonconsiglio. Interiorul vast și muzeele sunt refugiul perfect pentru a explora istoria fără a fi udat de stropii de ploaie.\n\nSeara, reflexiile luminilor pe pavajul umed de lângă Abația San Lorenzo creează o atmosferă melancolică și frumoasă, ideală pentru o plimbare liniștită sub umbrelă.",
+            "en": "Morning begins at Piazza Duomo, where the surrounding arcades offer a dry path to the majestic Cathedral. Admire Neptune's fountain from the shelter of historic stone arches.\n\nAt midday, observe the frescoed facades of Case Cazuffi-Rella. The narrow streets of the old town provide natural cover from the passing rain showers.\n\nThe afternoon is best spent within the thick walls of Buonconsiglio Castle. Its vast galleries and museum rooms are the ideal refuge for a dry and cultural stay.\n\nAs evening falls, the lights reflect on the wet cobblestones near San Lorenzo Abbey. The misty atmosphere adds a unique, cinematic charm to the end of your city walk."
+          },
+          "stops": [
+            {
+              "name": "Piazza Duomo",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden (Portici), um trocken um den Platz zu spazieren.",
+                "hu": "Használja a tér körüli árkádokat, hogy szárazon járhassa körbe a főteret.",
+                "ro": "Folosiți porticurile din jurul pieței pentru a rămâne uscat în timp ce explorați.",
+                "en": "Use the surrounding arcades (portici) to stay dry while walking around the square."
+              }
+            },
+            {
+              "name": "Kathedrale San Vigilio",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort mit beeindruckender Akustik bei Regen.",
+                "hu": "Csendes, száraz menedék lenyűgöző akusztikával az esős órákra.",
+                "ro": "Un refugiu liniștit și uscat, cu o acustică impresionantă în timpul ploii.",
+                "en": "A quiet, dry sanctuary with impressive acoustics during rainy hours."
+              }
+            },
+            {
+              "name": "Torre Civica",
+              "tip_5lang": {
+                "de": "Der Blick auf den Turm ist von den Cafés unter den Arkaden am besten.",
+                "hu": "A torony látványa az árkádok alatti kávézókból a legélvezetesebb.",
+                "ro": "Priveliștea turnului este cea mai bună din cafenelele de sub arcade.",
+                "en": "The view of the tower is best enjoyed from the cafes under the arcades."
+              }
+            },
+            {
+              "name": "Case Cazuffi-Rella",
+              "tip_5lang": {
+                "de": "Die Farben der Fresken wirken bei diffusem Regenlicht besonders intensiv.",
+                "hu": "A freskók színei a szórt esős fényben különösen intenzívnek tűnnek.",
+                "ro": "Culorile frescelor par deosebit de intense în lumina difuză de ploaie.",
+                "en": "The colors of the frescoes appear especially intense in the diffused rainy light."
+              }
+            },
+            {
+              "name": "Castello del Buonconsiglio",
+              "tip_5lang": {
+                "de": "Perfekt für einen langen Aufenthalt im Trockenen; viele überdachte Gänge.",
+                "hu": "Tökéletes helyszín hosszú, száraz programhoz; sok a fedett folyosó.",
+                "ro": "Perfect pentru o ședere lungă la uscat; multe coridoare acoperite.",
+                "en": "Perfect for a long dry stay; features many covered corridors and rooms."
+              }
+            },
+            {
+              "name": "Abtei San Lorenzo",
+              "tip_5lang": {
+                "de": "Ein mystischer Abschluss; die nahegelegenen Gebäude bieten Regenschutz.",
+                "hu": "Misztikus zárás; a közeli épületek védelmet nyújtanak az eső ellen.",
+                "ro": "Un final mistic; clădirile din apropiere oferă protecție împotriva ploii.",
+                "en": "A mystical end; nearby buildings offer shelter while you admire the facade."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Trient hat viele 'Portici' (Arkaden), die das Gehen bei Regen sehr erleichtern.",
+              "Besuchen Sie die unterirdische archäologische Stätte unter der Piazza Duomo.",
+              "Ein Regenschirm ist bei den kurzen Distanzen zwischen den Arkaden wichtig.",
+              "Die Museen in Trient sind großzügig klimatisiert und bieten Schließfächer.",
+              "Genießen Sie einen heißen Espresso in den Cafés an der Piazza Duomo."
+            ],
+            "hu": [
+              "Trento számos árkádsora ('Portici') megkönnyíti a közlekedést esőben is.",
+              "Látogassa meg a Piazza Duomo alatti föld alatti régészeti területet.",
+              "Az árkádok közötti rövid szakaszokon szükség lesz egy jó esernyőre.",
+              "A trentói múzeumok tágasak, temperáltak és ingyenes ruhatárral rendelkeznek.",
+              "Élvezzen egy forró kávét a Piazza Duomo valamelyik hangulatos árkádja alatt."
+            ],
+            "ro": [
+              "Trento are multe 'Portici' (arcade) care fac mersul pe ploaie mult mai ușor.",
+              "Vizitați situl arheologic subteran de sub Piazza Duomo pentru a rămâne la uscat.",
+              "O umbrelă este esențială pentru porțiunile scurte dintre arcade.",
+              "Muzeele din Trento sunt spațioase și oferă dulapuri pentru haine umede.",
+              "Savurați un espresso fierbinte în cafenelele adăpostite din Piazza Duomo."
+            ],
+            "en": [
+              "Trento features many 'Portici' (arcades) that make walking easy even in rain.",
+              "Visit the underground archaeological site beneath Piazza Duomo to stay dry.",
+              "An umbrella is still essential for the short gaps between covered walkways.",
+              "Trento's museums are spacious and offer lockers for your wet gear.",
+              "Enjoy a hot espresso in the sheltered cafes along Piazza Duomo."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen auf der Piazza Duomo. Der Brunnen glitzert im Frost, und die Bergluft ist erfrischend kalt. Starten Sie mit einem wärmenden Besuch in der Kathedrale.\n\nMittags schlendern Sie durch die weihnachtlich dekorierten Gassen zur Torre Civica. Die tiefstehende Sonne taucht die bemalten Fassaden in ein goldenes, winterliches Licht.\n\nDer Nachmittag im Castello del Buonconsiglio bietet Schutz vor der Kälte. Die historischen Säle sind stimmungsvoll und bieten eine Reise in die winterliche Vergangenheit der Region.\n\nSobald es gegen 17:00 Uhr dunkel wird, erstrahlt Trient im Lichterglanz. Der Abschluss bei der Abtei San Lorenzo ist besonders friedlich in der klaren Winterluft.",
+            "hu": "Ragyogó téli reggel a Piazza Duomo-n. A szökőkút vize megcsillan a fagyban, a hegyi levegő friss és csípős. Kezdje a napot a székesegyház meleg falai között.\n\nDélben a karácsonyi díszbe öltözött utcákon sétálunk a Torre Civica felé. Az alacsonyan járó nap arany fénybe vonja a festett homlokzatokat.\n\nA délutáni órákban a Buonconsiglio-kastély nyújt menedéket a hideg elől. A történelmi termekben sétálva elfelejtjük a kinti fagyot.\n\nAmint 17:00 körül leszáll az est, a város fényei felgyúlnak. A San Lorenzo apátság környéke ilyenkor különösen csendes és ünnepi a tiszta téli levegőben.",
+            "ro": "O dimineață senină de iarnă în Piazza Duomo. Fântâna sclipește în îngheț, iar aerul de munte este revigorant. Începeți cu o vizită încălzitoare în Catedrală.\n\nLa prânz, plimbați-vă pe străzile decorate festiv spre Torre Civica. Soarele de iarnă luminează fațadele pictate într-o nuanță aurie superbă.\n\nDupă-amiaza la Castelul Buonconsiglio oferă protecție împotriva frigului. Sălile istorice sunt pline de atmosferă și oferă o călătorie în trecutul regiunii.\n\nImediat ce se întunecă, în jur de ora 17:00, Trento strălucește sub luminițe. Finalul la Abația San Lorenzo este deosebit de liniștit în aerul rece al iernii.",
+            "en": "A crisp winter morning at Piazza Duomo. The fountain glitters in the frost, and the mountain air is refreshing. Start with a warming visit inside the Cathedral.\n\nAt midday, stroll through the festively decorated streets towards Torre Civica. The low winter sun casts a golden glow on the historic painted facades.\n\nThe afternoon at Buonconsiglio Castle provides a welcome break from the cold. The historic halls are atmospheric and offer a journey into the region's past.\n\nAs darkness falls around 17:00, Trento lights up beautifully. The final stop at San Lorenzo Abbey is especially peaceful in the clear, chilly winter air."
+          },
+          "stops": [
+            {
+              "name": "Piazza Duomo",
+              "tip_5lang": {
+                "de": "Vorsicht bei Frost auf den Steinplatten; genießen Sie die klare Bergsicht.",
+                "hu": "Vigyázzon a fagyos köveken; élvezze a tiszta kilátást a környező hegyekre.",
+                "ro": "Atenție la polei pe pietre; bucurați-vă de vederea clară spre munți.",
+                "en": "Watch out for icy patches on the stones; enjoy the clear mountain views."
+              }
+            },
+            {
+              "name": "Kathedrale San Vigilio",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Besichtigungen kurz aufzuwärmen.",
+                "hu": "Ideális helyszín egy rövid felmelegedéshez a városnézés közben.",
+                "ro": "Un loc ideal pentru a vă încălzi scurt timp între vizite.",
+                "en": "An ideal spot to warm up briefly between outdoor explorations."
+              }
+            },
+            {
+              "name": "Torre Civica",
+              "tip_5lang": {
+                "de": "Im Winter oft von den Lichtern des nahen Weihnachtsmarktes beleuchtet.",
+                "hu": "Télen gyakran a közeli karácsonyi vásár fényei világítják meg.",
+                "ro": "Iarna este adesea iluminat de luminile pieței de Crăciun din apropiere.",
+                "en": "In winter, it's often illuminated by the lights of the nearby Christmas market."
+              }
+            },
+            {
+              "name": "Case Cazuffi-Rella",
+              "tip_5lang": {
+                "de": "Die Fassaden wirken im tiefen Wintersonnenlicht besonders plastisch.",
+                "hu": "A homlokzatok az alacsony téli napsütésben különösen részletgazdagok.",
+                "ro": "Fațadele par deosebit de plastice în lumina joasă a soarelui de iarnă.",
+                "en": "The facades look especially detailed in the low-angled winter sunlight."
+              }
+            },
+            {
+              "name": "Castello del Buonconsiglio",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Adlerturm (Torre Aquila) für winterliche Freskenzyklen.",
+                "hu": "Látogassa meg a Torre Aquila-t a híres téli hónapokat ábrázoló freskókért.",
+                "ro": "Vizitați Torre Aquila pentru faimoasele fresce cu lunile de iarnă.",
+                "en": "Visit the Eagle Tower (Torre Aquila) for its famous winter-themed frescoes."
+              }
+            },
+            {
+              "name": "Abtei San Lorenzo",
+              "tip_5lang": {
+                "de": "Nach Sonnenuntergang (ca. 16:45) ist die Beleuchtung sehr stimmungsvoll.",
+                "hu": "Naplemente után (kb. 16:45) a kivilágítás rendkívül hangulatos.",
+                "ro": "După apus (aprox. 16:45), iluminarea este foarte sugestivă.",
+                "en": "After sunset (approx. 16:45), the lighting is extremely atmospheric."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Trient ist berühmt für seine Weihnachtsmärkte (Nov-Jan).",
+              "Tragen Sie warme Schichten; die Temperaturen sinken nach 16:00 rapide.",
+              "Probieren Sie 'Vin Brulé' (Glühwein) an den Ständen in der Altstadt.",
+              "Die Museen sind im Winter gut beheizt und bieten eine warme Pause.",
+              "Die Sonne geht hinter den Bergen früh unter, planen Sie Tageslicht ein."
+            ],
+            "hu": [
+              "Trento híres a karácsonyi vásárairól (novembertől januárig).",
+              "Öltözzön rétegesen; a hőmérséklet 16:00 után gyorsan zuhan.",
+              "Kóstolja meg a 'Vin Brulé'-t (forralt bort) az óvárosi bódéknál.",
+              "A múzeumok télen jól fűtöttek, kiválóak egy kis melegedéshez.",
+              "A nap korán bebújik a hegyek mögé, tervezze a programot a világos órákra."
+            ],
+            "ro": [
+              "Trento este faimos pentru piețele sale de Crăciun (noiembrie-ianuarie).",
+              "Purtați haine în mai multe straturi; temperatura scade brusc după ora 16:00.",
+              "Gustați 'Vin Brulé' (vin fiert) la tarabele din centrul vechi.",
+              "Muzeele sunt bine încălzite iarna și oferă o pauză binemeritată.",
+              "Soarele apune devreme după munți, planificați activitățile cu lumină naturală."
+            ],
+            "en": [
+              "Trento is famous for its Christmas markets (Nov-Jan).",
+              "Wear warm layers; temperatures drop rapidly after 16:00.",
+              "Try 'Vin Brulé' (mulled wine) at the stands in the old town.",
+              "Museums are well-heated in winter, offering a cozy break from the cold.",
+              "The sun sets early behind the mountains, so plan for daylight hours."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -436,6 +790,333 @@
           "Use the Adige cycle path for flat routes.",
           "Always lock your bike securely."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Domplatz und radeln Sie zum modernen Stadtviertel 'Le Albere' zum MUSE. Nach einer ausgiebigen Entdeckungstour geht es am Fluss Etsch entlang zur Seilbahn. Schweben Sie hinauf nach Sardagna für einen Ausblick über das Tal. Zum Abschluss besuchen Sie das Mausoleum auf dem Doss Trento.",
+            "hu": "Induljon a Dóm térről, és tekerjen a modern 'Le Albere' negyedbe a MUSE múzeumhoz. Egy alapos felfedezés után az Adige folyó mentén haladjon a felvonóig. Repüljön fel Sardagnába a völgyre nyíló kilátásért. Végül látogasson el a Doss Trentón található mauzóleumhoz.",
+            "ro": "Porniți din Piața Domului și pedalați spre cartierul modern „Le Albere” la muzeul MUSE. După o explorare amănunțită, mergeți de-a lungul râului Adige până la telecabină. Urcați la Sardagna pentru o vedere asupra văii. La final, vizitați mausoleul de pe Doss Trento.",
+            "en": "Start at Cathedral Square and cycle to the modern 'Le Albere' district to the MUSE museum. After a thorough exploration, ride along the Adige River to the cable car. Soar up to Sardagna for a view over the valley. Finally, visit the mausoleum on Doss Trento."
+          },
+          "stops": [
+            {
+              "name": "Piazza Duomo",
+              "tip_5lang": {
+                "de": "Startpunkt im Zentrum.",
+                "hu": "Kiindulópont a központban.",
+                "ro": "Punct de plecare în centru.",
+                "en": "Starting point in the center."
+              }
+            },
+            {
+              "name": "MUSE - Wissenschaftsmuseum",
+              "tip_5lang": {
+                "de": "Von Renzo Piano entworfen.",
+                "hu": "Renzo Piano tervezte.",
+                "ro": "Proiectat de Renzo Piano.",
+                "en": "Designed by Renzo Piano."
+              }
+            },
+            {
+              "name": "Palazzo delle Albere",
+              "tip_5lang": {
+                "de": "Direkt neben dem MUSE.",
+                "hu": "Közvetlenül a MUSE mellett.",
+                "ro": "Chiar lângă MUSE.",
+                "en": "Right next to MUSE."
+              }
+            },
+            {
+              "name": "Seilbahn Trient-Sardagna",
+              "tip_5lang": {
+                "de": "Fahrradmitnahme möglich.",
+                "hu": "Kerékpár szállítható.",
+                "ro": "Se pot transporta biciclete.",
+                "en": "Bicycles can be taken on board."
+              }
+            },
+            {
+              "name": "Mausoleum von Cesare Battisti",
+              "tip_5lang": {
+                "de": "Bester Panoramablick.",
+                "hu": "A legjobb panoráma.",
+                "ro": "Cea mai bună panoramă.",
+                "en": "Best panoramic view."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Strudel",
+                "tip": "Perfekt für eine Pause im 'Caffè de la Paix'."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Rétes",
+                "tip": "Tökéletes pihenő a 'Caffè de la Paix'-ben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Strudel",
+                "tip": "Perfect pentru o pauză la 'Caffè de la Paix'."
+              }
+            ],
+            "en": [
+              {
+                "name": "Strudel",
+                "tip": "Perfect for a break at 'Caffè de la Paix'."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Sardagna Aussichtspunkt",
+                "tip": "Über der Stadt schweben.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sardagna kilátó",
+                "tip": "A város felett lebegve.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punct de belvedere Sardagna",
+                "tip": "Plutind deasupra orașului.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Sardagna viewpoint",
+                "tip": "Floating above the city.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Palazzo Roccabruna",
+                "tip": "Enothek mit lokalen Weinen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Palazzo Roccabruna",
+                "tip": "Enotéka helyi borokkal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Palazzo Roccabruna",
+                "tip": "Enotecă cu vinuri locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Palazzo Roccabruna",
+                "tip": "Enoteca with local wines."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie den Etschradweg für flache Strecken.",
+              "Schließen Sie Ihr Fahrrad immer gut ab."
+            ],
+            "hu": [
+              "Használja az Adige kerékpárutat a sík terepért.",
+              "Mindig zárja le jól a kerékpárját."
+            ],
+            "ro": [
+              "Folosiți pista de biciclete Adige pentru trasee plane.",
+              "Încuiați întotdeauna bine bicicleta."
+            ],
+            "en": [
+              "Use the Adige cycle path for flat routes.",
+              "Always lock your bike securely."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start auf der Piazza Duomo. Rüsten Sie Ihr Fahrrad mit Schutzblechen aus, bevor Sie zügig zum MUSE aufbrechen.\n\nDen Großteil des Mittags verbringen Sie im MUSE. Das hochmoderne Wissenschaftsmuseum bietet stundenlangen Schutz vor dem Regen in einer spektakulären Architektur.\n\nAm Nachmittag nutzen Sie die Seilbahn nach Sardagna. Die Kabine ist trocken und bietet einen dramatischen Blick auf das verregnete Etschtal.\n\nDer Abend endet mit einer kurzen Fahrt zum Mausoleum. Der Regen lässt die Stadtlichter im Tal besonders hell funkeln.",
+            "hu": "Vizes kezdés a Piazza Duomo-n. Készítse fel kerékpárját sárvédőkkel, mielőtt gyorsan elindulna a MUSE felé.\n\nA dél körüli órákat a MUSE-ben töltjük. A modern természettudományi múzeum órákig tartó menedéket nyújt a zápor elől.\n\nDélután a Sardagna felvonót vesszük igénybe. A kabin száraz, és drámai kilátást nyújt az eső áztatta Adige-völgyre.\n\nAz este egy rövid tekeréssel zárul a mauzóleumig. Az esőben a völgy fényei különösen élesen csillognak.",
+            "ro": "Un început umed în Piazza Duomo. Echipați-vă bicicleta cu aripi înainte de a porni rapid spre MUSE.\n\nPetreceți cea mai mare parte a amiezii la MUSE. Muzeul modern de știință oferă ore întregi de adăpost într-o arhitectură spectaculoasă.\n\nDupă-amiaza, folosiți telecabina spre Sardagna. Cabina este uscată și oferă o vedere dramatică asupra văii Etsch inundate de ploaie.\n\nSeara se încheie cu o scurtă plimbare spre Mausoleu. Ploaia face ca luminile orașului din vale să sclipească intens.",
+            "en": "A wet start at Piazza Duomo. Ensure your bike has mudguards before cycling quickly towards the MUSE museum.\n\nSpend most of the midday at MUSE. This ultra-modern science museum offers hours of shelter from the rain in a spectacular setting.\n\nIn the afternoon, take the cable car to Sardagna. The cabin is dry and provides a dramatic view of the rainy Adige valley.\n\nClosing the day with a short ride to the Mausoleum. The rain makes the valley lights sparkle with extra intensity."
+          },
+          "stops": [
+            {
+              "name": "Piazza Duomo",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon az elinduláskor a csúszós macskakövön.",
+                "ro": "Atenție la plecarea de pe loc pe pavajul umed.",
+                "en": "Be careful when starting off on wet cobblestones."
+              }
+            },
+            {
+              "name": "MUSE - Wissenschaftsmuseum",
+              "tip_5lang": {
+                "de": "Großzügige Fahrradständer direkt am Eingang vorhanden.",
+                "hu": "Tágas kerékpártárolók találhatók közvetlenül a bejáratnál.",
+                "ro": "Rasteluri generoase pentru biciclete disponibile chiar la intrare.",
+                "en": "Ample bike racks available right at the museum entrance."
+              }
+            },
+            {
+              "name": "Palazzo delle Albere",
+              "tip_5lang": {
+                "de": "Der Parkweg kann bei starkem Regen matschig sein.",
+                "hu": "A parki ösvény heves esőzéskor sáros lehet.",
+                "ro": "Aleea parcului poate fi noroioasă în caz de ploaie abundentă.",
+                "en": "The park path can get muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Seilbahn Trient-Sardagna",
+              "tip_5lang": {
+                "de": "Fahrradmitnahme in der Kabine ist problemlos möglich.",
+                "hu": "A kerékpár szállítása a kabinban zökkenőmentesen megoldható.",
+                "ro": "Transportul bicicletei în cabină este posibil fără probleme.",
+                "en": "Bikes can be easily transported inside the cable car cabin."
+              }
+            },
+            {
+              "name": "Mausoleum von Cesare Battisti",
+              "tip_5lang": {
+                "de": "Steiler Anstieg; bei Nässe auf die Bremsen achten.",
+                "hu": "Meredek emelkedő; nedves úton ügyeljen a fékekre.",
+                "ro": "Urcare abruptă; atenție la frâne pe carosabil umed.",
+                "en": "Steep climb; pay attention to your brakes on wet surfaces."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Kleidung und Überschuhe beim Radfahren.",
+              "Meiden Sie Straßenmarkierungen, da diese bei Nässe sehr rutschig sind.",
+              "Das MUSE hat Schließfächer für nasse Helme und Jacken.",
+              "Die Seilbahn ist ein idealer 'trockener' Transfer nach Sardagna.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Fahrt durch das hügelige Gelände."
+            ],
+            "hu": [
+              "Viseljen vízálló ruházatot és cipővédőt a kerékpározáshoz.",
+              "Kerülje az útburkolati jeleket, mert nedvesen rendkívül csúszósak.",
+              "A MUSE-ben vannak szekrények a vizes sisakok és kabátok számára.",
+              "A felvonó tökéletes 'száraz' átkelést biztosít Sardagnába.",
+              "Ellenőrizze a fékeket a dombos terepen való indulás előtt."
+            ],
+            "ro": [
+              "Purtați îmbrăcăminte impermeabilă și protecții pentru pantofi.",
+              "Evitați marcajele rutiere, deoarece sunt foarte alunecoase pe ploaie.",
+              "MUSE are dulapuri pentru căștile și jachetele umede.",
+              "Telecabina este un transfer 'uscat' ideal către Sardagna.",
+              "Verificați plăcuțele de frână înainte de a porni pe terenul deluros."
+            ],
+            "en": [
+              "Wear waterproof clothing and shoe covers for cycling.",
+              "Avoid road markings as they become very slippery when wet.",
+              "MUSE offers lockers for your wet helmets and jackets.",
+              "The cable car is an ideal 'dry' transfer to Sardagna.",
+              "Check your brake pads before riding through hilly terrain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start auf der Piazza Duomo. Ziehen Sie sich warm an, bevor Sie am Fluss entlang zum MUSE radeln.\n\nMittags ist das MUSE der perfekte Ort, um die Kälte zu vergessen. Die tropischen Gewächshäuser im Inneren bieten einen starken Kontrast zum Winter draußen.\n\nNachmittags schweben Sie mit der Seilbahn nach oben. Sardagna bietet im Winter oft einen schneebedeckten Blick auf die umliegenden Dolomiten.\n\nDer Abend endet mit einer kühlen Abfahrt vom Mausoleum. Die Stadtlichter im Tal wirken in der klaren Winterluft besonders scharf.",
+            "hu": "Fagyos kezdés a Piazza Duomo-n. Öltözzön melegen, mielőtt a folyó mentén eltekernénk a MUSE-ig.\n\nDélben a MUSE a tökéletes hely a felmelegedésre. A belső trópusi üvegház éles kontrasztot mutat a kinti téllel.\n\nDélután a felvonóval emelkedünk a magasba. Sardagna télen gyakran hófödte kilátást nyújt a környező Dolomitokra.\n\nAz este hűvös lejtmenettel zárul a mauzóleumtól. A völgy fényei a tiszta téli levegőben különösen élesen látszanak.",
+            "ro": "Un început geros în Piazza Duomo. Îmbrăcați-vă bine înainte de a pedala de-a lungul râului spre MUSE.\n\nLa prânz, MUSE este locul perfect pentru a uita de frig. Sera tropicală din interior oferă un contrast puternic cu iarna de afară.\n\nDupă-amiaza, plutiți cu telecabina spre înălțimi. Sardagna oferă iarna adesea o vedere înzăpezită asupra Dolomiților din jur.\n\nSeara se încheie cu o coborâre răcoroasă de la Mausoleu. Luminile orașului din vale par foarte clare în aerul rece.",
+            "en": "A frosty start at Piazza Duomo. Dress in warm layers before cycling along the river path to the MUSE museum.\n\nAt midday, MUSE is the perfect place to escape the cold. The indoor tropical greenhouse offers a warm contrast to the winter outside.\n\nIn the afternoon, glide up with the cable car. Sardagna often provides a snow-capped view of the surrounding Dolomites in winter.\n\nThe day ends with a cool descent from the Mausoleum. The city lights in the valley appear exceptionally sharp in the clear winter air."
+          },
+          "stops": [
+            {
+              "name": "Piazza Duomo",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die morgendliche Fahrt unerlässlich.",
+                "hu": "A kesztyű elengedhetetlen a reggeli tekeréshez.",
+                "ro": "Mănușile sunt esențiale pentru plimbarea de dimineață.",
+                "en": "Gloves are essential for the morning ride."
+              }
+            },
+            {
+              "name": "MUSE - Wissenschaftsmuseum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Winterkleidung abzulegen.",
+                "hu": "Használja a ruhatárat a nehéz téli ruhák leadásához.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă.",
+                "en": "Use the cloakroom to drop off heavy winter gear."
+              }
+            },
+            {
+              "name": "Palazzo delle Albere",
+              "tip_5lang": {
+                "de": "Im Winter oft von einer dünnen Frostschicht überzogen.",
+                "hu": "Télen gyakran vékony zúzmara borítja az épület környékét.",
+                "ro": "Iarna este adesea acoperit de un strat subțire de brumă.",
+                "en": "Often covered by a thin layer of frost in winter mornings."
+              }
+            },
+            {
+              "name": "Seilbahn Trient-Sardagna",
+              "tip_5lang": {
+                "de": "Die Wartebereiche sind im Winter angenehm temperiert.",
+                "hu": "A várakozóhelyiségek télen kellemesen temperáltak.",
+                "ro": "Zonele de așteptare sunt încălzite corespunzător iarna.",
+                "en": "Waiting areas are comfortably tempered during winter."
+              }
+            },
+            {
+              "name": "Mausoleum von Cesare Battisti",
+              "tip_5lang": {
+                "de": "Bester Platz für den frühen Sonnenuntergang über den Bergen.",
+                "hu": "A legjobb hely a korai hegyi naplemente megtekintéséhez.",
+                "ro": "Cel mai bun loc pentru a vedea apusul timpuriu peste munți.",
+                "en": "Best spot to watch the early sunset over the mountains."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schützen Sie Ihr Gesicht vor dem kalten Fahrtwind (Schal/Maske).",
+              "Achten Sie auf Glatteis auf den Radwegen entlang der Etsch.",
+              "Halten Sie die Fahrten kurz und planen Sie Aufwärmstopps ein.",
+              "Ein heißer Tee in Sardagna hilft gegen die Kälte oben.",
+              "Die Lichtverhältnisse ändern sich ab 16:30 Uhr rapide."
+            ],
+            "hu": [
+              "Védje arcát a hideg menetszéltől sállal vagy maszkkal.",
+              "Ügyeljen a jegesedésre az Adige menti kerékpárutakon.",
+              "Tartsa röviden a kinti szakaszokat, tervezzen be melegedőket.",
+              "Egy forró tea Sardagnában segít a fenti hideg ellen.",
+              "A látási viszonyok 16:30 után gyorsan változnak."
+            ],
+            "ro": [
+              "Protejați-vă fața de vântul rece (folosiți un fular sau o mască).",
+              "Atenție la porțiunile înghețate de pe pistele de lângă Etsch.",
+              "Păstrați traseele scurte și planificați opriri pentru încălzire.",
+              "Un ceai fierbinte în Sardagna ajută împotriva frigului de sus.",
+              "Condițiile de lumină se schimbă rapid începând cu ora 16:30."
+            ],
+            "en": [
+              "Protect your face from the cold wind (use a scarf or mask).",
+              "Watch out for icy spots on the bike paths along the Adige river.",
+              "Keep riding segments short and plan for frequent warm-up stops.",
+              "A hot tea in Sardagna helps against the chill at the top.",
+              "Light conditions change rapidly starting from 16:30."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -642,6 +1323,333 @@
           "Look out for blue parking markings (paid).",
           "Avoid the afternoon rush hour."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vormittags erkunden Sie die prächtige Residenz der Fürstbischöfe im Schloss. Danach geht es zum Domplatz für einen Espresso. Mittags tauchen Sie in die moderne Wissenschaft im MUSE ein. Den Nachmittag verbringen Sie auf dem geschichtsträchtigen Doss Trento und beenden den Tag mit einem Weitblick von Ravina aus.",
+            "hu": "Délelőtt a hercegérsekek pompás rezidenciáját fedezi fel a kastélyban. Ezután irány a Dóm tér egy eszpresszóra. Délben elmerül a modern tudományban a MUSE-ban. A délutánt a történelmi Doss Trentón tölti, a napot pedig Ravina távoli kilátásával zárja.",
+            "ro": "Dimineața explorați reședința splendidă a prinților-episcopi la castel. Apoi mergeți în Piața Domului pentru un espresso. La prânz vă scufundați în știința modernă la MUSE. Petreceți după-amiaza pe istoricul Doss Trento și încheiați ziua cu o priveliște largă de la Ravina.",
+            "en": "In the morning, explore the magnificent residence of the prince-bishops at the castle. Then head to Cathedral Square for an espresso. At midday, immerse yourself in modern science at MUSE. Spend the afternoon on the historic Doss Trento and end the day with a sweeping view from Ravina."
+          },
+          "stops": [
+            {
+              "name": "Castello del Buonconsiglio",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus 'Autosilo Buonconsiglio'.",
+                "hu": "Parkoljon az 'Autosilo Buonconsiglio' parkolóházban.",
+                "ro": "Parcați în parcarea 'Autosilo Buonconsiglio'.",
+                "en": "Park in the 'Autosilo Buonconsiglio' parking garage."
+              }
+            },
+            {
+              "name": "Piazza Duomo",
+              "tip_5lang": {
+                "de": "Das historische Zentrum ist ZTL.",
+                "hu": "A történelmi központ behajtási tilalom alatt áll.",
+                "ro": "Centrul istoric este ZTL.",
+                "en": "The historical center is a ZTL (restricted zone)."
+              }
+            },
+            {
+              "name": "MUSE",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden.",
+                "hu": "Nagy parkoló áll rendelkezésre.",
+                "ro": "Parcare mare disponibilă.",
+                "en": "Large parking lot available."
+              }
+            },
+            {
+              "name": "Mausoleum von Cesare Battisti",
+              "tip_5lang": {
+                "de": "Zufahrt zum Doss Trento möglich.",
+                "hu": "Behajtás a Doss Trentóra lehetséges.",
+                "ro": "Accesul auto la Doss Trento este permis.",
+                "en": "Car access to Doss Trento is possible."
+              }
+            },
+            {
+              "name": "Belvedere di Ravina",
+              "tip_5lang": {
+                "de": "Panoramablick auf die Stadt.",
+                "hu": "Panoráma kilátás a városra.",
+                "ro": "Vedere panoramică asupra orașului.",
+                "en": "Panoramic view of the city."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Carne Salada",
+                "tip": "Spezialität im 'Ristorante Forst'."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Carne Salada",
+                "tip": "Specialitás a 'Ristorante Forst'-ban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Carne Salada",
+                "tip": "Specialitate la 'Ristorante Forst'."
+              }
+            ],
+            "en": [
+              {
+                "name": "Carne Salada",
+                "tip": "Specialty at 'Ristorante Forst'."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Belvedere di Ravina",
+                "tip": "Ruhiger Blick auf das Etschtal.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ravina kilátó",
+                "tip": "Csendes kilátás az Adige-völgyre.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Belvedere di Ravina",
+                "tip": "Vedere liniștită asupra văii Adige.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Belvedere di Ravina",
+                "tip": "Quiet view of the Adige Valley.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Via Manci",
+                "tip": "Elegante Boutiquen in Renaissance-Palästen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Via Manci",
+                "tip": "Elegáns butikok reneszánsz palotákban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Via Manci",
+                "tip": "Boutique-uri elegante în palate renascentiste."
+              }
+            ],
+            "en": [
+              {
+                "name": "Via Manci",
+                "tip": "Elegant boutiques in Renaissance palaces."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Achten Sie auf die blauen Parkmarkierungen (gebührenpflichtig).",
+              "Vermeiden Sie die Rushhour am Nachmittag."
+            ],
+            "hu": [
+              "Figyeljen a kék parkolójelzésekre (fizetős).",
+              "Kerülje a délutáni csúcsforgalmat."
+            ],
+            "ro": [
+              "Atenție la marcajele albastre de parcare (cu plată).",
+              "Evitați orele de vârf de după-amiază."
+            ],
+            "en": [
+              "Look out for blue parking markings (paid).",
+              "Avoid the afternoon rush hour."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie bequem am Castello del Buonconsiglio. Parken Sie direkt in der Nähe, um den Regenweg kurz zu halten.\n\nMittags geht es zur Piazza Duomo. Nutzen Sie die zentralen Parkhäuser, um trockenen Fußes in die Altstadt zu gelangen.\n\nNachmittags bietet das MUSE eine große Tiefgarage. Ideal, um ohne Regenschirm direkt ins Museum zu kommen.\n\nDer Abend endet mit der Fahrt zum Belvedere di Ravina. Genießen Sie den Blick auf das verregnete Tal sicher aus dem trockenen Auto heraus.",
+            "hu": "Kényelmes kezdés a Buonconsiglio-kastélynál. Parkoljon a közelben, hogy minimalizálja az esőben töltött időt.\n\nDélben a Piazza Duomo felé vesszük az irányt. Használja a központi parkolóházakat, hogy száraz lábbal érje el az óvárost.\n\nDélután a MUSE mélygarázsa a legjobb választás. Esernyő nélkül, közvetlenül a múzeumba léphetünk.\n\nAz este a Ravina kilátóhoz való autózással zárul. Élvezze az eső áztatta völgy látványát a száraz autó biztonságából.",
+            "ro": "Începeți confortabil la Castelul Buonconsiglio. Parcați chiar în apropiere pentru a scurta drumul prin ploaie.\n\nLa prânz, mergeți spre Piazza Duomo. Folosiți parcările centrale pentru a ajunge în centrul vechi fără a vă uda picioarele.\n\nDupă-amiaza, MUSE oferă o parcare subterană mare. Ideal pentru a intra direct în muzeu fără umbrelă.\n\nSeara se încheie cu drumul spre Belvedere di Ravina. Admirați valea sub ploaie direct din confortul mașinii.",
+            "en": "Start comfortably at Buonconsiglio Castle. Park nearby to keep your exposure to the rain as short as possible.\n\nAt midday, head to Piazza Duomo. Use the central parking garages to reach the old town while staying dry.\n\nIn the afternoon, MUSE offers a large underground parking area. Ideal for entering the museum directly without an umbrella.\n\nThe day concludes with a drive to Belvedere di Ravina. Enjoy the view of the rainy valley from the comfort of your dry car."
+          },
+          "stops": [
+            {
+              "name": "Castello del Buonconsiglio",
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz 'Autosilo Buonconsiglio'.",
+                "hu": "Használja a közeli 'Autosilo Buonconsiglio' parkolóházat.",
+                "ro": "Folosiți parcarea apropiată 'Autosilo Buonconsiglio'.",
+                "en": "Use the nearby 'Autosilo Buonconsiglio' parking garage."
+              }
+            },
+            {
+              "name": "Piazza Duomo",
+              "tip_5lang": {
+                "de": "Zentrale Parkhäuser sind meist überdacht und gut beleuchtet.",
+                "hu": "A központi parkolóházak fedettek és jól megvilágítottak.",
+                "ro": "Parcările centrale sunt în mare parte acoperite și bine iluminate.",
+                "en": "Central parking garages are mostly covered and well-lit."
+              }
+            },
+            {
+              "name": "MUSE",
+              "tip_5lang": {
+                "de": "Direkter Zugang von der Tiefgarage in den Museumsbereich.",
+                "hu": "Közvetlen feljárat a mélygarázsból a múzeumi térbe.",
+                "ro": "Acces direct din parcarea subterană în zona muzeului.",
+                "en": "Direct access from the underground parking into the museum area."
+              }
+            },
+            {
+              "name": "Mausoleum von Cesare Battisti",
+              "tip_5lang": {
+                "de": "Vorsicht auf der kurvigen Bergstraße bei starkem Regen.",
+                "hu": "Vigyázzon a kanyargós hegyi úton heves esőzéskor.",
+                "ro": "Atenție pe drumul montan virajat în caz de ploaie torențială.",
+                "en": "Be careful on the winding mountain road during heavy rain."
+              }
+            },
+            {
+              "name": "Belvedere di Ravina",
+              "tip_5lang": {
+                "de": "Gute Sicht auch bei Regen direkt vom Parkplatz aus.",
+                "hu": "Jó kilátás esőben is, közvetlenül a parkolóból.",
+                "ro": "Vizibilitate bună chiar și pe ploaie, direct din parcare.",
+                "en": "Good visibility even in rain, right from the parking spot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zentrale Parkhäuser (Piazza Fiera/Duomo) sparen nasse Fußwege.",
+              "Vermeiden Sie das Parken in ZTL-Zonen (eingeschränkter Verkehr).",
+              "Die Bergstraßen um Trient können bei Regen rutschig sein.",
+              "Nutzen Sie die App 'MyCicero' für einfaches Parkplatz-Zahlen.",
+              "In Trient sind viele Parkplätze blau markiert (gebührenpflichtig)."
+            ],
+            "hu": [
+              "A központi parkolók (Piazza Fiera/Duomo) megkímélik a vizes sétáktól.",
+              "Kerülje a parkolást a ZTL (korlátozott forgalmi) zónákban.",
+              "A Trento környéki hegyi utak esőben csúszósak lehetnek.",
+              "Használja a 'MyCicero' alkalmazást az egyszerű parkolási fizetéshez.",
+              "Trentóban sok parkoló kékkel jelzett (fizetős övezet)."
+            ],
+            "ro": [
+              "Parcările centrale (Piazza Fiera/Duomo) vă scutesc de mersul prin ploaie.",
+              "Evitați parcarea în zonele ZTL (trafic restricționat).",
+              "Drumurile montane din jurul orașului pot fi alunecoase pe ploaie.",
+              "Folosiți aplicația 'MyCicero' pentru plata ușoară a parcării.",
+              "În Trento, multe parcări sunt marcate cu albastru (cu plată)."
+            ],
+            "en": [
+              "Central parking garages (Piazza Fiera/Duomo) save you from wet walks.",
+              "Avoid parking in ZTL zones (Restricted Traffic Zones).",
+              "Mountain roads around Trento can be slippery during rain.",
+              "Use the 'MyCicero' app for easy parking payment.",
+              "Many parking spots in Trento are marked blue (paid parking)."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Wintertag beim Castello del Buonconsiglio. Die Anfahrt bietet einen herrlichen Blick auf die verschneiten Gipfel.\n\nMittags parken Sie nahe der Piazza Duomo. Genießen Sie die winterliche Atmosphäre der Stadt, ohne sich zu weit vom warmen Auto zu entfernen.\n\nDer Nachmittag im MUSE ist ideal. Die Heizung im Auto und im Museum sorgt für durchgehende Wärme.\n\nZum Abschluss fahren Sie zum Belvedere di Ravina. Die beleuchtete Stadt im Tal sieht im Winter unter dem klaren Sternenhimmel fantastisch aus.",
+            "hu": "Kezdje a téli napot a Buonconsiglio-kastélynál. Az autózás közben gyönyörű kilátás nyílik a havas hegycsúcsokra.\n\nDélben parkoljon a Piazza Duomo közelében. Élvezze a város téli hangulatát, anélkül, hogy messze kerülne a fűtött autótól.\n\nA délután a MUSE-ben ideális. Az autó és a múzeum fűtése folyamatos meleget biztosít.\n\nZárásként autózzon fel a Ravina kilátóhoz. A kivilágított völgy télen, a tiszta csillagos ég alatt fantasztikus látvány.",
+            "ro": "Începeți ziua de iarnă la Castelul Buonconsiglio. Drumul oferă o vedere minunată asupra vârfurilor înzăpezite.\n\nLa prânz, parcați aproape de Piazza Duomo. Bucurați-vă de atmosfera de iarnă a orașului fără a vă îndepărta prea mult de mașina încălzită.\n\nDupă-amiaza la MUSE este ideală. Încălzirea din mașină și din muzeu vă asigură confortul termic.\n\nLa final, conduceți spre Belvedere di Ravina. Orașul iluminat din vale arată fantastic iarna sub cerul înstelat.",
+            "en": "Start your winter day at Buonconsiglio Castle. The drive offers magnificent views of the snow-covered peaks.\n\nAt midday, park near Piazza Duomo. Enjoy the city's winter atmosphere without straying too far from your heated vehicle.\n\nThe afternoon at MUSE is ideal. The heating in both the car and the museum ensures you stay warm throughout.\n\nTo finish, drive to Belvedere di Ravina. The lit-up city in the valley looks fantastic in winter under a clear starry sky."
+          },
+          "stops": [
+            {
+              "name": "Castello del Buonconsiglio",
+              "tip_5lang": {
+                "de": "Winterreifen oder Schneeketten sind in dieser Region Pflicht.",
+                "hu": "Téli gumi vagy hólánc kötelező ebben a régióban.",
+                "ro": "Anvelopele de iarnă sau lanțurile sunt obligatorii în această regiune.",
+                "en": "Winter tires or snow chains are mandatory in this region."
+              }
+            },
+            {
+              "name": "Piazza Duomo",
+              "tip_5lang": {
+                "de": "Im Winter sind die Parkhäuser oft voll; kommen Sie frühzeitig.",
+                "hu": "Télen a parkolóházak gyakran telítettek; érkezzen időben.",
+                "ro": "Iarna parcările sunt adesea pline; veniți din timp.",
+                "en": "Parking garages are often full in winter; arrive early."
+              }
+            },
+            {
+              "name": "MUSE",
+              "tip_5lang": {
+                "de": "Die Zufahrten werden bei Schneefall meist schnell geräumt.",
+                "hu": "A feljárókat hóeséskor általában gyorsan megtisztítják.",
+                "ro": "Căile de acces sunt de obicei curățate rapid în caz de ninsoare.",
+                "en": "Access roads are usually cleared quickly during snowfall."
+              }
+            },
+            {
+              "name": "Mausoleum von Cesare Battisti",
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Straßenglätte bei der Auffahrt.",
+                "hu": "Ügyeljen az esetleges jegesedésre a felfelé vezető úton.",
+                "ro": "Atenție la posibila gheață de pe drum în timpul urcării.",
+                "en": "Watch out for possible icy road conditions during the climb."
+              }
+            },
+            {
+              "name": "Belvedere di Ravina",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den kurzen Weg vom Auto zum Aussichtspunkt.",
+                "hu": "Meleg ruha ajánlott az autótól a kilátóig tartó rövid sétához.",
+                "ro": "Haine groase pentru scurta plimbare de la mașină la belvedere.",
+                "en": "Warm clothes needed for the short walk from the car to the viewpoint."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind vom 15. November bis 15. April obligatorisch.",
+              "Bergstraßen können nachts gefrieren; fahren Sie vorsichtig.",
+              "Parkhäuser bieten Schutz vor Schneefall und Frost am Auto.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Parkplatzsuche am Wochenende des Weihnachtsmarktes ist schwierig."
+            ],
+            "hu": [
+              "A téli gumi november 15. és április 15. között kötelező.",
+              "A hegyi utak éjszaka lefagyhatnak; vezessen óvatosan.",
+              "A parkolóházak védelmet nyújtanak a hó és a fagy ellen.",
+              "Ellenőrizze a fagyállót a szélvédőmosó tartályban.",
+              "A karácsonyi vásár hétvégéin nehéz parkolóhelyet találni."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii între 15 noiembrie și 15 aprilie.",
+              "Drumurile montane pot îngheța noaptea; conduceți cu prudență.",
+              "Parcările acoperite oferă protecție împotriva ninsorii și înghețului.",
+              "Verificați lichidul de parbriz antigel înainte de drum.",
+              "Găsirea unui loc de parcare în weekend-urile cu târg de Crăciun e dificilă."
+            ],
+            "en": [
+              "Winter tires are mandatory from Nov 15th to April 15th.",
+              "Mountain roads can freeze at night; drive with caution.",
+              "Parking garages protect your vehicle from snow and frost.",
+              "Check your anti-freeze windshield washer fluid level.",
+              "Parking can be very difficult during Christmas market weekends."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -848,6 +1856,333 @@
           "Download the 'OpenMove' app for tickets.",
           "The buses are very punctual."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Domplatz und fahren Sie mit dem Bus zum Schloss. Nach der Besichtigung bringt Sie der Shuttle zum MUSE. Am Nachmittag nutzen Sie die Seilbahn für einen Höhenflug nach Sardagna. Den Abschluss bildet die historische Abtei San Lorenzo in Bahnhofsnähe.",
+            "hu": "Kezdje a Dóm téren, majd busszal menjen a kastélyhoz. A látogatás után az ingajárat elviszi a MUSE-hoz. Délután használja a felvonót egy sardagnai repüléshez. Végül látogasson el a vasútállomás közelében található történelmi San Lorenzo apátsághoz.",
+            "ro": "Începeți în Piața Domului și mergeți cu autobuzul la castel. După vizită, naveta vă duce la MUSE. După-amiaza folosiți telecabina pentru un zbor spre Sardagna. Încheiați cu abația istorică San Lorenzo de lângă gară.",
+            "en": "Start at Cathedral Square and take the bus to the castle. After the visit, the shuttle takes you to MUSE. In the afternoon, use the cable car for a flight to Sardagna. End with the historic San Lorenzo Abbey near the train station."
+          },
+          "stops": [
+            {
+              "name": "Piazza Duomo",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt.",
+                "hu": "Központi csomópont.",
+                "ro": "Nod central.",
+                "en": "Central hub."
+              }
+            },
+            {
+              "name": "Castello del Buonconsiglio",
+              "tip_5lang": {
+                "de": "Linie A oder 7 halten in der Nähe.",
+                "hu": "Az A vagy 7-es járat a közelben áll meg.",
+                "ro": "Liniile A sau 7 opresc în apropiere.",
+                "en": "Line A or 7 stops nearby."
+              }
+            },
+            {
+              "name": "MUSE",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Shuttle NP.",
+                "hu": "Használja az NP ingajáratot.",
+                "ro": "Folosiți naveta NP.",
+                "en": "Use the NP shuttle."
+              }
+            },
+            {
+              "name": "Seilbahn Trient-Sardagna",
+              "tip_5lang": {
+                "de": "Gilt als Teil des ÖPNV.",
+                "hu": "A tömegközlekedés része.",
+                "ro": "Face parte din transportul public.",
+                "en": "Included in public transport."
+              }
+            },
+            {
+              "name": "Abtei San Lorenzo",
+              "tip_5lang": {
+                "de": "Nahe dem Bahnhof.",
+                "hu": "A vasútállomás közelében.",
+                "ro": "Lângă gară.",
+                "en": "Near the train station."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Trentodoc",
+                "tip": "Sekt-Aperitif in der 'Casa del Vino'."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Trentodoc",
+                "tip": "Pezsgő-aperitif a 'Casa del Vino'-ban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Trentodoc",
+                "tip": "Aperitiv cu vin spumant la 'Casa del Vino'."
+              }
+            ],
+            "en": [
+              {
+                "name": "Trentodoc",
+                "tip": "Sparkling wine aperitif at 'Casa del Vino'."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Sardagna Terrasse",
+                "tip": "Ruhe über dem Tal genießen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Sardagna terasz",
+                "tip": "Élvezze a csendet a völgy felett.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Terasa Sardagna",
+                "tip": "Bucurați-vă de liniște deasupra văii.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Sardagna terrace",
+                "tip": "Enjoy peace above the valley.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Via San Pietro",
+                "tip": "Handwerksläden und Delikatessen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Via San Pietro",
+                "tip": "Kézműves boltok és csemegék."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Via San Pietro",
+                "tip": "Magazine de artizanat și delicatese."
+              }
+            ],
+            "en": [
+              {
+                "name": "Via San Pietro",
+                "tip": "Craft shops and delicacies."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Laden Sie die 'OpenMove' App für Tickets.",
+              "Die Busse sind sehr pünktlich."
+            ],
+            "hu": [
+              "Töltse le az 'OpenMove' alkalmazást a jegyekhez.",
+              "A buszok nagyon pontosak."
+            ],
+            "ro": [
+              "Descărcați aplicația 'OpenMove' pentru bilete.",
+              "Autobuzele sunt foarte punctuale."
+            ],
+            "en": [
+              "Download the 'OpenMove' app for tickets.",
+              "The buses are very punctual."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie trocken an der Piazza Duomo. Die Busse bringen Sie bequem zum Castello del Buonconsiglio, ohne nass zu werden.\n\nMittags nutzen Sie die effizienten Stadtlinien zum MUSE. Die Haltestellen sind meist überdacht.\n\nNachmittags schweben Sie mit der Seilbahn nach Sardagna. Der Transit ist wetterunabhängig und bietet einen tollen Ausblick im Trockenen.\n\nDer Abend endet mit der Rückfahrt zur Abtei San Lorenzo. Die kurzen Wege zwischen Bus und Ziel minimieren den Regenkontakt.",
+            "hu": "Kezdje a napot szárazon a Piazza Duomo-n. A buszok kényelmesen repítik a Buonconsiglio-kastélyhoz, elkerülve az esőt.\n\nDélben használja a hatékony városi vonalakat a MUSE felé. A megállók többnyire fedettek.\n\nDélután a Sardagna felvonóval emelkedünk a magasba. Ez a közlekedési mód időjárásfüggetlen és száraz kilátást nyújt.\n\nAz este a San Lorenzo apátsághoz való visszatéréssel zárul. A busz és a célpont közötti rövid táv minimalizálja az esőben töltött időt.",
+            "ro": "Începeți la uscat în Piazza Duomo. Autobuzele vă duc confortabil la Castelul Buonconsiglio fără a vă uda.\n\nLa prânz, folosiți liniile urbane eficiente spre MUSE. Stațiile sunt în mare parte acoperite.\n\nDupă-amiaza, plutiți cu telecabina spre Sardagna. Tranzitul nu depinde de vreme și oferă o priveliște excelentă la adăpost.\n\nSeara se încheie cu întoarcerea la Abația San Lorenzo. Drumurile scurte între autobuz și destinație minimizează contactul cu ploaia.",
+            "en": "Start dry at Piazza Duomo. Buses will take you comfortably to Buonconsiglio Castle, avoiding the rain.\n\nAt midday, use the efficient city bus lines to reach the MUSE. Most stops are sheltered.\n\nIn the afternoon, glide up to Sardagna with the cable car. This mode of transport is weather-independent and offers great views while staying dry.\n\nThe day ends with a return trip to San Lorenzo Abbey. Short distances between the bus and your destination minimize rain exposure."
+          },
+          "stops": [
+            {
+              "name": "Piazza Duomo",
+              "tip_5lang": {
+                "de": "Die Haltestellen 'Via Rosmini' sind nahe und bieten Schutz.",
+                "hu": "A 'Via Rosmini' megállók közel vannak és fedettek.",
+                "ro": "Stațiile 'Via Rosmini' sunt aproape și oferă adăpost.",
+                "en": "The 'Via Rosmini' stops are nearby and offer shelter."
+              }
+            },
+            {
+              "name": "Castello del Buonconsiglio",
+              "tip_5lang": {
+                "de": "Buslinien 1, 6 und 10 halten fast direkt vor dem Tor.",
+                "hu": "Az 1-es, 6-os és 10-es buszjáratok szinte a kapu előtt állnak meg.",
+                "ro": "Liniile de autobuz 1, 6 și 10 opresc aproape direct în fața porții.",
+                "en": "Bus lines 1, 6, and 10 stop almost directly in front of the gate."
+              }
+            },
+            {
+              "name": "MUSE",
+              "tip_5lang": {
+                "de": "Kurzer, teils überdachter Fußweg von der Bushaltestelle.",
+                "hu": "Rövid, részben fedett séta a buszmegállótól.",
+                "ro": "Drum scurt, parțial acoperit, de la stația de autobuz.",
+                "en": "Short, partially covered walk from the bus stop."
+              }
+            },
+            {
+              "name": "Seilbahn Trient-Sardagna",
+              "tip_5lang": {
+                "de": "Häufige Fahrten auch bei schlechtem Wetter.",
+                "hu": "Gyakori járatok rossz időjárás esetén is.",
+                "ro": "Curse frecvente chiar și în condiții de vreme nefavorabilă.",
+                "en": "Frequent trips even during bad weather conditions."
+              }
+            },
+            {
+              "name": "Abtei San Lorenzo",
+              "tip_5lang": {
+                "de": "Direkt am Bahnhof gelegen, sehr gute Busanbindung.",
+                "hu": "Közvetlenül a pályaudvarnál található, kiváló buszkapcsolatokkal.",
+                "ro": "Situată chiar lângă gară, conexiuni de autobuz foarte bune.",
+                "en": "Located right by the station with excellent bus connections."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'OpenMove' für digitale Tickets im Regen.",
+              "Die Busse sind in Trient pünktlich und gut beheizt.",
+              "Fast alle Haltestellen im Zentrum haben Unterstände.",
+              "Ein Tagesticket lohnt sich bei häufigem Wechsel zwischen den Stopps.",
+              "Die Seilbahn ist Teil des städtischen Verkehrsverbunds."
+            ],
+            "hu": [
+              "Használja az 'OpenMove' alkalmazást a digitális jegyekhez.",
+              "A trentói buszok pontosak és jól fűtöttek.",
+              "A központ szinte minden megállója rendelkezik esővédővel.",
+              "A napijegy megéri, ha gyakran váltunk a megállók között.",
+              "A felvonó a városi közlekedési hálózat része."
+            ],
+            "ro": [
+              "Folosiți aplicația 'OpenMove' pentru bilete digitale pe timp de ploaie.",
+              "Autobuzele din Trento sunt punctuale și bine încălzite.",
+              "Aproape toate stațiile din centru au adăposturi.",
+              "Un abonament de o zi merită dacă schimbați des mijloacele de transport.",
+              "Telecabina face parte din rețeaua de transport urban."
+            ],
+            "en": [
+              "Use the 'OpenMove' app for digital tickets during the rain.",
+              "Buses in Trento are punctual and well-heated.",
+              "Almost all stops in the center have rain shelters.",
+              "A day pass is worth it if you switch between stops frequently.",
+              "The cable car is part of the integrated urban transport system."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag startet an der Piazza Duomo. Die warmen Busse bringen Sie zügig zum Castello del Buonconsiglio.\n\nMittags ist der Transit der beste Weg, um sich zwischen den Besichtigungen aufzuwärmen. Die Verbindungen im Zentrum sind kurz getaktet.\n\nNachmittags schweben Sie mit der Seilbahn nach Sardagna. Genießen Sie den Panoramablick auf die verschneiten Gipfel aus der warmen Kabine.\n\nZum Abschluss geht es zur Abtei San Lorenzo. Die Nähe zum Bahnhof sorgt für eine schnelle Rückreise in der kühlen Winternacht.",
+            "hu": "Tiszta téli nap indul a Piazza Duomo-n. A fűtött buszok gyorsan elrepítik a Buonconsiglio-kastélyhoz.\n\nDélben a tömegközlekedés a legjobb módja a felmelegedésnek a megállók között. A belvárosi járatok sűrűn közlekednek.\n\nDélután a felvonóval emelkedünk Sardagnába. Csodálja meg a havas hegycsúcsokat a meleg kabinból.\n\nZárásként a San Lorenzo apátságot érintjük. A vasútállomás közelsége gyors hazajutást biztosít a hűvös téli éjszakában.",
+            "ro": "O zi senină de iarnă începe în Piazza Duomo. Autobuzele încălzite vă duc rapid la Castelul Buonconsiglio.\n\nLa prânz, tranzitul este cel mai bun mod de a vă încălzi între vizite. Conexiunile din centru sunt dese.\n\nDupă-amiaza, plutiți cu telecabina spre Sardagna. Bucurați-vă de panorama vârfurilor înzăpezite din cabina caldă.\n\nLa final, vizitați Abația San Lorenzo. Proximitatea față de gară asigură o întoarcere rapidă în noaptea rece de iarnă.",
+            "en": "A clear winter day starts at Piazza Duomo. Warm buses will take you quickly to Buonconsiglio Castle.\n\nAt midday, transit is the best way to warm up between sightseeing stops. Connections in the center are frequent.\n\nIn the afternoon, glide up to Sardagna. Enjoy the panoramic view of snow-capped peaks from the warmth of the cable car cabin.\n\nTo conclude, visit San Lorenzo Abbey. Its proximity to the station ensures a fast return journey in the chilly winter night."
+          },
+          "stops": [
+            {
+              "name": "Piazza Duomo",
+              "tip_5lang": {
+                "de": "Die Anzeigetafeln an den Haltestellen informieren in Echtzeit.",
+                "hu": "A megállóhelyi kijelzők valós idejű tájékoztatást adnak.",
+                "ro": "Panourile din stații oferă informații în timp real.",
+                "en": "Real-time information displays are available at most stops."
+              }
+            },
+            {
+              "name": "Castello del Buonconsiglio",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter sehr gut beheizt.",
+                "hu": "A buszok télen nagyon jól fűtöttek.",
+                "ro": "Autobuzele sunt foarte bine încălzite iarna.",
+                "en": "Buses are very well-heated during the winter season."
+              }
+            },
+            {
+              "name": "MUSE",
+              "tip_5lang": {
+                "de": "Häufige Verbindungen vom Bahnhof (Linie NP).",
+                "hu": "Gyakori járatok a pályaudvartól (NP vonal).",
+                "ro": "Conexiuni frecvente de la gară (linia NP).",
+                "en": "Frequent connections from the station (NP line)."
+              }
+            },
+            {
+              "name": "Seilbahn Trient-Sardagna",
+              "tip_5lang": {
+                "de": "Die Kabinen bieten Schutz vor dem kalten Bergwind.",
+                "hu": "A kabinok védelmet nyújtanak a hideg hegyi szél ellen.",
+                "ro": "Cabinele oferă protecție împotriva vântului rece de munte.",
+                "en": "Cabins provide shelter from the cold mountain wind."
+              }
+            },
+            {
+              "name": "Abtei San Lorenzo",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt, ideal für den Abschluss der Tour.",
+                "hu": "Központi csomópont, ideális a túra befejezéséhez.",
+                "ro": "Nod central de transport, ideal pentru încheierea turului.",
+                "en": "Central transport hub, ideal for concluding the tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter nach dem regulären Fahrplan.",
+              "Die Haltestellen sind abends gut beleuchtet und sicher.",
+              "Nutzen Sie die Wärme der Busse für kurze Pausen.",
+              "Die Seilbahn bietet einen windgeschützten Blick auf die Alpen.",
+              "Tickets können auch an Tabakläden (Tabacchi) gekauft werden."
+            ],
+            "hu": [
+              "A buszok télen is a rendes menetrend szerint közlekednek.",
+              "A megállók este jól megvilágítottak és biztonságosak.",
+              "Használja ki a buszok melegét a rövid pihenőkre.",
+              "A felvonó szélvédett kilátást nyújt az Alpokra.",
+              "Jegyek a dohányboltokban (Tabacchi) is vásárolhatók."
+            ],
+            "ro": [
+              "Autobuzele circulă iarna conform orarului obișnuit.",
+              "Stațiile sunt bine iluminate și sigure seara.",
+              "Folosiți căldura din autobuze pentru scurte pauze.",
+              "Telecabina oferă o vedere spre Alpi protejată de vânt.",
+              "Biletele pot fi cumpărate și de la magazinele de tutun (Tabacchi)."
+            ],
+            "en": [
+              "Buses run according to the regular schedule in winter.",
+              "Stops are well-lit and safe during the evening hours.",
+              "Utilize the warmth inside the buses for short breaks.",
+              "The cable car offers a wind-protected view of the Alps.",
+              "Tickets can also be purchased at tobacco shops (Tabacchi)."
+            ]
+          }
+        }
       }
     }
   },

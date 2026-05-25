@@ -383,6 +383,522 @@
           "Public toilets are located near the Lumbi parking lot and along Corso Umberto.",
           "Drinking water fountains (Nasoni) are scattered throughout the old town."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Palazzo Corvaja, wo arabische Einflüsse auf sizilianische Gotik treffen. Ein kurzer Spaziergang führt zum Highlight, dem antiken Theater, dessen Kulisse mit dem rauchenden Ätna weltweit einzigartig ist. Die Naumachie-Ruinen zeugen mittags von römischer Ingenieurskunst.\n\nNachmittags bietet die schattige Villa Comunale Ruhe inmitten exotischer Pflanzen, bevor das gesellschaftliche Leben auf der Piazza IX Aprile pulsiert. Der Tag klingt mit einem Bummel durch die elegante Einkaufsmeile Corso Umberto aus, die direkt zum imposanten Dom San Nicola führt, wo die historische Atmosphäre Taorminas am stärksten spürbar ist.",
+            "hu": "A reggel a Palazzo Corvajánál indul, ahol az arab hatások találkoznak a szicíliai gótikával. Egy rövid séta vezet a csúcspontig, a görög színházig, amelynek háttere a füstölgő Etnával világszerte egyedülálló. A Naumachie romjai délidőben a római mérnöki tudásról tanúskodnak.\n\nDélután az árnyas Villa Comunale kínál nyugalmat az egzotikus növények között, mielőtt a társasági élet felpezsdülne a Piazza IX Aprile téren. A nap a Corso Umberto elegáns üzletei közötti sétával zárul, amely egyenesen a lenyűgöző San Nicola dómhoz vezet, ahol Taormina történelmi hangulata a leginkább érezhető.",
+            "ro": "Dimineața începe la Palazzo Corvaja, unde influențele arabe întâlnesc goticul sicilian. O scurtă plimbare duce la punctul culminant, teatrul antic, al cărui decor cu muntele Etna fumegând este unic în lume. Ruinele Naumachie depun mărturie la prânz despre măiestria inginerească romană.\n\nDupă-amiaza, Villa Comunale umbrită oferă liniște printre plantele exotice, înainte ca viața socială să vibreze în Piazza IX Aprile. Ziua se încheie cu o plimbare pe eleganta stradă comercială Corso Umberto, care duce direct la impunătorul Dom San Nicola, unde atmosfera istorică a Taorminei este cel mai puternic resimțită.",
+            "en": "The morning starts at Palazzo Corvaja, where Arabic influences meet Sicilian Gothic style. A short walk leads to the highlight, the ancient theatre, whose backdrop of smoking Mount Etna is unique in the world. The Naumachie ruins testify to Roman engineering skills around midday.\n\nIn the afternoon, the shaded Villa Comunale offers peace amidst exotic plants before social life pulses in Piazza IX Aprile. The day concludes with a stroll through the elegant Corso Umberto shopping street, leading straight to the imposing Cathedral of San Nicola, where Taormina's historic atmosphere is most felt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo Corvaja",
+                "hu": "Palazzo Corvaja",
+                "ro": "Palazzo Corvaja",
+                "en": "Corvaja Palace"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Mischung aus arabischen, normannischen und gotischen Baustilen im Innenhof.",
+                "hu": "Csodáld meg az arab, normann és gótikus építészeti stílusok keveredését a belső udvaron.",
+                "ro": "Admirați amestecul de stiluri arhitecturale arabe, normande și gotice în curtea interioară.",
+                "en": "Admire the mix of Arabic, Norman, and Gothic architectural styles in the inner courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Theater von Taormina",
+                "hu": "Taorminai görög színház",
+                "ro": "Teatrul Antic din Taormina",
+                "en": "Ancient Theatre of Taormina"
+              },
+              "tip_5lang": {
+                "de": "Der Blick durch die zerbrochenen Säulen auf den Ätna ist das berühmteste Fotomotiv Siziliens.",
+                "hu": "A törött oszlopok közül az Etna felé nyíló kilátás Szicília leghíresebb fotótémája.",
+                "ro": "Vederea prin coloanele rupte spre Muntele Etna este cel mai faimos motiv foto din Sicilia.",
+                "en": "The view through the broken columns towards Mount Etna is Sicily's most famous photo spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Naumachie",
+                "hu": "Naumachie",
+                "ro": "Naumachie",
+                "en": "Naumachie"
+              },
+              "tip_5lang": {
+                "de": "Diese römische Ziegelmauer diente einst als Stütze für eine riesige Wasserzisterne.",
+                "hu": "Ez a római téglafal egykor egy hatalmas víztározó megtámasztására szolgált.",
+                "ro": "Acest zid de cărămidă romană a servit odinioară ca suport pentru o cisternă uriașă de apă.",
+                "en": "This Roman brick wall once served as a support for a massive water cistern."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Comunale",
+                "hu": "Villa Comunale park",
+                "ro": "Villa Comunale",
+                "en": "Villa Comunale"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie die viktorianischen 'The Beehives' von Lady Florence Trevelyan im Park.",
+                "hu": "Keresd meg Lady Florence Trevelyan viktoriánus 'méhkasait' a park területén.",
+                "ro": "Căutați 'The Beehives' victoriene ale lui Lady Florence Trevelyan în parcul public.",
+                "en": "Look for Lady Florence Trevelyan's Victorian 'Beehives' structures within the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza IX Aprile",
+                "hu": "Piazza IX Aprile",
+                "ro": "Piazza IX Aprile",
+                "en": "Piazza IX Aprile"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie eine Granita im Caffè Wunderbar, während Sie die Aussichtsterrasse bewundern.",
+                "hu": "Élvezz egy granitát a Caffè Wunderbarban, miközben a kilátóteraszt csodálod.",
+                "ro": "Savurați o granita la Caffè Wunderbar în timp ce admirați terasa panoramică.",
+                "en": "Enjoy a granita at Caffè Wunderbar while admiring the panoramic lookout terrace."
+              }
+            },
+            {
+              "name": {
+                "de": "Corso Umberto",
+                "hu": "Corso Umberto",
+                "ro": "Corso Umberto",
+                "en": "Corso Umberto"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die handgemalte Keramik in den kleinen Gassen, die vom Corso abzweigen.",
+                "hu": "Figyeld a kézzel festett kerámiákat a Corsóról nyíló kis mellékutcákban.",
+                "ro": "Căutați ceramica pictată manual în micile alei care se ramifică din Corso.",
+                "en": "Look out for hand-painted ceramics in the small alleys branching off the Corso."
+              }
+            },
+            {
+              "name": {
+                "de": "Dom von Taormina",
+                "hu": "Taorminai dóm",
+                "ro": "Domul din Taormina",
+                "en": "Cathedral of Taormina"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den Barockbrunnen mit der berittenen Zentauren-Statue auf dem Vorplatz.",
+                "hu": "Nézd meg a barokk kutat a lovas kentaur szobrával a dóm előtti téren.",
+                "ro": "Admirați fântâna barocă cu statuia centaurului călare din fața catedralei.",
+                "en": "Admire the Baroque fountain with the mounted centaur statue in the square in front."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Cannoli Siciliani",
+                "tip": "Probieren Sie die mit frischem Ricotta gefüllten Waffeln bei I Dolci di Nonna Rosa."
+              },
+              {
+                "name": "Pasta alla Norma",
+                "tip": "Klassische Nudeln mit Auberginen und gesalzenem Ricotta in der Osteria RossoDiVino."
+              },
+              {
+                "name": "Arancini",
+                "tip": "Gefüllte Reisbällchen als perfekter Snack bei Da Cristina."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cannoli Siciliani",
+                "tip": "Kóstold meg a friss ricottával töltött ostyát az I Dolci di Nonna Rosa cukrászdában."
+              },
+              {
+                "name": "Pasta alla Norma",
+                "tip": "Klasszikus tészta padlizsánnal és sós ricottával az Osteria RossoDiVino-ban."
+              },
+              {
+                "name": "Arancini",
+                "tip": "Töltött rizsgolyók, a tökéletes utcai étel a Da Cristina üzletében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cannoli Siciliani",
+                "tip": "Încercați vafele umplute cu ricotta proaspătă la I Dolci di Nonna Rosa."
+              },
+              {
+                "name": "Pasta alla Norma",
+                "tip": "Paste clasice cu vinete și ricotta sărată la Osteria RossoDiVino."
+              },
+              {
+                "name": "Arancini",
+                "tip": "Găluște de orez umplute, gustarea perfectă la Da Cristina."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cannoli Siciliani",
+                "tip": "Try the waffles filled with fresh ricotta at I Dolci di Nonna Rosa."
+              },
+              {
+                "name": "Pasta alla Norma",
+                "tip": "Classic pasta with eggplant and salted ricotta at Osteria RossoDiVino."
+              },
+              {
+                "name": "Arancini",
+                "tip": "Stuffed rice balls, the perfect street food snack at Da Cristina."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Villa Comunale Gärten",
+                "tip": "Ein friedlicher Rückzugsort mit Meerblick.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Belvedere di Via Roma",
+                "tip": "Panorama-Balkon fernab der Hauptströme.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Chiesa di San Pancrazio",
+                "tip": "Stiller Innenhof einer alten Barockkirche.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Villa Comunale kertek",
+                "tip": "Békés menedék tengeri kilátással.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Belvedere di Via Roma",
+                "tip": "Panorámás erkély távol a főbb tömegektől.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Chiesa di San Pancrazio",
+                "tip": "Egy régi barokk templom csendes belső udvara.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădinile Villa Comunale",
+                "tip": "Un refugiu liniștit cu vedere la mare.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Belvedere di Via Roma",
+                "tip": "Balcon panoramic departe de fluxurile principale.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Chiesa di San Pancrazio",
+                "tip": "Curtea interioară liniștită a unei vechi biserici baroce.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Villa Comunale Gardens",
+                "tip": "A peaceful retreat with sea views.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Belvedere di Via Roma",
+                "tip": "Panoramic balcony away from the main crowds.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Chiesa di San Pancrazio",
+                "tip": "Quiet inner courtyard of an old Baroque church.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Keramik-Studios",
+                "tip": "Suchen Sie nach handgefertigten 'Teste di Moro' (Mohrenköpfen)."
+              },
+              {
+                "name": "Antico Bazar",
+                "tip": "Lokale Weine, Olivenöl und Pistazienprodukte aus Bronte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kerámia stúdiók",
+                "tip": "Keresd a kézzel készített 'Teste di Moro' (mór fej) díszeket."
+              },
+              {
+                "name": "Antico Bazar",
+                "tip": "Helyi borok, olívaolaj és Bronte-i pisztácia termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Studiouri de ceramică",
+                "tip": "Căutați obiectele 'Teste di Moro' (capete de maur) lucrate manual."
+              },
+              {
+                "name": "Antico Bazar",
+                "tip": "Vinuri locale, ulei de măsline și produse din fistic de Bronte."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ceramic Studios",
+                "tip": "Look for handcrafted 'Teste di Moro' (Moor's heads) ornaments."
+              },
+              {
+                "name": "Antico Bazar",
+                "tip": "Local wines, olive oil, and pistachio products from Bronte."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe, da das Pflaster im Zentrum rutschig sein kann.",
+              "Die Hauptstraße Corso Umberto ist zwischen 18:00 und 20:00 Uhr am belebtesten (Passeggiata).",
+              "Besuchen Sie das Theater gleich morgens, um die größten Reisegruppen zu vermeiden.",
+              "Öffentliche Toiletten befinden sich in der Nähe des Parkplatzes Lumbi und am Corso Umberto.",
+              "Trinkwasserbrunnen (Nasoni) sind über die ganze Altstadt verteilt."
+            ],
+            "hu": [
+              "Viselj kényelmes cipőt, mert a központ kövezete csúszós lehet.",
+              "A Corso Umberto főutca 18:00 és 20:00 között a legzsúfoltabb (Passeggiata ideje).",
+              "Látogasd meg a színházat rögtön nyitáskor, hogy elkerüld a nagy turistacsoportokat.",
+              "Nyilvános WC-k a Lumbi parkoló közelében és a Corso Umberto mentén találhatók.",
+              "Ivóvízkutak (Nasoni) az egész óváros területén elszórva megtalálhatóak."
+            ],
+            "ro": [
+              "Purtați încălțăminte confortabilă, deoarece pavajul din centru poate fi alunecos.",
+              "Strada principală Corso Umberto este cea mai aglomerată între orele 18:00 și 20:00 (Passeggiata).",
+              "Vizitați teatrul chiar de dimineață pentru a evita cele mai mari grupuri de turiști.",
+              "Toaletele publice se află lângă parcarea Lumbi și de-a lungul Corso Umberto.",
+              "Cișmelele cu apă potabilă (Nasoni) sunt răspândite în tot orașul vechi."
+            ],
+            "en": [
+              "Wear comfortable shoes as the paving in the center can be slippery.",
+              "The main street Corso Umberto is busiest between 18:00 and 20:00 (Passeggiata time).",
+              "Visit the theatre first thing in the morning to avoid the largest tour groups.",
+              "Public toilets are located near the Lumbi parking lot and along Corso Umberto.",
+              "Drinking water fountains (Nasoni) are scattered throughout the old town."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet der Palazzo Corvaja perfekten Schutz vor dem Regen. Mittags wirkt das Antike Theater im Nebel mystisch, erfordert aber Trittsicherheit. Nachmittags laden die Cafés am Corso Umberto zum Verweilen ein, während man den Schauern zusieht. Der Abend endet trocken und besinnlich im Dom von Taormina, wo die dicken Mauern die Feuchtigkeit draußen halten.",
+            "hu": "A reggeli eső elől a Corvaja-palota kiállításai nyújtanak menedéket. Délben az Antik Színház ködbe burkolózó romjai misztikus látványt nyújtanak, de vigyázzon a csúszós kövekre. Délután a Corso Umberto fedett beugrói és kávézói ideálisak a várakozásra. Az estét a katedrális békés, száraz belső tereiben zárhatjuk, megcsodálva a középkori építészetet.",
+            "ro": "Dimineața, Palazzo Corvaja oferă adăpostul perfect împotriva ploii. La prânz, Teatrul Antic pare mistic în ceață, dar necesită atenție sporită pe treptele umede. După-amiaza, cafenelele de pe Corso Umberto sunt ideale pentru a privi ploaia la o cafea. Seara se încheie liniștit în Catedrală, unde zidurile groase oferă un refugiu uscat și primitor.",
+            "en": "In the morning, Corvaja Palace provides a perfect dry start. By noon, the Ancient Theatre takes on a mystical aura in the mist, though paths are slippery. In the afternoon, the boutiques of Corso Umberto offer shelter between showers. The evening concludes inside the Cathedral, a peaceful sanctuary where you can escape the damp Sicilian air."
+          },
+          "stops": [
+            {
+              "name": "Corvaja Palace",
+              "tip_5lang": {
+                "de": "Idealer Zufluchtsort bei Regen, bewundern Sie die gotischen Fenster im Trockenen.",
+                "hu": "Tökéletes búvóhely esőben, csodálja meg a gótikus ablakokat fedett helyen.",
+                "ro": "Refugiul ideal pe ploaie; admirați ferestrele gotice la adăpost.",
+                "en": "Perfect rainy day refuge; admire the Gothic windows while staying dry."
+              }
+            },
+            {
+              "name": "Ancient Theatre of Taormina",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steinstufen sind extrem rutschig; genießen Sie das Wolkenspiel über dem Ätna.",
+                "hu": "Vigyázat, a kőlépcsők rendkívül csúszósak; figyelje a felhőket az Etna felett.",
+                "ro": "Atenție, treptele de piatră sunt alunecoase; admirați Etna printre nori.",
+                "en": "Caution, stone steps are very slippery; enjoy the view of Etna through the clouds."
+              }
+            },
+            {
+              "name": "Naumachie",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zwischen den Schauern, um die römischen Nischen zu sehen.",
+                "hu": "Gyors megálló két zápor között a római fülkék megtekintéséhez.",
+                "ro": "Scurtă oprire între averse pentru a vedea nișele romane.",
+                "en": "Quick stop between showers to see the impressive Roman niches."
+              }
+            },
+            {
+              "name": "Villa Comunale",
+              "tip_5lang": {
+                "de": "Nutzen Sie die viktorianischen Pavillons als Schutzhütte im Grünen.",
+                "hu": "Használja a viktoriánus pavilonokat menedékként a buja kertben.",
+                "ro": "Folosiți pavilioanele victoriene ca adăpost în mijlocul grădinii.",
+                "en": "Use the Victorian pavilions as shelters while enjoying the lush gardens."
+              }
+            },
+            {
+              "name": "Piazza IX Aprile",
+              "tip_5lang": {
+                "de": "Die Cafés hier haben große Markisen, perfekt für einen Espresso im Freien.",
+                "hu": "A téri kávézók nagy napellenzői alatt esőben is kint kávézhat.",
+                "ro": "Cafenelele de aici au copertine mari, ideale pentru un espresso în aer liber.",
+                "en": "The square's cafes have large awnings, perfect for an outdoor espresso in the rain."
+              }
+            },
+            {
+              "name": "Corso Umberto",
+              "tip_5lang": {
+                "de": "Bummeln Sie durch die Geschäfte, um trocken von einem Ende zum anderen zu gelangen.",
+                "hu": "Sétáljon az üzletek között, így szárazon juthat át a város egyik végéből a másikba.",
+                "ro": "Plimbați-vă prin magazine pentru a traversa centrul fără a vă uda.",
+                "en": "Hop between boutiques to stay dry while traversing the main street."
+              }
+            },
+            {
+              "name": "Cathedral of Taormina",
+              "tip_5lang": {
+                "de": "Ein würdevoller, trockener Ort, um den Tag entspannt ausklingen zu lassen.",
+                "hu": "Méltóságteljes, száraz helyszín a nap nyugodt lezárásához.",
+                "ro": "Un loc demn și uscat pentru a încheia ziua într-o notă relaxantă.",
+                "en": "A dignified, dry space to end your day in a relaxed atmosphere."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil wegen des rutschigen Pflasters.",
+              "Kaufen Sie einen stabilen Regenschirm in den Geschäften am Corso Umberto.",
+              "Die Cafés unter den Bögen bieten den besten Schutz.",
+              "Nutzen Sie die Zeit für längere Museumsbesuche im Palazzo Corvaja.",
+              "Prüfen Sie, ob die Seilbahn bei starkem Wind in Betrieb ist."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt a csúszós márványburkolat miatt.",
+              "Vegyünk egy erős esernyőt a Corso Umberto egyik üzletében.",
+              "Az ívek alatti kávézók kínálják a legjobb védelmet.",
+              "Használja ki az időt hosszabb múzeumlátogatásra a Corvaja-palotában.",
+              "Erős szél esetén ellenőrizze, hogy jár-e a libegő."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună pentru pavajul alunecos.",
+              "Cumpărați o umbrelă rezistentă din magazinele de pe Corso Umberto.",
+              "Cafenelele de sub arcade oferă cea mai bună protecție.",
+              "Folosiți timpul pentru vizite prelungite la muzeul din Palazzo Corvaja.",
+              "Verificați dacă telecabina funcționează în caz de vânt puternic."
+            ],
+            "en": [
+              "Wear shoes with good grip due to the slippery marble pavement.",
+              "Buy a sturdy umbrella in the shops along Corso Umberto.",
+              "Cafes under the arches provide the best protection from downpours.",
+              "Take advantage of the rain for longer museum visits at Corvaja Palace.",
+              "Check if the cable car is running during high winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Palazzo Corvaja ist klar und erfrischend. Mittags strahlt die Sonne mild auf das Antike Theater, während der Ätna oft schneebedeckt leuchtet. Nachmittags sinkt die Temperatur in der Villa Comunale spürbar, was zu einem zügigen Spaziergang einlädt. Der frühe Sonnenuntergang taucht die Piazza IX Aprile in goldenes Licht, bevor man sich in den Dom zurückzieht.",
+            "hu": "A téli reggel a Corvaja-palotánál frissítő és tiszta. Délben a nap lágyan süti az Antik Színházat, ahonnan csodás kilátás nyílik a havas Etnára. Délután a Villa Comunale kertjében már hűvös a szellő, de a látvány kárpótol. A korai naplemente aranyba borítja a Piazza IX Aprile terét, majd az este a katedrális csendjében ér véget.",
+            "ro": "Dimineața de iarnă la Palazzo Corvaja este limpede și revigorantă. La prânz, soarele blând strălucește peste Teatrul Antic, oferind vederi spre Etna înzăpezit. După-amiaza, temperatura scade în Villa Comunale, invitând la o plimbare alertă. Apusul timpuriu scaldă Piazza IX Aprile în lumină aurie înainte de a vizita Catedrala.",
+            "en": "A winter morning at Corvaja Palace is crisp and refreshing. By noon, the mild sun warms the Ancient Theatre, offering clear views of snow-capped Etna. Afternoon at Villa Comunale is cool but peaceful without the crowds. The early sunset bathes Piazza IX Aprile in golden hues before the evening chill leads you to the warmth of the Cathedral's stone interior."
+          },
+          "stops": [
+            {
+              "name": "Corvaja Palace",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne die Touristenmassen des Sommers.",
+                "hu": "Élvezze a nyugalmat a nyári turistaáradat nélkül.",
+                "ro": "Bucurați-vă de liniște fără mulțimile de turiști din timpul verii.",
+                "en": "Enjoy the tranquility without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Ancient Theatre of Taormina",
+              "tip_5lang": {
+                "de": "Beste Sicht auf den schneebedeckten Ätna bei klarer Winterluft.",
+                "hu": "A tiszta téli levegőben látszik legjobban a havas Etna.",
+                "ro": "Cea mai bună vizibilitate spre Etna înzăpezit datorită aerului curat.",
+                "en": "Best views of snow-capped Etna thanks to the clear winter air."
+              }
+            },
+            {
+              "name": "Naumachie",
+              "tip_5lang": {
+                "de": "Das warme Licht der tiefstehenden Sonne betont die Ziegelstrukturen.",
+                "hu": "Az alacsonyan járó nap meleg fénye kiemeli a téglafalak textúráját.",
+                "ro": "Lumina caldă a soarelui de iarnă scoate în evidență textura cărămizilor.",
+                "en": "The warm light of the low winter sun emphasizes the brick structures."
+              }
+            },
+            {
+              "name": "Villa Comunale",
+              "tip_5lang": {
+                "de": "Schließen Sie den Besuch vor 17 Uhr ab, da es schnell kühl wird.",
+                "hu": "Fejezze be a látogatást 17 óra előtt, mert gyorsan lehűl a levegő.",
+                "ro": "Încheiați vizita înainte de ora 17:00, deoarece se răcește rapid.",
+                "en": "Complete your visit before 5 PM as the temperature drops quickly."
+              }
+            },
+            {
+              "name": "Piazza IX Aprile",
+              "tip_5lang": {
+                "de": "Perfekter Ort für einen Sonnenuntergangs-Aperitif mit Aussicht.",
+                "hu": "Tökéletes helyszín egy naplementés aperitívhez a kilátással.",
+                "ro": "Locul perfect pentru un aperitiv la apus cu vedere spre mare.",
+                "en": "Perfect spot for a sunset aperitif with a stunning view."
+              }
+            },
+            {
+              "name": "Corso Umberto",
+              "tip_5lang": {
+                "de": "Probieren Sie saisonale Köstlichkeiten wie frisch geröstete Kastanien.",
+                "hu": "Kóstolja meg a szezonális finomságokat, például a sült gesztenyét.",
+                "ro": "Gustați delicatesele sezoniere, cum ar fi castanele coapte.",
+                "en": "Try seasonal delicacies like freshly roasted chestnuts along the street."
+              }
+            },
+            {
+              "name": "Cathedral of Taormina",
+              "tip_5lang": {
+                "de": "Bewundern Sie die festliche Dekoration und die Ruhe im Inneren.",
+                "hu": "Csodálja meg az ünnepi díszítést és a belső tér nyugalmát.",
+                "ro": "Admirați decorațiunile festive și liniștea din interior.",
+                "en": "Admire the festive decorations and the peaceful atmosphere inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip für warme Sonne und kalten Schatten.",
+              "Der Sonnenuntergang ist bereits gegen 16:45 Uhr.",
+              "Viele Hotels bieten im Winter günstigere Raten an.",
+              "Probieren Sie die heiße Schokolade in den lokalen Pasticcerien.",
+              "Die Seilbahn hat im Winter oft eingeschränkte Betriebszeiten."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a meleg napsütés és a hideg árnyék miatt.",
+              "A naplemente már 16:45 körül bekövetkezik.",
+              "Sok szálloda kedvezőbb árakat kínál télen.",
+              "Kóstolja meg a sűrű forró csokoládét a helyi cukrászdákban.",
+              "A libegő üzemideje télen gyakran rövidebb."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru soarele cald și umbra rece.",
+              "Apusul are loc în jurul orei 16:45.",
+              "Multe hoteluri oferă tarife mai mici în timpul iernii.",
+              "Gustați ciocolata caldă densă în patiseriile locale.",
+              "Telecabina are adesea program redus pe timpul iernii."
+            ],
+            "en": [
+              "Dress in layers for the warm sun and the cold shade.",
+              "Sunset occurs early, around 4:45 PM.",
+              "Many hotels offer better rates during the winter season.",
+              "Try the thick hot chocolate in the local pastry shops.",
+              "The cable car often has reduced operating hours in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -642,6 +1158,386 @@
           "Use the SS114 coastal road for longer, flatter stretches.",
           "Take enough water for the steep climb."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt auf der Piazza IX Aprile mit einem Panoramablick. Danach folgt die rasante Abfahrt hinunter zur Isola Bella, wo der Vormittag am kristallklaren Wasser verbracht wird. Mittags geht es auf der Küstenstraße weiter, bevor der anstrengendere Anstieg zurück in die Oberstadt erfolgt.\n\nNach der Anstrengung bietet die Villa Comunale schattige Ruhepausen. Am späten Nachmittag wird das Rad durch den Corso Umberto geschoben, um die Boutiquen zu bewundern, bis die Tour schließlich am Domplatz endet. Eine perfekte Kombination aus Küstenbrise und historischem Flair.",
+            "hu": "A kerékpártúra a Piazza IX Aprile téren indul panorámás kilátással. Ezután következik a lendületes ereszkedés az Isola Bella felé, ahol a délelőttöt a kristálytiszta víz mellett töltjük. Délben a parti úton haladunk tovább, mielőtt megkezdődne a fárasztóbb emelkedő vissza a felsővárosba.\n\nA megerőltetés után a Villa Comunale kínál árnyas pihenőket. Késő délután a kerékpárt a Corso Umbertón keresztül toljuk, megcsodálva a butikokat, amíg a túra végül a dóm téren véget nem ér. A tengeri szellő és a történelmi hangulat tökéletes kombinációja.",
+            "ro": "Turul cu bicicleta începe în Piazza IX Aprile cu o vedere panoramică. Urmează coborârea rapidă spre Isola Bella, unde dimineața este petrecută lângă apa cristalină. La prânz continuăm pe drumul de coastă înainte de a începe urcarea mai solicitantă înapoi în orașul de sus.\n\nDupă efort, Villa Comunale oferă pauze de odihnă la umbră. La sfârșitul după-amiezii, bicicleta este împinsă prin Corso Umberto pentru a admira buticurile, până când turul se termină în cele din urmă în piața domului. O combinație perfectă de briză marină și fler istoric.",
+            "en": "The bike tour starts at Piazza IX Aprile with a panoramic view. Then follows the rapid descent down to Isola Bella, where the morning is spent by the crystal-clear water. At noon, we continue on the coastal road before the more strenuous climb back to the upper town begins.\n\nAfter the effort, Villa Comunale offers shaded rest stops. In the late afternoon, the bike is pushed through Corso Umberto to admire the boutiques until the tour finally ends at the Cathedral Square. A perfect combination of coastal breeze and historical flair."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza IX Aprile",
+                "hu": "Piazza IX Aprile",
+                "ro": "Piazza IX Aprile",
+                "en": "Piazza IX Aprile"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt mit flachem Gelände, bevor die Abfahrt zur Küste beginnt.",
+                "hu": "Lapos terepű kiindulópont, mielőtt megkezdődik a leereszkedés a part felé.",
+                "ro": "Punct de plecare cu teren plat înainte de a începe coborârea spre coastă.",
+                "en": "Flat starting point before the descent to the coast begins."
+              }
+            },
+            {
+              "name": {
+                "de": "Isola Bella",
+                "hu": "Isola Bella",
+                "ro": "Isola Bella",
+                "en": "Isola Bella"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad oben an der Treppe an; der Strand ist nur zu Fuß erreichbar.",
+                "hu": "Zárd le a kerékpárt a lépcső tetején; a strand csak gyalogosan érhető el.",
+                "ro": "Încuiați bicicleta în vârful scărilor; plaja este accesibilă doar pe jos.",
+                "en": "Lock your bike at the top of the stairs; the beach is only accessible on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Comunale",
+                "hu": "Villa Comunale park",
+                "ro": "Villa Comunale",
+                "en": "Villa Comunale"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der Via Roma, um diesen Park mit tollen Fotostopps zu erreichen.",
+                "hu": "Óvatosan tekerj a Via Román, hogy elérd ezt a parkot remek fotómegállókkal.",
+                "ro": "Pedalați cu atenție pe Via Roma pentru a ajunge la acest parc cu opriri foto grozave.",
+                "en": "Cycle carefully on Via Roma to reach this park with great photo stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Corso Umberto",
+                "hu": "Corso Umberto",
+                "ro": "Corso Umberto",
+                "en": "Corso Umberto"
+              },
+              "tip_5lang": {
+                "de": "In der Fußgängerzone müssen Fahrräder geschoben werden.",
+                "hu": "A sétálóövezetben a kerékpárokat tolni kell.",
+                "ro": "În zona pietonală, bicicletele trebuie împinse pe lângă.",
+                "en": "In the pedestrian zone, bikes must be pushed."
+              }
+            },
+            {
+              "name": {
+                "de": "Dom von Taormina",
+                "hu": "Taorminai dóm",
+                "ro": "Domul din Taormina",
+                "en": "Cathedral of Taormina"
+              },
+              "tip_5lang": {
+                "de": "Das Ende der Tour am westlichen Stadttor (Porta Catania).",
+                "hu": "A túra vége a nyugati városkapunál (Porta Catania).",
+                "ro": "Sfârșitul turului la poarta de vest a orașului (Porta Catania).",
+                "en": "End of the tour at the western city gate (Porta Catania)."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Granita al Limone",
+                "tip": "Erfrischen Sie sich nach der Fahrt im Bam Bar."
+              },
+              {
+                "name": "Frittierter Fisch",
+                "tip": "Genießen Sie frische Meeresfrüchte in Giardini Naxos am Strand."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Citromos granita",
+                "tip": "Frissülj fel a tekerés után a Bam Bar-ban."
+              },
+              {
+                "name": "Sült hal",
+                "tip": "Élvezd a friss tenger gyümölcseit Giardini Naxos strandján."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Granita de lămâie",
+                "tip": "Răcoriți-vă după plimbare la Bam Bar."
+              },
+              {
+                "name": "Pește prăjit",
+                "tip": "Savurați fructe de mare proaspete pe plaja din Giardini Naxos."
+              }
+            ],
+            "en": [
+              {
+                "name": "Lemon Granita",
+                "tip": "Refresh yourself after the ride at Bam Bar."
+              },
+              {
+                "name": "Fried Fish",
+                "tip": "Enjoy fresh seafood at the beach in Giardini Naxos."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Isola Bella Bucht",
+                "tip": "Suchen Sie sich einen Platz auf den Felsen am frühen Morgen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Isola Bella öböl",
+                "tip": "Keress egy helyet a sziklákon kora reggel.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Golful Isola Bella",
+                "tip": "Găsiți un loc pe stânci dimineața devreme.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Isola Bella Bay",
+                "tip": "Find a spot on the rocks early in the morning.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Rad-Souvenirs",
+                "tip": "Kleine lokale Läden in der Nähe von Porta Messina."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kerékpáros szuvenírek",
+                "tip": "Kis helyi boltok a Porta Messina közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Suveniruri pentru bicicliști",
+                "tip": "Mici magazine locale lângă Porta Messina."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cycling Souvenirs",
+                "tip": "Small local shops near Porta Messina."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Straße von Taormina nach Isola Bella ist sehr kurvig; achten Sie auf Busse.",
+              "Ein Elektrofahrrad (E-Bike) wird für den Rückweg dringend empfohlen.",
+              "In der Hochsaison ist Radfahren in der Altstadt fast unmöglich; parken Sie außerhalb.",
+              "Nutzen Sie die Küstenstraße SS114 für längere, flachere Strecken.",
+              "Nehmen Sie ausreichend Wasser für den steilen Anstieg mit."
+            ],
+            "hu": [
+              "A Taormina és Isola Bella közötti út nagyon kanyargós; figyelj a buszokra.",
+              "Az elektromos kerékpár (e-bike) erősen ajánlott a visszaúthoz.",
+              "Főszezonban a biciklizés az óvárosban szinte lehetetlen; parkolj kívül.",
+              "Használd az SS114-es parti utat a hosszabb, laposabb szakaszokhoz.",
+              "Vigyél magaddal elegendő vizet a meredek emelkedőhöz."
+            ],
+            "ro": [
+              "Drumul de la Taormina la Isola Bella este foarte sinuos; atenție la autobuze.",
+              "O bicicletă electrică (e-bike) este recomandată pentru drumul de întoarcere.",
+              "În plin sezon, mersul pe bicicletă în orașul vechi este aproape imposibil; parcați în exterior.",
+              "Folosiți drumul de coastă SS114 pentru trasee mai lungi și mai plate.",
+              "Luați suficientă apă pentru urcarea abruptă."
+            ],
+            "en": [
+              "The road from Taormina to Isola Bella is very winding; watch out for buses.",
+              "An electric bike (e-bike) is highly recommended for the return journey.",
+              "In peak season, cycling in the old town is almost impossible; park outside.",
+              "Use the SS114 coastal road for longer, flatter stretches.",
+              "Take enough water for the steep climb."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt vorsichtig an der Piazza IX Aprile. Die Abfahrt zur Isola Bella erfordert bei Nässe volle Konzentration. Mittags bietet das Naturschutzgebiet eine raue, wilde Schönheit im Regen. Nachmittags ist der Aufstieg zurück zur Villa Comunale anstrengend, aber die frische Luft belebt. Der Abend am Corso Umberto dient der Erholung nach der feuchten Tour.",
+            "hu": "A nap óvatosan indul a Piazza IX Aprile téren. Az Isola Bella felé vezető lejtő nedves időben nagy koncentrációt igényel. Délben a természetvédelmi terület vad szépséget mutat az esőben. Délután a visszatérés a Villa Comunale kertjébe fárasztó, de a friss levegő frissítő. Az este a Corso Umbertón a pihenésé a nedves túra után.",
+            "ro": "Ziua începe cu prudență în Piazza IX Aprile. Coborârea spre Isola Bella necesită concentrare maximă pe carosabil umed. La prânz, rezervația naturală oferă o frumusețe sălbatică sub ploaie. După-amiaza, urcarea înapoi spre Villa Comunale este solicitantă, dar aerul proaspăt revigorează. Seara pe Corso Umberto este dedicată relaxării.",
+            "en": "The day starts cautiously at Piazza IX Aprile. The descent to Isola Bella requires full focus on wet roads. By noon, the nature reserve displays a raw, wild beauty in the rain. In the afternoon, the climb back to Villa Comunale is strenuous but the fresh air is invigorating. The evening on Corso Umberto is for recovery after a damp cycling tour."
+          },
+          "stops": [
+            {
+              "name": "Piazza IX Aprile",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das glatte Marmorpflaster beim Aufsteigen.",
+                "hu": "Felszálláskor kerülje a sima márványburkolatot.",
+                "ro": "Evitați pavajul de marmură alunecos când vă urcați pe bicicletă.",
+                "en": "Avoid the smooth marble pavement when mounting your bike."
+              }
+            },
+            {
+              "name": "Isola Bella",
+              "tip_5lang": {
+                "de": "Die Kieselsteine am Strand sind rutschig; genießen Sie die wilde Brandung.",
+                "hu": "A kavicsos part csúszós; élvezze a vad hullámverést.",
+                "ro": "Pietrele de pe plajă sunt alunecoase; admirați marea agitată.",
+                "en": "The pebbles on the beach are slippery; enjoy the wild surf from a distance."
+              }
+            },
+            {
+              "name": "Villa Comunale",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad auf den nassen Kieswegen im Park.",
+                "hu": "A park nedves kavicsos útjain tolja a kerékpárt.",
+                "ro": "Împingeți bicicleta pe aleile cu pietriș umed din parc.",
+                "en": "Push your bike on the wet gravel paths inside the park."
+              }
+            },
+            {
+              "name": "Corso Umberto",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad sicher und gehen Sie den Rest zu Fuß unter Markisen.",
+                "hu": "Parkolja le a bringát, és sétáljon tovább a védett ívek alatt.",
+                "ro": "Parcați bicicleta în siguranță și mergeți pe jos sub copertine.",
+                "en": "Park your bike securely and walk the rest under the awnings."
+              }
+            },
+            {
+              "name": "Cathedral of Taormina",
+              "tip_5lang": {
+                "de": "Ein trockener Ort, um die Muskeln nach der Fahrt zu dehnen.",
+                "hu": "Száraz helyszín az izmok nyújtásához a tekerés után.",
+                "ro": "Un loc uscat pentru a vă întinde mușchii după cursă.",
+                "en": "A dry place to stretch your muscles after the rainy ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der steilen Abfahrt zur Küste.",
+              "Tragen Sie eine vollflächige Regenjacke und wasserfeste Handschuhe.",
+              "Vermeiden Sie metallische Gullydeckel, die bei Nässe spiegelglatt sind.",
+              "Fahren Sie mit niedrigerem Reifendruck für mehr Grip.",
+              "Planen Sie Pausen in Cafés ein, um die Ausrüstung zu trocknen."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket a tengerparti meredek lejtő előtt.",
+              "Viseljen teljes esőkabátot és vízálló kesztyűt.",
+              "Kerülje a fém csatornafedeleket, amelyek vizesen tükörsimák.",
+              "Használjon alacsonyabb guminyomást a jobb tapadásért.",
+              "Tervezzen szüneteket kávézókban a felszerelés szárításához."
+            ],
+            "ro": [
+              "Verificați frânele înainte de coborârea abruptă spre coastă.",
+              "Purtați o jachetă de ploaie completă și mănuși impermeabile.",
+              "Evitați capacele de canal metalice, care sunt extrem de alunecoase.",
+              "Folosiți o presiune mai mică în pneuri pentru aderență sporită.",
+              "Planificați pauze în cafenele pentru a vă usca echipamentul."
+            ],
+            "en": [
+              "Check your brakes before the steep descent to the coast.",
+              "Wear a full raincoat and waterproof gloves.",
+              "Avoid metal manhole covers, which are ice-slick when wet.",
+              "Ride with lower tire pressure for better grip on wet stone.",
+              "Plan breaks in cafes to dry off your gear and warm up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt an der Piazza IX Aprile. Die Fahrt zur Isola Bella ist bei kühler Luft angenehm schweißfrei. Mittags glitzert das Meer in der tiefstehenden Sonne. Der Nachmittag in der Villa Comunale bietet windgeschützte Ecken für eine Pause. Der Abend am Corso Umberto wird durch die festliche Beleuchtung zu einem optischen Highlight.",
+            "hu": "Friss téli reggel indul a Piazza IX Aprile téren. Az Isola Bella felé tekerés a hűvös levegőben kellemesen izzadságmentes. Délben a tenger csillog az alacsony napfényben. A délután a Villa Comunale szélvédett sarkaiban alkalmas a pihenésre. Az este a Corso Umbertón az ünnepi kivilágításnak köszönhetően válik különlegessé.",
+            "ro": "O dimineață răcoroasă de iarnă începe în Piazza IX Aprile. Cursa spre Isola Bella este plăcută și fără efort în aerul rece. La prânz, marea sclipeste sub soarele blând. După-amiaza în Villa Comunale oferă colțuri ferite de vânt pentru o pauză. Seara pe Corso Umberto devine un punct culminant datorită iluminatului festiv.",
+            "en": "A crisp winter morning starts at Piazza IX Aprile. The ride down to Isola Bella is pleasant and sweat-free in the cool air. By noon, the sea sparkles under the low winter sun. The afternoon at Villa Comunale offers sheltered spots for a rest. The evening on Corso Umberto becomes a visual highlight with the festive winter lights."
+          },
+          "stops": [
+            {
+              "name": "Piazza IX Aprile",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf das winterliche Meer.",
+                "hu": "Élvezze a tágas kilátást a téli tengerre.",
+                "ro": "Bucurați-vă de vederea panoramică asupra mării pe timp de iarnă.",
+                "en": "Enjoy the expansive view of the winter sea from the terrace."
+              }
+            },
+            {
+              "name": "Isola Bella",
+              "tip_5lang": {
+                "de": "Wenig Betrieb; ideal für Fotos der unberührten Küste.",
+                "hu": "Kevés látogató; ideális fotózáshoz az érintetlen parton.",
+                "ro": "Puțini turiști; ideal pentru fotografii ale coastei virgine.",
+                "en": "Low traffic; ideal for photos of the pristine coastline."
+              }
+            },
+            {
+              "name": "Villa Comunale",
+              "tip_5lang": {
+                "de": "Suchen Sie sonnige Plätze, um die Wärme des Mittags zu speichern.",
+                "hu": "Keressen napos helyeket, hogy elraktározza a délutáni meleget.",
+                "ro": "Căutați locurile însorite pentru a profita de căldura amiezii.",
+                "en": "Find sunny spots to soak up the midday warmth."
+              }
+            },
+            {
+              "name": "Corso Umberto",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad langsam durch die weihnachtlich dekorierte Gasse.",
+                "hu": "Tolja lassan a bringát a karácsonyi díszbe öltözött utcán.",
+                "ro": "Împingeți bicicleta încet prin străduța decorată de Crăciun.",
+                "en": "Push your bike slowly through the festively decorated main street."
+              }
+            },
+            {
+              "name": "Cathedral of Taormina",
+              "tip_5lang": {
+                "de": "Das Innere bietet Schutz vor dem kühlen Abendwind.",
+                "hu": "A belső tér védelmet nyújt a hűvös esti szél ellen.",
+                "ro": "Interiorul oferă protecție împotriva vântului rece de seară.",
+                "en": "The interior provides a welcome shield from the cool evening wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders für die Abfahrten.",
+              "Handschuhe sind wegen des Fahrtwinds unerlässlich.",
+              "Der Sonnenuntergang gegen 17 Uhr beendet die sichere Fahrzeit im Hellen.",
+              "Nehmen Sie ein heißes Getränk in einer Thermoskanne mit.",
+              "Vermeiden Sie schattige Bergstraßen, da es dort deutlich kühler ist."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, különösen a lejtőkön.",
+              "A kesztyű elengedhetetlen a menetszél miatt.",
+              "A naplemente 17 óra körül véget vet a világosban való tekerésnek.",
+              "Vigyen magával forró italt termoszban.",
+              "Kerülje az árnyékos hegyi utakat, ott jóval hűvösebb van."
+            ],
+            "ro": [
+              "Purtați îmbrăcăminte rezistentă la vânt, mai ales pentru coborâri.",
+              "Mănușile sunt esențiale din cauza vântului la deplasare.",
+              "Apusul în jurul orei 17:00 limitează timpul de condus pe lumină.",
+              "Luați o băutură caldă într-un termos.",
+              "Evitați drumurile de munte umbrite, unde este mult mai frig."
+            ],
+            "en": [
+              "Wear windproof clothing, especially for the descents.",
+              "Gloves are essential due to the wind chill while riding.",
+              "Sunset at 5 PM marks the end of safe daylight riding time.",
+              "Carry a hot drink in a thermos for your breaks.",
+              "Avoid shaded mountain roads as they are significantly cooler."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -924,6 +1820,418 @@
           "Parking at Isola Bella is almost impossible in summer; use the cable car.",
           "Driving style in Sicily is dynamic; stay calm."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt spektakulär am Castello Saraceno, das über der Stadt thront. Anschließend geht es zum antiken Theater und einem Mittagessen im Zentrum. Mit dem Auto erreichen wir danach die Bucht von Isola Bella für ein ausgiebiges Bad.\n\nDer späte Nachmittag gehört der Altstadt und dem Dom, bevor wir zum Sonnenuntergang die kurvenreiche Straße nach Castelmola hinauffahren. Von dort oben hat man den besten Blick auf den Ätna und Taormina bei Nacht. Ein krönender Abschluss eines erlebnisreichen Tages.",
+            "hu": "A nap látványosan indul a város felett trónoló Castello Saracenónál. Ezt követően a görög színház és egy belvárosi ebéd következik. Autóval könnyen elérjük az Isola Bella öblét egy kiadós fürdőzéshez.\n\nA késő délután az óvárosé és a dómé, mielőtt a naplementére felautóznánk a kanyargós úton Castelmolába. Onnan nyílik a legjobb kilátás az Etnára és az éjszakai Taorminára. Egy élménydús nap méltó lezárása.",
+            "ro": "Ziua începe spectaculos la Castello Saraceno, care domină orașul. Apoi mergem la teatrul antic și luăm prânzul în centru. Cu mașina ajungem ulterior în golful Isola Bella pentru o baie prelungită.\n\nDupă-amiaza târzie aparține orașului vechi și domului, înainte de a urca pe drumul sinuos spre Castelmola pentru apus. De acolo sus aveți cea mai bună vedere asupra Muntelui Etna și a Taorminei pe timp de noapte. O încheiere perfectă a unei zile pline de experiențe.",
+            "en": "The day begins spectacularly at the Saracen Castle, perched above the city. Then it's on to the ancient theatre and lunch in the center. By car, we then reach the bay of Isola Bella for an extensive swim.\n\nThe late afternoon belongs to the old town and the cathedral before we drive up the winding road to Castelmola for sunset. From up there, you have the best view of Etna and Taormina at night. A crowning conclusion to an eventful day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello Saraceno",
+                "hu": "Castello Saraceno",
+                "ro": "Castello Saraceno",
+                "en": "Saracen Castle"
+              },
+              "tip_5lang": {
+                "de": "Von hier oben überblicken Sie ganz Taormina und die Küste bis Messina.",
+                "hu": "Innen fentről belátni egész Taorminát és a partvonalat egészen Messináig.",
+                "ro": "De aici puteți vedea întreaga Taormina și linia de coastă până la Messina.",
+                "en": "From up here, you can see all of Taormina and the coastline all the way to Messina."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Theater von Taormina",
+                "hu": "Taorminai görög színház",
+                "ro": "Teatrul Antic din Taormina",
+                "en": "Ancient Theatre of Taormina"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus Lumbi und nehmen Sie den Shuttle ins Zentrum.",
+                "hu": "Parkolj a Lumbi parkolóházban, és használd az ingajáratot a központba.",
+                "ro": "Parcați în parcarea Lumbi și luați naveta către centru.",
+                "en": "Park in the Lumbi parking garage and take the shuttle to the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza IX Aprile",
+                "hu": "Piazza IX Aprile",
+                "ro": "Piazza IX Aprile",
+                "en": "Piazza IX Aprile"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für ein schnelles Mittagessen mit Aussicht.",
+                "hu": "Tökéletes hely egy gyors ebédre pazar kilátással.",
+                "ro": "Locul perfect pentru un prânz rapid cu vedere.",
+                "en": "The perfect place for a quick lunch with a view."
+              }
+            },
+            {
+              "name": {
+                "de": "Isola Bella",
+                "hu": "Isola Bella",
+                "ro": "Isola Bella",
+                "en": "Isola Bella"
+              },
+              "tip_5lang": {
+                "de": "Es gibt begrenzte Parkplätze an der Straße; kommen Sie früh oder parken Sie in Mazzarò.",
+                "hu": "Korlátozott parkolóhelyek vannak az út mentén; érkezz korán vagy parkolj Mazzaròban.",
+                "ro": "Există locuri de parcare limitate pe marginea drumului; veniți devreme sau parcați în Mazzarò.",
+                "en": "There are limited parking spots along the road; arrive early or park in Mazzarò."
+              }
+            },
+            {
+              "name": {
+                "de": "Dom von Taormina",
+                "hu": "Taorminai dóm",
+                "ro": "Domul din Taormina",
+                "en": "Cathedral of Taormina"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus Porta Catania, das direkt unter dem Domplatz liegt.",
+                "hu": "Használd a Porta Catania parkolóházat, amely közvetlenül a dóm tér alatt található.",
+                "ro": "Folosiți parcarea Porta Catania, situată direct sub piața domului.",
+                "en": "Use the Porta Catania parking garage, located directly below the Cathedral Square."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelmola (Ausflug)",
+                "hu": "Castelmola (kirándulás)",
+                "ro": "Castelmola (excursie)",
+                "en": "Castelmola (Excursion)"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den berühmten Mandelwein in der Bar Turrisi.",
+                "hu": "Kóstold meg a híres mandulabort a Bar Turrisiban.",
+                "ro": "Savurați faimosul vin de migdale la Bar Turrisi.",
+                "en": "Enjoy the famous almond wine at Bar Turrisi."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Mandelwein (Vino alla Mandorla)",
+                "tip": "Ein Muss in Castelmola."
+              },
+              {
+                "name": "Pesce Spada",
+                "tip": "Schwertfisch in den Restaurants an der Küste von Mazzarò."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mandulabor (Vino alla Mandorla)",
+                "tip": "Kihagyhatatlan Castelmolában."
+              },
+              {
+                "name": "Pesce Spada",
+                "tip": "Kardhal a Mazzarò-parti éttermekben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vin de migdale (Vino alla Mandorla)",
+                "tip": "Obligatoriu în Castelmola."
+              },
+              {
+                "name": "Pesce Spada",
+                "tip": "Pește spadă în restaurantele de pe coasta Mazzarò."
+              }
+            ],
+            "en": [
+              {
+                "name": "Almond Wine (Vino alla Mandorla)",
+                "tip": "A must-try in Castelmola."
+              },
+              {
+                "name": "Pesce Spada",
+                "tip": "Swordfish in the restaurants on the coast of Mazzarò."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Castelmola Aussichtspunkt",
+                "tip": "Besonders ruhig nach den Tagestouristen.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Castelmola kilátópont",
+                "tip": "Különösen csendes a napi turistacsoportok után.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punctul de belvedere Castelmola",
+                "tip": "Deosebit de liniștit după plecarea turiștilor de o zi.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Castelmola Lookout",
+                "tip": "Especially quiet after the day tourists leave.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lederwaren",
+                "tip": "In den Geschäften am Corso Umberto."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bőráruk",
+                "tip": "A Corso Umberto üzleteiben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Articole din piele",
+                "tip": "În magazinele de pe Corso Umberto."
+              }
+            ],
+            "en": [
+              {
+                "name": "Leather Goods",
+                "tip": "In the shops along Corso Umberto."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Fahren Sie niemals mit dem Auto in die ZTL (verkehrsberuhigte Zone) im Zentrum.",
+              "Nutzen Sie die großen Parkhäuser (Lumbi, Porta Catania, Porta Pasquale).",
+              "Die Straße nach Castelmola ist eng und steil; fahren Sie vorsichtig.",
+              "Parken bei Isola Bella ist im Sommer fast unmöglich, nutzen Sie die Seilbahn.",
+              "In Sizilien ist der Fahrstil dynamisch; bleiben Sie gelassen."
+            ],
+            "hu": [
+              "Soha ne hajts be autóval a központ ZTL (forgalomcsillapított) zónájába.",
+              "Használd a nagy parkolóházakat (Lumbi, Porta Catania, Porta Pasquale).",
+              "A Castelmola felé vezető út szűk és meredek; vezess óvatosan.",
+              "Isola Bella közelében nyáron szinte lehetetlen parkolni, használd a felvonót.",
+              "Szicíliában a vezetési stílus dinamikus; maradj nyugodt."
+            ],
+            "ro": [
+              "Nu intrați niciodată cu mașina în ZTL (zona cu trafic limitat) din centru.",
+              "Folosiți parcările mari (Lumbi, Porta Catania, Porta Pasquale).",
+              "Drumul spre Castelmola este îngust și abrupt; conduceți cu atenție.",
+              "Parcarea la Isola Bella este aproape imposibilă vara, folosiți telecabina.",
+              "În Sicilia stilul de condus este dinamic; rămâneți calmi."
+            ],
+            "en": [
+              "Never drive your car into the ZTL (limited traffic zone) in the center.",
+              "Use the large parking garages (Lumbi, Porta Catania, Porta Pasquale).",
+              "The road to Castelmola is narrow and steep; drive carefully.",
+              "Parking at Isola Bella is almost impossible in summer; use the cable car.",
+              "Driving style in Sicily is dynamic; stay calm."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt zur Sarazenenburg bietet trotz Regen tolle Ausblicke durch die Scheiben. Mittags parken Sie nah am Antiken Theater, um kurze Wege im Freien zu haben. Nachmittags ist die Fahrt zur Isola Bella entspannt, während die Regentropfen auf das Panoramadach trommeln. Der Abend in Castelmola oberhalb der Wolken ist ein unvergessliches Erlebnis.",
+            "hu": "Az út a Szaracén várhoz az eső ellenére is szép látványt nyújt az autó ablakából. Délben parkoljon az Antik Színház közelében, hogy lerövidítse a gyaloglást. Délután az Isola Bella felé autózás megnyugtató, ahogy az eső kopog a tetőn. Az este Castelmolában, a felhők felett felejthetetlen élményt kínál.",
+            "ro": "Drumul spre Castelul Sarazin oferă priveliști spectaculoase prin parbriz, în ciuda ploii. La prânz, parcați aproape de Teatrul Antic pentru a minimiza mersul pe jos. După-amiaza, drumul spre Isola Bella este relaxant. Seara în Castelmola, deasupra norilor, este o experiență de neuitat.",
+            "en": "The drive to the Saracen Castle offers great views from the dry interior of your car. By noon, parking near the Ancient Theatre keeps your outdoor exposure minimal. In the afternoon, cruising down to Isola Bella is soothing as rain taps on the roof. The evening in Castelmola, often above the clouds, is a truly unforgettable experience."
+          },
+          "stops": [
+            {
+              "name": "Saracen Castle",
+              "tip_5lang": {
+                "de": "Die Auffahrt ist kurvig; genießen Sie die Aussicht im Trockenen.",
+                "hu": "Az út kanyargós; élvezze a kilátást az autó biztonságából.",
+                "ro": "Urcarea este sinuoasă; admirați peisajul la adăpost.",
+                "en": "The drive up is winding; enjoy the panoramic views while staying dry."
+              }
+            },
+            {
+              "name": "Ancient Theatre of Taormina",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus Lumbi und den Shuttle zum Zentrum.",
+                "hu": "Használja a Lumbi parkolóházat és a központba tartó buszt.",
+                "ro": "Folosiți parcarea Lumbi și naveta către centru.",
+                "en": "Use the Lumbi parking garage and take the shuttle to the center."
+              }
+            },
+            {
+              "name": "Piazza IX Aprile",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für ein Foto, dann zurück ins warme Auto.",
+                "hu": "Csak egy gyors fotó erejéig szálljon ki, majd irány vissza az autó.",
+                "ro": "Coborâți scurt pentru o fotografie, apoi reveniți în mașină.",
+                "en": "Quick exit for a photo, then head back to the warmth of the car."
+              }
+            },
+            {
+              "name": "Isola Bella",
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Straße und beobachten Sie das Meer.",
+                "hu": "Parkoljon közvetlenül az út mentén, és figyelje a tengert.",
+                "ro": "Parcați chiar pe marginea drumului și observați marea.",
+                "en": "Park right by the road and watch the stormy sea from inside."
+              }
+            },
+            {
+              "name": "Cathedral of Taormina",
+              "tip_5lang": {
+                "de": "Parkhaus Porta Catania ist nur wenige Gehminuten entfernt.",
+                "hu": "A Porta Catania parkolóház mindössze pár perc séta.",
+                "ro": "Parcarea Porta Catania este la doar câteva minute de mers pe jos.",
+                "en": "Porta Catania parking garage is just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Castelmola (Excursion)",
+              "tip_5lang": {
+                "de": "Die Wolken hängen hier oft tief; eine mystische Fahrt.",
+                "hu": "Itt gyakran alacsonyan szállnak a felhők; misztikus autózás.",
+                "ro": "Norii sunt adesea joși aici; o călătorie mistică prin ceață.",
+                "en": "Clouds often hang low here; it's a mystical drive through the mist."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht auf den engen, nassen Serpentinen nach Castelmola.",
+              "Nutzen Sie die Parkhäuser Lumbi oder Porta Catania für trockene Wege.",
+              "Die Scheiben beschlagen schnell; Klimaanlage auf Entfrosten stellen.",
+              "Prüfen Sie den Zustand der Scheibenwischer vor der Abfahrt.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche in Küstennähe ein."
+            ],
+            "hu": [
+              "Vigyázzon a szűk, nedves szerpentineken Castelmola felé.",
+              "Használja a Lumbi vagy Porta Catania parkolóházat a szárazabb útvonalért.",
+              "Az ablakok gyorsan párásodnak; használja a jégmentesítő funkciót.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Tervezzen több időt a parkolásra a tengerpart közelében."
+            ],
+            "ro": [
+              "Atenție pe serpentinele înguste și umede spre Castelmola.",
+              "Folosiți parcările Lumbi sau Porta Catania pentru acces facil.",
+              "Geamurile se aburesc rapid; folosiți funcția de dezaburire.",
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Alocați mai mult timp pentru găsirea unui loc de parcare lângă coastă."
+            ],
+            "en": [
+              "Be cautious on the narrow, wet hairpins leading to Castelmola.",
+              "Use Lumbi or Porta Catania parking garages for shorter outdoor walks.",
+              "Windows fog up quickly; keep the air conditioning on defrost mode.",
+              "Check the condition of your windshield wipers before starting.",
+              "Allow extra time for finding a parking spot near the sea."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt mit der Auffahrt zur Sarazenenburg. Die Heizung sorgt für Komfort, während man die schneebedeckten Gipfel bewundert. Mittags ist das Parken am Antiken Theater stressfreier als im Sommer. Nachmittags glänzt die Isola Bella im harten Winterlicht. Der Tag endet in Castelmola, wo die Luft dünner und die Sicht unendlich weit ist.",
+            "hu": "Tiszta téli nap indul a Szaracén várhoz vezető úttal. A fűtés kényelmet ad, miközben a havas hegycsúcsokat csodálja. Délben a parkolás az Antik Színháznál jóval stresszmentesebb, mint nyáron. Délután az Isola Bella ragyog a kemény téli fényben. A nap Castelmolában ér véget, ahol a levegő friss, a kilátás pedig végtelen.",
+            "ro": "O zi senină de iarnă începe cu urcarea la Castelul Sarazin. Căldura din mașină oferă confort în timp ce admirați vârfurile înzăpezite. La prânz, parcarea lângă Teatrul Antic este mult mai ușoară. După-amiazza, Isola Bella strălucește în lumina rece. Ziua se termină în Castelmola, cu o vizibilitate infinită.",
+            "en": "A clear winter day begins with the drive up to the Saracen Castle. The car heater keeps you cozy while you admire the snowy peaks. By noon, parking near the Ancient Theatre is far less stressful than in summer. In the afternoon, Isola Bella shines in the sharp winter light. The day ends in Castelmola, where the air is crisp and the views are endless."
+          },
+          "stops": [
+            {
+              "name": "Saracen Castle",
+              "tip_5lang": {
+                "de": "Hervorragende Fernsicht bei klarer, kalter Winterluft.",
+                "hu": "Kiváló távlati kilátás a tiszta, hideg téli levegőben.",
+                "ro": "Vizibilitate excelentă la distanță datorită aerului rece și curat.",
+                "en": "Excellent long-distance visibility in the clear, cold winter air."
+              }
+            },
+            {
+              "name": "Ancient Theatre of Taormina",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter deutlich leichter zu finden.",
+                "hu": "Télen jóval könnyebb parkolóhelyet találni a közelben.",
+                "ro": "Locurile de parcare sunt mult mai ușor de găsit iarna.",
+                "en": "Parking spots are significantly easier to find during the winter."
+              }
+            },
+            {
+              "name": "Piazza IX Aprile",
+              "tip_5lang": {
+                "de": "Stellen Sie das Auto kurz ab für den Blick auf den Ätna.",
+                "hu": "Álljon meg rövid időre az autóval az Etna látványáért.",
+                "ro": "Opriți scurt mașina pentru a admira vederea spre Etna.",
+                "en": "Park briefly to enjoy the iconic view of Etna from the terrace."
+              }
+            },
+            {
+              "name": "Isola Bella",
+              "tip_5lang": {
+                "de": "Die Küstenstraße ist im Winter weniger befahren und entspannter.",
+                "hu": "A parti út télen kevésbé forgalmas és sokkal nyugodtabb.",
+                "ro": "Drumul de coastă este mai puțin circulat și mai relaxant iarna.",
+                "en": "The coastal road is less busy and much more relaxed in winter."
+              }
+            },
+            {
+              "name": "Cathedral of Taormina",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Wege vom Parkhaus direkt zum Dom.",
+                "hu": "Használja ki a rövid sétát a parkolóháztól a dómig.",
+                "ro": "Profitați de distanța scurtă de la parcare direct la Catedrală.",
+                "en": "Take advantage of the short walk from the parking garage to the Duomo."
+              }
+            },
+            {
+              "name": "Castelmola (Excursion)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glätte in schattigen Kurven am frühen Abend.",
+                "hu": "Vigyázzon a jegesedésre az árnyékos kanyarokban kora este.",
+                "ro": "Atenție la polei în curbele umbrite la începutul serii.",
+                "en": "Watch out for icy patches in shaded curves during the early evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte sinkt.",
+              "Nehmen Sie eine Decke für Pausen bei abgestelltem Motor mit.",
+              "Das Licht für Fotos ist zwischen 10 und 14 Uhr am besten.",
+              "Castelmola kann im Winter deutlich windiger und kälter sein.",
+              "Die meisten Parkgebühren sind im Winter unverändert."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást, mert a hidegben csökkenhet.",
+              "Vigyen takarót a leállított motor melletti pihenőkhöz.",
+              "A fotózáshoz 10 és 14 óra között a legjobbak a fények.",
+              "Castelmola télen jóval szelesebb és hidegebb lehet.",
+              "A legtöbb parkolási díj télen sem változik."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri, deoarece scade la frig.",
+              "Luați o pătură pentru pauzele cu motorul oprit.",
+              "Lumina pentru fotografii este cea mai bună între orele 10 și 14.",
+              "Castelmola poate fi mult mai vântos și mai rece iarna.",
+              "Majoritatea taxelor de parcare rămân neschimbate iarna."
+            ],
+            "en": [
+              "Check tire pressure as it drops in colder temperatures.",
+              "Keep a blanket in the car for breaks when the engine is off.",
+              "Lighting for photography is best between 10 AM and 2 PM.",
+              "Castelmola can be significantly windier and colder in winter.",
+              "Most parking fees remain the same during the winter season."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1206,6 +2514,418 @@
           "Always validate your ticket when boarding the bus.",
           "The cable car is out of operation during strong winds; replacement buses are available."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Nahverkehr lässt sich Taormina stressfrei erkunden. Wir starten am antiken Theater und dem Palazzo Corvaja. Mittags schweben wir mit der Seilbahn hinunter zum Strand von Isola Bella.\n\nNachmittags bringt uns die Seilbahn zurück in die Oberstadt für einen Kaffee auf der Piazza IX Aprile. Ein gemütlicher Bummel über den Corso Umberto führt uns zum Dom, bevor wir den Tag entspannt am westlichen Stadttor beenden, von wo aus die Busse zurück zu den Hotels oder zum Bahnhof fahren.",
+            "hu": "Tömegközlekedéssel Taormina stresszmentesen felfedezhető. A görög színháznál és a Palazzo Corvajánál kezdünk. Délben a felvonóval ereszkedünk le az Isola Bella strandjához.\n\nDélután a felvonó visszavisz minket a felsővárosba egy kávéra a Piazza IX Aprile téren. Egy kényelmes séta a Corso Umbertón elvezet a dómig, mielőtt a napot nyugodtan zárnánk a nyugati városkapunál, ahonnan a buszok indulnak vissza a szállodákhoz vagy a vasútállomáshoz.",
+            "ro": "Cu transportul public, Taormina poate fi explorată fără stres. Începem la teatrul antic și la Palazzo Corvaja. La prânz coborâm cu telecabina până la plaja Isola Bella.\n\nDupă-amiaza, telecabina ne aduce înapoi în orașul de sus pentru o cafea în Piazza IX Aprile. O plimbare relaxantă pe Corso Umberto ne duce la dom, înainte de a încheia ziua liniștiți la poarta de vest a orașului, de unde autobuzele pleacă înapoi spre hoteluri sau spre gară.",
+            "en": "Public transport allows for a stress-free exploration of Taormina. We start at the ancient theatre and Palazzo Corvaja. At noon, we glide down to the beach of Isola Bella via the cable car.\n\nIn the afternoon, the cable car brings us back to the upper town for a coffee at Piazza IX Aprile. A leisurely stroll along Corso Umberto leads us to the cathedral before we end the day relaxed at the western city gate, from where buses run back to the hotels or the train station."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antikes Theater von Taormina",
+                "hu": "Taorminai görög színház",
+                "ro": "Teatrul Antic din Taormina",
+                "en": "Ancient Theatre of Taormina"
+              },
+              "tip_5lang": {
+                "de": "Vom Busterminal in der Via Pirandello sind es nur wenige Minuten zu Fuß.",
+                "hu": "A Via Pirandello buszpályaudvartól csak pár perc gyalog.",
+                "ro": "De la autogara de pe Via Pirandello sunt doar câteva minute de mers pe jos.",
+                "en": "It's only a few minutes' walk from the bus terminal on Via Pirandello."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Corvaja",
+                "hu": "Palazzo Corvaja",
+                "ro": "Palazzo Corvaja",
+                "en": "Corvaja Palace"
+              },
+              "tip_5lang": {
+                "de": "Gleich neben der Porta Messina, dem nördlichen Eingang der Stadt.",
+                "hu": "Közvetlenül a Porta Messina, a város északi bejárata mellett.",
+                "ro": "Chiar lângă Porta Messina, intrarea de nord a orașului.",
+                "en": "Right next to Porta Messina, the northern entrance to the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Isola Bella",
+                "hu": "Isola Bella",
+                "ro": "Isola Bella",
+                "en": "Isola Bella"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Seilbahn (Funivia), die alle 15 Minuten fährt.",
+                "hu": "Használd a felvonót (Funivia), amely 15 percenként közlekedik.",
+                "ro": "Folosiți telecabina (Funivia), care circulă la fiecare 15 minute.",
+                "en": "Use the cable car (Funivia), which runs every 15 minutes."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza IX Aprile",
+                "hu": "Piazza IX Aprile",
+                "ro": "Piazza IX Aprile",
+                "en": "Piazza IX Aprile"
+              },
+              "tip_5lang": {
+                "de": "Nach der Rückfahrt mit der Seilbahn ein kurzer Spaziergang ins Herz der Stadt.",
+                "hu": "A felvonós visszaút után egy rövid séta a város szívébe.",
+                "ro": "După întoarcerea cu telecabina, o scurtă plimbare până în inima orașului.",
+                "en": "After the return trip by cable car, a short walk into the heart of the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Corso Umberto",
+                "hu": "Corso Umberto",
+                "ro": "Corso Umberto",
+                "en": "Corso Umberto"
+              },
+              "tip_5lang": {
+                "de": "Der Hauptbus von Giardini Naxos hält direkt am Eingang der Fußgängerzone.",
+                "hu": "A Giardini Naxos felől érkező fő buszjárat közvetlenül a sétálóövezet bejáratánál áll meg.",
+                "ro": "Autobuzul principal dinspre Giardini Naxos oprește chiar la intrarea în zona pietonală.",
+                "en": "The main bus from Giardini Naxos stops right at the entrance of the pedestrian zone."
+              }
+            },
+            {
+              "name": {
+                "de": "Dom von Taormina",
+                "hu": "Taorminai dóm",
+                "ro": "Domul din Taormina",
+                "en": "Cathedral of Taormina"
+              },
+              "tip_5lang": {
+                "de": "Endpunkt am Domplatz, von hier aus ist es nicht weit zur Bushaltestelle Porta Catania.",
+                "hu": "Végállomás a dóm téren, innen nincs messze a Porta Catania buszmegálló.",
+                "ro": "Punct final în piața domului, de aici nu este departe până la stația de autobuz Porta Catania.",
+                "en": "End point at the Cathedral Square, from here it's not far to the Porta Catania bus stop."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Brioche con Gelato",
+                "tip": "Ein typisch sizilianisches Frühstück, das man überall findet."
+              },
+              {
+                "name": "Arancini alla Carne",
+                "tip": "Ideal für den kleinen Hunger zwischen zwei Busverbindungen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Briós fagyival (Brioche con Gelato)",
+                "tip": "Tipikus szicíliai reggeli, amit bárhol megtalálsz."
+              },
+              {
+                "name": "Húsos arancini",
+                "tip": "Ideális egy gyors falatra két buszjárat között."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Brioche cu înghețată",
+                "tip": "Un mic dejun tipic sicilian pe care îl puteți găsi peste tot."
+              },
+              {
+                "name": "Arancini cu carne",
+                "tip": "Ideal pentru o gustare rapidă între două conexiuni de autobuz."
+              }
+            ],
+            "en": [
+              {
+                "name": "Brioche with Gelato",
+                "tip": "A typical Sicilian breakfast you can find everywhere."
+              },
+              {
+                "name": "Arancini with Meat",
+                "tip": "Ideal for a quick bite between bus connections."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Seilbahn-Aussicht",
+                "tip": "Genießen Sie den Blick während der 3-minütigen Fahrt.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kilátás a felvonóból",
+                "tip": "Élvezd a kilátást a 3 perces út alatt.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vederea din telecabină",
+                "tip": "Bucurați-vă de priveliște în timpul călătoriei de 3 minute.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Cable Car View",
+                "tip": "Enjoy the view during the 3-minute ride.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Kitsch-Kiosk",
+                "tip": "Klassische Postkarten am Busterminal."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szuvenír bódé",
+                "tip": "Klasszikus képeslapok a buszpályaudvaron."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chioșc de suveniruri",
+                "tip": "Cărți poștale clasice la autogară."
+              }
+            ],
+            "en": [
+              {
+                "name": "Souvenir Kiosk",
+                "tip": "Classic postcards at the bus terminal."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten für die Funivia am Schalter; Einzelfahrt ca. 3 Euro.",
+              "Der 'Taormina Link' Bus verbindet den Bahnhof Taormina-Giardini mit der Altstadt.",
+              "Die Fahrpläne der Überlandbusse (Interbus) können saisonal stark variieren.",
+              "Entwerten Sie Ihr Ticket immer beim Einsteigen in den Bus.",
+              "Die Seilbahn ist bei starkem Wind außer Betrieb; es gibt Ersatzbusse."
+            ],
+            "hu": [
+              "Vásárolj jegyet a felvonóra a pénztárnál; egy út kb. 3 euró.",
+              "A 'Taormina Link' busz összeköti a vasútállomást az óvárossal.",
+              "A távolsági buszok (Interbus) menetrendje szezonálisan nagyot változhat.",
+              "Mindig érvényesítsd a jegyedet, amikor felszállsz a buszra.",
+              "Erős szél esetén a felvonó nem közlekedik; ilyenkor pótlóbuszok vannak."
+            ],
+            "ro": [
+              "Cumpărați bilete pentru Funivia de la ghișeu; o călătorie costă aprox. 3 euro.",
+              "Autobuzul 'Taormina Link' face legătura între gară și orașul vechi.",
+              "Orarele autobuzelor interurbane (Interbus) pot varia mult în funcție de sezon.",
+              "Validați întotdeauna biletul când urcați în autobuz.",
+              "Telecabina nu funcționează pe vânt puternic; există autobuze de înlocuire."
+            ],
+            "en": [
+              "Buy tickets for the cable car at the counter; a single trip is approx. 3 euros.",
+              "The 'Taormina Link' bus connects the train station with the old town.",
+              "Intercity bus (Interbus) schedules can vary significantly by season.",
+              "Always validate your ticket when boarding the bus.",
+              "The cable car is out of operation during strong winds; replacement buses are available."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus geht es trocken zum Antiken Theater. Der Palazzo Corvaja bietet Schutz während der Mittagszeit. Nachmittags bringt Sie die Seilbahn zur Isola Bella, während man das Regenwetter von oben beobachtet. Die Rückfahrt zum Zentrum erfolgt bequem im warmen Bus. Der Abend endet nach einem kurzen Fußmarsch in der Cathedral of Taormina.",
+            "hu": "Busszal szárazon érkezhet az Antik Színházhoz. A Corvaja-palota védelmet nyújt a déli órákban. Délután a libegővel juthat le az Isola Bellához, miközben fentről figyeli az esőt. A visszautat a központba kényelmesen, a meleg buszban teheti meg. A nap egy rövid séta után a Taorminai Katedrálisban ér véget.",
+            "ro": "Cu autobuzul ajungeți uscat la Teatrul Antic. Palazzo Corvaja oferă adăpost în timpul prânzului. După-amiaza, telecabina vă duce la Isola Bella, oferind o vedere panoramică asupra ploii. Întoarcerea în centru se face confortabil cu autobuzul cald. Ziua se încheie după o scurtă plimbare la Catedrala din Taormina.",
+            "en": "Take the bus for a dry arrival at the Ancient Theatre. Corvaja Palace offers shelter during the midday hours. In the afternoon, the cable car transports you to Isola Bella while you watch the rain from above. The return to the center is comfortable in a warm bus. Your day concludes with a short walk to the Cathedral of Taormina."
+          },
+          "stops": [
+            {
+              "name": "Ancient Theatre of Taormina",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nah; halten Sie den Schirm bereit.",
+                "hu": "A buszmegálló közel van; tartsa készenlétben az esernyőt.",
+                "ro": "Stația de autobuz este aproape; aveți umbrela pregătită.",
+                "en": "The bus stop is close by; have your umbrella ready for the short walk."
+              }
+            },
+            {
+              "name": "Corvaja Palace",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Zeit bis zum nächsten Bus zu überbrücken.",
+                "hu": "Ideális hely a következő busz érkezéséig való várakozásra.",
+                "ro": "Locul ideal pentru a aștepta următorul autobuz la adăpost.",
+                "en": "An ideal place to wait comfortably until the next bus departure."
+              }
+            },
+            {
+              "name": "Isola Bella",
+              "tip_5lang": {
+                "de": "Die Seilbahn ist bei Regen die trockenste Verbindung nach unten.",
+                "hu": "Esőben a libegő a legszárazabb módja a lejutásnak.",
+                "ro": "Telecabina este cea mai uscată cale de a coborî pe ploaie.",
+                "en": "The cable car is the driest way to reach the coast during rain."
+              }
+            },
+            {
+              "name": "Piazza IX Aprile",
+              "tip_5lang": {
+                "de": "Vom Terminal Bus sind es nur 10 Minuten Fußweg hierher.",
+                "hu": "A buszvégállomástól mindössze 10 perc séta ez a tér.",
+                "ro": "De la autogară sunt doar 10 minute de mers pe jos până aici.",
+                "en": "It's only a 10-minute walk here from the main bus terminal."
+              }
+            },
+            {
+              "name": "Corso Umberto",
+              "tip_5lang": {
+                "de": "Die Hauptstraße ist gut beleuchtet und sicher bei jedem Wetter.",
+                "hu": "A főutca jól megvilágított és minden időben biztonságos.",
+                "ro": "Strada principală este bine iluminată și sigură pe orice vreme.",
+                "en": "The main street is well-lit and safe to walk in any weather."
+              }
+            },
+            {
+              "name": "Cathedral of Taormina",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Busstopp bringt Sie ins Trockene.",
+                "hu": "Egy rövid sprint a buszmegállótól és már bent is van a szárazon.",
+                "ro": "Un scurt sprint de la stația de autobuz vă duce la adăpost.",
+                "en": "A short dash from the bus stop will get you inside and dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die App für Echtzeit-Busfahrpläne herunter.",
+              "Die Seilbahn kann bei sehr starkem Wind den Betrieb einstellen.",
+              "Kaufen Sie Fahrkarten vorab im Tabacchi, um Wartezeiten zu vermeiden.",
+              "Busse sind bei Regen oft voller; planen Sie Pufferzeiten ein.",
+              "Tragen Sie wasserfeste Schuhe für die Wege zwischen den Haltestellen."
+            ],
+            "hu": [
+              "Töltse le az alkalmazást a valós idejű buszmenetrendhez.",
+              "Erős szél esetén a libegő üzeme szünetelhet.",
+              "Vegye meg a jegyet előre a dohányboltban (Tabacchi).",
+              "Esőben a buszok zsúfoltabbak lehetnek; számoljon rá időt.",
+              "Viseljen vízálló cipőt a megállók közötti gyalogláshoz."
+            ],
+            "ro": [
+              "Descărcați aplicația pentru orarul autobuzelor în timp real.",
+              "Telecabina se poate opri în caz de vânt foarte puternic.",
+              "Cumpărați bilete în avans de la Tabacchi pentru a evita cozile.",
+              "Autobuzele sunt mai aglomerate pe ploaie; alocați timp suplimentar.",
+              "Purtați încălțăminte impermeabilă pentru drumul dintre stații."
+            ],
+            "en": [
+              "Download the local transit app for real-time bus schedules.",
+              "The cable car may stop operating during very high winds.",
+              "Purchase tickets in advance at a 'Tabacchi' to save time.",
+              "Buses are often more crowded in the rain; allow for delays.",
+              "Wear waterproof shoes for the walks between transit stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit der Busfahrt zum Antiken Theater. Der Palazzo Corvaja zeigt sich ohne Massen von seiner besten Seite. Mittags bietet die Seilbahnfahrt zur Isola Bella spektakuläre Panoramen bei klarer Sicht. Nachmittags ist die Piazza IX Aprile ruhig und besinnlich. Der Tag klingt mit einem gemütlichen Spaziergang durch den Corso Umberto bis zum Dom aus.",
+            "hu": "Tiszta téli reggel indul buszozással az Antik Színházhoz. A Corvaja-palota a legjobb arcát mutatja tömeg nélkül. Délben a libegőzés az Isola Bellához látványos panorámát kínál a tiszta időben. Délután a Piazza IX Aprile csendes és megnyugtató. A nap a Corso Umbertón való sétával zárul a katedrálisig.",
+            "ro": "O zi senină de iarnă începe cu o cursă de autobuz spre Teatrul Antic. Palazzo Corvaja își arată frumusețea fără mulțimile obișnuite. La prânz, telecabina spre Isola Bella oferă panorame spectaculoase. După-amiaza, Piazza IX Aprile este liniștită. Ziua se încheie cu o plimbare plăcută pe Corso Umberto spre Catedrală.",
+            "en": "A clear winter morning starts with a bus ride to the Ancient Theatre. Corvaja Palace is at its best without the crowds. By noon, the cable car ride to Isola Bella offers spectacular panoramas in the crisp air. The afternoon at Piazza IX Aprile is quiet and contemplative. The day ends with a cozy stroll along Corso Umberto towards the Cathedral."
+          },
+          "stops": [
+            {
+              "name": "Ancient Theatre of Taormina",
+              "tip_5lang": {
+                "de": "Der Busfahrplan ist im Winter oft etwas ausgedünnt.",
+                "hu": "A buszmenetrend télen gyakran ritkább.",
+                "ro": "Orarul autobuzelor este adesea mai redus pe timpul iernii.",
+                "en": "The bus schedule is often slightly reduced during winter months."
+              }
+            },
+            {
+              "name": "Corvaja Palace",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme im Inneren für eine längere Pause.",
+                "hu": "Használja ki a benti meleget egy hosszabb pihenőre.",
+                "ro": "Profitați de căldura din interior pentru o pauză mai lungă.",
+                "en": "Take advantage of the indoor warmth for a longer break."
+              }
+            },
+            {
+              "name": "Isola Bella",
+              "tip_5lang": {
+                "de": "Letzte Seilbahn nach oben fährt im Winter früher.",
+                "hu": "Télen korábban indul az utolsó libegő vissza felfelé.",
+                "ro": "Ultima telecabină spre oraș pleacă mai devreme iarna.",
+                "en": "The last cable car back up leaves earlier during the winter season."
+              }
+            },
+            {
+              "name": "Piazza IX Aprile",
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort, um die Wintersonne zu genießen.",
+                "hu": "Csodálatos hely a téli napsütés élvezetére.",
+                "ro": "Un loc minunat pentru a vă bucura de soarele de iarnă.",
+                "en": "A wonderful place to enjoy the gentle warmth of the winter sun."
+              }
+            },
+            {
+              "name": "Corso Umberto",
+              "tip_5lang": {
+                "de": "Die Geschäfte haben im Winter oft attraktive Sales.",
+                "hu": "Az üzletekben télen gyakran vannak vonzó leértékelések.",
+                "ro": "Magazinele au adesea reduceri atractive în timpul iernii.",
+                "en": "The shops often have attractive sales during the winter months."
+              }
+            },
+            {
+              "name": "Cathedral of Taormina",
+              "tip_5lang": {
+                "de": "Der Platz davor ist im Winter ein Ort der Stille.",
+                "hu": "A dóm előtti tér télen a nyugalom szigete.",
+                "ro": "Piața din față este un loc al tăcerii pe timp de iarnă.",
+                "en": "The square in front is a haven of silence during the winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan der Interbus-Linien.",
+              "Die Seilbahn macht im Winter oft eine mehrwöchige Wartungspause.",
+              "Tragen Sie warme Kleidung für die Wartezeiten an Haltestellen.",
+              "Abends fahren weniger Busse; planen Sie Ihre Rückkehr vor 20 Uhr.",
+              "Die Fahrt zum Bahnhof Taormina-Giardini ist im Winter entspannt."
+            ],
+            "hu": [
+              "Ellenőrizze az Interbus járatok téli menetrendjét.",
+              "A libegő télen gyakran tart többhetes karbantartási szünetet.",
+              "Öltözzön melegen a megállókban való várakozáshoz.",
+              "Este kevesebb busz jár; tervezze a visszatérést 20 óra előtt.",
+              "A Taormina-Giardini vasútállomásra utazás télen nyugodtabb."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă al liniilor Interbus.",
+              "Telecabina are adesea o pauză de întreținere de câteva săptămâni iarna.",
+              "Îmbrăcați-vă gros pentru timpii de așteptare în stații.",
+              "Seara circulă mai puține autobuze; planificați revenirea înainte de ora 20:00.",
+              "Călătoria spre gara Taormina-Giardini este relaxantă iarna."
+            ],
+            "en": [
+              "Check the winter timetable for the Interbus lines.",
+              "The cable car often closes for maintenance for a few weeks in winter.",
+              "Wear warm clothing for the waiting times at bus stops.",
+              "Fewer buses run in the evening; plan to return before 8 PM.",
+              "The trip to Taormina-Giardini station is very relaxed in winter."
+            ]
+          }
+        }
       }
     }
   },

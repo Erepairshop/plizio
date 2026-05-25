@@ -343,6 +343,482 @@
           "Buy a day ticket for the small orange bus to save your legs on hills.",
           "Refill your water bottle at the public fountains (Nasoni)."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen von Assisi auf der Piazza del Comune, bevor Sie die spirituelle Pracht der Basilika San Francesco erkunden. Mittags tauchen Sie in die römische Geschichte unter der Stadt ein. Am Nachmittag pilgern Sie zur Basilika Santa Chiara und beenden den Tag bei Sonnenuntergang auf der majestätischen Festung Rocca Maggiore mit Blick über Umbrien.",
+            "hu": "Kezdje a napot Assisi szívében, a Piazza del Comunén, majd fedezze fel a Szent Ferenc-bazilika spirituális pompáját. Délben merüljön el a város alatti római történelemben. Délután zarándokoljon el a Szent Klára-bazilikához, a napot pedig a fenséges Rocca Maggiore erődben zárja, ahonnan csodás kilátás nyílik Umbriára naplementekor.",
+            "ro": "Începeți ziua în inima orașului Assisi, în Piazza del Comune, înainte de a explora splendoarea spirituală a Bazilicii Sfântul Francisc. La prânz, scufundați-vă în istoria romană de sub oraș. După-amiaza, mergeți în pelerinaj la Bazilica Sfânta Clara și încheiați ziua la apus pe maiestuoasa fortăreață Rocca Maggiore, cu vedere peste Umbria.",
+            "en": "Start your day in the heart of Assisi at Piazza del Comune before exploring the spiritual grandeur of the Basilica of San Francesco. At midday, dive into the Roman history beneath the city. In the afternoon, make a pilgrimage to the Basilica of Santa Chiara and end the day at sunset at the majestic Rocca Maggiore fortress overlooking Umbria."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza del Comune",
+                "hu": "Piazza del Comune",
+                "ro": "Piazza del Comune",
+                "en": "Piazza del Comune"
+              },
+              "tip_5lang": {
+                "de": "Trinken Sie einen Espresso in den historischen Cafés am Platz.",
+                "hu": "Igyon egy eszpresszót a tér történelmi kávézóiban.",
+                "ro": "Beți un espresso la cafenelele istorice din piață.",
+                "en": "Have an espresso at the historic cafes in the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempio di Minerva",
+                "hu": "Minerva-templom",
+                "ro": "Templul Minervei",
+                "en": "Tempio di Minerva"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die römische Fassade, die heute eine Kirche ist.",
+                "hu": "Csodálja meg a római homlokzatot, amely ma templomként funkcionál.",
+                "ro": "Admirați fațada romană, care acum este o biserică.",
+                "en": "Admire the Roman facade, which is now a church."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika San Francesco",
+                "hu": "Szent Ferenc-bazilika",
+                "ro": "Bazilica Sfântul Francisc",
+                "en": "Basilica di San Francesco"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ober- und Unterkirche für die Giotto-Fresken.",
+                "hu": "Nézze meg az alsó és felső templomot Giotto freskóiért.",
+                "ro": "Vizitați biserica superioară și inferioară pentru frescele lui Giotto.",
+                "en": "Visit both upper and lower basilicas for Giotto's frescoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Foro Romano",
+                "hu": "Foro Romano",
+                "ro": "Forul Roman",
+                "en": "Foro Romano"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die archäologischen Ausgrabungen unter der Stadt.",
+                "hu": "Fedezze fel a város alatti régészeti feltárásokat.",
+                "ro": "Descoperiți excavațiile arheologice de sub oraș.",
+                "en": "Discover the archaeological excavations under the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Santa Chiara",
+                "hu": "Szent Klára-bazilika",
+                "ro": "Bazilica Sfânta Clara",
+                "en": "Basilica di Santa Chiara"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Kreuz von San Damiano im Inneren.",
+                "hu": "Tekintse meg belül a San Damiano-keresztet.",
+                "ro": "Vedeți crucea de la San Damiano în interior.",
+                "en": "See the cross of San Damiano inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale San Rufino",
+                "hu": "San Rufino-székesegyház",
+                "ro": "Catedrala San Rufino",
+                "en": "Cattedrale di San Rufino"
+              },
+              "tip_5lang": {
+                "de": "Die romanische Fassade gehört zu den schönsten der Region.",
+                "hu": "A román stílusú homlokzat a régió egyik legszebbje.",
+                "ro": "Fațada romanică este una dintre cele mai frumoase din regiune.",
+                "en": "The Romanesque facade is one of the region's finest."
+              }
+            },
+            {
+              "name": {
+                "de": "Rocca Maggiore",
+                "hu": "Rocca Maggiore",
+                "ro": "Rocca Maggiore",
+                "en": "Rocca Maggiore"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick über das umbrische Tal.",
+                "hu": "Élvezze a panorámát az umbriai völgyre.",
+                "ro": "Bucurați-vă de panorama asupra văii umbriene.",
+                "en": "Enjoy the panoramic view over the Umbrian valley."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Umbricelli al Tartufo",
+                "tip": "Dicke handgemachte Pasta mit lokalem schwarzen Trüffel."
+              },
+              {
+                "name": "Trattoria Pallotta",
+                "tip": "Authentische umbrische Küche direkt an der Piazza del Comune."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Umbricelli al Tartufo",
+                "tip": "Vastag, kézzel készített tészta helyi fekete szarvasgombával."
+              },
+              {
+                "name": "Trattoria Pallotta",
+                "tip": "Autentikus umbriai konyha közvetlenül a Piazza del Comune mellett."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Umbricelli al Tartufo",
+                "tip": "Paste groase făcute de mână cu trufe negre locale."
+              },
+              {
+                "name": "Trattoria Pallotta",
+                "tip": "Bucătărie umbriană autentică chiar lângă Piazza del Comune."
+              }
+            ],
+            "en": [
+              {
+                "name": "Umbricelli al Tartufo",
+                "tip": "Thick handmade pasta with local black truffles."
+              },
+              {
+                "name": "Trattoria Pallotta",
+                "tip": "Authentic Umbrian cuisine right off Piazza del Comune."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Vicoli Silenziosi",
+                "tip": "Spazieren Sie durch die ruhigen Gassen hinter San Rufino.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Rocca Maggiore",
+                "tip": "Bester Aussichtspunkt für den Sonnenuntergang.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vicoli Silenziosi",
+                "tip": "Sétáljon a San Rufino mögötti csendes sikátorokban.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Rocca Maggiore",
+                "tip": "A legjobb kilátópont a naplementéhez.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vicoli Silenziosi",
+                "tip": "Plimbați-vă pe străduțele liniștite din spatele San Rufino.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Rocca Maggiore",
+                "tip": "Cel mai bun punct de observație pentru apus.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Vicoli Silenziosi",
+                "tip": "Walk through the quiet alleys behind San Rufino.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Rocca Maggiore",
+                "tip": "Best viewpoint for sunset.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Punto Assisi",
+                "tip": "Traditionelle Handstickerei aus der Region."
+              },
+              {
+                "name": "Ceramiche di Assisi",
+                "tip": "Handbemalte Keramik mit umbrischen Motiven."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Punto Assisi",
+                "tip": "Hagyományos helyi kézi hímzés."
+              },
+              {
+                "name": "Ceramiche di Assisi",
+                "tip": "Kézzel festett kerámia umbriai motívumokkal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punto Assisi",
+                "tip": "Broderie tradițională de mână din regiune."
+              },
+              {
+                "name": "Ceramiche di Assisi",
+                "tip": "Ceramică pictată manual cu motive umbriene."
+              }
+            ],
+            "en": [
+              {
+                "name": "Punto Assisi",
+                "tip": "Traditional handmade embroidery from the region."
+              },
+              {
+                "name": "Ceramiche di Assisi",
+                "tip": "Hand-painted ceramics with Umbrian motifs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Wanderschuhe für die steilen Gassen.",
+              "Decken Sie Ihre Schultern und Knie für den Kirchenbesuch ab.",
+              "Kaufen Sie ein Tagesticket für den kleinen orangefarbenen Bus, um Hügel zu sparen.",
+              "Füllen Sie Ihre Wasserflasche an den öffentlichen Brunnen (Nasoni)."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a meredek, köves utcák miatt.",
+              "A templomok látogatásához takarja el vállait és térdeit.",
+              "Vásároljon napijegyet a kis narancssárga buszra a hegymenethez.",
+              "Töltse meg kulacsát a nyilvános kutakból (Nasoni)."
+            ],
+            "ro": [
+              "Purtați pantofi comozi pentru străzile abrupte și pietruite.",
+              "Acoperiți umerii și genunchii pentru vizitarea bisericilor.",
+              "Cumpărați un bilet de o zi pentru micul autobuz portocaliu.",
+              "Umpleți sticla de apă de la fântânile publice (Nasoni)."
+            ],
+            "en": [
+              "Wear comfortable walking shoes for the steep, stone streets.",
+              "Cover your shoulders and knees for church visits.",
+              "Buy a day ticket for the small orange bus to save your legs on hills.",
+              "Refill your water bottle at the public fountains (Nasoni)."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt auf der Piazza del Comune, wo der nasse Kalkstein glänzt. Mittags bieten der Minerva-Tempel und das Forum Romanum trockene Zuflucht in antiken Mauern. Am Nachmittag erkunden wir die Basiliken von San Francesco und Santa Chiara, während der Regen gegen die Fenster peitscht. Den Abend lassen wir bei mystischer Stimmung an der nebligen Rocca Maggiore ausklingen.",
+            "hu": "A reggel a Piazza del Comune téren indul, ahol az esőben megcsillannak a mészkőburkolatok. Délben a Minerva-templom és a Foro Romano nyújt száraz menedéket az antik falak között. Délután a Szent Ferenc és Szent Klára bazilikákat látogatjuk meg, miközebn az eső veri a színes üvegablakokat. Az estét a ködbe burkolózó Rocca Maggiore bástyái között zárjuk, egyedülálló, misztikus hangulatban.",
+            "ro": "Dimineața începe în Piazza del Comune, unde travertinul umed strălucește sub ploaie. La prânz, Templul Minervei și Forumul Roman oferă un refugiu uscat printre ruinele antice. După-amiaza este dedicată basilicilor San Francesco și Santa Chiara, admirând frescele în timp ce plouă afară. Seara se încheie la Rocca Maggiore, unde ceața coborâtă peste vale creează o atmosferă medievală autentică.",
+            "en": "Morning starts at Piazza del Comune, where wet limestone reflects the grey sky. At noon, the Temple of Minerva and Roman Forum provide dry shelter among ancient ruins. In the afternoon, we visit the Basilicas of St. Francis and St. Clare, finding peace while rain taps on the stone. The evening concludes at a misty Rocca Maggiore, offering a mysterious and quiet view of the Umbrian valley."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Comune",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Pflaster; die Arkaden bieten guten Schutz.",
+                "hu": "Vigyázz a csúszós kövekre; az árkádok alatt szárazon maradhatsz.",
+                "ro": "Atenție la pavajul alunecos; arcadele pieței oferă adăpost bun.",
+                "en": "Watch your step on slippery stones; the porticos offer good shelter."
+              }
+            },
+            {
+              "name": "Tempio di Minerva",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen heftigen Schauer im Inneren abzuwarten.",
+                "hu": "Tökéletes helyszín egy hirtelen zápor átvészelésére a falak között.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse în interior.",
+                "en": "A perfect spot to wait out a heavy downpour inside the ancient temple."
+              }
+            },
+            {
+              "name": "Basilica di San Francesco",
+              "tip_5lang": {
+                "de": "Die Unterkirche ist bei Regen besonders stimmungsvoll und trocken.",
+                "hu": "Az alsótemplom esőben különösen hangulatos és teljesen védett.",
+                "ro": "Basilica inferioară este deosebit de primitoare și uscată pe ploaie.",
+                "en": "The Lower Basilica is especially atmospheric and dry during rain."
+              }
+            },
+            {
+              "name": "Foro Romano",
+              "tip_5lang": {
+                "de": "Unterirdisches Museum, perfekt um dem Regen komplett zu entkommen.",
+                "hu": "Föld alatti múzeum, ideális az eső elöli teljes menekülésre.",
+                "ro": "Muzeu subteran, perfect pentru a scăpa complet de ploaia de afară.",
+                "en": "Underground museum, perfect for escaping the rain entirely."
+              }
+            },
+            {
+              "name": "Basilica di Santa Chiara",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine ausführliche Besichtigung der Kapellen.",
+                "hu": "Használd ki az időt a kápolnák és az ereklyék alapos megtekintésére.",
+                "ro": "Folosiți timpul pentru o vizită detaliată a capelelor interioare.",
+                "en": "Use the rainy weather for a detailed visit to the internal chapels."
+              }
+            },
+            {
+              "name": "Cattedrale di San Rufino",
+              "tip_5lang": {
+                "de": "Das angeschlossene Museum bietet weiteren Schutz vor dem Wetter.",
+                "hu": "A dómhoz tartozó múzeum további menedéket nyújt az időjárás elől.",
+                "ro": "Muzeul catedralei oferă un adăpost suplimentar împotriva intemperiilor.",
+                "en": "The cathedral museum offers additional shelter from the weather."
+              }
+            },
+            {
+              "name": "Rocca Maggiore",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist steil und rutschig; festes Schuhwerk ist Pflicht.",
+                "hu": "A felmenet meredek és csúszós; a vízálló, tapadós cipő kötelező.",
+                "ro": "Urcarea este abruptă și alunecoasă; încălțămintea aderentă e necesară.",
+                "en": "The climb is steep and slippery; waterproof shoes are essential."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die steilen Gassen.",
+              "Nutzen Sie die vielen Kirchen als natürliche Regenschirme.",
+              "Die Steinplatten in Assisi werden bei Nässe extrem rutschig.",
+              "Kleine Cafés in der Nähe der Piazza sind ideal für Pausen.",
+              "Ein Taschenschirm ist bei den engen Gassen praktischer als ein Stockschirm."
+            ],
+            "hu": [
+              "Viselj vízálló túrabakancsot a meredek, köves utcákhoz.",
+              "Használd a bazilikákat és templomokat természetes esernyőként.",
+              "Assisi kőlapjai nedvesen rendkívül csúszóssá válnak.",
+              "A Piazza környéki kis kávézók ideálisak a várakozásra.",
+              "A szűk utcákban az összecsukható esernyő praktikusabb."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile abrupte.",
+              "Folosiți numeroasele biserici ca adăposturi naturale contra ploii.",
+              "Dalele de piatră din Assisi devin extrem de alunecoase când sunt ude.",
+              "Cafenelele mici de lângă Piazza sunt ideale pentru pauze.",
+              "O umbrelă compactă este mai practică pe străzile înguste."
+            ],
+            "en": [
+              "Wear waterproof hiking boots for the steep, stony alleys.",
+              "Use the many churches as natural umbrellas during heavy showers.",
+              "Assisi's stone pavers become extremely slippery when wet.",
+              "Small cafes near the Piazza are ideal for drying off.",
+              "A compact umbrella is more practical than a large one in narrow streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen begrüßt uns auf der Piazza del Comune. Mittags wärmen wir uns in den Krypten der Basilika San Francesco auf, während die Wintersonne tief steht. Am Nachmittag leuchtet der rosa Subasio-Stein in der frühen Dämmerung bei Santa Chiara besonders intensiv. Den Tag beenden wir bei klirrender Kälte, aber fantastischer Fernsicht auf der Rocca Maggiore.",
+            "hu": "Deres reggel fogad minket a Piazza del Comune téren. Délben a Szent Ferenc bazilika kriptáiban melegszünk fel, miközben kint alacsonyan jár a téli nap. Délután a Subasio-hegy rózsaszín kövei különleges fényben tündökölnek Szent Klára templománál a korai szürkületben. A napot a fagyos, de kristálytiszta kilátást nyújtó Rocca Maggiore bástyáin zárjuk.",
+            "ro": "O dimineață geroasă ne întâmpină în Piazza del Comune. La prânz ne încălzim în criptele Basilicii San Francesco, în timp ce soarele de iarnă stă jos pe cer. După-amiaza, piatra roz de Subasio strălucește intens la Santa Chiara în lumina crepusculului timpuriu. Încheiem ziua la Rocca Maggiore, unde frigul tăios este compensat de o vizibilitate panoramică de cristal.",
+            "en": "A frosty morning greets us at Piazza del Comune. At noon, we warm up in the crypts of St. Francis Basilica while the winter sun stays low on the horizon. In the afternoon, the pink Subasio stone glows intensely at St. Clare's during the early sunset. We end the day at Rocca Maggiore, where the biting cold is rewarded with crystal-clear panoramic views."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Comune",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Espresso in einer der beheizten Bars.",
+                "hu": "Igyál meg egy forró espressót az egyik fűtött bárban a téren.",
+                "ro": "Savurați un espresso fierbinte într-unul dintre barurile încălzite.",
+                "en": "Enjoy a hot espresso in one of the heated bars on the square."
+              }
+            },
+            {
+              "name": "Tempio di Minerva",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Inneren schützt vor dem kalten Winterwind.",
+                "hu": "Egy rövid benti pihenő megvéd a metsző téli széltől.",
+                "ro": "O scurtă oprire în interior vă protejează de vântul tăios de iarnă.",
+                "en": "A short stop inside protects you from the biting winter wind."
+              }
+            },
+            {
+              "name": "Basilica di San Francesco",
+              "tip_5lang": {
+                "de": "In der Unterkirche ist es meist deutlich wärmer als draußen.",
+                "hu": "Az alsótemplomban általában jóval melegebb van, mint a szabadban.",
+                "ro": "În basilica inferioară este de obicei mult mai cald decât afară.",
+                "en": "It is usually much warmer in the Lower Basilica than outside."
+              }
+            },
+            {
+              "name": "Foro Romano",
+              "tip_5lang": {
+                "de": "Die unterirdischen Gänge bieten konstante, mildere Temperaturen.",
+                "hu": "A föld alatti járatok állandó, enyhébb hőmérsékletet biztosítanak.",
+                "ro": "Pasajele subterane oferă o temperatură constantă și mai blândă.",
+                "en": "The underground passages offer constant, milder temperatures."
+              }
+            },
+            {
+              "name": "Basilica di Santa Chiara",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Krypta, um der Kälte für einen Moment zu entfliehen.",
+                "hu": "Látogasd meg a kriptát, hogy egy pillanatra elmenekülj a hideg elől.",
+                "ro": "Vizitați cripta pentru a scăpa de frig pentru câteva momente.",
+                "en": "Visit the crypt to escape the cold for a few moments."
+              }
+            },
+            {
+              "name": "Cattedrale di San Rufino",
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte draußen; ideal zum Aufwärmen.",
+                "hu": "A vastag kőfalak kint tartják a fagyot; ideális hely a bemelegedésre.",
+                "ro": "Zidurile groase de piatră țin frigul afară; ideal pentru încălzire.",
+                "en": "The thick stone walls keep the frost out; ideal for warming up."
+              }
+            },
+            {
+              "name": "Rocca Maggiore",
+              "tip_5lang": {
+                "de": "Seien Sie vor 17:00 Uhr hier, um den Sonnenuntergang zu erleben.",
+                "hu": "Érkezz meg 17:00 előtt, hogy lásd a téli naplementét a völgy felett.",
+                "ro": "Ajungeți înainte de ora 17:00 pentru a vedea apusul peste vale.",
+                "en": "Be here before 5:00 PM to catch the winter sunset over the valley."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip für den Wechsel zwischen Drinnen und Draußen.",
+              "Die Sonne geht im Winter bereits gegen 16:45 Uhr unter.",
+              "Probieren Sie die herzhafte umbrische Linsensuppe zum Aufwärmen.",
+              "Einige steile Gassen können bei Frost im Schatten glatt sein.",
+              "Handschuhe sind für den Aufstieg zur Rocca Maggiore unerlässlich."
+            ],
+            "hu": [
+              "Öltözz rétegesen a kinti hideg és benti meleg váltakozása miatt.",
+              "A nap télen már 16:45 körül lemegy a hegyek mögött.",
+              "Kóstold meg a laktató umbriai lencselevest ebédre.",
+              "Az árnyékos szűk utcákban reggelente lefagyások lehetnek.",
+              "A várba való felmenethez a kesztyű és sapka elengedhetetlen."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru alternanța dintre frig și interior.",
+              "Soarele apune iarna în jurul orei 16:45 după munți.",
+              "Gustați supa de linte umbriană pentru a vă încălzi la prânz.",
+              "Unele străzi umbrite pot fi înghețate dimineața devreme.",
+              "Mănușile sunt esențiale pentru urcarea spre Rocca Maggiore."
+            ],
+            "en": [
+              "Dress in layers to handle the change between cold air and warm interiors.",
+              "Sunset in winter occurs early, around 4:45 PM.",
+              "Try the hearty Umbrian lentil soup for a warm lunch.",
+              "Shaded narrow streets can be icy in the early morning.",
+              "Gloves and a hat are essential for the climb to Rocca Maggiore."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -574,6 +1050,358 @@
           "Rent an e-bike, as the return trip to the town is steep.",
           "Look for small country roads with low traffic in the valley."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Diese Radtour verbindet die Bergstadt mit der Ebene. Nach dem Start im Zentrum führt die Route bergab zum friedlichen San Damiano und weiter zur monumentalen Basilika in Santa Maria degli Angeli. Genießen Sie die Fahrt durch Olivenhaine, bevor Sie am Nachmittag zur großen Franziskus-Basilika zurückkehren.",
+            "hu": "Ez a kerékpártúra összeköti a hegyi várost a síksággal. A központból indulva guruljon le a békés San Damiano-hoz, majd tovább a monumentális bazilikához Santa Maria degli Angeli-be. Élvezze az olajfaligeteken át vezető utat, mielőtt délután visszatérne a Szent Ferenc-bazilikához.",
+            "ro": "Acest tur cu bicicleta leagă orașul de munte cu câmpia. După plecarea din centru, coborâți spre liniștitul San Damiano și continuați spre bazilica monumentală din Santa Maria degli Angeli. Bucurați-vă de plimbarea prin livezile de măslini înainte de a reveni după-amiaza la marea Bazilică a Sfântului Francisc.",
+            "en": "This bike tour connects the hill town with the plain. After starting in the center, glide down to peaceful San Damiano and continue to the monumental basilica in Santa Maria degli Angeli. Enjoy the ride through olive groves before returning to the grand Basilica of St. Francis in the afternoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza del Comune",
+                "hu": "Piazza del Comune",
+                "ro": "Piazza del Comune",
+                "en": "Piazza del Comune"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt im Zentrum.",
+                "hu": "Központi kiindulópont.",
+                "ro": "Punct de plecare central.",
+                "en": "Central starting point."
+              }
+            },
+            {
+              "name": {
+                "de": "San Damiano",
+                "hu": "San Damiano",
+                "ro": "San Damiano",
+                "en": "Chiesa di San Damiano"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort außerhalb der Mauern.",
+                "hu": "Békés hely a falakon kívül.",
+                "ro": "Un loc liniștit în afara zidurilor.",
+                "en": "A peaceful spot outside the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria degli Angeli",
+                "hu": "Angyalos Boldogasszony-bazilika",
+                "ro": "Sfânta Maria a Îngerilor",
+                "en": "Santa Maria degli Angeli"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Portiuncula-Kapelle im Inneren.",
+                "hu": "Tekintse meg a Porciunkula-kápolnát belül.",
+                "ro": "Vizitați capela Porțiuncula din interior.",
+                "en": "See the Porziuncola chapel inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Rivotorto",
+                "hu": "Rivotorto",
+                "ro": "Rivotorto",
+                "en": "Rivotorto"
+              },
+              "tip_5lang": {
+                "de": "Ort der ersten franziskanischen Gemeinschaft.",
+                "hu": "Az első ferences közösség helyszíne.",
+                "ro": "Locul primei comunități franciscane.",
+                "en": "Site of the first Franciscan community."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika San Francesco",
+                "hu": "Szent Ferenc-bazilika",
+                "ro": "Bazilica Sfântul Francisc",
+                "en": "Basilica di San Francesco"
+              },
+              "tip_5lang": {
+                "de": "Fahrrad abstellen und die Fresken genießen.",
+                "hu": "Tegye le a biciklit és élvezze a freskókat.",
+                "ro": "Parcați bicicleta și bucurați-vă de fresce.",
+                "en": "Park your bike and enjoy the frescoes."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Torta al Testo",
+                "tip": "Umbrisches Fladenbrot, ideal als Snack während der Tour."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Torta al Testo",
+                "tip": "Umbriai lepénykenyér, ideális tízórai a túra alatt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Torta al Testo",
+                "tip": "Lipie umbriană, ideală ca gustare în timpul turului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Torta al Testo",
+                "tip": "Umbrian flatbread, ideal as a snack during the tour."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Oliveto",
+                "tip": "Pause unter Olivenbäumen am Fuße des Hügels.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Oliveto",
+                "tip": "Pihenő az olajfák alatt a domb lábánál.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Oliveto",
+                "tip": "Pauză sub măslini la poalele dealului.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Oliveto",
+                "tip": "Break under olive trees at the foot of the hill.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Olio d'Oliva",
+                "tip": "Frisches Olivenöl direkt vom Erzeuger im Tal."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Olio d'Oliva",
+                "tip": "Friss olívaolaj közvetlenül a völgy termelőitől."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Olio d'Oliva",
+                "tip": "Ulei de măsline proaspăt direct de la producătorii din vale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Olio d'Oliva",
+                "tip": "Fresh olive oil directly from valley producers."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein E-Bike, da der Rückweg in die Stadt steil ist.",
+              "Achten Sie auf die kleinen Landstraßen mit wenig Verkehr."
+            ],
+            "hu": [
+              "Béreljen elektromos kerékpárt, mert a városba visszavezető út meredek.",
+              "Keresse a kis forgalmú mellékutakat a völgyben."
+            ],
+            "ro": [
+              "Închiriați o bicicletă electrică, deoarece drumul de întoarcere în oraș este abrupt.",
+              "Căutați drumurile secundare cu trafic redus din vale."
+            ],
+            "en": [
+              "Rent an e-bike, as the return trip to the town is steep.",
+              "Look for small country roads with low traffic in the valley."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig von der Piazza durch den Regen. Mittags erreichen wir San Damiano und Santa Maria degli Angeli, wo wir die Räder sicher abstellen und im Trockenen verweilen. Nachmittags geht es durch das flache, aber nasse Tal nach Rivotorto. Den Tag schließen wir trotz Nässe mit einem beeindruckenden Blick auf die Basilika San Francesco ab.",
+            "hu": "Reggel óvatosan indulunk a Piazza-ról az esőben. Délben San Damiano és Santa Maria degli Angeli épületeinél pihenünk meg, ahol a bicikliket fedett helyre tehetjük. Délután a völgy sík, de vizes útjain tekerünk Rivotorto felé. A napot a nedves idő ellenére is lenyűgöző Szent Ferenc bazilika látványával zárjuk.",
+            "ro": "Dimineața pedalăm cu atenție din Piazza prin ploaie. La prânz ajungem la San Damiano și Santa Maria degli Angeli, unde lăsăm bicicletele la adăpost. După-amiaza traversăm valea plată dar udă spre Rivotorto. Încheiem ziua, în ciuda vremii, cu imaginea impresionantă a Basilicii San Francesco.",
+            "en": "In the morning, we cycle carefully from the Piazza through the rain. At noon, we reach San Damiano and Santa Maria degli Angeli, finding dry spots to park the bikes. In the afternoon, we ride through the flat but wet valley towards Rivotorto. We finish the day with the majestic view of St. Francis Basilica, shining in the rain."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Comune",
+              "tip_5lang": {
+                "de": "Achten Sie auf die rutschigen Metallgitter und glatten Steine.",
+                "hu": "Vigyázz a csúszós fémrácsokra és a sima kőlapokra a téren.",
+                "ro": "Atenție la grătarele metalice și pietrele netede din piață.",
+                "en": "Watch out for slippery metal grates and smooth stones in the square."
+              }
+            },
+            {
+              "name": "Chiesa di San Damiano",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter den Bäumen oder Arkaden ab.",
+                "hu": "Támaszd a biciklit a fák vagy az árkádok alá az eső elől.",
+                "ro": "Parcați bicicleta sub copaci sau sub arcade pentru protecție.",
+                "en": "Park your bike under the trees or arches for rain protection."
+              }
+            },
+            {
+              "name": "Santa Maria degli Angeli",
+              "tip_5lang": {
+                "de": "Großer Vorplatz; Vorsicht beim Bremsen auf nasser Fahrbahn.",
+                "hu": "Tágas előtér; vigyázz a fékezéssel a vizes aszfalton.",
+                "ro": "Piață mare; atenție la frânare pe carosabilul umed.",
+                "en": "Large forecourt; be careful with braking on the wet surface."
+              }
+            },
+            {
+              "name": "Rivotorto",
+              "tip_5lang": {
+                "de": "Die Landstraßen im Tal können bei Regen viele Pfützen haben.",
+                "hu": "A völgyben futó országutakon sok tócsa alakulhat ki esőben.",
+                "ro": "Drumurile din vale pot avea multe bălți în timpul ploii.",
+                "en": "The valley roads can have many puddles during rain."
+              }
+            },
+            {
+              "name": "Basilica di San Francesco",
+              "tip_5lang": {
+                "de": "Der Anstieg zurück zur Stadt ist bei Regen anstrengend und rutschig.",
+                "hu": "A városba visszavezető emelkedő esőben fárasztó és csúszós lehet.",
+                "ro": "Urcarea spre oraș este obositoare și alunecoasă pe ploaie.",
+                "en": "The climb back to town is tiring and slippery in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Bremsbeläge sind für die Abfahrten bei Nässe lebenswichtig.",
+              "Vermeiden Sie abrupte Lenkmanöver auf dem nassen Kopfsteinpflaster.",
+              "Wasserdichte Packtaschen schützen Ihre Kamera und Kleidung.",
+              "Die Route durch das Tal ist bei Regen sicherer als die Bergpfade.",
+              "Ein Schutzblech verhindert, dass Wasser vom Hinterrad hochspritzt."
+            ],
+            "hu": [
+              "A jó fékbetétek létfontosságúak a vizes lejtőkön.",
+              "Kerüld a hirtelen kanyarodást a nedves macskakövön.",
+              "A vízálló táskák megvédik az értékeidet és a ruháidat.",
+              "A völgyön átvezető út esőben biztonságosabb a hegyi ösvényeknél.",
+              "A sárvédő elengedhetetlen, hogy ne ázzon el a hátad."
+            ],
+            "ro": [
+              "Plăcuțele de frână bune sunt vitale pentru coborârile pe ud.",
+              "Evitați manevrele bruște pe pavajul de piatră umed.",
+              "Genzile impermeabile vă vor proteja hainele și echipamentul.",
+              "Ruta prin vale este mai sigură pe ploaie decât potecile montane.",
+              "Aripile la bicicletă sunt necesare pentru a evita stropirea."
+            ],
+            "en": [
+              "Good brake pads are vital for descents in wet conditions.",
+              "Avoid abrupt steering maneuvers on the wet cobblestones.",
+              "Waterproof panniers will keep your belongings and clothes dry.",
+              "The valley route is safer during rain than the mountain paths.",
+              "Mudguards are highly recommended to prevent water spray."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgenstart mit dem Rad an der Piazza del Comune. Mittags genießen wir die Fahrt zur tiefer gelegenen Santa Maria degli Angeli, wo es oft etwas milder ist. Nachmittags radeln wir durch die frostige, aber klare Landschaft von Rivotorto. Zum Abschluss erklimmen wir den Hügel zur Basilika San Francesco im Licht der tiefstehenden Wintersonne.",
+            "hu": "Hűvös reggeli indítás a Piazza del Comune téren. Délben legurulunk a völgybe Santa Maria degli Angeli felé, ahol gyakran enyhébb az idő. Délután Rivotorto fagyos, de tiszta tájain tekerünk keresztül. Befejezésül leküzdjük a dombot a Szent Ferenc bazilikáig, az alacsonyan járó téli nap fényében.",
+            "ro": "Start răcoros de dimineață cu bicicleta din Piazza del Comune. La prânz coborâm spre Santa Maria degli Angeli, unde este adesea mai blând. După-amiaza pedalăm prin peisajul înghețat dar senin din Rivotorto. La final urcăm dealul spre Basilica San Francesco în lumina soarelui de iarnă.",
+            "en": "A crisp morning start on the bike at Piazza del Comune. At noon, we enjoy the ride down to Santa Maria degli Angeli, where it's often milder. In the afternoon, we cycle through the frosty but clear landscape of Rivotorto. To conclude, we climb the hill to St. Francis Basilica in the low winter sunlight."
+          },
+          "stops": [
+            {
+              "name": "Piazza del Comune",
+              "tip_5lang": {
+                "de": "Die Steine können am frühen Morgen noch gefroren sein.",
+                "hu": "A kövek kora reggel még lemosva is fagyosak lehetnek.",
+                "ro": "Pietrele pot fi încă înghețate la primele ore ale dimineții.",
+                "en": "The stones may still be frozen in the early morning."
+              }
+            },
+            {
+              "name": "Chiesa di San Damiano",
+              "tip_5lang": {
+                "de": "Bewegung hält warm; der Weg hierher ist windgeschützt.",
+                "hu": "A mozgás melegen tart; az idevezető út szélvédett.",
+                "ro": "Mișcarea vă menține calzi; drumul până aici este ferit de vânt.",
+                "en": "Exercise keeps you warm; the path here is sheltered from the wind."
+              }
+            },
+            {
+              "name": "Santa Maria degli Angeli",
+              "tip_5lang": {
+                "de": "Im Tal ist es oft neblig; achten Sie auf Ihre Sichtbarkeit.",
+                "hu": "A völgyben gyakori a köd; figyelj a láthatóságodra.",
+                "ro": "În vale este adesea ceață; atenție la vizibilitate.",
+                "en": "The valley is often foggy; ensure you are highly visible."
+              }
+            },
+            {
+              "name": "Rivotorto",
+              "tip_5lang": {
+                "de": "Trinken Sie etwas Heißes, bevor Sie den Rückweg antreten.",
+                "hu": "Igyál valami forrót, mielőtt elindulsz vissza a városba.",
+                "ro": "Beți ceva cald înainte de a porni pe drumul de întoarcere.",
+                "en": "Have a hot drink before starting the ride back up to town."
+              }
+            },
+            {
+              "name": "Basilica di San Francesco",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind für die Abfahrt nach dem Besuch wichtig.",
+                "hu": "A látogatás utáni leguruláshoz meleg kesztyűre lesz szükséged.",
+                "ro": "Mănușile groase sunt necesare pentru coborârea de după vizită.",
+                "en": "Warm gloves are essential for the descent after your visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders für die Abfahrten.",
+              "Die Lichtverhältnisse ändern sich ab 16:30 Uhr rapide.",
+              "Achten Sie auf Reifglätte in schattigen Kurven der Landstraßen.",
+              "Thermounterwäsche ist bei Radtouren im Winter in Umbrien ratsam.",
+              "Helle Lichter am Fahrrad sind wegen des frühen Dunkelwerdens Pflicht."
+            ],
+            "hu": [
+              "Viselj szélálló ruházatot, különösen a lejtőkön.",
+              "A fényviszonyok 16:30 után gyorsan megváltoznak.",
+              "Vigyázz a zúzmarás útszakaszokra az árnyékos kanyarokban.",
+              "A termo-aláöltözet ajánlott a téli umbriai biciklizéshez.",
+              "A fényvisszaverők és lámpák kötelezőek a korai sötétedés miatt."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, mai ales pentru coborâri.",
+              "Condițiile de lumină se schimbă rapid după ora 16:30.",
+              "Atenție la porțiunile cu polei în curbele umbrite ale drumului.",
+              "Lenjeria termică este recomandată pentru ciclismul de iarnă.",
+              "Luminile puternice sunt obligatorii din cauza întunericului timpuriu."
+            ],
+            "en": [
+              "Wear windproof clothing, especially for the descents.",
+              "Light conditions change rapidly after 4:30 PM.",
+              "Watch out for frost in shaded corners of the valley roads.",
+              "Thermal underwear is recommended for winter cycling in Umbria.",
+              "Bright bike lights are mandatory due to early darkness."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -805,6 +1633,358 @@
           "Parking fees in Assisi are high; use park-and-ride options.",
           "The road to Eremo delle Carceri is narrow and winding."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie mühelos die entlegeneren spirituellen Orte Assisis. Vormittags besuchen Sie die beiden großen Basiliken, bevor Sie zur Einsiedelei Eremo delle Carceri in die Berge fahren. Genießen Sie die Ruhe am Monte Subasio und beenden Sie die Tour an der Festung Rocca Maggiore.",
+            "hu": "Autóval könnyedén elérheti Assisi távolabb eső spirituális helyszíneit. Délelőtt látogassa meg a két nagy bazilikát, majd menjen fel a hegyekbe az Eremo delle Carceri remetelakhoz. Élvezze a csendet a Monte Subasio oldalában, és fejezze be a túrát a Rocca Maggiore erődnél.",
+            "ro": "Cu mașina, puteți ajunge fără efort la locurile spirituale mai îndepărtate din Assisi. Dimineața vizitați cele două mari bazilici, apoi urcați în munți la schitul Eremo delle Carceri. Bucurați-vă de liniștea de pe muntele Subasio și încheiați turul la fortăreața Rocca Maggiore.",
+            "en": "By car, you can effortlessly reach Assisi's more remote spiritual sites. In the morning, visit the two grand basilicas before driving up into the mountains to the Eremo delle Carceri hermitage. Enjoy the silence on the slopes of Mount Subasio and end the tour at the Rocca Maggiore fortress."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Basilika San Francesco",
+                "hu": "Szent Ferenc-bazilika",
+                "ro": "Bazilica Sfântul Francisc",
+                "en": "Basilica di San Francesco"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus am Fuße der Basilika.",
+                "hu": "Parkoljon a bazilika lábánál lévő parkolóházban.",
+                "ro": "Parcați în garajul de la baza bazilicii.",
+                "en": "Park in the garage at the base of the basilica."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria degli Angeli",
+                "hu": "Angyalos Boldogasszony-bazilika",
+                "ro": "Sfânta Maria a Îngerilor",
+                "en": "Santa Maria degli Angeli"
+              },
+              "tip_5lang": {
+                "de": "Große Basilika in der Ebene.",
+                "hu": "Hatalmas bazilika a síkságon.",
+                "ro": "Bazilică mare la câmpie.",
+                "en": "Grand basilica on the plain."
+              }
+            },
+            {
+              "name": {
+                "de": "Eremo delle Carceri",
+                "hu": "Eremo delle Carceri",
+                "ro": "Eremo delle Carceri",
+                "en": "Eremo delle Carceri"
+              },
+              "tip_5lang": {
+                "de": "Einsiedelei hoch am Monte Subasio.",
+                "hu": "Remetelak magasan a Monte Subasión.",
+                "ro": "Schit sus pe muntele Subasio.",
+                "en": "Hermitage high on Mount Subasio."
+              }
+            },
+            {
+              "name": {
+                "de": "Rocca Maggiore",
+                "hu": "Rocca Maggiore",
+                "ro": "Rocca Maggiore",
+                "en": "Rocca Maggiore"
+              },
+              "tip_5lang": {
+                "de": "Die Festung ist mit dem Auto leicht erreichbar.",
+                "hu": "Az erőd autóval könnyen megközelíthető.",
+                "ro": "Fortăreața este ușor accesibilă cu mașina.",
+                "en": "The fortress is easily accessible by car."
+              }
+            },
+            {
+              "name": {
+                "de": "San Damiano",
+                "hu": "San Damiano",
+                "ro": "San Damiano",
+                "en": "Chiesa di San Damiano"
+              },
+              "tip_5lang": {
+                "de": "Kleiner Parkplatz vor dem Tor.",
+                "hu": "Kis parkoló a kapu előtt.",
+                "ro": "Parcare mică în fața porții.",
+                "en": "Small parking lot in front of the gate."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bruschetta Umbra",
+                "tip": "Mit lokalem Olivenöl und Knoblauch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bruschetta Umbra",
+                "tip": "Helyi olívaolajjal és fokhagymával."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bruschetta Umbra",
+                "tip": "Cu ulei de măsline local și usturoi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bruschetta Umbra",
+                "tip": "With local olive oil and garlic."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Eremo delle Carceri",
+                "tip": "Ort der Meditation im Wald.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Eremo delle Carceri",
+                "tip": "Meditációs hely az erdőben.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Eremo delle Carceri",
+                "tip": "Loc de meditație în pădure.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Eremo delle Carceri",
+                "tip": "A place for meditation in the forest.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Vini Umbri",
+                "tip": "Besuchen Sie ein Weingut im Tal für Sagrantino."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vini Umbri",
+                "tip": "Látogasson el egy borászathoz a völgyben Sagrantinoért."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vini Umbri",
+                "tip": "Vizitați o cramă din vale pentru Sagrantino."
+              }
+            ],
+            "en": [
+              {
+                "name": "Vini Umbri",
+                "tip": "Visit a winery in the valley for Sagrantino."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Parkgebühren in Assisi sind hoch; nutzen Sie Park-and-Ride.",
+              "Die Straße zum Eremo delle Carceri ist eng und kurvig."
+            ],
+            "hu": [
+              "A parkolási díjak Assisiben magasak; használja a P+R parkolókat.",
+              "Az Eremo delle Carceri-be vezető út keskeny és kanyargós."
+            ],
+            "ro": [
+              "Taxele de parcare în Assisi sunt mari; folosiți parcările P+R.",
+              "Drumul către Eremo delle Carceri este îngust și șerpuitor."
+            ],
+            "en": [
+              "Parking fees in Assisi are high; use park-and-ride options.",
+              "The road to Eremo delle Carceri is narrow and winding."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am regnerischen Morgen parken wir bequem nahe San Francesco. Mittags fahren wir trocken hinunter nach Santa Maria degli Angeli. Nachmittags führt die Fahrt durch die Wolken hinauf zum Eremo delle Carceri, wo der Wald bei Regen mystisch wirkt. Den Tag beenden wir sicher mit dem Auto bei der Rocca Maggiore und San Damiano.",
+            "hu": "Az esős reggelen kényelmesen parkolunk Szent Ferenc közelében. Délben szárazon autózunk le Santa Maria degli Angelihez. Délután a felhőkön át hajtunk fel az Eremo delle Carcerihez, ahol az erdő esőben misztikus arcát mutatja. A napot biztonságban, autóval zárjuk a Rocca Maggiorénál és San Damianónál.",
+            "ro": "În dimineața ploioasă parcăm confortabil lângă San Francesco. La prânz conducem la adăpost spre Santa Maria degli Angeli. După-amiaza urcăm prin nori spre Eremo delle Carceri, unde pădurea pare mistică pe ploaie. Încheiem ziua în siguranță cu mașina la Rocca Maggiore și San Damiano.",
+            "en": "On a rainy morning, we park conveniently near St. Francis. At noon, we enjoy a dry drive down to Santa Maria degli Angeli. In the afternoon, we drive through the clouds up to Eremo delle Carceri, where the forest looks mystical in the rain. We end the day safely by car at Rocca Maggiore and San Damiano."
+          },
+          "stops": [
+            {
+              "name": "Basilica di San Francesco",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Giovanni Paolo II' für direkten Zugang.",
+                "hu": "Használd a 'Giovanni Paolo II' parkolóházat a közvetlen bejárathoz.",
+                "ro": "Folosiți parcarea 'Giovanni Paolo II' pentru acces direct.",
+                "en": "Use the 'Giovanni Paolo II' parking garage for direct access."
+              }
+            },
+            {
+              "name": "Santa Maria degli Angeli",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Platz erleichtern den Besuch bei Regen.",
+                "hu": "A közvetlenül a tér melletti parkolók megkönnyítik a látogatást.",
+                "ro": "Parcările de lângă piață facilitează vizita pe ploaie.",
+                "en": "Parking spots right by the square make the visit easy in the rain."
+              }
+            },
+            {
+              "name": "Eremo delle Carceri",
+              "tip_5lang": {
+                "de": "Die Bergstraße kann bei Starkregen rutschig und neblig sein.",
+                "hu": "A hegyi út heves esőben csúszós és ködös lehet.",
+                "ro": "Drumul montan poate fi alunecos și încețoșat la ploi abundente.",
+                "en": "The mountain road can be slippery and foggy during heavy rain."
+              }
+            },
+            {
+              "name": "Rocca Maggiore",
+              "tip_5lang": {
+                "de": "Vom Parkplatz oben sind es nur wenige Meter bis zum Eingang.",
+                "hu": "A felső parkolótól csak pár méter séta a bejárat az esőben.",
+                "ro": "De la parcarea de sus sunt doar câțiva metri până la intrare.",
+                "en": "It is only a short walk from the upper parking lot to the entrance."
+              }
+            },
+            {
+              "name": "Chiesa di San Damiano",
+              "tip_5lang": {
+                "de": "Parkplatz direkt unterhalb; kurzer Weg zum überdachten Kircheneingang.",
+                "hu": "Parkolás közvetlenül lent; rövid út a fedett templombejáratig.",
+                "ro": "Parcare chiar dedesubt; drum scurt spre intrarea acoperită.",
+                "en": "Parking right below; short walk to the sheltered church entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf die ZTL-Zonen im Stadtzentrum von Assisi.",
+              "Die Bergstraße zum Eremo ist eng; fahren Sie bei Nässe vorsichtig.",
+              "Nutzen Sie die Parkhäuser mit Aufzügen in die Oberstadt.",
+              "Regenschirme sollten immer im Auto griffbereit liegen.",
+              "Die Sichtweite kann in den Hügeln bei Regen stark eingeschränkt sein."
+            ],
+            "hu": [
+              "Figyelj a ZTL (behajtási tilalom) zónákra Assisi központjában.",
+              "Az Eremóhoz vezető út szűk; vezess óvatosan a vizes aszfalton.",
+              "Használd a lifttel felszerelt parkolóházakat a felsővároshoz.",
+              "Az esernyőket tartsd mindig elérhető helyen az autóban.",
+              "A látótávolság a dombok között esőben jelentősen lecsökkenhet."
+            ],
+            "ro": [
+              "Atenție la zonele ZTL din centrul istoric al orașului Assisi.",
+              "Drumul spre Eremo este îngust; conduceți prudent pe carosabil umed.",
+              "Folosiți parcările cu lifturi pentru a ajunge în orașul de sus.",
+              "Umbrelele ar trebui să fie mereu la îndemână în mașină.",
+              "Vizibilitatea poate fi redusă în dealuri în timpul ploii."
+            ],
+            "en": [
+              "Pay attention to ZTL (Limited Traffic Zones) in Assisi's center.",
+              "The road to Eremo is narrow; drive carefully on wet pavement.",
+              "Utilize parking garages with elevators to reach the upper town.",
+              "Keep umbrellas easily accessible in the car at all times.",
+              "Visibility can be significantly reduced in the hills during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt an der Basilika San Francesco. Mittags genießen wir die Fahrt zur Basilika im Tal bei strahlendem, kühlem Wetter. Nachmittags führt uns die kurvenreiche Straße zum Eremo delle Carceri, wo oft Schnee liegt. Den Tag beenden wir bei Sonnenuntergang an der Rocca Maggiore und dem friedlichen San Damiano.",
+            "hu": "Tiszta téli reggel indul a Szent Ferenc bazilikánál. Délben a völgybe autózunk a ragyogó, hűvös időben. Délután kanyargós út vezet fel az Eremo delle Carcerihez, ahol gyakran hó borítja a tájat. A napot naplementekor zárjuk a Rocca Maggiorénál és a békés San Damianónál.",
+            "ro": "O dimineață senină de iarnă începe la Basilica San Francesco. La prânz conducem spre vale în vremea strălucitoare și rece. După-amiaza, drumul sinuos ne duce la Eremo delle Carceri, unde adesea este zăpadă. Încheiem ziua la apus la Rocca Maggiore și liniștitul San Damiano.",
+            "en": "A clear winter morning begins at St. Francis Basilica. At noon, we drive to the valley basilica in the bright, crisp weather. In the afternoon, the winding road leads us to Eremo delle Carceri, where snow is often present. We conclude the day at sunset at Rocca Maggiore and the peaceful San Damiano."
+          },
+          "stops": [
+            {
+              "name": "Basilica di San Francesco",
+              "tip_5lang": {
+                "de": "Heizung im Auto auf dem Weg hierher genießen; Parken nah am Eingang.",
+                "hu": "Élvezd az autó fűtését idefelé; parkolj a bejárathoz közel.",
+                "ro": "Bucurați-vă de căldura din mașină; parcați aproape de intrare.",
+                "en": "Enjoy the car's heater on the way; park close to the entrance."
+              }
+            },
+            {
+              "name": "Santa Maria degli Angeli",
+              "tip_5lang": {
+                "de": "Im Winter sind die Parkplätze im Tal oft weniger belegt.",
+                "hu": "Télen a völgyben lévő parkolók általában kevésbé zsúfoltak.",
+                "ro": "Iarna, parcările din vale sunt adesea mai libere.",
+                "en": "In winter, parking lots in the valley are often less crowded."
+              }
+            },
+            {
+              "name": "Eremo delle Carceri",
+              "tip_5lang": {
+                "de": "Winterreifen oder Schneeketten können für diese Strecke nötig sein.",
+                "hu": "Téli gumi vagy hólánc szükséges lehet erre a szakaszra.",
+                "ro": "Anvelopele de iarnă sunt necesare pentru acest traseu montan.",
+                "en": "Winter tires or snow chains may be required for this mountain route."
+              }
+            },
+            {
+              "name": "Rocca Maggiore",
+              "tip_5lang": {
+                "de": "Das Auto bietet Schutz vor dem eisigen Wind oben auf dem Hügel.",
+                "hu": "Az autó menedéket nyújt a dombtetőn süvítő jeges szél elől.",
+                "ro": "Mașina oferă protecție contra vântului înghețat de pe deal.",
+                "en": "The car provides shelter from the icy wind on top of the hill."
+              }
+            },
+            {
+              "name": "Chiesa di San Damiano",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang vom Parkplatz; warm anziehen für den Garten.",
+                "hu": "Rövid séta a parkolótól; öltözz melegen a kert meglátogatásához.",
+                "ro": "Scurtă plimbare de la parcare; îmbrăcați-vă gros pentru grădină.",
+                "en": "Short walk from the parking lot; dress warmly for the garden."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Straßen zum Subasio können bei Schnee gesperrt sein.",
+              "Wintersonne kann beim Fahren tief stehen und blenden.",
+              "Die Parkgebühren sind in der Nebensaison manchmal günstiger.",
+              "Nehmen Sie eine Decke für Pausen an Aussichtspunkten mit."
+            ],
+            "hu": [
+              "Ellenőrizd a fagyállót a szélvédőmosóban.",
+              "A Subasio felé vezető utak hóesésben lezárásra kerülhetnek.",
+              "A téli nap alacsonyan jár, vezetés közben vakíthat.",
+              "A parkolási díjak a főszezonon kívül néha kedvezőbbek.",
+              "Vigyél magaddal takarót a kilátópontokon való megálláshoz."
+            ],
+            "ro": [
+              "Verificați lichidul de parbriz antigel înainte de plecare.",
+              "Drumurile spre Subasio pot fi închise în caz de ninsoare.",
+              "Soarele de iarnă stă jos și poate fi orbitor la condus.",
+              "Taxele de parcare sunt uneori mai mici în extrasezon.",
+              "Luați o pătură pentru pauzele la punctele de belvedere."
+            ],
+            "en": [
+              "Check the antifreeze level in your windshield washer fluid.",
+              "Roads towards Mount Subasio may be closed during heavy snow.",
+              "The winter sun is low and can be blinding while driving.",
+              "Parking fees are sometimes lower during the off-season.",
+              "Bring a warm blanket for breaks at the scenic overlooks."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1036,6 +2216,358 @@
           "Tickets for the 'Linea C' bus can be bought at tobacco shops (Tabacchi).",
           "The bus runs every 30 minutes between the station and the old town."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den bequemen Shuttle-Bus, um Assisi vom Bahnhof aus zu erkunden. Starten Sie im Tal, fahren Sie dann hinauf zum höchsten Punkt der Stadt am San Rufino und spazieren Sie bequem bergab über die Piazza del Comune bis zur großen Franziskus-Basilika.",
+            "hu": "Használja a kényelmes ingajáratot Assisi felfedezéséhez az állomástól. Kezdje a völgyben, majd utazzon fel a város legmagasabb pontjára, a San Rufino-hoz, és kényelmesen sétáljon lefelé a Piazza del Comunén át egészen a Szent Ferenc-bazilikáig.",
+            "ro": "Folosiți autobuzul convenabil pentru a explora Assisi de la gară. Începeți în vale, apoi urcați la cel mai înalt punct al orașului, la San Rufino, și plimbați-vă comod la vale prin Piazza del Comune până la marea Bazilică a Sfântului Francisc.",
+            "en": "Use the convenient shuttle bus to explore Assisi from the station. Start in the valley, then ride up to the highest point of the town at San Rufino and walk comfortably downhill through Piazza del Comune to the grand Basilica of St. Francis."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Assisi / Santa Maria",
+                "hu": "Assisi vasútállomás",
+                "ro": "Gara Assisi",
+                "en": "Assisi Train Station"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Basilika direkt neben dem Bahnhof.",
+                "hu": "Látogassa meg a bazilikát közvetlenül az állomás mellett.",
+                "ro": "Vizitați bazilica chiar lângă gară.",
+                "en": "Visit the basilica right next to the station."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza Matteotti / San Rufino",
+                "hu": "Piazza Matteotti",
+                "ro": "Piazza Matteotti",
+                "en": "Piazza Matteotti"
+              },
+              "tip_5lang": {
+                "de": "Buslinie C bringt Sie zur Spitze der Stadt.",
+                "hu": "A C jelű busz a város legmagasabb pontjára viszi.",
+                "ro": "Linia de autobuz C vă duce în vârful orașului.",
+                "en": "Bus line C takes you to the top of the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza del Comune",
+                "hu": "Piazza del Comune",
+                "ro": "Piazza del Comune",
+                "en": "Piazza del Comune"
+              },
+              "tip_5lang": {
+                "de": "Knotenpunkt für lokale Busse.",
+                "hu": "Helyi buszjáratok csomópontja.",
+                "ro": "Nod central pentru autobuzele locale.",
+                "en": "Central hub for local buses."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Santa Chiara",
+                "hu": "Szent Klára-bazilika",
+                "ro": "Bazilica Sfânta Clara",
+                "en": "Basilica di Santa Chiara"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang vom Hauptplatz.",
+                "hu": "Rövid séta a főtértől.",
+                "ro": "Scurtă plimbare din piața principală.",
+                "en": "Short walk from the main square."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika San Francesco",
+                "hu": "Szent Ferenc-bazilika",
+                "ro": "Bazilica Sfântul Francisc",
+                "en": "Basilica di San Francesco"
+              },
+              "tip_5lang": {
+                "de": "Die Endstation vor der Rückfahrt zum Bahnhof.",
+                "hu": "Az utolsó állomás az állomásra való visszatérés előtt.",
+                "ro": "Ultima oprire înainte de întoarcerea la gară.",
+                "en": "Last stop before returning to the station."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Porchetta-Sandwich",
+                "tip": "Beliebtes Streetfood, perfekt für Transitreisende."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Porchetta szendvics",
+                "tip": "Népszerű utcai étel, tökéletes az útközbeni étkezéshez."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Sandviș cu Porchetta",
+                "tip": "Mâncare de stradă populară, perfectă pentru călători."
+              }
+            ],
+            "en": [
+              {
+                "name": "Porchetta sandwich",
+                "tip": "Popular street food, perfect for travelers on the go."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Chiostro di San Francesco",
+                "tip": "Ein ruhiger Kreuzgang abseits der Massen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Chiostro di San Francesco",
+                "tip": "Csendes kolostorudvar a tömegektől távol.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chiostro di San Francesco",
+                "tip": "O mănăstire liniștită departe de mulțime.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Chiostro di San Francesco",
+                "tip": "A quiet cloister away from the crowds.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirs francescani",
+                "tip": "Kleine Kreuze und Medaillen in den Klosterläden."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ferences szuvenírek",
+                "tip": "Kis keresztek és érmék a kolostori boltokban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Suveniruri franciscane",
+                "tip": "Cruci mici și medalii în magazinele mănăstirii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Franciscan souvenirs",
+                "tip": "Small crosses and medals in the monastery shops."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tickets für den Bus 'Linea C' erhalten Sie in Tabakläden (Tabacchi).",
+              "Der Bus verkehrt alle 30 Minuten zwischen Bahnhof und Altstadt."
+            ],
+            "hu": [
+              "A 'Linea C' buszra jegyeket a trafikokban (Tabacchi) vehet.",
+              "A busz 30 percenként jár az állomás és az óváros között."
+            ],
+            "ro": [
+              "Biletele pentru autobuzul 'Linea C' se cumpără de la tutungerii (Tabacchi).",
+              "Autobuzul circulă la fiecare 30 de minute între gară și centrul vechi."
+            ],
+            "en": [
+              "Tickets for the 'Linea C' bus can be bought at tobacco shops (Tabacchi).",
+              "The bus runs every 30 minutes between the station and the old town."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Bahnhof Assisi und nehmen den Bus zur Piazza Matteotti im Regen. Mittags erkunden wir die Piazza del Comune und suchen Schutz in den umliegenden Kirchen. Nachmittags bringt uns der Stadtbus bequem von Santa Chiara zur Basilika San Francesco. Den Tag beenden wir trocken mit dem 'Assisi Link' Bus zurück zum Bahnhof.",
+            "hu": "Az Assisi vasútállomáson kezdünk, majd busszal megyünk a Piazza Matteottihoz az esőben. Délben a Piazza del Comune környékét járjuk be, a templomokban keresve menedéket. Délután a helyi busz kényelmesen visz át Szent Klárától a Szent Ferenc bazilikához. A napot szárazon, az 'Assisi Link' busszal zárjuk az állomás felé.",
+            "ro": "Începem la gara din Assisi și luăm autobuzul spre Piazza Matteotti pe ploaie. La prânz explorăm Piazza del Comune, căutând adăpost în bisericile din jur. După-amiaza, autobuzul local ne duce confortabil de la Santa Chiara la Basilica San Francesco. Încheiem ziua la uscat cu autobuzul 'Assisi Link' înapoi spre gară.",
+            "en": "We start at Assisi Station and take the bus to Piazza Matteotti in the rain. At noon, we explore Piazza del Comune, seeking shelter in nearby churches. In the afternoon, the local bus conveniently transfers us from St. Clare to St. Francis Basilica. We finish the day dry using the 'Assisi Link' bus back to the station."
+          },
+          "stops": [
+            {
+              "name": "Assisi Train Station",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Wartesaal auf den Anschlussbus.",
+                "hu": "Várj a fűtött váróteremben a csatlakozó buszra.",
+                "ro": "Așteptați în sala de așteptare încălzită autobuzul de legătură.",
+                "en": "Wait in the heated waiting room for the connecting bus."
+              }
+            },
+            {
+              "name": "Piazza Matteotti",
+              "tip_5lang": {
+                "de": "Überdachte Bushaltestelle; idealer Startpunkt bei Regen.",
+                "hu": "Fedett buszmegálló; ideális kiindulópont esős időben.",
+                "ro": "Stație de autobuz acoperită; punct de plecare ideal pe ploaie.",
+                "en": "Sheltered bus stop; ideal starting point in rainy weather."
+              }
+            },
+            {
+              "name": "Piazza del Comune",
+              "tip_5lang": {
+                "de": "Der Bus hält nah an den Arkaden; wenig Zeit im Regen.",
+                "hu": "A busz az árkádok közelében áll meg; keveset kell ázni.",
+                "ro": "Autobuzul oprește aproape de arcade; timp minim petrecut în ploaie.",
+                "en": "The bus stops near the porticos; minimal time spent in the rain."
+              }
+            },
+            {
+              "name": "Basilica di Santa Chiara",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus 'Linea C', um Steigungen im Regen zu vermeiden.",
+                "hu": "Használd a 'C' vonalú buszt, hogy elkerüld a hegymenetet esőben.",
+                "ro": "Folosiți linia C pentru a evita urcușurile pe ploaie.",
+                "en": "Use the Line C bus to avoid steep climbs in the rain."
+              }
+            },
+            {
+              "name": "Basilica di San Francesco",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt direkt unterhalb des Klosters.",
+                "hu": "A buszmegálló közvetlenül a kolostor alatt található.",
+                "ro": "Stația de autobuz este situată chiar sub mănăstire.",
+                "en": "The bus stop is located directly below the monastery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Bustickets vorab im Tabakladen am Bahnhof.",
+              "Der 'Assisi Link' ist die schnellste Verbindung zum Bahnhof.",
+              "Busse können bei Starkregen geringfügige Verspätungen haben.",
+              "Die Haltestellen in der Oberstadt bieten oft wenig Wetterschutz.",
+              "Nutzen Sie die App 'Moovit' für Echtzeit-Abfahrten."
+            ],
+            "hu": [
+              "Vedd meg a buszjegyet előre az állomáson lévő trafikban.",
+              "Az 'Assisi Link' a leggyorsabb kapcsolat a vasútállomáshoz.",
+              "Heves esőzéskor a buszoknál előfordulhat pár perc késés.",
+              "A felsővárosi megállók nem mindig nyújtanak teljes védelmet.",
+              "Használd a 'Moovit' alkalmazást a valós idejű menetrendhez."
+            ],
+            "ro": [
+              "Cumpărați biletele de autobuz în avans de la chioșcul din gară.",
+              "Autobuzul 'Assisi Link' este cea mai rapidă legătură cu gara.",
+              "Autobuzele pot avea mici întârzieri în caz de ploi torențiale.",
+              "Stațiile din orașul de sus oferă adesea puțin adăpost.",
+              "Folosiți aplicația 'Moovit' pentru orele de plecare în timp real."
+            ],
+            "en": [
+              "Buy your bus tickets in advance at the station's newsstand.",
+              "The 'Assisi Link' is the fastest connection to the train station.",
+              "Buses may have slight delays during heavy rainstorms.",
+              "Upper town stops often offer limited weather protection.",
+              "Use the 'Moovit' app for real-time departure information."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am klaren Wintermorgen nutzen wir den Bus vom Bahnhof in die Oberstadt. Mittags schlendern wir zwischen den Haltestellen Piazza Matteotti und Piazza del Comune durch die kalte Luft. Nachmittags bietet der beheizte Bus eine willkommene Aufwärmpause zwischen Santa Chiara und San Francesco. Den Tag beenden wir entspannt im Zug nach der Rückfahrt zum Bahnhof.",
+            "hu": "Tiszta téli reggelen busszal megyünk fel az állomástól a felsővárosba. Délben a Piazza Matteotti és a Piazza del Comune között sétálunk a friss, hideg levegőn. Délután a fűtött busz kellemes pihenőt nyújt Szent Klára és Szent Ferenc bazilikája között. A napot a vonaton pihenve zárjuk, miután visszabuszoztunk az állomásra.",
+            "ro": "În dimineața senină de iarnă luăm autobuzul din gară spre orașul de sus. La prânz ne plimbăm între Piazza Matteotti și Piazza del Comune în aerul rece. După-amiaza, autobuzul încălzit oferă o pauză binemeritată între Santa Chiara și San Francesco. Încheiem ziua relaxați în tren după întoarcerea la gară.",
+            "en": "On a clear winter morning, we take the bus from the station to the upper town. At noon, we stroll between Piazza Matteotti and Piazza del Comune in the crisp air. In the afternoon, the heated bus offers a welcome warm break between St. Clare and St. Francis. We end the day relaxing on the train after the bus ride back to the station."
+          },
+          "stops": [
+            {
+              "name": "Assisi Train Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kiosk für einen heißen Tee vor der Abfahrt.",
+                "hu": "Igyál egy forró teát az állomási büfében az indulás előtt.",
+                "ro": "Luați un ceai fierbinte de la chioșc înainte de plecare.",
+                "en": "Get a hot tea at the station kiosk before your departure."
+              }
+            },
+            {
+              "name": "Piazza Matteotti",
+              "tip_5lang": {
+                "de": "Warten Sie im Windschatten der Mauern auf den Stadtbus.",
+                "hu": "Várj a falak szélvédett oldalán a helyi járatra.",
+                "ro": "Așteptați autobuzul la adăpostul zidurilor contra vântului.",
+                "en": "Wait for the local bus on the sheltered side of the walls."
+              }
+            },
+            {
+              "name": "Piazza del Comune",
+              "tip_5lang": {
+                "de": "Im Winter ist der Bus weniger überfüllt als im Sommer.",
+                "hu": "Télen a buszok jóval kevésbé zsúfoltak, mint nyáron.",
+                "ro": "Iarna, autobuzul este mult mai puțin aglomerat decât vara.",
+                "en": "Buses are much less crowded in winter than in summer."
+              }
+            },
+            {
+              "name": "Basilica di Santa Chiara",
+              "tip_5lang": {
+                "de": "Die Wartezeit an der Haltestelle kann im Winter kalt sein; Schal nutzen.",
+                "hu": "A várakozás a megállóban télen hideg lehet; használj sálat.",
+                "ro": "Așteptarea în stație poate fi friguroasă; folosiți un fular.",
+                "en": "Waiting at the stop can be cold in winter; use a scarf."
+              }
+            },
+            {
+              "name": "Basilica di San Francesco",
+              "tip_5lang": {
+                "de": "Letzter Bus zum Bahnhof fährt meist kurz nach 19:00 Uhr.",
+                "hu": "Az utolsó busz az állomásra általában 19:00 körül indul.",
+                "ro": "Ultimul autobuz spre gară pleacă de obicei puțin după ora 19:00.",
+                "en": "The last bus to the station usually leaves shortly after 7:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne ändern sich im Winter; prüfen Sie den 'Invernale' Plan.",
+              "Der Bus ist die wärmste Art, sich zwischen den Sehenswürdigkeiten zu bewegen.",
+              "Tragen Sie warme Socken, da Busböden im Winter kalt sein können.",
+              "Die Sonne geht früh unter; planen Sie Ihre Rückreise vor 18:00 Uhr.",
+              "Kombinieren Sie Busfahrten mit kurzen Aufwärmphasen in Cafés."
+            ],
+            "hu": [
+              "A menetrend télen változik; keresd az 'Invernale' jelzést.",
+              "A busz a legmelegebb módja a látnivalók közötti közlekedésnek.",
+              "Viselj meleg zoknit, a buszok padlója télen hideg lehet.",
+              "A nap korán lemegy; tervezd a visszautat 18:00 előttre.",
+              "Kombináld a buszozást rövid kávéházi melegedőkkel."
+            ],
+            "ro": [
+              "Orarele se schimbă iarna; verificați planul 'Invernale'.",
+              "Autobuzul este cel mai călduros mod de a călători între obiective.",
+              "Purtați șosete groase, podeaua autobuzelor poate fi rece iarna.",
+              "Soarele apune devreme; planificați întoarcerea înainte de ora 18:00.",
+              "Combinați mersul cu autobuzul cu scurte pauze de încălzire în cafenele."
+            ],
+            "en": [
+              "Schedules change in winter; check the 'Invernale' (winter) timetable.",
+              "Taking the bus is the warmest way to move between sights.",
+              "Wear warm socks as bus floors can be quite cold in winter.",
+              "The sun sets early; plan your return journey before 6:00 PM.",
+              "Combine bus rides with short warming breaks in local cafes."
+            ]
+          }
+        }
       }
     }
   },

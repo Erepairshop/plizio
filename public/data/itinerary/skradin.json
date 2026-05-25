@@ -280,6 +280,372 @@
           "Book the NP boat ride early.",
           "Park outside the center as the streets are very narrow."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Skradin auf dem malerischen Hauptplatz. Besuchen Sie die barocke Kirche Mariä Geburt, bevor Sie zur Festung Turina aufsteigen, um einen atemberaubenden Blick auf den Fluss Krka zu genießen. Am Mittag erkunden Sie die römischen Wurzeln im Scardona Park Museum. Der Nachmittag gehört der Marina und dem Eingang zum Nationalpark, wo Sie die Weiterreise zu den Wasserfällen planen können. Den Abend lassen Sie bei einem traditionellen Risotto in einer der Gassen ausklingen.",
+            "hu": "Kezdje a napot Skradin történelmi központjában, a festői főtéren. Látogassa meg a barokk Kisboldogasszony-templomot, majd kapaszkodjon fel a Turina-erődbe a Krka-folyóra nyíló lélegzetelállító kilátásért. Délben fedezze fel a római gyökereket a Scardona Park Múzeumban. A délután a kikötőé és a nemzeti park bejáratáé, ahol megtervezheti továbbutazását a vízesésekhez. Az estét zárja egy hagyományos rizottóval a szűk utcák egyikében.",
+            "ro": "Începeți ziua în centrul istoric al orașului Skradin, în piața principală pitorească. Vizitați biserica barocă Nașterea Maicii Domnului înainte de a urca la cetatea Turina pentru o vedere uluitoare asupra râului Krka. La prânz, explorați rădăcinile romane la Muzeul Scardona Park. După-amiaza este dedicată marinei și intrării în parcul național, unde puteți planifica continuarea călătoriei spre cascade. Încheiați seara cu un risotto tradițional într-una dintre străduțele înguste.",
+            "en": "Start your day in the historical center of Skradin at the picturesque main square. Visit the Baroque Church of the Nativity before climbing up to Turina Fortress for a breathtaking view of the Krka River. At midday, explore the Roman roots at the Scardona Park Museum. The afternoon is dedicated to the marina and the national park entrance, where you can plan your further trip to the waterfalls. Finish the evening with a traditional risotto in one of the narrow alleys."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hauptplatz Trg Male Gospe",
+                "hu": "Trg Male Gospe főtér",
+                "ro": "Piața Trg Male Gospe",
+                "en": "Main Square Trg Male Gospe"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Kirche Mariä Geburt",
+                "hu": "Kisboldogasszony-templom",
+                "ro": "Biserica Nașterea Maicii Domnului",
+                "en": "Church of the Nativity of the Blessed Virgin Mary"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Festung Turina",
+                "hu": "Turina-erőd",
+                "ro": "Cetatea Turina",
+                "en": "Turina Fortress"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Museum Scardona Park",
+                "hu": "Scardona Park Múzeum",
+                "ro": "Muzeul Scardona Park",
+                "en": "Museum Scardona Park"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Skradin Marina",
+                "hu": "Skradini kikötő",
+                "ro": "Marina Skradin",
+                "en": "Skradin Marina"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Nationalpark Krka Eingang",
+                "hu": "Krka Nemzeti Park bejárat",
+                "ro": "Intrarea în Parcul Național Krka",
+                "en": "Krka National Park Entrance"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Skradinski rižot",
+                "tip": "Ein langsam gekochtes Kalbfleisch-Risotto, eine lokale Legende."
+              },
+              {
+                "name": "Skradinska torta",
+                "tip": "Nusskuchen mit Schokolade und Orangenaroma."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Skradinski rižot",
+                "tip": "Lassan főzött borjúhúsos rizottó, helyi legenda."
+              },
+              {
+                "name": "Skradini torta",
+                "tip": "Diós-mandulás sütemény csokoládéval és narancshéjjal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Skradinski rižot",
+                "tip": "Un risotto de vițel gătit lent, o legendă locală."
+              },
+              {
+                "name": "Skradinska torta",
+                "tip": "Tort de nuci cu ciocolată și aromă de portocale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Skradin Risotto",
+                "tip": "Slow-cooked veal risotto, a local legend."
+              },
+              {
+                "name": "Skradin Cake",
+                "tip": "Nut-based cake with chocolate and orange aroma."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Festung Turina",
+                "tip": "Ideal für den Sonnenuntergang über dem Krka-Tal.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Turina-erőd",
+                "tip": "Ideális naplementéhez a Krka-völgy felett.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cetatea Turina",
+                "tip": "Ideal pentru apusul de soare peste valea Krka.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Turina Fortress",
+                "tip": "Ideal for sunset over the Krka valley.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Honig",
+                "tip": "Spezialitäten aus dem Hinterland von Dalmatien."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi méz",
+                "tip": "Dalát hátországából származó különlegességek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Miere locală",
+                "tip": "Specialități din hinterlandul dalmațian."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Honey",
+                "tip": "Specialties from the Dalmatian hinterland."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für den Aufstieg zur Festung.",
+              "Buchen Sie die NP-Bootsfahrt frühzeitig.",
+              "Parken Sie außerhalb des Zentrums, da die Gassen sehr eng sind."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt az erődbe való felkapaszkodáshoz.",
+              "Foglalja le időben a hajójegyet.",
+              "Parkoljon a központon kívül, mert az utcák nagyon szűkek."
+            ],
+            "ro": [
+              "Purtați pantofi confortabili pentru urcarea la cetate.",
+              "Rezervați plimbarea cu barca din timp.",
+              "Parcați în afara centrului, deoarece străzile sunt foarte înguste."
+            ],
+            "en": [
+              "Wear comfortable shoes for the climb to the fortress.",
+              "Book the NP boat ride early.",
+              "Park outside the center as the streets are very narrow."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen am Hauptplatz, wo die nassen Pflastersteine den Charme der Altstadt widerspiegeln. Ein kurzer Spaziergang führt Sie zur Kirche, die einen perfekten, trockenen Rückzugsort für besinnliche Momente bietet.\n\nMittags trotzen Sie dem Nieselregen für einen Aufstieg zur Festung Turina. Der Weg kann rutschig sein, aber die Aussicht auf das neblige Krka-Tal ist mystisch und belohnt die Mühe.\n\nAm Nachmittag bietet das Museum Scardona Park Schutz vor dem Wetter. Tauchen Sie in die lokale Geschichte ein, während der Regen gegen die Fenster prasselt, bevor Sie kurz die Marina besuchen.\n\nDen Abend lassen Sie in einem der gemütlichen Cafés am Hafen ausklingen. Beobachten Sie die Regentropfen auf dem Wasser der Krka, während Sie die herzliche kroatische Gastfreundschaft genießen.",
+            "hu": "Kezdje az esős reggelt a főtéren, ahol a vizes macskakövek különleges fényt adnak az óvárosnak. Egy rövid séta után a templom nyújt száraz menedéket és csendes pillanatokat az elmélyüléshez.\n\nDélben az eső ellenére kapaszkodjon fel a Turina-erődbe. Az út csúszós lehet, de a ködös Krka-völgy látványa misztikus élményt nyújt, amely kárpótolja a fáradtságért.\n\nDélután a Scardona Park Múzeum kínál kiváló menedéket az időjárás elől. Merüljön el a helyi történelemben, miközben az eső veri az ablakot, majd tegyen egy villámlátogatást a kikötőben.\n\nAz estét töltse a kikötő egyik hangulatos kávézójában. Figyelje a vízen táncoló esőcseppeket egy forró ital mellett, élvezve a horvát vendégszeretetet és a nyugodt vízparti légkört.",
+            "ro": "Începeți dimineața ploioasă în piața centrală, unde pavajul umed reflectă farmecul vechiului oraș. O scurtă plimbare vă duce la biserică, oferind un refugiu uscat perfect pentru momente de liniște.\n\nLa prânz, înfruntați burnița pentru o urcare la Cetatea Turina. Poteca poate fi alunecoasă, dar vederea asupra văii Krka învăluite în ceață este mistică și merită efortul depus.\n\nDupă-amiaza, Muzeul Scardona Park oferă adăpost împotriva vremii nefavorabile. Explorați istoria locală în timp ce ploaia bate în geamuri, înainte de a trece rapid prin zona marinei.\n\nSeara, relaxați-vă într-o cafenea primitoare de lângă port. Priviți picăturile de ploaie pe suprafața apei Krka, bucurându-vă de ospitalitatea croată caldă și de atmosfera liniștită.",
+            "en": "Start your rainy morning at the main square, where wet cobblestones enhance the old town's charm. A short walk leads to the church, providing a perfect dry sanctuary for quiet contemplation.\n\nAt noon, brave the drizzle for a climb to Turina Fortress. The path can be slippery, but the view of the misty Krka valley is mystical and rewards your effort significantly.\n\nIn the afternoon, the Scardona Park Museum offers excellent shelter from the elements. Immerse yourself in local history while rain patters on the windows, followed by a quick marina visit.\n\nSpend your evening in a cozy cafe by the harbor. Watch the raindrops dance on the Krka water while enjoying warm Croatian hospitality and the peaceful waterfront atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Main Square Trg Male Gospe",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Markisen der Cafés, während Sie den Regen beobachten.",
+                "hu": "Keressen menedéket a kávézók napellenzői alatt, miközben az esőt figyeli.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor în timp ce priviți ploaia.",
+                "en": "Seek shelter under cafe awnings while watching the rain fall on the square."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Blessed Virgin Mary",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um trocken zu bleiben und die barocke Akustik zu genießen.",
+                "hu": "Ideális hely, hogy szárazon maradjon és élvezze a barokk akusztikát.",
+                "ro": "Un loc ideal pentru a rămâne uscat și a vă bucura de acustica barocă.",
+                "en": "An ideal spot to stay dry and appreciate the baroque acoustics indoors."
+              }
+            },
+            {
+              "name": "Turina Fortress",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Steinstufen; bei Regen können sie sehr rutschig sein.",
+                "hu": "Vigyázzon a kőlépcsőkön; esőben nagyon csúszósak lehetnek.",
+                "ro": "Atenție la treptele de piatră; pot fi foarte alunecoase când plouă.",
+                "en": "Be careful on the stone steps; they can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Museum Scardona Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für einen ausführlichen Besuch der Ausstellungen.",
+                "hu": "Használja ki az eső szünetét a kiállítások alapos megtekintésére.",
+                "ro": "Profitați de pauza de ploaie pentru o vizită detaliată a expozițiilor.",
+                "en": "Take advantage of the rain break for a detailed visit to the exhibits."
+              }
+            },
+            {
+              "name": "Skradin Marina",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang mit Regenschirm bietet eine ruhige, graue Ästhetik.",
+                "hu": "Egy rövid séta esernyővel nyugodt, szürkés esztétikát kínál.",
+                "ro": "O scurtă plimbare cu umbrela oferă o estetică gri și liniștită.",
+                "en": "A short walk with an umbrella offers a peaceful, moody maritime aesthetic."
+              }
+            },
+            {
+              "name": "Krka National Park Entrance",
+              "tip_5lang": {
+                "de": "Die Boote zum Wasserfall sind überdacht und bieten Schutz während der Fahrt.",
+                "hu": "A vízeséshez menő hajók fedettek, így védelmet nyújtanak az út alatt.",
+                "ro": "Barcă către cascadă este acoperită, oferind protecție în timpul călătoriei.",
+                "en": "The boats to the waterfall are covered, providing shelter during the trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe, da die Kalksteinstraßen bei Nässe glatt werden.",
+              "Die Boote zum Krka-Nationalpark fahren auch bei Regen und sind überdacht.",
+              "Nutzen Sie die Museen und Kirchen als strategische Pausenpunkte zum Trocknen.",
+              "Ein hochwertiger Regenschirm ist bei den Winden im Tal besser als ein Regenponcho."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt, mert a mészkő utak nedvesen rendkívül csúszósak.",
+              "A Krka Nemzeti Parkba tartó hajók esőben is járnak és fedettek.",
+              "Használja a múzeumokat és templomokat stratégiai pihenőhelyként a száradáshoz.",
+              "A völgyben fújó szelek miatt egy stabil esernyő praktikusabb, mint a poncsó."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție impermeabilă, deoarece piatra devine alunecoasă.",
+              "Bărcile către Parcul Național Krka circulă și pe ploaie și sunt acoperite.",
+              "Folosiți muzeele și bisericile ca puncte strategice de pauză pentru a vă usca.",
+              "O umbrelă solidă este mai utilă decât o pelerină din cauza vântului din vale."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes as the limestone streets become slick when wet.",
+              "Boats to Krka National Park operate during rain and are covered for comfort.",
+              "Use museums and churches as strategic break points to dry off between stops.",
+              "A sturdy umbrella is often better than a poncho due to localized valley winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die frische Winterluft am Hauptplatz, der in dieser Jahreszeit herrlich ruhig ist. Besuchen Sie die Kirche, in der die kühle Stille eine besonders andächtige Atmosphäre schafft.\n\nZur Mittagszeit hält Sie der Aufstieg zur Festung Turina warm. Von oben haben Sie eine klare Sicht auf die schneefreie, aber winterlich karge Landschaft des Krka-Flusses.\n\nAm Nachmittag bietet das beheizte Museum Scardona Park eine willkommene Wärme. Erkunden Sie die Exponate ohne die sommerlichen Menschenmassen, bevor Sie einen zügigen Spaziergang an der Marina machen.\n\nDa die Sonne früh untergeht, beenden Sie Ihre Tour am Parkeingang. Genießen Sie die blaue Stunde über dem Wasser und kehren Sie für ein herzhaftes kroatisches Abendessen ins Dorf zurück.",
+            "hu": "Élvezze a friss téli levegőt a főtéren, amely ilyenkor békésen és csendesen várja a látogatókat. Látogasson el a templomba, ahol a hűvös nyugalom meghitt hangulatot áraszt.\n\nDélben a Turina-erődbe vezető emelkedő segít melegen tartani a testét. Fentről tiszta kilátás nyílik a Krka-folyó téli, kopár, de lenyűgöző vidékére.\n\nDélután a fűtött Scardona Park Múzeum nyújt kellemes felmelegedést. Fedezze fel a tárlatokat a nyári tömeg nélkül, majd tegyen egy frissítő sétát a szeles kikötőben.\n\nMivel korán sötétedik, fejezze be a túrát a park bejáratánál. Csodálja meg a kék órát a víz felett, majd térjen be egy falusi étterembe egy tartalmas horvát vacsorára.",
+            "ro": "Experimentați aerul proaspăt de iarnă în piața centrală, care este minunat de liniștită în acest sezon. Vizitați biserica, unde liniștea răcoroasă creează o atmosferă pioasă.\n\nLa prânz, urcarea către Cetatea Turina vă va ține de cald. De sus, aveți o vedere clară asupra peisajului hibernal auster, dar fascinant, al râului Krka.\n\nDupă-amiaza, Muzeul Scardona Park încălzit oferă o căldură binevenită. Explorați exponatele fără mulțimile de vară, înainte de o plimbare rapidă prin zona marinei.\n\nDeoarece soarele apune devreme, încheiați turul la intrarea în parc. Bucurați-vă de ora albastră deasupra apei și întoarceți-vă în sat pentru o cină croată consistentă.",
+            "en": "Experience the crisp winter air at the main square, which is wonderfully peaceful during this season. Visit the church, where the cool silence creates an especially devout atmosphere.\n\nAt midday, the climb to Turina Fortress will keep you warm through physical activity. From the top, enjoy clear views over the winter landscape of the Krka river.\n\nIn the afternoon, the heated Scardona Park Museum provides welcome warmth. Explore the exhibits without the summer crowds, followed by a brisk walk at the marina.\n\nAs the sun sets early, finish your tour at the park entrance. Enjoy the blue hour over the water and return to the village for a hearty, traditional Croatian dinner."
+          },
+          "stops": [
+            {
+              "name": "Main Square Trg Male Gospe",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne Touristenströme; ideal für Fotos.",
+                "hu": "Élvezze a nyugalmat turistaáradat nélkül; fotózáshoz ideális.",
+                "ro": "Bucurați-vă de liniște fără fluxul de turiști; ideal pentru fotografii.",
+                "en": "Enjoy the silence without tourist crowds; ideal for unobstructed photos."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Blessed Virgin Mary",
+              "tip_5lang": {
+                "de": "Tragen Sie eine Mütze; die dicken Mauern halten die Kälte fest.",
+                "hu": "Viseljen sapkát; a vastag falak bent tartják a hideget.",
+                "ro": "Purtați o căciulă; zidurile groase rețin frigul în interior.",
+                "en": "Keep your hat on; the thick stone walls retain the winter chill."
+              }
+            },
+            {
+              "name": "Turina Fortress",
+              "tip_5lang": {
+                "de": "Die Wintersonne bietet oft die beste Fernsicht des ganzen Jahres.",
+                "hu": "A téli napsütés gyakran az év legjobb távoli kilátását biztosítja.",
+                "ro": "Soarele de iarnă oferă adesea cea mai bună vizibilitate la distanță.",
+                "en": "Winter sun often provides the clearest long-distance views of the year."
+              }
+            },
+            {
+              "name": "Museum Scardona Park",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um sich zwischen den Außenstopps aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedéshez a szabadtéri megállók között.",
+                "ro": "Un loc perfect pentru a vă încălzi între opririle exterioare.",
+                "en": "A perfect place to warm up between outdoor stops in the winter air."
+              }
+            },
+            {
+              "name": "Skradin Marina",
+              "tip_5lang": {
+                "de": "Der Wind vom Wasser kann schneidend sein; Schal nicht vergessen.",
+                "hu": "A víz felől fújó szél metsző lehet; ne felejtse el a sálat.",
+                "ro": "Vântul de pe apă poate fi tăios; nu uitați eșarfa sau fularul.",
+                "en": "The wind from the water can be biting; don't forget your scarf."
+              }
+            },
+            {
+              "name": "Krka National Park Entrance",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan der Boote; Abfahrten sind seltener.",
+                "hu": "Ellenőrizze a hajók téli menetrendjét; ritkábban indulnak.",
+                "ro": "Verificați orarul de iarnă al bărcilor; plecările sunt mai rare.",
+                "en": "Check the winter boat schedule; departures are much less frequent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 16:30 Uhr unter; planen Sie Ihre Aktivitäten früh.",
+              "Viele Restaurants haben eingeschränkte Winteröffnungszeiten.",
+              "Der Zwiebellook ist ideal für den Wechsel zwischen kalten Winden und warmen Museen.",
+              "Der Eintritt in den Nationalpark ist im Winter deutlich günstiger."
+            ],
+            "hu": [
+              "A nap 16:30 körül nyugszik; tervezze a programokat korai kezdéssel.",
+              "Sok étterem korlátozott téli nyitvatartással üzemel.",
+              "A réteges öltözködés ideális a hideg szél és a meleg múzeumok váltakozásához.",
+              "A nemzeti park belépője télen jelentősen olcsóbb, mint főszezonban."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:30; planificați activitățile devreme.",
+              "Multe restaurante au program de funcționare limitat pe timp de iarnă.",
+              "Îmbrăcămintea în straturi este ideală pentru vântul rece și muzeele calde.",
+              "Intrarea în parcul național este semnificativ mai ieftină iarna."
+            ],
+            "en": [
+              "Sunset is around 4:30 PM in winter; plan your outdoor activities early.",
+              "Many restaurants in Skradin have reduced winter operating hours.",
+              "Layered clothing is key for moving between cold winds and warm museums.",
+              "National Park entry fees are significantly lower during the winter season."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -515,6 +881,329 @@
           "Take enough water with you.",
           "Watch out for hikers on the river path."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Fahrrad, um die natürliche Schönheit rund um Skradin zu erkunden. Die Strecke zum Skradinski Buk ist flach und führt malerisch am Ufer entlang. Nach der Erfrischung an den Wasserfällen radeln Sie zurück und besuchen den Aussichtspunkt an der Krka-Brücke. Den Abschluss bildet der historische Kern mit der Turina-Festung.",
+            "hu": "Használja a kerékpárt a Skradin környéki természeti szépségek felfedezéséhez. A Skradinski Bukhoz vezető út sík és festői a folyópart mentén. A vízeséseknél tett felfrissülés után tekerjen vissza, és látogassa meg a Krka-híd kilátópontját. A napot a történelmi mag és a Turina-erőd zárja.",
+            "ro": "Folosiți bicicleta pentru a explora frumusețea naturală din jurul orașului Skradin. Traseul către Skradinski Buk este plat și duce pitoresc de-a lungul malului. După reîmprospătarea la cascade, pedalați înapoi și vizitați punctul de belvedere de la podul Krka. Încheierea o constituie nucleul istoric cu cetatea Turina.",
+            "en": "Use the bike to explore the natural beauty around Skradin. The route to Skradinski Buk is flat and leads picturesquely along the shore. After refreshing at the waterfalls, cycle back and visit the viewpoint at the Krka Bridge. The historical core with the Turina Fortress forms the conclusion."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Skradin Marina",
+                "hu": "Skradini kikötő",
+                "ro": "Marina Skradin",
+                "en": "Skradin Marina"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Skradinski Buk Wasserfall",
+                "hu": "Skradinski Buk vízesés",
+                "ro": "Cascada Skradinski Buk",
+                "en": "Skradinski Buk Waterfall"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Krka-Brücke",
+                "hu": "Krka-híd",
+                "ro": "Podul Krka",
+                "en": "Krka Bridge"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Hauptplatz Trg Male Gospe",
+                "hu": "Trg Male Gospe főtér",
+                "ro": "Piața Trg Male Gospe",
+                "en": "Main Square Trg Male Gospe"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Festung Turina",
+                "hu": "Turina-erőd",
+                "ro": "Cetatea Turina",
+                "en": "Turina Fortress"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Skradin",
+                "tip": "Hausgemachter Wein und Käse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba Skradin",
+                "tip": "Házias bor és sajt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Skradin",
+                "tip": "Vin și brânză de casă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Skradin",
+                "tip": "Homemade wine and cheese."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Krka Uferweg",
+                "tip": "Ruhiger Weg im Schatten der Bäume.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Krka parti út",
+                "tip": "Csendes út a fák árnyékában.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul râului Krka",
+                "tip": "Potecă liniștită la umbra copacilor.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Krka river path",
+                "tip": "Quiet path in the shade of trees.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bauernmarkt",
+                "tip": "Frisches Obst und Olivenöl."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Termelői piac",
+                "tip": "Friss gyümölcs és olívaolaj."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piața locală",
+                "tip": "Fructe proaspete și ulei de măsline."
+              }
+            ],
+            "en": [
+              {
+                "name": "Farmers market",
+                "tip": "Fresh fruit and olive oil."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein E-Bike für längere Touren.",
+              "Nehmen Sie ausreichend Wasser mit.",
+              "Achten Sie auf Wanderer auf dem Uferweg."
+            ],
+            "hu": [
+              "Béreljen elektromos kerékpárt a hosszabb túrákhoz.",
+              "Vigyen magával elegendő vizet.",
+              "Figyeljen a gyalogosokra a parti úton."
+            ],
+            "ro": [
+              "Închiriați o bicicletă electrică pentru tururi mai lungi.",
+              "Luați suficientă apă cu voi.",
+              "Fiți atenți la pietoni pe poteca de pe mal."
+            ],
+            "en": [
+              "Rent an e-bike for longer tours.",
+              "Take enough water with you.",
+              "Watch out for hikers on the river path."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Radtour an der Marina mit voller Regenmontur. Die Fahrt zum Skradinski Buk ist erfrischend, während der Regen den Wald in ein sattes Grün taucht.\n\nMittags erreichen Sie die Wasserfälle, die bei Regen besonders mächtig wirken. Das Rauschen des Wassers vermischt sich mit dem Prasseln der Tropfen auf Ihrem Helm.\n\nNachmittags fahren Sie vorsichtig über die Krka-Brücke. Der Blick auf den nebligen Fluss ist dramatisch, erfordert aber volle Konzentration auf der nassen Fahrbahn.\n\nZurück im Ort machen Sie einen kurzen Stopp am Hauptplatz, bevor Sie das Fahrrad sicher abstellen und sich bei der Festung Turina die Beine vertreten.",
+            "hu": "Kezdje a bringatúrát a kikötőben, teljes esőfelszerelésben. A Skradinski Buk felé vezető út frissítő, az eső pedig mélyzöldre festi az erdőt.\n\nDélben éri el a vízeséseket, amelyek esőben különösen monumentálisak. A víz zúgása keveredik a sisakján kopogó esőcseppek hangjával.\n\nDélután óvatosan tekerjen át a Krka-hídon. A ködös folyó látványa drámai, de a nedves aszfalton teljes koncentrációra van szükség.\n\nVisszatérve a faluba, tartson egy rövid pihenőt a főtéren, majd parkolja le a bringát és mozgassa át a lábait a Turina-erőd felé sétálva.",
+            "ro": "Începeți tura de bicicletă la marină echipat complet pentru ploaie. Drumul spre Skradinski Buk este revigorant, ploaia intensificând verdele pădurii.\n\nLa prânz ajungeți la cascade, care par extrem de puternice pe ploaie. Zgomotul apei se amestecă cu sunetul picăturilor pe casca dumneavoastră.\n\nDupă-amiaza pedalați cu atenție peste Podul Krka. Vederea râului cețos este dramatică, dar necesită concentrare maximă pe carosabilul umed.\n\nÎntors în oraș, faceți o scurtă oprire în piața centrală înainte de a parca bicicleta și a urca pe jos către Cetatea Turina.",
+            "en": "Start your bike tour at the marina in full rain gear. The ride to Skradinski Buk is refreshing, as the rain turns the forest into a deep, vibrant green.\n\nAt noon, you reach the waterfalls, which look particularly powerful in the rain. The roar of the water mixes with the pitter-patter on your helmet.\n\nIn the afternoon, cycle carefully over the Krka Bridge. The view of the misty river is dramatic but requires full focus on the wet pavement.\n\nBack in town, make a quick stop at the main square before parking your bike safely and stretching your legs with a walk to Turina Fortress."
+          },
+          "stops": [
+            {
+              "name": "Skradin Marina",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf die nassen Wege starten.",
+                "hu": "Ellenőrizze a fékeket, mielőtt elindulna a nedves utakon.",
+                "ro": "Verificați frânele înainte de a porni pe drumurile umede.",
+                "en": "Check your brakes thoroughly before starting on the wet paths."
+              }
+            },
+            {
+              "name": "Skradinski Buk Waterfall",
+              "tip_5lang": {
+                "de": "Die Holzstege sind extrem rutschig; schieben Sie Ihr Rad hier lieber.",
+                "hu": "A fapallók rendkívül csúszósak; itt inkább tolja a kerékpárt.",
+                "ro": "Podețele de lemn sunt extrem de alunecoase; mai bine împingeți bicicleta.",
+                "en": "The wooden boardwalks are extremely slippery; better to push your bike here."
+              }
+            },
+            {
+              "name": "Krka Bridge",
+              "tip_5lang": {
+                "de": "Achten Sie auf Seitenwinde, die bei Regen oft stärker ausfallen.",
+                "hu": "Ügyeljen az oldalszélre, amely esőben gyakran erősebbé válik.",
+                "ro": "Atenție la vântul lateral, care este adesea mai puternic pe ploaie.",
+                "en": "Watch out for crosswinds, which often pick up during rain showers."
+              }
+            },
+            {
+              "name": "Main Square Trg Male Gospe",
+              "tip_5lang": {
+                "de": "Parken Sie unter einem Dachvorsprung, um den Sattel trocken zu halten.",
+                "hu": "Parkoljon egy eresztető alatt, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați sub o streașină pentru a menține șaua uscată.",
+                "en": "Park under an eave to keep your saddle dry while you take a break."
+              }
+            },
+            {
+              "name": "Turina Fortress",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad unten ab; der Pfad ist nur für Fußgänger geeignet.",
+                "hu": "Lakatolja le a gépet alul; az ösvény csak gyalogosoknak alkalmas.",
+                "ro": "Încuiați bicicleta jos; poteca este potrivită doar pentru pietoni.",
+                "en": "Lock your bike at the bottom; the path is for pedestrians only."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um sich vor aufgewirbeltem Schmutz zu schützen.",
+              "Vermeiden Sie plötzliches Bremsen auf den glatten Kalksteinen im Ort.",
+              "Tragen Sie eine Brille mit klaren Gläsern für bessere Sicht im Regen.",
+              "Wasserdichte Packtaschen sind unerlässlich, um Ihre Ausrüstung trocken zu halten."
+            ],
+            "hu": [
+              "Használjon sárvédőt, hogy megvédje magát a felcsapódó sártól.",
+              "Kerülje a hirtelen fékezést a falu csúszós mészkő burkolatain.",
+              "Viseljen víztiszta lencséjű szemüveget a jobb látásért az esőben.",
+              "A vízálló kerékpáros táskák elengedhetetlenek a felszerelés szárazon tartásához."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a vă proteja de murdăria împroșcată.",
+              "Evitați frânarea bruscă pe piatra de calcar alunecoasă din sat.",
+              "Purtați ochelari cu lentile clare pentru o vizibilitate mai bună pe ploaie.",
+              "Geantele de bicicletă impermeabile sunt esențiale pentru echipament."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from road spray and mud.",
+              "Avoid sudden braking on the slick limestone surfaces in the village.",
+              "Wear clear-lens glasses for better visibility during rainy rides.",
+              "Waterproof panniers are essential to keep your spare clothes dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre winterliche Radtour an der Marina. Die kalte Luft beißt in den Wangen, aber die leeren Wege bieten ein unvergleichliches Freiheitsgefühl.\n\nMittags erreichen Sie den Skradinski Buk. Ohne die Sommermassen können Sie das Fahrrad fast bis zum Ufer schieben und die majestätische Ruhe der gefrorenen Natur genießen.\n\nNachmittags radeln Sie zur Krka-Brücke. Die tiefstehende Wintersonne wirft lange Schatten über das Tal und sorgt für ein spektakuläres Lichtspiel auf dem Wasser.\n\nZurück im Dorf wärmen Sie sich kurz am Hauptplatz auf, bevor Sie den letzten Anstieg zur Festung Turina zu Fuß meistern, um die Aussicht in der klaren Winterluft zu genießen.",
+            "hu": "Kezdje a téli bringatúrát a kikötőben. A hideg levegő csípi az arcát, de az üres utak páratlan szabadságélményt nyújtanak.\n\nDélben éri el a Skradinski Bukot. A nyári tömeg nélkül szinte a partig tolhatja a bringát, és élvezheti a természet fenséges téli nyugalmát.\n\nDélután tekerjen el a Krka-hídig. Az alacsonyan járó téli nap hosszú árnyékokat vet a völgyre, és látványos fényjátékot hoz létre a vízen.\n\nVisszatérve a faluba, melegedjen fel a főtéren, majd gyalogosan hódítsa meg a Turina-erődöt a kristálytiszta téli kilátásért.",
+            "ro": "Începeți tura de iarnă la marină. Aerul rece vă pișcă obrajii, dar drumurile libere oferă o senzație de libertate de neegalat.\n\nLa prânz ajungeți la Skradinski Buk. Fără mulțimile de vară, puteți merge cu bicicleta aproape de mal, bucurându-vă de liniștea maiestuoasă a iernii.\n\nDupă-amiaza pedalați către Podul Krka. Soarele jos de iarnă aruncă umbre lungi peste vale și creează un joc de lumini spectaculos pe apă.\n\nÎntors în sat, încălziți-vă puțin în piața centrală înainte de a urca pe jos la Cetatea Turina pentru o vedere panoramică clară.",
+            "en": "Start your winter bike tour at the marina. The cold air bites your cheeks, but the empty paths offer an unparalleled sense of freedom and solitude.\n\nAt noon, you reach Skradinski Buk. Without the summer crowds, you can walk your bike close to the water and enjoy the majestic winter silence of nature.\n\nIn the afternoon, cycle to the Krka Bridge. The low winter sun casts long shadows over the valley, creating a spectacular light show on the water.\n\nBack in the village, warm up briefly at the main square before tackling the final climb to Turina Fortress on foot for crystal-clear winter views."
+          },
+          "stops": [
+            {
+              "name": "Skradin Marina",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe; der Fahrtwind ist im Winter extrem kalt.",
+                "hu": "Viseljen szélálló kesztyűt; a menetszél télen rendkívül hideg.",
+                "ro": "Purtați mănuși rezistente la vânt; curentul este extrem de rece iarna.",
+                "en": "Wear windproof gloves; the wind chill is significant during winter rides."
+              }
+            },
+            {
+              "name": "Skradinski Buk Waterfall",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe auf den Brücken und Wegen.",
+                "hu": "Ügyeljen a lefagyott nedvességre a hidakon és az utakon.",
+                "ro": "Atenție la porțiunile înghețate de pe poduri și poteci.",
+                "en": "Watch out for black ice on the wooden bridges and shaded paths."
+              }
+            },
+            {
+              "name": "Krka Bridge",
+              "tip_5lang": {
+                "de": "Halten Sie kurz an; die klare Winterluft sorgt für perfekte Fotos.",
+                "hu": "Álljon meg egy pillanatra; a tiszta téli levegő tökéletes fotókat ad.",
+                "ro": "Opriți-vă scurt; aerul clar de iarnă asigură fotografii perfecte.",
+                "en": "Stop briefly; the clear winter air ensures perfect high-contrast photos."
+              }
+            },
+            {
+              "name": "Main Square Trg Male Gospe",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Café mit Außenheizung für eine kurze Aufwärmpause.",
+                "hu": "Keressen egy kültéri fűtőtesttel rendelkező kávézót a pihenőhöz.",
+                "ro": "Căutați o cafenea cu încălzire exterioară pentru o scurtă pauză.",
+                "en": "Find a cafe with outdoor heaters for a quick warming break."
+              }
+            },
+            {
+              "name": "Turina Fortress",
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren sein; gehen Sie den Anstieg vorsichtig an.",
+                "hu": "A talaj fagyott lehet; óvatosan vágjon neki az emelkedőnek.",
+                "ro": "Solul poate fi înghețat; urcați panta cu mare atenție.",
+                "en": "The ground might be frozen; tackle the climb with extra caution."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Thermo-Socken und Überschuhe gegen die Kälte an den Füßen.",
+              "Die Tage sind kurz; stellen Sie sicher, dass Ihr Licht einwandfrei funktioniert.",
+              "Trinken Sie auch bei Kälte genug; Tee in einer Thermoskanne ist ideal.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck bietet mehr Grip auf hartem Boden."
+            ],
+            "hu": [
+              "Használjon termozoknit és kamáslit a lábak hideg elleni védelmére.",
+              "A nappalok rövidek; győződjön meg róla, hogy a világítás jól működik.",
+              "Igyon eleget hidegben is; a termoszban vitt tea a legjobb választás.",
+              "Ellenőrizze a guminyomást; a kicsit kisebb nyomás jobb tapadást ad."
+            ],
+            "ro": [
+              "Folosiți șosete termice și protecții pentru pantofi împotriva frigului.",
+              "Zilele sunt scurte; asigurați-vă că luminile bicicletei funcționează.",
+              "Beți suficiente lichide; ceaiul într-un termos este ideal.",
+              "Verificați presiunea; o presiune mai mică oferă aderență pe sol înghețat."
+            ],
+            "en": [
+              "Use thermal socks and shoe covers to prevent cold feet while cycling.",
+              "Days are short; ensure your front and rear lights are working perfectly.",
+              "Stay hydrated even in the cold; tea in a thermos is your best friend.",
+              "Check tire pressure; slightly lower pressure provides better grip on cold surfaces."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -750,6 +1439,329 @@
           "Watch out for speed limits.",
           "Use parking lot P1 at the entrance of the town."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie bequem die spektakulärsten Aussichtspunkte. Beginnen Sie an der Krka-Brücke für ein perfektes Foto. Danach erkunden Sie Skradin zu Fuß, besuchen die Festung, den Platz und die Marina. Ein Auto ermöglicht Ihnen auch einen schnellen Trip zum Haupteingang Lozovac des Nationalparks.",
+            "hu": "Autóval kényelmesen elérheti a leglátványosabb kilátópontokat. Kezdje a Krka-hídnál egy tökéletes fotóért. Ezután fedezze fel Skradint gyalog, látogasson el az erődbe, a térre és a kikötőbe. Az autó lehetővé teszi a gyors utazást a Nemzeti Park főbejáratához, Lozovachoz is.",
+            "ro": "Cu mașina puteți ajunge confortabil la cele mai spectaculoase puncte de belvedere. Începeți la podul Krka pentru o fotografie perfectă. După aceea, explorați Skradin la pas, vizitați cetatea, piața și marina. O mașină vă permite, de asemenea, o excursie rapidă la intrarea principală Lozovac a parcului național.",
+            "en": "By car, you can comfortably reach the most spectacular viewpoints. Start at the Krka Bridge for a perfect photo. Afterwards, explore Skradin on foot, visit the fortress, the square, and the marina. A car also allows you a quick trip to the main entrance Lozovac of the National Park."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Krka-Brücke Aussichtspunkt",
+                "hu": "Krka-híd kilátóhely",
+                "ro": "Punct de belvedere Podul Krka",
+                "en": "Krka Bridge Viewpoint"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Festung Turina",
+                "hu": "Turina-erőd",
+                "ro": "Cetatea Turina",
+                "en": "Turina Fortress"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Hauptplatz Trg Male Gospe",
+                "hu": "Trg Male Gospe főtér",
+                "ro": "Piața Trg Male Gospe",
+                "en": "Main Square Trg Male Gospe"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Kirche Mariä Geburt",
+                "hu": "Kisboldogasszony-templom",
+                "ro": "Biserica Nașterea Maicii Domnului",
+                "en": "Church of the Nativity of the Blessed Virgin Mary"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Skradin Marina",
+                "hu": "Skradini kikötő",
+                "ro": "Marina Skradin",
+                "en": "Skradin Marina"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurant Visovac",
+                "tip": "Traditionelle Peka-Gerichte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Restaurant Visovac",
+                "tip": "Hagyományos peka ételek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurant Visovac",
+                "tip": "Mâncăruri tradiționale peka."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restaurant Visovac",
+                "tip": "Traditional Peka dishes."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Krka Brücke Rastplatz",
+                "tip": "Ruhiger Blick auf den Flussbogen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Krka híd pihenőhely",
+                "tip": "Csendes kilátás a folyó ívére.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Popas Podul Krka",
+                "tip": "Vedere liniștită asupra arcului râului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Krka Bridge Rest Area",
+                "tip": "Quiet view of the river bend.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Weinstraße Skradin",
+                "tip": "Besuch bei lokalen Winzern."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Skradini borút",
+                "tip": "Helyi borászok meglátogatása."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Drumul vinului Skradin",
+                "tip": "Vizită la viticultorii locali."
+              }
+            ],
+            "en": [
+              {
+                "name": "Skradin Wine Road",
+                "tip": "Visit local winemakers."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Parkplätze sind im Sommer begrenzt.",
+              "Achten Sie auf die Geschwindigkeitsbegrenzungen.",
+              "Nutzen Sie den Parkplatz P1 am Ortseingang."
+            ],
+            "hu": [
+              "Nyáron korlátozott a parkolóhelyek száma.",
+              "Ügyeljen a sebességkorlátozásokra.",
+              "Használja a P1 parkolót a város bejáratánál."
+            ],
+            "ro": [
+              "Locurile de parcare sunt limitate vara.",
+              "Fiți atenți la limitele de viteză.",
+              "Folosiți parcarea P1 de la intrarea în oraș."
+            ],
+            "en": [
+              "Parking spaces are limited in summer.",
+              "Watch out for speed limits.",
+              "Use parking lot P1 at the entrance of the town."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Fahrt am Aussichtspunkt der Krka-Brücke. Von Ihrem warmen Auto aus haben Sie einen großartigen Blick auf das stürmische Wetter über dem Canyon.\n\nMittags parken Sie so nah wie möglich an der Festung Turina. Ein kurzer Sprint durch den Regen bringt Sie zu den Ruinen, von denen aus Sie die graue Pracht des Tals bewundern.\n\nNachmittags fahren Sie ins Zentrum zum Hauptplatz. Parken Sie geschützt und besuchen Sie die nahegelegene Kirche, um dem Regen für eine Weile zu entkommen.\n\nDen Abschluss bildet eine langsame Fahrt entlang der Marina. Beobachten Sie die Boote im Regen, bevor Sie zu einem gemütlichen Abendessen in Skradin aufbrechen.",
+            "hu": "Kezdje az utat a Krka-híd kilátópontjánál. A meleg autóból nagyszerű kilátás nyílik a kanyon feletti viharos időjárásra.\n\nDélben parkoljon a lehető legközelebb a Turina-erődöz. Egy rövid sprint az esőben, és már az erőd romjai között csodálhatja a völgy szürke pompáját.\n\nDélután guruljon be a központba a főtérhez. Parkoljon védett helyen, és látogasson el a közeli templomba, hogy egy időre elmeneküljön az eső elől.\n\nA napot egy lassú autózással zárja a kikötő mentén. Figyelje az esőben ringatózó hajókat, mielőtt beülne egy hangulatos vacsorára Skradinban.",
+            "ro": "Începeți călătoria la punctul de belvedere al Podului Krka. Din mașina caldă, aveți o vedere excelentă asupra vremii furtunoase de deasupra canionului.\n\nLa prânz, parcați cât mai aproape de Cetatea Turina. Un scurt sprint prin ploaie vă duce la ruine, de unde puteți admira splendoarea gri a văii.\n\nDupă-amiaza conduceți spre centru până în piața principală. Parcați într-un loc protejat și vizitați biserica din apropiere pentru a scăpa de ploaie.\n\nÎncheiați cu o plimbare lentă cu mașina de-a lungul marinei. Priviți ambarcațiunile prin ploaie înainte de a merge la o cină primitoare în Skradin.",
+            "en": "Start your drive at the Krka Bridge viewpoint. From the warmth of your car, you have a great view of the stormy weather over the canyon.\n\nAt noon, park as close as possible to Turina Fortress. A short dash through the rain brings you to the ruins, from where you can admire the valley's grey majesty.\n\nIn the afternoon, drive into the center to the main square. Park in a sheltered spot and visit the nearby church to escape the rain for a while.\n\nConclude with a slow drive along the marina. Watch the boats in the rain from your window before heading out for a cozy dinner in Skradin."
+          },
+          "stops": [
+            {
+              "name": "Krka Bridge Viewpoint",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto; die Aussicht ist auch durch die Scheibe toll.",
+                "hu": "Nagy esőben maradjon az autóban; a kilátás az ablakon át is remek.",
+                "ro": "Rămâneți în mașină pe ploaie torențială; vederea este excelentă și prin geam.",
+                "en": "Stay in the car during heavy rain; the view is still great through the glass."
+              }
+            },
+            {
+              "name": "Turina Fortress",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Regenpausen für den Aufstieg von den Parkplätzen.",
+                "hu": "Használja ki a rövid esőszüneteket a parkolóból való feljutáshoz.",
+                "ro": "Profitați de scurte pauze de ploaie pentru a urca din parcare.",
+                "en": "Utilize brief lulls in the rain for the quick ascent from the parking area."
+              }
+            },
+            {
+              "name": "Main Square Trg Male Gospe",
+              "tip_5lang": {
+                "de": "Es gibt begrenzte Parkmöglichkeiten direkt am Platz; ideal bei Regen.",
+                "hu": "Közvetlenül a térnél korlátozott parkolás van; esőben ideális.",
+                "ro": "Există parcări limitate chiar lângă piață; ideal pe timp de ploaie.",
+                "en": "Limited parking is available right by the square; ideal for rainy days."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Blessed Virgin Mary",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte vom Parkplatz entfernt, um trocken zu bleiben.",
+                "hu": "Csak pár lépés a parkolótól, így könnyen szárazon maradhat.",
+                "ro": "La doar câțiva pași de parcare, ideal pentru a rămâne uscat.",
+                "en": "Just a few steps from the parking spot, making it easy to stay dry."
+              }
+            },
+            {
+              "name": "Skradin Marina",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam; Fußgänger mit Schirmen sind oft schwer zu sehen.",
+                "hu": "Vezessen lassan; az esernyős gyalogosokat gyakran nehéz észrevenni.",
+                "ro": "Conduceți lent; pietonii cu umbrele sunt adesea greu de observat.",
+                "en": "Drive slowly; pedestrians with umbrellas can be difficult to spot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Schnellstraße zur Krka-Brücke.",
+              "Nutzen Sie die Parkplätze im Zentrum, um die Laufwege im Regen zu minimieren.",
+              "Vermeiden Sie das Parken unter instabilen Bäumen bei starkem Wind.",
+              "Prüfen Sie Ihre Scheibenwischer und das Licht vor der Abfahrt."
+            ],
+            "hu": [
+              "Ügyeljen a vízenfutásra a Krka-hídhoz vezető gyorsforgalmi úton.",
+              "Használja a központi parkolókat az esőben való gyaloglás minimalizálására.",
+              "Erős szélben kerülje a bizonytalan fák alatti parkolást.",
+              "Indulás előtt ellenőrizze az ablaktörlőket és a világítást."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul rapid către Podul Krka.",
+              "Utilizați parcările centrale pentru a minimiza mersul prin ploaie.",
+              "Evitați parcarea sub copaci instabili în caz de vânt puternic.",
+              "Verificați ștergătoarele și luminile înainte de a porni la drum."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the fast road leading to Krka Bridge.",
+              "Use central parking lots to minimize walking distances in the rain.",
+              "Avoid parking under unstable trees during heavy wind gusts.",
+              "Ensure your wipers and headlights are in top condition before driving."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour an der Krka-Brücke. Die klare Sicht erlaubt einen weiten Blick über das winterliche Dalmatien.\n\nMittags steuern Sie die Festung Turina an. Die kühle Brise wird durch die warme Heizung im Auto schnell wieder vergessen, während Sie den Panoramablick genießen.\n\nAm Nachmittag parken Sie am Hauptplatz. Die Altstadt wirkt im Winterlicht fast wie eine Filmkulisse, ruhig und authentisch. Besuchen Sie die Kirche für einen Moment der Stille.\n\nZum Abschluss fahren Sie zur Marina. Das Licht der tiefstehenden Sonne auf dem ruhigen Wasser der Krka ist im Winter besonders malerisch, bevor Sie den Abend gemütlich ausklingen lassen.",
+            "hu": "Kezdje a téli túrát a Krka-hídnál. A tiszta látási viszonyok lehetővé teszik, hogy messzire ellásson a téli Dalmácia felett.\n\nDélben vegye az irányt a Turina-erőd felé. A hűvös szellőt gyorsan elfeledteti az autó fűtése, miközben élvezi a panorámát.\n\nDélután parkoljon le a főtéren. Az óváros a téli fényekben szinte filmdíszletnek tűnik, nyugodt és autentikus. Látogasson el a templomba egy csendes percre.\n\nZárásként guruljon le a kikötőhöz. Az alacsonyan járó nap fénye a Krka nyugodt vizén télen különösen festői, mielőtt egy hangulatos helyen vacsorázna.",
+            "ro": "Începeți turul de iarnă la Podul Krka. Vizibilitatea clară permite o vedere panoramică vastă asupra Dalmației hibernale.\n\nLa prânz conduceți spre Cetatea Turina. Briza răcoroasă este rapid uitată datorită încălzirii din mașină, în timp ce admirați panorama.\n\nDupă-amiaza parcați în piața centrală. Orașul vechi pare un decor de film în lumina iernii, liniștit și autentic. Vizitați biserica pentru un moment de tăcere.\n\nÎn final, mergeți la marină. Lumina soarelui jos pe apa liniștită a râului Krka este deosebit de pitorească iarna, înainte de o seară relaxantă.",
+            "en": "Start your winter drive at the Krka Bridge. The clear visibility allows for far-reaching views over the winter landscape of Dalmatia.\n\nAt noon, head towards Turina Fortress. The chilly breeze is quickly forgotten once back in the warm car, as you enjoy the panoramic views from the heights.\n\nIn the afternoon, park at the main square. The old town in winter light looks like a movie set—quiet and authentic. Visit the church for a peaceful moment.\n\nTo conclude, drive to the marina. The low winter sun reflecting on the calm Krka water is exceptionally picturesque before you settle in for a cozy evening."
+          },
+          "stops": [
+            {
+              "name": "Krka Bridge Viewpoint",
+              "tip_5lang": {
+                "de": "Idealer Fotostopp; die klare Winterluft bietet die beste Sicht.",
+                "hu": "Ideális fotómegálló; a tiszta téli levegő biztosítja a legjobb kilátást.",
+                "ro": "Oprire ideală pentru fotografii; aerul clar oferă cea mai bună vizibilitate.",
+                "en": "Ideal photo stop; the clear winter air offers the best long-distance views."
+              }
+            },
+            {
+              "name": "Turina Fortress",
+              "tip_5lang": {
+                "de": "Heizen Sie das Auto vor, bevor Sie zum kurzen Spaziergang aufbrechen.",
+                "hu": "Fűtse fel az autót, mielőtt elindulna a rövid sétára.",
+                "ro": "Încălziți mașina înainte de a porni la scurta plimbare pe jos.",
+                "en": "Warm up the car before heading out for the short walk to the ruins."
+              }
+            },
+            {
+              "name": "Main Square Trg Male Gospe",
+              "tip_5lang": {
+                "de": "Parken ist im Winter oft kostenlos oder deutlich günstiger.",
+                "hu": "Télen a parkolás gyakran ingyenes vagy lényegesen olcsóbb.",
+                "ro": "Parcarea este adesea gratuită sau mult mai ieftină iarna.",
+                "en": "Parking is often free or significantly cheaper during the winter months."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Blessed Virgin Mary",
+              "tip_5lang": {
+                "de": "Ein ruhiger Rückzugsort, wenn es draußen zu windig wird.",
+                "hu": "Csendes menedék, ha kint túl szélre fordulna az idő.",
+                "ro": "Un refugiu liniștit dacă afară devine prea vântos.",
+                "en": "A peaceful retreat if it gets too windy or cold outside."
+              }
+            },
+            {
+              "name": "Skradin Marina",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang direkt aus dem Auto am Wasser.",
+                "hu": "Élvezze a naplementét közvetlenül az autóból a vízparton.",
+                "ro": "Bucurați-vă de apus direct din mașină, lângă malul apei.",
+                "en": "Enjoy the winter sunset directly from your car by the waterfront."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Vermeiden Sie das Parken auf schattigen Flächen, da dort Eisglätte droht.",
+              "Führen Sie eine Decke im Auto mit, falls Sie längere Pausen machen.",
+              "Tanken Sie voll; im Winter verbraucht das Auto durch Heizung mehr."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Kerülje az árnyékos helyeken való parkolást a jegesedés veszélye miatt.",
+              "Tartson egy takarót az autóban a hosszabb pihenők esetére.",
+              "Tankoljon tele; télen a fűtés miatt az autó többet fogyaszthat."
+            ],
+            "ro": [
+              "Verificați antigelul în lichidul de spălare a parbrizului.",
+              "Evitați parcarea în zone umbrite unde poate persista gheața.",
+              "Țineți o pătură în mașină în caz că faceți pauze mai lungi.",
+              "Faceți plinul; iarna consumul poate crește din cauza încălzirii."
+            ],
+            "en": [
+              "Check the antifreeze level in your windshield washer fluid.",
+              "Avoid parking in shaded areas where black ice may persist on the ground.",
+              "Keep a warm blanket in the car for longer breaks or emergencies.",
+              "Keep your tank full; cars consume more fuel in winter due to heating."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -985,6 +1997,329 @@
           "Buses to Šibenik run regularly.",
           "Tickets include the boat ride."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das offizielle Krka-Boot als Ihr Hauptverkehrsmittel. Die Fahrt von der Marina zum Skradinski Buk bietet eine herrliche Flusslandschaft. Nach dem Besuch der Wasserfälle erkunden Sie den historischen Stadtkern von Skradin, der gut an das regionale Busnetz angebunden ist.",
+            "hu": "Használja a hivatalos Krka-hajót fő közlekedési eszközként. A kikötőtől a Skradinski Bukig tartó út lenyűgöző folyami tájat kínál. A vízesések megtekintése után fedezze fel Skradin történelmi magját, amely jól kapcsolódik a regionális buszhálózathoz.",
+            "ro": "Folosiți barca oficială Krka ca principal mijloc de transport. Călătoria de la marină la Skradinski Buk oferă un peisaj fluvial magnific. După vizitarea cascadelor, explorați centrul istoric al orașului Skradin, care este bine conectat la rețeaua regională de autobuze.",
+            "en": "Use the official Krka boat as your main mode of transport. The ride from the marina to Skradinski Buk offers a magnificent river landscape. After visiting the waterfalls, explore the historical core of Skradin, which is well connected to the regional bus network."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Skradin Marina",
+                "hu": "Skradini kikötő",
+                "ro": "Marina Skradin",
+                "en": "Skradin Marina"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Skradinski Buk Wasserfall",
+                "hu": "Skradinski Buk vízesés",
+                "ro": "Cascada Skradinski Buk",
+                "en": "Skradinski Buk Waterfall"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Nationalpark Krka Eingang",
+                "hu": "Krka Nemzeti Park bejárat",
+                "ro": "Intrarea în Parcul Național Krka",
+                "en": "Krka National Park Entrance"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Hauptplatz Trg Male Gospe",
+                "hu": "Trg Male Gospe főtér",
+                "ro": "Piața Trg Male Gospe",
+                "en": "Main Square Trg Male Gospe"
+              },
+              "tip_5lang": null
+            },
+            {
+              "name": {
+                "de": "Museum Scardona Park",
+                "hu": "Scardona Park Múzeum",
+                "ro": "Muzeul Scardona Park",
+                "en": "Museum Scardona Park"
+              },
+              "tip_5lang": null
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Buffet Skradin",
+                "tip": "Schnelle lokale Gerichte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Buffet Skradin",
+                "tip": "Gyors helyi ételek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Buffet Skradin",
+                "tip": "Mâncăruri locale rapide."
+              }
+            ],
+            "en": [
+              {
+                "name": "Buffet Skradin",
+                "tip": "Quick local dishes."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Bootsoberdeck",
+                "tip": "Genießen Sie den Wind auf dem Fluss.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Hajó felső fedélzete",
+                "tip": "Élvezze a szelet a folyón.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Puntea superioară a bărcii",
+                "tip": "Bucurați-vă de vânt pe râu.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Boat upper deck",
+                "tip": "Enjoy the wind on the river.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "NP Souvenirshop",
+                "tip": "Offizielle Nationalpark-Andenken."
+              }
+            ],
+            "hu": [
+              {
+                "name": "NP ajándékbolt",
+                "tip": "Hivatalos nemzeti parki emléktárgyak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "NP Souvenir Shop",
+                "tip": "Suveniruri oficiale ale parcului național."
+              }
+            ],
+            "en": [
+              {
+                "name": "NP Souvenir Shop",
+                "tip": "Official National Park souvenirs."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie den Bootsfahrplan genau.",
+              "Busse nach Šibenik fahren regelmäßig.",
+              "Tickets enthalten die Bootsfahrt."
+            ],
+            "hu": [
+              "Ellenőrizze pontosan a hajó menetrendjét.",
+              "Sibenikbe rendszeresen járnak buszok.",
+              "A jegyek tartalmazzák a hajóutat."
+            ],
+            "ro": [
+              "Verificați cu atenție orarul bărcii.",
+              "Autobuzele către Šibenik circulă regulat.",
+              "Biletele includ plimbarea cu barca."
+            ],
+            "en": [
+              "Check the boat schedule carefully.",
+              "Buses to Šibenik run regularly.",
+              "Tickets include the boat ride."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag an der Marina, wo Sie auf das Boot zum Nationalpark warten. Die überdachten Boote sind ein trockener Weg, um die Wasserfälle zu erreichen.\n\nMittags verbringen Sie Zeit am Skradinski Buk. Der Regen lässt die Wasserfälle mächtig anschwellen – ein beeindruckendes Naturschauspiel, das Sie von den Aussichtspunkten genießen.\n\nNachmittags kehren Sie zum Parkeingang zurück und nehmen den Transit zum Hauptplatz. Dort finden Sie Schutz in den Gassen der Altstadt.\n\nZum Abschluss besuchen Sie das Museum Scardona Park. Es ist der perfekte Ort, um den Tag im Trockenen zu beenden, bevor Sie den Bus zurück nehmen.",
+            "hu": "Kezdje a napot a kikötőben, várva a nemzeti parki hajót. A fedett hajók száraz utat biztosítanak a vízesések eléréséhez.\n\nDélben töltse idejét a Skradinski Buknál. Az eső felerősíti a vízesések erejét – lenyűgöző látvány, amit a kilátópontokról csodálhat meg.\n\nDélután térjen vissza a park bejáratához, és menjen át a főtérre. Ott az óváros szűk utcái nyújtanak némi védelmet.\n\nZárásként látogasson el a Scardona Park Múzeumba. Ez a tökéletes hely a nap szárazon való befejezéséhez a buszindulás előtt.",
+            "ro": "Începeți ziua la marină, așteptând barca spre parcul național. Bărcile acoperite sunt o modalitate uscată de a ajunge la cascade.\n\nLa prânz, petreceți timp la Skradinski Buk. Ploaia face cascadele să pară și mai puternice – un spectacol natural impresionant văzut de la belvedere.\n\nDupă-amiaza reveniți la intrarea în parc și luați transportul spre piața centrală. Acolo veți găsi adăpost pe străduțele orașului vechi.\n\nÎn final, vizitați Muzeul Scardona Park. Este locul perfect pentru a încheia ziua la adăpost înainte de a lua autobuzul înapoi.",
+            "en": "Start your day at the marina, waiting for the boat to the National Park. The covered boats provide a dry way to reach the waterfalls despite the weather.\n\nAt noon, spend time at Skradinski Buk. The rain makes the waterfalls swell with power—an impressive natural spectacle enjoyed from the viewpoints.\n\nIn the afternoon, return to the park entrance and take transit to the main square. You will find some shelter in the narrow alleys of the old town.\n\nFinally, visit the Scardona Park Museum. It's the perfect place to end the day indoors before catching your bus back."
+          },
+          "stops": [
+            {
+              "name": "Skradin Marina",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Bereich des Fährterminals.",
+                "hu": "Várjon a kompkikötő fedett részén.",
+                "ro": "Așteptați în zona acoperită a terminalului de feribot.",
+                "en": "Wait in the sheltered area of the ferry terminal to stay dry."
+              }
+            },
+            {
+              "name": "Skradinski Buk Waterfall",
+              "tip_5lang": {
+                "de": "Die Holzstege können sehr rutschig sein; gehen Sie langsam.",
+                "hu": "A fapallók nagyon csúszósak lehetnek; járjon lassan.",
+                "ro": "Podețele de lemn pot fi foarte alunecoase; mergeți încet.",
+                "en": "The wooden boardwalks can be very slippery; walk slowly and carefully."
+              }
+            },
+            {
+              "name": "Krka National Park Entrance",
+              "tip_5lang": {
+                "de": "Das Besucherzentrum bietet Schutz und Informationen bei Regen.",
+                "hu": "A látogatóközpont menedéket és információkat nyújt esőben.",
+                "ro": "Centrul de vizitatori oferă adăpost și informații pe timp de ploaie.",
+                "en": "The visitor center provides shelter and useful info during rain."
+              }
+            },
+            {
+              "name": "Main Square Trg Male Gospe",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet nur begrenzten Schutz; Schirm bereit halten.",
+                "hu": "A buszmegálló csak korlátozott védelmet ad; tartsa készen az ernyőt.",
+                "ro": "Stația de autobuz oferă protecție limitată; țineți umbrela la îndemână.",
+                "en": "The bus stop offers limited shelter; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Museum Scardona Park",
+              "tip_5lang": {
+                "de": "Ideal, um die Zeit bis zur nächsten Busabfahrt trocken zu überbrücken.",
+                "hu": "Ideális a következő buszig hátralévő idő szárazon való eltöltésére.",
+                "ro": "Ideal pentru a petrece timpul la adăpost până la următorul autobuz.",
+                "en": "Ideal for spending time dry while waiting for the next bus departure."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bedenken Sie, dass Busse bei starkem Regen Verspätung haben können.",
+              "Die Boote zum Wasserfall sind überdacht und die beste Option bei Regen.",
+              "Halten Sie Ihre Fahrkarte in einer wasserfesten Hülle bereit.",
+              "Nutzen Sie die App des Verkehrsverbunds für Echtzeit-Infos bei Wetterkapriolen."
+            ],
+            "hu": [
+              "Számoljon azzal, hogy nagy esőben a buszok késhetnek.",
+              "A vízeséshez menő hajók fedettek, így esőben ez a legjobb választás.",
+              "Tartsa a menetjegyét vízhatlan tokban.",
+              "Használja a közlekedési alkalmazást a valós idejű információkért rossz időben."
+            ],
+            "ro": [
+              "Luați în calcul posibilele întârzieri ale autobuzelor pe ploaie torențială.",
+              "Bărcile către cascadă sunt acoperite și reprezintă cea mai bună opțiune.",
+              "Păstrați biletul de călătorie într-o husă impermeabilă.",
+              "Utilizați aplicația de transport pentru info în timp real pe vreme rea."
+            ],
+            "en": [
+              "Be prepared for potential bus delays during heavy rain showers.",
+              "Boats to the waterfall are covered and are the best option in the rain.",
+              "Keep your transit tickets in a waterproof sleeve or digital wallet.",
+              "Check the local transit app for real-time updates during bad weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintertag an der Marina. Die Ruhe am Morgen ist herrlich, während Sie auf den reduzierten Transit zum Park warten.\n\nMittags erkunden Sie den Skradinski Buk. Die kühle Luft macht den Spaziergang an den Wasserfällen erfrischend, und Sie haben die Aussichtspunkte fast für sich allein.\n\nNachmittags kehren Sie zum Parkeingang zurück und fahren zum Hauptplatz. Die warme Atmosphäre in der Altstadt lädt zu einem kurzen Verweilen ein.\n\nZum Abschluss besuchen Sie das Museum Scardona Park. Die geheizten Räume sind ideal, um sich aufzuwärmen, bevor der letzte Transit des Tages Sie zurückbringt.",
+            "hu": "Kezdje a téli napot a kikötőben. A reggeli nyugalom csodálatos, miközben a parkba tartó ritkább járatokra vár.\n\nDélben fedezze fel a Skradinski Bukot. A hűvös levegő frissítővé teszi a vízeséseknél tett sétát, és a kilátópontokat szinte egyedül élvezheti.\n\nDélután térjen vissza a park bejáratához, majd utazzon a főtérre. Az óváros barátságos hangulata rövid pihenőre csábít.\n\nZárásként látogasson el a Scardona Park Múzeumba. A fűtött termek ideálisak a felmelegedéshez a nap utolsó járata előtt.",
+            "ro": "Începeți ziua de iarnă la marină. Liniștea dimineții este minunată în timp ce așteptați transportul redus către parc.\n\nLa prânz explorați Skradinski Buk. Aerul rece face plimbarea la cascade revigorantă și aveți punctele de belvedere aproape doar pentru dumneavoastră.\n\nDupă-amiaza reveniți la intrare și mergeți în piața centrală. Atmosfera caldă din orașul vechi vă invită la o scurtă oprire.\n\nÎn final, vizitați Muzeul Scardona Park. Sălile încălzite sunt ideale pentru a vă încălzi înainte de ultimul transport al zilei.",
+            "en": "Start your winter day at the marina. The morning silence is wonderful as you wait for the reduced winter transit to the park.\n\nAt noon, explore Skradinski Buk. The cool air makes the walk by the waterfalls refreshing, and you'll have the viewpoints almost entirely to yourself.\n\nIn the afternoon, return to the park entrance and head to the main square. The warm atmosphere of the old town invites you for a short break.\n\nFinally, visit the Scardona Park Museum. The heated rooms are ideal for warming up before the day's last transit departure."
+          },
+          "stops": [
+            {
+              "name": "Skradin Marina",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan vorab; es gibt weniger Verbindungen.",
+                "hu": "Előre ellenőrizze a téli menetrendet; kevesebb a járat.",
+                "ro": "Verificați orarul de iarnă în avans; sunt mai puține conexiuni.",
+                "en": "Check the winter timetable in advance; services are less frequent."
+              }
+            },
+            {
+              "name": "Skradinski Buk Waterfall",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Kleidung; am Wasser ist es im Winter deutlich kühler.",
+                "hu": "Viseljen meleg ruhát; a víz mellett télen sokkal hűvösebb van.",
+                "ro": "Purtați haine groase; lângă apă este mult mai rece iarna.",
+                "en": "Dress warmly; it is significantly cooler near the water in winter."
+              }
+            },
+            {
+              "name": "Krka National Park Entrance",
+              "tip_5lang": {
+                "de": "Im Winter wird oft ein Bus statt des Bootes zum Wasserfall eingesetzt.",
+                "hu": "Télen gyakran buszt indítanak a hajó helyett a vízeséshez.",
+                "ro": "Iarna, adesea se folosește un autobuz în locul bărcii spre cascadă.",
+                "en": "A shuttle bus often replaces the boat to the waterfall in winter."
+              }
+            },
+            {
+              "name": "Main Square Trg Male Gospe",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Zeit bis zum nächsten Bus in einem Café zu warten.",
+                "hu": "Jó hely egy kávézóban megvárni a következő buszt.",
+                "ro": "Un loc bun pentru a aștepta următorul autobuz într-o cafenea.",
+                "en": "A great spot to wait for your bus while enjoying a coffee in a cafe."
+              }
+            },
+            {
+              "name": "Museum Scardona Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme des Museums vor der Rückreise.",
+                "hu": "Használja ki a múzeum melegét a hazautazás előtt.",
+                "ro": "Profitați de căldura muzeului înainte de călătoria de întoarcere.",
+                "en": "Take advantage of the museum's warmth before your return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Boote fahren im Winter seltener; oft gibt es Ersatzbusse.",
+              "Stellen Sie sicher, dass Sie den letzten Bus des Tages nicht verpassen.",
+              "Tragen Sie rutschfeste Schuhe für den Umstieg an der Marina.",
+              "Kaufen Sie Tickets online, um Wartezeiten in der Kälte zu vermeiden."
+            ],
+            "hu": [
+              "A hajók télen ritkábban járnak; gyakran pótlóbuszokat indítanak.",
+              "Ügyeljen rá, hogy ne késse le a nap utolsó buszjáratát.",
+              "Viseljen csúszásmentes cipőt a kikötői átszálláshoz.",
+              "Vásárolja meg jegyét online, hogy elkerülje a hidegben való várakozást."
+            ],
+            "ro": [
+              "Bărcile circulă mai rar iarna; adesea există autobuze de înlocuire.",
+              "Asigurați-vă că nu pierdeți ultimul autobuz al zilei.",
+              "Purtați încălțăminte antiderapantă pentru transferul la marină.",
+              "Cumpărați biletele online pentru a evita așteptarea în frig."
+            ],
+            "en": [
+              "Boats operate less frequently in winter; shuttle buses often replace them.",
+              "Make sure you don't miss the last bus departure of the day.",
+              "Wear non-slip shoes for the transfer area at the marina.",
+              "Buy tickets online to avoid standing in line in the cold winter air."
+            ]
+          }
+        }
       }
     }
   },

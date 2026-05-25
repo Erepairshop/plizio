@@ -288,6 +288,427 @@
           "Tvrdalj is often closed during lunch hours.",
           "Wear comfortable shoes for the cobblestones."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen am intimen Škor-Platz und besuchen Sie dann das Tvrdalj-Kastell, die befestigte Residenz des Dichters Petar Hektorović. Mittags erkunden Sie das Stari Grad Museum und das nahe gelegene Dominikanerkloster, bevor Sie die barocke St.-Stephans-Kirche besichtigen. Verbringen Sie den Nachmittag mit einem Spaziergang durch die Ebene von Stari Grad, eine UNESCO-Stätte mit antiken Parzellierungen, die seit über zwei Jahrtausenden intakt sind. Den Abschluss bildet ein ruhiger Abend in den engen Gassen der Stadt.",
+            "hu": "Kezdje a reggelt a meghitt Škor téren, majd látogasson el a Tvrdalj-kastélyba, Petar Hektorović költő erődített lakóhelyére. Délben fedezze fel a Stari Grad Múzeumot és a közeli Dominikaner kolostort, majd tekintse meg a barokk Szent István-templomot. Töltse a délutánt sétával a Stari Grad-síkságon, amely UNESCO-helyszín ókori parcellákkal. Zárja a napot egy csendes estével a város szűk utcáin.",
+            "ro": "Începeți dimineața în piața intimă Škor, apoi vizitați castelul Tvrdalj, reședința fortificată a poetului Petar Hektorović. La prânz, explorați Muzeul Stari Grad și mănăstirea dominicană din apropiere, înainte de a vizita biserica barocă Sf. Ștefan. Petreceți după-amiaza cu o plimbare prin Câmpia Stari Grad, un sit UNESCO cu parcelări antice care au rămas intacte de peste două milenii. Încheiați cu o seară liniștită pe străzile înguste ale orașului.",
+            "en": "Start your morning at the intimate Škor Square, then visit the Tvrdalj Castle, the fortified residence of poet Petar Hektorović. Midday is perfect for exploring the Stari Grad Museum and the nearby Dominican Monastery before visiting the Baroque St. Stephen\"s Church. Spend the afternoon walking through the Stari Grad Plain, a UNESCO site with ancient land divisions that have remained intact for over two millennia. End with a quiet evening in the town\"s narrow streets."
+          },
+          "stops": [
+            {
+              "name": "Škor Platz",
+              "tip_5lang": {
+                "de": "Ein barockes Juwel, das einst eine Schiffswerft war.",
+                "hu": "Barokk gyöngyszem, amely egykor hajójavító műhely volt.",
+                "ro": "O bijuterie barocă, care a fost odată șantier naval.",
+                "en": "A baroque jewel that was once a shipyard."
+              }
+            },
+            {
+              "name": "Tvrdalj Kastell",
+              "tip_5lang": {
+                "de": "Das befestigte Haus des Dichters Petar Hektorović mit Fischteich.",
+                "hu": "Petar Hektorović költő erődített háza halastóval.",
+                "ro": "Casa fortificată a poetului Petar Hektorović, cu un iaz cu pești.",
+                "en": "The fortified house of poet Petar Hektorović with a fish pond."
+              }
+            },
+            {
+              "name": "Museum von Stari Grad",
+              "tip_5lang": {
+                "de": "Entdecken Sie die antike griechische Geschichte von Faros.",
+                "hu": "Fedezze fel Faros ókori görög történelmét.",
+                "ro": "Descoperiți istoria antică greacă a localității Faros.",
+                "en": "Discover the ancient Greek history of Pharos."
+              }
+            },
+            {
+              "name": "Dominikanerkloster",
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Tintoretto-Gemälde in der Klosterkirche.",
+                "hu": "Tekintse meg a Tintoretto-festményt a kolostortemplomban.",
+                "ro": "Vizitați pictura lui Tintoretto din biserica mănăstirii.",
+                "en": "View the Tintoretto painting in the monastery church."
+              }
+            },
+            {
+              "name": "Kirche des hl. Stephan",
+              "tip_5lang": {
+                "de": "Die ehemalige Kathedrale steht auf dem Hauptplatz der Stadt.",
+                "hu": "Az egykori székesegyház a város főterén áll.",
+                "ro": "Fosta catedrală se află în piața principală a orașului.",
+                "en": "The former cathedral stands on the town\"s main square."
+              }
+            },
+            {
+              "name": "Kirche des hl. Rochus",
+              "tip_5lang": {
+                "de": "Kleine Votivkirche, erbaut zum Schutz vor der Pest.",
+                "hu": "Kicsi fogadalmi templom, amelyet a pestis elleni védelemért emeltek.",
+                "ro": "Mică biserică votivă, construită pentru protecție împotriva ciumei.",
+                "en": "Small votive church built for protection against the plague."
+              }
+            },
+            {
+              "name": "Ebene von Stari Grad",
+              "tip_5lang": {
+                "de": "UNESCO-Weltkulturerbe mit antiken griechischen Parzellierungen.",
+                "hu": "UNESCO Világörökség ókori görög parcellázásokkal.",
+                "ro": "Patrimoniu UNESCO cu parcelări grecești antice.",
+                "en": "UNESCO World Heritage site with ancient Greek land divisions."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Starogrojski paprenjok",
+                "tip": "Traditioneller Honigpfefferkuchen."
+              },
+              {
+                "name": "Konoba Antika",
+                "tip": "Probieren Sie lokale Spezialitäten in einem rustikalen Ambiente."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Starogrojski paprenjok",
+                "tip": "Hagyományos mézes-borsos sütemény."
+              },
+              {
+                "name": "Konoba Antika",
+                "tip": "Kóstolja meg a helyi specialitásokat rusztikus környezetben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Starogrojski paprenjok",
+                "tip": "Turtă dulce tradițională cu miere și piper."
+              },
+              {
+                "name": "Konoba Antika",
+                "tip": "Gustați specialități locale într-un ambient rustic."
+              }
+            ],
+            "en": [
+              {
+                "name": "Starogrojski paprenjok",
+                "tip": "Traditional honey and pepper cookie."
+              },
+              {
+                "name": "Konoba Antika",
+                "tip": "Try local specialties in a rustic setting."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Klostergarten",
+                "tip": "Ein Ort der absoluten Ruhe.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Ebene von Stari Grad",
+                "tip": "Lange Spaziergänge zwischen Olivenhainen.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kolostorkert",
+                "tip": "A tökéletes nyugalom helyszíne.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Stari Grad-síkság",
+                "tip": "Hosszú séták az olajfaligetek között.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina mănăstirii",
+                "tip": "Un loc de liniște absolută.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Câmpia Stari Grad",
+                "tip": "Plimbări lungi printre livezile de măslini.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Monastery garden",
+                "tip": "A place of absolute tranquility.",
+                "emoji": "🧘"
+              },
+              {
+                "name": "Stari Grad Plain",
+                "tip": "Long walks between olive groves.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lavendel-Souvenirs",
+                "tip": "Duftsäckchen und Öl von lokalen Feldern."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Levendula szuvenírek",
+                "tip": "Illatzsákok és olaj a helyi mezőkről."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Suveniruri cu lavandă",
+                "tip": "Săculeți parfumați și ulei de la fermierii locali."
+              }
+            ],
+            "en": [
+              {
+                "name": "Lavender souvenirs",
+                "tip": "Scent bags and oil from local fields."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Gassen im alten Kern sind sehr eng, achten Sie auf Schilder.",
+              "Tvrdalj ist über die Mittagszeit oft geschlossen.",
+              "Bequeme Schuhe für das Kopfsteinpflaster tragen."
+            ],
+            "hu": [
+              "Az óváros utcái nagyon szűkek, figyelje a táblákat.",
+              "A Tvrdalj ebédidőben gyakran zárva tart.",
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz."
+            ],
+            "ro": [
+              "Străzile din centrul vechi sunt foarte înguste, fiți atenți la indicatoare.",
+              "Tvrdalj este adesea închis în timpul prânzului.",
+              "Purtați încălțăminte confortabilă pentru pavajul de piatră."
+            ],
+            "en": [
+              "The alleys in the old core are very narrow, watch for signs.",
+              "Tvrdalj is often closed during lunch hours.",
+              "Wear comfortable shoes for the cobblestones."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens suchen Sie Schutz unter den Markisen der Cafés am Škor-Platz. Der Regen verleiht dem Kalkstein einen glänzenden Schimmer.\n\nMittags bieten das Tvrdalj Kastell und das Stadtmuseum trockene Zufluchtsorte mit faszinierenden Einblicken in die Geschichte.\n\nNachmittags erkunden Sie die Kirchen der Altstadt, deren dicke Mauern den prasselnden Regen draußen vergessen lassen.\n\nAbends genießen Sie lokale Spezialitäten in einer gemütlichen Konoba am Hafen, während der Regen auf das Meer fällt.",
+            "hu": "Reggel a Škor tér kávézóinak védelme alatt kezdünk, figyelve, ahogy az eső elmossa a kövek porát. \n\nDélben a Tvrdalj Kastély árkádjai és a Városi Múzeum belső terei nyújtanak tökéletes menedéket a záporok elől.\n\nDélután a Szent István és Szent Rókus templomok csendjében fedezzük fel a város szakrális kincseit.\n\nEste egy kikötő menti étterem melegében pihenünk meg, hallgatva az eső kopogását a régi tetőkön.",
+            "ro": "Dimineața începe sub copertinele cafenelelor din Piața Škor, admirând cum ploaia curăță străzile vechi de piatră.\n\nLa prânz, Castelul Tvrdalj și Muzeul din Stari Grad oferă adăpost perfect și o incursiune în istoria locală.\n\nDupă-amiaza este dedicată vizitării bisericilor din oraș, unde interiorul liniștit contrastează cu vremea de afară.\n\nSeara se încheie într-o tavernă primitoare de lângă port, savurând un vin local în timp ce plouă liniștit.",
+            "en": "Morning starts under the awnings of Škor square cafes, watching the rain refresh the ancient stone pavements.\n\nMidday, the Tvrdalj Castle and the Stari Grad Museum provide dry havens filled with historical wonders.\n\nAfternoon is ideal for exploring the town's churches, where thick walls keep the rain and wind at bay.\n\nEvening concludes with a warm meal in a cozy konoba near the harbor, as the rain dances on the Adriatic surface."
+          },
+          "stops": [
+            {
+              "name": "Škor Platz",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café mit großer Markise, um trocken zu bleiben.",
+                "hu": "Válassz egy nagy előtetővel rendelkező kávézót a téren.",
+                "ro": "Alege o cafenea cu o copertină mare pentru a rămâne uscat.",
+                "en": "Choose a cafe with a large awning to stay dry while people-watching."
+              }
+            },
+            {
+              "name": "Tvrdalj Kastell",
+              "tip_5lang": {
+                "de": "Die Arkaden bieten guten Schutz; achten Sie auf glatte Steine im Hof.",
+                "hu": "Az árkádok jó védelmet nyújtanak; vigyázz a csúszós kövekre az udvaron.",
+                "ro": "Arcadele oferă adăpost bun; atenție la pietrele alunecoase din curte.",
+                "en": "The arcades offer good shelter; watch out for slippery stones in the courtyard."
+              }
+            },
+            {
+              "name": "Museum von Stari Grad",
+              "tip_5lang": {
+                "de": "Idealer Ort, um einen starken Regenschauer drinnen abzuwarten.",
+                "hu": "Tökéletes helyszín egy nagyobb zápor átvészelésére a beltérben.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei ploi torențiale în interior.",
+                "en": "Perfect spot to wait out a heavy rain shower indoors."
+              }
+            },
+            {
+              "name": "Dominikanerkloster",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum im Inneren, um trocken zu bleiben.",
+                "hu": "Látogasd meg a belső múzeumot, hogy szárazon maradj.",
+                "ro": "Vizitează muzeul din interior pentru a rămâne la adăpost.",
+                "en": "Visit the interior museum to stay dry and see the Tintoretto painting."
+              }
+            },
+            {
+              "name": "Kirche des hl. Stephan",
+              "tip_5lang": {
+                "de": "Der Vorplatz kann bei Regen sehr rutschig sein; vorsichtig gehen.",
+                "hu": "A templom előtti tér esőben nagyon csúszós lehet; óvatosan járj.",
+                "ro": "Piața din fața bisericii poate fi foarte alunecoasă pe ploaie.",
+                "en": "The square in front of the church can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Kirche des hl. Rochus",
+              "tip_5lang": {
+                "de": "Kleiner, überdachter Eingang bietet kurzen Schutz vor Nieselregen.",
+                "hu": "A kis fedett bejárat rövid védelmet nyújt a szitáló eső ellen.",
+                "ro": "Intrarea mică și acoperită oferă un scurt adăpost împotriva burniței.",
+                "en": "The small covered entrance offers brief protection from drizzle."
+              }
+            },
+            {
+              "name": "Ebene von Stari Grad",
+              "tip_5lang": {
+                "de": "Vermeiden Sie unbefestigte Wege; bei Regen wird die Erde sehr schlammig.",
+                "hu": "Kerüld a földutakat; esőben a talaj rendkívül sárossá válik.",
+                "ro": "Evită drumurile neasfaltate; pământul devine foarte noroios la ploaie.",
+                "en": "Avoid unpaved paths; the red soil becomes very muddy during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil; der Kalkstein der Altstadt wird extrem glatt.",
+              "Nutzen Sie die Regenpausen für Fotos, wenn die Farben der Steine besonders intensiv sind.",
+              "Das Stadtmuseum ist der beste Ort für eine längere Regenpause.",
+              "Achten Sie auf Wasseransammlungen in den tiefer gelegenen Gassen der Altstadt.",
+              "Ein Taschenschirm ist in den engen Gassen praktischer als ein großer Stockschirm."
+            ],
+            "hu": [
+              "Viselj jó tapadású cipőt; az óváros mészkő burkolata rendkívül csúszós lesz.",
+              "Használd ki az esőszüneteket fotózásra, amikor a kövek színe a legélénkebb.",
+              "A Városi Múzeum a legjobb hely egy hosszabb eső pihenőhöz.",
+              "Vigyázz a tócsákra az óváros alacsonyabban fekvő szűk utcáiban.",
+              "A szűk utcákban egy összecsukható esernyő praktikusabb, mint a boternyő."
+            ],
+            "ro": [
+              "Poartă încălțăminte cu aderență bună; piatra de calcar devine extrem de alunecoasă.",
+              "Profită de pauzele de ploaie pentru fotografii, când culorile pietrei sunt intense.",
+              "Muzeul orașului este cel mai bun loc pentru o pauză lungă în caz de ploaie.",
+              "Atenție la acumulările de apă pe străzile înguste și joase ale centrului vechi.",
+              "O umbrelă pliabilă este mai practică pe străzile înguste decât una mare."
+            ],
+            "en": [
+              "Wear shoes with good grip; the old town limestone becomes extremely slippery.",
+              "Use rain breaks for photography when the stone colors are most vibrant.",
+              "The Town Museum is the best place for a longer rain-induced break.",
+              "Watch out for deep puddles in the lower-lying narrow alleys of the old town.",
+              "A compact umbrella is more practical in narrow streets than a large walking umbrella."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht oft eine frische Bora-Brise über den Škor-Platz. Die klare Winterluft macht die Farben der Adria besonders blau.\n\nMittags wärmt die tiefstehende Sonne die Mauern des Tvrdalj Kastells, während das Museum eine angenehme Ruhe ausstrahlt.\n\nNachmittags wandern Sie durch die antike Ebene, wo die kahlen Weinstöcke eine melancholische Schönheit besitzen.\n\nAbends kehrt früh Stille in die Gassen ein. Die Lichter des Hafens spiegeln sich im kalten, ruhigen Wasser wider.",
+            "hu": "Reggel friss bóra szél fújhat át a Škor téren, tisztára mosva az eget és a kilátást a tengerre.\n\nDélben a laposan járó nap melengeti a Tvrdalj Kastély falait, a Múzeumban pedig tömeg nélkül böngészhetünk.\n\nDélután az ősi mezőn sétálva csodáljuk meg a téli pihenőt tartó szőlőtőkéket és olajfákat.\n\nEste korán leszáll a csend a városra, a kikötő fényei megcsillannak a hideg, tükörsima vízen.",
+            "ro": "Dimineața, briza rece a vântului Bura traversează Piața Škor, oferind o vizibilitate excepțională asupra mării.\n\nLa prânz, soarele blând de iarnă încălzește zidurile Castelului Tvrdalj, iar muzeul este o oază de liniște.\n\nDupă-amiaza, o plimbare prin câmpia antică dezvăluie frumusețea austeră a viilor în repaus vegetativ.\n\nSeara, liniștea se așterne rapid peste străduțe, iar luminile portului se oglindesc în apa rece și calmă.",
+            "en": "Morning often brings a crisp Bora breeze to Škor square, making the Adriatic colors exceptionally vivid.\n\nMidday, the low winter sun warms the ancient walls of Tvrdalj Castle, while the museum offers a peaceful retreat.\n\nAfternoon is perfect for a walk through the Plain, where dormant vineyards showcase a quiet, rustic beauty.\n\nEvening settles in early; the harbor lights reflect on the cold, still water as the town enjoys its off-season calm."
+          },
+          "stops": [
+            {
+              "name": "Škor Platz",
+              "tip_5lang": {
+                "de": "Genießen Sie einen Kaffee in der Sonne; im Schatten kann es kühl sein.",
+                "hu": "Igyál meg egy kávét a napon; az árnyékban ilyenkor már hűvös van.",
+                "ro": "Savurează o cafea la soare; la umbră poate fi destul de răcoare.",
+                "en": "Enjoy a coffee in the sun; it can be quite chilly in the shadows."
+              }
+            },
+            {
+              "name": "Tvrdalj Kastell",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten; oft nur vormittags geöffnet.",
+                "hu": "Ellenőrizd a téli nyitvatartást; gyakran csak délelőtt látogatható.",
+                "ro": "Verifică programul de iarnă; adesea este deschis doar dimineața.",
+                "en": "Check winter opening hours; often only open in the mornings during off-season."
+              }
+            },
+            {
+              "name": "Museum von Stari Grad",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Kellemes, meleg hely, ahol felmelegedhetsz a városi séták között.",
+                "ro": "Un loc călduros unde te poți încălzi între plimbările prin oraș.",
+                "en": "A warm indoor spot to take a break from the winter breeze."
+              }
+            },
+            {
+              "name": "Dominikanerkloster",
+              "tip_5lang": {
+                "de": "Die Gärten sind im Winter kahl, aber die Klosterruhe ist noch intensiver.",
+                "hu": "A kertek télen kopárak, de a kolostori csend ilyenkor a legmélyebb.",
+                "ro": "Grădinile sunt golașe iarna, dar liniștea mănăstirii este și mai intensă.",
+                "en": "The gardens are dormant in winter, but the monastic silence is profound."
+              }
+            },
+            {
+              "name": "Kirche des hl. Stephan",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Gottesdienste, um das lokale Leben im Winter zu sehen.",
+                "hu": "Látogass el egy misére, hogy beleláss a helyiek téli életébe.",
+                "ro": "Participă la o slujbă pentru a vedea viața locală autentică de iarnă.",
+                "en": "Attend a service to witness authentic local life during the winter months."
+              }
+            },
+            {
+              "name": "Kirche des hl. Rochus",
+              "tip_5lang": {
+                "de": "Oft geschlossen im Winter; bewundern Sie die Fassade im Winterlicht.",
+                "hu": "Télen gyakran zárva; csodáld meg a homlokzatot a tiszta téli fényben.",
+                "ro": "Adesea închisă iarna; admiră fațada în lumina clară a sezonului.",
+                "en": "Often closed in winter; admire the facade in the sharp winter light."
+              }
+            },
+            {
+              "name": "Ebene von Stari Grad",
+              "tip_5lang": {
+                "de": "Ideale Zeit für Wanderungen ohne Hitze; warme Kleidung gegen Wind nötig.",
+                "hu": "Ideális idő túrázásra hőség nélkül; szélálló ruha kötelező.",
+                "ro": "Moment ideal pentru drumeții fără căldură; haine groase necesare.",
+                "en": "Ideal time for hiking without the heat; windproof clothing is essential."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Kleidung in Schichten; in der Sonne ist es warm, im Schatten kühl.",
+              "Die Sonne geht im Winter gegen 16:30 Uhr unter; planen Sie die Ebene früh ein.",
+              "Viele Restaurants haben Winterpause; suchen Sie Lokale, in denen Einheimische essen.",
+              "Achten Sie auf die Bora (Nordostwind); sie kann sehr kalt und böig sein.",
+              "Die Fähren fahren seltener; prüfen Sie den Winterfahrplan vorab."
+            ],
+            "hu": [
+              "Öltözz rétegesen; a napon meleg van, de az árnyékban hirtelen lehűl a levegő.",
+              "A nap télen 16:30 körül nyugszik; a mezei sétát tervezd korábbra.",
+              "Sok étterem zárva tart; keresd azokat a helyeket, ahová a helyiek járnak.",
+              "Készülj fel a bórára (északkeleti szél); hideg és erős lökésekkel járhat.",
+              "A kompok ritkábban járnak; mindenképp nézd meg a téli menetrendet."
+            ],
+            "ro": [
+              "Îmbracă-te în straturi; e cald la soare, dar frigul se simte imediat la umbră.",
+              "Soarele apune în jur de ora 16:30; planifică vizita în câmpie devreme.",
+              "Multe restaurante sunt închise; caută localurile frecventate de localnici.",
+              "Fii atent la Bura (vântul de NE); poate fi foarte rece și tăios.",
+              "Feriboturile circulă mai rar; verifică orarul de iarnă în avans."
+            ],
+            "en": [
+              "Dress in layers; it's warm in the sun but the chill is instant in the shade.",
+              "Sunset is around 16:30 in winter; plan your walk in the Plain early.",
+              "Many tourist restaurants are closed; look for spots where locals eat.",
+              "Be prepared for the Bora wind; it can be very cold and gusty.",
+              "Ferries run less frequently; double-check the winter schedule before traveling."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -472,6 +893,302 @@
         "en": [
           "The paths in the plain are mostly gravel."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Radle durch die UNESCO-geschützte Ebene von Stari Grad und genieße die antike Kulturlandschaft. Der Aufstieg zum Glavica-Hügel bietet den besten Blick auf die Bucht.",
+            "hu": "Tekerjen át az UNESCO által védett Stari Grad-síkságon, és élvezze az ókori kultúrtájat. A Glavica-dombra való feljutás kínálja a legjobb kilátást az öbölre.",
+            "ro": "Pedalați prin Câmpia Stari Grad, protejată de UNESCO, și bucurați-vă de peisajul cultural antic. Urcarea pe dealul Glavica oferă cea mai bună vedere asupra golfului.",
+            "en": "Cycle through the UNESCO-protected Stari Grad Plain and enjoy the ancient cultural landscape. The climb to Glavica Hill offers the best view of the bay."
+          },
+          "stops": [
+            {
+              "name": "Škor Platz",
+              "tip_5lang": {
+                "de": "Startpunkt an der Riva.",
+                "hu": "Kiindulópont a Riva-nál.",
+                "ro": "Punct de plecare de pe Riva.",
+                "en": "Starting point at the Riva."
+              }
+            },
+            {
+              "name": "Ebene von Stari Grad",
+              "tip_5lang": {
+                "de": "Ideales flaches Gelände zum Radfahren.",
+                "hu": "Ideális sík terep a kerékpározáshoz.",
+                "ro": "Teren plat ideal pentru ciclism.",
+                "en": "Ideal flat terrain for cycling."
+              }
+            },
+            {
+              "name": "Hügel Glavica",
+              "tip_5lang": {
+                "de": "Steiler Aufstieg, fantastischer Panoramablick.",
+                "hu": "Meredek emelkedő, fantasztikus panoráma.",
+                "ro": "Urcare abruptă, vedere panoramică fantastică.",
+                "en": "Steep climb, fantastic panoramic view."
+              }
+            },
+            {
+              "name": "Dominikanerkloster",
+              "tip_5lang": {
+                "de": "Besuch zum Abschluss der Tour.",
+                "hu": "Látogatás a túra végén.",
+                "ro": "Vizită la finalul turului.",
+                "en": "Visit at the end of the tour."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bakehouse Paprenjok",
+                "tip": "Snack für unterwegs."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Paprenjok pékség",
+                "tip": "Snack az útra."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bakehouse Paprenjok",
+                "tip": "Gustare pentru drum."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bakehouse Paprenjok",
+                "tip": "Snack for the road."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hügel Glavica",
+                "tip": "Ruhe am Gipfelkreuz.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Glavica-domb",
+                "tip": "Nyugalom a csúcskeresztnél.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Dealul Glavica",
+                "tip": "Liniște la crucea de pe vârf.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Glavica Hill",
+                "tip": "Quiet at the summit cross.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Olivenöl-Ab-Hof",
+                "tip": "Direkt bei den Bauern in der Ebene."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Olívaolaj közvetlenül a termelőtől",
+                "tip": "Vásároljon a síkság gazdáinál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline de la fermă",
+                "tip": "Direct de la fermierii din câmpie."
+              }
+            ],
+            "en": [
+              {
+                "name": "Olive oil from the farm",
+                "tip": "Directly from farmers in the plain."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Wege in der Ebene sind meist Schotter."
+            ],
+            "hu": [
+              "A síkság útjai többnyire murvásak."
+            ],
+            "ro": [
+              "Drumurile din câmpie sunt în mare parte pietruite."
+            ],
+            "en": [
+              "The paths in the plain are mostly gravel."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Škor-Platz die Regenjacke fest verschließen. Die Fahrt in die Ebene beginnt auf nassen Steinen.\n\nMittags radeln Sie durch die dunstige Ebene von Stari Grad, wo der Geruch von feuchter Erde in der Luft liegt.\n\nNachmittags bietet der Aufstieg zum Glavica-Hügel eine mystische Aussicht durch die Regenschleier.\n\nAbends kehren Sie zum Dominikanerkloster zurück, um die Tour im Trockenen ausklingen zu lassen.",
+            "hu": "Reggel a Škor téren húzzuk szorosra az esőkabátot. A túra nedves köveken indul a mező felé.\n\nDélben a párás Starigradi-mezőn tekerünk, ahol a nedves föld illata tölti meg a levegőt.\n\nDélután a Glavica-domb felé kapaszkodunk, ahonnan misztikus kilátás nyílik az esőfüggönyön át.\n\nEste a Dominikánus kolostorhoz érünk vissza, fedett helyet keresve a kerékpárok számára.",
+            "ro": "Dimineața în Piața Škor, strânge bine pelerina de ploaie. Traseul începe pe pietre umede spre câmpie.\n\nLa prânz, pedalezi prin Câmpia Stari Grad învăluită în ceață, unde se simte mirosul de pământ ud.\n\nDupă-amiaza, urcarea pe dealul Glavica oferă o priveliște mistică prin perdeaua de ploaie.\n\nSeara revii la Mănăstirea Dominicană pentru a încheia turul la adăpost.",
+            "en": "Morning at Škor square, tighten your rain gear. The ride starts on wet stones heading towards the plain.\n\nMidday, cycle through the misty Stari Grad Plain, where the scent of damp earth fills the air.\n\nAfternoon, the climb to Glavica Hill offers a mystical view through veils of rain.\n\nEvening leads back to the Dominican Monastery to conclude the tour under cover."
+          },
+          "stops": [
+            {
+              "name": "Škor Platz",
+              "tip_5lang": {
+                "de": "Vorsicht beim Losfahren; die nassen Pflastersteine sind extrem rutschig.",
+                "hu": "Vigyázz az indulásnál; a nedves macskakövek rendkívül csúszósak.",
+                "ro": "Atenție la plecare; pavajul umed este extrem de alunecos.",
+                "en": "Be careful when starting; the wet cobblestones are extremely slippery."
+              }
+            },
+            {
+              "name": "Ebene von Stari Grad",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradj az aszfaltozott utakon, hogy elkerüld a sarat.",
+                "ro": "Rămâi pe drumurile asfaltate pentru a evita noroiul.",
+                "en": "Stay on the paved roads to avoid getting stuck in the red mud."
+              }
+            },
+            {
+              "name": "Hügel Glavica",
+              "tip_5lang": {
+                "de": "Abfahrt bei Regen gefährlich; Bremsen frühzeitig prüfen.",
+                "hu": "Az ereszkedés esőben veszélyes; időben ellenőrizd a fékeket.",
+                "ro": "Coborârea pe ploaie este periculoasă; verifică frânele din timp.",
+                "en": "Descending in the rain is hazardous; check your brakes before starting down."
+              }
+            },
+            {
+              "name": "Dominikanerkloster",
+              "tip_5lang": {
+                "de": "Fahrradständer oft nicht überdacht; nehmen Sie das Rad mit ins Trockene.",
+                "hu": "A kerékpártárolók nem fedettek; próbálj védett helyet keresni a gépnek.",
+                "ro": "Suporturile de biciclete nu sunt acoperite; caută un loc ferit.",
+                "en": "Bike racks are usually uncovered; try to find a sheltered spot for your bike."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen in der Ebene unerlässlich gegen den roten Schlamm.",
+              "Reduzieren Sie den Reifendruck leicht für bessere Haftung auf glattem Stein.",
+              "Vermeiden Sie bei starkem Regen die Feldwege der UNESCO-Ebene.",
+              "Tragen Sie eine Brille, um die Augen vor Spritzwasser zu schützen.",
+              "Prüfen Sie, ob Ihr Vermieter bei Regen kostenlose Stornierung anbietet."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a mezőn a vörös sár ellen.",
+              "Csökkentsd kicsit a keréknyomást a jobb tapadásért a csúszós köveken.",
+              "Heves esőzéskor kerüld el az UNESCO mező földútjait.",
+              "Viselj szemüveget, hogy megvédd a szemed a felcsapódó víztől.",
+              "Ellenőrizd, hogy a kölcsönző kínál-e ingyenes lemondást eső esetén."
+            ],
+            "ro": [
+              "Apărătorile sunt esențiale în câmpie împotriva noroiului roșu.",
+              "Redu ușor presiunea în pneuri pentru aderență mai bună pe piatră.",
+              "Evită drumurile de pământ din câmpia UNESCO în caz de ploaie torențială.",
+              "Poartă ochelari pentru a-ți proteja ochii de apa împroșcată.",
+              "Verifică dacă centrul de închirieri oferă anulare gratuită pe ploaie."
+            ],
+            "en": [
+              "Mudguards are essential in the Plain against the sticky red soil.",
+              "Slightly reduce tire pressure for better grip on slippery stones.",
+              "Avoid the dirt paths of the UNESCO Plain during heavy rainfall.",
+              "Wear glasses to protect your eyes from water spray and mud.",
+              "Check if your rental provider offers free cancellation for rainy days."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens auf dem Rad durch die kühle, klare Luft am Hafen entlang.\n\nMittags ist das Radfahren in der Ebene von Stari Grad ein Genuss, da die Wintersonne nicht brennt.\n\nNachmittags wärmt die Anstrengung beim Aufstieg zum Glavica-Hügel den Körper auf.\n\nAbends erreichen Sie das Kloster pünktlich zum Sonnenuntergang hinter den Bergen.",
+            "hu": "Reggel a kikötő mentén tekerünk a hűvös, de kristálytiszta téli levegőben.\n\nDélben a Starigradi-mezőn kerékpározni igazi élvezet, mert a téli nap nem éget.\n\nDélután a Glavica-dombra való felkapaszkodás kellemesen átmelegíti a testet.\n\nEste épp a naplemente idejére érünk vissza a kolostorhoz.",
+            "ro": "Dimineața pedalezi de-a lungul portului în aerul rece și deosebit de clar.\n\nLa prânz, ciclismul în Câmpia Stari Grad este o plăcere, soarele de iarnă nefiind arzător.\n\nDupă-amiaza, efortul urcării pe dealul Glavica îți va încălzi corpul.\n\nSeara ajungi la mănăstire exact la timp pentru apusul soarelui după munți.",
+            "en": "Morning cycling along the harbor in the cool, crystal-clear winter air.\n\nMidday, biking through the Stari Grad Plain is a joy as the winter sun is gentle.\n\nAfternoon, the exertion of climbing Glavica Hill keeps your body warm.\n\nEvening brings you back to the monastery just as the sun sets behind the hills."
+          },
+          "stops": [
+            {
+              "name": "Škor Platz",
+              "tip_5lang": {
+                "de": "Handschuhe tragen; der Fahrtwind am Morgen ist eisig.",
+                "hu": "Viselj kesztyűt; a reggeli menetszél nagyon hideg lehet.",
+                "ro": "Poartă mănuși; vântul matinal în timpul mersului este înghețat.",
+                "en": "Wear gloves; the morning wind chill while riding is biting."
+              }
+            },
+            {
+              "name": "Ebene von Stari Grad",
+              "tip_5lang": {
+                "de": "Die Wege sind trocken und fest; perfekt für lange Touren.",
+                "hu": "Az utak szárazak és kemények; tökéletes a hosszú túrákhoz.",
+                "ro": "Drumurile sunt uscate și ferme; perfect pentru ture lungi.",
+                "en": "The roads are dry and firm; perfect for long exploratory rides."
+              }
+            },
+            {
+              "name": "Hügel Glavica",
+              "tip_5lang": {
+                "de": "Oben weht oft starker Wind; halten Sie beim Fotografieren das Rad fest.",
+                "hu": "Fent gyakran erős a szél; fotózáskor ügyelj a kerékpárra.",
+                "ro": "Sus vântul suflă adesea tare; ține bine bicicleta când faci poze.",
+                "en": "Strong winds are common at the top; hold your bike while taking photos."
+              }
+            },
+            {
+              "name": "Dominikanerkloster",
+              "tip_5lang": {
+                "de": "Frühe Rückkehr empfohlen, da es nach Sonnenuntergang sofort kalt wird.",
+                "hu": "Javasolt a korai visszatérés, mert naplemente után hirtelen lehűl.",
+                "ro": "Se recomandă revenirea devreme, se face frig imediat după apus.",
+                "en": "Early return is recommended as it gets cold instantly after sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Stirnband unter dem Helm schützt die Ohren vor der Bora.",
+              "Die Lichtverhältnisse in der Ebene sind im Winter ideal für Landschaftsfotos.",
+              "Nehmen Sie warme Getränke in einer Thermoskanne mit.",
+              "Vermeiden Sie schattige Waldwege, dort hält sich der Reif oft den ganzen Tag.",
+              "Prüfen Sie den Reifendruck; kalte Luft verringert ihn leicht."
+            ],
+            "hu": [
+              "A sisak alatt hordott fejpánt megvédi a füleket a bórától.",
+              "A téli fények a mezőn kiválóak a tájfotózáshoz.",
+              "Vigyél magaddal meleg italt egy termoszban.",
+              "Kerüld az árnyékos erdei utakat, ott egész nap megmaradhat a zúzmara.",
+              "Ellenőrizd a guminyomást; a hideg levegőben kissé lecsökkenhet."
+            ],
+            "ro": [
+              "O bentiță sub cască îți va proteja urechile de vântul Bura.",
+              "Lumina de iarnă în câmpie este ideală pentru fotografii de peisaj.",
+              "Ia cu tine băuturi calde într-un termos.",
+              "Evită potecile umbrite din pădure, chiciura poate persista toată ziua.",
+              "Verifică presiunea pneurilor; aerul rece o scade ușor."
+            ],
+            "en": [
+              "A headband under your helmet will protect your ears from the Bora.",
+              "The winter light in the Plain is ideal for landscape photography.",
+              "Bring warm drinks in a thermos for your breaks.",
+              "Avoid shaded forest paths where frost can linger all day.",
+              "Check your tire pressure; cold air can cause it to drop slightly."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -674,6 +1391,329 @@
         "en": [
           "The old town is a car-free zone."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die Insel Hvar mit Stari Grad als Basis. Besuchen Sie die UNESCO-Ebene und das historische Zentrum bequem mit dem Auto.",
+            "hu": "Fedezze fel Hvar szigetét Stari Grad-i bázissal. Látogassa meg az UNESCO-síkságot és a történelmi központot kényelmesen, autóval.",
+            "ro": "Explorați insula Hvar cu baza în Stari Grad. Vizitați Câmpia UNESCO și centrul istoric confortabil cu mașina.",
+            "en": "Explore the island of Hvar with Stari Grad as your base. Visit the UNESCO plain and the historic center comfortably by car."
+          },
+          "stops": [
+            {
+              "name": "Fährhafen Stari Grad",
+              "tip_5lang": {
+                "de": "Großer Parkplatz für Tagestouristen.",
+                "hu": "Nagy parkoló az egynapos turistáknak.",
+                "ro": "Parcare mare pentru turiștii de o zi.",
+                "en": "Large parking for day tourists."
+              }
+            },
+            {
+              "name": "Ebene von Stari Grad",
+              "tip_5lang": {
+                "de": "Befahrbare Feldwege, Vorsicht bei Gegenverkehr.",
+                "hu": "Autózható mezei utak, vigyázzon a szembejövőkre.",
+                "ro": "Drumuri de câmp practicabile, atenție la trafic.",
+                "en": "Drivable field paths, be careful of oncoming traffic."
+              }
+            },
+            {
+              "name": "Tvrdalj Kastell",
+              "tip_5lang": {
+                "de": "Parken am Stadtrand empfohlen.",
+                "hu": "Parkolás a város szélén javasolt.",
+                "ro": "Se recomandă parcarea la marginea orașului.",
+                "en": "Parking at the edge of town recommended."
+              }
+            },
+            {
+              "name": "Kirche des hl. Stephan",
+              "tip_5lang": {
+                "de": "Zentraler Platz, nur zu Fuß erreichbar.",
+                "hu": "Központi tér, csak gyalogosan elérhető.",
+                "ro": "Piață centrală, accesibilă doar pe jos.",
+                "en": "Central square, only accessible on foot."
+              }
+            },
+            {
+              "name": "Hügel Glavica",
+              "tip_5lang": {
+                "de": "Parkplatz unterhalb des Aussichtspunkts.",
+                "hu": "Parkoló a kilátópont alatt.",
+                "ro": "Parcare sub punctul de belvedere.",
+                "en": "Parking below the viewpoint."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurant Pine",
+                "tip": "Lokale Fischküche."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pine étterem",
+                "tip": "Helyi halkonyha."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurant Pine",
+                "tip": "Bucătărie locală cu pește."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restaurant Pine",
+                "tip": "Local fish cuisine."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Hügel Glavica",
+                "tip": "Panoramablick.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Glavica-domb",
+                "tip": "Panorámás kilátás.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Dealul Glavica",
+                "tip": "Vedere panoramică.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Glavica Hill",
+                "tip": "Panoramic view.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Hvar Wein",
+                "tip": "Kaufen Sie direkt beim Winzer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Hvari bor",
+                "tip": "Vásároljon közvetlenül a borásznál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vin de Hvar",
+                "tip": "Cumpărați direct de la vinărie."
+              }
+            ],
+            "en": [
+              {
+                "name": "Hvar wine",
+                "tip": "Buy directly from the winemaker."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Altstadt ist autofrei."
+            ],
+            "hu": [
+              "Az óváros autómentes övezet."
+            ],
+            "ro": [
+              "Centrul vechi este zonă pietonală."
+            ],
+            "en": [
+              "The old town is a car-free zone."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Fährhafen im Auto den Scheibenwischer auf Intervall stellen.\n\nMittags ist die Fahrt durch die Ebene sicher und trocken, während draußen der Regen auf das Dach trommelt.\n\nNachmittags parken Sie nah am Tvrdalj Kastell, um die kurzen Wege zum Museum zu nutzen.\n\nAbends bietet die Fahrt zum Glavica-Hügel einen sicheren Aussichtspunkt auf das verregnete Tal.",
+            "hu": "Reggel a kompállomásnál indítjuk az ablaktörlőt a szemerkélő esőben.\n\nDélben a mezőn át autózni biztonságos és száraz, miközben az eső kopog a tetőn.\n\nDélután a Tvrdalj Kastély közelében parkolunk, hogy minimalizáljuk a sétát.\n\nEste a Glavica-dombról az autó biztonságából nézzük a ködbe vesző völgyet.",
+            "ro": "Dimineața la terminalul de feribot, pornești ștergătoarele în ploaia măruntă.\n\nLa prânz, drumul prin câmpie este sigur și uscat, în timp ce ploaia bate în plafon.\n\nDupă-amiaza parchezi aproape de Castelul Tvrdalj pentru a scurta drumul pe jos.\n\nSeara, dealul Glavica oferă un punct de observație sigur asupra văii înnorate.",
+            "en": "Morning at the ferry port, set your wipers to intermittent as the rain starts.\n\nMidday, driving through the Plain is safe and dry while rain drums on the roof.\n\nAfternoon, park close to Tvrdalj Castle to minimize walking in the wet streets.\n\nEvening, the drive to Glavica Hill provides a sheltered viewpoint over the misty valley."
+          },
+          "stops": [
+            {
+              "name": "Fährhafen Stari Grad",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Wartehäuschen am Hafen, falls Sie das Auto verlassen.",
+                "hu": "Használd a kikötői várót, ha ki kell szállnod az autóból.",
+                "ro": "Folosește sala de așteptare din port dacă părăsești mașina.",
+                "en": "Use the ferry terminal waiting area if you need to leave the car."
+              }
+            },
+            {
+              "name": "Ebene von Stari Grad",
+              "tip_5lang": {
+                "de": "Achten Sie auf Traktoren, die Schlamm auf die Straße bringen.",
+                "hu": "Vigyázz a traktorokra, amik sarat hordhatnak fel az útra.",
+                "ro": "Atenție la tractoarele care pot lăsa noroi pe carosabil.",
+                "en": "Watch out for tractors that might bring mud onto the asphalt roads."
+              }
+            },
+            {
+              "name": "Tvrdalj Kastell",
+              "tip_5lang": {
+                "de": "Der Parkplatz am Hafen ist oft überflutet; nutzen Sie höher gelegene Plätze.",
+                "hu": "A kikötői parkoló esőben víz alá kerülhet; válassz magasabb helyet.",
+                "ro": "Parcarea din port se poate inunda; caută locuri mai înalte.",
+                "en": "The harbor parking can flood during heavy rain; use higher ground."
+              }
+            },
+            {
+              "name": "Kirche des hl. Stephan",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig durch die engen, nassen Gassen der Zufahrt.",
+                "hu": "Vezess óvatosan a szűk, vizes bekötőutcákban.",
+                "ro": "Condu cu atenție pe străduțele înguste și ude de acces.",
+                "en": "Drive carefully through the narrow, wet access streets."
+              }
+            },
+            {
+              "name": "Hügel Glavica",
+              "tip_5lang": {
+                "de": "Stellen Sie das Auto sicher ab; der Wind kann an der exponierten Stelle stark sein.",
+                "hu": "Parkolj le biztonságosan; a szél nagyon erős lehet ezen a nyílt ponton.",
+                "ro": "Parchează în siguranță; vântul poate fi puternic în acest punct expus.",
+                "en": "Park securely; the wind can be very strong at this exposed spot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Profiltiefe der Reifen; nasse Küstenstraßen sind tückisch.",
+              "Vermeiden Sie tiefgelegene Parkplätze direkt am Hafenbecken bei Starkregen.",
+              "Lüften Sie das Auto gut, um das Beschlagen der Scheiben zu verhindern.",
+              "Haben Sie immer einen Schirm griffbereit in der Türablage.",
+              "Achten Sie auf Steinschlaggefahr an den Hängen bei starken Güssen."
+            ],
+            "hu": [
+              "Ellenőrizd a gumik állapotát; a vizes parti utak csalókák lehetnek.",
+              "Heves esőzéskor kerüld a közvetlenül a kikötő melletti mélyebb parkolókat.",
+              "Szellőztesd az autót, hogy elkerüld a szélvédő párásodását.",
+              "Mindig legyen kéznél egy esernyő az ajtórekeszben.",
+              "Erős esőben figyelj a kőomlás veszélyére a hegyoldalak mentén."
+            ],
+            "ro": [
+              "Verifică starea anvelopelor; drumurile de coastă ude sunt înșelătoare.",
+              "Evită parcările joase de lângă port în caz de ploaie torențială.",
+              "Ventilează bine mașina pentru a preveni aburirea parbrizului.",
+              "Ține întotdeauna o umbrelă la îndemână în buzunarul portierei.",
+              "Atenție la riscul de căderi de pietre pe versanți în timpul ploilor mari."
+            ],
+            "en": [
+              "Check your tire tread; wet coastal roads can be very treacherous.",
+              "Avoid low-lying parking lots right by the harbor during heavy downpours.",
+              "Keep the car well-ventilated to prevent the windows from fogging up.",
+              "Always have an umbrella ready in the car door pocket.",
+              "Watch out for potential rockfalls on steep slopes during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens starten Sie die Fahrt am Hafen bei klarer Sicht auf das ruhige Meer.\n\nMittags ist die Fahrt durch die UNESCO-Ebene im Winter besonders entspannt, ohne Touristenmassen.\n\nNachmittags parken Sie bequem in der Nähe der Sehenswürdigkeiten der leeren Altstadt.\n\nAbends genießen Sie den Panoramablick vom Glavica-Hügel im warmen Auto.",
+            "hu": "Reggel a kikötőből indulunk, élvezve a tükörsima téli tenger látványát.\n\nDélben az UNESCO-mezőn autózni télen rendkívül nyugodt, nincsenek tömegek.\n\nDélután kényelmesen parkolhatunk az üres óváros nevezetességei közelében.\n\nEste a Glavica-dombról csodáljuk a tájat az autó melegéből.",
+            "ro": "Dimineața pornești din port cu o vizibilitate clară asupra mării calme.\n\nLa prânz, drumul prin câmpia UNESCO este extrem de relaxat iarna, fără turiști.\n\nDupă-amiaza parchezi confortabil aproape de atracțiile orașului vechi pustiu.\n\nSeara savurezi panorama de pe dealul Glavica din căldura mașinii.",
+            "en": "Morning drive starts from the harbor with clear views of the calm winter sea.\n\nMidday, driving through the UNESCO Plain is exceptionally relaxed in winter.\n\nAfternoon, enjoy easy parking near the landmarks of the quiet old town.\n\nEvening, admire the panoramic view from Glavica Hill from the warmth of your car."
+          },
+          "stops": [
+            {
+              "name": "Fährhafen Stari Grad",
+              "tip_5lang": {
+                "de": "Heizung rechtzeitig einschalten; im Hafen zieht es im Winter.",
+                "hu": "Időben kapcsold be a fűtést; a kikötőben télen metsző a szél.",
+                "ro": "Pornește căldura din timp; în port e curent rece iarna.",
+                "en": "Turn on the heater early; the harbor area is draughty in winter."
+              }
+            },
+            {
+              "name": "Ebene von Stari Grad",
+              "tip_5lang": {
+                "de": "Perfekte Zeit für Fotos direkt aus dem Auto heraus.",
+                "hu": "Tökéletes időszak a fotózáshoz közvetlenül az autóból.",
+                "ro": "Moment perfect pentru fotografii direct din mașină.",
+                "en": "Perfect time for landscape photography directly from the car."
+              }
+            },
+            {
+              "name": "Tvrdalj Kastell",
+              "tip_5lang": {
+                "de": "Parken ist im Winter oft kostenlos oder deutlich günstiger.",
+                "hu": "A parkolás télen gyakran ingyenes vagy jóval olcsóbb.",
+                "ro": "Parcarea este adesea gratuită sau mult mai ieftină iarna.",
+                "en": "Parking is often free or much cheaper during the winter months."
+              }
+            },
+            {
+              "name": "Kirche des hl. Stephan",
+              "tip_5lang": {
+                "de": "Nutzen Sie die leeren Straßen für eine entspannte Anfahrt.",
+                "hu": "Használd ki az üres utcákat a stresszmentes megközelítéshez.",
+                "ro": "Profită de străzile goale pentru o sosire relaxată.",
+                "en": "Take advantage of the empty streets for a stress-free arrival."
+              }
+            },
+            {
+              "name": "Hügel Glavica",
+              "tip_5lang": {
+                "de": "Bester Platz für den Sonnenuntergang ohne zu frieren.",
+                "hu": "A legjobb hely a naplemente megtekintéséhez fagyoskodás nélkül.",
+                "ro": "Cel mai bun loc pentru apus fără să-ți fie frig.",
+                "en": "The best spot to watch the sunset without catching a cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind auf Hvar selten nötig, aber prüfen Sie den Frostschutz.",
+              "Die Batterieleistung kann bei Kälte nachlassen; Licht nicht unnötig brennen lassen.",
+              "Planen Sie die Rückfahrt zur Fähre großzügig ein, falls es frostig ist.",
+              "Genießen Sie die freie Parkplatzwahl in der gesamten Stadt.",
+              "Achten Sie auf Wildtiere, die im Winter öfter die Straßen kreuzen."
+            ],
+            "hu": [
+              "Téli gumi ritkán kell Hvaron, de a fagyállót ellenőrizd.",
+              "Az akkumulátor teljesítménye csökkenhet a hidegben.",
+              "Tervezd a kompútvonalat ráhagyással, ha az idő fagyosra fordulna.",
+              "Élvezd a szabad parkolóhely-választást az egész városban.",
+              "Vigyázz a vadállatokra, amik télen gyakrabban tévednek az utakra."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt rareori necesare pe Hvar, dar verifică antigelul.",
+              "Performanța bateriei poate scădea la frig; nu lăsa luminile aprinse inutil.",
+              "Planifică drumul spre feribot cu rezervă de timp dacă e îngheț.",
+              "Profită de libertatea de a alege orice loc de parcare în oraș.",
+              "Atenție la animalele sălbatice care traversează drumul mai des iarna."
+            ],
+            "en": [
+              "Winter tires are rarely needed on Hvar, but check your antifreeze levels.",
+              "Battery performance can drop in the cold; don't leave lights on unnecessarily.",
+              "Allow extra time for your return to the ferry if it's frosty.",
+              "Enjoy the privilege of easy parking throughout the entire town.",
+              "Watch out for wildlife that may cross the roads more often in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -840,6 +1880,275 @@
         "en": [
           "Bus schedules are synchronized with the ferries."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Reisen Sie mit der Fähre an und nutzen Sie die lokalen Busse, um das Zentrum von Stari Grad zu erreichen.",
+            "hu": "Érkezzen komppal, és használja a helyi buszjáratokat Stari Grad központjának eléréséhez.",
+            "ro": "Sosiți cu feribotul și folosiți autobuzele locale pentru a ajunge în centrul orașului Stari Grad.",
+            "en": "Arrive by ferry and use local buses to reach the center of Stari Grad."
+          },
+          "stops": [
+            {
+              "name": "Fährhafen Stari Grad",
+              "tip_5lang": {
+                "de": "Ankunftsort der Fähren von Split.",
+                "hu": "A Splitből érkező kompok kikötője.",
+                "ro": "Locul de sosire a feriboturilor din Split.",
+                "en": "Arrival point of ferries from Split."
+              }
+            },
+            {
+              "name": "Stari Grad Zentrum",
+              "tip_5lang": {
+                "de": "Busse verbinden den Hafen mit dem Zentrum.",
+                "hu": "Buszok kötik össze a kikötőt a központtal.",
+                "ro": "Autobuzele fac legătura între port și centru.",
+                "en": "Buses connect the port with the center."
+              }
+            },
+            {
+              "name": "Tvrdalj Kastell",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang von der Bushaltestelle.",
+                "hu": "Rövid séta a buszmegállótól.",
+                "ro": "O scurtă plimbare de la stația de autobuz.",
+                "en": "Short walk from the bus stop."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bistro Kod Damira",
+                "tip": "In der Nähe des Hafens."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kod Damira bisztró",
+                "tip": "A kikötő közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bistro Kod Damira",
+                "tip": "Lângă port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bistro Kod Damira",
+                "tip": "Near the port."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Riva",
+                "tip": "Beobachten Sie das bunte Treiben.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Riva",
+                "tip": "Figyelje a kikötői nyüzsgést.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Riva",
+                "tip": "Urmăriți agitația din port.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Riva",
+                "tip": "Watch the hustle and bustle.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Marktstand am Hafen",
+                "tip": "Lokale Produkte."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötői piaci árus",
+                "tip": "Helyi termékek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Tarabă în port",
+                "tip": "Produse locale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Harbor market stall",
+                "tip": "Local products."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Busfahrpläne sind auf die Fähren abgestimmt."
+            ],
+            "hu": [
+              "A buszmenetrendek a kompokhoz igazodnak."
+            ],
+            "ro": [
+              "Orarele autobuzelor sunt sincronizate cu feriboturile."
+            ],
+            "en": [
+              "Bus schedules are synchronized with the ferries."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Fährhafen im trockenen Bus warten.\n\nMittags im Zentrum von Stari Grad unter den Steinbögen Schutz suchen.\n\nNachmittags die Besichtigung des Kastells in eine Regenpause legen.\n\nAbends mit dem letzten Bus zurück zum Hafen fahren.",
+            "hu": "Reggel a kompállomásnál a busz száraz belsejében várjuk az indulást.\n\nDélben Stari Grad központjában a kőívek alatt keresünk menedéket.\n\nDélután a kastély látogatását az esőmentes percekre időzítjük.\n\nEste az utolsó busszal térünk vissza a kikötőbe.",
+            "ro": "Dimineața în port, aștepți plecarea în interiorul uscat al autobuzului.\n\nLa prânz, în centrul orașului Stari Grad, cauți adăpost sub arcadele de piatră.\n\nDupă-amiaza planifici vizita castelului în funcție de pauzele ploii.\n\nSeara te întorci la port cu ultimul autobuz disponibil.",
+            "en": "Morning at the ferry port, wait for departure inside the dry bus.\n\nMidday in Stari Grad center, seek shelter under the stone arches.\n\nAfternoon, time your castle visit during a break in the rainfall.\n\nEvening, catch the last bus back to the ferry terminal."
+          },
+          "stops": [
+            {
+              "name": "Fährhafen Stari Grad",
+              "tip_5lang": {
+                "de": "Wartebereich im Terminal ist beheizt und trocken.",
+                "hu": "A kikötői váróterem fűtött és száraz.",
+                "ro": "Sala de așteptare din terminal este încălzită și uscată.",
+                "en": "The ferry terminal waiting area is heated and dry."
+              }
+            },
+            {
+              "name": "Stari Grad Zentrum",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle hat nur begrenzten Regenschutz.",
+                "hu": "A buszmegálló csak korlátozott védelmet nyújt az eső ellen.",
+                "ro": "Stația de autobuz are un adăpost limitat împotriva ploii.",
+                "en": "The bus stop has limited shelter; have your umbrella ready."
+              }
+            },
+            {
+              "name": "Tvrdalj Kastell",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle, aber oft ohne Vordächer.",
+                "hu": "Rövid séta a megállótól, de sok helyen nincs eresz.",
+                "ro": "Drum scurt de la stație, dar adesea fără copertine pe parcurs.",
+                "en": "Short walk from the stop, but parts of the path are unsheltered."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan; bei Regen kann es zu kleinen Verzögerungen kommen.",
+              "Tragen Sie wasserfeste Schuhe für den Weg zwischen Haltestelle und Ziel.",
+              "Das Ticket kann beim Fahrer gekauft werden, halten Sie Kleingeld bereit.",
+              "Nutzen Sie die Arriva-App für Live-Informationen.",
+              "Die Fähren fahren auch bei Regen, aber bei Sturm kann es Ausfälle geben."
+            ],
+            "hu": [
+              "Ellenőrizd a buszmenetrendet; esőben előfordulhatnak kisebb késések.",
+              "Viselj vízálló cipőt a megálló és a látnivalók közötti szakaszokra.",
+              "A jegyet a sofőrnél veheted meg, legyen nálad aprópénz.",
+              "Használd az Arriva alkalmazást az élő információkért.",
+              "A kompok esőben is járnak, de erős szélben leállhatnak."
+            ],
+            "ro": [
+              "Verifică orarul autobuzelor; ploaia poate cauza mici întârzieri.",
+              "Poartă încălțăminte impermeabilă pentru drumul de la stație la obiective.",
+              "Biletul se poate cumpăra de la șofer, pregătește bani mărunți.",
+              "Folosește aplicația Arriva pentru informații în timp real.",
+              "Feriboturile circulă pe ploaie, dar se pot anula în caz de furtună."
+            ],
+            "en": [
+              "Check the bus schedule; rain can sometimes cause minor delays.",
+              "Wear waterproof shoes for the segments between the bus stop and sights.",
+              "Tickets can be bought from the driver; have small change ready.",
+              "Use the Arriva app for real-time bus information.",
+              "Ferries run during rain, but services may be cancelled in case of gales."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens Ankunft mit der Fähre in der klaren Winterluft.\n\nMittags im ruhigen Zentrum die lokale Atmosphäre ohne Touristen genießen.\n\nNachmittags das Kastell besichtigen, bevor es früh dunkel wird.\n\nAbends Rückfahrt zum Hafen im beleuchteten Bus.",
+            "hu": "Reggel érkezés a komppal a friss téli tengeri levegőre.\n\nDélben a csendes központban élvezzük a helyi hangulatot turisták nélkül.\n\nDélután a kastélyt nézzük meg, mielőtt korán besötétedik.\n\nEste kivilágított busszal megyünk vissza a kikötőbe.",
+            "ro": "Dimineața sosești cu feribotul în aerul curat de iarnă.\n\nLa prânz savurezi atmosfera locală în centrul liniștit, fără turiști.\n\nDupă-amiaza vizitezi castelul înainte de lăsarea timpurie a serii.\n\nSeara te întorci la port cu autobuzul iluminat.",
+            "en": "Morning arrival by ferry into the crisp winter sea air.\n\nMidday, enjoy the local atmosphere in the quiet center without the crowds.\n\nAfternoon, visit the castle before the early winter darkness sets in.\n\nEvening, return to the harbor on the brightly lit bus."
+          },
+          "stops": [
+            {
+              "name": "Fährhafen Stari Grad",
+              "tip_5lang": {
+                "de": "Der Winterfahrplan der Busse ist stark reduziert; genau planen.",
+                "hu": "A buszok téli menetrendje korlátozott; tervezz pontosan.",
+                "ro": "Orarul de iarnă al autobuzelor este redus; planifică cu atenție.",
+                "en": "The winter bus schedule is significantly reduced; plan carefully."
+              }
+            },
+            {
+              "name": "Stari Grad Zentrum",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Cafés, die auch im Winter Einheimische bedienen.",
+                "hu": "A közelben vannak kávézók, amik télen is várják a helyieket.",
+                "ro": "Există cafenele în apropiere care servesc localnicii și iarna.",
+                "en": "There are cafes nearby that serve locals throughout the winter."
+              }
+            },
+            {
+              "name": "Tvrdalj Kastell",
+              "tip_5lang": {
+                "de": "Beachten Sie, dass Besichtigungszeiten im Winter kürzer sind.",
+                "hu": "Vedd figyelembe, hogy a látogatási idő télen rövidebb.",
+                "ro": "Reține că orele de vizitare sunt mai scurte în timpul iernii.",
+                "en": "Be aware that visiting hours are shorter during the winter season."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Winterfahrplan (Redovni vozni red) unterscheidet sich stark vom Sommer.",
+              "Busse fahren im Winter oft nur in Abstimmung mit den großen Fähren.",
+              "Halten Sie sich im Terminal auf, um nicht in der Kälte zu warten.",
+              "Sonntags fahren im Winter fast keine Busse; planen Sie Alternativen.",
+              "Die Katamaran-Linie nach Jelsa/Bol kann bei starkem Wind ausfallen."
+            ],
+            "hu": [
+              "A téli menetrend jelentősen eltér a nyáritól.",
+              "Télen a buszok gyakran a nagy kompok érkezéséhez igazodnak.",
+              "Várj a terminálban, hogy ne kelljen a hideg szélben állnod.",
+              "Télen vasárnaponként alig van busz; tervezz alternatívát.",
+              "A Jelsa/Bol felé tartó katamarán erős szélben nem közlekedik."
+            ],
+            "ro": [
+              "Orarul de iarnă diferă semnificativ de cel de vară.",
+              "Autobuzele circulă iarna adesea în corelație cu feriboturile mari.",
+              "Așteaptă în terminal pentru a nu sta afară în vântul rece.",
+              "Duminica circulă foarte puține autobuze iarna; caută alternative.",
+              "Catamaranul spre Jelsa/Bol poate fi anulat în caz de vânt puternic."
+            ],
+            "en": [
+              "The winter timetable differs significantly from the summer one.",
+              "Buses in winter often run in synchronization with the main ferries.",
+              "Wait inside the terminal to avoid standing in the cold winter wind.",
+              "Very few buses run on Sundays during winter; plan alternatives.",
+              "The catamaran to Jelsa/Bol may be cancelled if there's a strong Bora."
+            ]
+          }
+        }
       }
     }
   },

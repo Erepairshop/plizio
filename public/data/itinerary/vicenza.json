@@ -268,6 +268,398 @@
           "Visit the Basilica Palladiana in the evening.",
           "Enjoy a 'Spritz' in the main square."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vicenza ist die Stadt des Palladio. Beginnen Sie Ihren Rundgang am faszinierenden Teatro Olimpico und dem gegenüberliegenden Palazzo Chiericati. Schlendern Sie entlang des Corso Palladio.\nMittags erreichen Sie die prächtige Piazza dei Signori und besichtigen die Basilica Palladiana, das Wahrzeichen der Stadt.\nAm späten Nachmittag lädt der Parco Querini mit seinen Statuen und Grünflächen zu einem entspannten Abschluss im Freien ein.",
+            "hu": "Vicenza Palladio városa. Kezdd a sétát a lenyűgöző Teatro Olimpicónál és a szemközti Palazzo Chiericatinál. Sétálj végig a Corso Palladio mentén.\nDélben érkezz meg a pompás Piazza dei Signori térre, és látogasd meg a Basilica Palladianát, a város jelképét.\nKéső délután a Parco Querini szobraival és zöld területeivel hívogat egy pihentető szabadtéri zárásra.",
+            "ro": "Vicenza este orașul lui Palladio. Începeți turul la fascinantul Teatro Olimpico și Palazzo Chiericati aflat vizavi. Plimbați-vă de-a lungul Corso Palladio.\nLa prânz, ajungeți în splendida Piazza dei Signori și vizitați Basilica Palladiana, simbolul orașului.\nTârziu după-amiaza, Parco Querini, cu statuile și spațiile sale verzi, vă invită la o încheiere relaxantă în aer liber.",
+            "en": "Vicenza is the city of Palladio. Start your walk at the fascinating Teatro Olimpico and the opposite Palazzo Chiericati. Stroll along the Corso Palladio.\nBy midday, reach the magnificent Piazza dei Signori and visit the Basilica Palladiana, the city's iconic landmark.\nIn the late afternoon, Parco Querini with its statues and green spaces invites you for a relaxing outdoor finish."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro Olimpico",
+                "hu": "Teatro Olimpico",
+                "ro": "Teatro Olimpico",
+                "en": "Teatro Olimpico"
+              },
+              "tip_5lang": {
+                "de": "Das älteste überdachte Theater der Welt.",
+                "hu": "A világ legrégebbi fedett színháza.",
+                "ro": "Cel mai vechi teatru acoperit din lume.",
+                "en": "The world's oldest indoor theater."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Chiericati",
+                "hu": "Palazzo Chiericati",
+                "ro": "Palazzo Chiericati",
+                "en": "Palazzo Chiericati"
+              },
+              "tip_5lang": {
+                "de": "Ein Meisterwerk von Palladio.",
+                "hu": "Palladio egyik mesterműve.",
+                "ro": "O capodoperă de Palladio.",
+                "en": "A masterpiece designed by Palladio."
+              }
+            },
+            {
+              "name": {
+                "de": "Corso Andrea Palladio",
+                "hu": "Corso Andrea Palladio",
+                "ro": "Corso Andrea Palladio",
+                "en": "Corso Andrea Palladio"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen Spaziergang und Shopping.",
+                "hu": "Tökéletes sétához és vásárláshoz.",
+                "ro": "Perfect pentru o plimbare și cumpărături.",
+                "en": "Perfect for a stroll and some shopping."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza dei Signori",
+                "hu": "Piazza dei Signori",
+                "ro": "Piazza dei Signori",
+                "en": "Piazza dei Signori"
+              },
+              "tip_5lang": {
+                "de": "Das Herz der Stadt mit der Basilica Palladiana.",
+                "hu": "A város szíve a Basilica Palladianával.",
+                "ro": "Inima orașului cu Basilica Palladiana.",
+                "en": "The city heart featuring the Basilica Palladiana."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica Palladiana",
+                "hu": "Basilica Palladiana",
+                "ro": "Basilica Palladiana",
+                "en": "Basilica Palladiana"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Dachterrasse für den Blick.",
+                "hu": "Menj fel a tetőteraszra a kilátásért.",
+                "ro": "Vizitați terasa de pe acoperiș pentru vedere.",
+                "en": "Visit the rooftop terrace for the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Querini",
+                "hu": "Parco Querini",
+                "ro": "Parco Querini",
+                "en": "Parco Querini"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Kaninchen im Park.",
+                "hu": "Nézd meg a nyulakat a parkban.",
+                "ro": "Observați iepurii din parc.",
+                "en": "Watch the rabbits in the park."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Baccalà alla Vicentina",
+                "tip": "Getrockneter Kabeljau mit Polenta."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Baccalà alla Vicentina",
+                "tip": "Szárított tőkehal polentával."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Baccalà alla Vicentina",
+                "tip": "Cod uscat cu polenta."
+              }
+            ],
+            "en": [
+              {
+                "name": "Baccalà alla Vicentina",
+                "tip": "Dried cod served with polenta."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Giardino Salvi",
+                "tip": "Kleiner Park mit Loggia.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Giardino Salvi",
+                "tip": "Kicsi park loggiával.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Giardino Salvi",
+                "tip": "Parc mic cu loggia.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Giardino Salvi",
+                "tip": "Small park with a loggia.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Corso Palladio",
+                "tip": "Hauptstraße für Mode und Schmuck."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Corso Palladio",
+                "tip": "Főutca divatnak és ékszereknek."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Corso Palladio",
+                "tip": "Stradă principală pentru modă și bijuterii."
+              }
+            ],
+            "en": [
+              {
+                "name": "Corso Palladio",
+                "tip": "Main street for fashion and jewelry."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Vicenza ist kompakt und gut begehbar.",
+              "Viele Denkmäler gehören zum UNESCO-Welterbe.",
+              "Besuchen Sie die Basilica Palladiana am Abend.",
+              "Trinken Sie einen 'Spritz' auf dem Hauptplatz."
+            ],
+            "hu": [
+              "Vicenza kompakt és jól bejárható.",
+              "Sok műemlék az UNESCO Világörökség része.",
+              "Látogasd meg a Basilica Palladianát este.",
+              "Igyál egy 'Spritz'-et a főtéren."
+            ],
+            "ro": [
+              "Vicenza este compactă și ușor de parcurs pe jos.",
+              "Multe monumente fac parte din patrimoniul UNESCO.",
+              "Vizitați Basilica Palladiana seara.",
+              "Beți un 'Spritz' în piața principală."
+            ],
+            "en": [
+              "Vicenza is compact and easy to walk.",
+              "Many monuments are UNESCO World Heritage sites.",
+              "Visit the Basilica Palladiana in the evening.",
+              "Enjoy a 'Spritz' in the main square."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie im Teatro Olimpico, um dem Regen zu entfliehen. Mittags bieten die Arkaden des Palazzo Chiericati Schutz. Am Nachmittag laden die Loggien der Basilica Palladiana zum Verweilen ein, während Sie das nasse Kopfsteinpflaster von oben betrachten. Abends schlendern Sie trocken unter den prächtigen Portiken des Corso Andrea Palladio zu Ihrem Ziel.",
+            "hu": "Kezdje a napot a fedett Teatro Olimpicóban, elkerülve az esőt. Délben a Palazzo Chiericati árkádjai nyújtanak menedéket. Délután a Basilica Palladiana loggiái alatt sétálva csodálhatja meg a várost, miközben száraz marad. Este a Corso Andrea Palladio összefüggő árkádsora alatt juthat el a vacsorahelyszínig, így az esernyőre alig lesz szüksége.",
+            "ro": "Începeți ziua la Teatro Olimpico, protejați de ploaie. La prânz, arcadele de la Palazzo Chiericati oferă adăpost excelent. După-amiaza, loggiile de la Basilica Palladiana vă permit să admirați piața fără a vă uda. Seara, plimbați-vă sub porticurile monumentale de pe Corso Andrea Palladio, care fac din Vicenza un oraș ideal chiar și pe vreme umedă.",
+            "en": "Start your day inside the sheltered Teatro Olimpico to stay dry. At midday, the arcades of Palazzo Chiericati provide excellent cover. In the afternoon, the loggias of Basilica Palladiana allow you to enjoy the view of the square without getting wet. Spend your evening strolling under the continuous porticoes of Corso Andrea Palladio, perfect for rainy weather."
+          },
+          "stops": [
+            {
+              "name": "Teatro Olimpico",
+              "tip_5lang": {
+                "de": "Komplett überdacht, idealer Start bei starkem Regen.",
+                "hu": "Teljesen fedett helyszín, tökéletes kezdés nagy esőben.",
+                "ro": "Complet acoperit, un punct de plecare ideal pe ploaie.",
+                "en": "Completely indoor, perfect starting point during heavy rain."
+              }
+            },
+            {
+              "name": "Palazzo Chiericati",
+              "tip_5lang": {
+                "de": "Nutzen Sie den breiten Säulengang vor dem Eingang.",
+                "hu": "Használja a bejárat előtti széles oszlopsort menedékként.",
+                "ro": "Folosiți colonada largă de la intrare pentru protecție.",
+                "en": "Use the wide colonnade at the entrance for shelter."
+              }
+            },
+            {
+              "name": "Corso Andrea Palladio",
+              "tip_5lang": {
+                "de": "Die Portiken ermöglichen einen fast trockenen Spaziergang.",
+                "hu": "Az árkádsor szinte teljesen száraz sétát tesz lehetővé.",
+                "ro": "Porticurile permit o plimbare aproape complet uscată.",
+                "en": "The porticoes allow for an almost completely dry walk."
+              }
+            },
+            {
+              "name": "Piazza dei Signori",
+              "tip_5lang": {
+                "de": "Die umliegenden Cafés unter den Arkaden bieten Schutz.",
+                "hu": "A környező kávézók az árkádok alatt védelmet nyújtanak.",
+                "ro": "Cafenelele din jur, aflate sub arcade, oferă adăpost.",
+                "en": "Surrounding cafes under the arcades offer quick shelter."
+              }
+            },
+            {
+              "name": "Basilica Palladiana",
+              "tip_5lang": {
+                "de": "Die Loggien im ersten Stock sind überdacht und trocken.",
+                "hu": "Az emeleti loggiák fedettek és teljesen szárazak.",
+                "ro": "Loggiile de la etaj sunt acoperite și rămân uscate.",
+                "en": "The upper loggias are covered and stay perfectly dry."
+              }
+            },
+            {
+              "name": "Parco Querini",
+              "tip_5lang": {
+                "de": "Vorsicht auf unbefestigten Wegen; Pfützen bilden sich schnell.",
+                "hu": "Vigyázat a földutakon; a tócsák gyorsan kialakulnak.",
+                "ro": "Atenție pe aleile neasfaltate; se formează bălți rapid.",
+                "en": "Watch out on unpaved paths; puddles form quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vicenza ist berühmt für seine Portiken, die das Gehen im Regen erleichtern.",
+              "Tragen Sie Schuhe mit gutem Grip für glattes Kopfsteinpflaster.",
+              "Die meisten Museen haben Garderoben für nasse Regenschirme.",
+              "Nutzen Sie die Arkaden der Basilica für Panoramafotos ohne Regentropfen auf der Linse.",
+              "Planen Sie Kaffeepausen in den historischen Cafés unter dem Corso Palladio ein."
+            ],
+            "hu": [
+              "Vicenza híres az árkádsorairól, amelyek megkönnyítik a sétát esőben is.",
+              "Viseljen csúszásmentes talpú cipőt a vizes macskakövön.",
+              "A legtöbb múzeumban van ruhatár a vizes esernyőknek.",
+              "A Basilica loggiái alól remek fotókat készíthet esőcseppek nélkül.",
+              "Tervezzen kávészüneteket a Corso Palladio alatti történelmi kávézókba."
+            ],
+            "ro": [
+              "Vicenza este faimoasă pentru porticurile sale care ușurează mersul pe ploaie.",
+              "Purtați încălțăminte cu aderență bună pentru pavajul umed.",
+              "Majoritatea muzeelor au vestiare pentru umbrelele ude.",
+              "Folosiți loggiile Basilicii pentru fotografii panoramice fără picături pe lentilă.",
+              "Planificați pauze de cafea în cafenelele istorice de sub Corso Palladio."
+            ],
+            "en": [
+              "Vicenza is famous for its porticoes, making walking easy even in the rain.",
+              "Wear shoes with good grip as cobblestones can be slippery when wet.",
+              "Most museums have cloakrooms to store wet umbrellas.",
+              "Use the Basilica's loggias for panoramic photos without raindrops on your lens.",
+              "Plan coffee breaks in the historic cafes located under Corso Palladio."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das klare Winterlicht für das Teatro Olimpico. Mittags wärmen Sie sich in den Ausstellungen des Palazzo Chiericati auf. Genießen Sie den frühen Sonnenuntergang gegen 16:45 Uhr von der Basilica Palladiana aus, wenn die Stadtlichter zu funkeln beginnen. Abends lockt die gemütliche Wärme der Trattorien in der Altstadt nach einem erfrischenden Spaziergang.",
+            "hu": "Használja ki a tiszta téli fényeket a Teatro Olimpicónál. Délben melegedjen fel a Palazzo Chiericati kiállításai között. Élvezze a korai, 16:45 körüli naplementét a Basilica Palladiana tetejéről, amikor kigyúlnak a város fényei. Este a frissítő séta után az óváros hangulatos, fűtött trattoriái várják egy tál forró tésztára.",
+            "ro": "Profitați de lumina clară de iarnă la Teatro Olimpico. La prânz, încălziți-vă în sălile muzeului Palazzo Chiericati. Admirați apusul timpuriu, în jurul orei 16:45, de la Basilica Palladiana, când luminile orașului încep să sclipească. Seara, după o plimbare revigorantă, bucurați-vă de căldura primitoare a trattoriilor din centrul vechi.",
+            "en": "Take advantage of the crisp winter light at Teatro Olimpico. At midday, warm up inside the galleries of Palazzo Chiericati. Enjoy the early sunset around 4:45 PM from the Basilica Palladiana as the city lights begin to twinkle. In the evening, retreat to the cozy warmth of old-town trattorias after a refreshing winter walk."
+          },
+          "stops": [
+            {
+              "name": "Teatro Olimpico",
+              "tip_5lang": {
+                "de": "Innen ist es kühl, behalten Sie Ihre Jacke an.",
+                "hu": "Benn hűvös van, tartsa magán a kabátját.",
+                "ro": "Interiorul este răcoros, păstrați haina pe dvs.",
+                "en": "The interior is cool, keep your coat on during the visit."
+              }
+            },
+            {
+              "name": "Palazzo Chiericati",
+              "tip_5lang": {
+                "de": "Gut beheizte Räume, ideal zum Aufwärmen am Mittag.",
+                "hu": "Jól fűtött termek, ideális felmelegedni délben.",
+                "ro": "Săli bine încălzite, ideale pentru a vă încălzi la prânz.",
+                "en": "Well-heated rooms, ideal for warming up at midday."
+              }
+            },
+            {
+              "name": "Corso Andrea Palladio",
+              "tip_5lang": {
+                "de": "Genießen Sie die festliche Winterbeleuchtung am späten Nachmittag.",
+                "hu": "Élvezze az ünnepi téli kivilágítást késő délután.",
+                "ro": "Bucurați-vă de iluminatul festiv de iarnă după-amiaza târziu.",
+                "en": "Enjoy the festive winter lighting in the late afternoon."
+              }
+            },
+            {
+              "name": "Piazza dei Signori",
+              "tip_5lang": {
+                "de": "Trinken Sie einen heißen 'Cioccolata calda' in einem der Cafés.",
+                "hu": "Igyon egy forró csokoládét az egyik hangulatos kávézóban.",
+                "ro": "Beți o ciocolată caldă la una dintre cafenelele din piață.",
+                "en": "Have a hot chocolate at one of the cozy square cafes."
+              }
+            },
+            {
+              "name": "Basilica Palladiana",
+              "tip_5lang": {
+                "de": "Die Terrasse kann im Winter windig sein; Schal einpacken.",
+                "hu": "A terasz télen szeles lehet, vigyen sálat.",
+                "ro": "Terasa poate fi vântoasă iarna; luați un fular.",
+                "en": "The terrace can be windy in winter; bring a scarf."
+              }
+            },
+            {
+              "name": "Parco Querini",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park vor 16:30 Uhr, bevor es dunkel wird.",
+                "hu": "Látogasson el ide 16:30 előtt, mielőtt sötétedik.",
+                "ro": "Vizitați parcul înainte de 16:30, înainte de lăsarea întunericului.",
+                "en": "Visit before 4:30 PM before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 16:45 Uhr unter, planen Sie Outdoor-Stopps früh.",
+              "Zwiebelprinzip bei der Kleidung hilft beim Wechsel zwischen Museen und Außenluft.",
+              "Einige Cafés bieten beheizte Außenbereiche unter den Portiken.",
+              "Achten Sie auf Raureif auf dem Kopfsteinpflaster in den frühen Morgenstunden.",
+              "Die Winterbeleuchtung verleiht der Palladio-Architektur einen besonderen Charme."
+            ],
+            "hu": [
+              "A nap télen 16:45 körül nyugszik, tervezze korábbra a szabadtéri pontokat.",
+              "A réteges öltözködés segít a múzeumok és a kinti hideg közötti váltásnál.",
+              "Néhány kávézó fűtött teraszt kínál az árkádok alatt.",
+              "Kora reggel figyeljen a zúzmarára a csúszós macskakövön.",
+              "A téli díszkivilágítás különleges hangulatot ad a Palladio-épületeknek."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:45; planificați opririle în exterior devreme.",
+              "Îmbrăcămintea în straturi ajută la tranziția între muzee și frigul de afară.",
+              "Unele cafenele oferă terase încălzite sub porticuri.",
+              "Atenție la polei pe pavaj în primele ore ale dimineții.",
+              "Iluminatul de iarnă oferă un farmec aparte arhitecturii lui Palladio."
+            ],
+            "en": [
+              "Sunset is around 4:45 PM in winter; plan outdoor stops early in the day.",
+              "Layered clothing helps when moving between heated museums and the cold air.",
+              "Some cafes offer heated outdoor seating under the porticoes.",
+              "Watch out for frost on the cobblestones in the early morning hours.",
+              "Winter festive lights add a special charm to Palladio's architecture."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -507,6 +899,366 @@
           "Cobblestones are common in the old town.",
           "Avoid the main high-traffic roads."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Radeln Sie zu den prachtvollen Villen vor den Toren Vicenzas. Starten Sie bei der berühmten Villa La Rotonda und fahren Sie weiter zur Villa Valmarana.\nMittags erklimmen Sie den Monte Berico für einen Panoramablick über die Stadt. Mit dem Fahrrad sind die Hügel sportlich, aber lohnenswert.\nBeenden Sie Ihre Tour im Stadtzentrum bei Palladios Architektur-Highlights wie dem Teatro Olimpico.",
+            "hu": "Tekerj el a pompás villákhoz Vicenza kapuinál. Kezdj a híres Villa La Rotondánál, majd folytasd a Villa Valmaranával.\nDélben mássz fel a Monte Bericóra a városi panorámáért. Biciklivel a dombok sportosak, de megérik a fáradtságot.\nZárd a túrát a belvárosban, Palladio építészeti remekműveinél, mint a Teatro Olimpico.",
+            "ro": "Pedalați către vilele splendide de la marginea orașului Vicenza. Începeți la faimoasa Villa La Rotonda și continuați spre Villa Valmarana.\nLa prânz, urcați pe Monte Berico pentru o vedere panoramică asupra orașului. Dealurile sunt provocatoare cu bicicleta, dar merită.\nÎncheiați turul în centrul orașului, la punctele culminante ale arhitecturii lui Palladio, cum ar fi Teatro Olimpico.",
+            "en": "Cycle to the magnificent villas on the outskirts of Vicenza. Start at the famous Villa La Rotonda and continue to Villa Valmarana.\nAt midday, climb Monte Berico for a panoramic view over the city. The hills are a workout by bike, but definitely worth it.\nEnd your tour in the city center at Palladio's architectural highlights, including the Teatro Olimpico."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa La Rotonda",
+                "hu": "Villa La Rotonda",
+                "ro": "Villa La Rotonda",
+                "en": "Villa La Rotonda"
+              },
+              "tip_5lang": {
+                "de": "Palladios berühmteste Villa auf dem Hügel.",
+                "hu": "Palladio leghíresebb villája a dombon.",
+                "ro": "Cea mai faimoasă vilă a lui Palladio pe deal.",
+                "en": "Palladio's most famous villa located on the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Valmarana ai Nani",
+                "hu": "Villa Valmarana ai Nani",
+                "ro": "Villa Valmarana ai Nani",
+                "en": "Villa Valmarana ai Nani"
+              },
+              "tip_5lang": {
+                "de": "Berühmt für die Tiepolo-Fresken.",
+                "hu": "Híres a Tiepolo-freskókról.",
+                "ro": "Faimoasă pentru frescele lui Tiepolo.",
+                "en": "Famous for the frescoes by Tiepolo."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario di Monte Berico",
+                "hu": "Monte Berico kegyhely",
+                "ro": "Santuariul Monte Berico",
+                "en": "Sanctuary of Monte Berico"
+              },
+              "tip_5lang": {
+                "de": "Steiler Aufstieg, aber tolle Aussicht.",
+                "hu": "Meredek emelkedő, de pazar kilátás.",
+                "ro": "Urcare abruptă, dar vedere superbă.",
+                "en": "Steep climb, but offers a great view."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza dei Signori",
+                "hu": "Piazza dei Signori",
+                "ro": "Piazza dei Signori",
+                "en": "Piazza dei Signori"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in der Fußgängerzone.",
+                "hu": "A sétálóövezetben told a biciklit.",
+                "ro": "Împingeți bicicleta în zona pietonală.",
+                "en": "Walk your bike in the pedestrian zone."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Olimpico",
+                "hu": "Teatro Olimpico",
+                "ro": "Teatro Olimpico",
+                "en": "Teatro Olimpico"
+              },
+              "tip_5lang": {
+                "de": "Fahrradparkplätze am Eingang vorhanden.",
+                "hu": "Kerékpártárolók a bejáratnál.",
+                "ro": "Parcări de biciclete la intrare.",
+                "en": "Bike parking available at the entrance."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pasta e Fagioli",
+                "tip": "Herzhafte Nudeln mit Bohnen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pasta e Fagioli",
+                "tip": "Kiadós tészta babbal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pasta e Fagioli",
+                "tip": "Paste consistente cu fasole."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pasta e Fagioli",
+                "tip": "Hearty pasta with beans."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Viale X Giugno",
+                "tip": "Schattige Straße zum Hügel.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Viale X Giugno",
+                "tip": "Árnyas út a dombra.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Viale X Giugno",
+                "tip": "Drum umbrit spre deal.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Viale X Giugno",
+                "tip": "Shaded road leading to the hill.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Mercato settimanale",
+                "tip": "Wochenmarkt (Dienstag)."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mercato settimanale",
+                "tip": "Heti piac (kedd)."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mercato settimanale",
+                "tip": "Piață săptămânală (marți)."
+              }
+            ],
+            "en": [
+              {
+                "name": "Mercato settimanale",
+                "tip": "Weekly market (Tuesday)."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen für die Abfahrt vom Monte Berico.",
+              "Nutzen Sie den Radweg 'Ciclabile della Riviera Berica'.",
+              "In der Altstadt ist Kopfsteinpflaster häufig.",
+              "Vermeiden Sie die Hauptverkehrsstraßen."
+            ],
+            "hu": [
+              "Ellenőrizd a fékeidet a Monte Bericóról lefelé.",
+              "Használd a 'Ciclabile della Riviera Berica' kerékpárutat.",
+              "A belvárosban gyakori a macskakő.",
+              "Kerüld a fő közlekedési utakat."
+            ],
+            "ro": [
+              "Verificați frânele pentru coborârea de pe Monte Berico.",
+              "Folosiți pista de biciclete 'Ciclabile della Riviera Berica'.",
+              "În centrul vechi este mult pavaj cu piatră cubică.",
+              "Evitați drumurile principale de trafic."
+            ],
+            "en": [
+              "Check your brakes for the descent from Monte Berico.",
+              "Use the 'Ciclabile della Riviera Berica' bike path.",
+              "Cobblestones are common in the old town.",
+              "Avoid the main high-traffic roads."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig zur Villa La Rotonda, während der Regen die Landschaft erfrischt. Mittags bietet der Portikus zum Sanctuary of Monte Berico Schutz beim Aufstieg. Nachmittags kehren Sie in die Stadt zurück und nutzen die Fahrradständer nahe der Arkaden. Den Abend lassen Sie in einem fahrradfreundlichen Café in der Nähe der Piazza dei Signori ausklingen.",
+            "hu": "Tekerjen óvatosan a Villa La Rotonda felé, miközben az eső felfrissíti a tájat. Délben a Monte Berico felé vezető árkádsor nyújt védelmet az emelkedőn. Délután térjen vissza a városba, és használja az árkádok közeli tárolókat. Az estét egy kerékpárosbarát kávézóban zárja a Piazza dei Signori közelében.",
+            "ro": "Pedalați cu atenție spre Villa La Rotonda în timp ce ploaia împrospătează peisajul. La prânz, porticul spre Monte Berico oferă protecție pe urcare. După-amiaza, reveniți în oraș și folosiți parcările de biciclete de lângă arcade. Încheiați seara într-o cafenea primitoare lângă Piazza dei Signori.",
+            "en": "Cycle carefully to Villa La Rotonda as the rain refreshes the landscape. At midday, the long portico leading to Monte Berico provides shelter during the climb. In the afternoon, return to the city and use bike racks near the arcades. Spend your evening at a bike-friendly cafe near Piazza dei Signori."
+          },
+          "stops": [
+            {
+              "name": "Villa La Rotonda",
+              "tip_5lang": {
+                "de": "Gravel-Wege können matschig sein; Schutzbleche empfohlen.",
+                "hu": "A kavicsos utak sárosak lehetnek; sárvédő ajánlott.",
+                "ro": "Drumurile cu pietriș pot fi noroioase; folosiți apărători.",
+                "en": "Gravel paths can be muddy; mudguards are highly recommended."
+              }
+            },
+            {
+              "name": "Villa Valmarana ai Nani",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Gras oder Stein.",
+                "hu": "Vigyázzon a leszálláskor a vizes fűvön vagy kövön.",
+                "ro": "Atenție la coborârea de pe bicicletă pe iarbă sau piatră umedă.",
+                "en": "Be careful when dismounting on wet grass or stone surfaces."
+              }
+            },
+            {
+              "name": "Sanctuary of Monte Berico",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Portikus für den Weg nach oben.",
+                "hu": "Használja a fedett árkádsort a felfelé vezető úton.",
+                "ro": "Folosiți porticul acoperit pentru drumul spre vârf.",
+                "en": "Use the covered portico for the way up to the sanctuary."
+              }
+            },
+            {
+              "name": "Piazza dei Signori",
+              "tip_5lang": {
+                "de": "Glattes Kopfsteinpflaster; bei Nässe langsam bremsen.",
+                "hu": "Csúszós macskakő; nedves időben lassabban fékezzen.",
+                "ro": "Pavaj alunecos; frânați cu prudență pe ploaie.",
+                "en": "Slippery cobblestones; brake slowly in wet conditions."
+              }
+            },
+            {
+              "name": "Teatro Olimpico",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich oft in der Nähe.",
+                "hu": "Fedett kerékpártárolók gyakran találhatók a közelben.",
+                "ro": "Parcări de biciclete acoperite se găsesc adesea în apropiere.",
+                "en": "Covered bike racks can often be found nearby."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Kleidung und nutzen Sie einen Sattelschutz.",
+              "Vermeiden Sie abrupte Bremsmanöver auf nassem Kopfsteinpflaster.",
+              "Die Portiken zum Monte Berico sind perfekt für Radfahrer bei Regen.",
+              "Prüfen Sie Ihre Beleuchtung; die Sicht ist bei Regen oft eingeschränkt.",
+              "Nutzen Sie die Radwege entlang des Flusses Bacchiglione, aber achten Sie auf Pfützen."
+            ],
+            "hu": [
+              "Viseljen vízálló ruházatot és használjon nyeregvédőt.",
+              "Kerülje a hirtelen fékezést a vizes macskakövön.",
+              "A Monte Bericóhoz vezető árkádsor tökéletes kerékpárosoknak esőben.",
+              "Ellenőrizze a világítást; a látási viszonyok rosszabbak esőben.",
+              "Használja a Bacchiglione folyó menti utakat, de figyeljen a tócsákra."
+            ],
+            "ro": [
+              "Purtați haine impermeabile și folosiți o protecție pentru șa.",
+              "Evitați frânarea bruscă pe pavajul umed.",
+              "Porticurile spre Monte Berico sunt ideale pentru bicicliști pe ploaie.",
+              "Verificați luminile; vizibilitatea este redusă când plouă.",
+              "Folosiți pistele de-a lungul râului Bacchiglione, dar atenție la bălți."
+            ],
+            "en": [
+              "Wear waterproof gear and use a saddle cover to keep dry.",
+              "Avoid sudden braking on wet cobblestones to prevent skidding.",
+              "The porticoes leading to Monte Berico are perfect for cyclists in rain.",
+              "Check your bike lights; visibility is often reduced during rain showers.",
+              "Use the paths along the Bacchiglione river but watch out for large puddles."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie bei frischer Winterluft zur Villa La Rotonda. Mittags wärmt die Sonne oft den Aufstieg zum Monte Berico. Genießen Sie die klare Sicht über die schneebedeckten Alpen in der Ferne. Am Nachmittag radeln Sie durch die festlich beleuchtete Innenstadt. Den Abend verbringen Sie gemütlich, bevor Sie Ihr Rad sicher für die Nacht abstellen.",
+            "hu": "Induljon a friss téli levegőn a Villa La Rotonda felé. Délben a nap gyakran kellemesen süti a Monte Bericóra vezető utat. Élvezze a tiszta kilátást a távoli, havas Alpokra. Délután tekerjen át az ünnepi fényekben úszó belvároson. Az estét töltsön egy meleg helyen, mielőtt biztonságba helyezné kerékpárját.",
+            "ro": "Porniți în aerul proaspăt de iarnă spre Villa La Rotonda. La prânz, soarele încălzește adesea urcarea spre Monte Berico. Admirați vederea clară spre Alpii înzăpeziți în depărtare. După-amiaza, pedalați prin centrul decorat festiv. Seara, relaxați-vă într-un loc cald înainte de a parca bicicleta.",
+            "en": "Start your ride in the fresh winter air towards Villa La Rotonda. At midday, the sun often warms the climb up to Monte Berico. Enjoy the clear views of the snowy Alps in the distance. In the afternoon, cycle through the festively lit city center. Spend your evening in a cozy spot before parking your bike for the night."
+          },
+          "stops": [
+            {
+              "name": "Villa La Rotonda",
+              "tip_5lang": {
+                "de": "Im Winter oft nur von außen zu besichtigen; prüfen Sie die Zeiten.",
+                "hu": "Télen gyakran csak kívülről nézhető; ellenőrizze a nyitvatartást.",
+                "ro": "Iarna se poate vizita adesea doar exteriorul; verificați programul.",
+                "en": "Often open only for exterior viewing in winter; check schedules."
+              }
+            },
+            {
+              "name": "Villa Valmarana ai Nani",
+              "tip_5lang": {
+                "de": "Die Cafeteria ist ein guter Ort für einen warmen Tee.",
+                "hu": "A kávézó remek hely egy forró teához.",
+                "ro": "Cafeneaua este un loc bun pentru un ceai cald.",
+                "en": "The cafeteria is a great spot for a warm tea break."
+              }
+            },
+            {
+              "name": "Sanctuary of Monte Berico",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisstellen auf dem Weg nach oben am frühen Morgen.",
+                "hu": "Kora reggel figyeljen a jeges foltokra a felfelé vezető úton.",
+                "ro": "Atenție la porțiunile înghețate de pe drum dimineața devreme.",
+                "en": "Watch out for icy patches on the way up in the early morning."
+              }
+            },
+            {
+              "name": "Piazza dei Signori",
+              "tip_5lang": {
+                "de": "Zentraler Punkt für den Weihnachtsmarkt im Dezember.",
+                "hu": "A karácsonyi vásár központi helyszíne decemberben.",
+                "ro": "Punct central pentru târgul de Crăciun în decembrie.",
+                "en": "Central location for the Christmas market in December."
+              }
+            },
+            {
+              "name": "Teatro Olimpico",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Theater am Nachmittag, wenn es draußen kälter wird.",
+                "hu": "Látogassa meg a színházat délután, amikor kint hűvösebb lesz.",
+                "ro": "Vizitați teatrul după-amiaza, când afară se face mai frig.",
+                "en": "Visit the theater in the afternoon as it gets colder outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe und eine Mütze unter dem Helm gegen den Fahrtwind.",
+              "Die Sonne geht früh unter (ca. 16:45 Uhr); sorgen Sie für gute Beleuchtung.",
+              "Prüfen Sie den Reifendruck, da Luft bei Kälte an Volumen verliert.",
+              "Die Steigung zum Monte Berico hält Sie warm, aber Vorsicht bei der Abfahrt.",
+              "Genießen Sie die klare Winterluft, die oft eine bessere Fernsicht bietet."
+            ],
+            "hu": [
+              "Viseljen kesztyűt és sapkát a sisak alatt a menetszél ellen.",
+              "A nap korán nyugszik (kb. 16:45), gondoskodjon a jó világításról.",
+              "Ellenőrizze a guminyomást, mert a hidegben csökkenhet.",
+              "A Monte Berico emelkedője melegen tart, de lefelé legyen óvatos.",
+              "Élvezze a tiszta téli levegőt, ami gyakran jobb kilátást biztosít."
+            ],
+            "ro": [
+              "Purtați mănuși și o căciulă sub cască împotriva curentului de aer.",
+              "Soarele apune devreme (aprox. 16:45); asigurați-vă că aveți lumini bune.",
+              "Verificați presiunea în pneuri, deoarece scade la temperaturi mici.",
+              "Urcarea spre Monte Berico vă va încălzi, dar atenție la coborâre.",
+              "Bucurați-vă de aerul curat de iarnă care oferă o vizibilitate mai bună."
+            ],
+            "en": [
+              "Wear gloves and a hat under your helmet to block the cold wind.",
+              "Sunset is early (around 4:45 PM); ensure your bike lights are working.",
+              "Check tire pressure as it can drop in colder temperatures.",
+              "The climb to Monte Berico will keep you warm, but be careful on the descent.",
+              "Enjoy the crisp winter air, which often provides much clearer views."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -746,6 +1498,366 @@
           "Drive carefully on narrow hill roads.",
           "Navigation systems sometimes lead to dead ends."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Das Auto ermöglicht einen entspannten Besuch der Sehenswürdigkeiten auf dem Hügel und in der Stadt. Beginnen Sie mit dem Monte Berico für den besten Überblick.\nAnschließend besuchen Sie Palladios Meisterwerk, die Villa La Rotonda, bevor Sie ins Stadtzentrum zurückkehren.\nIm Zentrum können Sie bequem parken und das Teatro Olimpico sowie die Basilica Palladiana zu Fuß erkunden.",
+            "hu": "Az autó lehetővé teszi a dombtetőn és a városban lévő látnivalók kényelmes meglátogatását. Kezdj a Monte Bericónál a legjobb rálátásért.\nEzután látogasd meg Palladio mesterművét, a Villa La Rotondát, mielőtt visszatérnél a belvárosba.\nA központban kényelmesen parkolhatsz, majd gyalog fedezheted fel a Teatro Olimpicót és a Basilica Palladianát.",
+            "ro": "Mașina permite o vizitare relaxată a atracțiilor de pe deal și din oraș. Începeți cu Monte Berico pentru cea mai bună perspectivă.\nUlterior, vizitați capodopera lui Palladio, Villa La Rotonda, înainte de a reveni în centrul orașului.\nÎn centru puteți parca confortabil și puteți explora pe jos Teatro Olimpico și Basilica Palladiana.",
+            "en": "The car allows for a relaxed visit to both the hilltop and city attractions. Start with Monte Berico for the best overall view.\nFollow this with a visit to Palladio's masterpiece, Villa La Rotonda, before heading back into the city center.\nIn the center, you can park conveniently and explore Teatro Olimpico and Basilica Palladiana on foot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santuario di Monte Berico",
+                "hu": "Monte Berico kegyhely",
+                "ro": "Santuariul Monte Berico",
+                "en": "Sanctuary of Monte Berico"
+              },
+              "tip_5lang": {
+                "de": "Großer kostenloser Parkplatz vorhanden.",
+                "hu": "Nagy ingyenes parkoló áll rendelkezésre.",
+                "ro": "Parcare mare gratuită disponibilă.",
+                "en": "Large free parking lot available."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa La Rotonda",
+                "hu": "Villa La Rotonda",
+                "ro": "Villa La Rotonda",
+                "en": "Villa La Rotonda"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie an der Straße entlang der Villa.",
+                "hu": "Parkolj a villa menti úton.",
+                "ro": "Parcați pe drumul de lângă vilă.",
+                "en": "Park on the road alongside the villa."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza dei Signori",
+                "hu": "Piazza dei Signori",
+                "ro": "Piazza dei Signori",
+                "en": "Piazza dei Signori"
+              },
+              "tip_5lang": {
+                "de": "Parkhaus 'Matteotti' ist am nächsten.",
+                "hu": "A 'Matteotti' parkolóház van a legközelebb.",
+                "ro": "Parcarea 'Matteotti' este cea mai apropiată.",
+                "en": "Parking garage 'Matteotti' is the nearest."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Olimpico",
+                "hu": "Teatro Olimpico",
+                "ro": "Teatro Olimpico",
+                "en": "Teatro Olimpico"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Zeit für die Multimedia-Show ein.",
+                "hu": "Tervezz időt a multimédiás bemutatóra.",
+                "ro": "Rezervați timp pentru spectacolul multimedia.",
+                "en": "Plan time for the multimedia show."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Bissara",
+                "hu": "Torre Bissara",
+                "ro": "Torre Bissara",
+                "en": "Torre Bissara"
+              },
+              "tip_5lang": {
+                "de": "Der markante Turm neben der Basilika.",
+                "hu": "A bazilika melletti jellegzetes torony.",
+                "ro": "Turnul distinctiv de lângă bazilică.",
+                "en": "The prominent tower next to the basilica."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Ristorante 7 Santi",
+                "tip": "Gutes Essen mit Blick vom Hügel."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Ristorante 7 Santi",
+                "tip": "Jó étel kilátással a dombról."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ristorante 7 Santi",
+                "tip": "Mâncare bună cu vedere de pe deal."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ristorante 7 Santi",
+                "tip": "Good food with a view from the hill."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Piazzale della Vittoria",
+                "tip": "Bester Aussichtspunkt für Sonnenuntergang.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Piazzale della Vittoria",
+                "tip": "A legjobb kilátópont naplementéhez.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Piazzale della Vittoria",
+                "tip": "Cel mai bun punct de observație pentru apus.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Piazzale della Vittoria",
+                "tip": "Best viewpoint for sunset.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Palladio Shopping Center",
+                "tip": "Großes Einkaufszentrum an der Autobahn."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Palladio Shopping Center",
+                "tip": "Nagy bevásárlóközpont az autópálya mellett."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Palladio Shopping Center",
+                "tip": "Centru comercial mare lângă autostradă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Palladio Shopping Center",
+                "tip": "Large shopping center near the highway."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "ZTL Zonen im Zentrum strikt meiden.",
+              "Parkhaus 'Park Fogazzaro' ist oft frei.",
+              "Fahren Sie vorsichtig auf den schmalen Hügelstraßen.",
+              "Navigationsgeräte führen manchmal in Sackgassen."
+            ],
+            "hu": [
+              "Szigorúan kerüld a belvárosi ZTL zónákat.",
+              "A 'Park Fogazzaro' parkolóházban gyakran van hely.",
+              "Vezess óvatosan a szűk dombi utakon.",
+              "A navigáció néha zsákutcába vihet."
+            ],
+            "ro": [
+              "Evitați strict zonele ZTL din centru.",
+              "Parcarea 'Park Fogazzaro' are adesea locuri libere.",
+              "Conduceți cu atenție pe străzile înguste de pe deal.",
+              "GPS-ul vă poate duce uneori în fundături."
+            ],
+            "en": [
+              "Strictly avoid ZTL zones in the center.",
+              "Parking 'Park Fogazzaro' often has availability.",
+              "Drive carefully on narrow hill roads.",
+              "Navigation systems sometimes lead to dead ends."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bequem zum Monte Berico, während die Scheibenwischer den Regen bändigen. Mittags erreichen Sie die Villa La Rotonda trocken und warm. Parken Sie nachmittags im Parkhaus 'Matteotti' für einen kurzen Weg unter die Portiken der Innenstadt. Der Abend endet entspannt bei einer Fahrt durch die glänzenden, nassen Straßen der Stadt.",
+            "hu": "Autózzon kényelmesen a Monte Bericóhoz, miközben az ablaktörlők végzik a dolgukat. Délben érkezzen szárazon és melegen a Villa La Rotondához. Délután parkoljon a 'Matteotti' parkolóházban, ahonnan csak pár lépés az árkádsor. Az este pihentetően zárul a város csillogó, vizes utcáin áthaladva.",
+            "ro": "Conduceți confortabil spre Monte Berico în timp ce ștergătoarele îmblânzesc ploaia. La prânz, ajungeți la Villa La Rotonda uscați și la căldură. După-amiaza, parcați în garajul 'Matteotti' pentru acces rapid la porticurile din centru. Seara se încheie relaxat cu o plimbare pe străzile umede și strălucitoare.",
+            "en": "Drive comfortably to Monte Berico while the wipers handle the rain. At midday, arrive dry and warm at Villa La Rotonda. In the afternoon, park at the 'Matteotti' garage for quick access to the city's porticoes. Your evening ends with a relaxed drive through the shimmering, wet city streets."
+          },
+          "stops": [
+            {
+              "name": "Sanctuary of Monte Berico",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt vor dem Eingang vorhanden.",
+                "hu": "Nagy parkoló áll rendelkezésre közvetlenül a bejárat előtt.",
+                "ro": "Parcare mare disponibilă chiar în fața intrării.",
+                "en": "Large parking area available directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Villa La Rotonda",
+              "tip_5lang": {
+                "de": "Parken Sie entlang der Straße; achten Sie auf Pfützen beim Aussteigen.",
+                "hu": "Parkoljon az út mentén; figyeljen a tócsákra kiszálláskor.",
+                "ro": "Parcați de-a lungul drumului; atenție la bălți la coborâre.",
+                "en": "Park along the road; watch out for puddles when getting out."
+              }
+            },
+            {
+              "name": "Piazza dei Signori",
+              "tip_5lang": {
+                "de": "ZTL-Zone beachten! Nutzen Sie nahegelegene Parkhäuser.",
+                "hu": "Figyeljen a ZTL zónára! Használja a közeli parkolóházakat.",
+                "ro": "Atenție la zona ZTL! Folosiți parcările etajate din apropiere.",
+                "en": "Note the ZTL zone! Use nearby multi-story parking garages."
+              }
+            },
+            {
+              "name": "Teatro Olimpico",
+              "tip_5lang": {
+                "de": "Das Parken im Parkhaus 'Matteotti' ist bei Regen ideal.",
+                "hu": "A 'Matteotti' parkolóház ideális esőben.",
+                "ro": "Parcarea 'Matteotti' este ideală pe timp de ploaie.",
+                "en": "The 'Matteotti' parking garage is ideal during rainy weather."
+              }
+            },
+            {
+              "name": "Torre Bissara",
+              "tip_5lang": {
+                "de": "Vom Parkhaus bis zum Turm sind es nur wenige Minuten.",
+                "hu": "A parkolóháztól a toronyig csak pár perc séta.",
+                "ro": "De la parcare până la turn sunt doar câteva minute de mers.",
+                "en": "It is only a few minutes' walk from the parking garage to the tower."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Parkhäuser wie 'Fogazzaro' oder 'Matteotti', um trocken ins Zentrum zu kommen.",
+              "Achten Sie auf die ZTL-Zonen (eingeschränkter Verkehr) in der Altstadt.",
+              "Bei starkem Regen kann die Sicht auf den Hügeln eingeschränkt sein.",
+              "Halten Sie einen Regenschirm im Auto für die Wege vom Parkplatz bereit.",
+              "Die Straßen können rutschig sein; fahren Sie in Kurven vorsichtig."
+            ],
+            "hu": [
+              "Használja a 'Fogazzaro' vagy 'Matteotti' parkolókat a központhoz.",
+              "Ügyeljen a ZTL (korlátozott forgalmú) zónákra az óvárosban.",
+              "Nagy esőben a kilátás a dombokról korlátozott lehet.",
+              "Tartson esernyőt az autóban a parkolótól vezető utakra.",
+              "Az utak csúszósak lehetnek; vezessen óvatosan a kanyarokban."
+            ],
+            "ro": [
+              "Folosiți parcările 'Fogazzaro' sau 'Matteotti' pentru a ajunge în centru.",
+              "Atenție la zonele ZTL (trafic limitat) din centrul vechi.",
+              "Pe ploaie torențială, vizibilitatea de pe dealuri poate fi redusă.",
+              "Țineți o umbrelă în mașină pentru distanțele de la parcare.",
+              "Drumurile pot fi alunecoase; conduceți cu prudență în curbe."
+            ],
+            "en": [
+              "Use parking garages like 'Fogazzaro' or 'Matteotti' for easy city access.",
+              "Be careful with ZTL (restricted traffic) zones in the historic center.",
+              "In heavy rain, the view from the Berici hills might be obscured.",
+              "Keep an umbrella in the car for the short walks from the parking spots.",
+              "Roads can be slippery; drive carefully especially on the winding hill roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Fahrt zum winterlichen Monte Berico mit eingeschalteter Heizung. Mittags erstrahlt die Villa La Rotonda oft in klarem Sonnenlicht. Nachmittags ist die Fahrt durch die Stadt mit der festlichen Beleuchtung besonders stimmungsvoll. Den Abend lassen Sie in einem gemütlichen Restaurant ausklingen, während Ihr Auto sicher geparkt ist.",
+            "hu": "Élvezze az utat a téli Monte Bericóhoz bekapcsolt fűtéssel. Délben a Villa La Rotonda gyakran ragyog a tiszta napsütésben. Délután az ünnepi fényekkel díszített városon keresztül autózni különleges élmény. Az estét zárja egy hangulatos étteremben, miközben autója biztonságban pihen.",
+            "ro": "Bucurați-vă de drumul spre Monte Berico cu căldura pornită în mașină. La prânz, Villa La Rotonda strălucește adesea în lumina clară a soarelui. După-amiaza, condusul prin orașul decorat festiv este foarte atmosferic. Încheiați seara la un restaurant primitor, cu mașina parcată în siguranță.",
+            "en": "Enjoy the drive to wintery Monte Berico with the heater on. At midday, Villa La Rotonda often shines in the clear winter sunlight. In the afternoon, driving through the festively decorated city is particularly atmospheric. End your evening at a cozy restaurant while your car is safely parked."
+          },
+          "stops": [
+            {
+              "name": "Sanctuary of Monte Berico",
+              "tip_5lang": {
+                "de": "Die Aussichtsplattform kann im Winter sehr kalt und windig sein.",
+                "hu": "A kilátóterasz télen nagyon hideg és szeles lehet.",
+                "ro": "Platforma de observație poate fi foarte rece și vântoasă iarna.",
+                "en": "The observation deck can be very cold and windy in winter."
+              }
+            },
+            {
+              "name": "Villa La Rotonda",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob Winterreifen oder Ketten erforderlich sind (Pflicht in der Region).",
+                "hu": "Ellenőrizze a téli gumi vagy lánc meglétét (kötelező a régióban).",
+                "ro": "Verificați dacă sunt necesare anvelope de iarnă (obligatorii în regiune).",
+                "en": "Check if winter tires or chains are required (mandatory in the region)."
+              }
+            },
+            {
+              "name": "Piazza dei Signori",
+              "tip_5lang": {
+                "de": "Nahegelegene Parkplätze sind im Winter schnell belegt.",
+                "hu": "A közeli parkolóhelyek télen gyorsan megtelnek.",
+                "ro": "Parcările din apropiere se ocupă rapid în timpul iernii.",
+                "en": "Nearby parking spots fill up quickly during the winter season."
+              }
+            },
+            {
+              "name": "Teatro Olimpico",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz minimieren die Zeit in der Kälte.",
+                "hu": "A parkolótól vezető rövid út csökkenti a hidegben töltött időt.",
+                "ro": "Distanța scurtă de la parcare minimizează timpul petrecut în frig.",
+                "en": "Short walks from the parking lot minimize time spent in the cold."
+              }
+            },
+            {
+              "name": "Torre Bissara",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Turm, wenn die Abendbeleuchtung eingeschaltet wird.",
+                "hu": "Látogassa meg a tornyot, amikor felkapcsolják az esti kivilágítást.",
+                "ro": "Vizitați turnul când se aprinde iluminatul de seară.",
+                "en": "Visit the tower just as the evening lights are switched on."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen oder Schneeketten sind in dieser Region vom 15. Nov. bis 15. April Pflicht.",
+              "Vermeiden Sie Fahrten am frühen Morgen bei möglichem Glatteis auf den Hügeln.",
+              "Die ZTL-Zonen gelten auch im Winter; Parkhäuser sind die sicherste Wahl.",
+              "Lassen Sie den Motor nicht im Stand warmlaufen (Umweltschutz).",
+              "Genießen Sie die bequeme Wärme des Autos zwischen den Besichtigungen."
+            ],
+            "hu": [
+              "Téli gumi vagy hólánc kötelező a régióban nov. 15. és ápr. 15. között.",
+              "Kerülje a kora reggeli vezetést a dombokon az esetleges jegesedés miatt.",
+              "A ZTL zónák télen is érvényesek; a parkolóházak a legjobb választások.",
+              "Ne járassa álló helyzetben a motort a bemelegítéshez.",
+              "Élvezze az autó kényelmes melegét a látnivalók között."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sau lanțurile sunt obligatorii între 15 noiembrie și 15 aprilie.",
+              "Evitați condusul dimineața devreme pe dealuri din cauza posibilului polei.",
+              "Zonele ZTL sunt valabile și iarna; parcările etajate sunt cea mai bună opțiune.",
+              "Nu lăsați motorul pornit pe loc pentru a se încălzi.",
+              "Bucurați-vă de căldura mașinii între punctele de vizitare."
+            ],
+            "en": [
+              "Winter tires or chains are mandatory in this region from Nov 15 to April 15.",
+              "Avoid driving early in the morning on hill roads due to potential black ice.",
+              "ZTL zones remain active in winter; parking garages are your safest bet.",
+              "Do not leave the engine idling to warm up the car (environmental rules).",
+              "Enjoy the comfort and warmth of your vehicle between sightseeing stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -985,6 +2097,366 @@
           "Buses run less frequently on weekends.",
           "Always validate your ticket upon boarding."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Vicenza lässt sich gut mit dem Busnetz erkunden. Starten Sie am Bahnhof und fahren Sie ins Herz der Stadt zum Corso Palladio und zum Teatro Olimpico.\nMittags bringt Sie die Linie 18 bequem hinauf zum Monte Berico, ohne dass Sie zu Fuß gehen müssen.\nBeenden Sie Ihren Tag auf der Piazza dei Signori und genießen Sie die Palladio-Architektur, bevor Sie mit dem Bus zurück zum Bahnhof fahren.",
+            "hu": "Vicenza jól felfedezhető a buszhálózattal. Kezdj a pályaudvaron, és utazz a város szívébe, a Corso Palladióhoz és a Teatro Olimpicóhoz.\nDélben a 18-as vonal kényelmesen felvisz a Monte Bericóra, így nem kell gyalogolnod.\nZárd a napot a Piazza dei Signori téren, élvezd Palladio építészetét, mielőtt busszal visszamennél a pályaudvarra.",
+            "ro": "Vicenza poate fi explorată ușor cu rețeaua de autobuze. Începeți de la gară și mergeți spre inima orașului la Corso Palladio și Teatro Olimpico.\nLa prânz, linia 18 vă duce confortabil sus pe Monte Berico, fără a fi nevoie să mergeți pe jos.\nÎncheiați ziua în Piazza dei Signori și bucurați-vă de arhitectura lui Palladio înainte de a lua autobuzul înapoi spre gară.",
+            "en": "Vicenza is easy to explore using the bus network. Start at the railway station and travel to the heart of the city at Corso Palladio and Teatro Olimpico.\nAt midday, line 18 takes you comfortably up to Monte Berico, saving you the walk up the hill.\nEnd your day at Piazza dei Signori to admire Palladio's architecture before taking a bus back to the station."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Vicenza",
+                "hu": "Vicenzai pályaudvar",
+                "ro": "Gara din Vicenza",
+                "en": "Vicenza Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Busbahnhof direkt nebenan.",
+                "hu": "Buszpályaudvar közvetlenül mellette.",
+                "ro": "Autogara este chiar alături.",
+                "en": "Bus station is located right next door."
+              }
+            },
+            {
+              "name": {
+                "de": "Corso Andrea Palladio",
+                "hu": "Corso Andrea Palladio",
+                "ro": "Corso Andrea Palladio",
+                "en": "Corso Andrea Palladio"
+              },
+              "tip_5lang": {
+                "de": "Viele Buslinien halten hier.",
+                "hu": "Sok buszvonal megáll itt.",
+                "ro": "Multe linii de autobuz opresc aici.",
+                "en": "Many bus lines stop here."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Olimpico",
+                "hu": "Teatro Olimpico",
+                "ro": "Teatro Olimpico",
+                "en": "Teatro Olimpico"
+              },
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg von der Bushaltestelle.",
+                "hu": "Csak 5 perc séta a buszmegállótól.",
+                "ro": "La doar 5 minute de mers de la stație.",
+                "en": "Only a 5-minute walk from the bus stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario di Monte Berico",
+                "hu": "Monte Berico kegyhely",
+                "ro": "Santuariul Monte Berico",
+                "en": "Sanctuary of Monte Berico"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus Linie 18 zum Hügel.",
+                "hu": "Használd a 18-as buszt a dombra.",
+                "ro": "Folosiți autobuzul linia 18 spre deal.",
+                "en": "Use bus line 18 to reach the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza dei Signori",
+                "hu": "Piazza dei Signori",
+                "ro": "Piazza dei Signori",
+                "en": "Piazza dei Signori"
+              },
+              "tip_5lang": {
+                "de": "Zentraler Platz im Herzen der Stadt.",
+                "hu": "Központi tér a város szívében.",
+                "ro": "Piață centrală în inima orașului.",
+                "en": "Central square in the heart of the city."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pasticceria Bolzani",
+                "tip": "Hervorragendes Gebäck nahe der Bushaltestelle."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pasticceria Bolzani",
+                "tip": "Kiváló sütemények a buszmegálló közelében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pasticceria Bolzani",
+                "tip": "Patiserie excelentă lângă stația de autobuz."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pasticceria Bolzani",
+                "tip": "Excellent pastries near the bus stop."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Campo Marzo",
+                "tip": "Großer Park vor dem Bahnhof.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Campo Marzo",
+                "tip": "Nagy park a pályaudvar előtt.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Campo Marzo",
+                "tip": "Parc mare în fața gării.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Campo Marzo",
+                "tip": "Large park located in front of the station.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Libreria Galla",
+                "tip": "Historische Buchhandlung."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Libreria Galla",
+                "tip": "Történelmi könyvesbolt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Libreria Galla",
+                "tip": "Librărie istorică."
+              }
+            ],
+            "en": [
+              {
+                "name": "Libreria Galla",
+                "tip": "Historic bookstore."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets in 'Tabacchi'-Läden.",
+              "Die Linie 1 ist die wichtigste Stadtlinie.",
+              "Busse fahren am Wochenende seltener.",
+              "Validieren Sie Ihr Ticket beim Einsteigen."
+            ],
+            "hu": [
+              "Vegyél jegyet a 'Tabacchi' üzletekben.",
+              "Az 1-es vonal a legfontosabb városi járat.",
+              "Hétvégén ritkábban járnak a buszok.",
+              "Érvényesítsd a jegyedet felszálláskor."
+            ],
+            "ro": [
+              "Cumpărați bilete de la magazinele 'Tabacchi'.",
+              "Linia 1 este cea mai importantă linie urbană.",
+              "Autobuzele circulă mai rar în weekend.",
+              "Validați biletul la urcare."
+            ],
+            "en": [
+              "Buy tickets at 'Tabacchi' shops.",
+              "Line 1 is the primary city route.",
+              "Buses run less frequently on weekends.",
+              "Always validate your ticket upon boarding."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Kommen Sie entspannt am Bahnhof an und nutzen Sie die Busse ins Zentrum. Mittags bringen Sie die Linien trocken zum Corso Palladio. Nachmittags ist die Fahrt zum Monte Berico mit dem Bus eine trockene Alternative zum Aufstieg. Den Abend verbringen Sie in der Innenstadt, bevor Sie bequem mit dem Bus oder Zug zurückfahren.",
+            "hu": "Érkezzen pihenten a vasútállomásra, és használja a buszokat a központba. Délben a járatok szárazon viszik a Corso Palladióhoz. Délután a Monte Bericóra való buszozás remek száraz alternatíva a gyaloglás helyett. Az estét töltse a belvárosban, majd kényelmesen utazzon vissza busszal vagy vonattal.",
+            "ro": "Ajungeți relaxat la gară și folosiți autobuzele spre centru. La prânz, liniile vă duc uscați spre Corso Palladio. După-amiaza, drumul spre Monte Berico cu autobuzul este o alternativă uscată la urcarea pe jos. Seara, bucurați-vă de centru înainte de a reveni confortabil cu transportul public.",
+            "en": "Arrive relaxed at the station and take the bus to the city center. At midday, transit lines keep you dry on your way to Corso Palladio. In the afternoon, taking the bus to Monte Berico is a great dry alternative to climbing up. Spend your evening downtown before a comfortable return by bus or train."
+          },
+          "stops": [
+            {
+              "name": "Vicenza Railway Station",
+              "tip_5lang": {
+                "de": "Große Wartehalle bietet Schutz bei Zugverspätungen.",
+                "hu": "A nagy váróterem védelmet nyújt vonatitkés esetén.",
+                "ro": "Sala de așteptare mare oferă adăpost în caz de întârzieri.",
+                "en": "The large waiting hall provides shelter in case of train delays."
+              }
+            },
+            {
+              "name": "Corso Andrea Palladio",
+              "tip_5lang": {
+                "de": "Bushaltestellen befinden sich oft direkt an den Portiken.",
+                "hu": "A buszmegállók gyakran közvetlenül az árkádoknál vannak.",
+                "ro": "Stațiile de autobuz sunt adesea chiar lângă porticuri.",
+                "en": "Bus stops are often located right next to the porticoes."
+              }
+            },
+            {
+              "name": "Teatro Olimpico",
+              "tip_5lang": {
+                "de": "Die Linie 1 hält ganz in der Nähe des Eingangs.",
+                "hu": "Az 1-es busz megállója nagyon közel van a bejárathoz.",
+                "ro": "Linia 1 oprește foarte aproape de intrare.",
+                "en": "Bus line 1 stops very close to the theater entrance."
+              }
+            },
+            {
+              "name": "Sanctuary of Monte Berico",
+              "tip_5lang": {
+                "de": "Nehmen Sie die Linie 18, um den nassen Aufstieg zu vermeiden.",
+                "hu": "Vegyék a 18-as buszt, hogy elkerüljék a vizes emelkedőt.",
+                "ro": "Luați linia 18 pentru a evita urcarea pe jos prin ploaie.",
+                "en": "Take bus line 18 to avoid the wet climb up the hill."
+              }
+            },
+            {
+              "name": "Piazza dei Signori",
+              "tip_5lang": {
+                "de": "Von den Bushaltestellen im Zentrum sind es nur kurze Wege.",
+                "hu": "A belvárosi buszmegállóktól csak rövid séta az út.",
+                "ro": "De la stațiile de autobuz centrale sunt distanțe scurte.",
+                "en": "It is only a short walk from the central bus stops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab über die 'SVT Vicenza' App, um im Regen nicht zu suchen.",
+              "Die meisten Bushaltestellen im Zentrum sind überdacht.",
+              "Nutzen Sie die Linie 18 für den Monte Berico bei schlechtem Wetter.",
+              "Prüfen Sie die Echtzeit-Abfahrten online, um Wartezeiten im Freien zu minimieren.",
+              "Vermeiden Sie Stoßzeiten, wenn die Busse bei Regen oft voller sind."
+            ],
+            "hu": [
+              "Vásároljon jegyet előre az 'SVT Vicenza' alkalmazással az esőben való keresgélés helyett.",
+              "A legtöbb belvárosi buszmegálló fedett.",
+              "Használja a 18-as járatot a Monte Bericóhoz rossz idő esetén.",
+              "Ellenőrizze a valós idejű indulásokat online, hogy keveset várjon kint.",
+              "Kerülje a csúcsidőt, mert esőben a buszok gyakran zsúfoltabbak."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans prin aplicația 'SVT Vicenza' pentru a nu căuta prin ploaie.",
+              "Majoritatea stațiilor de autobuz din centru sunt acoperite.",
+              "Folosiți linia 18 pentru Monte Berico în caz de vreme rea.",
+              "Verificați plecările în timp real online pentru a minimiza așteptarea afară.",
+              "Evitați orele de vârf, autobuzele sunt mai aglomerate când plouă."
+            ],
+            "en": [
+              "Buy tickets in advance via the 'SVT Vicenza' app to avoid searching in the rain.",
+              "Most bus stops in the city center are covered and provide shelter.",
+              "Use bus line 18 for easy access to Monte Berico in bad weather.",
+              "Check real-time departures online to minimize waiting time outdoors.",
+              "Avoid peak hours as buses tend to be more crowded during rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour am warmen Bahnhof von Vicenza. Mittags bringen Sie die gut beheizten Busse schnell zu den Palladio-Villen. Genießen Sie die klare Winterluft bei kurzen Wegen zwischen den Haltestellen. Den Abend verbringen Sie in der beleuchteten Innenstadt, bevor Sie den letzten Bus oder Zug zurück nehmen.",
+            "hu": "Kezdje téli túráját a Vicenza vasútállomás melegében. Délben a jól fűtött buszok gyorsan elviszik a Palladio-villákhoz. Élvezze a tiszta téli levegőt a megállók közötti rövid séták alatt. Az estét töltse a kivilágított belvárosban, mielőtt elérné az utolsó buszt vagy vonatot.",
+            "ro": "Porniți turul de iarnă din gara Vicenza, la căldură. La prânz, autobuzele bine încălzite vă duc rapid la vilele lui Palladio. Bucurați-vă de aerul curat de iarnă pe distanțele scurte dintre stații. Seara, admirați centrul luminat înainte de a lua ultimul autobuz sau tren.",
+            "en": "Start your winter tour in the warmth of Vicenza Railway Station. At midday, well-heated buses take you quickly to the Palladian villas. Enjoy the crisp winter air during short walks between stops. Spend your evening in the illuminated city center before catching the last bus or train back."
+          },
+          "stops": [
+            {
+              "name": "Vicenza Railway Station",
+              "tip_5lang": {
+                "de": "Kiosk im Bahnhof bietet heiße Getränke für die Fahrt.",
+                "hu": "Az állomási büfé forró italokat kínál az útra.",
+                "ro": "Chioșcul din gară oferă băuturi calde pentru drum.",
+                "en": "The station kiosk offers hot drinks for your journey."
+              }
+            },
+            {
+              "name": "Corso Andrea Palladio",
+              "tip_5lang": {
+                "de": "Zentraler Umstiegspunkt mit vielen Linien in alle Richtungen.",
+                "hu": "Központi átszállási pont számos járattal minden irányba.",
+                "ro": "Punct central de transfer cu multe linii în toate direcțiile.",
+                "en": "Central transfer point with many lines connecting in all directions."
+              }
+            },
+            {
+              "name": "Teatro Olimpico",
+              "tip_5lang": {
+                "de": "Busse fahren hier bis spät in den Abend regelmäßig.",
+                "hu": "A buszok itt késő estig rendszeresen járnak.",
+                "ro": "Autobuzele circulă regulat aici până seara târziu.",
+                "en": "Buses run regularly here until late in the evening."
+              }
+            },
+            {
+              "name": "Sanctuary of Monte Berico",
+              "tip_5lang": {
+                "de": "Der Bus 18 hält fast direkt vor dem Kircheneingang.",
+                "hu": "A 18-as busz szinte közvetlenül a templom előtt áll meg.",
+                "ro": "Autobuzul 18 oprește aproape direct în fața intrării.",
+                "en": "Bus 18 stops almost directly in front of the church entrance."
+              }
+            },
+            {
+              "name": "Piazza dei Signori",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von den Haltestellen 'Piazza Castello' oder 'Matteotti'.",
+                "hu": "Rövid séta a 'Piazza Castello' vagy 'Matteotti' megállóktól.",
+                "ro": "Scurtă plimbare de la stațiile 'Piazza Castello' sau 'Matteotti'.",
+                "en": "Short walk from the 'Piazza Castello' or 'Matteotti' bus stops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter gut beheizt und eine warme Alternative zum Gehen.",
+              "Prüfen Sie den Winterfahrplan, besonders für Fahrten am späten Abend.",
+              "Nutzen Sie die App für Echtzeit-Infos, um Kälte am Bahnsteig zu vermeiden.",
+              "Die Bahnhöfe sind oft gute Orte, um sich zwischendurch aufzuwärmen.",
+              "Ein Tagesticket lohnt sich bei mehreren Fahrten zwischen den Sehenswürdigkeiten."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek és meleg alternatívát kínálnak a sétához.",
+              "Ellenőrizze a téli menetrendet, különösen a késő esti járatoknál.",
+              "Használja az alkalmazást, hogy ne kelljen sokat várnia a hidegben.",
+              "Az állomások jó helyszínek egy gyors felmelegedéshez két út között.",
+              "A napijegy megéri, ha többször utazik a látnivalók között."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna, fiind o alternativă caldă la mersul pe jos.",
+              "Verificați orarul de iarnă, în special pentru cursele de seară.",
+              "Folosiți aplicația pentru informații în timp real și evitați frigul din stație.",
+              "Gările sunt locuri bune pentru a vă încălzi între călătorii.",
+              "Un bilet de o zi este rentabil dacă folosiți transportul de mai multe ori."
+            ],
+            "en": [
+              "Buses are well-heated in winter, providing a warm alternative to walking.",
+              "Check the winter timetable, especially for late evening services.",
+              "Use the app for real-time info to minimize waiting time in the cold.",
+              "Stations are good places to warm up briefly between transit legs.",
+              "A day ticket is worthwhile if you plan several trips between sights."
+            ]
+          }
+        }
       }
     }
   },

@@ -320,6 +320,442 @@
           "Pisa is flat and very easy to explore on foot.",
           "Watch out for pickpockets in the crowded area around the Tower."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Ihr Tag beginnt mit Keith Harings buntem Murales am Rande der Altstadt. Danach schlendern Sie zum Piazza dei Cavalieri, dem geistigen Zentrum der Stadt. Mittags erreichen Sie das Feld der Wunder, wo Sie das Baptisterium, den prächtigen Dom und natürlich den weltberühmten Schiefen Turm bestaunen. Den Nachmittag lassen Sie an der malerischen Chiesa della Spina am Arno-Ufer ausklingen.",
+            "hu": "A napot Keith Haring színes falfestményével kezdjük az óváros szélén, majd a lovagok terén át vágunk át a város szívén. Délben érkezünk a Csodák terére, ahol a Keresztelőkápolna, a Dóm és természetesen a világhírű Ferde Torony vár ránk. A délutánt az Arno-parti sétányon, a gótikus Spina templom megtekintésével zárjuk.",
+            "ro": "Ziua începe cu muralul colorat al lui Keith Haring la marginea centrului vechi. Apoi vă plimbați spre Piazza dei Cavalieri, centrul intelectual al orașului. La prânz ajungeți la Câmpul Miracolelor, unde veți admira Baptisteriul, catedrala magnifică și, bineînțeles, faimosul Turn Înclinat. Încheiați după-amiaza pe malul râului Arno, la pitoreasca biserică Chiesa della Spina.",
+            "en": "Your day starts with Keith Haring's colorful mural on the edge of the old town. Then, stroll to Piazza dei Cavalieri, the city's intellectual heart. By midday, reach the Field of Miracles to admire the Baptistery, the magnificent Cathedral, and of course, the world-famous Leaning Tower. End your afternoon by the Arno river at the picturesque Chiesa della Spina."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Murales Tuttomondo",
+                "hu": "Tuttomondo falfestmény",
+                "ro": "Pictura Murală Tuttomondo",
+                "en": "Tuttomondo Mural"
+              },
+              "tip_5lang": {
+                "de": "Keith Harings letztes öffentliches Werk, direkt am Bahnhof.",
+                "hu": "Keith Haring utolsó nyilvános műve, közel a pályaudvarhoz.",
+                "ro": "Ultima lucrare publică a lui Keith Haring, lângă gară.",
+                "en": "Keith Haring's last public work, located near the station."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza dei Cavalieri",
+                "hu": "Piazza dei Cavalieri",
+                "ro": "Piața Cavalerilor",
+                "en": "Knights' Square"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Palast der Karawane, den Sitz der Elite-Uni.",
+                "hu": "Nézze meg a Karaván-palotát, az elit egyetem székhelyét.",
+                "ro": "Vizitați Palazzo della Carovana, sediul universității de elită.",
+                "en": "Visit the Palazzo della Carovana, the seat of the elite university."
+              }
+            },
+            {
+              "name": {
+                "de": "Battistero di San Giovanni",
+                "hu": "Szent János-keresztelőkápolna",
+                "ro": "Baptisteriul",
+                "en": "Baptistery of St. John"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Akustik-Vorführungen alle 30 Minuten.",
+                "hu": "Figyelje az akusztikai bemutatót 30 percenként.",
+                "ro": "Ascultați demonstrațiile de acustică la fiecare 30 de minute.",
+                "en": "Watch for the acoustic demonstrations every 30 minutes."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di Pisa",
+                "hu": "Pisai dóm",
+                "ro": "Catedrala din Pisa",
+                "en": "Pisa Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Die Fassade ist ein Meisterwerk der Pisaner Romanik.",
+                "hu": "A homlokzat a pisai román stílus mesterműve.",
+                "ro": "Fațada este o capodoperă a stilului romanic pisan.",
+                "en": "The facade is a masterpiece of Pisan Romanesque style."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Pendente",
+                "hu": "Ferde torony",
+                "ro": "Turnul Înclinat",
+                "en": "Leaning Tower"
+              },
+              "tip_5lang": {
+                "de": "Tickets unbedingt im Voraus online buchen!",
+                "hu": "A jegyeket mindenképpen foglalja le előre online!",
+                "ro": "Rezervați biletele online în avans neapărat!",
+                "en": "Must book tickets online in advance!"
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Spina",
+                "hu": "Santa Maria della Spina",
+                "ro": "Biserica della Spina",
+                "en": "Church of the Spina"
+              },
+              "tip_5lang": {
+                "de": "Kleine gotische Perle direkt am Ufer des Arno.",
+                "hu": "Apró gótikus ékszerdoboz közvetlenül az Arno partján.",
+                "ro": "O mică bijuterie gotică chiar pe malul râului Arno.",
+                "en": "A tiny Gothic gem right on the banks of the Arno."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Cecina",
+                "tip": "Kichererbsenfladen, probieren Sie ihn bei Pizzeria Il Montino."
+              },
+              {
+                "name": "Cantuccini",
+                "tip": "Mandelgebäck, perfekt zu einem Espresso."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Cecina",
+                "tip": "Csicseriborsó lepény, kóstolja meg a Pizzeria Il Montino-ban."
+              },
+              {
+                "name": "Trippa alla pisana",
+                "tip": "Pisai pacal, egy helyi klasszikus."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cecina",
+                "tip": "Plăcintă de năut, încercați-o la Pizzeria Il Montino."
+              },
+              {
+                "name": "Torta co' bischeri",
+                "tip": "O tartă dulce locală cu orez și ciocolată."
+              }
+            ],
+            "en": [
+              {
+                "name": "Cecina",
+                "tip": "Chickpea pancake, try it at Pizzeria Il Montino."
+              },
+              {
+                "name": "Trippa alla pisana",
+                "tip": "Pisa-style tripe, a local traditional dish."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Orto Botanico",
+                "tip": "Ältester akademischer Garten der Welt.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Giardino di Scotto",
+                "tip": "Ruhiger Park in einer alten Festung.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Orto Botanico",
+                "tip": "A világ legrégebbi egyetemi füvészkertje.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Lungarni",
+                "tip": "Séta az Arno-parton a naplementében.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Orto Botanico",
+                "tip": "Cea mai veche grădină academică din lume.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Giardino di Scotto",
+                "tip": "Parc liniștit într-o fostă fortăreață.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Orto Botanico",
+                "tip": "Oldest academic botanical garden in the world.",
+                "emoji": "🍃"
+              },
+              {
+                "name": "Lungarni",
+                "tip": "A walk along the Arno river at sunset.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Borgo Stretto",
+                "tip": "Elegante Arkaden mit exklusiven Boutiquen."
+              },
+              {
+                "name": "Corso Italia",
+                "tip": "Die Haupteinkaufsstraße der Stadt."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Borgo Stretto",
+                "tip": "Elegáns árkádok exkluzív butikokkal."
+              },
+              {
+                "name": "Mercato delle Vettovaglie",
+                "tip": "Helyi élelmiszerpiac a város szívében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Borgo Stretto",
+                "tip": "Arcade elegante cu buticuri exclusive."
+              },
+              {
+                "name": "Corso Italia",
+                "tip": "Principala stradă comercială a orașului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Borgo Stretto",
+                "tip": "Elegant arcades with exclusive boutiques."
+              },
+              {
+                "name": "Mercato delle Vettovaglie",
+                "tip": "Local food market in the heart of the city."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster tückisch sein kann.",
+              "Meiden Sie die Restaurants direkt am Piazza dei Miracoli; gehen Sie lieber ein paar Gassen weiter.",
+              "Pisa ist sehr flach und perfekt zu Fuß zu erkunden.",
+              "Achten Sie auf Taschendiebe in der Nähe des Turms."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt, mert a macskaköves utcák fárasztóak lehetnek.",
+              "Kerülje el a közvetlenül a Csodák terén lévő éttermeket; keressen helyet pár utcával arrébb.",
+              "Pisa teljesen sík, így gyalogosan is könnyen bejárható.",
+              "Vigyázzon az értékeire a ferde torony körüli tömegben."
+            ],
+            "ro": [
+              "Purtați încălțăminte comodă, străzile cu piatră cubică pot fi obositoare.",
+              "Evitați restaurantele direct din Piazza dei Miracoli; mergeți pe străzile lăturalnice.",
+              "Pisa este un oraș plat, ideal pentru a fi explorat la pas.",
+              "Aveți grijă la buzunare în zonele aglomerate de lângă Turn."
+            ],
+            "en": [
+              "Wear comfortable shoes as the cobblestone streets can be tiring.",
+              "Avoid restaurants directly on Piazza dei Miracoli; try the side streets for better food.",
+              "Pisa is flat and very easy to explore on foot.",
+              "Watch out for pickpockets in the crowded area around the Tower."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens schützt der Gebäudeüberhang am Wandbild. Mittags bieten das Baptisterium und der Dom trockenen Unterschlupf. Nachmittags ist beim Aufstieg auf den Turm wegen rutschiger Stufen Vorsicht geboten. Abends wirkt die Spina-Kirche am nebligen Arno-Ufer besonders mystisch.",
+            "hu": "Reggel a vasútállomás melletti árkádok védenek a falfestménynél. Délben a Keresztelőkápolna és a Dóm belső tere nyújt menedéket. Délután a torony márványlépcsőin óvatosan haladunk a csúszásveszély miatt. Este az Arno-parti Spina-templom látványa az esőben lenyűgöző.",
+            "ro": "Dimineața, muralul este protejat de consola clădirii. La prânz, Baptisteriul și Catedrala oferă adăpost uscat. După-amiaza, treptele turnului sunt alunecoase, deci urcați cu grijă. Seara, biserica Spina de pe malul râului Arno arată mistic prin perdeaua de ploaie.",
+            "en": "Morning starts under the shelter near the mural. At noon, the interiors of the Baptistery and Cathedral provide dry refuge. In the afternoon, be careful on the slippery marble steps of the Tower. The evening ends at the Spina church, looking atmospheric by the rainy riverbank."
+          },
+          "stops": [
+            {
+              "name": "Tuttomondo Mural",
+              "tip_5lang": {
+                "de": "Der Dachüberhang des Gebäudes bietet guten Schutz vor dem Regen.",
+                "hu": "Az épület tetőszerkezete jó védelmet nyújt a szemerkélő eső ellen.",
+                "ro": "Consola clădirii oferă o protecție bună împotriva ploii.",
+                "en": "The building's overhang provides decent shelter from the rain."
+              }
+            },
+            {
+              "name": "Knights' Square",
+              "tip_5lang": {
+                "de": "Vorsicht, das Pflaster wird bei Nässe sehr rutschig.",
+                "hu": "Vigyázat, a tér burkolata vizesen rendkívül csúszóssá válik.",
+                "ro": "Atenție, pavajul devine foarte alunecos când este ud.",
+                "en": "Careful, the square's pavement becomes very slippery when wet."
+              }
+            },
+            {
+              "name": "Baptistery of St. John",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen starken Regenschauer trocken abzuwarten.",
+                "hu": "Tökéletes helyszín egy intenzívebb zápor száraz megvárásához.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "Perfect spot to wait out a heavy downpour while staying dry."
+              }
+            },
+            {
+              "name": "Pisa Cathedral",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Inneren, während es draußen regnet.",
+                "hu": "Élvezze a belső tér nyugalmát és díszeit, amíg kint esik.",
+                "ro": "Bucurați-vă de liniștea interiorului în timp ce afară plouă.",
+                "en": "Enjoy the peace and art of the interior while it rains outside."
+              }
+            },
+            {
+              "name": "Leaning Tower",
+              "tip_5lang": {
+                "de": "Die Marmorstufen sind bei Regen tückisch; festes Schuhwerk ist Pflicht.",
+                "hu": "A márványlépcsők esőben csalókák; tapadós talpú cipő kötelező.",
+                "ro": "Treptele de marmură sunt înșelătoare pe ploaie; purtați pantofi aderenți.",
+                "en": "Marble steps are tricky in the rain; non-slip shoes are a must."
+              }
+            },
+            {
+              "name": "Church of the Spina",
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Fassade schnell und suchen Sie dann ein nahes Café.",
+                "hu": "A homlokzatot gyorsan nézzük meg, majd keressünk egy közeli kávézót.",
+                "ro": "Vizitați rapid exteriorul, apoi căutați o cafenea în apropiere.",
+                "en": "View the facade quickly, then head to a nearby cafe for shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Arkaden in der Nähe des Borgo Stretto als Laufweg.",
+              "Marmorflächen auf der Piazza dei Miracoli werden extrem glatt.",
+              "Ein stabiler Regenschirm ist wegen der Windböen am Turm wichtig.",
+              "Viele Cafés am Arno bieten gemütliche Plätze mit Flussblick."
+            ],
+            "hu": [
+              "Használja a Borgo Stretto árkádjait a városi közlekedéshez.",
+              "A Csodák tere márványburkolata tükörsimára csúszik esőben.",
+              "A torony körüli szél miatt érdemesebb esőkabátot viselni.",
+              "Az Arno-parti kávézók jó menedéket nyújtanak kilátással."
+            ],
+            "ro": [
+              "Folosiți arcadele de lângă Borgo Stretto pentru a rămâne uscați.",
+              "Marmura din Piața Miracolelor devine extrem de alunecoasă.",
+              "O pelerină e mai bună decât umbrela din cauza vântului de la turn.",
+              "Cafenelele de pe malul Arno oferă refugiu cu vedere la râu."
+            ],
+            "en": [
+              "Use the porticos near Borgo Stretto to navigate the city dryly.",
+              "Marble surfaces in the Piazza dei Miracoli get extremely slick.",
+              "Raincoats are better than umbrellas due to wind gusts near the Tower.",
+              "Riverside cafes offer great indoor spots with a view of the Arno."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Luft am Wandbild kristallklar. Mittags wärmt die Sonne auf dem Platz der Wunder trotz Kälte. Nachmittags ist die Fernsicht vom Turm im Winter oft am besten. Den Tag beenden wir bei Sonnenuntergang gegen 16:45 Uhr am Arno-Ufer.",
+            "hu": "Reggel friss, csípős levegő fogad a Tuttomondo muralnál. Délben a Csodák terén a téli nap sugarai kellemesen melegítenek. Délután a toronyból nyíló panoráma télen a legtisztább. A napot korán, 17:00 előtt zárjuk az Arno-parton.",
+            "ro": "Dimineața aerul este tăios și curat lângă pictura murală. La prânz, soarele de iarnă încălzește Piața Miracolelor. După-amiaza, vizibilitatea din turn este adesea maximă iarna. Încheiem ziua devreme, la apusul de la ora 16:45.",
+            "en": "Morning brings crisp air at the mural. By noon, the winter sun warms the open Piazza dei Miracoli. In the afternoon, winter offers the clearest views from the top of the Tower. We finish early as the sun sets over the Arno around 4:45 PM."
+          },
+          "stops": [
+            {
+              "name": "Tuttomondo Mural",
+              "tip_5lang": {
+                "de": "Idealer Startpunkt für einen heißen Espresso am Bahnhof.",
+                "hu": "Ideális pont egy forró eszpresszóhoz a vasútállomásnál.",
+                "ro": "Punct ideal pentru un espresso fierbinte lângă gară.",
+                "en": "Great starting point for a hot espresso near the station."
+              }
+            },
+            {
+              "name": "Knights' Square",
+              "tip_5lang": {
+                "de": "Der Wind weht hier zwischen den Palazzi oft sehr kalt.",
+                "hu": "A paloták között gyakran fúj hideg, metsző szél.",
+                "ro": "Vântul bate adesea rece printre palatele din piață.",
+                "en": "Wind often blows quite cold between the historic palaces here."
+              }
+            },
+            {
+              "name": "Baptistery of St. John",
+              "tip_5lang": {
+                "de": "Die Akustik-Demo im Inneren ist im warmen Mantel ein Genuss.",
+                "hu": "Az akusztikai bemutató a belső térben télen is lenyűgöző.",
+                "ro": "Demonstrația de acustică din interior este un deliciu iarna.",
+                "en": "The interior acoustics demo is a treat to experience in winter."
+              }
+            },
+            {
+              "name": "Pisa Cathedral",
+              "tip_5lang": {
+                "de": "Das massive Mauerwerk hält die Kälte; Schal anbehalten.",
+                "hu": "A vastag falak tartják a hideget; ne vegye le a sálat.",
+                "ro": "Zidăria masivă reține frigul; păstrați fularul pe umeri.",
+                "en": "The massive walls keep the cold; keep your scarf on inside."
+              }
+            },
+            {
+              "name": "Leaning Tower",
+              "tip_5lang": {
+                "de": "Oben zieht es stark; Mütze und Handschuhe sind ratsam.",
+                "hu": "Fent erős a huzat; sapka és kesztyű erősen ajánlott.",
+                "ro": "Sus curentul e puternic; căciula și mănușile sunt recomandate.",
+                "en": "It's windy at the top; a hat and gloves are highly advised."
+              }
+            },
+            {
+              "name": "Church of the Spina",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort kurz vor dem frühen Sonnenuntergang.",
+                "hu": "Látogasson el ide közvetlenül a korai naplemente előtt.",
+                "ro": "Vizitați acest loc chiar înainte de apusul timpuriu.",
+                "en": "Visit this spot just before the early winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:40 Uhr unter.",
+              "Tragen Sie Schichten, da es im Schatten der Gassen kühl ist.",
+              "Heißer Kakao in den Cafés am Borgo Stretto wärmt auf.",
+              "Die Piazza dei Miracoli ist im Winter deutlich leerer."
+            ],
+            "hu": [
+              "A nap decemberben már 16:40 körül nyugovóra tér.",
+              "Öltözzön rétegesen, a szűk utcák árnyéka hűvös lehet.",
+              "A Borgo Stretto kávézóiban a forró csokoládé kötelező.",
+              "A Csodák tere télen sokkal nyugodtabb és kevesebb a turista."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 16:40.",
+              "Îmbrăcați-vă în straturi, umbra străzilor înguste e rece.",
+              "Ciocolata caldă din cafenelele de pe Borgo Stretto este ideală.",
+              "Piața Miracolelor este mult mai liberă și liniștită iarna."
+            ],
+            "en": [
+              "Sunset in December happens as early as 4:40 PM.",
+              "Dress in layers as the shade in narrow alleys remains chilly.",
+              "Hot chocolate in the Borgo Stretto cafes is a must-try.",
+              "The Piazza dei Miracoli is much less crowded during winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -605,6 +1041,422 @@
           "Use the bike paths along the Arno river.",
           "A bike lock is absolutely necessary."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Fahrrad erkunden Sie Pisa effizient und wie ein Einheimischer. Starten Sie am Piazza dei Cavalieri und radeln Sie dann zum Camposanto und dem gesamten Ensemble des Piazza dei Miracoli. Nach dem Dombesuch und dem Turmaufstieg führt Sie der Weg durch die gemütlichen Gassen zum farbenfrohen Keith Haring Murales. Zum Abschluss genießen Sie die Ruhe im Botanischen Garten.",
+            "hu": "Kerékpárral igazi helyiként fedezheti fel Pisát. Kezdjen a lovagok terén, majd tekerjen a Csodák terére a Camposanto és a Keresztelőkápolna felé. A dóm és a torony után a hangulatos utcákon át jutunk el a színes Keith Haring falfestményhez. A napot a Füvészkert nyugalmában zárhatja.",
+            "ro": "Explorați Pisa eficient și ca un localnic, pe bicicletă. Începeți în Piazza dei Cavalieri, apoi pedalați spre Camposanto și întregul ansamblu din Piazza dei Miracoli. După vizita la catedrală și urcarea în turn, drumul vă poartă prin străduțele primitoare până la coloratul mural al lui Keith Haring. La final, bucurați-vă de liniștea Grădinii Botanice.",
+            "en": "Explore Pisa efficiently and like a local on a bike. Start at Piazza dei Cavalieri, then cycle to Camposanto and the entire ensemble of Piazza dei Miracoli. After the cathedral visit and tower climb, head through cozy streets to the colorful Keith Haring mural. Finish your day in the peace of the Botanical Garden."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza dei Cavalieri",
+                "hu": "Piazza dei Cavalieri",
+                "ro": "Piața Cavalerilor",
+                "en": "Knights' Square"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für ein erstes Foto ohne die Massen vom Turm.",
+                "hu": "Tökéletes hely az első fotókhoz a tömeg nélkül.",
+                "ro": "Locul perfect pentru primele fotografii fără mulțimea de la turn.",
+                "en": "Perfect spot for your first photos without the Tower crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Camposanto Monumentale",
+                "hu": "Camposanto Monumentale",
+                "ro": "Camposanto Monumentale",
+                "en": "Monumental Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöner Kreuzgang mit beeindruckenden Fresken.",
+                "hu": "Gyönyörű kerengő lenyűgöző freskókkal.",
+                "ro": "O mănăstire superbă cu fresce impresionante.",
+                "en": "Beautiful cloister with impressive frescoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Battistero",
+                "hu": "Keresztelőkápolna",
+                "ro": "Baptisteriul",
+                "en": "Baptistery"
+              },
+              "tip_5lang": {
+                "de": "Das größte Baptisterium Italiens.",
+                "hu": "Olaszország legnagyobb keresztelőkápolnája.",
+                "ro": "Cel mai mare baptisteriu din Italia.",
+                "en": "The largest Baptistery in Italy."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di Pisa",
+                "hu": "Pisai dóm",
+                "ro": "Catedrala din Pisa",
+                "en": "Pisa Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Kanzel von Giovanni Pisano.",
+                "hu": "Nézze meg Giovanni Pisano szószékét.",
+                "ro": "Vedeți amvonul lui Giovanni Pisano.",
+                "en": "See the pulpit by Giovanni Pisano."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Pendente",
+                "hu": "Ferde torony",
+                "ro": "Turnul Înclinat",
+                "en": "Leaning Tower"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren direkt auf dem Platz.",
+                "hu": "A téren belül ne kerékpározzon, tolja a biciklit.",
+                "ro": "Nu pedalați direct în piață, mergeți pe lângă bicicletă.",
+                "en": "Don't cycle directly in the square; push your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Murales Tuttomondo",
+                "hu": "Tuttomondo falfestmény",
+                "ro": "Pictura Murală Tuttomondo",
+                "en": "Tuttomondo Mural"
+              },
+              "tip_5lang": {
+                "de": "Ein moderner Kontrast zur romanischen Architektur.",
+                "hu": "Modern kontraszt a román építészettel szemben.",
+                "ro": "Un contrast modern față de arhitectura romanică.",
+                "en": "A modern contrast to the Romanesque architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Orto Botanico",
+                "hu": "Füvészkert",
+                "ro": "Grădina Botanică",
+                "en": "Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad am Eingang.",
+                "hu": "Parkolja le a bringát a bejáratnál.",
+                "ro": "Parcați bicicleta la intrare.",
+                "en": "Park your bike at the entrance."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "La Lupa Ghiotta",
+                "tip": "Tolles Restaurant für toskanische Spezialitäten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "I Porci Comodi",
+                "tip": "Isteni szendvicsek és tálak, tökéletes bringás ebéd."
+              }
+            ],
+            "ro": [
+              {
+                "name": "L'Ostellino",
+                "tip": "Sandvișuri artizanale excelente pentru un prânz rapid."
+              }
+            ],
+            "en": [
+              {
+                "name": "I Porci Comodi",
+                "tip": "Amazing sandwiches and platters, perfect for a quick bike lunch."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Mura di Pisa",
+                "tip": "Spaziergang auf der alten Stadtmauer.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Mura di Pisa",
+                "tip": "Séta a régi városfalon, pazar kilátással.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mura di Pisa",
+                "tip": "O plimbare pe vechile ziduri ale orașului.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Mura di Pisa",
+                "tip": "Walk on the old city walls with great views.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "L'Archivio",
+                "tip": "Besondere Souvenirs und Kunsthandwerk."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Borgo Stretto",
+                "tip": "Hangulatos sétálóutca elegáns boltokkal."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Corso Italia",
+                "tip": "Magazine populare pentru toate bugetele."
+              }
+            ],
+            "en": [
+              {
+                "name": "Borgo Stretto",
+                "tip": "Atmospheric street with elegant local shops."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Es gibt viele Fahrradverleih-Stationen in Bahnhofsnähe.",
+              "In der Fußgängerzone ist das Radfahren oft untersagt, achten Sie auf Schilder.",
+              "Nutzen Sie die Radwege entlang des Arno.",
+              "Ein Schloss ist absolut notwendig."
+            ],
+            "hu": [
+              "Sok kerékpárkölcsönző található az állomás közelében.",
+              "A sétálóövezetekben tilos lehet a bringázás, figyelje a táblákat.",
+              "Használja az Arno-parti kerékpárutakat.",
+              "A lakat használata kötelező, ne hagyja őrizetlenül a biciklit."
+            ],
+            "ro": [
+              "Există multe puncte de închiriere a bicicletelor lângă gară.",
+              "În zonele pietonale ciclismul poate fi interzis, atenție la semne.",
+              "Folosiți pistele de biciclete de-a lungul râului Arno.",
+              "Un antifurt este absolut necesar."
+            ],
+            "en": [
+              "There are many bike rental stations near the train station.",
+              "Cycling is often prohibited in pedestrian areas, watch for signs.",
+              "Use the bike paths along the Arno river.",
+              "A bike lock is absolutely necessary."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vorsichtige Fahrt über das nasse Pflaster zum Monumentalfriedhof. Mittags parken wir die Räder sicher am Domkomplex. Nachmittags radeln wir durch den Regen zurück zum Tuttomondo Mural. Der Botanische Garten bietet im Gewächshaus tropische Wärme und Trockenheit.",
+            "hu": "Óvatos kerékpározás a vizes köveken a temető felé. Délben a bicikliket biztonságban lezárjuk a Dómnál. Délután az esőben tekerünk vissza a Tuttomondo falfestményhez. A Botanikus kert üvegházai tökéletes zárást jelentenek szárazon.",
+            "ro": "Ciclism prudent pe pietrele ude spre cimitirul monumental. La prânz parcăm bicicletele sigur lângă catedrală. După-amiaza pedalăm prin ploaie înapoi spre muralul Tuttomondo. Grădina Botanică oferă adăpost în serele sale tropicale.",
+            "en": "Careful cycling over wet stones towards the cemetery. At noon, we park the bikes securely by the Cathedral. In the afternoon, we pedal through the rain back to the mural. The Botanical Garden's greenhouses offer a dry, tropical escape."
+          },
+          "stops": [
+            {
+              "name": "Knights' Square",
+              "tip_5lang": {
+                "de": "Steigen Sie bei starkem Regen ab; das Pflaster ist spiegelglatt.",
+                "hu": "Erős esőben szálljon le; a kövezet tükörsimára csúszik.",
+                "ro": "Coborâți de pe bicicletă pe ploaie; pavajul e foarte alunecos.",
+                "en": "Dismount in heavy rain; the pavement becomes mirror-slick."
+              }
+            },
+            {
+              "name": "Monumental Cemetery",
+              "tip_5lang": {
+                "de": "Die überdachten Gänge bieten idealen Schutz für Besucher.",
+                "hu": "A fedett folyosók ideális védelmet nyújtanak a látogatóknak.",
+                "ro": "Coridoarele acoperite oferă protecție ideală pentru vizitatori.",
+                "en": "The covered walkways provide excellent shelter for visitors."
+              }
+            },
+            {
+              "name": "Baptistery",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich am westlichen Rand des Platzes.",
+                "hu": "Kerékpártárolók a tér nyugati szélén találhatóak.",
+                "ro": "Suporturile de biciclete se află la marginea de vest a pieței.",
+                "en": "Bike racks are located at the western edge of the square."
+              }
+            },
+            {
+              "name": "Pisa Cathedral",
+              "tip_5lang": {
+                "de": "Ein langer Stopp im Inneren lässt den Schauer vorüberziehen.",
+                "hu": "Egy hosszabb benti tartózkodás alatt elvonulhat a zápor.",
+                "ro": "O oprire lungă în interior permite trecerea ploii.",
+                "en": "A long stop inside allows the rain shower to pass over."
+              }
+            },
+            {
+              "name": "Leaning Tower",
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad gut ab, bevor Sie den Turm besteigen.",
+                "hu": "Zárja le alaposan a kerékpárt, mielőtt felmegy a toronyba.",
+                "ro": "Încuiați bine bicicleta înainte de a urca în turn.",
+                "en": "Lock your bike securely before heading up the tower."
+              }
+            },
+            {
+              "name": "Tuttomondo Mural",
+              "tip_5lang": {
+                "de": "Das Wandbild ist auch bei grauem Wetter ein bunter Lichtblick.",
+                "hu": "A falfestmény szürke időben is színes fénypontja a napnak.",
+                "ro": "Muralul este o pată de culoare chiar și pe vreme gri.",
+                "en": "The mural is a colorful highlight even in grey weather."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Die Gewächshäuser sind der beste Zufluchtsort bei Regen.",
+                "hu": "Az üvegházak jelentik a legjobb menedéket esőben.",
+                "ro": "Serele sunt cel mai bun refugiu în caz de ploaie.",
+                "en": "The greenhouses are the best place to take refuge from rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützen, die tiefe Schlaglöcher verbergen könnten.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Bremsen Sie auf nassem Marmor frühzeitig und sanft.",
+              "Wasserdichte Packtaschen schützen Ihre Kameraausrüstung."
+            ],
+            "hu": [
+              "Ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek.",
+              "A sárvédő elengedhetetlen a városi tekeréshez esőben.",
+              "A vizes márványon korábban és óvatosabban fékezzen.",
+              "A vízhatlan táskák megvédik az értékeit a városi túra alatt."
+            ],
+            "ro": [
+              "Atenție la bălți, pot ascunde gropi adânci în pavaj.",
+              "Apărătorile de noroi sunt indispensabile pe vreme de ploaie.",
+              "Frânați din timp și ușor pe marmura udă a piețelor.",
+              "Geantă impermeabilă este necesară pentru echipamentul foto."
+            ],
+            "en": [
+              "Watch out for puddles as they might hide deep potholes.",
+              "Mudguards are essential for city cycling in this weather.",
+              "Brake early and gently on the wet marble surfaces.",
+              "Waterproof panniers will keep your belongings dry during the ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Morgenfahrt durch die fast leere Altstadt. Mittags genießen wir die Wintersonne am Domplatz ohne die üblichen Massen. Nachmittags wärmen wir uns nach dem Turmaufstieg im Botanischen Garten auf. Die kühle Luft macht das Radeln angenehm sportlich.",
+            "hu": "Friss reggeli tekerés a szinte üres óvárosban. Délben a Dóm téren élvezzük a téli napsütést a tömegek nélkül. Délután a toronymászás után a Botanikus kertben melegszünk fel. A hűvös levegő sportossá és üdévé teszi a túrát.",
+            "ro": "Pedalat matinal răcoros prin centrul vechi aproape gol. La prânz savurăm soarele de iarnă în Piața Domului fără mulțimi. După-amiaza ne încălzim în Grădina Botanică după turn. Aerul rece face ciclismul plăcut și revigorant.",
+            "en": "A crisp morning ride through the nearly empty old town. At noon, enjoy the winter sun at the Cathedral square without the crowds. In the afternoon, warm up at the Botanical Garden after the tower climb. The cool air makes cycling feel refreshing."
+          },
+          "stops": [
+            {
+              "name": "Knights' Square",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe gegen den kalten Fahrtwind.",
+                "hu": "Viseljen meleg kesztyűt a hideg menetszél ellen.",
+                "ro": "Purtați mănuși groase împotriva vântului rece de mișcare.",
+                "en": "Wear warm gloves against the cold wind while riding."
+              }
+            },
+            {
+              "name": "Monumental Cemetery",
+              "tip_5lang": {
+                "de": "Die Stille hier ist im Winter besonders eindrucksvoll.",
+                "hu": "A hely csendje télen különösen mély és hatásos.",
+                "ro": "Liniștea de aici este deosebit de impresionantă iarna.",
+                "en": "The silence here is particularly moving during winter."
+              }
+            },
+            {
+              "name": "Baptistery",
+              "tip_5lang": {
+                "de": "Im Inneren ist es oft kühler als draußen in der Sonne.",
+                "hu": "Bent gyakran hűvösebb van, mint kint a napsütésben.",
+                "ro": "În interior este adesea mai rece decât afară la soare.",
+                "en": "The interior is often colder than outside in the sun."
+              }
+            },
+            {
+              "name": "Pisa Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für eine kurze Aufwärmpause.",
+                "hu": "Használja ki a megállót egy rövid benti melegedésre.",
+                "ro": "Folosiți oprirea pentru o scurtă pauză de încălzire.",
+                "en": "Use the stop for a short warming break inside the church."
+              }
+            },
+            {
+              "name": "Leaning Tower",
+              "tip_5lang": {
+                "de": "Der Metallhandlauf im Turm kann im Winter eisig sein.",
+                "hu": "A torony fém korlátja télen jéghideg lehet.",
+                "ro": "Balustrada metalică din turn poate fi înghețată iarna.",
+                "en": "The metal handrail inside the tower can be icy in winter."
+              }
+            },
+            {
+              "name": "Tuttomondo Mural",
+              "tip_5lang": {
+                "de": "Ein schneller Foto-Stopp, bevor die Sonne untergeht.",
+                "hu": "Egy gyors fotómegálló, mielőtt lebukik a téli nap.",
+                "ro": "O oprire rapidă pentru poze înainte de apusul soarelui.",
+                "en": "A quick photo stop before the winter sun sets."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Sukkulenten-Halle für angenehme Temperaturen.",
+                "hu": "Látogassa meg a pozsgás növények házát a kellemes hőért.",
+                "ro": "Vizitați sera cu plante suculente pentru temperaturi plăcute.",
+                "en": "Visit the succulent house for more comfortable temperatures."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie den Reifendruck; Kälte beeinflusst ihn.",
+              "Vermeiden Sie schattige Gassen für längere Pausen.",
+              "Eine Thermoskanne mit Tee ist ein guter Begleiter.",
+              "Die Fahrradwege sind im Winter herrlich frei."
+            ],
+            "hu": [
+              "Ellenőrizze a keréknyomást, a hideg befolyásolja azt.",
+              "Kerülje az árnyékos utcákat a hosszabb pihenőkhöz.",
+              "Egy termosz meleg tea jó útitárs a téli tekeréshez.",
+              "A kerékpárutak télen kellemesen üresek és szabadok."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri; frigul o influențează.",
+              "Evitați străzile umbroase pentru pauzele mai lungi.",
+              "Un termos cu ceai cald este un partener bun de drum.",
+              "Pistele de biciclete sunt minunat de libere iarna."
+            ],
+            "en": [
+              "Check tire pressure; cold temperatures affect it.",
+              "Avoid staying in shaded alleys for long breaks.",
+              "A thermos with hot tea is a great companion for the ride.",
+              "The bike paths are wonderfully clear during the winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -844,6 +1696,358 @@
           "The drive to Marina di Pisa takes only about 20 minutes.",
           "Watch out for parking restrictions along the coast in Marina di Pisa."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto verbinden Sie die Highlights von Pisa mit einem Ausflug ans Meer. Vormittags besuchen Sie den Piazza dei Miracoli und den Schiefen Turm. Nach einem kurzen Abstecher zum Piazza dei Cavalieri fahren Sie zur Marina di Pisa. Genießen Sie den Strand und den Blick auf die Bocca d'Arno mit ihren charakteristischen Fischernetzen zum Sonnenuntergang.",
+            "hu": "Autóval kényelmesen összekötheti Pisa látnivalóit egy tengerparti kirándulással. Délelőtt a Csodák tere és a Ferde Torony a cél. Egy rövid belvárosi kitérő után Marina di Pisa felé vesszük az irányt. Élvezze a tengerpartot és a naplementét az Arno torkolatánál, a különleges halászhálók mellett.",
+            "ro": "Cu mașina puteți combina atracțiile din Pisa cu o excursie la malul mării. Dimineața vizitați Piazza dei Miracoli și Turnul Înclinat. După o scurtă oprire în Piazza dei Cavalieri, conduceți spre Marina di Pisa. Bucurați-vă de plajă și de apusul de la Bocca d'Arno, cu plasele sale de pescuit caracteristice.",
+            "en": "By car, you can combine Pisa's highlights with a trip to the sea. Spend the morning at Piazza dei Miracoli and the Leaning Tower. After a quick detour to Knights' Square, drive to Marina di Pisa. Enjoy the beach and the sunset at Bocca d'Arno with its characteristic fishing nets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza dei Miracoli (Parkplatz)",
+                "hu": "Piazza dei Miracoli (parkoló)",
+                "ro": "Piazza dei Miracoli (parcare)",
+                "en": "Piazza dei Miracoli (parking)"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den bewachten Parkplatz an der Via Pietrasantina.",
+                "hu": "Használja az őrzött parkolót a Via Pietrasantina-nál.",
+                "ro": "Folosiți parcarea păzită de pe Via Pietrasantina.",
+                "en": "Use the guarded parking lot at Via Pietrasantina."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Pendente",
+                "hu": "Ferde torony",
+                "ro": "Turnul Înclinat",
+                "en": "Leaning Tower"
+              },
+              "tip_5lang": {
+                "de": "Besuch am Vormittag spart Zeit.",
+                "hu": "A délelőtti látogatással időt spórolhat.",
+                "ro": "Vizita de dimineață vă scutește de aglomerație.",
+                "en": "A morning visit saves time."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza dei Cavalieri",
+                "hu": "Piazza dei Cavalieri",
+                "ro": "Piața Cavalerilor",
+                "en": "Knights' Square"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Stopp im historischen Zentrum.",
+                "hu": "Rövid megálló a történelmi központban.",
+                "ro": "O scurtă oprire în centrul istoric.",
+                "en": "Short stop in the historical center."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina di Pisa",
+                "hu": "Marina di Pisa",
+                "ro": "Marina di Pisa",
+                "en": "Marina di Pisa"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Badeort nur 15-20 Minuten entfernt.",
+                "hu": "Kedvelt fürdőhely mindössze 15-20 percre.",
+                "ro": "O stațiune balneară drăguță la doar 15-20 de minute.",
+                "en": "A lovely beach resort just 15-20 minutes away."
+              }
+            },
+            {
+              "name": {
+                "de": "Bocca d'Arno",
+                "hu": "Arno torkolata",
+                "ro": "Gura râului Arno",
+                "en": "Bocca d'Arno"
+              },
+              "tip_5lang": {
+                "de": "Blick auf die typischen riesigen Fischernetze.",
+                "hu": "Kilátás a jellegzetes, hatalmas halászhálókra.",
+                "ro": "Vedere spre plasele de pescuit gigantice, tipice zonei.",
+                "en": "View of the typical giant fishing nets."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Marina di Pisa Fischlokale",
+                "tip": "Frischer Fisch direkt an der Küste."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Osteria del Mare",
+                "tip": "Friss tengeri ételek közvetlenül a parton."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Testa e Lische",
+                "tip": "Pește proaspăt și fructe de mare pe coastă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Osteria del Mare",
+                "tip": "Fresh seafood right on the coast."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Parco di San Rossore",
+                "tip": "Großes Naturreservat für lange Spaziergänge.",
+                "emoji": "🌲"
+              }
+            ],
+            "hu": [
+              {
+                "name": "San Rossore Park",
+                "tip": "Hatalmas természetvédelmi terület, fenyőerdőkkel.",
+                "emoji": "🌲"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parco di San Rossore",
+                "tip": "O rezervație naturală vastă pentru plimbări lungi.",
+                "emoji": "🌲"
+              }
+            ],
+            "en": [
+              {
+                "name": "San Rossore Park",
+                "tip": "Vast natural reserve perfect for long walks in nature.",
+                "emoji": "🌲"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Centro dei Borghi",
+                "tip": "Großes Einkaufszentrum am Stadtrand."
+              }
+            ],
+            "hu": [
+              {
+                "name": "IKEA Pisa",
+                "tip": "Ha valami praktikusat keresne a közelben."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Centro Commerciale Pisanova",
+                "tip": "Centru comercial modern cu multe opțiuni."
+              }
+            ],
+            "en": [
+              {
+                "name": "Centro dei Borghi",
+                "tip": "Large shopping mall on the outskirts."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Fahren Sie niemals in die ZTL (begrenzte Verkehrszone) im Zentrum.",
+              "Parkplätze am Piazza dei Miracoli sind teuer, aber sicher.",
+              "Die Fahrt zur Marina di Pisa dauert nur ca. 20 Minuten.",
+              "Achten Sie auf Parkverbote am Straßenrand in Marina di Pisa."
+            ],
+            "hu": [
+              "Soha ne hajtson be a ZTL (korlátozott forgalmi övezet) területére a központban.",
+              "A Csodák tere melletti parkolók drágák, de biztonságosak.",
+              "Marina di Pisa mindössze 20 perces autóútra van.",
+              "Figyeljen a parkolási tilalmakra Marina di Pisa partján."
+            ],
+            "ro": [
+              "Nu intrați niciodată în ZTL (zona cu trafic limitat) din centru.",
+              "Parcările de lângă Piazza dei Miracoli sunt scumpe, dar sigure.",
+              "Drumul spre Marina di Pisa durează doar 20 de minute.",
+              "Atenție la restricțiile de parcare pe malul mării în Marina di Pisa."
+            ],
+            "en": [
+              "Never drive into the ZTL (limited traffic zone) in the center.",
+              "Parking near Piazza dei Miracoli is expensive but secure.",
+              "The drive to Marina di Pisa takes only about 20 minutes.",
+              "Watch out for parking restrictions along the coast in Marina di Pisa."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom Parkplatz geht es direkt zum Domplatz, wo wir die Monumente besichtigen. Mittags genießen wir die Aussicht vom Turm trotz Wolken. Nachmittags fahren wir an die Marina di Pisa, um das stürmische Meer zu erleben. Der Tag endet sicher im Auto bei der Bocca d'Arno.",
+            "hu": "A parkolóból egyenesen a Csodák terére megyünk a látnivalókhoz. Délben a toronyból nézzük a felhős panorámát. Délután Marina di Pisába autózunk, hogy megnézzük a viharos tengert. A napot biztonságban, az autóban zárjuk a Bocca d'Arnónál.",
+            "ro": "De la parcare mergem direct la Piața Miracolelor pentru vizite. La prânz admirăm vederea din turn în ciuda norilor. După-amiaza conducem spre Marina di Pisa pentru marea agitată. Ziua se încheie în siguranță în mașină la Bocca d'Arno.",
+            "en": "From the parking, head straight to the square for indoor visits. At noon, enjoy the tower view despite the clouds. In the afternoon, drive to Marina di Pisa to see the stormy sea. The day ends safely inside the car at Bocca d'Arno."
+          },
+          "stops": [
+            {
+              "name": "Piazza dei Miracoli (parking)",
+              "tip_5lang": {
+                "de": "Wählen Sie den Parkplatz Via Cammeo für kürzere Wege.",
+                "hu": "Válassza a Via Cammeo parkolót a rövidebb gyalogúthoz.",
+                "ro": "Alegeți parcarea Via Cammeo pentru drumuri mai scurte.",
+                "en": "Choose Via Cammeo parking to minimize walking in rain."
+              }
+            },
+            {
+              "name": "Leaning Tower",
+              "tip_5lang": {
+                "de": "Buchen Sie Tickets vorab, um Wartezeiten im Regen zu vermeiden.",
+                "hu": "Foglaljon jegyet előre, hogy elkerülje az esőben várakozást.",
+                "ro": "Rezervați bilete în avans pentru a evita coada în ploaie.",
+                "en": "Book tickets in advance to avoid waiting in the rain."
+              }
+            },
+            {
+              "name": "Knights' Square",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; parken Sie nur in markierten Zonen.",
+                "hu": "Gyors megálló; csak a kijelölt zónákban parkoljon.",
+                "ro": "Oprire scurtă; parcați doar în zonele permise.",
+                "en": "Quick stop; park only in designated white/blue zones."
+              }
+            },
+            {
+              "name": "Marina di Pisa",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Brandung vom Auto aus.",
+                "hu": "Élvezze a hullámtörés látványát az autóból.",
+                "ro": "Bucurați-vă de spectacolul valurilor direct din mașină.",
+                "en": "Enjoy the sight of the crashing waves from the car seat."
+              }
+            },
+            {
+              "name": "Bocca d'Arno",
+              "tip_5lang": {
+                "de": "Der Blick auf die Flussmündung ist bei Regen dramatisch.",
+                "hu": "A folyótorkolat látványa esőben nagyon drámai.",
+                "ro": "Vederea gurii de vărsare este dramatică pe ploaie.",
+                "en": "The view of the river mouth is quite dramatic in rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Parkhäuser, um trockenen Fußes auszusteigen.",
+              "Die Küstenstraße kann bei Sturm Gischt auf die Scheiben werfen.",
+              "Achten Sie auf Pfützen in den tiefer gelegenen Parkplätzen.",
+              "Planen Sie mehr Zeit für den Stadtverkehr bei Regen ein."
+            ],
+            "hu": [
+              "Használjon parkolóházakat a száraz kiszálláshoz.",
+              "A parti út mentén a viharos szél sós permetet verhet a szélvédőre.",
+              "Ügyeljen a mélyebb tócsákra az alsóbbrendű parkolókban.",
+              "Számoljon több idővel a városi forgalomban esős időben."
+            ],
+            "ro": [
+              "Folosiți parcări acoperite pentru a coborî la adăpost.",
+              "Drumul de coastă poate fi stropit de valuri în timpul furtunii.",
+              "Atenție la bălțile mari din parcările neasfaltate.",
+              "Alocați mai mult timp pentru traficul urban pe ploaie."
+            ],
+            "en": [
+              "Use covered parking garages to exit the car dryly.",
+              "The coastal road might have spray from waves during storms.",
+              "Watch out for deep puddles in low-lying parking areas.",
+              "Allow extra time for city traffic during rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bequeme Anreise zum Domplatz bei klarer Winterluft. Mittags erkunden wir die Geschichte ohne Hitze. Nachmittags führt die Fahrt zur Marina di Pisa für einen einsamen Strandspaziergang. Den Sonnenuntergang erleben wir an der Bocca d'Arno im warmen Auto.",
+            "hu": "Kényelmes érkezés a Dóm térhez a tiszta téli levegőben. Délben a történelmi emlékeket hőség nélkül fedezzük fel. Délután Marina di Pisába autózunk egy magányos tengerparti sétára. A naplementét a Bocca d'Arnónál az autó melegéből nézzük.",
+            "ro": "Sosire confortabilă la Piața Domului în aerul clar de iarnă. La prânz explorăm istoria fără caniculă. După-amiaza conducem la Marina di Pisa pentru o plimbare solitară. Apusul îl vedem la Bocca d'Arno din căldura mașinii.",
+            "en": "Comfortable arrival at the square in the clear winter air. At noon, explore the history without the summer heat. In the afternoon, drive to Marina di Pisa for a solitary beach walk. Experience the sunset at Bocca d'Arno from the warmth of the car."
+          },
+          "stops": [
+            {
+              "name": "Piazza dei Miracoli (parking)",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter direkt am Platz leicht zu finden.",
+                "hu": "Télen könnyen találni parkolót közvetlenül a tér mellett.",
+                "ro": "Parcările sunt ușor de găsit iarna chiar lângă piață.",
+                "en": "Parking is much easier to find near the square in winter."
+              }
+            },
+            {
+              "name": "Leaning Tower",
+              "tip_5lang": {
+                "de": "Die Sonne steht tief; ideal für Fotos ohne harte Schatten.",
+                "hu": "A nap alacsonyan jár; ideális fotókhoz kemény árnyékok nélkül.",
+                "ro": "Soarele e jos; ideal pentru poze fără umbre dure.",
+                "en": "The sun is low; ideal for photos without harsh shadows."
+              }
+            },
+            {
+              "name": "Knights' Square",
+              "tip_5lang": {
+                "de": "Die Fassaden wirken im tiefen Winterlicht besonders schön.",
+                "hu": "A homlokzatok a téli fényben különösen szépen mutatnak.",
+                "ro": "Fațadele arată deosebit de frumos în lumina joasă de iarnă.",
+                "en": "The facades look especially beautiful in the low winter light."
+              }
+            },
+            {
+              "name": "Marina di Pisa",
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Promenade für den Meerblick.",
+                "hu": "Parkoljon közvetlenül a sétányon a tengeri kilátáshoz.",
+                "ro": "Parcați chiar pe faleză pentru vederea la mare.",
+                "en": "Park right on the promenade for a clear sea view."
+              }
+            },
+            {
+              "name": "Bocca d'Arno",
+              "tip_5lang": {
+                "de": "Seien Sie spätestens um 16:30 Uhr für das Licht hier.",
+                "hu": "Legyen itt legkésőbb 16:30-ra a fények miatt.",
+                "ro": "Fiți aici cel târziu la 16:30 pentru lumina apusului.",
+                "en": "Be here by 4:30 PM at the latest for the best light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Heizen Sie das Auto vor der Fahrt zur Küste gut auf.",
+              "Die Parkgebühren sind im Winter oft niedriger oder entfallen.",
+              "Genießen Sie den Sonnenuntergang vom Auto aus mit Musik.",
+              "Achten Sie auf Reifglätte auf den Brücken über den Arno."
+            ],
+            "hu": [
+              "Fűtse fel az autót alaposan a parti út előtt.",
+              "A parkolási díjak télen egyes helyeken kedvezőbbek lehetnek.",
+              "Élvezze a naplementét az autóból egy jó zenével.",
+              "Ügyeljen a hajnali fagyokra az Arno hídjain."
+            ],
+            "ro": [
+              "Încălziți bine mașina înainte de drumul spre coastă.",
+              "Taxele de parcare pot fi mai mici în extrasezon.",
+              "Savurați apusul din mașină ascultând o muzică bună.",
+              "Atenție la polei pe podurile peste râul Arno."
+            ],
+            "en": [
+              "Warm up the car thoroughly before driving to the coast.",
+              "Parking fees might be lower in certain areas during winter.",
+              "Enjoy the sunset from the car with some good music.",
+              "Watch out for icy patches on the bridges over the Arno."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1106,6 +2310,390 @@
           "Buses run very regularly between the station and the tower.",
           "Remember to validate your ticket on the bus."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das effiziente LAM Rossa Bussystem, um Pisa zu erkunden. Beginnen Sie am Bahnhof mit Harings Murales und fahren Sie dann bequem zum Piazza dei Cavalieri. Der Höhepunkt ist der Piazza dei Miracoli, wo Sie alle Monumente inklusive des Schiefen Turms und des Camposanto besichtigen können. Ein entspannter Tag ohne lange Fußwege.",
+            "hu": "Használja ki a hatékony LAM Rossa buszhálózatot Pisa felfedezéséhez. Kezdjen az állomásnál Haring falfestményével, majd utazzon kényelmesen a lovagok terére. A csúcspont a Csodák tere, ahol minden műemléket megtekinthet a Ferde Toronytól a Camposanto-ig. Pihentető nap, hosszú gyaloglás nélkül.",
+            "ro": "Folosiți sistemul eficient de autobuze LAM Rossa pentru a explora Pisa. Începeți la gară cu muralul lui Haring, apoi mergeți confortabil spre Piazza dei Cavalieri. Punctul culminant este Piazza dei Miracoli, unde puteți vizita toate monumentele, inclusiv Turnul Înclinat și Camposanto. O zi relaxată fără mers pe jos excesiv.",
+            "en": "Use the efficient LAM Rossa bus system to explore Pisa. Start at the station with Haring's mural, then travel comfortably to Knights' Square. The highlight is the Field of Miracles, where you can visit all the monuments including the Leaning Tower and the Camposanto. A relaxed day without long walks."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Murales Tuttomondo",
+                "hu": "Tuttomondo falfestmény",
+                "ro": "Pictura Murală Tuttomondo",
+                "en": "Tuttomondo Mural"
+              },
+              "tip_5lang": {
+                "de": "Gleich beim Bahnhof Pisa Centrale.",
+                "hu": "A Pisa Centrale vasútállomás közvetlen közelében.",
+                "ro": "Chiar lângă gara Pisa Centrale.",
+                "en": "Right by the Pisa Centrale railway station."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza dei Cavalieri",
+                "hu": "Piazza dei Cavalieri",
+                "ro": "Piața Cavalerilor",
+                "en": "Knights' Square"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie den Bus LAM Rossa Richtung Park Pietrasantina.",
+                "hu": "Használja a LAM Rossa buszt a Park Pietrasantina felé.",
+                "ro": "Luați autobuzul LAM Rossa spre Park Pietrasantina.",
+                "en": "Take the LAM Rossa bus towards Park Pietrasantina."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Pendente",
+                "hu": "Ferde torony",
+                "ro": "Turnul Înclinat",
+                "en": "Leaning Tower"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie an der Haltestelle 'Torre' aus.",
+                "hu": "Szálljon le a 'Torre' megállónál.",
+                "ro": "Coborâți la stația 'Torre'.",
+                "en": "Get off at the 'Torre' stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di Pisa",
+                "hu": "Pisai dóm",
+                "ro": "Catedrala din Pisa",
+                "en": "Pisa Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Der Eintritt ist oft zeitgebunden.",
+                "hu": "A belépés gyakran időpontfüggő.",
+                "ro": "Intrarea este adesea condiționată de oră.",
+                "en": "Entry is often time-bound."
+              }
+            },
+            {
+              "name": {
+                "de": "Battistero",
+                "hu": "Keresztelőkápolna",
+                "ro": "Baptisteriul",
+                "en": "Baptistery"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Kombitickets für alle Denkmäler.",
+                "hu": "Érdemes kombinált jegyet venni minden műemlékre.",
+                "ro": "Verificați biletele combinate pentru toate monumentele.",
+                "en": "Check for combo tickets for all monuments."
+              }
+            },
+            {
+              "name": {
+                "de": "Camposanto",
+                "hu": "Camposanto",
+                "ro": "Camposanto",
+                "en": "Camposanto"
+              },
+              "tip_5lang": {
+                "de": "Ruhepol auf dem sonst sehr belebten Platz.",
+                "hu": "A nyugalom szigete a nyüzsgő téren.",
+                "ro": "O oază de liniște în piața aglomerată.",
+                "en": "A peaceful spot in the busy square."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Pizzeria Il Montino",
+                "tip": "Authentische Cecina in einer Seitenstraße."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pizzeria Il Montino",
+                "tip": "Autentikus Cecina egy kis mellékutcában."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pizzeria Il Montino",
+                "tip": "Cecina autentică pe o străduță lăturalnică."
+              }
+            ],
+            "en": [
+              {
+                "name": "Pizzeria Il Montino",
+                "tip": "Authentic Cecina in a side street."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Arno-Ufer",
+                "tip": "Abseits der Turm-Massen spazieren gehen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Arno-part",
+                "tip": "Séta távol a torony körüli tömegtől.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Malul râului Arno",
+                "tip": "O plimbare departe de mulțimea de la turn.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Arno river banks",
+                "tip": "Walk away from the tower crowds.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Corso Italia",
+                "tip": "Bequem per Bus erreichbare Shoppingmeile."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Corso Italia",
+                "tip": "Busszal könnyen elérhető bevásárlóutca."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Corso Italia",
+                "tip": "Strada de shopping accesibilă ușor cu autobuzul."
+              }
+            ],
+            "en": [
+              {
+                "name": "Corso Italia",
+                "tip": "Shopping street easily accessible by bus."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tickets für den Bus müssen vor dem Einsteigen gekauft werden.",
+              "Die LAM Rossa Linie ist die wichtigste für Touristen.",
+              "Busse fahren sehr regelmäßig zwischen Bahnhof und Turm.",
+              "Achten Sie auf Entwertungsgeräte im Bus."
+            ],
+            "hu": [
+              "A buszjegyeket a felszállás előtt kell megvásárolni.",
+              "A LAM Rossa vonal a legfontosabb a turisták számára.",
+              "A buszok sűrűn járnak az állomás és a torony között.",
+              "Ne felejtse el érvényesíteni a jegyét a buszon."
+            ],
+            "ro": [
+              "Biletele de autobuz trebuie cumpărate înainte de îmbarcare.",
+              "Linia LAM Rossa este cea mai importantă pentru turiști.",
+              "Autobuzele circulă foarte regulat între gară și turn.",
+              "Nu uitați să compostați biletul în autobuz."
+            ],
+            "en": [
+              "Bus tickets must be purchased before boarding.",
+              "The LAM Rossa line is the most important for tourists.",
+              "Buses run very regularly between the station and the tower.",
+              "Remember to validate your ticket on the bus."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem LAM-Bus geht es trocken durch die Stadt zum Mural. Mittags verbringen wir viel Zeit in den Monumenten der Piazza dei Miracoli. Nachmittags nutzen wir die überdachten Haltestellen für den Weg zurück. Der Camposanto bietet mit seinen Arkaden einen perfekten Regen-Spaziergang.",
+            "hu": "A LAM busszal szárazon jutunk el a falfestményhez. Délben sok időt töltünk a Csodák tere fedett műemlékeiben. Délután a várótermeket és fedett megállókat használjuk a visszautazáshoz. A Camposanto árkádjai alatt esőben is kényelmes a séta.",
+            "ro": "Cu autobuzul LAM traversăm orașul uscați spre mural. La prânz petrecem timp în monumentele acoperite din Piața Miracolelor. După-amiaza folosim stațiile acoperite pentru drumul de întoarcere. Camposanto oferă o plimbare perfectă sub arcade.",
+            "en": "Take the LAM bus to stay dry while traveling to the mural. At noon, spend plenty of time inside the monuments. In the afternoon, use sheltered bus stops for your return trip. The Camposanto's porticos offer a perfect rainy-day walk."
+          },
+          "stops": [
+            {
+              "name": "Tuttomondo Mural",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte vom Mural entfernt.",
+                "hu": "A buszmegálló mindössze pár lépésre van a falfestménytől.",
+                "ro": "Stația de autobuz este la doar câțiva pași de mural.",
+                "en": "The bus stop is just a few steps away from the mural."
+              }
+            },
+            {
+              "name": "Knights' Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die langen Wege im Regen zu sparen.",
+                "hu": "Használja a buszt, hogy megspórolja a hosszú gyaloglást.",
+                "ro": "Folosiți autobuzul pentru a evita mersul lung prin ploaie.",
+                "en": "Use the bus to avoid long walks in the rainy weather."
+              }
+            },
+            {
+              "name": "Leaning Tower",
+              "tip_5lang": {
+                "de": "Die LAM-Linie hält direkt am Eingang zur Piazza.",
+                "hu": "A LAM járat közvetlenül a tér bejáratánál áll meg.",
+                "ro": "Linia LAM oprește chiar la intrarea în piață.",
+                "en": "The LAM bus line stops right at the entrance to the square."
+              }
+            },
+            {
+              "name": "Pisa Cathedral",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um auf den nächsten Bus-Takt zu warten.",
+                "hu": "Ideális helyszín a következő buszjárat megvárásához.",
+                "ro": "Un loc ideal pentru a aștepta următorul autobuz.",
+                "en": "An ideal place to wait for the next bus scheduled."
+              }
+            },
+            {
+              "name": "Baptistery",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten online im trockenen Inneren.",
+                "hu": "Ellenőrizze a menetrendet online a száraz belső térben.",
+                "ro": "Verificați programul online din interiorul uscat.",
+                "en": "Check the bus schedule online from the dry interior."
+              }
+            },
+            {
+              "name": "Camposanto",
+              "tip_5lang": {
+                "de": "Die langen, überdachten Gänge sind perfekt bei Regen.",
+                "hu": "A hosszú, fedett folyosók tökéletesek esős időben.",
+                "ro": "Coridoarele lungi și acoperite sunt perfecte pe ploaie.",
+                "en": "The long, covered corridors are perfect for a rainy day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Bustickets vorab im Tabakladen oder per App.",
+              "Die LAM Rossa Linie verbindet den Bahnhof mit dem Domplatz.",
+              "Busse können bei starkem Regen oft etwas verspätet sein.",
+              "Tragen Sie wasserfeste Schuhe für den Weg zur Haltestelle."
+            ],
+            "hu": [
+              "Vegye meg a jegyet előre újságosnál vagy applikációban.",
+              "A LAM Rossa járat összeköti a vasútállomást a Dóm térrel.",
+              "A buszok esőben gyakran késhetnek a városi forgalom miatt.",
+              "Viseljen vízálló cipőt a megállóig tartó rövid sétákhoz."
+            ],
+            "ro": [
+              "Cumpărați biletele în avans de la chioșc sau prin aplicație.",
+              "Linia LAM Rossa face legătura între gară și Piața Domului.",
+              "Autobuzele pot avea întârzieri pe ploaie din cauza traficului.",
+              "Purtați încălțăminte impermeabilă pentru drumul spre stație."
+            ],
+            "en": [
+              "Buy bus tickets in advance at a 'Tabacchi' or via app.",
+              "The LAM Rossa line connects the station with the Square.",
+              "Buses can be slightly delayed during heavy rain due to traffic.",
+              "Wear waterproof shoes for the short walks to the bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bringt uns der geheizte Bus schnell zum Mural. Mittags erkunden wir den Domplatz in der klaren Winterluft. Nachmittags wärmen wir uns im Bus auf dem Weg zwischen den Sehenswürdigkeiten auf. Der Camposanto wirkt im Winterlicht besonders feierlich.",
+            "hu": "Reggel a fűtött busz gyorsan elvisz minket a falfestményhez. Délben a Dóm teret a friss téli levegőben fedezzük fel. Délután a buszon melegszünk fel a látnivalók közötti úton. A Camposanto a téli fényekben különösen ünnepélyes.",
+            "ro": "Dimineața autobuzul încălzit ne duce rapid la mural. La prânz explorăm Piața Domului în aerul proaspăt de iarnă. După-amiaza ne încălzim în autobuz între obiectivele turistice. Camposanto arată solemn în lumina iernii.",
+            "en": "In the morning, the heated bus takes us quickly to the mural. At noon, explore the square in the fresh winter air. In the afternoon, warm up on the bus between the sights. The Camposanto feels particularly solemn in the winter light."
+          },
+          "stops": [
+            {
+              "name": "Tuttomondo Mural",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet Schutz vor dem kalten Wind.",
+                "hu": "A buszmegálló védelmet nyújt a hideg szél ellen.",
+                "ro": "Stația de autobuz oferă protecție împotriva vântului rece.",
+                "en": "The bus stop provides good protection from the cold wind."
+              }
+            },
+            {
+              "name": "Knights' Square",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich kurz im Bus auf, bevor Sie aussteigen.",
+                "hu": "Melegedjen fel a buszon, mielőtt kiszáll a térnél.",
+                "ro": "Încălziți-vă în autobuz înainte de a coborî în piață.",
+                "en": "Warm up on the bus before getting off at the square."
+              }
+            },
+            {
+              "name": "Leaning Tower",
+              "tip_5lang": {
+                "de": "Im Winter gibt es oft Sitzplätze in den Linienbussen.",
+                "hu": "Télen gyakran van ülőhely a helyi járatokon.",
+                "ro": "Iarna găsiți adesea locuri pe scaun în autobuzele locale.",
+                "en": "In winter, you can often find a seat on the local buses."
+              }
+            },
+            {
+              "name": "Pisa Cathedral",
+              "tip_5lang": {
+                "de": "Die Besichtigung bietet eine Pause vom kalten Wind.",
+                "hu": "A látogatás jó szünetet jelent a hideg szélben.",
+                "ro": "Vizita oferă o pauză binemeritată de la vântul rece.",
+                "en": "The visit offers a nice break from the chilly outside wind."
+              }
+            },
+            {
+              "name": "Baptistery",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt zum Bahnhof rechtzeitig ein.",
+                "hu": "Tervezze meg időben a visszautat a vasútállomáshoz.",
+                "ro": "Planificați din timp drumul de întoarcere spre gară.",
+                "en": "Plan your return trip to the station in good time."
+              }
+            },
+            {
+              "name": "Camposanto",
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist hier im Winter magisch.",
+                "hu": "A délutáni fények télen egészen varázslatosak itt.",
+                "ro": "Lumina de după-amiază este magică aici în timpul iernii.",
+                "en": "The afternoon light here is quite magical during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter angenehm geheizt.",
+              "Prüfen Sie die Winterfahrpläne für eventuelle Änderungen.",
+              "Nutzen Sie den Bus für die Fahrt zum warmen Hotel.",
+              "Die Ticketautomaten funktionieren auch bei Kälte einwandfrei."
+            ],
+            "hu": [
+              "A buszok télen kellemesen fűtöttek és tiszták.",
+              "Ellenőrizze a téli menetrendet az esetleges módosításokért.",
+              "Használja a buszt a meleg szálláshelyre való visszajutáshoz.",
+              "A jegyautomaták hidegben is üzembiztosan működnek."
+            ],
+            "ro": [
+              "Autobuzele sunt plăcut încălzite și curate iarna.",
+              "Verificați orarul de iarnă pentru eventuale modificări.",
+              "Folosiți autobuzul pentru a reveni la cazarea călduroasă.",
+              "Automatele de bilete funcționează bine și pe ger."
+            ],
+            "en": [
+              "Buses are comfortably heated and clean during winter.",
+              "Check the winter schedules for any seasonal changes.",
+              "Use the bus to get back to your warm accommodation quickly.",
+              "Ticket machines work perfectly even in cold weather."
+            ]
+          }
+        }
       }
     }
   },

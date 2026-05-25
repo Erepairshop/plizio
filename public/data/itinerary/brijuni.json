@@ -281,6 +281,394 @@
           "Take plenty of water with you.",
           "Pay attention to the last ferry departure time."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Morgens tauchen Sie im Tito-Museum in die Geschichte ein. Mittags genießen Sie die Ruhe im mediterranen Garten und besuchen den 1600 Jahre alten Olivenbaum. Am Nachmittag erkunden Sie die sakralen Ruinen der Marienbasilika. Den Abend lassen Sie zwischen den Mauern des byzantinischen Kastrums ausklingen, während die Sonne langsam über der Adria versinkt.",
+            "hu": "Reggel a Tito-múzeumban merülhet el a történelemben. Délben a mediterrán kert nyugalmát élvezheti, és meglátogathatja az 1600 éves olajfát. Délután a Szent Mária-bazilika szakrális romjait fedezheti fel. Az estét a bizánci kasztrum falai között zárhatja, miközben a nap lassan lebukik az Adria felett.",
+            "ro": "Dimineața, vă scufundați în istorie la Muzeul Tito. La prânz, vă bucurați de liniștea grădinii mediteraneene și vizitați măslinul vechi de 1600 de ani. După-amiaza, explorați ruinele sacre ale Bazilicii Sfânta Maria. Seara se încheie printre zidurile castrului bizantin, în timp ce soarele apune încet peste Marea Adriatică.",
+            "en": "In the morning, immerse yourself in history at the Tito Museum. At midday, enjoy the tranquility of the Mediterranean garden and visit the 1600-year-old olive tree. In the afternoon, explore the sacred ruins of St. Mary's Basilica. The evening ends among the walls of the Byzantine Castrum as the sun slowly sets over the Adriatic."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tito-Museum",
+                "hu": "Tito Múzeum",
+                "ro": "Muzeul Tito",
+                "en": "Tito Museum"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Fotoausstellung 'Tito auf Brioni'.",
+                "hu": "Nézze meg a 'Tito Brioni-szigetén' fotókiállítást.",
+                "ro": "Vizitați expoziția foto 'Tito pe Brioni'.",
+                "en": "Visit the 'Tito on Brijuni' photo exhibition."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittelmeer-Garten",
+                "hu": "Mediterrán kert",
+                "ro": "Grădina Mediteraneană",
+                "en": "Mediterranean Garden"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die lokale Flora zu bewundern.",
+                "hu": "Ideális hely a helyi flóra megcsodálásához.",
+                "ro": "Un loc ideal pentru a admira flora locală.",
+                "en": "An ideal place to admire the local flora."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Olivenbaum",
+                "hu": "Öreg olajfa",
+                "ro": "Măslinul străvechi",
+                "en": "Old Olive Tree"
+              },
+              "tip_5lang": {
+                "de": "Dieser Baum ist über 1600 Jahre alt.",
+                "hu": "Ez a fa több mint 1600 éves.",
+                "ro": "Acest copac are o vechime de peste 1600 de ani.",
+                "en": "This tree is over 1600 years old."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika der Heiligen Maria",
+                "hu": "Szent Mária-bazilika",
+                "ro": "Bazilica Sfânta Maria",
+                "en": "Basilica of Saint Mary"
+              },
+              "tip_5lang": {
+                "de": "Ruinen einer dreischiffigen christlichen Basilika.",
+                "hu": "Egy háromhajós keresztény bazilika romjai.",
+                "ro": "Ruinele unei bazilici creștine cu trei nave.",
+                "en": "Ruins of a three-aisled Christian basilica."
+              }
+            },
+            {
+              "name": {
+                "de": "Byzantinisches Kastrum",
+                "hu": "Bizánci kasztrum",
+                "ro": "Castrul Bizantin",
+                "en": "Byzantine Castrum"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Überreste der befestigten Siedlung.",
+                "hu": "Fedezze fel a megerődített település maradványait.",
+                "ro": "Descoperiți rămășițele așezării fortificate.",
+                "en": "Explore the remains of the fortified settlement."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Restaurant Galija",
+                "tip": "Probieren Sie frische Meeresfrüchte direkt am Hafen."
+              },
+              {
+                "name": "Istrische Trüffelpasta",
+                "tip": "Eine lokale Delikatesse, oft in den Hotelrestaurants serviert."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Galija Étterem",
+                "tip": "Kóstolja meg a friss tenger gyümölcseit közvetlenül a kikötőben."
+              },
+              {
+                "name": "Isztriai szarvasgombás tészta",
+                "tip": "Helyi különlegesség, gyakran a szállodai éttermekben kínálják."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurant Galija",
+                "tip": "Încercați fructe de mare proaspete chiar în port."
+              },
+              {
+                "name": "Paste cu trufe istriene",
+                "tip": "O delicatesă locală, servită adesea în restaurantele hotelurilor."
+              }
+            ],
+            "en": [
+              {
+                "name": "Restaurant Galija",
+                "tip": "Try fresh seafood right at the harbor."
+              },
+              {
+                "name": "Istrian Truffle Pasta",
+                "tip": "A local delicacy often served in the hotel restaurants."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Uferpromenade",
+                "tip": "Ein ruhiger Spaziergang am Meer.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Alter Olivenbaum",
+                "tip": "Ein Ort der Stille unter uralten Zweigen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Parti sétány",
+                "tip": "Csendes séta a tengerparton.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Öreg olajfa",
+                "tip": "A nyugalom helye az ősi ágak alatt.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Promenada de la malul mării",
+                "tip": "O plimbare liniștită pe malul mării.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Măslinul străvechi",
+                "tip": "Un loc de liniște sub ramuri milenare.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Seaside Promenade",
+                "tip": "A quiet walk along the sea.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Old Olive Tree",
+                "tip": "A place of silence under ancient branches.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Souvenirshop im Hafen",
+                "tip": "Brijuni-Naturkosmetik und Postkarten."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötői ajándékbolt",
+                "tip": "Brijuni natúrkozmetikumok és képeslapok."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de suveniruri din port",
+                "tip": "Cosmetice naturale Brijuni și cărți poștale."
+              }
+            ],
+            "en": [
+              {
+                "name": "Harbor Souvenir Shop",
+                "tip": "Brijuni natural cosmetics and postcards."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Buchen Sie die Fähre von Fažana im Voraus.",
+              "Tragen Sie bequeme Wanderschuhe.",
+              "Nehmen Sie ausreichend Wasser mit.",
+              "Beachten Sie die Fahrzeiten der letzten Fähre."
+            ],
+            "hu": [
+              "Foglalja le előre a kompot Fažanából.",
+              "Viseljen kényelmes gyaloglócipőt.",
+              "Vigyen magával elegendő vizet.",
+              "Ügyeljen az utolsó komp indulási idejére."
+            ],
+            "ro": [
+              "Rezervați ferry-ul din Fažana în avans.",
+              "Purtați pantofi de mers confortabili.",
+              "Luați suficientă apă cu voi.",
+              "Fiți atenți la ora de plecare a ultimului ferry."
+            ],
+            "en": [
+              "Book the ferry from Fažana in advance.",
+              "Wear comfortable walking shoes.",
+              "Take plenty of water with you.",
+              "Pay attention to the last ferry departure time."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie im Tito-Museum, während der Regen fällt. Mittags erkunden Sie den mediterranen Garten mit einem Regenschirm. Nachmittags besuchen Sie den alten Olivenbaum und die Basilika im leichten Nieselregen. Beenden Sie den Spaziergang am byzantinischen Castrum, wo Sie bei stärkerem Regen unter Bäumen Schutz suchen können.",
+            "hu": "Kezdje a fedett Tito Múzeumban az esős reggelt. Délben egy esernyővel sétáljon a Mediterrán Kertben. Délután a régi olajfa és a bazilika romjai következnek a szemerkélő esőben. Este a Bizánci Castrumnál fejezze be a túrát, menedéket keresve a fák alatt, ha rázendít az eső.",
+            "ro": "Începeți la Muzeul Tito în timp ce plouă dimineața. La prânz, explorați Grădina Mediteraneană cu o umbrelă. După-amiaza, vizitați măslinul antic și ruinele bazilicii în ploaie măruntă. Încheiați plimbarea la Castrul Bizantin, adăpostindu-vă sub copaci dacă ploaia se întețește.",
+            "en": "Start indoors at the Tito Museum as morning rain falls. Midday, explore the Mediterranean Garden with an umbrella. Spend the afternoon viewing the Old Olive Tree and Basilica ruins in the atmospheric drizzle. Conclude at the Byzantine Castrum as evening sets in, seeking shelter under trees if needed."
+          },
+          "stops": [
+            {
+              "name": "Tito Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um dem Regen am Morgen zu entfliehen.",
+                "hu": "Tökéletes menedék a reggeli záporok elől.",
+                "ro": "Adăpost perfect împotriva ploii de dimineață.",
+                "en": "Perfect indoor shelter from the morning rain."
+              }
+            },
+            {
+              "name": "Mediterranean Garden",
+              "tip_5lang": {
+                "de": "Die Farben der Pflanzen leuchten schön bei Regen.",
+                "hu": "A növények színei sokkal élénkebbek esőben.",
+                "ro": "Culorile plantelor sunt mult mai vii în ploaie.",
+                "en": "Plant colors are incredibly vibrant in the rain."
+              }
+            },
+            {
+              "name": "Old Olive Tree",
+              "tip_5lang": {
+                "de": "Der unbefestigte Boden kann hier schlammig sein.",
+                "hu": "A talaj kissé saras lehet a fa körül.",
+                "ro": "Pământul poate fi destul de noroios aici.",
+                "en": "The ground can get quite muddy around the tree."
+              }
+            },
+            {
+              "name": "Basilica of Saint Mary",
+              "tip_5lang": {
+                "de": "Besondere Vorsicht auf den nassen Ruinensteinen.",
+                "hu": "Vigyázz a nedves és csúszós köveken.",
+                "ro": "Atenție mare la pietrele umede și alunecoase.",
+                "en": "Watch your step carefully on the wet, slippery stones."
+              }
+            },
+            {
+              "name": "Byzantine Castrum",
+              "tip_5lang": {
+                "de": "Suchen Sie bei einem Schauer Schutz unter den Bäumen.",
+                "hu": "Keress menedéket a fák alatt, ha rázendít az eső.",
+                "ro": "Căutați adăpost sub copaci dacă începe să plouă tare.",
+                "en": "Seek shelter under nearby trees if it starts to pour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die unbefestigten Naturwege im Park.",
+              "Ein robuster Regenschirm ist wegen des starken Seewinds unerlässlich.",
+              "Nutzen Sie die Museen als trockene Pausenorte während heftiger Schauer.",
+              "Achten Sie besonders auf nasses Gras und rutschige Steine bei den Ruinen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a nemzeti park földútjai miatt.",
+              "Erős esernyő vagy esőkabát ajánlott a tengeri szél miatt.",
+              "Használja a benti múzeumokat menedékként a nagyobb záporok idején.",
+              "A történelmi romok kövei és a füves részek nagyon csúszósak lehetnek."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pe potecile naturale din parc.",
+              "O umbrelă rezistentă sau o pelerină este vitală din cauza vântului de pe mare.",
+              "Folosiți muzeele de interior ca refugii uscate în timpul ploilor torențiale.",
+              "Atenție mare la iarba udă și la pietrele alunecoase din jurul ruinelor."
+            ],
+            "en": [
+              "Wear waterproof shoes for the unpaved natural paths throughout the park.",
+              "A sturdy umbrella or raincoat is essential due to the coastal sea breezes.",
+              "Use the indoor museums as dry shelters during heavy rain showers.",
+              "Be very careful on wet grass and slippery historical stones at the ruins."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie an einem kühlen Wintermorgen im beheizten Tito-Museum. Mittags genießen Sie die Ruhe im frostigen mediterranen Garten. Nachmittags wirft die tiefstehende Sonne lange Schatten auf den Olivenbaum und die Basilika. Beenden Sie die Tour am Castrum vor der frühen Abenddämmerung.",
+            "hu": "Kezdje a hűvös téli reggelt a fűtött Tito Múzeumban. Délben élvezze a csendes, dérlepte Mediterrán Kertet. Délután a lemenő nap hosszú árnyékokat vet az olajfára és a bazilikára. Fejezze be a sétát a Castrumnál még a korai sötétedés előtt.",
+            "ro": "Începeți dimineața rece de iarnă la Muzeul Tito. La prânz, bucurați-vă de liniștea din Grădina Mediteraneană acoperită de brumă. După-amiaza, soarele apune devreme peste Măslin și ruinele Bazilicii. Încheiați la Castru înainte de lăsarea întunericului.",
+            "en": "Begin your crisp winter morning at the heated Tito Museum. By midday, enjoy the quiet, frost-kissed paths of the Mediterranean Garden. In the afternoon, the low winter sun casts long shadows over the Old Olive Tree and Basilica. Conclude at the Castrum before the early evening chill."
+          },
+          "stops": [
+            {
+              "name": "Tito Museum",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen an einem kalten Wintermorgen.",
+                "hu": "Ideális a reggeli felmelegedéshez a séta előtt.",
+                "ro": "Ideal pentru a vă încălzi dimineața înainte de plimbare.",
+                "en": "Ideal for warming up indoors on a crisp morning."
+              }
+            },
+            {
+              "name": "Mediterranean Garden",
+              "tip_5lang": {
+                "de": "Wunderschön und friedlich im sanften winterlichen Licht.",
+                "hu": "Gyönyörű és békés a téli, szűrt napfényben.",
+                "ro": "Superb și foarte liniștit în lumina blândă de iarnă.",
+                "en": "Beautiful and peaceful in the soft winter sunlight."
+              }
+            },
+            {
+              "name": "Old Olive Tree",
+              "tip_5lang": {
+                "de": "Im Winter müssen Sie hier keinen Schatten suchen.",
+                "hu": "Télen nincs szükség árnyékra ezen a nyílt területen.",
+                "ro": "Nu este nevoie de umbră pe această zonă deschisă iarna.",
+                "en": "No need to seek shade in this open area during winter."
+              }
+            },
+            {
+              "name": "Basilica of Saint Mary",
+              "tip_5lang": {
+                "de": "Sehr mystisch und ruhig ohne die Sommermassen.",
+                "hu": "Nagyon misztikus és békés a nyári tömeg nélkül.",
+                "ro": "Foarte mistic și liniștit fără aglomerația de vară.",
+                "en": "Very mystical and peaceful without the summer crowds."
+              }
+            },
+            {
+              "name": "Byzantine Castrum",
+              "tip_5lang": {
+                "de": "Tolle Fotomotive bei der tief stehenden Wintersonne.",
+                "hu": "Remek fotókat készíthet a korai naplementében.",
+                "ro": "Poze grozave la lumina apusului timpuriu de iarnă.",
+                "en": "Great photography light during the early winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ziehen Sie sich im Zwiebellook an, da der Bora-Wind auf der Insel sehr kalt sein kann.",
+              "Die Sonne geht im Winter früh unter, nutzen Sie die hellen Stunden optimal aus.",
+              "Prüfen Sie den Winterfahrplan der Fähre genau, da sie viel seltener fährt.",
+              "Bringen Sie Snacks und warme Getränke mit, da die meisten Cafés im Park geschlossen sind."
+            ],
+            "hu": [
+              "Réteges öltözködés javasolt, mert a szigeten fújó bóra szél nagyon hideg lehet.",
+              "A nap korán nyugszik, ezért induljon időben, hogy kihasználja a világosságot.",
+              "Gondosan ellenőrizze a téli kompmenetrendet, mert sokkal ritkábban járnak a hajók.",
+              "Hozzon magával harapnivalót és meleg italt, mivel a kávézók többsége zárva tart."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece vântul Bora pe insulă poate fi foarte rece.",
+              "Soarele apune devreme, așa că profitați la maximum de orele de lumină naturală.",
+              "Verificați cu atenție orarul de iarnă al feribotului, deoarece cursele sunt rare.",
+              "Aduceți gustări și o băutură caldă, deoarece majoritatea cafenelelor sunt închise."
+            ],
+            "en": [
+              "Dress in warm layers as the coastal Bora wind can be bitterly cold on the island.",
+              "Sunset is very early in winter, so start your walk promptly to maximize daylight.",
+              "Check the winter ferry schedule carefully as boats run much less frequently.",
+              "Bring your own snacks and a thermos, as most park cafes are closed for the season."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -543,6 +931,390 @@
           "Avoid cycling in the blazing midday sun.",
           "Watch out for wildlife crossing the path."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Fahrrad erkunden Sie morgens die Küste bis zur römischen Villa. Mittags radeln Sie durch schattige Alleen zum Safari-Park im Norden. Nachmittags suchen Sie nach Dinosaurierspuren am Meeresufer. Zum Abschluss besuchen Sie das Museum im Hafenviertel, bevor Sie die Abendfähre zurück zum Festland nehmen.",
+            "hu": "Kerékpárral reggel a part mentén a római villáig tekerhet. Délben árnyas fasorokon keresztül jut el az északi szafari parkba. Délután dinoszaurusznyomokat kereshet a tengerparton. Végezetül látogasson el a kikötőnegyed múzeumába, mielőtt felszállna az esti kompra vissza a szárazföldre.",
+            "ro": "Cu bicicleta, explorați coasta dimineața până la vila romană. La prânz, pedalați prin alei umbrite către parcul safari din nord. După-amiaza, căutați urme de dinozauri pe malul mării. În final, vizitați muzeul din zona portului înainte de a lua ferry-ul de seară înapoi pe continent.",
+            "en": "By bike, explore the coast in the morning as far as the Roman villa. At midday, cycle through shaded avenues to the Safari Park in the north. In the afternoon, look for dinosaur footprints on the seashore. Finally, visit the museum in the harbor district before taking the evening ferry back to the mainland."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alter Olivenbaum",
+                "hu": "Öreg olajfa",
+                "ro": "Măslinul străvechi",
+                "en": "Old Olive Tree"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss für Naturfotografen.",
+                "hu": "Természetfotósoknak kötelező látnivaló.",
+                "ro": "O necesitate pentru fotografii de natură.",
+                "en": "A must-see for nature photographers."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Villa in der Verige-Bucht",
+                "hu": "Római villa a Verige-öbölben",
+                "ro": "Vila romană din golful Verige",
+                "en": "Roman Villa in Verige Bay"
+              },
+              "tip_5lang": {
+                "de": "Beeindruckende Mosaike direkt am Wasser.",
+                "hu": "Lenyűgöző mozaikok közvetlenül a vízparton.",
+                "ro": "Mozaicuri impresionante chiar lângă apă.",
+                "en": "Impressive mosaics right by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika der Heiligen Maria",
+                "hu": "Szent Mária-bazilika",
+                "ro": "Bazilica Sfânta Maria",
+                "en": "Basilica of Saint Mary"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die byzantinischen Ruinen.",
+                "hu": "Fedezze fel a bizánci romokat.",
+                "ro": "Explorați ruinele bizantine.",
+                "en": "Explore the Byzantine ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Safari-Park",
+                "hu": "Szafari park",
+                "ro": "Safari Park",
+                "en": "Safari Park"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie Zebras, Lamas und den Elefanten Lanka.",
+                "hu": "Nézze meg a zebrákat, lámákat és Lanka elefántot.",
+                "ro": "Vedeți zebre, lame și elefantul Lanka.",
+                "en": "See zebras, llamas, and Lanka the elephant."
+              }
+            },
+            {
+              "name": {
+                "de": "Dinosaurier-Fußabdrücke",
+                "hu": "Dinoszaurusz lábnyomok",
+                "ro": "Urme de dinozauri",
+                "en": "Dinosaur Footprints"
+              },
+              "tip_5lang": {
+                "de": "Echte Kreidezeit-Spuren an der Küste.",
+                "hu": "Valódi kréta kori nyomok a parton.",
+                "ro": "Urme reale din perioada cretacică pe țărm.",
+                "en": "Real Cretaceous footprints on the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Tito-Museum",
+                "hu": "Tito Múzeum",
+                "ro": "Muzeul Tito",
+                "en": "Tito Museum"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Besuch der Hauptausstellung.",
+                "hu": "Rövid látogatás a fő kiállításon.",
+                "ro": "Scurtă vizită la expoziția principală.",
+                "en": "Short visit to the main exhibition."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Brijuni Picknick",
+                "tip": "Mieten Sie ein Fahrrad mit Korb für ein Picknick."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Brijuni Piknik",
+                "tip": "Béreljen kosaras kerékpárt egy piknikhez."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Picnic Brijuni",
+                "tip": "Închiriați o bicicletă cu coș pentru un picnic."
+              }
+            ],
+            "en": [
+              {
+                "name": "Brijuni Picnic",
+                "tip": "Rent a bike with a basket for a picnic."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Verige-Bucht",
+                "tip": "Ruhiger Badeplatz bei den Ruinen.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Verige-öböl",
+                "tip": "Csendes fürdőhely a romoknál.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Golful Verige",
+                "tip": "Loc de scăldat liniștit lângă ruine.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Verige Bay",
+                "tip": "Quiet swimming spot near the ruins.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Fahrradverleih-Shop",
+                "tip": "Karten der Radwege erhältlich."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kerékpárkölcsönző bolt",
+                "tip": "Kerékpárút-térképek kaphatók."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazinul de închirieri biciclete",
+                "tip": "Hărți ale pistelor de biciclete disponibile."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bike Rental Shop",
+                "tip": "Bike path maps available."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie Fahrräder direkt am Hafen.",
+              "Die Wege sind größtenteils flach und gut befahrbar.",
+              "Vermeiden Sie das Radfahren in der prallen Mittagssonne.",
+              "Achten Sie auf Wildtiere, die den Weg kreuzen."
+            ],
+            "hu": [
+              "Béreljen kerékpárt közvetlenül a kikötőben.",
+              "Az utak többnyire síkok és jól járhatóak.",
+              "Kerülje a kerékpározást a déli tűző napon.",
+              "Ügyeljen az utat keresztező vadon élő állatokra."
+            ],
+            "ro": [
+              "Închiriați biciclete direct din port.",
+              "Traseele sunt în mare parte plate și ușor de parcurs.",
+              "Evitați mersul cu bicicleta în soarele arzător de la prânz.",
+              "Atenție la animalele sălbatice care traversează drumul."
+            ],
+            "en": [
+              "Rent bikes directly at the harbor.",
+              "The paths are mostly flat and easy to ride.",
+              "Avoid cycling in the blazing midday sun.",
+              "Watch out for wildlife crossing the path."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie vorsichtig zum alten Olivenbaum, während der Regen den Boden aufweicht. Mittags erkunden Sie die römische Villa im Nebel. Der Nachmittag bringt eine nasse Fahrt durch den Safaripark zu den Dinosaurierspuren. Trocknen Sie sich am Abend im Tito-Museum ab.",
+            "hu": "Óvatosan tekerjen az öreg olajfához, miközben az eső feláztatja a talajt. Délben fedezze fel a ködös Római Villát. A délután egy nedves, de emlékezetes utat kínál a Szafari Parkon át a dinoszaurusz nyomokig. Este szárítkozzon meg a Tito Múzeumban.",
+            "ro": "Ciclism cu atenție spre Măslinul antic în timp ce ploaia înmoaie solul. La prânz, explorați Villa Romană în ceață. După-amiaza aduce o plimbare umedă prin Parcul Safari spre urmele de dinozaur. Uscați-vă seara la Muzeul Tito.",
+            "en": "Ride carefully to the Old Olive Tree as morning rain softens the soil. Midday, explore the Roman Villa wrapped in a misty drizzle. Afternoon brings a wet but memorable ride through the Safari Park to the dinosaur footprints. Dry off in the evening at the Tito Museum."
+          },
+          "stops": [
+            {
+              "name": "Old Olive Tree",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem matschigen Weg dorthin.",
+                "hu": "Tekerjen lassan a saras ösvényen a fához.",
+                "ro": "Pedalați încet pe poteca noroioasă spre copac.",
+                "en": "Ride slowly on the muddy path approaching the tree."
+              }
+            },
+            {
+              "name": "Roman Villa in Verige Bay",
+              "tip_5lang": {
+                "de": "Steigen Sie ab, nasse Steine sind extrem rutschig.",
+                "hu": "Szálljon le a bicikliről, a nedves kövek csúsznak.",
+                "ro": "Descălecați, pietrele ude sunt extrem de alunecoase.",
+                "en": "Dismount here, wet stones are extremely slippery."
+              }
+            },
+            {
+              "name": "Basilica of Saint Mary",
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig auf dem nassen Weg hinab.",
+                "hu": "Fékezzen időben a nedves lejtőn a bazilika felé.",
+                "ro": "Frânați din timp pe panta umedă spre bazilică.",
+                "en": "Brake early on the wet downhill approach."
+              }
+            },
+            {
+              "name": "Safari Park",
+              "tip_5lang": {
+                "de": "Tiere suchen bei starkem Regen oft Schutz unter Bäumen.",
+                "hu": "Az állatok erős esőben gyakran behúzódnak a fák alá.",
+                "ro": "Animalele se ascund adesea sub copaci pe ploaie.",
+                "en": "Animals often seek shelter under trees during heavy rain."
+              }
+            },
+            {
+              "name": "Dinosaur Footprints",
+              "tip_5lang": {
+                "de": "Große Pfützen können die Spuren teils verdecken.",
+                "hu": "A nagy tócsák eltakarhatják a lábnyomokat.",
+                "ro": "Bălțile mari pot ascunde parțial urmele.",
+                "en": "Large puddles might partially obscure the footprints."
+              }
+            },
+            {
+              "name": "Tito Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie das Fahrrad sicher und überdacht ab.",
+                "hu": "Tedd le a kerékpárt egy védett, fedett helyre.",
+                "ro": "Parcați bicicleta într-un loc sigur și acoperit.",
+                "en": "Park your bike safely near a covered area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verringern Sie den Reifendruck leicht, um auf nassen Wegen mehr Grip zu haben.",
+              "Tragen Sie einen gut sichtbaren, leuchtenden Regenmantel für bessere Sicherheit.",
+              "Die unbefestigten Wege im Nationalpark können bei Regen sehr schlammig werden.",
+              "Bremsen Sie auf den nassen Gefällen und historischen Steinwegen besonders früh."
+            ],
+            "hu": [
+              "Engedjen ki egy kis nyomást a gumikból, hogy jobban tapadjanak a nedves utakon.",
+              "Viseljen élénk színű esőkabátot, hogy a rossz látási viszonyok közt is észrevegyék.",
+              "A nemzeti park földútjai gyorsan sarassá és csúszóssá válnak egy kiadós eső után.",
+              "Fékezzen a megszokottnál sokkal hamarabb a lejtőkön és a köves romok közelében."
+            ],
+            "ro": [
+              "Scădeți ușor presiunea în anvelope pentru o aderență mai bună pe potecile umede.",
+              "Purtați o pelerină de ploaie în culori vii pentru a fi vizibil în condiții de ceață.",
+              "Drumurile neasfaltate din parcul național pot deveni foarte noroioase pe ploaie.",
+              "Frânați mult mai devreme pe coborâri și în apropierea ruinelor de piatră alunecoase."
+            ],
+            "en": [
+              "Lower your tire pressure slightly to gain better grip on the wet, muddy paths.",
+              "Wear a high-visibility raincoat to stay safe during low-light rainy conditions.",
+              "Be prepared for the unpaved natural roads in the park to become very muddy.",
+              "Brake much earlier than usual on wet descents and near slippery historical stones."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die frische Morgenfahrt zum Olivenbaum in der kühlen Seeluft. Mittags bewundern Sie die römische Villa in winterlicher Isolation. Nachmittags radeln Sie unter einer blassen Sonne zum Safaripark und den Dinosaurierspuren. Wärmen Sie sich abends im Tito-Museum auf.",
+            "hu": "Élvezze a frissítő reggeli tekerést az olajfához a hűvös tengeri levegőn. Délben csodálja meg a Római Villát a téli magányban. Délután a halvány napfényben kerekezzen a Szafari Parkba és a dinoszaurusz nyomokhoz. Este melegedjen fel a Tito Múzeumban.",
+            "ro": "Bucurați-vă de o plimbare matinală proaspătă spre Măslin în aerul rece al mării. La prânz, admirați Villa Romană în izolare de iarnă. După-amiaza pedalați sub un soare palid spre Parcul Safari și urmele de dinozaur. Încălziți-vă seara la Muzeul Tito.",
+            "en": "Enjoy a brisk morning ride to the Old Olive Tree in the cool sea air. Around noon, marvel at the Roman Villa in winter isolation. Afternoon cycling takes you to the Safari Park and dinosaur footprints under a pale sun. Wrap up warming up inside the Tito Museum."
+          },
+          "stops": [
+            {
+              "name": "Old Olive Tree",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare, kühle Brise vom Meer.",
+                "hu": "Élvezd a tiszta, hűvös szelet a tenger felől.",
+                "ro": "Bucurați-vă de briza clară și rece dinspre mare.",
+                "en": "Enjoy the crisp, cool breeze blowing from the sea."
+              }
+            },
+            {
+              "name": "Roman Villa in Verige Bay",
+              "tip_5lang": {
+                "de": "Erleben Sie die absolute Stille der Bucht im Winter.",
+                "hu": "Tapasztalja meg az öböl abszolút téli csendjét.",
+                "ro": "Experimentați liniștea absolută a golfului iarna.",
+                "en": "Experience the absolute winter silence of the bay."
+              }
+            },
+            {
+              "name": "Basilica of Saint Mary",
+              "tip_5lang": {
+                "de": "Die verlassenen Ruinen wirken jetzt besonders mystisch.",
+                "hu": "Az elhagyatott romok most különösen misztikusak.",
+                "ro": "Ruinele părăsite par deosebit de mistice acum.",
+                "en": "The deserted ruins feel particularly mystical now."
+              }
+            },
+            {
+              "name": "Safari Park",
+              "tip_5lang": {
+                "de": "Einige Tiere befinden sich in ihren Winterquartieren.",
+                "hu": "Néhány állat már a benti téli szállásán pihen.",
+                "ro": "Unele animale se află în adăposturile lor de iarnă.",
+                "en": "Some of the exotic animals are in their winter quarters."
+              }
+            },
+            {
+              "name": "Dinosaur Footprints",
+              "tip_5lang": {
+                "de": "Vorsicht, der felsige Weg dorthin kann frostig sein.",
+                "hu": "Vigyázat, a sziklás ösvény deres és csúszós lehet.",
+                "ro": "Atenție, poteca stâncoasă spre urme poate fi înghețată.",
+                "en": "Careful, the rocky path to the prints might be frosty."
+              }
+            },
+            {
+              "name": "Tito Museum",
+              "tip_5lang": {
+                "de": "Der beste Ort, um die kalten Hände wieder aufzuwärmen.",
+                "hu": "A legjobb hely, hogy felmelegítse a fagyos kezeit.",
+                "ro": "Cel mai bun loc pentru a vă încălzi mâinile reci.",
+                "en": "The absolute best place to warm up your freezing hands."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Fahrradhandschuhe sind auf der Insel im Winter absolute Pflicht.",
+              "Die Radwege sind herrlich leer, achten Sie dennoch auf vereiste Stellen am Morgen.",
+              "Planen Sie Ihre Route so, dass Sie vor dem frühen Sonnenuntergang (ca. 16:30 Uhr) fertig sind.",
+              "Kleiden Sie sich in atmungsaktiven Schichten, um beim Radeln nicht auszukühlen."
+            ],
+            "hu": [
+              "A szélálló kerékpáros kesztyű télen kötelező felszerelés a szigeti szelek miatt.",
+              "A bicikliutak csodálatosan üresek, de reggel ügyeljen a deres, fagyott szakaszokra.",
+              "Úgy tervezze az útvonalat, hogy a korai (16:30 körüli) naplemente előtt befejezze.",
+              "Lélegző, réteges ruházatot viseljen, hogy a tekerés közben megizzadva ne fázzon meg."
+            ],
+            "ro": [
+              "Mănușile de ciclism rezistente la vânt sunt obligatorii iarna pe insulă.",
+              "Pistele sunt minunat de goale, dar atenție la peticele de gheață dimineața.",
+              "Planificați traseul astfel încât să terminați înainte de apusul timpuriu (în jur de 16:30).",
+              "Îmbrăcați-vă în straturi respirabile pentru a nu vă răci în timpul pedalatului."
+            ],
+            "en": [
+              "Windproof cycling gloves are an absolute must for winter riding on the island.",
+              "The trails are beautifully empty, but keep an eye out for frosty patches in the morning.",
+              "Plan your route carefully to finish before the very early sunset, usually around 4:30 PM.",
+              "Dress in breathable layers to manage your body temperature and avoid chilling."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -782,6 +1554,358 @@
           "The carts have limited range.",
           "Park only in designated areas."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Elektro-Cart erkunden Sie bequem die Highlights. Beginnen Sie im Archäologischen Museum und fahren Sie dann zur Verige-Bucht. Der Mittag gehört den Tieren im Safari-Park und den Dinosaurierspuren im Norden. Beenden Sie den Tag im Tito-Museum, bevor Sie das Cart am Hafen zurückgeben.",
+            "hu": "Elektromos autóval kényelmesen fedezheti fel a látnivalókat. Kezdje a Régészeti Múzeumban, majd hajtson a Verige-öbölbe. A délidő a szafari park állataié és az északi dinoszaurusznyomoké. Zárja a napot a Tito-múzeumban, mielőtt visszaadná az autót a kikötőben.",
+            "ro": "Cu mașina electrică, explorați confortabil punctele de interes. Începeți la Muzeul de Arheologie și apoi conduceți către Golful Verige. Prânzul aparține animalelor din parcul safari și urmelor de dinozauri din nord. Încheiați ziua la Muzeul Tito înainte de a returna mașina în port.",
+            "en": "By electric cart, comfortably explore the highlights. Start at the Archaeological Museum and then drive to Verige Bay. Midday belongs to the animals in the Safari Park and the dinosaur footprints in the north. End the day at the Tito Museum before returning the cart at the harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologisches Museum",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul de Arheologie",
+                "en": "Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "In einer venezianischen Zitadelle untergebracht.",
+                "hu": "Egy velencei citadellában található.",
+                "ro": "Găzduit într-o citadelă venețiană.",
+                "en": "Housed in a Venetian citadel."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Villa in der Verige-Bucht",
+                "hu": "Római villa a Verige-öbölben",
+                "ro": "Vila romană din golful Verige",
+                "en": "Roman Villa in Verige Bay"
+              },
+              "tip_5lang": {
+                "de": "Überreste einer luxuriösen Sommerresidenz.",
+                "hu": "Egy luxus nyári rezidencia maradványai.",
+                "ro": "Rămășițele unei reședințe de vară luxoase.",
+                "en": "Remains of a luxurious summer residence."
+              }
+            },
+            {
+              "name": {
+                "de": "Safari-Park",
+                "hu": "Szafari park",
+                "ro": "Safari Park",
+                "en": "Safari Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig durch das Gelände.",
+                "hu": "Vezessen óvatosan a területen keresztül.",
+                "ro": "Conduceți cu atenție prin teren.",
+                "en": "Drive carefully through the grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Dinosaurier-Fußabdrücke",
+                "hu": "Dinoszaurusz lábnyomok",
+                "ro": "Urme de dinozauri",
+                "en": "Dinosaur Footprints"
+              },
+              "tip_5lang": {
+                "de": "Einzigartige paläontologische Stätte.",
+                "hu": "Egyedülálló őslénytani lelőhely.",
+                "ro": "Sit paleontologic unic.",
+                "en": "Unique paleontological site."
+              }
+            },
+            {
+              "name": {
+                "de": "Tito-Museum",
+                "hu": "Tito Múzeum",
+                "ro": "Muzeul Tito",
+                "en": "Tito Museum"
+              },
+              "tip_5lang": {
+                "de": "Abschluss der Inselrundfahrt.",
+                "hu": "A szigettúra lezárása.",
+                "ro": "Finalul turului insulei.",
+                "en": "End of the island tour."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Hotel Neptun Restaurant",
+                "tip": "Elegantes Abendessen mit Blick auf den Hafen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Hotel Neptun Étterem",
+                "tip": "Elegáns vacsora kilátással a kikötőre."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Restaurantul Hotelului Neptun",
+                "tip": "Cină elegantă cu vedere la port."
+              }
+            ],
+            "en": [
+              {
+                "name": "Hotel Neptun Restaurant",
+                "tip": "Elegant dinner with a view of the harbor."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Südküste",
+                "tip": "Ruhige Buchten abseits der Hauptwege.",
+                "emoji": "🌊"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Déli part",
+                "tip": "Csendes öblök a főutaktól távol.",
+                "emoji": "🌊"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Coasta de sud",
+                "tip": "Golfuri liniștite departe de drumurile principale.",
+                "emoji": "🌊"
+              }
+            ],
+            "en": [
+              {
+                "name": "South Coast",
+                "tip": "Quiet bays away from the main paths.",
+                "emoji": "🌊"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Golf-Shop",
+                "tip": "Brijuni-Sportbekleidung."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Golf-bolt",
+                "tip": "Brijuni sportruházat."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Magazin de golf",
+                "tip": "Îmbrăcăminte sport Brijuni."
+              }
+            ],
+            "en": [
+              {
+                "name": "Golf Shop",
+                "tip": "Brijuni sports apparel."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Mieten Sie ein Elektro-Cart (Golf-Cart) am Hafen.",
+              "Ein Führerschein ist erforderlich.",
+              "Die Carts haben eine begrenzte Reichweite.",
+              "Parken Sie nur an ausgewiesenen Stellen."
+            ],
+            "hu": [
+              "Béreljen elektromos autót (golfkocsit) a kikötőben.",
+              "Vezetői engedély szükséges.",
+              "Az autók hatótávolsága korlátozott.",
+              "Csak a kijelölt helyeken parkoljon."
+            ],
+            "ro": [
+              "Închiriați o mașină electrică (golf cart) din port.",
+              "Este necesar permis de conducere.",
+              "Mașinile au o autonomie limitată.",
+              "Parcați numai în locurile special amenajate."
+            ],
+            "en": [
+              "Rent an electric cart (golf cart) at the harbor.",
+              "A driver's license is required.",
+              "The carts have limited range.",
+              "Park only in designated areas."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie Ihr Elektro-Cart morgens trocken zum Archäologischen Museum. Mittags parken Sie nahe der Verige-Bucht für einen kurzen Sprint zur Villa. Nachmittags beobachten Sie die Tiere bequem vom überdachten Cart aus und besuchen kurz die Saurierspuren. Das Ende bildet das schützende Tito-Museum.",
+            "hu": "Vezesse az elektromos golfautót szárazon a Régészeti Múzeumhoz. Délben parkoljon a Verige-öböl közelében, és szaladjon át a Villához. Délután kényelmesen, a fedett autóból nézheti a szafari állatait, majd megnézheti a dínó nyomokat. A napot a védett Tito Múzeumban zárja.",
+            "ro": "Conduceți mașinuța electrică uscat spre Muzeul Arheologic dimineața. La prânz, parcați lângă Golful Verige pentru o fugă scurtă la Vilă. După-amiaza, priviți animalele din confortul mașinuței acoperite și vizitați urmele. Finalizați la adăpostul Muzeului Tito.",
+            "en": "Drive your electric cart to the Archaeological Museum for a dry morning start. By midday, park near Verige Bay for a quick dash to the Roman Villa. Spend the afternoon viewing Safari animals from your covered cart, then check the dinosaur prints. End at the sheltered Tito Museum."
+          },
+          "stops": [
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Ein perfekter, völlig trockener Start in Ihre Tour.",
+                "hu": "Tökéletes, teljesen száraz kezdése a szigettúrának.",
+                "ro": "Un început perfect și complet uscat pentru turul dvs.",
+                "en": "A perfect, completely dry start to your island tour."
+              }
+            },
+            {
+              "name": "Roman Villa in Verige Bay",
+              "tip_5lang": {
+                "de": "Parken Sie das Cart so nah wie möglich am Eingang.",
+                "hu": "Parkolja le a golfautót a lehető legközelebb.",
+                "ro": "Parcați mașinuța cât mai aproape de intrare posibil.",
+                "en": "Park the cart as close to the site as possible."
+              }
+            },
+            {
+              "name": "Safari Park",
+              "tip_5lang": {
+                "de": "Tolle Aussicht auf die Tiere direkt aus dem Cart.",
+                "hu": "Remek kilátás az állatokra a fedett autóból.",
+                "ro": "Vedere excelentă la animale direct din mașinuță.",
+                "en": "Great views of the animals right from the covered cart."
+              }
+            },
+            {
+              "name": "Dinosaur Footprints",
+              "tip_5lang": {
+                "de": "Für die Spuren ist ein kurzer Spaziergang im Regen nötig.",
+                "hu": "A nyomokhoz egy rövid sétát kell tenni az esőben.",
+                "ro": "O scurtă plimbare prin ploaie este necesară aici.",
+                "en": "A brief walk out in the rain is required to see these."
+              }
+            },
+            {
+              "name": "Tito Museum",
+              "tip_5lang": {
+                "de": "Trocknen Sie sich in dieser großen Ausstellung ab.",
+                "hu": "Szárítkozzon meg ebben a hatalmas kiállítási térben.",
+                "ro": "Uscați-vă în această zonă expozițională spațioasă.",
+                "en": "Dry off comfortably inside this large exhibition space."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Miet-Golfcarts haben zwar ein Dach, aber offene Seiten – ein Regenmantel ist dennoch nötig.",
+              "Bringen Sie ein kleines Handtuch mit, um die Sitze des Carts vor der Weiterfahrt abzuwischen.",
+              "Fahren Sie auf nassem Gras und unbefestigten Wegen extrem langsam, um nicht wegzurutschen.",
+              "Nutzen Sie die Indoor-Museen strategisch, um heftige Regenschauer im Trockenen abzuwarten."
+            ],
+            "hu": [
+              "A bérelhető golfautóknak van teteje, de az oldaluk nyitott – az esőkabát továbbra is kötelező.",
+              "Hozzon magával egy kis törülközőt, amivel letörölheti a vizes üléseket indulás előtt.",
+              "Vezessen nagyon lassan a vizes füvön és a földutakon, mert az autó könnyen megcsúszhat.",
+              "Használja a benti múzeumokat arra, hogy egy száraz helyen vészelje át a legnagyobb felhőszakadásokat."
+            ],
+            "ro": [
+              "Mașinuțele de golf închiriate au acoperiș, dar laterale deschise – o pelerină este încă necesară.",
+              "Aduceți un prosop mic pentru a șterge scaunele mașinuței înainte de a continua drumul.",
+              "Conduceți foarte încet pe iarba udă și pe drumurile de pământ pentru a evita derapajele.",
+              "Folosiți strategic muzeele de interior pentru a aștepta trecerea ploilor torențiale la loc uscat."
+            ],
+            "en": [
+              "The rental golf carts have a roof but open sides, so wearing a raincoat is still highly necessary.",
+              "Bring a small travel towel to wipe down the cart's wet seats before continuing your drive.",
+              "Drive extremely slowly on wet grass and unpaved dirt roads to prevent the cart from slipping.",
+              "Use the indoor museums strategically to wait out the heaviest downpours in a dry environment."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Winterfahrt im gemütlichen Archäologischen Museum. Mittags bietet die stille römische Villa einen tollen Blick aufs Wintermeer. Fahren Sie nachmittags durch den friedlichen Safaripark zu den Dinosaurierspuren. Beenden Sie die Inseltour rechtzeitig im Tito-Museum.",
+            "hu": "Kezdje a téli autózást a barátságos Régészeti Múzeumban. Délben a csendes Római Villa lenyűgöző kilátást nyújt a téli tengerre. Délután vezessen át a békés Szafari Parkon a dínó nyomokig. Fejezze be a szigettúrát időben a Tito Múzeumnál.",
+            "ro": "Începeți traseul de iarnă la confortabilul Muzeu Arheologic. La prânz, liniștita Vilă Romană oferă priveliști superbe ale mării de iarnă. Conduceți după-amiaza prin pașnicul Parc Safari spre urme. Încheiați turul insulei la timp la Muzeul Tito.",
+            "en": "Start your winter drive at the cozy Archaeological Museum. At noon, the quiet Roman Villa offers striking views of the winter sea. Drive through the serene Safari Park in the afternoon and visit the dinosaur footprints. Finish your island tour promptly at the Tito Museum."
+          },
+          "stops": [
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich hier drinnen auf, bevor Sie losfahren.",
+                "hu": "Melegedjen fel itt bent, mielőtt elkezdené a vezetést.",
+                "ro": "Încălziți-vă înăuntru aici înainte de a începe să conduceți.",
+                "en": "Warm up indoors here before you start your open-air drive."
+              }
+            },
+            {
+              "name": "Roman Villa in Verige Bay",
+              "tip_5lang": {
+                "de": "Atemberaubende winterliche Aussicht auf die Bucht.",
+                "hu": "Lélegzetelállító téli kilátás nyílik az öbölre.",
+                "ro": "Priveliști uimitoare de iarnă asupra golfului liniștit.",
+                "en": "Stunning and crisp winter views of the tranquil bay."
+              }
+            },
+            {
+              "name": "Safari Park",
+              "tip_5lang": {
+                "de": "Halten Sie Ausschau nach Tieren, die Schutz suchen.",
+                "hu": "Keressen a hideg elől menedéket kereső állatokat.",
+                "ro": "Căutați cu atenție animalele care se adăpostesc de frig.",
+                "en": "Look closely for animals sheltering from the winter chill."
+              }
+            },
+            {
+              "name": "Dinosaur Footprints",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschigen Frost auf den Küstenfelsen.",
+                "hu": "Vigyázzon a csúszós, deres tengerparti sziklákon.",
+                "ro": "Atenție la bruma alunecoasă de pe stâncile de coastă.",
+                "en": "Watch carefully for slippery frost on the coastal rocks."
+              }
+            },
+            {
+              "name": "Tito Museum",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Abschluss für einen frischen Tag.",
+                "hu": "Egy barátságos, meleg lezárása a csípős téli napnak.",
+                "ro": "Un final confortabil pentru o zi geroasă de explorare.",
+                "en": "A remarkably cozy conclusion to a brisk winter day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ziehen Sie sich sehr warm an, da die Elektro-Carts keinerlei Heizung oder Türen haben.",
+              "Die Straßen sind im Winter fast leer, genießen Sie die freie Fahrt durch den Nationalpark.",
+              "Achten Sie besonders am Morgen auf Raureif, der die gepflasterten Wege rutschig macht.",
+              "Geben Sie das Cart unbedingt vor Einbruch der frühen Dunkelheit an der Verleihstation zurück."
+            ],
+            "hu": [
+              "Öltözzön fel nagyon melegen, mivel az elektromos golfautókban nincs sem fűtés, sem ajtó.",
+              "Az utak télen szinte teljesen üresek, így zavartalanul autózhat át a nemzeti parkon.",
+              "Különösen a reggeli órákban vigyázzon a deres, fagyott szakaszokra, amelyek csúszhatnak.",
+              "Feltétlenül adja vissza a bérelt autót a korai sötétedés előtt a kikötői állomáson."
+            ],
+            "ro": [
+              "Îmbrăcați-vă foarte gros, deoarece mașinuțele electrice nu au încălzire sau uși laterale.",
+              "Drumurile sunt aproape goale iarna, bucurați-vă de o conducere liberă prin parcul național.",
+              "Atenție la bruma de dimineață care poate face drumurile pietruite destul de alunecoase.",
+              "Asigurați-vă că returnați mașinuța la stația de închiriere înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Bundle up very warmly, as the electric rental carts have absolutely no heating or side doors.",
+              "The park roads are delightfully empty in winter, allowing for a very peaceful driving experience.",
+              "Watch out for morning frost, which can make the paved and stone pathways surprisingly slippery.",
+              "Make sure to return your rented cart to the main station well before the early winter twilight."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -998,6 +2122,326 @@
           "The tour is often guided (multilingual).",
           "Secure a seat on the train early."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Der Touristenzug bringt Sie bequem zu den wichtigsten Punkten. Nach dem Museumsbesuch am Morgen geht es zum Safari-Park. Mittags besichtigen Sie die römische Villa, bevor der Zug Sie zurück in den Hafenbereich bringt, wo Sie das archäologische Museum besichtigen können, bevor die Fähre ablegt.",
+            "hu": "A turistavonat kényelmesen elviszi a legfontosabb pontokhoz. A reggeli múzeumlátogatás után a szafari park következik. Délben megtekintheti a római villát, mielőtt a vonat visszaviszi a kikötőbe, ahol a komp indulása előtt megnézheti a régészeti múzeumot.",
+            "ro": "Trenulețul turistic vă duce confortabil la cele mai importante puncte. După vizita la muzeu de dimineață, mergeți la parcul safari. La prânz, vizitați vila romană înainte ca trenul să vă ducă înapoi în zona portului, unde puteți vizita muzeul de arheologie înainte de plecarea ferry-ului.",
+            "en": "The tourist train takes you comfortably to the most important points. After the museum visit in the morning, head to the Safari Park. At midday, visit the Roman villa before the train takes you back to the harbor area, where you can visit the archaeological museum before the ferry departs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tito-Museum",
+                "hu": "Tito Múzeum",
+                "ro": "Muzeul Tito",
+                "en": "Tito Museum"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt vieler geführter Touren.",
+                "hu": "Számos vezetett túra kiindulópontja.",
+                "ro": "Punctul de plecare pentru multe tururi ghidate.",
+                "en": "Starting point for many guided tours."
+              }
+            },
+            {
+              "name": {
+                "de": "Safari-Park",
+                "hu": "Szafari park",
+                "ro": "Safari Park",
+                "en": "Safari Park"
+              },
+              "tip_5lang": {
+                "de": "Halt mit dem Touristenzug direkt am Park.",
+                "hu": "Megálló a kisvonattal közvetlenül a parknál.",
+                "ro": "Oprire cu trenulețul turistic direct la parc.",
+                "en": "Stop with the tourist train directly at the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Villa in der Verige-Bucht",
+                "hu": "Római villa a Verige-öbölben",
+                "ro": "Vila romană din golful Verige",
+                "en": "Roman Villa in Verige Bay"
+              },
+              "tip_5lang": {
+                "de": "Der Zug hält in der Nähe der Ausgrabungen.",
+                "hu": "A vonat az ásatások közelében áll meg.",
+                "ro": "Trenul oprește în apropierea săpăturilor.",
+                "en": "The train stops near the excavations."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul de Arheologie",
+                "en": "Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Rückfahrt zum Hafen.",
+                "hu": "Utolsó megálló a kikötőbe való visszatérés előtt.",
+                "ro": "Ultima oprire înainte de întoarcerea în port.",
+                "en": "Last stop before returning to the harbor."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Kiosk am Safari-Park",
+                "tip": "Snacks und Erfrischungen während der Zugpause."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szafari park büfé",
+                "tip": "Snackek és frissítők a vonatozás szünetében."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Chioșc la Safari Park",
+                "tip": "Gustări și băuturi răcoritoare în timpul pauzei trenului."
+              }
+            ],
+            "en": [
+              {
+                "name": "Safari Park Kiosk",
+                "tip": "Snacks and refreshments during the train break."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Zugfahrt durch den Wald",
+                "tip": "Genießen Sie die Aussicht während der Fahrt.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Vonatozás az erdőn át",
+                "tip": "Élvezze a kilátást utazás közben.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Călătoria cu trenul prin pădure",
+                "tip": "Bucurați-vă de priveliște în timpul călătoriei.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Train ride through the forest",
+                "tip": "Enjoy the view during the journey.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Informationszentrum",
+                "tip": "Offizielle Brijuni-Bücher und Führer."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Információs központ",
+                "tip": "Hivatalos Brijuni könyvek és útmutatók."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Centrul de informare",
+                "tip": "Cărți și ghiduri oficiale Brijuni."
+              }
+            ],
+            "en": [
+              {
+                "name": "Information Center",
+                "tip": "Official Brijuni books and guides."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Der Touristenzug ist im Nationalpark-Ticket enthalten.",
+              "Informieren Sie sich über die Abfahrtszeiten am Hafen.",
+              "Die Tour ist oft geführt (mehrsprachig).",
+              "Sichern Sie sich frühzeitig einen Platz im Zug."
+            ],
+            "hu": [
+              "A turistavonat benne van a nemzeti parki jegy árában.",
+              "Érdeklődjön az indulási időkről a kikötőben.",
+              "A túra gyakran többnyelvű idegenvezetéssel zajlik.",
+              "Biztosítsa időben a helyét a vonaton."
+            ],
+            "ro": [
+              "Trenulețul turistic este inclus în biletul pentru parcul național.",
+              "Informați-vă despre orele de plecare din port.",
+              "Turul este adesea ghidat (multilingv).",
+              "Asigurați-vă un loc în tren din timp."
+            ],
+            "en": [
+              "The tourist train is included in the national park ticket.",
+              "Check the departure times at the harbor.",
+              "The tour is often guided (multilingual).",
+              "Secure a seat on the train early."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Steigen Sie in den überdachten Touristenzug und starten Sie nasskalt am Tito-Museum. Mittags genießen Sie den Safaripark entspannt aus dem trockenen Waggon. Nachmittags steigen Sie für einen kurzen Regenspaziergang an der Verige-Bucht aus. Beenden Sie den feuchten Tag im Archäologischen Museum.",
+            "hu": "Szálljon fel a fedett turistavonatra, és kezdje az esős napot a Tito Múzeumban. Délben élvezze a Szafari Parkot a száraz vagonból. Délután egy rövid, esernyős sétára szálljon le a Verige-öbölnél. Zárja a nedves napot a lenyűgöző Régészeti Múzeum kiállításain.",
+            "ro": "Urcați în trenulețul turistic acoperit și începeți dimineața ploioasă la Muzeul Tito. La prânz, bucurați-vă de Safari Park din vagonul uscat. După-amiaza, coborâți scurt cu umbrela la Golful Verige. Încheiați ziua umedă în interiorul Muzeului Arheologic.",
+            "en": "Hop on the covered tourist train and start your rainy morning at the Tito Museum. Midday, enjoy the Safari Park views from the comfort of the dry train carriages. In the afternoon, briefly disembark at Verige Bay with an umbrella. Conclude the wet day inside the Archaeological Museum."
+          },
+          "stops": [
+            {
+              "name": "Tito Museum",
+              "tip_5lang": {
+                "de": "Warten Sie hier drinnen, bis der Zug abfahrbereit ist.",
+                "hu": "Várjon itt bent, amíg a vonat meg nem érkezik.",
+                "ro": "Așteptați înăuntru până când sosește trenulețul.",
+                "en": "Wait comfortably inside until the train actually arrives."
+              }
+            },
+            {
+              "name": "Safari Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Zug, um komplett trocken zu bleiben.",
+                "hu": "Maradjon a vonaton, hogy teljesen száraz maradjon.",
+                "ro": "Rămâneți în tren pentru a vă păstra complet uscat.",
+                "en": "Stay seated on the train to keep completely dry."
+              }
+            },
+            {
+              "name": "Roman Villa in Verige Bay",
+              "tip_5lang": {
+                "de": "Hier ist ein schneller Sprint mit Regenschirm nötig.",
+                "hu": "Itt egy gyors, esernyős szaladásra lesz szükség.",
+                "ro": "Aici este necesară o fugă rapidă cu umbrela deschisă.",
+                "en": "A quick dash with an umbrella is needed for this stop."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Ein faszinierender und vor allem trockener letzter Halt.",
+                "hu": "Egy lenyűgöző és ami a legfontosabb, száraz utolsó megálló.",
+                "ro": "O oprire finală fascinantă și, mai ales, complet uscată.",
+                "en": "A fascinating and, importantly, dry final stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Touristenzug hat ein festes Dach, bietet also guten Schutz vor normalem Regen.",
+              "Setzen Sie sich in die Mitte der Waggons, um nicht vom seitlichen Regen getroffen zu werden.",
+              "Bringen Sie einen kompakten Reiseschirm für die kurzen Wege zwischen Zug und Sehenswürdigkeit mit.",
+              "Die Wege vom Haltepunkt zu den Ruinen können schlammig sein, achten Sie auf Ihr Schuhwerk."
+            ],
+            "hu": [
+              "A turistavonat szilárd tetővel rendelkezik, így remek védelmet nyújt a normál esőzések ellen.",
+              "Üljön a vagonok középső üléseire, hogy a szél ne fújja be az esőt oldalról.",
+              "Hozzon magával egy kis méretű esernyőt a vonat és a látnivalók közötti rövid sétákhoz.",
+              "A vonatmegállóktól a romokhoz vezető utak sarasak lehetnek, figyeljen a lépéseire."
+            ],
+            "ro": [
+              "Trenulețul turistic are un acoperiș solid, oferind o protecție bună împotriva ploii normale.",
+              "Așezați-vă în mijlocul vagoanelor pentru a evita stropirea de către ploaia adusă de vânt.",
+              "Aduceți o umbrelă compactă de călătorie pentru distanțele scurte dintre tren și atracții.",
+              "Potecile de la oprirea trenului până la ruine pot fi noroioase, fiți atenți la încălțăminte."
+            ],
+            "en": [
+              "The tourist train features a solid roof, providing great shelter from standard rainfall.",
+              "Sit in the middle seats of the carriages to avoid getting splashed by wind-blown rain.",
+              "Bring a compact travel umbrella for the short, uncovered walks between the train and sights.",
+              "The pathways from the train drop-off to the historic ruins can get quite muddy and slick."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Steigen Sie in den Winterzug und beginnen Sie am historischen Tito-Museum. Mittags fahren Sie durch den friedlichen Safaripark und beobachten die an den Winter angepassten Tiere. Der Nachmittagsstopp an der Verige-Bucht bietet raue Küstenblicke. Wärmen Sie sich zum Schluss im Archäologischen Museum auf.",
+            "hu": "Szálljon fel a téli menetrend szerinti vonatra a Tito Múzeumnál. Délben utazzon át a békés Szafari Parkon, figyelve a hideghez alkalmazkodott állatokat. A délutáni megálló a Verige-öbölnél zord, tengerparti kilátást nyújt. A túra végén melegedjen fel a Régészeti Múzeumban.",
+            "ro": "Urcați în trenul de iarnă începând cu istoricul Muzeu Tito. La prânz, treceți prin pașnicul Safari Park observând animalele adaptate la iarnă. Oprirea de după-amiază la Golful Verige oferă priveliști aspre de coastă. Încheiați turul încălzindu-vă la Muzeul Arheologic.",
+            "en": "Board the winter-schedule train starting with the historical Tito Museum. Around noon, ride through the peaceful Safari Park observing the winter-adapted animals. The afternoon stop at Verige Bay offers stark coastal views. End your tour warming up at the Archaeological Museum."
+          },
+          "stops": [
+            {
+              "name": "Tito Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie hier vorab die genauen Abfahrtszeiten für den Winter.",
+                "hu": "Ellenőrizze itt a pontos téli vonatindulási időpontokat.",
+                "ro": "Verificați aici orele exacte de plecare ale trenului de iarnă.",
+                "en": "Check the exact winter train departure times right here."
+              }
+            },
+            {
+              "name": "Safari Park",
+              "tip_5lang": {
+                "de": "Bringen Sie eine Decke für die Fahrt im offenen Zug mit.",
+                "hu": "Hozzon magával egy takarót a nyitott vonatos utazáshoz.",
+                "ro": "Aduceți o pătură pentru călătoria cu trenul deschis.",
+                "en": "Bring a cozy blanket for the open-air train ride through the park."
+              }
+            },
+            {
+              "name": "Roman Villa in Verige Bay",
+              "tip_5lang": {
+                "de": "Die Meeresbrise ist hier im Winter besonders stark und kalt.",
+                "hu": "A tengeri szél itt télen különösen erős és metsző lehet.",
+                "ro": "Briza mării este deosebit de puternică și rece aici iarna.",
+                "en": "The coastal sea breeze is exceptionally strong here in winter."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um am Ende des Tages wieder aufzutauen.",
+                "hu": "Tökéletes hely arra, hogy a nap végén teljesen felolvadjon.",
+                "ro": "Locul perfect pentru a vă dezgheța complet la sfârșitul zilei.",
+                "en": "The absolutely perfect place to thaw out at the end of the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Im Winter fährt der Touristenzug deutlich seltener, informieren Sie sich rechtzeitig.",
+              "Packen Sie sich extrem warm ein, da der Fahrtwind in den offenen Waggons beißend kalt ist.",
+              "Die Zugtour ist eine hervorragende Möglichkeit, lange, eisige Fußmärsche zu vermeiden.",
+              "Nutzen Sie die Indoor-Museumsstopps aktiv, um sich zwischen den Fahrtstrecken aufzuwärmen."
+            ],
+            "hu": [
+              "Télen a turistavonat sokkal ritkábban jár, kérjük, előre tájékozódjon a menetrendről.",
+              "Öltözzön fel extrém melegen, mert a menetszél a nyitott vagonokban csontig hatoló lehet.",
+              "A vonatos túra kiváló alternatíva arra, hogy elkerülje a hosszú, fagyos gyaloglásokat.",
+              "Használja ki a benti múzeumi megállókat, hogy felmelegedjen a hideg utazási szakaszok között."
+            ],
+            "ro": [
+              "Trenulețul turistic circulă mult mai rar iarna, vă rugăm să verificați orarul din timp.",
+              "Îmbrăcați-vă extrem de gros, deoarece vântul din timpul mersului în vagoanele deschise e tăios.",
+              "Turul cu trenul este o modalitate excelentă de a evita plimbările lungi și înghețate pe jos.",
+              "Profitați din plin de opririle la muzeele de interior pentru a vă încălzi între plimbări."
+            ],
+            "en": [
+              "The tourist train runs on a drastically reduced schedule in winter, so check times carefully.",
+              "Bundle up exceptionally well, as the wind chill in the open-air carriages can be freezing.",
+              "Taking the train tour is a brilliant way to avoid long, freezing walks across the vast island.",
+              "Actively use the designated indoor museum stops as strategic places to warm up completely."
+            ]
+          }
+        }
       }
     }
   },

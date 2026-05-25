@@ -300,6 +300,422 @@
           "Book a table in the konobas during high season.",
           "The springs are especially refreshing on hot days."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen im historischen Zentrum am Kastell und der Bernhard-Kirche. Danach spazieren Sie zu den namensgebenden Süßwasserquellen.\n\nZum Mittagessen bietet die Marina Funtana eine maritime Kulisse mit frischem Fisch und Blick auf das tiefblaue Meer.\n\nDer Nachmittag steht im Zeichen der Kunst und Spiritualität. Besuchen Sie die Lucia-Kirche, bevor Sie den weitläufigen Skulpturenpark erkunden.\n\nLassen Sie den Tag bei einem Glas istrischen Malvasia in einer der Tavernen an der Uferpromenade entspannt ausklingen.",
+            "hu": "Kezdje a reggelt a történelmi központban a várnál és a Szent Bernát-templomnál. Ezután sétáljon el a névadó édesvízi forrásokhoz.\n\nEbédre a Funtana kikötő tengeri díszletet kínál friss halakkal és kilátással a mélykék tengerre.\n\nA délután a művészet és a spiritualitás jegyében telik. Látogassa meg a Szent Lúcia-templomot, mielőtt felfedezné a tágas szoborparkot.\n\nZárja a napot egy pohár isztriai malvaziával a tengerparti sétány egyik tavernájában, élvezve a nyugodt hangulatot.",
+            "ro": "Începeți dimineața în centrul istoric la castel și la biserica Sfântul Bernard. Apoi, mergeți pe jos până la izvoarele de apă dulce care dau numele localității.\n\nPentru prânz, Marina Funtana oferă un cadru maritim cu pește proaspăt și vedere la marea de un albastru profund.\n\nDupă-amiaza este dedicată artei și spiritualității. Vizitați biserica Sfânta Lucia înainte de a explora vastul parc de sculpturi.\n\nÎncheiați ziua relaxat cu un pahar de Malvazija istriană într-una dintre tavernele de pe faleză.",
+            "en": "Start your morning in the historical center at the castle and St. Bernard's church. Then, walk to the namesake freshwater springs.\n\nFor lunch, Marina Funtana offers a maritime setting with fresh fish and views of the deep blue sea.\n\nPost-midday is dedicated to art and spirituality. Visit St. Lucia's church before exploring the expansive sculpture park.\n\nConclude your day with a glass of Istrian Malvasia in one of the taverns on the waterfront promenade."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kastell Funtana",
+                "hu": "Funtana Kastély",
+                "ro": "Castelul Funtana",
+                "en": "Funtana Castle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die dicken Steinmauern aus dem 17. Jahrhundert.",
+                "hu": "Csodálja meg a 17. századi vastag kőfalakat.",
+                "ro": "Admirați zidurile groase de piatră din secolul al XVII-lea.",
+                "en": "Admire the thick stone walls dating back to the 17th century."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfarrkirche des Heiligen Bernhard",
+                "hu": "Szent Bernát-plébániatemplom",
+                "ro": "Biserica Parohială Sfântul Bernard",
+                "en": "Parish Church of Saint Bernard"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die wertvolle barocke Innenausstattung.",
+                "hu": "Figyelje meg az értékes barokk belső díszítést.",
+                "ro": "Observați decorul interior baroc valoros.",
+                "en": "Note the valuable Baroque interior decorations."
+              }
+            },
+            {
+              "name": {
+                "de": "Süßwasserquellen von Funtana",
+                "hu": "Funtana édesvízi forrásai",
+                "ro": "Izvoarele de apă dulce din Funtana",
+                "en": "Freshwater Springs of Funtana"
+              },
+              "tip_5lang": {
+                "de": "Hier entspringen die Quellen, die dem Ort seinen Namen gaben.",
+                "hu": "Itt törnek fel a források, amelyekről a település a nevét kapta.",
+                "ro": "Aici țâșnesc izvoarele care au dat numele așezării.",
+                "en": "Here flow the springs that gave the town its name."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Funtana",
+                "hu": "Funtana kikötő",
+                "ro": "Marina Funtana",
+                "en": "Funtana Marina"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für ein Mittagessen mit Blick auf die Yachten.",
+                "hu": "Tökéletes hely egy ebédhez a jachtokra néző kilátással.",
+                "ro": "Locul perfect pentru un prânz cu vedere la iahturi.",
+                "en": "Perfect spot for a lunch with a view of the yachts."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche der Heiligen Lucia",
+                "hu": "Szent Lúcia-templom",
+                "ro": "Biserica Sfânta Lucia",
+                "en": "Church of Saint Lucia"
+              },
+              "tip_5lang": {
+                "de": "Kleine, charmante Kirche am Rande des alten Kerns.",
+                "hu": "Kicsi, bájos templom az óváros szélén.",
+                "ro": "O mică biserică fermecătoare la marginea centrului vechi.",
+                "en": "Small, charming church on the edge of the old core."
+              }
+            },
+            {
+              "name": {
+                "de": "Skulpturenpark Funtana",
+                "hu": "Funtana Szoborpark",
+                "ro": "Parcul de Sculpturi Funtana",
+                "en": "Funtana Sculpture Park"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Werke des berühmten Bildhauers Dušan Džamonja.",
+                "hu": "Fedezze fel Dušan Džamonja híres szobrászművész alkotásait.",
+                "ro": "Descoperiți lucrările celebrului sculptor Dušan Džamonja.",
+                "en": "Explore the works of the famous sculptor Dušan Džamonja."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba Bare",
+                "tip": "Traditionelle istrische Gerichte in gemütlicher Atmosphäre."
+              },
+              {
+                "name": "Fischspezialitäten",
+                "tip": "Probieren Sie gegrillte Calamari oder frische Brasse."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba Bare",
+                "tip": "Hagyományos isztriai ételek hangulatos környezetben."
+              },
+              {
+                "name": "Tengeri finomságok",
+                "tip": "Kóstolja meg a grillezett tintahalat vagy a friss süllőt."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba Bare",
+                "tip": "Mâncăruri tradiționale istriene într-o atmosferă primitoare."
+              },
+              {
+                "name": "Specialități din pește",
+                "tip": "Încercați calamari la grătar sau plătică proaspătă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba Bare",
+                "tip": "Traditional Istrian dishes in a cozy atmosphere."
+              },
+              {
+                "name": "Seafood specialties",
+                "tip": "Try grilled calamari or fresh sea bream."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Süßwasserquellen",
+                "tip": "Ein schattiger, ruhiger Ort zum Innehalten.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Marina Sonnenuntergang",
+                "tip": "Beobachten Sie das Lichtspiel auf den Masten.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Édesvízi források",
+                "tip": "Árnyékos, csendes hely a pihenéshez.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Kikötői naplemente",
+                "tip": "Figyelje a fények játékát az árbocokon.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Izvoarele de apă dulce",
+                "tip": "Un loc umbros și liniștit pentru meditație.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Apus în Marină",
+                "tip": "Priviți jocul luminilor pe catarge.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Freshwater Springs",
+                "tip": "A shaded, quiet spot to pause.",
+                "emoji": "🏞️"
+              },
+              {
+                "name": "Marina Sunset",
+                "tip": "Watch the light play on the masts.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Olivenöl ab Hof",
+                "tip": "Kaufen Sie erstklassiges lokales Olivenöl direkt beim Erzeuger."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Olívaolaj a termelőtől",
+                "tip": "Vásároljon prémium helyi olívaolajat közvetlenül a gazdáktól."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline local",
+                "tip": "Cumpărați ulei de măsline de calitate direct de la producători."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Olive Oil",
+                "tip": "Buy premium local olive oil directly from the producers."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen.",
+              "Reservieren Sie in der Hochsaison einen Tisch in den Konobas.",
+              "Die Quellen sind besonders an heißen Tagen erfrischend."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "Főszezonban foglaljon asztalt a konobákban.",
+              "A források különösen frissítőek a forró napokon."
+            ],
+            "ro": [
+              "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+              "Rezervați o masă la konoba în plin sezon.",
+              "Izvoarele sunt deosebit de răcoritoare în zilele toride."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestone streets.",
+              "Book a table in the konobas during high season.",
+              "The springs are especially refreshing on hot days."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Schutz des Kastells. Der Regen verleiht der St.-Bernhard-Kirche eine mystische Atmosphäre. Mittags bietet die Marina überdachte Plätze mit Blick auf die Adria. Nachmittags wirken die Quellen und der Skulpturenpark im grauen Licht fast magisch, während Sie unter Ihrem Schirm die Ruhe genießen. Abends laden die warmen Lichter der Cafés zur gemütlichen Einkehr ein.",
+            "hu": "A reggelt a kastély falai között kezdjük, védve az esőtől. A Szent Bernát-templom csendje menedéket nyújt a zápor elől. Ebédidőben a kikötő fedett teraszain figyelhetjük a tenger hullámait. Délután a források és a Szoborpark misztikus arcát mutatják a szürke fényben. Az estét egy barátságos, meleg étteremben zárjuk, ahol a kopogó eső csak fokozza a hangulatot.",
+            "ro": "Începeți ziua la adăpostul castelului. Ploaia oferă bisericii Sf. Bernard o atmosferă mistică. La prânz, marina oferă locuri acoperite cu vedere la Adriatică. După-amiaza, izvoarele și parcul de sculpturi par magice în lumina cenușie, în timp ce vă bucurați de liniște sub umbrelă. Seara, luminile calde ale cafenelelor vă invită la o oprire confortabilă.",
+            "en": "Start the day sheltered by the castle walls. The rain adds a mystic atmosphere to St. Bernard’s Church. At noon, the marina offers covered spots with Adriatic views. In the afternoon, the springs and sculpture park look almost magical in the grey light as you enjoy the peace under your umbrella. In the evening, the warm lights of local cafes invite you for a cozy stay."
+          },
+          "stops": [
+            {
+              "name": "Funtana Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Kastell als ersten trockenen Sammelpunkt.",
+                "hu": "Használja a kastélyt az első száraz gyülekezőhelyként.",
+                "ro": "Folosiți castelul ca prim punct de întâlnire uscat.",
+                "en": "Use the castle as your first dry meeting point."
+              }
+            },
+            {
+              "name": "Parish Church of Saint Bernard",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen heftigen Schauer abzuwarten.",
+                "hu": "Tökéletes hely egy heves zápor kivárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei averse.",
+                "en": "Perfect place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Freshwater Springs of Funtana",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steine rund um die Quellen sind rutschig.",
+                "hu": "Vigyázat, a források körüli kövek csúszósak.",
+                "ro": "Atenție, pietrele din jurul izvoarelor sunt alunecoase.",
+                "en": "Careful, the stones around the springs are slippery."
+              }
+            },
+            {
+              "name": "Funtana Marina",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Markisen der Cafés.",
+                "hu": "Keressen menedéket a kávézók napellenzői alatt.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor.",
+                "en": "Seek shelter under the café awnings."
+              }
+            },
+            {
+              "name": "Church of Saint Lucia",
+              "tip_5lang": {
+                "de": "Ein kleiner, trockener Rückzugsort am Nachmittag.",
+                "hu": "Egy kis, száraz menedék a délutáni órákban.",
+                "ro": "Un mic refugiu uscat în orele după-amiezii.",
+                "en": "A small, dry retreat during the afternoon hours."
+              }
+            },
+            {
+              "name": "Funtana Sculpture Park",
+              "tip_5lang": {
+                "de": "Die nassen Skulpturen glänzen im Regen besonders schön.",
+                "hu": "A vizes szobrok különösen szépen csillognak az esőben.",
+                "ro": "Sculpturile ude strălucesc deosebit de frumos în ploaie.",
+                "en": "The wet sculptures shine beautifully in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Kopfsteinpflastergassen.",
+              "Ein stabiler Regenschirm ist wegen des Windes besser als ein Knirps.",
+              "Die Marina bietet die besten überdachten Gastronomie-Optionen.",
+              "Nutzen Sie die Kirchen für kurze Aufwärmpausen im Trockenen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "A szél miatt egy stabil esernyő jobb választás, mint az összecsukható.",
+              "A kikötő kínálja a legjobb fedett étkezési lehetőségeket.",
+              "Használja a templomokat rövid, száraz pihenőkre."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "O umbrelă stabilă este mai bună decât una pliabilă din cauza vântului.",
+              "Marina oferă cele mai bune opțiuni gastronomice acoperite.",
+              "Folosiți bisericile pentru scurte pauze la adăpost."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "A sturdy umbrella is better than a travel one due to the wind.",
+              "The marina offers the best covered dining options.",
+              "Use the churches for short dry breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Wintermorgen am Kastell beginnt kühl. In der Kirche St. Bernhard finden Sie spirituelle Wärme. Mittags bietet die Marina eine klare Sicht auf das ruhige Meer, oft ohne Touristenmassen. Nachmittags taucht die tiefstehende Sonne die Quellen und den Skulpturenpark in ein goldenes Licht. Da es früh dunkel wird, endet der Tag zeitig in einer warmen Konoba bei istrischen Spezialitäten.",
+            "hu": "Friss téli reggel a kastélynál, csípős tengeri levegővel. A Szent Bernát-templom belső csendje melengető. Délben a kikötőben a tömeg nélküli, kristálytiszta kilátást élvezhetjük. Délután az alacsonyan járó nap aranyba öltözteti a forrásokat és a Szoborparkot. Mivel korán sötétedik, a napot egy meleg konobában zárjuk, isztriai finomságok mellett.",
+            "ro": "O dimineață răcoroasă de iarnă la castel începe cu aer proaspăt. În biserica Sf. Bernard găsiți căldură spirituală. La prânz, marina oferă o vedere clară asupra mării liniștite, fără mulțimi. După-amiaza, soarele jos scaldă izvoarele și parcul de sculpturi în lumină aurie. Deoarece se întunecă devreme, ziua se termină la o konoba caldă cu specialități istriene.",
+            "en": "A refreshing winter morning at the castle starts crisp. Find spiritual warmth in St. Bernard’s Church. At noon, the marina offers clear views of the calm sea without the crowds. In the afternoon, the low sun bathes the springs and sculpture park in golden light. As it gets dark early, the day ends early in a warm konoba with Istrian specialties."
+          },
+          "stops": [
+            {
+              "name": "Funtana Castle",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wichtig, da der Wind hier oft pfeift.",
+                "hu": "Meleg ruházat fontos, mert itt gyakran fúj a szél.",
+                "ro": "Îmbrăcămintea groasă este importantă, vântul suflă des aici.",
+                "en": "Warm clothing is essential as the wind often blows here."
+              }
+            },
+            {
+              "name": "Parish Church of Saint Bernard",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille außerhalb der Saison.",
+                "hu": "Élvezze a szezonon kívüli csendet.",
+                "ro": "Bucurați-vă de liniștea din afara sezonului.",
+                "en": "Enjoy the off-season silence."
+              }
+            },
+            {
+              "name": "Freshwater Springs of Funtana",
+              "tip_5lang": {
+                "de": "Das fließende Wasser wirkt im Winter besonders klar.",
+                "hu": "A folyó víz télen különösen tisztának tűnik.",
+                "ro": "Apa curgătoare pare extrem de clară iarna.",
+                "en": "The flowing water looks exceptionally clear in winter."
+              }
+            },
+            {
+              "name": "Funtana Marina",
+              "tip_5lang": {
+                "de": "Ideal für einen zügigen Spaziergang an der frischen Luft.",
+                "hu": "Ideális egy tempós sétához a friss levegőn.",
+                "ro": "Ideal pentru o plimbare rapidă în aer curat.",
+                "en": "Ideal for a brisk walk in the fresh air."
+              }
+            },
+            {
+              "name": "Church of Saint Lucia",
+              "tip_5lang": {
+                "de": "Ein schöner Fotostopp im weichen Winterlicht.",
+                "hu": "Szép fotómegálló a lágy téli fényben.",
+                "ro": "O oprire foto frumoasă în lumina blândă de iarnă.",
+                "en": "A beautiful photo stop in the soft winter light."
+              }
+            },
+            {
+              "name": "Funtana Sculpture Park",
+              "tip_5lang": {
+                "de": "Beachten Sie den Sonnenuntergang gegen 16:30 Uhr.",
+                "hu": "Ügyeljen a naplementére 16:30 körül.",
+                "ro": "Atenție la apusul soarelui în jurul orei 16:30.",
+                "en": "Note the sunset around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung schützt vor der kalten Bura.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Viele kleinere Lokale könnten Winterpause haben; Marina prüfen.",
+              "Tragen Sie Handschuhe, wenn Sie am Meer spazieren gehen."
+            ],
+            "hu": [
+              "A réteges öltözködés véd a hideg bóra szél ellen.",
+              "A nap télen már 16:30 körül lenyugszik.",
+              "Sok kisebb hely zárva tarthat; ellenőrizze a kikötői nyitvatartást.",
+              "Viseljen kesztyűt, ha a tengerparton sétál."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi protejează împotriva vântului Bura.",
+              "Soarele apune deja în jur de ora 16:30 iarna.",
+              "Multe localuri mici pot fi închise; verificați marina.",
+              "Purtați mănuși când vă plimbați pe malul mării."
+            ],
+            "en": [
+              "Layered clothing protects against the cold Bura wind.",
+              "The sun sets as early as 4:30 PM in winter.",
+              "Many small places might be closed; check the marina area.",
+              "Wear gloves when walking by the sea."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -535,6 +951,354 @@
           "Bring enough water for the Dinopark tour.",
           "The paths are mostly flat and suitable for children."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Funtana auf zwei Rädern. Vom Kastell geht es zum beeindruckenden Skulpturenpark und weiter zum aufregenden Dinopark.\n\nNach dem Abenteuer im Dinopark radeln Sie entspannt zur Marina für eine kühle Erfrischung.\n\nDie Route führt vorbei an Olivenhainen und durch schattige Küstenabschnitte, ideal für warme Sommertage.\n\nDen Abschluss bildet ein Besuch bei den Quellen, bevor Sie das Fahrrad zurückgeben.",
+            "hu": "Fedezze fel Funtanát két keréken. A kastélytól indulva tekerjen a lenyűgöző szoborparkhoz, majd a kalandos Dinoparkhoz.\n\nA dinó-kaland után guruljon le a kikötőbe egy hűsítő italra.\n\nAz útvonal olajfaligetek mellett és árnyas tengerparti szakaszokon vezet keresztül, ami ideális a meleg nyári napokon.\n\nA napot a forrásoknál zárhatja, mielőtt leadná a békelt kerékpárt.",
+            "ro": "Explorați Funtana pe două roți. De la castel, porniți spre impresionantul parc de sculpturi și apoi spre captivantul Dinopark.\n\nDupă aventura cu dinozauri, pedalați relaxat spre marină pentru o băutură răcoritoare.\n\nTraseul trece pe lângă livezi de măslini și prin secțiuni de coastă umbrite, ideal pentru zilele calde de vară.\n\nÎncheiați turul cu o vizită la izvoare înainte de a returna bicicleta.",
+            "en": "Explore Funtana on two wheels. From the castle, ride to the impressive sculpture park and then to the exciting Dinopark.\n\nAfter the dino adventure, pedal down to the marina for a cool refreshment.\n\nThe route takes you past olive groves and through shaded coastal sections, ideal for warm summer days.\n\nWrap up at the springs before returning your bicycle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kastell Funtana",
+                "hu": "Funtana Kastély",
+                "ro": "Castelul Funtana",
+                "en": "Funtana Castle"
+              },
+              "tip_5lang": {
+                "de": "Startpunkt im historischen Zentrum.",
+                "hu": "Kiindulópont a történelmi központban.",
+                "ro": "Punct de plecare în centrul istoric.",
+                "en": "Starting point in the historical center."
+              }
+            },
+            {
+              "name": {
+                "de": "Skulpturenpark Funtana",
+                "hu": "Funtana Szoborpark",
+                "ro": "Parcul de Sculpturi Funtana",
+                "en": "Funtana Sculpture Park"
+              },
+              "tip_5lang": {
+                "de": "Weitläufiges Gelände, ideal mit dem Rad zu erreichen.",
+                "hu": "Tágas terület, kerékpárral ideális megközelíteni.",
+                "ro": "Teren vast, ideal de parcurs cu bicicleta.",
+                "en": "Spacious grounds, ideal to reach by bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Dinopark Funtana",
+                "hu": "Dinopark Funtana",
+                "ro": "Dinopark Funtana",
+                "en": "Dinopark Funtana"
+              },
+              "tip_5lang": {
+                "de": "Großer Spaß für Familien mit lebensgroßen Modellen.",
+                "hu": "Nagy élmény családoknak az élethű modellekkel.",
+                "ro": "Distracție mare pentru familii cu modele în mărime naturală.",
+                "en": "Great fun for families with life-sized models."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Funtana",
+                "hu": "Funtana kikötő",
+                "ro": "Marina Funtana",
+                "en": "Funtana Marina"
+              },
+              "tip_5lang": {
+                "de": "Kurze Pause am Wasser.",
+                "hu": "Rövid szünet a víznél.",
+                "ro": "Scurtă pauză lângă apă.",
+                "en": "Short break by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Süßwasserquellen",
+                "hu": "Édesvízi források",
+                "ro": "Izvoarele de apă dulce",
+                "en": "Freshwater Springs"
+              },
+              "tip_5lang": {
+                "de": "Letzte Station zum Erfrischen.",
+                "hu": "Utolsó állomás a felfrissüléshez.",
+                "ro": "Ultima oprire pentru răcorire.",
+                "en": "Final stop to refresh."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Bistro Riva",
+                "tip": "Schnelle Snacks und kühle Getränke direkt am Wasser."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bistro Riva",
+                "tip": "Gyors harapnivalók és hűsítő italok közvetlenül a víznél."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Bistro Riva",
+                "tip": "Gustări rapide și băuturi reci chiar lângă apă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bistro Riva",
+                "tip": "Quick snacks and cool drinks right by the water."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Küstentrail",
+                "tip": "Ruhige Wege zwischen Funtana und Vrsar.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Partmenti ösvény",
+                "tip": "Csendes utak Funtana és Vrsar között.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Traseul de coastă",
+                "tip": "Poteci liniștite între Funtana și Vrsar.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Coastal Trail",
+                "tip": "Quiet paths between Funtana and Vrsar.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Bike Verleih",
+                "tip": "Lokale Shops bieten Karten und Equipment."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kerékpárkölcsönző",
+                "tip": "A helyi üzletek térképeket és felszerelést is kínálnak."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Închiriere biciclete",
+                "tip": "Magazinele locale oferă hărți și echipament."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bike Rental",
+                "tip": "Local shops offer maps and equipment."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die markierten Radwege entlang der Küste.",
+              "Nehmen Sie ausreichend Wasser für die Dinopark-Tour mit.",
+              "Die Wege sind meist flach und auch für Kinder geeignet."
+            ],
+            "hu": [
+              "Használja a kijelölt kerékpárutakat a part mentén.",
+              "Vigyen magával elég vizet a Dinopark-látogatáshoz.",
+              "Az utak többnyire síkak, gyerekeknek is alkalmasak."
+            ],
+            "ro": [
+              "Utilizați pistele de biciclete marcate de-a lungul coastei.",
+              "Luați suficientă apă pentru vizita la Dinopark.",
+              "Traseele sunt în mare parte plate și potrivite pentru copii."
+            ],
+            "en": [
+              "Use the marked bike paths along the coast.",
+              "Bring enough water for the Dinopark tour.",
+              "The paths are mostly flat and suitable for children."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine sportliche Fahrt trotz Regen! Das Kastell bietet Schutz für den ersten Check. Die Fahrt zum Skulpturenpark führt über nasse Wege, die volle Konzentration erfordern. Mittags ist der Dinopark ein Highlight mit seinen überdachten Bereichen. Nachmittags geht es zur Marina, wo man den Tag bei einem warmen Getränk ausklingen lässt, während das Rad sicher im Trockenen steht.",
+            "hu": "Sportos tekerés az eső ellenére! A kastély védelmet nyújt az első ellenőrzéshez. A Szoborpark felé vezető vizes utak teljes koncentrációt igényelnek. Délben a Dinopark fedett részei jelentik a fénypontot. Délután a kikötőbe hajtunk, ahol egy meleg ital mellett zárjuk a napot, miközben a bicikli szárazon pihen.",
+            "ro": "O plimbare sportivă în ciuda ploii! Castelul oferă protecție pentru prima verificare. Drumul spre parcul de sculpturi necesită concentrare maximă. La prânz, Dinopark este un punct forte cu zonele sale acoperite. După-amiaza mergem la marină, unde încheiem ziua cu o băutură caldă, în timp ce bicicleta stă la uscat.",
+            "en": "A sporty ride despite the rain! The castle provides shelter for the first check. The ride to the Sculpture Park involves wet paths requiring full focus. At noon, Dinopark is a highlight with its covered areas. In the afternoon, head to the marina to end the day with a warm drink while your bike is parked in the dry."
+          },
+          "stops": [
+            {
+              "name": "Funtana Castle",
+              "tip_5lang": {
+                "de": "Prüfen Sie hier noch einmal Ihre Bremsen.",
+                "hu": "Itt ellenőrizze még egyszer a fékeit.",
+                "ro": "Verificați încă o dată frânele aici.",
+                "en": "Check your brakes once more here."
+              }
+            },
+            {
+              "name": "Funtana Sculpture Park",
+              "tip_5lang": {
+                "de": "Vorsicht in Kurven auf nassen Blättern oder Nadeln.",
+                "hu": "Vigyázat a kanyarokban a vizes leveleken vagy tűleveleken.",
+                "ro": "Atenție în curbe pe frunzele sau acele de pin ude.",
+                "en": "Careful in turns on wet leaves or pine needles."
+              }
+            },
+            {
+              "name": "Dinopark Funtana",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Indoor-Shows als Regenpause.",
+                "hu": "Használja a fedett show-műsorokat esőszünetként.",
+                "ro": "Folosiți spectacolele de interior ca pauză de ploaie.",
+                "en": "Use the indoor shows as a rain break."
+              }
+            },
+            {
+              "name": "Funtana Marina",
+              "tip_5lang": {
+                "de": "Fahrradständer unter Vordächern suchen.",
+                "hu": "Keressen kerékpártárolót az előtetők alatt.",
+                "ro": "Căutați suporturi de biciclete sub copertine.",
+                "en": "Look for bike racks under overhangs."
+              }
+            },
+            {
+              "name": "Freshwater Springs",
+              "tip_5lang": {
+                "de": "Der Boden kann hier sehr schlammig sein.",
+                "hu": "A talaj itt nagyon sáros lehet.",
+                "ro": "Terenul poate fi foarte noroios aici.",
+                "en": "The ground can be very muddy here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine gute Regenjacke und Regenhose.",
+              "Reduzieren Sie den Reifendruck leicht für mehr Grip.",
+              "Schutzbleche sind bei diesem Wetter unverzichtbar.",
+              "Vermeiden Sie plötzliches Bremsen auf nassem Asphalt."
+            ],
+            "hu": [
+              "Viseljen jó esőkabátot és esőnadrágot.",
+              "Csökkentse kicsit a guminyomást a jobb tapadásért.",
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Kerülje a hirtelen fékezést a vizes aszfalton."
+            ],
+            "ro": [
+              "Purtați o jachetă și pantaloni de ploaie de calitate.",
+              "Reduceți ușor presiunea în pneuri pentru aderență.",
+              "Apărătorile de noroi sunt indispensabile pe acest timp.",
+              "Evitați frânarea bruscă pe asfaltul ud."
+            ],
+            "en": [
+              "Wear a good raincoat and rain pants.",
+              "Slightly reduce tire pressure for better grip.",
+              "Mudguards are indispensable in this weather.",
+              "Avoid sudden braking on wet asphalt."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking in Istrien ist erfrischend! Morgens am Kastell ist die Luft glasklar. Die Fahrt zum Skulpturenpark hält Sie warm. Mittags im Dinopark (wenn geöffnet) oder drumherum genießt man die Ruhe. Die Marina am Nachmittag bietet tolle Fotomotive bei tiefstehender Sonne. Bevor der Frost einsetzt, geht es zurück in den Ort zum Aufwärmen.",
+            "hu": "Téli bringázás Isztrián igazán frissítő! Reggel a kastélynál a levegő kristálytiszta. A Szoborpark felé vezető út melegen tart. Délben a Dinoparknál élvezzük a csendet. Délután a kikötő nagyszerű fotótémákat kínál az alacsony napállásnál. Mielőtt beállna a fagy, irány vissza a faluba melegedni.",
+            "ro": "Ciclismul de iarnă în Istria este revigorant! Dimineața la castel aerul este de cristal. Drumul spre parcul de sculpturi vă menține cald. La prânz bucurați-vă de liniște lângă Dinopark. Marina oferă după-amiaza motive foto superbe la apus. Înainte de îngheț, mergeți înapoi în localitate pentru încălzire.",
+            "en": "Winter biking in Istria is refreshing! The morning air at the castle is crystal clear. The ride to the Sculpture Park keeps you warm. At noon, enjoy the peace around Dinopark. The marina in the afternoon offers great photo ops with the low sun. Before the frost sets in, head back to town to warm up."
+          },
+          "stops": [
+            {
+              "name": "Funtana Castle",
+              "tip_5lang": {
+                "de": "Starten Sie erst, wenn die Sonne die Wege gewärmt hat.",
+                "hu": "Csak akkor induljon, ha a nap már felmelegítette az utakat.",
+                "ro": "Porniți doar după ce soarele a încălzit drumurile.",
+                "en": "Start only after the sun has warmed the paths."
+              }
+            },
+            {
+              "name": "Funtana Sculpture Park",
+              "tip_5lang": {
+                "de": "Trinken Sie zwischendurch etwas Warmes aus der Thermoskanne.",
+                "hu": "Igyon közben valami meleget a termoszból.",
+                "ro": "Beți ceva cald din termos pe parcurs.",
+                "en": "Drink something warm from a thermos during the ride."
+              }
+            },
+            {
+              "name": "Dinopark Funtana",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten vorab online.",
+                "hu": "Ellenőrizze előre online a téli nyitvatartást.",
+                "ro": "Verificați programul de iarnă online în prealabil.",
+                "en": "Check winter opening hours online beforehand."
+              }
+            },
+            {
+              "name": "Funtana Marina",
+              "tip_5lang": {
+                "de": "Achtung vor glatten Holzstegen in der Marina.",
+                "hu": "Vigyázat a csúszós fapallókkal a kikötőben.",
+                "ro": "Atenție la podețele de lemn alunecoase din marină.",
+                "en": "Watch out for slippery wooden piers in the marina."
+              }
+            },
+            {
+              "name": "Freshwater Springs",
+              "tip_5lang": {
+                "de": "Schattenlöcher können im Winter gefroren sein.",
+                "hu": "Az árnyékos részeken télen fagyott lehet a talaj.",
+                "ro": "Zonele umbrite pot fi înghețate iarna.",
+                "en": "Shady spots can be frozen in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Windstopper-Handschuhe sind ein Muss.",
+              "Achten Sie auf Raureif in schattigen Kurven.",
+              "Die Dämmerung beginnt früh, Licht am Rad ist Pflicht.",
+              "Planen Sie kürzere Etappen als im Sommer ein."
+            ],
+            "hu": [
+              "A szélálló kesztyű kötelező.",
+              "Ügyeljen a dérre az árnyékos kanyarokban.",
+              "A szürkület korán kezdődik, a lámpa alapfelszerelés.",
+              "Tervezzen rövidebb szakaszokat, mint nyáron."
+            ],
+            "ro": [
+              "Mănușile windstopper sunt obligatorii.",
+              "Atenție la chiciură în curbele umbrite.",
+              "Amurgul începe devreme, lumina la bicicletă e obligatorie.",
+              "Planificați etape mai scurte decât vara."
+            ],
+            "en": [
+              "Windstopper gloves are a must.",
+              "Watch out for frost in shady corners.",
+              "Twilight starts early; bike lights are mandatory.",
+              "Plan shorter stages than in summer."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -770,6 +1534,354 @@
           "Visit Dinopark in the morning to avoid the heat.",
           "Combine the tour with a trip to nearby Vrsar."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie bequem die verstreuten Highlights von Funtana. Beginnen Sie im Kern und fahren Sie dann zur abgeschiedenen Karmel-Kirche.\n\nDer Dinopark bietet Unterhaltung für Stunden, bevor Sie am Nachmittag die Marina ansteuern.\n\nDurch die Flexibilität des Autos können Sie auch lokale Weingüter in der Umgebung leicht besuchen.\n\nBeenden Sie Ihre Tour beim Skulpturenpark, der besonders im späten Licht beeindruckend wirkt.",
+            "hu": "Autóval kényelmesen elérheti Funtana szétszórt látnivalóit. Kezdjen a központban, majd hajtson ki az eldugott Kármel-templomhoz.\n\nA Dinopark órákig tartó szórakozást nyújt, mielőtt délután a kikötő felé venné az irányt.\n\nAz autó rugalmasságának köszönhetően a környező helyi borászatokat is könnyen meglátogathatja.\n\nZárja a túrát a szoborparknál, amely különösen a késő délutáni fényekben nyújt lenyűgöző látványt.",
+            "ro": "Cu mașina, puteți ajunge confortabil la punctele de atracție dispersate din Funtana. Începeți din centru și apoi mergeți spre biserica Carmel situată mai retras.\n\nDinopark oferă distracție pentru câteva ore, înainte de a vă îndrepta spre marină după-amiaza.\n\nDatorită flexibilității mașinii, puteți vizita ușor și cramele locale din împrejurimi.\n\nÎncheiați turul la parcul de sculpturi, care este impresionant mai ales în lumina de după-amiază târzie.",
+            "en": "By car, you can comfortably reach Funtana's scattered highlights. Start in the core and then drive out to the secluded Carmel Church.\n\nDinopark offers entertainment for hours before heading to the marina in the afternoon.\n\nThanks to the car's flexibility, you can also easily visit local wineries in the area.\n\nFinish your tour at the sculpture park, which is particularly impressive in the late afternoon light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kastell Funtana",
+                "hu": "Funtana Kastély",
+                "ro": "Castelul Funtana",
+                "en": "Funtana Castle"
+              },
+              "tip_5lang": {
+                "de": "Parkplatz direkt im Dorfzentrum vorhanden.",
+                "hu": "Parkoló közvetlenül a falu központjában.",
+                "ro": "Parcare disponibilă chiar în centrul satului.",
+                "en": "Parking available right in the village center."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Unserer Lieben Frau vom Berge Karmel",
+                "hu": "Kármel-hegyi Boldogasszony-templom",
+                "ro": "Biserica Maicii Domnului de pe Muntele Carmel",
+                "en": "Church of Our Lady of Mount Carmel"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die historische Kirche etwas außerhalb.",
+                "hu": "Látogassa meg a történelmi templomot kissé kijjebb.",
+                "ro": "Vizitați biserica istorică situată puțin în exterior.",
+                "en": "Visit the historical church located slightly outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Dinopark Funtana",
+                "hu": "Dinopark Funtana",
+                "ro": "Dinopark Funtana",
+                "en": "Dinopark Funtana"
+              },
+              "tip_5lang": {
+                "de": "Großer Parkplatz vor dem Eingang.",
+                "hu": "Nagy parkoló a bejárat előtt.",
+                "ro": "Parcare mare în fața intrării.",
+                "en": "Large parking lot in front of the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Funtana",
+                "hu": "Funtana kikötő",
+                "ro": "Marina Funtana",
+                "en": "Funtana Marina"
+              },
+              "tip_5lang": {
+                "de": "Idealer Stopp für ein spätes Mittagessen.",
+                "hu": "Ideális megálló egy késői ebédhez.",
+                "ro": "Oprire ideală pentru un prânz târziu.",
+                "en": "Ideal stop for a late lunch."
+              }
+            },
+            {
+              "name": {
+                "de": "Skulpturenpark Funtana",
+                "hu": "Funtana Szoborpark",
+                "ro": "Parcul de Sculpturi Funtana",
+                "en": "Funtana Sculpture Park"
+              },
+              "tip_5lang": {
+                "de": "Einzigartige Kunst unter freiem Himmel.",
+                "hu": "Egyedülálló művészet a szabad ég alatt.",
+                "ro": "Artă unică în aer liber.",
+                "en": "Unique art in the open air."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Konoba More",
+                "tip": "Direkt an der Straße, bekannt für istrische Pasta."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Konoba More",
+                "tip": "Közvetlenül az út mentén, híres az isztriai tésztáiról."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Konoba More",
+                "tip": "Chiar la drum, renumită pentru pastele istriene."
+              }
+            ],
+            "en": [
+              {
+                "name": "Konoba More",
+                "tip": "Right by the road, famous for Istrian pasta."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Skulpturenpark",
+                "tip": "Großflächiges Areal mit viel Platz zum Durchatmen.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szoborpark",
+                "tip": "Hatalmas terület, ahol bőven van hely a kikapcsolódásra.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Parcul de Sculpturi",
+                "tip": "Zonă vastă cu mult spațiu pentru relaxare.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "Sculpture Park",
+                "tip": "Large area with plenty of space to breathe.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokalprodukte",
+                "tip": "Wein und Honig direkt von den umliegenden Bauernhöfen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi termékek",
+                "tip": "Bor és méz közvetlenül a környező gazdaságokból."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Produse locale",
+                "tip": "Vin și miere direct de la fermele din împrejurimi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Products",
+                "tip": "Wine and honey directly from the surrounding farms."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Achten Sie auf Parkgebühren in Strandnähe.",
+              "Besuchen Sie den Dinopark am Vormittag, um Hitze zu vermeiden.",
+              "Kombinieren Sie die Tour mit einem Ausflug ins nahe Vrsar."
+            ],
+            "hu": [
+              "Ügyeljen a parkolási díjakra a strandok közelében.",
+              "Látogassa meg a Dinoparkot délelőtt a hőség elkerülése végett.",
+              "Kombinálja a túrát egy kirándulással a közeli Vrsarba."
+            ],
+            "ro": [
+              "Atenție la taxele de parcare în apropierea plajei.",
+              "Vizitați Dinopark dimineața pentru a evita căldura.",
+              "Combinați turul cu o excursie în Vrsar, aflat în apropiere."
+            ],
+            "en": [
+              "Pay attention to parking fees near the beaches.",
+              "Visit Dinopark in the morning to avoid the heat.",
+              "Combine the tour with a trip to nearby Vrsar."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist der Regen kein Hindernis. Parken Sie direkt am Kastell und besuchen Sie die Kirche. Mittags ist der Dinopark dank vieler Indoor-Optionen ideal für Familien. Nachmittags genießen Sie die Marina-Aussicht trocken aus dem Wagen oder einem Café. Den Abend verbringt man entspannt im Skulpturenpark, bevor es zum Abendessen in ein gemütliches Restaurant geht.",
+            "hu": "Autóval az eső nem akadály. Parkoljon közvetlenül a kastélynál, és látogassa meg a templomot. Délben a Dinopark a fedett lehetőségeknek köszönhetően ideális családoknak. Délután élvezze a kikötői kilátást szárazon, az autóból vagy egy kávézóból. Az estét a Szoborparkban tölthetjük, mielőtt egy hangulatos étterembe indulnánk vacsorázni.",
+            "ro": "Cu mașina, ploaia nu este un obstacol. Parcați chiar lângă castel și vizitați biserica. La prânz, Dinopark este ideal pentru familii datorită opțiunilor de interior. După-amiaza bucurați-vă de vederea spre marină din mașină sau dintr-o cafenea. Seara se petrece relaxat în parcul de sculpturi înainte de cină.",
+            "en": "By car, the rain is no obstacle. Park right by the castle and visit the church. At noon, Dinopark is ideal for families thanks to indoor options. In the afternoon, enjoy the marina view dry from the car or a café. Spend the evening relaxed at the Sculpture Park before heading to a cozy restaurant for dinner."
+          },
+          "stops": [
+            {
+              "name": "Funtana Castle",
+              "tip_5lang": {
+                "de": "Parkplätze sind direkt vor dem Kastell vorhanden.",
+                "hu": "Parkolóhelyek közvetlenül a kastély előtt találhatók.",
+                "ro": "Locuri de parcare sunt disponibile chiar în fața castelului.",
+                "en": "Parking spaces are available right in front of the castle."
+              }
+            },
+            {
+              "name": "Church of Our Lady of Mount Carmel",
+              "tip_5lang": {
+                "de": "Kurzer Weg vom Parkplatz zum Eingang.",
+                "hu": "Rövid út a parkolótól a bejáratig.",
+                "ro": "Drum scurt de la parcare până la intrare.",
+                "en": "Short walk from the parking lot to the entrance."
+              }
+            },
+            {
+              "name": "Dinopark Funtana",
+              "tip_5lang": {
+                "de": "Großer Parkplatz, der bei Regen oft leerer ist.",
+                "hu": "Nagy parkoló, amely esőben gyakran üresebb.",
+                "ro": "Parcare mare, adesea mai liberă pe ploaie.",
+                "en": "Large parking lot, often emptier in the rain."
+              }
+            },
+            {
+              "name": "Funtana Marina",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Hafenbecken für die beste Sicht.",
+                "hu": "Parkoljon a kikötőmedence közelében a legjobb kilátásért.",
+                "ro": "Parcați aproape de bazinul portului pentru cea mai bună vedere.",
+                "en": "Park close to the harbor basin for the best view."
+              }
+            },
+            {
+              "name": "Funtana Sculpture Park",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nur wenige Meter vom Eingang entfernt.",
+                "hu": "A parkoló mindössze néhány méterre van a bejárattól.",
+                "ro": "Parcarea este la doar câțiva metri de intrare.",
+                "en": "The parking lot is only a few meters from the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die nahen Parkmöglichkeiten an jedem Stop.",
+              "Vermeiden Sie das Parken unter Bäumen bei starkem Regen.",
+              "Halten Sie die Scheiben frei von Beschlag (Klimaanlage).",
+              "Regenschirm für den Weg vom Auto zum Eingang griffbereit halten."
+            ],
+            "hu": [
+              "Használja a közeli parkolási lehetőségeket minden megállónál.",
+              "Erős esőben kerülje a fák alatti parkolást.",
+              "Tartsa páramentesen a szélvédőt a klímával.",
+              "Tartsa kéznél az esernyőt a kiszálláshoz."
+            ],
+            "ro": [
+              "Folosiți parcările apropiate la fiecare oprire.",
+              "Evitați parcarea sub copaci în caz de ploaie torențială.",
+              "Mențineți parbrizul dezaburit cu ajutorul climei.",
+              "Țineți umbrela la îndemână pentru drumul de la mașină."
+            ],
+            "en": [
+              "Use nearby parking options at every stop.",
+              "Avoid parking under trees during heavy rain.",
+              "Keep the windows fog-free using the AC.",
+              "Keep an umbrella handy for the walk from the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Gemütliche Wintertour im beheizten Wagen! Das Kastell wirkt im klaren Winterlicht majestätisch. In der Kirche Maria vom Berge Karmel findet man Ruhe. Mittags geht es zum Dinopark, wo man die frische Luft genießt. Die Marina lädt am Nachmittag zu einem windgeschützten Spaziergang ein. Der Skulpturenpark bietet bei Sonnenuntergang eine einzigartige Kulisse, bevor man im warmen Auto zurückkehrt.",
+            "hu": "Kényelmes téli túra fűtött autóban! A kastély fenséges a tiszta téli fényben. A Kármel-hegyi Boldogasszony-templomban nyugalomra lelünk. Délben irány a Dinopark, ahol élvezhetjük a friss levegőt. A kikötő délután szélvédett sétára hív. A Szoborpark naplementekor egyedülálló díszletet nyújt, mielőtt visszatérnénk a meleg autóba.",
+            "ro": "Tur de iarnă confortabil în mașina încălzită! Castelul pare maiestuos în lumina clară de iarnă. La prânz mergeți la Dinopark pentru aer curat. Marina vă invită după-amiaza la o plimbare ferită de vânt. Parcul de sculpturi oferă un decor unic la apus, înainte de a vă întoarce în mașina caldă.",
+            "en": "Cozy winter tour in a heated car! The castle looks majestic in the clear winter light. Find peace in the Church of Our Lady of Mount Carmel. At noon, head to Dinopark to enjoy the fresh air. The marina invites you for a wind-sheltered walk in the afternoon. The Sculpture Park provides a unique backdrop at sunset before you return to your warm car."
+          },
+          "stops": [
+            {
+              "name": "Funtana Castle",
+              "tip_5lang": {
+                "de": "Die Heizung im Auto sorgt für angenehme Pausen.",
+                "hu": "Az autó fűtése kellemes szüneteket biztosít.",
+                "ro": "Încălzirea din mașină asigură pauze plăcute.",
+                "en": "The car heater ensures comfortable breaks."
+              }
+            },
+            {
+              "name": "Church of Our Lady of Mount Carmel",
+              "tip_5lang": {
+                "de": "Kirchenraum kann im Winter sehr kühl sein.",
+                "hu": "A templomtér télen nagyon hűvös lehet.",
+                "ro": "Interiorul bisericii poate fi foarte rece iarna.",
+                "en": "The church interior can be very cool in winter."
+              }
+            },
+            {
+              "name": "Dinopark Funtana",
+              "tip_5lang": {
+                "de": "Parkplatz ist im Winter meist menschenleer.",
+                "hu": "A parkoló télen többnyire néptelen.",
+                "ro": "Parcarea este în mare parte pustie iarna.",
+                "en": "The parking lot is mostly empty in winter."
+              }
+            },
+            {
+              "name": "Funtana Marina",
+              "tip_5lang": {
+                "de": "Ideal, um die Wellen windgeschützt vom Auto aus zu sehen.",
+                "hu": "Ideális a hullámok megfigyelésére a szélvédett autóból.",
+                "ro": "Ideal pentru a vedea valurile din mașină, ferit de vânt.",
+                "en": "Ideal for watching the waves from the car, sheltered from wind."
+              }
+            },
+            {
+              "name": "Funtana Sculpture Park",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch kurz vor dem Dunkelwerden.",
+                "hu": "Tervezze a látogatást röviddel sötétedés elé.",
+                "ro": "Planificați vizita cu puțin timp înainte de lăsarea întunericului.",
+                "en": "Plan your visit shortly before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutz in der Scheibenwaschanlage nicht vergessen.",
+              "Parken Sie in der Sonne, um den Wagen natürlich zu wärmen.",
+              "Eiskratzer sollte im Winter immer an Bord sein.",
+              "Achten Sie auf Straßenglätte bei Temperaturen um den Gefrierpunkt."
+            ],
+            "hu": [
+              "Ne felejtse el a fagyállót a szélvédőmosóba.",
+              "Parkoljon a napon, hogy természetesen melegedjen az autó.",
+              "A jégkaparó télen mindig legyen az autóban.",
+              "Figyeljen az utak csúszósságára fagypont közeli hőmérsékletnél."
+            ],
+            "ro": [
+              "Nu uitați antigelul în lichidul de parbriz.",
+              "Parcați la soare pentru a încălzi mașina natural.",
+              "Răzuitoarea de gheață nu trebuie să lipsească iarna.",
+              "Atenție la polei când temperaturile sunt aproape de îngheț."
+            ],
+            "en": [
+              "Don't forget antifreeze in your windshield washer fluid.",
+              "Park in the sun to naturally warm the car.",
+              "An ice scraper should always be on board in winter.",
+              "Watch out for icy roads at temperatures around freezing."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -982,6 +2094,322 @@
           "Tourist trains often run more frequently than scheduled buses.",
           "Check the timetable online in advance."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den regionalen Busverkehr oder die beliebten touristischen Bummelzüge. Starten Sie im historischen Kern.\n\nMittags bietet die Marina eine entspannte Pause, bevor Sie mit dem nächsten Anschluss zum Dinopark fahren.\n\nDer Skulpturenpark ist ebenfalls gut angebunden und bildet den krönenden Abschluss.\n\nAchten Sie auf die Fahrpläne, besonders in der Nebensaison sind die Intervalle seltener.",
+            "hu": "Használja a helyközi buszjáratokat vagy a népszerű turistavonatokat. Kezdjen a történelmi központban.\n\nDélben a kikötő kínál pihentető szünetet, mielőtt a következő járattal a Dinoparkba menne.\n\nA szoborpark is jól megközelíthető, és tökéletes befejezése a napnak.\n\nÜgyeljen a menetrendre, különösen utószezonban ritkábbak a járatok.",
+            "ro": "Folosiți autobuzele regionale sau trenulețele turistice populare. Începeți din nucleul istoric.\n\nLa prânz, marina oferă o pauză relaxantă înainte de a lua următoarea legătură spre Dinopark.\n\nParcul de sculpturi este, de asemenea, bine conectat și reprezintă un final de zi minunat.\n\nAtenție la orare, intervalele de circulație sunt mai mari în afara sezonului.",
+            "en": "Use regional bus services or the popular tourist trains. Start in the historical core.\n\nAt noon, the marina offers a relaxed break before taking the next connection to Dinopark.\n\nThe sculpture park is also well connected and makes for a crowning finale.\n\nPay attention to the timetables, as intervals are less frequent during the off-season."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kastell Funtana",
+                "hu": "Funtana Kastély",
+                "ro": "Castelul Funtana",
+                "en": "Funtana Castle"
+              },
+              "tip_5lang": {
+                "de": "Busstopp im Dorfzentrum.",
+                "hu": "Buszmegálló a falu központjában.",
+                "ro": "Stație de autobuz în centrul satului.",
+                "en": "Bus stop in the village center."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Funtana",
+                "hu": "Funtana kikötő",
+                "ro": "Marina Funtana",
+                "en": "Funtana Marina"
+              },
+              "tip_5lang": {
+                "de": "Leicht vom Zentrum zu Fuß oder per Bummelzug erreichbar.",
+                "hu": "A központból gyalog vagy kisvonattal is könnyen elérhető.",
+                "ro": "Ușor de ajuns din centru pe jos sau cu trenulețul turistic.",
+                "en": "Easily accessible from the center on foot or by tourist train."
+              }
+            },
+            {
+              "name": {
+                "de": "Dinopark Funtana",
+                "hu": "Dinopark Funtana",
+                "ro": "Dinopark Funtana",
+                "en": "Dinopark Funtana"
+              },
+              "tip_5lang": {
+                "de": "Beliebte Haltestelle für Ausflugsbusse.",
+                "hu": "Népszerű megálló a kirándulóbuszok számára.",
+                "ro": "Stație populară pentru autobuzele de excursie.",
+                "en": "Popular stop for excursion buses."
+              }
+            },
+            {
+              "name": {
+                "de": "Skulpturenpark Funtana",
+                "hu": "Funtana Szoborpark",
+                "ro": "Parcul de Sculpturi Funtana",
+                "en": "Funtana Sculpture Park"
+              },
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Rückfahrt.",
+                "hu": "Utolsó megálló a visszaút előtt.",
+                "ro": "Ultima oprire înainte de întoarcere.",
+                "en": "Last stop before the return journey."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Trattoria Funtana",
+                "tip": "Klassische Pizza und Pasta unweit der Bushaltestelle."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Trattoria Funtana",
+                "tip": "Klasszikus pizza és tészta nem messze a buszmegállótól."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Trattoria Funtana",
+                "tip": "Pizza și paste clasice, nu departe de stația de autobuz."
+              }
+            ],
+            "en": [
+              {
+                "name": "Trattoria Funtana",
+                "tip": "Classic pizza and pasta not far from the bus stop."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Marina Pier",
+                "tip": "Sitzen Sie am Ende des Piers und genießen Sie die Ruhe.",
+                "emoji": "🏞️"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kikötői móló",
+                "tip": "Üljön ki a móló végére és élvezze a csendet.",
+                "emoji": "🏞️"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Mollul Marinei",
+                "tip": "Stați la capătul mollului și bucurați-vă de liniște.",
+                "emoji": "🏞️"
+              }
+            ],
+            "en": [
+              {
+                "name": "Marina Pier",
+                "tip": "Sit at the end of the pier and enjoy the peace.",
+                "emoji": "🏞️"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Kiosk-Souvenirs",
+                "tip": "Typische Urlaubsandenken an den Haltestellen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Kioszk-szuvenírek",
+                "tip": "Tipikus nyaralási emléktárgyak a megállóknál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Suveniruri de la chioșc",
+                "tip": "Amintiri tipice de vacanță la stațiile de transport."
+              }
+            ],
+            "en": [
+              {
+                "name": "Kiosk Souvenirs",
+                "tip": "Typical holiday mementos at the stops."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets beim Fahrer oder am Kiosk.",
+              "Bummelzüge fahren oft öfter als Linienbusse.",
+              "Prüfen Sie den Fahrplan online vorab."
+            ],
+            "hu": [
+              "Vegye meg a jegyet a vezetőnél vagy az újságosnál.",
+              "A turistavonatok gyakrabban járnak, mint a menetrend szerinti buszok.",
+              "Ellenőrizze online a menetrendet előre."
+            ],
+            "ro": [
+              "Cumpărați bilete de la șofer sau de la chioșc.",
+              "Trenulețele turistice circulă adesea mai des decât autobuzele de linie.",
+              "Verificați orarul online în prealabil."
+            ],
+            "en": [
+              "Buy tickets from the driver or at the kiosk.",
+              "Tourist trains often run more frequently than scheduled buses.",
+              "Check the timetable online in advance."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Transit ist bei Regen eine gute Wahl. Das Kastell ist vom Busstopp aus schnell erreichbar. Mittags verbringt man viel Zeit in der Marina, wo Busse regelmäßig verkehren. Der Dinopark bietet genug Unterhaltung im Trockenen. Den Nachmittag beschließt man im Skulpturenpark, bevor man bequem mit dem Bus zurück zum Ausgangspunkt fährt, während draußen der Regen prasselt.",
+            "hu": "A tömegközlekedés jó választás esőben. A kastély gyorsan elérhető a buszmegállótól. Délben sok időt tölthetünk a kikötőben, ahol a buszok rendszeresen járnak. A Dinopark elég szórakozást nyújt szárazon. A délutánt a Szoborparkban zárjuk, mielőtt kényelmesen visszautaznánk a kiindulópontra a kopogó esőben.",
+            "ro": "Transportul public este o alegere bună pe ploaie. Castelul este rapid accesibil din stație. La prânz petreceți timp în marină, unde autobuzele circulă regulat. Dinopark oferă destulă distracție la adăpost. Încheiați după-amiaza în parcul de sculpturi înainte de a vă întoarce confortabil cu autobuzul.",
+            "en": "Transit is a good choice in the rain. The castle is quickly reachable from the bus stop. At noon, spend time in the marina where buses run regularly. Dinopark offers enough entertainment in the dry. Conclude the afternoon at the Sculpture Park before taking a comfortable bus ride back to the starting point."
+          },
+          "stops": [
+            {
+              "name": "Funtana Castle",
+              "tip_5lang": {
+                "de": "Haltestelle liegt im Ortszentrum, kurzer Fußweg.",
+                "hu": "A megálló a központban van, rövid séta.",
+                "ro": "Stația este în centrul localității, drum scurt pe jos.",
+                "en": "The stop is in the town center, short walk away."
+              }
+            },
+            {
+              "name": "Funtana Marina",
+              "tip_5lang": {
+                "de": "Warten Sie in einem Café nah an der Haltestelle.",
+                "hu": "Várjon egy kávézóban a megálló közelében.",
+                "ro": "Așteptați într-o cafenea aproape de stație.",
+                "en": "Wait in a café near the bus stop."
+              }
+            },
+            {
+              "name": "Dinopark Funtana",
+              "tip_5lang": {
+                "de": "Informieren Sie sich über den Shuttle-Service bei Regen.",
+                "hu": "Tájékozódjon az esőben induló transzferjáratokról.",
+                "ro": "Informați-vă despre serviciul de shuttle pe timp de ploaie.",
+                "en": "Inquire about shuttle services during rain."
+              }
+            },
+            {
+              "name": "Funtana Sculpture Park",
+              "tip_5lang": {
+                "de": "Die Busfrequenz kann bei schlechtem Wetter variieren.",
+                "hu": "Rossz időben a buszok járatsűrűsége változhat.",
+                "ro": "Frecvența autobuzelor poate varia pe vreme rea.",
+                "en": "Bus frequency may vary during bad weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie die Fahrplan-App immer aktuell dabei.",
+              "Buswartehäuschen bieten oft keinen 100%igen Regenschutz.",
+              "Kleingeld für den Fahrkartenkauf beim Fahrer bereithalten.",
+              "Achten Sie auf Pfützen beim Ein- und Aussteigen."
+            ],
+            "hu": [
+              "Mindig legyen kéznél a friss menetrend.",
+              "A buszvárók nem mindig nyújtanak teljes védelmet az eső ellen.",
+              "Legyen aprópénze a jegyvásárláshoz a sofőrnél.",
+              "Vigyázzon a tócsákra le- és felszálláskor."
+            ],
+            "ro": [
+              "Aveți mereu aplicația cu orarul actualizat.",
+              "Stațiile de autobuz nu oferă mereu protecție completă la ploaie.",
+              "Pregătiți mărunțiș pentru cumpărarea biletului de la șofer.",
+              "Atenție la bălți la urcare și coborâre."
+            ],
+            "en": [
+              "Always have the latest schedule app handy.",
+              "Bus shelters don't always offer 100% rain protection.",
+              "Keep small change ready for buying tickets from the driver.",
+              "Watch out for puddles when getting on and off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Transit-Hopping im istrischen Winter! Morgens am Kastell ist es ruhig, die Busse sind leerer. In der Marina genießt man die Winterbrise, bevor man den Bus zum Dinopark nimmt. Nachmittags ist der Skulpturenpark das Ziel. Dank der Heizung in den Bussen kann man sich zwischen den Zielen immer wieder aufwärmen, während man die winterliche Küstenlandschaft an sich vorbeiziehen sieht.",
+            "hu": "Téli buszozás Isztrián! Reggel a kastélynál nyugalom van, a buszok üresebbek. A kikötőben élvezzük a téli szellőt, mielőtt buszra szállnánk a Dinopark felé. Délután a Szoborpark a célpont. A buszok fűtésének köszönhetően két állomás között mindig átmelegedhetünk, miközben nézzük a téli tengerparti tájat.",
+            "ro": "Transport public în iarna istriană! Dimineața la castel este liniște, autobuzele sunt mai goale. În marină bucurați-vă de briza de iarnă înainte de a lua autobuzul spre Dinopark. După-amiaza destinația este parcul de sculpturi. Datorită încălzirii din autobuze, vă puteți încălzi între obiective.",
+            "en": "Transit hopping in the Istrian winter! It's quiet at the castle in the morning; buses are emptier. Enjoy the winter breeze at the marina before taking the bus to Dinopark. In the afternoon, the Sculpture Park is the goal. Thanks to the heating in the buses, you can warm up between stops while watching the winter coastline go by."
+          },
+          "stops": [
+            {
+              "name": "Funtana Castle",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter seltener, Fahrplan prüfen.",
+                "hu": "A buszok télen ritkábban járnak, ellenőrizze a menetrendet.",
+                "ro": "Autobuzele circulă mai rar iarna, verificați orarul.",
+                "en": "Buses run less frequently in winter; check the schedule."
+              }
+            },
+            {
+              "name": "Funtana Marina",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit für einen heißen Tee in der Nähe.",
+                "hu": "Használja ki a várakozási időt egy forró teára a közelben.",
+                "ro": "Folosiți timpul de așteptare pentru un ceai fierbinte în apropiere.",
+                "en": "Use the waiting time for a hot tea nearby."
+              }
+            },
+            {
+              "name": "Dinopark Funtana",
+              "tip_5lang": {
+                "de": "Haltestelle liegt direkt an der Hauptstraße.",
+                "hu": "A megálló közvetlenül a főút mellett található.",
+                "ro": "Stația se află chiar lângă drumul principal.",
+                "en": "The stop is located right on the main road."
+              }
+            },
+            {
+              "name": "Funtana Sculpture Park",
+              "tip_5lang": {
+                "de": "Letzter Bus zurück oft schon kurz nach Sonnenuntergang.",
+                "hu": "Az utolsó busz visszafelé gyakran már röviddel naplemente után indul.",
+                "ro": "Ultimul autobuz înapoi pleacă adesea imediat după apus.",
+                "en": "The last bus back often leaves shortly after sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Winterfahrplan tritt oft ab November in Kraft.",
+              "Busse sind im Winter meist gut beheizt.",
+              "Wartezeiten im Freien durch passende Kleidung überbrücken.",
+              "Manche Linien müssen im Winter vorab angefordert werden."
+            ],
+            "hu": [
+              "A téli menetrend gyakran novembertől lép életbe.",
+              "A buszok télen általában jól fűtöttek.",
+              "A szabadtéri várakozást megfelelő öltözékkel hidalja át.",
+              "Néhány járatot télen előre igényelni kell."
+            ],
+            "ro": [
+              "Orarul de iarnă intră adesea în vigoare din noiembrie.",
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Compensați așteptarea în aer liber cu haine adecvate.",
+              "Unele linii trebuie solicitate în prealabil iarna."
+            ],
+            "en": [
+              "The winter schedule often starts in November.",
+              "Buses are usually well-heated in winter.",
+              "Bridging outdoor waiting times with appropriate clothing.",
+              "Some routes might need to be requested in advance in winter."
+            ]
+          }
+        }
       }
     }
   },

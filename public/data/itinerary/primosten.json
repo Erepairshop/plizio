@@ -274,6 +274,404 @@
           "Book a table in the konobas for dinner in advance.",
           "Bring water shoes for the pebble beach."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen in der charmanten Altstadt von Primošten und spazieren Sie durch das historische Stadttor. Besuchen Sie die kleine Kirche St. Rochus, bevor Sie zur Pfarrkirche St. Georg auf dem Hügel hinaufsteigen, um den atemberaubenden Blick auf die Adria zu genießen. Mittags lockt ein gemütlicher Spaziergang entlang der Küstenpromenade. Den Nachmittag verbringen Sie am herrlichen Strand Mala Raduča. Beenden Sie den Tag bei einem Glas lokalem Babić-Wein in einer Konoba.",
+            "hu": "Kezdje a reggelt Primošten bájos óvárosában, áthaladva a történelmi városkapun. Látogassa meg a Szent Rókus-templomot, majd kapaszkodjon fel a dombtetőn álló Szent György-templomhoz a lenyűgöző adriai panorámáért. Délben tegyen egy kellemes sétát a tengerparti sétányon. A délutánt töltse a csodálatos Mala Raduča strandon. A napot egy pohár helyi Babić borral zárja valamelyik hangulatos konobában.",
+            "ro": "Începeți dimineața în fermecătorul oraș vechi din Primošten, trecând prin poarta istorică. Vizitați mica biserică Sf. Roch înainte de a urca la biserica parohială Sf. Gheorghe pentru o vedere uluitoare asupra Adriaticii. La prânz, bucurați-vă de o plimbare pe faleză. Petreceți după-amiaza pe superba plajă Mala Raduča. Încheiați ziua cu un pahar de vin local Babić într-o tavernă tradițională.",
+            "en": "Start your morning in the charming old town of Primošten, walking through the historic city gate. Visit the small St. Roch church before climbing up to the Parish Church of St. George for breathtaking Adriatic views. At midday, enjoy a leisurely stroll along the coastal promenade. Spend the afternoon at the stunning Mala Raduča beach. End your day with a glass of local Babić wine in a cozy konoba."
+          },
+          "stops": [
+            {
+              "name": "Altstadt von Primošten",
+              "tip_5lang": {
+                "de": "Früher Morgenbesuch für die beste Atmosphäre.",
+                "hu": "Reggel a legcsendesebb a felfedezéshez.",
+                "ro": "Vizitați dimineața devreme pentru atmosferă.",
+                "en": "Early morning visit for the best atmosphere."
+              }
+            },
+            {
+              "name": "Das Stadttor",
+              "tip_5lang": {
+                "de": "Historischer Eingang zur Halbinsel.",
+                "hu": "A félsziget történelmi bejárata.",
+                "ro": "Intrarea istorică în peninsulă.",
+                "en": "Historical entrance to the peninsula."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Rochus",
+              "tip_5lang": {
+                "de": "Kleine Votivkirche aus dem 17. Jahrhundert.",
+                "hu": "Kis fogadalmi templom a 17. századból.",
+                "ro": "Mică biserică votivă din secolul al XVII-lea.",
+                "en": "Small 17th-century votive church."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Georg",
+              "tip_5lang": {
+                "de": "Panoramablick vom höchsten Punkt der Insel.",
+                "hu": "Panoráma a sziget legmagasabb pontjáról.",
+                "ro": "Vedere panoramică din cel mai înalt punct.",
+                "en": "Panoramic views from the highest point."
+              }
+            },
+            {
+              "name": "Küstenpromenade",
+              "tip_5lang": {
+                "de": "Ideal für einen entspannten Mittagsspaziergang.",
+                "hu": "Ideális egy pihentető déli sétához.",
+                "ro": "Ideal pentru o plimbare relaxantă la prânz.",
+                "en": "Ideal for a relaxed midday stroll."
+              }
+            },
+            {
+              "name": "Strand Mala Raduča",
+              "tip_5lang": {
+                "de": "Berühmter Kiesstrand mit klarem Wasser.",
+                "hu": "Híres kavicsos strand tiszta vízzel.",
+                "ro": "Plajă faimoasă cu pietriș și apă clară.",
+                "en": "Famous pebble beach with clear water."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Babić Wein",
+                "tip": "Probieren Sie diesen kräftigen Rotwein in der Konoba Toni."
+              },
+              {
+                "name": "Peka",
+                "tip": "Traditionell unter der Glocke gegartes Fleisch oder Tintenfisch."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Babić bor",
+                "tip": "Kóstolja meg ezt a karakteres vörösbort a Konoba Toniban."
+              },
+              {
+                "name": "Peka",
+                "tip": "Hagyományos, harang alatt sült hús vagy polip."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vin Babić",
+                "tip": "Gustați acest vin roșu robust la Konoba Toni."
+              },
+              {
+                "name": "Peka",
+                "tip": "Carne sau caracatiță gătită tradițional sub capac de fontă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Babić Wine",
+                "tip": "Try this robust red wine at Konoba Toni."
+              },
+              {
+                "name": "Peka",
+                "tip": "Traditional slow-cooked meat or octopus under a bell."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "St.-Georgs-Friedhof",
+                "tip": "Ruhiger Ort mit der besten Aussicht.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Felsige Buchten",
+                "tip": "Versteckte Plätze nördlich der Stadt.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szent György temető",
+                "tip": "Csendes hely a legszebb kilátással.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Sziklás öblök",
+                "tip": "Rejtett helyek a várostól északra.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Cimitirul Sf. Gheorghe",
+                "tip": "Loc liniștit cu cea mai frumoasă priveliște.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Golfuri stâncoase",
+                "tip": "Locuri ascunse la nord de oraș.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "St. George Cemetery",
+                "tip": "Peaceful spot with the best sunset view.",
+                "emoji": "🌅"
+              },
+              {
+                "name": "Rocky Coves",
+                "tip": "Hidden spots north of the town center.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Lokaler Olivenöl",
+                "tip": "Direkt bei den Erzeugern in der Altstadt kaufen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Helyi olívaolaj",
+                "tip": "Vásároljon közvetlenül a termelőktől az óvárosban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Ulei de măsline local",
+                "tip": "Cumpărați direct de la producători în centrul vechi."
+              }
+            ],
+            "en": [
+              {
+                "name": "Local Olive Oil",
+                "tip": "Buy directly from producers in the old town."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+              "Besuchen Sie die Kirche am späten Nachmittag für das beste Licht.",
+              "Reservieren Sie in den Konobas für das Abendessen vor.",
+              "Bringen Sie Badeschuhe für den Kiesstrand mit."
+            ],
+            "hu": [
+              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+              "Látogassa meg a templomot késő délután a szép fényekért.",
+              "Érdemes asztalt foglalni a konobákban vacsorára.",
+              "Hozzon úszócipőt a kavicsos strandhoz."
+            ],
+            "ro": [
+              "Purtați pantofi comozi pentru străzile pietruite.",
+              "Vizitați biserica după-amiaza târziu pentru lumină bună.",
+              "Rezervați o masă la taverne pentru cină.",
+              "Aduceți încălțăminte de apă pentru plaja cu pietriș."
+            ],
+            "en": [
+              "Wear comfortable shoes for the cobblestone streets.",
+              "Visit the church in the late afternoon for the best light.",
+              "Book a table in the konobas for dinner in advance.",
+              "Bring water shoes for the pebble beach."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in den engen Gassen der Altstadt, die natürlichen Schutz vor Wind und leichtem Regen bieten. Die Kirchen St. Rochus und St. Georg sind ideale Rückzugsorte, um die Architektur im Trockenen zu bewundern. Mittags empfiehlt sich ein Aufenthalt in einem der Cafés mit Blick auf die aufgewühlte Adria. Der Spaziergang am Strand Mala Raduča zeigt die wilde Seite der Küste.",
+            "hu": "Kezdje a napot az óváros szűk utcáin, amelyek védelmet nyújtanak a szél és az eső elől. A Szent Rókus és Szent György templomok kiváló menedéket jelentenek, ahol szárazon csodálhatja meg a belső teret. Ebédidőben keressen egy tengerre néző kávézót a hullámok megfigyeléséhez. A Mala Raduča strand menti séta esőben is különleges látványt nyújt a tajtékzó tengerrel.",
+            "ro": "Începeți ziua pe străzile înguste ale orașului vechi, care oferă protecție naturală împotriva vântului și a ploii ușoare. Bisericile Sf. Rochus și Sf. Gheorghe sunt refugii ideale pentru a admira arhitectura la adăpost. La prânz, alegeți o cafenea cu vedere la Adriatica agitată. Plimbarea pe plaja Mala Raduča dezvăluie latura sălbatică a coastei sub picăturile de ploaie.",
+            "en": "Start the day in the narrow alleys of the old town, which provide natural shelter from wind and light rain. St. Roch and St. George churches are ideal retreats to admire the architecture while staying dry. At noon, enjoy a coffee while watching the turbulent Adriatic waves. A walk by Mala Raduča beach offers a dramatic view of the coastline's wild side in rainy weather."
+          },
+          "stops": [
+            {
+              "name": "Altstadt von Primošten",
+              "tip_4lang": {
+                "de": "Die schmalen Gassen minimieren den Regenfall am Boden.",
+                "hu": "A szűk utcák között kevésbé érezni az esőt.",
+                "ro": "Străzile înguste minimizează ploaia la nivelul solului.",
+                "en": "Narrow streets minimize the rain reaching the ground."
+              }
+            },
+            {
+              "name": "Das Stadttor",
+              "tip_4lang": {
+                "de": "Das steinerne Tor bietet kurzzeitig Schutz vor Schauern.",
+                "hu": "A kőkapu alatt rövid ideig megvárható a zápor vége.",
+                "ro": "Poarta de piatră oferă adăpost temporar în caz de aversă.",
+                "en": "The stone gate offers temporary shelter during showers."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Rochus",
+              "tip_4lang": {
+                "de": "Perfekt für eine kulturelle Pause im Trockenen.",
+                "hu": "Tökéletes helyszín egy kulturális pihenőhöz szárazon.",
+                "ro": "Perfect pentru o pauză culturală la adăpost.",
+                "en": "Perfect for a cultural break while staying dry."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Georg",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Innenraum zur Besichtigung bei starkem Regen.",
+                "hu": "Használja a belső teret nézelődésre erős esőben.",
+                "ro": "Vizitați interiorul în caz de ploaie torențială.",
+                "en": "Visit the interior during heavy rain for shelter."
+              }
+            },
+            {
+              "name": "Küstenpromenade",
+              "tip_4lang": {
+                "de": "Vorsicht auf den glatten Steinplatten am Wasser.",
+                "hu": "Vigyázat, a vízparti kőlapok vizesen csúszhatnak.",
+                "ro": "Atenție la plăcile de piatră alunecoase de lângă apă.",
+                "en": "Caution: the stone slabs near the water can be slippery."
+              }
+            },
+            {
+              "name": "Strand Mala Raduča",
+              "tip_4lang": {
+                "de": "Die Cafés direkt hinter dem Strand sind wetterfest.",
+                "hu": "A strand mögötti kávézók fedettek és szélvédettek.",
+                "ro": "Cafenelele de lângă plajă sunt protejate de intemperii.",
+                "en": "The cafes right behind the beach are weather-proof."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit rutschfesten Sohlen für die Altstadtpflaster.",
+              "Die Kirchen bieten den besten Schutz bei plötzlichen Gewittern.",
+              "Nutzen Sie die Regenpausen für Fotos der dramatischen Wellen.",
+              "Einige Konobas haben beheizte oder gut geschützte Terrassen.",
+              "Regenschirme sind bei starkem Wind in Meeresnähe unpraktisch; nutzen Sie Regenponchos."
+            ],
+            "hu": [
+              "Viseljen csúszásmentes talpú cipőt az óvárosi köveken.",
+              "A templomok nyújtják a legjobb védelmet hirtelen vihar esetén.",
+              "Használja ki az esőszüneteket a látványos hullámok fotózására.",
+              "Néhány konoba fűtött vagy jól védett terasszal rendelkezik.",
+              "Az esernyő a tengerparti szélben instabil, a poncho praktikusabb."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu talpă aderentă pentru pavajul vechi.",
+              "Bisericile oferă cel mai bun adăpost în caz de furtună bruscă.",
+              "Profită de pauzele de ploaie pentru poze cu valurile dramatice.",
+              "Unele taverne au terase încălzite sau bine protejate.",
+              "Umbrelele sunt greu de folosit în vânt; pelerinele sunt mai bune."
+            ],
+            "en": [
+              "Wear shoes with non-slip soles for the old town pavement.",
+              "Churches provide the best shelter during sudden storms.",
+              "Take advantage of rain breaks to photograph the dramatic waves.",
+              "Some konobas have heated or well-sheltered terraces.",
+              "Umbrellas are impractical in sea winds; use a raincoat or poncho."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Primošten in winterlicher Ruhe ohne Touristenströme. Die klare Winterluft ermöglicht weite Sicht von der St. Georg Kirche über die Inselwelt. Mittags wärmt die tiefstehende Sonne die Steingassen auf. Da es bereits gegen 16:30 Uhr dunkel wird, bietet der Strand Mala Raduča einen einsamen Ort für einen frühen, farbenfrohen Sonnenuntergang.",
+            "hu": "Fedezze fel Primoštent téli nyugalmában, turisták nélkül. A tiszta téli levegő messzi kilátást enged a Szent György templomtól a szigetvilágra. Délben az alacsonyan járó nap kellemesen melegíti az óváros köveit. Mivel 16:30 körül sötétedik, a Mala Raduča strand magányos helyszín egy korai, színes naplementéhez.",
+            "ro": "Experimentați Primošten în liniștea iernii, fără mulțimi de turiști. Aerul clar de iarnă permite vederi panoramice de la Biserica Sf. Gheorghe peste insule. La prânz, soarele blând încălzește străzile de piatră. Deoarece se întunecă în jur de ora 16:30, plaja Mala Raduča este locul perfect pentru un apus timpuriu și colorat.",
+            "en": "Experience Primošten in winter tranquility without the tourist crowds. The crisp winter air allows for expansive views from St. George Church over the islands. At noon, the low sun warms the stone alleys. As it gets dark around 4:30 PM, Mala Raduča beach offers a solitary spot for an early, colorful sunset."
+          },
+          "stops": [
+            {
+              "name": "Altstadt von Primošten",
+              "tip_4lang": {
+                "de": "Genießen Sie die leeren Gassen für ungestörte Fotos.",
+                "hu": "Élvezze az üres utcákat a zavartalan fotózáshoz.",
+                "ro": "Bucurați-vă de străzile goale pentru fotografii reușite.",
+                "en": "Enjoy the empty streets for undisturbed photography."
+              }
+            },
+            {
+              "name": "Das Stadttor",
+              "tip_4lang": {
+                "de": "Hier weht im Winter oft die kalte Bura-Brise.",
+                "hu": "Itt télen gyakran fúj a hideg bóra szél.",
+                "ro": "Aici suflă adesea vântul rece Bura în timpul iernii.",
+                "en": "The cold Bura wind often blows through here in winter."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Rochus",
+              "tip_4lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten vorab.",
+                "hu": "Érdemes előre ellenőrizni a téli nyitvatartást.",
+                "ro": "Verificați programul de iarnă în prealabil.",
+                "en": "Check winter opening hours in advance."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Georg",
+              "tip_4lang": {
+                "de": "Bester Aussichtspunkt für den winterlichen Sonnenuntergang.",
+                "hu": "A legjobb kilátópont a téli naplemente megtekintéséhez.",
+                "ro": "Cel mai bun punct de observație pentru apusul de iarnă.",
+                "en": "Best viewpoint for watching the winter sunset."
+              }
+            },
+            {
+              "name": "Küstenpromenade",
+              "tip_4lang": {
+                "de": "Ein zügiger Spaziergang hält bei kühlem Wind warm.",
+                "hu": "A tempós séta segít melegen maradni a hűvös szélben.",
+                "ro": "O plimbare rapidă vă va ține de cald pe vânt rece.",
+                "en": "A brisk walk helps stay warm in the cool wind."
+              }
+            },
+            {
+              "name": "Strand Mala Raduča",
+              "tip_4lang": {
+                "de": "Ideal für einen meditativen Moment am leeren Ufer.",
+                "hu": "Ideális egy meditatív perchez az üres parton.",
+                "ro": "Ideal pentru un moment meditativ pe țărmul pustiu.",
+                "en": "Ideal for a meditative moment on the empty shore."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip gegen den kalten Seewind.",
+              "Die Sonne verschwindet bereits gegen 16:30 Uhr hinter dem Horizont.",
+              "Viele Restaurants haben Winterpause, suchen Sie nach ganzjährig offenen Lokalen.",
+              "Die Bura kann sehr kräftig sein; meiden Sie dann exponierte Klippen.",
+              "Die Lichtverhältnisse für Fotografen sind im Winter besonders klar."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a hideg tengeri szél ellen.",
+              "A nap már 16:30 körül eltűnik a horizont mögött.",
+              "Sok étterem zárva van télen, keresse az egész évben nyitva tartókat.",
+              "A bóra szél nagyon erős lehet; ilyenkor kerülje a kitett sziklákat.",
+              "A fényviszonyok télen különösen tiszták a fotózáshoz."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi împotriva vântului rece de mare.",
+              "Soarele dispare după orizont deja în jur de ora 16:30.",
+              "Multe restaurante sunt închise; căutați localurile deschise tot anul.",
+              "Vântul Bura poate fi foarte puternic; evitați zonele expuse.",
+              "Lumina de iarnă este deosebit de clară pentru pasionații de foto."
+            ],
+            "en": [
+              "Dress in layers against the cold sea wind.",
+              "The sun disappears behind the horizon as early as 4:30 PM.",
+              "Many restaurants are closed for winter; look for year-round venues.",
+              "The Bura wind can be very strong; avoid exposed cliffs then.",
+              "Lighting conditions for photographers are exceptionally clear in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -506,6 +904,368 @@
           "The stone walls are private property; please don't climb them.",
           "Consider an e-bike for the steeper hills."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die Umgebung von Primošten mit dem Rad. Starten Sie an der Küstenpromenade und machen Sie einen Abstecher in die Altstadt. Der anspruchsvolle Anstieg zur Loreto-Statue wird mit einem Rundumblick belohnt. Fahren Sie weiter zu den Bucavac-Weinbergen, einem UNESCO-Anwärter, und bewundern Sie die mühsam errichteten Steinmauern. Den Abschluss bildet ein entspannter Aufenthalt am Mala Raduča Strand.",
+            "hu": "Fedezze fel Primošten környékét kerékpárral. Kezdjen a tengerparti sétányon, majd tegyen egy kitérőt az óvárosba. A Loretói Szűzanya szobrához vezető kaptatót pazar körpanoráma hálálja meg. Tekerjen tovább a Bucavac szőlőültetvényekhez, a világörökségi várományos kőfalak közé. A túrát egy jól megérdemelt pihenéssel zárja a Mala Raduča strandon.",
+            "ro": "Explorați împrejurimile orașului Primošten cu bicicleta. Începeți pe faleză, apoi faceți o oprire în orașul vechi. Urcarea spre statuia Loreto este răsplătită cu o panoramă de 360 de grade. Continuați spre podgoriile Bucavac, admirând zidurile de piatră construite manual. Încheiați ziua relaxându-vă pe plaja Mala Raduča.",
+            "en": "Explore Primošten's surroundings by bike. Start along the coastal promenade and take a detour into the old town. The challenging climb to the Loreto statue is rewarded with 360-degree views. Ride on to the Bucavac vineyards, a UNESCO tentative site, to see the intricate stone walls. Finish your tour with a well-earned rest at Mala Raduča beach."
+          },
+          "stops": [
+            {
+              "name": "Küstenpromenade",
+              "tip_5lang": {
+                "de": "Flache Strecke entlang des Meeres.",
+                "hu": "Lapos szakasz a tenger mentén.",
+                "ro": "Traseu plat de-a lungul mării.",
+                "en": "Flat route along the seaside."
+              }
+            },
+            {
+              "name": "Das Stadttor",
+              "tip_5lang": {
+                "de": "Fahrräder müssen in der Altstadt geschoben werden.",
+                "hu": "Az óvárosban tolni kell a kerékpárt.",
+                "ro": "Bicicletele trebuie împinse în centrul vechi.",
+                "en": "Bikes must be pushed in the old town area."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Georg",
+              "tip_5lang": {
+                "de": "Kurzer, steiler Anstieg zum Gipfel.",
+                "hu": "Rövid, meredek emelkedő a csúcsra.",
+                "ro": "Urcare scurtă și abruptă spre vârf.",
+                "en": "Short, steep climb to the top."
+              }
+            },
+            {
+              "name": "Statue der Muttergottes von Loreto",
+              "tip_5lang": {
+                "de": "Riesige Statue auf dem Berg Gaj.",
+                "hu": "Hatalmas szobor a Gaj-hegyen.",
+                "ro": "Statuie uriașă pe muntele Gaj.",
+                "en": "Massive statue on Gaj hill."
+              }
+            },
+            {
+              "name": "Weinberge von Bucavac",
+              "tip_5lang": {
+                "de": "Das berühmte 'Steinspitzen'-Muster der Reben.",
+                "hu": "A szőlőtőkék híres kőcsipke mintázata.",
+                "ro": "Celebrul model de 'dantelă de piatră'.",
+                "en": "The famous 'stone lace' pattern of vines."
+              }
+            },
+            {
+              "name": "Strand Mala Raduča",
+              "tip_5lang": {
+                "de": "Belohnung nach der Tour im kühlen Nass.",
+                "hu": "Jutalmazza meg magát egy csobbanással.",
+                "ro": "Recompensa după tur: o baie răcoritoare.",
+                "en": "Reward yourself with a swim after the ride."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Prosciutto und Käse",
+                "tip": "Perfekter Snack für Radfahrer in den Dörfern im Hinterland."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Pršut és sajt",
+                "tip": "Tökéletes falatok a háttérország falvaiban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pršut și brânză",
+                "tip": "Gustarea perfectă în satele din interior."
+              }
+            ],
+            "en": [
+              {
+                "name": "Prosciutto and Cheese",
+                "tip": "Ideal energy snack in the hinterland villages."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Bucavac Aussichtspunkt",
+                "tip": "Stille zwischen den historischen Reben.",
+                "emoji": "🍃"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Bucavac kilátópont",
+                "tip": "Csend a történelmi tőkék között.",
+                "emoji": "🍃"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Punct de belvedere Bucavac",
+                "tip": "Liniște printre viile istorice.",
+                "emoji": "🍃"
+              }
+            ],
+            "en": [
+              {
+                "name": "Bucavac Viewpoint",
+                "tip": "Peace and quiet among historical vines.",
+                "emoji": "🍃"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Flasche Babić",
+                "tip": "Ein edles Souvenir direkt vom Weingut."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Egy palack Babić",
+                "tip": "Nemes ajándék közvetlenül a borászattól."
+              }
+            ],
+            "ro": [
+              {
+                "name": "O sticlă de Babić",
+                "tip": "Un suvenir nobil direct de la cramă."
+              }
+            ],
+            "en": [
+              {
+                "name": "Bottle of Babić",
+                "tip": "A premium souvenir directly from the winery."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Gaj-Hügel.",
+              "Nehmen Sie ausreichend Wasser für das Hinterland mit.",
+              "Die Steinmauern sind Privateigentum, bitte nicht betreten.",
+              "Mieten Sie ein E-Bike für die steilen Hügel."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket a Gaj-hegyről való leereszkedés előtt.",
+              "Vigyen elegendő vizet a távolabbi szakaszokra.",
+              "A kőfalak magántulajdonban vannak, ne másszon rájuk.",
+              "Béreljen e-bike-ot a meredekebb dombokhoz."
+            ],
+            "ro": [
+              "Verificați frânele înainte de a coborî de pe dealul Gaj.",
+              "Luați suficientă apă pentru zonele izolate.",
+              "Zidurile de piatră sunt proprietate privată, nu intrați.",
+              "Închiriați o bicicletă electrică pentru dealurile abrupte."
+            ],
+            "en": [
+              "Check your brakes before descending from Gaj hill.",
+              "Carry plenty of water for the hinterland ride.",
+              "The stone walls are private property; please don't climb them.",
+              "Consider an e-bike for the steeper hills."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Primošten Vorsicht auf den Küstenwegen. Starten Sie an der Promenade, wo der Asphalt griffig bleibt. Meiden Sie bei Nässe die steilen, gepflasterten Wege in der Altstadt. Die Tour zur Loreto-Statue bietet trotz Wolken einen weiten Blick, während die Weinberge von Bucavac bei Regen besonders grün und frisch wirken.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel a tengerparti utakon. Kezdjen a sétányon, ahol az aszfalt kevésbé csúszik. Kerülje a meredek, köves utakat az óváros közelében. A Loreto szoborhoz vezető túra felhős időben is tágas kilátást nyújt, a Bucavac szőlőskertjei pedig ilyenkor különösen zöldnek és frissnek hatnak.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe drumurile de coastă din Primošten. Începeți de pe faleză, unde asfaltul oferă aderență. Evitați drumurile pavate abrupte din zona veche. Turul către statuia Loreto oferă o vedere panoramică chiar și sub nori, în timp ce podgoriile Bucavac par proaspete și verzi pe ploaie.",
+            "en": "Cycling in the rain requires caution on the coastal paths of Primošten. Start at the promenade where the asphalt remains grippy. Avoid steep, paved paths near the old town when wet. The tour to the Loreto statue offers wide views despite the clouds, while the Bucavac vineyards look especially green and fresh in the rain."
+          },
+          "stops": [
+            {
+              "name": "Küstenpromenade",
+              "tip_4lang": {
+                "de": "Fahren Sie langsam wegen Pfützen auf dem Radweg.",
+                "hu": "Hajtson lassan a kerékpárúton lévő tócsák miatt.",
+                "ro": "Mergeți încet din cauza bălților de pe pistă.",
+                "en": "Ride slowly due to puddles on the bike path."
+              }
+            },
+            {
+              "name": "Das Stadttor",
+              "tip_4lang": {
+                "de": "Steigen Sie hier ab; das Pflaster ist bei Nässe sehr glatt.",
+                "hu": "Szálljon le a bicikliről; a kövezet vizesen nagyon csúszik.",
+                "ro": "Coborâți de pe bicicletă; pavajul este foarte alunecos.",
+                "en": "Dismount here; the pavement is very slippery when wet."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Georg",
+              "tip_4lang": {
+                "de": "Stellen Sie das Rad unter den Bäumen nahe der Kirche ab.",
+                "hu": "Parkolja le a biciklit a templom melletti fák alatt.",
+                "ro": "Parcați bicicleta sub copacii de lângă biserică.",
+                "en": "Park your bike under the trees near the church."
+              }
+            },
+            {
+              "name": "Statue der Muttergottes von Loreto",
+              "tip_4lang": {
+                "de": "Der Aufstieg ist bei Regen weniger schweißtreibend.",
+                "hu": "Az emelkedő esőben kevésbé megterhelő a hűvösebb idő miatt.",
+                "ro": "Urcarea este mai puțin obositoare pe ploaie datorită răcorii.",
+                "en": "The climb is less strenuous in the rain due to cooler air."
+              }
+            },
+            {
+              "name": "Weinberge von Bucavac",
+              "tip_4lang": {
+                "de": "Vorsicht auf den unbefestigten Schotterwegen.",
+                "hu": "Vigyázzon a laza kavicsos utakon a dűlők között.",
+                "ro": "Atenție pe drumurile de pietriș neasfaltate.",
+                "en": "Exercise caution on the unpaved gravel paths."
+              }
+            },
+            {
+              "name": "Strand Mala Raduča",
+              "tip_4lang": {
+                "de": "Beenden Sie die Tour an einer überdachten Strandbar.",
+                "hu": "Fejezze be a túrát egy fedett tengerparti bárnál.",
+                "ro": "Încheiați turul la un bar de plajă acoperit.",
+                "en": "Finish your tour at a sheltered beach bar."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie ein Fahrrad mit Schutzblechen gegen Spritzwasser.",
+              "Bremsen Sie auf nassem Untergrund frühzeitig und vorsichtig.",
+              "Vermeiden Sie riskante Kurvenmanöver auf den schmalen Küstenstraßen.",
+              "Die Statue von Loreto bietet kaum Schutz vor Regen, oben ist es oft windig.",
+              "Nehmen Sie wasserdichte Taschen für Wertsachen und Handy mit."
+            ],
+            "hu": [
+              "Használjon sárvédővel felszerelt kerékpárt a felcsapódó víz ellen.",
+              "Nedves talajon fékezzen időben és óvatosan.",
+              "Kerülje a hirtelen kanyarodást a szűk tengerparti utakon.",
+              "A Loreto szobornál nincs fedezék az eső elől, fent gyakran fúj a szél.",
+              "Vigyen vízálló táskát az értékei és a telefonja számára."
+            ],
+            "ro": [
+              "Folosiți o bicicletă cu aripi pentru a evita stropirea.",
+              "Frânați din timp și cu prudență pe suprafețe umede.",
+              "Evitați manevrele bruște pe drumurile înguste de coastă.",
+              "Statuia Loreto nu oferă adăpost; sus este adesea vânt.",
+              "Folosiți genți impermeabile pentru obiectele de valoare."
+            ],
+            "en": [
+              "Use a bike with mudguards to protect against splashes.",
+              "Brake early and gently on wet surfaces.",
+              "Avoid sharp turns on the narrow coastal roads.",
+              "The Loreto statue offers little shelter; it is often windy at the top.",
+              "Bring waterproof bags for your valuables and phone."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad bietet klare Luft und einsame Wege. Starten Sie an der Promenade und genießen Sie die Ruhe. Der Anstieg zur Loreto-Statue hält den Körper warm und belohnt mit einer Fernsicht bis nach Vis. In Bucavac können Sie die einzigartige Struktur der Weinfelder ohne sommerliche Hitze studieren. Der Tag endet am Strand, bevor die Kälte nach Sonnenuntergang spürbar wird.",
+            "hu": "A téli kerékpáros túra tiszta levegőt és elhagyatott utakat kínál. Kezdjen a sétányon és élvezze a csendet. A Loreto szoborhoz vezető emelkedő segít melegen maradni, a jutalom pedig a távoli kilátás akár Vis szigetéig. Bucavacban a szőlőskertek egyedi szerkezetét tanulmányozhatja hőség nélkül. A nap a strandon ér véget, mielőtt a naplemente utáni lehűlés beállna.",
+            "ro": "Un tur de iarnă cu bicicleta oferă aer curat și drumuri libere. Începeți de pe faleză și bucurați-vă de liniște. Urcarea spre statuia Loreto vă va menține calzi și vă va răsplăti cu o vedere până la insula Vis. La Bucavac puteți vedea structura unică a viilor fără caniculă. Ziua se încheie la plajă, înainte ca frigul să se simtă după apus.",
+            "en": "A winter bike tour offers crisp air and solitary paths. Start at the promenade and enjoy the quietness. The climb to the Loreto statue keeps you warm and rewards you with views as far as Vis island. In Bucavac, you can study the unique vineyard structures without the summer heat. The day ends at the beach before the post-sunset chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Küstenpromenade",
+              "tip_4lang": {
+                "de": "Tragen Sie Handschuhe gegen den kalten Fahrtwind.",
+                "hu": "Viseljen kesztyűt a hideg menetszél ellen.",
+                "ro": "Purtați mănuși împotriva vântului rece de mișcare.",
+                "en": "Wear gloves against the cold wind while riding."
+              }
+            },
+            {
+              "name": "Das Stadttor",
+              "tip_4lang": {
+                "de": "Kurzer Stopp für Fotos der leeren Altstadtzufahrt.",
+                "hu": "Rövid megálló az üres óvárosi bejárat fotózásához.",
+                "ro": "Oprire scurtă pentru poze la intrarea goală în oraș.",
+                "en": "Quick stop for photos of the empty old town entrance."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Georg",
+              "tip_4lang": {
+                "de": "Die Sonne wärmt hier mittags die Kirchenmauer.",
+                "hu": "Délben a nap kellemesen melegíti itt a templomfalat.",
+                "ro": "Soarele încălzește zidurile bisericii la prânz.",
+                "en": "The sun warms the church walls here at noon."
+              }
+            },
+            {
+              "name": "Statue der Muttergottes von Loreto",
+              "tip_4lang": {
+                "de": "Zieh dir für die Abfahrt eine winddichte Jacke an.",
+                "hu": "A lejtmenethez vegyen fel szélálló dzsekit.",
+                "ro": "Puneți o jachetă rezistentă la vânt pentru coborâre.",
+                "en": "Put on a windproof jacket for the descent."
+              }
+            },
+            {
+              "name": "Weinberge von Bucavac",
+              "tip_4lang": {
+                "de": "Die Steinmauern wirken im Winter besonders markant.",
+                "hu": "A kőfalak télen különösen karakteres látványt nyújtanak.",
+                "ro": "Zidurile de piatră par foarte marcante iarna.",
+                "en": "The stone walls look particularly striking in winter."
+              }
+            },
+            {
+              "name": "Strand Mala Raduča",
+              "tip_4lang": {
+                "de": "Perfekt für das Ende der Tour vor der Dämmerung.",
+                "hu": "Tökéletes helyszín a túra befejezéséhez szürkület előtt.",
+                "ro": "Perfect pentru finalul turului înainte de amurg.",
+                "en": "Perfect for ending the tour before dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung in Schichten ist für Radfahrer essenziell.",
+              "Die Abfahrten von den Hügeln können sehr kühl sein.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee mit.",
+              "Planen Sie die Rückkehr spätestens für 16:30 Uhr ein.",
+              "Prüfen Sie den Reifendruck; kalte Luft lässt ihn leicht sinken."
+            ],
+            "hu": [
+              "A réteges meleg öltözet elengedhetetlen a kerékpárosoknak.",
+              "A dombokról való leereszkedéskor nagyon hideg lehet.",
+              "Vigyen magával termoszban meleg teát.",
+              "Tervezze a visszaérkezést legkésőbb 16:30-ra.",
+              "Ellenőrizze a guminyomást; a hideg levegő miatt csökkenhet."
+            ],
+            "ro": [
+              "Îmbrăcămintea caldă în straturi este esențială pentru cicliști.",
+              "Coborârile de pe dealuri pot fi foarte reci.",
+              "Luați un termos cu ceai cald la drum.",
+              "Planificați întoarcerea cel târziu până la ora 16:30.",
+              "Verificați presiunea roților; aerul rece o poate scădea."
+            ],
+            "en": [
+              "Layered warm clothing is essential for cyclists.",
+              "Descents from the hills can be very chilly.",
+              "Bring a thermos with warm tea along.",
+              "Plan to be back by 4:30 PM at the latest.",
+              "Check tire pressure; cold air can cause it to drop slightly."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -720,6 +1480,341 @@
           "Combine this trip with a visit to nearby Rogoznica.",
           "Do not drink and drive."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie bequem die Höhepunkte von Primošten. Nach einem Bummel durch die Altstadt fahren Sie hinauf zur monumentalen Statue der Muttergottes von Loreto. Von dort geht es weiter zu den fotogenen Bucavac-Weinbergen. Kehren Sie für ein authentisches Mittagessen ins Zentrum zurück und verbringen Sie den restlichen Nachmittag am kristallklaren Wasser des Mala Raduča Strandes. Ein perfekter Tag für Entdecker und Genießer.",
+            "hu": "Autóval kényelmesen elérheti Primošten legszebb pontjait. Az óvárosi séta után hajtson fel a Loretói Szűzanya monumentális szobrához. Innen folytassa útját a fotogén Bucavac szőlőskertjeihez. Térjen vissza a központba egy autentikus ebédre, majd töltse a délutánt a Mala Raduča strand kristálytiszta vizében. Tökéletes nap a felfedezőknek és a kikapcsolódni vágyóknak egyaránt.",
+            "ro": "Cu mașina puteți ajunge ușor la cele mai frumoase puncte din Primošten. După o plimbare prin centrul vechi, urcați la statuia monumentală Loreto. Continuați spre podgoriile fotogenice Bucavac. Reveniți în centru pentru un prânz autentic și petreceți după-amiaza pe plaja Mala Raduča. O zi perfectă pentru exploratori și iubitorii de confort.",
+            "en": "By car, you can comfortably reach Primošten's highlights. After a stroll through the old town, drive up to the monumental Loreto statue. From there, continue to the photogenic Bucavac vineyards. Return to the center for an authentic lunch and spend the rest of the afternoon at the crystal-clear Mala Raduča beach. A perfect day for explorers and sun-seekers alike."
+          },
+          "stops": [
+            {
+              "name": "Altstadt von Primošten",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem großen Parkplatz am Ortseingang.",
+                "hu": "Parkoljon a város bejáratánál lévő nagy parkolóban.",
+                "ro": "Parcați în parcarea mare de la intrarea în oraș.",
+                "en": "Park in the large lot at the town entrance."
+              }
+            },
+            {
+              "name": "Statue der Muttergottes von Loreto",
+              "tip_5lang": {
+                "de": "Die Straße nach oben ist schmal, aber asphaltiert.",
+                "hu": "Az út felfelé keskeny, de aszfaltozott.",
+                "ro": "Drumul spre vârf este îngust, dar asfaltat.",
+                "en": "The road up is narrow but paved."
+              }
+            },
+            {
+              "name": "Weinberge von Bucavac",
+              "tip_5lang": {
+                "de": "Bester Fotostopp direkt an der Straße.",
+                "hu": "A legjobb fotópont közvetlenül az út mentén.",
+                "ro": "Cel mai bun punct foto chiar lângă drum.",
+                "en": "Best photo stop right by the road."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Georg",
+              "tip_5lang": {
+                "de": "Zweiter Besuch der Halbinsel für das Mittagessen.",
+                "hu": "Második látogatás a félszigeten egy ebédre.",
+                "ro": "A doua vizită în peninsulă pentru prânz.",
+                "en": "Second visit to the peninsula for lunch."
+              }
+            },
+            {
+              "name": "Strand Mala Raduča",
+              "tip_5lang": {
+                "de": "Entspannung bis zum Sonnenuntergang.",
+                "hu": "Pihenés egészen naplementéig.",
+                "ro": "Relaxare până la apusul soarelui.",
+                "en": "Relaxation until sunset."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Frischer Fisch",
+                "tip": "In der Konoba Santa Marina direkt am Meer genießen."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Friss hal",
+                "tip": "Élvezze a Konoba Santa Marinában közvetlenül a tengerparton."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Pește proaspăt",
+                "tip": "Savurați la Konoba Santa Marina, direct pe malul mării."
+              }
+            ],
+            "en": [
+              {
+                "name": "Fresh Fish",
+                "tip": "Enjoy it at Konoba Santa Marina right by the sea."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Aussichtspunkt Loreto",
+                "tip": "Spektakulärer Sonnenuntergang über den Inseln.",
+                "emoji": "🌅"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Loreto kilátópont",
+                "tip": "Látványos naplemente a szigetek felett.",
+                "emoji": "🌅"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Belvedere Loreto",
+                "tip": "Apus spectaculos peste insule.",
+                "emoji": "🌅"
+              }
+            ],
+            "en": [
+              {
+                "name": "Loreto Viewpoint",
+                "tip": "Spectacular sunset over the islands.",
+                "emoji": "🌅"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Weinverkauf ab Hof",
+                "tip": "Suchen Sie nach Schildern im Hinterland."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Borvásárlás a háznál",
+                "tip": "Keresse a táblákat a háttérországban."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vânzare de vin de la producător",
+                "tip": "Căutați semnele în satele din jur."
+              }
+            ],
+            "en": [
+              {
+                "name": "Farm-gate Wine Sales",
+                "tip": "Look for signs in the hinterland villages."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Die Parkgebühren können im Sommer hoch sein.",
+              "Fahren Sie vorsichtig auf den engen Kurven zum Gaj-Hügel.",
+              "Kombinieren Sie den Ausflug mit dem nahegelegenen Rogoznica.",
+              "Trinken Sie keinen Wein, wenn Sie noch fahren müssen."
+            ],
+            "hu": [
+              "A parkolási díjak nyáron magasak lehetnek.",
+              "Vezessen óvatosan a Gaj-hegy szűk kanyarjaiban.",
+              "Kösse össze az utat a közeli Rogoznicával.",
+              "Ne fogyasszon alkoholt, ha még vezetni fog."
+            ],
+            "ro": [
+              "Taxele de parcare pot fi mari în timpul verii.",
+              "Conduceți cu atenție pe curbele strânse spre dealul Gaj.",
+              "Combinați excursia cu o vizită în apropiere, la Rogoznica.",
+              "Nu consumați alcool dacă urmează să conduceți."
+            ],
+            "en": [
+              "Parking fees can be high during summer.",
+              "Drive carefully on the tight bends up to Gaj hill.",
+              "Combine this trip with a visit to nearby Rogoznica.",
+              "Do not drink and drive."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Primošten bei Regen komfortabel und trocken. Beginnen Sie in der Altstadt, wo Parkplätze direkt am Eingang das Umsteigen erleichtern. Die Fahrt zur Loreto-Statue bietet einen Panorama-Blick aus dem geschützten Fahrzeug. In Bucavac können Sie die Weinfelder vom Straßenrand bewundern, bevor Sie den Tag bei der St. Georg Kirche und am Strand Mala Raduča ausklingen lassen.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Primoštent esőben is. Kezdjen az óvárosnál, ahol a bejárat melletti parkolók megkönnyítik a bejutást. A Loreto szoborhoz vezető út alatt a kocsiból is élvezheti a panorámát. Bucavacban az út széléről csodálhatja meg a dűlőket, majd a napot a Szent György templomnál és a Mala Raduča strandnál zárhatja.",
+            "ro": "Cu mașina puteți explora Primošten confortabil și uscat chiar și pe ploaie. Începeți la orașul vechi, unde parcările de la intrare facilitează accesul. Drumul spre statuia Loreto oferă o panoramă din interiorul protejat al vehiculului. La Bucavac puteți admira viile de la marginea drumului, apoi încheiați ziua la Biserica Sf. Gheorghe și plaja Mala Raduča.",
+            "en": "By car, you can explore Primošten comfortably and dry even in the rain. Start at the old town, where parking spots right at the entrance make access easy. The drive to the Loreto statue offers panoramic views from the sheltered vehicle. In Bucavac, admire the vineyards from the roadside before ending the day at St. George Church and Mala Raduča beach."
+          },
+          "stops": [
+            {
+              "name": "Altstadt von Primošten",
+              "tip_4lang": {
+                "de": "Parken Sie auf dem großen Parkplatz direkt am Stadttor.",
+                "hu": "Parkoljon a közvetlenül a városkapu melletti nagy parkolóban.",
+                "ro": "Parcați în parcarea mare chiar lângă poarta orașului.",
+                "en": "Park in the large parking lot right by the city gate."
+              }
+            },
+            {
+              "name": "Statue der Muttergottes von Loreto",
+              "tip_4lang": {
+                "de": "Man kann fast bis ganz nach oben an die Statue heranfahren.",
+                "hu": "Szinte teljesen a szoborig fel lehet hajtani autóval.",
+                "ro": "Se poate conduce aproape până sus, lângă statuie.",
+                "en": "You can drive almost all the way up to the statue."
+              }
+            },
+            {
+              "name": "Weinberge von Bucavac",
+              "tip_4lang": {
+                "de": "Die schmale Straße durch die Felder ist bei Regen rutschig.",
+                "hu": "A dűlők közötti keskeny út esőben csúszós lehet.",
+                "ro": "Drumul îngust prin vii este alunecos pe ploaie.",
+                "en": "The narrow road through the fields is slippery in the rain."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Georg",
+              "tip_4lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zur Kirche bei Regenpausen.",
+                "hu": "Rövid séta a parkolótól a templomig az esőszünetben.",
+                "ro": "Drum scurt pe jos de la parcare la biserică în pauze.",
+                "en": "Short walk from the parking lot to the church during rain breaks."
+              }
+            },
+            {
+              "name": "Strand Mala Raduča",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Parkplätze an der Uferstraße.",
+                "hu": "Használja a tengerparti út melletti parkolóhelyeket.",
+                "ro": "Folosiți locurile de parcare de pe drumul de coastă.",
+                "en": "Use the parking spots along the coastal road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Das Auto dient als perfekter Rückzugsort bei Starkregen.",
+              "Die Parkgebühren sind in der Nebensaison oft günstiger.",
+              "Fahren Sie auf den schmalen Landwegen besonders vorsichtig.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+              "Die Zufahrt zur Loreto-Statue ist steil, aber gut asphaltiert."
+            ],
+            "hu": [
+              "Az autó tökéletes menedék heves esőzés esetén.",
+              "A parkolási díjak főszezonon kívül gyakran alacsonyabbak.",
+              "A keskeny mellékutakon vezessen különösen óvatosan.",
+              "Ne hagyjon értéktárgyat látható helyen az autóban.",
+              "A Loreto szoborhoz vezető út meredek, de jól aszfaltozott."
+            ],
+            "ro": [
+              "Mașina servește ca refugiu perfect în caz de ploaie torențială.",
+              "Tarifele de parcare sunt adesea mai mici în extrasezon.",
+              "Conduceți cu mare prudență pe drumurile secundare înguste.",
+              "Nu lăsați obiecte de valoare la vedere în mașină.",
+              "Accesul spre statuia Loreto este abrupt, dar bine asfaltat."
+            ],
+            "en": [
+              "The car serves as a perfect retreat during heavy rain.",
+              "Parking fees are often lower outside the peak season.",
+              "Drive with extra caution on narrow rural roads.",
+              "Do not leave valuables visible inside the car.",
+              "The access road to the Loreto statue is steep but well-paved."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter genießen Autofahrer die einfache Parkplatzsuche in Primošten. Die Route führt Sie zur ruhigen Altstadt und hinauf zur Loreto-Statue, wo die Wintersonne spektakuläre Lichtspiele auf dem Meer erzeugt. Besuchen Sie die Weinberge von Bucavac für ein Foto der markanten Steinmauern und beenden Sie die Tour an der St. Georg Kirche für den besten Ausblick, bevor Sie sich am Strand Mala Raduča entspannen.",
+            "hu": "Télen az autósok élvezhetik a könnyű parkolást Primoštenben. Az útvonal a csendes óvároshoz és a Loreto szoborhoz vezet, ahol a téli nap látványos fényeket vet a tengerre. Látogasson el Bucavacba a különleges kőfalak fotózásához, majd zárja a túrát a Szent György templomnál a legjobb kilátásért, mielőtt megpihenne a Mala Raduča strandon.",
+            "ro": "Iarna, șoferii profită de parcarea ușoară în Primošten. Ruta vă duce la orașul vechi liniștit și sus la statuia Loreto, unde soarele de iarnă creează jocuri de lumină pe mare. Vizitați viile Bucavac pentru o poză cu zidurile de piatră și încheiați turul la Biserica Sf. Gheorghe pentru cea mai bună vedere.",
+            "en": "In winter, drivers enjoy the ease of finding parking in Primošten. The route takes you to the quiet old town and up to the Loreto statue, where the winter sun creates spectacular light displays on the sea. Visit the Bucavac vineyards for a photo of the striking stone walls and end the tour at St. George Church for the best views."
+          },
+          "stops": [
+            {
+              "name": "Altstadt von Primošten",
+              "tip_4lang": {
+                "de": "Im Winter ist der Parkplatz oft kostenfrei oder sehr günstig.",
+                "hu": "Télen a parkoló gyakran ingyenes vagy nagyon olcsó.",
+                "ro": "Iarna, parcarea este adesea gratuită sau foarte ieftină.",
+                "en": "In winter, parking is often free or very inexpensive."
+              }
+            },
+            {
+              "name": "Statue der Muttergottes von Loreto",
+              "tip_4lang": {
+                "de": "Genießen Sie den Windschutz im Auto bis zum Aussteigen.",
+                "hu": "Élvezze a szélvédelmet az autóban a kiszállásig.",
+                "ro": "Bucurați-vă de adăpostul mașinii până la coborâre.",
+                "en": "Enjoy the shelter from the wind inside the car until you exit."
+              }
+            },
+            {
+              "name": "Weinberge von Bucavac",
+              "tip_4lang": {
+                "de": "Klarste Sicht auf die Felder durch die trockene Luft.",
+                "hu": "A száraz levegő miatt itt a legtisztább a rálátás a dűlőkre.",
+                "ro": "Cea mai clară vedere asupra viilor datorită aerului uscat.",
+                "en": "Clear views of the fields thanks to the dry winter air."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Georg",
+              "tip_4lang": {
+                "de": "Die Parkplätze direkt oben sind im Winter frei verfügbar.",
+                "hu": "A fenti parkolóhelyek télen szabadon elérhetőek.",
+                "ro": "Locurile de parcare de sus sunt liber disponibile iarna.",
+                "en": "The parking spots right at the top are freely available in winter."
+              }
+            },
+            {
+              "name": "Strand Mala Raduča",
+              "tip_4lang": {
+                "de": "Kurzer Stopp für einen Strandspaziergang ohne Hitze.",
+                "hu": "Rövid megálló egy tengerparti sétához hőség nélkül.",
+                "ro": "Oprire scurtă pentru o plimbare pe plajă fără caniculă.",
+                "en": "Short stop for a beach walk without the heat."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz im Scheibenwischwasser.",
+              "Die tiefstehende Sonne kann beim Fahren stark blenden.",
+              "Vermeiden Sie bei Bura-Warnung Fahrten in exponierte Höhen.",
+              "Nutzen Sie die kurzen Wege dank freier Parkplätze.",
+              "Die Straßen sind im Winter oft leer, aber Vorsicht vor Raureif."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosó folyadékban.",
+              "Az alacsonyan járó nap vezetés közben erősen vakíthat.",
+              "Bóra-riasztás esetén kerülje a kitett magaslati utakat.",
+              "Használja ki a szabad parkolók nyújtotta rövid gyalogutakat.",
+              "Az utak télen üresek, de vigyázzon az esetleges zúzmarára."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de parbriz.",
+              "Soarele jos poate fi foarte orbitor în timpul condusului.",
+              "Evitați drumurile expuse la înălțime în caz de alertă de Bura.",
+              "Profită de distanțele scurte datorită parcărilor libere.",
+              "Drumurile sunt libere iarna, dar atenție la chiciură."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer fluid.",
+              "The low winter sun can be very blinding while driving.",
+              "Avoid driving to exposed high areas during Bura alerts.",
+              "Take advantage of short walking distances from free parking spots.",
+              "Roads are often empty in winter, but watch out for frost."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -934,6 +2029,341 @@
           "Buses are crowded in summer; arrive at the stop early.",
           "Use the 'Arriva' app for real-time information."
         ]
+      },
+      "variants": {
+        "sunny": {
+          "narrative_4lang": {
+            "de": "Primošten ist ideal mit dem öffentlichen Bus erreichbar. Die Haltestelle liegt zentral, von wo aus Sie direkt in die Altstadt spazieren können. Besuchen Sie die historischen Kirchen und genießen Sie die maritime Atmosphäre auf der Promenade. Den Nachmittag verbringen Sie entspannt am Strand Mala Raduča, der ebenfalls fußläufig zur Haltestelle liegt. Eine stressfreie Art, dieses Juwel an der Adria ohne eigenes Auto zu erleben.",
+            "hu": "Primošten ideálisan elérhető távolsági buszokkal. A megálló központi helyen van, ahonnan azonnal az óvárosba sétálhat. Látogassa meg a történelmi templomokat, és élvezze a tengerparti sétány hangulatát. A délutánt töltse pihenéssel a Mala Raduča strandon, amely szintén sétatávolságra van a buszmegállótól. Stresszmentes módja az adriai ékszerdoboz felfedezésének autó nélkül.",
+            "ro": "Primošten este ușor accesibil cu autobuzul public. Stația este centrală, permițându-vă să mergeți direct în orașul vechi. Vizitați bisericile istorice și bucurați-vă de atmosfera maritimă de pe faleză. Petreceți după-amiaza pe plaja Mala Raduča, aflată aproape de stație. O modalitate fără stres de a experimenta această bijuterie a Adriaticii fără mașină.",
+            "en": "Primošten is easily accessible by public bus. The stop is centrally located, letting you walk straight into the old town. Visit the historic churches and soak up the maritime atmosphere on the promenade. Spend a relaxing afternoon at Mala Raduča beach, also within walking distance of the bus stop. A stress-free way to experience this Adriatic gem without a car."
+          },
+          "stops": [
+            {
+              "name": "Altstadt von Primošten",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt direkt an der Hauptstraße.",
+                "hu": "A buszmegálló közvetlenül a főút mellett van.",
+                "ro": "Stația de autobuz este chiar pe drumul principal.",
+                "en": "The bus stop is right on the main road."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Rochus",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang von der Haltestelle.",
+                "hu": "Rövid séta a megállótól.",
+                "ro": "Scurtă plimbare de la stație.",
+                "en": "Short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Georg",
+              "tip_5lang": {
+                "de": "Höchster begehbarer Punkt der Insel.",
+                "hu": "A sziget legmagasabb pontja gyalog.",
+                "ro": "Cel mai înalt punct accesibil pe jos.",
+                "en": "Highest walkable point on the island."
+              }
+            },
+            {
+              "name": "Küstenpromenade",
+              "tip_5lang": {
+                "de": "Verbindet die Halbinsel mit den Stränden.",
+                "hu": "Összeköti a félszigetet a strandokkal.",
+                "ro": "Conectează peninsula cu plajele.",
+                "en": "Connects the peninsula with the beaches."
+              }
+            },
+            {
+              "name": "Strand Mala Raduča",
+              "tip_5lang": {
+                "de": "Nur wenige Gehminuten zur Bushaltestelle.",
+                "hu": "Pár perc séta a buszmegállóig.",
+                "ro": "Doar câteva minute de mers până la autobuz.",
+                "en": "Just a few minutes' walk to the bus stop."
+              }
+            }
+          ],
+          "gastro_picks": {
+            "de": [
+              {
+                "name": "Eiscreme",
+                "tip": "Holen Sie sich eine Kugel bei den Ständen an der Promenade."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Fagylalt",
+                "tip": "Vegyen egy gombócot a sétány menti árusoknál."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Înghețată",
+                "tip": "Luați o cupă de la tonetele de pe faleză."
+              }
+            ],
+            "en": [
+              {
+                "name": "Ice Cream",
+                "tip": "Get a scoop at the stalls along the promenade."
+              }
+            ]
+          },
+          "quiet_picks": {
+            "de": [
+              {
+                "name": "Kirchgarten St. Rochus",
+                "tip": "Kleiner Rückzugsort abseits der Menge.",
+                "emoji": "🧘"
+              }
+            ],
+            "hu": [
+              {
+                "name": "Szent Rókus templomkert",
+                "tip": "Kis menedék a tömeg elől.",
+                "emoji": "🧘"
+              }
+            ],
+            "ro": [
+              {
+                "name": "Grădina bisericii Sf. Roch",
+                "tip": "Mic refugiu departe de mulțime.",
+                "emoji": "🧘"
+              }
+            ],
+            "en": [
+              {
+                "name": "St. Roch Church Garden",
+                "tip": "Small escape from the crowds.",
+                "emoji": "🧘"
+              }
+            ]
+          },
+          "shopping_picks": {
+            "de": [
+              {
+                "name": "Ansichtskarten",
+                "tip": "In den Kiosken nahe der Haltestelle erhältlich."
+              }
+            ],
+            "hu": [
+              {
+                "name": "Képeslapok",
+                "tip": "A megálló melletti újságosoknál kapható."
+              }
+            ],
+            "ro": [
+              {
+                "name": "Vederi",
+                "tip": "Disponibile la chioșcurile de lângă stație."
+              }
+            ],
+            "en": [
+              {
+                "name": "Postcards",
+                "tip": "Available at kiosks near the bus stop."
+              }
+            ]
+          },
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan für die Rückfahrt vorab.",
+              "Tickets können oft direkt beim Fahrer gekauft werden.",
+              "Die Busse sind im Sommer oft voll, kommen Sie früher.",
+              "Nutzen Sie die App 'Arriva' für Echtzeit-Infos."
+            ],
+            "hu": [
+              "Előre ellenőrizze a visszautazás menetrendjét.",
+              "A jegyeket gyakran a sofőrnél is meg lehet venni.",
+              "A buszok nyáron zsúfoltak lehetnek, érkezzen korábban.",
+              "Használja az 'Arriva' appot a valós idejű infókért."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor pentru întoarcere.",
+              "Biletele pot fi cumpărate adesea direct de la șofer.",
+              "Autobuzele sunt pline vara, veniți mai devreme.",
+              "Folosiți aplicația 'Arriva' pentru informații în timp real."
+            ],
+            "en": [
+              "Check the bus schedule for the return trip in advance.",
+              "Tickets can often be bought directly from the driver.",
+              "Buses are crowded in summer; arrive at the stop early.",
+              "Use the 'Arriva' app for real-time information."
+            ]
+          }
+        },
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Transit für einen entspannten Tag in Primošten trotz Regen. Die Busse bringen Sie nahe an die Altstadt, von wo aus Sie die Kirchen St. Rochus und St. Georg besichtigen können. Verbringen Sie den Mittag in den geschützten Cafés an der Promenade. Da der Strand Mala Raduča im Regen leer ist, bietet er einen ruhigen Abschluss, bevor Sie bequem mit dem Bus zurückfahren.",
+            "hu": "Használja a tömegközlekedést egy pihentető naphoz Primoštenben esőben is. A buszok közel visznek az óvároshoz, ahonnan meglátogathatja a Szent Rókus és Szent György templomokat. Töltse a délidőt a sétány védett kávézóiban. Mivel a Mala Raduča strand esőben üres, nyugodt lezárást nyújt, mielőtt kényelmesen visszautazna a busszal.",
+            "ro": "Folosiți transportul în comun pentru o zi relaxantă în Primošten, în ciuda ploii. Autobuzele vă lasă aproape de orașul vechi, de unde puteți vizita bisericile Sf. Rochus și Sf. Gheorghe. Petreceți prânzul în cafenelele protejate de pe faleză. Plaja Mala Raduča oferă un final liniștit înainte de a lua autobuzul înapoi.",
+            "en": "Use transit for a relaxed day in Primošten despite the rain. Buses drop you off near the old town, from where you can visit St. Roch and St. George churches. Spend midday in the sheltered cafes along the promenade. As Mala Raduča beach is empty in the rain, it offers a peaceful conclusion before your comfortable bus ride back."
+          },
+          "stops": [
+            {
+              "name": "Altstadt von Primošten",
+              "tip_4lang": {
+                "de": "Die Bushaltestelle ist nur wenige Gehminuten vom Stadttor entfernt.",
+                "hu": "A buszmegálló mindössze pár perc sétára van a városkaputól.",
+                "ro": "Stația de autobuz este la doar câteva minute de mers de poartă.",
+                "en": "The bus stop is only a few minutes' walk from the city gate."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Rochus",
+              "tip_4lang": {
+                "de": "Kleiner, trockener Rückzugsort unweit der Hauptgasse.",
+                "hu": "Kicsi, száraz menedékhely nem messze a főutcától.",
+                "ro": "Un refugiu mic și uscat nu departe de strada principală.",
+                "en": "Small, dry retreat not far from the main street."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Georg",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Regenpause für den Aufstieg durch die Altstadt.",
+                "hu": "Használja ki az esőszünetet az óvárosi emelkedőhöz.",
+                "ro": "Profită de pauza de ploaie pentru urcarea prin orașul vechi.",
+                "en": "Use a rain break for the walk up through the old town."
+              }
+            },
+            {
+              "name": "Küstenpromenade",
+              "tip_4lang": {
+                "de": "Suchen Sie Schutz unter den Markisen der Cafés.",
+                "hu": "Keressen menedéket a kávézók napellenzői alatt.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor.",
+                "en": "Seek shelter under the awnings of the cafes."
+              }
+            },
+            {
+              "name": "Strand Mala Raduča",
+              "tip_4lang": {
+                "de": "Die Wartehäuschen an der Straße bieten Schutz vor dem Bus.",
+                "hu": "Az út menti várók védelmet nyújtanak a busz érkezéséig.",
+                "ro": "Adăposturile din stație oferă protecție până la autobuz.",
+                "en": "Bus shelters by the road provide cover until the bus arrives."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busfahrpläne, da sie bei Regen variieren können.",
+              "Haben Sie Kleingeld oder eine Karte für das Ticket bereit.",
+              "Die Hauptbushaltestelle bietet meist ein Dach als Regenschutz.",
+              "Nutzen Sie die Zeit im Bus, um die Landschaft trocken zu sehen.",
+              "In der Nebensaison fahren Busse seltener; planen Sie genau."
+            ],
+            "hu": [
+              "Ellenőrizze a buszmenetrendet, esőben lehetnek eltérések.",
+              "Készítsen elő aprópénzt vagy kártyát a jegyvásárláshoz.",
+              "A fő buszmegálló általában fedett, véd az esőtől.",
+              "Használja ki a buszozást a táj szárazon történő megtekintésére.",
+              "Szezonon kívül a buszok ritkábban járnak; tervezzen pontosan."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor; pot exista variații pe ploaie.",
+              "Aveți pregătit mărunt sau cardul pentru bilet.",
+              "Stația principală de autobuz are de obicei acoperiș.",
+              "Folosiți timpul în autobuz pentru a vedea peisajul la uscat.",
+              "În extrasezon autobuzele sunt mai rare; planificați riguros."
+            ],
+            "en": [
+              "Check bus schedules as they may vary during rainy weather.",
+              "Have small change or a card ready for the ticket.",
+              "The main bus stop usually has a roof for rain protection.",
+              "Use the bus ride to view the scenery while staying dry.",
+              "Buses run less frequently in the off-season; plan carefully."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Transit nach Primošten ist ideal für einen stressfreien Besuch. Die Busse bringen Sie zum Eingang der ruhigen Altstadt. Genießen Sie den Spaziergang zur St. Georg Kirche bei klarer Luft und den einsamen Blick auf die Küstenpromenade. Da es früh dunkel wird, nutzen Sie die Nachmittagsstunden am Strand Mala Raduča, bevor Sie den Bus für die Rückfahrt nehmen.",
+            "hu": "A téli tömegközlekedés Primoštenbe ideális egy stresszmentes látogatáshoz. A buszok a csendes óváros bejáratához viszik. Élvezze a sétát a Szent György templomhoz a tiszta levegőben, és a magányos kilátást a tengerparti sétányról. Mivel korán sötétedik, használja ki a délutáni órákat a Mala Raduča strandon a visszabuszozás előtt.",
+            "ro": "Transportul de iarnă spre Primošten este ideal pentru o vizită fără stres. Autobuzele vă lasă la intrarea în orașul vechi liniștit. Bucurați-vă de plimbarea spre Biserica Sf. Gheorghe în aerul curat. Deoarece se întunecă devreme, profitați de orele după-amiezii la plajă înainte de a lua autobuzul înapoi.",
+            "en": "Winter transit to Primošten is ideal for a stress-free visit. Buses drop you off at the entrance of the quiet old town. Enjoy the walk to St. George Church in the crisp air and the solitary view of the coastal promenade. As it gets dark early, utilize the afternoon hours at Mala Raduča beach before catching the bus back."
+          },
+          "stops": [
+            {
+              "name": "Altstadt von Primošten",
+              "tip_4lang": {
+                "de": "Der Busbahnhof liegt zentral für den Start der Tour.",
+                "hu": "A buszállomás központi helyen van a túra indításához.",
+                "ro": "Autogara este situată central pentru începerea turului.",
+                "en": "The bus station is centrally located for starting the tour."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Rochus",
+              "tip_4lang": {
+                "de": "Ruhiger Ort für Besinnung im winterlichen Primošten.",
+                "hu": "Csendes hely az elmélyüléshez a téli Primoštenben.",
+                "ro": "Loc liniștit pentru reflecție în Primošten-ul de iarnă.",
+                "en": "Quiet place for reflection in winter Primošten."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Georg",
+              "tip_4lang": {
+                "de": "Wärmen Sie sich kurz im geschützten Vorraum auf.",
+                "hu": "Melegedjen fel egy kicsit a védett előtérben.",
+                "ro": "Încălziți-vă puțin în pridvorul protejat.",
+                "en": "Warm up briefly in the sheltered porch area."
+              }
+            },
+            {
+              "name": "Küstenpromenade",
+              "tip_4lang": {
+                "de": "Wintersonne genießen, bevor sie gegen 16:30 Uhr sinkt.",
+                "hu": "Élvezze a téli napsütést, mielőtt 16:30 körül lebukik.",
+                "ro": "Bucurați-vă de soare înainte de a apune la ora 16:30.",
+                "en": "Enjoy the winter sun before it sets around 4:30 PM."
+              }
+            },
+            {
+              "name": "Strand Mala Raduča",
+              "tip_4lang": {
+                "de": "Halten Sie die Rückfahrzeiten im Blick, um Kälte zu meiden.",
+                "hu": "Figyelje a visszaindulást, hogy elkerülje az esti lehűlést.",
+                "ro": "Urmăriți orele de plecare pentru a evita frigul serii.",
+                "en": "Keep an eye on departure times to avoid the evening cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter seltener als im Sommer (Winterfahrplan).",
+              "Warten Sie im windgeschützten Bereich der Haltestelle.",
+              "Ein heißes Getränk to-go macht das Warten angenehmer.",
+              "Die letzte Rückfahrt ist oft schon am frühen Abend.",
+              "Informationen zu Fahrplänen finden Sie oft an der Haltestelle."
+            ],
+            "hu": [
+              "A buszok télen ritkábban járnak, mint nyáron (téli menetrend).",
+              "Várjon a megálló szélvédett részén.",
+              "Egy elvitelre kért forró ital kellemesebbé teszi a várakozást.",
+              "Az utolsó járat gyakran már kora este visszaindul.",
+              "A menetrendi információkat általában kifüggesztik a megállóban."
+            ],
+            "ro": [
+              "Autobuzele circulă mai rar iarna decât vara (orar de iarnă).",
+              "Așteptați în zona protejată de vânt a stației.",
+              "O băutură caldă la pachet face așteptarea mai plăcută.",
+              "Ultima cursă de întoarcere este adesea devreme în seară.",
+              "Informațiile despre orar sunt de obicei afișate în stație."
+            ],
+            "en": [
+              "Buses run less frequently in winter (winter timetable).",
+              "Wait in the wind-sheltered area of the stop.",
+              "A hot drink to-go makes waiting more comfortable.",
+              "The last return trip is often in the early evening.",
+              "Schedule information is usually posted at the stop."
+            ]
+          }
+        }
       }
     }
   },
