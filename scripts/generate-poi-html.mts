@@ -611,8 +611,16 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
     return [a, b];
   }
 
+  function pickStr(v: any): string {
+    if (typeof v === "string") return v;
+    if (v && typeof v === "object") {
+      return v[lang] || v.en || v.de || v.hu || v.ro || Object.values(v).find((x) => typeof x === "string") as string || "";
+    }
+    return "";
+  }
   function renderStopCard(s: any, i: number, prevCoords: [number, number] | null, mode: string): string {
-    const tip = (s.tip_5lang || {})[lang] || "";
+    const name = pickStr(s.name);
+    const tip = pickStr((s.tip_5lang || {})[lang] || s.tip_5lang);
     const tm = TRAVEL_MODE[mode] || "driving";
     const [lat, lon] = toLatLon(s.coords);
     const gmaps = prevCoords
@@ -633,7 +641,7 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
     if (links.getyourguide) moreBtns.push(`<a class="plz-itin-link" href="${links.getyourguide}" target="_blank" rel="sponsored nofollow noopener" title="Tickets">🎟️</a>`);
     if (links.tripadvisor) moreBtns.push(`<a class="plz-itin-link" href="${links.tripadvisor}" target="_blank" rel="sponsored nofollow noopener" title="TripAdvisor">⭐</a>`);
     const moreHtml = moreBtns.length ? `<details class="plz-itin-more"><summary>🔗</summary>${moreBtns.join("")}</details>` : "";
-    return `<div class="plz-itin-card" data-type="sight"><div class="plz-itin-cat">${icon}</div><div class="plz-itin-time">${escapeHtml(s.arrive_at)} · ${s.stay_min}'</div><h3>${escapeHtml(s.name)}</h3><div class="plz-itin-tip">${escapeHtml(tip)}</div><div class="plz-itin-links">${visibleBtns.join("")}${moreHtml}</div></div>`;
+    return `<div class="plz-itin-card" data-type="sight"><div class="plz-itin-cat">${icon}</div><div class="plz-itin-time">${escapeHtml(s.arrive_at)} · ${s.stay_min}'</div><h3>${escapeHtml(name)}</h3><div class="plz-itin-tip">${escapeHtml(tip)}</div><div class="plz-itin-links">${visibleBtns.join("")}${moreHtml}</div></div>`;
   }
 
   function renderExtras(picks: any, kind: string): string {
@@ -641,7 +649,7 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
     if (!arr.length) return "";
     return arr.map((it: any) => {
       const emoji = it.emoji || ({ gastro: "🍽️", shopping: "🛍️", quiet: "🧘" } as any)[kind] || "•";
-      return `<div class="plz-itin-card" data-type="${kind}"><div class="plz-itin-cat">${emoji}</div><h3>${escapeHtml(it.name || "")}</h3><div class="plz-itin-tip">${escapeHtml(it.tip || "")}</div></div>`;
+      return `<div class="plz-itin-card" data-type="${kind}"><div class="plz-itin-cat">${emoji}</div><h3>${escapeHtml(pickStr(it.name))}</h3><div class="plz-itin-tip">${escapeHtml(pickStr(it.tip))}</div></div>`;
     }).join("");
   }
 
